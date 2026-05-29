@@ -1,6 +1,6 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Sons of Legion",
-  "num_followers": 1069379,
+  "num_followers": 1069419,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
@@ -196,7 +196,7 @@
       "added_at": "2026-05-15 04:01:33",
       "album": {
         "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/4PnsPNH41o40lO1TjXZufB"
+        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
         }
       ],
-      "duration_ms": 193146,
-      "name": "Silver Wave",
-      "url": "https://open.spotify.com/track/5dsWR4AuIjIVi5DWj7slaB"
+      "duration_ms": 187200,
+      "name": "Dark and Stormy",
+      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -284,7 +284,7 @@
       "added_at": "2026-05-15 04:01:33",
       "album": {
         "name": "Dark and Stormy",
-        "url": "https://open.spotify.com/album/5mR5SYkDxay9IuM5624fDx"
+        "url": "https://open.spotify.com/album/4PnsPNH41o40lO1TjXZufB"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Dark and Stormy",
-      "url": "https://open.spotify.com/track/0jC82twXzqYaIiOQKaOlTl"
+      "duration_ms": 193146,
+      "name": "Silver Wave",
+      "url": "https://open.spotify.com/track/5dsWR4AuIjIVi5DWj7slaB"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/2LLMqNFixxuY0ea3pzRvc5"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 253657,
-      "name": "Justified",
-      "url": "https://open.spotify.com/track/1AYBEB31ytpqhUZGeXtJi8"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "The Winding Way",
         "url": "https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Roots & Wings",
-        "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/2LLMqNFixxuY0ea3pzRvc5"
       },
       "artists": [
         {
-          "name": "Amani Burnham",
-          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
         }
       ],
-      "duration_ms": 226240,
-      "name": "Roots & Wings",
-      "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
+      "duration_ms": 253657,
+      "name": "Justified",
+      "url": "https://open.spotify.com/track/1AYBEB31ytpqhUZGeXtJi8"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -487,6 +471,22 @@
       "duration_ms": 152824,
       "name": "Greyhound Bus Blues",
       "url": "https://open.spotify.com/track/3kFo9yQT1AcBMUQjwExLd2"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Roots & Wings",
+        "url": "https://open.spotify.com/album/31VSvPpkcluGFzHwBWP9uL"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "duration_ms": 226240,
+      "name": "Roots & Wings",
+      "url": "https://open.spotify.com/track/7eGKkTJGAjTHckLuIEsmjG"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -811,6 +811,26 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
+        "name": "Close To Me (with Madison Hughes)",
+        "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
+      },
+      "artists": [
+        {
+          "name": "The Deltaz",
+          "url": "https://open.spotify.com/artist/2Ux8BRWypmo461Vdorxx9G"
+        },
+        {
+          "name": "Madison Hughes",
+          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+        }
+      ],
+      "duration_ms": 178869,
+      "name": "Close To Me (with Madison Hughes)",
+      "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
         "name": "The Mule",
         "url": "https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m"
       },
@@ -847,6 +867,38 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
+        "name": "What I Wouldn't Do",
+        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
+      },
+      "artists": [
+        {
+          "name": "Shantaia",
+          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
+        }
+      ],
+      "duration_ms": 189739,
+      "name": "What I Wouldn't Do",
+      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "House On Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
+      },
+      "artists": [
+        {
+          "name": "Toby Lee",
+          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Saviour - Unplugged",
+      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
         "name": "Lahaina (feat. Mick Fleetwood, Jake Shimabukuro & Henry Kapono)",
         "url": "https://open.spotify.com/album/4eXoo5d1oJ4A8fH9BnDYOK"
       },
@@ -875,38 +927,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "House On Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/31vki7hqYMXMrVZePwMzKj"
-      },
-      "artists": [
-        {
-          "name": "Toby Lee",
-          "url": "https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Saviour - Unplugged",
-      "url": "https://open.spotify.com/track/3tZ3CSFytTQT6ZfYedDebH"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
-        "name": "What I Wouldn't Do",
-        "url": "https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A"
-      },
-      "artists": [
-        {
-          "name": "Shantaia",
-          "url": "https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T"
-        }
-      ],
-      "duration_ms": 189739,
-      "name": "What I Wouldn't Do",
-      "url": "https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Switch On",
         "url": "https://open.spotify.com/album/5hz1I6rOVfEQWglUoS9ZJt"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 258218,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/1I9Uda51gz1rbjh0z7Xu6T"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
-        "name": "Close To Me (with Madison Hughes)",
-        "url": "https://open.spotify.com/album/5cW5YQbeLiPAllNclJEjfG"
-      },
-      "artists": [
-        {
-          "name": "The Deltaz",
-          "url": "https://open.spotify.com/artist/2Ux8BRWypmo461Vdorxx9G"
-        },
-        {
-          "name": "Madison Hughes",
-          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
-        }
-      ],
-      "duration_ms": 178869,
-      "name": "Close To Me (with Madison Hughes)",
-      "url": "https://open.spotify.com/track/3us3Ixr3f3gvG18X1SVe94"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
+        "name": "Blues Worse Than I Ever Had",
+        "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Blues Worse Than I Ever Had",
+      "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
         "name": "Everything's Fine",
         "url": "https://open.spotify.com/album/1h64ZVnu3Zds9ZKRJcOE8k"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 234596,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/4zAonFIPy28okpnSUMzceT"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
-        "name": "Blues Worse Than I Ever Had",
-        "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Blues Worse Than I Ever Had",
-      "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Shoulda Been",
-        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
-      },
-      "artists": [
-        {
-          "name": "Bryan Elijah Smith",
-          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
-        }
-      ],
-      "duration_ms": 157125,
-      "name": "Man I Used To Be",
-      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "I\u2019m Done Runnin'",
         "url": "https://open.spotify.com/album/4If94wqhZcb8clR5HOT9tt"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Let the Music Get Down in Your Soul",
-        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
+        "name": "Shoulda Been",
+        "url": "https://open.spotify.com/album/3YM3tMxwTxvHAkdPruItCP"
       },
       "artists": [
         {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+          "name": "Bryan Elijah Smith",
+          "url": "https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre"
         }
       ],
-      "duration_ms": 204986,
-      "name": "Let the Music Get Down in Your Soul",
-      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
+      "duration_ms": 157125,
+      "name": "Man I Used To Be",
+      "url": "https://open.spotify.com/track/7mhT5jd6rL9SBWRxZv8o3U"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1143,6 +1127,22 @@
       "duration_ms": 261760,
       "name": "Back Where I Started",
       "url": "https://open.spotify.com/track/4GmCZ7NU6SHgJO0rL35ri6"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Let the Music Get Down in Your Soul",
+        "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Let the Music Get Down in Your Soul",
+      "url": "https://open.spotify.com/track/3Kt8zwpgfewy0mespQa7Ew"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "The Hammer & The Rose",
-        "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
-      },
-      "artists": [
-        {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
-        }
-      ],
-      "duration_ms": 247720,
-      "name": "Tonight Belongs to You",
-      "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Flang Dang",
         "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "The Love Endeavour",
-        "url": "https://open.spotify.com/album/40IiLXS7PRcNBriqxjkZlE"
+        "name": "The Hammer & The Rose",
+        "url": "https://open.spotify.com/album/3S0f9Ok4DDuYRtKy0JPZ2v"
       },
       "artists": [
         {
-          "name": "PAPA | PEET",
-          "url": "https://open.spotify.com/artist/5nywxllqw4x855jWWByQgL"
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
         }
       ],
-      "duration_ms": 275712,
-      "name": "The Love Endeavour",
-      "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
+      "duration_ms": 247720,
+      "name": "Tonight Belongs to You",
+      "url": "https://open.spotify.com/track/7DTD0QN3IyX2QCgsM5z8zK"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
+        "name": "The Love Endeavour",
+        "url": "https://open.spotify.com/album/40IiLXS7PRcNBriqxjkZlE"
+      },
+      "artists": [
+        {
+          "name": "PAPA | PEET",
+          "url": "https://open.spotify.com/artist/5nywxllqw4x855jWWByQgL"
+        }
+      ],
+      "duration_ms": 275712,
+      "name": "The Love Endeavour",
+      "url": "https://open.spotify.com/track/6BcEUibSqPqWJAxHgiZrle"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
         "name": "You Can't Love Me",
         "url": "https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l"
       },
@@ -1275,26 +1275,6 @@
       "duration_ms": 251946,
       "name": "You Can't Love Me",
       "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
-        "name": "Revelations",
-        "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
-      },
-      "artists": [
-        {
-          "name": "Chris Tapp",
-          "url": "https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN"
-        },
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 221239,
-      "name": "Revelations",
-      "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1335,18 +1315,22 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Crisscross Way",
-        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+        "name": "Revelations",
+        "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
       },
       "artists": [
         {
-          "name": "ggwendolyn",
-          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+          "name": "Chris Tapp",
+          "url": "https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN"
+        },
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
         }
       ],
-      "duration_ms": 164344,
-      "name": "Crisscross Way",
-      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
+      "duration_ms": 221239,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1367,6 +1351,22 @@
       "duration_ms": 243219,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/02OxBW5LOc4PAjf0dj1buK"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Crisscross Way",
+        "url": "https://open.spotify.com/album/4ieVGOXktMLGjcLYv8i7Jb"
+      },
+      "artists": [
+        {
+          "name": "ggwendolyn",
+          "url": "https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi"
+        }
+      ],
+      "duration_ms": 164344,
+      "name": "Crisscross Way",
+      "url": "https://open.spotify.com/track/1meNMO8MXPNLm5I5mxQiv5"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1403,6 +1403,26 @@
       "duration_ms": 159007,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/5cN99kZ1ybpn5DIZvksWWG"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Gathering Forces",
+        "url": "https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF"
+      },
+      "artists": [
+        {
+          "name": "Jonah Smith",
+          "url": "https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC"
+        },
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        }
+      ],
+      "duration_ms": 185399,
+      "name": "Gathering Forces",
+      "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
     },
     {
       "added_at": "2026-05-15 04:01:33",
@@ -1623,26 +1643,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Gathering Forces",
-        "url": "https://open.spotify.com/album/4n5fU42lZ03DP7fSatbpXF"
-      },
-      "artists": [
-        {
-          "name": "Jonah Smith",
-          "url": "https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC"
-        },
-        {
-          "name": "Family Company",
-          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
-        }
-      ],
-      "duration_ms": 185399,
-      "name": "Gathering Forces",
-      "url": "https://open.spotify.com/track/6JTI6WG7Y8ZmFya41ksK4E"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "Bad Spell (Acoustic)",
         "url": "https://open.spotify.com/album/5ZyvNeLITovl8Vuk6vKNxX"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-05-15 04:01:33",
       "album": {
-        "name": "Noah's Children",
-        "url": "https://open.spotify.com/album/6mg5QcrnRs8u2CuX1NWRTS"
-      },
-      "artists": [
-        {
-          "name": "Josh Ritter",
-          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
-        }
-      ],
-      "duration_ms": 264629,
-      "name": "Noah's Children",
-      "url": "https://open.spotify.com/track/3h4ECnl24qRZmQ53a5zBzl"
-    },
-    {
-      "added_at": "2026-05-15 04:01:33",
-      "album": {
         "name": "What's Not To Love?",
         "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 199174,
       "name": "I Guess I\u2019ll Get The Papers And Go Home",
       "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"
+    },
+    {
+      "added_at": "2026-05-15 04:01:33",
+      "album": {
+        "name": "Noah's Children",
+        "url": "https://open.spotify.com/album/6mg5QcrnRs8u2CuX1NWRTS"
+      },
+      "artists": [
+        {
+          "name": "Josh Ritter",
+          "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
+        }
+      ],
+      "duration_ms": 264629,
+      "name": "Noah's Children",
+      "url": "https://open.spotify.com/track/3h4ECnl24qRZmQ53a5zBzl"
     },
     {
       "added_at": "2026-05-15 04:01:33",

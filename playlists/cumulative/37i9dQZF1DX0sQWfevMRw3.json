@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\ud83c\uddeb\ud83c\uddee\ud83e\udd1d\ud83c\uddf8\ud83c\uddea ",
+  "description": "\ud83c\uddf3\ud83c\uddf4\ud83e\udd1d\ud83c\uddf8\ud83c\uddea ",
   "name": "30 km/h",
   "tracks": [
     {
@@ -4756,6 +4756,28 @@
       "duration_ms": 123841,
       "name": "DALAH\u00c4ST",
       "url": "https://open.spotify.com/track/4K6UD1eJnHx8GydkO9Rxbx"
+    },
+    {
+      "album": {
+        "name": "DALARNA",
+        "url": "https://open.spotify.com/album/4979QVvLJ6QTGclfOCOOcQ"
+      },
+      "artists": [
+        {
+          "name": "Sofie Svensson & Dom D\u00e4r",
+          "url": "https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim"
+        },
+        {
+          "name": "Larz-Kristerz",
+          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115538,
+      "name": "DALARNA",
+      "url": "https://open.spotify.com/track/36Q6hVzhJU1lrz0yx1DjjE"
     },
     {
       "album": {
@@ -13535,6 +13557,32 @@
     },
     {
       "album": {
+        "name": "HEM TILL BYN",
+        "url": "https://open.spotify.com/album/3znILQEGW43ufFPXRT2d6K"
+      },
+      "artists": [
+        {
+          "name": "Emil Asserg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm"
+        },
+        {
+          "name": "Dr\u00e4ngarna",
+          "url": "https://open.spotify.com/artist/2HwptwPQ4lvpYimzOJcYoY"
+        },
+        {
+          "name": "Rivstart",
+          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165520,
+      "name": "HEM TILL BYN",
+      "url": "https://open.spotify.com/track/4rYsZmXpPTWfcVtu0rP1YP"
+    },
+    {
+      "album": {
         "name": "HEM TILL MIG",
         "url": "https://open.spotify.com/album/7noZF9YeCXxkfF29tPrPa0"
       },
@@ -17422,6 +17470,28 @@
       "duration_ms": 144079,
       "name": "Kraken",
       "url": "https://open.spotify.com/track/6knzUvATyUqJWpRCm1Znka"
+    },
+    {
+      "album": {
+        "name": "Krossa alla f\u00f6nster",
+        "url": "https://open.spotify.com/album/57FklsHqYSmWQBFrToI6gg"
+      },
+      "artists": [
+        {
+          "name": "emoemy",
+          "url": "https://open.spotify.com/artist/6kOYIk57Dcel1IrTxYNP9i"
+        },
+        {
+          "name": "ALAN MAX",
+          "url": "https://open.spotify.com/artist/4OVGNBPR9zKzQRLRj98AHY"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Krossa alla f\u00f6nster",
+      "url": "https://open.spotify.com/track/2XSoxxczoq0VVl03W8hWcm"
     },
     {
       "album": {
@@ -25414,6 +25484,28 @@
       "duration_ms": 135272,
       "name": "RULLAR UT",
       "url": "https://open.spotify.com/track/2y2iet5sQcRyz6XlBstayP"
+    },
+    {
+      "album": {
+        "name": "Rumpegutt (Purken)",
+        "url": "https://open.spotify.com/album/2GpY8ZPu0WifkeHKH5W0SM"
+      },
+      "artists": [
+        {
+          "name": "Hytta",
+          "url": "https://open.spotify.com/artist/7xPHJsljeCWrn9Cbm5QK0Z"
+        },
+        {
+          "name": "Oboys",
+          "url": "https://open.spotify.com/artist/2LrgK3zeTkzW1cBr0KCDNE"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143684,
+      "name": "Rumpegutt (Purken)",
+      "url": "https://open.spotify.com/track/24KBbfYpVGpW2lCnZe3jL9"
     },
     {
       "album": {

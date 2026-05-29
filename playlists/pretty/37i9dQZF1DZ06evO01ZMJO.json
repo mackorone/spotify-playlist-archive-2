@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 25850,
+  "num_followers": 25883,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahTigAAAAADBWLMNx1sNNG7VLS5L5gmD",
+  "snapshot_id": "ahY0AAAAAAD8UtC7ahuhxeR+QaS8vbBq",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1 Team",
-        "url": "https://open.spotify.com/album/2Kky2Fv8uR0FzaI3rcOwKk"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "De Kraaien",
-          "url": "https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf"
-        }
-      ],
-      "duration_ms": 198368,
-      "name": "1 Team",
-      "url": "https://open.spotify.com/track/2mao0X8xezsrM0oCmm9T9f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kali (Outsiders Remix)",
         "url": "https://open.spotify.com/album/7B4JAdcj0x4RxJyGdY9pUp"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 249000,
       "name": "Kali - Outsiders Remix",
       "url": "https://open.spotify.com/track/4MK2iIz8chhPMWORvUfzzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1 Team",
+        "url": "https://open.spotify.com/album/2Kky2Fv8uR0FzaI3rcOwKk"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "De Kraaien",
+          "url": "https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf"
+        }
+      ],
+      "duration_ms": 198368,
+      "name": "1 Team",
+      "url": "https://open.spotify.com/track/2mao0X8xezsrM0oCmm9T9f"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jebroer 4 Life",
-        "url": "https://open.spotify.com/album/5cC4L5QILXWUZchaMDSWE9"
-      },
-      "artists": [
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 136692,
-      "name": "Flitsmeister",
-      "url": "https://open.spotify.com/track/0veJcZbDFJ86oDsUvIk1wL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dromendans (Outsiders Remix)",
         "url": "https://open.spotify.com/album/5YWyGJZBMUHDGgmbACLSfS"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 214124,
       "name": "Dromendans (Outsiders Remix)",
       "url": "https://open.spotify.com/track/3pR5AcJQBYpD7GX7koQoJl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jebroer 4 Life",
+        "url": "https://open.spotify.com/album/5cC4L5QILXWUZchaMDSWE9"
+      },
+      "artists": [
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 136692,
+      "name": "Flitsmeister",
+      "url": "https://open.spotify.com/track/0veJcZbDFJ86oDsUvIk1wL"
     },
     {
       "added_at": null,
@@ -967,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KUTMUZIEK",
-        "url": "https://open.spotify.com/album/1LvdeBpWj05dDC4Xh7zd3o"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "NZG\u00dbL",
-          "url": "https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "KUTMUZIEK",
-      "url": "https://open.spotify.com/track/12hnvrted7ORllAafrUiao"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Das Armas",
         "url": "https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 182709,
       "name": "Das Armas",
       "url": "https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KUTMUZIEK",
+        "url": "https://open.spotify.com/album/1LvdeBpWj05dDC4Xh7zd3o"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "NZG\u00dbL",
+          "url": "https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "KUTMUZIEK",
+      "url": "https://open.spotify.com/track/12hnvrted7ORllAafrUiao"
     },
     {
       "added_at": null,

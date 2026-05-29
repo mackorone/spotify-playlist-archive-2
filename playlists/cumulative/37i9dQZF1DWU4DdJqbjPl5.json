@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Intersection of R&B and afrobeats. Cover:  Qing Madi",
+  "description": "Intersection of R&B and afrobeats. Cover:  Nikita Kering",
   "name": "afro&b ",
   "tracks": [
     {
@@ -812,7 +812,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 172160,
       "name": "Aura Salad",
       "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
@@ -1720,6 +1720,28 @@
       "duration_ms": 165600,
       "name": "Call (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/6HYLLMWhhAFkNAbxNC2Fv8"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/2saIxLurd9fufhXrueztza"
+      },
+      "artists": [
+        {
+          "name": "Fena Gitu",
+          "url": "https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W"
+        },
+        {
+          "name": "Ariel Wayz",
+          "url": "https://open.spotify.com/artist/6vLTbWnzofdofLGkDfxODG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7yeC0Li94ZmAwxVW5qApUw"
     },
     {
       "album": {
@@ -5491,6 +5513,36 @@
     },
     {
       "album": {
+        "name": "Barely Legal",
+        "url": "https://open.spotify.com/album/0BhK1GDqdNCQxVMybVrFlx"
+      },
+      "artists": [
+        {
+          "name": "KFMD",
+          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/6pGHJg3PgQilpDhg9QPJXQ"
+    },
+    {
+      "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
@@ -7200,6 +7252,24 @@
       "duration_ms": 162857,
       "name": "Nikita",
       "url": "https://open.spotify.com/track/7giomsoZgEbXFNTqS8Y683"
+    },
+    {
+      "album": {
+        "name": "The Lick Back",
+        "url": "https://open.spotify.com/album/08DXRawHAxPzzamzypr5QU"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Niwache",
+      "url": "https://open.spotify.com/track/1LHYQ6x4I6DCbalbbyjBCP"
     },
     {
       "album": {
@@ -10110,6 +10180,24 @@
       "duration_ms": 220865,
       "name": "Tiny Apartment",
       "url": "https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY"
+    },
+    {
+      "album": {
+        "name": "SAY Yours",
+        "url": "https://open.spotify.com/album/5AIArg9AYwFRfvjh6QPkyv"
+      },
+      "artists": [
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "TNGHT",
+      "url": "https://open.spotify.com/track/5oWZFpX95oaCZ69WWZNZzc"
     },
     {
       "album": {

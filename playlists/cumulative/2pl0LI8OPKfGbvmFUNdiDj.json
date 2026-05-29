@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Autumn Leaves",
+        "url": "https://open.spotify.com/album/2ZQfxyOz4pBWHrJdlp7yJL"
+      },
+      "artists": [
+        {
+          "name": "Bonolo Solomon",
+          "url": "https://open.spotify.com/artist/4kaNxQusxlke6nfnusb2fT"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191895,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/7qOWu0a7bzpYNk4yEju09S"
+    },
+    {
+      "album": {
         "name": "Avatar",
         "url": "https://open.spotify.com/album/3rNkFTNqKvXFpiOB70Mb1f"
       },

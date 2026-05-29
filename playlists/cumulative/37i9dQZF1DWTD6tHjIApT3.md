@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: Chilli Beans.
 
-3,786 songs - 10 day 1 hr 6 min
+3,787 songs - 10 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2192,6 +2192,7 @@
 | [ZIDANDA](https://open.spotify.com/track/1WnO4TBMUXaWVmEvEnYYsE) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [ZIDANDA](https://open.spotify.com/album/4taqmQVuJcAGHs3FjGnOEO) | 2:48 | 2025-12-16 | 2026-01-15 |
 | [Zinnia](https://open.spotify.com/track/1yHcyNZMzLW6aRG9jMTJ52) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [Zinnia](https://open.spotify.com/album/5UfVCGfL5jwPGGviRbwOv4) | 4:20 | 2025-01-07 | 2025-01-15 |
 | [zoo](https://open.spotify.com/track/1lWajrL6NoG6ZDEtdWdhBN) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [zoo](https://open.spotify.com/album/5B5PoyeYH7Tep7UFdKik1a) | 2:39 | 2023-12-05 | 2024-01-09 |
+| [Zutto Ichibanni Shitene](https://open.spotify.com/track/1zPs9OnsajiSqtFVy1SyRN) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [Zutto Ichibanni Shitene](https://open.spotify.com/album/7y38Camf4Rn7MFSVgWPUp5) | 3:33 | 2026-05-26 |  |
 | [Zutto Sobade Mimamotteiruyo](https://open.spotify.com/track/7G1ceuGVkXK6SrVxUGOabw) | [Hitomi Yaida](https://open.spotify.com/artist/4Xho9HlopbIH2VpxfDkVXn) | [Zutto Sobade Mimamotteiruyo](https://open.spotify.com/album/4Yc32RuQzuwylAjCnmmYOa) | 3:59 | 2022-09-06 | 2022-09-09 |
 | [Água de Beber](https://open.spotify.com/track/0udVW76Es96emCsJ834ZJr) | [Lisa Ono](https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k) | [Água de Beber](https://open.spotify.com/album/3HNX3RRr6M3Az3AosGxuYX) | 4:11 | 2026-02-24 | 2026-05-06 |
 | [étoile](https://open.spotify.com/track/4tNJEcWkXQQDes9P7cdNwA) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [風に乗る](https://open.spotify.com/album/756umARKInXvcyVNY1fq4p) | 3:26 | 2026-03-17 |  |
@@ -3437,7 +3438,7 @@
 | [泡吹](https://open.spotify.com/track/17nAb0ZqT4J6qnoXbPZ3jw) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [泡吹](https://open.spotify.com/album/4PYcHByJYp9cZvoHmT2sZL) | 3:43 | 2024-11-13 | 2024-11-20 |
 | [波間にて](https://open.spotify.com/track/7LnJsDQaaJW3ATtIjsDHdk) | [影山朋子](https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp) | [波間にて](https://open.spotify.com/album/0O5iAHM0Bbrg5fuui6DEv7) | 3:36 | 2023-08-30 | 2023-09-06 |
 | [泣いちゃうけどさ](https://open.spotify.com/track/5WnrDuFyXDTYuw9WZG4Swb) | [wagamama](https://open.spotify.com/artist/2NKDGm8tCrXcW2fNSASi82) | [EVER DANCING FLAMINGO](https://open.spotify.com/album/7jtn1izHnkuNFDZiAMuviY) | 4:09 | 2024-06-18 | 2024-07-05 |
-| [泣いてしまいそう](https://open.spotify.com/track/1V7xIhsDAk2GoITZFBHwAq) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [泣いてしまいそう](https://open.spotify.com/album/7cDi9GvLWYQ6Lie0KNUcJf) | 3:20 | 2026-04-14 |  |
+| [泣いてしまいそう](https://open.spotify.com/track/1V7xIhsDAk2GoITZFBHwAq) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [泣いてしまいそう](https://open.spotify.com/album/7cDi9GvLWYQ6Lie0KNUcJf) | 3:20 | 2026-04-14 | 2026-05-29 |
 | [泣き笑い愛](https://open.spotify.com/track/6qdo8EgK8iWJdIzbLtgdBc) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [泣き笑い愛](https://open.spotify.com/album/4FSm60IM7awkVas4TdkabB) | 2:51 | 2022-07-21 | 2023-02-05 |
 | [注意](https://open.spotify.com/track/6zzNVKD5TcXxE68D9SR3Ml) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa), [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [注意](https://open.spotify.com/album/1ZkdoyJNQyRSxAZt7Bc8ai) | 3:43 | 2023-11-30 | 2023-12-06 |
 | [泳げ](https://open.spotify.com/track/4sPkP3Am41z0dFgf2gAGK1) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [泳げ](https://open.spotify.com/album/41FjGKtbOa2k2f7NYABE3X) | 4:37 | 2024-07-16 | 2024-07-27 |

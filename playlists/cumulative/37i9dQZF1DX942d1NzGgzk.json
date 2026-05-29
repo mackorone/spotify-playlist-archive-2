@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The latest of R&B rising in the UK. Cover: Konyikeh",
+  "description": "The latest of R&B rising in the UK. Cover: Saint Harison",
   "name": "R&B UK",
   "tracks": [
     {
@@ -566,7 +566,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 167671,
       "name": "always be there",
       "url": "https://open.spotify.com/track/2osyP0h0cLHPIStWO9rMje"
@@ -2415,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "Docs",
+        "url": "https://open.spotify.com/album/4z79Uh8UfNC9ljmd7OpbY6"
+      },
+      "artists": [
+        {
+          "name": "Liv Walker",
+          "url": "https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208571,
+      "name": "Docs",
+      "url": "https://open.spotify.com/track/4OCu8rrX8gbKnAfvS20ovs"
+    },
+    {
+      "album": {
         "name": "Don Dada",
         "url": "https://open.spotify.com/album/6N7ueVpR75m3vunC9ugTnm"
       },
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 172307,
       "name": "Drive",
       "url": "https://open.spotify.com/track/506Zj8Qav140YTT7HOW7SI"
@@ -4534,6 +4552,24 @@
       "duration_ms": 196975,
       "name": "High",
       "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0iTH2MjVG0ZGxQmjYXgzy5"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1fylUPtF8NeiiZQng4F1Tf"
     },
     {
       "album": {
@@ -6898,7 +6934,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 124000,
       "name": "Miss Me",
       "url": "https://open.spotify.com/track/2vpRUpzjDynKp8yCG7h3WZ"
@@ -7676,7 +7712,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 184615,
       "name": "Officer, Pt. 2",
       "url": "https://open.spotify.com/track/1wmJ47pSNRkxsyMyfemUPJ"
@@ -8138,7 +8174,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 125647,
       "name": "Over&Over",
       "url": "https://open.spotify.com/track/74IbMdoHT58UPiIszgUCuM"
@@ -8868,7 +8904,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 213689,
       "name": "SAFE",
       "url": "https://open.spotify.com/track/5tuybwcFuemk8qpnQGCFko"
@@ -10139,6 +10175,28 @@
     },
     {
       "album": {
+        "name": "take my hand",
+        "url": "https://open.spotify.com/album/5dkcbuQwMuZK9vI22kT3mw"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        },
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212249,
+      "name": "take my hand",
+      "url": "https://open.spotify.com/track/0i4SCqKHjbBrPjUX4RPRq3"
+    },
+    {
+      "album": {
         "name": "Take Your Time (feat. 6LACK)",
         "url": "https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6"
       },
@@ -10372,6 +10430,24 @@
       "duration_ms": 199732,
       "name": "The Love Is Gone",
       "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
+    },
+    {
+      "album": {
+        "name": "The Way I Love",
+        "url": "https://open.spotify.com/album/1eVIBTuMWkufkwGVYBrBPc"
+      },
+      "artists": [
+        {
+          "name": "Faye Meana",
+          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186308,
+      "name": "The Way I Love",
+      "url": "https://open.spotify.com/track/1b4DlWiSe9HpG0htLQ0WF6"
     },
     {
       "album": {
@@ -10640,6 +10716,42 @@
       "duration_ms": 205597,
       "name": "traces",
       "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
+    },
+    {
+      "album": {
+        "name": "mind the gap",
+        "url": "https://open.spotify.com/album/7CoasIpZcrXKpeVtDwj77H"
+      },
+      "artists": [
+        {
+          "name": "Reuben Aziz",
+          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/6S0k9l9BftuJKd6GxKOdrz"
+    },
+    {
+      "album": {
+        "name": "ghosted - EP",
+        "url": "https://open.spotify.com/album/1FI0XA7lmm54RaMcucVBBe"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo"
     },
     {
       "album": {

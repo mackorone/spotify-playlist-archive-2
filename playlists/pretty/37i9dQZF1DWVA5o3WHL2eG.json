@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Mariybu",
-  "num_followers": 49227,
+  "num_followers": 49220,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -311,26 +311,6 @@
     {
       "added_at": "2026-05-05 22:00:31",
       "album": {
-        "name": "isy",
-        "url": "https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL"
-      },
-      "artists": [
-        {
-          "name": "yola",
-          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
-        },
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        }
-      ],
-      "duration_ms": 150199,
-      "name": "isy",
-      "url": "https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH"
-    },
-    {
-      "added_at": "2026-05-05 22:00:31",
-      "album": {
         "name": "watch me",
         "url": "https://open.spotify.com/album/7cGfQ7T20mmGgx0sCvsMuE"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 144857,
       "name": "watch me",
       "url": "https://open.spotify.com/track/43HETwsBf1TLoiNUjh1D9a"
+    },
+    {
+      "added_at": "2026-05-05 22:00:31",
+      "album": {
+        "name": "isy",
+        "url": "https://open.spotify.com/album/61x7DkhtMaXab0Uu7VCZWL"
+      },
+      "artists": [
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        },
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "duration_ms": 150199,
+      "name": "isy",
+      "url": "https://open.spotify.com/track/6VJV5UFZTIbVlsGfirZdXH"
     },
     {
       "added_at": "2026-05-05 22:00:31",

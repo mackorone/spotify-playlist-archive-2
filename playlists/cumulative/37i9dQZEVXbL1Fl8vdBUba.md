@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-558 songs - 1 day 7 hr 19 min
+559 songs - 1 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,7 +322,8 @@
 | [MIU MIU \(feat\. GeezyDee, CARABIN3\)](https://open.spotify.com/track/0gLX9Vq1pzKY2pihaW5bbZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [EXTRADITABLESSD](https://open.spotify.com/album/4isxkWAvMq0RXIRCmT228V) | 5:48 | 2025-11-14 | 2025-11-20 |
 | [MIU MIU \(feat\. GeezyDee, CARABIN3\)](https://open.spotify.com/track/1btsXTZnL2wVSW8oDWvjMM) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [EXTRADITABLESSD](https://open.spotify.com/album/27riPXr7ZTZcQmQkdOzce7) | 5:48 | 2025-11-14 | 2025-12-06 |
 | [MLP](https://open.spotify.com/track/4DAMvNqHt0s8zJr6JwOoye) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [MLP](https://open.spotify.com/album/3iYLojQkMaQHojjIiOTlqM) | 2:28 | 2024-10-11 | 2026-03-21 |
-| [Mojando la Rata](https://open.spotify.com/track/7tHxrtb5BDkO5tWYPQjQDq) | [El Chonta](https://open.spotify.com/artist/70bAyvM0itNRD0c45wtxcY) | [Mojando la Rata](https://open.spotify.com/album/15bt6PFpsI6L8WvdewLtqs) | 2:50 | 2026-05-15 |  |
+| [Mojando la Rata](https://open.spotify.com/track/3eN3bAGtPltnMfnUwX0qMp) | [El Chonta](https://open.spotify.com/artist/70bAyvM0itNRD0c45wtxcY) | [Mojando la Rata](https://open.spotify.com/album/30AUGobu2HiSkQAHn9MFqN) | 2:50 | 2026-05-22 |  |
+| [Mojando la Rata](https://open.spotify.com/track/7tHxrtb5BDkO5tWYPQjQDq) | [El Chonta](https://open.spotify.com/artist/70bAyvM0itNRD0c45wtxcY) | [Mojando la Rata](https://open.spotify.com/album/15bt6PFpsI6L8WvdewLtqs) | 2:50 | 2026-05-15 | 2026-05-29 |
 | [Mojando La Rata](https://open.spotify.com/track/7swJdeEVcg713UXUKxxCWI) | [El Chonta](https://open.spotify.com/artist/70bAyvM0itNRD0c45wtxcY) | [Mojando La Rata](https://open.spotify.com/album/4jyjFiclfPPXKyb8lJe7Ag) | 2:50 | 2026-05-15 | 2026-05-21 |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2024-01-26 | 2024-02-24 |
 | [Monastery](https://open.spotify.com/track/0hwPOmpTn71SMU5wMSlXvL) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Monastery](https://open.spotify.com/album/4CeFCdSGaYofRuGTViNltX) | 3:08 | 2024-09-27 | 2024-10-05 |

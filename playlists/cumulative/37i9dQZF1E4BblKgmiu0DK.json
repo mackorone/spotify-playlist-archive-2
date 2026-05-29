@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Crimson ValkyRies, Tssara, Die Mannequin and more",
+  "description": "With Tssara, Crimson ValkyRies, Die Mannequin and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7c8yo0HL6k2XYiqFRrxBzK"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "3",
       "url": "https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 191066,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7bzenh25iZVgL15KzevtgQ"
@@ -618,6 +618,24 @@
       "duration_ms": 153207,
       "name": "Babysitter",
       "url": "https://open.spotify.com/track/4EWLpHXUXmYRV2eQb0e0D2"
+    },
+    {
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/6BjlzmKk5fyQm0hVNQnX6C"
+      },
+      "artists": [
+        {
+          "name": "Viana Orelando",
+          "url": "https://open.spotify.com/artist/2GGmx38brrKy6nAZhq2C66"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182508,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/0zpDkw1zVOWn5IJhh2gBTk"
     },
     {
       "album": {
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 207750,
       "name": "Body Double",
       "url": "https://open.spotify.com/track/7tYKbBwjeC2krHASc0E8Lv"
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 103359,
       "name": "Bruv, Skyline Ruckus",
       "url": "https://open.spotify.com/track/3rkTZkhoOA7fQgwpqnmwva"
@@ -1795,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "Crazy Pills",
+        "url": "https://open.spotify.com/album/3ZjStsWGvGQiaaoqwgqpeS"
+      },
+      "artists": [
+        {
+          "name": "Flagship Romance",
+          "url": "https://open.spotify.com/artist/06qvMln1UwmEZc66btXrLL"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171052,
+      "name": "Crazy Pills",
+      "url": "https://open.spotify.com/track/1cwK3wnrbNlM5KR0kKbbYa"
+    },
+    {
+      "album": {
         "name": "Crime Cracker",
         "url": "https://open.spotify.com/album/0dBUHA7qGQQNZiJqGoopzV"
       },
@@ -2152,7 +2188,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 243281,
       "name": "Doll",
       "url": "https://open.spotify.com/track/6nxxyAxIg1B4RAaWg09j0C"
@@ -2170,7 +2206,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 211533,
       "name": "Don't Break Me Down",
       "url": "https://open.spotify.com/track/7g5tIBg1W2ySyFeds4Iurv"
@@ -2296,7 +2332,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 194533,
       "name": "Don't Wanna Go To Bed Now - New Version",
       "url": "https://open.spotify.com/track/00914fQv9854t2yzDKp8QI"
@@ -2386,7 +2422,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 218823,
       "name": "Echo",
       "url": "https://open.spotify.com/track/73BF4Y37KF0GJh8YCyEMdl"
@@ -2620,7 +2656,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 225200,
       "name": "FAME",
       "url": "https://open.spotify.com/track/2zty4A3XTAWyS4XHsY9EBj"
@@ -2840,7 +2876,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 181053,
       "name": "Follow the Lights - Monito Version",
       "url": "https://open.spotify.com/track/0Z0jTbX5oxLb3ohEwOiaXw"
@@ -2970,7 +3006,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 232621,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6jzw4EEnXgI2nrpYRrz6qG"
@@ -3114,7 +3150,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 206677,
       "name": "Genevieve",
       "url": "https://open.spotify.com/track/3C85PexccMkdnlojcc3TCw"
@@ -3208,6 +3244,24 @@
       "duration_ms": 145454,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/2sKjgZiOUGoiflC6eo1UPg"
+    },
+    {
+      "album": {
+        "name": "Gimme the Sun",
+        "url": "https://open.spotify.com/album/0SknjOraHrP1bVlPp74Uga"
+      },
+      "artists": [
+        {
+          "name": "Pistol Daisys",
+          "url": "https://open.spotify.com/artist/03jgPux832spB6QYxMuhFC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227058,
+      "name": "Gimme the Sun",
+      "url": "https://open.spotify.com/track/1gt8F2ppvLAQAbkclyRUAm"
     },
     {
       "album": {
@@ -3334,6 +3388,24 @@
       "duration_ms": 209352,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0FFcbTkSeyAi9AZGFQ29Sl"
+    },
+    {
+      "album": {
+        "name": "What Am I Supposed to Do",
+        "url": "https://open.spotify.com/album/628b4C6THL21tdneWLRI1g"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e1inne Duffy",
+          "url": "https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194012,
+      "name": "Got to Give It Up",
+      "url": "https://open.spotify.com/track/7b8jgrgXaH7Wjj1Ia6zziq"
     },
     {
       "album": {
@@ -4300,10 +4372,28 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 188754,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/047s5yGstJlx2zQKy4cJP0"
+    },
+    {
+      "album": {
+        "name": "Inner War",
+        "url": "https://open.spotify.com/album/4d7nGB4pQVJ4vaRSTFH7sc"
+      },
+      "artists": [
+        {
+          "name": "Crimson ValkyRies",
+          "url": "https://open.spotify.com/artist/6QvCtGh44hAmVHohADuKNn"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205799,
+      "name": "Inner War",
+      "url": "https://open.spotify.com/track/02FQAkM1fv8LPwkja6vG0x"
     },
     {
       "album": {
@@ -4354,7 +4444,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 178826,
       "name": "It Takes One to Know One",
       "url": "https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup"
@@ -4502,6 +4592,32 @@
       "duration_ms": 169942,
       "name": "Jack Of All Trades",
       "url": "https://open.spotify.com/track/467dfl0AL9zZjLl6x3EvUh"
+    },
+    {
+      "album": {
+        "name": "Jackson",
+        "url": "https://open.spotify.com/album/2c0SqRMmFF03fHneD3Eis9"
+      },
+      "artists": [
+        {
+          "name": "Blacklist Union",
+          "url": "https://open.spotify.com/artist/68ce5XYBqo4nbGQNLrJvDp"
+        },
+        {
+          "name": "Lorraine Lewis",
+          "url": "https://open.spotify.com/artist/7fL4syiJqcOakVs6RExpqQ"
+        },
+        {
+          "name": "Femme Fatale",
+          "url": "https://open.spotify.com/artist/7LyJvbeYRh6dAOU3BXocqN"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169748,
+      "name": "Jackson",
+      "url": "https://open.spotify.com/track/6MawJbGwFNsd6w5B6ZPvM7"
     },
     {
       "album": {
@@ -5273,6 +5389,28 @@
     },
     {
       "album": {
+        "name": "Tommyland Rides Again",
+        "url": "https://open.spotify.com/album/1B7C79fIiVtud6AMWJm4ol"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lee",
+          "url": "https://open.spotify.com/artist/4b9L0p4cMof32XvjwT9YrX"
+        },
+        {
+          "name": "AMAZONICA",
+          "url": "https://open.spotify.com/artist/6LUiJoLQTYPQwA0mMuZ38v"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Makin Me Crazy (feat. AMAZONICA) - 2026 Remaster",
+      "url": "https://open.spotify.com/track/2nZqW9PodUAAYYQi6PoZvX"
+    },
+    {
+      "album": {
         "name": "MAMMA COM\u2019\u00c8",
         "url": "https://open.spotify.com/album/285rSdXsHc4r71aJjh6xyM"
       },
@@ -5698,7 +5836,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -5716,7 +5854,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 120799,
       "name": "Mumbai Monsoon Riff, Yaar",
       "url": "https://open.spotify.com/track/0M7fBG1M0RfhXcA9Hru297"
@@ -5734,7 +5872,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -6772,7 +6910,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 191440,
       "name": "Psycho Bitch",
       "url": "https://open.spotify.com/track/14j5UBobMdPf068lJ5Xnv5"
@@ -7532,7 +7670,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 227306,
       "name": "Speak & Destroy",
       "url": "https://open.spotify.com/track/1gjlOlpdE4eus4gjl7HohK"
@@ -7752,7 +7890,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 182786,
       "name": "Sugarbaby",
       "url": "https://open.spotify.com/track/61hpwV8EiNGOHCgkSL3cxc"
@@ -7806,7 +7944,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 120959,
       "name": "Sunset Strip Fever Dream",
       "url": "https://open.spotify.com/track/6V33utn4JXrYPSdgwdLn7r"
@@ -8725,6 +8863,24 @@
     },
     {
       "album": {
+        "name": "Small But Mighty",
+        "url": "https://open.spotify.com/album/45o2X641KLaQ9cC5KXi6Bv"
+      },
+      "artists": [
+        {
+          "name": "The Psychodelics",
+          "url": "https://open.spotify.com/artist/5vxdfRpVCSCJKd9OOLrrEX"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244917,
+      "name": "We'll Never Die",
+      "url": "https://open.spotify.com/track/0Thn1p4p1bqvYjdfDX8uAj"
+    },
+    {
+      "album": {
         "name": "Neon Zero",
         "url": "https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi"
       },
@@ -8826,7 +8982,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 169173,
       "name": "What's It Gonna Be",
       "url": "https://open.spotify.com/track/5DDd2Gq55LpJYmmoRYLqqe"
@@ -8934,7 +9090,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 162933,
       "name": "Whyyawannabringmedown",
       "url": "https://open.spotify.com/track/1jGNjpHdQVaMBeSnpCv5Jy"

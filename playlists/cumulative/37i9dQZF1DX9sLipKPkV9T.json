@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u05db\u05dc \u05d4\u05e4\u05d5\u05e4 \u05d4\u05d9\u05e4\u05d4 \u05d5\u05d4\u05de\u05e8\u05d2\u05e9 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d0\u05e0\u05d4 \u05d6\u05e7 ",
+  "description": "\u05db\u05dc \u05d4\u05e4\u05d5\u05e4 \u05d4\u05d9\u05e4\u05d4 \u05d5\u05d4\u05de\u05e8\u05d2\u05e9 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8:\u05e9\u05d7\u05e8 \u05d8\u05d1\u05d5\u05da ",
   "name": "\u05e4\u05d5\u05e4 \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9 \u05d7\u05d3\u05e9",
   "tracks": [
     {
@@ -950,7 +950,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 211084,
       "name": "Portrait",
       "url": "https://open.spotify.com/track/2Qi6IZEofas9eUwrL6y2pD"
@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 160571,
       "name": "\u05d0\u05d5\u05d8\u05d5\u05d8\u05d5",
       "url": "https://open.spotify.com/track/6u2EvC1n0dLS8dtLKWrHwn"
@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 154040,
       "name": "\u05d0\u05e0\u05d9 \u05de\u05ea",
       "url": "https://open.spotify.com/track/4PPbIVCSZ4VXBYPsHhPwZh"
@@ -3676,7 +3676,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 186421,
       "name": "\u05d1\u05e1\u05d9\u05d1\u05d5\u05d1",
       "url": "https://open.spotify.com/track/1u0I5pq5vchcTu2M4MlAWm"
@@ -3900,7 +3900,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 229000,
       "name": "\u05d2\u05d9\u05d3\u05d9",
       "url": "https://open.spotify.com/track/3kOAD0dzflV5XlAaiKHvbM"
@@ -4719,6 +4719,24 @@
     },
     {
       "album": {
+        "name": "\u05d4\u05d3\u05e8\u05da \u05d4\u05d1\u05d8\u05d5\u05d7\u05d4 \u05dc\u05e9\u05d1\u05d5\u05e8 \u05dc\u05e2\u05e6\u05de\u05d9 \u05d0\u05ea \u05d4\u05dc\u05d1",
+        "url": "https://open.spotify.com/album/4jEv8AqZ1he2i64yIbo9t1"
+      },
+      "artists": [
+        {
+          "name": "\u05e0\u05d5\u05e2\u05dd \u05e7\u05dc\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df",
+          "url": "https://open.spotify.com/artist/0fApsdhIzCLZQh7hZShlqV"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "\u05d4\u05d9\u05d9\u05ea\u05d9 \u05e8\u05d5\u05e6\u05d4",
+      "url": "https://open.spotify.com/track/6QcDN61ZsEjeeJRKX4RMhS"
+    },
+    {
+      "album": {
         "name": "\u05d4\u05d9\u05dc\u05d3 \u05e2\u05dd \u05d4\u05d1\u05d5\u05d2\u05d9",
         "url": "https://open.spotify.com/album/7pZSpJno5zaJ37bXjE15C5"
       },
@@ -5440,7 +5458,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 222325,
       "name": "\u05d6\u05d4 \u05dc\u05d6\u05d4",
       "url": "https://open.spotify.com/track/2LBujQB6VtcFuR172QYYUF"
@@ -5505,6 +5523,28 @@
     },
     {
       "album": {
+        "name": "\u05ea\u05e2\u05e0\u05d9 \u05d3\u05d7\u05d5\u05e3!",
+        "url": "https://open.spotify.com/album/4aEXnFYPlggjFAuaaUMUXH"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05d7\u05e8 \u05d8\u05d1\u05d5\u05da",
+          "url": "https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC"
+        },
+        {
+          "name": "Netta",
+          "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135584,
+      "name": "\u05d6\u05df",
+      "url": "https://open.spotify.com/track/5XJ11GtVDEFHwk0L3ZHZjr"
+    },
+    {
+      "album": {
         "name": "\u05d6\u05df \u05e0\u05d3\u05d9\u05e8 (\u05d1\u05d0\u05e8\u05d1\u05d9 LIVE)",
         "url": "https://open.spotify.com/album/3wTyhxA1PR3ss911obWGt2"
       },
@@ -5538,7 +5578,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 186990,
       "name": "\u05d7\u05d1\u05dc\u05de\u05d0\u05d5\u05d3 (\u05e9\u05d0\u05e0\u05d9\u05dc\u05d0\u05d9\u05db\u05d5\u05dc\u05d4\u05d9\u05d5\u05ea\u05d0\u05d9\u05e9\u05d4)",
       "url": "https://open.spotify.com/track/4mYfDJY0bPOMYqIsksNnH0"
@@ -5654,7 +5694,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 231000,
       "name": "\u05d7\u05d9 \u05d1\u05d0\u05e0\u05e9\u05d9\u05dd",
       "url": "https://open.spotify.com/track/6N3FM8RgFBVElijPWpGUjJ"
@@ -6470,7 +6510,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 171670,
       "name": "\u05db\u05dc \u05d4\u05d4\u05db\u05d9 \u05d8\u05d5\u05d1\u05d9\u05dd",
       "url": "https://open.spotify.com/track/1R5BHia0LhkkElZbJcLKEK"
@@ -7830,6 +7870,28 @@
       "duration_ms": 169894,
       "name": "\u05de\u05d0\u05d7\u05dc \u05dc\u05da \u05d8\u05d5\u05d1",
       "url": "https://open.spotify.com/track/65l4PkJgoRop8u7OzF3LRA"
+    },
+    {
+      "album": {
+        "name": "\u05ea\u05e2\u05e0\u05d9 \u05d3\u05d7\u05d5\u05e3!",
+        "url": "https://open.spotify.com/album/4aEXnFYPlggjFAuaaUMUXH"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05d7\u05e8 \u05d8\u05d1\u05d5\u05da",
+          "url": "https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC"
+        },
+        {
+          "name": "\u05d0\u05de\u05d4 \u05d0\u05dc\u05e4\u05d9",
+          "url": "https://open.spotify.com/artist/5zgiU405vdv5MgcuLgyR1g"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145781,
+      "name": "\u05de\u05d0\u05dc\u05d7\u05e9\u05ea",
+      "url": "https://open.spotify.com/track/1SZWAcb95GOGb9Jz6KDiAN"
     },
     {
       "album": {
@@ -11684,6 +11746,24 @@
       "duration_ms": 184518,
       "name": "\u05e9\u05de\u05e9 \u05de\u05e2\u05dc\u05d9\u05d9\u05da",
       "url": "https://open.spotify.com/track/1piXzzkHeUJ8DlsM4E8tAX"
+    },
+    {
+      "album": {
+        "name": "\u05e9\u05e2\u05ea \u05e8\u05e6\u05d5\u05df",
+        "url": "https://open.spotify.com/album/5THclEZXn6HbecIGg5SWVI"
+      },
+      "artists": [
+        {
+          "name": "Narkis",
+          "url": "https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "\u05e9\u05e2\u05ea \u05e8\u05e6\u05d5\u05df",
+      "url": "https://open.spotify.com/track/4MElW0pjCURiNz3QJfL52U"
     },
     {
       "album": {

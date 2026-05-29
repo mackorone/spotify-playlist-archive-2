@@ -1565,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "Chune Ishq'en",
+        "url": "https://open.spotify.com/album/7c6j68zoKDUQk6jyIjxUHu"
+      },
+      "artists": [
+        {
+          "name": "SAZGIR",
+          "url": "https://open.spotify.com/artist/2oAG6MjavkOWhvC97uf212"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206080,
+      "name": "Chune Ishq'en",
+      "url": "https://open.spotify.com/track/1bDilP5sW5H0plkRnRgGdj"
+    },
+    {
+      "album": {
         "name": "close 2 u",
         "url": "https://open.spotify.com/album/0rc55F1xkNGEwL3tMO1EjW"
       },
@@ -4144,7 +4162,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 218437,
       "name": "Karna Hai",
       "url": "https://open.spotify.com/track/37vevBnRpkdL7MkPxpDyoQ"
@@ -5623,6 +5641,24 @@
     },
     {
       "album": {
+        "name": "Amn Ki Asha",
+        "url": "https://open.spotify.com/album/3kbX7FVc7slqcwpZ4W7lvX"
+      },
+      "artists": [
+        {
+          "name": "Tarbooze",
+          "url": "https://open.spotify.com/artist/2zqtCGEkCl9xl8kFYRbP0N"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176379,
+      "name": "Museebat",
+      "url": "https://open.spotify.com/track/1xhLzCUGuhqyjsVkCe1X51"
+    },
+    {
+      "album": {
         "name": "Mute",
         "url": "https://open.spotify.com/album/6EwgLUXMEaxzRDiqwHKn82"
       },
@@ -6372,7 +6408,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 187317,
       "name": "PIYA",
       "url": "https://open.spotify.com/track/0iAhuP18o2xFjUYHL6GWR3"

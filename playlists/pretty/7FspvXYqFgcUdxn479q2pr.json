@@ -1,13 +1,65 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
-  "num_followers": 31594,
+  "num_followers": 31593,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAwVPpcxEL5WeXR0aOotHbfovLNvGtp",
+  "snapshot_id": "AAAwWCN7rIMSV7GS7HXOHAUDxc2h0k2p",
   "tracks": [
+    {
+      "added_at": "2026-05-28 22:00:05",
+      "album": {
+        "name": "Touching Myself",
+        "url": "https://open.spotify.com/album/4AC3mwRM8sMKZg4rRJzpJi"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "duration_ms": 206838,
+      "name": "Touching Myself",
+      "url": "https://open.spotify.com/track/7KoMYV6oP8wixP7YOrOwIU"
+    },
+    {
+      "added_at": "2026-05-28 22:00:03",
+      "album": {
+        "name": "Light The Dark",
+        "url": "https://open.spotify.com/album/6kNwG8lztYVQrTV1WSv64K"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 230068,
+      "name": "Light The Dark",
+      "url": "https://open.spotify.com/track/3akwYNZtA2mMh0vPvodjSC"
+    },
+    {
+      "added_at": "2026-05-28 22:00:00",
+      "album": {
+        "name": "El Supremo",
+        "url": "https://open.spotify.com/album/3UJrwK7usINqVZKcEyiZJh"
+      },
+      "artists": [
+        {
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+        }
+      ],
+      "duration_ms": 195454,
+      "name": "El Supremo",
+      "url": "https://open.spotify.com/track/1awahW3zBr59Nb3L3HAyb5"
+    },
     {
       "added_at": "2026-05-21 13:16:10",
       "album": {

@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 243639,
       "name": "HONA FAPANONG HONA LE SEDIBA",
       "url": "https://open.spotify.com/track/4h5FphT2Rqc6H7Xo0ApNQj"
@@ -6149,6 +6149,24 @@
     },
     {
       "album": {
+        "name": "Themba Inkosi",
+        "url": "https://open.spotify.com/album/6lgE7OacPfpim1Jlu1AAdb"
+      },
+      "artists": [
+        {
+          "name": "Thembinkosi",
+          "url": "https://open.spotify.com/artist/4dGmduawBSrQ9HXgud72LS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297071,
+      "name": "Sihamba ne Qhawe",
+      "url": "https://open.spotify.com/track/1BbS7bpQ1NF2SFdMbJazzF"
+    },
+    {
+      "album": {
         "name": "Andijiki",
         "url": "https://open.spotify.com/album/1V279WPZP6AlIETJxQJ4pF"
       },
@@ -8051,6 +8069,24 @@
     },
     {
       "album": {
+        "name": "Uyingilosi",
+        "url": "https://open.spotify.com/album/5THLWQp2Bx8wapN8PMxs3V"
+      },
+      "artists": [
+        {
+          "name": "Nkanyezi Kubheka",
+          "url": "https://open.spotify.com/artist/0APN22F7fuIUq8X5FIAEEu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303960,
+      "name": "Uyingilosi",
+      "url": "https://open.spotify.com/track/2b3XzfZiGAzH4Cg2oOZycR"
+    },
+    {
+      "album": {
         "name": "Uyinkosi Yamakhosi",
         "url": "https://open.spotify.com/album/59Fe56hiQPF0EU5HxTbH7J"
       },
@@ -9034,7 +9070,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 549660,
       "name": "You Are Good",
       "url": "https://open.spotify.com/track/4yl9nPWqJnGC2CjFjguCok"

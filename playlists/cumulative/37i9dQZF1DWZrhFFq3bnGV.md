@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Song Brothers
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Aku Jeje
 
-304 songs - 21 hr 13 min
+305 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Makna Nostalgia](https://open.spotify.com/track/5oEZn7bhmZwTxeJTdKchXK) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Makna Nostalgia](https://open.spotify.com/album/1q7bfBILGBE6SALzgqZEKo) | 5:16 | 2024-04-18 | 2025-12-19 |
 | [Malam Yang Berisik Di Kenangan](https://open.spotify.com/track/2QgOQjFtk7PR12Qym1wfER) | [Didin Marlin](https://open.spotify.com/artist/5HmV6WP4nWIeY3S63ssgdx) | [Tempat Untuk Pulang](https://open.spotify.com/album/0MR48dz9ddtrGUnWV3FxXO) | 4:18 | 2025-06-05 | 2025-10-17 |
 | [Mancation](https://open.spotify.com/track/4idgkZeNpSjxfdXJqLvEYB) | [Jundy Salut](https://open.spotify.com/artist/630LcUjYXp9RxxvnU9fUkP) | [Mancation](https://open.spotify.com/album/4YMjEC9Zf43DY4TsxqfvSg) | 7:36 | 2025-05-22 | 2026-02-13 |
+| [Maria](https://open.spotify.com/track/0c3SfEvaW19TjHr3fNWzz1) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Maria](https://open.spotify.com/album/6yeYVUHck7wnIQs5hBeiEm) | 3:08 | 2026-05-29 |  |
 | [Masuk Angin](https://open.spotify.com/track/73O8kVxE8Ipkd3JWCVEWGe) | [ArumtaLa](https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev) | [Masuk Angin](https://open.spotify.com/album/6VydJRMeBiu8s23XbyboNc) | 3:40 | 2024-01-25 |  |
 | [Mata Kuru Made](https://open.spotify.com/track/2jUNYwyUqAU9ScJTGos3Be) | [Balawan](https://open.spotify.com/artist/3aKNBxiNR6YBHvOoi6f9Cm) | [Mata Kuru Made](https://open.spotify.com/album/5pU0oolHQu8XOxAZEjtxd8) | 4:33 | 2023-03-24 | 2023-06-30 |
 | [Melawan Takdir](https://open.spotify.com/track/5NT81HlBEmoi8IEhL5jV8m) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy), [Azizah Hanum](https://open.spotify.com/artist/5mEePWMgxiwAULqU0nrQig) | [Melawan Takdir](https://open.spotify.com/album/32Rr9t1JgFxjFAXLXY1vmQ) | 3:09 | 2022-09-02 | 2023-06-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2dv5GoUdPb2tbF18NeZEDH.md) - [plain]
 
 > 
 
-[Glitch&Gold Magazine](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 629 likes - 2 songs - 7 min 7 sec
+[Glitch&Gold Magazine](https://open.spotify.com/user/31jnz6gb3osfynb3qtvugfnc6syq) - 628 likes - 2 songs - 7 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

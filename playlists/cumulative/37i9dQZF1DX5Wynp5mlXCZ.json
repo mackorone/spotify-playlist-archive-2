@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: OSTY\n",
+  "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Maria Sur\n",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "tracks": [
     {
@@ -1342,6 +1342,28 @@
       "duration_ms": 170346,
       "name": "Eurosummer - Girls Trip",
       "url": "https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL"
+    },
+    {
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/57GNwR8r5HpFA4rEVC86iB"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Alina Pash",
+          "url": "https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182450,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/0L9hLpaILakNHtwvgNeMjA"
     },
     {
       "album": {
@@ -3771,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/246XbCYNgp08gU0IZEL4Fi"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187550,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/5QTlZC8X6QZaA2FmuwHuLY"
+    },
+    {
+      "album": {
         "name": "Pretty Slowly",
         "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
       },
@@ -3862,7 +3902,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 342960,
       "name": "Reborn",
       "url": "https://open.spotify.com/track/2xFFRS87enopWS13zvcwwT"
@@ -3920,7 +3960,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 185113,
       "name": "RESTART",
       "url": "https://open.spotify.com/track/5dOSorOf52UN28sHzXUlvO"
@@ -6089,6 +6129,24 @@
     },
     {
       "album": {
+        "name": "\u0431\u0443\u0442\u0438 \u0436\u0438\u0432\u0438\u043c",
+        "url": "https://open.spotify.com/album/0srhfNva5gIWJxceeKVlNe"
+      },
+      "artists": [
+        {
+          "name": "MOLODI",
+          "url": "https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140666,
+      "name": "\u0431\u0443\u0442\u0438 \u0436\u0438\u0432\u0438\u043c",
+      "url": "https://open.spotify.com/track/03rhiuCU57eSopRCdiFcSF"
+    },
+    {
+      "album": {
         "name": "\u0431\u0443\u0442\u0438 \u043e\u043f\u0442\u0438\u043c\u0456\u0441\u0442\u043e\u043c",
         "url": "https://open.spotify.com/album/4kHNdGMPIu00fBtXV5m9es"
       },
@@ -6574,6 +6632,24 @@
       "duration_ms": 204000,
       "name": "\u0413\u0456\u0440\u043a\u043e",
       "url": "https://open.spotify.com/track/7wVEFMpcYtDzqtIc40SGsT"
+    },
+    {
+      "album": {
+        "name": "\u0433\u0456\u0440\u043a\u043e, \u0430\u043b\u0435 \u0437 \u043c\u0435\u0434\u043e\u043c",
+        "url": "https://open.spotify.com/album/0vkrKLrp4Pf5Dz6fLPdPRy"
+      },
+      "artists": [
+        {
+          "name": "\u041c\u0430\u0448\u0430 \u041a\u043e\u043d\u0434\u0440\u0430\u0442\u0435\u043d\u043a\u043e",
+          "url": "https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146652,
+      "name": "\u0433\u0456\u0440\u043a\u043e, \u0430\u043b\u0435 \u0437 \u043c\u0435\u0434\u043e\u043c",
+      "url": "https://open.spotify.com/track/6Bll19Mf3qm4YkZalE22yz"
     },
     {
       "album": {
@@ -8702,7 +8778,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 154576,
       "name": "\u043e\u0434\u043d\u0430 \u0434\u0443\u0448\u0430",
       "url": "https://open.spotify.com/track/6OhopvhVdaw2epZfhCSpKy"
@@ -9846,7 +9922,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 148937,
       "name": "\u0442\u0430\u043d\u0446\u044e\u0432\u0430\u0442\u0438 \u043f\u043e\u043a\u0438 \u0436\u0438\u0432\u0456",
       "url": "https://open.spotify.com/track/2HjMlRBlvhttLIwwcfjT8X"
@@ -10020,7 +10096,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 231692,
       "name": "\u0422\u0438\u0441\u044f\u0447\u0430 \u043f\u0456\u0441\u0435\u043d\u044c",
       "url": "https://open.spotify.com/track/2GufmBTxp2K4SyZUJ5xmev"
@@ -10198,6 +10274,24 @@
       "duration_ms": 218373,
       "name": "\u0422\u0456\u0448\u0443",
       "url": "https://open.spotify.com/track/5vhBDIUlgxoGQk4yAuyH3D"
+    },
+    {
+      "album": {
+        "name": "\u0443 \u0435\u043a\u0441\u0430 \u043d\u0430 \u0448\u0432\u0438\u0434\u043a\u043e\u043c\u0443 \u043d\u0430\u0431\u043e\u0440\u0456",
+        "url": "https://open.spotify.com/album/33PfTMCQC2ZAhImXZeoBlw"
+      },
+      "artists": [
+        {
+          "name": "TAKAYA",
+          "url": "https://open.spotify.com/artist/4jLIjIj0Lc0dpbWQWjsZXQ"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "\u0443 \u0435\u043a\u0441\u0430 \u043d\u0430 \u0448\u0432\u0438\u0434\u043a\u043e\u043c\u0443 \u043d\u0430\u0431\u043e\u0440\u0456",
+      "url": "https://open.spotify.com/track/3fgySqLay00jM5hvzRODCQ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8    Cover: A Good Year",
+  "description": "det handler ik' om alder, men om young soundsss \ud83e\udd60",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Fra ingenting til noget",
+        "url": "https://open.spotify.com/album/2bQRAwymZ1IJevDEqB6d9c"
+      },
+      "artists": [
+        {
+          "name": "Nikolaj Manuel Vonsild",
+          "url": "https://open.spotify.com/artist/1PWTPCO6vddVyU1g1TxCcO"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208837,
+      "name": "Fra ingenting til noget",
+      "url": "https://open.spotify.com/track/3V8sVLw7yu3JHg0IWwkfaZ"
+    },
+    {
+      "album": {
         "name": "Legeb\u00f8rn",
         "url": "https://open.spotify.com/album/1IrfYgdNAzSX4NzPB0pjKD"
       },
@@ -4436,7 +4454,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 183163,
       "name": "Mareridt",
       "url": "https://open.spotify.com/track/6hhNPBPQDhO0WYbhVFFCIM"
@@ -6737,6 +6755,28 @@
     },
     {
       "album": {
+        "name": "Troede Det Var Os",
+        "url": "https://open.spotify.com/album/7DqmAsltUZkIQNC60FJK2W"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        },
+        {
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174627,
+      "name": "Troede Det Var Os",
+      "url": "https://open.spotify.com/track/0o7TS3c91RbVB0MKX6KsXL"
+    },
+    {
+      "album": {
         "name": "Tr\u00e6",
         "url": "https://open.spotify.com/album/6VNRVd5whVnFT6PSFPpR6R"
       },
@@ -7318,7 +7358,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 198812,
       "name": "Verona",
       "url": "https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw"

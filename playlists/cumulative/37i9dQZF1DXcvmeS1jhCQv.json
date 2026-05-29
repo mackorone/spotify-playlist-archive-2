@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: Aby Coulibaly",
+  "description": "New tunes from Ireland for your discovery. Cover: Kingfishr",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -294,6 +294,24 @@
       "duration_ms": 142550,
       "name": "Alive O",
       "url": "https://open.spotify.com/track/2j6zL6sSaMMucvi2xJ249A"
+    },
+    {
+      "album": {
+        "name": "modernlove.",
+        "url": "https://open.spotify.com/album/4XDvxGdkDLvfUJO6gfVZ1x"
+      },
+      "artists": [
+        {
+          "name": "modernlove.",
+          "url": "https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184360,
+      "name": "All About You",
+      "url": "https://open.spotify.com/track/2hVlxeaMNN9VsOz8MPVsGn"
     },
     {
       "album": {
@@ -2046,7 +2064,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 198614,
       "name": "Doo Doo Doo Doo Doo",
       "url": "https://open.spotify.com/track/4EU5lWEahNC2sv6IhNGzkq"
@@ -2458,7 +2476,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 191706,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C"
@@ -3215,6 +3233,24 @@
     },
     {
       "album": {
+        "name": "Folk Songs For Mama & Papa",
+        "url": "https://open.spotify.com/album/3Dz30IXCMnQLFsIDomOvRt"
+      },
+      "artists": [
+        {
+          "name": "AE MAK",
+          "url": "https://open.spotify.com/artist/2VQ0jNisT4VhPs41VGvvTX"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175346,
+      "name": "I Will Walk The Path",
+      "url": "https://open.spotify.com/track/13a1EU2buHvyKZrjylfUsi"
+    },
+    {
+      "album": {
         "name": "i would always fall",
         "url": "https://open.spotify.com/album/2PSZy1xQ6pglwwx7ySScfz"
       },
@@ -3724,7 +3760,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 158882,
       "name": "Just A Man",
       "url": "https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm"
@@ -4340,6 +4376,28 @@
       "duration_ms": 278053,
       "name": "Magpie",
       "url": "https://open.spotify.com/track/2FnXW99ww6e0LREz0WN2hv"
+    },
+    {
+      "album": {
+        "name": "Maiden City",
+        "url": "https://open.spotify.com/album/2CVze4H2LWxWSz1ayDjqLE"
+      },
+      "artists": [
+        {
+          "name": "Disfreq",
+          "url": "https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345"
+        },
+        {
+          "name": "somedeadbeat",
+          "url": "https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236488,
+      "name": "Maiden City",
+      "url": "https://open.spotify.com/track/6YmmE0MmXb3cIflkrf2xdp"
     },
     {
       "album": {
@@ -7233,6 +7291,24 @@
     },
     {
       "album": {
+        "name": "The Sun Will Never Settle",
+        "url": "https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "The Sun Will Never Settle",
+      "url": "https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA"
+    },
+    {
+      "album": {
         "name": "The What",
         "url": "https://open.spotify.com/album/5BpDfN45G6hpGdwjnD8TZZ"
       },
@@ -7796,6 +7872,24 @@
       "duration_ms": 265173,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6l8jDnOuzV0se6Xqg04pk3"
+    },
+    {
+      "album": {
+        "name": "We Fall",
+        "url": "https://open.spotify.com/album/2a9ZkB99tNx8XmWXjCegpM"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241781,
+      "name": "We Fall",
+      "url": "https://open.spotify.com/track/29tmBVWOnuKqLR4RlhKcgS"
     },
     {
       "album": {

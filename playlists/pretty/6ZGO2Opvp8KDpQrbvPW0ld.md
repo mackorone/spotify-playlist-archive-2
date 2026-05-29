@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 73,685 likes - 350 songs - 12 hr 1 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 73,682 likes - 350 songs - 12 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 69 | [bon bon](https://open.spotify.com/track/1Wdg4JKJzCDHNKFM9h0kSU) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I) | [bon bon](https://open.spotify.com/album/0NV0DJfCNfBGKesKAGVLXq) | 1:51 |
 | 70 | [mata aimasho](https://open.spotify.com/track/4h1RRJrWRqeAuj498Fvoup) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW), [Ahntow](https://open.spotify.com/artist/4916V2MuzFT62WpTGgm64H) | [mata aimasho](https://open.spotify.com/album/3kxDP07cndJKGbEeLK2UOH) | 1:56 |
 | 71 | [Daylight](https://open.spotify.com/track/0ZvNQguJfd3cfqHoM48jb8) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Daylight](https://open.spotify.com/album/5J4S3NPqZtB3NEqFPvSKhT) | 2:10 |
-| 72 | [Osaka Wondering](https://open.spotify.com/track/2EhkoEt2PXubbpHHWEATwo) | [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy), [Noche](https://open.spotify.com/artist/3xB7gQn3CiHux1BM7fpWnN), [Florence](https://open.spotify.com/artist/7aPHzE5rPp3cJlHWDJlTGv) | [Osaka Wondering](https://open.spotify.com/album/50Uie3W8RR4RWugkUqGLAh) | 1:54 |
+| 72 | [Osaka Wondering](https://open.spotify.com/track/2EhkoEt2PXubbpHHWEATwo) | [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy), [nøche](https://open.spotify.com/artist/5GiZKaN7sa5ylr3MI104Zz), [Florence](https://open.spotify.com/artist/7aPHzE5rPp3cJlHWDJlTGv) | [Osaka Wondering](https://open.spotify.com/album/50Uie3W8RR4RWugkUqGLAh) | 1:54 |
 | 73 | [Jazz in the City](https://open.spotify.com/track/2vvUluydEO7LbSLWbQtLuB) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [Jazz in the City](https://open.spotify.com/album/0kZmzvaMQ7k1Kp84rBM4nq) | 1:32 |
 | 74 | [Sora](https://open.spotify.com/track/28YnvxbswtKqWexCbmncms) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Sora](https://open.spotify.com/album/3OXUj8f4AC7eCEO3MdNA8Q) | 2:02 |
 | 75 | [King of Red Lions \(lofi\)](https://open.spotify.com/track/1Q9jyEyeyGKTRua3GtW0DH) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [The Deku Trio](https://open.spotify.com/artist/5et56haDj7EgBmGrXG8uex) | [King of Red Lions \(lofi\)](https://open.spotify.com/album/1w8Gmw60baKUMUBtD9F9dG) | 1:59 |

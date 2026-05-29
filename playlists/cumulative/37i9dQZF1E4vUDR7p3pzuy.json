@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "I Will Be That Dying Star in Your Sky",
+        "url": "https://open.spotify.com/album/0evj1fkZd1HWn6M3o0K2SD"
+      },
+      "artists": [
+        {
+          "name": "Red Mecca",
+          "url": "https://open.spotify.com/artist/3ooJ0beiCHfcxsvM0Zhvmp"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286026,
+      "name": "Always Everything",
+      "url": "https://open.spotify.com/track/48CU1fIgGHmuLgtQacWqh4"
+    },
+    {
+      "album": {
         "name": "Always Me",
         "url": "https://open.spotify.com/album/4SoSUo1SeMXH0NQ5cgoHvP"
       },
@@ -530,7 +548,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 195579,
       "name": "Always Me",
       "url": "https://open.spotify.com/track/3TBF6E2vcr2F0EZIS9fmLR"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 280798,
       "name": "Angel of Your Love",
       "url": "https://open.spotify.com/track/4p3n8QcFSSeyGFwvHIM2ph"
@@ -1352,6 +1370,24 @@
       "duration_ms": 317997,
       "name": "Blast",
       "url": "https://open.spotify.com/track/6CiJ6Qx5lFZDbd0o8JCziN"
+    },
+    {
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/7KJ9r2YHllq5jnGCceHHEY"
+      },
+      "artists": [
+        {
+          "name": "mischa and the bear",
+          "url": "https://open.spotify.com/artist/3cFTwm9iMUeFMNMmrnb1s6"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196425,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/1lH6zEMSZHul8Mbj5y4wtf"
     },
     {
       "album": {
@@ -2414,7 +2450,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -2656,7 +2692,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 240797,
       "name": "Crimson claws",
       "url": "https://open.spotify.com/track/6qdVQrG1rQq0V3zP27utzf"
@@ -3682,7 +3718,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 252461,
       "name": "Embers Are My Crown",
       "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
@@ -4064,10 +4100,28 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 132250,
       "name": "Fear Of extinction",
       "url": "https://open.spotify.com/track/2HF3Ro2XlnqP1S5iFzxSQd"
+    },
+    {
+      "album": {
+        "name": "Fear Of Love",
+        "url": "https://open.spotify.com/album/2btGoWspeY5bL8w61MQoOX"
+      },
+      "artists": [
+        {
+          "name": "Abuses",
+          "url": "https://open.spotify.com/artist/2NFHW09GVpoGnTKJpTQm7E"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201526,
+      "name": "Fear Of Love",
+      "url": "https://open.spotify.com/track/2iaqIN46Ag9tfrb4h6AStT"
     },
     {
       "album": {
@@ -5575,6 +5629,24 @@
     },
     {
       "album": {
+        "name": "I Heard It from Your Other Friend",
+        "url": "https://open.spotify.com/album/0eStlPrrV4yCFWZkqk5o9w"
+      },
+      "artists": [
+        {
+          "name": "BAST",
+          "url": "https://open.spotify.com/artist/1jWGG5hbLWsoaXKmsBrR9z"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217546,
+      "name": "I Heard It from Your Other Friend",
+      "url": "https://open.spotify.com/track/1z2llNZKwHENaA7KS9S4M8"
+    },
+    {
+      "album": {
         "name": "I Love to Hate You",
         "url": "https://open.spotify.com/album/2dcGghiK3LwUgT5xJA9vU5"
       },
@@ -5665,6 +5737,28 @@
     },
     {
       "album": {
+        "name": "Tommyland Rides Again",
+        "url": "https://open.spotify.com/album/1B7C79fIiVtud6AMWJm4ol"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lee",
+          "url": "https://open.spotify.com/artist/4b9L0p4cMof32XvjwT9YrX"
+        },
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186826,
+      "name": "I Need You (feat. Andrew McMahon) - 2026 Remaster",
+      "url": "https://open.spotify.com/track/091cmGLHGVpRv1yf3KpRje"
+    },
+    {
+      "album": {
         "name": "The Short Way Home",
         "url": "https://open.spotify.com/album/6r8d7Gm02NbuDcV0HiHEUe"
       },
@@ -5748,7 +5842,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 281500,
       "name": "I'm made for more",
       "url": "https://open.spotify.com/track/43qb7qNNuxjUq6Kq0APvcR"
@@ -6184,7 +6278,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -8274,7 +8368,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 223663,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/7eJiTUS9FthmhEL9qOrisn"
@@ -8714,7 +8808,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-30",
+      "date_removed": null,
       "duration_ms": 309020,
       "name": "Porcelain - Black Remix",
       "url": "https://open.spotify.com/track/4AkRx8vmUX3JLOkPtMXE0t"
@@ -8848,7 +8942,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 293931,
       "name": "Promise to Love You",
       "url": "https://open.spotify.com/track/7KF7eQ84C52Jid7Olt3FtI"
@@ -9260,7 +9354,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 186549,
       "name": "Robey Ven",
       "url": "https://open.spotify.com/track/242Lof3nt3f8rFgauer135"
@@ -9776,7 +9870,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 376000,
       "name": "September",
       "url": "https://open.spotify.com/track/1T2ty4xOFcAyV3nrmPfniv"
@@ -10600,7 +10694,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 176949,
       "name": "Spider Spider",
       "url": "https://open.spotify.com/track/2KzArEhoiR0aHmEodyuTi0"
@@ -11207,6 +11301,24 @@
     },
     {
       "album": {
+        "name": "Tearskin",
+        "url": "https://open.spotify.com/album/5CRxOjzKCZxdLFnmIEHly6"
+      },
+      "artists": [
+        {
+          "name": "S\u00efan Able",
+          "url": "https://open.spotify.com/artist/5cqnOxxaXKptSgiYHSp7hh"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219247,
+      "name": "Tearskin",
+      "url": "https://open.spotify.com/track/0tf0ezYl2zS1j3p5RV7CR0"
+    },
+    {
+      "album": {
         "name": "Teenage Dark Love",
         "url": "https://open.spotify.com/album/3tqZfgZWLVRYXWfKAWYIdn"
       },
@@ -11360,7 +11472,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 343461,
       "name": "The Becoming",
       "url": "https://open.spotify.com/track/0bE2LFEgksd5KwAWvLnFuu"
@@ -11702,7 +11814,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 264000,
       "name": "The Last Plague",
       "url": "https://open.spotify.com/track/1Ql39uWKAixAfwUkXFertZ"
@@ -11720,7 +11832,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 208703,
       "name": "The Long Drive",
       "url": "https://open.spotify.com/track/0ViZJbt9VJiWMX6WDFIJsb"
@@ -12254,7 +12366,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 206857,
       "name": "Through the Glass",
       "url": "https://open.spotify.com/track/4YAJwhrDUeu9PPohOU3Z6D"
@@ -12982,7 +13094,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 214909,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/0CcjAsFdi3wMukU6Yfnrkl"
@@ -13616,6 +13728,24 @@
       "duration_ms": 223992,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/42Nfq6w92eSBp9CGJa75k6"
+    },
+    {
+      "album": {
+        "name": "White Mask",
+        "url": "https://open.spotify.com/album/4trryuexVDOdij1MDtYYb2"
+      },
+      "artists": [
+        {
+          "name": "pixelgrinder",
+          "url": "https://open.spotify.com/artist/2XxF2yIdWmR4U7w5yde7vZ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242093,
+      "name": "White Mask",
+      "url": "https://open.spotify.com/track/6CeYn56bnVviSINoisMbUx"
     },
     {
       "album": {

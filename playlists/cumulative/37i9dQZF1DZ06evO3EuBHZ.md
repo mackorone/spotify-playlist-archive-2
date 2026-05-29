@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-200 songs - 11 hr 9 min
+201 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,8 +185,9 @@
 | [The Fish](https://open.spotify.com/track/4ZS7RhuXXxbNxdJvmnLnqK) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Bill Harvey Orchestra](https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI), [Essential Classics](https://open.spotify.com/artist/3N7AfUOyfxjblhD6wygyTN) | [Essential Classics, Vol\. 467: Big Mama Thornton](https://open.spotify.com/album/6YiATnx59DC1o7QQqyf8L1) | 2:45 | 2024-10-04 | 2024-11-29 |
 | [The Place](https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 2:35 | 2022-08-05 |  |
 | [They Call Me Big Mama](https://open.spotify.com/track/5Jh3NzWY3k48uUxuSUhSip) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 2:04 | 2022-08-06 | 2023-03-22 |
-| [They Call Me Big Mama](https://open.spotify.com/track/61ChIhjgqnw9Qxw5GvunMR) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:04 | 2023-03-25 |  |
+| [They Call Me Big Mama](https://open.spotify.com/track/61ChIhjgqnw9Qxw5GvunMR) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:04 | 2023-03-25 | 2026-05-29 |
 | [They Call Me Big Mama](https://open.spotify.com/track/2i2whoANAvSNNPCmtnvsvH) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Partnership Blues](https://open.spotify.com/album/0voSghiO7eWsm9N2Ahb8GA) | 2:05 | 2023-07-10 | 2024-04-08 |
+| [They Call Me Big Mama \- Single Version](https://open.spotify.com/track/2OA4F3q6JcnacHjLmOf9gI) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog \- The Essential Collection](https://open.spotify.com/album/7AX4dOBsgMfBeNewikf2X4) | 2:02 | 2026-05-29 |  |
 | [Unlucky Girl](https://open.spotify.com/track/4GtgMARJnScBp2ligd4IjB) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball N' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:20 | 2022-08-05 |  |
 | [Wade in the Water](https://open.spotify.com/track/5jNf4ySgw6CCnBUuOZNUYL) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 2:56 | 2022-08-05 | 2022-10-13 |
 | [Walking Blues](https://open.spotify.com/track/6DZ1pkIq00eZLC8pnHP8gF) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Blues Collective \- Big Mama Thornton](https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw) | 3:00 | 2023-03-22 | 2023-04-19 |
@@ -207,6 +208,6 @@
 | [You Did Me Wrong \- Remastered](https://open.spotify.com/track/0U0SW1j1vSov7qHefeHS19) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Anthology: Her Golden Years \(Remastered\)](https://open.spotify.com/album/62orITUXb62uB9JoYrW6qc) | 2:42 | 2024-12-20 | 2024-12-23 |
 | [You Don't Move Me No More](https://open.spotify.com/track/0KRFCq8CjXAsTQSaDpRJHZ) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:43 | 2024-01-30 | 2024-04-16 |
 | [You Don't Move Me No More](https://open.spotify.com/track/76Q5gNEm1yxP7NDzdo2aOp) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 2:43 | 2022-08-09 | 2023-03-15 |
-| [You Don't Move Me No More](https://open.spotify.com/track/6hLAZpaUTEz80mH14TVkcL) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:43 | 2022-08-25 | 2024-07-24 |
+| [You Don't Move Me No More](https://open.spotify.com/track/6hLAZpaUTEz80mH14TVkcL) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog / The Peacock Recordings](https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S) | 2:43 | 2022-08-25 |  |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

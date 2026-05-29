@@ -4,7 +4,7 @@
 
 > canzoni per una primavera non proprio felice 🥀 cover: EMMA al MI AMI Festival \(credits: Giovanni Paracini\)
 
-1,704 songs - 3 day 6 hr 15 min
+1,707 songs - 3 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [BAD MOOD](https://open.spotify.com/track/5ush1W9PbAhCaW9TZIjzun) | [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ), [gothskyler](https://open.spotify.com/artist/5Icn4IrF6ZRh3SOshHAsJx) | [BAD MOOD](https://open.spotify.com/album/2IRdvbkfv7mYJcVYuK6Zgm) | 2:16 | 2024-06-06 | 2024-06-28 |
 | [Baggen](https://open.spotify.com/track/4amQQ9Z5pHo2kpe3jUK47T) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [Baggen](https://open.spotify.com/album/72eKrH7WXEhT2sQeNdYE1W) | 3:09 | 2023-10-12 | 2024-03-22 |
 | [Ballando Con Te](https://open.spotify.com/track/2i80maftqYWVSRst3reXCo) | [Chicoboyah](https://open.spotify.com/artist/1fBkKzgI3Bl1R2ePXRAcTW) | [Ballando Con Te](https://open.spotify.com/album/7wP30X1uVRN1yEjKO4DfRo) | 3:19 | 2026-01-23 |  |
+| [Balleremo](https://open.spotify.com/track/4cjGNHTLNQ2XWtnV3vbhgr) | [Dasplan](https://open.spotify.com/artist/3NTgDjVbLSiv0d7NW6MGhP) | [Balleremo](https://open.spotify.com/album/1NkMN4kEtsUwir8JRum22H) | 3:19 | 2026-05-28 |  |
 | [BAMBINA IN DISCOTECA](https://open.spotify.com/track/5xgYbfxberTCnMlMrnmGHh) | [Giovanni Ti Amo](https://open.spotify.com/artist/29OsfkIbRZNyCeodZ0uc6K) | [BAMBINA IN DISCOTECA](https://open.spotify.com/album/0Hc1ajYXVxUQyoOZ1aP5x1) | 2:09 | 2022-12-08 | 2022-12-24 |
 | [BAMBINI VECCHI \(Fantasy\)](https://open.spotify.com/track/4Yy7MgDF6Zz32x0AE4dy2Q) | [MilesToy](https://open.spotify.com/artist/70Aar9GzCVdqrppzzQ0vU6) | [BAMBINI VECCHI \(Fantasy\)](https://open.spotify.com/album/7phGRMfDC0Q6huQWwJ7nMn) | 2:58 | 2022-12-22 | 2023-01-13 |
 | [Bambino](https://open.spotify.com/track/5PN45xdNO9aTq1zhMaSS1H) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH) | [Bambino](https://open.spotify.com/album/7Dg9xWHAxs8XbGmSCOIhfd) | 2:44 | 2023-02-23 | 2023-04-28 |
@@ -651,6 +652,7 @@
 | [Gocce](https://open.spotify.com/track/3SEae5NvhxHrZyU7DkpCEF) | [ventitrevoltemario](https://open.spotify.com/artist/6w0NvwmzOqPi8nvb7URfdo) | [Gocce](https://open.spotify.com/album/12JLnKlWN4ykO4wINtRNaA) | 2:46 | 2025-02-20 | 2025-04-25 |
 | [GOCCE NEL CASSETTO](https://open.spotify.com/track/2ejfUOXvhiFr3OuWdflY0s) | [Stefy Evita](https://open.spotify.com/artist/4Z04kBsbXXAHT9HnboyBiz) | [GOCCE NEL CASSETTO](https://open.spotify.com/album/1IHAinQC6AO3vKxKFszvHP) | 2:56 | 2025-01-23 | 2025-05-09 |
 | [Goccia](https://open.spotify.com/track/1d3Ar2b9vFKIkr7PGZBSDM) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [Playa Sanguedoro](https://open.spotify.com/album/64thJHuBUy3jnH7K83DCP6) | 2:41 | 2024-07-04 | 2024-11-29 |
+| [GOCCIOLINE](https://open.spotify.com/track/2nxDEEv10MBHjXVqAMPmSA) | [Peri](https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl) | [GOCCIOLINE](https://open.spotify.com/album/00OEbyvdXwNF9CBzYdwwzo) | 3:02 | 2026-05-28 |  |
 | [Gold](https://open.spotify.com/track/1QJdBEY5q9hLI0L14whtZM) | [Marta Vega](https://open.spotify.com/artist/7KtHuw3e8j6LnA4PIHyhAr) | [Confessions](https://open.spotify.com/album/1aVsfI84q3OHuC0gpcFTij) | 3:14 | 2025-02-13 | 2025-04-04 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-06-27 | 2026-04-17 |
 | [GOOGLEAMORE](https://open.spotify.com/track/6WLqVxJhsjXsCojKjRt2wx) | [Vale LP](https://open.spotify.com/artist/4nTnJuhLXyyNms4wowqmkQ), [Lil Jolie](https://open.spotify.com/artist/2IhanhNfIn38Qjybdt2ie9) | [LE RAGAZZE DELLA VALLE](https://open.spotify.com/album/1DcCElVfBLCCdQSdqnZHcc) | 2:38 | 2025-05-22 | 2026-03-20 |
@@ -1006,6 +1008,7 @@
 | [Non Ci Resta Che Piangere](https://open.spotify.com/track/2MitF7fQCeixbfhwa7zhjL) | [Nil](https://open.spotify.com/artist/6By1HwIaVS27ieWWKPMFB2) | [Non Ci Resta Che Piangere](https://open.spotify.com/album/0wbbTv1668TDwxbasr7oeT) | 2:45 | 2025-12-11 | 2026-01-02 |
 | [NON CI SEI](https://open.spotify.com/track/1bXeU6ZUjpjhB6j5TgU6DW) | [Keiden](https://open.spotify.com/artist/7vDYluyeES43WBk8Jk29Ib) | [NON CI SEI](https://open.spotify.com/album/5fPMnFONs18mBDGhT7G1uV) | 2:47 | 2025-01-23 | 2025-03-28 |
 | [NON CI SENTIAMO](https://open.spotify.com/track/1IE3dsoXPx6PK19rVb01bN) | [hso](https://open.spotify.com/artist/2Jqn0PKbcKi3q8TSsvyeKc) | [NON CI SENTIAMO](https://open.spotify.com/album/7BNuGCLuPTJCaopyAncJYP) | 2:31 | 2023-10-19 | 2023-11-17 |
+| [Non Dirlo a Nessuno](https://open.spotify.com/track/0xFSKX78eemmBowhKGxzVl) | [edoEdo](https://open.spotify.com/artist/7y8r29XzidWpzDmSuhHZVP) | [Non Dirlo a Nessuno](https://open.spotify.com/album/5v9LKjUfCLlKOSlbdgwvgU) | 2:31 | 2026-05-28 |  |
 | [Non dovevo farlo](https://open.spotify.com/track/3ODSL16OKr7HLeNxYhw0K5) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Non dovevo farlo](https://open.spotify.com/album/3ZUtORdZq7mJFcz79IVk8K) | 2:42 | 2022-06-09 | 2022-12-09 |
 | [NON ERA AMORE](https://open.spotify.com/track/72OBcxbgEcS2pmMjaA5C2e) | [YAMI](https://open.spotify.com/artist/2xbuMk1mfI2YFs5bSrLz1J), [Moka](https://open.spotify.com/artist/4NxXNoJqH1syvVs3279ZsY) | [NON ERA AMORE](https://open.spotify.com/album/21p5YGa8g4e7fsNFXdgvZX) | 2:49 | 2024-09-26 | 2024-12-20 |
 | [Non fa per me](https://open.spotify.com/track/3O66zFEQF2LLmDqt8vFd7V) | [Still Charles](https://open.spotify.com/artist/2KFv9jOFkybE6VjzZ4Ishe) | [Non fa per me](https://open.spotify.com/album/34W0ANfNz551RHuo1m3CcU) | 2:53 | 2022-05-06 | 2022-06-10 |

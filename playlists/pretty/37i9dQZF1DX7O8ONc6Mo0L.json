@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 380971,
+  "num_followers": 381027,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
-        "name": "P\u00e9s Descal\u00e7os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 443013,
-      "name": "P\u00e9s Descal\u00e7os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
         "name": "Deus N\u00e3o \u00c9 Culpado (Ao Vivo)",
         "url": "https://open.spotify.com/album/66ThLOkhewpwuRcD6bsftw"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 289189,
       "name": "Deus N\u00e3o \u00c9 Culpado - Ao Vivo",
       "url": "https://open.spotify.com/track/7maxojilY61gGGWX6xcpo1"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
+        "name": "P\u00e9s Descal\u00e7os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7i50ZWb0o1IlMBpJl4x57G"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 443013,
+      "name": "P\u00e9s Descal\u00e7os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4VOsJRyiADQaROG2e6NZyL"
     },
     {
       "added_at": "2026-03-13 19:15:18",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
-        "name": "Voz e Viol\u00e3o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6glr1kILyy9z47Uz4BkVFz"
-      },
-      "artists": [
-        {
-          "name": "Alisson Santos",
-          "url": "https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ"
-        }
-      ],
-      "duration_ms": 244917,
-      "name": "Eu Prefiro Adorar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6XDaefR7b2nX6seYVYcnQ2"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
         "name": "O Lugar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3b5JIWeAc983PvpFjscVjb"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 211999,
       "name": "O Lugar (Ao Vivo)",
       "url": "https://open.spotify.com/track/21KjObq0eAFQD3Dahk5O2m"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
+        "name": "Voz e Viol\u00e3o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6glr1kILyy9z47Uz4BkVFz"
+      },
+      "artists": [
+        {
+          "name": "Alisson Santos",
+          "url": "https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ"
+        }
+      ],
+      "duration_ms": 244917,
+      "name": "Eu Prefiro Adorar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6XDaefR7b2nX6seYVYcnQ2"
     },
     {
       "added_at": "2026-03-13 19:15:18",

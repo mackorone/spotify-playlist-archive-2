@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 342615,
+  "num_followers": 342821,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,26 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "what stayed after you left",
+        "url": "https://open.spotify.com/album/6jpYWedczd8uOiQqvpAkBE"
+      },
+      "artists": [
+        {
+          "name": "Fieldn\u00f8te",
+          "url": "https://open.spotify.com/artist/0lFZFORfkO4KUR7f2a3gLN"
+        },
+        {
+          "name": "Peter Mowry",
+          "url": "https://open.spotify.com/artist/4mafztcbCRLBcgsVyf19nU"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "what stayed after you left",
+      "url": "https://open.spotify.com/track/1qDc9kOiH3F8J8A8X7oZQq"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "father\u00b4s love",
         "url": "https://open.spotify.com/album/1ComDzN2mFJDpIQv5uVt5E"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 93225,
       "name": "father\u00b4s love",
       "url": "https://open.spotify.com/track/6F7xtmh542Czm54izE7RIe"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "what stayed after you left",
-        "url": "https://open.spotify.com/album/6jpYWedczd8uOiQqvpAkBE"
-      },
-      "artists": [
-        {
-          "name": "Fieldn\u00f8te",
-          "url": "https://open.spotify.com/artist/0lFZFORfkO4KUR7f2a3gLN"
-        },
-        {
-          "name": "Peter Mowry",
-          "url": "https://open.spotify.com/artist/4mafztcbCRLBcgsVyf19nU"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "what stayed after you left",
-      "url": "https://open.spotify.com/track/1qDc9kOiH3F8J8A8X7oZQq"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "try to find you",
-        "url": "https://open.spotify.com/album/2L6M7uhtmkIfnsFjezamjU"
-      },
-      "artists": [
-        {
-          "name": "Inlirium",
-          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
-        }
-      ],
-      "duration_ms": 99493,
-      "name": "try to find you",
-      "url": "https://open.spotify.com/track/5YflECMsYbbO4ngUIhsCNX"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "fly high",
         "url": "https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 107056,
       "name": "fly high",
       "url": "https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "try to find you",
+        "url": "https://open.spotify.com/album/2L6M7uhtmkIfnsFjezamjU"
+      },
+      "artists": [
+        {
+          "name": "Inlirium",
+          "url": "https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib"
+        }
+      ],
+      "duration_ms": 99493,
+      "name": "try to find you",
+      "url": "https://open.spotify.com/track/5YflECMsYbbO4ngUIhsCNX"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "silent",
-        "url": "https://open.spotify.com/album/4rxSQvhSIfwTGUeqfafBrn"
-      },
-      "artists": [
-        {
-          "name": "Bhxa",
-          "url": "https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "silent",
-      "url": "https://open.spotify.com/track/2TXXJo8xBzq3eszQkA391r"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "if things were different",
         "url": "https://open.spotify.com/album/2cQI2arOtejZN6geQc6xXr"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 98108,
       "name": "for us",
       "url": "https://open.spotify.com/track/45R6vmTyzezkT5I96ZJUvN"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "silent",
+        "url": "https://open.spotify.com/album/4rxSQvhSIfwTGUeqfafBrn"
+      },
+      "artists": [
+        {
+          "name": "Bhxa",
+          "url": "https://open.spotify.com/artist/0FayAsrcVWzpOFe9FCn4t4"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "silent",
+      "url": "https://open.spotify.com/track/2TXXJo8xBzq3eszQkA391r"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "my last days on earth",
+        "url": "https://open.spotify.com/album/0KwmxR4yFvFRmbIACIBH89"
+      },
+      "artists": [
+        {
+          "name": "undercurrent.",
+          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "my last days on earth",
+      "url": "https://open.spotify.com/track/2yPZ665zeVWZErn9lNVzKF"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "you were never really mine.",
         "url": "https://open.spotify.com/album/5E6OdnHaCFon4AqeapKc1I"
       },
@@ -1195,22 +1211,18 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Decomposition: Fox on a Highway",
-        "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
       "artists": [
         {
-          "name": "Saapato",
-          "url": "https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt"
-        },
-        {
-          "name": "Ben Seretan",
-          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
         }
       ],
-      "duration_ms": 201423,
-      "name": "Fur and Exhaust",
-      "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1231,18 +1243,38 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+        "name": "Decomposition: Fox on a Highway",
+        "url": "https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB"
       },
       "artists": [
         {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+          "name": "Saapato",
+          "url": "https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt"
+        },
+        {
+          "name": "Ben Seretan",
+          "url": "https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa"
         }
       ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
+      "duration_ms": 201423,
+      "name": "Fur and Exhaust",
+      "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Womb Trails",
+        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
+      },
+      "artists": [
+        {
+          "name": "Vile Karimi",
+          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
+        }
+      ],
+      "duration_ms": 200059,
+      "name": "Perpetual Care",
+      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1267,38 +1299,6 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Womb Trails",
-        "url": "https://open.spotify.com/album/2JNoncPfQy0XJGxzADRGBG"
-      },
-      "artists": [
-        {
-          "name": "Vile Karimi",
-          "url": "https://open.spotify.com/artist/0bnejaF6VYzssOaUveetsL"
-        }
-      ],
-      "duration_ms": 200059,
-      "name": "Perpetual Care",
-      "url": "https://open.spotify.com/track/00obKbt8QTLsUoSNGvVd2e"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "my last days on earth",
-        "url": "https://open.spotify.com/album/0KwmxR4yFvFRmbIACIBH89"
-      },
-      "artists": [
-        {
-          "name": "undercurrent.",
-          "url": "https://open.spotify.com/artist/1GadL8gKNORWAIsnnaJcpO"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "my last days on earth",
-      "url": "https://open.spotify.com/track/2yPZ665zeVWZErn9lNVzKF"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
         "name": "The Beautiful World",
         "url": "https://open.spotify.com/album/2mYF47xMK4YdDipgj88DSD"
       },
@@ -1311,22 +1311,6 @@
       "duration_ms": 178858,
       "name": "Stray",
       "url": "https://open.spotify.com/track/2qJ1lpSOeAsbHr5WP86KtF"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 363284,
-      "name": "All That's Left Behind",
-      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Nebel",
-        "url": "https://open.spotify.com/album/4gyklZEAM1QW9lOiIPAZCO"
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
       },
       "artists": [
         {
-          "name": "David Cordero",
-          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
         }
       ],
-      "duration_ms": 194077,
-      "name": "Nebel",
-      "url": "https://open.spotify.com/track/5eT7cM9qUIZ8ruUkJilnCz"
+      "duration_ms": 363284,
+      "name": "All That's Left Behind",
+      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1379,6 +1363,22 @@
       "duration_ms": 170878,
       "name": "Close",
       "url": "https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
+        "name": "Nebel",
+        "url": "https://open.spotify.com/album/4gyklZEAM1QW9lOiIPAZCO"
+      },
+      "artists": [
+        {
+          "name": "David Cordero",
+          "url": "https://open.spotify.com/artist/5yE5AG06GxRrh6Hw9qSJOQ"
+        }
+      ],
+      "duration_ms": 194077,
+      "name": "Nebel",
+      "url": "https://open.spotify.com/track/5eT7cM9qUIZ8ruUkJilnCz"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
+        "name": "lost in a memory",
+        "url": "https://open.spotify.com/album/4yJijb3dcyfKZipPi0D3Ou"
+      },
+      "artists": [
+        {
+          "name": "\u00d8nedream",
+          "url": "https://open.spotify.com/artist/4TLZjB1XM0iMf74RcB9Oy2"
+        }
+      ],
+      "duration_ms": 168013,
+      "name": "lost in a memory",
+      "url": "https://open.spotify.com/track/1Z4ToDnBCYj8dirUlwY9pf"
+    },
+    {
+      "added_at": "2026-05-15 04:00:43",
+      "album": {
         "name": "Love Is Colder Than Death",
         "url": "https://open.spotify.com/album/04G4BWBdbZSPZJPE3anfLb"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 170181,
       "name": "no service",
       "url": "https://open.spotify.com/track/2JfoV8oR2kQH5Zy2YWzIZx"
-    },
-    {
-      "added_at": "2026-05-15 04:00:43",
-      "album": {
-        "name": "lost in a memory",
-        "url": "https://open.spotify.com/album/4yJijb3dcyfKZipPi0D3Ou"
-      },
-      "artists": [
-        {
-          "name": "\u00d8nedream",
-          "url": "https://open.spotify.com/artist/4TLZjB1XM0iMf74RcB9Oy2"
-        }
-      ],
-      "duration_ms": 168013,
-      "name": "lost in a memory",
-      "url": "https://open.spotify.com/track/1Z4ToDnBCYj8dirUlwY9pf"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1587,18 +1587,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Line Gone Cold (Deconstructed)",
-        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
+        "name": "snowlight",
+        "url": "https://open.spotify.com/album/6Vya1gJUf9cTkLFacmmwdq"
       },
       "artists": [
         {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+          "name": "dunsky",
+          "url": "https://open.spotify.com/artist/3f92iiHCuHJqZBcfjZ8Vx5"
+        },
+        {
+          "name": "danvy",
+          "url": "https://open.spotify.com/artist/4GobnSPsgkt30gudqZv6He"
         }
       ],
-      "duration_ms": 156500,
-      "name": "Line Gone Cold - Deconstructed",
-      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
+      "duration_ms": 167865,
+      "name": "breath under snow",
+      "url": "https://open.spotify.com/track/6P0BKhuw2QMczkstDlKOMM"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1619,22 +1623,18 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "snowlight",
-        "url": "https://open.spotify.com/album/6Vya1gJUf9cTkLFacmmwdq"
+        "name": "Line Gone Cold (Deconstructed)",
+        "url": "https://open.spotify.com/album/5fMIvFAs8VY75dTMCgsGEq"
       },
       "artists": [
         {
-          "name": "dunsky",
-          "url": "https://open.spotify.com/artist/3f92iiHCuHJqZBcfjZ8Vx5"
-        },
-        {
-          "name": "danvy",
-          "url": "https://open.spotify.com/artist/4GobnSPsgkt30gudqZv6He"
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
         }
       ],
-      "duration_ms": 167865,
-      "name": "breath under snow",
-      "url": "https://open.spotify.com/track/6P0BKhuw2QMczkstDlKOMM"
+      "duration_ms": 156500,
+      "name": "Line Gone Cold - Deconstructed",
+      "url": "https://open.spotify.com/track/02hS8hWSlOdP8FvC2VK063"
     },
     {
       "added_at": "2026-05-15 04:00:43",
@@ -1811,18 +1811,22 @@
     {
       "added_at": "2026-05-15 04:00:43",
       "album": {
-        "name": "Near Silence",
-        "url": "https://open.spotify.com/album/3Xv1uvYnSeU8phHkccNZLe"
+        "name": "nowhere else",
+        "url": "https://open.spotify.com/album/2fzqLRpVhM0v6zhK2LqgaY"
       },
       "artists": [
         {
-          "name": "knownbyC",
-          "url": "https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb"
+          "name": "tee",
+          "url": "https://open.spotify.com/artist/0fP5QqFFGGeFmWsf2R0Sk2"
+        },
+        {
+          "name": "tiired",
+          "url": "https://open.spotify.com/artist/0j5uHWFTI0qo3WLcyIkOLN"
         }
       ],
-      "duration_ms": 184109,
-      "name": "Near Silence",
-      "url": "https://open.spotify.com/track/48TdI8BCUcvBlsfm3oZN1K"
+      "duration_ms": 117209,
+      "name": "nowhere else",
+      "url": "https://open.spotify.com/track/6MT4GDbRyctS4852m38kDj"
     }
   ],
   "unique_name": "gloomcore",

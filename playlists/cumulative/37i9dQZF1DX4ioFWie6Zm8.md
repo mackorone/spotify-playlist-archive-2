@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound.
 
-256 songs - 18 hr 49 min
+257 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Nekchalehu](https://open.spotify.com/track/5CrrqNggbqU7lm5BAzc7ne) | [Eyob Mekonnen](https://open.spotify.com/artist/66RpTn1WvTKAz0I4PG7Nv4) | [Nekchalehu](https://open.spotify.com/album/3SMUpqsRjXCZJvXozE8QlE) | 3:48 | 2024-05-07 | 2024-09-25 |
 | [Ngum Nya Ko](https://open.spotify.com/track/1bXhMdba6mVxONY2uewg6y) | [Gerald Toto](https://open.spotify.com/artist/5yGh5A5zAzDYeAeSksnWiW), [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT), [Lokua Kanza](https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk) | [Bondeko](https://open.spotify.com/album/7clzPL1gMDlSCIKjkncP9Z) | 3:58 | 2022-08-05 |  |
 | [Nkwanta Bisa \(At the Junction\)](https://open.spotify.com/track/0ANO7DbSb79plOXnKZ6m9h) | [Kwashibu Area Band](https://open.spotify.com/artist/53PQcfQVWV5FU1Mh7Of1yP) | [Nkwanta Bisa \(At the Junction\)](https://open.spotify.com/album/3bCZoxF9fYNulDweud2Xdt) | 3:29 | 2025-05-09 |  |
+| [No Tradition, No Africa](https://open.spotify.com/track/0F6N8b19zFLKXPIygjJFFY) | [King Ayisoba](https://open.spotify.com/artist/6TQgRLQia206d3QvleDxen), [Rocky Dawuni](https://open.spotify.com/artist/4NQybqFNuJt02nyGh9eCEC) | [No Tradition, No Africa](https://open.spotify.com/album/7J5pQcRWA7ZXYLMkjA6UUH) | 3:55 | 2026-05-29 |  |
 | [NOFLAYE](https://open.spotify.com/track/27yaJMsvRyTfnhbhm4UXys) | [Karabalik Beatz](https://open.spotify.com/artist/460I5w9PL2AG09pjwwY5D6), [Xiirsa](https://open.spotify.com/artist/3HsmGIl0MRFi8wLuGyUu93), [Baye Mass](https://open.spotify.com/artist/0sjV77WupRucJ27YaMtFzx) | [MBËUGËLOU JOLLOF](https://open.spotify.com/album/56MHTv0fXZ9IDXlDSY9FGp) | 3:10 | 2025-12-01 |  |
 | [NWANNE](https://open.spotify.com/track/5WmlObC2frm0zlHuKiTyIV) | [Negro Impacto](https://open.spotify.com/artist/1IjrqJ8pikzpEzaTdiLbHw) | [TV DREAMS](https://open.spotify.com/album/2cdXDRhZF4KQdzBiCukdzD) | 4:09 | 2026-05-25 |  |
 | [Obiero](https://open.spotify.com/track/0dXF2xOPWR3mPDqA5Lt9nJ) | [Ayub Ogada](https://open.spotify.com/artist/1f8646DgHta6Gl3eLxZTdk) | [En Mana Kuoyo](https://open.spotify.com/album/7kVFZYCVtpYHiuJ0kdua53) | 5:40 | 2022-08-05 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak. Cover: Cast\u00e9",
+  "description": "Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak. Cover: Scalopoly",
   "name": "Fresh Finds Indonesia",
   "tracks": [
     {
@@ -1654,6 +1654,24 @@
       "duration_ms": 226521,
       "name": "A Home Is Not a Place",
       "url": "https://open.spotify.com/track/6Y3NY1ST5uuIIsThjVI7n2"
+    },
+    {
+      "album": {
+        "name": "A Kiss, like this",
+        "url": "https://open.spotify.com/album/1N1wIX3U5AsAcqb3E3Oaw1"
+      },
+      "artists": [
+        {
+          "name": "Trichia",
+          "url": "https://open.spotify.com/artist/71uXuarXFmahoykcdo0KSw"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222826,
+      "name": "A Kiss, like this",
+      "url": "https://open.spotify.com/track/5FWhI0oNdZeqWqWJh8j6qC"
     },
     {
       "album": {
@@ -19355,6 +19373,24 @@
     },
     {
       "album": {
+        "name": "Crush Alert",
+        "url": "https://open.spotify.com/album/1PLAnbeVMzqJcbRfbyj5uE"
+      },
+      "artists": [
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/3cOIvAvtcVtmNwwfrjNLv5"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Crush Alert",
+      "url": "https://open.spotify.com/track/1vDPUQS8sZXLXjz0ei2ZSk"
+    },
+    {
+      "album": {
         "name": "Crush, Crush",
         "url": "https://open.spotify.com/album/0EPWssXA7rEpw68SYh7XcK"
       },
@@ -24052,6 +24088,24 @@
       "duration_ms": 249175,
       "name": "Dramaturgi",
       "url": "https://open.spotify.com/track/09vPI7k8q6LXdRCp1BSFm4"
+    },
+    {
+      "album": {
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/0cEzSIxfHvntAgrkr35Vr4"
+      },
+      "artists": [
+        {
+          "name": "Scalopoly",
+          "url": "https://open.spotify.com/artist/1FtD73pyc7tiDG1WSLc6qh"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1RFhzi3x8fxfIp1DCBffGX"
     },
     {
       "album": {
@@ -45164,6 +45218,24 @@
       "duration_ms": 192547,
       "name": "Just Forget Everything We Said",
       "url": "https://open.spotify.com/track/0UqBQhaBI9NEFDd8BCslR6"
+    },
+    {
+      "album": {
+        "name": "Just Friends?",
+        "url": "https://open.spotify.com/album/0V5ierR3FGMZg560PsDuGA"
+      },
+      "artists": [
+        {
+          "name": "MEI",
+          "url": "https://open.spotify.com/artist/0NLxsoJNCprBQZbssSupaq"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215430,
+      "name": "Just Friends?",
+      "url": "https://open.spotify.com/track/0ko51nFGINr3CjjOmahAIz"
     },
     {
       "album": {
@@ -76766,7 +76838,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 270323,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/67v2T3Iqy9BCtithhU3tur"

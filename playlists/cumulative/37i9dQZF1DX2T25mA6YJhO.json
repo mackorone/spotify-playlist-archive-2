@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: shego.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: LA MILAGROSA.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 226153,
       "name": "Cada Ma\u00f1ana",
       "url": "https://open.spotify.com/track/1Psl8FMSEa0d2NE4wrXODt"
@@ -2282,6 +2282,24 @@
       "duration_ms": 122567,
       "name": "Cryptobro y Cryptonena",
       "url": "https://open.spotify.com/track/6i8ESJ59UYGJIAEQxwnJrB"
+    },
+    {
+      "album": {
+        "name": "Cuando Nos Hacemos Da\u00f1o",
+        "url": "https://open.spotify.com/album/1TdLsATFh8Bk0FmTsGEdWq"
+      },
+      "artists": [
+        {
+          "name": "Nuevos Vicios",
+          "url": "https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245394,
+      "name": "Cuando Nos Hacemos Da\u00f1o",
+      "url": "https://open.spotify.com/track/3IzEL6fWE9S3BmE7wiZ8N0"
     },
     {
       "album": {
@@ -4000,7 +4018,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 238514,
       "name": "Esport",
       "url": "https://open.spotify.com/track/0JRViB6NK0mrasLg3fHKBq"
@@ -4808,7 +4826,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 156554,
       "name": "Habladur\u00edas",
       "url": "https://open.spotify.com/track/7KWvAE0JYWZVsGPgrdxqCT"
@@ -5368,7 +5386,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 196224,
       "name": "Iridiscente",
       "url": "https://open.spotify.com/track/6mYRRfXMu9FFamuzq79Rzt"
@@ -5494,7 +5512,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 185882,
       "name": "La Basura",
       "url": "https://open.spotify.com/track/1qriTCY9QIrATYur0FTI7J"
@@ -5790,7 +5808,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 266000,
       "name": "LA GOMERA",
       "url": "https://open.spotify.com/track/3PPEkc7wT1Al0Fgqk9vAzV"
@@ -6004,7 +6022,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 160298,
       "name": "La Plaza de La Mierda",
       "url": "https://open.spotify.com/track/50QhLnpWe80FHxtJFcKOjq"
@@ -6372,7 +6390,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 156480,
       "name": "Llevo Cuatro Horas Dando Vueltas, \u00bfQu\u00e9 Pasa en mi Cabeza?",
       "url": "https://open.spotify.com/track/6eRKLMy6HbxSZRMJHn0k24"
@@ -6668,6 +6686,32 @@
       "duration_ms": 170005,
       "name": "Los Muertos",
       "url": "https://open.spotify.com/track/0DofQePTXespQrIKQfLXuc"
+    },
+    {
+      "album": {
+        "name": "Cardiofobia",
+        "url": "https://open.spotify.com/album/5Bb9ZDLgjTNYgm4g95RGGb"
+      },
+      "artists": [
+        {
+          "name": "HORROCRUX",
+          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
+        },
+        {
+          "name": "mrq",
+          "url": "https://open.spotify.com/artist/4l7G9iUE2qw7QzZdr33ICw"
+        },
+        {
+          "name": "Jorge Gardo",
+          "url": "https://open.spotify.com/artist/002vFYt07xqaaI24g7lVfC"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297345,
+      "name": "Los Ojos",
+      "url": "https://open.spotify.com/track/0rxJWBL9rUbFCUYXAqxqon"
     },
     {
       "album": {
@@ -7402,7 +7446,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 268053,
       "name": "Mi Catedral",
       "url": "https://open.spotify.com/track/46dzyJIPzp8WhdG8pFd4oj"
@@ -8059,6 +8103,24 @@
     },
     {
       "album": {
+        "name": "no est\u00e1s en tu prime",
+        "url": "https://open.spotify.com/album/1YeE34MXlTAoLC9awC0FmX"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162976,
+      "name": "no est\u00e1s en tu prime",
+      "url": "https://open.spotify.com/track/1GV0C3BFIBKrDJ1u9krFZM"
+    },
+    {
+      "album": {
         "name": "no hemos aprendido nada",
         "url": "https://open.spotify.com/album/1N0cwHh53KG07ittN6rwoD"
       },
@@ -8128,7 +8190,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 82323,
       "name": "No me entero de nada",
       "url": "https://open.spotify.com/track/03gnyrju9PnduPx5CWEaPd"
@@ -8164,7 +8226,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 211395,
       "name": "No me vuelvas a escribir",
       "url": "https://open.spotify.com/track/5JR33jAMURLQz8xOczBAnh"
@@ -9562,7 +9624,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 145133,
       "name": "Problemas",
       "url": "https://open.spotify.com/track/3rqsqwBNjbbp0Wdx5tnwsi"
@@ -9804,6 +9866,24 @@
       "duration_ms": 226214,
       "name": "qu\u00e9 m\u00e1s da",
       "url": "https://open.spotify.com/track/6KVV3sZhXKfRXBKfPR6yIB"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 pasar\u00eda",
+        "url": "https://open.spotify.com/album/5ZossuJIOSooGRUhn7ahFh"
+      },
+      "artists": [
+        {
+          "name": "Mu\u00f1eca Rusa",
+          "url": "https://open.spotify.com/artist/2pLRzZ3IsWLpJ22YqcvImq"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175297,
+      "name": "Qu\u00e9 pasar\u00eda",
+      "url": "https://open.spotify.com/track/0hXK2KbdDr4A8KzYYXZ94K"
     },
     {
       "album": {
@@ -10544,6 +10624,46 @@
       "duration_ms": 201150,
       "name": "Si tu coraz\u00f3n fuera para m\u00ed",
       "url": "https://open.spotify.com/track/0XkiuBAdGFArK0EY1VIOKR"
+    },
+    {
+      "album": {
+        "name": "Si veo a tu mam\u00e1",
+        "url": "https://open.spotify.com/album/4A38SMe8ymvQrsEg1DdmCX"
+      },
+      "artists": [
+        {
+          "name": "Marx ha muerto",
+          "url": "https://open.spotify.com/artist/0watWgCrXGEkwgyI4ZmeSE"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154705,
+      "name": "Si veo a tu mam\u00e1",
+      "url": "https://open.spotify.com/track/1aEQGGN0X7ULvZ5K1LJ7l7"
+    },
+    {
+      "album": {
+        "name": "Siempre Igual",
+        "url": "https://open.spotify.com/album/7pj4XEXXMPJkNbjxFiHhrU"
+      },
+      "artists": [
+        {
+          "name": "Memocracia",
+          "url": "https://open.spotify.com/artist/6YNaadc735iV6WCs2ey5qH"
+        },
+        {
+          "name": "Periferia",
+          "url": "https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218179,
+      "name": "Siempre Igual",
+      "url": "https://open.spotify.com/track/5z74t2NXZBvNhzk5YPO1Mi"
     },
     {
       "album": {
@@ -11361,6 +11481,24 @@
     },
     {
       "album": {
+        "name": "TODOS LOS CHARCOS",
+        "url": "https://open.spotify.com/album/0irmAURfrNHri6ovwXrbPt"
+      },
+      "artists": [
+        {
+          "name": "Pu\u00f1o Drag\u00f3n",
+          "url": "https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189369,
+      "name": "TODOS LOS CHARCOS",
+      "url": "https://open.spotify.com/track/2gsMSiRmSg03gwaF57SdKb"
+    },
+    {
+      "album": {
         "name": "Todos menos t\u00fa",
         "url": "https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S"
       },
@@ -11956,7 +12094,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 199777,
       "name": "Un D\u00eda de Perros",
       "url": "https://open.spotify.com/track/6HvCurev3mAXlkTlhpVLSD"
@@ -12152,6 +12290,24 @@
       "duration_ms": 171840,
       "name": "Una Persona Sospechosa",
       "url": "https://open.spotify.com/track/4nsY3AALTZKoQiLbDbhERR"
+    },
+    {
+      "album": {
+        "name": "UNA PERSONA TRISTE",
+        "url": "https://open.spotify.com/album/5bIAmvtaOLVnosil0hoIxA"
+      },
+      "artists": [
+        {
+          "name": "Los Punsetes",
+          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180266,
+      "name": "UNA PERSONA TRISTE",
+      "url": "https://open.spotify.com/track/6vxng0OeOsxxEglSmUK81o"
     },
     {
       "album": {

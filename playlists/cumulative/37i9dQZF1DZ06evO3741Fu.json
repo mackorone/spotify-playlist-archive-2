@@ -126,7 +126,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 33240,
       "name": "Ascending and Decending Sequences of Varying Nature ii",
       "url": "https://open.spotify.com/track/68j2rZF6Y5r7LL2ap5h6nO"
@@ -350,7 +350,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 245106,
       "name": "Electronic Music Is Loud",
       "url": "https://open.spotify.com/track/0LmO1ICHFGsgYvXv3iGjU6"
@@ -372,6 +372,28 @@
       "duration_ms": 334204,
       "name": "Episode Metallic",
       "url": "https://open.spotify.com/track/6904m8Sxjj0FGdd02o7FHt"
+    },
+    {
+      "album": {
+        "name": "vari/ations - Ode to Oram",
+        "url": "https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        },
+        {
+          "name": "Lola de la Mata",
+          "url": "https://open.spotify.com/artist/36EVxKgpXTzGAUjzwlMuYo"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238680,
+      "name": "Folly Folly Folly",
+      "url": "https://open.spotify.com/track/3YcVoILPUi6i6I2nTtHo3w"
     },
     {
       "album": {
@@ -548,7 +570,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 40320,
       "name": "Melodic Group Shapes i",
       "url": "https://open.spotify.com/track/2VPJnxLGvNvCIQTDru5Fwz"

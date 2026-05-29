@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Al die nuutste Afrikaanse musiek met JAN JAN JAN, Dodo Nyoka, Hugh Lynn en meer!",
+  "description": "Al die nuutste Afrikaanse musiek met Barto, Bobby Van Jaarsveld, Ricus Nel, Robbie Wessels, Dassie en meer!",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "31 Mei",
+        "url": "https://open.spotify.com/album/6LZmekyK1v1zhfBZfTgnYM"
+      },
+      "artists": [
+        {
+          "name": "Wynand Strydom",
+          "url": "https://open.spotify.com/artist/513hBvcWaf7eEc1il4Q7Pj"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "31 Mei",
+      "url": "https://open.spotify.com/track/6ccbiL8zEwYlmXmwqD47RB"
+    },
+    {
+      "album": {
         "name": "365 DAE",
         "url": "https://open.spotify.com/album/2GQS4js5oYH9gXfNEuHtMa"
       },
@@ -970,7 +988,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 201607,
       "name": "Abnormaal",
       "url": "https://open.spotify.com/track/2SRyneC9IgWIfSO0JiYg8W"
@@ -1407,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Akkapella",
+        "url": "https://open.spotify.com/album/6CrSke7FR710rHIVbPzctl"
+      },
+      "artists": [
+        {
+          "name": "Rudi Muller",
+          "url": "https://open.spotify.com/artist/4F4unGNho4vYebtxl0jgAi"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234803,
+      "name": "Akkapella",
+      "url": "https://open.spotify.com/track/52rzjeGZRSOA7vLZbHHifp"
+    },
+    {
+      "album": {
         "name": "Al Kom Die Re\u00ebn",
         "url": "https://open.spotify.com/album/46U6tudBVeJTzGWMuVldVi"
       },
@@ -1802,6 +1838,24 @@
       "duration_ms": 205138,
       "name": "Alles Oor Jou",
       "url": "https://open.spotify.com/track/3bzHh4Drp1Gre8ef57JKad"
+    },
+    {
+      "album": {
+        "name": "Alles Sal Nog Regkom",
+        "url": "https://open.spotify.com/album/6uGDqinUK9b7Zzu1oUUZzH"
+      },
+      "artists": [
+        {
+          "name": "Alba Vorster",
+          "url": "https://open.spotify.com/artist/6uj3llpVrZTu3fOoicbkS6"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196271,
+      "name": "Alles Sal Nog Regkom",
+      "url": "https://open.spotify.com/track/4iVGw7gxj4ZfOFdWKZZdKG"
     },
     {
       "album": {
@@ -11907,6 +11961,24 @@
     },
     {
       "album": {
+        "name": "Egte Liefde",
+        "url": "https://open.spotify.com/album/0tdONFwVh1KEhc1NvDDYha"
+      },
+      "artists": [
+        {
+          "name": "Tamryn Madal\u00e9",
+          "url": "https://open.spotify.com/artist/2e3VN292GYZMPyVOQfC7IA"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Egte Liefde",
+      "url": "https://open.spotify.com/track/66Cj6e8QtWxMx6LtLV5wWb"
+    },
+    {
+      "album": {
         "name": "Einde Van Jou",
         "url": "https://open.spotify.com/album/0MFFTx2QGqGINejomKlBFT"
       },
@@ -13616,7 +13688,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 139703,
       "name": "Elektries In My Are",
       "url": "https://open.spotify.com/track/2f1yzuMPt7G9h9dSlSwvZ7"
@@ -17646,7 +17718,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 284879,
       "name": "Hoe Lieflik",
       "url": "https://open.spotify.com/track/079Y0KXn987B57QNwPFXBP"
@@ -17694,6 +17766,28 @@
       "duration_ms": 179002,
       "name": "Hoe Nou?",
       "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
+    },
+    {
+      "album": {
+        "name": "Hoe Rave Die Boere",
+        "url": "https://open.spotify.com/album/2YmURXySGMTKyiF7I5BJzP"
+      },
+      "artists": [
+        {
+          "name": "MAEZTRO",
+          "url": "https://open.spotify.com/artist/4SXPlxI5H5fY9JaVAjFqc1"
+        },
+        {
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210280,
+      "name": "Hoe Rave Die Boere",
+      "url": "https://open.spotify.com/track/0HvH8ixqt7VK9kQuPiUO9S"
     },
     {
       "album": {
@@ -19210,7 +19304,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 167619,
       "name": "In Vlug",
       "url": "https://open.spotify.com/track/0p57UmcxdoqLydEVmZEO9j"
@@ -19466,10 +19560,28 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 218236,
       "name": "Jaco Kalahari",
       "url": "https://open.spotify.com/track/7hAvN59vt10hkZH534J8RS"
+    },
+    {
+      "album": {
+        "name": "Jag en Visvang",
+        "url": "https://open.spotify.com/album/4zsN7tmhEdMCzQHEpSVCNy"
+      },
+      "artists": [
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201386,
+      "name": "Jag en Visvang",
+      "url": "https://open.spotify.com/track/0ffCJEVplm2kSYcYG8hsLO"
     },
     {
       "album": {
@@ -20088,7 +20200,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 241084,
       "name": "Jou Lyf Styf Teen Myne",
       "url": "https://open.spotify.com/track/2MHZMQvqxL4fNEavu6Cj2F"
@@ -20944,6 +21056,24 @@
       "duration_ms": 220759,
       "name": "Kaalvoet in die re\u00ebn dans",
       "url": "https://open.spotify.com/track/0pHDAUFJtBuUG9g6xjinMh"
+    },
+    {
+      "album": {
+        "name": "Kaalvoet Oor Kole",
+        "url": "https://open.spotify.com/album/0WEkHZwcjCNOD1UW76v2SF"
+      },
+      "artists": [
+        {
+          "name": "BiBi",
+          "url": "https://open.spotify.com/artist/1jTYq06uhdOxUem1l7JRDX"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185088,
+      "name": "Kaalvoet Oor Kole",
+      "url": "https://open.spotify.com/track/1hKubUgOELKsXI3Q3zHheg"
     },
     {
       "album": {
@@ -23347,6 +23477,28 @@
     },
     {
       "album": {
+        "name": "Koop Vir Jou 'n Bakkie",
+        "url": "https://open.spotify.com/album/17RBDJVzry1MbR0ToP32wF"
+      },
+      "artists": [
+        {
+          "name": "Dassie",
+          "url": "https://open.spotify.com/artist/6nxwYjU9ngwfCXXtJBGZrg"
+        },
+        {
+          "name": "Robbie Wessels",
+          "url": "https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211727,
+      "name": "Koop Vir Jou 'n Bakkie",
+      "url": "https://open.spotify.com/track/5fYkebDjaaqTk25dg1urAx"
+    },
+    {
+      "album": {
         "name": "Koos Wye Voete",
         "url": "https://open.spotify.com/album/27PyNOkOLh3yaFkz7wugZX"
       },
@@ -24168,6 +24320,32 @@
       "duration_ms": 156190,
       "name": "Laat Dit Re\u00ebn",
       "url": "https://open.spotify.com/track/6epAsPCU7z2GKxFwdkHPOR"
+    },
+    {
+      "album": {
+        "name": "Laat Heer U Se\u00ebn (Familiegebed)",
+        "url": "https://open.spotify.com/album/6p1SZVIEkEIj4IXJnEg0fp"
+      },
+      "artists": [
+        {
+          "name": "Nuwe Lof",
+          "url": "https://open.spotify.com/artist/6CDeMbGPacYljmQ1ry9RET"
+        },
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5"
+        },
+        {
+          "name": "Louis Brittz",
+          "url": "https://open.spotify.com/artist/6gdCTUwpSkeQ7xBvOHEnTF"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254293,
+      "name": "Laat Heer U Se\u00ebn (Familiegebed)",
+      "url": "https://open.spotify.com/track/068dpNK1HhFHMCAg8NDReI"
     },
     {
       "album": {
@@ -26110,7 +26288,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 148800,
       "name": "Like die Louf",
       "url": "https://open.spotify.com/track/1WwWJHPPFnCAX4GwNA63mn"
@@ -26670,7 +26848,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 162962,
       "name": "Maak Nie Saak Nie",
       "url": "https://open.spotify.com/track/6xQF8T0FooSCQqYFeB7HpY"
@@ -27014,7 +27192,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 109371,
       "name": "Mama's Lullaby",
       "url": "https://open.spotify.com/track/6KPR5bSYszXv1RHy8gwj31"
@@ -27974,7 +28152,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 172168,
       "name": "Mila",
       "url": "https://open.spotify.com/track/50ZHOPP42jXBg5uMnPHYZY"
@@ -29153,6 +29331,24 @@
     },
     {
       "album": {
+        "name": "My Tipe",
+        "url": "https://open.spotify.com/album/7fKwFfj6hA9MWVScNwRteT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183478,
+      "name": "My Tipe",
+      "url": "https://open.spotify.com/track/5q3nsm6eJMAowNf40etPEe"
+    },
+    {
+      "album": {
         "name": "Wit & Swart",
         "url": "https://open.spotify.com/album/2EhKUsAhmhbwWGyTaeNZRD"
       },
@@ -29294,7 +29490,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 237000,
       "name": "Na Die Donker Nag",
       "url": "https://open.spotify.com/track/0aGXtWQD63WCt2SyTk3bqg"
@@ -31746,7 +31942,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 214709,
       "name": "Om Jou Weer Heel Te Maak",
       "url": "https://open.spotify.com/track/3eW0A1PjFsJbJQSzSYvFlI"
@@ -32520,7 +32716,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 227464,
       "name": "Onvoorwaardelik",
       "url": "https://open.spotify.com/track/46HuJ14poNcRDmEnTIIG69"
@@ -33500,6 +33696,24 @@
       "duration_ms": 172540,
       "name": "Paradys",
       "url": "https://open.spotify.com/track/0fKHlWnhR5Qb8fL1vExE5J"
+    },
+    {
+      "album": {
+        "name": "Paradys Kluis",
+        "url": "https://open.spotify.com/album/7cLWBNrCLW2UPgQCyoomco"
+      },
+      "artists": [
+        {
+          "name": "Ruben Eloff",
+          "url": "https://open.spotify.com/artist/0IzjCRbwve0Gx2N7syqyVS"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Paradys Kluis",
+      "url": "https://open.spotify.com/track/6Q71jxnlCOG40VHnsqesYU"
     },
     {
       "album": {
@@ -35146,7 +35360,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 170357,
       "name": "Rieks Met Sy Trieks",
       "url": "https://open.spotify.com/track/7bur6sJKkKMi2xrrI1t69Z"
@@ -37211,6 +37425,24 @@
     },
     {
       "album": {
+        "name": "Sink In Die Hemel In",
+        "url": "https://open.spotify.com/album/6LqkflOHAHzsQSxaOrbfcU"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187768,
+      "name": "Sink In Die Hemel In",
+      "url": "https://open.spotify.com/track/2GAksPn9Omb2JusaztzY6V"
+    },
+    {
+      "album": {
         "name": "Sinoniem Vir Intiem",
         "url": "https://open.spotify.com/album/6XQcuoH9zZ0lK2EdwXgoJw"
       },
@@ -37352,7 +37584,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 246050,
       "name": "Skaduwee",
       "url": "https://open.spotify.com/track/2aDTmfytBbasAk5j5mwmJa"
@@ -37930,7 +38162,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 187500,
       "name": "Sluk My Heel In",
       "url": "https://open.spotify.com/track/1ZH0R6ZjfT67OpW6kMo6ZR"
@@ -38776,7 +39008,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 241636,
       "name": "Sommer So",
       "url": "https://open.spotify.com/track/4JCwEQSPxvdQlikIRNOYNO"
@@ -40856,7 +41088,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 190624,
       "name": "Stroomop",
       "url": "https://open.spotify.com/track/59FdttbtVsOqJaXyXbR8qv"
@@ -41390,7 +41622,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 232551,
       "name": "Sy is maar net stil",
       "url": "https://open.spotify.com/track/0Eu1DB1JnoQEPDmAxWPKlm"
@@ -43921,6 +44153,24 @@
     },
     {
       "album": {
+        "name": "Vat Haar Bietjie Plaas Toe",
+        "url": "https://open.spotify.com/album/5GxLwA5pwqsLQABDkgAjIf"
+      },
+      "artists": [
+        {
+          "name": "Fanus Pienaar",
+          "url": "https://open.spotify.com/artist/3L3YdChQhiqC36EgmDuUge"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178235,
+      "name": "Vat Haar Bietjie Plaas Toe",
+      "url": "https://open.spotify.com/track/1x9PNzuUqKusgtyGMlaSe7"
+    },
+    {
+      "album": {
         "name": "VAT HAAR HUISTOE (na mamma toe)",
         "url": "https://open.spotify.com/album/1Cftmd4Dk4kXj0vCdpH5mu"
       },
@@ -44648,7 +44898,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 135272,
       "name": "Verloor Jouself",
       "url": "https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4"
@@ -45964,7 +46214,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 208551,
       "name": "Vreemdeling",
       "url": "https://open.spotify.com/track/0Jt4NE9vkQlujPP3LKOKsA"
@@ -46644,6 +46894,24 @@
     {
       "album": {
         "name": "Wag Vir Jou",
+        "url": "https://open.spotify.com/album/0oe4hkueV7JC5YkgeQkmL9"
+      },
+      "artists": [
+        {
+          "name": "Carley",
+          "url": "https://open.spotify.com/artist/0isQ2S7KuXy0qioV3eD8iD"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177087,
+      "name": "Wag Vir Jou",
+      "url": "https://open.spotify.com/track/6h186QYV1h9NqiC4Wg9VpQ"
+    },
+    {
+      "album": {
+        "name": "Wag Vir Jou",
         "url": "https://open.spotify.com/album/5arVky3NiTxvgHNk1ADNUj"
       },
       "artists": [
@@ -47014,7 +47282,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 167734,
       "name": "Wat Het Gebeur?",
       "url": "https://open.spotify.com/track/0xHnDIL7FAWoSh1rXetQZL"
@@ -47180,7 +47448,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 212448,
       "name": "Wat Moet Ek Vra",
       "url": "https://open.spotify.com/track/3siPncFVlvTmWga5jYAWKO"
@@ -47874,6 +48142,24 @@
       "duration_ms": 205454,
       "name": "Wie Anders",
       "url": "https://open.spotify.com/track/32wQgPOPIwmoRW2HulnKFT"
+    },
+    {
+      "album": {
+        "name": "Wie het die lig uit jou o\u00eb gesteel",
+        "url": "https://open.spotify.com/album/0Q4CwOmzNQAvVDLpMscBxX"
+      },
+      "artists": [
+        {
+          "name": "Sossi",
+          "url": "https://open.spotify.com/artist/6P3xjthCptaX46wh4Sfh71"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149779,
+      "name": "Wie het die lig uit jou o\u00eb gesteel",
+      "url": "https://open.spotify.com/track/3l7Jv5UqYbGo1Wwc19OWVM"
     },
     {
       "album": {

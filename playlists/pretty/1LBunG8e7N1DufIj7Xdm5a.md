@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,485 songs - 9 day 23 hr 31 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,486 songs - 9 day 23 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4493,5 +4493,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4483 | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/track/55fZN6QYUzsBIdni2Gy1P7) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/album/2edQIILVtKKEpc56UC8m4H) | 3:57 |
 | 4484 | [Lost Soul](https://open.spotify.com/track/0KBblBLmSzdWD8k3bZqLoR) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Lost Soul](https://open.spotify.com/album/46yf87wUx4k4Ash6BBwEaY) | 3:34 |
 | 4485 | [Dil Ye Dhadakta Hi Nahin \(Reprise\)](https://open.spotify.com/track/55rkCD94THKPTUvsuifkq8) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin \(Reprise\)](https://open.spotify.com/album/5h2xUzlizawzxOFfOxkHOm) | 4:36 |
+| 4486 | [Speed Of A Summer Night](https://open.spotify.com/track/1wCTXpkDk9ns03WbOmCuyY) | [Static Echoes](https://open.spotify.com/artist/4qx5CnX8jGV49bqPKbatO7) | [Speed Of A Summer Night](https://open.spotify.com/album/0DAKVbUAkgLDzJGfTEm01P) | 3:49 |
 
-Snapshot ID: `AAAIvbCtgYFrn9O1Glij4CQb65DDYoQX`
+Snapshot ID: `AAAIvvkoTQt3Ndd3Bv3pOVNsRQphCQa5`

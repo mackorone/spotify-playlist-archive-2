@@ -13981,6 +13981,24 @@
     },
     {
       "album": {
+        "name": "SET ME FREE",
+        "url": "https://open.spotify.com/album/258ij8VCBmGge9QsZs14bb"
+      },
+      "artists": [
+        {
+          "name": "Sano",
+          "url": "https://open.spotify.com/artist/2fYh4RB842at1z0mXNr64t"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "SET ME FREE",
+      "url": "https://open.spotify.com/track/3Mr8ooiyRsfSGdBARsePJP"
+    },
+    {
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/4CiM00EnVv7QpHTkFaaKab"
       },

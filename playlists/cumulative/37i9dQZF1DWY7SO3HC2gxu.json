@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Best blends of Electronic music across Africa. Cover: Tina Ardor ",
+  "description": "Best blends of Electronic music across Africa. Cover: Sofiya Nzau",
   "name": "Oontz",
   "tracks": [
     {
@@ -156,7 +156,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 320000,
       "name": "Alone",
       "url": "https://open.spotify.com/track/6OLZ7UbzcnKs7YtIsZnepP"
@@ -833,6 +833,32 @@
     },
     {
       "album": {
+        "name": "Come To Me (My Love)",
+        "url": "https://open.spotify.com/album/2YkSQ0CGMyrvt4MLNg8N1M"
+      },
+      "artists": [
+        {
+          "name": "Charisse C",
+          "url": "https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n"
+        },
+        {
+          "name": "Khandasi",
+          "url": "https://open.spotify.com/artist/4mDed0KOVrbDs2SfagQwZR"
+        },
+        {
+          "name": "TAPIWA",
+          "url": "https://open.spotify.com/artist/18fxzBELWLV9RCCOqqjyEd"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327951,
+      "name": "Come To Me (My Love)",
+      "url": "https://open.spotify.com/track/1ZCRAO91HC9X8d4WloR59a"
+    },
+    {
+      "album": {
         "name": "Crystal Castles",
         "url": "https://open.spotify.com/album/5Bbumee8E2JyV57k17861e"
       },
@@ -1385,6 +1411,36 @@
     },
     {
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/3Ec2zdSBrtNwYSQRk0cvOo"
+      },
+      "artists": [
+        {
+          "name": "Neil Amarey",
+          "url": "https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ"
+        },
+        {
+          "name": "Breeze and The Sun",
+          "url": "https://open.spotify.com/artist/6cc71VVfi25FC7OzhblV6q"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        },
+        {
+          "name": "Phina Asa",
+          "url": "https://open.spotify.com/artist/4PcBXZOhw0X3TQzKpKc9v8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162131,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/7EEj3qZHQgYsOLBrpHvQ1j"
+    },
+    {
+      "album": {
         "name": "Field Marshal",
         "url": "https://open.spotify.com/album/6EE6g9l0mzMXubQJTmoGfg"
       },
@@ -1580,7 +1636,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 177777,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6zm6nVuHATrpcSWmWgcc6S"
@@ -1606,6 +1662,28 @@
       "duration_ms": 159677,
       "name": "Girl In Ibiza",
       "url": "https://open.spotify.com/track/37GdNHzVKH7FAlRp2Tc9PB"
+    },
+    {
+      "album": {
+        "name": "Giza",
+        "url": "https://open.spotify.com/album/4AUtp39A3ghxTjyfJvaWpf"
+      },
+      "artists": [
+        {
+          "name": "VG",
+          "url": "https://open.spotify.com/artist/6VtVUN99fMMMR60NUOOFkd"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381639,
+      "name": "Giza",
+      "url": "https://open.spotify.com/track/6D55YglkaOhDTgTcF2zOzL"
     },
     {
       "album": {
@@ -1950,7 +2028,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 130645,
       "name": "Higher Love - The Ironix Remix",
       "url": "https://open.spotify.com/track/5ctQeEYwRRbQt6Cx7CmWhe"
@@ -2832,7 +2910,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 182439,
       "name": "Kumbaya",
       "url": "https://open.spotify.com/track/4y6rZU5JCcDrksYDq7CMAY"
@@ -4178,7 +4256,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 242000,
       "name": "Nairobi",
       "url": "https://open.spotify.com/track/1pM97HBSvfOTufkw6XJUrb"
@@ -4794,6 +4872,32 @@
       "duration_ms": 170407,
       "name": "Oroboto",
       "url": "https://open.spotify.com/track/6R6VmDIn0gu32DvwBurW5Z"
+    },
+    {
+      "album": {
+        "name": "Osele La",
+        "url": "https://open.spotify.com/album/4kOyH9HCPtcx2OGtBimOio"
+      },
+      "artists": [
+        {
+          "name": "Koceila Chougar",
+          "url": "https://open.spotify.com/artist/6HjDnaMCDzaWLyQ9aVWeg7"
+        },
+        {
+          "name": "CHUMA",
+          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
+        },
+        {
+          "name": "DJ Kabila",
+          "url": "https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352062,
+      "name": "Osele La",
+      "url": "https://open.spotify.com/track/3BzrmtpBgP2W8WQv6c3V00"
     },
     {
       "album": {
@@ -5452,7 +5556,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 326520,
       "name": "SAWA",
       "url": "https://open.spotify.com/track/7md1oHjTZW3XVONksrshzk"
@@ -5844,6 +5948,28 @@
     {
       "album": {
         "name": "Sondela",
+        "url": "https://open.spotify.com/album/2kz4eYhDPel8ax61yrg6T3"
+      },
+      "artists": [
+        {
+          "name": "Rody Joh",
+          "url": "https://open.spotify.com/artist/2g9iMz4DMuBmhpfardxfjr"
+        },
+        {
+          "name": "Atilio Baqabo",
+          "url": "https://open.spotify.com/artist/4YPPYKMke2IKN4KI8pnGXF"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322000,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/3NZbBxhRsuPHtTo2m5Tja9"
+    },
+    {
+      "album": {
+        "name": "Sondela",
         "url": "https://open.spotify.com/album/2LZliaBdKBDeXGBbEEto1O"
       },
       "artists": [
@@ -6008,7 +6134,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 208000,
       "name": "Stay Here",
       "url": "https://open.spotify.com/track/68zSELxzRX87DviEu3KStJ"
@@ -6422,6 +6548,42 @@
       "duration_ms": 378409,
       "name": "Touche - Coco Em Remix",
       "url": "https://open.spotify.com/track/4p8OE6lz0v0E22ZeLmFnaC"
+    },
+    {
+      "album": {
+        "name": "MMMCXII",
+        "url": "https://open.spotify.com/album/3MGrxXwAivRhHt7BdVb5Z5"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/7qDnZtMk1yjQFkLaollEhQ"
+    },
+    {
+      "album": {
+        "name": "The Gospel Vol.1",
+        "url": "https://open.spotify.com/album/4CcFnIA7S27UVeKPfjnFDe"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/3A6dZNicN7AGaiwsUqnBcl"
     },
     {
       "album": {
@@ -7032,7 +7194,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 198048,
       "name": "Wangui",
       "url": "https://open.spotify.com/track/1tITCqfRxbgxLW4YfytIlr"

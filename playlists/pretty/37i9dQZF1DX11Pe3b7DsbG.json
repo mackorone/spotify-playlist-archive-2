@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 234590,
+  "num_followers": 234593,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
+        "name": "Chico Buarque",
+        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 171253,
+      "name": "Feijoada Completa",
+      "url": "https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
         "name": "Eu Sou O Samba",
         "url": "https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 267545,
       "name": "Alma Bo\u00eamia - Ao Vivo",
       "url": "https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
-        "name": "Chico Buarque",
-        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 171253,
-      "name": "Feijoada Completa",
-      "url": "https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv"
     },
     {
       "added_at": "2025-09-19 22:07:37",

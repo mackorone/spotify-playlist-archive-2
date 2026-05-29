@@ -4,7 +4,7 @@
 
 > Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
-296 songs - 15 hr 16 min
+297 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [BLINBLIN](https://open.spotify.com/track/3tWs3eKpkC1PGWxbgzdI4O) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [BLINBLIN](https://open.spotify.com/album/4CQRGxwGARjrQwQGouIFPZ) | 2:47 | 2025-07-17 | 2025-10-16 |
 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 | 2023-06-01 | 2024-05-08 |
 | [BOCHE](https://open.spotify.com/track/3pGAnDf8BgWM7zNkt9IwV9) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [BOCHE](https://open.spotify.com/album/7GfFfHmiowO6Q86NJC2b3V) | 3:20 | 2023-06-01 | 2024-05-08 |
+| [Brillá](https://open.spotify.com/track/0NzZwVdVE5nS4JG3O4JO6H) | [Joaco Burgos](https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A) | [Desde Lo Profundo](https://open.spotify.com/album/50mpx6WAcMgGAmjPt169pJ) | 4:24 | 2026-05-29 |  |
 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 | 2023-06-01 | 2024-05-08 |
 | [Buen Rato](https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [Fe](https://open.spotify.com/album/1TW2yrWSXV0mT6OPm5hMRi) | 3:05 | 2021-11-11 | 2023-06-02 |
 | [Bulletproof](https://open.spotify.com/track/3rDclQGRZehjHBpmOWgF5H) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Bulletproof](https://open.spotify.com/album/6kiK8lgGM9ZniV9U3y9nZB) | 3:07 | 2021-11-11 | 2023-06-02 |

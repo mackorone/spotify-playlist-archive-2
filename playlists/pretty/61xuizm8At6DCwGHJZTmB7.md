@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,791 likes - 158 songs - 14 hr 39 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,792 likes - 158 songs - 14 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 13 | [Even Death On A Cross!](https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Even Death On A Cross!](https://open.spotify.com/album/7vTcBAEdOYVZwASV8qk0A8) | 4:09 |
 | 14 | [Goodness Of God \- Live](https://open.spotify.com/track/5VpzCWRBKUhm50jtafbKu2) | [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Ileia Sharaé](https://open.spotify.com/artist/4jt2b9I1RDXCiZujdiXaQr) | [Goodness Of God \(Live\)](https://open.spotify.com/album/7KgAz06YJmhpSPLl5Nfc44) | 5:47 |
 | 15 | [The Blood](https://open.spotify.com/track/1XrwHv9rd88EoM6MXAEdpF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [JJ Hasulube](https://open.spotify.com/artist/7bnRk7bPNqkp9aP8R4SJCS) | [The Blood](https://open.spotify.com/album/5uqY6m44JXWvfRH99r9PUw) | 8:36 |
-| 16 | [Stories \- Break Open](https://open.spotify.com/track/0l9DYjPy6LG59JNQl6jGJW) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Break Open](https://open.spotify.com/album/0FSWZD1UjBwGb1nNUJFExO) | 6:38 |
-| 17 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/39Gs7AuV2vXLopvvIiBaP4) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:22 |
-| 18 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 |
-| 19 | [The Lord Will Provide \- Live](https://open.spotify.com/track/7AMVI5WFc7oDJESW6ko2JF) | [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [The Lord Will Provide \(Live\)](https://open.spotify.com/album/511MBeeCq1drhVGTfks8LI) | 5:12 |
-| 20 | [Bless Your Name](https://open.spotify.com/track/04OblrBhkRHOHJ11RkXS64) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Bless Your Name](https://open.spotify.com/album/0zUGFX6Xl5vSvXZ2n3q9mH) | 4:11 |
+| 16 | [Bless Your Name](https://open.spotify.com/track/04OblrBhkRHOHJ11RkXS64) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Bless Your Name](https://open.spotify.com/album/0zUGFX6Xl5vSvXZ2n3q9mH) | 4:11 |
+| 17 | [Stories \- Break Open](https://open.spotify.com/track/0l9DYjPy6LG59JNQl6jGJW) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Break Open](https://open.spotify.com/album/0FSWZD1UjBwGb1nNUJFExO) | 6:38 |
+| 18 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/39Gs7AuV2vXLopvvIiBaP4) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:22 |
+| 19 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 |
+| 20 | [The Lord Will Provide \- Live](https://open.spotify.com/track/7AMVI5WFc7oDJESW6ko2JF) | [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q), [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc) | [The Lord Will Provide \(Live\)](https://open.spotify.com/album/511MBeeCq1drhVGTfks8LI) | 5:12 |
 | 21 | [That's What The Blood Does](https://open.spotify.com/track/1A2RumWUeEfv9cesejhNVa) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Pelt](https://open.spotify.com/artist/4Bq682UCIDpgtfgVpvxMwh) | [That's What The Blood Does](https://open.spotify.com/album/4mGZUugxDzwAeL1AAGSRo1) | 5:05 |
 | 22 | [One Good God](https://open.spotify.com/track/3iKHfuRR6n2liPxV9ss8sr) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [One Good God](https://open.spotify.com/album/0XwackFfzuOZ65r4RE7hIO) | 5:24 |
 | 23 | [Joy](https://open.spotify.com/track/3ABBmyAEPeQ567PpgVxjlx) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Ariel Campbell](https://open.spotify.com/artist/2JUzPjWvPNqiQmYvRYpAdX) | [Joy](https://open.spotify.com/album/5W6WSCQoQHjNgwN5EkOMY3) | 6:15 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 157 | [Rest On Us](https://open.spotify.com/track/25p9WwZkKwI07cZiHxFask) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Harvest Grapevine](https://open.spotify.com/artist/1fHsA04cL5A4gkCzl9gAW0) | [How To Start A Housefire \(Pt\. II\)](https://open.spotify.com/album/00AeTGkKMb4C827JlzT8Uk) | 9:24 |
 | 158 | [Fear of God ∞](https://open.spotify.com/track/27GcUxI5ScpItTrA82fwSD) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [INFINITY](https://open.spotify.com/album/026YDYCcrzKoCrELvYR1ZM) | 4:33 |
 
-Snapshot ID: `AAAiQ6fVrL3NabrwjVAreB5wi9gtFXeQ`
+Snapshot ID: `AAAiREqe/xFCtu42YasuSV828hOFBQZA`

@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> La Mano 1.9 au top de la première playlist de rap français.
+> La Rvfleuze x Aya Nakamura au top de la première playlist de rap français.
 
-438 songs - 22 hr 1 min
+439 songs - 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Ballon D'or](https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Après La Vague](https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM) | 3:26 | 2025-12-04 |  |
 | [barcelona92](https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [SAUDADE](https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO) | 2:52 | 2024-04-11 | 2025-02-28 |
 | [BARCOLA](https://open.spotify.com/track/7dQieA4pEOUV2G9s3jkEX6) | [La Hasba22](https://open.spotify.com/artist/4lb9cT2fdVU8h1YDoBPy1o) | [BARCOLA](https://open.spotify.com/album/3LeimKCyYLLbm33aSI1y3G) | 2:45 | 2025-04-10 | 2025-10-17 |
+| [BBL](https://open.spotify.com/track/0iWDbmI7AEIIVzNMuAU3F3) | [OG Plugging](https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx) | [BBL](https://open.spotify.com/album/0WJQOZdnqTTdQvdrYhMuev) | 2:15 | 2026-05-28 |  |
 | [Beretta](https://open.spotify.com/track/3K1H0IDdVpvwEbKicv0vfk) | [Guy2bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [COCO JOJO](https://open.spotify.com/album/5xaYQgs6VOTxlfGlhKmy7a) | 3:36 | 2022-05-19 | 2022-11-11 |
 | [Biff pas d'love](https://open.spotify.com/track/4R0HXKZBeDJerIq9oCnDIp) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ??](https://open.spotify.com/album/7F3yHL31hTR2aEJYTyXjZR) | 2:34 | 2025-09-25 | 2026-04-24 |
 | [Big mama](https://open.spotify.com/track/1TXuor1bUOZQnWrksFoccd) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Jeunesse Dorée](https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3) | 2:24 | 2025-10-23 | 2026-01-30 |
@@ -299,7 +300,7 @@
 | [Nostalgique](https://open.spotify.com/track/16a4aTkLQqmM82uKZTjvxt) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Nostalgique](https://open.spotify.com/album/5gInMpobDAPIsatLPUhNOx) | 3:27 | 2025-11-20 | 2026-05-22 |
 | [NOTRE DAME](https://open.spotify.com/track/5RJcEoBhxDo8QgmKfr3JG8) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:36 | 2023-11-30 | 2024-09-27 |
 | [NOUS\#2](https://open.spotify.com/track/6RtlWji8Xzg4beZYSTkDUU) | [K2\_sp](https://open.spotify.com/artist/0lZe1qbPTyYFXebsbkznIh) | [NOUS\#2](https://open.spotify.com/album/1Rj7VCslRWBFZah7Fhhihq) | 2:57 | 2026-01-29 |  |
-| [Nowhere 2](https://open.spotify.com/track/2zpcE21SuB8FsuwcYZMArD) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Nowhere 2](https://open.spotify.com/album/3i136AqIrEBCxxlmNletJB) | 2:59 | 2026-02-12 |  |
+| [Nowhere 2](https://open.spotify.com/track/2zpcE21SuB8FsuwcYZMArD) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Nowhere 2](https://open.spotify.com/album/3i136AqIrEBCxxlmNletJB) | 2:59 | 2026-02-12 | 2026-05-29 |
 | [OG](https://open.spotify.com/track/3Bu67MTSsLLJNyZ8qg3itI) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [LES DENTS DU BONHEUR](https://open.spotify.com/album/4jvY8C0lsRWtbxtOEOtU00) | 2:44 | 2025-12-04 |  |
 | [ON FAIT LES CHOSES](https://open.spotify.com/track/0geR06bJpVHmOU2wyVnPDl) | [Niaks](https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [ON FAIT LES CHOSES](https://open.spotify.com/album/1VozY09WFHQaiaukAI2MTh) | 3:15 | 2025-05-29 | 2025-09-12 |
 | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/track/76yv2Tw0YoHamH32IsIip8) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO) | 2:59 | 2022-03-31 | 2023-01-20 |

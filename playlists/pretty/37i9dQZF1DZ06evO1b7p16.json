@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 41018,
+  "num_followers": 41029,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahTigAAAAAAuFOEUp4uQHNrxA4AYMipv",
+  "snapshot_id": "ahY0AAAAAAAm9nuA+ZWq/fBE2zujbFX3",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory Style, Vol. 5",
-        "url": "https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "The Ballad Of Sal Villanueva",
-      "url": "https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Happiness Is",
         "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 219963,
       "name": "Stood A Chance",
       "url": "https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victory Style, Vol. 5",
+        "url": "https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "The Ballad Of Sal Villanueva",
+      "url": "https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj"
     },
     {
       "added_at": null,

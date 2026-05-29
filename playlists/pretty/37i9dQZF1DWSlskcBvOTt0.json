@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 587924,
+  "num_followers": 588030,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-05-22 04:01:40",
       "album": {
-        "name": "Selva Selva",
-        "url": "https://open.spotify.com/album/1NHQlIsczGNZOh5V7w1hhl"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        }
-      ],
-      "duration_ms": 269217,
-      "name": "Selva Selva",
-      "url": "https://open.spotify.com/track/5cfulKg8LUYQixsKqdsv1P"
-    },
-    {
-      "added_at": "2026-05-22 04:01:40",
-      "album": {
         "name": "Wherever You Are",
         "url": "https://open.spotify.com/album/6HdG5nd0R0cQRKYrIVKlZG"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 196000,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/4FspiRiJy5dtV2jaqsBMS5"
+    },
+    {
+      "added_at": "2026-05-22 04:01:40",
+      "album": {
+        "name": "Selva Selva",
+        "url": "https://open.spotify.com/album/1NHQlIsczGNZOh5V7w1hhl"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 269217,
+      "name": "Selva Selva",
+      "url": "https://open.spotify.com/track/5cfulKg8LUYQixsKqdsv1P"
     },
     {
       "added_at": "2026-05-22 04:01:40",
@@ -1723,30 +1723,6 @@
     {
       "added_at": "2026-05-22 04:01:40",
       "album": {
-        "name": "Gaia",
-        "url": "https://open.spotify.com/album/7qZc8wlaQ6NqffIGwDNDeC"
-      },
-      "artists": [
-        {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Jamek Ortega",
-          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
-        }
-      ],
-      "duration_ms": 193425,
-      "name": "Gaia",
-      "url": "https://open.spotify.com/track/01bXsqzSqUMAcXLwm6xTVw"
-    },
-    {
-      "added_at": "2026-05-22 04:01:40",
-      "album": {
         "name": "Right Here, Right Now (Rework)",
         "url": "https://open.spotify.com/album/02fl3shLdoJFDQTBJun5xX"
       },
@@ -1767,6 +1743,30 @@
       "duration_ms": 145975,
       "name": "Right Here, Right Now - Rework",
       "url": "https://open.spotify.com/track/3szSyYRapmpvq9UKU3drwy"
+    },
+    {
+      "added_at": "2026-05-22 04:01:40",
+      "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/7qZc8wlaQ6NqffIGwDNDeC"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Jamek Ortega",
+          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
+        }
+      ],
+      "duration_ms": 193425,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/01bXsqzSqUMAcXLwm6xTVw"
     },
     {
       "added_at": "2026-05-22 04:01:40",
@@ -2111,30 +2111,6 @@
     {
       "added_at": "2026-05-22 04:01:40",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/5S8RSxz5dhVO1hEwbhl9JK"
-      },
-      "artists": [
-        {
-          "name": "Rafael",
-          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
-        },
-        {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
-        },
-        {
-          "name": "Gwen Guthrie",
-          "url": "https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/7LiBdIjTaowl2NIy92FA3g"
-    },
-    {
-      "added_at": "2026-05-22 04:01:40",
-      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/24C38FMJuX5fUczY9HzqkK"
       },
@@ -2163,22 +2139,26 @@
     {
       "added_at": "2026-05-22 04:01:40",
       "album": {
-        "name": "Back On 74 (Rework)",
-        "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/5S8RSxz5dhVO1hEwbhl9JK"
       },
       "artists": [
         {
-          "name": "Betical",
-          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
         },
         {
-          "name": "Arper",
-          "url": "https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq"
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "Gwen Guthrie",
+          "url": "https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy"
         }
       ],
-      "duration_ms": 340160,
-      "name": "Back On 74 - Rework",
-      "url": "https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT"
+      "duration_ms": 224761,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7LiBdIjTaowl2NIy92FA3g"
     },
     {
       "added_at": "2026-05-22 04:01:40",
@@ -2203,6 +2183,26 @@
       "duration_ms": 193032,
       "name": "10 Breaths - Francis Mercier Remix",
       "url": "https://open.spotify.com/track/5JxaVkaCKwXuQFnSgJdU6C"
+    },
+    {
+      "added_at": "2026-05-22 04:01:40",
+      "album": {
+        "name": "Back On 74 (Rework)",
+        "url": "https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W"
+      },
+      "artists": [
+        {
+          "name": "Betical",
+          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
+        },
+        {
+          "name": "Arper",
+          "url": "https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq"
+        }
+      ],
+      "duration_ms": 340160,
+      "name": "Back On 74 - Rework",
+      "url": "https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT"
     },
     {
       "added_at": "2026-05-22 04:01:40",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2026-05-22 04:01:40",
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL"
-      },
-      "artists": [
-        {
-          "name": "Betical",
-          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u"
-    },
-    {
-      "added_at": "2026-05-22 04:01:40",
-      "album": {
         "name": "Porto",
         "url": "https://open.spotify.com/album/33DuO7XdZfFbl00dsYGsOU"
       },
@@ -2311,22 +2295,18 @@
     {
       "added_at": "2026-05-22 04:01:40",
       "album": {
-        "name": "Sympathy For The Devil",
-        "url": "https://open.spotify.com/album/7j2bfbPa9SfdPLRGLOuNG1"
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/6RiHDRcWWtwCOxVBgeNIdL"
       },
       "artists": [
         {
-          "name": "MOGUAI",
-          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
-        },
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+          "name": "Betical",
+          "url": "https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z"
         }
       ],
-      "duration_ms": 219963,
-      "name": "Sympathy For The Devil",
-      "url": "https://open.spotify.com/track/3rrbTQvYSZNPZ5qFrti0xO"
+      "duration_ms": 185293,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/78meGCiKB1nIzkfz7zm37u"
     },
     {
       "added_at": "2026-05-22 04:01:40",
@@ -2351,6 +2331,26 @@
       "duration_ms": 242000,
       "name": "God Gave Me Feet For Dancing (Tasty Or Not Remix)",
       "url": "https://open.spotify.com/track/5R7UMNIdotlpPC4HiAsVA1"
+    },
+    {
+      "added_at": "2026-05-22 04:01:40",
+      "album": {
+        "name": "Sympathy For The Devil",
+        "url": "https://open.spotify.com/album/7j2bfbPa9SfdPLRGLOuNG1"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        }
+      ],
+      "duration_ms": 219963,
+      "name": "Sympathy For The Devil",
+      "url": "https://open.spotify.com/track/3rrbTQvYSZNPZ5qFrti0xO"
     },
     {
       "added_at": "2026-05-22 04:01:40",
@@ -2435,6 +2435,34 @@
     {
       "added_at": "2026-05-22 04:01:40",
       "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/0x1Tv2lL1eUoM6MWXz41do"
+      },
+      "artists": [
+        {
+          "name": "MoBlack",
+          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
+        },
+        {
+          "name": "Agoria",
+          "url": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP"
+        },
+        {
+          "name": "Simone Santagati",
+          "url": "https://open.spotify.com/artist/4kucxpxFKtEXH98xR8GCPH"
+        },
+        {
+          "name": "Blas\u00e9",
+          "url": "https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/19GkT8wYkfB3Gw9CokBCIV"
+    },
+    {
+      "added_at": "2026-05-22 04:01:40",
+      "album": {
         "name": "I Don\u2019t Want To Go (feat. Bloody Civilian & The Joy)",
         "url": "https://open.spotify.com/album/3LxTnt5i5qLoYMZJhPna48"
       },
@@ -2503,22 +2531,6 @@
     {
       "added_at": "2026-05-22 04:01:40",
       "album": {
-        "name": "U Ain't Lyin'",
-        "url": "https://open.spotify.com/album/0FvXnVAn397FMfYjnIviyI"
-      },
-      "artists": [
-        {
-          "name": "Peace Control",
-          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "U Ain't Lyin'",
-      "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
-    },
-    {
-      "added_at": "2026-05-22 04:01:40",
-      "album": {
         "name": "Campanera",
         "url": "https://open.spotify.com/album/3IsSwiowHDd0YgVeAIuU4U"
       },
@@ -2543,30 +2555,18 @@
     {
       "added_at": "2026-05-22 04:01:40",
       "album": {
-        "name": "You're Not Alone",
-        "url": "https://open.spotify.com/album/0x1Tv2lL1eUoM6MWXz41do"
+        "name": "U Ain't Lyin'",
+        "url": "https://open.spotify.com/album/0FvXnVAn397FMfYjnIviyI"
       },
       "artists": [
         {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "Agoria",
-          "url": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP"
-        },
-        {
-          "name": "Simone Santagati",
-          "url": "https://open.spotify.com/artist/4kucxpxFKtEXH98xR8GCPH"
-        },
-        {
-          "name": "Blas\u00e9",
-          "url": "https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc"
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
         }
       ],
-      "duration_ms": 296000,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/19GkT8wYkfB3Gw9CokBCIV"
+      "duration_ms": 215040,
+      "name": "U Ain't Lyin'",
+      "url": "https://open.spotify.com/track/1GgtTDKzi1rX4ojXqddLNr"
     },
     {
       "added_at": "2026-05-22 04:01:40",

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:1zEHBw7xQf0drXZagRkciU">Molly Santana</a>
+> The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:5dxav2nP7izQBQYPNjv0CQ">Young Roddo</a>
 
 2,340 songs - 4 day 3 hr 30 min
 

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batid\u00e3o",
+  "description": "O melhor do Tecnobrega, Melody e Brega do norte! Foto: Manu",
   "name": "Melodys Marcantes",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 164103,
       "name": "Aceita Meu Tchau",
       "url": "https://open.spotify.com/track/7IVVrDXbD6BDKIGmw3WwMe"
@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "Delirar",
+        "url": "https://open.spotify.com/album/2PHLJPfHyNs0J1YHfSwBBX"
+      },
+      "artists": [
+        {
+          "name": "Zaynara",
+          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133385,
+      "name": "Algema",
+      "url": "https://open.spotify.com/track/4KGIUVMHUNiONe1DyznUE5"
+    },
+    {
+      "album": {
         "name": "Sempre a Cantar",
         "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
       },
@@ -432,7 +450,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 189708,
       "name": "Amor Calado",
       "url": "https://open.spotify.com/track/5iX1WxxENyGYoeKLcATYHf"
@@ -798,6 +816,24 @@
       "duration_ms": 190280,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
+    },
+    {
+      "album": {
+        "name": "Pared\u00e3o da Bahtid\u00e3o",
+        "url": "https://open.spotify.com/album/6W2eJiGBfxSK2o5mlm8euX"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "Bebo e Choro",
+      "url": "https://open.spotify.com/track/1YNwYzvMokLXodeOi5OIYY"
     },
     {
       "album": {
@@ -1214,6 +1250,24 @@
       "duration_ms": 161819,
       "name": "Clich\u00ea",
       "url": "https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg"
+    },
+    {
+      "album": {
+        "name": "Clima de Rodeio",
+        "url": "https://open.spotify.com/album/1RKyc13s0UFhSd00vYdCEi"
+      },
+      "artists": [
+        {
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116666,
+      "name": "Clima de Rodeio",
+      "url": "https://open.spotify.com/track/1WBLJW3c8uaEMe5FBPaqyF"
     },
     {
       "album": {
@@ -2528,7 +2582,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 271476,
       "name": "Galera da Golada",
       "url": "https://open.spotify.com/track/1nOi7O71UVjCPS4AT1BLDQ"
@@ -5271,6 +5325,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3 no Caquiado",
+        "url": "https://open.spotify.com/album/2g2IrM7y3lkzsl5xrvzKYP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sayonara",
+          "url": "https://open.spotify.com/artist/4WudSn9b3V05mnxaH9uNks"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176875,
+      "name": "S\u00f3 no Caquiado",
+      "url": "https://open.spotify.com/track/01FtRxIfpX9M67Zpj35dY2"
+    },
+    {
+      "album": {
         "name": "S\u00f3 No Par\u00e1",
         "url": "https://open.spotify.com/album/2KpwZCp49spHRVqYpHjpTv"
       },
@@ -5628,7 +5700,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 202678,
       "name": "Torre Eiffel - Ao Vivo",
       "url": "https://open.spotify.com/track/2o4hr5HCAKShrbFtmxm7Dg"

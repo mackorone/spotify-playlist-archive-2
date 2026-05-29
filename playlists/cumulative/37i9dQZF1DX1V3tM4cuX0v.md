@@ -2,7 +2,7 @@
 
 ### [Hot Hits Україна](https://open.spotify.com/playlist/37i9dQZF1DX1V3tM4cuX0v)
 
-> 50 найгарячіших пісень в Україні\. Обкладинка: DARA
+> 50 найгарячіших пісень в Україні\. Обкладинка: Nikow
 
 205 songs - 10 hr 18 min
 

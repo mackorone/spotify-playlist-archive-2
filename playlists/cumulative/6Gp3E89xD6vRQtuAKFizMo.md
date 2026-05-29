@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-561 songs - 1 day 2 hr 46 min
+563 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/track/4gVsfMkda6yNTVDBq2YJuC) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [GiGi Grombacher](https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n) | [Chain Reaction \(feat\. GiGi Grombacher\)](https://open.spotify.com/album/2zN7MtOiLmtQOgv0jMYXWd) | 2:37 | 2022-10-21 | 2023-06-17 |
 | [Chance](https://open.spotify.com/track/6DL7uKksy8EONZ3eYKfsua) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Chance](https://open.spotify.com/album/5MKSoxil3WWzlkV7YeI8UB) | 2:00 | 2024-05-10 | 2025-04-27 |
 | [Chase Me](https://open.spotify.com/track/7r1BShTewnDTXf64CZixQT) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Chase Me](https://open.spotify.com/album/3BJXM7HyRTmBrTzl2zCkmt) | 2:56 | 2023-03-31 | 2023-05-27 |
+| [Chasing Bodies](https://open.spotify.com/track/7kmmF2N2Ol6CgBBzer3bdf) | [Madds](https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy), [Dainjaa](https://open.spotify.com/artist/43ZnMboMElFMnW4bZg0Awh) | [Chasing Bodies](https://open.spotify.com/album/1u2BI8MWTlb8y8pJ6iu9Co) | 3:20 | 2026-05-29 |  |
 | [Chasing Echoes](https://open.spotify.com/track/2TgM993dmVzwys2XXlVA93) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Melissa Grace](https://open.spotify.com/artist/7bQLH0u3C9lR2gZQaQ8owM) | [Chasing Echoes](https://open.spotify.com/album/2czfZBAy2eLbi29bxjdR9j) | 2:48 | 2025-11-14 |  |
 | [Check This \(with Kuhlosul\)](https://open.spotify.com/track/0hSMYFjDOvzULFrOtmC3s6) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Kuhlosul](https://open.spotify.com/artist/4xSAcIQ6LiD8MwJKdlKDfm) | [Check This \(with Kuhlosul\)](https://open.spotify.com/album/38mQizKbMFN1w8PM238v4k) | 2:40 | 2022-10-17 | 2023-04-09 |
 | [Check This \(with Kuhlosul\) \- Leotrix Remix](https://open.spotify.com/track/4uc21oNVTZCDVihzjra8oM) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Kuhlosul](https://open.spotify.com/artist/4xSAcIQ6LiD8MwJKdlKDfm), [Leotrix](https://open.spotify.com/artist/3mVL1qynaYs31rgyDTytkS) | [SHEEESH \(The Remixes\)](https://open.spotify.com/album/6MyjLsUkdDVPOuu21TG5MW) | 3:08 | 2023-07-31 | 2023-12-14 |
@@ -262,6 +263,7 @@
 | [Into The Light \(feat\. Miggy Dela Rosa\) \- Repiet Remix](https://open.spotify.com/track/3F5JFRFRo3AXOkSMa6wCyd) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU), [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY) | [Into The Light \(feat\. Miggy Dela Rosa\) \[Repiet Remix\]](https://open.spotify.com/album/7LQg7Ti33M9PL3lzs7faqy) | 2:50 | 2025-06-06 |  |
 | [It Clicked](https://open.spotify.com/track/6CZEvodrbQ2peNYVVfH785) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [It Clicked](https://open.spotify.com/album/5xCcujnvIlwkwhA2QRHglJ) | 1:50 | 2025-03-07 |  |
 | [It's A Vibe](https://open.spotify.com/track/1lF6fVuFGAT9EAkD0S04ql) | [Riggi & Piros](https://open.spotify.com/artist/2paaWadjhhY3shymyR5TcH) | [It's A Vibe](https://open.spotify.com/album/1pJ7SKaN5pBgWVOmyIsFdJ) | 2:48 | 2024-07-08 | 2025-04-27 |
+| [ITCHTOPAY](https://open.spotify.com/track/102v6pIT5fGhbbgbFylGlI) | [Buns](https://open.spotify.com/artist/5rGiKRASfYHuoGV6tXYGMB) | [ITCHTOPAY](https://open.spotify.com/album/3spFe05r5pKoOouuGyXpLF) | 3:08 | 2026-05-29 |  |
 | [Itty Bitty](https://open.spotify.com/track/0xA7XDzXFyry0ien9lSD6s) | [Dani Thorne](https://open.spotify.com/artist/3x6yf8WduJ8AkkTwuTXTku) | [Itty Bitty](https://open.spotify.com/album/4zTQxIZDVMsUmjTjkrvkzq) | 3:38 | 2026-05-15 |  |
 | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs) | 2:36 | 2024-01-19 | 2025-04-27 |
 | [Jaded](https://open.spotify.com/track/3vGzsNszbAqEr81y2uMlHJ) | [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Jaded](https://open.spotify.com/album/3IJGXIstjykSCnQ5d9uDm9) | 3:15 | 2025-03-21 |  |

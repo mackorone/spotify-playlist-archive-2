@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1022,
+  "num_followers": 1021,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGKNPqzzv/A+R95dcGnbhNacFvkNnM",
+  "snapshot_id": "AAAGLL/1jd0pkU56nvq03XzDyG/au/pQ",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1519,6 +1519,70 @@
       "duration_ms": 160300,
       "name": "Twisting the Knife",
       "url": "https://open.spotify.com/track/3bbYJ9kP7fJkux2JZzSmvN"
+    },
+    {
+      "added_at": "2026-05-28 14:49:51",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5WUYMbJOzjX4vDZxPT57he"
+      },
+      "artists": [
+        {
+          "name": "Courtney Nord",
+          "url": "https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX"
+        }
+      ],
+      "duration_ms": 173608,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3jwVXmDi7lad4TOq4g7liD"
+    },
+    {
+      "added_at": "2026-05-28 14:51:53",
+      "album": {
+        "name": "Heart of a Coward / Maelstrom",
+        "url": "https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "duration_ms": 381085,
+      "name": "Maelstrom",
+      "url": "https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8"
+    },
+    {
+      "added_at": "2026-05-28 14:52:56",
+      "album": {
+        "name": "Gazing- Guitar Remix/Pool Song",
+        "url": "https://open.spotify.com/album/5OdH9EuKxuDm5YPug0jFRy"
+      },
+      "artists": [
+        {
+          "name": "The Rabbit Council",
+          "url": "https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf"
+        }
+      ],
+      "duration_ms": 95004,
+      "name": "Pool Song (Swimming in the 70's)",
+      "url": "https://open.spotify.com/track/44o7PXa6JAO9W8oTUHd4EP"
+    },
+    {
+      "added_at": "2026-05-28 14:55:15",
+      "album": {
+        "name": "Lost and Separated",
+        "url": "https://open.spotify.com/album/56jnF9yHPmOA5ezamiYMWP"
+      },
+      "artists": [
+        {
+          "name": "Chris Maragoth",
+          "url": "https://open.spotify.com/artist/01OJBw7i5uLKADzURGFQr3"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "The Veil",
+      "url": "https://open.spotify.com/track/3S9Wu7CaNB5gRDMPBSbHFR"
     }
   ],
   "unique_name": "Unsigned Rock",

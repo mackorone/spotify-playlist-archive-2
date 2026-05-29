@@ -15029,6 +15029,24 @@
     },
     {
       "album": {
+        "name": "Never Look Back",
+        "url": "https://open.spotify.com/album/4TZ2vabqb8E0I97jVrU8Tu"
+      },
+      "artists": [
+        {
+          "name": "Tripleset",
+          "url": "https://open.spotify.com/artist/6nKHLNZu1sk9nuRvGe6TMC"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173777,
+      "name": "Never Look Back",
+      "url": "https://open.spotify.com/track/7xH37SCST6ixrQeDKZeCKl"
+    },
+    {
+      "album": {
         "name": "never mine",
         "url": "https://open.spotify.com/album/4M3yKgmuuIRtstbx40GJel"
       },

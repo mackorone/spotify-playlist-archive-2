@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 889 likes - 68 songs - 3 hr 44 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 888 likes - 69 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 66 | [Retazos](https://open.spotify.com/track/2W6RLkNVNJP9gNC7KLbN6a) | [RAN](https://open.spotify.com/artist/4tRHpUUjRHeWreweQxjMXa) | [Retazos](https://open.spotify.com/album/5WC2vaK0yh1TVUDOaGdJay) | 3:06 |
 | 67 | [Follow](https://open.spotify.com/track/3Hld2nGje5pWk66c3GAWOj) | [Vance](https://open.spotify.com/artist/11LpEjg6drv4G1kBItUSn6) | [Follow](https://open.spotify.com/album/6SvROxW4ZNQRkhesEl8lI9) | 3:58 |
 | 68 | [1000 Kilómetros](https://open.spotify.com/track/0fZ3Wcrlzz9OaURp2WJJ0V) | [María Montenegro](https://open.spotify.com/artist/0cnIFVS9I8UzqNlEQxvOin) | [1000 Kilómetros](https://open.spotify.com/album/5wMQCKdpfs29F4NyrTibLx) | 3:04 |
+| 69 | [Autumn Leaves](https://open.spotify.com/track/7qOWu0a7bzpYNk4yEju09S) | [Bonolo Solomon](https://open.spotify.com/artist/4kaNxQusxlke6nfnusb2fT) | [Autumn Leaves](https://open.spotify.com/album/2ZQfxyOz4pBWHrJdlp7yJL) | 3:11 |
 
-Snapshot ID: `AAAD3v5nKc/IHo3syMzwpGhkp44qitGg`
+Snapshot ID: `AAAD3/PCiuYa5EITHCvo4+09PrEovhSd`

@@ -3269,6 +3269,28 @@
     },
     {
       "album": {
+        "name": "No Tradition, No Africa",
+        "url": "https://open.spotify.com/album/7J5pQcRWA7ZXYLMkjA6UUH"
+      },
+      "artists": [
+        {
+          "name": "King Ayisoba",
+          "url": "https://open.spotify.com/artist/6TQgRLQia206d3QvleDxen"
+        },
+        {
+          "name": "Rocky Dawuni",
+          "url": "https://open.spotify.com/artist/4NQybqFNuJt02nyGh9eCEC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235773,
+      "name": "No Tradition, No Africa",
+      "url": "https://open.spotify.com/track/0F6N8b19zFLKXPIygjJFFY"
+    },
+    {
+      "album": {
         "name": "MB\u00cbUG\u00cbLOU JOLLOF",
         "url": "https://open.spotify.com/album/56MHTv0fXZ9IDXlDSY9FGp"
       },

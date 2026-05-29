@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-757 songs - 1 day 13 hr 39 min
+758 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Higher Love](https://open.spotify.com/track/2yCyr5ZJHDm9CzpPRdduJ9) | [Ali Story](https://open.spotify.com/artist/4ek5ExkJLsIHouFsiQyPpx), [Maria Mathea](https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp) | [Higher Love](https://open.spotify.com/album/4yKC4uD981O8oCPzowwOjl) | 3:58 | 2022-01-07 | 2022-03-12 |
 | [Higher Power](https://open.spotify.com/track/7paRyIC5aRpiiYkiBnT39O) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Higher Power](https://open.spotify.com/album/4bQrdY8wBoLMaeCwzFlsfd) | 3:07 | 2025-08-01 | 2026-03-21 |
 | [HIGHJACK \(right back\)](https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HIGHJACK \(right back\)](https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ) | 2:41 | 2025-05-16 |  |
-| [Hijack The System](https://open.spotify.com/track/5FlHMCROxGoTu9hXzlyzA3) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Evil Twiin](https://open.spotify.com/artist/4Wi32nMyDHreHb97iXd9zN) | [Hijack The System](https://open.spotify.com/album/1ymMUmULqu2qLQ9eUPNMOD) | 2:30 | 2026-04-17 |  |
+| [Hijack The System](https://open.spotify.com/track/5FlHMCROxGoTu9hXzlyzA3) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Evil Twiin](https://open.spotify.com/artist/4Wi32nMyDHreHb97iXd9zN) | [Hijack The System](https://open.spotify.com/album/1ymMUmULqu2qLQ9eUPNMOD) | 2:30 | 2026-04-17 | 2026-05-29 |
 | [HISTORY](https://open.spotify.com/track/5IfHQilcjciOxJQBFCNCCN) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [HISTORY](https://open.spotify.com/album/1R7H7T15beGxVaQQ1MnH78) | 2:56 | 2022-08-05 | 2023-08-20 |
 | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk) | 2:39 | 2023-07-14 | 2023-07-29 |
 | [Homework \(feat\. Lancey Foux\)](https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [Homework \(feat\. Lancey Foux\)](https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi) | 2:34 | 2026-04-10 |  |
@@ -452,6 +452,7 @@
 | [Mind Games](https://open.spotify.com/track/0eKOn3pMNfyrG2FvJNkbcc) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Mind Games](https://open.spotify.com/album/5jdVZUJ0zD7e0pJmueEtEw) | 3:33 | 2026-03-13 | 2026-03-21 |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-07-29 | 2024-03-16 |
 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-10-28 | 2025-01-30 |
+| [MISS YOU](https://open.spotify.com/track/6uOVLKQbGwhjLVL6Gcbt8S) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [MISS YOU](https://open.spotify.com/album/7h3hcYLTSN45Xt666UXQxr) | 2:08 | 2026-05-22 |  |
 | [Mistakes](https://open.spotify.com/track/0RvQLK3wSHhRuC55sjxeSQ) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Mistakes](https://open.spotify.com/album/3U16S348ETHW0DTPeM9Pp0) | 2:33 | 2022-01-28 | 2022-07-29 |
 | [Mixed Emotions](https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Mixed Emotions](https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD) | 3:44 | 2022-07-22 | 2022-08-27 |
 | [Money On My Mind](https://open.spotify.com/track/0SCZoOyU9qkPZXIk7YmENI) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Money On My Mind](https://open.spotify.com/album/0RhMHX5LDrs97f0jt4qmKn) | 2:06 | 2022-01-07 | 2022-07-29 |

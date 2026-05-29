@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWSGWRWu30rg7)
 
-> Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover: Casté
+> Temukan talenta baru musik Indonesia pilihan editor yang patut kamu simak\. Cover: Scalopoly
 
-5,537 songs - 14 day 3 hr 4 min
+5,541 songs - 14 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [a gratitude](https://open.spotify.com/track/6hEl7EFNNAPWUjUNMW7zib) | [Jordhany Agonzaga](https://open.spotify.com/artist/4uiYdynrw2gjfPHtJ91olK) | [a gratitude](https://open.spotify.com/album/7pkNc9MhpmRYwJtSO3WlQA) | 3:12 | 2022-01-20 | 2022-02-04 |
 | [A Great Perhaps](https://open.spotify.com/track/4wEBJ2VSY6Wvf4j0eqamXP) | [Mesa Bunga](https://open.spotify.com/artist/5Lv5jvyzZjvJbeb4vqry51) | [A Great Perhaps](https://open.spotify.com/album/7d4YoPLjI5lRCRyw0I4rTv) | 3:24 | 2024-05-16 | 2024-06-07 |
 | [A Home Is Not a Place](https://open.spotify.com/track/6Y3NY1ST5uuIIsThjVI7n2) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [A Home Is Not a Place](https://open.spotify.com/album/3j9q9YZI59VlkU0VV4LUnF) | 3:46 | 2022-01-27 | 2023-01-13 |
+| [A Kiss, like this](https://open.spotify.com/track/5FWhI0oNdZeqWqWJh8j6qC) | [Trichia](https://open.spotify.com/artist/71uXuarXFmahoykcdo0KSw) | [A Kiss, like this](https://open.spotify.com/album/1N1wIX3U5AsAcqb3E3Oaw1) | 3:42 | 2026-05-28 |  |
 | [A Life Since](https://open.spotify.com/track/0c1QIyBrhaKXHJ2sJ7PJ8g) | [Loka\`](https://open.spotify.com/artist/07PXHl2k48aWrtfICNve3T) | [A Life Since](https://open.spotify.com/album/4xzjnlEVi282jw4LsbcWnd) | 4:27 | 2023-06-22 | 2023-07-07 |
 | [A Little Less](https://open.spotify.com/track/5wm3593QMwEU7Ga9XPqIc9) | [Christabelle Marbun](https://open.spotify.com/artist/6A4Sbpi0Ow0FqXLqsVD3RB) | [A Little Less](https://open.spotify.com/album/7lfeZvHZKJsmsnJEpiyNxi) | 3:05 | 2026-01-16 | 2026-02-14 |
 | [a little too sad if you think about it.](https://open.spotify.com/track/3N5ocxGt2itRnxLSZlY57Y) | [VEEY](https://open.spotify.com/artist/6w1o0CIuCMBffOLcaY8Wtw) | [a little too sad if you think about it.](https://open.spotify.com/album/60fCizXXL4UiUXPksbwyfk) | 4:48 | 2025-12-11 | 2026-01-15 |
@@ -1035,6 +1036,7 @@
 | [Crush](https://open.spotify.com/track/5TxnDvw7XL8RRtnEOQwwbn) | [Louwiesye](https://open.spotify.com/artist/4CX9rkItDqgahVdyHjdKC6) | [Crush](https://open.spotify.com/album/1PWrdDtO8WRyKx4vKW8KDg) | 4:13 | 2023-05-11 | 2023-05-26 |
 | [Crush](https://open.spotify.com/track/1htJlPwaupxmJ1XSYoT5AD) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Crush](https://open.spotify.com/album/0nMd1E9qxuHc2zKfy26ZX3) | 3:30 | 2023-06-01 | 2023-06-16 |
 | [Crush](https://open.spotify.com/track/6G6xJvy375fwsFLncY4jdI) | [Y.A.W](https://open.spotify.com/artist/56TdM0MqdC3okSgo6KPk96) | [Crush](https://open.spotify.com/album/1hDDOQstjfYGcvdlD6VWQr) | 3:02 | 2022-11-24 | 2022-12-01 |
+| [Crush Alert](https://open.spotify.com/track/1vDPUQS8sZXLXjz0ei2ZSk) | [Alika](https://open.spotify.com/artist/3cOIvAvtcVtmNwwfrjNLv5) | [Crush Alert](https://open.spotify.com/album/1PLAnbeVMzqJcbRfbyj5uE) | 3:12 | 2026-05-28 |  |
 | [Crush, Crush](https://open.spotify.com/track/0BSPfxWGmAhFFTlqVSThRc) | [Jingga](https://open.spotify.com/artist/5KOo1WEqyJMsWTmPC2Lra9) | [Crush, Crush](https://open.spotify.com/album/0EPWssXA7rEpw68SYh7XcK) | 3:24 | 2024-05-16 | 2024-06-01 |
 | [Crybaby Boy](https://open.spotify.com/track/6g7bVXHAnBWW8d84YAfj4n) | [Lost Kairos](https://open.spotify.com/artist/7dA2azzvvIGC4gVPsCY7y1) | [Fragment or Argument](https://open.spotify.com/album/3VjwiMCwLeUcytj7KIJMvJ) | 2:44 | 2025-09-12 | 2025-10-10 |
 | [Crystals](https://open.spotify.com/track/3vzfW72pzkZokdhYJFA7ln) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [Crystals](https://open.spotify.com/album/5xx8TXASDM2gq4OWPqrITf) | 2:31 | 2022-09-22 | 2022-10-14 |
@@ -1285,6 +1287,7 @@
 | [Drama Queen](https://open.spotify.com/track/0AuWDQx1YsmhVqub4XoC83) | [Harnan Gunsa](https://open.spotify.com/artist/3AjROpz3gjl1LLWXiToPEM) | [Drama Queen](https://open.spotify.com/album/6Ni5a5uoO3jpPEkAuvQOfq) | 2:59 | 2023-09-28 | 2023-10-14 |
 | [Drama,drama](https://open.spotify.com/track/1gAY38bSqx6iA2BzZSXJQT) | [Rain In July](https://open.spotify.com/artist/4b7cwR0XgCU34Q74heCzlP) | [Home](https://open.spotify.com/album/69TZquEfpcoUj8R0nGxOOi) | 3:38 | 2023-10-13 | 2023-11-03 |
 | [Dramaturgi](https://open.spotify.com/track/09vPI7k8q6LXdRCp1BSFm4) | [Kapal Udara](https://open.spotify.com/artist/5CvDGL6DI3YjfUujUZZa8f) | [Dramaturgi](https://open.spotify.com/album/6oYuIhHtspBeG3R9OJ4Zuv) | 4:09 | 2023-07-21 | 2023-08-04 |
+| [Dream](https://open.spotify.com/track/1RFhzi3x8fxfIp1DCBffGX) | [Scalopoly](https://open.spotify.com/artist/1FtD73pyc7tiDG1WSLc6qh) | [Sailing](https://open.spotify.com/album/0cEzSIxfHvntAgrkr35Vr4) | 2:58 | 2026-05-28 |  |
 | [Dream Collide](https://open.spotify.com/track/3TY3N1UkpE3RsMgXQ3lCcR) | [KYRRA](https://open.spotify.com/artist/3lVSkH15LgChvF7jxAiFgo) | [Reality Conflict](https://open.spotify.com/album/4hkajA4mwWojHqdKC4d3k9) | 1:49 | 2025-11-06 | 2025-12-12 |
 | [Dream Girl](https://open.spotify.com/track/2y990bGSyAdyoqflOOW0Ni) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Dream Girl](https://open.spotify.com/album/11K3wztTjLdOChvFITyvvy) | 2:58 | 2025-02-20 | 2025-03-14 |
 | [Dreaming](https://open.spotify.com/track/3LiwiwT5TVx7qzFca0n2wv) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Dreaming](https://open.spotify.com/album/3cJT8dbnqlkO2pAj26c8gM) | 4:18 | 2025-11-28 | 2026-01-15 |
@@ -2409,6 +2412,7 @@
 | [Just For You](https://open.spotify.com/track/1nfhZM0JegTK2EDK7Yxzb8) | [Dhani Saputra](https://open.spotify.com/artist/1CZa9fcJaWhjF6MiHmnEf4) | [Just For You](https://open.spotify.com/album/7alR8wRXKixExyGznlV2rw) | 4:33 | 2022-01-06 | 2022-01-14 |
 | [Just For You](https://open.spotify.com/track/4pNSeZ3zFtBH0vmlCuhGyd) | [Stefaldo](https://open.spotify.com/artist/3Tc2unuhdKex8NKaXdFrni), [Gess Gerald](https://open.spotify.com/artist/63UF0ZF1mHyyRINKgFPRCF) | [Just For You](https://open.spotify.com/album/1ae8gFk03PTdu3HQsGHITe) | 3:27 | 2022-05-05 | 2022-05-20 |
 | [Just Forget Everything We Said](https://open.spotify.com/track/0UqBQhaBI9NEFDd8BCslR6) | [BeverlyLine](https://open.spotify.com/artist/6Q43OdGCjfXv7cWX0L2VXx) | [Just Forget Everything We Said](https://open.spotify.com/album/1iASIngRAVx4kdC566JdKc) | 3:12 | 2023-02-09 | 2023-02-24 |
+| [Just Friends?](https://open.spotify.com/track/0ko51nFGINr3CjjOmahAIz) | [MEI](https://open.spotify.com/artist/0NLxsoJNCprBQZbssSupaq) | [Just Friends?](https://open.spotify.com/album/0V5ierR3FGMZg560PsDuGA) | 3:35 | 2026-05-28 |  |
 | [Just Let It Go](https://open.spotify.com/track/0sjDG4qaInsbzSFfQOd1sT) | [Rawanda Cumur](https://open.spotify.com/artist/5klG4ehx4Hmcaic9w9x4Zp) | [Just Let It Go](https://open.spotify.com/album/3YXdAKSVMmNjuKEC4jym7q) | 6:08 | 2023-06-29 | 2023-07-15 |
 | [Just Love Me For A While](https://open.spotify.com/track/3ttJNfUkSzoAYKN4jkLsJd) | [Zerra](https://open.spotify.com/artist/0qfJuFOWgjteUxTVn2CTeE) | [What a Well\-made Tragedy](https://open.spotify.com/album/0dy5MZ9S0Q2Pkg8Fgo0m3G) | 4:17 | 2023-03-02 | 2023-03-18 |
 | [Just Love Me For A While](https://open.spotify.com/track/4R3FhuA7iqiljQBzaTtPXE) | [Zerra](https://open.spotify.com/artist/0qfJuFOWgjteUxTVn2CTeE) | [What a Well\-made Tragedy](https://open.spotify.com/album/3LaGbxWOa2D1byzTAj3fRD) | 4:17 | 2023-03-02 | 2023-03-05 |
@@ -4095,7 +4099,7 @@
 | [Sahabatku](https://open.spotify.com/track/3GtA0P9D4kCgunGNBhqkFg) | [Annabel](https://open.spotify.com/artist/0ifF2XrIOMXuGYEM4tbHng) | [Sahabatku](https://open.spotify.com/album/4T4MybDbAfKl0vLEoz8PtF) | 3:10 | 2023-06-08 | 2023-06-23 |
 | [Sahabatku](https://open.spotify.com/track/7mJDBQWwfYJ23nUXI5RjtQ) | [Quinn Salman](https://open.spotify.com/artist/4lkE7XFATsJcgz6aLp1tdP), [Rara Sudirman](https://open.spotify.com/artist/5478Npv7iuimGmAgKAEVB3) | [Sahabatku](https://open.spotify.com/album/3YNjtkGfv6ZYrjooICncQq) | 3:56 | 2022-06-23 | 2022-07-15 |
 | [Sahasrara \(feat\. Annisya\)](https://open.spotify.com/track/54TMnN1PkfY4xBwVfnHWN1) | [Drewgon](https://open.spotify.com/artist/4GWsaDmURHLEsicjIvzRSI), [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Purple Season](https://open.spotify.com/album/17mS7iYBbibM8jR1tJSVaE) | 3:09 | 2023-11-02 | 2023-11-24 |
-| [Sailing](https://open.spotify.com/track/67v2T3Iqy9BCtithhU3tur) | [Scalopoly](https://open.spotify.com/artist/1FtD73pyc7tiDG1WSLc6qh) | [Sailing](https://open.spotify.com/album/2Zg02Ya2RASXCiPefRZQzd) | 4:30 | 2026-05-06 |  |
+| [Sailing](https://open.spotify.com/track/67v2T3Iqy9BCtithhU3tur) | [Scalopoly](https://open.spotify.com/artist/1FtD73pyc7tiDG1WSLc6qh) | [Sailing](https://open.spotify.com/album/2Zg02Ya2RASXCiPefRZQzd) | 4:30 | 2026-05-06 | 2026-05-29 |
 | [Sakit](https://open.spotify.com/track/4sHwSlRHBKq6zZLbTOXgLK) | [Alyssa Ananta](https://open.spotify.com/artist/6NICadVvMOgzbKHxTCFR0r) | [Sakit](https://open.spotify.com/album/6vVsuRsKvTdqTUMpgT4wbx) | 4:17 | 2026-02-26 | 2026-05-07 |
 | [Sakit](https://open.spotify.com/track/59EBB087de1UBmgQT1owNO) | [Simatakaca](https://open.spotify.com/artist/32eydlLWmEtGzeCe7mGyJm) | [Sakit](https://open.spotify.com/album/6cqgP5Zb6fQn9i8uaYiAGN) | 5:15 | 2024-02-22 | 2024-03-22 |
 | [Sakit Hati](https://open.spotify.com/track/3ogHZ8gDoMsTwVKSiFr37x) | [Kenriz](https://open.spotify.com/artist/0KNqyNkuttIabEfX3lSUuT), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Sakit Hati](https://open.spotify.com/album/5zzs8bUKrWEQUxywA4Ju7e) | 3:47 | 2025-06-05 | 2025-08-02 |

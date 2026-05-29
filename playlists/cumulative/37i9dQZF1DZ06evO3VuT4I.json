@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256640,
+      "name": "Berceuse (From Pianissimo)",
+      "url": "https://open.spotify.com/track/4FKfLTxllv78gI0sMJbJk6"
+    },
+    {
+      "album": {
         "name": "Pianissimo III",
         "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
       },
@@ -548,10 +566,32 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 198109,
       "name": "Concr\u00e8te Waves Barcelona A5",
       "url": "https://open.spotify.com/track/5TZuPNxgnFXRplLxWAZTgB"
+    },
+    {
+      "album": {
+        "name": "Concr\u00e8te Waves",
+        "url": "https://open.spotify.com/album/3oUT8rTRNHo2We9h8YQFmn"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        },
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283164,
+      "name": "Concr\u00e8te Waves Barcelona A6",
+      "url": "https://open.spotify.com/track/2ifGodmcxk6gXWVDVqNlCA"
     },
     {
       "album": {
@@ -888,7 +928,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 247960,
       "name": "Eagle",
       "url": "https://open.spotify.com/track/5qSxp12DHTXYyqeDlOnMr9"
@@ -1328,7 +1368,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 229466,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd"
@@ -1526,7 +1566,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 158533,
       "name": "Mother's Song",
       "url": "https://open.spotify.com/track/6W4j8iooBlnZGKxYziaJT5"
@@ -2542,7 +2582,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 218333,
       "name": "Tuscany",
       "url": "https://open.spotify.com/track/7MKHnn1icO9Ce7FRHPY2pv"

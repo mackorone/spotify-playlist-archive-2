@@ -6107,6 +6107,24 @@
     },
     {
       "album": {
+        "name": "El Supremo",
+        "url": "https://open.spotify.com/album/3UJrwK7usINqVZKcEyiZJh"
+      },
+      "artists": [
+        {
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195454,
+      "name": "El Supremo",
+      "url": "https://open.spotify.com/track/1awahW3zBr59Nb3L3HAyb5"
+    },
+    {
+      "album": {
         "name": "Elbows (feat. Troz\u00e9)",
         "url": "https://open.spotify.com/album/65ebxZ9lVdUnhWT94Okw7K"
       },
@@ -12616,6 +12634,24 @@
       "duration_ms": 180715,
       "name": "Light Of The Sun - RAEM Remix",
       "url": "https://open.spotify.com/track/3Y7E2ZMEX4PjipotDpfj19"
+    },
+    {
+      "album": {
+        "name": "Light The Dark",
+        "url": "https://open.spotify.com/album/6kNwG8lztYVQrTV1WSv64K"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230068,
+      "name": "Light The Dark",
+      "url": "https://open.spotify.com/track/3akwYNZtA2mMh0vPvodjSC"
     },
     {
       "album": {
@@ -22098,6 +22134,28 @@
       "duration_ms": 142453,
       "name": "Touch It (feat. Jazmine Johnson)",
       "url": "https://open.spotify.com/track/74LWuJ28wzfUBCYxRWyd7i"
+    },
+    {
+      "album": {
+        "name": "Touching Myself",
+        "url": "https://open.spotify.com/album/4AC3mwRM8sMKZg4rRJzpJi"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206838,
+      "name": "Touching Myself",
+      "url": "https://open.spotify.com/track/7KoMYV6oP8wixP7YOrOwIU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > SUMMER SONIC 2026 TOKYOにてSpotify Stageが登場！出演アーティストをプレイリストでチェック。
 
-425 songs - 23 hr 29 min
+427 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [ROKUDENASHI \(feat\. Awich\)](https://open.spotify.com/track/5sFH3JgfbShy9CgYqM0ZgE) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [DESTRUCTION](https://open.spotify.com/album/6J2XUL32G6s74SoTCmURpD) | 3:01 | 2024-08-18 | 2025-01-10 |
 | [ROLLING DICE \(feat\. Kaneee\)](https://open.spotify.com/track/61yzNyCc4HMo9GG2h7ojoG) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [WAVY TAPE 3](https://open.spotify.com/album/7kfh7rOfbF3HmDqljgG9u3) | 2:25 | 2025-08-17 | 2026-01-15 |
 | [Romeo & Juliet](https://open.spotify.com/track/15ueqDtpGZiLqFgvMhSO4g) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [LiFE](https://open.spotify.com/album/31u6IEytVZAg4vMJDDRg8Q) | 1:57 | 2024-08-18 | 2025-01-10 |
+| [Roulette](https://open.spotify.com/track/0zTx2OMVexkSnTNHJSJIKR) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Golden Child](https://open.spotify.com/album/31NxRGGXtEXb3a54YRZgYF) | 2:39 | 2026-05-28 |  |
 | [Run Now](https://open.spotify.com/track/671ARPQxp82y4e3eohOAH5) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [RAFRAGE2](https://open.spotify.com/album/3BOTe9j2N4mmDg86ef1cMx) | 3:29 | 2025-08-17 | 2026-01-15 |
 | [SAICO](https://open.spotify.com/track/2Ai3BXDpkd8uyag1cLMwBg) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [SAICO](https://open.spotify.com/album/4anpmAbMwcV3GZMRjX51JQ) | 2:47 | 2024-08-18 | 2025-01-10 |
 | [SAICO](https://open.spotify.com/track/2OkXKGeSHNTLPHFNZjKIKP) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [COMBO](https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P) | 2:48 | 2024-05-16 | 2024-07-10 |
@@ -240,6 +241,7 @@
 | [THE CAR](https://open.spotify.com/track/26KyAAGcsVkk0d5XDgbQRL) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS) | [GRAND POP](https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H) | 4:36 | 2025-08-16 | 2026-01-15 |
 | [The End of the F\*\*\*ing World](https://open.spotify.com/track/3QjiZvyA3BEVKOldWbwgvS) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [The End of the F\*\*\*ing World](https://open.spotify.com/album/0QE8Ni8QuDwINxg4bjPZIS) | 4:04 | 2025-03-18 | 2026-01-15 |
 | [Thinking Boyz!!!](https://open.spotify.com/track/1oxz3WPzyjlAYZFkUBcPRf) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [CULTURE DOG](https://open.spotify.com/album/5a1bxguVm8EXhv8Mo1DePm) | 3:25 | 2025-08-17 | 2026-01-15 |
+| [Thinking of You](https://open.spotify.com/track/5eIP2BdEEtv4EWIWGlJQV1) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Thinking of You](https://open.spotify.com/album/548AzNIS7caaO926qVC4Ob) | 2:59 | 2026-05-28 |  |
 | [Time is Over](https://open.spotify.com/track/0wSJH37VmqSMJdh1ns6dCI) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Time is Over](https://open.spotify.com/album/5CXHvXpRQlU0h0smVuJUpc) | 3:24 | 2025-01-23 | 2025-03-20 |
 | [Time is Over](https://open.spotify.com/track/4sY67ZLLwkuh5wn5sdwRHa) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Time is Over](https://open.spotify.com/album/71M79kQeKxgOCS7zNLOsR7) | 3:24 | 2025-01-09 | 2025-05-09 |
 | [TOMATO](https://open.spotify.com/track/0GJP5g4CjVWfxdUJ97n5wt) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [TOMATO](https://open.spotify.com/album/3If07ziOsFa5ckwcn86S2H) | 3:12 | 2026-04-24 |  |

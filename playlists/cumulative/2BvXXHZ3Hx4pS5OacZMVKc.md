@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-455 songs - 23 hr 21 min
+456 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [scars](https://open.spotify.com/track/0zB2y2HlyVWyKSAghefwzd) | [LOFIN](https://open.spotify.com/artist/3VJWdrq7JC3sVdd11NSYfx) | [scars](https://open.spotify.com/album/2lYbOAyek2e5jqilabHJHt) | 2:33 | 2025-12-05 |  |
 | [Seasons \- Futuristik & Whogaux Remix](https://open.spotify.com/track/1CZUz7vzalqzJq0khI74VL) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons \(Futuristik & Whogaux Remix\)](https://open.spotify.com/album/2Ykc9UcsTNDfD7uGyWES4W) | 3:13 | 2022-02-03 | 2022-09-15 |
 | [See You at the End](https://open.spotify.com/track/5zgkuEy6OCDPzGnt6Y6COg) | [Abandoned](https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x), [InfiNoise](https://open.spotify.com/artist/1nEAtVkiejN4vtq2xUdQ3g), [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [Brenton Mattheus](https://open.spotify.com/artist/5L3htGbUwUCPPhVM2UtdTY) | [See You at the End](https://open.spotify.com/album/1oLhNmmT3mVd5bn5obgan9) | 4:12 | 2023-08-10 |  |
+| [SET ME FREE](https://open.spotify.com/track/3Mr8ooiyRsfSGdBARsePJP) | [Sano](https://open.spotify.com/artist/2fYh4RB842at1z0mXNr64t) | [SET ME FREE](https://open.spotify.com/album/258ij8VCBmGge9QsZs14bb) | 3:25 | 2026-05-28 |  |
 | [Set You Free](https://open.spotify.com/track/2MZJIe78uKE7B7cFC1LNbR) | [Siimi](https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657) | [Set You Free](https://open.spotify.com/album/5j8yzZxVXnbVTMz5LzZA8N) | 3:14 | 2023-08-10 | 2024-11-20 |
 | [shadows](https://open.spotify.com/track/5dOUynmbCMOP7hgz12zvJc) | [criticaleye](https://open.spotify.com/artist/00Be3qCb8kvv6VXXLYzLlr), [SHIRO](https://open.spotify.com/artist/44y7O50xAJlIfvCL66L4nb), [EVILDXER](https://open.spotify.com/artist/6mEaCmk5qUN3U83PzhpjqH) | [shadows](https://open.spotify.com/album/3nzLGxCbQ3DhaVcZuzENxF) | 3:27 | 2025-11-18 |  |
 | [Shimmer](https://open.spotify.com/track/4PDLDew5A8O0FWXMazIoPS) | [THYKIER](https://open.spotify.com/artist/4EePQNY0QBU3IPSSvqZOpI) | [Shimmer EP](https://open.spotify.com/album/0oiJtNGOQBR4hnhdMmffTM) | 2:55 | 2022-02-03 | 2022-09-15 |

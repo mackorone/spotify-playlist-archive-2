@@ -1067,6 +1067,40 @@
     },
     {
       "album": {
+        "name": "Maa Behen",
+        "url": "https://open.spotify.com/album/5tNzAiZuG5T2EYUOJL3lWI"
+      },
+      "artists": [
+        {
+          "name": "Akshay & IP",
+          "url": "https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf"
+        },
+        {
+          "name": "Anand-Milind",
+          "url": "https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk"
+        },
+        {
+          "name": "Anuradha Paudwal",
+          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148124,
+      "name": "Dhak Dhak Reloaded",
+      "url": "https://open.spotify.com/track/5VbLC80g5f6oSbSq9BsC6K"
+    },
+    {
+      "album": {
         "name": "Dhakka Laga Bukka (From \"Tandav\")",
         "url": "https://open.spotify.com/album/6May5sUcixsBdqoJGxV8mz"
       },
@@ -2488,7 +2522,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 211400,
       "name": "Husn Ke Lakhon Rang - From \"Toaster\"",
       "url": "https://open.spotify.com/track/4m20rRVI0u4hvcK3noOOuI"

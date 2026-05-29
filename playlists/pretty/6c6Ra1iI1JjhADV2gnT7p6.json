@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60157,
+  "num_followers": 60168,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABAOTc9EPZmQnOvISFK3iyWyxso6bXr",
+  "snapshot_id": "AABARpUIMfE68A5cRKOrFu6VC6sPLNpV",
   "tracks": [
     {
       "added_at": "2026-05-23 12:49:59",
@@ -207,6 +207,90 @@
     {
       "added_at": "2026-05-23 12:49:59",
       "album": {
+        "name": "Heart Has To Work So Hard",
+        "url": "https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Heart Has To Work So Hard",
+      "url": "https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK"
+    },
+    {
+      "added_at": "2026-05-23 12:49:59",
+      "album": {
+        "name": "Sudden Death",
+        "url": "https://open.spotify.com/album/2hYkugX43o1j33yRGmgoGL"
+      },
+      "artists": [
+        {
+          "name": "ROREY",
+          "url": "https://open.spotify.com/artist/5MpF35XujtDAV7ufakSToU"
+        }
+      ],
+      "duration_ms": 148857,
+      "name": "Sudden Death",
+      "url": "https://open.spotify.com/track/1ArFN0zmsOfkv2uLnJqscO"
+    },
+    {
+      "added_at": "2026-05-23 12:49:59",
+      "album": {
+        "name": "The Witness",
+        "url": "https://open.spotify.com/album/2ITeUEmm1aEdhic66R4m2E"
+      },
+      "artists": [
+        {
+          "name": "Josaleigh Pollett",
+          "url": "https://open.spotify.com/artist/58f1MCgC8Q0XnjYqEpklz9"
+        },
+        {
+          "name": "Crowd Shy",
+          "url": "https://open.spotify.com/artist/56PFTDT6hR5g9uDRWTDRVk"
+        }
+      ],
+      "duration_ms": 270106,
+      "name": "The Witness",
+      "url": "https://open.spotify.com/track/4z4EsGMLx5PPwhWXcUp2T1"
+    },
+    {
+      "added_at": "2026-05-23 12:49:59",
+      "album": {
+        "name": "Million Roses",
+        "url": "https://open.spotify.com/album/0mMEmRpmpZcfEg9ixBrA4s"
+      },
+      "artists": [
+        {
+          "name": "Electric Puma",
+          "url": "https://open.spotify.com/artist/33HA7npDq1hFuDK2WUC7kn"
+        }
+      ],
+      "duration_ms": 262995,
+      "name": "Million Roses",
+      "url": "https://open.spotify.com/track/61G9eVBDFxieSPp17J2TFO"
+    },
+    {
+      "added_at": "2026-05-23 12:49:59",
+      "album": {
+        "name": "shovel",
+        "url": "https://open.spotify.com/album/0oFJdt4hxeQczqv7om1POI"
+      },
+      "artists": [
+        {
+          "name": "gottsy",
+          "url": "https://open.spotify.com/artist/2P30CnCVzy8gHQeWqr9nMb"
+        }
+      ],
+      "duration_ms": 166232,
+      "name": "shovel",
+      "url": "https://open.spotify.com/track/7E4AEGIm9o7fxTPZGDRyvr"
+    },
+    {
+      "added_at": "2026-05-23 12:49:59",
+      "album": {
         "name": "Ben & I",
         "url": "https://open.spotify.com/album/6PvlH693JLqXh2G3bKvLpk"
       },
@@ -251,6 +335,38 @@
       "duration_ms": 234426,
       "name": "Unlucky Strike",
       "url": "https://open.spotify.com/track/0nHhUtqt8IuIDgxFZ8MpHk"
+    },
+    {
+      "added_at": "2026-05-23 12:49:59",
+      "album": {
+        "name": "Pocket Racer",
+        "url": "https://open.spotify.com/album/0Cv5CtdqFrEw3JoEAVOrAU"
+      },
+      "artists": [
+        {
+          "name": "Pekoe Cat",
+          "url": "https://open.spotify.com/artist/6T0MjW8LaNldtax2g61zHW"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Pocket Racer",
+      "url": "https://open.spotify.com/track/7dbnvxM3GfR8VjU97Pfvm1"
+    },
+    {
+      "added_at": "2026-05-23 12:49:59",
+      "album": {
+        "name": "My Own Personal Racer",
+        "url": "https://open.spotify.com/album/6iP9FqVALeK8t04IeRoCDd"
+      },
+      "artists": [
+        {
+          "name": "Dorio",
+          "url": "https://open.spotify.com/artist/0XQs1MH9uzbaiAa3BiMvRv"
+        }
+      ],
+      "duration_ms": 268402,
+      "name": "My Own Personal Racer",
+      "url": "https://open.spotify.com/track/0Ji1UhO6kn3ThpNUKRPh4Y"
     },
     {
       "added_at": "2026-05-23 12:49:59",
@@ -331,22 +447,6 @@
       "duration_ms": 269946,
       "name": "Dark Clouds",
       "url": "https://open.spotify.com/track/2tloVsMfcwHkZnk1TcRWhi"
-    },
-    {
-      "added_at": "2026-05-23 12:49:59",
-      "album": {
-        "name": "Heart Has To Work So Hard",
-        "url": "https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Heart Has To Work So Hard",
-      "url": "https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK"
     },
     {
       "added_at": "2026-05-23 12:49:59",
@@ -855,38 +955,6 @@
     {
       "added_at": "2026-05-23 12:49:59",
       "album": {
-        "name": "Arizona",
-        "url": "https://open.spotify.com/album/5aDO0V94YTZuGcich9CM0z"
-      },
-      "artists": [
-        {
-          "name": "Trimmo",
-          "url": "https://open.spotify.com/artist/0YrJZBcCaq5EGOQet06RpW"
-        }
-      ],
-      "duration_ms": 118978,
-      "name": "Ten Dollar Man",
-      "url": "https://open.spotify.com/track/6J9XgkV1AmjedXLcAjQK8N"
-    },
-    {
-      "added_at": "2026-05-23 12:49:59",
-      "album": {
-        "name": "A Moment In My Eyes",
-        "url": "https://open.spotify.com/album/65KsWH5H4VpKz1VJ2pGr2Y"
-      },
-      "artists": [
-        {
-          "name": "My Precious Bunny",
-          "url": "https://open.spotify.com/artist/0F9Ze647kaLptWQU2Pg0u2"
-        }
-      ],
-      "duration_ms": 138672,
-      "name": "Punchin'",
-      "url": "https://open.spotify.com/track/2Fty05w4Bh2odg34vwBCzr"
-    },
-    {
-      "added_at": "2026-05-23 12:49:59",
-      "album": {
         "name": "She is the Poet",
         "url": "https://open.spotify.com/album/4d6I8nRwzAB5kMOC0CgvII"
       },
@@ -915,6 +983,22 @@
       "duration_ms": 135000,
       "name": "Like It Was Before",
       "url": "https://open.spotify.com/track/1PAlK7pZ3VQi5aQau400W4"
+    },
+    {
+      "added_at": "2026-05-23 12:49:59",
+      "album": {
+        "name": "A Moment In My Eyes",
+        "url": "https://open.spotify.com/album/65KsWH5H4VpKz1VJ2pGr2Y"
+      },
+      "artists": [
+        {
+          "name": "My Precious Bunny",
+          "url": "https://open.spotify.com/artist/0F9Ze647kaLptWQU2Pg0u2"
+        }
+      ],
+      "duration_ms": 138672,
+      "name": "Punchin'",
+      "url": "https://open.spotify.com/track/2Fty05w4Bh2odg34vwBCzr"
     },
     {
       "added_at": "2026-05-23 12:49:59",
@@ -1127,6 +1211,22 @@
     {
       "added_at": "2026-05-23 12:49:59",
       "album": {
+        "name": "Betrayer",
+        "url": "https://open.spotify.com/album/1X5vhlVjBVg6sbVIm1GtT8"
+      },
+      "artists": [
+        {
+          "name": "Orbit 17",
+          "url": "https://open.spotify.com/artist/6KsnYAXDVbqUPE44LSxnJ8"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Expectations",
+      "url": "https://open.spotify.com/track/2kmmaXpAx9Sqk6DIHEyw5G"
+    },
+    {
+      "added_at": "2026-05-23 12:49:59",
+      "album": {
         "name": "Wednesday",
         "url": "https://open.spotify.com/album/3gIN69ag56ITdMSzOFrHF6"
       },
@@ -1143,22 +1243,6 @@
     {
       "added_at": "2026-05-23 12:49:59",
       "album": {
-        "name": "Sudden Death",
-        "url": "https://open.spotify.com/album/2hYkugX43o1j33yRGmgoGL"
-      },
-      "artists": [
-        {
-          "name": "ROREY",
-          "url": "https://open.spotify.com/artist/5MpF35XujtDAV7ufakSToU"
-        }
-      ],
-      "duration_ms": 148857,
-      "name": "Sudden Death",
-      "url": "https://open.spotify.com/track/1ArFN0zmsOfkv2uLnJqscO"
-    },
-    {
-      "added_at": "2026-05-23 12:49:59",
-      "album": {
         "name": "Hold my hand hunter",
         "url": "https://open.spotify.com/album/3dFrkww4L3x69kQAfPdoTp"
       },
@@ -1171,42 +1255,6 @@
       "duration_ms": 185123,
       "name": "Hold my hand hunter",
       "url": "https://open.spotify.com/track/03Zbp9zGdjropRUoy7xoLE"
-    },
-    {
-      "added_at": "2026-05-23 12:49:59",
-      "album": {
-        "name": "The Witness",
-        "url": "https://open.spotify.com/album/2ITeUEmm1aEdhic66R4m2E"
-      },
-      "artists": [
-        {
-          "name": "Josaleigh Pollett",
-          "url": "https://open.spotify.com/artist/58f1MCgC8Q0XnjYqEpklz9"
-        },
-        {
-          "name": "Crowd Shy",
-          "url": "https://open.spotify.com/artist/56PFTDT6hR5g9uDRWTDRVk"
-        }
-      ],
-      "duration_ms": 270106,
-      "name": "The Witness",
-      "url": "https://open.spotify.com/track/4z4EsGMLx5PPwhWXcUp2T1"
-    },
-    {
-      "added_at": "2026-05-23 12:49:59",
-      "album": {
-        "name": "Betrayer",
-        "url": "https://open.spotify.com/album/1X5vhlVjBVg6sbVIm1GtT8"
-      },
-      "artists": [
-        {
-          "name": "Orbit 17",
-          "url": "https://open.spotify.com/artist/6KsnYAXDVbqUPE44LSxnJ8"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Expectations",
-      "url": "https://open.spotify.com/track/2kmmaXpAx9Sqk6DIHEyw5G"
     },
     {
       "added_at": "2026-05-23 12:49:59",
@@ -1319,22 +1367,6 @@
       "duration_ms": 260357,
       "name": "Dime",
       "url": "https://open.spotify.com/track/42xTj96daMAxRGDpjj6Ui8"
-    },
-    {
-      "added_at": "2026-05-23 12:49:59",
-      "album": {
-        "name": "Million Roses",
-        "url": "https://open.spotify.com/album/0mMEmRpmpZcfEg9ixBrA4s"
-      },
-      "artists": [
-        {
-          "name": "Electric Puma",
-          "url": "https://open.spotify.com/artist/33HA7npDq1hFuDK2WUC7kn"
-        }
-      ],
-      "duration_ms": 262995,
-      "name": "Million Roses",
-      "url": "https://open.spotify.com/track/61G9eVBDFxieSPp17J2TFO"
     },
     {
       "added_at": "2026-05-23 12:49:59",
@@ -1551,38 +1583,6 @@
     {
       "added_at": "2026-05-23 12:49:59",
       "album": {
-        "name": "Pocket Racer",
-        "url": "https://open.spotify.com/album/0Cv5CtdqFrEw3JoEAVOrAU"
-      },
-      "artists": [
-        {
-          "name": "Pekoe Cat",
-          "url": "https://open.spotify.com/artist/6T0MjW8LaNldtax2g61zHW"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Pocket Racer",
-      "url": "https://open.spotify.com/track/7dbnvxM3GfR8VjU97Pfvm1"
-    },
-    {
-      "added_at": "2026-05-23 12:49:59",
-      "album": {
-        "name": "My Own Personal Racer",
-        "url": "https://open.spotify.com/album/6iP9FqVALeK8t04IeRoCDd"
-      },
-      "artists": [
-        {
-          "name": "Dorio",
-          "url": "https://open.spotify.com/artist/0XQs1MH9uzbaiAa3BiMvRv"
-        }
-      ],
-      "duration_ms": 268402,
-      "name": "My Own Personal Racer",
-      "url": "https://open.spotify.com/track/0Ji1UhO6kn3ThpNUKRPh4Y"
-    },
-    {
-      "added_at": "2026-05-23 12:49:59",
-      "album": {
         "name": "Hey Julie",
         "url": "https://open.spotify.com/album/5gerMgEHUrbxBasAKOzz2I"
       },
@@ -1787,6 +1787,22 @@
       "duration_ms": 192822,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/68LccSdJjypLbjrlW83x4b"
+    },
+    {
+      "added_at": "2026-05-23 12:49:59",
+      "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/5aDO0V94YTZuGcich9CM0z"
+      },
+      "artists": [
+        {
+          "name": "Trimmo",
+          "url": "https://open.spotify.com/artist/0YrJZBcCaq5EGOQet06RpW"
+        }
+      ],
+      "duration_ms": 118978,
+      "name": "Ten Dollar Man",
+      "url": "https://open.spotify.com/track/6J9XgkV1AmjedXLcAjQK8N"
     },
     {
       "added_at": "2026-05-23 12:49:59",
@@ -2151,22 +2167,6 @@
       "duration_ms": 186316,
       "name": "CRASH COURSE DUMMY",
       "url": "https://open.spotify.com/track/33gjrrapm7VH9wL4bhIQ23"
-    },
-    {
-      "added_at": "2026-05-23 12:49:59",
-      "album": {
-        "name": "shovel",
-        "url": "https://open.spotify.com/album/0oFJdt4hxeQczqv7om1POI"
-      },
-      "artists": [
-        {
-          "name": "gottsy",
-          "url": "https://open.spotify.com/artist/2P30CnCVzy8gHQeWqr9nMb"
-        }
-      ],
-      "duration_ms": 166232,
-      "name": "shovel",
-      "url": "https://open.spotify.com/track/7E4AEGIm9o7fxTPZGDRyvr"
     },
     {
       "added_at": "2026-05-23 12:49:59",

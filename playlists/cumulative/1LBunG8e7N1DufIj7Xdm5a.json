@@ -64917,6 +64917,24 @@
     },
     {
       "album": {
+        "name": "Speed Of A Summer Night",
+        "url": "https://open.spotify.com/album/0DAKVbUAkgLDzJGfTEm01P"
+      },
+      "artists": [
+        {
+          "name": "Static Echoes",
+          "url": "https://open.spotify.com/artist/4qx5CnX8jGV49bqPKbatO7"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229599,
+      "name": "Speed Of A Summer Night",
+      "url": "https://open.spotify.com/track/1wCTXpkDk9ns03WbOmCuyY"
+    },
+    {
+      "album": {
         "name": "POV (Sped Up Versions)",
         "url": "https://open.spotify.com/album/0UT0BKBC4wdQbj5Bx5xxuJ"
       },

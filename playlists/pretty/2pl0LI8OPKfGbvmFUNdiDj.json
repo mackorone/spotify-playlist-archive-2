@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 889,
+  "num_followers": 888,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAD3v5nKc/IHo3syMzwpGhkp44qitGg",
+  "snapshot_id": "AAAD3/PCiuYa5EITHCvo4+09PrEovhSd",
   "tracks": [
     {
       "added_at": "2026-05-09 15:40:27",
@@ -1135,6 +1135,22 @@
       "duration_ms": 184186,
       "name": "1000 Kil\u00f3metros",
       "url": "https://open.spotify.com/track/0fZ3Wcrlzz9OaURp2WJJ0V"
+    },
+    {
+      "added_at": "2026-05-28 14:29:14",
+      "album": {
+        "name": "Autumn Leaves",
+        "url": "https://open.spotify.com/album/2ZQfxyOz4pBWHrJdlp7yJL"
+      },
+      "artists": [
+        {
+          "name": "Bonolo Solomon",
+          "url": "https://open.spotify.com/artist/4kaNxQusxlke6nfnusb2fT"
+        }
+      ],
+      "duration_ms": 191895,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/7qOWu0a7bzpYNk4yEju09S"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

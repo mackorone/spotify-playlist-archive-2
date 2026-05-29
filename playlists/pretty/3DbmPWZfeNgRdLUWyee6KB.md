@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 192 songs - 11 hr 23 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 196 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,5 +200,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 190 | [Una Volta Sola](https://open.spotify.com/track/3bJeBzbGUQfTEyAyeYQtKV) | [Cabi Jr](https://open.spotify.com/artist/2bDwLhQgYUDqaqSOobCPh2) | [Una Volta Sola](https://open.spotify.com/album/09KVL9lKEndRLy72CL0f4I) | 2:47 |
 | 191 | [Above the Clouds](https://open.spotify.com/track/0dYML7ZLo5mPXJozCYXzuu) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [I Keep Standing Above the Clouds](https://open.spotify.com/album/0qIKPUfjZ7EJ1d8G7URaZc) | 3:07 |
 | 192 | [Nadie se siente como yo](https://open.spotify.com/track/7lnOOd1whrxVP2qcAmKzH5) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [Nadie se siente como yo](https://open.spotify.com/album/7MEjMYDMcC0rBU3szAxuCj) | 3:32 |
+| 193 | [The words you never say](https://open.spotify.com/track/1IEasxoyUb6FdwhU6XFFSg) | [Nailuz](https://open.spotify.com/artist/75eTPvGYXVQkPzo0kVk6mg) | [The words you never say](https://open.spotify.com/album/6xOJUZ3pXos0VeNnN8jqVi) | 3:38 |
+| 194 | [tomorrow I'll try](https://open.spotify.com/track/4MoKm1Ze37SlGoNy9YrCls) | [Sweetshirt](https://open.spotify.com/artist/7uNgpGi95W3yBlDs2kB6cI) | [tomorrow I'll try](https://open.spotify.com/album/30HI6lQJkora43ky42u5mX) | 2:35 |
+| 195 | [Particolare](https://open.spotify.com/track/0AdDre9FCxVt7U8jOVdT3g) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Particolare](https://open.spotify.com/album/1b9nxh9JegqaNR0OTsS6vC) | 2:45 |
+| 196 | [Long Time](https://open.spotify.com/track/2UKdtw1iNzsx2gmuYbQaKu) | [Eddus](https://open.spotify.com/artist/6iFNqjfucW5tG2WUK0nSxR) | [Long Time](https://open.spotify.com/album/3B3on9GGaYMjfyQpgVOnLa) | 3:32 |
 
-Snapshot ID: `AAAUahPzjWj0g+ghrrGwAi1gYBCAQAYW`
+Snapshot ID: `AAAUbgwFnUztbsztgE4VJbrJx7/2YUdX`

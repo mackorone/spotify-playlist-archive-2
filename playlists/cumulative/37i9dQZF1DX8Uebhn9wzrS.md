@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,503 songs - 3 day 23 hr 16 min
+2,504 songs - 3 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,7 +606,7 @@
 | [Dream Little Dreams](https://open.spotify.com/track/2HP0zVn24L18ChvxZWaGfs) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Dream Little Dreams](https://open.spotify.com/album/3z401mkRRsYqmrMZSoVcqP) | 2:08 | 2023-12-08 | 2025-11-26 |
 | [Dream Walker](https://open.spotify.com/track/4DBsrFbmAF9rJtRh88VXQN) | [PIÑA PINK](https://open.spotify.com/artist/7L2I1AuvyRXd2ysLSTeKZX) | [Dream Walker](https://open.spotify.com/album/4hyOyHBAff6IYOQ4qyDHDH) | 2:44 | 2023-10-20 | 2025-11-15 |
 | [Dream Weaver](https://open.spotify.com/track/6bU7I0yIIH6LpokLVuhstK) | [Gary B](https://open.spotify.com/artist/3j6HqaYmvmWOTF1MH7YTYk), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Dream Weaver](https://open.spotify.com/album/2WX7YqmBUlwRNIbjqJy2y7) | 1:55 | 2022-11-11 | 2023-02-07 |
-| [dreamwalk](https://open.spotify.com/track/4x2mb4NOW5YppXVH4kRik7) | [loutwo](https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf) | [dreamwalk](https://open.spotify.com/album/5H16q3QplTPf764zMWYKYR) | 2:17 | 2026-03-13 |  |
+| [dreamwalk](https://open.spotify.com/track/4x2mb4NOW5YppXVH4kRik7) | [loutwo](https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf) | [dreamwalk](https://open.spotify.com/album/5H16q3QplTPf764zMWYKYR) | 2:17 | 2026-03-13 | 2026-05-29 |
 | [Drift](https://open.spotify.com/track/4JDGpMVac8xxRn8B0t8FZd) | [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f), [Ninn Tendo](https://open.spotify.com/artist/1OF6VqF0EwQP7tfJlFIVMw) | [Drift](https://open.spotify.com/album/5gGqBvy3mXCsUI7ijZ6MfG) | 2:03 | 2022-07-29 | 2022-08-12 |
 | [Drift](https://open.spotify.com/track/7DgiTzkm5OcTlD4vYLmGS9) | [Revoir](https://open.spotify.com/artist/7FBH8ul4xUiYw1eYeBJs1f), [Ninn Tendo](https://open.spotify.com/artist/1OF6VqF0EwQP7tfJlFIVMw) | [Drift](https://open.spotify.com/album/6bmoUmUkCHbfKa4sb3iXEP) | 2:03 | 2022-04-15 | 2022-07-29 |
 | [Driftin](https://open.spotify.com/track/1ZNeOwowtrCIO8rCx6aeSK) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [Nightrider](https://open.spotify.com/album/02qSscqdiVZOe8aqpZxGb0) | 2:05 | 2022-09-09 | 2023-01-07 |
@@ -2216,6 +2216,7 @@
 | [the neighborhood](https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [the neighborhood](https://open.spotify.com/album/4fvFegKW9QME1hmJVigINz) | 2:09 | 2023-09-29 | 2025-07-26 |
 | [The Next Stop Is](https://open.spotify.com/track/476oazZv3c5b3I8vwJAGZ5) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [The Next Stop Is](https://open.spotify.com/album/0EFrr0p72DDQyWqxbnH26m) | 2:31 | 2022-11-25 | 2024-09-09 |
 | [The Night Cruise](https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [The Night Cruise](https://open.spotify.com/album/44gBUyhILIO0PSsSmeHBGo) | 2:17 | 2023-07-13 | 2025-03-09 |
+| [The Night Feels Close](https://open.spotify.com/track/4JpLyilUl063z6ZfAvnrjW) | [minoumi](https://open.spotify.com/artist/4ZgI4V653zyvBVnIv20F0K) | [The Night Feels Close](https://open.spotify.com/album/416OEg74YVRsqVobRMWLgv) | 2:11 | 2026-05-28 |  |
 | [the pond](https://open.spotify.com/track/5QOnFaXtglFcG9nInrLk4A) | [Lil Leaf](https://open.spotify.com/artist/1GXcMejVQYwn2UstbQ0eHY) | [the pond](https://open.spotify.com/album/1chFLPPOy0Lbz99TD0Iccz) | 2:18 | 2025-04-25 | 2025-06-14 |
 | [The sea that forgot the past](https://open.spotify.com/track/1mViogHkkvCrautHVmmkAI) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha), [edgarddd](https://open.spotify.com/artist/5hhz5oUTkVnBxC3YpYm5Ve) | [Exit](https://open.spotify.com/album/6qgtK04UoX18RtSLnKHz5D) | 1:37 | 2022-04-15 | 2022-11-12 |
 | [The Smokeroom Band](https://open.spotify.com/track/21Wl7gBjfJuhNHe66c3LOu) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Sixth Degree](https://open.spotify.com/album/7lD5tqgt3RULe8A2YCSR1h) | 3:27 | 2022-04-15 | 2022-06-25 |

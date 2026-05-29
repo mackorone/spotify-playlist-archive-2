@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: Roy Kim(\ub85c\uc774\ud0b4)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Jung Seung Hwan(\uc815\uc2b9\ud658)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -2104,6 +2104,24 @@
       "duration_ms": 259972,
       "name": "As Autumn Brings Cold Wind",
       "url": "https://open.spotify.com/track/6Nrkbf2TodraiIu0BHcFYN"
+    },
+    {
+      "album": {
+        "name": "As If",
+        "url": "https://open.spotify.com/album/5cQBqXCPndAmOPRZfLLL3a"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "As If",
+      "url": "https://open.spotify.com/track/4CBQXkillvktWczebMlqip"
     },
     {
       "album": {
@@ -6830,7 +6848,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 220000,
       "name": "Even If This Love Disappears Tonight",
       "url": "https://open.spotify.com/track/00KY9LKV7KJM53zByjtmiE"
@@ -11992,7 +12010,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 228000,
       "name": "I'll Remember",
       "url": "https://open.spotify.com/track/7oArq8xkRKeRDOnOv45PmS"
@@ -14640,7 +14658,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 214000,
       "name": "LIE LIE LIE",
       "url": "https://open.spotify.com/track/6BvHxN7P7ZQDRpMtA9S8Wu"
@@ -21448,7 +21466,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 180379,
       "name": "Rough",
       "url": "https://open.spotify.com/track/1g4e8dKDarkiCkfMQWPOUS"
@@ -25361,6 +25379,24 @@
     },
     {
       "album": {
+        "name": "The End of Us",
+        "url": "https://open.spotify.com/album/7nsw4woYEOl2Tiayk312fX"
+      },
+      "artists": [
+        {
+          "name": "Cha ga eul",
+          "url": "https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213912,
+      "name": "The End of Us",
+      "url": "https://open.spotify.com/track/7zpyK804uZWtM1BCn8ojut"
+    },
+    {
+      "album": {
         "name": "The fact that we broke up",
         "url": "https://open.spotify.com/album/3e00wKIxPpDz6ROLp6wTDP"
       },
@@ -26634,7 +26670,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 252000,
       "name": "TIME CAPSULE",
       "url": "https://open.spotify.com/track/3CQw6HqsBu12wUj89vUQ5M"
@@ -31522,7 +31558,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 240980,
       "name": "\uc0ac\uacc4(Always)",
       "url": "https://open.spotify.com/track/5nQgn6RGGRUUiGFFXsdkGI"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: KETTAMA",
+  "description": "The home for alternative electronic music. Cover: Barry Can't Swim",
   "name": "Altar",
   "tracks": [
     {
@@ -4268,7 +4268,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 193655,
       "name": "champagne",
       "url": "https://open.spotify.com/track/3WIItkBeQ3ffdM9IntiSDv"
@@ -6820,7 +6820,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 231823,
       "name": "Dream Therapy (feat. Sampha) (George FitzGerald remix)",
       "url": "https://open.spotify.com/track/4N9nEO8B7rsEHVdeNO6Plw"
@@ -7849,6 +7849,24 @@
     },
     {
       "album": {
+        "name": "Essex_Honey.mp3",
+        "url": "https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289075,
+      "name": "Essex_Honey.mp3",
+      "url": "https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3"
+    },
+    {
+      "album": {
         "name": "EST",
         "url": "https://open.spotify.com/album/0uTa7zuhN42yVclpAkJL9i"
       },
@@ -8296,7 +8314,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 186132,
       "name": "eye contact (feat. Council)",
       "url": "https://open.spotify.com/track/521FxNsu8Uk2H3N8cZ38lq"
@@ -9068,7 +9086,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 165931,
       "name": "FITNESS FIRST",
       "url": "https://open.spotify.com/track/64FZ6XLObgyJwDQWkVU07k"
@@ -12523,6 +12541,32 @@
     },
     {
       "album": {
+        "name": "I Think I'm About To Break",
+        "url": "https://open.spotify.com/album/0uDGDWdXl258PeABlvQbaf"
+      },
+      "artists": [
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        },
+        {
+          "name": "CARMICHAEL",
+          "url": "https://open.spotify.com/artist/28aPZP4w3Qj01OPQCoSwC8"
+        },
+        {
+          "name": "suval",
+          "url": "https://open.spotify.com/artist/4LqnRW18kU8pjcg2YJZoIF"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165461,
+      "name": "I Think I'm About To Break",
+      "url": "https://open.spotify.com/track/1AWPTcx4W2Z4b4UFIOVdZE"
+    },
+    {
+      "album": {
         "name": "I Told Ya",
         "url": "https://open.spotify.com/album/0XqsX7gCAQqF6Y8pIV8cKl"
       },
@@ -14312,6 +14356,28 @@
       "duration_ms": 274805,
       "name": "Keep On Believing",
       "url": "https://open.spotify.com/track/5jaFbirGVgy7WZLHreowqP"
+    },
+    {
+      "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/6LaS61MuI34XOk85kHiPSS"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        },
+        {
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209799,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/7LWGTXRs0lnEPMVwoiWjFR"
     },
     {
       "album": {
@@ -21061,6 +21127,24 @@
     },
     {
       "album": {
+        "name": "Return To Bhibo",
+        "url": "https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157840,
+      "name": "Return To Bhibo",
+      "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
+    },
+    {
+      "album": {
         "name": "Revision feat. Giovanni",
         "url": "https://open.spotify.com/album/4fmY2RxbdZcvt2cgMmCJNZ"
       },
@@ -24769,6 +24853,24 @@
     },
     {
       "album": {
+        "name": "Talk nice",
+        "url": "https://open.spotify.com/album/58QTVyvEXnWqmrGSSHh6nt"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238500,
+      "name": "Talk nice",
+      "url": "https://open.spotify.com/track/6i1D8BSUDo5WHIDvl9sMqp"
+    },
+    {
+      "album": {
         "name": "Talk of the Town",
         "url": "https://open.spotify.com/album/7qjrNDFT178bazNZiASRBU"
       },
@@ -25352,7 +25454,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 227541,
       "name": "The Heart Wants a Heart",
       "url": "https://open.spotify.com/track/1mdVXh491uJSCEQWhYJ3mV"

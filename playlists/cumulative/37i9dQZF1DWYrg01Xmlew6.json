@@ -3960,7 +3960,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 144000,
       "name": "FUMANDO AMERICANO",
       "url": "https://open.spotify.com/track/5kwPRkMKTcS57EuXhPdtgD"
@@ -6491,6 +6491,28 @@
     },
     {
       "album": {
+        "name": "RICCHI DI NIENTE",
+        "url": "https://open.spotify.com/album/1p5wHXiXIzwSTUliawRxmg"
+      },
+      "artists": [
+        {
+          "name": "Rue Diego",
+          "url": "https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124781,
+      "name": "MIAMI (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/48rkA9TzMZrvkqhzt45XPL"
+    },
+    {
+      "album": {
         "name": "MIEZZ E SCAL",
         "url": "https://open.spotify.com/album/1boAWBHklirSAaMJbjBXaj"
       },
@@ -6820,6 +6842,28 @@
       "duration_ms": 123218,
       "name": "MOMO DESIGN (feat. Im Envy)",
       "url": "https://open.spotify.com/track/1yGreSMP5Vle6mURU2bMdC"
+    },
+    {
+      "album": {
+        "name": "RICCHI DI NIENTE",
+        "url": "https://open.spotify.com/album/1p5wHXiXIzwSTUliawRxmg"
+      },
+      "artists": [
+        {
+          "name": "Rue Diego",
+          "url": "https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F"
+        },
+        {
+          "name": "Im Envy",
+          "url": "https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160576,
+      "name": "MOMO DESIGN 2 (feat. Im Envy)",
+      "url": "https://open.spotify.com/track/5SVM5HK2AQELROMINAG5jE"
     },
     {
       "album": {
@@ -9664,7 +9708,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 164041,
       "name": "QUANT SI OMM!?",
       "url": "https://open.spotify.com/track/0RBIuIb2s59b1dt2B7J96d"
@@ -10464,7 +10508,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 139868,
       "name": "SCAL E MARC",
       "url": "https://open.spotify.com/track/4VUdz9Czewm4pJ4NqhOTix"
@@ -12204,6 +12248,24 @@
       "duration_ms": 150204,
       "name": "TUTTA APPARENZA",
       "url": "https://open.spotify.com/track/459UDpJG0gBZnIihUWQWtn"
+    },
+    {
+      "album": {
+        "name": "TUTTO O NIENTE",
+        "url": "https://open.spotify.com/album/2VFmHr64JMYfDfCPtjmPDC"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149089,
+      "name": "TUTTO O NIENTE",
+      "url": "https://open.spotify.com/track/0Uqv8uGGomUUsTubNRU3Fc"
     },
     {
       "album": {

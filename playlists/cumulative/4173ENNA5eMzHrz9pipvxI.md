@@ -2,9 +2,9 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: AVE
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Joshua Robbie, Dawty, Preston Harris and Trxnz
 
-1,998 songs - 4 day 0 hr 15 min
+2,000 songs - 4 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1009,6 +1009,7 @@
 | [Lift Me Up](https://open.spotify.com/track/0LBGk4xW093mDP7u1nVAdt) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Maynamic](https://open.spotify.com/artist/59tEd7UdrbizecKsQGcSAL), [Edd Blaze](https://open.spotify.com/artist/3cySvdUfWyFpkVC5pVD5wb) | [Lift Me Up](https://open.spotify.com/album/7J61Uu0AG8bKc3hW2QkUse) | 2:30 | 2025-01-23 | 2025-04-19 |
 | [Light It Up](https://open.spotify.com/track/3aM3elSql2STyiob9POgWY) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [LOOZBONE](https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Light It Up](https://open.spotify.com/album/44U8tCNiznyv71RQ5sE1Ht) | 2:37 | 2024-06-28 | 2024-07-05 |
 | [Light It Up \(feat\. MC Ambush\)](https://open.spotify.com/track/2nwmp06W0pxsQltnsW4ElE) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [MC Ambush](https://open.spotify.com/artist/18T0SpXY06tqdiyBTYTIgi) | [Light It Up \(feat\. MC Ambush\)](https://open.spotify.com/album/6IDFsFFsCXzGp77ELU6zbP) | 2:36 | 2024-08-19 | 2024-08-30 |
+| [Light The Dark](https://open.spotify.com/track/3akwYNZtA2mMh0vPvodjSC) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Light The Dark](https://open.spotify.com/album/6kNwG8lztYVQrTV1WSv64K) | 3:50 | 2026-05-28 |  |
 | [Like A G6 \(with Naeleck\)](https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Like A G6 \(with Naeleck\)](https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y) | 2:28 | 2024-05-13 | 2024-05-17 |
 | [Like Before](https://open.spotify.com/track/1E3u84XwqE5mHxjdTSIodR) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Like Before](https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88) | 3:29 | 2022-06-24 | 2022-07-09 |
 | [Like Me](https://open.spotify.com/track/6fYq0RvfkmvqJDeVVzZLqo) | [Lost Knights](https://open.spotify.com/artist/0LweWdeXffhLb6uu1F9aVn) | [Like Me](https://open.spotify.com/album/3yLOK6z6i1EcqekIxaxaCk) | 2:34 | 2023-02-24 | 2023-03-04 |
@@ -1811,6 +1812,7 @@
 | [Touch It](https://open.spotify.com/track/5vbPAYlJb40a8BW56hAkDD) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Touch It](https://open.spotify.com/album/3gTF2ONDns1Byk5PO0YMdL) | 3:03 | 2025-10-10 |  |
 | [Touch It \(feat\. Jazmine Johnson\)](https://open.spotify.com/track/74LWuJ28wzfUBCYxRWyd7i) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Jazmine Johnson](https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz) | [Touch It \(feat\. Jazmine Johnson\)](https://open.spotify.com/album/3qc1yeZN15U01GMdq2eKGZ) | 2:22 | 2025-03-13 | 2025-04-19 |
 | [Touch Me](https://open.spotify.com/track/37WojeNKqWZYDcOhzRsZx2) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV) | [Touch Me](https://open.spotify.com/album/4wJfdOVIK5YnrSAWKw5TM4) | 2:48 | 2022-06-24 | 2022-07-09 |
+| [Touching Myself](https://open.spotify.com/track/7KoMYV6oP8wixP7YOrOwIU) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Touching Myself](https://open.spotify.com/album/4AC3mwRM8sMKZg4rRJzpJi) | 3:26 | 2026-05-28 |  |
 | [Toxic](https://open.spotify.com/track/4ANHKkQXnqEuyEobhBdlfi) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Toxic](https://open.spotify.com/album/11p6rT98tDVDchI7h9XbYU) | 2:58 | 2022-10-28 | 2022-11-11 |
 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 | 2023-04-27 | 2023-05-12 |
 | [Trankilo](https://open.spotify.com/track/27wNgv13AiJTkiMJVMY9Hs) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Trankilo](https://open.spotify.com/album/47NHp2yScKctstDmFbZyTt) | 3:07 | 2023-05-11 | 2023-05-26 |

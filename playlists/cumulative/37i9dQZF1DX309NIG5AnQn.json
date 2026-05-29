@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo argentino. \n\ud83d\udcf7 RYAN",
+  "description": "rock alternativo argentino. \n\ud83d\udcf7 Isla Mujeres",
   "name": "alt.rock",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 255835,
       "name": "680/680",
       "url": "https://open.spotify.com/track/7x1v9v0mVzNJ4f2q0tXcN6"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 120895,
       "name": "AMIS",
       "url": "https://open.spotify.com/track/24tAh2Rn9gkk5aEl5DCElD"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 323094,
       "name": "Bosque Gris",
       "url": "https://open.spotify.com/track/5ROBySV5NOHHoLxZ9dLhK7"
@@ -1336,6 +1336,24 @@
       "duration_ms": 204296,
       "name": "Cruel - Budaya Remix",
       "url": "https://open.spotify.com/track/21ixBRM8MSmYWmTNIdcqep"
+    },
+    {
+      "album": {
+        "name": "ctrl v",
+        "url": "https://open.spotify.com/album/7sblPYJM0EAAwdDDsjaGP2"
+      },
+      "artists": [
+        {
+          "name": "Mujer Cebra",
+          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167635,
+      "name": "ctrl v",
+      "url": "https://open.spotify.com/track/2ZK6nToeKJdyVMy3pAPJab"
     },
     {
       "album": {
@@ -3293,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "Las Luces",
+        "url": "https://open.spotify.com/album/1crf2xeBOgxUp7EBZ8uUTb"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269272,
+      "name": "Las Luces",
+      "url": "https://open.spotify.com/track/2eF9ePyLBCM7PBVr71jiNf"
+    },
+    {
+      "album": {
         "name": "LATAS",
         "url": "https://open.spotify.com/album/3oDPZk5VVbahXJSq0HVhat"
       },
@@ -3713,6 +3749,24 @@
     },
     {
       "album": {
+        "name": "Nuevos A\u00f1os Locos",
+        "url": "https://open.spotify.com/album/30VZaB9eTty2WtIPxRCM0T"
+      },
+      "artists": [
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/7sH75s773T5xbR2hCfRTWL"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193178,
+      "name": "Mi generaci\u00f3n",
+      "url": "https://open.spotify.com/track/1psShCNmdKilNPKdiUVTmw"
+    },
+    {
+      "album": {
         "name": "Mi mu\u00f1eca me hablo",
         "url": "https://open.spotify.com/album/79oqJE0OAoAYbEYQKSuElW"
       },
@@ -4036,7 +4090,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 234812,
       "name": "No esperes nada",
       "url": "https://open.spotify.com/track/2zUu0Yxl8kbawwgemMv1Xt"
@@ -4520,6 +4574,28 @@
       "duration_ms": 257128,
       "name": "par\u00e1sito - live session",
       "url": "https://open.spotify.com/track/4KFVDyGi9aQjzSU6xlWNh8"
+    },
+    {
+      "album": {
+        "name": "Paseo",
+        "url": "https://open.spotify.com/album/7LNPDZZwdAavuSpfEgvuat"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "Paseo",
+      "url": "https://open.spotify.com/track/7HeeBo0KDEZhP5nnybrtTQ"
     },
     {
       "album": {

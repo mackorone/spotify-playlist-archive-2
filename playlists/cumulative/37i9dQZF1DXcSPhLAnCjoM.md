@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Ça fait mal" de Vitaa  est le Grand Hit de la semaine.
+> "Crash" de Joseph Kamel  est le Grand Hit de la semaine.
 
 334 songs - 17 hr 5 min
 

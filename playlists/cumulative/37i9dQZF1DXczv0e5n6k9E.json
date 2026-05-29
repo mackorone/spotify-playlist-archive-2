@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: 12os Pithikos",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Marzi",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -880,7 +880,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 160000,
       "name": "ALCANTARA",
       "url": "https://open.spotify.com/track/7utCywQkIX7CztLdSbShJp"
@@ -1342,6 +1342,28 @@
       "duration_ms": 188473,
       "name": "Apotoma",
       "url": "https://open.spotify.com/track/0alDILQ9n7nRMfwaifGOIK"
+    },
+    {
+      "album": {
+        "name": "ARAGORN",
+        "url": "https://open.spotify.com/album/26R30prhxm1bgA3fHuzqKz"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Misk",
+          "url": "https://open.spotify.com/artist/4JMMgnz7NNpnj5okuoV7Xx"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265263,
+      "name": "ARAGORN",
+      "url": "https://open.spotify.com/track/1EplyD8aYp2lujM3Vjs3Mz"
     },
     {
       "album": {
@@ -2633,6 +2655,28 @@
     },
     {
       "album": {
+        "name": "BUONA SERA",
+        "url": "https://open.spotify.com/album/25afWr48p5C9CW9qCae1zO"
+      },
+      "artists": [
+        {
+          "name": "ACCARDO",
+          "url": "https://open.spotify.com/artist/57H7WPN83XHZGaQsVFEFt3"
+        },
+        {
+          "name": "Derv",
+          "url": "https://open.spotify.com/artist/3tEJAzaw0N5nNS3m8eixl3"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140071,
+      "name": "BUONA SERA",
+      "url": "https://open.spotify.com/track/6SiJxfVBdvSYpB2Mrbi3kA"
+    },
+    {
+      "album": {
         "name": "BURJ KHALIFA",
         "url": "https://open.spotify.com/album/0Da7RffOgbe8tgxeJcYf8D"
       },
@@ -3004,7 +3048,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 203000,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/6AICejWzqrCsNSi6vBabb5"
@@ -4371,6 +4415,32 @@
     },
     {
       "album": {
+        "name": "EGW",
+        "url": "https://open.spotify.com/album/2HUTGa6crjBp3EiSdJl2qj"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122880,
+      "name": "EGW",
+      "url": "https://open.spotify.com/track/0ZbE3pJyd4bpZYo5kqVAqf"
+    },
+    {
+      "album": {
         "name": "Egwistis",
         "url": "https://open.spotify.com/album/104Q4bLrWg7fZopUt1lSvZ"
       },
@@ -4720,7 +4790,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 212125,
       "name": "EURO",
       "url": "https://open.spotify.com/track/5bawdjcd7m36kjJ4ChnqLn"
@@ -7355,6 +7425,32 @@
     },
     {
       "album": {
+        "name": "JUMANJI",
+        "url": "https://open.spotify.com/album/5ho52IyNRlzCX7yLw5HCXn"
+      },
+      "artists": [
+        {
+          "name": "Mef",
+          "url": "https://open.spotify.com/artist/45FQfgBXKsdtElNqmKeJTC"
+        },
+        {
+          "name": "Cenobite",
+          "url": "https://open.spotify.com/artist/0t9MS2F03BZi3oLSJNSRb3"
+        },
+        {
+          "name": "10xrs",
+          "url": "https://open.spotify.com/artist/7EJwae4G9vW4jl8lalBR7N"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "JUMANJI",
+      "url": "https://open.spotify.com/track/4J036kBffeOpN84878AiHc"
+    },
+    {
+      "album": {
         "name": "KAKO",
         "url": "https://open.spotify.com/album/6BKBBxMICtMDMsER47ZjXe"
       },
@@ -7930,7 +8026,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 161032,
       "name": "KOMODINO",
       "url": "https://open.spotify.com/track/6h35W32qi70UPoSY3xB4Iu"
@@ -8188,7 +8284,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 186933,
       "name": "LADY DIOR",
       "url": "https://open.spotify.com/track/0dDlLhfgHqLLWyvKGDAzxD"
@@ -8586,6 +8682,32 @@
       "duration_ms": 176374,
       "name": "LOV\u20ac",
       "url": "https://open.spotify.com/track/4VMYNl6ASQD4bsryGRIuKm"
+    },
+    {
+      "album": {
+        "name": "Low Rider",
+        "url": "https://open.spotify.com/album/5dnvmbm94kxwQVg95di2R6"
+      },
+      "artists": [
+        {
+          "name": "Silly Slime",
+          "url": "https://open.spotify.com/artist/36UIThsG09bsbei5r8Lspl"
+        },
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "4k Studio",
+          "url": "https://open.spotify.com/artist/1Z2k7DBKGZQGuvuB4RtnOo"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "Low Rider",
+      "url": "https://open.spotify.com/track/05FslWja07nCxznWhER5Yp"
     },
     {
       "album": {
@@ -9050,7 +9172,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 189090,
       "name": "MARADONA",
       "url": "https://open.spotify.com/track/2iA0GsIJ8htppyhTtnmti7"
@@ -11017,6 +11139,28 @@
     },
     {
       "album": {
+        "name": "ALO PRONTO",
+        "url": "https://open.spotify.com/album/5VAoxCvaROxgO1tXt5fULq"
+      },
+      "artists": [
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq"
+        },
+        {
+          "name": "GMBeaTz",
+          "url": "https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129964,
+      "name": "ONE OF A KIND",
+      "url": "https://open.spotify.com/track/5aGg7kZXLHSnBqgCAvTvQ7"
+    },
+    {
+      "album": {
         "name": "Oneira Se Spiti Magissas",
         "url": "https://open.spotify.com/album/7uteQBw0IsyhqL0qZ3MaRj"
       },
@@ -12017,6 +12161,28 @@
     },
     {
       "album": {
+        "name": "GANGSHIT",
+        "url": "https://open.spotify.com/album/3gMmZ7mnj6UkLR2fqkqsVQ"
+      },
+      "artists": [
+        {
+          "name": "Yanek",
+          "url": "https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145585,
+      "name": "PHYSIOMER",
+      "url": "https://open.spotify.com/track/7ejnt5Pw7dDNNiEZRtTJTh"
+    },
+    {
+      "album": {
         "name": "PIES MIA",
         "url": "https://open.spotify.com/album/7jdDWAA9GaJDSkfD2jUIrw"
       },
@@ -12300,7 +12466,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 136615,
       "name": "Ponos",
       "url": "https://open.spotify.com/track/7i3mSKbkuw2q4bLpwAxttw"
@@ -13414,7 +13580,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 161868,
       "name": "SALVATORE",
       "url": "https://open.spotify.com/track/5sCEPFsFxNr0FsMW6OaZbT"
@@ -15536,6 +15702,28 @@
       "duration_ms": 161311,
       "name": "Trapstar",
       "url": "https://open.spotify.com/track/3eJCxNWADIxFyJV18V9gGA"
+    },
+    {
+      "album": {
+        "name": "TRELOS",
+        "url": "https://open.spotify.com/album/3SOeSieZshQSeUY2C6Vdcw"
+      },
+      "artists": [
+        {
+          "name": "Billy Sio",
+          "url": "https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc"
+        },
+        {
+          "name": "Loco Franco",
+          "url": "https://open.spotify.com/artist/0bZmwQpF7Rnenp3McVjVeP"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135375,
+      "name": "TRELOS",
+      "url": "https://open.spotify.com/track/5QynrK0NuCLiK8fotZVpbN"
     },
     {
       "album": {

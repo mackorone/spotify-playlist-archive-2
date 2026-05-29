@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 94085,
+  "num_followers": 94098,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,26 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "Kyoto (Glitch Gum Remix)",
+        "url": "https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Glitch Gum",
+          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
+        }
+      ],
+      "duration_ms": 159813,
+      "name": "Kyoto (Glitch Gum Remix)",
+      "url": "https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "doing it wrong",
         "url": "https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 295866,
       "name": "venus fly trap",
       "url": "https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "Kyoto (Glitch Gum Remix)",
-        "url": "https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Glitch Gum",
-          "url": "https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze"
-        }
-      ],
-      "duration_ms": 159813,
-      "name": "Kyoto (Glitch Gum Remix)",
-      "url": "https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl"
     },
     {
       "added_at": "2024-10-09 21:55:22",

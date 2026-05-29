@@ -1,6 +1,6 @@
 {
   "description": "Baba God, run am \ud83d\ude4f. \nCover:  Asake",
-  "num_followers": 89643,
+  "num_followers": 89785,
   "original_name": "afro adura ",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 207123,
-      "name": "I Alone",
-      "url": "https://open.spotify.com/track/6D09vfVjCFlRxOGdmja0yp"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 147796,
       "name": "Blessing",
       "url": "https://open.spotify.com/track/0aJa1qkgXRI4CrrRsTekTG"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 207123,
+      "name": "I Alone",
+      "url": "https://open.spotify.com/track/6D09vfVjCFlRxOGdmja0yp"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -683,6 +683,30 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
+        "name": "JET",
+        "url": "https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW"
+      },
+      "artists": [
+        {
+          "name": "SAMAD",
+          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
+        },
+        {
+          "name": "Chech",
+          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "JET",
+      "url": "https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
         "name": "Bhadriyun",
         "url": "https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3"
       },
@@ -735,30 +759,6 @@
       "duration_ms": 138614,
       "name": "Al-Jannah",
       "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
-        "name": "JET",
-        "url": "https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW"
-      },
-      "artists": [
-        {
-          "name": "SAMAD",
-          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
-        },
-        {
-          "name": "Chech",
-          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "JET",
-      "url": "https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/6iHR6cIn5tlLFVIGOB3pH2"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 144100,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3a9mvqQDZxhahR05qaBlmJ"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "LOL",
         "url": "https://open.spotify.com/album/7KqiS61BAqMuVru4FSG5X3"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 166442,
       "name": "LOL",
       "url": "https://open.spotify.com/track/0SIYATXVKxxgu5zYTQhAma"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/6iHR6cIn5tlLFVIGOB3pH2"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 144100,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3a9mvqQDZxhahR05qaBlmJ"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/1GGfruBunSIXTQgArMbzX9"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 206268,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/0ESoMa1oGHddkMeNodec7u"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "God is working",
         "url": "https://open.spotify.com/album/1Be5vaUzPXYcPueojPjZoT"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 134000,
       "name": "God is working",
       "url": "https://open.spotify.com/track/2HAl8ocFam6IHbIBiGQyvx"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/1GGfruBunSIXTQgArMbzX9"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 206268,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/0ESoMa1oGHddkMeNodec7u"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1087,6 +1087,30 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
+        "name": "I'M OK",
+        "url": "https://open.spotify.com/album/76l0XFIFlbBpMhYHg5pgOZ"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Rii",
+          "url": "https://open.spotify.com/artist/7qUIE0IFXYbRganFGgTvzT"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "I'M OK",
+      "url": "https://open.spotify.com/track/2f04CjDwGwX0QBHso7qdy5"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
         "name": "CAPTAIN",
         "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
       },
@@ -1135,30 +1159,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "I'M OK",
-        "url": "https://open.spotify.com/album/76l0XFIFlbBpMhYHg5pgOZ"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Rii",
-          "url": "https://open.spotify.com/artist/7qUIE0IFXYbRganFGgTvzT"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "I'M OK",
-      "url": "https://open.spotify.com/track/2f04CjDwGwX0QBHso7qdy5"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "Adura",
         "url": "https://open.spotify.com/album/0Q4hbbDXyxsSQz5wWUNMe1"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "Stormy",
-        "url": "https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 150873,
-      "name": "Stormy",
-      "url": "https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "Anytime (feat. Ayo Maff)",
         "url": "https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 192028,
       "name": "Anytime (feat. Ayo Maff)",
       "url": "https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "Stormy",
+        "url": "https://open.spotify.com/album/7ftthnJD47ILWVYENWtCFB"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 150873,
+      "name": "Stormy",
+      "url": "https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/0VOSbhA13PMQSo4MuLXSDn"
-      },
-      "artists": [
-        {
-          "name": "Hotkeed",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 152135,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/1KRjAOPqmQtP6fwTKxH0zR"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "PRAY",
         "url": "https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 177931,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/0VOSbhA13PMQSo4MuLXSDn"
+      },
+      "artists": [
+        {
+          "name": "Hotkeed",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 152135,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1KRjAOPqmQtP6fwTKxH0zR"
     },
     {
       "added_at": "2026-05-22 00:02:07",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-05-22 00:02:07",
       "album": {
-        "name": "For All The Right Reasons Vol. 1",
-        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "What They Want?",
-      "url": "https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3"
-    },
-    {
-      "added_at": "2026-05-22 00:02:07",
-      "album": {
         "name": "eko",
         "url": "https://open.spotify.com/album/2yNYbEiNrxzsVsOecP689N"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 149743,
       "name": "Till Thy Kingdom Come",
       "url": "https://open.spotify.com/track/5mNEct44dKpHjEyCGVQNsF"
+    },
+    {
+      "added_at": "2026-05-22 00:02:07",
+      "album": {
+        "name": "For All The Right Reasons Vol. 1",
+        "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "What They Want?",
+      "url": "https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3"
     },
     {
       "added_at": "2026-05-22 00:02:07",

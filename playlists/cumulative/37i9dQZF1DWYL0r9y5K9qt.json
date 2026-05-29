@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2026-03-19",
-  "description": "time to strike a couple of poses. cover: Chloe Qisha",
+  "description": "time to strike a couple of poses. cover: 4EVE",
   "name": "poses",
   "tracks": [
+    {
+      "album": {
+        "name": "Melting PT.",
+        "url": "https://open.spotify.com/album/23xrfuk6EHE61vCGohnVgv"
+      },
+      "artists": [
+        {
+          "name": "SHNTI",
+          "url": "https://open.spotify.com/artist/53ve27q6YbRe2zbBn1iRtO"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150588,
+      "name": "(not)shygirl",
+      "url": "https://open.spotify.com/track/1r2npfGrXW6Z5xdY6q3cxN"
+    },
     {
       "album": {
         "name": "Delulu Pack",
@@ -41,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Archetype",
+        "url": "https://open.spotify.com/album/3oovRUTuwmAXqHD4tkc3Oo"
+      },
+      "artists": [
+        {
+          "name": "DAINASAURS",
+          "url": "https://open.spotify.com/artist/0zahECcaw4ZSw8flJ0CTmk"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196310,
+      "name": "Archetype",
+      "url": "https://open.spotify.com/track/27itjhujvRtqUmFz7xZ1wt"
+    },
+    {
+      "album": {
         "name": "ATTITUDE",
         "url": "https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw"
       },
@@ -56,6 +92,24 @@
       "duration_ms": 185000,
       "name": "ATTITUDE",
       "url": "https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs"
+    },
+    {
+      "album": {
+        "name": "Back 2 Malaysia",
+        "url": "https://open.spotify.com/album/0WTdu9DnD4rg1tY3ktpJWI"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00e9 Das",
+          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178487,
+      "name": "Back 2 Malaysia",
+      "url": "https://open.spotify.com/track/79lBRarV9QFxSmCFcP3wJa"
     },
     {
       "album": {
@@ -92,10 +146,28 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 157446,
       "name": "Bestie Baby",
       "url": "https://open.spotify.com/track/7zlbtIbBizYYt6urW0hc0m"
+    },
+    {
+      "album": {
+        "name": "better without you",
+        "url": "https://open.spotify.com/album/6OH7nANqyGsFFHlerYeXkt"
+      },
+      "artists": [
+        {
+          "name": "JOYY",
+          "url": "https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239302,
+      "name": "better without you",
+      "url": "https://open.spotify.com/track/1hwMl0RTMK40LtOnCsrhPk"
     },
     {
       "album": {
@@ -290,7 +362,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 246000,
       "name": "Crying in the Sun",
       "url": "https://open.spotify.com/track/6bGePzZnQ45ZCJK5pduafI"
@@ -326,7 +398,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 181758,
       "name": "Dark Arts",
       "url": "https://open.spotify.com/track/2wRXvIGUTRWod4yp1k3bGN"
@@ -497,6 +569,24 @@
     },
     {
       "album": {
+        "name": "Have U Ever Been",
+        "url": "https://open.spotify.com/album/6TzVC1Wo1Y8AgHplUebx10"
+      },
+      "artists": [
+        {
+          "name": "Kat Roshan",
+          "url": "https://open.spotify.com/artist/1A4jKoKUa06UFmmiBQTBBk"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175846,
+      "name": "Have U Ever Been",
+      "url": "https://open.spotify.com/track/76TWdmxYZn9rY4ykKhP5lA"
+    },
+    {
+      "album": {
         "name": "Heavy Serenade",
         "url": "https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg"
       },
@@ -544,7 +634,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 147807,
       "name": "HOT SAUCE",
       "url": "https://open.spotify.com/track/0zXGUUy3TtLH9Oo0FRgbB8"
@@ -580,7 +670,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 169000,
       "name": "I Choose You",
       "url": "https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub"
@@ -616,7 +706,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 180000,
       "name": "INDULGENCE",
       "url": "https://open.spotify.com/track/36Z5hs5XSo6ByQkjCmEp6i"
@@ -779,6 +869,24 @@
     },
     {
       "album": {
+        "name": "ACT I: Moth",
+        "url": "https://open.spotify.com/album/3lRsl8uycOZduaI6TOSmr9"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197306,
+      "name": "Metronome",
+      "url": "https://open.spotify.com/track/507cUSXS7nznC8SUeXLhGo"
+    },
+    {
+      "album": {
         "name": "MEXE",
         "url": "https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX"
       },
@@ -794,7 +902,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 146204,
       "name": "MEXE",
       "url": "https://open.spotify.com/track/43x4drok2kDJqm9dgRr685"
@@ -974,7 +1082,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 197217,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/32IelN4Pbc3iVROrBvIXoo"
@@ -1184,7 +1292,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 147566,
       "name": "Soap (feat. PinkPantheress)",
       "url": "https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a"
@@ -1224,7 +1332,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 177587,
       "name": "STARSTRUCK",
       "url": "https://open.spotify.com/track/25bsd4PQd6kFL0bE7xqY9M"
@@ -1355,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "TEA",
+        "url": "https://open.spotify.com/album/4n7cIEu4ChiII7yBfCxw2c"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143959,
+      "name": "TEA",
+      "url": "https://open.spotify.com/track/7bPdIsdwV5u3LWexYRnl1X"
+    },
+    {
+      "album": {
         "name": "THIS IS FOR",
         "url": "https://open.spotify.com/album/3SCPPs1g96FQ8mKGPylpUJ"
       },
@@ -1406,6 +1532,24 @@
       "duration_ms": 169200,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/1trZK2rzKfvvI81APSf6Dq"
+    },
+    {
+      "album": {
+        "name": "RFRNCE",
+        "url": "https://open.spotify.com/album/4S0uMNzmraBl61pcsjrDoa"
+      },
+      "artists": [
+        {
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/3drRiJb84b7LetoZYXB9Np"
     },
     {
       "album": {
@@ -1598,10 +1742,32 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 168587,
       "name": "Your Charm",
       "url": "https://open.spotify.com/track/6JK0FyH825BpiWQnOTEwQM"
+    },
+    {
+      "album": {
+        "name": "your playlist is a lie",
+        "url": "https://open.spotify.com/album/05MD4lnSBfqHGV6pYldPSa"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        },
+        {
+          "name": "Barbie Almalbis",
+          "url": "https://open.spotify.com/artist/6XMiJRtSvw0PYHOBSBEsMg"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "your playlist is a lie",
+      "url": "https://open.spotify.com/track/7rtzMVusuwTZtK2crtdtpO"
     },
     {
       "album": {

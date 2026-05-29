@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: Nelis Leeman",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Raymon Hermans",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 160000,
       "name": "Borreltje",
       "url": "https://open.spotify.com/track/29X7ZAYTLFDABh7mIqutFs"
@@ -1859,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Ciao, Doei, Adios",
+        "url": "https://open.spotify.com/album/7KeBYlkgXDPb3jF0HXDRgK"
+      },
+      "artists": [
+        {
+          "name": "Quido van de Graaf",
+          "url": "https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165973,
+      "name": "Ciao, Doei, Adios",
+      "url": "https://open.spotify.com/track/761xNUBIXQ0tCe9YuDPf8j"
+    },
+    {
+      "album": {
         "name": "Code Rood",
         "url": "https://open.spotify.com/album/3hfFcSON4sK9aZnFngIQVQ"
       },
@@ -1896,6 +1914,24 @@
       "duration_ms": 158932,
       "name": "Corry Konings",
       "url": "https://open.spotify.com/track/79ykiAUGpJsiHY8b5A8RMg"
+    },
+    {
+      "album": {
+        "name": "Cubaanse Caf\u00e9",
+        "url": "https://open.spotify.com/album/0K7LIzZQOHu8ZNqHjDyUps"
+      },
+      "artists": [
+        {
+          "name": "Gerrit Schneider",
+          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195232,
+      "name": "Cubaanse Caf\u00e9",
+      "url": "https://open.spotify.com/track/7oBclifQe1xdsW96UzDfpS"
     },
     {
       "album": {
@@ -2844,7 +2880,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 155156,
       "name": "Diner Voor Twee",
       "url": "https://open.spotify.com/track/7LkZDegKhYQDSFgbJSN3e8"
@@ -3064,6 +3100,24 @@
       "duration_ms": 168595,
       "name": "Doei Doei Doei - Radio Edit",
       "url": "https://open.spotify.com/track/1nKXc9iMEu550RRcl6CQaF"
+    },
+    {
+      "album": {
+        "name": "Doen We Het Vaker",
+        "url": "https://open.spotify.com/album/1KaWiEgp5oRUjFFa7KOvm9"
+      },
+      "artists": [
+        {
+          "name": "Jessey Fields",
+          "url": "https://open.spotify.com/artist/3d2RT26NhHPXHa9IOdzhOy"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140098,
+      "name": "Doen We Het Vaker",
+      "url": "https://open.spotify.com/track/0TnZ9a7qyF3nZS3bnc8JBo"
     },
     {
       "album": {
@@ -4293,6 +4347,24 @@
     },
     {
       "album": {
+        "name": "Had Ik Je Maar Nooit Gezoend",
+        "url": "https://open.spotify.com/album/1mnLAO80jDCQPD1jlWIxco"
+      },
+      "artists": [
+        {
+          "name": "Lara Millaa",
+          "url": "https://open.spotify.com/artist/1eO9HI1oS0kUhBLpHVoNNx"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134707,
+      "name": "Had Ik Je Maar Nooit Gezoend",
+      "url": "https://open.spotify.com/track/2hYoPlms8cBBt4AjM6LV3J"
+    },
+    {
+      "album": {
         "name": "Had Jij Gedacht",
         "url": "https://open.spotify.com/album/2mdwwCCw0szjoRbywp3szc"
       },
@@ -5033,6 +5105,24 @@
     },
     {
       "album": {
+        "name": "Ik ben een uurtje later",
+        "url": "https://open.spotify.com/album/1gEwd1kju8SRpOCmscQ0sJ"
+      },
+      "artists": [
+        {
+          "name": "Rick de Jong",
+          "url": "https://open.spotify.com/artist/2ew84Shb8k5evkctfSMu6v"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195357,
+      "name": "Ik ben een uurtje later",
+      "url": "https://open.spotify.com/track/6KC10NmoMbhKcOUpH6nRbi"
+    },
+    {
+      "album": {
         "name": "Ik ben liever bij jou",
         "url": "https://open.spotify.com/album/1j5Zul6E4rz66WDyIkRyMN"
       },
@@ -5080,7 +5170,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 197437,
       "name": "Ik Bleef Geloven",
       "url": "https://open.spotify.com/track/5ExwZgMiUnW0rBcGlhhGLq"
@@ -5336,7 +5426,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 184724,
       "name": "Ik Kon Geen Afscheid Nemen",
       "url": "https://open.spotify.com/track/52SrtoGKlnuKJobkXuc5T0"
@@ -5908,6 +5998,24 @@
       "duration_ms": 200154,
       "name": "In De Wolken",
       "url": "https://open.spotify.com/track/0lEEf3dbpEVEpsn67UMhiQ"
+    },
+    {
+      "album": {
+        "name": "In Die Zomernacht",
+        "url": "https://open.spotify.com/album/3btVe8Cjb8uGjHJOtOCl8l"
+      },
+      "artists": [
+        {
+          "name": "Marco de Hollander",
+          "url": "https://open.spotify.com/artist/4nwhnw1lPCR31e95U4Blir"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "In Die Zomernacht",
+      "url": "https://open.spotify.com/track/1cas8ARFmuwXFYc8BhHDQp"
     },
     {
       "album": {
@@ -7261,6 +7369,24 @@
     },
     {
       "album": {
+        "name": "Lange Zomernacht",
+        "url": "https://open.spotify.com/album/3ybSqzwe6fK9OUacZZ4dMl"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00eblla",
+          "url": "https://open.spotify.com/artist/2Q4MlXOkxyJZym6JS3Tntg"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146213,
+      "name": "Lange Zomernacht",
+      "url": "https://open.spotify.com/track/3u1cZlARHsqAvWpwT62uEz"
+    },
+    {
+      "album": {
         "name": "Langer Blijven",
         "url": "https://open.spotify.com/album/7GnO6ko8jq8yImhb6KWD9C"
       },
@@ -7653,6 +7779,24 @@
     },
     {
       "album": {
+        "name": "Luchtballon / De Liefde",
+        "url": "https://open.spotify.com/album/7m4mYC4p14JeDvaXum6m6Q"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Van Der Boom",
+          "url": "https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190135,
+      "name": "Luchtballon",
+      "url": "https://open.spotify.com/track/0WSqR5paTVPALC7VnexD6h"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/6UAWiC0sSI5cB29kevTTyd"
       },
@@ -7780,7 +7924,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 162626,
       "name": "Madame Bonjour",
       "url": "https://open.spotify.com/track/3E4oeP8w7Of0qTeylPePDl"
@@ -8767,6 +8911,24 @@
     },
     {
       "album": {
+        "name": "Ons Geheim",
+        "url": "https://open.spotify.com/album/0a2NRse4fYi1vbDkEAWLqH"
+      },
+      "artists": [
+        {
+          "name": "Charelle",
+          "url": "https://open.spotify.com/artist/4Jipfp3lXzbLWtJrzVPJqG"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263500,
+      "name": "Ons Geheim",
+      "url": "https://open.spotify.com/track/3E0W3SBkbOFzxFeakuC9SH"
+    },
+    {
+      "album": {
         "name": "Ontzettond",
         "url": "https://open.spotify.com/album/04IZE98cgDygUwlIlqFWSG"
       },
@@ -9284,7 +9446,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 165838,
       "name": "Rosalie",
       "url": "https://open.spotify.com/track/5y91VPHHl82NAmK60i1KFv"
@@ -10224,7 +10386,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 195118,
       "name": "Tussen Nu En Straks",
       "url": "https://open.spotify.com/track/0RdWbZR2ki6KdRo1XcPPIt"
@@ -10522,7 +10684,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 156210,
       "name": "Veneti\u00eb",
       "url": "https://open.spotify.com/track/7xVzPs5qtrjvnECDgkvIKK"
@@ -11127,6 +11289,24 @@
     },
     {
       "album": {
+        "name": "Wat Ben Je Knap",
+        "url": "https://open.spotify.com/album/2TZElPyWsBDWeEyEZFocHe"
+      },
+      "artists": [
+        {
+          "name": "Jip van de Loo",
+          "url": "https://open.spotify.com/artist/3mjrYzABFymniEKCClx5VZ"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181862,
+      "name": "Wat Ben Je Knap",
+      "url": "https://open.spotify.com/track/6fPtFpkRNoUcXpTWgu4I8K"
+    },
+    {
+      "album": {
         "name": "Wat Een Plezier",
         "url": "https://open.spotify.com/album/67R5Zi52SgiuyIJ2xbDS1K"
       },
@@ -11362,7 +11542,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 184921,
       "name": "We Doen 't Gewoon",
       "url": "https://open.spotify.com/track/01bup6sVPbSxTpE2pZGRuK"
@@ -11690,7 +11870,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 138000,
       "name": "Wie Bij Wie",
       "url": "https://open.spotify.com/track/1NvKQiKudIoQHSfYkMsAwJ"

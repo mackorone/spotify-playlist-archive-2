@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Hubert.",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: OKI",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -28,7 +28,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 165000,
       "name": "06.10.22",
       "url": "https://open.spotify.com/track/1T5PDoKbM9gR3zFooqWSci"
@@ -662,6 +662,28 @@
       "duration_ms": 144335,
       "name": "5 INFLUENCEREK",
       "url": "https://open.spotify.com/track/4u3pVIKFDquOVeyvkc1Hjh"
+    },
+    {
+      "album": {
+        "name": "5 ST\u00d3W",
+        "url": "https://open.spotify.com/album/4VEJavkoMSfeUAt55N6fna"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125853,
+      "name": "5 ST\u00d3W",
+      "url": "https://open.spotify.com/track/5hSyKKE8zMZFa32re1q0el"
     },
     {
       "album": {
@@ -1850,6 +1872,24 @@
       "duration_ms": 180115,
       "name": "BAUNS",
       "url": "https://open.spotify.com/track/4mbkEOu7YG4MYR616x9g4a"
+    },
+    {
+      "album": {
+        "name": "REKLAMACJA'47: CD2",
+        "url": "https://open.spotify.com/album/21wUGopWJBRxEOyqZQiDjK"
+      },
+      "artists": [
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188159,
+      "name": "bby blue",
+      "url": "https://open.spotify.com/track/3SAxzUBcOd4KykAarxwCAs"
     },
     {
       "album": {
@@ -5790,7 +5830,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 229213,
       "name": "DU\u015a",
       "url": "https://open.spotify.com/track/2QuXcLcVP4fKaJ5DrEeyzL"
@@ -6144,7 +6184,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 113898,
       "name": "Essentials",
       "url": "https://open.spotify.com/track/33STAzaSlp3YjnHqxycIhK"
@@ -8768,7 +8808,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 185379,
       "name": "INTRO",
       "url": "https://open.spotify.com/track/4UZqWH5V4RCtFSN2rQfjt7"
@@ -9251,6 +9291,36 @@
     },
     {
       "album": {
+        "name": "REKLAMACJA'47: CD2",
+        "url": "https://open.spotify.com/album/21wUGopWJBRxEOyqZQiDjK"
+      },
+      "artists": [
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        },
+        {
+          "name": "Young Igi",
+          "url": "https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc"
+        },
+        {
+          "name": "Otsochodzi",
+          "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "jeszcze raz?",
+      "url": "https://open.spotify.com/track/5X1f1HSzJlUjQ7HUMw8PDD"
+    },
+    {
+      "album": {
         "name": "2038: WARSZAWA",
         "url": "https://open.spotify.com/album/6TGFaonWhdetGw3xjH5Qa7"
       },
@@ -9528,6 +9598,32 @@
       "duration_ms": 161506,
       "name": "KARATY",
       "url": "https://open.spotify.com/track/0c7gv1gLLi7npOvM3m6SH9"
+    },
+    {
+      "album": {
+        "name": "NURT",
+        "url": "https://open.spotify.com/album/4HSrEiHI07MfLJEAlJUTj7"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163089,
+      "name": "Karnawa\u0142",
+      "url": "https://open.spotify.com/track/3WG84tIcqiA14QCDOwFWiV"
     },
     {
       "album": {
@@ -10946,7 +11042,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 143686,
       "name": "LOBBY/STRADA",
       "url": "https://open.spotify.com/track/0rMVc0ZKFC1frPgVL9Msxr"
@@ -11988,7 +12084,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 153655,
       "name": "MA\u0141A HOLD ON",
       "url": "https://open.spotify.com/track/3K1ZjolMkY4zHv37YuKYIz"
@@ -13030,7 +13126,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 178882,
       "name": "my love",
       "url": "https://open.spotify.com/track/1E2cVJd7UDWoGGOw971JNt"
@@ -14284,6 +14380,40 @@
       "duration_ms": 166989,
       "name": "Nie ma mnie",
       "url": "https://open.spotify.com/track/3Jj06vvPhibFWD6n0AotCJ"
+    },
+    {
+      "album": {
+        "name": "NIE MA NAS TAM",
+        "url": "https://open.spotify.com/album/5iKkgT7duPjYqlY3KdfYCq"
+      },
+      "artists": [
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        },
+        {
+          "name": "Natalisa",
+          "url": "https://open.spotify.com/artist/2ER2H5ZCb6dRBZmYXdtb86"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        },
+        {
+          "name": "clearmind",
+          "url": "https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq"
+        },
+        {
+          "name": "BeMelo",
+          "url": "https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "NIE MA NAS TAM",
+      "url": "https://open.spotify.com/track/0QeaCgjAByJ9Z5cxwHqIq7"
     },
     {
       "album": {
@@ -20578,7 +20708,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 300985,
       "name": "TIMETRAVEL",
       "url": "https://open.spotify.com/track/4WaOIrKa42XU4hxBaGVcZ5"
@@ -21072,6 +21202,36 @@
       "duration_ms": 131707,
       "name": "Tr\u00f3jk\u0105t",
       "url": "https://open.spotify.com/track/0qJ7ZIQRtV01K7n0NIUZ2d"
+    },
+    {
+      "album": {
+        "name": "TUFF",
+        "url": "https://open.spotify.com/album/2OXrGJVV3rsurGGjsaT1Xa"
+      },
+      "artists": [
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "Skibovicz",
+          "url": "https://open.spotify.com/artist/3EeZpR5eIsMxDCFVv2QzFX"
+        },
+        {
+          "name": "YARSKI",
+          "url": "https://open.spotify.com/artist/1TY6oc7uiXgpqiiJEidPD6"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175662,
+      "name": "TUFF",
+      "url": "https://open.spotify.com/track/3AJZLF5b2uUhF9sfTN25h2"
     },
     {
       "album": {
@@ -21848,6 +22008,28 @@
       "duration_ms": 139680,
       "name": "W PROJEKTACH",
       "url": "https://open.spotify.com/track/4Qi4hdAvkQKWcyANYeCx7K"
+    },
+    {
+      "album": {
+        "name": "REKLAMACJA'47: CD2",
+        "url": "https://open.spotify.com/album/21wUGopWJBRxEOyqZQiDjK"
+      },
+      "artists": [
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191193,
+      "name": "w razie w",
+      "url": "https://open.spotify.com/track/0L4yQZeTWdsodtHWWNgLvN"
     },
     {
       "album": {
@@ -23448,6 +23630,28 @@
       "duration_ms": 144788,
       "name": "ZNANA",
       "url": "https://open.spotify.com/track/4XR9BKOo3oE8qEO8m59lDS"
+    },
+    {
+      "album": {
+        "name": "Znasz ich",
+        "url": "https://open.spotify.com/album/4330xGlLnNwTGMVLSrayCr"
+      },
+      "artists": [
+        {
+          "name": "Blaga",
+          "url": "https://open.spotify.com/artist/6p0joBE2P2Ho4dsNtFaPQF"
+        },
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123187,
+      "name": "Znasz ich",
+      "url": "https://open.spotify.com/track/7zzEWQv4LnZ090I8KzTdwe"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow.  Jombriel en portada",
+  "description": "Shawty lo que necesitas es darle flow.  Yeri Mua y Lucky Brown en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 153566,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/4VGFK69hVzkQ4K5qR4ypdF"
@@ -3058,7 +3058,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 155491,
       "name": "Casi Casi",
       "url": "https://open.spotify.com/track/0i4VWoP41exMlqhsOY1nWS"
@@ -7966,7 +7966,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 169058,
       "name": "Hasta Abajo",
       "url": "https://open.spotify.com/track/4DVROTv3t33sqQX59kWfop"
@@ -9002,6 +9002,36 @@
       "duration_ms": 217760,
       "name": "LA 10",
       "url": "https://open.spotify.com/track/0R2ToLJARgmFjezsfiyx3v"
+    },
+    {
+      "album": {
+        "name": "La Actual",
+        "url": "https://open.spotify.com/album/5i0B6GmQB8O1jP1MnVxX4o"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Lyon la f",
+          "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
+        },
+        {
+          "name": "Nacho G Flow",
+          "url": "https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "La Actual",
+      "url": "https://open.spotify.com/track/499nhgaBGU6JfXteFofl4e"
     },
     {
       "album": {
@@ -13091,6 +13121,24 @@
     },
     {
       "album": {
+        "name": "Do Not Disturb",
+        "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Ni le cabe",
+      "url": "https://open.spotify.com/track/6BMO15AObPwSeUzxtF2fep"
+    },
+    {
+      "album": {
         "name": "Ni Miro (feat. Neutro Shorty)",
         "url": "https://open.spotify.com/album/58dp6Q6Li4yKDlpyamoUL0"
       },
@@ -15100,7 +15148,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 188636,
       "name": "PERREO LLORANDO",
       "url": "https://open.spotify.com/track/44n0bJGRKc0aaKsYXZGq06"
@@ -20756,6 +20804,28 @@
       "duration_ms": 184266,
       "name": "Un Cigarrillo",
       "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
+    },
+    {
+      "album": {
+        "name": "Un Pacto",
+        "url": "https://open.spotify.com/album/77WUGINM34mgh0Tq1QssAA"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167960,
+      "name": "Un Pacto",
+      "url": "https://open.spotify.com/track/4WQnJ9yzHxpfTIoQf1GKra"
     },
     {
       "album": {

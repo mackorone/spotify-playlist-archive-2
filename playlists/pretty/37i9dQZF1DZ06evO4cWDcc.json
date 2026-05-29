@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 327275,
+  "num_followers": 327293,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahTigAAAAADlo9sb8YNBTsGyWNCc0mMH",
+  "snapshot_id": "ahY0AAAAAAB8MtX+IVHi5K5rcwRf2zWL",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Band Of Gypsys (50th Anniversary / Live)",
-        "url": "https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 576360,
-      "name": "Who Knows - Live At Fillmore East, 1970 / 50th Anniversary",
-      "url": "https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Both Sides of the Sky",
         "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 533672,
       "name": "Machine Gun - Live at the Fillmore East, NY - 12/31/69 - 1st Set",
       "url": "https://open.spotify.com/track/47XzyeCErz1ojPKMcNwfN2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Band Of Gypsys (50th Anniversary / Live)",
+        "url": "https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 576360,
+      "name": "Who Knows - Live At Fillmore East, 1970 / 50th Anniversary",
+      "url": "https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL"
     },
     {
       "added_at": null,

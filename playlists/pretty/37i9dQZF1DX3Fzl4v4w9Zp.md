@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,177 likes - 99 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,189 likes - 99 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

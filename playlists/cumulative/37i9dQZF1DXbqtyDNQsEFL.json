@@ -976,7 +976,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 650499,
       "name": "B'ola (Live)",
       "url": "https://open.spotify.com/track/6ooOrOuruo2lZdcOAl5tbe"
@@ -2163,6 +2163,28 @@
     },
     {
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/3xrrhZSHRht0VOVROO1Sr3"
+      },
+      "artists": [
+        {
+          "name": "Minstrel John Leke",
+          "url": "https://open.spotify.com/artist/4Y9c0hrqtHikpZFb7lif8o"
+        },
+        {
+          "name": "Jakes Hinjari",
+          "url": "https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217385,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/0nHzBpcPbGM1sR9KTAQe6Y"
+    },
+    {
+      "album": {
         "name": "Controller",
         "url": "https://open.spotify.com/album/2f8L078klwods1pvFV7MTJ"
       },
@@ -2586,7 +2608,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 551456,
       "name": "Desire - Live",
       "url": "https://open.spotify.com/track/1yOW7Wm9TMN0O8bp4576gd"
@@ -5040,7 +5062,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 225000,
       "name": "Head Up 2.0",
       "url": "https://open.spotify.com/track/0BhBwg1NThsfsspTcvw7IA"
@@ -8588,6 +8610,24 @@
       "duration_ms": 812625,
       "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
       "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
+    },
+    {
+      "album": {
+        "name": "My Ebenezer",
+        "url": "https://open.spotify.com/album/0JdMObTRnMadO2pQxIPdm4"
+      },
+      "artists": [
+        {
+          "name": "Oge Stan",
+          "url": "https://open.spotify.com/artist/3aL8XwNOqOVv8NwpVLFo1c"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "My Ebenezer",
+      "url": "https://open.spotify.com/track/6FRNX4eCgujb0KdATJxRRu"
     },
     {
       "album": {
@@ -12497,6 +12537,28 @@
     },
     {
       "album": {
+        "name": "Subscribed (Live)",
+        "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198518,
+      "name": "Subscribed - Live",
+      "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
+    },
+    {
+      "album": {
         "name": "Suo M\u00e9",
         "url": "https://open.spotify.com/album/3UrYNFLEvCSXX1JAJFLxcv"
       },
@@ -12640,6 +12702,24 @@
       "duration_ms": 621706,
       "name": "Take it All - Live",
       "url": "https://open.spotify.com/track/70k721hYulEd5Og7o8dAcE"
+    },
+    {
+      "album": {
+        "name": "Take it Away",
+        "url": "https://open.spotify.com/album/2hXgGWLKPhS2tgatl48gYz"
+      },
+      "artists": [
+        {
+          "name": "Lessie",
+          "url": "https://open.spotify.com/artist/4oUSgjXNqF3PNzhwZdRtPa"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176680,
+      "name": "Take It Away",
+      "url": "https://open.spotify.com/track/0G8lMIM9o6dfUhAsZixrZ9"
     },
     {
       "album": {
@@ -13380,7 +13460,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 162782,
       "name": "This Year - Remix",
       "url": "https://open.spotify.com/track/4ZQv2Qt7VP2Phbuh7Mzae7"

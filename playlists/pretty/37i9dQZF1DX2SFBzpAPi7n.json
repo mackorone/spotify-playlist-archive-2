@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: can't be blue) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 250621,
+  "num_followers": 250604,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-05-26 07:46:34",
       "album": {
+        "name": "If I have you only (My love X Nerd Connection)",
+        "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
+      },
+      "artists": [
+        {
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "If I have you only (My love X Nerd Connection)",
+      "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
+    },
+    {
+      "added_at": "2026-05-26 07:46:34",
+      "album": {
         "name": "\ub2e4 \uc774\ub8e8\uc5b4\uc9c8\uc9c0\ub2c8 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/7lR1C36AIonUwAUqehsdOU"
       },
@@ -323,18 +339,18 @@
     {
       "added_at": "2026-05-26 07:46:34",
       "album": {
-        "name": "If I have you only (My love X Nerd Connection)",
-        "url": "https://open.spotify.com/album/2UleuA3LPZK5gynTHcma1b"
+        "name": "To Reach You",
+        "url": "https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P"
       },
       "artists": [
         {
-          "name": "Nerd Connection",
-          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 250573,
-      "name": "If I have you only (My love X Nerd Connection)",
-      "url": "https://open.spotify.com/track/3TQHPUEVdvdq8ejwEcHUlL"
+      "duration_ms": 158680,
+      "name": "To Reach You",
+      "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
     },
     {
       "added_at": "2026-05-26 07:46:34",
@@ -351,22 +367,6 @@
       "duration_ms": 209000,
       "name": "Feel Me",
       "url": "https://open.spotify.com/track/2psEOi0dDz19G9BljUiL2v"
-    },
-    {
-      "added_at": "2026-05-26 07:46:34",
-      "album": {
-        "name": "To Reach You",
-        "url": "https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 158680,
-      "name": "To Reach You",
-      "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
     },
     {
       "added_at": "2026-05-26 07:46:34",
@@ -611,18 +611,18 @@
     {
       "added_at": "2026-05-26 07:46:34",
       "album": {
-        "name": "FLOWERING",
-        "url": "https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz"
+        "name": "AMNESIA",
+        "url": "https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs"
       },
       "artists": [
         {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
         }
       ],
-      "duration_ms": 231160,
-      "name": "Sunshine Bless You",
-      "url": "https://open.spotify.com/track/3KQ3fLAkMYyCWQLCi60zeE"
+      "duration_ms": 199133,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr"
     },
     {
       "added_at": "2026-05-26 07:46:34",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-26 07:46:34",
       "album": {
-        "name": "Archive. 1",
-        "url": "https://open.spotify.com/album/4b2SRu119PeGbPd4LEC0fs"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Human Extinction",
-      "url": "https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr"
-    },
-    {
-      "added_at": "2026-05-26 07:46:34",
-      "album": {
         "name": "LIVE and FALL",
         "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 220094,
       "name": "Save me",
       "url": "https://open.spotify.com/track/4dOI72pxbQasCkplV5nu15"
+    },
+    {
+      "added_at": "2026-05-26 07:46:34",
+      "album": {
+        "name": "FLOWERING",
+        "url": "https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Sunshine Bless You",
+      "url": "https://open.spotify.com/track/3KQ3fLAkMYyCWQLCi60zeE"
     },
     {
       "added_at": "2026-05-26 07:46:34",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-05-26 07:46:34",
       "album": {
+        "name": "Archive. 1",
+        "url": "https://open.spotify.com/album/4b2SRu119PeGbPd4LEC0fs"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Human Extinction",
+      "url": "https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr"
+    },
+    {
+      "added_at": "2026-05-26 07:46:34",
+      "album": {
         "name": "Traffic light",
         "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
       },
@@ -707,34 +723,18 @@
     {
       "added_at": "2026-05-26 07:46:34",
       "album": {
-        "name": "Boyfriend on Demand Part 1 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97"
+        "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
+        "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
       },
       "artists": [
         {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
         }
       ],
-      "duration_ms": 198000,
-      "name": "What A Love",
-      "url": "https://open.spotify.com/track/0uWkK3kmlhxtBtbXGZcgPU"
-    },
-    {
-      "added_at": "2026-05-26 07:46:34",
-      "album": {
-        "name": "AMNESIA",
-        "url": "https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs"
-      },
-      "artists": [
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "AMNESIA",
-      "url": "https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr"
+      "duration_ms": 202026,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
     },
     {
       "added_at": "2026-05-26 07:46:34",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-05-26 07:46:34",
       "album": {
-        "name": "3rd Mini Album 'In a million noises, I'll be your harmony'",
-        "url": "https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV"
+        "name": "Boyfriend on Demand Part 1 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97"
       },
       "artists": [
         {
-          "name": "QWER",
-          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Dear",
-      "url": "https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL"
+      "duration_ms": 198000,
+      "name": "What A Love",
+      "url": "https://open.spotify.com/track/0uWkK3kmlhxtBtbXGZcgPU"
     },
     {
       "added_at": "2026-05-26 07:46:34",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-05-26 07:46:34",
       "album": {
-        "name": "adagio",
-        "url": "https://open.spotify.com/album/1BNiIpMz58htoqjXUMpq1T"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "The Symphony of Fxxkboys",
-      "url": "https://open.spotify.com/track/52KygGkyBwayKKdv7gDAdP"
-    },
-    {
-      "added_at": "2026-05-26 07:46:34",
-      "album": {
         "name": "Blooming Wings",
         "url": "https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 167013,
       "name": "Being a Good Girl Hurts",
       "url": "https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj"
+    },
+    {
+      "added_at": "2026-05-26 07:46:34",
+      "album": {
+        "name": "adagio",
+        "url": "https://open.spotify.com/album/1BNiIpMz58htoqjXUMpq1T"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "The Symphony of Fxxkboys",
+      "url": "https://open.spotify.com/track/52KygGkyBwayKKdv7gDAdP"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

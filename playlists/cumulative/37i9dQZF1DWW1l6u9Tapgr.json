@@ -3919,6 +3919,24 @@
     },
     {
       "album": {
+        "name": "Golden Child",
+        "url": "https://open.spotify.com/album/31NxRGGXtEXb3a54YRZgYF"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159711,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/0zTx2OMVexkSnTNHJSJIKR"
+    },
+    {
+      "album": {
         "name": "RAFRAGE2",
         "url": "https://open.spotify.com/album/3BOTe9j2N4mmDg86ef1cMx"
       },
@@ -4554,6 +4572,24 @@
       "duration_ms": 205917,
       "name": "Thinking Boyz!!!",
       "url": "https://open.spotify.com/track/1oxz3WPzyjlAYZFkUBcPRf"
+    },
+    {
+      "album": {
+        "name": "Thinking of You",
+        "url": "https://open.spotify.com/album/548AzNIS7caaO926qVC4Ob"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179654,
+      "name": "Thinking of You",
+      "url": "https://open.spotify.com/track/5eIP2BdEEtv4EWIWGlJQV1"
     },
     {
       "album": {

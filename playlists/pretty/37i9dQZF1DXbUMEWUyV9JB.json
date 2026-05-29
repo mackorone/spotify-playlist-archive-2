@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Mariangela",
-  "num_followers": 277870,
+  "num_followers": 277880,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "Periquito",
-        "url": "https://open.spotify.com/album/6DqfYxqqPhpNrOW9PJLK9F"
-      },
-      "artists": [
-        {
-          "name": "Salo Venegas",
-          "url": "https://open.spotify.com/artist/3T3RSeGnajowqGtFhXRqrN"
-        }
-      ],
-      "duration_ms": 218718,
-      "name": "Periquito",
-      "url": "https://open.spotify.com/track/1vqFPo2MG1uAsXLgA2yo02"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
         "name": "AMOR DE SUBIDA",
         "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
+        "name": "Periquito",
+        "url": "https://open.spotify.com/album/6DqfYxqqPhpNrOW9PJLK9F"
+      },
+      "artists": [
+        {
+          "name": "Salo Venegas",
+          "url": "https://open.spotify.com/artist/3T3RSeGnajowqGtFhXRqrN"
+        }
+      ],
+      "duration_ms": 218718,
+      "name": "Periquito",
+      "url": "https://open.spotify.com/track/1vqFPo2MG1uAsXLgA2yo02"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
         "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
         "url": "https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-01-24 00:41:13",
       "album": {
-        "name": "AMIGOS PARA QU\u00c9",
-        "url": "https://open.spotify.com/album/1WppuWwpRiBMCxA01HUxST"
-      },
-      "artists": [
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 192091,
-      "name": "AMIGOS PARA QU\u00c9",
-      "url": "https://open.spotify.com/track/2lGSjuUG1t7RzVWbHQCc1M"
-    },
-    {
-      "added_at": "2026-01-24 00:41:13",
-      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 148088,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37"
+    },
+    {
+      "added_at": "2026-01-24 00:41:13",
+      "album": {
+        "name": "AMIGOS PARA QU\u00c9",
+        "url": "https://open.spotify.com/album/1WppuWwpRiBMCxA01HUxST"
+      },
+      "artists": [
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+        }
+      ],
+      "duration_ms": 192091,
+      "name": "AMIGOS PARA QU\u00c9",
+      "url": "https://open.spotify.com/track/2lGSjuUG1t7RzVWbHQCc1M"
     },
     {
       "added_at": "2026-01-24 00:41:13",

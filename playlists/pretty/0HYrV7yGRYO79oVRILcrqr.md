@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,828 likes - 107 songs - 7 hr 2 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,828 likes - 108 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 105 | [Hockey Game](https://open.spotify.com/track/4KXDzxPnNqpGZtj1yyz0VO) | [Neofors](https://open.spotify.com/artist/7HoKutGLhVfmBPfZe3gsPl) | [Cosmic Bingo](https://open.spotify.com/album/0a1rW4YNunla4OAVRxGUY1) | 2:36 |
 | 106 | [What You Mean To Me](https://open.spotify.com/track/4li8wXH4ddF3r16UsVVK0e) | [CulturalException](https://open.spotify.com/artist/7jX8waGsSoJDrsZyrmKW09), [Enlia](https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S) | [What You Mean To Me](https://open.spotify.com/album/5lvrmaQymbPBCK8eqMA5xz) | 4:11 |
 | 107 | [Hotel](https://open.spotify.com/track/1MGFrDLP5HmTXC8S1o1dT4) | [FRED](https://open.spotify.com/artist/3J0w4a5nxhpvCxa1MFW2fR), [BAI](https://open.spotify.com/artist/4HS5GfG0mkjkhgQuB0kpHh) | [Hotel](https://open.spotify.com/album/6F8FxwblR3zX1i8p5M9h21) | 3:10 |
+| 108 | [Final Descent](https://open.spotify.com/track/0BLoSiH5Wzq5wT4gXWDDzI) | [KuF](https://open.spotify.com/artist/6qQu1ULU2QNlyWwZSoZnAj) | [Chapter 1](https://open.spotify.com/album/1oqKyK55DAyyTmCdwn37Lj) | 5:16 |
 
-Snapshot ID: `AAALiX/0kfbLWppNELEvo6HmHqcfkjGJ`
+Snapshot ID: `AAALileDn2N0drZ1eGEaP+84A52KTktJ`

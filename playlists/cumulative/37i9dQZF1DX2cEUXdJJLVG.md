@@ -4,7 +4,7 @@
 
 > Hand\-picked grooves.
 
-485 songs - 1 day 4 hr 51 min
+486 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [Pills \- Single Version](https://open.spotify.com/track/0At9wPLrtJ7se2RGYgY0ZM) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Pills](https://open.spotify.com/album/0FwllEhG0MxkSUpS8HVTqw) | 2:58 | 2022-09-09 | 2024-05-10 |
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2022-10-12 | 2023-07-08 |
 | [Play It Off \- BLOWSOM Remix](https://open.spotify.com/track/5JMGPedbNolzY3js0CZhft) | [Saux](https://open.spotify.com/artist/14bYCWgayimiNVMbO2HSrN), [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Safe](https://open.spotify.com/album/0gGbgi6ffZLJ4JnGBJoKfb) | 3:33 | 2022-09-09 | 2024-09-20 |
-| [Play Me Off \- feat\. LYMA](https://open.spotify.com/track/5FAiWHvek4lCUcFknERLyg) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP), [FLETCH](https://open.spotify.com/artist/5HkPQOedMse24M2meekew4), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Play Me Off \(feat\. LYMA\)](https://open.spotify.com/album/01ST1xjYZVHcb6PEl4V875) | 3:23 | 2025-05-29 |  |
+| [Play Me Off \- feat\. LYMA](https://open.spotify.com/track/5FAiWHvek4lCUcFknERLyg) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP), [FLETCH](https://open.spotify.com/artist/5HkPQOedMse24M2meekew4), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Play Me Off \(feat\. LYMA\)](https://open.spotify.com/album/01ST1xjYZVHcb6PEl4V875) | 3:23 | 2025-05-29 | 2026-05-29 |
 | [Pleasure & Pain](https://open.spotify.com/track/36xSEKbM5mpSiErUfYvzW0) | [K\. Roosevelt](https://open.spotify.com/artist/6NwdT3GPUajFQ9IvBYe0cu) | [Solstice](https://open.spotify.com/album/0qirqalFHKsdczuFN3mcEL) | 2:58 | 2022-09-09 | 2025-02-08 |
 | [POOLSIDE](https://open.spotify.com/track/0xlWwwUYRWSbCRfo2ouHPJ) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [SPRING: POOLSIDE x LAGOON](https://open.spotify.com/album/5bJYoNzkHpbXYWl694WGmI) | 2:41 | 2022-09-09 | 2024-02-02 |
 | [Pop Pop](https://open.spotify.com/track/7jrxqRz39X7TXhI38zc9xA) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Pop Pop](https://open.spotify.com/album/0zMNLajZLM0PGxgLQa4yys) | 2:57 | 2026-05-21 |  |
@@ -442,6 +442,7 @@
 | [The Present](https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Derrick Mckenzie](https://open.spotify.com/artist/2yTk5VCLEsumMmQf25x8VI) | [The Present](https://open.spotify.com/album/2W2WtKH6HWN90uPFwirlFj) | 3:28 | 2025-08-14 |  |
 | [The Recipe](https://open.spotify.com/track/2WyedZ7owuPdgT4tcHhdo5) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 | 2022-09-09 | 2022-10-15 |
 | [The Rock \(feat\. 3DDY\)](https://open.spotify.com/track/2OzDSfzlabNhZmRVvOKZmM) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [PSALM FUNK](https://open.spotify.com/album/7MHqSMsePtEtGHt4u6jQdk) | 3:49 | 2026-03-26 |  |
+| [The Wave](https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [The Wave](https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj) | 3:22 | 2026-05-28 |  |
 | [Therapy](https://open.spotify.com/track/7rO5L6Eo85xO0fBJ6YKK27) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Therapy](https://open.spotify.com/album/0Rbs0JsOZzn5cbVVePLNpJ) | 4:36 | 2022-09-29 | 2024-03-21 |
 | [Things You Don't Say](https://open.spotify.com/track/3KSFfg72bfirtdDTm7LJaT) | [Real Action](https://open.spotify.com/artist/52ypicbJHkE7aGFMNv0WcK), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Things You Don't Say](https://open.spotify.com/album/1M0jZfqAcF8D514Y1NFXzh) | 3:47 | 2023-06-22 | 2025-02-07 |
 | [This Ain't Loving Without You](https://open.spotify.com/track/4TiPkI5PIqp0NkmlTuK48f) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [Blue Note Re:imagined II](https://open.spotify.com/album/4o54aWSH3QaWkRjS5Pl2I6) | 2:57 | 2022-10-14 | 2024-04-11 |

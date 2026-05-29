@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Guru Randhawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,851 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,956 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 99 | [Laal Pari \(From "Housefull 5"\)](https://open.spotify.com/track/2oJxsbdvHuzkQ44hoyMsis) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Alfaaz](https://open.spotify.com/artist/1xHIVVHhwnuYe0uCAip33C) | [Laal Pari \(From "Housefull 5"\)](https://open.spotify.com/album/3Z3pyPT3n8DtJyEtvAnm8L) | 4:16 |
 | 100 | [Pardesiya \- From "Param Sundari"](https://open.spotify.com/track/0q84FggW57NXGtLHoetS0Y) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Krishnakali Saha](https://open.spotify.com/artist/2L4PimBfxoTMZRp2SfVP5g), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Pardesiya \(From "Param Sundari"\)](https://open.spotify.com/album/4hHAxLq4VGuyb6HsyUIPGd) | 3:51 |
 
-Snapshot ID: `AAAAAIHPsnBXUgj+kvGCSWHeegLb1gaM`
+Snapshot ID: `AAAAADtnpCNdlbEKfjwTiyFraCmrx2nU`

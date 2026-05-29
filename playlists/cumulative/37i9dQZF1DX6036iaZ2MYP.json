@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:   CKay",
+  "description": "Tracks popping off in the Afro scene. Cover:   Mavo x Tiwa Savage x Wande Coal",
   "name": "Afro Station",
   "tracks": [
     {
@@ -856,7 +856,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 122711,
       "name": "Allonsy",
       "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 172160,
       "name": "Aura Salad",
       "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
@@ -3736,7 +3736,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 180959,
       "name": "Bother Me (feat. Victony)",
       "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
@@ -4121,6 +4121,24 @@
     },
     {
       "album": {
+        "name": "C'est moi",
+        "url": "https://open.spotify.com/album/6cWlHclSfSVMAVrYay4jcj"
+      },
+      "artists": [
+        {
+          "name": "Hulk",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126153,
+      "name": "C'est moi",
+      "url": "https://open.spotify.com/track/2RPGbCAcOvJwqzcm4vpYOL"
+    },
+    {
+      "album": {
         "name": "C'est mon BB (feat. Chily)",
         "url": "https://open.spotify.com/album/1EGsiCAKg0HrWXfg3AoFde"
       },
@@ -4322,7 +4340,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 199200,
       "name": "Call Me Mommy",
       "url": "https://open.spotify.com/track/3KSfHcdJF24FCiwY9W46bo"
@@ -7657,6 +7675,24 @@
     },
     {
       "album": {
+        "name": "Elumelu",
+        "url": "https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133177,
+      "name": "Elumelu",
+      "url": "https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd"
+    },
+    {
+      "album": {
         "name": "\"Of Many Colors\": Orange",
         "url": "https://open.spotify.com/album/6QSAkZ4cM2bRSdPXF7HX2x"
       },
@@ -7868,6 +7904,32 @@
       "duration_ms": 114042,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/6BHLA4SStncY4z2WsGSXfq"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/4DkDQnkfCfgniEm33g3IEV"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140505,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G"
     },
     {
       "album": {
@@ -8174,7 +8236,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 197680,
       "name": "Fala",
       "url": "https://open.spotify.com/track/5yxVXkeP45nxmff0uDac67"
@@ -9692,6 +9754,24 @@
       "duration_ms": 144190,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Tw42tx08KllFychkyizuX"
+    },
+    {
+      "album": {
+        "name": "GO 243",
+        "url": "https://open.spotify.com/album/6X0YbFz4I6z9jtOUzUBA1M"
+      },
+      "artists": [
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189501,
+      "name": "GO 243",
+      "url": "https://open.spotify.com/track/3ZfuGTNPAMUH3WqDZHfP0C"
     },
     {
       "album": {
@@ -12125,6 +12205,24 @@
     },
     {
       "album": {
+        "name": "ZONE (Chap.3: FREEVINR)",
+        "url": "https://open.spotify.com/album/1ujY7tZYDc3dCRrxTT1Jf7"
+      },
+      "artists": [
+        {
+          "name": "VinR",
+          "url": "https://open.spotify.com/artist/0GGUWzxEVuDaFHnmoogMYk"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128720,
+      "name": "KATAMUSIC Pt. 1",
+      "url": "https://open.spotify.com/track/0JRXKCTl4C0RLqztdtwCuu"
+    },
+    {
+      "album": {
         "name": "Emma'a",
         "url": "https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w"
       },
@@ -13866,7 +13964,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 209162,
       "name": "L\u00c9W\u00c9",
       "url": "https://open.spotify.com/track/7y8M0iafbbORhIqIsNhy4R"
@@ -15392,7 +15490,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 192000,
       "name": "Motema",
       "url": "https://open.spotify.com/track/5L1x4XXfemP6rbLn4svyLl"
@@ -18933,6 +19031,32 @@
     },
     {
       "album": {
+        "name": "POPULAIR",
+        "url": "https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "POPULAIR",
+      "url": "https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f"
+    },
+    {
+      "album": {
         "name": "POR TI",
         "url": "https://open.spotify.com/album/0NnW0UN9DFuNIzJHgUdaJa"
       },
@@ -19348,6 +19472,28 @@
       "duration_ms": 166856,
       "name": "P\u00e9pite",
       "url": "https://open.spotify.com/track/0vt4zw087QOjjHPiklpQQI"
+    },
+    {
+      "album": {
+        "name": "QTVOR",
+        "url": "https://open.spotify.com/album/5I7lOKsCev2Yzbr2YLlFyq"
+      },
+      "artists": [
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161157,
+      "name": "QTVOR",
+      "url": "https://open.spotify.com/track/6RuzuuTjT01UVpwV6TAJfA"
     },
     {
       "album": {
@@ -24928,7 +25074,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 169302,
       "name": "\u00c7a Give",
       "url": "https://open.spotify.com/track/7bIDjJ2Xy1v5WMkgAAi73J"

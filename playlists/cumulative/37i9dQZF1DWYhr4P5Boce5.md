@@ -4,10 +4,11 @@
 
 > Songs of faith, hope, and the greatest of these, LOVE.
 
-316 songs - 17 hr 49 min
+317 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#YOUTHEONE](https://open.spotify.com/track/3cLrK4vOz2WRMDPeaAimx0) | [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC) | [\#YOUTHEONE](https://open.spotify.com/album/3UlpsQZyqK7utqJRHjlZVX) | 3:09 | 2026-05-28 |  |
 | [2nd Happy](https://open.spotify.com/track/5q38R7YPq4uHSpVTUYye1k) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [2nd Happy](https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s) | 3:45 | 2024-02-03 | 2026-01-21 |
 | [A Red, Red Rose](https://open.spotify.com/track/1g9FU9nMRWjpA1HLsdNNKg) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [A Red, Red Rose](https://open.spotify.com/album/3Zl4tzDaW9wCK62lEyRhuf) | 3:23 | 2024-07-17 |  |
 | [a thousand shores \- acoustic](https://open.spotify.com/track/3ntWYBpmifeLpuKcXpMzqd) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [a thousand shores \(acoustic\)](https://open.spotify.com/album/1OxvweA208aeNJ1lN51Gmg) | 4:19 | 2024-02-03 | 2024-07-18 |
@@ -58,7 +59,7 @@
 | [Carried](https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd) | [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II), [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [Carried](https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v) | 2:17 | 2024-02-03 | 2024-07-18 |
 | [Choose You](https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Choose You](https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA) | 3:05 | 2023-01-31 | 2024-02-04 |
 | [Cinderella](https://open.spotify.com/track/1oj4KLsbYhvfHFnhdb3twP) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [This Moment \(Cinderella Edition\)](https://open.spotify.com/album/7HAomGpaAjuPCEbuMevOlP) | 4:25 | 2020-04-17 | 2024-02-04 |
-| [COME MY WAY](https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI) | [Jay Sanon](https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu), [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly) | [COME MY WAY](https://open.spotify.com/album/2pdVfuDHgR0GXrOek56fhY) | 3:00 | 2024-02-05 |  |
+| [COME MY WAY](https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI) | [Jay Sanon](https://open.spotify.com/artist/369EvegFopl9qWl1QPEHzu), [Jekasole](https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly) | [COME MY WAY](https://open.spotify.com/album/2pdVfuDHgR0GXrOek56fhY) | 3:00 | 2024-02-05 | 2026-05-29 |
 | [Commitment](https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Run](https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG) | 3:36 | 2020-04-17 | 2025-09-15 |
 | [Copacetic](https://open.spotify.com/track/4Ruz004Up9H5sPPeLs7JLe) | [Czar Josh](https://open.spotify.com/artist/0uMdSPqGMACq3BFqRSaEQ5), [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Copacetic](https://open.spotify.com/album/7ogPeerzRi048GrlgEjc0B) | 2:46 | 2024-02-05 | 2024-07-18 |
 | [Cortado](https://open.spotify.com/track/7CN1TLlARavoQZLUBm42xF) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Cortado](https://open.spotify.com/album/5cO0gKE8gcyAypB1fH7iaq) | 2:40 | 2025-09-14 |  |

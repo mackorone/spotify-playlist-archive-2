@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-229 songs - 1 day 1 hr 16 min
+231 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Dam Mast Qalandar Mast Mast](https://open.spotify.com/track/3VfhNSY3WCaztA0HjcrC30) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [A Tribute The Essential Nusrat Fateh Ali Khan Vol\-2](https://open.spotify.com/album/7D4Qf2CW2bTJoRLgeV2fW1) | 8:30 | 2022-08-02 | 2024-01-06 |
 | [Dam Mast Qalander](https://open.spotify.com/track/2y5nVgj5Fg1wEC2wBL8Mvm) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Nusrat Fateh Ali Khan No\. 1 Hits](https://open.spotify.com/album/2iHgZ58kj74cIwwvAkbSyO) | 6:23 | 2022-06-21 | 2024-01-06 |
 | [Dama Dum Mast](https://open.spotify.com/track/4kymm1BIlbDQnQ6Av5WSS4) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Abida Parveen, Vol\. 10](https://open.spotify.com/album/2H6e43nwOEzb13cHRnyPXk) | 4:27 | 2022-06-21 | 2024-01-06 |
+| [Daman Lagiyan](https://open.spotify.com/track/2uWyqK8pjaVMqXMjR4HUMr) | [SpringTimeLioness](https://open.spotify.com/artist/5H0dOkeN4aibbTnkZkHY2B), [Schumaila Rehmat Hussain](https://open.spotify.com/artist/702rZ76lltv1734oPO3Si8) | [Daman Lagiyan](https://open.spotify.com/album/4pcLVMjiU84Dceb6wE4Qwa) | 3:42 | 2026-05-29 |  |
 | [Dil](https://open.spotify.com/track/2XiVM2X9nqh9tnPq37GhLo) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Dil](https://open.spotify.com/album/6p8nXdpQGXG3KLzQpm8pK5) | 5:15 | 2024-09-21 |  |
 | [Din Dhalay](https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 5:36 | 2022-06-21 | 2026-02-18 |
 | [Dost](https://open.spotify.com/track/3RCfKFNxqYyvyULjAWq8Wg) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:35 | 2022-06-21 |  |
@@ -112,6 +113,7 @@
 | [Khwaja Mere](https://open.spotify.com/track/4qH7OYUrVQx6NVj3Xp4Q7o) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Suhel Rais Khan](https://open.spotify.com/artist/3bZPCIdiBAOdmIeo6SCV3B), [Rekha Rao](https://open.spotify.com/artist/25kyMcj5F41jU2t8MNkH33) | [Khwaja Mere](https://open.spotify.com/album/4E4uZ2FtS2llz9e2apVt18) | 4:29 | 2024-01-05 | 2024-06-22 |
 | [Khwaja Mere Khwaja](https://open.spotify.com/track/4Zuei1UAP5pB5ovra9dnnp) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Jodhaa Akbar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW) | 6:56 | 2022-10-25 |  |
 | [Kinna Sohna Tainu](https://open.spotify.com/track/377rdybAWhu2uj7bNVHvLs) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Love Sufiana](https://open.spotify.com/album/50BCq2H5lHgRFTFVXX4DoJ) | 8:00 | 2022-08-02 | 2023-10-21 |
+| [Koi Achi Khabar](https://open.spotify.com/track/70XZSAiqgFv44DgphHIwIM) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Faheem uddin hunzai](https://open.spotify.com/artist/31bt09yIuNKHYx3rpspuRB) | [Koi Achi Khabar](https://open.spotify.com/album/31vDQhzEaHpugJ7tayZbiQ) | 10:07 | 2026-05-29 |  |
 | [Kun Faya Kun](https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Rockstar](https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8) | 7:50 | 2022-06-21 |  |
 | [La Makani](https://open.spotify.com/track/2GfyAkaPFgopONrVwIOLTN) | [Masroor Fateh Ali Khan](https://open.spotify.com/artist/7vGw699mG5M6vklrxws96l) | [La Makani](https://open.spotify.com/album/7CTWuXpLOYDkDwq7FvZpDs) | 4:32 | 2022-11-02 | 2024-01-06 |
 | [La Salam Mast Qalandar](https://open.spotify.com/track/5NTcVdlPxt0Xh8ZHpY9Xia) | [Jimmy Khan](https://open.spotify.com/artist/1Xy0t0XYuOpuBK7Gnuwvpu), [Atef Malhas](https://open.spotify.com/artist/6gm05jmgIx3YvLtzl1GDas), [Rawan Risheq](https://open.spotify.com/artist/5R9Ghk1KBInYUMdAhN9B6O), [Shahab Hussain](https://open.spotify.com/artist/7ymVr1v5z0MP6rcohSM5up), [Yazan Sarayrah](https://open.spotify.com/artist/3hnWpiOnZfHrY7uq2zNReK), [Hrag Mouridian](https://open.spotify.com/artist/7dCyaFjdwI7EpiWgaB6QS0) | [La Salam Mast Qalandar](https://open.spotify.com/album/1YtFZPnsIuoHiPCKk7aOYm) | 4:11 | 2022-06-21 | 2024-01-06 |

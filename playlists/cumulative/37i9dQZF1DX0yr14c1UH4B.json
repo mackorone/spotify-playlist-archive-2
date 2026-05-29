@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Good songs from songwriters who draw from pop, indie, country and folk \ud83c\udf1f\nCover: Cammy Barnes",
+  "description": "It's all about the song \ud83c\udf53\ncover: Strawberry Guy",
   "name": "Common Thread",
   "tracks": [
     {
@@ -2331,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/2BEajTzdQ2OkdrOJV4EmFf"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172175,
+      "name": "Confetti",
+      "url": "https://open.spotify.com/track/20e6lwpoqbj9nsXtvHO6Oq"
+    },
+    {
+      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/1arqo9vB9YtbSvrbssrJeP"
       },
@@ -3354,7 +3372,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 231086,
       "name": "Doors",
       "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
@@ -3433,6 +3451,24 @@
     },
     {
       "album": {
+        "name": "dream state",
+        "url": "https://open.spotify.com/album/0ou5tlHzLfVumgS1VabO9M"
+      },
+      "artists": [
+        {
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241648,
+      "name": "dream state",
+      "url": "https://open.spotify.com/track/62OMSnfraKVSw3EdMrfRaL"
+    },
+    {
+      "album": {
         "name": "Dream Woman",
         "url": "https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig"
       },
@@ -3484,7 +3520,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 201531,
       "name": "Driftwood",
       "url": "https://open.spotify.com/track/481cyatp9kM5pUha4kw1qY"
@@ -3924,6 +3960,24 @@
       "duration_ms": 216085,
       "name": "Fall on Me",
       "url": "https://open.spotify.com/track/10wIeKaNvOaUgvzUUfwu7L"
+    },
+    {
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3ZLm8xE9pOYo3HRRI1pXbX"
+      },
+      "artists": [
+        {
+          "name": "Baby J",
+          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc"
     },
     {
       "album": {
@@ -4804,6 +4858,24 @@
       "duration_ms": 201786,
       "name": "Girl I Know",
       "url": "https://open.spotify.com/track/5CZbwaRgOVee57y0RCH7F6"
+    },
+    {
+      "album": {
+        "name": "Off Campus: The Mixtape",
+        "url": "https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN"
+      },
+      "artists": [
+        {
+          "name": "Ella Bright",
+          "url": "https://open.spotify.com/artist/7bzIKcaSnlUfRLJ9m00XZr"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251639,
+      "name": "Girl That I Am",
+      "url": "https://open.spotify.com/track/7jZk5cOxV1LVZFG7RIOaHE"
     },
     {
       "album": {
@@ -5860,7 +5932,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 163689,
       "name": "Horses and Divorces (feat. Miranda Lambert)",
       "url": "https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7"
@@ -6470,10 +6542,28 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 193236,
       "name": "I'll come back to you",
       "url": "https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0"
+    },
+    {
+      "album": {
+        "name": "I'll Never Feel That Young Again",
+        "url": "https://open.spotify.com/album/56BrmoyoywierPRlLk98uG"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215480,
+      "name": "I'll Never Feel That Young Again",
+      "url": "https://open.spotify.com/track/17nKILQNWELsNRGWuTGbpL"
     },
     {
       "album": {
@@ -6568,6 +6658,24 @@
       "duration_ms": 217263,
       "name": "i'm not mad",
       "url": "https://open.spotify.com/track/1HuxFVJTlpfnPjtHDqPE9D"
+    },
+    {
+      "album": {
+        "name": "i'm not yours",
+        "url": "https://open.spotify.com/album/7D73HvJlfTD4fghC9gjmdj"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176520,
+      "name": "i'm not yours",
+      "url": "https://open.spotify.com/track/4lpBtva69uPgJYobeZDjom"
     },
     {
       "album": {
@@ -8152,7 +8260,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 191970,
       "name": "Love Me Less",
       "url": "https://open.spotify.com/track/6ReIBoDe3qpy2OEkWhiGpp"
@@ -8379,6 +8487,24 @@
     },
     {
       "album": {
+        "name": "Mad About It",
+        "url": "https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157008,
+      "name": "Mad About It",
+      "url": "https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o"
+    },
+    {
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/12wCuQvsLBLz1b49lWWTWY"
       },
@@ -8560,6 +8686,24 @@
     {
       "album": {
         "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223332,
+      "name": "Mexico Honey",
+      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+    },
+    {
+      "album": {
+        "name": "Middle of Nowhere",
         "url": "https://open.spotify.com/album/2yE21F6MW1XcfwIqAOMFfb"
       },
       "artists": [
@@ -8570,7 +8714,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 156973,
       "name": "Middle of Nowhere",
       "url": "https://open.spotify.com/track/0qWoHKyJU7xA29CYkeq6ME"
@@ -9404,6 +9548,24 @@
       "duration_ms": 184074,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4POSbPMxN0VrfighTfRtuc"
+    },
+    {
+      "album": {
+        "name": "Nobody Can Know",
+        "url": "https://open.spotify.com/album/5mLM1EYeykDD8AmQrj6X8n"
+      },
+      "artists": [
+        {
+          "name": "Will Parker",
+          "url": "https://open.spotify.com/artist/6PorgpBDSP5w9zPpgjHlGR"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206118,
+      "name": "Nobody Can Know",
+      "url": "https://open.spotify.com/track/2Bfb8eFJ4aQUL41FmiptD6"
     },
     {
       "album": {
@@ -11529,6 +11691,24 @@
     },
     {
       "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/1quwj92sSkORVSqtpi13tf"
+      },
+      "artists": [
+        {
+          "name": "Sol Paradise",
+          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204632,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/0RkudKUCGvubwnw8yjvza9"
+    },
+    {
+      "album": {
         "name": "Time of Fallow",
         "url": "https://open.spotify.com/album/5iAURosKLz2YhEUDdzSG0U"
       },
@@ -11594,7 +11774,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 142499,
       "name": "Silver Spoon in My Cup",
       "url": "https://open.spotify.com/track/3rk2J5DFW8OnyvbcKjAzKY"
@@ -13040,7 +13220,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 182585,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/1xAwZre22A8PJNoR19BKES"
@@ -14344,7 +14524,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 164829,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/44lKMeJ47gpHs3esszn7ca"
@@ -15832,7 +16012,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 168397,
       "name": "Youniverse",
       "url": "https://open.spotify.com/track/7v9VhdqtZEI2taKuX1jLoo"

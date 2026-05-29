@@ -1,12 +1,12 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: TAK",
-  "num_followers": 120460,
+  "num_followers": 120452,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADpRqSOyNfFdwJs9ucvFwQ1eOUP2",
+  "snapshot_id": "AAAAAARveLm/TEn7lMLZ7/LXhN9yWC2j",
   "tracks": [
     {
       "added_at": "2026-05-20 12:30:39",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-05-20 12:30:39",
       "album": {
+        "name": "\u6700\u60aa",
+        "url": "https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "duration_ms": 197931,
+      "name": "\u30d3\u30bf\u30fc\u30c1\u30e7\u30b3\u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU"
+    },
+    {
+      "added_at": "2026-05-20 12:30:39",
+      "album": {
         "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
         "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 235096,
       "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
       "url": "https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn"
-    },
-    {
-      "added_at": "2026-05-20 12:30:39",
-      "album": {
-        "name": "\u6700\u60aa",
-        "url": "https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW"
-      },
-      "artists": [
-        {
-          "name": "syudou",
-          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
-        }
-      ],
-      "duration_ms": 197931,
-      "name": "\u30d3\u30bf\u30fc\u30c1\u30e7\u30b3\u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU"
     },
     {
       "added_at": "2026-05-20 12:30:39",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-05-20 12:30:39",
       "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/2l7pgbmqxrUzgY7ppseiGv"
+      },
+      "artists": [
+        {
+          "name": "John",
+          "url": "https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k"
+        }
+      ],
+      "duration_ms": 161872,
+      "name": "\u6625\u5d50",
+      "url": "https://open.spotify.com/track/3wM3VFL0nuEhwATHcJfPSm"
+    },
+    {
+      "added_at": "2026-05-20 12:30:39",
+      "album": {
         "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01",
         "url": "https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 195757,
       "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V"
-    },
-    {
-      "added_at": "2026-05-20 12:30:39",
-      "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/2l7pgbmqxrUzgY7ppseiGv"
-      },
-      "artists": [
-        {
-          "name": "John",
-          "url": "https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k"
-        }
-      ],
-      "duration_ms": 161872,
-      "name": "\u6625\u5d50",
-      "url": "https://open.spotify.com/track/3wM3VFL0nuEhwATHcJfPSm"
     },
     {
       "added_at": "2026-05-20 12:30:39",

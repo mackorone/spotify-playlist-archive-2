@@ -4,7 +4,7 @@
 
 > Les hits zouk & kompa du moment\. Photo : Naïka x Kalash
 
-414 songs - 21 hr 42 min
+415 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Doucement](https://open.spotify.com/track/7vLzfxOSF2jf4wggjTLLwx) | [Jessye Belleval](https://open.spotify.com/artist/0NAAEUMgWrBJNWviQcTx1T) | [Doucement](https://open.spotify.com/album/1bsobJeL9AiGj1L7e6kogD) | 2:21 | 2026-01-29 | 2026-03-27 |
 | [Doucement](https://open.spotify.com/track/2488TlZqyBhCGguo7Vuufm) | [Kailyn](https://open.spotify.com/artist/4xErERAoqrxnCgLiSz4uV4), [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4) | [Doucement](https://open.spotify.com/album/4COlUkMnr9hAg2AoveGDId) | 4:01 | 2024-01-25 | 2024-05-03 |
 | [DOUDOU](https://open.spotify.com/track/4T15NZ0aIg1cShPwaY5Ld1) | [Dyrone](https://open.spotify.com/artist/01Og6jVacvaYfaVmCo6fzs), [Dj M'sy](https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c) | [DOUDOU](https://open.spotify.com/album/7bu9eWX73PIJQdlR5Bwx2f) | 2:58 | 2025-04-10 | 2025-05-09 |
+| [Doudou](https://open.spotify.com/track/7aKAKakAdPDbZmcUeFlGat) | [Loriane](https://open.spotify.com/artist/0hH55WShgMkLwKf6ekJBd5) | [Doudou](https://open.spotify.com/album/2ENTiYOiln9OaHzW5v4JZL) | 2:48 | 2026-05-28 |  |
 | [Doudou](https://open.spotify.com/track/4jxoCg2Jl4GLqafbR57DOe) | [Manise](https://open.spotify.com/artist/7lmDLnNHkUvxWJCpqDtdf9) | [Doudou](https://open.spotify.com/album/2ZoUm0yBjaLMlmBCD3VDGc) | 2:42 | 2023-10-05 | 2023-12-22 |
 | [Doudou](https://open.spotify.com/track/07MUZzeKyEIw5iTRJYK4YQ) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Blicassty](https://open.spotify.com/artist/1MbUL0JryiwgLoPNX8esk6) | [Doudou](https://open.spotify.com/album/4ptvCJd4nK0GDF7EPB7XC3) | 3:30 | 2023-09-28 | 2024-01-26 |
 | [Doudou](https://open.spotify.com/track/7vuIiqyxVwbJFLRY3IaQVa) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk), [T Kimp Gee](https://open.spotify.com/artist/1NxMxZ8dG0JJbg02CXtw2D) | [Doudou](https://open.spotify.com/album/3O6aKwK7VwfOplNM9athV7) | 3:00 | 2024-12-12 | 2025-02-28 |

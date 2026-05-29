@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Jeanne\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Melissa\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -694,7 +694,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 144558,
       "name": "boum boum barbie",
       "url": "https://open.spotify.com/track/51qU69BObybLoJS2grfKBG"
@@ -936,7 +936,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 168080,
       "name": "CE CORPS.",
       "url": "https://open.spotify.com/track/4TfnAVZagMNnZPzN0U2W2S"
@@ -2576,7 +2576,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 163806,
       "name": "Fr\u00e9rot",
       "url": "https://open.spotify.com/track/6aZhAyAkZDl00J7c6o35Qc"
@@ -3444,6 +3444,24 @@
       "duration_ms": 172813,
       "name": "Je t'aime",
       "url": "https://open.spotify.com/track/3U4wzM6Pli4NSayDSPcw7W"
+    },
+    {
+      "album": {
+        "name": "Je veux",
+        "url": "https://open.spotify.com/album/1oq3NpkDklIsqOObMhgoRK"
+      },
+      "artists": [
+        {
+          "name": "Laurie Darmon",
+          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169317,
+      "name": "Je veux",
+      "url": "https://open.spotify.com/track/4S1FajtcvGHpETY3z7Iqmz"
     },
     {
       "album": {
@@ -4899,6 +4917,24 @@
     },
     {
       "album": {
+        "name": "Essentiel",
+        "url": "https://open.spotify.com/album/66TtP994W3DoqdirH7n2QE"
+      },
+      "artists": [
+        {
+          "name": "Roulez Jeunesse",
+          "url": "https://open.spotify.com/artist/0Gta4UtwE2podm3d4NCGle"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146451,
+      "name": "Les yeux dans l'eau",
+      "url": "https://open.spotify.com/track/4dtKNaXCvU3j8jZismTYES"
+    },
+    {
+      "album": {
         "name": "Les \u00e9toiles",
         "url": "https://open.spotify.com/album/3p3XIEqXV37o6CCdCEa0W8"
       },
@@ -5522,6 +5558,24 @@
       "duration_ms": 159626,
       "name": "Mod\u00e8le",
       "url": "https://open.spotify.com/track/5zzAlRF0pqDlLF29x0asgS"
+    },
+    {
+      "album": {
+        "name": "Moiti\u00e9 les m\u00eames",
+        "url": "https://open.spotify.com/album/6PXiQIVz7ZBKeDXMbbPoGl"
+      },
+      "artists": [
+        {
+          "name": "Victorien",
+          "url": "https://open.spotify.com/artist/4hCY20IkGa63aUoV82yMBE"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178002,
+      "name": "Moiti\u00e9 les m\u00eames",
+      "url": "https://open.spotify.com/track/5bvqmfsknupgemx1eTlOFz"
     },
     {
       "album": {

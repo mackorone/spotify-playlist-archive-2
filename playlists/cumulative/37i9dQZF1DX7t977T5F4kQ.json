@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover:   Quamina MP ",
+  "description": "The hottest and recent Ghana party starters. Cover:   Black Sherif ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -654,7 +654,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 136800,
       "name": "Again",
       "url": "https://open.spotify.com/track/1HetMT1bAScgMKcwxJLyuN"
@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 164845,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/26GUuKYLIn6sLEQ157UaHD"
@@ -3782,6 +3782,28 @@
       "duration_ms": 160583,
       "name": "Excellent",
       "url": "https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC"
+    },
+    {
+      "album": {
+        "name": "Exopa",
+        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190515,
+      "name": "Exopa",
+      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
     },
     {
       "album": {
@@ -11713,6 +11735,24 @@
     },
     {
       "album": {
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190270,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc"
+    },
+    {
+      "album": {
         "name": "Sweet Baby",
         "url": "https://open.spotify.com/album/6HpKMrkRl4zxtwLLCsfnCp"
       },
@@ -12724,6 +12764,24 @@
       "duration_ms": 175135,
       "name": "WEATHER FOR 2",
       "url": "https://open.spotify.com/track/56qLZovBjCLJUBlGv1gER8"
+    },
+    {
+      "album": {
+        "name": "Webkid (Shatta Music)",
+        "url": "https://open.spotify.com/album/6KPB8evaWx5LNoyqQWcTdh"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137992,
+      "name": "Webkid (Shatta Music)",
+      "url": "https://open.spotify.com/track/2yt19nfbH7CIIRG1WKABPY"
     },
     {
       "album": {

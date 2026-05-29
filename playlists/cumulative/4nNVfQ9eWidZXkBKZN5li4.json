@@ -5009,6 +5009,32 @@
     },
     {
       "album": {
+        "name": "KARAM",
+        "url": "https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141473,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44"
+    },
+    {
+      "album": {
         "name": "Goliyon Ki Raasleela Ram-Leela (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/76ok2HKEfqZ8FaAy6JpCNp"
       },
@@ -7762,6 +7788,36 @@
       "duration_ms": 314000,
       "name": "Sanam Teri Kasam",
       "url": "https://open.spotify.com/track/1PDREqVNvmphIoNac3Vz8c"
+    },
+    {
+      "album": {
+        "name": "R...Rajkumar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3S9lrCPnWpm3SGYTXLkcv0"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Mayur Puri",
+          "url": "https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240796,
+      "name": "Saree Ke Fall Sa",
+      "url": "https://open.spotify.com/track/3zRE9GTjbIoGvI2wGmY0mj"
     },
     {
       "album": {

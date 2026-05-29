@@ -1669,6 +1669,28 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico Luedji Luna",
+        "url": "https://open.spotify.com/album/4T0jseUbcizO3xgKOmEqYo"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270491,
+      "name": "I\u00f4i\u00f4 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5ZEOfzIWxGWefJi7trtje4"
+    },
+    {
+      "album": {
         "name": "All The Little Lights (Deluxe Version)",
         "url": "https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF"
       },
@@ -2708,7 +2730,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 187364,
       "name": "Sagrado Profano - Ac\u00fastico",
       "url": "https://open.spotify.com/track/68NbGvxL8aBqEIfAGpH9cj"

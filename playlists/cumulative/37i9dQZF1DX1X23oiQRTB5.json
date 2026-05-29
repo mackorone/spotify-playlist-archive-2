@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "La Mano 1.9 au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "La Rvfleuze x Aya Nakamura au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -964,6 +964,24 @@
       "duration_ms": 165076,
       "name": "BARCOLA",
       "url": "https://open.spotify.com/track/7dQieA4pEOUV2G9s3jkEX6"
+    },
+    {
+      "album": {
+        "name": "BBL",
+        "url": "https://open.spotify.com/album/0WJQOZdnqTTdQvdrYhMuev"
+      },
+      "artists": [
+        {
+          "name": "OG Plugging",
+          "url": "https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135793,
+      "name": "BBL",
+      "url": "https://open.spotify.com/track/0iWDbmI7AEIIVzNMuAU3F3"
     },
     {
       "album": {
@@ -5982,7 +6000,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 179301,
       "name": "Nowhere 2",
       "url": "https://open.spotify.com/track/2zpcE21SuB8FsuwcYZMArD"

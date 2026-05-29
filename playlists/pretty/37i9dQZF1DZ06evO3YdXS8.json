@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 644184,
+  "num_followers": 644214,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahTigAAAAAAYkFNi694QYPVebp0hlS9V",
+  "snapshot_id": "ahY0AAAAAAAbSqsFpZMPy48khnKmPYxR",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selena: The Series Soundtrack",
-        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Yo Fui Aquella - .",
-      "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selena LIVE (Remastered 2026)",
         "url": "https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 584429,
       "name": "Como La Flor/Baila Esta Cumbia - Live/Remastered 2026",
       "url": "https://open.spotify.com/track/6SXXFYCKW2kjxWEuFyuEdR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "Yo Fui Aquella - .",
+      "url": "https://open.spotify.com/track/1xoNViCJArwctEfzI1POqS"
     },
     {
       "added_at": null,

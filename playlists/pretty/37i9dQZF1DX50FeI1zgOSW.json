@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Vidusan Kaneswaran",
-  "num_followers": 19716,
+  "num_followers": 19723,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJkFIBfqOra08xU67w5aFguNZNS9",
+  "snapshot_id": "AAAAAAKN9UT368FbMXUbBwbMtUD/Yhtf",
   "tracks": [
     {
       "added_at": "2026-04-23 06:49:33",
@@ -155,6 +155,26 @@
       "duration_ms": 264309,
       "name": "Bloom (From \"Loopd\")",
       "url": "https://open.spotify.com/track/71EPZfwovhyjD3Goi3Ns5x"
+    },
+    {
+      "added_at": "2026-05-28 04:15:18",
+      "album": {
+        "name": "Siru Nee",
+        "url": "https://open.spotify.com/album/6y86bp70lrHDmgaIZlaKti"
+      },
+      "artists": [
+        {
+          "name": "PRI",
+          "url": "https://open.spotify.com/artist/3SdB1D3HlBKxhy5kOOQvit"
+        },
+        {
+          "name": "Adarsh Rajaraman",
+          "url": "https://open.spotify.com/artist/59rDlh7mIoROb18vRX5cFE"
+        }
+      ],
+      "duration_ms": 207807,
+      "name": "Siru Nee",
+      "url": "https://open.spotify.com/track/3wlxGGL8AjIY22ZJ1SgVgM"
     },
     {
       "added_at": "2026-05-04 07:54:22",
@@ -1409,30 +1429,6 @@
       "url": "https://open.spotify.com/track/4jAPcdyYF8XtcD4rpttfd9"
     },
     {
-      "added_at": "2026-02-02 12:04:24",
-      "album": {
-        "name": "Veerathuku Madurai Thaan Da",
-        "url": "https://open.spotify.com/album/5tgiJnukVXaRNII4KfvLZl"
-      },
-      "artists": [
-        {
-          "name": "Vishal - Aditya",
-          "url": "https://open.spotify.com/artist/18Gn0S8ERNbuv5GA8FB0xT"
-        },
-        {
-          "name": "Velmurugan",
-          "url": "https://open.spotify.com/artist/70jbLrKZefy2ynyGrHvVNi"
-        },
-        {
-          "name": "Tom Karthi",
-          "url": "https://open.spotify.com/artist/5rf6qdyKd6WeUUmnO2YU32"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Veerathuku Madurai Thaan Da",
-      "url": "https://open.spotify.com/track/4r2SJ2pPYDvbN5jFenqkwk"
-    },
-    {
       "added_at": "2026-02-12 12:00:10",
       "album": {
         "name": "Un Iru Vizhi",
@@ -1547,22 +1543,6 @@
       "duration_ms": 192167,
       "name": "Cult Classic",
       "url": "https://open.spotify.com/track/35mRmwFEF4EPctOTvJ0iDa"
-    },
-    {
-      "added_at": "2026-02-02 12:04:24",
-      "album": {
-        "name": "INITHANA PORKLAM ONDRU",
-        "url": "https://open.spotify.com/album/3wj2PJD396nZ3Ij9WCnLkG"
-      },
-      "artists": [
-        {
-          "name": "Roshith abdulrahman",
-          "url": "https://open.spotify.com/artist/1cmSRUsjBAxwwN0fiYAd1F"
-        }
-      ],
-      "duration_ms": 66931,
-      "name": "INITHANA PORKLAM ONDRU",
-      "url": "https://open.spotify.com/track/6cfeIztrSQdeS8PEWXfT8D"
     }
   ],
   "unique_name": "RADAR Tamil",

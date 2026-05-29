@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring 6LACK, Leon Thomas and AZ Chike.
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,644 likes - 91 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,643 likes - 91 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

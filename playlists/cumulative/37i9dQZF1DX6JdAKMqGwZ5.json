@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: vangoura.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: CARLANGAS.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -150,6 +150,28 @@
       "duration_ms": 202149,
       "name": "1 L\u00cdDER NECESITA 1 L\u00cdDER",
       "url": "https://open.spotify.com/track/00JOjGtanKpK3VBpJ93WVU"
+    },
+    {
+      "album": {
+        "name": "13:13",
+        "url": "https://open.spotify.com/album/5HLe1Mcm0tC29g4mENrCvk"
+      },
+      "artists": [
+        {
+          "name": "Carmen Lillo",
+          "url": "https://open.spotify.com/artist/6dZ6SsLs9gLmHASDFXTqNW"
+        },
+        {
+          "name": "CCF",
+          "url": "https://open.spotify.com/artist/7ElFpYkzIx4l7UGq0ekfKx"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "13:13",
+      "url": "https://open.spotify.com/track/629u8W4IKk41rhcbB49mM9"
     },
     {
       "album": {
@@ -634,7 +656,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 174816,
       "name": "Ahora que...",
       "url": "https://open.spotify.com/track/6eEUOPQx0bvgYYcazkEhS5"
@@ -1290,6 +1312,28 @@
       "duration_ms": 143485,
       "name": "As\u00ed Soy Ahora",
       "url": "https://open.spotify.com/track/1mUpdPfMwuUx27tvIFF9wJ"
+    },
+    {
+      "album": {
+        "name": "Au soleil",
+        "url": "https://open.spotify.com/album/19cwq0753UsktXw7VHfx9W"
+      },
+      "artists": [
+        {
+          "name": "Anouck The Band",
+          "url": "https://open.spotify.com/artist/6JM2EjjDGfDztVwi1wO6Ag"
+        },
+        {
+          "name": "Maren",
+          "url": "https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260447,
+      "name": "Au soleil",
+      "url": "https://open.spotify.com/track/5NKxOzYAWk6tM0JE25h25G"
     },
     {
       "album": {
@@ -2046,7 +2090,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 228333,
       "name": "Canci\u00f3n de Amor N\u00ba1000",
       "url": "https://open.spotify.com/track/4Sz9XD4afgzLSFGwYz7tqo"
@@ -5558,7 +5602,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 198912,
       "name": "Feria de Madrid",
       "url": "https://open.spotify.com/track/1lKVGFjOiZKHx1l8FWUeVB"
@@ -5966,6 +6010,24 @@
       "duration_ms": 124194,
       "name": "GOYARD",
       "url": "https://open.spotify.com/track/69W9us3ynQfjloOJ78R6BO"
+    },
+    {
+      "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/0GnQj8uUoVzG8yPYyC1wLs"
+      },
+      "artists": [
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166907,
+      "name": "Gran V\u00eda",
+      "url": "https://open.spotify.com/track/0yOuyyJdRw9WquTcTKi0Lt"
     },
     {
       "album": {
@@ -7196,7 +7258,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 140000,
       "name": "La ley de Murphy",
       "url": "https://open.spotify.com/track/26lCYSf4tymoo8zXx0ZFCV"
@@ -7618,7 +7680,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 136801,
       "name": "Lego(K)",
       "url": "https://open.spotify.com/track/2ihnjk41m9PCJ6LTVWmqse"
@@ -8745,6 +8807,28 @@
     },
     {
       "album": {
+        "name": "Me da igual",
+        "url": "https://open.spotify.com/album/4BxtMUES9diwHKdNlYgDjR"
+      },
+      "artists": [
+        {
+          "name": "Perfecto Miserable",
+          "url": "https://open.spotify.com/artist/48z3nG28oOK5eXgDOCjcon"
+        },
+        {
+          "name": "pablo morfeo",
+          "url": "https://open.spotify.com/artist/67qie8QmMvLni5TBlqgPvU"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147487,
+      "name": "Me da igual",
+      "url": "https://open.spotify.com/track/5GhPY7com5UF8FOeYUczAF"
+    },
+    {
+      "album": {
         "name": "Me gusta, me encanta",
         "url": "https://open.spotify.com/album/330WIzpvpEa3PXSIjwlzu4"
       },
@@ -8980,7 +9064,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 123000,
       "name": "metal mollado",
       "url": "https://open.spotify.com/track/2C9DHJVx4skvILdm8bDTzN"
@@ -11556,7 +11640,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 316877,
       "name": "Poquita fe",
       "url": "https://open.spotify.com/track/3g7XcFKoNGej70VChSIigw"
@@ -12197,6 +12281,28 @@
     },
     {
       "album": {
+        "name": "raxets",
+        "url": "https://open.spotify.com/album/7E2h45zRGDsMo3hFLNhX4Z"
+      },
+      "artists": [
+        {
+          "name": "Dinamarca",
+          "url": "https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX"
+        },
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114893,
+      "name": "raxets",
+      "url": "https://open.spotify.com/track/2Qh4VZQvEuoR0rm6ZjKzar"
+    },
+    {
+      "album": {
         "name": "el santo que del cielo quiere bajar",
         "url": "https://open.spotify.com/album/4ugDegU1o8gFp3rwITBU5H"
       },
@@ -12454,6 +12560,42 @@
       "duration_ms": 160271,
       "name": "roto",
       "url": "https://open.spotify.com/track/1zaS3LMDcXD809bgVRZYYu"
+    },
+    {
+      "album": {
+        "name": "Roto de coraz\u00f3n",
+        "url": "https://open.spotify.com/album/35oVMxqhEgLPpmCXdlB2a5"
+      },
+      "artists": [
+        {
+          "name": "Amatria",
+          "url": "https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161029,
+      "name": "Roto de coraz\u00f3n",
+      "url": "https://open.spotify.com/track/104D5Q3VP3MDLTNJwAfkgi"
+    },
+    {
+      "album": {
+        "name": "Rug\u00edo de Sentir",
+        "url": "https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm"
+      },
+      "artists": [
+        {
+          "name": "Paco Pecado",
+          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203896,
+      "name": "Rug\u00edo de Sentir",
+      "url": "https://open.spotify.com/track/1ecpwSch9muxwUF5BmOHQs"
     },
     {
       "album": {
@@ -13628,7 +13770,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 213061,
       "name": "Tapu\u00f1alo",
       "url": "https://open.spotify.com/track/4zLFCahWLXsqcmVqzO8XmZ"
@@ -15450,6 +15592,24 @@
       "duration_ms": 211040,
       "name": "X",
       "url": "https://open.spotify.com/track/6nGkmEKtGLp02f1ks9ofYS"
+    },
+    {
+      "album": {
+        "name": "X LOS SIGLOS DE LOS SIGLOS",
+        "url": "https://open.spotify.com/album/1So00vDI2ufcKnBPdQohTt"
+      },
+      "artists": [
+        {
+          "name": "Sienna",
+          "url": "https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "X LOS SIGLOS DE LOS SIGLOS",
+      "url": "https://open.spotify.com/track/2tdDIiHo2JJFrXmOvRnu0z"
     },
     {
       "album": {

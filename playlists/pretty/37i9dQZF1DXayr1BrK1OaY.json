@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free \u2764\ufe0f\u200d\ud83e\ude79",
-  "num_followers": 852664,
+  "num_followers": 852688,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -999,18 +999,18 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "ifidiewouldyoucry",
-        "url": "https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV"
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 175037,
-      "name": "ifidiewouldyoucry",
-      "url": "https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC"
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "On My Knees",
-        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
+        "name": "ifidiewouldyoucry",
+        "url": "https://open.spotify.com/album/0zVkI5YslrZzkokFmT46UV"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
         }
       ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
+      "duration_ms": 175037,
+      "name": "ifidiewouldyoucry",
+      "url": "https://open.spotify.com/track/7r0yL0EKUT02hG1SCIzWHC"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -1099,22 +1099,26 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Say No Prayer",
-        "url": "https://open.spotify.com/album/6GyxOBOOGtlJMZzbyJ6vEc"
+        "name": "In And Out Of Love",
+        "url": "https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK"
       },
       "artists": [
         {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
         },
         {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sharon Den Adel",
+          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
         }
       ],
-      "duration_ms": 149428,
-      "name": "Say No Prayer",
-      "url": "https://open.spotify.com/track/3k9EAHWqEmKgPqsHUKNKOV"
+      "duration_ms": 226621,
+      "name": "In And Out Of Love",
+      "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -1139,26 +1143,22 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "In And Out Of Love",
-        "url": "https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK"
+        "name": "Say No Prayer",
+        "url": "https://open.spotify.com/album/6GyxOBOOGtlJMZzbyJ6vEc"
       },
       "artists": [
         {
-          "name": "Rivo",
-          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
         },
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Sharon Den Adel",
-          "url": "https://open.spotify.com/artist/2GST08xzn3dJilysjDhSmi"
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
         }
       ],
-      "duration_ms": 226621,
-      "name": "In And Out Of Love",
-      "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
+      "duration_ms": 149428,
+      "name": "Say No Prayer",
+      "url": "https://open.spotify.com/track/3k9EAHWqEmKgPqsHUKNKOV"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -1927,18 +1927,18 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/5kD4QTNVhJi1KKXPKBGuib"
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/1Bta845oR23nfA6VqkIVjc"
       },
       "artists": [
         {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
         }
       ],
-      "duration_ms": 219185,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7Mf9juqgr5vWfCGHsPaWHl"
+      "duration_ms": 158400,
+      "name": "Anestesia",
+      "url": "https://open.spotify.com/track/1mjapXQHm6DapzTlGNKdBi"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -1979,18 +1979,18 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Anestesia",
-        "url": "https://open.spotify.com/album/1Bta845oR23nfA6VqkIVjc"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/5kD4QTNVhJi1KKXPKBGuib"
       },
       "artists": [
         {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Anestesia",
-      "url": "https://open.spotify.com/track/1mjapXQHm6DapzTlGNKdBi"
+      "duration_ms": 219185,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7Mf9juqgr5vWfCGHsPaWHl"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -2059,18 +2059,22 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
+        "name": "Sunrise Underwater",
+        "url": "https://open.spotify.com/album/3d9q6YpSzGxna0ju3xUwEc"
       },
       "artists": [
         {
           "name": "MashBit",
           "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        },
+        {
+          "name": "Jazara",
+          "url": "https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag"
         }
       ],
-      "duration_ms": 169528,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
+      "duration_ms": 214766,
+      "name": "Sunrise Underwater",
+      "url": "https://open.spotify.com/track/1rRscKv9OiK64AgQQWez5m"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -2135,22 +2139,6 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/61Xufs5spPrIrBfwkDmwwm"
-      },
-      "artists": [
-        {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
-        }
-      ],
-      "duration_ms": 134558,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/5vvC8D7laU6Ns8i6V6mk51"
-    },
-    {
-      "added_at": "2026-05-15 15:22:48",
-      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/7vzSIDKeliMyC4akCCEsVy"
       },
@@ -2171,6 +2159,22 @@
       "duration_ms": 151763,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/5vqaxhBBQmMSOdbx1VuQNI"
+    },
+    {
+      "added_at": "2026-05-15 15:22:48",
+      "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/61Xufs5spPrIrBfwkDmwwm"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "duration_ms": 134558,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/5vvC8D7laU6Ns8i6V6mk51"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -2243,22 +2247,6 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/0azijgSTeLzSdHx8Lp79Id"
-      },
-      "artists": [
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        }
-      ],
-      "duration_ms": 205571,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/7fzolTnwtX2oTYqFo37vbV"
-    },
-    {
-      "added_at": "2026-05-15 15:22:48",
-      "album": {
         "name": "Glad I Found You",
         "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
       },
@@ -2275,6 +2263,22 @@
       "duration_ms": 211191,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
+    },
+    {
+      "added_at": "2026-05-15 15:22:48",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/0azijgSTeLzSdHx8Lp79Id"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 205571,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/7fzolTnwtX2oTYqFo37vbV"
     },
     {
       "added_at": "2026-05-15 15:22:48",
@@ -2299,22 +2303,22 @@
     {
       "added_at": "2026-05-15 15:22:48",
       "album": {
-        "name": "are u alright?",
-        "url": "https://open.spotify.com/album/7pSxubD8Db5Gu9OJb2gOYY"
+        "name": "To This Day",
+        "url": "https://open.spotify.com/album/5rTV7nsg4Ty4Nr3kBPTSSQ"
       },
       "artists": [
         {
-          "name": "puulse",
-          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
         },
         {
-          "name": "Jai Cuzco",
-          "url": "https://open.spotify.com/artist/2qjkEXePHEV3eMJkFil4be"
+          "name": "LKS",
+          "url": "https://open.spotify.com/artist/6DGjk4qp2HpzAppX9oXoW5"
         }
       ],
-      "duration_ms": 128225,
-      "name": "are u alright?",
-      "url": "https://open.spotify.com/track/43EvhhuaG1fPTpRsbzXXZ6"
+      "duration_ms": 214224,
+      "name": "To This Day",
+      "url": "https://open.spotify.com/track/5aBV6yiidlaNDayn20iQkH"
     }
   ],
   "unique_name": "crying on the dance floor",

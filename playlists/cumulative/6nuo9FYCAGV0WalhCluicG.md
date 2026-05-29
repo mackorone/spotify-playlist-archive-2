@@ -4,7 +4,7 @@
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. Featuring the biggest names and rising stars shaping the UK scene, including Nemzzz, EsDeeKid, KidWild and more\.  Newest Hit: GEEKIN \- Nemzzz, Lil Yachty Cover: Nemzzz.
 
-162 songs - 7 hr 25 min
+163 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Abu Dhabi](https://open.spotify.com/track/3G5iyDPHbIHUL4AhC6rEs4) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Abu Dhabi](https://open.spotify.com/album/3BCbvJKaW8QAmAwlRtkHBj) | 2:17 | 2026-03-13 |  |
 | [Active](https://open.spotify.com/track/0p5VYm5cWWMpn34C0lSG4T) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Active](https://open.spotify.com/album/4NCKxYcaUesoLVwl5YfuXS) | 2:51 | 2026-03-13 | 2026-05-02 |
 | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/track/3ZHGe1GshUNN57bz8khFNf) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Digga](https://open.spotify.com/artist/5q6mBqEWDgWrCogSav8Sro) | [Adolescence \(Ft\. Digga D\)](https://open.spotify.com/album/2eYUcSI6kc1sOW7oU5vTu5) | 2:51 | 2025-10-03 | 2026-03-14 |
-| [Akaza](https://open.spotify.com/track/1cnyJNqdaOzWKMK2enbwYf) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Paradise On A Lifeboat](https://open.spotify.com/album/7waNuoVYcYNuAT5U2gy8Nv) | 2:23 | 2026-03-13 |  |
+| [Akaza](https://open.spotify.com/track/1cnyJNqdaOzWKMK2enbwYf) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Paradise On A Lifeboat](https://open.spotify.com/album/7waNuoVYcYNuAT5U2gy8Nv) | 2:23 | 2026-03-13 | 2026-05-29 |
 | [All Eyes On Me](https://open.spotify.com/track/0kWAW8wkGQwepTKyYjJTu5) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Terrified .](https://open.spotify.com/album/1Uwd64LlYKeBEVpZ4civSQ) | 3:17 | 2026-05-22 |  |
 | [Allergy](https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Allergy](https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr) | 2:32 | 2025-10-03 | 2026-03-14 |
 | [AMEN](https://open.spotify.com/track/2Gic1IIcgCJYErTssSWmL2) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [AMEN](https://open.spotify.com/album/098CzUov15FoAHLYWJh7yV) | 2:40 | 2025-10-03 | 2026-03-14 |
@@ -99,6 +99,7 @@
 | [LEANIN](https://open.spotify.com/track/7rhkyaxaAheX4usxCAECcw) | [A2ANTI](https://open.spotify.com/artist/3TTq94wgOIj0skk2wT8bnb) | [LEANIN](https://open.spotify.com/album/6aTQ0cxnn2r1OucuHHLbtB) | 2:34 | 2025-10-03 |  |
 | [LEFT OUT \(feat\. M Huncho\)](https://open.spotify.com/track/6h9lDWwnNEZgKUZxPjSohA) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [IT'S NOT YOU IT'S ME](https://open.spotify.com/album/7yOrgeOtDX3XjPEzemjucQ) | 2:31 | 2026-03-13 |  |
 | [Let's Talk \(feat\. Jme\)](https://open.spotify.com/track/2w2FGqT7etJegkoesEzKsT) | [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Lets Talk \(feat\. Jme\)](https://open.spotify.com/album/4Y452bZyorfxW7bCIJJaIr) | 3:18 | 2025-10-03 |  |
+| [LOCKED IN FREESTYLE](https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN FREESTYLE](https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN) | 1:40 | 2026-05-28 |  |
 | [Low Vibrations](https://open.spotify.com/track/5I1t1h0LSvjJuGZUqC3Dwp) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Low Vibrations](https://open.spotify.com/album/5huwFVBaEZQ2ntWjCDzIMk) | 2:56 | 2025-10-03 |  |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-10-03 | 2026-03-14 |
 | [LV Sandals](https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:51 | 2026-05-01 |  |

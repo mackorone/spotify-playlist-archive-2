@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20411,
+  "num_followers": 20470,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Uno Lovis Party",
+        "url": "https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4"
+      },
+      "artists": [
+        {
+          "name": "Kury",
+          "url": "https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9"
+        }
+      ],
+      "duration_ms": 202921,
+      "name": "Memento Amoris",
+      "url": "https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "HER NAME WAS YUMI",
         "url": "https://open.spotify.com/album/70tZRCqPItOdy3vornYcAi"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 287346,
       "name": "Canon",
       "url": "https://open.spotify.com/track/0PMpVJKmad8FKWtbdeuzDt"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Uno Lovis Party",
-        "url": "https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4"
-      },
-      "artists": [
-        {
-          "name": "Kury",
-          "url": "https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9"
-        }
-      ],
-      "duration_ms": 202921,
-      "name": "Memento Amoris",
-      "url": "https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Homage",
-        "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
+        "name": "Romeo i Julia \u017cyj\u0105",
+        "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
       },
       "artists": [
         {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
-        },
-        {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+          "name": "Arek Jakubik",
+          "url": "https://open.spotify.com/artist/2LYq9SQ6sfDsHl2PwN1PFh"
         }
       ],
-      "duration_ms": 251514,
-      "name": "Love in the Garden",
-      "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
+      "duration_ms": 333250,
+      "name": "Sonda uliczna",
+      "url": "https://open.spotify.com/track/4z9pOWfoOflplzmjjRYefx"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1111,18 +1107,38 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Romeo i Julia \u017cyj\u0105",
-        "url": "https://open.spotify.com/album/6ku8fzO1axKBuidY8MJcI3"
+        "name": "CITY CLUSTER",
+        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
       },
       "artists": [
         {
-          "name": "Arek Jakubik",
-          "url": "https://open.spotify.com/artist/2LYq9SQ6sfDsHl2PwN1PFh"
+          "name": "Micha\u0142 FOX Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
         }
       ],
-      "duration_ms": 333250,
-      "name": "Sonda uliczna",
-      "url": "https://open.spotify.com/track/4z9pOWfoOflplzmjjRYefx"
+      "duration_ms": 253000,
+      "name": "UP & DOWN",
+      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Homage",
+        "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "duration_ms": 251514,
+      "name": "Love in the Garden",
+      "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "CITY CLUSTER",
-        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
+        "name": "Pami\u0119tam twoje oczy",
+        "url": "https://open.spotify.com/album/3dDdRaotev2wwa1UzS98Tx"
       },
       "artists": [
         {
-          "name": "Micha\u0142 FOX Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
+          "name": "Warszawskie Combo Taneczne",
+          "url": "https://open.spotify.com/artist/40gaR2GqGc39aBRhGwUtHk"
         }
       ],
-      "duration_ms": 253000,
-      "name": "UP & DOWN",
-      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
+      "duration_ms": 181812,
+      "name": "Pami\u0119tam twoje oczy",
+      "url": "https://open.spotify.com/track/2QHokdfFac8aYoGuqbI9uk"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1191,22 +1207,6 @@
       "duration_ms": 251447,
       "name": "Etiuda f-moll z Trois Nouvelles \u00c9tudes nr 1 Dbop. 36A",
       "url": "https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Pami\u0119tam twoje oczy",
-        "url": "https://open.spotify.com/album/3dDdRaotev2wwa1UzS98Tx"
-      },
-      "artists": [
-        {
-          "name": "Warszawskie Combo Taneczne",
-          "url": "https://open.spotify.com/artist/40gaR2GqGc39aBRhGwUtHk"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Pami\u0119tam twoje oczy",
-      "url": "https://open.spotify.com/track/2QHokdfFac8aYoGuqbI9uk"
     },
     {
       "added_at": "2026-05-26 09:05:26",

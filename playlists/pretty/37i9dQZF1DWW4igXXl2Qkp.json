@@ -1,13 +1,29 @@
 {
-  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:1zEHBw7xQf0drXZagRkciU\">Molly Santana</a> ",
-  "num_followers": 289904,
+  "description": "The best new hip-hop tracks from independent artists & labels. Cover: <a href=\"spotify:artist:5dxav2nP7izQBQYPNjv0CQ\">Young Roddo</a> ",
+  "num_followers": 289957,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACvkZLFhEfwgZivMnb646ait5WbY",
+  "snapshot_id": "AAAAAFGsaYk3WQOocNnN4xoJn6IVPqhz",
   "tracks": [
+    {
+      "added_at": "2026-05-27 19:15:34",
+      "album": {
+        "name": "No Bad Grades",
+        "url": "https://open.spotify.com/album/5BPNYbrxnsSBnXZl9Zt9ey"
+      },
+      "artists": [
+        {
+          "name": "Young Roddo",
+          "url": "https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ"
+        }
+      ],
+      "duration_ms": 111958,
+      "name": "No Bad Grades",
+      "url": "https://open.spotify.com/track/2YXsOWn9HfF7VbahUPDLUA"
+    },
     {
       "added_at": "2026-05-27 19:15:34",
       "album": {
@@ -195,22 +211,6 @@
       "duration_ms": 111699,
       "name": "Butta B",
       "url": "https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA"
-    },
-    {
-      "added_at": "2026-05-27 19:15:34",
-      "album": {
-        "name": "No Bad Grades",
-        "url": "https://open.spotify.com/album/5BPNYbrxnsSBnXZl9Zt9ey"
-      },
-      "artists": [
-        {
-          "name": "Young Roddo",
-          "url": "https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ"
-        }
-      ],
-      "duration_ms": 111958,
-      "name": "No Bad Grades",
-      "url": "https://open.spotify.com/track/2YXsOWn9HfF7VbahUPDLUA"
     },
     {
       "added_at": "2026-05-27 19:15:34",

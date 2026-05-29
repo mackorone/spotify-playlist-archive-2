@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 164089,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/5Adz7uk3nkCKxHVbycjefV"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 267146,
       "name": "Collide",
       "url": "https://open.spotify.com/track/5hNE72rnkzluE0wKrVtt68"
@@ -3558,7 +3558,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 174000,
       "name": "Happy Here",
       "url": "https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm"
@@ -4503,6 +4503,24 @@
     },
     {
       "album": {
+        "name": "Insecurities",
+        "url": "https://open.spotify.com/album/5kq1VoKzUp0A3hPW02g9VF"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Insecurities",
+      "url": "https://open.spotify.com/track/57DgKi0pW0lqzPZXRp8lEA"
+    },
+    {
+      "album": {
         "name": "inspiration gun",
         "url": "https://open.spotify.com/album/1vVBNy9XPW8QXaIscxadMF"
       },
@@ -4532,7 +4550,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 233760,
       "name": "Intervention",
       "url": "https://open.spotify.com/track/6crAaAdFMC51zUoyZfoS6M"
@@ -4652,6 +4670,24 @@
       "duration_ms": 155700,
       "name": "Jamais \u00c9t\u00e9 (Cool)",
       "url": "https://open.spotify.com/track/3d78cgjRdpp2hmhZdyMmKp"
+    },
+    {
+      "album": {
+        "name": "joli d\u00e9sastre",
+        "url": "https://open.spotify.com/album/6sglgOyD2hmP8M4guQCdUx"
+      },
+      "artists": [
+        {
+          "name": "Marie Jay",
+          "url": "https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203904,
+      "name": "joli d\u00e9sastre",
+      "url": "https://open.spotify.com/track/4SPxL3UxiuvuCQfbTCxdec"
     },
     {
       "album": {
@@ -5336,7 +5372,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 122410,
       "name": "Lost In You",
       "url": "https://open.spotify.com/track/1vQAiK2MWj2D2zgYq6LPbA"
@@ -6418,7 +6454,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 151601,
       "name": "nulle",
       "url": "https://open.spotify.com/track/4KGkO0yqwIsePzsG8T3SZ0"
@@ -7734,7 +7770,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 166933,
       "name": "Small Town Big Mouth",
       "url": "https://open.spotify.com/track/6r7XaoY8NsXq1hYHijeaQQ"
@@ -8482,7 +8518,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 221245,
       "name": "the arrow",
       "url": "https://open.spotify.com/track/2RdFLhXHKs61WVR97Lhx0T"
@@ -9185,6 +9221,24 @@
     },
     {
       "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167847,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
+    },
+    {
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0"
       },
@@ -9762,6 +9816,24 @@
       "duration_ms": 180000,
       "name": "When We Get There We'll Know",
       "url": "https://open.spotify.com/track/4wXHE6HfR95WkzbAwWkMP3"
+    },
+    {
+      "album": {
+        "name": "Where Do Lost Dreams Go?",
+        "url": "https://open.spotify.com/album/1XcUjv4aM5b6nSt2l2rRW7"
+      },
+      "artists": [
+        {
+          "name": "Solong",
+          "url": "https://open.spotify.com/artist/5iXNhXMhenY5CglSJGTd6v"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329898,
+      "name": "Where Do Lost Dreams Go?",
+      "url": "https://open.spotify.com/track/5DFD6xh3cbY2NNTh5L6zY8"
     },
     {
       "album": {

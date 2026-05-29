@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Sbahle
+> Proudly Southern African Afropop gems\. Cover: Sqiniseko SinQ, Danya Devs
 
-756 songs - 2 day 5 hr 39 min
+757 songs - 2 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [S'bali](https://open.spotify.com/track/3iCc4j2qlTvUmsVAtjpx2H) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6) | [S'bali](https://open.spotify.com/album/61qh07niMIakfZOmu0yuC2) | 5:00 | 2021-03-22 | 2022-07-29 |
 | [S'thandwasam](https://open.spotify.com/track/41Ja01RLcrxmoU18IecKJA) | [Philisiwe Ntintili](https://open.spotify.com/artist/1lTnVO0bKFKuWb9ddFmai9), [Novexbeats](https://open.spotify.com/artist/213bIAt6ywdlreUnYyV6Db) | [S'thandwasam](https://open.spotify.com/album/0xbXELr8inqTojtgjDRz9g) | 4:07 | 2023-07-14 | 2023-08-25 |
 | [SABA](https://open.spotify.com/track/6PouYYNwmZX4fD1gIoSD8N) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA) | [IMBUZI AYIBUZWA](https://open.spotify.com/album/1ZmWJlGLDS8WGhp2jaa1JW) | 4:20 | 2023-09-01 | 2023-10-13 |
+| [Sabela](https://open.spotify.com/track/18CIBGXAkIeZhwzJt4uT2k) | [Sqiniseko SqinQ](https://open.spotify.com/artist/34AoRsBkoLEDSM1kBQwqxQ), [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs) | [Sabela](https://open.spotify.com/album/6kjGl8dtVWhzH8Cz8gL2ga) | 4:44 | 2026-05-29 |  |
 | [Sabela](https://open.spotify.com/track/1BuHQohZdOS9rlGrn313Rk) | [Vuyina](https://open.spotify.com/artist/7pJgT4zdoIemiYQjpD8QFw) | [Sabela](https://open.spotify.com/album/7nHrg0Ct3rGCQq9KeMUY6z) | 3:09 | 2023-02-09 | 2023-04-07 |
 | [SAFE SPACE](https://open.spotify.com/track/0SEvZ169RsCvISXPUdcVdt) | [Lungelo Manzi](https://open.spotify.com/artist/6veL3At7ABsR1p1Mp7ggT1) | [SAFE SPACE](https://open.spotify.com/album/42sIQEXqN9mAW6KuXsEo3s) | 3:41 | 2022-03-24 | 2022-04-01 |
 | [Sajola Kamnandi](https://open.spotify.com/track/2QVyLdd8FNg33pm5qfju1g) | [Sminofu](https://open.spotify.com/artist/7lpGctutZNeN7UKIyEFbPg), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro) | [Sajola Kamnandi](https://open.spotify.com/album/7mXvm4Rf4JTepqsSMhYPJO) | 4:14 | 2025-04-24 |  |
@@ -694,7 +695,7 @@
 | [Ungowami](https://open.spotify.com/track/7AqD191cHk5LRwocZyqZr6) | [Ricky Meezy](https://open.spotify.com/artist/28koaE3pYTraXvMJcHUYpX), [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60), [Foliswa](https://open.spotify.com/artist/3PdaMAje7z6LQdCfSnKdpp) | [Ungowami](https://open.spotify.com/album/5gvLT2j7SajOP9QtqOzg6Q) | 4:24 | 2024-07-11 | 2025-04-25 |
 | [Unobubele](https://open.spotify.com/track/2J5l2xiZ9vJz9XOAURTIt6) | [Lolli Native](https://open.spotify.com/artist/5k9uolaMC3PXHGrHSUiqz0), [Brian Temba](https://open.spotify.com/artist/4AZ1cwMMACbUJCp0gNiplV) | [Unobubele](https://open.spotify.com/album/055MfShFsEJ6bfXh2vPVkM) | 4:15 | 2022-06-16 | 2022-06-24 |
 | [UQAMATA](https://open.spotify.com/track/2KxBJZ94z3GedK2817Zcg2) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [IKHWELO](https://open.spotify.com/album/0fKL8GIzcfKPldJwDzptNP) | 5:09 | 2025-04-24 | 2025-05-23 |
-| [Usbahle](https://open.spotify.com/track/0pfwOFhLc36Nlc0MBLYNIY) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [Emakhaya](https://open.spotify.com/album/3YPT8bW8XTiZIjMEhryLEU) | 4:02 | 2025-04-24 |  |
+| [Usbahle](https://open.spotify.com/track/0pfwOFhLc36Nlc0MBLYNIY) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI) | [Emakhaya](https://open.spotify.com/album/3YPT8bW8XTiZIjMEhryLEU) | 4:02 | 2025-04-24 | 2026-05-29 |
 | [Usisthandwa Sami \(feat\. Cnethemba Gonelo\)](https://open.spotify.com/track/48dRoLcBWnagYHROIK7Ehe) | [A\-Toidd](https://open.spotify.com/artist/37QUtAv3IYjCQVGHh2UxnA), [Maas](https://open.spotify.com/artist/02qc1eBD7en3cxVAl5AXbk), [Thando Simelane](https://open.spotify.com/artist/6QNGMCBlnd90WjDhYX5aog), [Cnethemba Gonelo](https://open.spotify.com/artist/7sLmMT6etbYy4ypf5pVxwg) | [Usisthandwa Sami \(feat\. Cnethemba Gonelo\)](https://open.spotify.com/album/2QLLIxooWubamhqnWZPt9d) | 3:44 | 2022-10-20 | 2022-11-18 |
 | [UThando](https://open.spotify.com/track/42p0qkwmfv4YfP6QO6wP5f) | [Soul Kulture](https://open.spotify.com/artist/1LZkUMy70sBaxwNWLr22ah), [UManamathela](https://open.spotify.com/artist/7qgiPTbqwr5avpxs8HpX1z), [Msesh](https://open.spotify.com/artist/7bpRB0dBPQWbtVypLc5BS9) | [UThando](https://open.spotify.com/album/1dWtPlN3jo8cuVLw13CWvl) | 4:11 | 2024-04-25 | 2024-05-17 |
 | [Uthando](https://open.spotify.com/track/2Kk61edkcZ8Zu73qmcWxZl) | [Thenjie](https://open.spotify.com/artist/3lgnTwzRyXYDPmPbvP4y0s) | [Uthando](https://open.spotify.com/album/5Mqo6dk2XY09ipd6qz74JT) | 3:09 | 2024-06-13 | 2025-01-31 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Berkay\n",
+  "description": "T\u00fcrk\u00e7e pop'un hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar.  Kapak: Melek Mosso\n",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -2901,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "b\u0131rak ak\u0131\u015f\u0131na",
+        "url": "https://open.spotify.com/album/6MdnQKD2CC59GcuCIPPSGg"
+      },
+      "artists": [
+        {
+          "name": "Ozan Bayra\u015fa",
+          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197278,
+      "name": "b\u0131rak ak\u0131\u015f\u0131na",
+      "url": "https://open.spotify.com/track/7FBkmXgjj7DWjheZBs5lVq"
+    },
+    {
+      "album": {
         "name": "B\u0131\u00e7ak",
         "url": "https://open.spotify.com/album/4tA43nNgYDybyFQaEWNFIO"
       },
@@ -3947,6 +3965,28 @@
     },
     {
       "album": {
+        "name": "En K\u00f6t\u00fc \u0130htimalle (Mustafa Sandal Sayg\u0131 1)",
+        "url": "https://open.spotify.com/album/5QYffZsQOLZX4tHCWXpFaO"
+      },
+      "artists": [
+        {
+          "name": "Ziynet Sali",
+          "url": "https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP"
+        },
+        {
+          "name": "Mustafa Sandal",
+          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "En K\u00f6t\u00fc \u0130htimalle - Mustafa Sandal Sayg\u0131 1",
+      "url": "https://open.spotify.com/track/4ipr8QzOh2H0YR51XgQDeh"
+    },
+    {
+      "album": {
         "name": "Enkaz",
         "url": "https://open.spotify.com/album/7mhg6NV5mw7czMiM2gbIPJ"
       },
@@ -4832,7 +4872,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 218302,
       "name": "G\u00dcL\u0130STAN",
       "url": "https://open.spotify.com/track/16Cn3tlpdhLH66ZArTgDAE"
@@ -6102,7 +6142,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 134399,
       "name": "Kara\u00e7al\u0131",
       "url": "https://open.spotify.com/track/2K5xsa4rFQtECBSIJR046V"
@@ -6622,6 +6662,24 @@
       "duration_ms": 146517,
       "name": "KTS",
       "url": "https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK"
+    },
+    {
+      "album": {
+        "name": "KURALSIZ",
+        "url": "https://open.spotify.com/album/0jK1nTGRfo8ZmKztX8nq3R"
+      },
+      "artists": [
+        {
+          "name": "\u0130lyas Yal\u00e7\u0131nta\u015f",
+          "url": "https://open.spotify.com/artist/2ekGsQEkeMtYFA16Jjes2M"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189400,
+      "name": "KURALSIZ",
+      "url": "https://open.spotify.com/track/2q44PNH1EEkly1QIbjTLxT"
     },
     {
       "album": {
@@ -7430,7 +7488,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 214153,
       "name": "Nahide",
       "url": "https://open.spotify.com/track/4AC6Eg0zc2kZ72ZXVdU96J"
@@ -8743,6 +8801,24 @@
     },
     {
       "album": {
+        "name": "Sayg\u0131m Var (Live)",
+        "url": "https://open.spotify.com/album/1qbgKJjZzhZa4Q0oVi4d7i"
+      },
+      "artists": [
+        {
+          "name": "Deha Bilimlier",
+          "url": "https://open.spotify.com/artist/14y31uKVzZkyyAKSqg30d6"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173295,
+      "name": "Sayg\u0131m Var - Live",
+      "url": "https://open.spotify.com/track/0qLaHb3XREpIPQyWAxwfWL"
+    },
+    {
+      "album": {
         "name": "AKKOR",
         "url": "https://open.spotify.com/album/7cJXufqiT9XL1V80r77P4G"
       },
@@ -9999,6 +10075,24 @@
     },
     {
       "album": {
+        "name": "Tek Y\u00fcrek",
+        "url": "https://open.spotify.com/album/0vUEugolxJM9IpZwJ4UWR4"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153586,
+      "name": "Tek Y\u00fcrek",
+      "url": "https://open.spotify.com/track/1Xfv2nvx6egPas7SeTRkMx"
+    },
+    {
+      "album": {
         "name": "Teselli P\u0131nar\u0131m",
         "url": "https://open.spotify.com/album/4EElJzc2mB278wYxmxuv53"
       },
@@ -10136,7 +10230,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 172474,
       "name": "T\u00dcRKLER GEL\u0130YOR",
       "url": "https://open.spotify.com/track/6rvuKL1E0PieqFPqL9dz8j"
@@ -10292,7 +10386,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 186666,
       "name": "Uyku Bile Tutam\u0131yor",
       "url": "https://open.spotify.com/track/1KAmW7WP1qIN9eBbrcPBcj"
@@ -10520,7 +10614,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 195073,
       "name": "Ya Sen Gidip de",
       "url": "https://open.spotify.com/track/3OFpWLnEXiuE9P5s01MIEQ"
@@ -10630,6 +10724,24 @@
       "duration_ms": 259509,
       "name": "Yalan",
       "url": "https://open.spotify.com/track/052gEUAn9upBEIGcAvx5uo"
+    },
+    {
+      "album": {
+        "name": "Yalan G\u00fcl\u00fc\u015flerin",
+        "url": "https://open.spotify.com/album/0oPOJdtMYt3MRJnZPWespa"
+      },
+      "artists": [
+        {
+          "name": "Kubilay Kar\u00e7a",
+          "url": "https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150947,
+      "name": "Yalan G\u00fcl\u00fc\u015flerin",
+      "url": "https://open.spotify.com/track/15qYhvJYiaGAfx4lPM5av5"
     },
     {
       "album": {
@@ -10969,6 +11081,24 @@
     },
     {
       "album": {
+        "name": "Yard\u0131m Et Allah'\u0131m",
+        "url": "https://open.spotify.com/album/0rnL3k08JC32o3XTXRE0KT"
+      },
+      "artists": [
+        {
+          "name": "Emre Fel",
+          "url": "https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209375,
+      "name": "Yard\u0131m Et Allah'\u0131m",
+      "url": "https://open.spotify.com/track/1JFHri01CDWtfgEoCHgGGp"
+    },
+    {
+      "album": {
         "name": "Yarem",
         "url": "https://open.spotify.com/album/2cVkr3JnyqqACqhK4s0wm4"
       },
@@ -11158,6 +11288,24 @@
       "duration_ms": 217411,
       "name": "Yaz\u0131k",
       "url": "https://open.spotify.com/track/1GjtJVlRPkOReKbEGv8yqM"
+    },
+    {
+      "album": {
+        "name": "Ya\u015famak Dedikleri",
+        "url": "https://open.spotify.com/album/6Z2WdZY50GQdM8hKdTyzRU"
+      },
+      "artists": [
+        {
+          "name": "Melek Mosso",
+          "url": "https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184024,
+      "name": "Ya\u015famak Dedikleri",
+      "url": "https://open.spotify.com/track/6APlItDovOg6C9vkOSqF7H"
     },
     {
       "album": {
@@ -11474,7 +11622,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 270337,
       "name": "Yine Ayr\u0131l\u0131k",
       "url": "https://open.spotify.com/track/6o9OF2yk8aotpdC9BBQ8fx"
@@ -11828,7 +11976,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 173124,
       "name": "Zor",
       "url": "https://open.spotify.com/track/0tuOP51T4wijydu8Bq8aKb"

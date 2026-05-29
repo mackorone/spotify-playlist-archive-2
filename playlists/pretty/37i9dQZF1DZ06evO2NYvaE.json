@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 52314,
+  "num_followers": 52353,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahTigAAAAABZPDW3yHncWdLx9wdbeH1r",
+  "snapshot_id": "ahY0AAAAAABEX/ZMfWB2aWY6sP3Ur0xB",
   "tracks": [
     {
       "added_at": null,
@@ -343,30 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
-        "url": "https://open.spotify.com/album/7KkQ2wX2VoNoEyFCfRzHwO"
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
       },
       "artists": [
         {
-          "name": "2XKO",
-          "url": "https://open.spotify.com/artist/2jexkdFS1qPCzcyeOqq2fq"
-        },
-        {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        },
-        {
-          "name": "Courtney LaPlante",
-          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
-        },
-        {
-          "name": "Joe Ford",
-          "url": "https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF"
         }
       ],
-      "duration_ms": 231848,
-      "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
-      "url": "https://open.spotify.com/track/75AOHT6wkAr1XzaXTZiK6o"
+      "duration_ms": 208399,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/1l2AhmjfTTmo5lxTej3XcJ"
     },
     {
       "added_at": null,
@@ -423,18 +411,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fear of Fear",
-        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
+        "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
+        "url": "https://open.spotify.com/album/7KkQ2wX2VoNoEyFCfRzHwO"
       },
       "artists": [
         {
+          "name": "2XKO",
+          "url": "https://open.spotify.com/artist/2jexkdFS1qPCzcyeOqq2fq"
+        },
+        {
           "name": "Spiritbox",
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        },
+        {
+          "name": "Courtney LaPlante",
+          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+        },
+        {
+          "name": "Joe Ford",
+          "url": "https://open.spotify.com/artist/32rwroseSEZ7dEwooAUikF"
         }
       ],
-      "duration_ms": 208399,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/1l2AhmjfTTmo5lxTej3XcJ"
+      "duration_ms": 231848,
+      "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
+      "url": "https://open.spotify.com/track/75AOHT6wkAr1XzaXTZiK6o"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 236320,
-      "name": "Everything's Eventual",
-      "url": "https://open.spotify.com/track/1YhdBg2KGOcFZ4XJkm7Ttv"
+      "duration_ms": 337212,
+      "name": "The Beauty of Suffering",
+      "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 337212,
-      "name": "The Beauty of Suffering",
-      "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
+      "duration_ms": 236320,
+      "name": "Everything's Eventual",
+      "url": "https://open.spotify.com/track/1YhdBg2KGOcFZ4XJkm7Ttv"
     },
     {
       "added_at": null,

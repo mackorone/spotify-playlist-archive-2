@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,977 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,986 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 24 | [AMISTA](https://open.spotify.com/track/1kJyDcBrZ7rSKnFtKc82vm) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [TRINIDAD BENDITA](https://open.spotify.com/album/3MPeQFXj8sDLFf0jWkClyT) | 2:57 |
 | 25 | [LINDOS RECUERDOS](https://open.spotify.com/track/4TOFbtRgXpWRnfC2qFfYtW) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [LINDOS RECUERDOS](https://open.spotify.com/album/2gXWrKNLjcZTi51GepYx3C) | 3:16 |
 | 26 | [QUÉ LÍO](https://open.spotify.com/track/5vDhrXCNTkyahObQwZOYL9) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [QUÉ LÍO](https://open.spotify.com/album/6FXL5Y6vlq2nWuubKZymog) | 2:12 |
-| 27 | [Mojando la Rata](https://open.spotify.com/track/7tHxrtb5BDkO5tWYPQjQDq) | [El Chonta](https://open.spotify.com/artist/70bAyvM0itNRD0c45wtxcY) | [Mojando la Rata](https://open.spotify.com/album/15bt6PFpsI6L8WvdewLtqs) | 2:50 |
+| 27 | [Mojando la Rata](https://open.spotify.com/track/3eN3bAGtPltnMfnUwX0qMp) | [El Chonta](https://open.spotify.com/artist/70bAyvM0itNRD0c45wtxcY) | [Mojando la Rata](https://open.spotify.com/album/30AUGobu2HiSkQAHn9MFqN) | 2:50 |
 | 28 | [Destino Final](https://open.spotify.com/track/2E4TYekUduml1DWIqQWNcj) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Destino Final](https://open.spotify.com/album/66BS1FKL1YeuRLQo5Y5fMQ) | 2:53 |
 | 29 | [Ozono](https://open.spotify.com/track/4acvrfbXrDPFQNNDnFZnpC) | [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII), [maikol el insoportable](https://open.spotify.com/artist/3VM367sQBq9n6bsyu5OWQr) | [Ozono](https://open.spotify.com/album/0Yh9K0Fo5hLl92tEmP0g7y) | 4:04 |
 | 30 | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbL1Fl8vdBUba.md) - [plain]
 | 49 | [TU SANCHO](https://open.spotify.com/track/6eLQXa6uk2EW8drsiKbABZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [111XPANTIA](https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy) | 2:57 |
 | 50 | [Doma](https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:08 |
 
-Snapshot ID: `Mapi0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Mau0UAAAAAAAAAAAAAAAAAAAAAAAAGVu`

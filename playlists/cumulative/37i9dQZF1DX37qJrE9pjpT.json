@@ -724,7 +724,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 145471,
       "name": "Cautious",
       "url": "https://open.spotify.com/track/3gor8zmqid6n4APo4IgpbF"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 258604,
       "name": "Hii Hapa",
       "url": "https://open.spotify.com/track/6OdlGVgbF5r7ZGEnZg42pb"
@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 211373,
       "name": "Leo Ni Leo",
       "url": "https://open.spotify.com/track/1qSR9BFCODz6yDMKgimJqQ"
@@ -2304,6 +2304,24 @@
       "duration_ms": 289593,
       "name": "Loverboy Chronicles (I.D.I.S)",
       "url": "https://open.spotify.com/track/5fksMgr5uKN7brQRvUJDcP"
+    },
+    {
+      "album": {
+        "name": "Mademu",
+        "url": "https://open.spotify.com/album/2eaRetrtLeB5mWsuuchzAo"
+      },
+      "artists": [
+        {
+          "name": "Country Wizzy",
+          "url": "https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65650,
+      "name": "Mademu",
+      "url": "https://open.spotify.com/track/0D7cNcWcLELfQt8bs5TnyY"
     },
     {
       "album": {
@@ -2577,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "MEMORIES",
+        "url": "https://open.spotify.com/album/5g2k02OL1B0kaTlikEhOhs"
+      },
+      "artists": [
+        {
+          "name": "Izzo Bizness",
+          "url": "https://open.spotify.com/artist/6W098BENpm3dJ0jmHW2tVF"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136082,
+      "name": "MEMORIES",
+      "url": "https://open.spotify.com/track/3O7vU8PNDpXC7jOZcKfRnj"
+    },
+    {
+      "album": {
         "name": "Metaphysics",
         "url": "https://open.spotify.com/album/5X38tXa491DTPdAug4cC9S"
       },
@@ -2658,7 +2694,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 248625,
       "name": "MISOSI",
       "url": "https://open.spotify.com/track/1hpQ4Wg223QTSkg2PNP0Ob"
@@ -4713,6 +4749,24 @@
     },
     {
       "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/5ur7dRu6bzETOvO3nGG5Zz"
+      },
+      "artists": [
+        {
+          "name": "Chidi Beenz",
+          "url": "https://open.spotify.com/artist/4GFb7Q4qF3Jg3lchid0aYJ"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/6pfxZpqFY0CsY6kbqoBYuV"
+    },
+    {
+      "album": {
         "name": "Step",
         "url": "https://open.spotify.com/album/6etPKI16rigpOtRpHLwZCC"
       },
@@ -4732,6 +4786,24 @@
       "duration_ms": 224615,
       "name": "Step",
       "url": "https://open.spotify.com/track/4znb2uP2JB0Ws5cIM4ryC9"
+    },
+    {
+      "album": {
+        "name": "Monsoon Winds",
+        "url": "https://open.spotify.com/album/0lQZGx9gzrFVtbVtSm2NHN"
+      },
+      "artists": [
+        {
+          "name": "MEX CORTEZ",
+          "url": "https://open.spotify.com/artist/1jw2gjV9qktnWQIhOniCyc"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150598,
+      "name": "Stepping Up",
+      "url": "https://open.spotify.com/track/5UJEsd7fK8bUxQSqn6Bi2s"
     },
     {
       "album": {

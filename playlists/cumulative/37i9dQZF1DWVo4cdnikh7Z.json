@@ -8845,6 +8845,32 @@
     },
     {
       "album": {
+        "name": "Peddi (TAMIL)",
+        "url": "https://open.spotify.com/album/6tWoIDMjOu8viFbRRgcQQ5"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "A. R. Ameen",
+          "url": "https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273131,
+      "name": "Chikiri Chikiri (TAMIL)",
+      "url": "https://open.spotify.com/track/1G6kDbeQBMyqoLesxzuWZ7"
+    },
+    {
+      "album": {
         "name": "Coolie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3roEiD2gUP1LHPHwUPbXs1"
       },
@@ -15710,10 +15736,40 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 228062,
       "name": "Hellallallo (From \"Peddi\") [TAMIL]",
       "url": "https://open.spotify.com/track/1JivCyV3Gq8qsyoo26szcd"
+    },
+    {
+      "album": {
+        "name": "Peddi (TAMIL)",
+        "url": "https://open.spotify.com/album/6tWoIDMjOu8viFbRRgcQQ5"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Andrea Jeremiah",
+          "url": "https://open.spotify.com/artist/5yoqPvofOHrBc3Z6VZyTsj"
+        },
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        },
+        {
+          "name": "Kavinger Snekan",
+          "url": "https://open.spotify.com/artist/6m7d54vAgcoNxlUH6Dq4S6"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228062,
+      "name": "Hellallallo (TAMIL)",
+      "url": "https://open.spotify.com/track/7Kmgfpko6bZsBW8lefvBGx"
     },
     {
       "album": {
@@ -29235,6 +29291,32 @@
     },
     {
       "album": {
+        "name": "Peddi (TAMIL)",
+        "url": "https://open.spotify.com/album/6tWoIDMjOu8viFbRRgcQQ5"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222143,
+      "name": "Massa Massa (TAMIL)",
+      "url": "https://open.spotify.com/track/4hZRtSaFaz3vPhn4xr8VI8"
+    },
+    {
+      "album": {
         "name": "Masth Malaika (From \"Mark\") (Tamil)",
         "url": "https://open.spotify.com/album/0pRYFmZ4f4jp5NlZenXPhh"
       },
@@ -32367,6 +32449,36 @@
     },
     {
       "album": {
+        "name": "Naan Dhaan King (From \"Con City\")",
+        "url": "https://open.spotify.com/album/2nLJJDslr3hUyf5l3o0ny2"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        },
+        {
+          "name": "Kelithee",
+          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
+        },
+        {
+          "name": "Lalitha Sudha",
+          "url": "https://open.spotify.com/artist/7zz7YQYYCQnZ7cnzHke7uc"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246085,
+      "name": "Naan Dhaan King (From \"Con City\")",
+      "url": "https://open.spotify.com/track/5SDwitI1BgPTITtDz0359V"
+    },
+    {
+      "album": {
         "name": "Good Night (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtdCzPkXkjtTkYev6EgPQ"
       },
@@ -35134,7 +35246,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 223902,
       "name": "Nenjukulla Vaadi",
       "url": "https://open.spotify.com/track/1zhBAnLZagbvqQHgb6Oyb8"
@@ -42776,6 +42888,32 @@
       "duration_ms": 266134,
       "name": "Rai Rai Raa Raa (From \"Peddi\") [TAMIL]",
       "url": "https://open.spotify.com/track/7ISILI8vaVUdpETDbXuPtk"
+    },
+    {
+      "album": {
+        "name": "Peddi (TAMIL)",
+        "url": "https://open.spotify.com/album/6tWoIDMjOu8viFbRRgcQQ5"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Yugendran Vasudevan",
+          "url": "https://open.spotify.com/artist/3UVLcqHc3pOMsWiZv2MeIZ"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266134,
+      "name": "Rai Rai Raa Raa (TAMIL)",
+      "url": "https://open.spotify.com/track/7cSkc5AH2xD79I0LyHGxwH"
     },
     {
       "album": {
@@ -52495,6 +52633,32 @@
     },
     {
       "album": {
+        "name": "Tomato Thakkali (From \"Parimala and Co\")",
+        "url": "https://open.spotify.com/album/26kodaQaFe1u5sB9H2RmVT"
+      },
+      "artists": [
+        {
+          "name": "foxn",
+          "url": "https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Varma",
+          "url": "https://open.spotify.com/artist/5hEh76Ax65FbT7UHe5QCWW"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122400,
+      "name": "Tomato Thakkali - From \"Parimala and Co\"",
+      "url": "https://open.spotify.com/track/3tEJgHsp6JSGa1dHwI4s1w"
+    },
+    {
+      "album": {
         "name": "PT Sir (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4WNjau8eovU1oVdxusZZsi"
       },
@@ -56124,7 +56288,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 286900,
       "name": "Vaaraan Dei (From \"The Paradise\") (Tamil)",
       "url": "https://open.spotify.com/track/4xWLjhJW3HuEHGuSqF7EL8"
@@ -58516,7 +58680,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 77714,
       "name": "Vishwanath & Sons Teaser Theme (From \"Vishwanath & Sons\")(Tamil)",
       "url": "https://open.spotify.com/track/55IWVMVRSaOnYIreICP88S"
@@ -60510,7 +60674,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 189587,
       "name": "Yenjaamiye (From \"Manithan Deivamagalam\")",
       "url": "https://open.spotify.com/track/6r1BXXimclHWiF2w4xmbDr"
@@ -60684,7 +60848,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 157333,
       "name": "Yeyya Yemmane",
       "url": "https://open.spotify.com/track/7kKGwvh5S6TAwzQp2NSzyx"

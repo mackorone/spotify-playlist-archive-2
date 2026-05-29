@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 ### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:1zEHBw7xQf0drXZagRkciU">Molly Santana</a>
+> The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:5dxav2nP7izQBQYPNjv0CQ">Young Roddo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,904 likes - 76 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,957 likes - 76 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Stranger](https://open.spotify.com/track/593fLceKvKYdySkrBkk0dQ) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [While Y'all Wait](https://open.spotify.com/album/59Q7UtDMOgMRRxXoltnfTw) | 3:15 |
-| 2 | [R.I.P Peace](https://open.spotify.com/track/0HGiBth3dhLw2NFF0M3AsS) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [R.I.P Peace](https://open.spotify.com/album/4pDROA57uQG30SDAwEt4Lo) | 2:55 |
-| 3 | [is this my life](https://open.spotify.com/track/4iogvjEcNuWaPzQP8eu4uG) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [is this my life](https://open.spotify.com/album/4TdQqnYKKsou7eHxpPGrRK) | 3:49 |
-| 4 | [Max Payne](https://open.spotify.com/track/4wcB0hfse716EJV75lx0ja) | [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Max Payne](https://open.spotify.com/album/5vNus37H5UHv6JqNgSnVdc) | 2:23 |
-| 5 | [Not Regular](https://open.spotify.com/track/4Vkmnu2jGQ7x7CYQSEsXBL) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Molly And Her Week Of Wonders](https://open.spotify.com/album/6ReZujjjI3rWa2P9Qd2YhT) | 2:12 |
-| 6 | [Dumb wit it \(get in dea\) \- Remix](https://open.spotify.com/track/3u2QIFXPyss9Kf5Fux8DVi) | [Geaux Teezy](https://open.spotify.com/artist/5D54Rqnqk6veVQv3rNoUAz), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Dumb wit it \(get in dea\) \[Remix\]](https://open.spotify.com/album/4B9ffC4jRpKIUG7R2cYKSE) | 2:42 |
-| 7 | [EOTD](https://open.spotify.com/track/7tjyrCQXM5F3zbptkdIxha) | [Paris Price](https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7) | [EOTD](https://open.spotify.com/album/2Loj1ovS818yGxEcVwKuuq) | 2:15 |
-| 8 | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/track/1HmpFowQR9dq4wzNdfzmnY) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/album/6tKVKWZYZ9zqwUC6qBU8r5) | 2:51 |
-| 9 | [holon?](https://open.spotify.com/track/2Po44AeaMfcBhb0vJQTouh) | [saveaj](https://open.spotify.com/artist/3D0dxmpnWREvNCxjsY1Bjv) | [holon?](https://open.spotify.com/album/2mbDefdJbbdCxP7DGDfkBp) | 2:04 |
-| 10 | [The Spokesman](https://open.spotify.com/track/4gKr3DugzfrLMQRXeVnVRD) | [HeadHuncho Amir](https://open.spotify.com/artist/1DRED2ii095cFu6EY1YkNm) | [The Spokesman](https://open.spotify.com/album/2bHtxcCLXxjc7ChsbWaP7h) | 2:33 |
-| 11 | [Butta B](https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Smaxk Season 2](https://open.spotify.com/album/6NnP5Ldvs5ICrNy5c3SjPr) | 1:51 |
-| 12 | [No Bad Grades](https://open.spotify.com/track/2YXsOWn9HfF7VbahUPDLUA) | [Young Roddo](https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ) | [No Bad Grades](https://open.spotify.com/album/5BPNYbrxnsSBnXZl9Zt9ey) | 1:51 |
+| 1 | [No Bad Grades](https://open.spotify.com/track/2YXsOWn9HfF7VbahUPDLUA) | [Young Roddo](https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ) | [No Bad Grades](https://open.spotify.com/album/5BPNYbrxnsSBnXZl9Zt9ey) | 1:51 |
+| 2 | [Stranger](https://open.spotify.com/track/593fLceKvKYdySkrBkk0dQ) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [While Y'all Wait](https://open.spotify.com/album/59Q7UtDMOgMRRxXoltnfTw) | 3:15 |
+| 3 | [R.I.P Peace](https://open.spotify.com/track/0HGiBth3dhLw2NFF0M3AsS) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [R.I.P Peace](https://open.spotify.com/album/4pDROA57uQG30SDAwEt4Lo) | 2:55 |
+| 4 | [is this my life](https://open.spotify.com/track/4iogvjEcNuWaPzQP8eu4uG) | [Angelo Mota](https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF) | [is this my life](https://open.spotify.com/album/4TdQqnYKKsou7eHxpPGrRK) | 3:49 |
+| 5 | [Max Payne](https://open.spotify.com/track/4wcB0hfse716EJV75lx0ja) | [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Max Payne](https://open.spotify.com/album/5vNus37H5UHv6JqNgSnVdc) | 2:23 |
+| 6 | [Not Regular](https://open.spotify.com/track/4Vkmnu2jGQ7x7CYQSEsXBL) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Molly And Her Week Of Wonders](https://open.spotify.com/album/6ReZujjjI3rWa2P9Qd2YhT) | 2:12 |
+| 7 | [Dumb wit it \(get in dea\) \- Remix](https://open.spotify.com/track/3u2QIFXPyss9Kf5Fux8DVi) | [Geaux Teezy](https://open.spotify.com/artist/5D54Rqnqk6veVQv3rNoUAz), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [Dumb wit it \(get in dea\) \[Remix\]](https://open.spotify.com/album/4B9ffC4jRpKIUG7R2cYKSE) | 2:42 |
+| 8 | [EOTD](https://open.spotify.com/track/7tjyrCQXM5F3zbptkdIxha) | [Paris Price](https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7) | [EOTD](https://open.spotify.com/album/2Loj1ovS818yGxEcVwKuuq) | 2:15 |
+| 9 | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/track/1HmpFowQR9dq4wzNdfzmnY) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/album/6tKVKWZYZ9zqwUC6qBU8r5) | 2:51 |
+| 10 | [holon?](https://open.spotify.com/track/2Po44AeaMfcBhb0vJQTouh) | [saveaj](https://open.spotify.com/artist/3D0dxmpnWREvNCxjsY1Bjv) | [holon?](https://open.spotify.com/album/2mbDefdJbbdCxP7DGDfkBp) | 2:04 |
+| 11 | [The Spokesman](https://open.spotify.com/track/4gKr3DugzfrLMQRXeVnVRD) | [HeadHuncho Amir](https://open.spotify.com/artist/1DRED2ii095cFu6EY1YkNm) | [The Spokesman](https://open.spotify.com/album/2bHtxcCLXxjc7ChsbWaP7h) | 2:33 |
+| 12 | [Butta B](https://open.spotify.com/track/2r7PywSTrql5YQFMUi5PlA) | [Fatt Smaxk](https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX) | [Smaxk Season 2](https://open.spotify.com/album/6NnP5Ldvs5ICrNy5c3SjPr) | 1:51 |
 | 13 | [Sexxy](https://open.spotify.com/track/7DGr8RxLyy0ofCtSLmZtxW) | [Breskii](https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw) | [Sexxy](https://open.spotify.com/album/49OujRbYAHaPrUj6kFBqRg) | 3:17 |
 | 14 | [Money Chaser](https://open.spotify.com/track/3BwIVdMZBhd27SPjK4f4KO) | [Igzotic](https://open.spotify.com/artist/3bJNQ4lEGU6tAzTVaAnvMy) | [Life](https://open.spotify.com/album/40KKY2K973ZJDExOdDGQlJ) | 3:12 |
 | 15 | [OH](https://open.spotify.com/track/3BK0DfyqsvHbgsaempT8Bq) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [OH](https://open.spotify.com/album/2cagDANf723xW5ORlIghw5) | 2:07 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 75 | [Supastar Livin](https://open.spotify.com/track/0b3ZxqM1X83BekMU5scZZ8) | [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Supastar Livin](https://open.spotify.com/album/5GxX1rWrlqthjPpNsV6TrV) | 1:36 |
 | 76 | [Moonlight](https://open.spotify.com/track/0VMZb81qhvwWI4w3OVydSk) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [McKenzie 2.0](https://open.spotify.com/album/0Jkbl6Acbfo87qL80QYJcu) | 2:00 |
 
-Snapshot ID: `AAAAACvkZLFhEfwgZivMnb646ait5WbY`
+Snapshot ID: `AAAAAFGsaYk3WQOocNnN4xoJn6IVPqhz`

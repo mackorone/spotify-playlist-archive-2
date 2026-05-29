@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > The 18th Seoul Jazz Festival 2026, 5/22\(FRI\) @올림픽공원
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,216 likes - 20 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,204 likes - 20 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 19 | [The Rush \(feat\. Nia Long & Amaarae\)](https://open.spotify.com/track/0tfXPXdQkxVjMhQtF68MnZ) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Nia Long](https://open.spotify.com/artist/6BM4RlXELVhbs7U0H1OlnH) | [The Age of Pleasure](https://open.spotify.com/album/6llaxVKt3c3lZGLGPFBK6b) | 2:43 |
 | 20 | [Dance Apocalyptic](https://open.spotify.com/track/3dUMuxNadGxCE3qXuhCwqa) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Electric Lady](https://open.spotify.com/album/3bnHtSmmsgJiG82hGCmsq9) | 3:25 |
 
-Snapshot ID: `AAAAAM1EzUevljyaYq6mmOQynVgZR8D6`
+Snapshot ID: `AAAAAKQUAmuRNicTrQh0zxvOEn4ip2N1`

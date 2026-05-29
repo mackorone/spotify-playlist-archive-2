@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 Ultimo in cover",
+  "description": "I brani italiani di cui siamo ossessionati \ud83c\udfa7 MACE, Colapesce e Salmo in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -420,6 +420,36 @@
       "duration_ms": 190670,
       "name": "ALIBI",
       "url": "https://open.spotify.com/track/0Eq30jnDPYeCTDyBxaS1SN"
+    },
+    {
+      "album": {
+        "name": "Allontanarsi",
+        "url": "https://open.spotify.com/album/3mOLGFLUq7uZLuNUs2hVSD"
+      },
+      "artists": [
+        {
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Leslie Sackey",
+          "url": "https://open.spotify.com/artist/6SGzX8DcyP060Goqwkkta4"
+        },
+        {
+          "name": "WADO",
+          "url": "https://open.spotify.com/artist/3JVz1HR9jLWVJIOCmxCQAl"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Allontanarsi",
+      "url": "https://open.spotify.com/track/4iD3sf1zdwawfK2rczhu7C"
     },
     {
       "album": {
@@ -1360,6 +1390,24 @@
       "duration_ms": 184250,
       "name": "Black Nirvana",
       "url": "https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6"
+    },
+    {
+      "album": {
+        "name": "RYAN TED",
+        "url": "https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172505,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6kfLv8uKJNS5DfodQAzpco"
     },
     {
       "album": {
@@ -4166,7 +4214,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 178650,
       "name": "Gatti",
       "url": "https://open.spotify.com/track/7HdVSBG6fqXYyEbizxIQwJ"
@@ -4406,6 +4454,24 @@
       "duration_ms": 171393,
       "name": "HANGOVER (feat. Baby Gang)",
       "url": "https://open.spotify.com/track/0VHXkwgvHRKOc7OF2l8mLo"
+    },
+    {
+      "album": {
+        "name": "HIPPY YA YO (PER\u00d2 ANCHE NO)",
+        "url": "https://open.spotify.com/album/0hMv0V7Hl7Sx7ZdJtFbpLJ"
+      },
+      "artists": [
+        {
+          "name": "J-AX",
+          "url": "https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173217,
+      "name": "HIPPY YA YO (PER\u00d2 ANCHE NO)",
+      "url": "https://open.spotify.com/track/46trdAZWe5whe77YWstw4G"
     },
     {
       "album": {
@@ -5110,7 +5176,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 198033,
       "name": "L'amore \u00e8 / L'amore va",
       "url": "https://open.spotify.com/track/34SFDPte4y11mPVZ9HPcG5"
@@ -6192,7 +6258,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 187647,
       "name": "MALE NECESSARIO",
       "url": "https://open.spotify.com/track/4kK4uxstY0lTdun71200Al"
@@ -6268,6 +6334,28 @@
       "duration_ms": 169672,
       "name": "Maledetto Ti Amo",
       "url": "https://open.spotify.com/track/2R2J0hUuHHJiMoenqhoaV2"
+    },
+    {
+      "album": {
+        "name": "Maltempo",
+        "url": "https://open.spotify.com/album/2wq6w01RZkfNBxQzFJnvLz"
+      },
+      "artists": [
+        {
+          "name": "BALTIMORA",
+          "url": "https://open.spotify.com/artist/0rRRvEq07vdUc9QgaK46Fl"
+        },
+        {
+          "name": "Emma Nolde",
+          "url": "https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Maltempo",
+      "url": "https://open.spotify.com/track/3H2LhTgQFKJLZmw6jKVD6D"
     },
     {
       "album": {
@@ -7825,6 +7913,24 @@
     },
     {
       "album": {
+        "name": "Ora d'aria",
+        "url": "https://open.spotify.com/album/2VvPKwIsIA9YeERq4ijr1G"
+      },
+      "artists": [
+        {
+          "name": "Rizzo",
+          "url": "https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192510,
+      "name": "Ora d'aria",
+      "url": "https://open.spotify.com/track/4ldjglZiJZLsXbYwy2F4wJ"
+    },
+    {
+      "album": {
         "name": "OSSESSIONE",
         "url": "https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK"
       },
@@ -8477,6 +8583,24 @@
     },
     {
       "album": {
+        "name": "PER SEMPRE S\u00cc",
+        "url": "https://open.spotify.com/album/4YU8yCSiVxq4JhN4o7AVCs"
+      },
+      "artists": [
+        {
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166080,
+      "name": "Poesia",
+      "url": "https://open.spotify.com/track/4dlqBCHOnYqI6N3fTsEdYo"
+    },
+    {
+      "album": {
         "name": "Poesie Clandestine",
         "url": "https://open.spotify.com/album/1MMVWEgrIylF7v0er9IjWm"
       },
@@ -8684,7 +8808,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 174222,
       "name": "PRIMADONNA",
       "url": "https://open.spotify.com/track/1FvUDxu2HRYXBlEq98fRbQ"
@@ -8706,6 +8830,24 @@
       "duration_ms": 177120,
       "name": "PRONTO COME VA",
       "url": "https://open.spotify.com/track/6CvJtmzjDkWCeGt4nT2l1O"
+    },
+    {
+      "album": {
+        "name": "PROTAGONISTA",
+        "url": "https://open.spotify.com/album/6HZx5MIvEBOOgBeoRFIG78"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "PROTAGONISTA",
+      "url": "https://open.spotify.com/track/6lrbF1t8HGDej6albSiFdX"
     },
     {
       "album": {
@@ -9202,7 +9344,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 190985,
       "name": "Resta Con Me",
       "url": "https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK"
@@ -9296,7 +9438,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 182758,
       "name": "ROLLING STONES",
       "url": "https://open.spotify.com/track/0qequjSpKvUJLpIteBbkEM"
@@ -9390,6 +9532,28 @@
       "duration_ms": 192989,
       "name": "Rossetto e caff\u00e8",
       "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
+    },
+    {
+      "album": {
+        "name": "sabato sera (feat. Enrico Nigiotti)",
+        "url": "https://open.spotify.com/album/0JPqbUEKqS5oDwQn4WqN74"
+      },
+      "artists": [
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        },
+        {
+          "name": "Enrico Nigiotti",
+          "url": "https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183499,
+      "name": "sabato sera (feat. Enrico Nigiotti)",
+      "url": "https://open.spotify.com/track/4KVkqDpNaSW9av9kKPRMoe"
     },
     {
       "album": {
@@ -10274,7 +10438,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 159704,
       "name": "SOTTO SOTTO",
       "url": "https://open.spotify.com/track/4Ae2GTlWYGzY7Xa4dvDDCy"
@@ -10720,10 +10884,28 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 166967,
       "name": "Summer Funk",
       "url": "https://open.spotify.com/track/4OG2jxShgHmEHSwjSuxZjY"
+    },
+    {
+      "album": {
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/4mrKLwrqsKD8vskUhIT3wm"
+      },
+      "artists": [
+        {
+          "name": "Federica Abbate",
+          "url": "https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192493,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/3seFRBH0poqCNPUA00XYaX"
     },
     {
       "album": {
@@ -11082,6 +11264,28 @@
       "duration_ms": 207313,
       "name": "TU CON CHI FAI L'AMORE",
       "url": "https://open.spotify.com/track/06ZV0oxrmuVf6rThhGtxxy"
+    },
+    {
+      "album": {
+        "name": "Tu cosa fai questa sera",
+        "url": "https://open.spotify.com/album/1NChOjk3hNwwCYgiGEbSPh"
+      },
+      "artists": [
+        {
+          "name": "Noemi",
+          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
+        },
+        {
+          "name": "Vito Salamanca",
+          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169687,
+      "name": "Tu cosa fai questa sera",
+      "url": "https://open.spotify.com/track/3oyJa5AEBL1gS3ALTo0rWg"
     },
     {
       "album": {
@@ -11463,6 +11667,24 @@
     },
     {
       "album": {
+        "name": "una possibilit\u00e0",
+        "url": "https://open.spotify.com/album/6iOlmC9rQGWx2gfTt4TWzv"
+      },
+      "artists": [
+        {
+          "name": "Malika Ayane",
+          "url": "https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200655,
+      "name": "una possibilit\u00e0",
+      "url": "https://open.spotify.com/track/6LuvAzX3TmaQI6oXm2DWVh"
+    },
+    {
+      "album": {
         "name": "Una scatola di mogano - MERCURIO",
         "url": "https://open.spotify.com/album/6Jyt0QXVx5m2UgdNmYqLVA"
       },
@@ -11514,7 +11736,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 217458,
       "name": "uomo che cade",
       "url": "https://open.spotify.com/track/3vwObRd71oUa145riRt42O"
@@ -11598,6 +11820,24 @@
       "duration_ms": 200316,
       "name": "VACCI PIANO (feat. Rkomi)",
       "url": "https://open.spotify.com/track/4vF4VnzL47EVsZZEVsEfbF"
+    },
+    {
+      "album": {
+        "name": "VAFFA*AMORE",
+        "url": "https://open.spotify.com/album/46jdR3PctmC8zIu06hpvt8"
+      },
+      "artists": [
+        {
+          "name": "mew",
+          "url": "https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174762,
+      "name": "VAFFA*AMORE",
+      "url": "https://open.spotify.com/track/64OZcsJXegk5359S2nCe9D"
     },
     {
       "album": {

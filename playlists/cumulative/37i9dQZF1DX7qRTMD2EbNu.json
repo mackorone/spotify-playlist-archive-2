@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover: Joey B",
+  "description": "Hottest bars coming live from the 233.  Cover: Black Sherif",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -200,6 +200,24 @@
       "duration_ms": 180059,
       "name": "20",
       "url": "https://open.spotify.com/track/2QgOpD1FsePyvDhx1THvjS"
+    },
+    {
+      "album": {
+        "name": "THE MENACE III",
+        "url": "https://open.spotify.com/album/0P1Tvbm1ngswRgkEW6MDER"
+      },
+      "artists": [
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/1TZTzScoHaAraKnPgo5FWa"
     },
     {
       "album": {
@@ -1882,7 +1900,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 164845,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/26GUuKYLIn6sLEQ157UaHD"
@@ -6719,6 +6737,24 @@
     },
     {
       "album": {
+        "name": "Fortune or Flesh",
+        "url": "https://open.spotify.com/album/26YmX4DY9BHW07E7E4rMHp"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158967,
+      "name": "Fortune or Flesh",
+      "url": "https://open.spotify.com/track/7CZJauTPqkka9J17QjmAVp"
+    },
+    {
+      "album": {
         "name": "POWER",
         "url": "https://open.spotify.com/album/1X17Tuo9Yvn28rQ5mS3i6a"
       },
@@ -8445,6 +8481,24 @@
     },
     {
       "album": {
+        "name": "Hey Mama",
+        "url": "https://open.spotify.com/album/1tjPJL6pwn9i3btQEq0p3H"
+      },
+      "artists": [
+        {
+          "name": "Kofi Jamar",
+          "url": "https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227234,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/1EKcOgAsQBmzx6THx4mDNu"
+    },
+    {
+      "album": {
         "name": "THE ART OF TRAPPIN'",
         "url": "https://open.spotify.com/album/4YDFwbuVyPsSkUOY3avOVm"
       },
@@ -8772,7 +8826,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 165816,
       "name": "I Dunno",
       "url": "https://open.spotify.com/track/2Htc29UdUp5L5amSN3NUHw"
@@ -17218,6 +17272,24 @@
       "duration_ms": 174500,
       "name": "SWAG (feat. O'Kenneth, Reggie, Jay Bahd & Kawabanga)",
       "url": "https://open.spotify.com/track/1Gn3pwGB9TLj56eElRY2a2"
+    },
+    {
+      "album": {
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190270,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc"
     },
     {
       "album": {

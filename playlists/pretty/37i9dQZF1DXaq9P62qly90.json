@@ -1,6 +1,6 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 15826,
+  "num_followers": 15829,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
+        "name": "Jahta Beat: The Lotus Memoirs",
+        "url": "https://open.spotify.com/album/61GQtLkHRdK3jmnm9aoAFZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Drez",
+          "url": "https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Nectar Drop",
+      "url": "https://open.spotify.com/track/3QbtJmJeeh8JE5EtAD1Eh0"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
         "name": "Sacred Sound",
         "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 216476,
       "name": "Give Thanks (feat. Stick Figure)",
       "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
-        "name": "Jahta Beat: The Lotus Memoirs",
-        "url": "https://open.spotify.com/album/61GQtLkHRdK3jmnm9aoAFZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Drez",
-          "url": "https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Nectar Drop",
-      "url": "https://open.spotify.com/track/3QbtJmJeeh8JE5EtAD1Eh0"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -324,7 +324,7 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 266746,
+      "duration_ms": 260000,
       "name": "Angels Above Me",
       "url": "https://open.spotify.com/track/77RvTKNAlz36ZmcuphwBw4"
     },
@@ -859,18 +859,18 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Call on the Wolves",
-        "url": "https://open.spotify.com/album/3ne5IY3MK0FoaxXccvBvR4"
+        "name": "Red Road Soul",
+        "url": "https://open.spotify.com/album/1KEbOLz0XhCP7l0GFjeA3Y"
       },
       "artists": [
         {
-          "name": "Dustin Thomas",
-          "url": "https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK"
+          "name": "Tubby Love",
+          "url": "https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG"
         }
       ],
-      "duration_ms": 333818,
-      "name": "Call on the Wolves",
-      "url": "https://open.spotify.com/track/1h1rjRbZwiVc1y2jNqYphX"
+      "duration_ms": 315690,
+      "name": "Red Road Soul",
+      "url": "https://open.spotify.com/track/066Dx92oWS0hI10RzJEItj"
     }
   ],
   "unique_name": "Peace Of Mind",

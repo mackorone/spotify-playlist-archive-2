@@ -2,7 +2,7 @@
 
 ### [Instrumental Jazz Standards](https://open.spotify.com/playlist/37i9dQZF1DX5S7hzwhDSyV)
 
-> The best instrumental versions of the american songbook classics\. Cover: Stan Getz
+> The best instrumental versions of the American songbook classics\. Cover: Miles Davis
 
 147 songs - 13 hr 39 min
 

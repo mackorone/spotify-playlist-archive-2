@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > I Want Your Job with Camille Allen is a podcast to get on your RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,451 likes - 10 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,452 likes - 10 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

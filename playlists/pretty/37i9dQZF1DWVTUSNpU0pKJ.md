@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTUSNpU0pKJ.md) - [plain]
 
 > Explore the surreal world of Satie, from serene Gymnopédies, to gothic dances and poetic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,180 likes - 64 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,227 likes - 64 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTUSNpU0pKJ.md) - [plain]
 | 35 | [Caresse](https://open.spotify.com/track/6lq2yvsPob0TxdNXjr2mEA) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Klara Kormendi](https://open.spotify.com/artist/5V2ay7vEghiqgb7NFFiPEZ) | [Satie: Piano Works, Vol\. 2](https://open.spotify.com/album/7F1NNGigWXQh2xSPBbAsuu) | 1:36 |
 | 36 | [4 Ogives: No\. 4, —](https://open.spotify.com/track/31RKI4k53wOjoYbOns5g3e) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Nicolas Horvath](https://open.spotify.com/artist/6EyYsJlQEb3uHINVS5EIsB) | [Satie: Complete Piano Works, Vol\. 1](https://open.spotify.com/album/5DaScjOON0kH81IPcB0q9x) | 1:43 |
 | 37 | [Danses gothiques: IV\. À propos de Saint Bernard et de Sainte Lucie](https://open.spotify.com/track/2j8BwYotFifAJDTlEJKZLD) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Cristina Ariagno](https://open.spotify.com/artist/1P2QbCWRfx3t99tZSUdL18) | [Satie: Complete Piano Works, Vol\. 1/2](https://open.spotify.com/album/7s1M6SFVsxjL2v0KJIn7XX) | 0:41 |
-| 38 | [Satie: 3 Gymnopédies: No\. 2, Lent et triste](https://open.spotify.com/track/39QeyjMTIE6nDOSrjp6QFs) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Anne Queffélec](https://open.spotify.com/artist/0VzF0TRE4XHQiTqDrEmvW1) | [Satie: 3 Gymnopédies \- 6 Gnossiennes](https://open.spotify.com/album/6BOanRxku6tpFhAVHLzUom) | 2:54 |
+| 38 | [Satie: 3 Gymnopédies: No\. 2, Lent et triste](https://open.spotify.com/track/39QeyjMTIE6nDOSrjp6QFs) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Anne Queffélec](https://open.spotify.com/artist/0VzF0TRE4XHQiTqDrEmvW1) | [Satie: 3 Gymnopédies \- 6 Gnossiennes](https://open.spotify.com/album/6BOanRxku6tpFhAVHLzUom) | 2:56 |
 | 39 | [Trois morceaux en forme de poire: Manière de commencement\. Allez modérément](https://open.spotify.com/track/5CSuBypVEpmyCNAqjhJcxS) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jeroen van Veen](https://open.spotify.com/artist/7o7D77HMHvg1sAmtryKoVy), [Sandra van Veen](https://open.spotify.com/artist/5XJSsrzamG4lBDvjQBpFyZ) | [Satie: Complete Works for Piano Four Hands](https://open.spotify.com/album/7LfrJ8NvK6TRDHCWr7FXWt) | 3:54 |
 | 40 | [Danses gothiques: III\. En faveur d'un malheureux](https://open.spotify.com/track/76EN82CgKZAAH4UULV8p0E) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Cristina Ariagno](https://open.spotify.com/artist/1P2QbCWRfx3t99tZSUdL18) | [Satie: Complete Piano Works, Vol\. 1/2](https://open.spotify.com/album/7s1M6SFVsxjL2v0KJIn7XX) | 0:18 |
 | 41 | [Petite ouverture à danser \(Ed\. Caby\)](https://open.spotify.com/track/3GBc9ag2obN7hTxwCmMLRK) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Reinbert de Leeuw](https://open.spotify.com/artist/0630rYsw1mCdNfl8E3qqm2) | [The Best Of Erik Satie](https://open.spotify.com/album/05y1lpyULEMWCblqB3HGHA) | 2:20 |

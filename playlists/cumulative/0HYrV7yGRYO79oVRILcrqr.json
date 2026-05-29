@@ -2921,6 +2921,24 @@
     },
     {
       "album": {
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/1oqKyK55DAyyTmCdwn37Lj"
+      },
+      "artists": [
+        {
+          "name": "KuF",
+          "url": "https://open.spotify.com/artist/6qQu1ULU2QNlyWwZSoZnAj"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "Final Descent",
+      "url": "https://open.spotify.com/track/0BLoSiH5Wzq5wT4gXWDDzI"
+    },
+    {
+      "album": {
         "name": "Teb",
         "url": "https://open.spotify.com/album/7x4BJYFARd9zXvEA5h7ZiC"
       },

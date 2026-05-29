@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain]
 
 > Kickstart your sundowner party with these hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,534 likes - 51 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,641 likes - 51 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain]
 | 50 | [Zara Zara Touch Me](https://open.spotify.com/track/15BmNnMZTnPTawkFaJv1JR) | [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [Earl Edgar](https://open.spotify.com/artist/42hSYLTMRQgvLZnE1E5YyS), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Race \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZA52EwvGmwTQvHaLujhry) | 4:45 |
 | 51 | [Aavan Jaavan \(From "WAR 2"\)](https://open.spotify.com/track/0ayku1IzLHuA3cHY4HxOCN) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Aavan Jaavan \(From "WAR 2"\)](https://open.spotify.com/album/7ka8N9k2D4VLQy6Gx9rmDA) | 3:45 |
 
-Snapshot ID: `AAAAANqKjtF+PJLYCQ0TO6LmViF4B+vm`
+Snapshot ID: `AAAAAD3LuOl5dHW71RKHxjBf/npTCc3t`

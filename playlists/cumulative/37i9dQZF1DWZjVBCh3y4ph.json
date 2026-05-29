@@ -2000,6 +2000,24 @@
     {
       "album": {
         "name": "Doudou",
+        "url": "https://open.spotify.com/album/2ENTiYOiln9OaHzW5v4JZL"
+      },
+      "artists": [
+        {
+          "name": "Loriane",
+          "url": "https://open.spotify.com/artist/0hH55WShgMkLwKf6ekJBd5"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168384,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/7aKAKakAdPDbZmcUeFlGat"
+    },
+    {
+      "album": {
+        "name": "Doudou",
         "url": "https://open.spotify.com/album/2ZoUm0yBjaLMlmBCD3VDGc"
       },
       "artists": [

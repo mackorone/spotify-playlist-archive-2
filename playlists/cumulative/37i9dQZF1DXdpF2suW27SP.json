@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Richie Campbell entra na zona. ",
+  "description": "Nenny entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -468,6 +468,28 @@
       "duration_ms": 257146,
       "name": "300",
       "url": "https://open.spotify.com/track/6lElXo5x9oyqvIUcG7gP7d"
+    },
+    {
+      "album": {
+        "name": "33 Idade de Cristo",
+        "url": "https://open.spotify.com/album/4CSdzmg1SACDanKqzlPxkC"
+      },
+      "artists": [
+        {
+          "name": "Kroa",
+          "url": "https://open.spotify.com/artist/2cBkZING16JqKkEN7KEDBC"
+        },
+        {
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207900,
+      "name": "33 Idade de Cristo",
+      "url": "https://open.spotify.com/track/4KFdhXIAQaSPsy6e7CV7yr"
     },
     {
       "album": {
@@ -4923,6 +4945,28 @@
     },
     {
       "album": {
+        "name": "CONSUMIDO",
+        "url": "https://open.spotify.com/album/40eO2Pobn0PnbMLqR9v8ha"
+      },
+      "artists": [
+        {
+          "name": "Yung Juse",
+          "url": "https://open.spotify.com/artist/7HelyGdEBoc25C7inwIXVJ"
+        },
+        {
+          "name": "Taye",
+          "url": "https://open.spotify.com/artist/4pyoE2qv3W6imuF8BSe7QA"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "CONSUMIDO",
+      "url": "https://open.spotify.com/track/3cbS7t4i10qhBUQMo94NYo"
+    },
+    {
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/59FAPnQlBADxOZsaaHkdXb"
       },
@@ -7288,7 +7332,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 161825,
       "name": "F*ck Up & Make Up",
       "url": "https://open.spotify.com/track/1FEzeoaYDpolu8pYZAnqpg"
@@ -9262,7 +9306,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 188593,
       "name": "Interestelar",
       "url": "https://open.spotify.com/track/0itv2Wy3TruEEZy4dRsu32"
@@ -19259,6 +19303,24 @@
     },
     {
       "album": {
+        "name": "Elephant In The Room",
+        "url": "https://open.spotify.com/album/55aRlTcoJzesDzpi4qlbua"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/1Umi992NaKD6NoFkUujkNS"
+    },
+    {
+      "album": {
         "name": "Entrelinhas",
         "url": "https://open.spotify.com/album/4qzAJABWAoSIy6LoAebV1u"
       },
@@ -19530,7 +19592,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 171428,
       "name": "Tudo Pra Ti",
       "url": "https://open.spotify.com/track/20m3sAIvxJE7C3rrJ4LC2L"

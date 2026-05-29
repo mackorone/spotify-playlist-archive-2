@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "DANDARA en portada.",
+  "description": "Trucha en portada \u2605",
   "name": "alt.ar",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 209847,
       "name": "Algo mejor",
       "url": "https://open.spotify.com/track/0SSdLqGCBGqMEN0u5Rwasp"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 226840,
       "name": "Amor Loco",
       "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
@@ -836,6 +836,24 @@
       "duration_ms": 193321,
       "name": "amor, perd\u00f3n.",
       "url": "https://open.spotify.com/track/0Y6o4cTly9sNigViZFlWrj"
+    },
+    {
+      "album": {
+        "name": "Amores Como El Nuestro",
+        "url": "https://open.spotify.com/album/5buOKY4eTPj7DMIOrZpxdA"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128823,
+      "name": "Amores Como El Nuestro",
+      "url": "https://open.spotify.com/track/3BR2IsY0nBj7mmrKudsYV8"
     },
     {
       "album": {
@@ -3208,7 +3226,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 183703,
       "name": "DOS PARTES",
       "url": "https://open.spotify.com/track/1rk15TMH2O0wP09zOvZB5u"
@@ -3230,6 +3248,24 @@
       "duration_ms": 163000,
       "name": "Dossier",
       "url": "https://open.spotify.com/track/04hBXrNXKdlYGmPZ2orD7o"
+    },
+    {
+      "album": {
+        "name": "Ilusiones de Amor",
+        "url": "https://open.spotify.com/album/1S692zlCrtcSsgeG0Yk5zz"
+      },
+      "artists": [
+        {
+          "name": "Trucha",
+          "url": "https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163258,
+      "name": "Dossier",
+      "url": "https://open.spotify.com/track/1HuU83yceEAnz8XaQRS6CF"
     },
     {
       "album": {
@@ -5916,7 +5952,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 215314,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0eiWOf3mNBSBEC5GmtqahL"
@@ -6853,6 +6889,28 @@
     },
     {
       "album": {
+        "name": "QUIZ\u00c1S LAS HORAS SUMAN MESES",
+        "url": "https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        },
+        {
+          "name": "imbn",
+          "url": "https://open.spotify.com/artist/4G8NhGa4RLX6Vyw5Cfb09o"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "miradas",
+      "url": "https://open.spotify.com/track/6ZtWvkZlK3upvmuGVddKiL"
+    },
+    {
+      "album": {
         "name": "Lungolinea.",
         "url": "https://open.spotify.com/album/7LnHiIlbFFtkaKdv1DTEYh"
       },
@@ -7786,7 +7844,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 177773,
       "name": "no voy a estar ma\u00f1ana",
       "url": "https://open.spotify.com/track/0MOKVcgy5F8WwYfQ62Py4c"
@@ -8538,7 +8596,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 162245,
       "name": "pasarella \ud83d\udc60",
       "url": "https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215"
@@ -9632,7 +9690,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 103718,
       "name": "quitate los Jeans",
       "url": "https://open.spotify.com/track/3x6gtoIxAcKd8HNYxxN85n"
@@ -9810,7 +9868,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 159607,
       "name": "RID\u00cdCULO",
       "url": "https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z"
@@ -10675,6 +10733,28 @@
     },
     {
       "album": {
+        "name": "GUFI",
+        "url": "https://open.spotify.com/album/5dCVeOVUW25JhhYCiPaXJr"
+      },
+      "artists": [
+        {
+          "name": "YUNG PRADO",
+          "url": "https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I"
+        },
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/7cCH0NftLAPzwLwKHMSyks"
+    },
+    {
+      "album": {
         "name": "tabaco para armar",
         "url": "https://open.spotify.com/album/6syGymcIFVr2BMjdbxWSRP"
       },
@@ -11232,7 +11312,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 194500,
       "name": "Todos Bailando",
       "url": "https://open.spotify.com/track/6tDPkNfdck1Dolwb3u1sij"
@@ -12104,7 +12184,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 165026,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/11YOPWfUXX4Q1GNgTNt8oW"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Ave",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Anangga",
   "name": "JIVVA",
   "tracks": [
     {
@@ -495,6 +495,28 @@
     },
     {
       "album": {
+        "name": "bahaya",
+        "url": "https://open.spotify.com/album/2pts6HMbOtjIOOGxyJcO2k"
+      },
+      "artists": [
+        {
+          "name": "Anangga",
+          "url": "https://open.spotify.com/artist/09EkKAZ2TNloIJNijWlXLL"
+        },
+        {
+          "name": "Alva Gracia",
+          "url": "https://open.spotify.com/artist/3XIfUQhOkgdfKXzL6bUX07"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "bahaya",
+      "url": "https://open.spotify.com/track/39SwRu8Wr8R9O0YRZd9URP"
+    },
+    {
+      "album": {
         "name": "Balada Ibukota",
         "url": "https://open.spotify.com/album/2yrrZUTQincnscYbyorV3j"
       },
@@ -802,7 +824,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 183370,
       "name": "BYE",
       "url": "https://open.spotify.com/track/2qCXWSd8AtolyVTZRatjZH"
@@ -1891,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "Hebat",
+        "url": "https://open.spotify.com/album/17bxZESXTRsi0wRaeNGSjb"
+      },
+      "artists": [
+        {
+          "name": "Lalahuta",
+          "url": "https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316373,
+      "name": "Hebat",
+      "url": "https://open.spotify.com/track/02XdoATGetRvgq7CmpFAd8"
+    },
+    {
+      "album": {
         "name": "Here, I Said 'Thank You'",
         "url": "https://open.spotify.com/album/0hQtQdnbzwAbgCWEKWxRRq"
       },
@@ -2682,7 +2722,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 219115,
       "name": "Lancang",
       "url": "https://open.spotify.com/track/4EOEKMXnS6XW3ArVKIAvTe"
@@ -3536,6 +3576,28 @@
       "duration_ms": 207272,
       "name": "Rasa",
       "url": "https://open.spotify.com/track/3h9E91kdGF9HvvUORvr0DL"
+    },
+    {
+      "album": {
+        "name": "Rasa dan Rahasia",
+        "url": "https://open.spotify.com/album/3AyTFDYzpvayXcBBtgjgEj"
+      },
+      "artists": [
+        {
+          "name": "Wizzow",
+          "url": "https://open.spotify.com/artist/2AtpVBJtiIqNDKGyMJ1Kfq"
+        },
+        {
+          "name": "Anggun Dae",
+          "url": "https://open.spotify.com/artist/59VJhih06fQKi3Sw7ukh9J"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195006,
+      "name": "Rasa dan Rahasia",
+      "url": "https://open.spotify.com/track/4tgp7eC73VwyHqpqugVIfd"
     },
     {
       "album": {
@@ -4558,7 +4620,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 199500,
       "name": "Teman Saja?",
       "url": "https://open.spotify.com/track/0SKL2yqIcbrJV667qtKgCa"

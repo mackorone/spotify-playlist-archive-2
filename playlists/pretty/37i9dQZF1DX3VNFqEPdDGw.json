@@ -1,6 +1,6 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Diljit Dosanjh",
-  "num_followers": 248875,
+  "num_followers": 248880,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
-        "name": "Jaan Jaan",
-        "url": "https://open.spotify.com/album/2nWzZ2Xbihu2S24TDNq3XD"
-      },
-      "artists": [
-        {
-          "name": "Happy Raikoti",
-          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Jaan Jaan",
-      "url": "https://open.spotify.com/track/5BJOzVKikgE07uvP68ZMEv"
-    },
-    {
-      "added_at": "2026-05-22 11:52:14",
-      "album": {
         "name": "Panjeban",
         "url": "https://open.spotify.com/album/05IH45QvIWWy7g77Cd9uzB"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 200883,
       "name": "Panjeban",
       "url": "https://open.spotify.com/track/5UpDw777uj0nvw6dtDRjw7"
+    },
+    {
+      "added_at": "2026-05-22 11:52:14",
+      "album": {
+        "name": "Jaan Jaan",
+        "url": "https://open.spotify.com/album/2nWzZ2Xbihu2S24TDNq3XD"
+      },
+      "artists": [
+        {
+          "name": "Happy Raikoti",
+          "url": "https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Jaan Jaan",
+      "url": "https://open.spotify.com/track/5BJOzVKikgE07uvP68ZMEv"
     },
     {
       "added_at": "2026-05-22 11:52:14",
@@ -951,22 +951,22 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
-        "name": "DHUAN",
-        "url": "https://open.spotify.com/album/5vrlJjWppDzOzicwirN8xr"
+        "name": "Botal Free",
+        "url": "https://open.spotify.com/album/1vei2VbuhZnaamSk1Hm5Gk"
       },
       "artists": [
         {
-          "name": "Janta Toor",
-          "url": "https://open.spotify.com/artist/2vqw9iwCdfBW0CAKm2hc3K"
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
         },
         {
-          "name": "Mirroronly",
-          "url": "https://open.spotify.com/artist/5Z4xc8enAcMaWp5xkRA5ej"
+          "name": "Samreen Kaur",
+          "url": "https://open.spotify.com/artist/2qs5jeVexOK7g4Al41nmJU"
         }
       ],
-      "duration_ms": 136562,
-      "name": "DHUAN",
-      "url": "https://open.spotify.com/track/0droaWCQrKLAmnqbzu022D"
+      "duration_ms": 213034,
+      "name": "Botal Free",
+      "url": "https://open.spotify.com/track/6HwXCoXON5nCMhnBXghejo"
     },
     {
       "added_at": "2026-05-22 11:52:14",
@@ -991,22 +991,22 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
-        "name": "Botal Free",
-        "url": "https://open.spotify.com/album/1vei2VbuhZnaamSk1Hm5Gk"
+        "name": "DHUAN",
+        "url": "https://open.spotify.com/album/5vrlJjWppDzOzicwirN8xr"
       },
       "artists": [
         {
-          "name": "Jordan Sandhu",
-          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+          "name": "Janta Toor",
+          "url": "https://open.spotify.com/artist/2vqw9iwCdfBW0CAKm2hc3K"
         },
         {
-          "name": "Samreen Kaur",
-          "url": "https://open.spotify.com/artist/2qs5jeVexOK7g4Al41nmJU"
+          "name": "Mirroronly",
+          "url": "https://open.spotify.com/artist/5Z4xc8enAcMaWp5xkRA5ej"
         }
       ],
-      "duration_ms": 213034,
-      "name": "Botal Free",
-      "url": "https://open.spotify.com/track/6HwXCoXON5nCMhnBXghejo"
+      "duration_ms": 136562,
+      "name": "DHUAN",
+      "url": "https://open.spotify.com/track/0droaWCQrKLAmnqbzu022D"
     },
     {
       "added_at": "2026-05-22 11:52:14",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
+        "name": "Tu Te Sharab",
+        "url": "https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Tu Te Sharab",
+      "url": "https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9"
+    },
+    {
+      "added_at": "2026-05-22 11:52:14",
+      "album": {
         "name": "Leeran",
         "url": "https://open.spotify.com/album/3NMsrH8WfExCju9HqkIsOE"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 163887,
       "name": "32 Dand",
       "url": "https://open.spotify.com/track/1fbswZJRi9UJq35TJmtJ7c"
-    },
-    {
-      "added_at": "2026-05-22 11:52:14",
-      "album": {
-        "name": "Tu Te Sharab",
-        "url": "https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48"
-      },
-      "artists": [
-        {
-          "name": "Jordan Sandhu",
-          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
-        },
-        {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Tu Te Sharab",
-      "url": "https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9"
     },
     {
       "added_at": "2026-05-22 11:52:14",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
-        "name": "Teri Jatti",
-        "url": "https://open.spotify.com/album/0Zk3kP2aRCnklHxq9Gs4q1"
-      },
-      "artists": [
-        {
-          "name": "Ammy Virk",
-          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
-        }
-      ],
-      "duration_ms": 155759,
-      "name": "Teri Jatti",
-      "url": "https://open.spotify.com/track/4z2tsk5xr3lgk9oMOHqixc"
-    },
-    {
-      "added_at": "2026-05-22 11:52:14",
-      "album": {
         "name": "Goli - Chapter 2",
         "url": "https://open.spotify.com/album/3WjmUxyK9VVFI7gF2rf7eE"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 178536,
       "name": "Goli - Chapter 2",
       "url": "https://open.spotify.com/track/1VN0qoO0RdMwq4BpwfatIj"
+    },
+    {
+      "added_at": "2026-05-22 11:52:14",
+      "album": {
+        "name": "Teri Jatti",
+        "url": "https://open.spotify.com/album/0Zk3kP2aRCnklHxq9Gs4q1"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        }
+      ],
+      "duration_ms": 155759,
+      "name": "Teri Jatti",
+      "url": "https://open.spotify.com/track/4z2tsk5xr3lgk9oMOHqixc"
     },
     {
       "added_at": "2026-05-22 11:52:14",
@@ -1363,30 +1363,6 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
-        "name": "V8",
-        "url": "https://open.spotify.com/album/4yzyfXlckctM5u8I9Mslk2"
-      },
-      "artists": [
-        {
-          "name": "Jass Bajwa",
-          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
-        },
-        {
-          "name": "Mandeep Maavi",
-          "url": "https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1"
-        },
-        {
-          "name": "Black Virus",
-          "url": "https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "25/26",
-      "url": "https://open.spotify.com/track/2eHjnrKW0jAJ0JwjBMW9Zv"
-    },
-    {
-      "added_at": "2026-05-22 11:52:14",
-      "album": {
         "name": "Bicep",
         "url": "https://open.spotify.com/album/1efcXsOLzlbqHSQPMdwh7G"
       },
@@ -1411,6 +1387,30 @@
       "duration_ms": 164347,
       "name": "Bicep",
       "url": "https://open.spotify.com/track/2jRWVoOQDZJmXmUQJWnHqi"
+    },
+    {
+      "added_at": "2026-05-22 11:52:14",
+      "album": {
+        "name": "V8",
+        "url": "https://open.spotify.com/album/4yzyfXlckctM5u8I9Mslk2"
+      },
+      "artists": [
+        {
+          "name": "Jass Bajwa",
+          "url": "https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx"
+        },
+        {
+          "name": "Mandeep Maavi",
+          "url": "https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1"
+        },
+        {
+          "name": "Black Virus",
+          "url": "https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "25/26",
+      "url": "https://open.spotify.com/track/2eHjnrKW0jAJ0JwjBMW9Zv"
     },
     {
       "added_at": "2026-05-22 11:52:14",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
-        "name": "Back to Roots",
-        "url": "https://open.spotify.com/album/0QyDEaqYnehKA956tyQmm9"
-      },
-      "artists": [
-        {
-          "name": "Sharry Mann",
-          "url": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
-        },
-        {
-          "name": "Nick Dhammu",
-          "url": "https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "Jatt Nazaare Lenda",
-      "url": "https://open.spotify.com/track/65kOgRJjUVaVmA4wzqcFQ7"
-    },
-    {
-      "added_at": "2026-05-22 11:52:14",
-      "album": {
         "name": "Pecha",
         "url": "https://open.spotify.com/album/4ouuAI41txiRAil0rkw9WY"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 171562,
       "name": "Pecha",
       "url": "https://open.spotify.com/track/4jvbVD8kFzezKVjEBEXIOa"
+    },
+    {
+      "added_at": "2026-05-22 11:52:14",
+      "album": {
+        "name": "Back to Roots",
+        "url": "https://open.spotify.com/album/0QyDEaqYnehKA956tyQmm9"
+      },
+      "artists": [
+        {
+          "name": "Sharry Mann",
+          "url": "https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i"
+        },
+        {
+          "name": "Nick Dhammu",
+          "url": "https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e"
+        }
+      ],
+      "duration_ms": 195348,
+      "name": "Jatt Nazaare Lenda",
+      "url": "https://open.spotify.com/track/65kOgRJjUVaVmA4wzqcFQ7"
     },
     {
       "added_at": "2026-05-22 11:52:14",
@@ -1903,8 +1903,8 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
-        "name": "Main Viyah Nahi Karona Tere Naal ( From \"Main Viyah Nahi Karona Tere Naal\")",
-        "url": "https://open.spotify.com/album/6zXWozfozYjPp38rv20Ood"
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/22Q14TeolmZFvnE7HjH503"
       },
       "artists": [
         {
@@ -1912,13 +1912,13 @@
           "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
         },
         {
-          "name": "The Laddi Gill",
-          "url": "https://open.spotify.com/artist/02ll3hRcqWioHuUSonLpeD"
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
         }
       ],
-      "duration_ms": 155908,
-      "name": "Main Viyah Nahi Karona Tere Naal ( From \"Main Viyah Nahi Karona Tere Naal\")",
-      "url": "https://open.spotify.com/track/3yrfPnfs9hnxGVZk6DOmNn"
+      "duration_ms": 188571,
+      "name": "Wang Tut Gayi",
+      "url": "https://open.spotify.com/track/4zKsTcWcNpe62JvN2UKQ75"
     },
     {
       "added_at": "2026-05-22 11:52:14",
@@ -2007,8 +2007,8 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
-        "name": "Imagination",
-        "url": "https://open.spotify.com/album/22Q14TeolmZFvnE7HjH503"
+        "name": "Main Viyah Nahi Karona Tere Naal ( From \"Main Viyah Nahi Karona Tere Naal\")",
+        "url": "https://open.spotify.com/album/6zXWozfozYjPp38rv20Ood"
       },
       "artists": [
         {
@@ -2016,13 +2016,13 @@
           "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
         },
         {
-          "name": "Desi Crew",
-          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+          "name": "The Laddi Gill",
+          "url": "https://open.spotify.com/artist/02ll3hRcqWioHuUSonLpeD"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Wang Tut Gayi",
-      "url": "https://open.spotify.com/track/4zKsTcWcNpe62JvN2UKQ75"
+      "duration_ms": 155908,
+      "name": "Main Viyah Nahi Karona Tere Naal ( From \"Main Viyah Nahi Karona Tere Naal\")",
+      "url": "https://open.spotify.com/track/3yrfPnfs9hnxGVZk6DOmNn"
     },
     {
       "added_at": "2026-05-22 11:52:14",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2026-05-22 11:52:14",
       "album": {
-        "name": "XPENSIVE",
-        "url": "https://open.spotify.com/album/6uYJ79s2t3NPe3Mkyb33oZ"
-      },
-      "artists": [
-        {
-          "name": "Amrit Maan",
-          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
-        }
-      ],
-      "duration_ms": 168104,
-      "name": "SUPREME",
-      "url": "https://open.spotify.com/track/5nUAZKw9lVbhKfWvWc5hFm"
-    },
-    {
-      "added_at": "2026-05-22 11:52:14",
-      "album": {
         "name": "Red Eyes",
         "url": "https://open.spotify.com/album/1dEfQJHIyCDrgPOC1LitIu"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 163124,
       "name": "Red Eyes",
       "url": "https://open.spotify.com/track/5GZ85mz2Xp6aWuly0RXVTM"
+    },
+    {
+      "added_at": "2026-05-22 11:52:14",
+      "album": {
+        "name": "XPENSIVE",
+        "url": "https://open.spotify.com/album/6uYJ79s2t3NPe3Mkyb33oZ"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        }
+      ],
+      "duration_ms": 168104,
+      "name": "SUPREME",
+      "url": "https://open.spotify.com/track/5nUAZKw9lVbhKfWvWc5hFm"
     },
     {
       "added_at": "2026-05-22 11:52:14",

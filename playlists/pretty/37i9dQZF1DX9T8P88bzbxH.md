@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One Night Only\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,042 likes - 23 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,039 likes - 23 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 22 | [Sabotage](https://open.spotify.com/track/2AD9ENIeGBDjNNqzynaoiK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:34 |
 | 23 | [Letter To My 13 Year Old Self](https://open.spotify.com/track/59Y1f3y8FuLjadWY9Bx2LC) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:22 |
 
-Snapshot ID: `AAAAAC5XElsTjyNp+XbIoLgBFgQinit7`
+Snapshot ID: `AAAAADFvy+9xplj3yFwwol9eBuT3h2pM`

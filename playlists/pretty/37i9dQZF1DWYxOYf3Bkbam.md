@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,203 likes - 90 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,216 likes - 90 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 11 | [Alma Guaraní](https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm) | [Correntinas II](https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct) | 2:36 |
 | 12 | [Puerto Tirol](https://open.spotify.com/track/7Mp9QTrbgBI8GLewXcj4Rh) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 2:39 |
 | 13 | [Las Tres Marias](https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW) | 2:00 |
-| 14 | [El Guachito](https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI) | [Los Capos del Chamamé](https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn) | [El Guachito](https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM) | 3:00 |
-| 15 | [Kilometro 11](https://open.spotify.com/track/3pxUPb40pVruGNixcXTkWv) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:42 |
-| 16 | [Mi Primer Amor \- Versión Chamamé](https://open.spotify.com/track/6MUOEPhADhWrwYk1JQLNQ6) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Mi Primer Amor \- Version Chamamé](https://open.spotify.com/album/6FApf1TbGRBTBuGqyhB3GE) | 2:43 |
+| 14 | [Mi Primer Amor \- Versión Chamamé](https://open.spotify.com/track/6MUOEPhADhWrwYk1JQLNQ6) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Mi Primer Amor \- Version Chamamé](https://open.spotify.com/album/6FApf1TbGRBTBuGqyhB3GE) | 2:43 |
+| 15 | [El Guachito](https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI) | [Los Capos del Chamamé](https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn) | [El Guachito](https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM) | 3:00 |
+| 16 | [Kilometro 11](https://open.spotify.com/track/3pxUPb40pVruGNixcXTkWv) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:42 |
 | 17 | [Seleccion de temas enganchados](https://open.spotify.com/track/1aAee98bRu8jazbnklPoKJ) | [Pancho Escalada](https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 3:30 |
 | 18 | [Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos \- En Vivo](https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5) | [Los Majestuosos Del Chamamé](https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp) | [Enganchados en Vivo Desde San José Feliciano / Nacional, Vol\. 2](https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ) | 7:35 |
 | 19 | [Borracho Sin Destino](https://open.spotify.com/track/0pFq0riT31rbg0tnzJLdE0) | [Los Palmareños](https://open.spotify.com/artist/5Yvc9iYsNE0RCQHQgjLfP5) | [Los Palmareños 23 Años](https://open.spotify.com/album/4jjcFw60u6HhcxRaaW4TPj) | 4:19 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 89 | [Arroyo San Juan](https://open.spotify.com/track/0uQA7csjc7B3uiylwKBaa4) | [Crescencio Lezcano](https://open.spotify.com/artist/4HzGhAGdDYZmg8Jmwo6Zoy) | [Lluvia, Campo Y Chamamé](https://open.spotify.com/album/2useZrRLmYZ3528GbUmYTy) | 2:52 |
 | 90 | [Te sigo queriendo](https://open.spotify.com/track/6K7HQklyjHMsxqjMMXXRyB) | [Avelino Flores](https://open.spotify.com/artist/0CMySmSVU7SkK2NOycL4Mj) | [Chamame los 100 mejores temas Vol 3](https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc) | 2:32 |
 
-Snapshot ID: `AAAAAFmXpKGdUB0GfzS3CjTUwmM+eD6s`
+Snapshot ID: `AAAAALyPvP4iQye+hcqHcRJY1gg6vZVi`

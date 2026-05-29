@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123908,
+  "num_followers": 123905,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVa6I+hxmI7U1vkX82pbpU+YurjKZK",
+  "snapshot_id": "AAAVbE2jwJZ5wb82a/tDo39yZZXb8VAX",
   "tracks": [
+    {
+      "added_at": "2026-05-28 18:55:44",
+      "album": {
+        "name": "Never Look Back",
+        "url": "https://open.spotify.com/album/4TZ2vabqb8E0I97jVrU8Tu"
+      },
+      "artists": [
+        {
+          "name": "Tripleset",
+          "url": "https://open.spotify.com/artist/6nKHLNZu1sk9nuRvGe6TMC"
+        }
+      ],
+      "duration_ms": 173777,
+      "name": "Never Look Back",
+      "url": "https://open.spotify.com/track/7xH37SCST6ixrQeDKZeCKl"
+    },
     {
       "added_at": "2026-05-27 15:06:04",
       "album": {

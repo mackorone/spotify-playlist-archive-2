@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Muse",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Tom Morello, Serj Tankian, Roman Morello",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -609,6 +609,32 @@
     },
     {
       "album": {
+        "name": "Adjourn It (feat. Serj Tankian & Roman Morello)",
+        "url": "https://open.spotify.com/album/6mox7WL9GR6w6eRru10oDp"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        },
+        {
+          "name": "Roman Morello",
+          "url": "https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167600,
+      "name": "Adjourn It (feat. Serj Tankian & Roman Morello)",
+      "url": "https://open.spotify.com/track/5HmYPdTqF0gnH3X7tXo9Qn"
+    },
+    {
+      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/3WBDEQI5gMkdueEQqeQ2hn"
       },
@@ -1088,7 +1114,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 222813,
       "name": "Angel Engine",
       "url": "https://open.spotify.com/track/5InETjWziqKqqCL0Y7fcZ6"
@@ -1910,6 +1936,24 @@
       "duration_ms": 157383,
       "name": "Big Big Heart",
       "url": "https://open.spotify.com/track/2UIPHybNEBhBw8ZaknoGN3"
+    },
+    {
+      "album": {
+        "name": "Big Bubble Bullshit",
+        "url": "https://open.spotify.com/album/7vTbrwVZyaaKKdy3WXDFEc"
+      },
+      "artists": [
+        {
+          "name": "April Art",
+          "url": "https://open.spotify.com/artist/5SIU6vqESwt2muetzRSX7f"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162272,
+      "name": "Big Bubble Bullshit",
+      "url": "https://open.spotify.com/track/3IrYlonc2IEb5kzVfLHpUQ"
     },
     {
       "album": {
@@ -4603,6 +4647,24 @@
     },
     {
       "album": {
+        "name": "Don't Quit It",
+        "url": "https://open.spotify.com/album/44Pic6IYn7RxHwugvse3OQ"
+      },
+      "artists": [
+        {
+          "name": "Twin Atlantic",
+          "url": "https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208281,
+      "name": "Don't Quit It",
+      "url": "https://open.spotify.com/track/36GbhhClyQWVzlcdON7KlQ"
+    },
+    {
+      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/7IYoCNrv8RXKCbVqphx8E9"
       },
@@ -5257,6 +5319,24 @@
     },
     {
       "album": {
+        "name": "All In Now",
+        "url": "https://open.spotify.com/album/1fxFvw95DNNmV4Zzoc5pvC"
+      },
+      "artists": [
+        {
+          "name": "Dogstar",
+          "url": "https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189853,
+      "name": "Exalted",
+      "url": "https://open.spotify.com/track/7Jc61eo8kHWrBOZN6FUkmt"
+    },
+    {
+      "album": {
         "name": "ARE YOU AFRAID?",
         "url": "https://open.spotify.com/album/4msMPh2YozzboHtKNTWIuZ"
       },
@@ -5533,6 +5613,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Home",
+        "url": "https://open.spotify.com/album/0cXV8hOdsb0rMLMI3wQtm2"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153243,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/0nMNemKXYbTMCeU2eRxrwn"
+    },
+    {
+      "album": {
         "name": "Fight Alone",
         "url": "https://open.spotify.com/album/4jp9GnDugbgpD4fXtF5MN9"
       },
@@ -5610,6 +5708,24 @@
       "duration_ms": 227061,
       "name": "Fighting Gravity",
       "url": "https://open.spotify.com/track/7tYh4dP3EkOhqvr2bcg5iK"
+    },
+    {
+      "album": {
+        "name": "Fix This Crack",
+        "url": "https://open.spotify.com/album/7y0klO66zUzn3DtpCHUVig"
+      },
+      "artists": [
+        {
+          "name": "Fury In The Slaughterhouse",
+          "url": "https://open.spotify.com/artist/6eswqLpEm9AhDIguGzRswT"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "Fix This Crack",
+      "url": "https://open.spotify.com/track/1tA7zl17I0Cnr8qjpKQ9c8"
     },
     {
       "album": {
@@ -7158,7 +7274,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 546385,
       "name": "Hello Heaven, Hello",
       "url": "https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i"
@@ -7548,7 +7664,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 215561,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/6oYg5AEWLkfF1jD0UV4DUI"
@@ -7798,7 +7914,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 215200,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/5twpVZhVbh9vEL8FUy60Hi"
@@ -7976,6 +8092,24 @@
       "duration_ms": 180093,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/0isPWROk42n44eKXk8rmrl"
+    },
+    {
+      "album": {
+        "name": "Idle Potential",
+        "url": "https://open.spotify.com/album/5FSgxkPT0JB43UrnXWDkIe"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244906,
+      "name": "Idle Potential",
+      "url": "https://open.spotify.com/track/0YxGjgQYDSbDP1ne5yRHsX"
     },
     {
       "album": {
@@ -8784,7 +8918,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 168485,
       "name": "Land Of Eagerness",
       "url": "https://open.spotify.com/track/5pTJ2bjS6acSBxmdr7LVEi"
@@ -9704,7 +9838,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 161286,
       "name": "L\u00f3tus",
       "url": "https://open.spotify.com/track/18WUGDcMsCDraOWuVICK2H"
@@ -11080,7 +11214,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 166813,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/7xi4ahs8pvQcXU2Rkv16hm"
@@ -11790,7 +11924,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 101564,
       "name": "Partisan",
       "url": "https://open.spotify.com/track/2E3tLNPJRD6weoob4n9qpi"
@@ -11974,6 +12108,24 @@
       "duration_ms": 247716,
       "name": "Plastic Boxes",
       "url": "https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi"
+    },
+    {
+      "album": {
+        "name": "Play Your Games",
+        "url": "https://open.spotify.com/album/1lqgUoNJgAXvWSpnNWwXvh"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195966,
+      "name": "Play Your Games",
+      "url": "https://open.spotify.com/track/7JcDWPlzZWGrzaLaak3UG0"
     },
     {
       "album": {
@@ -12544,6 +12696,24 @@
       "duration_ms": 176249,
       "name": "Rest In Pieces",
       "url": "https://open.spotify.com/track/5r0b7F3MGee7IMeJxP1TKP"
+    },
+    {
+      "album": {
+        "name": "Resurge",
+        "url": "https://open.spotify.com/album/1iqxPyYTSbIaUiVFIGA6cf"
+      },
+      "artists": [
+        {
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196840,
+      "name": "Resurge",
+      "url": "https://open.spotify.com/track/2HaLls9gZTjwAffcUgCmSa"
     },
     {
       "album": {
@@ -14890,7 +15060,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 219512,
       "name": "TELL ME I'M NOT ALONE",
       "url": "https://open.spotify.com/track/0v9DEbGdh91PbdDPFGXkoG"
@@ -17102,7 +17272,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 145800,
       "name": "when we were friends",
       "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
@@ -17624,6 +17794,24 @@
       "duration_ms": 166776,
       "name": "Young & Dumb (feat. Simple Plan)",
       "url": "https://open.spotify.com/track/3mJncxEu2NrKYfRvoWiVfm"
+    },
+    {
+      "album": {
+        "name": "EI8HT",
+        "url": "https://open.spotify.com/album/2YfHoHOnfIc2ilp8YLEDyB"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216670,
+      "name": "Young Again",
+      "url": "https://open.spotify.com/track/4bW61owcCI5jP9gcr65pTb"
     },
     {
       "album": {

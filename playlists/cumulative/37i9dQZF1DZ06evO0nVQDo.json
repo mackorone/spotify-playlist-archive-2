@@ -250,7 +250,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 252857,
       "name": "Air / Earth",
       "url": "https://open.spotify.com/track/1gQXtJnmO1w3LCpBATX6RU"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 153783,
       "name": "Fire / Earth",
       "url": "https://open.spotify.com/track/7Kqi570gTIl6oxQQXpwzCd"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 33000,
       "name": "Receiver",
       "url": "https://open.spotify.com/track/631lOOn4M2iU8MhVM6zChC"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 72096,
       "name": "The Point",
       "url": "https://open.spotify.com/track/3jeCSQI7Wm2luryIfZjV3B"

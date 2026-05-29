@@ -4,7 +4,7 @@
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-125 songs - 5 hr 39 min
+126 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [3,2,1 \(Trust\)](https://open.spotify.com/track/75V2QT70ZsxvjedIhPGscf) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 1:46 | 2023-09-15 | 2023-12-14 |
 | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/track/6YKZThWeKwTze24UqcCw3T) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Act Like You Know \(feat\. Shoreline Mafia\)](https://open.spotify.com/album/79g6lh7jLIAAorMCSKUXCI) | 2:39 | 2025-10-05 |  |
 | [Add It](https://open.spotify.com/track/0xIYGzbDYQLLAHmDtPWaY3) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Add It](https://open.spotify.com/album/6cdiwNAHltVS3FKRWXsism) | 1:40 | 2022-10-28 | 2023-06-26 |
-| [ALL THAT A$$](https://open.spotify.com/track/6kmF2BtLdvkCrkinXCxfmP) | [Keith Turner](https://open.spotify.com/artist/438yboVhqZFEStk5fljvfh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [ALL THAT A$$](https://open.spotify.com/album/0r3QG1Bc5NvShfRne40Jis) | 3:04 | 2026-05-24 |  |
+| [ALL THAT A$$](https://open.spotify.com/track/6kmF2BtLdvkCrkinXCxfmP) | [Keith Turner](https://open.spotify.com/artist/438yboVhqZFEStk5fljvfh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR) | [ALL THAT A$$](https://open.spotify.com/album/0r3QG1Bc5NvShfRne40Jis) | 3:04 | 2026-05-24 | 2026-05-29 |
+| [ALL THAT A$$](https://open.spotify.com/track/2uTKGIYyTDtzl4foXm2qb8) | [Keith Turner](https://open.spotify.com/artist/438yboVhqZFEStk5fljvfh), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [KDDO](https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [ALL THAT A$$](https://open.spotify.com/album/5xeFd90zKWinkCA3vKLVAg) | 3:04 | 2026-05-29 |  |
 | [American Deli \(feat\. Coi Leray\)](https://open.spotify.com/track/2GwOIEVXMZPGEJjSBF7lcp) | [Chavo](https://open.spotify.com/artist/6nlHpSAfPX5rJCuRKF2997), [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Chavo's World 2](https://open.spotify.com/album/0xntyinSE3IRByoQDvTve7) | 3:13 | 2022-10-28 | 2023-01-07 |
 | [Anxiety](https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Anxiety](https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7) | 3:06 | 2022-10-28 |  |
 | [At The Top \(with Kodak Black & Mustard\)](https://open.spotify.com/track/4buaMK8tYXGF7Ca3u8iLtE) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [At The Top](https://open.spotify.com/album/7fQLpnEw13xochCUd776UZ) | 3:01 | 2022-10-28 | 2024-05-24 |

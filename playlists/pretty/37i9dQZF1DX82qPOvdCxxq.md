@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Ochaè
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,834 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,875 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 62 | [Something Greater](https://open.spotify.com/track/1BB08C42ZCxoMa97OgYLi7) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Something Greater](https://open.spotify.com/album/7qUfmnn51RAzZhCCHSoH1V) | 2:42 |
 | 63 | [Bitter Cup](https://open.spotify.com/track/1aC2XHu88jjgv3k6Eumd8C) | [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4), [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Bitter Cup](https://open.spotify.com/album/1MYvXf2utnr7N7ZzEwPsqH) | 2:36 |
 | 64 | [tried & true](https://open.spotify.com/track/3KaDZgcxR2JwFVPNj0MMva) | [Van Buren](https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [tried & true](https://open.spotify.com/album/7LQTfoTrSsfNX50zvi4QfH) | 3:21 |
-| 65 | [oceans](https://open.spotify.com/track/0WJ8b61eOE5AjuHTEeVIte) | [xylin](https://open.spotify.com/artist/0pNQj7BHZzKhOPsCglAVNg), [Jacob Lin](https://open.spotify.com/artist/6DVR8QvYzcYtLif7f3I8op) | [oceans](https://open.spotify.com/album/6p7d9K2cEavpYmbl8Rpivz) | 4:52 |
+| 65 | [oceans](https://open.spotify.com/track/0WJ8b61eOE5AjuHTEeVIte) | [xylin](https://open.spotify.com/artist/0pNQj7BHZzKhOPsCglAVNg) | [oceans](https://open.spotify.com/album/6p7d9K2cEavpYmbl8Rpivz) | 4:52 |
 | 66 | [Can I Get a Witness \(Remix\)](https://open.spotify.com/track/1Z2PaVTRj70DlxD6qqcCHg) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV), [Darlene McCoy](https://open.spotify.com/artist/6IFoxYp4s7WuFlCAqfYaMn), [TheKidMave](https://open.spotify.com/artist/3GWiLZOGCcbpSbFhy7Lcth), [Brandon Pair](https://open.spotify.com/artist/1zzJtXBYfC2nL8SwO3tgM8) | [From Profit to Purpose](https://open.spotify.com/album/6uh7SgAq63sEi2SOb7wxFk) | 3:07 |
 | 67 | [WEATHER](https://open.spotify.com/track/5F2K7DYwQzJJR7kHagQbtu) | [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl), [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [WEATHER](https://open.spotify.com/album/1m2Wphag7im8RefkQHSNAM) | 2:14 |
 | 68 | [Breathe](https://open.spotify.com/track/2pAdH7u6RWSiyFsBLDo9QF) | [KIMAH](https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Big\_win](https://open.spotify.com/artist/0UfU8L42bpBy3KMCvwckjU) | [Breathe](https://open.spotify.com/album/0S4NeVyFfDlqIZ75Y3qTqL) | 2:41 |

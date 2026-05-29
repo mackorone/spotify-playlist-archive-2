@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : EPIC - First Semester",
-  "num_followers": 170579,
+  "num_followers": 170603,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABG9f802vRRfysrSnRtB2Wz2CAqK",
+  "snapshot_id": "AAAAADgUJQ7f+Cg3JlPbSN+xipAHY7ik",
   "tracks": [
     {
       "added_at": "2026-05-26 11:56:11",
@@ -177,6 +177,22 @@
       "url": "https://open.spotify.com/track/3M3bCnAOydcZJ0pCUi04Qc"
     },
     {
+      "added_at": "2026-05-28 09:03:42",
+      "album": {
+        "name": "Thella Pori (From \"Deewana\")",
+        "url": "https://open.spotify.com/album/1VIDEMFyMfAtBrVueOVV9b"
+      },
+      "artists": [
+        {
+          "name": "Eswar Chand",
+          "url": "https://open.spotify.com/artist/2ssgsYU26GqNpS0Y9UfZbS"
+        }
+      ],
+      "duration_ms": 255374,
+      "name": "Thella Pori (From \"Deewana\")",
+      "url": "https://open.spotify.com/track/3nD5bNbPgce2TCD1rhPosy"
+    },
+    {
       "added_at": "2026-05-15 12:30:06",
       "album": {
         "name": "Vesangi Vellalo (From \"Papam Prathap\")",
@@ -275,30 +291,6 @@
       "duration_ms": 172159,
       "name": "Sakhiye (From \"Youth - Telugu\")",
       "url": "https://open.spotify.com/track/79KjSxxsdsVyyXVcjFZt5E"
-    },
-    {
-      "added_at": "2026-02-13 14:09:35",
-      "album": {
-        "name": "Naa Praanam (From \"Couple Friendly\")",
-        "url": "https://open.spotify.com/album/3A78nnIdxBFf5Dp4TQcJEK"
-      },
-      "artists": [
-        {
-          "name": "Aditya Ravindran",
-          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Purnachary",
-          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
-        }
-      ],
-      "duration_ms": 249492,
-      "name": "Naa Praanam (From \"Couple Friendly\")",
-      "url": "https://open.spotify.com/track/6L89FdUMkZFBF9LT8iCAcP"
     },
     {
       "added_at": "2026-03-03 06:32:04",

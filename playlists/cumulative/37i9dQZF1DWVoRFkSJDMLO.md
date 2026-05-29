@@ -4,7 +4,7 @@
 
 > The latest in world music\. From the continent, to the islands with Stormzy & Odeal.
 
-1,640 songs - 3 day 9 hr 20 min
+1,641 songs - 3 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1268,6 +1268,7 @@
 | [Sexy19](https://open.spotify.com/track/6vJ6ivAXyks6kykUIvizFq) | [Dejour](https://open.spotify.com/artist/2qPE1cHelmMHiIqKHhQdK4) | [Sexy19](https://open.spotify.com/album/5ekdvIk7749sp6GEjsTPlT) | 3:36 | 2022-05-27 | 2022-07-02 |
 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-02-21 | 2025-10-11 |
 | [Shake Mama](https://open.spotify.com/track/5WbnPaU30IItTQmvmf9vTv) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Ms\. Bella](https://open.spotify.com/artist/75Y3RKposeHizzrQZyg6A7) | [Shake Mama](https://open.spotify.com/album/4q4rhWWYGGoIjMzPymXUT8) | 3:26 | 2022-08-26 | 2022-10-15 |
+| [Shake That](https://open.spotify.com/track/2HNqGqMFyUjyjGyi6K58xm) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Shake That](https://open.spotify.com/album/5KJYpO15Cv5uDPE4OZDJbP) | 3:16 | 2026-05-22 |  |
 | [Shake The Place](https://open.spotify.com/track/6UrcpxooHisuiZHZUa6cwU) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Shake The Place](https://open.spotify.com/album/65c1V16fkcckC4BmhHKQVm) | 3:47 | 2023-01-27 | 2023-04-29 |
 | [Shakor](https://open.spotify.com/track/14EoKlhYnxqRrqjV7PIdS0) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Jaywillz](https://open.spotify.com/artist/0eYIT8bKfvhhDHFH1A0rxk) | [BOMBOY](https://open.spotify.com/album/4zS7IKrN5TK8xYIrPo3yli) | 2:58 | 2023-04-28 | 2023-05-13 |
 | [Shame](https://open.spotify.com/track/77x973kfvQqB9iEbTAL3xO) | [D'yani](https://open.spotify.com/artist/3c4mJY5ixVvzRBdYvBtxci) | [Shame](https://open.spotify.com/album/6lnb6Hdl0hRduVj1LEsMKI) | 2:15 | 2025-02-14 | 2025-03-01 |

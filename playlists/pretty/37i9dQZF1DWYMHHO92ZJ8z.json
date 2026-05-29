@@ -1,18 +1,18 @@
 {
   "description": "Francis Mercier's favorite tracks. Updated regularly. Curated by Francis Mercier. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 22695,
+  "num_followers": 22727,
   "original_name": "Francis Mercier's Track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAInyRQq1OuUvPC0Z4qp8n9mfO1U",
+  "snapshot_id": "AAAAADmHqRlzgOSSheEfyfSh5Z6a8tKJ",
   "tracks": [
     {
-      "added_at": "2026-04-28 06:43:28",
+      "added_at": "2026-05-28 08:15:47",
       "album": {
-        "name": "Believe In Us",
-        "url": "https://open.spotify.com/album/6EYNnyT5alWlKspslbOGnN"
+        "name": "Inshallah",
+        "url": "https://open.spotify.com/album/0hgUzwSbNNVL3KAJszEu1C"
       },
       "artists": [
         {
@@ -20,21 +20,37 @@
           "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
         },
         {
-          "name": "Jawora",
-          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
+          "name": "MP3",
+          "url": "https://open.spotify.com/artist/3mGlF6auEAbK1Z9q0VtsjB"
         },
         {
-          "name": "Neyl",
-          "url": "https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD"
-        },
-        {
-          "name": "Jesse Boykins III",
-          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
+          "name": "Shammalee",
+          "url": "https://open.spotify.com/artist/0YW1YZUJNiGAZLtJ5ytDG2"
         }
       ],
-      "duration_ms": 188852,
-      "name": "Believe In Us",
-      "url": "https://open.spotify.com/track/62O2Y6iQE3apMyrpEFpmPA"
+      "duration_ms": 155702,
+      "name": "Inshallah",
+      "url": "https://open.spotify.com/track/71menZEYwM0rqWXM4BaAQM"
+    },
+    {
+      "added_at": "2026-05-28 08:15:47",
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/704XTKH1VBFYuG5nvvoT2Q"
+      },
+      "artists": [
+        {
+          "name": "PEATY",
+          "url": "https://open.spotify.com/artist/4IIBouESY929l3m89ReuJa"
+        },
+        {
+          "name": "Jawora",
+          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
+        }
+      ],
+      "duration_ms": 216585,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/2Gmot7hri3Bnbtjpyqe0AH"
     },
     {
       "added_at": "2026-04-28 06:43:28",
@@ -71,6 +87,26 @@
       "duration_ms": 190819,
       "name": "Can't Slow Down",
       "url": "https://open.spotify.com/track/5kU0vd9onuQvaYKOBpgDX5"
+    },
+    {
+      "added_at": "2026-05-28 08:15:47",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 193384,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
     },
     {
       "added_at": "2026-04-28 06:43:28",
@@ -147,6 +183,26 @@
       "duration_ms": 167905,
       "name": "Shinjuku",
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
+    },
+    {
+      "added_at": "2026-05-28 08:15:47",
+      "album": {
+        "name": "On Business",
+        "url": "https://open.spotify.com/album/2EDJrKBnx7R5A0URMelspW"
+      },
+      "artists": [
+        {
+          "name": "Martim Rola",
+          "url": "https://open.spotify.com/artist/5HIY98z9x6Qmh7fjlSRvxb"
+        },
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/73fHATHR0pvXRyQBPgddDc"
+        }
+      ],
+      "duration_ms": 226341,
+      "name": "On Business",
+      "url": "https://open.spotify.com/track/4xCccC1qyesc9clr28hBD2"
     },
     {
       "added_at": "2026-04-28 06:43:28",
@@ -333,10 +389,30 @@
       "url": "https://open.spotify.com/track/0SjN5sSNCOrtFbcfa7OzS2"
     },
     {
+      "added_at": "2026-05-28 08:15:47",
+      "album": {
+        "name": "Apathy",
+        "url": "https://open.spotify.com/album/1OboRlA7HOudHxZOg8mVXQ"
+      },
+      "artists": [
+        {
+          "name": "Brunello",
+          "url": "https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU"
+        },
+        {
+          "name": "Hilel Lev",
+          "url": "https://open.spotify.com/artist/4V3TzdJEP0khoPzEcLLfM3"
+        }
+      ],
+      "duration_ms": 427086,
+      "name": "Apathy",
+      "url": "https://open.spotify.com/track/6XRk6rd9IhdtVfQd45JFdi"
+    },
+    {
       "added_at": "2026-04-28 06:43:28",
       "album": {
-        "name": "Teke (Francis Mercier Remix)",
-        "url": "https://open.spotify.com/album/5Sftz6HP8abxBxo9NiYMJA"
+        "name": "Believe In Us",
+        "url": "https://open.spotify.com/album/6EYNnyT5alWlKspslbOGnN"
       },
       "artists": [
         {
@@ -344,13 +420,21 @@
           "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
         },
         {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+          "name": "Jawora",
+          "url": "https://open.spotify.com/artist/610qedjOLqxXFnZJcV9ktg"
+        },
+        {
+          "name": "Neyl",
+          "url": "https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD"
+        },
+        {
+          "name": "Jesse Boykins III",
+          "url": "https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29"
         }
       ],
-      "duration_ms": 204878,
-      "name": "Teke - Francis Mercier Remix",
-      "url": "https://open.spotify.com/track/187lxGNXIujJN1AF26MaCj"
+      "duration_ms": 188852,
+      "name": "Believe In Us",
+      "url": "https://open.spotify.com/track/62O2Y6iQE3apMyrpEFpmPA"
     },
     {
       "added_at": "2026-04-28 06:43:28",
@@ -1151,6 +1235,26 @@
       "duration_ms": 379000,
       "name": "Sagitta",
       "url": "https://open.spotify.com/track/2hYgRLIVXKMqdoAhSkzClS"
+    },
+    {
+      "added_at": "2026-04-28 06:43:28",
+      "album": {
+        "name": "Teke (Francis Mercier Remix)",
+        "url": "https://open.spotify.com/album/5Sftz6HP8abxBxo9NiYMJA"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Teke - Francis Mercier Remix",
+      "url": "https://open.spotify.com/track/187lxGNXIujJN1AF26MaCj"
     },
     {
       "added_at": "2026-04-28 06:43:28",

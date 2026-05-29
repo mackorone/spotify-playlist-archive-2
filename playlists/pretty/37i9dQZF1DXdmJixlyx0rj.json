@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: I\u00d6N)",
-  "num_followers": 37058,
+  "num_followers": 37061,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-05-12 01:23:24",
       "album": {
+        "name": "YES",
+        "url": "https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE"
+      },
+      "artists": [
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "duration_ms": 178230,
+      "name": "YES",
+      "url": "https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q"
+    },
+    {
+      "added_at": "2026-05-12 01:23:24",
+      "album": {
         "name": "Super (Workout Remix)",
         "url": "https://open.spotify.com/album/6oeww5DTxCKE4h5sSkoRjI"
       },
@@ -567,18 +583,26 @@
     {
       "added_at": "2026-05-12 01:23:24",
       "album": {
-        "name": "YES",
-        "url": "https://open.spotify.com/album/2dW16IfttruVFy86mIGFHE"
+        "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
+        "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
       },
       "artists": [
         {
-          "name": "HYO",
-          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 178230,
-      "name": "YES",
-      "url": "https://open.spotify.com/track/6fddQOKIPSFKpIz9AaX94Q"
+      "duration_ms": 165269,
+      "name": "Left and Right (feat. Jung Kook of BTS) - Galantis Remix",
+      "url": "https://open.spotify.com/track/7twpmDySuCWpASRjWVEdnJ"
     },
     {
       "added_at": "2026-05-12 01:23:24",
@@ -619,50 +643,6 @@
     {
       "added_at": "2026-05-12 01:23:24",
       "album": {
-        "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
-        "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 165269,
-      "name": "Left and Right (feat. Jung Kook of BTS) - Galantis Remix",
-      "url": "https://open.spotify.com/track/7twpmDySuCWpASRjWVEdnJ"
-    },
-    {
-      "added_at": "2026-05-12 01:23:24",
-      "album": {
-        "name": "Whiplash (English Version)",
-        "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Whiplash (Steve Aoki Remix)",
-      "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
-    },
-    {
-      "added_at": "2026-05-12 01:23:24",
-      "album": {
         "name": "3D (feat. Jack Harlow) (MK Remix)",
         "url": "https://open.spotify.com/album/5zmAW0z1LtRIkw4OHsV3tW"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 186241,
       "name": "3D (feat. Jack Harlow) (MK Remix)",
       "url": "https://open.spotify.com/track/1amaLBTe7l6zyWrWoq2Acy"
+    },
+    {
+      "added_at": "2026-05-12 01:23:24",
+      "album": {
+        "name": "Whiplash (English Version)",
+        "url": "https://open.spotify.com/album/10C0OaEiO9vsPJ7wr9G6Er"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Whiplash (Steve Aoki Remix)",
+      "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
     },
     {
       "added_at": "2026-05-12 01:23:24",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-05-12 01:23:24",
       "album": {
-        "name": "Eu li EP",
-        "url": "https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG"
-      },
-      "artists": [
-        {
-          "name": "Mr. Ho",
-          "url": "https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8"
-        },
-        {
-          "name": "Mogwaa",
-          "url": "https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy"
-        }
-      ],
-      "duration_ms": 472841,
-      "name": "Bail-E",
-      "url": "https://open.spotify.com/track/4q5UlYGp3arPnpSFdyWsga"
-    },
-    {
-      "added_at": "2026-05-12 01:23:24",
-      "album": {
         "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
         "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 227677,
       "name": "Supernova (Grimes Remix)",
       "url": "https://open.spotify.com/track/4cebwm6DwAPkyOKbNT6RmL"
+    },
+    {
+      "added_at": "2026-05-12 01:23:24",
+      "album": {
+        "name": "Eu li EP",
+        "url": "https://open.spotify.com/album/2I9SmVc4Pk5LecDTu52uDG"
+      },
+      "artists": [
+        {
+          "name": "Mr. Ho",
+          "url": "https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8"
+        },
+        {
+          "name": "Mogwaa",
+          "url": "https://open.spotify.com/artist/0ZMvuGH9qIoI5xBA4g0Tqy"
+        }
+      ],
+      "duration_ms": 472841,
+      "name": "Bail-E",
+      "url": "https://open.spotify.com/track/4q5UlYGp3arPnpSFdyWsga"
     },
     {
       "added_at": "2026-05-12 01:23:24",
@@ -887,26 +887,6 @@
     {
       "added_at": "2026-05-12 01:23:24",
       "album": {
-        "name": "Mirror ball (feat. Moon Sujin)",
-        "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
-      },
-      "artists": [
-        {
-          "name": "DPR ARTIC",
-          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
-        },
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "Mirror ball (feat. Moon Sujin)",
-      "url": "https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0"
-    },
-    {
-      "added_at": "2026-05-12 01:23:24",
-      "album": {
         "name": "Rich Man (Remixes)",
         "url": "https://open.spotify.com/album/6XoOzE5Ie7Z6CjVANGB4Mk"
       },
@@ -927,22 +907,22 @@
     {
       "added_at": "2026-05-12 01:23:24",
       "album": {
-        "name": "TOMBOY (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb"
+        "name": "Mirror ball (feat. Moon Sujin)",
+        "url": "https://open.spotify.com/album/74CFvy0bKedlpwjOKzwilo"
       },
       "artists": [
         {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "DPR ARTIC",
+          "url": "https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
         }
       ],
-      "duration_ms": 129677,
-      "name": "TOMBOY (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe"
+      "duration_ms": 193493,
+      "name": "Mirror ball (feat. Moon Sujin)",
+      "url": "https://open.spotify.com/track/3qJLTxwWA1VbFUcBKyfkA0"
     },
     {
       "added_at": "2026-05-12 01:23:24",
@@ -971,6 +951,26 @@
     {
       "added_at": "2026-05-12 01:23:24",
       "album": {
+        "name": "TOMBOY (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 129677,
+      "name": "TOMBOY (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe"
+    },
+    {
+      "added_at": "2026-05-12 01:23:24",
+      "album": {
         "name": "Love Eternally (feat. JUNNY)",
         "url": "https://open.spotify.com/album/3GyXdxYwhVyzlMfUlDBczH"
       },
@@ -987,6 +987,26 @@
       "duration_ms": 237133,
       "name": "Love Eternally (feat. JUNNY)",
       "url": "https://open.spotify.com/track/20YNEkOUj8r3jHscotaGpe"
+    },
+    {
+      "added_at": "2026-05-12 01:23:24",
+      "album": {
+        "name": "Dirty Work (Remixes)",
+        "url": "https://open.spotify.com/album/1bV9UJSiCQOg5S786s2T9g"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 201454,
+      "name": "Dirty Work - RayRay Remix",
+      "url": "https://open.spotify.com/track/4WlnsX6Mpgv1tZ3Vwtrdsc"
     },
     {
       "added_at": "2026-05-12 01:23:24",
@@ -1015,26 +1035,6 @@
       "duration_ms": 186857,
       "name": "\ub118\ubc84 \uc6d0 // NUMMER ETT Part 2 - Effie & Eurohead Remix",
       "url": "https://open.spotify.com/track/217pG31hswPFS8zFo2KONE"
-    },
-    {
-      "added_at": "2026-05-12 01:23:24",
-      "album": {
-        "name": "Dirty Work (Remixes)",
-        "url": "https://open.spotify.com/album/1bV9UJSiCQOg5S786s2T9g"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
-        }
-      ],
-      "duration_ms": 201454,
-      "name": "Dirty Work - RayRay Remix",
-      "url": "https://open.spotify.com/track/4WlnsX6Mpgv1tZ3Vwtrdsc"
     },
     {
       "added_at": "2026-05-12 01:23:24",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2026-05-12 01:23:24",
       "album": {
+        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
+        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "2Spade",
+          "url": "https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Armageddon (2Spade Remix)",
+      "url": "https://open.spotify.com/track/7KHVgThSlUCtMzvnze3Tye"
+    },
+    {
+      "added_at": "2026-05-12 01:23:24",
+      "album": {
         "name": "\ud76c / \ub178 / \uc560 / \ub77d",
         "url": "https://open.spotify.com/album/2q4GpFI6Ytc0apj7VnUgvf"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 150956,
       "name": "\ud76c (love type shit)",
       "url": "https://open.spotify.com/track/18aWa24FoxzlPiRkBrGxgC"
-    },
-    {
-      "added_at": "2026-05-12 01:23:24",
-      "album": {
-        "name": "iScreaM Vol.33 : Supernova / Armageddon Remixes",
-        "url": "https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        },
-        {
-          "name": "2Spade",
-          "url": "https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Armageddon (2Spade Remix)",
-      "url": "https://open.spotify.com/track/7KHVgThSlUCtMzvnze3Tye"
     },
     {
       "added_at": "2026-05-12 01:23:24",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-05-12 01:23:24",
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "High",
-      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
-    },
-    {
-      "added_at": "2026-05-12 01:23:24",
-      "album": {
         "name": "iScreaM Vol.12 : Bad Boy Remixes",
         "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 214400,
       "name": "Bad Boy - Slom Remix",
       "url": "https://open.spotify.com/track/2MgGwRwnTJnQ8qEljY1T0D"
+    },
+    {
+      "added_at": "2026-05-12 01:23:24",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1Lij4H3ykjlMZwVRutCx36"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 205360,
+      "name": "High",
+      "url": "https://open.spotify.com/track/0UoC8cBPLaYBa87OtZQ0zr"
     },
     {
       "added_at": "2026-05-12 01:23:24",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-05-12 01:23:24",
       "album": {
-        "name": "Love Crime",
-        "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
-      },
-      "artists": [
-        {
-          "name": "Rockett",
-          "url": "https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2"
-        }
-      ],
-      "duration_ms": 154712,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
-    },
-    {
-      "added_at": "2026-05-12 01:23:24",
-      "album": {
         "name": "iScreaM Vol.12 : Bad Boy Remixes",
         "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 221667,
       "name": "Bad Boy - PREP Remix",
       "url": "https://open.spotify.com/track/4J40k24yd1m6D3TaKQsepp"
+    },
+    {
+      "added_at": "2026-05-12 01:23:24",
+      "album": {
+        "name": "Love Crime",
+        "url": "https://open.spotify.com/album/7MxqlhBt338i4PjAvXGR0h"
+      },
+      "artists": [
+        {
+          "name": "Rockett",
+          "url": "https://open.spotify.com/artist/43A3PsJWoDgpFw5y9dEJV2"
+        }
+      ],
+      "duration_ms": 154712,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/1om32xXgoiPoqrZnG3UQBz"
     },
     {
       "added_at": "2026-05-12 01:23:24",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-05-12 01:23:24",
       "album": {
-        "name": "silkysmooth 05",
-        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
-      },
-      "artists": [
-        {
-          "name": "Silly Silky",
-          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
-        }
-      ],
-      "duration_ms": 181536,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
-    },
-    {
-      "added_at": "2026-05-12 01:23:24",
-      "album": {
         "name": "BLUSH",
         "url": "https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 152505,
       "name": "Bad B**ch (Feat. Sik-K)",
       "url": "https://open.spotify.com/track/5adaDy3RlstXNVvniuBkRX"
+    },
+    {
+      "added_at": "2026-05-12 01:23:24",
+      "album": {
+        "name": "silkysmooth 05",
+        "url": "https://open.spotify.com/album/02B7XrNEuKS2aIXf9OaJVp"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "duration_ms": 181536,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/0h9vglVUaK4UmXtoVx8k2p"
     },
     {
       "added_at": "2026-05-12 01:23:24",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2026-05-12 01:23:24",
       "album": {
-        "name": "Falling In Love (feat. Natalie Major)",
-        "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        },
-        {
-          "name": "Natalie Major",
-          "url": "https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ"
-        }
-      ],
-      "duration_ms": 214758,
-      "name": "Falling In Love (feat. Natalie Major)",
-      "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
-    },
-    {
-      "added_at": "2026-05-12 01:23:24",
-      "album": {
         "name": "Iab",
         "url": "https://open.spotify.com/album/2fUQFQJIQwo14l0dUbH6Qr"
       },
@@ -1659,6 +1639,26 @@
       "duration_ms": 190312,
       "name": "Iab",
       "url": "https://open.spotify.com/track/3uTfD1qpztCCQ55ifHJ982"
+    },
+    {
+      "added_at": "2026-05-12 01:23:24",
+      "album": {
+        "name": "Falling In Love (feat. Natalie Major)",
+        "url": "https://open.spotify.com/album/0beKxJgICAAgI8WUwT4zks"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        },
+        {
+          "name": "Natalie Major",
+          "url": "https://open.spotify.com/artist/1s5IKI3WdVj337WYpi4GIZ"
+        }
+      ],
+      "duration_ms": 214758,
+      "name": "Falling In Love (feat. Natalie Major)",
+      "url": "https://open.spotify.com/track/7FIiiND0OckRPn4olaNFEd"
     },
     {
       "added_at": "2026-05-12 01:23:24",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2026-05-12 01:23:24",
       "album": {
-        "name": "STARDUST",
-        "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
-      },
-      "artists": [
-        {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
-        },
-        {
-          "name": "XIAOJUN",
-          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "STARDUST",
-      "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
-    },
-    {
-      "added_at": "2026-05-12 01:23:24",
-      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/7dU0vceNngXWT2XZUU4y9W"
       },
@@ -1723,18 +1703,22 @@
     {
       "added_at": "2026-05-12 01:23:24",
       "album": {
-        "name": "We The One",
-        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
+        "name": "STARDUST",
+        "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
       },
       "artists": [
         {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        },
+        {
+          "name": "XIAOJUN",
+          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
         }
       ],
-      "duration_ms": 195964,
-      "name": "We The One",
-      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
+      "duration_ms": 179000,
+      "name": "STARDUST",
+      "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
     },
     {
       "added_at": "2026-05-12 01:23:24",
@@ -1755,6 +1739,22 @@
       "duration_ms": 194754,
       "name": "Queendom - Demicat Remix",
       "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
+    },
+    {
+      "added_at": "2026-05-12 01:23:24",
+      "album": {
+        "name": "We The One",
+        "url": "https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        }
+      ],
+      "duration_ms": 195964,
+      "name": "We The One",
+      "url": "https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB"
     },
     {
       "added_at": "2026-05-12 01:23:24",

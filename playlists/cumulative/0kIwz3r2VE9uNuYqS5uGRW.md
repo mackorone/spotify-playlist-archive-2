@@ -4,7 +4,7 @@
 
 > 
 
-209 songs - 10 hr 52 min
+210 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [I Hope](https://open.spotify.com/track/3dI1YkpKCJMj2tlZFWPxXE) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [I Hope](https://open.spotify.com/album/3gVWMKoHvzr5UjyH59oB6A) | 3:20 | 2025-08-07 |  |
 | [I Kill Spiders](https://open.spotify.com/track/2jrMjstPcrgWx9ZUIV8qmW) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [I Kill Spiders](https://open.spotify.com/album/3rwRrvZIMD9kyc5y1qUbP8) | 3:41 | 2025-09-29 |  |
 | [I love you, but I can't let you go](https://open.spotify.com/track/41FkGXbt9gack4Z9GOtmC1) | [Ida Elisabeth](https://open.spotify.com/artist/3sEXUMg9WvdpLcKSsn1zkZ) | [white hearts stain easily](https://open.spotify.com/album/3H6t0wm5nfjUyLq26sfBIB) | 2:59 | 2026-03-13 |  |
+| [I Never Had Your Heart](https://open.spotify.com/track/4JsUCRW9wuWy9PoyqX2BH1) | [Hirata](https://open.spotify.com/artist/2GIH5f71V3vZ7gt0ctGzqV) | [I Never Had Your Heart](https://open.spotify.com/album/1umyxrbkkLP5KwrOAXBhPv) | 2:29 | 2026-05-28 |  |
 | [I Should Go](https://open.spotify.com/track/6D8g0ZHiSxEBzRiapMFzwn) | [Nicky MacKenzie](https://open.spotify.com/artist/0DvB7H1zfupECFAdeVede5) | [I Should Go](https://open.spotify.com/album/3Hj1AQjtOfcGiNJuIit0oJ) | 3:17 | 2025-08-07 |  |
 | [If U Want It](https://open.spotify.com/track/3AI6xAwOV2Bs28DCJ0o4qV) | [QUIETLOVE](https://open.spotify.com/artist/22GUJjeW3kCn3nWOFQViKv) | [If U Want It](https://open.spotify.com/album/0toROLda6GViKcYn9qrMWA) | 2:17 | 2026-04-07 |  |
 | [If We Ever Stopped Talking](https://open.spotify.com/track/7gJMxmgGsKdSQkqxFxdAO5) | [S1D333](https://open.spotify.com/artist/6qG3qPtGdzUgV8r6qcppjI) | [If We Ever Stopped Talking](https://open.spotify.com/album/4Yy6yROsIhKb4OY8wqx8sM) | 3:08 | 2026-01-07 |  |

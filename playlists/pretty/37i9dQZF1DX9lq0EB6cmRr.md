@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Listen hot and new Korean classical & new age  music in here! \(Cover: 조수미\(Sumi Jo\)\) 한국 클래식 음악 핫 & 최신 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,708 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,710 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 74 | [Us, then](https://open.spotify.com/track/0VuQ9J9lpFdLAaQzKzBtRX) | [Hong Jin Ho](https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3), [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Modern Cello](https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4) | 5:05 |
 | 75 | [Caruso](https://open.spotify.com/track/2veXChepxwodH88ev8wqxx) | [Park Ki Young](https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN), [Chaehoon You](https://open.spotify.com/artist/2Ll5QOsn99i5rbGcFjikwR) | [The Classic](https://open.spotify.com/album/614ubt7Yl8JGHPLYqVfNcS) | 4:08 |
 | 76 | [12 Variations on "Ein Mädchen oder Weibchen" from Mozart's Die Zauberflöte in F Major, Op\. 66 : Variation VII](https://open.spotify.com/track/0mvx2tj7RIztJmOcL4TZlR) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Jungin Huh](https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd), [Ilya Rashkovskiy](https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB) | [Beethoven: Variations for violoncello and piano](https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77) | 0:40 |
-| 77 | [The Steps Of Tomorrow](https://open.spotify.com/track/4SGvRalrhEY1s389vbLK0x) | [Kai](https://open.spotify.com/artist/5zCtihKT8IsDqVS5WBbqHD) | [KAI ON MUSICAL](https://open.spotify.com/album/04B5WAQquyirwfdtBWrs6N) | 3:32 |
+| 77 | [The River](https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [The River](https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35) | 3:29 |
 | 78 | [Golden Age \- Orchestra Version](https://open.spotify.com/track/6DJJOcYKuk8hTunPSSaJPX) | [SM Classics TOWN Orchestra](https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF) | [Golden Age \(Orchestra Version\)](https://open.spotify.com/album/133OMTXDhV2XTREwQ23MrX) | 3:52 |
-| 79 | [The River](https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [The River](https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35) | 3:29 |
+| 79 | [The Steps Of Tomorrow](https://open.spotify.com/track/4SGvRalrhEY1s389vbLK0x) | [Kai](https://open.spotify.com/artist/5zCtihKT8IsDqVS5WBbqHD) | [KAI ON MUSICAL](https://open.spotify.com/album/04B5WAQquyirwfdtBWrs6N) | 3:32 |
 | 80 | [Endless](https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1) | [Espero](https://open.spotify.com/artist/4721MtdS4rhVXrjxjchwLF), [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Espero 1st, Romance on Classic](https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27) | 3:56 |
 | 81 | [Island baby](https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k) | [Denis Sungho](https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp), [COAST82](https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL) | [ISLAND](https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT) | 4:39 |
 | 82 | [8 Humoresques, Op.101: No.7, Poco lento e grazioso \(Arr\. for Violin, Vibraphone and Piano by Cho Yoonseung\)](https://open.spotify.com/track/78BAlsZXq7OxquB7hsz4TM) | [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn), [Cho Yoonseung](https://open.spotify.com/artist/0B9Omv7ftLzVz20MwuLeUv), [YUN HYUN SANG](https://open.spotify.com/artist/3LuLOMW2yPLjbclSIDAw0W) | [Connected](https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw) | 5:14 |

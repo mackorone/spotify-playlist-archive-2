@@ -1,13 +1,29 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Song Brothers",
-  "num_followers": 115184,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Aku Jeje",
+  "num_followers": 115200,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAObT/qM2nJvZ2nu8dNLfEuBLdFs/",
+  "snapshot_id": "AAAAAKvki1zHDIjZt6pPCXA9Fd/Yuqqg",
   "tracks": [
+    {
+      "added_at": "2026-05-29 02:00:05",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/6yeYVUHck7wnIQs5hBeiEm"
+      },
+      "artists": [
+        {
+          "name": "Aku Jeje",
+          "url": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
+        }
+      ],
+      "duration_ms": 188144,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0c3SfEvaW19TjHr3fNWzz1"
+    },
     {
       "added_at": "2026-05-21 17:00:19",
       "album": {

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,418 songs - 9 day 20 hr 6 min
+4,419 songs - 9 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3552,6 +3552,7 @@
 | [southbound](https://open.spotify.com/track/4jiwz2tQZo21Z4NQwz4zUt) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [southbound / test drive](https://open.spotify.com/album/4Uh9XOh5hmX0Cw7JREc0AU) | 2:17 | 2025-07-28 |  |
 | [Soy Luz, Doy Luz](https://open.spotify.com/track/3QCsbxrS7RwXf6wi67tDb6) | [Tobi Rabat](https://open.spotify.com/artist/3rAw85LiCiT61QHQhxHyn4) | [Soy Luz, Doy Luz](https://open.spotify.com/album/1IchJOWKF7XGMat161LXx9) | 3:52 | 2025-09-16 |  |
 | [Spaghetti Mafia](https://open.spotify.com/track/0IO7CeyQFTWrek4eTYZhp9) | [Teddy Head](https://open.spotify.com/artist/7yYBXPgf2bNOaqB9scncXU), [The Zoot Suit Riot](https://open.spotify.com/artist/5avKyZeuT1vnyOzXANu004) | [Spaghetti Mafia](https://open.spotify.com/album/5L7ydu5TNIR41Kp0gUjtrF) | 2:44 | 2025-09-24 |  |
+| [Speed Of A Summer Night](https://open.spotify.com/track/1wCTXpkDk9ns03WbOmCuyY) | [Static Echoes](https://open.spotify.com/artist/4qx5CnX8jGV49bqPKbatO7) | [Speed Of A Summer Night](https://open.spotify.com/album/0DAKVbUAkgLDzJGfTEm01P) | 3:49 | 2026-05-28 |  |
 | [Spend It \- Sped Up](https://open.spotify.com/track/205JvvegsTtSFhbqV0rBvH) | [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [POV \(Sped Up Versions\)](https://open.spotify.com/album/0UT0BKBC4wdQbj5Bx5xxuJ) | 2:21 | 2025-06-23 |  |
 | [Spendo x i vizi](https://open.spotify.com/track/5uILl1tjLtWnaI3tl330Te) | [Franklean](https://open.spotify.com/artist/2MtWGMvoJZPkfCtHipSDhg), [Maradò](https://open.spotify.com/artist/17KV9lzX5mkFv70ts7vlFi) | [Spendo x i vizi](https://open.spotify.com/album/2u3VytqpniLVDustEz02v4) | 2:55 | 2025-06-05 |  |
 | [Sphinx](https://open.spotify.com/track/1LTs0l4VWslDurokRJV2aL) | [Monashee](https://open.spotify.com/artist/3aRQ4wIrd9wOGqAY9dJMkI) | [Sphinx](https://open.spotify.com/album/3abIn07BJ2iEEsvKMuvIor) | 4:08 | 2025-07-31 |  |

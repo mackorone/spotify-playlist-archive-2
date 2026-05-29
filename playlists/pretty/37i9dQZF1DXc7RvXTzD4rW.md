@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。A collection of music from voice actors/ actresses in Japan\. Cover: 雨宮天
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,926 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,930 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 39 | [Endless You](https://open.spotify.com/track/7drDznOI0dSzjqNrdWpz0X) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [Endless You](https://open.spotify.com/album/7MMBAGeg4jGnGdFZ0Kl4qO) | 4:44 |
 | 40 | [I need](https://open.spotify.com/track/4FeH4JKpZ24xg7mYjnkcVf) | [田中有紀](https://open.spotify.com/artist/4SmZeXCGJShLDWe9q4SR3j) | [I need](https://open.spotify.com/album/6UDZaVC8nbaK8mx8c8yRof) | 3:51 |
 | 41 | [光よ、僕に。](https://open.spotify.com/track/698UbFHc1HzawY8lqiULiY) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [光よ、僕に。](https://open.spotify.com/album/6Rw14YPiagIj3P69eNuhVI) | 4:23 |
-| 42 | [Answer](https://open.spotify.com/track/7CbpPx119dyhEouYBFUTK8) | [Kento Ito](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [Answer](https://open.spotify.com/album/2CHIBHRXw74AKmzt0Uwk8j) | 3:24 |
+| 42 | [Answer](https://open.spotify.com/track/7CbpPx119dyhEouYBFUTK8) | [伊東健人](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [Answer](https://open.spotify.com/album/2CHIBHRXw74AKmzt0Uwk8j) | 3:24 |
 | 43 | [On the Highway](https://open.spotify.com/track/2mHmTqkmOP5jPv1CGVALUM) | [SI\-VIS](https://open.spotify.com/artist/3iiwPTKjc9xinrfvPKMhne) | [On the Highway](https://open.spotify.com/album/4xEUc6OFO7bnwMWLuHMwBH) | 3:55 |
 | 44 | [明日天気になぁれ](https://open.spotify.com/track/0VygsR73o2EUYL5rscSuhO) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [明日天気になぁれ](https://open.spotify.com/album/2mmSkmKfPhMBWCol28oC7T) | 3:35 |
 | 45 | [YES！サマーラブ♡](https://open.spotify.com/track/1BoDdLQrUxQXCXxQ8cwiu2) | [勇者パーティーにかわいい子がいたので、告白してみた。](https://open.spotify.com/artist/6MhQ8AyyJMpizaABak8cjN) | [YES！サマーラブ♡](https://open.spotify.com/album/3yUDpyJO8G96Q1smM2SrUy) | 3:49 |

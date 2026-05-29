@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,689 songs - 6 day 12 hr 40 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,696 songs - 6 day 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2697,5 +2697,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2687 | [The Goonies Are Good Enough](https://open.spotify.com/track/27VOni0i9mmss8Hc5fchnG) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [The Goonies Are Good Enough](https://open.spotify.com/album/3zp4sH0nh9faKVLurq1JGY) | 2:33 |
 | 2688 | [The Crow](https://open.spotify.com/track/56Aya5c9O6YvYoPkBzpYvW) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [The Crow](https://open.spotify.com/album/4ANC5ONS6tRUkZJHRON4E9) | 3:04 |
 | 2689 | [What's The Occasion?](https://open.spotify.com/track/69ivFCw2f8rfecFkgYSRJ8) | [Tennis Goth](https://open.spotify.com/artist/0ijRFpvZGGhqBwznExjALF) | [What's The Occasion?](https://open.spotify.com/album/425tJLypMQuVKrbYH0IQh0) | 2:35 |
+| 2690 | [To Haunt a Memory](https://open.spotify.com/track/0m5BpqG57VScqxG8POe2Dd) | [João Zanussi](https://open.spotify.com/artist/6SgbqmK820PgN3oZx4p8cM) | [To Haunt a Memory](https://open.spotify.com/album/02Oclm7aB87wAMh2aiPNNT) | 2:44 |
+| 2691 | [Yours Alone](https://open.spotify.com/track/4nQXbogTrlzocBeHj5S4UB) | [Nicholas Wurster](https://open.spotify.com/artist/2mLXrE6kJQZqIs0OtTkF5f) | [Yours Alone](https://open.spotify.com/album/0AC6m8MGH2TvkMceCOgYW5) | 3:00 |
+| 2692 | [Remember Me](https://open.spotify.com/track/5PK1dJanZLQX6XeRrby4CP) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:29 |
+| 2693 | [Have You Seen Her Tonight?](https://open.spotify.com/track/5xXWvqekirjaHpGePGTdnr) | [The Good Water](https://open.spotify.com/artist/3i9sRy1tLtjxcrkUzoMY95) | [Feel Your Mind](https://open.spotify.com/album/7C8T6PBAN8Ip0pM3npaGjI) | 2:17 |
+| 2694 | [Bananas & Flannels](https://open.spotify.com/track/001d2p1A2bUG8n30IEnyYw) | [JianHere](https://open.spotify.com/artist/5HYA4GxRfxcT8hlzGOA6uY) | [I Want To Be Something](https://open.spotify.com/album/1ZkcivT2y4W6uxjwR4xSro) | 3:00 |
+| 2695 | [Unbroken](https://open.spotify.com/track/2Q7dtFYhxUBQ5qQF43ZEzr) | [Virginia Dirt](https://open.spotify.com/artist/2MYf68puCUVIovXxt7Nc0x) | [Scrub Up Good](https://open.spotify.com/album/0eqPD5z000CHb90owkVSOB) | 3:04 |
+| 2696 | [Nothing//Everything](https://open.spotify.com/track/7JPo4HuOcewMONunICPvwy) | [Noah Whiteside](https://open.spotify.com/artist/6BvQWE7rOY7Zlnl8HVtMde) | [Nothing//Everything](https://open.spotify.com/album/4BswvpHqDSSDLldBnKqKuW) | 4:15 |
 
-Snapshot ID: `AAALGk7FNumw+h6EF5eajWCOifYozrKU`
+Snapshot ID: `AAALIXQERxFdcF99C0xGTGwjZ6Cjdxzh`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: \u00d6wnboss",
+  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Knorst",
   "name": "mint brasil",
   "tracks": [
     {
@@ -602,6 +602,24 @@
       "duration_ms": 169000,
       "name": "Body On My Mind",
       "url": "https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL"
+    },
+    {
+      "album": {
+        "name": "BOOM! (I Got Your Boyfriend)",
+        "url": "https://open.spotify.com/album/2FIlewDBxFsBVK2Judyzll"
+      },
+      "artists": [
+        {
+          "name": "GIU",
+          "url": "https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186502,
+      "name": "BOOM! (I Got Your Boyfriend)",
+      "url": "https://open.spotify.com/track/3kr06joltj0ObqTm3sr4Nw"
     },
     {
       "album": {
@@ -1332,7 +1350,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 153230,
       "name": "Deeper Down",
       "url": "https://open.spotify.com/track/1dT9TNIjIEZxdFTcDoRrf6"
@@ -1633,6 +1651,32 @@
     },
     {
       "album": {
+        "name": "Eixo",
+        "url": "https://open.spotify.com/album/3MA5DJjUdO14QKG5gGzW1M"
+      },
+      "artists": [
+        {
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+        },
+        {
+          "name": "BAKKA (BR)",
+          "url": "https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8"
+        },
+        {
+          "name": "Flip (BR)",
+          "url": "https://open.spotify.com/artist/0OJn70AN3GXhrcbgllrR7A"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Eixo",
+      "url": "https://open.spotify.com/track/1iu3Hor5ARrLhWRvngSyhx"
+    },
+    {
+      "album": {
         "name": "Empurra",
         "url": "https://open.spotify.com/album/11deGutI6A6LfMKcgQ9ftV"
       },
@@ -1750,7 +1794,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 150004,
       "name": "Evil",
       "url": "https://open.spotify.com/track/3I82UgyI4rzaXSwAGJvvfw"
@@ -2485,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "Givin' Up",
+        "url": "https://open.spotify.com/album/2rR1AEl62FN8GYcPYcmEhG"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232371,
+      "name": "Givin' Up",
+      "url": "https://open.spotify.com/track/6nEvTm19AWQ9cOp5P1lYm1"
+    },
+    {
+      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/4hB27f2YOy4SLCk71mm2r5"
       },
@@ -3102,7 +3164,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 210967,
       "name": "If You Wanna Come",
       "url": "https://open.spotify.com/track/3fp3ebsLgDrKDTWyzymWCs"
@@ -3404,6 +3466,28 @@
       "duration_ms": 232380,
       "name": "Kanyes",
       "url": "https://open.spotify.com/track/11ZzJ9gbawFjRqnbjtFl4q"
+    },
+    {
+      "album": {
+        "name": "Keep On Dancing",
+        "url": "https://open.spotify.com/album/4xLE45T0CXiq9Ht7Fd9nG5"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "High Motion",
+          "url": "https://open.spotify.com/artist/2rPizsMUjrZqBGrqr6kRsL"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134076,
+      "name": "Keep On Dancing",
+      "url": "https://open.spotify.com/track/41I6VRCOvauu53kjGvNoAy"
     },
     {
       "album": {
@@ -5914,7 +5998,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 160496,
       "name": "Substance",
       "url": "https://open.spotify.com/track/5On7CF20MHgFOYUUlacXbf"

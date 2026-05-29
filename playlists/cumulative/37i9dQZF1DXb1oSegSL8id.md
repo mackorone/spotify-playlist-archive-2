@@ -4,7 +4,7 @@
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-140 songs - 7 hr 28 min
+141 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Bebi Liguei \- Ao Vivo](https://open.spotify.com/track/3RbXsVQr4jeTxvT35Hssq3) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 2:39 | 2023-01-03 | 2024-04-19 |
 | [Bebi Minha Bicicleta \(Coração Falido\) \- Ao Vivo](https://open.spotify.com/track/5qMnAsvgTfHMd5KQpzpnA1) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Bebi Minha Bicicleta \(Coração Falido\) \(ao Vivo\)](https://open.spotify.com/album/5Qn8laDtOhTweODnPud3KP) | 2:59 | 2023-01-03 |  |
 | [Beijo Doce / Brilho de Cristal \- Ao Vivo](https://open.spotify.com/track/11VYX2ahtiOE3ql9xcZxiC) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Beijo Doce / Brilho de Cristal \(Ao Vivo\)](https://open.spotify.com/album/6yaax26e6Q88p0dG3PdmCk) | 3:11 | 2023-11-17 | 2025-02-18 |
+| [BLOCO 1970: País Tropical/Fio Maravilha/Vou Festejar/Não Quero Dinheiro \(Só Quero Amar\)](https://open.spotify.com/track/6IqV0sgFdHINoMjbQ5IrU7) | [Deu Samba](https://open.spotify.com/artist/3jksDgFvZoEBZkH1LsSBzX) | [NA LINHA DO TEMPO](https://open.spotify.com/album/0iKnVdY68arqUNMcvoLv0q) | 3:56 | 2026-05-29 |  |
 | [Buzina \- Ao Vivo](https://open.spotify.com/track/2fK6kCPjXbQHReLi3H64xa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Equilíbrio \(Ao Vivo\)](https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4) | 2:42 | 2023-11-17 |  |
 | [Bye Bye \- Ao Vivo](https://open.spotify.com/track/055TcJ0BdCrW7qE8Yq5KRM) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr) | 2:46 | 2024-07-09 |  |
 | [Cachorrinho \(feat\. Tierry\) \- Ao Vivo](https://open.spotify.com/track/0prr6bXHmFqmLyRJgbUVK7) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Ferrugem em Casa 2 \(Bloco 2\) \[Ao Vivo\]](https://open.spotify.com/album/4iLrvvqO8xUqZIglV27RM7) | 3:55 | 2024-07-09 |  |
@@ -83,7 +84,7 @@
 | [Me Apaixonei Pela Pessoa Errada](https://open.spotify.com/track/0lskTzcFFTmCCgLKRpGJdQ) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Cartão Postal](https://open.spotify.com/album/2eIiUtlaanaoVXdxY35pFK) | 3:29 | 2023-01-03 | 2024-04-19 |
 | [ME USA \- Ao Vivo](https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 2:38 | 2023-11-17 |  |
 | [Meia Noite \(Você tem meu Whatsapp\)](https://open.spotify.com/track/5fuK5An5rQcx0OVIzsscOK) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Diferente dos Iguais](https://open.spotify.com/album/5PHmIs0BTQUdTwZOh7LwST) | 3:57 | 2023-01-03 | 2024-04-19 |
-| [Mentira](https://open.spotify.com/track/4VaZWcDObOtnn03myZ9mug) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Clube Do Araújo \(Vol\. 1\)](https://open.spotify.com/album/3Ay6c9osMoPkiFElfmlldG) | 3:10 | 2024-07-09 |  |
+| [Mentira](https://open.spotify.com/track/4VaZWcDObOtnn03myZ9mug) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Clube Do Araújo \(Vol\. 1\)](https://open.spotify.com/album/3Ay6c9osMoPkiFElfmlldG) | 3:10 | 2024-07-09 | 2026-05-29 |
 | [Meu Pedaço de Pecado](https://open.spotify.com/track/0KbGTtipoc4GnUiYEVzfQh) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Tenho a Senha](https://open.spotify.com/album/2Hc8dFekejzrTxsF7R9wxT) | 2:37 | 2023-01-03 | 2024-04-19 |
 | [Mil Anos \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:09 | 2023-01-03 |  |
 | [Nem de Graça / Saudade Arregaça \- Ao Vivo](https://open.spotify.com/track/141xCZ6pvh4ymCsQkOFX80) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Fã de Carteirinha Sunset, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/08XT41HiFtjXbl1X4sihw0) | 5:42 | 2023-01-03 |  |

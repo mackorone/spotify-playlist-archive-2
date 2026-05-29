@@ -1607,6 +1607,28 @@
     },
     {
       "album": {
+        "name": "Chasing Bodies",
+        "url": "https://open.spotify.com/album/1u2BI8MWTlb8y8pJ6iu9Co"
+      },
+      "artists": [
+        {
+          "name": "Madds",
+          "url": "https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy"
+        },
+        {
+          "name": "Dainjaa",
+          "url": "https://open.spotify.com/artist/43ZnMboMElFMnW4bZg0Awh"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200597,
+      "name": "Chasing Bodies",
+      "url": "https://open.spotify.com/track/7kmmF2N2Ol6CgBBzer3bdf"
+    },
+    {
+      "album": {
         "name": "Chasing Echoes",
         "url": "https://open.spotify.com/album/2czfZBAy2eLbi29bxjdR9j"
       },
@@ -5438,6 +5460,24 @@
       "duration_ms": 168750,
       "name": "It's A Vibe",
       "url": "https://open.spotify.com/track/1lF6fVuFGAT9EAkD0S04ql"
+    },
+    {
+      "album": {
+        "name": "ITCHTOPAY",
+        "url": "https://open.spotify.com/album/3spFe05r5pKoOouuGyXpLF"
+      },
+      "artists": [
+        {
+          "name": "Buns",
+          "url": "https://open.spotify.com/artist/5rGiKRASfYHuoGV6tXYGMB"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "ITCHTOPAY",
+      "url": "https://open.spotify.com/track/102v6pIT5fGhbbgbFylGlI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,411 likes - 94 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,426 likes - 94 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 93 | [Kamala's Danz](https://open.spotify.com/track/4r9V1j1bI0Ac0QHuF6qrsb) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9), [Sreya](https://open.spotify.com/artist/3dr0bDqmElcH4qBAN5j5GV) | [Kamala's Danz](https://open.spotify.com/album/1WlH9h96QgJnoqTuHedYVO) | 5:27 |
 | 94 | [Catalina](https://open.spotify.com/track/0c7XKJjw6heRqQX7PzkUIj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 3:34 |
 
-Snapshot ID: `AAAAAO+EWxmcf4y4l0sfL9G1otlc1OcE`
+Snapshot ID: `AAAAANEzimXNkHPOiAf8QidbskRadiBC`

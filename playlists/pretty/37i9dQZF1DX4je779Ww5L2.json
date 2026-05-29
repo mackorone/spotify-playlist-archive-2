@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190777,
+  "num_followers": 190771,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 275686,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
         "name": "Always The Same (feat. St. Vincent)",
         "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 275686,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Brick Houses",
-        "url": "https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B"
-      },
-      "artists": [
-        {
-          "name": "Few Bits",
-          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "22 Weeks",
-      "url": "https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Play With Fire",
         "url": "https://open.spotify.com/album/2QCS1NnTSAfg5eyENPVUbG"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 255895,
       "name": "Play With Fire",
       "url": "https://open.spotify.com/track/1mnsHxQPbkaHQatoTjOizI"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Brick Houses",
+        "url": "https://open.spotify.com/album/0AtmUXLp8LYC8ugx973h2B"
+      },
+      "artists": [
+        {
+          "name": "Few Bits",
+          "url": "https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "22 Weeks",
+      "url": "https://open.spotify.com/track/7rtOkjhCGYXpneBhU9x2YC"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "love so blind (night tapes)",
-        "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 245714,
-      "name": "love so blind - night tapes",
-      "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Arrow, Four",
         "url": "https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 215078,
       "name": "Vacuum",
       "url": "https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "love so blind (night tapes)",
+        "url": "https://open.spotify.com/album/5Y6nFYEEHfToj1cXpCd5VT"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 245714,
+      "name": "love so blind - night tapes",
+      "url": "https://open.spotify.com/track/2Y1WTJudhihzTMydbK49jF"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "The Joy of Coincidences",
-        "url": "https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6"
-      },
-      "artists": [
-        {
-          "name": "Bianca Steck",
-          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
-        }
-      ],
-      "duration_ms": 200260,
-      "name": "Strange Rooms",
-      "url": "https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/68nMPJ3cMbDq2597lVgQjV"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 240822,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/2a99fzynGMfoImtCGn6j1E"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "The Joy of Coincidences",
+        "url": "https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6"
+      },
+      "artists": [
+        {
+          "name": "Bianca Steck",
+          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
+        }
+      ],
+      "duration_ms": 200260,
+      "name": "Strange Rooms",
+      "url": "https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -983,6 +983,22 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
+        "name": "Mr. Beckett",
+        "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
+      },
+      "artists": [
+        {
+          "name": "Agn\u00e8s Botty",
+          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "Mr. Beckett",
+      "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
         "name": "The Farm",
         "url": "https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 302533,
       "name": "The End",
       "url": "https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
-        "name": "Mr. Beckett",
-        "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
-      },
-      "artists": [
-        {
-          "name": "Agn\u00e8s Botty",
-          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "Mr. Beckett",
-      "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Queen-Size Life",
-        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
-      },
-      "artists": [
-        {
-          "name": "Mountaineer",
-          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
-        }
-      ],
-      "duration_ms": 216690,
-      "name": "Queen-Size Life",
-      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "More Than Enough",
         "url": "https://open.spotify.com/album/2N0laeE3SqH46ADFdgcs34"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 196821,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/1wTtnNyUUrJL4erWEUfC77"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Queen-Size Life",
+        "url": "https://open.spotify.com/album/7e5CvNi9fnhAIJ9ntZnlDB"
+      },
+      "artists": [
+        {
+          "name": "Mountaineer",
+          "url": "https://open.spotify.com/artist/5ayGJVSrPdzT28dxwsxgOj"
+        }
+      ],
+      "duration_ms": 216690,
+      "name": "Queen-Size Life",
+      "url": "https://open.spotify.com/track/3Ci3PhwCqFUTNlfQ59Nj3z"
     },
     {
       "added_at": "2026-05-26 22:00:43",

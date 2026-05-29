@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Chi era sotto palco sa \u2764\ufe0f\u200d\ud83e\ude79 cover: faccianuvola al MI AMI Festival (credits: Ouael Ben Salah)",
+  "description": "Rare\u0219 in cover di Indie Italia e tutti i feels del suo disco qui --> \u2764\ufe0f\u200d\ud83e\ude79  ",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 214964,
       "name": "burrocacao",
       "url": "https://open.spotify.com/track/5aVXKwmDJH3QqUNfGg2bgT"
@@ -3236,7 +3236,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 167340,
       "name": "Giorni d\u2019inverno",
       "url": "https://open.spotify.com/track/3MBa38VlZ1aOVIWEW3snS4"
@@ -4566,7 +4566,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 180454,
       "name": "la Mia paura",
       "url": "https://open.spotify.com/track/51jCHYRmZDj9ZPi2Fw55Xl"
@@ -8043,6 +8043,24 @@
     },
     {
       "album": {
+        "name": "In Tasca",
+        "url": "https://open.spotify.com/album/6gTFu7dApUecpvjzew5dy2"
+      },
+      "artists": [
+        {
+          "name": "BALTIMORA",
+          "url": "https://open.spotify.com/artist/0rRRvEq07vdUc9QgaK46Fl"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200481,
+      "name": "Rimbalzo",
+      "url": "https://open.spotify.com/track/5hZ7VsIgALNs9aVl7OZISx"
+    },
+    {
+      "album": {
         "name": "Ritorneremo a guardare il Cielo",
         "url": "https://open.spotify.com/album/0sDJcMrutg2iXvyGPcHDIP"
       },
@@ -8566,6 +8584,28 @@
       "duration_ms": 172894,
       "name": "Senza Stelle",
       "url": "https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n"
+    },
+    {
+      "album": {
+        "name": "Senza vestiti",
+        "url": "https://open.spotify.com/album/0dxz0GxUcYXloy0ClIvz9h"
+      },
+      "artists": [
+        {
+          "name": "Maria Antonietta",
+          "url": "https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb"
+        },
+        {
+          "name": "Colombre",
+          "url": "https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180384,
+      "name": "Senza vestiti",
+      "url": "https://open.spotify.com/track/5PnpH0YgeOQ7m1Yn3B17CI"
     },
     {
       "album": {

@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 384370,
       "name": "84",
       "url": "https://open.spotify.com/track/0Vl5voXWCbcXVnQKqJrIty"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Alles Historie",
       "url": "https://open.spotify.com/track/6jL04UjI8xLC9FOzL6iQVA"
@@ -468,6 +468,24 @@
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
+    },
+    {
+      "album": {
+        "name": "Lobomatas",
+        "url": "https://open.spotify.com/album/3qBW9AmMgm3ZrSfMv66vDK"
+      },
+      "artists": [
+        {
+          "name": "Sraig\u0117s Efektas",
+          "url": "https://open.spotify.com/artist/2KE8FLLndNqFDiNJtfBNLt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225280,
+      "name": "Atas",
+      "url": "https://open.spotify.com/track/21cId72nZyamxBfnTGwn8b"
     },
     {
       "album": {
@@ -958,7 +976,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 184162,
       "name": "Borte vekk i sola",
       "url": "https://open.spotify.com/track/2K9hMIowyUYYEa6yXkRxAs"
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "Briste Eller B\u00e6re",
       "url": "https://open.spotify.com/track/7g5yhc1cnKF6rRzYsrhG89"
@@ -1383,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "Mercurial Silence",
+        "url": "https://open.spotify.com/album/4sVIqIZj2IFiC5JsH0dTOP"
+      },
+      "artists": [
+        {
+          "name": "David Eugene Edwards",
+          "url": "https://open.spotify.com/artist/4T8Z2MuOWpnhGzTTSOz0Rj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239642,
+      "name": "Cloud Wolf",
+      "url": "https://open.spotify.com/track/1Y42QTrX3Jy8JB4PtRrUMu"
+    },
+    {
+      "album": {
         "name": "Doba je zl\u00e1",
         "url": "https://open.spotify.com/album/1cWJKrsVYoXRaG5vGYL6oX"
       },
@@ -1412,7 +1448,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 260685,
       "name": "Cold",
       "url": "https://open.spotify.com/track/5RhQ48NodJ9VepdX5rG4SJ"
@@ -1448,7 +1484,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 271493,
       "name": "Colours",
       "url": "https://open.spotify.com/track/7naIMovL3V39rc5g7b8Ysu"
@@ -2180,7 +2216,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -2292,7 +2328,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -2314,6 +2350,24 @@
       "duration_ms": 174269,
       "name": "dose",
       "url": "https://open.spotify.com/track/4W20hsjRf54J0cM8oNY78A"
+    },
+    {
+      "album": {
+        "name": "Mercurial Silence",
+        "url": "https://open.spotify.com/album/4sVIqIZj2IFiC5JsH0dTOP"
+      },
+      "artists": [
+        {
+          "name": "David Eugene Edwards",
+          "url": "https://open.spotify.com/artist/4T8Z2MuOWpnhGzTTSOz0Rj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140885,
+      "name": "Doubting Zurvan",
+      "url": "https://open.spotify.com/track/5ofxmIgOX5p444yzFDsbuh"
     },
     {
       "album": {
@@ -2818,7 +2872,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 267852,
       "name": "En liten dose deg",
       "url": "https://open.spotify.com/track/2JCtmSCajiSlK7O02N5oP4"
@@ -3038,7 +3092,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 220179,
       "name": "Everywhere is Nowhere",
       "url": "https://open.spotify.com/track/1gHMrlnQM4yN0tZ85g6GGs"
@@ -3222,6 +3276,24 @@
       "duration_ms": 261821,
       "name": "Fake News",
       "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
+    },
+    {
+      "album": {
+        "name": "Fall from Grace",
+        "url": "https://open.spotify.com/album/5RikhTUZ6wIyNsU5WezmZI"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/3Le1Vxup51oZTtf6xMREXv"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301250,
+      "name": "Fall from Grace",
+      "url": "https://open.spotify.com/track/5M2SJg1XfBiMh7OBEbx1kr"
     },
     {
       "album": {
@@ -3600,7 +3672,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 241927,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/5PMnDmYTGlkg15qvKhWc6E"
@@ -3640,7 +3712,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 168882,
       "name": "Freaky Ho's",
       "url": "https://open.spotify.com/track/0ZNvLRHdoL8K1rCs2tmMWM"
@@ -3658,7 +3730,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 241558,
       "name": "Frost Upon The Longships",
       "url": "https://open.spotify.com/track/77FAbjrKGLobbU26aL6BFZ"
@@ -3748,7 +3820,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 138070,
       "name": "F\u00f6rnedringen",
       "url": "https://open.spotify.com/track/4x9QBTz7ub8ts2qB7BBtgx"
@@ -3806,6 +3878,24 @@
       "duration_ms": 244544,
       "name": "Gervi\u0173 gedulo giesm\u0117s",
       "url": "https://open.spotify.com/track/6uwjMIMIBwSqF07mhaYu3l"
+    },
+    {
+      "album": {
+        "name": "Mercurial Silence",
+        "url": "https://open.spotify.com/album/4sVIqIZj2IFiC5JsH0dTOP"
+      },
+      "artists": [
+        {
+          "name": "David Eugene Edwards",
+          "url": "https://open.spotify.com/artist/4T8Z2MuOWpnhGzTTSOz0Rj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274930,
+      "name": "Geush Urvan",
+      "url": "https://open.spotify.com/track/4he1NxXmnwuAoQ9Otx7q94"
     },
     {
       "album": {
@@ -4074,7 +4164,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "G\u00e5 Hardt Eller G\u00e5 Hjem",
       "url": "https://open.spotify.com/track/7oF3DOYkEbjDa9AJPX8gRX"
@@ -4240,6 +4330,24 @@
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
+    },
+    {
+      "album": {
+        "name": "Mercurial Silence",
+        "url": "https://open.spotify.com/album/4sVIqIZj2IFiC5JsH0dTOP"
+      },
+      "artists": [
+        {
+          "name": "David Eugene Edwards",
+          "url": "https://open.spotify.com/artist/4T8Z2MuOWpnhGzTTSOz0Rj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216393,
+      "name": "Hexameter",
+      "url": "https://open.spotify.com/track/3S89Lm829W4CPBXKB10wxK"
     },
     {
       "album": {
@@ -4499,6 +4607,24 @@
     },
     {
       "album": {
+        "name": "A Waiter's Patience..",
+        "url": "https://open.spotify.com/album/0rluDVOgbHEeXl7wOlqtRe"
+      },
+      "artists": [
+        {
+          "name": "Geir Terje Sagen",
+          "url": "https://open.spotify.com/artist/4sSoETldqjicbrHiq0zCRy"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297735,
+      "name": "I Consider My Own",
+      "url": "https://open.spotify.com/track/0NvwPZNNlbcuiiyyhexD7u"
+    },
+    {
+      "album": {
         "name": "Modern Vintage Wave",
         "url": "https://open.spotify.com/album/0s0TDAVVCKSYdVsFYvKv1A"
       },
@@ -4618,7 +4744,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 300386,
       "name": "I'm not going home",
       "url": "https://open.spotify.com/track/4C0OtEuP48EI4VLJLpGkgR"
@@ -4982,7 +5108,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -5000,7 +5126,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 265987,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/0N6jm5kNtQkXAwpWVzJ2X1"
@@ -5210,7 +5336,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 243902,
       "name": "Kom Og Klikk - Harvey North Remix",
       "url": "https://open.spotify.com/track/3Qv4tidfCyy6YUhsg1CRCL"
@@ -5343,6 +5469,24 @@
     },
     {
       "album": {
+        "name": "Lobomatas",
+        "url": "https://open.spotify.com/album/3qBW9AmMgm3ZrSfMv66vDK"
+      },
+      "artists": [
+        {
+          "name": "Sraig\u0117s Efektas",
+          "url": "https://open.spotify.com/artist/2KE8FLLndNqFDiNJtfBNLt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212230,
+      "name": "Leiskim\u0117s \u0160e\u0161\u0117liu",
+      "url": "https://open.spotify.com/track/04bqFC2DggXiXOA7fHG7kw"
+    },
+    {
+      "album": {
         "name": "Feed",
         "url": "https://open.spotify.com/album/7LnObuB8XQDT4jBCU1jTvT"
       },
@@ -5354,7 +5498,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 319470,
       "name": "LEO",
       "url": "https://open.spotify.com/track/3nMQp2nHM7ZMosqKEc2oda"
@@ -5430,7 +5574,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -5448,7 +5592,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 256894,
       "name": "Liberationizing Light",
       "url": "https://open.spotify.com/track/4m1sgMzxFa2SvZUPdYYLPL"
@@ -5976,7 +6120,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -6030,7 +6174,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 190438,
       "name": "Manneklem",
       "url": "https://open.spotify.com/track/1Lq7eIHMXAe7mBalme6A9Q"
@@ -6428,7 +6572,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 221867,
       "name": "Mona Lisa Smile",
       "url": "https://open.spotify.com/track/3Z9zw1N9xvhZ9y3r9ch7bi"
@@ -6738,7 +6882,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -7218,7 +7362,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "N\u00e5r Verden Treffer Meg I Hodet",
       "url": "https://open.spotify.com/track/15PYf2wzLRgn4q2vxeRR54"
@@ -7420,7 +7564,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 223663,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/7eJiTUS9FthmhEL9qOrisn"
@@ -7456,7 +7600,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 304336,
       "name": "Only Ash and Bones Remain",
       "url": "https://open.spotify.com/track/1Y8yynZorrHu39AjqJnEtX"
@@ -8262,6 +8406,24 @@
     {
       "album": {
         "name": "reyes",
+        "url": "https://open.spotify.com/album/1mjQH1hxEwuIOiFud8R2WO"
+      },
+      "artists": [
+        {
+          "name": "Memtuyu mtb",
+          "url": "https://open.spotify.com/artist/76nusiG9JvEstbG7hd5gHf"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94075,
+      "name": "reyes",
+      "url": "https://open.spotify.com/track/4VkiI6xCL5beCmpXqmPZW6"
+    },
+    {
+      "album": {
+        "name": "reyes",
         "url": "https://open.spotify.com/album/5iWG3BRXV6OFsuCrLEJxYu"
       },
       "artists": [
@@ -9022,7 +9184,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "So Many Dreams",
       "url": "https://open.spotify.com/track/1dBra8NQyJ0x2qBi2nnCHx"
@@ -9346,7 +9508,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 365902,
       "name": "Station To Station - 50th Anniversary",
       "url": "https://open.spotify.com/track/1TRnxAoUZWXLUHH2jYeXq7"
@@ -9382,7 +9544,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Stikk Av",
       "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
@@ -9422,7 +9584,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Stjernene Lyser",
       "url": "https://open.spotify.com/track/4Mi1dHNaFHMFGyQbBF2GGf"
@@ -9462,7 +9624,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 202000,
       "name": "Strak Saltomortale",
       "url": "https://open.spotify.com/track/3YHHO3X9542Ia2LqMMiG3s"
@@ -10032,7 +10194,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -10320,7 +10482,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 136615,
       "name": "The magic juice",
       "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"
@@ -10462,6 +10624,24 @@
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
+    },
+    {
+      "album": {
+        "name": "The Soundtrack To the End",
+        "url": "https://open.spotify.com/album/1ddChxYSzeHPbSa3nidNCp"
+      },
+      "artists": [
+        {
+          "name": "Lockjaw",
+          "url": "https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207800,
+      "name": "The Sheep",
+      "url": "https://open.spotify.com/track/1Cwu4QK3uBAtL7otbo2bnn"
     },
     {
       "album": {
@@ -10686,7 +10866,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -10722,7 +10902,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 177297,
       "name": "This Is Not Everything I Expected",
       "url": "https://open.spotify.com/track/0vVIh3MHwwSOTu4utJXlAq"
@@ -11088,7 +11268,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 236336,
       "name": "Train / Detonation Boulevard",
       "url": "https://open.spotify.com/track/0pf6vegv2DtcwFHPGMDnJm"
@@ -12366,6 +12546,24 @@
       "duration_ms": 232040,
       "name": "Your Blood Is Like Mine",
       "url": "https://open.spotify.com/track/68DA4SFMI6X3c9KWuAt9sR"
+    },
+    {
+      "album": {
+        "name": "Sinister Shadows",
+        "url": "https://open.spotify.com/album/6FJw71zjofMWDjyCfE761w"
+      },
+      "artists": [
+        {
+          "name": "Sinister Shadows",
+          "url": "https://open.spotify.com/artist/7j2Sn0FrK4fAi9srVW9ltw"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Your Breath",
+      "url": "https://open.spotify.com/track/3tMfN6WdUINk6cR2vObP3W"
     },
     {
       "album": {

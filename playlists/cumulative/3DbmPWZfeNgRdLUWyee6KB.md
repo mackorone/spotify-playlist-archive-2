@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,117 songs - 2 day 17 hr 23 min
+1,121 songs - 2 day 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [Little Wonders](https://open.spotify.com/track/0uEZXhpxqigo36E5NMQETt) | [Jasmin Ahrent](https://open.spotify.com/artist/2ZkozTiOfdofrlkZVWK3WM) | [Little Wonders](https://open.spotify.com/album/4mVtkDM3Bf02KEege14QMx) | 3:38 | 2026-04-21 |  |
 | [Lola L'ammazzasette](https://open.spotify.com/track/0ChYDHlnBom7xScnIrEIzD) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Lola L'ammazzasette](https://open.spotify.com/album/734Xm0spmPwATfcJ02mfwF) | 5:00 | 2023-04-20 | 2025-11-29 |
 | [Lola L'ammazzasette \(alt\. Vers\)](https://open.spotify.com/track/5wKRAY1W3ZAfs8dm06BydE) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su) | [Ma sister jumps through fire: a jazz drama](https://open.spotify.com/album/5FW6ouGwJts0HD8PfUFti9) | 4:51 | 2023-04-27 | 2025-11-29 |
+| [Long Time](https://open.spotify.com/track/2UKdtw1iNzsx2gmuYbQaKu) | [Eddus](https://open.spotify.com/artist/6iFNqjfucW5tG2WUK0nSxR) | [Long Time](https://open.spotify.com/album/3B3on9GGaYMjfyQpgVOnLa) | 3:32 | 2026-05-28 |  |
 | [Look to the Left, Look to the Right](https://open.spotify.com/track/36ysdfAFO9qWTEdKWdQDiM) | [Aleksi Oksanen](https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2) | [Look to the Left, Look to the Right](https://open.spotify.com/album/6o7NXuKePoAU6DWH7qEGPB) | 1:52 | 2026-04-23 |  |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2026-04-06 | 2026-05-03 |
 | [Lost](https://open.spotify.com/track/5PK3kBmEfUPJ4Ht1Nb8czJ) | [Chucky Cat](https://open.spotify.com/artist/3cEyhRbqLRp5Xhb7t9pzvL), [Lil Innocent](https://open.spotify.com/artist/4f4elwDrvecNEfivB6fKS7), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [RoBeats](https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge) | [Lost](https://open.spotify.com/album/1hZdhASC93ZnXSjx6abGrN) | 3:12 | 2026-02-03 | 2026-03-07 |
@@ -708,6 +709,7 @@
 | [para la niña que un día fui](https://open.spotify.com/track/02kulGMAiGlCqFvoPq2FqY) | [SISSIE](https://open.spotify.com/artist/1eJKvBgKswZlJd4N0j3Nar) | [para el lugar que me vio crecer](https://open.spotify.com/album/0VSwRX6zQRkhIECkP0huhH) | 2:19 | 2026-01-24 | 2026-02-20 |
 | [Paradise](https://open.spotify.com/track/5MxbHfOqvSdP1c33DBdma6) | [Miss Marielle](https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx) | [Detached](https://open.spotify.com/album/4VpODvxBTAEv2PVNXSTjYC) | 3:10 | 2026-02-12 | 2026-03-15 |
 | [Pardon My French](https://open.spotify.com/track/2DCQbWFEmKvCe4Bt02Bz7o) | [Ndukwe](https://open.spotify.com/artist/5bTGf4KBDXwVohbzdfapB0) | [Pardon My French](https://open.spotify.com/album/3cBPOh4GAVucPEVj30BPcu) | 2:57 | 2026-05-24 |  |
+| [Particolare](https://open.spotify.com/track/0AdDre9FCxVt7U8jOVdT3g) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Particolare](https://open.spotify.com/album/1b9nxh9JegqaNR0OTsS6vC) | 2:45 | 2026-05-28 |  |
 | [Partido Alto](https://open.spotify.com/track/5GyuwWevZ2KdHF6XBvAnCz) | [Salvatore Nanè](https://open.spotify.com/artist/2OyUGRvXMkmSHMSjacXjNZ), [Andrea Maia](https://open.spotify.com/artist/0GKHbfqyqJ3ViQi45PopsQ) | [Partido Alto](https://open.spotify.com/album/6WUZTgzABSTItMZ4sBXA0X) | 2:57 | 2023-04-20 | 2025-11-29 |
 | [Party girl](https://open.spotify.com/track/2k0hFFHvtXgMhNyEfC75g5) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Party girl](https://open.spotify.com/album/51ZqJeqymp7UtdybBk9jxx) | 1:50 | 2025-11-21 | 2026-01-05 |
 | [Party's Over \- Memorial Mix](https://open.spotify.com/track/75bHj8yW2FhPVVxwOQcyqb) | [Worldview](https://open.spotify.com/artist/53AOSoE3dHnIV5IO2F1A0J) | [Alt Worlds 2005 \- 2025](https://open.spotify.com/album/2GJMD8MwCDgquGfUs3EJHo) | 4:15 | 2026-03-16 | 2026-04-12 |
@@ -965,6 +967,7 @@
 | [The Whistleblower](https://open.spotify.com/track/3tjz79WyUdxsnt3RvGsbdh) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Under The East End Sky](https://open.spotify.com/album/7a3Bw6t0OBpaH6NNya0wnD) | 3:37 | 2025-12-23 | 2026-01-24 |
 | [The White Dance](https://open.spotify.com/track/2B65NHdWVHzZvWMHse7sU1) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [The White Dance](https://open.spotify.com/album/2rGAbnxoklQ6T7ojcm5pz9) | 3:19 | 2026-05-12 |  |
 | [The Woman I Have Never Been](https://open.spotify.com/track/1cAgYiSNH4Tw6uaTYycCQ5) | [LeLore](https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U) | [The Woman I Have Never Been](https://open.spotify.com/album/3mXIVaVxtvwBRg9cgOdPAo) | 3:21 | 2026-02-15 | 2026-03-15 |
+| [The words you never say](https://open.spotify.com/track/1IEasxoyUb6FdwhU6XFFSg) | [Nailuz](https://open.spotify.com/artist/75eTPvGYXVQkPzo0kVk6mg) | [The words you never say](https://open.spotify.com/album/6xOJUZ3pXos0VeNnN8jqVi) | 3:38 | 2026-05-28 |  |
 | [The world we know is in tears](https://open.spotify.com/track/3crCX8MAABq6xDt3qCKeAp) | [Max Fuxiano](https://open.spotify.com/artist/4Gu5jcgyRXfhW1Ity3Ie3m) | [The world we know is in tears](https://open.spotify.com/album/6ivxi50QJrihBqQrjrMG0w) | 3:40 | 2025-09-23 | 2025-11-29 |
 | [THEREISAMOON](https://open.spotify.com/track/3hJssZi5Bx6KWSOHFUwAcF) | [Screaming Lord Byron](https://open.spotify.com/artist/3o2K8R7odtpShOCa08g5Hk) | [THEREISAMOON](https://open.spotify.com/album/6X563ChYOgaGc3ZyfsDzh3) | 4:38 | 2025-12-30 | 2026-02-03 |
 | [These Hands](https://open.spotify.com/track/6bCz2JsoZ29pe5k48osLoF) | [Adamz Skalze](https://open.spotify.com/artist/4mRRtJpUTxeDAGM1VbNLjE), [Beth Warren](https://open.spotify.com/artist/0YNg73EWevJK44TvQxepdY) | [These Hands](https://open.spotify.com/album/2PHTHw5QjKqBdzgOFMbrkS) | 4:14 | 2025-11-30 | 2026-01-05 |
@@ -986,6 +989,7 @@
 | [Tita](https://open.spotify.com/track/3szBoeI0YAihQVqTI70Dgz) | [Last Song Bea](https://open.spotify.com/artist/4EMwMsHZTGFZSE4Mxl3dhV) | [Tita](https://open.spotify.com/album/27TYK7VqoPwcGZFhU880y7) | 5:08 | 2026-05-19 |  |
 | [Told You](https://open.spotify.com/track/6pZsGdDiSmd3LprU64nkJZ) | [Tanner Boyle](https://open.spotify.com/artist/0z56LGlbYts7mFcxurWIbt) | [Told You](https://open.spotify.com/album/3dhWJaOEj6IPGewYz7x46O) | 3:23 | 2026-04-21 |  |
 | [Tomando lo que me hace bien](https://open.spotify.com/track/5liTgR5jBraxJwnBdY9uy8) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Tomando lo que me hace bien](https://open.spotify.com/album/4242ndADN3vGSm0Yw1EqHf) | 5:05 | 2026-04-24 |  |
+| [tomorrow I'll try](https://open.spotify.com/track/4MoKm1Ze37SlGoNy9YrCls) | [Sweetshirt](https://open.spotify.com/artist/7uNgpGi95W3yBlDs2kB6cI) | [tomorrow I'll try](https://open.spotify.com/album/30HI6lQJkora43ky42u5mX) | 2:35 | 2026-05-28 |  |
 | [Tonno & Mais](https://open.spotify.com/track/0hO4qLR5aBkgjurivChdBD) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Tonno & Mais](https://open.spotify.com/album/6oD2jXFjAcyLMUX2IroM45) | 3:10 | 2026-02-14 | 2026-03-15 |
 | [Too Late](https://open.spotify.com/track/35sGt18IC60WKxa4yWPQ6k) | [NYROS RAY](https://open.spotify.com/artist/04yVrTH59bbO6VJXQvpdZv) | [Too Late](https://open.spotify.com/album/5mqUxIVALcXZijckupme57) | 3:13 | 2026-05-26 |  |
 | [Too Slow Too Strong](https://open.spotify.com/track/3UFy1nOeLLtp1iZ916oK9u) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Too Slow Too Strong](https://open.spotify.com/album/3EhqcaF65CYKt9cGMMhAjo) | 2:58 | 2026-02-12 | 2026-03-25 |

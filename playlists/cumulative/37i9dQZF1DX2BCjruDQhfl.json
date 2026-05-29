@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "It's giving vibes. Cover: Dammie & FJ",
+  "description": "It's giving vibes. Cover: Franglish & KeBlack",
   "name": "Vibes",
   "tracks": [
     {
@@ -840,6 +840,28 @@
       "duration_ms": 151160,
       "name": "Big Fish",
       "url": "https://open.spotify.com/track/6tzURsalrw2yun8CiboXk7"
+    },
+    {
+      "album": {
+        "name": "Billings (Ft. Chay)",
+        "url": "https://open.spotify.com/album/0rr6xgs82rpviEtSP8EvBr"
+      },
+      "artists": [
+        {
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+        },
+        {
+          "name": "Chay",
+          "url": "https://open.spotify.com/artist/2swT9y92QBNtQzSRTy8VDZ"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188004,
+      "name": "Billings (Ft. Chay)",
+      "url": "https://open.spotify.com/track/2IxievV1yUb2gDs8aa1VG7"
     },
     {
       "album": {
@@ -2289,6 +2311,28 @@
     },
     {
       "album": {
+        "name": "HEART",
+        "url": "https://open.spotify.com/album/2XQKrvcYx5Oby2oTLv0xkn"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146994,
+      "name": "HEART",
+      "url": "https://open.spotify.com/track/5MExgHwOCLbBARAv74OCOA"
+    },
+    {
+      "album": {
         "name": "Heel De Nacht (met Ruskey)",
         "url": "https://open.spotify.com/album/185nS9VuQ834LOtmb8Nees"
       },
@@ -2380,6 +2424,32 @@
       "duration_ms": 173164,
       "name": "Hoelang",
       "url": "https://open.spotify.com/track/3mbE896tJCeMFT2gBUtwuR"
+    },
+    {
+      "album": {
+        "name": "Kameleon",
+        "url": "https://open.spotify.com/album/0gA7TgT0bz0hBgsUOevoKz"
+      },
+      "artists": [
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        },
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        },
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Hoog",
+      "url": "https://open.spotify.com/track/60p06WUwnHKy4vB1QzVIog"
     },
     {
       "album": {
@@ -2905,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/2bQBB8NxtK4rCh1hkZjUw2"
+      },
+      "artists": [
+        {
+          "name": "SkyeIndy",
+          "url": "https://open.spotify.com/artist/2mT7QJhZE3gmwXAfpUIkPt"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145777,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5oD5K28sLSlFkqg9ZxznPJ"
+    },
+    {
+      "album": {
         "name": "KILLING ME SOFTLY",
         "url": "https://open.spotify.com/album/1rLOSP5vlajVaVfcjuAxOP"
       },
@@ -3062,6 +3150,28 @@
       "duration_ms": 122220,
       "name": "La Nuit",
       "url": "https://open.spotify.com/track/0IHhTBh6mjTSZgdYBYL9h6"
+    },
+    {
+      "album": {
+        "name": "La porte",
+        "url": "https://open.spotify.com/album/7xWOaKVO0Ge6DbbU8C17pf"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153489,
+      "name": "La porte",
+      "url": "https://open.spotify.com/track/6PQy7AQ04hfRwFcWfZGl4O"
     },
     {
       "album": {
@@ -3312,7 +3422,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 146206,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/5HBMAC4czl16G9oqH6TjlD"
@@ -3742,7 +3852,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 142826,
       "name": "MOOFAYAA",
       "url": "https://open.spotify.com/track/02zA1Is3BRqeb3eFBrvg6N"
@@ -4212,6 +4322,24 @@
       "duration_ms": 154041,
       "name": "Not Yours (Too Dangerous)",
       "url": "https://open.spotify.com/track/5fdWecYMrus5uBcHvDpHVM"
+    },
+    {
+      "album": {
+        "name": "Nu Ben Ik Bij Jou",
+        "url": "https://open.spotify.com/album/1XsLORN3lIxiSUWPoX4zIX"
+      },
+      "artists": [
+        {
+          "name": "Mpes",
+          "url": "https://open.spotify.com/artist/1OR4lRZJgv9KJCIbRV9qOT"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173764,
+      "name": "Nu Ben Ik Bij Jou",
+      "url": "https://open.spotify.com/track/2FKOgObl88zCM3poyguj78"
     },
     {
       "album": {
@@ -4904,7 +5032,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 186312,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W"
@@ -6072,7 +6200,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 197307,
       "name": "Top Of The Game",
       "url": "https://open.spotify.com/track/0oxgyZjxq7u6UvWsdFJ0My"
@@ -6338,7 +6466,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 165000,
       "name": "VICTIM",
       "url": "https://open.spotify.com/track/1NZ0lkkvagc3Roy2QCr6Cz"
@@ -6740,7 +6868,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 164267,
       "name": "Where It Hurts",
       "url": "https://open.spotify.com/track/2Sqj1K35PogUxvsVALBMRo"

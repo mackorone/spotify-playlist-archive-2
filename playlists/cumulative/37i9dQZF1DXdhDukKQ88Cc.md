@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> @ozzyviceversa 👀
+> Gilli + Cizzo 👀
 
-547 songs - 23 hr 20 min
+552 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Balancen \(feat\. Kesi\)](https://open.spotify.com/track/4sGUkfsLxIK4tZxLZt0unU) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [DK GOAT](https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ) | 2:53 | 2023-10-12 | 2024-01-19 |
 | [Balotelli](https://open.spotify.com/track/2WcRxjNiwMSFfL9H5rNf6f) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Balotelli](https://open.spotify.com/album/63a0PQAbUL3vaDd3Cbbr85) | 2:01 | 2025-04-24 | 2025-05-16 |
 | [Bange For At Elske](https://open.spotify.com/track/1ezodvBUxbsU95tLPVDIjz) | [Joey Moe](https://open.spotify.com/artist/0XuMowqsbFr0TmhOHfmWuc), [DIBSET](https://open.spotify.com/artist/4g53FCcxQZEj8SSr1rHmiH) | [Bange For At Elske](https://open.spotify.com/album/5zkZTMBB7HeGJzUstN34tf) | 2:51 | 2025-02-14 | 2025-04-18 |
+| [BAR GØR DET](https://open.spotify.com/track/62YoirydQgxNVCM0CwvBGS) | [Jimilian](https://open.spotify.com/artist/7wy9Plp8SD5l3LDuJubTcv) | [BAR GØR DET](https://open.spotify.com/album/3z2nH1SAm6FGTaJ0aXJZf6) | 2:04 | 2026-05-28 |  |
 | [Barcelona](https://open.spotify.com/track/2WHlIijZW8Wg2rnzCt59fT) | [Volkan](https://open.spotify.com/artist/0bIoVDzI4BefNfAQid4nox) | [Barcelona](https://open.spotify.com/album/3gjER3vO2O3ObxPdPPWZ3h) | 2:00 | 2023-12-14 | 2024-09-13 |
 | [Bare Vent \(feat\. Artigeardit\)](https://open.spotify.com/track/5TC4trc7XgCCkycbTSTqV2) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 2:21 | 2025-01-16 | 2026-04-10 |
 | [Barn Af Byen Freestyle](https://open.spotify.com/track/2SU1ddE0ZApcf91ClCs72w) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Barn Af Byen Freestyle](https://open.spotify.com/album/27d6X9oLPAYdjWRSF2sIRh) | 1:54 | 2024-09-05 | 2024-11-08 |
@@ -88,6 +89,7 @@
 | [Bobler](https://open.spotify.com/track/6zoMh03Bp5aAJhnb46ej03) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Menneskelige Tendenser](https://open.spotify.com/album/7wb25FsDjGO0sL1BTNqVHd) | 3:16 | 2025-11-13 | 2026-01-23 |
 | [Bombay \(feat\. Belly\)](https://open.spotify.com/track/5XfLvZjDEwgOjpLNKS0Nv0) | [PAY](https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9) | [Bombay \(feat\. Belly\)](https://open.spotify.com/album/75anG1EjD6Ui4MV3wY1YXb) | 2:16 | 2024-07-11 | 2024-09-13 |
 | [Booty Up](https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:03 | 2024-08-08 | 2025-02-28 |
+| [BOUNCE](https://open.spotify.com/track/4OFLTQoQBrDDDzTLjgNPwB) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [BOUNCE](https://open.spotify.com/album/1hxVpatMXOxBWMc0tsfjta) | 2:12 | 2026-05-28 |  |
 | [Bow Wow](https://open.spotify.com/track/1Na00sneOcO1jEzhAUCXa1) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Bow Wow](https://open.spotify.com/album/4OGRZIZyrGgNGIRlgFh2dZ) | 1:57 | 2026-01-05 | 2026-01-23 |
 | [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 | 2024-01-19 |
 | [BRAVO](https://open.spotify.com/track/2ZhWz4ZbCALY755X9fVOwj) | [FVN](https://open.spotify.com/artist/7jU246Fk8MhOO33vfDhKNV) | [BRAVO](https://open.spotify.com/album/4m5fXEapiKoSgVy5TgVz2R) | 2:14 | 2026-01-22 | 2026-01-30 |
@@ -291,6 +293,7 @@
 | [Intet Nyt \(feat\. Gilli\)](https://open.spotify.com/track/4Bmua8zRMOEaqV45JbmhAH) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Intet Nyt \(feat\. Gilli\)](https://open.spotify.com/album/1CJ1RiMGtZkcEP5xJYJ25n) | 2:54 | 2024-02-01 | 2024-10-04 |
 | [INTRO.VERT](https://open.spotify.com/track/5QzTdxetiyLCGJC29UI1kK) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [INTRO.VERT](https://open.spotify.com/album/1jAjltECXiV61MCcpDnWeY) | 2:34 | 2024-11-07 | 2024-12-06 |
 | [INTROLUDE](https://open.spotify.com/track/7F6Obrc3MbKxmkLioYyTf3) | [MARQ](https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x) | [INTROLUDE](https://open.spotify.com/album/3HBPyk4kSeXssiSlqcZXUw) | 3:16 | 2025-11-20 | 2026-01-02 |
+| [Ivrig](https://open.spotify.com/track/2KN3oDrrcQGVEflzdGDcDl) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Ivrig](https://open.spotify.com/album/0T4s2FNI0JGlkbjaNScuLa) | 2:48 | 2026-05-28 |  |
 | [JACK & PEPSI](https://open.spotify.com/track/4rBFry7KERpMK0TnvWec9d) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [JACK & PEPSI](https://open.spotify.com/album/7sGyaU81DDhnyRsNDE7M4S) | 2:16 | 2024-11-21 | 2025-05-16 |
 | [Je Ka Jo](https://open.spotify.com/track/0GFJI3tJuE9S3su4H8Co2G) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Je Ka Jo](https://open.spotify.com/album/29OCZ1A2FbLNBvoDrlEUf0) | 2:58 | 2023-09-29 | 2024-09-13 |
 | [Jeg Venter Kun På Dig](https://open.spotify.com/track/3GT8yZ5TTgL3ZpjuJ944uu) | [willum](https://open.spotify.com/artist/5TkuPbaXBv3T08JcdvsiDz) | [Jeg Venter Kun På Dig](https://open.spotify.com/album/4ZDpx31270qcGkryOc3HN0) | 3:31 | 2025-10-02 | 2025-10-17 |
@@ -351,6 +354,7 @@
 | [Mannschaft](https://open.spotify.com/track/13PJBkdi5W6h438CRjCTk4) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Mannschaft](https://open.spotify.com/album/50OWKkK1u1qIxUt6uf8XJG) | 2:16 | 2025-10-16 | 2025-11-21 |
 | [Marcelo](https://open.spotify.com/track/5dRw9iWHJYEw3eAVu20JhJ) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Young & Heartless](https://open.spotify.com/album/1c9x0b4WAEXdKHYyTAT8hL) | 2:02 | 2025-10-30 | 2026-04-10 |
 | [Marinering](https://open.spotify.com/track/1280hDWpO5hNiY5AB7M7jL) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI) | [Marinering](https://open.spotify.com/album/3PZHL0cl9aE0ZpbIwKoEdq) | 1:57 | 2025-08-21 | 2025-09-19 |
+| [Marvel](https://open.spotify.com/track/3xo7KuTSE9Jj6t1hPH7hVW) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Marvel](https://open.spotify.com/album/7fMQNhReJWDjSiVs3thhLv) | 2:16 | 2026-05-28 |  |
 | [MASKINEN](https://open.spotify.com/track/1Zcjgr8xX79taShapdR7Zk) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/2UOXeTje2by7s3e8nLdc5q) | 2:13 | 2023-11-16 | 2024-09-13 |
 | [MASKINEN](https://open.spotify.com/track/2dgFFuTVQgX482FK3qA3fW) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [MASKINEN](https://open.spotify.com/album/7aDIiIQVIGVi5b0gYVHMhk) | 2:13 | 2024-02-22 | 2024-04-19 |
 | [MDMA](https://open.spotify.com/track/6IybluLzGGNRTe8blxh69C) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Mange Døjer Med Angst](https://open.spotify.com/album/5txniOdxQFJAotpTiCJGUj) | 2:37 | 2023-10-12 | 2023-12-14 |
@@ -412,6 +416,7 @@
 | [Puttin In Work](https://open.spotify.com/track/5Sk88myPHrySWHk2HfEE7C) | [Faza](https://open.spotify.com/artist/0hkBz0U3f8R7BUbQcROEmR) | [Puttin In Work](https://open.spotify.com/album/5LJWJ8tyD6fFMRitusW3Tr) | 2:41 | 2024-07-25 | 2024-09-13 |
 | [PÅ MIN GRAVSTEN](https://open.spotify.com/track/5JgeJM9xyykxSXsXvkDRo3) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [PÅ MIN GRAVSTEN](https://open.spotify.com/album/1N7pxlKRHJpB2EGFQnufLn) | 2:46 | 2025-10-23 | 2025-11-07 |
 | [PÅ TIL DET SAMME](https://open.spotify.com/track/2OD3EFIqq5w9XZNlaT5SwS) | [Elias](https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K) | [PÅ TIL DET SAMME](https://open.spotify.com/album/5NfrOu0p6wuOjrf72B9orO) | 1:56 | 2025-10-02 | 2025-10-17 |
+| [Rammer Mig Ik'](https://open.spotify.com/track/63QZYodrrUlRIxQcuY7mhR) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Rammer Mig Ik'](https://open.spotify.com/album/0TMAEUPkKoCn3JqrrFTcvg) | 3:04 | 2026-05-28 |  |
 | [Ramt I Natten](https://open.spotify.com/track/4Kwwp0MxTDm3Qppvbr8ETg) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8), [Luqa Dhere](https://open.spotify.com/artist/5siqoZNodIfbCqL0POuRJa), [Akiba](https://open.spotify.com/artist/6345d96wPs1wcEtwVyJCv7) | [Ramt I Natten](https://open.spotify.com/album/4bs0E4fBxwGuuYbaRBoUVX) | 2:37 | 2025-07-17 | 2025-07-25 |
 | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/track/3b7vV6z96LzkMXHDHFnI98) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/album/2pJqGNMut48lMvxFWu8A99) | 2:26 | 2024-10-04 | 2025-05-16 |
 | [Remontada](https://open.spotify.com/track/2SVWPpH1edfYve9fiDKBhn) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Remontada](https://open.spotify.com/album/3JcDTRMCskUc1pp3pNBaW9) | 2:05 | 2025-02-06 | 2026-04-10 |

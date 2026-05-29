@@ -2,7 +2,7 @@
 
 ### [soulful](https://open.spotify.com/playlist/37i9dQZF1DX2AHwa6tQ2Yy)
 
-> Try a little tenderness\. Cover: 54 Ultra
+> Try a little tenderness\. Cover: Boy Soda
 
 384 songs - 23 hr 47 min
 

@@ -4,7 +4,7 @@
 
 > 50% techno, 50% house 🙌 Tech house operators, featuring Michael Bibi
 
-2,811 songs - 6 day 9 hr 26 min
+2,812 songs - 6 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [BRAZIL](https://open.spotify.com/track/1ORp1yoMlfMqlRn83VTB2O) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [BRAZIL](https://open.spotify.com/album/1XpQBTKoUEImwzvgolPS0K) | 3:32 | 2023-04-28 | 2023-06-17 |
 | [Bread \(Odd Mob Remix\)](https://open.spotify.com/track/2a7S20OOYMYdwka6SxCynO) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Bread: The Remixes](https://open.spotify.com/album/0fdeYl2s70ftEpAfpU6JPh) | 3:08 | 2024-11-25 | 2025-05-10 |
 | [Break](https://open.spotify.com/track/0KDWgkllpxZtcy5fNQOzwO) | [Tini Gessler](https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x) | [Break](https://open.spotify.com/album/1s7ypuIcLO2C9Qc4MFH4hj) | 2:31 | 2026-03-13 |  |
+| [Break It](https://open.spotify.com/track/05vKwFHsiDpr6zk7rG1qd6) | [HILLS](https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB), [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Break It](https://open.spotify.com/album/0JD8sFcQhjXwK68RrGrh5Y) | 3:07 | 2026-05-28 |  |
 | [Break Me](https://open.spotify.com/track/3dyVoiP0ILIhXX2M7vLbb4) | [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [Break Me](https://open.spotify.com/album/5pRertvO2FCoqev0BYRZ9E) | 3:24 | 2024-01-05 | 2024-02-17 |
 | [Break That](https://open.spotify.com/track/0v9DhX3OjnPZzGyQmGUvJR) | [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5) | [Break That](https://open.spotify.com/album/0Ye03Hgzpym1f5ReuVVhoe) | 2:24 | 2025-05-09 | 2025-09-27 |
 | [Break The House Down](https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Break The House Down](https://open.spotify.com/album/40DYtoYfqk3Rif6ChWA5aq) | 3:28 | 2024-10-04 | 2025-02-08 |
@@ -1253,7 +1254,7 @@
 | [Inside My Mind](https://open.spotify.com/track/3vl8JYvFMneZNXSGvMjrZI) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Inside My Mind](https://open.spotify.com/album/0vE2iJeMSfo7Q3J2b4esej) | 3:29 | 2023-02-10 | 2023-04-22 |
 | [Inside The Rhythm \(feat\. Mizbee\)](https://open.spotify.com/track/0yZnMCqDkrPVry2nuan3Iz) | [Maxinne](https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq), [Mizbee](https://open.spotify.com/artist/2gqyi88Qa4bZ2AGYbFCPIh) | [Inside The Rhythm \(feat\. Mizbee\)](https://open.spotify.com/album/6mwA5K6zhb8Zo9O4eFHfpm) | 3:22 | 2023-02-17 | 2023-04-22 |
 | [Intergalactic](https://open.spotify.com/track/7ffgc891MkZ8ZN6vLzYX8J) | [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a) | [Intergalactic](https://open.spotify.com/album/3m0nVk1a0sMRKQnpVuRh5e) | 3:04 | 2023-12-01 | 2024-02-19 |
-| [Interlude](https://open.spotify.com/track/381jPDN0rwVGOWxrtlQ6ek) | [VLAD](https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj) | [Interlude EP](https://open.spotify.com/album/2jbqKKQDZW2I83VVSbr64B) | 3:39 | 2026-03-04 |  |
+| [Interlude](https://open.spotify.com/track/381jPDN0rwVGOWxrtlQ6ek) | [VLAD](https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj) | [Interlude EP](https://open.spotify.com/album/2jbqKKQDZW2I83VVSbr64B) | 3:39 | 2026-03-04 | 2026-05-29 |
 | [Into The Dark](https://open.spotify.com/track/5lQ6ZiSIqBpuXHTOLGJNw5) | [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m), [LEIIYA](https://open.spotify.com/artist/7CJ9bjvRepPsDpV5rXR4k1) | [Into The Dark](https://open.spotify.com/album/78RM85tTToU2jNItZkTPCj) | 4:01 | 2024-11-29 | 2024-12-07 |
 | [Into The Groove](https://open.spotify.com/track/2DGZwPbTxiiWB8gESqpdpi) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Into The Groove](https://open.spotify.com/album/17xCmo0ONouJXPuRzZBVFi) | 3:11 | 2021-11-26 | 2022-03-18 |
 | [Intoxicated](https://open.spotify.com/track/2BisOilWiyxNr0NMoZRxO6) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Intoxicated](https://open.spotify.com/album/0jpb8dwJSWcZOgao05mnGt) | 2:20 | 2026-01-30 | 2026-03-14 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: ana\u00efs",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: yola, Dani Lia",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -416,6 +416,24 @@
       "duration_ms": 141675,
       "name": "2004",
       "url": "https://open.spotify.com/track/0Wg02PqQkQqiT7YbXShWJE"
+    },
+    {
+      "album": {
+        "name": "2016",
+        "url": "https://open.spotify.com/album/79JQCEgltHLRpvevz3exHs"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114093,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/1wOMDZVFe2xZ6m0k6YCFZe"
     },
     {
       "album": {
@@ -1869,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "Alles Vorbei",
+        "url": "https://open.spotify.com/album/6WSrS9493WOYnk3OgLImGT"
+      },
+      "artists": [
+        {
+          "name": "Quirinello",
+          "url": "https://open.spotify.com/artist/19mDwgw6B5DVjiN4KZVlQp"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199146,
+      "name": "Alles Vorbei",
+      "url": "https://open.spotify.com/track/475EYKLvOX9YaCJJ4cHrsS"
+    },
+    {
+      "album": {
         "name": "Alles was du brauchst",
         "url": "https://open.spotify.com/album/2ChWTVvC6kj491VXYcR6gx"
       },
@@ -2584,7 +2620,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 174923,
       "name": "Atme ein: Raste aus",
       "url": "https://open.spotify.com/track/0iSnZR25PJZ4A2JXy1tuoN"
@@ -2682,6 +2718,28 @@
       "duration_ms": 130421,
       "name": "Aufgeh\u00f6rt zu tr\u00e4umen",
       "url": "https://open.spotify.com/track/2pDzopjO6BhVbcbZTKhkw5"
+    },
+    {
+      "album": {
+        "name": "aufn sack",
+        "url": "https://open.spotify.com/album/6vvdUrfblEJDSDRPyfeRE1"
+      },
+      "artists": [
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        },
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157357,
+      "name": "aufn sack",
+      "url": "https://open.spotify.com/track/6VAVWjLEIw39ytztumagau"
     },
     {
       "album": {
@@ -3268,6 +3326,24 @@
       "duration_ms": 223010,
       "name": "Bar Royal",
       "url": "https://open.spotify.com/track/38zR4B1VcFqtSKOZWeQ5Mk"
+    },
+    {
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/6M0Pkl89MLLkYwgV9OyCmr"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206408,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/0Q4wFsYNtf9nl7WkPXsb5g"
     },
     {
       "album": {
@@ -5237,6 +5313,24 @@
     },
     {
       "album": {
+        "name": "Cooked",
+        "url": "https://open.spotify.com/album/3LfUqTDnsITpVVoO3go4qz"
+      },
+      "artists": [
+        {
+          "name": "amelie",
+          "url": "https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Cooked",
+      "url": "https://open.spotify.com/track/7piFVylkRO6hOmQanHlDOZ"
+    },
+    {
+      "album": {
         "name": "Cool",
         "url": "https://open.spotify.com/album/0WXofhhWkaD6NmI5Dwj9pw"
       },
@@ -7090,7 +7184,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 168205,
       "name": "Du fehlst",
       "url": "https://open.spotify.com/track/2uNModvonKjhBM7oaLLXTJ"
@@ -8362,6 +8456,24 @@
       "duration_ms": 134822,
       "name": "Er oder Sie oder Du",
       "url": "https://open.spotify.com/track/1ojpWs42lG7y9FlB0xQXPk"
+    },
+    {
+      "album": {
+        "name": "Erdbeereis",
+        "url": "https://open.spotify.com/album/1M0Ey1JVjGgNnTlZTza3lV"
+      },
+      "artists": [
+        {
+          "name": "Julie",
+          "url": "https://open.spotify.com/artist/5oauHSnziOzOh8jYhHs8Oi"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149589,
+      "name": "Erdbeereis",
+      "url": "https://open.spotify.com/track/6UcfekMI5nzNwPb3fNbal0"
     },
     {
       "album": {
@@ -10596,7 +10708,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 154204,
       "name": "f\u00fcr immer ich",
       "url": "https://open.spotify.com/track/3kjTkxxw55Q9HY52RF1oTc"
@@ -10722,7 +10834,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 183033,
       "name": "F\u00fcrimmerlich",
       "url": "https://open.spotify.com/track/4ZRBJt6QXKVybDGTyO2tEd"
@@ -10960,7 +11072,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 133814,
       "name": "GEIL",
       "url": "https://open.spotify.com/track/1nXPLmT3IeLvvMP96aLfJT"
@@ -11316,6 +11428,24 @@
       "duration_ms": 155638,
       "name": "gewinner_v2",
       "url": "https://open.spotify.com/track/4zECUk7oFraVwDUf3x6uR5"
+    },
+    {
+      "album": {
+        "name": "gewitter",
+        "url": "https://open.spotify.com/album/6FYFS8DV6HTrkr9nsoKCsx"
+      },
+      "artists": [
+        {
+          "name": "Jambus",
+          "url": "https://open.spotify.com/artist/2QZXIiO5fcbdhq7JSaL8ma"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129934,
+      "name": "gewitter",
+      "url": "https://open.spotify.com/track/4FTQpUEBblkDyn16dDjJtF"
     },
     {
       "album": {
@@ -12946,7 +13076,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 163979,
       "name": "HERZ AUS PLASTIK",
       "url": "https://open.spotify.com/track/25k6o1z8YNIIafyldMUFdB"
@@ -13640,6 +13770,24 @@
       "duration_ms": 181333,
       "name": "Ich hab Angst",
       "url": "https://open.spotify.com/track/39laCiQUfz9UO7E2gHWoVy"
+    },
+    {
+      "album": {
+        "name": "Ich hab das nie gehabt",
+        "url": "https://open.spotify.com/album/0lPgVf2LlSTeLUNPIoZiGP"
+      },
+      "artists": [
+        {
+          "name": "Jakob Ude",
+          "url": "https://open.spotify.com/artist/0gDG1LlsqO4O5w1ilk2iAH"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141895,
+      "name": "Ich hab das nie gehabt",
+      "url": "https://open.spotify.com/track/73Rzc2roeMf1fmzLr8qnEc"
     },
     {
       "album": {
@@ -23074,7 +23222,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 195680,
       "name": "Rave On",
       "url": "https://open.spotify.com/track/2U3q3hrMWOTRDqPTTqrfHw"
@@ -26298,7 +26446,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 168712,
       "name": "sommerwind",
       "url": "https://open.spotify.com/track/3puY290XhaYRHxebmg9NvN"
@@ -27676,7 +27824,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 162548,
       "name": "TANZSCHEIN",
       "url": "https://open.spotify.com/track/6P4wvzxJJZR7cVs1kFXL3q"
@@ -28247,6 +28395,24 @@
     },
     {
       "album": {
+        "name": "letzter tag",
+        "url": "https://open.spotify.com/album/0dBtMBFhRjnBValwhWS8dA"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/0Moio5plYolRIS6HpmqjRD"
+    },
+    {
+      "album": {
         "name": "trauen",
         "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
       },
@@ -28616,7 +28782,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 133082,
       "name": "Turbofresh",
       "url": "https://open.spotify.com/track/4MvB5zSLSxNPzmgTXWPH9J"
@@ -29782,10 +29948,28 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 187986,
       "name": "Viel passiert",
       "url": "https://open.spotify.com/track/6S1tfkuc1rqeibQbjnv7tS"
+    },
+    {
+      "album": {
+        "name": "Viel zu viel",
+        "url": "https://open.spotify.com/album/6Fne9NbfCvPqI6qD8xPITx"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138739,
+      "name": "Viel zu viel",
+      "url": "https://open.spotify.com/track/1C8vx4jzvtbIIYYfmZILOf"
     },
     {
       "album": {
@@ -30172,7 +30356,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 156259,
       "name": "Wach",
       "url": "https://open.spotify.com/track/2g0KRVZHZ5quYc77w3T0q9"
@@ -30480,6 +30664,24 @@
       "duration_ms": 168728,
       "name": "Warum",
       "url": "https://open.spotify.com/track/1bfNkC1ojUfEypkGFtbQsl"
+    },
+    {
+      "album": {
+        "name": "Warum bist du so gemein?",
+        "url": "https://open.spotify.com/album/4bbscC4LYYehYaC01pyM59"
+      },
+      "artists": [
+        {
+          "name": "bella bazz",
+          "url": "https://open.spotify.com/artist/6TZ4Gec7rIjvA0Gq7Ps4zi"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128759,
+      "name": "Warum bist du so gemein?",
+      "url": "https://open.spotify.com/track/1hvC4zi6wELchx7cWRWRGW"
     },
     {
       "album": {
@@ -31397,6 +31599,24 @@
     },
     {
       "album": {
+        "name": "Wenn Es Liebe Noch Gibt",
+        "url": "https://open.spotify.com/album/37mUvVzSEwObfhVkOrC6oV"
+      },
+      "artists": [
+        {
+          "name": "diggidaniel",
+          "url": "https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143017,
+      "name": "Wenn Es Liebe Noch Gibt",
+      "url": "https://open.spotify.com/track/2MeFzP8dUdyUzw58ud0VOP"
+    },
+    {
+      "album": {
         "name": "wenn es regnet (hauptbahnhof)",
         "url": "https://open.spotify.com/album/2n7nYTf3zKB3QkHT3AX94h"
       },
@@ -31828,7 +32048,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 144859,
       "name": "wie lang geht das noch gut",
       "url": "https://open.spotify.com/track/4YCIZm90kKtHchOFqrWyaw"
@@ -32910,6 +33130,24 @@
       "duration_ms": 146635,
       "name": "Zimmerpflanze",
       "url": "https://open.spotify.com/track/4rOEdJmcop5bNKC95SEcml"
+    },
+    {
+      "album": {
+        "name": "Zitroneneis",
+        "url": "https://open.spotify.com/album/1QGeCrD5NUPh354ODG7JaR"
+      },
+      "artists": [
+        {
+          "name": "Cordoba78",
+          "url": "https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174160,
+      "name": "Zitroneneis",
+      "url": "https://open.spotify.com/track/7bI5y4JotQCqZXgWGSVvZO"
     },
     {
       "album": {

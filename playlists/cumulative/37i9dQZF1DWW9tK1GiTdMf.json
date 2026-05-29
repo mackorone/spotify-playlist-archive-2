@@ -3397,6 +3397,24 @@
     },
     {
       "album": {
+        "name": "Balleremo",
+        "url": "https://open.spotify.com/album/1NkMN4kEtsUwir8JRum22H"
+      },
+      "artists": [
+        {
+          "name": "Dasplan",
+          "url": "https://open.spotify.com/artist/3NTgDjVbLSiv0d7NW6MGhP"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199717,
+      "name": "Balleremo",
+      "url": "https://open.spotify.com/track/4cjGNHTLNQ2XWtnV3vbhgr"
+    },
+    {
+      "album": {
         "name": "BAMBINA IN DISCOTECA",
         "url": "https://open.spotify.com/album/0Hc1ajYXVxUQyoOZ1aP5x1"
       },
@@ -12843,6 +12861,24 @@
     },
     {
       "album": {
+        "name": "GOCCIOLINE",
+        "url": "https://open.spotify.com/album/00OEbyvdXwNF9CBzYdwwzo"
+      },
+      "artists": [
+        {
+          "name": "Peri",
+          "url": "https://open.spotify.com/artist/25gKeRAlEboMka2vEcTJsl"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182350,
+      "name": "GOCCIOLINE",
+      "url": "https://open.spotify.com/track/2nxDEEv10MBHjXVqAMPmSA"
+    },
+    {
+      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1aVsfI84q3OHuC0gpcFTij"
       },
@@ -19922,6 +19958,24 @@
       "duration_ms": 151178,
       "name": "NON CI SENTIAMO",
       "url": "https://open.spotify.com/track/1IE3dsoXPx6PK19rVb01bN"
+    },
+    {
+      "album": {
+        "name": "Non Dirlo a Nessuno",
+        "url": "https://open.spotify.com/album/5v9LKjUfCLlKOSlbdgwvgU"
+      },
+      "artists": [
+        {
+          "name": "edoEdo",
+          "url": "https://open.spotify.com/artist/7y8r29XzidWpzDmSuhHZVP"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151578,
+      "name": "Non Dirlo a Nessuno",
+      "url": "https://open.spotify.com/track/0xFSKX78eemmBowhKGxzVl"
     },
     {
       "album": {

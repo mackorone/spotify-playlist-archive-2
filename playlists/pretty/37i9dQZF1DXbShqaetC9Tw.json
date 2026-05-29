@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 147157,
+  "num_followers": 147150,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-04-01 10:59:09",
       "album": {
-        "name": "4 Seasons",
-        "url": "https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX"
-      },
-      "artists": [
-        {
-          "name": "MELOH",
-          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
-        },
-        {
-          "name": "VVON",
-          "url": "https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby"
-        }
-      ],
-      "duration_ms": 151106,
-      "name": "4 Seasons",
-      "url": "https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X"
-    },
-    {
-      "added_at": "2026-04-01 10:59:09",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 212840,
       "name": "Poker (Feat. Dvwn)",
       "url": "https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2"
+    },
+    {
+      "added_at": "2026-04-01 10:59:09",
+      "album": {
+        "name": "4 Seasons",
+        "url": "https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX"
+      },
+      "artists": [
+        {
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+        },
+        {
+          "name": "VVON",
+          "url": "https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby"
+        }
+      ],
+      "duration_ms": 151106,
+      "name": "4 Seasons",
+      "url": "https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X"
     },
     {
       "added_at": "2026-04-01 10:59:09",

@@ -1,6 +1,6 @@
 {
   "description": "Christian & Gospel songs for the whole family.",
-  "num_followers": 149174,
+  "num_followers": 149202,
   "original_name": "Christian & Gospel Kids",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,26 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "10,000 Reasons Kids Worship",
-        "url": "https://open.spotify.com/album/07DP9kppRYFnU34nQYiqO7"
+        "name": "Rise and Shine Give God the Glory",
+        "url": "https://open.spotify.com/album/6mQjlWl5vbK8UAInTARG8x"
       },
       "artists": [
         {
-          "name": "Worship Together Kids",
-          "url": "https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4"
+          "name": "Sunday School Songs",
+          "url": "https://open.spotify.com/artist/6cd0NAKYLoAVLp6s3hUi2R"
+        },
+        {
+          "name": "Give God the Glory",
+          "url": "https://open.spotify.com/artist/67QrLzSYsvDQqZlkd0LHA1"
+        },
+        {
+          "name": "Wee Sing",
+          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
         }
       ],
-      "duration_ms": 338000,
-      "name": "10,000 Reasons (Bless The Lord)",
-      "url": "https://open.spotify.com/track/7iNaSqWO7ytcFnDfTlRBPi"
+      "duration_ms": 138000,
+      "name": "Rise and Shine Give God the Glory",
+      "url": "https://open.spotify.com/track/4165KZqyu1DaTXAFBCBuVp"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -163,26 +171,18 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "Rise and Shine Give God the Glory",
-        "url": "https://open.spotify.com/album/6mQjlWl5vbK8UAInTARG8x"
+        "name": "10,000 Reasons Kids Worship",
+        "url": "https://open.spotify.com/album/07DP9kppRYFnU34nQYiqO7"
       },
       "artists": [
         {
-          "name": "Sunday School Songs",
-          "url": "https://open.spotify.com/artist/6cd0NAKYLoAVLp6s3hUi2R"
-        },
-        {
-          "name": "Give God the Glory",
-          "url": "https://open.spotify.com/artist/67QrLzSYsvDQqZlkd0LHA1"
-        },
-        {
-          "name": "Wee Sing",
-          "url": "https://open.spotify.com/artist/4lzlU08DosVqrpEoOvf3DQ"
+          "name": "Worship Together Kids",
+          "url": "https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Rise and Shine Give God the Glory",
-      "url": "https://open.spotify.com/track/4165KZqyu1DaTXAFBCBuVp"
+      "duration_ms": 338000,
+      "name": "10,000 Reasons (Bless The Lord)",
+      "url": "https://open.spotify.com/track/7iNaSqWO7ytcFnDfTlRBPi"
     },
     {
       "added_at": "2026-05-12 05:39:19",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-05-12 05:39:19",
       "album": {
-        "name": "For God So Loved the World (John 3:16)",
-        "url": "https://open.spotify.com/album/0yWn2kyAQUNunfxlgJ3oIq"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Kids",
-          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
-        }
-      ],
-      "duration_ms": 125397,
-      "name": "For God So Loved the World (John 3:16)",
-      "url": "https://open.spotify.com/track/144x70vTdHpDTNkRvhgEqB"
-    },
-    {
-      "added_at": "2026-05-12 05:39:19",
-      "album": {
         "name": "Top 50 Kids' Praise! Company",
         "url": "https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 240373,
       "name": "How Great Is Our God",
       "url": "https://open.spotify.com/track/0QWFvWKOnA9giC28sQnCfy"
+    },
+    {
+      "added_at": "2026-05-12 05:39:19",
+      "album": {
+        "name": "For God So Loved the World (John 3:16)",
+        "url": "https://open.spotify.com/album/0yWn2kyAQUNunfxlgJ3oIq"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Kids",
+          "url": "https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI"
+        }
+      ],
+      "duration_ms": 125397,
+      "name": "For God So Loved the World (John 3:16)",
+      "url": "https://open.spotify.com/track/144x70vTdHpDTNkRvhgEqB"
     },
     {
       "added_at": "2026-05-12 05:39:19",

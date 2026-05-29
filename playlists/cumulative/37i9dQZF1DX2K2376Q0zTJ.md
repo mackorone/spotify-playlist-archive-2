@@ -2,9 +2,9 @@
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 女性のエンパワメントをテーマに、MUSIC AWARDS JAPAN WEEKに開催される”Women In Music \- EQUAL STAGE”を特集！詳細は<a href="https://www.billboard\-japan.com/wim\-equal/">こちら</a> cover: 新しい学校のリーダーズ
+> 女性のエンパワメントをテーマに、MUSIC AWARDS JAPAN WEEKに開催される”Women In Music \- EQUAL STAGE”を特集！詳細は<a href="https://www.billboard\-japan.com/wim\-equal/">こちら</a> cover: LANA
 
-1,540 songs - 3 day 18 hr 30 min
+1,541 songs - 3 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Don’t worry](https://open.spotify.com/track/5rm0XIwxep2cItmSM4ePJu) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [Everything](https://open.spotify.com/album/2gH6Zcfwe9H3hN37TSX9wL) | 2:49 | 2023-06-06 | 2023-07-05 |
 | [Dots In The Maze](https://open.spotify.com/track/2TItx1M3hfmEq6HJmWuHTQ) | [Buffalo Daughter](https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby), [PAC\-MAN 40th ANNIVERSARY](https://open.spotify.com/artist/52lGJLWFSm4T3alejxh8ok) | [PAC\-MAN 40th ANNIVERSARY COLLABORATION vol.3](https://open.spotify.com/album/0Lc2kz69G33kHx4k7CfEMP) | 5:52 | 2022-01-04 | 2022-02-02 |
 | [DRAG](https://open.spotify.com/track/1E7ziN1yrE18pJ55ech2XR) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [DRAG](https://open.spotify.com/album/6qItSBH2995bdjIe0qdoZx) | 3:15 | 2022-05-31 | 2022-07-06 |
+| [Drama Queen](https://open.spotify.com/track/1DGV2zgMNiFnhWoUF1CQfw) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Drama Queen](https://open.spotify.com/album/1HRibxEOHHtZuhRMmCkpVO) | 2:58 | 2026-05-28 |  |
 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 | 2022-10-04 | 2022-11-09 |
 | [DREAM DRIVE](https://open.spotify.com/track/1cRblCUtL5Ng9DelHJXOR8) | [AYA A.K.A PANDA](https://open.spotify.com/artist/6H3niqx3EU1Cg14nMe0PhN) | [Blue Ocean](https://open.spotify.com/album/10DhEGQYa2D0RQzzFEVExv) | 3:56 | 2023-05-02 | 2023-06-07 |
 | [Dream Surfer](https://open.spotify.com/track/0FchMH91UlC2azWX6XogDx) | [minakumari](https://open.spotify.com/artist/55QqYhhbFI4EegcCPfAGvF) | [shanti, shanti, shanti!](https://open.spotify.com/album/6toyUQobVL2cR5ZpNgAAM7) | 4:25 | 2022-11-08 | 2022-12-07 |
@@ -532,7 +533,7 @@
 | [Life Goes On](https://open.spotify.com/track/1HDS0yf0VtFpMhS0qEyP4H) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [RESPECT ALL](https://open.spotify.com/album/2yEGTWb8SrvhEopxI5vwpy) | 5:30 | 2023-09-05 | 2024-03-06 |
 | [Life of the Party](https://open.spotify.com/track/7jKspZp3u7mIqO2navtJVP) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW), [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Life of the Party](https://open.spotify.com/album/0a2toNkR3BmJcRUWnVXWfE) | 3:24 | 2023-06-06 | 2023-07-05 |
 | [Lifestyle](https://open.spotify.com/track/5ui8Gewy9y3sCBtuyWqj4t) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:55 | 2026-03-19 |  |
-| [Like a Flower](https://open.spotify.com/track/3SS77BL8QoIWyoK0u7pDGQ) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Like a Flower](https://open.spotify.com/album/5QzFZu9OghWzEE9iSlPUl4) | 2:31 | 2026-05-07 | 2026-05-14 |
+| [Like a Flower](https://open.spotify.com/track/3SS77BL8QoIWyoK0u7pDGQ) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Like a Flower](https://open.spotify.com/album/5QzFZu9OghWzEE9iSlPUl4) | 2:31 | 2026-05-07 |  |
 | [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 | 2023-04-04 | 2023-05-03 |
 | [Lilac rendez\-vous](https://open.spotify.com/track/0yoqIzFe8vlE2RpOBh9nq7) | [SAKA\-SAMA](https://open.spotify.com/artist/5IBMqgH70qNRInaMn9zYo8) | [Maiwai](https://open.spotify.com/album/6mLrB1PURKERQbm5n7I5OL) | 3:30 | 2024-02-06 | 2024-03-06 |
 | [Lily](https://open.spotify.com/track/4nCHNiMsnSYT0am8S2ifI1) | [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF), [Rachel](https://open.spotify.com/artist/6k2XA52whNeJDYbIes1nOC) | [Deep green](https://open.spotify.com/album/1wFgDNlX2dn4HLWbvlZ05T) | 2:27 | 2022-10-04 | 2022-11-09 |
@@ -992,7 +993,7 @@
 | [Top Gyal](https://open.spotify.com/track/0EepsB82MCR2lgVjVM4ug7) | [YAYOI DAIMON](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb) | [Top Gyal](https://open.spotify.com/album/0wnU1FnbHOED5BsGEMWn65) | 2:04 | 2022-10-04 | 2023-01-04 |
 | [Top Gyal](https://open.spotify.com/track/6OsCeM1LqhGevhXtj4ApuK) | [YAYOI DAIMON](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb) | [My Own Boss](https://open.spotify.com/album/41MyHcgw5yOYPpXFW2eDk2) | 2:04 | 2022-04-05 | 2022-05-05 |
 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 | 2024-02-06 | 2024-03-06 |
-| [Toryanse](https://open.spotify.com/track/5KuCf9MVU7ilZAykW9QEzx) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/77wA5oi8vqF6VvSYeEt9P1) | 2:36 | 2026-05-07 |  |
+| [Toryanse](https://open.spotify.com/track/5KuCf9MVU7ilZAykW9QEzx) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/77wA5oi8vqF6VvSYeEt9P1) | 2:36 | 2026-05-07 | 2026-05-29 |
 | [touch](https://open.spotify.com/track/2WG6srwUczML0t7Dv1sYwB) | [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li), [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [touch](https://open.spotify.com/album/48pfaNnmIJpOIKRw1sOZEv) | 3:39 | 2022-07-05 | 2022-08-03 |
 | [Toukakanseinoyoru](https://open.spotify.com/track/4MkvoRmOboUayXIj63S7XC) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Works.ep](https://open.spotify.com/album/7Dt2tewXcLRyDHteQ660DM) | 3:52 | 2023-02-28 | 2023-04-05 |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-11-07 | 2023-11-30 |
@@ -1413,7 +1414,7 @@
 | [心象volcano](https://open.spotify.com/track/4DpY4OWzsbFaL2AIb0N5mh) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [House of Holy Banana](https://open.spotify.com/album/1QxKG2aix7sAkkmrZwEBS5) | 4:03 | 2026-04-07 |  |
 | [怪獣の腕のなか](https://open.spotify.com/track/3AaqAaqDWRb5P7llmyZZ8O) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [はじめてのきのこ帝国 EMI編](https://open.spotify.com/album/2Oun5zaYIdo4KQc6nTkeIs) | 3:46 | 2024-01-09 | 2024-02-07 |
 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 | 2023-02-01 | 2023-03-01 |
-| [恋ゲバ](https://open.spotify.com/track/3OchAPew12cIlAYValB5PX) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [若気ガイタル](https://open.spotify.com/album/0cDbgZ0vxxB2Q245gSto45) | 4:13 | 2026-05-07 |  |
+| [恋ゲバ](https://open.spotify.com/track/3OchAPew12cIlAYValB5PX) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [若気ガイタル](https://open.spotify.com/album/0cDbgZ0vxxB2Q245gSto45) | 4:13 | 2026-05-07 | 2026-05-29 |
 | [息を吸う ここで吸う 生きてく](https://open.spotify.com/track/1fMvvep165vN1R3xyypqs5) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [うつくしい日々](https://open.spotify.com/album/51F50ysyDdAVJi4srOHxpc) | 3:11 | 2021-11-30 | 2022-01-05 |
 | [悲しい歌がある理由](https://open.spotify.com/track/1hwZGbnzy88q1FfHTQXHnv) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悲しい歌がある理由](https://open.spotify.com/album/4CoSqtuKmFrqf1orRFHjzP) | 4:45 | 2022-03-15 | 2022-04-06 |
 | [情緒](https://open.spotify.com/track/4M0Elelhe46I7PkrgafAMm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [ANTI BLUE](https://open.spotify.com/album/2GMgfddCOMg5kioJOUth2C) | 3:32 | 2022-02-01 | 2023-01-04 |

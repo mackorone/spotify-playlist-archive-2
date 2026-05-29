@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Artie in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "RRARI DAL TACCO in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -1721,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "ANCELOTTI",
+        "url": "https://open.spotify.com/album/470HUmCqLaiVk0CSGeDo0a"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122627,
+      "name": "ANCELOTTI",
+      "url": "https://open.spotify.com/track/4UFP9J6zLvb6rnkXByjYtH"
+    },
+    {
+      "album": {
         "name": "GLORIA",
         "url": "https://open.spotify.com/album/6mygYhUqwT2zaoPcuCBBwf"
       },
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 189128,
       "name": "BALLAS 3 (feat. LILCR)",
       "url": "https://open.spotify.com/track/3sSZ2ECjVnxSFhmLAKCV2r"
@@ -3460,7 +3478,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 145505,
       "name": "Bipolari Bilocali",
       "url": "https://open.spotify.com/track/4dm8s8pL7e2562HDZfZhq2"
@@ -6325,6 +6343,24 @@
     },
     {
       "album": {
+        "name": "DAL TACCO",
+        "url": "https://open.spotify.com/album/1pkUZWvJtOTpsP5pP7gPBq"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147157,
+      "name": "DAL TACCO",
+      "url": "https://open.spotify.com/track/1zrEskyOLXViiYdZgggiUI"
+    },
+    {
+      "album": {
         "name": "Dancer (feat. Noizy, Rondodasosa & Capo Plaza)",
         "url": "https://open.spotify.com/album/5iYD4DOP1xbIf03042AraN"
       },
@@ -8910,7 +8946,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 122553,
       "name": "gas (feat. LILCR)",
       "url": "https://open.spotify.com/track/4bcxHru29eWzkbaGTufRD0"
@@ -10070,6 +10106,36 @@
       "duration_ms": 164908,
       "name": "HOUMA",
       "url": "https://open.spotify.com/track/6HYJLFIqcRzL7uwcnq2JKC"
+    },
+    {
+      "album": {
+        "name": "IO",
+        "url": "https://open.spotify.com/album/63MuNY0qdgnGdQSwLnZunG"
+      },
+      "artists": [
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        },
+        {
+          "name": "Macello",
+          "url": "https://open.spotify.com/artist/3DzlFEEKyk4jj7FuYnJSZZ"
+        },
+        {
+          "name": "d/rose",
+          "url": "https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta"
+        },
+        {
+          "name": "4997",
+          "url": "https://open.spotify.com/artist/0wBVwV8gukXKLSrVjQVJTE"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173706,
+      "name": "HowToBasic (feat. Macello)",
+      "url": "https://open.spotify.com/track/4LZxnlgJeHhfbCEE9chEyk"
     },
     {
       "album": {
@@ -13501,6 +13567,28 @@
     },
     {
       "album": {
+        "name": "RICCHI DI NIENTE",
+        "url": "https://open.spotify.com/album/1p5wHXiXIzwSTUliawRxmg"
+      },
+      "artists": [
+        {
+          "name": "Rue Diego",
+          "url": "https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124781,
+      "name": "MIAMI (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/48rkA9TzMZrvkqhzt45XPL"
+    },
+    {
+      "album": {
         "name": "Il mio lato peggiore",
         "url": "https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8"
       },
@@ -14250,7 +14338,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 138352,
       "name": "MONTANA (feat. RRARI DAL TACCO)",
       "url": "https://open.spotify.com/track/1BxMEw38wEwSRWwywaRxu4"
@@ -14928,6 +15016,32 @@
       "duration_ms": 160319,
       "name": "NIKE (feat. Tony Boy, Digital Astro)",
       "url": "https://open.spotify.com/track/5rKeKZlZ3u0bT7QvWMts7C"
+    },
+    {
+      "album": {
+        "name": "Lounge Music",
+        "url": "https://open.spotify.com/album/5aVWqLmy2pzgI0OYfwefKs"
+      },
+      "artists": [
+        {
+          "name": "YD Frost",
+          "url": "https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L"
+        },
+        {
+          "name": "YD Teddy",
+          "url": "https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4"
+        },
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Nike e Gucci II (feat. Promessa)",
+      "url": "https://open.spotify.com/track/0TBfNWCVIhcW33CeahKjYF"
     },
     {
       "album": {
@@ -18022,7 +18136,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 156243,
       "name": "RAFFAELLO",
       "url": "https://open.spotify.com/track/11Q0iuwYnjpb5JiP8HN33h"
@@ -18232,7 +18346,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 110551,
       "name": "re bowser (feat. Khodi)",
       "url": "https://open.spotify.com/track/4XcsVgIeHtW4EDrcPUXCez"
@@ -21940,6 +22054,32 @@
       "duration_ms": 127384,
       "name": "Trafficante",
       "url": "https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9"
+    },
+    {
+      "album": {
+        "name": "Trafficante 3arbi (feat. Baby Gang, TK)",
+        "url": "https://open.spotify.com/album/2YLJzt4fqKmTJiZthLvS7W"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Trafficante 3arbi (feat. Baby Gang, TK)",
+      "url": "https://open.spotify.com/track/6FzRZp1NBF3WrZbIL23coE"
     },
     {
       "album": {

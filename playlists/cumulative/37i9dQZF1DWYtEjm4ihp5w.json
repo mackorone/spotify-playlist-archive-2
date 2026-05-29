@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-17",
-  "description": "Cover: Dizzy DROS",
+  "description": "Cover: 7ari, Ramoon & Madd",
   "name": "ABAT\u2211RA",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 162711,
       "name": "5 STAR",
       "url": "https://open.spotify.com/track/5LUMggX4PsqW6MFaQW1GW8"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 174227,
       "name": "DARBEDA",
       "url": "https://open.spotify.com/track/0ZjqXH9bjK0N9lnmDz0c6d"
@@ -4522,7 +4522,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "KILOWAT",
       "url": "https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0"
@@ -5006,6 +5006,32 @@
       "duration_ms": 202733,
       "name": "Lamouni",
       "url": "https://open.spotify.com/track/3VjyVm2EOI3bKXmA9BRz7i"
+    },
+    {
+      "album": {
+        "name": "LASTIQUE",
+        "url": "https://open.spotify.com/album/7d78rxurnSiaYayVBVNB6v"
+      },
+      "artists": [
+        {
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
+        },
+        {
+          "name": "Madd",
+          "url": "https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS"
+        },
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195884,
+      "name": "LASTIQUE",
+      "url": "https://open.spotify.com/track/6bf5KIUKYNUthbNjmsNjNI"
     },
     {
       "album": {
@@ -6894,7 +6920,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 175150,
       "name": "PEGASUS",
       "url": "https://open.spotify.com/track/6GnPNJKrjzxvBAFZxbD9V3"
@@ -7992,7 +8018,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 154666,
       "name": "Skippi",
       "url": "https://open.spotify.com/track/2YiOEjz6IgMbDfC2BYJprc"

@@ -2,9 +2,9 @@
 
 ### [最Hit華語榜](https://open.spotify.com/playlist/37i9dQZF1DWWqC43bGTcPc)
 
-> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 艾薇 Ivy
+> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: Gareth.T
 
-1,201 songs - 3 day 2 hr 46 min
+1,204 songs - 3 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [99](https://open.spotify.com/track/0TEZhoK0jSuJRxaXqWHZyZ) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/6kxz8fmF1Fq1mllkaOrnzI) | 4:46 | 2024-10-28 | 2024-11-05 |
 | [Abettor](https://open.spotify.com/track/7vPtWXSa2qyBNQ5a2p0FsG) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Abettor](https://open.spotify.com/album/1blZ7rVZHKi6SW5n4U5vrv) | 3:57 | 2024-04-22 | 2024-04-30 |
 | [ALL EYES ON ME](https://open.spotify.com/track/3dulYuKk06Hs5CG2f5tDJX) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [ALL EYES ON ME](https://open.spotify.com/album/2cBIEBbIlsxcwlMmPQJ1dd) | 2:58 | 2025-12-15 | 2025-12-23 |
+| [ALL NIGHT \(feat\. Abeliano\)](https://open.spotify.com/track/2DjxWkGaYda6G3dhPK6qMe) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [所以共振之前](https://open.spotify.com/album/6I4D5j0mWRdyKL9uRpsJwZ) | 2:46 | 2026-05-28 |  |
 | [ALL WELL](https://open.spotify.com/track/0dXicuSC98jmaMdr1ig29Q) | [Gummy B](https://open.spotify.com/artist/041GibkKYtPdNlIAqxs1gs) | [更好](https://open.spotify.com/album/0FKC566l6cp7gHF0QXe9G3) | 3:57 | 2025-10-13 | 2025-10-28 |
 | [Always U](https://open.spotify.com/track/4zU94woKSgQsYLFT2m5AsG) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC), [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [SGN\-TPE](https://open.spotify.com/album/4ZiPBd4PpdNsjQdJrXf8Uz) | 2:55 | 2025-01-13 | 2025-01-21 |
 | [Baby Slow Down](https://open.spotify.com/track/1tGPlXmshJVWlhvQrDC3Hf) | [林禾](https://open.spotify.com/artist/1evCoBdUSBNUfIgHyBsjHu) | [Baby Slow Down](https://open.spotify.com/album/2vIzpTE4oHfi3K9w0Q0kQP) | 2:47 | 2026-01-12 | 2026-01-20 |
@@ -248,6 +249,7 @@
 | [不愛就不愛](https://open.spotify.com/track/28y6huBepebPPupr6F5xup) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [不愛就不愛](https://open.spotify.com/album/4vODVYoNDliJSAQONGWwqI) | 3:17 | 2024-11-11 | 2025-03-18 |
 | [不愛自己現在的樣子 \- 影集《華麗計程車行》片尾曲](https://open.spotify.com/track/1q6OuxbnDt27VD4d2bpcDk) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [不愛自己現在的樣子 \(影集《華麗計程車行》片尾曲\)](https://open.spotify.com/album/3oXrUimjSsB8YN9GxkgZ1Q) | 4:19 | 2024-03-04 | 2024-03-12 |
 | [不敗 \(短劇《決戰1212》主題曲\)](https://open.spotify.com/track/0ht3fOlk3iVKlHqwcA1Fkt) | [Meeia Foo](https://open.spotify.com/artist/4jC2S13tMZQ19PBlAJTmeY) | [不敗 \(短劇《決戰1212》主題曲\)](https://open.spotify.com/album/3zKzTLYAwvd1EN6rmZbpHP) | 4:11 | 2025-12-15 | 2025-12-23 |
+| [不是朋友的朋友](https://open.spotify.com/track/1TvfQuwyYmdphgTjHg5rHy) | [鄭馥儀](https://open.spotify.com/artist/0hV47C30VMq4Yi6zAQwPUB) | [不是朋友的朋友](https://open.spotify.com/album/4qoP6vyuEqUQFBR0EMokeL) | 4:00 | 2026-05-28 |  |
 | [不曾寧靜的夜](https://open.spotify.com/track/7xI6PbqawCEMgYwhXrWWTa) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [不曾寧靜的夜](https://open.spotify.com/album/1khd7zTbv9mhmQOqmTzB5i) | 4:22 | 2025-09-29 | 2025-12-02 |
 | [不朽的星空](https://open.spotify.com/track/38FnGnjmr7LnsVdfw2LSCh) | [詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [不朽的星空](https://open.spotify.com/album/6J9U2onHvKOEk2zU9BmtfM) | 4:28 | 2025-01-27 | 2025-02-04 |
 | [不簡單的我們 \(電視劇《小夫妻》插曲\)](https://open.spotify.com/track/4Vamk9NnjiN4t5Ckgq1U7u) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [不簡單的我們 \(電視劇《小夫妻》插曲\)](https://open.spotify.com/album/31TtrxZgfHxpfOtEuVUt8X) | 4:27 | 2024-08-12 | 2024-09-10 |
@@ -613,7 +615,7 @@
 | [想再問你一次](https://open.spotify.com/track/0YqveraOFp5KXGWLpX1EdA) | [PPlin 林芃逸](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw) | [想再問你一次](https://open.spotify.com/album/5LOADA7R8MZi7nJn099LPx) | 4:52 | 2025-02-10 | 2025-05-13 |
 | [想到我们](https://open.spotify.com/track/584B3fCuIreRw8Mh394dPy) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [想到我们](https://open.spotify.com/album/5ZdAGO8NDLNE18JpBLzoNe) | 5:06 | 2024-05-20 | 2024-05-28 |
 | [想和你看五月的晚霞：夏日續章](https://open.spotify.com/track/3fQoQdLwIQIppmJDqbT5Qf) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [想和你看五月的晚霞：夏日續章](https://open.spotify.com/album/2xoHCgfvARjd54c3jxO27I) | 2:47 | 2025-10-13 | 2026-02-03 |
-| [想問](https://open.spotify.com/track/4EO5CBJ6d8Q740YNfKyKD5) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [想問](https://open.spotify.com/album/7MmNdIyZaT61DzL03trm1X) | 3:58 | 2026-02-02 |  |
+| [想問](https://open.spotify.com/track/4EO5CBJ6d8Q740YNfKyKD5) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [想問](https://open.spotify.com/album/7MmNdIyZaT61DzL03trm1X) | 3:58 | 2026-02-02 | 2026-05-29 |
 | [想寫一首情歌給你](https://open.spotify.com/track/18MWw902cGonMsCbWjoJkZ) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [想寫一首情歌給你](https://open.spotify.com/album/0SaL2FBYObFbkhRisnIhag) | 2:42 | 2025-01-20 | 2025-02-25 |
 | [想念你想我](https://open.spotify.com/track/1sl9O7VLwGwdw4iXqnkbDP) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [Almost 幾乎是愛情](https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O) | 4:00 | 2024-12-16 | 2025-05-20 |
 | [想念你想我](https://open.spotify.com/track/48shm8jmaY2daKSe4gSKP6) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [想念你想我](https://open.spotify.com/album/7KonHhAjwbnVzzK9B2XCy0) | 4:00 | 2024-11-18 | 2024-12-17 |
@@ -692,7 +694,7 @@
 | [我就是無法失去你](https://open.spotify.com/track/4G1j9tbxeeJH4djGHU0Va3) | [FEniX](https://open.spotify.com/artist/1sPms9e6GbCtTddGRsT4Fz) | [我就是無法失去你](https://open.spotify.com/album/6r0wSsMk3h43GgbG6x8uvD) | 3:14 | 2025-12-01 | 2025-12-09 |
 | [我就要愛你 \(《TVBS 原創劇集 祕書俱樂部》插曲\)](https://open.spotify.com/track/0uHSRD9vEzymEaMcoJZedd) | [Bettii 杯緹](https://open.spotify.com/artist/6n49SRZkz3eaKBhEwiwCrb) | [祕書俱樂部 \(TVBS 原創劇集原聲帶\)](https://open.spotify.com/album/7JlP3qGzZbKidUrOs4T0Jl) | 3:13 | 2024-12-16 | 2024-12-24 |
 | [我快樂嗎](https://open.spotify.com/track/2RsJqOLTyk2iGpchwb8xIQ) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [我快樂嗎](https://open.spotify.com/album/4GCphKqkTtAiIl23y8zhZm) | 3:45 | 2024-08-05 | 2025-03-11 |
-| [我怕你把我忘了（我怕你和别人太好）](https://open.spotify.com/track/4VT98RB6toGQRj4XDUXebg) | [林妤](https://open.spotify.com/artist/1b9LOlIsQV9L3FhG4JHsgw) | [我怕你把我忘了（我怕你和别人太好）](https://open.spotify.com/album/7tDpYyz0fdScXE4KYmdOjL) | 3:37 | 2026-02-26 |  |
+| [我怕你把我忘了（我怕你和别人太好）](https://open.spotify.com/track/4VT98RB6toGQRj4XDUXebg) | [林妤](https://open.spotify.com/artist/1b9LOlIsQV9L3FhG4JHsgw) | [我怕你把我忘了（我怕你和别人太好）](https://open.spotify.com/album/7tDpYyz0fdScXE4KYmdOjL) | 3:37 | 2026-02-26 | 2026-05-29 |
 | [我想我又想你了](https://open.spotify.com/track/4hqx4ZG7ijyviwZcARlJfk) | [PPlin 林芃逸](https://open.spotify.com/artist/6w4UFdB9juoTUzWhBJeOlw) | [我想我又想你了](https://open.spotify.com/album/4oOF2IPjDH2PDQOftWC67J) | 3:10 | 2026-01-26 | 2026-03-27 |
 | [我想要佔據你](https://open.spotify.com/track/14GFYAUxkeXranhS2qrYIZ) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶你飛](https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy) | 4:12 | 2024-01-15 | 2024-08-06 |
 | [我想要妳Get Closer](https://open.spotify.com/track/5r05zVjAvoCJcJ6DISWSeP) | [Showmaîn](https://open.spotify.com/artist/3Z0hrO5NvALfcVK5hk79CJ) | [我想要妳Get Closer](https://open.spotify.com/album/0AU8m0tagwj5a7GC0lP8vl) | 2:27 | 2024-08-05 | 2024-08-13 |
@@ -709,6 +711,7 @@
 | [我期待的不是雪](https://open.spotify.com/track/2deIA64Gfsm50VTsKwrxnQ) | [张妙格](https://open.spotify.com/artist/7q6xird8xFNzgqQi60dwmj) | [我期待的不是雪](https://open.spotify.com/album/1oPwq4HtDm98CCZD8vrtZd) | 2:46 | 2024-01-15 | 2024-07-02 |
 | [我每一天都愛你的西文叫做 Te amo todos los días](https://open.spotify.com/track/6mEV0Ky9N2ISDveZQFYlFR) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [Dr\. Beauty](https://open.spotify.com/artist/2EqCLoWLxNjPIBQLRtNRE9) | [我每一天都愛你的西文叫做 Te amo todos los días](https://open.spotify.com/album/6NaEQ3XXb6NFrYfjOpNpWG) | 4:09 | 2024-12-23 | 2025-01-07 |
 | [我爱你但是我要回家](https://open.spotify.com/track/1zLpybgzhdG6KzgG9sRAwE) | [ET](https://open.spotify.com/artist/6L8uYIuAWEDljh6LxP5jMm), [Happer](https://open.spotify.com/artist/6Ljp6ps4Nt9w0WJA8jSTdc), [无面小生](https://open.spotify.com/artist/2Yftm8We3xQFKhndUtuXUr), [口古口古](https://open.spotify.com/artist/6XRGKV1jyYJ5wTJ5S7hxeh) | [我爱你但是我要回家](https://open.spotify.com/album/6MqJXDfjN3dpfS2hH5FeKF) | 3:14 | 2025-02-17 | 2025-06-10 |
+| [我獨自求救](https://open.spotify.com/track/3T6G1yI3gyQWBhQaxFEpwt) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [我獨自求救](https://open.spotify.com/album/5vxba0YEJcbCWvnkPaH2jI) | 2:48 | 2026-05-28 |  |
 | [我用了多少的十年才明白](https://open.spotify.com/track/59sw3kN6c60rJst4kJOqj9) | [Ray 黃霆睿](https://open.spotify.com/artist/2qRV9YtZuf2FuKWj23cPL4), [琳誼 Ring](https://open.spotify.com/artist/4piQadI6uXO5CUcQ3FJuDt) | [我用了多少的十年才明白](https://open.spotify.com/album/5aJZWLVsRqEHu1A7grTmmo) | 3:25 | 2024-09-02 | 2024-09-10 |
 | [我的i](https://open.spotify.com/track/7at4KIhqbRi5f4yjfVtgFP) | [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [我的i](https://open.spotify.com/album/32SfseQca7uPFzJ2DJoD6L) | 3:29 | 2025-08-25 | 2025-11-04 |
 | [我的名字在你手裡](https://open.spotify.com/track/0VBEqsJgqJn7p6tG5Q3utO) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [我的名字在你手裡](https://open.spotify.com/album/66tcGhT7GNzJPPWReRLbM8) | 3:30 | 2024-07-08 | 2024-08-06 |
@@ -728,7 +731,7 @@
 | [我還能怎麼伴](https://open.spotify.com/track/5lhtEnWhmWfvECzPcC1qFd) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [舞狀元](https://open.spotify.com/album/2M28Qhgb7On9XGAtm9LNsj) | 4:22 | 2024-08-05 | 2024-08-13 |
 | [我陪你 \- 花开花落共度曲折](https://open.spotify.com/track/1MiIZNaCYlP34GrqvriQNh) | [承桓](https://open.spotify.com/artist/3ZYhFl4nztqc9vx35vKdUI) | [我陪你 \(花开花落共度曲折\)](https://open.spotify.com/album/7lmRl1iHd1fn3r9EfNmasY) | 3:34 | 2025-11-24 | 2025-12-02 |
 | [戒不掉你的愛](https://open.spotify.com/track/3bam6Y0RR0RQ5fApEJN5XK) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [戒不掉你的愛](https://open.spotify.com/album/60XeGH8tepe9BihMExEp2r) | 3:03 | 2025-11-03 | 2025-11-11 |
-| [戒不掉你的愛 \(feat\. Marz23\)](https://open.spotify.com/track/3U4rQ1fX2EP0cN64hm941J) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp), [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [戒不掉你的愛 \(feat\. Marz23\)](https://open.spotify.com/album/6SZDBYeNTlGozNz5ctIJIE) | 3:03 | 2026-02-02 |  |
+| [戒不掉你的愛 \(feat\. Marz23\)](https://open.spotify.com/track/3U4rQ1fX2EP0cN64hm941J) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp), [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [戒不掉你的愛 \(feat\. Marz23\)](https://open.spotify.com/album/6SZDBYeNTlGozNz5ctIJIE) | 3:03 | 2026-02-02 | 2026-05-29 |
 | [房間裡的大象](https://open.spotify.com/track/09LIAnF6RuTlDv1gnp0XR0) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [房間裡的大象](https://open.spotify.com/album/0wOwvNRDjOdDbnaHqvBYP7) | 4:26 | 2025-09-29 | 2025-10-07 |
 | [手機錢包鑰匙菸 \(Ft\. 盧廣仲\)](https://open.spotify.com/track/2DhX6wct6tY8lbZpq5KgXp) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [手機錢包鑰匙菸 \(Ft\. 盧廣仲\)](https://open.spotify.com/album/5mb99zTzuEmUFdUcslQbQS) | 3:20 | 2024-08-19 | 2024-11-12 |
 | [手機錢包鑰匙菸 feat.Crowd Lu](https://open.spotify.com/track/67aEhtXw9vYZKgyVLhkblq) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI), [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 3:20 | 2024-11-11 | 2024-12-31 |

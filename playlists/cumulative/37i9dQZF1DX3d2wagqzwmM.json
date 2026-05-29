@@ -4008,7 +4008,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 193714,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/4Ui2jRHUtJqJ7DYu0Uj7dm"
@@ -5974,6 +5974,24 @@
       "duration_ms": 197391,
       "name": "HYPOMANIA",
       "url": "https://open.spotify.com/track/4rVmpjKfDSahUHEp97K34S"
+    },
+    {
+      "album": {
+        "name": "I Can See It",
+        "url": "https://open.spotify.com/album/0JqqBPdvtxHWYGMdJ0vKnm"
+      },
+      "artists": [
+        {
+          "name": "Nifra",
+          "url": "https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172202,
+      "name": "I Can See It",
+      "url": "https://open.spotify.com/track/1TCMIkuXpCSu2uDdGDF12o"
     },
     {
       "album": {

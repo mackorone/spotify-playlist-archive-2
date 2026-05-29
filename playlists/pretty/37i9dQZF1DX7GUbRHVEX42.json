@@ -1,6 +1,6 @@
 {
   "description": "The best of current & contemporary Reggae.  Cover: Buju Banton",
-  "num_followers": 1102595,
+  "num_followers": 1102623,
   "original_name": "Irie",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-04-23 15:25:23",
       "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
+      },
+      "artists": [
+        {
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+        }
+      ],
+      "duration_ms": 264965,
+      "name": "Good Over Evil",
+      "url": "https://open.spotify.com/track/3DkzTVZLHifYPaIlBw0x0f"
+    },
+    {
+      "added_at": "2026-04-23 15:25:23",
+      "album": {
         "name": "where we end (with Surfer Girl)",
         "url": "https://open.spotify.com/album/5Gxcl6cIwQQfvdg74vQU22"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 179999,
       "name": "where we end (with Surfer Girl)",
       "url": "https://open.spotify.com/track/4u5dgfw1o8UUjYU2f6IN3j"
-    },
-    {
-      "added_at": "2026-04-23 15:25:23",
-      "album": {
-        "name": "The Golden Hour",
-        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
-      },
-      "artists": [
-        {
-          "name": "Jaz Elise",
-          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
-        }
-      ],
-      "duration_ms": 264965,
-      "name": "Good Over Evil",
-      "url": "https://open.spotify.com/track/3DkzTVZLHifYPaIlBw0x0f"
     },
     {
       "added_at": "2026-04-23 15:25:23",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-04-23 15:25:23",
       "album": {
-        "name": "HunnyMoon Mountain",
-        "url": "https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 215474,
-      "name": "Take Her Love",
-      "url": "https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE"
-    },
-    {
-      "added_at": "2026-04-23 15:25:23",
-      "album": {
         "name": "Road Runner",
         "url": "https://open.spotify.com/album/28ok5rJgmNe4pZ3OvoyAPY"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2026-04-23 15:25:23",
       "album": {
-        "name": "COCONUT WATA (SIP)",
-        "url": "https://open.spotify.com/album/3B8Uek8SQsTqZEdEjjWKWU"
+        "name": "HunnyMoon Mountain",
+        "url": "https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26"
       },
       "artists": [
         {
-          "name": "Buju Banton",
-          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         }
       ],
-      "duration_ms": 185720,
-      "name": "COCONUT WATA (SIP)",
-      "url": "https://open.spotify.com/track/6ZNzOXz18cAPpWOehFINzo"
+      "duration_ms": 215474,
+      "name": "Take Her Love",
+      "url": "https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE"
     },
     {
       "added_at": "2026-04-23 15:25:23",
@@ -1111,6 +1095,22 @@
       "duration_ms": 194608,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/0KNYy8BJY364hIoiQpQfP0"
+    },
+    {
+      "added_at": "2026-04-23 15:25:23",
+      "album": {
+        "name": "COCONUT WATA (SIP)",
+        "url": "https://open.spotify.com/album/3B8Uek8SQsTqZEdEjjWKWU"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        }
+      ],
+      "duration_ms": 185720,
+      "name": "COCONUT WATA (SIP)",
+      "url": "https://open.spotify.com/track/6ZNzOXz18cAPpWOehFINzo"
     },
     {
       "added_at": "2026-04-23 15:25:23",

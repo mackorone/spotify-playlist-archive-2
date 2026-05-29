@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Laufey",
+  "description": "The best jazz new releases. Cover: RAYE",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 170517,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1rUWEVR78iRaXXuSHyz6KP"
@@ -7206,7 +7206,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 300373,
       "name": "Hold my Halo (Paint me Perfectly)",
       "url": "https://open.spotify.com/track/7MWB01g4WlOm18Cp86BktQ"
@@ -10356,7 +10356,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 298593,
       "name": "Lookie",
       "url": "https://open.spotify.com/track/0FRGC4Qk2RlVVorFg1uUqP"
@@ -11013,6 +11013,24 @@
     },
     {
       "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/6yeYVUHck7wnIQs5hBeiEm"
+      },
+      "artists": [
+        {
+          "name": "Aku Jeje",
+          "url": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188144,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0c3SfEvaW19TjHr3fNWzz1"
+    },
+    {
+      "album": {
         "name": "MARIA (BFFWSA)",
         "url": "https://open.spotify.com/album/00PoSClcDp6AdNG3OJ05jW"
       },
@@ -11242,7 +11260,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 195000,
       "name": "Memories",
       "url": "https://open.spotify.com/track/1dpa9PDfIdUnXdJxHBoY1I"
@@ -16913,6 +16931,24 @@
     },
     {
       "album": {
+        "name": "Terra Em Transe / Naquela Base",
+        "url": "https://open.spotify.com/album/1RrCuQlQiNiP3yEwxd8KgC"
+      },
+      "artists": [
+        {
+          "name": "Nicola Conte",
+          "url": "https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319853,
+      "name": "Terra Em Transe",
+      "url": "https://open.spotify.com/track/68vvcDQhNxv2QTNr7cZu81"
+    },
+    {
+      "album": {
         "name": "Come On & Get It",
         "url": "https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn"
       },
@@ -17294,6 +17330,28 @@
       "duration_ms": 214204,
       "name": "The Light Shines Brightest In The Dark From \"Marlowe\" - From \"Marlowe\"",
       "url": "https://open.spotify.com/track/3zQ2vKWOflKo0wH6PyvfP2"
+    },
+    {
+      "album": {
+        "name": "Moody's Mood",
+        "url": "https://open.spotify.com/album/6aURlRwws1LZmzn7Q40M9c"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        },
+        {
+          "name": "Yonatan Riklis",
+          "url": "https://open.spotify.com/artist/29C71kGz0F3vD8SaosHlDs"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "The Look of Love",
+      "url": "https://open.spotify.com/track/15CgIcUKMU4HcUQsjZikKe"
     },
     {
       "album": {
@@ -18330,6 +18388,24 @@
       "duration_ms": 278732,
       "name": "Tour de Man\u00e8ge",
       "url": "https://open.spotify.com/track/7vi5WwJ8dtqhekZLpnhtue"
+    },
+    {
+      "album": {
+        "name": "Eternal Child",
+        "url": "https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr"
     },
     {
       "album": {

@@ -5469,6 +5469,24 @@
     },
     {
       "album": {
+        "name": "Roi de L\u2019ambiance - Begin",
+        "url": "https://open.spotify.com/album/6bJMKOkZ01GVq9NA2W4hTg"
+      },
+      "artists": [
+        {
+          "name": "Bigyne wiz",
+          "url": "https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/5E0fsHZn7rKdrwguOZ7au7"
+    },
+    {
+      "album": {
         "name": "Tu as cr\u00e9\u00e9 quoi encore !",
         "url": "https://open.spotify.com/album/5fJdI5nd8LCFiDD3J0Z4vL"
       },
@@ -5702,7 +5720,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 160052,
       "name": "WonWon",
       "url": "https://open.spotify.com/track/4i89emqjbz4c4K4PNImqGC"

@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,815 songs - 4 day 0 hr 13 min
+1,817 songs - 4 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Dragon](https://open.spotify.com/track/1J827bhoOFER99MdWqeoyU) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Dragon](https://open.spotify.com/album/5Cv0KXpWQ2fMyal3kbqkqU) | 3:01 | 2025-06-13 |  |
 | [Dream A Little Dream](https://open.spotify.com/track/3QLYpJeGjyLMIDj7roEphJ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Dream A Little Dream](https://open.spotify.com/album/0zM0LsWsNxdXAkNCGpli9B) | 2:56 | 2025-04-24 |  |
 | [Dream Of You](https://open.spotify.com/track/7t0OEOQ5yJQL5FLEVVVcmS) | [Zack Martino](https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Dream Of You](https://open.spotify.com/album/2RUhXcEIBCirhqxrydCA9W) | 2:48 | 2024-04-11 | 2024-10-19 |
+| [Dreamer](https://open.spotify.com/track/1tppgasr3BDvaBjzzvFTRP) | [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Dreamer](https://open.spotify.com/album/7eHGT9zdw2lcThhyIWLflB) | 3:35 | 2026-05-29 |  |
 | [Dreaming](https://open.spotify.com/track/7ilI1BbEZgxPRrUiaTTOjI) | [Ammara](https://open.spotify.com/artist/7GqNimUoiYFht4cYL0cT0I) | [Dreaming](https://open.spotify.com/album/37J5A2UvvwnQMOb6Q6wJa4) | 2:49 | 2024-05-09 | 2024-10-19 |
 | [Dreaming](https://open.spotify.com/track/5hIeOGdLUD9St4VzxYM4ql) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Dreaming](https://open.spotify.com/album/77i4sLUjUq49nJsjcKHKGI) | 2:28 | 2025-07-11 |  |
 | [Dreaming Is All I Have Left](https://open.spotify.com/track/0NMjqHIVFRKm5cBA8rIPaS) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Lola Melita](https://open.spotify.com/artist/3tEXliVP7fJ9B0e1cJCsxI) | [Dreaming Is All I Have Left](https://open.spotify.com/album/3zTiPCmR70CC78sdI1jXVE) | 3:20 | 2025-05-22 |  |
@@ -419,6 +420,7 @@
 | [Erase Me](https://open.spotify.com/track/7mC4AEHdt7jEcM4y9ij1y8) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Armada Music Year Mix 2022, Vol\. 2](https://open.spotify.com/album/3bJjNEcp10aGVqgh04SqE6) | 4:03 | 2022-12-08 | 2023-02-10 |
 | [Es Vedrà](https://open.spotify.com/track/4Z6W8iMLWY5uuMsAheztBm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Es Vedrà](https://open.spotify.com/album/0MB3CQJilu7NFipHOBevET) | 3:17 | 2024-08-01 | 2025-04-04 |
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI) | 4:00 | 2022-06-09 | 2022-10-07 |
+| [Esperate](https://open.spotify.com/track/5zqeSacOQ7PLUdqexAMeh0) | [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [Esperate](https://open.spotify.com/album/4QmWjI0AZ8dlqijmChEtw1) | 2:14 | 2026-05-29 |  |
 | [Esta Vida](https://open.spotify.com/track/47gl1rsMBTt8dAtGX5tekW) | [Lucca Saettone](https://open.spotify.com/artist/15o6RNNTFlXc1ALh7HzTTp) | [Esta Vida](https://open.spotify.com/album/2T1xKPKliesGyCfVAAmMwC) | 3:15 | 2026-03-20 |  |
 | [Eternal](https://open.spotify.com/track/35BPaehWKzAcE3dJEhGmJ4) | [Silva City](https://open.spotify.com/artist/2JJrzNukWHtw9I2SKAjL5j), [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Eternal](https://open.spotify.com/album/6bxuqw8DzRPEqCv0ZYjwUe) | 3:35 | 2025-06-05 |  |
 | [Ethnica](https://open.spotify.com/track/0m5oWTFhtRZwfArXOwckRm) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Vanetty](https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4) | [Ethnica](https://open.spotify.com/album/6uUKyUOz3jYwiP3giwvzfT) | 2:54 | 2023-06-27 | 2023-12-14 |

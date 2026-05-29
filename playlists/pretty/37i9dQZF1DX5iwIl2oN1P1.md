@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: DOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,274 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,334 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 99 | [History \(Breakthrough\)](https://open.spotify.com/track/7nX5u3WlmJmD33bnMEMNFI) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R), [Harvey Watkins Jr.](https://open.spotify.com/artist/7A9VsjiTGQr0nKn2DbBL0s), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [JEKALYN X THE LEGENDS](https://open.spotify.com/album/5lPKAJVygoWiOy33AZmvfj) | 4:53 |
 | 100 | [Spirit Of The Living God](https://open.spotify.com/track/0nVnZUBYq7vqXPjNLDMI7e) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp), [Darrel Walls](https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ) | [Spirit Of The Living God](https://open.spotify.com/album/1zxISXYB6vb2yplY9cF4kd) | 5:06 |
 
-Snapshot ID: `AAAAAN3ecm0iyHL6Yv/YaUZ20UBJ7Seh`
+Snapshot ID: `AAAAAEcsd+gmHT3fwcA80TZargGwQCj+`

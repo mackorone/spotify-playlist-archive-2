@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-170 songs - 10 hr 11 min
+171 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bossa De Urso](https://open.spotify.com/track/5O0TcQZyWh61EMnDwOwPQQ) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Bossa De Urso](https://open.spotify.com/album/3s8B4suX6KzEx4ApdR5gZO) | 3:14 | 2021-11-26 |  |
 | [Bossa Got The Blues](https://open.spotify.com/track/2l8rsGvh5MJL4gF0K479BA) | [Bossacucanova](https://open.spotify.com/artist/2nB77EV6Al8aHXfxa6YfrW), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Bossa Got The Blues](https://open.spotify.com/album/4p22TSGfHnoBdmkWJBjAMS) | 3:00 | 2021-11-26 |  |
 | [Bossa Got The Blues](https://open.spotify.com/track/5vMu1L01Bc437QjNdC1Ezp) | [Bossacucanova](https://open.spotify.com/artist/2nB77EV6Al8aHXfxa6YfrW), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Bossa Got the Blues](https://open.spotify.com/album/5dEp2QTwiqkTJGMPR4IK0i) | 3:00 | 2021-11-26 | 2024-04-19 |
+| [Bossa Sempre Nova](https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Luciano Magno](https://open.spotify.com/artist/0rqTgqh516A87i11viJ8tN), [André Rio](https://open.spotify.com/artist/0MenQbrzqFeBE4WzBp5C0A) | [MPBossa 2](https://open.spotify.com/album/0NwXy0XC8rC4a5Fvpk8rQB) | 3:20 | 2026-05-29 |  |
 | [Brasil Geral](https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P) | [Carla Casarim](https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL) | [Terra\-Mãe](https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW) | 3:36 | 2021-11-26 |  |
 | [Caminhos Cruzados](https://open.spotify.com/track/1W8h3WiCfHyh3YG1UwdWqq) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Caminhos Cruzados](https://open.spotify.com/album/1QbDrylgpdaB6wwbU7aFbo) | 2:32 | 2021-11-26 |  |
 | [Choro de Verão](https://open.spotify.com/track/2Ioq4XghscznKAsUJGQP1D) | [Rodrigo Lessa](https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG) | [Choro de Verão](https://open.spotify.com/album/3NT972daF4lNEXR8D8pDMA) | 4:27 | 2021-11-26 |  |
@@ -123,7 +124,7 @@
 | [Quinze Pras Sete na Vila](https://open.spotify.com/track/5Da8D5lZy27M8BCPyZsaJj) | [Clube Do Balanço](https://open.spotify.com/artist/1mG5Uzuz3aAujqVdNUMTmO) | [Balanço na Quebrada](https://open.spotify.com/album/3aE7O0WQoaLqzranUowU3r) | 3:44 | 2022-10-14 | 2024-04-19 |
 | [Rabiscos](https://open.spotify.com/track/4Sr6vobosgTMEvJKWPeSd5) | [Projeto Caleidoscópio](https://open.spotify.com/artist/63RsGHmdmM2k3d9jtnMFEW), [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Rabiscos](https://open.spotify.com/album/0InaXpoubmJdDOEsqZpgoC) | 3:16 | 2025-03-28 |  |
 | [Rapaz de Bem](https://open.spotify.com/track/5MujnOhaPIXY5Z2aOi4tUt) | [Vanessa Jackson](https://open.spotify.com/artist/4grPACpyU8gbASMAm3HZLP) | [Rapaz de Bem](https://open.spotify.com/album/5bri4JyZoYnZg7jjhdctGi) | 3:29 | 2025-01-10 |  |
-| [Rio](https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Rio](https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta) | 4:07 | 2021-11-26 |  |
+| [Rio](https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Rio](https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta) | 4:07 | 2021-11-26 | 2026-05-29 |
 | [Rosa Morena](https://open.spotify.com/track/2675EULE58FJDcOiEbyy2P) | [Duo Flamingo](https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3) | [Rosa Morena EP](https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm) | 4:06 | 2021-11-26 |  |
 | [Salomé](https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD) | [Matheus Fonseca](https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss) | [Salomé](https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K) | 3:56 | 2024-09-09 |  |
 | [Samba da rosa](https://open.spotify.com/track/7qAyUR61yrl6XV31iAJWlp) | [Maria Escobar](https://open.spotify.com/artist/4JdJVpIZYYuvGYIJ0cGvkL), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Fuerza Extraña](https://open.spotify.com/album/5jUhMOLnof9gojepRuXc0o) | 2:50 | 2022-10-14 | 2023-07-08 |

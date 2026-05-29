@@ -1,13 +1,29 @@
 {
-  "description": "R&B and good vibe tracks for your current mood. Cover: Jordan Susanto",
-  "num_followers": 149122,
+  "description": "R&B and good vibe tracks for your current mood. Cover: Jeff Bernat",
+  "num_followers": 149116,
   "original_name": "mood. ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM0nPE4NTzGAzbcYrz+ZSrfVN2WG",
+  "snapshot_id": "AAAAAHVsDNUjnBK0nwb+MjWZ3PJzoSwq",
   "tracks": [
+    {
+      "added_at": "2026-05-28 18:00:17",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/3eRE0K2YoL3HkPUyJqBsVc"
+      },
+      "artists": [
+        {
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
+        }
+      ],
+      "duration_ms": 139627,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/2oIPGbsjmv1SOs1kBPKC23"
+    },
     {
       "added_at": "2026-05-21 16:00:39",
       "album": {
@@ -23,6 +39,74 @@
       "duration_ms": 178144,
       "name": "Daydreamin\u2019",
       "url": "https://open.spotify.com/track/5m0UFKwzACWZBRACdP19kc"
+    },
+    {
+      "added_at": "2026-05-28 18:00:17",
+      "album": {
+        "name": "Weight On Me - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1BgU93c70mdW9qmm88LBvb"
+      },
+      "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 214703,
+      "name": "Weight On Me - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6IOEkOEs5n8lI29nqX1LIG"
+    },
+    {
+      "added_at": "2026-05-28 18:00:17",
+      "album": {
+        "name": "UR HEARTBEAT (WHO DO U THINK ABOUT AT 2AM?)",
+        "url": "https://open.spotify.com/album/58ELdOBLnCOlXM49zBO6AR"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "UR HEARTBEAT (WHO DO U THINK ABOUT AT 2AM?)",
+      "url": "https://open.spotify.com/track/0jj2mcsNyuWb0a3uSjrw67"
+    },
+    {
+      "added_at": "2026-05-28 18:00:17",
+      "album": {
+        "name": "SE9",
+        "url": "https://open.spotify.com/album/3TWvfSehKDLRaHJS7z8cNk"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "duration_ms": 155004,
+      "name": "Man of the House",
+      "url": "https://open.spotify.com/track/4j3tybPIKiCmp1Zm2hLD9Z"
+    },
+    {
+      "added_at": "2026-05-28 18:00:17",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/334wq5LsvTbKOIauntarEf"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/4CZdaN3oZZrWaYao4kU9cx"
     },
     {
       "added_at": "2026-05-21 16:00:39",
@@ -1067,26 +1151,6 @@
     {
       "added_at": "2026-05-08 02:00:02",
       "album": {
-        "name": "Egyptian Musk",
-        "url": "https://open.spotify.com/album/1ilqhT6re7DWrMLFSKj0Gy"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        },
-        {
-          "name": "NESTA",
-          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
-        }
-      ],
-      "duration_ms": 211680,
-      "name": "Egyptian Musk",
-      "url": "https://open.spotify.com/track/6pWBJcgaNcW5xEVL9RbCgd"
-    },
-    {
-      "added_at": "2026-05-08 02:00:02",
-      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
       },
@@ -1123,22 +1187,6 @@
       "duration_ms": 213750,
       "name": "You Got to Feel It",
       "url": "https://open.spotify.com/track/5soaQgOH24Vu24Okl5WM18"
-    },
-    {
-      "added_at": "2026-05-08 02:00:02",
-      "album": {
-        "name": "Make Me Up",
-        "url": "https://open.spotify.com/album/5ucOcGpeWe1fWLcFPNrm7j"
-      },
-      "artists": [
-        {
-          "name": "Ania Hoo",
-          "url": "https://open.spotify.com/artist/141bAnJhsORNsCW1biNRvL"
-        }
-      ],
-      "duration_ms": 211090,
-      "name": "Make Me Up",
-      "url": "https://open.spotify.com/track/4EsAbdTsIA1ldBmPygFKyt"
     },
     {
       "added_at": "2026-05-08 02:00:02",
@@ -1191,42 +1239,6 @@
       "duration_ms": 238285,
       "name": "There, There",
       "url": "https://open.spotify.com/track/5fnRmmu0VYact0wMvpaV8h"
-    },
-    {
-      "added_at": "2026-05-08 02:00:02",
-      "album": {
-        "name": "BURNING",
-        "url": "https://open.spotify.com/album/5QQbFrOJSHGFUzWMfIXE8T"
-      },
-      "artists": [
-        {
-          "name": "Ron David",
-          "url": "https://open.spotify.com/artist/2Be24H7MmbWqAAlo283VNa"
-        },
-        {
-          "name": "Dijo",
-          "url": "https://open.spotify.com/artist/2f0p7TfGuvZ6NCEnz12qWu"
-        }
-      ],
-      "duration_ms": 212459,
-      "name": "BURNING",
-      "url": "https://open.spotify.com/track/2ijm8jlwHyPabjBDbJALKT"
-    },
-    {
-      "added_at": "2026-05-08 02:00:02",
-      "album": {
-        "name": "twenties",
-        "url": "https://open.spotify.com/album/29tt47YoPo8P8AP7GjXTUi"
-      },
-      "artists": [
-        {
-          "name": "ANN\u00c9",
-          "url": "https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf"
-        }
-      ],
-      "duration_ms": 150458,
-      "name": "twenties",
-      "url": "https://open.spotify.com/track/4fMF95jhCb0ncIBnjmTmxt"
     },
     {
       "added_at": "2026-05-08 02:00:02",
@@ -1415,22 +1427,6 @@
       "duration_ms": 176828,
       "name": "Walk",
       "url": "https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1"
-    },
-    {
-      "added_at": "2026-05-08 02:00:02",
-      "album": {
-        "name": "Antimatter",
-        "url": "https://open.spotify.com/album/6peYDVwszztuNh1DgkXvCo"
-      },
-      "artists": [
-        {
-          "name": "Nicole Adeya",
-          "url": "https://open.spotify.com/artist/0ovUS8AlEVS907KmT6bsAX"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Antimatter",
-      "url": "https://open.spotify.com/track/3KYK9XUn6gQ235rDRnSg97"
     },
     {
       "added_at": "2026-05-08 02:00:02",

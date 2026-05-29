@@ -1,13 +1,29 @@
 {
-  "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u0648\u0646\u062f",
-  "num_followers": 423649,
+  "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0627\u0628\u0648 \u0627\u0644\u0627\u0646\u0648\u0627\u0631",
+  "num_followers": 423779,
   "original_name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPW18Ys/JIRGipkApNOWiODbr9ar",
+  "snapshot_id": "AAAAANqammyaINx5czme3k05QViTKAjP",
   "tracks": [
+    {
+      "added_at": "2026-05-29 00:00:13",
+      "album": {
+        "name": "Kalam Mkntsh Haaolo",
+        "url": "https://open.spotify.com/album/4USiR6gaoLGwQkpKVcXYMU"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        }
+      ],
+      "duration_ms": 197937,
+      "name": "Saheb Mama",
+      "url": "https://open.spotify.com/track/3fSjgQNEmdPml4KRR9HAL7"
+    },
     {
       "added_at": "2026-05-22 16:29:57",
       "album": {
@@ -77,6 +93,46 @@
       "url": "https://open.spotify.com/track/0cqalBJaHnliD9jONcyplZ"
     },
     {
+      "added_at": "2026-05-29 00:00:13",
+      "album": {
+        "name": "WATHAEQY",
+        "url": "https://open.spotify.com/album/7nYOylAZXdAghVcCXIpAhN"
+      },
+      "artists": [
+        {
+          "name": "Marwan Moussa",
+          "url": "https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb"
+        }
+      ],
+      "duration_ms": 378466,
+      "name": "WATHAEQY",
+      "url": "https://open.spotify.com/track/5SCYmSWcvZVkAroQk5sj6C"
+    },
+    {
+      "added_at": "2026-05-29 00:00:13",
+      "album": {
+        "name": "\u0643\u0644\u0647 \u0632\u064a \u0628\u0639\u0636\u0647",
+        "url": "https://open.spotify.com/album/56WEUqyhZ5ODxJIFhyvuEs"
+      },
+      "artists": [
+        {
+          "name": "Coolpix",
+          "url": "https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ"
+        },
+        {
+          "name": "Shahyn",
+          "url": "https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG"
+        },
+        {
+          "name": "ONUY",
+          "url": "https://open.spotify.com/artist/33Dgas4QUk9jjh2TnolVwj"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "\u0643\u0644\u0647 \u0632\u064a \u0628\u0639\u0636\u0647",
+      "url": "https://open.spotify.com/track/5ScRMOHU9d6bB5AmIOD1hh"
+    },
+    {
       "added_at": "2026-05-18 12:50:49",
       "album": {
         "name": "Hara",
@@ -139,6 +195,22 @@
     {
       "added_at": "2026-05-18 12:50:49",
       "album": {
+        "name": "Bokra Teshouf",
+        "url": "https://open.spotify.com/album/0TtcPkZod7NR8ArDt9rhSR"
+      },
+      "artists": [
+        {
+          "name": "DJ Totti",
+          "url": "https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda"
+        }
+      ],
+      "duration_ms": 194811,
+      "name": "\u0628\u0643\u0631\u0629 \u062a\u0634\u0648\u0641",
+      "url": "https://open.spotify.com/track/4a0Td5uLhLHJQih6enI4c5"
+    },
+    {
+      "added_at": "2026-05-18 12:50:49",
+      "album": {
         "name": "CITY",
         "url": "https://open.spotify.com/album/3CA3aSk21SllyOedccrxr9"
       },
@@ -171,22 +243,6 @@
       "duration_ms": 154124,
       "name": "El Ayam",
       "url": "https://open.spotify.com/track/0trJ6hrLHHHaXZYMe1JLnb"
-    },
-    {
-      "added_at": "2026-05-18 12:50:49",
-      "album": {
-        "name": "Bokra Teshouf",
-        "url": "https://open.spotify.com/album/0TtcPkZod7NR8ArDt9rhSR"
-      },
-      "artists": [
-        {
-          "name": "DJ Totti",
-          "url": "https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda"
-        }
-      ],
-      "duration_ms": 194811,
-      "name": "\u0628\u0643\u0631\u0629 \u062a\u0634\u0648\u0641",
-      "url": "https://open.spotify.com/track/4a0Td5uLhLHJQih6enI4c5"
     },
     {
       "added_at": "2026-05-18 12:50:49",
@@ -303,22 +359,6 @@
       "duration_ms": 213158,
       "name": "OGRA",
       "url": "https://open.spotify.com/track/5wQbMKn21YLtviGNWFmhpV"
-    },
-    {
-      "added_at": "2026-05-18 12:50:49",
-      "album": {
-        "name": "MAFIA",
-        "url": "https://open.spotify.com/album/4PbcFg08rKsFnESVcBnDwH"
-      },
-      "artists": [
-        {
-          "name": "Mousv",
-          "url": "https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah"
-        }
-      ],
-      "duration_ms": 153290,
-      "name": "DON'T CALL ME TODAY",
-      "url": "https://open.spotify.com/track/14nb4zJx6gSeqtBEQ3JfHa"
     },
     {
       "added_at": "2026-05-18 12:50:49",
@@ -619,22 +659,6 @@
     {
       "added_at": "2026-05-18 12:50:49",
       "album": {
-        "name": "John Cena",
-        "url": "https://open.spotify.com/album/6Iruz4sv6jyUWqbtC3feHc"
-      },
-      "artists": [
-        {
-          "name": "3ab3az",
-          "url": "https://open.spotify.com/artist/1L2TmL1IEbktDOsTtAy6sr"
-        }
-      ],
-      "duration_ms": 128626,
-      "name": "John Cena",
-      "url": "https://open.spotify.com/track/4HKDKyMh6vEW77QxpzKbfd"
-    },
-    {
-      "added_at": "2026-05-18 12:50:49",
-      "album": {
         "name": "\u0628\u0639\u062a\u0627\u0644\u064a \u0641\u064a \u0627\u0644\u0634\u0627\u062a",
         "url": "https://open.spotify.com/album/33iJiB1TEyc2qKHKv7jxHJ"
       },
@@ -707,22 +731,6 @@
       "duration_ms": 212869,
       "name": "\u0639 \u0627\u0644\u0623\u0628\u064a\u0636 - 3L Abyad",
       "url": "https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W"
-    },
-    {
-      "added_at": "2026-05-18 12:50:49",
-      "album": {
-        "name": "6 Shohour",
-        "url": "https://open.spotify.com/album/06wzYMLZWW2AawVYKlPkcz"
-      },
-      "artists": [
-        {
-          "name": "Lege-Cy",
-          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
-        }
-      ],
-      "duration_ms": 118695,
-      "name": "Wala Yehemak",
-      "url": "https://open.spotify.com/track/7FeflOB46MGCh7Wzj1JuOW"
     }
   ],
   "unique_name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",

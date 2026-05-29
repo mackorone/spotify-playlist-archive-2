@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Everyone",
+        "url": "https://open.spotify.com/album/13UmBV9sS0UuII8qiNdk19"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158328,
+      "name": "Everyone",
+      "url": "https://open.spotify.com/track/2fpl1NTLGEFXcMbI6ExE8n"
+    },
+    {
+      "album": {
         "name": "NO RE-ENTRY",
         "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
       },

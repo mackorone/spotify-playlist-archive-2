@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > e aí tue, como foi o show?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,546,540 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,546,534 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BACKSTAGE](https://open.spotify.com/track/5TKTBDb9p1npApJLuQLd7M) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [BNYX](https://open.spotify.com/artist/4kuF7yS9DIeTXrnOvffJkV), [Azul Wynter](https://open.spotify.com/artist/27sdmUjvXiJmhG4J9QHWFz), [Bryan Yepes](https://open.spotify.com/artist/7iANeSRULLS2z8Eeuzxsbl) | [XTRANHO](https://open.spotify.com/album/5ORsvI5ThmZw7PS1NTvZaB) | 2:19 |
+| 1 | [BACKSTAGE](https://open.spotify.com/track/5TKTBDb9p1npApJLuQLd7M) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Azul Wynter](https://open.spotify.com/artist/27sdmUjvXiJmhG4J9QHWFz), [Bryan Yepes](https://open.spotify.com/artist/7iANeSRULLS2z8Eeuzxsbl) | [XTRANHO](https://open.spotify.com/album/5ORsvI5ThmZw7PS1NTvZaB) | 2:19 |
 | 2 | [BOM E NOVO](https://open.spotify.com/track/549Z7ZBTRK7ptkyukqhoW8) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [PALÁCIO DE LONA](https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3) | 2:31 |
 | 3 | [JAPONÊS](https://open.spotify.com/track/6JH5wCoto58vgqa61jvazc) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [JAPONÊS](https://open.spotify.com/album/6XAPZm3B8QGc0QKe1sSob7) | 3:12 |
 | 4 | [Gabriela](https://open.spotify.com/track/38P7D5dzZ7l5FSnhd7Ld0b) | [Oreozin](https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Gabriela](https://open.spotify.com/album/3jcJYhr956hPIyMf6xx7BW) | 3:22 |

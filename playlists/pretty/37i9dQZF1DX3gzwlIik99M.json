@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 203830,
+  "num_followers": 203840,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Satanico-Dramatico",
-        "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
-      },
-      "artists": [
-        {
-          "name": "Dia De Los Muertos",
-          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
-        }
-      ],
-      "duration_ms": 71000,
-      "name": "Sigo Siendo El Rey",
-      "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
         "name": "Privaci\u00f3n Ileg\u00edtima de la Libertad",
         "url": "https://open.spotify.com/album/3T1bucft30F8GeAa9mlECc"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 288440,
       "name": "Privaci\u00f3n Ileg\u00edtima de la Libertad",
       "url": "https://open.spotify.com/track/1KpwCqOkdPfI3iXtqOHtHE"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
+        "name": "Satanico-Dramatico",
+        "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
+      },
+      "artists": [
+        {
+          "name": "Dia De Los Muertos",
+          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
+        }
+      ],
+      "duration_ms": 71000,
+      "name": "Sigo Siendo El Rey",
+      "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Creation of Insanity",
-        "url": "https://open.spotify.com/album/1zW6qmkDk1DkzkMnYRHn98"
+        "name": "Legiones",
+        "url": "https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf"
       },
       "artists": [
         {
-          "name": "Introtyl",
-          "url": "https://open.spotify.com/artist/6Im0py5F0Y2RMJTQ6MlX6A"
+          "name": "Serpentor",
+          "url": "https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM"
         }
       ],
-      "duration_ms": 161881,
-      "name": "Regresi\u00f3n",
-      "url": "https://open.spotify.com/track/4tmIaTtJDLBkreZhO3w4o7"
+      "duration_ms": 374026,
+      "name": "Reinar\u00e1 el Caos",
+      "url": "https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z"
     }
   ],
   "unique_name": "Metal del Nuestro",

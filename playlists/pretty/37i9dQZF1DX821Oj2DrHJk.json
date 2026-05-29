@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 32111,
+  "num_followers": 32123,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Communiqu\u00e9",
-        "url": "https://open.spotify.com/album/2xQBCPq2gQ7l8thLUUZSKu"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "Lady Writer",
-      "url": "https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Band On The Run",
         "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 313026,
       "name": "Band On The Run - 2010 Remaster",
       "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Communiqu\u00e9",
+        "url": "https://open.spotify.com/album/2xQBCPq2gQ7l8thLUUZSKu"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Lady Writer",
+      "url": "https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Cat Scratch Fever",
         "url": "https://open.spotify.com/album/5vndJ1bTQkvu3HZaJjgomB"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 219400,
       "name": "Cat Scratch Fever",
       "url": "https://open.spotify.com/track/0SvfyHYDp2uIsHt53LDlI9"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2024-07-12 14:53:15",

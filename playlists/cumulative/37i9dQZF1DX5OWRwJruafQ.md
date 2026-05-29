@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Karan Aujla
 
-794 songs - 1 day 13 hr 57 min
+795 songs - 1 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [7.7 Magnitude](https://open.spotify.com/track/1xofPJhZcfJCc66P1UAh28) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 4:03 | 2025-08-25 |  |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2023-12-21 |  |
 | [8500](https://open.spotify.com/track/1HjXEP7AK1SrehhZ7wgOt7) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Skywar](https://open.spotify.com/artist/5GRF2OUN2zIW9MbSqrQETT) | [Auto Mode](https://open.spotify.com/album/1g2kiM7YojZsx7LpTA8Jat) | 2:08 | 2024-07-09 | 2024-07-19 |
+| [911](https://open.spotify.com/track/1EPcG4PNwL2YuvNHIKyMo0) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [911](https://open.spotify.com/album/4iKThPk799paKw0G6BYrXp) | 3:08 | 2026-05-28 |  |
 | [A Day In Merc](https://open.spotify.com/track/3k4O6pWyMt7kF60VT5Ww78) | [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Santali](https://open.spotify.com/artist/0TDpko4t3LQLlGuiG3mzwq) | [WZR TANK](https://open.spotify.com/album/10yWo0RWJqR7XCSN9rU3gw) | 2:56 | 2025-08-11 | 2025-09-27 |
 | [A To Z](https://open.spotify.com/track/2FockdBcn1bP5TffQyk2Vz) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Sycostyle](https://open.spotify.com/artist/0OXj50LoqFAQ9qj3dQ9yni) | [A To Z](https://open.spotify.com/album/3xftNb9XmCz6uLTN5CwhPA) | 2:08 | 2025-06-18 | 2025-07-19 |
 | [AAN MILO](https://open.spotify.com/track/57yFUb45xU65dGzc3G6aam) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q) | [AAN MILO](https://open.spotify.com/album/3UjyMmnzh0nemZfKBHCViK) | 3:25 | 2024-02-05 | 2025-01-28 |
@@ -496,7 +497,7 @@
 | [My Rulez](https://open.spotify.com/track/2WrgOxn53EUKLxuzo1pscL) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [My Rulez](https://open.spotify.com/album/0NPgf1wtzwgv7qw2TtNfAZ) | 2:47 | 2023-03-29 | 2023-07-15 |
 | [My Thoughts](https://open.spotify.com/track/5Zasc5jHaWCLLRKStYVeyx) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [My Thoughts](https://open.spotify.com/album/7tIZMftjTIehMLSUxdVFdX) | 2:50 | 2023-06-08 | 2023-07-13 |
 | [My World 2](https://open.spotify.com/track/18mupiDOivCDs7lviTVaTO) | [Raman Lakhesar](https://open.spotify.com/artist/13D2fLGET14YoWFecILMTh) | [My World 2](https://open.spotify.com/album/4EQ9zabvxMea4355kQpNgM) | 3:02 | 2025-06-19 |  |
-| [Naa Kar Naa Kar](https://open.spotify.com/track/6Sg0WwQZIzJH0s1gzJR71K) | [Merza](https://open.spotify.com/artist/1pbDpKcGxY1oLZXhHGzk4U), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Naa Kar Naa Kar](https://open.spotify.com/album/39b6eK6B6T8o6ir8TT0oM5) | 2:07 | 2026-04-16 |  |
+| [Naa Kar Naa Kar](https://open.spotify.com/track/6Sg0WwQZIzJH0s1gzJR71K) | [Merza](https://open.spotify.com/artist/1pbDpKcGxY1oLZXhHGzk4U), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Naa Kar Naa Kar](https://open.spotify.com/album/39b6eK6B6T8o6ir8TT0oM5) | 2:07 | 2026-04-16 | 2026-05-29 |
 | [Naa Lai Ke](https://open.spotify.com/track/3vXHs1USJvUYpFsuxZGTiS) | [Sunny Randhawa](https://open.spotify.com/artist/3h87sa2W1TI6kn30DMwz15) | [Naa Lai Ke](https://open.spotify.com/album/4bqStg9FJ3mbIrTdYh1vtC) | 2:32 | 2023-08-23 | 2024-04-12 |
 | [Naal Jehde Vekhe](https://open.spotify.com/track/4hqgW0mTab07LxOLcvuv6E) | [Gopi Waraich](https://open.spotify.com/artist/0xJGcb3ExRGGCnr7VuKXk1) | [G\-2](https://open.spotify.com/album/2XGi5FrzFh6oVa80m5z0OQ) | 2:21 | 2023-06-09 | 2023-10-10 |
 | [Naal Te Khilaaf](https://open.spotify.com/track/2ekzpv3xcC4LGoK7xMIyDB) | [Yeah Cheif](https://open.spotify.com/artist/53ck2MWfzBjUNv3lFa3WEW), [Dollar Sidhu](https://open.spotify.com/artist/47m5PyNllVV5mnuIHj0HbN), [Ranveer Sidhu](https://open.spotify.com/artist/15q3PtMBtWriJ43h8pBhfV) | [Naal Te Khilaaf](https://open.spotify.com/album/09ojkod7xnluA6S19IGHbP) | 2:34 | 2025-07-11 | 2025-07-29 |

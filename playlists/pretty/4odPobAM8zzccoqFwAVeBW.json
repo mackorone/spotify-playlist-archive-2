@@ -6,8 +6,144 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABMksnUCPwviT3h5J5jBGOMekkbVYtX",
+  "snapshot_id": "AABMn96iySJTX5KKB7FVhbMRF8q9Si1W",
   "tracks": [
+    {
+      "added_at": "2026-05-28 12:14:44",
+      "album": {
+        "name": "Dhalgren (Nihilism is Not Enough)",
+        "url": "https://open.spotify.com/album/0Oe68NEV8IHirGAdIBIM1T"
+      },
+      "artists": [
+        {
+          "name": "Speaker Music",
+          "url": "https://open.spotify.com/artist/1H0aWZUg7aOHQmo5h09xso"
+        }
+      ],
+      "duration_ms": 468648,
+      "name": "Dhalgren (Nihilism is Not Enough)",
+      "url": "https://open.spotify.com/track/7dmgn1ThtSyxuJSKICQWsV"
+    },
+    {
+      "added_at": "2026-05-28 12:18:34",
+      "album": {
+        "name": "Caught Myself",
+        "url": "https://open.spotify.com/album/45tf0M0wKZqtqCNHwrsHbo"
+      },
+      "artists": [
+        {
+          "name": "Stolen Velour",
+          "url": "https://open.spotify.com/artist/3YIXaWaXPfxxpWZKCDnePZ"
+        },
+        {
+          "name": "FLOCO",
+          "url": "https://open.spotify.com/artist/481UCPPSOM8exNyn4iDZHQ"
+        },
+        {
+          "name": "Aria SL",
+          "url": "https://open.spotify.com/artist/3H7dgdc50JIJDEqDIjOfxL"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Caught Myself",
+      "url": "https://open.spotify.com/track/5Kv9qIWLOWohAALI6qrEss"
+    },
+    {
+      "added_at": "2026-05-28 12:16:10",
+      "album": {
+        "name": "The Long Way Round",
+        "url": "https://open.spotify.com/album/2yeSXn65PsQ44yYvKq9Tpd"
+      },
+      "artists": [
+        {
+          "name": "Mother Church",
+          "url": "https://open.spotify.com/artist/0ZZQNWjQEkwjYJALd5veZ7"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "The Long Way Round",
+      "url": "https://open.spotify.com/track/3wsIYveXLIwasI6n6E4Rps"
+    },
+    {
+      "added_at": "2026-05-28 12:17:15",
+      "album": {
+        "name": "Bill Norrie",
+        "url": "https://open.spotify.com/album/3HbOINS3elQMUdkQUWfCgt"
+      },
+      "artists": [
+        {
+          "name": "Crumbling Ghost",
+          "url": "https://open.spotify.com/artist/1TCgPT3JAewdKKmU3ArCrl"
+        }
+      ],
+      "duration_ms": 353311,
+      "name": "Bill Norrie",
+      "url": "https://open.spotify.com/track/1lCgl51eboNVybb9Bjmu42"
+    },
+    {
+      "added_at": "2026-05-28 12:17:49",
+      "album": {
+        "name": "Seeing Double",
+        "url": "https://open.spotify.com/album/6vRj5a0PPhpIIA7xtQHEWF"
+      },
+      "artists": [
+        {
+          "name": "The Martial Arts",
+          "url": "https://open.spotify.com/artist/7s1CE8j3aVdaz8dBKzIJ6i"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "Seeing Double",
+      "url": "https://open.spotify.com/track/4x7s9DvI8hJCqwYGHaAywz"
+    },
+    {
+      "added_at": "2026-05-28 12:18:05",
+      "album": {
+        "name": "Be Somebody",
+        "url": "https://open.spotify.com/album/6G9B4QAf0gvoCwmdfTJKQw"
+      },
+      "artists": [
+        {
+          "name": "SPLIT DOGS",
+          "url": "https://open.spotify.com/artist/2knguAkuatcKmqXZkBxaLs"
+        }
+      ],
+      "duration_ms": 169758,
+      "name": "Be Somebody",
+      "url": "https://open.spotify.com/track/26pfzjxjrZ2w85dd4USza3"
+    },
+    {
+      "added_at": "2026-05-28 12:18:21",
+      "album": {
+        "name": "Freedom is the Mole who will turn the world upside down",
+        "url": "https://open.spotify.com/album/1UdmIWGxbNpuGIiCvLhJeQ"
+      },
+      "artists": [
+        {
+          "name": "The Sprigs",
+          "url": "https://open.spotify.com/artist/6pMqWTXOLF5AAL37ErGKqw"
+        }
+      ],
+      "duration_ms": 415848,
+      "name": "Freedom is the Mole who will turn the world upside down",
+      "url": "https://open.spotify.com/track/5bx3SuiWsk51p1vGBkJ6lM"
+    },
+    {
+      "added_at": "2026-05-28 12:19:20",
+      "album": {
+        "name": "Searching for Snails",
+        "url": "https://open.spotify.com/album/28Q5kKSf7bM0dtibovd3Iv"
+      },
+      "artists": [
+        {
+          "name": "Doris Brendel",
+          "url": "https://open.spotify.com/artist/4pVeFYgp3ZMZDHvbQecxg5"
+        }
+      ],
+      "duration_ms": 191890,
+      "name": "I Wanna Be Sherlock Holmes",
+      "url": "https://open.spotify.com/track/77OSl1cOrziesntLxoQVIg"
+    },
     {
       "added_at": "2026-05-22 06:34:04",
       "album": {
@@ -1211,134 +1347,6 @@
       "duration_ms": 218083,
       "name": "Insolvent Soldiers",
       "url": "https://open.spotify.com/track/6yB2yn60ucZJAkrLqQ7mU1"
-    },
-    {
-      "added_at": "2026-05-01 05:37:42",
-      "album": {
-        "name": "Department of Biology",
-        "url": "https://open.spotify.com/album/26gqxMxX62Va7UfJVbl3dG"
-      },
-      "artists": [
-        {
-          "name": "David Cronenberg's Wife",
-          "url": "https://open.spotify.com/artist/7C3DYH8eNyONYDHJWZjQn1"
-        }
-      ],
-      "duration_ms": 321974,
-      "name": "The Sea",
-      "url": "https://open.spotify.com/track/2uWp1E21A3pCXVawETodwR"
-    },
-    {
-      "added_at": "2026-05-01 05:37:58",
-      "album": {
-        "name": "Lost Hope Society",
-        "url": "https://open.spotify.com/album/17gcDoeMtTbf8Mio2EWJ7G"
-      },
-      "artists": [
-        {
-          "name": "The Music Liberation Front Sweden",
-          "url": "https://open.spotify.com/artist/6YrKM6KK0TY3oMCfPHp2hD"
-        }
-      ],
-      "duration_ms": 208160,
-      "name": "And Another Stories",
-      "url": "https://open.spotify.com/track/5LDg00feCIZcHcYLPeCC1V"
-    },
-    {
-      "added_at": "2026-05-01 05:39:04",
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/15DRzuoMYSkdFa9gbdcsOs"
-      },
-      "artists": [
-        {
-          "name": "No Peeling",
-          "url": "https://open.spotify.com/artist/4wTlzdbkDWJuetDilZs0jP"
-        }
-      ],
-      "duration_ms": 75373,
-      "name": "Mascot Fight",
-      "url": "https://open.spotify.com/track/0QOgIAHNqq0Vco3BCdjhAL"
-    },
-    {
-      "added_at": "2026-05-01 05:40:11",
-      "album": {
-        "name": "Saitte Mit\u00e4 Halusitte",
-        "url": "https://open.spotify.com/album/0RSozoJ40j2NrkbmLTxEjQ"
-      },
-      "artists": [
-        {
-          "name": "Yleiset Syyt",
-          "url": "https://open.spotify.com/artist/77xJ3l102w1ehtQP7akp34"
-        }
-      ],
-      "duration_ms": 127165,
-      "name": "Inhimillisen Tuhon Piiri",
-      "url": "https://open.spotify.com/track/3bN2YNVm7tsfEOGEDGQuT7"
-    },
-    {
-      "added_at": "2026-05-01 05:41:28",
-      "album": {
-        "name": "Canciones Malditas",
-        "url": "https://open.spotify.com/album/4nKQB5bUTxNZEcBkgrrVhT"
-      },
-      "artists": [
-        {
-          "name": "Suicidas",
-          "url": "https://open.spotify.com/artist/4MoecK3YNXhEB3Gu91S3kh"
-        }
-      ],
-      "duration_ms": 132588,
-      "name": "Llueve en mi Cora",
-      "url": "https://open.spotify.com/track/4FpJyr0AcGKwQNH1JsDmnp"
-    },
-    {
-      "added_at": "2026-05-01 05:42:03",
-      "album": {
-        "name": "January 4/5",
-        "url": "https://open.spotify.com/album/7mQKjp0b48RElWya9Bt20h"
-      },
-      "artists": [
-        {
-          "name": "Drumm Chimp",
-          "url": "https://open.spotify.com/artist/4YJ1HgKznzTQjpuEzvRirP"
-        }
-      ],
-      "duration_ms": 400107,
-      "name": "Ravespasm",
-      "url": "https://open.spotify.com/track/5PqtrpYCiDX1H3IfAV6C7U"
-    },
-    {
-      "added_at": "2026-05-01 05:42:20",
-      "album": {
-        "name": "Debris",
-        "url": "https://open.spotify.com/album/2FcGXx4gYKYgyqvlSHLn50"
-      },
-      "artists": [
-        {
-          "name": "Epic Soundtracks",
-          "url": "https://open.spotify.com/artist/0zXDICT0lBBvcKPgfPyR7l"
-        }
-      ],
-      "duration_ms": 165115,
-      "name": "The Persuader",
-      "url": "https://open.spotify.com/track/4mOV6491R7DvCA5vBx4JBa"
-    },
-    {
-      "added_at": "2026-05-01 05:43:28",
-      "album": {
-        "name": "Visions Inside Your Mind",
-        "url": "https://open.spotify.com/album/1ad0uvkoO9pYzBKQSehGEf"
-      },
-      "artists": [
-        {
-          "name": "Xeeland",
-          "url": "https://open.spotify.com/artist/3aX0V73OgbQcEGeNXFKyfO"
-        }
-      ],
-      "duration_ms": 476186,
-      "name": "Visions Inside Your Mind",
-      "url": "https://open.spotify.com/track/0CHjUxOj7sxzbJzfnwcGJ4"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

@@ -5207,28 +5207,6 @@
     },
     {
       "album": {
-        "name": "Lige Her, Lige Nu",
-        "url": "https://open.spotify.com/album/2gA3mRQDu4jyVVqrgcVd7W"
-      },
-      "artists": [
-        {
-          "name": "Rosa",
-          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
-        },
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "date_added": "2026-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 172844,
-      "name": "Bliv hvor du er",
-      "url": "https://open.spotify.com/track/18wTOhWtLK0DYvJAR1kzS7"
-    },
-    {
-      "album": {
         "name": "Bliv hvor du er",
         "url": "https://open.spotify.com/album/4H8e7bzAPEr6vnRwriodid"
       },
@@ -5248,6 +5226,28 @@
       "duration_ms": 172844,
       "name": "Bliv hvor du er",
       "url": "https://open.spotify.com/track/4A4pwyrf1YrIfTGsmt5D7k"
+    },
+    {
+      "album": {
+        "name": "Lige Her, Lige Nu",
+        "url": "https://open.spotify.com/album/2gA3mRQDu4jyVVqrgcVd7W"
+      },
+      "artists": [
+        {
+          "name": "Rosa",
+          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "date_added": "2026-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172844,
+      "name": "Bliv hvor du er (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/18wTOhWtLK0DYvJAR1kzS7"
     },
     {
       "album": {

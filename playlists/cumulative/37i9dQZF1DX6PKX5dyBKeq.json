@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: MoStack, J Hus",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Fredo",
   "name": "Rap UK",
   "tracks": [
     {
@@ -6792,6 +6792,24 @@
       "duration_ms": 147605,
       "name": "Boss B*tch",
       "url": "https://open.spotify.com/track/0uMk3cDDhfJySp5tjoZ9fW"
+    },
+    {
+      "album": {
+        "name": "boss_",
+        "url": "https://open.spotify.com/album/5k7POafDpZuVsYzW4s1xgW"
+      },
+      "artists": [
+        {
+          "name": "Nori",
+          "url": "https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192544,
+      "name": "boss_",
+      "url": "https://open.spotify.com/track/1eTFEhKwOhyiVCwFosZ1RG"
     },
     {
       "album": {
@@ -16321,6 +16339,24 @@
     },
     {
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/6OLfB7EDNgVTNM8eNlEeRC"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131223,
+      "name": "Franklin Saint",
+      "url": "https://open.spotify.com/track/41eLyUevYzG1Nqcs9LOSQb"
+    },
+    {
+      "album": {
         "name": "Wild West",
         "url": "https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ"
       },
@@ -25337,6 +25373,28 @@
     },
     {
       "album": {
+        "name": "LOST NOT FOUND",
+        "url": "https://open.spotify.com/album/0Rfn6ih3qdvMZS7rBBim7P"
+      },
+      "artists": [
+        {
+          "name": "BexBlu",
+          "url": "https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy"
+        },
+        {
+          "name": "Paul Stephan",
+          "url": "https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111480,
+      "name": "LOST NOT FOUND",
+      "url": "https://open.spotify.com/track/2v9YfrT7DxZpe8FpnF5I44"
+    },
+    {
+      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/3uzHRsdKQeAsINaS2RISBF"
       },
@@ -26582,6 +26640,28 @@
       "duration_ms": 170000,
       "name": "Mayor",
       "url": "https://open.spotify.com/track/78JW2b8R8sTERHwJ46eSqg"
+    },
+    {
+      "album": {
+        "name": "Mazzaleen",
+        "url": "https://open.spotify.com/album/22gub81LW7QBIJIIK8J1gg"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227490,
+      "name": "Mazzaleen",
+      "url": "https://open.spotify.com/track/2qjchnJOgJoWsuOJsfbUVr"
     },
     {
       "album": {
@@ -31470,6 +31550,28 @@
       "duration_ms": 160000,
       "name": "One Up",
       "url": "https://open.spotify.com/track/6R6ZS5HYH4RdXkjEwEJO5R"
+    },
+    {
+      "album": {
+        "name": "Only Love (feat. Pa Salieu)",
+        "url": "https://open.spotify.com/album/6nilpOGqIruVfH4w5UDJlY"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202545,
+      "name": "Only Love (feat. Pa Salieu)",
+      "url": "https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq"
     },
     {
       "album": {
@@ -39298,7 +39400,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 298076,
       "name": "SOUTH LDN LOVER GIRL",
       "url": "https://open.spotify.com/track/4wZvxvi0hUvIZuWrdz2pA0"
@@ -40700,7 +40802,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 166000,
       "name": "SUNSHINE",
       "url": "https://open.spotify.com/track/0RdzunnFJPhsAUp1V4Xum2"
@@ -44658,7 +44760,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 185684,
       "name": "Valley",
       "url": "https://open.spotify.com/track/0HH3uVsAUpi8gwh64LY9i5"
@@ -45560,7 +45662,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 128000,
       "name": "WAY U MOVE",
       "url": "https://open.spotify.com/track/0Ne9qvEn0GN5ixFUyPm7RP"

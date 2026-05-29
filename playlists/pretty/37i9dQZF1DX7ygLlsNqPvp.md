@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  O'Kenneth
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,901 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,925 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 17 | [Borga Shiperepe](https://open.spotify.com/track/3yq64xWAvIgCPZpCuJ0lG5) | [GLOBALBOY COLLIN](https://open.spotify.com/artist/30N25ZmNiV3kSpIct7aHeL) | [Borga Shiperepe](https://open.spotify.com/album/55NBa2pEDcxw9roxjvbt4g) | 2:22 |
 | 18 | [LONELY ROAD](https://open.spotify.com/track/2rrXhDtfbDWzo3nbtMYGX3) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/2RMzKqHpoxVKMNJu73Anha) | 3:00 |
 | 19 | [TSOOBI \(AKONOBA\)](https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [TSOOBI \(AKONOBA\)](https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV) | 3:46 |
-| 20 | [Deja Vu](https://open.spotify.com/track/0XZqSrLi9J9UgIvgsJiwy4) | [Sean Lifer](https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9) | [Burning Boats](https://open.spotify.com/album/71HKYStHFMUotfvgpdEPtB) | 2:09 |
+| 20 | [Casamigos](https://open.spotify.com/track/244PKddB4dSd4cEe7EZhUE) | [LaMar GanG](https://open.spotify.com/artist/1YO7tuzgvhEprqMJK19rP2), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [Casamigos](https://open.spotify.com/album/1t83Gc8oqs7fSynvM4K7Gw) | 3:27 |
 | 21 | [AGYEIWAA](https://open.spotify.com/track/6jiUTqGMy6CeiQtCxIjKKa) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [AGYEIWAA](https://open.spotify.com/album/4dhGN9UWrhHHR0DhhxfZKo) | 3:31 |
 | 22 | [Sa Me](https://open.spotify.com/track/0JHLFj7g5S6PVL0sBl7mxR) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Sa Me](https://open.spotify.com/album/02D9f4yJWVjTViNDyXzgMj) | 2:48 |
 | 23 | [WOY3 GUY???](https://open.spotify.com/track/0iMxuPH4nmrT9gTPKf7mjb) | [YOUTH GOD](https://open.spotify.com/artist/4Rg7gXC9aHEn9WYcZNqAXj), [SARKISTY](https://open.spotify.com/artist/3Rb5nSZ1yBAOJG32MpZboL), [Pinto Black](https://open.spotify.com/artist/7qf1WOQbmOpgcClYQpnCeR), [Ypee](https://open.spotify.com/artist/2RtM65fYc9Jws8FVw1CWNZ), [VILITO](https://open.spotify.com/artist/016LvjaaZmlMIhdR3b5naj), [LAMI JNR](https://open.spotify.com/artist/3adhRf955zpR5POXzPb3Jn), [DROPLORD SAS](https://open.spotify.com/artist/4NbwcGP63d1lO7RgDo7vIE), [BBIG NOVA](https://open.spotify.com/artist/3vc4AKf4JGB2cZ3ySO6XTo) | [WOY3 GUY???](https://open.spotify.com/album/1Vu3sVLhd5P3Jboe3xRLEw) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [MO NTWƐN!](https://open.spotify.com/track/7sMAkr15drJKAD6zysmihs) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [MO NTWƐN!](https://open.spotify.com/album/3srUpOMbqL0ez6KKEx8Y91) | 2:02 |
 | 50 | [TNT](https://open.spotify.com/track/4k9nLxc8QRGKjo5cEfYAbq) | [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [TNT](https://open.spotify.com/album/01V0h9BrD6qr1J5O3ketEs) | 3:34 |
 
-Snapshot ID: `AAAAAAzDbp6C+a6MXXLX/Z4iF7K0TNEw`
+Snapshot ID: `AAAAAI4CwpSd3LMB6zc46WPu5sscPn2h`

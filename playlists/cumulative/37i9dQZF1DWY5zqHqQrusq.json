@@ -169,6 +169,24 @@
     },
     {
       "album": {
+        "name": "Bad Decision",
+        "url": "https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A"
+      },
+      "artists": [
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "Bad Decision",
+      "url": "https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo"
+    },
+    {
+      "album": {
         "name": "Bad Side",
         "url": "https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE"
       },
@@ -882,7 +900,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 321417,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5DALMIl0HFU351kCmSBbbY"
@@ -2075,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "The Lick Back",
+        "url": "https://open.spotify.com/album/08DXRawHAxPzzamzypr5QU"
+      },
+      "artists": [
+        {
+          "name": "Nikita Kering'",
+          "url": "https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119200,
+      "name": "Sema Ukweli",
+      "url": "https://open.spotify.com/track/4qRXTonzWvpBo079XXFeAV"
+    },
+    {
+      "album": {
         "name": "I WISH I WAS HONEST",
         "url": "https://open.spotify.com/album/1Tv0ZJXSTMZ7lI47lFvY1J"
       },
@@ -2764,7 +2800,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 161142,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/10tynOIFqckNWnTwKoydlU"

@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 323,
+  "num_followers": 322,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJ+AlW224e9eqxieWZEp7QbkYe6jQ5",
+  "snapshot_id": "AAAJ+YCCsPa7lhBLM90JMKzb/Tgz89Xr",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -39831,6 +39831,46 @@
       "duration_ms": 139877,
       "name": "Tambor",
       "url": "https://open.spotify.com/track/1hiKFyb43retm8bO3MZvLK"
+    },
+    {
+      "added_at": "2026-05-28 23:03:24",
+      "album": {
+        "name": "Meditherranea",
+        "url": "https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH"
+      },
+      "artists": [
+        {
+          "name": "Meditherranea",
+          "url": "https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe"
+        },
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 201077,
+      "name": "Meditherranea",
+      "url": "https://open.spotify.com/track/1ZP9Lrf4VmTPdKXQ5i3oim"
+    },
+    {
+      "added_at": "2026-05-28 23:03:24",
+      "album": {
+        "name": "Meditherranea",
+        "url": "https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH"
+      },
+      "artists": [
+        {
+          "name": "Meditherranea",
+          "url": "https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe"
+        },
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "duration_ms": 243786,
+      "name": "Meditherranea - Extended Mix",
+      "url": "https://open.spotify.com/track/3nXIC0ZTnJWq5Cz8VEPSHf"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

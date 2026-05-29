@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "NA LINHA DO TEMPO",
+        "url": "https://open.spotify.com/album/0iKnVdY68arqUNMcvoLv0q"
+      },
+      "artists": [
+        {
+          "name": "Deu Samba",
+          "url": "https://open.spotify.com/artist/3jksDgFvZoEBZkH1LsSBzX"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236342,
+      "name": "BLOCO 1970: Pa\u00eds Tropical/Fio Maravilha/Vou Festejar/N\u00e3o Quero Dinheiro (S\u00f3 Quero Amar)",
+      "url": "https://open.spotify.com/track/6IqV0sgFdHINoMjbQ5IrU7"
+    },
+    {
+      "album": {
         "name": "Equil\u00edbrio (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oFcg58VXbLAvFFHEy4hd4"
       },
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 190148,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/4VaZWcDObOtnn03myZ9mug"

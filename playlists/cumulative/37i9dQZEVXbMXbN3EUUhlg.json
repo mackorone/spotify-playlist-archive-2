@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 175228,
       "name": "Admita - Ao Vivo",
       "url": "https://open.spotify.com/track/2YKc5o2kQ6e1Pch1DwpjkO"
@@ -3946,7 +3946,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-24",
+      "date_removed": null,
       "duration_ms": 204080,
       "name": "At\u00e9 Voc\u00ea Voltar - Ao Vivo",
       "url": "https://open.spotify.com/track/4ksSf8cL3VlUvQSkFcRHy3"
@@ -11130,7 +11130,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 191154,
       "name": "Dois Gumes (Ao Vivo)",
       "url": "https://open.spotify.com/track/6Exec6nPRIwvAEu3N8pVnT"
@@ -13075,6 +13075,28 @@
     },
     {
       "album": {
+        "name": "Deu Rolo No Barret\u00e3o (Ver\u00e3o) - Vol. 02 [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3XGGoKnrX9ic4xu44hrqyW"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170658,
+      "name": "Eu Duvido - Ao Vivo",
+      "url": "https://open.spotify.com/track/0qJQD081gspDHC6xCKwMlB"
+    },
+    {
+      "album": {
         "name": "Eu Duvido (Ao Vivo)",
         "url": "https://open.spotify.com/album/5AXeDo14SQnBuv28Ayiekr"
       },
@@ -13090,7 +13112,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 170658,
       "name": "Eu Duvido - Ao Vivo",
       "url": "https://open.spotify.com/track/2NKgvPdAy8FUC5p1l0YnKg"
@@ -13526,7 +13548,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 215040,
       "name": "Eu Te Esperarei",
       "url": "https://open.spotify.com/track/5ICt8bhdL84T9qYZnp05ze"
@@ -17516,7 +17538,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 179504,
       "name": "Ilus\u00e3o De \u00d3tica - Ao Vivo",
       "url": "https://open.spotify.com/track/44CTudFZ0kbaIF9n0jk7oU"
@@ -18136,7 +18158,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 148645,
       "name": "JETSKI",
       "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
@@ -18362,7 +18384,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 322772,
       "name": "J\u00e1 N\u00e3o Sei Mais Nada / Juras de Amor - Sertanejo S\u00e9rie A | Vol.1",
       "url": "https://open.spotify.com/track/6hUlmMhFpJRXRbijm58jTS"
@@ -21090,7 +21112,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 148195,
       "name": "Me Fala Qual Necessidade - Ao Vivo",
       "url": "https://open.spotify.com/track/42AIPMFY5Plqxr4Mw6Bhx9"

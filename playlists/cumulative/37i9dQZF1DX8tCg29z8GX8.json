@@ -16197,6 +16197,24 @@
     },
     {
       "album": {
+        "name": "Webkid (Shatta Music)",
+        "url": "https://open.spotify.com/album/6KPB8evaWx5LNoyqQWcTdh"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137992,
+      "name": "Webkid (Shatta Music)",
+      "url": "https://open.spotify.com/track/2yt19nfbH7CIIRG1WKABPY"
+    },
+    {
+      "album": {
         "name": "Wena",
         "url": "https://open.spotify.com/album/0onz8qjTUpigfkiOyqjSpw"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,022 likes - 94 songs - 5 hr 37 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,021 likes - 98 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,9 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 92 | [Vamos Viendo](https://open.spotify.com/track/4sSJCnRfOZBZ8v7jD6PkPO) | [Ruido Cassette](https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx) | [Vamos Viendo](https://open.spotify.com/album/5I0KWYTTCxgaOlQOvoq4LI) | 3:05 |
 | 93 | [No Angel Is Watching](https://open.spotify.com/track/3Cjct6UfADZsVdXdRHmOae) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [No Angel Is Watching](https://open.spotify.com/album/68XNOikZKxIdeg4OncW44B) | 2:55 |
 | 94 | [Twisting the Knife](https://open.spotify.com/track/3bbYJ9kP7fJkux2JZzSmvN) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Twisting the Knife](https://open.spotify.com/album/1G3EqM6MNhagdMwIbNZ7NU) | 2:40 |
+| 95 | [Cold](https://open.spotify.com/track/3jwVXmDi7lad4TOq4g7liD) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/5WUYMbJOzjX4vDZxPT57he) | 2:53 |
+| 96 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 |
+| 97 | [Pool Song \(Swimming in the 70's\)](https://open.spotify.com/track/44o7PXa6JAO9W8oTUHd4EP) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Gazing\- Guitar Remix/Pool Song](https://open.spotify.com/album/5OdH9EuKxuDm5YPug0jFRy) | 1:35 |
+| 98 | [The Veil](https://open.spotify.com/track/3S9Wu7CaNB5gRDMPBSbHFR) | [Chris Maragoth](https://open.spotify.com/artist/01OJBw7i5uLKADzURGFQr3) | [Lost and Separated](https://open.spotify.com/album/56jnF9yHPmOA5ezamiYMWP) | 3:39 |
 
-Snapshot ID: `AAAGKNPqzzv/A+R95dcGnbhNacFvkNnM`
+Snapshot ID: `AAAGLL/1jd0pkU56nvq03XzDyG/au/pQ`

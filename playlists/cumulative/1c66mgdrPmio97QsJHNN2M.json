@@ -2590,7 +2590,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 259200,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/3McQnRytvqRQHanoy7LSr1"
@@ -6294,7 +6294,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 157429,
       "name": "Cool... and?",
       "url": "https://open.spotify.com/track/6CBiP6oVGNWDpKF0XaClQm"
@@ -6494,7 +6494,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 359168,
       "name": "Crep\u00fasculo",
       "url": "https://open.spotify.com/track/6dIVkRxL84oaksSfn83mju"
@@ -7044,7 +7044,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 212153,
       "name": "Dantzan",
       "url": "https://open.spotify.com/track/7lvOncYd0rBy1favnWeLsk"
@@ -7726,7 +7726,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 168854,
       "name": "DISSOCIATE",
       "url": "https://open.spotify.com/track/6gdFSMQv5pqEQe3y9QgiGQ"
@@ -11991,6 +11991,24 @@
     },
     {
       "album": {
+        "name": "Shenanigansia Vol.2",
+        "url": "https://open.spotify.com/album/0JrGNjTeA3ObLmAnvhcqWR"
+      },
+      "artists": [
+        {
+          "name": "Obsoletha",
+          "url": "https://open.spotify.com/artist/6qDfjOqJJ4H8mMdGRDWwY7"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291994,
+      "name": "Ghostings",
+      "url": "https://open.spotify.com/track/34GKCFgC48l2qHqwYst8My"
+    },
+    {
+      "album": {
         "name": "Day By Day",
         "url": "https://open.spotify.com/album/6t6Nxv3J2rc93ovAUfi1Jv"
       },
@@ -13034,6 +13052,28 @@
       "duration_ms": 205599,
       "name": "Hard to Hold",
       "url": "https://open.spotify.com/track/4nPCUERrPeEHQhe0E2iL2o"
+    },
+    {
+      "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/6CSOmATe3T4NxWLzE0fwgk"
+      },
+      "artists": [
+        {
+          "name": "leetham",
+          "url": "https://open.spotify.com/artist/6A0yNfaiITVOUgOZbRdK5u"
+        },
+        {
+          "name": "Indigo Heaven",
+          "url": "https://open.spotify.com/artist/7x5JhLijrPDhF7jBYsNZqb"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143971,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/2ILy8zkywPhPSDBkmYejUI"
     },
     {
       "album": {
@@ -15552,7 +15592,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 99404,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/36uJxzP6AXm8h593EJ8TFA"
@@ -17846,7 +17886,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 214100,
       "name": "Leaving My Kingdom",
       "url": "https://open.spotify.com/track/1tABf8T4sQVgPZBmmNZ2j9"
@@ -18246,7 +18286,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 174500,
       "name": "Light Me Up",
       "url": "https://open.spotify.com/track/7qwRLkzhH5SacOw68W0Sp0"
@@ -19938,7 +19978,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 199280,
       "name": "Main Character",
       "url": "https://open.spotify.com/track/48WcCw14XRFy1eefX5bOY8"
@@ -24670,7 +24710,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 197138,
       "name": "Party to the People",
       "url": "https://open.spotify.com/track/5gqpVI2591WjZry02t9b2x"
@@ -24862,6 +24902,24 @@
       "duration_ms": 146124,
       "name": "Penang Bang",
       "url": "https://open.spotify.com/track/7e5oLwyrSflUoGqJI4MjW0"
+    },
+    {
+      "album": {
+        "name": "People scare me",
+        "url": "https://open.spotify.com/album/59UMFMmMlUMvK12QiI6rFp"
+      },
+      "artists": [
+        {
+          "name": "MaxVerse",
+          "url": "https://open.spotify.com/artist/6ClwxLhqdr8Vekwt1XLcVD"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207707,
+      "name": "People scare me",
+      "url": "https://open.spotify.com/track/0obwhgWY4sU6LmtDbfEmAu"
     },
     {
       "album": {
@@ -25064,7 +25122,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 171000,
       "name": "plastic halo",
       "url": "https://open.spotify.com/track/24sOa0zi0vBeB0H79gipP2"
@@ -28336,7 +28394,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 207265,
       "name": "She Is My Girl Trever",
       "url": "https://open.spotify.com/track/75UvcgxI1erVDRwRaAeDN7"
@@ -30776,7 +30834,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 205402,
       "name": "Suppa Pissed",
       "url": "https://open.spotify.com/track/4BM81JmZvehKgO8JeDnVQC"
@@ -32496,7 +32554,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 180129,
       "name": "The Songwriter - Radio Edit",
       "url": "https://open.spotify.com/track/7oBo2oxmmzUZuX9cRjDV57"
@@ -37795,6 +37853,24 @@
     },
     {
       "album": {
+        "name": "HEY! BOY We Never Ever Together Again",
+        "url": "https://open.spotify.com/album/68ExNbA2PAVgMvD31bpDUB"
+      },
+      "artists": [
+        {
+          "name": "RYN SKY",
+          "url": "https://open.spotify.com/artist/0LWSuwMqKEWQfFEFOariZg"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191764,
+      "name": "You're Too Soft-Hearted",
+      "url": "https://open.spotify.com/track/2AcE9p681IzegXmZ1fBw8N"
+    },
+    {
+      "album": {
         "name": "Young",
         "url": "https://open.spotify.com/album/5sAKOqWaRQJdwC09lepwkw"
       },
@@ -38116,7 +38192,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 180672,
       "name": "\u00c9 Hexa",
       "url": "https://open.spotify.com/track/5vX7KfFHID9kxgDITEhAul"

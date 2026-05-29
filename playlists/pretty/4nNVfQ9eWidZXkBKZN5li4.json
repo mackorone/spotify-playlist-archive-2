@@ -1,12 +1,12 @@
 {
   "description": "Groove to Desi chart-toppers and Bollywood\u2019s top TikTok hits &amp; Reels Anthems \u2014featuring Arijit Singh, Badshah, AP Dhillon, Shreya Ghoshal, Neha Kakkar, Sunidhi Chauhan, A.R. Rahman, Pritam, and Tanishk Bagchi!",
-  "num_followers": 228271,
+  "num_followers": 228265,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "AAAYqzJEnc7iQfB9EwBAgWxuPnPQV1sP",
+  "snapshot_id": "AAAYrYFzDm6xm87aDvYpG0ahW6zhTRmB",
   "tracks": [
     {
       "added_at": "2026-05-18 07:07:39",
@@ -2507,6 +2507,82 @@
       "duration_ms": 384761,
       "name": "O Rangrez",
       "url": "https://open.spotify.com/track/3rYZNvm6IXPIPIx9BPBQ18"
+    },
+    {
+      "added_at": "2026-05-28 08:00:08",
+      "album": {
+        "name": "Jannat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/153Qw0xXJqhEFxvm9M9rE8"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "Zara Sa",
+      "url": "https://open.spotify.com/track/18YHbIhrleUkKKj2DvEp79"
+    },
+    {
+      "added_at": "2026-05-28 08:00:08",
+      "album": {
+        "name": "KARAM",
+        "url": "https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        }
+      ],
+      "duration_ms": 141473,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44"
+    },
+    {
+      "added_at": "2026-05-28 08:00:08",
+      "album": {
+        "name": "R...Rajkumar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3S9lrCPnWpm3SGYTXLkcv0"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Mayur Puri",
+          "url": "https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj"
+        }
+      ],
+      "duration_ms": 240796,
+      "name": "Saree Ke Fall Sa",
+      "url": "https://open.spotify.com/track/3zRE9GTjbIoGvI2wGmY0mj"
     }
   ],
   "unique_name": "Bollywood Top 50",

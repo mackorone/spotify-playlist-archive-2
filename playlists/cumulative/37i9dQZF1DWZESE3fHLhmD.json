@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-07-28",
-  "description": "\ud83e\udd8b Musik, die sich anf\u00fchlt, wie alles kann, nichts muss \ud83e\udd8b",
-  "name": "Fr\u00fchlingsgef\u00fchle",
+  "description": "sonnige songs weil sommer und so \ud83e\udd1d \ud83d\ude42\u200d\u2194\ufe0f",
+  "name": "Sommergef\u00fchle",
   "tracks": [
     {
       "album": {
@@ -1094,7 +1094,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 198095,
       "name": "Changes",
       "url": "https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ"
@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 208216,
       "name": "eeelluminagee",
       "url": "https://open.spotify.com/track/3CNH1O6Yxyw9Hx9ewlSRdy"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 311641,
       "name": "Estate torna presto",
       "url": "https://open.spotify.com/track/5859W8AIN6EulIbK7CCNeG"
@@ -2474,6 +2474,24 @@
       "duration_ms": 140056,
       "name": "Geile Zeit",
       "url": "https://open.spotify.com/track/47UCIHMC5NtybfvIEZBD4E"
+    },
+    {
+      "album": {
+        "name": "Ghost of Us",
+        "url": "https://open.spotify.com/album/5B4wM24yiGfJGRA7yV7UHi"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180026,
+      "name": "Ghost of Us",
+      "url": "https://open.spotify.com/track/4eS4bqxGG3Ps3Q7xvnhC6i"
     },
     {
       "album": {
@@ -4311,6 +4329,24 @@
     },
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223332,
+      "name": "Mexico Honey",
+      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+    },
+    {
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/2T8uIHAH9XOjXLJNdHJiLY"
       },
@@ -5430,6 +5466,24 @@
       "duration_ms": 202026,
       "name": "Relationships",
       "url": "https://open.spotify.com/track/3QBNfI9ZyLVSgWoF9xw413"
+    },
+    {
+      "album": {
+        "name": "Bea and her Business (2023-2025)",
+        "url": "https://open.spotify.com/album/2MDq2ZqtRBCJWyQ9hRL5l9"
+      },
+      "artists": [
+        {
+          "name": "Bea",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151952,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/6QJRAmuvUGvpyIFPLZLhEY"
     },
     {
       "album": {
@@ -7548,6 +7602,24 @@
       "duration_ms": 209213,
       "name": "What Am I Gonna Do On Sundays?",
       "url": "https://open.spotify.com/track/0WttB2xYS66VopJmwD1UzF"
+    },
+    {
+      "album": {
+        "name": "(Mine)",
+        "url": "https://open.spotify.com/album/5aaWnQWIZVMkddFS0TeXnV"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240087,
+      "name": "What Dreams Are Made Of (Mine)",
+      "url": "https://open.spotify.com/track/4HoRL1oIjGY05NzynfExsW"
     },
     {
       "album": {

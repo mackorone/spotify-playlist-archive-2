@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,587 likes - 56 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,590 likes - 56 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 5 | [Mum](https://open.spotify.com/track/6MxOpA401IY8C3Al22eNxA) | [Louen Poppé](https://open.spotify.com/artist/5knUskE7izmmWZxwNxc8TE) | [Mum](https://open.spotify.com/album/4G0UtxxzmtrTe8gtliChx8) | 4:22 |
 | 6 | [Talk Dirty](https://open.spotify.com/track/4NWHFFGDXCU2pxuqi6PiDH) | [Paranoid London](https://open.spotify.com/artist/0KyUH5WmspOhuIQAnw42Fb), [Josh Caffé](https://open.spotify.com/artist/3JOct1LuzqDQHeCHuHjpM2) | [Talk Dirty / Revolution](https://open.spotify.com/album/3mC1OzkgG1CtWpK7at7zJ0) | 5:47 |
 | 7 | [Distorted Dance](https://open.spotify.com/track/1Tx3nNQLTttCuPH0YC7DOA) | [CHLOE \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Distorted Dance](https://open.spotify.com/album/1szqHflGFVKYFMkyVbcXaZ) | 6:54 |
-| 8 | [Swamp \- Ricardo Villalobos Version](https://open.spotify.com/track/5Qoa4qWW14x9bTKvyVSZvi) | [Ricardo Villalobos](https://open.spotify.com/artist/0s2YIpNnjdf0FY4tNrF8Y4), [Mohammad Reza Mortazavi](https://open.spotify.com/artist/7JuRnCPB2mrwvXfTwPlLqB) | [Swamp \(Ricardo Villalobos Version\)](https://open.spotify.com/album/1BF0rGSYVxE84ntMKIpnuK) | 24:42 |
+| 8 | [Swamp \- Ricardo Villalobos Variation](https://open.spotify.com/track/5Qoa4qWW14x9bTKvyVSZvi) | [Ricardo Villalobos](https://open.spotify.com/artist/0s2YIpNnjdf0FY4tNrF8Y4), [Mohammad Reza Mortazavi](https://open.spotify.com/artist/7JuRnCPB2mrwvXfTwPlLqB) | [Swamp \(Ricardo Villalobos Variation\)](https://open.spotify.com/album/1BF0rGSYVxE84ntMKIpnuK) | 24:42 |
 | 9 | [Let's All Be Influenced](https://open.spotify.com/track/7Ay8rIsUTJ7bASMsX9m9Zr) | [Klon Dump](https://open.spotify.com/artist/0jkfYGjTpIDpqpxw1kWmwT) | [Let's All Be Influenced By The Same Things At The Same Time](https://open.spotify.com/album/4U0uEEJqJFRxpo6uZzSSDe) | 7:01 |
 | 10 | [The Human Factor \- Marcel Dettmann Edit \- Mixed](https://open.spotify.com/track/4JyGOw6psjR5bx6MoZaQcy) | [Mutant Beat Dance](https://open.spotify.com/artist/1Nvf2CmBYahgJzINgmD7PP), [Naughty Wood](https://open.spotify.com/artist/4CTdoz72MlftLBCIcZWeHa), [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP) | [Running Back Mastermix: Marcel Dettmann \- Edits & Cuts \(DJ Mix\)](https://open.spotify.com/album/3t8d7MkH1hAUbLaVGHaLct) | 4:33 |
 | 11 | [Below the Surface](https://open.spotify.com/track/134n0FVaK3y3oP9ibRq3hx) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Poly](https://open.spotify.com/album/0l7zF0wmKvo2smjzhOBzHh) | 4:40 |

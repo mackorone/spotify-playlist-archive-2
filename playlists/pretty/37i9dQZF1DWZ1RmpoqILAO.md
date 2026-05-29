@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > you met me at a very indie twang time in my life..\. Thomas Dollbaum on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,325 likes - 151 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,349 likes - 151 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -162,7 +162,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 185659,
       "name": "1000 \u00c5r (feat. Rasmus Seebach & Ankerstjerne)",
       "url": "https://open.spotify.com/track/6zt65jHkZGhMlpr8hmSFBS"
@@ -2203,7 +2203,7 @@
     },
     {
       "album": {
-        "name": "Bliv hvor du er",
+        "name": "Bliv hvor du er (feat. Artigeardit)",
         "url": "https://open.spotify.com/album/4H8e7bzAPEr6vnRwriodid"
       },
       "artists": [
@@ -2220,7 +2220,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172844,
-      "name": "Bliv hvor du er",
+      "name": "Bliv hvor du er (feat. Artigeardit)",
       "url": "https://open.spotify.com/track/4A4pwyrf1YrIfTGsmt5D7k"
     },
     {
@@ -4199,6 +4199,24 @@
     },
     {
       "album": {
+        "name": "Den Her Sang (Handler Ik' Om Dig)",
+        "url": "https://open.spotify.com/album/7ukvOXEPw0GKO9orenZldH"
+      },
+      "artists": [
+        {
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207933,
+      "name": "Den Her Sang (Handler Ik' Om Dig)",
+      "url": "https://open.spotify.com/track/3O5RYuqcJBigWD7umWGSuc"
+    },
+    {
+      "album": {
         "name": "Den Sidste Dr\u00e5be",
         "url": "https://open.spotify.com/album/6epxWewaSsnJyz7MiDwyUP"
       },
@@ -4910,7 +4928,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 234015,
       "name": "Door",
       "url": "https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo"
@@ -5152,7 +5170,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 173289,
       "name": "Dr\u00f8mmer Som Dig",
       "url": "https://open.spotify.com/track/4zPWwofLXqCkiVHmcVy61m"
@@ -7230,7 +7248,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 164638,
       "name": "F\u00f8r det kan g\u00e5 op",
       "url": "https://open.spotify.com/track/2YcGza2MwrfBCuAoRISyjU"
@@ -7350,7 +7368,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 167690,
       "name": "Gemt Dit Nummer",
       "url": "https://open.spotify.com/track/5oLLC1Enkdr3TB03wFHFx0"
@@ -7922,7 +7940,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 169294,
       "name": "GPS",
       "url": "https://open.spotify.com/track/2jlHjepQ8HqqjhDTWCiGYe"
@@ -10930,6 +10948,24 @@
       "duration_ms": 194594,
       "name": "Jylland",
       "url": "https://open.spotify.com/track/2CsNcwVW6fUabGB0E4ASjF"
+    },
+    {
+      "album": {
+        "name": "Kanten",
+        "url": "https://open.spotify.com/album/0vubJFLLitPbPa1n1wc3IH"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152560,
+      "name": "Kanten",
+      "url": "https://open.spotify.com/track/6hoPyaOW01F83KUbTaR1Ge"
     },
     {
       "album": {
@@ -15729,6 +15765,24 @@
     },
     {
       "album": {
+        "name": "Ringer Om Natten",
+        "url": "https://open.spotify.com/album/3297WTdhKEtKDa629GFO3m"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Ringer Om Natten",
+      "url": "https://open.spotify.com/track/3hVpBthKR5ma6GznWp5f1j"
+    },
+    {
+      "album": {
         "name": "Ripple",
         "url": "https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB"
       },
@@ -16644,6 +16698,28 @@
       "duration_ms": 197159,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm"
+    },
+    {
+      "album": {
+        "name": "Sidste Mand Der D\u00f8r",
+        "url": "https://open.spotify.com/album/28OmKtTNp2VLK6bj9qKgGa"
+      },
+      "artists": [
+        {
+          "name": "Gigis",
+          "url": "https://open.spotify.com/artist/2JPtVnT5s9pasfOlXM6F4o"
+        },
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236061,
+      "name": "Sidste Mand Der D\u00f8r",
+      "url": "https://open.spotify.com/track/2IEGQCj6opHbd0gQZC7eR7"
     },
     {
       "album": {
@@ -17874,7 +17950,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 183819,
       "name": "Stjerneklar",
       "url": "https://open.spotify.com/track/2UqzMfKla6Ub8MksJfLDip"
@@ -19585,6 +19661,24 @@
     },
     {
       "album": {
+        "name": "FORLADMIGEJ",
+        "url": "https://open.spotify.com/album/1YgMrux0tYh6IXpwdHPVio"
+      },
+      "artists": [
+        {
+          "name": "OLIVVER",
+          "url": "https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/6TuyzcroVkiqQZUXlJE3LC"
+    },
+    {
+      "album": {
         "name": "Training Season",
         "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
       },
@@ -20235,6 +20329,28 @@
     },
     {
       "album": {
+        "name": "Var det dig, der var derinde?",
+        "url": "https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Sarah Wichmann",
+          "url": "https://open.spotify.com/artist/51MYcyx50QTCOVGXeX3cfx"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255223,
+      "name": "Var det dig, der var derinde?",
+      "url": "https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ"
+    },
+    {
+      "album": {
         "name": "Venter Ikk P\u00e5 Nogen",
         "url": "https://open.spotify.com/album/5C4Xi4rDB5X7IeOKrYwv4a"
       },
@@ -20598,6 +20714,46 @@
       "duration_ms": 151250,
       "name": "Voksen",
       "url": "https://open.spotify.com/track/53jXRnb1DFknbia3gyuvnD"
+    },
+    {
+      "album": {
+        "name": "V\u00e6rd At Vente P\u00e5 (feat. Katinka)",
+        "url": "https://open.spotify.com/album/63AA0p3YCKIvun4EM4sd2U"
+      },
+      "artists": [
+        {
+          "name": "Hjalmer",
+          "url": "https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ"
+        },
+        {
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197357,
+      "name": "V\u00e6rd At Vente P\u00e5 (feat. Katinka)",
+      "url": "https://open.spotify.com/track/5P7hfOTc287LCc5VESuHu9"
+    },
+    {
+      "album": {
+        "name": "V\u00e6relse 15",
+        "url": "https://open.spotify.com/album/0xpvyWn9bwc3RdZo46jfla"
+      },
+      "artists": [
+        {
+          "name": "Berg",
+          "url": "https://open.spotify.com/artist/4DZ5VR6bUEFtiXoi6IsfcD"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172176,
+      "name": "V\u00e6relse 15",
+      "url": "https://open.spotify.com/track/5daL4YeoOHtrEbvi7xiYMW"
     },
     {
       "album": {
@@ -21160,7 +21316,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 154480,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/2CuM7FRomNSgZVF6QV5uLo"

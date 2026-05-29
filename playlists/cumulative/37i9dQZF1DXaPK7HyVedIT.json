@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: GIU",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: VINNE",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -454,7 +454,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 187285,
       "name": "Actin' Tough",
       "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 300000,
       "name": "Another Story",
       "url": "https://open.spotify.com/track/2kadSkAEexrwXEHTp1cKaR"
@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 150468,
       "name": "Body",
       "url": "https://open.spotify.com/track/1RgWXkfJJ5fYbNx4ENnFQx"
@@ -2404,6 +2404,28 @@
       "duration_ms": 158216,
       "name": "Bololo",
       "url": "https://open.spotify.com/track/7aTZhSR00WrYUJXOn8V2nU"
+    },
+    {
+      "album": {
+        "name": "Bom Dia",
+        "url": "https://open.spotify.com/album/3vm7khm19fJj0rHnzHgIKZ"
+      },
+      "artists": [
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "Breaking Beattz",
+          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Bom Dia",
+      "url": "https://open.spotify.com/track/4XwAXL9rSGfAWMFmxHLVsv"
     },
     {
       "album": {
@@ -4584,7 +4606,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 166440,
       "name": "Dive Into Me",
       "url": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
@@ -5162,7 +5184,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 185600,
       "name": "Duro",
       "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
@@ -8518,7 +8540,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 213900,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/5cuYsYvYGGZbQcUyr0mOe0"
@@ -8771,6 +8793,28 @@
     },
     {
       "album": {
+        "name": "I Love a Robot",
+        "url": "https://open.spotify.com/album/4LyXPrLbtyfBYKK35DMlV7"
+      },
+      "artists": [
+        {
+          "name": "D-Nox",
+          "url": "https://open.spotify.com/artist/1TqcQwnBqloJrKkGs4l4LT"
+        },
+        {
+          "name": "Andr\u00e9 Moret",
+          "url": "https://open.spotify.com/artist/77TawwjtLlpegPo23bblci"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345483,
+      "name": "I Love a Robot - Radio Edit",
+      "url": "https://open.spotify.com/track/5bOoRLgZvjw1jkvyrH7jM9"
+    },
+    {
+      "album": {
         "name": "I Need It EP",
         "url": "https://open.spotify.com/album/4QSB3qMBbBKqKpEYhIU0Rd"
       },
@@ -8790,7 +8834,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 227419,
       "name": "I Need It",
       "url": "https://open.spotify.com/track/7o3jM57QPtAg6kKnPccUoi"
@@ -8984,6 +9028,32 @@
       "duration_ms": 133548,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/6cCEeEs9JA5OI81XaM9RRv"
+    },
+    {
+      "album": {
+        "name": "I Wonder If You Know",
+        "url": "https://open.spotify.com/album/4ZEEq0Ha1r1hotCGAHhAig"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
+        },
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "I Wonder If You Know",
+      "url": "https://open.spotify.com/track/3xk4DtJZKWMqREHQd8xsew"
     },
     {
       "album": {
@@ -12513,6 +12583,36 @@
     },
     {
       "album": {
+        "name": "Morning Coffee (Vintage Culture & Volkoder Remix)",
+        "url": "https://open.spotify.com/album/7lH0vuH40tXNmLLUhiwfuT"
+      },
+      "artists": [
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        },
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213093,
+      "name": "Morning Coffee (Vintage Culture & Volkoder Remix)",
+      "url": "https://open.spotify.com/track/1oL4f0uKXgeW8p6N8Kjxi8"
+    },
+    {
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/1D4zpF6pyutYkHlikXauUT"
       },
@@ -13334,7 +13434,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 147465,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/1RnXmIdxrbPUiKzMsfMX6d"
@@ -13862,6 +13962,24 @@
       "duration_ms": 277896,
       "name": "On My Skin - Original Mix - Edit",
       "url": "https://open.spotify.com/track/7G4GWwMoTBTauoc5uwXXkt"
+    },
+    {
+      "album": {
+        "name": "On The Floor",
+        "url": "https://open.spotify.com/album/5snpsCc6Sq0mdkcaNr1SYO"
+      },
+      "artists": [
+        {
+          "name": "Kyllow",
+          "url": "https://open.spotify.com/artist/6nui7g90m8m7RWTdqMljnM"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261190,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/7cajEM2thmgQti2YN5tBDZ"
     },
     {
       "album": {
@@ -14825,6 +14943,24 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/4kJF3BV5d18wi2BsEWdxv8"
+      },
+      "artists": [
+        {
+          "name": "INNDRIVE",
+          "url": "https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2zWuofQhXXENmYn7T10Cr4"
+    },
+    {
+      "album": {
         "name": "Prophecy",
         "url": "https://open.spotify.com/album/0DG3puFX1rUWPZao7XGtn1"
       },
@@ -15653,6 +15789,24 @@
     },
     {
       "album": {
+        "name": "Run The Block",
+        "url": "https://open.spotify.com/album/6omffP9EB1wX1bNyqIqXuN"
+      },
+      "artists": [
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146062,
+      "name": "Run The Block",
+      "url": "https://open.spotify.com/track/4kykIxlWP3Kj8A15rU7DHs"
+    },
+    {
+      "album": {
         "name": "Run The Night (feat. AKOSIA)",
         "url": "https://open.spotify.com/album/6FkbHKB2LJCjXIskMBWycr"
       },
@@ -15966,7 +16120,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 190153,
       "name": "Second Floor - INNDRIVE, No One Knows Remix",
       "url": "https://open.spotify.com/track/09veQ66M2bhxVjmK2YK7Ab"
@@ -17471,6 +17625,28 @@
     },
     {
       "album": {
+        "name": "Sundance",
+        "url": "https://open.spotify.com/album/5eImPOWECnRYseDq9hWo2u"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303936,
+      "name": "Sundance",
+      "url": "https://open.spotify.com/track/4t7XYhvlA4OvVOeKSvAvGQ"
+    },
+    {
+      "album": {
         "name": "Superrich",
         "url": "https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh"
       },
@@ -17842,6 +18018,24 @@
       "duration_ms": 212540,
       "name": "Telesexo",
       "url": "https://open.spotify.com/track/609zzeuRVGBYi0Q1sTDpxF"
+    },
+    {
+      "album": {
+        "name": "Burnot",
+        "url": "https://open.spotify.com/album/0RIKDNoDHD1R3fb2EeQeqP"
+      },
+      "artists": [
+        {
+          "name": "VINNE",
+          "url": "https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249105,
+      "name": "Tell Me 2026",
+      "url": "https://open.spotify.com/track/4ACLi2TLgG0uz7SLIf0m7i"
     },
     {
       "album": {
@@ -18670,7 +18864,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 213977,
       "name": "Too Bright",
       "url": "https://open.spotify.com/track/3nP5ePIrZh1AUQ1mj6Thxd"
@@ -19860,6 +20054,36 @@
       "duration_ms": 114285,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/0s7OB8XUR78pGZWNFA5e3p"
+    },
+    {
+      "album": {
+        "name": "TOOLS 4 HARDWORKERS 007",
+        "url": "https://open.spotify.com/album/1WdH5QGXvlpicAu6aVd1cI"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        },
+        {
+          "name": "Rising Dust",
+          "url": "https://open.spotify.com/artist/5ljIs5Y5MfXRmhB97gQpq0"
+        },
+        {
+          "name": "Coexist",
+          "url": "https://open.spotify.com/artist/7I08DUDSBedSy10Pctjpjf"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229311,
+      "name": "We Come In Peace",
+      "url": "https://open.spotify.com/track/0IaISsXYU338WOnMZozMKw"
     },
     {
       "album": {

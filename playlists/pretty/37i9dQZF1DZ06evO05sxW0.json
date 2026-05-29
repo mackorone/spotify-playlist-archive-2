@@ -1,12 +1,12 @@
 {
   "description": "This is Bikini Kill. The essential tracks, all in one playlist.",
-  "num_followers": 8915,
+  "num_followers": 8922,
   "original_name": "This Is Bikini Kill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahTigAAAAAAtTw+5q4bxsU7eygfetEab",
+  "snapshot_id": "ahY0AAAAAAAbTIITUnPJAVAk6pr6lr0m",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Two Records",
-        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
+        "name": "Reject All American",
+        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 148315,
-      "name": "Outta Me",
-      "url": "https://open.spotify.com/track/1lcJw1PxcJx8v0gXkD64uO"
+      "duration_ms": 71800,
+      "name": "Statement of Vindication",
+      "url": "https://open.spotify.com/track/5shgITNppeaNvC8y4226z5"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reject All American",
-        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
+        "name": "The First Two Records",
+        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 71800,
-      "name": "Statement of Vindication",
-      "url": "https://open.spotify.com/track/5shgITNppeaNvC8y4226z5"
+      "duration_ms": 148315,
+      "name": "Outta Me",
+      "url": "https://open.spotify.com/track/1lcJw1PxcJx8v0gXkD64uO"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First Two Records",
-        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
+        "name": "Reject All American",
+        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 87544,
-      "name": "Don't Need You",
-      "url": "https://open.spotify.com/track/3RVxsu0EDweX6ffTLDy9WP"
+      "duration_ms": 85826,
+      "name": "Bloody Ice Cream",
+      "url": "https://open.spotify.com/track/7oFIVslwckI6BcJ0TQwl5D"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reject All American",
-        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
+        "name": "The First Two Records",
+        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 217226,
-      "name": "R.I.P.",
-      "url": "https://open.spotify.com/track/1Elf4v0lR2RTR0jyHBhjVQ"
+      "duration_ms": 87544,
+      "name": "Don't Need You",
+      "url": "https://open.spotify.com/track/3RVxsu0EDweX6ffTLDy9WP"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
       "duration_ms": 93533,
       "name": "Star Bellied Boy",
       "url": "https://open.spotify.com/track/3btz8qzIt3dbNFhEsTdFwv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reject All American",
+        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 217226,
+      "name": "R.I.P.",
+      "url": "https://open.spotify.com/track/1Elf4v0lR2RTR0jyHBhjVQ"
     },
     {
       "added_at": null,
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 85826,
-      "name": "Bloody Ice Cream",
-      "url": "https://open.spotify.com/track/7oFIVslwckI6BcJ0TQwl5D"
+      "duration_ms": 154173,
+      "name": "Jet Ski",
+      "url": "https://open.spotify.com/track/1nIAfunQnMb64VPivMjstf"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
       "duration_ms": 148760,
       "name": "Daddy's L'il Girl",
       "url": "https://open.spotify.com/track/3QJPGtdJgiHgoC2wZBpgRh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reject All American",
-        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 154173,
-      "name": "Jet Ski",
-      "url": "https://open.spotify.com/track/1nIAfunQnMb64VPivMjstf"
     },
     {
       "added_at": null,

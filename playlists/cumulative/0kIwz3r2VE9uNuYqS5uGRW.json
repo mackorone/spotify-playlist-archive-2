@@ -1595,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "I Never Had Your Heart",
+        "url": "https://open.spotify.com/album/1umyxrbkkLP5KwrOAXBhPv"
+      },
+      "artists": [
+        {
+          "name": "Hirata",
+          "url": "https://open.spotify.com/artist/2GIH5f71V3vZ7gt0ctGzqV"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149092,
+      "name": "I Never Had Your Heart",
+      "url": "https://open.spotify.com/track/4JsUCRW9wuWy9PoyqX2BH1"
+    },
+    {
+      "album": {
         "name": "I Should Go",
         "url": "https://open.spotify.com/album/3Hj1AQjtOfcGiNJuIit0oJ"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion & good vibes! Cover: 3robi, Mensa, Frsh & SRNO",
+  "description": "Motion & good vibes! Cover: Idaly, Ronnie Flex & Frenna",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -2552,6 +2552,28 @@
       "duration_ms": 145457,
       "name": "Bad",
       "url": "https://open.spotify.com/track/6MyNYnAbkeVurcOs966gBc"
+    },
+    {
+      "album": {
+        "name": "Bad & Boujee",
+        "url": "https://open.spotify.com/album/2jzkRWWENexMHzlgBvaxjh"
+      },
+      "artists": [
+        {
+          "name": "2mochh",
+          "url": "https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk"
+        },
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Bad & Boujee",
+      "url": "https://open.spotify.com/track/2AKNB82hyp5kCrSiv2kIx0"
     },
     {
       "album": {
@@ -9589,6 +9611,28 @@
     },
     {
       "album": {
+        "name": "Ding Dong",
+        "url": "https://open.spotify.com/album/3HftaJ6nzW9dtwYFzefPGt"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Dj Dav'",
+          "url": "https://open.spotify.com/artist/6JpnYBD3c3RI12h1vYsKBC"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83076,
+      "name": "Ding Dong",
+      "url": "https://open.spotify.com/track/5MdIqWMtpLGRweJslu6AYA"
+    },
+    {
+      "album": {
         "name": "DINGDONG",
         "url": "https://open.spotify.com/album/4hMKGx2GmVJv5XIGoH1OUM"
       },
@@ -10536,7 +10580,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 164336,
       "name": "Drugsprobleem",
       "url": "https://open.spotify.com/track/7ti3nQsrUICVd2B9z6EsV1"
@@ -14714,7 +14758,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 162666,
       "name": "Helaas",
       "url": "https://open.spotify.com/track/0JzULZMvwyf00IMQmGFoS5"
@@ -15340,7 +15384,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 188190,
       "name": "Hou Me Vast",
       "url": "https://open.spotify.com/track/75KqAhAByxO7EHFF76Tj0J"
@@ -20862,7 +20906,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 123822,
       "name": "Ma Cherie",
       "url": "https://open.spotify.com/track/7z1jj5ssf9jNpbQoK6XX4R"
@@ -26872,7 +26916,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 144000,
       "name": "Patser",
       "url": "https://open.spotify.com/track/0zTKvfSa0CLzav90AfZvQa"
@@ -27379,6 +27423,24 @@
     },
     {
       "album": {
+        "name": "L'undertaker Part.1",
+        "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
+    },
+    {
+      "album": {
         "name": "Ping Pong",
         "url": "https://open.spotify.com/album/7HfVLB0nKCC7HNVNGtbdSQ"
       },
@@ -27820,6 +27882,32 @@
       "duration_ms": 138240,
       "name": "POP",
       "url": "https://open.spotify.com/track/0h7FdV6gGhJYSzzjVweyi6"
+    },
+    {
+      "album": {
+        "name": "POPULAIR",
+        "url": "https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "POPULAIR",
+      "url": "https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f"
     },
     {
       "album": {
@@ -32506,7 +32594,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 185675,
       "name": "Tajine",
       "url": "https://open.spotify.com/track/0l6jdn1FFKPLVVhOhPpGBi"
@@ -35889,6 +35977,28 @@
     },
     {
       "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/3IJUpcdlo1hZzkj6V5PKQn"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Antaeus",
+          "url": "https://open.spotify.com/artist/12Y5bYSO6NGz0KRKsKZG3t"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178599,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/7FLZXgVjtFcHxRYeZVymEO"
+    },
+    {
+      "album": {
         "name": "Volg Jou",
         "url": "https://open.spotify.com/album/6xjlFTuuOurOT3SjOikP3J"
       },
@@ -36862,6 +36972,28 @@
       "duration_ms": 132478,
       "name": "We Moeten Door",
       "url": "https://open.spotify.com/track/3LsdhPYQqoAbuDo2sEAzGz"
+    },
+    {
+      "album": {
+        "name": "We're All Gonna Make It",
+        "url": "https://open.spotify.com/album/6OnEoDfgOzhMpEdRnB3xH2"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "We're All Gonna Make It",
+      "url": "https://open.spotify.com/track/6GOnCxpphk2nvN7BwaThfL"
     },
     {
       "album": {

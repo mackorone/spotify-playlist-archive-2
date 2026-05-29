@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 32643,
+  "num_followers": 32650,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Bafaker Kteer",
-        "url": "https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi"
-      },
-      "artists": [
-        {
-          "name": "Reina Khoury",
-          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
-        }
-      ],
-      "duration_ms": 200337,
-      "name": "Bafaker Kteer",
-      "url": "https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Nasheed Al Abtal",
         "url": "https://open.spotify.com/album/1h6ZfXJnDh0Vvlrv7mj7yh"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 187643,
       "name": "Nasheed Al Abtal",
       "url": "https://open.spotify.com/track/0NWhRdPRI06ABKoOeRSgrb"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Bafaker Kteer",
+        "url": "https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi"
+      },
+      "artists": [
+        {
+          "name": "Reina Khoury",
+          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
+        }
+      ],
+      "duration_ms": 200337,
+      "name": "Bafaker Kteer",
+      "url": "https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD"
     },
     {
       "added_at": "2024-12-21 19:38:19",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-12-21 19:38:19",
       "album": {
-        "name": "Awlaweeti",
-        "url": "https://open.spotify.com/album/3a2OXlPWjiG2nlTMtgrMrT"
-      },
-      "artists": [
-        {
-          "name": "Reina Khoury",
-          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
-        }
-      ],
-      "duration_ms": 218677,
-      "name": "Awlaweeti",
-      "url": "https://open.spotify.com/track/0BjeDBqH1MeHMqYUWjCqGe"
-    },
-    {
-      "added_at": "2024-12-21 19:38:19",
-      "album": {
         "name": "Aziz Maraka",
         "url": "https://open.spotify.com/album/5FCww0KdMiP4lKUzm4wEXY"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 247041,
       "name": "Ya Bay",
       "url": "https://open.spotify.com/track/25dpNlHr9GTVBvIcUr9cWu"
+    },
+    {
+      "added_at": "2024-12-21 19:38:19",
+      "album": {
+        "name": "Awlaweeti",
+        "url": "https://open.spotify.com/album/3a2OXlPWjiG2nlTMtgrMrT"
+      },
+      "artists": [
+        {
+          "name": "Reina Khoury",
+          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
+        }
+      ],
+      "duration_ms": 218677,
+      "name": "Awlaweeti",
+      "url": "https://open.spotify.com/track/0BjeDBqH1MeHMqYUWjCqGe"
     },
     {
       "added_at": "2024-12-21 19:38:19",

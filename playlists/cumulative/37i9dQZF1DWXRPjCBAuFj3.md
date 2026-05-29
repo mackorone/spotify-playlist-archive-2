@@ -2,7 +2,7 @@
 
 ### [Tendenze Rap 2026](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> Brani virali e trend, rap e urban 📈  Drake in cover
+> Brani virali e trend, rap e urban 📈  Artie 5ive in cover
 
 1,041 songs - 2 day 5 hr 38 min
 

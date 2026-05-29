@@ -1275,6 +1275,28 @@
     },
     {
       "album": {
+        "name": "Daman Lagiyan",
+        "url": "https://open.spotify.com/album/4pcLVMjiU84Dceb6wE4Qwa"
+      },
+      "artists": [
+        {
+          "name": "SpringTimeLioness",
+          "url": "https://open.spotify.com/artist/5H0dOkeN4aibbTnkZkHY2B"
+        },
+        {
+          "name": "Schumaila Rehmat Hussain",
+          "url": "https://open.spotify.com/artist/702rZ76lltv1734oPO3Si8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222203,
+      "name": "Daman Lagiyan",
+      "url": "https://open.spotify.com/track/2uWyqK8pjaVMqXMjR4HUMr"
+    },
+    {
+      "album": {
         "name": "Dil",
         "url": "https://open.spotify.com/album/6p8nXdpQGXG3KLzQpm8pK5"
       },
@@ -2218,6 +2240,28 @@
       "duration_ms": 480304,
       "name": "Kinna Sohna Tainu",
       "url": "https://open.spotify.com/track/377rdybAWhu2uj7bNVHvLs"
+    },
+    {
+      "album": {
+        "name": "Koi Achi Khabar",
+        "url": "https://open.spotify.com/album/31vDQhzEaHpugJ7tayZbiQ"
+      },
+      "artists": [
+        {
+          "name": "Humnava",
+          "url": "https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI"
+        },
+        {
+          "name": "Faheem uddin hunzai",
+          "url": "https://open.spotify.com/artist/31bt09yIuNKHYx3rpspuRB"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 607236,
+      "name": "Koi Achi Khabar",
+      "url": "https://open.spotify.com/track/70XZSAiqgFv44DgphHIwIM"
     },
     {
       "album": {

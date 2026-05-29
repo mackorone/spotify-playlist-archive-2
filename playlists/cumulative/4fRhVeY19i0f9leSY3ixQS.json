@@ -2205,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "Shapes Of The Gloom",
+        "url": "https://open.spotify.com/album/5ifTQ8XktSfaReA6cHjg4P"
+      },
+      "artists": [
+        {
+          "name": "Blue Remains",
+          "url": "https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204972,
+      "name": "Beyond The Light",
+      "url": "https://open.spotify.com/track/26vrsbBRCrnRoln8sZZtaN"
+    },
+    {
+      "album": {
         "name": "Big Balls",
         "url": "https://open.spotify.com/album/56yG8gjTEmoOqYEcksfv62"
       },
@@ -4884,7 +4902,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 84000,
       "name": "Country Star",
       "url": "https://open.spotify.com/track/1dR2pQ9BKMTzSGlThqVVfU"
@@ -6773,6 +6791,24 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Be Me",
+        "url": "https://open.spotify.com/album/7Ly8Y2sybzHAf4Cqt7yUeP"
+      },
+      "artists": [
+        {
+          "name": "What Did You Expect?",
+          "url": "https://open.spotify.com/artist/1zOBosfEV4TPD89YHBKpFd"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141160,
+      "name": "Don't Wanna Be Me",
+      "url": "https://open.spotify.com/track/09V6l1MHQIqEgMWSOOT4j4"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Let Your Boyfriends Go to Europe / America",
         "url": "https://open.spotify.com/album/4P8bLnks0P5Ca7evdu1YG8"
       },
@@ -8556,6 +8592,28 @@
       "duration_ms": 199000,
       "name": "Flam Rest",
       "url": "https://open.spotify.com/track/04JOLBR8LDgukIWfY2g2q7"
+    },
+    {
+      "album": {
+        "name": "Flashburn",
+        "url": "https://open.spotify.com/album/7Cy57RvR3UDBEJxbrHswRr"
+      },
+      "artists": [
+        {
+          "name": "ONE CHiN",
+          "url": "https://open.spotify.com/artist/5BLizIyjvtjNrRTOIolFYq"
+        },
+        {
+          "name": "Jacob Lauing",
+          "url": "https://open.spotify.com/artist/7C0YvaGHaso7AKjdfM2YSV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173283,
+      "name": "Flashburn",
+      "url": "https://open.spotify.com/track/34KwQboaq5JWZvHCuK1vSJ"
     },
     {
       "album": {
@@ -13124,7 +13182,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 113877,
       "name": "Key Party",
       "url": "https://open.spotify.com/track/2CsR8tQz9Q5h8ZwonYOumE"
@@ -23880,7 +23938,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 195687,
       "name": "Thanks, No Thanks",
       "url": "https://open.spotify.com/track/3r4fD8lzm7neojLh9ApuDV"
@@ -24480,6 +24538,24 @@
       "duration_ms": 254137,
       "name": "The Knife",
       "url": "https://open.spotify.com/track/1cbB3p9Z3Dhch9PDtReYyu"
+    },
+    {
+      "album": {
+        "name": "LONG WAY",
+        "url": "https://open.spotify.com/album/7uzLn5WRyAa5Ac5qhJgEKC"
+      },
+      "artists": [
+        {
+          "name": "FACEVOLT",
+          "url": "https://open.spotify.com/artist/6pIqGqpnJZlIGDzwTsv9WH"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266399,
+      "name": "The Last Frequency",
+      "url": "https://open.spotify.com/track/1vPf1NmZiKXBUMWhfc9fCL"
     },
     {
       "album": {
@@ -25428,7 +25504,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 179750,
       "name": "TIED UP",
       "url": "https://open.spotify.com/track/3tggEoSWUYosNCUFeLkGNX"

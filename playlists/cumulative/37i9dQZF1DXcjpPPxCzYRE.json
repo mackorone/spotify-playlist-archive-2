@@ -1909,6 +1909,52 @@
     },
     {
       "album": {
+        "name": "Barco Fantasma",
+        "url": "https://open.spotify.com/album/3Zf2SAk5W1TJgiq7BSUDTJ"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9boa",
+          "url": "https://open.spotify.com/artist/1w6hzUtZfQobZi2NTwAJe8"
+        },
+        {
+          "name": "Barco Fantasma",
+          "url": "https://open.spotify.com/artist/2AAjKv59Nt4puLTqpOn9rr"
+        },
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        },
+        {
+          "name": "Ant\u00eda Ameixeiras",
+          "url": "https://open.spotify.com/artist/20l9cWx7i3D25HB47521qh"
+        },
+        {
+          "name": "Femme Falafel",
+          "url": "https://open.spotify.com/artist/3nIaYArAYnl6JHORKJmrjS"
+        },
+        {
+          "name": "jo~ao",
+          "url": "https://open.spotify.com/artist/0k5uZT883OszC0rHiGq2If"
+        },
+        {
+          "name": "Mondra",
+          "url": "https://open.spotify.com/artist/7hETI0LkHsxAb0Mil6OCWx"
+        },
+        {
+          "name": "Miguel Arribas",
+          "url": "https://open.spotify.com/artist/70wL69BuyLAC07IM8GuaxE"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "Coidar doutras colmeas",
+      "url": "https://open.spotify.com/track/3bEXHiZLhoQSYrAUyv6uV3"
+    },
+    {
+      "album": {
         "name": "Cold Little Heart (Radio Edit)",
         "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
       },
@@ -2238,7 +2284,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 147001,
       "name": "DESAYUNO",
       "url": "https://open.spotify.com/track/0HzR43DWFYrLKz4TZRhOgE"
@@ -2422,7 +2468,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 156629,
       "name": "D\u00faas lontras",
       "url": "https://open.spotify.com/track/6KDvcwRVwACBLOLlaqDFzo"
@@ -2626,6 +2672,24 @@
       "duration_ms": 243020,
       "name": "El Noi de la Mare",
       "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
+    },
+    {
+      "album": {
+        "name": "El Roce",
+        "url": "https://open.spotify.com/album/6PUTzbFNdAJmSPiJ1DpA5h"
+      },
+      "artists": [
+        {
+          "name": "Single",
+          "url": "https://open.spotify.com/artist/3ytMiTBG7TnAOsA3Ql7eAs"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222322,
+      "name": "El Roce",
+      "url": "https://open.spotify.com/track/0j2YAEROUamZCofXBUbvKp"
     },
     {
       "album": {
@@ -4162,7 +4226,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 180808,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
@@ -4694,6 +4758,28 @@
       "duration_ms": 328960,
       "name": "La jugada maestra",
       "url": "https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A"
+    },
+    {
+      "album": {
+        "name": "la misma piedra",
+        "url": "https://open.spotify.com/album/73qUgyM2oEivK7vZzwOBYE"
+      },
+      "artists": [
+        {
+          "name": "Ton Felices",
+          "url": "https://open.spotify.com/artist/6grJmsi4w2KCWnI3vY2dQ4"
+        },
+        {
+          "name": "Rita Pay\u00e9s",
+          "url": "https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216996,
+      "name": "la misma piedra",
+      "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
     },
     {
       "album": {
@@ -6396,7 +6482,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 176517,
       "name": "No volver\u00e1n",
       "url": "https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h"
@@ -8142,7 +8228,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 184624,
       "name": "Sobre tu ventana",
       "url": "https://open.spotify.com/track/1JtwJSA3g5fNAdpgoz269g"
@@ -9169,6 +9255,24 @@
     },
     {
       "album": {
+        "name": "Serial Romantic",
+        "url": "https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp"
+      },
+      "artists": [
+        {
+          "name": "Jai'Len Josey",
+          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249002,
+      "name": "Truce",
+      "url": "https://open.spotify.com/track/0DUW0A9xuu1yKCaXCQVPSw"
+    },
+    {
+      "album": {
         "name": "True Colours",
         "url": "https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX"
       },
@@ -10068,7 +10172,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 226333,
       "name": "\u00c1rboles",
       "url": "https://open.spotify.com/track/7ifZcrE6kGBTXOT4ypxqqS"

@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Quintino
 
-696 songs - 1 day 11 hr 14 min
+697 songs - 1 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Fast Moving](https://open.spotify.com/track/2lMCEetyocuK0NW4hwReV6) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Fast Moving](https://open.spotify.com/album/1u8jK15gShKb6U5oEJO2b9) | 4:21 | 2024-12-20 | 2025-06-21 |
 | [Favela](https://open.spotify.com/track/15il8Mg8sAiy7eqISGoJK6) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Favela](https://open.spotify.com/album/0AMYBABg2SQ8hWDys7rIJq) | 3:15 | 2026-04-09 |  |
 | [Feedback \- 3 Are Legend & Stephen Hurtley Remix](https://open.spotify.com/track/1lkF98jQYMcnk7PRbn7jOp) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Autoerotique](https://open.spotify.com/artist/3SvCpwSeoWCcjfo8zjPZKB), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Stephen Hurtley](https://open.spotify.com/artist/1Sgx7PJConAh9YpghCxmy2) | [Feedback \(10 Year Anniversary Remixes\)](https://open.spotify.com/album/3O2qlWVfSPtoG9tM9nDpD6) | 2:26 | 2024-12-20 | 2025-07-04 |
-| [Feel It](https://open.spotify.com/track/4Ui2jRHUtJqJ7DYu0Uj7dm) | [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ) | [Feel It](https://open.spotify.com/album/0pnOnSFqxnSmPWHgZiG8Ci) | 3:13 | 2026-04-02 |  |
+| [Feel It](https://open.spotify.com/track/4Ui2jRHUtJqJ7DYu0Uj7dm) | [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ) | [Feel It](https://open.spotify.com/album/0pnOnSFqxnSmPWHgZiG8Ci) | 3:13 | 2026-04-02 | 2026-05-29 |
 | [Feel Me Baby](https://open.spotify.com/track/0Mr35ce7VqaDXNqKQZg2KS) | [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ), [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX) | [Feel Me Baby](https://open.spotify.com/album/3WVEcj1a9hXD7uHPSmZgni) | 2:40 | 2024-12-03 | 2025-09-11 |
 | [Feel My Love \(feat\. Joe Taylor\) \- Festival Mix](https://open.spotify.com/track/7kB4ZalpJf99nZgftlV73E) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Joe Taylor](https://open.spotify.com/artist/5SVWcqMyPHjP4Fnp33LlJB) | [Feel My Love \(feat\. Joe Taylor\) \[Festival Mix\]](https://open.spotify.com/album/4k5O3Q13AoUSvJZymOtuk1) | 3:06 | 2022-07-28 | 2023-04-23 |
 | [Feel The Fire](https://open.spotify.com/track/1I0kqV3pIgRsiGp6dzgU1a) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Richie Loop](https://open.spotify.com/artist/0fwGtEcJ4v3H0btcbM0KWc) | [Feel The Fire](https://open.spotify.com/album/3ZcDLMFFOfhextDOboIB0j) | 3:04 | 2022-04-14 | 2022-07-30 |
@@ -280,6 +280,7 @@
 | [Hypnotise](https://open.spotify.com/track/6EZz5l9orMw7FJdLzw73to) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Enveak](https://open.spotify.com/artist/3CzQUOQ8Adb258xxKHHngS), [SURAYA](https://open.spotify.com/artist/19IffvUJTt3a7c1vPXENF3), [SHOWTEKNO](https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD) | [Hypnotise](https://open.spotify.com/album/05eqUNKxERcApF85qG9BkZ) | 2:53 | 2026-03-07 |  |
 | [Hypnotising](https://open.spotify.com/track/3dMeC0ZvUkklhOHIEzQcfH) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Hypnotising](https://open.spotify.com/album/1Tr0AxBFOfcfvYTFAn9vHC) | 2:42 | 2025-03-06 | 2026-04-08 |
 | [HYPOMANIA](https://open.spotify.com/track/4rVmpjKfDSahUHEp97K34S) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [HYPOMANIA](https://open.spotify.com/album/46vJOsJ5TqIX9SQTU7lMOh) | 3:17 | 2024-11-06 | 2025-07-04 |
+| [I Can See It](https://open.spotify.com/track/1TCMIkuXpCSu2uDdGDF12o) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [I Can See It](https://open.spotify.com/album/0JqqBPdvtxHWYGMdJ0vKnm) | 2:52 | 2026-05-26 |  |
 | [I Don't Wanna Know](https://open.spotify.com/track/77oD6k2q00vr5oJUcn7xbl) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [I Don't Wanna Know](https://open.spotify.com/album/5ZojN7FtyFSGuNhTamRzOw) | 2:38 | 2022-04-14 | 2022-06-03 |
 | [I FEEL LIKE DANCING](https://open.spotify.com/track/651YhrvzeVfOa8yIifIhUM) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [I FEEL LIKE DANCING](https://open.spotify.com/album/0qoQyU6bl0V7EeRaSscyZi) | 3:45 | 2022-08-18 | 2023-03-03 |
 | [I LIKE IT!](https://open.spotify.com/track/35CYutcUenbFfg5UOGbWrT) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Salvyan](https://open.spotify.com/artist/0ueKhy5Vj2mxumUXB41yMf) | [I LIKE IT!](https://open.spotify.com/album/6CMF8MoL1KSMZO5L45u9Nt) | 2:21 | 2026-04-02 |  |

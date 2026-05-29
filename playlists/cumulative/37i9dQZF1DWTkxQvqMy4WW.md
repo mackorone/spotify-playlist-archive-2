@@ -4,7 +4,7 @@
 
 > Country music to get you back to the basics.
 
-479 songs - 1 day 3 hr 23 min
+480 songs - 1 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [Somebody Like That](https://open.spotify.com/track/62SvLj5dBDI9Ee3eBA0BxL) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Love, Heartbreak, & Everything in Between](https://open.spotify.com/album/6Jetxgkv7jYVQJhyOBqAPa) | 3:18 | 2021-06-13 |  |
 | [Somebody Like You](https://open.spotify.com/track/0qup7d7G2WffwARHKrqT2x) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 5:23 | 2019-06-26 | 2022-07-29 |
 | [Somebody to Thank](https://open.spotify.com/track/5fKbYBhU4iTm81YTqpYa0t) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Come Back Road](https://open.spotify.com/album/1xCo4ulACLVZ6lbYaQKQEL) | 3:31 | 2019-06-22 | 2022-04-18 |
-| [Somethin' 'Bout A Truck](https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:33 | 2021-07-25 |  |
+| [Somethin' 'Bout A Truck](https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Up All Night](https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu) | 3:33 | 2021-07-25 | 2026-05-29 |
 | [Somethin' I'm Good At](https://open.spotify.com/track/6DRsEO5yuEGBF87qpyMB4d) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Brett Eldredge](https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo) | 3:37 | 2021-10-12 | 2022-04-19 |
 | [Something 'Bout You](https://open.spotify.com/track/2VdKelTyQHxQKyeTbimoHS) | [Sir Rosevelt](https://open.spotify.com/artist/36jGtr6jwJ2D7RVJBTRpsc) | [Sir Rosevelt](https://open.spotify.com/album/04qg9UzQONJod7bGdOIPOj) | 2:40 | 2019-05-25\* | 2022-04-21 |
 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 | 2023-05-18 |  |
@@ -465,6 +465,7 @@
 | [Wind Up Missin' You](https://open.spotify.com/track/5JRYVSZ6K2jY0kznYBmoqr) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wind Up Missin' You](https://open.spotify.com/album/0UJSnnd3F5EVQqfHADZ2MG) | 2:46 | 2024-05-06 | 2024-07-13 |
 | [With You I Am](https://open.spotify.com/track/34SQ0QfLSR316d8KL2zkuZ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Gotta Be Me](https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD) | 3:40 | 2019-06-21 | 2024-08-10 |
 | [Woke Up in Nashville](https://open.spotify.com/track/6zdO7yfGMdFzEaSYDaZgNf) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2) | [Mabelle \- EP](https://open.spotify.com/album/5Oit2yRIGTqTegzWYjPl5j) | 2:52 | 2019-06-23 | 2022-04-18 |
+| [Woman](https://open.spotify.com/track/7lJv6f6HBpUoLBnM0RxuKB) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Woman](https://open.spotify.com/album/2thPfbnjMxEs3RwK1LRL2C) | 2:46 | 2026-05-26 |  |
 | [Woman, Amen](https://open.spotify.com/track/3nBXOlFTADNvG9nkqy2O2W) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 2:59 | 2019-05-25\* | 2021-06-12 |
 | [Workin' on](https://open.spotify.com/track/5kSPD3rOo2hGYVwheIxpv8) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Thanks for Listening](https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY) | 3:44 | 2019-06-21 | 2019-06-27 |
 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 | 2024-02-16 |  |

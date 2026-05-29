@@ -4,7 +4,7 @@
 
 > This is Christina Vantzou\. The essential tracks, all in one playlist.
 
-86 songs - 6 hr 1 min
+87 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [No.4 String Quartet](https://open.spotify.com/track/5KFpygqUHmLxNiJsQPAsPk) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [No\. 4](https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe) | 3:19 | 2026-03-27 |  |
 | [Open Delay](https://open.spotify.com/track/0Iu4duedkuEJYAfsH63HQ2) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Michael Harrison](https://open.spotify.com/artist/09b9oXw3X9LhhKA8GJsMDT), [John Also Bennett](https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk) | [Christina Vantzou, Michael Harrison and John Also Bennett](https://open.spotify.com/album/1gGeFnXsboBj17KDg0Iqfi) | 6:20 | 2026-03-27 |  |
 | [Open Delay 2](https://open.spotify.com/track/6VL7F18Tmg2VNPXFnjpGf6) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Michael Harrison](https://open.spotify.com/artist/09b9oXw3X9LhhKA8GJsMDT), [John Also Bennett](https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk) | [Christina Vantzou, Michael Harrison and John Also Bennett](https://open.spotify.com/album/1gGeFnXsboBj17KDg0Iqfi) | 3:25 | 2026-03-27 |  |
-| [Percussion in Nonspace](https://open.spotify.com/track/3zSk7VaJAbu4q1L4c083mx) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 4](https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe) | 1:38 | 2026-03-27 |  |
+| [Percussion in Nonspace](https://open.spotify.com/track/3zSk7VaJAbu4q1L4c083mx) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 4](https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe) | 1:38 | 2026-03-27 | 2026-05-29 |
 | [Phantom Tunnel](https://open.spotify.com/track/1FqbE6urIwPZycA7X7X1hL) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [John Also Bennett](https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk) | [Landscape Architecture](https://open.spotify.com/album/4Efmy1cGT5PcyZY3dvHMRf) | 5:38 | 2026-04-11 | 2026-04-12 |
 | [Piano on Tape](https://open.spotify.com/track/5KjMDOzck3awFToS8R8IUc) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Michael Harrison](https://open.spotify.com/artist/09b9oXw3X9LhhKA8GJsMDT), [John Also Bennett](https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk) | [Christina Vantzou, Michael Harrison and John Also Bennett](https://open.spotify.com/album/1gGeFnXsboBj17KDg0Iqfi) | 3:41 | 2026-03-27 |  |
 | [Pillar 3](https://open.spotify.com/track/0wxxcLgZtAFaJP5ClM3s91) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 3](https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia) | 7:48 | 2026-05-22 | 2026-05-28 |
@@ -75,6 +75,7 @@
 | [Small Choir](https://open.spotify.com/track/3NHVzKfiThQeeyG395TNFA) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 1](https://open.spotify.com/album/3FpVOIZe9mD17Uti0CzXsD) | 3:42 | 2026-03-27 |  |
 | [Snow White](https://open.spotify.com/track/14RJkqBkYRAvap3W20hMcj) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Multi Natural](https://open.spotify.com/album/1TJEW0pNgHyAC2oacwNnoh) | 3:02 | 2026-03-28 | 2026-05-28 |
 | [Some Limited and Waning Memory](https://open.spotify.com/track/2t3riouUalP5SEYXPGrQ9D) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [No\. 4](https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe) | 5:26 | 2026-03-27 |  |
+| [Staircases](https://open.spotify.com/track/1nyrOETmu8VBvlc01RQTgg) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [No\. 4](https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe) | 4:07 | 2026-05-29 |  |
 | [Stereoscope](https://open.spotify.com/track/1ifIv7jR7u3K3uFGDerZ2O) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 3](https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia) | 6:53 | 2026-03-27 |  |
 | [Stone Circle](https://open.spotify.com/track/7oas434Thufpvr27XxJUCD) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [John Also Bennett](https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk) | [Landscape Architecture](https://open.spotify.com/album/4Efmy1cGT5PcyZY3dvHMRf) | 4:28 | 2026-03-27 |  |
 | [Strange Symptoms](https://open.spotify.com/track/6ozOxS87YQPBgxOGcwl3Kn) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [No\. 2](https://open.spotify.com/album/6h5IpBvXZevQ0OWjEfVLby) | 1:17 | 2026-03-27 |  |

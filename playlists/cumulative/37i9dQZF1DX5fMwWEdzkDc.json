@@ -882,7 +882,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 228960,
       "name": "Hug",
       "url": "https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc"
@@ -2380,6 +2380,24 @@
       "duration_ms": 212960,
       "name": "Valenti",
       "url": "https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa"
+    },
+    {
+      "album": {
+        "name": "Want to fall in love",
+        "url": "https://open.spotify.com/album/4AJjXoKd9JVW1MI14Qulj0"
+      },
+      "artists": [
+        {
+          "name": "Johan Kim",
+          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "Want to fall in love",
+      "url": "https://open.spotify.com/track/0JrxJyLzc4dRNHE1Kcyycm"
     },
     {
       "album": {

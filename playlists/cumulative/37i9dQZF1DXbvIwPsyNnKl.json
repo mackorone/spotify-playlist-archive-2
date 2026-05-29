@@ -565,6 +565,24 @@
     },
     {
       "album": {
+        "name": "Ako Naman",
+        "url": "https://open.spotify.com/album/2uygPKZ6FzyObA0h3XSgss"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Ako Naman",
+      "url": "https://open.spotify.com/track/6DKHgB1AZH96TzSaLg2Wjb"
+    },
+    {
+      "album": {
         "name": "AKO PA BA O HINDI?",
         "url": "https://open.spotify.com/album/0A5sHqOrjW2iSsseqZKtBJ"
       },
@@ -1883,6 +1901,32 @@
     },
     {
       "album": {
+        "name": "Depende",
+        "url": "https://open.spotify.com/album/7cIX8Xu7U062ZRYLb3qEL1"
+      },
+      "artists": [
+        {
+          "name": "Kiervy",
+          "url": "https://open.spotify.com/artist/4XKd64nj9QAK4OfyhLgbTl"
+        },
+        {
+          "name": "Ram Millr",
+          "url": "https://open.spotify.com/artist/6tbDwyyKJSKhpNpmRfpbiX"
+        },
+        {
+          "name": "iHATEMONDAYS",
+          "url": "https://open.spotify.com/artist/09pellVEfvf6ifLsjSDmLP"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Depende",
+      "url": "https://open.spotify.com/track/1sMuds6T60xhLtmdKikp6Z"
+    },
+    {
+      "album": {
         "name": "Di kita trip",
         "url": "https://open.spotify.com/album/3iYWYMFX37PfR3w4n1Z3fa"
       },
@@ -1942,6 +1986,24 @@
       "duration_ms": 146166,
       "name": "Di man lagi",
       "url": "https://open.spotify.com/track/6GjNUBBNKxrgwVnRJCt4wa"
+    },
+    {
+      "album": {
+        "name": "Di Pa Yan Huli",
+        "url": "https://open.spotify.com/album/2euy1T1XyDOH2XutLRorHY"
+      },
+      "artists": [
+        {
+          "name": "Guddhist Gunatita",
+          "url": "https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214883,
+      "name": "Di Pa Yan Huli",
+      "url": "https://open.spotify.com/track/7KW3vvnOans1lr9Pget1sN"
     },
     {
       "album": {
@@ -2030,7 +2092,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 227619,
       "name": "Dominga",
       "url": "https://open.spotify.com/track/4Nyyfm1HlgI2QsaKfuu6Ol"
@@ -2170,6 +2232,24 @@
       "duration_ms": 156054,
       "name": "Down Timez",
       "url": "https://open.spotify.com/track/1HjMv8tZKSkKi1wPlKPIpk"
+    },
+    {
+      "album": {
+        "name": "Driftstar",
+        "url": "https://open.spotify.com/album/0i4ZN9hKhb9sSM9ovAoZG4"
+      },
+      "artists": [
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171868,
+      "name": "Driftstar",
+      "url": "https://open.spotify.com/track/4FuM2scDnJbWn6Az9UQ6aD"
     },
     {
       "album": {
@@ -2356,7 +2436,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 273361,
       "name": "Eyes Can't Lie",
       "url": "https://open.spotify.com/track/2DDIub6xJaks22EFdK2oRm"
@@ -3594,7 +3674,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 247000,
       "name": "Ipagdadamot Kita",
       "url": "https://open.spotify.com/track/4F1lbAADITrGQaHh0F6g58"
@@ -5508,7 +5588,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 155372,
       "name": "No Baby",
       "url": "https://open.spotify.com/track/7oTK88N1QOlTsg6GrU1adn"
@@ -5852,7 +5932,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 241237,
       "name": "Palaisipan",
       "url": "https://open.spotify.com/track/5Qsa2a1GStao34PdmEJUN2"
@@ -6834,6 +6914,24 @@
       "duration_ms": 249350,
       "name": "Sagana o Salat",
       "url": "https://open.spotify.com/track/4aXOIE1x8ZjHuiA1g6dTyz"
+    },
+    {
+      "album": {
+        "name": "Saglit",
+        "url": "https://open.spotify.com/album/5hVEg9JvcW016YKvi6DClp"
+      },
+      "artists": [
+        {
+          "name": "kiddotin",
+          "url": "https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186211,
+      "name": "Saglit",
+      "url": "https://open.spotify.com/track/1St01QnpQ0VLiOCSnE2eta"
     },
     {
       "album": {
@@ -8392,7 +8490,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 172000,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/0LSDw7bgsGuvLeKruA0mfS"

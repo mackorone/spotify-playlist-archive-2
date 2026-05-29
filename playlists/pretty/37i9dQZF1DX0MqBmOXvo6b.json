@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 435627,
+  "num_followers": 435653,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
-        "name": "Lonely Lights",
-        "url": "https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU"
-      },
-      "artists": [
-        {
-          "name": "Into the Harmonies",
-          "url": "https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "Lonely Lights",
-      "url": "https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw"
-    },
-    {
-      "added_at": "2026-05-08 04:00:50",
-      "album": {
         "name": "My love",
         "url": "https://open.spotify.com/album/2Z9vPeJtT5Y9S0iNoytxMC"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 170826,
       "name": "My love",
       "url": "https://open.spotify.com/track/0BsgEGGkpLtMnbp8z0LnRF"
+    },
+    {
+      "added_at": "2026-05-08 04:00:50",
+      "album": {
+        "name": "Lonely Lights",
+        "url": "https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU"
+      },
+      "artists": [
+        {
+          "name": "Into the Harmonies",
+          "url": "https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "Lonely Lights",
+      "url": "https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
-        "name": "Inside A Dream",
-        "url": "https://open.spotify.com/album/4fBcXrjPHQBdmeYLJELc0l"
-      },
-      "artists": [
-        {
-          "name": "Thiago Izan",
-          "url": "https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Inside A Dream",
-      "url": "https://open.spotify.com/track/0zq6pkcCyyzmzOz6EF6EY2"
-    },
-    {
-      "added_at": "2026-05-08 04:00:50",
-      "album": {
         "name": "Warm Embrace",
         "url": "https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 163072,
       "name": "Warm Embrace",
       "url": "https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp"
+    },
+    {
+      "added_at": "2026-05-08 04:00:50",
+      "album": {
+        "name": "Inside A Dream",
+        "url": "https://open.spotify.com/album/4fBcXrjPHQBdmeYLJELc0l"
+      },
+      "artists": [
+        {
+          "name": "Thiago Izan",
+          "url": "https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Inside A Dream",
+      "url": "https://open.spotify.com/track/0zq6pkcCyyzmzOz6EF6EY2"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
-        "name": "Irenic",
-        "url": "https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 177323,
-      "name": "Irenic",
-      "url": "https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR"
-    },
-    {
-      "added_at": "2026-05-08 04:00:50",
-      "album": {
         "name": "somewhere else, together",
         "url": "https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
-        "name": "The Seventh Wave",
-        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
+        "name": "Irenic",
+        "url": "https://open.spotify.com/album/3bFSZrJMYMzAh62F1ujuhx"
       },
       "artists": [
         {
-          "name": "Colias Fieldii",
-          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
         }
       ],
-      "duration_ms": 128088,
-      "name": "The Seventh Wave",
-      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
+      "duration_ms": 177323,
+      "name": "Irenic",
+      "url": "https://open.spotify.com/track/6TOY3VJAAMb2uRfYLBvCXR"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -1063,6 +1047,22 @@
       "duration_ms": 147348,
       "name": "From a Distance",
       "url": "https://open.spotify.com/track/7DSAwNkmall9lAltVsoWFw"
+    },
+    {
+      "added_at": "2026-05-08 04:00:50",
+      "album": {
+        "name": "The Seventh Wave",
+        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
+      },
+      "artists": [
+        {
+          "name": "Colias Fieldii",
+          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+        }
+      ],
+      "duration_ms": 128088,
+      "name": "The Seventh Wave",
+      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
-        "name": "Tales of This",
-        "url": "https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66"
-      },
-      "artists": [
-        {
-          "name": "Andrea Azzola",
-          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
-        }
-      ],
-      "duration_ms": 136867,
-      "name": "Tales of This",
-      "url": "https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2"
-    },
-    {
-      "added_at": "2026-05-08 04:00:50",
-      "album": {
         "name": "Au matin du magicien",
         "url": "https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 122560,
       "name": "Au matin du magicien",
       "url": "https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW"
+    },
+    {
+      "added_at": "2026-05-08 04:00:50",
+      "album": {
+        "name": "Tales of This",
+        "url": "https://open.spotify.com/album/3cbLSK4KRqfOYi918vET66"
+      },
+      "artists": [
+        {
+          "name": "Andrea Azzola",
+          "url": "https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx"
+        }
+      ],
+      "duration_ms": 136867,
+      "name": "Tales of This",
+      "url": "https://open.spotify.com/track/75jwRyL9mbp1kMoYiCWoS2"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
-        "name": "Shadows On The Lawn",
-        "url": "https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN"
+        "name": "Reiu",
+        "url": "https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu"
       },
       "artists": [
         {
-          "name": "Andreas Monta",
-          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
         }
       ],
-      "duration_ms": 133058,
-      "name": "Shadows On The Lawn",
-      "url": "https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct"
+      "duration_ms": 124000,
+      "name": "Reiu",
+      "url": "https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
-        "name": "Reiu",
-        "url": "https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu"
+        "name": "Shadows On The Lawn",
+        "url": "https://open.spotify.com/album/5SPQjNTPLyfJOXTPy4AUNN"
       },
       "artists": [
         {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+          "name": "Andreas Monta",
+          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
         }
       ],
-      "duration_ms": 124000,
-      "name": "Reiu",
-      "url": "https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF"
+      "duration_ms": 133058,
+      "name": "Shadows On The Lawn",
+      "url": "https://open.spotify.com/track/0GcwEkklAbxpJIiNCafBct"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
-        "name": "The Shortest Distance",
-        "url": "https://open.spotify.com/album/48Pzdi9h9my2o6G1FgQLDY"
-      },
-      "artists": [
-        {
-          "name": "Kisane",
-          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "The Shortest Distance",
-      "url": "https://open.spotify.com/track/1IvutkNuvq7URH4twRVeSD"
-    },
-    {
-      "added_at": "2026-05-08 04:00:50",
-      "album": {
         "name": "Evanesce",
         "url": "https://open.spotify.com/album/6ZeyIM51iwmdN2RPm1Fkvy"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 146515,
       "name": "Only Illusions",
       "url": "https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj"
+    },
+    {
+      "added_at": "2026-05-08 04:00:50",
+      "album": {
+        "name": "The Shortest Distance",
+        "url": "https://open.spotify.com/album/48Pzdi9h9my2o6G1FgQLDY"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "The Shortest Distance",
+      "url": "https://open.spotify.com/track/1IvutkNuvq7URH4twRVeSD"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
-        "name": "D\u00e9lise",
-        "url": "https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ"
-      },
-      "artists": [
-        {
-          "name": "Raffaello Sorrento",
-          "url": "https://open.spotify.com/artist/7nhYjVhwKCoj5Sc6CrcNYl"
-        }
-      ],
-      "duration_ms": 125968,
-      "name": "D\u00e9lise",
-      "url": "https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK"
-    },
-    {
-      "added_at": "2026-05-08 04:00:50",
-      "album": {
         "name": "Motian",
         "url": "https://open.spotify.com/album/3TYbUe8YQXclwpn5JZ4xIs"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 164588,
       "name": "Motian",
       "url": "https://open.spotify.com/track/5lmgIDksEoi9vVf0jzcaTs"
+    },
+    {
+      "added_at": "2026-05-08 04:00:50",
+      "album": {
+        "name": "D\u00e9lise",
+        "url": "https://open.spotify.com/album/52Wm8XO82x6UKyAmIVQIDQ"
+      },
+      "artists": [
+        {
+          "name": "Raffaello Sorrento",
+          "url": "https://open.spotify.com/artist/7nhYjVhwKCoj5Sc6CrcNYl"
+        }
+      ],
+      "duration_ms": 125968,
+      "name": "D\u00e9lise",
+      "url": "https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
-        "name": "Tranquil Landscape",
-        "url": "https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta"
-      },
-      "artists": [
-        {
-          "name": "Ametrine Skies",
-          "url": "https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Tranquil Landscape",
-      "url": "https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG"
-    },
-    {
-      "added_at": "2026-05-08 04:00:50",
-      "album": {
         "name": "Quiet Suns",
         "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 131374,
       "name": "Quiet Suns",
       "url": "https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr"
+    },
+    {
+      "added_at": "2026-05-08 04:00:50",
+      "album": {
+        "name": "Tranquil Landscape",
+        "url": "https://open.spotify.com/album/2Ki1eCrONyJr7GPJdoC9ta"
+      },
+      "artists": [
+        {
+          "name": "Ametrine Skies",
+          "url": "https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Tranquil Landscape",
+      "url": "https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
-        "name": "Ruby Clouds",
-        "url": "https://open.spotify.com/album/7zXIOxPR42WvoEnVfnT4dM"
-      },
-      "artists": [
-        {
-          "name": "Ey\u00f8ni",
-          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
-        }
-      ],
-      "duration_ms": 140808,
-      "name": "Ruby Clouds",
-      "url": "https://open.spotify.com/track/3rhUcw5N8J31Y8zNREQArL"
-    },
-    {
-      "added_at": "2026-05-08 04:00:50",
-      "album": {
         "name": "Across the Currents",
         "url": "https://open.spotify.com/album/1UhCCqxjYG9UmeaQTFYQvz"
       },
@@ -2027,18 +2011,18 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
-        "name": "Highland",
-        "url": "https://open.spotify.com/album/26aPY0RbEgpgaf8zMpPTHA"
+        "name": "Ruby Clouds",
+        "url": "https://open.spotify.com/album/7zXIOxPR42WvoEnVfnT4dM"
       },
       "artists": [
         {
-          "name": "Max Swan",
-          "url": "https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj"
+          "name": "Ey\u00f8ni",
+          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Highland",
-      "url": "https://open.spotify.com/track/3LfTQeunHVYq4yatmvkuuC"
+      "duration_ms": 140808,
+      "name": "Ruby Clouds",
+      "url": "https://open.spotify.com/track/3rhUcw5N8J31Y8zNREQArL"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -2059,6 +2043,22 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
+        "name": "Highland",
+        "url": "https://open.spotify.com/album/26aPY0RbEgpgaf8zMpPTHA"
+      },
+      "artists": [
+        {
+          "name": "Max Swan",
+          "url": "https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Highland",
+      "url": "https://open.spotify.com/track/3LfTQeunHVYq4yatmvkuuC"
+    },
+    {
+      "added_at": "2026-05-08 04:00:50",
+      "album": {
         "name": "Lik Eit Tre (Ps.1)",
         "url": "https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE"
       },
@@ -2071,22 +2071,6 @@
       "duration_ms": 154844,
       "name": "Lik Eit Tre - Ps.1",
       "url": "https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3"
-    },
-    {
-      "added_at": "2026-05-08 04:00:50",
-      "album": {
-        "name": "Caluna",
-        "url": "https://open.spotify.com/album/0EN5rl3uMWuiR5fD3iQrLw"
-      },
-      "artists": [
-        {
-          "name": "Henry Diamante",
-          "url": "https://open.spotify.com/artist/3bBg4n36HaffB9ZolP3pl7"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Caluna",
-      "url": "https://open.spotify.com/track/4YT5ttzgRx4171gCPf0kxM"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -2107,6 +2091,22 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
+        "name": "Caluna",
+        "url": "https://open.spotify.com/album/0EN5rl3uMWuiR5fD3iQrLw"
+      },
+      "artists": [
+        {
+          "name": "Henry Diamante",
+          "url": "https://open.spotify.com/artist/3bBg4n36HaffB9ZolP3pl7"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Caluna",
+      "url": "https://open.spotify.com/track/4YT5ttzgRx4171gCPf0kxM"
+    },
+    {
+      "added_at": "2026-05-08 04:00:50",
+      "album": {
         "name": "The Magic of a Piano",
         "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
       },
@@ -2119,22 +2119,6 @@
       "duration_ms": 167844,
       "name": "The Magic of a Piano",
       "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
-    },
-    {
-      "added_at": "2026-05-08 04:00:50",
-      "album": {
-        "name": "Landet",
-        "url": "https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9"
-      },
-      "artists": [
-        {
-          "name": "Anders Linros",
-          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
-        }
-      ],
-      "duration_ms": 126760,
-      "name": "Landet",
-      "url": "https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -2155,6 +2139,22 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
+        "name": "Landet",
+        "url": "https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9"
+      },
+      "artists": [
+        {
+          "name": "Anders Linros",
+          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
+        }
+      ],
+      "duration_ms": 126760,
+      "name": "Landet",
+      "url": "https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG"
+    },
+    {
+      "added_at": "2026-05-08 04:00:50",
+      "album": {
         "name": "Hudson",
         "url": "https://open.spotify.com/album/7LYdaydEH7nuNW0jTx3VfW"
       },
@@ -2167,22 +2167,6 @@
       "duration_ms": 142702,
       "name": "Hudson",
       "url": "https://open.spotify.com/track/4X21nr52GfvHOUgN25yUC5"
-    },
-    {
-      "added_at": "2026-05-08 04:00:50",
-      "album": {
-        "name": "Une rivi\u00e8re silencieuse",
-        "url": "https://open.spotify.com/album/0pC9sTOjPYLUIJ2yGDpmU0"
-      },
-      "artists": [
-        {
-          "name": "Leo Nocta",
-          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "Une rivi\u00e8re silencieuse",
-      "url": "https://open.spotify.com/track/2hw2nzCP6601cnB8VMgvkO"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -2203,6 +2187,22 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
+        "name": "Une rivi\u00e8re silencieuse",
+        "url": "https://open.spotify.com/album/0pC9sTOjPYLUIJ2yGDpmU0"
+      },
+      "artists": [
+        {
+          "name": "Leo Nocta",
+          "url": "https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "Une rivi\u00e8re silencieuse",
+      "url": "https://open.spotify.com/track/2hw2nzCP6601cnB8VMgvkO"
+    },
+    {
+      "added_at": "2026-05-08 04:00:50",
+      "album": {
         "name": "Glimmer",
         "url": "https://open.spotify.com/album/1c7NcP2Owl3VHRieSjKBkf"
       },
@@ -2215,22 +2215,6 @@
       "duration_ms": 160741,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/2ya2p81qaEuynQAlohFm58"
-    },
-    {
-      "added_at": "2026-05-08 04:00:50",
-      "album": {
-        "name": "Marche Lente",
-        "url": "https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN"
-      },
-      "artists": [
-        {
-          "name": "Zander Shaelyn",
-          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
-        }
-      ],
-      "duration_ms": 131436,
-      "name": "Marche Lente",
-      "url": "https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -2263,6 +2247,22 @@
       "duration_ms": 207219,
       "name": "Affection",
       "url": "https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z"
+    },
+    {
+      "added_at": "2026-05-08 04:00:50",
+      "album": {
+        "name": "Marche Lente",
+        "url": "https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN"
+      },
+      "artists": [
+        {
+          "name": "Zander Shaelyn",
+          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
+        }
+      ],
+      "duration_ms": 131436,
+      "name": "Marche Lente",
+      "url": "https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB"
     },
     {
       "added_at": "2026-05-08 04:00:50",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2026-05-08 04:00:50",
       "album": {
-        "name": "Noema",
-        "url": "https://open.spotify.com/album/5AAOABJQW2ufjJCmAz95MD"
-      },
-      "artists": [
-        {
-          "name": "Freya Bagger",
-          "url": "https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7"
-        }
-      ],
-      "duration_ms": 151135,
-      "name": "Noema",
-      "url": "https://open.spotify.com/track/2po93qcAxZJzlIjgRjhvsM"
-    },
-    {
-      "added_at": "2026-05-08 04:00:50",
-      "album": {
         "name": "Red Ridge Road",
         "url": "https://open.spotify.com/album/3v0jNmPIt6mj7vRB2H1umM"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 163514,
       "name": "Red Ridge Road",
       "url": "https://open.spotify.com/track/2BNF35bgujUs1KtGl5Xww0"
+    },
+    {
+      "added_at": "2026-05-08 04:00:50",
+      "album": {
+        "name": "Noema",
+        "url": "https://open.spotify.com/album/5AAOABJQW2ufjJCmAz95MD"
+      },
+      "artists": [
+        {
+          "name": "Freya Bagger",
+          "url": "https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7"
+        }
+      ],
+      "duration_ms": 151135,
+      "name": "Noema",
+      "url": "https://open.spotify.com/track/2po93qcAxZJzlIjgRjhvsM"
     },
     {
       "added_at": "2026-05-08 04:00:50",

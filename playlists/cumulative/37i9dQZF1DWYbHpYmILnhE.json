@@ -239,6 +239,32 @@
     },
     {
       "album": {
+        "name": "Beretta 92",
+        "url": "https://open.spotify.com/album/5XnKMN3CzQ2lZtPbjmo0iL"
+      },
+      "artists": [
+        {
+          "name": "Dj Skipit",
+          "url": "https://open.spotify.com/artist/1d0r5oEomUjPeiId69KuaW"
+        },
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        },
+        {
+          "name": "Hugo P",
+          "url": "https://open.spotify.com/artist/0J6ZIgkuOsplZ6o3VOrb8p"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162262,
+      "name": "Beretta 92",
+      "url": "https://open.spotify.com/track/7jR5Q8yki76iBg5IjC9tk1"
+    },
+    {
+      "album": {
         "name": "STILL FIGURING LIFE",
         "url": "https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9"
       },
@@ -594,7 +620,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 187736,
       "name": "Digga",
       "url": "https://open.spotify.com/track/1oh95MuaCB9hd1gckqyRXA"
@@ -980,7 +1006,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 147990,
       "name": "Healing",
       "url": "https://open.spotify.com/track/0mx2fFFQ1QfflCduFtFlR6"

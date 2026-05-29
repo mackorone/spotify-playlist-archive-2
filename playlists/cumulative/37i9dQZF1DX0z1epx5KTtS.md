@@ -4,7 +4,7 @@
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Josey
 
-296 songs - 16 hr 6 min
+297 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Tourbillon \(feat\. Serge Beynaud\)](https://open.spotify.com/track/2cfMRPnLYhnshvaGqMpAF3) | [Héritier Wata](https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Tourbillon \(feat\. Serge Beynaud\)](https://open.spotify.com/album/4v67MEPOSosqao8IdgQKfK) | 3:51 | 2026-04-09 |  |
 | [Tous des traîtres](https://open.spotify.com/track/0MMDVLU6OYcTs6xCRng6XE) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Ali le code](https://open.spotify.com/artist/518yrkCaPdKEvMi8vK3H9d), [Abomé léléfant](https://open.spotify.com/artist/7AUVEvmiJ2N8xH2ECTylBg) | [Tous des traîtres](https://open.spotify.com/album/3bhE5PPsIznSHjka6Di4cY) | 3:01 | 2022-08-04 | 2022-09-30 |
 | [Tout laisse](https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Vibration Universelle](https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne) | 2:56 | 2024-05-30 | 2026-02-20 |
+| [Track 6](https://open.spotify.com/track/5E0fsHZn7rKdrwguOZ7au7) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9) | [Roi de L’ambiance \- Begin](https://open.spotify.com/album/6bJMKOkZ01GVq9NA2W4hTg) | 0:00 | 2026-05-28 |  |
 | [Tu as créé quoi encore !](https://open.spotify.com/track/70p1D6Rf95l5oPb9oYdXRA) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [Tu as créé quoi encore !](https://open.spotify.com/album/5fJdI5nd8LCFiDD3J0Z4vL) | 2:54 | 2025-06-12 | 2025-12-19 |
 | [Tu peux lover](https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6) | [Dj Mulukuku](https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn) | [Tu peux lover](https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz) | 3:32 | 2022-06-02 | 2022-09-16 |
 | [TU PRENDS ET PUIS TU LAISSES](https://open.spotify.com/track/4eWms3CUScWTxYGAezmVao) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [TU PRENDS ET PUIS TU LAISSES](https://open.spotify.com/album/7F91Vcw2Kt3uOKWJpJ0eIt) | 2:59 | 2025-12-18 | 2026-03-27 |
@@ -289,7 +290,7 @@
 | [Watterman](https://open.spotify.com/track/2WwolPx58TEp6qKRnwiuaM) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1), [David Eto'o](https://open.spotify.com/artist/6FTQrbUiUqltYJVuBne3a6) | [Watterman](https://open.spotify.com/album/19D7JqNkNDqahu9IketHmC) | 3:39 | 2022-05-05 | 2022-09-02 |
 | [Were were](https://open.spotify.com/track/0zi1ggaicBG51ITJNqghh3) | [Abomé Léléfant](https://open.spotify.com/artist/5MU4VD6BQR9h0TK5pQOqDO) | [Were were](https://open.spotify.com/album/71JZhJWNnLOzVQq4iGvhjF) | 2:44 | 2024-02-01 | 2025-06-06 |
 | [Winhou](https://open.spotify.com/track/0eSWaBiMsXeu6NIodT22AU) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Winhou](https://open.spotify.com/album/3atrSkpZpQT9fcFfYE3Ukg) | 3:08 | 2023-04-06 | 2023-06-23 |
-| [WonWon](https://open.spotify.com/track/4i89emqjbz4c4K4PNImqGC) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9) | [WonWon](https://open.spotify.com/album/6xuiYrOgPClmsDgiaohTPW) | 2:40 | 2026-03-26 |  |
+| [WonWon](https://open.spotify.com/track/4i89emqjbz4c4K4PNImqGC) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9) | [WonWon](https://open.spotify.com/album/6xuiYrOgPClmsDgiaohTPW) | 2:40 | 2026-03-26 | 2026-05-29 |
 | [X plus](https://open.spotify.com/track/6MxBbEeCOkPv6qKjGMx5SP) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Zagba Le Rekin](https://open.spotify.com/artist/5q0DkEt2KBiQhoEjBVFhwm) | [X plus](https://open.spotify.com/album/40eJ0j3pOoezKyyGK6ZBvV) | 1:25 | 2023-06-15 | 2023-10-20 |
 | [YESSOUÉ](https://open.spotify.com/track/4xdFh8mBgHIV2vgdkTc1Lx) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [YESSOUÉ](https://open.spotify.com/album/5Byd6Vob8suZ49j47Naag8) | 3:04 | 2025-12-18 |  |
 | [Yiri](https://open.spotify.com/track/4I3c9wYQoNJtihFna5yZes) | [Sly De Sly](https://open.spotify.com/artist/55hvy7lq6Kh8n67VmTXGKe) | [Yiri](https://open.spotify.com/album/6cgZiXODV7Mzj6URW2khZq) | 3:35 | 2023-04-06 | 2023-05-19 |

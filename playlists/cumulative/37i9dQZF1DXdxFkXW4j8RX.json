@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa de lxs MC's. Foto: Ceaese",
+  "description": "La casa de lxs MC's. Foto: Liricistas",
   "name": "Rap Chileno",
   "tracks": [
     {
@@ -354,6 +354,24 @@
       "duration_ms": 94551,
       "name": "Artista",
       "url": "https://open.spotify.com/track/2aangGJ2zpCkqwufkqJK0O"
+    },
+    {
+      "album": {
+        "name": "L.I.R.I",
+        "url": "https://open.spotify.com/album/5T5obSX7tJgiBFbYeue6t6"
+      },
+      "artists": [
+        {
+          "name": "Liricistas",
+          "url": "https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231936,
+      "name": "As\u00ed Es Mi Vida",
+      "url": "https://open.spotify.com/track/0OsHLraLYEhKughSsF8Ccm"
     },
     {
       "album": {
@@ -910,7 +928,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 214347,
       "name": "Cienfuegos",
       "url": "https://open.spotify.com/track/0lFy22vazKGMQrqxq2N9mT"
@@ -5148,7 +5166,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 223509,
       "name": "Te Invito a Mi Pa\u00eds (El Nuevo)",
       "url": "https://open.spotify.com/track/1ryXgo9E9KdumdYfWToKPj"

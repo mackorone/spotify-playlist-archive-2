@@ -356,7 +356,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 402700,
       "name": "Amina",
       "url": "https://open.spotify.com/track/7bPosug1dWKjoN5EUbopsp"
@@ -2016,6 +2016,24 @@
       "duration_ms": 190235,
       "name": "Let it Shine",
       "url": "https://open.spotify.com/track/0hkU8PP3x9snLlXrBWujf8"
+    },
+    {
+      "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/3uGa8Katq288vPNhCrbPrH"
+      },
+      "artists": [
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202945,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/60HRNzRXPvqmwcI5F9HFHi"
     },
     {
       "album": {
@@ -6210,7 +6228,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 877500,
       "name": "Wastahili",
       "url": "https://open.spotify.com/track/1TsBf8uY2P1LR4Ld6F17aq"
@@ -6588,7 +6606,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 142996,
       "name": "Yesu Nitie Nguvu",
       "url": "https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 
 > Groove to Desi chart\-toppers and Bollywood’s top TikTok hits &amp; Reels Anthems —featuring Arijit Singh, Badshah, AP Dhillon, Shreya Ghoshal, Neha Kakkar, Sunidhi Chauhan, A.R\. Rahman, Pritam, and Tanishk Bagchi!
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 228,271 likes - 98 songs - 6 hr 44 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 228,265 likes - 101 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,8 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 | 96 | [Zara Sa](https://open.spotify.com/track/18YHbIhrleUkKKj2DvEp79) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Jannat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/153Qw0xXJqhEFxvm9M9rE8) | 5:03 |
 | 97 | [Ishq Bulaava](https://open.spotify.com/track/1fkjRQA8wXPPyxqYLbxuqy) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Sanam Puri](https://open.spotify.com/artist/5kiKQJrz4BT7vFWVECAmHH), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Hasee Toh Phasee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PxXJhlxSQkj8JO7IXy0FE) | 5:03 |
 | 98 | [O Rangrez](https://open.spotify.com/track/3rYZNvm6IXPIPIx9BPBQ18) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Yusuf Mohammed](https://open.spotify.com/artist/5XWfOrZhMMjoBTKcAgtFxe), [Vajid Ali](https://open.spotify.com/artist/3cXNzZYIOUpv22w4iJm42t) | [O Rangrez](https://open.spotify.com/album/1MLUubSyGElc98NqzugtdU) | 6:24 |
+| 99 | [Zara Sa](https://open.spotify.com/track/18YHbIhrleUkKKj2DvEp79) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Jannat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/153Qw0xXJqhEFxvm9M9rE8) | 5:03 |
+| 100 | [La Vida](https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 2:21 |
+| 101 | [Saree Ke Fall Sa](https://open.spotify.com/track/3zRE9GTjbIoGvI2wGmY0mj) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Mayur Puri](https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj) | [R...Rajkumar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3S9lrCPnWpm3SGYTXLkcv0) | 4:00 |
 
-Snapshot ID: `AAAYqzJEnc7iQfB9EwBAgWxuPnPQV1sP`
+Snapshot ID: `AAAYrYFzDm6xm87aDvYpG0ahW6zhTRmB`

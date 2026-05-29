@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "iako in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "Vanegas in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 213440,
       "name": "All You Can Eat",
       "url": "https://open.spotify.com/track/7IBgMAE48sydRRyyqpQDS6"
@@ -996,6 +996,36 @@
       "duration_ms": 189227,
       "name": "Alla Follia",
       "url": "https://open.spotify.com/track/0jmjKNlnTWOo0VV2Pws3BY"
+    },
+    {
+      "album": {
+        "name": "Allontanarsi",
+        "url": "https://open.spotify.com/album/3mOLGFLUq7uZLuNUs2hVSD"
+      },
+      "artists": [
+        {
+          "name": "Tormento",
+          "url": "https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "Leslie Sackey",
+          "url": "https://open.spotify.com/artist/6SGzX8DcyP060Goqwkkta4"
+        },
+        {
+          "name": "WADO",
+          "url": "https://open.spotify.com/artist/3JVz1HR9jLWVJIOCmxCQAl"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Allontanarsi",
+      "url": "https://open.spotify.com/track/4iD3sf1zdwawfK2rczhu7C"
     },
     {
       "album": {
@@ -2083,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Bartender",
+        "url": "https://open.spotify.com/album/64524qm7Z32vXP6WT8dcRA"
+      },
+      "artists": [
+        {
+          "name": "Etra",
+          "url": "https://open.spotify.com/artist/6JRfxcL7i196DWSogbqilF"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134318,
+      "name": "Bartender",
+      "url": "https://open.spotify.com/track/50mKKVaQe6PACpQiLdf3Cz"
+    },
+    {
+      "album": {
         "name": "basta",
         "url": "https://open.spotify.com/album/1Ahdfr8AZZG2bfU7PVGrju"
       },
@@ -2280,7 +2328,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 133058,
       "name": "bimbi e cani",
       "url": "https://open.spotify.com/track/2Bl0VIztdpCQPMn8m07asM"
@@ -2610,7 +2658,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 145337,
       "name": "Briciole gourmet",
       "url": "https://open.spotify.com/track/5Tg7VWkaMjUAtqxSvjn4Jq"
@@ -4870,6 +4918,24 @@
       "duration_ms": 205714,
       "name": "Da Piccoli",
       "url": "https://open.spotify.com/track/7vfpKoT4M0LBn2fIwLTYax"
+    },
+    {
+      "album": {
+        "name": "Daiquiri",
+        "url": "https://open.spotify.com/album/5oDc8nK1RdrL2xTRPiZhiV"
+      },
+      "artists": [
+        {
+          "name": "CONAMORE",
+          "url": "https://open.spotify.com/artist/44rLzxtzmwuSzJzE6PMkVh"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164872,
+      "name": "Daiquiri",
+      "url": "https://open.spotify.com/track/7MeKu9NnEyeEPE3cTu0TJh"
     },
     {
       "album": {
@@ -7762,6 +7828,24 @@
       "duration_ms": 139687,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/2ue2pl1XuuyBvzcM2AqUfZ"
+    },
+    {
+      "album": {
+        "name": "Effetti Collaterali",
+        "url": "https://open.spotify.com/album/1SJrRmhszl9gZHXhwxP6vU"
+      },
+      "artists": [
+        {
+          "name": "solamente",
+          "url": "https://open.spotify.com/artist/6ONrPaRh4v2QlSdZBfU0d1"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118620,
+      "name": "Goya",
+      "url": "https://open.spotify.com/track/03fEgvCIjk6KyxpEPppYRB"
     },
     {
       "album": {
@@ -11013,6 +11097,28 @@
     },
     {
       "album": {
+        "name": "16-26",
+        "url": "https://open.spotify.com/album/2j5epmm5td3Vjp37cij0OE"
+      },
+      "artists": [
+        {
+          "name": "Vanegas",
+          "url": "https://open.spotify.com/artist/5PbGXiwDFSQSMmzQ3pP5Jj"
+        },
+        {
+          "name": "GIOIA",
+          "url": "https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259251,
+      "name": "MAYBE WE'RE STILL IN LOVE",
+      "url": "https://open.spotify.com/track/6MmHMPaRQxFISeidu98ynF"
+    },
+    {
+      "album": {
         "name": "me l'ha detto il dottore",
         "url": "https://open.spotify.com/album/35blelzjUqgYqLd7SvUxcp"
       },
@@ -12151,6 +12257,24 @@
     },
     {
       "album": {
+        "name": "NIENTE DI SERIO",
+        "url": "https://open.spotify.com/album/4s2evWyNtJtMMVbPFCYLqR"
+      },
+      "artists": [
+        {
+          "name": "EMSAISI",
+          "url": "https://open.spotify.com/artist/2eTMp0eYaCw62RedR7SBci"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173185,
+      "name": "NIENTE DI SERIO",
+      "url": "https://open.spotify.com/track/49QyIgC8zE3sBppGyqS3S8"
+    },
+    {
+      "album": {
         "name": "NIRVANA",
         "url": "https://open.spotify.com/album/0v939XJOQhsSe9WFXxMrF9"
       },
@@ -12442,6 +12566,24 @@
       "duration_ms": 183000,
       "name": "non ci sta",
       "url": "https://open.spotify.com/track/4atRzLSh8tx0lsVsmgHTTu"
+    },
+    {
+      "album": {
+        "name": "non dire non mi manchi",
+        "url": "https://open.spotify.com/album/2lOkv7uzsahKdBYV2dXmFc"
+      },
+      "artists": [
+        {
+          "name": "Zayta",
+          "url": "https://open.spotify.com/artist/7ybaFm1v0nrJPsZVPIUD9n"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "non dire non mi manchi",
+      "url": "https://open.spotify.com/track/3XIE9BFQCeGFUbaQLGxv27"
     },
     {
       "album": {
@@ -14292,7 +14434,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 203013,
       "name": "Pelle Viola",
       "url": "https://open.spotify.com/track/6gv0zBiZrGB6VAUbcBcRWN"
@@ -15026,6 +15168,24 @@
       "duration_ms": 181720,
       "name": "PRIVACY (feat. CoCo, Sissi)",
       "url": "https://open.spotify.com/track/6l1vqZqrb3UOVjANkzdOIJ"
+    },
+    {
+      "album": {
+        "name": "PROTAGONISTA",
+        "url": "https://open.spotify.com/album/6HZx5MIvEBOOgBeoRFIG78"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "PROTAGONISTA",
+      "url": "https://open.spotify.com/track/6lrbF1t8HGDej6albSiFdX"
     },
     {
       "album": {
@@ -16368,7 +16528,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 186947,
       "name": "SCONOSCIUTI",
       "url": "https://open.spotify.com/track/7BY4Qi7LzDKzOJY0oUCtkz"
@@ -16538,7 +16698,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 241008,
       "name": "Seguimi",
       "url": "https://open.spotify.com/track/1uKq0pRzddjEaIIO7F5VDQ"
@@ -16814,7 +16974,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 143529,
       "name": "Senza filtri",
       "url": "https://open.spotify.com/track/3uSukWgE3pIOVljoLVEPav"
@@ -17136,7 +17296,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 121600,
       "name": "Si T\u00fa Me Miras",
       "url": "https://open.spotify.com/track/5jJlUvC1w6X5QzxslIlrJf"
@@ -17890,7 +18050,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 132413,
       "name": "Specchio",
       "url": "https://open.spotify.com/track/6wbYbRt4K5C37RN8na3Lq6"
@@ -18601,6 +18761,28 @@
     },
     {
       "album": {
+        "name": "Talismani",
+        "url": "https://open.spotify.com/album/3gIEJTY7gjJpYvYpLHghi1"
+      },
+      "artists": [
+        {
+          "name": "NIO",
+          "url": "https://open.spotify.com/artist/6ezfB5USiV0QJLp9tHxbjU"
+        },
+        {
+          "name": "Lauryyn",
+          "url": "https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Talismani",
+      "url": "https://open.spotify.com/track/4qSJBKo01fjQ3BntH819d0"
+    },
+    {
+      "album": {
         "name": "Tardi",
         "url": "https://open.spotify.com/album/1lAORflTsEeeGTY4tBgLYw"
       },
@@ -18932,7 +19114,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 165333,
       "name": "tiv\u00f9 (prod. Night Skinny)",
       "url": "https://open.spotify.com/track/6rLucMumW03LDVEUU2yxB1"
@@ -19778,6 +19960,24 @@
       "duration_ms": 178918,
       "name": "UN'ALTRA NOTTE",
       "url": "https://open.spotify.com/track/3pGkGnlkqP1uFnYyzAEspn"
+    },
+    {
+      "album": {
+        "name": "Una barca a Sorrento",
+        "url": "https://open.spotify.com/album/3tDJUudECWTd5SsaLfpubE"
+      },
+      "artists": [
+        {
+          "name": "Imma",
+          "url": "https://open.spotify.com/artist/0GejYG3f7QA2VSFXLi8dFo"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238578,
+      "name": "Una barca a Sorrento",
+      "url": "https://open.spotify.com/track/1bBMs8EfpbBbOkiK1tmtbi"
     },
     {
       "album": {

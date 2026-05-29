@@ -1,13 +1,69 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43450,
+  "num_followers": 43452,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAatGJ6KQfxDBJDW/01r5njYkCEPzBb",
+  "snapshot_id": "AAAat5Iq3ndeRz9nkjY78YvFpdLhhWzN",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:00:47",
+      "album": {
+        "name": "Chasing Bodies",
+        "url": "https://open.spotify.com/album/1u2BI8MWTlb8y8pJ6iu9Co"
+      },
+      "artists": [
+        {
+          "name": "Madds",
+          "url": "https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy"
+        },
+        {
+          "name": "Dainjaa",
+          "url": "https://open.spotify.com/artist/43ZnMboMElFMnW4bZg0Awh"
+        }
+      ],
+      "duration_ms": 200597,
+      "name": "Chasing Bodies",
+      "url": "https://open.spotify.com/track/7kmmF2N2Ol6CgBBzer3bdf"
+    },
+    {
+      "added_at": "2026-05-29 04:00:46",
+      "album": {
+        "name": "ITCHTOPAY",
+        "url": "https://open.spotify.com/album/3spFe05r5pKoOouuGyXpLF"
+      },
+      "artists": [
+        {
+          "name": "Buns",
+          "url": "https://open.spotify.com/artist/5rGiKRASfYHuoGV6tXYGMB"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "ITCHTOPAY",
+      "url": "https://open.spotify.com/track/102v6pIT5fGhbbgbFylGlI"
+    },
+    {
+      "added_at": "2026-05-29 04:00:46",
+      "album": {
+        "name": "Higher Off The Ground",
+        "url": "https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 185850,
+      "name": "Higher Off The Ground",
+      "url": "https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo"
+    },
     {
       "added_at": "2026-05-22 04:00:47",
       "album": {

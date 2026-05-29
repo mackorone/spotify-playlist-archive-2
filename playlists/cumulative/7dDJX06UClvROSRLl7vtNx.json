@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 166779,
       "name": "AWGAZI",
       "url": "https://open.spotify.com/track/2D9coh76MCXNqDEUCHl5vl"
@@ -11729,6 +11729,24 @@
     },
     {
       "album": {
+        "name": "I Rise",
+        "url": "https://open.spotify.com/album/05CVcrwlmauGFwpytIWcHF"
+      },
+      "artists": [
+        {
+          "name": "Palmero",
+          "url": "https://open.spotify.com/artist/5hV5GLJ6kmWccJriPOPsOn"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "I Rise",
+      "url": "https://open.spotify.com/track/0yxY14zEIrZbf3uRM7pVjf"
+    },
+    {
+      "album": {
         "name": "I Say a Little Prayer",
         "url": "https://open.spotify.com/album/4ocNjBLkTh4GWdHQUSSACm"
       },
@@ -14806,6 +14824,28 @@
       "duration_ms": 191707,
       "name": "Like No One's Here",
       "url": "https://open.spotify.com/track/6sOfIfmLp01BNkaPjUi3IT"
+    },
+    {
+      "album": {
+        "name": "Like The Ocean",
+        "url": "https://open.spotify.com/album/3aOwEXI8ADCNsuSFwlVzP1"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Hobes",
+          "url": "https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143428,
+      "name": "Like The Ocean",
+      "url": "https://open.spotify.com/track/7BLOR1aLY7fd7Ykw8uIuqe"
     },
     {
       "album": {

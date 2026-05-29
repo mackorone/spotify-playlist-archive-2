@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAPIU43lPpoUf7+DtTCbT+ryzj0Z",
+  "snapshot_id": "AAAAAEyF99rI47omhH20hnXVeaDUoERF",
   "tracks": [
     {
       "added_at": "2026-05-05 22:00:32",
@@ -319,22 +319,6 @@
       "duration_ms": 164689,
       "name": "30 \u015bwieczek",
       "url": "https://open.spotify.com/track/6JPSe4nKtRpz9a3uXf8X78"
-    },
-    {
-      "added_at": "2026-05-05 22:00:32",
-      "album": {
-        "name": "Za szybko",
-        "url": "https://open.spotify.com/album/242OFqq1ypcwB3OIqY3xbM"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00f6die",
-          "url": "https://open.spotify.com/artist/7rp5EvHp460huD1jkfRM15"
-        }
-      ],
-      "duration_ms": 177434,
-      "name": "Za szybko",
-      "url": "https://open.spotify.com/track/6ivd4s6JcMAWDjse2NytG5"
     },
     {
       "added_at": "2026-05-05 22:00:32",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : DAKEEZ",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : BB NOYAA",
   "name": "R&Bae",
   "tracks": [
     {
@@ -364,7 +364,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 152000,
       "name": "Alter ego (Aida#6)",
       "url": "https://open.spotify.com/track/1sDJ5Jtm8BtBzAU7euz6kB"
@@ -3328,6 +3328,24 @@
       "duration_ms": 179597,
       "name": "Ding Deng Dong",
       "url": "https://open.spotify.com/track/0gaalm58ZK442mEFgBYt0R"
+    },
+    {
+      "album": {
+        "name": "Dis-moi",
+        "url": "https://open.spotify.com/album/5JJ3uBY8lgzl4KE1oVChNd"
+      },
+      "artists": [
+        {
+          "name": "Dioo",
+          "url": "https://open.spotify.com/artist/6n8tHRFjXKVv3b7WmWLr9a"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Dis-moi",
+      "url": "https://open.spotify.com/track/5VFHv6nkTxhgCtSgEXKL7A"
     },
     {
       "album": {
@@ -8122,7 +8140,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 137390,
       "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
@@ -8432,7 +8450,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 144457,
       "name": "N.O.Y.A.A.",
       "url": "https://open.spotify.com/track/5CBm7vlCNceO3uthse5ZmZ"
@@ -9157,6 +9175,24 @@
     },
     {
       "album": {
+        "name": "Pagaille",
+        "url": "https://open.spotify.com/album/7JR6rPueoAPbHtOy56Xo0Q"
+      },
+      "artists": [
+        {
+          "name": "Oumay",
+          "url": "https://open.spotify.com/artist/4mbQrg8GXJIE1UTYvcO9Yc"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Pagaille",
+      "url": "https://open.spotify.com/track/0l50aENi6niKfWWBf2CrRx"
+    },
+    {
+      "album": {
         "name": "Miroir, part. II",
         "url": "https://open.spotify.com/album/2h842zpXOA4zMAhbUyJvCE"
       },
@@ -9368,7 +9404,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 172556,
       "name": "Pardonne moi",
       "url": "https://open.spotify.com/track/1CUzytMt6JV11oYqLoAhYP"
@@ -9771,6 +9807,28 @@
     },
     {
       "album": {
+        "name": "Pile ou Face",
+        "url": "https://open.spotify.com/album/5vihHF9KuJUtUkb0qvxDsA"
+      },
+      "artists": [
+        {
+          "name": "Blynk",
+          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+        },
+        {
+          "name": "Fleetzy",
+          "url": "https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194930,
+      "name": "Pile ou Face",
+      "url": "https://open.spotify.com/track/5SLYbtXzeXH7mhC6l3Tp1q"
+    },
+    {
+      "album": {
         "name": "Piloti",
         "url": "https://open.spotify.com/album/3aotwIs7L3jD2PPVwKj69b"
       },
@@ -9844,6 +9902,24 @@
       "duration_ms": 169565,
       "name": "Plan s\u00e9quence",
       "url": "https://open.spotify.com/track/75apUo1MSFcDPBf7n26HfC"
+    },
+    {
+      "album": {
+        "name": "PLAQUE",
+        "url": "https://open.spotify.com/album/5U0x6jjgKRxVDAW3j2YEuq"
+      },
+      "artists": [
+        {
+          "name": "CHANEL",
+          "url": "https://open.spotify.com/artist/3MAMbnrUtr4nqTRStT5rUZ"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121643,
+      "name": "PLAQUE",
+      "url": "https://open.spotify.com/track/2xaYboGnJlrTZwa9odgEEa"
     },
     {
       "album": {
@@ -11992,7 +12068,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 160000,
       "name": "Star",
       "url": "https://open.spotify.com/track/7fAjLaUuj4V8RSm6pBupeR"
@@ -12138,6 +12214,24 @@
       "duration_ms": 170526,
       "name": "Sx Symbol",
       "url": "https://open.spotify.com/track/0KyUzP1RHc0x5ZXUt3JbNf"
+    },
+    {
+      "album": {
+        "name": "S\u00dbRE DE MOI",
+        "url": "https://open.spotify.com/album/0aBAFkbh8lzb85SzcpPSCy"
+      },
+      "artists": [
+        {
+          "name": "Shey",
+          "url": "https://open.spotify.com/artist/3xkPuTZqgHUOu9gbReSYnj"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139665,
+      "name": "S\u00dbRE DE MOI",
+      "url": "https://open.spotify.com/track/2CUYxEolSnk75ufOki8clC"
     },
     {
       "album": {
@@ -13244,7 +13338,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 135945,
       "name": "Venin",
       "url": "https://open.spotify.com/track/4Yb5TEvug1rbfL4qRlhJdT"
@@ -13342,6 +13436,24 @@
       "duration_ms": 127843,
       "name": "Vitamine",
       "url": "https://open.spotify.com/track/1p6U4CG4deYuJq9RdVgVm7"
+    },
+    {
+      "album": {
+        "name": "SENTIMENTALE",
+        "url": "https://open.spotify.com/album/3Oiq6i29v8OLSMMlGHhElF"
+      },
+      "artists": [
+        {
+          "name": "BB NOYAA",
+          "url": "https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "VITESSE",
+      "url": "https://open.spotify.com/track/7G3RGNervmyqvGocFcNnov"
     },
     {
       "album": {

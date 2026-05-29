@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Ana\u00efs Cardot",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : J\u00e4de",
   "name": "le miel",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 98063,
       "name": "04:00",
       "url": "https://open.spotify.com/track/32LB7dP3aOmpNTESVZM0HP"
+    },
+    {
+      "album": {
+        "name": "1 MINUTE",
+        "url": "https://open.spotify.com/album/0z2R1F3g3lSjOnoieWuqIJ"
+      },
+      "artists": [
+        {
+          "name": "Sean Chris",
+          "url": "https://open.spotify.com/artist/4VruS7fTDUyTPSeQZOs9ha"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "1 MINUTE",
+      "url": "https://open.spotify.com/track/53YkGUbzz9tOrezKy7rczb"
     },
     {
       "album": {
@@ -2145,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/6OywoNcAqupiMoCFE0sjPJ"
+      },
+      "artists": [
+        {
+          "name": "Benael",
+          "url": "https://open.spotify.com/artist/2XESQbOkyMD8fnp24q07Id"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166608,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/5HwmOY1pnYrnlIxNIVjHlC"
+    },
+    {
+      "album": {
         "name": "\u00e8re.",
         "url": "https://open.spotify.com/album/2o1vOkqvN2eqGv1pBW9WKk"
       },
@@ -2286,7 +2322,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 138378,
       "name": "De l'Amour",
       "url": "https://open.spotify.com/track/5B2s2IOR0OwBGXrlm8epVB"
@@ -3645,6 +3681,24 @@
     },
     {
       "album": {
+        "name": "Friend with benefits",
+        "url": "https://open.spotify.com/album/2VbQeyflxsF55FFRvZvZKr"
+      },
+      "artists": [
+        {
+          "name": "J\u00e4de",
+          "url": "https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144846,
+      "name": "Friend with benefits",
+      "url": "https://open.spotify.com/track/6MgA1YVPItOwUi2kvBAdwB"
+    },
+    {
+      "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/6K4NNbnn8CtEouxyNLaXQp"
       },
@@ -3772,7 +3826,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 219468,
       "name": "Godknows",
       "url": "https://open.spotify.com/track/3Mp6ZA3g59q6yhHv0MzLaI"
@@ -5328,6 +5382,24 @@
       "duration_ms": 212426,
       "name": "La mienne",
       "url": "https://open.spotify.com/track/4bgIvTMFL8UFEFrmm3i8nz"
+    },
+    {
+      "album": {
+        "name": "JO\u0178A",
+        "url": "https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236576,
+      "name": "LA M\u00caME HISTOIRE",
+      "url": "https://open.spotify.com/track/44p541OPMP2VEvGugqgXYA"
     },
     {
       "album": {
@@ -7174,7 +7246,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 183529,
       "name": "NTIYA",
       "url": "https://open.spotify.com/track/57xsSnZjfPtRfpj0r36ixf"
@@ -7726,7 +7798,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 192704,
       "name": "Peacetrack",
       "url": "https://open.spotify.com/track/0Yy7OTSgnFc773XUOi5aWP"

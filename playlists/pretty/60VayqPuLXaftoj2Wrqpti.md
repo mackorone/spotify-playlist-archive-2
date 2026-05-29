@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 3,892 likes - 66 songs - 3 hr 58 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 3,896 likes - 66 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 45 | [PEOPLE \- Radio Version](https://open.spotify.com/track/5dazrldIfeQKakaT4XBtLR) | [Megatronic](https://open.spotify.com/artist/3aU6ncVBmlnA8TtCXDwJKZ), [Natasha Diggs](https://open.spotify.com/artist/0DqGIKEEj1pOGrOTrYUwPt) | [PEOPLE \(Radio Version\)](https://open.spotify.com/album/7Hfm4wNV9iU23M9wn5WHzr) | 4:47 |
 | 46 | [Are You Lonesome?](https://open.spotify.com/track/1Mm8xSoZ0yFCq9UAKcLrlm) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P), [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Are You Lonesome?](https://open.spotify.com/album/5ECcrqGv0hDZDUMK2RsZtA) | 2:54 |
 | 47 | [Third Side of the Moon](https://open.spotify.com/track/6FejTj8qZ51DhKMHYSOG4K) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Third Side of the Moon](https://open.spotify.com/album/311t5nnuS4Fo6citMUuXMB) | 4:27 |
-| 48 | [CHASING LIGHT](https://open.spotify.com/track/4wtek4oeUWTz0Rmsg2eeAr) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [Noah Fürbringer](https://open.spotify.com/artist/2aFDkXJvi1jsvhu5lHIu6F), [Moses Yoofee](https://open.spotify.com/artist/04OtBRCoBCqpgdiLKKklOS), [cowboyklobe](https://open.spotify.com/artist/3gZN7XHOHMwn1i0WZCWjKy) | [CHASING LIGHT / ZERO](https://open.spotify.com/album/3vuDWBhPlyIsj0hxV1EH6x) | 3:00 |
+| 48 | [CHASING LIGHT](https://open.spotify.com/track/4wtek4oeUWTz0Rmsg2eeAr) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [Noah Fürbringer](https://open.spotify.com/artist/2aFDkXJvi1jsvhu5lHIu6F), [Moses Yoofee](https://open.spotify.com/artist/63xdxZes5VBaGdAWhMbgdZ), [cowboyklobe](https://open.spotify.com/artist/3gZN7XHOHMwn1i0WZCWjKy) | [CHASING LIGHT / ZERO](https://open.spotify.com/album/3vuDWBhPlyIsj0hxV1EH6x) | 3:00 |
 | 49 | [Massacre](https://open.spotify.com/track/473ImsIIIX3XxE5fr79wQ3) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Massacre](https://open.spotify.com/album/2z3jdGl1joL7e7yhJLi9Nr) | 2:55 |
 | 50 | [GIVE IT ALL](https://open.spotify.com/track/4OW7SqwBNkooHCsvuyXitr) | [Nao](https://open.spotify.com/artist/1iIbF9CDPDhOXepmwAxQBi) | [GIVE IT ALL](https://open.spotify.com/album/1iWbZuj5XTGlomvGIfRA7M) | 3:14 |
 | 51 | [Drive](https://open.spotify.com/track/1SPy4rGHo1wvuy2sWoXBeY) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [Honest Work](https://open.spotify.com/album/5UTyEBgw9BLc0x7epz3ODc) | 2:46 |

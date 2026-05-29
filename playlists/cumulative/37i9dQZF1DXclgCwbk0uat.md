@@ -2,7 +2,7 @@
 
 ### [Éxitos Chile](https://open.spotify.com/playlist/37i9dQZF1DXclgCwbk0uat)
 
-> ¡Escucha los éxitos de hoy! <br/>Foto: Kidd Voodoo
+> ¡Escucha los éxitos de hoy! <br/>Foto: Ovy On The Drums, Blessd & Jere Klein
 
 619 songs - 1 day 9 hr 54 min
 

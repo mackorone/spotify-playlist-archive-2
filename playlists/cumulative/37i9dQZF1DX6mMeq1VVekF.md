@@ -2,9 +2,9 @@
 
 ### [Free Form](https://open.spotify.com/playlist/37i9dQZF1DX6mMeq1VVekF)
 
-> No tags, no labels \- just free form\. Cover: BaggE
+> No tags, no labels \- just free form\. Cover: Alewya
 
-560 songs - 1 day 4 hr 51 min
+561 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [FOCUS ON ME](https://open.spotify.com/track/1LpodNyRjXIxWKFC9GOSFF) | [ENILA](https://open.spotify.com/artist/67PhsrPljsn5Y8qffgXjml) | [FOCUS ON ME](https://open.spotify.com/album/6vybXpLwgbPxm2bzKcGyLr) | 2:58 | 2025-01-17 | 2025-03-07 |
 | [For Real](https://open.spotify.com/track/0B8o06qQQn02XvBYdhA2TY) | [Tenner](https://open.spotify.com/artist/19MGGHQ0gD7UgBVH1YMCR4) | [For Real](https://open.spotify.com/album/1bjruar59aZpTGGuba0Qbl) | 2:37 | 2024-10-10 | 2024-10-26 |
 | [Forward](https://open.spotify.com/track/5z83pxKCThXCgWfQLF2iyX) | [Lorenzorsv](https://open.spotify.com/artist/6ikQz0CCwjFMtT7Hzxn9mY), [Sophie DeMasi](https://open.spotify.com/artist/04T6bn9LSVviNkkR5YsDSS) | [Forward](https://open.spotify.com/album/51EaPRmLx0rPPykZdMiX40) | 3:39 | 2022-06-24 | 2022-07-19 |
-| [Found Love](https://open.spotify.com/track/5Puvc0yCAbWyz5qdTRIcJ0) | [Lylo Gold](https://open.spotify.com/artist/7eBQUbzafUptbgfThBl3dW) | [Lylo Land](https://open.spotify.com/album/1TNGZ5RPitdnsLEvC4GaFT) | 3:07 | 2026-02-13 |  |
+| [Found Love](https://open.spotify.com/track/5Puvc0yCAbWyz5qdTRIcJ0) | [Lylo Gold](https://open.spotify.com/artist/7eBQUbzafUptbgfThBl3dW) | [Lylo Land](https://open.spotify.com/album/1TNGZ5RPitdnsLEvC4GaFT) | 3:07 | 2026-02-13 | 2026-05-29 |
 | [Free My People \(feat\. Simmy & Kid Cruise\) \- The Streets Remix](https://open.spotify.com/track/6qFbRXLt0IN3M1HE5d7YPu) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Free My People \(The Streets Remix\)](https://open.spotify.com/album/3tsrF1lrccDppgj0mMi0HK) | 3:16 | 2022-06-24 | 2022-07-29 |
 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 | 2022-07-17 | 2024-10-04 |
 | [FU](https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [FU](https://open.spotify.com/album/0fxV0telSv7hzJxOoluSGZ) | 2:16 | 2023-11-24 | 2025-01-18 |
@@ -302,6 +302,7 @@
 | [Mafone](https://open.spotify.com/track/0YoEZvVZLE0HoVDMNWZ7PH) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [Mafone](https://open.spotify.com/album/6fqzzAnLj4amGX6xazjyCA) | 2:44 | 2024-11-22 | 2025-01-29 |
 | [Make a W \(feat\. Skrillex, AJ Tracey & BEAM\)](https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [The Last One](https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp) | 2:57 | 2024-06-27 | 2025-01-18 |
 | [Make U Go](https://open.spotify.com/track/5V6TcpbAtz5Q0HC0G6XJhF) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Make U Go](https://open.spotify.com/album/4lppAXoOGn4goUQZXs4xPn) | 3:34 | 2022-06-24 | 2022-07-27 |
+| [Maktoub](https://open.spotify.com/track/56DYNKo3QHkakqOUkWi3vl) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Maktoub](https://open.spotify.com/album/5lGNl6oIZCafJQKQYKWmpZ) | 2:41 | 2026-05-28 |  |
 | [Malicious Intentions](https://open.spotify.com/track/6scm1j3DHw8v3fQruA9q47) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Malicious Intentions](https://open.spotify.com/album/08yh5bvPQmWiBlLhFmk3ht) | 2:28 | 2024-04-26 | 2025-01-18 |
 | [Man](https://open.spotify.com/track/6CTgTVfaklG9mu9MmrPBzg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Man](https://open.spotify.com/album/0bzXKj3s2yc7QSrk6YfvwH) | 3:27 | 2025-03-07 | 2025-06-01 |
 | [maradona](https://open.spotify.com/track/4INCIqgzproTB7jZXFFFSQ) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [sand bebé](https://open.spotify.com/album/0MhHU4Blaj1SY1BKnxFBrS) | 2:56 | 2023-08-04 | 2023-08-19 |

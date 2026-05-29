@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 339375,
       "name": "1212",
       "url": "https://open.spotify.com/track/0bD0qaS4yV4VpBBmK3nm1U"
@@ -254,6 +254,28 @@
       "duration_ms": 392120,
       "name": "Acantilados",
       "url": "https://open.spotify.com/track/0LMmJ14i9xTdsbXDTe32fA"
+    },
+    {
+      "album": {
+        "name": "Acid Blue",
+        "url": "https://open.spotify.com/album/4n7QtAEaKXpiPUJG6JPp9o"
+      },
+      "artists": [
+        {
+          "name": "La Cintia",
+          "url": "https://open.spotify.com/artist/1fNABhEytJVAJtJJQaejiP"
+        },
+        {
+          "name": "Lobo Miro",
+          "url": "https://open.spotify.com/artist/6L9qtJJ5JmI0aELGiouEsA"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278139,
+      "name": "Acid Blue",
+      "url": "https://open.spotify.com/track/1EZomXbvLB83dVmLVy4btr"
     },
     {
       "album": {
@@ -1618,7 +1640,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 188160,
       "name": "DA-DA-DA - Radio Edit",
       "url": "https://open.spotify.com/track/7AMD0CKKfFnLAHiJjHF43W"
@@ -1864,7 +1886,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 268776,
       "name": "Discovery's",
       "url": "https://open.spotify.com/track/4DvTSZCc4aGhSLAk5y4AKb"
@@ -2336,7 +2358,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 433782,
       "name": "Everlong",
       "url": "https://open.spotify.com/track/7ybOmTVLV4I6ZwzyabBjZq"
@@ -3116,7 +3138,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 329523,
       "name": "HEY!",
       "url": "https://open.spotify.com/track/2cRNX2gFO9QhrcbhYMyoGZ"
@@ -3674,7 +3696,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 326557,
       "name": "Let's Talk",
       "url": "https://open.spotify.com/track/2urMoiu8biLlRt4J3lrvHW"
@@ -4787,6 +4809,28 @@
     },
     {
       "album": {
+        "name": "Ninjas",
+        "url": "https://open.spotify.com/album/1h4RxGD0BMRN2DlncH5o5H"
+      },
+      "artists": [
+        {
+          "name": "Juan Hansen",
+          "url": "https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo"
+        },
+        {
+          "name": "Cl\u00e9r Letiv",
+          "url": "https://open.spotify.com/artist/4aj7gkYulpQEUezufupMbc"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231437,
+      "name": "Ninjas",
+      "url": "https://open.spotify.com/track/5iafimeJTw6OcxPjPPonqR"
+    },
+    {
+      "album": {
         "name": "A La Deriva",
         "url": "https://open.spotify.com/album/7LwjG3xraK6w8krZpXfCun"
       },
@@ -5316,6 +5360,24 @@
       "duration_ms": 512000,
       "name": "Prana Vayu",
       "url": "https://open.spotify.com/track/3QknknkTXnwcy8gEOiTxQY"
+    },
+    {
+      "album": {
+        "name": "Psychodelia",
+        "url": "https://open.spotify.com/album/7HZtBu2TDf0IR0tPUDtEr7"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Arias",
+          "url": "https://open.spotify.com/artist/6GyqhF3pwKcbo3U3Ncm8TJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270287,
+      "name": "Psychodelia",
+      "url": "https://open.spotify.com/track/0ZbpTAMMw5DyT4fQJ76qlq"
     },
     {
       "album": {
@@ -6061,6 +6123,28 @@
     },
     {
       "album": {
+        "name": "Virus Remixes x Mariano Mellino",
+        "url": "https://open.spotify.com/album/0ZHF3KTosZVK9GeafFtTDO"
+      },
+      "artists": [
+        {
+          "name": "Mariano Mellino",
+          "url": "https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE"
+        },
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397801,
+      "name": "Sin Disfraz (Mariano Mellino Remix)",
+      "url": "https://open.spotify.com/track/3oKziXaTWnggt8QoxLmKYQ"
+    },
+    {
+      "album": {
         "name": "Smoothy",
         "url": "https://open.spotify.com/album/0bXhaJCdZZTSaZxMjBbWMm"
       },
@@ -6232,7 +6316,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 261818,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/0U6S5b94d8ZSgTct8N14pL"

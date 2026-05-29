@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Creadores que necesitas tener en el RADAR\. En la portada: <a href="spotify:show:1Rd6XqtD2PNcs599lgCaqn">Las Desencantadas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,010 likes - 9 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,008 likes - 9 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-488 songs - 1 day 3 hr 21 min
+489 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Astrifer](https://open.spotify.com/track/66NCwHAAArMOhD6aduLl6g) | [IDŌL](https://open.spotify.com/artist/3nmBN4kK0iZ0yoYymH7RMS) | [Spectra](https://open.spotify.com/album/0dRFvEUEt5gg9u4TVhLJpe) | 4:08 | 2025-11-08 | 2025-12-01 |
 | [Autumn Fall](https://open.spotify.com/track/1bm4evNgnGNc6TkrW5coXx) | [Legends of the Seven Golden Vampires](https://open.spotify.com/artist/5MWBriMQP4x8AeTN48ErdZ) | [Autumn Fall](https://open.spotify.com/album/7x7BkLrEek3R6ekBdB6mrB) | 2:56 | 2025-12-30 | 2026-01-25 |
 | [Autumn in the Storm](https://open.spotify.com/track/0tB90dlegD2EegT7EE2Bii) | [Breathing Tales](https://open.spotify.com/artist/2ZFi7bp6R1cFiPxT0Q7P0I) | [Autumn in the Storm](https://open.spotify.com/album/0PEP2Y4dCNhnc71M1SC8zo) | 2:32 | 2026-02-27 |  |
+| [Autumn Leaves](https://open.spotify.com/track/7qOWu0a7bzpYNk4yEju09S) | [Bonolo Solomon](https://open.spotify.com/artist/4kaNxQusxlke6nfnusb2fT) | [Autumn Leaves](https://open.spotify.com/album/2ZQfxyOz4pBWHrJdlp7yJL) | 3:11 | 2026-05-28 |  |
 | [Avatar](https://open.spotify.com/track/4jvDddu5cVPq4ogsmSEeQ9) | [Svend48](https://open.spotify.com/artist/5u4b2A5VnjVTMzNxs5QhCc) | [Avatar](https://open.spotify.com/album/3rNkFTNqKvXFpiOB70Mb1f) | 4:28 | 2025-12-26 | 2026-01-15 |
 | [Awhile Longer](https://open.spotify.com/track/2oIeeJEISUZqeEy0tP1KFV) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 4:21 | 2025-12-09 | 2026-01-05 |
 | [Back 2 Back](https://open.spotify.com/track/7K02ichOW2ETR9CpgGe66n) | [Flav Gabry](https://open.spotify.com/artist/6HnknQDdmkAh8IIr2Z6rh5), [Slim Spitta](https://open.spotify.com/artist/5nfwr1v0kuonRC9Vnb573t) | [Back 2 Back](https://open.spotify.com/album/57YaD8D6CT5lTgC1Im14S2) | 4:24 | 2026-03-05 | 2026-05-26 |

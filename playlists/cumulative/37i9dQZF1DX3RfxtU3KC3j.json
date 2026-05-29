@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: Yang\u0131n",
+  "description": "Gitar ve davulu konu\u015fturanlar. \ud83c\udfb8 Kapak: OD Band",
   "name": "T\u00fcrk\u00e7e Rock",
   "tracks": [
+    {
+      "album": {
+        "name": "1560 I\u015f\u0131k Y\u0131l\u0131",
+        "url": "https://open.spotify.com/album/1v4Z4NUg6LdYBpDPjePClJ"
+      },
+      "artists": [
+        {
+          "name": "Asimptot",
+          "url": "https://open.spotify.com/artist/2O2aAFx3fTTbuQ4wTIOFjj"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243340,
+      "name": "1560 I\u015f\u0131k Y\u0131l\u0131",
+      "url": "https://open.spotify.com/track/5NyKRCbFWHvzgomCAApAqM"
+    },
     {
       "album": {
         "name": "3am.",
@@ -200,7 +218,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 282186,
       "name": "Ah Bir Ata\u015f Ver - P\u00fcr Cunda Live Sessions",
       "url": "https://open.spotify.com/track/20l0FMdAbz4yxTCBBEPg66"
@@ -688,6 +706,24 @@
       "duration_ms": 284706,
       "name": "Ayna",
       "url": "https://open.spotify.com/track/7c41x3xVfKZyI6bOEWCtQy"
+    },
+    {
+      "album": {
+        "name": "AYNALAR",
+        "url": "https://open.spotify.com/album/69lS36UgyAgkRRQ0m5VWvk"
+      },
+      "artists": [
+        {
+          "name": "Yi\u011fit Sefero\u011flu",
+          "url": "https://open.spotify.com/artist/23PyUBxakP5fM83oPh8Alc"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "AYNALAR",
+      "url": "https://open.spotify.com/track/21n9PfCOjLrsMk7SA4Poj7"
     },
     {
       "album": {
@@ -1240,7 +1276,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 170928,
       "name": "Bana Hi\u00e7 Gerek Yok",
       "url": "https://open.spotify.com/track/6C1KUL8IhC3hk9ktDQ5tWt"
@@ -2026,7 +2062,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 204900,
       "name": "Bi Garip D\u00fcnya",
       "url": "https://open.spotify.com/track/1bRov6FxNgEu7fx4VDB8Hc"
@@ -2228,6 +2264,24 @@
       "duration_ms": 158400,
       "name": "Bir F\u0131s\u0131lt\u0131",
       "url": "https://open.spotify.com/track/4s44Ju8PGjXFe7Zmy0sUvW"
+    },
+    {
+      "album": {
+        "name": "Bir \u0130leri \u0130ki Geri",
+        "url": "https://open.spotify.com/album/4pjoK89dbpAyDurqYKslvM"
+      },
+      "artists": [
+        {
+          "name": "Mert Ersoy",
+          "url": "https://open.spotify.com/artist/6wTQzmpWaT2cGbrNyzPXrt"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187846,
+      "name": "Bir \u0130leri \u0130ki Geri",
+      "url": "https://open.spotify.com/track/6CY5k9yN4SM5VlOCLuLJq9"
     },
     {
       "album": {
@@ -3520,7 +3574,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 244848,
       "name": "Diri Diri",
       "url": "https://open.spotify.com/track/4x52p0CL4Zj4kkzOBO7RLr"
@@ -4112,7 +4166,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 172723,
       "name": "egoist",
       "url": "https://open.spotify.com/track/5ROw0NuZl4sK9YITvJIFeQ"
@@ -4206,6 +4260,24 @@
       "duration_ms": 209540,
       "name": "Elmaskum",
       "url": "https://open.spotify.com/track/50VnD5JGOvVHvc9EEcAXi9"
+    },
+    {
+      "album": {
+        "name": "Emin\u00f6n\u00fc",
+        "url": "https://open.spotify.com/album/7zwvKMvYsO6xUvnTDOmZnf"
+      },
+      "artists": [
+        {
+          "name": "OD Band",
+          "url": "https://open.spotify.com/artist/4jT7a6Eq3mnAxfboEQLvzL"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231592,
+      "name": "Emin\u00f6n\u00fc",
+      "url": "https://open.spotify.com/track/7p1xZbbjlmkxzXB9QYdJZm"
     },
     {
       "album": {
@@ -5370,7 +5442,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 255500,
       "name": "g\u00f6rmedin - live",
       "url": "https://open.spotify.com/track/7s5HXZMFaC64qLNHUKcJUD"
@@ -6287,6 +6359,24 @@
     },
     {
       "album": {
+        "name": "Hergele",
+        "url": "https://open.spotify.com/album/1BHp91hK2XhpHFcKTHS5cF"
+      },
+      "artists": [
+        {
+          "name": "GAM",
+          "url": "https://open.spotify.com/artist/3z0KzX1KxWiLLdYeFJsacf"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148290,
+      "name": "Hergele",
+      "url": "https://open.spotify.com/track/3vfCWHtZaxF7NKSo0eI6ax"
+    },
+    {
+      "album": {
         "name": "Herkes Mi Terk Etmi\u015f",
         "url": "https://open.spotify.com/album/1eF5O0hq0Q1j1ELgLm6vct"
       },
@@ -6936,7 +7026,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 166551,
       "name": "\u0130yi Ki Var - Live",
       "url": "https://open.spotify.com/track/4jJuacQsbxwtk2gxgzFUvB"
@@ -7026,7 +7116,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 198559,
       "name": "\u0130\u015fte \u00d6yle Bir \u015eey (Talu \u015eark\u0131lar\u0131)",
       "url": "https://open.spotify.com/track/2IGwUXuccvTqBHkCUrt5ex"
@@ -7160,6 +7250,24 @@
       "duration_ms": 159706,
       "name": "Kalk Aya\u011fa",
       "url": "https://open.spotify.com/track/38GBhFHE4LtG6a9E3yJwoI"
+    },
+    {
+      "album": {
+        "name": "Kalk Aya\u011fa T\u00fcrkiye'm",
+        "url": "https://open.spotify.com/album/2srAmhtCsdGyqooOtcnQfH"
+      },
+      "artists": [
+        {
+          "name": "Pera",
+          "url": "https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184736,
+      "name": "Kalk Aya\u011fa T\u00fcrkiye'm",
+      "url": "https://open.spotify.com/track/0FgHgh2MYBG7gMoVzTo2qR"
     },
     {
       "album": {
@@ -8616,6 +8724,24 @@
       "duration_ms": 198755,
       "name": "Mah\u015ferinde Yan \u0130n\u015fallah",
       "url": "https://open.spotify.com/track/4trd3RKabL3IkoY5okF5Fu"
+    },
+    {
+      "album": {
+        "name": "Makinist",
+        "url": "https://open.spotify.com/album/30kqI1UQFMu5lNEAZPZXi8"
+      },
+      "artists": [
+        {
+          "name": "Dalgak\u0131ran",
+          "url": "https://open.spotify.com/artist/7vBbFZP3e28NENy44RxRlq"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281965,
+      "name": "Makinist",
+      "url": "https://open.spotify.com/track/39fQNfRgXYmMSomXoilV10"
     },
     {
       "album": {
@@ -10880,6 +11006,24 @@
       "duration_ms": 230080,
       "name": "Sivas'tan \u00c7\u0131km\u0131\u015f Yola - Alternatif Performans",
       "url": "https://open.spotify.com/track/2CF37RyGHvvZovVH5m06jz"
+    },
+    {
+      "album": {
+        "name": "Sktr Et",
+        "url": "https://open.spotify.com/album/6GeB6bMjPoDrBrEnZftpUF"
+      },
+      "artists": [
+        {
+          "name": "Yakup",
+          "url": "https://open.spotify.com/artist/2whj83JLtxpbUQXJPAcgMR"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281806,
+      "name": "Sktr Et",
+      "url": "https://open.spotify.com/track/1RJDeGafXlScU1rgceBoIG"
     },
     {
       "album": {
@@ -13254,7 +13398,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 170891,
       "name": "Yine De \u015eark\u0131 S\u00f6yleyesim Var",
       "url": "https://open.spotify.com/track/51vNmyXaHzrQEUlP8OnpdL"

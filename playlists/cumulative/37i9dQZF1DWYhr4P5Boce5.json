@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "#YOUTHEONE",
+        "url": "https://open.spotify.com/album/3UlpsQZyqK7utqJRHjlZVX"
+      },
+      "artists": [
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189959,
+      "name": "#YOUTHEONE",
+      "url": "https://open.spotify.com/track/3cLrK4vOz2WRMDPeaAimx0"
+    },
+    {
+      "album": {
         "name": "2nd Happy",
         "url": "https://open.spotify.com/album/4qo16UyarKgPkXdSZkNK0s"
       },
@@ -1004,7 +1022,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 180000,
       "name": "COME MY WAY",
       "url": "https://open.spotify.com/track/0yx037HdsRNA6x8eMPMCmI"

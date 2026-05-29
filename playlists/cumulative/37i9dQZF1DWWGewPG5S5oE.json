@@ -8715,6 +8715,24 @@
     },
     {
       "album": {
+        "name": "What's Jazz?",
+        "url": "https://open.spotify.com/album/5GW95rSagVACs0kKCaoinN"
+      },
+      "artists": [
+        {
+          "name": "akiko",
+          "url": "https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218410,
+      "name": "What's Jazz?",
+      "url": "https://open.spotify.com/track/2n9Ndl8UOMzAzkqLkFtlFY"
+    },
+    {
+      "album": {
         "name": "Beauty And Funky",
         "url": "https://open.spotify.com/album/3UihgxiHq3bvjCRvcP3hgJ"
       },

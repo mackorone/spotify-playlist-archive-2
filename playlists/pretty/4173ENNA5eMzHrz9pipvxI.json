@@ -1,12 +1,12 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: AVE",
-  "num_followers": 118321,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Joshua Robbie, Dawty, Preston Harris and Trxnz",
+  "num_followers": 118322,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAhfI9YgxWaiuHt6iRV8+/GDrvtZioU",
+  "snapshot_id": "AAAhf+SXRdhYGysjJsV6SZ4cvfwjGjWR",
   "tracks": [
     {
       "added_at": "2026-05-21 13:16:09",
@@ -83,6 +83,42 @@
       "duration_ms": 188913,
       "name": "Abasazi",
       "url": "https://open.spotify.com/track/3r8exiq2w9lU0A2rL5snyU"
+    },
+    {
+      "added_at": "2026-05-28 22:00:03",
+      "album": {
+        "name": "Light The Dark",
+        "url": "https://open.spotify.com/album/6kNwG8lztYVQrTV1WSv64K"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 230068,
+      "name": "Light The Dark",
+      "url": "https://open.spotify.com/track/3akwYNZtA2mMh0vPvodjSC"
+    },
+    {
+      "added_at": "2026-05-28 22:00:04",
+      "album": {
+        "name": "Touching Myself",
+        "url": "https://open.spotify.com/album/4AC3mwRM8sMKZg4rRJzpJi"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        },
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        }
+      ],
+      "duration_ms": 206838,
+      "name": "Touching Myself",
+      "url": "https://open.spotify.com/track/7KoMYV6oP8wixP7YOrOwIU"
     },
     {
       "added_at": "2026-05-21 13:16:12",

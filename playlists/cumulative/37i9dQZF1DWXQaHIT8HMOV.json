@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Homegrown Ugandan gems in one playlist. Cover: Anko Ronie",
+  "description": "Homegrown Ugandan gems in one playlist. Cover: Blu 3",
   "name": "Made In Uganda",
   "tracks": [
     {
@@ -72,7 +72,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 247578,
       "name": "Abaana Bawoo",
       "url": "https://open.spotify.com/track/3AIPw8MnqrBZ4vSxhug2CC"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 211043,
       "name": "Chikicha",
       "url": "https://open.spotify.com/track/14BZpV8OgaPsWkX1NtEbCt"
@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 191020,
       "name": "Critical Condition",
       "url": "https://open.spotify.com/track/7CEHx11zkiSMrz784e1e0e"
@@ -4385,6 +4385,28 @@
     },
     {
       "album": {
+        "name": "Kabi Danger",
+        "url": "https://open.spotify.com/album/5BLmOUFQZ30axb8EmhzKQC"
+      },
+      "artists": [
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/2PiQiMIqY2BvV8noRlZq8L"
+        },
+        {
+          "name": "Aaronx",
+          "url": "https://open.spotify.com/artist/0xugx9prgn4pE8t7iZNk2W"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175229,
+      "name": "Kabi Danger",
+      "url": "https://open.spotify.com/track/2VSL6C3wGCwl5SB6u6AOyv"
+    },
+    {
+      "album": {
         "name": "Kagoma Kalubendela",
         "url": "https://open.spotify.com/album/3C6hWo0Ui6F3sS1yH9VoyO"
       },
@@ -4400,7 +4422,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 157580,
       "name": "Kagoma Kalubendela",
       "url": "https://open.spotify.com/track/6oNynWOffsleuOqPkZJIuv"
@@ -5645,6 +5667,28 @@
     },
     {
       "album": {
+        "name": "Many Girls (Short Edit)",
+        "url": "https://open.spotify.com/album/2vi15wJNcNJ6Zf4yYZAs2r"
+      },
+      "artists": [
+        {
+          "name": "Aspino Boy",
+          "url": "https://open.spotify.com/artist/2OHkBAJxR1IDT0NGPH3nyw"
+        },
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197391,
+      "name": "Many Girls (Short Edit)",
+      "url": "https://open.spotify.com/track/4S8JGbD95akiPM6aeC5bRw"
+    },
+    {
+      "album": {
         "name": "MariaRoza (Amapiano Version)",
         "url": "https://open.spotify.com/album/61YzhxcyHNmFmcpN7KQn3d"
       },
@@ -6051,6 +6095,24 @@
     },
     {
       "album": {
+        "name": "Moto",
+        "url": "https://open.spotify.com/album/6sR25UDBq3j5Htck3jz67k"
+      },
+      "artists": [
+        {
+          "name": "BLU 3",
+          "url": "https://open.spotify.com/artist/1Mh9FYQxIQVCw73k5OLiYC"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187259,
+      "name": "Moto",
+      "url": "https://open.spotify.com/track/6h1MhPXXOtyOQcizOoo3xB"
+    },
+    {
+      "album": {
         "name": "Mpakasa",
         "url": "https://open.spotify.com/album/0IJXotvomhn59wnb0g7u3v"
       },
@@ -6084,7 +6146,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 225000,
       "name": "Mpeke",
       "url": "https://open.spotify.com/track/4qwAAODLtRAqWANUwvRSBw"
@@ -6803,6 +6865,24 @@
     },
     {
       "album": {
+        "name": "Neza",
+        "url": "https://open.spotify.com/album/0bE4zwJdflAQtPIB2VILRk"
+      },
+      "artists": [
+        {
+          "name": "ALLAN TONIKS",
+          "url": "https://open.spotify.com/artist/5uLEt18awSsO8Ne5gkxM9s"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137755,
+      "name": "Neza",
+      "url": "https://open.spotify.com/track/0Ta7Ydo9mTuoJDLzOheCAu"
+    },
+    {
+      "album": {
         "name": "Nfa",
         "url": "https://open.spotify.com/album/4eh4a2glfPoGKT9tXk8paz"
       },
@@ -6832,7 +6912,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 172000,
       "name": "Ng'etaala",
       "url": "https://open.spotify.com/track/3qcknbyl0KCy4XzftduXSj"
@@ -6868,7 +6948,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 212210,
       "name": "Nia Long",
       "url": "https://open.spotify.com/track/3KOg5LXf4JwptYOyYND62o"
@@ -6962,7 +7042,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 162429,
       "name": "Njagala Okulya",
       "url": "https://open.spotify.com/track/3dGLHTp2QcA3kCmq9duRvS"
@@ -7002,7 +7082,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 178144,
       "name": "Nkisusamu",
       "url": "https://open.spotify.com/track/3QUyCTyxXSB4egQhLa45gZ"
@@ -7206,6 +7286,28 @@
       "duration_ms": 207157,
       "name": "Not Letting Go",
       "url": "https://open.spotify.com/track/2gfo0P6XYQeK5ePy7cV3jk"
+    },
+    {
+      "album": {
+        "name": "Not Promised",
+        "url": "https://open.spotify.com/album/0yBKOwprB3gPSHAVOlQGVq"
+      },
+      "artists": [
+        {
+          "name": "Nana Nyadia",
+          "url": "https://open.spotify.com/artist/2SzY2nJnBs8mzh2jgqOmdL"
+        },
+        {
+          "name": "Single Dee",
+          "url": "https://open.spotify.com/artist/0LdU0es3lHGS7TKbqouK8U"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Not Promised",
+      "url": "https://open.spotify.com/track/0EIkpGCUbsdbfelE8mZKsq"
     },
     {
       "album": {
@@ -7541,6 +7643,28 @@
     },
     {
       "album": {
+        "name": "Nzigulawo II",
+        "url": "https://open.spotify.com/album/3ic31cwPvzbVPoEVAsELth"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        },
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182448,
+      "name": "Nzigulawo II",
+      "url": "https://open.spotify.com/track/3dbaGmJXWA6JZAOa6Xny0g"
+    },
+    {
+      "album": {
         "name": "Nzikiriza",
         "url": "https://open.spotify.com/album/36Ux9nRTO5VFGYQYdO2kAq"
       },
@@ -7604,6 +7728,24 @@
       "duration_ms": 146399,
       "name": "Obinkola",
       "url": "https://open.spotify.com/track/69UyO55KUY7xMsuEmj6nlY"
+    },
+    {
+      "album": {
+        "name": "Obukya Buziba",
+        "url": "https://open.spotify.com/album/5vCJ27NW5seuPzLG526Ler"
+      },
+      "artists": [
+        {
+          "name": "Jenesis Kimera",
+          "url": "https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Obukya Buziba",
+      "url": "https://open.spotify.com/track/6ySvbriTe1oFF5G83pUTwR"
     },
     {
       "album": {
@@ -7742,7 +7884,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 171840,
       "name": "Omubiri",
       "url": "https://open.spotify.com/track/6NelawHXpg5yMvoNPtuJrK"
@@ -9107,6 +9249,28 @@
     },
     {
       "album": {
+        "name": "Sexy gyal dem",
+        "url": "https://open.spotify.com/album/6h1a0up3jvHarRduRRP3Bg"
+      },
+      "artists": [
+        {
+          "name": "Ole Jiggy",
+          "url": "https://open.spotify.com/artist/2JIUGq2D2BEbTCuRiLcBwS"
+        },
+        {
+          "name": "Latimil",
+          "url": "https://open.spotify.com/artist/4XQC1vB0lGgRqh1lpEqs0r"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153469,
+      "name": "Sexy gyal dem",
+      "url": "https://open.spotify.com/track/5tqRJWaKrB7G8K7UOy2Pmc"
+    },
+    {
+      "album": {
         "name": "Shabada",
         "url": "https://open.spotify.com/album/2v5MZK7ZOZLOTMfVkZUrYs"
       },
@@ -9727,6 +9891,28 @@
     },
     {
       "album": {
+        "name": "Sweet Love",
+        "url": "https://open.spotify.com/album/2j2J9yxrWobWOvI8hpC0DF"
+      },
+      "artists": [
+        {
+          "name": "TAREL TALA",
+          "url": "https://open.spotify.com/artist/7kT8UnxPBFJnPrktaiTEFc"
+        },
+        {
+          "name": "Heavy Cane",
+          "url": "https://open.spotify.com/artist/4QU2tUvCM07X05YlZpwJiY"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205142,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/10DHPa1qlle1hALfwD5cnm"
+    },
+    {
+      "album": {
         "name": "Sweetheart",
         "url": "https://open.spotify.com/album/1BFWzqIpLQa7jA7hjUtPcB"
       },
@@ -10228,6 +10414,24 @@
       "duration_ms": 159839,
       "name": "Time",
       "url": "https://open.spotify.com/track/2tFGCKW58iD8WK8J9e3G2I"
+    },
+    {
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/1tStg4qzMtOw1E4RsGjx1c"
+      },
+      "artists": [
+        {
+          "name": "Gloria Bugie",
+          "url": "https://open.spotify.com/artist/73fzrko85oNtIAE0jTTnuY"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132433,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/7rRhIg39Y3mbP5iK52u5fd"
     },
     {
       "album": {

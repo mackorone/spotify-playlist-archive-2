@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Laurie Berkner & MC Grammar
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,736 likes - 100 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,748 likes - 100 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 30 | [Time To Come Together \- DJ Pon\-3's Version](https://open.spotify.com/track/15tZdmr2lb3K18CpiGoCDX) | [Fluttershy](https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM), [DJ Pon\-3](https://open.spotify.com/artist/6Oi2Qrnn3uBHiQgNZk9qen), [Mona Rue](https://open.spotify.com/artist/15lMav195dBJKGtRHPTWVw) | [DJ Pon\-3 Presents: Fluttershy](https://open.spotify.com/album/7bcPS2x2Qe6cMPGBYxPy11) | 2:07 |
 | 31 | [Around The World](https://open.spotify.com/track/6me6zuY2OeJ4Q8iRQ00NaV) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Around The World](https://open.spotify.com/album/50g9APe7F5o5yR9UHW2HZ4) | 1:58 |
 | 32 | [Find Shapes Everywhere](https://open.spotify.com/track/5dIczbNi43ayE5lyk0jEb1) | [Fisher\-Price](https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Ring Ring! Dance and Sing! – Flip Phone](https://open.spotify.com/album/44mkPrUEbsqCCpYhbwVNFi) | 1:25 |
-| 33 | [S\-H\-A\-R\-K Toy Car Family](https://open.spotify.com/track/3yp9P1J045n6Ed4ZvycfNl) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Baby Shark's Toy Car Town](https://open.spotify.com/album/4kuunkOH1a4poP4wUt2LS7) | 3:06 |
+| 33 | [S\-H\-A\-R\-K Toy Car Family](https://open.spotify.com/track/3yp9P1J045n6Ed4ZvycfNl) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Baby Shark's Toy Car Town](https://open.spotify.com/album/4kuunkOH1a4poP4wUt2LS7) | 3:07 |
 | 34 | [La Bamba](https://open.spotify.com/track/7M2Zl58TQyu4g99gjV0CV9) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [La Bamba](https://open.spotify.com/album/69ZynQ1b1qHKQ8AKEUB4vo) | 1:59 |
 | 35 | [Evie's Ready for Nappy Pants](https://open.spotify.com/track/6s7kSOZ6QULJEzYuUszGu6) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Evie's Ready For Nappy Pants!](https://open.spotify.com/album/22EHdTgoccYSKrVq2ZM4a5) | 2:28 |
 | 36 | [I'm a Baby Fish](https://open.spotify.com/track/1d0j6RlY6AeDctHwwG3ynb) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [I'm a Baby Fish](https://open.spotify.com/album/4XQl3gGcqztC8nSzonUqd4) | 3:31 |

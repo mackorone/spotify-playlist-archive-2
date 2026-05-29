@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6h7s1SXA0eN.md) - [plain]
 
 > <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>' favorite tracks\. Updated regularly\. Curated by Catz 'n Dogz\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,236 likes - 40 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,234 likes - 40 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6h7s1SXA0eN.md) - [plain]
 | 10 | [Salt Ache City](https://open.spotify.com/track/5zHKbr6pO1lEARA3rezwaz) | [Ocsav](https://open.spotify.com/artist/5RPOIxzCtoKbOTKcEGprHx) | [Salt Ache City](https://open.spotify.com/album/3dCSb51q2eGiNoPvVtPbzk) | 3:30 |
 | 11 | [The Story Behind](https://open.spotify.com/track/4vGCn4GY1qhQFzREzW5mf3) | [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3), [OVEOUS](https://open.spotify.com/artist/5AnuYnFCVs0mK7rbcvIiBc) | [The Story Behind](https://open.spotify.com/album/6X5ZjpVbf9gHPmPv6Znblv) | 3:29 |
 | 12 | [Reach Out To Me \- Paul Woolford Remix](https://open.spotify.com/track/2rzrCPsbOR30OcVutlUn36) | [Karen Pollard](https://open.spotify.com/artist/1xfs3EntD8t8AQc2EQixnB), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Reach Out To Me \(Paul Woolford x Special Request 2025 Remixes\)](https://open.spotify.com/album/6ZVqZJfQ9oQ48fI6SYPalE) | 3:59 |
-| 13 | [Can Loca](https://open.spotify.com/track/40cApF8G8Qs9B9QVG8JqlV) | [ary:eh](https://open.spotify.com/artist/1g9QJsKgMuZnw8Ef3Vr7WD) | [Can Loca](https://open.spotify.com/album/2PadP8KOEFnYB7pwVegaX6) | 5:37 |
+| 13 | [Can Loca](https://open.spotify.com/track/40cApF8G8Qs9B9QVG8JqlV) | [aryeh](https://open.spotify.com/artist/1g9QJsKgMuZnw8Ef3Vr7WD) | [Can Loca](https://open.spotify.com/album/2PadP8KOEFnYB7pwVegaX6) | 5:37 |
 | 14 | [I See You Baby \- Austin Ato Extended Remix](https://open.spotify.com/track/12DuROg5ytFdREuQDrVwtT) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [Gramma Funk](https://open.spotify.com/artist/09dzhikZDQAWGs8jyIylqj), [Austin Ato](https://open.spotify.com/artist/6sCrZwNbMhp1iahiiFQY66) | [Remixed](https://open.spotify.com/album/0zHKHW6eSeMQDnoI3lp5fN) | 5:47 |
 | 15 | [All Night](https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:34 |
 | 16 | [Bring It Back](https://open.spotify.com/track/2H7BfJp5ojXhCdOMt161CR) | [Bora Uzer](https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge), [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Bring It Back](https://open.spotify.com/album/1cGeLMbKgiahLK6fiIswg5) | 3:23 |

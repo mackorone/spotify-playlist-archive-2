@@ -1,6 +1,6 @@
 {
   "description": "Melodik T\u00fcrk\u00e7e \u015fark\u0131larla yaz boyu sahildesin \ud83c\udfd6\ufe0f",
-  "num_followers": 114237,
+  "num_followers": 114234,
   "original_name": "K\u0131y\u0131 Boyu",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2025-07-10 21:06:57",
       "album": {
-        "name": "Sen Istersin",
-        "url": "https://open.spotify.com/album/3djhTR4KzzVaYfRXusCjv5"
-      },
-      "artists": [
-        {
-          "name": "Sedef Seb\u00fcktekin",
-          "url": "https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l"
-        },
-        {
-          "name": "Canozan",
-          "url": "https://open.spotify.com/artist/6Ql42BcxhVv8vG1ML7fRgs"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Sen Istersin",
-      "url": "https://open.spotify.com/track/1wMvP4KuZOcA3kum0TE6x6"
-    },
-    {
-      "added_at": "2025-07-10 21:06:57",
-      "album": {
         "name": "Ele G\u00fcne Kar\u015f\u0131 Yapayaln\u0131z",
         "url": "https://open.spotify.com/album/0NyY9YsGb9YniAs5h6Eva4"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 218761,
       "name": "Yosun - Ayta\u00e7 Kart Remix",
       "url": "https://open.spotify.com/track/0UVorGN8jZe7RMgTq6RzXJ"
+    },
+    {
+      "added_at": "2025-07-10 21:06:57",
+      "album": {
+        "name": "Sen Istersin",
+        "url": "https://open.spotify.com/album/3djhTR4KzzVaYfRXusCjv5"
+      },
+      "artists": [
+        {
+          "name": "Sedef Seb\u00fcktekin",
+          "url": "https://open.spotify.com/artist/1dvuibBCx9TnbCKIdOEF4l"
+        },
+        {
+          "name": "Canozan",
+          "url": "https://open.spotify.com/artist/6Ql42BcxhVv8vG1ML7fRgs"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Sen Istersin",
+      "url": "https://open.spotify.com/track/1wMvP4KuZOcA3kum0TE6x6"
     },
     {
       "added_at": "2025-07-10 21:06:57",

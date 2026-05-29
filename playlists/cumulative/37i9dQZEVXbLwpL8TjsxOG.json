@@ -6184,7 +6184,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -12494,7 +12494,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 200011,
       "name": "On a SunnyDay",
       "url": "https://open.spotify.com/track/6PKraUz7pKyBqyeI2B7A0y"
@@ -18278,7 +18278,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
       "url": "https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k"
@@ -18300,7 +18300,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 174000,
       "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
       "url": "https://open.spotify.com/track/6QkyFjUMmncXzu6oSWKwHQ"
@@ -21322,6 +21322,24 @@
       "duration_ms": 266292,
       "name": "\u5230\u5e95\u767c\u751f\u904e\u4ec0\u9ebc\u4e8b (feat. \u516b\u4e09\u592d)",
       "url": "https://open.spotify.com/track/5xzGrWbHvP8Qt5X4vzdlrN"
+    },
+    {
+      "album": {
+        "name": "Movin' On",
+        "url": "https://open.spotify.com/album/7nHF8Dnh6gK9vnwXvpNcnp"
+      },
+      "artists": [
+        {
+          "name": "Shiga Lin",
+          "url": "https://open.spotify.com/artist/5Uw3hCC51pNjdsD2MOs72K"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261571,
+      "name": "\u5230\u6b64\u70ba\u6b62",
+      "url": "https://open.spotify.com/track/0hKkGlDhaef5OPrXfc8Idx"
     },
     {
       "album": {
@@ -25192,7 +25210,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 265121,
       "name": "\u6c92\u6709\u7fc5\u8180\u7684\u5929\u4f7f",
       "url": "https://open.spotify.com/track/4JgANNfSO7liTvGAUHJwOP"
@@ -25300,7 +25318,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 227542,
       "name": "\u6d41\u6d6a\u661f\u7403",
       "url": "https://open.spotify.com/track/7rJDyMalhenvCV4uwxL1fl"
@@ -26188,7 +26206,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 182588,
       "name": "\u767d\u679c",
       "url": "https://open.spotify.com/track/7rDG7qFA42Zx6oan6hua2q"
@@ -27400,7 +27418,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 182862,
       "name": "\u82b1\u908a\u7d30\u80de",
       "url": "https://open.spotify.com/track/6IsPYRqlNhhVLr9o3jWquT"
@@ -29058,7 +29076,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 219385,
       "name": "\u9ed1\u73bb\u7483",
       "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"

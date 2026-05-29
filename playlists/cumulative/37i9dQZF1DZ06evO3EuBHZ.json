@@ -3394,7 +3394,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 124506,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/61ChIhjgqnw9Qxw5GvunMR"
@@ -3416,6 +3416,24 @@
       "duration_ms": 125191,
       "name": "They Call Me Big Mama",
       "url": "https://open.spotify.com/track/2i2whoANAvSNNPCmtnvsvH"
+    },
+    {
+      "album": {
+        "name": "Hound Dog - The Essential Collection",
+        "url": "https://open.spotify.com/album/7AX4dOBsgMfBeNewikf2X4"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122200,
+      "name": "They Call Me Big Mama - Single Version",
+      "url": "https://open.spotify.com/track/2OA4F3q6JcnacHjLmOf9gI"
     },
     {
       "album": {
@@ -3818,7 +3836,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 163866,
       "name": "You Don't Move Me No More",
       "url": "https://open.spotify.com/track/6hLAZpaUTEz80mH14TVkcL"

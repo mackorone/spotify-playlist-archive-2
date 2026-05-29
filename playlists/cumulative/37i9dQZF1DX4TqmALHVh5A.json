@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Camille Yembe",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Nava",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -839,6 +839,24 @@
     },
     {
       "album": {
+        "name": "BLACKLIST",
+        "url": "https://open.spotify.com/album/09ipFW8fgvdWVRc2i2Seg0"
+      },
+      "artists": [
+        {
+          "name": "Venus VNR",
+          "url": "https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205870,
+      "name": "BLACKLIST",
+      "url": "https://open.spotify.com/track/5DtUbvhnCMURX7UZZmrcX0"
+    },
+    {
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/1vmKg53JyZ1NJy0cFOmrYv"
       },
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 123809,
       "name": "ch\u00e2teau en ruines",
       "url": "https://open.spotify.com/track/3L3WgfJLLHkFXbxB4BC7fi"
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 141000,
       "name": "ENFANT DE MA VILLE!",
       "url": "https://open.spotify.com/track/3whgxWUjaF4v1xMqk0V0fF"
@@ -2881,6 +2899,24 @@
     },
     {
       "album": {
+        "name": "Havane Maria",
+        "url": "https://open.spotify.com/album/4BHcv1OvSgNYfwF7M8xxMf"
+      },
+      "artists": [
+        {
+          "name": "Nico Dey",
+          "url": "https://open.spotify.com/artist/5eusXlmNDIZhcQoPM3RPxg"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262403,
+      "name": "Havane Maria",
+      "url": "https://open.spotify.com/track/65bloVpbHiOcciWSydjnK1"
+    },
+    {
+      "album": {
         "name": "heureux comme un roi",
         "url": "https://open.spotify.com/album/1n4eKxMP5wpOkqtewYhmvm"
       },
@@ -3264,7 +3300,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 128706,
       "name": "J'aime",
       "url": "https://open.spotify.com/track/3zN3jMba9k9hMyI5szCahc"
@@ -3650,7 +3686,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 140392,
       "name": "Je trace",
       "url": "https://open.spotify.com/track/2eTOkhL8ug3czviQ3tzTRF"
@@ -4797,6 +4833,24 @@
     },
     {
       "album": {
+        "name": "MOURIR POUR MIEUX RENAITRE",
+        "url": "https://open.spotify.com/album/0mNUkGnRDPRDKkAxOJxc1E"
+      },
+      "artists": [
+        {
+          "name": "NAEKO",
+          "url": "https://open.spotify.com/artist/0pyq140jTsiXoxlv1KKYzK"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133884,
+      "name": "loin de moi",
+      "url": "https://open.spotify.com/track/1Ek5aKEzg493slQFmXrFaa"
+    },
+    {
+      "album": {
         "name": "Love Is Over",
         "url": "https://open.spotify.com/album/5rh5B327itAEamamcEZSIS"
       },
@@ -5620,6 +5674,24 @@
       "duration_ms": 194626,
       "name": "New World",
       "url": "https://open.spotify.com/track/4j9XjA7cYOeX9KFKNk3WUz"
+    },
+    {
+      "album": {
+        "name": "Next",
+        "url": "https://open.spotify.com/album/3RpyrSVKCDIwNM7GyFtKwU"
+      },
+      "artists": [
+        {
+          "name": "Myth Syzer",
+          "url": "https://open.spotify.com/artist/61y0Qj5xUcKnbHYxuaqSRP"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156857,
+      "name": "Next",
+      "url": "https://open.spotify.com/track/2nlKZzn6mjAiYziEqYr2Kz"
     },
     {
       "album": {
@@ -7873,6 +7945,24 @@
     },
     {
       "album": {
+        "name": "Tant que t'es l\u00e0",
+        "url": "https://open.spotify.com/album/4wWfqcZVnJQU3GOfm2Iu2U"
+      },
+      "artists": [
+        {
+          "name": "Stanislas",
+          "url": "https://open.spotify.com/artist/2mMDZnQTQpFY2pfahHvXK1"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186373,
+      "name": "Tant que t'es l\u00e0",
+      "url": "https://open.spotify.com/track/2NWzZYh8EGZGpbLhZve0wc"
+    },
+    {
+      "album": {
         "name": "Techno boom boom",
         "url": "https://open.spotify.com/album/1vEKjUDnxmdOGRVtmHthP4"
       },
@@ -8764,7 +8854,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 187133,
       "name": "YA RIEN \u00c0 FAIRE (p*****)",
       "url": "https://open.spotify.com/track/1j9BL0fKs460ujdeGxFD2I"

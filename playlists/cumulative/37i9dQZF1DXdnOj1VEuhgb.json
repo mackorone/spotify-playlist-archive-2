@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Patron",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Motive x Jefe",
   "name": "NKVT",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 62666,
       "name": "60 Seconds Freestyle",
       "url": "https://open.spotify.com/track/26RrgEQjwbBHuSONVnhvgR"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 182551,
       "name": "ADIMIZ T\u00dcRK\u0130YE",
       "url": "https://open.spotify.com/track/5ZDrQKObDyXFG9M0KdqmT4"
@@ -2344,7 +2344,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 105598,
       "name": "BAK SEN",
       "url": "https://open.spotify.com/track/0TZZLhGjfwSzP193XMJtPl"
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 94545,
       "name": "Bana Zaman Ver",
       "url": "https://open.spotify.com/track/5w7kRSCo1Ay0eEnUB5lzYd"
@@ -3252,7 +3252,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 166956,
       "name": "bir kez sar\u0131lamad\u0131k",
       "url": "https://open.spotify.com/track/6HZzubfsNVFcu9jma4c25c"
@@ -3274,6 +3274,28 @@
       "duration_ms": 144000,
       "name": "Bir \u00d6l\u00fcm Ismarlad\u0131m",
       "url": "https://open.spotify.com/track/5Ho0TR7VKKn9uqmgrNXLty"
+    },
+    {
+      "album": {
+        "name": "Bir \u015eark\u0131s\u0131n Sen",
+        "url": "https://open.spotify.com/album/5rRmSPHru0j2h6dTThR55l"
+      },
+      "artists": [
+        {
+          "name": "Velet",
+          "url": "https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71"
+        },
+        {
+          "name": "Decrat",
+          "url": "https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Bir \u015eark\u0131s\u0131n Sen",
+      "url": "https://open.spotify.com/track/0Yvk0NhQILaVrLc4K9Oelq"
     },
     {
       "album": {
@@ -6740,7 +6762,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 211917,
       "name": "Geceleri Yak",
       "url": "https://open.spotify.com/track/0hZsxXnrkDzPQjGvxsyN39"
@@ -7490,6 +7512,24 @@
       "duration_ms": 146239,
       "name": "G\u00fcl\u015fen",
       "url": "https://open.spotify.com/track/3dW8hIO3NKlt6DrLPAVYsx"
+    },
+    {
+      "album": {
+        "name": "G\u00fcne\u015f Do\u011fmadan \u00d6nce",
+        "url": "https://open.spotify.com/album/3jqaiIynMMajbUv9BFfVpq"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136010,
+      "name": "G\u00fcne\u015f Do\u011fmadan \u00d6nce",
+      "url": "https://open.spotify.com/track/5JM6GBHnW0EKzgRCPzdmFt"
     },
     {
       "album": {
@@ -12283,6 +12323,28 @@
     },
     {
       "album": {
+        "name": "MANDALINA",
+        "url": "https://open.spotify.com/album/1aHP1cXuU6iaBQxUlVVDGS"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Jefe",
+          "url": "https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209186,
+      "name": "MANDALINA",
+      "url": "https://open.spotify.com/track/4Z0gQavxUSCqj9cx55Owtp"
+    },
+    {
+      "album": {
         "name": "Maraton",
         "url": "https://open.spotify.com/album/4N2Xljd6DWSjCoSpXj2nLE"
       },
@@ -12686,6 +12748,24 @@
       "duration_ms": 152558,
       "name": "MI AMOR",
       "url": "https://open.spotify.com/track/0Fp91RLQckI4QkZQtjcCNC"
+    },
+    {
+      "album": {
+        "name": "MILLI MOD",
+        "url": "https://open.spotify.com/album/7Mv7n0Kf70KiEdu4zjL3qa"
+      },
+      "artists": [
+        {
+          "name": "K\u00d6K$VL",
+          "url": "https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128074,
+      "name": "MILLI MOD",
+      "url": "https://open.spotify.com/track/5Aq0NIXiv6tiy7j3NIoWBk"
     },
     {
       "album": {
@@ -17885,6 +17965,28 @@
     },
     {
       "album": {
+        "name": "Tekta\u015f",
+        "url": "https://open.spotify.com/album/6N6G1CHA7CovdTgvhnCt9C"
+      },
+      "artists": [
+        {
+          "name": "Joker",
+          "url": "https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr"
+        },
+        {
+          "name": "Ceg",
+          "url": "https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186206,
+      "name": "Tekta\u015f",
+      "url": "https://open.spotify.com/track/008vI3TDDoErIAaZfpdVmJ"
+    },
+    {
+      "album": {
         "name": "Tektim",
         "url": "https://open.spotify.com/album/2x3rypQdFGL1kApHIfU8bQ"
       },
@@ -18580,6 +18682,28 @@
       "duration_ms": 151412,
       "name": "Veda Mektubu",
       "url": "https://open.spotify.com/track/29sFMITSKuJYKC0n5nx5r4"
+    },
+    {
+      "album": {
+        "name": "VeRseNe GaSSoLiNaa",
+        "url": "https://open.spotify.com/album/2rB8vh3foTQWTl3QH2H0jF"
+      },
+      "artists": [
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152819,
+      "name": "VeRseNe GaSSoLiNaa",
+      "url": "https://open.spotify.com/track/71E4cUepr8QRJocFzhHt9Q"
     },
     {
       "album": {
@@ -19723,6 +19847,28 @@
     },
     {
       "album": {
+        "name": "SOPRANOS",
+        "url": "https://open.spotify.com/album/5V5fwysLCxsaOxfXFvUPN5"
+      },
+      "artists": [
+        {
+          "name": "EGE!",
+          "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
+        },
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141631,
+      "name": "YOKLAMA",
+      "url": "https://open.spotify.com/track/0UdEmE2g5AnqZPefygdQeB"
+    },
+    {
+      "album": {
         "name": "Yoktu",
         "url": "https://open.spotify.com/album/3WpXJvWZCPVs1H4WlqTl0y"
       },
@@ -20600,7 +20746,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 149381,
       "name": "\u00dcst\u00fcnde Ad\u0131n Var",
       "url": "https://open.spotify.com/track/4yu1f3GuaWDW8oLWmzuLX7"

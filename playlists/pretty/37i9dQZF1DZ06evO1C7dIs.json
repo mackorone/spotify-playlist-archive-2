@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 265133,
+  "num_followers": 265140,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahTigAAAAABAxCea0wc2He9zHcs+4SGf",
+  "snapshot_id": "ahY0AAAAAABF5Npp1OZdC67laTLkIIJR",
   "tracks": [
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 238973,
-      "name": "The Kinslayer",
-      "url": "https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q"
+      "duration_ms": 237466,
+      "name": "Deep Silent Complete",
+      "url": "https://open.spotify.com/track/3Fba4XIaDBLFfKrOcsBjsY"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish I Had an Angel",
-        "url": "https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7"
+        "name": "Imaginaerum",
+        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 232813,
-      "name": "Where Were You Last Night",
-      "url": "https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk"
+      "duration_ms": 419080,
+      "name": "Rest Calm",
+      "url": "https://open.spotify.com/track/7zki7ndhBSNAK9hKrhWUYn"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
         }
       ],
-      "duration_ms": 237466,
-      "name": "Deep Silent Complete",
-      "url": "https://open.spotify.com/track/3Fba4XIaDBLFfKrOcsBjsY"
+      "duration_ms": 238973,
+      "name": "The Kinslayer",
+      "url": "https://open.spotify.com/track/7JrKMhfBOMr78l3KbCAF1q"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wish I Had an Angel",
+        "url": "https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "Where Were You Last Night",
+      "url": "https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oceanborn",
         "url": "https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 268226,
       "name": "Stargazers",
       "url": "https://open.spotify.com/track/6iB8e72Dgdvrnn4AuvIgmP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Imaginaerum",
-        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 419080,
-      "name": "Rest Calm",
-      "url": "https://open.spotify.com/track/7zki7ndhBSNAK9hKrhWUYn"
     },
     {
       "added_at": null,

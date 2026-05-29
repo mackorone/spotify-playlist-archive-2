@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "BELIEVERS",
+        "url": "https://open.spotify.com/album/1rnFRmGKupzt2E2byxCVfx"
+      },
+      "artists": [
+        {
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "BELIEVERS",
+      "url": "https://open.spotify.com/track/4AgFjRJo4DYsSP3bealsdf"
+    },
+    {
+      "album": {
         "name": "bestie",
         "url": "https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb"
       },
@@ -20738,7 +20756,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 230013,
       "name": "\u30ad\u30f3\u30b0\u30b9\u30cd\u30fc\u30af\u306e\u6182\u9b31",
       "url": "https://open.spotify.com/track/05C9CerCZPIjF1TFrgex95"

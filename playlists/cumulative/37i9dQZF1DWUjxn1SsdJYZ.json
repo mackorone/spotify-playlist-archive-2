@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: TAKTiX",
+  "description": "The best new AUS & NZ Rap. Cover: Day1",
   "name": "Local Hype",
   "tracks": [
     {
@@ -617,6 +617,28 @@
     },
     {
       "album": {
+        "name": "6PM Somewhere",
+        "url": "https://open.spotify.com/album/2IdfGH6jx0ZHdTlcIVQtj4"
+      },
+      "artists": [
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        },
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "6PM Somewhere",
+      "url": "https://open.spotify.com/track/5WEysL7Mt6FWb61bizCSIx"
+    },
+    {
+      "album": {
         "name": "7 SEATER",
         "url": "https://open.spotify.com/album/40XQK4asCHZHhJAbF2dokZ"
       },
@@ -680,6 +702,28 @@
       "duration_ms": 143333,
       "name": "77",
       "url": "https://open.spotify.com/track/6EGnhQh2S3xcZSbgglQIUt"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/7ytU4GS3VjUGBuvY315lQN"
+      },
+      "artists": [
+        {
+          "name": "Ivan Ooze",
+          "url": "https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel"
+        },
+        {
+          "name": "Kelvyn Colt",
+          "url": "https://open.spotify.com/artist/3VV2TXkXYDYSUvtRRER3Wo"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195662,
+      "name": "777",
+      "url": "https://open.spotify.com/track/6rbsQKoxEUBDwHorozW1GE"
     },
     {
       "album": {
@@ -1766,6 +1810,28 @@
       "duration_ms": 179083,
       "name": "Aussie Raver",
       "url": "https://open.spotify.com/track/2IxukbfXzRflTlE06OFI7l"
+    },
+    {
+      "album": {
+        "name": "Aussie Thunder",
+        "url": "https://open.spotify.com/album/38fHxM6vVNZeFRgl0N90cy"
+      },
+      "artists": [
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        },
+        {
+          "name": "Sir Spyro",
+          "url": "https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Aussie Thunder",
+      "url": "https://open.spotify.com/track/7peRb5R79BqCSTlgSTeSPJ"
     },
     {
       "album": {
@@ -3834,6 +3900,24 @@
       "duration_ms": 154868,
       "name": "Both My Hands",
       "url": "https://open.spotify.com/track/62B32ZHDCFDsueU5FW8YI4"
+    },
+    {
+      "album": {
+        "name": "BOUNTY",
+        "url": "https://open.spotify.com/album/31faAbHDXZZgnko9sf4dNp"
+      },
+      "artists": [
+        {
+          "name": "Letoa",
+          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "BOUNTY",
+      "url": "https://open.spotify.com/track/5ApbFQrGkaXQKSqQpOUCVP"
     },
     {
       "album": {
@@ -7046,7 +7130,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 124281,
       "name": "don't bite the bait!",
       "url": "https://open.spotify.com/track/0DVbx9dEWWFp3tPYxZwtJ0"
@@ -8686,6 +8770,24 @@
       "duration_ms": 156115,
       "name": "Feel Like Uzi",
       "url": "https://open.spotify.com/track/2vzJT80pIxibhmIKzKM2s4"
+    },
+    {
+      "album": {
+        "name": "More Gas Deux",
+        "url": "https://open.spotify.com/album/5tzSrFnH5Hnav64RHkVyxK"
+      },
+      "artists": [
+        {
+          "name": "Jaal",
+          "url": "https://open.spotify.com/artist/3D1HiyH3IPenXqAmNmSlLh"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154226,
+      "name": "Feel That",
+      "url": "https://open.spotify.com/track/5F2GP003mAvLtBzP3HXUFY"
     },
     {
       "album": {
@@ -20924,7 +21026,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 117735,
       "name": "PHUB",
       "url": "https://open.spotify.com/track/7sxhYc77TLlzwcngXPDI7C"
@@ -23705,6 +23807,24 @@
     },
     {
       "album": {
+        "name": "SAY SUM",
+        "url": "https://open.spotify.com/album/5YXFJEP7ay70ffbFTNT0TE"
+      },
+      "artists": [
+        {
+          "name": "DKAY",
+          "url": "https://open.spotify.com/artist/7l4RtJuUSSZfj3ktAa5yG5"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99870,
+      "name": "SAY SUM",
+      "url": "https://open.spotify.com/track/66Ay1ELDvtCaHOmeGNwJT7"
+    },
+    {
+      "album": {
         "name": "Say What I Mean",
         "url": "https://open.spotify.com/album/2IpVK2SbA0sLifaI2qAN0I"
       },
@@ -23818,7 +23938,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 226186,
       "name": "SEASON",
       "url": "https://open.spotify.com/track/0Jrkiqn6mYbbAnMV2xwQFu"
@@ -24232,7 +24352,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 161711,
       "name": "She Want A Gangster",
       "url": "https://open.spotify.com/track/3uzh4SlyNDLuYPEKBGO3NR"
@@ -24254,7 +24374,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 224210,
       "name": "She Will (with Day1)",
       "url": "https://open.spotify.com/track/17CgN1wfpepyTOyVviHS6L"
@@ -26220,7 +26340,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 109726,
       "name": "Supply n Demand",
       "url": "https://open.spotify.com/track/53r2uA9UHGsDVCqqP3IQjP"
@@ -28003,6 +28123,24 @@
     },
     {
       "album": {
+        "name": "TOO MUCH",
+        "url": "https://open.spotify.com/album/56JeA11hflcBoB6Tnf8QBJ"
+      },
+      "artists": [
+        {
+          "name": "Eliezer",
+          "url": "https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "TOO MUCH",
+      "url": "https://open.spotify.com/track/5ORGeWwMADhrpbcrrj6Op1"
+    },
+    {
+      "album": {
         "name": "TOOT",
         "url": "https://open.spotify.com/album/2bR1sg2a9szXN03R201RKQ"
       },
@@ -29038,7 +29176,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 131000,
       "name": "UNSTOPPABLE",
       "url": "https://open.spotify.com/track/5ROYSS4Y1nt3Ey8Y5WnmVS"
@@ -30093,6 +30231,24 @@
     },
     {
       "album": {
+        "name": "WE$TSKI",
+        "url": "https://open.spotify.com/album/36P38CM5QDoyTea0ou5b1T"
+      },
+      "artists": [
+        {
+          "name": "Day1",
+          "url": "https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98461,
+      "name": "WE$TSKI",
+      "url": "https://open.spotify.com/track/0Fs4oWs2tPNotnZVy2dP5C"
+    },
+    {
+      "album": {
         "name": "Unidentified Friendly Object",
         "url": "https://open.spotify.com/album/7ieSqUrSWUqCNiKt8rE5Ge"
       },
@@ -30586,7 +30742,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 142608,
       "name": "Whistle",
       "url": "https://open.spotify.com/track/3npT8vIhMJQp3NYrs9FjAB"

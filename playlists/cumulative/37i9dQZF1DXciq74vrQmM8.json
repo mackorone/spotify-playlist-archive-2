@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. westislonely",
+  "description": "welcome to our universe ft. LIA LIA",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 141398,
       "name": "2 phoneS",
       "url": "https://open.spotify.com/track/4oNkVZ2OIpOTGLVFKAsFfW"
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 153327,
       "name": "Baby Teeth",
       "url": "https://open.spotify.com/track/78EsMn9Rlb9si1NkvPPLrQ"
@@ -2652,6 +2652,24 @@
       "duration_ms": 164071,
       "name": "Body Mind Hell",
       "url": "https://open.spotify.com/track/30JmGKxf1oItI6lOLNNSeq"
+    },
+    {
+      "album": {
+        "name": "Boogiepop Blitzkrieg Blob",
+        "url": "https://open.spotify.com/album/18EEaZHJFCpZ14Eqx04lyC"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100323,
+      "name": "Boogiepop Blitzkrieg Blob",
+      "url": "https://open.spotify.com/track/6XvkIu9TeTEV2dzT89Be5m"
     },
     {
       "album": {
@@ -5282,6 +5300,24 @@
       "duration_ms": 192275,
       "name": "decay (feat. Vaeo)",
       "url": "https://open.spotify.com/track/4vl9FGUcOaeAHe7yc7MeZO"
+    },
+    {
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169024,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo"
     },
     {
       "album": {
@@ -8032,7 +8068,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 173676,
       "name": "frissioN",
       "url": "https://open.spotify.com/track/1n0ucSZzAV8X752YGTKHav"
@@ -8076,6 +8112,32 @@
       "duration_ms": 204526,
       "name": "from me to u (feat. Poppy)",
       "url": "https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P"
+    },
+    {
+      "album": {
+        "name": "from me to u (feat. Poppy) [Jordan Fish Remix]",
+        "url": "https://open.spotify.com/album/7Hv0AkjrA5hbRzpjiJ4KDh"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        },
+        {
+          "name": "Jordan Fish",
+          "url": "https://open.spotify.com/artist/3vOyupBaHL4lL5SlT9tnzJ"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210490,
+      "name": "from me to u (feat. Poppy) [Jordan Fish Remix]",
+      "url": "https://open.spotify.com/track/1krMOXBD0xI8kgc9uZkrSw"
     },
     {
       "album": {
@@ -16030,7 +16092,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 174887,
       "name": "Okay (Cyber Racing)",
       "url": "https://open.spotify.com/track/7f0L8fI9IcNexCngLspWi5"
@@ -17268,6 +17330,24 @@
       "duration_ms": 171506,
       "name": "PREDATOR",
       "url": "https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP"
+    },
+    {
+      "album": {
+        "name": "Prettier",
+        "url": "https://open.spotify.com/album/6QHQBecoX5dl7R0O06BB6L"
+      },
+      "artists": [
+        {
+          "name": "Kid Bookie",
+          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Prettier",
+      "url": "https://open.spotify.com/track/2kigtft0evu6gfOFEHd3N5"
     },
     {
       "album": {
@@ -19266,7 +19346,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 136221,
       "name": "skipping tiles",
       "url": "https://open.spotify.com/track/43phhhh1hQF7koWX3uNvO3"
@@ -20105,6 +20185,24 @@
     },
     {
       "album": {
+        "name": "BLOODLETTING",
+        "url": "https://open.spotify.com/album/1A0ggLaki9qLKWqBvss54a"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227714,
+      "name": "STRANGE",
+      "url": "https://open.spotify.com/track/36ai7FHxUrgakt6DkcUrTT"
+    },
+    {
+      "album": {
         "name": "STRANGERS",
         "url": "https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF"
       },
@@ -20766,7 +20864,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 195428,
       "name": "Tesseract",
       "url": "https://open.spotify.com/track/4EeiKvSCQYTZvJzvzv5kWi"
@@ -21688,7 +21786,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 128178,
       "name": "Tissues",
       "url": "https://open.spotify.com/track/62bfW3EPm01YSEPogb4gdp"

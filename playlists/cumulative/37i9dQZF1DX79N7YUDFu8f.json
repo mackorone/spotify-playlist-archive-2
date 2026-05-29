@@ -762,7 +762,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 189306,
       "name": "Courtyard Theatre",
       "url": "https://open.spotify.com/track/00eAyad4JN4CFGRdZPFdF9"
@@ -2163,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "In My Own World (Acoustic)",
+        "url": "https://open.spotify.com/album/4LHaaeU16CYohZfDr7qgPF"
+      },
+      "artists": [
+        {
+          "name": "Sven Ross",
+          "url": "https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "In My Own World (Acoustic)",
+      "url": "https://open.spotify.com/track/7El8vJN9dsApo7VBfiqP1N"
+    },
+    {
+      "album": {
         "name": "In Our Blood (Acoustic)",
         "url": "https://open.spotify.com/album/4TkThiRr9e9AAuxHYtSHLx"
       },
@@ -3273,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "+1",
+        "url": "https://open.spotify.com/album/6HfcKrOM725mH8QCIxTbCr"
+      },
+      "artists": [
+        {
+          "name": "Anne-Fay",
+          "url": "https://open.spotify.com/artist/4NKiHTs8h3aJkfya3JC0no"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "Never Missed",
+      "url": "https://open.spotify.com/track/2Jz3odiAnoveycYN5ManwG"
+    },
+    {
+      "album": {
         "name": "Neverland / Chalk",
         "url": "https://open.spotify.com/album/6dOcx3mVozgW3EBMqwvH9T"
       },
@@ -3428,7 +3464,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 274510,
       "name": "Nothing For Miles",
       "url": "https://open.spotify.com/track/23Ht5Sur2qTl0C2dPMX6lK"

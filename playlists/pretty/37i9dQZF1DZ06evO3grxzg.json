@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 235542,
+  "num_followers": 235536,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahTigAAAAABskikzh/7TznfqVBMVCsfD",
+  "snapshot_id": "ahY0AAAAAABRI51xsyDY1MRUkB9uSb/v",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "tqum (feat. Kim Petras) [Remix]",
+        "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 149589,
+      "name": "tqum (feat. Kim Petras) - Remix",
+      "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atr\u00e9vete A So\u00f1ar 2",
         "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
       },
@@ -355,30 +379,6 @@
       "duration_ms": 232666,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/6XHAknr2XSEmfN09SRHyJa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "tqum (feat. Kim Petras) [Remix]",
-        "url": "https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 149589,
-      "name": "tqum (feat. Kim Petras) - Remix",
-      "url": "https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN"
     },
     {
       "added_at": null,
@@ -520,17 +520,13 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         },
         {
-          "name": "Las Divinas",
-          "url": "https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY"
-        },
-        {
           "name": "Las Populares",
           "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
         }
       ],
-      "duration_ms": 174693,
-      "name": "Peek A Boo",
-      "url": "https://open.spotify.com/track/39qhci9cs0XEdU4KcmTBpK"
+      "duration_ms": 197453,
+      "name": "Hot Pops",
+      "url": "https://open.spotify.com/track/3d0YUGL40ceqwNHTtVhlGk"
     },
     {
       "added_at": null,
@@ -596,13 +592,17 @@
           "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         },
         {
+          "name": "Las Divinas",
+          "url": "https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY"
+        },
+        {
           "name": "Las Populares",
           "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
         }
       ],
-      "duration_ms": 197453,
-      "name": "Hot Pops",
-      "url": "https://open.spotify.com/track/3d0YUGL40ceqwNHTtVhlGk"
+      "duration_ms": 174693,
+      "name": "Peek A Boo",
+      "url": "https://open.spotify.com/track/39qhci9cs0XEdU4KcmTBpK"
     },
     {
       "added_at": null,
@@ -719,42 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blade Runner Black Lotus (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/336Vo0ixkxxaehT3f6bBMk"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
-      "url": "https://open.spotify.com/track/1xGU99x3GcVbu1eae6K5cZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 123506,
-      "name": "Amy, Amy",
-      "url": "https://open.spotify.com/track/4SMV74Nn98m9GcVJRq5co1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
         "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
       },
@@ -771,6 +735,22 @@
       "duration_ms": 220600,
       "name": "Caminos De Luz",
       "url": "https://open.spotify.com/track/72LXdr5YUCB2s2wxYHuhcQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 123506,
+      "name": "Amy, Amy",
+      "url": "https://open.spotify.com/track/4SMV74Nn98m9GcVJRq5co1"
     },
     {
       "added_at": null,
@@ -823,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "Una Se\u00f1al",
-      "url": "https://open.spotify.com/track/6AlesNEra3COtQsAvGD8Rp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
         "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
       },
@@ -851,6 +815,22 @@
       "duration_ms": 182133,
       "name": "Milagrito",
       "url": "https://open.spotify.com/track/2nPPhyPxWv58MqWLbnYkeX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 171573,
+      "name": "Una Se\u00f1al",
+      "url": "https://open.spotify.com/track/6AlesNEra3COtQsAvGD8Rp"
     },
     {
       "added_at": null,
@@ -887,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 164226,
-      "name": "Mi Capitan",
-      "url": "https://open.spotify.com/track/6AfN38ELK3MZVOCoDebg44"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
         "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
       },
@@ -915,6 +879,22 @@
       "duration_ms": 187906,
       "name": "El Cielo En Brazos De Pap\u00e1",
       "url": "https://open.spotify.com/track/20vs9G7JnvqkMrzpm8jZQx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 164226,
+      "name": "Mi Capitan",
+      "url": "https://open.spotify.com/track/6AfN38ELK3MZVOCoDebg44"
     },
     {
       "added_at": null,
@@ -951,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cena Musical Latina",
-        "url": "https://open.spotify.com/album/1aLDb3B09PoafsgPxy6sNb"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/6v3FguYgfdASLOemDk8xaY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AmyLla Ni\u00f1a De La Mochila Azul Vol.2",
         "url": "https://open.spotify.com/album/0NuxVwqO5z5khKtDgS2EdW"
       },
@@ -979,6 +943,42 @@
       "duration_ms": 177786,
       "name": "\u00bfQue Se Sentir\u00e1 Tener Mam\u00e1?",
       "url": "https://open.spotify.com/track/4ecnJhOVl6PTm351CJmSrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar El Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Las Populares",
+          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
+        }
+      ],
+      "duration_ms": 210853,
+      "name": "Fiesta - En Vivo",
+      "url": "https://open.spotify.com/track/7emn83W4E8qn6JSxzaIiuo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cena Musical Latina",
+        "url": "https://open.spotify.com/album/1aLDb3B09PoafsgPxy6sNb"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/6v3FguYgfdASLOemDk8xaY"
     },
     {
       "added_at": null,

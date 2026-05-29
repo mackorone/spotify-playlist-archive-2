@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Nono La Grinta",
+  "description": "Photo : Franglish x KeBlack",
   "name": "Best Life",
   "tracks": [
     {
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 176000,
       "name": "Besoin de temps",
       "url": "https://open.spotify.com/track/6FOiFBrIrINmWIaDvxf9Pd"
@@ -2468,6 +2468,24 @@
       "duration_ms": 147802,
       "name": "Continents",
       "url": "https://open.spotify.com/track/38D17hHTXb59kEULsAZjpV"
+    },
+    {
+      "album": {
+        "name": "CONTR\u00d4LE",
+        "url": "https://open.spotify.com/album/1KC1VZsZ0LcRkq4Re7CX8e"
+      },
+      "artists": [
+        {
+          "name": "Kano\u00e9",
+          "url": "https://open.spotify.com/artist/7jUHzlUQxkrsszeYAIqHCY"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145483,
+      "name": "CONTR\u00d4LE",
+      "url": "https://open.spotify.com/track/383dbEDfIuPb7tlKUM6C79"
     },
     {
       "album": {
@@ -4132,7 +4150,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 141389,
       "name": "G\u00e9n\u00e9ration impolie",
       "url": "https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53"
@@ -4952,6 +4970,28 @@
       "duration_ms": 134076,
       "name": "La petite",
       "url": "https://open.spotify.com/track/7mt0CL6tQwdtnB7d5QhcBe"
+    },
+    {
+      "album": {
+        "name": "La porte",
+        "url": "https://open.spotify.com/album/7xWOaKVO0Ge6DbbU8C17pf"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153489,
+      "name": "La porte",
+      "url": "https://open.spotify.com/track/6PQy7AQ04hfRwFcWfZGl4O"
     },
     {
       "album": {
@@ -6520,7 +6560,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 131586,
       "name": "M\u00c9LANCOLIE CRUELLE",
       "url": "https://open.spotify.com/track/6GnrGUBp0Fe7wuEfUnjWuN"
@@ -7510,7 +7550,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 140307,
       "name": "Perle",
       "url": "https://open.spotify.com/track/0UF6gItQQ6G2KPMM9Zim8l"
@@ -10295,6 +10335,28 @@
     },
     {
       "album": {
+        "name": "TT",
+        "url": "https://open.spotify.com/album/42K04QVewiP4vVYzmSERTf"
+      },
+      "artists": [
+        {
+          "name": "GAULOIS",
+          "url": "https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200412,
+      "name": "TT",
+      "url": "https://open.spotify.com/track/5jkgxXpaOXBi7koVJOSXIB"
+    },
+    {
+      "album": {
         "name": "RDF",
         "url": "https://open.spotify.com/album/3lBcud1MgtDd45B7SMrZ1S"
       },
@@ -10776,6 +10838,28 @@
       "duration_ms": 105531,
       "name": "Y'A R",
       "url": "https://open.spotify.com/track/5hXA6P3qydIe3375WfGjVk"
+    },
+    {
+      "album": {
+        "name": "YAKUZA",
+        "url": "https://open.spotify.com/album/6siFETHEE13cuuyRJo85TA"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161173,
+      "name": "YAKUZA",
+      "url": "https://open.spotify.com/track/7DEuA8IpagjlToEyGmm3Zw"
     },
     {
       "album": {

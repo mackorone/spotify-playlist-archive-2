@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: \u827e\u8587 Ivy",
+  "description": "\u6700\u65b0\u6700 HITO \u7684\u83ef\u8a9e\u6d41\u884c\u6b4c\u66f2\u5c31\u5728\u9019\u7acb\u5373\u6536\u807d\uff01Cover: Gareth.T ",
   "name": "\u6700Hit\u83ef\u8a9e\u699c",
   "tracks": [
     {
@@ -306,6 +306,28 @@
       "duration_ms": 178636,
       "name": "ALL EYES ON ME",
       "url": "https://open.spotify.com/track/3dulYuKk06Hs5CG2f5tDJX"
+    },
+    {
+      "album": {
+        "name": "\u6240\u4ee5\u5171\u632f\u4e4b\u524d",
+        "url": "https://open.spotify.com/album/6I4D5j0mWRdyKL9uRpsJwZ"
+      },
+      "artists": [
+        {
+          "name": "Jocelyn 9.4.0",
+          "url": "https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ"
+        },
+        {
+          "name": "Abeliano",
+          "url": "https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "ALL NIGHT (feat. Abeliano)",
+      "url": "https://open.spotify.com/track/2DjxWkGaYda6G3dhPK6qMe"
     },
     {
       "album": {
@@ -4646,6 +4668,24 @@
       "duration_ms": 251470,
       "name": "\u4e0d\u6557 (\u77ed\u5287\u300a\u6c7a\u62301212\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/0ht3fOlk3iVKlHqwcA1Fkt"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u662f\u670b\u53cb\u7684\u670b\u53cb",
+        "url": "https://open.spotify.com/album/4qoP6vyuEqUQFBR0EMokeL"
+      },
+      "artists": [
+        {
+          "name": "\u912d\u99a5\u5100",
+          "url": "https://open.spotify.com/artist/0hV47C30VMq4Yi6zAQwPUB"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240433,
+      "name": "\u4e0d\u662f\u670b\u53cb\u7684\u670b\u53cb",
+      "url": "https://open.spotify.com/track/1TvfQuwyYmdphgTjHg5rHy"
     },
     {
       "album": {
@@ -11534,7 +11574,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 238000,
       "name": "\u60f3\u554f",
       "url": "https://open.spotify.com/track/4EO5CBJ6d8Q740YNfKyKD5"
@@ -13052,7 +13092,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 217119,
       "name": "\u6211\u6015\u4f60\u628a\u6211\u5fd8\u4e86\uff08\u6211\u6015\u4f60\u548c\u522b\u4eba\u592a\u597d\uff09",
       "url": "https://open.spotify.com/track/4VT98RB6toGQRj4XDUXebg"
@@ -13364,6 +13404,24 @@
       "duration_ms": 194218,
       "name": "\u6211\u7231\u4f60\u4f46\u662f\u6211\u8981\u56de\u5bb6",
       "url": "https://open.spotify.com/track/1zLpybgzhdG6KzgG9sRAwE"
+    },
+    {
+      "album": {
+        "name": "\u6211\u7368\u81ea\u6c42\u6551",
+        "url": "https://open.spotify.com/album/5vxba0YEJcbCWvnkPaH2jI"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168493,
+      "name": "\u6211\u7368\u81ea\u6c42\u6551",
+      "url": "https://open.spotify.com/track/3T6G1yI3gyQWBhQaxFEpwt"
     },
     {
       "album": {
@@ -13728,7 +13786,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-29",
       "duration_ms": 183850,
       "name": "\u6212\u4e0d\u6389\u4f60\u7684\u611b (feat. Marz23)",
       "url": "https://open.spotify.com/track/3U4rQ1fX2EP0cN64hm941J"

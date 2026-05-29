@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > All new Contemporary Christian songs on the rise! Cover: Stephen Stanley
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,813 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,834 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 99 | [Meet Me In The Valley \(feat\. Ben Fuller\)](https://open.spotify.com/track/0xGqVzQIJ6VBwMTxchA5Ef) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq), [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Meet Me In The Valley \(feat\. Ben Fuller\)](https://open.spotify.com/album/2LSD0LDxZJmFpVwiSKdDee) | 4:29 |
 | 100 | [In The Light \(Out Of Darkness\)](https://open.spotify.com/track/3fwMZTjCaFJsT31Vwo0MOm) | [DEON](https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [In The Light \(Out Of Darkness\)](https://open.spotify.com/album/5HtdZrAek5P6QGT3Yed5Qk) | 3:05 |
 
-Snapshot ID: `AAAAACtjVrdbsmbLvgGaWy/xBuoIQpMN`
+Snapshot ID: `AAAAAGLfVeiWuvahMjv2y8UWi7Ri8QRE`
