@@ -4,7 +4,7 @@
 
 > Jobi Riccio on the cover <3
 
-809 songs - 2 day 0 hr 50 min
+812 songs - 2 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 | 2025-03-21 | 2025-11-01 |
 | [dopamine](https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [dopamine](https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx) | 2:38 | 2023-10-13 | 2024-04-06 |
 | [double edged sword](https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [double edged sword](https://open.spotify.com/album/11XkCwTHV7CTnRn5zzyesW) | 3:28 | 2026-02-20 |  |
+| [Down Debbie/Reservoir](https://open.spotify.com/track/01M4zeod1IYrXGRSie9CmQ) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Down Debbie/Reservoir](https://open.spotify.com/album/1kKx979DVgL3MNOA1F7G6v) | 3:30 | 2026-05-29 |  |
 | [Drank on Accutane](https://open.spotify.com/track/3YSpKYKvlryivvDwY26K3r) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Drank on Accutane](https://open.spotify.com/album/4dw3v0AQ9bHuNvxvrk8n1q) | 3:10 | 2024-02-09 | 2024-07-27 |
 | [Dream Dating](https://open.spotify.com/track/0ikubwVXWkOeYH3HFhXMfK) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Infinite Spring](https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC) | 3:47 | 2023-10-06 | 2024-04-13 |
 | [Dream Song](https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Dream Song](https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb) | 2:43 | 2023-10-06 | 2024-04-13 |
@@ -234,6 +235,7 @@
 | [Fool's Gold](https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Fool's Gold](https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG) | 3:17 | 2025-11-17 |  |
 | [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 | 2023-10-06 | 2024-03-23 |
 | [For Emma](https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 3:40 | 2023-12-15 | 2024-04-06 |
+| [for love's sake](https://open.spotify.com/track/3bAoL5RpaXCs40ndVBsj54) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [for love's sake](https://open.spotify.com/album/6Gili2PS0vC97P5HIZRPJG) | 3:14 | 2026-05-29 |  |
 | [For Months Now](https://open.spotify.com/track/0BrfibWFnLKn4toGD3gRE9) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [For Months Now](https://open.spotify.com/album/5P9kkhUR5UDki1BIXo4ciT) | 4:06 | 2024-02-09 | 2024-02-17 |
 | [For Months Now](https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 4:06 | 2024-02-16 | 2024-03-16 |
 | [For Now](https://open.spotify.com/track/5Ae8XyRIcY4mJML4BuKtYQ) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [Once Now, Then Again](https://open.spotify.com/album/072DMJuHvH3wZ6cb7trjHz) | 4:19 | 2023-10-06 | 2024-05-11 |
@@ -512,6 +514,7 @@
 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 | 2025-09-26 | 2026-02-21 |
 | [Oneida](https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Oneida](https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF) | 4:38 | 2025-07-04 | 2026-01-24 |
 | [Only Time \(demo\)](https://open.spotify.com/track/3uloBBhAqJ8nG38MRxhEcc) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Only Time \(demo\)](https://open.spotify.com/album/1Ns1T7giNpwEmGpqI7ZrAu) | 4:34 | 2024-11-15 | 2025-05-14 |
+| [orange : v2](https://open.spotify.com/track/1dLW515RvXJektDP5NBPBK) | [King Howe](https://open.spotify.com/artist/7AUxtXhXm1FrUo1YyspgiV) | [orange : the ep](https://open.spotify.com/album/3YOtJDFGokdJ99r1Qp85CP) | 3:59 | 2026-05-29 |  |
 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 | 2025-07-18 | 2026-01-31 |
 | [Outdoor Shower](https://open.spotify.com/track/6pOogh0qZALsuhj5I3uKKT) | [Boxtrod](https://open.spotify.com/artist/01tYEs8EWO5StDlzerDXMx) | [Broken Stairs / Outdoor Shower](https://open.spotify.com/album/6eKDyNHs1Y2i5AH5lkQBBi) | 3:25 | 2025-06-13 | 2026-01-17 |
 | [Over Your Head](https://open.spotify.com/track/6HD34sKAz0z31qdqmhy6RQ) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Over Your Head](https://open.spotify.com/album/4iOmd8wfRPNALHQS8VSjEI) | 3:16 | 2024-10-18 | 2025-05-14 |

@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "A Memory of Rio",
+        "url": "https://open.spotify.com/album/0Ky3i88keJXhXr9ifXNuJQ"
+      },
+      "artists": [
+        {
+          "name": "Two steps in the street",
+          "url": "https://open.spotify.com/artist/6BG94mKYRcBXUoB1id2LdN"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141058,
+      "name": "A Memory of Rio",
+      "url": "https://open.spotify.com/track/42ILtwrB3M88vpC0VNZExQ"
+    },
+    {
+      "album": {
         "name": "A Minor Thing",
         "url": "https://open.spotify.com/album/1R2Y6GnYt9LzwW4Rqo3mmv"
       },
@@ -3277,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "Before the morning sun",
+        "url": "https://open.spotify.com/album/3bYS5vOg7FeeUPcvNDDrbp"
+      },
+      "artists": [
+        {
+          "name": "Joe Wilson Trio",
+          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182938,
+      "name": "Before the morning sun",
+      "url": "https://open.spotify.com/track/2WVoYNLvcbIYZOLZQL7rLk"
+    },
+    {
+      "album": {
         "name": "Before The Thrill",
         "url": "https://open.spotify.com/album/1EkvnfgK21l1Shc0S8cka0"
       },
@@ -4336,7 +4372,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 200499,
       "name": "Buttons and Pennies",
       "url": "https://open.spotify.com/track/6lIV7SnPtpamsyrOEj1AVL"
@@ -5316,6 +5352,24 @@
       "duration_ms": 304813,
       "name": "Coffee Break",
       "url": "https://open.spotify.com/track/3d5AaKfto6cBmNjBVzBgFC"
+    },
+    {
+      "album": {
+        "name": "Cold Farewell",
+        "url": "https://open.spotify.com/album/1kR6RmQkwWupFGwThJJLtk"
+      },
+      "artists": [
+        {
+          "name": "Diminished Fusion",
+          "url": "https://open.spotify.com/artist/13Anjo6ZdAzx6h71JaMYso"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143668,
+      "name": "Cold Farewell",
+      "url": "https://open.spotify.com/track/0fQLCjIPl5JIWAbFfMNBD8"
     },
     {
       "album": {
@@ -7376,7 +7430,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 209250,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/3bH3TxA7NHH1ceyNemCyWq"
@@ -7762,6 +7816,24 @@
       "duration_ms": 190124,
       "name": "Everything to Me",
       "url": "https://open.spotify.com/track/57AuAJhDlfOsIilDdegA4M"
+    },
+    {
+      "album": {
+        "name": "Everything You Are",
+        "url": "https://open.spotify.com/album/2t6rFfiTXGtDpAEcWjlyQq"
+      },
+      "artists": [
+        {
+          "name": "Sean Pearson",
+          "url": "https://open.spotify.com/artist/4KJIYlMtyVGnqbD8Qjp7vQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170650,
+      "name": "Everything You Are",
+      "url": "https://open.spotify.com/track/5Q5Ol6NGCJdaPGEWgMH7l5"
     },
     {
       "album": {
@@ -8532,7 +8604,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 189000,
       "name": "Flowers In April",
       "url": "https://open.spotify.com/track/0nAGENNfFwnukiGVxygTJ2"
@@ -14332,7 +14404,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 162340,
       "name": "Lavender and Lemons",
       "url": "https://open.spotify.com/track/3ycE84zl65eMqDjnjbJUFv"
@@ -15430,7 +15502,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 175042,
       "name": "Lost in a Moment",
       "url": "https://open.spotify.com/track/5qDQSnNLhh4dc4ztlzcWbf"
@@ -15596,6 +15668,24 @@
       "duration_ms": 171448,
       "name": "Lots of It",
       "url": "https://open.spotify.com/track/6s06FedC1pdyLQ9LmUX2oP"
+    },
+    {
+      "album": {
+        "name": "Lotus Dream",
+        "url": "https://open.spotify.com/album/6TV2sNegqw38zyX5MSycee"
+      },
+      "artists": [
+        {
+          "name": "Deer Groves",
+          "url": "https://open.spotify.com/artist/0UAwkBmAPuCYxBPtf6g9K6"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220576,
+      "name": "Lotus Dream",
+      "url": "https://open.spotify.com/track/0kQ45N6zdesRrvrRZMjvJp"
     },
     {
       "album": {
@@ -17577,6 +17667,24 @@
     },
     {
       "album": {
+        "name": "Mountain Roads",
+        "url": "https://open.spotify.com/album/1YSEABXKisI7oPGMU6VVn0"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Chords",
+          "url": "https://open.spotify.com/artist/5vQv6osGja4opdIuGMTguW"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163676,
+      "name": "Mountain Roads",
+      "url": "https://open.spotify.com/track/60Cdhih8qgpOahSNs2xolv"
+    },
+    {
+      "album": {
         "name": "Moving Along",
         "url": "https://open.spotify.com/album/7gjJCIRtJ6waFgxtqYcb2T"
       },
@@ -18002,7 +18110,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 217095,
       "name": "My One And Only You",
       "url": "https://open.spotify.com/track/2h3FpSiZf7hSgL1TmsKD9q"
@@ -19334,7 +19442,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 197019,
       "name": "On my way",
       "url": "https://open.spotify.com/track/4s1HE0mkDMa9b3Hl6cVgBE"
@@ -24699,6 +24807,24 @@
     },
     {
       "album": {
+        "name": "Sunshine...",
+        "url": "https://open.spotify.com/album/49KX7jOMRB00HCZecZlFp6"
+      },
+      "artists": [
+        {
+          "name": "Stillwater Trio",
+          "url": "https://open.spotify.com/artist/6LNPl6SLaQ4zJAsQnVAF1o"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196968,
+      "name": "Sunshine...",
+      "url": "https://open.spotify.com/track/2eQkkGTC99e1SJ7Rz0ckX6"
+    },
+    {
+      "album": {
         "name": "Swaying Shadows",
         "url": "https://open.spotify.com/album/0td3uSBMDcvtSI4XEonj6L"
       },
@@ -25988,7 +26114,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 204615,
       "name": "The Mist and the Light",
       "url": "https://open.spotify.com/track/2HczJOuBQ7m7ilKMfN5TFy"
@@ -31282,6 +31408,24 @@
       "duration_ms": 236733,
       "name": "Your Host",
       "url": "https://open.spotify.com/track/0FYVPV8QxPW9MyAyeESAFy"
+    },
+    {
+      "album": {
+        "name": "Your Money's Worth",
+        "url": "https://open.spotify.com/album/0R2dhnZMhQPXvbQ1z2EDCy"
+      },
+      "artists": [
+        {
+          "name": "Golden Steps Trio",
+          "url": "https://open.spotify.com/artist/6C2dhn7pnRikQAFFajcyY7"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Your Money's Worth",
+      "url": "https://open.spotify.com/track/7zl6BHucavq0xWM7Lh0hqP"
     },
     {
       "album": {

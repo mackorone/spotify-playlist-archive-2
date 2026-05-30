@@ -71651,6 +71651,28 @@
     },
     {
       "album": {
+        "name": "Mwayenera - The Live Album",
+        "url": "https://open.spotify.com/album/4CguM9gNqGCX0pvY5ioAcZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kachala",
+          "url": "https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM"
+        },
+        {
+          "name": "Kelvin Sings",
+          "url": "https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564000,
+      "name": "Inu ndi Ine - Live",
+      "url": "https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr"
+    },
+    {
+      "album": {
         "name": "Inumidun",
         "url": "https://open.spotify.com/album/1kSdrPqNHtHiMHd1YrQu1K"
       },
@@ -102660,6 +102682,24 @@
       "duration_ms": 431186,
       "name": "Nkosi",
       "url": "https://open.spotify.com/track/7yrgmkjqLrljc7Ei0rb8t8"
+    },
+    {
+      "album": {
+        "name": "The Gospel Vol.1",
+        "url": "https://open.spotify.com/album/4CcFnIA7S27UVeKPfjnFDe"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438000,
+      "name": "Nkosi Amakhosi",
+      "url": "https://open.spotify.com/track/3A6dZNicN7AGaiwsUqnBcl"
     },
     {
       "album": {
@@ -145988,42 +146028,6 @@
       "duration_ms": 228240,
       "name": "TPC",
       "url": "https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL"
-    },
-    {
-      "album": {
-        "name": "Mwayenera - The Live Album",
-        "url": "https://open.spotify.com/album/4CguM9gNqGCX0pvY5ioAcZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Kachala",
-          "url": "https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM"
-        }
-      ],
-      "date_added": "2026-05-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 15",
-      "url": "https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr"
-    },
-    {
-      "album": {
-        "name": "The Gospel Vol.1",
-        "url": "https://open.spotify.com/album/4CcFnIA7S27UVeKPfjnFDe"
-      },
-      "artists": [
-        {
-          "name": "Saint Evo",
-          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
-        }
-      ],
-      "date_added": "2026-05-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/3A6dZNicN7AGaiwsUqnBcl"
     },
     {
       "album": {

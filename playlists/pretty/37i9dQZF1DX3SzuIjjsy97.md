@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SzuIjjsy97.md) - [plain]
 
 > The best hits from the biggest shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,349 likes - 49 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,345 likes - 49 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SzuIjjsy97.md) - [plain]
 | 23 | [Popular](https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 4:01 |
 | 24 | [Friend Like Me](https://open.spotify.com/track/5f2TWu6R2YYCJtLQ0fP78H) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 2:35 |
 | 25 | [No Good Deed](https://open.spotify.com/track/5o0hD6Bs6RdyZxfYBoEEc8) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: For Good – The Soundtrack](https://open.spotify.com/album/6pamCzTowX31m57z8dC1Sk) | 3:50 |
-| 26 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/600HVBpzF1WfBdaRwbEvLz) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 3:43 |
-| 27 | [Ex\-Wives](https://open.spotify.com/track/03GBiorLGTk7T4IScIl4jj) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 5:50 |
+| 26 | [Ex\-Wives](https://open.spotify.com/track/03GBiorLGTk7T4IScIl4jj) | [SIX](https://open.spotify.com/artist/1VbWMsap5Ex2erHPlmndr0) | [Six: The Musical \(Studio Cast Recording\)](https://open.spotify.com/album/5jTDaLFNQovRyjNcWe4cZh) | 5:50 |
+| 27 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/600HVBpzF1WfBdaRwbEvLz) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19dqa2yIehtaN4kBwpSEvP) | 3:43 |
 | 28 | [What Is This Feeling?](https://open.spotify.com/track/7eGuPhpdS8sBjPJNuAShUX) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 3:48 |
 | 29 | [Waving Through A Window](https://open.spotify.com/track/0gMW8XpPFPjoApDii5Tj1u) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Original Broadway Cast of Dear Evan Hansen](https://open.spotify.com/artist/5bi4lyuj5ZrayYKlibl9ij) | [Dear Evan Hansen \(Original Broadway Cast Recording\)](https://open.spotify.com/album/0LhDyJXelg31FKLW5GDcKi) | 3:56 |
 | 30 | [You Are the Music in Me](https://open.spotify.com/track/6TRp2628QKH3kY6KrCnjqp) | [Troy](https://open.spotify.com/artist/6zTbBugfNc95zo8ClFDhIn), [Gabriella](https://open.spotify.com/artist/0GyAZiIV45rnBBf4KdGLS7), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical 2 \(Original Soundtrack\)](https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49) | 3:27 |

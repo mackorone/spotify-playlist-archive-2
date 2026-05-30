@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Juliana Gattas & Juana Rozas
 
-509 songs - 1 day 1 hr 15 min
+511 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 | 2024-02-02 | 2024-04-27 |
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-05-12 | 2025-10-18 |
 | [Canción 2](https://open.spotify.com/track/77a5i89RIF8B3lhRIxY4YB) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Canción 2](https://open.spotify.com/album/1hXSMNto2tKY8WtJ13BwjW) | 2:28 | 2024-05-17 | 2024-06-08 |
+| [Caos Remix](https://open.spotify.com/track/23uCc690KZoofO0otAj3sN) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [Caos Remix](https://open.spotify.com/album/5hKU1pfcskKHoFKYAAIRw5) | 2:13 | 2026-05-29 |  |
 | [capaz \(merengueton\)](https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA CIUDAD](https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t) | 2:53 | 2025-10-31 |  |
 | [CARENCIAS DE CORDURA](https://open.spotify.com/track/3JZJ7hD74iOAB07Socju0h) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [1 1 1](https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF) | 2:58 | 2023-12-01 | 2026-03-14 |
 | [CARENCIAS DE CORDURA](https://open.spotify.com/track/6QCTo3BaEdkEp0BbbNCVIt) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 2:58 | 2024-01-12 | 2024-04-19 |
@@ -99,12 +100,13 @@
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-06-23 | 2023-12-22 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ACOUSTIC SESSION](https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7) | 2:41 | 2023-12-21 | 2024-03-23 |
 | [Corre el Sudor](https://open.spotify.com/track/6eGBagVmhKpSE1LHlVmviB) | [Joelle Levy](https://open.spotify.com/artist/3PDji1lPMrS6awaEbXwa45) | [IKIGAI](https://open.spotify.com/album/0DBWop4JyhOTYP8QiedbDj) | 3:29 | 2024-04-19 | 2024-06-15 |
-| [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 | 2024-01-12 |  |
+| [COSAS QUE NO TE DIJE](https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [COSAS QUE NO TE DIJE](https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy) | 3:44 | 2024-01-12 | 2026-05-30 |
 | [COSITA LINDA](https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [COSITA LINDA](https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA) | 2:19 | 2025-07-25 |  |
 | [crazy dance](https://open.spotify.com/track/6w9RN1SWsNEuCvG8HrA3SS) | [soffyy](https://open.spotify.com/artist/2mX8G9cpmx2u2EqorBZtDr) | [crazy dance](https://open.spotify.com/album/04wM2pMxP5MDXHmEXbQuLY) | 2:39 | 2026-04-17 |  |
 | [Crimen](https://open.spotify.com/track/7siEBBuqbnAsWx54YRD6sx) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [Crimen](https://open.spotify.com/album/60fSjEV31g6aydYD0QffR8) | 3:05 | 2026-02-06 |  |
 | [CRINGE](https://open.spotify.com/track/1QO0w1DZXOitOEg9PvOTHC) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [CRINGE](https://open.spotify.com/album/669qUaCZ3bB9CvONV51c9Q) | 3:27 | 2024-10-25 | 2024-11-16 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-08-25 | 2023-11-11 |
+| [crush](https://open.spotify.com/track/58JHQSju4UT64HNwialsZ9) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [crush](https://open.spotify.com/album/1Ry9tP4Uwdv04As7ArihdT) | 2:52 | 2026-05-29 |  |
 | [Cuarto Rojo](https://open.spotify.com/track/2WdL6vIYlpHqBA7eXzV9n0) | [TULI](https://open.spotify.com/artist/0ZONTh5kX91I8H6sa8QOlZ) | [Cuarto Rojo](https://open.spotify.com/album/67MCbmuEtlTIkqeH5wLxQH) | 2:29 | 2024-05-17 | 2024-12-07 |
 | [cuatro veinte](https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [cuatro veinte](https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH) | 2:13 | 2023-05-12 | 2023-06-17 |
 | [Cupido](https://open.spotify.com/track/3wqEOpbZkEM4qYV05fNtvj) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Cupido](https://open.spotify.com/album/0XPJm6qRVPemH8PEE40KYH) | 3:03 | 2023-05-12 | 2023-05-20 |
@@ -348,7 +350,7 @@
 | [OHNANA](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [OHNANA](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-08-02 | 2025-07-18 |
 | [Ojala Que](https://open.spotify.com/track/2NMlFUGOdHM6nyPVY9jn3J) | [Benja Torres](https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4) | [Ojala Que](https://open.spotify.com/album/6F1dbnvjqUzeELp6S0hyS3) | 2:22 | 2024-03-22 | 2024-04-19 |
 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2023-05-12 | 2025-10-31 |
-| [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-04-26 |  |
+| [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-04-26 | 2026-05-30 |
 | [olvidARTE](https://open.spotify.com/track/5366g9zdp69bHlqJtkuEBu) | [Uri](https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv), [BAMBI](https://open.spotify.com/artist/0nDw7H8W4oU0QPzL4LC9Aj) | [olvidARTE](https://open.spotify.com/album/1Rxqvnq1CHHN6ixkLFBnEQ) | 2:27 | 2023-06-02 | 2023-06-23 |
 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 2:37 | 2024-12-26 |  |
 | [Olvidate](https://open.spotify.com/track/6YHiWnXQyF0yM4oxGk54X4) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Olvidate](https://open.spotify.com/album/2OVbouaTwqVHertrc15Kgn) | 2:39 | 2023-05-12 | 2023-12-16 |

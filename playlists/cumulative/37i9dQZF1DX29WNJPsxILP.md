@@ -2,7 +2,7 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Young Aytee
+> Best of Hindi Hip\-Hop! Cover: Farhan Khan
 
 326 songs - 16 hr 33 min
 

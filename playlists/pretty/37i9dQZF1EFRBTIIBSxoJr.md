@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 886 likes - 141 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 887 likes - 141 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 130 | [Sliding Doors](https://open.spotify.com/track/2tgyMQjcwVp2CjFT6gAZwh) | [Baptiste Giabiconi](https://open.spotify.com/artist/4DD9H38CXQBbIME7AGNOr9) | [Oxygen](https://open.spotify.com/album/3wJqURLm1qe9DucNTntWS3) | 3:41 |
 | 131 | [Flaws](https://open.spotify.com/track/11h7cjswldN3GFpd961XAw) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/4edayUkEhvvjFQF2DRmlse) | 2:53 |
 | 132 | [Gratitude](https://open.spotify.com/track/2cI7IM2jlIC7wKdfpQvctA) | [Erica\-Cody](https://open.spotify.com/artist/6h9boYU490q7cRC64QsEBI) | [Love & Light](https://open.spotify.com/album/2XrzEmUgAStgYTQT8lDzHG) | 3:25 |
-| 133 | [My Greatest Joy](https://open.spotify.com/track/3TpXUzsPM1StbsOBHupZmy) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:07 |
-| 134 | [Heaven Is One Hell Of A Lucky Place](https://open.spotify.com/track/4etD4XRBP8an8g6e65Cnup) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 2:27 |
+| 133 | [Heaven Is One Hell Of A Lucky Place](https://open.spotify.com/track/4etD4XRBP8an8g6e65Cnup) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 2:27 |
+| 134 | [My Greatest Joy](https://open.spotify.com/track/3TpXUzsPM1StbsOBHupZmy) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:07 |
 | 135 | [Your Beginning](https://open.spotify.com/track/2gqkMxGSAASGaHPbvp82un) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:26 |
 | 136 | [Shit Happens](https://open.spotify.com/track/6qs0MUILZFQz8PmKtSxTwq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 2:46 |
 | 137 | [Mutual Danger](https://open.spotify.com/track/2mh17l0N0eJ1q5BcMJ2KvK) | [Jamie Joseph](https://open.spotify.com/artist/6SAHiawT7qwvIRpebD2sS4) | [Can't Seem to Change](https://open.spotify.com/album/6AsEVSLb6TQFh6XiZCm24F) | 4:03 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 140 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 141 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AcSvHAAAAAAwg3o+PXT68zb00ImTo72b`
+Snapshot ID: `AcS02gAAAADcPaALmL2SlyyLBdFFM985`

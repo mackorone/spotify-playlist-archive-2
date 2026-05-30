@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 
 > This is Koe Wetzel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,506 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,522 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO146luW.md) - [plain]
 | 33 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/231JL1zyH8JlEvYkCymu1K) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 2:35 |
 | 34 | [L.T.W.Y.H.M.](https://open.spotify.com/track/503lQzTuf0tF8cAcilXZkz) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 3:29 |
 | 35 | [Depression & Obsession](https://open.spotify.com/track/38623VdBTunZrY1IFpFLh8) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 2:29 |
-| 36 | [Lonesome Dove](https://open.spotify.com/track/6owKFz2r0DDseMD2Os26l9) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 4:47 |
-| 37 | [YellaBush Road](https://open.spotify.com/track/31gBArPt7AgI5zNzCbX1DW) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 5:06 |
+| 36 | [YellaBush Road](https://open.spotify.com/track/31gBArPt7AgI5zNzCbX1DW) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 5:06 |
+| 37 | [Lonesome Dove](https://open.spotify.com/track/6owKFz2r0DDseMD2Os26l9) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 4:47 |
 | 38 | [Too High to Cry](https://open.spotify.com/track/3MntWcPyUZDILLsMCSrqTD) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 6:29 |
 | 39 | [Casamigos](https://open.spotify.com/track/359bNXrILKwIm6J6vgz5zM) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:14 |
-| 40 | [GTFO](https://open.spotify.com/track/69yFW3GkClGTCXdOrZ8cSl) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 4:03 |
-| 41 | [Wine Glass](https://open.spotify.com/track/142j2y0wEDHuofNFBggRDb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 4:32 |
+| 40 | [Wine Glass](https://open.spotify.com/track/142j2y0wEDHuofNFBggRDb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 4:32 |
+| 41 | [GTFO](https://open.spotify.com/track/69yFW3GkClGTCXdOrZ8cSl) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 4:03 |
 | 42 | [Nothing Left to Say](https://open.spotify.com/track/0dEb2eHFM31FkTLWwLRtRP) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 3:00 |
-| 43 | [9 Lives \(Black Cat\)](https://open.spotify.com/track/5QTxD81d4O6K8wSEWoBzvI) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives \(Black Cat\)](https://open.spotify.com/album/7jHR86VxhCZqsnFg2M1O42) | 3:24 |
-| 44 | [Werewolf](https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Werewolf](https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u) | 3:42 |
-| 45 | [Gravedigger](https://open.spotify.com/track/0qu4MZi0L4sXBcvvxjqDkW) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 4:00 |
-| 46 | [Run Away](https://open.spotify.com/track/2gAcxlvwhyHDxnKLBbWXAt) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 3:59 |
-| 47 | [So Low](https://open.spotify.com/track/1TfdaAkmYnnQcQ6pxKX3sP) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:53 |
-| 48 | [Sundy or Mundy](https://open.spotify.com/track/1Fbnj7x5ZRMGHayTMc4wrN) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:52 |
-| 49 | [What You Deserve](https://open.spotify.com/track/73xnOl3QWeh0GS720CFPrO) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 3:34 |
-| 50 | [Sweet Texas Strange](https://open.spotify.com/track/2eMDLqUwfIKwYpamHAzgEe) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 4:27 |
+| 43 | [Werewolf](https://open.spotify.com/track/0CRd1nB5QpxEf4n9YWNr4w) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Werewolf](https://open.spotify.com/album/4we9ShOxtvFbb9qGTrSP8u) | 3:42 |
+| 44 | [Gravedigger](https://open.spotify.com/track/0qu4MZi0L4sXBcvvxjqDkW) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Out on Parole](https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP) | 4:00 |
+| 45 | [Run Away](https://open.spotify.com/track/2gAcxlvwhyHDxnKLBbWXAt) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 3:59 |
+| 46 | [So Low](https://open.spotify.com/track/1TfdaAkmYnnQcQ6pxKX3sP) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:53 |
+| 47 | [Sundy or Mundy](https://open.spotify.com/track/1Fbnj7x5ZRMGHayTMc4wrN) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sellout](https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy) | 3:52 |
+| 48 | [What You Deserve](https://open.spotify.com/track/73xnOl3QWeh0GS720CFPrO) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 3:34 |
+| 49 | [Sweet Texas Strange](https://open.spotify.com/track/2eMDLqUwfIKwYpamHAzgEe) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | ["These Are Going Nowhere": A Mixtape by Koe Wetzel](https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ) | 4:27 |
+| 50 | [Money Spent](https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 2:36 |
 
-Snapshot ID: `ahY0AAAAAADXNy3e/bqVsCx1k0H0uL+X`
+Snapshot ID: `aheFgAAAAAAB3uSr9SH0dKrpu9eDTyWX`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B rising in the UK\. Cover: Saint Harison
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,314 likes - 79 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,322 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 6](https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [ghosted \- EP](https://open.spotify.com/album/1FI0XA7lmm54RaMcucVBBe) | 0:00 |
+| 1 | [minute](https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [ghosted \- EP](https://open.spotify.com/album/1FI0XA7lmm54RaMcucVBBe) | 2:59 |
 | 2 | [u, him & me](https://open.spotify.com/track/2RUNEELdHcRzttVS7JH2gD) | [Timur Nova](https://open.spotify.com/artist/1InYeA5EjhHDDg2ezeOsBV) | [u, him & me](https://open.spotify.com/album/0fUWL4QtK7QhCChO1uV5O8) | 3:02 |
 | 3 | [take my hand](https://open.spotify.com/track/0i4SCqKHjbBrPjUX4RPRq3) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx), [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [take my hand](https://open.spotify.com/album/5dkcbuQwMuZK9vI22kT3mw) | 3:32 |
 | 4 | [Jealous](https://open.spotify.com/track/4H7FGmMhIxBNKYMjqgqOpp) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Cinere](https://open.spotify.com/album/4YTRghwdWL2lm2bMhDiRl1) | 2:20 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 8 | [Fell Again](https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Fell Again / Stranger What's Your Name?](https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo) | 2:41 |
 | 9 | [The Way I Love](https://open.spotify.com/track/1b4DlWiSe9HpG0htLQ0WF6) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [The Way I Love](https://open.spotify.com/album/1eVIBTuMWkufkwGVYBrBPc) | 3:06 |
 | 10 | [Bridges](https://open.spotify.com/track/0IFwU3Vaq5FEuOBnQAjnMd) | [Arno Sacco](https://open.spotify.com/artist/6bfoz2GFeUYmr2Kz4LikKx) | [Bridges](https://open.spotify.com/album/0xC9PfmBnPtcQGLnblmAO3) | 3:53 |
-| 11 | [Track 4](https://open.spotify.com/track/6S0k9l9BftuJKd6GxKOdrz) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [mind the gap](https://open.spotify.com/album/7CoasIpZcrXKpeVtDwj77H) | 0:00 |
+| 11 | [thru the valley](https://open.spotify.com/track/6S0k9l9BftuJKd6GxKOdrz) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh) | [mind the gap](https://open.spotify.com/album/7CoasIpZcrXKpeVtDwj77H) | 1:35 |
 | 12 | [Save My Time](https://open.spotify.com/track/21pwm56tB8PTqEPQbKVllE) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [BLUEBOY](https://open.spotify.com/album/2NVOpcr50Ltvk7eOnG9CGi) | 2:30 |
 | 13 | [Docs](https://open.spotify.com/track/4OCu8rrX8gbKnAfvS20ovs) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [Docs](https://open.spotify.com/album/4z79Uh8UfNC9ljmd7OpbY6) | 3:28 |
 | 14 | [Please](https://open.spotify.com/track/4o1GKftm3Aujmtgy4ZvzyJ) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [Please](https://open.spotify.com/album/3VLTcAaYpXaUdeRTwexUpW) | 3:34 |

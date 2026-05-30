@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > The Indie highlights of 2015\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,093 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,099 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 90 | [Spirits](https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 3:23 |
 | 91 | [Love Like Ghosts](https://open.spotify.com/track/1Xca9HfuG65IL3ogdnNfTv) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:44 |
 | 92 | [First](https://open.spotify.com/track/0kuSx4Cm1q6N6pOmCI9CRY) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/3HkVMTl5OJ9lTN3bDSqeI1) | 3:20 |
-| 93 | [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 |
+| 93 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 |
 | 94 | [Affection](https://open.spotify.com/track/1lusH0zFDRV1ThaFYsUgfi) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Affection](https://open.spotify.com/album/4zBZX3bPIQkJMY0CaTGFKh) | 5:11 |
-| 95 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 |
+| 95 | [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 |
 | 96 | [Fool for Love](https://open.spotify.com/track/34pj71vgxTPZxpqXOLYL1I) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 4:34 |
 | 97 | [Flesh without Blood](https://open.spotify.com/track/4ZcGbQ5dOKX6rJk4yvza9R) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1) | 4:24 |
 | 98 | [The Only Thing](https://open.spotify.com/track/6Rt6KwuF7I8ZkdZG2G0bYr) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE) | 4:44 |

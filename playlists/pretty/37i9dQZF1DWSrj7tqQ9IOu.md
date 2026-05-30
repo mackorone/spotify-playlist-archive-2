@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,289 likes - 45 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,297 likes - 45 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 31 | [Goulou Marhaba](https://open.spotify.com/track/42Q1ct71jst62oQbZGe8BL) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7), [Ghita Lahmamssi](https://open.spotify.com/artist/2cEFCTrdHW6WH1PGTd6Zkv), [Sofiane Saidi](https://open.spotify.com/artist/6VnkIRZde53ai5TtkMulr4) | [Goulou Marhaba](https://open.spotify.com/album/6XXZT89NQCOf9DtnY9XsmN) | 4:34 |
 | 32 | [Être une fille](https://open.spotify.com/track/6s7PgvBT8yKRtoogdwZzna) | [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [Les monstres](https://open.spotify.com/album/4w8l9RgrnoYB6EvRkZhmdo) | 3:32 |
 | 33 | [Le besoin](https://open.spotify.com/track/5VYUkw26Zrwj2FC458bQe0) | [Krisy](https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo) | [Le besoin](https://open.spotify.com/album/4BosQLexIQPtg8TPG4ioEA) | 3:05 |
-| 34 | [Mwasi Chou](https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Mwasi Chou](https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ) | 2:35 |
-| 35 | [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 |
+| 34 | [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 |
+| 35 | [Mwasi Chou](https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Mwasi Chou](https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ) | 2:35 |
 | 36 | [ALL WIN](https://open.spotify.com/track/28Hl41hlf9LDVqg4zoy7gE) | [Selug](https://open.spotify.com/artist/3j2UfwsNoDqcuoGh8gp0qi), [$enar](https://open.spotify.com/artist/4aG6mP1P80gOIpELCWePG5) | [FRAGMENT EXHIBITION](https://open.spotify.com/album/44rTVSiLrSOu1o3wIBHTFN) | 3:04 |
 | 37 | [CINÉMA](https://open.spotify.com/track/05AppqGcRJffs3mpphLOTU) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [CINÉMA](https://open.spotify.com/album/3w3eJevAHMoQzOv4lJDxox) | 2:35 |
 | 38 | [CHALÈ](https://open.spotify.com/track/6OTuYW0hggs1rhC5isHJbD) | [Malcolm](https://open.spotify.com/artist/1c3s9SZHgBWS8mpo8DpdUb), [Krys](https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D) | [CHALÈ](https://open.spotify.com/album/75BImxArgxMcPKVJjOpRAB) | 2:18 |

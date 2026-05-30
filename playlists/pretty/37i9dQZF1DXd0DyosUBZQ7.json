@@ -1,6 +1,6 @@
 {
   "description": "The most beautiful love songs of the 2000s",
-  "num_followers": 800392,
+  "num_followers": 800518,
   "original_name": "00s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-02-25 17:44:31",
       "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "Better in Time",
+      "url": "https://open.spotify.com/track/2iXBZ32Fz5VDCLeE0JIdX5"
+    },
+    {
+      "added_at": "2026-02-25 17:44:31",
+      "album": {
         "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 189613,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
-    },
-    {
-      "added_at": "2026-02-25 17:44:31",
-      "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
-      },
-      "artists": [
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "Better in Time",
-      "url": "https://open.spotify.com/track/2iXBZ32Fz5VDCLeE0JIdX5"
     },
     {
       "added_at": "2026-02-25 17:44:31",

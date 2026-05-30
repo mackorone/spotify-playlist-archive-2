@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Brandi Caroline",
+  "description": "The home of Canadian country music. Cover: Josh Ross",
   "name": "North Country",
   "tracks": [
     {
@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Break Me",
+        "url": "https://open.spotify.com/album/6uAdeHY9RHPRbzCFqwvs2L"
+      },
+      "artists": [
+        {
+          "name": "Dylan Burk",
+          "url": "https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203706,
+      "name": "Break Me",
+      "url": "https://open.spotify.com/track/0DBxGDfVuFX94PfQBT1B56"
+    },
+    {
+      "album": {
         "name": "Break the Bronco",
         "url": "https://open.spotify.com/album/6mopZVRgp9DY2PbfKPlCJF"
       },
@@ -1579,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Chase My Whiskey",
+        "url": "https://open.spotify.com/album/3KGPA5z9ScGNxZKvyoax1G"
+      },
+      "artists": [
+        {
+          "name": "Flaysher",
+          "url": "https://open.spotify.com/artist/5k9kGNpX4gbXMBZmlwd1ST"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184396,
+      "name": "Chase My Whiskey",
+      "url": "https://open.spotify.com/track/7wOvpum2LOTjY7bOOcBzS8"
+    },
+    {
+      "album": {
         "name": "Chevy Back",
         "url": "https://open.spotify.com/album/3M9fBBRnLYkoYAVswpmhXx"
       },
@@ -1608,7 +1644,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 185283,
       "name": "Choked Up",
       "url": "https://open.spotify.com/track/4HTz5DqoueYyipp9h8B89T"
@@ -2600,6 +2636,24 @@
       "duration_ms": 184546,
       "name": "Don't Ruin Flowers",
       "url": "https://open.spotify.com/track/45BTsHyp3yFN9lKoQLValX"
+    },
+    {
+      "album": {
+        "name": "Don't Tell My Mama",
+        "url": "https://open.spotify.com/album/1oVbNYohMD3ZwPb8N0PUCJ"
+      },
+      "artists": [
+        {
+          "name": "Chase Kasner",
+          "url": "https://open.spotify.com/artist/2c6MPegUx0MAqyG94uAR3Z"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171946,
+      "name": "Don't Tell My Mama",
+      "url": "https://open.spotify.com/track/4zVZreIpth2xdOL8cfVPlQ"
     },
     {
       "album": {
@@ -3950,7 +4004,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 197388,
       "name": "Growing Down",
       "url": "https://open.spotify.com/track/4sSoej1nVKu9pmN7yI9CD1"
@@ -5326,7 +5380,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 205724,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/7u5HdT7oEXUBCwgrvuYSnQ"
@@ -6376,7 +6430,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 151016,
       "name": "Lonely For You",
       "url": "https://open.spotify.com/track/6OiPqs18yDs5pmrAuOwxRi"
@@ -6730,6 +6784,24 @@
       "duration_ms": 202506,
       "name": "Memories and Empties",
       "url": "https://open.spotify.com/track/2dlgdp1u8EgOWOy2ABLpg7"
+    },
+    {
+      "album": {
+        "name": "Mid Life",
+        "url": "https://open.spotify.com/album/3MQH16onkL9TBdbURqcBR8"
+      },
+      "artists": [
+        {
+          "name": "Sadie Campbell",
+          "url": "https://open.spotify.com/artist/69n5uIWAAoEmNiT7Xm7Mxm"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205402,
+      "name": "Mid Life",
+      "url": "https://open.spotify.com/track/6rVUVt13g4qJ7Tlz2ZQEyG"
     },
     {
       "album": {
@@ -7827,6 +7899,24 @@
     },
     {
       "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/0cgPbc63DY1bWfKJH5sqZx"
+      },
+      "artists": [
+        {
+          "name": "Parker Graye",
+          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166057,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/4lvWYpigxbrnhHK87MYGYy"
+    },
+    {
+      "album": {
         "name": "Options",
         "url": "https://open.spotify.com/album/20aeq6HnVyERNhHNw9GD04"
       },
@@ -8412,7 +8502,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 207547,
       "name": "Quittin' You",
       "url": "https://open.spotify.com/track/4EkMstq9AYcjX6GCScaSBB"
@@ -8776,6 +8866,24 @@
       "duration_ms": 189431,
       "name": "Ruin Your Bar",
       "url": "https://open.spotify.com/track/5P1hRtdbq8Oyw5me30rrj1"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/4WhRCOCbDaoHyRp6wBQFTg"
+      },
+      "artists": [
+        {
+          "name": "Teigen Gayse",
+          "url": "https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200803,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/561ni1xamdigJn4JFDiRXo"
     },
     {
       "album": {
@@ -9216,6 +9324,24 @@
       "duration_ms": 257693,
       "name": "Skeletons",
       "url": "https://open.spotify.com/track/4wFZ05jtrJfOPrIoUvUqpp"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/70o4EY6MgLWzZAseiUBagV"
+      },
+      "artists": [
+        {
+          "name": "Alex Hughes",
+          "url": "https://open.spotify.com/artist/6iL96eq4EA2eoFI9CzyJgI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208523,
+      "name": "Slow Dancing in the Kitchen",
+      "url": "https://open.spotify.com/track/4XNvR2fitDYNWnKKkWZCNc"
     },
     {
       "album": {
@@ -9929,6 +10055,42 @@
     },
     {
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/3vmJiiqwUFe94SyCyxNICH"
+      },
+      "artists": [
+        {
+          "name": "Carson Janik",
+          "url": "https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180562,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/5q2ghdu3ZJ7Xrfq1HXMCD7"
+    },
+    {
+      "album": {
+        "name": "Sunshine's Free",
+        "url": "https://open.spotify.com/album/4pMNPwosSwKdAYj6T1xbtf"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191933,
+      "name": "Sunshine's Free",
+      "url": "https://open.spotify.com/track/1hWt5sMeyacK7IwXm4vKMq"
+    },
+    {
+      "album": {
         "name": "Sweetheart",
         "url": "https://open.spotify.com/album/1zTSjTGULbtRDD3CegA3fO"
       },
@@ -10236,7 +10398,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 157815,
       "name": "The Best Part",
       "url": "https://open.spotify.com/track/3rn5fiAIMgVQSkBD7iQTPv"
@@ -10745,6 +10907,24 @@
     },
     {
       "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/085IcPMakVdABGg6iV6L2n"
+      },
+      "artists": [
+        {
+          "name": "Kelsi Mayne",
+          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155824,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/3nfjyqeYMXo88OLpwFZ6hF"
+    },
+    {
+      "album": {
         "name": "to be honest",
         "url": "https://open.spotify.com/album/3m59dkD0z3TuzwwZSEGt25"
       },
@@ -11110,6 +11290,24 @@
       "duration_ms": 159784,
       "name": "Want This Beer (Feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM"
+    },
+    {
+      "album": {
+        "name": "Wanted Me To Be",
+        "url": "https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185169,
+      "name": "Wanted Me To Be",
+      "url": "https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD"
     },
     {
       "album": {
@@ -11965,6 +12163,24 @@
     },
     {
       "album": {
+        "name": "Wranglin' the Wind",
+        "url": "https://open.spotify.com/album/3mz4VIBIRfg98W6QHotL7c"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195505,
+      "name": "Wranglin' the Wind",
+      "url": "https://open.spotify.com/track/2fJZ896flvh1Wt6CebqggW"
+    },
+    {
+      "album": {
         "name": "From A to B",
         "url": "https://open.spotify.com/album/02yEzzqbzv7JgrZPqQcKiF"
       },
@@ -12142,7 +12358,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 189038,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/6UoUij3bsaaoHH2ekXUmPt"
@@ -12204,6 +12420,24 @@
       "duration_ms": 151320,
       "name": "You're Gonna Fall",
       "url": "https://open.spotify.com/track/1lIv7tnLHNRKjQ6CxJjiIW"
+    },
+    {
+      "album": {
+        "name": "Younger Heart",
+        "url": "https://open.spotify.com/album/7DXw8Imt7QLeSP7amfAXvg"
+      },
+      "artists": [
+        {
+          "name": "Jessie T",
+          "url": "https://open.spotify.com/artist/45TQzwD5AZZYtzgOOJ6X4O"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204027,
+      "name": "Younger Heart",
+      "url": "https://open.spotify.com/track/1mJ9D3yCDUhCuewCpmQnIS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > De beste Studenten Hits 2026 op één plek! 🍻 Dé ultieme playlist voor je huisfeest of de kroeg\. Vol met de beste Nederpop, kroegenhits, meezingers en de hardste tracks van Bankzitters, Antoon, Turfy Gang en Roxy Dekker\. 🎤🔥 Cover: Roxy Dekker
 
-168 songs - 7 hr 36 min
+169 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 | 2026-05-19 |  |
 | [Dansen Met Een Engel](https://open.spotify.com/track/55bhfVPAdefPI7ZoJTVCTN) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [Dansen Met Een Engel](https://open.spotify.com/album/5mwYNIoM2DnIKQfKjZsqH7) | 2:36 | 2026-02-10 | 2026-02-28 |
 | [Dansvloer Dilemma](https://open.spotify.com/track/5hm19T0tQzMHTnC3lZA8PC) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M) | [Dansvloer Dilemma](https://open.spotify.com/album/4NMMzxRCxS2ndNubwAznAF) | 2:08 | 2026-04-24 |  |
+| [De Enige](https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Enige](https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu) | 2:38 | 2026-05-29 |  |
 | [De Liefde](https://open.spotify.com/track/3MrCOZ0qldvkNiQTWG9GIt) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Liefde](https://open.spotify.com/album/61mnvmeJ8RTpN5bXDq6AXy) | 2:04 | 2025-09-19 | 2026-01-17 |
 | [Diva](https://open.spotify.com/track/1rYH9P9TTlTXybJCtLGHJz) | [JIM & JAAF](https://open.spotify.com/artist/45jRKxB5cVjHKJrxAN3tQE) | [Diva](https://open.spotify.com/album/7jmbYMTS57ymh42Y8jWNPs) | 2:36 | 2025-07-18 | 2025-08-16 |
 | [Doe Maar](https://open.spotify.com/track/2bUBLKwK2GKoxIcbmcLhUq) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Gezichten](https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct) | 2:30 | 2025-07-18 | 2025-11-01 |

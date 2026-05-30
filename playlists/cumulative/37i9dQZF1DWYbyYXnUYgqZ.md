@@ -4,7 +4,7 @@
 
 > Enjoy fantastic gameplay with k\-pop music! \(Cover: aespa\)
 
-382 songs - 19 hr 20 min
+383 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [LALISA](https://open.spotify.com/track/2KZ3sNqPogEyMUUH6A5HFy) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/4ASxFYWyk2216OloHoaSh8) | 3:20 | 2024-04-04 | 2024-09-15 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2022-11-24 |  |
 | [Left & Right](https://open.spotify.com/track/5QGooKayQPVZMUDc8Qt3Dm) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:21 | 2023-03-29 | 2024-01-30 |
+| [LEMONADE](https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm) | 3:07 | 2026-05-29 |  |
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-14 | 2026-03-12 |
 | [LIKE YOU BETTER](https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From Our 20's](https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V) | 3:05 | 2025-07-04 | 2025-08-22 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2022-11-24 | 2026-04-26 |
@@ -279,7 +280,7 @@
 | [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 | 2025-02-07 |  |
 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 | 2022-11-24 | 2025-05-01 |
 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 | 2026-04-25 |  |
-| [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 | 2025-09-09 |  |
+| [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 | 2025-09-09 | 2026-05-30 |
 | [Rizz](https://open.spotify.com/track/1Wr3KJN8y31KSsfi3WjVgv) | [XLOV](https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC) | [UXLXVE](https://open.spotify.com/album/06fkAvfJw3XKoHoUxdRwQ4) | 2:21 | 2025-11-14 | 2026-02-10 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2022-11-24 | 2026-04-26 |
 | [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2023-04-24 | 2023-08-26 |

@@ -1433,6 +1433,24 @@
     },
     {
       "album": {
+        "name": "Nowhere Sessions",
+        "url": "https://open.spotify.com/album/1hpZNZUYan5cYkfgMq6GK4"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151829,
+      "name": "Innocence - Nowhere Sessions",
+      "url": "https://open.spotify.com/track/3y9YR3AVhOws7ayEXnsZJo"
+    },
+    {
+      "album": {
         "name": "Three Days in Venice",
         "url": "https://open.spotify.com/album/3PmHajw3xayhJXfgLSLDop"
       },
@@ -2066,6 +2084,36 @@
       "duration_ms": 91075,
       "name": "Nerevar Rising - From \"The Elder Scrolls III: Morrowind\"",
       "url": "https://open.spotify.com/track/0yTRXdMLTtp8zJJlPhrMmt"
+    },
+    {
+      "album": {
+        "name": "Falla: Noches en los jardines de Espa\u00f1a: II. Danza lejana",
+        "url": "https://open.spotify.com/album/5C8Jp8rFmN5WJXSLpSfy9U"
+      },
+      "artists": [
+        {
+          "name": "Manuel de Falla",
+          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
+        },
+        {
+          "name": "Javier Perianes",
+          "url": "https://open.spotify.com/artist/5sYNU2X0Fvw3iAqWTqwWjz"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280613,
+      "name": "Noches en los jardines de Espa\u00f1a: II. Danza lejana",
+      "url": "https://open.spotify.com/track/4gdBxXTNA3Q8MxVUR9eCzJ"
     },
     {
       "album": {
@@ -3534,6 +3582,24 @@
       "duration_ms": 143667,
       "name": "T\u00fandra",
       "url": "https://open.spotify.com/track/7l4zfFpyo8a1zKNsevVcDT"
+    },
+    {
+      "album": {
+        "name": "ulysse",
+        "url": "https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195980,
+      "name": "ulysse",
+      "url": "https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > "Crash" de Joseph Kamel  est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,817 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,790 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

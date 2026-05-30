@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,746 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,742 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 18 | [Fabulous](https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu) | [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Fabulous](https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN) | 2:33 |
 | 19 | [MAM TALENT](https://open.spotify.com/track/5YfLne4OCkpYA2VWQ4w65P) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [WSZYSCY JESTEŚMY KACPERCZYK](https://open.spotify.com/album/0oGbjczLy7pO71s7lwLz8Q) | 3:28 |
 | 20 | [Serce](https://open.spotify.com/track/1ox1cmqXrGCuakXoJFPR8v) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Serce](https://open.spotify.com/album/3glWhyUYAF0ofKNjHQLSRi) | 3:13 |
-| 21 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 |
-| 22 | [kyoto](https://open.spotify.com/track/0opYvODIONdV6edM316xO8) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [FUGAZI](https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG) | 2:43 |
+| 21 | [kyoto](https://open.spotify.com/track/0opYvODIONdV6edM316xO8) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [FUGAZI](https://open.spotify.com/album/1MetFDWprjq2O3RMhYfWnG) | 2:43 |
+| 22 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 |
 | 23 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 |
 | 24 | [W to mi graj](https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [W to mi graj](https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc) | 3:09 |
 | 25 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |

@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-510 songs - 1 day 3 hr 5 min
+511 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Get Away](https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Out Loud](https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY) | 4:28 | 2026-03-20 |  |
 | [Get Busy \- Odd Mob Club Mix](https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Get Busy \(Odd Mob Club Mix\)](https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW) | 2:45 | 2024-07-26 |  |
 | [Gets Like That](https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [The Finest EP](https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve) | 2:49 | 2025-09-26 |  |
-| [Ghost Dance](https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ghost Dance](https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB) | 6:12 | 2026-05-15 |  |
+| [Ghost Dance](https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ghost Dance](https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB) | 6:12 | 2026-05-15 | 2026-05-30 |
 | [girl$](https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [girl$](https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc) | 3:29 | 2024-07-09 |  |
 | [Give It All Now](https://open.spotify.com/track/0DagTSqkS7UIYWJFBN1Up1) | [Red Leopard](https://open.spotify.com/artist/5h24ruFrsYkrOrEA6PXq47) | [Give It All Now](https://open.spotify.com/album/70R5M4X86EDmrRL9jkSEhB) | 3:16 | 2022-03-25 | 2022-07-16 |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-05-26 |  |
@@ -270,6 +270,7 @@
 | [Last Night](https://open.spotify.com/track/5mF7p5mwgaPZyIykUhO3PN) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv) | [Last Night](https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB) | 2:49 | 2024-03-15 | 2026-05-16 |
 | [Last Train Home](https://open.spotify.com/track/7dKYUSJXp0FWmEyon1Iwxr) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh), [Sønlille](https://open.spotify.com/artist/1vyEXTgG15rVyYkb9LyegZ) | [Last Train Home](https://open.spotify.com/album/3oVtkHPjBWhnPSCSOJQZ4J) | 1:59 | 2021-10-29 | 2023-01-15 |
 | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH) | [Lauren \(I Can't Stay Forever\)](https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7) | 3:20 | 2022-03-25 |  |
+| [Let Me Be In Your Arms](https://open.spotify.com/track/4Lgbp0ZVCTLLCf99bwPTVi) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Let Me Be In Your Arms](https://open.spotify.com/album/2fa72V2RpinQQIzeZ1NiPs) | 3:13 | 2026-05-29 |  |
 | [Let Me Know \(feat.CLMD\)](https://open.spotify.com/track/2tOXq7mrNBe9AZ9ZJnlMxh) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I), [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Let Me Know \(feat\. CLMD\)](https://open.spotify.com/album/2SmDq2lOPO1ErprHSC1Cr7) | 2:50 | 2023-06-16 | 2023-06-24 |
 | [Let You Know \- Summer Edit](https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Let You Know \(Summer Edit\)](https://open.spotify.com/album/2tYezXk2MnMVK40DqqnMKm) | 2:29 | 2021-10-29 | 2023-08-26 |
 | [Let's Go](https://open.spotify.com/track/2YRri7ZH86lUUzywldnkAk) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Ida Corr](https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh) | [Let's Go](https://open.spotify.com/album/4soFn3WnZIkSZJiljhkDuB) | 3:38 | 2022-03-04 | 2022-07-29 |

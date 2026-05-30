@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 122256,
+  "num_followers": 122308,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAAC8EOfMzGrFCOEuPG1cHSee",
+  "snapshot_id": "aheFgAAAAACz+6uduy5r45ertQHkD+FF",
   "tracks": [
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Firewatcher's Daughter",
-        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+        "name": "Life On The Run",
+        "url": "https://open.spotify.com/album/7yAO3o6qdWfWgJNHeNwu7Z"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 211674,
-      "name": "The Eye",
-      "url": "https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS"
+      "duration_ms": 229816,
+      "name": "Life On The Run",
+      "url": "https://open.spotify.com/track/0hQCfLsKgUJbupwRcXKpKI"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life On The Run",
-        "url": "https://open.spotify.com/album/7yAO3o6qdWfWgJNHeNwu7Z"
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 229816,
-      "name": "Life On The Run",
-      "url": "https://open.spotify.com/track/0hQCfLsKgUJbupwRcXKpKI"
+      "duration_ms": 211674,
+      "name": "The Eye",
+      "url": "https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS"
     },
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djesse Vol. 4",
-        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 265333,
-      "name": "Little Blue (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/0drXyxyFFvnaQxnYOszTo9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 259558,
       "name": "Party of One (feat. Sam Smith)",
       "url": "https://open.spotify.com/track/25fcj6d2W1l8DQL11Czdzb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djesse Vol. 4",
+        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 265333,
+      "name": "Little Blue (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/0drXyxyFFvnaQxnYOszTo9"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "That Wasn't Me",
-      "url": "https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 193373,
       "name": "If She Ever Leaves Me",
       "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "That Wasn't Me",
+      "url": "https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "Mama Werewolf",
-      "url": "https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -612,9 +596,25 @@
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 142840,
-      "name": "Loose Change",
-      "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
+      "duration_ms": 174933,
+      "name": "Redesigning Women",
+      "url": "https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "Mama Werewolf",
+      "url": "https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -696,25 +680,9 @@
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 174933,
-      "name": "Redesigning Women",
-      "url": "https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "A Woman Oversees",
-      "url": "https://open.spotify.com/track/2r5eNCbdI19jEkHSq9IbgM"
+      "duration_ms": 142840,
+      "name": "Loose Change",
+      "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
     },
     {
       "added_at": null,
@@ -735,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 266493,
+      "name": "A Woman Oversees",
+      "url": "https://open.spotify.com/track/2r5eNCbdI19jEkHSq9IbgM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bear Creek",
         "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
@@ -744,9 +728,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 201493,
-      "name": "Hard Way Home",
-      "url": "https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I"
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Hard Way Home",
+      "url": "https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Firewatcher's Daughter",
-        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 230108,
-      "name": "Wherever is Your Heart",
-      "url": "https://open.spotify.com/track/1kiWXhS6AMJOtU4DPUh0mq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 303593,
       "name": "Broken Horses",
       "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 230108,
+      "name": "Wherever is Your Heart",
+      "url": "https://open.spotify.com/track/1kiWXhS6AMJOtU4DPUh0mq"
     },
     {
       "added_at": null,

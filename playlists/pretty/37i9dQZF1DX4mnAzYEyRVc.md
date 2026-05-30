@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: La Pegatina
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,897 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,906 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 13 | [Juntos](https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Juntos](https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd) | 3:19 |
 | 14 | [La Carencia](https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw) | 3:33 |
 | 15 | [Worm in de Appel](https://open.spotify.com/track/3jQZOvllBN8zXOsVY7nJpq) | [De Baron](https://open.spotify.com/artist/2xASE2c5LniZXcraRO0RML) | [BAALBEK](https://open.spotify.com/album/1qJp7wv0a4SqCO0BANGjC4) | 2:47 |
-| 16 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
-| 17 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 |
+| 16 | [Superman](https://open.spotify.com/track/4X3qGigyU6ARi3HP4lWD95) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Hang\-Ups](https://open.spotify.com/album/3htGAnJ90pQHse0tRzxC56) | 3:05 |
+| 17 | [Me Estoy Enamorando](https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 4:03 |
 | 18 | [El Esqueleto](https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX) | [Victimas Del Doctor Cerebro](https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M) | [Victimas Del Doctor Cerebro](https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv) | 3:41 |
 | 19 | [Pobre de Ti](https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Rock En Español \- Lo Mejor De Tijuana No!](https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g) | 4:42 |
 | 20 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 |
-| 21 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 |
-| 22 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
+| 21 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
+| 22 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 |
 | 23 | [Trébol](https://open.spotify.com/track/5vQ92SVZwXpnIul2ORjTiE) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [FLORA](https://open.spotify.com/album/7hc3laAnfwA9wkRA6tPZNx) | 3:37 |
 | 24 | [Ensenada](https://open.spotify.com/track/2sRWqEaeb91Lv6KwDQnHlO) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Ensenada](https://open.spotify.com/album/1uQ9JO4DlACYQiJWy3bGtw) | 2:34 |
 | 25 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 53 | [Honey](https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Bersinar](https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn) | 3:45 |
 | 54 | [Call Your Bluff](https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Nice One](https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3) | 2:32 |
 | 55 | [Cuando Salga El Sol](https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [En La Tormenta](https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6) | 3:01 |
-| 56 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
-| 57 | [Komm mit aufs Boot](https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Alles glänzt](https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l) | 3:16 |
+| 56 | [Komm mit aufs Boot](https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Alles glänzt](https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l) | 3:16 |
+| 57 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
 | 58 | [Balkan Boys](https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF) | [Dubioza kolektiv](https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY) | [Balkan Boys](https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0) | 2:04 |
 | 59 | [Marchez](https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE) | [The Offenders](https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob) | [Class of Nations](https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1) | 3:11 |
 | 60 | [Sally Brown](https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Story So Far...](https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg) | 4:29 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 85 | [Sally Brown](https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Return Of The Ugly](https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD) | 3:02 |
 | 86 | [Ocean Avenue](https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Brass Emo, Vol\. 2](https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a) | 3:13 |
 | 87 | [Endlich auf Reise](https://open.spotify.com/track/6MiKb3SOL9Ieht1bDJAEK9) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Endlich auf Reise](https://open.spotify.com/album/56iStpgUMwWK6rO1WxjlRs) | 2:59 |
-| 88 | [Tiempo Que Perdí](https://open.spotify.com/track/180xzB9mDTYdKSiJ3BiPqX) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Tiempo Que Perdí](https://open.spotify.com/album/6ctUVAocVvSYL3xWNQ0EGL) | 2:48 |
-| 89 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
+| 88 | [Don\`t Worry Be Happy](https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Don't Worry Be Happy](https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY) | 3:45 |
+| 89 | [Tiempo Que Perdí](https://open.spotify.com/track/180xzB9mDTYdKSiJ3BiPqX) | [Juantxo Skalari & La Rude Band](https://open.spotify.com/artist/0qreoKgxsV67sXRXJSYFPb) | [Tiempo Que Perdí](https://open.spotify.com/album/6ctUVAocVvSYL3xWNQ0EGL) | 2:48 |
 | 90 | [Weit, weit weg](https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc) | [Sondaschule](https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk) | [Weit, weit weg](https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9) | 2:37 |
 | 91 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
 | 92 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |

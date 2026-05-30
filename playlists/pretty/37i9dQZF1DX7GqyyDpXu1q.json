@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 94859,
+  "num_followers": 94865,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Hard Working Man",
-        "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Hard Working Man",
-      "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Middle of Nowhere (feat. Chad Kroeger)",
         "url": "https://open.spotify.com/album/4hJxYCsuIOHLCwfG0pdobM"
       },
@@ -591,6 +575,22 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
+        "name": "Hard Working Man",
+        "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Hard Working Man",
+      "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
         "name": "We're the Bastards",
         "url": "https://open.spotify.com/album/7tCaRKwyNx4rCewpPyD8yv"
       },
@@ -603,22 +603,6 @@
       "duration_ms": 298702,
       "name": "Born to Roam",
       "url": "https://open.spotify.com/track/3MSXNZZuIEAWmtCkLJMtG0"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
-        "name": "She Runs Hot",
-        "url": "https://open.spotify.com/album/26WQ4szhge6FtRZgWqR8bn"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 187352,
-      "name": "She Runs Hot",
-      "url": "https://open.spotify.com/track/5fLAUOUVivK8tXyI5m7zkl"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -639,6 +623,22 @@
       "duration_ms": 306706,
       "name": "Wilted Rose (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "She Runs Hot",
+        "url": "https://open.spotify.com/album/26WQ4szhge6FtRZgWqR8bn"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 187352,
+      "name": "She Runs Hot",
+      "url": "https://open.spotify.com/track/5fLAUOUVivK8tXyI5m7zkl"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Bluephoria",
-        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 272399,
-      "name": "Bluephoria",
-      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Without The Pain",
         "url": "https://open.spotify.com/album/0muiv2vfeWAvQkf7VtBq1U"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 207857,
       "name": "Down No More (feat. Nikki Lane)",
       "url": "https://open.spotify.com/track/31DDhtBgILgcROksRkxU6M"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Bluephoria",
+        "url": "https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 272399,
+      "name": "Bluephoria",
+      "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
       "added_at": "2026-04-10 16:28:54",

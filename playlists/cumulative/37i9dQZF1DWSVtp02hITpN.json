@@ -5889,6 +5889,24 @@
     },
     {
       "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "album": {
         "name": "HE KNOWS (feat. Lil Nas X)",
         "url": "https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2"
       },

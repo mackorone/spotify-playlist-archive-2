@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20175,
+  "num_followers": 20173,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAADk8crh87AhC5mfLFIJL5Mo",
+  "snapshot_id": "aheFgAAAAACryOvqk3Q1RvC7QJCq1UmX",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PEPPER",
-        "url": "https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 118356,
-      "name": "PEPPER",
-      "url": "https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SHOOTING STAR REMIXX (PROD BY JAKOPS)",
         "url": "https://open.spotify.com/album/7FlCBCFnKH1J5ud88NfjzC"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 203573,
       "name": "SHOOTING STAR - BARS REMIXX FEAT. RICO NASTY",
       "url": "https://open.spotify.com/track/5v3qDpknNxse3vx19aJ6RX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PEPPER",
+        "url": "https://open.spotify.com/album/60ezZtdljXaUupTkmZjTn8"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 118356,
+      "name": "PEPPER",
+      "url": "https://open.spotify.com/track/2nASElLFvN8tAibwNwyoJE"
     },
     {
       "added_at": null,
@@ -735,22 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money (feat. Flo Milli)",
-        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
+        "name": "The Fate of the Furious: The Album",
+        "url": "https://open.spotify.com/album/2RUQkpqt06NzfF5qBt4xmZ"
       },
       "artists": [
         {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         },
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 150652,
-      "name": "Money (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
+      "duration_ms": 202093,
+      "name": "Mamacita (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/5QoP9RStRznL8PNZ9nKXl5"
     },
     {
       "added_at": null,
@@ -791,22 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fate of the Furious: The Album",
-        "url": "https://open.spotify.com/album/2RUQkpqt06NzfF5qBt4xmZ"
+        "name": "Money (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
       },
       "artists": [
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 202093,
-      "name": "Mamacita (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/5QoP9RStRznL8PNZ9nKXl5"
+      "duration_ms": 150652,
+      "name": "Money (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
     },
     {
       "added_at": null,

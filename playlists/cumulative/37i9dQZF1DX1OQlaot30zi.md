@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di 18K, Guè, RRARI DAL TACCO, DANTE, Astro, Madman e molti altri.
 
-7,338 songs - 13 day 11 hr 49 min
+7,339 songs - 13 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1331,7 +1331,7 @@
 | [Ce ne ho una nella bralette](https://open.spotify.com/track/6G27orPJCLdoIfJZrcFaLe) | [Milly>](https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf) | [Ce ne ho una nella bralette](https://open.spotify.com/album/36HQfmgoPlqfumqN1Y5Wfb) | 2:35 | 2023-03-09 | 2023-03-25 |
 | [Cecchino](https://open.spotify.com/track/3P8ZLsAr6ipegENB65REsp) | [Lucariello](https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9) | [Cecchino](https://open.spotify.com/album/50fluzx8dNhpcNYD13oOWW) | 2:36 | 2023-01-26 | 2023-02-24 |
 | [CELINE](https://open.spotify.com/track/4W8iTOLsF9WXHdsEz66U53) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [AISHA](https://open.spotify.com/artist/78S0OMZxZhxSE5WxSzJoCf) | [CELINE](https://open.spotify.com/album/0xJpWxYdYOiAGHmSRJVzZO) | 2:19 | 2025-11-14 | 2025-12-05 |
-| [CELINE \(feat\. ZAYRE\)](https://open.spotify.com/track/3Wg3yx21eF9nIJjTsfdNIo) | [Blackmill](https://open.spotify.com/artist/5SeYas0LiuReImA5tTojc0), [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr) | [PERFECT TIMING](https://open.spotify.com/album/10Vms5OvrweoELuCxoR6YF) | 2:59 | 2026-05-28 |  |
+| [CELINE \(feat\. Zayre\)](https://open.spotify.com/track/3Wg3yx21eF9nIJjTsfdNIo) | [Blackmill](https://open.spotify.com/artist/5SeYas0LiuReImA5tTojc0), [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr) | [PERFECT TIMING](https://open.spotify.com/album/10Vms5OvrweoELuCxoR6YF) | 2:59 | 2026-05-28 |  |
 | [CELLA](https://open.spotify.com/track/2du1uQYiBB1tX4L8rPfXJY) | [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr) | [CELLA](https://open.spotify.com/album/63A1VqrV2hqQTBuSIFmJjf) | 2:16 | 2025-04-03 | 2025-04-25 |
 | [Cella 4](https://open.spotify.com/track/0szf0BqOX6XXa2sHb8HtvC) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:06 | 2023-05-25 | 2023-06-23 |
 | [CELLA D'ORO](https://open.spotify.com/track/47i79c1iXPl7QLSq5bsQ50) | [Gallagher](https://open.spotify.com/artist/5cTFbgW0bCLX6aqRgFGwso) | [CELLA D'ORO](https://open.spotify.com/album/3USJUlFxAZ56qyn7qz3OJG) | 2:50 | 2024-07-04 | 2024-07-12 |
@@ -2128,6 +2128,7 @@
 | [EGO \#1](https://open.spotify.com/track/1K2mdmV8IiauF7MIcXJ1mh) | [Solo](https://open.spotify.com/artist/2nblufv1KsYJI9YEYDxOmD) | [EGO \#1](https://open.spotify.com/album/68QbppiY800xR6J56yk4c6) | 1:22 | 2022-10-20 | 2022-11-08 |
 | [EGOISTA \(feat\. Ele A & Promessa\)](https://open.spotify.com/track/7ytyyd3FVqRPMJPohZS7ey) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [Musica Triste](https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN) | 2:59 | 2025-12-05 | 2025-12-31 |
 | [EI BIMBA](https://open.spotify.com/track/129kyfg5wAgPqfQEwsNf9E) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [WELO WE 23 OK](https://open.spotify.com/album/19SjpDDPRfrxX7yRrhx3kL) | 2:18 | 2024-04-11 | 2024-04-19 |
+| [Eiwa 3](https://open.spotify.com/track/1ZlRKcHHtXTvya9jcJj3sD) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Eiwa 3](https://open.spotify.com/album/3LtRktSMthJZtYyQ5vXoIV) | 3:36 | 2026-05-28 |  |
 | [Ekip](https://open.spotify.com/track/7158jz8FPmq8DkrqDjIDB6) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [Ekip](https://open.spotify.com/album/1u94zj4rvh7F7pRTKkNC81) | 2:35 | 2024-03-21 | 2024-04-12 |
 | [EKL \#1](https://open.spotify.com/track/7AUfTQ8fSIGZ7wSB20k987) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [EKL \#1](https://open.spotify.com/album/4G7U3Asn4Slh8d89FWe5ja) | 1:29 | 2023-07-13 | 2023-07-21 |
 | [El Clásico](https://open.spotify.com/track/1o3zBspiPekHlbnewhq7Nf) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Sacrosanto](https://open.spotify.com/album/1wEC3xWDlnrVFDffRQ4k69) | 2:47 | 2023-07-27 | 2023-09-15 |

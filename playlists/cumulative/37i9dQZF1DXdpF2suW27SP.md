@@ -4,7 +4,7 @@
 
 > Nenny entra na zona.
 
-1,021 songs - 2 day 5 hr 41 min
+1,021 songs - 2 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [Lisboa](https://open.spotify.com/track/0QtgdojKkpDtM3TlS2dgyv) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Ontem, Hoje e Talvez Um Dia](https://open.spotify.com/album/6vf4vm8hEyPjjGEmHv6c7K) | 3:12 | 2024-11-22 | 2025-01-03 |
 | [Loko Loko](https://open.spotify.com/track/5H3HOVGluYwAntdrrHJrc0) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Priceless](https://open.spotify.com/album/7yYTfAq087THV6jKKbUSvf) | 3:29 | 2024-05-30 | 2025-01-31 |
 | [Longe de Casa](https://open.spotify.com/track/49mXhS4EdIC6sRoBo2SSLW) | [Minguito 283](https://open.spotify.com/artist/1LvFNnGu8V8HBP8Qy2bhYv) | [Longe de Casa](https://open.spotify.com/album/4Tia4BtXofZ9ImbB8mpoHl) | 3:11 | 2024-11-29 | 2025-01-03 |
+| [Look What You've Done](https://open.spotify.com/track/1Umi992NaKD6NoFkUujkNS) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Elephant In The Room](https://open.spotify.com/album/55aRlTcoJzesDzpi4qlbua) | 2:47 | 2026-05-28 |  |
 | [Louca Life](https://open.spotify.com/track/5qzscOXVEdzhRw8cXe4Bso) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Louca Life](https://open.spotify.com/album/27Xe1TLkI2sxs5e2nYCwCZ) | 2:25 | 2023-05-25 | 2023-07-21 |
 | [Louco](https://open.spotify.com/track/6kJKJrVzOYhqnfeO9NDqIi) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Louco](https://open.spotify.com/album/7CjbtK4vbyv8yS78DXMtQF) | 3:33 | 2022-09-08 | 2023-03-25 |
 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 | 2022-12-16 | 2024-02-16 |
@@ -933,7 +934,6 @@
 | [Tou a Ver Mal](https://open.spotify.com/track/1ojC0FuZuXDvV3FZd8nL4d) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Tou a Ver Mal](https://open.spotify.com/album/2XelCnw5bxJC2ivMbYzuaQ) | 2:34 | 2024-08-22 | 2025-10-24 |
 | [Tou Off](https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Tou Off](https://open.spotify.com/album/1UQdAkoiFLFlNPKpk7WREn) | 2:44 | 2025-06-12 | 2025-09-26 |
 | [Trabadjadores](https://open.spotify.com/track/6Tz9tjOJI3nH09Q9uQXWSf) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Trabadjadores](https://open.spotify.com/album/6bAbmLEutiGnryPYhLZ7ZR) | 2:44 | 2026-03-27 | 2026-04-24 |
-| [Track 5](https://open.spotify.com/track/1Umi992NaKD6NoFkUujkNS) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Elephant In The Room](https://open.spotify.com/album/55aRlTcoJzesDzpi4qlbua) | 0:00 | 2026-05-28 |  |
 | [Tradução](https://open.spotify.com/track/0rPbTXcpkUXbP1jqz0oEqG) | [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Entrelinhas](https://open.spotify.com/album/4qzAJABWAoSIy6LoAebV1u) | 2:58 | 2025-05-22 | 2025-06-13 |
 | [TRAJE](https://open.spotify.com/track/1qG4PQKxaInnCww9yu7Tf7) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs), [Zoo](https://open.spotify.com/artist/4pm6alxkPoKq0c334OGbkH) | [Trilogia: O Legado](https://open.spotify.com/album/2pkSKT2bYhqojZdfJxMWD9) | 3:05 | 2023-02-10 | 2023-04-07 |
 | [Trapstar](https://open.spotify.com/track/4cg7kViRwT1TrrQZqGlTpT) | [Dubzy](https://open.spotify.com/artist/66aZNbD282NMzsBneYujhz), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Trapstar](https://open.spotify.com/album/0xw87VQKsLJatyGV176jIE) | 3:28 | 2022-07-16 | 2022-08-02 |

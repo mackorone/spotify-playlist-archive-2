@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "'PUREFLOW', Pt. 1",
+        "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176546,
+      "name": "BOOMPALA",
+      "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
+    },
+    {
+      "album": {
         "name": "Born Again (feat. Doja Cat & RAYE)",
         "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
       },
@@ -1718,7 +1736,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 178880,
       "name": "CHOOM",
       "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
@@ -1736,7 +1754,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 178880,
       "name": "CHOOM",
       "url": "https://open.spotify.com/track/6gunPOwkADFspLkQtmVuZT"
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 232336,
       "name": "Count to Ten",
       "url": "https://open.spotify.com/track/7Bb2dk76u7tTQxLf1nY9Ne"
@@ -3648,7 +3666,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -4094,7 +4112,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 180000,
       "name": "Heavy Serenade",
       "url": "https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4"
@@ -4112,7 +4130,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Heavy Serenade",
       "url": "https://open.spotify.com/track/1Sjs93mMgi9bX06FFU9Mcv"
@@ -6351,6 +6369,24 @@
     },
     {
       "album": {
+        "name": "Motto",
+        "url": "https://open.spotify.com/album/0cHcsmjduyUcemJtwXUsLj"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Motto",
+      "url": "https://open.spotify.com/track/3xTcC2GxIavh97lAkIVHw6"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -7554,7 +7590,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/0WA27lZzPKFJKAbiDRmQDc"
@@ -7572,7 +7608,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 200000,
       "name": "RUDE!",
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
@@ -9150,7 +9186,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 232720,
       "name": "That Should Be Me",
       "url": "https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S"
@@ -9972,7 +10008,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 174000,
       "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
       "url": "https://open.spotify.com/track/6QkyFjUMmncXzu6oSWKwHQ"
@@ -9994,7 +10030,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "WDA (Whole Different Animal) [feat. G-DRAGON]",
       "url": "https://open.spotify.com/track/4x0GAc6gDUttopqakXNezW"
@@ -13058,7 +13094,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 197384,
       "name": "\u5de6\u8f49\u71c8 (1000 Times+1)",
       "url": "https://open.spotify.com/track/4UwZyC0wEV6XDEAr9kaQhi"
@@ -14248,7 +14284,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
@@ -14266,7 +14302,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 238133,
       "name": "\u64f1\u6dfa",
       "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
@@ -14302,7 +14338,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 232336,
       "name": "\u6578\u5230\u5341",
       "url": "https://open.spotify.com/track/6RN4rGtDTTx9orufM72pC4"
@@ -14428,7 +14464,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L"
@@ -14446,7 +14482,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
@@ -14908,7 +14944,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 261249,
       "name": "\u6f14\u5458",
       "url": "https://open.spotify.com/track/5Sib99jpYybZAicUMETb3h"
@@ -15074,7 +15110,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 256333,
       "name": "\u73ca\u745a\u6d77",
       "url": "https://open.spotify.com/track/3Qj9Fy8BPbWmICTiNkuqB7"
@@ -16270,7 +16306,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 223333,
       "name": "\u90a3\u5929\u4e0b\u96e8\u4e86",
       "url": "https://open.spotify.com/track/3IDhIUeNCVmAxDt7XRMPQb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 
 > 音楽をポケットに詰めて散歩に出かけよう。きっと新しい景色が見えてくるはず。
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,822 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,829 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS0ll5RduHB.md) - [plain]
 | 31 | [If I Leave](https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:00 |
 | 32 | [Beep\-Boop, Beep\-Boop](https://open.spotify.com/track/579uHOz2E7JtV3YNNOwJqu) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio) | 3:23 |
 | 33 | [香り](https://open.spotify.com/track/5APnPxCXlNvoMcnvJ6kmOA) | [波のよう](https://open.spotify.com/artist/6NJMPhL4Va9u2RWjymGYhZ) | [模様](https://open.spotify.com/album/0R3uz2AvjUUhaB2BZmhyeS) | 3:48 |
-| 34 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
+| 34 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
 | 35 | [Aura](https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Aura](https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs) | 5:18 |
-| 36 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \- Bansanka](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
-| 37 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
+| 36 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
+| 37 | [晩餐歌 \- Bansanka](https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \- Bansanka](https://open.spotify.com/album/0i4V6w1zpf6CFXSS67cyfQ) | 3:35 |
 | 38 | [New Romantic \- English Version](https://open.spotify.com/track/2pX3BJ8Dth7FycBchBZPmh) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [New Romantic](https://open.spotify.com/album/0CTUBmq4C8SGei4uMG8TpY) | 2:55 |
 | 39 | [タイムパラドックス](https://open.spotify.com/track/3jNwPOqdPvQIr5dRT0hzgY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [タイムパラドックス](https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK) | 3:46 |
-| 40 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 |
-| 41 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
-| 42 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 |
-| 43 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 |
-| 44 | [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 |
-| 45 | [Okay, Goodbye](https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 3:50 |
-| 46 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 |
-| 47 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
-| 48 | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE) | 3:08 |
+| 40 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 |
+| 41 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 |
+| 42 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 |
+| 43 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 |
+| 44 | [Do You Really Love Her](https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Do You Really Love Her](https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN) | 3:48 |
+| 45 | [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 |
+| 46 | [Okay, Goodbye](https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 3:50 |
+| 47 | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE) | 3:08 |
+| 48 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
 | 49 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
-| 50 | [Casket Girl](https://open.spotify.com/track/46LSraL1efyLHbM5DehGtN) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:05 |
+| 50 | [Beat Yourself Up](https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Beat Yourself Up](https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN) | 2:58 |
 
 Snapshot ID: `AAAAAGnlDfQbaZD+cAqmtun9V01zPnIL`

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "A cool breeze, a clear sky, and calming piano music.",
-  "name": "Peaceful Summer Nights",
+  "description": "Unwind and enjoy the long summer evenings ",
+  "name": "Peaceful Summer Piano",
   "tracks": [
     {
       "album": {
@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 121518,
       "name": "Aislingeach",
       "url": "https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 172000,
       "name": "Amour naturel",
       "url": "https://open.spotify.com/track/39bh8hsTP2ZBQWH0E308rT"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 122000,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/6osYVNKzPnVM3k7y2SasZT"
@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Colorful Wind",
       "url": "https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 159500,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/3e1WYfmlGZvuwiwJRZ9x0f"
@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 203942,
       "name": "Countless Days",
       "url": "https://open.spotify.com/track/07pkIvWcTcQnZxLG8Z4yn7"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 153000,
       "name": "Creeks",
       "url": "https://open.spotify.com/track/2C6ljUnXSMfkcXlExb7xia"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 244374,
       "name": "Dawn Of Day",
       "url": "https://open.spotify.com/track/635M2GuMSoVunGBe7D7vWz"
@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 125500,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/6XxqVuReY8oStJvHuG3cOZ"
@@ -2536,7 +2536,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 120366,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/3908RXyBz01sSe4SDY9SHw"
@@ -2842,7 +2842,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "Hearts of Us",
       "url": "https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2"
@@ -3220,7 +3220,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 155500,
       "name": "Inertia",
       "url": "https://open.spotify.com/track/3V58BYmIwuYLYZbN7IaE9W"
@@ -3904,7 +3904,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 134421,
       "name": "Looking Back",
       "url": "https://open.spotify.com/track/0NonVzf5jmyLRKpSMKzURN"
@@ -4938,7 +4938,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 181223,
       "name": "Papillon",
       "url": "https://open.spotify.com/track/4etRflD5pUsnz108tx1xAc"
@@ -5122,7 +5122,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 171500,
       "name": "Phoneme",
       "url": "https://open.spotify.com/track/0NEX6oBUy1iu6KALZ1m94c"
@@ -5212,7 +5212,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Pour Vous",
       "url": "https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU"
@@ -5320,7 +5320,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "Purity",
       "url": "https://open.spotify.com/track/3iyNoFOyMTZU1SdGbnmdy6"
@@ -5536,7 +5536,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 146000,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/43z2LSP0180NFwr720P3xk"
@@ -5590,7 +5590,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 172124,
       "name": "Retrouvailles",
       "url": "https://open.spotify.com/track/11JN2F71WjDG5uZZ0i1vMd"
@@ -6170,7 +6170,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 196000,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5"
@@ -6350,7 +6350,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 140086,
       "name": "Someday",
       "url": "https://open.spotify.com/track/2l7GZORseeFArK1n3GUjac"
@@ -6368,7 +6368,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 185750,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
@@ -6566,7 +6566,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Still",
       "url": "https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F"
@@ -6624,7 +6624,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 132681,
       "name": "Summer Light",
       "url": "https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk"
@@ -7024,7 +7024,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/2DiA01I5LFxzZC7QpVg3PZ"
@@ -7114,7 +7114,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 162062,
       "name": "The Proposal",
       "url": "https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl"
@@ -7168,7 +7168,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 139500,
       "name": "The Water Floats",
       "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
@@ -7186,7 +7186,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 147535,
       "name": "The Way Home",
       "url": "https://open.spotify.com/track/4QB9QRh9xUuqKTXX9JBqyZ"
@@ -7870,7 +7870,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 162047,
       "name": "When It\u00b4s Love",
       "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
@@ -7978,7 +7978,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 189750,
       "name": "Whereabouts",
       "url": "https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad"
@@ -8356,7 +8356,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "\u00c7a en vaut la peine",
       "url": "https://open.spotify.com/track/3ggkhQAdAMUQe7Bz6kmYzr"

@@ -1,13 +1,29 @@
 {
-  "description": "Featuring that new vintage. Cover: SIENNA SPIRO",
-  "num_followers": 442810,
+  "description": "Featuring that new vintage. Cover: Naomi Scott",
+  "num_followers": 442866,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ2lgpmmyx/czMR9bySOI5cxAc+K",
+  "snapshot_id": "AAAAAIsMQ01ZMj/LgzyKaPDcibYf4c0q",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:01:17",
+      "album": {
+        "name": "F.I.G",
+        "url": "https://open.spotify.com/album/1zz0xielltztZ2Uvh7xzdX"
+      },
+      "artists": [
+        {
+          "name": "Naomi Scott",
+          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
+        }
+      ],
+      "duration_ms": 174107,
+      "name": "Gracie",
+      "url": "https://open.spotify.com/track/5XpfG1xcdznjc3BPdotlXK"
+    },
     {
       "added_at": "2026-05-01 04:02:18",
       "album": {
@@ -23,6 +39,106 @@
       "duration_ms": 178016,
       "name": "Material Lover",
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
+    },
+    {
+      "added_at": "2026-04-10 14:26:03",
+      "album": {
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 151640,
+      "name": "Naturally",
+      "url": "https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET"
+    },
+    {
+      "added_at": "2026-05-29 04:01:17",
+      "album": {
+        "name": "Rain Check (feat. Quinn XCII)",
+        "url": "https://open.spotify.com/album/2C7DC3mMFQelrT6GeMCs80"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        },
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Rain Check (feat. Quinn XCII)",
+      "url": "https://open.spotify.com/track/4cvLkmpPOopL1RCpdHIho1"
+    },
+    {
+      "added_at": "2026-05-29 04:01:17",
+      "album": {
+        "name": "SE9",
+        "url": "https://open.spotify.com/album/3TWvfSehKDLRaHJS7z8cNk"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "duration_ms": 155004,
+      "name": "Man of the House",
+      "url": "https://open.spotify.com/track/4j3tybPIKiCmp1Zm2hLD9Z"
+    },
+    {
+      "added_at": "2026-05-29 04:01:17",
+      "album": {
+        "name": "The Balance",
+        "url": "https://open.spotify.com/album/2veN1R5PcbB0MI5zzkT69R"
+      },
+      "artists": [
+        {
+          "name": "Lenka",
+          "url": "https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "The Balance",
+      "url": "https://open.spotify.com/track/2OIWoUfeUjrlB5p4ckUFan"
+    },
+    {
+      "added_at": "2026-04-17 04:00:57",
+      "album": {
+        "name": "Hate to Be the One",
+        "url": "https://open.spotify.com/album/3D1D6EStEZHBBxevQ9epWK"
+      },
+      "artists": [
+        {
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Hate to Be the One",
+      "url": "https://open.spotify.com/track/6JiUEyUcZ1C9FnNAfO4UIZ"
+    },
+    {
+      "added_at": "2026-05-29 04:01:17",
+      "album": {
+        "name": "Love\u2019s a Gun",
+        "url": "https://open.spotify.com/album/7tUhB6UQTg64z5xx34SdNy"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "duration_ms": 179932,
+      "name": "Love\u2019s a Gun",
+      "url": "https://open.spotify.com/track/7vqgKci5WfCnk0iUrNN9op"
     },
     {
       "added_at": "2026-05-08 04:02:48",
@@ -45,6 +161,22 @@
       "url": "https://open.spotify.com/track/49M6YQAnnBLLGp4LBVbsut"
     },
     {
+      "added_at": "2026-05-29 04:01:17",
+      "album": {
+        "name": "Nothing Like Hollywood",
+        "url": "https://open.spotify.com/album/77UyBNIRrgF0yW0d5WMgGU"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 185992,
+      "name": "Nothing Like Hollywood",
+      "url": "https://open.spotify.com/track/52cP6CHMCWQc6s1XItREqg"
+    },
+    {
       "added_at": "2026-05-22 04:39:47",
       "album": {
         "name": "sailing",
@@ -61,20 +193,20 @@
       "url": "https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm"
     },
     {
-      "added_at": "2026-04-10 14:26:03",
+      "added_at": "2026-05-01 04:02:18",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ"
+        "name": "Liquor Store Roses",
+        "url": "https://open.spotify.com/album/0H8pouOGi69BNR5zGeWswY"
       },
       "artists": [
         {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+          "name": "Odessa A'zion",
+          "url": "https://open.spotify.com/artist/48kTThXnps1zxvbJT5Kpx0"
         }
       ],
-      "duration_ms": 151640,
-      "name": "Naturally",
-      "url": "https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET"
+      "duration_ms": 217500,
+      "name": "Liquor Store Roses",
+      "url": "https://open.spotify.com/track/2Uqz0Q2qibGYXdUxGiiAcE"
     },
     {
       "added_at": "2026-04-10 04:01:15",
@@ -107,38 +239,6 @@
       "duration_ms": 135640,
       "name": "Dress Rehearsal",
       "url": "https://open.spotify.com/track/1zVsoNOPnuwQxpTeP5c7ot"
-    },
-    {
-      "added_at": "2026-04-17 04:00:57",
-      "album": {
-        "name": "Hate to Be the One",
-        "url": "https://open.spotify.com/album/3D1D6EStEZHBBxevQ9epWK"
-      },
-      "artists": [
-        {
-          "name": "Izzy Escobar",
-          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "Hate to Be the One",
-      "url": "https://open.spotify.com/track/6JiUEyUcZ1C9FnNAfO4UIZ"
-    },
-    {
-      "added_at": "2026-05-01 04:02:18",
-      "album": {
-        "name": "Liquor Store Roses",
-        "url": "https://open.spotify.com/album/0H8pouOGi69BNR5zGeWswY"
-      },
-      "artists": [
-        {
-          "name": "Odessa A'zion",
-          "url": "https://open.spotify.com/artist/48kTThXnps1zxvbJT5Kpx0"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Liquor Store Roses",
-      "url": "https://open.spotify.com/track/2Uqz0Q2qibGYXdUxGiiAcE"
     },
     {
       "added_at": "2026-04-10 04:01:15",
@@ -829,22 +929,6 @@
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
-      "added_at": "2026-03-24 02:08:12",
-      "album": {
-        "name": "Crying to God",
-        "url": "https://open.spotify.com/album/6L2JooL3PUF8Pv3n0X6Bui"
-      },
-      "artists": [
-        {
-          "name": "Maella",
-          "url": "https://open.spotify.com/artist/5fj7pxTryEpCSP1Fnde8GY"
-        }
-      ],
-      "duration_ms": 144411,
-      "name": "Crying to God",
-      "url": "https://open.spotify.com/track/1DZI3X3nf0PXjGAkwAifLA"
-    },
-    {
       "added_at": "2026-02-06 05:50:36",
       "album": {
         "name": "Cry (feat. Kenny G)",
@@ -1195,22 +1279,6 @@
     {
       "added_at": "2025-09-19 04:00:35",
       "album": {
-        "name": "Call Up Nancy",
-        "url": "https://open.spotify.com/album/7LZns7IyuIB9EFvo7uwYyM"
-      },
-      "artists": [
-        {
-          "name": "Zinadelphia",
-          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
-        }
-      ],
-      "duration_ms": 205987,
-      "name": "Call Up Nancy",
-      "url": "https://open.spotify.com/track/6Ub4rQInSRonYY6y4TPnk3"
-    },
-    {
-      "added_at": "2025-09-19 04:00:35",
-      "album": {
         "name": "Big Star",
         "url": "https://open.spotify.com/album/01IYN4SUBDMYXXs6F3LWVG"
       },
@@ -1275,26 +1343,6 @@
       "duration_ms": 176400,
       "name": "Close to Love",
       "url": "https://open.spotify.com/track/4IV0Yf16Oh4l5eRPX4Vq31"
-    },
-    {
-      "added_at": "2025-08-22 04:00:12",
-      "album": {
-        "name": "Lake Street Dive & Lawrence: The City Winery Sessions",
-        "url": "https://open.spotify.com/album/4JXSKZu11Q1h5ilBzP44Ay"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        },
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Good Together - The City Winery Sessions",
-      "url": "https://open.spotify.com/track/32xRyR7TB4hM6GuNIFf9gk"
     },
     {
       "added_at": "2025-09-05 04:00:05",
@@ -1395,22 +1443,6 @@
       "duration_ms": 211582,
       "name": "Feels Like Falling in Love",
       "url": "https://open.spotify.com/track/7JGwXMq2zFPEN353QzosNW"
-    },
-    {
-      "added_at": "2025-08-15 04:00:07",
-      "album": {
-        "name": "Somebody To You",
-        "url": "https://open.spotify.com/album/7Eg9y2rEHezE1vaK57eULG"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 177446,
-      "name": "Somebody To You",
-      "url": "https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE"
     },
     {
       "added_at": "2025-08-01 04:00:35",
@@ -1539,22 +1571,6 @@
     {
       "added_at": "2025-05-02 04:00:26",
       "album": {
-        "name": "On The Run",
-        "url": "https://open.spotify.com/album/1bY412UI4q6K8rX2hrRVW6"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 199814,
-      "name": "On The Run",
-      "url": "https://open.spotify.com/track/4WVjWMEhBSn3p99hD4v15b"
-    },
-    {
-      "added_at": "2025-05-02 04:00:26",
-      "album": {
         "name": "Olive Tree",
         "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 198000,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/244s9CWGmyKjAKmKK3cRu3"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Something for Everybody",
-        "url": "https://open.spotify.com/album/0t0hNxHpqtvn7dT3YO18ma"
-      },
-      "artists": [
-        {
-          "name": "Sammy Rae & The Friends",
-          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
-        }
-      ],
-      "duration_ms": 213148,
-      "name": "Good Time Tavern",
-      "url": "https://open.spotify.com/track/5ETuNqDyD25GQ6ygYHaDcd"
     },
     {
       "added_at": "2024-03-08 05:01:00",

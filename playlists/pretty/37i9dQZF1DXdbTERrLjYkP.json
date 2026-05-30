@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Gabriela Bee",
-  "num_followers": 219283,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Hailey Picardi",
+  "num_followers": 219295,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKgeKlRCBfTT1FkfFeqSytW+rD0D",
+  "snapshot_id": "AAAAAKeRqfuwwrkPfYSM6aQmZeuF1tPz",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:02:57",
+      "album": {
+        "name": "scars to prove it",
+        "url": "https://open.spotify.com/album/73Sgh6sfNyy8ZA3RZLJmKS"
+      },
+      "artists": [
+        {
+          "name": "Hailey Picardi",
+          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
+        }
+      ],
+      "duration_ms": 194020,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/1yqQANXMu1CgGTjHQewP6G"
+    },
     {
       "added_at": "2026-04-24 04:00:14",
       "album": {
@@ -199,22 +215,6 @@
       "duration_ms": 158089,
       "name": "better and more",
       "url": "https://open.spotify.com/track/15JjCDBAdKJq1Zy3weXqTT"
-    },
-    {
-      "added_at": "2026-04-24 04:00:14",
-      "album": {
-        "name": "hide and seek",
-        "url": "https://open.spotify.com/album/6X2k0WqDwuRf4h1USksWTv"
-      },
-      "artists": [
-        {
-          "name": "Hailey Picardi",
-          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
-        }
-      ],
-      "duration_ms": 167242,
-      "name": "hide and seek",
-      "url": "https://open.spotify.com/track/05VfUthfCJ34GsPQkQh8nD"
     },
     {
       "added_at": "2026-04-24 04:00:14",

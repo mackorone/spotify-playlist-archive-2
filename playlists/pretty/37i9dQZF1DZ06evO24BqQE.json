@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 49300,
+  "num_followers": 49328,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAADhBHzZmsPuZGoyaJW8129b",
+  "snapshot_id": "aheFgAAAAABCiyL1FEHmZsogUtV7JcRQ",
   "tracks": [
     {
       "added_at": null,
@@ -410,11 +410,15 @@
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 197575,
-      "name": "Totori",
-      "url": "https://open.spotify.com/track/32a4IaGEJUhfy45yV5JH84"
+      "duration_ms": 184989,
+      "name": "Set Up",
+      "url": "https://open.spotify.com/track/7dTEOkCQWc8YuHjuaSolSX"
     },
     {
       "added_at": null,
@@ -431,6 +435,26 @@
       "duration_ms": 164557,
       "name": "For Days",
       "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 209735,
+      "name": "Mood (feat. BNXN)",
+      "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
     },
     {
       "added_at": null,
@@ -459,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 209735,
-      "name": "Mood (feat. BNXN)",
-      "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CAPTAIN",
         "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
       },
@@ -486,15 +490,11 @@
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 184989,
-      "name": "Set Up",
-      "url": "https://open.spotify.com/track/7dTEOkCQWc8YuHjuaSolSX"
+      "duration_ms": 197575,
+      "name": "Totori",
+      "url": "https://open.spotify.com/track/32a4IaGEJUhfy45yV5JH84"
     },
     {
       "added_at": null,

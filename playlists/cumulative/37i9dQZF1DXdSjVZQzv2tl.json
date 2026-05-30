@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 155822,
       "name": "Aceita Que Acabou - Ao Vivo",
       "url": "https://open.spotify.com/track/6fNQLvaEEOdDrnkQQD0D66"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 162580,
       "name": "Ama Um Maloqueiro",
       "url": "https://open.spotify.com/track/2ejSYn4SfoE07mXPlnYVED"
@@ -3059,6 +3059,24 @@
     },
     {
       "album": {
+        "name": "Alian\u00e7a - Vol.2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ejLnHri909csVlNncBvyD"
+      },
+      "artists": [
+        {
+          "name": "Danilo e Davi",
+          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "Eu N\u00e3o Sou Terapia - Ao Vivo",
+      "url": "https://open.spotify.com/track/43M2EwcFfSxthlO3E58Men"
+    },
+    {
+      "album": {
         "name": "EU SOU SENTIMENTO",
         "url": "https://open.spotify.com/album/0ed41BFE41DcIFvnFkjK5V"
       },
@@ -4230,6 +4248,28 @@
       "duration_ms": 158716,
       "name": "Melhor Ser uma Saudade",
       "url": "https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN"
+    },
+    {
+      "album": {
+        "name": "Mente S\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1kgtcBaKHNzz1Xl3SdDPg5"
+      },
+      "artists": [
+        {
+          "name": "Kaique e Felipe",
+          "url": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh"
+        },
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156220,
+      "name": "Mente S\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/2v5zIiTacPZrueyo4wRYtv"
     },
     {
       "album": {

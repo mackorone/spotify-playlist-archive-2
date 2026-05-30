@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: SCRUBB, Aheye 4EVE
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: LANDOKMAI
 
-178 songs - 12 hr 20 min
+179 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Thank You](https://open.spotify.com/track/5CymAewij8lB7VgdhovfZ0) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Thank You](https://open.spotify.com/album/1KOYRnENvPu1Yh8sCGVTaD) | 4:23 | 2025-12-07 |  |
 | [Trip](https://open.spotify.com/track/7k0zv87tT5Q9pEfDErNcm5) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [Trip](https://open.spotify.com/album/1JLTRV3W2SedWzmtUMjDn6) | 3:39 | 2025-10-17 |  |
 | [Turning Back](https://open.spotify.com/track/1LZRt5SEfIxhxrZA6iqgb1) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Turning Back](https://open.spotify.com/album/2rGPzWMTMlOpuTCoPo9vrH) | 4:38 | 2025-08-08 | 2025-09-20 |
-| [กลับดาว \(I Miss You\)](https://open.spotify.com/track/5YbeQOGH0uQhB5lzSlXW0C) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J), [Praewa \(Yellow Fang\)](https://open.spotify.com/artist/7qBqfl2bJ7aD56MWacFHED) | [กลับดาว \(I Miss You\)](https://open.spotify.com/album/06pq31DFHEiGPh0ozdNKFk) | 3:38 | 2026-05-15 |  |
+| [u](https://open.spotify.com/track/0eFzwjkXGKU0dbPkNUpiY7) | [sujipuli](https://open.spotify.com/artist/03Gzv2feBkh5Po9ZH6Mn64) | [u](https://open.spotify.com/album/3rppEgfPmklyFBG7DoKqZZ) | 4:06 | 2026-05-29 |  |
+| [กลับดาว \(I Miss You\)](https://open.spotify.com/track/5YbeQOGH0uQhB5lzSlXW0C) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J), [Praewa \(Yellow Fang\)](https://open.spotify.com/artist/7qBqfl2bJ7aD56MWacFHED) | [กลับดาว \(I Miss You\)](https://open.spotify.com/album/06pq31DFHEiGPh0ozdNKFk) | 3:38 | 2026-05-15 | 2026-05-30 |
 | [กลับมาไม่มีเธอให้กอด \(deserved\)](https://open.spotify.com/track/306CSpkvZDDv5S4sqSDAn7) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [กลับมาไม่มีเธอให้กอด \(deserved\)](https://open.spotify.com/album/4bmOGGTtXBr5Iw4aeqKNNP) | 5:01 | 2025-10-24 |  |
 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 | 2025-04-11 |  |
 | [การรอคอย \( THE WAIT8 \)](https://open.spotify.com/track/6uYSkSc8dQInSNCLTZibeC) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [การรอคอย \( THE WAIT8 \)](https://open.spotify.com/album/1ggZWaDDCyOt3pkPJ9vhUY) | 5:09 | 2025-03-21 | 2025-05-02 |

@@ -238,7 +238,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 159010,
       "name": "8 Pieces, Op. 83 (Arr. for Violin, Viola & Piano): No. 2, Allegro con moto",
       "url": "https://open.spotify.com/track/1xWTaBLkw6T758GCLXNubf"
@@ -1436,7 +1436,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 169000,
       "name": "Concertino for Clarinet & Bassoon in B-Flat Major, Op. 47: II. Andante",
       "url": "https://open.spotify.com/track/0L7jG253pjmPHAo2AREzXE"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 244333,
       "name": "Iphigenie en Aulide, Act II: Gavotte (Arr. J. Brahms)",
       "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
@@ -4715,6 +4715,28 @@
     },
     {
       "album": {
+        "name": "Debussy: R\u00eaverie, CD 76",
+        "url": "https://open.spotify.com/album/2W0kS2snDbRyZkpaTpJI4j"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259799,
+      "name": "R\u00eaverie, CD 76",
+      "url": "https://open.spotify.com/track/3VXIpxYMlX4GMSbR2Ijerb"
+    },
+    {
+      "album": {
         "name": "Flute and Harp",
         "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
       },
@@ -4760,7 +4782,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 376560,
       "name": "Sarabande et rigaudon, Op. 93: Sarabande",
       "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
@@ -5498,7 +5520,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-13",
+      "date_removed": null,
       "duration_ms": 223493,
       "name": "Symphony in C Minor, Bryan Cm2: II. Andante",
       "url": "https://open.spotify.com/track/61BZ2UBzjv5i6AHadb18Lz"
@@ -5576,7 +5598,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 255960,
       "name": "Symphony No. 1 in C Major, \"Die 4 Weltalter\" (the 4 Ages of the World): I. Larghetto",
       "url": "https://open.spotify.com/track/2rDBgkiueKILUcTSBGhSFs"
@@ -6066,7 +6088,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 264052,
       "name": "We Contain Multitudes \u2014 piano reworks",
       "url": "https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr"

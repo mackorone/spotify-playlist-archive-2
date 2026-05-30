@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SCRUBB, Aheye 4EVE",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LANDOKMAI",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "u",
+        "url": "https://open.spotify.com/album/3rppEgfPmklyFBG7DoKqZZ"
+      },
+      "artists": [
+        {
+          "name": "sujipuli",
+          "url": "https://open.spotify.com/artist/03Gzv2feBkh5Po9ZH6Mn64"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246156,
+      "name": "u",
+      "url": "https://open.spotify.com/track/0eFzwjkXGKU0dbPkNUpiY7"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e25\u0e31\u0e1a\u0e14\u0e32\u0e27 (I Miss You)",
         "url": "https://open.spotify.com/album/06pq31DFHEiGPh0ozdNKFk"
       },
@@ -516,7 +534,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 218880,
       "name": "\u0e01\u0e25\u0e31\u0e1a\u0e14\u0e32\u0e27 (I Miss You)",
       "url": "https://open.spotify.com/track/5YbeQOGH0uQhB5lzSlXW0C"

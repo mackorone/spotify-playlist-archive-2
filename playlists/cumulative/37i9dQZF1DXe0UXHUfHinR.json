@@ -6850,7 +6850,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 343120,
       "name": "I'm an Old Cowhand",
       "url": "https://open.spotify.com/track/6VRSZGxuhPGOCgUUAnAaUw"
@@ -8454,7 +8454,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 224962,
       "name": "Lil' Darlin'",
       "url": "https://open.spotify.com/track/6G9gDSV2reYifOmD4cwUSf"
@@ -9340,7 +9340,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 317933,
       "name": "Misty",
       "url": "https://open.spotify.com/track/1LX2CtpOwnPphgZTCl05Ot"
@@ -16330,6 +16330,24 @@
       "duration_ms": 311560,
       "name": "You Don't Know What Love Is",
       "url": "https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi"
+    },
+    {
+      "album": {
+        "name": "Saxophone Colossus",
+        "url": "https://open.spotify.com/album/0yodD8uAkAT5UmrlF2xy97"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387480,
+      "name": "You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC",
+      "url": "https://open.spotify.com/track/4F8h9jXJBeuSRQSlo6owwL"
     },
     {
       "album": {

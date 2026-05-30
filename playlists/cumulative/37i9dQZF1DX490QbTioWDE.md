@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Q´Lokura, Lauta & Amigo de Artistas
 
-622 songs - 1 day 13 hr 38 min
+623 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Lo Que Yo Mas Quiero \- En Vivo](https://open.spotify.com/track/0jBK24cTChX02jnpXuNWrs) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e), [Marcos Bainotti](https://open.spotify.com/artist/1yQtgTKkfePDMJKAY3a3Qc) | [Directo al Corazon](https://open.spotify.com/album/1rKzcGlpc4iGJDr6SxKmwe) | 5:14 | 2021-12-24 | 2022-07-17 |
 | [Loca de Amor \- Vestido Azul](https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Loca de Amor \- Vestido Azul](https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk) | 6:06 | 2023-07-28 | 2026-02-22 |
 | [Loca de Mi Corazón \(en vivo Luna Park\)](https://open.spotify.com/track/5x1ENM1mnRe7GXkXYKaWy9) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [BXXI: Fiesta Cuartetera en el Luna Park](https://open.spotify.com/album/77nVC1HaFajvVvojNBuGmj) | 2:22 | 2024-06-21 | 2024-06-29 |
-| [Los Gatos No Ladran](https://open.spotify.com/track/2ECZISNOHLHKYEtl9oK8aF) | [Chipote](https://open.spotify.com/artist/6zuShqSKzYP7ZPGMkMFhbL) | [Atado a un Sentimiento](https://open.spotify.com/album/3hNqD2OaRuOpj9EWUw7pSS) | 3:58 | 2021-12-24 |  |
+| [Los Gatos No Ladran](https://open.spotify.com/track/2ECZISNOHLHKYEtl9oK8aF) | [Chipote](https://open.spotify.com/artist/6zuShqSKzYP7ZPGMkMFhbL) | [Atado a un Sentimiento](https://open.spotify.com/album/3hNqD2OaRuOpj9EWUw7pSS) | 3:58 | 2021-12-24 | 2026-05-30 |
 | [LOS HERRERA \| DJ TAO Sessions \#31](https://open.spotify.com/track/2FzQHz4ouT2mxZt0YOvftQ) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [LOS HERRERA \| DJ TAO Sessions \#31](https://open.spotify.com/album/7MtGtF1LfSpIbeQ0fy83uS) | 2:52 | 2026-04-17 |  |
 | [Los Infieles](https://open.spotify.com/track/7hIytqIz9AKgutgikzrQij) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Pleno](https://open.spotify.com/album/0ZSwCQoWXkBeDIGphjawWr) | 3:29 | 2021-12-24 | 2022-10-21 |
 | [Los Que Quieran Bailar / Hasta Volverme Loco / Eres Mí Condena \- En Vivo](https://open.spotify.com/track/2QE1uJUwGHsQPqJPgoMgsm) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Aquí y Ahora \(En Vivo\)](https://open.spotify.com/album/3zURDmdkMgq7fWMwcX9u0d) | 5:29 | 2022-01-14 | 2022-05-29 |
@@ -622,6 +622,7 @@
 | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs) | 3:24 | 2022-12-02 |  |
 | [Yerba Mala](https://open.spotify.com/track/6DAZuerCWNL5TtgKo8M2jl) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 6:16 | 2021-12-24 | 2022-07-29 |
 | [Yo Era \- Pero Me Acuerdo De Tí \- En Vivo](https://open.spotify.com/track/3uwBpXEHtJXkGRxJXs32Qf) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Yo Era \- Pero Me Acuerdo De Tí \(En Vivo\)](https://open.spotify.com/album/4RkTc8DAPGZYYti4LcE0ij) | 5:43 | 2025-04-18 | 2025-10-21 |
+| [Yo No Quiero Olvidarte \- Versión Cuarteto \- En Vivo](https://open.spotify.com/track/5fbdhNGzjnXgUe8dfsImIS) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Te Sigo Amando](https://open.spotify.com/album/4NO66xjYXKOd70ibng4odl) | 2:45 | 2026-05-29 |  |
 | [Yo No Te Pido La Luna](https://open.spotify.com/track/3eQSwoKeqXtJ1Nu7n7Qup8) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [20 Grandes Exitos](https://open.spotify.com/album/5sODoADgphMzZfAuOC5sGk) | 2:57 | 2021-12-24 | 2022-07-29 |
 | [Yo No Te Pido la Luna](https://open.spotify.com/track/1pI0IZ9VjXmWKLRMoDMnpZ) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Yo No Te Pido la Luna](https://open.spotify.com/album/65zHSlxJ6lVfTrCi4U1f3V) | 3:20 | 2022-07-31 | 2022-12-08 |
 | [Yo Quería \(Estadio Vélez\)](https://open.spotify.com/track/1THCr8ykaAhoXoX1WpQWUb) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Yo Quería \(Estadio Vélez\)](https://open.spotify.com/album/1w06EiB5vVFIfZcdKa7OTY) | 4:05 | 2023-08-04 | 2023-10-07 |

@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Rezz \\m/
 
-549 songs - 1 day 6 hr 52 min
+550 songs - 1 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Reasons](https://open.spotify.com/track/5cqOmjN3auHvZlhbebzKQx) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Reasons](https://open.spotify.com/album/3WzQWDcaxWTvBMGnZP5u0v) | 4:00 | 2023-04-09 |  |
 | [Reasons](https://open.spotify.com/track/3wsyzb7QDyYi4zlUr1gwE9) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [DePaoli](https://open.spotify.com/artist/64jg1JbmAIHDFsGw27wASG) | [Reasons](https://open.spotify.com/album/3BKOalTzc86wnz4wFKWspc) | 3:18 | 2024-05-03 | 2024-05-25 |
 | [Rebellious](https://open.spotify.com/track/3DdEhdVQfJKEpLQZw9p315) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Rebellious](https://open.spotify.com/album/5eXoCFoPhACMLRDQQy2zOs) | 3:50 | 2021-12-10 | 2022-05-29 |
+| [Red Jacket \(feat\. Sam Gellaitry\)](https://open.spotify.com/track/79gdE92dfr2tW2vTaZfE6H) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Red Jacket \(feat\. Sam Gellaitry\)](https://open.spotify.com/album/0OGiJaQ7BbYuuvyi0uYB1q) | 2:57 | 2026-05-29 |  |
 | [Regret \- Remix](https://open.spotify.com/track/3ga6vzCNgs6nPlbDy3xQlF) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [A Change of Perspective \(Deluxe\)](https://open.spotify.com/album/0MjTA2onvTA3XzdyU64KpD) | 3:29 | 2022-06-24 | 2024-04-19 |
 | [Regret \- Remix](https://open.spotify.com/track/4yRoZ9QC6PQpxVeVQIpN7U) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [A Change of Perspective \(Deluxe\)](https://open.spotify.com/album/3qR8Mr9xCDAk7HAjNkLj3w) | 3:29 | 2022-06-24 | 2022-12-01 |
 | [Regret \- Remix](https://open.spotify.com/track/7Cylzz6IvrRChlRdk9M6Fi) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Regret \(Remix\)](https://open.spotify.com/album/5yeVrIiSsye63K1hSkD07A) | 3:29 | 2022-02-11 | 2022-10-13 |
@@ -535,7 +536,7 @@
 | [We Did It!!!](https://open.spotify.com/track/6nebUmkUoc7fITIKPjS47K) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Death Of An Optimist](https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji) | 2:48 | 2021-12-10 | 2022-11-12 |
 | [We Got It](https://open.spotify.com/track/5AAiUVQeQ0fIDOTG6mc0Sq) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [We Got It](https://open.spotify.com/album/2J7UItkGL3R1GQVlAMCGSk) | 3:02 | 2021-12-10 | 2022-06-25 |
 | [Welcome To My Life](https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k), [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Welcome To My Life](https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT) | 2:24 | 2025-02-07 |  |
-| [Werewolf: Synthwave Edition](https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq) | [Werewolf: Synthwave Edition](https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF) | 3:31 | 2023-03-03 |  |
+| [Werewolf: Synthwave Edition](https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Saxl Rose](https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq) | [Werewolf: Synthwave Edition](https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF) | 3:31 | 2023-03-03 | 2026-05-30 |
 | [What Is Gone](https://open.spotify.com/track/7A3a9Z3qc0uKJ7jRrxmFxW) | [Draeden](https://open.spotify.com/artist/7tZV4FXJNO8FzjgrAToCln), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [What Is Gone](https://open.spotify.com/album/3QBQtt0zcSxJeHD4vAvGDz) | 3:56 | 2025-01-17 | 2025-02-17 |
 | [When I'm Gone](https://open.spotify.com/track/3SbJi93qnSYhOluqRudg7x) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [When I'm Gone](https://open.spotify.com/album/7f7POLfXpKJQpWGDky8q5b) | 3:21 | 2024-02-23 | 2024-06-19 |
 | [When You & Me Dance](https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [When You & Me Dance](https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd) | 3:41 | 2022-12-02 |  |

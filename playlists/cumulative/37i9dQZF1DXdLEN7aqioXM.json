@@ -3927,6 +3927,24 @@
     },
     {
       "album": {
+        "name": "Human Feel",
+        "url": "https://open.spotify.com/album/3VlnChkCyoDrbw2imTxdit"
+      },
+      "artists": [
+        {
+          "name": "Deane",
+          "url": "https://open.spotify.com/artist/00eiatADte2BCVMgJCWeaR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181040,
+      "name": "Human Feel",
+      "url": "https://open.spotify.com/track/4NWYs9nLKxfVicWbG81I7H"
+    },
+    {
+      "album": {
         "name": "Hurts",
         "url": "https://open.spotify.com/album/2ZvNwpLsK2gfNfEwct0TEf"
       },
@@ -4938,7 +4956,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 225000,
       "name": "Lost in the Cloud",
       "url": "https://open.spotify.com/track/40JOgWqmM7B3RX76psrb8N"
@@ -5642,6 +5660,24 @@
       "duration_ms": 359998,
       "name": "Night Racer",
       "url": "https://open.spotify.com/track/6BKZW4gfNkFdhRGbVlN5ZD"
+    },
+    {
+      "album": {
+        "name": "Night Ride",
+        "url": "https://open.spotify.com/album/2i6lhQ8sWQn5ivvjUeJvFO"
+      },
+      "artists": [
+        {
+          "name": "Deane",
+          "url": "https://open.spotify.com/artist/00eiatADte2BCVMgJCWeaR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224745,
+      "name": "Night Ride",
+      "url": "https://open.spotify.com/track/1pN2aCf9yTjFuEaJcLP5CP"
     },
     {
       "album": {
@@ -8224,7 +8260,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 244500,
       "name": "Test Pilot",
       "url": "https://open.spotify.com/track/3k7F9Z4RKOajIRQ2gDWO7N"

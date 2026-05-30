@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 
 > This is Zendaya\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,077 likes - 34 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,079 likes - 34 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [All For Us](https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 3:11 |
-| 2 | [Rewrite The Stars](https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Rewrite The Stars](https://open.spotify.com/album/0mRqi6mOvyVVVEIfFFfWXU) | 3:37 |
+| 1 | [Rewrite The Stars](https://open.spotify.com/track/630sXRhIcfwr2e4RdNtjKN) | [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Rewrite The Stars](https://open.spotify.com/album/0mRqi6mOvyVVVEIfFFfWXU) | 3:37 |
+| 2 | [All For Us](https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 3:11 |
 | 3 | [The Greatest Show](https://open.spotify.com/track/4ylWMuGbMXNDgDd8lErEle) | [Hugh Jackman](https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2), [Keala Settle](https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS), [Zac Efron](https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [The Greatest Showman Ensemble](https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 5:02 |
 | 4 | [Replay](https://open.spotify.com/track/7d1CFwrBmH34gmS0Hkbfbt) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:29 |
 | 5 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 |
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OzSuY.md) - [plain]
 | 27 | [Made In Japan](https://open.spotify.com/track/6MVd0fiTvnNySVpKcxox6I) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: Made In Japan \(Original Soundtrack\)](https://open.spotify.com/album/5TUn50U2OFVerctibxueCs) | 2:56 |
 | 28 | [Beat Of My Drum](https://open.spotify.com/track/3kQof6BTRSz9eo0e8E0mSU) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff) | 3:16 |
 | 29 | [Bottle You Up](https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Zendaya](https://open.spotify.com/album/7hCAU57zY6snnRSHXqAWUl) | 3:38 |
-| 30 | [Dig Down Deeper](https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Disney Fairies: Faith, Trust and Pixie Dust](https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ) | 3:02 |
-| 31 | [The Same Heart](https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX) | [Shake It Up: Made in Japan](https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4) | 3:34 |
+| 30 | [The Same Heart](https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs), [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX) | [Shake It Up: Made in Japan](https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4) | 3:34 |
+| 31 | [Dig Down Deeper](https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Disney Fairies: Faith, Trust and Pixie Dust](https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ) | 3:02 |
 | 32 | [This is My Dance Floor](https://open.spotify.com/track/6A4t0Qss5Azkt2D7n0XbFJ) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff) | 3:07 |
 | 33 | [I'm Back](https://open.spotify.com/track/0kAHwYhGSsDYhJDvqqFFEj) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Shake It Up: I <3 Dance](https://open.spotify.com/album/57Cd64D2RrJf4NOVlwgn4O) | 2:26 |
 | 34 | [Fireflies](https://open.spotify.com/track/4JAIxZETWX5KwNTmCcJVXH) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Silver Soul](https://open.spotify.com/album/50kJC7jxGk1sbWTC51syZ4) | 4:28 |
 
-Snapshot ID: `ahY0AAAAAABu84LKLVrHZni7s/c6Fhl5`
+Snapshot ID: `aheFgAAAAAB0pG+0rgNjn1Axu34f2rRz`

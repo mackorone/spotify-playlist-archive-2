@@ -472,7 +472,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 251134,
       "name": "Back To The Sun - Nu: Tone Remix",
       "url": "https://open.spotify.com/track/1TdL6ORhmGZlgEo7sKRdGQ"
@@ -1621,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Eyes Turn Blue",
+        "url": "https://open.spotify.com/album/56eDVWsy2AeahPXVZbRtDC"
+      },
+      "artists": [
+        {
+          "name": "Wayward",
+          "url": "https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214284,
+      "name": "Eyes Turn Blue",
+      "url": "https://open.spotify.com/track/304qtBTwDOwkiwGIcsl15T"
+    },
+    {
+      "album": {
         "name": "Fall A Little Further",
         "url": "https://open.spotify.com/album/3rZRLZOPXIsA8hfYsm6IPj"
       },
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 246000,
       "name": "Green Silk",
       "url": "https://open.spotify.com/track/28bxBvsA2B8685eMYNFCIP"
@@ -4850,6 +4868,32 @@
       "duration_ms": 234452,
       "name": "The Shade",
       "url": "https://open.spotify.com/track/2g1IHsmZ15G2pmFu6rTMCh"
+    },
+    {
+      "album": {
+        "name": "The Simple Life",
+        "url": "https://open.spotify.com/album/107TV5duwQmGHrzgC7ZP8y"
+      },
+      "artists": [
+        {
+          "name": "Keeno",
+          "url": "https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        },
+        {
+          "name": "Noppo",
+          "url": "https://open.spotify.com/artist/4bFw5cibhGOOZn1ruUPDZ4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "The Simple Life",
+      "url": "https://open.spotify.com/track/072Jqz7VTPV8m99hhaKToi"
     },
     {
       "album": {

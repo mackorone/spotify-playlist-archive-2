@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,212 songs - 2 day 12 hr 32 min
+1,213 songs - 2 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\#NOMUSICNOLIFE](https://open.spotify.com/track/3oHF7XlJs4Ce4xTF5RSbBy) | [dreamilla](https://open.spotify.com/artist/4jlwU8ZSTDGkLnpJ8iQIaj) | [\#NOMUSICNOLIFE](https://open.spotify.com/album/14AXX1uBD9Bd2Qs03B6fSu) | 3:25 | 2026-05-28 |  |
 | [\(Isn’t It\) Obvious](https://open.spotify.com/track/2WHpyoNdtUirfIv256JznP) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [\(Isn’t It\) Obvious](https://open.spotify.com/album/6mDGrC2zC5bugpOTPwNedv) | 3:51 | 2024-10-24 | 2024-12-06 |
 | [10 000 tuntii](https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [10 000 tuntii](https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq) | 2:15 | 2025-03-16 | 2025-06-13 |
+| [10!](https://open.spotify.com/track/5wGpuoijb2FQHzk4AQeBw0) | [keiju](https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5), [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [PIIKA](https://open.spotify.com/album/7uQXB9fAq0FLImsAIjjuKH) | 2:28 | 2026-05-28 |  |
 | [10/10](https://open.spotify.com/track/3gOsiQH9yMW41J0btVZQet) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Ootsä nähny mua?](https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI) | 2:56 | 2026-05-28 |  |
 | [100 kyyneltä](https://open.spotify.com/track/4odOlYAhOx65GVHPCaoMSR) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [100 kyyneltä](https://open.spotify.com/album/6D8caW2M3TrdCJ1YeFoUPS) | 3:06 | 2024-07-02 | 2024-07-12 |
 | [110%](https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi) | [Frans Harju](https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5) | [110%](https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW) | 3:01 | 2026-05-14 |  |
@@ -252,7 +253,7 @@
 | [Ennen sua](https://open.spotify.com/track/0xb7htv9v9ylxcYI1fOLDR) | [Ollie](https://open.spotify.com/artist/4e9ntSageEujJboJQBXtCd) | [Ennen sua](https://open.spotify.com/album/5pBEiUE07GNnHV5dl4mHdz) | 2:48 | 2026-04-23 |  |
 | [Enola Gay](https://open.spotify.com/track/1mR4aI9Np7l7RUis9CPJD4) | [Mira Luoti](https://open.spotify.com/artist/5j9mMB9gew9wNCvFJWiNho) | [Enola Gay](https://open.spotify.com/album/6crcPY9XaTewuqBwaoeSVU) | 3:35 | 2025-09-11 | 2025-09-26 |
 | [Ensimmäinen rodeo](https://open.spotify.com/track/63bOA2aqFlPVof4vsRgClw) | [RODEO](https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ), [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3), [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0) | [Ensimmäinen rodeo](https://open.spotify.com/album/4F3MlgDxWZ5f9KnBjvh845) | 3:04 | 2024-11-07 | 2024-12-06 |
-| [Entä jos en pärjääkään](https://open.spotify.com/track/7u7QfpxxJ4L8wlakNEPlar) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Itken jos mua huvittaa](https://open.spotify.com/album/5GXtveP0s6zMPn0DNi4zN5) | 3:58 | 2026-04-23 |  |
+| [Entä jos en pärjääkään](https://open.spotify.com/track/7u7QfpxxJ4L8wlakNEPlar) | [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Itken jos mua huvittaa](https://open.spotify.com/album/5GXtveP0s6zMPn0DNi4zN5) | 3:58 | 2026-04-23 | 2026-05-30 |
 | [Epic Piano](https://open.spotify.com/track/56Q9zG5CI3capyqlA8oqrd) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [CAMALEÓN](https://open.spotify.com/album/4eHDzz9l9ZhECvt9VRSfoc) | 3:08 | 2025-06-19 | 2025-07-04 |
 | [Epäreilu maailma](https://open.spotify.com/track/3bjBf94QpKfOnXjc6a1tZx) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA), [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Epäreilu maailma](https://open.spotify.com/album/1X5AFKgpaJdTWMjAEd7O7e) | 3:25 | 2025-07-03 | 2025-09-05 |
 | [Erityisen hyvä](https://open.spotify.com/track/2tLo3GXozBoluOVweDXQUQ) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Erityisen hyvä](https://open.spotify.com/album/0IQmXpX745a4eFEGtXo9K0) | 2:58 | 2025-04-10 | 2025-06-06 |
@@ -879,6 +880,7 @@
 | [Samoilla silmil](https://open.spotify.com/track/13LbLU6tKyeukKbshFT0FO) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Samoilla silmil](https://open.spotify.com/album/0W3qVNLadZJP3CkPlxkdqf) | 2:46 | 2025-06-12 | 2025-08-29 |
 | [San Francisco Boy](https://open.spotify.com/track/76NMPdhz29sqm6pOnRkhd6) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [San Francisco Boy](https://open.spotify.com/album/1zQJ4WlT5SLCNZNrMErnwb) | 2:34 | 2025-01-30 | 2025-04-04 |
 | [Sano vaan](https://open.spotify.com/track/3bmaYlyaca8hvQ7cUEzHhG) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sano vaan](https://open.spotify.com/album/3SZuNM26rWPkYk5LGoiDjf) | 2:48 | 2024-07-02 | 2024-10-18 |
+| [Santana](https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR) | [Jenni & Juho](https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp) | [Santana](https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT) | 2:52 | 2026-05-28 |  |
 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-06 | 2025-06-24 |
 | [Sasha](https://open.spotify.com/track/4Bfuv305X5QqEGnufnfBla) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Sasha](https://open.spotify.com/album/1gDeiAIRl8hRfX3gwe7TYz) | 2:32 | 2025-05-29 | 2025-08-22 |
 | [Sata Enkelii](https://open.spotify.com/track/4kyyeD1eO2wR6VfRKh4gkq) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sata Enkelii](https://open.spotify.com/album/0qNFBKhnuzQDDgHtXzO2D8) | 2:54 | 2025-07-24 | 2025-09-05 |
@@ -1064,7 +1066,6 @@
 | [Totuus sattuu](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 | 2025-09-25 | 2026-03-27 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2024-08-02 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-02-27 |
-| [Track 4](https://open.spotify.com/track/5wGpuoijb2FQHzk4AQeBw0) | [keiju](https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5) | [PIIKA](https://open.spotify.com/album/7uQXB9fAq0FLImsAIjjuKH) | 0:00 | 2026-05-28 |  |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 | 2024-08-16 |
 | [Tranquilo](https://open.spotify.com/track/4jhpt0feTOokOBHfpDEtCm) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Tranquilo](https://open.spotify.com/album/6OTS11XRvkTc8eRQQsPzoL) | 3:07 | 2025-06-12 | 2025-08-29 |
 | [Trappist girl \(The night\)](https://open.spotify.com/track/2nCyU8ibpA1iAnRCVb3gs3) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV) | [Trappist girl \(The night\) / AITOMONSTERI](https://open.spotify.com/album/4Vofrrg3JJ7YwKYoggylMh) | 2:48 | 2025-09-18 | 2025-09-26 |

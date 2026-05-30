@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4439,
+  "num_followers": 4438,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAACrnFToFNC7OsCETy7h98LH",
+  "snapshot_id": "aheFgAAAAAAI8F4c5346+/yXnxFUF4JO",
   "tracks": [
     {
       "added_at": null,
@@ -811,34 +811,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terror das Faixa Rosa",
-        "url": "https://open.spotify.com/album/3NYjHyeci4UIvLJ2wLDkpi"
+        "name": "Nike Novo",
+        "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
       },
       "artists": [
         {
-          "name": "DaPaz",
-          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
-        },
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Mc KF",
-          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
-        },
-        {
-          "name": "BR DA TIJUCA",
-          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Terror das Faixa Rosa",
-      "url": "https://open.spotify.com/track/4g0gHjrnumFFPIOGt0NmWr"
+      "duration_ms": 184256,
+      "name": "Nike Novo",
+      "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
     },
     {
       "added_at": null,
@@ -895,50 +887,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Horas",
-        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
+        "name": "Terror das Faixa Rosa",
+        "url": "https://open.spotify.com/album/3NYjHyeci4UIvLJ2wLDkpi"
       },
       "artists": [
         {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+          "name": "DaPaz",
+          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
         },
         {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Mc KF",
+          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
+        },
+        {
+          "name": "BR DA TIJUCA",
+          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         }
       ],
-      "duration_ms": 206197,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nike Novo",
-        "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
-      },
-      "artists": [
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Nike Novo",
-      "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
+      "duration_ms": 201600,
+      "name": "Terror das Faixa Rosa",
+      "url": "https://open.spotify.com/track/4g0gHjrnumFFPIOGt0NmWr"
     },
     {
       "added_at": null,
@@ -967,6 +943,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/5KEL8i8d5c4Bkd8v1YC3Ms"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 206197,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
       },
@@ -991,6 +991,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poc Poc",
+        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 212375,
+      "name": "Poc Poc",
+      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bailean",
         "url": "https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 218181,
       "name": "Bailean",
       "url": "https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poc Poc",
-        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 212375,
-      "name": "Poc Poc",
-      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
     },
     {
       "added_at": null,
@@ -1379,26 +1379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No meu Flat",
-        "url": "https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa"
-        }
-      ],
-      "duration_ms": 242285,
-      "name": "No meu Flat",
-      "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time dos Sonhos",
         "url": "https://open.spotify.com/album/6nzRGaBnhvL6hqJ0X0o9S5"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 411428,
       "name": "Time dos Sonhos",
       "url": "https://open.spotify.com/track/1Ab3rxk7i8yZ4jbs3AzGrC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No meu Flat",
+        "url": "https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa"
+        }
+      ],
+      "duration_ms": 242285,
+      "name": "No meu Flat",
+      "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
     }
   ],
   "unique_name": "This Is Hyperanhas",

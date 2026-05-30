@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,949 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,981 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 12 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
 | 13 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
 | 14 | [Wolves](https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Pride](https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX) | 6:14 |
-| 15 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
-| 16 | [No Children](https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 2:48 |
+| 15 | [No Children](https://open.spotify.com/track/5cxnSTLzGD1t9xcdmJYFVB) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX) | 2:48 |
+| 16 | [I And Love And You](https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [I And Love And You](https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON) | 5:00 |
 | 17 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
 | 18 | [The Greatest](https://open.spotify.com/track/0OVXLPJPDCFn1IV6bFxY1N) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/1l1gFL41bdfI32LBdYlUqS) | 3:22 |
 | 19 | [Furr](https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB) | [Blitzen Trapper](https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1) | [Furr](https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7) | 4:07 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 71 | [Mykonos](https://open.spotify.com/track/0zRqVLbBZJrE7AAKrSW1RU) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Sun Giant](https://open.spotify.com/album/5NEop2elZh36TMtGHA9Zrt) | 4:35 |
 | 72 | [Since You've Been Around](https://open.spotify.com/track/5SXvXwYx8xpYw0a4A7BKG7) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr) | [If Songs Could Be Held](https://open.spotify.com/album/5VjrAV4Cs0LIbHAI21DS5i) | 3:18 |
 | 73 | [Abilene](https://open.spotify.com/track/3NJaTv311TiINuJpRa6UG7) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Where Shall You Take Me? \(Deluxe Reissue\)](https://open.spotify.com/album/5zkvaLpSAbwyu9XjHbpfzs) | 2:26 |
-| 74 | [So Far Around the Bend](https://open.spotify.com/track/3VBgeexCnoYt5u1iGW7lSf) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Dark Was The Night \(Red Hot Compilation\)](https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4) | 3:42 |
-| 75 | [The Orchids](https://open.spotify.com/track/3wgONxKYvwtH1fECL3D810) | [Califone](https://open.spotify.com/artist/3mv2eHwrIONSkviASDMRMa) | [Roots & Crowns](https://open.spotify.com/album/3Tvn8fHZjGCPX18ldQZ9BJ) | 2:55 |
+| 74 | [The Orchids](https://open.spotify.com/track/3wgONxKYvwtH1fECL3D810) | [Califone](https://open.spotify.com/artist/3mv2eHwrIONSkviASDMRMa) | [Roots & Crowns](https://open.spotify.com/album/3Tvn8fHZjGCPX18ldQZ9BJ) | 2:55 |
+| 75 | [So Far Around the Bend](https://open.spotify.com/track/3VBgeexCnoYt5u1iGW7lSf) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Dark Was The Night \(Red Hot Compilation\)](https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4) | 3:42 |
 | 76 | [The Modern Leper](https://open.spotify.com/track/2xALofmnFyFRXwG7ncQLdv) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/0aEKqpGQL492khPyXtZiLC) | 3:50 |
 | 77 | [Thin Blue Flame](https://open.spotify.com/track/54CighVkEb2QiKBbus2ua9) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 9:38 |
 | 78 | [Between Two Mysteries](https://open.spotify.com/track/1YyRRRrgFCCkVSBsQ3Pc0P) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [Wind's Poem](https://open.spotify.com/album/5GYhXZgCMiQFkck0RREyCJ) | 4:18 |

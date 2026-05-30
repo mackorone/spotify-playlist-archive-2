@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 
 > ¡Cortes modernos pa' los compas con estilo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,178 likes - 125 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,189 likes - 125 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 | 72 | [Gracias \(En Vivo\)](https://open.spotify.com/track/5EaQLzvlO0TefeD4QyUJzx) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/3gtS0XyGrprUswn8LP2xzo) | 3:55 |
 | 73 | [ROMPE LA DOMPE](https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [ROMPE LA DOMPE](https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ) | 2:45 |
 | 74 | [Rápido Soy](https://open.spotify.com/track/492zkdiUa0CECUDyiG3d35) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [Rápido Soy](https://open.spotify.com/album/6DOUE9WKRCWTfWZlHlY8Qr) | 1:54 |
-| 75 | [Se Fue La Pantera](https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [De Boca En Boca](https://open.spotify.com/album/01olKgKJsavApHa7QJNT29) | 3:07 |
-| 76 | [MONEY EDITION](https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [MONEY EDITION](https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i) | 2:38 |
+| 75 | [MONEY EDITION](https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [MONEY EDITION](https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i) | 2:38 |
+| 76 | [Se Fue La Pantera](https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [De Boca En Boca](https://open.spotify.com/album/01olKgKJsavApHa7QJNT29) | 3:07 |
 | 77 | [L\-Gante: Bzrp Music Sessions, Vol\. 38/66](https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: Bzrp Music Sessions, Vol\. 38/66](https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH) | 3:12 |
 | 78 | [2/Catorce](https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [2/Catorce](https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno) | 3:32 |
 | 79 | [Solita](https://open.spotify.com/track/5bZ1FNzTSeFOg58a4k00iQ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Solita](https://open.spotify.com/album/4jnbjRmfIxT6M5ECYpXizH) | 3:22 |

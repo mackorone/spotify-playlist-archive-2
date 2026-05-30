@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,274,470 likes - 80 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,274,340 likes - 80 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,18 +16,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 6 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 |
 | 7 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 8 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
-| 9 | [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 |
+| 9 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
 | 10 | [See Through](https://open.spotify.com/track/4NjWqzNLY1E0OylkvAiLxH) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [See Through](https://open.spotify.com/album/7qqtzUz4Wd44ylS9kC5wrP) | 2:50 |
 | 11 | [Fake Plastic Trees](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:50 |
-| 12 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 |
+| 12 | [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 |
 | 13 | [I hate goodbyes](https://open.spotify.com/track/3kbsuPKsw05zfL9Pk8htLV) | [Maddie Ashman](https://open.spotify.com/artist/0kUfq7dUYNktJeT3OgFhtO) | [I hate goodbyes](https://open.spotify.com/album/7hYJX6m92wDB9cnpNgswmb) | 3:49 |
 | 14 | [Fine Line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:17 |
-| 15 | [The View Between Villages](https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:35 |
+| 15 | [Call Your Mom](https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 4:38 |
 | 16 | [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 |
 | 17 | [Tourniquet](https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:09 |
 | 18 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 19 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 |
-| 20 | [Call Your Mom](https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 4:38 |
+| 20 | [The View Between Villages](https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:35 |
 | 21 | [A House In Nebraska](https://open.spotify.com/track/6UxAKocZd98MRn0u5obryV) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 7:46 |
 | 22 | [Please Don't Be](https://open.spotify.com/track/1SuNH8rKUtcjWJYvZ3bBGo) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Bloom Mountain](https://open.spotify.com/album/1OHKL8uNnR7RIoLbCjTJIt) | 2:55 |
 | 23 | [In The Light](https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [American Romance](https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX) | 3:15 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 73 | [She Drives The Car](https://open.spotify.com/track/5HVqwCe11o0R2WjwJQnRuL) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [These Things We Carry](https://open.spotify.com/album/4BEEJeqJqSUAAGGUpuqkPB) | 5:20 |
 | 74 | [Rolling Stone](https://open.spotify.com/track/00qJKFfHIjJ5qKC5JtqBSZ) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 2:31 |
 | 75 | [Pieces of My Heart](https://open.spotify.com/track/3ynLyAD1uNeXxm47XarUwD) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Michelangelo Dying](https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho) | 3:39 |
-| 76 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 |
-| 77 | [Let Your Love Run Cold](https://open.spotify.com/track/4lDviyx50ZMALSovCHFo61) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Let Your Love Run Cold](https://open.spotify.com/album/02qqL9B8uYPcrA7yCmMjdS) | 3:43 |
+| 76 | [Let Your Love Run Cold](https://open.spotify.com/track/4lDviyx50ZMALSovCHFo61) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Let Your Love Run Cold](https://open.spotify.com/album/02qqL9B8uYPcrA7yCmMjdS) | 3:43 |
+| 77 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 |
 | 78 | [Pinetrees](https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Pinetrees](https://open.spotify.com/album/2hXdszF3JmErfOInSMV3hQ) | 3:24 |
 | 79 | [Nostalgia](https://open.spotify.com/track/3D0IdhT2IFbXNOYaT67Ng5) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Nostalgia](https://open.spotify.com/album/4S4Hg7TfDfGheMAjgOoLJX) | 4:01 |
-| 80 | [Twin](https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Twin](https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq) | 5:17 |
+| 80 | [afraid](https://open.spotify.com/track/7hfQPhDkRaJDb0kUrxkBTs) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u), [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [afraid](https://open.spotify.com/album/2nIkRl4p0GBYkLoV2z2AxD) | 3:00 |
 
 Snapshot ID: `AAAAANawW54KJvh2tcksq3V9c4rupgrm`

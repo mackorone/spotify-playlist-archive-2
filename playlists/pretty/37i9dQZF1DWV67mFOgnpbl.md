@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 
 > For those who like to party hard!
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,643 likes - 90 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,782 likes - 90 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 13 | [Them Bones \(2022 Remaster\)](https://open.spotify.com/track/4A065x9kJt955eGVqf813g) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 2:29 |
 | 14 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
 | 15 | [Run to the Hills \- 2015 Remaster](https://open.spotify.com/track/4Zc7TCHzuNwL0AFBlyLdyr) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Number of the Beast \(2015 Remaster\)](https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO) | 3:53 |
-| 16 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 |
-| 17 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
+| 16 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
+| 17 | [You Could Be Mine](https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:43 |
 | 18 | [Cum on Feel the Noize](https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Metal Health](https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK) | 4:50 |
 | 19 | [Breaking the Law](https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 2:33 |
 | 20 | [Holy Wars...The Punishment Due \- 2004 Remix](https://open.spotify.com/track/5LyRtsQLhcXmy50VXhQXXS) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace \(2004 Remix / Expanded Edition\)](https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ) | 6:32 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 70 | [Fleur de lis](https://open.spotify.com/track/4uTEG0XN5AF7aZdSAuVkLX) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [Conspiracy](https://open.spotify.com/album/6HhxlpaqZix2VU3G3UscTH) | 4:13 |
 | 71 | [Hurry Up & Die](https://open.spotify.com/track/0D3z53TFvmEuopiIoXnIcl) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [ROCKNROLL MACHINE](https://open.spotify.com/album/424KFQolDBYGCXPJID48Fm) | 3:27 |
 | 72 | [CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Black Eyes Blue / CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy) | 5:14 |
-| 73 | [Sound the Alarm](https://open.spotify.com/track/5YUaQCRrw0wZHIv1WSkE2n) | [Shallow Side](https://open.spotify.com/artist/4i4Ra7cGv6zxiRtRSrhm1I) | [Saints & Sinners](https://open.spotify.com/album/1epDxzCjMekWTEBeuboSYm) | 3:42 |
-| 74 | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/track/3Uu0UjdQUBKuTQK4XsVMfe) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/album/3n1XGYmrurkbhXDEsQAcTm) | 3:28 |
+| 73 | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/track/3Uu0UjdQUBKuTQK4XsVMfe) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [EVERYBODY \(BLOODBROS BACK\)](https://open.spotify.com/album/3n1XGYmrurkbhXDEsQAcTm) | 3:28 |
+| 74 | [Sound the Alarm](https://open.spotify.com/track/5YUaQCRrw0wZHIv1WSkE2n) | [Shallow Side](https://open.spotify.com/artist/4i4Ra7cGv6zxiRtRSrhm1I) | [Saints & Sinners](https://open.spotify.com/album/1epDxzCjMekWTEBeuboSYm) | 3:42 |
 | 75 | [Realize](https://open.spotify.com/track/3mjSvzk1uqa9k8QxNy36mU) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Realize](https://open.spotify.com/album/4s6UkDgz073CrsXH931iSQ) | 3:37 |
 | 76 | [Head Like A Hole](https://open.spotify.com/track/1NWF6E214jVr9ckgxpPIXM) | [Buckcherry](https://open.spotify.com/artist/0yN7xI1blow9nYIK0R8nM7) | [Warpaint](https://open.spotify.com/album/7Fpq5DJTi4EF9g8NwU5zQl) | 3:53 |
 | 77 | [Kill the Lights](https://open.spotify.com/track/6dx5S8zTzRqYulcXGNy0oy) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [Kill the Lights](https://open.spotify.com/album/7pZgEhCSZ4dMpZwze54tQW) | 2:52 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 86 | [My Own Grave](https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:13 |
 | 87 | [Breakin' Outta Hell](https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Breakin' Outta Hell](https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP) | 3:52 |
 | 88 | [Balls to the Wall](https://open.spotify.com/track/28sMmBCmfHoy6NjZnovEYG) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2ogbkPbabA9E5LFXiFhDas) | 5:42 |
-| 89 | [Killing Me Slowly](https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1) | 3:57 |
-| 90 | [Breaking the Chains](https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq) | 3:51 |
+| 89 | [Slave to the Grind](https://open.spotify.com/track/49IA4BhFCOWZQ7A7wxfa4e) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Slave to the Grind](https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3) | 3:28 |
+| 90 | [Killing Me Slowly](https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1) | 3:57 |
 
 Snapshot ID: `AAAAAFwF2esr1Lr6lM3BP7ltFB8bH41R`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,643,583 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,643,482 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 90 | [Dream](https://open.spotify.com/track/25DpvTS4zsmLiVLx8Zv3N0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors](https://open.spotify.com/album/0gmsXcmrcnxdZBrD5EyJEL) | 4:18 |
 | 91 | [Yours](https://open.spotify.com/track/0Mq0reDcNpgmQkjHfzpJrp) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 2:48 |
 | 92 | [Crazy in Love](https://open.spotify.com/track/5iJS04ZXjMkQZ5nS0PsIeY) | [Eden Project](https://open.spotify.com/artist/26plsJBmW5se3wurhwzaEK) | [Crazy in Love](https://open.spotify.com/album/0W1rDqIMNC2lg5Rtq7kn2H) | 4:25 |
-| 93 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 |
-| 94 | [Samson](https://open.spotify.com/track/2JAUBPBVkimRLc5BGhAkfJ) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:09 |
-| 95 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
+| 93 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
+| 94 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 |
+| 95 | [Samson](https://open.spotify.com/track/2JAUBPBVkimRLc5BGhAkfJ) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:09 |
 | 96 | [It's Ok If You Forget Me](https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [It's Ok If You Forget Me](https://open.spotify.com/album/2C91kmyDRWZdm0wR8dK1Wn) | 3:24 |
-| 97 | [BLEED](https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:49 |
-| 98 | [5AM](https://open.spotify.com/track/4B4kunXhV2ZKnYcvDgAFoE) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:17 |
+| 97 | [5AM](https://open.spotify.com/track/4B4kunXhV2ZKnYcvDgAFoE) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [5AM \(Expanded Edition\)](https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L) | 4:17 |
+| 98 | [BLEED](https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:49 |
 | 99 | [that way \- with Jeremy Zucker](https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [that way \(with Jeremy Zucker\)](https://open.spotify.com/album/0XiGU8X2kdQscNbohqwyIs) | 2:54 |
 | 100 | [Losin Control](https://open.spotify.com/track/1jkIErXa3YNUX5QIyO6GGR) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Losin Control](https://open.spotify.com/album/2Xn8a3z0UPKpgz8VpaGcRk) | 3:57 |
 

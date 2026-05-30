@@ -4,7 +4,7 @@
 
 > Lull your little ones to sleep with piano music.
 
-794 songs - 1 day 0 hr 21 min
+796 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A Friend In The Stars](https://open.spotify.com/track/2D5av9jXu717YdMgf0j6HZ) | [Steinar Lugn](https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1) | [A Friend In The Stars](https://open.spotify.com/album/0BSBLlEIL1T7MQRE3IFJZ8) | 1:55 | 2026-05-08 |  |
 | [A Friend Like You](https://open.spotify.com/track/3lUeZg1nFKs90uuP759lLx) | [Evelina Krueger](https://open.spotify.com/artist/5GlrFOukoWnBdZ7wIYfjcw) | [A Friend Like You](https://open.spotify.com/album/48s2eCCUzsLCDMu7oDAw4A) | 1:38 | 2022-01-21 | 2025-03-05 |
 | [A Friend through the Night](https://open.spotify.com/track/2kETvpBJv1he7g3ofgtkaj) | [Joey Ty](https://open.spotify.com/artist/3PpceQMvXxZBxsF0v4yojB) | [A Friend through the Night](https://open.spotify.com/album/7jVd2qD7qlF1WX9CZWtI5w) | 1:09 | 2021-10-07 | 2025-01-18 |
-| [A Hug When You Find Me](https://open.spotify.com/track/6gDbBIgNdBzux2DPfdBpXu) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [A Hug When You Find Me](https://open.spotify.com/album/72xITZJSaxzAUrTaVXBBx6) | 1:58 | 2025-07-03 |  |
+| [A Hug When You Find Me](https://open.spotify.com/track/6gDbBIgNdBzux2DPfdBpXu) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [A Hug When You Find Me](https://open.spotify.com/album/72xITZJSaxzAUrTaVXBBx6) | 1:58 | 2025-07-03 | 2026-05-30 |
 | [A little dream](https://open.spotify.com/track/11spTCbtP8HeeHfOtACiMI) | [Rob Cradles](https://open.spotify.com/artist/4kdoVa3VRCUM6ZmuzlTc9Q) | [A little dream](https://open.spotify.com/album/1GjeS1krAXCllwv41BmPwA) | 2:12 | 2025-08-21 |  |
 | [A Little Miracle](https://open.spotify.com/track/75hEpUsgtjTqpvXbXJbft1) | [Serge Charlesbois](https://open.spotify.com/artist/58V4mpAIaMxa7yoCHnO24S) | [A Little Miracle](https://open.spotify.com/album/2WfyBbf2UawU7JNcsq1WmF) | 1:31 | 2022-01-21 | 2025-02-08 |
 | [A Little Sun Rises](https://open.spotify.com/track/2psD0UIayu6V1oC20BKhKx) | [Jesse Holderman](https://open.spotify.com/artist/7oquH151NkXtAdQmXJZuez) | [A Little Sun Rises](https://open.spotify.com/album/52UkXhpFKB4uzKy0NdfbWc) | 2:04 | 2022-04-19 | 2025-03-05 |
@@ -203,6 +203,7 @@
 | [Fais de beaux rêves](https://open.spotify.com/track/3O44PiRitVlgWdNa53UzVd) | [Gabriele Valois](https://open.spotify.com/artist/5iLuRSlCuDAt7iaA7gkTv5) | [Fais de beaux rêves](https://open.spotify.com/album/2vPvxkQOJmKYxRNtMDrwq9) | 1:47 | 2021-10-07 | 2023-08-19 |
 | [Farmer Star](https://open.spotify.com/track/2fCsfNGldSE9OUTi2aK3TE) | [Candy Dreamer](https://open.spotify.com/artist/0Hi8wmLjJz0yRhwPsy807q) | [Goodnight One, Two, Three](https://open.spotify.com/album/1wuFzY5aq1lhlbbWxfQMEk) | 1:43 | 2021-10-07 | 2022-02-11 |
 | [Fathoms Below](https://open.spotify.com/track/4454KBnQESBQnvtf6tlxh3) | [Oscar Z](https://open.spotify.com/artist/1w43xgEFebGecoNDH6lTkt) | [Fathoms Below](https://open.spotify.com/album/5zCUykcqo7iwmgkwNegK1Q) | 2:26 | 2024-08-09 |  |
+| [Feather Dream](https://open.spotify.com/track/6o3HXMM1xzQ0WZ29o6khyA) | [Elio Fen](https://open.spotify.com/artist/4HPVNREGebsTY2paLDQcfK) | [Feather Dream](https://open.spotify.com/album/62QJZuAyIgwo8xmtPpSSYO) | 1:38 | 2026-05-29 |  |
 | [Featherbed](https://open.spotify.com/track/6DD5yye9hYp0LVEMjWpQBC) | [Maryam Hamilton](https://open.spotify.com/artist/4h2yYcUraRYD5IOF8WW7p1) | [Featherbed](https://open.spotify.com/album/2iXLVPdzkqIggVepDfZKNT) | 1:40 | 2022-01-21 | 2022-12-24 |
 | [Feeling Free](https://open.spotify.com/track/4kU5W6f7sTXMyRFXQZPd6x) | [Kameron Eaton](https://open.spotify.com/artist/19sBCdUL9oi4ameglzcBwE) | [Feeling Free](https://open.spotify.com/album/7ymXb7UUqHphUhISWLVE1r) | 1:40 | 2021-10-07 | 2024-03-29 |
 | [Feels Like Heaven](https://open.spotify.com/track/261tOdDLtEsFKx9waaDBDo) | [Axel Pedersen](https://open.spotify.com/artist/313bA74MrmUBygRL2fH1lL) | [Feels Like Heaven](https://open.spotify.com/album/2bhBCCLxcN8cKzIaaMwBBi) | 3:15 | 2023-10-06 |  |
@@ -349,6 +350,7 @@
 | [KC's Lullaby](https://open.spotify.com/track/75L7t3fLTJbi0RHIuebO5n) | [Allison Spinney](https://open.spotify.com/artist/6nvdVuecT4Fi8qUCc4x8xH) | [Bringing This Baby Home](https://open.spotify.com/album/4dlJWmeRu4i5uymna8CxAp) | 1:31 | 2021-10-07 | 2022-02-11 |
 | [Kiro's Bedtime](https://open.spotify.com/track/3YVCitcIC16xvzxnvnToxf) | [Chiola](https://open.spotify.com/artist/5u6XN8l3ekVBP7c3PB0Jop) | [Kiro's Bedtime](https://open.spotify.com/album/1JaUDCJ1umbzBFpaNo4DN7) | 1:25 | 2021-10-07 | 2022-09-03 |
 | [Kiss My World Good Night](https://open.spotify.com/track/609r3TFl5aWqyRS8dKSnyH) | [Phoenix Hills](https://open.spotify.com/artist/4OPRPc19uzfOuVUb2Y9njY) | [Kiss My World Good Night](https://open.spotify.com/album/6CW1usbweHQoQnqvZcTHs7) | 1:38 | 2024-08-26 |  |
+| [Kitty Made a Toy](https://open.spotify.com/track/1amKv2iacIgMI7OTgmEG4F) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Kitty Made a Toy](https://open.spotify.com/album/5rxW3CvoH12SFr1I0HRLdZ) | 2:02 | 2026-05-29 |  |
 | [Knackle Back](https://open.spotify.com/track/7kjnyXWlhQdlrtFX1a39K8) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Knackle Back](https://open.spotify.com/album/2wOW8e8QozWcb89PDhVlaw) | 1:42 | 2024-02-09 |  |
 | [Kumbayah](https://open.spotify.com/track/5wWAjBYLHEy8FwteKQqok0) | [Adelmar Borrego](https://open.spotify.com/artist/5bdLiUDd0rIMAkT1y6zLaE) | [Frère Jacques](https://open.spotify.com/album/0eG8Pkyoc91BZ7s7bsBtNi) | 1:36 | 2021-10-07 | 2022-10-29 |
 | [La Cucaracha](https://open.spotify.com/track/3KtsEkq4GQSO80dcXmC8iS) | [Hannah Hill](https://open.spotify.com/artist/6OE5cqMEpVemAzsvpPKJuV) | [La Cucaracha](https://open.spotify.com/album/4XCAJuuV4XkzFgHZSo2ebo) | 1:40 | 2022-01-21 | 2022-11-26 |
@@ -647,7 +649,7 @@
 | [Sweetest of all Dreams](https://open.spotify.com/track/6q2o8PD2vsPklsAZVFQRsW) | [Elov Trus](https://open.spotify.com/artist/3C9En1lNXIal0tCZVbKxtv) | [Sweetest of all Dreams](https://open.spotify.com/album/1jWzZZEWbMN4oZbP5RRyaN) | 2:40 | 2025-08-21 |  |
 | [Swimming With Dolphins](https://open.spotify.com/track/2PVl2xJzBDDxcnsOF6gwcw) | [Dimitrios Huizinga](https://open.spotify.com/artist/3TOrJX9IkhsLqBDy1jE9jQ) | [Swimming With Dolphins](https://open.spotify.com/album/43MImk4brXhEUlyGPwvQN3) | 1:26 | 2022-11-25 | 2025-03-05 |
 | [Swing Ride](https://open.spotify.com/track/4YhYDfbWjOEjN46YLLKbCF) | [Selma June](https://open.spotify.com/artist/2f08UC5AufQFaVZi8r6V91) | [Swing Ride](https://open.spotify.com/album/3lJ6xhrM5lw4sy3ZZzBY74) | 1:46 | 2023-12-08 | 2025-03-05 |
-| [Take Me Out to the Ball Game](https://open.spotify.com/track/26i7uHjympKu1M9rOhOu4N) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Take Me Out to the Ball Game](https://open.spotify.com/album/2dsoYvsV0m83I2f2aI6w2G) | 1:33 | 2024-11-15 |  |
+| [Take Me Out to the Ball Game](https://open.spotify.com/track/26i7uHjympKu1M9rOhOu4N) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Take Me Out to the Ball Game](https://open.spotify.com/album/2dsoYvsV0m83I2f2aI6w2G) | 1:33 | 2024-11-15 | 2026-05-30 |
 | [Te Amo, Bebé](https://open.spotify.com/track/5e1Y3i8gIWh7SjrEMfpSpA) | [Nannie Villegas](https://open.spotify.com/artist/5sjdqGVROt3sdrSTPg79yg) | [Te Amo, Bebé](https://open.spotify.com/album/5t8TmvSXUboXYomJS2tPE5) | 2:19 | 2022-04-19 | 2025-03-05 |
 | [Teeny Tiny Baby Birds](https://open.spotify.com/track/6DRSLmkTqHGodtNfRUQmiu) | [Jasper Sylvaire](https://open.spotify.com/artist/0ni1Eptecat3ntWCUmvSBC) | [Teeny Tiny Baby Birds](https://open.spotify.com/album/6y0oN1tnfkvaq7gp5Sm9bL) | 1:27 | 2024-01-19 |  |
 | [Tell Me a Story, Daddy](https://open.spotify.com/track/2OeI4OOvTmQfyW1ozSeS9A) | [Margith Mathiesen](https://open.spotify.com/artist/7FVnh71Z8lhSppYykLnpJh) | [Always By Your Side](https://open.spotify.com/album/7uaZjvfUWtJblAnpjSqMg3) | 1:30 | 2021-10-07 | 2024-03-29 |

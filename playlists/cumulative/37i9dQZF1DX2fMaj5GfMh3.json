@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste pop songs. Cover: Shakira & Burna Boy",
+  "description": "De nieuwste pop songs. Cover: Ariana Grande",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -3115,6 +3115,24 @@
     },
     {
       "album": {
+        "name": "Buzzin'",
+        "url": "https://open.spotify.com/album/6CCXTxjH1uqCfajK8hykBy"
+      },
+      "artists": [
+        {
+          "name": "Blanks",
+          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Buzzin'",
+      "url": "https://open.spotify.com/track/5CvN2Et62Edz2mhXyk26V9"
+    },
+    {
+      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/0TDvceI2QvHwWToJJ8stu4"
       },
@@ -4070,7 +4088,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 147706,
       "name": "Club Song",
       "url": "https://open.spotify.com/track/5XzS5QmnzhAyYkVndZro5Y"
@@ -9567,6 +9585,24 @@
     },
     {
       "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "album": {
         "name": "petals",
         "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
       },
@@ -9878,7 +9914,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 162683,
       "name": "Heavenly",
       "url": "https://open.spotify.com/track/0WAfD3WFJgV5qT39XQlU6v"
@@ -10578,7 +10614,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 165571,
       "name": "Hot Glue",
       "url": "https://open.spotify.com/track/5bZIqmnOVJaq6z4z5MtZN1"
@@ -14216,7 +14252,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 176887,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa"
@@ -14683,6 +14719,24 @@
     },
     {
       "album": {
+        "name": "Mad About It",
+        "url": "https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157008,
+      "name": "Mad About It",
+      "url": "https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o"
+    },
+    {
+      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -14824,6 +14878,24 @@
       "duration_ms": 168000,
       "name": "MAN MADE WORLD",
       "url": "https://open.spotify.com/track/415q7dNcIGsXuAyiJU6t7m"
+    },
+    {
+      "album": {
+        "name": "SE9",
+        "url": "https://open.spotify.com/album/3TWvfSehKDLRaHJS7z8cNk"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155004,
+      "name": "Man of the House",
+      "url": "https://open.spotify.com/track/4j3tybPIKiCmp1Zm2hLD9Z"
     },
     {
       "album": {
@@ -15202,7 +15274,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 192375,
       "name": "Midnight Stalker",
       "url": "https://open.spotify.com/track/53Dkgsp9tpqJvfGJZgpkCv"
@@ -18298,6 +18370,24 @@
       "duration_ms": 186473,
       "name": "Plastic heart",
       "url": "https://open.spotify.com/track/0Yhezw3qivWS5WvsWe1vJe"
+    },
+    {
+      "album": {
+        "name": "Plastic Paradise",
+        "url": "https://open.spotify.com/album/4212hy44QlIW86mWnkLUyE"
+      },
+      "artists": [
+        {
+          "name": "Laura Tesoro",
+          "url": "https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168974,
+      "name": "Plastic Paradise",
+      "url": "https://open.spotify.com/track/5s7LunNdtlopbVzzsAgMdr"
     },
     {
       "album": {
@@ -21511,6 +21601,24 @@
     },
     {
       "album": {
+        "name": "SS26",
+        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167674,
+      "name": "SS26",
+      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
+    },
+    {
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
@@ -24558,7 +24666,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 181906,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/10fzLhBF2aM7ECr3jZNaqm"

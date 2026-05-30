@@ -13359,6 +13359,24 @@
     },
     {
       "album": {
+        "name": "Welcome to the Mood (Special Edition)",
+        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183733,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
+    },
+    {
+      "album": {
         "name": "it boy",
         "url": "https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM"
       },
@@ -24263,6 +24281,24 @@
     },
     {
       "album": {
+        "name": "Talk On The Hill",
+        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207774,
+      "name": "Talk On The Hill",
+      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
+    },
+    {
+      "album": {
         "name": "Talk Talk Talk",
         "url": "https://open.spotify.com/album/2i9bKhZ9HOdYWLAS92fARL"
       },
@@ -26327,7 +26363,7 @@
     },
     {
       "album": {
-        "name": "traces",
+        "name": "traces (feat. Molina)",
         "url": "https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV"
       },
       "artists": [
@@ -26344,26 +26380,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187500,
-      "name": "traces",
+      "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
-    },
-    {
-      "album": {
-        "name": "Welcome to the Mood (Special Edition)",
-        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 14",
-      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
     },
     {
       "album": {

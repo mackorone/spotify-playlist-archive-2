@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,103 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,114 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 49 | [It's All In The Game](https://open.spotify.com/track/394NjJrTCSRmOzrUugwJz0) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [The Hits and More](https://open.spotify.com/album/4RcFF7h8374fViYHTaLwRZ) | 2:39 |
 | 50 | [Big Man](https://open.spotify.com/track/0KayDFomB8iDyAdOpKfKTK) | [The Four Preps](https://open.spotify.com/artist/5MsnoFODDc5nxWrjm99Zew) | [The Single Collection, Vol\. 1](https://open.spotify.com/album/1pmKZnDtUJACH85pfDAHDr) | 2:23 |
 | 51 | [If I Give My Heart to You \(with The Mellomen\)](https://open.spotify.com/track/3EuT9Db7LX4no2y4XTUc53) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [The Mellomen](https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq) | [The Essential Doris Day](https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31) | 2:49 |
-| 52 | [It's Late \- Remastered 2001](https://open.spotify.com/track/4TAKO1uPQfnbioLdXUCUvY) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Greatest Hits](https://open.spotify.com/album/6a1HKhBFbyAz1Wxlemw2Cg) | 1:58 |
-| 53 | [Wanted \(with Henri René & His Orchestra and Chorus\)](https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Henri René & His Orchestra and Chorus](https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v) | [Very Best Of](https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84) | 3:05 |
+| 52 | [Wanted \(with Henri René & His Orchestra and Chorus\)](https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Henri René & His Orchestra and Chorus](https://open.spotify.com/artist/6Sf3oBWXwLFaEDDprUAc4v) | [Very Best Of](https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84) | 3:05 |
+| 53 | [It's Late \- Remastered 2001](https://open.spotify.com/track/4TAKO1uPQfnbioLdXUCUvY) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Greatest Hits](https://open.spotify.com/album/6a1HKhBFbyAz1Wxlemw2Cg) | 1:58 |
 | 54 | [Rubber Ball](https://open.spotify.com/track/3Onckv4ELY5JiWgoqUFxvf) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Essential](https://open.spotify.com/album/2qvgU7ANFcPldErKcJkcnR) | 2:21 |
 | 55 | [Hold My Hand](https://open.spotify.com/track/4fCfTLuNQmQeHznSt6pvwc) | [Don Cornell](https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS) | [Most of All](https://open.spotify.com/album/6OzfE38wgytWErZZuk8htF) | 2:49 |
 | 56 | [I Get So Lonely \(When I Dream About You\)](https://open.spotify.com/track/1LvJvqApB38VYkZDoFfhxC) | [The Four Knights](https://open.spotify.com/artist/7wzsyXOEYmwxPXCcposy74) | [Oh Baby! Best Of Volume 1 1951\-1954](https://open.spotify.com/album/5oB98W4XDmCRohkPNYozF2) | 2:07 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 72 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/3bOfJWVevRIu7AUss7GcKe) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [60's Triple set](https://open.spotify.com/album/3FApcoTb78nsAPWZYJBdD7) | 2:53 |
 | 73 | [I'll Take You Home Again, Kathleen](https://open.spotify.com/track/3rfvssyMQbY28825P2sztA) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [The Very Best Of Slim Whitman](https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl) | 2:57 |
 | 74 | [I'll Come When You Call](https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Ruby Murray \- Greatest Hits](https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO) | 2:36 |
-| 75 | [We Will Make Love](https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [The Best Of The 50's \(Fifties\)](https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud) | 2:40 |
+| 75 | [Finger of Suspicion](https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En) | [Dickie Valentine](https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev) | [Climb Every Mountain](https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq) | 2:49 |
 | 76 | [Around the World](https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx) | [Ronnie Hilton](https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M) | [Greatest Hits: 50s](https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t) | 2:42 |
-| 77 | [Finger of Suspicion](https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En) | [Dickie Valentine](https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev) | [Climb Every Mountain](https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq) | 2:49 |
+| 77 | [We Will Make Love](https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [The Best Of The 50's \(Fifties\)](https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud) | 2:40 |
 | 78 | [A Woman in Love \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/51kNuqPnmllwTygxcMhC7P) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Hits](https://open.spotify.com/album/52dzyLWumJQhP25q0BCBRX) | 2:20 |
 | 79 | [He's Got the Whole World in His Hands](https://open.spotify.com/track/1P3ZqCqZVd2MTTTpM6GljU) | [Laurie London](https://open.spotify.com/artist/0oqCI59nwfnmdeofg0TApe) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 2:21 |
 | 80 | [Changing Partners \- Remastered](https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR) | 2:50 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,634,899 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,635,057 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 43 | [coldshade \- Slowed](https://open.spotify.com/track/6kazHgRY42IvErUxsSInVV) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw), [neytles](https://open.spotify.com/artist/22ext9Do0WP94crY5FZxli) | [coldshade](https://open.spotify.com/album/7stzTSqo40hosxvqvrUFZx) | 3:24 |
 | 44 | [LOVELY BASTARDS \- Slowed](https://open.spotify.com/track/0D1lgFbxCMU4aieSJWSy9H) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS \(Slowed\)](https://open.spotify.com/album/1QL0TDLvTBzk673QULEBMQ) | 2:32 |
 | 45 | [WASTE \- Slowed Version](https://open.spotify.com/track/4w9TJQQqKXeLMZyzmLVpRI) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [WASTE](https://open.spotify.com/album/2TVkegvyb70Hr9D7dQksql) | 2:14 |
-| 46 | [3:15 \- Slowed Down + Reverb](https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(OG, Slowed Down + Reverb, Sped Up\)](https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV) | 3:15 |
-| 47 | [Never Let Go \(Of Me\) \- Slowed](https://open.spotify.com/track/1c6d99yhgZmHyJOLF9E2oK) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Never Let Go \(Of Me\) \[Heist Edit\]](https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr) | 1:34 |
+| 46 | [Never Let Go \(Of Me\) \- Slowed](https://open.spotify.com/track/1c6d99yhgZmHyJOLF9E2oK) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Never Let Go \(Of Me\) \[Heist Edit\]](https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr) | 1:34 |
+| 47 | [3:15 \- Slowed Down + Reverb](https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [3:15 \(OG, Slowed Down + Reverb, Sped Up\)](https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV) | 3:15 |
 | 48 | [Goth \(Slowed + Reverb\)](https://open.spotify.com/track/2AoXXli5UxkavZn7QweHsz) | [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [Goth \(Slowed + Reverb\)](https://open.spotify.com/album/2cu8b9WLmyDoK0mLwfhysh) | 4:12 |
 | 49 | [MONTAGEM \- PR FUNK \- Slowed & Reveerb](https://open.spotify.com/track/4hB9LJ3TsLNPb2fiZidRLZ) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK \(Slowed & Reveerb\)](https://open.spotify.com/album/0w0fGghlcl6YPgK5JjmWHI) | 1:23 |
 | 50 | [No Idea \- Dj Purpberry Chopped and Screwed](https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [DJ Purpberry](https://open.spotify.com/artist/4WsNup6PgOM2MedSclPPL0) | [No Idea \(DJ Purpberry Chopped and Screwed\)](https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO) | 3:15 |

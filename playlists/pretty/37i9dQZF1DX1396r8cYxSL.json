@@ -1,6 +1,6 @@
 {
   "description": "2025 yaz\u0131na damga vuran \u015fark\u0131lar.",
-  "num_followers": 286291,
+  "num_followers": 286282,
   "original_name": "Yaz Hitleri 2025",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-09-05 15:48:11",
       "album": {
-        "name": "Mosmor Perde",
-        "url": "https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "Mosmor Perde",
-      "url": "https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj"
-    },
-    {
-      "added_at": "2025-09-05 15:48:11",
-      "album": {
         "name": "\u00c7atma Yarim",
         "url": "https://open.spotify.com/album/07DDRfbkQJKYXpHXkkQWjG"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 177572,
       "name": "\u00c7atma Yarim",
       "url": "https://open.spotify.com/track/2QcdW7XNdYQTpkTWVEkCHL"
+    },
+    {
+      "added_at": "2025-09-05 15:48:11",
+      "album": {
+        "name": "Mosmor Perde",
+        "url": "https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "Mosmor Perde",
+      "url": "https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj"
     },
     {
       "added_at": "2025-09-05 15:48:11",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-09-05 15:48:11",
       "album": {
-        "name": "Yara Band\u0131",
-        "url": "https://open.spotify.com/album/4XIc5Sdp4KLMfiSn2Kx52p"
-      },
-      "artists": [
-        {
-          "name": "Kendimden Hallice",
-          "url": "https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Yara Band\u0131",
-      "url": "https://open.spotify.com/track/0kqS5pI2INgjUXkj63Ddhn"
-    },
-    {
-      "added_at": "2025-09-05 15:48:11",
-      "album": {
         "name": "Durup Dururken",
         "url": "https://open.spotify.com/album/4KaJSLDTkDQDiKMvBuvKwT"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 136822,
       "name": "Durup Dururken",
       "url": "https://open.spotify.com/track/0aaIt2mbVvIhxoM8GhqyIk"
+    },
+    {
+      "added_at": "2025-09-05 15:48:11",
+      "album": {
+        "name": "Yara Band\u0131",
+        "url": "https://open.spotify.com/album/4XIc5Sdp4KLMfiSn2Kx52p"
+      },
+      "artists": [
+        {
+          "name": "Kendimden Hallice",
+          "url": "https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Yara Band\u0131",
+      "url": "https://open.spotify.com/track/0kqS5pI2INgjUXkj63Ddhn"
     },
     {
       "added_at": "2025-09-05 15:48:11",

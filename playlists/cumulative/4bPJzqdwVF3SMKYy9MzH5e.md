@@ -4,7 +4,7 @@
 
 > 
 
-2,413 songs - 5 day 9 hr 45 min
+2,414 songs - 5 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2223,6 +2223,7 @@
 | [Uber Everywhere](https://open.spotify.com/track/7zBPzAjKAqQpcv8F8GCq5s) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Uber Everywhere](https://open.spotify.com/album/7asvyIMzbsyAJpbC47wjBV) | 2:33 | 2021-08-05 |  |
 | [Ugliest](https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:58 | 2023-12-26 |  |
 | [Ugly](https://open.spotify.com/track/3qDbBtbRv6eBls6q51pAL7) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [High Tide in the Snake's Nest](https://open.spotify.com/album/7gMzKwKAsbooGeKgDlX2TL) | 2:35 | 2024-03-20 |  |
+| [Ultra Terrorific Fantasy](https://open.spotify.com/track/2NZW8M76gciBAZcpq3ds1D) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [ULTRA](https://open.spotify.com/album/7LDNQYVFZoapHCep1A2dYr) | 1:38 | 2026-05-29 |  |
 | [UNA NOCHE EN MEDELLÍN \- REMIX](https://open.spotify.com/track/0GJwUAlBMJTbY4VE7iE761) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 3:25 | 2025-01-10 |  |
 | [UNBREAKABLE](https://open.spotify.com/track/3rcW5osqGbwP1KUdAhtkBF) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [UNBREAKABLE](https://open.spotify.com/album/48PMOYTHYgM6vuiy0JiJQb) | 2:55 | 2021-11-14 |  |
 | [Under Your Spell](https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh) | 3:38 | 2024-05-13 |  |

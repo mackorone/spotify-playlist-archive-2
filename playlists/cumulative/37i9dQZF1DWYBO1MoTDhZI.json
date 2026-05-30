@@ -11727,6 +11727,24 @@
     },
     {
       "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "album": {
         "name": "Foursider",
         "url": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
       },
@@ -14707,6 +14725,24 @@
     },
     {
       "album": {
+        "name": "Pop Pop",
+        "url": "https://open.spotify.com/album/0zMNLajZLM0PGxgLQa4yys"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177922,
+      "name": "Pop Pop",
+      "url": "https://open.spotify.com/track/7jrxqRz39X7TXhI38zc9xA"
+    },
+    {
+      "album": {
         "name": "POSE",
         "url": "https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG"
       },
@@ -15368,7 +15404,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 201869,
       "name": "Ring Ring Ring",
       "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
@@ -16052,7 +16088,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 138653,
       "name": "she got a thing about her",
       "url": "https://open.spotify.com/track/1PyaesWoAa7Xz7TEbyyvcz"
@@ -18038,7 +18074,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 251200,
       "name": "Superbloom",
       "url": "https://open.spotify.com/track/56imCiO83oUJj6z9favCWt"
@@ -18930,6 +18966,24 @@
       "duration_ms": 234333,
       "name": "The Thrill",
       "url": "https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3"
+    },
+    {
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202972,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
     },
     {
       "album": {

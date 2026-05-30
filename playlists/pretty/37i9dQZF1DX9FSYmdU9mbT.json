@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1473803,
+  "num_followers": 1473821,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -263,18 +263,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Que Beleza",
-        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
+        "name": "Samba Meu",
+        "url": "https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9"
       },
       "artists": [
         {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
         }
       ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
+      "duration_ms": 227520,
+      "name": "T\u00e1 perdoado",
+      "url": "https://open.spotify.com/track/5ua6ByZaOw4hlMP6i8Vjdz"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -295,18 +295,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Samba Meu",
-        "url": "https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9"
+        "name": "Que Beleza",
+        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
       },
       "artists": [
         {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 227520,
-      "name": "T\u00e1 perdoado",
-      "url": "https://open.spotify.com/track/5ua6ByZaOw4hlMP6i8Vjdz"
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -467,18 +467,22 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Nova Bis - Ivan Lins",
-        "url": "https://open.spotify.com/album/3OMsMOMAMjhulGUrtoJ3h2"
+        "name": "Proposta",
+        "url": "https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD"
       },
       "artists": [
         {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        },
+        {
+          "name": "Sophie Charlotte",
+          "url": "https://open.spotify.com/artist/7Dew7s7T10L3pot2NFSQoT"
         }
       ],
-      "duration_ms": 230506,
-      "name": "Vitoriosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/08oqG2aZTJndXXwGOAth9n"
+      "duration_ms": 224720,
+      "name": "Proposta",
+      "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -499,22 +503,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Proposta",
-        "url": "https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD"
+        "name": "Nova Bis - Ivan Lins",
+        "url": "https://open.spotify.com/album/3OMsMOMAMjhulGUrtoJ3h2"
       },
       "artists": [
         {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        },
-        {
-          "name": "Sophie Charlotte",
-          "url": "https://open.spotify.com/artist/7Dew7s7T10L3pot2NFSQoT"
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
         }
       ],
-      "duration_ms": 224720,
-      "name": "Proposta",
-      "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
+      "duration_ms": 230506,
+      "name": "Vitoriosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/08oqG2aZTJndXXwGOAth9n"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Estratosf\u00e9rica Ao Vivo",
-        "url": "https://open.spotify.com/album/7eSEnOlFor4HMoblLfwLXz"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 300973,
-      "name": "P\u00e9rola Negra - Ao Vivo",
-      "url": "https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "As V\u00e1rias Pontas de uma Estrela (Ao Vivo no Coala Festival)",
         "url": "https://open.spotify.com/album/72ZE9c4C3akkC7g1flS0A1"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 218134,
       "name": "Brasil - Ao Vivo no Coala Festival",
       "url": "https://open.spotify.com/track/7IeaNWQPnqgUhsdDdmXCs8"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Estratosf\u00e9rica Ao Vivo",
+        "url": "https://open.spotify.com/album/7eSEnOlFor4HMoblLfwLXz"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 300973,
+      "name": "P\u00e9rola Negra - Ao Vivo",
+      "url": "https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF"
     },
     {
       "added_at": "2026-05-22 11:20:59",

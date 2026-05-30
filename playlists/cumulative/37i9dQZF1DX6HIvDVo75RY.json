@@ -6725,6 +6725,28 @@
     },
     {
       "album": {
+        "name": "Songs About Us",
+        "url": "https://open.spotify.com/album/59lMZSEM0zreLqcLhhx8cE"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172491,
+      "name": "Songs About Us",
+      "url": "https://open.spotify.com/track/7Mt9l5xWp9u5eP0KOfF7Ss"
+    },
+    {
+      "album": {
         "name": "Songs About You",
         "url": "https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq"
       },

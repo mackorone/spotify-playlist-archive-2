@@ -2,9 +2,9 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎 / Foto: Anitta, Shakira
+> Grandes hits do BR e do 🌎 / Foto: Ariana Grande
 
-459 songs - 22 hr 48 min
+460 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Grip](https://open.spotify.com/track/52kROkm8RbJsYLM5taByIP) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 1:50 | 2024-04-26 | 2024-07-06 |
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-21 | 2024-12-24 |
 | [Halls na Língua](https://open.spotify.com/track/4pWsXhLUdtBKlw9npIXZAl) | [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Halls na Língua](https://open.spotify.com/album/21gJooS1uexxzD1qkDcw09) | 3:12 | 2023-07-26 | 2024-02-23 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2022-05-20 | 2022-09-28 |
 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 | 2022-08-26 | 2023-05-03 |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-05-20 | 2022-06-18 |

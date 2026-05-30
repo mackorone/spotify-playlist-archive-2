@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,505 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,451 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 33 | [Graceland](https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Graceland](https://open.spotify.com/album/0gjIdPKVN4i88JbKPZld2W) | 2:20 |
 | 34 | [Niemand ist wie du](https://open.spotify.com/track/5pUHH09wavdCzEEQaFxx5Y) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Niemand ist wie du](https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice) | 2:23 |
 | 35 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 |
-| 36 | [Gib mir mehr Du](https://open.spotify.com/track/6w0eHk8No2d9hAn9xym7Se) | [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Gib mir mehr Du](https://open.spotify.com/album/03ub248yWebL0kbqooEzpM) | 2:43 |
-| 37 | [VERSPRICH MIR](https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERSPRICH MIR](https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg) | 2:24 |
+| 36 | [VERSPRICH MIR](https://open.spotify.com/track/6R9psIh9BwAhJmeVTK7Ipg) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERSPRICH MIR](https://open.spotify.com/album/2NSdnjLWEHhZmQqaOJlZlg) | 2:24 |
+| 37 | [Gib mir mehr Du](https://open.spotify.com/track/6w0eHk8No2d9hAn9xym7Se) | [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Gib mir mehr Du](https://open.spotify.com/album/03ub248yWebL0kbqooEzpM) | 2:43 |
 | 38 | [Ein Lied](https://open.spotify.com/track/2nrsfJSYFVmBXe9hc3q3lM) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Ein Lied](https://open.spotify.com/album/60xB6sJ3lZJZBgRdyRzZmO) | 2:31 |
-| 39 | [tanz aus der reihe.](https://open.spotify.com/track/01p61G93AOoD9Msb9pdBfP) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [tanz aus der reihe.](https://open.spotify.com/album/2dwI089I2sUSZt8T1qUuK2) | 2:03 |
-| 40 | [Divine Feelings](https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Divine Feelings](https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S) | 3:28 |
-| 41 | [Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Bleeding Gold](https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd) | 4:02 |
+| 39 | [Divine Feelings](https://open.spotify.com/track/3D4JBITefQuOsZZyLdESAi) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Divine Feelings](https://open.spotify.com/album/0Bi6tt4GSzpMiUjbA9ph8S) | 3:28 |
+| 40 | [Bleeding Gold](https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Bleeding Gold](https://open.spotify.com/album/35xsdh210MQASoGiWVpzyd) | 4:02 |
+| 41 | [tanz aus der reihe.](https://open.spotify.com/track/01p61G93AOoD9Msb9pdBfP) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [tanz aus der reihe.](https://open.spotify.com/album/2dwI089I2sUSZt8T1qUuK2) | 2:03 |
 | 42 | [BEAUTY QUEEN](https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [BEAUTY QUEEN](https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ) | 3:10 |
 | 43 | [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 |
 | 44 | [Adore Ya](https://open.spotify.com/track/0Jl7f00nog4z31Cw2xYZqP) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Adore Ya](https://open.spotify.com/album/07A4mrRO0mi4K9A2fmDugX) | 3:32 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWyJydK4fTU.md) - [plain]
 | 49 | [Wimpernschlag](https://open.spotify.com/track/6iSMn6NBEhuco0lZsPRs7c) | [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd), [Max Grimm](https://open.spotify.com/artist/0iVhzCx1AWbJgsVkeQorDl) | [Wimpernschlag](https://open.spotify.com/album/624ffjT6xFCdbDpQL0sV8B) | 2:41 |
 | 50 | [June](https://open.spotify.com/track/3HTSInPBCaG6mpwRGDc0Ss) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [June](https://open.spotify.com/album/1ZJ25L8SzfSSBrQzMrX0vL) | 2:42 |
 | 51 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
-| 52 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 |
-| 53 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 |
-| 54 | [Skin](https://open.spotify.com/track/58HVudmVLO9xJRzIB73Q10) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Skin](https://open.spotify.com/album/39reMRtfodkliiyAANelxs) | 3:00 |
+| 52 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 |
+| 53 | [Skin](https://open.spotify.com/track/58HVudmVLO9xJRzIB73Q10) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Skin](https://open.spotify.com/album/39reMRtfodkliiyAANelxs) | 3:00 |
+| 54 | [Want It Back](https://open.spotify.com/track/47bpYf6lJ5dauJRJ6lZ8bA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Want It Back](https://open.spotify.com/album/3jh1KUiU35jTHmQqtUuy55) | 3:27 |
 | 55 | [Surprise Surprise](https://open.spotify.com/track/1qxP9aigVY42COVRva1rO9) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Surprise Surprise](https://open.spotify.com/album/7jyW62gM9VNH5NVd3XkfZA) | 2:55 |
 | 56 | [Thick Skin](https://open.spotify.com/track/4wPS8JGKj8iNV8zNrmwtam) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Thick Skin](https://open.spotify.com/album/6ykkVXarEYsrH8G56v1FRI) | 2:32 |
 | 57 | [I Like You Best \- Cloud 9 Version](https://open.spotify.com/track/3Ihlrpj4BkhVIEkQKECy1F) | [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [I Like You Best \(Cloud 9 Version\)](https://open.spotify.com/album/3Psow0HwdFlSP024i2S33b) | 2:48 |
 | 58 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/6QIwDkInfXZpxdbPtHoZhi) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/2BClfhnqKr6ukg1SgdzUch) | 5:39 |
-| 59 | [The Devil I Know](https://open.spotify.com/track/7k75y6b7WkIZOFzS2wYx4m) | [Mae Hill](https://open.spotify.com/artist/51mpNR9ivpZEWp50hXyltm) | [The Devil I Know](https://open.spotify.com/album/6qMAsM2FKIfM5LatGMVrvm) | 2:42 |
-| 60 | [Zu jung](https://open.spotify.com/track/1x5kr8H7AW5lgAUvGUfYOj) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Zu jung](https://open.spotify.com/album/1Ccqpe7T8ZPHKD7DNwNobI) | 2:01 |
+| 59 | [Zu jung](https://open.spotify.com/track/1x5kr8H7AW5lgAUvGUfYOj) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Zu jung](https://open.spotify.com/album/1Ccqpe7T8ZPHKD7DNwNobI) | 2:01 |
+| 60 | [The Devil I Know](https://open.spotify.com/track/7k75y6b7WkIZOFzS2wYx4m) | [Mae Hill](https://open.spotify.com/artist/51mpNR9ivpZEWp50hXyltm) | [The Devil I Know](https://open.spotify.com/album/6qMAsM2FKIfM5LatGMVrvm) | 2:42 |
 
 Snapshot ID: `AAAAAPZO7WGSE6DA7zVYZEb46np3jAzR`

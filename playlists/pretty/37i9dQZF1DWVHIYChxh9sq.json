@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Luis Alfonso Partida El Yaki, Banda Corona del Rey",
-  "num_followers": 83616,
+  "num_followers": 83637,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Tragedias de Mi Pueblo (Con Banda)",
-        "url": "https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 253105,
-      "name": "Me Vale Madre",
-      "url": "https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "Tres Botes",
         "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 195117,
       "name": "Inventame - En Vivo",
       "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "Tragedias de Mi Pueblo (Con Banda)",
+        "url": "https://open.spotify.com/album/4nNePoAqTJ2VRkljtzCcrg"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 253105,
+      "name": "Me Vale Madre",
+      "url": "https://open.spotify.com/track/2bgzjBJcfn0r0HkJ0N2Lzx"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -723,26 +723,6 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino",
-          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Comando X - En Vivo",
-      "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
         "name": "Por Clave El Caiman",
         "url": "https://open.spotify.com/album/59a9ZTGGKzHDQND5K6g65g"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 192400,
       "name": "El Deportivo",
       "url": "https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1ER6VomlolwkksGhW9OZuk"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Comando X - En Vivo",
+      "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Monta\u00f1o",
+          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
+        }
+      ],
+      "duration_ms": 233404,
+      "name": "La Octava Maravilla - En Vivo",
+      "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
         "name": "La Suma",
         "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 198976,
       "name": "La Suma",
       "url": "https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Monta\u00f1o",
-          "url": "https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH"
-        }
-      ],
-      "duration_ms": 233404,
-      "name": "La Octava Maravilla - En Vivo",
-      "url": "https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1607,8 +1607,8 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "Tambi\u00e9n Me Llamo Ismael (En Vivo)",
-        "url": "https://open.spotify.com/album/762prAk1zCDNgHV03q2Wgt"
+        "name": "El Cabez\u00f3n (El Papas Fritas)",
+        "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
       },
       "artists": [
         {
@@ -1616,17 +1616,13 @@
           "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         },
         {
-          "name": "Legion RG",
-          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
-        },
-        {
-          "name": "Fraccion EME",
-          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 198493,
-      "name": "Tambi\u00e9n Me Llamo Ismael - En Vivo",
-      "url": "https://open.spotify.com/track/4KSaVHKlMWTruKxzUX12uY"
+      "duration_ms": 149986,
+      "name": "El Cabez\u00f3n (El Papas Fritas)",
+      "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1715,8 +1711,8 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
-        "name": "El Cabez\u00f3n (El Papas Fritas)",
-        "url": "https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL"
+        "name": "Tambi\u00e9n Me Llamo Ismael (En Vivo)",
+        "url": "https://open.spotify.com/album/762prAk1zCDNgHV03q2Wgt"
       },
       "artists": [
         {
@@ -1724,13 +1720,17 @@
           "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
         },
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Legion RG",
+          "url": "https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V"
+        },
+        {
+          "name": "Fraccion EME",
+          "url": "https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD"
         }
       ],
-      "duration_ms": 149986,
-      "name": "El Cabez\u00f3n (El Papas Fritas)",
-      "url": "https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX"
+      "duration_ms": 198493,
+      "name": "Tambi\u00e9n Me Llamo Ismael - En Vivo",
+      "url": "https://open.spotify.com/track/4KSaVHKlMWTruKxzUX12uY"
     },
     {
       "added_at": "2026-04-17 20:03:01",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2026-04-17 20:03:01",
       "album": {
+        "name": "Comando \u00danico con Compa Danny (En vivo)",
+        "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
+      },
+      "artists": [
+        {
+          "name": "Comando \u00danico",
+          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "El Sube y Baja - En vivo",
+      "url": "https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq"
+    },
+    {
+      "added_at": "2026-04-17 20:03:01",
+      "album": {
         "name": "Chapayeka (En Vivo)",
         "url": "https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 213500,
       "name": "Sin Fortuna (En Vivo)",
       "url": "https://open.spotify.com/track/5gUGD4wY6mnqLJtMCArXJ0"
-    },
-    {
-      "added_at": "2026-04-17 20:03:01",
-      "album": {
-        "name": "Comando \u00danico con Compa Danny (En vivo)",
-        "url": "https://open.spotify.com/album/3eGoOp5PfDlWf4ZNxHAB74"
-      },
-      "artists": [
-        {
-          "name": "Comando \u00danico",
-          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "El Sube y Baja - En vivo",
-      "url": "https://open.spotify.com/track/2F5IsSsLPCDtcL0T3Wsnnq"
     },
     {
       "added_at": "2026-04-17 20:03:01",

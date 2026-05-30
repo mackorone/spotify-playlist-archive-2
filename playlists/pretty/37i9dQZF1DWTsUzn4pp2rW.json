@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 198743,
+  "num_followers": 198784,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 283893,
-      "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
-      "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/32hzZm0bpsYCmhhcH24hLX"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 192854,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/1bPnJ6Xq4Usc9rwCPzNTUP"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 283893,
+      "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
+      "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Spaceman",
-      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "One Less Lonely Girl",
         "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
       },
@@ -987,34 +971,18 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "The Road Is Narrow",
-        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
       },
       "artists": [
         {
-          "name": "Jecca",
-          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
         }
       ],
-      "duration_ms": 194823,
-      "name": "the road is narrow",
-      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "At the End of the Day",
-        "url": "https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O"
-      },
-      "artists": [
-        {
-          "name": "Caleb Dinger",
-          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "At the End of the Day",
-      "url": "https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm"
+      "duration_ms": 153573,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/562FARfp4BQjhyB70vI3dG"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1035,6 +1003,38 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
+        "name": "At the End of the Day",
+        "url": "https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O"
+      },
+      "artists": [
+        {
+          "name": "Caleb Dinger",
+          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "At the End of the Day",
+      "url": "https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "The Road Is Narrow",
+        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
+      },
+      "artists": [
+        {
+          "name": "Jecca",
+          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "the road is narrow",
+      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
         "name": "Sugilite",
         "url": "https://open.spotify.com/album/5oiFCRXohoBQcIKRZf49TN"
       },
@@ -1047,22 +1047,6 @@
       "duration_ms": 278961,
       "name": "Sugilite",
       "url": "https://open.spotify.com/track/4ifnTPPw3EQX0CBLRyo6cT"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Chamomile Tea",
-        "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
-      },
-      "artists": [
-        {
-          "name": "Andrew Farstar",
-          "url": "https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z"
-        }
-      ],
-      "duration_ms": 252261,
-      "name": "Chamomile Tea",
-      "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 208013,
       "name": "Softer Than You Know",
       "url": "https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "Chamomile Tea",
+        "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
+      },
+      "artists": [
+        {
+          "name": "Andrew Farstar",
+          "url": "https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z"
+        }
+      ],
+      "duration_ms": 252261,
+      "name": "Chamomile Tea",
+      "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Okay Far Away",
+      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
         "name": "A Happy Thought (feat. Stu Mindeman)",
         "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 226240,
       "name": "A Happy Thought (feat. Stu Mindeman)",
       "url": "https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Okay Far Away",
-      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
     },
     {
       "added_at": "2026-03-14 19:25:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-03-14 19:25:00",
       "album": {
-        "name": "It's Complicated",
-        "url": "https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80"
-      },
-      "artists": [
-        {
-          "name": "Andy Jordan",
-          "url": "https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj"
-        }
-      ],
-      "duration_ms": 208273,
-      "name": "It's Complicated",
-      "url": "https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2"
-    },
-    {
-      "added_at": "2026-03-14 19:25:00",
-      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 211343,
       "name": "Catwoman",
       "url": "https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE"
+    },
+    {
+      "added_at": "2026-03-14 19:25:00",
+      "album": {
+        "name": "It's Complicated",
+        "url": "https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80"
+      },
+      "artists": [
+        {
+          "name": "Andy Jordan",
+          "url": "https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj"
+        }
+      ],
+      "duration_ms": 208273,
+      "name": "It's Complicated",
+      "url": "https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2"
     },
     {
       "added_at": "2026-03-14 19:25:00",

@@ -4,7 +4,7 @@
 
 > sad songs 4 sad days.
 
-304 songs - 17 hr 20 min
+305 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Modo Ofendida](https://open.spotify.com/track/2lBEp7EJ7BfgkAqStAu0BE) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Modo Ofendida](https://open.spotify.com/album/4BodBh6T2yaVLoANvzjWBB) | 3:15 | 2021-12-06 | 2022-07-07 |
 | [Moscas en la Casa](https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:31 | 2021-12-06 | 2024-05-17 |
 | [Muero](https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Muero](https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz) | 3:37 | 2022-05-19 | 2024-05-17 |
-| [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 | 2024-05-16 |  |
+| [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 | 2024-05-16 | 2026-05-30 |
 | [MÚSICA PARA TERMINAR](https://open.spotify.com/track/1crNNzBR6UlPsOogylRITQ) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [MÚSICA PARA TERMINAR](https://open.spotify.com/album/0eyrP0NeDOmbfLlynLHGbi) | 2:42 | 2025-03-07 | 2025-04-15 |
 | [Nace Un Borracho](https://open.spotify.com/track/6SnO4yCCYtz2rffMpEAlro) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Deluxe\)](https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi) | 2:56 | 2021-12-06 | 2024-05-17 |
 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 | 2021-12-06 | 2023-11-18 |
@@ -189,6 +189,7 @@
 | [No te pido que vuelvas \(feat\. Marta Soto\) \- Acústica](https://open.spotify.com/track/7nQl07LBwXuCCn1mIMieG0) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Marta Soto](https://open.spotify.com/artist/6rRY793jdSneQ9aSy0RtMN) | [No te pido que vuelvas \(feat\. Marta Soto\) \[Acústica\]](https://open.spotify.com/album/24GimCwiewudrQCDgo0ICT) | 4:56 | 2021-12-06 | 2022-07-29 |
 | [No Vuelvas](https://open.spotify.com/track/4KJJ3ZTK5SpAtQfBLUKgaS) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [No Vuelvas](https://open.spotify.com/album/0MaFgahYDdAgq85xXmA6Sz) | 3:45 | 2021-12-06 | 2022-07-26 |
 | [Nobody New](https://open.spotify.com/track/4pwJ6OujVQL3IpCr8KeXIg) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Back To Me](https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e) | 3:35 | 2025-06-27 |  |
+| [Notre\-Dame](https://open.spotify.com/track/6c2s7cbT6WbothMJ6HaywK) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Atanor](https://open.spotify.com/album/6DrdihUtlmWjSaSVPW4M5Y) | 2:46 | 2026-05-29 |  |
 | [Noviembre Sin Ti](https://open.spotify.com/track/63EzbC00mdZurdZzRcO4w3) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 3:23 | 2023-11-17 | 2024-05-17 |
 | [Nunca Voy a Olvidarte \- Primera Fila \- Live Version](https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:57 | 2021-12-06 | 2024-05-17 |
 | [OCEAN PIANO \)\)\)\)\)](https://open.spotify.com/track/7xKoXCGoIhL4TuSfLQCUuG) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 2:15 | 2024-05-16 |  |

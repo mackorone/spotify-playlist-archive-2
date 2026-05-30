@@ -464,7 +464,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 156168,
       "name": "Desamor Feliz Pt. 2",
       "url": "https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7"
@@ -614,6 +614,28 @@
       "duration_ms": 196451,
       "name": "Este Feeling",
       "url": "https://open.spotify.com/track/7kzbEaC84yqKJd5wHNdgoK"
+    },
+    {
+      "album": {
+        "name": "euteamo",
+        "url": "https://open.spotify.com/album/1Yb9zmTvmAc28ZukmcEh7Y"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "euteamo",
+      "url": "https://open.spotify.com/track/5cRZDkt3YEtGh4NkObP1jI"
     },
     {
       "album": {

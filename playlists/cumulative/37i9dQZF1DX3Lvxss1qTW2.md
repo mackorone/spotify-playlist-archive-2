@@ -4,7 +4,7 @@
 
 > The future hits of today\. Up Next: Emo Grae
 
-761 songs - 1 day 11 hr 18 min
+762 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/track/0btl8LkqkQNo4NxmpBoP8a) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Anytime \(feat\. Ayo Maff\)](https://open.spotify.com/album/0tlsC4tKamKTl9PYoMuPTY) | 3:12 | 2025-05-16 | 2026-01-29 |
 | [Anyway](https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Hard Guy Confessions](https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo) | 3:54 | 2024-11-15 | 2024-11-29 |
 | [Après Minuit \(feat\. Tiakola\)](https://open.spotify.com/track/7JKGyMt8qkTaUHXFpxgjY2) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:57 | 2025-04-07 | 2025-08-23 |
-| [ar1gato 2 you](https://open.spotify.com/track/0F6r2VkKSiHn9i8p3tZJJS) | [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [2 l1t](https://open.spotify.com/album/4auxhB5qT1Wsp2CqYvV3E4) | 1:57 | 2026-04-03 |  |
+| [ar1gato 2 you](https://open.spotify.com/track/0F6r2VkKSiHn9i8p3tZJJS) | [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [2 l1t](https://open.spotify.com/album/4auxhB5qT1Wsp2CqYvV3E4) | 1:57 | 2026-04-03 | 2026-05-30 |
 | [Ara No Dey Sleep](https://open.spotify.com/track/3sQgX4EW0lnLYr0BAbPA9g) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [The Odyssey](https://open.spotify.com/album/1cMwW3RWNFCLR8A9gUQRVG) | 3:12 | 2026-04-20 |  |
 | [Are You On The Way](https://open.spotify.com/track/5QyJkMyAWCB0IzuzUiYpER) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Love Stray](https://open.spotify.com/album/5TLK7dV5QefqleKyBjgO6d) | 3:38 | 2026-02-27 | 2026-03-27 |
 | [Are you there?](https://open.spotify.com/track/10y7iW3rc8bzGbhAC3mNPA) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [MAFFIAN](https://open.spotify.com/album/34MCeC9R3RzTxf3vzEJmWi) | 2:36 | 2024-08-16 | 2024-09-13 |
@@ -325,6 +325,7 @@
 | [I Alone](https://open.spotify.com/track/6D09vfVjCFlRxOGdmja0yp) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [CAPTAIN](https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT) | 3:27 | 2025-07-04 | 2026-03-27 |
 | [I Do](https://open.spotify.com/track/2aiwomEGsx1qmyMsj6JFU3) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [First of My Kind EP](https://open.spotify.com/album/3EjU6cq2Y8htvd5ozgkmE1) | 2:37 | 2024-10-12 | 2025-03-07 |
 | [I DONT CARE](https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [BEASTMODE VOL1](https://open.spotify.com/album/1R9LiQzCSBUPZ0Ck6PtEo6) | 2:58 | 2026-04-17 | 2026-05-08 |
+| [I knoww](https://open.spotify.com/track/04tEKZxYzpYbPfIA0fJlOF) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Star Jay](https://open.spotify.com/artist/1fuHb5TQ1r9wqAPx4jgx8D) | [I knoww](https://open.spotify.com/album/7fXaUu3blBnTT1VPi6OhLq) | 1:22 | 2026-05-29 |  |
 | [I love you](https://open.spotify.com/track/1OKfJO2tcqlUWn6hpu3QkM) | [Amma](https://open.spotify.com/artist/3tzLeaebyww0SwtETRYRIm) | [to what we were](https://open.spotify.com/album/1s5prd8IhOJfzOQFrJIhq9) | 2:14 | 2026-04-20 | 2026-05-08 |
 | [I miss you die](https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Olayemi](https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY) | 3:20 | 2025-08-01 | 2025-08-22 |
 | [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 | 2025-03-14 | 2025-07-05 |

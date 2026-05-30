@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,319 songs - 4 day 2 hr 39 min
+2,320 songs - 4 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1923,6 +1923,7 @@
 | [Stockholm, Sweden](https://open.spotify.com/track/4OXBckSyWWg75ge5zrVS3D) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Stockholm, Sweden](https://open.spotify.com/album/2jeuty9zm7vBzzDnsNsmEn) | 2:40 | 2023-11-17 | 2024-03-08 |
 | [Stockholmsbrud](https://open.spotify.com/track/2iirxhzR3jHGrJFgzHiy6J) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [Stockholmsbrud](https://open.spotify.com/album/4A0ITPScPKfjQJUpcknF8L) | 1:41 | 2026-02-12 |  |
 | [STOD I REGNET](https://open.spotify.com/track/5DkPZyFVVPMMPE1jqIoo3k) | [Revilo](https://open.spotify.com/artist/5dbZrhH9p0IwNpJjSsv7Ms), [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [STOD I REGNET](https://open.spotify.com/album/3OF2LztRyQoabkkuUVi8ot) | 2:12 | 2024-07-25 | 2025-01-17 |
+| [STOPPA VÅLDET](https://open.spotify.com/track/2Vm2eQD2gdhXte4tdkm3ig) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [STOPPA VÅLDET](https://open.spotify.com/album/1OAr7fYis97uejfRp1Ux9P) | 2:10 | 2026-05-29 |  |
 | [STORA](https://open.spotify.com/track/4YKmbn2gdqMBKhpmLMdi0r) | [Kelian](https://open.spotify.com/artist/1w60WqdXNxxpNnpyoBupDj), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [STORA](https://open.spotify.com/album/0T6UxQCTWiu0mTPwjB9orO) | 2:02 | 2025-09-04 | 2026-02-13 |
 | [Stora](https://open.spotify.com/track/7vdBhdrc3ebhD0uPJrTaHH) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF), [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Stora](https://open.spotify.com/album/6foQbx3LaUmzadciF2ll31) | 2:36 | 2022-06-30 | 2022-07-15 |
 | [Stora blå](https://open.spotify.com/track/4iOofOqrmdCTLopFFbUw6D) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk) | [Över Broarna](https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv) | 2:59 | 2023-05-25 | 2023-09-08 |

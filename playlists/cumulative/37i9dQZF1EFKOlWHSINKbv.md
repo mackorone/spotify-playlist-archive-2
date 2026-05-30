@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-173 songs - 10 hr 31 min
+174 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,8 @@
 | [Never Give Up On Me](https://open.spotify.com/track/0t3q49mmUsXV1s7k29Pls0) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Gratitude](https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF) | 3:17 | 2024-11-28 |  |
 | [Never Window Shoppin](https://open.spotify.com/track/6pfGgzrsOjiTVmHPtS3k1O) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [King Of Hearts \(Deluxe\)](https://open.spotify.com/album/3aAONJf7r1uJXF9ErDaJBx) | 3:45 | 2024-06-11 |  |
 | [New Love](https://open.spotify.com/track/1KARZZIAZxCCiUpLD7Wv4D) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Life After Love, Pt\. 2](https://open.spotify.com/album/6Xy3XPmtoXJFM1pgk2lZky) | 3:31 | 2024-06-11 |  |
-| [New National Anthem \(feat\. Skylar Grey\)](https://open.spotify.com/track/4L7rW7AtGsmdyBeBe9XsqR) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Paperwork \(Deluxe Explicit\)](https://open.spotify.com/album/4FADvCXok2GhepAWLE8Fs1) | 4:17 | 2024-06-11 |  |
+| [New National Anthem](https://open.spotify.com/track/7Gq4OAsf6zLzcpMKJgXxV0) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Paperwork \(Deluxe Explicit\)](https://open.spotify.com/album/6NJT4jSQtCoVAFhTmskP0h) | 4:17 | 2026-05-29 |  |
+| [New National Anthem \(feat\. Skylar Grey\)](https://open.spotify.com/track/4L7rW7AtGsmdyBeBe9XsqR) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Paperwork \(Deluxe Explicit\)](https://open.spotify.com/album/4FADvCXok2GhepAWLE8Fs1) | 4:17 | 2024-06-11 | 2026-05-30 |
 | [New Religion](https://open.spotify.com/track/0Dak6ZI1drWHHWx4S0yr7r) | [Ro James](https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y) | [ELDORADO](https://open.spotify.com/album/1SXqTsVnjtIULG5YKXafeY) | 3:53 | 2024-06-11 |  |
 | [nEXt](https://open.spotify.com/track/5RlciRfZzBAlwZ1dyB93yF) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Call Me Crazy, But...](https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7) | 4:11 | 2024-06-11 |  |
 | [Nickels & Dimes](https://open.spotify.com/track/3rhgfQsqBYo22yw2mCGskJ) | [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [Walking Around Pools](https://open.spotify.com/album/27E20F2QU9DJ1wyTzBa8RJ) | 5:22 | 2024-06-11 |  |

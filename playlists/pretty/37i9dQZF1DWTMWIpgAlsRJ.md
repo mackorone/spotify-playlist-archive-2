@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The 100 greatest EA SPORTS FC tracks of all time
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,256 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,270 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 93 | [It's Strange](https://open.spotify.com/track/0NxHMGOA8vwPD0x8MmXnp7) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [It's Strange](https://open.spotify.com/album/65kmQuUqkUbglq0S707HXN) | 4:05 |
 | 94 | [I'm Not Gonna Teach Your Boyfriend How to Dance with You](https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt) | 3:37 |
 | 95 | [Town Called Malice](https://open.spotify.com/track/73RGpQg8Cxtly4QuHtNiOd) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Jam Story](https://open.spotify.com/album/50d9Hx8o4z7XooQItBG9nH) | 2:52 |
-| 96 | [Êfemera](https://open.spotify.com/track/0iRIYx90xEgqfbFcwzrtFc) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Efêmera](https://open.spotify.com/album/4jZncyAcIndHAVVlYG4vDk) | 3:44 |
-| 97 | [1977](https://open.spotify.com/track/6DEfT3ck2WORjZJn6Xyt39) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/57jzsyG5Huh4Jrb0rkDu5S) | 3:24 |
-| 98 | [Rise To The Challenge](https://open.spotify.com/track/1Hd8LnDfCZltoUvuwDl6ZC) | [Asian Dub Foundation](https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z) | [Enemy Of The Enemy \(Remastered\)](https://open.spotify.com/album/5v8lBCWTqHrCy5b0DDaRtV) | 4:25 |
-| 99 | [Mean Demeanor](https://open.spotify.com/track/0KDTWyOfhVNSHyctLmiQC3) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Mean Demeanor](https://open.spotify.com/album/2u3sopyvQaCshQSFfzgxSJ) | 3:01 |
-| 100 | [BUYA](https://open.spotify.com/track/4JzupGoZoRC5qRY9Y4vUuE) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [BUYA](https://open.spotify.com/album/40YPn9jFKNXuWjoSAB8kyR) | 2:49 |
+| 96 | [BUYA](https://open.spotify.com/track/4JzupGoZoRC5qRY9Y4vUuE) | [Domino Saints](https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ) | [BUYA](https://open.spotify.com/album/40YPn9jFKNXuWjoSAB8kyR) | 2:49 |
+| 97 | [Êfemera](https://open.spotify.com/track/0iRIYx90xEgqfbFcwzrtFc) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb) | [Efêmera](https://open.spotify.com/album/4jZncyAcIndHAVVlYG4vDk) | 3:44 |
+| 98 | [1977](https://open.spotify.com/track/6DEfT3ck2WORjZJn6Xyt39) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/57jzsyG5Huh4Jrb0rkDu5S) | 3:24 |
+| 99 | [Rise To The Challenge](https://open.spotify.com/track/1Hd8LnDfCZltoUvuwDl6ZC) | [Asian Dub Foundation](https://open.spotify.com/artist/2EeUsNnv2BcVIGhBZ5SV8z) | [Enemy Of The Enemy \(Remastered\)](https://open.spotify.com/album/5v8lBCWTqHrCy5b0DDaRtV) | 4:25 |
+| 100 | [Mean Demeanor](https://open.spotify.com/track/0KDTWyOfhVNSHyctLmiQC3) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Mean Demeanor](https://open.spotify.com/album/2u3sopyvQaCshQSFfzgxSJ) | 3:01 |
 
 Snapshot ID: `AAAAAKkggfSFFEf+Z12vyU/diUhX4zc9`

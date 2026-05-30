@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-19",
-  "description": "Monster Hiphop anthems to unlock your day. Tracks from Drake, Latto, Sexxy Red and more",
+  "description": "Monster Hiphop anthems to unlock your day. Tracks from Latto, Future, YG, Black Sherif and more",
   "name": "JumpOff",
   "tracks": [
     {
@@ -486,7 +486,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 224279,
       "name": "AIR FORCE (BLACK DEMARCO)",
       "url": "https://open.spotify.com/track/4WGk4UwyQD0mxTN6gEL4wl"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 200000,
       "name": "BENITHINI NGAM'",
       "url": "https://open.spotify.com/track/20J5QpNUHHumTHljwzmF2E"
@@ -2121,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "Clap",
+        "url": "https://open.spotify.com/album/2yNwOvF3g7DQcADqywdLj3"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "Clap",
+      "url": "https://open.spotify.com/track/1qBEN3LafkXQBJ9ofV4nzM"
+    },
+    {
+      "album": {
         "name": "Classy Girl",
         "url": "https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk"
       },
@@ -2952,7 +2970,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 210309,
       "name": "DON'T EVEN CALL (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/5uSYVN8YUibG5uk4xehEJM"
@@ -3234,7 +3252,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 181670,
       "name": "Enemies",
       "url": "https://open.spotify.com/track/4KYf8TBVU4QHZlSnVOn7u8"
@@ -4027,6 +4045,54 @@
     },
     {
       "album": {
+        "name": "Game Time (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206166,
+      "name": "Game Time",
+      "url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr"
+    },
+    {
+      "album": {
+        "name": "GANG BIZNESS feat paygotti",
+        "url": "https://open.spotify.com/album/2ZhRsUqboIjLWBSF14fnMH"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167177,
+      "name": "GANG BIZNESS feat paygotti",
+      "url": "https://open.spotify.com/track/7MBxU6dqMPl4LAC7XacEkv"
+    },
+    {
+      "album": {
         "name": "Gas Me Up (Diligent)",
         "url": "https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn"
       },
@@ -4566,7 +4632,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 154931,
       "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
       "url": "https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4"
@@ -4584,7 +4650,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 184172,
       "name": "Hard Body",
       "url": "https://open.spotify.com/track/2eg8sfkVl6VlzFydaVFFmt"
@@ -5008,6 +5074,28 @@
       "duration_ms": 227184,
       "name": "Hope You Know",
       "url": "https://open.spotify.com/track/2Ge2ZhznMuO22wIQ9Z5Wql"
+    },
+    {
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "Hostage (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
     },
     {
       "album": {
@@ -5972,7 +6060,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 202162,
       "name": "Let's Do It (feat. Playboi Carti & Skooly)",
       "url": "https://open.spotify.com/track/7bhMeTchpDsG69wNmAZgzN"
@@ -6188,6 +6276,24 @@
       "duration_ms": 187129,
       "name": "Location 58",
       "url": "https://open.spotify.com/track/24Tr8EkduWD1T6lA2ubiRO"
+    },
+    {
+      "album": {
+        "name": "LOCKED IN FREESTYLE",
+        "url": "https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100392,
+      "name": "LOCKED IN FREESTYLE",
+      "url": "https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk"
     },
     {
       "album": {
@@ -6505,6 +6611,28 @@
     },
     {
       "album": {
+        "name": "Mazzaleen",
+        "url": "https://open.spotify.com/album/22gub81LW7QBIJIIK8J1gg"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227490,
+      "name": "Mazzaleen",
+      "url": "https://open.spotify.com/track/2qjchnJOgJoWsuOJsfbUVr"
+    },
+    {
+      "album": {
         "name": "Iz It a Crime?",
         "url": "https://open.spotify.com/album/2EDW8OhiHdB2UtE6PCAxZD"
       },
@@ -6724,6 +6852,28 @@
       "duration_ms": 183037,
       "name": "Monsters Inc. (feat. Future)",
       "url": "https://open.spotify.com/track/22IvmyP4Sy8g9j9Jk6iRL3"
+    },
+    {
+      "album": {
+        "name": "Motion Party (Remix)",
+        "url": "https://open.spotify.com/album/4zMIJXXO6hA9UgJXlb6zvQ"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156200,
+      "name": "Motion Party (Remix)",
+      "url": "https://open.spotify.com/track/6ZSDvXbaeuGeCwiPJCfOwG"
     },
     {
       "album": {
@@ -8010,7 +8160,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 162906,
       "name": "PAPER LOW",
       "url": "https://open.spotify.com/track/3xZT6OEmmI8bpMKkmGIlwt"
@@ -8976,7 +9126,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 232000,
       "name": "ROOMS",
       "url": "https://open.spotify.com/track/0LnDKUQRhGvVMraLKhWnuD"
@@ -10321,6 +10471,24 @@
     },
     {
       "album": {
+        "name": "SWAGGA",
+        "url": "https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190270,
+      "name": "SWAGGA",
+      "url": "https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc"
+    },
+    {
+      "album": {
         "name": "Swear to God (feat. Future)",
         "url": "https://open.spotify.com/album/5j8aNVtgdhzP7azN05Z9h5"
       },
@@ -10626,7 +10794,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 218520,
       "name": "The Big 3",
       "url": "https://open.spotify.com/track/71Tz0HWh539fu98BIPVS1a"
@@ -10718,7 +10886,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 176867,
       "name": "THE SCYTHE [Feat. TiaCorine & A$AP Ferg]",
       "url": "https://open.spotify.com/track/2cGDqP18a0Bme8o2gtjmiO"
@@ -10828,7 +10996,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 169696,
       "name": "Thick One (with Skilla Baby)",
       "url": "https://open.spotify.com/track/5t2aXsdHmumN4Sb4z1oR6T"
@@ -10890,6 +11058,24 @@
       "duration_ms": 148159,
       "name": "Thought I Was Dead",
       "url": "https://open.spotify.com/track/6MrNG4o8vyJ0xmfIFKG3kB"
+    },
+    {
+      "album": {
+        "name": "Thug",
+        "url": "https://open.spotify.com/album/4aEj8HrgkscnDkdu5oPyqu"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145388,
+      "name": "Thug",
+      "url": "https://open.spotify.com/track/0iZh4VcMhp8zoTlvk8HWZD"
     },
     {
       "album": {
@@ -11242,7 +11428,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 182673,
       "name": "Trimski",
       "url": "https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW"
@@ -11740,7 +11926,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 229112,
       "name": "Watching Us (with Leon Thomas)",
       "url": "https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ"

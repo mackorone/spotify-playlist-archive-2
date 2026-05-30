@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! ANASOF en portada.",
-  "num_followers": 38647,
+  "num_followers": 38652,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Se Me Va",
-        "url": "https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Se Me Va",
-      "url": "https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "Tormentas Inesperadas",
         "url": "https://open.spotify.com/album/4EfZFJiOrI4ATlkFT4ufOl"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 264749,
       "name": "Amanecidos",
       "url": "https://open.spotify.com/track/1c9SC31s2U0yMCFCpsW37s"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "Se Me Va",
+        "url": "https://open.spotify.com/album/5nVcYNglS9CCWlBgent3Nf"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Se Me Va",
+      "url": "https://open.spotify.com/track/3k8cy0mnztuAVC267hrLLm"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 183109,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
         "name": "qu\u00e9 ves en m\u00ed? / interesante",
         "url": "https://open.spotify.com/album/4tcCh5G7uvLuG7MCC7M9pw"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 204257,
       "name": "qu\u00e9 ves en m\u00ed?",
       "url": "https://open.spotify.com/track/0LNgaUgNSqZp0CsxDPRU8I"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 183109,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
+        "name": "CUERPOS, Vol. 1",
+        "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 226181,
+      "name": "TIEMPO OFF",
+      "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
         "name": "Zero",
         "url": "https://open.spotify.com/album/36qFySoOy3b1rfHDqg5olY"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 272386,
       "name": "Zero (Feat. Zaira Jabnell)",
       "url": "https://open.spotify.com/track/669OFp5ut5nydyepuuS0Eg"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
-        "name": "CUERPOS, Vol. 1",
-        "url": "https://open.spotify.com/album/08oCrWpJJhLBSRqd6WczEV"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 226181,
-      "name": "TIEMPO OFF",
-      "url": "https://open.spotify.com/track/6VZrGs2utNJM028PV2gPJB"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "EN LO TOTAL",
-        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
-      },
-      "artists": [
-        {
-          "name": "Lori Meyers",
-          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
-        }
-      ],
-      "duration_ms": 235141,
-      "name": "EN LO TOTAL",
-      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
         "name": "Hagamos Que",
         "url": "https://open.spotify.com/album/1LzepHC5JM2kXvL5Fv7CgC"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 178160,
       "name": "Hagamos Que",
       "url": "https://open.spotify.com/track/6dERO18avM16kki5aCjTkb"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
+        "name": "EN LO TOTAL",
+        "url": "https://open.spotify.com/album/6YyvXPie5Mvhl9LnLez2ix"
+      },
+      "artists": [
+        {
+          "name": "Lori Meyers",
+          "url": "https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi"
+        }
+      ],
+      "duration_ms": 235141,
+      "name": "EN LO TOTAL",
+      "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "ESO Que Nos Trajo a Abbey Road",
-        "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
+        "name": "Pelo Suelto",
+        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
       "artists": [
         {
-          "name": "Los Mesoneros",
-          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 198051,
-      "name": "Memoria Muscular - Desde Abbey Road",
-      "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
+      "duration_ms": 204817,
+      "name": "Pelo Suelto",
+      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1039,22 +1043,18 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
-        "name": "Pelo Suelto",
-        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
+        "name": "ESO Que Nos Trajo a Abbey Road",
+        "url": "https://open.spotify.com/album/0avtZa7A9cmR4bNgYJkG2s"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Los Mesoneros",
+          "url": "https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517"
         }
       ],
-      "duration_ms": 204817,
-      "name": "Pelo Suelto",
-      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+      "duration_ms": 198051,
+      "name": "Memoria Muscular - Desde Abbey Road",
+      "url": "https://open.spotify.com/track/729ABU6pAHqCuAk8YXeSl0"
     },
     {
       "added_at": "2026-05-22 06:00:30",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-05-22 06:00:30",
       "album": {
+        "name": "Y Te Vas XX",
+        "url": "https://open.spotify.com/album/2oPRTPC2GKkLrHDY6o9iiP"
+      },
+      "artists": [
+        {
+          "name": "Motel",
+          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+        }
+      ],
+      "duration_ms": 210966,
+      "name": "Y Te Vas XX",
+      "url": "https://open.spotify.com/track/1uQkWFX10IiTbGDVqQIdVP"
+    },
+    {
+      "added_at": "2026-05-22 06:00:30",
+      "album": {
         "name": "Brillo",
         "url": "https://open.spotify.com/album/643b849ZrdiJdvlpW8zn16"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 256580,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/3mlwujisr9X3OazRdRVFHp"
-    },
-    {
-      "added_at": "2026-05-22 06:00:30",
-      "album": {
-        "name": "Y Te Vas XX",
-        "url": "https://open.spotify.com/album/2oPRTPC2GKkLrHDY6o9iiP"
-      },
-      "artists": [
-        {
-          "name": "Motel",
-          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
-        }
-      ],
-      "duration_ms": 210966,
-      "name": "Y Te Vas XX",
-      "url": "https://open.spotify.com/track/1uQkWFX10IiTbGDVqQIdVP"
     }
   ],
   "unique_name": "Pop Rock Latino",

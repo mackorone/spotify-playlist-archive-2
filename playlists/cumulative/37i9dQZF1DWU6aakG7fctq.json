@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 204974,
       "name": "barquito - bonus track",
       "url": "https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB"
@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 154821,
       "name": "Blurry",
       "url": "https://open.spotify.com/track/6lMXfRy0JXxAFe3XqNZdSW"
@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 210258,
       "name": "buttermilk 2",
       "url": "https://open.spotify.com/track/6SQgtVsmwZMIluNxdFICeM"
@@ -4659,6 +4659,28 @@
     },
     {
       "album": {
+        "name": "Marcri\u00e1",
+        "url": "https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203856,
+      "name": "dandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltasdandovueltas",
+      "url": "https://open.spotify.com/track/0l21xkEnzkakePnAfPbJRq"
+    },
+    {
+      "album": {
         "name": "DARK CLOUDS",
         "url": "https://open.spotify.com/album/24TvL2gRe3EGpHOQ36fjWz"
       },
@@ -5514,6 +5536,24 @@
       "duration_ms": 183703,
       "name": "DOS PARTES",
       "url": "https://open.spotify.com/track/1rk15TMH2O0wP09zOvZB5u"
+    },
+    {
+      "album": {
+        "name": "Ilusiones de Amor",
+        "url": "https://open.spotify.com/album/1S692zlCrtcSsgeG0Yk5zz"
+      },
+      "artists": [
+        {
+          "name": "Trucha",
+          "url": "https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163258,
+      "name": "Dossier",
+      "url": "https://open.spotify.com/track/1HuU83yceEAnz8XaQRS6CF"
     },
     {
       "album": {
@@ -6652,6 +6692,24 @@
       "duration_ms": 211454,
       "name": "entre las piernas",
       "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
+    },
+    {
+      "album": {
+        "name": "Entre Limbos",
+        "url": "https://open.spotify.com/album/2uQ4CcoXRMu6xpmTlLOSoo"
+      },
+      "artists": [
+        {
+          "name": "Andy Daze",
+          "url": "https://open.spotify.com/artist/3C9RghNMHKFDn4fxrOrrW8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180929,
+      "name": "Entre Limbos",
+      "url": "https://open.spotify.com/track/6YtlDZuUTW0T6Ie2U1go5g"
     },
     {
       "album": {
@@ -8334,7 +8392,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 165360,
       "name": "HIPERSENTIMENTAL",
       "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
@@ -9640,7 +9698,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 154912,
       "name": "La M\u00e1quina",
       "url": "https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ"
@@ -12332,7 +12390,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 214140,
       "name": "Mi Terraza",
       "url": "https://open.spotify.com/track/6liXtsSKDHM1OPMbmszF70"
@@ -16117,6 +16175,28 @@
     },
     {
       "album": {
+        "name": "Problemas",
+        "url": "https://open.spotify.com/album/4SN3RhmUlb0JQZL14cPJvO"
+      },
+      "artists": [
+        {
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+        },
+        {
+          "name": "Dear Joanne",
+          "url": "https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145133,
+      "name": "Problemas",
+      "url": "https://open.spotify.com/track/3rqsqwBNjbbp0Wdx5tnwsi"
+    },
+    {
+      "album": {
         "name": "Profugos del tiempo",
         "url": "https://open.spotify.com/album/7Ln1X59GCd2Jaokf3CiTcL"
       },
@@ -16715,6 +16795,28 @@
     },
     {
       "album": {
+        "name": "EV+",
+        "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283408,
+      "name": "Qu\u00e9 Hacemos",
+      "url": "https://open.spotify.com/track/7DBRvlHX8PiPm3jm3K8UQD"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 m\u00e1s da (feat. Charlie Rodd)",
         "url": "https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9"
       },
@@ -17273,6 +17375,24 @@
     },
     {
       "album": {
+        "name": "RODEO CLOWN",
+        "url": "https://open.spotify.com/album/5172xO1n4yEllzzcsIqP1N"
+      },
+      "artists": [
+        {
+          "name": "Obed Padilla",
+          "url": "https://open.spotify.com/artist/3aXWXIWEaVHVsCCCkTLVzl"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153764,
+      "name": "RODEO CLOWN",
+      "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
+    },
+    {
+      "album": {
         "name": "Rompe",
         "url": "https://open.spotify.com/album/3LkQmErcchUOeE3PciyZaG"
       },
@@ -17490,7 +17610,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 120400,
       "name": "Saoco",
       "url": "https://open.spotify.com/track/0lJCj1r8i2sLsKqp6PfxB3"
@@ -17566,7 +17686,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 171224,
       "name": "se fue",
       "url": "https://open.spotify.com/track/1KCz0aKX8syLE5bDxo7jmE"
@@ -17888,7 +18008,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 263701,
       "name": "Si tu quieres bien y si no tambi\u00e9n",
       "url": "https://open.spotify.com/track/3tflYsVAn0Tqhb2u4rmfte"
@@ -18030,6 +18150,28 @@
       "duration_ms": 257000,
       "name": "SIN MIRAR (feat. CLUBZ)",
       "url": "https://open.spotify.com/track/0xdYSnHZ8nYLxk6Cf72ZbV"
+    },
+    {
+      "album": {
+        "name": "Donde Quiero Estar",
+        "url": "https://open.spotify.com/album/6w0nW1QepJjE6wlDD3FQFd"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187786,
+      "name": "Sin Plan B",
+      "url": "https://open.spotify.com/track/6wEzspgToSQT9zBzDWIThd"
     },
     {
       "album": {
@@ -18812,6 +18954,28 @@
       "duration_ms": 184186,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/1tcNSGtEw6tWdZAc7WyF7u"
+    },
+    {
+      "album": {
+        "name": "La Frontera",
+        "url": "https://open.spotify.com/album/68M19FS9VdSxdSPl5uzUWt"
+      },
+      "artists": [
+        {
+          "name": "Viniloversus",
+          "url": "https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157186,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/19hOu7GyeG1YwiyNvSfaf7"
     },
     {
       "album": {
@@ -20568,6 +20732,24 @@
       "duration_ms": 206538,
       "name": "Tu VIP",
       "url": "https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk"
+    },
+    {
+      "album": {
+        "name": "Tunombrealaciudad (Mirror Tapes)",
+        "url": "https://open.spotify.com/album/1Wt7MvsUGlxmM6Wjzp96Ay"
+      },
+      "artists": [
+        {
+          "name": "Toni Anzis",
+          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Tunombrealaciudad (Mirror Tapes)",
+      "url": "https://open.spotify.com/track/4eNhTfHLJ4GS7AOvka4DM0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,386 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,400 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 10 | [No Me Hagas Menos](https://open.spotify.com/track/5CpAD6mT0lOdUkZHIqPGCq) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [De Lo Bueno Lo Mejor](https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54) | 3:37 |
 | 11 | [Noches Eternas](https://open.spotify.com/track/7k11lO5JBXkkQfKBExqVGh) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Maquinista](https://open.spotify.com/album/69lJRuexU5t09latWCcR2L) | 2:50 |
 | 12 | [Golondrina Viajera](https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 3:38 |
-| 13 | [La Equivocación](https://open.spotify.com/track/67foWfrFF0pHYh7H0XQuBl) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuesta Arriba](https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi) | 3:17 |
-| 14 | [Que El Mundo Ruede](https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Y Que El Mundo Ruede](https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0) | 2:53 |
+| 13 | [Que El Mundo Ruede](https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Y Que El Mundo Ruede](https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0) | 2:53 |
+| 14 | [La Equivocación](https://open.spotify.com/track/67foWfrFF0pHYh7H0XQuBl) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Cuesta Arriba](https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi) | 3:17 |
 | 15 | [China De Los Ojos Negros](https://open.spotify.com/track/1Gn4Bzv6eHrSC87MGTkUmz) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [El Maquinista](https://open.spotify.com/album/69lJRuexU5t09latWCcR2L) | 3:15 |
 | 16 | [El Invencible](https://open.spotify.com/track/43lAvFigqX6LF678oVPCBN) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Invencible](https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB) | 2:36 |
 | 17 | [Aventura Pasada](https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Aventura Pasada](https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx) | 2:35 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 22 | [Por Tu Maldito Amor](https://open.spotify.com/track/4LBU6vLTwbgE6VQ6ZYeyKp) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Más Escuchado De](https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk) | 3:54 |
 | 23 | [Yo Quería A Las Dos](https://open.spotify.com/track/6S8ZzM5yzxlYl2GpXodBcT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Entrega De Amor](https://open.spotify.com/album/77qPYC9N8BwFgb9T6gi0F1) | 2:43 |
 | 24 | [Renunciacion](https://open.spotify.com/track/3040vDurd9VfDGb4gvj6JT) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Historicos, Vol\. 2](https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV) | 3:11 |
-| 25 | [No Volveré](https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Mejor De...](https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ) | 2:57 |
-| 26 | [Tu Ultimo Verano](https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Rifare Mi Suerte](https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf) | 3:01 |
+| 25 | [Tu Ultimo Verano](https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Rifare Mi Suerte](https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf) | 3:01 |
+| 26 | [No Volveré](https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Mejor De...](https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ) | 2:57 |
 | 27 | [Cómo Fui A Enamorarme De Ti](https://open.spotify.com/track/1QaQ3sUbTOkPXWKfeMJjcj) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Abriendo Caminos](https://open.spotify.com/album/6qL1ZOQEqMLdfo83yQoKKo) | 3:17 |
 | 28 | [Abrazado De Un Poste](https://open.spotify.com/track/2OERX7ib8Yu6YYPnngeldn) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Más Escuchado De](https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk) | 2:29 |
 | 29 | [Mi Libertad](https://open.spotify.com/track/1F2w6bwCoMuuRH46bi4u60) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG), [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Mi Libertad](https://open.spotify.com/album/30dzWWHrTkkPscEAMQbybh) | 2:48 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 44 | [Amor Ingrato](https://open.spotify.com/track/3WzL5T9QinwHJlwC8PjD04) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Historicos, Vol\. 2](https://open.spotify.com/album/0A6Tcem0fgtdekMek63yrV) | 3:04 |
 | 45 | [Un Engaño Más](https://open.spotify.com/track/1wINnp6krwSRfcG8RusHc5) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:52 |
 | 46 | [Las Rejas No Matan](https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Lo Mejor De...](https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ) | 3:22 |
-| 47 | [Presiento Que Voy a Llorar](https://open.spotify.com/track/2K9PYs01AdzNwHe2Jy3M52) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Seguimos Firme](https://open.spotify.com/album/64dzsb0YXYnnK0gEGNAjL7) | 3:31 |
-| 48 | [Al Ver Que Te Vas](https://open.spotify.com/track/0DRAf1NW1dBCMJOq5r0RKV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Clásicos](https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y) | 3:28 |
+| 47 | [Al Ver Que Te Vas](https://open.spotify.com/track/0DRAf1NW1dBCMJOq5r0RKV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [20 Exitos Clásicos](https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y) | 3:28 |
+| 48 | [Presiento Que Voy a Llorar](https://open.spotify.com/track/2K9PYs01AdzNwHe2Jy3M52) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Seguimos Firme](https://open.spotify.com/album/64dzsb0YXYnnK0gEGNAjL7) | 3:31 |
 | 49 | [Falsa y Mancornadora](https://open.spotify.com/track/5lIOB6lSPG1rQtpiQwVyze) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Las Clasicas del Ayer, Vol\. 1](https://open.spotify.com/album/6ee5FkWK30hffyM3O4UB17) | 2:51 |
 | 50 | [Mi Primer Amor \(Meu Primeiro Amor\)](https://open.spotify.com/track/4MBykXKFPYkAmsZhe2kYDo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Siempre Imitado, Jamas Igualado](https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5) | 3:28 |
 
-Snapshot ID: `ahY0AAAAAADxFqwZDLbPbcgnuc7u8DGH`
+Snapshot ID: `aheFgAAAAACFTiQD6Hzi/2Hoez1u1qKg`

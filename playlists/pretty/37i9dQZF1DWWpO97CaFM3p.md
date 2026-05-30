@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,008,057 likes - 125 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,031 likes - 125 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 43 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
 | 44 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
 | 45 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 |
-| 46 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
-| 47 | [But Not Kiss](https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:42 |
-| 48 | [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 |
+| 46 | [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 |
+| 47 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
+| 48 | [But Not Kiss](https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:42 |
 | 49 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 |
 | 50 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 |
 | 51 | [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 86 | [Last Man On Earth](https://open.spotify.com/track/3gTq1WoOHWfyuCkIaCgjYS) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Last Man On Earth](https://open.spotify.com/album/4JaYYKTMIoesQyIaCyGQGY) | 3:08 |
 | 87 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 |
 | 88 | [Stranger](https://open.spotify.com/track/1xn1htwSeRr3HhOlYToFEx) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4bJsDQSbvSYfjku0kz83oF) | 3:54 |
-| 89 | [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 |
-| 90 | [I Don't Want to Go](https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Water](https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w) | 5:04 |
+| 89 | [I Don't Want to Go](https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Water](https://open.spotify.com/album/1F4rsdXzl1jda8iHIkXU8w) | 5:04 |
+| 90 | [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 |
 | 91 | [Climbing Bear](https://open.spotify.com/track/36lEFwL7po0THo1sTAmAtO) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 3:18 |
 | 92 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 |
 | 93 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 114 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 |
 | 115 | [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 |
 | 116 | [Mecca](https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Mecca](https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV) | 4:51 |
-| 117 | [It's You That Makes Me](https://open.spotify.com/track/591wWiv6D0i0NTlhvW5K0Q) | [Prince of Spain](https://open.spotify.com/artist/74VzIfFnhg12C4WnT6aLh1) | [It's You That Makes Me](https://open.spotify.com/album/3QVMLasdYIHAvypH7mMrGI) | 5:14 |
-| 118 | [Hypochondriac \- acoustic](https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREECH \(acoustic\)](https://open.spotify.com/album/2z0LnLC80s7cJDEYlcwWjO) | 3:30 |
+| 117 | [Hypochondriac \- acoustic](https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREECH \(acoustic\)](https://open.spotify.com/album/2z0LnLC80s7cJDEYlcwWjO) | 3:30 |
+| 118 | [It's You That Makes Me](https://open.spotify.com/track/591wWiv6D0i0NTlhvW5K0Q) | [Prince of Spain](https://open.spotify.com/artist/74VzIfFnhg12C4WnT6aLh1) | [It's You That Makes Me](https://open.spotify.com/album/3QVMLasdYIHAvypH7mMrGI) | 5:14 |
 | 119 | [Virtual Hug](https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Virtual Hug](https://open.spotify.com/album/67UEZte3h6JEZ6d4BmEgiT) | 3:09 |
 | 120 | [C'mon Let's Go](https://open.spotify.com/track/0ywr83QNlqjfWukYZvaxaG) | [Elliott BROOD](https://open.spotify.com/artist/51RfVK8q11xKW7bi7bcMpJ) | [Country](https://open.spotify.com/album/0tHfPZikpvAMB16u7A7HIf) | 5:06 |
 | 121 | [I Only Hope to Feel Love](https://open.spotify.com/track/1IdozL1GhMN6w0gjAdPLqb) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:50 |

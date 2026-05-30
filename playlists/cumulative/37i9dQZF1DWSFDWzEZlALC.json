@@ -17871,6 +17871,28 @@
     },
     {
       "album": {
+        "name": "letzter tag",
+        "url": "https://open.spotify.com/album/0dBtMBFhRjnBValwhWS8dA"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN"
+        },
+        {
+          "name": "BLISSFOOL",
+          "url": "https://open.spotify.com/artist/2dH5TMksK8IRWkewaweRIm"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "letzter tag",
+      "url": "https://open.spotify.com/track/0Moio5plYolRIS6HpmqjRD"
+    },
+    {
+      "album": {
         "name": "Letzter Tag",
         "url": "https://open.spotify.com/album/5thuLWe6FnOxGp38JnCfTf"
       },
@@ -28392,24 +28414,6 @@
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
-    },
-    {
-      "album": {
-        "name": "letzter tag",
-        "url": "https://open.spotify.com/album/0dBtMBFhRjnBValwhWS8dA"
-      },
-      "artists": [
-        {
-          "name": "Hank",
-          "url": "https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/0Moio5plYolRIS6HpmqjRD"
     },
     {
       "album": {

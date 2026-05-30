@@ -4,7 +4,7 @@
 
 > All the biggest House, Tech House &amp; Techno anthems right now! Follow us on <a href="https://www.instagram.com/toolroomrecords/">Instagram</a>
 
-266 songs - 13 hr 35 min
+267 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Stimulate](https://open.spotify.com/track/3y2mTYn9DRF2nqqPW84326) | [Nathan Barato](https://open.spotify.com/artist/33eoqQdCfwtPl1hPS1Xlt4), [Room 303](https://open.spotify.com/artist/10uPRgtcQApxlUTQKF5Ihq) | [Stimulate](https://open.spotify.com/album/3LOVE7PxhXKICvLl6E1i6b) | 2:32 | 2025-07-04 | 2026-01-17 |
 | [Story Of My Life](https://open.spotify.com/track/1zXjPVQeJKcKulwkVkU0rW) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP), [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK) | [Story Of My Life](https://open.spotify.com/album/6kg1pJ2pDOOBpy2jV5FNUE) | 2:51 | 2026-04-17 |  |
 | [Sungazing \- Electronic Mix](https://open.spotify.com/track/0H72o8QdyYc57jNkvYwfAX) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [Alexa Sunshine Rose](https://open.spotify.com/artist/1EicV0pIrtOsnszBgno6SB) | [Sungazing \(Electronic Mix\)](https://open.spotify.com/album/4h1vw2FoXuoCPFrMu3wZpg) | 4:07 | 2025-04-25 | 2025-08-23 |
+| [Sweat](https://open.spotify.com/track/6hyQYRBReZsg3rX7uBZLcg) | [Alaia & Gallo](https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25) | [Sweat](https://open.spotify.com/album/2M1g78NcTlCslDoqyrz9qZ) | 3:17 | 2026-05-29 |  |
 | [Sweet Nothing \- 2025 Edit](https://open.spotify.com/track/4ClVzfSYEea03HjEoDYOX3) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Florence Welch](https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg) | [Sweet Nothing \(2025 Edit\)](https://open.spotify.com/album/4i8AwmJIMxxO8RrXOkjm3p) | 3:22 | 2025-08-22 | 2026-02-21 |
 | [System](https://open.spotify.com/track/0oB8BYocpXaQ7hxX8ZhPJ6) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [System](https://open.spotify.com/album/1JlzRvFk7m0lixdexCEYEk) | 3:21 | 2025-09-05 | 2026-02-28 |
 | [Take Me There](https://open.spotify.com/track/729gvORm05JlcZ9b2S7hti) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [Take Me There](https://open.spotify.com/album/3vfgFs01jftOsB3pGKl1ov) | 3:25 | 2025-10-10 | 2026-04-11 |

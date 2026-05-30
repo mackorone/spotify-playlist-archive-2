@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,218 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,221 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 3 | [SOLEAO](https://open.spotify.com/track/3jAshemiRYWukWLtT3Ivrb) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SOLEAO](https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP) | 3:38 |
 | 4 | [Más Que Tú](https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Más Que Tú](https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9) | 3:17 |
 | 5 | [Rock Me Gentle](https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Rock Me Gentle](https://open.spotify.com/album/45NPP48bR0MLByihoQBOia) | 3:06 |
-| 6 | [Ara \(600M\)](https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [ARA](https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W) | 3:05 |
+| 6 | [Un Afrito](https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Un Afrito](https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7) | 2:07 |
 | 7 | [ILY](https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ILY](https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW) | 3:36 |
-| 8 | [Un Afrito](https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Un Afrito](https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7) | 2:07 |
+| 8 | [Ara \(600M\)](https://open.spotify.com/track/7oHYgZelWF1QOTCtR75rnj) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [ARA](https://open.spotify.com/album/7fluxAs5HSUVmyChevBl2W) | 3:05 |
 | 9 | [Formation](https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Formation](https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx) | 2:36 |
 | 10 | [Solar](https://open.spotify.com/track/3g7MPrFgtKspgboTWgB6rM) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Solar](https://open.spotify.com/album/0LOkMEsbdcrGRlisTDMFBl) | 2:21 |
 | 11 | [Mal o Bien](https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 2:05 |

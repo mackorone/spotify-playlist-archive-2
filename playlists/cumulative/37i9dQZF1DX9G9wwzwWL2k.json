@@ -3595,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "The Creator",
+        "url": "https://open.spotify.com/album/77wKwxnW5lw7wwUDpriuqY"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berenguer",
+          "url": "https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "The Creator",
+      "url": "https://open.spotify.com/track/26Y6eOEOtNris6GjsVi2Mn"
+    },
+    {
+      "album": {
         "name": "Gladiator II (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m"
       },

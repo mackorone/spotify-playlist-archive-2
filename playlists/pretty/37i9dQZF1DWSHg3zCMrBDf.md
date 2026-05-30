@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: KiDi & Lasmid
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,570 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,631 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 8 | [ODO PA](https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [ODO PA](https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz) | 2:36 |
 | 9 | [Laho II](https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Laho II](https://open.spotify.com/album/5lpaf3GuS3ig1yXv56OLRR) | 2:39 |
 | 10 | [SWAGGA](https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [SWAGGA](https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F) | 3:10 |
-| 11 | [PAIN III](https://open.spotify.com/track/7Drz9kZcuph4h7CXsBJkQt) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:47 |
+| 11 | [PAIN III](https://open.spotify.com/track/7Drz9kZcuph4h7CXsBJkQt) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Saint Edrah](https://open.spotify.com/artist/2kbp8NOIpu2kWcYvzj54qG) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:47 |
 | 12 | [sankofa](https://open.spotify.com/track/0JwTlwOTMnxar1Sk0tBVaj) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [sankofa](https://open.spotify.com/album/3LWU6KJE2nMfhQNI2pSVCY) | 2:36 |
 | 13 | [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |
 | 14 | [Nakupenda](https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [Nakupenda](https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d) | 5:33 |

@@ -2305,6 +2305,32 @@
     },
     {
       "album": {
+        "name": "Roi de L\u2019ambiance - Begin",
+        "url": "https://open.spotify.com/album/6bJMKOkZ01GVq9NA2W4hTg"
+      },
+      "artists": [
+        {
+          "name": "Bigyne wiz",
+          "url": "https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9"
+        },
+        {
+          "name": "Jolina Verdigo",
+          "url": "https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO"
+        },
+        {
+          "name": "Le Grand Homme",
+          "url": "https://open.spotify.com/artist/3gX7vHBOQDEPYfBaryvhWN"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155515,
+      "name": "Eusseu toi tu me connais",
+      "url": "https://open.spotify.com/track/5E0fsHZn7rKdrwguOZ7au7"
+    },
+    {
+      "album": {
         "name": "Fais comme \u00e7a",
         "url": "https://open.spotify.com/album/3VhjrK60nuPqWOJpvix2IH"
       },
@@ -5466,24 +5492,6 @@
       "duration_ms": 176000,
       "name": "Tout laisse",
       "url": "https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl"
-    },
-    {
-      "album": {
-        "name": "Roi de L\u2019ambiance - Begin",
-        "url": "https://open.spotify.com/album/6bJMKOkZ01GVq9NA2W4hTg"
-      },
-      "artists": [
-        {
-          "name": "Bigyne wiz",
-          "url": "https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/5E0fsHZn7rKdrwguOZ7au7"
     },
     {
       "album": {

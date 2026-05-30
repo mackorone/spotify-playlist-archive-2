@@ -3379,6 +3379,36 @@
     },
     {
       "album": {
+        "name": "Paramount Quartet",
+        "url": "https://open.spotify.com/album/17ACl4xvmRJAPgjcBJEPmh"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "Asante Santi Debriano",
+          "url": "https://open.spotify.com/artist/1AdgjVEMk6jR2OA3Mc5QT3"
+        },
+        {
+          "name": "Will Calhoun",
+          "url": "https://open.spotify.com/artist/03Fr2b89fbLWKq5skHknPV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444677,
+      "name": "First Song",
+      "url": "https://open.spotify.com/track/2t3HFsxdM5liMav1TQIE1m"
+    },
+    {
+      "album": {
         "name": "Flox Gade",
         "url": "https://open.spotify.com/album/4UgOm95xOWuMYpN5cm5yjF"
       },
@@ -11984,7 +12014,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 412573,
       "name": "Winter Rose",
       "url": "https://open.spotify.com/track/181M7BzqRfNNcTB8uHDmyZ"

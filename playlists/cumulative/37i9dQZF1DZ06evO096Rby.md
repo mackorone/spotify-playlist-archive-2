@@ -4,7 +4,7 @@
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-156 songs - 8 hr 4 min
+157 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [En Los Puritos Huesos \- En Vivo](https://open.spotify.com/track/1d3J01sINV8BsC38QtWMjL) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \- En Vivo](https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7) | 2:22 | 2024-01-29 | 2024-08-23 |
 | [En Los Puritos Huesos \- En Vivo](https://open.spotify.com/track/3lrhIGDAi0AELopgjKVJJf) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 2:22 | 2025-06-03 |  |
 | [Entre Golpes y Besos \- En Vivo](https://open.spotify.com/track/5WnXRNGmL0WvQRYT3bWS7x) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:16 | 2025-01-21 | 2025-09-03 |
-| [Eres Veneno](https://open.spotify.com/track/5DJCbtz1sF20CsDI0GGbnC) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Eres Veneno](https://open.spotify.com/album/5sNmy4jQLyHYV83lLNyct9) | 2:05 | 2025-11-17 |  |
+| [Eres Veneno](https://open.spotify.com/track/3K6Ihg1zWhhPwiiT3p1Mw7) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Expansión](https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf) | 2:05 | 2026-05-30 |  |
+| [Eres Veneno](https://open.spotify.com/track/5DJCbtz1sF20CsDI0GGbnC) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Eres Veneno](https://open.spotify.com/album/5sNmy4jQLyHYV83lLNyct9) | 2:05 | 2025-11-17 | 2026-05-30 |
 | [Es Por Ti](https://open.spotify.com/track/1wAa4SwcmuffVDXwL6PpPY) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Es Por Ti](https://open.spotify.com/album/4oGlytrjITiA75RXzWJt3f) | 2:35 | 2026-01-25 | 2026-05-26 |
 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 | 2024-01-29 |  |
 | [Fruta Prohibida \- En Vivo](https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5) | 2:52 | 2024-10-29 |  |

@@ -4,7 +4,7 @@
 
 > Trucha en portada ★
 
-654 songs - 1 day 10 hr 9 min
+655 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [DOS HORAS](https://open.spotify.com/track/2exXEndpd1LniGNwCA2Ea3) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [DOS HORAS](https://open.spotify.com/album/0zOZ3ubXanRAlG2AnXM6ec) | 2:17 | 2026-04-10 | 2026-04-25 |
 | [DOS PARTES](https://open.spotify.com/track/1rk15TMH2O0wP09zOvZB5u) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [CEREMONIA](https://open.spotify.com/album/0pTQYY91AEEoibVuUH1aQp) | 3:03 | 2025-09-01 | 2026-05-29 |
 | [Dossier](https://open.spotify.com/track/04hBXrNXKdlYGmPZ2orD7o) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Dossier](https://open.spotify.com/album/3yOGQeve6r2M9yNaA3Y3wH) | 2:43 | 2026-03-06 |  |
-| [Dossier](https://open.spotify.com/track/1HuU83yceEAnz8XaQRS6CF) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Ilusiones de Amor](https://open.spotify.com/album/1S692zlCrtcSsgeG0Yk5zz) | 2:43 | 2026-05-29 |  |
+| [Dossier](https://open.spotify.com/track/1HuU83yceEAnz8XaQRS6CF) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Ilusiones de Amor](https://open.spotify.com/album/1S692zlCrtcSsgeG0Yk5zz) | 2:43 | 2026-05-29 | 2026-05-30 |
 | [Dueña de mi Voz](https://open.spotify.com/track/2MypvJtCAQ0fa1BrDfUwCE) | [Solange Prat](https://open.spotify.com/artist/7C5xrdStb0IkEVADE2QGqi), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Dueña de mi Voz](https://open.spotify.com/album/0hh4dPjoZ45LWfwPsiojry) | 3:18 | 2025-03-07 | 2025-05-30 |
 | [DUMBAI](https://open.spotify.com/track/0W8v6pvZhuMZJFWihE0usa) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [DUMBAI](https://open.spotify.com/album/32jPIll7NE64gqohc6twQC) | 2:28 | 2024-04-19 | 2025-04-12 |
 | [DUMBAI \- Live at NPR MUSIC's Tiny Desk](https://open.spotify.com/track/75XpK1eCoq48JeDt8r0Lfk) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [DUMBAI \(Live at NPR MUSIC's Tiny Desk\)](https://open.spotify.com/album/3UA0ftXwo4zg0qPDrsQhrB) | 2:41 | 2025-03-07 | 2025-09-02 |
@@ -366,6 +366,7 @@
 | [MUJERÓN](https://open.spotify.com/track/6CuJ3x3YAmCgnZ1WgOJJzP) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [MUJERÓN](https://open.spotify.com/album/04VxIltPcGNbJBEWocFoQS) | 2:54 | 2024-08-16 | 2025-04-12 |
 | [mutar la piel](https://open.spotify.com/track/3c6htQWeWgxzXYVrqg2ABk) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum), [Aluhé](https://open.spotify.com/artist/5reGHhq0cPEOW5nYDj1Dge) | [mutar la piel](https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd) | 2:53 | 2024-01-04 | 2024-02-02 |
 | [Muévelo](https://open.spotify.com/track/2c7p5U1ci0a6sFj7C3KPGv) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Hordatoj](https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu) | [Muévelo](https://open.spotify.com/album/72FTAp6DD98dDO9kiQDHYP) | 3:09 | 2025-02-21 | 2025-05-30 |
+| [Mystica!](https://open.spotify.com/track/5zaQp9y2PVJv8sNa9vnfll) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Ilusiones de Amor](https://open.spotify.com/album/1S692zlCrtcSsgeG0Yk5zz) | 2:41 | 2026-05-29 |  |
 | [Máquinas de hacer todo al mismo tiempo](https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Ezequiel Kronenberg](https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx), [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p) | [NUNCA DA IGUAL](https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu) | 3:39 | 2023-10-13 | 2023-11-11 |
 | [MÚSICA](https://open.spotify.com/track/5xOUeU0GpbfgJkJC13pLv4) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [MÚSICA](https://open.spotify.com/album/1lVMp9YJIYoKnZwbDnME1x) | 3:17 | 2024-03-01 | 2024-03-23 |
 | [Nada De Nada](https://open.spotify.com/track/5i2PsmvTOoVYtEDUAe365B) | [SANTACRUZ](https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2), [Manu Piró](https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA) | [Nada De Nada](https://open.spotify.com/album/43Yf94ncPa1wN4C6IP3DtQ) | 2:48 | 2025-02-21 | 2025-08-19 |

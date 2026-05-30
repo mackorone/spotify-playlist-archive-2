@@ -4877,6 +4877,32 @@
     },
     {
       "album": {
+        "name": "ATL",
+        "url": "https://open.spotify.com/album/727sWTkDYJa8EcqR7uLrt2"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163465,
+      "name": "ATL",
+      "url": "https://open.spotify.com/track/6FfgsAZ4s1D6X7jKNpw7lt"
+    },
+    {
+      "album": {
         "name": "OCTANE",
         "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
       },
@@ -5244,7 +5270,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 232422,
       "name": "Avra - Original Edit",
       "url": "https://open.spotify.com/track/2aOwdwvVzfAP8q3OvW9ck1"
@@ -5280,7 +5306,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 216000,
       "name": "Away",
       "url": "https://open.spotify.com/track/7qWZhemHRShTAmA92V7ml5"
@@ -5628,6 +5654,24 @@
       "duration_ms": 214240,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
+    },
+    {
+      "album": {
+        "name": "Do Nosso Model\u00e3o, Vol. 1 (Ao Vivo em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/2m1TLqvEzdks86hoDLzsRM"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vitor & Rael",
+          "url": "https://open.spotify.com/artist/3RqHNz7XW4CEFERRbHf8ZC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256369,
+      "name": "Baby / Ta\u00e7a de Pranto / Faz Amor Comigo - Do Nosso Model\u00e3o, Ao Vivo",
+      "url": "https://open.spotify.com/track/2q2zh1MwVaTrT2ihgxU06i"
     },
     {
       "album": {
@@ -7858,7 +7902,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 194760,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/0q8he96kFc0oRbJ7DNHmAe"
@@ -11198,7 +11242,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -11274,6 +11318,24 @@
       "duration_ms": 211498,
       "name": "CANCELLED!",
       "url": "https://open.spotify.com/track/3FzJDGVjRGNc7KrkabU5N0"
+    },
+    {
+      "album": {
+        "name": "Bleeding Time",
+        "url": "https://open.spotify.com/album/5Hde45T4f4zGTSLaHCQpA8"
+      },
+      "artists": [
+        {
+          "name": "Icy",
+          "url": "https://open.spotify.com/artist/175e5s7H5zPUvseDzoS2GY"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100465,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/02FZlgDJpYghTWCJuZc04L"
     },
     {
       "album": {
@@ -20150,7 +20212,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 158677,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/5jen67QB6ksHBHZYC47TBW"
@@ -23653,6 +23715,24 @@
     },
     {
       "album": {
+        "name": "COLD DIVINITY",
+        "url": "https://open.spotify.com/album/3BrIoCLPBXNU2q7RzwWQch"
+      },
+      "artists": [
+        {
+          "name": "Sunrise Deep",
+          "url": "https://open.spotify.com/artist/4j4GOqWeg637YGWAczZCIy"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "Genesis of Glass",
+      "url": "https://open.spotify.com/track/0f2anMttyz9vqo2UIXcPNA"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -24812,7 +24892,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 154500,
       "name": "GOT MY HEART",
       "url": "https://open.spotify.com/track/7aE32o5oBz8ZQbHBcIQMfq"
@@ -24914,7 +24994,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 159368,
       "name": "Graves-Interlude",
       "url": "https://open.spotify.com/track/4dUGNUrp23wV3mb9F0b87X"
@@ -26026,7 +26106,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188361,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/46TuQ6cmxcen3y4zzavcgV"
@@ -27208,7 +27288,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 245837,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
@@ -27728,7 +27808,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 245400,
       "name": "I Don't Give a ***",
       "url": "https://open.spotify.com/track/01z8G09UJDYhio8R8O9XEj"
@@ -29446,7 +29526,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 167448,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/57jVlB1Hif020r4Ul4FW2f"
@@ -31642,7 +31722,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 121904,
       "name": "Kick Back",
       "url": "https://open.spotify.com/track/3EqfSOxRxGwJs5uLn6XGKx"
@@ -33398,7 +33478,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 204206,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/5aJqIFM4s6IV7c0gPDMv7q"
@@ -36768,7 +36848,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -41850,7 +41930,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -43697,6 +43777,28 @@
     },
     {
       "album": {
+        "name": "Love?",
+        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284866,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "album": {
         "name": "On The Radar Freestyle",
         "url": "https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z"
       },
@@ -45360,7 +45462,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
@@ -49434,7 +49536,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 250442,
       "name": "Reputation",
       "url": "https://open.spotify.com/track/02dgjDrG4bLTCASQ4etw1e"
@@ -49868,7 +49970,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -53500,7 +53602,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
@@ -57996,7 +58098,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 235216,
       "name": "Talk To Me About",
       "url": "https://open.spotify.com/track/6xXvBgeUlVLDdGb1lusfE0"
@@ -59336,7 +59438,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"

@@ -1,6 +1,6 @@
 {
   "description": "Musiquita sabrosa que te hace bailar el coraz\u00f3n.",
-  "num_followers": 197984,
+  "num_followers": 198031,
   "original_name": "Amor Tropical",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-02-13 22:15:12",
       "album": {
+        "name": "MUJERON",
+        "url": "https://open.spotify.com/album/5f6IItc0ZOMCnHvrnp2Iqv"
+      },
+      "artists": [
+        {
+          "name": "Reggi El Autentico",
+          "url": "https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "MUJERON",
+      "url": "https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M"
+    },
+    {
+      "added_at": "2026-02-13 22:15:12",
+      "album": {
         "name": "C\u00e1sate Conmigo",
         "url": "https://open.spotify.com/album/037f8ym7M1fzMAaWHtHY98"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 209032,
       "name": "C\u00e1sate Conmigo",
       "url": "https://open.spotify.com/track/6f4UPdDBQONKJBRqwZGjaJ"
-    },
-    {
-      "added_at": "2026-02-13 22:15:12",
-      "album": {
-        "name": "MUJERON",
-        "url": "https://open.spotify.com/album/5f6IItc0ZOMCnHvrnp2Iqv"
-      },
-      "artists": [
-        {
-          "name": "Reggi El Autentico",
-          "url": "https://open.spotify.com/artist/3wguwjQfKIni7Ih0FIHTq6"
-        }
-      ],
-      "duration_ms": 158750,
-      "name": "MUJERON",
-      "url": "https://open.spotify.com/track/5k25eY71eKcGLJ7szb669M"
     },
     {
       "added_at": "2026-02-13 22:15:12",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-02-13 22:15:12",
       "album": {
-        "name": "Quiero Ser Tu Amor",
-        "url": "https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16"
-      },
-      "artists": [
-        {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
-        }
-      ],
-      "duration_ms": 219586,
-      "name": "La Mejor De Todas",
-      "url": "https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm"
-    },
-    {
-      "added_at": "2026-02-13 22:15:12",
-      "album": {
         "name": "Son By 4",
         "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 261360,
       "name": "A Puro Dolor",
       "url": "https://open.spotify.com/track/3BmwNuqx9pCqjLplOVNBLY"
+    },
+    {
+      "added_at": "2026-02-13 22:15:12",
+      "album": {
+        "name": "Quiero Ser Tu Amor",
+        "url": "https://open.spotify.com/album/7vSqNkK9usdG1GEkxUuA16"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 219586,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/5vTIuHaFWnKLB28oLaRClm"
     },
     {
       "added_at": "2026-02-13 22:15:12",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-02-13 22:15:12",
       "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
+    },
+    {
+      "added_at": "2026-02-13 22:15:12",
+      "album": {
         "name": "Elsa y Elmar (Spotify Sessions)",
         "url": "https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 287328,
       "name": "Grecia - Spotify Sessions",
       "url": "https://open.spotify.com/track/2mQm96LDVXWaryyaaJfDUN"
-    },
-    {
-      "added_at": "2026-02-13 22:15:12",
-      "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Te Busco",
-      "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
     },
     {
       "added_at": "2026-02-13 22:15:12",

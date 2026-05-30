@@ -2,9 +2,9 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: ALIE BLACKCOBRA
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: BUS
 
-264 songs - 15 hr 52 min
+266 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-10-25 | 2024-11-09 |
 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 | 2026-05-14 |  |
 | [DRIP](https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:00 | 2024-11-04 | 2024-12-17 |
-| [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-17 |  |
+| [drop dead](https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead](https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct) | 3:44 | 2026-04-17 | 2026-05-30 |
 | [earthquake](https://open.spotify.com/track/10zywlg5b0gQOC3q1A7ADx) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [AMORTAGE](https://open.spotify.com/album/1hmW4opQGq4hIYTbEWsyqW) | 3:10 | 2025-02-13 | 2025-05-09 |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-03 | 2025-05-02 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-20 | 2025-03-10 |
@@ -66,6 +66,7 @@
 | [Gorgeous](https://open.spotify.com/track/5T0mnzMsyHtmWB7Kou51Ph) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vie](https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf) | 4:26 | 2025-09-29 | 2025-11-01 |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2024-06-20 | 2024-07-12 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-06 | 2026-01-23 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [HIT ME UP](https://open.spotify.com/track/5WsRYZQa2VvJjWEfxipXKi) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [HIT ME UP](https://open.spotify.com/album/2wJK5ag7IToSskrBMdsgks) | 3:21 | 2024-06-20 | 2024-07-19 |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-06-20 | 2024-07-05 |
 | [Hurry up!](https://open.spotify.com/track/4qe1nS4WjshQs40dosG8Nq) | [JayQ](https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6), [7Vibes](https://open.spotify.com/artist/1WJ1KSMt6Yuf1cQ0MVtqTC) | [Hurry up!](https://open.spotify.com/album/0YLmjPr1cUP4JpOVbHOFfR) | 2:43 | 2025-05-08 | 2026-03-21 |
@@ -164,7 +165,7 @@
 | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/track/4GMsgN54SdPxMamKu9qQam) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/album/5Y9UBuDr9YrjFoRvfuO6fb) | 3:56 | 2026-02-27 |  |
 | [ข้อความรูปยิ้ม :\)](https://open.spotify.com/track/3ZajpwGfKsToCEAuLTtoxF) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ข้อความรูปยิ้ม :\)](https://open.spotify.com/album/3LenjO4Dj5si5mCrFVWaen) | 3:47 | 2024-09-07 | 2025-02-07 |
 | [ครองโลก](https://open.spotify.com/track/76j0uitplft5gODYnoQ62V) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:41 | 2026-04-03 | 2026-05-15 |
-| [ครั้งหนึ่ง](https://open.spotify.com/track/3ImxRQnfrCXFrBFxJIvJuR) | [SEA.](https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ครั้งหนึ่ง](https://open.spotify.com/album/06qIplvukzO5NyH9UwJG45) | 3:51 | 2026-04-10 |  |
+| [ครั้งหนึ่ง](https://open.spotify.com/track/3ImxRQnfrCXFrBFxJIvJuR) | [SEA.](https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC), [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ครั้งหนึ่ง](https://open.spotify.com/album/06qIplvukzO5NyH9UwJG45) | 3:51 | 2026-04-10 | 2026-05-30 |
 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 | 2024-11-22 | 2025-04-29 |
 | [ความคาดหวัง](https://open.spotify.com/track/4n8TKmRLfD82RWnhb6HMNw) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb), [ตูน BODYSLAM](https://open.spotify.com/artist/4fJPoRaV3IZGDVFIMQ3EWw), [ปั๊บ Potato](https://open.spotify.com/artist/2tm6jmamokqIxFSaOEEyRz) | [Yours Ever](https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv) | 4:23 | 2024-11-22 | 2024-12-17 |
 | [ความรู้สึกของตัวฉัน](https://open.spotify.com/track/13fTUwOsAtNtZtxAcBOtWy) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [ความรู้สึกของตัวฉัน](https://open.spotify.com/album/7fEgczgGKUhPrL0see7eiH) | 4:13 | 2024-06-20 | 2024-09-27 |
@@ -203,6 +204,7 @@
 | [น้ำหอม](https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [น้ำหอม \- Single](https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka) | 3:27 | 2024-11-08 | 2025-06-21 |
 | [บทสรุปสุดท้าย](https://open.spotify.com/track/0gpFtSxhDc1gC7kYJ927fJ) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [บทสรุปสุดท้าย](https://open.spotify.com/album/0ClbWhARkNjt7ILo81OJ4K) | 4:24 | 2025-03-23 |  |
 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 | 2024-06-20 | 2024-12-06 |
+| [ผมมีหัวใจจริงๆ \(For The Girl...\)](https://open.spotify.com/track/0yKr4gsqBjdZqrWhQp5Kny) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ) | [ผมมีหัวใจจริงๆ \(For The Girl...\)](https://open.spotify.com/album/4hnaPredSGZI91cmD8WqGB) | 3:31 | 2026-05-29 |  |
 | [ผูกพันต้องลา](https://open.spotify.com/track/2HC3jRQilGWyFlvICAqCaP) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [Poppy Chatchaya](https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv) | [ผูกพันต้องลา](https://open.spotify.com/album/0cwGiZR0Gm9vIlbLORcjyk) | 3:20 | 2024-06-20 | 2024-08-24 |
 | [ฝากให้เขารัก](https://open.spotify.com/track/198pPjDG0juHRjechZrWer) | [Yes'sir Days](https://open.spotify.com/artist/5fWMZzHHJQmCVt3W2ejVbV) | [ฝากให้เขารัก](https://open.spotify.com/album/1jnegCzaepXCGuPhyqNtdd) | 4:16 | 2025-09-05 |  |
 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 | 2024-08-07 | 2025-08-23 |

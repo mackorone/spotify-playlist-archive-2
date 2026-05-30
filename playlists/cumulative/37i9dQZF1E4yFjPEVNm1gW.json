@@ -271,6 +271,28 @@
     },
     {
       "album": {
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/2ybomG0wYthl89idUzq5El"
+      },
+      "artists": [
+        {
+          "name": "JcameOutTheMil",
+          "url": "https://open.spotify.com/artist/5CkgrPDzaiF0Frx9FF6yno"
+        },
+        {
+          "name": "YLW LilT",
+          "url": "https://open.spotify.com/artist/3GyFWRe6W6m8pQYQIJiR4X"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160692,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/3nl1BfsamjdP0zPMA8wqJW"
+    },
+    {
+      "album": {
         "name": "BACKINTHECITY",
         "url": "https://open.spotify.com/album/6eXzIhcaFw8q9ISQ3yToM5"
       },
@@ -576,7 +598,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 133815,
       "name": "Bowls In The Underworld",
       "url": "https://open.spotify.com/track/0Pgwc9wwiNgiD4ucHsyohr"
@@ -1422,6 +1444,24 @@
       "duration_ms": 190856,
       "name": "Full Of Them Drugs",
       "url": "https://open.spotify.com/track/1gGuQsf0rPBJEk05Rjhnn7"
+    },
+    {
+      "album": {
+        "name": "give yo life",
+        "url": "https://open.spotify.com/album/59PuxT43GZ34TrBpyotzcU"
+      },
+      "artists": [
+        {
+          "name": "Favo",
+          "url": "https://open.spotify.com/artist/63zCqqFI6ZhxO5MHP00cAe"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85564,
+      "name": "give yo life",
+      "url": "https://open.spotify.com/track/51mQ2l5o1fswCLxMHyJckB"
     },
     {
       "album": {
@@ -2934,7 +2974,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -3050,7 +3090,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 161075,
       "name": "Price I Pay",
       "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"
@@ -4314,7 +4354,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 143112,
       "name": "Which 1 / Klueless",
       "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"

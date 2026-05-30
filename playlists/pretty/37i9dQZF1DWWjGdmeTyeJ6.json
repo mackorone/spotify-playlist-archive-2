@@ -1,12 +1,12 @@
 {
   "description": "The best new music from independent artists and labels. Featuring Paycheque. Curated with love by human Spotify editors.",
-  "num_followers": 1221467,
+  "num_followers": 1221405,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADSQow4/uqzwZPzsUMja1OWmM6wR",
+  "snapshot_id": "AAAAAOAAyRmWrfX5XjYWPcfkfg49a0zK",
   "tracks": [
     {
       "added_at": "2026-05-28 01:02:10",
@@ -23,6 +23,22 @@
       "duration_ms": 239700,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/2pL2U3RrCM8fdI5pfoq3jR"
+    },
+    {
+      "added_at": "2026-05-29 04:08:37",
+      "album": {
+        "name": "JACKIE'S BACK",
+        "url": "https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI"
+      },
+      "artists": [
+        {
+          "name": "ASHMOOR",
+          "url": "https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "JACKIE'S BACK",
+      "url": "https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8"
     },
     {
       "added_at": "2026-05-28 01:02:10",
@@ -1627,22 +1643,6 @@
       "duration_ms": 116000,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0kOLNHOf6TH9gWegm42dRR"
-    },
-    {
-      "added_at": "2026-04-22 22:34:11",
-      "album": {
-        "name": "Fell Again / Stranger What's Your Name?",
-        "url": "https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo"
-      },
-      "artists": [
-        {
-          "name": "cikho",
-          "url": "https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz"
-        }
-      ],
-      "duration_ms": 161764,
-      "name": "Fell Again",
-      "url": "https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs"
     },
     {
       "added_at": "2026-03-04 21:30:57",

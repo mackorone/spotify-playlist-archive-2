@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-2,710 songs - 5 day 22 hr 2 min
+2,711 songs - 5 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Atasanté Part.2](https://open.spotify.com/track/64rFW9zxAIeH6dLuiB56Tz) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 3:14 | 2023-02-18 | 2023-03-05 |
 | [Athéna](https://open.spotify.com/track/07pUayx7i1415PoJvPX0S4) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:16 | 2021-12-05 | 2021-12-30 |
 | [Athéna](https://open.spotify.com/track/4OTgPQji476VR0qarMgsgG) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 2:52 | 2021-11-21 | 2021-12-05 |
+| [ATL](https://open.spotify.com/track/6FfgsAZ4s1D6X7jKNpw7lt) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [ATL](https://open.spotify.com/album/727sWTkDYJa8EcqR7uLrt2) | 2:43 | 2026-05-29 |  |
 | [Attentat](https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:14 | 2021-11-14 | 2022-06-05 |
 | [Attrape\-moi si tu peux](https://open.spotify.com/track/6LuAtG9sa0aU8GTMd9CQnO) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [La Direction](https://open.spotify.com/album/65q2W2g3nvvVN5dGoll3sP) | 3:31 | 2021-05-23 | 2021-06-06 |
 | [AU 33ÈME](https://open.spotify.com/track/5w025PPfwFzgzDTZycjwpR) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [M.I.L.S 4](https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ) | 4:09 | 2026-01-15 | 2026-01-19 |
@@ -1478,7 +1479,7 @@
 | [Lumière blanche \(Ad Finem\)](https://open.spotify.com/track/4DN2XME2ip9fGnuwq5tbbL) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS III : Ad Finem](https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ) | 4:30 | 2024-12-07 | 2024-12-12 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-18 | 2024-06-21 |
 | [Lundi](https://open.spotify.com/track/59rMc9LsnQYHDe4IRvR4cn) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Le monde est méchant](https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX) | 3:21 | 2021-11-07 | 2021-11-12 |
-| [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2026-01-01 |  |
+| [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2026-01-01 | 2026-05-30 |
 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2024-11-24 | 2025-02-21 |
 | [Légendaire](https://open.spotify.com/track/6oPyFMWpT0oDeShTjcneDK) | [Le classico organisé](https://open.spotify.com/artist/791x09Ix1mNc1hGhbD7IOW), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2), [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [Oxmo Puccino](https://open.spotify.com/artist/44bvfFf9VeGwVjK0QDqQ7O), [Lino](https://open.spotify.com/artist/6RM5eA0SSP7B8UV3qHbLa8), [R.E.D.K.](https://open.spotify.com/artist/0gnvHfvVVSQ7xcTVFC5TJk), [Calbo](https://open.spotify.com/artist/0QODQ4TiVsOcGvWxk97Ylv) | [Le classico organisé](https://open.spotify.com/album/5Qiln6hgo90OKyf9x0ci4y) | 4:54 | 2021-11-07 | 2021-11-14 |
 | [Légende Vivante](https://open.spotify.com/track/62N90NNrE7tsSUtIdz4qZ6) | [Lorenzo](https://open.spotify.com/artist/62zLrboqOTPyozwi721CVy) | [Légende Vivante](https://open.spotify.com/album/5vxf4KU3v2Eo48iWYYVdmU) | 2:20 | 2021-05-09 | 2021-05-15 |

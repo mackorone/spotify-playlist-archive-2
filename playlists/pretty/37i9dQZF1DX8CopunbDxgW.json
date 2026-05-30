@@ -1,13 +1,77 @@
 {
-  "description": "Joy Anonymous with more delightful summer grooves \ud83c\udf1e metropolis is your home for the best indie dance",
-  "num_followers": 871714,
+  "description": "We highly recommend Los Angeles DJ A/S/L \ud83d\udd25\ud83d\udc00 metropolis is your home for the best indie dance",
+  "num_followers": 871686,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA1CDi6yfdhrsKEdMyC/AP8Qn0Hh",
+  "snapshot_id": "AAAAADIDi/uTnXRJqzF7/R/2FuCx8np8",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:02:14",
+      "album": {
+        "name": "Burnt Out Disco For Club Rats",
+        "url": "https://open.spotify.com/album/0EP7fOhuEpPvsVtoilFOeV"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 164999,
+      "name": "Cashman Jack (XL Hotmix)",
+      "url": "https://open.spotify.com/track/0EA8QvqE66H315fGJUCmVQ"
+    },
+    {
+      "added_at": "2026-04-10 04:02:28",
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "The Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-05-29 04:02:14",
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 202972,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
+    },
+    {
+      "added_at": "2026-05-29 04:17:08",
+      "album": {
+        "name": "Return To Bhibo",
+        "url": "https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 157840,
+      "name": "Return To Bhibo",
+      "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
+    },
     {
       "added_at": "2026-05-15 04:01:39",
       "album": {
@@ -29,42 +93,6 @@
       "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
     },
     {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
-      },
-      "artists": [
-        {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
-    },
-    {
-      "added_at": "2026-05-22 04:01:02",
-      "album": {
-        "name": "I Did You Wrong (Laurence Guy Remix)",
-        "url": "https://open.spotify.com/album/4X57jEQkD83cJiWKP6lUDV"
-      },
-      "artists": [
-        {
-          "name": "Harry Hayes",
-          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
-        },
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 233221,
-      "name": "I Did You Wrong - Laurence Guy Remix",
-      "url": "https://open.spotify.com/track/2mE5xJjXQB29h0pTHovyov"
-    },
-    {
       "added_at": "2026-05-01 04:01:44",
       "album": {
         "name": "Everything Will Be Alright",
@@ -81,20 +109,20 @@
       "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
     },
     {
-      "added_at": "2026-05-22 04:01:02",
+      "added_at": "2026-05-29 04:02:14",
       "album": {
-        "name": "JOY (Light In The Dark)",
-        "url": "https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS"
+        "name": "A Love Letter",
+        "url": "https://open.spotify.com/album/7dpG8ePi2xEQrGAIYtv0Mr"
       },
       "artists": [
         {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+          "name": "MAX RAD",
+          "url": "https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z"
         }
       ],
-      "duration_ms": 296045,
-      "name": "JOY (Light In The Dark)",
-      "url": "https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo"
+      "duration_ms": 200841,
+      "name": "Empty Spaces",
+      "url": "https://open.spotify.com/track/7lIayjdTqnvqu7sXJvKR1Z"
     },
     {
       "added_at": "2026-05-15 04:01:39",
@@ -115,18 +143,18 @@
     {
       "added_at": "2026-05-22 04:01:02",
       "album": {
-        "name": "Negroni Love",
-        "url": "https://open.spotify.com/album/3OWuVZ3kSiQ4QDjpttxN1s"
+        "name": "JOY (Light In The Dark)",
+        "url": "https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS"
       },
       "artists": [
         {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
         }
       ],
-      "duration_ms": 158226,
-      "name": "Negroni Love",
-      "url": "https://open.spotify.com/track/3zHxKd4WQKOSSqVhibeEFh"
+      "duration_ms": 296045,
+      "name": "JOY (Light In The Dark)",
+      "url": "https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo"
     },
     {
       "added_at": "2026-05-01 04:01:44",
@@ -183,6 +211,22 @@
       "duration_ms": 198666,
       "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
       "url": "https://open.spotify.com/track/0iYNsh3PU3BaRLtijklDM1"
+    },
+    {
+      "added_at": "2026-05-29 04:02:14",
+      "album": {
+        "name": "I'll Be There For You",
+        "url": "https://open.spotify.com/album/5LYXrZNkA9kHMoE4MArV2z"
+      },
+      "artists": [
+        {
+          "name": "Plaisance",
+          "url": "https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu"
+        }
+      ],
+      "duration_ms": 180790,
+      "name": "I'll Be There For You",
+      "url": "https://open.spotify.com/track/11S528yQYgaYQjdBXlBJBS"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -281,6 +325,26 @@
       "url": "https://open.spotify.com/track/5mE2BgxJUZzpmFnmKEnjIt"
     },
     {
+      "added_at": "2026-05-29 04:02:14",
+      "album": {
+        "name": "Siren Reprise",
+        "url": "https://open.spotify.com/album/0b6uieynSsegwdI8iL6tPi"
+      },
+      "artists": [
+        {
+          "name": "Austra",
+          "url": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
+        },
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "duration_ms": 251783,
+      "name": "Siren Reprise",
+      "url": "https://open.spotify.com/track/678wI419HyRL4qSTbXdyLu"
+    },
+    {
       "added_at": "2026-05-15 04:01:39",
       "album": {
         "name": "Mujeres Unidas",
@@ -331,6 +395,22 @@
       "duration_ms": 140952,
       "name": "Falling Again",
       "url": "https://open.spotify.com/track/1KOKSXOF3t21CKCR3DeEkR"
+    },
+    {
+      "added_at": "2026-05-29 04:02:14",
+      "album": {
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/7qlKLenLUmKX3RvooLdg8G"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 178826,
+      "name": "Midnight Sky, Pt. II",
+      "url": "https://open.spotify.com/track/3q69fZ63R5n1bJ04DWId14"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -407,6 +487,22 @@
     {
       "added_at": "2026-05-22 04:01:02",
       "album": {
+        "name": "Negroni Love",
+        "url": "https://open.spotify.com/album/3OWuVZ3kSiQ4QDjpttxN1s"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "duration_ms": 158226,
+      "name": "Negroni Love",
+      "url": "https://open.spotify.com/track/3zHxKd4WQKOSSqVhibeEFh"
+    },
+    {
+      "added_at": "2026-05-22 04:01:02",
+      "album": {
         "name": "WAITING TO BEGIN",
         "url": "https://open.spotify.com/album/512SLD6mliH8D0CB14oWeh"
       },
@@ -463,6 +559,26 @@
       "duration_ms": 187695,
       "name": "Face to Face with You",
       "url": "https://open.spotify.com/track/41gQlJxSCJ87c3M5ycS1jh"
+    },
+    {
+      "added_at": "2026-05-22 04:01:02",
+      "album": {
+        "name": "I Did You Wrong (Laurence Guy Remix)",
+        "url": "https://open.spotify.com/album/4X57jEQkD83cJiWKP6lUDV"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        },
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 233221,
+      "name": "I Did You Wrong - Laurence Guy Remix",
+      "url": "https://open.spotify.com/track/2mE5xJjXQB29h0pTHovyov"
     },
     {
       "added_at": "2026-05-15 04:01:39",
@@ -977,54 +1093,6 @@
       "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
     },
     {
-      "added_at": "2026-04-17 04:02:52",
-      "album": {
-        "name": "A Moment Like That",
-        "url": "https://open.spotify.com/album/1cKJa8ObjWixbZFpkSxMqI"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 247282,
-      "name": "A Moment Like That",
-      "url": "https://open.spotify.com/track/2XCTfIMG5NKBcqlM71liG0"
-    },
-    {
-      "added_at": "2026-04-24 04:02:18",
-      "album": {
-        "name": "Push The Rope",
-        "url": "https://open.spotify.com/album/0QKAeG6zKroCGpJSnrb4Wu"
-      },
-      "artists": [
-        {
-          "name": "Bushwacka!",
-          "url": "https://open.spotify.com/artist/3qME1ocYrJ5U6gjWn2Lw6h"
-        }
-      ],
-      "duration_ms": 342857,
-      "name": "Push The Rope",
-      "url": "https://open.spotify.com/track/0TmeZ8MFYKLU5USOIf4P2z"
-    },
-    {
-      "added_at": "2026-04-24 04:02:18",
-      "album": {
-        "name": "Go Ahead",
-        "url": "https://open.spotify.com/album/0C7JY4rdJ724GZ0KovqjJG"
-      },
-      "artists": [
-        {
-          "name": "SYT\u00cb",
-          "url": "https://open.spotify.com/artist/3FeH234dEJoLCwGmc2TOG9"
-        }
-      ],
-      "duration_ms": 186230,
-      "name": "Go Ahead",
-      "url": "https://open.spotify.com/track/3vjU7tlE0gMhusAgY7OoHt"
-    },
-    {
       "added_at": "2026-04-10 04:02:28",
       "album": {
         "name": "Zodiac",
@@ -1079,22 +1147,6 @@
       "duration_ms": 233113,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/2kNtiNtCbRbw3vP2qG6Ae9"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Trying Times",
-        "url": "https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 282087,
-      "name": "Rest Of Your Life",
-      "url": "https://open.spotify.com/track/20IQ8O5FvPcQ8D03vbz8a9"
     },
     {
       "added_at": "2026-04-17 04:02:52",
@@ -1239,26 +1291,6 @@
       "duration_ms": 250320,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/4vlSOYbHKPSMF6MuNSUeIR"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Pink Dress",
-        "url": "https://open.spotify.com/album/5siPYM6eCEjNxxReRbTkOD"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        },
-        {
-          "name": "cherry chola",
-          "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
-        }
-      ],
-      "duration_ms": 174246,
-      "name": "Pink Dress",
-      "url": "https://open.spotify.com/track/3SySVpkLVKuXhEEUeczfgq"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -1455,22 +1487,6 @@
     {
       "added_at": "2026-04-10 04:02:28",
       "album": {
-        "name": "Orla",
-        "url": "https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 205190,
-      "name": "Orla",
-      "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
         "name": "Loverr",
         "url": "https://open.spotify.com/album/1IAifM8CYCpNvG45SIUMHt"
       },
@@ -1499,58 +1515,6 @@
       "duration_ms": 158709,
       "name": "Elktorn",
       "url": "https://open.spotify.com/track/7eNm3jioKKGq2XF7qiTesW"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "lately in the void",
-        "url": "https://open.spotify.com/album/4XvEJfv4s9F0j3aD5zibjS"
-      },
-      "artists": [
-        {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
-        }
-      ],
-      "duration_ms": 221052,
-      "name": "lately in the void",
-      "url": "https://open.spotify.com/track/6vMRtaCVRTsGC90Zy6KW5D"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "JOY (Nobody Ever)",
-        "url": "https://open.spotify.com/album/19601lAugpHsknNX99BKDz"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        },
-        {
-          "name": "Tamaraebi",
-          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
-        }
-      ],
-      "duration_ms": 212932,
-      "name": "JOY (Nobody Ever) 7\u201d mix",
-      "url": "https://open.spotify.com/track/5EQPP2o54ROuY3DII048De"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Straf (Soundtrack)",
-        "url": "https://open.spotify.com/album/6RMfVRj6ZOkfALZPJqlzgI"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 254620,
-      "name": "Melchior\u2019s Dance",
-      "url": "https://open.spotify.com/track/6lzimzZD5faC8aJa8ydCXK"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -1671,22 +1635,6 @@
     {
       "added_at": "2026-04-10 04:02:28",
       "album": {
-        "name": "god, give me a place",
-        "url": "https://open.spotify.com/album/1GT047wbcoeEBJoMvezZjA"
-      },
-      "artists": [
-        {
-          "name": "Holseek",
-          "url": "https://open.spotify.com/artist/6rtScDLmn7xeFY4F71v4e3"
-        }
-      ],
-      "duration_ms": 191238,
-      "name": "god, give me a place",
-      "url": "https://open.spotify.com/track/22d6jvRNt7kFS4vnumiwnZ"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
         "name": "Intro (Fred Falke Remix)",
         "url": "https://open.spotify.com/album/6xALSzrzr2p49MZ5dmHAKd"
       },
@@ -1703,22 +1651,6 @@
       "duration_ms": 356106,
       "name": "Intro - Fred Falke Remix",
       "url": "https://open.spotify.com/track/5nxJbZFIHf8iGndx8eOJMa"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Pullin'",
-        "url": "https://open.spotify.com/album/6qMnsmBLNjDqti2c1yq0em"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 220150,
-      "name": "Pullin'",
-      "url": "https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -1755,22 +1687,6 @@
       "duration_ms": 167400,
       "name": "Rest Easy",
       "url": "https://open.spotify.com/track/5J5mQKqZVxMDKZ3xPKgABa"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "He Needs Me",
-        "url": "https://open.spotify.com/album/1mYuz5sGD07dHeLyq4dM0Y"
-      },
-      "artists": [
-        {
-          "name": "The Femcels",
-          "url": "https://open.spotify.com/artist/6IEfd4F10D3zvJ9N6DNmvK"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "He Needs Me",
-      "url": "https://open.spotify.com/track/3aVX2Yh7Nshwzl1oh0AVru"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -1827,22 +1743,6 @@
       "duration_ms": 196986,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/0ZrzqzWo2sQaG54pcqRkr6"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Inner Democracy",
-        "url": "https://open.spotify.com/album/03TQgTJTh7ZIdkQIUl87un"
-      },
-      "artists": [
-        {
-          "name": "Mindchatter",
-          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
-        }
-      ],
-      "duration_ms": 256545,
-      "name": "Inner Democracy",
-      "url": "https://open.spotify.com/track/1fcQVxDYQ40IGufSzYxZ3y"
     },
     {
       "added_at": "2026-04-10 04:02:28",

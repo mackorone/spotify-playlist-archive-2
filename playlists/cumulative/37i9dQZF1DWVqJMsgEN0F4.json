@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Bleachers along with the hottest alternative songs right now.\n",
+  "description": "Noah Kahan along with the hottest alternative songs right now.\n",
   "name": "ALT NOW",
   "tracks": [
     {
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 219570,
       "name": "Beams",
       "url": "https://open.spotify.com/track/4yNK2ybBbO7CiuSyTNvBc8"
@@ -4851,6 +4851,24 @@
     },
     {
       "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231086,
+      "name": "Doors",
+      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
+    },
+    {
+      "album": {
         "name": "Heaven :x: Hell",
         "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
       },
@@ -7157,6 +7175,24 @@
     },
     {
       "album": {
+        "name": "Heart Has To Work So Hard",
+        "url": "https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192026,
+      "name": "Heart Has To Work So Hard",
+      "url": "https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK"
+    },
+    {
+      "album": {
         "name": "Heart Stop",
         "url": "https://open.spotify.com/album/4oLlsasSxG2HvXll947rUf"
       },
@@ -8002,7 +8038,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 150613,
       "name": "I Did This To Myself",
       "url": "https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7"
@@ -9724,7 +9760,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 403520,
       "name": "LOOK OUT FOR ME",
       "url": "https://open.spotify.com/track/4gM6AHXp4h8aj5482znmYz"
@@ -10236,7 +10272,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
@@ -11284,6 +11320,24 @@
       "duration_ms": 287159,
       "name": "NEVER ENOUGH",
       "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
+    },
+    {
+      "album": {
+        "name": "Never Have I Ever",
+        "url": "https://open.spotify.com/album/5c64n4bmCFpdsvenhcWp5z"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174834,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh"
     },
     {
       "album": {
@@ -17160,7 +17214,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"

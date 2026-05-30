@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638643,
+  "num_followers": 1638683,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAAC7YHAKtosAyFuM0sbDObxO",
+  "snapshot_id": "aheFgAAAAAD2VQ/86h3zWkYgoXlLO3Qe",
   "tracks": [
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/2OmTdaXM8mvpi28xTxT5Y6"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 191861,
-      "name": "Void",
-      "url": "https://open.spotify.com/track/6KwgfZhSWwrjDriUVNjVpI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 205086,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/2OmTdaXM8mvpi28xTxT5Y6"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 191861,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/6KwgfZhSWwrjDriUVNjVpI"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World of Walker, Season One: Rise of the Drones",
-        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "ANDREWBATES",
-          "url": "https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv"
-        }
-      ],
-      "duration_ms": 145548,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/3jwmCZW0KLkPF6ioxUWBCS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerworld",
         "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 176080,
       "name": "Land of the Heroes",
       "url": "https://open.spotify.com/track/5meh2ZJuONe5RI92Zcq5W4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World of Walker, Season One: Rise of the Drones",
+        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "ANDREWBATES",
+          "url": "https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv"
+        }
+      ],
+      "duration_ms": 145548,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/3jwmCZW0KLkPF6ioxUWBCS"
     },
     {
       "added_at": null,
@@ -1035,26 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World of Walker, Season One: Rise of the Drones",
-        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Phoebe Ryan",
-          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Brave Enough to Be Unknown",
-      "url": "https://open.spotify.com/track/3Z5mBCsWNAKwi3uyosqnd2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 187040,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World of Walker, Season One: Rise of the Drones",
+        "url": "https://open.spotify.com/album/3Dm7hH6t7iACz1nyPI6ehS"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Brave Enough to Be Unknown",
+      "url": "https://open.spotify.com/track/3Z5mBCsWNAKwi3uyosqnd2"
     }
   ],
   "unique_name": "This Is Alan Walker",

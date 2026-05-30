@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "BOOMPALA (at PURE FLOWERS LIVE) l Presented by Spotify",
+        "url": "https://open.spotify.com/album/3SheoOcRqSqoeJdvfhZPHo"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182409,
+      "name": "BOOMPALA (at PURE FLOWERS LIVE) l Presented by Spotify",
+      "url": "https://open.spotify.com/track/4RpHkKbIFAc96Q2ep2eg6y"
+    },
+    {
+      "album": {
         "name": "BOOMPALA (LE SSERAFIM Packages)",
         "url": "https://open.spotify.com/album/75hJprktMQH4gn3lhgtemt"
       },
@@ -2270,6 +2288,24 @@
       "duration_ms": 157179,
       "name": "Swan Song",
       "url": "https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp"
+    },
+    {
+      "album": {
+        "name": "K-Pop ON! Video Podcast",
+        "url": "https://open.spotify.com/album/35ltzomNTBi2lqCtoL4Drt"
+      },
+      "artists": [
+        {
+          "name": "K-Pop ON! Video Podcast",
+          "url": "https://open.spotify.com/show/35ltzomNTBi2lqCtoL4Drt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1471210,
+      "name": "Talk with LE SSERAFIM (at PURE FLOWERS LIVE)",
+      "url": "https://open.spotify.com/episode/6UogqjJnnqR2zS4FRcCKRT"
     },
     {
       "album": {

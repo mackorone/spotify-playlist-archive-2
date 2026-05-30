@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > The Indie highlights of 2010\. Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,688 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,772 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,19 +73,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 63 | [Giving Up the Gun](https://open.spotify.com/track/3NXjRgj22vkWCp5yzjU4af) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 4:46 |
 | 64 | [Norway](https://open.spotify.com/track/2irDC5hDrLeNnqlmABCyZV) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/7ejB3MHdDNcY3GzRsQRAHs) | 3:54 |
 | 65 | [Sun](https://open.spotify.com/track/3yb4akoM3pD2epSSrfx9Es) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:44 |
-| 66 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
+| 66 | [Ambling Alp](https://open.spotify.com/track/67k3wJiBJ7ZgEJH26Sp7hm) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [Odd Blood](https://open.spotify.com/album/3yfOxXDy6AbOduHoo1653D) | 3:55 |
 | 67 | [Sun Hands](https://open.spotify.com/track/117XTs9axKflCk5FDwf2kI) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Gorilla Manor](https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID) | 4:50 |
-| 68 | [Ambling Alp](https://open.spotify.com/track/67k3wJiBJ7ZgEJH26Sp7hm) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [Odd Blood](https://open.spotify.com/album/3yfOxXDy6AbOduHoo1653D) | 3:55 |
+| 68 | [Young Blood](https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 4:06 |
 | 69 | [Boyfriend](https://open.spotify.com/track/6f7RZAHcYEwtujd97hGkF5) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Crazy for You](https://open.spotify.com/album/2FNAYHVBNgDmaJDEWg41gy) | 2:29 |
 | 70 | [Meyrin Fields](https://open.spotify.com/track/5yxLSSgg6x07mtl1PeOCb1) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Meyrin Fields](https://open.spotify.com/album/7An0egewVhqmkkAbUl2MW1) | 2:48 |
-| 71 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 |
-| 72 | [Draw Your Swords](https://open.spotify.com/track/0fqgrmA1DofWdJG2daQf9w) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/4PpJwNXmV1CBL5JITpqPxA) | 6:35 |
-| 73 | [Get Some](https://open.spotify.com/track/6Jcw41spJ0OfmV9hEIf9Fu) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/2HlEeBj6JSl0Eji4VRHWbX) | 3:22 |
+| 71 | [Draw Your Swords](https://open.spotify.com/track/0fqgrmA1DofWdJG2daQf9w) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/4PpJwNXmV1CBL5JITpqPxA) | 6:35 |
+| 72 | [Get Some](https://open.spotify.com/track/6Jcw41spJ0OfmV9hEIf9Fu) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/2HlEeBj6JSl0Eji4VRHWbX) | 3:22 |
+| 73 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 |
 | 74 | [Moneygrabber](https://open.spotify.com/track/4PwwyZBEkHcm4OTJThCzXi) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Pickin' up the Pieces](https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1) | 3:09 |
 | 75 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 |
-| 76 | [Girls Like You](https://open.spotify.com/track/5mEyCUtI36Jmu2KNQQ4jaw) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 6:04 |
-| 77 | [For You](https://open.spotify.com/track/18XBLoClPIgN2Yf21zDTpI) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/4PpJwNXmV1CBL5JITpqPxA) | 5:19 |
-| 78 | [Crave You](https://open.spotify.com/track/2cEVcPslk7RwcqDpLA6Mhu) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/4DqcEZbWf8L1AOYxvDj4He) | 3:54 |
+| 76 | [For You](https://open.spotify.com/track/18XBLoClPIgN2Yf21zDTpI) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down the Way](https://open.spotify.com/album/4PpJwNXmV1CBL5JITpqPxA) | 5:19 |
+| 77 | [Crave You](https://open.spotify.com/track/2cEVcPslk7RwcqDpLA6Mhu) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Giselle](https://open.spotify.com/artist/5cxol8ruhBU1QpUick7A42) | [Down To Earth](https://open.spotify.com/album/4DqcEZbWf8L1AOYxvDj4He) | 3:54 |
+| 78 | [Girls Like You](https://open.spotify.com/track/5mEyCUtI36Jmu2KNQQ4jaw) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 6:04 |
 | 79 | [Don't Gotta Work It Out](https://open.spotify.com/track/7ECNbJ7lRHDY2CiHKVirYB) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Pickin' up the Pieces](https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1) | 4:09 |
 | 80 | [Rill Rill](https://open.spotify.com/track/1iw4yy8dDH9TcSEcOEWVnO) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/7l5Y3f2amyv1acMfZZQfa2) | 3:49 |
 | 81 | [Bloodbuzz Ohio](https://open.spotify.com/track/5JAWf4omEzwccQNE8Y6kvn) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 4:35 |

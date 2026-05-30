@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Nieuwe tijdloze muziek\. Cover: Danny Vera & Marlon Pichel
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,170 likes - 90 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,152 likes - 90 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,22 +14,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 4 | [Stay Love](https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4ScfyWincbVs9Ingpb0zw6) | 3:26 |
 | 5 | [From Down Here](https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [From Down Here](https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u) | 4:01 |
 | 6 | [Liar](https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Liar](https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9) | 3:37 |
-| 7 | [Hold Me \(Mantra\)](https://open.spotify.com/track/4531KTSpDcgxSWksAYKQhg) | [Eloi Youssef](https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A) | [Hold Me \(Mantra\)](https://open.spotify.com/album/6DofcBKOe3Cf4Z0wgdkWdC) | 5:33 |
-| 8 | [Losing My Religion](https://open.spotify.com/track/117HarF3xqK0JxpcenZyv5) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Losing My Religion](https://open.spotify.com/album/2gzcBsgTDutFAgU4Z8bEej) | 2:39 |
-| 9 | [Evolution](https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Evolution](https://open.spotify.com/album/10reOzyrRiJQehulKminkn) | 3:45 |
-| 10 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 |
-| 11 | [It Feels Right](https://open.spotify.com/track/6of3KnaLpo3j8ANnr0BLn7) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [It Feels Right](https://open.spotify.com/album/15cgWFKi6jU95bKbZmpqwy) | 3:38 |
-| 12 | [Daffodils \(feat\. Faela\)](https://open.spotify.com/track/5UD3KQNl23a0cCnhNNQNal) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza), [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [Daffodils \(feat\. Faela\)](https://open.spotify.com/album/3kCTGRIWZVPMBD3WRFgrdO) | 3:11 |
-| 13 | [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 |
-| 14 | [Let You Go](https://open.spotify.com/track/7mHTdjUQLBfnVVCio5xMyy) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Let You Go](https://open.spotify.com/album/3sPCy4N4lU9SjrFmkLoRwF) | 3:39 |
-| 15 | [A Perfect Crime](https://open.spotify.com/track/3aIcHg8uVYFZMO1qJZWS1l) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [A Perfect Crime](https://open.spotify.com/album/44hqHboGyeJjyKzQ7sugNW) | 3:56 |
-| 16 | [Hold Me In The Dark](https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Hold Me In The Dark](https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg) | 3:17 |
-| 17 | [Conversation](https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Conversation](https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp) | 3:06 |
-| 18 | [Play With Fire](https://open.spotify.com/track/1mnsHxQPbkaHQatoTjOizI) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Play With Fire](https://open.spotify.com/album/2QCS1NnTSAfg5eyENPVUbG) | 4:15 |
-| 19 | [24 Hours](https://open.spotify.com/track/3pFYcTc0okPqmVF4DDQfup) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [24 Hours](https://open.spotify.com/album/67lBzfEqQE39zkXHcH6ltY) | 3:26 |
-| 20 | [Do You Read Me!?](https://open.spotify.com/track/6VkmHosaFaLkVuP7o7yfjf) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Do You Read Me!?](https://open.spotify.com/album/2GJhPq9o0ulzOkCW2pxL8B) | 3:16 |
-| 21 | [Be By You](https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Be By You](https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs) | 3:17 |
-| 22 | [Something Good](https://open.spotify.com/track/4WpNYzTIOjN3Aw6D3n81Rb) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Something Good](https://open.spotify.com/album/1VZnoa7b6c1mxCCSG6SoGu) | 3:00 |
+| 7 | [Something Good](https://open.spotify.com/track/4WpNYzTIOjN3Aw6D3n81Rb) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Something Good](https://open.spotify.com/album/1VZnoa7b6c1mxCCSG6SoGu) | 3:00 |
+| 8 | [Hold Me \(Mantra\)](https://open.spotify.com/track/4531KTSpDcgxSWksAYKQhg) | [Eloi Youssef](https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A) | [Hold Me \(Mantra\)](https://open.spotify.com/album/6DofcBKOe3Cf4Z0wgdkWdC) | 5:33 |
+| 9 | [Losing My Religion](https://open.spotify.com/track/117HarF3xqK0JxpcenZyv5) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Losing My Religion](https://open.spotify.com/album/2gzcBsgTDutFAgU4Z8bEej) | 2:39 |
+| 10 | [Evolution](https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Evolution](https://open.spotify.com/album/10reOzyrRiJQehulKminkn) | 3:45 |
+| 11 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 |
+| 12 | [It Feels Right](https://open.spotify.com/track/6of3KnaLpo3j8ANnr0BLn7) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [It Feels Right](https://open.spotify.com/album/15cgWFKi6jU95bKbZmpqwy) | 3:38 |
+| 13 | [Daffodils \(feat\. Faela\)](https://open.spotify.com/track/5UD3KQNl23a0cCnhNNQNal) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza), [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [Daffodils \(feat\. Faela\)](https://open.spotify.com/album/3kCTGRIWZVPMBD3WRFgrdO) | 3:11 |
+| 14 | [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 |
+| 15 | [Let You Go](https://open.spotify.com/track/7mHTdjUQLBfnVVCio5xMyy) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Let You Go](https://open.spotify.com/album/3sPCy4N4lU9SjrFmkLoRwF) | 3:39 |
+| 16 | [A Perfect Crime](https://open.spotify.com/track/3aIcHg8uVYFZMO1qJZWS1l) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [A Perfect Crime](https://open.spotify.com/album/44hqHboGyeJjyKzQ7sugNW) | 3:56 |
+| 17 | [Hold Me In The Dark](https://open.spotify.com/track/23HNkYEt6W2Y3a0H8Jze3R) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Hold Me In The Dark](https://open.spotify.com/album/3EKZQWSkednDNMvpXFv0mg) | 3:17 |
+| 18 | [Conversation](https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Conversation](https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp) | 3:06 |
+| 19 | [Play With Fire](https://open.spotify.com/track/1mnsHxQPbkaHQatoTjOizI) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Play With Fire](https://open.spotify.com/album/2QCS1NnTSAfg5eyENPVUbG) | 4:15 |
+| 20 | [24 Hours](https://open.spotify.com/track/3pFYcTc0okPqmVF4DDQfup) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [24 Hours](https://open.spotify.com/album/67lBzfEqQE39zkXHcH6ltY) | 3:26 |
+| 21 | [Do You Read Me!?](https://open.spotify.com/track/6VkmHosaFaLkVuP7o7yfjf) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Do You Read Me!?](https://open.spotify.com/album/2GJhPq9o0ulzOkCW2pxL8B) | 3:16 |
+| 22 | [Be By You](https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Be By You](https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs) | 3:17 |
 | 23 | [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 |
 | 24 | [Ride Lonesome](https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC) | 4:32 |
 | 25 | [Welcome To Outcast Town](https://open.spotify.com/track/3BKM92m9Wr4i2VehhBgFkQ) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [OUTCAST TOWN](https://open.spotify.com/album/2vbUakBweYESNGM676tA5l) | 2:49 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 89 | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/track/6rrqv0WwGTTlavCNqVGd6A) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Rubber Band Man \(with Hozier\)](https://open.spotify.com/album/6yWyUmKuNAPw5M4Ee3PtUq) | 3:40 |
 | 90 | [Nomad](https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Remedy](https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A) | 3:26 |
 
-Snapshot ID: `AAAAAK00m/5EnO29kgjClyh8f5h/Ubyn`
+Snapshot ID: `AAAAAAfkgJR2sr7rGLmqi/XL4rjZD183`

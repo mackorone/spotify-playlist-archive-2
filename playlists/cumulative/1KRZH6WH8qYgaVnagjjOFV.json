@@ -1259,6 +1259,24 @@
     },
     {
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/3Bvpjj5AeTxIrmlaKHK1O4"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187770,
+      "name": "God Story",
+      "url": "https://open.spotify.com/track/18ofIiWpkc7UvlJvoaiOh5"
+    },
+    {
+      "album": {
         "name": "God Story",
         "url": "https://open.spotify.com/album/58oNXHgb7gR5PEO3CYvUVd"
       },
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 187770,
       "name": "God Story",
       "url": "https://open.spotify.com/track/4PymotViKd6S2o4uShdnUw"
@@ -1368,6 +1386,32 @@
       "duration_ms": 225755,
       "name": "Hallelujah Anyway",
       "url": "https://open.spotify.com/track/3Cp0A3E8eC9NYJkRdA9Pg9"
+    },
+    {
+      "album": {
+        "name": "The Chorus",
+        "url": "https://open.spotify.com/album/6JThXMOkqvJ8BkF9kOLwbz"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
+        },
+        {
+          "name": "Leeland Mooring",
+          "url": "https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393541,
+      "name": "Hallowed Be Your Name",
+      "url": "https://open.spotify.com/track/1KacGbIerk18ESTtdCniF9"
     },
     {
       "album": {
@@ -1874,10 +1918,32 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 168008,
       "name": "idols",
       "url": "https://open.spotify.com/track/6gJj2m1SMEywchE08sNY5h"
+    },
+    {
+      "album": {
+        "name": "idols",
+        "url": "https://open.spotify.com/album/2G8RqM2JIyHD2NfHKVtatk"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        },
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167126,
+      "name": "idols",
+      "url": "https://open.spotify.com/track/12QlHvyqVV6GDFnVIprOWl"
     },
     {
       "album": {

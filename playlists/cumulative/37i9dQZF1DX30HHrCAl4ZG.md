@@ -2,9 +2,9 @@
 
 ### [Today's Indie Rock](https://open.spotify.com/playlist/37i9dQZF1DX30HHrCAl4ZG)
 
-> Explore all things indie rock right now\. Featuring music from Iceage
+> Explore all things indie rock right now\. Featuring music from feeble little horse
 
-2,172 songs - 5 day 3 hr 6 min
+2,175 songs - 5 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [Digital Silence](https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Digital Silence](https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp) | 3:18 | 2023-05-24 | 2023-08-12 |
 | [Ding Dong Ditch](https://open.spotify.com/track/0H1HzSuaTWP8a8xVX5NBmE) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Natural Part](https://open.spotify.com/album/0ozxNaOvwaEpFcQDd8kRHd) | 2:42 | 2022-06-17 | 2022-07-19 |
 | [Dinner @ Brasserie Zédel](https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Dinner @ Brasserie Zédel](https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk) | 3:24 | 2024-11-01 | 2025-03-08 |
+| [Dior](https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [bitknot](https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ) | 3:32 | 2026-05-29 |  |
 | [Disappointment](https://open.spotify.com/track/3q08Ty0Y32SXBDumtlFT8v) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Disappointment](https://open.spotify.com/album/3vdEPdCmjkdxlprWNkgRsZ) | 3:48 | 2023-03-10 | 2023-05-06 |
 | [Disassociate](https://open.spotify.com/track/0Apty1GYyLLBkG6MHehlqF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Disassociate](https://open.spotify.com/album/1IQv4Zj4RFkydAxXfS7CLJ) | 3:19 | 2021-06-11 | 2022-04-20 |
 | [Disco](https://open.spotify.com/track/644hazYIWNQq4URUn7CPnQ) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Heaven Surrounds You](https://open.spotify.com/album/1bCQnu3tpmINpX3tvXQjb1) | 2:32 | 2021-06-07 | 2022-06-11 |
@@ -580,6 +581,7 @@
 | [Don't Want To Dance](https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Don't Want To Dance](https://open.spotify.com/album/4m480I6O0EuUWLuFJf7Yuf) | 3:02 | 2025-01-17 | 2025-02-22 |
 | [DONNIE DARKO](https://open.spotify.com/track/5a6Sd7VuMRuH6t2sYv3Gue) | [steve breaux](https://open.spotify.com/artist/10RaWqDdK3ZxvKObBVkm1g) | [DONNIE DARKO](https://open.spotify.com/album/34NmkOQ5HylEjb8wSPoNXv) | 2:37 | 2022-08-26 | 2022-11-19 |
 | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/track/1ij91ZruNl7xGgWE0ZRcBb) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/album/5gznrt3F3a9huMKqdzxPPN) | 3:57 | 2025-09-05 | 2026-04-25 |
+| [Don’t Lie](https://open.spotify.com/track/4cEC3ENYWqhXjOtmvCSxij) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [Don't Lie](https://open.spotify.com/album/1UKOVuWSsajyHrG1EwtZZI) | 2:58 | 2026-05-29 |  |
 | [Don’t Wanna Love U](https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Don’t Wanna Love U](https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU) | 3:29 | 2023-08-25 | 2024-02-17 |
 | [Doomsday](https://open.spotify.com/track/3cfgcCQd4wcOzVHpODQbEv) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Doomsday](https://open.spotify.com/album/02zEFZOxorMIOSEs1HIs19) | 2:30 | 2023-05-12 | 2023-07-29 |
 | [Doomsday \- Illuminati Hotties Version](https://open.spotify.com/track/4yb34YrXb9xJ5JLwll0276) | [Mini Trees](https://open.spotify.com/artist/5gmk49M0KriLVEWOqAoqjH), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Doomsday \(Illuminati Hotties Version\)](https://open.spotify.com/album/2nfzbXwQ7h1d7dNFGNTwHy) | 3:30 | 2023-08-25 | 2023-10-14 |
@@ -1359,6 +1361,7 @@
 | [No](https://open.spotify.com/track/7bg9faMjJDmN8VKC9gss9x) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/4zDORUOtdnZm1x4IhgMtAD) | 3:36 | 2023-08-11 | 2023-09-09 |
 | [No Alarm](https://open.spotify.com/track/1NfpDQQerZvnm1NF1p4V4p) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB) | [No Alarm](https://open.spotify.com/album/3RaDZbG5MjzIy51v5Fd9F1) | 3:03 | 2023-09-01 | 2023-10-14 |
 | [No Caffeine](https://open.spotify.com/track/61BkoclT5UeJSLf4x3Z06V) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Hanging](https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz) | 3:11 | 2024-01-12 | 2024-01-27 |
+| [No Fear](https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [For Love of Grace & the Hereafter](https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV) | 3:38 | 2026-05-29 |  |
 | [No Front Teeth](https://open.spotify.com/track/4x67Z1GnOLpU2kkcoKfQuB) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn), [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [No Front Teeth](https://open.spotify.com/album/4faIj68HrgoUfU3YHdZ4PI) | 4:46 | 2025-02-21 | 2025-05-24 |
 | [NO GO](https://open.spotify.com/track/4KAwjQ02jyVqBxFi2xuPPE) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [NO GO](https://open.spotify.com/album/583W6GrbSfZuCQL27ZRaGD) | 3:33 | 2025-01-17 | 2025-04-19 |
 | [No Joy](https://open.spotify.com/track/3p1UaNpImYT3nrIy1reGJ6) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [No Joy](https://open.spotify.com/album/1HbbRnWZ0mMVKHj9PsCUk7) | 3:17 | 2025-06-27 | 2026-01-17 |
@@ -1909,7 +1912,7 @@
 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 | 2025-12-05 |  |
 | [The Wahs](https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [So Much Country ‘Till We Get There](https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo) | 2:24 | 2026-01-16 |  |
 | [The Water](https://open.spotify.com/track/0N0qxAHq26ZK91AcUXyq9C) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 3:23 | 2023-04-28 | 2023-07-15 |
-| [The Weak](https://open.spotify.com/track/5VynIbPZQP6UR2JTddLKqw) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [The Weak](https://open.spotify.com/album/6TTLoKr8xfA8yKEGJACJQ7) | 3:15 | 2026-05-08 |  |
+| [The Weak](https://open.spotify.com/track/5VynIbPZQP6UR2JTddLKqw) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [The Weak](https://open.spotify.com/album/6TTLoKr8xfA8yKEGJACJQ7) | 3:15 | 2026-05-08 | 2026-05-30 |
 | [The Yips](https://open.spotify.com/track/2WgRH4OJTplHvuYsEEaNKB) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [The Yips](https://open.spotify.com/album/5hVeHAg3m0MkeW3j2vriOn) | 5:26 | 2025-07-04 | 2026-03-07 |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2021-11-19 | 2022-04-20 |
 | [Then It All Goes Away](https://open.spotify.com/track/598wrHJnHtOzHp98sTmnGP) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/0mbHI9iBcSy0ZTpUHR5Fab) | 3:03 | 2022-07-01 | 2022-11-13 |

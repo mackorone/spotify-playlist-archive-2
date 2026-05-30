@@ -683,6 +683,28 @@
     },
     {
       "album": {
+        "name": "all that fades",
+        "url": "https://open.spotify.com/album/36qUL5oTvIsrliReUIcWGy"
+      },
+      "artists": [
+        {
+          "name": "pete castle",
+          "url": "https://open.spotify.com/artist/30iN8zR9kklIfdH9dL8qOn"
+        },
+        {
+          "name": "moat",
+          "url": "https://open.spotify.com/artist/7CBHODCZmzwYesarlSnT2I"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "all that fades",
+      "url": "https://open.spotify.com/track/5xGaP7HrEV4aCpEbEzOvho"
+    },
+    {
+      "album": {
         "name": "alone",
         "url": "https://open.spotify.com/album/2PeC4ajxqXaxKTlaWowA5P"
       },
@@ -1350,7 +1372,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 139598,
       "name": "bedtime routine",
       "url": "https://open.spotify.com/track/1cQviOhLzFFBY9ETXqlYZN"
@@ -1726,7 +1748,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 166491,
       "name": "Breakfast In Bed",
       "url": "https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K"
@@ -2064,7 +2086,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 121345,
       "name": "candlelight",
       "url": "https://open.spotify.com/track/2X6DKsYGYiPYCn0iezQja7"
@@ -2172,7 +2194,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 156800,
       "name": "Celery Man",
       "url": "https://open.spotify.com/track/2JhgBqqhrDvRRctgGGY20z"
@@ -2530,7 +2552,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 141818,
       "name": "cold pillow",
       "url": "https://open.spotify.com/track/3aUeEklhHTYgO4irZQMKof"
@@ -2613,6 +2635,24 @@
     },
     {
       "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/12djKABM88HjPssQQNF1zj"
+      },
+      "artists": [
+        {
+          "name": "Lenny B",
+          "url": "https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99000,
+      "name": "Composure",
+      "url": "https://open.spotify.com/track/4omm3r30yPuFRfovpiVMFd"
+    },
+    {
+      "album": {
         "name": "Contemplation",
         "url": "https://open.spotify.com/album/3f4PF164QqbIdTOBCobxFV"
       },
@@ -2632,6 +2672,24 @@
       "duration_ms": 118400,
       "name": "Contemplation",
       "url": "https://open.spotify.com/track/0mrMtZYcXTmQZJomdf3zRz"
+    },
+    {
+      "album": {
+        "name": "contortion",
+        "url": "https://open.spotify.com/album/1hWxYTRudIHUDhkgJomofJ"
+      },
+      "artists": [
+        {
+          "name": "inertia.",
+          "url": "https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "contortion",
+      "url": "https://open.spotify.com/track/2jeyyQnlbXkLrMVSRelUNH"
     },
     {
       "album": {
@@ -2864,7 +2922,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 123290,
       "name": "Cozy Nights",
       "url": "https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm"
@@ -3162,6 +3220,24 @@
       "duration_ms": 158918,
       "name": "Dance With The Moon",
       "url": "https://open.spotify.com/track/32tcOarl902xsb3Rii178h"
+    },
+    {
+      "album": {
+        "name": "dandelion",
+        "url": "https://open.spotify.com/album/3trZio7jNam3p2kmpNk1aE"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149954,
+      "name": "dandelion",
+      "url": "https://open.spotify.com/track/708ttNiZv5RrG9PRaZhXSP"
     },
     {
       "album": {
@@ -4612,6 +4688,24 @@
       "duration_ms": 145520,
       "name": "Enchanted",
       "url": "https://open.spotify.com/track/1inhsOmdJMXWnNEbEGVOZ2"
+    },
+    {
+      "album": {
+        "name": "aetheric",
+        "url": "https://open.spotify.com/album/159iTTKV23F3sOo7mApdl3"
+      },
+      "artists": [
+        {
+          "name": "steezy prime",
+          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116666,
+      "name": "end of time",
+      "url": "https://open.spotify.com/track/4WQl6cI7wdBdJWpP21bKiI"
     },
     {
       "album": {
@@ -7368,7 +7462,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 136470,
       "name": "Into the Night",
       "url": "https://open.spotify.com/track/0qpuZ7Md8QJCEJANQCilMj"
@@ -8862,7 +8956,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 157588,
       "name": "Lucid Dream",
       "url": "https://open.spotify.com/track/0ESvr3vqkGTKqyTI35LIEA"
@@ -8898,7 +8992,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 206769,
       "name": "Lullabies",
       "url": "https://open.spotify.com/track/5urxgFQuVrLXhJ1pKECeyK"
@@ -15500,7 +15594,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 151578,
       "name": "The Way Life Goes",
       "url": "https://open.spotify.com/track/4m6hsPFQ8QVG7sCKHFUSPl"
@@ -16595,6 +16689,24 @@
     },
     {
       "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/14lIf7OssM58v3dT6qpMrp"
+      },
+      "artists": [
+        {
+          "name": "so.tired",
+          "url": "https://open.spotify.com/artist/4ordIijwezMyR8fJkOaVNy"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/7iwPLTNGojHF4tFeGeZGFq"
+    },
+    {
+      "album": {
         "name": "vision",
         "url": "https://open.spotify.com/album/5pBoODdZd9qJQHMRmHnrn5"
       },
@@ -16798,7 +16910,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 150600,
       "name": "watching movies",
       "url": "https://open.spotify.com/track/0v3J5KY6bERLkD2IIgW5u6"

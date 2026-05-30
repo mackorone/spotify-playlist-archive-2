@@ -2,7 +2,7 @@
 
 ### [Island Time](https://open.spotify.com/playlist/37i9dQZF1DX2HC3xQbIKZ8)
 
-> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Te Wehi
+> Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: SIX60
 
 269 songs - 16 hr 31 min
 
@@ -21,7 +21,7 @@
 | [Angel](https://open.spotify.com/track/2zQAZpyBFwIxWD18AuYIDN) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN) | [Angel](https://open.spotify.com/album/15lbk9QU3NxsKeSCmfQOoq) | 3:46 | 2025-09-09 | 2026-05-11 |
 | [Back In My Arms](https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh) | [Back In My Arms](https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr) | 3:45 | 2024-10-04 |  |
 | [Be Better](https://open.spotify.com/track/0PcUzCpDtur5KiTqKYyfyj) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2021](https://open.spotify.com/album/47ngDCKILaUidvXeest7sz) | 2:22 | 2023-11-28 | 2024-11-08 |
-| [Be My Lady \(feat\. Pieter Tuhoro & Jah Maoli\)](https://open.spotify.com/track/2lmCr96Mhghs0KUVABx4RP) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [Pieter T](https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3), [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [Universal Love](https://open.spotify.com/album/1dJg7WGsTZrAbWo4vh5PFh) | 4:11 | 2024-03-21 | 2026-05-26 |
+| [Be My Lady \(feat\. Pieter Tuhoro & Jah Maoli\)](https://open.spotify.com/track/2lmCr96Mhghs0KUVABx4RP) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [Pieter T](https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3), [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [Universal Love](https://open.spotify.com/album/1dJg7WGsTZrAbWo4vh5PFh) | 4:11 | 2024-03-21 |  |
 | [Be My Lady \(with Pieter T feat\. Jah Maoli\)](https://open.spotify.com/track/4GTps7FQv0jyGxKmX0Wdc4) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW), [Pieter T](https://open.spotify.com/artist/5Sr3QRGJOKL3r5NzKAbdX3), [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [Universal Love](https://open.spotify.com/album/5bN0WUW3od88WZav7XYatH) | 4:11 | 2023-11-28 | 2024-04-19 |
 | [Beautiful](https://open.spotify.com/track/6dbsWJKOVd9u7RoZhiRKKt) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Beautiful](https://open.spotify.com/album/20gMAxDx4XqQGAbCYnB2u1) | 3:54 | 2023-11-28 | 2025-09-10 |
 | [Beautiful Woman](https://open.spotify.com/track/1V9QhVxsxYG73V4At6Q0CB) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Heartbeat](https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD) | 3:19 | 2025-06-05 | 2025-09-10 |
@@ -220,7 +220,7 @@
 | [SLOW DOWN](https://open.spotify.com/track/5nL0ef2YGMhGgG97LGkTj6) | [SUB\-TRIBE](https://open.spotify.com/artist/4NRBNfnAtQXxVxevBvlXe2) | [SLOW DOWN](https://open.spotify.com/album/16BvudaA1gjBFeVl7HxYvp) | 4:14 | 2024-01-17 | 2025-09-10 |
 | [Slow Ride](https://open.spotify.com/track/7utGEYOcNDczxmiNEf162K) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J), [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Slow Ride](https://open.spotify.com/album/3LK1Pf2stMGqONSkOUIZZX) | 3:52 | 2025-05-08 |  |
 | [Slow Up](https://open.spotify.com/track/6INwzydOIayqZGXtr732YW) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Slow Up](https://open.spotify.com/album/3nPzDSC3Jx9gmLblpzZtrx) | 3:39 | 2023-11-28 | 2025-09-10 |
-| [Slowly](https://open.spotify.com/track/7oaq2kZQXREqCN7flvblov) | [Ismuki](https://open.spotify.com/artist/72C1ypMUqI4dVpwUf601RG), [Chris Young](https://open.spotify.com/artist/24nf3HFgkV1Qer9ZqIPfUB), [Stegga Bwoy](https://open.spotify.com/artist/7Izwcum9BvJfbkQR8CdUPs) | [Slowly](https://open.spotify.com/album/48cDtcnsnRFuhnc7XjSsoI) | 4:24 | 2025-09-09 |  |
+| [Slowly](https://open.spotify.com/track/7oaq2kZQXREqCN7flvblov) | [Ismuki](https://open.spotify.com/artist/72C1ypMUqI4dVpwUf601RG), [Chris Young](https://open.spotify.com/artist/24nf3HFgkV1Qer9ZqIPfUB), [Stegga Bwoy](https://open.spotify.com/artist/7Izwcum9BvJfbkQR8CdUPs) | [Slowly](https://open.spotify.com/album/48cDtcnsnRFuhnc7XjSsoI) | 4:24 | 2025-09-09 | 2026-05-30 |
 | [So True](https://open.spotify.com/track/5gAHSJPdHqz2MHc5WsfXnD) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY) | [On the Sun](https://open.spotify.com/album/6bB9QEMR57Ce6HBAADpvQv) | 3:54 | 2025-09-09 |  |
 | [So True / Koia Ko Koe](https://open.spotify.com/track/7wBWcOC52UDk3OEejLKHAJ) | [The Black Seeds](https://open.spotify.com/artist/0Q35wRRhdsU8EbsJ1eouCY) | [So True / Koia Ko Koe](https://open.spotify.com/album/6NoNRr7Wh8J7WBEdRdhclH) | 3:52 | 2023-11-28 | 2025-09-10 |
 | [Souljah Feeling](https://open.spotify.com/track/2Plq6KG55s843PdMT1Yurn) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY), [Chad Chambers](https://open.spotify.com/artist/3afbPu5x8f61qABONqINA3) | [One](https://open.spotify.com/album/77Qc0TCXokpAnt751M6ii5) | 3:24 | 2025-09-09 |  |

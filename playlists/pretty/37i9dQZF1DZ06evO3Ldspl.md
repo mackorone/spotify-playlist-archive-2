@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 
 > This is Binomio de Oro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,997 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,005 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 42 | [Tú No Notas](https://open.spotify.com/track/1mNMgUsVZGUmmPDuOld9qT) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:22 |
 | 43 | [La Gustadera](https://open.spotify.com/track/5AaFsIGgYNGyklOMnHNJ1l) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:10 |
 | 44 | [Miedo Al Amor](https://open.spotify.com/track/0XgnPjPP5ADbTqQzy7Gtad) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Superior](https://open.spotify.com/album/71e1jF8EwEx5bUBRHKnW3h) | 4:10 |
-| 45 | [Bonita, Bonita](https://open.spotify.com/track/5N4jofByz3u9VsIHRNG1mR) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Tercer Concierto Vallenato](https://open.spotify.com/album/12q2Qwfg2anbrlPafinMPv) | 3:51 |
-| 46 | [Cien Años De Ausencia](https://open.spotify.com/track/7KYEei2wozzvHR80bpf63c) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W), [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Para Siempre Rafael Orozco Binomio De Oro](https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2) | 4:19 |
+| 45 | [Cien Años De Ausencia](https://open.spotify.com/track/7KYEei2wozzvHR80bpf63c) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W), [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Para Siempre Rafael Orozco Binomio De Oro](https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2) | 4:19 |
+| 46 | [Bonita, Bonita](https://open.spotify.com/track/5N4jofByz3u9VsIHRNG1mR) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Tercer Concierto Vallenato](https://open.spotify.com/album/12q2Qwfg2anbrlPafinMPv) | 3:51 |
 | 47 | [Tu Dueño](https://open.spotify.com/track/4uMySFBukKl2QC2eVbn9yA) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Super Vallenato](https://open.spotify.com/album/2bHLevxqV0xTrGXzxRYMOk) | 4:48 |
 | 48 | [Quise Manchar Tu Alma](https://open.spotify.com/track/7vhO3vAmpiSNECd97UlT1j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Clase Aparte](https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK) | 4:14 |
 | 49 | [Enamorado De Ti](https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 5:11 |
 | 50 | [Acéptame Como Soy](https://open.spotify.com/track/4erN5dF9fvpx3r9NrE3rpT) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Somos El Vallenato](https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr) | 4:26 |
 
-Snapshot ID: `ahY0AAAAAADL5l8UIq4layO8RNKQMS81`
+Snapshot ID: `aheFgAAAAAC6Un2Iy8HyGIqd0928wfqA`

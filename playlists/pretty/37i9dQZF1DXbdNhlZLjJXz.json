@@ -1,12 +1,12 @@
 {
   "description": "She's actually kinda famous. Welcome to Slayyyter summer ",
-  "num_followers": 414565,
+  "num_followers": 414554,
   "original_name": "hot girl agenda \ud83d\udd25 \ud83d\ude92",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP3QGPpW45pJVZPqguX2Bi3Zj0Aa",
+  "snapshot_id": "AAAAAPF5MCY8jMIR/okN2RSlOnW0IC5h",
   "tracks": [
     {
       "added_at": "2026-05-26 19:43:22",
@@ -71,62 +71,6 @@
     {
       "added_at": "2025-12-08 16:43:03",
       "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 143330,
-      "name": "Guess featuring billie eilish",
-      "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
-    },
-    {
-      "added_at": "2026-04-24 04:03:29",
-      "album": {
-        "name": "Dance To This",
-        "url": "https://open.spotify.com/album/7cxNzqHMqDlojW7WilPoUN"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 174712,
-      "name": "Dance To This",
-      "url": "https://open.spotify.com/track/2uPLbkypIfozwjuiJcgMLC"
-    },
-    {
-      "added_at": "2026-05-18 13:45:16",
-      "album": {
-        "name": "I look sh!t (and i\u2018m fine with it)",
-        "url": "https://open.spotify.com/album/1ilK1JaxDsGVD3oHnOUxdg"
-      },
-      "artists": [
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        },
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 143478,
-      "name": "I look sh!t (and i\u2018m fine with it)",
-      "url": "https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb"
-    },
-    {
-      "added_at": "2025-12-08 16:43:03",
-      "album": {
         "name": "ATTENTION!",
         "url": "https://open.spotify.com/album/0pS9ssUJeUKdOD3hTrRhUM"
       },
@@ -147,6 +91,78 @@
       "duration_ms": 208656,
       "name": "ATTENTION!",
       "url": "https://open.spotify.com/track/3roiUw3YFNlKE3u8qMmVmw"
+    },
+    {
+      "added_at": "2026-05-29 04:01:20",
+      "album": {
+        "name": "MAMIHLAPINATAPAI",
+        "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 138284,
+      "name": "It's Me",
+      "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
+    },
+    {
+      "added_at": "2026-04-24 04:03:29",
+      "album": {
+        "name": "Dance To This",
+        "url": "https://open.spotify.com/album/7cxNzqHMqDlojW7WilPoUN"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 174712,
+      "name": "Dance To This",
+      "url": "https://open.spotify.com/track/2uPLbkypIfozwjuiJcgMLC"
+    },
+    {
+      "added_at": "2025-12-08 16:43:03",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring billie eilish",
+      "url": "https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx"
+    },
+    {
+      "added_at": "2026-05-18 13:45:16",
+      "album": {
+        "name": "I look sh!t (and i\u2018m fine with it)",
+        "url": "https://open.spotify.com/album/1ilK1JaxDsGVD3oHnOUxdg"
+      },
+      "artists": [
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 143478,
+      "name": "I look sh!t (and i\u2018m fine with it)",
+      "url": "https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb"
     },
     {
       "added_at": "2026-04-11 05:24:58",
@@ -651,22 +667,6 @@
       "duration_ms": 198937,
       "name": "BEAT UP CHANEL$",
       "url": "https://open.spotify.com/track/10wJ35whDsMVQ04fhkR5QS"
-    },
-    {
-      "added_at": "2026-01-16 05:00:18",
-      "album": {
-        "name": "Must Be",
-        "url": "https://open.spotify.com/album/1FUgbYn6lHaVS4RrpAEMSE"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Must Be",
-      "url": "https://open.spotify.com/track/5TJtMHbfSSHrWPcnMHdjUy"
     },
     {
       "added_at": "2025-12-08 16:43:03",

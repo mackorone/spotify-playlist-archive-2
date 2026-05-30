@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,757 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,742 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 48 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 49 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 |
 | 50 | [WORK HARD](https://open.spotify.com/track/69CGuHsxhCpR0bSezjYBwV) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORK HARD](https://open.spotify.com/album/43clBBXDe88QjtRJDU6TUQ) | 2:53 |
-| 51 | [紫陽花](https://open.spotify.com/track/2ektCq0B2HZyL38eRbI70W) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [紫陽花](https://open.spotify.com/album/0ZPqvRK7rjSwPTPNbAcEjY) | 3:51 |
-| 52 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
+| 51 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
+| 52 | [紫陽花](https://open.spotify.com/track/2ektCq0B2HZyL38eRbI70W) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [紫陽花](https://open.spotify.com/album/0ZPqvRK7rjSwPTPNbAcEjY) | 3:51 |
 | 53 | [Superstar](https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Superstar](https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi) | 3:20 |
 | 54 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 |
 | 55 | [メロドラマ](https://open.spotify.com/track/5tbjzfU2ATpTT16qR30bKa) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [メロドラマ](https://open.spotify.com/album/7qsBdy6BHYRsXg9gaHiLY3) | 3:47 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 69 | [月面着陸計画 \- Moon Landing Plan](https://open.spotify.com/track/2mqSMiMiL36K7vTyU4K0Vc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:02 |
 | 70 | [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 |
 | 71 | [ステキッ！！](https://open.spotify.com/track/3LjmO7wYa1pjgbnpC58Ibe) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [ステキッ！！](https://open.spotify.com/album/5uws2TezX8oeBoNfxJWJTN) | 4:13 |
-| 72 | [Ohaguro](https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Ohaguro](https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI) | 3:08 |
+| 72 | [THRIFTED](https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [THRIFTED](https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq) | 2:41 |
 | 73 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
-| 74 | [THRIFTED](https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [THRIFTED](https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq) | 2:41 |
+| 74 | [Ohaguro](https://open.spotify.com/track/7AfgpoIGH0QhPBBc5tmlGc) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Ohaguro](https://open.spotify.com/album/34WjpX08hejkOMciVh9JBI) | 3:08 |
 | 75 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 |
 | 76 | [かけ足族](https://open.spotify.com/track/0EwMvWJ6fLhdLL9g8inLVd) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [かけ足族](https://open.spotify.com/album/51HCqHLyaE6sAsZ5QhJKzn) | 3:44 |
 | 77 | [0.0000%](https://open.spotify.com/track/6tJmPnHeCidKixJ7VEdGgy) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [0.0000%](https://open.spotify.com/album/50W2oJUz1cLctFly2NyYVd) | 2:35 |
@@ -95,13 +95,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9u2doQ8Q2L.md) - [plain]
 | 85 | [海馬成長痛](https://open.spotify.com/track/1YfXeoQ39zL9IWHOTrL8bg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [海馬成長痛](https://open.spotify.com/album/7dadhbl044I5VImuYGBzuv) | 3:09 |
 | 86 | [Love seeker](https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Love seeker](https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF) | 2:54 |
 | 87 | [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 |
-| 88 | [いとおしい日々](https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 2:32 |
-| 89 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 |
+| 88 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 |
+| 89 | [いとおしい日々](https://open.spotify.com/track/0QeD68D7Up78qybkCsGFBI) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [D o n’ t ‌ ‌ ‌L a u g h ‌ ‌ ‌I t ‌ ‌ ‌O f f](https://open.spotify.com/album/1CxJmFEE2xsYSTxpJaOG6P) | 2:32 |
 | 90 | [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/track/4mHSUBNuNUQOhje74CTbBx) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself \(feat\. AKLO & KEIJU\)](https://open.spotify.com/album/3Oz0Tx9z3PMNMX3Owo2CGA) | 4:28 |
 | 91 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 |
 | 92 | [1000 days of moments](https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000 days of moments](https://open.spotify.com/album/4kDY1iaK6MdsDsZEZ78Ebk) | 3:23 |
-| 93 | [明るい部屋](https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [明るい部屋](https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK) | 2:54 |
-| 94 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 |
+| 93 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 |
+| 94 | [明るい部屋](https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [明るい部屋](https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK) | 2:54 |
 | 95 | [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 |
 | 96 | [ユートピア](https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ユートピア](https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V) | 4:32 |
 | 97 | [Method](https://open.spotify.com/track/7c3GBmtajxIslZjQHX0KX7) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Method](https://open.spotify.com/album/4aUsq3mLnh2IBx9lfkmtW2) | 3:09 |

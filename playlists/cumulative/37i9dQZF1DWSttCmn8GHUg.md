@@ -4,7 +4,7 @@
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 
-156 songs - 9 hr 22 min
+157 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Made in America](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:13 | 2021-11-12 |  |
 | [Makes Us Who We Are](https://open.spotify.com/track/5s6YgfXZKi4S2m87VtKsaZ) | [CreatiVets](https://open.spotify.com/artist/5IvR5LShfLCBvBMt2KPaBc), [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Veterans Day Special, Vol\. II \(Patriots Playlist\)](https://open.spotify.com/album/35piOFgYpaTKeGulzXOJak) | 3:11 | 2021-11-12 | 2025-04-21 |
 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 | 2021-11-12 |  |
+| [McArthur](https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McArthur](https://open.spotify.com/album/7tFDlNV1A2uRLdgArEKYuj) | 3:51 | 2026-05-29 |  |
 | [Meanwhile Back At Mama's](https://open.spotify.com/track/2rO28hRLDbsenVjeWvwqQz) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd), [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Sundown Heaven Town \(Deluxe Edition\)](https://open.spotify.com/album/5d1gd7lRLgljr3YPnkfU7k) | 3:48 | 2021-11-12 |  |
 | [Mississippi Girl](https://open.spotify.com/track/79YeQbd1p7MsuT7wHQLRYY) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Fireflies](https://open.spotify.com/album/7dtjpzbhRH1dc2gM0FLrqh) | 3:52 | 2021-11-12 |  |
 | [Mr Red White and Blue](https://open.spotify.com/track/0qmXLMVlUeyltK7zLu2Anc) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Boots and Jeans](https://open.spotify.com/album/0Shc4SF4qyzWdmxCSOarf2) | 3:27 | 2023-08-21 | 2024-04-19 |

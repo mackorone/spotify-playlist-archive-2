@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 459 likes - 445 songs - 22 hr 26 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 459 likes - 449 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -453,5 +453,9 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 443 | [dirt](https://open.spotify.com/track/0nAaYfzBYIiejTetZbDmrh) | [phiia](https://open.spotify.com/artist/4POwle9ofOoqfiZTAednVb) | [dirt](https://open.spotify.com/album/2xLezujQqsKsJ2FClwFHGR) | 3:12 |
 | 444 | [FREERAERAE](https://open.spotify.com/track/0xwttkGbl2pUusxmIHBwjT) | [Wravth](https://open.spotify.com/artist/0W5AVqvdvX4m9oXlnjELoz) | [FREERAERAE](https://open.spotify.com/album/1s8ao87bk5Zqsy3ZuiWBgo) | 2:20 |
 | 445 | [Poor](https://open.spotify.com/track/5BfUt2GUQD1ySNhadHSsFr) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [Poor](https://open.spotify.com/album/4q3IpWkAvxIlVelYNC0MPG) | 3:18 |
+| 446 | [Movements](https://open.spotify.com/track/1JLjkD4f96FHjpLElPPPEq) | [Amo G](https://open.spotify.com/artist/1OJejfvmJTuDp8RwUhmjo1), [Bains The Prince](https://open.spotify.com/artist/76BK7pkjAjMYkwt2k5yYqg) | [Movements](https://open.spotify.com/album/5xwFAwRwZzkVn6WGE1PxW5) | 2:38 |
+| 447 | [Godlike](https://open.spotify.com/track/041ONip9aubd1MPC8xVS6h) | [Godlike](https://open.spotify.com/artist/0kuTW17DYHIcpweehulGYw) | [GODLIKE](https://open.spotify.com/album/3Gjxc8F40U2bqu1fjXRBwr) | 3:05 |
+| 448 | [Made of Love and Light](https://open.spotify.com/track/6MWf6KIvkJEgHFpXWWOUZb) | [Low Tide Signals](https://open.spotify.com/artist/0yLzIVCnk8YeBE8UikbhFG) | [Made of Love and Light](https://open.spotify.com/album/6Ek51whd9gWkEvKaiTUukf) | 3:20 |
+| 449 | [So What If I Don't Fit In](https://open.spotify.com/track/5D4ClV0qMYsvpLbD6VcqVm) | [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [So What If I Don't Fit In](https://open.spotify.com/album/2FZh6fa3AM434KzmszF33d) | 2:42 |
 
-Snapshot ID: `AAAcZW027mehmvljHZA0mRsL0L9AMs8x`
+Snapshot ID: `AAAcaZt3IBbYy4xRU3vGQkF4IdC+eWrk`

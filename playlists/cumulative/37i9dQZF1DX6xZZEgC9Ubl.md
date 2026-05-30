@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-969 songs - 1 day 19 hr 52 min
+970 songs - 1 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,6 +665,7 @@
 | [Prove My Love](https://open.spotify.com/track/7xsZCOPVVcZTVQ36PvCpN5) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [DIAMONDS](https://open.spotify.com/album/3kzwY2NyciGzUmvPOHciap) | 4:29 | 2023-09-08 | 2023-12-22 |
 | [Psycho!](https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 3:17 | 2020-12-13\* |  |
 | [Push Me Away \(feat\. Remington Leith of Palaye Royale\)](https://open.spotify.com/track/12JSxSPqJWXttqi2dJvYRh) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Do You Like Me Now \(feat\. Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/4wFUDCIQM4X7OAKQc2KaJv) | 2:49 | 2023-05-15 |  |
+| [range \(i don't show it\)](https://open.spotify.com/track/5vrcIPHvA3Hiz5FfrJAj3n) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [runaway](https://open.spotify.com/album/77a2uhKK8cLvTS0FMyutU7) | 3:04 | 2026-05-29 |  |
 | [Rather Do](https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Childhood Dreams](https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4) | 2:15 | 2022-05-23 | 2023-09-02 |
 | [Read Your Mind](https://open.spotify.com/track/3riUOEnx6x0k9M9uvFHsff) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Read Your Mind](https://open.spotify.com/album/2nrep2RHAvqhNvIIaMfM0B) | 3:08 | 2023-01-27 | 2023-04-11 |
 | [Real Shit \(with benny blanco\)](https://open.spotify.com/track/3uVPLtkmDu8pDkYEAVqbgS) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Real Shit \(with benny blanco\)](https://open.spotify.com/album/16EqCl0UoPe3xSIFg4xO6T) | 3:03 | 2020-12-13\* | 2022-02-15 |

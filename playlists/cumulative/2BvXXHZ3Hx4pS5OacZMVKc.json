@@ -2657,6 +2657,24 @@
     },
     {
       "album": {
+        "name": "FALLEN ANGEL",
+        "url": "https://open.spotify.com/album/1H5hAif38CBizxp9gV3KVg"
+      },
+      "artists": [
+        {
+          "name": "NAVARA",
+          "url": "https://open.spotify.com/artist/4PuFClUU1pnh3KqSF3p3C2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286723,
+      "name": "FALLEN ANGEL",
+      "url": "https://open.spotify.com/track/6Ov4AyX5nwjxLHD8v2qELz"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/4PmsOH9a3agTL1QrFeyfFp"
       },

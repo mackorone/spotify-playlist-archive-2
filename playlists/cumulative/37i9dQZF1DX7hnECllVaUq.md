@@ -2,7 +2,7 @@
 
 ### [Country Worldwide](https://open.spotify.com/playlist/37i9dQZF1DX7hnECllVaUq)
 
-> The biggest hits from country artists around the globe\. Cover: Owen Riegling
+> The biggest hits from country artists around the globe\. Cover: Mack Geiger
 
 230 songs - 12 hr 47 min
 

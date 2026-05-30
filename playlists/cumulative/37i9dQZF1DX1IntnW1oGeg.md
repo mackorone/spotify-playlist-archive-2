@@ -4,12 +4,13 @@
 
 > Enjoy exclusive live performance videos from K\-Pop artists produced by Spotify! \(스포티파이가 프로듀싱한 케이팝 아티스트들의 특별한 라이브 퍼포먼스 비디오를 즐겨보세요!\)
 
-22 songs - 1 hr 18 min
+23 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/44dQsteUZzZ5aN1uS8lhRj) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [2.0 \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/1PtRZuSJNqM03FYgdbzWih) | 3:10 | 2026-04-07 |  |
 | [Beat It Up \| Spotify Performance Video](https://open.spotify.com/track/5B5SLuIkevqp9KlCzxhupw) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beat It Up \| Spotify Performance Video](https://open.spotify.com/album/2H001xNfwbodUi051OEO6Y) | 3:56 | 2025-11-19 |  |
+| [BOOMPALA \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/4RpHkKbIFAc96Q2ep2eg6y) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BOOMPALA \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/3SheoOcRqSqoeJdvfhZPHo) | 3:02 | 2026-05-29 |  |
 | [Freestyle](https://open.spotify.com/track/2rUpPYWptTmLm8fIYSXdQ2) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Freestyle](https://open.spotify.com/album/1xHNZeSRJIJSxqPlvD2Jkw) | 2:59 | 2025-11-19 |  |
 | [Freestyle](https://open.spotify.com/track/6Wu30Ro8z8SLBUxsnfTKLI) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Freestyle](https://open.spotify.com/album/3pr47kR7vZWpgsiLsGBFEa) | 2:59 | 2025-11-19 |  |
 | [Loose \(Korean Ver.\)](https://open.spotify.com/track/03HHGNtjpS5K6fRcwlX3Sx) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [Loose \(Korean Ver.\)](https://open.spotify.com/album/47tBLYvFev5FbtKO9PHlWm) | 4:06 | 2025-11-19 |  |

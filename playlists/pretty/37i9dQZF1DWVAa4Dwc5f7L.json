@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-03-27 04:00:26",
       "album": {
+        "name": "El Due\u00f1o Del Flow (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Merengue Electronico (Rompe Consola)",
+      "url": "https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq"
+    },
+    {
+      "added_at": "2026-03-27 04:00:26",
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 257424,
       "name": "Por Ti Amor",
       "url": "https://open.spotify.com/track/3xjmbjoWIl5TMJm9IgJjsU"
-    },
-    {
-      "added_at": "2026-03-27 04:00:26",
-      "album": {
-        "name": "El Due\u00f1o Del Flow (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Merengue Electronico (Rompe Consola)",
-      "url": "https://open.spotify.com/track/1Q2WPcHRVK16zh9TR6isEq"
     },
     {
       "added_at": "2026-03-27 04:00:26",

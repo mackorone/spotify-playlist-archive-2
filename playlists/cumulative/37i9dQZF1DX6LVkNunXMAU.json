@@ -1471,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Serenata para construir un Refugio (Live)",
+        "url": "https://open.spotify.com/album/5Oye9uOYPu7dQyrTDt12qd"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101500,
+      "name": "Conjuro - Live",
+      "url": "https://open.spotify.com/track/2BT1hrRCaxCKYFzQlAx7MY"
+    },
+    {
+      "album": {
         "name": "Coquimbo, Mazatl\u00e1n",
         "url": "https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd"
       },
@@ -6280,24 +6298,6 @@
       "duration_ms": 172634,
       "name": "Todo me sabe a poco",
       "url": "https://open.spotify.com/track/1QwPlQPqx4CiYdGJSTi1EV"
-    },
-    {
-      "album": {
-        "name": "Serenata para construir un Refugio (Live)",
-        "url": "https://open.spotify.com/album/5Oye9uOYPu7dQyrTDt12qd"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "date_added": "2026-05-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/2BT1hrRCaxCKYFzQlAx7MY"
     },
     {
       "album": {

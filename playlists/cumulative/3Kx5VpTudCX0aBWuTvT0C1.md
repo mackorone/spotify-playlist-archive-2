@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-138 songs - 8 hr 3 min
+142 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ain't My First Rodeo](https://open.spotify.com/track/2DUNte3JP5CCArzjlF2nnb) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Ain't My First Rodeo](https://open.spotify.com/album/26tiR7ucWjO4JssSc2zs6C) | 4:09 | 2025-11-12 | 2026-03-15 |
 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2025-12-31 |  |
 | [Alone In LA](https://open.spotify.com/track/6hezehHsgXu0FvNzOMOLWK) | [Andrew Cärter](https://open.spotify.com/artist/5hng4ZEPzBFLEY0jfmFCdt) | [Alone In LA](https://open.spotify.com/album/1j8p383R5oRrfA6l48XZxH) | 3:05 | 2025-10-29 | 2025-12-09 |
+| [Altrove](https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/1nOS4aWxRbGAYI06aSH2Rk) | 3:24 | 2026-05-29 |  |
 | [Anne Halt Durch!](https://open.spotify.com/track/7JFZ2FDCG2NOKPy8OmU9jt) | [DerBen](https://open.spotify.com/artist/2ROKHEeIFHnxoXlHcngvp3) | [Anne Halt Durch!](https://open.spotify.com/album/0ywlMcNDzmlScH3LAu6Eus) | 4:46 | 2025-10-29 | 2025-12-09 |
 | [Another Night](https://open.spotify.com/track/1CL9DB1WhmwOMACDJcOWDw) | [P\-Math](https://open.spotify.com/artist/1xsU39HOHqNFkYbvOHifQY) | [Another Night](https://open.spotify.com/album/5v14wEjTIH1DoRoGleXapd) | 2:52 | 2025-11-02 | 2025-12-09 |
 | [Aquella noche de Octubre](https://open.spotify.com/track/6sGco2VaRvibMnWPYKLxJM) | [Zian Ka'an](https://open.spotify.com/artist/3CAsPodiK0nPyiIYhkceeW) | [Aquella noche de Octubre](https://open.spotify.com/album/1BZrrJGChOtoUQb2h0jbJm) | 2:54 | 2025-10-29 | 2025-12-09 |
@@ -24,6 +25,7 @@
 | [Away](https://open.spotify.com/track/05YP4WXwNVoj9A0Viqwr3k) | [Orbis](https://open.spotify.com/artist/6mNA4j8NdL2AAV46EKMy1d) | [Slick Heart Machinery](https://open.spotify.com/album/5Ji55WmrvyDcClmIXboWIR) | 7:15 | 2025-11-03 | 2025-12-09 |
 | [Away Too Long](https://open.spotify.com/track/0tuvYh6wDvM45ivRimfyUB) | [Digital Bog](https://open.spotify.com/artist/34WuPzlCsRIbT5RuFGtTMw) | [Away Too Long](https://open.spotify.com/album/4iJhmu6czRwB1FUiKjIBsg) | 3:00 | 2025-11-26 |  |
 | [Bangkok Jam](https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS) | [John Taratsas](https://open.spotify.com/artist/4VkfNtbWEZMiOMm4NjNPnf) | [Bangkok Jam](https://open.spotify.com/album/2lldcVHNQyPzeWFrNZo0Oq) | 3:05 | 2025-10-29 | 2025-12-09 |
+| [Be the Star That You Are](https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Be the Star That You Are](https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0) | 3:09 | 2026-05-29 |  |
 | [Blue Money Bills](https://open.spotify.com/track/3cNEkCAFg82SSWqkyNdwRp) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [Blue Money Bills](https://open.spotify.com/album/36zqHa3fQZ0kROvyzvl33L) | 3:23 | 2025-10-29 | 2025-12-09 |
 | [Bonfire](https://open.spotify.com/track/5e0BHKevSDHIAdq0LCwB7M) | [Califortune](https://open.spotify.com/artist/1GLEJCnZZn6s7jjiP6xVyo) | [Bonfire](https://open.spotify.com/album/4zNR5UI6guqnwSpwR5aXfe) | 4:35 | 2026-03-06 |  |
 | [Broken Soul](https://open.spotify.com/track/3uF5OHTajylu7acBQfqGCj) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Huckleberry](https://open.spotify.com/album/72jB7XjZSEevzrGC9GaikJ) | 3:11 | 2025-11-18 |  |
@@ -121,6 +123,7 @@
 | [tiny thoughts](https://open.spotify.com/track/1Egax32yGqCIA0Fcw2PDDN) | [Summer in the Attic](https://open.spotify.com/artist/6FCmzxfv8RUz0EWJN4BYRq) | [Queso](https://open.spotify.com/album/4lx4JYfBKtdluI1pwxXuuD) | 2:37 | 2025-11-24 |  |
 | [To Be Back There](https://open.spotify.com/track/2FLeUS0NZ0EmGasMPe9177) | [Mischa Plus](https://open.spotify.com/artist/7JS3DVlq1iHThu4k2OcmNh) | [Relic](https://open.spotify.com/album/1er6z2T7yalzORoHnEKW4V) | 3:18 | 2026-04-08 |  |
 | [Too Close For Comfort](https://open.spotify.com/track/2eLNKsTamXcUGp8Q0PrfeJ) | [DIZTEN](https://open.spotify.com/artist/0hj6Y8SHrQ6ETXoh4dBi9P) | [Too Close For Comfort](https://open.spotify.com/album/3Rqi8cEOHDKJMBXqKt5WvF) | 3:23 | 2025-12-12 |  |
+| [Travelodge](https://open.spotify.com/track/1X2ZccDDqnZICewb31H9Bm) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [Deep Cut EP](https://open.spotify.com/album/3KGDNN12K38UHMMK2Y9zRd) | 2:23 | 2026-05-29 |  |
 | [Trust](https://open.spotify.com/track/7HiWR4yqbGVU5CvMmy3HHT) | [Penny Rebels](https://open.spotify.com/artist/5kvexhqNjywDVmARMHFA7g) | [Trust](https://open.spotify.com/album/2gq88qxGS3TyrncBZYOwO1) | 1:54 | 2025-10-30 | 2025-12-09 |
 | [TU PEOR ENEMIGO](https://open.spotify.com/track/53uQB3TDPmEl5lNhUd5ddB) | [lorenzo](https://open.spotify.com/artist/0ZTHezz846ANN3ssdfozCD) | [TU PEOR ENEMIGO](https://open.spotify.com/album/3Tr8y87l1nOkNf27wxoC8t) | 3:39 | 2025-11-03 | 2025-12-09 |
 | [Turn into You](https://open.spotify.com/track/6Lz1tAR0AMy1lxPxwWkOnL) | [Elliott Jones](https://open.spotify.com/artist/7MWQM2kFM8HyN61ef30q0a) | [Turn into You](https://open.spotify.com/album/17ccZ72JqjSYFi6MjGmEXm) | 3:43 | 2026-03-10 |  |
@@ -130,6 +133,7 @@
 | [Vienna](https://open.spotify.com/track/6ifINtDtWjUMtpr4jlzfQA) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL) | [Vienna](https://open.spotify.com/album/66ZtlbDXrqXdR5hA6E6jHi) | 4:11 | 2026-01-22 |  |
 | [Vur Kalbimden](https://open.spotify.com/track/0fu2sSqESedfVKV7QD7fBz) | [Azel](https://open.spotify.com/artist/6Wefz4jdGRWUIPjmvl76QU) | [Vur Kalbimden](https://open.spotify.com/album/7efSlA8XFS5odUgIg36w0V) | 3:11 | 2025-12-01 |  |
 | [Warpaint](https://open.spotify.com/track/3YUxt5V51agQZDIBTn2Wp2) | [Flying Earrings](https://open.spotify.com/artist/4rIm3b1CR7sR47AG5qzjcy) | [Dreams](https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L) | 6:45 | 2026-01-06 |  |
+| [We said Hi](https://open.spotify.com/track/5idEHknOLB6apZY52YceWt) | [Half Quiet](https://open.spotify.com/artist/5F48VKDyu8evEyKQIfBMcI) | [Left it on the table](https://open.spotify.com/album/4ZTZ2oRXuqK7j5zGKtnwug) | 2:38 | 2026-05-29 |  |
 | [We're Not Going Back !](https://open.spotify.com/track/2ZfUwtNAa1m2pFfbw12P1f) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [We're Not Going Back !](https://open.spotify.com/album/24RpqAI2h0N71yyWZAHjUR) | 3:09 | 2025-11-03 | 2025-12-09 |
 | [Weaker](https://open.spotify.com/track/6EXLpcnf9KBY7T16ZfX1Y1) | [Daryan Tchoubineh](https://open.spotify.com/artist/5kTeo0SHSNeFvUQP4mhtxj) | [Weaker](https://open.spotify.com/album/44m2wMyKWD8ANnMBUToYp5) | 3:31 | 2025-11-22 |  |
 | [White Roses](https://open.spotify.com/track/0dRwGLzgtvpZvS5NncfRJ8) | [Javier Sánchez](https://open.spotify.com/artist/012ou1HhOyZ6iFWL7FYsyZ) | [White Roses](https://open.spotify.com/album/4vPVInfF4dXmKVKFBR30XY) | 3:10 | 2025-11-10 | 2026-03-15 |

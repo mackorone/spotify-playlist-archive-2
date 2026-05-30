@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "The best tracks from the world of music. Cover: Tame Impala, JENNIE",
+  "description": "The best tracks from the world of music. Cover: Olivia Rodrigo",
   "name": "Hot Hits Singapore",
   "tracks": [
     {
@@ -1582,7 +1582,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 153000,
       "name": "CELEBRATION",
       "url": "https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1"
@@ -4020,6 +4020,24 @@
       "duration_ms": 159878,
       "name": "HAPPY MAN",
       "url": "https://open.spotify.com/track/0iq4tyrVjVfHHeOXYDMC8g"
+    },
+    {
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "album": {

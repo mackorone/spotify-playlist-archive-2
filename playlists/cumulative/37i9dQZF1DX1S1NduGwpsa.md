@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: RAYE
 
-973 songs - 2 day 21 hr 35 min
+973 songs - 2 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Est\-ce que tu me suis ?](https://open.spotify.com/track/35WRhiT1UJ2aXFkv2tRK9G) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr), [Camille Bertault](https://open.spotify.com/artist/7Dg9vuKpfUPSsWslQ4dm3n) | [Est\-ce que tu me suis ?](https://open.spotify.com/album/3vIN536CFGiVdTt8rzaFZm) | 3:29 | 2024-02-15 | 2024-03-29 |
 | [Esta Tarde Vi Llover](https://open.spotify.com/track/4ehc8FBzTKrBELmUeOYH15) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Esta Tarde Vi Llover](https://open.spotify.com/album/2BdAV14LQO5UttyphTnRl1) | 2:44 | 2024-06-20 | 2024-07-27 |
 | [Estrellas \- Versión Polvo](https://open.spotify.com/track/0QXACuwRiySqCCQAgekUkb) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Florian Pellissier](https://open.spotify.com/artist/0xiIT6hCcH1oLeoOZjHo0s) | [Estrellas](https://open.spotify.com/album/2WgEVB6gkJ8ijn08kafvrf) | 3:14 | 2022-10-20 | 2023-01-27 |
+| [Eternal Child](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 5:07 | 2026-05-28 |  |
 | [Euro](https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Euro](https://open.spotify.com/album/1QYw5ZwARebwLY0WWNo2Px) | 2:48 | 2025-09-11 | 2025-12-19 |
 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/3dmUgRVy8xPsNJ9TO1Y5iX) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu) | [Ev’ry Time We Say Goodbye](https://open.spotify.com/album/3Z5sSL7iI1G0GvbxY3GWIp) | 4:43 | 2025-02-27 | 2025-04-25 |
 | [Ever Ready Sunday](https://open.spotify.com/track/2aCurM3D9ZO5nGStSKDWdJ) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy), [Bill Evans](https://open.spotify.com/artist/2PyoC81N6Uz8xs5Lzaquje) | [Common Ground](https://open.spotify.com/album/1TxksZoZOYltLztkow77CS) | 4:20 | 2022-10-10 | 2022-11-11 |
@@ -879,7 +880,6 @@
 | [Top Hat, White Tie and Tails \- Live](https://open.spotify.com/track/6Z3xTihvELYImFc27FPdIi) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella At The Hollywood Bowl: The Irving Berlin Songbook \(Live\)](https://open.spotify.com/album/7aebz42KPbU8Otic1ze11x) | 2:46 | 2022-06-23 | 2022-08-26 |
 | [Top of My Head \(Live\)](https://open.spotify.com/track/3MNiy7awkWDXeJ8C4CiUdY) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Roy Hargrove: Live at KNKX](https://open.spotify.com/album/5YP0b8AebeLSJJyMJFwnVC) | 6:37 | 2026-02-05 |  |
 | [Tour de Manège](https://open.spotify.com/track/7vi5WwJ8dtqhekZLpnhtue) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9), [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [Tour de Manège](https://open.spotify.com/album/4C4CAH43TXHQ5mSAPGhTXi) | 4:38 | 2026-04-23 |  |
-| [Track 8](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 0:00 | 2026-05-28 |  |
 | [Transe](https://open.spotify.com/track/6o9JFWqgg1RiVoUqv5d0yk) | [Monsieur MÂLÂ](https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t) | [Transe](https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL) | 6:23 | 2023-07-20 | 2023-10-13 |
 | [Transformation](https://open.spotify.com/track/6G6XGVNCOV2tfwv3r2QlhY) | [Pamina Beroff](https://open.spotify.com/artist/5o2LIkj5gUj33wuzmyiE7M), [Eric Legnini](https://open.spotify.com/artist/4iwk7yhBhcSyfbK4a4cnUi) | [Unfolding](https://open.spotify.com/album/3OGyLTv3Ijupp1zRw88e7f) | 3:58 | 2022-12-22 | 2023-03-03 |
 | [Trop beau pour être vrai](https://open.spotify.com/track/3GZQSblqvzUGvA7LmBXXSm) | [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Biréli Lagrène plays Loulou Gasté](https://open.spotify.com/album/0TnO3HNJuygK4cOPp8mefA) | 2:32 | 2023-11-02 | 2023-11-24 |

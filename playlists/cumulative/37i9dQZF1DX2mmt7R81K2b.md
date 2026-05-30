@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-149 songs - 12 hr 19 min
+150 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Peer Gynt Suites Nos\. 1 & 2 : In the Hall of the Mountain King](https://open.spotify.com/track/0PCFkOmhv7UdcLReoMG05m) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Swinging Suites](https://open.spotify.com/album/7tCNBCYSxnp4PaIaMsUmh7) | 2:31 | 2021-12-02 | 2022-07-05 |
 | [Perpetual Motion](https://open.spotify.com/track/4hieYLeAsC9mpPtFntmMjU) | [Obey](https://open.spotify.com/artist/3LfwSfIGvAU8IsST3mEl7S), [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m), [Delia Li](https://open.spotify.com/artist/7tlRw4KWHqV3GqL8bVfJ9b) | [Perpetual Motion](https://open.spotify.com/album/7dztFOV0CPe67wtQjA43rh) | 3:26 | 2025-08-22 | 2025-12-13 |
 | [Piano Concerto No\. 2 \(feat\. Jeff Tain Watts, Silvano Monasterios & Chris Smith\)](https://open.spotify.com/track/1304Brw70MJMGq2l5UZmqv) | [Troy Roberts](https://open.spotify.com/artist/7J9YpX3eZIWlcRbDnbny88), [Jeff "Tain" Watts](https://open.spotify.com/artist/0hZXvDnljkma4aThiBMQ6h), [Silvano Monasterios](https://open.spotify.com/artist/7otPm9JdRxi8eO6DZPgY5Y), [Chris Smith](https://open.spotify.com/artist/5dMaOXLKrpk8oiW8fc7rek) | [Secret Rhymes](https://open.spotify.com/album/2HmRK7gOKbifwwMDCB4hpA) | 8:40 | 2021-12-02 | 2022-07-05 |
+| [Pink Lady](https://open.spotify.com/track/1cP2fGslG791XWTwz7Zkic) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Pink Lady](https://open.spotify.com/album/4ju3UGhD0gklblJdvNyu0y) | 2:14 | 2026-05-29 |  |
 | [Porgy & Bess: Oh, I can't sit down \(Arr\. for 4 Pianos by B\. Engeli & S\. Wirth\)](https://open.spotify.com/track/6HedzL9UiZ1MOnHzWPKzZo) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Gershwin Piano Quartet](https://open.spotify.com/artist/1vSBe5nEIu4j9wZ5AkvAgI) | [Gershwin: Porgy & Bess: Oh, I can't sit down \(Arr\. for 4 Pianos by B\. Engeli & S\. Wirth\)](https://open.spotify.com/album/1wLywKmINws48nUClTMgDQ) | 1:34 | 2024-11-15 | 2024-11-20 |
 | [Precious Joy](https://open.spotify.com/track/77XEV3Bvbm8Jur93KPvObi) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Blues On Bach](https://open.spotify.com/album/0h0djkzsIkooZkiKlgT9pc) | 3:15 | 2021-12-02 | 2022-07-05 |
 | [Prelude in E Minor](https://open.spotify.com/track/44ZIZqZyUSJciKQzKlGvZf) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [BAYATI](https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c) | 6:42 | 2022-03-31 |  |

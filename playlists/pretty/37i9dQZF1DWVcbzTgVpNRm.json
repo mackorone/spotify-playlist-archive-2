@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee",
-  "num_followers": 2129170,
+  "num_followers": 2129186,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2024-12-17 17:19:22",
       "album": {
-        "name": "Dinamitazos Tropicales de Siempre",
-        "url": "https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Lucho Perez",
-          "url": "https://open.spotify.com/artist/1FkShPhdyKcNIsGpxiYogj"
-        }
-      ],
-      "duration_ms": 155946,
-      "name": "Se Me Perdi\u00f3 la Cadenita",
-      "url": "https://open.spotify.com/track/7187wJoQMEZ4OhYIOp90Lk"
-    },
-    {
-      "added_at": "2024-12-17 17:19:22",
-      "album": {
         "name": "Loco Contigo (with J. Balvin & Tyga)",
         "url": "https://open.spotify.com/album/3HXHo0qkSUO4M9p6PEnA01"
       },
@@ -1823,6 +1803,26 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (with J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/1f38Gx6xQz6r4H1jGVNBJo"
+    },
+    {
+      "added_at": "2024-12-17 17:19:22",
+      "album": {
+        "name": "Dinamitazos Tropicales de Siempre",
+        "url": "https://open.spotify.com/album/2qBPvlvZqAqZ7oiGJYTpko"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Lucho Perez",
+          "url": "https://open.spotify.com/artist/1FkShPhdyKcNIsGpxiYogj"
+        }
+      ],
+      "duration_ms": 155946,
+      "name": "Se Me Perdi\u00f3 la Cadenita",
+      "url": "https://open.spotify.com/track/7187wJoQMEZ4OhYIOp90Lk"
     },
     {
       "added_at": "2024-12-17 17:19:22",

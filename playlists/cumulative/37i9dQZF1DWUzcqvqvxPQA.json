@@ -4215,6 +4215,24 @@
     },
     {
       "album": {
+        "name": "Joy Is Coming",
+        "url": "https://open.spotify.com/album/7luJgr2jPaTffmI16Nsfgk"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154743,
+      "name": "Joy Is Coming",
+      "url": "https://open.spotify.com/track/4t9D6MbFQQ6SWhsrsAJpfb"
+    },
+    {
+      "album": {
         "name": "Burn The Ships",
         "url": "https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh"
       },
@@ -4683,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "Looking For You",
+        "url": "https://open.spotify.com/album/4rIGflo5TdNJmO9QsxcxEQ"
+      },
+      "artists": [
+        {
+          "name": "Gable Price and Friends",
+          "url": "https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199698,
+      "name": "Looking For You",
+      "url": "https://open.spotify.com/track/4gKpsgQRhi3A8GCJRhZOrc"
+    },
+    {
+      "album": {
         "name": "Love / Home",
         "url": "https://open.spotify.com/album/6FN2OXacVXH97RLonyWVrl"
       },
@@ -4850,7 +4886,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 183702,
       "name": "Made for This",
       "url": "https://open.spotify.com/track/6RKTY3Hg1q19kmrlPzMCIh"
@@ -6184,7 +6220,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 123478,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"

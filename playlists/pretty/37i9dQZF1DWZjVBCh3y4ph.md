@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Naïka x Kalash
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,994 likes - 41 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,045 likes - 41 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

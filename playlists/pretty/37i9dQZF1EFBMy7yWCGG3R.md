@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,739 likes - 276 songs - 14 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,743 likes - 276 songs - 14 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,8 +194,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 184 | [Tights On My Boat](https://open.spotify.com/track/2iA9BkvtzkdGT4wxqqwzKh) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:02 |
 | 185 | [Real Life Stuff \(feat\. Julia Michaels & Clever\)](https://open.spotify.com/track/7bzITVONB47YcJIwLbpBGP) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 3:13 |
 | 186 | [FFF](https://open.spotify.com/track/03IcIKwRQSjMheOdEE7pmY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 3:32 |
-| 187 | [Wanna Know Love \- Piano Version](https://open.spotify.com/track/6gdMHSmw3BzqPx4zHwhJ3J) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Wanna Know Love \(Piano Version\)](https://open.spotify.com/album/5z7248FxCPEAkQ4Xz57UB6) | 3:11 |
-| 188 | [why'd you have to call](https://open.spotify.com/track/5U8PXUB4LqHLMTBPVhaUg3) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [stardust](https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4) | 4:13 |
+| 187 | [why'd you have to call](https://open.spotify.com/track/5U8PXUB4LqHLMTBPVhaUg3) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [stardust](https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4) | 4:13 |
+| 188 | [Wanna Know Love \- Piano Version](https://open.spotify.com/track/6gdMHSmw3BzqPx4zHwhJ3J) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Wanna Know Love \(Piano Version\)](https://open.spotify.com/album/5z7248FxCPEAkQ4Xz57UB6) | 3:11 |
 | 189 | [needy](https://open.spotify.com/track/1pF52VPPTgPeBzOjg3PyjH) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:11 |
 | 190 | [Skateboard](https://open.spotify.com/track/6b3cVicCSkCuzVdxXgklHT) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Skateboard](https://open.spotify.com/album/3LvC9rVWWKoTwC2bmTIrz0) | 2:54 |
 | 191 | [Keep Talking \(feat\. Julia Michaels\)](https://open.spotify.com/track/6ATnRclamgZgq5lx5m566f) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Phoenix \(Deluxe Edition\)](https://open.spotify.com/album/6Vn8F3hERVHYYz5RfKmsAN) | 3:33 |
@@ -214,8 +214,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 204 | [Favorite Place](https://open.spotify.com/track/6yHD1ZssjUIMndAVpmESZ4) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 2:48 |
 | 205 | [Give In To You](https://open.spotify.com/track/3JXB1YiJIwGkTeGdgYVFWR) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:23 |
 | 206 | [Pessimist](https://open.spotify.com/track/5YAkSJQDoAPx0zGgo8vHU2) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:17 |
-| 207 | [Work Too Much](https://open.spotify.com/track/508FoYYfy1YjC6ZVUMctZJ) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:17 |
-| 208 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 |
+| 207 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 |
+| 208 | [Work Too Much](https://open.spotify.com/track/508FoYYfy1YjC6ZVUMctZJ) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Inner Monologue Part 2](https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe) | 3:17 |
 | 209 | [Right Moves \(feat\. Keida & Shenseea\)](https://open.spotify.com/track/10EdIGnkizaN7v1uYljTd7) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Keida](https://open.spotify.com/artist/60W5voThnCKW5p1iH3KjQZ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 3:48 |
 | 210 | [Irresponsible](https://open.spotify.com/track/6k4BQUICZhtVxhK0pHTfkf) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:43 |
 | 211 | [Area Code](https://open.spotify.com/track/32IiIVnt5emxQNPDm6ZsgO) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Nick Jonas X2](https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei) | 2:41 |
@@ -233,8 +233,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 223 | [Me Without You](https://open.spotify.com/track/02XUnEfZexXh9bj66FeK4Y) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:33 |
 | 224 | [Undertone](https://open.spotify.com/track/0JeAo18bs3edkTQ30aZtih) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:16 |
 | 225 | [Wrapped Around](https://open.spotify.com/track/433GlmCc3VnUHqogFFQzq9) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:43 |
-| 226 | [chasing you](https://open.spotify.com/track/1b9FE0PI47eaWSPrfBW66I) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:02 |
-| 227 | [No Heartbreak's Killed Me Yet](https://open.spotify.com/track/58SMNUc42Art0NNE7aiWht) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [No Heartbreak's Killed Me Yet](https://open.spotify.com/album/65xHRIaffZ3DYvtKvSrLHW) | 2:37 |
+| 226 | [No Heartbreak's Killed Me Yet](https://open.spotify.com/track/58SMNUc42Art0NNE7aiWht) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [No Heartbreak's Killed Me Yet](https://open.spotify.com/album/65xHRIaffZ3DYvtKvSrLHW) | 2:37 |
+| 227 | [chasing you](https://open.spotify.com/track/1b9FE0PI47eaWSPrfBW66I) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:02 |
 | 228 | [Orange Magic](https://open.spotify.com/track/08Ov5PSmldmPxZDGufK6Pj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:53 |
 | 229 | [Nighttime Thing \(with Julia Michaels\)](https://open.spotify.com/track/0y4EfZFJECbLXHIap7vjlO) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 2:24 |
 | 230 | [yes no maybe](https://open.spotify.com/track/3PFSJheLU0OIQkQrxKDeUB) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [after the sun goes down](https://open.spotify.com/album/3e9xFKdGt0oS5O4fMubFT5) | 3:27 |
@@ -285,4 +285,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 275 | [Deep](https://open.spotify.com/track/01D0aVd8vRbRPIltg6Tbhw) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Julia Michaels](https://open.spotify.com/album/7nlsv3q4UQtP5Nj05k905a) | 4:57 |
 | 276 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `AcSvHAAAAADcTCCMs2wMNGnj9+ahXKOZ`
+Snapshot ID: `AcS02gAAAACFz6PjnOzrk2yCl/yuHvgu`

@@ -1,12 +1,12 @@
 {
   "description": "Melanie Martinez is having a main pop girl emergency \ud83c\udd98",
-  "num_followers": 228469,
+  "num_followers": 228553,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADWlKiyNBhv7p0lvX+Lqp7O3Cosg",
+  "snapshot_id": "AAAAAKaUyvup1KcVQwK83XdVOyu9VUQa",
   "tracks": [
     {
       "added_at": "2026-05-22 04:41:54",
@@ -39,6 +39,22 @@
       "duration_ms": 287055,
       "name": "DANCE...",
       "url": "https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ"
+    },
+    {
+      "added_at": "2026-05-29 04:19:09",
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 194450,
+      "name": "101",
+      "url": "https://open.spotify.com/track/2X8lHTavqDJoPr6GqbUEgf"
     },
     {
       "added_at": "2026-05-23 17:28:23",
@@ -451,22 +467,6 @@
       "duration_ms": 195913,
       "name": "Girl's Girl - Girls Trip",
       "url": "https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY"
-    },
-    {
-      "added_at": "2026-05-08 04:02:45",
-      "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/0xrQGzEnAjzDt55xG4L56w"
-      },
-      "artists": [
-        {
-          "name": "Luna Morgenstern",
-          "url": "https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh"
-        }
-      ],
-      "duration_ms": 128598,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/3uWuQ4TyNDY63aQbppYcyc"
     },
     {
       "added_at": "2026-04-17 04:01:28",

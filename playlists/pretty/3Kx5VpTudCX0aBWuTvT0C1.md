@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,693 likes - 53 songs - 3 hr 10 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,693 likes - 57 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,9 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 51 | [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 |
 | 52 | [Vamos Viendo](https://open.spotify.com/track/4sSJCnRfOZBZ8v7jD6PkPO) | [Ruido Cassette](https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx) | [Vamos Viendo](https://open.spotify.com/album/5I0KWYTTCxgaOlQOvoq4LI) | 3:05 |
 | 53 | [Wicked Wicked Ways](https://open.spotify.com/track/4kBbTTOEJYymlnLIFMAAxf) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW), [Collin Hegna](https://open.spotify.com/artist/0cZ4bVVf2bWEON39U2kPab), [Federale](https://open.spotify.com/artist/6KdkzNXhRBjPQxCSYgRxpH) | [Wicked Wicked Ways](https://open.spotify.com/album/1te5ThMkLbxy4Vht0rSOlm) | 3:44 |
+| 54 | [Travelodge](https://open.spotify.com/track/1X2ZccDDqnZICewb31H9Bm) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [Deep Cut EP](https://open.spotify.com/album/3KGDNN12K38UHMMK2Y9zRd) | 2:23 |
+| 55 | [Altrove](https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/1nOS4aWxRbGAYI06aSH2Rk) | 3:24 |
+| 56 | [We said Hi](https://open.spotify.com/track/5idEHknOLB6apZY52YceWt) | [Half Quiet](https://open.spotify.com/artist/5F48VKDyu8evEyKQIfBMcI) | [Left it on the table](https://open.spotify.com/album/4ZTZ2oRXuqK7j5zGKtnwug) | 2:38 |
+| 57 | [Be the Star That You Are](https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Be the Star That You Are](https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0) | 3:09 |
 
-Snapshot ID: `AAACjAidS7u9VnfqqzUdsY1e0ZDb/k2z`
+Snapshot ID: `AAACkA/prteheralSeYARLPDLwmUNl9Q`

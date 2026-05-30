@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "\u207a\u2027\u208a\u02da \u0f50\u0f72A curated space for the avant-garde\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a Cover: SUUNCAAT",
+  "description": "\u207a\u2027\u208a\u02da \u0f50\u0f72A curated space for the avant-garde\u22c6\u0f4b\u0f80 \u02da\u208a\u2027\u207a Cover: distraction4ever",
   "name": "Proto-",
   "tracks": [
     {
@@ -7035,6 +7035,24 @@
     },
     {
       "album": {
+        "name": "Rumspringa",
+        "url": "https://open.spotify.com/album/1EHtMAqAB6GSnw8IbuXFLn"
+      },
+      "artists": [
+        {
+          "name": "ear",
+          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234303,
+      "name": "Coil",
+      "url": "https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55"
+    },
+    {
+      "album": {
         "name": "Pleasure Is Everything",
         "url": "https://open.spotify.com/album/6gzbL250qiTrGwsqvKw1O7"
       },
@@ -9544,7 +9562,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 236571,
       "name": "Doing It Wrong",
       "url": "https://open.spotify.com/track/7JV9PR0p7ejQmRugzlFTyp"
@@ -16542,6 +16560,24 @@
       "duration_ms": 257437,
       "name": "I Won't Bite",
       "url": "https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx"
+    },
+    {
+      "album": {
+        "name": "Life is a Laugh",
+        "url": "https://open.spotify.com/album/3HDfizvKh22esbFeGjHLyP"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141349,
+      "name": "I Would Live Forever if I Could",
+      "url": "https://open.spotify.com/track/5YDkohjmfZmrktCEBP2qAs"
     },
     {
       "album": {
@@ -29826,7 +29862,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 156712,
       "name": "SIN TI",
       "url": "https://open.spotify.com/track/1GZDAFYyeWt4zv8ilqChZl"
@@ -31571,7 +31607,7 @@
     },
     {
       "album": {
-        "name": "stone scultped heart",
+        "name": "stone sculpted heart",
         "url": "https://open.spotify.com/album/6aqZH96RIf4ikXh35FoQGX"
       },
       "artists": [
@@ -31584,7 +31620,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176307,
-      "name": "stone scultped heart",
+      "name": "stone sculpted heart",
       "url": "https://open.spotify.com/track/10TQ5jFLDmJlOyfJQKIOMZ"
     },
     {
@@ -31884,7 +31920,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 132923,
       "name": "SUBSTRATUM",
       "url": "https://open.spotify.com/track/34eUeC0plRGfQddzrav04N"
@@ -33924,7 +33960,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 180520,
       "name": "Through The Pain (feat. Pozer)",
       "url": "https://open.spotify.com/track/0AFTmRJtR1AorwJ6XlOn8I"
@@ -34556,6 +34592,28 @@
       "duration_ms": 170769,
       "name": "True Religion",
       "url": "https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M"
+    },
+    {
+      "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/0XMjbxucfssiTM8j1dOihh"
+      },
+      "artists": [
+        {
+          "name": "Dj Cin\u00e9ma Quartier Latin",
+          "url": "https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD"
+        },
+        {
+          "name": "DrEy ArMaNi",
+          "url": "https://open.spotify.com/artist/7LtBQwlFZiHT8UygQ5fNqG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214993,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3rFOMdbscUP3ofTH2bCxjT"
     },
     {
       "album": {

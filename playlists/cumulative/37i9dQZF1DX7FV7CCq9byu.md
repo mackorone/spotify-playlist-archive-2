@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,756 songs - 3 day 17 hr 56 min
+1,757 songs - 3 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,6 +606,7 @@
 | [Harley Pt\. 2](https://open.spotify.com/track/2NhLmzbbr44giCxzwoSAAD) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [A Glitch In The Matrix](https://open.spotify.com/album/3DFQ8HHK62kGV4yknGe9KP) | 4:25 | 2025-09-25 | 2025-11-21 |
 | [Hatar att jag älskar dig](https://open.spotify.com/track/4NF6LZiq3UJwVAAkpd5DWC) | [Felix Manu](https://open.spotify.com/artist/2gXs1tQmQNe5bAUU726Ohd) | [Hatar att jag älskar dig](https://open.spotify.com/album/4eQBOKPGkfYIkPSk0goOaw) | 2:58 | 2026-02-19 | 2026-04-10 |
 | [Hate Being Alone](https://open.spotify.com/track/3GMVYiGXxzDanIfoowfBOa) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [ELLE](https://open.spotify.com/album/3mufRbVLnu4dO8dP8fJRb0) | 3:05 | 2024-06-27 | 2024-08-02 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Hate To Love](https://open.spotify.com/track/0FQrZ9z8qTnG6teIZhb3EY) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Hate To Love](https://open.spotify.com/album/5AXLTxMpHICBifTJXDESzS) | 3:05 | 2025-06-05 | 2025-07-11 |
 | [Hate You So Much](https://open.spotify.com/track/3zqr8gsLOdlRehxOD3pZpe) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Hate You So Much](https://open.spotify.com/album/3OvBELEOFwys8gcBW4WN8U) | 2:36 | 2025-02-27 | 2025-04-18 |
 | [Hazy Eyes](https://open.spotify.com/track/6LC1blcEVm5CcChPJlMuhA) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Hazy Eyes](https://open.spotify.com/album/2UrQrExipPqMumIA5bzYOc) | 3:10 | 2025-11-13 | 2026-02-06 |

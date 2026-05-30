@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-366 songs - 21 hr 14 min
+367 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [MI VIEJO](https://open.spotify.com/track/4sN0m8KGkPsyBEDhEE2oBm) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [MI VIEJO](https://open.spotify.com/album/681q2pGU7k5hFiEABZPdAZ) | 3:13 | 2024-06-14 | 2024-07-10 |
 | [Mi Único Amor](https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:01 | 2025-07-04 | 2025-10-25 |
 | [Mil Horas](https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Mil Horas](https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy) | 3:47 | 2025-06-27 | 2025-10-25 |
+| [MIRAME](https://open.spotify.com/track/1X0WXEgU3XJfRFKUQns9eB) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [ELECTRA](https://open.spotify.com/album/2x76fsMOyFDwjqVLSS7sKf) | 2:35 | 2026-05-29 |  |
 | [Mirá Como Está La Vagancia](https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Sin Remedio](https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT) | 4:59 | 2025-06-10 | 2025-06-28 |
 | [Mix Mario Luis](https://open.spotify.com/track/7KOxY0PLyGp4TX8AZYYgMp) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx), [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB) | [Mix Mario Luis](https://open.spotify.com/album/3wCS6ofFvoetcmLFl84vhe) | 8:06 | 2023-06-16 | 2023-09-27 |
 | [Muchacha Sola](https://open.spotify.com/track/6rG6nIg3UCyjaIx96R9pge) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Cumbia Sabrosa](https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm) | 3:32 | 2025-06-10 | 2025-06-28 |
@@ -230,7 +231,7 @@
 | [No Te Vayas](https://open.spotify.com/track/2TzyHTZtgQM5G9LrSIAkjj) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Te Vayas](https://open.spotify.com/album/5fLXLwHK9MshuBwROf4ILu) | 2:19 | 2023-05-05 |  |
 | [No voy a llorar](https://open.spotify.com/track/0bCzLxE6tIXD9RNYErYrIE) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [Altos Cumbieros \- Cumbia Villera](https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF) | 3:08 | 2023-05-05 |  |
 | [Noche de Estrellas](https://open.spotify.com/track/5wMQvQ2DAzyQpMAID2ccGB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:35 | 2025-07-04 | 2025-10-25 |
-| [Noche de Party](https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Noche de Party](https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD) | 2:32 | 2023-05-05 |  |
+| [Noche de Party](https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Noche de Party](https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD) | 2:32 | 2023-05-05 | 2026-05-30 |
 | [Nunca Es Suficiente](https://open.spotify.com/track/4yV1J93B4CoqtBFnD5DOi2) | [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8) | [Nunca Es Suficiente](https://open.spotify.com/album/73GNhslDnzJTSxV4p0LRxu) | 4:22 | 2025-06-10 | 2025-10-25 |
 | [Nunca me Faltes](https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4gSWFSdQ5JnM0PCBlNvNiI) | 4:10 | 2025-06-27 | 2025-10-25 |
 | [Nunca me faltes](https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK) | 4:13 | 2023-05-05 | 2024-04-19 |

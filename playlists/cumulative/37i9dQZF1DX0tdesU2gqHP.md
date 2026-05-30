@@ -2,9 +2,9 @@
 
 ### [Pop Music Videos](https://open.spotify.com/playlist/37i9dQZF1DX0tdesU2gqHP)
 
-> The best videos from the world of pop! <br/>Music videos only available on Premium.
+> The best videos from the world of pop!
 
-119 songs - 6 hr 34 min
+123 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [bittersweet](https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [bittersweet](https://open.spotify.com/album/6lR8zt2MKz7xdqBQqxZ5yR) | 3:22 | 2026-01-20 |  |
 | [BOSS UP](https://open.spotify.com/track/458u353fkPaERY2SoOGPl3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BOSS UP](https://open.spotify.com/album/4cxSdv07XksJwlpiXc1WHn) | 2:31 | 2026-01-20 | 2026-04-07 |
 | [Call Me When You Break Up \(with Gracie Abrams\)](https://open.spotify.com/track/6JCdIHw675Lc0u2vXzERqU) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 2:06 | 2025-12-09 | 2026-05-16 |
+| [Caution](https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [K\-POPS! \(Music from and inspired by K\-POPS! Motion Picture\)](https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS) | 2:43 | 2026-05-29 |  |
 | [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 | 2026-05-01 |  |
 | [Chains of Love](https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Chains of Love](https://open.spotify.com/album/6pSGolbfux1G7aSSJP0OQU) | 2:50 | 2026-03-20 |  |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-12-29 |  |
@@ -49,6 +50,7 @@
 | [Gnarly \(Live\) \| Spotify Best New Artist](https://open.spotify.com/track/2zoci1Endv9cwcyYF00mYr) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gnarly \(Live\) \| Spotify Best New Artist](https://open.spotify.com/album/22YsfExa6uLecnP0NPNOK0) | 2:17 | 2026-02-13 | 2026-05-16 |
 | [GO](https://open.spotify.com/track/0mYa3o6tlUN5HRippmKmwH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC) | 3:15 | 2026-02-27 |  |
 | [GO!](https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:50 | 2025-12-29 | 2026-04-10 |
+| [Handle](https://open.spotify.com/track/6NDvhN0PFBIioNAbM4EDak) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Handle](https://open.spotify.com/album/7lnMFvhJ0IU7KbludkIay0) | 3:06 | 2026-05-29 |  |
 | [Heavenly](https://open.spotify.com/track/0WAfD3WFJgV5qT39XQlU6v) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Heavenly](https://open.spotify.com/album/1bdyX4COcfl10V9uceQgnk) | 2:42 | 2026-03-31 | 2026-05-16 |
 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-05-15 |  |
 | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 | 2026-03-20 |  |
@@ -96,7 +98,7 @@
 | [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 | 2026-04-20 |  |
 | [Pretty Baby](https://open.spotify.com/track/78ZGO8OXHHBYg2ZhMNaywU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Pretty Baby](https://open.spotify.com/album/3r1xlXd5nl8DgO9RGJWZZO) | 3:23 | 2026-02-23 | 2026-05-16 |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl) | 5:39 | 2026-02-13 |  |
-| [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 | 2026-04-20 |  |
+| [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 | 2026-04-20 | 2026-05-30 |
 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 | 2026-02-27 |  |
 | [Rock Music](https://open.spotify.com/track/0Pmx1DWnv6x9tu2zFz3WMF) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Rock Music](https://open.spotify.com/album/3IIJMiFpMKICTRSnIIi6z7) | 2:04 | 2026-05-09 |  |
 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 | 2026-05-01 |  |
@@ -111,12 +113,14 @@
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-12-09 |  |
 | [So What?](https://open.spotify.com/track/7pPlYTyclR6CKwf7sxVl3U) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [So What?](https://open.spotify.com/album/7dyhn0rKw6tYDlV2vyDiB9) | 2:48 | 2026-05-22 |  |
 | [Sports car](https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 2:45 | 2025-12-09 |  |
+| [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 | 2026-05-29 |  |
 | [Stateside + Zara Larsson](https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 3:04 | 2026-02-13 |  |
 | [SWEET LOVE](https://open.spotify.com/track/1bx6QL4eUThXV2jS3B9atn) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [SWEET LOVE](https://open.spotify.com/album/1LEX8A7hoDloo5pJrVrb2f) | 2:25 | 2026-03-20 |  |
 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 | 2026-03-31 |  |
 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/1tLZhEZgYZGP0GeopkBjSG) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/77YroeAWQJO7OkQsx3GfCz) | 3:13 | 2025-12-09 | 2026-01-15 |
 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-22 |  |
 | [The Fate of Ophelia](https://open.spotify.com/track/6g8bTcPOpvBK2LXbF0Q0s6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Fate of Ophelia](https://open.spotify.com/album/3YJsBUn8u0IAkidpyXM117) | 3:58 | 2026-01-09 |  |
+| [The Last Encounter](https://open.spotify.com/track/3cKyBigEDROC8U1QrY921a) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [The Last Encounter](https://open.spotify.com/album/7FxjVKOU9UL90KAwsvJ0y6) | 3:04 | 2026-05-29 |  |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-12-09 | 2026-05-16 |
 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-03-20 |  |
 | [Truth Of Pursuit](https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Fleeting](https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA) | 2:51 | 2026-03-20 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Akari Kito. The essential tracks, all in one playlist.",
-  "num_followers": 2356,
+  "num_followers": 2357,
   "original_name": "This Is Akari Kito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAAAnbTxTe5tKaL+Pwg15bqGe",
+  "snapshot_id": "aheFgAAAAADXn2IxtLAx1rvtJbyYYfwB",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light Me Up",
-        "url": "https://open.spotify.com/album/5APG9tmgTjocMcFYvzucxV"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "HYPE ALIVE",
-      "url": "https://open.spotify.com/track/1jsVXC1HPMtL6hYvOw96Ej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dear Doze Days",
         "url": "https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 261306,
       "name": "Dear Doze Days",
       "url": "https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Light Me Up",
+        "url": "https://open.spotify.com/album/5APG9tmgTjocMcFYvzucxV"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "HYPE ALIVE",
+      "url": "https://open.spotify.com/track/1jsVXC1HPMtL6hYvOw96Ej"
     },
     {
       "added_at": null,
@@ -428,7 +428,7 @@
       "added_at": null,
       "album": {
         "name": "Luminous",
-        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
+        "url": "https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 253040,
-      "name": "illminate",
-      "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
+      "duration_ms": 231866,
+      "name": "Dead or Call My Name",
+      "url": "https://open.spotify.com/track/3NJOcuEiL474TtLqqOupmU"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Thread",
-        "url": "https://open.spotify.com/album/4aLypy3XVbwAl5m77cubJL"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "From Fate",
-      "url": "https://open.spotify.com/track/3H38hshUqjNGMBa1uX5v8H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Me Five!",
         "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
       },
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa"
+        "name": "Dream Thread",
+        "url": "https://open.spotify.com/album/4aLypy3XVbwAl5m77cubJL"
       },
       "artists": [
         {
@@ -500,15 +484,15 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 231866,
-      "name": "Dead or Call My Name",
-      "url": "https://open.spotify.com/track/3NJOcuEiL474TtLqqOupmU"
+      "duration_ms": 200933,
+      "name": "From Fate",
+      "url": "https://open.spotify.com/track/3H38hshUqjNGMBa1uX5v8H"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
-        "url": "https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm"
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 215653,
-      "name": "Dive to World",
-      "url": "https://open.spotify.com/track/3Yisssl9wA0HWNSpLf1BfI"
+      "duration_ms": 253040,
+      "name": "illminate",
+      "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
+        "url": "https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 258866,
+      "name": "\u30c8\u30a6\u30e1\u30a4\u30ca\u30e6\u30e1",
+      "url": "https://open.spotify.com/track/6VNvK8OTmrrw4TJ3mKuEX5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
       },
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 184626,
-      "name": "BYERONY",
-      "url": "https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv"
+      "duration_ms": 227920,
+      "name": "Crescent Lullaby",
+      "url": "https://open.spotify.com/track/16o8ITScy3QsF24fgDHgF3"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
-        "url": "https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 258866,
-      "name": "\u30c8\u30a6\u30e1\u30a4\u30ca\u30e6\u30e1",
-      "url": "https://open.spotify.com/track/6VNvK8OTmrrw4TJ3mKuEX5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Me Five!",
         "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067",
+        "url": "https://open.spotify.com/album/3GkNqM2Rt71iqw0kbS0zTm"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 215653,
+      "name": "Dive to World",
+      "url": "https://open.spotify.com/track/3Yisssl9wA0HWNSpLf1BfI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg"
       },
@@ -628,25 +628,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 204986,
-      "name": "Oxidation",
-      "url": "https://open.spotify.com/track/7JL4OxDA8P6sehYvuQRLlZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dear Doze Days",
-        "url": "https://open.spotify.com/album/32fWaY2GMkzb67EsHYc1WZ"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Fleeting Time",
-      "url": "https://open.spotify.com/track/78g4QBVg1TnTUADNagBwVB"
+      "duration_ms": 184626,
+      "name": "BYERONY",
+      "url": "https://open.spotify.com/track/5SKv76eLYPRC14ww33LWNv"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dear Doze Days",
+        "url": "https://open.spotify.com/album/32fWaY2GMkzb67EsHYc1WZ"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Fleeting Time",
+      "url": "https://open.spotify.com/track/78g4QBVg1TnTUADNagBwVB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desire Again",
         "url": "https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK"
       },
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u307f\u3061\u304f\u3055",
-        "url": "https://open.spotify.com/album/2Qn7c6ilWo9ovRXieweXaS"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 277986,
-      "name": "\u6674\u308c\u5f85\u3061\u30ce\u30aa\u30c8",
-      "url": "https://open.spotify.com/track/2zxGnbP5LEBmwDlYTNCT0R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Give Me Five!",
         "url": "https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA"
       },
@@ -743,6 +727,38 @@
       "duration_ms": 225720,
       "name": "Unchained mind",
       "url": "https://open.spotify.com/track/3C9KTBsj3y4wdLnzCOk8ZS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiny Light Live at Nagoyashikokaido 2020/10/3",
+        "url": "https://open.spotify.com/album/1lagESEbbM09Kw25B5DEgY"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 295320,
+      "name": "Tiny Light Live at Nagoyashikokaido 2020/10/3",
+      "url": "https://open.spotify.com/track/5zpU1HBbzRG6SEEcDV110T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u307f\u3061\u304f\u3055",
+        "url": "https://open.spotify.com/album/2Qn7c6ilWo9ovRXieweXaS"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 277986,
+      "name": "\u6674\u308c\u5f85\u3061\u30ce\u30aa\u30c8",
+      "url": "https://open.spotify.com/track/2zxGnbP5LEBmwDlYTNCT0R"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 259000,
       "name": "\u660e\u65e5\u3078\u9cf4\u3089\u3059\u30ea\u30d5\u30ec\u30a4\u30f3 - P's GR\u221eVE Ver.",
       "url": "https://open.spotify.com/track/14mDs8AcPxuMhXuFVPzq9l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tiny Light Live at Nagoyashikokaido 2020/10/3",
-        "url": "https://open.spotify.com/album/1lagESEbbM09Kw25B5DEgY"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 295320,
-      "name": "Tiny Light Live at Nagoyashikokaido 2020/10/3",
-      "url": "https://open.spotify.com/track/5zpU1HBbzRG6SEEcDV110T"
     },
     {
       "added_at": null,

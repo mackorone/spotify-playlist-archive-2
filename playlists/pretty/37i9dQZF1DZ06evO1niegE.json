@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 9085,
+  "num_followers": 9093,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAABtfKvXa/lz2dHpt3TI4lIp",
+  "snapshot_id": "aheFgAAAAAB1FvokAuRnVHpydBDVODhb",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alta Joya",
+        "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Alta Joya",
+      "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AHORA O NUNCA",
         "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
       },
@@ -835,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FENGSHUI",
-        "url": "https://open.spotify.com/album/4GyPYw8WpzPg3ZB9Daieyh"
-      },
-      "artists": [
-        {
-          "name": "Maximiliano Calvo",
-          "url": "https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 162883,
-      "name": "FENGSHUI",
-      "url": "https://open.spotify.com/track/164CZjnTexbOglCCrao8jo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breve Espacio",
         "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
       },
@@ -871,22 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alta Joya",
-        "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
+        "name": "FENGSHUI",
+        "url": "https://open.spotify.com/album/4GyPYw8WpzPg3ZB9Daieyh"
       },
       "artists": [
         {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+          "name": "Maximiliano Calvo",
+          "url": "https://open.spotify.com/artist/0KMw0OgYPWlF3hgQGY0VTT"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 201200,
-      "name": "Alta Joya",
-      "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
+      "duration_ms": 162883,
+      "name": "FENGSHUI",
+      "url": "https://open.spotify.com/track/164CZjnTexbOglCCrao8jo"
     },
     {
       "added_at": null,

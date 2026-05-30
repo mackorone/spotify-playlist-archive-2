@@ -4,7 +4,7 @@
 
 > Celebrating the power of amazing female pop artists\. Cover: Olivia Rodrigo
 
-676 songs - 1 day 15 hr 47 min
+678 songs - 1 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-12-04 | 2025-01-18 |
 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 | 2019-06-21 | 2022-04-21 |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2021-03-08 | 2024-09-21 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [hate u love u](https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [hate u love u](https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw) | 2:55 | 2019-05-26\* | 2022-07-29 |
 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/0ofbQMrRDsUaVKq2mGLEAb) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Havana \(feat\. Young Thug\)](https://open.spotify.com/album/5chBPOVY2I0bG5V3igb5QL) | 3:36 | 2019-05-27 | 2019-08-22 |
 | [Havana \(feat\. Young Thug\)](https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:37 | 2022-03-25 |  |
@@ -568,6 +569,7 @@
 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj) | 3:41 | 2019-06-24 | 2024-07-04 |
 | [Strongest](https://open.spotify.com/track/7FIcIjKaQJpy0vWWFZMZGH) | [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Strongest](https://open.spotify.com/album/7gSglpAFI2TE22L0LfqE1t) | 3:27 | 2021-03-02 | 2022-04-15 |
 | [Sucker Punch](https://open.spotify.com/track/7aHUol3Vz9xHm4Yot2dSKi) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Sucker Punch](https://open.spotify.com/album/5ZahfPNPqf08xrnoyIVIa3) | 3:14 | 2019-06-22 | 2022-04-20 |
+| [Sue me](https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:50 | 2026-05-29 |  |
 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 | 2024-12-04 | 2025-01-18 |
 | [Sunny Came Home](https://open.spotify.com/track/4mOxpj82q6n3EO7HBZCelX) | [Shawn Colvin](https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA) | [A Few Small Repairs](https://open.spotify.com/album/3EZXmJz03Dj8sB3K26Gmx8) | 4:24 | 2021-03-17 | 2022-04-19 |
 | [Sunrise In The East](https://open.spotify.com/track/4LUnZWnO2E2NDUOhfFJr2E) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Sunrise In The East](https://open.spotify.com/album/2bJwzYDYgZyQ5QDQbLAxno) | 3:14 | 2019-06-24 | 2020-02-18 |
@@ -588,7 +590,7 @@
 | [Tell Me You Love Me \- Spanish Version](https://open.spotify.com/track/2scOpCkXHdjx5Pba0T1S68) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me \(Remixes\)](https://open.spotify.com/album/6N5R4CLYRqoYXq1MHOcKxw) | 3:58 | 2019-06-23 | 2019-06-28 |
 | [Tenemos Historia](https://open.spotify.com/track/4TbIG90xIGy9LqmbYztc0C) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Tenemos Historia](https://open.spotify.com/album/4nniuJzbgXO8cZ1SYl1tjn) | 3:48 | 2021-03-07 | 2022-04-09 |
 | [Terrified](https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Terrified](https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2) | 2:25 | 2022-04-01 | 2022-07-07 |
-| [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2019-05-26\* |  |
+| [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2019-05-26\* | 2026-05-30 |
 | [Thank You](https://open.spotify.com/track/751gBcu62kORDelX7FV0mM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk) | 3:37 | 2021-03-09 | 2022-04-21 |
 | [That Don't Impress Me Much](https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:58 | 2021-03-08 | 2022-04-20 |
 | [That's My Girl](https://open.spotify.com/track/2ACOWPLUe4A4KuQ5ioD2od) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:24 | 2019-05-26\* | 2022-07-29 |
@@ -676,7 +678,7 @@
 | [You Need To Calm Down](https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:51 | 2020-03-09 | 2022-08-13 |
 | [You Need To Calm Down](https://open.spotify.com/track/29fRTIKsJhLUJoldM89GZS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You Need To Calm Down](https://open.spotify.com/album/21dd5QyItuoqvPkViQXlKf) | 2:51 | 2019-08-29 | 2022-07-29 |
 | [You should be sad](https://open.spotify.com/track/4ncDAlyP3gmCWefTlj27zp) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [You should be sad](https://open.spotify.com/album/0hXbi1NMz8paMkILeQEWW8) | 3:25 | 2020-03-08 | 2022-02-25 |
-| [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 | 2021-03-02 |  |
+| [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 | 2021-03-02 | 2026-05-30 |
 | [You've Got The Love](https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 2:48 | 2020-06-12 | 2022-04-20 |
 | [You've Got Your Whole Life Ahead of You Baby](https://open.spotify.com/track/5oNE1olhKsyCjLJslVBghX) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Emotional Education](https://open.spotify.com/album/1hmaSfia4BoTi6fmndmQ2r) | 3:45 | 2020-06-12 | 2022-04-20 |
 | [Your Love Is My Drug](https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:07 | 2024-04-15 | 2024-05-07 |

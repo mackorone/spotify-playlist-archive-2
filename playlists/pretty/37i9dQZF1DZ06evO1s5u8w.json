@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 202782,
+  "num_followers": 202788,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAACOW5nM1kNkUUyJTuObm8GV",
+  "snapshot_id": "aheFgAAAAADZ0xmUwm8J82Jl8YC5Rg1i",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
+        "name": "Little Creatures (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 238906,
-      "name": "The Lady Don't Mind - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh"
+      "duration_ms": 222413,
+      "name": "Stay up Late - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5DAW2q6DYyfNe4npGYKaHt"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1ErneCyxOnZ1KTiEcNmnjw"
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 222413,
-      "name": "Stay up Late - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5DAW2q6DYyfNe4npGYKaHt"
+      "duration_ms": 238906,
+      "name": "The Lady Don't Mind - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh"
     },
     {
       "added_at": null,

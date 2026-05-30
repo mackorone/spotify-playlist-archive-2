@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 31970,
+  "num_followers": 31974,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAABf5k4wTAv2TY4T566Y0+N2",
+  "snapshot_id": "aheFgAAAAAAuBKz4BQojeasOaqF8/f+S",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Un Golpe De Suerte",
-      "url": "https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 201960,
       "name": "Se Me Olvid\u00f3 Olvidarte",
       "url": "https://open.spotify.com/track/08N4oh208BCKzkVfNV7FIQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Un Golpe De Suerte",
+      "url": "https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00edas de Ayer",
         "url": "https://open.spotify.com/album/5G24MWnlBvrynYjrlIQt5j"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/4x9sXcbLTRlKNvHbzUp1w7"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 189933,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/1nk048JMIWk2EV7mFoahfH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 218733,
       "name": "Cindy Don't Know",
       "url": "https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/4x9sXcbLTRlKNvHbzUp1w7"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/1nk048JMIWk2EV7mFoahfH"
     },
     {
       "added_at": null,
@@ -739,22 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
+        "name": "En Camino",
+        "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
       },
       "artists": [
         {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+          "name": "Vuelta en U",
+          "url": "https://open.spotify.com/artist/6tHXJ2caQoobX1cnUAEa8S"
         },
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 135266,
-      "name": "Mujer Maravilla",
-      "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
+      "duration_ms": 217199,
+      "name": "Vuelta En U (feat. Bobby Pulido)",
+      "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
     },
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/47GyS5jhX8tFSySSGkuprD"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 135266,
+      "name": "Mujer Maravilla",
+      "url": "https://open.spotify.com/track/6WQEjrSvNCxYM5BXlQ6eLB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ens\u00e9\u00f1ame",
         "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 212893,
       "name": "La Plancha",
       "url": "https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Camino",
-        "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
-      },
-      "artists": [
-        {
-          "name": "Vuelta en U",
-          "url": "https://open.spotify.com/artist/6tHXJ2caQoobX1cnUAEa8S"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 217199,
-      "name": "Vuelta En U (feat. Bobby Pulido)",
-      "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
     },
     {
       "added_at": null,

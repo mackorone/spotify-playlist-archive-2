@@ -4477,6 +4477,24 @@
     },
     {
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/2M1g78NcTlCslDoqyrz9qZ"
+      },
+      "artists": [
+        {
+          "name": "Alaia & Gallo",
+          "url": "https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197583,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/6hyQYRBReZsg3rX7uBZLcg"
+    },
+    {
+      "album": {
         "name": "Sweet Nothing (2025 Edit)",
         "url": "https://open.spotify.com/album/4i8AwmJIMxxO8RrXOkjm3p"
       },

@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bluay
 
-904 songs - 1 day 23 hr 42 min
+904 songs - 1 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [Longe](https://open.spotify.com/track/6f8pxYAEPtolYp4JKdh4YB) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [Longe](https://open.spotify.com/album/0dX4dmqGhGmbDxiDq2ya1Q) | 3:45 | 2022-11-11 | 2022-12-02 |
 | [LONGE](https://open.spotify.com/track/0P42hkV71GOK9De2sE2Z7X) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [LONGE](https://open.spotify.com/album/6ZJAX2okTcqQd72Ha9aYV1) | 2:31 | 2026-04-09 | 2026-04-17 |
 | [longe.com](https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [longe.com](https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA) | 3:17 | 2024-02-16 | 2026-02-20 |
+| [Look What You've Done](https://open.spotify.com/track/1Umi992NaKD6NoFkUujkNS) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Elephant In The Room](https://open.spotify.com/album/55aRlTcoJzesDzpi4qlbua) | 2:47 | 2026-05-28 |  |
 | [Losing](https://open.spotify.com/track/7w2yYropy6oWtdrrQZX6EZ) | [SLR](https://open.spotify.com/artist/76VHpa0HS1HbibsmCYo4oD) | [Losing](https://open.spotify.com/album/7KoeAFFIVeRL1VDajEgLjI) | 3:56 | 2022-10-13 | 2022-11-11 |
 | [Love Again](https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Love Again](https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ) | 3:28 | 2022-12-23 | 2024-03-15 |
 | [love fora de stock](https://open.spotify.com/track/6Z1kJFolqUG6pVksvXl8jc) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [love fora de stock](https://open.spotify.com/album/3NW26Phdu93L9Jo4oWeClv) | 3:00 | 2024-03-15 | 2024-04-19 |
@@ -825,7 +826,6 @@
 | [TOU NA MESMA](https://open.spotify.com/track/38pmZyhyQSY8hCOM65RHWC) | [BUH BUH](https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU) | [TOU NA MESMA](https://open.spotify.com/album/5RfQqIydnZmOgqVAnD9upg) | 3:25 | 2024-04-18 | 2024-05-04 |
 | [Tou Off](https://open.spotify.com/track/0FB7uPeeVlMJllljKRXAbP) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Tou Off](https://open.spotify.com/album/1UQdAkoiFLFlNPKpk7WREn) | 2:44 | 2025-06-13 | 2025-07-29 |
 | [Toxic](https://open.spotify.com/track/5y5whWaKrsHfPstxEvSRXo) | [DX](https://open.spotify.com/artist/0omUGjQF2J7gdIUaJqlnzR) | [Toxic](https://open.spotify.com/album/2sfSoDqx6QohDOVG7mmV0f) | 2:22 | 2022-12-23 | 2023-01-21 |
-| [Track 5](https://open.spotify.com/track/1Umi992NaKD6NoFkUujkNS) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Elephant In The Room](https://open.spotify.com/album/55aRlTcoJzesDzpi4qlbua) | 0:00 | 2026-05-28 |  |
 | [Triste \(Pensas Em Mim\)](https://open.spotify.com/track/2Ym9McKj9QGLjoe0MFaCzm) | [RAISSA](https://open.spotify.com/artist/44zte6km7DPWrgPJqOLu0m) | [Triste \(Pensas Em Mim\)](https://open.spotify.com/album/4NWM9iVA8OfQd9WI6oR0DK) | 3:18 | 2024-12-06 | 2025-01-17 |
 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 | 2024-02-16 | 2025-02-14 |
 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 | 2022-07-07 | 2025-07-11 |

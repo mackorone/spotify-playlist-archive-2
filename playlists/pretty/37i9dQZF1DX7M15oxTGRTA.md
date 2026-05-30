@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,278 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,335 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 22 | [Lovin' You](https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Perfect Angel](https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9) | 3:43 |
 | 23 | [Footsteps in the Dark, Pts\. 1 & 2](https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Go for Your Guns](https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l) | 5:06 |
 | 24 | [Sweet Love](https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:26 |
-| 25 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 |
-| 26 | [Kiss and Say Goodbye](https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Manhattans \(Expanded Version\)](https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv) | 4:26 |
+| 25 | [Kiss and Say Goodbye](https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Manhattans \(Expanded Version\)](https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv) | 4:26 |
+| 26 | [If You Want Me to Stay](https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Fresh](https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD) | 3:00 |
 | 27 | [Rush Rush](https://open.spotify.com/track/015qd1I4v00JIoK7yOUgKC) | [Paula Abdul](https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j) | [Spellbound](https://open.spotify.com/album/6gHhunUztPgpyBmzeie6MH) | 4:52 |
 | 28 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
 | 29 | [Strawberry Letter 23](https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Right On Time](https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe) | 4:59 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 46 | [Tell Me If You Still Care](https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB) | [The S.O.S Band](https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6) | [On The Rise](https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb) | 6:56 |
 | 47 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 |
 | 48 | [Haven't You Heard](https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 6:45 |
-| 49 | [Baby I'm Ready](https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo) | [Levert](https://open.spotify.com/artist/6E4Qe7pd7cwxRCwINyELaL) | [Rope A Dope Style](https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta) | 5:22 |
-| 50 | [Arrow Through Me \- Remastered 1993](https://open.spotify.com/track/3NiYvMjp5A3FZmP3dojS8k) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Back To The Egg](https://open.spotify.com/album/3zMRSD0zUqopFPaoER2ODc) | 3:36 |
+| 49 | [Arrow Through Me \- Remastered 1993](https://open.spotify.com/track/3NiYvMjp5A3FZmP3dojS8k) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Back To The Egg](https://open.spotify.com/album/3zMRSD0zUqopFPaoER2ODc) | 3:36 |
+| 50 | [Baby I'm Ready](https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo) | [Levert](https://open.spotify.com/artist/6E4Qe7pd7cwxRCwINyELaL) | [Rope A Dope Style](https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta) | 5:22 |
 | 51 | [Searching](https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Vibrations](https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z) | 4:00 |
 | 52 | [Computer Love](https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 4:42 |
 | 53 | [Never Knew Love Like This Before](https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [The Best Of Stephanie Mills](https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO) | 5:25 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 64 | [Don't You Know That?](https://open.spotify.com/track/5RooV1JApOOviPiQcho9xx) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 4:02 |
 | 65 | [You Put A Move On My Heart](https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 6:13 |
 | 66 | [Ready Or Not](https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [After 7](https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W) | 4:35 |
-| 67 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
-| 68 | [Devotion](https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 4:50 |
+| 67 | [Devotion](https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Open Our Eyes](https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0) | 4:50 |
+| 68 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
 | 69 | [Don't Ask My Neighbors](https://open.spotify.com/track/2GZe8LsPldakpQy5T8151f) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 4:27 |
 | 70 | [Someday We'll All Be Free](https://open.spotify.com/track/0iJP3XxZNE8tP7YnB23J1r) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Extension of a Man](https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7) | 4:10 |
 | 71 | [If Only You Knew](https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [I'm In Love Again](https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy) | 4:45 |

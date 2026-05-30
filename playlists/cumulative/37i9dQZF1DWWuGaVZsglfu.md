@@ -2,9 +2,9 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: CORTIS
+> The best tracks from the world of music\. Cover: Olivia Rodrigo
 
-533 songs - 1 day 6 hr 28 min
+534 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Hamba Cinta](https://open.spotify.com/track/3OKwXs0gGY9yZuvUBiXyXX) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx) | [Hamba Cinta](https://open.spotify.com/album/4hNdDz9enF7GHZ9U8ZnMlJ) | 3:01 | 2024-08-21 | 2024-09-05 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-06 | 2025-05-01 |
 | [Hasrat \(OST Imaginur\)](https://open.spotify.com/track/3Q6DYlT649Y1tgyf5We71c) | [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Hasrat \(OST Imaginur\)](https://open.spotify.com/album/3ABD4eXxckIrnVXKYRkClU) | 3:58 | 2024-06-26 | 2024-08-29 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Hati Yang Rindu](https://open.spotify.com/track/5yIG4C47lCjlNdvTnQK1en) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Gema Bumantara](https://open.spotify.com/album/3f1zSqkzyCUUbN1m6w9BW2) | 4:24 | 2025-11-05 | 2025-12-25 |
 | [Hati Yang Tak Terbalas \- From "Amira Amir"](https://open.spotify.com/track/2pCDpX3RIiLqKk1ME1BsW1) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [Hati Yang Tak Terbalas \(From "Amira Amir"\)](https://open.spotify.com/album/1SsR2Sq3JxhzksT7tM42WF) | 3:54 | 2026-02-26 | 2026-04-09 |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-30 | 2025-09-04 |
@@ -350,7 +351,7 @@
 | [QUESTION](https://open.spotify.com/track/3OPORLgS2j4WaX1yqLhCcU) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [QUESTION](https://open.spotify.com/album/3dRWgcNo3XLI8VTySGfYRM) | 2:55 | 2025-11-12 | 2026-01-22 |
 | [Racun](https://open.spotify.com/track/3QPjFOaHenvJawbm5cik7p) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Glorious](https://open.spotify.com/album/0gpLxjZBBdWsHJjQFS59Mt) | 4:01 | 2025-01-22 | 2025-02-13 |
 | [Rahsia Tuhan](https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Rahsia Tuhan](https://open.spotify.com/album/4t9LkUma3iBV9PWJQG5cKP) | 4:47 | 2024-09-11 | 2025-05-29 |
-| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-01-28 |  |
+| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-01-28 | 2026-05-30 |
 | [Rasa & Takdir](https://open.spotify.com/track/3lRCi1XiG2EPeo7Rdnazl5) | [Amira Othman](https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi), [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Rasa & Takdir](https://open.spotify.com/album/5lEI8FN1Lqn19TZ7yopzfr) | 3:44 | 2025-09-24 | 2025-11-06 |
 | [Raya Nak Ke Mana?](https://open.spotify.com/track/6JP44OePn2eTN3Pw8veYII) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Raya Nak Ke Mana?](https://open.spotify.com/album/1aYTsMxY3Nd1WwsJLb7j90) | 3:17 | 2025-03-19 | 2025-04-10 |
 | [REDRED](https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [REDRED](https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM) | 2:43 | 2026-04-30 |  |

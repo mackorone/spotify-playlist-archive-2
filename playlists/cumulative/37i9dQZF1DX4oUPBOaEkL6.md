@@ -2,7 +2,7 @@
 
 ### [Éxitos USA](https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6)
 
-> The hottest Latin hits in the US! Cover: Maisak, Maluma & Feid
+> The hottest Latin hits in the US! Cover: Shakira, Burna Boy
 
 854 songs - 1 day 22 hr 33 min
 

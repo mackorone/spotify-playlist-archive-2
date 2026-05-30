@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "boom bap renasce todo dia. Foto: Oreia, Thalin, Spinardi, Augusta Barna, Nabru, DoziBala",
+  "description": "boom bap renasce todo dia. Foto: Victor Xam\u00e3, WillsBife",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -2919,6 +2919,32 @@
     },
     {
       "album": {
+        "name": "Fazendo o Melhor Que Eu Posso",
+        "url": "https://open.spotify.com/album/2gsWruREZMtTKliMbyo8yz"
+      },
+      "artists": [
+        {
+          "name": "Goribeatzz",
+          "url": "https://open.spotify.com/artist/49HDbqanAupBgdzDaHPGk9"
+        },
+        {
+          "name": "Mat\u00e9ria Prima",
+          "url": "https://open.spotify.com/artist/2xi4Hm3GjDdOvxTVQ9Mz2d"
+        },
+        {
+          "name": "Sujoground",
+          "url": "https://open.spotify.com/artist/2sngdu3B3WLqIsadMhHDa2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184109,
+      "name": "Caminho Que o Futuro Tr\u00e1s",
+      "url": "https://open.spotify.com/track/0pAkQz9r4zU6YNw7sLDYaR"
+    },
+    {
+      "album": {
         "name": "Camisa Dez",
         "url": "https://open.spotify.com/album/2Fiv2XAjaeUts0QUReWwQI"
       },
@@ -3444,7 +3470,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 158845,
       "name": "Cheiro do Verde",
       "url": "https://open.spotify.com/track/66GOcKAq5WK1ELUuOxuQuU"
@@ -5068,7 +5094,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 189407,
       "name": "Diz Pra Mim",
       "url": "https://open.spotify.com/track/4xHm46kHYZY2IxptLUBiq0"
@@ -10031,6 +10057,32 @@
     },
     {
       "album": {
+        "name": "Cacau 50% , Vol.2",
+        "url": "https://open.spotify.com/album/7eW65C6hstcMmJGsLTvrgG"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "Minha onda",
+      "url": "https://open.spotify.com/track/5afa3QSWTAaVZm53Wv1ofK"
+    },
+    {
+      "album": {
         "name": "ALMA IMORTAL",
         "url": "https://open.spotify.com/album/2wTVtjLOFxTnHmkCmgTpdp"
       },
@@ -12090,7 +12142,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 212093,
       "name": "Orei",
       "url": "https://open.spotify.com/track/2YIizBBwBgFYnSXeT10zyj"
@@ -12312,7 +12364,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 183214,
       "name": "PAPAI \u00c9 BLABO",
       "url": "https://open.spotify.com/track/2E4FyhvU1bTawwUiQrbS9x"
@@ -13804,6 +13856,36 @@
       "duration_ms": 159545,
       "name": "QUANDO EU FUI REI",
       "url": "https://open.spotify.com/track/2nO3IpRQlhIlwR02QhNs9n"
+    },
+    {
+      "album": {
+        "name": "Estreito",
+        "url": "https://open.spotify.com/album/4BE3vs7FYGYPrfYX9BDhzt"
+      },
+      "artists": [
+        {
+          "name": "Victor Xam\u00e3",
+          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
+        },
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "El Prat",
+          "url": "https://open.spotify.com/artist/6Bcq1eBPmMI5okl6q0y8EA"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191448,
+      "name": "Quando o Ego Inflar",
+      "url": "https://open.spotify.com/track/07A6YOGCikRfaa5MxiDkKK"
     },
     {
       "album": {
@@ -17960,7 +18042,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 218666,
       "name": "Verdades amargas",
       "url": "https://open.spotify.com/track/4io6XR0J4fX4UgOLPGfnQy"

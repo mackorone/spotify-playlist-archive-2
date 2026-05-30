@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 182893,
       "name": "5-1-5-0",
       "url": "https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU"
@@ -1225,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250546,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe"
+    },
+    {
+      "album": {
         "name": "Inside Out - The Disco Revolution",
         "url": "https://open.spotify.com/album/6S4XnhZVWLVjo3ADUS47bG"
       },
@@ -1996,7 +2014,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 178973,
       "name": "Diggin' Up Bones",
       "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
@@ -4176,7 +4194,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 276400,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/2B5ey0F0QtFKNIR48vfvNJ"
@@ -4458,6 +4476,24 @@
       "duration_ms": 155573,
       "name": "Just To Say We Did",
       "url": "https://open.spotify.com/track/6JtjmQnTKZXk7bqP4mMACk"
+    },
+    {
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215173,
+      "name": "Just To See You Smile",
+      "url": "https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g"
     },
     {
       "album": {
@@ -7462,7 +7498,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 196746,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"

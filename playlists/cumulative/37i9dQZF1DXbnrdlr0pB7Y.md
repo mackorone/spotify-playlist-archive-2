@@ -4,10 +4,11 @@
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-119 songs - 6 hr 3 min
+124 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1980](https://open.spotify.com/track/3Zb7m33gZLm0pkKXydpcbV) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [1980](https://open.spotify.com/album/6qOH30TOflMHu7lTiq33mb) | 2:11 | 2026-05-29 |  |
 | [7 Lagos](https://open.spotify.com/track/47JIcIX3Iq2xwrAIgjMNuv) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [7 Lagos](https://open.spotify.com/album/6yeerJKt7Cd0hbl4gIFTEc) | 2:58 | 2023-12-15 |  |
 | [A Las Montañas](https://open.spotify.com/track/2Qko902B3IJ8XkKdOGRpU8) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [A Las Montañas](https://open.spotify.com/album/6L4p1vuSkKmF1idvouvSuk) | 2:03 | 2024-07-18 | 2024-07-30 |
 | [Adios](https://open.spotify.com/track/1EP8DalFg4OMvwK8QzfHcY) | [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6), [Pepe Ramos](https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C) | [Adios](https://open.spotify.com/album/31iA73hlTloOrhyFSK6qVl) | 3:24 | 2023-12-15 |  |
@@ -23,6 +24,7 @@
 | [Bajo El Mismo Cielo](https://open.spotify.com/track/6hluJpykHbHa8hJgRmeXvl) | [Sounds Of Our Home](https://open.spotify.com/artist/6LkvK0WVSHZcocRLhroGOY) | [Bajo El Mismo Cielo](https://open.spotify.com/album/0yCZPuSsHsDR7i9PIwKiJn) | 2:10 | 2024-07-18 | 2024-07-30 |
 | [Beber](https://open.spotify.com/track/6zdOx3LZzFC2N8sktS9Q9d) | [Simon Oliveira](https://open.spotify.com/artist/2XakqbuJZsTHDXb0NbSqvr) | [Beber](https://open.spotify.com/album/3cY2rn8DBLUH2JCI4w15km) | 4:13 | 2023-12-15 | 2026-03-31 |
 | [Bella Donna](https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Bella Donna](https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4) | 2:19 | 2023-12-15 |  |
+| [Blizzard](https://open.spotify.com/track/1FdUBtNAAPu3GrUy6W4gPg) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Blizzard](https://open.spotify.com/album/1nw94AwjRR7J9KSDKS9XG5) | 2:31 | 2026-05-29 |  |
 | [Bolero B....](https://open.spotify.com/track/21yFHnnU1nzQ8CfHemfFBt) | [MikaSonnin](https://open.spotify.com/artist/0wMWCHIgA51FVViHnnonKQ) | [Bolero B....](https://open.spotify.com/album/0Xg2laQV5vzit9f2Q5E1VS) | 4:05 | 2024-07-18 | 2024-07-30 |
 | [Bolero Mientras Tanto](https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Bolero Mientras Tanto](https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z) | 2:59 | 2023-12-15 | 2026-03-31 |
 | [Bossa Bravado](https://open.spotify.com/track/6okyzUui51pNetfcXT40zu) | [Eric Josef](https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN) | [A Brand New World](https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo) | 2:22 | 2023-12-15 |  |
@@ -52,6 +54,7 @@
 | [For Chamela](https://open.spotify.com/track/0FMvC8A6rUM0y3iU9dI3rH) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [El Invernadero](https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y) | 3:01 | 2024-05-24 | 2024-07-30 |
 | [Fred's Theme](https://open.spotify.com/track/5xTaxs4Dk2oMBIVH4PXW8U) | [Jeff Paul](https://open.spotify.com/artist/6wlWoM5FRXLtNgl04EkZyN) | [Fred's Theme](https://open.spotify.com/album/066gCzWyicE5jaGH0uvTRR) | 2:05 | 2023-12-15 |  |
 | [Frenesi](https://open.spotify.com/track/2WWvslrAdyNZ2bdjHuGcrI) | [Miles Higgins](https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4) | [Amore](https://open.spotify.com/album/2FaBacnmmAyYE47pIiAvqT) | 2:23 | 2023-12-15 |  |
+| [From A Movie](https://open.spotify.com/track/6aoDLw1fYPam2rhwVj5vqb) | [M\. Rose](https://open.spotify.com/artist/6mDntABgyJFtNZ3IkqCJIn) | [From A Movie](https://open.spotify.com/album/7ygT5Oy1ZVDv53G8DG5F2W) | 2:29 | 2026-05-29 |  |
 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 | 2023-12-15 |  |
 | [Gozando en Matanzas](https://open.spotify.com/track/05lZq4yh4QdWx2ZYusZjGx) | [El Equipo Del Norte](https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U) | [La Frase Importante](https://open.spotify.com/album/7IGHlC1Vf7aOa5i4OaeVCu) | 3:27 | 2023-12-15 | 2025-02-25 |
 | [Guajira En F](https://open.spotify.com/track/4F6Nt1JNncQFuvUQfPX3a3) | [Los Hermanos Cabaiguan](https://open.spotify.com/artist/3lD25kA4bqSWreXLA4sT5g) | [Guajira En F](https://open.spotify.com/album/77PDkLl1ZBM7L6RmikwgQW) | 2:48 | 2023-12-15 | 2026-03-31 |
@@ -72,6 +75,7 @@
 | [Lejos De Ti](https://open.spotify.com/track/7fpdfABPSZoTSrv6CSYIsw) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Lejos De Ti](https://open.spotify.com/album/66vBj0KWsYEQUthU4gLmHO) | 3:11 | 2023-12-15 |  |
 | [Lisboa Antigua](https://open.spotify.com/track/2YAVQk1lzcWoNfhgSeAbcy) | [Joaquim da Silva](https://open.spotify.com/artist/1ssOJMbsSC24dNCIzuof7r) | [Lisboa Antigua](https://open.spotify.com/album/4VegrkVCRH26FZlHPXN9oL) | 2:37 | 2023-12-15 |  |
 | [Mais tarde](https://open.spotify.com/track/3OsoopvnzJWLErS19g6kkH) | [Margot Leavitt](https://open.spotify.com/artist/0eqVgQI4iTRtSBjclCTV5D) | [Mais tarde](https://open.spotify.com/album/76UFpZeSUJmxeefnkVmSSy) | 3:17 | 2023-12-15 |  |
+| [Mar de Tranquilidad](https://open.spotify.com/track/3Lhf4N97pNKaTEQ1NKfNLC) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Mar de Tranquilidad](https://open.spotify.com/album/60O3cCUBGvE55yK767eyPw) | 3:02 | 2026-05-29 |  |
 | [Maré Suave](https://open.spotify.com/track/6GDKt7pRMFopM771SvTKWc) | [Tania Ramone](https://open.spotify.com/artist/37txy9qJzWczhliucVJQFZ) | [Maré Suave](https://open.spotify.com/album/2vjyoykyeXdpcXmR8Cimmc) | 2:27 | 2025-10-01 |  |
 | [Mate Dulce y Amargo](https://open.spotify.com/track/0u6r9d3mjMfIJ3FF4RW4k9) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Mate Dulce y Amargo](https://open.spotify.com/album/3U0ywmyP4MKnpv6BSaBAjv) | 2:58 | 2023-12-15 |  |
 | [Me Dijeron Que Estas Bien](https://open.spotify.com/track/4giwucadmCriq0zubRnUNg) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Me Dijeron Que Estas Bien](https://open.spotify.com/album/1szujtJwnISWuBBCSqSR53) | 2:27 | 2023-12-15 | 2026-03-31 |
@@ -122,6 +126,7 @@
 | [Vals Poético](https://open.spotify.com/track/10tWEw9BIKxnxm8ftkdNqB) | [Pepe Ramos](https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C), [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6) | [Vals Poético](https://open.spotify.com/album/06ubDTSYS4XFZUH3epihYq) | 3:06 | 2023-12-15 |  |
 | [Verano](https://open.spotify.com/track/4AIi8Q87OYukdx1K27k5D1) | [Juan Carlos Allende](https://open.spotify.com/artist/1Ra3B3zt4TA4fzXpSW4oAR) | [Moods](https://open.spotify.com/album/7iMQJdh4iX3SbvA7x9HxID) | 4:30 | 2023-12-15 | 2025-07-23 |
 | [Viajero Nocturno](https://open.spotify.com/track/1nmKXLM6SMQv4GDyhwsMwz) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Viajero Nocturno](https://open.spotify.com/album/4yRqSzWG3u4PuE2UNpauc3) | 2:47 | 2023-12-15 | 2026-03-31 |
+| [Vicinity](https://open.spotify.com/track/5k40DYe9ZLMyVkAo0PaV16) | [Muray Ailis](https://open.spotify.com/artist/0smUzhouQgR5N9B3mhOtCW) | [Vicinity](https://open.spotify.com/album/25cn5lyWuPQm4usrqdzg2W) | 2:04 | 2026-05-29 |  |
 | [Volar con el viento](https://open.spotify.com/track/22LSqWnEYxqZeJOSOMlp4C) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [Volar con el viento](https://open.spotify.com/album/7quiaEPm1wVGreNGivVaeK) | 2:37 | 2023-12-15 |  |
 | [Winter Escape](https://open.spotify.com/track/4E7viEoB5ubmacUw6G8obh) | [Mac Lawlor](https://open.spotify.com/artist/0GaniHLie4Bik5osPQxfM3) | [Lake Tahoe](https://open.spotify.com/album/7qDXnV1wkeeCjx3ryDWHyk) | 2:49 | 2023-12-15 |  |
 | [Words Are Poor](https://open.spotify.com/track/0cplAz2yKmEDkb2raqy6xF) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Words Are Poor](https://open.spotify.com/album/3kR43BKgFDcHsRwhrkz26S) | 3:58 | 2023-12-15 |  |

@@ -4,13 +4,13 @@
 
 > The sweetest bops\. Cover: LE SSERAFIM
 
-284 songs - 13 hr 51 min
+286 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 | 2023-03-22 | 2023-07-08 |
 | [99 boys](https://open.spotify.com/track/0GqWXMhLivLWNWdCl1nbDo) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [99 boys](https://open.spotify.com/album/4t0VPQ3TYb3kMuCvp30nGX) | 2:26 | 2024-04-12 | 2025-05-03 |
-| [ABCD](https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 2:42 | 2024-06-14 |  |
+| [ABCD](https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/40gIiI8skJeWU05P7FoIse) | 2:42 | 2024-06-14 | 2026-05-30 |
 | [Accendio](https://open.spotify.com/track/1BAtAtx0VgWgAMROWK9WYf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:12 | 2024-04-30 | 2025-10-11 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2023-03-22 | 2023-04-15 |
 | [Air](https://open.spotify.com/track/0vOG7sgElxsfQyJvRs4kSG) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre4 : Air>](https://open.spotify.com/album/63TxL3GOqpzcFY4LkeNXoB) | 2:27 | 2024-05-10 | 2025-03-22 |
@@ -49,6 +49,7 @@
 | [CAPPUCCINO](https://open.spotify.com/track/1w3fokRBNk1ge6nyEQgmRk) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [CAPPUCCINO](https://open.spotify.com/album/79XKfHFB4DDjK9qsFzGtwr) | 2:57 | 2025-11-14 |  |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2023-03-22 | 2024-07-06 |
 | [Caught in Your Love](https://open.spotify.com/track/2xpbZxV34gnvg3QwUvG370) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Caught in Your Love](https://open.spotify.com/album/4fNIHOD3cYbbTT09tGt8xH) | 2:18 | 2024-04-12 | 2025-02-12 |
+| [Caution](https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [K\-POPS! \(Music from and inspired by K\-POPS! Motion Picture\)](https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS) | 2:43 | 2026-05-29 |  |
 | [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 | 2026-05-04 |  |
 | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj) | 3:17 | 2024-07-26 | 2025-07-03 |
 | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/track/2VqXiJCKjkEKbI1SChyG4m) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/album/3By2H5WNB4ZpLN5Llmwrr8) | 2:08 | 2023-10-27 | 2025-05-03 |
@@ -243,10 +244,11 @@
 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-05 | 2025-03-22 |
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-06 | 2025-07-12 |
 | [STYLE](https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [STYLE](https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB) | 3:29 | 2025-06-24 | 2026-05-23 |
+| [Sue me](https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:50 | 2026-05-29 |  |
 | [SUGAR](https://open.spotify.com/track/3g9pB5c01TzX76uVI4OffZ) | [Jourdin Pauline](https://open.spotify.com/artist/0X2qcfuPjJhdWeEo8tuhKk) | [SUGAR](https://open.spotify.com/album/2Mt5nyYU4rYJSQkWXM7F0w) | 3:15 | 2025-02-11 |  |
 | [Sugar](https://open.spotify.com/track/6qHGucTO3ieXDbBXEv30TH) | [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Sugar](https://open.spotify.com/album/7asxGpNrTbB849BLWI5KDm) | 2:22 | 2024-08-30 | 2025-03-15 |
 | [Summer so hot](https://open.spotify.com/track/3zNe3xToIc07PYAuQboqhq) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Summer so hot](https://open.spotify.com/album/7GfvDon5u02GU3TbTOl1J1) | 2:46 | 2024-07-05 | 2025-03-15 |
-| [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-05-10 |  |
+| [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-05-10 | 2026-05-30 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 |  |
 | [Supernova](https://open.spotify.com/track/351KkakA2YtGEXqSEIIasy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/0tlwyPgqwZrymr04EfFyry) | 2:58 | 2024-05-15 | 2024-07-06 |
 | [SUPERPOWER](https://open.spotify.com/track/3kfQuU6FXW4OXHIHjuups7) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [SUPERPOWER](https://open.spotify.com/album/5uCFinoHAfvh3RM5UuBhZ6) | 3:02 | 2024-07-26 | 2025-07-12 |

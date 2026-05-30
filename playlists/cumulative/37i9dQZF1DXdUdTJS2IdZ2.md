@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: LAYYI
 
-1,425 songs - 3 day 5 hr 31 min
+1,425 songs - 3 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [INTERNET GUTS](https://open.spotify.com/track/1qUzitfSxqmioqkuEWLjg2) | [Leeray](https://open.spotify.com/artist/5iYfkAR2436UVRFEFm9iHr) | [LEEWAY](https://open.spotify.com/album/31bpTtfrvHAueDkDU6Wyxo) | 2:39 | 2024-09-05 | 2024-10-11 |
 | [Internet Love](https://open.spotify.com/track/0VP3Ke1Y0QJ8qRoMeBWws8) | [Taotao](https://open.spotify.com/artist/3nZ6CYSRqJCHL37Dng4NlX), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [Internet Love](https://open.spotify.com/album/7EQsrlkRALIM1Wdb9Nlinc) | 2:31 | 2025-07-10 | 2025-08-22 |
 | [Into The Fire](https://open.spotify.com/track/0OQ5JeyrIGgttzHoUl2doH) | [Awi Rafael](https://open.spotify.com/artist/3YssC2nSK0lcFc793GjwWI), [Bhumiband](https://open.spotify.com/artist/5Xd9nARqQJcNWKvzQb3sRp) | [Into The Fire](https://open.spotify.com/album/5jvwp0E6jy9aQwIBlxofs1) | 4:11 | 2024-07-11 | 2024-09-27 |
+| [INTROVERT](https://open.spotify.com/track/6RrDZAlbfIKs6yG0HJHK6W) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [WANNA KISS](https://open.spotify.com/album/4hH1uwmKpjFGmWNoMlkgBS) | 2:03 | 2026-05-28 |  |
 | [intuition](https://open.spotify.com/track/0PYSOQ5lB21W59L5xQ8P1C) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [intuition](https://open.spotify.com/album/2skKy8ko4caAopJQlqP6FV) | 3:02 | 2025-06-05 | 2025-06-20 |
 | [Investments](https://open.spotify.com/track/5gsjbXozIaRNyJvFEt0Cxf) | [Zalelo](https://open.spotify.com/artist/7oIoEMjF4BysMurJ32HZQh) | [Investments](https://open.spotify.com/album/7hfYqVKD9V8UawJ3OQ0c6l) | 2:42 | 2025-01-16 | 2025-03-21 |
 | [Invisibility](https://open.spotify.com/track/10rY8IQSJWorxlBNGnwbNj) | [Brielle Kaga](https://open.spotify.com/artist/5YPzo8kOw6lRwE2COt9awu) | [Invisibility](https://open.spotify.com/album/2QxrY3GLZtZ5tkIV2r6rhp) | 3:04 | 2024-10-17 | 2024-11-29 |
@@ -860,6 +861,7 @@
 | [Rendezvous](https://open.spotify.com/track/0Vaq5GdGtgMlXDn3gdU87F) | [The Februarys](https://open.spotify.com/artist/5jXHSFm2oSCzyLDSsXr8hE) | [Rendezvous](https://open.spotify.com/album/39ZcLs43b8F1X0pIIk9mmv) | 4:18 | 2026-03-26 | 2026-05-22 |
 | [RESTLESS](https://open.spotify.com/track/3KJIOsD0gpWXy0x4NhZxNr) | [229](https://open.spotify.com/artist/5SVcLUjUDGoJQQmzBbYuVq), [B.LEO](https://open.spotify.com/artist/7xSziEKgpFtmY9a2S18nxL), [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7) | [RESTLESS](https://open.spotify.com/album/23xBP9x5zWTAz8l9AG6rsI) | 2:44 | 2026-04-23 |  |
 | [Reverie](https://open.spotify.com/track/4fFcewf8HQoRfMqqU4pe7q) | [The Analog Girl](https://open.spotify.com/artist/4PK6Yoxg2Ba8C2KQbysQkM) | [Reverie](https://open.spotify.com/album/2vibqgFgSAEaH4Ct4XjEkH) | 3:43 | 2024-06-27 | 2024-08-16 |
+| [RFRNCE](https://open.spotify.com/track/3drRiJb84b7LetoZYXB9Np) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [RFRNCE](https://open.spotify.com/album/4S0uMNzmraBl61pcsjrDoa) | 3:18 | 2026-05-28 |  |
 | [RICH](https://open.spotify.com/track/0APma3TkPygErSuwg8y9nn) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [RICH](https://open.spotify.com/album/5As5b3LJnMumsTkQM00x7h) | 2:50 | 2025-09-18 | 2025-10-31 |
 | [ride](https://open.spotify.com/track/4klg0W1a4jjJoo3dZ2J3w5) | [rae](https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x), [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ) | [ride](https://open.spotify.com/album/1mjQEAGHYSkeGvDs0QbTyg) | 3:19 | 2024-08-29 | 2024-11-09 |
 | [Ride or Die](https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Ride or Die](https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu) | 2:57 | 2024-06-27 | 2024-07-05 |
@@ -898,6 +900,7 @@
 | [search](https://open.spotify.com/track/5Te9aHJTkpiKwa34WWbeLE) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [lightbringer](https://open.spotify.com/album/6eO4PXGE23svRI186EEEUC) | 2:55 | 2025-07-10 | 2025-08-22 |
 | [SEASONS](https://open.spotify.com/track/2cLTQEPuI7NBteVD6fN9Kx) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [SEASONS](https://open.spotify.com/album/0nnFbDOvJWnmz5wadtiKqQ) | 3:25 | 2024-06-27 | 2024-08-23 |
 | [second thoughts](https://open.spotify.com/track/0aRNzumD08yFyGmchB5fmy) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [pov:](https://open.spotify.com/album/1Zwq6jxImEsiFtYfT7yjGb) | 3:20 | 2025-09-22 | 2025-11-07 |
+| [SECRET](https://open.spotify.com/track/37cdv5DlvppmZ7qF93nBql) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [WANNA KISS](https://open.spotify.com/album/4hH1uwmKpjFGmWNoMlkgBS) | 1:53 | 2026-05-28 |  |
 | [Secret](https://open.spotify.com/track/6JVPcPcr4dSQWhIp9Marbb) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Secret](https://open.spotify.com/album/55WL3DhdAUycGh9ufcbnv5) | 3:38 | 2024-12-06 | 2025-01-24 |
 | [Secret Codes](https://open.spotify.com/track/1BSvCKeSJFGkynbhQVWsqw) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Secret Codes](https://open.spotify.com/album/2kUJIRdImIgOpENlfguslI) | 2:48 | 2025-07-03 | 2025-08-15 |
 | [Sedikit Waktu](https://open.spotify.com/track/5B8VKRe7xuUcLRJ9FAX0cv) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Sedikit Waktu](https://open.spotify.com/album/3e3kWGw6C57ZYmk1OZH5Hm) | 4:10 | 2026-02-26 | 2026-04-17 |
@@ -1103,9 +1106,6 @@
 | [touch](https://open.spotify.com/track/1nEczAnjXD3Jvbau01ee0x) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [touch](https://open.spotify.com/album/62CpwDDgZotecv71VLERpm) | 2:42 | 2025-11-13 | 2026-01-31 |
 | [Touch Yourself](https://open.spotify.com/track/4FOrfiTwMXgS41g9L5GN3I) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du) | [Touch Yourself](https://open.spotify.com/album/5nZPMnu5Z6Zjj7e3or4cwZ) | 3:16 | 2024-10-10 | 2024-11-09 |
 | [Town](https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Town](https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU) | 3:30 | 2024-07-11 | 2024-09-27 |
-| [Track 4](https://open.spotify.com/track/3drRiJb84b7LetoZYXB9Np) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [RFRNCE](https://open.spotify.com/album/4S0uMNzmraBl61pcsjrDoa) | 0:00 | 2026-05-28 |  |
-| [Track 5](https://open.spotify.com/track/37cdv5DlvppmZ7qF93nBql) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [WANNA KISS](https://open.spotify.com/album/4hH1uwmKpjFGmWNoMlkgBS) | 0:00 | 2026-05-28 |  |
-| [Track 7](https://open.spotify.com/track/6RrDZAlbfIKs6yG0HJHK6W) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [WANNA KISS](https://open.spotify.com/album/4hH1uwmKpjFGmWNoMlkgBS) | 0:00 | 2026-05-28 |  |
 | [TRACK D](https://open.spotify.com/track/0twJwDIxrl7c2z6UGDTNiq) | [DAC](https://open.spotify.com/artist/7pE2X4frEyOmquxv8QFoZA), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw), [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251) | [TRACK D](https://open.spotify.com/album/1garuMkV5LtsyoPJ9DifbB) | 2:10 | 2024-12-12 | 2025-01-24 |
 | [Transportation Blues](https://open.spotify.com/track/5ndaof6VTnydQJaYliSHYG) | [Stopgap](https://open.spotify.com/artist/60dCRxcmRMSw9WovWPtI8g) | [Transportation Blues](https://open.spotify.com/album/53h0nva44FuOhRdSAULeYb) | 4:35 | 2024-11-08 | 2024-11-29 |
 | [Trial & Error](https://open.spotify.com/track/3XFbOVSEIjHN2ZGRcoWqU1) | [The Benjamin Daniels](https://open.spotify.com/artist/4Wy7nvuhxWC7w6Qk0yombI) | [Awake For Too Long](https://open.spotify.com/album/1cVq9N3vJcsYcrZ3t6XmWF) | 4:33 | 2024-11-21 | 2025-01-03 |

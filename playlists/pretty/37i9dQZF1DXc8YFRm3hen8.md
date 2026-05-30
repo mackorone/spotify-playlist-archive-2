@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 
 > Tu dosis diaria de rock 📸 El Kuelgue
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,674 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,685 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,13 +77,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8YFRm3hen8.md) - [plain]
 | 67 | [Los chicos](https://open.spotify.com/track/6UdCeS92BsXBNoITIxVqdi) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [La lengua popular](https://open.spotify.com/album/5MQ7xWpg5tP0uebwdcdyYk) | 3:11 |
 | 68 | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Andy Summers](https://open.spotify.com/artist/3rHBApuFwaJy65f7vWQJLr) | [Tráeme la Noche \(Bring on the Night\) \(with Andy Summers\)](https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH) | 4:43 |
 | 69 | [Sólo por Hoy \(Chica Oriental\)](https://open.spotify.com/track/4jVwWdl8GYpURRDRV0ZWMG) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [El Costado Izquierdo](https://open.spotify.com/album/6lJxoLuNM8q7E0RxTwuwJe) | 4:03 |
-| 70 | [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 |
-| 71 | [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 |
+| 70 | [Ya No Mires Atrás](https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 3:43 |
+| 71 | [Chau](https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Chau](https://open.spotify.com/album/43JH3qZu6rXGBqegyUq9J4) | 5:20 |
 | 72 | [Cheques](https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg) | [Spinetta Y Los Socios Del Desierto](https://open.spotify.com/artist/7F5m9Jw4sg853wTDmmJvLi) | [Spinetta y los Socios del Desierto](https://open.spotify.com/album/04sd3yVEomRHkJ6Qd3KXBt) | 4:03 |
 | 73 | [Se Me Hizo Tarde](https://open.spotify.com/track/5iCQLeTVLauWAM3N0shr4P) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [La Dirección](https://open.spotify.com/album/3ittbXmzKeMVioLZ6aepfD) | 3:57 |
 | 74 | [Tu Vida Mi Vida](https://open.spotify.com/track/3UA8Vjo0hQXGJnoeQF1SOL) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Ciudad Liberada](https://open.spotify.com/album/7H2OIQCPLo1Qc1aBt00DIH) | 4:12 |
-| 75 | [Una Vida Más](https://open.spotify.com/track/3DrUefe54Lh14hPrhA4W4Y) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [FLORECE EN EL CAOS](https://open.spotify.com/album/1dFtJQK4H3PlsaPP2WZrdl) | 4:03 |
-| 76 | [Una contra otra](https://open.spotify.com/track/5QLkrUv0GuJFDTWHB6iR9g) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Una contra otra](https://open.spotify.com/album/1L8lC8nFhITSYIssc1YMSo) | 3:38 |
+| 75 | [Una contra otra](https://open.spotify.com/track/5QLkrUv0GuJFDTWHB6iR9g) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [Una contra otra](https://open.spotify.com/album/1L8lC8nFhITSYIssc1YMSo) | 3:38 |
+| 76 | [Una Vida Más](https://open.spotify.com/track/3DrUefe54Lh14hPrhA4W4Y) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [FLORECE EN EL CAOS](https://open.spotify.com/album/1dFtJQK4H3PlsaPP2WZrdl) | 4:03 |
 | 77 | [Post\-Crucifixion](https://open.spotify.com/track/2ri0lTjVeBkWAmRVkJoHXL) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Lo Mejor de Pescado Rabioso](https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw) | 3:46 |
 | 78 | [Tu Encanto](https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Tu Encanto](https://open.spotify.com/album/5sNubtE2kol6DLs6o9y0K0) | 3:31 |
 | 79 | [Los Salieris De Charly](https://open.spotify.com/track/2Ur5w6pRsWBq5xnqiwhVgj) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Mensajes Del Alma](https://open.spotify.com/album/5N6dSqrWduJNntj4svDbfE) | 6:02 |

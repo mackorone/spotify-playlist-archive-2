@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-492 songs - 1 day 11 hr 11 min
+494 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Hotline Miami II](https://open.spotify.com/track/2qzbJyY0c4vzhXFlnRNCji) | [Das Mörtal](https://open.spotify.com/artist/0l5SpsbElFWLrDdMXWieNp) | [Hotline Miami II](https://open.spotify.com/album/6ASlNNjHy6yL8lNTMuNvPn) | 3:47 | 2022-04-01 | 2022-04-21 |
 | [Hotline Miami II](https://open.spotify.com/track/7qEIlg3a8Yrci7GhkmZR2V) | [Das Mörtal](https://open.spotify.com/artist/0l5SpsbElFWLrDdMXWieNp) | [Hotline Miami II](https://open.spotify.com/album/6v2alUvXCExu0CH7n4v9Ql) | 3:47 | 2022-07-22 | 2022-10-01 |
 | [Hounds of Hell](https://open.spotify.com/track/1DcB747sZ7wM71YkaEYpLC) | [Biesmans](https://open.spotify.com/artist/1RR1AtX6SAujecwlLacHRz), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Teamworks EP \(Pt\. 2/2\)](https://open.spotify.com/album/3MWbClmnqoShaxN4onZh5V) | 7:20 | 2022-08-19 | 2022-09-24 |
+| [Human Feel](https://open.spotify.com/track/4NWYs9nLKxfVicWbG81I7H) | [Deane](https://open.spotify.com/artist/00eiatADte2BCVMgJCWeaR) | [Human Feel](https://open.spotify.com/album/3VlnChkCyoDrbw2imTxdit) | 3:01 | 2026-05-29 |  |
 | [Hurts](https://open.spotify.com/track/6pJtuH0lfbCi98JDr166Uy) | [Kenno](https://open.spotify.com/artist/4fPQVQAFiRySPSBTpr68W1) | [Hurts](https://open.spotify.com/album/2ZvNwpLsK2gfNfEwct0TEf) | 3:32 | 2023-11-27 |  |
 | [hypercaste](https://open.spotify.com/track/7wSL7kdK3yXGOf9NDixcYb) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [hypercaste](https://open.spotify.com/album/6ftBu7bSdQneyhD2gujdCI) | 2:31 | 2023-10-27 |  |
 | [Hyperlandia \- Vocal Mix](https://open.spotify.com/track/2goi9r8tdsV1g79eesmaCX) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Hyperlandia](https://open.spotify.com/album/0UDVNOLLKTw4Fme8MbE1Mh) | 5:49 | 2022-10-14 | 2024-04-19 |
@@ -265,7 +266,7 @@
 | [Looking For Tracy Tzu](https://open.spotify.com/track/2G0c5XvospcOSyA3t1W2X2) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [TRILOGY](https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN) | 4:17 | 2022-07-22 | 2024-04-19 |
 | [Looking for Tracy Tzu](https://open.spotify.com/track/49zgQWxmae5SESFN60Dh33) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [Trilogy](https://open.spotify.com/album/42KmZSl5Yq3sY5TciEjW2b) | 4:17 | 2021-10-15 | 2022-02-05 |
 | [Looking for Tracy Tzu](https://open.spotify.com/track/546WYUcLvrd9YifNgEaGsi) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP) | [EP II](https://open.spotify.com/album/4qXB40wtbBbetffvic299O) | 4:17 | 2021-10-15 | 2026-04-09 |
-| [Lost in the Cloud](https://open.spotify.com/track/40JOgWqmM7B3RX76psrb8N) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Lost in the Cloud](https://open.spotify.com/album/3Y71j9EecKvuSiU4zfmJhx) | 3:45 | 2022-02-04 |  |
+| [Lost in the Cloud](https://open.spotify.com/track/40JOgWqmM7B3RX76psrb8N) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Lost in the Cloud](https://open.spotify.com/album/3Y71j9EecKvuSiU4zfmJhx) | 3:45 | 2022-02-04 | 2026-05-30 |
 | [Lost Island](https://open.spotify.com/track/7oZ1Px5qTBgeDS3vo1YMfr) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Lost Island](https://open.spotify.com/album/4ztEDBvcCmE1RRpEMI0KM0) | 4:33 | 2022-06-03 | 2022-07-20 |
 | [Lost Woods](https://open.spotify.com/track/78j8TTEo6VJ7VeeDItgvaJ) | [Helynt](https://open.spotify.com/artist/6wM3tYsLm3LMfEKIkl5SmY), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Legend of Synthwave](https://open.spotify.com/album/4TeZZfbu3rbifAjwiAAEq8) | 2:38 | 2021-10-15 | 2022-10-29 |
 | [Love Is Anywhere](https://open.spotify.com/track/608hXuaq2JMWsILseQYXHp) | [Flashworx](https://open.spotify.com/artist/1ex2bxtu5YJ52Q6vVjpT1e) | [Two Guys In Japan](https://open.spotify.com/album/6NIEszOdIuWugX3DQWsS4Q) | 4:48 | 2022-04-01 | 2022-04-18 |
@@ -302,6 +303,7 @@
 | [Night City](https://open.spotify.com/track/2wRfmI3v2REarKJFzuzO46) | [Vogel](https://open.spotify.com/artist/0IPgmXKtAVL8x0Gwqc2SuM) | [Hologram](https://open.spotify.com/album/3VNyqCIJ1pfmiTnHRHw4ox) | 5:43 | 2021-10-15 | 2023-10-24 |
 | [Night Drive](https://open.spotify.com/track/62FkSw742wuXEtfQLWc0qr) | [PiMO](https://open.spotify.com/artist/7ADKytIkgNPkHWSJTiqTb0) | [Night Drive](https://open.spotify.com/album/4spESXBYtw3ZhNL65irFQK) | 3:08 | 2023-10-23 |  |
 | [Night Racer](https://open.spotify.com/track/6BKZW4gfNkFdhRGbVlN5ZD) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Period of Time](https://open.spotify.com/album/7CHtPIPZ4hInQfyAEUPTEc) | 5:59 | 2022-04-01 | 2022-04-21 |
+| [Night Ride](https://open.spotify.com/track/1pN2aCf9yTjFuEaJcLP5CP) | [Deane](https://open.spotify.com/artist/00eiatADte2BCVMgJCWeaR) | [Night Ride](https://open.spotify.com/album/2i6lhQ8sWQn5ivvjUeJvFO) | 3:44 | 2026-05-29 |  |
 | [Night Train](https://open.spotify.com/track/7nwMY3U4zhXQLQsjX8gwzf) | [Code Elektro](https://open.spotify.com/artist/3FIZFOkx25ESPENGx6st5w) | [Triads](https://open.spotify.com/album/3K48lplYXbQSc87pfuJ0Pa) | 4:17 | 2021-10-15 | 2023-10-24 |
 | [Nightbreed \- 2022 Remastered Version](https://open.spotify.com/track/51PxMHeX2V5ID89IEqjtT5) | [Chris Keya](https://open.spotify.com/artist/7zCJiVQxxnpXTnIDVMihPl) | [Nightbreed \(2022 Remastered Version\)](https://open.spotify.com/album/4kk0hAgJdMz0HF3sHEoix9) | 3:51 | 2023-10-23 | 2025-05-24 |
 | [Nightcall](https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Nightcall](https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ) | 4:18 | 2024-08-13 |  |
@@ -436,7 +438,7 @@
 | [Territory](https://open.spotify.com/track/0HWFz9sKXuXlIZgVUvOKPU) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Exile](https://open.spotify.com/album/2FObixyCMUYQoTdp2INbNv) | 3:22 | 2021-10-15 | 2023-10-24 |
 | [Tessellate](https://open.spotify.com/track/383dZSLzwL8UcjXiOOdAIa) | [Eagle Eyed Tiger](https://open.spotify.com/artist/3nqTFzjmi1LLM6pn0TRMv8) | [Pressure Point](https://open.spotify.com/album/1TzUdkALWAE3Uu5iT0kl3C) | 3:56 | 2022-07-22 |  |
 | [Test Pilot](https://open.spotify.com/track/03RyqN0APr814lnjzziKtT) | [Stilz](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ), [The Encounter](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g) | [Starcrash](https://open.spotify.com/album/317tn0rmvrIfQOYemUNRM5) | 4:04 | 2022-07-22 | 2024-04-19 |
-| [Test Pilot](https://open.spotify.com/track/3k7F9Z4RKOajIRQ2gDWO7N) | [Stilz](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ), [The Encounter](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g) | [Starcrash](https://open.spotify.com/album/4Ovn7lQ2W3agN3KvqgaXFx) | 4:04 | 2021-10-15 |  |
+| [Test Pilot](https://open.spotify.com/track/3k7F9Z4RKOajIRQ2gDWO7N) | [Stilz](https://open.spotify.com/artist/0he5qSKLuYoGL223KSWjXJ), [The Encounter](https://open.spotify.com/artist/4BoYO8cPeKT28GGAYjDW3g) | [Starcrash](https://open.spotify.com/album/4Ovn7lQ2W3agN3KvqgaXFx) | 4:04 | 2021-10-15 | 2026-05-30 |
 | [The Arcane Arts](https://open.spotify.com/track/5sPkgogsCQFYKnYZMwkODz) | [Arcis](https://open.spotify.com/artist/11jVTF2G0ClyW9H9tZeUHM) | [Adamo](https://open.spotify.com/album/6Y9N6GkECmc6F8oSsW9vQ5) | 2:52 | 2022-02-04 | 2023-02-04 |
 | [The Dark, The Light \(Edit\)](https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR) | [Bozart](https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI), [Jen Cardini](https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf) | [The Dark, The Light](https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5) | 3:54 | 2023-06-30 |  |
 | [The Equaliser \(Not Alone\)](https://open.spotify.com/track/0hy26hhVBNp0X87ENwuhfX) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer](https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8) | 3:49 | 2022-07-22 | 2024-04-19 |

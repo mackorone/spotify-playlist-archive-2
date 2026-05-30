@@ -4,7 +4,7 @@
 
 > Songs for the warm pavement, cracked windows, and falling in love with music in the sun.
 
-623 songs - 1 day 10 hr 53 min
+624 songs - 1 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Don't Forget Your Neighborhood](https://open.spotify.com/track/6LbtLmUbt5MCydSpovIJAw) | [Cola Boyy](https://open.spotify.com/artist/6CZN3MHeeEXh5PxKZivIa8), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Don't Forget Your Neighborhood](https://open.spotify.com/album/65bVXONatvnkNP5Jy8u3BN) | 4:54 | 2021-08-13 | 2022-07-09 |
 | [don't jump the gun](https://open.spotify.com/track/5A4IUiCLfZAjEME2QPgf8P) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [don't jump the gun](https://open.spotify.com/album/3GrECJ07gyegeBtv5ZMG7T) | 2:35 | 2022-07-22 | 2022-08-19 |
 | [Don't Let Me Down](https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Don't Let Me Down](https://open.spotify.com/album/1PdRtUkny2sF2Hf1BbHsDU) | 3:55 | 2023-05-25 | 2023-06-12 |
-| [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 | 2023-05-25 |  |
+| [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 | 2023-05-25 | 2026-05-30 |
 | [Door](https://open.spotify.com/track/0WFoIkMN4AOzbTBsnLgdvA) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [Drinking With My Smoking Friends](https://open.spotify.com/album/1jDIrxobGpCf7TR8IhbPUM) | 2:49 | 2021-08-13 | 2022-04-29 |
 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 | 2022-07-14 |  |
 | [Dover Beach](https://open.spotify.com/track/24xZVbTSffURaVwGfiVTOu) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Dover Beach](https://open.spotify.com/album/3cF6aotAMfbdocJDA2fLjU) | 3:38 | 2021-08-13 | 2022-07-28 |
@@ -336,6 +336,7 @@
 | [Made for Mermaid](https://open.spotify.com/track/2kLTL9QiAF0PDCuSKFAYYI) | [Orange Ocean](https://open.spotify.com/artist/3xcaXZYFSV0iRmgu9defBW), [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Made for Mermaid](https://open.spotify.com/album/7rH5xf3APNtGGUZz6bMr16) | 4:42 | 2022-03-24 | 2022-05-03 |
 | [Magic](https://open.spotify.com/track/3QEYYJTIEd6Tv0HCrgHvri) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 6:48 | 2022-07-14 | 2023-05-16 |
 | [Magic](https://open.spotify.com/track/4XsrQYCU60mBHzjFVImgFf) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 6:48 | 2021-08-13 | 2022-07-14 |
+| [Magnolia](https://open.spotify.com/track/3JkDuxcnIzBUngCk6peKZi) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK) | [Fantasia](https://open.spotify.com/album/1GX1O94nu0wkXL4Z9nG7LU) | 4:16 | 2026-05-23 |  |
 | [MAKKA](https://open.spotify.com/track/4JxgNwic9PMF1c87TKWZOr) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi), [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [MAKKA](https://open.spotify.com/album/6HJ61LT8zJuNdv0Va9WRjB) | 3:00 | 2025-05-15 | 2026-02-10 |
 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 | 2023-07-24 | 2023-08-01 |
 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 | 2023-07-24 | 2023-08-01 |

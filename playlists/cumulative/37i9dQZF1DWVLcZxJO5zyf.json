@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Felipe Amorim, Luisa Sonza",
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto:  Melly ",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -152,7 +152,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 163185,
       "name": "A Cidade",
       "url": "https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb"
@@ -192,6 +192,24 @@
       "duration_ms": 124455,
       "name": "A Dona Aranha",
       "url": "https://open.spotify.com/track/2VRKmQbkOhmpmp5wShHQ1j"
+    },
+    {
+      "album": {
+        "name": "MAIS FORTE QUE A D\u00daVIDA",
+        "url": "https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171934,
+      "name": "A GENTE COMBINA",
+      "url": "https://open.spotify.com/track/40z0XrdegYW7nVS3VEfR8I"
     },
     {
       "album": {
@@ -1146,7 +1164,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 173537,
       "name": "Baile do Djavan",
       "url": "https://open.spotify.com/track/5uD5LNjOASmoTOVK7CR4j6"
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 158180,
       "name": "bandera blanca",
       "url": "https://open.spotify.com/track/1Xh1r4AEDLFWdTM2zdmDyS"
@@ -2232,7 +2250,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 207833,
-      "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar",
+      "name": "Como se o amanh\u00e3 n\u00e3o fosse chegar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2LXu5Btw5CJSKU2jIpCHZJ"
     },
     {
@@ -2756,7 +2774,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 160021,
       "name": "desnecess\u00e1rio",
       "url": "https://open.spotify.com/track/0gAo3JbqmDIbWyv7MEWCds"
@@ -3667,6 +3685,28 @@
     },
     {
       "album": {
+        "name": "BRava",
+        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
+      },
+      "artists": [
+        {
+          "name": "Jenni Mosello",
+          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189886,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
+    },
+    {
+      "album": {
         "name": "fool for love",
         "url": "https://open.spotify.com/album/5qM5JVZHG6hYOQc3oy2TiE"
       },
@@ -4030,7 +4070,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 196875,
       "name": "Habilidosamente",
       "url": "https://open.spotify.com/track/1gbls4hHLP5Fx6P5fEgcWr"
@@ -5457,6 +5497,28 @@
     },
     {
       "album": {
+        "name": "Escapismo",
+        "url": "https://open.spotify.com/album/2e8AFwkw8qVUo9rW4JgBUb"
+      },
+      "artists": [
+        {
+          "name": "Gabi Melim",
+          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179052,
+      "name": "Mexe Com Meu Ju\u00edzo",
+      "url": "https://open.spotify.com/track/3jRjwADDFans8VFXW2N5Vz"
+    },
+    {
+      "album": {
         "name": "Mil Veces",
         "url": "https://open.spotify.com/album/6BTWoZ4XMhTaLD547Mpc7S"
       },
@@ -5534,6 +5596,24 @@
       "duration_ms": 187206,
       "name": "Minto pra quem perguntar",
       "url": "https://open.spotify.com/track/1ayciaPYnEVXA0sYvOssB8"
+    },
+    {
+      "album": {
+        "name": "MOMENTUM",
+        "url": "https://open.spotify.com/album/4GhFPTHkOdxEcz8fSEsQsx"
+      },
+      "artists": [
+        {
+          "name": "Trivia",
+          "url": "https://open.spotify.com/artist/2aedff5jy8iqr4GWGnee1g"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225656,
+      "name": "Mirou Em Mim",
+      "url": "https://open.spotify.com/track/3PLVAuTggzJ4A7mZCPhgBF"
     },
     {
       "album": {
@@ -6054,7 +6134,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 168000,
       "name": "NOVA: Energia",
       "url": "https://open.spotify.com/track/6r1xdekDojx9KtBrzTOLbj"
@@ -8629,6 +8709,24 @@
     },
     {
       "album": {
+        "name": "Seu e S\u00f3",
+        "url": "https://open.spotify.com/album/1T7dvcAcWOuBqmzmGF4zCR"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153148,
+      "name": "Seu e S\u00f3",
+      "url": "https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l"
+    },
+    {
+      "album": {
         "name": "Seu Olhar",
         "url": "https://open.spotify.com/album/0vadfXdQ2JGrYBqfitXMHf"
       },
@@ -9820,6 +9918,28 @@
       "duration_ms": 162221,
       "name": "Vai Vendo",
       "url": "https://open.spotify.com/track/2D1YgoOgqGfEENCtsZNXMi"
+    },
+    {
+      "album": {
+        "name": "FREQU\u00caNCIA LUNAR",
+        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170073,
+      "name": "VAMPIRA",
+      "url": "https://open.spotify.com/track/53sU5FYujB8QaiH61RyQ5l"
     },
     {
       "album": {

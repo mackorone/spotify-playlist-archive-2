@@ -2,9 +2,9 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: Drake
+> The hottest 50\. Cover: Olivia Rodrigo
 
-1,384 songs - 3 day 2 hr 15 min
+1,386 songs - 3 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-03 | 2023-09-26 |
 | [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 | 2023-05-05 | 2023-05-27 |
 | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Daddy Yankee: Bzrp Music Sessions, Vol\. 0/66](https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t) | 2:31 | 2025-11-14 | 2026-01-03 |
+| [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-05-29 |  |
 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 | 2025-07-11 |  |
 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 | 2020-05-15 | 2020-07-03 |
 | [Daisy](https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Daisy](https://open.spotify.com/album/5tRhwDUyr3HypAaJysxUki) | 2:26 | 2020-10-02 | 2021-01-29 |
@@ -408,7 +409,7 @@
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-22 | 2024-04-06 |
 | [FML](https://open.spotify.com/track/6lruHh1jF7ezgbLv72xYmf) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [Living Facts](https://open.spotify.com/album/0tzusAckn6CYqaCBRJHiAh) | 3:43 | 2020-01-05 | 2020-02-07 |
 | [Focus \(feat\. 21 Savage\)](https://open.spotify.com/track/12iDo4Kdw9vA2X1lN3UTVu) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Focus \(feat\. 21 Savage\)](https://open.spotify.com/album/7ytUi1ApfKHaD2iJrOzjvw) | 2:35 | 2019-06-14 | 2019-08-13 |
-| [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-08-08 |  |
+| [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-08-08 | 2026-05-30 |
 | [Follow God](https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:44 | 2019-10-26 | 2019-12-06 |
 | [Follow You](https://open.spotify.com/track/7FdUvDkaE24o3FPIWTvzv2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:55 | 2021-03-19 | 2021-05-15 |
 | [For The Night \(feat\. Lil Baby & DaBaby\)](https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:10 | 2020-09-04 | 2021-02-12 |
@@ -482,6 +483,7 @@
 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-27 | 2024-10-05 |
 | [Harleys In Hawaii](https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Harleys In Hawaii](https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V) | 3:05 | 2019-10-18 | 2019-11-15 |
 | [Hate Me \(with Juice WRLD\)](https://open.spotify.com/track/6kls8cSlUyHW2BUOkDJIZE) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Hate Me \(with Juice WRLD\)](https://open.spotify.com/album/29FoTD5vBY3Fq1QWhbl3FM) | 3:06 | 2019-07-04 | 2019-08-30 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2021-09-18 | 2021-11-13 |
 | [Having Our Way \(feat\. Drake\)](https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:38 | 2021-06-19 | 2021-07-01 |
 | [Having Our Way \(feat\. Drake\)](https://open.spotify.com/track/6x8BFIxmwfwBNNziJ0Zvwu) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture III](https://open.spotify.com/album/1lteSAPdfkjYq3lc494VXG) | 4:38 | 2021-07-01 | 2021-07-04 |
@@ -1066,7 +1068,7 @@
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-01-13 | 2023-04-15 |
 | [Shameless](https://open.spotify.com/track/3UYiU57SMiAS5LqolhHJw1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Shameless](https://open.spotify.com/album/2h1p1JzjT9rLJFAFrIkyrm) | 3:39 | 2019-09-06 | 2019-10-04 |
 | [Shapeshifter](https://open.spotify.com/track/0vtgMfyOVM2Y97DcVVJw3m) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 4:17 | 2025-06-27 | 2025-07-12 |
-| [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 | 2026-04-24 |  |
+| [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 | 2026-04-24 | 2026-05-30 |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-11 | 2022-08-27 |
 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 | 2025-09-26 | 2025-11-01 |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-28 | 2023-01-28 |

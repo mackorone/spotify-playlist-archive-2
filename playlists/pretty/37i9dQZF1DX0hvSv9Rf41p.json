@@ -1,13 +1,37 @@
 {
   "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Levity",
-  "num_followers": 993838,
+  "num_followers": 993853,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOFsmEaxcH1aNg8HzTfxpMk/Fbq6",
+  "snapshot_id": "AAAAAD/4VRQIexiaLCDnc9bcvSItvWYl",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "Eyes Cut Deeper (Crankdat Remix)",
+        "url": "https://open.spotify.com/album/1mWH95UcqhIYJHQmk8hydv"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 243380,
+      "name": "Eyes Cut Deeper - Crankdat Remix",
+      "url": "https://open.spotify.com/track/2qwDBUFbjlzSQnOLOa6V7m"
+    },
     {
       "added_at": "2026-05-15 04:02:24",
       "album": {
@@ -45,24 +69,212 @@
       "url": "https://open.spotify.com/track/1MttZtFQZkkCWbkeFfdKVQ"
     },
     {
-      "added_at": "2026-04-17 04:04:06",
+      "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "Eyes Cut Deeper (feat. In\u00e9z)",
-        "url": "https://open.spotify.com/album/2g487gVxjRBjBwhMVJ4Ldn"
+        "name": "Thistle",
+        "url": "https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP"
       },
       "artists": [
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+          "name": "Randomer",
+          "url": "https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h"
+        },
+        {
+          "name": "Blawan",
+          "url": "https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 235034,
+      "name": "Thistle",
+      "url": "https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg"
+    },
+    {
+      "added_at": "2026-04-17 04:04:06",
+      "album": {
+        "name": "BBFL",
+        "url": "https://open.spotify.com/album/0CodZZC4AQt9FtcZTdM4EB"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "BBFL",
+      "url": "https://open.spotify.com/track/0pqlIvYxalvFLP1Oje5zD3"
+    },
+    {
+      "added_at": "2026-05-15 04:02:24",
+      "album": {
+        "name": "Fuck The Whole World (Subtronics Remix)",
+        "url": "https://open.spotify.com/album/24kOcYxCPLESlexPHkM3Ct"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 155675,
+      "name": "Fuck The Whole World - Subtronics Remix",
+      "url": "https://open.spotify.com/track/4D5abe8UYoP2K2sKxyx3mT"
+    },
+    {
+      "added_at": "2026-04-17 04:04:06",
+      "album": {
+        "name": "WONKY SHIT",
+        "url": "https://open.spotify.com/album/7g4Yj4gmORFhAJf11XXuOL"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "J. Plaza",
+          "url": "https://open.spotify.com/artist/5byn1BtQQdomxOZgqd2S0Y"
         }
       ],
       "duration_ms": 192000,
-      "name": "Eyes Cut Deeper (feat. In\u00e9z)",
-      "url": "https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"
+      "name": "WONKY SHIT",
+      "url": "https://open.spotify.com/track/1HzfJVzAFhHxas1hpco7bs"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "RIDDEM",
+        "url": "https://open.spotify.com/album/6K0oLtutn78F9CXO6IOQ2g"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Allenora",
+          "url": "https://open.spotify.com/artist/7bPZHSmeAYFS6svtey8re0"
+        },
+        {
+          "name": "America Foster",
+          "url": "https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO"
+        }
+      ],
+      "duration_ms": 207428,
+      "name": "RIDDEM",
+      "url": "https://open.spotify.com/track/1bkjMSYQVJJtxIZTykflfg"
+    },
+    {
+      "added_at": "2026-05-15 04:02:24",
+      "album": {
+        "name": "RAGE",
+        "url": "https://open.spotify.com/album/2hRr9AJySoLaK9NrxpAios"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "RAGE",
+      "url": "https://open.spotify.com/track/5VM2R8CCOOPntVtycrbN9R"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "LOADED",
+        "url": "https://open.spotify.com/album/42Hu4og1F4k76S2kmDBk1K"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "LOADED",
+      "url": "https://open.spotify.com/track/3PhCbTYdxv5O9nGOzDHhkV"
+    },
+    {
+      "added_at": "2026-05-08 04:02:32",
+      "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
+    },
+    {
+      "added_at": "2026-05-08 04:02:32",
+      "album": {
+        "name": "SWANGIN'",
+        "url": "https://open.spotify.com/album/66oZ0p6RfIeETHxlzR5Nzl"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "SWANGIN'",
+      "url": "https://open.spotify.com/track/2wGXI8ztqQ674mrn3rZa3Q"
+    },
+    {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "DESTRUCTION OF A UFO",
+        "url": "https://open.spotify.com/album/7KToeeuacOaEySYFDzjVTk"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        }
+      ],
+      "duration_ms": 213230,
+      "name": "FALL WITH ME",
+      "url": "https://open.spotify.com/track/64R7y9nCSQtZXPTsSBxUhe"
+    },
+    {
+      "added_at": "2026-05-15 04:02:24",
+      "album": {
+        "name": "DO AS I SAY",
+        "url": "https://open.spotify.com/album/0ldvzzs4B1TDj8kUPv5HLb"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 199666,
+      "name": "DO AS I SAY",
+      "url": "https://open.spotify.com/track/56NCLe3cAx4QCtHDhl6WD8"
     },
     {
       "added_at": "2026-05-22 04:01:23",
@@ -109,76 +321,20 @@
       "url": "https://open.spotify.com/track/2KFJYXqd3fVEHfWSNhlTEp"
     },
     {
-      "added_at": "2026-05-15 04:02:24",
+      "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "RAGE",
-        "url": "https://open.spotify.com/album/2hRr9AJySoLaK9NrxpAios"
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/1Xua1uf9DhUlYfNjh9rztu"
       },
       "artists": [
         {
-          "name": "AVELLO",
-          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
-        },
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
         }
       ],
-      "duration_ms": 145600,
-      "name": "RAGE",
-      "url": "https://open.spotify.com/track/5VM2R8CCOOPntVtycrbN9R"
-    },
-    {
-      "added_at": "2026-05-08 04:02:32",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
-      },
-      "artists": [
-        {
-          "name": "Blossom",
-          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
-    },
-    {
-      "added_at": "2026-04-17 04:04:06",
-      "album": {
-        "name": "BBFL",
-        "url": "https://open.spotify.com/album/0CodZZC4AQt9FtcZTdM4EB"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "BBFL",
-      "url": "https://open.spotify.com/track/0pqlIvYxalvFLP1Oje5zD3"
-    },
-    {
-      "added_at": "2026-05-15 04:02:24",
-      "album": {
-        "name": "Fuck The Whole World (Subtronics Remix)",
-        "url": "https://open.spotify.com/album/24kOcYxCPLESlexPHkM3Ct"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Fuck The Whole World - Subtronics Remix",
-      "url": "https://open.spotify.com/track/4D5abe8UYoP2K2sKxyx3mT"
+      "duration_ms": 193479,
+      "name": "Broken Calculator",
+      "url": "https://open.spotify.com/track/7sjwnLjMRgSq4EQCzLveaa"
     },
     {
       "added_at": "2026-05-08 04:02:32",
@@ -217,24 +373,20 @@
       "url": "https://open.spotify.com/track/06Ib3OfxdvinrGtizQA5uP"
     },
     {
-      "added_at": "2026-04-17 04:04:06",
+      "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "WONKY SHIT",
-        "url": "https://open.spotify.com/album/7g4Yj4gmORFhAJf11XXuOL"
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/2L6FoVC48uSB54QpfxZdS8"
       },
       "artists": [
         {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "J. Plaza",
-          "url": "https://open.spotify.com/artist/5byn1BtQQdomxOZgqd2S0Y"
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
         }
       ],
-      "duration_ms": 192000,
-      "name": "WONKY SHIT",
-      "url": "https://open.spotify.com/track/1HzfJVzAFhHxas1hpco7bs"
+      "duration_ms": 148965,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/2BRxZXodJKlPvC0eq5VZFn"
     },
     {
       "added_at": "2026-04-10 04:03:13",
@@ -257,6 +409,26 @@
       "url": "https://open.spotify.com/track/3CL5yUXDzK8YXCdMC8HWhr"
     },
     {
+      "added_at": "2026-05-29 04:02:45",
+      "album": {
+        "name": "THIGHS (up)",
+        "url": "https://open.spotify.com/album/25jdNZ36W7Yn7bWGfn3Qlz"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Crumb Pit",
+          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "THIGHS (up)",
+      "url": "https://open.spotify.com/track/491ojG5dWqokrVgGltDdRH"
+    },
+    {
       "added_at": "2026-05-01 04:02:55",
       "album": {
         "name": "Drifter",
@@ -271,22 +443,6 @@
       "duration_ms": 153103,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/3uuBJlejBBFhRMWAcsZdS3"
-    },
-    {
-      "added_at": "2026-05-08 04:02:32",
-      "album": {
-        "name": "SWANGIN'",
-        "url": "https://open.spotify.com/album/66oZ0p6RfIeETHxlzR5Nzl"
-      },
-      "artists": [
-        {
-          "name": "HerShe",
-          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "SWANGIN'",
-      "url": "https://open.spotify.com/track/2wGXI8ztqQ674mrn3rZa3Q"
     },
     {
       "added_at": "2026-05-08 04:02:32",
@@ -309,20 +465,40 @@
       "url": "https://open.spotify.com/track/0rzwlZaRSQWk0Qhe7htHXd"
     },
     {
-      "added_at": "2026-05-15 04:02:24",
+      "added_at": "2026-05-29 04:02:45",
       "album": {
-        "name": "DO AS I SAY",
-        "url": "https://open.spotify.com/album/0ldvzzs4B1TDj8kUPv5HLb"
+        "name": "Motion Detected",
+        "url": "https://open.spotify.com/album/4m7RgMtt0PoU4tsgM2xOQ2"
       },
       "artists": [
         {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
         }
       ],
-      "duration_ms": 199666,
-      "name": "DO AS I SAY",
-      "url": "https://open.spotify.com/track/56NCLe3cAx4QCtHDhl6WD8"
+      "duration_ms": 192000,
+      "name": "Motion Detected",
+      "url": "https://open.spotify.com/track/4NOsf6p2Xnqpupe3dnR4xn"
+    },
+    {
+      "added_at": "2026-04-17 04:04:06",
+      "album": {
+        "name": "Eyes Cut Deeper (feat. In\u00e9z)",
+        "url": "https://open.spotify.com/album/2g487gVxjRBjBwhMVJ4Ldn"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Eyes Cut Deeper (feat. In\u00e9z)",
+      "url": "https://open.spotify.com/track/3E8WZzcp6nscGt9YvBX9MW"
     },
     {
       "added_at": "2026-04-24 04:02:31",
@@ -709,30 +885,6 @@
       "url": "https://open.spotify.com/track/6zkI5zNfoilLBC9qvvETI6"
     },
     {
-      "added_at": "2026-05-01 04:02:55",
-      "album": {
-        "name": "Let It Go (feat. Micah Martin)",
-        "url": "https://open.spotify.com/album/0icq8NzJlStWtCh1gJ6aeB"
-      },
-      "artists": [
-        {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
-        },
-        {
-          "name": "TVBOO",
-          "url": "https://open.spotify.com/artist/3T0BepBNnd3kw2m10rh8yW"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Let It Go (feat. Micah Martin)",
-      "url": "https://open.spotify.com/track/0MgA5mQ4YspY5TKu6p6JeU"
-    },
-    {
       "added_at": "2026-04-03 04:03:08",
       "album": {
         "name": "Screen Time",
@@ -907,42 +1059,6 @@
       "duration_ms": 138000,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6PuGfVM0DCgX04vyZ2RFwz"
-    },
-    {
-      "added_at": "2026-04-17 04:04:06",
-      "album": {
-        "name": "HEAVYWEIGHT (feat. Space Laces)",
-        "url": "https://open.spotify.com/album/7K6Uie7MRPJhPajairUJzx"
-      },
-      "artists": [
-        {
-          "name": "Getter",
-          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
-        },
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "HEAVYWEIGHT (feat. Space Laces)",
-      "url": "https://open.spotify.com/track/6VphpbVkmB65W5EHwPpNrx"
-    },
-    {
-      "added_at": "2026-04-24 04:02:31",
-      "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/5ThSyNsXiVHyF06Zd4mZuq"
-      },
-      "artists": [
-        {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
-        }
-      ],
-      "duration_ms": 151267,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/3Q4c260OtcneST0kSXoLnE"
     },
     {
       "added_at": "2026-05-22 04:01:23",
@@ -1321,46 +1437,6 @@
       "url": "https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA"
     },
     {
-      "added_at": "2026-04-10 04:03:13",
-      "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/1yszBAc0IwBDEJxEONIA8w"
-      },
-      "artists": [
-        {
-          "name": "HerShe",
-          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
-        },
-        {
-          "name": "Stoop Noise",
-          "url": "https://open.spotify.com/artist/3su16pym8LTYJiFOSVsin7"
-        }
-      ],
-      "duration_ms": 199436,
-      "name": "RAW",
-      "url": "https://open.spotify.com/track/06QkznUonxRfTPaX6jRjRO"
-    },
-    {
-      "added_at": "2026-03-20 04:31:42",
-      "album": {
-        "name": "Candy P",
-        "url": "https://open.spotify.com/album/5AAGa1ufqIZwD6yUt7nQbF"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Mr Candy Kazu",
-          "url": "https://open.spotify.com/artist/3j2xZ5qiSevCbQT914rIPS"
-        }
-      ],
-      "duration_ms": 146517,
-      "name": "Candy P",
-      "url": "https://open.spotify.com/track/66hh5gGtf4Z3AfT5mljhdV"
-    },
-    {
       "added_at": "2026-03-27 04:00:20",
       "album": {
         "name": "Bass Quest, Vol. 1",
@@ -1375,34 +1451,6 @@
       "duration_ms": 147200,
       "name": "Bass Quest",
       "url": "https://open.spotify.com/track/06kJjHf74IvAe2ux6upKq8"
-    },
-    {
-      "added_at": "2026-04-03 04:03:08",
-      "album": {
-        "name": "Booty Percolatin' (Wet Velvet & TCHiLT Remix)",
-        "url": "https://open.spotify.com/album/3NxePk1OrdOslD87m1ggX3"
-      },
-      "artists": [
-        {
-          "name": "Will Clarke",
-          "url": "https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi"
-        },
-        {
-          "name": "dj funk",
-          "url": "https://open.spotify.com/artist/6M0FCfVRUo5DUuziqLFjJ0"
-        },
-        {
-          "name": "Wet Velvet",
-          "url": "https://open.spotify.com/artist/2JfXPBTjqgt8gnZQqVG4Ch"
-        },
-        {
-          "name": "TCHiLT",
-          "url": "https://open.spotify.com/artist/7DzinyxXTg9W3v8s3OXVA5"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Booty Percolatin' - Wet Velvet & TCHiLT Remix",
-      "url": "https://open.spotify.com/track/33WIJBqaaBWPjfdUBk4x0R"
     },
     {
       "added_at": "2026-02-13 05:00:48",
@@ -1445,114 +1493,6 @@
       "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
     },
     {
-      "added_at": "2026-03-13 04:00:52",
-      "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/0GV0Mgwiwx7SdKemncmVbi"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        },
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
-        },
-        {
-          "name": "Luma",
-          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
-        }
-      ],
-      "duration_ms": 172344,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/2VxfVbANSIC8gHgiqJ2j3X"
-    },
-    {
-      "added_at": "2026-03-13 04:00:52",
-      "album": {
-        "name": "USB002 REMIXES",
-        "url": "https://open.spotify.com/album/4K3hvH2vCYi6fOd3vaMbij"
-      },
-      "artists": [
-        {
-          "name": "Skream & Benga",
-          "url": "https://open.spotify.com/artist/6TaOlqfpegMP5IpO3fZo38"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "you\u2019re a star - Skream & Benga remix",
-      "url": "https://open.spotify.com/track/1b76GMDZIxrB0Ig9xZLchd"
-    },
-    {
-      "added_at": "2026-03-20 04:31:42",
-      "album": {
-        "name": "Echo Chamber",
-        "url": "https://open.spotify.com/album/2TjelVZVTDssWHvROGDyC4"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "Echo Chamber",
-      "url": "https://open.spotify.com/track/7sJ4ue5uhSaXnNlmBWOyuv"
-    },
-    {
-      "added_at": "2026-03-20 04:31:42",
-      "album": {
-        "name": "i go hard",
-        "url": "https://open.spotify.com/album/5NSIWxRabxh0ptE8nejj4W"
-      },
-      "artists": [
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        },
-        {
-          "name": "BRUX",
-          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "i go hard",
-      "url": "https://open.spotify.com/track/4zBWyLe96iTLDSu68zneAj"
-    },
-    {
-      "added_at": "2026-01-05 21:41:53",
-      "album": {
-        "name": "Cocaine Inside My Blunts (Tape B Remix)",
-        "url": "https://open.spotify.com/album/0Mfw5FWUUwxJ7Dof1OnV4L"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Cocaine Inside My Blunts (Tape B Remix)",
-      "url": "https://open.spotify.com/track/5uCOhMc7WQy7jawqJbdhh2"
-    },
-    {
       "added_at": "2026-02-13 05:00:48",
       "album": {
         "name": "Pop Off",
@@ -1571,26 +1511,6 @@
       "duration_ms": 196056,
       "name": "Pop Off",
       "url": "https://open.spotify.com/track/4PolqZLqReEqc3yURJtzc4"
-    },
-    {
-      "added_at": "2026-03-06 05:00:26",
-      "album": {
-        "name": "Die Young",
-        "url": "https://open.spotify.com/album/55OyYqQkIvzjWd8YHMT4TR"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "CHAINMAN",
-          "url": "https://open.spotify.com/artist/5hognANWcSbjxxUqvZwIfC"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/09qze0BFdLERhcw0058gNv"
     },
     {
       "added_at": "2025-12-05 05:08:59",
@@ -1695,22 +1615,6 @@
       "duration_ms": 247586,
       "name": "Silence - Dimension Remix",
       "url": "https://open.spotify.com/track/2AUVVfU9CmmbWcudIAJ5vD"
-    },
-    {
-      "added_at": "2025-12-05 05:08:59",
-      "album": {
-        "name": "AMEN",
-        "url": "https://open.spotify.com/album/6ZAMhvsWrgPcimgGHrPb8b"
-      },
-      "artists": [
-        {
-          "name": "St. Mary",
-          "url": "https://open.spotify.com/artist/053q2D9p8VzxaIzwGZhCUM"
-        }
-      ],
-      "duration_ms": 180413,
-      "name": "Psych Ward!",
-      "url": "https://open.spotify.com/track/055fkJ4voIArpXrHhFCjWA"
     },
     {
       "added_at": "2025-10-03 06:29:44",

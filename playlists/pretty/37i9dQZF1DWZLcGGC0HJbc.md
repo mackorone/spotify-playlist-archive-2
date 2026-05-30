@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > Voor boslucht, koffie en kalmte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,137 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,135 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 44 | [Ferris Wheel](https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Ferris Wheel](https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp) | 3:25 |
 | 45 | [God Loves Weirdos](https://open.spotify.com/track/2ZrUGV4BYg13r4Q3ilGdt3) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [God Loves Weirdos](https://open.spotify.com/album/0Goshi4S6DLOdTCoPDTsXB) | 3:09 |
 | 46 | [Six Missed Calls](https://open.spotify.com/track/3A11OV16IvmGERXBn8MjSV) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [Speak Softly](https://open.spotify.com/album/4SBPSulqoUsJbjrrvjl0lP) | 5:01 |
-| 47 | [Prizefighter](https://open.spotify.com/track/2Wp6mnhsFbqECf90ZgfpaC) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ) | [The Lighthouse](https://open.spotify.com/album/6yZlmaOAjcmKiGRkxaogrO) | 4:23 |
+| 47 | [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 |
 | 48 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 |
-| 49 | [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 |
-| 50 | [A Good Run](https://open.spotify.com/track/5tTDFBl4KqXZj0baFufH2q) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [A Good Run](https://open.spotify.com/album/3PEIbtEGaXsuI796aBVgyl) | 2:53 |
+| 49 | [Prizefighter](https://open.spotify.com/track/2Wp6mnhsFbqECf90ZgfpaC) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ) | [The Lighthouse](https://open.spotify.com/album/6yZlmaOAjcmKiGRkxaogrO) | 4:23 |
+| 50 | [My Heroine](https://open.spotify.com/track/0IAhw7KxiogXweSwVxW4av) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Every Dawn's a Mountain](https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1) | 3:21 |
 
 Snapshot ID: `AAAAAFV3tm1bmNW+66XFL1wrEAIYxvNK`

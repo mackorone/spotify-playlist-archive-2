@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 181566,
       "name": "1 plus 1",
       "url": "https://open.spotify.com/track/10Vy8sTZEt4gAYs3DTKKon"
@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 340961,
       "name": "Angelico",
       "url": "https://open.spotify.com/track/4a0emwqhna7Mkp49AbtysM"
@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 147500,
       "name": "Ballet Flat$ On The Ga$ Pedal",
       "url": "https://open.spotify.com/track/26VUliruOm9r2zbg7uJDmY"
@@ -2834,7 +2834,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 163902,
       "name": "because U are the Sun",
       "url": "https://open.spotify.com/track/6SwZ3vFVbf7PTaeepHDglS"
@@ -4985,6 +4985,24 @@
     },
     {
       "album": {
+        "name": "Rumspringa",
+        "url": "https://open.spotify.com/album/1EHtMAqAB6GSnw8IbuXFLn"
+      },
+      "artists": [
+        {
+          "name": "ear",
+          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234303,
+      "name": "Coil",
+      "url": "https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55"
+    },
+    {
+      "album": {
         "name": "FLAWLESS LIKE ME",
         "url": "https://open.spotify.com/album/5zWZi7tO66MoobIAl9OxWS"
       },
@@ -6304,7 +6322,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 197298,
       "name": "Do It (Yves Remix)",
       "url": "https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj"
@@ -6747,6 +6765,24 @@
     },
     {
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/0n05H96Yf24sMbHzIohYk9"
+      },
+      "artists": [
+        {
+          "name": "Lucy Lamb",
+          "url": "https://open.spotify.com/artist/1fLl0QDFau1trbJkpjvyEt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213861,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/4RnaELpFXTbyudvHjFutSl"
+    },
+    {
+      "album": {
         "name": "Drive Me Crazy / Oblivious",
         "url": "https://open.spotify.com/album/0RCl1vq6TgP0c1PNPhtnSv"
       },
@@ -6846,7 +6882,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 232067,
       "name": "Dual Wield (femtanyl Remix)",
       "url": "https://open.spotify.com/track/3nwKpWrsZXcO1SqbhnkvG3"
@@ -7350,7 +7386,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 156568,
       "name": "Euro Dollar Yen",
       "url": "https://open.spotify.com/track/3ANnIrR04vDdQ3yRpmpV5R"
@@ -7775,6 +7811,32 @@
     },
     {
       "album": {
+        "name": "Falling Out of Grace",
+        "url": "https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        },
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        },
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/5AkRNxM8MEyS7oUjZMk0WQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180875,
+      "name": "Falling Out of Grace",
+      "url": "https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT"
+    },
+    {
+      "album": {
         "name": "We All We Got",
         "url": "https://open.spotify.com/album/34lnCyV2yifNux7dsd1w0O"
       },
@@ -8004,7 +8066,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 152079,
       "name": "Feel This",
       "url": "https://open.spotify.com/track/4Dr18icLddtjqPurriBNC7"
@@ -18730,7 +18792,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 163074,
       "name": "Poplife",
       "url": "https://open.spotify.com/track/2cClnOEBnNJWxbLuTFVIgK"
@@ -20477,6 +20539,28 @@
     },
     {
       "album": {
+        "name": "Sad But So Funny",
+        "url": "https://open.spotify.com/album/2sZNACN1OtfS387IGeyJi9"
+      },
+      "artists": [
+        {
+          "name": "Eera",
+          "url": "https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P"
+        },
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223561,
+      "name": "Sad But So Funny",
+      "url": "https://open.spotify.com/track/4z82AjKmLtVzxmShgNCgkp"
+    },
+    {
+      "album": {
         "name": "sassup witcha",
         "url": "https://open.spotify.com/album/2T1zQxFBQcWX8kQKCkql3o"
       },
@@ -22087,6 +22171,24 @@
     },
     {
       "album": {
+        "name": "STAY IN UR LANE",
+        "url": "https://open.spotify.com/album/5re6ZtMHjwzaEhguA08fmN"
+      },
+      "artists": [
+        {
+          "name": "deBasement",
+          "url": "https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158411,
+      "name": "STAY IN UR LANE",
+      "url": "https://open.spotify.com/track/3aDJwwV4q3GOmD5TZZOR6C"
+    },
+    {
+      "album": {
         "name": "925",
         "url": "https://open.spotify.com/album/0EzTsKjkoeJWbdFBP8NoAj"
       },
@@ -22297,7 +22399,7 @@
     },
     {
       "album": {
-        "name": "stone scultped heart",
+        "name": "stone sculpted heart",
         "url": "https://open.spotify.com/album/6aqZH96RIf4ikXh35FoQGX"
       },
       "artists": [
@@ -22310,7 +22412,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176307,
-      "name": "stone scultped heart",
+      "name": "stone sculpted heart",
       "url": "https://open.spotify.com/track/10TQ5jFLDmJlOyfJQKIOMZ"
     },
     {
@@ -23068,7 +23170,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 123809,
       "name": "tell me",
       "url": "https://open.spotify.com/track/7oeWxx5w6BPVROHcEPDzRL"

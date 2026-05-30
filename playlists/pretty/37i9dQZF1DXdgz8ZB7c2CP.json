@@ -1,13 +1,49 @@
 {
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>  featuring Swimming Paul",
-  "num_followers": 844551,
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\udfd4\ufe0f featuring What So Not & Alina Pash",
+  "num_followers": 844531,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFkWrSW4ApcpIrvEqAJfp0nzwtWs",
+  "snapshot_id": "AAAAAIB/iE/s7Fy27YHBppF4jGPiGC8S",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:02:39",
+      "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/57GNwR8r5HpFA4rEVC86iB"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Alina Pash",
+          "url": "https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i"
+        }
+      ],
+      "duration_ms": 182450,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/0L9hLpaILakNHtwvgNeMjA"
+    },
+    {
+      "added_at": "2026-05-08 04:04:13",
+      "album": {
+        "name": "\"Not Found\" (EP)",
+        "url": "https://open.spotify.com/album/2hHrUGNQ13JEq6qxfb8QPw"
+      },
+      "artists": [
+        {
+          "name": "eric404",
+          "url": "https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL"
+        }
+      ],
+      "duration_ms": 188374,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT"
+    },
     {
       "added_at": "2026-05-15 04:02:26",
       "album": {
@@ -27,22 +63,34 @@
     {
       "added_at": "2026-05-22 04:01:03",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/0UcnyV3OzcjNMuApyO5kXQ"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "Beaux Neptune",
-          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
         }
       ],
-      "duration_ms": 194887,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
+      "duration_ms": 147826,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/0Rq1qly0j85jDxYTXkmNrI"
+    },
+    {
+      "added_at": "2026-05-29 04:02:39",
+      "album": {
+        "name": "Close To Me",
+        "url": "https://open.spotify.com/album/5xy527apuowNDrT8YPGOiD"
+      },
+      "artists": [
+        {
+          "name": "Dennett",
+          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
+        }
+      ],
+      "duration_ms": 220444,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/1sR7wY8HpZYHTKafDLFpEL"
     },
     {
       "added_at": "2026-05-22 04:01:03",
@@ -59,38 +107,6 @@
       "duration_ms": 215652,
       "name": "NIGHTS",
       "url": "https://open.spotify.com/track/6VixlHKJOoG9d8RjxmzIWo"
-    },
-    {
-      "added_at": "2026-05-08 04:04:13",
-      "album": {
-        "name": "\"Not Found\" (EP)",
-        "url": "https://open.spotify.com/album/2hHrUGNQ13JEq6qxfb8QPw"
-      },
-      "artists": [
-        {
-          "name": "eric404",
-          "url": "https://open.spotify.com/artist/7jL3ObaJuAVhTAK0VEF2qL"
-        }
-      ],
-      "duration_ms": 188374,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT"
-    },
-    {
-      "added_at": "2026-05-22 04:01:03",
-      "album": {
-        "name": "Mind",
-        "url": "https://open.spotify.com/album/0UcnyV3OzcjNMuApyO5kXQ"
-      },
-      "artists": [
-        {
-          "name": "Darby",
-          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Mind",
-      "url": "https://open.spotify.com/track/0Rq1qly0j85jDxYTXkmNrI"
     },
     {
       "added_at": "2026-05-01 04:02:39",
@@ -149,6 +165,42 @@
       "url": "https://open.spotify.com/track/2rlcmaj7JHt6Oz9ewQGoSt"
     },
     {
+      "added_at": "2026-05-29 04:02:39",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1EfHBprhrWg6BDa4SOnTof"
+      },
+      "artists": [
+        {
+          "name": "ALIGN",
+          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+        }
+      ],
+      "duration_ms": 125070,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6mzfxppGNFic87PquwtGuT"
+    },
+    {
+      "added_at": "2026-05-22 04:01:03",
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/1OJ2oUJcjDuiIEPrU5trpp"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "Beaux Neptune",
+          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
+        }
+      ],
+      "duration_ms": 194887,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/3CWjCDuORRYDKZjdQRra4f"
+    },
+    {
       "added_at": "2026-03-27 04:00:17",
       "album": {
         "name": "Overkill (Dance Remix)",
@@ -167,6 +219,30 @@
       "duration_ms": 154596,
       "name": "Overkill - Dance Remix",
       "url": "https://open.spotify.com/track/1qbBwytmeuiZTxm1APaVcn"
+    },
+    {
+      "added_at": "2026-05-29 04:02:39",
+      "album": {
+        "name": "My Destiny",
+        "url": "https://open.spotify.com/album/0O9mN7yH0MENyCjaOLzFIC"
+      },
+      "artists": [
+        {
+          "name": "Delinquent",
+          "url": "https://open.spotify.com/artist/1VtJL8QulGDXbbZwTaGV53"
+        },
+        {
+          "name": "KCAT",
+          "url": "https://open.spotify.com/artist/0aWB8X9jnXYw3cyRnUtutZ"
+        },
+        {
+          "name": "Mike Delinquent Project",
+          "url": "https://open.spotify.com/artist/3ktmzZtH6NJz7269QgaBtL"
+        }
+      ],
+      "duration_ms": 147713,
+      "name": "My Destiny - 2026 Edit",
+      "url": "https://open.spotify.com/track/1quse5mAKsNcrilBTJosG3"
     },
     {
       "added_at": "2026-04-24 04:02:20",
@@ -219,6 +295,26 @@
       "duration_ms": 222608,
       "name": "Blame It",
       "url": "https://open.spotify.com/track/5LB3N8fVFSH8IaXn7WSLPA"
+    },
+    {
+      "added_at": "2026-05-29 04:02:39",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3cuUc6q7rrGELnzIpRqHwZ"
+      },
+      "artists": [
+        {
+          "name": "SHAKING",
+          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
+        },
+        {
+          "name": "Clearcast",
+          "url": "https://open.spotify.com/artist/3dRhjQBCaVo5zMuXyjv7Su"
+        }
+      ],
+      "duration_ms": 180430,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/1YsTMha2DpnIZlm7Dj9suA"
     },
     {
       "added_at": "2026-03-20 15:46:35",
@@ -821,42 +917,6 @@
       "url": "https://open.spotify.com/track/0PMMUuluiRSTYv3mrvyH1d"
     },
     {
-      "added_at": "2026-04-17 04:04:00",
-      "album": {
-        "name": "Better Off Before",
-        "url": "https://open.spotify.com/album/0N6Wb352thnlCDXYBU6ltE"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Better Off Before",
-      "url": "https://open.spotify.com/track/395UwzdJRE8i8pEgXBtbTJ"
-    },
-    {
-      "added_at": "2026-04-24 04:02:20",
-      "album": {
-        "name": "Anywhere With You",
-        "url": "https://open.spotify.com/album/3x6TBnwaI3MP8lK9aQgMD0"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "soleil",
-          "url": "https://open.spotify.com/artist/7ETxY27poBqP3kbCYJEXlN"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "Anywhere With You",
-      "url": "https://open.spotify.com/track/3bGaOepdpfSWwclX8Eht8y"
-    },
-    {
       "added_at": "2026-04-10 04:03:08",
       "album": {
         "name": "Sinking",
@@ -913,22 +973,6 @@
       "url": "https://open.spotify.com/track/5INHtXHAYKhHurNAM2DMjT"
     },
     {
-      "added_at": "2026-05-08 04:04:13",
-      "album": {
-        "name": "Crybaby (why do i feel so sad?)",
-        "url": "https://open.spotify.com/album/7wCUDIpR3A4CII7oh3nIjU"
-      },
-      "artists": [
-        {
-          "name": "Melo Nada",
-          "url": "https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Crybaby (why do i feel so sad?)",
-      "url": "https://open.spotify.com/track/5sHTYfLEPlMMPpXOIH12q9"
-    },
-    {
       "added_at": "2026-04-24 04:02:20",
       "album": {
         "name": "HOUDINI",
@@ -943,22 +987,6 @@
       "duration_ms": 151351,
       "name": "HOUDINI",
       "url": "https://open.spotify.com/track/2Y7gILjkbWMM2F346Fz8Ud"
-    },
-    {
-      "added_at": "2026-04-24 04:02:20",
-      "album": {
-        "name": "999soundsystem",
-        "url": "https://open.spotify.com/album/45rkJHr1HWOLzbFpi1Mwg4"
-      },
-      "artists": [
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        }
-      ],
-      "duration_ms": 173017,
-      "name": "999soundsystem",
-      "url": "https://open.spotify.com/track/6mv33AvhAJWcz3O8XzQ2rc"
     },
     {
       "added_at": "2026-04-10 04:03:08",
@@ -995,26 +1023,6 @@
       "duration_ms": 234666,
       "name": "close your eyes",
       "url": "https://open.spotify.com/track/0GY3VN7i3hElhqhIqSHKQi"
-    },
-    {
-      "added_at": "2026-05-01 04:02:39",
-      "album": {
-        "name": "Everything For You",
-        "url": "https://open.spotify.com/album/58ZrfiPUYFvExKFhG9zlym"
-      },
-      "artists": [
-        {
-          "name": "Khamsin",
-          "url": "https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren"
-        },
-        {
-          "name": "purpl",
-          "url": "https://open.spotify.com/artist/0qLq938YLoXapahHpnzVSO"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Everything For You",
-      "url": "https://open.spotify.com/track/0qox46l3lrHNQHvazjSjYJ"
     },
     {
       "added_at": "2026-01-16 19:10:38",
@@ -1189,22 +1197,6 @@
       "url": "https://open.spotify.com/track/2DfwSdlpqtOmErmqAdIUwH"
     },
     {
-      "added_at": "2026-04-24 04:02:20",
-      "album": {
-        "name": "i'm glad we went through it",
-        "url": "https://open.spotify.com/album/0SybZwrpHGPu2uoRcQgVE8"
-      },
-      "artists": [
-        {
-          "name": "Jeremy James Whitaker",
-          "url": "https://open.spotify.com/artist/41FAFO0sEodQajiyqTtNX3"
-        }
-      ],
-      "duration_ms": 188444,
-      "name": "DIFFERENT",
-      "url": "https://open.spotify.com/track/7adDxOu4h1G7LUM3kCEQvh"
-    },
-    {
       "added_at": "2026-04-10 04:03:08",
       "album": {
         "name": "Never Adds Up (feat. In\u00e9z)",
@@ -1249,50 +1241,6 @@
       "url": "https://open.spotify.com/track/5ADhevsfCte2OEoI7c5VQi"
     },
     {
-      "added_at": "2026-04-03 04:37:00",
-      "album": {
-        "name": "PULL ME CLOSER",
-        "url": "https://open.spotify.com/album/1zH6k6Xzd6AN9SGgIyIDcS"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        },
-        {
-          "name": "artemis orion",
-          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
-        }
-      ],
-      "duration_ms": 199183,
-      "name": "PULL ME CLOSER",
-      "url": "https://open.spotify.com/track/42Vv0VrHNzSlbhedKSPLs9"
-    },
-    {
-      "added_at": "2026-04-10 04:03:08",
-      "album": {
-        "name": "Doing It Wrong",
-        "url": "https://open.spotify.com/album/0ir7ane2shVWPnuBZwYCwG"
-      },
-      "artists": [
-        {
-          "name": "Slater Manzo",
-          "url": "https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ"
-        },
-        {
-          "name": "First June",
-          "url": "https://open.spotify.com/artist/4f2GbBCjUJJDFXSvsTuyqn"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Doing It Wrong",
-      "url": "https://open.spotify.com/track/7JV9PR0p7ejQmRugzlFTyp"
-    },
-    {
       "added_at": "2026-04-17 04:04:00",
       "album": {
         "name": "SABOTAGE",
@@ -1331,22 +1279,6 @@
       "duration_ms": 212571,
       "name": "Log On",
       "url": "https://open.spotify.com/track/2twpRzcPzLOF9xxsbSWQqw"
-    },
-    {
-      "added_at": "2026-04-03 04:37:00",
-      "album": {
-        "name": "Thru My Mind",
-        "url": "https://open.spotify.com/album/2wn0WWrngnyfe5e0vy0h7D"
-      },
-      "artists": [
-        {
-          "name": "Sensu",
-          "url": "https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw"
-        }
-      ],
-      "duration_ms": 151968,
-      "name": "Thru My Mind",
-      "url": "https://open.spotify.com/track/2IOkHMQbAuAxcH6SqCqm1w"
     },
     {
       "added_at": "2026-03-20 15:46:35",
@@ -1435,22 +1367,6 @@
       "duration_ms": 195428,
       "name": "REQUIEM",
       "url": "https://open.spotify.com/track/2Oy6oc0Dit6XMcpTBvCdB0"
-    },
-    {
-      "added_at": "2026-04-03 04:37:00",
-      "album": {
-        "name": "In The Moments",
-        "url": "https://open.spotify.com/album/3APHEIdEEdXwTboPrXe6Ht"
-      },
-      "artists": [
-        {
-          "name": "Koastle",
-          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
-        }
-      ],
-      "duration_ms": 265098,
-      "name": "In The Moments",
-      "url": "https://open.spotify.com/track/4pf79d7NErYJ2CvFJkNhCT"
     },
     {
       "added_at": "2026-03-20 15:46:35",
@@ -1563,22 +1479,6 @@
       "duration_ms": 172800,
       "name": "youshouldknow (feat. Casey Cook)",
       "url": "https://open.spotify.com/track/1Db1MGuGNjtSTt1G9M5NgE"
-    },
-    {
-      "added_at": "2026-03-20 15:46:35",
-      "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 208378,
-      "name": "Innuendo (I Get U)",
-      "url": "https://open.spotify.com/track/1D84CoKziCbQw6NWVxorq4"
     },
     {
       "added_at": "2026-03-13 04:00:47",

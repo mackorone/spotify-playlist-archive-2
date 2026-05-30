@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 
 > smooth, crisp, not too tannic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,607 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,669 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Good Days](https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:39 |
+| 1 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 2 | [Planes](https://open.spotify.com/track/6ldto3peQuqKTZKMa4SA6f) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Planes](https://open.spotify.com/album/7rWIUlfmcWa9rQLMJ2SXrN) | 3:33 |
 | 3 | [Goji](https://open.spotify.com/track/11y2kxIBHpfxcvlpShPxTs) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Goji](https://open.spotify.com/album/3soUMToMXTZOHJFGVoeuij) | 3:35 |
 | 4 | [Remedy](https://open.spotify.com/track/1BC5ICKgJQiFbIWRqTsDV0) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Remedy](https://open.spotify.com/album/47wz4Jd9NtdNNStLsM7reV) | 3:13 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 8 | [Dance](https://open.spotify.com/track/1l9AXDDVSrKkVQxVTZkY8Z) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [My Home Is Not In This World](https://open.spotify.com/album/1JTg8PaBqbrOd1gdUadXpp) | 2:44 |
 | 9 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 |
 | 10 | [Going Good](https://open.spotify.com/track/3OkCBX6SixDGJDfhQeKlEV) | [Amir Bresler](https://open.spotify.com/artist/0YkHSziGnJb3civlSaKWk1) | [See What Happens](https://open.spotify.com/album/1W26VVmX3AxUTNzDvDKsBf) | 1:11 |
-| 11 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
+| 11 | [Good Days](https://open.spotify.com/track/4PMqSO5qyjpvzhlLI5GnID) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 4:39 |
 | 12 | [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 |
 | 13 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 |
 | 14 | [Feliz](https://open.spotify.com/track/5eiK2HgzkMrnuW8OXiJxXb) | [Alsogood](https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG) | [1000 Smiles](https://open.spotify.com/album/2coGljzacUFergWPnD8hoF) | 2:33 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 65 | [Ladyfingers](https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [Whipped Cream & Other Delights](https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP) | 2:44 |
 | 66 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 |
 | 67 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 |
-| 68 | [Red Room](https://open.spotify.com/track/55mvtucws4Mnro27744t9X) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:52 |
-| 69 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
+| 68 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
+| 69 | [Red Room](https://open.spotify.com/track/55mvtucws4Mnro27744t9X) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 3:52 |
 | 70 | [Footsteps in the Dark, Pts\. 1 & 2](https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Go for Your Guns](https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l) | 5:06 |
 | 71 | [In Your Eyes](https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:07 |
 | 72 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UQ1I1FrJsu.md) - [plain]
 | 93 | [There Will Be No Crying](https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:49 |
 | 94 | [Cheer Up, My Brother](https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 5:05 |
 | 95 | [la luna enamorada](https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 1:50 |
-| 96 | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 |
-| 97 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 |
-| 98 | [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 |
-| 99 | [Come Live With Me](https://open.spotify.com/track/3YT2vdLbvfcjfCiNR4DsKT) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 2:37 |
+| 96 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 |
+| 97 | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 |
+| 98 | [Come Live With Me](https://open.spotify.com/track/3YT2vdLbvfcjfCiNR4DsKT) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 2:37 |
+| 99 | [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 |
 | 100 | [Loverboy](https://open.spotify.com/track/3XCpEFU4uXsBq5WmVQQKC9) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 1:13 |
 
 Snapshot ID: `AAAAAJ3/5jnYOdv4SlquiHj52joKrn6F`

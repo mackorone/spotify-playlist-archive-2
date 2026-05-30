@@ -4,7 +4,7 @@
 
 > you up?
 
-576 songs - 1 day 8 hr 1 min
+577 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [BEAUTY QUEEN](https://open.spotify.com/track/1LywLmiRljnPwvwGVXrHih) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [BEAUTY QUEEN](https://open.spotify.com/album/362x0DX9hlrSYC20EncyrJ) | 3:10 | 2026-04-17 | 2026-05-26 |
 | [Believe It](https://open.spotify.com/track/0a3lhwW1nJ3Ud9Un2kFunh) | [Jared Benjamin](https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne) | [Believe It](https://open.spotify.com/album/1KFOY5fOpzO6tWjsQYQ1lh) | 2:51 | 2025-10-24 | 2026-04-27 |
 | [Belong to You \(feat\. 6LACK\)](https://open.spotify.com/track/2I88NEWpKrAPZuapXNV5G6) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 3:05 | 2022-03-25 | 2022-04-19 |
-| [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 | 2022-02-11 |  |
+| [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 | 2022-02-11 | 2026-05-30 |
 | [Better Version](https://open.spotify.com/track/6OYly4TGeYQFNXrt6Qh1JA) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Better Version](https://open.spotify.com/album/7KG6TtKMZAIPtY1T3ApyeU) | 3:35 | 2022-03-25 | 2022-07-29 |
 | [Bite The Bullet](https://open.spotify.com/track/0XHHQWWgSWNCyE3Hfbfy8a) | [Sissy Ford](https://open.spotify.com/artist/2drBoMyirQqpeX80MebU7l) | [Bite The Bullet](https://open.spotify.com/album/6a5mX0DoOpUegoR6jZzBmU) | 2:14 | 2025-11-28 | 2026-04-04 |
 | [BLEED MY LOVE](https://open.spotify.com/track/5vbuYJAzJqMIIaGcEuu021) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [BLEED MY LOVE](https://open.spotify.com/album/4oK6v8oTRvM6FSMRrz3MJX) | 2:34 | 2026-01-23 | 2026-05-02 |
@@ -229,6 +229,7 @@
 | [Heartburn](https://open.spotify.com/track/3tjfbu0G0PPy8UjhxfxVIe) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Heartburn](https://open.spotify.com/album/4RfO9aZPT2i4U2Wi1ERfOP) | 3:26 | 2022-02-04 | 2023-01-22 |
 | [Heaven](https://open.spotify.com/track/1T575AhHueYinKSDflEsGK) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:11 | 2022-03-11 |  |
 | [heaven come](https://open.spotify.com/track/2lTpnVnrqmYfAlgUNRfDSR) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [heaven come](https://open.spotify.com/album/151jH4X7h8l0lf0L6svPUr) | 2:56 | 2022-02-11 | 2022-06-02 |
+| [HEAVEN'S ON FIRE](https://open.spotify.com/track/6gsppD0BgCxZl3gSA8rAIp) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [HEAVEN'S ON FIRE](https://open.spotify.com/album/3FDnXLTQpefJBBNuVTx8gO) | 2:54 | 2026-05-29 |  |
 | [Heavenly](https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:46 | 2023-09-29 | 2024-04-19 |
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2023-01-18 | 2025-12-30 |
 | [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 | 2022-09-20 | 2022-10-07 |

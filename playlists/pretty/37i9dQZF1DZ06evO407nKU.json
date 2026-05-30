@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 57336,
+  "num_followers": 57343,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAAClShhA9d6xaQ11xTAZhlzP",
+  "snapshot_id": "aheFgAAAAACeT/Uinj7xx9JCho+gdN5o",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 141589,
-      "name": "La Hungara - En Vivo",
-      "url": "https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8"
+      "duration_ms": 202826,
+      "name": "Juro Por Dios - En Vivo",
+      "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
         }
       ],
-      "duration_ms": 202826,
-      "name": "Juro Por Dios - En Vivo",
-      "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
+      "duration_ms": 141589,
+      "name": "La Hungara - En Vivo",
+      "url": "https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tira Que Jala (Live)",
-        "url": "https://open.spotify.com/album/6tn0gofCUDKRDvyD61nYMy"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Grupo La Ka\u00f1a",
-          "url": "https://open.spotify.com/artist/6paWSc30mMu1ji3scSzD1Q"
-        }
-      ],
-      "duration_ms": 202922,
-      "name": "Tira Que Jala - Live",
-      "url": "https://open.spotify.com/track/2OZNhRH9Z2oNqLCBz9YeZy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa' Los Dolidos",
         "url": "https://open.spotify.com/album/1L357zj6NYMkLm7tllhJU0"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/2c1d1PjOoVSh9fNl2bf8K4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tira Que Jala (Live)",
+        "url": "https://open.spotify.com/album/6tn0gofCUDKRDvyD61nYMy"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Grupo La Ka\u00f1a",
+          "url": "https://open.spotify.com/artist/6paWSc30mMu1ji3scSzD1Q"
+        }
+      ],
+      "duration_ms": 202922,
+      "name": "Tira Que Jala - Live",
+      "url": "https://open.spotify.com/track/2OZNhRH9Z2oNqLCBz9YeZy"
     },
     {
       "added_at": null,

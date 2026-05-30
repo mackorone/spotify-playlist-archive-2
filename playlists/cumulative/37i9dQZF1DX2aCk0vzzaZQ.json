@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "Beginning to End: Act VII",
+        "url": "https://open.spotify.com/album/1iglVw0ao77cXZ4k8hn5nL"
+      },
+      "artists": [
+        {
+          "name": "Hendyamps Studios",
+          "url": "https://open.spotify.com/artist/334aHOT3wVlxMcwUI3Xg1P"
+        },
+        {
+          "name": "Aimee Norris",
+          "url": "https://open.spotify.com/artist/6C6AMnelJ5WX65HXLLwCFQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134775,
+      "name": "Beginning to End: Act VII",
+      "url": "https://open.spotify.com/track/7dIBMdZKjnoORPen0Bi1zF"
+    },
+    {
+      "album": {
         "name": "Brahms: Cello Sonatas - Stanford: Ballata",
         "url": "https://open.spotify.com/album/1TFv4wvn50Secdb40t5pdw"
       },

@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 191493,
       "name": "Cut Me Loose - Harris & Hurr Remix",
       "url": "https://open.spotify.com/track/4eE1ZdBoLpgYFhqDzUw71Y"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 176640,
       "name": "Dance With Your Ghost",
       "url": "https://open.spotify.com/track/2LKTBOPA0yNjmAfMjBw0is"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 153975,
       "name": "Drunk Me - R3HAB Remix",
       "url": "https://open.spotify.com/track/3kwL8x4afaomYsX3d4cmPL"
@@ -3050,7 +3050,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 161973,
       "name": "Leave Right Now - Martin Jensen Mix",
       "url": "https://open.spotify.com/track/2jfxgvlFmXQzUxTfCSEwmR"
@@ -4075,6 +4075,28 @@
     },
     {
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/5Wmypry9sRXgIZT5wdqkQq"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Remember Us (feat. Dustin Lynch)",
+      "url": "https://open.spotify.com/track/2Eg4pK9k0XxiJsta9Q8MrO"
+    },
+    {
+      "album": {
         "name": "Rob A Bank",
         "url": "https://open.spotify.com/album/41nGOWkY8pPu0z2PHw3F5t"
       },
@@ -4512,7 +4534,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 173069,
       "name": "Something\u2019s Coming",
       "url": "https://open.spotify.com/track/4F17nB9GKTSPfocx9D7jHx"
@@ -5374,7 +5396,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 202391,
       "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
       "url": "https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB"

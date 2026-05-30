@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAAAB4Fb3yFQ2HShqPsu5Xhg9",
+  "snapshot_id": "aheFgAAAAABxB6zXphAKs7O7cPxb4NTN",
   "tracks": [
     {
       "added_at": null,
@@ -683,6 +683,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
+        "url": "https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 247293,
+      "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
+      "url": "https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sex, Love & Pain II",
         "url": "https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D"
       },
@@ -719,34 +747,6 @@
       "duration_ms": 208000,
       "name": "Angles (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
-        "url": "https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 247293,
-      "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
-      "url": "https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh"
     },
     {
       "added_at": null,
@@ -851,30 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Never Visit Me (feat. Wale & Enny)",
-        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "You Never Visit Me (feat. Wale & Enny)",
-      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
         "url": "https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 222068,
       "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
       "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Never Visit Me (feat. Wale & Enny)",
+        "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "You Never Visit Me (feat. Wale & Enny)",
+      "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
     },
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friday Night Lights",
-        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 286900,
-      "name": "You Got It (feat. Wale)",
-      "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 158933,
       "name": "Shotgun (feat. Wale)",
       "url": "https://open.spotify.com/track/6xZrxEtWmWFtSQlCuYxLtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 286900,
+      "name": "You Got It (feat. Wale)",
+      "url": "https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ"
     },
     {
       "added_at": null,

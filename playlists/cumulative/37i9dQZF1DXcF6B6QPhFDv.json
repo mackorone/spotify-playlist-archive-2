@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "rock never dies. Cover: Ecca Vandal",
+  "description": "rock never dies. Cover: Violet Grohl",
   "name": "MARROW",
   "tracks": [
     {
@@ -74,6 +74,28 @@
       "duration_ms": 137052,
       "name": "10 for 10",
       "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
+    },
+    {
+      "album": {
+        "name": "12 Steps",
+        "url": "https://open.spotify.com/album/1aMq6S4AtfLlzrvKGkXdHp"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        },
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191423,
+      "name": "12 Steps (feat. Treaty Oak Revival)",
+      "url": "https://open.spotify.com/track/6RoaWAoHb5KxdBXUlzx6ls"
     },
     {
       "album": {
@@ -2814,7 +2836,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 145181,
       "name": "Broken Record",
       "url": "https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu"
@@ -2908,6 +2930,24 @@
       "duration_ms": 182039,
       "name": "Bug",
       "url": "https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ"
+    },
+    {
+      "album": {
+        "name": "Be Sweet To Me",
+        "url": "https://open.spotify.com/album/0x4K7avY6nlNEppKxJg6fu"
+      },
+      "artists": [
+        {
+          "name": "Violet Grohl",
+          "url": "https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168693,
+      "name": "Bug In The Cake",
+      "url": "https://open.spotify.com/track/0eqW8uWYZD19N46werkSTF"
     },
     {
       "album": {
@@ -3690,7 +3730,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 152626,
       "name": "Cool Buzz",
       "url": "https://open.spotify.com/track/4EPep3s07C13ngRBVzQ8V0"
@@ -4720,6 +4760,24 @@
       "duration_ms": 182571,
       "name": "Dionysus",
       "url": "https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1"
+    },
+    {
+      "album": {
+        "name": "bitknot",
+        "url": "https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212949,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3"
     },
     {
       "album": {
@@ -7554,7 +7612,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 199054,
       "name": "GOLDSTAR",
       "url": "https://open.spotify.com/track/46nSSYgHfGGLxvhzyCBAl2"
@@ -7714,6 +7772,24 @@
       "duration_ms": 133481,
       "name": "Grey Guitar",
       "url": "https://open.spotify.com/track/32cShRFoAaiBBbaKWaOqB6"
+    },
+    {
+      "album": {
+        "name": "Grief Is For The Living",
+        "url": "https://open.spotify.com/album/7KQBvkXqp4NPi6HTGECS20"
+      },
+      "artists": [
+        {
+          "name": "Vienna Vienna",
+          "url": "https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204249,
+      "name": "Grief Is For The Living",
+      "url": "https://open.spotify.com/track/3K2xzkk5sitgoz3uHoSsH0"
     },
     {
       "album": {
@@ -9025,6 +9101,24 @@
     },
     {
       "album": {
+        "name": "I Can't Die Like That",
+        "url": "https://open.spotify.com/album/313t051eeaMazltopmnbhm"
+      },
+      "artists": [
+        {
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151800,
+      "name": "I Can't Die Like That",
+      "url": "https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw"
+    },
+    {
+      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -9888,7 +9982,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 189100,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/2cqxedldJT5vfjverE1n18"
@@ -12161,6 +12255,24 @@
     },
     {
       "album": {
+        "name": "mean eye",
+        "url": "https://open.spotify.com/album/3Jgy9q6THJRdUayPzOGBfe"
+      },
+      "artists": [
+        {
+          "name": "thistle.",
+          "url": "https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130592,
+      "name": "mean eye",
+      "url": "https://open.spotify.com/track/6X8uT3lUavRViHr1Mzjfte"
+    },
+    {
+      "album": {
         "name": "Starcatcher",
         "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
       },
@@ -13069,6 +13181,24 @@
     },
     {
       "album": {
+        "name": "Never Have I Ever",
+        "url": "https://open.spotify.com/album/5c64n4bmCFpdsvenhcWp5z"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174834,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh"
+    },
+    {
+      "album": {
         "name": "Never Said",
         "url": "https://open.spotify.com/album/5EaeD4vGZe5yH5sWAdYLaR"
       },
@@ -13343,6 +13473,24 @@
     },
     {
       "album": {
+        "name": "For Love of Grace & the Hereafter",
+        "url": "https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218909,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX"
+    },
+    {
+      "album": {
         "name": "No Feeling",
         "url": "https://open.spotify.com/album/2YmGdAeIZqXU8tSDFtwV3S"
       },
@@ -13437,6 +13585,24 @@
     },
     {
       "album": {
+        "name": "Nobody's Coming To Save You",
+        "url": "https://open.spotify.com/album/08GMRYh0ZUnEE9w7y9S0CF"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222753,
+      "name": "Nobody's Coming To Save You",
+      "url": "https://open.spotify.com/track/0difWBwYseFbbXTAj6TyOi"
+    },
+    {
+      "album": {
         "name": "Nod",
         "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
       },
@@ -13466,7 +13632,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 162760,
       "name": "NOISE",
       "url": "https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC"
@@ -15224,7 +15390,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 202788,
       "name": "pieces",
       "url": "https://open.spotify.com/track/0TYYCO93FESiUlTanVH9pX"
@@ -15660,7 +15826,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 165690,
       "name": "PROWLER",
       "url": "https://open.spotify.com/track/5fD5ikfL6P5NZkbQYCfXa7"
@@ -19076,7 +19242,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 168365,
       "name": "Sunblind",
       "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
@@ -19900,6 +20066,24 @@
       "duration_ms": 191746,
       "name": "That's How I'm Feeling",
       "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
+    },
+    {
+      "album": {
+        "name": "That's Me",
+        "url": "https://open.spotify.com/album/0OFePaI594VRdvqQETTPBn"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131316,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/0ivNXNBIslaG7LeLfFaQ0T"
     },
     {
       "album": {
@@ -20776,7 +20960,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 195632,
       "name": "The Weak",
       "url": "https://open.spotify.com/track/5VynIbPZQP6UR2JTddLKqw"

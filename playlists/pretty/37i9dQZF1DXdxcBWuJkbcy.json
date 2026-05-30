@@ -1,6 +1,6 @@
 {
   "description": "Pumping tracks for pumping iron!",
-  "num_followers": 7860953,
+  "num_followers": 7860595,
   "original_name": "Gym Hits",
   "owner": {
     "name": "Spotify",
@@ -891,30 +891,6 @@
     {
       "added_at": "2026-05-28 22:01:46",
       "album": {
-        "name": "ALL THE TIME",
-        "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
-        }
-      ],
-      "duration_ms": 180340,
-      "name": "ALL THE TIME",
-      "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
-    },
-    {
-      "added_at": "2026-05-28 22:01:46",
-      "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
       },
@@ -935,18 +911,26 @@
     {
       "added_at": "2026-05-28 22:01:46",
       "album": {
-        "name": "The Less I Know The Better",
-        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
+        "name": "ALL THE TIME",
+        "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
       },
       "artists": [
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
         }
       ],
-      "duration_ms": 176114,
-      "name": "The Less I Know The Better",
-      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
+      "duration_ms": 180340,
+      "name": "ALL THE TIME",
+      "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
     },
     {
       "added_at": "2026-05-28 22:01:46",
@@ -975,6 +959,22 @@
     {
       "added_at": "2026-05-28 22:01:46",
       "album": {
+        "name": "The Less I Know The Better",
+        "url": "https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 176114,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"
+    },
+    {
+      "added_at": "2026-05-28 22:01:46",
+      "album": {
         "name": "Like A G6 (with Naeleck)",
         "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
       },
@@ -999,6 +999,26 @@
     {
       "added_at": "2026-05-28 22:01:46",
       "album": {
+        "name": "Makeba (Ian Asher Remix)",
+        "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        }
+      ],
+      "duration_ms": 125178,
+      "name": "Makeba - Ian Asher Remix",
+      "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
+    },
+    {
+      "added_at": "2026-05-28 22:01:46",
+      "album": {
         "name": "CTRL ESCAPE",
         "url": "https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 203076,
       "name": "SHADES OF BLUE",
       "url": "https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf"
-    },
-    {
-      "added_at": "2026-05-28 22:01:46",
-      "album": {
-        "name": "Makeba (Ian Asher Remix)",
-        "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        },
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        }
-      ],
-      "duration_ms": 125178,
-      "name": "Makeba - Ian Asher Remix",
-      "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
     },
     {
       "added_at": "2026-05-28 22:01:46",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-05-28 22:01:46",
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2026-05-28 22:01:46",
+      "album": {
         "name": "Addicted To Bass (Dom Dolla Relapse)",
         "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 189179,
       "name": "Addicted To Bass (Dom Dolla Relapse)",
       "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
-    },
-    {
-      "added_at": "2026-05-28 22:01:46",
-      "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "added_at": "2026-05-28 22:01:46",
@@ -1531,46 +1531,6 @@
     {
       "added_at": "2026-05-28 22:01:46",
       "album": {
-        "name": "Feeling Good",
-        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
-      },
-      "artists": [
-        {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 203307,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
-    },
-    {
-      "added_at": "2026-05-28 22:01:46",
-      "album": {
-        "name": "Love Is Kind",
-        "url": "https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "Love Is Kind",
-      "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
-    },
-    {
-      "added_at": "2026-05-28 22:01:46",
-      "album": {
         "name": "Smells Like Teen Spirit",
         "url": "https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY"
       },
@@ -1595,6 +1555,46 @@
       "duration_ms": 160758,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/1h54366McXSNcici2LAiZP"
+    },
+    {
+      "added_at": "2026-05-28 22:01:46",
+      "album": {
+        "name": "Love Is Kind",
+        "url": "https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "Love Is Kind",
+      "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
+    },
+    {
+      "added_at": "2026-05-28 22:01:46",
+      "album": {
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/5YnyS9JNsqhkaBPIWOYtXk"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 203307,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/2rtkijCiF44Uy4EqBhOsQP"
     },
     {
       "added_at": "2026-05-28 22:01:46",

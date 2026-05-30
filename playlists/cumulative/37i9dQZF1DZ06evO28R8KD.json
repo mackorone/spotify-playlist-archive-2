@@ -52,10 +52,32 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 143198,
       "name": "Double Moon",
       "url": "https://open.spotify.com/track/1XVWwG1CS3wV89rVEualNq"
+    },
+    {
+      "album": {
+        "name": "Double Moon",
+        "url": "https://open.spotify.com/album/1O14V9TO5JBO75p8f5rePh"
+      },
+      "artists": [
+        {
+          "name": "Emily A. Sprague",
+          "url": "https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9"
+        },
+        {
+          "name": "Andras",
+          "url": "https://open.spotify.com/artist/6C3Q1d8QOpgYuRdsTmSoVm"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219487,
+      "name": "Double Moon - Andras Dub",
+      "url": "https://open.spotify.com/track/7MNceUCyw4hAhm4kDLVHUI"
     },
     {
       "album": {

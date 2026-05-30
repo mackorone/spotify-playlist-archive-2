@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 
 > This is Meg Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478 likes - 28 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 477 likes - 28 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 13 | [...but i'd miss you too much!](https://open.spotify.com/track/3Jfv7V17nSJaP6aeBokQZm) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [...but i'd miss you too much!](https://open.spotify.com/album/2qcZh4d8Sz0JnIgQPrW9Zz) | 2:58 |
 | 14 | [you fake your british accent](https://open.spotify.com/track/71Re6FOwC7aVe8Qclktmqp) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 3:08 |
 | 15 | [I've got a bad feeling...](https://open.spotify.com/track/7sWQ6AQ5FR4hkNUoP2EJZS) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:22 |
-| 16 | [Why Do I Keep Playing It](https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx) | 2:45 |
-| 17 | [One Hit Wonder](https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l) | 3:20 |
+| 16 | [One Hit Wonder](https://open.spotify.com/track/1U9WaZj7uLTyWovcyJsZ5d) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [One Hit Wonder](https://open.spotify.com/album/0EWCmyfWq1aE0XyUfKrq7l) | 3:20 |
+| 17 | [Why Do I Keep Playing It](https://open.spotify.com/track/7AxloZ14VKQ1ac6QNZQjem) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cross My Heart I Hope U Die](https://open.spotify.com/album/1FediPQ7sTybNA5NfXjOKx) | 2:45 |
 | 18 | [poltergeist](https://open.spotify.com/track/3vp3r5tiCAHDNHtqhBk6rv) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [The Gospel According to Meg Smith](https://open.spotify.com/album/37aRRGPo5LBlXD4JepCvDa) | 2:33 |
 | 19 | [Hedonistic](https://open.spotify.com/track/5zSnNdR8ZGVBPyKohY3DWY) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DISCO DYSTOPIA](https://open.spotify.com/album/44NvYnPc5kLZO1xIFIyX0k) | 2:39 |
 | 20 | [Cautiously Optimistic](https://open.spotify.com/track/1mwGaFe4piAkPGFzGS5tm4) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/6EsfaTMIMrW1LJTNK85z4x) | 2:25 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2NM7Yf.md) - [plain]
 | 27 | [Who Not to Love](https://open.spotify.com/track/0p69ggdl6UOeBnSf4dn8o8) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Who Not to Love](https://open.spotify.com/album/5y0KsMeMor5EGBOtsVIfzw) | 3:05 |
 | 28 | [HRDCR](https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Oliver Price](https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg), [Thomas Greenwood](https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr) | [Pop Drama](https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5) | 3:40 |
 
-Snapshot ID: `ahY0AAAAAADdQbAECf5xilR28erzO5Kr`
+Snapshot ID: `aheFgAAAAAD0Vwg0E1MIJm3ds61sDBvO`

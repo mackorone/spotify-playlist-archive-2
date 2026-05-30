@@ -2,9 +2,9 @@
 
 ### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Best of Haryanvi Hip\-Hop! Cover: DG IMMORTALS
+> Best of Haryanvi Hip\-Hop! Cover: Hammy Muzic
 
-616 songs - 1 day 6 hr 45 min
+617 songs - 1 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Convoy](https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Convoy](https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg) | 4:35 | 2023-10-18 |  |
 | [Counterfeit](https://open.spotify.com/track/3E1MdjeFk5ZVVp9d6KU1Ay) | [PANJETA](https://open.spotify.com/artist/5aDlllQePpCiUfrFNeKEDR) | [Counterfeit](https://open.spotify.com/album/2cELg7DPZHuO2lIRlGuAcn) | 2:04 | 2026-05-01 |  |
 | [Criminal](https://open.spotify.com/track/4yIUYWDDXTDkYl616suCaw) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Criminal](https://open.spotify.com/album/4RXG9KfqTKbtWhsSZwVTel) | 3:51 | 2023-11-09 | 2025-01-11 |
+| [Crop](https://open.spotify.com/track/3OkHt2z8OdoRbrFYcYsOwB) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Music Nasha](https://open.spotify.com/artist/6YvJWewMypP77lmdqRMMkB) | [Crop](https://open.spotify.com/album/5jS40o2huFbEd7fR4keuYk) | 2:22 | 2026-05-29 |  |
 | [Curvy](https://open.spotify.com/track/5oN6z62tpjui4GUyWHXqk0) | [ANSHBuzz](https://open.spotify.com/artist/0EIuc4EpZPox8OgB9Ys4c9) | [Draconian EP](https://open.spotify.com/album/0xqEvsjOj7jJ47QCMivxEa) | 2:43 | 2025-02-15 | 2025-05-17 |
 | [Dacoit](https://open.spotify.com/track/2yfYHSThClcMOzlcceswBp) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Reloaded KD](https://open.spotify.com/album/2DN31KgkAg2qGGOFDWA054) | 3:19 | 2025-02-28 |  |
 | [DAD](https://open.spotify.com/track/3gMWtZT62pIpVY6JZAmjrU) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [DAD](https://open.spotify.com/album/46D35bKFH47ZVfaaTgQE3C) | 3:19 | 2023-03-28 | 2023-05-24 |
@@ -447,7 +448,7 @@
 | [Not Guilty](https://open.spotify.com/track/4YPSg93DDJW9Uf4IgklCHc) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Not Guilty](https://open.spotify.com/album/2ArzqdKnu0N93P4Z206F7c) | 2:55 | 2026-01-09 |  |
 | [Not Like You](https://open.spotify.com/track/4N1ExTZqjnU5D2sfiK8Xvj) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Legacy](https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI) | [Not Like You](https://open.spotify.com/album/27eYgmQwzC3JT6FbCsIYlF) | 2:21 | 2025-07-29 |  |
 | [Number Plate](https://open.spotify.com/track/7nNxDOSyABffGcaehhncXG) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Number Plate](https://open.spotify.com/album/3najCBsi5OB1mwg3pTVfm5) | 2:57 | 2024-09-09 | 2026-03-14 |
-| [Odyssey](https://open.spotify.com/track/6OzdOx2THskGVrUrJHpAtz) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Odyssey](https://open.spotify.com/album/0KfFUrqBdQVZpXecdptUHd) | 2:21 | 2026-05-22 |  |
+| [Odyssey](https://open.spotify.com/track/6OzdOx2THskGVrUrJHpAtz) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX), [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Odyssey](https://open.spotify.com/album/0KfFUrqBdQVZpXecdptUHd) | 2:21 | 2026-05-22 | 2026-05-30 |
 | [OG](https://open.spotify.com/track/7JM1xhWHqXcTvm2mgkgH87) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [OG](https://open.spotify.com/album/0Z1qsvQh2z2icFxQfKMH4T) | 2:40 | 2025-08-19 | 2026-03-28 |
 | [OG](https://open.spotify.com/track/23ON0lC7ppFxmWTazcIbU6) | [Sammy Dulat](https://open.spotify.com/artist/5yEWvgoNRZReerWDujkDMw) | [OG](https://open.spotify.com/album/2O8jwQ7KdrM6uucbRVBAde) | 2:48 | 2024-03-06 | 2024-03-09 |
 | [OG Chhora](https://open.spotify.com/track/5AmAcPhOWXWOUxJ31aq1vl) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols) | [OG Chhora](https://open.spotify.com/album/3rPwRkOWtFjggZzy13HWql) | 2:16 | 2026-03-13 | 2026-03-28 |

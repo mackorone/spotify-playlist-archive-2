@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: My Ugly Clementine
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,915 likes - 90 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,970 likes - 90 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 12 | [Mr\. Alligator](https://open.spotify.com/track/18EnWZ9wTjszmJjI3BgCuL) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Mr\. Alligator](https://open.spotify.com/album/1VfzgIuIeY3f3jG4t8Qydp) | 4:25 |
 | 13 | [good life](https://open.spotify.com/track/7dLK6hEkNDMkKYh3GqcFXP) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [good life](https://open.spotify.com/album/1Sx0hOSqudzXxUR2YGKyFY) | 2:45 |
 | 14 | [We Fall](https://open.spotify.com/track/29tmBVWOnuKqLR4RlhKcgS) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [We Fall](https://open.spotify.com/album/2a9ZkB99tNx8XmWXjCegpM) | 4:01 |
-| 15 | [traces](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 |
+| 15 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 |
 | 16 | [Washington](https://open.spotify.com/track/0zXFVCAn8Sdno4uGaBesUA) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Washington](https://open.spotify.com/album/3EubVe6457NOEgcJC2bRQU) | 3:02 |
 | 17 | [No Fear](https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [For Love of Grace & the Hereafter](https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV) | 3:38 |
 | 18 | [June](https://open.spotify.com/track/3HTSInPBCaG6mpwRGDc0Ss) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [June](https://open.spotify.com/album/1ZJ25L8SzfSSBrQzMrX0vL) | 2:42 |
-| 19 | [Track 14](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 0:00 |
+| 19 | [Island](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:03 |
 | 20 | [Catalogue](https://open.spotify.com/track/279yOvalG2yt6DtFYJdmwu) | [Anthea](https://open.spotify.com/artist/0Igu5usy7riLV2UQ3iybn5) | [Catalogue](https://open.spotify.com/album/6eBE6h5DrCVeB4udHdRnXE) | 2:20 |
 | 21 | [Rock o’ Stone](https://open.spotify.com/track/21CU5fG0Pp0LUbXRDG1d48) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Philadelphia's been good to me](https://open.spotify.com/album/5AfELtBFbN1hM75hgqc7FI) | 5:35 |
 | 22 | [Not Your Island](https://open.spotify.com/track/0BS0wa4oWvMvPLBfyuwI2f) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [Not Your Island](https://open.spotify.com/album/7vPYZwd7l9wEcI2DsXdegz) | 4:08 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Pedro Mizutani",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Morro Fuji",
   "name": "alt BR",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 209038,
       "name": "13 de maio",
       "url": "https://open.spotify.com/track/3hhUJ3fjSWcFhWJ7Df28xZ"
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 232917,
       "name": "Barco Amn\u00e9sia",
       "url": "https://open.spotify.com/track/7DPXgopzi3ilUPuMqJvVkt"
@@ -1932,7 +1932,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 198973,
       "name": "Bartolomeu - Ao Vivo no Est\u00fadio Unisono",
       "url": "https://open.spotify.com/track/7JhCm3FTTe6mP0OJrEHstO"
@@ -3296,6 +3296,28 @@
       "duration_ms": 199761,
       "name": "cidade",
       "url": "https://open.spotify.com/track/2QZd6iEwoXjke3PIxeVsYJ"
+    },
+    {
+      "album": {
+        "name": "Eu Sinto Muito!",
+        "url": "https://open.spotify.com/album/1nA2sOOYgAYDAa53hft9DX"
+      },
+      "artists": [
+        {
+          "name": "measyou",
+          "url": "https://open.spotify.com/artist/4zDWNcpNltzn5srR9WBNqr"
+        },
+        {
+          "name": "Lucas Silveira",
+          "url": "https://open.spotify.com/artist/0Nrw6GrosIRqqFRLeFQSWK"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251500,
+      "name": "Code\u00edna",
+      "url": "https://open.spotify.com/track/2edZucoKG26rfWBX96cpWy"
     },
     {
       "album": {
@@ -4972,7 +4994,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 165834,
       "name": "Dona Veridiana",
       "url": "https://open.spotify.com/track/1tIVCufxDH7CkTLd1kLLmY"
@@ -5804,6 +5826,24 @@
       "duration_ms": 161333,
       "name": "Eu Ainda Te Quero",
       "url": "https://open.spotify.com/track/0nazZfD7zriY2DeQQB4bPG"
+    },
+    {
+      "album": {
+        "name": "Ainda nem doeu",
+        "url": "https://open.spotify.com/album/5MI0ed8NiGXQwDD9VXxYJU"
+      },
+      "artists": [
+        {
+          "name": "Morro Fuji",
+          "url": "https://open.spotify.com/artist/1pWhGcoXS2qPnzp69pd9Q5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189857,
+      "name": "Eu do Futuro",
+      "url": "https://open.spotify.com/track/3JCJGvNlAFnUhN11qbqptG"
     },
     {
       "album": {
@@ -8203,6 +8243,24 @@
     },
     {
       "album": {
+        "name": "Luneta Azul",
+        "url": "https://open.spotify.com/album/3BDzguosvNEg5WMNVqyqr0"
+      },
+      "artists": [
+        {
+          "name": "Marina Mole",
+          "url": "https://open.spotify.com/artist/2NfeWZIShKTCykmRDr3HWv"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Luneta Azul",
+      "url": "https://open.spotify.com/track/1BZddqkm7MPfw2mYUhd8An"
+    },
+    {
+      "album": {
         "name": "Luz Azul",
         "url": "https://open.spotify.com/album/1XJe2gbYZonK0ZCb8uvg0i"
       },
@@ -9886,6 +9944,28 @@
       "duration_ms": 196082,
       "name": "Mukuro",
       "url": "https://open.spotify.com/track/0QeU34CUNQULX2hKScxqdI"
+    },
+    {
+      "album": {
+        "name": "Musa (Batata Boy Remix)",
+        "url": "https://open.spotify.com/album/2CVTnZrHsasXfskzbk3d08"
+      },
+      "artists": [
+        {
+          "name": "Da Lata",
+          "url": "https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN"
+        },
+        {
+          "name": "batata boy",
+          "url": "https://open.spotify.com/artist/5NslOaAzwiiyBpEASSUzkA"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205382,
+      "name": "Musa - Batata Boy Remix",
+      "url": "https://open.spotify.com/track/17zjbTc884pSYpiqlz263q"
     },
     {
       "album": {
@@ -11797,6 +11877,24 @@
     },
     {
       "album": {
+        "name": "CICATRIZES DO FUTURO",
+        "url": "https://open.spotify.com/album/43WO32Mi0o1Z0nTB2HVFz2"
+      },
+      "artists": [
+        {
+          "name": "Deafkids",
+          "url": "https://open.spotify.com/artist/6SNjNqLGVBime9bLOFXWqZ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211850,
+      "name": "PARASITA",
+      "url": "https://open.spotify.com/track/0gX2BMw9UT41d1UTf7hn9c"
+    },
+    {
+      "album": {
         "name": "Parati",
         "url": "https://open.spotify.com/album/7LxlJQpwyK60sJOs09cieV"
       },
@@ -12711,6 +12809,24 @@
     },
     {
       "album": {
+        "name": "SALINA",
+        "url": "https://open.spotify.com/album/1B6dVG3DEX3ypRXrKUmWwr"
+      },
+      "artists": [
+        {
+          "name": "cami santiz",
+          "url": "https://open.spotify.com/artist/5SqIDTS8ZHDtkIFZpS6G0S"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Pura Pur\u00edssima",
+      "url": "https://open.spotify.com/track/6wjGy9KGq91UBqj52ydt9h"
+    },
+    {
+      "album": {
         "name": "puro osso",
         "url": "https://open.spotify.com/album/5fr6TVmir3T7hUCQWZWUw0"
       },
@@ -13118,7 +13234,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 320727,
       "name": "Quero Amanhecer",
       "url": "https://open.spotify.com/track/6UoKRLc50C8dHPWPvoa7R1"
@@ -14233,6 +14349,24 @@
     },
     {
       "album": {
+        "name": "fasc\u00ednio diamantino",
+        "url": "https://open.spotify.com/album/4vAdtBPHjmQFJFOOprPmmh"
+      },
+      "artists": [
+        {
+          "name": "josefe",
+          "url": "https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201328,
+      "name": "sinestesia",
+      "url": "https://open.spotify.com/track/49unruR1AIczXADwmD2ZNO"
+    },
+    {
+      "album": {
         "name": "Single",
         "url": "https://open.spotify.com/album/736IbFrkZ0esLDrSUgpGbR"
       },
@@ -14302,7 +14436,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 269772,
       "name": "Sobre as Aves",
       "url": "https://open.spotify.com/track/0ivp9LTo2VaHHe0L2pkg4S"
@@ -14920,6 +15054,24 @@
       "duration_ms": 120110,
       "name": "Tatuagem",
       "url": "https://open.spotify.com/track/76zObbgCpNkONNVieHQIa1"
+    },
+    {
+      "album": {
+        "name": "Te amo e ponto.",
+        "url": "https://open.spotify.com/album/428bKqiaco0xZ9Z9W1GIYr"
+      },
+      "artists": [
+        {
+          "name": "Lucas Andrade",
+          "url": "https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180684,
+      "name": "Te amo e ponto.",
+      "url": "https://open.spotify.com/track/0lY05dmtTNRpEhuVasgckZ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 67420,
+  "num_followers": 67433,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -553,10 +553,10 @@
       "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
     },
     {
-      "added_at": "2024-07-05 00:01:00",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "No Longer Bound (I'm Free)",
-        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
+        "name": "YET (feat. Ashley Hess & the King will come)",
+        "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
       },
       "artists": [
         {
@@ -564,17 +564,17 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+          "name": "Ashley Hess",
+          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+          "name": "the King will come",
+          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
         }
       ],
-      "duration_ms": 175188,
-      "name": "No Longer Bound (I'm Free)",
-      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
+      "duration_ms": 350194,
+      "name": "YET (feat. Ashley Hess & the King will come)",
+      "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -645,10 +645,10 @@
       "url": "https://open.spotify.com/track/71za9Fyjl9BlyTB3mKvn3A"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
+      "added_at": "2024-07-05 00:01:00",
       "album": {
-        "name": "YET (feat. Ashley Hess & the King will come)",
-        "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
+        "name": "No Longer Bound (I'm Free)",
+        "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
       },
       "artists": [
         {
@@ -656,17 +656,17 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Ashley Hess",
-          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         },
         {
-          "name": "the King will come",
-          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         }
       ],
-      "duration_ms": 350194,
-      "name": "YET (feat. Ashley Hess & the King will come)",
-      "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
+      "duration_ms": 175188,
+      "name": "No Longer Bound (I'm Free)",
+      "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/4kWYHpCHIuyK3ivhlbdit7"
     },
     {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 340133,
-      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK"
-    },
-    {
       "added_at": "2024-05-31 23:59:00",
       "album": {
         "name": "In The Name of Jesus (feat. Chandler Moore)",
@@ -759,6 +743,22 @@
       "duration_ms": 298878,
       "name": "In The Name of Jesus (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/4O2mQtteYmGU173GcZjn6C"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 340133,
+      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK"
     },
     {
       "added_at": "2023-12-01 00:01:00",

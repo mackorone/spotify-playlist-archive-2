@@ -742,7 +742,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 345476,
       "name": "Ja Ve Pardesia",
       "url": "https://open.spotify.com/track/6WrTw0AwTzqgYhl7I74IQM"
@@ -1670,6 +1670,28 @@
       "duration_ms": 291251,
       "name": "Ranjha",
       "url": "https://open.spotify.com/track/65ixdACjOb3qOSLnGONOSB"
+    },
+    {
+      "album": {
+        "name": "Ranjha Ranjha",
+        "url": "https://open.spotify.com/album/0jKYWDHtc5LYfy0sCEW2Oq"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "Noor Mohammad",
+          "url": "https://open.spotify.com/artist/0EyQZ0thLUCL56J6e0DxrG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184295,
+      "name": "Ranjha Ranjha",
+      "url": "https://open.spotify.com/track/0OCD0X885wiFzBCf16QzJf"
     },
     {
       "album": {

@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 231814,
       "name": "47",
       "url": "https://open.spotify.com/track/3FAfq6Yqy5b04vRo19PIke"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 189545,
       "name": "Bag Of Sand",
       "url": "https://open.spotify.com/track/6xPIof8affSfAo4ADpcEFC"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 239080,
       "name": "Bittersweet Excess",
       "url": "https://open.spotify.com/track/2sKT09C4vZaawvqjVmTmOH"
@@ -378,6 +378,24 @@
       "duration_ms": 210946,
       "name": "Blisters (feat. Noah Learmonth)",
       "url": "https://open.spotify.com/track/4LSg5nCsJ35jHA1vRqBRhR"
+    },
+    {
+      "album": {
+        "name": "Boogiepop Blitzkrieg Blob",
+        "url": "https://open.spotify.com/album/18EEaZHJFCpZ14Eqx04lyC"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100323,
+      "name": "Boogiepop Blitzkrieg Blob",
+      "url": "https://open.spotify.com/track/6XvkIu9TeTEV2dzT89Be5m"
     },
     {
       "album": {
@@ -630,6 +648,24 @@
       "duration_ms": 270040,
       "name": "Deer In The Headlights",
       "url": "https://open.spotify.com/track/1OInm4FGocvwb2F8rqO15b"
+    },
+    {
+      "album": {
+        "name": "bitknot",
+        "url": "https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212949,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3"
     },
     {
       "album": {
@@ -951,6 +987,24 @@
     },
     {
       "album": {
+        "name": "Flowers To A Knife Fight",
+        "url": "https://open.spotify.com/album/7nGo6NF2aI9XfD1QiAs149"
+      },
+      "artists": [
+        {
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Flowers To A Knife Fight",
+      "url": "https://open.spotify.com/track/0zI2Qbpc4dgBKrGFTnLAYJ"
+    },
+    {
+      "album": {
         "name": "FME",
         "url": "https://open.spotify.com/album/2EVaRxUjrnJY0eSRdEdeZi"
       },
@@ -1046,6 +1100,24 @@
       "duration_ms": 66360,
       "name": "Gatekeep",
       "url": "https://open.spotify.com/track/78WLXqaqyu9PeUbMjvF5iQ"
+    },
+    {
+      "album": {
+        "name": "Giraffe",
+        "url": "https://open.spotify.com/album/3uFbktga31i0ft3ZwRhrNp"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268042,
+      "name": "Giraffe",
+      "url": "https://open.spotify.com/track/7DQ3JbZ8JmjjxoGmOYkjoR"
     },
     {
       "album": {
@@ -2726,7 +2798,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 182665,
       "name": "Shoplifting",
       "url": "https://open.spotify.com/track/4DnfluGk0mleygfT9clm0v"
@@ -3051,6 +3123,24 @@
     },
     {
       "album": {
+        "name": "For Love of Grace & the Hereafter",
+        "url": "https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243306,
+      "name": "Tender Blades",
+      "url": "https://open.spotify.com/track/3yl61cFag5kZhb9tCX6lU6"
+    },
+    {
+      "album": {
         "name": "The Cigs, The Light, The Coffee And Crying",
         "url": "https://open.spotify.com/album/3MFaIxaSLmMgY1OfsByCN5"
       },
@@ -3210,7 +3300,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 170920,
       "name": "Things I've Killed",
       "url": "https://open.spotify.com/track/4RJqm50m6kVJe5k3bup0uR"
@@ -3282,7 +3372,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 148072,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/7tRI5028bm53M2KJyItRHh"

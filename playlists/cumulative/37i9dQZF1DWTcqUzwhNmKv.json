@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Periphery are on top of today's best Metal playlist.",
+  "description": "Boundaries are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -4810,7 +4810,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 333500,
       "name": "Cyclone",
       "url": "https://open.spotify.com/track/4mqual8clj1hYQhTselIWh"
@@ -5358,7 +5358,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 243106,
       "name": "Death will follow me",
       "url": "https://open.spotify.com/track/4HVy83HGp8YeoHl51BB60m"
@@ -15099,6 +15099,24 @@
     },
     {
       "album": {
+        "name": "Gradus Ad Parnassum",
+        "url": "https://open.spotify.com/album/68ftoQI39wNu0VTTsVp0Pg"
+      },
+      "artists": [
+        {
+          "name": "Mirar",
+          "url": "https://open.spotify.com/artist/6g4uwq36brjISbcfehJ7yi"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "N\u00e5r Solen G\u00e5r Ned",
+      "url": "https://open.spotify.com/track/2Zku5hueH90H3vLNlP93Js"
+    },
+    {
+      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -15384,6 +15402,24 @@
       "duration_ms": 186532,
       "name": "ONE HIT WONDER",
       "url": "https://open.spotify.com/track/13EORAL3cSWZmSRgRmEGI5"
+    },
+    {
+      "album": {
+        "name": "Only endless",
+        "url": "https://open.spotify.com/album/1hLhvYGxOvyrbRGrFaFBHQ"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241573,
+      "name": "Only endless",
+      "url": "https://open.spotify.com/track/4J7nXEIgYTeFOH2sb9MLtk"
     },
     {
       "album": {
@@ -16470,7 +16506,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 319133,
       "name": "Promise You This",
       "url": "https://open.spotify.com/track/3A8DmKhtoADA0dosFWWYyt"
@@ -18785,6 +18821,24 @@
     },
     {
       "album": {
+        "name": "Sleeping With The Enemy",
+        "url": "https://open.spotify.com/album/1szmJLoAH4F1uk0AfSQj66"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246374,
+      "name": "Sleeping With The Enemy",
+      "url": "https://open.spotify.com/track/1hLipkDpW1mAdGlUHl2Zl5"
+    },
+    {
+      "album": {
         "name": "Sleepless Deathbed",
         "url": "https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ"
       },
@@ -19637,6 +19691,24 @@
     },
     {
       "album": {
+        "name": "Starless",
+        "url": "https://open.spotify.com/album/2EmcHkFMRu0PS6viXk90Jd"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272567,
+      "name": "Starless",
+      "url": "https://open.spotify.com/track/0MXz52zYBIIe3wuqojwjsr"
+    },
+    {
+      "album": {
         "name": "Start The Healing",
         "url": "https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH"
       },
@@ -19724,7 +19796,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 567405,
       "name": "Stations",
       "url": "https://open.spotify.com/track/2LWyybPjyYV8FCJj2VeDV8"
@@ -20604,6 +20676,28 @@
       "duration_ms": 259563,
       "name": "The Art Of Being Alone",
       "url": "https://open.spotify.com/track/4tPx1qTsAr7kwB4oKAoMCu"
+    },
+    {
+      "album": {
+        "name": "These Graven Halls",
+        "url": "https://open.spotify.com/album/6BFhtgNwWNxLSpkxIRnRwC"
+      },
+      "artists": [
+        {
+          "name": "Balmora",
+          "url": "https://open.spotify.com/artist/4thpVPtc68xxR1kilVSPPN"
+        },
+        {
+          "name": " I Promised The World",
+          "url": "https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267848,
+      "name": "The Beautiful Writing",
+      "url": "https://open.spotify.com/track/5Fqz3OGvT0M2uWGiJ0VSfC"
     },
     {
       "album": {
@@ -25026,7 +25120,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 201000,
       "name": "Yamato",
       "url": "https://open.spotify.com/track/4YNQelHwc7eqjrliWoSh2g"

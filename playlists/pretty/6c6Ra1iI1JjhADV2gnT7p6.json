@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60168,
+  "num_followers": 60171,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABARpUIMfE68A5cRKOrFu6VC6sPLNpV",
+  "snapshot_id": "AABASazuwaHRvRtVidr9DYWcXA13Bd/x",
   "tracks": [
     {
       "added_at": "2026-05-23 12:49:59",
@@ -1127,22 +1127,6 @@
       "duration_ms": 169945,
       "name": "Spazzatura (Italo Disco)",
       "url": "https://open.spotify.com/track/3T7dcfT2PMwybgLexpQg6V"
-    },
-    {
-      "added_at": "2026-05-23 12:49:59",
-      "album": {
-        "name": "sleeping in the club",
-        "url": "https://open.spotify.com/album/4YOMXKV6xy1KRiYOvuJLK2"
-      },
-      "artists": [
-        {
-          "name": "tobasco boy",
-          "url": "https://open.spotify.com/artist/4Net2CD8isF31qeqk5BK9n"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "sleeping in the club",
-      "url": "https://open.spotify.com/track/3lkoiyJZ0RF9LbrpUAC6n4"
     },
     {
       "added_at": "2026-05-23 12:49:59",
@@ -5627,22 +5611,6 @@
       "duration_ms": 136397,
       "name": "American Apparel",
       "url": "https://open.spotify.com/track/1k9D2S8JBdGxrOe3UYNLCI"
-    },
-    {
-      "added_at": "2026-05-16 11:12:00",
-      "album": {
-        "name": "The Space Between",
-        "url": "https://open.spotify.com/album/3R3XQTg7srUI8h8afDuoWJ"
-      },
-      "artists": [
-        {
-          "name": "Tiny Fireflies",
-          "url": "https://open.spotify.com/artist/6FFNGVOUMZQ37bi7jI9Lfw"
-        }
-      ],
-      "duration_ms": 156288,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/3TLXcOcDlQw1dvVX52QR9w"
     },
     {
       "added_at": "2026-05-16 11:12:00",
@@ -15175,22 +15143,6 @@
     {
       "added_at": "2026-05-09 22:50:25",
       "album": {
-        "name": "Found You",
-        "url": "https://open.spotify.com/album/6wheo93KT34krtg4rJvnuI"
-      },
-      "artists": [
-        {
-          "name": "Retro Kid",
-          "url": "https://open.spotify.com/artist/68HeTdmYmnGA3GNUTYY2fu"
-        }
-      ],
-      "duration_ms": 202322,
-      "name": "Found You",
-      "url": "https://open.spotify.com/track/3Z1lX88muaqSD6lqz1NSs3"
-    },
-    {
-      "added_at": "2026-05-09 22:50:25",
-      "album": {
         "name": "Coq Au Vin",
         "url": "https://open.spotify.com/album/2pcI9A6Z9kMclj5dCqmymY"
       },
@@ -15219,6 +15171,22 @@
       "duration_ms": 222160,
       "name": "Conclus\u00e3o",
       "url": "https://open.spotify.com/track/4edMM3tBl3WFKA3z79SfJt"
+    },
+    {
+      "added_at": "2026-05-09 22:50:25",
+      "album": {
+        "name": "Found You",
+        "url": "https://open.spotify.com/album/6wheo93KT34krtg4rJvnuI"
+      },
+      "artists": [
+        {
+          "name": "Retro Kid",
+          "url": "https://open.spotify.com/artist/68HeTdmYmnGA3GNUTYY2fu"
+        }
+      ],
+      "duration_ms": 202322,
+      "name": "Found You",
+      "url": "https://open.spotify.com/track/3Z1lX88muaqSD6lqz1NSs3"
     },
     {
       "added_at": "2026-05-09 22:50:25",

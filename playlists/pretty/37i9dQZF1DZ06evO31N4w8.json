@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 68386,
+  "num_followers": 68400,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAADxFqwZDLbPbcgnuc7u8DGH",
+  "snapshot_id": "aheFgAAAAACFTiQD6Hzi/2Hoez1u1qKg",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuesta Arriba",
-        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "La Equivocaci\u00f3n",
-      "url": "https://open.spotify.com/track/67foWfrFF0pHYh7H0XQuBl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Que El Mundo Ruede",
         "url": "https://open.spotify.com/album/0a6QxPGQLz7vpc0NSWtwK0"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 173480,
       "name": "Que El Mundo Ruede",
       "url": "https://open.spotify.com/track/2kVaYGqPCbZXSZXXwbQFTy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuesta Arriba",
+        "url": "https://open.spotify.com/album/2aALr2tgoycC3tyhWciLHi"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "La Equivocaci\u00f3n",
+      "url": "https://open.spotify.com/track/67foWfrFF0pHYh7H0XQuBl"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "No Volver\u00e9",
-      "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rifare Mi Suerte",
         "url": "https://open.spotify.com/album/72Tvu1pJWr2HQ9lHYipwsf"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 181773,
       "name": "Tu Ultimo Verano",
       "url": "https://open.spotify.com/track/699jQV2HYGBnITdlgboFcL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/14rY0Ie4e2XqpHot0vWcaL"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Firme",
-        "url": "https://open.spotify.com/album/64dzsb0YXYnnK0gEGNAjL7"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 211962,
-      "name": "Presiento Que Voy a Llorar",
-      "url": "https://open.spotify.com/track/2K9PYs01AdzNwHe2Jy3M52"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos Cl\u00e1sicos",
         "url": "https://open.spotify.com/album/61Iq2EMTDlr83Q5Smgbh1Y"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 208440,
       "name": "Al Ver Que Te Vas",
       "url": "https://open.spotify.com/track/0DRAf1NW1dBCMJOq5r0RKV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguimos Firme",
+        "url": "https://open.spotify.com/album/64dzsb0YXYnnK0gEGNAjL7"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 211962,
+      "name": "Presiento Que Voy a Llorar",
+      "url": "https://open.spotify.com/track/2K9PYs01AdzNwHe2Jy3M52"
     },
     {
       "added_at": null,

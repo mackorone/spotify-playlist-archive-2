@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,486 songs - 9 day 23 hr 35 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,489 songs - 9 day 23 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4494,5 +4494,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4484 | [Lost Soul](https://open.spotify.com/track/0KBblBLmSzdWD8k3bZqLoR) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Lost Soul](https://open.spotify.com/album/46yf87wUx4k4Ash6BBwEaY) | 3:34 |
 | 4485 | [Dil Ye Dhadakta Hi Nahin \(Reprise\)](https://open.spotify.com/track/55rkCD94THKPTUvsuifkq8) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin \(Reprise\)](https://open.spotify.com/album/5h2xUzlizawzxOFfOxkHOm) | 4:36 |
 | 4486 | [Speed Of A Summer Night](https://open.spotify.com/track/1wCTXpkDk9ns03WbOmCuyY) | [Static Echoes](https://open.spotify.com/artist/4qx5CnX8jGV49bqPKbatO7) | [Speed Of A Summer Night](https://open.spotify.com/album/0DAKVbUAkgLDzJGfTEm01P) | 3:49 |
+| 4487 | [Hotline](https://open.spotify.com/track/7a5LOatQmo9lSWAibwwTiV) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Hotline](https://open.spotify.com/album/3F98n93nXEna7TCoCNnbyP) | 1:46 |
+| 4488 | [Sigo Enamorada \(Disco Edit\)](https://open.spotify.com/track/5ks5Is8HrJ6dd4Jk1sWuYP) | [Tizzio](https://open.spotify.com/artist/7rQvbRtdX02iEk4aLDcH8f) | [Universo Tizzio Vol\. I](https://open.spotify.com/album/0Mx98djP02TAzmRyOpPYST) | 3:59 |
+| 4489 | [Floorfiller Miss](https://open.spotify.com/track/0pvfvuE8sttFh4SMPapwGh) | [Scampi Chips Dip & Campari](https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9) | [Floorfiller Miss](https://open.spotify.com/album/419yNflaTPHFSz6jrd5Wz9) | 2:40 |
 
-Snapshot ID: `AAAIvvkoTQt3Ndd3Bv3pOVNsRQphCQa5`
+Snapshot ID: `AAAIwR6L5fhDrBNWmSpy7z4VoTJxUwHf`

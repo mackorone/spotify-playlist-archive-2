@@ -1,6 +1,6 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1908678,
+  "num_followers": 1908862,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "Girl's Not Grey",
-      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "Commit This To Memory",
         "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 247760,
       "name": "A Decade Under The Influence",
       "url": "https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 190493,
+      "name": "Girl's Not Grey",
+      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "breathe",
-        "url": "https://open.spotify.com/album/1JMg02mQ5nmVKBWWoDUIeo"
-      },
-      "artists": [
-        {
-          "name": "Tiny Moving Parts",
-          "url": "https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH"
-        }
-      ],
-      "duration_ms": 191294,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/0uqTwEKTbkuhrn8yGSO6b5"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "War All The Time",
         "url": "https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 272400,
       "name": "War All The Time",
       "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "breathe",
+        "url": "https://open.spotify.com/album/1JMg02mQ5nmVKBWWoDUIeo"
+      },
+      "artists": [
+        {
+          "name": "Tiny Moving Parts",
+          "url": "https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH"
+        }
+      ],
+      "duration_ms": 191294,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0uqTwEKTbkuhrn8yGSO6b5"
     },
     {
       "added_at": "2025-08-05 14:57:44",

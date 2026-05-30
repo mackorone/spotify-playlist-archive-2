@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/1bOpO54jb19mYeOJbRvbg1"
+      },
+      "artists": [
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249448,
+      "name": "All Along",
+      "url": "https://open.spotify.com/track/4u3zC8pDhLrd2oHZlZUVox"
+    },
+    {
+      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/0ShhlWkhFhZmdz81oADxlO"
       },
@@ -18581,6 +18599,24 @@
     },
     {
       "album": {
+        "name": "Love Tonight",
+        "url": "https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "Love Tonight",
+      "url": "https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf"
+    },
+    {
+      "album": {
         "name": "Love Who You Love",
         "url": "https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY"
       },
@@ -33550,6 +33586,24 @@
       "duration_ms": 179266,
       "name": "You Already Know",
       "url": "https://open.spotify.com/track/374iP6eVAWCCCH2mvZT2A9"
+    },
+    {
+      "album": {
+        "name": "You And I",
+        "url": "https://open.spotify.com/album/0cREGEa2AUt4GUCLVVVRqo"
+      },
+      "artists": [
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288780,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/1kVfH3uPqVvGJxaSGdqlEp"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9547,
+  "num_followers": 9550,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAACeazVCB11qxmVDXPk8bbQs",
+  "snapshot_id": "aheFgAAAAAACBmTMTO77i1ffdgaGsqCv",
   "tracks": [
     {
       "added_at": null,
@@ -278,15 +278,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
         }
       ],
-      "duration_ms": 406831,
-      "name": "Saaqi (feat. Vijay Iyer)",
-      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
+      "duration_ms": 307007,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT"
     },
     {
       "added_at": null,
@@ -354,11 +350,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Vijay Iyer",
+          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
         }
       ],
-      "duration_ms": 307007,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/2ZeVYOdBt4wqY5u7T54yWT"
+      "duration_ms": 406831,
+      "name": "Saaqi (feat. Vijay Iyer)",
+      "url": "https://open.spotify.com/track/0BUQnIR6u8DFHClDlruO1u"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 443200,
-      "name": "Baghon Main Pade Jhoole",
-      "url": "https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj"
+      "duration_ms": 327373,
+      "name": "Na Ja Balam",
+      "url": "https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 327373,
-      "name": "Na Ja Balam",
-      "url": "https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M"
+      "duration_ms": 443200,
+      "name": "Baghon Main Pade Jhoole",
+      "url": "https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj"
     },
     {
       "added_at": null,

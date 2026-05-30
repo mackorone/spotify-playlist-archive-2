@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,574 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,603 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 3 | [TU TU TU](https://open.spotify.com/track/0L5gbpFGU06vqSHacOxgka) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [MIJA NO TE ASUSTES](https://open.spotify.com/album/34OOEmWpj7OnO5kCfal1MO) | 2:31 |
 | 4 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 |
 | 5 | [El Ruddy](https://open.spotify.com/track/0WRDEEv5z9DMmKECGxBK2b) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 3:03 |
-| 6 | [Eres Veneno](https://open.spotify.com/track/5DJCbtz1sF20CsDI0GGbnC) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Eres Veneno](https://open.spotify.com/album/5sNmy4jQLyHYV83lLNyct9) | 2:05 |
+| 6 | [Eres Veneno](https://open.spotify.com/track/3K6Ihg1zWhhPwiiT3p1Mw7) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Expansión](https://open.spotify.com/album/69ceJyl4is6jkwTPjyCYMf) | 2:05 |
 | 7 | [VVS](https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:42 |
 | 8 | [Vengache Pa’ Aca](https://open.spotify.com/track/6FoFdGkO3BZ1HElmfj7PZl) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Vengache Pa’ Aca](https://open.spotify.com/album/4GOxdFhYCiDqefzmrJt4sF) | 2:43 |
 | 9 | [Te Amo](https://open.spotify.com/track/7lTBFudN674Thpm376zGuV) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Amo](https://open.spotify.com/album/1b8glbu39phYQ6HZ3gCWea) | 3:13 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 38 | [Aliados del tiempo \- En Vivo](https://open.spotify.com/track/4aEjncUIHQ1yBxXXRVLGxD) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [En Vivo Con Banda y Norteño](https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp) | 4:14 |
 | 39 | [El De La 31](https://open.spotify.com/track/3MsSrOoeomjGybissXBe9G) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x) | 3:11 |
 | 40 | [Hello Kitty](https://open.spotify.com/track/6KNBxr08Ef4ajVzd7GOfzX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Hello Kitty](https://open.spotify.com/album/4IgUHDhSpdER99gXoDoZAq) | 2:38 |
-| 41 | [Alto y Piel Morena](https://open.spotify.com/track/0utj0xCPvTGptQ60MrqNeh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 3:22 |
-| 42 | [Dicen Y Dicen](https://open.spotify.com/track/0mJ8ZTlkWRb59A3TPJUEcv) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Dicen Y Dicen](https://open.spotify.com/album/1tjpAov9L3aGyIluNSBTqI) | 2:53 |
+| 41 | [Dicen Y Dicen](https://open.spotify.com/track/0mJ8ZTlkWRb59A3TPJUEcv) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Dicen Y Dicen](https://open.spotify.com/album/1tjpAov9L3aGyIluNSBTqI) | 2:53 |
+| 42 | [Alto y Piel Morena](https://open.spotify.com/track/0utj0xCPvTGptQ60MrqNeh) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3) | 3:22 |
 | 43 | [El Piyi](https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x) | 3:11 |
 | 44 | [Fruta Prohibida \- En Vivo](https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5) | 2:52 |
 | 45 | [El Vaso Derrama \- En Vivo](https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 49 | [HDTPM](https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [HDTPM](https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1) | 2:37 |
 | 50 | [Con Muchas Ganas \(En Vivo\)](https://open.spotify.com/track/53B9dnw7V6p6ZVzvpK4BUl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Con Muchas Ganas \(En Vivo\)](https://open.spotify.com/album/0d68E5jkALGrFEUUL2deEX) | 4:31 |
 
-Snapshot ID: `ahY0AAAAAAAbsr1k1/KK1IDSoJgggoYv`
+Snapshot ID: `aheFgAAAAAC8p+PAB14BpXyVmn6VvGPp`

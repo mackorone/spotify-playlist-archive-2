@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: yola, Dani Lia
 
-1,795 songs - 3 day 12 hr 37 min
+1,795 songs - 3 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -955,6 +955,7 @@
 | [Letzte Chance](https://open.spotify.com/track/4geKoPP3hO9nuc24u7kaaY) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Letzte Chance](https://open.spotify.com/album/15EMKL37yl94Zw3s8LWxsK) | 2:40 | 2025-02-14 | 2025-03-28 |
 | [Letzte Kippe](https://open.spotify.com/track/0vvoGnFwt7b162tw7opVXJ) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [BABYJOY](https://open.spotify.com/artist/2vYWyXs1PJbycPBdTstmHH) | [Letzte Kippe](https://open.spotify.com/album/4ShtwWtMwGfddaoMsO0qPh) | 3:29 | 2023-08-10 | 2023-09-22 |
 | [letzter sommer](https://open.spotify.com/track/2NAeSJODXTDq6j4RBFysx4) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [letzter sommer](https://open.spotify.com/album/36L9dKEIk2HSWTEFRBzyaV) | 2:38 | 2024-08-29 | 2024-11-22 |
+| [letzter tag](https://open.spotify.com/track/0Moio5plYolRIS6HpmqjRD) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN), [BLISSFOOL](https://open.spotify.com/artist/2dH5TMksK8IRWkewaweRIm) | [letzter tag](https://open.spotify.com/album/0dBtMBFhRjnBValwhWS8dA) | 2:12 | 2026-05-28 |  |
 | [Letzter Tag](https://open.spotify.com/track/0FHJba7LMdY8s34lITV3DV) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Letzter Tag](https://open.spotify.com/album/5thuLWe6FnOxGp38JnCfTf) | 2:11 | 2025-02-27 | 2025-05-16 |
 | [Letztes Lied](https://open.spotify.com/track/32CTnLyfwOpDQWwB7IOYXj) | [Rex](https://open.spotify.com/artist/4oZpEOsCD2du75K8BadPSY), [Sira Faal](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Letztes Lied](https://open.spotify.com/album/498HXnLGLmrJZi0tSbY6R1) | 3:08 | 2026-04-16 | 2026-05-08 |
 | [LFDY](https://open.spotify.com/track/1tj0MXra7Sb4fnuH2KIaxx) | [Luzine](https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp) | [LFDY](https://open.spotify.com/album/4qdMdmlZMeuBaqzI4UT061) | 2:41 | 2025-03-13 | 2025-03-28 |
@@ -1513,7 +1514,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 1](https://open.spotify.com/track/0Moio5plYolRIS6HpmqjRD) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [letzter tag](https://open.spotify.com/album/0dBtMBFhRjnBValwhWS8dA) | 0:00 | 2026-05-28 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

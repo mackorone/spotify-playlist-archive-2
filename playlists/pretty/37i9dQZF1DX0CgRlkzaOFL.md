@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,749 likes - 65 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,777 likes - 65 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Merry\-Go\-Round of Life \- from 'Howl’s Moving Castle'](https://open.spotify.com/track/3jJzXe7sNKDRPhigSDb23s) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 2:49 |
 | 2 | [あの夏へ](https://open.spotify.com/track/6RxsExIM2y163Iy1Qst36S) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [千と千尋の神隠し サウンドトラック](https://open.spotify.com/album/3nok62UEPi0gHJsIrHbhMY) | 3:09 |
 | 3 | [Suzume](https://open.spotify.com/track/2PP2JHhu02ATqc54cmtFn9) | [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Suzume](https://open.spotify.com/album/5UJFhq3j1eJXE4KS5lFD3h) | 3:42 |
-| 4 | [The Four Seasons / Violin Concerto in E Major, RV 269 "Spring": I\. Allegro](https://open.spotify.com/track/1vPYvku7fpwbz1k6vYtw0p) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [“青のオーケストラ” スペシャル弦楽合奏団](https://open.spotify.com/artist/7LrAZtywC6kUoYX2My4z4T), [マリア・ドゥエニャス](https://open.spotify.com/artist/4aKN6schPYwLphJuuq7KZZ) | [Blue Orchestra \- Premium Classic](https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9) | 3:40 |
+| 4 | [The Four Seasons / Violin Concerto in E Major, RV 269 "Spring": I\. Allegro](https://open.spotify.com/track/1vPYvku7fpwbz1k6vYtw0p) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [María Dueñas](https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE), [“青のオーケストラ” スペシャル弦楽合奏団](https://open.spotify.com/artist/7LrAZtywC6kUoYX2My4z4T) | [Blue Orchestra \- Premium Classic](https://open.spotify.com/album/2JHvqY7w2xaLqPSKUQNbi9) | 3:40 |
 | 5 | [La Parfum de Fleurs](https://open.spotify.com/track/5aAWl9sN7rffpfQnND78QO) | [松司馬拓指揮 Ensemble FOVE](https://open.spotify.com/artist/5KafCCJozxvzGwbHdX8TDq) | [Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION](https://open.spotify.com/album/7fSGa139Q2t6IgAgf1Cx7n) | 2:05 |
 | 6 | [Ask me why\(母の思い\)](https://open.spotify.com/track/1ej3rD4t8Fb2n6tZskXFIu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 1:48 |
 | 7 | [海の見える街](https://open.spotify.com/track/15X1ksqhe8cY1NlEZMl7X8) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [魔女の宅急便 サントラ音楽集](https://open.spotify.com/album/4lbEQJMTPRqABuBCDkhetC) | 3:00 |

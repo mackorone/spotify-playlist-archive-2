@@ -8315,6 +8315,32 @@
     },
     {
       "album": {
+        "name": "Tudo Novo",
+        "url": "https://open.spotify.com/album/00wg6KCp6EUh7aLBJOmJ9X"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Atitude",
+          "url": "https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4"
+        },
+        {
+          "name": "Filipe Bitencourt",
+          "url": "https://open.spotify.com/artist/12eLZflwp21B3NNLVlKKsR"
+        },
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378956,
+      "name": "Cada Vez Mais",
+      "url": "https://open.spotify.com/track/3T70aX3qgIQqWBnyPkp5i3"
+    },
+    {
+      "album": {
         "name": "Cadeias Quebrar (Break Every Chain) [Ao Vivo]",
         "url": "https://open.spotify.com/album/3SCcelwKxSgYhukS77lTWz"
       },
@@ -9824,7 +9850,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 343280,
       "name": "Chame Jesus (Ao Vivo)",
       "url": "https://open.spotify.com/track/3YT9bPCUSrdhBzLue9bymz"
@@ -11644,7 +11670,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 247786,
       "name": "Controlo Tudo (Ao Vivo)",
       "url": "https://open.spotify.com/track/4CfDyuTR489yxI2covJPs5"
@@ -12871,6 +12897,24 @@
     },
     {
       "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/3o7S9jA09UnGE5rY2464gX"
+      },
+      "artists": [
+        {
+          "name": "Asaph",
+          "url": "https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182466,
+      "name": "C\u00e9u",
+      "url": "https://open.spotify.com/track/3FgWG8xI10J5dAGtIyPWg4"
+    },
+    {
+      "album": {
         "name": "C\u00e9u na Terra (Os Anjos Passeiam Aqui) [Ao Vivo]",
         "url": "https://open.spotify.com/album/3zuDaio4guPRc4bvjTdk9Z"
       },
@@ -12904,6 +12948,24 @@
       "duration_ms": 272685,
       "name": "C\u00e9u, Minha Recompensa",
       "url": "https://open.spotify.com/track/5eTxYsO7nt1KTVxE9mZOz0"
+    },
+    {
+      "album": {
+        "name": "C\u00e9us Abertos",
+        "url": "https://open.spotify.com/album/33LkG72L2FGQrmzDATgNOn"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Salles",
+          "url": "https://open.spotify.com/artist/1giliqwlMJUvPYqANiUfKs"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312793,
+      "name": "C\u00e9us Abertos",
+      "url": "https://open.spotify.com/track/6hz5vGywk2fLZeYcDPMsXF"
     },
     {
       "album": {
@@ -26302,7 +26364,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 264489,
       "name": "Foi Milagre",
       "url": "https://open.spotify.com/track/6VIb9ERGRy7CTRto2klppd"
@@ -29364,7 +29426,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 324789,
       "name": "Inconfund\u00edvel - Ao Vivo",
       "url": "https://open.spotify.com/track/6eB3ebf3iDnd8q7D7trIHv"
@@ -37014,6 +37076,28 @@
       "duration_ms": 268813,
       "name": "Minha Ess\u00eancia \u00e9 o C\u00e9u + A Cidade Santa (Ao Vivo)",
       "url": "https://open.spotify.com/track/4C6uNinkk3XQsFQBbaCkIg"
+    },
+    {
+      "album": {
+        "name": "O Que \u00c9 Pra Ser",
+        "url": "https://open.spotify.com/album/6GYFc6F463LpTQ223FI10p"
+      },
+      "artists": [
+        {
+          "name": "Paulo Nazareth",
+          "url": "https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40"
+        },
+        {
+          "name": "Renato Peres",
+          "url": "https://open.spotify.com/artist/6QFhidB1dRwoV10I2O5hWh"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239333,
+      "name": "Minha Falta (O Que \u00c9 Pra Ser)",
+      "url": "https://open.spotify.com/track/4TDuTb6dbGlpIIXI0GnxQd"
     },
     {
       "album": {
@@ -53210,7 +53294,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 307106,
       "name": "Quero Conhecer Jesus",
       "url": "https://open.spotify.com/track/3KItFy04qoMTd3hSjYzeKo"
@@ -55264,6 +55348,24 @@
       "duration_ms": 172965,
       "name": "Romanos 12:2",
       "url": "https://open.spotify.com/track/1SiitLjEE4RIB5DvPe0PUV"
+    },
+    {
+      "album": {
+        "name": "Ecoar 3",
+        "url": "https://open.spotify.com/album/5fjXzkdSY0mjnNIvS1uMmY"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270690,
+      "name": "Rompendo Em F\u00e9",
+      "url": "https://open.spotify.com/track/7x7E2Zr7dLMY3rPjgYBDlH"
     },
     {
       "album": {
@@ -67314,6 +67416,28 @@
       "duration_ms": 297969,
       "name": "Vem de Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/772rBpKooQWT75NzWMXt6C"
+    },
+    {
+      "album": {
+        "name": "Vem Deus/ \u00c9 Dele",
+        "url": "https://open.spotify.com/album/1GGGtK9aG7thHhVye7Qsun"
+      },
+      "artists": [
+        {
+          "name": "Eunice Zumbuca",
+          "url": "https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p"
+        },
+        {
+          "name": "Arthur Diaz",
+          "url": "https://open.spotify.com/artist/79JudXh1e1OVVJaUTTCvBA"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1252000,
+      "name": "Vem Deus/ \u00c9 Dele",
+      "url": "https://open.spotify.com/track/0s6rbvub1pjnbmpqOgVHSp"
     },
     {
       "album": {

@@ -1,13 +1,45 @@
 {
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Bebe Stockwell",
-  "num_followers": 954377,
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: corook",
+  "num_followers": 954372,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJWjyDk08qFVGqji5SJ7fGKfwGVR",
+  "snapshot_id": "AAAAAEe23HuD7vZIt+z17sSjBqNJp20C",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:02:53",
+      "album": {
+        "name": "How do I relate to you?",
+        "url": "https://open.spotify.com/album/4xiUQNTYDIDU0Tdj5dEKq0"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "duration_ms": 164486,
+      "name": "Relate to you",
+      "url": "https://open.spotify.com/track/3G7D8chDbs0e3ho8U1uN8B"
+    },
+    {
+      "added_at": "2026-05-01 04:03:31",
+      "album": {
+        "name": "Kingdom of Fear",
+        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 161075,
+      "name": "Kingdom of Fear",
+      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
+    },
     {
       "added_at": "2026-05-15 04:01:50",
       "album": {
@@ -25,20 +57,20 @@
       "url": "https://open.spotify.com/track/13cZ4NgkcjBeJ63YoWvNHI"
     },
     {
-      "added_at": "2026-05-01 04:03:31",
+      "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Kingdom of Fear",
-        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3ZLm8xE9pOYo3HRRI1pXbX"
       },
       "artists": [
         {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+          "name": "Baby J",
+          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
         }
       ],
-      "duration_ms": 161075,
-      "name": "Kingdom of Fear",
-      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
+      "duration_ms": 185000,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc"
     },
     {
       "added_at": "2026-05-22 04:01:52",
@@ -1519,22 +1551,6 @@
     {
       "added_at": "2026-05-01 04:03:31",
       "album": {
-        "name": "retrograde rodeo",
-        "url": "https://open.spotify.com/album/5662DUUWrUnbd5rMa11ker"
-      },
-      "artists": [
-        {
-          "name": "asiris",
-          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
-        }
-      ],
-      "duration_ms": 239265,
-      "name": "time zones",
-      "url": "https://open.spotify.com/track/4PwAIYkeLM1dxVpSpw9mno"
-    },
-    {
-      "added_at": "2026-05-01 04:03:31",
-      "album": {
         "name": "Hundred Mile High",
         "url": "https://open.spotify.com/album/28lM7VxvsuOUVjElk0pvMr"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 251784,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo"
-    },
-    {
-      "added_at": "2026-05-01 04:03:31",
-      "album": {
-        "name": "You Again",
-        "url": "https://open.spotify.com/album/2Chkb8Apocqiq73DnOC56m"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "You Again",
-      "url": "https://open.spotify.com/track/1Ki5PqMFMTKQfjB1uet9pG"
     },
     {
       "added_at": "2026-05-01 04:03:31",

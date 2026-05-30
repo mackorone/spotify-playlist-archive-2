@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,653 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,655 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 9 | [A Luz De Tieta](https://open.spotify.com/track/2QC8Y1mUL709fOZWO8okcR) | [Timbalada](https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Axé Bahia](https://open.spotify.com/album/63VoP8enjIIB5EBNAwx4OZ) | 3:14 |
 | 10 | [Raiz de Todo Bem \- Ao Vivo](https://open.spotify.com/track/3chGzdnaSzyd2W8Tlvboib) | [Saulo](https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf) | [Saulo Ao Vivo](https://open.spotify.com/album/3OWLJAZKsy6UA5moqT3NYk) | 3:25 |
 | 11 | [Dorival](https://open.spotify.com/track/6OXilF9moyWn0YHX0iyKtr) | [Academia da Berlinda](https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC) | [Nada Sem Ela](https://open.spotify.com/album/15NX1MFPiauDujhbHQKk44) | 5:06 |
-| 12 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
-| 13 | [Frevo Mulher \- Ao Vivo](https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:06 |
+| 12 | [Frevo Mulher \- Ao Vivo](https://open.spotify.com/track/39DPLWaOhGeBSBwd0Nlm8y) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG), [Elba Ramalho](https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A), [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN) | [O Grande Encontro 20 Anos: Alceu, Elba e Geraldo \(Ao Vivo\)](https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC) | 5:06 |
+| 13 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
 | 14 | [Faraó](https://open.spotify.com/track/6sDFxI3dj8r1EsscyedSeX) | [Margareth Menezes](https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD) | [Tete a Tete Margareth](https://open.spotify.com/album/0rXrK44NTKFieEwoGVfIMK) | 5:34 |
 | 15 | [Vai Sacudir, Vai Abalar](https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk) | [Cheiro de Amor](https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs) | [É Demais Meu Rei!!!](https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t) | 4:06 |
 | 16 | [Vai Passar](https://open.spotify.com/track/6xTxXhEXQyJJGlQtGSNsIp) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque](https://open.spotify.com/album/7gPPAMMYpqGNrhKwLGNibG) | 6:11 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 28 | [História Para Ninar Gente Grande](https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x) | [Marquinho Art'Samba](https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh), [Estação Primeira de Mangueira](https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0) | [Sambas De Enredo Das Escolas De Samba 2019](https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr) | 4:31 |
 | 29 | [Balancê](https://open.spotify.com/track/2m1G38M0gJuE4aVPh0tmIP) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:08 |
 | 30 | [Nossa Gente \(Avisa Lá\)](https://open.spotify.com/track/1QluL2jd49QDy4TTKusBav) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música Do Olodum \- 20 Anos](https://open.spotify.com/album/0EBLPCgXWUYtb5F4ApxTdd) | 3:03 |
-| 31 | [Diga Que Valeu \- Ao Vivo](https://open.spotify.com/track/6hJkTyrjoHdndSHprRDnH0) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:16 |
+| 31 | [Masculino E Feminino](https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Maxximum \- Pepeu Gomes E Baby Consuelo](https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl) | 3:44 |
 | 32 | [Rapunzel](https://open.spotify.com/track/2WtbM5MmLJI9toBOfcvWu2) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [Feijão Com Arroz](https://open.spotify.com/album/6CPeyKMDVZRdSRDHFcmnRS) | 3:39 |
-| 33 | [Masculino E Feminino](https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Maxximum \- Pepeu Gomes E Baby Consuelo](https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl) | 3:44 |
+| 33 | [Diga Que Valeu \- Ao Vivo](https://open.spotify.com/track/6hJkTyrjoHdndSHprRDnH0) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:16 |
 | 34 | [Bloco Do Prazer](https://open.spotify.com/track/3YQGHqOQs6TG6Hui3Qsa3w) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Minha Voz](https://open.spotify.com/album/6DPcjdQnwOicjXIk8rAnxY) | 3:03 |
 | 35 | [A Vida É Festa](https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4) | [Banda Beijo](https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK) | [Aconteceu](https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ) | 3:52 |
 | 36 | [Chuva, Suor E Cerveja](https://open.spotify.com/track/5q63Fb5vWEXhXU9KG09MTg) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 3:24 |

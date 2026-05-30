@@ -643,6 +643,28 @@
     },
     {
       "album": {
+        "name": "As Soon As I Get Home",
+        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239885,
+      "name": "As Soon As I Get Home",
+      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
+    },
+    {
+      "album": {
         "name": "ATK",
         "url": "https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH"
       },

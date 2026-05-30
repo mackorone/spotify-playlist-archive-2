@@ -4,7 +4,7 @@
 
 > The party has arrived! 🪩  Cover: Solomun
 
-672 songs - 2 day 5 hr 47 min
+673 songs - 2 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 | 2022-12-30 | 2024-06-25 |
 | [Circles](https://open.spotify.com/track/6XeyK7aMTmNbS9G7VKQdhw) | [Kristian Llov](https://open.spotify.com/artist/5I8TkdfxJsKIEGhGQSBmyc) | [Circles](https://open.spotify.com/album/0nI7aCghT6qgLfWzTkS3XA) | 2:58 | 2026-04-23 |  |
 | [CIRCLES \- Rodriguez Jr\. Remix](https://open.spotify.com/track/0PwaykhbrTRE7DdtCM5hKR) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [CIRCLES \(Rodriguez Jr\. Remix\)](https://open.spotify.com/album/3HJEiJoDYSoT967vQQBui6) | 5:21 | 2023-02-03 | 2023-04-09 |
-| [Close Your Eyes](https://open.spotify.com/track/3t4qCykvePOC9UkFzkkpOO) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Close Your Eyes](https://open.spotify.com/album/7bwDOWw83kF0dwfMol6XqL) | 3:33 | 2026-04-30 |  |
+| [Close Your Eyes](https://open.spotify.com/track/3t4qCykvePOC9UkFzkkpOO) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Close Your Eyes](https://open.spotify.com/album/7bwDOWw83kF0dwfMol6XqL) | 3:33 | 2026-04-30 | 2026-05-30 |
 | [Closer](https://open.spotify.com/track/1rGnpPG0QHfqjDgM8cIf4A) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Montserrat / Closer](https://open.spotify.com/album/2XkPQxDWtW7gS4CHy6ab67) | 7:40 | 2024-01-22 |  |
 | [Cloudy Eyes \(Dance Tonight\)](https://open.spotify.com/track/1NkhNXHEv33NZgMF4W4SeB) | [Reznik](https://open.spotify.com/artist/702smBYudOzBmjHChanIuZ), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Cloudy Eyes \(Dance Tonight\)](https://open.spotify.com/album/4l5eC0UIf7x6jKuxaFNUUr) | 4:24 | 2025-09-25 |  |
 | [Cocobolo](https://open.spotify.com/track/7Ac8bqsRr34uJZmNDHqy8N) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN) | [Cocobolo](https://open.spotify.com/album/6ZubdaQhIB94oOnBMC3W3J) | 6:04 | 2022-04-15 | 2022-05-24 |
@@ -383,6 +383,7 @@
 | [More Love \- Rampa &ME Remix](https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [More Love \(Rampa &ME Remix\)](https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC) | 6:11 | 2024-03-07 |  |
 | [More Than You Know](https://open.spotify.com/track/1SnX2vQo16bLlFREsoRyw7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [More Than You Know](https://open.spotify.com/album/3NMghT86mTUt2EPd1aRnhN) | 6:38 | 2024-01-26 | 2024-01-30 |
 | [Morning Glow \- Edit](https://open.spotify.com/track/0TwiKyrgJ7dRykmg5jpjHH) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Morning Glow \(Edit\)](https://open.spotify.com/album/0VJJHbw6jcGCjU90REt3wF) | 3:01 | 2022-04-15 | 2022-07-20 |
+| [Mother](https://open.spotify.com/track/5HJEdaxYV6DZ3ju0szNERM) | [Kaufmann \(DE\)](https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v) | [Mother](https://open.spotify.com/album/64p5aAeP5fKZ1tJnhtHn52) | 6:24 | 2026-05-18 |  |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-06-06 |  |
 | [Move](https://open.spotify.com/track/1XyO7zz6B4zMtUzVrP5G1C) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [Move](https://open.spotify.com/album/0TmAvoXHWAGgzteBGHGVob) | 3:48 | 2026-04-23 | 2026-05-28 |
 | [Move](https://open.spotify.com/track/0fouEhRoo3FApnQPIXKgOY) | [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Move](https://open.spotify.com/album/2O1q3IboqaR8KEDRy2cDRc) | 5:25 | 2022-10-28 | 2022-11-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Fcukers on the cover bby
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,694 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,728 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 49 | [Just Your Doll](https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Just Your Doll](https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG) | 2:27 |
 | 50 | [Hang Me Up To Dry](https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Robbers & Cowards](https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5) | 3:38 |
 | 51 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
-| 52 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 |
-| 53 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 |
+| 52 | [Perfect \(Exceeder\)](https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U) | 2:41 |
+| 53 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 |
 | 54 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 |
 | 55 | [Obstacle 1](https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:11 |
 | 56 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 80 | [Emerge](https://open.spotify.com/track/3vyKSb9sAdXl0kQ1KnS9fY) | [Fischerspooner](https://open.spotify.com/artist/5R7K1GezC0jy24v1R2n4x3) | [\#1](https://open.spotify.com/album/3OCiJ6mbOzJdzTrk8R9hy2) | 4:48 |
 | 81 | [You’re Not The One](https://open.spotify.com/track/0Px73m5ACfeYHYsAo9YTfP) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/1bvCVYPVl445mO690M2dOr) | 3:55 |
 | 82 | [Back in Your Head](https://open.spotify.com/track/2Pdo1VvYDB9FqeuNx8D1FW) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [The Con](https://open.spotify.com/album/4QjGIZZqvNrdkgw4LZKLZK) | 3:00 |
-| 83 | [I Like It Like That](https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I Like It Like That](https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT) | 2:53 |
-| 84 | [Club 20](https://open.spotify.com/track/7wkctx2Jea5OyKXUyUC6xe) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Club 20](https://open.spotify.com/album/3P2CgypNUCjskPdRd4J0OQ) | 2:41 |
+| 83 | [Club 20](https://open.spotify.com/track/7wkctx2Jea5OyKXUyUC6xe) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Club 20](https://open.spotify.com/album/3P2CgypNUCjskPdRd4J0OQ) | 2:41 |
+| 84 | [I Like It Like That](https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [I Like It Like That](https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT) | 2:53 |
 | 85 | [Wildcat](https://open.spotify.com/track/0wP9okoDWmbeC2w9E8ZzPu) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Classics](https://open.spotify.com/album/7cKqnavORKemYZ41wFtx5J) | 4:20 |
 | 86 | [Sad Sad City](https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o) | [Ghostland Observatory](https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo) | [Paparazzi Lightning](https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s) | 3:05 |
 | 87 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |

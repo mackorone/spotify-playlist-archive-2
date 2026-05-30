@@ -1,13 +1,45 @@
 {
   "description": "A laid-back trip in the folk scene. Cover: Le Ren",
-  "num_followers": 166909,
+  "num_followers": 166908,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANu3g+kfdnBK7mo768Mrg1waMKjR",
+  "snapshot_id": "AAAAADQSrwucWK8IfAtG/w7V+55Fc0t7",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:03:52",
+      "album": {
+        "name": "Philadelphia's been good to me",
+        "url": "https://open.spotify.com/album/5AfELtBFbN1hM75hgqc7FI"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 335650,
+      "name": "Rock o\u2019 Stone",
+      "url": "https://open.spotify.com/track/21CU5fG0Pp0LUbXRDG1d48"
+    },
+    {
+      "added_at": "2026-05-29 04:03:52",
+      "album": {
+        "name": "Down Debbie/Reservoir",
+        "url": "https://open.spotify.com/album/1kKx979DVgL3MNOA1F7G6v"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "duration_ms": 210918,
+      "name": "Down Debbie/Reservoir",
+      "url": "https://open.spotify.com/track/01M4zeod1IYrXGRSie9CmQ"
+    },
     {
       "added_at": "2026-05-22 04:02:57",
       "album": {
@@ -23,6 +55,102 @@
       "duration_ms": 229592,
       "name": "Free Wheeling",
       "url": "https://open.spotify.com/track/43DKVQnMysID1lXOaHqG9n"
+    },
+    {
+      "added_at": "2026-05-29 04:03:52",
+      "album": {
+        "name": "stand it",
+        "url": "https://open.spotify.com/album/3WqpayADgAkEADkV6ZTRjU"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "duration_ms": 246937,
+      "name": "stand it",
+      "url": "https://open.spotify.com/track/3DfaPuC2Lc3sCTPlB0NxV3"
+    },
+    {
+      "added_at": "2026-05-29 04:03:52",
+      "album": {
+        "name": "carry you",
+        "url": "https://open.spotify.com/album/2XigGzkUuDj5NlGsOslBgC"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "duration_ms": 206326,
+      "name": "carry you",
+      "url": "https://open.spotify.com/track/4wCti2HBhf5xYrF1LukEFl"
+    },
+    {
+      "added_at": "2026-05-29 04:03:52",
+      "album": {
+        "name": "The Nameless",
+        "url": "https://open.spotify.com/album/4TFcXa3jbX5jb6Co8KOhZJ"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "The Nameless",
+      "url": "https://open.spotify.com/track/6MYTjhbJu3vmQJnO031Qpj"
+    },
+    {
+      "added_at": "2026-05-29 04:03:52",
+      "album": {
+        "name": "Suffer (Acoustic)",
+        "url": "https://open.spotify.com/album/6WZXlXqoUxQHPlAo1CkYJQ"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "duration_ms": 233796,
+      "name": "Suffer - Acoustic",
+      "url": "https://open.spotify.com/track/0lTBDl2MgnJcpwoeqgYIPy"
+    },
+    {
+      "added_at": "2026-05-15 04:03:16",
+      "album": {
+        "name": "Little Wide Open",
+        "url": "https://open.spotify.com/album/4SE1kVQva7akjFCMxFiP7U"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 313417,
+      "name": "100,000",
+      "url": "https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx"
+    },
+    {
+      "added_at": "2026-05-29 04:03:52",
+      "album": {
+        "name": "Golden Hour (Piano Version)",
+        "url": "https://open.spotify.com/album/47x5pGAsg2SMoQdFpps9gf"
+      },
+      "artists": [
+        {
+          "name": "Al Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        }
+      ],
+      "duration_ms": 162720,
+      "name": "Golden Hour (Piano Version)",
+      "url": "https://open.spotify.com/track/0gSts5ozt6zk8JIrf1gfyW"
     },
     {
       "added_at": "2026-05-22 04:02:57",
@@ -73,22 +201,6 @@
       "url": "https://open.spotify.com/track/0hQCfLsKgUJbupwRcXKpKI"
     },
     {
-      "added_at": "2026-05-15 04:03:16",
-      "album": {
-        "name": "Little Wide Open",
-        "url": "https://open.spotify.com/album/4SE1kVQva7akjFCMxFiP7U"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 313417,
-      "name": "100,000",
-      "url": "https://open.spotify.com/track/1qUvobcy39y7vFskw2ZHAx"
-    },
-    {
       "added_at": "2026-05-22 04:02:57",
       "album": {
         "name": "Sea to the Moon",
@@ -123,6 +235,70 @@
       "duration_ms": 187478,
       "name": "As I Was",
       "url": "https://open.spotify.com/track/02Je1UjJerrrKoaUi2KeRW"
+    },
+    {
+      "added_at": "2026-05-29 04:03:52",
+      "album": {
+        "name": "for love's sake",
+        "url": "https://open.spotify.com/album/6Gili2PS0vC97P5HIZRPJG"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "duration_ms": 194453,
+      "name": "for love's sake",
+      "url": "https://open.spotify.com/track/3bAoL5RpaXCs40ndVBsj54"
+    },
+    {
+      "added_at": "2026-05-15 04:03:16",
+      "album": {
+        "name": "Fondness, Etc.",
+        "url": "https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "No Place to Be",
+      "url": "https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ"
+    },
+    {
+      "added_at": "2026-05-22 04:02:57",
+      "album": {
+        "name": "Calls Me Mine",
+        "url": "https://open.spotify.com/album/5VM7zUXsGLk9nnnFOvcM2h"
+      },
+      "artists": [
+        {
+          "name": "His His",
+          "url": "https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO"
+        }
+      ],
+      "duration_ms": 138227,
+      "name": "Calls Me Mine",
+      "url": "https://open.spotify.com/track/2RkA9CsLZxFTjwfbb9kJw5"
+    },
+    {
+      "added_at": "2026-05-15 04:03:16",
+      "album": {
+        "name": "Blue Around You",
+        "url": "https://open.spotify.com/album/08YMKapsgqvqI1Plv7AUpR"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Blue Around You",
+      "url": "https://open.spotify.com/track/7r97Xk8EGDq0nJWg2rBrH0"
     },
     {
       "added_at": "2026-05-15 04:03:16",
@@ -207,22 +383,6 @@
     {
       "added_at": "2026-05-22 04:02:57",
       "album": {
-        "name": "Calls Me Mine",
-        "url": "https://open.spotify.com/album/5VM7zUXsGLk9nnnFOvcM2h"
-      },
-      "artists": [
-        {
-          "name": "His His",
-          "url": "https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO"
-        }
-      ],
-      "duration_ms": 138227,
-      "name": "Calls Me Mine",
-      "url": "https://open.spotify.com/track/2RkA9CsLZxFTjwfbb9kJw5"
-    },
-    {
-      "added_at": "2026-05-22 04:02:57",
-      "album": {
         "name": "Character Traits Deluxe",
         "url": "https://open.spotify.com/album/4RYcWdYrsnDSlPKJjtgOmy"
       },
@@ -259,22 +419,6 @@
     {
       "added_at": "2026-05-15 04:03:16",
       "album": {
-        "name": "Blue Around You",
-        "url": "https://open.spotify.com/album/08YMKapsgqvqI1Plv7AUpR"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Blue Around You",
-      "url": "https://open.spotify.com/track/7r97Xk8EGDq0nJWg2rBrH0"
-    },
-    {
-      "added_at": "2026-05-15 04:03:16",
-      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/4eqjMjMiYCs2b9gG1m446s"
       },
@@ -287,22 +431,6 @@
       "duration_ms": 241886,
       "name": "Better",
       "url": "https://open.spotify.com/track/6D2kbomhEQ84KjbMOexvz0"
-    },
-    {
-      "added_at": "2026-05-15 04:03:16",
-      "album": {
-        "name": "Fondness, Etc.",
-        "url": "https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "No Place to Be",
-      "url": "https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ"
     },
     {
       "added_at": "2026-05-15 04:03:16",
@@ -1943,22 +2071,6 @@
     {
       "added_at": "2026-03-13 15:29:59",
       "album": {
-        "name": "Die Young",
-        "url": "https://open.spotify.com/album/7vlkgyaOI5iCZwqKy3MpFa"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 232790,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/2hzpbfjj9cVCSB1EeHKGXt"
-    },
-    {
-      "added_at": "2026-03-13 15:29:59",
-      "album": {
         "name": "You're Right",
         "url": "https://open.spotify.com/album/4tNyCZlcp83pxK5ktfTx5Q"
       },
@@ -2039,26 +2151,6 @@
     {
       "added_at": "2026-03-13 15:29:59",
       "album": {
-        "name": "Big Flower Light Go Boom",
-        "url": "https://open.spotify.com/album/4C27UvumyTSiKspelTt7tJ"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        },
-        {
-          "name": "Lady Lamb",
-          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "Hudson (feat. Lady Lamb)",
-      "url": "https://open.spotify.com/track/4onZizmJw8YYgZXOjj9JK8"
-    },
-    {
-      "added_at": "2026-03-13 15:29:59",
-      "album": {
         "name": "You Don't Really Like Me",
         "url": "https://open.spotify.com/album/2BocWiE6BIzA7yjOQCUxvS"
       },
@@ -2087,22 +2179,6 @@
       "duration_ms": 187661,
       "name": "Lost Leader",
       "url": "https://open.spotify.com/track/1qFxxFm82Z3kxVxNpr4pLj"
-    },
-    {
-      "added_at": "2026-03-06 05:00:28",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/1WzeryfBKaLye5onsOzhNy"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 206300,
-      "name": "Gone - Cover",
-      "url": "https://open.spotify.com/track/4vtykJQdJkHJfYxIUJP74K"
     },
     {
       "added_at": "2026-03-06 05:00:28",
@@ -2259,22 +2335,6 @@
     {
       "added_at": "2026-02-27 05:01:26",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5qItK4WGw8ufZrG4mLaNob"
-      },
-      "artists": [
-        {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
-        }
-      ],
-      "duration_ms": 255241,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7yHZbBzxRZ8Ijhfqo0hvNN"
-    },
-    {
-      "added_at": "2026-02-27 05:01:26",
-      "album": {
         "name": "My Days of 58",
         "url": "https://open.spotify.com/album/497p1j3P9Xzlb7vXay7tNl"
       },
@@ -2287,26 +2347,6 @@
       "duration_ms": 418617,
       "name": "Why Do Men Sing",
       "url": "https://open.spotify.com/track/3XOapyiO6vB1v6k9KqHz2O"
-    },
-    {
-      "added_at": "2026-02-27 05:01:26",
-      "album": {
-        "name": "Human Kind feat. Tenille Townes",
-        "url": "https://open.spotify.com/album/6fWqZwgFXeMO3kBw7Br0Eb"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        },
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 220926,
-      "name": "Human Kind (ft. Tenille Townes)",
-      "url": "https://open.spotify.com/track/1IP2Zb26WLB4J3KJN0Jvhi"
     },
     {
       "added_at": "2026-02-27 05:01:26",
@@ -2407,42 +2447,6 @@
     {
       "added_at": "2026-02-20 05:01:30",
       "album": {
-        "name": "A Perfect Dive",
-        "url": "https://open.spotify.com/album/0uJKwyJ9yrSfbWtSrVv0Ci"
-      },
-      "artists": [
-        {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
-        }
-      ],
-      "duration_ms": 206284,
-      "name": "A Perfect Dive",
-      "url": "https://open.spotify.com/track/3DE7ETgAaygz2s9EFzKehZ"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Badlands (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
         "name": "Blue Water",
         "url": "https://open.spotify.com/album/22uxBCWF0hwH84VV9O20CB"
       },
@@ -2455,22 +2459,6 @@
       "duration_ms": 188773,
       "name": "Blue Water",
       "url": "https://open.spotify.com/track/4JcHHGalNvDxB0gCpGg1HP"
-    },
-    {
-      "added_at": "2026-02-20 05:01:30",
-      "album": {
-        "name": "Lake Effect",
-        "url": "https://open.spotify.com/album/5M2Qm6miL0fBOSlaYQE3y6"
-      },
-      "artists": [
-        {
-          "name": "Darryl Rahn",
-          "url": "https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA"
-        }
-      ],
-      "duration_ms": 196917,
-      "name": "Lake Effect",
-      "url": "https://open.spotify.com/track/1V57OlQHsUEePM47rxYjxQ"
     },
     {
       "added_at": "2026-02-20 05:01:30",

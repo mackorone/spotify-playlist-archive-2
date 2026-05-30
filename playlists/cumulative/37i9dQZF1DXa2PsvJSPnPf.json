@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-15",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "All Good Cowboys",
       "url": "https://open.spotify.com/track/2tGGjVf9IAyXRv9XucKgCs"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 169560,
       "name": "Death's at My Door",
       "url": "https://open.spotify.com/track/4mMuWQqr55rc94jbJddEv0"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 220416,
       "name": "Falling Snow in Santa Fe",
       "url": "https://open.spotify.com/track/5cniB9uCQHULDoYPqxGfms"
@@ -1787,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "I'll Go Home From Here",
+        "url": "https://open.spotify.com/album/17rTlGtn0OVvCPy0jU8zwy"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232893,
+      "name": "I'll Go Home From Here",
+      "url": "https://open.spotify.com/track/1BdNv3rzsB6QMO6xahY9Bx"
+    },
+    {
+      "album": {
         "name": "If I Told",
         "url": "https://open.spotify.com/album/54JZi2ZgoMq9t7OF0V4qMu"
       },
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 196626,
       "name": "Just Want To Be Loved",
       "url": "https://open.spotify.com/track/0NYl9aDHEcTNQ8SKu8GLqM"
@@ -2966,6 +2984,24 @@
       "duration_ms": 213026,
       "name": "One Little Feeling",
       "url": "https://open.spotify.com/track/14G8DeuH1VjEA9FKaWvPDg"
+    },
+    {
+      "album": {
+        "name": "One Of Those Things",
+        "url": "https://open.spotify.com/album/7x2sZhzIZG1TiXpD5iqzm3"
+      },
+      "artists": [
+        {
+          "name": "Lucy Clearwater",
+          "url": "https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207957,
+      "name": "One Of Those Things",
+      "url": "https://open.spotify.com/track/6wXr3n9kKYDXkj14qJzttN"
     },
     {
       "album": {

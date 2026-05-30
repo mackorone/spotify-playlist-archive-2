@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,506 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,514 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 94 | [Leavin' On Your Mind \- Single Version](https://open.spotify.com/track/1UX3YnunUhblOJbdnX64F2) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sweet Dreams: Her Complete Decca Masters \(1960\-1963\)](https://open.spotify.com/album/42ClQwOX06MiqvPJ97yoNC) | 2:24 |
 | 95 | [Yesterday When I Was Young](https://open.spotify.com/track/34FHyAVCDFURtlrt6HfPHU) | [Roy Clark](https://open.spotify.com/artist/6iOpZ3mUTWOjjER4mGcZmS) | [The Best Of Roy Clark](https://open.spotify.com/album/2ADFGSvr79NVsX0KcB5r2Q) | 3:20 |
 | 96 | [I've Got A Tiger By The Tail \- 2006 Remastered Version](https://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [21 \#1 Hits: The Ultimate Collection](https://open.spotify.com/album/6YhrskvsUUnJtWmkCGeY6D) | 2:13 |
-| 97 | [Swinging Doors](https://open.spotify.com/track/6Ja76N5EcdHrZCGfsWNeGo) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Super Hits Collection \- 32 Songs \- Swinging Doors](https://open.spotify.com/album/7inmfUQJ4jioW0GSVxpgpe) | 2:52 |
+| 97 | [A Boy Named Sue \- Live Version](https://open.spotify.com/track/6bMvOAtKZ55b00lrGQZPfA) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Greatest: The Number Ones](https://open.spotify.com/album/3uQReDOmST2pucGDXd8AvO) | 3:45 |
 | 98 | [Send Me The Pillow You Dream On](https://open.spotify.com/track/60LBZcuecM8zRwXmZm5bQs) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [25 All\-Time Greatest Hits](https://open.spotify.com/album/5hoikUKrQZkKm8tspRhwTS) | 2:53 |
-| 99 | [Phantom 309](https://open.spotify.com/track/3fNQkYKo7VHZBk8GWyqGAq) | [Red Sovine](https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf) | [20 All Time Greatest Hits](https://open.spotify.com/album/48aF0MyVsxQgWYBF9SUR4k) | 3:23 |
-| 100 | [Honey \- 1991 \- Remaster](https://open.spotify.com/track/3ZnlYvqCnjJ7OeZhVKkWPg) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [Honey \- The Best of Bobby Goldsboro](https://open.spotify.com/album/16QapBbCMXHEekBXfUCiKp) | 3:59 |
+| 99 | [Swinging Doors](https://open.spotify.com/track/6Ja76N5EcdHrZCGfsWNeGo) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Super Hits Collection \- 32 Songs \- Swinging Doors](https://open.spotify.com/album/7inmfUQJ4jioW0GSVxpgpe) | 2:52 |
+| 100 | [Phantom 309](https://open.spotify.com/track/3fNQkYKo7VHZBk8GWyqGAq) | [Red Sovine](https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf) | [20 All Time Greatest Hits](https://open.spotify.com/album/48aF0MyVsxQgWYBF9SUR4k) | 3:23 |
 
 Snapshot ID: `AAAAAIsktG1FTt7J6ZbNaakzAbhgHAoM`

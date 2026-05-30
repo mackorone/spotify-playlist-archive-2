@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 🐹김햄찌와 함께 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,250 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,245 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 11 | [Forest](https://open.spotify.com/track/2T0dcL9HI7t0W9H0vJANAN) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [In Your Radiant Season \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/11aaLvJEQx6IrJ1EySCOmn) | 3:23 |
 | 12 | [Koko](https://open.spotify.com/track/66PFcWSVV5PUvwYNZfbd08) | [Lee Kang Seung 이강승](https://open.spotify.com/artist/6l3XS49h2cvD2rcU4TaBTz) | [In other words it’s all made by Kyeongsuk](https://open.spotify.com/album/4tzcujfn2vABcEZHyekAxs) | 3:48 |
 | 13 | [Shining](https://open.spotify.com/track/4YgkvKLJGdjy3LyMBiJnxa) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Still Shining OST Part.7](https://open.spotify.com/album/5BQZMlxrr98Yi4KeKY8ZMA) | 3:45 |
-| 14 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:54 |
-| 15 | [Take A Nap](https://open.spotify.com/track/2swePREj3aFglLkOWQJCkn) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E) | [Morning Diaries EP 1](https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz) | 3:11 |
-| 16 | [Moving](https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Moving](https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH) | 3:22 |
+| 14 | [Take A Nap](https://open.spotify.com/track/2swePREj3aFglLkOWQJCkn) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E) | [Morning Diaries EP 1](https://open.spotify.com/album/1Caan3Q8QWlPH81ZxuG1bz) | 3:11 |
+| 15 | [Moving](https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Moving](https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH) | 3:22 |
+| 16 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:54 |
 | 17 | [When I stop thinking](https://open.spotify.com/track/2lC9w6JGMzBkiQrx8Wy6uM) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [When I stop thinking](https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw) | 3:16 |
 | 18 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
 | 19 | [Shower](https://open.spotify.com/track/1AOTFHFtluLFWL5WreWLZd) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Dancing With You](https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R) | 2:30 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 26 | [Lover](https://open.spotify.com/track/1x8y9zhORcFz1jOscolY9S) | [CHOI JUNG EUN](https://open.spotify.com/artist/57vWEo5CS7wC4oJjuCcgAr) | [Love, Take Two, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/4ZBsA5UZmPkhsKVr6kBnm4) | 3:16 |
 | 27 | [To the other side of greed](https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:47 |
 | 28 | [Favorite Things](https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01) | [Bok Dajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [Favorite Things](https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z) | 3:08 |
-| 29 | [A Rain of Petals](https://open.spotify.com/track/0bjY1AC7Dg0dY08XwIqaTD) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [My Little New Diary, Pt\. 4](https://open.spotify.com/album/1QvSAkm9UyY4gcriXIQmN3) | 3:43 |
-| 30 | [Joy](https://open.spotify.com/track/4pzNQT5eROmrGNmdeIW5DI) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Made In Heart](https://open.spotify.com/album/5SFEorQR8TgWGYwLSg2nE2) | 2:40 |
+| 29 | [Joy](https://open.spotify.com/track/4pzNQT5eROmrGNmdeIW5DI) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Made In Heart](https://open.spotify.com/album/5SFEorQR8TgWGYwLSg2nE2) | 2:40 |
+| 30 | [A Rain of Petals](https://open.spotify.com/track/0bjY1AC7Dg0dY08XwIqaTD) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [My Little New Diary, Pt\. 4](https://open.spotify.com/album/1QvSAkm9UyY4gcriXIQmN3) | 3:43 |
 | 31 | [Dawnlight](https://open.spotify.com/track/1iaXPvoMPa2L9GYvAA7gHj) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Autumn](https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r) | 3:31 |
 | 32 | [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 |
 | 33 | [Oh my love](https://open.spotify.com/track/4XVXQ6kCi9ME5LnLQKlVx0) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [TIKI TAKA](https://open.spotify.com/album/18Z30FBuoIx0U1xICFeS17) | 3:53 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 47 | [After the rain](https://open.spotify.com/track/0iHSBbDOd5JnwLu1o0y1u4) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Law and The City, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/5jw9rhuN8Obf3JXzDvtYER) | 3:27 |
 | 48 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
 | 49 | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/track/1jSNAa9R1LBiMeAp4uYVdU) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv) | 3:23 |
-| 50 | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [여락이들](https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU) | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd) | 3:28 |
+| 50 | [Echo \(feat\. JUKJAE\)](https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v), [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Echo \(feat .JUKJAE\)](https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj) | 3:12 |
 
 Snapshot ID: `AAAAAGuVuQc5fZvvm0xMKLuAIto7kHKT`

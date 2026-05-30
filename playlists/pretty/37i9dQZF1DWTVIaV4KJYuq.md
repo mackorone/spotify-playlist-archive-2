@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 709,768 likes - 110 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 709,793 likes - 110 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 32 | [Slipping Through My Fingers](https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Slipping Through My Fingers](https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr) | 4:23 |
 | 33 | [Somewhere Only We know \- Live from Spotify, London](https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Sessions](https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z) | 3:47 |
 | 34 | [In My Life](https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 2:57 |
-| 35 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
-| 36 | [Dance Me to the End of Love \- Bonus](https://open.spotify.com/track/68KCwQ2PNKNT17sEx32DEG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi) | 3:05 |
+| 35 | [Dance Me to the End of Love \- Bonus](https://open.spotify.com/track/68KCwQ2PNKNT17sEx32DEG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/3GtyVMEnfmc3rl8pTYBJqi) | 3:05 |
+| 36 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
 | 37 | [Hotel California \(Cover\)](https://open.spotify.com/track/5nS9WEWYnbQDBAe81SHhDP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:44 |
 | 38 | [Wild World \- Acoustic Version](https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [The Things We Do for Love](https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K) | 3:45 |
 | 39 | [America](https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [America](https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK) | 3:38 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 59 | [Don't Worry Baby](https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [Don't Worry Baby](https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw) | 3:00 |
 | 60 | [My City of Ruins](https://open.spotify.com/track/22NL5h9eOZqVeBRLrRgMJk) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ) | 4:16 |
 | 61 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 |
-| 62 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
-| 63 | [And It Stoned Me \(Cover\)](https://open.spotify.com/track/2sRkcqgxX11ylhpatCauqC) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:56 |
+| 62 | [And It Stoned Me \(Cover\)](https://open.spotify.com/track/2sRkcqgxX11ylhpatCauqC) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:56 |
+| 63 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
 | 64 | [I'll Stand By You](https://open.spotify.com/track/0CFx0MleGtaqvNUrJhGl3B) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [I'll Stand By You](https://open.spotify.com/album/6dMYjwP3Bjo0u9CAXgS9Xd) | 4:07 |
 | 65 | [Man in the Mirror](https://open.spotify.com/track/4XTqOeJ9nLeNCHy2fXYi5T) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Man in the Mirror](https://open.spotify.com/album/5VleQQSPbU6LEzONZK38F5) | 3:30 |
 | 66 | [Helplessly Hoping](https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Helplessly Hoping](https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA) | 2:39 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 105 | [Make You Feel My Love](https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1) | 3:32 |
 | 106 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
 | 107 | [Don't You Want Me](https://open.spotify.com/track/7cQ2x6bqiOKWzKxB7Rp8tc) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/1WfjeDnn6P7umwi5gLZSGx) | 3:19 |
-| 108 | [Can't Help Falling in Love](https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Can't Help Falling in Love](https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L) | 2:53 |
+| 108 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
 | 109 | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/track/6IsiCdn42x5fGWTUqkyDwj) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/album/5ZF0y8MDRFSecx7HFqqryV) | 4:50 |
-| 110 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 |
+| 110 | [Can't Help Falling in Love](https://open.spotify.com/track/0Rm2G83ELwkuEgpHlJcBPn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Can't Help Falling in Love](https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L) | 2:53 |
 
 Snapshot ID: `AAAAALDPeFQpxOmIGfJHziXsE56a0nuJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡PUEEERTAAAAAAAAS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,639 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,668 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 64 | [La Burra Orejona](https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt) | [Banda Trancazo](https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9), [Arturo Camarillo](https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h) | [Las Mamirriquis](https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I) | 2:44 |
 | 65 | [El Sauce y la Palma](https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1) | [Banda Sinaloense de Acero](https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe) | [Y Sigue la Historia \(12 Exitos ¡¡ la Explosiva!!\)](https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV) | 2:15 |
 | 66 | [Agua de Té](https://open.spotify.com/track/5HqEVtaLpA8bLnlmX0y8AC) | [Banda La Movida](https://open.spotify.com/artist/4gD8odSwAK19NPcpUiFDf0) | [Agua de Té](https://open.spotify.com/album/2l9bArfA1xUx8VlN168tvQ) | 2:50 |
-| 67 | [Recuerdos a Hernán](https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [De Michoacán al Guamuchil \(Los Mejores Sones de Jaripeo\)](https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ) | 3:03 |
-| 68 | [El Carretero](https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 4:13 |
+| 67 | [El Carretero](https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 4:13 |
+| 68 | [Recuerdos a Hernán](https://open.spotify.com/track/6Jii7DExy2n4XzOGOhingJ) | [Banda Alteñita de Morelia](https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA) | [De Michoacán al Guamuchil \(Los Mejores Sones de Jaripeo\)](https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ) | 3:03 |
 | 69 | [El Ocotito](https://open.spotify.com/track/5WxWzOGkYFKhXHK7d2yyP1) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡la Explosiva!!, Vol\. 2](https://open.spotify.com/album/4OT17ivovFVhVOlQTRk12w) | 2:57 |
 | 70 | [El Tiliche](https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ) | [Banda Zirahuen](https://open.spotify.com/artist/7HLRLMnyM5R8wHIds5PfZ7) | [Que Lindo Es Michoacán! \(Puros Sones!\)](https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR) | 2:18 |
 | 71 | [El Toro Requeson](https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD) | [Banda La Fascinante del Merito Zirahuen](https://open.spotify.com/artist/6F1a2oyhCeba3S0ToPqACz) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 3:31 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 77 | [11 Pueblos \(Carlillos Guerrero\) \- En Vivo](https://open.spotify.com/track/11IDEme7XMApgERLgpTxEW) | [Banda La Maxima Escuela](https://open.spotify.com/artist/1jWdAKdi41k3LswEE4zTW0) | [Sones Tradicionales \(En Vivo\)](https://open.spotify.com/album/7G1v1Iad6PBNTxCV5gPLtc) | 3:11 |
 | 78 | [Rumbo a la Cañada](https://open.spotify.com/track/3EhVdAJv8cqxNdL2Aj1NfY) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 2:32 |
 | 79 | [La Feria de Cali](https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm) | [Los Infinitos Puro Zirahuen](https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9) | [Las Alegres de los Infinitos](https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d) | 2:41 |
-| 80 | [La Diana Ranchera](https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [La Reyna de los Sones](https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3) | 3:22 |
-| 81 | [La Amachona \- Sones para Jaripeo](https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [De Puro Gusto! \(18 Años de Trayectoria\)](https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx) | 3:00 |
+| 80 | [La Amachona \- Sones para Jaripeo](https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM) | [Banda Monarca de Morelia](https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn) | [De Puro Gusto! \(18 Años de Trayectoria\)](https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx) | 3:00 |
+| 81 | [La Diana Ranchera](https://open.spotify.com/track/2r1gbcvrF9F4NulPuFp9CB) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [La Reyna de los Sones](https://open.spotify.com/album/5tErULkM04YxqT8fLCljy3) | 3:22 |
 | 82 | [El Son Del Veneno](https://open.spotify.com/track/4cqHYRCRyS4e1KHgLgxQmH) | [Banda Los Tecateando](https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe) | [Haciendo Historia](https://open.spotify.com/album/2YPhK6xUjkzscg4IfsLoFN) | 4:12 |
 | 83 | [La Yaquesita](https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 3:37 |
 | 84 | [El Novillo Despuntado](https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR) | [Banda La Fascinante del Merito Zirahuen](https://open.spotify.com/artist/6F1a2oyhCeba3S0ToPqACz) | [Que Chulo Es el Jaripeo](https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F) | 2:57 |

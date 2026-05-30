@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Haryanvi Hip-Hop! Cover: DG IMMORTALS",
+  "description": "Best of Haryanvi Hip-Hop! Cover: Hammy Muzic",
   "name": "RAP 91 Haryanvi",
   "tracks": [
     {
@@ -3072,6 +3072,28 @@
       "duration_ms": 231157,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/4yIUYWDDXTDkYl616suCaw"
+    },
+    {
+      "album": {
+        "name": "Crop",
+        "url": "https://open.spotify.com/album/5jS40o2huFbEd7fR4keuYk"
+      },
+      "artists": [
+        {
+          "name": "Hammy Muzic",
+          "url": "https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj"
+        },
+        {
+          "name": "Music Nasha",
+          "url": "https://open.spotify.com/artist/6YvJWewMypP77lmdqRMMkB"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142166,
+      "name": "Crop",
+      "url": "https://open.spotify.com/track/3OkHt2z8OdoRbrFYcYsOwB"
     },
     {
       "album": {
@@ -9414,7 +9436,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 141935,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/6OzdOx2THskGVrUrJHpAtz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: BABIE LATO, Natalia Grosiak, BELA, Kathia
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,861 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,882 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 5 | [Stumilowy las](https://open.spotify.com/track/02AehIZHv9EAaaSb1CC4rE) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Stumilowy las](https://open.spotify.com/album/2pdqY6uB2Zr9sWHbsZzOBd) | 4:42 |
 | 6 | [Młodość](https://open.spotify.com/track/4mYR5ZHRHDBYkDkuKotVC2) | [Wojciech Baranowski](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Waniliowy](https://open.spotify.com/album/7zsZMoCJbrGrAEOwVGIZFY) | 3:38 |
 | 7 | [SAJGON](https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [SAJGON](https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw) | 2:00 |
-| 8 | [traces](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 |
+| 8 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 |
 | 9 | [Czule mówię](https://open.spotify.com/track/5vCjLZ5tJd2DuVeENeoTyw) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Czule mówię](https://open.spotify.com/album/4DEt3nc2DIHkRafA7RI1Ty) | 3:02 |
 | 10 | [Z resztek](https://open.spotify.com/track/1o2zzTLm3WlbN4a3cUp6LM) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [Z resztek](https://open.spotify.com/album/3uOrKM0YHn9grOeKvAZ7vk) | 3:27 |
 | 11 | [Anioły \(Pojedynek\)](https://open.spotify.com/track/2FPk6E4BfCsdJ4esqT6bVv) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Julia Pietrucha](https://open.spotify.com/artist/5gSWboNBgJZ060m1r30Xmg) | [Anioły \(Pojedynek\)](https://open.spotify.com/album/6Y1mNv6Zlfkh8U7H2jabST) | 4:42 |
 | 12 | [Gruby, mały](https://open.spotify.com/track/2WaOaEIZr4oh0ln0L97VjQ) | [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Gruby, mały](https://open.spotify.com/album/1UXja0VTnnSZ08viavGIp7) | 4:01 |
-| 13 | [Piękno Złożone z Brzydkich Elementów](https://open.spotify.com/track/0zZA4ZdedF52bmi3eirFRH) | [Wojtek Mazolewski](https://open.spotify.com/artist/6ybyG9khjfNI0rslYCXyHK), [Marcin Dorociński](https://open.spotify.com/artist/1yjBOdDbiuSSJ72NSd45yF) | [Witkacy\. Kompozycje Astronomiczne](https://open.spotify.com/album/5qn1MLAxcEKxpcvsdjFMT0) | 4:04 |
+| 13 | [Piękno Złożone z Brzydkich Elementów](https://open.spotify.com/track/0zZA4ZdedF52bmi3eirFRH) | [Wojtek Mazolewski](https://open.spotify.com/artist/6ybyG9khjfNI0rslYCXyHK), [Marcin Dorociński](https://open.spotify.com/artist/1yjBOdDbiuSSJ72NSd45yF), [Wojtek Mazolewski Quintet](https://open.spotify.com/artist/4daN0QKE6JqPnvLvrzC9zT) | [Witkacy\. Kompozycje Astronomiczne](https://open.spotify.com/album/5qn1MLAxcEKxpcvsdjFMT0) | 4:04 |
 | 14 | [Były momenty](https://open.spotify.com/track/2JZvc0rGooaJDY7aMXANxh) | [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Były momenty](https://open.spotify.com/album/3y7OsAGPH3VMtbyPk8BnSp) | 3:14 |
 | 15 | [Mam nadzieję](https://open.spotify.com/track/38DWD30XnDQ7ue5kNbXi1M) | [Maja Kleszcz](https://open.spotify.com/artist/3i9lbUfrdHKmGe5CJz2XjA), [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mam nadzieję](https://open.spotify.com/album/4WDtmCu86ZAV6C7Lvk4Bsk) | 3:53 |
 | 16 | [Duchy](https://open.spotify.com/track/2f0kDGtEEvs3nuvAt4VIvL) | [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA), [Mateusz Krautwurst](https://open.spotify.com/artist/6Kydm3qxUEXowPNHODJ78G) | [Duchy](https://open.spotify.com/album/25mua8KWggIsYNveU9xuyZ) | 4:24 |

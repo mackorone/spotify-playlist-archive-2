@@ -1,12 +1,12 @@
 {
   "description": "This is Alessandro Cortini. The essential tracks, all in one playlist.",
-  "num_followers": 1585,
+  "num_followers": 1586,
   "original_name": "This Is Alessandro Cortini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAACx3+rVtMbTiWyJds5SJQCU",
+  "snapshot_id": "aheFgAAAAAAkH/vSWpEKclZBCM7c0q/2",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forse 1",
-        "url": "https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/3F7lJxQ0B6watLGlV1oOmh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forse 3",
         "url": "https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 597263,
       "name": "Scappa",
       "url": "https://open.spotify.com/track/6Nbo5gaFH0jt4J1OhOmB2k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forse 1",
+        "url": "https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/3F7lJxQ0B6watLGlV1oOmh"
     },
     {
       "added_at": null,
@@ -183,46 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
-      },
-      "artists": [
-        {
-          "name": "Alain Johannes",
-          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
-        },
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        },
-        {
-          "name": "Norm Block",
-          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
-        }
-      ],
-      "duration_ms": 106866,
-      "name": "Forgotten Paths",
-      "url": "https://open.spotify.com/track/2PUjmpblg9f1Cy9KItnQSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memorie I",
-        "url": "https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 526000,
-      "name": "Arena",
-      "url": "https://open.spotify.com/track/47BFhy9h0MYft7X1BzAFcp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SCURO CHIARO",
         "url": "https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg"
       },
@@ -239,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NATI INFINITI",
-        "url": "https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE"
+        "name": "Memorie I",
+        "url": "https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It"
       },
       "artists": [
         {
@@ -248,9 +208,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 369994,
-      "name": "III",
-      "url": "https://open.spotify.com/track/6ubA164D78eD0YuiL4tpxS"
+      "duration_ms": 526000,
+      "name": "Arena",
+      "url": "https://open.spotify.com/track/47BFhy9h0MYft7X1BzAFcp"
     },
     {
       "added_at": null,
@@ -304,15 +264,15 @@
           "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
         }
       ],
-      "duration_ms": 202600,
-      "name": "The Long Road",
-      "url": "https://open.spotify.com/track/1rfCCZxJcU1UA9oRfKLF8e"
+      "duration_ms": 106866,
+      "name": "Forgotten Paths",
+      "url": "https://open.spotify.com/track/2PUjmpblg9f1Cy9KItnQSJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Memorie I",
-        "url": "https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It"
+        "name": "NATI INFINITI",
+        "url": "https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE"
       },
       "artists": [
         {
@@ -320,9 +280,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 584000,
-      "name": "Alba",
-      "url": "https://open.spotify.com/track/3jTwPA0lkh5CDH9Oa2wu6v"
+      "duration_ms": 369994,
+      "name": "III",
+      "url": "https://open.spotify.com/track/6ubA164D78eD0YuiL4tpxS"
     },
     {
       "added_at": null,
@@ -343,6 +303,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memorie I",
+        "url": "https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 584000,
+      "name": "Alba",
+      "url": "https://open.spotify.com/track/3jTwPA0lkh5CDH9Oa2wu6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "The Long Road",
+      "url": "https://open.spotify.com/track/1rfCCZxJcU1UA9oRfKLF8e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avanti",
+        "url": "https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 292517,
+      "name": "Perdonare",
+      "url": "https://open.spotify.com/track/5Mwkk3HnI4LV6NQiotFfqc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
       },
@@ -359,6 +375,22 @@
       "duration_ms": 102826,
       "name": "Space Channel",
       "url": "https://open.spotify.com/track/0iNQjPzuYEexBAsPSsKvnO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Movimento",
+        "url": "https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Quasi Casa",
+      "url": "https://open.spotify.com/track/562ikulQIED38RmLXUowpq"
     },
     {
       "added_at": null,
@@ -396,25 +428,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 292517,
-      "name": "Perdonare",
-      "url": "https://open.spotify.com/track/5Mwkk3HnI4LV6NQiotFfqc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimento",
-        "url": "https://open.spotify.com/album/4qFtbK7TNJnJddZCid5x5A"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Quasi Casa",
-      "url": "https://open.spotify.com/track/562ikulQIED38RmLXUowpq"
+      "duration_ms": 439648,
+      "name": "Aspettare",
+      "url": "https://open.spotify.com/track/3ZLgXv8bEuUHZAJ2jCNhra"
     },
     {
       "added_at": null,
@@ -435,62 +451,6 @@
       "duration_ms": 114413,
       "name": "Interrupted By The Cloud Of Light",
       "url": "https://open.spotify.com/track/2piqRx94EW1ZC6jIcct63N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
-      },
-      "artists": [
-        {
-          "name": "Alain Johannes",
-          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
-        },
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        },
-        {
-          "name": "Norm Block",
-          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
-        }
-      ],
-      "duration_ms": 57946,
-      "name": "Heart of the Volcano",
-      "url": "https://open.spotify.com/track/3KEKkaN5ZeKhFokaWtbPae"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avanti",
-        "url": "https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 439648,
-      "name": "Aspettare",
-      "url": "https://open.spotify.com/track/3ZLgXv8bEuUHZAJ2jCNhra"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emosfere",
-        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 461298,
-      "name": "Quinta Emosfera",
-      "url": "https://open.spotify.com/track/7dNWIGQs3AjqUWd1TdVg6V"
     },
     {
       "added_at": null,
@@ -567,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forse 3",
-        "url": "https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS"
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
       },
       "artists": [
         {
@@ -576,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 417684,
-      "name": "Rimasta",
-      "url": "https://open.spotify.com/track/4yHjtYAf7wrsfNIiBb1kP9"
+      "duration_ms": 461298,
+      "name": "Quinta Emosfera",
+      "url": "https://open.spotify.com/track/7dNWIGQs3AjqUWd1TdVg6V"
     },
     {
       "added_at": null,
@@ -600,9 +560,9 @@
           "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Black Hawks Down",
-      "url": "https://open.spotify.com/track/5SighFSFYzN69U4L7JhDLT"
+      "duration_ms": 57946,
+      "name": "Heart of the Volcano",
+      "url": "https://open.spotify.com/track/3KEKkaN5ZeKhFokaWtbPae"
     },
     {
       "added_at": null,
@@ -619,6 +579,22 @@
       "duration_ms": 376615,
       "name": "Perdere",
       "url": "https://open.spotify.com/track/5EVaeRCaBAOdbsChFHOiS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forse 3",
+        "url": "https://open.spotify.com/album/0jHu1WdYU5K3LYAR31GsQS"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 417684,
+      "name": "Rimasta",
+      "url": "https://open.spotify.com/track/4yHjtYAf7wrsfNIiBb1kP9"
     },
     {
       "added_at": null,
@@ -643,34 +619,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonno",
-        "url": "https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX"
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
       },
       "artists": [
         {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Dell'influenza",
-      "url": "https://open.spotify.com/track/45xOHZqCBlK3JHSFN1SaxA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mastery: Quantum Sound",
-        "url": "https://open.spotify.com/album/1A1hVTEsR5VgN0vZh2aWYN"
-      },
-      "artists": [
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
         {
           "name": "Alessandro Cortini",
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
         }
       ],
-      "duration_ms": 269306,
-      "name": "IV - Mixed",
-      "url": "https://open.spotify.com/track/3lY4g2Y4ce0UMlHp0gIj6D"
+      "duration_ms": 113066,
+      "name": "Finding Erewhon",
+      "url": "https://open.spotify.com/track/3dtVq79rjgIg5YF2VxJfSE"
     },
     {
       "added_at": null,
@@ -691,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sonno",
+        "url": "https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Dell'influenza",
+      "url": "https://open.spotify.com/track/45xOHZqCBlK3JHSFN1SaxA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 527120,
       "name": "Water",
       "url": "https://open.spotify.com/track/42V1mTUau3OIFKrBCMTrjV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mastery: Quantum Sound",
+        "url": "https://open.spotify.com/album/1A1hVTEsR5VgN0vZh2aWYN"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "IV - Mixed",
+      "url": "https://open.spotify.com/track/3lY4g2Y4ce0UMlHp0gIj6D"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NATI INFINITI",
-        "url": "https://open.spotify.com/album/1CqMmap0YvsyGplBJ5JFvE"
+        "name": "Risveglio",
+        "url": "https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 532309,
-      "name": "II",
-      "url": "https://open.spotify.com/track/17l9asCXRjqpcHnk32Hm5Q"
+      "duration_ms": 31108,
+      "name": "Dormiveglia",
+      "url": "https://open.spotify.com/track/178U2DVk3TaMR97viEdmn4"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Risveglio",
-        "url": "https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG"
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 31108,
-      "name": "Dormiveglia",
-      "url": "https://open.spotify.com/track/178U2DVk3TaMR97viEdmn4"
+      "duration_ms": 463644,
+      "name": "Sesta Emosfera",
+      "url": "https://open.spotify.com/track/1buvtoupRp3gJfICXlHyZv"
     },
     {
       "added_at": null,

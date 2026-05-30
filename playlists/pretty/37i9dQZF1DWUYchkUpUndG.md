@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Bidemi Olaoba
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,295 likes - 120 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,389 likes - 120 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 43 | [Hallelujah](https://open.spotify.com/track/2tdi2OCyNAwZ76Fkv7W0ye) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Hallelujah](https://open.spotify.com/album/6Y3HQKvIj7f5PJU52X4MOn) | 2:42 |
 | 44 | [JOY](https://open.spotify.com/track/7KY8OY4vDQrR3nyKzDwrB1) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [JOY](https://open.spotify.com/album/55gqL6ERF3buznfKBqb2V9) | 3:00 |
 | 45 | [Burn In Me](https://open.spotify.com/track/1aBpL2T6NY5CEJNYU4u4wR) | [Samira](https://open.spotify.com/artist/1Lm3NaEAJa45nHb7Cxx892), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Burn In Me](https://open.spotify.com/album/24HBW2Q8eW8UPt2R5FTHWm) | 8:49 |
-| 46 | [Track 4](https://open.spotify.com/track/3A6dZNicN7AGaiwsUqnBcl) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [The Gospel Vol.1](https://open.spotify.com/album/4CcFnIA7S27UVeKPfjnFDe) | 0:00 |
+| 46 | [Nkosi Amakhosi](https://open.spotify.com/track/3A6dZNicN7AGaiwsUqnBcl) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [The Gospel Vol.1](https://open.spotify.com/album/4CcFnIA7S27UVeKPfjnFDe) | 7:18 |
 | 47 | [BETTER](https://open.spotify.com/track/3AONiqYdMZ3kYKCUAaODZv) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [KIMAH](https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn) | [BETTER](https://open.spotify.com/album/7xRyRsObMEc3SEP0vYSD8c) | 3:23 |
 | 48 | [Onlé](https://open.spotify.com/track/5m9JVdjNudQk9lR5pStL3c) | [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj), [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Dance with the Son](https://open.spotify.com/album/4i5Udk0YRvQ3flBJJsATFf) | 2:23 |
 | 49 | [Understand](https://open.spotify.com/track/5VdGIiZQ4lkHRAjw3H6ua3) | [Tevinnmusic](https://open.spotify.com/artist/1Vw2K0RswB87LX58SylIBB), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Understand](https://open.spotify.com/album/509CaZ254KtwSqGLZVArP1) | 3:14 |
 | 50 | [Iwo Ni Mo Fe](https://open.spotify.com/track/35bmF7dKz479u7euOFKk6d) | [Joseph Gospel](https://open.spotify.com/artist/3pxnfXdhLmanKK2XPQM4TL) | [Iwo Ni Mo Fe](https://open.spotify.com/album/4r7dw7pgwyi3vU2fQxaJSG) | 3:17 |
-| 51 | [Track 15](https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr) | [Paul Kachala](https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM) | [Mwayenera \- The Live Album](https://open.spotify.com/album/4CguM9gNqGCX0pvY5ioAcZ) | 0:00 |
+| 51 | [Inu ndi Ine \- Live](https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr) | [Paul Kachala](https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM), [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Mwayenera \- The Live Album](https://open.spotify.com/album/4CguM9gNqGCX0pvY5ioAcZ) | 9:24 |
 | 52 | [Congratulations](https://open.spotify.com/track/6aIGR6DKQBs0eV38FBLnGy) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt) | [Congratulations](https://open.spotify.com/album/1hBpOqRar5UIrtqq2EZmDh) | 2:49 |
 | 53 | [Wetin I Gain](https://open.spotify.com/track/69iXerRi5zph0IHOpJkesZ) | [Olabayo](https://open.spotify.com/artist/5fwsRZi2lECkP2rqK74aaC) | [Wetin I Gain](https://open.spotify.com/album/5tFeEBwNuzHqglMs5z5PgT) | 2:16 |
 | 54 | [THE CALL](https://open.spotify.com/track/74CiCmnkof2CsipPSFUpWg) | [Mr Yels](https://open.spotify.com/artist/6NpdLK2Iz3GsyZiz9Ur0Pr) | [THE CALL](https://open.spotify.com/album/0kguX7P4hXRtrGwvjd5sYV) | 5:58 |

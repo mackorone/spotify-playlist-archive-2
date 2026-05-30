@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Yan, Kamisa 10",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Mumuzinho",
   "name": "Domingu\u00eara",
   "tracks": [
     {
@@ -1548,6 +1548,24 @@
       "duration_ms": 385258,
       "name": "Desafio / N\u00e3o Tem Pra Ningu\u00e9m / Mina De F\u00e9 / Temporal - Ao Vivo",
       "url": "https://open.spotify.com/track/5rACWFrk46UeJ7ShqQoO9A"
+    },
+    {
+      "album": {
+        "name": "Simples Assim (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/51idNR1YLPaRs6tTSUiToS"
+      },
+      "artists": [
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299834,
+      "name": "Desejo De Amar / Deixa Eu Te Amar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1fqIXHkjobN6l67KaEq0ka"
     },
     {
       "album": {
@@ -3560,7 +3578,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 168000,
       "name": "Nega Tet\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/5XCmY33krThxsaNvv8jAjA"

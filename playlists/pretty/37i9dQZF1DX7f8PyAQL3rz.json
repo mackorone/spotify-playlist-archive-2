@@ -1,12 +1,12 @@
 {
   "description": "eles barulharam nessa sess\u00e3o hein \ud83d\udc40",
-  "num_followers": 1446765,
+  "num_followers": 1446659,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIeS48Vl+Qq9u7hyKVJVXJHaB07/",
+  "snapshot_id": "AAAAAMeVINItR2tepPg/XyZp7AiA29Pp",
   "tracks": [
     {
       "added_at": "2026-05-22 03:01:19",
@@ -415,6 +415,34 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "FUNK DE CANALHA",
+        "url": "https://open.spotify.com/album/3Bsrl1qsrf2qz5X4h7MPpm"
+      },
+      "artists": [
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 196535,
+      "name": "pros menor da nova",
+      "url": "https://open.spotify.com/track/4K8jKvRCwZcn6FXRJd9T3C"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "Eu Venci o Mundo",
         "url": "https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT"
       },
@@ -431,6 +459,34 @@
       "duration_ms": 107906,
       "name": "Belieber",
       "url": "https://open.spotify.com/track/0bek7IePM9EuMiDI6cGQJB"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "Pacman de Panicat",
+        "url": "https://open.spotify.com/album/7C0YBv6bvhfQpItU7Pfqoj"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        }
+      ],
+      "duration_ms": 251539,
+      "name": "Pacman de Panicat",
+      "url": "https://open.spotify.com/track/4cH7c8Zox7sBysrSnjzdXr"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -475,34 +531,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "FUNK DE CANALHA",
-        "url": "https://open.spotify.com/album/3Bsrl1qsrf2qz5X4h7MPpm"
-      },
-      "artists": [
-        {
-          "name": "G.A",
-          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 196535,
-      "name": "pros menor da nova",
-      "url": "https://open.spotify.com/track/4K8jKvRCwZcn6FXRJd9T3C"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "COLAPSO GLOBAL",
         "url": "https://open.spotify.com/album/214OaJv3XycWX4oqydN2Ic"
       },
@@ -523,34 +551,6 @@
       "duration_ms": 199685,
       "name": "FACECARD",
       "url": "https://open.spotify.com/track/0qotc7S3TQU4uLtnfTrM3w"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Pacman de Panicat",
-        "url": "https://open.spotify.com/album/7C0YBv6bvhfQpItU7Pfqoj"
-      },
-      "artists": [
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        }
-      ],
-      "duration_ms": 251539,
-      "name": "Pacman de Panicat",
-      "url": "https://open.spotify.com/track/4cH7c8Zox7sBysrSnjzdXr"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -971,30 +971,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Sinestesia",
-        "url": "https://open.spotify.com/album/2bLgXehUjKOPQuP1FeYNNn"
-      },
-      "artists": [
-        {
-          "name": "DJ VINI DA ZO",
-          "url": "https://open.spotify.com/artist/0QeiN45NyF1hFtr6SZiEFb"
-        },
-        {
-          "name": "Authentic Records",
-          "url": "https://open.spotify.com/artist/7Fu0G22HFwOPgE2P3PISz7"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Procedimento",
-      "url": "https://open.spotify.com/track/61cbHhgcOtLiYAOsZrvErQ"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "Muito Rom\u00e2ntico",
         "url": "https://open.spotify.com/album/10T1r3MGtdcwrJXtMUzhxv"
       },
@@ -1019,6 +995,30 @@
       "duration_ms": 210857,
       "name": "Voltar pra Casa",
       "url": "https://open.spotify.com/track/0oEgPFuiD0NXqiyCH6DDEY"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "Sinestesia",
+        "url": "https://open.spotify.com/album/2bLgXehUjKOPQuP1FeYNNn"
+      },
+      "artists": [
+        {
+          "name": "DJ VINI DA ZO",
+          "url": "https://open.spotify.com/artist/0QeiN45NyF1hFtr6SZiEFb"
+        },
+        {
+          "name": "Authentic Records",
+          "url": "https://open.spotify.com/artist/7Fu0G22HFwOPgE2P3PISz7"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Procedimento",
+      "url": "https://open.spotify.com/track/61cbHhgcOtLiYAOsZrvErQ"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1163,6 +1163,30 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Confiss\u00f5es",
+      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "Que toda dor vire dinheiro",
         "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
       },
@@ -1251,30 +1275,6 @@
       "duration_ms": 156086,
       "name": "Sem Amor",
       "url": "https://open.spotify.com/track/23rYWQa36hf2vqkMeeB0oA"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
-      },
-      "artists": [
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 156461,
-      "name": "Confiss\u00f5es",
-      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1439,6 +1439,34 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "N\u00f3is Ta Diferente",
+        "url": "https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk"
+      },
+      "artists": [
+        {
+          "name": "DJ JB Mix",
+          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "MC Fr da Norte",
+          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
+        },
+        {
+          "name": "Prado",
+          "url": "https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq"
+        }
+      ],
+      "duration_ms": 162317,
+      "name": "Na Onde N\u00f3is Mora",
+      "url": "https://open.spotify.com/track/7Bsh0lTH0Yw0B8NV5xWNKQ"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "BASE: Barras da Leste Barras da Sul",
         "url": "https://open.spotify.com/album/27zwXjwKqkvRexUh7kwlQv"
       },
@@ -1495,34 +1523,6 @@
       "duration_ms": 133715,
       "name": "dedin na boca",
       "url": "https://open.spotify.com/track/1H4k1iOh3EGQmIINhl1ZbG"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "N\u00f3is Ta Diferente",
-        "url": "https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk"
-      },
-      "artists": [
-        {
-          "name": "DJ JB Mix",
-          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
-        },
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        },
-        {
-          "name": "MC Fr da Norte",
-          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
-        },
-        {
-          "name": "Prado",
-          "url": "https://open.spotify.com/artist/5I7db10XSG06FrAHzC36Wq"
-        }
-      ],
-      "duration_ms": 162317,
-      "name": "Na Onde N\u00f3is Mora",
-      "url": "https://open.spotify.com/track/7Bsh0lTH0Yw0B8NV5xWNKQ"
     },
     {
       "added_at": "2026-05-22 03:01:19",

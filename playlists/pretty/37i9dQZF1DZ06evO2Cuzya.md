@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 
 > This is Gracie Abrams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,295 likes - 41 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,500 likes - 41 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 29 | [Felt Good About You](https://open.spotify.com/track/5bjB0xPlN7fR1roEedzQvg) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:44 |
 | 30 | [I should hate you](https://open.spotify.com/track/4iUt4PddTybyCrpQAMoJH7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:18 |
 | 31 | [Long Sleeves](https://open.spotify.com/track/3wIRxCIGmdxld4ZC6yShZ9) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 3:38 |
-| 32 | [Cedar](https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Buccaneers: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ) | 4:12 |
-| 33 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
+| 32 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
+| 33 | [Cedar](https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Buccaneers: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ) | 4:12 |
 | 34 | [Mean It](https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mean It](https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl) | 2:51 |
 | 35 | [minor](https://open.spotify.com/track/1G9YZPtxUGfl1yVw7kq4yc) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:40 |
 | 36 | [Gave You I Gave You I](https://open.spotify.com/track/7GaLluiRWvNfhayWKIZ9Xt) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 4:29 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 40 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 |
 | 41 | [Under / Over](https://open.spotify.com/track/6e5UOAU8hWJq7FKbHGPp2y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:21 |
 
-Snapshot ID: `ahY0AAAAAACJkObUhPPx9eIvsEFuWZt+`
+Snapshot ID: `aheFgAAAAAB5Sbs8R97k3B5DfLkYR3ES`

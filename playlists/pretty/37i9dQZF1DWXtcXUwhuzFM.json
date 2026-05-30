@@ -1,12 +1,12 @@
 {
   "description": "Uutta musaa tarjoilevat Mirella ja Lauri Haav, Cledos... ja moni muu  \ud83c\udfb6",
-  "num_followers": 107138,
+  "num_followers": 107262,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH9m6LTYfKP71PSo+WEX1iagj6/E",
+  "snapshot_id": "AAAAANhYNap+N7OvnigeMCr7jTzSiUPQ",
   "tracks": [
     {
       "added_at": "2026-05-28 21:00:32",
@@ -47,6 +47,22 @@
       "duration_ms": 163821,
       "name": "Uskomaton (feat. Sara Bee)",
       "url": "https://open.spotify.com/track/5x4GppUgT7BfL5KH2bgxLo"
+    },
+    {
+      "added_at": "2026-05-29 04:01:01",
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "added_at": "2026-05-28 21:00:32",
@@ -302,10 +318,14 @@
         {
           "name": "keiju",
           "url": "https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5"
+        },
+        {
+          "name": "MOMO",
+          "url": "https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 148181,
+      "name": "10!",
       "url": "https://open.spotify.com/track/5wGpuoijb2FQHzk4AQeBw0"
     },
     {
@@ -651,6 +671,22 @@
     {
       "added_at": "2026-05-28 21:00:32",
       "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 202972,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
+    },
+    {
+      "added_at": "2026-05-28 21:00:32",
+      "album": {
         "name": "Apple Junkie Birds",
         "url": "https://open.spotify.com/album/640ESJsgTWtojCsxwFWoM5"
       },
@@ -681,20 +717,20 @@
       "url": "https://open.spotify.com/track/07GA2evqdJjhYOdyPgLXE3"
     },
     {
-      "added_at": "2026-05-28 21:00:32",
+      "added_at": "2026-05-29 04:01:01",
       "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
+        "name": "Still No Good",
+        "url": "https://open.spotify.com/album/2QhsqBj5eOk6Mfg2f92DKW"
       },
       "artists": [
         {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 202972,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
+      "duration_ms": 207488,
+      "name": "Still No Good",
+      "url": "https://open.spotify.com/track/7BmBO5pX8clT3vcZHmMkX2"
     },
     {
       "added_at": "2026-05-28 21:00:32",
@@ -814,10 +850,14 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
       "duration_ms": 191786,
-      "name": "Hostage",
+      "name": "Hostage (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
     },
     {
@@ -1143,6 +1183,22 @@
       "duration_ms": 212101,
       "name": "Tytt\u00f6",
       "url": "https://open.spotify.com/track/5jb9wIdl4s3OfHWusGBgbO"
+    },
+    {
+      "added_at": "2026-05-29 09:40:32",
+      "album": {
+        "name": "Mietin sit\u00e4 vasta huomenna",
+        "url": "https://open.spotify.com/album/2HNDaKn80vHVpDAWIv8Gfc"
+      },
+      "artists": [
+        {
+          "name": "Huhu",
+          "url": "https://open.spotify.com/artist/7aRIdbrmTNfVtuLW8JPHCF"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "Mietin sit\u00e4 vasta huomenna",
+      "url": "https://open.spotify.com/track/5q081mcOekEUqq3dJQlcBx"
     },
     {
       "added_at": "2026-05-28 21:00:32",
@@ -1591,6 +1647,22 @@
       "duration_ms": 166029,
       "name": "Viel\u00e4 paremmin",
       "url": "https://open.spotify.com/track/2kox61CfkJODkA2fpKRvO3"
+    },
+    {
+      "added_at": "2026-05-28 21:00:32",
+      "album": {
+        "name": "Talk On The Hill",
+        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 207774,
+      "name": "Talk On The Hill",
+      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
     },
     {
       "added_at": "2026-05-28 21:00:32",

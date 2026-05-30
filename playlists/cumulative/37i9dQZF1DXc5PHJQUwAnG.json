@@ -2772,7 +2772,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 160000,
       "name": "De Niro",
       "url": "https://open.spotify.com/track/61hMgj0Y74kOf3GXItObEf"
@@ -3654,6 +3654,28 @@
       "duration_ms": 185379,
       "name": "Esquimal",
       "url": "https://open.spotify.com/track/5XeRY4i3SgMQqgWDcAodKe"
+    },
+    {
+      "album": {
+        "name": "ESTA ENERG\u00cdA",
+        "url": "https://open.spotify.com/album/7kORV98udhkmoMsu3pc3MJ"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        },
+        {
+          "name": "Maggic",
+          "url": "https://open.spotify.com/artist/1ItNVcT1VXX8JcgBtS6C54"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "ESTA ENERG\u00cdA",
+      "url": "https://open.spotify.com/track/5B5QVDNWMCQREj7PuzTWzE"
     },
     {
       "album": {
@@ -7683,6 +7705,24 @@
     },
     {
       "album": {
+        "name": "Nunca Voy a Morir",
+        "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134237,
+      "name": "Nunca Voy a Morir",
+      "url": "https://open.spotify.com/track/4C9ZJp0ykJ0ZvNUaMwdLZZ"
+    },
+    {
+      "album": {
         "name": "Ocioso",
         "url": "https://open.spotify.com/album/0Khf1yw10bIIkexH8sVat0"
       },
@@ -8664,7 +8704,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 123076,
       "name": "pvt4$",
       "url": "https://open.spotify.com/track/0D9LRxuaQ2sz4WmcammkfZ"

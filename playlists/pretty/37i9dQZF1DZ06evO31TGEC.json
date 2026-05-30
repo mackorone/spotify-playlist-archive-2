@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 55284,
+  "num_followers": 55308,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAACEZm9O0VPP7d26xmUm2g8m",
+  "snapshot_id": "aheFgAAAAAC5nFPhPYyQvhxJUdSLfapB",
   "tracks": [
     {
       "added_at": null,
@@ -634,15 +634,11 @@
         {
           "name": "El Chapo De Sinaloa",
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        },
-        {
-          "name": "Frank Velasquez",
-          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
         }
       ],
-      "duration_ms": 191796,
-      "name": "Le Dire Que Me Gusta",
-      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
+      "duration_ms": 205213,
+      "name": "Mayor de Edad (Banda)",
+      "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
     },
     {
       "added_at": null,
@@ -702,17 +698,21 @@
         {
           "name": "El Chapo De Sinaloa",
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        },
+        {
+          "name": "Frank Velasquez",
+          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
         }
       ],
-      "duration_ms": 205213,
-      "name": "Mayor de Edad (Banda)",
-      "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
+      "duration_ms": 191796,
+      "name": "Le Dire Que Me Gusta",
+      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Besos Tatuados",
-        "url": "https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I"
+        "name": "20 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/4tD1SR6Fo2x3YAymzTFBCF"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 188836,
-      "name": "Besos Tatuados",
-      "url": "https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA"
+      "duration_ms": 147051,
+      "name": "Esa Fue Mi Novia",
+      "url": "https://open.spotify.com/track/7F8UOpgxbJKTMvh3RbjKDZ"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Besos Tatuados",
+        "url": "https://open.spotify.com/album/1uOOieN551ZN4TPF79lZ4I"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 188836,
+      "name": "Besos Tatuados",
+      "url": "https://open.spotify.com/track/6VnLJq3N4yOK51KQEOD3UA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Derrito",
         "url": "https://open.spotify.com/album/5052x1jXmFYTo0osSMcwxh"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 179200,
       "name": "Me Derrito",
       "url": "https://open.spotify.com/track/1JmUlAs1cphQKPgh2hL61s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/4tD1SR6Fo2x3YAymzTFBCF"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 147051,
-      "name": "Esa Fue Mi Novia",
-      "url": "https://open.spotify.com/track/7F8UOpgxbJKTMvh3RbjKDZ"
     },
     {
       "added_at": null,

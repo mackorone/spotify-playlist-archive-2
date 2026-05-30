@@ -456,7 +456,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 190686,
       "name": "2010YPICO",
       "url": "https://open.spotify.com/track/4GRkjn3Jo0Bokx3i7ntBJm"
@@ -8554,7 +8554,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 207600,
       "name": "De Lejitos",
       "url": "https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8"
@@ -16448,6 +16448,10 @@
         {
           "name": "Los Diozes",
           "url": "https://open.spotify.com/artist/30Ml7nTMkXYyb0UoLwtmCc"
+        },
+        {
+          "name": "Mar\u00eda Pel\u00e1e",
+          "url": "https://open.spotify.com/artist/1b6ctmaHGrw89ZUmm0nGXq"
         }
       ],
       "date_added": "2026-05-28",
@@ -16492,7 +16496,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 220816,
       "name": "KI\u00c9N E?",
       "url": "https://open.spotify.com/track/3Gr9GO7T0zWvUxam292xWb"
@@ -19556,7 +19560,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "LOQUITA",
       "url": "https://open.spotify.com/track/3zkGK0pIRra9Mql8fKmROf"
@@ -26934,7 +26938,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 159030,
       "name": "POR ALGO SER\u00c1",
       "url": "https://open.spotify.com/track/39BT9zTW2pqp95hRNvma0k"
@@ -33642,7 +33646,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"

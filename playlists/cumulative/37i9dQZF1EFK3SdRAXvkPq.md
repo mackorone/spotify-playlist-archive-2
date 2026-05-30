@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-153 songs - 7 hr 53 min
+154 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Crisis](https://open.spotify.com/track/6qIqgXXofRhJkvRytIS1HR) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Nada Personal](https://open.spotify.com/album/4WgRPX4DY0lwubpMYKuTzN) | 3:21 | 2026-01-29 |  |
 | [Cuando Me Muera Te Olvido](https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:34 | 2025-11-07 |  |
 | [CÓDIGOS](https://open.spotify.com/track/273PsBfvMreiD2TXyKOR06) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 2:58 | 2025-11-07 |  |
+| [Dando Vueltas](https://open.spotify.com/track/60vtpwMWSvG50mv5419s4R) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dando Vueltas](https://open.spotify.com/album/3U31M9OPy3eT9v4cxaePof) | 3:12 | 2026-05-29 |  |
 | [Dandote](https://open.spotify.com/track/3h0mwHmFyAS1oYLF9sUzrL) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 2:43 | 2025-11-07 |  |
 | [Desaparecida](https://open.spotify.com/track/2OkqOqBN47BTMu7B5S72MA) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:58 | 2025-11-07 |  |
 | [Después de ti](https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Después de ti](https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92) | 4:35 | 2026-05-20 |  |

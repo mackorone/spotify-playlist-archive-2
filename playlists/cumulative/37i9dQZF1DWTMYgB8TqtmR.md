@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-1,076 songs - 2 day 6 hr 5 min
+1,077 songs - 2 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,7 +318,7 @@
 | [Fantasi – Spotify Singles](https://open.spotify.com/track/3jGkygcJraGPQ47TOH0wMw) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Fantasi – Spotify Singles](https://open.spotify.com/album/5iTMZDsFx6oB07qzN7di2N) | 2:57 | 2024-07-11 | 2024-09-13 |
 | [Farväl](https://open.spotify.com/track/15vhsww4sVuzPOqN04DdBc) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Farväl](https://open.spotify.com/album/3OBYM95WFMy24ZiWK5vPHQ) | 2:38 | 2023-09-14 | 2023-12-25 |
 | [feel like shit](https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [feel like shit](https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB) | 3:24 | 2021-12-16 | 2022-01-21 |
-| [Feelin' Myself](https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Feelin' Myself](https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56) | 2:45 | 2026-02-27 |  |
+| [Feelin' Myself](https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Feelin' Myself](https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56) | 2:45 | 2026-02-27 | 2026-05-30 |
 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 | 2023-01-31 | 2023-05-03 |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-20 | 2024-08-02 |
 | [Fel på dig](https://open.spotify.com/track/4UGJVXMoSyTUl61OdVJ3N0) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Fel på dig](https://open.spotify.com/album/4dVOq4Bs0pF1VqnQZcEUiA) | 2:34 | 2026-04-02 |  |
@@ -401,6 +401,7 @@
 | [Happy Again](https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy Again](https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay) | 2:34 | 2023-08-10 | 2023-09-12 |
 | [Har Dig](https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 3:22 | 2023-04-27 | 2023-07-28 |
 | [Hardcore](https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Hardcore](https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb) | 2:52 | 2022-03-11 | 2022-04-08 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Headlights \(feat\. KIDDO\)](https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW) | 2:38 | 2022-02-17 | 2022-04-15 |
 | [Heartbreakmiljonär](https://open.spotify.com/track/2li3Mf9nEwOkvQ43QUNh0j) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Heartbreakmiljonär](https://open.spotify.com/album/0b4MV4Nget3iV9y2vi7Ewz) | 3:13 | 2023-10-12 | 2023-10-20 |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2021-12-16 | 2022-03-25 |

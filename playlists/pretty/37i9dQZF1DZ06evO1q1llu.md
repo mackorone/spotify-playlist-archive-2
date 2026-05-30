@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 
 > This is The Kid LAROI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,177 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,212 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 | 22 | [2 Grown \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5ybZcAwqUF7i9gwABLeXzs) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 3:52 |
 | 23 | [WEAKEST FEELING](https://open.spotify.com/track/3oBaEcfWBNEBDP5UArDCxt) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 2:42 |
 | 24 | [LOVE AGAIN](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [LOVE AGAIN](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 |
-| 25 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 |
-| 26 | [BLEED](https://open.spotify.com/track/3Dy4X55INI3kaYHbAM0zBR) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 2:49 |
+| 25 | [BLEED](https://open.spotify.com/track/3Dy4X55INI3kaYHbAM0zBR) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 2:49 |
+| 26 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 |
 | 27 | [BACK 2 LOVE](https://open.spotify.com/track/0ul0bjXRaO5YxLuSnHX1Qe) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 3:35 |
 | 28 | [NEVER CAME BACK](https://open.spotify.com/track/1y8Cn036pPqrbkNJQVywuz) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 2:57 |
 | 29 | [OPEN UP \- feat\. The Kid LAROI](https://open.spotify.com/track/3jYPZi9vzjnPlsWyikVPTL) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [QUINTESSENCE](https://open.spotify.com/album/3zn3zxWG2OgEfplBepaisb) | 2:43 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 | 33 | [Diva \(feat\. Lil Tecca\)](https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Diva \(feat\. Lil Tecca\)](https://open.spotify.com/album/6baGSG5U130x5ttGIIRIwR) | 2:52 |
 | 34 | [Costa Rica \(feat\. The Kid LAROI\) \- Remix](https://open.spotify.com/track/3tdjTdCCgKtwacsICCtPZZ) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Pain is Temporary](https://open.spotify.com/album/5SnWHdZfyNbnvpMFbab8N5) | 1:54 |
 | 35 | [SO DONE](https://open.spotify.com/track/5YnxnTS89l3FElIwfIAeSs) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:06 |
-| 36 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 |
-| 37 | [NIGHTS LIKE THIS PT 2](https://open.spotify.com/track/5seOQj8qU7ozKqxeb9jcPV) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f) | 2:46 |
+| 36 | [NIGHTS LIKE THIS PT 2](https://open.spotify.com/track/5seOQj8qU7ozKqxeb9jcPV) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f) | 2:46 |
+| 37 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 |
 | 38 | [SHE DON'T NEED TO KNOW](https://open.spotify.com/track/4R6McrWJ5fpVuzsNwoukI9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SHE DON'T NEED TO KNOW](https://open.spotify.com/album/45oJTfBl4jrQ9nGCvYpksv) | 2:30 |
 | 39 | [WHAT JUST HAPPENED](https://open.spotify.com/track/5tejpXMAdgqYtkDSOEzqrO) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 2:42 |
 | 40 | [HOT GIRL PROBLEMS](https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOT GIRL PROBLEMS](https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt) | 2:57 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 | 43 | [alright \(feat\. The Kid LAROI\)](https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:09 |
 | 44 | [PICK SIDES](https://open.spotify.com/track/0ahUvlPhSeyCPh59gX3CrS) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f) | 2:52 |
 | 45 | [DESERVE YOU](https://open.spotify.com/track/1CYmWCuSlXV1j8rtYpqyil) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 2:37 |
-| 46 | [Wasting Angels \(with The Kid LAROI\)](https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:03 |
-| 47 | [Let Her Go](https://open.spotify.com/track/0c6SqvH32BMgbEFvpHc2gs) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Let Her Go](https://open.spotify.com/album/2PMhID6CzdaI8t4dlPSodY) | 2:02 |
+| 46 | [Let Her Go](https://open.spotify.com/track/0c6SqvH32BMgbEFvpHc2gs) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Let Her Go](https://open.spotify.com/album/2PMhID6CzdaI8t4dlPSodY) | 2:02 |
+| 47 | [Wasting Angels \(with The Kid LAROI\)](https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:03 |
 | 48 | [STICK WITH ME](https://open.spotify.com/track/3nZwX55th5wKpXCOn0WP9e) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/5FYre0OdHLE1MnJ1bHTx1f) | 2:32 |
 | 49 | [I THOUGHT THAT I NEEDED YOU](https://open.spotify.com/track/3kvR6zZ5SUEu5POE7StefC) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/6qzsoMD2QnN9IZbPv5lOsy) | 2:51 |
 | 50 | [Wind](https://open.spotify.com/track/5zkZkBTygtZcOgWCWzzKB2) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:50 |
 
-Snapshot ID: `ahY0AAAAAACAaakgINVmEXR5Up9ULjYK`
+Snapshot ID: `aheFgAAAAABvqfufX82RF2+Ei+NoAljI`

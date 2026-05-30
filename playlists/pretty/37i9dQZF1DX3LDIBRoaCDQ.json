@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1604395,
+  "num_followers": 1604422,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Last Scream of the Missing Neighbors",
-        "url": "https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc"
-      },
-      "artists": [
-        {
-          "name": "D.O.A.",
-          "url": "https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "That's Progress",
-      "url": "https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Big Lizard In My Back Yard",
         "url": "https://open.spotify.com/album/4idwu1NCDTQ6V6CumtfW93"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 109133,
       "name": "Dean's Dream",
       "url": "https://open.spotify.com/track/65ZK2zk1YFTnaD7D4deD37"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Last Scream of the Missing Neighbors",
+        "url": "https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc"
+      },
+      "artists": [
+        {
+          "name": "D.O.A.",
+          "url": "https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "That's Progress",
+      "url": "https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "First Two Seven Inches",
+        "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 91240,
+      "name": "Minor Threat",
+      "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Unknown Pleasures",
         "url": "https://open.spotify.com/album/0cbpcdI4UySacPh5RCpDfo"
       },
@@ -1379,54 +1395,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Rhino Hi-Five: Ramones",
-        "url": "https://open.spotify.com/album/5J9I5RkAe6EMWb4aZxAKYl"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "I Wanna Be Sedated",
-      "url": "https://open.spotify.com/track/0weTorJ7HSAdi874qIFCXM"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "First Two Seven Inches",
-        "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 91240,
-      "name": "Minor Threat",
-      "url": "https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Blank Generation",
-        "url": "https://open.spotify.com/album/6rpdyABuweUAGy1ZG63nMw"
-      },
-      "artists": [
-        {
-          "name": "Richard Hell",
-          "url": "https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Blank Generation",
-      "url": "https://open.spotify.com/track/7wLBPjReJhdkFtrGHgUcxG"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Operation Ivy",
         "url": "https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e"
       },
@@ -1455,6 +1423,38 @@
       "duration_ms": 115040,
       "name": "Sailin' On",
       "url": "https://open.spotify.com/track/05Uw3uX5jzesUSIF91gWDv"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Rhino Hi-Five: Ramones",
+        "url": "https://open.spotify.com/album/5J9I5RkAe6EMWb4aZxAKYl"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "I Wanna Be Sedated",
+      "url": "https://open.spotify.com/track/0weTorJ7HSAdi874qIFCXM"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Blank Generation",
+        "url": "https://open.spotify.com/album/6rpdyABuweUAGy1ZG63nMw"
+      },
+      "artists": [
+        {
+          "name": "Richard Hell",
+          "url": "https://open.spotify.com/artist/121Q6oslYCMBYZHhOFL1RB"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Blank Generation",
+      "url": "https://open.spotify.com/track/7wLBPjReJhdkFtrGHgUcxG"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Fresh Fruit for Rotting Vegetables",
-        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
-      },
-      "artists": [
-        {
-          "name": "Dead Kennedys",
-          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Holiday in Cambodia",
-      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Bad Brains",
         "url": "https://open.spotify.com/album/2GHBFUAIQGSVJtZnwdnEAc"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 132786,
       "name": "Banned In D.C.",
       "url": "https://open.spotify.com/track/6MYusHmom4vpQN4qGyHl0h"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Fresh Fruit for Rotting Vegetables",
+        "url": "https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Holiday in Cambodia",
+      "url": "https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA"
     },
     {
       "added_at": "2024-11-29 00:00:00",

@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 140190,
       "name": "Antique Clock",
       "url": "https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 168294,
       "name": "Arriving",
       "url": "https://open.spotify.com/track/2BWhYS9sosKmgg8BWjoQul"
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 120795,
       "name": "Beckoning",
       "url": "https://open.spotify.com/track/3H1OE9Zplf6jwb9tjMAXFT"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 186701,
       "name": "campfire",
       "url": "https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu"
@@ -2850,6 +2850,24 @@
       "duration_ms": 128750,
       "name": "Egy ma\u0301sik nap",
       "url": "https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s"
+    },
+    {
+      "album": {
+        "name": "Eirene",
+        "url": "https://open.spotify.com/album/2jpigLGuZCzZYZzpSsmjGH"
+      },
+      "artists": [
+        {
+          "name": "Henry Flower",
+          "url": "https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152635,
+      "name": "Eirene",
+      "url": "https://open.spotify.com/track/3L7VyBjJaix0WPor72ykEU"
     },
     {
       "album": {
@@ -4150,7 +4168,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 160741,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/2ya2p81qaEuynQAlohFm58"
@@ -5104,7 +5122,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 178743,
       "name": "Insignia",
       "url": "https://open.spotify.com/track/17moSSyt9oOxVHyewjXLav"
@@ -5932,7 +5950,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 154844,
       "name": "Lik Eit Tre - Ps.1",
       "url": "https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3"
@@ -7570,7 +7588,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 131583,
       "name": "Ocean Breeze",
       "url": "https://open.spotify.com/track/5BcDE6YlRZ9k078nzlxRie"
@@ -10548,7 +10566,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 185750,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"

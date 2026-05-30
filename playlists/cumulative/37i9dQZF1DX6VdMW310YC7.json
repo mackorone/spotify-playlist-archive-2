@@ -7128,7 +7128,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 232440,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK"
@@ -8554,6 +8554,28 @@
       "duration_ms": 245375,
       "name": "ECHO (LET GO)",
       "url": "https://open.spotify.com/track/5wRrFp0QbRIMfWrdUdanE7"
+    },
+    {
+      "album": {
+        "name": "edges",
+        "url": "https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "edges",
+      "url": "https://open.spotify.com/track/3Y0GPlTTGhUvkX9gLbeB3F"
     },
     {
       "album": {
@@ -31511,6 +31533,28 @@
     },
     {
       "album": {
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "The Devil's Tax Return",
+          "url": "https://open.spotify.com/artist/1pnP4d3omqdQ4MDfizPlGC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233978,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu"
+    },
+    {
+      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/2OduN4aoUP3wYoZRSEsrUf"
       },
@@ -33400,7 +33444,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 197286,
       "name": "The Call",
       "url": "https://open.spotify.com/track/18qBwssRu9P9uyhrZbaatB"

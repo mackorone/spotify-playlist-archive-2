@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: The Womack Sisters
 
-602 songs - 1 day 12 hr 6 min
+603 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Amazing](https://open.spotify.com/track/1jjfb6Ne65MgkrT3jTJMLv) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Amazing](https://open.spotify.com/album/3WP0A1hksYMbO913fap5PF) | 2:50 | 2025-07-18 |  |
 | [Angel Eyes](https://open.spotify.com/track/4EVkYQKxqD5JgdFSkyMjaS) | [The Charities](https://open.spotify.com/artist/6sj6p5wxfR9ueVEp93RRBf) | [Bring Your Love / Angel Eyes](https://open.spotify.com/album/2O5qigf4jDcHkhU4l7jRyb) | 2:30 | 2025-06-23 |  |
 | [Any Old Fool](https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Any Old Fool](https://open.spotify.com/album/645BIIezXIuUl2UADCAJyS) | 3:04 | 2026-04-10 |  |
+| [Anyone](https://open.spotify.com/track/1XLCwiOZqIBLOObrWxBJaE) | [Patchwork Inc.](https://open.spotify.com/artist/6Ay4LTevVm24IfC05fZNZH), [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [Anyone](https://open.spotify.com/album/1mIRqtzdijfQd7OSkEcRPx) | 3:18 | 2026-05-29 |  |
 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 | 2024-09-27 | 2025-03-15 |
 | [Artemis](https://open.spotify.com/track/5dYRCwE5R03NLKF5VpSccp) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) | [Artemis](https://open.spotify.com/album/0qMNhyWAWmsREWJz9mdZIV) | 2:53 | 2024-08-02 | 2026-01-15 |
 | [Atlas](https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5lHdKLwA4NsBMUkX9Wenbm) | 3:47 | 2021-07-09 | 2023-01-28 |
@@ -83,7 +84,7 @@
 | [Come Back Home](https://open.spotify.com/track/0aoRw3x1t8YX3w1j21aLLu) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Come Back Home](https://open.spotify.com/album/3w4vhW8U6GLtTvH1X1DWrS) | 4:17 | 2023-05-19 | 2024-09-07 |
 | [Come Back Home](https://open.spotify.com/track/755XOeQGLAEknUSCBFvwtI) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Beautiful Dreams](https://open.spotify.com/album/1eOToL1BMJjcG6sR8gzUPT) | 4:17 | 2023-05-19 | 2024-04-19 |
 | [Come On Through](https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [No Matter The Season](https://open.spotify.com/album/0KImBK7q3JYm43snwJGZgL) | 2:18 | 2022-03-04 | 2023-11-11 |
-| [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 | 2024-01-26 |  |
+| [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 | 2024-01-26 | 2026-05-30 |
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2021-07-09 | 2024-03-02 |
 | [Communion in My Cup \(feat\. The Ton3s\)](https://open.spotify.com/track/0gLL2o5wEDK9lpy10nT7Fb) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [The Ton3s](https://open.spotify.com/artist/0UIXG93KWmNPwPbiJF9ds7) | [Red Balloon](https://open.spotify.com/album/3W6zrS9uUbsDtX26ZzsHvE) | 3:28 | 2022-05-13 | 2023-03-25 |
 | [Consider Me](https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:04 | 2021-07-09 | 2023-01-28 |

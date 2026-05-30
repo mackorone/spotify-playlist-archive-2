@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Jay Park & LNGSHOT\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,064 likes - 114 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,012 likes - 114 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 113 | [DUET](https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [DUET](https://open.spotify.com/album/22kUEoynfBxbq7QBu9aphA) | 2:26 |
 | 114 | [KrOWN\_J\-Tong](https://open.spotify.com/track/332lPwSuZvsMXVIxONyOPM) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [KrOWN Audio Liner](https://open.spotify.com/album/5IY9Xcarb6SgQt5nYPGiTF) | 0:02 |
 
-Snapshot ID: `AAAAAE3f5JA0xTEiPle5LfOdKQG+x52V`
+Snapshot ID: `AAAAAE1pI6p+5V0EMRoO7Xjls8JeeHzk`

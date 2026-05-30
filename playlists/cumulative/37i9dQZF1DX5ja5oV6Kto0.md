@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Deto Black
 
-1,090 songs - 2 day 4 hr 39 min
+1,091 songs - 2 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [DRAMA QUEEN](https://open.spotify.com/track/51MaFLZUzEE2mU5F4pSIZh) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Denim](https://open.spotify.com/album/38r3tXAVmVr8MpbFWUWEnG) | 2:11 | 2022-09-15 | 2022-10-14 |
 | [DREAM TO REALITY \- Tonee's Version](https://open.spotify.com/track/0dYM26rogGjpWiD02eQKHK) | [Tonee C](https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8), [Bry Bandz](https://open.spotify.com/artist/5ExT2UsOcCNFbNugKG48dO), [Hamsa Illamina](https://open.spotify.com/artist/29h13Z7HtuG6526CqOMnVu) | [50 SHADES BEST OF](https://open.spotify.com/album/1AU4P24iZbZskXXdRTG2QI) | 2:10 | 2024-03-15 | 2024-04-05 |
 | [Drop Off](https://open.spotify.com/track/38bgf6do56GuZQZfBnKfH3) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Drop Off](https://open.spotify.com/album/44B8aoG9cCvnb4bmLCheap) | 2:32 | 2022-12-08 | 2023-01-07 |
-| [DUA PA](https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [DUA PA](https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or) | 2:06 | 2026-03-06 |  |
+| [DUA PA](https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [DUA PA](https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or) | 2:06 | 2026-03-06 | 2026-05-30 |
 | [Dub Experiance](https://open.spotify.com/track/14QRI6RvmHaXvtaIo9RDBz) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub From The Roots](https://open.spotify.com/album/1dlblPBgyeZ6F28MRXSWYV) | 3:40 | 2024-03-21 | 2024-03-25 |
 | [duct tape](https://open.spotify.com/track/1Dv1UfnB60vW6LahqDQhZW) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [duct tape](https://open.spotify.com/album/1DZF4Zw6HUTDoPk9bqqPQX) | 2:45 | 2023-09-21 | 2023-11-03 |
 | [Dumb](https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS) | [Noir](https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4) | [Dumb](https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue) | 2:45 | 2025-08-15 | 2026-04-03 |
@@ -935,6 +935,7 @@
 | [Sullen](https://open.spotify.com/track/6KqN3qd3H0GILUSx3nA2rf) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB), [Rookie Sbk](https://open.spotify.com/artist/2ERDwX9D7OE26COqPqTPVa) | [Sullen](https://open.spotify.com/album/2tdjV7IB1SennbPDGjwGCu) | 2:31 | 2022-03-17 | 2022-08-06 |
 | [Summer](https://open.spotify.com/track/3PPqIW224FnGVkETbcrZU2) | [Rigo Kamp](https://open.spotify.com/artist/0n0e9TWjXHyTN3G1zU6Y6i) | [Summer/Morning Sun](https://open.spotify.com/album/5DV1abTVfH4Ud1AFAPI7C4) | 3:42 | 2024-11-08 | 2026-01-23 |
 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2024-03-21 | 2024-03-25 |
+| [Summer July](https://open.spotify.com/track/6Xdl8i0jnYD5TMeeJeU9DJ) | [OLOOTÙ](https://open.spotify.com/artist/2r8dLv6MC4fUri2tk2jSJe), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Bay City Tapes](https://open.spotify.com/album/7DYLTtUdLlk1kZuTukxWrf) | 4:04 | 2026-05-29 |  |
 | [Sun Down \(From "YE!"\)](https://open.spotify.com/track/16FZuBTG6DRM8qEfCn7ULz) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK), [Teknimension](https://open.spotify.com/artist/4X6g7gLnDyDo5Znx2fogS1) | [Sun Down \(From "YE!"\)](https://open.spotify.com/album/5nldkv2w6kYTxns4sXnYYt) | 2:51 | 2022-11-04 | 2022-11-19 |
 | [sun's out \(feat\. Zerrydl\)](https://open.spotify.com/track/1vCkU2re6Xtuf4IDePN7O8) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [MAKE BRITAIN S3XY AGAIN](https://open.spotify.com/album/6YmpImCxaSNJ297Vbv3nS3) | 2:51 | 2025-08-29 | 2026-04-17 |
 | [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 | 2024-06-14 | 2025-03-15 |

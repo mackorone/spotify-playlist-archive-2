@@ -445,6 +445,28 @@
     },
     {
       "album": {
+        "name": "Come My Way",
+        "url": "https://open.spotify.com/album/36ocXZA5Xnny4cdKULKoFF"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192863,
+      "name": "Come My Way",
+      "url": "https://open.spotify.com/track/7326q9PcJDcKuAFcrSkN0t"
+    },
+    {
+      "album": {
         "name": "Comfortable (Remix)",
         "url": "https://open.spotify.com/album/0boACLdefRAXstqsLWMAhT"
       },
@@ -2530,7 +2552,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 234374,
       "name": "VIDA LOCA",
       "url": "https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE"

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Sublime
 
-2,069 songs - 5 day 0 hr 22 min
+2,070 songs - 5 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,6 +777,7 @@
 | [Heading For The Door](https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Heading For The Door](https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX) | 3:47 | 2023-12-07 | 2023-12-15 |
 | [Heart & Soul](https://open.spotify.com/track/6gEALo7hprGnax0rgFZuiP) | [The Covasettes](https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt) | [What's Lost Is Ours To Find](https://open.spotify.com/album/7By1VfHAHWcITrvLmxipw7) | 3:08 | 2023-11-23 | 2023-12-01 |
 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 | 2023-03-23 | 2023-09-01 |
+| [Heart Has To Work So Hard](https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Heart Has To Work So Hard](https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh) | 3:12 | 2026-05-28 |  |
 | [Heaven](https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Heaven](https://open.spotify.com/album/0SgVkninjxFsPDoXqs7VEH) | 4:01 | 2023-12-14 | 2023-12-22 |
 | [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 | 2023-10-19 | 2023-11-03 |
 | [heaven and hell](https://open.spotify.com/track/5FZoGATKGIzrC7seHkZmfP) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [heaven and hell](https://open.spotify.com/album/66DuEtdWi7VhBZjKvnNgC3) | 4:28 | 2026-05-14 |  |
@@ -1671,7 +1672,7 @@
 | [Stuck](https://open.spotify.com/track/483ngpflrHCLnkBSXsSnsb) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:02 | 2023-10-05 | 2024-02-09 |
 | [Stuck In My Head](https://open.spotify.com/track/35N9LmzkCjMd2ZmAATzG6U) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Stuck In My Head](https://open.spotify.com/album/10e9Xt5aK3eye5TyNb8vx1) | 3:17 | 2024-07-26 | 2025-06-27 |
 | [Stuck In The Heat](https://open.spotify.com/track/765LpfOB7pBklA0X34LbHB) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [At Least I Tried](https://open.spotify.com/album/2SEw3hXvE9tlEPh3ki3LiU) | 2:03 | 2023-11-30 | 2023-12-08 |
-| [Suburban Requiem](https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols \(Complete\)](https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM) | 4:39 | 2026-02-19 |  |
+| [Suburban Requiem](https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols \(Complete\)](https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM) | 4:39 | 2026-02-19 | 2026-05-30 |
 | [SUBURBIA CALLING](https://open.spotify.com/track/0sRMZbWkH1G5XVFt3NZbE1) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [SUBURBIA CALLING](https://open.spotify.com/album/5GEpjub1ldAz72kvL6kyVh) | 2:49 | 2024-04-25 | 2024-06-21 |
 | [Suburbs](https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Suburbs](https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9) | 3:04 | 2025-07-17 | 2025-10-17 |
 | [Sucker](https://open.spotify.com/track/7KoEgsFYq8mk37AiPqQZKP) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Love Me Please](https://open.spotify.com/album/66ZYTPi0jLZ6geTByqUiIv) | 2:38 | 2025-02-06 | 2025-06-27 |

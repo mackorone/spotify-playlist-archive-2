@@ -1,6 +1,6 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 74711,
+  "num_followers": 74728,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
@@ -263,26 +263,6 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Satie Debussy Ravel : La Nouvelle Vague",
-        "url": "https://open.spotify.com/album/3xdfvOQqWxpxGuzYZWGPsS"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        }
-      ],
-      "duration_ms": 110333,
-      "name": "Menuet sur le nom de Haydn, M. 58",
-      "url": "https://open.spotify.com/track/01iLEjyIRCmZ1Dr17kUhZ7"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
         "name": "Ravel: Orchestral Works",
         "url": "https://open.spotify.com/album/4RydMctVxfAQBKXhkVQp3I"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 141400,
       "name": "Ma m\u00e8re l'oye, Ballet, M. 62: III. Pavane de la Belle au bois dormant \u2013 IV. Interlude 1",
       "url": "https://open.spotify.com/track/7a8LnYMap1nr6UGHeqjTle"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
+        "name": "Satie Debussy Ravel : La Nouvelle Vague",
+        "url": "https://open.spotify.com/album/3xdfvOQqWxpxGuzYZWGPsS"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "duration_ms": 110333,
+      "name": "Menuet sur le nom de Haydn, M. 58",
+      "url": "https://open.spotify.com/track/01iLEjyIRCmZ1Dr17kUhZ7"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -351,6 +351,30 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
+        "name": "Ravel Voyageur",
+        "url": "https://open.spotify.com/album/4irqRK8eAtenUdWwwCr6aR"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Nathalia Milstein",
+          "url": "https://open.spotify.com/artist/4J93amv4R2GFj0dZs7QlCn"
+        },
+        {
+          "name": "Maria Milstein",
+          "url": "https://open.spotify.com/artist/4lmfNMJjP12JmjQUgrFzHZ"
+        }
+      ],
+      "duration_ms": 867640,
+      "name": "Violin Sonata No. 1, M. 12",
+      "url": "https://open.spotify.com/track/3lZFQIggcH1NQN5nX4BXPX"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
         "name": "Ravel",
         "url": "https://open.spotify.com/album/23a6FjJmbXs8bfhPS4K0Cr"
       },
@@ -375,30 +399,6 @@
       "duration_ms": 460933,
       "name": "Piano Concerto for the Left Hand, M. 82: I. Lento",
       "url": "https://open.spotify.com/track/73SaFJUeWlfltQIJ48xxaQ"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
-        "name": "Ravel Voyageur",
-        "url": "https://open.spotify.com/album/4irqRK8eAtenUdWwwCr6aR"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Nathalia Milstein",
-          "url": "https://open.spotify.com/artist/4J93amv4R2GFj0dZs7QlCn"
-        },
-        {
-          "name": "Maria Milstein",
-          "url": "https://open.spotify.com/artist/4lmfNMJjP12JmjQUgrFzHZ"
-        }
-      ],
-      "duration_ms": 867640,
-      "name": "Violin Sonata No. 1, M. 12",
-      "url": "https://open.spotify.com/track/3lZFQIggcH1NQN5nX4BXPX"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -631,26 +631,6 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Ravel: String Quartet, Violin Sonata & Piano Trio",
-        "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Beaux Arts Trio",
-          "url": "https://open.spotify.com/artist/5pAFKhoqlYPpCSiTOjh9Bz"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Piano Trio, M. 67: IV. Final. Anim\u00e9",
-      "url": "https://open.spotify.com/track/6OGBzp88a83KLh1TmYzUai"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
         "name": "Miroirs - Ravel Piano Works",
         "url": "https://open.spotify.com/album/6dAkrp5QRrteg2izETI931"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 307000,
       "name": "Miroirs, M. 43: I. Noctuelles",
       "url": "https://open.spotify.com/track/1IJHTkefYM5bGZj19y43tV"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
+        "name": "Ravel: String Quartet, Violin Sonata & Piano Trio",
+        "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Beaux Arts Trio",
+          "url": "https://open.spotify.com/artist/5pAFKhoqlYPpCSiTOjh9Bz"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Piano Trio, M. 67: IV. Final. Anim\u00e9",
+      "url": "https://open.spotify.com/track/6OGBzp88a83KLh1TmYzUai"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -939,6 +939,26 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
+        "name": "Ravel: Int\u00e9grale de l'\u0153uvre pour piano",
+        "url": "https://open.spotify.com/album/1PGV2mCrXJKpNl7onDJ6Yx"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "S\u00e9r\u00e9nade Grotesque, M. 5",
+      "url": "https://open.spotify.com/track/0Fyohy2Xo5Q5Zii9hN7bms"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
         "name": "Ravel: Sh\u00e9h\u00e9razade / Tombeau / Pavane; Debussy: Danses / Ballades de Villon",
         "url": "https://open.spotify.com/album/1eeUo6L1AGl4DBJ7QOcp8b"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 593000,
       "name": "Sh\u00e9h\u00e9razade, M. 41: I. Asie",
       "url": "https://open.spotify.com/track/6vohiiyefE8oiG9KnN73P2"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
-        "name": "Ravel: Int\u00e9grale de l'\u0153uvre pour piano",
-        "url": "https://open.spotify.com/album/1PGV2mCrXJKpNl7onDJ6Yx"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "S\u00e9r\u00e9nade Grotesque, M. 5",
-      "url": "https://open.spotify.com/track/0Fyohy2Xo5Q5Zii9hN7bms"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
-        "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Quatuor \u00c9b\u00e8ne",
-          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
-        }
-      ],
-      "duration_ms": 587573,
-      "name": "Ravel: String Quartet, M. 35: III. Tr\u00e8s lent",
-      "url": "https://open.spotify.com/track/6CKWffytAbvWFTsPW3d2Ek"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
         "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
         "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 208173,
       "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: III. Laideronnette, imp\u00e9ratrice des pagodes",
       "url": "https://open.spotify.com/track/5I11A5koQ25fBYqZD0XZ5T"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
+        "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
+        "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+        }
+      ],
+      "duration_ms": 587573,
+      "name": "Ravel: String Quartet, M. 35: III. Tr\u00e8s lent",
+      "url": "https://open.spotify.com/track/6CKWffytAbvWFTsPW3d2Ek"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
+        "name": "Ravel: Complete Works for Solo Piano",
+        "url": "https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 366333,
+      "name": "Ravel: Miroirs, M. 43: V. La vall\u00e9e des cloches",
+      "url": "https://open.spotify.com/track/1vRDKkxMscAH1o8emcDbcw"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
         "name": "Faur\u00e9: Requiem / Debussy: Trois chansons de Charles d'Orl\u00e9ans / Saint-Sa\u00ebns: Calme des nuits",
         "url": "https://open.spotify.com/album/72eYD8YvnXKbKyXu8ZnSbV"
       },
@@ -1383,26 +1403,6 @@
       "duration_ms": 201000,
       "name": "3 Chansons, M. 69: No. 2, Trois beaux oiseaux du Paradis",
       "url": "https://open.spotify.com/track/3U34uG4BRoMb0lrlrOhtxC"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
-        "name": "Ravel: Complete Works for Solo Piano",
-        "url": "https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
-        }
-      ],
-      "duration_ms": 366333,
-      "name": "Ravel: Miroirs, M. 43: V. La vall\u00e9e des cloches",
-      "url": "https://open.spotify.com/track/1vRDKkxMscAH1o8emcDbcw"
     },
     {
       "added_at": "2025-12-22 11:30:42",

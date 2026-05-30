@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Tyler Ballgame
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,996 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,003 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 64 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 |
 | 65 | [Matches & Gasoline](https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [Matches & Gasoline](https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm) | 4:47 |
 | 66 | [Let Me Be Wrong](https://open.spotify.com/track/7iueQDyeYZRXZc4DYYAwDw) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [I Don't Know How But They Found Me!](https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h) | 2:36 |
-| 67 | [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 |
-| 68 | [The Cost of Growing Up](https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [The Cost of Growing Up](https://open.spotify.com/album/07wWN064o7XUxgw7IRmJFB) | 4:23 |
+| 67 | [The Cost of Growing Up](https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [The Cost of Growing Up](https://open.spotify.com/album/07wWN064o7XUxgw7IRmJFB) | 4:23 |
+| 68 | [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 |
 | 69 | [Undo Me](https://open.spotify.com/track/7hsAvDcgyBAJAWciyNWR0r) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Exit Strategy](https://open.spotify.com/album/1KKUPIu7Fb91j2VDRi4viD) | 4:21 |
 | 70 | [Point of View](https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 4:49 |
 | 71 | [Bluebird](https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Bluebird](https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb) | 3:31 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 86 | [KISSING](https://open.spotify.com/track/4RSkew0j4MPCAq7WfVfi8P) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Daisy](https://open.spotify.com/album/5l746yNWWESUlLuveqla2p) | 2:40 |
 | 87 | [Call of Duty](https://open.spotify.com/track/7CyTAwPV2r7pBfZt9fVNDG) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Achilles](https://open.spotify.com/album/5baUTzkWiIeFGyEWFAMYB7) | 3:11 |
 | 88 | [Phantom](https://open.spotify.com/track/0qJSQOkbXfEKil9AjcLWxZ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Phantom](https://open.spotify.com/album/4RTq2z9SyBswjkAl6EgNsU) | 1:50 |
-| 89 | [You and Me Time \(feat\. Sheryl Crow\)](https://open.spotify.com/track/4v0bYGAGo7GjTDQeoaSsp7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [You and Me Time](https://open.spotify.com/album/0m6wO7RR5ugYzk0wZW5ori) | 3:45 |
-| 90 | [tell me something](https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [tell me something](https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn) | 3:57 |
+| 89 | [tell me something](https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [tell me something](https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn) | 3:57 |
+| 90 | [You and Me Time \(feat\. Sheryl Crow\)](https://open.spotify.com/track/4v0bYGAGo7GjTDQeoaSsp7) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [You and Me Time](https://open.spotify.com/album/0m6wO7RR5ugYzk0wZW5ori) | 3:45 |
 | 91 | [Collarbones](https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR) | [Anna Hamilton](https://open.spotify.com/artist/5l81swbnEwWXCTQiEYmATF) | [Collarbones](https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL) | 3:00 |
 | 92 | [Poison In My Well](https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Poison In My Well](https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A) | 3:08 |
 | 93 | [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 97 | [Somebody Nobody Gets Over](https://open.spotify.com/track/4mgHSgglAVlr7i7vPKJmSo) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Somebody Nobody Gets Over](https://open.spotify.com/album/49xvRotzBI9ef94BJ5WhHf) | 2:47 |
 | 98 | [Caught Up In the Past](https://open.spotify.com/track/2JXZ6ZQ9nDVKiyws0VYWoE) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Twilight Override](https://open.spotify.com/album/4nczkBnxvOZNewjhxws5q6) | 4:23 |
 | 99 | [Not Broken](https://open.spotify.com/track/0mQTDyVOHUVmgAU17SP8uR) | [Alan Sparhawk](https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8), [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Alan Sparhawk with Trampled by Turtles](https://open.spotify.com/album/1x0de2EjrGot84ocdigfUa) | 3:22 |
-| 100 | [I Love Being Wrong](https://open.spotify.com/track/5Jc9bnCD014SgJzz8npVrp) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [I Love Being Wrong](https://open.spotify.com/album/4dGzA7HNh8Fi9dHMhGr6Jn) | 4:48 |
+| 100 | [golden boy](https://open.spotify.com/track/03dP8ZaoX9ftHDDGJqDmeP) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [golden boy](https://open.spotify.com/album/2Y8kR25oTu2nlNQWoOzbsW) | 3:14 |
 
 Snapshot ID: `AAAAAHiyUsA9uWaX4TwT6O++9iLoovoP`

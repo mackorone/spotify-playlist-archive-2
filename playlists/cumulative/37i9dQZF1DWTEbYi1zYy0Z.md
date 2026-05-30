@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-547 songs - 1 day 14 hr 43 min
+548 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 | 2023-11-10 |  |
 | [Magic City Streets](https://open.spotify.com/track/6WG2FanAGtFE6rsB3IvCAV) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [Magic City Streets](https://open.spotify.com/album/1zlO5c2oerKojvsCvk6mxm) | 3:40 | 2023-07-21 | 2024-03-23 |
 | [Magnetic](https://open.spotify.com/track/4dIm1mKNrPj8zzADhw7BTq) | [Tony Craddock, Jr.](https://open.spotify.com/artist/75CcM6i2mssXh9hUXluBrH) | [Magnetic](https://open.spotify.com/album/7uk0OBS4QMrKvATYWugLMc) | 4:03 | 2021-04-23 | 2022-03-15 |
-| [Make It Happen \- Radio Edit](https://open.spotify.com/track/0eiZgUgyPywLSOVITCpgMk) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Make It Happen \(Radio Edit\)](https://open.spotify.com/album/047GAcv3m7UVTKnsdLRO02) | 3:41 | 2026-02-06 |  |
+| [Make It Happen \- Radio Edit](https://open.spotify.com/track/0eiZgUgyPywLSOVITCpgMk) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Make It Happen \(Radio Edit\)](https://open.spotify.com/album/047GAcv3m7UVTKnsdLRO02) | 3:41 | 2026-02-06 | 2026-05-30 |
 | [Make Safe](https://open.spotify.com/track/2vY18rxipRFpTYwaSEEVr4) | [Randal Clark](https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy) | [Moving Too Fast](https://open.spotify.com/album/2PTey5hRAnZnTG78rvvNox) | 4:12 | 2023-10-20 |  |
 | [Make Up Your Mind \- Radio Edit](https://open.spotify.com/track/0RGZmBcov71tCy54JdHwcu) | [Dee Brown](https://open.spotify.com/artist/5KQWbnjf2snsqPD9e3NNt7) | [Make Up Your Mind \(Radio Edit\)](https://open.spotify.com/album/7euOjpEALM3P4Q2p0U6hVC) | 4:00 | 2022-06-17 | 2023-04-29 |
 | [Making Love To You](https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ), [Andrea Razzauti](https://open.spotify.com/artist/37JnRNxKxXJzBZ8Yo7itp1) | [Making Love To You](https://open.spotify.com/album/6BTMbPWNBqjkTzOczj8Kj7) | 4:45 | 2022-07-01 | 2024-01-27 |
@@ -390,6 +390,7 @@
 | [Ride It](https://open.spotify.com/track/2aojkARgqmwIon4lC9DIWK) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ), [Jamie Jones](https://open.spotify.com/artist/0SlFgjwSXtwK2TVAOJPV4l) | [Ride It \(feat\. Jamie Jones\)](https://open.spotify.com/album/0YdvvDVmj41emEwWnqj6hY) | 2:59 | 2021-10-22 | 2022-07-28 |
 | [Ride the Vibes](https://open.spotify.com/track/2lJzoaHbYNzkvJdG2uSSqv) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Ride the Vibes](https://open.spotify.com/album/6KkYYjSl0cr57tiLlfT7HR) | 3:55 | 2023-09-29 | 2024-04-19 |
 | [Right on Time](https://open.spotify.com/track/02lpgkBHgom6jlrs39rGDY) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Right on Time](https://open.spotify.com/album/5iSnIAhinFlHf96YvI912l) | 3:40 | 2023-07-07 | 2025-03-01 |
+| [Right on Time](https://open.spotify.com/track/7nLtVaCwlXSlmhYt1jdkaO) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Right on Time](https://open.spotify.com/album/5m9OBRSRI3gU06GnacBydS) | 3:59 | 2026-05-29 |  |
 | [Rise](https://open.spotify.com/track/0ELVxgxkHiSitm14XNxAv2) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF), [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Sing My Song](https://open.spotify.com/album/1iEWhG6JL4RCs16xxrStfC) | 6:00 | 2020-10-30 | 2022-03-18 |
 | [Risin' Up](https://open.spotify.com/track/4zSQTxz4zeplcTGeJHDueh) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Risin' Up](https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t) | 4:03 | 2021-09-10 | 2022-09-17 |
 | [Road Block](https://open.spotify.com/track/0HMyfgtGDcCvcXSYmY38CF) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Road Block](https://open.spotify.com/album/1CBHUjIsLWB0kpyhpUQ8xr) | 3:30 | 2024-06-28 | 2025-01-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The new & hottest K-Pop is here! (Cover: LE SSERAFIM)",
+  "description": "The new & hottest K-Pop is here! (Cover: aespa)",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -7816,6 +7816,24 @@
       "duration_ms": 179395,
       "name": "Lemon Drop",
       "url": "https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK"
+    },
+    {
+      "album": {
+        "name": "LEMONADE - The 2nd Album",
+        "url": "https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O"
     },
     {
       "album": {
@@ -15914,7 +15932,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 165000,
       "name": "You, You",
       "url": "https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ym1547AToj.md) - [plain]
 
 > Retrouvez les chansons de vos films préférés en version originale
 
-[Spotify](https://open.spotify.com/user/spotify) - 123 likes - 98 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 124 likes - 98 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ym1547AToj.md) - [plain]
 | 91 | [It's The Hard\-Knock Life](https://open.spotify.com/track/2VnMIUBC3Bj7SIcjCqfPx0) | [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz), [Zoe Margaret Colletti](https://open.spotify.com/artist/3RA2d5usSqy6v8daSjatiG), [Nicolette Pierini](https://open.spotify.com/artist/1Kzhk2FJ4nMaqm3TNECWEY), [Eden Duncan\-Smith](https://open.spotify.com/artist/1bq2kt0UIMxXt0oLIHH82k), [Amanda Troya](https://open.spotify.com/artist/0V8g9C7rFwjeMInAb9oTqZ) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 2:10 |
 | 92 | [Feel The Light \- From The "Home" Soundtrack](https://open.spotify.com/track/26Zco2DqGMnDIjOX0aIqER) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Feel The Light \(From The "Home" Soundtrack\)](https://open.spotify.com/album/4M3KMVcGDPrJvSXn37r54K) | 4:51 |
 | 93 | [Wake Me up Before You Go\-Go \(From "Emoji Movie"\)](https://open.spotify.com/track/2wCSi4ldKz1slQCG80OFA9) | [Chateau Pop](https://open.spotify.com/artist/2OMMprTrpxwnt1rlBT4B7X) | [Kids Movies 2018](https://open.spotify.com/album/6tfgiMXUycmvOTh12RKP6e) | 3:45 |
-| 94 | [You've Got a Friend in Me \(para el Buzz Español\)](https://open.spotify.com/track/5LUO7dQY5NgVrMButouq5n) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL), [Nicolas Reyes](https://open.spotify.com/artist/4ZEbnHVcQHXbtkOhg8mDAT), [Tonino Baliardo](https://open.spotify.com/artist/3pUWmkSef9vJOPDViYGZ5L) | [Toy Story 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1d9mhjBzN4ovJUr3AntOuC) | 2:14 |
+| 94 | [You've Got a Friend in Me \(para el Buzz Español\)](https://open.spotify.com/track/5LUO7dQY5NgVrMButouq5n) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL), [Tonino Baliardo](https://open.spotify.com/artist/3pUWmkSef9vJOPDViYGZ5L), [Nicolas Reyes](https://open.spotify.com/artist/4ZEbnHVcQHXbtkOhg8mDAT) | [Toy Story 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1d9mhjBzN4ovJUr3AntOuC) | 2:14 |
 | 95 | [Despicable Me](https://open.spotify.com/track/2EOMe4XAS7U6UA1mhDs9tP) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me](https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m) | 4:12 |
 | 96 | [Pokemon Theme](https://open.spotify.com/track/6xG2ZGudUgtV235xvDlSEt) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon X \- Ten Years Of Pokemon](https://open.spotify.com/album/3qW0KwoP8BdFzqZSDh1ScI) | 3:16 |
 | 97 | [We No Speak Americano](https://open.spotify.com/track/3SmzFvJKGjsNTnMu7TCvCF) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [DCup](https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt) | [Madagascar 3: Europe's Most Wanted \(Music From The Motion Picture\)](https://open.spotify.com/album/3xBGPEOCh0In2UbR8Do8jC) | 4:29 |

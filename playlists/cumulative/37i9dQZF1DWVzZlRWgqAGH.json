@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Glenn Lewis and music for your soul.",
+  "description": "Kreesha Turner and music for your soul.",
   "name": "BUTTER",
   "tracks": [
     {
@@ -478,7 +478,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 162920,
       "name": "6 Years",
       "url": "https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 263300,
       "name": "All About Me",
       "url": "https://open.spotify.com/track/60mXzhxdo3dtKYz1MNBLFD"
@@ -3260,6 +3260,28 @@
       "duration_ms": 233853,
       "name": "bend yr ear",
       "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+    },
+    {
+      "album": {
+        "name": "BENJAMINS",
+        "url": "https://open.spotify.com/album/27wAzUGHh3nqGp0sOZ0F0U"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191381,
+      "name": "BENJAMINS",
+      "url": "https://open.spotify.com/track/134FZxiTn8d42WLbAK2SNB"
     },
     {
       "album": {
@@ -5956,7 +5978,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 286099,
       "name": "Claim To Fame",
       "url": "https://open.spotify.com/track/1QFzbzgffdy4XxxZvtxXAi"
@@ -7414,6 +7436,28 @@
       "duration_ms": 244075,
       "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
+    },
+    {
+      "album": {
+        "name": "DARE TO DREAM (feat. Shy FX)",
+        "url": "https://open.spotify.com/album/7lB2WFnDRWcqSoXX54O2aN"
+      },
+      "artists": [
+        {
+          "name": "KINGH",
+          "url": "https://open.spotify.com/artist/6vSxQatNRZCtcEuTPE0pBo"
+        },
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189574,
+      "name": "DARE TO DREAM (feat. Shy FX)",
+      "url": "https://open.spotify.com/track/7r9q5Fk9pTWgFwtiA8JVsS"
     },
     {
       "album": {
@@ -18980,7 +19024,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 249331,
       "name": "Love N Drugs",
       "url": "https://open.spotify.com/track/3kGK2EcioWNqaj5rfsKN5b"
@@ -23216,6 +23260,28 @@
       "duration_ms": 170026,
       "name": "Only Have Eyes 42",
       "url": "https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU"
+    },
+    {
+      "album": {
+        "name": "Only Love (feat. Pa Salieu)",
+        "url": "https://open.spotify.com/album/6nilpOGqIruVfH4w5UDJlY"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202545,
+      "name": "Only Love (feat. Pa Salieu)",
+      "url": "https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq"
     },
     {
       "album": {
@@ -35754,6 +35820,24 @@
       "duration_ms": 116266,
       "name": "you wore it better",
       "url": "https://open.spotify.com/track/1kXDpU4bGa4NbxHzYQyp0z"
+    },
+    {
+      "album": {
+        "name": "You're Ego",
+        "url": "https://open.spotify.com/album/2QlilYOgXfpXkFnFUFyRE5"
+      },
+      "artists": [
+        {
+          "name": "Kreesha Turner",
+          "url": "https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201887,
+      "name": "You're Ego",
+      "url": "https://open.spotify.com/track/1IN1eKg2h6GGtqFuNrVBxX"
     },
     {
       "album": {

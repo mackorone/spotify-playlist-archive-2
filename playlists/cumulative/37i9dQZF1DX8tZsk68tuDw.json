@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with TOKiMONSTA",
+  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Silva Bumpa",
   "name": "Dance Rising",
   "tracks": [
     {
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 187285,
       "name": "Actin' Tough",
       "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
@@ -8780,7 +8780,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 252750,
       "name": "Big Mad Banger",
       "url": "https://open.spotify.com/track/0wqPTPnSXarmB36nnq3kJh"
@@ -13770,7 +13770,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188085,
       "name": "CHICA 305",
       "url": "https://open.spotify.com/track/2xz5qmonUWZytz5jIw04LM"
@@ -19142,7 +19142,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 199666,
       "name": "DO AS I SAY",
       "url": "https://open.spotify.com/track/56NCLe3cAx4QCtHDhl6WD8"
@@ -19576,6 +19576,28 @@
       "duration_ms": 196800,
       "name": "DON'T LOOK DOWN (feat. Lizzy Land)",
       "url": "https://open.spotify.com/track/5rIpzFDp0sYDCQytYDG96W"
+    },
+    {
+      "album": {
+        "name": "Don't Lose Your Head",
+        "url": "https://open.spotify.com/album/0JlIAgb2Wef3CMsq3Jf7JS"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163320,
+      "name": "Don't Lose Your Head",
+      "url": "https://open.spotify.com/track/6btPEp3yW4iSMB5ykuYJny"
     },
     {
       "album": {
@@ -29088,7 +29110,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 160029,
       "name": "Girl On The Beat",
       "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
@@ -33930,7 +33952,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 214269,
       "name": "HOTS 4 U",
       "url": "https://open.spotify.com/track/5nMrR3Ed99WcQ4Vv0wy8Bf"
@@ -41567,6 +41589,28 @@
     },
     {
       "album": {
+        "name": "Let Me Be In Your Arms",
+        "url": "https://open.spotify.com/album/2fa72V2RpinQQIzeZ1NiPs"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193358,
+      "name": "Let Me Be In Your Arms",
+      "url": "https://open.spotify.com/track/4Lgbp0ZVCTLLCf99bwPTVi"
+    },
+    {
+      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/71JDjU89pUcQs36ArVK8qd"
       },
@@ -45599,6 +45643,24 @@
     },
     {
       "album": {
+        "name": "Love Tonight",
+        "url": "https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "Love Tonight",
+      "url": "https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf"
+    },
+    {
+      "album": {
         "name": "Love Tonight (Vintage Culture & Kiko Franco Remix)",
         "url": "https://open.spotify.com/album/1X71912aX0L37dW0eW3QgE"
       },
@@ -47818,7 +47880,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 137538,
       "name": "midnight moon",
       "url": "https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce"
@@ -48086,7 +48148,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 195428,
       "name": "mind be so numb",
       "url": "https://open.spotify.com/track/3ePwGn599lcCF9Hxpfw7Iw"
@@ -49253,6 +49315,24 @@
     },
     {
       "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/3XDqPUPVBg4YVbJq4nmQ4m"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183771,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/1pK5RQ6j8o2TqGOQSxPAP1"
+    },
+    {
+      "album": {
         "name": "GEWAH Selects",
         "url": "https://open.spotify.com/album/1GQVGlJb4JL0nVoW4ptYht"
       },
@@ -49674,6 +49754,32 @@
       "duration_ms": 137500,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/4eqNyLDGWPXcsscSIVT7XU"
+    },
+    {
+      "album": {
+        "name": "Movin' To The Sun",
+        "url": "https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Imael Angel",
+          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Movin' To The Sun",
+      "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
     },
     {
       "album": {
@@ -54052,6 +54158,24 @@
       "duration_ms": 184827,
       "name": "On & On",
       "url": "https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp"
+    },
+    {
+      "album": {
+        "name": "On 2nite",
+        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158848,
+      "name": "On 2nite",
+      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
     },
     {
       "album": {
@@ -60782,7 +60906,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 200275,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/5s8W9kVGieuKlxDsECr7aP"
@@ -60976,6 +61100,24 @@
       "duration_ms": 170763,
       "name": "Resurrected",
       "url": "https://open.spotify.com/track/2F9lnTfWTZCvaHWSVTefUY"
+    },
+    {
+      "album": {
+        "name": "Return To Bhibo",
+        "url": "https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157840,
+      "name": "Return To Bhibo",
+      "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
     },
     {
       "album": {
@@ -61322,7 +61464,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 145853,
       "name": "Ricota",
       "url": "https://open.spotify.com/track/4uZh7m5a3DFqI1WCUniio6"
@@ -65631,6 +65773,28 @@
     },
     {
       "album": {
+        "name": "Show Me Love (Devotion)",
+        "url": "https://open.spotify.com/album/2hzFYqh088Z5FMEmwHMnNP"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175121,
+      "name": "Show Me Love (Devotion)",
+      "url": "https://open.spotify.com/track/0ZPG3VuIj9hm6jSaztHBxT"
+    },
+    {
+      "album": {
         "name": "Show Me The Money (with Tkay Maidza)",
         "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
       },
@@ -66804,6 +66968,32 @@
       "duration_ms": 344738,
       "name": "So Good",
       "url": "https://open.spotify.com/track/1IR9m7mkEWAXkCA5cBfTz2"
+    },
+    {
+      "album": {
+        "name": "So Good (feat. Kuuda)",
+        "url": "https://open.spotify.com/album/5bbz0vL4jSp7q9qpKo7UU8"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Josh Gigante",
+          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+        },
+        {
+          "name": "Kuuda",
+          "url": "https://open.spotify.com/artist/2aPOSo3CvB3a15zDorFBCh"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183809,
+      "name": "So Good (feat. Kuuda)",
+      "url": "https://open.spotify.com/track/6CR63qhTJnek9DDejDemiY"
     },
     {
       "album": {
@@ -71180,6 +71370,24 @@
       "duration_ms": 134844,
       "name": "take your vibes and go",
       "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"
+    },
+    {
+      "album": {
+        "name": "takeme2",
+        "url": "https://open.spotify.com/album/0WIRi1STaiGqv2vxF35y32"
+      },
+      "artists": [
+        {
+          "name": "Saidah",
+          "url": "https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215922,
+      "name": "takeme2",
+      "url": "https://open.spotify.com/track/5lF0OMA2GNEDe1OVuaM0tb"
     },
     {
       "album": {

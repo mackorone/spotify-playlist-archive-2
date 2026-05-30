@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Devon Gilfillian
 
-507 songs - 1 day 5 hr 35 min
+508 songs - 1 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Body Heat](https://open.spotify.com/track/5SqrG4iYtYJ5Pz02zMIVYo) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Body Heat](https://open.spotify.com/album/3x89dH8gykGUMNlvUDz4qu) | 3:21 | 2024-03-15 | 2024-04-13 |
 | [Body Language](https://open.spotify.com/track/6M4HWfNEezmFNO91YYWnwf) | [Mojoflo](https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED) | [Body Language](https://open.spotify.com/album/2xHWcsmlFfTPf0v1QoDEDi) | 4:08 | 2021-04-02 | 2022-06-18 |
 | [Body Weak \(Diamond Cut\)](https://open.spotify.com/track/1s0HuXwtPGA8PWVWQClUZq) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [Body Weak \(Diamond Cut\)](https://open.spotify.com/album/4QOSrIecDT4eeFYu3nrbqR) | 4:05 | 2023-09-01 | 2024-11-16 |
+| [Boogie](https://open.spotify.com/track/6TJsuJd2qiX179fDioQAz1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Boogie](https://open.spotify.com/album/36WpGvLIJ64ig6TIYgna23) | 4:27 | 2026-05-29 |  |
 | [Boogie Down](https://open.spotify.com/track/3APtmyeA8mmubGvyCoW2Ga) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Boogie Down](https://open.spotify.com/album/4Vakb3vIt914RvFrIiWS9h) | 3:16 | 2023-01-27 | 2024-01-20 |
 | [Boy](https://open.spotify.com/track/0d6PTB1CDWFCWKiixR0YI7) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Boy](https://open.spotify.com/album/4GRcZN5fLAhRnSXSyWTyLm) | 3:01 | 2021-10-29 | 2022-05-07 |
 | [Boyfriend](https://open.spotify.com/track/56QF4yDJSPKs783imRYWX0) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw), [Charles](https://open.spotify.com/artist/1zQk335M5LE4TowdBTKOAp) | [Boyfriend](https://open.spotify.com/album/0nzeplsr4yZbMptOu6jlhI) | 3:08 | 2023-10-20 | 2024-03-16 |
@@ -162,7 +163,7 @@
 | [Get Together](https://open.spotify.com/track/5a1NRRfQvTMlvZ3rwO259B) | [Max Sedgley](https://open.spotify.com/artist/3Rvdl9zqy6xf5eMjxLb1hd), [Tasita D'Mour](https://open.spotify.com/artist/27WSf5DApzcZTVhGJLovzk) | [Get Together](https://open.spotify.com/album/6xItsb9YHgaBLvQXDm6XBZ) | 5:29 | 2023-07-14 | 2025-10-25 |
 | [GETCHONAME](https://open.spotify.com/track/45PhU1YgJYSqUrXoYbgWy8) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4) | [GETCHONAME](https://open.spotify.com/album/3Arfa3wDPNpNb6GieQ6KGM) | 2:47 | 2026-02-27 |  |
 | [Ghostin'](https://open.spotify.com/track/3yBvfQM9HUVGUPJpMd0N2b) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Ghostin'](https://open.spotify.com/album/2kHG0spSENXM1twe1FW6WM) | 2:39 | 2022-10-28 | 2023-09-09 |
-| [Ghostin' All My Friends](https://open.spotify.com/track/4qOjCtrKwGu31EkHmnCVOT) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Ghostin' All My Friends](https://open.spotify.com/album/6uCnAMIGDZuaHJqVSOvyXr) | 3:40 | 2023-10-13 |  |
+| [Ghostin' All My Friends](https://open.spotify.com/track/4qOjCtrKwGu31EkHmnCVOT) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Ghostin' All My Friends](https://open.spotify.com/album/6uCnAMIGDZuaHJqVSOvyXr) | 3:40 | 2023-10-13 | 2026-05-30 |
 | [Gigantic Energy](https://open.spotify.com/track/2PRmFMuhCCwa9fNtqRi4M1) | [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Gigantic Energy](https://open.spotify.com/album/2bIcCEYZZHRgOHZNEicdXw) | 4:24 | 2022-04-29 | 2024-04-13 |
 | [Gimme The Word](https://open.spotify.com/track/4kIhrMfenA2r86h98xh91r) | [Uzuhan](https://open.spotify.com/artist/2KG9Jkvp7Y5wvaMjCcIu37) | [Gimme The Word](https://open.spotify.com/album/4I7sMTrlO9UQ4jNDQxqGBq) | 3:17 | 2022-09-09 | 2023-07-15 |
 | [GINGUA](https://open.spotify.com/track/6TCl4ThmCiqCuSjfmS0CLZ) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [GINGUA](https://open.spotify.com/album/5lTTCDYTYe9wvtLvLODn8R) | 4:08 | 2024-08-23 |  |

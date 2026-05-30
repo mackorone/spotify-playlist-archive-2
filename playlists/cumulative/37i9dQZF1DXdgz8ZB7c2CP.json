@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>  featuring Swimming Paul",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83c\udfd4\ufe0f featuring What So Not & Alina Pash",
   "name": "creamy",
   "tracks": [
     {
@@ -294,7 +294,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 173017,
       "name": "999soundsystem",
       "url": "https://open.spotify.com/track/6mv33AvhAJWcz3O8XzQ2rc"
@@ -1328,7 +1328,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 168196,
       "name": "Anywhere With You",
       "url": "https://open.spotify.com/track/3bGaOepdpfSWwclX8Eht8y"
@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 182400,
       "name": "Better Off Before",
       "url": "https://open.spotify.com/track/395UwzdJRE8i8pEgXBtbTJ"
@@ -2774,6 +2774,28 @@
       "duration_ms": 212840,
       "name": "Blueberry",
       "url": "https://open.spotify.com/track/71yKusCutfdp91GSeS2Aq8"
+    },
+    {
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3cuUc6q7rrGELnzIpRqHwZ"
+      },
+      "artists": [
+        {
+          "name": "SHAKING",
+          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
+        },
+        {
+          "name": "Clearcast",
+          "url": "https://open.spotify.com/artist/3dRhjQBCaVo5zMuXyjv7Su"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180430,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/1YsTMha2DpnIZlm7Dj9suA"
     },
     {
       "album": {
@@ -4545,6 +4567,24 @@
     },
     {
       "album": {
+        "name": "Close To Me",
+        "url": "https://open.spotify.com/album/5xy527apuowNDrT8YPGOiD"
+      },
+      "artists": [
+        {
+          "name": "Dennett",
+          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220444,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/1sR7wY8HpZYHTKafDLFpEL"
+    },
+    {
+      "album": {
         "name": "close your eyes",
         "url": "https://open.spotify.com/album/1YuOYJ7WHrrX889nLy70Xb"
       },
@@ -5398,7 +5438,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 173333,
       "name": "Crybaby (why do i feel so sad?)",
       "url": "https://open.spotify.com/track/5sHTYfLEPlMMPpXOIH12q9"
@@ -5982,7 +6022,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188444,
       "name": "DIFFERENT",
       "url": "https://open.spotify.com/track/7adDxOu4h1G7LUM3kCEQvh"
@@ -6288,7 +6328,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 236571,
       "name": "Doing It Wrong",
       "url": "https://open.spotify.com/track/7JV9PR0p7ejQmRugzlFTyp"
@@ -7499,6 +7539,28 @@
     },
     {
       "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/57GNwR8r5HpFA4rEVC86iB"
+      },
+      "artists": [
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        },
+        {
+          "name": "Alina Pash",
+          "url": "https://open.spotify.com/artist/2rC7t19zOtFIcJvmi6lH1i"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182450,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/0L9hLpaILakNHtwvgNeMjA"
+    },
+    {
+      "album": {
         "name": "Every Storm Hardens The Earth (Mixtape)",
         "url": "https://open.spotify.com/album/5D5FYq24LxVsuxFUxwl9TR"
       },
@@ -7644,7 +7706,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 116000,
       "name": "Everything For You",
       "url": "https://open.spotify.com/track/0qox46l3lrHNQHvazjSjYJ"
@@ -12950,7 +13012,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 265098,
       "name": "In The Moments",
       "url": "https://open.spotify.com/track/4pf79d7NErYJ2CvFJkNhCT"
@@ -13124,7 +13186,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 208378,
       "name": "Innuendo (I Get U)",
       "url": "https://open.spotify.com/track/1D84CoKziCbQw6NWVxorq4"
@@ -16843,6 +16905,32 @@
     },
     {
       "album": {
+        "name": "My Destiny",
+        "url": "https://open.spotify.com/album/0O9mN7yH0MENyCjaOLzFIC"
+      },
+      "artists": [
+        {
+          "name": "Delinquent",
+          "url": "https://open.spotify.com/artist/1VtJL8QulGDXbbZwTaGV53"
+        },
+        {
+          "name": "KCAT",
+          "url": "https://open.spotify.com/artist/0aWB8X9jnXYw3cyRnUtutZ"
+        },
+        {
+          "name": "Mike Delinquent Project",
+          "url": "https://open.spotify.com/artist/3ktmzZtH6NJz7269QgaBtL"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147713,
+      "name": "My Destiny - 2026 Edit",
+      "url": "https://open.spotify.com/track/1quse5mAKsNcrilBTJosG3"
+    },
+    {
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/1LFWxhVv9PhRhwimgRfSFz"
       },
@@ -19435,6 +19523,24 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/1EfHBprhrWg6BDa4SOnTof"
+      },
+      "artists": [
+        {
+          "name": "ALIGN",
+          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125070,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6mzfxppGNFic87PquwtGuT"
+    },
+    {
+      "album": {
         "name": "all my exes live in brooklyn",
         "url": "https://open.spotify.com/album/7ogj05xh3Hjh5A6cwtQXK9"
       },
@@ -19574,7 +19680,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 199183,
       "name": "PULL ME CLOSER",
       "url": "https://open.spotify.com/track/42Vv0VrHNzSlbhedKSPLs9"
@@ -26080,7 +26186,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 151968,
       "name": "Thru My Mind",
       "url": "https://open.spotify.com/track/2IOkHMQbAuAxcH6SqCqm1w"

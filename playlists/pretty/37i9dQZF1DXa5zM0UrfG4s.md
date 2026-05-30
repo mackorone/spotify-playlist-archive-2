@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,864 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,859 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 57 | [Langt igjen å gå](https://open.spotify.com/track/4sSG00XcjhgtSMbeCMIKsn) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Langt igjen å gå](https://open.spotify.com/album/0cHxs6tHUNshJrzAg4M867) | 3:02 |
 | 58 | [Hva gjør du nå?](https://open.spotify.com/track/1ZWDLei3i9cWF4IMClFYxo) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Hva gjør du nå?](https://open.spotify.com/album/2VKqpZN9XCAQ20Etpxjd7a) | 2:45 |
 | 59 | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 |
-| 60 | [Falla](https://open.spotify.com/track/43YgCJIcbcSOYSqh7G9dx6) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Falla](https://open.spotify.com/album/17uI2EwTaK9s29cyoJoFOX) | 2:44 |
+| 60 | [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 |
 | 61 | [Singel til jeg dør](https://open.spotify.com/track/3OSzx7DOBwR10pCsbMOUwF) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Singel til jeg dør](https://open.spotify.com/album/57hUp9ecLiQODZpexmgd6f) | 2:22 |
-| 62 | [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 |
-| 63 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 |
-| 64 | [Rypejakt](https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [Tomgang](https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe) | [Rypejakt](https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm) | 2:29 |
-| 65 | [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 |
-| 66 | [Svære Pupper](https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Svære Pupper](https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h) | 2:18 |
-| 67 | [Maria](https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi) | [Byting](https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7) | [Maria](https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh) | 3:32 |
+| 62 | [Falla](https://open.spotify.com/track/43YgCJIcbcSOYSqh7G9dx6) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Falla](https://open.spotify.com/album/17uI2EwTaK9s29cyoJoFOX) | 2:44 |
+| 63 | [Rypejakt](https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [Tomgang](https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe) | [Rypejakt](https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm) | 2:29 |
+| 64 | [Maria](https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi) | [Byting](https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7) | [Maria](https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh) | 3:32 |
+| 65 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 |
+| 66 | [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 |
+| 67 | [Svære Pupper](https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD) | [KOKKOS](https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk) | [Svære Pupper](https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h) | 2:18 |
 | 68 | [Ja vi elsker \(Typisk Norsk 2019\)](https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [Ja vi elsker \(Typisk Norsk 2019\)](https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV) | 2:44 |
 | 69 | [Nå er det freda'n igjen](https://open.spotify.com/track/096d1z40MQXAEZALorCnC4) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY) | 2:50 |
-| 70 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 |
+| 70 | [Ryker på'a igjen](https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ryker på'a igjen](https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf) | 2:25 |
 
 Snapshot ID: `AAAAAD1+Tr058TrIvThTsaKGFRz24bIe`

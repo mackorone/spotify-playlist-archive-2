@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,869 likes - 51 songs - 2 hr 46 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,871 likes - 52 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,5 +59,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 49 | [Her Eyes](https://open.spotify.com/track/2GVil5jFuIJAIrGgVXJnN7) | [ZAINAB](https://open.spotify.com/artist/4FzIDBCmkaXaPkGzJLG0M9) | [Her Eyes](https://open.spotify.com/album/1NGSNi1qumOz2ioRd4pvni) | 3:05 |
 | 50 | [Stay Alive](https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [The Devil's Tax Return](https://open.spotify.com/artist/1pnP4d3omqdQ4MDfizPlGC) | [Stay Alive](https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi) | 3:53 |
 | 51 | [Is It Over Now?](https://open.spotify.com/track/7a1HZI7drZ3Rn0EYGAnrgC) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Is It Over Now?](https://open.spotify.com/album/05d5EqS6Ti2DXSO8WfAkbv) | 3:39 |
+| 52 | [As Soon As I Get Home](https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO) | [As Soon As I Get Home](https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7) | 3:59 |
 
-Snapshot ID: `AAARid4HvIptVjQMta9YiJxcCIFVEeZ2`
+Snapshot ID: `AAARisZlwNeIQH9rLmk+TTowojxXMYIz`

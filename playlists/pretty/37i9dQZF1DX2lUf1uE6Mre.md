@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: YUNG SAINT PAUL
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,646 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,623 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 69 | [DON'T JUDGE](https://open.spotify.com/track/7esMLn3RT1WawDY4Wom7QN) | [BILLA JOE](https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [DON'T JUDGE](https://open.spotify.com/album/5PJDbdQeBpwnDo9azB3lub) | 1:48 |
 | 70 | [Plug](https://open.spotify.com/track/1apdrrO6QhgdZ5IFPsrXwl) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw), [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Plug](https://open.spotify.com/album/1T5ftJvgOHmUnaXw5GLwoK) | 2:55 |
 | 71 | [Uff Yaa](https://open.spotify.com/track/2n6jU4jcKzG4ouZP52kvVp) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Uff Yaa](https://open.spotify.com/album/0GEqHwifTZhn8vBowI9ydv) | 1:47 |
-| 72 | [Bela](https://open.spotify.com/track/6ECv01XjUdP1of2IRZXg6P) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Bela](https://open.spotify.com/album/41rooj0woLx6z05NeHIkaj) | 2:19 |
-| 73 | [HOKUS POKUS](https://open.spotify.com/track/0UfRPRyFnKrW4wKCRenAi4) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [HOKUS POKUS](https://open.spotify.com/album/1AWAuL3lkGaH7ZbelmJKrO) | 3:11 |
-| 74 | [Miami](https://open.spotify.com/track/4nBfq4hPT6U8Qs4gAx0mv8) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Unlock](https://open.spotify.com/album/32AdtNsHkF7EOKUdXZrlla) | 2:44 |
+| 72 | [HOKUS POKUS](https://open.spotify.com/track/0UfRPRyFnKrW4wKCRenAi4) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [HOKUS POKUS](https://open.spotify.com/album/1AWAuL3lkGaH7ZbelmJKrO) | 3:11 |
+| 73 | [Miami](https://open.spotify.com/track/4nBfq4hPT6U8Qs4gAx0mv8) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Unlock](https://open.spotify.com/album/32AdtNsHkF7EOKUdXZrlla) | 2:44 |
+| 74 | [Bela](https://open.spotify.com/track/6ECv01XjUdP1of2IRZXg6P) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Bela](https://open.spotify.com/album/41rooj0woLx6z05NeHIkaj) | 2:19 |
 | 75 | [Day N Nite](https://open.spotify.com/track/7tx8VNPnyTIX8nfehbbdha) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Day N Nite](https://open.spotify.com/album/6dldeOwW0wqxeiRA7wBK8e) | 2:23 |
 | 76 | [Ana Arabiya](https://open.spotify.com/track/33q5s0rwEJChcuIPN5s7RM) | [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [CLICK FÜR CLICK](https://open.spotify.com/album/3bYSQQAOuX8I4e3ldSqJcc) | 2:53 |
-| 77 | [I wanna love you](https://open.spotify.com/track/6vGi6UBvgUz8nbNLSPdSSX) | [NOAH](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL), [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [I wanna love you](https://open.spotify.com/album/6BIJ8xbyASScq3ZQe9wFpZ) | 2:40 |
-| 78 | [SCARFACE](https://open.spotify.com/track/6kS7hWT4FYJqPmyMHMBHNn) | [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [SCARFACE](https://open.spotify.com/album/3abCbGF8AUx1mXTQUhX5Sz) | 2:35 |
+| 77 | [SCARFACE](https://open.spotify.com/track/6kS7hWT4FYJqPmyMHMBHNn) | [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [SCARFACE](https://open.spotify.com/album/3abCbGF8AUx1mXTQUhX5Sz) | 2:35 |
+| 78 | [I wanna love you](https://open.spotify.com/track/6vGi6UBvgUz8nbNLSPdSSX) | [NOAH](https://open.spotify.com/artist/4lR4w01uPOblBqpIAzuCzL), [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [I wanna love you](https://open.spotify.com/album/6BIJ8xbyASScq3ZQe9wFpZ) | 2:40 |
 | 79 | [Drama](https://open.spotify.com/track/2Eoa4NYwOkVOc2fgOfuvb6) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Drama](https://open.spotify.com/album/1cOvy0q3RBQyHV0BGPZhE5) | 2:50 |
 | 80 | [ALLE LIEBEN MUSSO](https://open.spotify.com/track/76wDd2m8dQi8YpMcgFKRJn) | [Musso](https://open.spotify.com/artist/2FyxcdLSH7XqsfJE6Iu0tJ) | [STILL DON'T PANIC](https://open.spotify.com/album/3bohKQuv5jLycIyK2HaqpE) | 2:40 |
 | 81 | [Pretty Privilege](https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd) | [Pretty Privilege](https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5) | 2:25 |

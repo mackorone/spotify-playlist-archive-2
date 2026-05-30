@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "ur on the list bb \ud83e\ude90 featuring Marlon Hoffstadt",
+  "description": "ur on the list bb \ud83e\ude90 featuring jigitz",
   "name": "planet rave",
   "tracks": [
     {
@@ -592,7 +592,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 211048,
       "name": "_HALO_",
       "url": "https://open.spotify.com/track/6POXlBCcr2Qodq1DptJhKn"
@@ -10357,6 +10357,24 @@
     },
     {
       "album": {
+        "name": "higher",
+        "url": "https://open.spotify.com/album/52VbP0EmUW0Xwp6GOmoIBS"
+      },
+      "artists": [
+        {
+          "name": "boy 2000",
+          "url": "https://open.spotify.com/artist/352jxy0PhVlrH05EHE78LV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119421,
+      "name": "higher",
+      "url": "https://open.spotify.com/track/7oCzr7jdTHh3OSYTFxoVsb"
+    },
+    {
+      "album": {
         "name": "HIGHER",
         "url": "https://open.spotify.com/album/1alwGF6CHQD76eWuEioStj"
       },
@@ -16288,6 +16306,28 @@
       "duration_ms": 155165,
       "name": "notice",
       "url": "https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar"
+    },
+    {
+      "album": {
+        "name": "notime\u2026youshouldbeaskingmeout",
+        "url": "https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU"
+      },
+      "artists": [
+        {
+          "name": "finnj\u00e4vel",
+          "url": "https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT"
+        },
+        {
+          "name": "GRANT",
+          "url": "https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "notime\u2026",
+      "url": "https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww"
     },
     {
       "album": {
@@ -24322,7 +24362,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 198837,
       "name": "Wet & Wild (feat. DUDA BEAT)",
       "url": "https://open.spotify.com/track/0cZGeLbUQm3veTaoI6rHmN"

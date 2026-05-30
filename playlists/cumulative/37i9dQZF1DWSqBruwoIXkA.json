@@ -1667,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/3D0LxzawBk0Q6YIawaq6Kw"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220510,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/4WmVt5fadMOfE9Fsc6F2Cw"
+    },
+    {
+      "album": {
         "name": "birthday cake",
         "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
       },
@@ -2736,6 +2754,24 @@
       "duration_ms": 174406,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/2MNG8spWd2fgvokW8EZDod"
+    },
+    {
+      "album": {
+        "name": "scars to prove it",
+        "url": "https://open.spotify.com/album/73Sgh6sfNyy8ZA3RZLJmKS"
+      },
+      "artists": [
+        {
+          "name": "Hailey Picardi",
+          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194020,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/1yqQANXMu1CgGTjHQewP6G"
     },
     {
       "album": {
@@ -12926,7 +12962,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 195149,
       "name": "One Day",
       "url": "https://open.spotify.com/track/5gdZR1LbeJktVF0SFqU4a9"
@@ -16224,7 +16260,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 136693,
       "name": "The Motive",
       "url": "https://open.spotify.com/track/4U1hLzm0Hwd3UTLeWKHhVt"

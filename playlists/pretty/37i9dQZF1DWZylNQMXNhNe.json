@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Vita",
-  "num_followers": 248308,
+  "num_followers": 248311,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-05-22 18:19:38",
       "album": {
+        "name": "Como Ouro",
+        "url": "https://open.spotify.com/album/4hZTIQF4MrNJRwGbmIA7MT"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Como Ouro",
+      "url": "https://open.spotify.com/track/1QRZnXM3lEUifwEzl9xtV1"
+    },
+    {
+      "added_at": "2026-05-22 18:19:38",
+      "album": {
         "name": "SEQU\u00caNCIA COLOCAD\u00c3O",
         "url": "https://open.spotify.com/album/5XEZADQba0OnNJGOGGXqjq"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 103384,
       "name": "SEQU\u00caNCIA COLOCAD\u00c3O",
       "url": "https://open.spotify.com/track/4zDaVEHAvqPiIQN7jKtmhM"
-    },
-    {
-      "added_at": "2026-05-22 18:19:38",
-      "album": {
-        "name": "Como Ouro",
-        "url": "https://open.spotify.com/album/4hZTIQF4MrNJRwGbmIA7MT"
-      },
-      "artists": [
-        {
-          "name": "Mari Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Como Ouro",
-      "url": "https://open.spotify.com/track/1QRZnXM3lEUifwEzl9xtV1"
     },
     {
       "added_at": "2026-05-22 18:19:38",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2026-05-22 18:19:38",
       "album": {
-        "name": "MUCHO SEXY - ASTRO SESSIONS",
-        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
+        "name": "PROFANO",
+        "url": "https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb"
       },
       "artists": [
         {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+          "name": "Gabriel Nandes",
+          "url": "https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77"
         }
       ],
-      "duration_ms": 144427,
-      "name": "ATITUDE",
-      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
+      "duration_ms": 171581,
+      "name": "PROFANO",
+      "url": "https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar"
     },
     {
       "added_at": "2026-05-22 18:19:38",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2026-05-22 18:19:38",
       "album": {
-        "name": "PROFANO",
-        "url": "https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb"
+        "name": "MUCHO SEXY - ASTRO SESSIONS",
+        "url": "https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC"
       },
       "artists": [
         {
-          "name": "Gabriel Nandes",
-          "url": "https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77"
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
         }
       ],
-      "duration_ms": 171581,
-      "name": "PROFANO",
-      "url": "https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar"
+      "duration_ms": 144427,
+      "name": "ATITUDE",
+      "url": "https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd"
     },
     {
       "added_at": "2026-05-22 18:19:38",

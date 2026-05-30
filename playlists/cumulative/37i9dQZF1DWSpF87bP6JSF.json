@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Los \u00e9xitos del pop latino, con Maluma en portada.",
+  "description": "Los \u00e9xitos del pop latino, con Myke Towers en portada.",
   "name": "La Lista Pop",
   "tracks": [
     {
@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Ricky y Mau",
+        "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142150,
+      "name": "AMAPOLA",
+      "url": "https://open.spotify.com/track/4iXgIc7EYYppSPmkMaGJRW"
+    },
+    {
+      "album": {
         "name": "Amapolas (Remix)",
         "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
       },
@@ -1402,6 +1420,28 @@
       "duration_ms": 199627,
       "name": "Apretaito",
       "url": "https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE"
+    },
+    {
+      "album": {
+        "name": "Do Not Disturb: Late Checkout",
+        "url": "https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202413,
+      "name": "Aquel diciembre",
+      "url": "https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG"
     },
     {
       "album": {
@@ -3964,7 +4004,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 161249,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/0LwRPPWBsdUKZ7pMmGvEnM"
@@ -4328,6 +4368,24 @@
       "duration_ms": 128000,
       "name": "desmaquillada",
       "url": "https://open.spotify.com/track/2qh6SULIPKrCBnaXxE1cGZ"
+    },
+    {
+      "album": {
+        "name": "DesOrden",
+        "url": "https://open.spotify.com/album/2P4DYITUx7faiFzAzXaofU"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156845,
+      "name": "DesOrden",
+      "url": "https://open.spotify.com/track/2Fd7PA5quhm73Aw7H3FwwN"
     },
     {
       "album": {
@@ -4696,7 +4754,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188513,
       "name": "Dos Amantes",
       "url": "https://open.spotify.com/track/5Nnd7tvjwHjexXjhbl0WSD"
@@ -6967,6 +7025,24 @@
     },
     {
       "album": {
+        "name": "Hasta El Fin Del Mundo",
+        "url": "https://open.spotify.com/album/57rQjR93zofRBceA9e3th3"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175802,
+      "name": "Hasta El Fin Del Mundo",
+      "url": "https://open.spotify.com/track/3YTLDgIPG7AmwyPbSWUajQ"
+    },
+    {
+      "album": {
         "name": "Familia",
         "url": "https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf"
       },
@@ -7486,7 +7562,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 222458,
       "name": "Ivonny Bonita",
       "url": "https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c"
@@ -13030,7 +13106,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 179166,
       "name": "PorquE Si Te QuedAs",
       "url": "https://open.spotify.com/track/32fkaxjxY0MXP5WyovCWC8"
@@ -13752,6 +13828,24 @@
       "duration_ms": 152134,
       "name": "Rondando",
       "url": "https://open.spotify.com/track/6zbIymvarWbejJdlRPJwGf"
+    },
+    {
+      "album": {
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282216,
+      "name": "Rubio",
+      "url": "https://open.spotify.com/track/1koGYZiLV7pcmxT2FF8LNw"
     },
     {
       "album": {
@@ -15259,6 +15353,24 @@
     },
     {
       "album": {
+        "name": "Te Perdono",
+        "url": "https://open.spotify.com/album/0Gd6CT4X9vYwc2DqaHy09g"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172595,
+      "name": "Te Perdono",
+      "url": "https://open.spotify.com/track/6BXieCLHBV6NRSDKkqyh6Z"
+    },
+    {
+      "album": {
         "name": "TE PROMETO (el fin de una era)",
         "url": "https://open.spotify.com/album/7KrMkMxOngZKgsH3HJnbrC"
       },
@@ -16040,7 +16152,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 235150,
       "name": "TUS INICIALES",
       "url": "https://open.spotify.com/track/3odYzp9kA4Iai3eEuLi0v3"
@@ -16062,7 +16174,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 136615,
       "name": "TUTUTU",
       "url": "https://open.spotify.com/track/6Og7yuXfE5KyE8dSHU8yap"
@@ -16476,6 +16588,24 @@
       "duration_ms": 230693,
       "name": "Una Locura",
       "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
+    },
+    {
+      "album": {
+        "name": "UNA NA MAS",
+        "url": "https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196256,
+      "name": "UNA NA MAS",
+      "url": "https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"
     },
     {
       "album": {
@@ -16992,7 +17122,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 200699,
       "name": "Vivir As\u00ed Es Morir De Amor",
       "url": "https://open.spotify.com/track/371c4tu931jQ4oXCdBcvoi"

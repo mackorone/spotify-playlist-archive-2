@@ -2017,6 +2017,28 @@
     },
     {
       "album": {
+        "name": "I knoww",
+        "url": "https://open.spotify.com/album/7fXaUu3blBnTT1VPi6OhLq"
+      },
+      "artists": [
+        {
+          "name": "EF Moon",
+          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
+        },
+        {
+          "name": "Star Jay",
+          "url": "https://open.spotify.com/artist/1fuHb5TQ1r9wqAPx4jgx8D"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82758,
+      "name": "I knoww",
+      "url": "https://open.spotify.com/track/04tEKZxYzpYbPfIA0fJlOF"
+    },
+    {
+      "album": {
         "name": "Ikeja (No Go Thief)",
         "url": "https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF"
       },
@@ -3438,6 +3460,10 @@
         {
           "name": "O'Kenneth",
           "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Saint Edrah",
+          "url": "https://open.spotify.com/artist/2kbp8NOIpu2kWcYvzj54qG"
         }
       ],
       "date_added": "2026-05-25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,321 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,339 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 21 | [Heaven is a Home…](https://open.spotify.com/track/7A6f6HJqsl5UdG7kBXzXSf) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 4:04 |
 | 22 | [MORFEO](https://open.spotify.com/track/297Ev6aeDHc8dECDmK7SFH) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:53 |
 | 23 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
-| 24 | [50mm](https://open.spotify.com/track/3x41wi60bGPm3Zf8VWbuMF) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 3:03 |
+| 24 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 |
 | 25 | [¿Cómo Pasó? \- Con Joe Jonas](https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [¿Cómo Pasó? \(Con Joe Jonas\)](https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc) | 3:02 |
 | 26 | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 |
 | 27 | [1 de Enero, Puntacana](https://open.spotify.com/track/7Iz0j9XsiyR2qAq3TaeaXD) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [a new star \(1 9 9 3\)](https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4) | 1:35 |
 | 28 | [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 |
-| 29 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 |
+| 29 | [50mm](https://open.spotify.com/track/3x41wi60bGPm3Zf8VWbuMF) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 3:03 |
 | 30 | [¿Para Qué?](https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Para Qué?](https://open.spotify.com/album/27ZCBzP3A8nAMjr2E7JjtB) | 2:27 |
 | 31 | [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 |
 | 32 | [Gordo](https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:40 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 72 | [\(feliz por ti\)](https://open.spotify.com/track/4qIl21nevhNOHOu8bC8vuj) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(feliz por ti\)](https://open.spotify.com/album/6pBNf9iRUQh0oh6qR4cKNM) | 3:14 |
 | 73 | [AUSENCIA](https://open.spotify.com/track/3Itdr4lEbPt7GK04M5Jr0P) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Se me pasó llamarte, mamá](https://open.spotify.com/album/0ObHHR5E2kkgosKn6eIXLm) | 1:50 |
 | 74 | [ALGO ESPECIAL](https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [ALGO ESPECIAL](https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5) | 3:25 |
-| 75 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 |
+| 75 | [Luna \(pag.1\)](https://open.spotify.com/track/2c6MW214s0JaQBtkQs9saS) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Luna \(pag.1\)](https://open.spotify.com/album/5UseQdtOQBHEDc7bJhTbrG) | 2:49 |
 
 Snapshot ID: `AAAAAGxhPLgZpK4UtjNoASp5kPgWG8YL`

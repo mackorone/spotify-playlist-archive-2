@@ -4,7 +4,7 @@
 
 > To travel between house, deep house and positive vibes !
 
-212 songs - 12 hr 28 min
+213 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Lisztomania \- Classixx Version](https://open.spotify.com/track/378HDaqOZxzBkEIHzBzAJr) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Kitsuné: Lisztomania \(Remixes\)](https://open.spotify.com/album/393Oc9jktBl8cNFrcEkSJT) | 5:04 | 2021-11-05 | 2026-02-27 |
 | [Lluvia](https://open.spotify.com/track/5FzLZd5k2yQ0euepil3ndS) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Lluvia](https://open.spotify.com/album/3tsviyEAfWJxgzqyR6OYvf) | 4:19 | 2023-05-30 | 2026-02-27 |
 | [Long Way Up \- Mixed](https://open.spotify.com/track/6tFqRbhUPbLbyIityAAA1l) | [Courage](https://open.spotify.com/artist/1kGMaFXRovFOZJqxbVdnHq) | [Café Kitsuné Mixed by Young Franco \(Day\)](https://open.spotify.com/album/5i1BngTCStALybm8vtOFyN) | 2:17 | 2023-05-30 | 2026-02-27 |
+| [Lovely Flight](https://open.spotify.com/track/2sZ3D4IIiGIoCo1hOx1gyd) | [Didier Sinclair](https://open.spotify.com/artist/4qdo8QO3v7asdW9CmxW70o), [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [Lovely Flight](https://open.spotify.com/album/4bcDHCEB8Vewtvj6wFrWcH) | 2:42 | 2026-05-29 |  |
 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 | 2026-02-27 |  |
 | [Mexican Holiday](https://open.spotify.com/track/6E8XDoU8B9MbYbcAQ2IUBl) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL) | [Mexican Holiday](https://open.spotify.com/album/7LMpGPGgeAsK7aO4AgmEah) | 3:22 | 2021-11-05 | 2023-02-21 |
 | [Mexican Holiday \- Montmartre Remix](https://open.spotify.com/track/1AVHLM3QrxSM3CWAFYEl9Z) | [Tim Ayre](https://open.spotify.com/artist/5iDIPw4XISqyFqD817n4iL), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Mexican Holiday \(Montmartre Remix\)](https://open.spotify.com/album/6MuibcZvAn7gCPWIjfg0Ap) | 2:48 | 2025-09-15 | 2026-02-24 |

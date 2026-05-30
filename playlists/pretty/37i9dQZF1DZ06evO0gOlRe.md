@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 
 > This is Alexander Stewart\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,656 likes - 44 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,659 likes - 44 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 24 | [Good Things Go](https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 3:35 |
 | 25 | [Best Damn Thing](https://open.spotify.com/track/6i71yrjuQ9f1zUSVfEChem) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 3:52 |
 | 26 | [Here Again](https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Here Again](https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP) | 2:45 |
-| 27 | [birthday cake \- duet](https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [birthday cake \(duet\)](https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs) | 3:25 |
+| 27 | [broken by you](https://open.spotify.com/track/1rbaFEbVhbv1jCc2Dg63Qq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:52 |
 | 28 | [Pathetic](https://open.spotify.com/track/6ChfyB2KfEqBDp6gDm82es) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:46 |
-| 29 | [broken by you](https://open.spotify.com/track/1rbaFEbVhbv1jCc2Dg63Qq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:52 |
+| 29 | [birthday cake \- duet](https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [birthday cake \(duet\)](https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs) | 3:25 |
 | 30 | [His Problem Instead](https://open.spotify.com/track/75UcWeilf2s0ZxzNBJLrJA) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [His Problem Instead](https://open.spotify.com/album/5fZOdQPitNTyse0FdA02B7) | 2:43 |
 | 31 | [Put You First](https://open.spotify.com/track/3q0DAFFiVacfGS4TuWiEdx) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Put You First](https://open.spotify.com/album/68oLkuSbS2IYOFSbX6aLQd) | 2:20 |
 | 32 | [Not Ready Yet](https://open.spotify.com/track/5UYvsw1P7codQIsxOjlpDM) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [What If?](https://open.spotify.com/album/3NQLzsml2l8kwASLKj3Av5) | 2:24 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gOlRe.md) - [plain]
 | 36 | [This Is Your Life](https://open.spotify.com/track/6wC22rOiOSbpwiAxAxG0kP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [This Is Your Life](https://open.spotify.com/album/1HKJnTZ2cEEE6ufiKTwzwP) | 2:35 |
 | 37 | [drunk thought](https://open.spotify.com/track/0LDgdxnp94Ut3f5d4Yxzcb) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:35 |
 | 38 | [reflection](https://open.spotify.com/track/1jYPnvtdMWvCOTJtQVPZZn) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:40 |
-| 39 | [Shy](https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 3:32 |
-| 40 | [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 |
+| 39 | [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 |
+| 40 | [Shy](https://open.spotify.com/track/1tT0zPG5V9Qt5VjDlAmlez) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 3:32 |
 | 41 | [knowing you exist](https://open.spotify.com/track/2TRtmJg3JGtfKKnNOkU5Dn) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:24 |
 | 42 | [Crossfire](https://open.spotify.com/track/2M9g1BMhqVT51XpDw1gThu) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [ORIGIN \(Deluxe\)](https://open.spotify.com/album/72wRkJIO27W7JPUEQ0r3sK) | 3:07 |
 | 43 | [24 Hours](https://open.spotify.com/track/1ZGxwxXbpeydURjPS9mrmL) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [24 Hours](https://open.spotify.com/album/1huVzctnZbPXdXws24VOwz) | 3:18 |
 | 44 | [Aftermath](https://open.spotify.com/track/1JsXnvR7rYhrwMCsOtScOX) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Aftermath](https://open.spotify.com/album/4vgRDVOUwJNYN5fbWsvka3) | 3:40 |
 
-Snapshot ID: `ahY0AAAAAABzJEqnU/v3t3rZW+fD2JE/`
+Snapshot ID: `aheFgAAAAAA/2qabsXQ1Ijy8soPmsZ6X`

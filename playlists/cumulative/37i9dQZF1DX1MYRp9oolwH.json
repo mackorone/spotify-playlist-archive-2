@@ -2635,6 +2635,32 @@
     },
     {
       "album": {
+        "name": "Hai Re (From \"Itllu Arjuna\")",
+        "url": "https://open.spotify.com/album/0nSjrDX65muAOgLafXGPfc"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Kalyan Chakravarthy",
+          "url": "https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205108,
+      "name": "Hai Re (From \"Itllu Arjuna\")",
+      "url": "https://open.spotify.com/track/1b5IfazTvAHfblmWymHf1p"
+    },
+    {
+      "album": {
         "name": "Mr.X (Telugu) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/7wPMlX1FfWpAyJ44IP4WWm"
       },
@@ -5064,7 +5090,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 197684,
       "name": "Merisi Poye",
       "url": "https://open.spotify.com/track/5Pn2hVl721GNQDwIE0pPXx"

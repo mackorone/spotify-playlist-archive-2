@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,169 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,165 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 15 | [higher](https://open.spotify.com/track/1w7bubiEhXQJXzlK3luqnh) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [higher](https://open.spotify.com/album/6GdriEV8mveuABwOOiVERK) | 3:34 |
 | 16 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 |
 | 17 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
-| 18 | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY) | 3:04 |
+| 18 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
 | 19 | [Midlife](https://open.spotify.com/track/0fLMs28eQX76eybdcskUYi) | [Yusuke Saint Laurent](https://open.spotify.com/artist/7xTliLH8uU8A0jttkKIMrD), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Midlife](https://open.spotify.com/album/6h44mDaGJoxqpTkgABzbzO) | 3:21 |
-| 20 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 |
+| 20 | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY) | 3:04 |
 | 21 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 |
 | 22 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 |
 | 23 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 |

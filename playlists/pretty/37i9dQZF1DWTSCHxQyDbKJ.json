@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: Honey Dijon",
-  "num_followers": 34318,
+  "num_followers": 34314,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "In Limerence",
-        "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Of Amber",
-      "url": "https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml"
-    },
-    {
-      "added_at": "2026-04-13 23:00:26",
-      "album": {
         "name": "Itty Bitty",
         "url": "https://open.spotify.com/album/643BQNY1GhGw8Z2KnFpK1J"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 162000,
       "name": "Itty Bitty",
       "url": "https://open.spotify.com/track/4LRYOdTr96bLdmw3bEwbBi"
+    },
+    {
+      "added_at": "2026-04-13 23:00:26",
+      "album": {
+        "name": "In Limerence",
+        "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Of Amber",
+      "url": "https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml"
     },
     {
       "added_at": "2026-04-13 23:00:26",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "Hex So Heavy",
-        "url": "https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4"
-      },
-      "artists": [
-        {
-          "name": "Bambie Thug",
-          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Hex So Heavy",
-      "url": "https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb"
-    },
-    {
-      "added_at": "2026-04-13 23:00:26",
-      "album": {
         "name": "Focus Is Power",
         "url": "https://open.spotify.com/album/5fMeoQB68BWbz9gP2Y9WDg"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 186129,
       "name": "Dudu",
       "url": "https://open.spotify.com/track/1jQlSkOq1gA8GWnLF3RV0H"
+    },
+    {
+      "added_at": "2026-04-13 23:00:26",
+      "album": {
+        "name": "Hex So Heavy",
+        "url": "https://open.spotify.com/album/4lMUdnfOb3Aq0wIHoxhHy4"
+      },
+      "artists": [
+        {
+          "name": "Bambie Thug",
+          "url": "https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Hex So Heavy",
+      "url": "https://open.spotify.com/track/7mH4bjq5xH7V154h2wOwwb"
     },
     {
       "added_at": "2026-04-13 23:00:26",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "praxis",
-        "url": "https://open.spotify.com/album/1sqkJvjTXFUNKzwM7pHKn0"
-      },
-      "artists": [
-        {
-          "name": "Lauren Auder",
-          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
-        }
-      ],
-      "duration_ms": 208071,
-      "name": "praxis",
-      "url": "https://open.spotify.com/track/7CtGaE9FYeSi0YyOo7TNxm"
-    },
-    {
-      "added_at": "2026-04-13 23:00:26",
-      "album": {
         "name": "Good Boy",
         "url": "https://open.spotify.com/album/5PXtIa4H7ymk17uflkzdKs"
       },
@@ -1059,6 +1043,38 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
+        "name": "praxis",
+        "url": "https://open.spotify.com/album/1sqkJvjTXFUNKzwM7pHKn0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "duration_ms": 208071,
+      "name": "praxis",
+      "url": "https://open.spotify.com/track/7CtGaE9FYeSi0YyOo7TNxm"
+    },
+    {
+      "added_at": "2026-04-13 23:00:26",
+      "album": {
+        "name": "Wahoo",
+        "url": "https://open.spotify.com/album/1yodVXT8eKIzvq84OsKtoq"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "duration_ms": 125400,
+      "name": "Wahoo",
+      "url": "https://open.spotify.com/track/4jIv2SOIG8cMTPu5qdmT6a"
+    },
+    {
+      "added_at": "2026-04-13 23:00:26",
+      "album": {
         "name": "Ever New",
         "url": "https://open.spotify.com/album/2SOtQJ5vNtbbkQizTdqnEO"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "Wahoo",
-        "url": "https://open.spotify.com/album/1yodVXT8eKIzvq84OsKtoq"
+        "name": "ACT ALIVE",
+        "url": "https://open.spotify.com/album/13ayQoD69KCSMRFSqo9u0a"
       },
       "artists": [
         {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+          "name": "emily jeffri",
+          "url": "https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK"
         }
       ],
-      "duration_ms": 125400,
-      "name": "Wahoo",
-      "url": "https://open.spotify.com/track/4jIv2SOIG8cMTPu5qdmT6a"
+      "duration_ms": 252652,
+      "name": "ACT ALIVE",
+      "url": "https://open.spotify.com/track/2z08ys8zu7XBd6WxM5QcC4"
     },
     {
       "added_at": "2026-04-13 23:00:26",
@@ -1127,22 +1143,6 @@
       "duration_ms": 264591,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3G1RtodEV0bvOHjlct2Ein"
-    },
-    {
-      "added_at": "2026-04-13 23:00:26",
-      "album": {
-        "name": "ACT ALIVE",
-        "url": "https://open.spotify.com/album/13ayQoD69KCSMRFSqo9u0a"
-      },
-      "artists": [
-        {
-          "name": "emily jeffri",
-          "url": "https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK"
-        }
-      ],
-      "duration_ms": 252652,
-      "name": "ACT ALIVE",
-      "url": "https://open.spotify.com/track/2z08ys8zu7XBd6WxM5QcC4"
     },
     {
       "added_at": "2026-04-13 23:00:26",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "Now What?",
-        "url": "https://open.spotify.com/album/2VJPkqUnyeB2xCYa4nikN7"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 193443,
-      "name": "Now What?",
-      "url": "https://open.spotify.com/track/5RgjWYlNS1LMonnWdE9yd1"
-    },
-    {
-      "added_at": "2026-04-13 23:00:26",
-      "album": {
         "name": "This World Fucking Sucks",
         "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 65519,
       "name": "Sex Metal",
       "url": "https://open.spotify.com/track/5OVGnTQ1sQDnb00RmQWkBw"
+    },
+    {
+      "added_at": "2026-04-13 23:00:26",
+      "album": {
+        "name": "Now What?",
+        "url": "https://open.spotify.com/album/2VJPkqUnyeB2xCYa4nikN7"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 193443,
+      "name": "Now What?",
+      "url": "https://open.spotify.com/track/5RgjWYlNS1LMonnWdE9yd1"
     },
     {
       "added_at": "2026-04-13 23:00:26",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "The Hit",
-        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "The Hit",
-      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
-    },
-    {
-      "added_at": "2026-04-13 23:00:26",
-      "album": {
         "name": "2 Year Itch",
         "url": "https://open.spotify.com/album/1ZhtlKn7oUMdKBkQ5njhKl"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 165068,
       "name": "2 Year Itch",
       "url": "https://open.spotify.com/track/5tIOc6GbyGRnSNCfpTNUPg"
+    },
+    {
+      "added_at": "2026-04-13 23:00:26",
+      "album": {
+        "name": "The Hit",
+        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "The Hit",
+      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
     },
     {
       "added_at": "2026-04-13 23:00:26",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "I Wantchu",
-        "url": "https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6"
-      },
-      "artists": [
-        {
-          "name": "Ray Laur\u00e9l",
-          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
-        }
-      ],
-      "duration_ms": 170549,
-      "name": "I Wantchu",
-      "url": "https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn"
-    },
-    {
-      "added_at": "2026-04-13 23:00:26",
-      "album": {
         "name": "LOZEAK",
         "url": "https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 130772,
       "name": "C'MON",
       "url": "https://open.spotify.com/track/2aRM1BlAXZgMulkRBhj7py"
+    },
+    {
+      "added_at": "2026-04-13 23:00:26",
+      "album": {
+        "name": "I Wantchu",
+        "url": "https://open.spotify.com/album/0iMPteFFgQ5vdyayRjpIE6"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "duration_ms": 170549,
+      "name": "I Wantchu",
+      "url": "https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn"
     },
     {
       "added_at": "2026-04-13 23:00:26",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-04-13 23:00:26",
       "album": {
-        "name": "Cabin Fever",
-        "url": "https://open.spotify.com/album/724Umpj2VEH5ZAACzQMEAc"
-      },
-      "artists": [
-        {
-          "name": "Tom Aspaul",
-          "url": "https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54"
-        }
-      ],
-      "duration_ms": 244131,
-      "name": "Going To My Head",
-      "url": "https://open.spotify.com/track/5VT6K1GoBmMLkySKljNcZx"
-    },
-    {
-      "added_at": "2026-04-13 23:00:26",
-      "album": {
         "name": "Isn't he pretty",
         "url": "https://open.spotify.com/album/4qOvuUumGNpB3CYasKlXPF"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 175941,
       "name": "Isn't he pretty",
       "url": "https://open.spotify.com/track/2P3CDEQ033ZBdFFhRyB3Jj"
+    },
+    {
+      "added_at": "2026-04-13 23:00:26",
+      "album": {
+        "name": "Cabin Fever",
+        "url": "https://open.spotify.com/album/724Umpj2VEH5ZAACzQMEAc"
+      },
+      "artists": [
+        {
+          "name": "Tom Aspaul",
+          "url": "https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54"
+        }
+      ],
+      "duration_ms": 244131,
+      "name": "Going To My Head",
+      "url": "https://open.spotify.com/track/5VT6K1GoBmMLkySKljNcZx"
     },
     {
       "added_at": "2026-04-13 23:00:26",

@@ -4,7 +4,7 @@
 
 > 📸 LA JOAQUI
 
-313 songs - 14 hr 13 min
+314 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [JINETE RKT](https://open.spotify.com/track/0WeJx4ct4VORWWfqp6iIZO) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [MEGA CALLEJERO FINO RKT 2](https://open.spotify.com/album/2bRlrx3pm1XGG13WnMWsbm) | 2:16 | 2026-02-13 | 2026-04-25 |
 | [KALEB DI MASI \| DJ TAO Turreo Sessions \#5](https://open.spotify.com/track/6XBOH2Zzs2lzAEYdDagApH) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [KALEB DI MASI \| DJ TAO Turreo Sessions \#5](https://open.spotify.com/album/6o3eo5zVgIzvhS53BrToO0) | 2:27 | 2023-12-15 | 2024-02-17 |
 | [KALEB DI MASI \| E12](https://open.spotify.com/track/10fiASgR8q70H1dUW9ZJvI) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [KALEB DI MASI \| E12](https://open.spotify.com/album/3vVYBlj9YHViHD78WDr0J1) | 2:17 | 2023-12-15 | 2024-01-13 |
+| [KAMIKASE](https://open.spotify.com/track/3GhEioUot3VQnz1UABz1LF) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [ELECTRA](https://open.spotify.com/album/2x76fsMOyFDwjqVLSS7sKf) | 2:15 | 2026-05-29 |  |
 | [L\-GANTE \| DJ TAO Turreo Sessions \#10](https://open.spotify.com/track/5eIltO3A5tNzePrLn6EqT3) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-GANTE \| DJ TAO Turreo Sessions \#10](https://open.spotify.com/album/072Sq9kYEhIcUkwk6wB3LR) | 2:46 | 2023-12-15 | 2023-12-23 |
 | [La Chispa Es Una](https://open.spotify.com/track/7lLc3W3Yb2vGOrkuK0N0XH) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Alejo Isakk](https://open.spotify.com/artist/1e1IR2nfSPsCbCxZaYTulK), [Gusty dj](https://open.spotify.com/artist/6A6qNFh1bOIg8mYkz1IgNx) | [La Chispa Es Una](https://open.spotify.com/album/1NJUBPeIi31tnYEOBtsSnr) | 2:51 | 2023-12-15 | 2025-02-15 |
 | [La Gilera \- Remix](https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [La Gilera \(Remix\)](https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3) | 2:27 | 2023-12-15 | 2024-02-17 |

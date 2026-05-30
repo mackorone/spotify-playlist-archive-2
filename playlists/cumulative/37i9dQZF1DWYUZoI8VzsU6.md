@@ -2,14 +2,16 @@
 
 ### [GRAVEL](https://open.spotify.com/playlist/37i9dQZF1DWYUZoI8VzsU6)
 
-> back roads up loud with 49 Winchester
+> back roads up loud with Treaty Oak Revival and Dexter and the Moonrocks
 
-75 songs - 4 hr 10 min
+79 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [12 Steps \(feat\. Treaty Oak Revival\)](https://open.spotify.com/track/6RoaWAoHb5KxdBXUlzx6ls) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT), [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [12 Steps](https://open.spotify.com/album/1aMq6S4AtfLlzrvKGkXdHp) | 3:11 | 2026-05-29 |  |
 | [5AM](https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [5AM](https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu) | 3:07 | 2025-09-05 |  |
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2025-09-05 |  |
+| [Alive](https://open.spotify.com/track/1I2Qnoaa3r8vgRROa57Wim) | [LECADE](https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt) | [Alive](https://open.spotify.com/album/5c0L9DJDebZKVpfWMaXZCX) | 3:10 | 2026-05-29 |  |
 | [All Over Again](https://open.spotify.com/track/1u4dMSzBUN1oHPKQqnGrR5) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Change Of Plans](https://open.spotify.com/album/2B4mYUeondysGay1mXFm9M) | 3:56 | 2026-05-15 |  |
 | [Back in the Bottle](https://open.spotify.com/track/2wcCdp73IiOnFlQxPnmIMF) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [From Me](https://open.spotify.com/album/4xLZVz9xvzTqlfj3oFXgsZ) | 2:50 | 2025-09-05 |  |
 | [Bad Apple](https://open.spotify.com/track/0nyD5KLTR52cRcPKeewrvA) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Bad Apple](https://open.spotify.com/album/74lZWqJXIYUkuaWaxmv63f) | 2:39 | 2025-09-05 |  |
@@ -60,8 +62,10 @@
 | [Pieces](https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Turn Back Time](https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken) | 3:16 | 2025-09-05 |  |
 | [Power](https://open.spotify.com/track/0laZWY3EU8RYnJf4YnB2Fl) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Power](https://open.spotify.com/album/6ln8iXcLmyu9wJIUq5J7IS) | 2:43 | 2025-09-05 | 2026-02-21 |
 | [PSYCHO](https://open.spotify.com/track/6Ck9THD8AaqwNW5RYQd0RY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Quit!!](https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e) | 3:18 | 2025-09-05 |  |
+| [Rabbit Hole](https://open.spotify.com/track/3uvbS1Zckk8ZnHEfYcnDPx) | [Will Slater](https://open.spotify.com/artist/1yxkDgfBfLB58FnsUUexpD) | [Rabbit Hole](https://open.spotify.com/album/0lj6XoHKchGVYWKH6NabCJ) | 4:04 | 2026-05-29 |  |
 | [Rattlesnake Preacher](https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Rattlesnake Preacher](https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj) | 3:55 | 2025-09-05 |  |
 | [Relapse](https://open.spotify.com/track/78DcrUOhBhVod09vFiXn7P) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Relapse](https://open.spotify.com/album/6qjHXAoCQWAwOwOCjdSvEN) | 2:38 | 2025-09-05 |  |
+| [Ride](https://open.spotify.com/track/53VPFVW3aLdNlb4gNetXwS) | [Fox N' Vead](https://open.spotify.com/artist/6b2SGANlOJdvJ9imgsVrSm) | [Ride](https://open.spotify.com/album/7G36cofedpDe1Y5JvuAvnw) | 3:18 | 2026-05-29 |  |
 | [ROCK BOTTOM](https://open.spotify.com/track/0jZFZA3lTGL5SM3GEgNGSy) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [KINDA HARD](https://open.spotify.com/album/6bJif35DxJzpXob5HfMzqU) | 2:47 | 2026-04-10 |  |
 | [Run From You](https://open.spotify.com/track/0MFkks40clRTBU42zqzUrq) | [Logan Jahnke](https://open.spotify.com/artist/7lTjwioILltF3hqmn6BjNg) | [Run From You](https://open.spotify.com/album/4JvobFBALQHpzPXpoTfnfv) | 3:26 | 2025-11-07 |  |
 | [Run Your Mouth](https://open.spotify.com/track/5btUPeXrdG4Es05Q1p5aaT) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 2:40 | 2025-09-05 |  |

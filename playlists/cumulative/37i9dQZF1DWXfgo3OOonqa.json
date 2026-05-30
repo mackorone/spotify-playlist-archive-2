@@ -38323,6 +38323,28 @@
     },
     {
       "album": {
+        "name": "STOPPA V\u00c5LDET",
+        "url": "https://open.spotify.com/album/1OAr7fYis97uejfRp1Ux9P"
+      },
+      "artists": [
+        {
+          "name": "DR",
+          "url": "https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA"
+        },
+        {
+          "name": "TUTTOLENTE",
+          "url": "https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130204,
+      "name": "STOPPA V\u00c5LDET",
+      "url": "https://open.spotify.com/track/2Vm2eQD2gdhXte4tdkm3ig"
+    },
+    {
+      "album": {
         "name": "STORA",
         "url": "https://open.spotify.com/album/0T6UxQCTWiu0mTPwjB9orO"
       },

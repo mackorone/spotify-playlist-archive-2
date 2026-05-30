@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 155526,
       "name": "Ay Chula",
       "url": "https://open.spotify.com/track/0FHwDxxUPwKFJcbxzLhi4k"
@@ -1402,6 +1402,28 @@
       "duration_ms": 149072,
       "name": "Bubal\u00fa",
       "url": "https://open.spotify.com/track/3hjbhI7IdDEaCrhDBVegXs"
+    },
+    {
+      "album": {
+        "name": "Buenos D\u00edas",
+        "url": "https://open.spotify.com/album/0TgJxgcT29noMqe6Sfb9Mo"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150919,
+      "name": "Buenos D\u00edas",
+      "url": "https://open.spotify.com/track/6p7Rm3K2kuPk7dhC3LzvSx"
     },
     {
       "album": {

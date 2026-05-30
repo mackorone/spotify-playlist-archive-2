@@ -1861,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "another day",
+        "url": "https://open.spotify.com/album/4tDNa6XxGzivgOk5L15PlZ"
+      },
+      "artists": [
+        {
+          "name": "afk",
+          "url": "https://open.spotify.com/artist/29Xl84PNW154iIVrdVe2mN"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "another day",
+      "url": "https://open.spotify.com/track/1DiwLXhMPO4oMAMbvdfGlE"
+    },
+    {
+      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/7uEbuJiST2zxb1CVmGD7ZF"
       },
@@ -33476,6 +33494,24 @@
       "duration_ms": 178285,
       "name": "Stems",
       "url": "https://open.spotify.com/track/71rmPrXb2YJnDP0IwtSksf"
+    },
+    {
+      "album": {
+        "name": "still frames",
+        "url": "https://open.spotify.com/album/2wvJP6YwsUH8jBXeyLpQqC"
+      },
+      "artists": [
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "still frames",
+      "url": "https://open.spotify.com/track/5Mmf7AGKb276vcWTcLxxML"
     },
     {
       "album": {

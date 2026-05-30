@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1980s. Cover: Michael Jackson",
-  "num_followers": 11950915,
+  "num_followers": 11952218,
   "original_name": "All Out 80s",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 159313,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 159313,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "The Age of Consent",
         "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
       },
@@ -611,6 +611,22 @@
       "duration_ms": 302413,
       "name": "Smalltown Boy",
       "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -631,18 +647,18 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
       },
       "artists": [
         {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
+      "duration_ms": 339018,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -675,22 +691,6 @@
       "duration_ms": 249293,
       "name": "Livin' On A Prayer",
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 339018,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
+        "name": "The Very Best of Billy Ocean",
+        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Caribbean Queen (No More Love On the Run)",
+      "url": "https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/5FfkiNcXAvagExRCLd8nn4"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 221840,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
-        "name": "Bad Animals",
-        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "The Very Best of Billy Ocean",
-        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
+        "name": "Bad Animals",
+        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
       },
       "artists": [
         {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 244426,
-      "name": "Caribbean Queen (No More Love On the Run)",
-      "url": "https://open.spotify.com/track/4JEylZNW8SbO4zUyfVrpb7"
+      "duration_ms": 218733,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -1431,22 +1415,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Chicago 17 (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 229240,
-      "name": "You're the Inspiration - 2006 Remaster",
-      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -1459,6 +1427,38 @@
       "duration_ms": 178360,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "Chicago 17 (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "You're the Inspiration - 2006 Remaster",
+      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "Top Gun - Motion Picture Soundtrack (Special Expanded Edition)",
         "url": "https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Arthur - The Album [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
       },
       "artists": [
         {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 234493,
-      "name": "Arthur's Theme (Best That You Can Do)",
-      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -1671,18 +1655,34 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Kick (Remastered 2011)",
-        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
+        "name": "Arthur - The Album [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
       },
       "artists": [
         {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 184586,
-      "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/1GjbTNFImFrjFsNdleDe78"
+      "duration_ms": 234493,
+      "name": "Arthur's Theme (Best That You Can Do)",
+      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "90125 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 268506,
+      "name": "Owner of a Lonely Heart",
+      "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
+        "name": "Kick (Remastered 2011)",
+        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/1GjbTNFImFrjFsNdleDe78"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 230269,
       "name": "Never Too Much",
       "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
-        "name": "90125 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 268506,
-      "name": "Owner of a Lonely Heart",
-      "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Rio (Collector's Edition)",
-        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 333306,
-      "name": "Save a Prayer - 2009 Remaster",
-      "url": "https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
@@ -2027,18 +2011,18 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "The Age Of Plastic",
-        "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
       },
       "artists": [
         {
-          "name": "The Buggles",
-          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
         }
       ],
-      "duration_ms": 252773,
-      "name": "Video Killed The Radio Star",
-      "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
+      "duration_ms": 333306,
+      "name": "Save a Prayer - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -2055,6 +2039,22 @@
       "duration_ms": 289853,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/1mskmld5ZKEhRaNvYVPoqZ"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "The Age Of Plastic",
+        "url": "https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ"
+      },
+      "artists": [
+        {
+          "name": "The Buggles",
+          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Video Killed The Radio Star",
+      "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "A Kind Of Magic (2011 Remaster)",
-        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "A Kind Of Magic - Remastered 2011",
-      "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 212226,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "A Kind Of Magic (2011 Remaster)",
+        "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "A Kind Of Magic - Remastered 2011",
+      "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
     },
     {
       "added_at": "2026-04-29 17:50:01",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2026-04-29 17:50:01",
       "album": {
-        "name": "Zenyatta Mondatta (Remastered 2003)",
-        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Don't Stand So Close To Me",
-      "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
-    },
-    {
-      "added_at": "2026-04-29 17:50:01",
-      "album": {
         "name": "Love Will Tear Us Apart",
         "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 208453,
       "name": "Love Will Tear Us Apart - 2020 Remaster",
       "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
+    },
+    {
+      "added_at": "2026-04-29 17:50:01",
+      "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Don't Stand So Close To Me",
+      "url": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
     },
     {
       "added_at": "2026-04-29 17:50:01",

@@ -488,7 +488,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 206284,
       "name": "A Perfect Dive",
       "url": "https://open.spotify.com/track/3DE7ETgAaygz2s9EFzKehZ"
@@ -2240,7 +2240,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
@@ -4305,6 +4305,24 @@
     },
     {
       "album": {
+        "name": "carry you",
+        "url": "https://open.spotify.com/album/2XigGzkUuDj5NlGsOslBgC"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206326,
+      "name": "carry you",
+      "url": "https://open.spotify.com/track/4wCti2HBhf5xYrF1LukEFl"
+    },
+    {
+      "album": {
         "name": "CAT SONG",
         "url": "https://open.spotify.com/album/0Ow0gAfure6Dx90DAnahyw"
       },
@@ -4944,7 +4962,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 255241,
       "name": "Cold",
       "url": "https://open.spotify.com/track/7yHZbBzxRZ8Ijhfqo0hvNN"
@@ -6130,7 +6148,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 232790,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/2hzpbfjj9cVCSB1EeHKGXt"
@@ -6702,6 +6720,24 @@
       "duration_ms": 158568,
       "name": "dopamine",
       "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
+    },
+    {
+      "album": {
+        "name": "Down Debbie/Reservoir",
+        "url": "https://open.spotify.com/album/1kKx979DVgL3MNOA1F7G6v"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210918,
+      "name": "Down Debbie/Reservoir",
+      "url": "https://open.spotify.com/track/01M4zeod1IYrXGRSie9CmQ"
     },
     {
       "album": {
@@ -9305,6 +9341,24 @@
     },
     {
       "album": {
+        "name": "for love's sake",
+        "url": "https://open.spotify.com/album/6Gili2PS0vC97P5HIZRPJG"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194453,
+      "name": "for love's sake",
+      "url": "https://open.spotify.com/track/3bAoL5RpaXCs40ndVBsj54"
+    },
+    {
+      "album": {
         "name": "For Sale Sign (feat. Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
       },
@@ -10077,6 +10131,24 @@
     },
     {
       "album": {
+        "name": "Golden Hour (Piano Version)",
+        "url": "https://open.spotify.com/album/47x5pGAsg2SMoQdFpps9gf"
+      },
+      "artists": [
+        {
+          "name": "Al Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162720,
+      "name": "Golden Hour (Piano Version)",
+      "url": "https://open.spotify.com/track/0gSts5ozt6zk8JIrf1gfyW"
+    },
+    {
+      "album": {
         "name": "Gone (Away)",
         "url": "https://open.spotify.com/album/4vnVye9NBADjq2dYAinjMR"
       },
@@ -10106,7 +10178,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 206300,
       "name": "Gone - Cover",
       "url": "https://open.spotify.com/track/4vtykJQdJkHJfYxIUJP74K"
@@ -11938,7 +12010,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 185866,
       "name": "Hudson (feat. Lady Lamb)",
       "url": "https://open.spotify.com/track/4onZizmJw8YYgZXOjj9JK8"
@@ -12014,7 +12086,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 220926,
       "name": "Human Kind (ft. Tenille Townes)",
       "url": "https://open.spotify.com/track/1IP2Zb26WLB4J3KJN0Jvhi"
@@ -14430,7 +14502,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 196917,
       "name": "Lake Effect",
       "url": "https://open.spotify.com/track/1V57OlQHsUEePM47rxYjxQ"
@@ -21533,6 +21605,24 @@
     },
     {
       "album": {
+        "name": "Philadelphia's been good to me",
+        "url": "https://open.spotify.com/album/5AfELtBFbN1hM75hgqc7FI"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335650,
+      "name": "Rock o\u2019 Stone",
+      "url": "https://open.spotify.com/track/21CU5fG0Pp0LUbXRDG1d48"
+    },
+    {
+      "album": {
         "name": "Rolling Stone / New York",
         "url": "https://open.spotify.com/album/3FX5u4NRsdqBzG4D19yn4L"
       },
@@ -23821,6 +23911,24 @@
     },
     {
       "album": {
+        "name": "stand it",
+        "url": "https://open.spotify.com/album/3WqpayADgAkEADkV6ZTRjU"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246937,
+      "name": "stand it",
+      "url": "https://open.spotify.com/track/3DfaPuC2Lc3sCTPlB0NxV3"
+    },
+    {
+      "album": {
         "name": "Stand-Up Woman",
         "url": "https://open.spotify.com/album/5i3RXx1VMRSlNJ9fyvTuiV"
       },
@@ -24226,6 +24334,24 @@
       "duration_ms": 203830,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt"
+    },
+    {
+      "album": {
+        "name": "Suffer (Acoustic)",
+        "url": "https://open.spotify.com/album/6WZXlXqoUxQHPlAo1CkYJQ"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233796,
+      "name": "Suffer - Acoustic",
+      "url": "https://open.spotify.com/track/0lTBDl2MgnJcpwoeqgYIPy"
     },
     {
       "album": {
@@ -25894,6 +26020,24 @@
       "duration_ms": 196210,
       "name": "The Mountain Is You",
       "url": "https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa"
+    },
+    {
+      "album": {
+        "name": "The Nameless",
+        "url": "https://open.spotify.com/album/4TFcXa3jbX5jb6Co8KOhZJ"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153626,
+      "name": "The Nameless",
+      "url": "https://open.spotify.com/track/6MYTjhbJu3vmQJnO031Qpj"
     },
     {
       "album": {

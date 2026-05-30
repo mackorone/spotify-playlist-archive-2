@@ -4,7 +4,7 @@
 
 > indie folk latino de estación\. Foto: Gepe y Macario Martínez
 
-369 songs - 20 hr 11 min
+369 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Como una Ola](https://open.spotify.com/track/3Vf1VfLg0RbY7pXF6s6tdL) | [Inbal Comedi](https://open.spotify.com/artist/3TXSj7UeT47TDTYwnr9RnV) | [Como una Ola](https://open.spotify.com/album/4nYNOMkB5h9IkZE2qOywHL) | 3:52 | 2025-09-05 |  |
 | [complikado](https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [complikado](https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp) | 2:58 | 2022-11-11 | 2023-10-07 |
 | [Conciencia Universal](https://open.spotify.com/track/7sL5ZqHuvdxvPwLrFcPBIk) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK) | [AUTOERÓTICA](https://open.spotify.com/album/10gpZUC8ob0G5jbU3lKxtA) | 2:24 | 2022-05-20 | 2022-08-27 |
+| [Conjuro \- Live](https://open.spotify.com/track/2BT1hrRCaxCKYFzQlAx7MY) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Serenata para construir un Refugio \(Live\)](https://open.spotify.com/album/5Oye9uOYPu7dQyrTDt12qd) | 1:41 | 2026-05-29 |  |
 | [Coquimbo, Mazatlán](https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Coquimbo, Mazatlán](https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd) | 4:24 | 2022-07-15 | 2025-11-29 |
 | [Corazón](https://open.spotify.com/track/57druALZuNFipo15C2uiHQ) | [Imaina](https://open.spotify.com/artist/2LCUXnW5e5TubrF6OJJwCu) | [Corazón](https://open.spotify.com/album/4TmwigR6q4r2S26W1McDed) | 3:18 | 2022-05-20 | 2023-05-20 |
 | [Corazón](https://open.spotify.com/track/0aeHXi14tu9wCtOth0lLH6) | [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Sofía Viola y la Muchacha, Vol\. 1](https://open.spotify.com/album/2TyyYkOUt0IbdZfswuzee0) | 3:02 | 2026-05-22 |  |
@@ -329,7 +330,6 @@
 | [Todo el Día Loca](https://open.spotify.com/track/6nJrZQb9Dti8Y3DpiSupev) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV) | [Puro](https://open.spotify.com/album/1tU0V696ITlDOgDtljYvle) | 2:58 | 2022-05-20 | 2023-04-09 |
 | [todo es luz](https://open.spotify.com/track/1ShA7GuWcYnxrKuwXxilqF) | [Franco Masciarelli](https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c), [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [todo es luz](https://open.spotify.com/album/7vWQ4mxTjNwxFhSCawpTeG) | 4:13 | 2025-07-18 |  |
 | [Todo me sabe a poco](https://open.spotify.com/track/1QwPlQPqx4CiYdGJSTi1EV) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Tiene que haber algo más](https://open.spotify.com/album/5ZqvS6ksJXcWljAPsp9Slt) | 2:52 | 2022-05-20 | 2023-04-15 |
-| [Track 3](https://open.spotify.com/track/2BT1hrRCaxCKYFzQlAx7MY) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Serenata para construir un Refugio \(Live\)](https://open.spotify.com/album/5Oye9uOYPu7dQyrTDt12qd) | 0:00 | 2026-05-29 |  |
 | [Track Track](https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Track](https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL) | 3:24 | 2023-04-07 | 2026-05-29 |
 | [Trance](https://open.spotify.com/track/6DLb7WbfYJmIu2f40B9G4T) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Trance](https://open.spotify.com/album/52vCupeM1LskVDxdpwuiXQ) | 4:01 | 2024-10-25 |  |
 | [trece](https://open.spotify.com/track/7gFN7bu7EW7jNXKHDrKfHd) | [tommy 3 balas](https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL) | [trece](https://open.spotify.com/album/7HXSoYe3CcsYWsDwBFTnwZ) | 2:52 | 2022-05-20 | 2023-03-10 |

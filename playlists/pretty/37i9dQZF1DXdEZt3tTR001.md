@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,113 likes - 80 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,153 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 18 | [FEELING](https://open.spotify.com/track/0BN0HM9843jRNM8r8EcoVa) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [FEELING](https://open.spotify.com/album/4Xv9Czp6iMZrB4clfWf8Tk) | 4:20 |
 | 19 | [The Sweetest Taboo](https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 4:37 |
 | 20 | [Stronger Than Me](https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:34 |
-| 21 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 |
-| 22 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
+| 21 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
+| 22 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 |
 | 23 | [Weak](https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:51 |
 | 24 | [Girl](https://open.spotify.com/track/08fPZ0IIoPCDIodw3J2LMi) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Girl](https://open.spotify.com/album/2gWZJlucbSEUyCS1FaXeuq) | 3:24 |
 | 25 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 39 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 |
 | 40 | [To Zion \(feat\. Carlos Santana\)](https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 6:09 |
 | 41 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 |
-| 42 | [Sweet Love](https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:26 |
-| 43 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 |
+| 42 | [Any Time, Any Place](https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 7:08 |
+| 43 | [Sweet Love](https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:26 |
 | 44 | [Closer](https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7) | [Goapele](https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq) | [Even Closer](https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw) | 3:49 |
 | 45 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
 | 46 | [What a Difference a Day Makes \(from the Netflix Limited Series "Black Rabbit"\)](https://open.spotify.com/track/1cq6HORyFRru04fKA5PJ5Z) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [What a Difference a Day Makes \(from the Netflix Limited Series "Black Rabbit"\)](https://open.spotify.com/album/3GKIxiQ8p5H77TPsK2TZ0l) | 4:21 |
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 56 | [What You Need](https://open.spotify.com/track/7IpDQcksaT8SxS7vOX4SRm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 3:16 |
 | 57 | [Inside My Love](https://open.spotify.com/track/7yngji6ogBXvAJdeOSBHAP) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Adventures In Paradise](https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX) | 4:48 |
 | 58 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
-| 59 | [Sisters With Me](https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Sisters With Me](https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP) | 4:04 |
+| 59 | [Folded \(Live\) \- Spotify Live Room](https://open.spotify.com/track/7wokbzrXvMh3dJvSjkuW73) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded \(Live\) \- Spotify Live Room](https://open.spotify.com/album/64AUAPx8kVRTuBO16NDUWN) | 4:02 |
 | 60 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 |
-| 61 | [Folded \(Live\) \- Spotify Live Room](https://open.spotify.com/track/7wokbzrXvMh3dJvSjkuW73) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded \(Live\) \- Spotify Live Room](https://open.spotify.com/album/64AUAPx8kVRTuBO16NDUWN) | 4:02 |
+| 61 | [Sisters With Me](https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Sisters With Me](https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP) | 4:04 |
 | 62 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
 | 63 | [Doctrine of Love](https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l) | 3:20 |
 | 64 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 67 | [By Your Side \(Neptunes Remix\) \- Remastered](https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:59 |
 | 68 | [\(un\)Folded](https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [\(un\)Folded](https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw) | 4:46 |
 | 69 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 |
-| 70 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 |
-| 71 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 |
+| 70 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 |
+| 71 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 |
 | 72 | [Bloom \(feat\. Strings From Paris\)](https://open.spotify.com/track/1zmm0RJr87jNbbLR08eaLV) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bloom \(feat\. Strings From Paris\)](https://open.spotify.com/album/06hyNaRnnj4Byzh8IqyZQW) | 3:19 |
 | 73 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
 | 74 | ["You hate Jazz?"](https://open.spotify.com/track/3tq1hLwEtiAJ7Cr9ghjshV) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | ["You hate Jazz?"](https://open.spotify.com/album/6JgmJqUrH4dlIHuwu2e6YF) | 2:40 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 77 | [I Had a Dream She Took My Hand](https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [I Had a Dream She Took My Hand](https://open.spotify.com/album/4ApSI95sRstVtU1UA6Fxkw) | 3:40 |
 | 78 | [Free](https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 5:56 |
 | 79 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
-| 80 | [Yellow Eyes](https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Yellow Eyes](https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL) | 2:42 |
+| 80 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
 
-Snapshot ID: `AAAAACmDuvPH/0P0SbcQmw11J78qAUFX`
+Snapshot ID: `AAAAAHi0j5dVqR657yXCU2Wn+/2ehCRS`

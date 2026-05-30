@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. El Coyote y Su Banda Tierra Santa en portada \ud83d\udcf8",
+  "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Los 2 de la S en portada \ud83d\udcf8",
   "name": "Banda Rom\u00e1ntica",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188471,
       "name": "365",
       "url": "https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ"
@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Tu Ex Amigo",
+        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202416,
+      "name": "Amor (Bonus Track)",
+      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
+    },
+    {
+      "album": {
         "name": "Entre Dios y El Diablo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
       },
@@ -406,6 +424,28 @@
       "duration_ms": 203816,
       "name": "Amorcito M\u00edo - Live",
       "url": "https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC"
+    },
+    {
+      "album": {
+        "name": "Aprendi la lecci\u00f3n",
+        "url": "https://open.spotify.com/album/2gKLdULUWctb0JSPkZofpI"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        },
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178808,
+      "name": "Aprendi la lecci\u00f3n",
+      "url": "https://open.spotify.com/track/5jfkYc3IyXwbtFnIpB9una"
     },
     {
       "album": {
@@ -810,6 +850,24 @@
       "duration_ms": 187822,
       "name": "Caso Perdido",
       "url": "https://open.spotify.com/track/22sGlWHrJfScxPwCd26S2z"
+    },
+    {
+      "album": {
+        "name": "Celos",
+        "url": "https://open.spotify.com/album/6earVwRvnJfEkdJtx9G5oj"
+      },
+      "artists": [
+        {
+          "name": "Francisco El Gallo Elizalde",
+          "url": "https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196405,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/0KEym4CJmghhtnTbcS3p9i"
     },
     {
       "album": {
@@ -2886,7 +2944,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188586,
       "name": "Mi Meta Contigo",
       "url": "https://open.spotify.com/track/1OGze4EM0gQ8NNrtdVLCf1"
@@ -3468,7 +3526,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 180750,
       "name": "Ojos Cerrados",
       "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
@@ -4178,6 +4236,24 @@
       "duration_ms": 185272,
       "name": "Sabes Qu\u00e9 Hora Es",
       "url": "https://open.spotify.com/track/1EXdUMG8lSW7DDdC4NQjri"
+    },
+    {
+      "album": {
+        "name": "Se Busca Plebita",
+        "url": "https://open.spotify.com/album/2sqpCovDDnDfAL7Xay4CCs"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153085,
+      "name": "Se Busca Plebita",
+      "url": "https://open.spotify.com/track/6X7JlF95S3VBlAv1YxWNTU"
     },
     {
       "album": {
@@ -5198,7 +5274,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 220000,
       "name": "Tu Eterno Enamorado",
       "url": "https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P"
@@ -5310,7 +5386,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 246131,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/1nLs8r6K4YN0avBwUmmTnr"
@@ -5372,6 +5448,28 @@
       "duration_ms": 263100,
       "name": "T\u00fa - En Vivo",
       "url": "https://open.spotify.com/track/25nTvCyHzlMp3bizueut5U"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Ni En Cuenta",
+        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203801,
+      "name": "T\u00fa Ni En Cuenta",
+      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
     },
     {
       "album": {

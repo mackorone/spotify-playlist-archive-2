@@ -2595,6 +2595,32 @@
     },
     {
       "album": {
+        "name": "ELECTRA",
+        "url": "https://open.spotify.com/album/2x76fsMOyFDwjqVLSS7sKf"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135157,
+      "name": "KAMIKASE",
+      "url": "https://open.spotify.com/track/3GhEioUot3VQnz1UABz1LF"
+    },
+    {
+      "album": {
         "name": "L-GANTE | DJ TAO Turreo Sessions #10",
         "url": "https://open.spotify.com/album/072Sq9kYEhIcUkwk6wB3LR"
       },

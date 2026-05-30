@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 222301,
+  "num_followers": 222307,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -1347,6 +1347,30 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
+        "name": "Sibelius: Violin Concerto; Prokofiev: Violin Concerto No. 1",
+        "url": "https://open.spotify.com/album/0fJXrHy6ehWMoxSlHuguF2"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Janine Jansen",
+          "url": "https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We"
+        },
+        {
+          "name": "Klaus M\u00e4kel\u00e4",
+          "url": "https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE"
+        }
+      ],
+      "duration_ms": 47760,
+      "name": "Water Drops, JS 216",
+      "url": "https://open.spotify.com/track/0Lmnw6Rc0lCMup7rQ2nRMY"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
         "name": "Mozart: Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
         "url": "https://open.spotify.com/album/5GymNwQR1TLH6HoYcuLAeT"
       },
@@ -1371,30 +1395,6 @@
       "duration_ms": 425466,
       "name": "Oboe Concerto in C Major, K. 314: II. Adagio non troppo",
       "url": "https://open.spotify.com/track/39Msge9Ii3X14GUuoAjdfk"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
-        "name": "Sibelius: Violin Concerto; Prokofiev: Violin Concerto No. 1",
-        "url": "https://open.spotify.com/album/0fJXrHy6ehWMoxSlHuguF2"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Janine Jansen",
-          "url": "https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We"
-        },
-        {
-          "name": "Klaus M\u00e4kel\u00e4",
-          "url": "https://open.spotify.com/artist/6iGHnrxEjBwhHsZ65HVUiE"
-        }
-      ],
-      "duration_ms": 47760,
-      "name": "Water Drops, JS 216",
-      "url": "https://open.spotify.com/track/0Lmnw6Rc0lCMup7rQ2nRMY"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Letter(s) to Erik Satie - Gymnop\u00e9dies: No. 3, Lent et grave",
-        "url": "https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
-        }
-      ],
-      "duration_ms": 150493,
-      "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
-      "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
         "name": "Sing Gently",
         "url": "https://open.spotify.com/album/55TGl3eLHEOV5Mkf2ekEQY"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 225235,
       "name": "Sing Gently",
       "url": "https://open.spotify.com/track/1inuj7hFiczkKp8yNmnRLr"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
+        "name": "Letter(s) to Erik Satie - Gymnop\u00e9dies: No. 3, Lent et grave",
+        "url": "https://open.spotify.com/album/5j1PKQbhDMs0LpUvwxK2Hd"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 150493,
+      "name": "Satie: 3 Gymnop\u00e9dies: No. 3, Lent et grave",
+      "url": "https://open.spotify.com/track/4b1ZzDtdGeDpXaPw4DViZ8"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
-        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
-      },
-      "artists": [
-        {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
-        },
-        {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
-        }
-      ],
-      "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
-      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
-    },
-    {
-      "added_at": "2026-05-22 04:00:51",
-      "album": {
         "name": "Pian Perduto",
         "url": "https://open.spotify.com/album/3FtdxPCdRpNGFNXPLrGPld"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 248725,
       "name": "Pian Perduto",
       "url": "https://open.spotify.com/track/6aYE1e0ZcLNS6aGOi0ExBM"
+    },
+    {
+      "added_at": "2026-05-22 04:00:51",
+      "album": {
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
+        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        }
+      ],
+      "duration_ms": 106320,
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
+      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -1999,8 +1999,8 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "She moved through the fair",
-        "url": "https://open.spotify.com/album/6DhrJ0s37p4uEQOXBRnGVO"
+        "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
+        "url": "https://open.spotify.com/album/4AySC6MJDEh6V5P4tv0LkX"
       },
       "artists": [
         {
@@ -2008,25 +2008,17 @@
           "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+          "name": "Carlos Simon",
+          "url": "https://open.spotify.com/artist/25U2MSksQUgokSJw5snr9G"
         },
         {
-          "name": "Manchester Camerata",
-          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
-        },
-        {
-          "name": "Jonathan Martindale",
-          "url": "https://open.spotify.com/artist/18Y0b09Zv3QIEoRBMCxZNX"
-        },
-        {
-          "name": "Lauren Scott",
-          "url": "https://open.spotify.com/artist/0Vq8DEWnKp1Z4SlfYxyQIa"
+          "name": "Randall Goosby",
+          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
         }
       ],
-      "duration_ms": 138146,
-      "name": "She Moved Through the Fair (Arr. for Flute, Violin, Harp & Orchestra by John Rutter)",
-      "url": "https://open.spotify.com/track/7nlbtYFtUBCJ82EjAIHGRR"
+      "duration_ms": 221400,
+      "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
+      "url": "https://open.spotify.com/track/4meHYHQ6Q41udKUmk6tNCe"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -2107,8 +2099,8 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
-        "url": "https://open.spotify.com/album/4AySC6MJDEh6V5P4tv0LkX"
+        "name": "She moved through the fair",
+        "url": "https://open.spotify.com/album/6DhrJ0s37p4uEQOXBRnGVO"
       },
       "artists": [
         {
@@ -2116,17 +2108,25 @@
           "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
-          "name": "Carlos Simon",
-          "url": "https://open.spotify.com/artist/25U2MSksQUgokSJw5snr9G"
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
         },
         {
-          "name": "Randall Goosby",
-          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
+          "name": "Manchester Camerata",
+          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
+        },
+        {
+          "name": "Jonathan Martindale",
+          "url": "https://open.spotify.com/artist/18Y0b09Zv3QIEoRBMCxZNX"
+        },
+        {
+          "name": "Lauren Scott",
+          "url": "https://open.spotify.com/artist/0Vq8DEWnKp1Z4SlfYxyQIa"
         }
       ],
-      "duration_ms": 221400,
-      "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
-      "url": "https://open.spotify.com/track/4meHYHQ6Q41udKUmk6tNCe"
+      "duration_ms": 138146,
+      "name": "She Moved Through the Fair (Arr. for Flute, Violin, Harp & Orchestra by John Rutter)",
+      "url": "https://open.spotify.com/track/7nlbtYFtUBCJ82EjAIHGRR"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -2523,34 +2523,26 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Danzi: Music for Clarinet & Orchestra",
-        "url": "https://open.spotify.com/album/3QXzf4f90yiUoQAKeXk8Ob"
+        "name": "Early One Morning",
+        "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
       },
       "artists": [
         {
-          "name": "Franz Danzi",
-          "url": "https://open.spotify.com/artist/6k3Ws6wp7iOp7lN7pxsfjT"
+          "name": "Oskar Merikanto",
+          "url": "https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd"
         },
         {
-          "name": "Eduard Brunner",
-          "url": "https://open.spotify.com/artist/1YZbTL8pA4Xe9Ha7V4tLBu"
+          "name": "Camerata Finlandia",
+          "url": "https://open.spotify.com/artist/5d50sz80VdFchQOw37sZ5w"
         },
         {
-          "name": "Klaus Thunemann",
-          "url": "https://open.spotify.com/artist/0HLqp813o9kv2t8JtVLH4a"
-        },
-        {
-          "name": "Munich Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/43CmLUkZNUzmvPNUhxeoSU"
-        },
-        {
-          "name": "Hans Stadlmair",
-          "url": "https://open.spotify.com/artist/2nSo5GklA6StFDLyVq0uEA"
+          "name": "Jorma Panula",
+          "url": "https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi"
         }
       ],
-      "duration_ms": 169000,
-      "name": "Concertino for Clarinet & Bassoon in B-Flat Major, Op. 47: II. Andante",
-      "url": "https://open.spotify.com/track/0L7jG253pjmPHAo2AREzXE"
+      "duration_ms": 78066,
+      "name": "Kesaillan idylli (Summer Night's Idyll), Op. 16, No. 2: Kesaillan idylli [Summer Night's Idyll] , Op. 16, No. 2 [arr. J. Panula]",
+      "url": "https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw"
     },
     {
       "added_at": "2026-05-22 04:00:51",
@@ -2575,26 +2567,22 @@
     {
       "added_at": "2026-05-22 04:00:51",
       "album": {
-        "name": "Early One Morning",
-        "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
+        "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
+        "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
       },
       "artists": [
         {
-          "name": "Oskar Merikanto",
-          "url": "https://open.spotify.com/artist/79AE2ZiBtN7Qbcbr5dGIwd"
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
         },
         {
-          "name": "Camerata Finlandia",
-          "url": "https://open.spotify.com/artist/5d50sz80VdFchQOw37sZ5w"
-        },
-        {
-          "name": "Jorma Panula",
-          "url": "https://open.spotify.com/artist/6F5qpnsKmlsYVbh8iB4TCi"
+          "name": "Matti Raekallio",
+          "url": "https://open.spotify.com/artist/0BP5X6U7xuiSDl0zpr9JQg"
         }
       ],
-      "duration_ms": 78066,
-      "name": "Kesaillan idylli (Summer Night's Idyll), Op. 16, No. 2: Kesaillan idylli [Summer Night's Idyll] , Op. 16, No. 2 [arr. J. Panula]",
-      "url": "https://open.spotify.com/track/2Y9DRm38cPNvXQn1sJ8Tnw"
+      "duration_ms": 244333,
+      "name": "Iphigenie en Aulide, Act II: Gavotte (Arr. J. Brahms)",
+      "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
     }
   ],
   "unique_name": "Creative Focus",

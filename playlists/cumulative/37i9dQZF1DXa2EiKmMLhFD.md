@@ -2,9 +2,9 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari enau, Ari Lesmana, Idigtaf, Sal Priadi, Bruno Mars serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari enau, Ari Lesmana, Idigtaf, Ariana Grande, Bruno Mars serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-390 songs - 1 day 0 hr 12 min
+391 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-10-27 | 2024-02-21 |
 | [Guilty as Sin?](https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:14 | 2024-05-09 | 2024-07-05 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-06 | 2025-05-17 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Hati\-Hati di Jalan](https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:02 | 2023-03-23 | 2023-06-28 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2023-03-23 | 2023-06-16 |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-06-01 | 2024-01-18 |
@@ -269,7 +270,7 @@
 | [Saat Kau Telah Mengerti](https://open.spotify.com/track/22k5lgD5F7Pc7BodEMzDrY) | [Virgoun](https://open.spotify.com/artist/4bAgr9zaF0bpzVGHdHuf0f) | [Saat Kau Telah Mengerti](https://open.spotify.com/album/2KhCqrXaLVeUNuB8FifMJj) | 4:50 | 2023-03-23 | 2024-02-23 |
 | [Sadrah](https://open.spotify.com/track/33UIshRVxXEBzITjCzo6al) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Sadrah](https://open.spotify.com/album/2w4AJncxdhdz2MIsBXgbyq) | 4:07 | 2025-03-21 |  |
 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 | 2024-02-22 | 2024-07-19 |
-| [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-03-06 |  |
+| [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-03-06 | 2026-05-30 |
 | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/track/2AWbMJ1zHlXiSIzT93VeZ4) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/album/6m3iOCDJ6F2jRM0suelfQZ) | 3:55 | 2025-11-07 | 2026-02-28 |
 | [Sampai Menutup Mata](https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sampai Menutup Mata](https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9) | 4:08 | 2024-09-13 | 2025-02-01 |
 | [Sang Dewi](https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sang Dewi](https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I) | 4:07 | 2023-03-23 | 2023-06-16 |

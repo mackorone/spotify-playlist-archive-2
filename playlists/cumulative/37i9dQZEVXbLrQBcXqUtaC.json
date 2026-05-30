@@ -8834,7 +8834,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 251305,
       "name": "Enta Be Damy",
       "url": "https://open.spotify.com/track/35mpZGgYviI4KXOeBQj2qO"
@@ -17844,7 +17844,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 235368,
       "name": "Maool",
       "url": "https://open.spotify.com/track/7GFPmRIpmI1qRym5wRtSjZ"
@@ -27284,7 +27284,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -27302,7 +27302,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -29360,6 +29360,28 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "album": {
+        "name": "TQBL Kol",
+        "url": "https://open.spotify.com/album/4EXIevpqmVT2Awt4a9zFHJ"
+      },
+      "artists": [
+        {
+          "name": "Hussain Ghazal",
+          "url": "https://open.spotify.com/artist/1dbZLkKMOFCuCouMiGfXXF"
+        },
+        {
+          "name": "\u062d\u0633\u064a\u0646 \u063a\u0632\u0627\u0644",
+          "url": "https://open.spotify.com/artist/16CvbDXsxiP6Id7K8HKHcO"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277707,
+      "name": "TQBL Kol",
+      "url": "https://open.spotify.com/track/7b4B5ACH9ZxnDnUVi2USqV"
     },
     {
       "album": {
@@ -34944,7 +34966,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-22",
+      "date_removed": null,
       "duration_ms": 227683,
       "name": "\u0632\u0639\u0644\u0627\u0646",
       "url": "https://open.spotify.com/track/3vrLO8JCrZUyPhsxbdyyTz"
@@ -35146,7 +35168,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 360055,
       "name": "\u0634\u0644\u0648\u0646 \u0628\u064a\u0629",
       "url": "https://open.spotify.com/track/4QlbWOnT3ZoR2mTsyg362u"
@@ -35218,7 +35240,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 342855,
       "name": "\u0635\u0628\u0627\u062d \u0627\u0644\u0639\u064a\u062f",
       "url": "https://open.spotify.com/track/5xACYeEFIdoB8K1in6iTeg"

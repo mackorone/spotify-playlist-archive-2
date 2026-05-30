@@ -1,6 +1,6 @@
 {
   "description": "A llorar a la llorer\u00eda.",
-  "num_followers": 310306,
+  "num_followers": 310303,
   "original_name": "Hora de la Lloraci\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-01-22 22:50:40",
       "album": {
-        "name": "Da\u00f1ado",
-        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 234613,
-      "name": "J.",
-      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
-    },
-    {
-      "added_at": "2026-01-22 22:50:40",
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 279213,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+    },
+    {
+      "added_at": "2026-01-22 22:50:40",
+      "album": {
+        "name": "Da\u00f1ado",
+        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 234613,
+      "name": "J.",
+      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
     },
     {
       "added_at": "2026-01-22 22:50:40",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-01-22 22:50:40",
       "album": {
-        "name": "Dueles Tan Bien",
-        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
-      },
-      "artists": [
-        {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Dueles Tan Bien",
-      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
-    },
-    {
-      "added_at": "2026-01-22 22:50:40",
-      "album": {
         "name": "Odio Que No Te Odio",
         "url": "https://open.spotify.com/album/5pLHLNwXqkKRMlS5NEEkdW"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 220480,
       "name": "Odio Que No Te Odio",
       "url": "https://open.spotify.com/track/374Yj1kOLjGLYLOydbCO3i"
+    },
+    {
+      "added_at": "2026-01-22 22:50:40",
+      "album": {
+        "name": "Dueles Tan Bien",
+        "url": "https://open.spotify.com/album/4EFml19fOt7aLf4EMhg8jq"
+      },
+      "artists": [
+        {
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Dueles Tan Bien",
+      "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
     },
     {
       "added_at": "2026-01-22 22:50:40",

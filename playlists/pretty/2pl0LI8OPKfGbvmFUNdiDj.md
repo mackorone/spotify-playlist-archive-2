@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 888 likes - 69 songs - 3 hr 47 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 889 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,5 +77,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 67 | [Follow](https://open.spotify.com/track/3Hld2nGje5pWk66c3GAWOj) | [Vance](https://open.spotify.com/artist/11LpEjg6drv4G1kBItUSn6) | [Follow](https://open.spotify.com/album/6SvROxW4ZNQRkhesEl8lI9) | 3:58 |
 | 68 | [1000 Kilómetros](https://open.spotify.com/track/0fZ3Wcrlzz9OaURp2WJJ0V) | [María Montenegro](https://open.spotify.com/artist/0cnIFVS9I8UzqNlEQxvOin) | [1000 Kilómetros](https://open.spotify.com/album/5wMQCKdpfs29F4NyrTibLx) | 3:04 |
 | 69 | [Autumn Leaves](https://open.spotify.com/track/7qOWu0a7bzpYNk4yEju09S) | [Bonolo Solomon](https://open.spotify.com/artist/4kaNxQusxlke6nfnusb2fT) | [Autumn Leaves](https://open.spotify.com/album/2ZQfxyOz4pBWHrJdlp7yJL) | 3:11 |
+| 70 | [Bayou Icarus](https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:28 |
 
-Snapshot ID: `AAAD3/PCiuYa5EITHCvo4+09PrEovhSd`
+Snapshot ID: `AAAD4D+PJcBT/ENdS4x+mwdXaWjga+iv`

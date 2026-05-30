@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Featuring that new vintage. Cover: SIENNA SPIRO",
+  "description": "Featuring that new vintage. Cover: Naomi Scott",
   "name": "Retro Pop",
   "tracks": [
     {
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 205987,
       "name": "Call Up Nancy",
       "url": "https://open.spotify.com/track/6Ub4rQInSRonYY6y4TPnk3"
@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 144411,
       "name": "Crying to God",
       "url": "https://open.spotify.com/track/1DZI3X3nf0PXjGAkwAifLA"
@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 213148,
       "name": "Good Time Tavern",
       "url": "https://open.spotify.com/track/5ETuNqDyD25GQ6ygYHaDcd"
@@ -3368,7 +3368,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 200760,
       "name": "Good Together - The City Winery Sessions",
       "url": "https://open.spotify.com/track/32xRyR7TB4hM6GuNIFf9gk"
@@ -3408,6 +3408,24 @@
       "duration_ms": 259534,
       "name": "Gotta Be Lovin Me",
       "url": "https://open.spotify.com/track/0GN7hYVgkvzVgGs6fO8dj6"
+    },
+    {
+      "album": {
+        "name": "F.I.G",
+        "url": "https://open.spotify.com/album/1zz0xielltztZ2Uvh7xzdX"
+      },
+      "artists": [
+        {
+          "name": "Naomi Scott",
+          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174107,
+      "name": "Gracie",
+      "url": "https://open.spotify.com/track/5XpfG1xcdznjc3BPdotlXK"
     },
     {
       "album": {
@@ -5723,6 +5741,24 @@
     },
     {
       "album": {
+        "name": "Love\u2019s a Gun",
+        "url": "https://open.spotify.com/album/7tUhB6UQTg64z5xx34SdNy"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179932,
+      "name": "Love\u2019s a Gun",
+      "url": "https://open.spotify.com/track/7vqgKci5WfCnk0iUrNN9op"
+    },
+    {
+      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -5908,6 +5944,24 @@
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "album": {
+        "name": "SE9",
+        "url": "https://open.spotify.com/album/3TWvfSehKDLRaHJS7z8cNk"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155004,
+      "name": "Man of the House",
+      "url": "https://open.spotify.com/track/4j3tybPIKiCmp1Zm2hLD9Z"
     },
     {
       "album": {
@@ -6557,6 +6611,24 @@
     },
     {
       "album": {
+        "name": "Nothing Like Hollywood",
+        "url": "https://open.spotify.com/album/77UyBNIRrgF0yW0d5WMgGU"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185992,
+      "name": "Nothing Like Hollywood",
+      "url": "https://open.spotify.com/track/52cP6CHMCWQc6s1XItREqg"
+    },
+    {
+      "album": {
         "name": "Off The Ground",
         "url": "https://open.spotify.com/album/1Yxdm1iJz3y3qo2Gv2QET0"
       },
@@ -6738,7 +6810,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 199814,
       "name": "On The Run",
       "url": "https://open.spotify.com/track/4WVjWMEhBSn3p99hD4v15b"
@@ -7484,6 +7556,28 @@
       "duration_ms": 192993,
       "name": "Radio Wave",
       "url": "https://open.spotify.com/track/7h1xpkSNbYaZWBx4xfHJfc"
+    },
+    {
+      "album": {
+        "name": "Rain Check (feat. Quinn XCII)",
+        "url": "https://open.spotify.com/album/2C7DC3mMFQelrT6GeMCs80"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        },
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168266,
+      "name": "Rain Check (feat. Quinn XCII)",
+      "url": "https://open.spotify.com/track/4cvLkmpPOopL1RCpdHIho1"
     },
     {
       "album": {
@@ -8244,7 +8338,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 177446,
       "name": "Somebody To You",
       "url": "https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE"
@@ -8964,6 +9058,24 @@
       "duration_ms": 176133,
       "name": "Tell Me It's Over",
       "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
+    },
+    {
+      "album": {
+        "name": "The Balance",
+        "url": "https://open.spotify.com/album/2veN1R5PcbB0MI5zzkT69R"
+      },
+      "artists": [
+        {
+          "name": "Lenka",
+          "url": "https://open.spotify.com/artist/5g3uG8zZZANGT6YOssgjfC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "The Balance",
+      "url": "https://open.spotify.com/track/2OIWoUfeUjrlB5p4ckUFan"
     },
     {
       "album": {

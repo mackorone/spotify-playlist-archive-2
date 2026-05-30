@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Mucco",
-  "num_followers": 574667,
+  "num_followers": 574623,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "LIDSCHATTEN",
-        "url": "https://open.spotify.com/album/08oKnVAQR676illfZgpYW0"
-      },
-      "artists": [
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "LIDSCHATTEN",
-      "url": "https://open.spotify.com/track/5JQBSO3RsHgGeViD9skxgu"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
         "name": "Wunder",
         "url": "https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 176492,
       "name": "Wunder",
       "url": "https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
+        "name": "LIDSCHATTEN",
+        "url": "https://open.spotify.com/album/08oKnVAQR676illfZgpYW0"
+      },
+      "artists": [
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "LIDSCHATTEN",
+      "url": "https://open.spotify.com/track/5JQBSO3RsHgGeViD9skxgu"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -339,6 +339,26 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
+        "name": "Keine Homies",
+        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        },
+        {
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+        }
+      ],
+      "duration_ms": 122241,
+      "name": "Keine Homies",
+      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
         "name": "wegen dir.",
         "url": "https://open.spotify.com/album/5G9TnMKD3nPTyxig4mHqv7"
       },
@@ -359,26 +379,6 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Fahrt ins Blaue",
-        "url": "https://open.spotify.com/album/2XxZIwmuF0vBZr1pJBDey1"
-      },
-      "artists": [
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "102 Boyz",
-          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
-        }
-      ],
-      "duration_ms": 172023,
-      "name": "F\u00fcr immer",
-      "url": "https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
         "name": "Marbella",
         "url": "https://open.spotify.com/album/1TBOrXCDn26WX5L5xy0VDt"
       },
@@ -395,22 +395,22 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Keine Homies",
-        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
+        "name": "Fahrt ins Blaue",
+        "url": "https://open.spotify.com/album/2XxZIwmuF0vBZr1pJBDey1"
       },
       "artists": [
         {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
         },
         {
-          "name": "Maxe",
-          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
         }
       ],
-      "duration_ms": 122241,
-      "name": "Keine Homies",
-      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
+      "duration_ms": 172023,
+      "name": "F\u00fcr immer",
+      "url": "https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
+        "name": "Simpel",
+        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Simpel",
+      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
         "name": "Liebe ist ein Dieb",
         "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 146688,
       "name": "Magnolien",
       "url": "https://open.spotify.com/track/0wUwQ9bJiWsOVYwLtokobO"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
-        "name": "Simpel",
-        "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Simpel",
-      "url": "https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
+        "name": "Dunya",
+        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 174745,
+      "name": "Dunya",
+      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
         "name": "Fremder Mann",
         "url": "https://open.spotify.com/album/4yURqlXD0uHzw8bvTgemOO"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 163501,
       "name": "Fremder Mann",
       "url": "https://open.spotify.com/track/5Mduvr7sXDbkXh5rBDLBZg"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
-        "name": "Dunya",
-        "url": "https://open.spotify.com/album/3mezg6HiQGDdMHcRFylrDz"
-      },
-      "artists": [
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 174745,
-      "name": "Dunya",
-      "url": "https://open.spotify.com/track/68xgjHBnky2pp6joybU9rO"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Bladerunner",
-        "url": "https://open.spotify.com/album/60fRRwprifz4WrxAX400un"
-      },
-      "artists": [
-        {
-          "name": "RIN",
-          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Bladerunner",
-      "url": "https://open.spotify.com/track/1jtgDmvuWo93vPUy41Pg8e"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
         "name": "Garten vorm Haus",
         "url": "https://open.spotify.com/album/68ia6GzIsyt8c432HeagAn"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 114705,
       "name": "Garten vorm Haus",
       "url": "https://open.spotify.com/track/6NOtUjLWOJdXLqB08t62uI"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
+        "name": "Bladerunner",
+        "url": "https://open.spotify.com/album/60fRRwprifz4WrxAX400un"
+      },
+      "artists": [
+        {
+          "name": "RIN",
+          "url": "https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Bladerunner",
+      "url": "https://open.spotify.com/track/1jtgDmvuWo93vPUy41Pg8e"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Wer liebt dich jetzt ?",
-        "url": "https://open.spotify.com/album/1m7MCqOuh9Xf9SCrmRIXPp"
-      },
-      "artists": [
-        {
-          "name": "SANTOS",
-          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
-        },
-        {
-          "name": "Shirin David",
-          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
-        }
-      ],
-      "duration_ms": 163831,
-      "name": "Wer liebt dich jetzt ?",
-      "url": "https://open.spotify.com/track/6CRKyj9tYGcZHt5lxuc1hT"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
         "name": "nie wieder normal",
         "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 197618,
       "name": "nie wieder normal",
       "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
+        "name": "Wer liebt dich jetzt ?",
+        "url": "https://open.spotify.com/album/1m7MCqOuh9Xf9SCrmRIXPp"
+      },
+      "artists": [
+        {
+          "name": "SANTOS",
+          "url": "https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1"
+        },
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "duration_ms": 163831,
+      "name": "Wer liebt dich jetzt ?",
+      "url": "https://open.spotify.com/track/6CRKyj9tYGcZHt5lxuc1hT"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Sad Holiday (Schwarzer Sand)",
-        "url": "https://open.spotify.com/album/12UG4kJJvo6nKQ1b4s2fBw"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 178582,
-      "name": "Sad Holiday (Schwarzer Sand)",
-      "url": "https://open.spotify.com/track/143OixORbbu7309OOxQHFV"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
         "name": "WENN DU MICH SIEHST",
         "url": "https://open.spotify.com/album/0t2cctF8dF0vWFLd6HKex2"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
+        "name": "Sad Holiday (Schwarzer Sand)",
+        "url": "https://open.spotify.com/album/12UG4kJJvo6nKQ1b4s2fBw"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 178582,
+      "name": "Sad Holiday (Schwarzer Sand)",
+      "url": "https://open.spotify.com/track/143OixORbbu7309OOxQHFV"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
         "name": "Mein Type",
         "url": "https://open.spotify.com/album/7gOI3Tzkyi6cytldUFot2J"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 154601,
       "name": "Mein Type",
       "url": "https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
+        "name": "Breaking your heart",
+        "url": "https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 170579,
+      "name": "Breaking your heart",
+      "url": "https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -1631,22 +1647,6 @@
       "duration_ms": 136097,
       "name": "St\u00fcck im Puzzle",
       "url": "https://open.spotify.com/track/53QvLhkDWBHifD6fx3sZ0p"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
-        "name": "Breaking your heart",
-        "url": "https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg"
-      },
-      "artists": [
-        {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
-        }
-      ],
-      "duration_ms": 170579,
-      "name": "Breaking your heart",
-      "url": "https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Liebe ist h\u00e4sslich.",
-        "url": "https://open.spotify.com/album/6j9MHIuYM6eHjx9xrMjAAN"
-      },
-      "artists": [
-        {
-          "name": "Rasa",
-          "url": "https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4"
-        }
-      ],
-      "duration_ms": 126024,
-      "name": "Liebe ist h\u00e4sslich.",
-      "url": "https://open.spotify.com/track/3IJmYStLMIMa16tXvM4FRB"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
         "name": "Brauch nur dich",
         "url": "https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq"
       },
@@ -1751,18 +1735,18 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Bleib",
-        "url": "https://open.spotify.com/album/4nu43xWIcRfWXl6PXkUxgO"
+        "name": "Liebe ist h\u00e4sslich.",
+        "url": "https://open.spotify.com/album/6j9MHIuYM6eHjx9xrMjAAN"
       },
       "artists": [
         {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+          "name": "Rasa",
+          "url": "https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4"
         }
       ],
-      "duration_ms": 133599,
-      "name": "Bleib",
-      "url": "https://open.spotify.com/track/0MhuZSPKF5O3A889rPnZUA"
+      "duration_ms": 126024,
+      "name": "Liebe ist h\u00e4sslich.",
+      "url": "https://open.spotify.com/track/3IJmYStLMIMa16tXvM4FRB"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -1783,6 +1767,22 @@
       "duration_ms": 154733,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
+        "name": "Bleib",
+        "url": "https://open.spotify.com/album/4nu43xWIcRfWXl6PXkUxgO"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "duration_ms": 133599,
+      "name": "Bleib",
+      "url": "https://open.spotify.com/track/0MhuZSPKF5O3A889rPnZUA"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -1835,18 +1835,22 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Nie wieder",
-        "url": "https://open.spotify.com/album/1fMb9dmgvavzElRNoAtjRC"
+        "name": "Keine Helden",
+        "url": "https://open.spotify.com/album/11AkC0fCpMYZ6Ef4NK0wHK"
       },
       "artists": [
         {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Nie wieder",
-      "url": "https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu"
+      "duration_ms": 185153,
+      "name": "Keine Helden",
+      "url": "https://open.spotify.com/track/3hvT7LmndHeQ8dIPFXe4HU"
     }
   ],
   "unique_name": "Rap in deep",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Paula Arenas",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Ela Taubert",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 189473,
       "name": "A Dios Le Pido",
       "url": "https://open.spotify.com/track/5CiIZ4j3gnYbVE8aXQ5nj2"
@@ -836,7 +836,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 174524,
       "name": "BULLA",
       "url": "https://open.spotify.com/track/0MSOSpT3zFFeHCFDGmvpUU"
@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/37pWRQz671rkBMLduqzRlT"
+      },
+      "artists": [
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111844,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/3MHsKP0lB5datrl3G15e97"
+    },
+    {
+      "album": {
         "name": "Cosas buenas",
         "url": "https://open.spotify.com/album/0Cc6V5bXYrl6ghF04tEePM"
       },
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 233000,
       "name": "ctrl +z",
       "url": "https://open.spotify.com/track/3CiRNiGUuvestGbU2IFEOq"
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 153903,
       "name": "CUCARACHEO",
       "url": "https://open.spotify.com/track/5NMexEjiw22qnc3GxKtJuW"
@@ -1556,6 +1574,24 @@
       "duration_ms": 185822,
       "name": "Discoteca",
       "url": "https://open.spotify.com/track/7GoflMNfOi849vMcoRuMKB"
+    },
+    {
+      "album": {
+        "name": "Donde Acaba Esto",
+        "url": "https://open.spotify.com/album/4M8SQLv0LeixwSewmFaK3s"
+      },
+      "artists": [
+        {
+          "name": "Ela Conem",
+          "url": "https://open.spotify.com/artist/6j3TVnrOKJQYWcX5YKLMkV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Donde Acaba Esto",
+      "url": "https://open.spotify.com/track/3hAZxAPi8rJ4Tk9dIx850Z"
     },
     {
       "album": {
@@ -2487,6 +2523,24 @@
     },
     {
       "album": {
+        "name": "Hasta El Fin Del Mundo",
+        "url": "https://open.spotify.com/album/57rQjR93zofRBceA9e3th3"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175802,
+      "name": "Hasta El Fin Del Mundo",
+      "url": "https://open.spotify.com/track/3YTLDgIPG7AmwyPbSWUajQ"
+    },
+    {
+      "album": {
         "name": "Idiota",
         "url": "https://open.spotify.com/album/5fR1etMEVPIUUR2BdDFD0J"
       },
@@ -3012,6 +3066,24 @@
       "duration_ms": 194133,
       "name": "Lim\u00f3n y Sal",
       "url": "https://open.spotify.com/track/7wNfal52dQo119tcZJRQ9d"
+    },
+    {
+      "album": {
+        "name": "AFRO RED 2",
+        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143914,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
     },
     {
       "album": {
@@ -5395,6 +5467,28 @@
     },
     {
       "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "Solecito Ven\u00ed",
+      "url": "https://open.spotify.com/track/6Ue84aBdSKDtyA493wcVfD"
+    },
+    {
+      "album": {
         "name": "Solo Fue un Sue\u00f1o",
         "url": "https://open.spotify.com/album/6o32Vp2hpfTi2aJAfZAlKj"
       },
@@ -5744,7 +5838,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 213952,
       "name": "Te Lo Advert\u00ed - Desde Abbey Road",
       "url": "https://open.spotify.com/track/4KwR77O9Yld5rHkkv2nbib"

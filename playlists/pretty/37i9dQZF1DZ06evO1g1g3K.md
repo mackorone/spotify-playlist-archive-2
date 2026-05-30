@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,245 likes - 38 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,248 likes - 38 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 3 | [Facetime \(with Durand Bernarr\) \- Remix](https://open.spotify.com/track/36lhJvCzm7QxAHUCILGl0T) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Shea Butter Baby](https://open.spotify.com/album/4H4zgSw27aH4HkJxLzZdCv) | 3:16 |
 | 4 | [HELLO!](https://open.spotify.com/track/3Yk3KZTxr7M2DKl44IkyK1) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 3:24 |
 | 5 | [AM I OKAY?!](https://open.spotify.com/track/7acblFUsVC2haLFRkHqlQZ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [AM I OKAY?!](https://open.spotify.com/album/4Tku8dpR2O31BsilYVBw91) | 3:37 |
-| 6 | [Weird \(feat\. Durand Bernarr\)](https://open.spotify.com/track/7zvpJRsDXAwwe2nLXUP7v4) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:27 |
-| 7 | [Self Aware](https://open.spotify.com/track/6EZhDRvp7JE0wb2wDsxkuc) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [EP 8](https://open.spotify.com/album/5uerg4BPdbjGolQbku0DN4) | 3:04 |
+| 6 | [Self Aware](https://open.spotify.com/track/6EZhDRvp7JE0wb2wDsxkuc) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [EP 8](https://open.spotify.com/album/5uerg4BPdbjGolQbku0DN4) | 3:04 |
+| 7 | [Weird \(feat\. Durand Bernarr\)](https://open.spotify.com/track/7zvpJRsDXAwwe2nLXUP7v4) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:27 |
 | 8 | [soft.](https://open.spotify.com/track/6ma9MpHKelkkQmOt9l30SF) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:07 |
 | 9 | [STUCK.](https://open.spotify.com/track/7EXvZP4EJrwD9dVKMyKeGz) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 4:21 |
 | 10 | [Mango Butter](https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:42 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 21 | [Fist Bump \(feat\. Free Nationals\) \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Fist Bump \(feat\. Free Nationals\) \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 |
 | 22 | [Reaching](https://open.spotify.com/track/37Bw9TOmxbDW0i509GmqOR) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 4:30 |
 | 23 | [Leveled](https://open.spotify.com/track/7z9id29USnlNeXzmLctJXZ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 5:53 |
-| 24 | [Homesick](https://open.spotify.com/track/7HwwKT3cGTRY5xS3GgnXrv) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:44 |
+| 24 | [EFFORT.](https://open.spotify.com/track/2eK5ODmsvglPGZJlPoIm5Y) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:07 |
 | 25 | [I Like It](https://open.spotify.com/track/2whrzPDuhdUfLYaE8xENIN) | [Terrell Grice](https://open.spotify.com/artist/2uyVNFnf9icQH8UizUvxHP), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [The Terrell One Million Show](https://open.spotify.com/album/3cAgKKxhswmZu3t8OC8Hr1) | 4:51 |
 | 26 | [Jump](https://open.spotify.com/track/4x54v9wLiL2mHmKVcyPIcH) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 4:23 |
 | 27 | [PIT STOP](https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [DeShawn Jenkins](https://open.spotify.com/artist/2Dxkrl4da72WpLloFlg6R1) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 1:31 |
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 29 | [Rollin’](https://open.spotify.com/track/7IXRl11ljin6axzMbllSFo) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:38 |
 | 30 | [GENEROUS](https://open.spotify.com/track/15iKg3vhtQNgIMtv6IzylW) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 6:09 |
 | 31 | [READY!](https://open.spotify.com/track/3sw0DdToI9uCMTZmTzsBwE) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Charlie Vettuno](https://open.spotify.com/artist/6SjBIWfrxSzMxeQb0pu9k0) | [READY!](https://open.spotify.com/album/0wVKhisY1iT0Enm2dOQzQi) | 3:29 |
-| 32 | [GPS](https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:56 |
+| 32 | [Neutral](https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:27 |
 | 33 | [Get Paid \(feat\. Durand Bernarr\)](https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Humo en la Trampa 3](https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci) | 2:41 |
 | 34 | [Melody](https://open.spotify.com/track/0cc4hNDMidsGNzAZ2jFw71) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 4:42 |
 | 35 | [H.I\. \(feat\. Devin Tracy\)](https://open.spotify.com/track/0L8fkRTODFPnShmcGlbuzP) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:59 |
-| 36 | [Neutral](https://open.spotify.com/track/1Yphx7raUV3ZKTpayAo2l2) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:27 |
+| 36 | [GPS](https://open.spotify.com/track/0lYSxo9HT7zcTVqNjKDNVW) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 3:56 |
 | 37 | [Collide](https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:42 |
 | 38 | [Relocate](https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 3:33 |
 
-Snapshot ID: `ahY0AAAAAADNWIFwXhMLuv6xiCBtf9BG`
+Snapshot ID: `aheFgAAAAAApi2mwWbnTA3zO0u2Ydn6S`

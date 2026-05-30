@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: My Ugly Clementine
 
-2,920 songs - 7 day 0 hr 2 min
+2,920 songs - 7 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1315,6 +1315,7 @@
 | [Is It Love?](https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Is It Love?](https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR) | 4:12 | 2026-03-19 | 2026-04-17 |
 | [Is This All There Is?](https://open.spotify.com/track/3hAo6PQv3Qc6wBOvqn7ytU) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Is This All There Is?](https://open.spotify.com/album/1wCGh7uT5dXKorl3US9qOV) | 4:54 | 2026-03-19 | 2026-04-17 |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-24 | 2025-05-23 |
+| [Island](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:03 | 2026-05-28 |  |
 | [Isn't It Funny](https://open.spotify.com/track/0Dxd99miFFNrWsLpCkDUnX) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Isn't It Funny](https://open.spotify.com/album/6MSX4yLBOPQGTgrw0AqgB8) | 3:41 | 2026-05-28 |  |
 | [It Comes Creeping](https://open.spotify.com/track/4JGkHDbL8ojXnhXufybIPk) | [DEADLETTER](https://open.spotify.com/artist/4MfUQ99z2kgMnl9hAwffBx) | [It Comes Creeping](https://open.spotify.com/album/2Qiaj7HeHTzMW0HquUYqBm) | 3:58 | 2026-01-15 | 2026-01-30 |
 | [It Happened Again](https://open.spotify.com/track/2ghhfcasyDb0fdGqmjJP4H) | [VØR](https://open.spotify.com/artist/02gkdTPcKnn6BzYMqAsJsT) | [Sugar Rush](https://open.spotify.com/album/6po2NAYfIINyS9Bso4oxIG) | 4:16 | 2024-10-31 | 2024-11-08 |
@@ -2634,8 +2635,7 @@
 | [Tougher Than the Rest](https://open.spotify.com/track/7t0MtBzJwoYBkdyeFDlzYS) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Tougher Than the Rest](https://open.spotify.com/album/00psl1omSGzV4KlAiR9kLA) | 5:10 | 2026-04-16 | 2026-05-08 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
-| [traces](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 |  |
-| [Track 14](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 0:00 | 2026-05-28 |  |
+| [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-05-08 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-24 |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |

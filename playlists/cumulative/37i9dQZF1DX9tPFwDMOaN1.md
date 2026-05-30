@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> The new & hottest K\-Pop is here! \(Cover: LE SSERAFIM\)
+> The new & hottest K\-Pop is here! \(Cover: aespa\)
 
-854 songs - 1 day 20 hr 6 min
+855 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,6 +425,7 @@
 | [Last Sequence](https://open.spotify.com/track/0lNPjT58llQGlycRA2mea4) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [Sequence](https://open.spotify.com/album/2Cv3xionHF2O7QL8p6MbCT) | 3:07 | 2022-07-13 | 2022-09-13 |
 | [LAW \(Prod\. Czaer\)](https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 3:09 | 2022-09-08 | 2023-01-21 |
 | [Lemon Drop](https://open.spotify.com/track/2kpmBZqu52h6uCZXFTIXJK) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [GOLDEN HOUR : Part.3](https://open.spotify.com/album/5LlszztgR3YH7aN7SPgTVi) | 2:59 | 2025-06-13 | 2025-10-21 |
+| [LEMONADE](https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm) | 3:07 | 2026-05-29 |  |
 | [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 | 2023-06-12 | 2023-08-17 |
 | [Letter To Myself](https://open.spotify.com/track/1Uxr0oBXAZRuLkAz27TkLc) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Letter To Myself \- The 6th Mini Album](https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM) | 3:04 | 2024-11-18 | 2025-02-22 |
 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) | 2:58 | 2022-06-24 | 2022-10-29 |
@@ -849,7 +850,7 @@
 | [You & Me \(Coachella ver.\)](https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-06 | 2023-10-10 |
 | [You make Me](https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:38 | 2022-03-08 | 2022-04-09 |
 | [You Problem](https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 3:19 | 2021-12-13 | 2022-01-17 |
-| [You, You](https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [NO TRAGEDY](https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co) | 2:45 | 2026-04-28 |  |
+| [You, You](https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [NO TRAGEDY](https://open.spotify.com/album/17ICljXQ2I4bsPYpqkf5co) | 2:45 | 2026-04-28 | 2026-05-30 |
 | [Your Existence](https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Twenty\-Five Twenty\-One OST Part 4](https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y) | 3:24 | 2022-04-22 | 2022-08-04 |
 | [Your Idol](https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:11 | 2025-07-04 | 2026-01-15 |
 | [Yours](https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 | 2021-12-13 | 2022-01-17 |

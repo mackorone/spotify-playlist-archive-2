@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 87879,
+  "num_followers": 87913,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALdIlXeJXJAkCTTJ/he7+plWf7zs",
+  "snapshot_id": "AAAAAF85sJx3gWFCGTJ1OUI9Im3e3w7u",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:00:20",
+      "album": {
+        "name": "Right on Time",
+        "url": "https://open.spotify.com/album/5m9OBRSRI3gU06GnacBydS"
+      },
+      "artists": [
+        {
+          "name": "Paula Atherton",
+          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
+        }
+      ],
+      "duration_ms": 239517,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/7nLtVaCwlXSlmhYt1jdkaO"
+    },
     {
       "added_at": "2026-05-22 04:00:19",
       "album": {
@@ -315,22 +331,6 @@
       "duration_ms": 275580,
       "name": "City Sync",
       "url": "https://open.spotify.com/track/2hi2fo5qazrnschVQAXMbB"
-    },
-    {
-      "added_at": "2026-02-06 05:00:25",
-      "album": {
-        "name": "Make It Happen (Radio Edit)",
-        "url": "https://open.spotify.com/album/047GAcv3m7UVTKnsdLRO02"
-      },
-      "artists": [
-        {
-          "name": "Paula Atherton",
-          "url": "https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6"
-        }
-      ],
-      "duration_ms": 221425,
-      "name": "Make It Happen - Radio Edit",
-      "url": "https://open.spotify.com/track/0eiZgUgyPywLSOVITCpgMk"
     },
     {
       "added_at": "2026-01-30 05:00:33",

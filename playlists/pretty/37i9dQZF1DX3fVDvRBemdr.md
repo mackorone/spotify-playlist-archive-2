@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Raymon Hermans
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,971 likes - 105 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,983 likes - 105 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

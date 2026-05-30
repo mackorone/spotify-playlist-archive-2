@@ -2,9 +2,9 @@
 
 ### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
 
-> Alternative indie music etc\. Cover: Genesis Owusu
+> Alternative indie music etc\. Cover: Labrinth
 
-1,912 songs - 3 day 19 hr 46 min
+1,914 songs - 3 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [49er](https://open.spotify.com/track/5G9tovSOgzlqOSg2w06fY5) | [99 Neighbors](https://open.spotify.com/artist/5uhqkMm8dyQvX83kl4Znq0) | [49er](https://open.spotify.com/album/688Jq2vpSmMS5ZbjTT0bW3) | 3:17 | 2021-08-07 | 2021-10-14 |
 | [4evaaa](https://open.spotify.com/track/0uq8z2z0DUJNRgxv3DfqT3) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [nolademos](https://open.spotify.com/album/3aXlTlKpRpnwTsjL0lXRIt) | 3:15 | 2023-03-24 | 2023-06-08 |
 | [5 minutes til dawn](https://open.spotify.com/track/1TBTe5ESmikZkYQW6OIAq5) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX) | [5 minutes til dawn](https://open.spotify.com/album/5a7WRlBlbNOegtXakhDzSI) | 2:36 | 2022-06-10 | 2022-11-19 |
-| [5a7](https://open.spotify.com/track/3Os7vQSGt2CeT2Q8SvGKSP) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [Business Core](https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD) | 2:09 | 2024-10-25 |  |
+| [5a7](https://open.spotify.com/track/3Os7vQSGt2CeT2Q8SvGKSP) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh), [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [Business Core](https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD) | 2:09 | 2024-10-25 | 2026-05-30 |
 | [5am](https://open.spotify.com/track/0zll7ar6NSz8VUN0gciDak) | [toast](https://open.spotify.com/artist/3Nz5FVEfruc2XuwrGdeHeC), [JOE L](https://open.spotify.com/artist/276rQ7r59LD3mS6oL5RMVb) | [5am](https://open.spotify.com/album/593CwiXVevpgpE30WGQqyp) | 2:42 | 2022-02-18 | 2022-04-10 |
 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 | 2023-09-22 | 2024-06-01 |
 | [608](https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [608](https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi) | 3:24 | 2022-10-07 | 2023-03-02 |
@@ -124,6 +124,7 @@
 | [Baby Blues](https://open.spotify.com/track/08tdFfSLp50Wv6HIcfH9YP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 1:48 | 2022-10-04 | 2023-03-02 |
 | [Baby Boy](https://open.spotify.com/track/5K7dEG6yDQ981HO7kFMVqm) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:31 | 2022-05-18 | 2022-06-01 |
 | [Baby Don't Go](https://open.spotify.com/track/6Rb5kSprwEE9SeIyfYwTPF) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Baby Don't Go](https://open.spotify.com/album/0nyJGyojAXTGdD0urpvcg9) | 2:32 | 2022-06-24 | 2022-07-09 |
+| [Baby Driver](https://open.spotify.com/track/5dtDj7mdGJjlviTxyfMrZE) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Baby Driver](https://open.spotify.com/album/0yUdcVEmK8G3jWAYS6Dii6) | 3:36 | 2026-05-29 |  |
 | [Baby from Atlanta](https://open.spotify.com/track/0Dmei5q5aCd8zLIuMUVoiq) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Baby from Atlanta](https://open.spotify.com/album/0jf4RUx2WK91eYFyllJPlc) | 3:19 | 2023-03-03 | 2023-04-29 |
 | [Baby Queen](https://open.spotify.com/track/0dFwiyWPwC2yML3ZH7B56V) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Baby Queen](https://open.spotify.com/album/6WHjLRAwmnJv2cHqVZrmOt) | 3:40 | 2022-11-04 | 2023-04-29 |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-02-27 |  |
@@ -186,7 +187,7 @@
 | [Billboard](https://open.spotify.com/track/0SgtsW3aGMqLXyUkIcTCSv) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Billboard](https://open.spotify.com/album/64kyKS3pe5GlZ3fSGlrFJa) | 1:51 | 2023-03-03 | 2023-04-22 |
 | [Bird W/O Nest \(feat\. Danny Brown\)](https://open.spotify.com/track/7Bdee0ienIRFLNX7bICp3b) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Bird W/O Nest \(feat\. Danny Brown\)](https://open.spotify.com/album/4B41BK44XIvsqlHOipDKcp) | 2:59 | 2024-11-19 | 2025-03-01 |
 | [BITE](https://open.spotify.com/track/2tUqgzXUa4tqj2fRdPVtFX) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [BIRDSONGS, Vol\. 2](https://open.spotify.com/album/6hBDtMqSsiixf7l5qHF2sq) | 2:40 | 2023-04-14 | 2023-06-17 |
-| [bite](https://open.spotify.com/track/3lHVs2nABbT0TOGYKA7beP) | [SUUNCAAT](https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7) | [bite](https://open.spotify.com/album/3YXQFDUBo0wSpNjXLjP7JR) | 2:34 | 2026-05-22 |  |
+| [bite](https://open.spotify.com/track/3lHVs2nABbT0TOGYKA7beP) | [SUUNCAAT](https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7) | [bite](https://open.spotify.com/album/3YXQFDUBo0wSpNjXLjP7JR) | 2:34 | 2026-05-22 | 2026-05-30 |
 | [Bite Me](https://open.spotify.com/track/58o9R5b5BKmVzyJWpVDB37) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Over & Over](https://open.spotify.com/album/6blr4YVJ0xwdx1qJWBtz76) | 2:17 | 2023-03-17 | 2023-05-23 |
 | [Bitter](https://open.spotify.com/track/3KuRIaA6dy6WUk9QIaVMCm) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Bitter](https://open.spotify.com/album/1YfxX6KZuOmVJ9xtKaHwAO) | 2:59 | 2022-09-10 | 2023-01-28 |
 | [Bitterness](https://open.spotify.com/track/33S5R4m52NhtO8L0WALM8b) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Bitterness](https://open.spotify.com/album/3Z4tbdCzbTQopMRtgvElL7) | 2:41 | 2025-02-28 | 2026-04-04 |
@@ -1669,6 +1670,7 @@
 | [The Joke](https://open.spotify.com/track/3Ml2TX8o5reIR0mAEXVhvv) | [BAD CHILD](https://open.spotify.com/artist/7ayksoJ16I0E4Riftzvfaz) | [The Joke](https://open.spotify.com/album/1o8K4bT1jZ8ayWT8uc0cyf) | 2:51 | 2023-05-19 | 2023-06-24 |
 | [The Jungle](https://open.spotify.com/track/5BGmmTZL2bsRi5qFP0OWX0) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Are You Living In The Real World? \- EP](https://open.spotify.com/album/6Uutk4ONNcluULLclNZEgB) | 2:03 | 2022-04-05 | 2024-01-10 |
 | [The Light](https://open.spotify.com/track/4hSOItU6YvWBNwG7kOPOKX) | [Jabril](https://open.spotify.com/artist/7akqOKvUbVnmKsafHZYJ4s), [Harrisun](https://open.spotify.com/artist/7Fs3Yj5hp3rvtj9JSXYiSa) | [The Light](https://open.spotify.com/album/4OJtHHJKm6fYJGz6HYa7Re) | 3:16 | 2022-07-08 | 2022-08-06 |
+| [THE LIVING](https://open.spotify.com/track/3gIavfUyAj6UxVyreaoJCp) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT II](https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD) | 2:48 | 2026-05-29 |  |
 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-22 | 2022-04-09 |
 | [The Machine](https://open.spotify.com/track/2GU2CvKoEIvOxDlheIHrnw) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [The Machine](https://open.spotify.com/album/3JFOpACe6wSG1B9NFmGNdt) | 3:23 | 2020-10-13\* | 2021-05-03 |
 | [The Mission](https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [The Mission](https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn) | 3:11 | 2021-09-04 | 2023-06-21 |

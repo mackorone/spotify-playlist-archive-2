@@ -430,7 +430,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 110769,
       "name": "Airport Jazz",
       "url": "https://open.spotify.com/track/1nlAC5HB6cUxjImG1PcIB4"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 102857,
       "name": "Anguilla",
       "url": "https://open.spotify.com/track/4zxC5ctshiTETKnYbFMRRD"
@@ -4968,7 +4968,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 125159,
       "name": "flygawd",
       "url": "https://open.spotify.com/track/1GVk47Cvw4gRGMpex3zZUp"
@@ -5842,7 +5842,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 129438,
       "name": "Grote Knip",
       "url": "https://open.spotify.com/track/7B7cWyHUvzEgppLabAYfgi"
@@ -7056,7 +7056,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 92530,
       "name": "Jazz in the City",
       "url": "https://open.spotify.com/track/2vvUluydEO7LbSLWbQtLuB"
@@ -8378,6 +8378,24 @@
       "duration_ms": 109772,
       "name": "Lone Frequency",
       "url": "https://open.spotify.com/track/71Mcx1j39vdcLsY6JImvTA"
+    },
+    {
+      "album": {
+        "name": "Long Day",
+        "url": "https://open.spotify.com/album/1IupRmwWe7PcmyYNkJNHbc"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122926,
+      "name": "Long Day",
+      "url": "https://open.spotify.com/track/3BgAGT9oWYebwHhwXPO0wt"
     },
     {
       "album": {
@@ -13501,6 +13519,24 @@
     },
     {
       "album": {
+        "name": "Snoozin",
+        "url": "https://open.spotify.com/album/01t7MSWX6MXIDkauKMGmDe"
+      },
+      "artists": [
+        {
+          "name": "Berezy",
+          "url": "https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Snoozin",
+      "url": "https://open.spotify.com/track/1WJWJUSQVh3BI4lnpD0jRD"
+    },
+    {
+      "album": {
         "name": "Snowed in",
         "url": "https://open.spotify.com/album/47QDodM19uTNibPuA37GKP"
       },
@@ -14940,7 +14976,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 115662,
       "name": "Sunset Reef",
       "url": "https://open.spotify.com/track/1KmuCxSp0ZqaW6FirkNNBG"

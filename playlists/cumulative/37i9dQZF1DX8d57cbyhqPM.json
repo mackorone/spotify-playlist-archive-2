@@ -2297,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "C'est moi",
+        "url": "https://open.spotify.com/album/6cWlHclSfSVMAVrYay4jcj"
+      },
+      "artists": [
+        {
+          "name": "Hulk",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126153,
+      "name": "C'est moi",
+      "url": "https://open.spotify.com/track/2RPGbCAcOvJwqzcm4vpYOL"
+    },
+    {
+      "album": {
         "name": "CA BIBI",
         "url": "https://open.spotify.com/album/7EUahfqTQLBZ3AdvBwjD7k"
       },
@@ -5389,6 +5407,24 @@
     },
     {
       "album": {
+        "name": "GO 243",
+        "url": "https://open.spotify.com/album/6X0YbFz4I6z9jtOUzUBA1M"
+      },
+      "artists": [
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189501,
+      "name": "GO 243",
+      "url": "https://open.spotify.com/track/3ZfuGTNPAMUH3WqDZHfP0C"
+    },
+    {
+      "album": {
         "name": "MEGA BBL",
         "url": "https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p"
       },
@@ -5582,7 +5618,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 141389,
       "name": "G\u00e9n\u00e9ration impolie",
       "url": "https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53"
@@ -7036,6 +7072,28 @@
       "duration_ms": 109090,
       "name": "LA MELO EST DANS LA BOUNCE",
       "url": "https://open.spotify.com/track/6gwT3UA1hjbwT9Pfg0CMXK"
+    },
+    {
+      "album": {
+        "name": "La porte",
+        "url": "https://open.spotify.com/album/7xWOaKVO0Ge6DbbU8C17pf"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153489,
+      "name": "La porte",
+      "url": "https://open.spotify.com/track/6PQy7AQ04hfRwFcWfZGl4O"
     },
     {
       "album": {
@@ -9776,7 +9834,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 151745,
       "name": "M\u00e9chant",
       "url": "https://open.spotify.com/track/3VAXp5FiiUMLFThyUqnyMp"
@@ -11912,7 +11970,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 172571,
       "name": "Pourquoi tu me fais \u00e7a",
       "url": "https://open.spotify.com/track/2vwPG1A7m2X5NIBLRFu1xt"
@@ -15044,6 +15102,24 @@
       "duration_ms": 230342,
       "name": "\u00e2me soeur",
       "url": "https://open.spotify.com/track/4xzXbFgl04ImzObJFWogDi"
+    },
+    {
+      "album": {
+        "name": "\u00c7a Give",
+        "url": "https://open.spotify.com/album/47jPbCLMtU1fUzgWqQua68"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00eblle",
+          "url": "https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169302,
+      "name": "\u00c7a Give",
+      "url": "https://open.spotify.com/track/7bIDjJ2Xy1v5WMkgAAi73J"
     },
     {
       "album": {

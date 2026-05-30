@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-25",
-  "description": "Catch the queens of Punjabi Pop. Cover: Nimrat Khaira",
+  "description": "Catch the queens of Punjabi Pop. Cover: Afsana Khan",
   "name": "Women of Punjabi Pop",
   "tracks": [
     {
@@ -466,6 +466,28 @@
       "duration_ms": 122051,
       "name": "Asla",
       "url": "https://open.spotify.com/track/4GCSYis95BSlNwuR4VTvLD"
+    },
+    {
+      "album": {
+        "name": "BAAZIGARA",
+        "url": "https://open.spotify.com/album/5zIVEKw3owP9Jl140Y1lgL"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Snipr",
+          "url": "https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201900,
+      "name": "BAAZIGARA",
+      "url": "https://open.spotify.com/track/0oZj0yIo556j8UfXqRwGid"
     },
     {
       "album": {
@@ -1578,7 +1600,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 191190,
       "name": "Gal Suno Meri",
       "url": "https://open.spotify.com/track/7brJPRFSvXnXDL9Ezj3Utm"
@@ -2678,6 +2700,24 @@
       "duration_ms": 144000,
       "name": "Kan Akhiyaan",
       "url": "https://open.spotify.com/track/5S0q2V6ny7Zi1SHauBJyfE"
+    },
+    {
+      "album": {
+        "name": "Kangana",
+        "url": "https://open.spotify.com/album/4Zq6OxWr28zZl8Ddvj0fd4"
+      },
+      "artists": [
+        {
+          "name": "Beeba",
+          "url": "https://open.spotify.com/artist/0la35h5HAIT2Y2uOLAffa4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165291,
+      "name": "Kangana",
+      "url": "https://open.spotify.com/track/7eAgEkiQ8bJqdulCh3bSUe"
     },
     {
       "album": {
@@ -3850,7 +3890,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 197234,
       "name": "Mor - From \"Rabb Da Radio 3\"",
       "url": "https://open.spotify.com/track/1NjIFIs06c32eTE2XkvGVF"

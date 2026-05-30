@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "2L8",
+        "url": "https://open.spotify.com/album/1kzLAdWWzhD8afzTevnGdT"
+      },
+      "artists": [
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127630,
+      "name": "2L8",
+      "url": "https://open.spotify.com/track/1D2mzBiHkPhTQSlV7Cmdvy"
+    },
+    {
+      "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
       },
@@ -772,7 +790,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 177995,
       "name": "Bangaranga",
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
@@ -830,10 +848,28 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
+    },
+    {
+      "album": {
+        "name": "CRY OF FEAR",
+        "url": "https://open.spotify.com/album/1KQZraye4S3UXhL3HbF7aJ"
+      },
+      "artists": [
+        {
+          "name": "KUDOKUSHI",
+          "url": "https://open.spotify.com/artist/5ZqVuddwpPFnq0GHGYVDzM"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112983,
+      "name": "bedroom",
+      "url": "https://open.spotify.com/track/4E04D7zOlWSicxvwg85Rbc"
     },
     {
       "album": {
@@ -1570,7 +1606,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -1970,7 +2006,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 207701,
       "name": "Fine By Me",
       "url": "https://open.spotify.com/track/3Omhd9jw89N7FvHZ8JrjTt"
@@ -2486,7 +2522,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 227660,
       "name": "Into the Sun",
       "url": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr"
@@ -2798,7 +2834,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 189746,
       "name": "Like Animals",
       "url": "https://open.spotify.com/track/2IFND3phjzIG1RcPnHh2hP"
@@ -8445,6 +8481,24 @@
     },
     {
       "album": {
+        "name": "First Day In Therapy",
+        "url": "https://open.spotify.com/album/6MaCBws3mlJ2G1cBs43KNu"
+      },
+      "artists": [
+        {
+          "name": "Whole Lotta Swag",
+          "url": "https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "\u041e\u0431\u043d\u044f\u043b, \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u043b",
+      "url": "https://open.spotify.com/track/6H7KQ2kxXbaxqXvVSxFEtT"
+    },
+    {
+      "album": {
         "name": "\u043e\u0432\u0435\u0440\u0434\u043e\u0437",
         "url": "https://open.spotify.com/album/0VsjlZ2HDquI2h2DB0XcGe"
       },
@@ -9357,6 +9411,24 @@
     },
     {
       "album": {
+        "name": "\u0421 \u043d\u0430\u043c\u0438 \u0438\u043b\u0438 \u043d\u0435\u0442",
+        "url": "https://open.spotify.com/album/3T9uWLA8Pco3H97Pg4klC4"
+      },
+      "artists": [
+        {
+          "name": "Max Korzh",
+          "url": "https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356553,
+      "name": "\u0421 \u043d\u0430\u043c\u0438 \u0438\u043b\u0438 \u043d\u0435\u0442",
+      "url": "https://open.spotify.com/track/0EjFAcOB12nNGnC69n1ycE"
+    },
+    {
+      "album": {
         "name": "\u0421\u0430\u0439\u0442",
         "url": "https://open.spotify.com/album/4zCiZdq8FJelVaVmT4vXio"
       },
@@ -9792,7 +9864,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 224952,
       "name": "\u0421\u043f\u044f\u0449\u0430\u044f \u043a\u0440\u0430\u0441\u0430\u0432\u0438\u0446\u0430",
       "url": "https://open.spotify.com/track/7HjcdSmlqRT5tzCU5KnsG5"
@@ -9810,7 +9882,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 188240,
       "name": "\u0421\u0442\u0430\u043d\u044c",
       "url": "https://open.spotify.com/track/475G1r5398lgxVY7Ld7m8r"

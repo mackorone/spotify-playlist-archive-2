@@ -4,7 +4,7 @@
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 22 min
+108 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [3 En Punto](https://open.spotify.com/track/79bIiTWFuPBuvaGu24PVQA) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Avance Sin Fin](https://open.spotify.com/album/4uG3qJNwJo5yk153qhWtji) | 2:46 | 2025-10-29 | 2026-03-27 |
 | [40 Años Y Contando](https://open.spotify.com/track/1lye9qYp6p05Boa4Jugn9P) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:41 | 2025-01-06 | 2025-09-03 |
 | [Acá Entre Nos](https://open.spotify.com/track/6EkflBPiKJi7JYfKq6Zpp9) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Mexicano](https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl) | 3:23 | 2024-06-03 | 2025-06-22 |
+| [Agarra El Rollo Porfa](https://open.spotify.com/track/31AOrkfvKMYPGQaMAkYHWB) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21) | 2:41 | 2026-05-30 |  |
 | [Agarrense De Los Pelos](https://open.spotify.com/track/3MTxzR8OFsf585RmAG4qPo) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [TRAVESÍA](https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv) | 2:50 | 2025-09-01 |  |
 | [Agasajaba La Noche](https://open.spotify.com/track/3OrPvxEwqcsATtI1zTYq3j) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 2:19 | 2024-01-29 | 2025-10-12 |
 | [Amor De Locos](https://open.spotify.com/track/7zNQPNfOm4DtUdNbkNLNxN) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Chuyito](https://open.spotify.com/artist/3wLUFr73ioAnTZaLYH6F65) | [Amor De Locos](https://open.spotify.com/album/6tvjCm0QciHYaud26Q6SiQ) | 3:17 | 2025-07-27 |  |
@@ -75,7 +76,7 @@
 | [Orgullo Sinaloense](https://open.spotify.com/track/0Cg0kMenE8Qa8TDJLHoBlO) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X) | 2:39 | 2024-08-08 | 2024-08-13 |
 | [Pa' Morir Nacimos](https://open.spotify.com/track/2Fm2gfDFrrCMamS2pvOILQ) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Division del Terror](https://open.spotify.com/album/50IBkx5CBHsoge1jLv3z6L) | 2:37 | 2024-01-29 | 2024-11-11 |
 | [Popurrí: La Muerte de Manuelon / El Árbol](https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am) | [Mario "El Cachorro" Delgado](https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Popurrí: La Muerte de Manuelon / El Árbol](https://open.spotify.com/album/61EXPkgwfysplYrG10cgUK) | 8:16 | 2024-01-29 | 2024-10-19 |
-| [Por El Bien De Los Dos](https://open.spotify.com/track/0tAmt8WRonEH8IpNnmeHrF) | [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Por El Bien De Los Dos](https://open.spotify.com/album/716TfM8cw7aevXpbBzHiWF) | 3:15 | 2025-09-27 |  |
+| [Por El Bien De Los Dos](https://open.spotify.com/track/0tAmt8WRonEH8IpNnmeHrF) | [Jaque Mate](https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Por El Bien De Los Dos](https://open.spotify.com/album/716TfM8cw7aevXpbBzHiWF) | 3:15 | 2025-09-27 | 2026-05-30 |
 | [Por Las Hs](https://open.spotify.com/track/1mI4LvAwTbIfQguuyK6juV) | [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Por Las Hs](https://open.spotify.com/album/3nuUwbHMx4SYAAGHtNVlCp) | 2:32 | 2024-01-29 | 2025-08-31 |
 | [Por Tu Maldito Amor](https://open.spotify.com/track/6L6TzXnjMEsMMbBdQJAha1) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Mexicano](https://open.spotify.com/album/4ELsblwZ6Dh4jEGbmI6NMl) | 4:00 | 2024-06-03 | 2025-08-31 |
 | [Porque Te Portaste Mal \(En Vivo\)](https://open.spotify.com/track/2W5W8VkZ6VtGMpQGfn4nFT) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Amanecida En Vivo Desde "El Carrizal"](https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR) | 2:44 | 2025-04-12 | 2025-12-06 |

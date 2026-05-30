@@ -32191,6 +32191,24 @@
     },
     {
       "album": {
+        "name": "JACKIE'S BACK",
+        "url": "https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI"
+      },
+      "artists": [
+        {
+          "name": "ASHMOOR",
+          "url": "https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "JACKIE'S BACK",
+      "url": "https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8"
+    },
+    {
+      "album": {
         "name": "Jane Tells a Lie",
         "url": "https://open.spotify.com/album/5647VX9QjYIIVCA0GMA8Le"
       },

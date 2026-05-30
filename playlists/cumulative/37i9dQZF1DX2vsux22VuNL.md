@@ -4,7 +4,7 @@
 
 > Aquele som que é pura brisa\. 🍃 Foto: Gloria Groove
 
-503 songs - 1 day 2 hr 8 min
+504 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Até o Fim](https://open.spotify.com/track/0uYL66M5jw4O1HmOpogXIC) | [Rezeh](https://open.spotify.com/artist/3CYzvQKS4JWJ4fcD9uWBOW), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR) | [Até o Fim](https://open.spotify.com/album/5I5MC3hULL4aG9vVJtrTkz) | 1:32 | 2024-11-22 |  |
 | [Aura](https://open.spotify.com/track/0nzIp8UuHE5UxInOdaHvAy) | [Asfalto Rec](https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv), [Sagaz](https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Aura](https://open.spotify.com/album/4FTuhl7ay2UEaG0UZ0AVOU) | 2:37 | 2022-08-12 | 2022-08-20 |
 | [AYE O](https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Jef Rodriguez](https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo), [Ludom](https://open.spotify.com/artist/48eDQufEItjoNyPgM9OqQ0), [Marcelo de Lamare](https://open.spotify.com/artist/5HSTeVObdf6RyoInM3EUzM), [C\-AFROBRASIL](https://open.spotify.com/artist/3iXFPpErmAcOgnrS9vrrQx), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev) | [CORTAVENTO](https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF) | 3:50 | 2025-07-25 | 2025-12-13 |
+| [Azul Piscina](https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [Azul Piscina](https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW) | 3:19 | 2026-05-29 |  |
 | [Açaí](https://open.spotify.com/track/1ETkQX4nDyZHZtLfns6mcS) | [Lipe](https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3) | [Lipe](https://open.spotify.com/album/3DmE8wkZoWvFPJvBdTvMcN) | 2:41 | 2022-06-14 | 2022-07-23 |
 | [Baby](https://open.spotify.com/track/1R1Og3MKiYJGUFUpudLklx) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx) | [Baby](https://open.spotify.com/album/2aohzSz5kigRkQZ5lagVaM) | 2:58 | 2023-04-14 | 2023-11-11 |
 | [Baile Charme \- Ao Vivo](https://open.spotify.com/track/55nT7v7CtFduUP7A1CEZvA) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:30 | 2024-02-23 | 2024-03-23 |
@@ -115,7 +116,7 @@
 | [Deixar Rolar](https://open.spotify.com/track/7ljVYvTPJZqGzvF55lBU3u) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ) | [Deixar Rolar](https://open.spotify.com/album/5T2vFctlodQMpsqki2ZpwH) | 2:06 | 2023-02-06 | 2023-03-11 |
 | [Deixe\-me Ir](https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Deixe\-me Ir](https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw) | 3:39 | 2023-06-09 | 2025-02-01 |
 | [Depois das Três](https://open.spotify.com/track/2gQthJ9Xq8ghOQkJESERhK) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Izabell Shamylla](https://open.spotify.com/artist/6UYNE2SuiqJgaBIXIQ6XjN) | [Caro Vapor / Vida e Veneno de Don L](https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK) | 3:04 | 2024-11-22 |  |
-| [Depois do Depois](https://open.spotify.com/track/49o6s1cJeFXcSyHMKtLnGg) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 3:12 | 2024-08-09 |  |
+| [Depois do Depois](https://open.spotify.com/track/49o6s1cJeFXcSyHMKtLnGg) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 3:12 | 2024-08-09 | 2026-05-30 |
 | [Desbravador](https://open.spotify.com/track/7qq66f0oXz9nClOW1Z6Q2U) | [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl) | [Desbravador](https://open.spotify.com/album/4OosGi7XyyDOTD6gqBGxDn) | 3:07 | 2024-07-05 | 2024-11-16 |
 | [Desconectar](https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS), [Bufalô](https://open.spotify.com/artist/0wFcHlIKNWSBmSH8nBrpT0), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa) | [Desconectar](https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o) | 2:36 | 2023-07-28 | 2023-12-02 |
 | [Desliga](https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Desliga](https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx) | 2:47 | 2023-04-07 |  |

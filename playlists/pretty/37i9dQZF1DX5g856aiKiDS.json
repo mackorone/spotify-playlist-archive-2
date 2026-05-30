@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 518132,
+  "num_followers": 518146,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-04-20 02:25:39",
       "album": {
+        "name": "Double-sidedness",
+        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "duration_ms": 184565,
+      "name": "Hope You're Doing Well",
+      "url": "https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF"
+    },
+    {
+      "added_at": "2026-04-20 02:25:39",
+      "album": {
         "name": "Can I Love?",
         "url": "https://open.spotify.com/album/5RywVUX8IUEPcj3VO6Bq3y"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/0Z8IT9sJWaGQb942lphBzY"
-    },
-    {
-      "added_at": "2026-04-20 02:25:39",
-      "album": {
-        "name": "Double-sidedness",
-        "url": "https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 184565,
-      "name": "Hope You're Doing Well",
-      "url": "https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF"
     },
     {
       "added_at": "2026-04-20 02:25:39",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-04-20 02:25:39",
       "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
-    },
-    {
-      "added_at": "2026-04-20 02:25:39",
-      "album": {
         "name": "Bye Bye My Blue",
         "url": "https://open.spotify.com/album/7a9EHrlQGVQsJe590lX4LU"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 203409,
       "name": "Bye Bye My Blue",
       "url": "https://open.spotify.com/track/4GUqcCrsISpXTbiAFz6FcO"
+    },
+    {
+      "added_at": "2026-04-20 02:25:39",
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
     },
     {
       "added_at": "2026-04-20 02:25:39",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-04-20 02:25:39",
       "album": {
-        "name": "Amusement Park",
-        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "Amusement Park",
-      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
-    },
-    {
-      "added_at": "2026-04-20 02:25:39",
-      "album": {
         "name": "Every letter I sent you.",
         "url": "https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 271215,
       "name": "Popo (How deep is our love?)",
       "url": "https://open.spotify.com/track/6hQHOFxszCnn9Fsodazpcn"
+    },
+    {
+      "added_at": "2026-04-20 02:25:39",
+      "album": {
+        "name": "Amusement Park",
+        "url": "https://open.spotify.com/album/1azcqabc4kDgRNMWFA02wZ"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 256693,
+      "name": "Amusement Park",
+      "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
     },
     {
       "added_at": "2026-04-20 02:25:39",
@@ -727,22 +727,18 @@
     {
       "added_at": "2026-04-20 02:25:39",
       "album": {
-        "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
-        "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
+        "name": "FRANK",
+        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
       },
       "artists": [
         {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        },
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 198749,
-      "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
-      "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
+      "duration_ms": 247173,
+      "name": "Across the universe",
+      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
     },
     {
       "added_at": "2026-04-20 02:25:39",
@@ -767,18 +763,38 @@
     {
       "added_at": "2026-04-20 02:25:39",
       "album": {
-        "name": "FRANK",
-        "url": "https://open.spotify.com/album/4WJWO1utzgRjxEveXGIVXN"
+        "name": "\ubd04\uc778\uac00 \ubd10 Spring Love - SM STATION",
+        "url": "https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
         }
       ],
-      "duration_ms": 247173,
-      "name": "Across the universe",
-      "url": "https://open.spotify.com/track/1GKBErugdKLIwdqgNj9Kqt"
+      "duration_ms": 198749,
+      "name": "\ubd04\uc778\uac00 \ubd10 Spring Love",
+      "url": "https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv"
+    },
+    {
+      "added_at": "2026-04-20 02:25:39",
+      "album": {
+        "name": "I`m In Love",
+        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "I`m In Love",
+      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
     },
     {
       "added_at": "2026-04-20 02:25:39",
@@ -803,18 +819,18 @@
     {
       "added_at": "2026-04-20 02:25:39",
       "album": {
-        "name": "I`m In Love",
-        "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
+        "name": "Our Love is Great",
+        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 197000,
-      "name": "I`m In Love",
-      "url": "https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG"
+      "duration_ms": 233003,
+      "name": "Maybe It\u2019s Not Our Fault",
+      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
     },
     {
       "added_at": "2026-04-20 02:25:39",
@@ -851,22 +867,6 @@
       "duration_ms": 214326,
       "name": "It's Raining",
       "url": "https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj"
-    },
-    {
-      "added_at": "2026-04-20 02:25:39",
-      "album": {
-        "name": "Our Love is Great",
-        "url": "https://open.spotify.com/album/5pkSoMZZUsVf0R8Rh68xy3"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 233003,
-      "name": "Maybe It\u2019s Not Our Fault",
-      "url": "https://open.spotify.com/track/5fuOfU241WSA328TgwsFgj"
     },
     {
       "added_at": "2026-04-20 02:25:39",

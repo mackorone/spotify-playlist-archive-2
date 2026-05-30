@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,902 likes - 100 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,928 likes - 100 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Once \(Live\)](https://open.spotify.com/track/6TRVGLQPkKtDr1JxKkEBXC) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol\. 2 \(Live from LA and London\)](https://open.spotify.com/album/6BahOagyF2uJF4cMqh5QmS) | 3:35 |
-| 2 | [Banks Of The Deep End \(Live\)](https://open.spotify.com/track/60AlTSkdnDtaXIUTBQp2oZ) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Banks Of The Deep End \(Live\)](https://open.spotify.com/album/2EgICrAtYiJ2yGAP3N9HDm) | 6:41 |
-| 3 | [Tattoo'd Lady \(Live\)](https://open.spotify.com/track/2F2MZqad3d1iWGqKh38HMu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tattoo'd Lady \(Live\)](https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg) | 6:20 |
-| 4 | [Sweet Southern Sounds \- Live](https://open.spotify.com/track/2qAs9NIdn0SmIvJyHDXj1v) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Sweet Southern Sounds \(Live\)](https://open.spotify.com/album/1iEo32X1EBmQRwIRdVwL4G) | 5:06 |
-| 5 | [Morning Star \(Live\)](https://open.spotify.com/track/7ggW3iCmsuHGiXAwDL53gv) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Morning Star \(Live\)](https://open.spotify.com/album/6NLJICMnxQwiF1HEiTGhHI) | 5:07 |
-| 6 | [Bridge Of Sighs \- Live](https://open.spotify.com/track/1jXLVE3dElUuZtNSzEdS47) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [One Moment In Time \- Live In The USA](https://open.spotify.com/album/4C3vv8GnYzhY0XM6isgH5p) | 9:00 |
-| 7 | [I Put A Spell On You](https://open.spotify.com/track/1MjrAbIA1Uhq1gURgMV36C) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [I Put A Spell On You](https://open.spotify.com/album/3FgscaFSKt1FekwGFw4FNQ) | 7:53 |
+| 1 | [Paper Doll \- Live](https://open.spotify.com/track/3LHV2sJZCPAgmF2M5blexT) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll \(Live\)](https://open.spotify.com/album/14PabwwXnFajy1sfXmTYey) | 4:16 |
+| 2 | [Once \(Live\)](https://open.spotify.com/track/6TRVGLQPkKtDr1JxKkEBXC) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol\. 2 \(Live from LA and London\)](https://open.spotify.com/album/6BahOagyF2uJF4cMqh5QmS) | 3:35 |
+| 3 | [Banks Of The Deep End \(Live\)](https://open.spotify.com/track/60AlTSkdnDtaXIUTBQp2oZ) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Banks Of The Deep End \(Live\)](https://open.spotify.com/album/2EgICrAtYiJ2yGAP3N9HDm) | 6:41 |
+| 4 | [Tattoo'd Lady \(Live\)](https://open.spotify.com/track/2F2MZqad3d1iWGqKh38HMu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tattoo'd Lady \(Live\)](https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg) | 6:20 |
+| 5 | [Sweet Southern Sounds \- Live](https://open.spotify.com/track/2qAs9NIdn0SmIvJyHDXj1v) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Sweet Southern Sounds \(Live\)](https://open.spotify.com/album/1iEo32X1EBmQRwIRdVwL4G) | 5:06 |
+| 6 | [Morning Star \(Live\)](https://open.spotify.com/track/7ggW3iCmsuHGiXAwDL53gv) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Morning Star \(Live\)](https://open.spotify.com/album/6NLJICMnxQwiF1HEiTGhHI) | 5:07 |
+| 7 | [Bridge Of Sighs \- Live](https://open.spotify.com/track/1jXLVE3dElUuZtNSzEdS47) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3) | [One Moment In Time \- Live In The USA](https://open.spotify.com/album/4C3vv8GnYzhY0XM6isgH5p) | 9:00 |
 | 8 | [I'm Gonna Move To The Outskirts Of Town \- Remastered 2024](https://open.spotify.com/track/0jDyUtoWaNlUJoX0sdwsBf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 23:22 |
 | 9 | [Prisoner \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 8:35 |
 | 10 | [Corrina](https://open.spotify.com/track/21FbveXKY4LdlUbIRG80P6) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Swingin' Live at The Church in Tulsa](https://open.spotify.com/album/1BS29Yn0GYgoJG7LAMkqXI) | 5:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 99 | [Keep On Growing \- Live](https://open.spotify.com/track/7pq4EbFglFdFZAiUn0ClFR) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Keep On Growing \(Live\)](https://open.spotify.com/album/4NS0gjSrKAalyUJyQNvE84) | 10:50 |
 | 100 | [Can't Let Go \- Live \(Remastered\)](https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [I’m A Woman \[Live \(Remastered\)\]](https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0) | 5:52 |
 
-Snapshot ID: `AAAAALT/F/1JGwUCOeBoYLF65rZ7r80J`
+Snapshot ID: `AAAAAPGF2cE4M55mQhBEL2n4LDzTOWot`

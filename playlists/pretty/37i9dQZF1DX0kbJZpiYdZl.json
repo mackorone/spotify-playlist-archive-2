@@ -1,13 +1,77 @@
 {
-  "description": "The hottest tracks in the United States. Cover: Tame Impala & JENNIE",
-  "num_followers": 1568421,
+  "description": "The hottest tracks in the United States. Cover: Drake",
+  "num_followers": 1568426,
   "original_name": "Hot Hits USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN1gIXB69fkB2CR8ojhLnXJu0nit",
+  "snapshot_id": "AAAAAPrOIgPNeyv1IH490JnxpALp4fy6",
   "tracks": [
+    {
+      "added_at": "2026-05-22 04:01:09",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237344,
+      "name": "Janice STFU",
+      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+    },
+    {
+      "added_at": "2026-05-29 04:02:36",
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "added_at": "2026-03-29 16:10:05",
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
+    },
+    {
+      "added_at": "2026-05-22 04:01:09",
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
     {
       "added_at": "2026-03-29 16:10:05",
       "album": {
@@ -27,54 +91,6 @@
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-05-22 04:01:09",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237344,
-      "name": "Janice STFU",
-      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "added_at": "2026-03-29 16:10:05",
-      "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
-    },
-    {
-      "added_at": "2026-04-17 04:02:46",
-      "album": {
-        "name": "drop dead",
-        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 224998,
-      "name": "drop dead",
-      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
     },
     {
       "added_at": "2026-03-29 16:10:05",
@@ -141,10 +157,10 @@
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
-      "added_at": "2026-05-22 04:01:09",
+      "added_at": "2026-04-17 04:02:46",
       "album": {
-        "name": "the cure",
-        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
       },
       "artists": [
         {
@@ -152,9 +168,9 @@
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 297090,
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
     },
     {
       "added_at": "2026-04-10 04:03:31",
@@ -189,30 +205,6 @@
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2026-05-15 04:01:32",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Molly Santana",
-          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
-        }
-      ],
-      "duration_ms": 247183,
-      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
-      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
-    },
-    {
       "added_at": "2026-03-29 16:10:05",
       "album": {
         "name": "Fancy Some More?",
@@ -233,6 +225,22 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
+      "added_at": "2026-05-29 04:02:36",
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 188722,
+      "name": "Shabang",
+      "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
+    },
+    {
       "added_at": "2026-03-29 16:10:05",
       "album": {
         "name": "a couple minutes out",
@@ -247,6 +255,22 @@
       "duration_ms": 183237,
       "name": "iloveitiloveitiloveit",
       "url": "https://open.spotify.com/track/0vVel80XRhw0LuSQucKMui"
+    },
+    {
+      "added_at": "2026-03-29 16:10:05",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
       "added_at": "2026-03-29 16:10:05",
@@ -283,22 +307,6 @@
     {
       "added_at": "2026-03-29 16:10:05",
       "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-03-29 16:10:05",
-      "album": {
         "name": "Rein Me In (with Olivia Dean)",
         "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
       },
@@ -315,6 +323,22 @@
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
+    },
+    {
+      "added_at": "2026-05-22 04:01:09",
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 223332,
+      "name": "Mexico Honey",
+      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
     },
     {
       "added_at": "2026-04-17 04:02:46",
@@ -349,22 +373,6 @@
       "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
     },
     {
-      "added_at": "2026-03-29 16:10:05",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
-    },
-    {
       "added_at": "2026-04-24 04:01:52",
       "album": {
         "name": "The Great Divide",
@@ -379,6 +387,54 @@
       "duration_ms": 231086,
       "name": "Doors",
       "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
+    },
+    {
+      "added_at": "2026-04-10 04:03:31",
+      "album": {
+        "name": "NOBLE",
+        "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "NOBLE",
+      "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
+    },
+    {
+      "added_at": "2026-03-29 16:10:05",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+    },
+    {
+      "added_at": "2026-03-29 16:10:05",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "So Easy (To Fall In Love)",
+      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
       "added_at": "2026-03-29 16:10:05",
@@ -429,22 +485,6 @@
       "url": "https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG"
     },
     {
-      "added_at": "2026-05-22 04:01:09",
-      "album": {
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 223332,
-      "name": "Mexico Honey",
-      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
-    },
-    {
       "added_at": "2026-03-29 16:10:05",
       "album": {
         "name": "Love Me Not / Love Is Blind",
@@ -463,6 +503,58 @@
     {
       "added_at": "2026-03-29 16:10:05",
       "album": {
+        "name": "Be By You",
+        "url": "https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 197655,
+      "name": "Be By You",
+      "url": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
+    },
+    {
+      "added_at": "2026-03-29 16:10:05",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
+    },
+    {
+      "added_at": "2026-04-24 04:01:52",
+      "album": {
+        "name": "I Can't Love You Anymore",
+        "url": "https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 228836,
+      "name": "I Can't Love You Anymore",
+      "url": "https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn"
+    },
+    {
+      "added_at": "2026-03-29 16:10:05",
+      "album": {
         "name": "White Keys",
         "url": "https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c"
       },
@@ -475,38 +567,6 @@
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"
-    },
-    {
-      "added_at": "2026-03-29 16:10:05",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "So Easy (To Fall In Love)",
-      "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2026-04-10 04:03:31",
-      "album": {
-        "name": "NOBLE",
-        "url": "https://open.spotify.com/album/0g2so560PUSwl895vWwaQK"
-      },
-      "artists": [
-        {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "NOBLE",
-      "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
     },
     {
       "added_at": "2026-03-29 16:10:05",
@@ -559,6 +619,22 @@
     {
       "added_at": "2026-03-29 16:10:05",
       "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 155753,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
+    },
+    {
+      "added_at": "2026-03-29 16:10:05",
+      "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
       },
@@ -593,22 +669,6 @@
       "url": "https://open.spotify.com/track/6rlU0kRQNjMZ7t5I92yCIi"
     },
     {
-      "added_at": "2026-03-29 16:10:05",
-      "album": {
-        "name": "Be By You",
-        "url": "https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 197655,
-      "name": "Be By You",
-      "url": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
-    },
-    {
       "added_at": "2026-04-10 04:03:31",
       "album": {
         "name": "Man\u2019s Best Friend",
@@ -623,58 +683,6 @@
       "duration_ms": 169214,
       "name": "House Tour",
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
-    },
-    {
-      "added_at": "2026-04-24 04:01:52",
-      "album": {
-        "name": "I Can't Love You Anymore",
-        "url": "https://open.spotify.com/album/5BFfobflVIOwebqy5RtBcP"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 228836,
-      "name": "I Can't Love You Anymore",
-      "url": "https://open.spotify.com/track/5aVBxVa0kz9uzv0F4gwdEn"
-    },
-    {
-      "added_at": "2026-03-29 16:10:05",
-      "album": {
-        "name": "OCTANE",
-        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 155753,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO"
-    },
-    {
-      "added_at": "2026-03-29 16:10:05",
-      "album": {
-        "name": "Folded",
-        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "added_at": "2026-03-29 16:10:05",
@@ -707,26 +715,6 @@
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
-    },
-    {
-      "added_at": "2026-05-01 04:02:56",
-      "album": {
-        "name": "Bring Your Love",
-        "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Bring Your Love",
-      "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
     },
     {
       "added_at": "2026-03-29 16:10:05",
@@ -795,18 +783,18 @@
     {
       "added_at": "2026-03-29 16:10:05",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
       },
       "artists": [
         {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "added_at": "2026-03-29 16:10:05",

@@ -1,224 +1,364 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2616,
+  "num_followers": 2617,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAF2gVcfyRjhyofNiWwUJfg4rCpLZS5",
+  "snapshot_id": "AAAF3MIku1sSnvAdifhZGwyo6dmNqTVa",
   "tracks": [
     {
-      "added_at": "2026-05-22 14:24:14",
+      "added_at": "2026-05-29 15:04:03",
       "album": {
-        "name": "Off To Mars",
-        "url": "https://open.spotify.com/album/4TJhFszNQd2CXDdspJ3rcZ"
+        "name": "JYCKE",
+        "url": "https://open.spotify.com/album/3HbrVQPyT9N7RAlSfpKDko"
       },
       "artists": [
         {
-          "name": "Phats De Juvenile",
-          "url": "https://open.spotify.com/artist/0oTnLCyNvqiPv8Tdt66WEP"
+          "name": "Nils Albin",
+          "url": "https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi"
         }
       ],
-      "duration_ms": 483787,
-      "name": "Off To Mars",
-      "url": "https://open.spotify.com/track/1LpCZxJfZBOdaTGsONQyQw"
+      "duration_ms": 188086,
+      "name": "V\u00e4rsta Turen",
+      "url": "https://open.spotify.com/track/0L0KTkbdm5vm3mklIqNI6L"
     },
     {
-      "added_at": "2026-05-22 14:24:44",
+      "added_at": "2026-05-29 15:04:03",
       "album": {
-        "name": "Off The Floor",
-        "url": "https://open.spotify.com/album/68ShspVlGtgiIhd5VySr9b"
+        "name": "In A Flick Of Time",
+        "url": "https://open.spotify.com/album/1o9Dr9CefCugd8hud9XCf7"
       },
       "artists": [
         {
-          "name": "Isobel Knight",
-          "url": "https://open.spotify.com/artist/68EAQ3CUHE8RYAhGttzHkA"
+          "name": "The Nielsen Valley",
+          "url": "https://open.spotify.com/artist/3DehMW2RqC9deqyZoRuiUW"
         }
       ],
-      "duration_ms": 371893,
-      "name": "Hell Or High Water",
-      "url": "https://open.spotify.com/track/2XQCsSwoeUiTVDwW3GN0co"
+      "duration_ms": 218500,
+      "name": "In A Flick Of Time",
+      "url": "https://open.spotify.com/track/1hfveqkEQV1cz1oiyaSQLL"
     },
     {
-      "added_at": "2026-05-22 14:25:09",
+      "added_at": "2026-05-29 15:04:03",
       "album": {
-        "name": "Ritual of The Cloven Hoof",
-        "url": "https://open.spotify.com/album/044AlkuookXfVAqQZoiQUn"
+        "name": "So Hollow",
+        "url": "https://open.spotify.com/album/4NOLafmEJ9aBGrhbxTjv50"
       },
       "artists": [
         {
-          "name": "Goddess",
-          "url": "https://open.spotify.com/artist/3cMo9MGlkvZHB92vcAxk5t"
+          "name": "VIREN",
+          "url": "https://open.spotify.com/artist/5L5L9Ik40hT0dJ6o2bv0Bu"
         }
       ],
-      "duration_ms": 401231,
-      "name": "To Be King",
-      "url": "https://open.spotify.com/track/7ae8egiJhy9SqdVNKCl8qv"
+      "duration_ms": 121494,
+      "name": "So Hollow",
+      "url": "https://open.spotify.com/track/4Gs2ZMAymB4cbodCGhhMoL"
     },
     {
-      "added_at": "2026-05-22 14:25:27",
+      "added_at": "2026-05-29 15:04:03",
       "album": {
-        "name": "Us & The Moon",
-        "url": "https://open.spotify.com/album/2TaivHlUFH6WfSmbkpQtGn"
+        "name": "rock your world",
+        "url": "https://open.spotify.com/album/3u3V5rwov5y164DeQwLT0W"
       },
       "artists": [
         {
-          "name": "Tugboat Captain",
-          "url": "https://open.spotify.com/artist/3gBLnOLSOAV0tXQa6ZGGKb"
-        }
-      ],
-      "duration_ms": 178102,
-      "name": "Us & The Moon",
-      "url": "https://open.spotify.com/track/7MjuRYCtVDzntNRvc7zhFG"
-    },
-    {
-      "added_at": "2026-05-22 14:25:45",
-      "album": {
-        "name": "Hattarataivas",
-        "url": "https://open.spotify.com/album/5F0MbkaNlBHWNcfmd4Gp1x"
-      },
-      "artists": [
-        {
-          "name": "Hamina",
-          "url": "https://open.spotify.com/artist/5wPZpQd6Ejo6NSJ1EcMfin"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Hattarataivas",
-      "url": "https://open.spotify.com/track/1V41iElOZjKsHTC7lwEhrL"
-    },
-    {
-      "added_at": "2026-05-22 14:26:15",
-      "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/7Kfr5frO3p85fxfAlnPyyk"
-      },
-      "artists": [
-        {
-          "name": "Dimmed Charlie",
-          "url": "https://open.spotify.com/artist/1jqCe5tFhg7oknVnRYWXzC"
-        }
-      ],
-      "duration_ms": 246628,
-      "name": "Take you home",
-      "url": "https://open.spotify.com/track/0Z16RppqhriYsNAXsGbnSo"
-    },
-    {
-      "added_at": "2026-05-22 14:26:36",
-      "album": {
-        "name": "Until I met you",
-        "url": "https://open.spotify.com/album/5hUSO0i9Zi8gcLqA8iMnkA"
-      },
-      "artists": [
-        {
-          "name": "Lilly Rose",
-          "url": "https://open.spotify.com/artist/0uiMofKzxjLIfeo7SJMBjM"
+          "name": "glide",
+          "url": "https://open.spotify.com/artist/4sJIxnsxciNWl602rXrfXT"
         },
         {
-          "name": "Storm",
-          "url": "https://open.spotify.com/artist/0V5wpzV1FH0nbTyFg0P8xl"
+          "name": "Guru Griff",
+          "url": "https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8"
         }
       ],
-      "duration_ms": 202639,
-      "name": "Until I met you",
-      "url": "https://open.spotify.com/track/66gNNpDc0NjghNKdSvJxfR"
+      "duration_ms": 170880,
+      "name": "rock your world",
+      "url": "https://open.spotify.com/track/5pybGPtT1SgVN7EmvYGsWG"
     },
     {
-      "added_at": "2026-05-22 14:27:02",
+      "added_at": "2026-05-29 15:04:03",
       "album": {
-        "name": "Traagiline Maagia",
-        "url": "https://open.spotify.com/album/2UXqiHfTyE583nM1YzcZeJ"
+        "name": "Everythang high",
+        "url": "https://open.spotify.com/album/4PaSsGdC5rgWP6hxAVJkuP"
       },
       "artists": [
         {
-          "name": "Wild Women Of Wongo",
-          "url": "https://open.spotify.com/artist/1fiOQUjxT2JS4LJvSGdKVZ"
+          "name": "Freddyrobb baby",
+          "url": "https://open.spotify.com/artist/2Wwq5ojGeu2csuAMhRigDw"
         }
       ],
-      "duration_ms": 265500,
-      "name": "Traagiline Maagia",
-      "url": "https://open.spotify.com/track/69udLR9wkOA3tuKAqaPxXJ"
+      "duration_ms": 195680,
+      "name": "Everythang high",
+      "url": "https://open.spotify.com/track/0XfMYMhOtXzH8sR0RWAqv9"
     },
     {
-      "added_at": "2026-05-22 14:27:20",
+      "added_at": "2026-05-29 15:04:03",
       "album": {
-        "name": "Bethany",
-        "url": "https://open.spotify.com/album/5ZueKMc7L3ajZ8hltqmrGj"
+        "name": "Mit\u00e4, miss\u00e4, milloin 20 ja 26",
+        "url": "https://open.spotify.com/album/4p9QqwBUPIXb48sQtFDgXK"
       },
       "artists": [
         {
-          "name": "Hayley Bleho",
-          "url": "https://open.spotify.com/artist/7m3iY9UtEpcByTLVlwEFH7"
+          "name": "Yleislakko",
+          "url": "https://open.spotify.com/artist/0TpJizB5Ffdcmec47jqBzt"
         }
       ],
-      "duration_ms": 212243,
-      "name": "Bethany",
-      "url": "https://open.spotify.com/track/09p3KPZ7ojdlglGzJKWsEP"
+      "duration_ms": 151296,
+      "name": "Mit\u00e4, miss\u00e4, milloin 20 ja 26",
+      "url": "https://open.spotify.com/track/1rP8cCSfch5UqAyEyEqtJl"
     },
     {
-      "added_at": "2026-05-22 14:27:39",
+      "added_at": "2026-05-29 15:04:03",
       "album": {
-        "name": "P\u00c4\u00c4 PILVISS\u00c4",
-        "url": "https://open.spotify.com/album/691URGIQIJHWs0aMC1TluX"
+        "name": "Lambs",
+        "url": "https://open.spotify.com/album/7veeWXtiTQHIv8CZIX0ABM"
       },
       "artists": [
         {
-          "name": "Rafa\u00e9la",
-          "url": "https://open.spotify.com/artist/3qIJZa4FZxCL9um3Mqzv6p"
+          "name": "Convey",
+          "url": "https://open.spotify.com/artist/1IzOW7ddkpZzL6l2npjO20"
         }
       ],
-      "duration_ms": 274511,
-      "name": "P\u00c4\u00c4 PILVISS\u00c4",
-      "url": "https://open.spotify.com/track/3PM0es8gTKSJyGD2xpLlIQ"
+      "duration_ms": 232838,
+      "name": "Lambs",
+      "url": "https://open.spotify.com/track/0tGAiuRNcMP0c4zGkGbdNq"
     },
     {
-      "added_at": "2026-05-22 14:28:00",
+      "added_at": "2026-05-29 15:04:03",
       "album": {
-        "name": "Out Of Here",
-        "url": "https://open.spotify.com/album/57xu5gr64AfQ8VxngmsUsY"
+        "name": "Motherland",
+        "url": "https://open.spotify.com/album/2uYlBX2ItOpsyn6HMwWivf"
       },
       "artists": [
         {
-          "name": "Isak Jakobsson",
-          "url": "https://open.spotify.com/artist/6p1dSTtiCvXjnCeAQsUodb"
+          "name": "AfroNerd",
+          "url": "https://open.spotify.com/artist/6SrgBbRgwhj5g0o2dzi0tD"
+        },
+        {
+          "name": "J\u00cfMONO",
+          "url": "https://open.spotify.com/artist/0PaLO6hpGGxwOTKczJPx15"
         }
       ],
-      "duration_ms": 151027,
-      "name": "Out Of Here",
-      "url": "https://open.spotify.com/track/5uT3yCvQmcB2elrRRTjuKS"
+      "duration_ms": 393934,
+      "name": "Motherland",
+      "url": "https://open.spotify.com/track/2z4vED9Yy3b58QuqETrj33"
     },
     {
-      "added_at": "2026-05-22 14:28:22",
+      "added_at": "2026-05-29 15:04:03",
       "album": {
-        "name": "10 years and counting",
-        "url": "https://open.spotify.com/album/3L2P40C8I4px97OfKPJjNN"
+        "name": "I\u2019m Not Perfect (Side A)",
+        "url": "https://open.spotify.com/album/7xlDgROinhV7PJVim8l9qf"
       },
       "artists": [
         {
-          "name": "A Message from Martyrs",
-          "url": "https://open.spotify.com/artist/7t5IZe95XCovYcgMATghI1"
+          "name": "Jimmy Brixton",
+          "url": "https://open.spotify.com/artist/7hGduJGVJq40Fpi4N7KvpE"
+        },
+        {
+          "name": "Joe Rodwell",
+          "url": "https://open.spotify.com/artist/08v2ze9Khd6JwFPdgDoDRR"
         }
       ],
-      "duration_ms": 252840,
-      "name": "Miles away, Breaking Down",
-      "url": "https://open.spotify.com/track/0w39JvvnggkN8DIUf6klYJ"
+      "duration_ms": 185266,
+      "name": "I\u2019m Not Perfect (But I\u2019m Perfect for You)",
+      "url": "https://open.spotify.com/track/11D2fHDw1WuEkQggMFQYMI"
     },
     {
-      "added_at": "2026-05-22 14:28:42",
+      "added_at": "2026-05-29 15:04:03",
       "album": {
-        "name": "Maskrosor",
-        "url": "https://open.spotify.com/album/4IM8psMGhW4xLUCply62u6"
+        "name": "Never Home",
+        "url": "https://open.spotify.com/album/0jUVwDAiHVBZthipYfFut7"
       },
       "artists": [
         {
-          "name": "Johan Norefalk",
-          "url": "https://open.spotify.com/artist/4JIgSi7ltbZkhyAPXJcEx9"
+          "name": "Only Once",
+          "url": "https://open.spotify.com/artist/4kyWlDJ4ihbDlRkJYpK68r"
         }
       ],
-      "duration_ms": 208718,
-      "name": "Maskrosor",
-      "url": "https://open.spotify.com/track/6OZdbl8LSiepwuu3RSAh8p"
+      "duration_ms": 195067,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/7y6hpxtVO5kYeSheSnl94P"
+    },
+    {
+      "added_at": "2026-05-29 15:04:03",
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/12Naqs14uYekU4RP7TSPRy"
+      },
+      "artists": [
+        {
+          "name": "Nzuri Soul",
+          "url": "https://open.spotify.com/artist/5l45C2Uh7oEvXto7rnSgos"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/3N5vPjrP09Ju98A6PufHam"
+    },
+    {
+      "added_at": "2026-05-29 15:04:03",
+      "album": {
+        "name": "Walk Away ...?",
+        "url": "https://open.spotify.com/album/2yTUPn9DobgfjTQCkKfJhF"
+      },
+      "artists": [
+        {
+          "name": "Kicking Horse",
+          "url": "https://open.spotify.com/artist/0zNvaryng6zgyzk54wsTxg"
+        }
+      ],
+      "duration_ms": 237674,
+      "name": "Walk Away ...?",
+      "url": "https://open.spotify.com/track/6gUC0OdZ5vQ51gHtl9lW8L"
+    },
+    {
+      "added_at": "2026-05-29 15:04:03",
+      "album": {
+        "name": "SMINO",
+        "url": "https://open.spotify.com/album/0rlmoCIPYE4HsRI5z5qIPT"
+      },
+      "artists": [
+        {
+          "name": "Cujo La'Vel",
+          "url": "https://open.spotify.com/artist/2rypu0U43AYINAbj23j3ei"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "SMINO",
+      "url": "https://open.spotify.com/track/0JlQ9tXAj4RWWw4Po8Urcf"
+    },
+    {
+      "added_at": "2026-05-29 15:04:03",
+      "album": {
+        "name": "Amber Rain",
+        "url": "https://open.spotify.com/album/0QXvAlZAeLIOXI1eofS9Xa"
+      },
+      "artists": [
+        {
+          "name": "Shoes In Hand",
+          "url": "https://open.spotify.com/artist/4PYhhY4cxVJ7Vzruu6o6sZ"
+        }
+      ],
+      "duration_ms": 287383,
+      "name": "Amber Rain",
+      "url": "https://open.spotify.com/track/5jE4mwLxpd4FXV1X5VhHgJ"
+    },
+    {
+      "added_at": "2026-05-29 15:04:03",
+      "album": {
+        "name": "Lockerroom",
+        "url": "https://open.spotify.com/album/0yaMBEZkQLHAWyWocCdBYA"
+      },
+      "artists": [
+        {
+          "name": "Anders Ekblad",
+          "url": "https://open.spotify.com/artist/5B4gH5IO4IAyAHag75iNyE"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Lockerroom",
+      "url": "https://open.spotify.com/track/2xOB9LoMOM1PiBKgXO8Q4o"
+    },
+    {
+      "added_at": "2026-05-29 15:04:03",
+      "album": {
+        "name": "yamas!",
+        "url": "https://open.spotify.com/album/3JXlfbShrQiDrQpivw6sT5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Papa",
+          "url": "https://open.spotify.com/artist/2ec8p4vt3OGLO2JIcOefIK"
+        }
+      ],
+      "duration_ms": 229680,
+      "name": "yamas!",
+      "url": "https://open.spotify.com/track/5AlW1uvNH41SAMiond7Otl"
+    },
+    {
+      "added_at": "2026-05-29 15:04:03",
+      "album": {
+        "name": "Once and Higher",
+        "url": "https://open.spotify.com/album/1L9nC1xtMj40ICBMkuCDVe"
+      },
+      "artists": [
+        {
+          "name": "Hollow Mockingbirds",
+          "url": "https://open.spotify.com/artist/61jT92XIntO90AWgpbE8mG"
+        }
+      ],
+      "duration_ms": 182818,
+      "name": "Once and higher",
+      "url": "https://open.spotify.com/track/2Wjd26K18GSvbRxYbt16E2"
+    },
+    {
+      "added_at": "2026-05-29 15:04:03",
+      "album": {
+        "name": "Take it piano",
+        "url": "https://open.spotify.com/album/26OjavM7kzreYfxUbU1tqA"
+      },
+      "artists": [
+        {
+          "name": "PMB",
+          "url": "https://open.spotify.com/artist/0gFk6UzBfXjDVrMj49SVMb"
+        },
+        {
+          "name": "Rockbabe",
+          "url": "https://open.spotify.com/artist/3pkH8jbxw4dhJYPU0MHWcv"
+        }
+      ],
+      "duration_ms": 206919,
+      "name": "Reflections Fade",
+      "url": "https://open.spotify.com/track/1ltx5Hhu8ESK5yg3EOfQKB"
+    },
+    {
+      "added_at": "2026-05-29 15:04:03",
+      "album": {
+        "name": "Red Heart",
+        "url": "https://open.spotify.com/album/2QKiwxONECMAUNX45vUo7N"
+      },
+      "artists": [
+        {
+          "name": "Red Heart",
+          "url": "https://open.spotify.com/artist/3jfjGrdg6pXh059TIUGFFW"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Mrs. Macchiato",
+      "url": "https://open.spotify.com/track/4J8x5cW0oICm9Pyh3VsBxY"
+    },
+    {
+      "added_at": "2026-05-29 15:04:03",
+      "album": {
+        "name": "Dead Air",
+        "url": "https://open.spotify.com/album/1S4ia8mEUa8fGxKoGYOftl"
+      },
+      "artists": [
+        {
+          "name": "Somnus Vetus",
+          "url": "https://open.spotify.com/artist/1HZ1iohQPODa2VGhgQGYMx"
+        }
+      ],
+      "duration_ms": 170724,
+      "name": "Dead Air",
+      "url": "https://open.spotify.com/track/5YbtaJ2YpZUWqHpO9YIYr4"
+    },
+    {
+      "added_at": "2026-05-29 15:04:03",
+      "album": {
+        "name": "Lo Repetir\u00eda",
+        "url": "https://open.spotify.com/album/1wD0qxDk53LYeTYC643f63"
+      },
+      "artists": [
+        {
+          "name": "Muri\u00f3 el Doctor",
+          "url": "https://open.spotify.com/artist/0zpcT4TLVcexOv1WOjci2J"
+        }
+      ],
+      "duration_ms": 217728,
+      "name": "Lo Repetir\u00eda",
+      "url": "https://open.spotify.com/track/46RBKukOre11863aRBOiNz"
     }
   ],
   "unique_name": "Independent Music Friday",

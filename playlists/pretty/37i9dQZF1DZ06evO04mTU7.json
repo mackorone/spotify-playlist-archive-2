@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 15589,
+  "num_followers": 15611,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAADDrkVkx+bUr36OkgtbCqK0",
+  "snapshot_id": "aheFgAAAAABR7yRjVBGjyznL/Nz6ErJT",
   "tracks": [
     {
       "added_at": null,
@@ -507,50 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SALA VERMELHA #03 - Ajuliacosta",
-        "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr"
-        },
-        {
-          "name": "MOVIMENTO",
-          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
-        }
-      ],
-      "duration_ms": 111157,
-      "name": "SALA VERMELHA #03 - Ajuliacosta",
-      "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Maffalda",
-          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
-        }
-      ],
-      "duration_ms": 53375,
-      "name": "Interl\u00fadio [MINI SAIA]",
-      "url": "https://open.spotify.com/track/4S3S7z29zHwoNz5nZ17xbx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUA FAVORITA",
         "url": "https://open.spotify.com/album/1307xU8fubUQzLFHRnlJ3e"
       },
@@ -571,6 +527,50 @@
       "duration_ms": 153191,
       "name": "SUA FAVORITA",
       "url": "https://open.spotify.com/track/4M4gvIsQmAZTRyfrFwnkIA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Quero saber",
+      "url": "https://open.spotify.com/track/5MKeuNq3s0BAc5XCSGp1Sa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SALA VERMELHA #03 - Ajuliacosta",
+        "url": "https://open.spotify.com/album/6JoOqhMlvJwtRM8MFQPhrK"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/45UuW6QeVHDtgaj05QsWjr"
+        },
+        {
+          "name": "MOVIMENTO",
+          "url": "https://open.spotify.com/artist/5UCBee5zwE22cjolkPthfQ"
+        }
+      ],
+      "duration_ms": 111157,
+      "name": "SALA VERMELHA #03 - Ajuliacosta",
+      "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outra Mulher",
+        "url": "https://open.spotify.com/album/5ECrWA4blGdEWHxpZdzEo6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "Outra Mulher",
+      "url": "https://open.spotify.com/track/45ws2YymvM6YhuvvkUfFbT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MEUS ERROS DE NOVO",
         "url": "https://open.spotify.com/album/3jm5RUaGwTaCjVQyRd6x7m"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 174722,
       "name": "Quero, Penso, Posso",
       "url": "https://open.spotify.com/track/1nEPNhPbHqskS7hNb98Orb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outra Mulher",
-        "url": "https://open.spotify.com/album/5ECrWA4blGdEWHxpZdzEo6"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "Outra Mulher",
-      "url": "https://open.spotify.com/track/45ws2YymvM6YhuvvkUfFbT"
     },
     {
       "added_at": null,

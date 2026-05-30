@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 47737,
+  "num_followers": 47743,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAABS6zgZa4WN9A2HM28gU+2W",
+  "snapshot_id": "aheFgAAAAACC0ezPi3QjvrYrwWs+WluO",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 165906,
+      "name": "LA SANTA",
+      "url": "https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trendy",
         "url": "https://open.spotify.com/album/2LoKfksKDwsDHmCECMiWxC"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 183564,
       "name": "Trendy",
       "url": "https://open.spotify.com/track/0DyDC12aCF5JLgR2zZkS9t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 165906,
-      "name": "LA SANTA",
-      "url": "https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly"
     },
     {
       "added_at": null,
@@ -903,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya No Quiero N\u00e1",
+        "url": "https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 192975,
+      "name": "Ya No Quiero N\u00e1",
+      "url": "https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u272a Ego (feat. GIMS & Lola Indigo)",
         "url": "https://open.spotify.com/album/6KAR8WOAy1GDf3Ffzi3Xkf"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 208094,
       "name": "\u272a Ego (feat. GIMS & Lola Indigo)",
       "url": "https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya No Quiero N\u00e1",
-        "url": "https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 192975,
-      "name": "Ya No Quiero N\u00e1",
-      "url": "https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX"
     },
     {
       "added_at": null,

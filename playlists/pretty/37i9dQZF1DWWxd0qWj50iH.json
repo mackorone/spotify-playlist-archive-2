@@ -1,13 +1,29 @@
 {
   "description": "A softer space.",
-  "num_followers": 614324,
+  "num_followers": 614281,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACLVhRQ1ttQ/LoVFs03F/dIh0vVD",
+  "snapshot_id": "AAAAANt4UnGO20oxm0f+Hbexd0BqQ50O",
   "tracks": [
+    {
+      "added_at": "2024-10-10 15:49:38",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
+    },
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
@@ -155,22 +171,6 @@
       "duration_ms": 219681,
       "name": "Garden Song",
       "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
-    },
-    {
-      "added_at": "2024-10-10 15:49:38",
-      "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -493,6 +493,22 @@
       "url": "https://open.spotify.com/track/45kn9BixcxJID8oNIknocn"
     },
     {
+      "added_at": "2026-05-29 08:14:58",
+      "album": {
+        "name": "Paper Angel",
+        "url": "https://open.spotify.com/album/4Hw8c99W3ZggHWWSJVQSrG"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Kemplay",
+          "url": "https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ"
+        }
+      ],
+      "duration_ms": 187568,
+      "name": "Paper Angel",
+      "url": "https://open.spotify.com/track/5zlazJ9iry3BYlq5ZcpbAy"
+    },
+    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "22, A Million",
@@ -509,22 +525,6 @@
       "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "For Sure",
-        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 593346,
-      "name": "For Sure",
-      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
-    },
-    {
       "added_at": "2024-08-29 19:59:48",
       "album": {
         "name": "Brooklyn Baby - Spotify Singles",
@@ -539,6 +539,22 @@
       "duration_ms": 345600,
       "name": "Brooklyn Baby - Spotify Singles",
       "url": "https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC"
+    },
+    {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "For Sure",
+        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 593346,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -701,26 +717,6 @@
       "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Philadelphia (with Searows)",
-        "url": "https://open.spotify.com/album/6FGCL7fcqEcGhXjI7IhQZF"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        },
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 182513,
-      "name": "Philadelphia (with Searows)",
-      "url": "https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH"
-    },
-    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
@@ -743,6 +739,26 @@
       "duration_ms": 250603,
       "name": "I might say something stupid featuring the 1975 & jon hopkins",
       "url": "https://open.spotify.com/track/4l4OfcR9UPPT06BINAxbiA"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Philadelphia (with Searows)",
+        "url": "https://open.spotify.com/album/6FGCL7fcqEcGhXjI7IhQZF"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        },
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 182513,
+      "name": "Philadelphia (with Searows)",
+      "url": "https://open.spotify.com/track/7areyJPur83YJOJLhvSXvH"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -831,22 +847,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "UFO",
-        "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "God Save The Animals",
         "url": "https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 174972,
       "name": "Ain't It Easy",
       "url": "https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/0gnAwDV4RbzPDj83bXj7qV"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -925,22 +941,6 @@
       "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
     },
     {
-      "added_at": "2024-07-12 12:20:23",
-      "album": {
-        "name": "my love mine all mine",
-        "url": "https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 165320,
-      "name": "my love mine all mine",
-      "url": "https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "COCONUT PERFUME",
@@ -955,6 +955,22 @@
       "duration_ms": 165250,
       "name": "COCONUT PERFUME",
       "url": "https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa"
+    },
+    {
+      "added_at": "2024-07-12 12:20:23",
+      "album": {
+        "name": "my love mine all mine",
+        "url": "https://open.spotify.com/album/5BBXUlOi58I4b5KdlH6ydb"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 165320,
+      "name": "my love mine all mine",
+      "url": "https://open.spotify.com/track/7p5s2kZojXFV5fSMRpc8pq"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "The Death Of Summer & Other Promises",
-        "url": "https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 269411,
-      "name": "Skin Parade",
-      "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Dark Corners and Alchemy",
         "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 153915,
       "name": "princes of melancholia",
       "url": "https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "The Death Of Summer & Other Promises",
+        "url": "https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 269411,
+      "name": "Skin Parade",
+      "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1395,6 +1411,22 @@
     {
       "added_at": "2024-10-10 23:35:59",
       "album": {
+        "name": "Sure",
+        "url": "https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW"
+      },
+      "artists": [
+        {
+          "name": "Alice Auer",
+          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+        }
+      ],
+      "duration_ms": 248421,
+      "name": "Sure",
+      "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
+    },
+    {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
         "name": "Glu",
         "url": "https://open.spotify.com/album/0JW4jZeObDmFprj3mtxjkb"
       },
@@ -1409,20 +1441,20 @@
       "url": "https://open.spotify.com/track/1PLFWJz52Tt6SaAs6Srtmt"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
+      "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Sure",
-        "url": "https://open.spotify.com/album/7uMJzHFEizcVMUMDJtkoxW"
+        "name": "life's a beach",
+        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
       },
       "artists": [
         {
-          "name": "Alice Auer",
-          "url": "https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8"
+          "name": "hard life",
+          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
         }
       ],
-      "duration_ms": 248421,
-      "name": "Sure",
-      "url": "https://open.spotify.com/track/6FfNMWBpPWrUUfrg5Jstym"
+      "duration_ms": 213671,
+      "name": "homesickness",
+      "url": "https://open.spotify.com/track/1Mq6UisCNxfqN9wxiV8NCj"
     },
     {
       "added_at": "2024-10-10 23:35:59",
@@ -1443,22 +1475,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "life's a beach",
-        "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
-      },
-      "artists": [
-        {
-          "name": "hard life",
-          "url": "https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK"
-        }
-      ],
-      "duration_ms": 213671,
-      "name": "homesickness",
-      "url": "https://open.spotify.com/track/1Mq6UisCNxfqN9wxiV8NCj"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Love Me In Chapters",
         "url": "https://open.spotify.com/album/3jSf7bYXENh5wdn2a01DtF"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 216933,
       "name": "Love Me In Chapters",
       "url": "https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Thank You (SOLOMON VERSION)",
-        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1507,6 +1507,22 @@
       "duration_ms": 214419,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Thank You (SOLOMON VERSION)",
+        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
     },
     {
       "added_at": "2024-08-29 19:59:48",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Life's Gonna Kill You (If You Let It)",
-        "url": "https://open.spotify.com/album/0IR4dwltpxKhwyD9DT6o6L"
-      },
-      "artists": [
-        {
-          "name": "Man-Made Sunshine",
-          "url": "https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th"
-        }
-      ],
-      "duration_ms": 275795,
-      "name": "Life's Gonna Kill You (If You Let It)",
-      "url": "https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Bunny",
         "url": "https://open.spotify.com/album/5cyu3tkdmGoB0BC0EJfz2V"
       },
@@ -1587,6 +1587,22 @@
       "duration_ms": 162678,
       "name": "Sleeping On My Own",
       "url": "https://open.spotify.com/track/0zGSlVBKxnZM0lBZyBmjlP"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Life's Gonna Kill You (If You Let It)",
+        "url": "https://open.spotify.com/album/0IR4dwltpxKhwyD9DT6o6L"
+      },
+      "artists": [
+        {
+          "name": "Man-Made Sunshine",
+          "url": "https://open.spotify.com/artist/3o7Com7ZIpDARXoOHwK4th"
+        }
+      ],
+      "duration_ms": 275795,
+      "name": "Life's Gonna Kill You (If You Let It)",
+      "url": "https://open.spotify.com/track/5BU3BEHViPFjJlOvqCm5VJ"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1635,22 +1651,6 @@
       "duration_ms": 275426,
       "name": "She Changes the Weather",
       "url": "https://open.spotify.com/track/3q8h28WsxkdRKAtkHNa6zR"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Younger & Dumber",
-        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 279040,
-      "name": "Younger & Dumber",
-      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
     }
   ],
   "unique_name": "Gentle",

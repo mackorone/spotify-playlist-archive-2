@@ -42155,6 +42155,24 @@
     },
     {
       "album": {
+        "name": "ULTRA",
+        "url": "https://open.spotify.com/album/7LDNQYVFZoapHCep1A2dYr"
+      },
+      "artists": [
+        {
+          "name": "Six Sex",
+          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98645,
+      "name": "Ultra Terrorific Fantasy",
+      "url": "https://open.spotify.com/track/2NZW8M76gciBAZcpq3ds1D"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
       },

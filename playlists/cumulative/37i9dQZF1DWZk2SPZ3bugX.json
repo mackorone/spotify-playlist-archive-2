@@ -400,7 +400,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 129996,
       "name": "and it felt like..",
       "url": "https://open.spotify.com/track/4KOhgGKxWz9Cj8XvHDDR3W"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 238837,
       "name": "Des Fleurs et des Bisous (feat. Odetto)",
       "url": "https://open.spotify.com/track/5pwaXboE8Bv6UlV6m03xsx"
@@ -1494,6 +1494,28 @@
       "duration_ms": 179000,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/7BwQTGuWP5SqdL2BqaKfgN"
+    },
+    {
+      "album": {
+        "name": "DU BLEU, DES \u00c9TOILES",
+        "url": "https://open.spotify.com/album/2YVUzDhAmCl9oeBG3s31Jy"
+      },
+      "artists": [
+        {
+          "name": "Odetto",
+          "url": "https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF"
+        },
+        {
+          "name": "Leita",
+          "url": "https://open.spotify.com/artist/5UTy08ibUbhiqGhuFm1Gzo"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244369,
+      "name": "DU BLEU, DES \u00c9TOILES",
+      "url": "https://open.spotify.com/track/1S74OGHX0KAZQ57zEblJAV"
     },
     {
       "album": {
@@ -4836,6 +4858,24 @@
       "duration_ms": 322855,
       "name": "The Sun - Yuksek Remix",
       "url": "https://open.spotify.com/track/1zaBd35OYaifEfAYFbJ2MP"
+    },
+    {
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202972,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
     },
     {
       "album": {

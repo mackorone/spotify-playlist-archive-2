@@ -5398,7 +5398,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 212592,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/1WkYhJMWhofw1XgVWfdMWE"
@@ -7470,7 +7470,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 245500,
       "name": "El Beneficio De La Duda",
       "url": "https://open.spotify.com/track/5yXt80BNZGbmHFd0NHZHNn"
@@ -8460,7 +8460,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 240092,
       "name": "Encantadora",
       "url": "https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb"
@@ -13106,7 +13106,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
@@ -13488,7 +13488,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 226298,
       "name": "LAS NOCHES",
       "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
@@ -16142,7 +16142,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 226035,
       "name": "MIENTRAS DUERMES",
       "url": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA"
@@ -19512,7 +19512,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 242390,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
@@ -20389,6 +20389,24 @@
     },
     {
       "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159786,
+      "name": "Polvo Rosita",
+      "url": "https://open.spotify.com/track/5ahJTs5f6GAAFOYhK3ojP8"
+    },
+    {
+      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -20592,10 +20610,28 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 186142,
       "name": "POR SUS BESOS",
       "url": "https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt"
+    },
+    {
+      "album": {
+        "name": "ACOMODO",
+        "url": "https://open.spotify.com/album/18ZBkv7H9aGiDhHVWeuuKv"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186142,
+      "name": "POR SUS BESOS",
+      "url": "https://open.spotify.com/track/7J0POh3pJKSmirVOsW4qnP"
     },
     {
       "album": {

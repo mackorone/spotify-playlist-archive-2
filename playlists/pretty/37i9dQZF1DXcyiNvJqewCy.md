@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 
 > \~ have a lovely time \~
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,946 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,998 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 3 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 4 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 | 5 | [Sky](https://open.spotify.com/track/5kqq5KZO3ZcZpckoL4yd2s) | [Baby Cool](https://open.spotify.com/artist/6tChZB9BU0fHdHrrwU5vgb) | [Sky](https://open.spotify.com/album/3JKqVfOTjo1l5nGlxuTpeQ) | 4:46 |
-| 6 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
+| 6 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
 | 7 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 |
 | 8 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
 | 9 | [Here Comes The Sun \- Remastered 2009](https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 3:05 |
 | 10 | [Flowers](https://open.spotify.com/track/1YJ0idEEKJtToXT8ynpY85) | [Kook Joey](https://open.spotify.com/artist/4yThQioYJaP6WS1fvTYeV8) | [Flowers](https://open.spotify.com/album/4XtaJl3aNbLTTpzaFI5SlG) | 4:28 |
-| 11 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
+| 11 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
 | 12 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 |
 | 13 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
 | 14 | [I'm On Fire](https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 2:39 |
@@ -75,15 +75,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 65 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 |
 | 66 | [Don't Worry Baby \- Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1) | 2:49 |
 | 67 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 |
-| 68 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
-| 69 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 |
+| 68 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Higher And Higher](https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN) | 2:59 |
+| 69 | [Old Pine](https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 5:28 |
 | 70 | [Heart of Gold \- 2009 Remaster](https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(2009 Remaster\)](https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0) | 3:07 |
 | 71 | [Cherry Wine \- Live](https://open.spotify.com/track/4Q66chx9WzqWcLItXoZ5r4) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 4:00 |
-| 72 | [3 Days](https://open.spotify.com/track/5KytIKWqQJXb2T3RNOyi9G) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 4:15 |
-| 73 | [hospital beach](https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [you missed the best part](https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx) | 2:04 |
+| 72 | [hospital beach](https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [you missed the best part](https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx) | 2:04 |
+| 73 | [3 Days](https://open.spotify.com/track/5KytIKWqQJXb2T3RNOyi9G) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 4:15 |
 | 74 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 |
-| 75 | [\(What A\) Wonderful World \- Mono](https://open.spotify.com/track/2G0GextMwZJLkNxcSZ7ZJ3) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Wonderful World Of Sam Cooke](https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op) | 2:08 |
-| 76 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 |
+| 75 | [Big Yellow Taxi](https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:14 |
+| 76 | [\(What A\) Wonderful World \- Mono](https://open.spotify.com/track/2G0GextMwZJLkNxcSZ7ZJ3) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Wonderful World Of Sam Cooke](https://open.spotify.com/album/11qEWtxwrKQUgOBPsff4op) | 2:08 |
 | 77 | [Can't Smile Without You](https://open.spotify.com/track/7qUTZEf6bgiApJEXpMAH5y) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Even Now](https://open.spotify.com/album/1ILknbSc8Ll0TqA8oJKkNV) | 3:13 |
 | 78 | [Groovin'](https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL) | [The Young Rascals](https://open.spotify.com/artist/5X3TuTi9OIsJXMGxPwTKM2) | [Groovin' \(Mono\)](https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U) | 2:31 |
 | 79 | [Glitter](https://open.spotify.com/track/23TPP1eeElFfvYVznskwCY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:00 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcyiNvJqewCy.md) - [plain]
 | 96 | [Saltwater](https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:07 |
 | 97 | [What the World Needs Now \(Is Love\)](https://open.spotify.com/track/6QhJngmKqelOcCc3bUiKYY) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Here Where There Is Love](https://open.spotify.com/album/1I5H0kXxePgiHJMFNhJws3) | 3:09 |
 | 98 | [Send It Back](https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Send It Back](https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6) | 2:53 |
-| 99 | [Big Jet Plane](https://open.spotify.com/track/2fbXJ0VpxhW7j0qcg1DnoZ) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down The Way](https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr) | 3:59 |
-| 100 | [Little Bitty Pretty One](https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT) | [Little Bitty Pretty One](https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG) | 2:23 |
+| 99 | [Little Bitty Pretty One](https://open.spotify.com/track/2yOXKIU9YtBSWjI3OA8tqj) | [Thurston Harris](https://open.spotify.com/artist/61VpPyyJn2bitby8tbafzT) | [Little Bitty Pretty One](https://open.spotify.com/album/0E72reqQQ7799PLL07DFnG) | 2:23 |
+| 100 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 |
 
 Snapshot ID: `AAAAANHMPGBsyKGsbtxxJKovRhfzwpsw`

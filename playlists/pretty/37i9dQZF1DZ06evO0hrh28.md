@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,473 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,453 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 26 | [intoxicao](https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:48 |
 | 27 | [+ Te Vale](https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [+ Te Vale](https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs) | 2:24 |
 | 28 | [Olvidarte \(feat\. Emilia\)](https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [NO HAY VERANO SIN GORDO](https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P) | 2:37 |
-| 29 | [GTA.mp3](https://open.spotify.com/track/6hv8hai0yo19JF2c6pppj6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:31 |
+| 29 | [IConic.mp3](https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 3:01 |
 | 30 | [Salgo a Bailar](https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Salgo a Bailar](https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs) | 2:37 |
 | 31 | [latin girl](https://open.spotify.com/track/42uno8Ku7ydFRwjD7OcXDI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:46 |
 | 32 | [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 |
-| 33 | [IConic.mp3](https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 3:01 |
+| 33 | [GTA.mp3](https://open.spotify.com/track/6hv8hai0yo19JF2c6pppj6) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:31 |
 | 34 | [pasarella 👠](https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [pasarella 👠](https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md) | 2:42 |
 | 35 | [cuatro veinte](https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:13 |
 | 36 | [DAMN GIRL](https://open.spotify.com/track/6WxhGNMIfCQBSWAYU4pupc) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [KUSTOM](https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 49 | [beautiful 💄](https://open.spotify.com/track/4oJUtlGzMWmyURfJsCwO3z) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [perfectas](https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl) | 2:23 |
 | 50 | [BB](https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [SUENA MYA!](https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO) | 2:36 |
 
-Snapshot ID: `ahY0AAAAAADnBVXByrU24/7dnq3h9dBz`
+Snapshot ID: `aheFgAAAAADaKe7pkGFQkwt4PuzZ+lp/`

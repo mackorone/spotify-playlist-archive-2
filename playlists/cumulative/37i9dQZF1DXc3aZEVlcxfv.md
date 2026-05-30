@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-620 songs - 1 day 17 hr 36 min
+621 songs - 1 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Lord I Love You](https://open.spotify.com/track/3ir79Qy8MqA19ryKuNwUJM) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Psalmos](https://open.spotify.com/artist/2G5QxlJm0UTmeALPvIlzk3) | [Cat.a.lyst](https://open.spotify.com/album/1uvDAcJh1YJqpdz6qEEpAw) | 4:33 | 2025-10-31 | 2026-01-15 |
 | [Lord Reign in Me](https://open.spotify.com/track/6veNqszPsxhmzKdjyeOyw8) | [Watershed Worship](https://open.spotify.com/artist/6ylTf1eWq7u2VNgnY3bj9w) | [Audience of One](https://open.spotify.com/album/7lloLTbXisV6ZJjheZLQDZ) | 1:56 | 2024-09-27 | 2025-03-07 |
 | [Lost](https://open.spotify.com/track/0eFv5lJ5Xz0OQCz2UYgn6O) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X) | [Lost](https://open.spotify.com/album/1Dnq18X4JFd1Vp7l7X1rQ5) | 3:25 | 2026-03-06 | 2026-05-17 |
+| [LOUD](https://open.spotify.com/track/3jhKmcPfx0TAexrvNCCiMG) | [Same OG](https://open.spotify.com/artist/76h9OBfmrRBZI5R4PA3r6i), [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [HEALING STREAMS](https://open.spotify.com/album/36XyxwnJyp6iq1qf27XcDz) | 4:26 | 2026-05-15 |  |
 | [Love](https://open.spotify.com/track/3ktSoy8XLQNyB5fe0fyRUk) | [Thirdmuziq](https://open.spotify.com/artist/5E1mryWdPxqk3xobb4aRbq), [Tem\-Pee](https://open.spotify.com/artist/1GhBskMXoupdS2AqTGiKNk) | [Love](https://open.spotify.com/album/7t62yvvGdfXvd0m6yuUT3Q) | 3:14 | 2025-02-21 | 2025-06-06 |
 | [Love Assurance](https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Sonship](https://open.spotify.com/album/50ErJvkakjjq0y6sVhIslo) | 2:34 | 2026-03-13 |  |
 | [Love at Home](https://open.spotify.com/track/0RUpurhisMyKIjeVvLAVPi) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX) | [Love at Home](https://open.spotify.com/album/1TPyRX1kSdY1H8q3sSt7Rt) | 2:41 | 2025-06-27 | 2025-08-01 |
@@ -549,7 +550,7 @@
 | [This is the day](https://open.spotify.com/track/2TRKKi6T9EqjFGwRddxz5d) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB) | [This is the day](https://open.spotify.com/album/292v6JlFtWgntRY87Ojj5M) | 2:44 | 2025-11-21 | 2026-01-15 |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2024-09-27 |  |
 | [Thousand Billion Hallelujahs](https://open.spotify.com/track/0l2deOvx1f7lRONAFoUc31) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [EXPANSION](https://open.spotify.com/album/3hsZtVUii8QpLxXWidG64F) | 3:00 | 2025-08-29 | 2025-10-17 |
-| [Titilailai](https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [Titilailai](https://open.spotify.com/album/0WSGb2H04LNh3FQhTbIBdZ) | 2:21 | 2025-12-26 |  |
+| [Titilailai](https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [Titilailai](https://open.spotify.com/album/0WSGb2H04LNh3FQhTbIBdZ) | 2:21 | 2025-12-26 | 2026-05-30 |
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2024-09-27 | 2025-11-28 |
 | [Tomorrow](https://open.spotify.com/track/0yHrFrklGXZZ5FWWyMg3ay) | [Awesome Madu](https://open.spotify.com/artist/3UH99r4rVxNIbqwvwthmb8), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Tomorrow](https://open.spotify.com/album/412BLUs46QfrWANlHvZwfm) | 3:13 | 2025-11-07 | 2026-03-20 |
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-07-25 |

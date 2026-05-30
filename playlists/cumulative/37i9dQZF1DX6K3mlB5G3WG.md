@@ -4,7 +4,7 @@
 
 > Noemi in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,271 songs - 7 day 0 hr 46 min
+3,274 songs - 7 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1202,6 +1202,7 @@
 | [Hasta Abajo](https://open.spotify.com/track/4DVROTv3t33sqQX59kWfop) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Abajo](https://open.spotify.com/album/1M9KqI7pdiXrWxB0XuwqcB) | 2:49 | 2026-04-23 | 2026-05-15 |
 | [Hasta El Fondo](https://open.spotify.com/track/7txAKuxgyFiBAb8EkSOQ2W) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Hasta El Fondo](https://open.spotify.com/album/36sJVQ62R6JUaE98pAnWXR) | 2:20 | 2025-03-20 | 2025-04-11 |
 | [hate it](https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [hate it](https://open.spotify.com/album/0zIFTeUIfR4L14AjyVPqT9) | 2:41 | 2025-02-20 | 2025-03-21 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-24 | 2025-08-22 |
 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 | 2025-04-17 | 2025-05-16 |
 | [Healing \(Shattered Heart\)](https://open.spotify.com/track/5upoXNxaUFybIF8XfRAaDp) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 2:42 | 2024-06-27 | 2024-07-19 |
@@ -1590,6 +1591,7 @@
 | [Leggero](https://open.spotify.com/track/6oezLlz5AOu0xuImcDhv3Q) | [Marco Masini](https://open.spotify.com/artist/0kcOfjhVfDMTS09s9aLmuD) | [Leggero](https://open.spotify.com/album/2VZalL06IGpnDve07xjTve) | 3:24 | 2024-10-10 | 2024-10-18 |
 | [LEI](https://open.spotify.com/track/5AJzeQyIOiPnHkojKzYIv8) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [LEI](https://open.spotify.com/album/7LD1dwR6RnMlZwG5JAXvRz) | 2:01 | 2026-02-12 | 2026-02-27 |
 | [Lemonade](https://open.spotify.com/track/5wW92RgvtGIsbmX6CUlLHy) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Lemonade](https://open.spotify.com/album/5qbWcmomWqrrCRxdXydX9g) | 2:39 | 2025-10-02 | 2025-10-24 |
+| [LEMONADE \(feat\. Becky G\)](https://open.spotify.com/track/4X0AxVnhlkSd4ggu78Tir1) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/5dscbWbSUuO5SNnrtiCVSB) | 3:07 | 2026-05-29 |  |
 | [Lentament](https://open.spotify.com/track/0USGPtpvgaDvQVTmTuncJa) | [$iPP](https://open.spotify.com/artist/6kXOHDXixySzXahoADlMWn), [Fox](https://open.spotify.com/artist/6r67SznMpiiHmRlILdRsZq) | [Lentament](https://open.spotify.com/album/1bDTqzOIg5zxwXI4ESj5uA) | 2:58 | 2026-05-21 |  |
 | [Lentamente](https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente](https://open.spotify.com/album/5COzjRVJky9LsYdMVGk1L3) | 3:26 | 2025-02-12 | 2025-03-07 |
 | [Leone](https://open.spotify.com/track/1guv7Km5uPI4hz5oV9VCSt) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Leone](https://open.spotify.com/album/2B92x0RnkkBIKW7QJeoDOj) | 3:05 | 2025-03-31 | 2025-04-25 |
@@ -2787,6 +2789,7 @@
 | [TAKI](https://open.spotify.com/track/3MWVpWO4ecGNoiQo0xDV1v) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [TAKI](https://open.spotify.com/album/4saRCI8Q95GWExjjO8FAJc) | 2:33 | 2025-05-22 | 2025-06-20 |
 | [Talk](https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 3:17 | 2025-03-14 | 2025-04-11 |
 | [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 | 2025-05-01 | 2025-05-30 |
+| [Talk On The Hill](https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Talk On The Hill](https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y) | 3:27 | 2026-05-29 |  |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-12 | 2024-10-11 |
 | [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 | 2026-01-09 | 2026-02-06 |
 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 3:13 | 2025-09-12 | 2025-10-10 |

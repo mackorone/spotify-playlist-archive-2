@@ -590,7 +590,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 266880,
       "name": "Alucin Machin",
       "url": "https://open.spotify.com/track/5AibZkdAmpg1cw9qP9KnsH"
@@ -1953,6 +1953,32 @@
     },
     {
       "album": {
+        "name": "El Buenas Tardes",
+        "url": "https://open.spotify.com/album/32JOOGL0H1g27caRVFuuIE"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211051,
+      "name": "El Buenas Tardes",
+      "url": "https://open.spotify.com/track/1gb3SXBZ05dqxy7KD616m6"
+    },
+    {
+      "album": {
         "name": "La Encomienda",
         "url": "https://open.spotify.com/album/3083B6DZOQS2VEQsKX1Vtk"
       },
@@ -2220,6 +2246,24 @@
       "duration_ms": 227733,
       "name": "El Gatu",
       "url": "https://open.spotify.com/track/2z9aPsKbuO2zz9cK85pe0s"
+    },
+    {
+      "album": {
+        "name": "El G\u00fcerito De Tepito",
+        "url": "https://open.spotify.com/album/0K05vUowe7XymuRvOMJnsx"
+      },
+      "artists": [
+        {
+          "name": "Los 2R",
+          "url": "https://open.spotify.com/artist/74XsIoc8avUfeIRwLi2BEv"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143622,
+      "name": "El G\u00fcerito De Tepito",
+      "url": "https://open.spotify.com/track/0dQYSg0kMLUjrVfpcoDQ9P"
     },
     {
       "album": {
@@ -3297,6 +3341,32 @@
     },
     {
       "album": {
+        "name": "S\u00edndrome Estocolmo",
+        "url": "https://open.spotify.com/album/4D10N5Tf0M2MEeyZzb1LPg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Amilkar Galaviz",
+          "url": "https://open.spotify.com/artist/13IcxOeQD6jVtvtzCuDjX4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223602,
+      "name": "La Bataca",
+      "url": "https://open.spotify.com/track/71M0QTH5Gz4JKn9DwwEuSO"
+    },
+    {
+      "album": {
         "name": "LA BESTIA",
         "url": "https://open.spotify.com/album/5gvZo5yLEy0tyPGJLsDzoS"
       },
@@ -4160,7 +4230,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 175730,
       "name": "Mariguana & Tequila",
       "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
@@ -5188,7 +5258,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 157007,
       "name": "Pixeleados",
       "url": "https://open.spotify.com/track/2WsauFntMS7R6c22DPgp6C"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "Voici les hits du moment avec C\u00e9line Dion",
+  "description": "Voici les hits du moment avec LOST",
   "name": "La Hit Liste",
   "tracks": [
     {
@@ -1831,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
+    {
+      "album": {
         "name": "Break Like a Bottle",
         "url": "https://open.spotify.com/album/0rkI9u24cCWE2jht32n7Kn"
       },
@@ -1916,6 +1934,40 @@
       "duration_ms": 167641,
       "name": "BUSINESS CLASS",
       "url": "https://open.spotify.com/track/25qdQ9CfExanGHqzeRTwF1"
+    },
+    {
+      "album": {
+        "name": "Buzz\u00e9 Pack",
+        "url": "https://open.spotify.com/album/3ifgCpBb6nVh76QEVGldnI"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        },
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        },
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "Xavier Euphory",
+          "url": "https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193166,
+      "name": "Buzz\u00e9 - Hip-Hop",
+      "url": "https://open.spotify.com/track/0DerIoTW99VdoDKNDBIVsU"
     },
     {
       "album": {
@@ -2346,7 +2398,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 210551,
       "name": "Chu m\u00eal\u00e9e",
       "url": "https://open.spotify.com/track/3RvI6GwcqRalD9LheKy8HM"
@@ -5153,6 +5205,24 @@
     },
     {
       "album": {
+        "name": "MAID OF HONOUR",
+        "url": "https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203746,
+      "name": "Hoe Phase",
+      "url": "https://open.spotify.com/track/0O6lm9N6qJclxNFHl51nkr"
+    },
+    {
+      "album": {
         "name": "Hold Me Close",
         "url": "https://open.spotify.com/album/6UKm9svBPqMv3AQMaUADsl"
       },
@@ -5244,7 +5314,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 218671,
       "name": "Home - V.F.",
       "url": "https://open.spotify.com/track/5SgC242kFaEGZcb5bOQwLM"
@@ -6037,6 +6107,44 @@
     },
     {
       "album": {
+        "name": "J't'en vacances (j'fais c'que j'veux)",
+        "url": "https://open.spotify.com/album/2MKmI0ZxUvXA5ZlEHeuvml"
+      },
+      "artists": [
+        {
+          "name": "Classe Moyenne",
+          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+        },
+        {
+          "name": "Orange Lessard",
+          "url": "https://open.spotify.com/artist/4Y7Z6989C1MbKYFpCVtvC6"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185116,
+      "name": "J't'en vacances (j'fais c'que j'veux) [feat. Orange Lessard]",
+      "url": "https://open.spotify.com/track/3cgOQLfKsHchjogpWaFE41"
+    },
+    {
+      "album": {
         "name": "J'te retiens pas",
         "url": "https://open.spotify.com/album/4ETjG0nCyDBHVQV6dieJHo"
       },
@@ -6413,6 +6521,24 @@
     },
     {
       "album": {
+        "name": "Deep Water",
+        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161075,
+      "name": "Kingdom of Fear",
+      "url": "https://open.spotify.com/track/5NIrBJ64wXc8eZB317cmqZ"
+    },
+    {
+      "album": {
         "name": "KONGOLESE SOUS BBL",
         "url": "https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p"
       },
@@ -6762,7 +6888,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188875,
       "name": "Last Name",
       "url": "https://open.spotify.com/track/7fHldbxnhn9KhxvT9yaZZh"
@@ -6874,6 +7000,28 @@
       "duration_ms": 104594,
       "name": "Le but - Version CH",
       "url": "https://open.spotify.com/track/373ZGWf421SNGD4xh4WqJM"
+    },
+    {
+      "album": {
+        "name": "Le c\u0153ur \u00e0 la bonne place",
+        "url": "https://open.spotify.com/album/69ZYia8iytJHvAOGO13UYP"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        },
+        {
+          "name": "Blynk",
+          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212586,
+      "name": "Le c\u0153ur \u00e0 la bonne place",
+      "url": "https://open.spotify.com/track/6ZNpcOR6olDX8ruuR1hBII"
     },
     {
       "album": {
@@ -7924,7 +8072,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 176213,
       "name": "melodrama",
       "url": "https://open.spotify.com/track/55vPnuXfuzXNW75JpuSczF"
@@ -10854,6 +11002,24 @@
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "album": {
+        "name": "Si j'avais un clou",
+        "url": "https://open.spotify.com/album/5Ta4hSDVG7dcLf2PSCFTpl"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229720,
+      "name": "Si j'avais un clou",
+      "url": "https://open.spotify.com/track/5Q5sQJpdEJpD5oXLJkAwAm"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "KASO en t\u00eate de la playlist num\u00e9ro un en Tunisie.",
-  "num_followers": 101828,
+  "num_followers": 101831,
   "original_name": "Hot Hits Tunisia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN2cp7HpZq5g8/CxWkDTB4G3F5+u",
+  "snapshot_id": "AAAAAEPmy2+rWsITf+HiCW6S+OUnQqUb",
   "tracks": [
     {
       "added_at": "2026-05-07 11:25:35",
@@ -23,22 +23,6 @@
       "duration_ms": 172800,
       "name": "Asafi",
       "url": "https://open.spotify.com/track/0THk1G8NT9kVwSDnAN4x0m"
-    },
-    {
-      "added_at": "2026-05-07 11:25:35",
-      "album": {
-        "name": "\u0648\u0644\u064a\u062f\u064a (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u201c\u062e\u0637\u064a\u0641\u0629\u201d)",
-        "url": "https://open.spotify.com/album/1qPennzXzfnFI2QPhiKrNB"
-      },
-      "artists": [
-        {
-          "name": "NORDO",
-          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
-        }
-      ],
-      "duration_ms": 154162,
-      "name": "\u0648\u0644\u064a\u062f\u064a (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u201c\u062e\u0637\u064a\u0641\u0629\u201d)",
-      "url": "https://open.spotify.com/track/6hDBmEDjgqGgkBHml6EIrL"
     },
     {
       "added_at": "2026-05-07 11:25:35",
@@ -79,6 +63,54 @@
     {
       "added_at": "2026-05-07 11:25:35",
       "album": {
+        "name": "Souk",
+        "url": "https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2"
+      },
+      "artists": [
+        {
+          "name": "Samara",
+          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Souk",
+      "url": "https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr"
+    },
+    {
+      "added_at": "2026-05-29 17:58:13",
+      "album": {
+        "name": "Oh Lala",
+        "url": "https://open.spotify.com/album/4M8IIVXJclA60xAPRPTODi"
+      },
+      "artists": [
+        {
+          "name": "Young Rz",
+          "url": "https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW"
+        }
+      ],
+      "duration_ms": 211282,
+      "name": "Oh Lala",
+      "url": "https://open.spotify.com/track/4dnPHgTsTnOHUaF83FeTxN"
+    },
+    {
+      "added_at": "2026-05-29 17:58:13",
+      "album": {
+        "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+        "url": "https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+      "url": "https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh"
+    },
+    {
+      "added_at": "2026-05-07 11:25:35",
+      "album": {
         "name": "YAMA",
         "url": "https://open.spotify.com/album/2fJsYrtbfo02Pe5Dp18TW5"
       },
@@ -95,34 +127,18 @@
     {
       "added_at": "2026-05-07 11:25:35",
       "album": {
-        "name": "Souk",
-        "url": "https://open.spotify.com/album/60yaMTkfX5OtAOnnrD8ya2"
+        "name": "\u0648\u0644\u064a\u062f\u064a (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u201c\u062e\u0637\u064a\u0641\u0629\u201d)",
+        "url": "https://open.spotify.com/album/1qPennzXzfnFI2QPhiKrNB"
       },
       "artists": [
         {
-          "name": "Samara",
-          "url": "https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm"
+          "name": "NORDO",
+          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Souk",
-      "url": "https://open.spotify.com/track/0xbh3QhQx7S3GLEOWXWzGr"
-    },
-    {
-      "added_at": "2026-05-07 11:25:35",
-      "album": {
-        "name": "Doctorat",
-        "url": "https://open.spotify.com/album/673MYs7BkJz4DoHiDUOeY2"
-      },
-      "artists": [
-        {
-          "name": "Young Rz",
-          "url": "https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW"
-        }
-      ],
-      "duration_ms": 212628,
-      "name": "Doctorat",
-      "url": "https://open.spotify.com/track/4QelrPc5Hukm5cM6FKIRG0"
+      "duration_ms": 154162,
+      "name": "\u0648\u0644\u064a\u062f\u064a (\u0645\u0646 \u0645\u0633\u0644\u0633\u0644 \u201c\u062e\u0637\u064a\u0641\u0629\u201d)",
+      "url": "https://open.spotify.com/track/6hDBmEDjgqGgkBHml6EIrL"
     },
     {
       "added_at": "2026-05-07 11:25:35",
@@ -171,22 +187,6 @@
       "duration_ms": 228817,
       "name": "Gamra",
       "url": "https://open.spotify.com/track/03E7f3dQKtLKvEM97Rh6Nz"
-    },
-    {
-      "added_at": "2026-05-07 11:25:35",
-      "album": {
-        "name": "Sahak Isho2",
-        "url": "https://open.spotify.com/album/0Z3zSzfMUnG8CyKJOQjWkD"
-      },
-      "artists": [
-        {
-          "name": "Fadel Chaker",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
-        }
-      ],
-      "duration_ms": 204615,
-      "name": "Sahak Isho2",
-      "url": "https://open.spotify.com/track/3zlKK9XIKHfKgNE1NDTw65"
     },
     {
       "added_at": "2026-05-07 11:25:35",
@@ -403,6 +403,22 @@
       "duration_ms": 167813,
       "name": "NINAO",
       "url": "https://open.spotify.com/track/2uBKQbVcw8G9m34lGYM6VA"
+    },
+    {
+      "added_at": "2026-05-07 11:25:35",
+      "album": {
+        "name": "Doctorat",
+        "url": "https://open.spotify.com/album/673MYs7BkJz4DoHiDUOeY2"
+      },
+      "artists": [
+        {
+          "name": "Young Rz",
+          "url": "https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW"
+        }
+      ],
+      "duration_ms": 212628,
+      "name": "Doctorat",
+      "url": "https://open.spotify.com/track/4QelrPc5Hukm5cM6FKIRG0"
     },
     {
       "added_at": "2026-05-07 11:25:35",
@@ -631,22 +647,6 @@
       "duration_ms": 165978,
       "name": "SOIS PAS TIMIDE",
       "url": "https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo"
-    },
-    {
-      "added_at": "2026-05-07 11:25:35",
-      "album": {
-        "name": "Mazelt sghir",
-        "url": "https://open.spotify.com/album/5IZagv0nBNCgIZHt0TF0PZ"
-      },
-      "artists": [
-        {
-          "name": "Kaso",
-          "url": "https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0"
-        }
-      ],
-      "duration_ms": 232720,
-      "name": "Mazelt sghir",
-      "url": "https://open.spotify.com/track/6VITZeXhpy0zUSolcl0u92"
     },
     {
       "added_at": "2026-05-07 11:25:35",

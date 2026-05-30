@@ -1,13 +1,41 @@
 {
-  "description": "50% techno, 50% house \ud83d\ude4c Tech house operators, featuring Michael Bibi",
-  "num_followers": 706158,
+  "description": "50% techno, 50% house \ud83d\udc77\ud83c\udffc Tech house hard workers, featuring Beltran",
+  "num_followers": 706212,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKTljiS2DG/jxTZixKp3+LoQYTp7",
+  "snapshot_id": "AAAAAGewdP243QPd/qFXd1vqRm0zfICf",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:01:34",
+      "album": {
+        "name": "TOOLS 4 HARDWORKERS 007",
+        "url": "https://open.spotify.com/album/1WdH5QGXvlpicAu6aVd1cI"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        },
+        {
+          "name": "Rising Dust",
+          "url": "https://open.spotify.com/artist/5ljIs5Y5MfXRmhB97gQpq0"
+        },
+        {
+          "name": "Coexist",
+          "url": "https://open.spotify.com/artist/7I08DUDSBedSy10Pctjpjf"
+        }
+      ],
+      "duration_ms": 229311,
+      "name": "We Come In Peace",
+      "url": "https://open.spotify.com/track/0IaISsXYU338WOnMZozMKw"
+    },
     {
       "added_at": "2026-05-22 07:00:11",
       "album": {
@@ -31,26 +59,6 @@
     {
       "added_at": "2026-05-15 04:02:19",
       "album": {
-        "name": "Bad Wolf (feat. UNIIQU3)",
-        "url": "https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        },
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        }
-      ],
-      "duration_ms": 185954,
-      "name": "Bad Wolf (feat. UNIIQU3)",
-      "url": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
-    },
-    {
-      "added_at": "2026-05-15 04:02:19",
-      "album": {
         "name": "Hands Up",
         "url": "https://open.spotify.com/album/2r6q6PurKAaN31ws05LZKC"
       },
@@ -67,6 +75,22 @@
       "duration_ms": 187968,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/2X3MVthrKaaP8RbrEen8UJ"
+    },
+    {
+      "added_at": "2026-05-29 04:01:34",
+      "album": {
+        "name": "Make A Cry",
+        "url": "https://open.spotify.com/album/0GA65fAby51P50ILsNHkCK"
+      },
+      "artists": [
+        {
+          "name": "Pedroz",
+          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Make A Cry",
+      "url": "https://open.spotify.com/track/3GmIhCGeEF35TIdEcrIAVO"
     },
     {
       "added_at": "2026-05-15 04:02:19",
@@ -97,6 +121,62 @@
       "url": "https://open.spotify.com/track/5hYSsLVQ6Isk6YZrnsBj4E"
     },
     {
+      "added_at": "2026-05-15 04:02:19",
+      "album": {
+        "name": "Bad Wolf (feat. UNIIQU3)",
+        "url": "https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 185954,
+      "name": "Bad Wolf (feat. UNIIQU3)",
+      "url": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
+    },
+    {
+      "added_at": "2026-05-29 04:01:34",
+      "album": {
+        "name": "All The Ladies",
+        "url": "https://open.spotify.com/album/3lH8QOtePbSS4QMxQ0Y9AZ"
+      },
+      "artists": [
+        {
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+        }
+      ],
+      "duration_ms": 156969,
+      "name": "All The Ladies",
+      "url": "https://open.spotify.com/track/2gKKPuIyQpNmcjwzXPgfDf"
+    },
+    {
+      "added_at": "2026-05-28 12:51:38",
+      "album": {
+        "name": "Break It",
+        "url": "https://open.spotify.com/album/0JD8sFcQhjXwK68RrGrh5Y"
+      },
+      "artists": [
+        {
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+        },
+        {
+          "name": "JUNTARO",
+          "url": "https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Break It",
+      "url": "https://open.spotify.com/track/05vKwFHsiDpr6zk7rG1qd6"
+    },
+    {
       "added_at": "2026-04-24 04:01:38",
       "album": {
         "name": "Club Rompas, Vol. 2",
@@ -125,24 +205,20 @@
       "url": "https://open.spotify.com/track/5IH4qsWYYpC4o1SNm1aQX2"
     },
     {
-      "added_at": "2026-05-28 12:51:38",
+      "added_at": "2026-05-29 04:01:34",
       "album": {
-        "name": "Break It",
-        "url": "https://open.spotify.com/album/0JD8sFcQhjXwK68RrGrh5Y"
+        "name": "Play Me",
+        "url": "https://open.spotify.com/album/1tsEnD0EAqb4ViodtvYlxo"
       },
       "artists": [
         {
-          "name": "HILLS",
-          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
-        },
-        {
-          "name": "JUNTARO",
-          "url": "https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9"
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
         }
       ],
-      "duration_ms": 187272,
-      "name": "Break It",
-      "url": "https://open.spotify.com/track/05vKwFHsiDpr6zk7rG1qd6"
+      "duration_ms": 144923,
+      "name": "Play Me",
+      "url": "https://open.spotify.com/track/3fvZBt6yQ5A23Y83D2Jmw5"
     },
     {
       "added_at": "2026-05-01 04:01:01",
@@ -225,6 +301,22 @@
       "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
     },
     {
+      "added_at": "2026-05-29 04:01:34",
+      "album": {
+        "name": "Run The Block",
+        "url": "https://open.spotify.com/album/6omffP9EB1wX1bNyqIqXuN"
+      },
+      "artists": [
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        }
+      ],
+      "duration_ms": 146062,
+      "name": "Run The Block",
+      "url": "https://open.spotify.com/track/4kykIxlWP3Kj8A15rU7DHs"
+    },
+    {
       "added_at": "2026-05-01 04:01:01",
       "album": {
         "name": "HOTS 4 U",
@@ -243,6 +335,22 @@
       "duration_ms": 214269,
       "name": "HOTS 4 U",
       "url": "https://open.spotify.com/track/5nMrR3Ed99WcQ4Vv0wy8Bf"
+    },
+    {
+      "added_at": "2026-05-27 23:32:12",
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4p6EfGZqcdYmzg9ZVlGpHv"
+      },
+      "artists": [
+        {
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+        }
+      ],
+      "duration_ms": 145036,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
     },
     {
       "added_at": "2026-05-08 04:01:48",
@@ -281,20 +389,20 @@
       "url": "https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf"
     },
     {
-      "added_at": "2026-05-27 23:32:12",
+      "added_at": "2026-05-29 04:01:34",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/4p6EfGZqcdYmzg9ZVlGpHv"
+        "name": "Get Some",
+        "url": "https://open.spotify.com/album/5mCysOSQnJmNq58TPm8qrF"
       },
       "artists": [
         {
-          "name": "MARTA",
-          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+          "name": "M\u00e9ssous",
+          "url": "https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA"
         }
       ],
-      "duration_ms": 145036,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
+      "duration_ms": 210461,
+      "name": "Get Some",
+      "url": "https://open.spotify.com/track/1GegmzGPEhqIHfXQ2p6UxK"
     },
     {
       "added_at": "2026-04-24 04:01:38",
@@ -313,6 +421,26 @@
       "url": "https://open.spotify.com/track/3zW2p2IIK885aOrjfDJEXv"
     },
     {
+      "added_at": "2026-05-29 04:01:34",
+      "album": {
+        "name": "Bom Dia",
+        "url": "https://open.spotify.com/album/3vm7khm19fJj0rHnzHgIKZ"
+      },
+      "artists": [
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "Breaking Beattz",
+          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Bom Dia",
+      "url": "https://open.spotify.com/track/4XwAXL9rSGfAWMFmxHLVsv"
+    },
+    {
       "added_at": "2026-05-15 04:02:19",
       "album": {
         "name": "Off The Floor",
@@ -327,6 +455,22 @@
       "duration_ms": 193581,
       "name": "Off The Floor",
       "url": "https://open.spotify.com/track/2mEWM9kRDM8ISzL2nDcqq1"
+    },
+    {
+      "added_at": "2026-05-29 04:01:34",
+      "album": {
+        "name": "Bite Down",
+        "url": "https://open.spotify.com/album/4nyDDuVwF54WlDiJ5sZzIZ"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        }
+      ],
+      "duration_ms": 184545,
+      "name": "Bite Down",
+      "url": "https://open.spotify.com/track/4sCBDKHWDP3cBYrJW3fDzO"
     },
     {
       "added_at": "2026-05-27 23:32:12",
@@ -397,6 +541,22 @@
       "url": "https://open.spotify.com/track/4q6hiV2HKgd25tq9ZX0IzM"
     },
     {
+      "added_at": "2026-05-27 23:32:12",
+      "album": {
+        "name": "Digital Soul (Freak)",
+        "url": "https://open.spotify.com/album/1rSxhVPnSHs1f5rmMH48aE"
+      },
+      "artists": [
+        {
+          "name": "Aitor Astiz",
+          "url": "https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz"
+        }
+      ],
+      "duration_ms": 186207,
+      "name": "Digital Soul (Freak)",
+      "url": "https://open.spotify.com/track/5Ie6l59jAe0YcHX5rl0uHO"
+    },
+    {
       "added_at": "2026-05-08 04:01:48",
       "album": {
         "name": "Make You Fight",
@@ -415,22 +575,6 @@
       "duration_ms": 175899,
       "name": "Make You Fight",
       "url": "https://open.spotify.com/track/5di9ztnBe0d2qim9ngmiMD"
-    },
-    {
-      "added_at": "2026-05-27 23:32:12",
-      "album": {
-        "name": "Digital Soul (Freak)",
-        "url": "https://open.spotify.com/album/1rSxhVPnSHs1f5rmMH48aE"
-      },
-      "artists": [
-        {
-          "name": "Aitor Astiz",
-          "url": "https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz"
-        }
-      ],
-      "duration_ms": 186207,
-      "name": "Digital Soul (Freak)",
-      "url": "https://open.spotify.com/track/5Ie6l59jAe0YcHX5rl0uHO"
     },
     {
       "added_at": "2026-04-10 04:02:10",
@@ -455,6 +599,42 @@
       "duration_ms": 232093,
       "name": "Freaky 1",
       "url": "https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB"
+    },
+    {
+      "added_at": "2026-05-29 04:01:34",
+      "album": {
+        "name": "Vibra",
+        "url": "https://open.spotify.com/album/4P9dhKgbomzPg88ApzzsNq"
+      },
+      "artists": [
+        {
+          "name": "John Cala",
+          "url": "https://open.spotify.com/artist/1EIT6jQWPXDLpc7xeDPjGP"
+        },
+        {
+          "name": "Vassel",
+          "url": "https://open.spotify.com/artist/7plSPOfi0PyZj4OVi6WaL8"
+        }
+      ],
+      "duration_ms": 167017,
+      "name": "Vibra",
+      "url": "https://open.spotify.com/track/4FifetlxshTgJf2KyaPgMv"
+    },
+    {
+      "added_at": "2026-05-29 04:01:34",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/0LVYeqGORgTR3H1rj5UIFx"
+      },
+      "artists": [
+        {
+          "name": "Eve Lauren",
+          "url": "https://open.spotify.com/artist/0VGRIovFmOFenDy7hnwr7g"
+        }
+      ],
+      "duration_ms": 213543,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/1o8TJOACq1zlp5uclv8VlW"
     },
     {
       "added_at": "2026-05-22 07:00:11",
@@ -525,6 +705,22 @@
       "url": "https://open.spotify.com/track/3kr06joltj0ObqTm3sr4Nw"
     },
     {
+      "added_at": "2026-05-29 04:01:34",
+      "album": {
+        "name": "Higher & Higher",
+        "url": "https://open.spotify.com/album/4F5qN3pGXPO3X4qYeqPGt3"
+      },
+      "artists": [
+        {
+          "name": "Mz Worthy",
+          "url": "https://open.spotify.com/artist/6AYgHoc0rxMltUiblsFc6c"
+        }
+      ],
+      "duration_ms": 325139,
+      "name": "Higher & Higher",
+      "url": "https://open.spotify.com/track/7acpcE5vAYaLli9wgQG2Jw"
+    },
+    {
       "added_at": "2026-05-01 04:01:01",
       "album": {
         "name": "Emergency Loop",
@@ -579,22 +775,6 @@
       "duration_ms": 233437,
       "name": "Pink P",
       "url": "https://open.spotify.com/track/3XFNp0OZ9OYMkBHuSHYvIm"
-    },
-    {
-      "added_at": "2026-05-08 04:01:48",
-      "album": {
-        "name": "Trumpet Man",
-        "url": "https://open.spotify.com/album/43FesILgFuqoHbEWRDruLk"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Trumpet Man",
-      "url": "https://open.spotify.com/track/4ywtYcNxDcCzk8KsM6Oynj"
     },
     {
       "added_at": "2026-05-15 04:02:19",
@@ -685,26 +865,6 @@
       "url": "https://open.spotify.com/track/30LAaJpoP4d1GCw0HQl171"
     },
     {
-      "added_at": "2026-05-08 04:01:48",
-      "album": {
-        "name": "REAL FRIENDS",
-        "url": "https://open.spotify.com/album/66p2mczPFa6fUXmFUrORbU"
-      },
-      "artists": [
-        {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        },
-        {
-          "name": "BROSA",
-          "url": "https://open.spotify.com/artist/7u5FoxjVdLM8hoqkRndNiR"
-        }
-      ],
-      "duration_ms": 146417,
-      "name": "WHEN I DANCE",
-      "url": "https://open.spotify.com/track/6fL742pqRfbXtWrznr5v90"
-    },
-    {
       "added_at": "2026-05-15 04:02:19",
       "album": {
         "name": "Back Around",
@@ -791,22 +951,6 @@
       "duration_ms": 174759,
       "name": "Function",
       "url": "https://open.spotify.com/track/1bhRw5feZyeh5Ti0o40wC9"
-    },
-    {
-      "added_at": "2026-05-01 04:01:01",
-      "album": {
-        "name": "Make You Feel",
-        "url": "https://open.spotify.com/album/5UjLuqTfJLBn4i5OUa29vW"
-      },
-      "artists": [
-        {
-          "name": "Weska",
-          "url": "https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci"
-        }
-      ],
-      "duration_ms": 251192,
-      "name": "Make You Feel",
-      "url": "https://open.spotify.com/track/4H2oKZmIcH7hT80GlWU12q"
     },
     {
       "added_at": "2026-05-08 04:01:48",
@@ -1025,26 +1169,6 @@
       "url": "https://open.spotify.com/track/0RGoQAGnUlFkKcaCta4vmH"
     },
     {
-      "added_at": "2026-04-10 04:02:10",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/4RzmOoMYwekQ0QzQgt04fI"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/6bqXAqWcPzacKkXTjfjypW"
-    },
-    {
       "added_at": "2026-04-17 04:02:07",
       "album": {
         "name": "No Panties",
@@ -1219,22 +1343,6 @@
       "duration_ms": 234685,
       "name": "Lazer Beams",
       "url": "https://open.spotify.com/track/3MGn2DU2SY4Yo1dQdyHX1N"
-    },
-    {
-      "added_at": "2026-04-24 04:01:38",
-      "album": {
-        "name": "Come Inside",
-        "url": "https://open.spotify.com/album/1ZGKFD6SpEcceKh66Hw22t"
-      },
-      "artists": [
-        {
-          "name": "Jay de Lys",
-          "url": "https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Come Inside",
-      "url": "https://open.spotify.com/track/3VO7bx0bxXJ8K5Rx4QVJQO"
     },
     {
       "added_at": "2026-04-10 17:59:10",
@@ -1585,42 +1693,6 @@
       "url": "https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM"
     },
     {
-      "added_at": "2026-04-17 04:02:07",
-      "album": {
-        "name": "Panic Button",
-        "url": "https://open.spotify.com/album/6CihRTnhzAUZ6X1J91RoKR"
-      },
-      "artists": [
-        {
-          "name": "James Poole",
-          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
-        }
-      ],
-      "duration_ms": 162496,
-      "name": "Panic Button",
-      "url": "https://open.spotify.com/track/5Xo4XgeiUo3ZbfXdDnUBoC"
-    },
-    {
-      "added_at": "2026-04-17 04:02:07",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/3KsCoigxkN6AO4J2MknbrF"
-      },
-      "artists": [
-        {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
-        },
-        {
-          "name": "Noah Loco",
-          "url": "https://open.spotify.com/artist/2dM7JfORAeEa88KubhKrxA"
-        }
-      ],
-      "duration_ms": 177709,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/2WTwPjXsbIhDYoT9JPbU0p"
-    },
-    {
       "added_at": "2026-03-20 04:00:45",
       "album": {
         "name": "FREAK",
@@ -1735,22 +1807,6 @@
     {
       "added_at": "2026-03-20 04:00:45",
       "album": {
-        "name": "Get Stupid",
-        "url": "https://open.spotify.com/album/0pKkWIJvzspCKrd81ztjpN"
-      },
-      "artists": [
-        {
-          "name": "GREG 99",
-          "url": "https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Get Stupid",
-      "url": "https://open.spotify.com/track/4SlGZwTjgOXjOK7Pqw7xGW"
-    },
-    {
-      "added_at": "2026-03-20 04:00:45",
-      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/4KQwLxOFOK8dXsBS1aDU0e"
       },
@@ -1807,30 +1863,6 @@
       "duration_ms": 225000,
       "name": "Ain't Nobody (Goosey Remix)",
       "url": "https://open.spotify.com/track/41BP9oPAIS8sWWSH362V8Y"
-    },
-    {
-      "added_at": "2026-04-03 04:01:37",
-      "album": {
-        "name": "Bite It",
-        "url": "https://open.spotify.com/album/7eN3sPeZDx20vvcfnz782A"
-      },
-      "artists": [
-        {
-          "name": "Millero",
-          "url": "https://open.spotify.com/artist/1g3D0SFLbUx6nuGgLSuegX"
-        },
-        {
-          "name": "Derun",
-          "url": "https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo"
-        },
-        {
-          "name": "The Anahit",
-          "url": "https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Bite It",
-      "url": "https://open.spotify.com/track/3fokbMXkxwEYOSn9eyv4To"
     },
     {
       "added_at": "2026-03-13 04:00:46",
@@ -1895,22 +1927,6 @@
       "duration_ms": 156328,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/784gvnhXZ2YgQLlP4x2KkN"
-    },
-    {
-      "added_at": "2026-03-20 04:00:45",
-      "album": {
-        "name": "Drillo",
-        "url": "https://open.spotify.com/album/0BVMWzBaxrtDO8NSXmIHpi"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Drillo",
-      "url": "https://open.spotify.com/track/7G0NzjUvupxaqzaJYbIvhC"
     },
     {
       "added_at": "2026-03-13 04:00:46",
@@ -2083,30 +2099,6 @@
       "duration_ms": 165990,
       "name": "Money",
       "url": "https://open.spotify.com/track/4t2q5k9uoZGzKe2px6j65Q"
-    },
-    {
-      "added_at": "2026-01-30 05:00:45",
-      "album": {
-        "name": "Hell Yeah (Feat. Waxmaster)",
-        "url": "https://open.spotify.com/album/6dl23YahpDggLsz3CUStQR"
-      },
-      "artists": [
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        },
-        {
-          "name": "Parris Mitchell",
-          "url": "https://open.spotify.com/artist/58cT4ua09AH5Le3Ch6Vy5p"
-        },
-        {
-          "name": "Waxmaster",
-          "url": "https://open.spotify.com/artist/5Z53U9BFMK9ndmnMW4HHR7"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Hell Yeah (Feat. Waxmaster)",
-      "url": "https://open.spotify.com/track/4fX5TrTpbze93zEzkhDOBb"
     },
     {
       "added_at": "2025-11-21 05:00:30",

@@ -3734,7 +3734,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 159947,
       "name": "Maxine",
       "url": "https://open.spotify.com/track/4X5Hz6qf4QjMQ8U1AJqZso"
@@ -5489,6 +5489,28 @@
     },
     {
       "album": {
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/5KJYpO15Cv5uDPE4OZDJbP"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/2HNqGqMFyUjyjGyi6K58xm"
+    },
+    {
+      "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/3wG3K37cJxmEei9dhW7UCG"
       },
@@ -6690,7 +6712,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 179435,
       "name": "TUN UP",
       "url": "https://open.spotify.com/track/4VT38McOaMAZRJfMZnk5hQ"
@@ -7278,6 +7300,28 @@
       "duration_ms": 154920,
       "name": "Work It (Bedroom Bully)",
       "url": "https://open.spotify.com/track/4kw9tId4PVFcbDO8NmOlCF"
+    },
+    {
+      "album": {
+        "name": "WUL UP",
+        "url": "https://open.spotify.com/album/0jVrMzHjI5RN3lXJQvKBlK"
+      },
+      "artists": [
+        {
+          "name": "Armanii",
+          "url": "https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey"
+        },
+        {
+          "name": "Notnice",
+          "url": "https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165751,
+      "name": "WUL UP",
+      "url": "https://open.spotify.com/track/74My9unxFHLmvw0ezYZTBO"
     },
     {
       "album": {

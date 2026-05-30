@@ -577,6 +577,28 @@
     },
     {
       "album": {
+        "name": "PIIKA",
+        "url": "https://open.spotify.com/album/7uQXB9fAq0FLImsAIjjuKH"
+      },
+      "artists": [
+        {
+          "name": "keiju",
+          "url": "https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5"
+        },
+        {
+          "name": "MOMO",
+          "url": "https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148181,
+      "name": "10!",
+      "url": "https://open.spotify.com/track/5wGpuoijb2FQHzk4AQeBw0"
+    },
+    {
+      "album": {
         "name": "10,000 Faces",
         "url": "https://open.spotify.com/album/49gl6H1cpjMfK5UFyx4NUg"
       },
@@ -64565,6 +64587,24 @@
     },
     {
       "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "album": {
         "name": "Hate This Song",
         "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
       },
@@ -71060,13 +71100,17 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191786,
-      "name": "Hostage",
+      "name": "Hostage (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
     },
     {
@@ -118462,6 +118506,24 @@
       "duration_ms": 151653,
       "name": "Mietin Liikaa",
       "url": "https://open.spotify.com/track/2K38sVzqubrlxbBY4XLJRG"
+    },
+    {
+      "album": {
+        "name": "Mietin sit\u00e4 vasta huomenna",
+        "url": "https://open.spotify.com/album/2HNDaKn80vHVpDAWIv8Gfc"
+      },
+      "artists": [
+        {
+          "name": "Huhu",
+          "url": "https://open.spotify.com/artist/7aRIdbrmTNfVtuLW8JPHCF"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206093,
+      "name": "Mietin sit\u00e4 vasta huomenna",
+      "url": "https://open.spotify.com/track/5q081mcOekEUqq3dJQlcBx"
     },
     {
       "album": {
@@ -174173,6 +174235,24 @@
     },
     {
       "album": {
+        "name": "Still No Good",
+        "url": "https://open.spotify.com/album/2QhsqBj5eOk6Mfg2f92DKW"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207488,
+      "name": "Still No Good",
+      "url": "https://open.spotify.com/track/7BmBO5pX8clT3vcZHmMkX2"
+    },
+    {
+      "album": {
         "name": "Still Sincere",
         "url": "https://open.spotify.com/album/2vQKtinvpcN8m5kwk8yU0d"
       },
@@ -182378,6 +182458,24 @@
       "duration_ms": 161706,
       "name": "Talk My Shit",
       "url": "https://open.spotify.com/track/0w2rnChlsC41RjhxBFwufW"
+    },
+    {
+      "album": {
+        "name": "Talk On The Hill",
+        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207774,
+      "name": "Talk On The Hill",
+      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
     },
     {
       "album": {
@@ -194030,24 +194128,6 @@
       "duration_ms": 246516,
       "name": "Toyota Camry",
       "url": "https://open.spotify.com/track/1xkHI7u9Pt5CGFoeppAcKA"
-    },
-    {
-      "album": {
-        "name": "PIIKA",
-        "url": "https://open.spotify.com/album/7uQXB9fAq0FLImsAIjjuKH"
-      },
-      "artists": [
-        {
-          "name": "keiju",
-          "url": "https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/5wGpuoijb2FQHzk4AQeBw0"
     },
     {
       "album": {

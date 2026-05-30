@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 
 > låtarna som inte går att få nog av.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,031 likes - 88 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,060 likes - 88 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 6 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 | 7 | [ett minne i taget](https://open.spotify.com/track/4SXtVLD8B0O7kvw7FLi4Qj) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [ett minne i taget](https://open.spotify.com/album/40zmg4a9KuaUwLpHxj5NVX) | 2:50 |
 | 8 | [Black Widow](https://open.spotify.com/track/39AmM0jZSFAo7MBxIYoMN8) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [Black Widow](https://open.spotify.com/album/5xbuyaUrvPgpPjOitEKHQU) | 2:40 |
-| 9 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
+| 9 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
 | 10 | [EVERYTHING HALLELUJAH](https://open.spotify.com/track/5AwNJ5mr7mHyIhlKnQICEJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 4:08 |
-| 11 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |
+| 11 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 12 | [Half Of Me](https://open.spotify.com/track/5cMsL1wGrHYivlEZ7SKQbV) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Half Of Me](https://open.spotify.com/album/5tJmDdsgvBAsAqq37hgwWo) | 2:58 |
-| 13 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
-| 14 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
-| 15 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
+| 13 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
+| 14 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
+| 15 | [DAISIES](https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:56 |
 | 16 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 |
 | 17 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
 | 18 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kDBvo2N2to.md) - [plain]
 | 37 | [BASSIANI](https://open.spotify.com/track/2BtcfopAsabwKFovwFyvFk) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [BASSIANI](https://open.spotify.com/album/5cQhCSdeEC5i17xtdD973E) | 2:43 |
 | 38 | [Lost and found](https://open.spotify.com/track/7AIr6shgnOlUrx3StZUkce) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Blåögd](https://open.spotify.com/album/1vfkutPs1Wd9ouKGAt0h3S) | 3:14 |
 | 39 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |
-| 40 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
-| 41 | [Feelin' Myself](https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Feelin' Myself](https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56) | 2:45 |
+| 40 | [Feelin' Myself](https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Feelin' Myself](https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56) | 2:45 |
+| 41 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
 | 42 | [X](https://open.spotify.com/track/7DYvcwCrtckSM5bidztQhj) | [JIREEL](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [YEMAYA II](https://open.spotify.com/album/6xqiRAirHxigWJD1nHiXUj) | 2:42 |
 | 43 | [Räddare i nöden](https://open.spotify.com/track/1yHJl9qbcH58PEHLiRlywQ) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Förr nu & forever](https://open.spotify.com/album/0VgMibLJeMzYTBq4jVXUqC) | 4:01 |
 | 44 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |

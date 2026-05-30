@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 198520,
       "name": "El A\u00f1o Viejo (feat. Celso Pi\u00f1a)",
       "url": "https://open.spotify.com/track/4vTtvXQ1ZsQ01OBFDB0CuP"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 243253,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 297693,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/3UlazqG94X2Zy6ENGKWiwx"
@@ -1136,6 +1136,24 @@
       "duration_ms": 200613,
       "name": "Noviembre (feat. Ely Guerra)",
       "url": "https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz"
+    },
+    {
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206826,
+      "name": "Nunca Digas Que No",
+      "url": "https://open.spotify.com/track/1PSTNuSHixfy1lGT2yEYZs"
     },
     {
       "album": {
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 256016,
       "name": "P\u00e1ginas en Blanco",
       "url": "https://open.spotify.com/track/0Te6eXGhdb1dv1qDMTnJm7"
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 208400,
       "name": "Soy Soledad",
       "url": "https://open.spotify.com/track/0zN2JS790KaES8ylERbnaY"
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 254813,
       "name": "Vampiros en la Tierra",
       "url": "https://open.spotify.com/track/3suoE5t6CyOuoNnDDU9Vyn"
@@ -1950,7 +1968,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 270860,
       "name": "Yo No Naci Para Amar",
       "url": "https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm"

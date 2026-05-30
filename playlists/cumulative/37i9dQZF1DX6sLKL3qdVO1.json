@@ -6397,6 +6397,40 @@
     },
     {
       "album": {
+        "name": "EQUD",
+        "url": "https://open.spotify.com/album/7jQ0zaYxFcWzGH5A0iGzs1"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Midnvght",
+          "url": "https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ"
+        },
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        },
+        {
+          "name": "Fronti",
+          "url": "https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265337,
+      "name": "EQUD",
+      "url": "https://open.spotify.com/track/4AVrP6TEX9H4z7qGHCD3bH"
+    },
+    {
+      "album": {
         "name": "House Of Pleasure",
         "url": "https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G"
       },

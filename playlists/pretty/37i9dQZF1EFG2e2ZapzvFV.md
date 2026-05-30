@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 94 | [If You Leave Me / Everybody Wants To Rule The World \- Live From Electric Picnic](https://open.spotify.com/track/6PcZHrioMRip7pMJqPTDQM) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 5:17 |
 | 95 | [Sober](https://open.spotify.com/track/6UYVmlLGQ9MeObE5v7SnTu) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 4:02 |
 | 96 | [Awake](https://open.spotify.com/track/67ooRicNWzjRLBw3ddW9iy) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:43 |
-| 97 | [This Time \(Serious Symptoms, Simple Solutions\)](https://open.spotify.com/track/3Bk0xlc3K75UQzqW8U4yIk) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 4:18 |
-| 98 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
+| 97 | [Don't Say That](https://open.spotify.com/track/3y8b3mpLNiQnHvbZU9s2o6) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Don't Say That](https://open.spotify.com/album/1KQv7UmfkzVmNP37rH9JQ6) | 3:30 |
+| 98 | [This Time \(Serious Symptoms, Simple Solutions\)](https://open.spotify.com/track/3Bk0xlc3K75UQzqW8U4yIk) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 4:18 |
 | 99 | [Life After](https://open.spotify.com/track/1am1MtgDcihuuP3crGeugt) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Don't Feed The Pop Monster](https://open.spotify.com/album/3KzbSN2H2bqf9b8NKiCIL0) | 2:50 |
 | 100 | [Yellow of the Sun](https://open.spotify.com/track/1sopAWv0BToiOT2wAunyuV) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:51 |
 | 101 | [Full Blown Love](https://open.spotify.com/track/3gkHtnfFxOD2Ts1WYIqYlh) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:30 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 178 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/1TLwImbhpQtHiNrbfqmVdl) | [Flashback Avenue](https://open.spotify.com/artist/1HANinT2rV1dtgfmxTTucL) | [Up All Night \- House Party Energy](https://open.spotify.com/album/36wq5YXDyqJIA895HmnpHn) | 3:11 |
 | 179 | [Cut](https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Maren Morris](https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO) | 2:36 |
 
-Snapshot ID: `AcSvMAAAAAAhdDVQdjXa4R0Yj9kutkWR`
+Snapshot ID: `AcS00AAAAACiU4otSCIrSpwTTKh6ouo7`

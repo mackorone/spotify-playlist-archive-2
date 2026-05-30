@@ -2,9 +2,9 @@
 
 ### [Rap Latte ](https://open.spotify.com/playlist/37i9dQZF1DX4O0AdBo80OE)
 
-> Suaaaaaaave 📸 Sabino
+> Suaaaaaaave 📸 MC Davo y Miranda León
 
-400 songs - 21 hr 48 min
+401 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 | 2023-09-01 | 2024-11-09 |
 | [Colibrí](https://open.spotify.com/track/3SB4BggLTilRbeqErh059h) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Colibrí](https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P) | 2:30 | 2023-07-21 | 2025-04-12 |
 | [Comida Callejera](https://open.spotify.com/track/4PdYMUePyVIgkvVIMz473E) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Umami](https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m) | 3:34 | 2023-05-26 | 2023-11-25 |
-| [COMO CAPO](https://open.spotify.com/track/0I7ylkGzXJqaO07xxVAY6U) | [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [COMO CAPO](https://open.spotify.com/album/4ARCZB2v5GWLr13XncSeLt) | 2:50 | 2026-04-24 |  |
+| [COMO CAPO](https://open.spotify.com/track/0I7ylkGzXJqaO07xxVAY6U) | [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [COMO CAPO](https://open.spotify.com/album/4ARCZB2v5GWLr13XncSeLt) | 2:50 | 2026-04-24 | 2026-05-30 |
 | [Como lo Marca el Manual + Jueves](https://open.spotify.com/track/0yxRNwt4PRJNQJufpft5uX) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Como lo Marca el Manual + Jueves](https://open.spotify.com/album/1vigznZtdoYBc58Qk8ZfGK) | 3:35 | 2023-06-16 | 2025-12-20 |
 | [Con Esta Yo Me Fui, CAMARA](https://open.spotify.com/track/5oTMU4RZ2CvOoNmlHQKHfr) | [La Obsesion](https://open.spotify.com/artist/16xTQXyj7LORVb9kupiE1y), [Vic Gunn](https://open.spotify.com/artist/4tAUrm21TBHEWanUWQVSlb), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [LA OBSESION, VOL\. 1](https://open.spotify.com/album/3YBMjrerZLKEWjL31LRSwM) | 3:16 | 2025-12-19 | 2026-02-07 |
 | [Con Usted](https://open.spotify.com/track/5CUGu94Rlr4wnILUt8PEzB) | [Teo LB](https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo) | [Con Usted](https://open.spotify.com/album/2EI5cB51OnmvZcFXoQIukA) | 2:35 | 2026-05-08 |  |
@@ -208,6 +208,7 @@
 | [Loto](https://open.spotify.com/track/5cOMEYUtUtMOtO3bQ8YOiu) | [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo), [Cool Beats Dude Cbd](https://open.spotify.com/artist/1n8zwmrjPyx2PfAIHRymDU) | [Loto](https://open.spotify.com/album/4HTYQdT6ofbIkSNzsYLxOl) | 3:03 | 2024-08-09 | 2025-10-25 |
 | [Love & Money](https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Love & Money](https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te) | 3:36 | 2023-05-26 | 2025-12-20 |
 | [Luka](https://open.spotify.com/track/0HOMEZoKV1y70FxcLmVEfX) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luka](https://open.spotify.com/album/53nHorAyot2oj5yEjoMS3g) | 4:05 | 2023-05-26 | 2023-07-22 |
+| [LULULEMON](https://open.spotify.com/track/1WnG8q6f09ebulThpq3E5V) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Miranda León](https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14) | [LULULEMON](https://open.spotify.com/album/5UYYe9GIpJPCOwlkLMrjd5) | 2:51 | 2026-05-29 |  |
 | [Lumbares](https://open.spotify.com/track/4tmysdLhoRXXi7jfq7Ke7i) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Lumbares](https://open.spotify.com/album/50uTJZJwNQtZURKqy0Tqwx) | 3:22 | 2026-03-20 |  |
 | [Luna](https://open.spotify.com/track/5cgeK14YrMX2ftrxhsvbp1) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Luna](https://open.spotify.com/album/4NSnbADexvBDh4shBebFh2) | 2:52 | 2025-12-12 | 2025-12-20 |
 | [Lunes](https://open.spotify.com/track/7wGu2uPMElQOR0fidbaUUz) | [Finesse](https://open.spotify.com/artist/0AUUGd16M55jGRXZNbsfj9), [BNMP](https://open.spotify.com/artist/6lQ1BWAXAl2sBmtFvsfuy7), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Choclock](https://open.spotify.com/artist/1Ixof0imwzqpuV21Ug9pKn), [Santa Bandida](https://open.spotify.com/artist/1rdAsDsv8CleDJmUIleHTa), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [El Dorado](https://open.spotify.com/album/0eLoADTd1HpL3Fm9wYUzOw) | 3:56 | 2025-12-19 | 2026-02-21 |

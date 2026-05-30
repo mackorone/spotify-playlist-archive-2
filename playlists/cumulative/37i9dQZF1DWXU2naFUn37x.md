@@ -4,7 +4,7 @@
 
 > RRARI DAL TACCO in cover della playlist dello street rap italiano ⛓️
 
-1,074 songs - 2 day 0 hr 46 min
+1,075 songs - 2 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,7 @@
 | [Fumando mary](https://open.spotify.com/track/3gYBKTnVf5XVtm9NTvzLku) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [Fumando mary](https://open.spotify.com/album/4mNC5nXSEAMriMAtFvFYk4) | 2:46 | 2023-05-11 | 2023-06-02 |
 | [Fumo Con Lei](https://open.spotify.com/track/0Mx0iBrF9xsZeSZlCP0M5s) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Fumo Con Lei](https://open.spotify.com/album/0YuiNiDJ0y3sUhRRwBVZEe) | 2:14 | 2023-02-09 | 2023-05-12 |
 | [Fuori Controllo](https://open.spotify.com/track/2hcAjddSU4X4RMbNCICzuI) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 1:32 | 2024-06-27 | 2024-07-19 |
-| [FW/SS25 \(Freestyle\)](https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 | 2025-03-31 |  |
+| [FW/SS25 \(Freestyle\)](https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:56 | 2025-03-31 | 2026-05-30 |
 | [G CLASS](https://open.spotify.com/track/2s2slPHRcUQSYsOrlNhN5c) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [G CLASS](https://open.spotify.com/album/5i8sSSUmC6NMJd70gLS4Hn) | 2:25 | 2022-05-19 | 2022-06-17 |
 | [G II](https://open.spotify.com/track/3HUPMluR4pzVtC1tVdcxlh) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [G II](https://open.spotify.com/album/3qo652f9S3cLUEHQcCz4XG) | 2:33 | 2025-01-17 | 2025-01-31 |
 | [G&V](https://open.spotify.com/track/6GH0stb5CRpcpH9LDGD8JJ) | [IvanBi](https://open.spotify.com/artist/0bmPz6WAJMsuDLY5QtSYtg) | [G&V](https://open.spotify.com/album/11Fl5ZsX0Z9n97S5MfdBSw) | 1:52 | 2025-07-10 |  |
@@ -911,6 +911,7 @@
 | [Speranza \(feat\. Diss Gacha\)](https://open.spotify.com/track/3VJMudHQf9VWu51EHtPBNk) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [Speranza \(feat\. Diss Gacha\)](https://open.spotify.com/album/3aY3G5ljgdYzeMsuU1jduq) | 2:36 | 2025-06-05 | 2025-09-12 |
 | [Speranza e Fame](https://open.spotify.com/track/35ubuxGRmfd6DySV1R63th) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Speranza e Fame](https://open.spotify.com/album/4s42ucGhAufNpCj9bbKrOJ) | 2:48 | 2022-07-21 | 2022-09-23 |
 | [Spie](https://open.spotify.com/track/6RRxP0B9bVZnbTnSpxfo9W) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:05 | 2026-04-09 |  |
+| [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 | 2026-05-29 |  |
 | [Spoiler](https://open.spotify.com/track/34YLExaZOqmhFphwmYRg1t) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Spoiler](https://open.spotify.com/album/2YcSX52kZUgPPOcTuFx8OZ) | 2:36 | 2023-01-03 | 2023-01-20 |
 | [SPOILER 2 \(feat\. 22simba\)](https://open.spotify.com/track/6SSA409P7m2TMND2saQETo) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [SPOILER 2 \(feat\. 22simba\)](https://open.spotify.com/album/6Kgys8Kb1UfLjH9l3nGjDg) | 2:21 | 2025-03-06 | 2025-06-13 |
 | [SQUALO 2 \(feat\. Guè & Nerissima Serpe\)](https://open.spotify.com/track/5f1QY8JXcVD1zCz0zVXPZO) | [TY1](https://open.spotify.com/artist/2DWRgncNMnTfwDiKSI0VoP), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [SQUALO 2 \(feat\. Guè & Nerissima Serpe\)](https://open.spotify.com/album/52ENaEiNMKpXEpR3V8jFkv) | 2:31 | 2025-11-20 | 2026-01-15 |

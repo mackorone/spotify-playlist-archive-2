@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33928,
+  "num_followers": 33926,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHLs661pxsHtHLQyHSBJs8WLJlBa",
+  "snapshot_id": "AAAAAJ5/qyaquOHDw/ZhhLNR2FSgFEQV",
   "tracks": [
     {
       "added_at": "2026-05-21 22:00:09",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 223425,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG"
+    },
+    {
+      "added_at": "2026-05-21 22:00:09",
+      "album": {
         "name": "Get It Right",
         "url": "https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 197116,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
-    },
-    {
-      "added_at": "2026-05-21 22:00:09",
-      "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 223425,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG"
     },
     {
       "added_at": "2026-05-21 22:00:09",

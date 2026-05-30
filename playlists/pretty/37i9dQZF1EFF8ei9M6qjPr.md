@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367 likes - 189 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 366 likes - 189 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 57 | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/track/4QnJgCPkDgqSyOdjlI83ys) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Expensive \(feat\. Noah Cyrus\)](https://open.spotify.com/album/0SUEY2iGWTpFiqLBr1GXHr) | 3:07 |
 | 58 | [Backpack](https://open.spotify.com/track/7HUZWpelDfnkOc5PkDD8Sp) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [The People's Champ](https://open.spotify.com/album/1FguQss7XFrc5w7KWL2sc9) | 2:57 |
 | 59 | [Warning Shot](https://open.spotify.com/track/4YuAthypGWLg5xdBc2DNjB) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:25 |
-| 60 | [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 |
-| 61 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
+| 60 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
+| 61 | [DICE](https://open.spotify.com/track/15wj06fykqiNYvyj8AVMnK) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:06 |
 | 62 | [We Never Die \(Acoustic\)](https://open.spotify.com/track/0xhVjg2f5tGSn7vypwKVRa) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Chapter 2](https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1) | 3:16 |
 | 63 | [Undefeated](https://open.spotify.com/track/0OaacUi36UrMb1kEsLWW9E) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Undefeated](https://open.spotify.com/album/1sd0tWdmMr0i9MXGBE9Qkl) | 2:55 |
 | 64 | [Hot One](https://open.spotify.com/track/7EdeHorFYn5dXW4lKCQNwC) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/3OiT0FaZLif2i9uflNRgMs) | 2:56 |
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 129 | [RUT](https://open.spotify.com/track/3WOj5K3NGSJc7UUTR0ohDh) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [RUT](https://open.spotify.com/album/5LiTATZE86gpS9OmO7mCL1) | 3:27 |
 | 130 | [Tomorrow](https://open.spotify.com/track/0Ri8XkiBZJW2YPuNaPp56A) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [YRS](https://open.spotify.com/album/6DGok7MuunzqZoEs6FJurk) | 3:13 |
 | 131 | [Start Again](https://open.spotify.com/track/3oFmFx3iK3nurxkoFop2Md) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Jesse Fink](https://open.spotify.com/artist/7tMI1lr95LzkzRPElGDAlJ) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:47 |
-| 132 | [HOME IS CHANGING](https://open.spotify.com/track/2nEEe6VgN3mBwsx0CHS9N5) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 3:57 |
-| 133 | [GASLIGHT](https://open.spotify.com/track/3v37i8GScxczqJSkepTr9z) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [GASLIGHT](https://open.spotify.com/album/1X7IpkBAiDZPQI2PuMIM39) | 2:10 |
+| 132 | [GASLIGHT](https://open.spotify.com/track/3v37i8GScxczqJSkepTr9z) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [GASLIGHT](https://open.spotify.com/album/1X7IpkBAiDZPQI2PuMIM39) | 2:10 |
+| 133 | [HOME IS CHANGING](https://open.spotify.com/track/2nEEe6VgN3mBwsx0CHS9N5) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [HOME IS CHANGING](https://open.spotify.com/album/3B69Rwb21o9LqQnJB9dw5O) | 3:57 |
 | 134 | [I Don't Wanna Know](https://open.spotify.com/track/7bH7LRAHdrZaWTlcuLuIYF) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [I Don't Wanna Know](https://open.spotify.com/album/5vXf3NU1ucc2wpTRNibX4b) | 3:48 |
 | 135 | [Art Of Letting Go \(feat\. James Gillespie\)](https://open.spotify.com/track/4dt4MyGRdBmpAukq0r5GuX) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Discovery](https://open.spotify.com/album/1PpVHHdTAnWPTWg2v6ERZH) | 3:22 |
 | 136 | [Bebe](https://open.spotify.com/track/4cbbcvNAEwB1Mh6fvpFW0O) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Bebe](https://open.spotify.com/album/6VarZmpkqYXFYsO1NcWJX3) | 2:16 |
@@ -178,8 +178,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 168 | [let you down \(feat\. Jake Bugg\)](https://open.spotify.com/track/0KZYmzV0OHhPu4aTMO2zjm) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [dear amelia](https://open.spotify.com/album/2BFeOSMMljkZs37e4uYLtG) | 3:27 |
 | 169 | [BMW X5](https://open.spotify.com/track/5l2eU16Ruz6W73u0yESsuC) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [BMW X5](https://open.spotify.com/album/7BBbjxLMCcp3bseNfYgRPD) | 2:47 |
 | 170 | [Ladylike](https://open.spotify.com/track/6aLk4X17PjPpmmFeAqbM7t) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV) | 3:01 |
-| 171 | [Fall in Love for a Little](https://open.spotify.com/track/17e7Crmf4u8rGLLiDnRhzG) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [U\-Turn](https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz) | 2:12 |
-| 172 | [lighters](https://open.spotify.com/track/621A6t2WLsM67dDSFuzipu) | [campthehills](https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs) | [campthehills](https://open.spotify.com/album/730BEbU2Ka6T64vHyrtZSZ) | 3:15 |
+| 171 | [lighters](https://open.spotify.com/track/621A6t2WLsM67dDSFuzipu) | [campthehills](https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs) | [campthehills](https://open.spotify.com/album/730BEbU2Ka6T64vHyrtZSZ) | 3:15 |
+| 172 | [Fall in Love for a Little](https://open.spotify.com/track/17e7Crmf4u8rGLLiDnRhzG) | [Kaleb Cohen](https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8) | [U\-Turn](https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz) | 2:12 |
 | 173 | [Ghost](https://open.spotify.com/track/12y97ZRl9zs5JjwSj5aEss) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [All Night Days](https://open.spotify.com/album/29X77czxu4Wi88sASWvKHi) | 2:45 |
 | 174 | [Body Count](https://open.spotify.com/track/3hizyzBsKFgjmRtqTQpwDL) | [Nic Dean](https://open.spotify.com/artist/1d8y365r9XVmsWDAHLak38) | [Retreat](https://open.spotify.com/album/7Hvfi5Y7bARlr24YFCRHrm) | 2:24 |
 | 175 | [Nightlight](https://open.spotify.com/track/2plkDAkfLGShUrvdimPNIb) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [The Arcade](https://open.spotify.com/album/4Ganxbl3L5KDZP9MHnSB5N) | 3:06 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 188 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 |
 | 189 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `AcSvHAAAAAAEFYhXHmMmksqNqxK97yFa`
+Snapshot ID: `AcS0sgAAAACfAr9p3kYPDLYuPUuWWEqA`

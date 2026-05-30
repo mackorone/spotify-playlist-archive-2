@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 213923,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/3t4qCykvePOC9UkFzkkpOO"
@@ -7784,6 +7784,24 @@
       "duration_ms": 181922,
       "name": "Morning Glow - Edit",
       "url": "https://open.spotify.com/track/0TwiKyrgJ7dRykmg5jpjHH"
+    },
+    {
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/64p5aAeP5fKZ1tJnhtHn52"
+      },
+      "artists": [
+        {
+          "name": "Kaufmann (DE)",
+          "url": "https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v"
+        }
+      ],
+      "date_added": "2026-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384760,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/5HJEdaxYV6DZ3ju0szNERM"
     },
     {
       "album": {

@@ -8433,6 +8433,24 @@
     },
     {
       "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/0mPheTERHZsItXbwjxDCmJ"
+      },
+      "artists": [
+        {
+          "name": "Moira Lune",
+          "url": "https://open.spotify.com/artist/5Evzc18UWs8hbbQqhpJZ82"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/2eMIsZw1Ix05BKFDyS8gWl"
+    },
+    {
+      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/4HXfz8OFPcxrBjd1ji2GUd"
       },
@@ -10748,7 +10766,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 98817,
       "name": "Magic Sparkle",
       "url": "https://open.spotify.com/track/3k6mpFpmeB9vn2lfrUTpEx"
@@ -11904,6 +11922,24 @@
       "duration_ms": 128766,
       "name": "My Bonnie Lies Over the Ocean",
       "url": "https://open.spotify.com/track/7A5T3WgbiojUSYNKvSQrur"
+    },
+    {
+      "album": {
+        "name": "My champion",
+        "url": "https://open.spotify.com/album/3ximrieoUEK2qvghFGNp5v"
+      },
+      "artists": [
+        {
+          "name": "Theo Lark",
+          "url": "https://open.spotify.com/artist/0FfigyIHj5WhKXjDJxugWm"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99615,
+      "name": "My champion",
+      "url": "https://open.spotify.com/track/0QmdWEgdxIT4fQyGbekOFY"
     },
     {
       "album": {
@@ -13866,7 +13902,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 126800,
       "name": "Pete the Parrot",
       "url": "https://open.spotify.com/track/29LawChrtV6KAFjSEj5sTG"
@@ -13960,6 +13996,24 @@
       "duration_ms": 60464,
       "name": "Playing The Drum",
       "url": "https://open.spotify.com/track/6Kj6TAGe79xbxElo9UGbt8"
+    },
+    {
+      "album": {
+        "name": "Playtime",
+        "url": "https://open.spotify.com/album/4aQw8pm1Fow9UHjL3Ra7aS"
+      },
+      "artists": [
+        {
+          "name": "Vide Young",
+          "url": "https://open.spotify.com/artist/0My2ASMAnQ6lw26jWONN0e"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115975,
+      "name": "Playtime",
+      "url": "https://open.spotify.com/track/5AjObgWarjoeoW2Lqs0MbV"
     },
     {
       "album": {
@@ -14572,6 +14626,24 @@
       "duration_ms": 128960,
       "name": "Ready for Bedtime",
       "url": "https://open.spotify.com/track/6KLsKhBDRZWnvgRUA0gDOt"
+    },
+    {
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/6KHb1isVRByRqcPI0McvS8"
+      },
+      "artists": [
+        {
+          "name": "Christoff Joyce",
+          "url": "https://open.spotify.com/artist/037q0CFVlvZlDQ0XB7Z9s4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101033,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/3Vi4D8fxmoDeTBBorh0UBg"
     },
     {
       "album": {
@@ -19025,6 +19097,24 @@
     },
     {
       "album": {
+        "name": "The Lovebug",
+        "url": "https://open.spotify.com/album/01kiLW3cYHwg6HA4xVEamc"
+      },
+      "artists": [
+        {
+          "name": "Orisana",
+          "url": "https://open.spotify.com/artist/4ybyQJA74VF1Ekfye7YrlV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138369,
+      "name": "The Lovebug",
+      "url": "https://open.spotify.com/track/1WQuAu4NkC0oj6W5SfV7EB"
+    },
+    {
+      "album": {
         "name": "All That's Magic",
         "url": "https://open.spotify.com/album/72znXLrnaLW2HWMVr3KSAw"
       },
@@ -19126,7 +19216,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 95384,
       "name": "The Muffin Man",
       "url": "https://open.spotify.com/track/6Ar27ZlkeQ23W7UJJO7Xw9"
@@ -20530,7 +20620,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 94954,
       "name": "True Friendship",
       "url": "https://open.spotify.com/track/2EhCU9KSr60nmz2vVuAy12"
@@ -22114,7 +22204,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 101719,
       "name": "You and me forever",
       "url": "https://open.spotify.com/track/2teIsgIvvuKsFa03sWhUt0"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Porter en portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Agris en portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -302,6 +302,24 @@
       "duration_ms": 132407,
       "name": "A Osvaldo Bayer",
       "url": "https://open.spotify.com/track/148gMWIRJR8eXsA034OAQR"
+    },
+    {
+      "album": {
+        "name": "A ver qui\u00e9n se duerme ahora",
+        "url": "https://open.spotify.com/album/0nJbGCacKiwX8Rw1teA7lJ"
+      },
+      "artists": [
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208850,
+      "name": "A ver qui\u00e9n se duerme ahora",
+      "url": "https://open.spotify.com/track/7o5WOg4bXlWjVmOBPLgEtb"
     },
     {
       "album": {
@@ -1804,7 +1822,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 213753,
       "name": "CADENAS",
       "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 179829,
       "name": "Cae La Lluvia",
       "url": "https://open.spotify.com/track/2zfG2C9oJYMkM088tOtdgY"
@@ -2307,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "CIELO = INFIERNO",
+        "url": "https://open.spotify.com/album/4GnO3xc6Z2APNuEXHkXlEF"
+      },
+      "artists": [
+        {
+          "name": "Vac\u00edos Cuerpos",
+          "url": "https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176326,
+      "name": "CIELO = INFIERNO",
+      "url": "https://open.spotify.com/track/5P0RgU4xvhM6d8ukeWrhh1"
+    },
+    {
+      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/4ZvuPPQAUAQzFXW2I8aHMy"
       },
@@ -2496,7 +2532,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 210773,
       "name": "Cl\u00e1sico Moderno",
       "url": "https://open.spotify.com/track/5LAUYkaMHRDeG7jMQsAEc1"
@@ -2938,7 +2974,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 128455,
       "name": "Cristales",
       "url": "https://open.spotify.com/track/2NQjmOgMynS5t1Q0tlaYJj"
@@ -3152,6 +3188,24 @@
       "duration_ms": 206360,
       "name": "C\u00ednicos Pecadores y Blasfemos",
       "url": "https://open.spotify.com/track/6ws6FxA5yOJOVgi5tLsdwi"
+    },
+    {
+      "album": {
+        "name": "c\u00f3mo est\u00e1s?",
+        "url": "https://open.spotify.com/album/1bp42SgG8bCJOcXLct2xX1"
+      },
+      "artists": [
+        {
+          "name": "P\u00e1jaros Vampiro",
+          "url": "https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238336,
+      "name": "c\u00f3mo est\u00e1s?",
+      "url": "https://open.spotify.com/track/0DAh6sS2jN9JHgkMdAkQlq"
     },
     {
       "album": {
@@ -3622,7 +3676,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 151874,
       "name": "Desg\u00e1rrame",
       "url": "https://open.spotify.com/track/5VQXk026hA1wnoHos6853G"
@@ -4608,7 +4662,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 232255,
       "name": "El Hombre Planeta",
       "url": "https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d"
@@ -5478,6 +5532,24 @@
       "duration_ms": 154070,
       "name": "Eutanasia",
       "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+    },
+    {
+      "album": {
+        "name": "Explotar",
+        "url": "https://open.spotify.com/album/5jLGn7aHYTJm18dyDbj3hL"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191605,
+      "name": "Explotar",
+      "url": "https://open.spotify.com/track/09Yc3FvIm6wrSCt6mzGriT"
     },
     {
       "album": {
@@ -6752,6 +6824,24 @@
       "duration_ms": 284466,
       "name": "Karmadame",
       "url": "https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3"
+    },
+    {
+      "album": {
+        "name": "Kokoro",
+        "url": "https://open.spotify.com/album/3RHpfyhc4AjM1DZB0vnNZd"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243805,
+      "name": "Kokoro",
+      "url": "https://open.spotify.com/track/0uvNnZUr97NEl4Gd7GxwnV"
     },
     {
       "album": {
@@ -11603,6 +11693,24 @@
     },
     {
       "album": {
+        "name": "Preguntas si te Am\u00e9",
+        "url": "https://open.spotify.com/album/4T5HiCLIRLthWhSIPAHk3F"
+      },
+      "artists": [
+        {
+          "name": "INSITE",
+          "url": "https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208365,
+      "name": "Preguntas si te Am\u00e9",
+      "url": "https://open.spotify.com/track/0u9SgU0gtAGKVargkKpxUL"
+    },
+    {
+      "album": {
         "name": "Prenda del Alma - Spotify Singles",
         "url": "https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn"
       },
@@ -13806,7 +13914,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 249866,
       "name": "Te Veo a la Vuelta",
       "url": "https://open.spotify.com/track/2EKHUoHLEHYIGhvi4s05nj"
@@ -14147,6 +14255,28 @@
     },
     {
       "album": {
+        "name": "Todos piensan que ya te olvid\u00e9",
+        "url": "https://open.spotify.com/album/3RyeFvRc6zDhuvOq4jKNeI"
+      },
+      "artists": [
+        {
+          "name": "Biela",
+          "url": "https://open.spotify.com/artist/3V4eTmIv1fY1zTRSOFOjEH"
+        },
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184338,
+      "name": "Todos piensan que ya te olvid\u00e9",
+      "url": "https://open.spotify.com/track/3Yep9HySEW2mDnfUbEclDo"
+    },
+    {
+      "album": {
         "name": "Tokyo",
         "url": "https://open.spotify.com/album/2XbAH4JRlR941sejnT2suC"
       },
@@ -14198,6 +14328,24 @@
       "duration_ms": 89429,
       "name": "Torreta",
       "url": "https://open.spotify.com/track/4mCVL6ScNCjvftMsydugz6"
+    },
+    {
+      "album": {
+        "name": "No Es Que No Te Quiera Pero\u2026",
+        "url": "https://open.spotify.com/album/2royTQSIWVJ1wUbKpq7rlg"
+      },
+      "artists": [
+        {
+          "name": "SERBIA",
+          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 13",
+      "url": "https://open.spotify.com/track/2tzVYlsAGm56pyDjp8Y67Z"
     },
     {
       "album": {
@@ -14364,7 +14512,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 211984,
       "name": "Trueno",
       "url": "https://open.spotify.com/track/74wsNBsGTs7NjoQXaEk4Ga"

@@ -5480,7 +5480,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 244083,
       "name": "Les oiseaux",
       "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
@@ -7257,6 +7257,24 @@
     },
     {
       "album": {
+        "name": "On s'est fait avaler",
+        "url": "https://open.spotify.com/album/0Cd8eCnOyMIDzUidgqVb2x"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Napol\u00e9on",
+          "url": "https://open.spotify.com/artist/510udNBCzJbWbwV3013dIf"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235735,
+      "name": "On s'est fait avaler",
+      "url": "https://open.spotify.com/track/5wh1ftmCIJItnYNNgbjDtA"
+    },
+    {
+      "album": {
         "name": "Never Really Enough",
         "url": "https://open.spotify.com/album/0LXaVDXe6vWukFLbVPQyBL"
       },
@@ -8548,7 +8566,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 213599,
       "name": "Roi de verre",
       "url": "https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy"
@@ -9895,6 +9913,24 @@
     },
     {
       "album": {
+        "name": "Tout refaire",
+        "url": "https://open.spotify.com/album/1d1S5Ep6n7ta7ShS6Q0LpU"
+      },
+      "artists": [
+        {
+          "name": "maudit vincent",
+          "url": "https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138620,
+      "name": "Tout refaire",
+      "url": "https://open.spotify.com/track/2BnIzEkGpodTkFOX3hs4qM"
+    },
+    {
+      "album": {
         "name": "Trait d'union",
         "url": "https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3"
       },
@@ -10118,6 +10154,24 @@
       "duration_ms": 228613,
       "name": "Uh Oh",
       "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
+    },
+    {
+      "album": {
+        "name": "ulysse",
+        "url": "https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195980,
+      "name": "ulysse",
+      "url": "https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM"
     },
     {
       "album": {
@@ -10702,7 +10756,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 279417,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/686REeaDyJsoTNl6eFDFiK"

@@ -1,6 +1,6 @@
 {
   "description": "Canciones te inspiran a ti y a todas las mam\u00e1s.",
-  "num_followers": 443697,
+  "num_followers": 443744,
   "original_name": "Las Rom\u00e1nticas de Mam\u00e1",
   "owner": {
     "name": "Spotify",
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 290973,
-      "name": "Amiga m\u00eda",
-      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
+      "duration_ms": 343413,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         }
       ],
-      "duration_ms": 343413,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
+      "duration_ms": 290973,
+      "name": "Amiga m\u00eda",
+      "url": "https://open.spotify.com/track/6kQYMqjobmB8MkWwa9OUyA"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 207586,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Entre t\u00fa y mil mares",
         "url": "https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 228493,
       "name": "Entre t\u00fa y mil mares",
       "url": "https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Como Tu Mujer",
-        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "Como Tu Mujer",
-      "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "La Cagaste... Burt Lancaster",
         "url": "https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 184080,
       "name": "El ataque de las chicas cocodrilo",
       "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Como Tu Mujer",
+        "url": "https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 262706,
+      "name": "Como Tu Mujer",
+      "url": "https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Qui\u00e9n Como t\u00fa",
-        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Qui\u00e9n Como T\u00fa",
-      "url": "https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
         "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 265626,
       "name": "La Cosa Mas Bella",
       "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Qui\u00e9n Como t\u00fa",
+        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Qui\u00e9n Como T\u00fa",
+      "url": "https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
-      },
-      "artists": [
-        {
-          "name": "Yuri",
-          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "El Viaje de Copperpot",
         "url": "https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
         }
       ],
-      "duration_ms": 219106,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
+      "duration_ms": 234320,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1103,6 +1087,22 @@
       "duration_ms": 217866,
       "name": "Insoportablemente Bella",
       "url": "https://open.spotify.com/track/24jLRb0lLtk4U3F2xPh2AH"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Primera Fila (En Vivo)",
-        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
-      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Mi Reflejo",
         "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 265733,
       "name": "Pero Me Acuerdo de T\u00ed",
       "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
+      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 227600,
       "name": "Simplemente Amigos",
       "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2025-10-25 02:09:46",

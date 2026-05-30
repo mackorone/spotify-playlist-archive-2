@@ -1,12 +1,12 @@
 {
   "description": "Music to take the pain of homework away.",
-  "num_followers": 1922459,
+  "num_followers": 1922494,
   "original_name": "homework vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALfwRJ+YBd9g5W5NZ5bCQuY4tct6",
+  "snapshot_id": "AAAAAL3D/vw1DOegfgZIk9yGJp3544Hp",
   "tracks": [
     {
       "added_at": "2026-04-20 21:53:52",
@@ -79,22 +79,6 @@
     {
       "added_at": "2026-04-20 21:53:52",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2026-04-20 21:53:52",
-      "album": {
         "name": "Sweet Boy",
         "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
       },
@@ -111,18 +95,18 @@
     {
       "added_at": "2026-04-20 21:53:52",
       "album": {
-        "name": "don\u2019t miss me",
-        "url": "https://open.spotify.com/album/3LLErH6o3MaASU78Gge3oT"
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
       "artists": [
         {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 123949,
-      "name": "don't miss me",
-      "url": "https://open.spotify.com/track/5bC5ZoyEJBRqeDEIkcKnab"
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
       "added_at": "2026-04-20 21:53:52",
@@ -139,22 +123,6 @@
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-04-20 21:53:52",
-      "album": {
-        "name": "silent treatment",
-        "url": "https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt"
-      },
-      "artists": [
-        {
-          "name": "Freya Skye",
-          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
-        }
-      ],
-      "duration_ms": 142030,
-      "name": "silent treatment",
-      "url": "https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN"
     },
     {
       "added_at": "2026-04-20 21:53:52",
@@ -235,6 +203,22 @@
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2026-05-29 04:02:57",
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
     },
     {
       "added_at": "2026-04-20 21:53:52",
@@ -395,6 +379,22 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "added_at": "2026-05-29 04:02:57",
+      "album": {
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
       "added_at": "2026-04-20 21:53:52",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-04-20 21:53:52",
       "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
-    },
-    {
-      "added_at": "2026-04-20 21:53:52",
-      "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "added_at": "2026-04-20 21:53:52",
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "added_at": "2026-04-20 21:53:52",
@@ -1011,6 +1011,22 @@
       "duration_ms": 198371,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
+    },
+    {
+      "added_at": "2026-05-29 04:02:57",
+      "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 160244,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr"
     },
     {
       "added_at": "2026-04-20 21:53:52",
@@ -1203,6 +1219,22 @@
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2026-05-29 04:02:57",
+      "album": {
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
     },
     {
       "added_at": "2026-04-20 21:53:52",
@@ -1775,6 +1807,22 @@
     {
       "added_at": "2026-04-20 21:53:52",
       "album": {
+        "name": "don\u2019t miss me",
+        "url": "https://open.spotify.com/album/3LLErH6o3MaASU78Gge3oT"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 123949,
+      "name": "don't miss me",
+      "url": "https://open.spotify.com/track/5bC5ZoyEJBRqeDEIkcKnab"
+    },
+    {
+      "added_at": "2026-04-20 21:53:52",
+      "album": {
         "name": "Face Like Yours",
         "url": "https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3"
       },
@@ -1803,6 +1851,22 @@
       "duration_ms": 157685,
       "name": "Love You Right",
       "url": "https://open.spotify.com/track/4fJ7ABPWNkI2sz3IDyN9sH"
+    },
+    {
+      "added_at": "2026-04-20 21:53:52",
+      "album": {
+        "name": "silent treatment",
+        "url": "https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "duration_ms": 142030,
+      "name": "silent treatment",
+      "url": "https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN"
     },
     {
       "added_at": "2026-04-20 21:53:52",
@@ -1939,22 +2003,6 @@
     {
       "added_at": "2026-04-20 21:53:52",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
-    },
-    {
-      "added_at": "2026-04-20 21:53:52",
-      "album": {
         "name": "you broke me first",
         "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
       },
@@ -1967,6 +2015,22 @@
       "duration_ms": 169265,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
+    },
+    {
+      "added_at": "2026-04-20 21:53:52",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
     },
     {
       "added_at": "2026-04-20 21:53:52",

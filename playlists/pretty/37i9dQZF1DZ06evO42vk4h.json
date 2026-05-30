@@ -1,12 +1,12 @@
 {
   "description": "This is OSKIDO. The essential tracks, all in one playlist.",
-  "num_followers": 4187,
+  "num_followers": 4190,
   "original_name": "This Is OSKIDO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAAB/pwG7FFPaSWFy0UIkWkq0",
+  "snapshot_id": "aheFgAAAAABcVJezg+WCml2eb/3W4fWd",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self-Control",
+        "url": "https://open.spotify.com/album/4xjKsHak2fmSK1xp2vLwbh"
+      },
+      "artists": [
+        {
+          "name": "Character",
+          "url": "https://open.spotify.com/artist/2uWyZkj1CvtRYntOAMteEI"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Mono T",
+          "url": "https://open.spotify.com/artist/2FBF09zT8s6znO4niUkXfZ"
+        }
+      ],
+      "duration_ms": 341908,
+      "name": "Inxeba Le Ndoda",
+      "url": "https://open.spotify.com/track/1pDZtUCOgTW5xiDsKGz9Yw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Say Kunkra",
         "url": "https://open.spotify.com/album/0gbR6yggQOqIWOwxoanjoX"
       },
@@ -395,30 +419,6 @@
       "duration_ms": 297600,
       "name": "Say Kunkra",
       "url": "https://open.spotify.com/track/0ENxjfCyvoGwkLXcRyiGWB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self-Control",
-        "url": "https://open.spotify.com/album/4xjKsHak2fmSK1xp2vLwbh"
-      },
-      "artists": [
-        {
-          "name": "Character",
-          "url": "https://open.spotify.com/artist/2uWyZkj1CvtRYntOAMteEI"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Mono T",
-          "url": "https://open.spotify.com/artist/2FBF09zT8s6znO4niUkXfZ"
-        }
-      ],
-      "duration_ms": 341908,
-      "name": "Inxeba Le Ndoda",
-      "url": "https://open.spotify.com/track/1pDZtUCOgTW5xiDsKGz9Yw"
     },
     {
       "added_at": null,
@@ -739,6 +739,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sizophelelaphi",
+        "url": "https://open.spotify.com/album/0oqmhUfqslmye9voDJjhU0"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 259285,
+      "name": "Sizophelelaphi",
+      "url": "https://open.spotify.com/track/7reyhT3VHZXfdRVaKoHl0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Platinumb Heart Beating",
+        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Delakufa",
+      "url": "https://open.spotify.com/track/3Koj6l9nIOVtfTZXv4QAo5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Injabulo",
         "url": "https://open.spotify.com/album/27G0LtCymT8ZqbseROrTCg"
       },
@@ -771,46 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinumb Heart Beating",
-        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Delakufa",
-      "url": "https://open.spotify.com/track/3Koj6l9nIOVtfTZXv4QAo5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sizophelelaphi",
-        "url": "https://open.spotify.com/album/0oqmhUfqslmye9voDJjhU0"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 259285,
-      "name": "Sizophelelaphi",
-      "url": "https://open.spotify.com/track/7reyhT3VHZXfdRVaKoHl0Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Keep Hope Alive",
         "url": "https://open.spotify.com/album/6VxGGpIzmAyS3hubryZmSm"
       },
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Believe 2013",
-        "url": "https://open.spotify.com/album/2JOqYLF4kZeYY76toSULUC"
-      },
-      "artists": [
-        {
-          "name": "Berita",
-          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        }
-      ],
-      "duration_ms": 440506,
-      "name": "Thandolwethu - Remix",
-      "url": "https://open.spotify.com/track/41nYrZjMX3h5nC5Hc5UbrB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lagos to Jozi",
         "url": "https://open.spotify.com/album/5dTXVRytErS1hYzu1H0iNp"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 249983,
       "name": "Commando",
       "url": "https://open.spotify.com/track/1QOyzYu0Yp8wywHpMl3QY1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Believe 2013",
+        "url": "https://open.spotify.com/album/2JOqYLF4kZeYY76toSULUC"
+      },
+      "artists": [
+        {
+          "name": "Berita",
+          "url": "https://open.spotify.com/artist/5I5uSqffwEQVxqTbsmqxNQ"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        }
+      ],
+      "duration_ms": 440506,
+      "name": "Thandolwethu - Remix",
+      "url": "https://open.spotify.com/track/41nYrZjMX3h5nC5Hc5UbrB"
     },
     {
       "added_at": null,
@@ -1155,30 +1155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "University Of Kalawa Jazmee",
-        "url": "https://open.spotify.com/album/2ps1XIOsW5Kcz9cy8Igfz6"
-      },
-      "artists": [
-        {
-          "name": "Professor",
-          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Uhuru",
-          "url": "https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2"
-        }
-      ],
-      "duration_ms": 356413,
-      "name": "Speaker",
-      "url": "https://open.spotify.com/track/0oGUm4677n6DnOavpodQvO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mngani Wami",
         "url": "https://open.spotify.com/album/43ijZCbIZPGUoGaTpDiaqv"
       },
@@ -1203,6 +1179,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "University Of Kalawa Jazmee",
+        "url": "https://open.spotify.com/album/2ps1XIOsW5Kcz9cy8Igfz6"
+      },
+      "artists": [
+        {
+          "name": "Professor",
+          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Uhuru",
+          "url": "https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2"
+        }
+      ],
+      "duration_ms": 356413,
+      "name": "Speaker",
+      "url": "https://open.spotify.com/track/0oGUm4677n6DnOavpodQvO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Izandla",
         "url": "https://open.spotify.com/album/0QYHvyiFK437jmAMrOSjCO"
       },
@@ -1223,30 +1223,6 @@
       "duration_ms": 225535,
       "name": "Izandla - Radio Edit",
       "url": "https://open.spotify.com/track/6dSfCBAYR1rhrMfKg7L305"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "University Of Kalawa Jazmee",
-        "url": "https://open.spotify.com/album/0oWLtEWgk7r0y9rpgjlagN"
-      },
-      "artists": [
-        {
-          "name": "Professor",
-          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
-        },
-        {
-          "name": "OSKIDO",
-          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
-        },
-        {
-          "name": "Picat",
-          "url": "https://open.spotify.com/artist/7FKwoEtXzOHJjlc0kAyPKz"
-        }
-      ],
-      "duration_ms": 321026,
-      "name": "Toyi Toyi",
-      "url": "https://open.spotify.com/track/0L6ptIGlGCfksxtsA1W7cP"
     },
     {
       "added_at": null,
@@ -1283,6 +1259,30 @@
       "duration_ms": 237876,
       "name": "Izitha (feat. Banzo SA, Ze2 & Mr Maker) - Radio Edit",
       "url": "https://open.spotify.com/track/3y5lZAbp5wJbU36ZOkIoG0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "University Of Kalawa Jazmee",
+        "url": "https://open.spotify.com/album/0oWLtEWgk7r0y9rpgjlagN"
+      },
+      "artists": [
+        {
+          "name": "Professor",
+          "url": "https://open.spotify.com/artist/3d1I45VCwwwQ6Qi53vKAHt"
+        },
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Picat",
+          "url": "https://open.spotify.com/artist/7FKwoEtXzOHJjlc0kAyPKz"
+        }
+      ],
+      "duration_ms": 321026,
+      "name": "Toyi Toyi",
+      "url": "https://open.spotify.com/track/0L6ptIGlGCfksxtsA1W7cP"
     }
   ],
   "unique_name": "This Is OSKIDO",

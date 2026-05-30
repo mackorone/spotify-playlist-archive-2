@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,824,529 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,824,372 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 9 | [Tahanan](https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Tahanan](https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5) | 3:15 |
 | 10 | [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 |
 | 11 | [Kabisado](https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:27 |
-| 12 | [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 |
-| 13 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 |
+| 12 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 |
+| 13 | [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 |
 | 14 | [Tensionado](https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja) | [Soapdish](https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe) | [Soapdish Reloaded](https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ) | 3:16 |
 | 15 | [Pahina](https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 4:09 |
 | 16 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |

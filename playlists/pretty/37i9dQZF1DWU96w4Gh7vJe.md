@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local OPM and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,338 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,308 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 3 | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Libu\-Libong Buwan \(Uuwian\)](https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe) | 2:58 |
 | 4 | [Tahanan](https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Tahanan](https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5) | 3:15 |
 | 5 | [Kabisado](https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:27 |
-| 6 | [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 |
-| 7 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 |
+| 6 | [Palayo Sa Mundo](https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Palayo Sa Mundo](https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj) | 4:28 |
+| 7 | [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 |
 | 8 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/1Dlwdk88pCDKkHvThkSdqc), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 |
 | 9 | [Tingin](https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Tingin](https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3) | 3:42 |
 | 10 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 35 | [2GOOD4U](https://open.spotify.com/track/4f0XOmZT9i5n9xwUlofqwo) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [2GOOD4U](https://open.spotify.com/album/7nZNLY8vQLK1WGQY6MN0C6) | 2:50 |
 | 36 | [Kung Wala Ka](https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn) | [Hale](https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN) | [Kung Wala Ka](https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx) | 4:02 |
 | 37 | [balik](https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX) | [Dom Guyot](https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0), [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [balik](https://open.spotify.com/album/4bSedAL5jbLZ6Wt5TKd1jm) | 3:20 |
-| 38 | [Panatag](https://open.spotify.com/track/5obkQ3qSb30bFrda9rgtd7) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Panatag](https://open.spotify.com/album/038xoGzKvVvU5DgGvbqRMh) | 3:49 |
-| 39 | [LASIK](https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:45 |
+| 38 | [LASIK](https://open.spotify.com/track/5da5VCHTC3516y0y8p40Ee) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 3:45 |
+| 39 | [Panatag](https://open.spotify.com/track/5obkQ3qSb30bFrda9rgtd7) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Panatag](https://open.spotify.com/album/038xoGzKvVvU5DgGvbqRMh) | 3:49 |
 | 40 | [Rainbow](https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv) | [Episode III](https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX) | 5:47 |
 | 41 | [Love Moves in Mysterious Ways \- Live](https://open.spotify.com/track/5EvsytirpNFGyK88Zm7IoK) | [Nina](https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro) | [Live](https://open.spotify.com/album/66a4sphHBAshn0R7a8q2W6) | 4:27 |
 | 42 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 |
-| 43 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 |
-| 44 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 |
+| 43 | [Gusto feat\. Al James](https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac), [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Gusto](https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK) | 4:20 |
+| 44 | [Simula Pa Nung Una](https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm) | [Patch Quiwa](https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn) | [Simula Pa Nung Una](https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC) | 4:15 |
 | 45 | [Isang Daan](https://open.spotify.com/track/0lA5Q2kpsOiJ7VR3Umgo4t) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Sandali](https://open.spotify.com/album/7g503Az15P1vYvOH7QnaUk) | 4:29 |
 | 46 | [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 |
 | 47 | [Kung Masusunod](https://open.spotify.com/track/6eAlaXIFCJSUJXRu4IlPuY) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge), [Johnoy Danao](https://open.spotify.com/artist/2zFBNsALb4M2FhKl98wcvd) | [Kung Masusunod](https://open.spotify.com/album/1x3KkwuQ9HcncHVAFV2tmw) | 3:06 |

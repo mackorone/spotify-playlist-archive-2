@@ -1,12 +1,12 @@
 {
   "description": "The future hits of today. Up Next: Emo Grae",
-  "num_followers": 113695,
+  "num_followers": 113742,
   "original_name": "NXT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANjnTht1sfweh175QCkHr4zSiJDY",
+  "snapshot_id": "AAAAALU30hveqyL45iVv3upzA92be0UW",
   "tracks": [
     {
       "added_at": "2026-05-29 00:02:07",
@@ -727,6 +727,26 @@
       "duration_ms": 122711,
       "name": "Allonsy",
       "url": "https://open.spotify.com/track/134ATgu95x349r7c83DWO5"
+    },
+    {
+      "added_at": "2026-05-29 09:07:23",
+      "album": {
+        "name": "I knoww",
+        "url": "https://open.spotify.com/album/7fXaUu3blBnTT1VPi6OhLq"
+      },
+      "artists": [
+        {
+          "name": "EF Moon",
+          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
+        },
+        {
+          "name": "Star Jay",
+          "url": "https://open.spotify.com/artist/1fuHb5TQ1r9wqAPx4jgx8D"
+        }
+      ],
+      "duration_ms": 82758,
+      "name": "I knoww",
+      "url": "https://open.spotify.com/track/04tEKZxYzpYbPfIA0fJlOF"
     },
     {
       "added_at": "2026-05-29 00:02:07",
@@ -1463,26 +1483,6 @@
       "duration_ms": 194307,
       "name": "Out The Mud",
       "url": "https://open.spotify.com/track/0ew3fsc3ljIZlb46OeTKJs"
-    },
-    {
-      "added_at": "2026-05-29 00:02:07",
-      "album": {
-        "name": "2 l1t",
-        "url": "https://open.spotify.com/album/4auxhB5qT1Wsp2CqYvV3E4"
-      },
-      "artists": [
-        {
-          "name": "ARTSALGHUL",
-          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
-        },
-        {
-          "name": "WAVE$TAR",
-          "url": "https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ"
-        }
-      ],
-      "duration_ms": 117410,
-      "name": "ar1gato 2 you",
-      "url": "https://open.spotify.com/track/0F6r2VkKSiHn9i8p3tZJJS"
     },
     {
       "added_at": "2026-05-29 00:02:07",

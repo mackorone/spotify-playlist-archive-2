@@ -4,7 +4,7 @@
 
 > Music to take the pain of homework away.
 
-834 songs - 1 day 21 hr 0 min
+838 songs - 1 day 21 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK) | 2:53 | 2022-04-14 |  |
 | [Easy](https://open.spotify.com/track/7DoNtK2gVFRwJh0hkHe5wQ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:14 | 2022-04-14 | 2022-07-29 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2022-04-14 | 2023-07-01 |
+| [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2026-05-29 |  |
 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 | 2022-04-14 | 2022-07-24 |
 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 | 2024-04-27 | 2024-07-09 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-29 |  |
@@ -307,6 +308,7 @@
 | [Hi\-Lo](https://open.spotify.com/track/3rPvqdTUROO6eFGFJnY6Jr) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [SKYVIEW](https://open.spotify.com/album/7nkAfiUqBFSD19EwyvCShv) | 2:57 | 2022-04-14 | 2022-07-29 |
 | [High](https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 2:41 | 2023-12-08 | 2025-08-19 |
 | [Highs & Lows](https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9), [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Highs & Lows](https://open.spotify.com/album/3SNsgXJZISh5mWsElUjRZ6) | 2:04 | 2023-07-03 | 2025-03-26 |
+| [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-05-29 |  |
 | [Hold Me While You Wait](https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:25 | 2022-05-13 | 2023-07-01 |
 | [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2022-06-10 | 2022-12-03 |
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-06-15 | 2026-02-17 |
@@ -679,6 +681,7 @@
 | [Strawberries & Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Strawberries & Cigarettes](https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy) | 3:21 | 2022-04-14 |  |
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2022-08-12 | 2022-08-20 |
 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 | 2022-04-14 | 2025-08-30 |
+| [Sue me](https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP) | 2:50 | 2026-05-29 |  |
 | [SUGAR](https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 3:24 | 2022-04-14 | 2022-04-21 |
 | [Sugar On My Tongue](https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:33 | 2025-08-29 |  |
 | [Summer Is Over](https://open.spotify.com/track/78nvT4euebtCsEigaNt4aa) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Summer Is Over](https://open.spotify.com/album/6RtywjU8C5NqmQPKUYeROd) | 3:08 | 2022-10-07 | 2022-10-29 |
@@ -716,6 +719,7 @@
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2022-08-19 | 2023-08-05 |
 | [the boy is mine](https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:53 | 2024-08-09 | 2026-04-21 |
 | [The Chancer](https://open.spotify.com/track/7CSxUbNsL5Tuvcsry4rfHi) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Under the Surface](https://open.spotify.com/album/4WvW7Y50LuI1yE1XWxtAVk) | 3:42 | 2022-04-14 | 2022-04-21 |
+| [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 | 2026-05-29 |  |
 | [The Drift](https://open.spotify.com/track/1dwwmpUGD6ZSvHDUbP89gb) | [Serenade](https://open.spotify.com/artist/2E0Hl45r0SXnkoG57IzGv0) | [The Drift](https://open.spotify.com/album/6rJHIci4gPjxMbCadVFLnf) | 2:26 | 2022-04-14 | 2022-04-21 |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-28 | 2024-03-30 |
 | [The Golden Years](https://open.spotify.com/track/0WcVzqLvBKVOZ35ChOkwtT) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/2AkKL6l3tq1xzJxRLLJaHf) | 3:34 | 2024-05-17 | 2024-08-10 |

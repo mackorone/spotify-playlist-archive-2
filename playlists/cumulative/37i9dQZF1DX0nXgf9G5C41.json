@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "DYW Dance",
+        "url": "https://open.spotify.com/album/4nSynxQQCS2otSRwXXrL10"
+      },
+      "artists": [
+        {
+          "name": "Sunny 6700",
+          "url": "https://open.spotify.com/artist/6evGuUuo9B1Fz5oHrUteKn"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130262,
+      "name": "DYW Dance",
+      "url": "https://open.spotify.com/track/3KOZ6ItiRYiojF0nRosom0"
+    },
+    {
+      "album": {
         "name": "Encyclopedia",
         "url": "https://open.spotify.com/album/0lVbdzWLuKqLtBU2uRaY0Q"
       },
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 199147,
       "name": "Or What",
       "url": "https://open.spotify.com/track/34359k0LU3ZKVSlVJOUL39"

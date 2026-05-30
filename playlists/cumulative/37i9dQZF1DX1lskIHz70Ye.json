@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "A Stillness Within",
+        "url": "https://open.spotify.com/album/2az1Rnce2myCYUd20ezq40"
+      },
+      "artists": [
+        {
+          "name": "Jonas Kahnberg",
+          "url": "https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156294,
+      "name": "A Stillness Within",
+      "url": "https://open.spotify.com/track/2I58ajetaUKB6nl7963Tm7"
+    },
+    {
+      "album": {
         "name": "Acuarela Mediterranea",
         "url": "https://open.spotify.com/album/2zGoSZ5tQzovfBRioel6QH"
       },
@@ -136,6 +154,24 @@
       "duration_ms": 204419,
       "name": "Alejandra",
       "url": "https://open.spotify.com/track/2KNQI5eVgoNyvZY4HJFHpz"
+    },
+    {
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/2SwqfyY10feJTaYWu43Zqi"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137183,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/10OUbLj4inL5Y5mfqQC1Mb"
     },
     {
       "album": {
@@ -1121,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "Elizabeth",
+        "url": "https://open.spotify.com/album/0m9OjqhtdawqAZSUjdL24I"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/79Z5yXBRvSyTkClUowAiWe"
+    },
+    {
+      "album": {
         "name": "Alma Mexicana",
         "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
       },
@@ -1273,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Evening Moon",
+        "url": "https://open.spotify.com/album/7gqtAIZuVKKhxYCkSVtm4b"
+      },
+      "artists": [
+        {
+          "name": "Jorge Huksos",
+          "url": "https://open.spotify.com/artist/5DEfxYlPLz7yZMw0AJF5G7"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Evening Moon",
+      "url": "https://open.spotify.com/track/0R8IzgJ8CVVtYAJ4sDiGqr"
+    },
+    {
+      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/40Cig41xhbZ29eO9LEODpT"
       },
@@ -1363,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Galactic Dream",
+        "url": "https://open.spotify.com/album/44xgN7zVuzO0UT5QWmOFUi"
+      },
+      "artists": [
+        {
+          "name": "Miguel Serugetti",
+          "url": "https://open.spotify.com/artist/5mH7tkzuF5mGwqzvDfFBXz"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122053,
+      "name": "Galactic Dream",
+      "url": "https://open.spotify.com/track/3TQRCNmBo9OZqylFqf7704"
+    },
+    {
+      "album": {
         "name": "Garden Peace & Stravaig",
         "url": "https://open.spotify.com/album/3mAhOMjspV5JXZjrxoqu2l"
       },
@@ -1439,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "Grindenwald",
+        "url": "https://open.spotify.com/album/44ZOl2tjLn0ZeV5HSGYAMX"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124836,
+      "name": "Grindenwald",
+      "url": "https://open.spotify.com/track/7CXyCkaDup65KOrBWrUeAC"
+    },
+    {
+      "album": {
         "name": "High Tops",
         "url": "https://open.spotify.com/album/1AtTJkjZ8EKBGwgRM45xPA"
       },
@@ -1490,6 +1598,24 @@
       "duration_ms": 158453,
       "name": "Imelda\u00b4s Waltz",
       "url": "https://open.spotify.com/track/34o79IeA5dfhTSlgo6VpEu"
+    },
+    {
+      "album": {
+        "name": "In Any Direction",
+        "url": "https://open.spotify.com/album/2XpHP8ZoZUFKRmCgcdFaoT"
+      },
+      "artists": [
+        {
+          "name": "Sven Simons",
+          "url": "https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144654,
+      "name": "In Any Direction",
+      "url": "https://open.spotify.com/track/3e5pYvJwKCGq8aYD5wrUdt"
     },
     {
       "album": {
@@ -2243,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "Neighbours",
+        "url": "https://open.spotify.com/album/307C1yaL9lwaO3HgOY46Ju"
+      },
+      "artists": [
+        {
+          "name": "Jorge Huksos",
+          "url": "https://open.spotify.com/artist/5DEfxYlPLz7yZMw0AJF5G7"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131750,
+      "name": "Neighbours",
+      "url": "https://open.spotify.com/track/0otKrLgbKomSRpuD3kGa12"
+    },
+    {
+      "album": {
         "name": "Night Dance",
         "url": "https://open.spotify.com/album/2YMiPnsaX4cyhh2CE70uxw"
       },
@@ -2337,6 +2481,24 @@
     },
     {
       "album": {
+        "name": "Ocean Haze",
+        "url": "https://open.spotify.com/album/5XCZdhtU0rrIWMx6iT2MxX"
+      },
+      "artists": [
+        {
+          "name": "Adrian Edblad",
+          "url": "https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148506,
+      "name": "Ocean Haze",
+      "url": "https://open.spotify.com/track/6YSDucCL3s410c2X02T6q8"
+    },
+    {
+      "album": {
         "name": "Oda al Amor",
         "url": "https://open.spotify.com/album/36ijVR5mkPZBGCof2VEZLe"
       },
@@ -2406,6 +2568,24 @@
       "duration_ms": 149844,
       "name": "Our Journey",
       "url": "https://open.spotify.com/track/34VrVAqwPb3ZbO1PU98ncG"
+    },
+    {
+      "album": {
+        "name": "Papaver Sent",
+        "url": "https://open.spotify.com/album/6SLax6dxplXffc8R5igb2H"
+      },
+      "artists": [
+        {
+          "name": "David Sereno",
+          "url": "https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132500,
+      "name": "Papaver Sent",
+      "url": "https://open.spotify.com/track/3XtCzcM0ZuhiqXBfDXH3RJ"
     },
     {
       "album": {
@@ -2652,6 +2832,24 @@
       "duration_ms": 174480,
       "name": "Quiereme Corazon Quiereme",
       "url": "https://open.spotify.com/track/0K38jgUjNNXz6AEgQneS6M"
+    },
+    {
+      "album": {
+        "name": "Quiet Echoes",
+        "url": "https://open.spotify.com/album/3BfubNlHUUfczLdmGwrGVG"
+      },
+      "artists": [
+        {
+          "name": "Sam Stone",
+          "url": "https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125036,
+      "name": "Quiet Echoes",
+      "url": "https://open.spotify.com/track/5WMGSUKlxniqWzMgTPeQs3"
     },
     {
       "album": {
@@ -3013,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "Shades of Gold",
+        "url": "https://open.spotify.com/album/4Llm8jrhjIrVzVtkH4R8Q9"
+      },
+      "artists": [
+        {
+          "name": "Dieter Huber",
+          "url": "https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175013,
+      "name": "Shades of Gold",
+      "url": "https://open.spotify.com/track/1DwsosLW4IcmnhHQvIoLyY"
+    },
+    {
+      "album": {
         "name": "Lonely Sailor",
         "url": "https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL"
       },
@@ -3068,6 +3284,24 @@
       "duration_ms": 184571,
       "name": "Sonata Bwv 1001 - (Siciliano)",
       "url": "https://open.spotify.com/track/0m2bd4V456cYNWWM1AIW0g"
+    },
+    {
+      "album": {
+        "name": "Sound of Speech",
+        "url": "https://open.spotify.com/album/52s99fPzTKKNcNbggc1bJG"
+      },
+      "artists": [
+        {
+          "name": "Matthew Kaff",
+          "url": "https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147725,
+      "name": "Sound of Speech",
+      "url": "https://open.spotify.com/track/7JW97t2t5VSwnInDKb9KaK"
     },
     {
       "album": {
@@ -3531,6 +3765,24 @@
     },
     {
       "album": {
+        "name": "Travels With",
+        "url": "https://open.spotify.com/album/3jJFkoxvlrXqR8qVQr4JpE"
+      },
+      "artists": [
+        {
+          "name": "Matthew Kaff",
+          "url": "https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151254,
+      "name": "Travels With",
+      "url": "https://open.spotify.com/track/4JDoLzT7035DoHKErpgDQV"
+    },
+    {
+      "album": {
         "name": "R\u00e9union",
         "url": "https://open.spotify.com/album/3KduaJCpIteIgNVgo5GSAh"
       },
@@ -3658,6 +3910,24 @@
       "duration_ms": 286500,
       "name": "Walking Around Santiago",
       "url": "https://open.spotify.com/track/547zA3UNGPouhvPF0LCpt7"
+    },
+    {
+      "album": {
+        "name": "Wandering Heart",
+        "url": "https://open.spotify.com/album/4B0RVOLWJdthmqJVk4ZUGC"
+      },
+      "artists": [
+        {
+          "name": "F. Garling",
+          "url": "https://open.spotify.com/artist/6972NR2aw4LViqsAjMZAhq"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117625,
+      "name": "Wandering Heart",
+      "url": "https://open.spotify.com/track/2CBBLrBIdKR5AMbxKmgZY0"
     },
     {
       "album": {

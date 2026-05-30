@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Memorias <3",
+        "url": "https://open.spotify.com/album/47vZWbCPtkrihW631OcCWi"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Cortes",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199877,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk"
+    },
+    {
+      "album": {
         "name": "Los Gal\u00e1cticos",
         "url": "https://open.spotify.com/album/7cyvDciNDl73L7jGJ9bRt3"
       },
@@ -2872,10 +2890,28 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 207600,
       "name": "De Lejitos",
       "url": "https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8"
+    },
+    {
+      "album": {
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "De Lejitos",
+      "url": "https://open.spotify.com/track/4kJQ6oM2mAj7HIXmxphHEs"
     },
     {
       "album": {
@@ -3780,7 +3816,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu"
@@ -3846,7 +3882,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 265909,
       "name": "En El Suelo",
       "url": "https://open.spotify.com/track/2mhgTFNDHOakvlFbcXPhoc"
@@ -3983,6 +4019,32 @@
     },
     {
       "album": {
+        "name": "Dark Fantasy",
+        "url": "https://open.spotify.com/album/6V9u1059m3xkfzSvIGf565"
+      },
+      "artists": [
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        },
+        {
+          "name": "Raven la R",
+          "url": "https://open.spotify.com/artist/0CfmWLXx6Ttp9rNUggslVq"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152262,
+      "name": "Entre Tu y Yo",
+      "url": "https://open.spotify.com/track/4kCUrZdOo4O9CYHFI94c8u"
+    },
+    {
+      "album": {
         "name": "Entre Tu y Yo",
         "url": "https://open.spotify.com/album/6NDlcrSs1LjIvWSAdyyGlJ"
       },
@@ -4002,7 +4064,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 152262,
       "name": "Entre Tu y Yo",
       "url": "https://open.spotify.com/track/7aOOEDkeEEjRuP0rSH9tsJ"
@@ -4210,7 +4272,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 233417,
       "name": "Euforia",
       "url": "https://open.spotify.com/track/1g7liJ34sZhH4rP7bGmC0J"
@@ -4900,6 +4962,24 @@
       "duration_ms": 198495,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245837,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
     {
       "album": {
@@ -5620,7 +5700,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -5786,7 +5866,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 250149,
       "name": "Llora (Para Mam\u00e1)",
       "url": "https://open.spotify.com/track/0kztjyLUak6pMWBr1cpMjA"
@@ -8522,7 +8602,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 266447,
       "name": "Poder Quererme",
       "url": "https://open.spotify.com/track/6obt9grIXqoxKaRCDgVnDc"
@@ -8807,6 +8887,32 @@
     },
     {
       "album": {
+        "name": "Q Hubo Amor (Medell\u00edn)",
+        "url": "https://open.spotify.com/album/7lNBB4Mr7IaN4CYh6lQL2o"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172072,
+      "name": "Q Hubo Amor (Medell\u00edn)",
+      "url": "https://open.spotify.com/track/0HHRmqcKYBUAsMXgXdvxx8"
+    },
+    {
+      "album": {
         "name": "PRIMERA MUSA",
         "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
       },
@@ -9016,7 +9122,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 217250,
       "name": "Quema",
       "url": "https://open.spotify.com/track/62vGlosaO2oZm2Mlxr0xRj"
@@ -9324,7 +9430,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 200526,
       "name": "Resentia",
       "url": "https://open.spotify.com/track/2ANtIUI9cipWNI685VdlZb"
@@ -11096,7 +11202,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 157630,
       "name": "Tu Coraz\u00f3n (Para Pap\u00e1)",
       "url": "https://open.spotify.com/track/36vEMdv9FiAhnJp7sgaW7Y"
@@ -11489,6 +11595,24 @@
     },
     {
       "album": {
+        "name": "POR SI MA\u00d1ANA NO ESTOY",
+        "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199253,
+      "name": "VAMOaCOCHI",
+      "url": "https://open.spotify.com/track/1oghNMGW42IhtQPNU6leZz"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -11812,7 +11936,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 269596,
       "name": "WO OH OH",
       "url": "https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM"

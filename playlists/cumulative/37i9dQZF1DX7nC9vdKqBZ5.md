@@ -4,7 +4,7 @@
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-136 songs - 7 hr 54 min
+137 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Agora Eu Quero Ir](https://open.spotify.com/track/0wHLjfLyc26xILjHVMGIHN) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:12 | 2023-10-13 | 2024-04-19 |
 | [Agora Eu Quero Ir](https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t) | 3:12 | 2024-03-18 |  |
 | [Ai de Mim](https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [OutroEu](https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4) | 4:18 | 2023-10-13 | 2024-07-13 |
-| [Ainda Bem Que Chegou \- Acoustic Version](https://open.spotify.com/track/1iwtTrE3Ry2E6PetwCax5i) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Bem Que Chegou \(Acoustic Version\)](https://open.spotify.com/album/4uvvyAPCasSKb2HB4naHAK) | 3:01 | 2024-03-18 |  |
+| [Ainda Bem Que Chegou \- Acoustic Version](https://open.spotify.com/track/1iwtTrE3Ry2E6PetwCax5i) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Bem Que Chegou \(Acoustic Version\)](https://open.spotify.com/album/4uvvyAPCasSKb2HB4naHAK) | 3:01 | 2024-03-18 | 2026-05-30 |
 | [Ainda Bem Que Chegou \- Acoustic Version](https://open.spotify.com/track/6pY5YWYHk7CWxmf0IwD7RX) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Ainda Bem Que Chegou \(Acoustic Version\)](https://open.spotify.com/album/6bB5V8MnfPZrUXVMZe75IE) | 3:01 | 2023-10-13 | 2024-04-19 |
 | [Aindas](https://open.spotify.com/track/64RrdeZbeiMKvhhSbWKPso) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Ana Vilela Sessions](https://open.spotify.com/album/2MwxQxJrzlYkkvLnIvpwVM) | 3:18 | 2023-10-13 | 2024-07-13 |
 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 | 2023-10-13 |  |
@@ -104,6 +104,7 @@
 | [Por Você \- Acústica](https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj) | [Barão Pra Sempre](https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK) | 3:22 | 2023-10-13 |  |
 | [Porque Eu Sei Que É Amor \- Acústico](https://open.spotify.com/track/1itgNM42znLYss6wBj5N7B) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Porque Eu Sei Que É Amor \(Acústico\)](https://open.spotify.com/album/29w59BF1fw1GHNA7pCZwGm) | 3:23 | 2023-10-13 | 2024-04-19 |
 | [Porque Eu Sei Que É Amor \- Acústico](https://open.spotify.com/track/4uzNmF3XenjXjHQsEAXUfy) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Porque Eu Sei Que É Amor \(Acústico\)](https://open.spotify.com/album/4GOE1sZ3a3jIXZo9mNKrkJ) | 3:23 | 2024-03-18 |  |
+| [Pra Você Guardei o Amor](https://open.spotify.com/track/3JsF6aWPsSUaGsGOq6kqAG) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Pra Você Guardei o Amor](https://open.spotify.com/album/7qOUwMmQjLBCzKYQszzNBT) | 4:34 | 2026-05-29 |  |
 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 | 2023-10-13 |  |
 | [Promete](https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Promete](https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ) | 3:18 | 2023-10-13 |  |
 | [Péssimo Negócio \(Ao Vivo\) \- Acústico](https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Acústico\)](https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj) | 3:25 | 2023-10-13 |  |

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,419 songs - 9 day 20 hr 10 min
+4,422 songs - 9 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1482,6 +1482,7 @@
 | [Floating on Air \(another\)](https://open.spotify.com/track/5qDULAi6lncjgGk10XQON3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relax chill\-out 2nd part](https://open.spotify.com/album/71WyxXVqYYkuuNyAFW5pyR) | 3:48 | 2025-09-16 |  |
 | [Floating Up Above](https://open.spotify.com/track/5EmWD5EAdmLYNrhXdnhNvO) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Floating Up Above](https://open.spotify.com/album/4uNrtVbwTMCpC7pmTn9yU3) | 3:56 | 2025-10-08 |  |
 | [Flock](https://open.spotify.com/track/6MPrTnYDPWWUg2RmMwXFhK) | [Yhapojj](https://open.spotify.com/artist/4mAsHgZzoZvU0eMbHOB60X) | [Flock](https://open.spotify.com/album/2huz1moz7vcFgzrsCG7uzy) | 1:19 | 2025-07-28 |  |
+| [Floorfiller Miss](https://open.spotify.com/track/0pvfvuE8sttFh4SMPapwGh) | [Scampi Chips Dip & Campari](https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9) | [Floorfiller Miss](https://open.spotify.com/album/419yNflaTPHFSz6jrd5Wz9) | 2:40 | 2026-05-29 |  |
 | [Flor de invierno](https://open.spotify.com/track/1SiM61PihSYyAkj6aGp7cD) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Distancias](https://open.spotify.com/album/0f6YPVRdJql2lBmpkqxxRz) | 3:06 | 2026-04-12 |  |
 | [Flow](https://open.spotify.com/track/01UXkccZgnnJRM0NmpZEe3) | [JAKE SOMMER](https://open.spotify.com/artist/3bnImuJkdPotuz6y8THxmV), [10 Thousand Clicks](https://open.spotify.com/artist/1Oz5c4eaC0kaKIZOKbsHwW), [Bree Ann](https://open.spotify.com/artist/71fNsP7TnG3tqfUkULEsMV) | [Flow](https://open.spotify.com/album/0ky9zkE8j0oJ23VsWFR8Rn) | 3:54 | 2026-02-13 |  |
 | [Fly](https://open.spotify.com/track/2jf5HABQDnF6UJQIAYP1QL) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Fly](https://open.spotify.com/album/6QqXEXwoFpI63FhyrYEwB1) | 3:08 | 2022-10-24 |  |
@@ -1815,6 +1816,7 @@
 | [Horizon \(another\)](https://open.spotify.com/track/1FzKHWKKuW7tvBHaoXZ1YT) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for travel ideal for driving bonne voyage](https://open.spotify.com/album/22Wd0U4uGw0Wmlgh2pwa6x) | 2:43 | 2025-09-17 |  |
 | [Horizons](https://open.spotify.com/track/27IAMy3JCw9sHoRbSssHCE) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 3:03 | 2025-10-09 |  |
 | [Hotel Room](https://open.spotify.com/track/6jnLXQmSlSaqjThXu8k8r8) | [The Silver Lines](https://open.spotify.com/artist/6a8ZPkxrrt7j2JZG03MjMM) | [Hotel Room](https://open.spotify.com/album/3GFOquxcO22RERYLviUmPz) | 4:05 | 2025-11-05 |  |
+| [Hotline](https://open.spotify.com/track/7a5LOatQmo9lSWAibwwTiV) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Hotline](https://open.spotify.com/album/3F98n93nXEna7TCoCNnbyP) | 1:46 | 2026-05-29 |  |
 | [Hover](https://open.spotify.com/track/1VPbv7tBDx59RfOEPe1zgH) | [Jenine](https://open.spotify.com/artist/0oWzaYwOVGqNCeUa6ozxn3) | [Hover](https://open.spotify.com/album/1Q7soH0TmMr4GGJCtEmMLE) | 2:52 | 2025-09-23 |  |
 | [HOW CAN I DO](https://open.spotify.com/track/1tmMp3mLAp0X2DPf3EtVDJ) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [HOW CAN I DO](https://open.spotify.com/album/2rZyVdfZpVkahYPDSatW49) | 4:07 | 2025-06-08 |  |
 | [How Does The Story Go?](https://open.spotify.com/track/62zxiPxHoExCfnvQvfk9B3) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [How Does The Story Go?](https://open.spotify.com/album/7FtiEXs5yhhfjdReIXipKQ) | 2:28 | 2025-11-05 |  |
@@ -3374,6 +3376,7 @@
 | [Sigma](https://open.spotify.com/track/2Oov6lssSbiIED3nwcV5ip) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 2:06 | 2025-09-17 |  |
 | [Signal Lost](https://open.spotify.com/track/4VptXFAq9u0CYJ5enpKBGW) | [Analog Future](https://open.spotify.com/artist/5FW4eXdqhOZepr0vX57iVJ) | [BOOT SEQUENCE](https://open.spotify.com/album/1yP3P0aSvDzhOegG7dZPCg) | 3:00 | 2026-01-21 |  |
 | [Signoramia](https://open.spotify.com/track/5j7ml8ZPPaPOJblhgBPiET) | [Danny Fiorilla](https://open.spotify.com/artist/2tgqhZ1DaammObirYQIrju) | [Danny](https://open.spotify.com/album/2gVEYdhHqbfFHNw0eRvqNt) | 4:32 | 2025-05-29 |  |
+| [Sigo Enamorada \(Disco Edit\)](https://open.spotify.com/track/5ks5Is8HrJ6dd4Jk1sWuYP) | [Tizzio](https://open.spotify.com/artist/7rQvbRtdX02iEk4aLDcH8f) | [Universo Tizzio Vol\. I](https://open.spotify.com/album/0Mx98djP02TAzmRyOpPYST) | 3:59 | 2026-05-29 |  |
 | [Silent Crave](https://open.spotify.com/track/63m0kqlznLBT6ftG76Uglk) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [R&B music album](https://open.spotify.com/album/0cTefedcGjVOy0QYnpq33N) | 3:14 | 2025-09-20 |  |
 | [Silent Enigma](https://open.spotify.com/track/1Jn8cVpM5motKKpKimecDO) | [Binaural Beats Ascension](https://open.spotify.com/artist/1pZSqxQu4oj7bUxjBZKyD0) | [Silent Enigma](https://open.spotify.com/album/5a7OFjz804VcD4mI2j9hOt) | 9:19 | 2025-06-04 |  |
 | [Silent Pain](https://open.spotify.com/track/5x1orPalUNE0ZKmJsiOD1L) | [Ivan PolliX](https://open.spotify.com/artist/59dMTfr8L1qzJaGPpzwzZt) | [Silent Pain](https://open.spotify.com/album/1wWXINZ89YMW7TmVP4TFxv) | 3:41 | 2026-01-31 |  |

@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Acknowledge Kindness",
+        "url": "https://open.spotify.com/album/3O67YGfabTWR14jjIsh9ib"
+      },
+      "artists": [
+        {
+          "name": "The Reds, Pinks and Purples",
+          "url": "https://open.spotify.com/artist/5onPoueRGS17tA2CcceUiz"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178428,
+      "name": "Blue Heron Lake",
+      "url": "https://open.spotify.com/track/7z8pyJ6l7eAvJr6ZMvKcne"
+    },
+    {
+      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
       },
@@ -646,7 +664,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 176602,
       "name": "Dusty Roads",
       "url": "https://open.spotify.com/track/15EdvEEY3BBkKXhve298eY"
@@ -682,7 +700,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 464373,
       "name": "Ekki m\u00fakk",
       "url": "https://open.spotify.com/track/36ZSqoEkEtH6s9FvVS9yNe"
@@ -758,6 +776,42 @@
       "duration_ms": 226760,
       "name": "Enfold",
       "url": "https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq"
+    },
+    {
+      "album": {
+        "name": "Exhale",
+        "url": "https://open.spotify.com/album/3Y296dqJW6HBj1LYCoIsrB"
+      },
+      "artists": [
+        {
+          "name": "From Somewhere Quiet",
+          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/1IrJf0dsyxqcsuI9QbUBhu"
+    },
+    {
+      "album": {
+        "name": "From A Flood Of Words Only The Current Remains",
+        "url": "https://open.spotify.com/album/1xPy6soMCJtMp1HmBe2KWD"
+      },
+      "artists": [
+        {
+          "name": "Jacopo Ramonda",
+          "url": "https://open.spotify.com/artist/1drMRvchQjyL4qXK0mgaTc"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240107,
+      "name": "Falling Slowly Like Snow",
+      "url": "https://open.spotify.com/track/211QCsl0TK9mgRib6TApqR"
     },
     {
       "album": {
@@ -848,7 +902,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 137986,
       "name": "Floating Above Saturn",
       "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
@@ -906,6 +960,28 @@
       "duration_ms": 334866,
       "name": "Forever Rain",
       "url": "https://open.spotify.com/track/5eLUHTUUnkiIrDE3TgtgjA"
+    },
+    {
+      "album": {
+        "name": "Forgotten Light",
+        "url": "https://open.spotify.com/album/79wYMiI8DcvwFdCrhh7NsM"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Silence",
+          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+        },
+        {
+          "name": "Mercury 88",
+          "url": "https://open.spotify.com/artist/453LGeTHivFaGlQ7mjqJsa"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97659,
+      "name": "Forgotten Light",
+      "url": "https://open.spotify.com/track/6cMvnZciT4mV313kBY3o26"
     },
     {
       "album": {
@@ -996,6 +1072,24 @@
       "duration_ms": 343800,
       "name": "Green Arrow",
       "url": "https://open.spotify.com/track/6o65Xn8X3IXf7zmxVjXDWJ"
+    },
+    {
+      "album": {
+        "name": "growing up",
+        "url": "https://open.spotify.com/album/4pvgtTIF9WIWyvtUs3AD2y"
+      },
+      "artists": [
+        {
+          "name": "asystole",
+          "url": "https://open.spotify.com/artist/6rp87dosllRvq8qTexWknV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157755,
+      "name": "growing up",
+      "url": "https://open.spotify.com/track/3PWVoUzYBlcHDlAgR0Zz5d"
     },
     {
       "album": {
@@ -1252,10 +1346,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 181333,
       "name": "Ineffable",
       "url": "https://open.spotify.com/track/4k3g9XiOePysNVbn6FMTIX"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275175,
+      "name": "Into The Magic Land",
+      "url": "https://open.spotify.com/track/2dgrdKpGX3Vgag91cM0qgK"
     },
     {
       "album": {
@@ -1328,7 +1440,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 164589,
       "name": "Lakeshore",
       "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
@@ -1426,6 +1538,24 @@
       "duration_ms": 278067,
       "name": "Lifelike",
       "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
+    },
+    {
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/67DIiGJPzKG3HdqPPhm3B6"
+      },
+      "artists": [
+        {
+          "name": "From Somewhere Quiet",
+          "url": "https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127240,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/4tEdMG485b8naFRVOasiKD"
     },
     {
       "album": {
@@ -1714,7 +1844,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 246660,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/2FNfyF9i5CcnnxCERfAlU1"
@@ -1916,7 +2046,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 405400,
       "name": "Out of It",
       "url": "https://open.spotify.com/track/3BbU4k2CFvzpG7BNQlwnmR"
@@ -2197,6 +2327,28 @@
     },
     {
       "album": {
+        "name": "Sakura In Blossom",
+        "url": "https://open.spotify.com/album/08KQ0Ga7FFrIg1V3CH6QRE"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Silence",
+          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+        },
+        {
+          "name": "Mercury 88",
+          "url": "https://open.spotify.com/artist/453LGeTHivFaGlQ7mjqJsa"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "Sakura In Blossom",
+      "url": "https://open.spotify.com/track/3APiPBmfAeo2sUwaBOwUKH"
+    },
+    {
+      "album": {
         "name": "Samadhi",
         "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
       },
@@ -2306,7 +2458,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 480000,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/1rJTJnb9jFkSetUSoIKOvz"
@@ -2421,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "soft silence",
+        "url": "https://open.spotify.com/album/6S7i0D8aM2SsbxRcLQwIUA"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Silence",
+          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80937,
+      "name": "soft silence",
+      "url": "https://open.spotify.com/track/6uekqJ8hkOSiqUlxK7XYzU"
+    },
+    {
+      "album": {
         "name": "Sound Study Four",
         "url": "https://open.spotify.com/album/7k68DOmu9jG4RJvG0VveGu"
       },
@@ -2436,10 +2606,28 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 438539,
       "name": "Sound Study Four",
       "url": "https://open.spotify.com/track/0d3XErjZJDoJr7XgjncNXr"
+    },
+    {
+      "album": {
+        "name": "Source (Live Mix)",
+        "url": "https://open.spotify.com/album/3xYn1CcHErSi12pM6DMMMu"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178686,
+      "name": "Source - Live Mix",
+      "url": "https://open.spotify.com/track/64dLxmbabfLFq4R4HRsI3L"
     },
     {
       "album": {
@@ -2490,7 +2678,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 606850,
       "name": "Svefn-g-englar",
       "url": "https://open.spotify.com/track/07eGxuz8bL6QMsRqEe1Adu"
@@ -2623,6 +2811,24 @@
     },
     {
       "album": {
+        "name": "The Second Coming Was a Moonrise",
+        "url": "https://open.spotify.com/album/3zOh4n2WhCxwwDkuET0i4G"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442386,
+      "name": "The Second Coming Was a Moonrise",
+      "url": "https://open.spotify.com/track/7IE5JeGJPetjc67VHnsWXz"
+    },
+    {
+      "album": {
         "name": "Pure Phase",
         "url": "https://open.spotify.com/album/1J5p5XuDMtA49FRmp7UK1a"
       },
@@ -2677,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "The Weight of It All",
+        "url": "https://open.spotify.com/album/71OODPd7MyMV66BIkOrSl4"
+      },
+      "artists": [
+        {
+          "name": "Chasing Reverbs",
+          "url": "https://open.spotify.com/artist/61qSGQsnPa7ojcI75q32KX"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176015,
+      "name": "The Weight of It All",
+      "url": "https://open.spotify.com/track/1VL1t8ydGcgCDW21B2bUIZ"
+    },
+    {
+      "album": {
         "name": "Oblivion Hymns",
         "url": "https://open.spotify.com/album/0qlK9CvmHB659phHKCdJSn"
       },
@@ -2724,7 +2948,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 416333,
       "name": "They Move on Tracks of Never-Ending Light",
       "url": "https://open.spotify.com/track/3cIG78oBauowzEbkBwWADN"
@@ -2778,7 +3002,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 262016,
       "name": "Three Halves",
       "url": "https://open.spotify.com/track/2d1phWQyfC2aTXEpu7MBNK"
@@ -2901,6 +3125,24 @@
     },
     {
       "album": {
+        "name": "VIII",
+        "url": "https://open.spotify.com/album/4GZGWKhIii0zxZZWOnBQB5"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Silence",
+          "url": "https://open.spotify.com/artist/19o1RzxXWl4YpcZ3rX6B1Y"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "VIII",
+      "url": "https://open.spotify.com/track/5iucxdKLbKZG3Q5KbjQpBK"
+    },
+    {
+      "album": {
         "name": "VOID",
         "url": "https://open.spotify.com/album/4dlVpb8VyP924DQhcYkRag"
       },
@@ -2973,6 +3215,24 @@
     },
     {
       "album": {
+        "name": "Water Temple",
+        "url": "https://open.spotify.com/album/2tDEN7aZafEFVRcoNiBdtp"
+      },
+      "artists": [
+        {
+          "name": "Lords of Lounge",
+          "url": "https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258510,
+      "name": "Water Temple",
+      "url": "https://open.spotify.com/track/1lyprGNpWaB0Ay8DZxNBoW"
+    },
+    {
+      "album": {
         "name": "Sacrifice & Isolation",
         "url": "https://open.spotify.com/album/42WlUy8Gv94fgPhtlnSPka"
       },
@@ -3042,7 +3302,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 497493,
       "name": "Your Hand in Mine",
       "url": "https://open.spotify.com/track/4mZofk9oND0AA4sJfzTH0R"
@@ -3086,7 +3346,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 159818,
       "name": "Zero Gravity",
       "url": "https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX"

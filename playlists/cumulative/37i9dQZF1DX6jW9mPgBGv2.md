@@ -4,7 +4,7 @@
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Hanzel La H, Hades66,  Arcángel, Luar La L, Kendo Kaponi y Ñengo Flow plantando cara.
 
-218 songs - 13 hr 5 min
+219 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [ENDEMO](https://open.spotify.com/track/3SoCCNa8rGh7YGrbb9zBPg) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [ENDEMO](https://open.spotify.com/album/2XfA8hTV6aWIPf9Q2H3fu2) | 5:57 | 2025-10-31 |  |
 | [Enemigos Ocultos](https://open.spotify.com/track/3fhOpwaKobrELFjKLcXHgI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 7:25 | 2021-12-01 | 2025-11-15 |
 | [Envidioso](https://open.spotify.com/track/7J4VKp49Uh2r84SK5pUa0A) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Envidioso](https://open.spotify.com/album/11l3a3ll8Za1v8nF6sZy5Y) | 3:45 | 2021-12-01 | 2024-06-15 |
+| [ESTA ENERGÍA](https://open.spotify.com/track/5B5QVDNWMCQREj7PuzTWzE) | [Nash](https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3), [Maggic](https://open.spotify.com/artist/1ItNVcT1VXX8JcgBtS6C54) | [ESTA ENERGÍA](https://open.spotify.com/album/7kORV98udhkmoMsu3pc3MJ) | 3:05 | 2026-05-29 |  |
 | [Estamos Arriba](https://open.spotify.com/track/0bCPJsVGDxPYwQMDZMi4NW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Estamos Arriba](https://open.spotify.com/album/48eb5w6QS1v1YnLsw1fNkG) | 3:45 | 2021-12-01 |  |
 | [Está Cabrón Ser Yo](https://open.spotify.com/track/4saHEjXw7O1NXJOzBkUKKG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 3:47 | 2021-12-01 |  |
 | [Feliz Navidad 8](https://open.spotify.com/track/6XYELfFtZ2SQniDqXcTHFV) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Feliz Navidad 8](https://open.spotify.com/album/5Wa0plC0QxJjgj9p4yunLE) | 10:55 | 2023-12-22 | 2024-03-05 |

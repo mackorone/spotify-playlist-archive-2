@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 250331,
       "name": "Get Back Again",
       "url": "https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0"
@@ -1428,6 +1428,24 @@
       "duration_ms": 192826,
       "name": "Goodbye Yellow Brick Road - Remastered 2014",
       "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
+    },
+    {
+      "album": {
+        "name": "Day For Night",
+        "url": "https://open.spotify.com/album/3qtWDY2yl7NGrpCYqxrUt6"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334933,
+      "name": "Grace, Too",
+      "url": "https://open.spotify.com/track/0qC02cAOQmm4eJR4Kn9pcY"
     },
     {
       "album": {

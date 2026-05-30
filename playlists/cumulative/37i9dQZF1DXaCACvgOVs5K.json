@@ -655,6 +655,28 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/4MbyPhOldP6NLm1CZf8Oxo"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/5q6QXK4K3DvIlwGEtElny3"
+    },
+    {
+      "album": {
         "name": "Baby again..",
         "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
       },
@@ -1482,6 +1504,24 @@
       "duration_ms": 229600,
       "name": "Caf\u00e9 Del Mar - Three 'n One Radio Edit",
       "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
+    },
+    {
+      "album": {
+        "name": "Bass Electronic",
+        "url": "https://open.spotify.com/album/0YzPt9qBgevGuh1BWGZ6Dr"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325970,
+      "name": "Call It What You Like",
+      "url": "https://open.spotify.com/track/0o92pLHQhjyP2FdieF7xqw"
     },
     {
       "album": {
@@ -3466,7 +3506,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 186623,
       "name": "Get High With You",
       "url": "https://open.spotify.com/track/3BLbMyKaxcKraFkIv1lY91"
@@ -4200,6 +4240,28 @@
       "duration_ms": 187086,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6x9z3M0LJ87EZ6AhvgPxL5"
+    },
+    {
+      "album": {
+        "name": "HOTS 4 U",
+        "url": "https://open.spotify.com/album/3zib9bQNuFbaBs1hsOAfY9"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "aMo (um)",
+          "url": "https://open.spotify.com/artist/4XVAZbKq64Z3Q0LPpCmoo0"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214269,
+      "name": "HOTS 4 U",
+      "url": "https://open.spotify.com/track/5nMrR3Ed99WcQ4Vv0wy8Bf"
     },
     {
       "album": {
@@ -5782,7 +5844,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 212327,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/1vEJxn8P40cRIcQKjDbjLG"
@@ -8837,6 +8899,32 @@
     },
     {
       "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/7ieJv1Atprqvc1UQb58j6l"
+      },
+      "artists": [
+        {
+          "name": "FLETCH",
+          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
+        },
+        {
+          "name": "Mason Collective",
+          "url": "https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS"
+        },
+        {
+          "name": "Ellie Allen",
+          "url": "https://open.spotify.com/artist/6j3YrJV3BXTaXl3Q152Mzq"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/1MGf9t1hGyC99eSLbHXFtY"
+    },
+    {
+      "album": {
         "name": "Sunday Shoutin' (TSHA Remix)",
         "url": "https://open.spotify.com/album/3rREI7NpOx1er6ElbQEiUC"
       },
@@ -9182,7 +9270,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 339663,
       "name": "Talking Nonsense",
       "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
@@ -10686,7 +10774,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 225000,
       "name": "Yes Bby",
       "url": "https://open.spotify.com/track/45qhj65d6tIlCp0x5l62OG"

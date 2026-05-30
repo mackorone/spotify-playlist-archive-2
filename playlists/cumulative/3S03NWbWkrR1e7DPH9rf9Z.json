@@ -4275,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/1Gw2vUSjEihUAU7TbRJ6xd"
+      },
+      "artists": [
+        {
+          "name": "Dyro",
+          "url": "https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176008,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5IVEBBkuAscVnEwfroexOZ"
+    },
+    {
+      "album": {
         "name": "The Motto (Ti\u00ebsto\u2019s VIP Mix)",
         "url": "https://open.spotify.com/album/7meBQmZlwafCUPOAXAaYOQ"
       },
@@ -5004,6 +5022,28 @@
       "duration_ms": 190153,
       "name": "We Don't Care - SaberZ Remix",
       "url": "https://open.spotify.com/track/0ZP7z0N7Fui5YWs6g1kHYF"
+    },
+    {
+      "album": {
+        "name": "We Will Stay Young",
+        "url": "https://open.spotify.com/album/2FHeRhhrOxiJdcF9VSxuqy"
+      },
+      "artists": [
+        {
+          "name": "Rene Rodrigezz",
+          "url": "https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO"
+        },
+        {
+          "name": "Tommic",
+          "url": "https://open.spotify.com/artist/6jzHADOzVu22oYfiNJ2Ewr"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "We Will Stay Young",
+      "url": "https://open.spotify.com/track/3Rs1aN33HRG6foIgM2TNjC"
     },
     {
       "album": {

@@ -7754,7 +7754,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 172765,
       "name": "Carrie Bradshaw",
       "url": "https://open.spotify.com/track/12njcAm61Bfni5axb4dEXs"
@@ -14972,7 +14972,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 236167,
       "name": "Flowers - Spotify Singles",
       "url": "https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD"
@@ -16720,7 +16720,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -17734,6 +17734,24 @@
       "duration_ms": 152508,
       "name": "Hate Myself",
       "url": "https://open.spotify.com/track/7DmTGp8xqD7TeuFKU7230f"
+    },
+    {
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "album": {
@@ -23732,7 +23750,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188106,
       "name": "Kingmaker (with Julia Michaels)",
       "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
@@ -25481,6 +25499,24 @@
     },
     {
       "album": {
+        "name": "stardust",
+        "url": "https://open.spotify.com/album/2tPMXmAmKZho6vhIv4vjVG"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203120,
+      "name": "london",
+      "url": "https://open.spotify.com/track/1d4qHRx9qXwWIW09AUiLIg"
+    },
+    {
+      "album": {
         "name": "Lonely Dancers",
         "url": "https://open.spotify.com/album/763Pp8jgi2eWEyQ9SGzODd"
       },
@@ -25690,7 +25726,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 192372,
       "name": "Loretta's Last Call",
       "url": "https://open.spotify.com/track/3bm0yuIdIcyh5XCTxa7Ee8"
@@ -26641,6 +26677,24 @@
     },
     {
       "album": {
+        "name": "Love\u2019s a Gun",
+        "url": "https://open.spotify.com/album/7tUhB6UQTg64z5xx34SdNy"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179932,
+      "name": "Love\u2019s a Gun",
+      "url": "https://open.spotify.com/track/7vqgKci5WfCnk0iUrNN9op"
+    },
+    {
+      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -26782,6 +26836,24 @@
       "duration_ms": 160809,
       "name": "luv starved",
       "url": "https://open.spotify.com/track/6FpU7rjYGiCScT8H7cEOpv"
+    },
+    {
+      "album": {
+        "name": "LYING",
+        "url": "https://open.spotify.com/album/6IJBkBvtSGgOrszxUF6deb"
+      },
+      "artists": [
+        {
+          "name": "Laila Mach",
+          "url": "https://open.spotify.com/artist/7e2OOYhl3Pss82Di6WEyTQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181956,
+      "name": "LYING",
+      "url": "https://open.spotify.com/track/4JZ1PaSjKlMGSRF2sUr2o1"
     },
     {
       "album": {
@@ -27034,7 +27106,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 137746,
       "name": "Make It Out",
       "url": "https://open.spotify.com/track/34G0wK7CbV3Wn96hgUrte1"
@@ -27244,6 +27316,24 @@
       "duration_ms": 151405,
       "name": "Man In Finance (G6 Trust Fund)",
       "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
+    },
+    {
+      "album": {
+        "name": "SE9",
+        "url": "https://open.spotify.com/album/3TWvfSehKDLRaHJS7z8cNk"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155004,
+      "name": "Man of the House",
+      "url": "https://open.spotify.com/track/4j3tybPIKiCmp1Zm2hLD9Z"
     },
     {
       "album": {
@@ -34228,7 +34318,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
@@ -38406,7 +38496,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -39959,6 +40049,24 @@
     },
     {
       "album": {
+        "name": "are you mad at me?",
+        "url": "https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176368,
+      "name": "STOP",
+      "url": "https://open.spotify.com/track/2487dSsY2qY7OZxbhSdqDp"
+    },
+    {
+      "album": {
         "name": "STORIES",
         "url": "https://open.spotify.com/album/0Un73xA0BUaLgmoorkouHQ"
       },
@@ -40260,6 +40368,24 @@
       "duration_ms": 214068,
       "name": "SUCKER 4 GREEN",
       "url": "https://open.spotify.com/track/4C7qGYJ9vMAzX95o2xTdhA"
+    },
+    {
+      "album": {
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170320,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
     },
     {
       "album": {
@@ -41260,6 +41386,24 @@
       "duration_ms": 168030,
       "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
       "url": "https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt"
+    },
+    {
+      "album": {
+        "name": "T Shirt",
+        "url": "https://open.spotify.com/album/041iig9kwc27HB2PBR2xc7"
+      },
+      "artists": [
+        {
+          "name": "Lola Leon",
+          "url": "https://open.spotify.com/artist/7pKmOKc49BWyfcbcFqBLBL"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "T Shirt",
+      "url": "https://open.spotify.com/track/54uCSh5xkFvWxXPIe6zgZp"
     },
     {
       "album": {
@@ -42766,7 +42910,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"

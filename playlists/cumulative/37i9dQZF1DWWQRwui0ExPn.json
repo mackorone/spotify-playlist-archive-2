@@ -13304,7 +13304,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 129729,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1VBs6tCL0u31DngeDQvREG"
@@ -31710,7 +31710,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 175814,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/1CjvMJLfD32MguI84cPCIS"
@@ -111707,6 +111707,28 @@
     },
     {
       "album": {
+        "name": "Seasides",
+        "url": "https://open.spotify.com/album/5uG0yctgGzQUfbrfdZrek6"
+      },
+      "artists": [
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        },
+        {
+          "name": "HoK\u00f8",
+          "url": "https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144742,
+      "name": "Seasides",
+      "url": "https://open.spotify.com/track/4c2mpOx581sVs13T9YUHUi"
+    },
+    {
+      "album": {
         "name": "Seasonal",
         "url": "https://open.spotify.com/album/19p8Fb1MkQkskoxzgnrGi0"
       },
@@ -146174,6 +146196,28 @@
       "duration_ms": 101538,
       "name": "White Lotus",
       "url": "https://open.spotify.com/track/4suksbwXJA8hVjudRncmnD"
+    },
+    {
+      "album": {
+        "name": "white moon",
+        "url": "https://open.spotify.com/album/0nnk8T1CCO4d42DtKkCLCT"
+      },
+      "artists": [
+        {
+          "name": "prins",
+          "url": "https://open.spotify.com/artist/7EFgazliYfBAB0KNLX0bYn"
+        },
+        {
+          "name": "Hakuuro",
+          "url": "https://open.spotify.com/artist/3VoFRrRqwrD1WPLiQVbr1K"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131379,
+      "name": "white moon",
+      "url": "https://open.spotify.com/track/1HWX198CDmSASxOmcy1kbD"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 585893,
+  "num_followers": 585951,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAACI8m3Uua3G+wxMXwU3GdPG",
+  "snapshot_id": "aheFgAAAAADA4vAzX+3K20/bavpgxuZw",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 213560,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/3GS8qG28p2RF6M7S5rFdx5"
+      "duration_ms": 227374,
+      "name": "Dream Girl Evil",
+      "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dance Fever",
-        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 227374,
-      "name": "Dream Girl Evil",
-      "url": "https://open.spotify.com/track/7GtOjSSp5Qyi3gNbNDZgja"
+      "duration_ms": 213560,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/3GS8qG28p2RF6M7S5rFdx5"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High As Hope",
-        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 149120,
-      "name": "No Choir",
-      "url": "https://open.spotify.com/track/47a7Hn4fFE4mHgVJF19CO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lungs (Deluxe Version)",
         "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 223826,
       "name": "Drumming Song",
       "url": "https://open.spotify.com/track/6hIaLSND7Fo2Kd8NPVoyjg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High As Hope",
+        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 149120,
+      "name": "No Choir",
+      "url": "https://open.spotify.com/track/47a7Hn4fFE4mHgVJF19CO1"
     },
     {
       "added_at": null,

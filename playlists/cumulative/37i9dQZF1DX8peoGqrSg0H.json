@@ -2535,6 +2535,24 @@
     },
     {
       "album": {
+        "name": "Lonely Girl",
+        "url": "https://open.spotify.com/album/2xQKi4isf3nTbo7Rygl1f1"
+      },
+      "artists": [
+        {
+          "name": "CLO'VER",
+          "url": "https://open.spotify.com/artist/6KINo3699mlyhzNc89bE7t"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211456,
+      "name": "Lonely Girl",
+      "url": "https://open.spotify.com/track/1W5yFzv4CM9tCBnQaor9qS"
+    },
+    {
+      "album": {
         "name": "Long Run",
         "url": "https://open.spotify.com/album/55vik9rFq6FwoSIgqM8179"
       },
@@ -2564,7 +2582,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 201950,
       "name": "Love Feels So Fast",
       "url": "https://open.spotify.com/track/74bbA8Uq9Chdce7bzUXH4o"
@@ -5033,6 +5051,24 @@
     },
     {
       "album": {
+        "name": "WORKING U",
+        "url": "https://open.spotify.com/album/3X9cUM6acTLCEmSzPkgcU4"
+      },
+      "artists": [
+        {
+          "name": "MicMac",
+          "url": "https://open.spotify.com/artist/5piMoefWkj2eUzSf8YZ1li"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "WORKING U",
+      "url": "https://open.spotify.com/track/3dptvNUnmOKJfg4wbnSV08"
+    },
+    {
+      "album": {
         "name": "Space Shuttle No.8",
         "url": "https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y"
       },
@@ -7116,7 +7152,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 200076,
       "name": "\u0e09\u0e31\u0e19\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e08\u0e2d\u0e40\u0e18\u0e2d (Lost and Found)",
       "url": "https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz"

@@ -4,7 +4,7 @@
 
 > Level up your gaming with these afro tracks\. Cover: Asake
 
-221 songs - 11 hr 22 min
+222 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [History](https://open.spotify.com/track/1AmZv5A8BLYuXnG5ujFZ8g) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 2:54 | 2024-10-21 | 2025-03-15 |
 | [HOW FAR](https://open.spotify.com/track/27y6VtO5N6QHPVrVLy9Gur) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4), [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2) | [HOW FAR / SHIMA II](https://open.spotify.com/album/0g4PK75NaCaL7d8VDH889o) | 2:43 | 2026-01-30 |  |
 | [I Don't Like You](https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [I Don’t Like You](https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t) | 2:31 | 2024-10-21 | 2025-02-28 |
+| [I knoww](https://open.spotify.com/track/04tEKZxYzpYbPfIA0fJlOF) | [EF Moon](https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9), [Star Jay](https://open.spotify.com/artist/1fuHb5TQ1r9wqAPx4jgx8D) | [I knoww](https://open.spotify.com/album/7fXaUu3blBnTT1VPi6OhLq) | 1:22 | 2026-05-29 |  |
 | [Ikeja \(No Go Thief\)](https://open.spotify.com/track/3jGo2PclXcXXnjNvqi7n3W) | [Danpapa GTA](https://open.spotify.com/artist/3EC3itx7VHQg0KYhuPsp5O) | [Ikeja \(No Go Thief\)](https://open.spotify.com/album/4nvJFVS6xcALAfMNzYm8XF) | 1:56 | 2026-01-14 | 2026-03-17 |
 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 | 2024-10-21 | 2026-03-17 |
 | [Instantly](https://open.spotify.com/track/0z8XRsI1lc1Fz6FjRVo8Fm) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Instantly](https://open.spotify.com/album/5cDnEzSuOcycPxq1q1GtTh) | 3:08 | 2024-10-21 | 2025-03-15 |
@@ -173,7 +174,7 @@
 | [Osama](https://open.spotify.com/track/0T0FIfA0AI3ELwNVBSZNS3) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Ghetto King](https://open.spotify.com/album/3q8v4F3zabaHlG5IVECT6r) | 6:49 | 2024-10-21 | 2025-03-15 |
 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 | 2026-01-30 | 2026-03-17 |
 | [OZEBA](https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:17 | 2024-10-21 | 2026-03-17 |
-| [PAIN III](https://open.spotify.com/track/7Drz9kZcuph4h7CXsBJkQt) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:47 | 2026-05-25 |  |
+| [PAIN III](https://open.spotify.com/track/7Drz9kZcuph4h7CXsBJkQt) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Saint Edrah](https://open.spotify.com/artist/2kbp8NOIpu2kWcYvzj54qG) | [CAME OF AGE](https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID) | 2:47 | 2026-05-25 |  |
 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 | 2024-10-21 | 2025-03-15 |
 | [Paparazzi](https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Paparazzi](https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX) | 2:27 | 2026-01-14 |  |
 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 | 2025-08-26 |  |

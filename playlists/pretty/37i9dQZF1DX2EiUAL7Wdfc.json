@@ -1,6 +1,6 @@
 {
   "description": "Los temas que se convertir\u00e1n en himnos.",
-  "num_followers": 602711,
+  "num_followers": 602838,
   "original_name": "m\u00edticas",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2026-04-27 15:19:34",
       "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 233826,
+      "name": "El Farsante",
+      "url": "https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"
+    },
+    {
+      "added_at": "2026-04-27 15:19:34",
+      "album": {
         "name": "Motivan2",
         "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 209453,
       "name": "Otra Vez (feat. J Balvin)",
       "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
-    },
-    {
-      "added_at": "2026-04-27 15:19:34",
-      "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 233826,
-      "name": "El Farsante",
-      "url": "https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"
     },
     {
       "added_at": "2026-04-27 15:19:34",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-04-27 15:19:34",
       "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2026-04-27 15:19:34",
+      "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 265746,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
-    },
-    {
-      "added_at": "2026-04-27 15:19:34",
-      "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2026-04-27 15:19:34",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-04-27 15:19:34",
       "album": {
-        "name": "Energ\u00eda",
-        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Ginza",
-      "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
-    },
-    {
-      "added_at": "2026-04-27 15:19:34",
-      "album": {
         "name": "EL \u00daLTIMO BAILE",
         "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
+    },
+    {
+      "added_at": "2026-04-27 15:19:34",
+      "album": {
+        "name": "Energ\u00eda",
+        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Ginza",
+      "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
     },
     {
       "added_at": "2026-04-27 15:19:34",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2026-04-27 15:19:34",
       "album": {
+        "name": "VIDA",
+        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "\u00c9chame La Culpa",
+      "url": "https://open.spotify.com/track/0mlAOSILGRys2IbvyOT5VJ"
+    },
+    {
+      "added_at": "2026-04-27 15:19:34",
+      "album": {
         "name": "Andas En Mi Cabeza",
         "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 266086,
       "name": "Soltera (Remix)",
       "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
-    },
-    {
-      "added_at": "2026-04-27 15:19:34",
-      "album": {
-        "name": "VIDA",
-        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "\u00c9chame La Culpa",
-      "url": "https://open.spotify.com/track/0mlAOSILGRys2IbvyOT5VJ"
     },
     {
       "added_at": "2026-04-27 15:19:34",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-04-27 15:19:34",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
-    },
-    {
-      "added_at": "2026-04-27 15:19:34",
-      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
+    },
+    {
+      "added_at": "2026-04-27 15:19:34",
+      "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
     },
     {
       "added_at": "2026-04-27 15:19:34",

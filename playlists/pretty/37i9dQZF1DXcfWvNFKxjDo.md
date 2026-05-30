@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Bebe Rexha, David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,076 likes - 84 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,228 likes - 84 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 24 | [What If?](https://open.spotify.com/track/3780gnH5pMc8RXnectbTx6) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [What If?](https://open.spotify.com/album/6N7yoTjgnuwdWTuScsY9eH) | 2:45 |
 | 25 | [Girl](https://open.spotify.com/track/6ASmcWqTjvZROxoj97zzdo) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Girl](https://open.spotify.com/album/4zb6suQsfAk4sIvcykjJlT) | 3:13 |
 | 26 | [Secret Code](https://open.spotify.com/track/6BT11kNkDN7SspJGrTSqPw) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Secret Code](https://open.spotify.com/album/71qngQJqtToyP4uXitdbui) | 2:10 |
-| 27 | [Can You Be Mine](https://open.spotify.com/track/4cLzPpk2OsBSGB6Gj1fJBX) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Justin Blau](https://open.spotify.com/artist/3FuyWvCgY1bKY1shySrVNz) | [Can You Be Mine](https://open.spotify.com/album/3wubGME5AKWj1s1lZGlrCA) | 2:29 |
+| 27 | [Can You Be Mine](https://open.spotify.com/track/4cLzPpk2OsBSGB6Gj1fJBX) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Justin Blau](https://open.spotify.com/artist/3FuyWvCgY1bKY1shySrVNz), [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Can You Be Mine](https://open.spotify.com/album/3wubGME5AKWj1s1lZGlrCA) | 2:29 |
 | 28 | [Party Life](https://open.spotify.com/track/5AbZb52BgYXGZFeTe6Bnoj) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb) | [Party Life](https://open.spotify.com/album/2oPzmsYB7pLMYJWWuglhjG) | 1:56 |
 | 29 | [I look sh!t \(and i‘m fine with it\)](https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [I look sh!t \(and i‘m fine with it\)](https://open.spotify.com/album/1ilK1JaxDsGVD3oHnOUxdg) | 2:23 |
 | 30 | [El Clarinet](https://open.spotify.com/track/4XeMXzqxBaSNoyxyp4ERrw) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [John Dice](https://open.spotify.com/artist/4Ozib6bNvbtzKx2Qhm41Va) | [El Clarinet](https://open.spotify.com/album/6DT28DFiImjnePIeYXReci) | 2:47 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 72 | [Best Time Of My Life](https://open.spotify.com/track/7eKh02sR92EFJrYtzM6aoY) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg) | [Best Time Of My Life](https://open.spotify.com/album/11rK1N1W32O8EHPXxWre56) | 2:28 |
 | 73 | [You're The Only Place I Need](https://open.spotify.com/track/1OQxmFgOCr3BJz63og1FQR) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [You're The Only Place I Need](https://open.spotify.com/album/2AufrKuNyeYsR2vIK458NU) | 2:40 |
 | 74 | [Streiten](https://open.spotify.com/track/3OlL2uUljslFoxinfslpb4) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [ichbinsonny](https://open.spotify.com/artist/0f8bIMnby7pCg3kkDE24kK), [AHM](https://open.spotify.com/artist/4GIxVHRG8N5puZrn8cyNpY) | [Streiten](https://open.spotify.com/album/7LSm3cr9bMIOHM8ofc3iAP) | 2:49 |
-| 75 | [Track 2](https://open.spotify.com/track/4clNHcI6J6MYlBM0ttSFGW) | [Freddi](https://open.spotify.com/artist/4Zd4UkFH4ixGwkoC2rwigR) | [Insula EP](https://open.spotify.com/album/1NWZRfPcwZ2RYs8kOdExoN) | 0:00 |
+| 75 | [Soma \- Radio Edit](https://open.spotify.com/track/4clNHcI6J6MYlBM0ttSFGW) | [Freddi](https://open.spotify.com/artist/4Zd4UkFH4ixGwkoC2rwigR), [NewTone](https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH) | [Insula EP](https://open.spotify.com/album/1NWZRfPcwZ2RYs8kOdExoN) | 3:21 |
 | 76 | [All That She Wants \- UNLOGIX Remix](https://open.spotify.com/track/2buEFJGlKFfeOJ96iaGZmy) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm), [UNLOGIX](https://open.spotify.com/artist/6gvwjHloVL1HfXy12NuGYe) | [All That She Wants \(UNLOGIX Remix\)](https://open.spotify.com/album/1eSkbpHaavvItymuGn4DBJ) | 3:20 |
 | 77 | [Tik Tak](https://open.spotify.com/track/1EcleequgzPMvN9EvA9R0j) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Tik Tak](https://open.spotify.com/album/2J9Wc6PSQf4TgfQS6PbKA9) | 2:26 |
 | 78 | [No Feelings on the Floor](https://open.spotify.com/track/0DXSl79HyvEf4h7HXHaLCO) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75), [Megan Ashworth](https://open.spotify.com/artist/5VWrCbjYaF07x1vTwYJr0S) | [No Feelings on the Floor](https://open.spotify.com/album/18X3gCDJmGtoarQmqeuJXG) | 2:37 |

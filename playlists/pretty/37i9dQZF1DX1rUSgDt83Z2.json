@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 46412,
+  "num_followers": 46419,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-05-14 22:01:11",
       "album": {
-        "name": "We Leven Nu",
-        "url": "https://open.spotify.com/album/5C3EV0dEs7nycg5r0zTxhS"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        }
-      ],
-      "duration_ms": 190910,
-      "name": "We Leven Nu",
-      "url": "https://open.spotify.com/track/6iwZINFNsfDcfKZFarAsTn"
-    },
-    {
-      "added_at": "2026-05-14 22:01:11",
-      "album": {
         "name": "Nergens Liever",
         "url": "https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 195694,
       "name": "Nergens Liever",
       "url": "https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH"
+    },
+    {
+      "added_at": "2026-05-14 22:01:11",
+      "album": {
+        "name": "We Leven Nu",
+        "url": "https://open.spotify.com/album/5C3EV0dEs7nycg5r0zTxhS"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 190910,
+      "name": "We Leven Nu",
+      "url": "https://open.spotify.com/track/6iwZINFNsfDcfKZFarAsTn"
     },
     {
       "added_at": "2026-05-14 22:01:11",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-05-14 22:01:11",
       "album": {
-        "name": "Ik neem jou mee",
-        "url": "https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18"
-      },
-      "artists": [
-        {
-          "name": "Leonie Meijer",
-          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
-        }
-      ],
-      "duration_ms": 169456,
-      "name": "Ik neem jou mee",
-      "url": "https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG"
-    },
-    {
-      "added_at": "2026-05-14 22:01:11",
-      "album": {
         "name": "Met de tijd",
         "url": "https://open.spotify.com/album/4LshNNq3ZIxCkzKDkjukyW"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 211140,
       "name": "Met de tijd",
       "url": "https://open.spotify.com/track/5EHMrjRk0K07KSlz93XPNA"
+    },
+    {
+      "added_at": "2026-05-14 22:01:11",
+      "album": {
+        "name": "Ik neem jou mee",
+        "url": "https://open.spotify.com/album/5IRN8OAVrY8gm2vjhCpp18"
+      },
+      "artists": [
+        {
+          "name": "Leonie Meijer",
+          "url": "https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve"
+        }
+      ],
+      "duration_ms": 169456,
+      "name": "Ik neem jou mee",
+      "url": "https://open.spotify.com/track/1NEawk3FwC4DAte737OmtG"
     },
     {
       "added_at": "2026-05-14 22:01:11",

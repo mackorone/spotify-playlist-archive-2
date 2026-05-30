@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > this should have been her espresso<br/><br/>See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,667 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,690 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 7 | [Nothing Breaks Like a Heart \(feat\. Miley Cyrus\)](https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 3:37 |
 | 8 | [Harleys In Hawaii](https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:05 |
 | 9 | [Breathless](https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [In Blue](https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY) | 3:27 |
-| 10 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:49 |
+| 10 | [U + Ur Hand](https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [I'm Not Dead](https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq) | 3:34 |
 | 11 | [Alejandro](https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:34 |
-| 12 | [U + Ur Hand](https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [I'm Not Dead](https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq) | 3:34 |
+| 12 | [Prisoner \(feat\. Dua Lipa\)](https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:49 |
 | 13 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 |
 | 14 | [Moi..\. Lolita](https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8) | [Alizée](https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4) | [Gourmandises](https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy) | 4:24 |
 | 15 | [I Wanna Go](https://open.spotify.com/track/5cCAZS9VhLGEDV4NCfieeg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:30 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 88 | [American Girl](https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [American Girl](https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb) | 3:44 |
 | 89 | [Ooh Aah..\. Just A Little Bit \- Eurovision Version](https://open.spotify.com/track/5KsGeqTJgJMAWuyTZ5WmMn) | [Gina G](https://open.spotify.com/artist/25tu0d8Po5c4IVXsZnXUU8) | [Ooh Aah...Just a Little Bit \(Eurovision Version\)](https://open.spotify.com/album/4k2cMbg4lC05pS47zHnwc1) | 3:02 |
 | 90 | [Tonight \(feat\. Ne\-Yo\)](https://open.spotify.com/track/5AuJPRJ5vQPYrCAry4yEBK) | [Jessica Sanchez](https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Me, You & The Music](https://open.spotify.com/album/5dpVhlbI7CTt58ZCULC2SP) | 3:58 |
-| 91 | [Hair Body Face](https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:22 |
-| 92 | [Greatest Hits Megamix](https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5), [The Alias](https://open.spotify.com/artist/78WijkLKBV4F1vRUZepBSp) | [What Are You Waiting For?](https://open.spotify.com/album/3MS1gNAz5pde4zfLKlALc3) | 7:41 |
+| 91 | [Greatest Hits Megamix](https://open.spotify.com/track/0IPjb3rhdyrcoUdJUsAgR3) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5), [The Alias](https://open.spotify.com/artist/78WijkLKBV4F1vRUZepBSp) | [What Are You Waiting For?](https://open.spotify.com/album/3MS1gNAz5pde4zfLKlALc3) | 7:41 |
+| 92 | [Hair Body Face](https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:22 |
 | 93 | [Let Go for Tonight](https://open.spotify.com/track/59lq75uFIqzUZcgZ4CbqFG) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Glorious \(Deluxe\)](https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru) | 3:58 |
 | 94 | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:56 |
 | 95 | [Physical](https://open.spotify.com/track/44fXOB2eBG8uaQJGwh26Bk) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Physical](https://open.spotify.com/album/2U2oPaAXBB5oD0SW97HBo6) | 3:13 |

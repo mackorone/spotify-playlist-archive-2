@@ -1,6 +1,6 @@
 {
   "description": "The unforgettable romantic Jazz songs.",
-  "num_followers": 336649,
+  "num_followers": 336668,
   "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 191960,
+      "name": "This Is Always",
+      "url": "https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1"
+    },
+    {
+      "added_at": "2026-02-09 08:07:44",
+      "album": {
         "name": "Billie Holiday With Ray Ellis And His Orchestra",
         "url": "https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 170546,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/0UuRIovHyU6KeTzY4gS0L2"
-    },
-    {
-      "added_at": "2026-02-09 08:07:44",
-      "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 191960,
-      "name": "This Is Always",
-      "url": "https://open.spotify.com/track/6Kr25pa3pTd4no3yA0EcW1"
     },
     {
       "added_at": "2026-02-09 08:07:44",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-02-09 08:07:44",
       "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
-    },
-    {
-      "added_at": "2026-02-09 08:07:44",
-      "album": {
         "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
         "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 142520,
       "name": "You Do Something To Me",
       "url": "https://open.spotify.com/track/7lZagRCKskAjzZ40Kdx4bB"
+    },
+    {
+      "added_at": "2026-02-09 08:07:44",
+      "album": {
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
+      },
+      "artists": [
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/08RnPHoZRQr6BuD92JRvkk"
     },
     {
       "added_at": "2026-02-09 08:07:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: Lijadu Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,139 likes - 40 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,170 likes - 40 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 25 | [Tire Ni Oluwa](https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 |
 | 26 | [Juliana](https://open.spotify.com/track/7II6pBzmOKIwTWZA6EhHjH) | [Tony Okoroji](https://open.spotify.com/artist/3JFUA6La6HVGT8bYYsmucd) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 8:55 |
 | 27 | [I Need Someone](https://open.spotify.com/track/43nHMCR6U4gw8sC4Q6JtK0) | [Kris Okotie](https://open.spotify.com/artist/4XL2xwc93NNmU6YNa01WXa) | [I Need Someone](https://open.spotify.com/album/0TyyuXl68qBn3vm8JJheSR) | 4:31 |
-| 28 | [Maajo](https://open.spotify.com/track/6S8BapmclM4NWh19SciQOj) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Synchro System](https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I) | 3:26 |
-| 29 | [Wings Of A Dove](https://open.spotify.com/track/6pOE4vLnWvzdR6AJ4Gl2Nk) | [Yvonne Maha](https://open.spotify.com/artist/0OH5u9avSdfzxhk1TJAVD8) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 3:41 |
+| 28 | [Wings Of A Dove](https://open.spotify.com/track/6pOE4vLnWvzdR6AJ4Gl2Nk) | [Yvonne Maha](https://open.spotify.com/artist/0OH5u9avSdfzxhk1TJAVD8) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 3:41 |
+| 29 | [Maajo](https://open.spotify.com/track/6S8BapmclM4NWh19SciQOj) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Synchro System](https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I) | 3:26 |
 | 30 | [In Your Eyes](https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Fatteliku \(Live in Athens 1987\)](https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv) | 10:43 |
 | 31 | [Pata Pata](https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r) | 3:02 |
 | 32 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 |

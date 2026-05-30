@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-327 songs - 1 day 20 hr 26 min
+327 songs - 1 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Igama Lakho \- Live At Carnival City / 2024](https://open.spotify.com/track/3Q8ul10d4bUgCZc4MytcRT) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live / Deluxe\)](https://open.spotify.com/album/0eCphxZCFCyS6yOpEKM9OS) | 5:25 | 2025-07-25 | 2025-08-15 |
 | [In the Name of Jesus \- Live](https://open.spotify.com/track/4p4Ihu04d4ox6JCEBKVExr) | [E\-Daniels](https://open.spotify.com/artist/03upCtYnA658rlthncydHW), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL) | [In the Name of Jesus \(Live\)](https://open.spotify.com/album/1XnLOLfGQSwfuexXCzPdzf) | 7:06 | 2026-03-06 | 2026-05-01 |
 | [Intentional \- Live](https://open.spotify.com/track/0xMuFvwxOuOudRAwdtfmZR) | [Same OG](https://open.spotify.com/artist/76h9OBfmrRBZI5R4PA3r6i), [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [Intentional \(Live\)](https://open.spotify.com/album/6yMLEDdygjKKaJjJMOjzTb) | 5:32 | 2025-11-07 | 2026-01-15 |
+| [Inu ndi Ine \- Live](https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr) | [Paul Kachala](https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM), [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Mwayenera \- The Live Album](https://open.spotify.com/album/4CguM9gNqGCX0pvY5ioAcZ) | 9:24 | 2026-05-29 |  |
 | [Iwo Lalagbara \- Live](https://open.spotify.com/track/3mI0K9lZyrq0v0OgG91ZVB) | [Seun Laoye](https://open.spotify.com/artist/1fQRwIigtssmXGPKBuQvJu) | [Iwo Lalagbara \(Live\)](https://open.spotify.com/album/5WdY8B71pH9TVWfN2Amu2s) | 7:41 | 2025-03-28 | 2025-04-25 |
 | [Izulu](https://open.spotify.com/track/0FwBYg7Ci059wnjpQJeC6c) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Izulu](https://open.spotify.com/album/5fDaamO9Qaskd63LAMbiu0) | 5:05 | 2024-02-23 | 2024-12-20 |
 | [Izurukeme \- Live](https://open.spotify.com/track/5K0wzd1xT77UkkTHHEtrxt) | [Grace Akakam](https://open.spotify.com/artist/6RxBaERGqQUh8s7IW6ebDV), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Izurukeme \(Live\)](https://open.spotify.com/album/7jl1P747R49lZOXW9nfFsO) | 5:38 | 2025-02-28 | 2025-04-04 |
@@ -283,7 +284,6 @@
 | [This Is Kingdom Come \(Elohim Adonai\) \- Live](https://open.spotify.com/track/20knkm8oYfnUisdTkIjHSQ) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [This Is Kingdom Come \(Elohim Adonai\) \[Live\]](https://open.spotify.com/album/34drgnu2kuFnIrtY6VOAuB) | 5:09 | 2025-04-04 |  |
 | [This Kind God Alujo \- Live](https://open.spotify.com/track/02dKUrS82pTtmcPaASGngT) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [David Kida](https://open.spotify.com/artist/50cYD84szsuxLcCjTfTDZ7), [Ola Samuel](https://open.spotify.com/artist/0SrrbuWNAn0xj5SIk8TwTm) | [This Kind God Alujo \(Live\)](https://open.spotify.com/album/5Al2abdve5LM6NGstofKB1) | 4:04 | 2024-04-26 |  |
 | [Tobechukwu \- Live](https://open.spotify.com/track/79zFqU5mmz9wnuKfjaiPJp) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [HALLELUJAH LIVE](https://open.spotify.com/album/5xe3knii9RbZzikwkiIqBY) | 8:08 | 2024-02-23 |  |
-| [Track 15](https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr) | [Paul Kachala](https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM) | [Mwayenera \- The Live Album](https://open.spotify.com/album/4CguM9gNqGCX0pvY5ioAcZ) | 0:00 | 2026-05-29 |  |
 | [Ubonakalise \- Live at State Theatre Pretoria](https://open.spotify.com/track/49YNFxhVD9AcUSQbXSAPC6) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe) | [Heart Of Worship Vol\. 2](https://open.spotify.com/album/78bKt7eOSzSbXlotysuYEw) | 9:43 | 2026-03-06 |  |
 | [Ukuphila \- Live](https://open.spotify.com/track/5Fft3xcH817tgZtd6IKUQp) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Worship In Newness \(Live\)](https://open.spotify.com/album/2KGge9CX8aegzYEq3X8f02) | 6:25 | 2025-03-28 | 2026-05-01 |
 | [Unexplainable \(Live\)](https://open.spotify.com/track/4CEiffL07Bv7id508nhVIU) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0), [Purist Ogboi](https://open.spotify.com/artist/4XDbxHH7eeR8BTf0OnkMvE) | [Unexplainable \(Live\)](https://open.spotify.com/album/20Z4Vmw0Uws9hCRJIw1xWg) | 4:56 | 2025-04-25 | 2025-10-24 |

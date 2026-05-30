@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > 🌺🌺🌺
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,530 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,532 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 49 | [Свідомість](https://open.spotify.com/track/20jsajSXoBYHXY1wAgE79k) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Свідомість](https://open.spotify.com/album/1aVoH8UWRQVrF1laF8UQpl) | 2:37 |
 | 50 | [вальс під вибухи](https://open.spotify.com/track/6ZvDRsoF2zharptwEoZZVM) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [вальс під вибухи](https://open.spotify.com/album/2uxoj7vfms9GUFolkl3FFw) | 3:30 |
 | 51 | [Фурія](https://open.spotify.com/track/3v1XYRl73UBCTJUZX9lzNd) | [BRYANGIN](https://open.spotify.com/artist/77naAAukVgb5Vy4V6bjRy8) | [Фурія](https://open.spotify.com/album/7aoCba2Hesr4NvXSeIbNyR) | 3:08 |
-| 52 | [Feel it Still](https://open.spotify.com/track/2iW6xpM6ift3Ro3CCNbbrM) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD), [Red Band](https://open.spotify.com/artist/1Ba4dhPqLWmwj3Fwf9oWDs) | [Feel it Still](https://open.spotify.com/album/5FqEr3NhzGUOv7tmKyHmpD) | 2:54 |
-| 53 | [Тихо тихо](https://open.spotify.com/track/0oLYBXATXB2eLkJA24A0nr) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [ГУРМА](https://open.spotify.com/album/7oHTphOuMNRNykMvbk9GIC) | 2:21 |
-| 54 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 |
+| 52 | [я є рана / я є ніж](https://open.spotify.com/track/0RlHrI103DK2g6oI7YzE5O) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [я є рана / я є ніж](https://open.spotify.com/album/1Xu46wHIEnQ86soI44DtmG) | 3:05 |
+| 53 | [Feel it Still](https://open.spotify.com/track/2iW6xpM6ift3Ro3CCNbbrM) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD), [Red Band](https://open.spotify.com/artist/1Ba4dhPqLWmwj3Fwf9oWDs) | [Feel it Still](https://open.spotify.com/album/5FqEr3NhzGUOv7tmKyHmpD) | 2:54 |
+| 54 | [Тихо тихо](https://open.spotify.com/track/0oLYBXATXB2eLkJA24A0nr) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [ГУРМА](https://open.spotify.com/album/7oHTphOuMNRNykMvbk9GIC) | 2:21 |
 | 55 | [Спірічуал](https://open.spotify.com/track/2oTMeZP9JBsDBL0SKnjWcA) | [Blooms Corda](https://open.spotify.com/artist/3mlUhGSEvqMhUNu7uWB9hA) | [Найдорожчі речі у світі](https://open.spotify.com/album/5ghlX8TOnOWY6vf8OQlZGF) | 4:15 |
 | 56 | [Так люблять лиш раз](https://open.spotify.com/track/2rwEbC0qA6VYrADOuiSh7N) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Так люблять лиш раз](https://open.spotify.com/album/6om0I6dHkp1ZtVDRAPpeF8) | 3:43 |
 | 57 | [Станемо тишею](https://open.spotify.com/track/2FnTCTmdUdOt3PlWDThCQs) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [Станемо тишею](https://open.spotify.com/album/3EajDdMOQJCs2j2m6fKIPG) | 3:09 |
 | 58 | [Лину](https://open.spotify.com/track/2SyrQZYHL1Q3yZbVX5UVKc) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Музичний щоденник\. Частина №1](https://open.spotify.com/album/0ClFr44iWLQp8zCilHSJaM) | 1:52 |
-| 59 | [Can You Believe](https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Can You Believe](https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG) | 3:55 |
-| 60 | [ДИМ \- Acoustic](https://open.spotify.com/track/1I38Y9qVi1xENY953nqyce) | [БЕЗ ОБМЕЖЕНЬ](https://open.spotify.com/artist/6jc6H0uwSfRE3Tnd4628cL) | [ДИМ \(Acoustic\)](https://open.spotify.com/album/2hMAXpE73vrbJyyWSsX9es) | 3:41 |
+| 59 | [ДИМ \- Acoustic](https://open.spotify.com/track/1I38Y9qVi1xENY953nqyce) | [БЕЗ ОБМЕЖЕНЬ](https://open.spotify.com/artist/6jc6H0uwSfRE3Tnd4628cL) | [ДИМ \(Acoustic\)](https://open.spotify.com/album/2hMAXpE73vrbJyyWSsX9es) | 3:41 |
+| 60 | [Can You Believe](https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Can You Believe](https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG) | 3:55 |
 
 Snapshot ID: `AAAAAGOpioEj28CKIPYKhXyvsUFzMiow`

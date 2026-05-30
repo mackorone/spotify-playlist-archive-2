@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,314 likes - 41 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,331 likes - 41 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 40 | [Ahla Sodfa](https://open.spotify.com/track/44A75paDvIWjO0vu2IlukE) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Ahla Sodfa](https://open.spotify.com/album/5Whxsm6Gg1VMp0pJxmmbwQ) | 3:38 |
 | 41 | [Jabal Chamekh](https://open.spotify.com/track/699UW50gxSh976xtnckNmg) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Jabal Chamekh](https://open.spotify.com/album/2tV4KxbwXFXBjkyTjqzApR) | 3:45 |
 
-Snapshot ID: `AAAAAL1QStdKEFaQSMJji2ptV0OxKK4J`
+Snapshot ID: `AAAAAIsUmW6dvi22a0Ly0xkq7z9N9ErR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 
 > A  blend of J\-pop to soundtrack your perfect matcha moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,667 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,737 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 | 57 | [チェリー](https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [インディゴ地平線](https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N) | 4:19 |
 | 58 | [ダーリン](https://open.spotify.com/track/62x4EMPyCFF2Ohv7qDjalp) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダーリン](https://open.spotify.com/album/0lohqaCPMY89Sh4tDLby9u) | 4:40 |
 | 59 | [悲しみがとまらない　I CAN'T STOP THE LONELINESS](https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:23 |
-| 60 | [ハレンチ](https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 3:18 |
-| 61 | [白日](https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [CEREMONY](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) | 4:36 |
+| 60 | [白日](https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [CEREMONY](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) | 4:36 |
+| 61 | [ハレンチ](https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 3:18 |
 | 62 | [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 |
 | 63 | [ブルーベリー・ナイツ](https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:04 |
-| 64 | [薄ら氷心中](https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:12 |
-| 65 | [4:00A.M.](https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [MIGNONNE \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6) | 5:36 |
-| 66 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
+| 64 | [4:00A.M.](https://open.spotify.com/track/0zoGVO4bQXG8U6ChKwNgeg) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [MIGNONNE \(Mastered by Bernie Grundman\)](https://open.spotify.com/album/0Y4RPWAZZui6gUL1kwgND6) | 5:36 |
+| 65 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
+| 66 | [薄ら氷心中](https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [逆輸入 〜航空局〜](https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj) | 3:12 |
 | 67 | [ロビンソン](https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ハチミツ](https://open.spotify.com/album/4mz1WjnsW88FxFfvtrfIAd) | 4:20 |
 | 68 | [BOW AND ARROW](https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOW AND ARROW](https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh) | 2:55 |
 | 69 | [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx7CN2A7v6K.md) - [plain]
 | 90 | [ひまわりの約束](https://open.spotify.com/track/45jGOHwYKgsRYbAJ8DR61d) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [青の光景](https://open.spotify.com/album/35HzEGeHwTNMiZIVXCOlPc) | 5:08 |
 | 91 | [美しい鰭](https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ひみつスタジオ](https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY) | 3:31 |
 | 92 | [ドライフラワー](https://open.spotify.com/track/7dH0dpi751EoguDDg3xx6J) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [ドライフラワー](https://open.spotify.com/album/69BzgmDXpLIPQI4tUGuLZM) | 4:45 |
-| 93 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 |
-| 94 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 |
+| 93 | [最高到達点](https://open.spotify.com/track/2hXPmiqKdXcbV0L1VKnTDN) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [最高到達点](https://open.spotify.com/album/54eJTwRSmx7ihWiIYM4ssN) | 3:47 |
+| 94 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 |
 | 95 | [breakfast](https://open.spotify.com/track/7BPgsEG645OAnpetcBbLrZ) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [breakfast](https://open.spotify.com/album/09JHBF2CtK8UUhcvot8ZGX) | 3:48 |
 | 96 | [STAY TUNE](https://open.spotify.com/track/1KKc8f9ZiKFzOeRJJ3SYn7) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [THE KIDS](https://open.spotify.com/album/26wEPQqOBau2opcpN4e3aF) | 4:58 |
 | 97 | [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 |
-| 98 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 |
-| 99 | [CHE.R.RY](https://open.spotify.com/track/6PBBGlTEVfUyfnmemrnhbp) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [CAN'T BUY MY LOVE](https://open.spotify.com/album/1TCG8A2sec3PlbTeB5qrWd) | 3:29 |
-| 100 | [夏夜のマジック](https://open.spotify.com/track/144pIQC3mpmUkZXMt8fIwb) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [藍色ミュージック](https://open.spotify.com/album/7xcwmNnb4URBJMKgyfaTkU) | 5:05 |
+| 98 | [夏夜のマジック](https://open.spotify.com/track/144pIQC3mpmUkZXMt8fIwb) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [藍色ミュージック](https://open.spotify.com/album/7xcwmNnb4URBJMKgyfaTkU) | 5:05 |
+| 99 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 |
+| 100 | [CHE.R.RY](https://open.spotify.com/track/6PBBGlTEVfUyfnmemrnhbp) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [CAN'T BUY MY LOVE](https://open.spotify.com/album/1TCG8A2sec3PlbTeB5qrWd) | 3:29 |
 
 Snapshot ID: `AAAAALMC8op0hlqiFLOrI887bsn5ClIx`

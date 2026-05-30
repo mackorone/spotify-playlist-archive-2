@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Lagum",
-  "num_followers": 361635,
+  "num_followers": 361614,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -407,18 +407,18 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
-        "name": "Tudo Pelo Show",
-        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
+        "name": "Quando me ver passar",
+        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
       },
       "artists": [
         {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         }
       ],
-      "duration_ms": 152232,
-      "name": "Os Mo\u00e7os da R\u00e1dio",
-      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
+      "duration_ms": 134753,
+      "name": "Quando me ver passar",
+      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -439,34 +439,18 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
-        "name": "Quando me ver passar",
-        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
+        "name": "Tudo Pelo Show",
+        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
         }
       ],
-      "duration_ms": 134753,
-      "name": "Quando me ver passar",
-      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "Ver\u00e3071",
-        "url": "https://open.spotify.com/album/0WfQIGIOB918uCFAlxlqCG"
-      },
-      "artists": [
-        {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
-        }
-      ],
-      "duration_ms": 170588,
-      "name": "Sentir Seu Calor",
-      "url": "https://open.spotify.com/track/3hUEFYpWaC4afelkn7XWjp"
+      "duration_ms": 152232,
+      "name": "Os Mo\u00e7os da R\u00e1dio",
+      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -483,6 +467,54 @@
       "duration_ms": 195692,
       "name": "Del\u00edrio Favorito",
       "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
+        "name": "como foi pra vc?",
+        "url": "https://open.spotify.com/album/4LNAl7KuM6AOQkn6qFZmsJ"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f4 de Babalong",
+          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "como foi pra vc?",
+      "url": "https://open.spotify.com/track/2ytDhsNAq1koytijhuTaO4"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
+        "name": "Avenida",
+        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 184303,
+      "name": "Avenida",
+      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
+        "name": "Ver\u00e3071",
+        "url": "https://open.spotify.com/album/0WfQIGIOB918uCFAlxlqCG"
+      },
+      "artists": [
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Sentir Seu Calor",
+      "url": "https://open.spotify.com/track/3hUEFYpWaC4afelkn7XWjp"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -515,38 +547,6 @@
       "duration_ms": 176409,
       "name": "Desassossego",
       "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "Avenida",
-        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 184303,
-      "name": "Avenida",
-      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "como foi pra vc?",
-        "url": "https://open.spotify.com/album/4LNAl7KuM6AOQkn6qFZmsJ"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f4 de Babalong",
-          "url": "https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "como foi pra vc?",
-      "url": "https://open.spotify.com/track/2ytDhsNAq1koytijhuTaO4"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
+        "name": "Baunilha",
+        "url": "https://open.spotify.com/album/5FQpFAn13w2MoL370CkkkV"
+      },
+      "artists": [
+        {
+          "name": "Sofia Oliveira",
+          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
+        }
+      ],
+      "duration_ms": 189054,
+      "name": "Baunilha",
+      "url": "https://open.spotify.com/track/0XReucxv3SVNNk606iP5sk"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
         "name": "no seu tempo",
         "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
       },
@@ -683,18 +699,38 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
-        "name": "Baunilha",
-        "url": "https://open.spotify.com/album/5FQpFAn13w2MoL370CkkkV"
+        "name": "Ressaca da Saudade",
+        "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
       },
       "artists": [
         {
-          "name": "Sofia Oliveira",
-          "url": "https://open.spotify.com/artist/5B4uV21S8qu6VkJ5diJsLC"
+          "name": "Aram\u00e0",
+          "url": "https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD"
+        },
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
         }
       ],
-      "duration_ms": 189054,
-      "name": "Baunilha",
-      "url": "https://open.spotify.com/track/0XReucxv3SVNNk606iP5sk"
+      "duration_ms": 172395,
+      "name": "Ressaca da Saudade",
+      "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
+        "name": "Balelo",
+        "url": "https://open.spotify.com/album/5h91bT30As9hPOjFRPhvOM"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 170234,
+      "name": "Balelo",
+      "url": "https://open.spotify.com/track/2QEGxX5uZecGEDRQ8hhmsK"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -719,42 +755,6 @@
       "duration_ms": 163110,
       "name": "Mar\u00e9 De Sorte - Remix",
       "url": "https://open.spotify.com/track/33MTRgQrOhkRkA2oYEJ0lu"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "Balelo",
-        "url": "https://open.spotify.com/album/5h91bT30As9hPOjFRPhvOM"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 170234,
-      "name": "Balelo",
-      "url": "https://open.spotify.com/track/2QEGxX5uZecGEDRQ8hhmsK"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "Ressaca da Saudade",
-        "url": "https://open.spotify.com/album/4rxQw8zsbGpGalUhER4aoj"
-      },
-      "artists": [
-        {
-          "name": "Aram\u00e0",
-          "url": "https://open.spotify.com/artist/2M2lDprCQRdjvgo0yDsdTD"
-        },
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        }
-      ],
-      "duration_ms": 172395,
-      "name": "Ressaca da Saudade",
-      "url": "https://open.spotify.com/track/0AHJZmcGTNmpNXqXqgLnl6"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -799,6 +799,26 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
+        "name": "LUMINOSA, ATO II: SOL",
+        "url": "https://open.spotify.com/album/0jjFw0lrAwiOvXgbnvOp2D"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        },
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 179259,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/28xVmDFPHeRgYHo1Nfv27d"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
         "name": "PASSARINHO",
         "url": "https://open.spotify.com/album/1GkRQZoM0BzLpn5RkQ5VX8"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 143018,
       "name": "vou dar",
       "url": "https://open.spotify.com/track/6YNmbPdo0ofu27ODq8BRUJ"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "LUMINOSA, ATO II: SOL",
-        "url": "https://open.spotify.com/album/0jjFw0lrAwiOvXgbnvOp2D"
-      },
-      "artists": [
-        {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        },
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 179259,
-      "name": "Sorte",
-      "url": "https://open.spotify.com/track/28xVmDFPHeRgYHo1Nfv27d"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -995,6 +995,38 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
+        "name": "N\u00e3o Solta Minha M\u00e3o",
+        "url": "https://open.spotify.com/album/3n9S4UdRZhnt5rqksg3qVA"
+      },
+      "artists": [
+        {
+          "name": "Dawid",
+          "url": "https://open.spotify.com/artist/6yPULMo0iyCHRTSZmXmsjp"
+        }
+      ],
+      "duration_ms": 188556,
+      "name": "N\u00e3o Solta Minha M\u00e3o",
+      "url": "https://open.spotify.com/track/6xpnSqg4C2NRNke03phRFd"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
+        "name": "Deixa eu te sentir",
+        "url": "https://open.spotify.com/album/3l9x2o5TnRTnQyfm3PdneQ"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 161419,
+      "name": "Deixa eu te sentir",
+      "url": "https://open.spotify.com/track/3oE47KzHTOBEA5utcirjGy"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/7xTL4bMMZ0HvIiFPLvCkVQ"
       },
@@ -1011,22 +1043,6 @@
       "duration_ms": 187636,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "N\u00e3o Solta Minha M\u00e3o",
-        "url": "https://open.spotify.com/album/3n9S4UdRZhnt5rqksg3qVA"
-      },
-      "artists": [
-        {
-          "name": "Dawid",
-          "url": "https://open.spotify.com/artist/6yPULMo0iyCHRTSZmXmsjp"
-        }
-      ],
-      "duration_ms": 188556,
-      "name": "N\u00e3o Solta Minha M\u00e3o",
-      "url": "https://open.spotify.com/track/6xpnSqg4C2NRNke03phRFd"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -1051,18 +1067,22 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
-        "name": "Deixa eu te sentir",
-        "url": "https://open.spotify.com/album/3l9x2o5TnRTnQyfm3PdneQ"
+        "name": "Quero Sim, Quero N\u00e3o",
+        "url": "https://open.spotify.com/album/2um01h8pO8SjvJA6EbaTWs"
       },
       "artists": [
         {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+          "name": "Laura Schadeck",
+          "url": "https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 161419,
-      "name": "Deixa eu te sentir",
-      "url": "https://open.spotify.com/track/3oE47KzHTOBEA5utcirjGy"
+      "duration_ms": 138282,
+      "name": "Quero Sim, Quero N\u00e3o",
+      "url": "https://open.spotify.com/track/0P5454OX0xDqbkOw4t4NnB"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -1083,26 +1103,6 @@
       "duration_ms": 174250,
       "name": "SAUDADE NUNCA \u00c9 DE GRA\u00c7A",
       "url": "https://open.spotify.com/track/7r8wOSXABuVgD0z9ABWey1"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "Quero Sim, Quero N\u00e3o",
-        "url": "https://open.spotify.com/album/2um01h8pO8SjvJA6EbaTWs"
-      },
-      "artists": [
-        {
-          "name": "Laura Schadeck",
-          "url": "https://open.spotify.com/artist/6392rGyL1AYvMtt70GIqWS"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 138282,
-      "name": "Quero Sim, Quero N\u00e3o",
-      "url": "https://open.spotify.com/track/0P5454OX0xDqbkOw4t4NnB"
     },
     {
       "added_at": "2026-05-29 03:00:20",

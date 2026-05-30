@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-500 songs - 1 day 6 hr 42 min
+504 songs - 1 day 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Coming of Age](https://open.spotify.com/track/7pvSteyWYiQoqCnGEkBgMT) | [ziploq bag](https://open.spotify.com/artist/6JzIk06l66NVoAsqIYR9i8) | [Linger ii / Coming of Age](https://open.spotify.com/album/0ZLNRwFwBMktlcsRlJ7UMh) | 2:29 | 2025-11-14 | 2026-01-15 |
 | [Company](https://open.spotify.com/track/3w19BE0tf6m6AgNEN5ARPq) | [Bee\-B](https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Villain Origin Story](https://open.spotify.com/album/6m2OxXAJpABq5hTgFTcayE) | 2:36 | 2025-10-03 | 2025-11-15 |
 | [Cooking With Grease](https://open.spotify.com/track/1AXQGKyaAp4JbRjHnCTBIr) | [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Cooking With Grease](https://open.spotify.com/album/7LZUM8AbeflII80VGpi0r7) | 3:12 | 2021-12-15 | 2022-07-29 |
+| [Could Be Worse](https://open.spotify.com/track/2nvlYOCCCAsaCdY1kx5cGs) | [Bizzy Crook](https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Could Be Worse](https://open.spotify.com/album/5aqP6FmBBfO01EOa0nSbh9) | 2:20 | 2026-05-29 |  |
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2021-12-15 | 2023-02-11 |
 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 | 2022-03-14 | 2023-02-11 |
 | [CRYING IN CHANEL](https://open.spotify.com/track/5aIEFCKhVUM5sKkwOSdFiM) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:19 | 2025-02-14 | 2025-02-21 |
@@ -138,6 +139,7 @@
 | [Escapade](https://open.spotify.com/track/5HAv1Ckfe50DUjv8ghwTrz) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Rhythm Nation 1814](https://open.spotify.com/album/4OD3LU6001esAtFshDX46M) | 4:43 | 2023-02-10 | 2024-04-25 |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:09 | 2024-01-31 |  |
 | [Eternal Flame](https://open.spotify.com/track/4ccsBKXOJ6DqwQUzMnekQD) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [HEARTS SOLD SEPARATELY](https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP) | 3:33 | 2025-08-22 | 2026-01-15 |
+| [Everythang Pinka](https://open.spotify.com/track/7pbAF30G6MmDPjqV3mCoUX) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Everythang Pinka](https://open.spotify.com/album/3Jh6MpCzstaq4pO6INbIqo) | 2:48 | 2026-05-29 |  |
 | [Everything](https://open.spotify.com/track/3CbnA6S33amyRNmgmfi33H) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Share My World](https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW) | 4:59 | 2024-01-31 |  |
 | [Everything U Do](https://open.spotify.com/track/3uUy3m1V99vViOZt7JnFlN) | [Bee\-B](https://open.spotify.com/artist/13FgCXn7z3ld9mR2Pz8eqc) | [Everything U Do](https://open.spotify.com/album/1vnMxSO3ftbcuqcY4mTy3n) | 3:32 | 2025-08-08 | 2025-08-16 |
 | [F.U.C.K.](https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [F.U.C.K.](https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC) | 3:25 | 2021-12-15 | 2024-04-25 |
@@ -184,6 +186,7 @@
 | [Here We Go \(Uh Oh\)](https://open.spotify.com/track/5ShqaLCQm38x3Y1K4kQDqm) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 3:35 | 2025-09-05 | 2025-09-13 |
 | [Hi \[Feat\. India.Arie\]](https://open.spotify.com/track/2ISm6JJf3BUaYYH54Z2UR7) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Black Radio III \(Supreme Edition\)](https://open.spotify.com/album/0koSNz785od22spE0DlKO7) | 2:24 | 2022-10-14 | 2023-02-11 |
 | [Hold You Down](https://open.spotify.com/track/4bfl59MmcQeAtYOVWlIf07) | [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Emanny](https://open.spotify.com/artist/23zEEtmthkZdvz8j0LQHHo) | [I LOVE YOU \(A Dedication To My Fans\) The Mixtape](https://open.spotify.com/album/7roiS00nYv06FqErK4yXny) | 2:49 | 2024-01-31 | 2024-04-25 |
+| [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 | 2026-05-29 |  |
 | [how can i](https://open.spotify.com/track/0xpzeDSGScWbLY9ZjoIX7b) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [big country](https://open.spotify.com/album/7HkystmvAIsYWSHg68Uo0Y) | 3:03 | 2026-02-27 |  |
 | [How Does It Feel](https://open.spotify.com/track/1ipHKSbOLZ3rk5UIr0sjEF) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 2:46 | 2025-02-07 | 2025-04-16 |
 | [How We Do Us \(feat\. Kyle Dion\)](https://open.spotify.com/track/10sP6mykiMbeyA8jx2kUF0) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Cloud 19](https://open.spotify.com/album/0Z4zmV6ITJ6PUjCmAsHxdE) | 3:39 | 2024-04-24 | 2024-04-26 |
@@ -313,6 +316,7 @@
 | [N Side](https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 3:44 | 2022-03-14 | 2023-02-11 |
 | [N Side](https://open.spotify.com/track/18t9EUBOfOPRv4nrJUpRAq) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [N Side](https://open.spotify.com/album/0oBHAZtvWGE21oxQpq2laq) | 3:44 | 2021-12-15 | 2022-07-25 |
 | [N Side](https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:44 | 2021-12-15 | 2022-10-13 |
+| [Need Luv 2 \(feat\. Sexyy Red\)](https://open.spotify.com/track/5aqzVN01Twl0HXWFNvQG3m) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 2:54 | 2026-05-29 |  |
 | [Need U Bad](https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:17 | 2023-02-10 | 2024-02-01 |
 | [Never Lose You](https://open.spotify.com/track/2S16czIeUR0vS7fwq5Fv7T) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [TwoFr 2](https://open.spotify.com/album/6IFG8yV0MHsyAaZxbDHzlK) | 3:01 | 2024-01-31 | 2024-12-18 |
 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2024-01-31 | 2025-08-23 |

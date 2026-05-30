@@ -3262,7 +3262,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -4752,7 +4752,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 208972,
       "name": "FMT",
       "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
@@ -10119,6 +10119,24 @@
     },
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223332,
+      "name": "Mexico Honey",
+      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
+    },
+    {
+      "album": {
         "name": "Middle Ground",
         "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
       },
@@ -10849,6 +10867,24 @@
     },
     {
       "album": {
+        "name": "New York Confident",
+        "url": "https://open.spotify.com/album/4oDktJNg53nfidIcdeU1k2"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147394,
+      "name": "New York Confident",
+      "url": "https://open.spotify.com/track/5cILqtT5F6B35u7sawG9FR"
+    },
+    {
+      "album": {
         "name": "A Minute...",
         "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
       },
@@ -11128,6 +11164,24 @@
       "duration_ms": 219377,
       "name": "Nothing Holy",
       "url": "https://open.spotify.com/track/4aMUvgDqqPBHpV7KT5gbVY"
+    },
+    {
+      "album": {
+        "name": "Nothing Like Hollywood",
+        "url": "https://open.spotify.com/album/77UyBNIRrgF0yW0d5WMgGU"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185992,
+      "name": "Nothing Like Hollywood",
+      "url": "https://open.spotify.com/track/52cP6CHMCWQc6s1XItREqg"
     },
     {
       "album": {
@@ -11618,7 +11672,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 166106,
       "name": "Past Won't Leave My Bed",
       "url": "https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ"

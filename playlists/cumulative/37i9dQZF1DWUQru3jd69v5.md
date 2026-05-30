@@ -4,7 +4,7 @@
 
 > DANTE in cover della playlist con il futuro del rap italiano 📈
 
-2,451 songs - 4 day 7 hr 26 min
+2,453 songs - 4 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [2025 Baby](https://open.spotify.com/track/2tJ3KEJrXWM1g2hnBaIBu5) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [2025 Baby](https://open.spotify.com/album/3cZ7BoGN4z1R7AtPuhq7iN) | 3:03 | 2025-03-20 | 2025-04-18 |
 | [20PAIA / FANCULO](https://open.spotify.com/track/2SaTKzZRfvXOjHjX52dHos) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [VITE SGRAMMATE](https://open.spotify.com/album/67SfuiDNcf4E76QmAv5gVx) | 2:25 | 2025-05-15 | 2025-09-13 |
 | [24/7](https://open.spotify.com/track/40wFq875FTMakFd8tTf0lv) | [Enny P](https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj) | [24/7](https://open.spotify.com/album/5TmdMnfhgD576F6ojKJItH) | 2:41 | 2025-11-27 | 2025-12-19 |
+| [24/7](https://open.spotify.com/track/0B0Zfc6F9TXAwb9y8Zix6B) | [GABRIEL TONELLI](https://open.spotify.com/artist/3gzEVxb4jUC0579HQ08Opx) | [24/7](https://open.spotify.com/album/5wLTEEwgrfC3jtQ7PYjOQX) | 2:37 | 2026-05-29 |  |
 | [24/7](https://open.spotify.com/track/118lBaOeoRLNnySo8DOKRc) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [24/7](https://open.spotify.com/album/7KA4HQshkUPNtpP3UDpowQ) | 3:05 | 2024-11-14 | 2024-12-13 |
 | [24/7](https://open.spotify.com/track/4qhA9YjkvA1e4JmR12TRPx) | [Mocro Yakuza](https://open.spotify.com/artist/3To9zBWMwJt0ohLMHPxxSV), [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [24/7](https://open.spotify.com/album/2fiQL8X4r4nCNheso7sO8R) | 2:26 | 2024-10-03 | 2024-11-01 |
 | [28 MAY](https://open.spotify.com/track/7MzxxztMIxQ5ZAywzDA1zf) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [28 MAY](https://open.spotify.com/album/3ZYwxLGvtRdvCDSBgXxgoR) | 2:28 | 2025-05-29 | 2025-06-20 |
@@ -454,7 +455,7 @@
 | [Cavalli](https://open.spotify.com/track/4nsxgwWnNxOKujoD5HpW4Y) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Baby Rich](https://open.spotify.com/artist/6nNm1ydguU7kzvUHidRxRN), [Nuto Jr](https://open.spotify.com/artist/35cHFPW5iuDM1df442BBt5), [NRY](https://open.spotify.com/artist/4rQfPosRUCIb7zmKGsmS6s) | [Cavalli](https://open.spotify.com/album/3angzNAWDDXzzsHbaNeiGC) | 2:28 | 2022-06-09 | 2022-07-22 |
 | [CAZAL](https://open.spotify.com/track/3sXqJfDnX1R8ifGwZNjXYI) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [CAZAL](https://open.spotify.com/album/1LC2Q2ZxeElQmZkpIVGsP4) | 2:04 | 2025-10-23 | 2025-11-21 |
 | [CC BÉBÉ](https://open.spotify.com/track/7afJp7m2tpNGMkpqF6gmpd) | [Pikasso](https://open.spotify.com/artist/3jgdWFCeO22HYQ0DiFK8xD) | [CC BÉBÉ](https://open.spotify.com/album/35TYvx8jmwIH4wFnQKytxs) | 2:38 | 2022-11-29 | 2023-02-24 |
-| [CELINE \(feat\. ZAYRE\)](https://open.spotify.com/track/3Wg3yx21eF9nIJjTsfdNIo) | [Blackmill](https://open.spotify.com/artist/5SeYas0LiuReImA5tTojc0), [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr) | [PERFECT TIMING](https://open.spotify.com/album/10Vms5OvrweoELuCxoR6YF) | 2:59 | 2026-05-28 |  |
+| [CELINE \(feat\. Zayre\)](https://open.spotify.com/track/3Wg3yx21eF9nIJjTsfdNIo) | [Blackmill](https://open.spotify.com/artist/5SeYas0LiuReImA5tTojc0), [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr) | [PERFECT TIMING](https://open.spotify.com/album/10Vms5OvrweoELuCxoR6YF) | 2:59 | 2026-05-28 |  |
 | [CELLA](https://open.spotify.com/track/2du1uQYiBB1tX4L8rPfXJY) | [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr) | [CELLA](https://open.spotify.com/album/63A1VqrV2hqQTBuSIFmJjf) | 2:16 | 2025-04-03 | 2025-04-18 |
 | [CENACOLO](https://open.spotify.com/track/2F8lmoE3hktpcwL5vV6CGD) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr) | [CENACOLO](https://open.spotify.com/album/7epU3lrH6KMWXxSXLkmhFY) | 2:23 | 2023-09-14 | 2023-09-29 |
 | [Centomila](https://open.spotify.com/track/7hCJiJENu1wt8HPmN5LB3B) | [Glasond](https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf), [Gumma Vybz](https://open.spotify.com/artist/3XOuRvla4WvUpc7jpO5b9P), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [Centomila](https://open.spotify.com/album/4g6MvPjAnAEnP3GNs79maC) | 5:42 | 2023-03-30 | 2023-04-14 |
@@ -699,6 +700,7 @@
 | [Ego](https://open.spotify.com/track/5x1JWaZiRXwT3pRXlcNygi) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [Ego](https://open.spotify.com/album/3mZdTVCLgNM46Hcn7jungU) | 2:26 | 2023-06-29 | 2023-07-21 |
 | [EGO](https://open.spotify.com/track/6i88tx7811AzFNDknwILat) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/0iJVjnO4uw4vTJImGTwyXb) | 2:51 | 2022-05-24 | 2022-07-22 |
 | [EI BIMBA](https://open.spotify.com/track/129kyfg5wAgPqfQEwsNf9E) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [WELO WE 23 OK](https://open.spotify.com/album/19SjpDDPRfrxX7yRrhx3kL) | 2:18 | 2024-04-11 | 2024-04-19 |
+| [Eiwa 3](https://open.spotify.com/track/1ZlRKcHHtXTvya9jcJj3sD) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Eiwa 3](https://open.spotify.com/album/3LtRktSMthJZtYyQ5vXoIV) | 3:36 | 2026-05-29 |  |
 | [Ekip](https://open.spotify.com/track/7158jz8FPmq8DkrqDjIDB6) | [LJK](https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd) | [Ekip](https://open.spotify.com/album/1u94zj4rvh7F7pRTKkNC81) | 2:35 | 2024-03-21 | 2024-04-12 |
 | [EKL \#1](https://open.spotify.com/track/7AUfTQ8fSIGZ7wSB20k987) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [EKL \#1](https://open.spotify.com/album/4G7U3Asn4Slh8d89FWe5ja) | 1:29 | 2023-07-13 | 2023-08-04 |
 | [EL MATADOR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/11HeOLoW2cnWZzGHWnllYq) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu) | [EL MATADOR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/6UDBnsOcte6GwhTBLZ75kK) | 2:48 | 2024-03-06 | 2024-05-17 |

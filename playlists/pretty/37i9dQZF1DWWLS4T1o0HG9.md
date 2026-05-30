@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 
 > The essential pop rock songs from the 80s\. Cover: The Go\-Go's
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,184 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,439 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 17 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 |
 | 18 | [Rosanna](https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 5:30 |
 | 19 | [She Drives Me Crazy](https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp) | [The Raw & The Cooked](https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F) | 3:35 |
-| 20 | [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 |
-| 21 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
+| 20 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
+| 21 | [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 |
 | 22 | [You Give Love A Bad Name](https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:42 |
 | 23 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
 | 24 | [Every Little Thing She Does Is Magic](https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:20 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLS4T1o0HG9.md) - [plain]
 | 90 | [Little Red Corvette](https://open.spotify.com/track/4iozhXt27eMl39W5z7R8H6) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [1999](https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67) | 4:56 |
 | 91 | [The Tide Is High \- Remastered 2001](https://open.spotify.com/track/3lGBRoe3c6oV398Xwgf7c7) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 4:40 |
 | 92 | [Allentown](https://open.spotify.com/track/59xhCcRskqyMtKzdvLZDfV) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Nylon Curtain](https://open.spotify.com/album/50bajZpetfL5T0iRCOR74J) | 3:52 |
-| 93 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/4k5FeWIdUaBx5OZdvrSYP1) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango in the Night \(2017 Remaster\)](https://open.spotify.com/album/7CWZNdANL2ZYQs3JfdxoM5) | 3:46 |
-| 94 | [The Warrior \(feat\. Patty Smyth\)](https://open.spotify.com/track/2hQnLzly0jRPpLPp23sA4i) | [Scandal](https://open.spotify.com/artist/3RFGnJaDVOyxL9YcFaKatu), [Patty Smyth](https://open.spotify.com/artist/2dgfCEMSVETFp29mRpiFpz) | [Warrior \(feat\. Patty Smyth\)](https://open.spotify.com/album/5i0kVvDtDgmorQXqX9rdaK) | 4:00 |
+| 93 | [The Warrior \(feat\. Patty Smyth\)](https://open.spotify.com/track/2hQnLzly0jRPpLPp23sA4i) | [Scandal](https://open.spotify.com/artist/3RFGnJaDVOyxL9YcFaKatu), [Patty Smyth](https://open.spotify.com/artist/2dgfCEMSVETFp29mRpiFpz) | [Warrior \(feat\. Patty Smyth\)](https://open.spotify.com/album/5i0kVvDtDgmorQXqX9rdaK) | 4:00 |
+| 94 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/4k5FeWIdUaBx5OZdvrSYP1) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango in the Night \(2017 Remaster\)](https://open.spotify.com/album/7CWZNdANL2ZYQs3JfdxoM5) | 3:46 |
 | 95 | [The Heart Of Rock And Roll](https://open.spotify.com/track/0o4e5Tt4vorx2012FrGIjV) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Sports](https://open.spotify.com/album/5jyfyM8Cinnh05OswtWv41) | 5:04 |
 | 96 | [Some Guys Have All the Luck](https://open.spotify.com/track/53Eqyg5eFqyuUCaSwozq4f) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Camouflage \(Expanded Edition\)](https://open.spotify.com/album/7KSz8zPpNi8D6ADUSStB2K) | 4:34 |
 | 97 | [Kyrie \- Single Version](https://open.spotify.com/track/5BXj1QDRU77J1ngVavG1tI) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [The Best of Mr\. Mister](https://open.spotify.com/album/0qCccU99b8JabM1xPpWJKh) | 4:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 
 > This is Twenty One Pilots\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,442,088 likes - 42 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,442,251 likes - 42 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,21 +12,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 | 2 | [Stressed Out](https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:22 |
 | 3 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
 | 4 | [Heathens](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Heathens](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) | 3:15 |
-| 5 | [Routines In The Night](https://open.spotify.com/track/4bDIAWaOBGAAk95nyXI6zJ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:22 |
+| 5 | [Chlorine](https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 5:24 |
 | 6 | [Ride](https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:34 |
-| 7 | [Chlorine](https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 5:24 |
+| 7 | [Routines In The Night](https://open.spotify.com/track/4bDIAWaOBGAAk95nyXI6zJ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:22 |
 | 8 | [RAWFEAR](https://open.spotify.com/track/43ee3gqWBlPKe2MeGJ2S6I) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 3:22 |
-| 9 | [Navigating](https://open.spotify.com/track/3gy21TwRSP40aUMwcY7Rtq) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:43 |
+| 9 | [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/track/1QJbDTZAO8rpGOMG4UahFM) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:12 |
 | 10 | [Doubt](https://open.spotify.com/track/57yL3161hUMuw06zzzUCHi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:11 |
-| 11 | [The Line \(from the series Arcane League of Legends\)](https://open.spotify.com/track/1QJbDTZAO8rpGOMG4UahFM) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:12 |
+| 11 | [Navigating](https://open.spotify.com/track/3gy21TwRSP40aUMwcY7Rtq) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:43 |
 | 12 | [One Way](https://open.spotify.com/track/5QzlDlRuT9D5LdpybJoNYi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 2:43 |
-| 13 | [Midwest Indigo](https://open.spotify.com/track/7GVQS66ukm48XZVymA3ZUg) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:16 |
+| 13 | [Shy Away](https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:55 |
 | 14 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
-| 15 | [Shy Away](https://open.spotify.com/track/2nG54Y4a3sH9YpfxMolOyi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:55 |
+| 15 | [Midwest Indigo](https://open.spotify.com/track/7GVQS66ukm48XZVymA3ZUg) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:16 |
 | 16 | [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 5:22 |
-| 17 | [My Blood](https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:49 |
+| 17 | [Mulberry Street](https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:44 |
 | 18 | [Heavydirtysoul](https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:54 |
-| 19 | [Mulberry Street](https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:44 |
+| 19 | [My Blood](https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:49 |
 | 20 | [Tally](https://open.spotify.com/track/0DGf6s54MQ3Oht41mj6s6K) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 3:32 |
 | 21 | [Backslide](https://open.spotify.com/track/6fNaHkjAxP6rI2sZhT7QJn) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:00 |
 | 22 | [Hometown](https://open.spotify.com/track/40sRwFjfrRnaTdYPJIg4CP) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:54 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 | 41 | [Fake You Out](https://open.spotify.com/track/3MLtopC0uho28PxZN7Zecy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Vessel](https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn) | 3:51 |
 | 42 | [Morph](https://open.spotify.com/track/01vv2AjxgP4uUyb8waYO5Y) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 4:18 |
 
-Snapshot ID: `ahY0AAAAAAAsGEK6Rv6i7WVCQ9BCki+Q`
+Snapshot ID: `aheFgAAAAACwFj6y8qfUcHkaJIpioh4p`

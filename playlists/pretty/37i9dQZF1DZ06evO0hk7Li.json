@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 40290,
+  "num_followers": 40295,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAACc6t83BfCCx0J62LVxUCwD",
+  "snapshot_id": "aheFgAAAAAAb8RayVKrUftCOpw6hOcPW",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 192720,
-      "name": "Chainsmoking",
-      "url": "https://open.spotify.com/track/1EZfCViOJ9XKFbwX8FkZUF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yonder: Book I",
         "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 98023,
       "name": "A Tree Never Waters Itself",
       "url": "https://open.spotify.com/track/7yuDZRLymVMwVSycLdA2rB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 192720,
+      "name": "Chainsmoking",
+      "url": "https://open.spotify.com/track/1EZfCViOJ9XKFbwX8FkZUF"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Unknown (To You)",
-      "url": "https://open.spotify.com/track/4jDDaKTqcZQWvgubuW6N7l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brand New Machine (Deluxe Version)",
         "url": "https://open.spotify.com/album/2YgT8pqXE1rvVEYDxkLNrs"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 206427,
       "name": "Alive",
       "url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Unknown (To You)",
+      "url": "https://open.spotify.com/track/4jDDaKTqcZQWvgubuW6N7l"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 197701,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 241573,
       "name": "Kumbaya (feat. Bibi Bourelly)",
       "url": "https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 197701,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
-        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 204658,
-      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
-      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 240266,
       "name": "Won't Turn Back",
       "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
+        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 204658,
+      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
+      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
     },
     {
       "added_at": null,

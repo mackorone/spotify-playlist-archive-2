@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 36 | [Popurrí](https://open.spotify.com/track/64ffk6yPKFyOGOsKWHXuzy) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5), [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl), [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [Popurrí](https://open.spotify.com/album/6oFY7iqrjHUg8lzyNYORyC) | 10:45 |
 | 37 | [Mambo Caliente](https://open.spotify.com/track/2yM2qO9OLVpQWH0Zk67tzm) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Viva La Fiesta](https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3) | 3:29 |
 | 38 | [El Sancudito](https://open.spotify.com/track/1NnuZu2Oir0jiC0oPPbqLu) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Mas Caliente Que Nunca](https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO) | 2:49 |
-| 39 | [SE BAILA ASÍ](https://open.spotify.com/track/4RXFQefdpwxYX26z95SjFm) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [SE BAILA ASÍ](https://open.spotify.com/album/1p14Am9g2XTlsaAJzCUP5z) | 3:20 |
-| 40 | [TODO MUNDO A BAILAR](https://open.spotify.com/track/0KGOKIeuWlL3TCRRECdS21) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [TODO MUNDO A BAILAR](https://open.spotify.com/album/2ViInMyOmHTS2QPK83Vkwv) | 3:18 |
+| 39 | [TODO MUNDO A BAILAR](https://open.spotify.com/track/0KGOKIeuWlL3TCRRECdS21) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [TODO MUNDO A BAILAR](https://open.spotify.com/album/2ViInMyOmHTS2QPK83Vkwv) | 3:18 |
+| 40 | [SE BAILA ASÍ](https://open.spotify.com/track/4RXFQefdpwxYX26z95SjFm) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [SE BAILA ASÍ](https://open.spotify.com/album/1p14Am9g2XTlsaAJzCUP5z) | 3:20 |
 | 41 | [Mambo Loco](https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:33 |
 | 42 | [La Bomba Caliente](https://open.spotify.com/track/0dycKlw9ncvadhn0RuEizp) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Piensa en Mi](https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4) | 3:07 |
 | 43 | [LA PLEBADA](https://open.spotify.com/track/6cfapE2grWZmKGwEZm2eYX) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [LA PLEBADA](https://open.spotify.com/album/4vP24qYsJChHCHPUvjFM5T) | 3:09 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 47 | [Cosa Caliente](https://open.spotify.com/track/7aL7CNXgcKDJnAjk1z3h1E) | [Muzik Junkies](https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja), [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Cosa Caliente](https://open.spotify.com/album/14xCxjacYrmBsqe6IfYetT) | 2:57 |
 | 48 | [Y Nos Dieron las Diez](https://open.spotify.com/track/2OvyHVRTNlzoWVXC8dvQWf) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Puras de Lazo y Reata](https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0) | 2:27 |
 
-Snapshot ID: `ahY0AAAAAADkMvJlYSxGcsWxMEnNg3u7`
+Snapshot ID: `aheFgAAAAABY7M9luiQBusumjFSkPIlX`

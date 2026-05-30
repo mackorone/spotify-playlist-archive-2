@@ -1,6 +1,6 @@
 {
   "description": "La casa de los corazones rotos.",
-  "num_followers": 1665241,
+  "num_followers": 1665283,
   "original_name": "Mal de Amores",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
+        "name": "Atento Aviso ... Rey Sin Reina",
+        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 150523,
+      "name": "Rey Sin Reina",
+      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
         "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
         "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
-        "name": "Atento Aviso ... Rey Sin Reina",
-        "url": "https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 150523,
-      "name": "Rey Sin Reina",
-      "url": "https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "\u00bfQui\u00e9n Es Usted?",
-        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 213280,
-      "name": "Qui\u00e9n Es Usted",
-      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
         "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
         "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 224285,
       "name": "ALV",
       "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 213280,
+      "name": "Qui\u00e9n Es Usted",
+      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "AYAYAY! (Deluxe)",
-        "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Aqu\u00ed Abajo",
-      "url": "https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
         "name": "Mi Satisfacci\u00f3n",
         "url": "https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 157760,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "AYAYAY! (Deluxe)",
+        "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Aqu\u00ed Abajo",
+      "url": "https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 159466,
-      "name": "Compr\u00e9 Una Cantina",
-      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
         "name": "Lo Que Hay X Aqu\u00ed",
         "url": "https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 158545,
       "name": "Lo Que Hay X Aqu\u00ed",
       "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 159466,
+      "name": "Compr\u00e9 Una Cantina",
+      "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -823,6 +823,22 @@
       "duration_ms": 183653,
       "name": "Sentimientos De Cart\u00f3n",
       "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Un Desenga\u00f1o",
+      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -871,22 +887,6 @@
       "duration_ms": 165733,
       "name": "Voy A Llorar Por Ti",
       "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Un Desenga\u00f1o",
-      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Te Voy A Amar",
-        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Enhorabuena",
-      "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 235480,
       "name": "Hasta El D\u00eda De Hoy",
       "url": "https://open.spotify.com/track/7z5jPeiVTBP7bGNk3AY7dg"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "Te Voy A Amar",
+        "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Enhorabuena",
+      "url": "https://open.spotify.com/track/7eensGADN6jTkmrtPPFcBO"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Sinaloense Hasta Las Cachas",
-        "url": "https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf"
-      },
-      "artists": [
-        {
-          "name": "Fidel Rueda",
-          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "T\u00fa Ya Eres Cosa Del Pasado",
-      "url": "https://open.spotify.com/track/781lqqMzOTUPNl21JdgaLS"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
         "name": "Gracias Por Creer",
         "url": "https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 241906,
       "name": "\u00bfPor Qu\u00e9 Cambiaste De Opini\u00f3n?",
       "url": "https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "Sinaloense Hasta Las Cachas",
+        "url": "https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rueda",
+          "url": "https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "T\u00fa Ya Eres Cosa Del Pasado",
+      "url": "https://open.spotify.com/track/781lqqMzOTUPNl21JdgaLS"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Sin Pagar Renta",
-        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 202443,
-      "name": "Sin Pagar Renta",
-      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
         "name": "La Otra Cara De La Moneda",
         "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 225826,
       "name": "Comp\u00e1rame",
       "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "Sin Pagar Renta",
+        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 202443,
+      "name": "Sin Pagar Renta",
+      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "El Jefe De Las Plazas",
-        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 180080,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/39R8oPoofJ002w5YOwFzjy"
-    },
-    {
-      "added_at": "2026-02-27 19:49:52",
-      "album": {
         "name": "En Vivo EP, Vol. 1 (En vivo)",
         "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 228545,
       "name": "Te Apuesto - En vivo",
       "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
+    },
+    {
+      "added_at": "2026-02-27 19:49:52",
+      "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 180080,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/39R8oPoofJ002w5YOwFzjy"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Puros Exitos Con Banda (En Vivo)",
-        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
+        "name": "Cosas De La Vida",
+        "url": "https://open.spotify.com/album/1w5pqUdSrGOMgUbVVfb8Ri"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Banda Tierra Blanca",
+          "url": "https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB"
         }
       ],
-      "duration_ms": 234416,
-      "name": "El Vaso Derrama - En Vivo",
-      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
+      "duration_ms": 200053,
+      "name": "Juro Por Dios",
+      "url": "https://open.spotify.com/track/6osud8uV5xJV9eODR6del5"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Cosas De La Vida",
-        "url": "https://open.spotify.com/album/1w5pqUdSrGOMgUbVVfb8Ri"
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
       "artists": [
         {
-          "name": "Banda Tierra Blanca",
-          "url": "https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Juro Por Dios",
-      "url": "https://open.spotify.com/track/6osud8uV5xJV9eODR6del5"
+      "duration_ms": 234416,
+      "name": "El Vaso Derrama - En Vivo",
+      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -2031,18 +2031,18 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Cu\u00e1nto A Que Te Olvido",
-        "url": "https://open.spotify.com/album/7FkvXmGwNgh74yRwVAaQRw"
+        "name": "Dile al Amor",
+        "url": "https://open.spotify.com/album/6dDWFO1TnRUrO3Jf5nLMVx"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Cu\u00e1nto A Que Te Olvido",
-      "url": "https://open.spotify.com/track/5EQDA6xM2wUfrKOoT6QoRn"
+      "duration_ms": 174000,
+      "name": "Dile al Amor",
+      "url": "https://open.spotify.com/track/2hPsnHCGBAdT23UujS0HF7"
     },
     {
       "added_at": "2026-02-27 19:49:52",
@@ -2063,18 +2063,18 @@
     {
       "added_at": "2026-02-27 19:49:52",
       "album": {
-        "name": "Dile al Amor",
-        "url": "https://open.spotify.com/album/6dDWFO1TnRUrO3Jf5nLMVx"
+        "name": "Cu\u00e1nto A Que Te Olvido",
+        "url": "https://open.spotify.com/album/7FkvXmGwNgh74yRwVAaQRw"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Dile al Amor",
-      "url": "https://open.spotify.com/track/2hPsnHCGBAdT23UujS0HF7"
+      "duration_ms": 203520,
+      "name": "Cu\u00e1nto A Que Te Olvido",
+      "url": "https://open.spotify.com/track/5EQDA6xM2wUfrKOoT6QoRn"
     },
     {
       "added_at": "2026-02-27 19:49:52",

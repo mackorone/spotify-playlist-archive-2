@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "All new Gospel songs on the rise! Cover: DOE",
+  "description": "All new Gospel songs on the rise! Cover: Victor Thompson",
   "name": "Gospel Rising",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 186000,
       "name": "All",
       "url": "https://open.spotify.com/track/6xemNUN2wxRHxu5zN2d68Z"
@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "Close Enough",
+        "url": "https://open.spotify.com/album/0hw6cmUpOEdCXpHbsKSIx7"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236047,
+      "name": "Close Enough",
+      "url": "https://open.spotify.com/track/6Z0yWXcPbnfzSYJJ1GUV7A"
+    },
+    {
+      "album": {
         "name": "Closer (Radio Edit)",
         "url": "https://open.spotify.com/album/6bX3TsrpvpMIBblkfe8NJz"
       },
@@ -1931,6 +1949,28 @@
     },
     {
       "album": {
+        "name": "Dzina Lau (Yahweh) Radio Edit",
+        "url": "https://open.spotify.com/album/07V42SduMxfZ90tbeWOi0j"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "Brenton Brown",
+          "url": "https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327026,
+      "name": "Dzina Lau (Yahweh) - Radio Edit",
+      "url": "https://open.spotify.com/track/1CIyIAQVhpwwCHdfojpa8d"
+    },
+    {
+      "album": {
         "name": "El Shaddai",
         "url": "https://open.spotify.com/album/264N2Ft0NXF0kX0YHWE2XC"
       },
@@ -2008,7 +2048,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 194602,
       "name": "Es\u00e9",
       "url": "https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7"
@@ -2176,7 +2216,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 270026,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/3U7dQ6LRyxkvxoPFFgPmoY"
@@ -2652,7 +2692,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 276705,
       "name": "Glory On The Other Side - Lofi",
       "url": "https://open.spotify.com/track/6wnyMpFwzpXSRFslepMDTW"
@@ -2964,6 +3004,24 @@
       "duration_ms": 257638,
       "name": "God's Got It",
       "url": "https://open.spotify.com/track/5OgyjLSKMWjXCDEPpDbL5E"
+    },
+    {
+      "album": {
+        "name": "Good (Live)",
+        "url": "https://open.spotify.com/album/4cpUQtlE4wpTtqBWFMisQ8"
+      },
+      "artists": [
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169312,
+      "name": "Good - Live",
+      "url": "https://open.spotify.com/track/32E2RLblvtzQ8Na9mEGU3Y"
     },
     {
       "album": {
@@ -3538,7 +3596,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 293928,
       "name": "History (Breakthrough)",
       "url": "https://open.spotify.com/track/7nX5u3WlmJmD33bnMEMNFI"
@@ -3854,10 +3912,32 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 248747,
       "name": "I Am Determined",
       "url": "https://open.spotify.com/track/06lXRkRWOse6IQjVEHdYcr"
+    },
+    {
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/6ze47lJLs2yEPXn3czjHTn"
+      },
+      "artists": [
+        {
+          "name": "Road to Restoration",
+          "url": "https://open.spotify.com/artist/5HNGuh45sTuaF2y8xr2nKt"
+        },
+        {
+          "name": "Vincena",
+          "url": "https://open.spotify.com/artist/6MZ1PacnLWwElKALk2bdck"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309552,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/0cyxZnsRLaQMSP8XyNwbGS"
     },
     {
       "album": {
@@ -4038,7 +4118,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 256500,
       "name": "I Kept On",
       "url": "https://open.spotify.com/track/5IZGhoh2iSRqQ3ENl8LTgi"
@@ -4565,6 +4645,24 @@
     },
     {
       "album": {
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/3AcRKbpD6MNJinpBx5v4dK"
+      },
+      "artists": [
+        {
+          "name": "Lady Audri",
+          "url": "https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/4sx9iH87BCRWmvbvNLzjaQ"
+    },
+    {
+      "album": {
         "name": "It's Gonna Happen",
         "url": "https://open.spotify.com/album/40iezMjEBFgpdQkHWjbCFy"
       },
@@ -4784,7 +4882,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 503000,
       "name": "Joy",
       "url": "https://open.spotify.com/track/71aXJUkCNSqw16oRGJerni"
@@ -5442,7 +5540,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 268656,
       "name": "Midnight Blues - Reimagined",
       "url": "https://open.spotify.com/track/7nQZ047lLiiTWmXeZqz38R"
@@ -6325,6 +6423,24 @@
     },
     {
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/0TExKinbDigTvmlZ3TIzDC"
+      },
+      "artists": [
+        {
+          "name": "Judah Band",
+          "url": "https://open.spotify.com/artist/03gMZAPd2rlsXGVZDusedV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177725,
+      "name": "Praise Him",
+      "url": "https://open.spotify.com/track/1izWxr3cXXu9xe1hE2E0zP"
+    },
+    {
+      "album": {
         "name": "The Demos, Vol. 1",
         "url": "https://open.spotify.com/album/4pWaQCnsTyaMsYivecJD6M"
       },
@@ -6604,7 +6720,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 187627,
       "name": "Rain Down (Feat. Sampha)",
       "url": "https://open.spotify.com/track/41QBVReXFSAIXWnyChAJCH"
@@ -7234,7 +7350,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 306206,
       "name": "Spirit Of The Living God",
       "url": "https://open.spotify.com/track/0nVnZUBYq7vqXPjNLDMI7e"
@@ -7256,6 +7372,24 @@
       "duration_ms": 285954,
       "name": "stay",
       "url": "https://open.spotify.com/track/5lmlbTBopEJd6dPRBTvRB4"
+    },
+    {
+      "album": {
+        "name": "Briana",
+        "url": "https://open.spotify.com/album/5PVBgsc821POgqQ1dBcQ8i"
+      },
+      "artists": [
+        {
+          "name": "Bri Babineaux",
+          "url": "https://open.spotify.com/artist/6YedxQjw8pGzw9B8owaEnF"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231065,
+      "name": "Stay Here",
+      "url": "https://open.spotify.com/track/2S4HKddVaa6hK6jaLcAtDZ"
     },
     {
       "album": {
@@ -7423,6 +7557,28 @@
     },
     {
       "album": {
+        "name": "Subscribed (Live)",
+        "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198518,
+      "name": "Subscribed - Live",
+      "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
+    },
+    {
+      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/2az66l3p60stcXJh8u7iqk"
       },
@@ -7500,6 +7656,28 @@
       "duration_ms": 339912,
       "name": "Sweet, Sweet Spirit",
       "url": "https://open.spotify.com/track/3InktyoLLJqyCWQdmqHylp"
+    },
+    {
+      "album": {
+        "name": "TAKE ME",
+        "url": "https://open.spotify.com/album/4fm8Y72ze4kvFLEDg3snGp"
+      },
+      "artists": [
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        },
+        {
+          "name": "Obed",
+          "url": "https://open.spotify.com/artist/4KQ6s83KHVf777C58K0ixS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162511,
+      "name": "TAKE ME",
+      "url": "https://open.spotify.com/track/2hDkIZjbuwor5pYA9zpS4n"
     },
     {
       "album": {
@@ -8331,6 +8509,46 @@
     },
     {
       "album": {
+        "name": "Walking With My God",
+        "url": "https://open.spotify.com/album/4AuDg3JnT6t56XrEdcvZNs"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        },
+        {
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189143,
+      "name": "Walking With My God",
+      "url": "https://open.spotify.com/track/4yi7JrFdDLT2CGMKnCo6L6"
+    },
+    {
+      "album": {
+        "name": "Want to Grow",
+        "url": "https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189557,
+      "name": "Want to Grow",
+      "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
+    },
+    {
+      "album": {
         "name": "War In The Spirit (Live at Mantle)",
         "url": "https://open.spotify.com/album/2QzuRMVC9n10h1cIeSvfzR"
       },
@@ -8607,6 +8825,32 @@
     },
     {
       "album": {
+        "name": "We Raise A Sound",
+        "url": "https://open.spotify.com/album/5ekhrynccEoe3lkq2c5wKh"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Fearless Community",
+          "url": "https://open.spotify.com/artist/6E4YUnHFOOfL57krwBfgYl"
+        },
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502918,
+      "name": "We Raise A Sound",
+      "url": "https://open.spotify.com/track/25roQKgZN5cEzxI9DmvJHX"
+    },
+    {
+      "album": {
         "name": "We Wanna See You, Vol. 1 (Live)",
         "url": "https://open.spotify.com/album/0CfkKJPl5VwK0SbaMKFVdg"
       },
@@ -8764,7 +9008,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 189714,
       "name": "Whatever It Is",
       "url": "https://open.spotify.com/track/2DBDiuxMrcpQFZL99VSRXA"

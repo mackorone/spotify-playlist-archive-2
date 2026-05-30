@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷  Alejandro Sanz & Yami Safdie
 
-398 songs - 21 hr 20 min
+399 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Baum Baum](https://open.spotify.com/track/6WkfdgfHTdpmVHcB3Jn4ks) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI DELUXE](https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A) | 2:34 | 2023-12-15 | 2024-10-26 |
 | [Beautiful](https://open.spotify.com/track/0oH7QF9L9fzDy6EFWlivCC) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 3:36 | 2023-10-23 | 2026-04-07 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2023-07-14 | 2023-10-24 |
+| [Besos en pausa](https://open.spotify.com/track/14rUg64n9LylOGofuNOufj) | [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Besos en pausa](https://open.spotify.com/album/3UqRuYJbJawDB4d01FBybG) | 2:37 | 2026-05-29 |  |
 | [Borracha en un Baño Ajeno](https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Borracha en un Baño Ajeno](https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG) | 4:00 | 2023-12-01 | 2024-02-20 |
 | [Breaking Bad](https://open.spotify.com/track/51lUwiop70vQfBtif5sFsW) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [PURA](https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl) | 1:51 | 2024-03-01 | 2024-03-09 |
 | [Brecha](https://open.spotify.com/track/5lLK0RKHZSqojJr4kZMAuJ) | [Mercedes Cañas](https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb), [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Brecha](https://open.spotify.com/album/1YUqU6EcmPdlTm9PQttPqO) | 3:01 | 2025-07-22 | 2025-09-13 |
@@ -161,7 +162,7 @@
 | [Julieta y Romeo](https://open.spotify.com/track/4dZgsqjtt7jLqU8zdzowe2) | [Chiara Parravicini](https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas) | [Sola Conmigo](https://open.spotify.com/album/3LJQsSMPxttAt259pYuG15) | 2:48 | 2024-11-08 | 2024-11-16 |
 | [JURO QUE ME DOLIO](https://open.spotify.com/track/79m3yH0VRc0dSrqg8lXot3) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [QUE SED](https://open.spotify.com/album/2q6PAdBBf4L2Xpxqc3jd8b) | 2:32 | 2025-04-11 | 2025-07-26 |
 | [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1) | 2:43 | 2024-11-15 | 2025-11-22 |
-| [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 | 2024-03-01 |  |
+| [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 | 2024-03-01 | 2026-05-30 |
 | [KESI \- Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI \(Remix\)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 | 2023-07-14 | 2023-10-24 |
 | [La Araña](https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Mala Sangre](https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7) | 2:29 | 2023-10-23 | 2024-05-11 |
 | [La Casa del Amor Nocturno](https://open.spotify.com/track/6yi1h8v5YumwpW0wvWJFZs) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/5ifD7wxAIFjtABihB3YBQ9) | 5:01 | 2024-03-08 | 2024-04-22 |

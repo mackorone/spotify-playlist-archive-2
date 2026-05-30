@@ -4,7 +4,7 @@
 
 > Nieuw: Foncé, JayMoreLife, Marou & Massin en meer..
 
-598 songs - 1 day 1 hr 47 min
+599 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Gesprekken Van Toen](https://open.spotify.com/track/3eE2RpiI7aIQZHSeQRrLHd) | [Harry Femer](https://open.spotify.com/artist/5hAFdBmJbhDaDHOICibLfI) | [Gesprekken Van Toen](https://open.spotify.com/album/2qQZHXpTaMAd4ouERbfKHm) | 2:24 | 2025-12-18 | 2026-01-23 |
 | [Gevaar](https://open.spotify.com/track/2Fir2zrVOsu8S4oX9ozqxG) | [Rz](https://open.spotify.com/artist/0Uicf2CoBVxIQZxFXuXlO8) | [Gevaar](https://open.spotify.com/album/15MTpmG89kFKbF6KDeKgvS) | 2:09 | 2026-04-16 |  |
 | [Giegs Lightwork Freestyle](https://open.spotify.com/track/0f9nHVLvE8wvZyKQDAXdxb) | [Giegs](https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb), [Pressplay](https://open.spotify.com/artist/2O4Kmd6YNhta38MQ1VDMI1) | [Giegs Lightwork Freestyle](https://open.spotify.com/album/57oBGk9gV04Y2WOBSYOxGy) | 2:11 | 2026-04-16 | 2026-05-22 |
+| [Glasscherf](https://open.spotify.com/track/26tVaYe0QtuR2BDQrLOMfU) | [Rico](https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG) | [Rico](https://open.spotify.com/album/7oRO2j8KmhXNRMX9WySSRP) | 2:47 | 2026-05-29 |  |
 | [Gnumes Gna](https://open.spotify.com/track/7rBkFjCLrbbXzm4D2dy4Ym) | [AB7](https://open.spotify.com/artist/6n6tlB44JuXjIevREM1HqG), [D.SEL](https://open.spotify.com/artist/4lQRNhAKqn4S8pbHvJykKh) | [Gnumes Gna](https://open.spotify.com/album/6nmyUNhonwSaBTJ21NEpYf) | 2:42 | 2025-10-23 | 2025-11-21 |
 | [Go](https://open.spotify.com/track/3fLESjsC71zz2QiABvWOtC) | [Dreamteam](https://open.spotify.com/artist/6ZnwZN3qKP8co3zW6O2gX3), [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM), [Dashaeno](https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE) | [Go](https://open.spotify.com/album/72EV9hQ7zMoYnqAvyBL6dO) | 3:02 | 2025-07-17 | 2025-08-15 |
 | [Go Punky](https://open.spotify.com/track/4k8mRCn0WBVlPXqmDWhEE4) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg) | [Go Punky](https://open.spotify.com/album/1WRDBet9S38sEgv1wQWh2u) | 2:27 | 2026-01-15 | 2026-02-13 |

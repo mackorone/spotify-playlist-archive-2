@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,266,585 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,266,633 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 19 | [Song For Hal](https://open.spotify.com/track/2VVWTCKDdJYxrF7TZtyUAH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 4:38 |
 | 20 | [Desire](https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 2:59 |
 | 21 | [City Of Blinding Lights](https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:45 |
-| 22 | [Song Of The Future](https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 3:55 |
+| 22 | [XXX\. FEAT\. U2.](https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:14 |
 | 23 | [Scars](https://open.spotify.com/track/5zAoWUlW6Te34M8n8d3VTy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 5:17 |
-| 24 | [XXX\. FEAT\. U2.](https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:14 |
+| 24 | [Song Of The Future](https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 3:55 |
 | 25 | [Elevation](https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:46 |
-| 26 | [Yours Eternally \(feat\. Ed Sheeran & Taras Topolia\)](https://open.spotify.com/track/0fFN4cjLBVaLbypb4aEXpQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taras Topolia](https://open.spotify.com/artist/30pQviUqhKT7G1okKEXX0B) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 4:26 |
+| 26 | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:05 |
 | 27 | [Resurrection Song](https://open.spotify.com/track/09QaPzjG6mCiiTrT9hlerp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Easter Lily EP](https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF) | 5:02 |
-| 28 | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:05 |
+| 28 | [Yours Eternally \(feat\. Ed Sheeran & Taras Topolia\)](https://open.spotify.com/track/0fFN4cjLBVaLbypb4aEXpQ) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taras Topolia](https://open.spotify.com/artist/30pQviUqhKT7G1okKEXX0B) | [Days Of Ash EP](https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT) | 4:26 |
 | 29 | [Take Me To The Clouds Above \- LMC Vs\. U2 / Radio Edit](https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM) | [LMC](https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Take Me To The Clouds Above \(LMC Vs\. U2 / Remixes\)](https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC) | 2:51 |
 | 30 | [Bad \- Edit](https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 5:49 |
 | 31 | [When Love Comes To Town](https://open.spotify.com/track/2cpUudtTX7OU6DcoNTuxwB) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 4:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 49 | [One Tree Hill \- Remastered 2007](https://open.spotify.com/track/7JFMf61pdg8H8NEMgxdHYx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:22 |
 | 50 | [Lemon](https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 6:56 |
 
-Snapshot ID: `ahY0AAAAAADxlXhvgOLQIzcGKGeF3/if`
+Snapshot ID: `aheFgAAAAABZluDe+Wqw6Uq8uo+fAGu7`

@@ -4,7 +4,7 @@
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-138 songs - 8 hr 21 min
+139 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Inverno](https://open.spotify.com/track/0yzMbAtm2RKslDyKNkOViZ) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Oxigênio \(Corona Disco\)](https://open.spotify.com/album/7K4Sn0GxfcQnlcV46ZOaT2) | 4:00 | 2023-12-30 |  |
 | [Jurei Part 2](https://open.spotify.com/track/1r7a50jC6ztmKBsHexhDqc) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Barromeo](https://open.spotify.com/artist/2f6SGZWJaB1JFHOTuYJJci) | [Jurei Part 2](https://open.spotify.com/album/1rFSdmt0U74X5r6UBm4tnK) | 2:47 | 2025-11-09 | 2026-01-15 |
 | [Jurei Part 2](https://open.spotify.com/track/3fo02a4N9F1Dt8FCZLjp2j) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Barromeo](https://open.spotify.com/artist/2f6SGZWJaB1JFHOTuYJJci) | [Jurei Part 2](https://open.spotify.com/album/28ZE8Fgm0ktyY8VVSqgR5n) | 2:47 | 2026-01-15 | 2026-03-29 |
-| [Jurei/Odin](https://open.spotify.com/track/1Zd1T3T45QW6Pv8U0l0uPT) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Colírio da Cólera](https://open.spotify.com/album/0N9FuUX9s8kpPuTOxtq0kt) | 3:22 | 2023-12-30 |  |
+| [Jurei/Odin](https://open.spotify.com/track/1Zd1T3T45QW6Pv8U0l0uPT) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Colírio da Cólera](https://open.spotify.com/album/0N9FuUX9s8kpPuTOxtq0kt) | 3:22 | 2023-12-30 | 2026-05-30 |
+| [Jurei/Odin](https://open.spotify.com/track/1hpujZfaZr8hikiiYaEFjs) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Colírio da Cólera](https://open.spotify.com/album/2PmgQahqFIrluuyIu9xHEW) | 3:22 | 2026-05-30 |  |
 | [Krabi](https://open.spotify.com/track/5GGnuusI42nqwYuttQGgA1) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Krabi](https://open.spotify.com/album/3woSsuG4bG70Ismb03ZkKR) | 3:54 | 2024-11-25 |  |
 | [Lago Transparente](https://open.spotify.com/track/5YGsqIIwkPF8IbXNqFwaPt) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [Lago Transparente](https://open.spotify.com/album/0zfPyGTovFa0ZForEwBxAi) | 2:14 | 2024-03-02 | 2024-10-28 |
 | [Lambada](https://open.spotify.com/track/0mVt6wggA6Y9XuGpCVfVzE) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Sol](https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo) | 3:47 | 2023-12-30 | 2024-03-10 |

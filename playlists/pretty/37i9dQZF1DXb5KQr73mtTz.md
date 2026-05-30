@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,868 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,869 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 32 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 |
 | 33 | [I’m Still Into You \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/3lDNvWzBnY6U8TkYefo7Zs) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Would You Marry Me?, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5hZd82eDAI9iU8xOrY29Rw) | 3:25 |
 | 34 | [How have you been](https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:30 |
-| 35 | [Not have the heart](https://open.spotify.com/track/3WyRDXiYA12QiwXvp1Rt09) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [Not have the heart](https://open.spotify.com/album/0lvvpF7rMonjCB9xSVWKVV) | 4:28 |
-| 36 | [Empty](https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Empty](https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO) | 3:38 |
+| 35 | [Empty](https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Empty](https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO) | 3:38 |
+| 36 | [Not have the heart](https://open.spotify.com/track/3WyRDXiYA12QiwXvp1Rt09) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [Not have the heart](https://open.spotify.com/album/0lvvpF7rMonjCB9xSVWKVV) | 4:28 |
 | 37 | [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 |
 | 38 | [Always You](https://open.spotify.com/track/44YjvQqYO17jk0VeTY1LKe) | [Kim Won Joo](https://open.spotify.com/artist/047yOGiAm4YzgP6lgzxD0D) | [Always You \(Original Soundtrack from Recipe for Love, Pt\. 6\)](https://open.spotify.com/album/6X7eCHmm5pYJbbKn1ETnnP) | 3:44 |
 | 39 | [You Ruined Me](https://open.spotify.com/track/5G9yKd2KszcMMK6FaXnzq1) | [Sojung](https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP) | [You Ruined Me](https://open.spotify.com/album/7twWecwz0kjiceI9rLbFzk) | 3:39 |

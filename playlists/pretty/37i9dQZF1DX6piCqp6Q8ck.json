@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 202143,
+  "num_followers": 202128,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,22 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 158253,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/14QJl6TD0xnKl26NkTVez2"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
         "name": "Louis Wishes You a Cool Yule",
         "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 176699,
       "name": "Cool Yule",
       "url": "https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
-        "name": "Ultimate Christmas",
-        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 158253,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/14QJl6TD0xnKl26NkTVez2"
     },
     {
       "added_at": "2025-12-19 14:06:32",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
-        "name": "Holiday Plans",
-        "url": "https://open.spotify.com/album/7kqkOOHq4IlZ5x1htvx8fL"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 167546,
-      "name": "Holiday Plans",
-      "url": "https://open.spotify.com/track/3scP71lzyrGFu98Qi1tPwD"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
         "name": "Bing Crosby - Christmas Classics",
         "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 135760,
       "name": "Rudolph The Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/0XUARKkBvikXDEjSzdkWFP"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
+        "name": "Holiday Plans",
+        "url": "https://open.spotify.com/album/7kqkOOHq4IlZ5x1htvx8fL"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 167546,
+      "name": "Holiday Plans",
+      "url": "https://open.spotify.com/track/3scP71lzyrGFu98Qi1tPwD"
     },
     {
       "added_at": "2025-12-19 14:06:32",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
-        "name": "Perfect Time of Year",
-        "url": "https://open.spotify.com/album/5mx9avVIm8VDmOwwOjmN9y"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 206816,
-      "name": "Perfect Time Of Year",
-      "url": "https://open.spotify.com/track/5UI0toFLwTpXiWoN4AWi7p"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
         "name": "Wake Up It's Christmas",
         "url": "https://open.spotify.com/album/3Tvx6q5RXXpio14c8XvmUP"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 211985,
       "name": "Wake Up It's Christmas",
       "url": "https://open.spotify.com/track/6z5z0g5iouMvwYmhzsmAqI"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
+        "name": "Perfect Time of Year",
+        "url": "https://open.spotify.com/album/5mx9avVIm8VDmOwwOjmN9y"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 206816,
+      "name": "Perfect Time Of Year",
+      "url": "https://open.spotify.com/track/5UI0toFLwTpXiWoN4AWi7p"
     },
     {
       "added_at": "2025-12-19 14:06:32",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
+        "name": "Little Saint Nick",
+        "url": "https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "duration_ms": 215276,
+      "name": "Little Saint Nick",
+      "url": "https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4v2byuh7XMZGBrYjH3XnBx"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 152973,
       "name": "Dig That Crazy Santa Claus",
       "url": "https://open.spotify.com/track/4O5E6N6uBTIydv9A3eQD4k"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
-        "name": "Little Saint Nick",
-        "url": "https://open.spotify.com/album/2O4ORdButEzDMcODSjzCJw"
-      },
-      "artists": [
-        {
-          "name": "Matt Dusk",
-          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
-        }
-      ],
-      "duration_ms": 215276,
-      "name": "Little Saint Nick",
-      "url": "https://open.spotify.com/track/3P6tmwGm7rkztBLjgQ6A7F"
     },
     {
       "added_at": "2025-12-19 14:06:32",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
-        "name": "Crescent City Christmas Card",
-        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Hark! The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
         "name": "Rudolph, the Red-Nosed Reindeer",
         "url": "https://open.spotify.com/album/6lal9JhZK4ctetNcVb4OJK"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 156200,
       "name": "Rudolph, the Red-Nosed Reindeer",
       "url": "https://open.spotify.com/track/0QnznO6imspkpxHFY1c34b"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/0xKTdKwBalLkjGh5wKfGaD"
     },
     {
       "added_at": "2025-12-19 14:06:32",
@@ -775,6 +775,58 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
+        "name": "Pretty/Groovy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker Quartet",
+          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
+        },
+        {
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Winter Wonderland - 78 Take",
+      "url": "https://open.spotify.com/track/27gwp5yTiJQWxK1ay5w2T0"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
+        "name": "Holiday For Swing!",
+        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "Mele Kalikimaka",
+      "url": "https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
+        "name": "Yule Be Miserable",
+        "url": "https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY"
+      },
+      "artists": [
+        {
+          "name": "Eric Scott Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
         "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
         "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
       },
@@ -803,58 +855,6 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
-        "name": "Holiday For Swing!",
-        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "Mele Kalikimaka",
-      "url": "https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
-        "name": "Pretty/Groovy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2ne69wnZ79HpZDBS8Zc1XJ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker Quartet",
-          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
-        },
-        {
-          "name": "Russ Freeman",
-          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Winter Wonderland - 78 Take",
-      "url": "https://open.spotify.com/track/27gwp5yTiJQWxK1ay5w2T0"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
-        "name": "Yule Be Miserable",
-        "url": "https://open.spotify.com/album/072uKkYkhEsK8Dv6BIDCGY"
-      },
-      "artists": [
-        {
-          "name": "Eric Scott Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/55EWToZszoZA6QDRPSNjqq"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK"
       },
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 208026,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/0d6akjLICicFPbTghnJkFP"
+      "duration_ms": 203573,
+      "name": "What a Night!",
+      "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
     },
     {
       "added_at": "2025-12-19 14:06:32",
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 203573,
-      "name": "What a Night!",
-      "url": "https://open.spotify.com/track/0e8bZUPEAGoWjsys4SapXu"
+      "duration_ms": 208026,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/0d6akjLICicFPbTghnJkFP"
     },
     {
       "added_at": "2025-12-19 14:06:32",

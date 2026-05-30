@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319761,
+  "num_followers": 319758,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -351,26 +351,6 @@
     {
       "added_at": "2026-05-22 03:01:24",
       "album": {
-        "name": "S",
-        "url": "https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 211451,
-      "name": "Ser",
-      "url": "https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9"
-    },
-    {
-      "added_at": "2026-05-22 03:01:24",
-      "album": {
         "name": "Talvez N\u00e3o Seja",
         "url": "https://open.spotify.com/album/7FZk0HuDvDv6cBO8HC5AHQ"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 130169,
       "name": "Talvez N\u00e3o Seja",
       "url": "https://open.spotify.com/track/5mtEGUGPJwDHgo92pHY3Tu"
+    },
+    {
+      "added_at": "2026-05-22 03:01:24",
+      "album": {
+        "name": "S",
+        "url": "https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 211451,
+      "name": "Ser",
+      "url": "https://open.spotify.com/track/5fPop0vfmloMnDXZuYltB9"
     },
     {
       "added_at": "2026-05-22 03:01:24",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-05-22 03:01:24",
       "album": {
+        "name": "Dissolu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
+      },
+      "artists": [
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 142640,
+      "name": "Fica na mesma",
+      "url": "https://open.spotify.com/track/3RBdM6NSJR3qbpNiyaLvXQ"
+    },
+    {
+      "added_at": "2026-05-22 03:01:24",
+      "album": {
         "name": "Sexflix",
         "url": "https://open.spotify.com/album/01FZhEDVPRXK8LnLRrkNYJ"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 155789,
       "name": "De Manh\u00e3",
       "url": "https://open.spotify.com/track/7qrObZooLB7H3QWYTLyvqG"
-    },
-    {
-      "added_at": "2026-05-22 03:01:24",
-      "album": {
-        "name": "Dissolu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 142640,
-      "name": "Fica na mesma",
-      "url": "https://open.spotify.com/track/3RBdM6NSJR3qbpNiyaLvXQ"
     },
     {
       "added_at": "2026-05-22 03:01:24",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-05-22 03:01:24",
       "album": {
+        "name": "Paga pra Ver",
+        "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
+      },
+      "artists": [
+        {
+          "name": "Barretin",
+          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
+        }
+      ],
+      "duration_ms": 132571,
+      "name": "Paga pra Ver",
+      "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
+    },
+    {
+      "added_at": "2026-05-22 03:01:24",
+      "album": {
         "name": "Eu Te Entendo",
         "url": "https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 157437,
       "name": "Eu Te Entendo",
       "url": "https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W"
-    },
-    {
-      "added_at": "2026-05-22 03:01:24",
-      "album": {
-        "name": "Paga pra Ver",
-        "url": "https://open.spotify.com/album/0fonDUXSKIm4rFSH3lCST8"
-      },
-      "artists": [
-        {
-          "name": "Barretin",
-          "url": "https://open.spotify.com/artist/12UTl00Nf8KIwZuk75n6Hw"
-        }
-      ],
-      "duration_ms": 132571,
-      "name": "Paga pra Ver",
-      "url": "https://open.spotify.com/track/5DwKnpHXGRpoGjkw4f3cVD"
     },
     {
       "added_at": "2026-05-22 03:01:24",

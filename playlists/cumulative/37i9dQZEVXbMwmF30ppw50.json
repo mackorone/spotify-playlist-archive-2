@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 183500,
       "name": "2 Hard 4 The Radio",
       "url": "https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 137647,
       "name": "B's On The Table (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4ygJHbpMGwZknVFaRikdFr"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 225990,
       "name": "Burning Bridges",
       "url": "https://open.spotify.com/track/1ijYk2EYwj0rGqYwtjiAUJ"
@@ -764,7 +764,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 245565,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 258816,
       "name": "Dreams - 2001 Remaster",
       "url": "https://open.spotify.com/track/53qkszfgztIvkFyF31GfdQ"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 189217,
       "name": "Dust",
       "url": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
@@ -1849,6 +1849,28 @@
     },
     {
       "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
+    },
+    {
+      "album": {
         "name": "FU & UF",
         "url": "https://open.spotify.com/album/6jcsn9AMkfslPTT3BVKQT1"
       },
@@ -2010,7 +2032,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 194376,
       "name": "Hit the Wall",
       "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
@@ -2224,7 +2246,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 212973,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN"
@@ -2340,7 +2362,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 176333,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
@@ -2466,7 +2488,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -2882,7 +2904,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -2990,7 +3012,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 307681,
       "name": "Make Them Cry",
       "url": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
@@ -3008,7 +3030,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 248285,
       "name": "Make Them Know",
       "url": "https://open.spotify.com/track/1xO3PpGchMqMmmF6OEtH5Y"
@@ -3026,7 +3048,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 301950,
       "name": "Make Them Pay",
       "url": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
@@ -3044,7 +3066,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 323712,
       "name": "Make Them Remember",
       "url": "https://open.spotify.com/track/73ycOMnODtUc2Ggj6EfCpO"
@@ -3438,7 +3460,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -3558,7 +3580,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 173986,
       "name": "One Dance",
       "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
@@ -3746,7 +3768,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 195678,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/3cLCA9LSb6UiOeNvTZoaav"
@@ -3924,7 +3946,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 247183,
       "name": "Ran To Atlanta (feat. Future & Molly Santana)",
       "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
@@ -4008,6 +4030,24 @@
       "duration_ms": 263373,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/2CqK5vwJHSe0ZHXryUAElT"
+    },
+    {
+      "album": {
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
     },
     {
       "album": {
@@ -4613,6 +4653,28 @@
     },
     {
       "album": {
+        "name": "Talk To You (ft. 54 Ultra)",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
+    },
+    {
+      "album": {
         "name": "Kiss All The Time. Disco, Occasionally.",
         "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
       },
@@ -4739,6 +4801,24 @@
     },
     {
       "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
@@ -4750,7 +4830,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -5118,7 +5198,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 194324,
       "name": "What Did I Miss?",
       "url": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
@@ -5260,7 +5340,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 222580,
       "name": "Whisper My Name",
       "url": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"

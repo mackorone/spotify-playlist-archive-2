@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 823326,
+  "num_followers": 823250,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 246345,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Sunday Best (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
-      },
-      "artists": [
-        {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
-        }
-      ],
-      "duration_ms": 150538,
-      "name": "Sunday Best - Acoustic Version",
-      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 172766,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Sunday Best (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "duration_ms": 150538,
+      "name": "Sunday Best - Acoustic Version",
+      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "I'm a Mess (Acoustic)",
-        "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 153094,
-      "name": "I'm a Mess - Acoustic",
-      "url": "https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Lose You To Love Me (Acoustic)",
         "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 254871,
       "name": "Lose You To Love Me - Acoustic",
       "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "I'm a Mess (Acoustic)",
+        "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 153094,
+      "name": "I'm a Mess - Acoustic",
+      "url": "https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Youngblood",
-        "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 232746,
-      "name": "Youngblood",
-      "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 183000,
       "name": "Promises",
       "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Youngblood",
+        "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "Youngblood",
+      "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Dancing With A Stranger",
+        "url": "https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 188735,
+      "name": "Dancing With A Stranger",
+      "url": "https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Mi Gente (Acoustic)",
         "url": "https://open.spotify.com/album/6ygBeTx54rBIFb2YIkq5tj"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 160049,
       "name": "Mi Gente - Acoustic",
       "url": "https://open.spotify.com/track/1ci9VbZkSxkWmWkD5xGurr"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Dancing With A Stranger",
-        "url": "https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 188735,
-      "name": "Dancing With A Stranger",
-      "url": "https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "I Love You Madly EP",
-        "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
-      },
-      "artists": [
-        {
-          "name": "Irene Diaz",
-          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "One Kiss",
         "url": "https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll"
       },
@@ -1487,6 +1471,38 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "I Love You Madly EP",
+        "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
+      },
+      "artists": [
+        {
+          "name": "Irene Diaz",
+          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "bad guy",
+        "url": "https://open.spotify.com/album/4xlIel4QH7bFcZ6SrwF6Ix"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 185544,
+      "name": "bad guy",
+      "url": "https://open.spotify.com/track/2tdpkp9zFJiICyTY9gQefh"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "La Marelle / Amarelinha",
         "url": "https://open.spotify.com/album/1t4vYRP6ixdTgwqPPKcO3d"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 182680,
       "name": "La Marelle / Amarelinha",
       "url": "https://open.spotify.com/track/1oG2c7ESFQxoHlh1jqBfmM"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "bad guy",
-        "url": "https://open.spotify.com/album/4xlIel4QH7bFcZ6SrwF6Ix"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 185544,
-      "name": "bad guy",
-      "url": "https://open.spotify.com/track/2tdpkp9zFJiICyTY9gQefh"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Tuyo",
-        "url": "https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "Tuyo",
-      "url": "https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "New Rules",
         "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
       },
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Giant",
-        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
+        "name": "Tuyo",
+        "url": "https://open.spotify.com/album/3mDDCVW05KfueAZr2GbZFV"
       },
       "artists": [
         {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
         }
       ],
-      "duration_ms": 179510,
-      "name": "Giant",
-      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
+      "duration_ms": 181733,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/1SsXzDNEMxcdQgodjAL1eZ"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1703,6 +1687,22 @@
       "duration_ms": 182118,
       "name": "Intentions",
       "url": "https://open.spotify.com/track/7vLdOWuzXqsT3B85TsQSow"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Giant",
+        "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 179510,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Covers EP",
-        "url": "https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q"
-      },
-      "artists": [
-        {
-          "name": "The Lidls",
-          "url": "https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE"
-        }
-      ],
-      "duration_ms": 192168,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Feel It Still",
         "url": "https://open.spotify.com/album/4mKLfq3Pt14FKoVyBiKvYu"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 195655,
       "name": "Feel It Still",
       "url": "https://open.spotify.com/track/3Nwc1QErurM59nOfVMRRtA"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Covers EP",
+        "url": "https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q"
+      },
+      "artists": [
+        {
+          "name": "The Lidls",
+          "url": "https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE"
+        }
+      ],
+      "duration_ms": 192168,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Field Notes",
-        "url": "https://open.spotify.com/album/7gUs6NF3izcZI6J5hw7nDh"
-      },
-      "artists": [
-        {
-          "name": "Ley Line",
-          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "Arueira Mata",
-      "url": "https://open.spotify.com/track/4pfiirejtPup2SaslK9B5e"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Ocean Eyes",
         "url": "https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 178143,
       "name": "Ocean Eyes",
       "url": "https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Field Notes",
+        "url": "https://open.spotify.com/album/7gUs6NF3izcZI6J5hw7nDh"
+      },
+      "artists": [
+        {
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Arueira Mata",
+      "url": "https://open.spotify.com/track/4pfiirejtPup2SaslK9B5e"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Two Lives EP",
-        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 167892,
-      "name": "Is It Real - Acoustic",
-      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Medicine (Acoustic)",
         "url": "https://open.spotify.com/album/2wncDDW5aUdRDOc8p610cJ"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 262269,
       "name": "Medicine - Acoustic",
       "url": "https://open.spotify.com/track/7iLlwpist1NrZq3PU9EXF1"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Two Lives EP",
+        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 167892,
+      "name": "Is It Real - Acoustic",
+      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2487,22 +2487,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Levels",
-        "url": "https://open.spotify.com/album/4TVIuPOjE8jcK8HC1ZOns1"
-      },
-      "artists": [
-        {
-          "name": "Gus Cleese",
-          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
-        }
-      ],
-      "duration_ms": 110277,
-      "name": "Levels",
-      "url": "https://open.spotify.com/track/6gYPsMW8H6ReOqo2BWxWoZ"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Confession",
         "url": "https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x"
       },
@@ -2515,6 +2499,22 @@
       "duration_ms": 249469,
       "name": "Confession",
       "url": "https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/4TVIuPOjE8jcK8HC1ZOns1"
+      },
+      "artists": [
+        {
+          "name": "Gus Cleese",
+          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
+        }
+      ],
+      "duration_ms": 110277,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/6gYPsMW8H6ReOqo2BWxWoZ"
     }
   ],
   "unique_name": "Caf\u00e9, Libros.",

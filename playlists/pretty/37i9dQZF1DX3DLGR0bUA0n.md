@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Arkangel Musical de Tierra Caliente en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,673 likes - 125 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,721 likes - 125 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 64 | [Se Termino Lo Nuestro](https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Somos Mas Americanos](https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT) | 3:30 |
 | 65 | [El Albanil](https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG) | [Raza Obrera](https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF) | [Rolonononas Pa la Raza](https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy) | 2:57 |
 | 66 | [Con Cartitas y Palabras](https://open.spotify.com/track/024Nm8inQ2UIzLnBRfQoMR) | [Gabino y su Banda Chica](https://open.spotify.com/artist/3u2c7b1mAhzhEkyY0n2MYd) | [Con Cartitas y Palabras](https://open.spotify.com/album/1apdrvUnCsIiDCmvcmK8RM) | 2:25 |
-| 67 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [Made in Michoacan](https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf) | 3:44 |
-| 68 | [Conchita Del Mar](https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Los Huaches Vip 2015](https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF) | 3:08 |
+| 67 | [Conchita Del Mar](https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Los Huaches Vip 2015](https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF) | 3:08 |
+| 68 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [Made in Michoacan](https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf) | 3:44 |
 | 69 | [Mujer, Mujer](https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:21 |
-| 70 | [El Rey Pobre](https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU) | [De California Te Escribo](https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX) | 3:32 |
-| 71 | [30 Cartas](https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Para Que Vuelves](https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY) | 2:12 |
+| 70 | [30 Cartas](https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Para Que Vuelves](https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY) | 2:12 |
+| 71 | [El Rey Pobre](https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt) | [Raul Garcia Y Su Grupo Kabildo](https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU) | [De California Te Escribo](https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX) | 3:32 |
 | 72 | [Mi Ranchito](https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Lloviendo Estrellas](https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA) | 2:38 |
 | 73 | [Preso Me Llevan](https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm) | [Martin Solis Y Su Grupo Inborrable](https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB) | [20 Exitos de Ley \(Serie de Colección\)](https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA) | 3:28 |
 | 74 | [Será Mi Castigo / La Silla Vacía / Somos Ajenos \(En Vivo\)](https://open.spotify.com/track/3cOKczNlW5tZp8BfDnsInE) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Los De Tierra Caliente \(En Vivo\)](https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL) | 9:40 |

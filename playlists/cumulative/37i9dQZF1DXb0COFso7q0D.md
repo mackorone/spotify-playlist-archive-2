@@ -2,9 +2,9 @@
 
 ### [Los Que Mandan \- Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> La playlist sin fronteras, elevando a la Música Mexicana\. Cover: Xavi
+> La playlist sin fronteras, elevando a la Música Mexicana\. Cover: Tito Double P
 
-1,139 songs - 2 day 10 hr 31 min
+1,142 songs - 2 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 | 2021-12-21 | 2022-05-07 |
 | [Desde Morro](https://open.spotify.com/track/5u6lAvdS8mmHHTHQlC3TtN) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Desde Morro](https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS) | 2:26 | 2022-01-28 | 2022-05-20 |
 | [Desde Que La Vi](https://open.spotify.com/track/2yvIZ52EKT3kNAwzKj292i) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [emmanuellcortess\_](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Desde Que La Vi](https://open.spotify.com/album/0mfQ214VTepNIL0IKFMG64) | 2:48 | 2025-06-27 | 2025-07-12 |
+| [Desde Que Te Tengo](https://open.spotify.com/track/27aIkG6qb03S40uNAorXkM) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 3:46 | 2026-05-29 |  |
 | [Despegando](https://open.spotify.com/track/64BxJ8fgZqbvwBRd61GR5e) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Despegando](https://open.spotify.com/album/1hDIGpaWmoexjnFxmLeacy) | 2:44 | 2026-04-03 | 2026-05-09 |
 | [Después del Show](https://open.spotify.com/track/0Ry3P1f5h0B6SqFdIhta2J) | [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Después del Show](https://open.spotify.com/album/52tCGnjcDVvOQjWZQWCWhx) | 3:08 | 2026-03-24 | 2026-05-02 |
 | [Despídase bien](https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:51 | 2024-05-31 | 2024-07-27 |
@@ -650,6 +651,7 @@
 | [Me Rendí](https://open.spotify.com/track/4SdLUkVGNUm2gNF7YQdhY1) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Me Rendí](https://open.spotify.com/album/6hVo9wZ2AAyh9nDnzU86E6) | 3:40 | 2022-10-14 | 2022-12-24 |
 | [Me Retiro](https://open.spotify.com/track/0iWO3A7RCIFZvLvVfIOW4h) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me Retiro](https://open.spotify.com/album/4e54zPQ8pqXkFHTKL7xLVj) | 4:08 | 2025-05-30 | 2025-06-14 |
 | [Me Tocó Morir](https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:24 | 2022-12-30 | 2023-03-04 |
+| [ME VALE V](https://open.spotify.com/track/7HuGsvzf9aYQXmXS3a0Fd3) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [ACOMODO](https://open.spotify.com/album/18ZBkv7H9aGiDhHVWeuuKv) | 3:06 | 2026-05-29 |  |
 | [Mejor Acabar](https://open.spotify.com/track/4F6gv9MgsuWt7j2GXhWzSd) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 3:49 | 2023-04-28 | 2023-05-20 |
 | [Mejores Jordans](https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mejores Jordans](https://open.spotify.com/album/6gK267rs4q9swdpzj79Roz) | 3:54 | 2024-08-02 | 2024-12-07 |
 | [Mentira No Es](https://open.spotify.com/track/6cmZSeILXKvgFRpUcDGQHZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mentira No Es](https://open.spotify.com/album/6Eb0XXaJ6oEVPclUXz1kz9) | 3:20 | 2023-04-14 | 2023-08-05 |
@@ -858,6 +860,7 @@
 | [QPTP](https://open.spotify.com/track/4QwuMUb4t18E83ZbDAEdQV) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [QPTP](https://open.spotify.com/album/18dwo21fkS7TglV0L9lF6r) | 2:29 | 2024-05-31 | 2024-06-29 |
 | [Que Digan Lo Que Digan](https://open.spotify.com/track/0ZgWkCML3yoVANOBbSVKzl) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Que Digan Lo Que Digan](https://open.spotify.com/album/4cBBdOIxQQXmOtuXpjKLWl) | 2:52 | 2022-04-29 | 2022-05-28 |
 | [Que Emoción](https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [TRAVESÍA](https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv) | 3:36 | 2025-08-29 | 2025-12-06 |
+| [Que Gacho](https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Que Gacho](https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i) | 3:13 | 2026-05-29 |  |
 | [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 | 2023-09-05 | 2024-04-06 |
 | [Que Pedo](https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Que Pedo](https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy) | 3:14 | 2025-01-24 | 2025-05-31 |
 | [Que Se Cuide](https://open.spotify.com/track/22jhscHs2DoVqKG5vKJytQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Que Se Cuide](https://open.spotify.com/album/2iV4iuAjlRH64jpIofjtkz) | 2:35 | 2024-05-10 | 2024-08-08 |

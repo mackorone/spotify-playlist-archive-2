@@ -1,64 +1,44 @@
 {
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Dayanara",
-  "num_followers": 476442,
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Jay Wheeler",
+  "num_followers": 476436,
   "original_name": "Punto Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMmxY+Jv6wLouqywhwgbjd5EPrT1",
+  "snapshot_id": "AAAAAF91km7eChasDC+CfRg/x3tGxHsW",
   "tracks": [
     {
-      "added_at": "2026-05-15 04:59:16",
+      "added_at": "2026-05-29 04:59:20",
       "album": {
-        "name": "TERAPIA",
-        "url": "https://open.spotify.com/album/5vGmuVlclYBaBDZNDyBv9h"
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
       },
       "artists": [
         {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 156756,
-      "name": "Me Voy de Ti (La Cumbia)",
-      "url": "https://open.spotify.com/track/0DEZyg3nBtld8gNMYu7fSX"
+      "duration_ms": 282216,
+      "name": "Rubio",
+      "url": "https://open.spotify.com/track/1koGYZiLV7pcmxT2FF8LNw"
     },
     {
-      "added_at": "2026-03-26 19:01:46",
+      "added_at": "2026-03-18 21:06:55",
       "album": {
-        "name": "El Pacto",
-        "url": "https://open.spotify.com/album/5z91VerhktfjoCowldQlno"
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
       },
       "artists": [
         {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 172997,
-      "name": "El Pacto",
-      "url": "https://open.spotify.com/track/0tUJwCdSzXzHJaarIEm5pN"
-    },
-    {
-      "added_at": "2026-05-01 04:59:35",
-      "album": {
-        "name": "El \u00daltimo Disco Vol. 1",
-        "url": "https://open.spotify.com/album/5AxmSsnsKHfxZeTU2n1vOk"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 152711,
-      "name": "Tuyo y Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/45mOAFri9j18zW3PbJvJ19"
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
       "added_at": "2026-04-10 04:59:28",
@@ -81,20 +61,56 @@
       "url": "https://open.spotify.com/track/4L9l8YzYwmGl70RqFhb23B"
     },
     {
-      "added_at": "2026-03-18 21:06:55",
+      "added_at": "2026-03-26 19:01:46",
       "album": {
-        "name": "Quiero +",
-        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+        "name": "El Pacto",
+        "url": "https://open.spotify.com/album/5z91VerhktfjoCowldQlno"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+      "duration_ms": 172997,
+      "name": "El Pacto",
+      "url": "https://open.spotify.com/track/0tUJwCdSzXzHJaarIEm5pN"
+    },
+    {
+      "added_at": "2026-05-15 04:59:16",
+      "album": {
+        "name": "TERAPIA",
+        "url": "https://open.spotify.com/album/5vGmuVlclYBaBDZNDyBv9h"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        }
+      ],
+      "duration_ms": 156756,
+      "name": "Me Voy de Ti (La Cumbia)",
+      "url": "https://open.spotify.com/track/0DEZyg3nBtld8gNMYu7fSX"
+    },
+    {
+      "added_at": "2026-05-01 04:59:35",
+      "album": {
+        "name": "El \u00daltimo Disco Vol. 1",
+        "url": "https://open.spotify.com/album/5AxmSsnsKHfxZeTU2n1vOk"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 152711,
+      "name": "Tuyo y Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/45mOAFri9j18zW3PbJvJ19"
     },
     {
       "added_at": "2026-03-18 21:06:55",
@@ -113,24 +129,40 @@
       "url": "https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3"
     },
     {
-      "added_at": "2026-04-17 04:59:28",
+      "added_at": "2026-05-29 04:59:20",
       "album": {
-        "name": "Perderme Contigo (Salsa)",
-        "url": "https://open.spotify.com/album/2GQKMuvz459uu6uyuaA6Aa"
+        "name": "MENOS EL CORA",
+        "url": "https://open.spotify.com/album/3ggwOSfz4pqKjwiENI5o0D"
       },
       "artists": [
         {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         },
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 215151,
-      "name": "Perderme Contigo (Salsa)",
-      "url": "https://open.spotify.com/track/0yC19LEuEQPjxmyXcG1DL2"
+      "duration_ms": 210000,
+      "name": "MENOS EL CORA",
+      "url": "https://open.spotify.com/track/4tNvWqucaZTrdp5ZmAsGhv"
+    },
+    {
+      "added_at": "2025-12-19 04:59:16",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Dios Es Un Stalker",
+      "url": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
     },
     {
       "added_at": "2026-05-22 04:59:45",
@@ -245,6 +277,22 @@
       "url": "https://open.spotify.com/track/3dPIfDTr5VbhGAJmL8KiJt"
     },
     {
+      "added_at": "2026-05-29 15:34:58",
+      "album": {
+        "name": "X AMOR A MI",
+        "url": "https://open.spotify.com/album/6bE1rdpj4bKLOLK6rUlV9T"
+      },
+      "artists": [
+        {
+          "name": "Ana del Castillo",
+          "url": "https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7"
+        }
+      ],
+      "duration_ms": 196505,
+      "name": "T\u00fa Y Yo",
+      "url": "https://open.spotify.com/track/3IVqpHiPnmKXUbM4YUYuL7"
+    },
+    {
       "added_at": "2026-03-26 19:01:46",
       "album": {
         "name": "Te Dedico",
@@ -259,38 +307,6 @@
       "duration_ms": 225492,
       "name": "Te Dedico",
       "url": "https://open.spotify.com/track/1ZcdZQO5gzipPkjCxJ0uq6"
-    },
-    {
-      "added_at": "2025-12-19 04:59:16",
-      "album": {
-        "name": "M\u00daSICA PARA BAILAR",
-        "url": "https://open.spotify.com/album/551URKJBJFWFQi8FDrcjxY"
-      },
-      "artists": [
-        {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 174874,
-      "name": "Tal para cual",
-      "url": "https://open.spotify.com/track/2TrP7JUH7PHHaaqcKErHgF"
-    },
-    {
-      "added_at": "2025-12-19 04:59:16",
-      "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Dios Es Un Stalker",
-      "url": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
     },
     {
       "added_at": "2026-05-15 04:59:16",
@@ -567,6 +583,26 @@
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": "2026-05-29 15:39:36",
+      "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 148200,
+      "name": "Solecito Ven\u00ed",
+      "url": "https://open.spotify.com/track/6Ue84aBdSKDtyA493wcVfD"
     },
     {
       "added_at": "2026-03-26 19:01:46",
@@ -1155,22 +1191,6 @@
       "duration_ms": 191209,
       "name": "Carita de Inocente",
       "url": "https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U"
-    },
-    {
-      "added_at": "2026-03-26 19:01:46",
-      "album": {
-        "name": "Cartas Sobre La Mesa",
-        "url": "https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 191081,
-      "name": "Cartas Sobre La Mesa",
-      "url": "https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew"
     },
     {
       "added_at": "2026-03-26 19:01:46",

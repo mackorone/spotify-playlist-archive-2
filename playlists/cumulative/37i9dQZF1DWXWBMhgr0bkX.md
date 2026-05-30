@@ -4,7 +4,7 @@
 
 > Emerging pop for every mood🫡 <br/>cover: Skye Newman
 
-1,202 songs - 2 day 13 hr 40 min
+1,203 songs - 2 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [change your mind](https://open.spotify.com/track/04lQFwjdfPF0BPM69a2z53) | [Lunar June](https://open.spotify.com/artist/3pEkJgB6pEHb3sqqP2CP7S) | [change your mind](https://open.spotify.com/album/2jxF199bJH2Nz4Oc2AWg1R) | 3:18 | 2025-07-31 | 2025-08-22 |
 | [charm bracelet](https://open.spotify.com/track/1VnJctj1fsfZFXeFkk4dVz) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [charm bracelet](https://open.spotify.com/album/7hIWydGtQ3uPp1Olv0m0yc) | 2:12 | 2025-03-07 | 2025-04-04 |
 | [Chase](https://open.spotify.com/track/1ScmNAFGfgyj5dgVwHQZuG) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Chase](https://open.spotify.com/album/0dAPfBYx3rL4C1sDbd4c70) | 2:47 | 2026-02-06 | 2026-03-06 |
+| [CHEAP STUFF](https://open.spotify.com/track/34u7cWNiFu4F8ap9ErrmyF) | [Nova May](https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs) | [CHEAP STUFF](https://open.spotify.com/album/5cClSBc3b864nvk9M5yef2) | 2:50 | 2026-05-29 |  |
 | [Cheap Talk](https://open.spotify.com/track/5UJje9nqxGDm1Pvb556quL) | [Baobei](https://open.spotify.com/artist/2Pj6Ot77F8iLP6H0QkXt1h) | [Sync / Cheap Talk](https://open.spotify.com/album/41tdBk5LOnrM2FhNKNiQ8b) | 2:25 | 2025-03-21 | 2025-04-11 |
 | [Check](https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check](https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW) | 2:45 | 2024-08-08 | 2024-11-09 |
 | [Cherry](https://open.spotify.com/track/2SRczTfqAaO7ad33C6SRi5) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Cherry](https://open.spotify.com/album/5bO7eQxHE5XihC8rkuImna) | 2:50 | 2025-09-18 | 2025-10-03 |
@@ -493,7 +494,7 @@
 | [Healing Out of Spite](https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Healing Out of Spite](https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX) | 3:48 | 2024-06-04 | 2024-09-13 |
 | [HEARD YOU CRY](https://open.spotify.com/track/7p58Izemdrh02bOQ5o3Lx0) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [HEARD YOU CRY](https://open.spotify.com/album/0YzfyD0IpXS269vSf9zjTF) | 3:37 | 2026-04-03 | 2026-04-24 |
 | [Heart a Home](https://open.spotify.com/track/4WpMtbjB3XBYOo2ZEhojj1) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Pivotal](https://open.spotify.com/album/5NBU8i7ZFGBlGbv9WaRMNq) | 3:01 | 2025-08-07 | 2025-08-15 |
-| [HEARTLESS DARLIN' !](https://open.spotify.com/track/1ZBt9NGhY81MeymOub5Y3A) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [HEARTLESS DARLIN' !](https://open.spotify.com/album/1GqrJXcxdKSSZ7GcJkLhmr) | 2:53 | 2026-04-16 |  |
+| [HEARTLESS DARLIN' !](https://open.spotify.com/track/1ZBt9NGhY81MeymOub5Y3A) | [Chrissi](https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt) | [HEARTLESS DARLIN' !](https://open.spotify.com/album/1GqrJXcxdKSSZ7GcJkLhmr) | 2:53 | 2026-04-16 | 2026-05-30 |
 | [Hearts Break and People Change](https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hearts Break and People Change](https://open.spotify.com/album/7jcAisouiCZza66ewku13M) | 3:29 | 2025-01-31 | 2025-03-08 |
 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 | 2024-06-04 | 2024-08-31 |
 | [Heaven on a Sunday](https://open.spotify.com/track/6jKFoS56qUFcjDM6UnorNt) | [Josephine Genais](https://open.spotify.com/artist/5cBxSvPitCMSPk1edMceKC) | [Heaven on a Sunday](https://open.spotify.com/album/0p9bElNdBZJGFKOc1ISZ0E) | 3:39 | 2025-09-18 | 2025-10-03 |
@@ -593,6 +594,7 @@
 | [in my body](https://open.spotify.com/track/50nUvAn8Aag64TnXbLRD8V) | [ieuan](https://open.spotify.com/artist/6t0xwGS4HEjHUuMIvRyKoh) | [in my body](https://open.spotify.com/album/0YvWSPlxT18oUjmLbchLex) | 3:40 | 2026-04-23 |  |
 | [In My Head](https://open.spotify.com/track/29QaOkFHNTo6ftbcEGGrwe) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [In My Head](https://open.spotify.com/album/2BGFa1PbKBnzJ4ondyeVH8) | 2:22 | 2025-06-12 | 2025-07-25 |
 | [In My Space](https://open.spotify.com/track/1xBtnSp5hNB20Da3YcvvfZ) | [romeinparis](https://open.spotify.com/artist/7McKMA1gQvGDNlpP0GjjPX) | [In My Space](https://open.spotify.com/album/3Ea8r0jEwTaLSygqGucRJs) | 2:43 | 2025-08-07 | 2025-09-05 |
+| [In Two](https://open.spotify.com/track/2chCyZz2DG5uRasGN40x28) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [She Won't Let Go](https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD) | 2:27 | 2026-05-28 |  |
 | [In Ur Head](https://open.spotify.com/track/2RDJdP8IxS0QcG1mOucbps) | [HIRA](https://open.spotify.com/artist/2rxiXXKdtR1e3ByeaGs7tv) | [In Ur Head](https://open.spotify.com/album/6SoMhkx6zza5omYrj4s7wG) | 2:33 | 2025-03-28 | 2025-04-18 |
 | [In Your Arms](https://open.spotify.com/track/0Q1GO03eIfLyvzOtpo6kT6) | [Miles Temp](https://open.spotify.com/artist/268gIHwMM6Mp2SG0CEZGuU) | [In Your Arms](https://open.spotify.com/album/38TVMlo5gi5j2yfX0pJQmL) | 2:30 | 2026-04-03 | 2026-05-08 |
 | [In Your Head](https://open.spotify.com/track/2xceOgYP6jcQ4aci4J17Jw) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [In Your Head](https://open.spotify.com/album/3hqQUj4B1togXhQXlQhmiv) | 2:31 | 2026-05-14 |  |
@@ -619,6 +621,7 @@
 | [Jessica](https://open.spotify.com/track/2zbXgzUFZL6xb8mX3h9Ozt) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB) | [Jessica](https://open.spotify.com/album/5elS4TnCtdBRdcM0Go6ezV) | 3:43 | 2026-02-20 | 2026-04-03 |
 | [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 | 2025-05-08 | 2025-06-06 |
 | [Jungle](https://open.spotify.com/track/614QOxGBDRK2qx8fCWnQxE) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Jungle](https://open.spotify.com/album/2LahAsMCOCcPOs3Xj6NDiS) | 2:40 | 2025-03-14 | 2025-04-04 |
+| [Just Drive](https://open.spotify.com/track/5iwphWPj9nuRL280ctmM88) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [The Duality of Girlhood](https://open.spotify.com/album/0NQSznYyz1Rv3b0CZ1v1WQ) | 2:47 | 2026-05-28 |  |
 | [JUST FRIENDS?](https://open.spotify.com/track/5UuX41K7fJC2mJaLDbmdns) | [dolphoe](https://open.spotify.com/artist/0Z37o7UvHfZrbW11TVrfDr) | [JUST FRIENDS?](https://open.spotify.com/album/5lQclnPqFCFvh1w4DYC7ha) | 1:50 | 2025-07-17 | 2025-08-22 |
 | [just how it goes](https://open.spotify.com/track/1hzsu3PeFiPFNFoHLvsKuk) | [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu) | [just how it goes](https://open.spotify.com/album/0t1OA1DepUepZMlGGppWBu) | 3:14 | 2025-03-07 | 2025-04-04 |
 | [Keep It Up](https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Keep It Up](https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL) | 2:36 | 2024-06-04 | 2024-11-09 |
@@ -1120,8 +1123,6 @@
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 | 2025-06-27 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-02-07 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-25 |
-| [Track 3](https://open.spotify.com/track/5iwphWPj9nuRL280ctmM88) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [The Duality of Girlhood](https://open.spotify.com/album/0NQSznYyz1Rv3b0CZ1v1WQ) | 0:00 | 2026-05-28 |  |
-| [Track 7](https://open.spotify.com/track/2chCyZz2DG5uRasGN40x28) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [She Won't Let Go](https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD) | 0:00 | 2026-05-28 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-04 | 2024-08-31 |
 | [tried everything](https://open.spotify.com/track/2Rw7rfyamcD0pHfhuHTgZp) | [ISABELLA](https://open.spotify.com/artist/5A4DUMbVKNqflzW5Dpa43Q), [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [tried everything](https://open.spotify.com/album/5sHPvxkTibczgvQVMEqV57) | 2:42 | 2026-04-30 |  |
 | [Trophy](https://open.spotify.com/track/54r9LQzaIxObTwYrD6u5pk) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Trophy](https://open.spotify.com/album/768Zf5FplAHg9Izsq1KB9Z) | 3:08 | 2026-01-02 | 2026-02-13 |

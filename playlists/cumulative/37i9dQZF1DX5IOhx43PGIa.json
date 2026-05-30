@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 181405,
       "name": "all the time",
       "url": "https://open.spotify.com/track/4vutJRXcCuNhYkKSYkyRit"
@@ -3826,7 +3826,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 173424,
       "name": "Charge It To The Game",
       "url": "https://open.spotify.com/track/56qMTbPy6yAI5sGSrFSMcU"
@@ -5778,7 +5778,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 209773,
       "name": "doll",
       "url": "https://open.spotify.com/track/6tM3TfDXxXWxb6ZACxO897"
@@ -9683,6 +9683,24 @@
     },
     {
       "album": {
+        "name": "HEAVEN'S ON FIRE",
+        "url": "https://open.spotify.com/album/3FDnXLTQpefJBBNuVTx8gO"
+      },
+      "artists": [
+        {
+          "name": "Johnny Huynh",
+          "url": "https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174374,
+      "name": "HEAVEN'S ON FIRE",
+      "url": "https://open.spotify.com/track/6gsppD0BgCxZl3gSA8rAIp"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yT5FrnQO9bsfaNOD7UygD"
       },
@@ -12735,6 +12753,24 @@
     },
     {
       "album": {
+        "name": "lao shi",
+        "url": "https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131440,
+      "name": "lao shi",
+      "url": "https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK"
+    },
+    {
+      "album": {
         "name": "LASSO THE MOON",
         "url": "https://open.spotify.com/album/2cNpkhvN6jixc7uEGj6kmp"
       },
@@ -13918,7 +13954,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 200997,
       "name": "Love, Bomb",
       "url": "https://open.spotify.com/track/2PxkSYg6pxRD63Ps9o1evA"
@@ -18176,6 +18212,24 @@
       "duration_ms": 99217,
       "name": "Regressa",
       "url": "https://open.spotify.com/track/1dlOr60VqwO8DIGn9TLeeu"
+    },
+    {
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/2CAqfURefaNTa30NzA3xTm"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/43qdfB0n3XkfpwASYPHB7J"
     },
     {
       "album": {
@@ -23750,6 +23804,24 @@
       "duration_ms": 200240,
       "name": "Underworld",
       "url": "https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X"
+    },
+    {
+      "album": {
+        "name": "CLOCKWORK",
+        "url": "https://open.spotify.com/album/5ge6f3ZhfoBJTGx3jgvviu"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227076,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/4KKsAcemcx5qBNVrxpaIGq"
     },
     {
       "album": {

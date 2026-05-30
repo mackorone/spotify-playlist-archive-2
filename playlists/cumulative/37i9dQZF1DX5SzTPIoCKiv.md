@@ -4,7 +4,7 @@
 
 > Recent hits from your favorite Christian Contemporary artists\.  Cover: Phil Wickham
 
-302 songs - 19 hr 38 min
+303 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [The Truth](https://open.spotify.com/track/7hEIWnAlHZSROV8CPiL3UN) | [Megan Woods](https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl) | [The Truth](https://open.spotify.com/album/0TuG9SXIiyZ2JkuqGVNMXd) | 3:42 | 2025-04-04 |  |
 | [Thomas](https://open.spotify.com/track/0shfwUlD0Jg4V0yK9gp1bK) | [Orphan No More Co](https://open.spotify.com/artist/7EYuj3Lwk6FkWeeIbXs87F) | [Thomas](https://open.spotify.com/album/6Yf84pj4mgmES0rGR6sdYI) | 3:49 | 2021-10-15 | 2022-07-27 |
 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 | 2021-10-15 | 2024-11-30 |
-| [To Save My Life](https://open.spotify.com/track/3ztqayRkNjhDgsJ3fKwu3P) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [My Foundation](https://open.spotify.com/album/5aHy0vrK4u7BtrGkUwMa0q) | 3:20 | 2024-06-21 |  |
+| [To Save My Life](https://open.spotify.com/track/3ztqayRkNjhDgsJ3fKwu3P) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [My Foundation](https://open.spotify.com/album/5aHy0vrK4u7BtrGkUwMa0q) | 3:20 | 2024-06-21 | 2026-05-30 |
 | [Turn It Over](https://open.spotify.com/track/0B8B1CtiX1UkfWmGV0aU7m) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Turn It Over](https://open.spotify.com/album/00FkHcVhwwIzxd6eACpatn) | 4:05 | 2021-10-15 | 2022-07-29 |
 | [Undeniable](https://open.spotify.com/track/5lnAvxx2pxIM9MRZUIhkl0) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Undeniable](https://open.spotify.com/album/7GE16Cn80c6fjePXMbq44z) | 3:14 | 2021-10-15 | 2022-06-11 |
 | [Undeniable Love](https://open.spotify.com/track/1PY6ayPtlQHWKBg6ZRPMTJ) | [Charlie Rey](https://open.spotify.com/artist/2ochL5YU5uC5AyXKZpOdoL) | [Undeniable Love](https://open.spotify.com/album/0z6Knrgg8vXGs2XDPkouJb) | 2:53 | 2021-10-15 | 2022-06-27 |
@@ -296,6 +296,7 @@
 | [What I'm Here For](https://open.spotify.com/track/60TDbRgxNauv2waKkBZ58q) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [What I’m Here For](https://open.spotify.com/album/0ScpOqmsdJuXH59oV92NgN) | 3:47 | 2021-10-15 | 2022-07-27 |
 | [When A Cowboy Prays \- with Cody Johnson](https://open.spotify.com/track/6c40Bt52lBQOEKgaJRPpHo) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [When A Cowboy Prays \(with Cody Johnson\)](https://open.spotify.com/album/0Zg3LS5rv9rbbK1uJwaBnn) | 3:57 | 2026-03-23 |  |
 | [When We Fall Apart \(feat\. Vince Gill & Amy Grant\)](https://open.spotify.com/track/3qY5XlO5nLbCZDy5BPtH6x) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [When We Fall Apart \(feat\. Vince Gill & Amy Grant\)](https://open.spotify.com/album/0LLTMDGcJwLdwN8SC3OLm7) | 4:26 | 2021-10-15 | 2022-07-29 |
+| [Where Would I Be](https://open.spotify.com/track/0H8B4yrZmLIYe7Rnjp0ip1) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [Where Would I Be](https://open.spotify.com/album/1odGIS0La1wGoyHwzgKBsI) | 3:12 | 2026-05-29 |  |
 | [Who Else \(Single Mix\)](https://open.spotify.com/track/16i9L55SPprkbqR0Z13c3C) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Who Else](https://open.spotify.com/album/77T5fBnTJSgDT0nHrUseTO) | 3:28 | 2021-10-15 | 2022-03-12 |
 | [Whole Heart \(Hold Me Now\) \- Live](https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 7:29 | 2021-10-15 | 2024-04-19 |
 | [Wholehearted](https://open.spotify.com/track/0hyP1FixDFPwp2BAmMntZd) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Wholehearted](https://open.spotify.com/album/6MCdxX1Ncd9P4V6za26n4J) | 3:02 | 2021-10-15 | 2024-06-22 |

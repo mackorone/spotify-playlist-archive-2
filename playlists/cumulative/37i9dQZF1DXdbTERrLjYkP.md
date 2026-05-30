@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Gabriela Bee
+> Discover the next wave of talent writing their own songs\. Cover: Hailey Picardi
 
-1,079 songs - 2 day 10 hr 10 min
+1,080 songs - 2 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Casual](https://open.spotify.com/track/1UTGAopFU1g7qoxTE8sE3D) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Casual](https://open.spotify.com/album/1AcoCd6oWIGkVJGH7HwxBt) | 3:52 | 2022-10-28 | 2022-12-24 |
 | [Cautiously Optimistic](https://open.spotify.com/track/5DnCw5nWO9DnDIAhn96gx2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Cautiously Optimistic](https://open.spotify.com/album/1YZQRY1Xu5FJZ6kaxaZXsD) | 2:25 | 2022-12-30 | 2023-06-24 |
 | [Chameleon](https://open.spotify.com/track/4bYL3lV43UcPlRRUDeRvdH) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Chameleon](https://open.spotify.com/album/0a1Ml3TKQuBrnlaRUoyqA1) | 3:37 | 2024-09-27 | 2025-04-12 |
+| [chaotic](https://open.spotify.com/track/1yqQANXMu1CgGTjHQewP6G) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [scars to prove it](https://open.spotify.com/album/73Sgh6sfNyy8ZA3RZLJmKS) | 3:14 | 2026-05-29 |  |
 | [charlie](https://open.spotify.com/track/1vrNgkZq9ot6Wf5KChXUBO) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [maybe i already am](https://open.spotify.com/album/3Pf6dUwqtNfPsFOn3Ua5bz) | 3:10 | 2024-09-06 | 2024-10-26 |
 | [Charlie](https://open.spotify.com/track/0TiQIfhHfhePbPqftW2bOM) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Charlie](https://open.spotify.com/album/0J1HrqxfTWwk4LxLT5f1kc) | 3:51 | 2022-10-14 | 2022-11-12 |
 | [cheap therapy](https://open.spotify.com/track/6oYl91cnhWSumFg2aOfPbJ) | [sorrycarlee](https://open.spotify.com/artist/3cq3B0vdnvlYzMWFnGoSjv) | [cheap therapy](https://open.spotify.com/album/3uUZ1pDrwY84V12tWaoYaK) | 2:39 | 2024-10-25 | 2025-04-05 |
@@ -413,7 +414,7 @@
 | [her](https://open.spotify.com/track/3gBF1gc9Fo6SatKWAOoGjY) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [inhale \- the complete story](https://open.spotify.com/album/4NyjSQ5VF9sSd39Jg2g3vz) | 3:45 | 2023-12-22 | 2024-08-17 |
 | [Hey Brother](https://open.spotify.com/track/7dNWl8ygkv1REyRuUPs42w) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Hey Brother](https://open.spotify.com/album/6CxOmEhnxKMaeOXRCfJ6IG) | 2:33 | 2022-01-14 | 2022-04-09 |
 | [Hey Ma](https://open.spotify.com/track/5TrhGhn9uOojpLeT35Qged) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Hey Ma](https://open.spotify.com/album/0QxqcLCbgMcfzzKFWdU1mi) | 4:00 | 2025-05-23 | 2025-07-05 |
-| [hide and seek](https://open.spotify.com/track/05VfUthfCJ34GsPQkQh8nD) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [hide and seek](https://open.spotify.com/album/6X2k0WqDwuRf4h1USksWTv) | 2:47 | 2026-04-24 |  |
+| [hide and seek](https://open.spotify.com/track/05VfUthfCJ34GsPQkQh8nD) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [hide and seek](https://open.spotify.com/album/6X2k0WqDwuRf4h1USksWTv) | 2:47 | 2026-04-24 | 2026-05-30 |
 | [Him, Hymn](https://open.spotify.com/track/0AY5m5iHpv1kTipKWy1e2Z) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/2sJ2RM2sLmX8dljByalVSg) | 4:04 | 2022-10-14 | 2022-12-24 |
 | [Him, Hymn](https://open.spotify.com/track/71ooa3dfqRXgrAUm5urSZa) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/3mDWrmdvSYp2UU4Qv2A1Fk) | 4:04 | 2022-10-14 | 2022-10-16 |
 | [His LA Girl](https://open.spotify.com/track/5wA2hUAniDVKkcyhnY1IKs) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [His LA Girl](https://open.spotify.com/album/5ZmQqhcyWuVecfOSqpf5rY) | 4:46 | 2025-06-13 | 2025-09-27 |

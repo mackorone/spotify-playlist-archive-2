@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-951 songs - 2 day 0 hr 54 min
+952 songs - 2 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/track/3cqAMw4w9px9nAV6iROr0a) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Crush \(feat\. Jorja Smith\)](https://open.spotify.com/album/6NwDHbB35rZjIQsRPSkaF5) | 3:18 | 2025-02-21 | 2026-01-23 |
 | [CRYBABY](https://open.spotify.com/track/5QQjJDCm7zlNZ4DwzHRzHv) | [Tolani](https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds) | [CRYBABY](https://open.spotify.com/album/4umlxMAT72AjjRpsb0D5p5) | 2:23 | 2024-09-06 | 2024-10-13 |
 | [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 | 2023-05-04 | 2023-05-20 |
-| [Cut You Off](https://open.spotify.com/track/7olSeEjcLypVdWRrDD7Uap) | [Solo Sae](https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU) | [Kill with Kindness](https://open.spotify.com/album/0AjgrGHWPcV3DjFbKUsQvz) | 2:37 | 2026-05-25 |  |
+| [Cut You Off](https://open.spotify.com/track/7olSeEjcLypVdWRrDD7Uap) | [Solo Sae](https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU) | [Kill with Kindness](https://open.spotify.com/album/0AjgrGHWPcV3DjFbKUsQvz) | 2:37 | 2026-05-25 | 2026-05-30 |
 | [D O D O \- Adekunle Gold Version](https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [D O D O \(Adekunle Gold Version\)](https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo) | 2:59 | 2022-06-24 | 2022-11-12 |
 | [Dalilah](https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Growing Pains](https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx) | 2:47 | 2023-12-08 | 2024-09-13 |
 | [Dancing In The Flames](https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dancing In The Flames](https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g) | 3:40 | 2024-09-13 | 2025-09-19 |
@@ -798,6 +798,7 @@
 | [STYLO](https://open.spotify.com/track/3IAPorNgZ8uAr7pfmMYfZO) | [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [UNiTY Originaal](https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V), [BayO](https://open.spotify.com/artist/2sxBe3sK3BbxcZ9QGDiSCi), [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn) | [STYLO](https://open.spotify.com/album/2ucxizxSDZPeSVCB5Gsjtj) | 3:22 | 2026-02-20 | 2026-05-15 |
 | [Suh Good](https://open.spotify.com/track/2ArkqDS78Ro7JOeidqzVTS) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Suh Good](https://open.spotify.com/album/1l8jGRft5ufwHFYR0sPkeu) | 2:29 | 2024-12-06 | 2025-04-06 |
 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-09 | 2024-08-16 |
+| [Summer July](https://open.spotify.com/track/6Xdl8i0jnYD5TMeeJeU9DJ) | [OLOOTÙ](https://open.spotify.com/artist/2r8dLv6MC4fUri2tk2jSJe), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [Bay City Tapes](https://open.spotify.com/album/7DYLTtUdLlk1kZuTukxWrf) | 4:04 | 2026-05-29 |  |
 | [Summer Too Hot](https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Summer Too Hot](https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN) | 3:08 | 2023-06-22 | 2023-09-15 |
 | [Sun/Son](https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sun/Son](https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24) | 2:56 | 2024-01-12 | 2024-06-28 |
 | [Sunday Again \(with 2 Chainz\)](https://open.spotify.com/track/0jqIclUdaqiwYEi4FLUBOc) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Sunday Again \(with 2 Chainz\)](https://open.spotify.com/album/1b3dLmOwWOyyqsUtT0NrBv) | 3:40 | 2026-04-17 | 2026-05-01 |

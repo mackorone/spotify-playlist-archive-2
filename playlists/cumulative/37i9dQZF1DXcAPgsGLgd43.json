@@ -2689,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "Combo",
+        "url": "https://open.spotify.com/album/6fxmRW8z5lZmUjAMoxs66n"
+      },
+      "artists": [
+        {
+          "name": "HUSA",
+          "url": "https://open.spotify.com/artist/460zG0T3kEz8y7maIEMwPp"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181528,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/4vQuxFI688uymZ9KLToePV"
+    },
+    {
+      "album": {
         "name": "Como Se Llama",
         "url": "https://open.spotify.com/album/2OUgnZvY9qxz9aCbnxrcTK"
       },
@@ -4447,6 +4465,28 @@
     },
     {
       "album": {
+        "name": "Fatima",
+        "url": "https://open.spotify.com/album/2d4LSSZSuZjkQSHLIGiTx4"
+      },
+      "artists": [
+        {
+          "name": "Slaycey",
+          "url": "https://open.spotify.com/artist/6uRXkDohcGjfOw4TRASAHq"
+        },
+        {
+          "name": "Soucream",
+          "url": "https://open.spotify.com/artist/52aOUaCckb2h6cjxsIr6LT"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163125,
+      "name": "Fatima",
+      "url": "https://open.spotify.com/track/0u8Kaw5kwAslngfsJs2TP5"
+    },
+    {
+      "album": {
         "name": "FAVELA",
         "url": "https://open.spotify.com/album/6qJK0xy8cEaDZsLuxb96f4"
       },
@@ -4696,7 +4736,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 116361,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF"
@@ -6144,7 +6184,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 152812,
       "name": "Lo Mueve",
       "url": "https://open.spotify.com/track/4gdGtQ5Apq80zuYzr5NJsM"
@@ -6344,7 +6384,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 225000,
       "name": "Lui (Original Mix)",
       "url": "https://open.spotify.com/track/25IMPzRtaCEvpH0trpPNS4"
@@ -7120,7 +7160,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 185625,
       "name": "Morning Sex",
       "url": "https://open.spotify.com/track/10mrpAnhT5iZYygv8rDIDr"
@@ -8578,7 +8618,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 171840,
       "name": "Que Rico",
       "url": "https://open.spotify.com/track/6B4BItXLcr8RngJqKLL9ps"
@@ -8924,7 +8964,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 183810,
       "name": "Ritmo",
       "url": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF"
@@ -9034,6 +9074,32 @@
       "duration_ms": 201147,
       "name": "Rompe La Pista",
       "url": "https://open.spotify.com/track/7vxpNe9wFP6tZgAAXP3yiV"
+    },
+    {
+      "album": {
+        "name": "Ron Y Coco",
+        "url": "https://open.spotify.com/album/3vcfSqFi7hCJUqXhnGtmnQ"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Barbara Doza",
+          "url": "https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0"
+        },
+        {
+          "name": "Flagrant Drvms",
+          "url": "https://open.spotify.com/artist/55kBvzKEORCymfAWcBzGSb"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Ron Y Coco",
+      "url": "https://open.spotify.com/track/5Yx3u7okLgfBun0M0jhCHr"
     },
     {
       "album": {
@@ -10276,6 +10342,24 @@
       "duration_ms": 166299,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/5OM3s2BBEPrVjZAnBtFgAv"
+    },
+    {
+      "album": {
+        "name": "Ti Vedo",
+        "url": "https://open.spotify.com/album/3M7UzO6NVE4iVgfltY77rE"
+      },
+      "artists": [
+        {
+          "name": "LUCA SKETTI",
+          "url": "https://open.spotify.com/artist/1FYwl8FVnopCOyNjiekzNq"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Ti Vedo",
+      "url": "https://open.spotify.com/track/3evz2s34Jww0c79lTV43on"
     },
     {
       "album": {

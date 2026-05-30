@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: kid kapri, yung pepp",
-  "num_followers": 478080,
+  "num_followers": 478066,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
@@ -282,10 +282,14 @@
         {
           "name": "Hank",
           "url": "https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN"
+        },
+        {
+          "name": "BLISSFOOL",
+          "url": "https://open.spotify.com/artist/2dH5TMksK8IRWkewaweRIm"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 132000,
+      "name": "letzter tag",
       "url": "https://open.spotify.com/track/0Moio5plYolRIS6HpmqjRD"
     },
     {

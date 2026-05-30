@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-14",
-  "description": "Future & melodic bass \ud83d\udef8 featuring Gryffin",
+  "description": "Future & melodic bass \ud83d\udef8 featuring Adventure Club",
   "name": "Bass Lounge",
   "tracks": [
     {
@@ -4876,6 +4876,32 @@
     {
       "album": {
         "name": "Enough",
+        "url": "https://open.spotify.com/album/04aPRBazOgeVdBsamNTQsv"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "3THOS",
+          "url": "https://open.spotify.com/artist/4AO0IoqoaN0H4OVuMeR3EL"
+        },
+        {
+          "name": "GILLIAD",
+          "url": "https://open.spotify.com/artist/6AKiapdvTAXauBNZ7DxS3z"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232426,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2H4dQ4iEcw6ao76sSCr60u"
+    },
+    {
+      "album": {
+        "name": "Enough",
         "url": "https://open.spotify.com/album/799Gi7H5g6nwQIKElr4COM"
       },
       "artists": [
@@ -5104,6 +5130,32 @@
       "duration_ms": 196056,
       "name": "Everybody Feels (feat. Zack Gray)",
       "url": "https://open.spotify.com/track/1B1YBXBQwN0DCBLJTSMVMy"
+    },
+    {
+      "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/1SP5GrzaEcDQKiKL82asHO"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv"
+        },
+        {
+          "name": "Cate Downey",
+          "url": "https://open.spotify.com/artist/3SHmKHBjw1ks5yXtblJWPn"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6A7PA5sT5SpUHyt0PIekHP"
     },
     {
       "album": {
@@ -6958,7 +7010,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 165000,
       "name": "Good Time (feat. Josh Rubin)",
       "url": "https://open.spotify.com/track/40Y5AgFF6JHGmjrlk37Z2N"
@@ -19636,7 +19688,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"

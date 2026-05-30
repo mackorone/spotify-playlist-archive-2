@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAAAowlMolSHZJRQ9pOV1+jLJ",
+  "snapshot_id": "aheFgAAAAACeNTNV/CmQQb2aGx2OV6Oq",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Moved",
-        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 273283,
-      "name": "Not Moved",
-      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 200969,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Moved",
+        "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 273283,
+      "name": "Not Moved",
+      "url": "https://open.spotify.com/track/0r8GJylbT4AOlgPjCO2HYX"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fall in Love",
-        "url": "https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Urhobo/Isoko Worship Medley",
         "url": "https://open.spotify.com/album/2zt8IYtst7tlmKowEtf9uY"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 363781,
       "name": "Urhobo/Isoko Worship Medley",
       "url": "https://open.spotify.com/track/5f8gZfxdVnY8PEQQj0OisD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fall in Love",
+        "url": "https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Your Name be Glorified Worship Medley",
-        "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 1046673,
-      "name": "Let Your Name be Glorified Worship Medley",
-      "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take It All (Live)",
         "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 621706,
       "name": "Take it All - Live",
       "url": "https://open.spotify.com/track/3d2aoEEBIKBChppdlXRexU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Your Name be Glorified Worship Medley",
+        "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 1046673,
+      "name": "Let Your Name be Glorified Worship Medley",
+      "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
     },
     {
       "added_at": null,

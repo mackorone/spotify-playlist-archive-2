@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Africa.
 
-2,857 songs - 8 day 13 hr 25 min
+2,858 songs - 8 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1471,7 +1471,7 @@
 | [Mahlasela](https://open.spotify.com/track/6wlAnmeNkrGHoaKJli2apl) | [Benny Mayengani](https://open.spotify.com/artist/2FeMpbAbLWwC1HuxrUdpzI) | [Mahlasela](https://open.spotify.com/album/1jnnWnbDGTGY7hTrNkptqb) | 4:45 | 2024-10-05 | 2024-10-07 |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-05 | 2022-12-03 |
 | [Make Them Cry](https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:07 | 2026-05-16 |  |
-| [Make Them Know](https://open.spotify.com/track/1xO3PpGchMqMmmF6OEtH5Y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 4:08 | 2026-05-16 |  |
+| [Make Them Know](https://open.spotify.com/track/1xO3PpGchMqMmmF6OEtH5Y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 4:08 | 2026-05-16 | 2026-05-30 |
 | [Make Them Pay](https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:01 | 2026-05-16 |  |
 | [Make Them Remember](https://open.spotify.com/track/73ycOMnODtUc2Ggj6EfCpO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:23 | 2026-05-16 | 2026-05-25 |
 | [Make You Mine](https://open.spotify.com/track/7r1MqPAD09w24mCUUbxiCI) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:20 | 2022-06-25 | 2022-06-27 |
@@ -2327,6 +2327,7 @@
 | [Sukakude](https://open.spotify.com/track/4FEi7i9oDxDzcYbx53IHwq) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj) | [Amukelani](https://open.spotify.com/album/2mNIgnRjel4NFdeE5w75eO) | 6:53 | 2022-12-10 | 2023-10-03 |
 | [Sukakude \(feat\. Sfarzo Rtee\)](https://open.spotify.com/track/1rtMuIY76v879DN8kW1fhf) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Babalwa M](https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG), [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj) | [Amukelani](https://open.spotify.com/album/7LZDrSxVlyIXv2tVKmB5Nf) | 6:53 | 2023-12-09 | 2025-06-02 |
 | [Suku Suka \(feat\. Zain SA & Kabza De Small\)](https://open.spotify.com/track/0xOxm9pX5Z0dI64v7MFxSk) | [Stakev](https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Zain SA](https://open.spotify.com/artist/5dvgzU4ArZjcvtVUugwuMt) | [Suku Suka \(feat\. Zain SA & Kabza De Small\)](https://open.spotify.com/album/5utLViGLo84cb6rF3p0nJq) | 7:22 | 2023-09-23 | 2023-09-25 |
+| [Sulani Igama Lami](https://open.spotify.com/track/3a7Pfdyew3MTwLLA5LrLfq) | [uMhlakazi](https://open.spotify.com/artist/4JzRcJk4va1UZ4FWGru1dE) | [Sulani Igama Lami](https://open.spotify.com/album/1g21VCPZbvhFupHiQwalTI) | 4:32 | 2026-05-29 |  |
 | [Sulani Igama Lami](https://open.spotify.com/track/3UW749nyBzpq0nyQQn8W0Z) | [uMhlakazi](https://open.spotify.com/artist/4JzRcJk4va1UZ4FWGru1dE), [Shenge WaseHlalankosi](https://open.spotify.com/artist/6zz268q1RXdRgGLIDyZ8x1) | [Sulani Igama Lami EP](https://open.spotify.com/album/2gEJ6jTGHdUUlysMBjXXJa) | 4:32 | 2026-04-06 | 2026-05-29 |
 | [Summer Rain](https://open.spotify.com/track/7BmjQ0KPmlaebcMOtwEYbX) | [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Jay Sax](https://open.spotify.com/artist/2QLRzMotnSVwPw8iXdsVPC) | [Amukelani](https://open.spotify.com/album/2mNIgnRjel4NFdeE5w75eO) | 5:19 | 2022-12-10 | 2022-12-15 |
 | [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2022-07-30 | 2022-08-01 |

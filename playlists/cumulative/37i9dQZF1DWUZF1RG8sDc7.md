@@ -4,7 +4,7 @@
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-196 songs - 15 hr 10 min
+196 songs - 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Despues del Adios](https://open.spotify.com/track/5sYM2HkOgMeXhtqKhLRy8A) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Con Altura](https://open.spotify.com/album/7xFZU6WDMmFQy7ysqXmRbM) | 5:09 | 2024-03-28 | 2025-12-04 |
 | [Dilo](https://open.spotify.com/track/35iIjwxK8iyyedFMlUr76u) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o), [Herold Rivera](https://open.spotify.com/artist/4SeZ9gXLtR9Jcols3Blk1R), [Conexión Carito](https://open.spotify.com/artist/6Sj4mpcuLT9GZK2MQdqEIN) | [Destellos de Amor](https://open.spotify.com/album/2fNdyJWJKj6aJjblen9a6r) | 4:15 | 2024-03-28 | 2026-03-10 |
 | [Dime Cómo Te Olvido](https://open.spotify.com/track/3eY3uh3Rj7AkUM6A0qWnYt) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Sólo Clasicos](https://open.spotify.com/album/3S5zHT8Grf9yHPq2hvP6gm) | 4:47 | 2024-03-28 | 2024-06-11 |
-| [Dime pajarito](https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 4:55 | 2024-03-28 |  |
+| [Dime pajarito](https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 5:19 | 2024-03-28 |  |
 | [Dime Que Me Quieres](https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw) | [Grupo Vallenato](https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE) | [Vallenato Fest](https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06) | 5:16 | 2022-12-16 | 2024-04-19 |
 | [Dime que me quieres](https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:16 | 2024-03-28 | 2026-02-14 |
 | [Dime que me quieres](https://open.spotify.com/track/3orZ4fO5bylzCblZJsl3WS) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB) | [La Combinacion Vallenata](https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU) | 5:16 | 2022-12-16 | 2023-04-15 |

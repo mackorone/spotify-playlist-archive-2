@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-02-26",
-  "description": "the glorious sounds of Jazz House, from Lagos & beyond \ud83d\udd4a\ufe0f featuring SPINALL",
+  "description": "the glorious sounds of Jazz House, from Montreal, Lagos, & beyond \ud83c\udf0e featuring KALLITECHNIS",
   "name": "Jazz House",
   "tracks": [
     {
@@ -332,7 +332,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 155789,
       "name": "bianca",
       "url": "https://open.spotify.com/track/6220GDztdVktDOvs48Rw0d"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 172000,
       "name": "daydream",
       "url": "https://open.spotify.com/track/60ghoHsVEM4VEE1f7OKzcv"
@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 168717,
       "name": "Euro",
       "url": "https://open.spotify.com/track/3Z9Yr1ziFNgkK3oHcvxC5v"
@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Tezeta",
+        "url": "https://open.spotify.com/album/0ljstUxoD15pelifv3t8AT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282503,
+      "name": "Funky Funghi",
+      "url": "https://open.spotify.com/track/4dMdH1MAZDI0ovK5ROOfmi"
+    },
+    {
+      "album": {
         "name": "Girl (I Need You)",
         "url": "https://open.spotify.com/album/1JNaRsbF8YUIf4EXE8z8fi"
       },
@@ -1508,6 +1526,24 @@
       "duration_ms": 207022,
       "name": "Glimpses",
       "url": "https://open.spotify.com/track/3XE67IbSDQQDOhfCM2pCo4"
+    },
+    {
+      "album": {
+        "name": "Go together.",
+        "url": "https://open.spotify.com/album/3fNFrgvsQr2ubJ9afPhvnw"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152369,
+      "name": "Go together.",
+      "url": "https://open.spotify.com/track/0gmKaocfYGg1wq7fdURfas"
     },
     {
       "album": {
@@ -1834,6 +1870,32 @@
       "duration_ms": 153050,
       "name": "I Want Your Love",
       "url": "https://open.spotify.com/track/14i1XgUcPXmB74ezzk5172"
+    },
+    {
+      "album": {
+        "name": "I Wonder If You Know",
+        "url": "https://open.spotify.com/album/4ZEEq0Ha1r1hotCGAHhAig"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/5EhAPIpyTfmhdfh6vWsLqM"
+        },
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "I Wonder If You Know",
+      "url": "https://open.spotify.com/track/3xk4DtJZKWMqREHQd8xsew"
     },
     {
       "album": {
@@ -3225,6 +3287,28 @@
     },
     {
       "album": {
+        "name": "kosmos",
+        "url": "https://open.spotify.com/album/5w7xBJYs4rDtPCGJx90J0x"
+      },
+      "artists": [
+        {
+          "name": "KALLITECHNIS",
+          "url": "https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl"
+        },
+        {
+          "name": "mango heist",
+          "url": "https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191719,
+      "name": "passport picture",
+      "url": "https://open.spotify.com/track/4p1qCxmsRq1CiO6KFw7BTR"
+    },
+    {
+      "album": {
         "name": "open this wall",
         "url": "https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA"
       },
@@ -3940,7 +4024,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 103333,
       "name": "Talk to me.",
       "url": "https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9"

@@ -1,13 +1,29 @@
 {
   "description": "The best of modern blues rock. Cover: The Black Keys",
-  "num_followers": 264621,
+  "num_followers": 264677,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExrqyqXgtPgG71r7uFn8yK50gIg",
+  "snapshot_id": "AAAAAJ3CkIiSO3zd13RWWO2JhBXG+Mri",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "House Of Mirrors",
+        "url": "https://open.spotify.com/album/7nx99MpXigxaFbx5fRpbdi"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 244376,
+      "name": "Hold Up, Say What?",
+      "url": "https://open.spotify.com/track/3mCRtyxGMEYV2IHywJZGdd"
+    },
     {
       "added_at": "2026-05-01 04:00:44",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 190103,
       "name": "Runnin' Hot",
       "url": "https://open.spotify.com/track/1YriAYtDy59A8nA0hlNsnk"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/2SmDfED4AlTqnyDydjtRUJ"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
+        }
+      ],
+      "duration_ms": 235183,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/4x6CF4Dc59ocDnWhlRNefD"
     },
     {
       "added_at": "2026-04-17 04:01:02",
@@ -1395,22 +1427,6 @@
     {
       "added_at": "2026-03-20 15:56:34",
       "album": {
-        "name": "Nothing Left To Lose",
-        "url": "https://open.spotify.com/album/3iCNJpwYv9jKHkL3VOpn2x"
-      },
-      "artists": [
-        {
-          "name": "LoveSick Radio",
-          "url": "https://open.spotify.com/artist/7zca83vBdFEDg0119J8thJ"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/20jcu0GEUol1uArAwIZDvX"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
         "name": "Down On The Bottom",
         "url": "https://open.spotify.com/album/0TQOj4sXi3e53CH2V4odAX"
       },
@@ -2427,26 +2443,6 @@
       "duration_ms": 181703,
       "name": "Sunshine Lady",
       "url": "https://open.spotify.com/track/2bsJZptUrnp4Rt786WKxc6"
-    },
-    {
-      "added_at": "2026-03-20 15:56:34",
-      "album": {
-        "name": "Click Click Domino (feat. Marcus King)",
-        "url": "https://open.spotify.com/album/13MDxehHydYbrlS2bMTj2t"
-      },
-      "artists": [
-        {
-          "name": "Ida Mae",
-          "url": "https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 203099,
-      "name": "Click Click Domino (feat. Marcus King)",
-      "url": "https://open.spotify.com/track/5SefpS9fNKmduJWxxqH0tA"
     },
     {
       "added_at": "2026-03-20 15:56:34",

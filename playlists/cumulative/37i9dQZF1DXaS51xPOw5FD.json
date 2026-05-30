@@ -2600,7 +2600,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 257655,
       "name": "Give Me Some Space",
       "url": "https://open.spotify.com/track/3Kh80jj6DQoKidbr6GVFBc"
@@ -3344,7 +3344,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 215602,
       "name": "I Wanna Be Down",
       "url": "https://open.spotify.com/track/0Hjxll3R6BGx3E6OSdmJ5y"
@@ -3494,6 +3494,32 @@
       "duration_ms": 231973,
       "name": "Inner City Life - Radio Edit",
       "url": "https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT"
+    },
+    {
+      "album": {
+        "name": "It's Alright, I Feel It",
+        "url": "https://open.spotify.com/album/2fEJxLjWUp01X94iZFbXvu"
+      },
+      "artists": [
+        {
+          "name": "DJ Marky",
+          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
+        },
+        {
+          "name": "Makoto",
+          "url": "https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu"
+        },
+        {
+          "name": "Vanessa Freeman",
+          "url": "https://open.spotify.com/artist/5C4gaWnEwsHzn34UhjVV8c"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270830,
+      "name": "It's Alright, I Feel It",
+      "url": "https://open.spotify.com/track/1y9Zyz2yfPgl4ubvkQrCfc"
     },
     {
       "album": {
@@ -4351,6 +4377,28 @@
     },
     {
       "album": {
+        "name": "Traversal Tapes",
+        "url": "https://open.spotify.com/album/4EsrJEKYuBJD0FVsg69Jbi"
+      },
+      "artists": [
+        {
+          "name": "SIMMS",
+          "url": "https://open.spotify.com/artist/4rozZDIWV3mx34Sjcw61FR"
+        },
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212024,
+      "name": "Missing U",
+      "url": "https://open.spotify.com/track/1MdZ1DP57cTYizsBXQmofh"
+    },
+    {
+      "album": {
         "name": "Mixed Emotions",
         "url": "https://open.spotify.com/album/1kTl2ygZj7mfXPSJwoVpaD"
       },
@@ -4392,6 +4440,24 @@
       "duration_ms": 163246,
       "name": "More Time",
       "url": "https://open.spotify.com/track/6WdEUkiTCnXXeSyHJuOekf"
+    },
+    {
+      "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/3XDqPUPVBg4YVbJq4nmQ4m"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183771,
+      "name": "Morning Light",
+      "url": "https://open.spotify.com/track/1pK5RQ6j8o2TqGOQSxPAP1"
     },
     {
       "album": {
@@ -6086,7 +6152,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 209562,
       "name": "soulboy - Disrupta Remix",
       "url": "https://open.spotify.com/track/3hFWCTewbkyGSxHCJN2Trh"

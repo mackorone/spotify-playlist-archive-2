@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 159491,
+  "num_followers": 159513,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAACbjxhTYPxWeylagsW1IaEg",
+  "snapshot_id": "aheFgAAAAABUYpa3LNNNv/9/5R4gvBJ3",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disc\u00falpame",
-        "url": "https://open.spotify.com/album/4tzSRJNXBiaVkwAeIozUqC"
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 237722,
-      "name": "Disc\u00falpame",
-      "url": "https://open.spotify.com/track/4nPKL7NXwP8MEbanY7ttD1"
+      "duration_ms": 220673,
+      "name": "Pasi\u00f3n de Amor - Remastered 2025",
+      "url": "https://open.spotify.com/track/5ODLsqAk6TwTP1ohareoTL"
     },
     {
       "added_at": null,
@@ -471,18 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+        "name": "Disc\u00falpame",
+        "url": "https://open.spotify.com/album/4tzSRJNXBiaVkwAeIozUqC"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 220673,
-      "name": "Pasi\u00f3n de Amor - Remastered 2025",
-      "url": "https://open.spotify.com/track/5ODLsqAk6TwTP1ohareoTL"
+      "duration_ms": 237722,
+      "name": "Disc\u00falpame",
+      "url": "https://open.spotify.com/track/4nPKL7NXwP8MEbanY7ttD1"
     },
     {
       "added_at": null,

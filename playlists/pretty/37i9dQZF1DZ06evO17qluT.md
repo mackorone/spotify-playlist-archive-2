@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,879 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,954 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 33 | [Cidade do Pecado](https://open.spotify.com/track/4EqChUnhC7Ukq4w2PKwfqV) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Cidade do Pecado](https://open.spotify.com/album/1ZVgAn5v8hT0V4dvvPligx) | 3:31 |
 | 34 | [Sensação de Liberdade](https://open.spotify.com/track/64iBfVmlDnQVxZCz9ySpU1) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o) | 2:58 |
 | 35 | [Castelos & Ruínas](https://open.spotify.com/track/5gfsiobWJXdalFzHPoM3x5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 4:09 |
-| 36 | [Bonde Passando](https://open.spotify.com/track/1IvqtJaqnGlIoWaQmz2bsZ) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 2:23 |
-| 37 | [Não Me Abandona](https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r), [MUC4](https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M) | [Eu Odeio o Dia dos Namorados](https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu) | 3:23 |
+| 36 | [Não Me Abandona](https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r), [MUC4](https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M) | [Eu Odeio o Dia dos Namorados](https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu) | 3:23 |
+| 37 | [Bonde Passando](https://open.spotify.com/track/1IvqtJaqnGlIoWaQmz2bsZ) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 2:23 |
 | 38 | [HOTEL ZONA SUL](https://open.spotify.com/track/4pKgrER7iEnznCLkRb8oTl) | [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [VERÃO CRIMINOSO](https://open.spotify.com/album/09xyu9e9oEq8n8rmImtHmc) | 4:00 |
 | 39 | [Sigo na Sombra](https://open.spotify.com/track/17FxYOCcJ0lF4M2EuYkrb5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 3:15 |
 | 40 | [Amor](https://open.spotify.com/track/3SYUDlqR6tYOwjOayZX1xV) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [O Líder em Movimento](https://open.spotify.com/album/22qXEcma67stw3AZOaDWmq) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 49 | [ANJO DA MADRUGADA](https://open.spotify.com/track/2c0x0hg7DlzlPk6XLXhNgH) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 2:29 |
 | 50 | [Quente !](https://open.spotify.com/track/0eAN72pD742qdEQxGQ7bYq) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE), [Abud](https://open.spotify.com/artist/4FloXaoxJddb9qUORylHng) | [Quente !](https://open.spotify.com/album/3Fy4xHSlSehPVKp6Tl0zXn) | 3:32 |
 
-Snapshot ID: `ahY0AAAAAABfGmLIjCiNgWHdlzLQ29+I`
+Snapshot ID: `aheFgAAAAADgGLLw4iDkVwSzz8Pm/4vq`

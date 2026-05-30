@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 181550,
+  "num_followers": 181569,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-05-26 15:00:44",
       "album": {
+        "name": "\u5fae\u70ad\u9178",
+        "url": "https://open.spotify.com/album/2yvUedNwMr1aq1bFXvUXFA"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 180441,
+      "name": "\u5fae\u70ad\u9178",
+      "url": "https://open.spotify.com/track/3BpigDZZmi6bRACtKhCUeu"
+    },
+    {
+      "added_at": "2026-05-26 15:00:44",
+      "album": {
         "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483 (feat. Cory Wong)",
         "url": "https://open.spotify.com/album/7jUTLJgcOL6z7ou8TVVh24"
       },
@@ -639,34 +655,18 @@
     {
       "added_at": "2026-05-26 15:00:44",
       "album": {
-        "name": "\u5fae\u70ad\u9178",
-        "url": "https://open.spotify.com/album/2yvUedNwMr1aq1bFXvUXFA"
+        "name": "Guess Who?",
+        "url": "https://open.spotify.com/album/0vbmhoUstB351YpKBO2hM7"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
         }
       ],
-      "duration_ms": 180441,
-      "name": "\u5fae\u70ad\u9178",
-      "url": "https://open.spotify.com/track/3BpigDZZmi6bRACtKhCUeu"
-    },
-    {
-      "added_at": "2026-05-26 15:00:44",
-      "album": {
-        "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
-        "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 235914,
-      "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
-      "url": "https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l"
+      "duration_ms": 279000,
+      "name": "NEW ERA",
+      "url": "https://open.spotify.com/track/1mJxoz6ErtRhtkZHVgOuK6"
     },
     {
       "added_at": "2026-05-26 15:00:44",
@@ -687,18 +687,18 @@
     {
       "added_at": "2026-05-26 15:00:44",
       "album": {
-        "name": "Guess Who?",
-        "url": "https://open.spotify.com/album/0vbmhoUstB351YpKBO2hM7"
+        "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+        "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
       },
       "artists": [
         {
-          "name": "Nulbarich",
-          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
         }
       ],
-      "duration_ms": 279000,
-      "name": "NEW ERA",
-      "url": "https://open.spotify.com/track/1mJxoz6ErtRhtkZHVgOuK6"
+      "duration_ms": 235914,
+      "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+      "url": "https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l"
     },
     {
       "added_at": "2026-05-26 15:00:44",
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-05-26 15:00:44",
       "album": {
-        "name": "\u96e2\u5a5a\u4f1d\u8aac",
-        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+        "name": "\u66d6\u6627\u306aBEACH",
+        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
       },
       "artists": [
         {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
         }
       ],
-      "duration_ms": 162960,
-      "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
-      "url": "https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2"
+      "duration_ms": 159000,
+      "name": "\u66d6\u6627\u306aBEACH",
+      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
     },
     {
       "added_at": "2026-05-26 15:00:44",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-05-26 15:00:44",
       "album": {
-        "name": "\u66d6\u6627\u306aBEACH",
-        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
       },
       "artists": [
         {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
         }
       ],
-      "duration_ms": 159000,
-      "name": "\u66d6\u6627\u306aBEACH",
-      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
+      "duration_ms": 162960,
+      "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
+      "url": "https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2"
     },
     {
       "added_at": "2026-05-26 15:00:44",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-05-26 15:00:44",
       "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
-    },
-    {
-      "added_at": "2026-05-26 15:00:44",
-      "album": {
         "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
         "url": "https://open.spotify.com/album/08V4DnfoV2GJEhipLhUyrD"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 195900,
       "name": "\u30b7\u30f3\u30c7\u30ec\u30e9",
       "url": "https://open.spotify.com/track/4u9vXoi6e2SRaCQNicDg3B"
+    },
+    {
+      "added_at": "2026-05-26 15:00:44",
+      "album": {
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
     },
     {
       "added_at": "2026-05-26 15:00:44",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-05-26 15:00:44",
       "album": {
-        "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
-        "url": "https://open.spotify.com/album/7vFlRilca0ZERCshQ8hU6t"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 202881,
-      "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
-      "url": "https://open.spotify.com/track/7CaO1v3WLzHhXhJS1tmcmG"
-    },
-    {
-      "added_at": "2026-05-26 15:00:44",
-      "album": {
         "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
         "url": "https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 325898,
       "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
       "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
+    },
+    {
+      "added_at": "2026-05-26 15:00:44",
+      "album": {
+        "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
+        "url": "https://open.spotify.com/album/7vFlRilca0ZERCshQ8hU6t"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 202881,
+      "name": "\u3055\u3064\u304d\u3061\u3083\u3093",
+      "url": "https://open.spotify.com/track/7CaO1v3WLzHhXhJS1tmcmG"
     },
     {
       "added_at": "2026-05-26 15:00:44",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-05-26 15:00:44",
       "album": {
+        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
+        "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
+      },
+      "artists": [
+        {
+          "name": "RETRORIRON",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 275935,
+      "name": "Document",
+      "url": "https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z"
+    },
+    {
+      "added_at": "2026-05-26 15:00:44",
+      "album": {
         "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9 \u5f8c\u7bc7",
         "url": "https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz"
       },
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2026-05-26 15:00:44",
       "album": {
-        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
-        "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
+        "name": "TYT",
+        "url": "https://open.spotify.com/album/27fwOpwm1gAJ6z76Wgz0PI"
       },
       "artists": [
         {
-          "name": "RETRORIRON",
-          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
         }
       ],
-      "duration_ms": 275935,
-      "name": "Document",
-      "url": "https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z"
+      "duration_ms": 186400,
+      "name": "TYT",
+      "url": "https://open.spotify.com/track/4oY7S5fKfIxMW6aCfRtJYl"
     },
     {
       "added_at": "2026-05-26 15:00:44",
@@ -1523,38 +1539,6 @@
     {
       "added_at": "2026-05-26 15:00:44",
       "album": {
-        "name": "RELOADING CITY",
-        "url": "https://open.spotify.com/album/5d3CHvw9X4uTPNtTHJKneI"
-      },
-      "artists": [
-        {
-          "name": "MONONKVL",
-          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
-        }
-      ],
-      "duration_ms": 264360,
-      "name": "\u30a2\u30dd\u30ed",
-      "url": "https://open.spotify.com/track/1Dcj3N48TGh2PckZbbdeVD"
-    },
-    {
-      "added_at": "2026-05-26 15:00:44",
-      "album": {
-        "name": "TYT",
-        "url": "https://open.spotify.com/album/27fwOpwm1gAJ6z76Wgz0PI"
-      },
-      "artists": [
-        {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "TYT",
-      "url": "https://open.spotify.com/track/4oY7S5fKfIxMW6aCfRtJYl"
-    },
-    {
-      "added_at": "2026-05-26 15:00:44",
-      "album": {
         "name": "Living Room",
         "url": "https://open.spotify.com/album/17wsj6ok978OcBQhmNexce"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 251600,
       "name": "\u3042\u306a\u305f\u3086\u305a\u308a",
       "url": "https://open.spotify.com/track/0ayWf9vhCaUhMNHTOvNXI3"
+    },
+    {
+      "added_at": "2026-05-26 15:00:44",
+      "album": {
+        "name": "RELOADING CITY",
+        "url": "https://open.spotify.com/album/5d3CHvw9X4uTPNtTHJKneI"
+      },
+      "artists": [
+        {
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
+        }
+      ],
+      "duration_ms": 264360,
+      "name": "\u30a2\u30dd\u30ed",
+      "url": "https://open.spotify.com/track/1Dcj3N48TGh2PckZbbdeVD"
     },
     {
       "added_at": "2026-05-26 15:00:44",

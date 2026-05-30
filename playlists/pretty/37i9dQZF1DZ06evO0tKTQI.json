@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 13924,
+  "num_followers": 13929,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAACT6DAim1+YHwfCS1R6BwNm",
+  "snapshot_id": "aheFgAAAAADJnlFVcWx4jYq6VivlD1bI",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Delusi\u00f3n",
-      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Est\u00e1 Cambiando",
         "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 238533,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Delusi\u00f3n",
+      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo Est\u00e1 Cambiando",
+        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 83320,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Delusi\u00f3n",
         "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobred\u00f3sis De Tempra",
-        "url": "https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Sobred\u00f3sis De Tempra",
-      "url": "https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "tdbn (Deluxe)",
         "url": "https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH"
       },
@@ -863,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Est\u00e1 Cambiando",
-        "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
+        "name": "Sobred\u00f3sis De Tempra",
+        "url": "https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN"
       },
       "artists": [
         {
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 83320,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
+      "duration_ms": 178960,
+      "name": "Sobred\u00f3sis De Tempra",
+      "url": "https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx"
     }
   ],
   "unique_name": "This Is Bratty",

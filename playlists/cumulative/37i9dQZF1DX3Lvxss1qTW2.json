@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 117410,
       "name": "ar1gato 2 you",
       "url": "https://open.spotify.com/track/0F6r2VkKSiHn9i8p3tZJJS"
@@ -6640,6 +6640,28 @@
       "duration_ms": 178866,
       "name": "I DONT CARE",
       "url": "https://open.spotify.com/track/0648vooRlyalxo7qoNS9Qa"
+    },
+    {
+      "album": {
+        "name": "I knoww",
+        "url": "https://open.spotify.com/album/7fXaUu3blBnTT1VPi6OhLq"
+      },
+      "artists": [
+        {
+          "name": "EF Moon",
+          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
+        },
+        {
+          "name": "Star Jay",
+          "url": "https://open.spotify.com/artist/1fuHb5TQ1r9wqAPx4jgx8D"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82758,
+      "name": "I knoww",
+      "url": "https://open.spotify.com/track/04tEKZxYzpYbPfIA0fJlOF"
     },
     {
       "album": {

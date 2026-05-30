@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">Fresh Finds</a>  tracks around the world this year\. Cover: The Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,111 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,112 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 37 | [想當你永遠的星辰](https://open.spotify.com/track/0TDzZ1IpqQ6HYvrtKa7rsi) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [想當你永遠的星辰](https://open.spotify.com/album/1KGhJeIBz7c0tNzyeYEumI) | 3:31 |
 | 38 | [Easy Does It](https://open.spotify.com/track/2RcpZxqA62aa4icEZ7Xo86) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Memory Lane](https://open.spotify.com/album/0Vg0rmwO8uBdFiQhY3QVWk) | 3:04 |
 | 39 | [idk](https://open.spotify.com/track/780hk3px4rQ8p4YCMlcPKN) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [idk](https://open.spotify.com/album/22sIp87jpK2pnX74FeOhBK) | 2:53 |
-| 40 | [Subliminals](https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY) | [Saint Ludo](https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [Subliminals](https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX) | 2:34 |
-| 41 | [Lukisan](https://open.spotify.com/track/4JCCxTFPJVyKScKv7AwZcl) | [El Riss](https://open.spotify.com/artist/198REvNUVAwWZc24QEUwA5) | [Lukisan](https://open.spotify.com/album/3qxSIjuljZrg7LEQ8RVema) | 4:15 |
+| 40 | [Lukisan](https://open.spotify.com/track/4JCCxTFPJVyKScKv7AwZcl) | [El Riss](https://open.spotify.com/artist/198REvNUVAwWZc24QEUwA5) | [Lukisan](https://open.spotify.com/album/3qxSIjuljZrg7LEQ8RVema) | 4:15 |
+| 41 | [Subliminals](https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY) | [Saint Ludo](https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [Subliminals](https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX) | 2:34 |
 | 42 | [You Don't Know](https://open.spotify.com/track/2pdDaacrQEeT8QH47TiPvr) | [Nico Play](https://open.spotify.com/artist/26l7d6CNDqVJKOepWtK3Bl) | [You Don't Know](https://open.spotify.com/album/0TpfLWVtubEx07Kg0Lu4PA) | 2:56 |
 | 43 | [Make It Right](https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ) | 3:14 |
 | 44 | [other boys are boring](https://open.spotify.com/track/4GBZaVt4WS0OpK4WERsFZ3) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [other boys are boring](https://open.spotify.com/album/64pyxehnihFcz81L645ezR) | 2:20 |
 | 45 | [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 2:50 |
 | 46 | [Call U Back](https://open.spotify.com/track/47HdXfgydiy53cEiD6lhU5) | [TTSSFU](https://open.spotify.com/artist/4u0g598Mtg9ch4HgEP2DFG) | [Call U Back](https://open.spotify.com/album/3Pbiv3ZCM6WWehbB0nj2It) | 3:04 |
-| 47 | [Perfect](https://open.spotify.com/track/1ZE95YrQTRP8zqMNWhySjP) | [Ochaè](https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI) | [Perfect](https://open.spotify.com/album/5m1g4NScg6USxohPQIYpz2) | 3:25 |
-| 48 | [take it anymore](https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [take it anymore](https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz) | 2:41 |
+| 47 | [take it anymore](https://open.spotify.com/track/1xhY8mN2VsxxOUpAYH93Pe) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [take it anymore](https://open.spotify.com/album/1IiXKFVzxOmjpQaGsrgbdz) | 2:41 |
+| 48 | [Perfect](https://open.spotify.com/track/1ZE95YrQTRP8zqMNWhySjP) | [Ochaè](https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI) | [Perfect](https://open.spotify.com/album/5m1g4NScg6USxohPQIYpz2) | 3:25 |
 | 49 | [All I Really Want](https://open.spotify.com/track/0EQL9rp9Y1a8j7MfEmq62Q) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [All I Really Want](https://open.spotify.com/album/25d7TamaIpa6Z10bX0a8Lu) | 3:13 |
 | 50 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 |
 | 51 | [Racing Mount Pleasant](https://open.spotify.com/track/1O4YoWMQys8jrSfCuDZQit) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:15 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 67 | [The Sun Song \(Precious Energy\)](https://open.spotify.com/track/3vmDjZ9fq7iRzJWPvzAN7K) | [Tyreek McDole](https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T), [Logan Butler](https://open.spotify.com/artist/7A57mikbdnFdDUWj0jEs6U), [Rodney Whitaker](https://open.spotify.com/artist/462arlCFMH9CgHpDXJLLgv) | [Open Up Your Senses](https://open.spotify.com/album/2QsIPiMux0wUjBpYyToako) | 4:15 |
 | 68 | [O’ Kay Tamis](https://open.spotify.com/track/1s1nPYN5ryw0OHejNO0eAV) | [It All Started In May](https://open.spotify.com/artist/1qWLxocXl9bpeqejuQ8zJX) | [O’ Kay Tamis](https://open.spotify.com/album/5TKMkaDXaNA84CswvnKokE) | 3:03 |
 | 69 | [BLIND](https://open.spotify.com/track/2OmnzMLTn0mx6iXrp4VBjz) | [EJ Ross](https://open.spotify.com/artist/3yZJfp37SK7V6yHh3oAGoB), [Jay Versace](https://open.spotify.com/artist/0FBoLKOReQgeA0Oe2pcDF5) | [BLIND](https://open.spotify.com/album/5MBqQGtqtrh3Vrw1aVA4ZB) | 3:02 |
-| 70 | [Play](https://open.spotify.com/track/4iE0gwQnXHc7I9bbTkzlhm) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 4:34 |
-| 71 | [Say Ciao](https://open.spotify.com/track/2gDCKgrPUXLfNTtwNbmE8T) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Romantica](https://open.spotify.com/album/5XCjEt4FxEgvC8qSwQShcc) | 2:57 |
+| 70 | [Say Ciao](https://open.spotify.com/track/2gDCKgrPUXLfNTtwNbmE8T) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Romantica](https://open.spotify.com/album/5XCjEt4FxEgvC8qSwQShcc) | 2:57 |
+| 71 | [Play](https://open.spotify.com/track/4iE0gwQnXHc7I9bbTkzlhm) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 4:34 |
 | 72 | [I Want It All](https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [I Want It All](https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg) | 3:36 |
-| 73 | [My Endeavour](https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Somersault Queen](https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm) | 4:05 |
-| 74 | [Hotel TV](https://open.spotify.com/track/0rmV9NKcTQ7YvvDQAOP7oL) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 4:37 |
-| 75 | [QUAY VỀ](https://open.spotify.com/track/5iHWbMNn1nmJFS9UpkfOCS) | [EREN](https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq), [Bbynascar](https://open.spotify.com/artist/70xqUA23Q0PdxUOMqUCkqR), [Taki](https://open.spotify.com/artist/5Gwp3UAgzZ1v9UjuZJOst2) | [DEJA VU](https://open.spotify.com/album/6BVlsEO0l2upeO4fukXxvf) | 3:03 |
+| 73 | [Hotel TV](https://open.spotify.com/track/0rmV9NKcTQ7YvvDQAOP7oL) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 4:37 |
+| 74 | [QUAY VỀ](https://open.spotify.com/track/5iHWbMNn1nmJFS9UpkfOCS) | [EREN](https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq), [Bbynascar](https://open.spotify.com/artist/70xqUA23Q0PdxUOMqUCkqR), [Taki](https://open.spotify.com/artist/5Gwp3UAgzZ1v9UjuZJOst2) | [DEJA VU](https://open.spotify.com/album/6BVlsEO0l2upeO4fukXxvf) | 3:03 |
+| 75 | [My Endeavour](https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Somersault Queen](https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm) | 4:05 |
 
 Snapshot ID: `AAAAAHNoEb26yzPClN6w/R3GzcdXUzzx`

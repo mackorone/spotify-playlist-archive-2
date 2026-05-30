@@ -99,26 +99,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Tocororo",
-        "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        },
-        {
-          "name": "Richard Bona",
-          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Ay, Mam\u00e1 In\u00e9s",
-      "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Noche de Amor",
         "url": "https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 443874,
       "name": "Noche de Amor",
       "url": "https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Tocororo",
+        "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        },
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Ay, Mam\u00e1 In\u00e9s",
+      "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Ultimate Duets",
         "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 299160,
       "name": "After All",
       "url": "https://open.spotify.com/track/579OSusZBmVE5rNDWhPUwk"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
+        "name": "Caminos",
+        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Aguirre",
+          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Milonga gris",
+      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
         "name": "El Arte Del Bolero",
         "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 477496,
       "name": "C\u00f3mo Fue",
       "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
-        "name": "Caminos",
-        "url": "https://open.spotify.com/album/6bbqvMNCUdRGHCebMMzXhI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Aguirre",
-          "url": "https://open.spotify.com/artist/42aKOZOUTiO5DmS1FF4nVN"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Milonga gris",
-      "url": "https://open.spotify.com/track/4MRLHLGa1bqOpH9K4QiKzL"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/6RPJzLm4kZVlYwzVnHWCTp"
-      },
-      "artists": [
-        {
-          "name": "Matthieu Saglio",
-          "url": "https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx"
-        }
-      ],
-      "duration_ms": 355668,
-      "name": "Madiba",
-      "url": "https://open.spotify.com/track/2Kxxsy3CMbIPf0ABK6s8Pi"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Family",
         "url": "https://open.spotify.com/album/2AVZ1US53MfCbtgL0arAmi"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 263515,
       "name": "Agua Fresca",
       "url": "https://open.spotify.com/track/2W3ks6dcaTBPGwEbjea75P"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/6RPJzLm4kZVlYwzVnHWCTp"
+      },
+      "artists": [
+        {
+          "name": "Matthieu Saglio",
+          "url": "https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx"
+        }
+      ],
+      "duration_ms": 355668,
+      "name": "Madiba",
+      "url": "https://open.spotify.com/track/2Kxxsy3CMbIPf0ABK6s8Pi"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Listen Here",
-        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 435226,
-      "name": "La Gitana",
-      "url": "https://open.spotify.com/track/6lzEHfCfIodmHLU5IRVTHP"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "cuarto de colores",
         "url": "https://open.spotify.com/album/7ijTXugrPlHTRSuzo7u2Br"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 199026,
       "name": "Sonrisas",
       "url": "https://open.spotify.com/track/5KgVtIQvN2FcOyhalfXpsP"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Listen Here",
+        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 435226,
+      "name": "La Gitana",
+      "url": "https://open.spotify.com/track/6lzEHfCfIodmHLU5IRVTHP"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Indigenous",
-        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
-      },
-      "artists": [
-        {
-          "name": "Diego Rivera",
-          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
-        }
-      ],
-      "duration_ms": 243944,
-      "name": "Sombras Del Pasado",
-      "url": "https://open.spotify.com/track/39gM45pNgzKLcR8FUTtOwV"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "City of Dreams",
         "url": "https://open.spotify.com/album/15kazQHHvIeFD1WYYjlFXG"
       },
@@ -1459,18 +1443,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Colob\u00f3",
-        "url": "https://open.spotify.com/album/28uSFqiSMUzZyQOrD7IEA5"
+        "name": "Indigenous",
+        "url": "https://open.spotify.com/album/1dUdmpLdWTWb7zpw9H20hT"
       },
       "artists": [
         {
-          "name": "Miguel Zen\u00f3n",
-          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+          "name": "Diego Rivera",
+          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
         }
       ],
-      "duration_ms": 359335,
-      "name": "Colob\u00f3",
-      "url": "https://open.spotify.com/track/43BkOsYBrtPJZSOWahpe7Q"
+      "duration_ms": 243944,
+      "name": "Sombras Del Pasado",
+      "url": "https://open.spotify.com/track/39gM45pNgzKLcR8FUTtOwV"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1495,6 +1479,22 @@
       "duration_ms": 427106,
       "name": "Palabras para Nombrarte",
       "url": "https://open.spotify.com/track/2eupFPL10HymH4hjkwwuoK"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Colob\u00f3",
+        "url": "https://open.spotify.com/album/28uSFqiSMUzZyQOrD7IEA5"
+      },
+      "artists": [
+        {
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
+        }
+      ],
+      "duration_ms": 359335,
+      "name": "Colob\u00f3",
+      "url": "https://open.spotify.com/track/43BkOsYBrtPJZSOWahpe7Q"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Dear Diz (Every Day I Think Of You)",
-        "url": "https://open.spotify.com/album/2GSUGpLdpMUY0ITmHhP5iB"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        }
-      ],
-      "duration_ms": 408920,
-      "name": "Salt Peanuts! (Mani Salado)",
-      "url": "https://open.spotify.com/track/12PIYgeuoKpo4xkuhblTz3"
-    },
-    {
-      "added_at": "2025-08-07 16:57:48",
-      "album": {
         "name": "Live in Cuba",
         "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 429775,
       "name": "Dali - From Portrait in Seven Shades",
       "url": "https://open.spotify.com/track/5rTuSVB4hmbP7sfRGM9jaC"
+    },
+    {
+      "added_at": "2025-08-07 16:57:48",
+      "album": {
+        "name": "Dear Diz (Every Day I Think Of You)",
+        "url": "https://open.spotify.com/album/2GSUGpLdpMUY0ITmHhP5iB"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "duration_ms": 408920,
+      "name": "Salt Peanuts! (Mani Salado)",
+      "url": "https://open.spotify.com/track/12PIYgeuoKpo4xkuhblTz3"
     },
     {
       "added_at": "2025-08-07 16:57:48",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2025-08-07 16:57:48",
       "album": {
-        "name": "Yesun",
-        "url": "https://open.spotify.com/album/3NUVKuL8a2JJHyKTCYNPYQ"
+        "name": "Sonero: The Music of Ismael Rivera",
+        "url": "https://open.spotify.com/album/2xgt6RLEol1akzCP2OnyzP"
       },
       "artists": [
         {
-          "name": "Roberto Fonseca",
-          "url": "https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu"
+          "name": "Miguel Zen\u00f3n",
+          "url": "https://open.spotify.com/artist/16ZWHAtASUfHWkdT9NMXMj"
         }
       ],
-      "duration_ms": 166974,
-      "name": "Aggua",
-      "url": "https://open.spotify.com/track/6scdgIcbzG09jLxx7esSIF"
+      "duration_ms": 496926,
+      "name": "El Negro Bemb\u00f3n",
+      "url": "https://open.spotify.com/track/4lksEid3JeMWn2OGkKdAda"
     }
   ],
   "unique_name": "Latin Jazz",

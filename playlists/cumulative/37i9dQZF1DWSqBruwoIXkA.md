@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Asha Banks
 
-1,054 songs - 2 day 10 hr 0 min
+1,056 songs - 2 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Better Version \(feat\. Kelsea Ballerini\)](https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Girl Of My Dreams \(Deluxe\)](https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH) | 2:53 | 2022-11-18 | 2023-09-16 |
 | [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 | 2023-07-14 | 2025-03-26 |
 | [Bigger Than The Whole Sky](https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(3am Edition\)](https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq) | 3:38 | 2022-10-21 |  |
+| [BIRTHDAY](https://open.spotify.com/track/4WmVt5fadMOfE9Fsc6F2Cw) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [BIRTHDAY](https://open.spotify.com/album/3D0LxzawBk0Q6YIawaq6Kw) | 3:40 | 2026-05-29 |  |
 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-02-09 | 2025-03-26 |
 | [Birthday Makeup](https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Birthday Makeup](https://open.spotify.com/album/5GEtta9qkKWmoWVZxbsq8t) | 2:54 | 2026-04-24 |  |
 | [Biting My Tongue](https://open.spotify.com/track/3yUuElWQqnDLhxfb3gy1Fm) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/4RYoxrJMKyyIMAdDxO1Io3) | 3:33 | 2024-07-26 | 2024-11-05 |
@@ -157,6 +158,7 @@
 | [Chameleon](https://open.spotify.com/track/4bYL3lV43UcPlRRUDeRvdH) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Chameleon](https://open.spotify.com/album/0a1Ml3TKQuBrnlaRUoyqA1) | 3:37 | 2024-09-27 | 2024-10-05 |
 | [champagne problems](https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 4:04 | 2022-01-28 | 2022-10-22 |
 | [Change Your Mind](https://open.spotify.com/track/2MNG8spWd2fgvokW8EZDod) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Change Your Mind](https://open.spotify.com/album/2m0JQF1MKvULQtsUWxGjdM) | 2:54 | 2023-07-31 | 2024-01-13 |
+| [chaotic](https://open.spotify.com/track/1yqQANXMu1CgGTjHQewP6G) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [scars to prove it](https://open.spotify.com/album/73Sgh6sfNyy8ZA3RZLJmKS) | 3:14 | 2026-05-29 |  |
 | [chaotic](https://open.spotify.com/track/4bt7eqP7mfWduRBKEpCAzM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 2:55 | 2024-01-12 | 2024-04-19 |
 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 | 2022-03-25 | 2025-12-23 |
 | [charlie](https://open.spotify.com/track/1vrNgkZq9ot6Wf5KChXUBO) | [Jordan Suaste](https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0) | [maybe i already am](https://open.spotify.com/album/3Pf6dUwqtNfPsFOn3Ua5bz) | 3:10 | 2024-09-06 | 2024-09-14 |
@@ -713,7 +715,7 @@
 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 | 2024-02-16 | 2024-04-27 |
 | [Older](https://open.spotify.com/track/3kywzyEr7V106Un5cDyh12) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Loser](https://open.spotify.com/album/7qUpf1A0w5hh4Do5SLRYjP) | 3:04 | 2021-12-17 |  |
 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-27 | 2025-07-26 |
-| [One Day](https://open.spotify.com/track/5gdZR1LbeJktVF0SFqU4a9) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [One Day](https://open.spotify.com/album/6UdAC6I3beffgXZtSzYwFK) | 3:15 | 2026-01-16 |  |
+| [One Day](https://open.spotify.com/track/5gdZR1LbeJktVF0SFqU4a9) | [Karly Bowman](https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6) | [One Day](https://open.spotify.com/album/6UdAC6I3beffgXZtSzYwFK) | 3:15 | 2026-01-16 | 2026-05-30 |
 | [One Man Show](https://open.spotify.com/track/3cv94ffVsAqitFcbwlr2CV) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [One Man Show](https://open.spotify.com/album/58GUyjbezG6kYGisHTNcBy) | 2:58 | 2024-02-23 | 2024-07-05 |
 | [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 | 2023-06-16 | 2024-04-19 |
 | [One More Shot](https://open.spotify.com/track/5lsSHLrIl01eG4HHXhvxRZ) | [Cil](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/0E4WDS5jvqo0AlRtUAeSyM) | 2:21 | 2023-01-20 | 2025-05-03 |
@@ -892,7 +894,7 @@
 | [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 | 2023-11-17 | 2023-12-02 |
 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 | 2025-07-11 | 2025-11-08 |
 | [The Man That Came Back](https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 4:01 | 2025-07-30 |  |
-| [The Motive](https://open.spotify.com/track/4U1hLzm0Hwd3UTLeWKHhVt) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [The Motive](https://open.spotify.com/album/63QlFnuiQqTxFzGzhQI0tv) | 2:16 | 2025-12-19 |  |
+| [The Motive](https://open.spotify.com/track/4U1hLzm0Hwd3UTLeWKHhVt) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [The Motive](https://open.spotify.com/album/63QlFnuiQqTxFzGzhQI0tv) | 2:16 | 2025-12-19 | 2026-05-30 |
 | [The Neighborhood](https://open.spotify.com/track/6Rk2l7DEUgUXqcCRvvsuz0) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [When It Was Over](https://open.spotify.com/album/0BVWJAk1zI0YF7JVByC0r1) | 3:13 | 2023-06-26 | 2023-07-15 |
 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 | 2022-07-29 | 2026-01-24 |
 | [The Night You Left](https://open.spotify.com/track/5lLg6681ubB6onQvgtcI4k) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [The Night You Left](https://open.spotify.com/album/4R9WkXMPVd9GvS9T8WiKFj) | 2:39 | 2021-12-17 | 2022-05-20 |

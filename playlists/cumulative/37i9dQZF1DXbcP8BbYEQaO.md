@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-864 songs - 2 day 0 hr 28 min
+866 songs - 2 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [break up with your girlfriend, i'm bored](https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:10 | 2021-06-19 | 2021-07-10 |
 | [Breathe](https://open.spotify.com/track/5IcYNaZuJdwX6edlQkNCI6) | [ABISHA](https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ) | [Breathe](https://open.spotify.com/album/0LMqMuEwlwH98g8KXaJUZG) | 3:07 | 2023-03-31 | 2023-04-29 |
 | [brooklyn boy](https://open.spotify.com/track/49NHhYyzUBQBwexsZxcjlN) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:55 | 2021-02-19 | 2021-06-19 |
+| [Brutalist](https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:57 | 2026-05-29 |  |
 | [Bruxelles je t’aime](https://open.spotify.com/track/4sOjKbpa7RLZVRNxcO26eb) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Bruxelles je t'aime](https://open.spotify.com/album/72XwipnC6NWfEd5BIWAXMp) | 3:48 | 2021-10-23 | 2022-04-17 |
 | [Bubble](https://open.spotify.com/track/4vb7jSp8SjP6dHVZ1m3Yhv) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Bubble](https://open.spotify.com/album/7iBpoxvtEN2wVV4bOh4yoc) | 3:45 | 2021-11-13 | 2022-04-17 |
 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 | 2021-06-19 | 2021-07-04 |
@@ -232,7 +233,7 @@
 | [Emotion](https://open.spotify.com/track/5Rnv9hVUuyc5Q7jiFRHRwm) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Lost \- EP](https://open.spotify.com/album/1U1CVrJeVjdt6eY13T34FY) | 3:24 | 2020-10-13\* | 2022-01-01 |
 | [Encore](https://open.spotify.com/track/6VKp9ZRRULPkWTt87jYVMG) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Encore](https://open.spotify.com/album/4KCpGAzRm43d1KR0uHopMy) | 2:20 | 2023-08-18 | 2023-09-23 |
 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:29 | 2023-05-19 | 2024-01-20 |
-| [enough](https://open.spotify.com/track/5F5o8qBRbzpkK8yvrWkjPU) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [enough](https://open.spotify.com/album/3NihohRMjIZ6PPAYzi7Mj3) | 3:02 | 2025-05-16 |  |
+| [enough](https://open.spotify.com/track/5F5o8qBRbzpkK8yvrWkjPU) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [enough](https://open.spotify.com/album/3NihohRMjIZ6PPAYzi7Mj3) | 3:02 | 2025-05-16 | 2026-05-30 |
 | [Entertainer](https://open.spotify.com/track/6kjKRa91zikS6ZOL2Rt1QF) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Icarus Falls](https://open.spotify.com/album/2aE3VcIiNPqqo4VzOXiDoR) | 3:22 | 2020-10-13\* | 2021-07-04 |
 | [Erotic Electronic](https://open.spotify.com/track/0TEoYWl2RLGbmsbB2Aoaa4) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Erotic Electronic](https://open.spotify.com/album/2HZkihcW7WfCMaok4rTCEk) | 2:23 | 2023-08-18 | 2023-10-18 |
 | [Ever Since New York](https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 4:13 | 2021-06-19 | 2021-06-26 |
@@ -447,7 +448,7 @@
 | [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2020-10-13\* | 2021-06-19 |
 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 | 2026-05-22 |  |
 | [LAST MAN STANDING](https://open.spotify.com/track/1EWQItYxD9C6dicju78MWC) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [LAST MAN STANDING](https://open.spotify.com/album/2ZdaLdroDh69cI4FqsRo19) | 3:23 | 2025-06-13 | 2025-10-11 |
-| [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-08 |  |
+| [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-08 | 2026-05-30 |
 | [Last Resort](https://open.spotify.com/track/07wivlC2H97wjBNswKZPhy) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Last Resort](https://open.spotify.com/album/0jNyhEzqg91y2CpcR3Hw1q) | 2:51 | 2024-01-26 | 2024-02-17 |
 | [last time](https://open.spotify.com/track/0UzJ1IVUONAqNSvrLDHz3I) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Sitting at the Kids Table](https://open.spotify.com/album/42DhJfcMoofwzhUQ2WKzBb) | 3:13 | 2020-10-13\* | 2021-12-04 |
 | [latenight](https://open.spotify.com/track/1a5JGx5dbSPHC4jqNtcqiX) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [latenight](https://open.spotify.com/album/5mo7fGpUrPSUt424yuPJdO) | 3:01 | 2023-01-27 | 2023-09-25 |
@@ -696,6 +697,7 @@
 | [Somebody New](https://open.spotify.com/track/6nZ7OxSAEQ9MDRpujyKugb) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Somebody New](https://open.spotify.com/album/1Y0HZbb6ZV7FGKMrFEoWdj) | 3:05 | 2024-11-08 | 2025-06-14 |
 | [something i'm not](https://open.spotify.com/track/3VrwrE8rVr5CaQ3ZmwhW7D) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [something i'm not](https://open.spotify.com/album/0qdofNpXH1yUQjdja6z0Xn) | 2:34 | 2026-05-15 |  |
 | [Sometimes](https://open.spotify.com/track/2ObEl8XMk6XQIPGFZwAQa9) | [Cajsa Siik](https://open.spotify.com/artist/0YoNeQ5nyDVM6lRAhnzvk8) | [Sometimes](https://open.spotify.com/album/5QcY7Mu7dY9PeFRtKwNc8b) | 4:03 | 2022-12-16 | 2023-01-21 |
+| [Song and Dance Man](https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and Dance Man + Let's Go Camping](https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA) | 2:17 | 2026-05-29 |  |
 | [sorry](https://open.spotify.com/track/7EcUaKyjR0WlujOxkpUxh1) | [Hanniou](https://open.spotify.com/artist/6cPHtMeQsCbbzpKyNDduLT) | [sorry](https://open.spotify.com/album/2FgOGpo1bbhTUmfUUdUrrr) | 2:34 | 2022-05-16 | 2022-06-24 |
 | [Sound & Light](https://open.spotify.com/track/4qzm5ib6WlsEoUZK77IOZt) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Sound & Light](https://open.spotify.com/album/4J9mjNuFkJacjvwORMce86) | 3:18 | 2025-06-13 | 2025-07-08 |
 | [Stand Back](https://open.spotify.com/track/3MZexS7gY85ivYKaW6Lahf) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Stand Back](https://open.spotify.com/album/4WISihDJet0G4fl0mekEzI) | 4:33 | 2024-05-24 | 2024-08-03 |

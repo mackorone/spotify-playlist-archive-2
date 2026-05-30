@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Balming Tiger) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc548\uc608\uc740 (Ahn Ye Eun)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -1478,6 +1478,24 @@
       "duration_ms": 234986,
       "name": "As I Am",
       "url": "https://open.spotify.com/track/6n4R95MRGR3FmzxFtF89fm"
+    },
+    {
+      "album": {
+        "name": "Breathing Methods",
+        "url": "https://open.spotify.com/album/43mZmhTsB9gmskv8k3q0Ml"
+      },
+      "artists": [
+        {
+          "name": "Jenny Choi",
+          "url": "https://open.spotify.com/artist/2rtmI0H2LRnKU9Et5bl20L"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226901,
+      "name": "As is",
+      "url": "https://open.spotify.com/track/1sT0vbLIJRnOIJU6gKAKDa"
     },
     {
       "album": {
@@ -4526,6 +4544,24 @@
       "duration_ms": 171527,
       "name": "Dennis The Menace",
       "url": "https://open.spotify.com/track/12hdnizN9QCVB9WGIjCiAa"
+    },
+    {
+      "album": {
+        "name": "I don't think it's THAT bad",
+        "url": "https://open.spotify.com/album/3ioXJFtha5tHn3O0Y8MCDc"
+      },
+      "artists": [
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182911,
+      "name": "DENY",
+      "url": "https://open.spotify.com/track/469KVmto2MTpWFoJ7MGEaN"
     },
     {
       "album": {
@@ -7622,7 +7658,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 199125,
       "name": "Give me a Sin",
       "url": "https://open.spotify.com/track/1Z7ppeuMBD3yZwSKfl0c1I"
@@ -7824,7 +7860,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 254750,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/7BoDS7yidANiu8l7RSX4f2"

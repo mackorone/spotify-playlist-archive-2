@@ -973,6 +973,28 @@
     },
     {
       "album": {
+        "name": "Do Not Disturb: Late Checkout",
+        "url": "https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202413,
+      "name": "Aquel diciembre",
+      "url": "https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG"
+    },
+    {
+      "album": {
         "name": "CARPETA DE VERANO (VOL. 1)",
         "url": "https://open.spotify.com/album/09rh3FOkytsok3CPyKuRSh"
       },
@@ -4236,7 +4258,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 155025,
       "name": "Formal",
       "url": "https://open.spotify.com/track/639VMIRyWgnlaklcGMMQjU"
@@ -4523,6 +4545,32 @@
     },
     {
       "album": {
+        "name": "GROSER\u00cdAS",
+        "url": "https://open.spotify.com/album/6PA6lyCiUd7B4hOS7LTzZe"
+      },
+      "artists": [
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181395,
+      "name": "GROSER\u00cdAS",
+      "url": "https://open.spotify.com/track/28A6f2ofNfhcbqjP4HxumT"
+    },
+    {
+      "album": {
         "name": "Groser\u00edas",
         "url": "https://open.spotify.com/album/7Hamo1AB1RJBrRcSFGgQrT"
       },
@@ -4706,7 +4754,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 180881,
       "name": "HASTA QUE ME ENAMORO",
       "url": "https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l"
@@ -5862,7 +5910,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 142826,
       "name": "La Visita",
       "url": "https://open.spotify.com/track/17yaOBQXZjOtQC2FZRNVM8"
@@ -9402,7 +9450,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 193013,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
@@ -12087,6 +12135,24 @@
     },
     {
       "album": {
+        "name": "UNA NA MAS",
+        "url": "https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196256,
+      "name": "UNA NA MAS",
+      "url": "https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"
+    },
+    {
+      "album": {
         "name": "UNOS BESOS \u00bfO QU\u00c9?",
         "url": "https://open.spotify.com/album/5BTcY0vkrCyF6fRQlfHbJz"
       },
@@ -12572,6 +12638,24 @@
       "duration_ms": 217000,
       "name": "Ya Quiero Verte",
       "url": "https://open.spotify.com/track/1ZIqjrEbJrlHt8vrIrhwre"
+    },
+    {
+      "album": {
+        "name": "YATES Y OLAS",
+        "url": "https://open.spotify.com/album/5uJeXduFkH1GCYcyHND2AU"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "YATES Y OLAS",
+      "url": "https://open.spotify.com/track/5jAfQMsi6LijMv8OIOwdiz"
     },
     {
       "album": {

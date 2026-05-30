@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2017. Cover: The xx",
-  "num_followers": 162240,
+  "num_followers": 162234,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Everything Now",
-        "url": "https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 303013,
-      "name": "Everything Now",
-      "url": "https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Thousand Peaces",
         "url": "https://open.spotify.com/album/79mdn7airf7jJw1dhV1PCI"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+        "name": "Everything Now",
+        "url": "https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
         }
       ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+      "duration_ms": 303013,
+      "name": "Everything Now",
+      "url": "https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -691,6 +675,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Don't You Worry, Honey",
         "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "LA DIVINE",
-        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Love Is Mystical",
-      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Roy Pablo",
         "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 198000,
       "name": "Dance, Baby!",
       "url": "https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "LA DIVINE",
+        "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Love Is Mystical",
+      "url": "https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Lighting Matches (Deluxe)",
-        "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 190986,
-      "name": "Found What I've Been Looking For",
-      "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Roy Pablo",
         "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 172941,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Lighting Matches (Deluxe)",
+        "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 190986,
+      "name": "Found What I've Been Looking For",
+      "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 314486,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "LA DIVINE",
         "url": "https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 189506,
       "name": "So Tied Up",
       "url": "https://open.spotify.com/track/3msS7xaelR4Oa0n7IwHkgF"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 314486,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "raingurl",
-        "url": "https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr"
+        "name": "You Say I'm in Love",
+        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+          "name": "Banes World",
+          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
         }
       ],
-      "duration_ms": 237231,
-      "name": "raingurl",
-      "url": "https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU"
+      "duration_ms": 176760,
+      "name": "You Say I'm in Love",
+      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Beautiful People Will Ruin Your Life",
-        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
+        "name": "raingurl",
+        "url": "https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr"
       },
       "artists": [
         {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 207679,
-      "name": "Turn",
-      "url": "https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L"
+      "duration_ms": 237231,
+      "name": "raingurl",
+      "url": "https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Beautiful People Will Ruin Your Life",
+        "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 207679,
+      "name": "Turn",
+      "url": "https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 229760,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Still Beating",
-      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1519,18 +1519,34 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "You Say I'm in Love",
-        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
       },
       "artists": [
         {
-          "name": "Banes World",
-          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 176760,
-      "name": "You Say I'm in Love",
-      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
+      "duration_ms": 181586,
+      "name": "Still Beating",
+      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "The Far Field",
+        "url": "https://open.spotify.com/album/5fhDKNsP4aDsSLjd4JLXrz"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "Ran",
+      "url": "https://open.spotify.com/track/5GxeKtNdjSVAZTfxSsnXhF"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1583,18 +1599,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "The Far Field",
-        "url": "https://open.spotify.com/album/5fhDKNsP4aDsSLjd4JLXrz"
+        "name": "Process",
+        "url": "https://open.spotify.com/album/2gUSWVHCOerKhJHZRwhVtN"
       },
       "artists": [
         {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 205586,
-      "name": "Ran",
-      "url": "https://open.spotify.com/track/5GxeKtNdjSVAZTfxSsnXhF"
+      "duration_ms": 218160,
+      "name": "(No One Knows Me) Like the Piano",
+      "url": "https://open.spotify.com/track/5zOnoB8FdZudDcPX4O8WqF"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1627,22 +1643,6 @@
       "duration_ms": 209449,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Apricot Princess",
-        "url": "https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 135706,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG"
     }
   ],
   "unique_name": "Best of Indie 2017",

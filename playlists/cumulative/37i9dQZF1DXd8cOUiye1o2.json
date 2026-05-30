@@ -3818,6 +3818,10 @@
           "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         },
         {
+          "name": "Nupoor Khedkar",
+          "url": "https://open.spotify.com/artist/0NU4RKzpRuMwTyQRlPxqvD"
+        },
+        {
           "name": "Sameer Anjaan",
           "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
         }
@@ -8718,7 +8722,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 230078,
       "name": "Kehdo Na",
       "url": "https://open.spotify.com/track/1FhxwycADCjWyHbatR0NmF"
@@ -9153,6 +9157,28 @@
     },
     {
       "album": {
+        "name": "Kohinoor",
+        "url": "https://open.spotify.com/album/6v5MNxW19uV6uwLJmS8zwA"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145178,
+      "name": "Kohinoor",
+      "url": "https://open.spotify.com/track/0Pe7k7uGkfVwoSMOuC8WE5"
+    },
+    {
+      "album": {
         "name": "Ek Aur Baar Kishore Kumar",
         "url": "https://open.spotify.com/album/10AIbbl6Rq3w6XPw0wypXa"
       },
@@ -9572,7 +9598,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 204516,
       "name": "Lajawaab",
       "url": "https://open.spotify.com/track/6ZJyDvBnyhYOz1BnlLuqob"
@@ -10326,6 +10352,32 @@
       "duration_ms": 242142,
       "name": "Mann Ye Mera (From \"Metro ... In Dino\")",
       "url": "https://open.spotify.com/track/1iM0dkfgtTxBi7yQV16pjD"
+    },
+    {
+      "album": {
+        "name": "Manva Mera",
+        "url": "https://open.spotify.com/album/5MFO8NU4nP5mU5ShAtZvSw"
+      },
+      "artists": [
+        {
+          "name": "Bismil",
+          "url": "https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu"
+        },
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245109,
+      "name": "Manva Mera",
+      "url": "https://open.spotify.com/track/4KHeyyU6JFCaCU4EZ2fKd0"
     },
     {
       "album": {
@@ -12611,6 +12663,32 @@
     },
     {
       "album": {
+        "name": "Passa Passa (Indian Version)",
+        "url": "https://open.spotify.com/album/4BcmIhQ3dFFaPGrnVFySMa"
+      },
+      "artists": [
+        {
+          "name": "Karl Wine",
+          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "Passa Passa (Indian Version)",
+      "url": "https://open.spotify.com/track/3pDUFTucIY09rx5CqfeFsi"
+    },
+    {
+      "album": {
         "name": "Dhaage",
         "url": "https://open.spotify.com/album/6WyErAMFULWdvP2Jn0eLpI"
       },
@@ -13076,7 +13154,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 281198,
       "name": "Prem Ki Leela (From \"Krishnavataram - Part 1: The Heart (Hridayam)\")",
       "url": "https://open.spotify.com/track/5JTts8pjTvUtFtmcuK2yEu"
@@ -14877,6 +14955,32 @@
     },
     {
       "album": {
+        "name": "Sang Tere Jhoome (From \"Gullak: S5\")",
+        "url": "https://open.spotify.com/album/3PCCkx1oCV9Jy9xIe82IqS"
+      },
+      "artists": [
+        {
+          "name": "Arabinda-Pratikhyaa",
+          "url": "https://open.spotify.com/artist/1MO114YPHcXCA5GjSzqtz1"
+        },
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181214,
+      "name": "Sang Tere Jhoome - From \"Gullak: S5\"",
+      "url": "https://open.spotify.com/track/5ulPLTvuYjr647UX5zlCEd"
+    },
+    {
+      "album": {
         "name": "Hello Bachhon (Music From The Netflix Series)",
         "url": "https://open.spotify.com/album/6Ot0KMyTsztYFU6Ex86N5J"
       },
@@ -16040,7 +16144,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 180846,
       "name": "Taj",
       "url": "https://open.spotify.com/track/5DxdClbt4RFSJZuofU0dbH"

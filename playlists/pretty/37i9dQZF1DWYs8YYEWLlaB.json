@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: Lvbel C5 x DYSTINCT",
-  "num_followers": 580726,
+  "num_followers": 580769,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-05-28 21:00:31",
       "album": {
-        "name": "Virt\u00fc\u00f6z",
-        "url": "https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "git",
-      "url": "https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1"
-    },
-    {
-      "added_at": "2026-05-28 21:00:31",
-      "album": {
         "name": "valiz",
         "url": "https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2026-05-28 21:00:31",
       "album": {
-        "name": "PARDON MUTLULUKLAR",
-        "url": "https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP"
+        "name": "Virt\u00fc\u00f6z",
+        "url": "https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ"
       },
       "artists": [
         {
-          "name": "Poizi",
-          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
         }
       ],
-      "duration_ms": 158779,
-      "name": "UYUYAMADIN D\u0130M\u0130?",
-      "url": "https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07"
+      "duration_ms": 158774,
+      "name": "git",
+      "url": "https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1"
     },
     {
       "added_at": "2026-05-28 21:00:31",
@@ -439,6 +423,22 @@
       "duration_ms": 143265,
       "name": "Ewa Safi",
       "url": "https://open.spotify.com/track/3PZ5mxb19denUmoHHpMipx"
+    },
+    {
+      "added_at": "2026-05-28 21:00:31",
+      "album": {
+        "name": "PARDON MUTLULUKLAR",
+        "url": "https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP"
+      },
+      "artists": [
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        }
+      ],
+      "duration_ms": 158779,
+      "name": "UYUYAMADIN D\u0130M\u0130?",
+      "url": "https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07"
     },
     {
       "added_at": "2026-05-28 21:00:31",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-05-28 21:00:31",
       "album": {
-        "name": "Ke\u015fke",
-        "url": "https://open.spotify.com/album/6fqTOG4E0dmemK3mwYCogc"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        },
-        {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
-        }
-      ],
-      "duration_ms": 207253,
-      "name": "Ke\u015fke",
-      "url": "https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n"
-    },
-    {
-      "added_at": "2026-05-28 21:00:31",
-      "album": {
         "name": "Gel",
         "url": "https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 164869,
       "name": "Gel",
       "url": "https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu"
+    },
+    {
+      "added_at": "2026-05-28 21:00:31",
+      "album": {
+        "name": "Ke\u015fke",
+        "url": "https://open.spotify.com/album/6fqTOG4E0dmemK3mwYCogc"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        },
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "duration_ms": 207253,
+      "name": "Ke\u015fke",
+      "url": "https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n"
     },
     {
       "added_at": "2026-05-28 21:00:31",
@@ -743,18 +743,22 @@
     {
       "added_at": "2026-05-28 21:00:31",
       "album": {
-        "name": "valiz",
-        "url": "https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7"
+        "name": "Mustafa Sandal Sayg\u0131 1",
+        "url": "https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq"
       },
       "artists": [
         {
-          "name": "Yung Ouzo",
-          "url": "https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb"
+          "name": "Mela Bedel",
+          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
+        },
+        {
+          "name": "Mustafa Sandal",
+          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
         }
       ],
-      "duration_ms": 119172,
-      "name": "#i\u015fbirli\u011fi",
-      "url": "https://open.spotify.com/track/7pY0EgXq4SAl0dHjtkxdUe"
+      "duration_ms": 191079,
+      "name": "\u0130ki Tas \u00c7orba - Mustafa Sandal Sayg\u0131 1",
+      "url": "https://open.spotify.com/track/5Ppj0GysGcSeKn2AznI6rT"
     },
     {
       "added_at": "2026-05-28 21:00:31",
@@ -783,6 +787,22 @@
     {
       "added_at": "2026-05-28 21:00:31",
       "album": {
+        "name": "valiz",
+        "url": "https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7"
+      },
+      "artists": [
+        {
+          "name": "Yung Ouzo",
+          "url": "https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb"
+        }
+      ],
+      "duration_ms": 119172,
+      "name": "#i\u015fbirli\u011fi",
+      "url": "https://open.spotify.com/track/7pY0EgXq4SAl0dHjtkxdUe"
+    },
+    {
+      "added_at": "2026-05-28 21:00:31",
+      "album": {
         "name": "NALAKA",
         "url": "https://open.spotify.com/album/7sE9isq4Y1SbEVHdaR6Gmb"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 106666,
       "name": "NALAKA",
       "url": "https://open.spotify.com/track/5h5QPBDmsxIGuH55zsBgRU"
-    },
-    {
-      "added_at": "2026-05-28 21:00:31",
-      "album": {
-        "name": "Mustafa Sandal Sayg\u0131 1",
-        "url": "https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq"
-      },
-      "artists": [
-        {
-          "name": "Mela Bedel",
-          "url": "https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY"
-        },
-        {
-          "name": "Mustafa Sandal",
-          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
-        }
-      ],
-      "duration_ms": 191079,
-      "name": "\u0130ki Tas \u00c7orba - Mustafa Sandal Sayg\u0131 1",
-      "url": "https://open.spotify.com/track/5Ppj0GysGcSeKn2AznI6rT"
     },
     {
       "added_at": "2026-05-28 21:00:31",

@@ -2821,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "Eternal Child",
+        "url": "https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307161,
+      "name": "Eternal Child",
+      "url": "https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr"
+    },
+    {
+      "album": {
         "name": "Eternal Orbit",
         "url": "https://open.spotify.com/album/45I5XsIbAX2CTqpkaMgqGD"
       },
@@ -10070,24 +10088,6 @@
       "duration_ms": 234775,
       "name": "Tomorrow\uff08feat.Gaku Kano\uff09",
       "url": "https://open.spotify.com/track/0hFgollnKwPJjFod8ouqof"
-    },
-    {
-      "album": {
-        "name": "Eternal Child",
-        "url": "https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm"
-      },
-      "artists": [
-        {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
-        }
-      ],
-      "date_added": "2026-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr"
     },
     {
       "album": {

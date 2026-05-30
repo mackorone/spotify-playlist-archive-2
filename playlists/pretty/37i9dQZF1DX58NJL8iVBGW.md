@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Long\-shadow roots rock, folk, and Americana\. Grit\-worn, brooding, and  dark.
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,243 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,317 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 65 | [Where the Enemy Sleeps](https://open.spotify.com/track/17YEHsH3LwT9yqqQhuid8k) | [Scott Mackay](https://open.spotify.com/artist/2xYS83mlSswjyivp81pukU), [Lucette](https://open.spotify.com/artist/01z6ICSRjIuMEwMhPyA6ql) | [Twin](https://open.spotify.com/album/5GhI019oC8mS6czOfouj2J) | 3:16 |
 | 66 | [God Of Love](https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [3](https://open.spotify.com/album/1hMuNxqnxcC35yTBMgQw4P) | 3:54 |
 | 67 | [Dead Man's Pocket](https://open.spotify.com/track/1SbnUcfbqd0EdkczKJbEDK) | [Vudu Sister](https://open.spotify.com/artist/5Gu7iDoQjE7anHIbCXckC8) | [Bastard Children](https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG) | 2:54 |
-| 68 | [Saint Elizabeth](https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 3:59 |
-| 69 | [Gambling Preacher and His Daughter](https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod) | [Whiskey Folk Ramblers](https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj) | [...And There Are Devils](https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g) | 3:36 |
+| 68 | [Gambling Preacher and His Daughter](https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod) | [Whiskey Folk Ramblers](https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj) | [...And There Are Devils](https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g) | 3:36 |
+| 69 | [Saint Elizabeth](https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/5L8YBDqmTSCUoXrRcEwaMG) | 3:59 |
 | 70 | [Country Blues](https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk) | [Rose's Pawn Shop](https://open.spotify.com/artist/1LJtIL5oefyNjM2r2FomZ3) | [Gravity Well](https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB) | 3:23 |
 | 71 | [Elizabeth](https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Elizabeth](https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU) | 4:01 |
 | 72 | [How Many Days](https://open.spotify.com/track/4qqkMiRfK6c7L8rDIZ9mFV) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Ghost Brothers of Darkland County](https://open.spotify.com/album/3y8jfBMnTjzf0yksfY3GXS) | 3:41 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 85 | [Blackland Farmer](https://open.spotify.com/track/1WM2z5ygjXsQ3m7c4wOnCm) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Blackland Farmer](https://open.spotify.com/album/5dzpYBxnAftQ8cQhMgjNDl) | 7:37 |
 | 86 | [One Trip Pony](https://open.spotify.com/track/4BjGGDbhvokfDOBainle9U) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [One Trip Pony](https://open.spotify.com/album/74baaIXY7vOeuCZzVSEVs3) | 3:40 |
 | 87 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 |
-| 88 | [All My Tears](https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 2:04 |
-| 89 | [The Devil & The Huntsman](https://open.spotify.com/track/798DGIdVPsLFXvDblTeM7d) | [Sam Lee](https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7), [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [King Arthur: Legend of the Sword \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3T3Kfm4Z6OGCVqIpcpULP1) | 4:18 |
-| 90 | [Barton Hollow](https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:25 |
+| 88 | [Barton Hollow](https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:25 |
+| 89 | [All My Tears](https://open.spotify.com/track/2UZ8C6abrCuhjelaK1MFz1) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 2:04 |
+| 90 | [The Devil & The Huntsman](https://open.spotify.com/track/798DGIdVPsLFXvDblTeM7d) | [Sam Lee](https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7), [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [King Arthur: Legend of the Sword \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3T3Kfm4Z6OGCVqIpcpULP1) | 4:18 |
 | 91 | [The Railroad](https://open.spotify.com/track/1Z0FpIlGRGQrC7rz2uwX6I) | [Goodnight, Texas](https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5) | [A Long Life of Living](https://open.spotify.com/album/0W6IZrPamQ7KXLXxvR9usJ) | 4:10 |
 | 92 | [Far From Any Road](https://open.spotify.com/track/4B4xOuj22g8WAMvTzPV7Bq) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Singing Bones](https://open.spotify.com/album/3u4rZDOy1c7N0otfHS0qTj) | 2:46 |
 | 93 | [Sleeping on the Blacktop](https://open.spotify.com/track/3FYVkmrVYbEo17vXmb5x2A) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1fU47P4gQ63M7Rr7gNtZZz) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : Anaïs Cardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,815 likes - 73 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,810 likes - 73 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 72 | [Tourne Tourne](https://open.spotify.com/track/0RAYTKZxMhS5nWbPP2Ojuz) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [CARDIO DRAME](https://open.spotify.com/album/0t4I2vTPNL4IKMXCVNSCvY) | 2:29 |
 | 73 | [L’heure bleue](https://open.spotify.com/track/04ic5De5mCJS8iqVlrRrpQ) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Histoire d’un masque](https://open.spotify.com/album/5ejWWUcecAbiW4abPX6DOh) | 2:16 |
 
-Snapshot ID: `AAAAAO+xkGhYbKULgf4GwBaN/oC28zGe`
+Snapshot ID: `AAAAANq9ibUp4slVvbJZCWu/kazHoJse`

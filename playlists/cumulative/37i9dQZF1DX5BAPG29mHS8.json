@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Chuyin en portada.",
+  "description": "Los hits de ahora en la playlist m\u00e1s grande de M\u00e9xico. Asmed y Millonario en portada.",
   "name": "\u00c9xitos M\u00e9xico",
   "tracks": [
     {
@@ -6016,7 +6016,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 185326,
       "name": "dopamina",
       "url": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC"
@@ -8552,7 +8552,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 182046,
       "name": "Hooligan",
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
@@ -8960,7 +8960,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
@@ -11873,6 +11873,28 @@
     },
     {
       "album": {
+        "name": "Matcha Latte",
+        "url": "https://open.spotify.com/album/4yFIXz0bynZk3WNNqSCQpV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167812,
+      "name": "Matcha Latte",
+      "url": "https://open.spotify.com/track/35XhkoUJcvjCmG6qkS75qY"
+    },
+    {
+      "album": {
         "name": "A Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
       },
@@ -11976,6 +11998,24 @@
       "duration_ms": 178567,
       "name": "Me Porto Bonito",
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
+    },
+    {
+      "album": {
+        "name": "ACOMODO",
+        "url": "https://open.spotify.com/album/18ZBkv7H9aGiDhHVWeuuKv"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186221,
+      "name": "ME VALE V",
+      "url": "https://open.spotify.com/track/7HuGsvzf9aYQXmXS3a0Fd3"
     },
     {
       "album": {
@@ -18087,6 +18127,24 @@
     },
     {
       "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "album": {
         "name": "Selfies",
         "url": "https://open.spotify.com/album/0Y3SGJirAfnpaRUqi3vNMg"
       },
@@ -20459,6 +20517,28 @@
     },
     {
       "album": {
+        "name": "T\u00fa Ni En Cuenta",
+        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203801,
+      "name": "T\u00fa Ni En Cuenta",
+      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
+    },
+    {
+      "album": {
         "name": "U R SUCH A LAME! (RMX)",
         "url": "https://open.spotify.com/album/0AzBQzdTwYYk9aHSqyffWT"
       },
@@ -21050,7 +21130,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 133746,
       "name": "VELOCIDADE",
       "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"

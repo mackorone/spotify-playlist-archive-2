@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-238 songs - 11 hr 37 min
+240 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Taki](https://open.spotify.com/track/2ozW9IStfgDQLx6hZgLoeT) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN) | [Taki](https://open.spotify.com/album/057nP3IX1e7Z6kZ4d2OTwX) | 2:07 | 2025-07-04 |  |
 | [Text Me](https://open.spotify.com/track/1iDvWsd0i0tONCO8lfOqC1) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Text Me](https://open.spotify.com/album/1HClfxFxgWVKnTi4S7Xf99) | 2:35 | 2025-07-04 |  |
 | [The Last Standing](https://open.spotify.com/track/1OMvHzjGMufKVXRy6jKLYJ) | [J.C.Zhou](https://open.spotify.com/artist/1sFuJZ0Jb9VuGpD19g580l) | [The Last Standing](https://open.spotify.com/album/0MvgqXy67k9g2ekumbpBIu) | 3:10 | 2025-07-04 |  |
+| [The Light](https://open.spotify.com/track/5IVEBBkuAscVnEwfroexOZ) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9) | [The Light](https://open.spotify.com/album/1Gw2vUSjEihUAU7TbRJ6xd) | 2:56 | 2026-05-29 |  |
 | [The Motto \- Tiësto’s VIP Mix](https://open.spotify.com/track/6NNpXXkpPDZKxdavZbVhwJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto \(Tiësto’s VIP Mix\)](https://open.spotify.com/album/7meBQmZlwafCUPOAXAaYOQ) | 3:26 | 2025-07-04 |  |
 | [The Oldskool](https://open.spotify.com/track/7E6PttMltdug1odSoOUaLg) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Oldskool](https://open.spotify.com/album/1s7HIcHIZ1XFwRF4dZ32Km) | 2:43 | 2025-07-04 |  |
 | [The Partycrasher](https://open.spotify.com/track/2uHGci4XJywAICJ1D54Xgq) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chuckie](https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ) | [The Partycrasher](https://open.spotify.com/album/4rwbRBvVsKL96gZQcaHTCT) | 2:47 | 2025-12-04 |  |
@@ -237,6 +238,7 @@
 | [We Can't Stop](https://open.spotify.com/track/7b5FO1uKhuJE0ZUJPKLWtI) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [We Can't Stop](https://open.spotify.com/album/27LVMe5wMsHddairHoCux2) | 2:02 | 2025-07-04 |  |
 | [We Come As One](https://open.spotify.com/track/02Eg51HAwz1JmK4yPxV4ui) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9) | [We Come As One](https://open.spotify.com/album/1YbMdMt6TsASotL4jueGGG) | 2:55 | 2026-04-02 |  |
 | [We Don't Care \- SaberZ Remix](https://open.spotify.com/track/0ZP7z0N7Fui5YWs6g1kHYF) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [We Don’t Care \(Incl\. SaberZ Remix\)](https://open.spotify.com/album/2ZhZGTgIcuySWBOYqQwK1X) | 3:10 | 2025-07-04 |  |
+| [We Will Stay Young](https://open.spotify.com/track/3Rs1aN33HRG6foIgM2TNjC) | [Rene Rodrigezz](https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO), [Tommic](https://open.spotify.com/artist/6jzHADOzVu22oYfiNJ2Ewr) | [We Will Stay Young](https://open.spotify.com/album/2FHeRhhrOxiJdcF9VSxuqy) | 2:34 | 2026-05-29 |  |
 | [Welcome To The Weekend](https://open.spotify.com/track/16TlP5h8EAcM3umJfAV5jT) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Welcome To The Weekend](https://open.spotify.com/album/1ySr3refuNS1FVvYTxwIO9) | 2:54 | 2025-07-04 |  |
 | [Why \- BLK RSE Remix](https://open.spotify.com/track/3pasvjHpIOyUEIuFgB9KaD) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [Why \(BLK RSE Remix\)](https://open.spotify.com/album/3UQ5fqGMimlIULruwBMZhf) | 2:52 | 2025-07-04 |  |
 | [Wild](https://open.spotify.com/track/3kKq8JKvGEGSJwd3aChRRb) | [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH), [Nick Havsen](https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3), [Jessie Lee Thetford](https://open.spotify.com/artist/2bLOeO0xeK04raTh2PaBTZ) | [Wild](https://open.spotify.com/album/5yDDif1Lxqfheltsy5Cb4u) | 2:51 | 2025-07-04 |  |

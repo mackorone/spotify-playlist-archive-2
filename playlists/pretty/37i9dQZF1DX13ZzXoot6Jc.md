@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Luke Combs and Country hits that will have you singing every word.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,392 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,384 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 26 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 |
 | 27 | [Smile](https://open.spotify.com/track/0TaLETmF6CvzLKukgBXERn) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:44 |
 | 28 | [All Again](https://open.spotify.com/track/5etrSAugIe3FXuG6em9Atj) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/2037mw8neL72exAlwyoCSc) | 3:48 |
-| 29 | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg) | 3:38 |
-| 30 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 |
+| 29 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 |
+| 30 | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg) | 3:38 |
 | 31 | [Tucson Too Late](https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:52 |
 | 32 | [I'm The Problem](https://open.spotify.com/track/3HlWVKwU0JqJXqJK9DWHnZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm The Problem](https://open.spotify.com/album/0mc2gCpCL7rXvz6HGR6evD) | 2:57 |
 | 33 | [High Road](https://open.spotify.com/track/4CcozggmhXmndssEDH6YHR) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [High Road](https://open.spotify.com/album/5cWglkyJvWPOeH14VLvbeu) | 3:19 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 64 | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk) | 3:40 |
 | 65 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS) | 3:24 |
 | 66 | [Relapse](https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Relapse](https://open.spotify.com/album/4uSU5pj5YinibVkwQF5op3) | 2:38 |
-| 67 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 |
-| 68 | [Boys Back Home](https://open.spotify.com/track/1hgINxfKQlJOikzd9skvC2) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Boys Back Home](https://open.spotify.com/album/79S52DbQr4rfVJ3LUkC2P7) | 2:45 |
+| 67 | [Boys Back Home](https://open.spotify.com/track/1hgINxfKQlJOikzd9skvC2) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Boys Back Home](https://open.spotify.com/album/79S52DbQr4rfVJ3LUkC2P7) | 2:45 |
+| 68 | [Backseat Driver](https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Backseat Driver](https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm) | 3:48 |
 | 69 | [Quitter](https://open.spotify.com/track/3ai1kBVQF9GusoxIdgBrjz) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/23tD5uyi8NdGSKR8OsuU5t) | 2:41 |
 | 70 | [Strangers](https://open.spotify.com/track/2h9qRt8R214yJEBfoPAv3B) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Strangers](https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq) | 3:31 |
 | 71 | [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING](https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG) | 3:20 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 96 | [Good News Sold](https://open.spotify.com/track/2nK23mwuUUiJTx9efT9Lvb) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good News Sold](https://open.spotify.com/album/0z3clvkLiQYa5q6bIcrODQ) | 3:23 |
 | 97 | [Take Her Home](https://open.spotify.com/track/0Jagf5iAYYiWAs0BEoWbWZ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Take Her Home](https://open.spotify.com/album/0be6zO5PTMEctXmGMb7R75) | 3:02 |
 | 98 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
-| 99 | [STRAIGHT LINE](https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [STRAIGHT LINE](https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg) | 3:46 |
-| 100 | [Fires Don't Start Themselves](https://open.spotify.com/track/07NRJ7TdZHv6x6oN5ag3HV) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Carolyn's Boy](https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf) | 3:46 |
+| 99 | [Fires Don't Start Themselves](https://open.spotify.com/track/07NRJ7TdZHv6x6oN5ag3HV) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Carolyn's Boy](https://open.spotify.com/album/475EaXHvy2e2QvNXkt6twf) | 3:46 |
+| 100 | [STRAIGHT LINE](https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [STRAIGHT LINE](https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg) | 3:46 |
 
 Snapshot ID: `AAAAANX/Hdd35uY5oPS6dQLgs0Ppj5iB`

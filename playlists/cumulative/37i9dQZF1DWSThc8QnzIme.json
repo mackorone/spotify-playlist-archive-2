@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-19",
-  "description": "Breeze through your commute with these pop favorites. Cover: Olivia Dean",
+  "description": "Breeze through your commute with these pop favorites. Cover: sombr",
   "name": "Pop Drive",
   "tracks": [
     {
@@ -886,7 +886,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
@@ -1739,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
+    {
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
       },
@@ -2004,6 +2022,24 @@
       "duration_ms": 186599,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/2if19Z5XLIR9CZt2oiKjGk"
+    },
+    {
+      "album": {
+        "name": "Can't Get You Out of My Head - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ynUBc9yQ4pq7kImTMdOql"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Can't Get You Out of My Head - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j4kyvjM60Te1mU0H2LTwR"
     },
     {
       "album": {
@@ -3627,6 +3663,24 @@
     },
     {
       "album": {
+        "name": "drop dead",
+        "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224998,
+      "name": "drop dead",
+      "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -3660,7 +3714,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 182038,
       "name": "Dying for You",
       "url": "https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J"
@@ -4697,6 +4751,24 @@
     },
     {
       "album": {
+        "name": "Fancy That",
+        "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145520,
+      "name": "Girl Like Me",
+      "url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB"
+    },
+    {
+      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
       },
@@ -4822,7 +4894,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -5144,6 +5216,24 @@
       "duration_ms": 179993,
       "name": "Happy World",
       "url": "https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp"
+    },
+    {
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "album": {
@@ -5676,7 +5766,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 169214,
       "name": "House Tour",
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
@@ -6684,6 +6774,24 @@
       "duration_ms": 168387,
       "name": "KiLL iT QUEEN",
       "url": "https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU"
+    },
+    {
+      "album": {
+        "name": "Kingdom of Fear",
+        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161075,
+      "name": "Kingdom of Fear",
+      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
     },
     {
       "album": {
@@ -8715,6 +8823,28 @@
     },
     {
       "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR"
+    },
+    {
+      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -10291,6 +10421,28 @@
     },
     {
       "album": {
+        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213241,
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
+    },
+    {
+      "album": {
         "name": "she's all i wanna be",
         "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
       },
@@ -10858,7 +11010,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 191519,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70"
@@ -11152,7 +11304,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 183803,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo"
@@ -11926,7 +12078,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 317961,
       "name": "The Great Divide",
       "url": "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b"
@@ -12746,7 +12898,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"

@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PP KRIT
 
-892 songs - 2 day 4 hr 23 min
+894 songs - 2 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,8 +143,9 @@
 | [Like You](https://open.spotify.com/track/1iBYMUTBFJDkAW8zQQWGNl) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Like You](https://open.spotify.com/album/7sb7JwqC9frJEdDinAVU0P) | 2:04 | 2025-05-12 | 2025-06-03 |
 | [LIKELY](https://open.spotify.com/track/1D3jkC5lc9XZHKWUpY9j0d) | [THI\-O](https://open.spotify.com/artist/7vYaE3YGPOeipQnjSCVPM1) | [LIKELY](https://open.spotify.com/album/2uEmklXEiChMwe6YK4osXv) | 2:46 | 2024-06-06 | 2024-06-14 |
 | [Living Death](https://open.spotify.com/track/0ze2gwpSfT2leQALslUXId) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Living Death](https://open.spotify.com/album/13Lok3WGq1u7Kby0x9hF5Y) | 4:18 | 2025-04-24 |  |
+| [Lonely Girl](https://open.spotify.com/track/1W5yFzv4CM9tCBnQaor9qS) | [CLO'VER](https://open.spotify.com/artist/6KINo3699mlyhzNc89bE7t) | [Lonely Girl](https://open.spotify.com/album/2xQKi4isf3nTbo7Rygl1f1) | 3:31 | 2026-05-29 |  |
 | [Long Run](https://open.spotify.com/track/07FoWeMGtWfL80KWEVFtqx) | [BRIGHT](https://open.spotify.com/artist/00AG9ycUdGUSIWuekBMp5H) | [Long Run](https://open.spotify.com/album/55vik9rFq6FwoSIgqM8179) | 3:37 | 2024-04-18 | 2024-05-02 |
-| [Love Feels So Fast](https://open.spotify.com/track/74bbA8Uq9Chdce7bzUXH4o) | [รวมศิลปิน LOL FANFEST 2026](https://open.spotify.com/artist/5imDBIDdr8j2qPS20dpRpq) | [Love Feels So Fast](https://open.spotify.com/album/6hi9CCZNpKGqn31ULAd1gJ) | 3:21 | 2026-05-01 |  |
+| [Love Feels So Fast](https://open.spotify.com/track/74bbA8Uq9Chdce7bzUXH4o) | [รวมศิลปิน LOL FANFEST 2026](https://open.spotify.com/artist/5imDBIDdr8j2qPS20dpRpq) | [Love Feels So Fast](https://open.spotify.com/album/6hi9CCZNpKGqn31ULAd1gJ) | 3:21 | 2026-05-01 | 2026-05-30 |
 | [Love Scene](https://open.spotify.com/track/6utAUyCsLCLLZ2F15USs6G) | [JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [Love Scene](https://open.spotify.com/album/2s3Dsr8FRex6adWgxZ9xsJ) | 3:27 | 2026-05-08 | 2026-05-29 |
 | [LOVEGELS \- From GELBOYS สถานะกั๊กใจ](https://open.spotify.com/track/5jCQB8mYMiubVDEx3Lfo0b) | [GELBOYS](https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w), [NEW CHAYAPAK](https://open.spotify.com/artist/0atjgenQFlO5ChPvrXoKqW), [PIDE](https://open.spotify.com/artist/2fBOV1th6k87utX2LYuXeP), [PJ](https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0), [LEON BROCCO](https://open.spotify.com/artist/64BdX5a3XrzsRuc6277LQW) | [LOVEGELS \(From GELBOYS สถานะกั๊กใจ\)](https://open.spotify.com/album/5FYwC7iJcRbdbmAIY7W3wi) | 2:46 | 2025-03-20 | 2025-04-17 |
 | [LUCKY YOU](https://open.spotify.com/track/2mkwWrCvmj1rjG0VbbtjON) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [LUCKY YOU](https://open.spotify.com/album/3m7gfDBTZxjE6dh3Trt02B) | 3:14 | 2024-02-15 | 2024-03-08 |
@@ -276,6 +277,7 @@
 | [WIZ YOU \(อยากมองเธอให้ใกล้กว่านี้\)](https://open.spotify.com/track/43YPcXdj8jlE3aRSD7sZNN) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [WIZ YOU \(อยากมองเธอให้ใกล้กว่านี้\)](https://open.spotify.com/album/1aIKEteG74pCnOWUGWmnIl) | 1:24 | 2024-02-22 | 2024-03-08 |
 | [Woh oh oh](https://open.spotify.com/track/5bX6cVBRNkMuLBeyQqc2i6) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Woh oh oh](https://open.spotify.com/album/3fbHuW3MOpRlCB897o89kb) | 2:38 | 2025-06-29 | 2025-07-25 |
 | [WONDERING](https://open.spotify.com/track/0SXgiQa0SLrGSFvO2t4cf1) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [HOMETOWN](https://open.spotify.com/album/4d7Hq9aDZWfrKMALi77ZRJ) | 2:48 | 2025-10-11 | 2025-11-14 |
+| [WORKING U](https://open.spotify.com/track/3dptvNUnmOKJfg4wbnSV08) | [MicMac](https://open.spotify.com/artist/5piMoefWkj2eUzSf8YZ1li) | [WORKING U](https://open.spotify.com/album/3X9cUM6acTLCEmSzPkgcU4) | 3:15 | 2026-05-29 |  |
 | [Yellow Leaf](https://open.spotify.com/track/2umfwjHoIPrth4vs1fEQv4) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Space Shuttle No.8](https://open.spotify.com/album/7hnvRVtat4FvqC8HjHI14Y) | 3:34 | 2024-02-09 | 2024-03-02 |
 | [YES MAN](https://open.spotify.com/track/5imQCK9oeRB665CGgar7f8) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [YES MAN](https://open.spotify.com/album/4EHQhdZSqQEY6eZ3uUZdlK) | 3:24 | 2024-10-17 | 2024-11-08 |
 | [YOBO](https://open.spotify.com/track/7KdROwz8Wl1zzoFIhDNdvu) | [TYTAN](https://open.spotify.com/artist/5fTJwRSBleAeLkLivVLDZ4) | [YOBO](https://open.spotify.com/album/3Za23TsoTrgMIdgiRBQjwf) | 3:22 | 2024-06-27 | 2024-07-12 |
@@ -386,7 +388,7 @@
 | [จีบให้จบๆ](https://open.spotify.com/track/4dWoU8miUQNvGCiBi6tA3i) | [Venita](https://open.spotify.com/artist/1suxWOTjtwWh0CNcydUeWQ) | [จีบให้จบๆ](https://open.spotify.com/album/2dgWxhsddF7pUS9KRnHjPU) | 3:48 | 2024-06-20 | 2024-06-28 |
 | [ฉบับปรับปรุง](https://open.spotify.com/track/2MnVrkbwL6ViB7q4NI7oVK) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi), [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q), [Lazyloxy](https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5) | [MAS\[S\]TERPIECE](https://open.spotify.com/album/65khrtPTO8Sy7txWgVZYM2) | 4:04 | 2022-05-26 | 2022-11-18 |
 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 | 2022-07-22 | 2023-09-20 |
-| [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx) | 3:20 | 2025-04-24 |  |
+| [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx) | 3:20 | 2025-04-24 | 2026-05-30 |
 | [ฉันคนเก่า \(Let Me Try Again\)](https://open.spotify.com/track/695OTeJR2N7eaOCN9mdCou) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [ฉันคนเก่า \(Let Me Try Again\)](https://open.spotify.com/album/5rJUY4kiAfnL5ppIZjOk5S) | 4:00 | 2024-09-26 | 2024-12-13 |
 | [ฉันจะฉาปเธอ \- Curse](https://open.spotify.com/track/6uu05FXHuqfMNI9Ti6pts2) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ฉันจะฉาปเธอ \(Curse\)](https://open.spotify.com/album/4zwD3vOjO0BdJUJUHaUPeP) | 3:17 | 2022-05-26 | 2023-10-24 |
 | [ฉ่ำ \(CHARM\)](https://open.spotify.com/track/1DIzk3mrcXKJxLQ969XfME) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj), [Joong Archen](https://open.spotify.com/artist/4qqSbta0ZgVIBdlBbwQqxk), [Pond Naravit](https://open.spotify.com/artist/37PDDAi9sH8d1Dt3CDvuqX) | [ฉ่ำ \(CHARM\) \- Single](https://open.spotify.com/album/7goHQJukczd3W44DYTLdiS) | 3:09 | 2024-04-04 | 2024-04-19 |

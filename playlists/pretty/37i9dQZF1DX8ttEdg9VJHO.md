@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,047 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,052 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 18 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 |
 | 19 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 |
 | 20 | [Save Me Tonight](https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Save Me Tonight](https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z) | 3:16 |
-| 21 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 |
-| 22 | [Run Rabbit](https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4) | 3:09 |
+| 21 | [Run Rabbit](https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Run Rabbit](https://open.spotify.com/album/1d5wcguxg3968t6WLUGmx4) | 3:09 |
+| 22 | [Hits Different](https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:54 |
 | 23 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 |
 | 24 | [Phoenix](https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Phoenix](https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx) | 2:24 |
 | 25 | [Fabulous](https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu) | [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Fabulous](https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN) | 2:33 |
@@ -58,11 +58,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 48 | [Houdini](https://open.spotify.com/track/5wtSei6pJpDEB1iKqPHhfU) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/0HAb43LIP2Gf9bYwRfBgY6) | 3:05 |
 | 49 | [Flugmodus](https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Flugmodus](https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy) | 2:58 |
 | 50 | [Wer wenn nicht wir](https://open.spotify.com/track/5jYDCxuSx1mfApeWA4SlqX) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Wer wenn nicht wir](https://open.spotify.com/album/1E5bSnYcfhaNVbRTfUpRRI) | 2:43 |
-| 51 | [Giants](https://open.spotify.com/track/76OQzYqSzlprSdbP643dg9) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Giants](https://open.spotify.com/album/5N4YE3TGtPXn9iJUnDVGo0) | 3:12 |
-| 52 | [Faded Love](https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Faded Love](https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345) | 2:28 |
-| 53 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 |
-| 54 | [Someday Soon](https://open.spotify.com/track/4rscYJB15d31PhkminLefg) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Someday Soon](https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4) | 3:24 |
-| 55 | [Vertigo](https://open.spotify.com/track/4ZrMY6RcgUPNftOt1nsyhd) | [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Vertigo](https://open.spotify.com/album/6itWOqDXkixKxRimD02770) | 3:00 |
+| 51 | [Faded Love](https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Faded Love](https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345) | 2:28 |
+| 52 | [Giants](https://open.spotify.com/track/76OQzYqSzlprSdbP643dg9) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW), [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Giants](https://open.spotify.com/album/5N4YE3TGtPXn9iJUnDVGo0) | 3:12 |
+| 53 | [Vertigo](https://open.spotify.com/track/4ZrMY6RcgUPNftOt1nsyhd) | [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Vertigo](https://open.spotify.com/album/6itWOqDXkixKxRimD02770) | 3:00 |
+| 54 | [I Made It](https://open.spotify.com/track/4dkf6Qfmy7730BwwIqyb4Y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Made It](https://open.spotify.com/album/6IEdMBcT6BR8cvNx8dneew) | 4:29 |
+| 55 | [Someday Soon](https://open.spotify.com/track/4rscYJB15d31PhkminLefg) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Someday Soon](https://open.spotify.com/album/04IbgD1muDZCVoku5hkns4) | 3:24 |
 | 56 | [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 |
 | 57 | [Schön genug](https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Kuss.](https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs) | 3:18 |
 | 58 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |

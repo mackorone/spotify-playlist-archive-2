@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "4am feeling",
+        "url": "https://open.spotify.com/album/6URUq1pOo7FVUTCIO2xkSk"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180813,
+      "name": "4am feeling",
+      "url": "https://open.spotify.com/track/0hYaiWcaYmFx6Blaa6tGwn"
+    },
+    {
+      "album": {
         "name": "85mm",
         "url": "https://open.spotify.com/album/2WBVYJgZDu0sU46CakgquV"
       },
@@ -280,6 +298,28 @@
       "duration_ms": 127774,
       "name": "About Coming and Leaving",
       "url": "https://open.spotify.com/track/6DQ0d8YVCs0wi1zHN0fedq"
+    },
+    {
+      "album": {
+        "name": "Ravel (Encores)",
+        "url": "https://open.spotify.com/album/4enKowMiwzVBUqTLYb6CHh"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167859,
+      "name": "Adagio (Ravel)",
+      "url": "https://open.spotify.com/track/64qeNInhPT3TKPCc6eKyy3"
     },
     {
       "album": {
@@ -2360,6 +2400,24 @@
       "duration_ms": 163946,
       "name": "Ikoi",
       "url": "https://open.spotify.com/track/5LPiYEOBZTiN0oiaTyuR4m"
+    },
+    {
+      "album": {
+        "name": "Lost Within the Aether",
+        "url": "https://open.spotify.com/album/6yJy67JiExP2UzYZVkmmhP"
+      },
+      "artists": [
+        {
+          "name": "James Malikey",
+          "url": "https://open.spotify.com/artist/2EyDwUM5rybE4PoBmsbKKw"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 545250,
+      "name": "Improvisation in E Major: Magic does Exist",
+      "url": "https://open.spotify.com/track/7jG7M7yz1za1lVRI5oTgNw"
     },
     {
       "album": {
@@ -6030,6 +6088,24 @@
       "duration_ms": 189363,
       "name": "Viola's Theme - Music For Theatre",
       "url": "https://open.spotify.com/track/7AEf1Jc3htMKTWmFZOOGtR"
+    },
+    {
+      "album": {
+        "name": "Violet Dusk",
+        "url": "https://open.spotify.com/album/6Uylgq6Iejh4Q20dKfTlEQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134413,
+      "name": "Violet Dusk",
+      "url": "https://open.spotify.com/track/7HHwJCUE6xSkSUCZymJ5mA"
     },
     {
       "album": {

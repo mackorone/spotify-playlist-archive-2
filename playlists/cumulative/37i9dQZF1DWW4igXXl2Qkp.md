@@ -4,7 +4,7 @@
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:5dxav2nP7izQBQYPNjv0CQ">Young Roddo</a>
 
-2,340 songs - 4 day 3 hr 30 min
+2,341 songs - 4 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1061,6 +1061,7 @@
 | [jamal crawford](https://open.spotify.com/track/4BlmN6TRzIMJurpqAfi7m6) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [jamal crawford](https://open.spotify.com/album/5jLv5IezOqyq26Vt4UFL6W) | 2:53 | 2025-11-07 | 2025-12-04 |
 | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/track/7IRBVTWua5balW0xUJHmUF) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [JAPANESE DENIM \(feat\. Veeze & LUCKI\)](https://open.spotify.com/album/5m3BPYBaanarQy8hXJ7XoZ) | 2:07 | 2024-11-06 | 2025-02-20 |
 | [Jealousy](https://open.spotify.com/track/0uU6wpqMrSe8SuIAJNIje9) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Jealousy](https://open.spotify.com/album/5KGIf82I9zVXvZSUMXnw5c) | 2:53 | 2024-02-07 | 2025-01-23 |
+| [Jefferson Nights](https://open.spotify.com/track/6LNn1tpg38EarjDo8X2xST) | [Negüs Fresh](https://open.spotify.com/artist/1mUe0lsF8iTeUSZExkgvNa), [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [Still Rising](https://open.spotify.com/album/1AJHBRgeYQzqmWEuGCGzUp) | 2:29 | 2026-05-29 |  |
 | [JELLO](https://open.spotify.com/track/3XRUpBRItrSlWkOxct38BS) | [Iconic Savvy](https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC) | [JELLO](https://open.spotify.com/album/2u9l2z9jOvRVqrFasyNz8M) | 2:11 | 2025-06-18 | 2025-06-26 |
 | [jersey luv](https://open.spotify.com/track/50kWigrg0O9DFUzzbgJMZO) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/6z30pC8bxK3JIWRhLLbXwr) | 3:51 | 2023-11-29 | 2024-02-01 |
 | [jersey luv](https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U) | 3:51 | 2023-02-15 | 2023-05-04 |

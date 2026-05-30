@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 
 > Lagu\-lagu pilihan yang cocok nemenin kamu menuju Bekasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,763 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,765 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ngZHk5xUsP.md) - [plain]
 | 39 | [Desire](https://open.spotify.com/track/1uH2t9fgvWUntILs9iFRZC) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [Ray Viera Laxmana](https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf) | [Our Sincere Desire](https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4) | 3:23 |
 | 40 | [Berona](https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2) | 2:15 |
 | 41 | [False Alarm](https://open.spotify.com/track/3NFI8R8pUTja7orZLwqVbs) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [SPECTRUM](https://open.spotify.com/album/40BU39M6MTjelshDop9fHm) | 5:59 |
-| 42 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 |
-| 43 | [Memadu Rindu](https://open.spotify.com/track/5xbGCLl2WxSPmAQ0AeTLmy) | [Soenji](https://open.spotify.com/artist/5LFvlAVJttO2Jf0TNaDdHd) | [Memadu Rindu](https://open.spotify.com/album/4ERITkLvbx6nmiBFRSqMPo) | 4:11 |
+| 42 | [Memadu Rindu](https://open.spotify.com/track/5xbGCLl2WxSPmAQ0AeTLmy) | [Soenji](https://open.spotify.com/artist/5LFvlAVJttO2Jf0TNaDdHd) | [Memadu Rindu](https://open.spotify.com/album/4ERITkLvbx6nmiBFRSqMPo) | 4:11 |
+| 43 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 |
 | 44 | [HEATWAVE](https://open.spotify.com/track/5Z4THUUkogX97uuTAaTbj9) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [FASTFOOD](https://open.spotify.com/album/3YTs3UdJUkNStTevXRfGWu) | 2:55 |
 | 45 | [Spoken](https://open.spotify.com/track/0H5DgLDteF1kBLqQVTKCQ6) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn), [The Couch Club](https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh) | [Our Sincere Desire](https://open.spotify.com/album/57GZmG6ZYl2479tDAusXn4) | 3:41 |
 | 46 | [Kanebo Kering](https://open.spotify.com/track/7KWNzwt17jrydxTkSB5VZD) | [Kuburan](https://open.spotify.com/artist/7GuqVpODs8wCyUXNDCLhkb) | [JASS FRIEND](https://open.spotify.com/album/2qZpBiwLuXXqtiBoz7Hv5i) | 2:57 |
 | 47 | [Surfin' Java](https://open.spotify.com/track/1gZilfYqLdnpOtc33O2OyM) | [The Mentawais](https://open.spotify.com/artist/0hj0i2IkfZpSCUPPFqVMhR) | [Surfin' Java](https://open.spotify.com/album/3uT9x3fRiGdHWWsH59yOvG) | 3:25 |
-| 48 | [Broken Symphony](https://open.spotify.com/track/5o3rAUNDKlgGtBoEqNLzKq) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Divine](https://open.spotify.com/album/5CWrPEZ7Rta2YA4Lh6tLhI) | 4:22 |
-| 49 | [Simpul](https://open.spotify.com/track/5kzE5sZTaK0hyCqYaLfN4t) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Simpul Tak Berdaya](https://open.spotify.com/album/4UlIKDydaQLNsJGRa5Dgqb) | 3:51 |
+| 48 | [Simpul](https://open.spotify.com/track/5kzE5sZTaK0hyCqYaLfN4t) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Simpul Tak Berdaya](https://open.spotify.com/album/4UlIKDydaQLNsJGRa5Dgqb) | 3:51 |
+| 49 | [Broken Symphony](https://open.spotify.com/track/5o3rAUNDKlgGtBoEqNLzKq) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Divine](https://open.spotify.com/album/5CWrPEZ7Rta2YA4Lh6tLhI) | 4:22 |
 | 50 | [Kalem Aya Urang](https://open.spotify.com/track/194yN675Zv6N9nl7p6WEjs) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Kalem Aya Urang](https://open.spotify.com/album/28FBVSks52MxDBThNbN1T3) | 2:48 |
 
 Snapshot ID: `AAAAACEnWUym5+Ire0ostl74Pba5RFQR`

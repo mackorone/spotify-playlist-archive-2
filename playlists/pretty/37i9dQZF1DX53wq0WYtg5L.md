@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,501 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,500 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 15 | [El Mariachi Loco](https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [La Más Completa Colección](https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7) | 2:57 |
 | 16 | [La fiesta del mariachi](https://open.spotify.com/track/6tiY3rQJZ8m1SYDm2h6bJJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:44 |
 | 17 | [Que Lindo Es Michoacan](https://open.spotify.com/track/6hD3rxXYjOONoMh4Ox1oz5) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Mariachi](https://open.spotify.com/album/1HJtciy4pGuqyaHbCp9TEF) | 3:11 |
-| 18 | [El Son de Mi Tierra](https://open.spotify.com/track/3UjLx3Hx0TM0Z8gkCqQ6wa) | [Mariachi Jalisco](https://open.spotify.com/artist/7GiXhGibdAeh2aNSWRiX3O) | [Canta a su tierra](https://open.spotify.com/album/6kAzgClJ1Wep9hYbPsZbK1) | 2:56 |
-| 19 | [Mi Jalisco](https://open.spotify.com/track/1JLOGUtJV9IL3KxxZvpckg) | [Mariachi Sol De Mexico](https://open.spotify.com/artist/6TWAmC8OsAPKl8kgNVwAe1) | [La Nueva Era Del Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/album/3ETUQcvUlT4UglcgLeEJoE) | 3:36 |
+| 18 | [Mi Jalisco](https://open.spotify.com/track/1JLOGUtJV9IL3KxxZvpckg) | [Mariachi Sol De Mexico](https://open.spotify.com/artist/6TWAmC8OsAPKl8kgNVwAe1) | [La Nueva Era Del Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/album/3ETUQcvUlT4UglcgLeEJoE) | 3:36 |
+| 19 | [El Son de Mi Tierra](https://open.spotify.com/track/3UjLx3Hx0TM0Z8gkCqQ6wa) | [Mariachi Jalisco](https://open.spotify.com/artist/7GiXhGibdAeh2aNSWRiX3O) | [Canta a su tierra](https://open.spotify.com/album/6kAzgClJ1Wep9hYbPsZbK1) | 2:56 |
 | 20 | [La culebra](https://open.spotify.com/track/335MnaMIi8Gz61nxR9nWMW) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:48 |
 | 21 | [El siete mares](https://open.spotify.com/track/0byZkYj5d6UbeyK66tXLPr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:38 |
 | 22 | [Viva Mexico](https://open.spotify.com/track/6v6FAme3KtLO1wEh5abAzi) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Canto A Mi Tierra](https://open.spotify.com/album/5bmZkJbgxYkQHlgGIAs9GK) | 2:28 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 64 | [Fiesta Charra](https://open.spotify.com/track/5YVxMf12hVXHLWoNssn1In) | [Mariachi Nuevo Tecalitlán](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Sones](https://open.spotify.com/album/75GiM4BTQMPiLXCgmRkt0V) | 3:24 |
 | 65 | [El Balajú / Huapango](https://open.spotify.com/track/6ejQdiWRgOUK0f7ws7K0Sf) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [¡MÉXICO Por Siempre!](https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche) | 2:49 |
 | 66 | [La Culebra](https://open.spotify.com/track/6CWx5jNxAoHsnM7TPcHBoO) | [Mariachi Silvestre Vargas](https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG) | [Pedro Infante y Mariachi Silvestre Vargas](https://open.spotify.com/album/6lWpobNNKaneq15AsRQ4xw) | 2:48 |
-| 67 | [El Hidalguense](https://open.spotify.com/track/0hPhkx33UhHLy0cx4HcPsJ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Viva el Mariachi!](https://open.spotify.com/album/5WL94bwHqhT6nKGgHdZYZG) | 3:17 |
+| 67 | [Camino Real de Colima](https://open.spotify.com/track/2JA99uajFc8S2fyiiHjCZ6) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Peerless 80 Aniversario \- 24 Exitos](https://open.spotify.com/album/4LnVq0V93CA5eievIW2Kmo) | 2:43 |
 | 68 | [Mi Zacatecas Querido](https://open.spotify.com/track/7HkXxQLscUki9gCeMMMwPM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 3:21 |
 | 69 | [El Carrettero](https://open.spotify.com/track/0yzxLJNo9gwKWWk1TJJr15) | [Rubén Fuentes](https://open.spotify.com/artist/6q8g3vOMKyrhhRWLsOUC98), [Silvestre Vargas](https://open.spotify.com/artist/4C09kjudW0ZTpef7cMpjPF), [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr) | 2:45 |
 | 70 | [Las Alazanas](https://open.spotify.com/track/7Gk2XiFsPv7w4kGY4VU5qI) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mexico](https://open.spotify.com/album/42OkbulDj2TluRpFiSpzZu) | 2:04 |
 | 71 | [La espiga \(Arr\. R\. Jonas\)](https://open.spotify.com/track/40LeyzfJWpC9564x1SmiyX) | [De Norte A Sur](https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15) | [The Best of Mexico](https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9) | 2:46 |
-| 72 | [Camino Real de Colima](https://open.spotify.com/track/2JA99uajFc8S2fyiiHjCZ6) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Peerless 80 Aniversario \- 24 Exitos](https://open.spotify.com/album/4LnVq0V93CA5eievIW2Kmo) | 2:43 |
+| 72 | [El Hidalguense](https://open.spotify.com/track/0hPhkx33UhHLy0cx4HcPsJ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Viva el Mariachi!](https://open.spotify.com/album/5WL94bwHqhT6nKGgHdZYZG) | 3:17 |
 | 73 | [Popurri de Sones Jalisciences](https://open.spotify.com/track/2Pg0Zu7QpzYN1he0VfsN6L) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Bicentenario](https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi) | 4:01 |
 | 74 | [Ay Jalisco](https://open.spotify.com/track/3xI51SnRTo8nhSwnq00fFI) | [Manuel Esperón](https://open.spotify.com/artist/5Qx469LDGaD9LgZ9RMyj8F), [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr) | 2:22 |
 | 75 | [Zopilote Mojado](https://open.spotify.com/track/266tI89XpbXj8V7ZJH8P57) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mexico](https://open.spotify.com/album/42OkbulDj2TluRpFiSpzZu) | 3:13 |

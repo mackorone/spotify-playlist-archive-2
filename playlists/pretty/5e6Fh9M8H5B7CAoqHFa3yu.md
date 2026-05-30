@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,347 songs - 5 day 18 hr 32 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,351 songs - 5 day 18 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2355,5 +2355,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2345 | [Tambor](https://open.spotify.com/track/1hiKFyb43retm8bO3MZvLK) | [BRazznRAP](https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc) | [BRazznRAP](https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP) | 2:19 |
 | 2346 | [Meditherranea](https://open.spotify.com/track/1ZP9Lrf4VmTPdKXQ5i3oim) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 3:21 |
 | 2347 | [Meditherranea \- Extended Mix](https://open.spotify.com/track/3nXIC0ZTnJWq5Cz8VEPSHf) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 4:03 |
+| 2348 | [Avocado Face](https://open.spotify.com/track/2QmDLGr82ouVDgyF3LAXrE) | [Paper Bagg Band](https://open.spotify.com/artist/1hHk52TIe6t4KW443P0iuq) | [Avocado Face](https://open.spotify.com/album/0gfsmZYVu1qwTFxlVLLOKk) | 2:36 |
+| 2349 | [I'll be back](https://open.spotify.com/track/28YNy52CqI0UwMa5n70wwA) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [I'll be back](https://open.spotify.com/album/31d7cMUoGxAt9bIKedgJJV) | 4:22 |
+| 2350 | [Agadir \- Radio Edit](https://open.spotify.com/track/5tv6fSuO6Z40hjtFpgMOYD) | [CARUSO](https://open.spotify.com/artist/4gPWSjh9OJolHoeTQ995Tw), [VALENZIANO](https://open.spotify.com/artist/6ZRVg1mv3nhx6METtSYaVj), [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Dave Roy Bland](https://open.spotify.com/artist/1X3vecxOTZqDpEVb4Y4nVd) | [Agadir](https://open.spotify.com/album/0pCiPhZpmB9vCyiFt8Wi2M) | 2:10 |
+| 2351 | [Beg For Me \- JADE Remix](https://open.spotify.com/track/0JNVnPAXsNDG3Rayv0FQEZ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Beg For Me \(Remix\)](https://open.spotify.com/album/0HBQFvlAP6dpbqrh8hNjmA) | 2:50 |
 
-Snapshot ID: `AAAJ+YCCsPa7lhBLM90JMKzb/Tgz89Xr`
+Snapshot ID: `AAAJ/UnQ5VOu8c3dhUOYqmsbu8CCyOmh`

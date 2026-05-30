@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 170516,
       "name": "Anything (Ya Ya)",
       "url": "https://open.spotify.com/track/0UPTkIZR45UaYchMgaVMAs"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-01",
+      "date_removed": null,
       "duration_ms": 222439,
       "name": "Astralis",
       "url": "https://open.spotify.com/track/1jaA1jV5jzNnmhxqmo2VrO"
@@ -3446,7 +3446,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 281581,
       "name": "Breathe - Deer Jade Remix",
       "url": "https://open.spotify.com/track/4D4u6OjZyU4RpW21x4tczF"
@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 516815,
       "name": "Buschtaxi",
       "url": "https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca"
@@ -4434,7 +4434,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 162644,
       "name": "Closer To The Floor",
       "url": "https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu"
@@ -4858,7 +4858,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 250578,
       "name": "Crazy For It",
       "url": "https://open.spotify.com/track/0nZUQdt97RJ429I0FuAO2r"
@@ -5756,7 +5756,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 203229,
       "name": "Don't Mind",
       "url": "https://open.spotify.com/track/3ozto6sQWW5OhYFIRoFI5w"
@@ -6274,7 +6274,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 176585,
       "name": "Ella",
       "url": "https://open.spotify.com/track/6fju67ioli6vx2usDVSlxh"
@@ -6398,7 +6398,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 172000,
       "name": "Enamor\u00e1",
       "url": "https://open.spotify.com/track/41CxuAJOOnpWZeWOAtCg0G"
@@ -6822,7 +6822,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 178636,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/2bVWX3FQDrlJGMPXKDmwzh"
@@ -7526,7 +7526,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 281311,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4ofC30d8eYzGt8vMALEM4M"
@@ -9085,6 +9085,28 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/3Yexscn1LCuJ1A5c6FDj4u"
+      },
+      "artists": [
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        },
+        {
+          "name": "Kingstarlight",
+          "url": "https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196096,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/7A59507Y8skdJbc49vPGwA"
+    },
+    {
+      "album": {
         "name": "Hustla",
         "url": "https://open.spotify.com/album/4oofnyX49L9k555nOKILFI"
       },
@@ -9548,7 +9570,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 205864,
       "name": "I'm Here",
       "url": "https://open.spotify.com/track/1JCzIYuucdoWIG7CDeAr79"
@@ -10214,7 +10236,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 349910,
       "name": "Isaka (6am)",
       "url": "https://open.spotify.com/track/7c5uGV9Rys18JP2570ykTu"
@@ -10280,7 +10302,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 217000,
       "name": "Jackie B",
       "url": "https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa"
@@ -11846,7 +11868,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 178516,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/27C2ZFkZL7ylL4bAcHwLOd"
@@ -12480,7 +12502,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 206585,
       "name": "Love\u2019s A Game",
       "url": "https://open.spotify.com/track/0ytQmrJaRbb6Ogw1C55sV5"
@@ -14516,7 +14538,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 256483,
       "name": "Mussulo (feat. Doddy)",
       "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
@@ -15980,7 +16002,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 222956,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
@@ -16897,6 +16919,28 @@
     },
     {
       "album": {
+        "name": "Places & Spaces",
+        "url": "https://open.spotify.com/album/4eJFOr28wLZ0jwMWgEnFt9"
+      },
+      "artists": [
+        {
+          "name": "Pete Tong",
+          "url": "https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB"
+        },
+        {
+          "name": "AVG",
+          "url": "https://open.spotify.com/artist/0CxqFWFFJmjGVdphWpJhxo"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270518,
+      "name": "Places & Spaces",
+      "url": "https://open.spotify.com/track/5ZibjIUUEsl7NKwbAHYAjL"
+    },
+    {
+      "album": {
         "name": "Pliva",
         "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
       },
@@ -17328,7 +17372,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 230322,
       "name": "Raiz Brasileira",
       "url": "https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3"
@@ -18968,7 +19012,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 170074,
       "name": "Shake It To The Max (FLY) [Major Lazer Remix]",
       "url": "https://open.spotify.com/track/6ZGOs0SPG7Z9bsmXptOuXq"
@@ -19594,7 +19638,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 178152,
       "name": "So Good (Sistek Remix)",
       "url": "https://open.spotify.com/track/72rzDNTLplpl7hmsrcDQQP"
@@ -20086,7 +20130,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-13",
+      "date_removed": null,
       "duration_ms": 186554,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/5ZgE9I9C2SLdctOimCxhVY"
@@ -21115,6 +21159,28 @@
     },
     {
       "album": {
+        "name": "The Drum",
+        "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197829,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
+    },
+    {
+      "album": {
         "name": "The Echo",
         "url": "https://open.spotify.com/album/2SL1jZqdMyq7TZAiVOG5pS"
       },
@@ -21758,7 +21824,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 175892,
       "name": "Tik Tak",
       "url": "https://open.spotify.com/track/08Tj1ZcFC7UgmXmTf00iov"
@@ -22278,7 +22344,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 224385,
       "name": "Try",
       "url": "https://open.spotify.com/track/2PkcJdAVlbQCnqoZjYo8JC"
@@ -23896,7 +23962,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 193500,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/06Jz0fCBIazg682Rl0OUyA"
@@ -24242,7 +24308,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 179363,
       "name": "Yo Voy",
       "url": "https://open.spotify.com/track/2gvNCmPRR79aNcjF4lIwH1"
@@ -24612,7 +24678,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-17",
+      "date_removed": null,
       "duration_ms": 302815,
       "name": "Yours to Take",
       "url": "https://open.spotify.com/track/1lCnkwov638dkrJhQf2nmv"

@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 23970,
+  "num_followers": 23973,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAACcc8qhS6Yj5N+WBLHHi6xj",
+  "snapshot_id": "aheFgAAAAAA6rtIUUSiyJfmTroKjwZfy",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe I'll Catch Fire",
-        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 281040,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/0YJvSDPuh3MmmpHkvMFJc5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 201540,
       "name": "Love Letters Lost (feat. Matt Skiba of Alkaline Trio)",
       "url": "https://open.spotify.com/track/0dnDLkOxGxIA1cE17MGDgM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 281040,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/0YJvSDPuh3MmmpHkvMFJc5"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 154080,
-      "name": "My Standard Break from Life",
-      "url": "https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Alkaline Trio",
         "url": "https://open.spotify.com/album/0H1aJgfXxsVNzfpAlKGhtH"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 154080,
+      "name": "My Standard Break from Life",
+      "url": "https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Agony & Irony (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4QbqynBp5vF2eyJpCSOe0l"
       },
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 205240,
-      "name": "Love Love, Kiss Kiss",
-      "url": "https://open.spotify.com/track/4BYlkO5OPtiYhEnH5KQkKs"
+      "duration_ms": 216533,
+      "name": "Do You Wanna Know?",
+      "url": "https://open.spotify.com/track/29PCRRuIs7enxT7Oih4VEE"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 216533,
-      "name": "Do You Wanna Know?",
-      "url": "https://open.spotify.com/track/29PCRRuIs7enxT7Oih4VEE"
+      "duration_ms": 205240,
+      "name": "Love Love, Kiss Kiss",
+      "url": "https://open.spotify.com/track/4BYlkO5OPtiYhEnH5KQkKs"
     },
     {
       "added_at": null,

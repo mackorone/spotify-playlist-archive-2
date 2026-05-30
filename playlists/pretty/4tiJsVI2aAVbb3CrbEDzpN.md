@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/4tiJsVI2aAVbb3CrbEDzpN.md) - [plain]
 
 > De beste Jaren 80 Hits op één plek! 🕺 Reis terug in de tijd met de ultieme 80s playlist vol synthpop, classic rock en popmuziek\. Met o.a\. Michael Jackson, Prince, Madonna en Queen\. Geniet van de nostalgie! 📻✨
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,629 likes - 122 songs - 8 hr 38 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 27,631 likes - 122 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Purple Rain](https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 8:41 |
+| 1 | [Into the Groove](https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:45 |
 | 2 | [Billie Jean](https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:53 |
-| 3 | [Let's Dance \- 2002 Remaster](https://open.spotify.com/track/4cVHMHgmWgudD399ZdhQ3L) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance](https://open.spotify.com/album/5FDIw0ifQrQp63uhTelMVJ) | 4:07 |
-| 4 | [Take On Me](https://open.spotify.com/track/5U8LFszLFENrGFjGOJo5VL) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Jaren 80](https://open.spotify.com/album/0XDy99BWQMKgIstRvMe9Ix) | 3:47 |
-| 5 | [Everywhere \- Remastered](https://open.spotify.com/track/0U6Ga0VWSGq6iEE1AKkgO1) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe\)](https://open.spotify.com/album/0fdD8bSIoORVTtQ7R5YdOE) | 3:46 |
-| 6 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 |
-| 7 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 |
-| 8 | [Into the Groove](https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:45 |
+| 3 | [Purple Rain](https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 8:41 |
+| 4 | [Let's Dance \- 2002 Remaster](https://open.spotify.com/track/4cVHMHgmWgudD399ZdhQ3L) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance](https://open.spotify.com/album/5FDIw0ifQrQp63uhTelMVJ) | 4:07 |
+| 5 | [Take On Me](https://open.spotify.com/track/5U8LFszLFENrGFjGOJo5VL) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Jaren 80](https://open.spotify.com/album/0XDy99BWQMKgIstRvMe9Ix) | 3:47 |
+| 6 | [Everywhere \- Remastered](https://open.spotify.com/track/0U6Ga0VWSGq6iEE1AKkgO1) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe\)](https://open.spotify.com/album/0fdD8bSIoORVTtQ7R5YdOE) | 3:46 |
+| 7 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 |
+| 8 | [You Can't Hurry Love \- 2016 Remaster](https://open.spotify.com/track/4YwbSZaYeYja8Umyt222Qf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Hello, I Must Be Going! \(Deluxe Edition\)](https://open.spotify.com/album/6sn6eWmPciSiHj0ltTBl7M) | 2:55 |
 | 9 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
 | 10 | [Listen To Your Heart](https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 5:28 |
 | 11 | [I Want To Break Free \- Remastered 2011](https://open.spotify.com/track/4mLbifiule87a2oLrvwLVu) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(Remastered\)](https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI) | 4:18 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/4tiJsVI2aAVbb3CrbEDzpN.md) - [plain]
 | 121 | [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 |
 | 122 | [Control](https://open.spotify.com/track/5vywtoD7fO1CP0B2wtm6I6) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 5:53 |
 
-Snapshot ID: `AAAJeECv+EksEjrGmN7cRPx0HE02Srgb`
+Snapshot ID: `AAAJe0VQ5LcVuTZhLMuScKxDBXt/qUR5`

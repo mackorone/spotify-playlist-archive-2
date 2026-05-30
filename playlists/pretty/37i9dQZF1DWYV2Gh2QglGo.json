@@ -1,13 +1,333 @@
 {
-  "description": "The home of Canadian country music. Cover: Brandi Caroline",
-  "num_followers": 83972,
+  "description": "The home of Canadian country music. Cover: Josh Ross",
+  "num_followers": 83977,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADWoA5wG51uVFBPyZK1wX0L/0BT1",
+  "snapshot_id": "AAAAAJFLHOVVzMhk6Wn8URkFC8eezFRe",
   "tracks": [
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "Wanted Me To Be",
+        "url": "https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 185169,
+      "name": "Wanted Me To Be",
+      "url": "https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD"
+    },
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "Sunshine's Free",
+        "url": "https://open.spotify.com/album/4pMNPwosSwKdAYj6T1xbtf"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Sunshine's Free",
+      "url": "https://open.spotify.com/track/1hWt5sMeyacK7IwXm4vKMq"
+    },
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "Wranglin' the Wind",
+        "url": "https://open.spotify.com/album/3mz4VIBIRfg98W6QHotL7c"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 195505,
+      "name": "Wranglin' the Wind",
+      "url": "https://open.spotify.com/track/2fJZ896flvh1Wt6CebqggW"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "Deep Water",
+        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 153069,
+      "name": "Deep Water",
+      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
+    },
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/4WhRCOCbDaoHyRp6wBQFTg"
+      },
+      "artists": [
+        {
+          "name": "Teigen Gayse",
+          "url": "https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4"
+        }
+      ],
+      "duration_ms": 200803,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/561ni1xamdigJn4JFDiRXo"
+    },
+    {
+      "added_at": "2026-04-24 04:04:47",
+      "album": {
+        "name": "MISERY",
+        "url": "https://open.spotify.com/album/5RWfbBGrY6qFz8ibu7x7Tt"
+      },
+      "artists": [
+        {
+          "name": "CARV",
+          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
+        }
+      ],
+      "duration_ms": 212581,
+      "name": "MISERY",
+      "url": "https://open.spotify.com/track/5czQkmaPtAmBrNwbaqYcbh"
+    },
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/0cgPbc63DY1bWfKJH5sqZx"
+      },
+      "artists": [
+        {
+          "name": "Parker Graye",
+          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
+        }
+      ],
+      "duration_ms": 166057,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/4lvWYpigxbrnhHK87MYGYy"
+    },
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/3vmJiiqwUFe94SyCyxNICH"
+      },
+      "artists": [
+        {
+          "name": "Carson Janik",
+          "url": "https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM"
+        }
+      ],
+      "duration_ms": 180562,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/5q2ghdu3ZJ7Xrfq1HXMCD7"
+    },
+    {
+      "added_at": "2026-05-29 14:51:47",
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/085IcPMakVdABGg6iV6L2n"
+      },
+      "artists": [
+        {
+          "name": "Kelsi Mayne",
+          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
+        }
+      ],
+      "duration_ms": 155824,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/3nfjyqeYMXo88OLpwFZ6hF"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "In The Feeling",
+        "url": "https://open.spotify.com/album/5t9dUqzhZipR4hx7et4gx4"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 200623,
+      "name": "Rest Of My",
+      "url": "https://open.spotify.com/track/3nPggg2eXJSJWTnThsj85q"
+    },
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/70o4EY6MgLWzZAseiUBagV"
+      },
+      "artists": [
+        {
+          "name": "Alex Hughes",
+          "url": "https://open.spotify.com/artist/6iL96eq4EA2eoFI9CzyJgI"
+        }
+      ],
+      "duration_ms": 208523,
+      "name": "Slow Dancing in the Kitchen",
+      "url": "https://open.spotify.com/track/4XNvR2fitDYNWnKKkWZCNc"
+    },
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "Don't Tell My Mama",
+        "url": "https://open.spotify.com/album/1oVbNYohMD3ZwPb8N0PUCJ"
+      },
+      "artists": [
+        {
+          "name": "Chase Kasner",
+          "url": "https://open.spotify.com/artist/2c6MPegUx0MAqyG94uAR3Z"
+        }
+      ],
+      "duration_ms": 171946,
+      "name": "Don't Tell My Mama",
+      "url": "https://open.spotify.com/track/4zVZreIpth2xdOL8cfVPlQ"
+    },
+    {
+      "added_at": "2026-05-22 04:02:55",
+      "album": {
+        "name": "Pretty Country",
+        "url": "https://open.spotify.com/album/25VAXgSMa6Z24SY9FpmgPe"
+      },
+      "artists": [
+        {
+          "name": "Griffen Palmer",
+          "url": "https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ"
+        }
+      ],
+      "duration_ms": 145759,
+      "name": "Pretty Country",
+      "url": "https://open.spotify.com/track/5P5I1gsKoV0YTXLwJxObwn"
+    },
+    {
+      "added_at": "2026-05-15 04:03:14",
+      "album": {
+        "name": "got me good",
+        "url": "https://open.spotify.com/album/6R7PeFmfgKpSxgSGuoHw6j"
+      },
+      "artists": [
+        {
+          "name": "Trudy",
+          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
+        }
+      ],
+      "duration_ms": 169309,
+      "name": "got me good",
+      "url": "https://open.spotify.com/track/6yPGzAdjpbOWz65bx2rbNX"
+    },
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "Chase My Whiskey",
+        "url": "https://open.spotify.com/album/3KGPA5z9ScGNxZKvyoax1G"
+      },
+      "artists": [
+        {
+          "name": "Flaysher",
+          "url": "https://open.spotify.com/artist/5k9kGNpX4gbXMBZmlwd1ST"
+        }
+      ],
+      "duration_ms": 184396,
+      "name": "Chase My Whiskey",
+      "url": "https://open.spotify.com/track/7wOvpum2LOTjY7bOOcBzS8"
+    },
+    {
+      "added_at": "2026-05-08 04:05:38",
+      "album": {
+        "name": "Tethered",
+        "url": "https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mason",
+          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
+        }
+      ],
+      "duration_ms": 241686,
+      "name": "Tethered",
+      "url": "https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6"
+    },
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "Mid Life",
+        "url": "https://open.spotify.com/album/3MQH16onkL9TBdbURqcBR8"
+      },
+      "artists": [
+        {
+          "name": "Sadie Campbell",
+          "url": "https://open.spotify.com/artist/69n5uIWAAoEmNiT7Xm7Mxm"
+        }
+      ],
+      "duration_ms": 205402,
+      "name": "Mid Life",
+      "url": "https://open.spotify.com/track/6rVUVt13g4qJ7Tlz2ZQEyG"
+    },
+    {
+      "added_at": "2026-05-15 04:03:14",
+      "album": {
+        "name": "Dirty Rosie",
+        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 166792,
+      "name": "Dirty Rosie",
+      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
+    },
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "Younger Heart",
+        "url": "https://open.spotify.com/album/7DXw8Imt7QLeSP7amfAXvg"
+      },
+      "artists": [
+        {
+          "name": "Jessie T",
+          "url": "https://open.spotify.com/artist/45TQzwD5AZZYtzgOOJ6X4O"
+        }
+      ],
+      "duration_ms": 204027,
+      "name": "Younger Heart",
+      "url": "https://open.spotify.com/track/1mJ9D3yCDUhCuewCpmQnIS"
+    },
+    {
+      "added_at": "2026-05-29 08:01:08",
+      "album": {
+        "name": "Break Me",
+        "url": "https://open.spotify.com/album/6uAdeHY9RHPRbzCFqwvs2L"
+      },
+      "artists": [
+        {
+          "name": "Dylan Burk",
+          "url": "https://open.spotify.com/artist/4gey8MMHoIbHz7edJBq1Wx"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "Break Me",
+      "url": "https://open.spotify.com/track/0DBxGDfVuFX94PfQBT1B56"
+    },
     {
       "added_at": "2026-05-22 04:02:55",
       "album": {
@@ -27,22 +347,6 @@
     {
       "added_at": "2026-05-22 04:02:55",
       "album": {
-        "name": "Pretty Country",
-        "url": "https://open.spotify.com/album/25VAXgSMa6Z24SY9FpmgPe"
-      },
-      "artists": [
-        {
-          "name": "Griffen Palmer",
-          "url": "https://open.spotify.com/artist/00b93R5OC1EHaBxEdQUfAQ"
-        }
-      ],
-      "duration_ms": 145759,
-      "name": "Pretty Country",
-      "url": "https://open.spotify.com/track/5P5I1gsKoV0YTXLwJxObwn"
-    },
-    {
-      "added_at": "2026-05-22 04:02:55",
-      "album": {
         "name": "Going Somewhere",
         "url": "https://open.spotify.com/album/0sgRIyiod5Bc7Zy67ToYms"
       },
@@ -55,54 +359,6 @@
       "duration_ms": 190044,
       "name": "The Pilot",
       "url": "https://open.spotify.com/track/2BSphwlA17BfMQtFfnCCKg"
-    },
-    {
-      "added_at": "2026-04-17 04:05:01",
-      "album": {
-        "name": "Deep Water",
-        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 153069,
-      "name": "Deep Water",
-      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
-    },
-    {
-      "added_at": "2026-05-15 04:03:14",
-      "album": {
-        "name": "got me good",
-        "url": "https://open.spotify.com/album/6R7PeFmfgKpSxgSGuoHw6j"
-      },
-      "artists": [
-        {
-          "name": "Trudy",
-          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
-        }
-      ],
-      "duration_ms": 169309,
-      "name": "got me good",
-      "url": "https://open.spotify.com/track/6yPGzAdjpbOWz65bx2rbNX"
-    },
-    {
-      "added_at": "2026-04-03 04:04:15",
-      "album": {
-        "name": "Give 'Er Hell",
-        "url": "https://open.spotify.com/album/0p1xtZSyS5Ke7kezDsSFZj"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 201468,
-      "name": "Give 'Er Hell",
-      "url": "https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3"
     },
     {
       "added_at": "2026-05-22 04:02:55",
@@ -153,6 +409,22 @@
       "url": "https://open.spotify.com/track/4hprLONLP4nq3K7U09XslR"
     },
     {
+      "added_at": "2026-04-03 04:04:15",
+      "album": {
+        "name": "Give 'Er Hell",
+        "url": "https://open.spotify.com/album/0p1xtZSyS5Ke7kezDsSFZj"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 201468,
+      "name": "Give 'Er Hell",
+      "url": "https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3"
+    },
+    {
       "added_at": "2026-05-22 04:02:55",
       "album": {
         "name": "Alone in Good Company",
@@ -167,54 +439,6 @@
       "duration_ms": 195664,
       "name": "Alone in Good Company",
       "url": "https://open.spotify.com/track/62PZKyOahhcVMuOfSnAPMw"
-    },
-    {
-      "added_at": "2026-05-08 04:05:38",
-      "album": {
-        "name": "Tethered",
-        "url": "https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL"
-      },
-      "artists": [
-        {
-          "name": "Lucas Mason",
-          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
-        }
-      ],
-      "duration_ms": 241686,
-      "name": "Tethered",
-      "url": "https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6"
-    },
-    {
-      "added_at": "2026-04-24 04:04:47",
-      "album": {
-        "name": "MISERY",
-        "url": "https://open.spotify.com/album/5RWfbBGrY6qFz8ibu7x7Tt"
-      },
-      "artists": [
-        {
-          "name": "CARV",
-          "url": "https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A"
-        }
-      ],
-      "duration_ms": 212581,
-      "name": "MISERY",
-      "url": "https://open.spotify.com/track/5czQkmaPtAmBrNwbaqYcbh"
-    },
-    {
-      "added_at": "2026-05-15 04:03:14",
-      "album": {
-        "name": "Dirty Rosie",
-        "url": "https://open.spotify.com/album/3uN1RhHEbmFjBXfpPVU1qb"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 166792,
-      "name": "Dirty Rosie",
-      "url": "https://open.spotify.com/track/3VH36DZ4tw28lOymJSnORC"
     },
     {
       "added_at": "2026-05-22 04:02:55",
@@ -247,22 +471,6 @@
       "duration_ms": 204500,
       "name": "The Homesteader's Song",
       "url": "https://open.spotify.com/track/3xi9941jmONLIJuE9WPnMQ"
-    },
-    {
-      "added_at": "2026-04-17 04:05:01",
-      "album": {
-        "name": "In The Feeling",
-        "url": "https://open.spotify.com/album/5t9dUqzhZipR4hx7et4gx4"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 200623,
-      "name": "Rest Of My",
-      "url": "https://open.spotify.com/track/3nPggg2eXJSJWTnThsj85q"
     },
     {
       "added_at": "2026-05-22 04:02:55",
@@ -711,22 +919,6 @@
       "duration_ms": 158593,
       "name": "U-Shaped",
       "url": "https://open.spotify.com/track/0RB1ZW6U5getea2rinPDqZ"
-    },
-    {
-      "added_at": "2026-05-01 11:45:01",
-      "album": {
-        "name": "You Got Me",
-        "url": "https://open.spotify.com/album/0qxBtFEWLA70id8fzQVQYG"
-      },
-      "artists": [
-        {
-          "name": "Alex Hughes",
-          "url": "https://open.spotify.com/artist/6iL96eq4EA2eoFI9CzyJgI"
-        }
-      ],
-      "duration_ms": 189038,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/6UoUij3bsaaoHH2ekXUmPt"
     },
     {
       "added_at": "2026-04-24 04:04:47",
@@ -1521,22 +1713,6 @@
       "url": "https://open.spotify.com/track/2wAgvPoHjOoG4669OsRZ8X"
     },
     {
-      "added_at": "2026-03-20 04:01:39",
-      "album": {
-        "name": "I'm Yours",
-        "url": "https://open.spotify.com/album/0wbOLe7cvBJIjtv1RKroXE"
-      },
-      "artists": [
-        {
-          "name": "Flaysher",
-          "url": "https://open.spotify.com/artist/5k9kGNpX4gbXMBZmlwd1ST"
-        }
-      ],
-      "duration_ms": 205724,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/7u5HdT7oEXUBCwgrvuYSnQ"
-    },
-    {
       "added_at": "2026-02-27 05:01:26",
       "album": {
         "name": "I Don't",
@@ -1701,22 +1877,6 @@
       "url": "https://open.spotify.com/track/2zktqQLyXilXPmGIoly5M9"
     },
     {
-      "added_at": "2026-02-13 10:00:04",
-      "album": {
-        "name": "Growing Down",
-        "url": "https://open.spotify.com/album/3iajKt3PJf8HHpfjagIjHQ"
-      },
-      "artists": [
-        {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
-        }
-      ],
-      "duration_ms": 197388,
-      "name": "Growing Down",
-      "url": "https://open.spotify.com/track/4sSoej1nVKu9pmN7yI9CD1"
-    },
-    {
       "added_at": "2026-02-27 05:01:26",
       "album": {
         "name": "Homeland",
@@ -1795,22 +1955,6 @@
       "duration_ms": 198024,
       "name": "Beauty Queen Bandit",
       "url": "https://open.spotify.com/track/74avE5feXKPnvCs9aJQmH8"
-    },
-    {
-      "added_at": "2026-01-23 05:01:13",
-      "album": {
-        "name": "Quittin' You",
-        "url": "https://open.spotify.com/album/1j7XDKAWGtUlToULDkcFbL"
-      },
-      "artists": [
-        {
-          "name": "Flaysher",
-          "url": "https://open.spotify.com/artist/5k9kGNpX4gbXMBZmlwd1ST"
-        }
-      ],
-      "duration_ms": 207547,
-      "name": "Quittin' You",
-      "url": "https://open.spotify.com/track/4EkMstq9AYcjX6GCScaSBB"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -2397,38 +2541,6 @@
       "url": "https://open.spotify.com/track/0aVHXmSUizaqth5OswMMUE"
     },
     {
-      "added_at": "2026-02-06 05:01:26",
-      "album": {
-        "name": "Choked Up",
-        "url": "https://open.spotify.com/album/7B9bXUC3Q1nm7pQsprnTps"
-      },
-      "artists": [
-        {
-          "name": "Carson Janik",
-          "url": "https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM"
-        }
-      ],
-      "duration_ms": 185283,
-      "name": "Choked Up",
-      "url": "https://open.spotify.com/track/4HTz5DqoueYyipp9h8B89T"
-    },
-    {
-      "added_at": "2025-10-06 15:31:33",
-      "album": {
-        "name": "The Best Part",
-        "url": "https://open.spotify.com/album/4IKnozw2kZLb32kXzt3swd"
-      },
-      "artists": [
-        {
-          "name": "Teigen Gayse",
-          "url": "https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4"
-        }
-      ],
-      "duration_ms": 157815,
-      "name": "The Best Part",
-      "url": "https://open.spotify.com/track/3rn5fiAIMgVQSkBD7iQTPv"
-    },
-    {
       "added_at": "2026-01-23 05:01:13",
       "album": {
         "name": "Paradise & Hurricanes",
@@ -2459,22 +2571,6 @@
       "duration_ms": 191192,
       "name": "Une autre histoire",
       "url": "https://open.spotify.com/track/3kguXseiQKUXWV7yfRgSjJ"
-    },
-    {
-      "added_at": "2026-02-06 05:01:26",
-      "album": {
-        "name": "Lonely For You",
-        "url": "https://open.spotify.com/album/7ytvXyIg9hfr1hymx0sBT5"
-      },
-      "artists": [
-        {
-          "name": "The Prairie States",
-          "url": "https://open.spotify.com/artist/4V8Olypar5x3EWQ5kNfMde"
-        }
-      ],
-      "duration_ms": 151016,
-      "name": "Lonely For You",
-      "url": "https://open.spotify.com/track/6OiPqs18yDs5pmrAuOwxRi"
     },
     {
       "added_at": "2026-01-30 10:00:36",

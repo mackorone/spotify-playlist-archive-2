@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia",
-  "num_followers": 37084,
+  "num_followers": 37096,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-05-26 08:47:30",
       "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-05-26 08:47:30",
-      "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-05-26 08:47:30",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
       "added_at": "2026-05-26 08:47:30",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-05-26 08:47:30",
       "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 289680,
+      "name": "Heaven Can Wait",
+      "url": "https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"
+    },
+    {
+      "added_at": "2026-05-26 08:47:30",
+      "album": {
         "name": "I Adore You (feat. Daecolm)",
         "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
-    },
-    {
-      "added_at": "2026-05-26 08:47:30",
-      "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 289680,
-      "name": "Heaven Can Wait",
-      "url": "https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"
     },
     {
       "added_at": "2026-05-26 08:47:30",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-05-26 08:47:30",
       "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
-      "added_at": "2026-05-26 08:47:30",
-      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
+    },
+    {
+      "added_at": "2026-05-26 08:47:30",
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "added_at": "2026-05-26 08:47:30",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-05-26 08:47:30",
       "album": {
+        "name": "PRISM",
+        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 224216,
+      "name": "Legendary Lovers",
+      "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
+    },
+    {
+      "added_at": "2026-05-26 08:47:30",
+      "album": {
         "name": "Vaitimbora",
         "url": "https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2026-05-26 08:47:30",
       "album": {
-        "name": "PRISM",
-        "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 224216,
-      "name": "Legendary Lovers",
-      "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
-    },
-    {
-      "added_at": "2026-05-26 08:47:30",
-      "album": {
         "name": "12 to 12",
         "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
       },
@@ -1255,26 +1255,6 @@
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
-    },
-    {
-      "added_at": "2026-05-26 08:47:30",
-      "album": {
-        "name": "EYES CLOSED (with ZAYN)",
-        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
-      },
-      "artists": [
-        {
-          "name": "JISOO",
-          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
-        },
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 181375,
-      "name": "EYES CLOSED (with ZAYN)",
-      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
     },
     {
       "added_at": "2026-05-26 08:47:30",
@@ -1295,6 +1275,26 @@
       "duration_ms": 220000,
       "name": "Ma Tnsani (Yalla Habibi)",
       "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
+    },
+    {
+      "added_at": "2026-05-26 08:47:30",
+      "album": {
+        "name": "EYES CLOSED (with ZAYN)",
+        "url": "https://open.spotify.com/album/3LOalJiwqPsviLuoNboNfc"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 181375,
+      "name": "EYES CLOSED (with ZAYN)",
+      "url": "https://open.spotify.com/track/4WFfPxJv1KRekG6mxn837K"
     },
     {
       "added_at": "2026-05-26 08:47:30",
@@ -1851,18 +1851,22 @@
     {
       "added_at": "2026-05-26 08:47:30",
       "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/6vn4PpHr01H37q9khkzRby"
+        "name": "Regele pe reggaeton",
+        "url": "https://open.spotify.com/album/7lyBMi2gZkIR6eLQ1h2VKp"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
+        {
+          "name": "Ursaru",
+          "url": "https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy"
         }
       ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/2RMeldjCXW6xnd1ZeLycv7"
+      "duration_ms": 122608,
+      "name": "Regele pe reggaeton",
+      "url": "https://open.spotify.com/track/6iPBnOlhX2VSN8uVG3UEbo"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

@@ -4,7 +4,7 @@
 
 > This is ClariS\. The essential tracks, all in one playlist.
 
-123 songs - 8 hr 30 min
+124 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [トワイライト](https://open.spotify.com/track/5lNM7MBQz4IKHCuPec3mYx) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Iris](https://open.spotify.com/album/5EoIMhQciDeHOfHhGSNq4T) | 3:43 | 2024-05-27 | 2025-03-11 |
 | [ナイショの話](https://open.spotify.com/track/0BDtQ3XsoRHYYcHvvVgFLE) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:21 | 2022-06-09 |  |
 | [ナイショの話 \-2017\-](https://open.spotify.com/track/4XvNtcm4lVIRyAo2k8cLzd) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:19 | 2022-06-29 | 2022-07-07 |
-| [ヒトリゴト](https://open.spotify.com/track/3Un2d5mEp5yLqaITkb1mS8) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 3:52 | 2022-06-09 |  |
+| [ヒトリゴト](https://open.spotify.com/track/3Un2d5mEp5yLqaITkb1mS8) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 3:52 | 2022-06-09 | 2026-05-30 |
+| [ヒトリゴト](https://open.spotify.com/track/1WThJDjGFZ9YRHDwoPrHFx) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/1cZlf9x4NSbTIZftdKXL8r) | 3:56 | 2026-05-30 |  |
 | [プロミス](https://open.spotify.com/track/6Eia9LTMWgMP7VELAES28o) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:57 | 2022-06-09 | 2022-09-23 |
 | [メモリー](https://open.spotify.com/track/0lW1O9gkoDoqKuhCn8Gx2T) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [BIRTHDAY](https://open.spotify.com/album/4bRHjrsaHEtOVdxmZrFAy7) | 4:29 | 2022-06-15 | 2022-09-20 |
 | [ユニゾン](https://open.spotify.com/track/1oHL7ocJVNFGlfobC92OxX) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アリシア/シグナル](https://open.spotify.com/album/16ZYBLZVTEup2AYxAli6FZ) | 3:29 | 2022-06-11 | 2022-11-27 |

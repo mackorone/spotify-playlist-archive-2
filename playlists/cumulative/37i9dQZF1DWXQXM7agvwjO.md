@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: arches \(Hong Kong\)
 
-2,618 songs - 6 day 15 hr 21 min
+2,618 songs - 6 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1668,6 +1668,7 @@
 | [Retro\-39](https://open.spotify.com/track/0dlObt3L90XxFk93xFFAEZ) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [Retro\-39 \- Single](https://open.spotify.com/album/7z3hLL1p2l0XyzjKWK7cKB) | 3:29 | 2024-10-07 | 2025-01-31 |
 | [Reunion Song](https://open.spotify.com/track/0vfSaylAxEZV172XA5RfdV) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Reunion Song](https://open.spotify.com/album/2M2r0MC6PNElnzIjq8GINA) | 3:50 | 2024-10-17 | 2024-11-09 |
 | [Rewind](https://open.spotify.com/track/0Z97NVP2APoS2tZEByiF0t) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 3:42 | 2025-11-07 | 2026-04-25 |
+| [RFRNCE](https://open.spotify.com/track/3drRiJb84b7LetoZYXB9Np) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [RFRNCE](https://open.spotify.com/album/4S0uMNzmraBl61pcsjrDoa) | 3:18 | 2026-05-28 |  |
 | [ribbits](https://open.spotify.com/track/5EmYwA46vsUEvVquOG8fLT) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [\(​\(​\( 5 \)​\)​\)](https://open.spotify.com/album/7GD9f99khr7uCmRyMYqOu8) | 4:41 | 2024-10-17 | 2024-11-09 |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-05-11 | 2022-07-29 |
 | [Right On](https://open.spotify.com/track/5U6eOve1EBA0Z1v2zTomF1) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz), [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l) | [Right On](https://open.spotify.com/album/016Ii6RB1OeFoP5zzHxlIV) | 3:00 | 2026-04-30 |  |
@@ -2106,7 +2107,6 @@
 | [touch/feelings](https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [touch/feelings](https://open.spotify.com/album/2SZLgFJyoHaExsSJEsfOXU) | 2:59 | 2022-11-24 | 2023-02-17 |
 | [Town](https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Town](https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU) | 3:30 | 2024-07-11 | 2024-08-02 |
 | [Toxicated](https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Toxicated](https://open.spotify.com/album/2SFr2FJjkU6sbkKUFtfBmr) | 2:37 | 2023-02-16 | 2023-04-14 |
-| [Track 4](https://open.spotify.com/track/3drRiJb84b7LetoZYXB9Np) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [RFRNCE](https://open.spotify.com/album/4S0uMNzmraBl61pcsjrDoa) | 0:00 | 2026-05-28 |  |
 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-09-01 | 2024-07-27 |
 | [Trouble Is An Enemy](https://open.spotify.com/track/2YrahDW9h5H2KfCj6foQKG) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK) | [Trouble Is An Enemy](https://open.spotify.com/album/4hsrYdTGo35Fqqf521php9) | 2:50 | 2022-09-09 | 2022-10-29 |
 | [Trust Me](https://open.spotify.com/track/6N9yWlPP4Ha96AfkXHgaqk) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Trust Me](https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C) | 3:49 | 2024-07-25 | 2024-09-06 |

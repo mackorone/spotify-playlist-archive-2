@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 98612,
+  "num_followers": 98615,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAAAsZ39/1g3721XYxtO8EvqF",
+  "snapshot_id": "aheFgAAAAACyGm/7+GnucavJjtLjDFNQ",
   "tracks": [
     {
       "added_at": null,
@@ -39,22 +39,6 @@
       "duration_ms": 163053,
       "name": "Renu\u00e9vame - En Vivo",
       "url": "https://open.spotify.com/track/2wLKFKKiD9s8gArTfwsS5c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jes\u00fas Salva",
-        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 427066,
-      "name": "Dios imparable",
-      "url": "https://open.spotify.com/track/4qpWZ9S0oMzlka1CQjFWNP"
     },
     {
       "added_at": null,
@@ -107,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Concierto Conmemorativo (En Vivo)",
-        "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
+        "name": "Jes\u00fas Salva",
+        "url": "https://open.spotify.com/album/4HRYBD8BpJaPSfRHreRGxw"
       },
       "artists": [
         {
@@ -116,9 +100,29 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 128240,
-      "name": "Tu Mirada",
-      "url": "https://open.spotify.com/track/1qpi3Zh2f9mPx5F0SR0xDB"
+      "duration_ms": 427066,
+      "name": "Dios imparable",
+      "url": "https://open.spotify.com/track/4qpWZ9S0oMzlka1CQjFWNP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Concierto Conmemorativo (En Vivo)",
+        "url": "https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 160386,
+      "name": "Tu Fidelidad",
+      "url": "https://open.spotify.com/track/1tCdXIAdRx5CvilfUpCNuU"
     },
     {
       "added_at": null,
@@ -178,15 +182,11 @@
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 160386,
-      "name": "Tu Fidelidad",
-      "url": "https://open.spotify.com/track/1tCdXIAdRx5CvilfUpCNuU"
+      "duration_ms": 128240,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/1qpi3Zh2f9mPx5F0SR0xDB"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dios de Pactos",
+        "url": "https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 651080,
+      "name": "Dios de Pactos",
+      "url": "https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuan Grande Es el",
         "url": "https://open.spotify.com/album/36XJXcA1jx5BZcZqlzjIxt"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 284383,
       "name": "Cuan Grande Es el",
       "url": "https://open.spotify.com/track/41TDqLRP26inAFhyC1AIva"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dios de Pactos",
-        "url": "https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 651080,
-      "name": "Dios de Pactos",
-      "url": "https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo"
     },
     {
       "added_at": null,
@@ -780,13 +780,21 @@
       },
       "artists": [
         {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+        },
+        {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Marco Barrientos",
+          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
         }
       ],
-      "duration_ms": 253134,
-      "name": "Oh Tu Fidelidad",
-      "url": "https://open.spotify.com/track/6RxYwQflwfYpe7ramNDe6g"
+      "duration_ms": 265381,
+      "name": "Sublime Gracia",
+      "url": "https://open.spotify.com/track/5cqKXjSnfj1TakGzvIzQiO"
     },
     {
       "added_at": null,
@@ -848,21 +856,13 @@
       },
       "artists": [
         {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
-        },
-        {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Marco Barrientos",
-          "url": "https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ"
         }
       ],
-      "duration_ms": 265381,
-      "name": "Sublime Gracia",
-      "url": "https://open.spotify.com/track/5cqKXjSnfj1TakGzvIzQiO"
+      "duration_ms": 253134,
+      "name": "Oh Tu Fidelidad",
+      "url": "https://open.spotify.com/track/6RxYwQflwfYpe7ramNDe6g"
     },
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sana Nuestra Tierra (En Vivo)",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 412708,
+      "name": "S\u00e1nanos",
+      "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Iglesia",
         "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 355417,
       "name": "\u00c9l Siempre Reina",
       "url": "https://open.spotify.com/track/1iTKfYiWEj9MWVPeQMcW5l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sana Nuestra Tierra (En Vivo)",
-        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 412708,
-      "name": "S\u00e1nanos",
-      "url": "https://open.spotify.com/track/3pf1Pa1b4Vd1KuilOA0CpH"
     }
   ],
   "unique_name": "This Is Marcos Witt",

@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: ITZY\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: HEART OF WOMAN\)
 
-627 songs - 1 day 8 hr 23 min
+628 songs - 1 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 | 2025-10-13 | 2025-11-18 |
 | [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 | 2025-08-26 | 2025-10-11 |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2020-10-13\* | 2022-06-04 |
-| [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 | 2025-09-10 | 2026-04-01 |
+| [body](https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [gonna love me, right?](https://open.spotify.com/album/0OvHcZkbrNQbPHKi5JzyWb) | 2:48 | 2025-09-10 |  |
 | [Bomb \- Korean Version](https://open.spotify.com/track/3szOUJ6GA5vASA3lZoaWmJ) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Bomb](https://open.spotify.com/album/12f1HfzQ9lqohKvd0RAgQf) | 3:23 | 2020-10-13\* | 2022-04-11 |
 | [Bon Bon Chocolat](https://open.spotify.com/track/06Pvy98db25O7wlfFFFIRM) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [ARRIVAL OF EVERGLOW](https://open.spotify.com/album/34jrFDbWiepwHN4L1pZmCr) | 3:48 | 2020-10-20 | 2022-07-14 |
 | [BONVOYAGE](https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:33 | 2023-05-24 | 2023-07-06 |
@@ -341,6 +341,7 @@
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-09-25 | 2022-07-29 |
 | [Lonely](https://open.spotify.com/track/4oZfm9BPohSYNM3dMpV2KQ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Sailing](https://open.spotify.com/album/7uXqFtzEZggg75Kpb1Eyya) | 3:17 | 2023-09-26 | 2023-10-05 |
 | [LOOP \(feat\. Lil Cherry\)](https://open.spotify.com/track/1JNsKjaCFgTxjP3EkKfYZo) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [LOOP](https://open.spotify.com/album/1j8kzYnKuztDWliT8V8Qto) | 2:43 | 2024-05-30 | 2024-06-04 |
+| [Lost in Proof](https://open.spotify.com/track/0NUab1Hd5VSFickV3HOy9M) | [HEART OF WOMAN](https://open.spotify.com/artist/15JWJu72hLPUmB0L2RMusu) | [Heart Byte : LEGACY](https://open.spotify.com/album/5KeICTbuP4CFny9Qo0RJ7O) | 2:34 | 2026-05-29 |  |
 | [LOUDER](https://open.spotify.com/track/26VaMq8RwiHtuLEaNGxBB0) | [Rocket Punch](https://open.spotify.com/artist/4hozqATxbpy9TwKWRT8QVO) | [YELLOW PUNCH](https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN) | 3:18 | 2022-03-07 | 2022-04-20 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-08-08 | 2026-05-12 |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-02-03 | 2025-12-16 |
@@ -379,7 +380,7 @@
 | [MOONLIGHT](https://open.spotify.com/track/1HfIy5HVfg8CmRVuym7eIz) | [NeonPunch](https://open.spotify.com/artist/1j2VjoyNduKvjsQqiQ6Z5d) | [NeonPunch 1st Debut Album 'MOONLIGHT'](https://open.spotify.com/album/4i9CSy97ek0xx7wL84e9D9) | 3:13 | 2021-02-03 | 2022-04-20 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:00 | 2023-02-24 | 2023-07-11 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5NcLyVjUgG0yfwHgr5t81w) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/3Haj0Fa9S49LCeYcOiODcL) | 3:00 | 2023-01-20 | 2023-03-13 |
-| [Motto](https://open.spotify.com/track/3xTcC2GxIavh97lAkIVHw6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Motto](https://open.spotify.com/album/0cHcsmjduyUcemJtwXUsLj) | 3:13 | 2026-05-18 |  |
+| [Motto](https://open.spotify.com/track/3xTcC2GxIavh97lAkIVHw6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Motto](https://open.spotify.com/album/0cHcsmjduyUcemJtwXUsLj) | 3:13 | 2026-05-18 | 2026-05-30 |
 | [MY COLOR](https://open.spotify.com/track/5elQqjmREJkadJWsNMW4ej) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [New Chapter](https://open.spotify.com/album/2t3Ph06OHzPdaOz457yYJG) | 3:21 | 2023-07-25 | 2023-08-03 |
 | [My Way](https://open.spotify.com/track/0Tx0C5SLkF8IxQdbADxP7L) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [NEW MOON](https://open.spotify.com/album/61mlBNUkU8QKvYOfTiwFR5) | 3:13 | 2021-02-27 | 2021-02-28 |
 | [My Way](https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:34 | 2024-08-15 | 2026-04-14 |
@@ -525,7 +526,7 @@
 | [TAIL](https://open.spotify.com/track/7muTXW7kGytN3zdomku6FV) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [TAIL](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) | 3:10 | 2021-03-01 | 2022-04-17 |
 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\)](https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:01 | 2025-06-23 |  |
 | [Tales of the Unusual \- Feedback Version](https://open.spotify.com/track/3aP9CAC5aoXPlHsmdsFSj3) | [PinkFantasy](https://open.spotify.com/artist/5syu5kN4a5f4rgMCRGlnZp) | [Tales of the Unusual](https://open.spotify.com/album/3xvUAslKb1sSJBf0gmszPc) | 3:35 | 2022-04-21 | 2022-04-27 |
-| [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 |  |
+| [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 | 2026-05-30 |
 | [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 | 2023-02-14 | 2023-06-23 |
 | [The Boots](https://open.spotify.com/track/73BjKZxwy47mJuTfIlcXfI) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.4 Cait Sith](https://open.spotify.com/album/5CkOZ5vgacWk5rMr620rsW) | 3:21 | 2021-03-07 | 2021-03-08 |
 | [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 | 2025-02-24 | 2026-05-12 |

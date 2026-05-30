@@ -2,9 +2,9 @@
 
 ### [Breaking Hits](https://open.spotify.com/playlist/37i9dQZF1DXaLvcwjNfHBR)
 
-> Your new favourite songs! Cover: Olivia Rodrigo
+> Your new favourite songs! Cover: Ariana Grande
 
-1,137 songs - 2 day 12 hr 42 min
+1,138 songs - 2 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,6 +451,7 @@
 | [Hard 4 You](https://open.spotify.com/track/5p0St6b2WyviwA6jMsA5nG) | [Chela](https://open.spotify.com/artist/6ifwtjnyBErm69itobvpyn) | [Hard 4 You](https://open.spotify.com/album/0RkfVEAdbTX0P0CRDHYjm5) | 2:59 | 2023-06-26 | 2023-08-18 |
 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 | 2023-10-26 | 2023-12-02 |
 | [Hate Myself](https://open.spotify.com/track/16F28Z5FEqGUbglyMtz6Yz) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Hate Myself](https://open.spotify.com/album/0rbrIJIWuQUEFDxgVzAXXp) | 2:32 | 2026-04-23 |  |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Haven't You Ever Been In Love Before?](https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:50 | 2023-06-15 | 2023-06-30 |
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-05-09 | 2024-08-16 |
 | [Heading For The Door](https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Heading For The Door](https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX) | 3:47 | 2024-01-11 | 2024-01-26 |

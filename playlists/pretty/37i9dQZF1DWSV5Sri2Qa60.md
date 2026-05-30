@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Little Grandad
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,323 likes - 53 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,331 likes - 53 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 52 | [Marsh](https://open.spotify.com/track/3reEx8EkW36Ni2h1A1MUfE) | [Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Marsh](https://open.spotify.com/album/4tWtBP9sZ6k3ddp36nlLEo) | 2:54 |
 | 53 | [HAVE A HEART](https://open.spotify.com/track/4KPxFuzwcIBtkPsdQ54LDv) | [TURNSPIT](https://open.spotify.com/artist/1HbKJU6NYDySoBXuAi5dNB) | [HAVE A HEART](https://open.spotify.com/album/1FfsXdnsxJcCYQ8xEKd1zX) | 3:38 |
 
-Snapshot ID: `AAAAADqSdHRV6kRozQrkjkqT6m3lRyNo`
+Snapshot ID: `AAAAAAcW0TJQ5TU6ByRXE83KfIn3Lzts`

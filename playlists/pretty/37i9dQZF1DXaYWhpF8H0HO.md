@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Oslo Ibrahim
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,414 likes - 99 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,428 likes - 99 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 98 | [20 Weeks](https://open.spotify.com/track/7wtxZi4uh6btGrYmARXxOr) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [20 Weeks](https://open.spotify.com/album/6q3foGDuNxly38t01i8KoD) | 2:58 |
 | 99 | [FALL AGAIN](https://open.spotify.com/track/303TW5JcL5wE8nPhyb0XRV) | [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [FALL AGAIN](https://open.spotify.com/album/5DLrerqf7OKlJskTZOAlYn) | 3:08 |
 
-Snapshot ID: `AAAAACCYa4xZuleoxEeH82Px0gJmCIlh`
+Snapshot ID: `AAAAAN7eqq3CK8xxztvyuYiDPo8l5WbK`

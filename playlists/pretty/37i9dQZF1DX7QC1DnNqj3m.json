@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 727506,
+  "num_followers": 727495,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 229444,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
         "name": "Friends Again",
         "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 218122,
       "name": "Friends Again",
       "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 229444,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Vibrations",
-        "url": "https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers Ubiquity",
-          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
-        }
-      ],
-      "duration_ms": 240920,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "That's You",
         "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 319454,
       "name": "That's You",
       "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+        }
+      ],
+      "duration_ms": 240920,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Inside Friend (feat. John Mayer)",
         "url": "https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 175432,
       "name": "Inside Friend (feat. John Mayer)",
       "url": "https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/37j56IWzpplKE5zrlQRmxc"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 177688,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/053cVLAvWvv8VIRolBs9nP"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/3lFaYs31jwWTbPlqOydax9"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 190779,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/04LrMPgfrbskqRMeTPeZlJ"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
-        "name": "It Could Be Worse",
-        "url": "https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 177688,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/053cVLAvWvv8VIRolBs9nP"
     },
     {
       "added_at": "2026-04-16 23:00:42",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
+        "name": "Waiting In Vain (Feat. Tiwa Savage)",
+        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 243450,
+      "name": "Waiting In Vain (Feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
         "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
         "url": "https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5"
       },
@@ -1279,26 +1299,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Waiting In Vain (Feat. Tiwa Savage)",
-        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 243450,
-      "name": "Waiting In Vain (Feat. Tiwa Savage)",
-      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-04-16 23:00:42",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/0aQ68gBcrnVrsjXFIJzKLR"
-      },
-      "artists": [
-        {
-          "name": "Beverley Knight",
-          "url": "https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "Shoulda Woulda Coulda",
-      "url": "https://open.spotify.com/track/60klOfI3BgFCTWrnve4TAH"
-    },
-    {
-      "added_at": "2026-04-16 23:00:42",
-      "album": {
         "name": "Ten Cane Row (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 209586,
       "name": "Ten Cane Row (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl"
+    },
+    {
+      "added_at": "2026-04-16 23:00:42",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/0aQ68gBcrnVrsjXFIJzKLR"
+      },
+      "artists": [
+        {
+          "name": "Beverley Knight",
+          "url": "https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "Shoulda Woulda Coulda",
+      "url": "https://open.spotify.com/track/60klOfI3BgFCTWrnve4TAH"
     },
     {
       "added_at": "2026-04-16 23:00:42",

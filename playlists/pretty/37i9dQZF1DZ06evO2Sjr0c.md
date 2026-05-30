@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,505 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,521 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 20 | [Cassidy \- Live](https://open.spotify.com/track/3Ytea3b7VXXkVTN2mRpjvB) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Reckoning \(Live\)](https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD) | 4:34 |
 | 21 | [Dire Wolf \- 2013 Remaster](https://open.spotify.com/track/6rLfU9QCwLUMRW5gGG7BWA) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 3:14 |
 | 22 | [Brokedown Palace \- 2013 Remaster](https://open.spotify.com/track/362CS15hE1upuTKoWApzLn) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 4:09 |
-| 23 | [Estimated Prophet \- 2014 Remaster](https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Terrapin Station \(2014 Remaster\)](https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98) | 5:36 |
-| 24 | [Bertha \- Live at Fillmore East, New York, NY, April 27, 1971](https://open.spotify.com/track/3ZYSrBWQXYgTe4tyKKIZ0D) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 5:40 |
+| 23 | [Bertha \- Live at Fillmore East, New York, NY, April 27, 1971](https://open.spotify.com/track/3ZYSrBWQXYgTe4tyKKIZ0D) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 5:40 |
+| 24 | [Estimated Prophet \- 2014 Remaster](https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Terrapin Station \(2014 Remaster\)](https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98) | 5:36 |
 | 25 | [Tennessee Jed \(Live at L'Olympia, Paris, 5/3/72\) \- 2001 Remaster](https://open.spotify.com/track/1ae0SQx8MpBXo6QsmrpsEj) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 7:10 |
 | 26 | [Deal \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/0pPvu1AGxIj7pvESvSg4wi) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 6:10 |
 | 27 | [Deep Elem Blues \- Live](https://open.spotify.com/track/2tu3n4gB1LUbuvnjrmb4Xw) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Reckoning \(Live\)](https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 49 | [Wharf Rat \- Live at Fillmore East, New York, NY, April 26, 1971](https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 8:31 |
 | 50 | [The Music Never Stopped \- 2013 Remaster](https://open.spotify.com/track/5te7uKM0hYcPjf3ScBA9fS) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Blues for Allah \(2013 Remaster\)](https://open.spotify.com/album/5BwjVdVJ4aOmbIYomznfCv) | 4:36 |
 
-Snapshot ID: `ahY0AAAAAAAl0HCs2B8xFSCtUyIUQztf`
+Snapshot ID: `aheFgAAAAAAF8u5z9iED3eDMz43d2hgS`

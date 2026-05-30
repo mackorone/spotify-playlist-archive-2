@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,594 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,598 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 30 | [Maus Bocados](https://open.spotify.com/track/1Tditr5KyzStSK3GiO6Xlj) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI) | [Continua](https://open.spotify.com/album/5MApIKrwbZby8tMOND098R) | 3:13 |
 | 31 | [Tá Vendo Aquela Lua](https://open.spotify.com/track/6DjKWVAqXUvMaAzO4U4CIo) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [25 Anos \(Ao Vivo\)](https://open.spotify.com/album/1rMqTbwki2gVgD7mfgkIpK) | 3:16 |
 | 32 | [Facas \- Ao Vivo](https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Facas \(Ao Vivo\)](https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q) | 3:16 |
-| 33 | [Fulminante](https://open.spotify.com/track/1bJCIzuFCb8jPqmaCEQaHM) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Fala Meu Nome Aí](https://open.spotify.com/album/1FLqQzUVXF0mong0oiL1J5) | 3:23 |
-| 34 | [Status Que Eu Não Queria \- Ao Vivo](https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:33 |
+| 33 | [Status Que Eu Não Queria \- Ao Vivo](https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:33 |
+| 34 | [Fulminante](https://open.spotify.com/track/1bJCIzuFCb8jPqmaCEQaHM) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Fala Meu Nome Aí](https://open.spotify.com/album/1FLqQzUVXF0mong0oiL1J5) | 3:23 |
 | 35 | [Pode Ir Embora \- Ao Vivo](https://open.spotify.com/track/43y4wpk8iKaLAY21CsEmst) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [De Volta aos Bares](https://open.spotify.com/album/7DTmJxoehELMhqA0GSughG) | 3:37 |
 | 36 | [Vou Voando \- Ao Vivo](https://open.spotify.com/track/1WCn5QBp0Kl9uHrR0J02GS) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(Ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:56 |
 | 37 | [Infarto](https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Querosene e o Violão](https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp) | 2:41 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 63 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(Ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
 | 64 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
 | 65 | [Recairei \- Ao Vivo](https://open.spotify.com/track/71FrGl0XcpL3VId65tB5mg) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Recairei \(Ao Vivo\)](https://open.spotify.com/album/1VqC063saacxnL4IlMnHtI) | 2:46 |
-| 66 | [Sem Esse Coração \- Ao Vivo](https://open.spotify.com/track/5kvsEeN7tv7iqbR4P4do8e) | [João Bosco & Vinícius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Coração Apaixonou \(Ao Vivo\)](https://open.spotify.com/album/1NcdDNafg1PP6HNZu0fzaH) | 2:53 |
+| 66 | [Beber Com Emergência \- Ao Vivo](https://open.spotify.com/track/1IcbQvHb9B7MikgQjfJtAl) | [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Start In São Paulo \(ao Vivo\)](https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k) | 2:16 |
 | 67 | [Trovão](https://open.spotify.com/track/1q87J3ftrxGqKKSPXYqOhd) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [O Cara Certo](https://open.spotify.com/album/46AcQjehXf14WEIzG7X780) | 3:43 |
-| 68 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
-| 69 | [Nem Tchum \- Ao Vivo](https://open.spotify.com/track/4oRI9c4EmcKo9kbgVM8zWP) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Reflexo \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7) | 3:22 |
-| 70 | [Beber Com Emergência \- Ao Vivo](https://open.spotify.com/track/1IcbQvHb9B7MikgQjfJtAl) | [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Start In São Paulo \(ao Vivo\)](https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k) | 2:16 |
+| 68 | [Sem Esse Coração \- Ao Vivo](https://open.spotify.com/track/5kvsEeN7tv7iqbR4P4do8e) | [João Bosco & Vinícius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0) | [Coração Apaixonou \(Ao Vivo\)](https://open.spotify.com/album/1NcdDNafg1PP6HNZu0fzaH) | 2:53 |
+| 69 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
+| 70 | [Nem Tchum \- Ao Vivo](https://open.spotify.com/track/4oRI9c4EmcKo9kbgVM8zWP) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Reflexo \(Ao Vivo \| Deluxe\)](https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7) | 3:22 |
 | 71 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 |
 | 72 | [Quase \- Ao Vivo](https://open.spotify.com/track/6XgIiUn8aEpfXtqruOf3Ng) | [Cleber & Cauan](https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026) | [Resenha \(Ao Vivo\)](https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv) | 3:02 |
-| 73 | [Pulei na Piscina \- Ao Vivo](https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Pulei na Piscina \(Ao Vivo\)](https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8) | 3:01 |
-| 74 | [quando a bad bater \- ao vivo](https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 2:59 |
+| 73 | [quando a bad bater \- ao vivo](https://open.spotify.com/track/5gvrBqNFFEWcxYPt3mamvJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 2:59 |
+| 74 | [Pulei na Piscina \- Ao Vivo](https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Pulei na Piscina \(Ao Vivo\)](https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8) | 3:01 |
 | 75 | [Diz pra Mim](https://open.spotify.com/track/4ddDW7Ao1h5UgISvnF1Npg) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Diz pra Mim](https://open.spotify.com/album/6m7uzYkj1KvxGXaRERcof7) | 4:01 |
 
 Snapshot ID: `AAAAAB5hkMq/ZsrAekDsqOb++k/wjCvl`

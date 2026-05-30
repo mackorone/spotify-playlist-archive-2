@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-469 songs - 23 hr 35 min
+470 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [The Deal](https://open.spotify.com/track/3WVwBe9JdXuetcnjkcs9oQ) | [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [Afterfab](https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i) | [The Deal](https://open.spotify.com/album/2m1rt9ckFcIfeAMUJwewMF) | 2:53 | 2023-07-07 | 2023-12-09 |
 | [The Final Countdown 2025](https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown 2025](https://open.spotify.com/album/6zFqyTMIN7FIz15ajOZPlC) | 3:02 | 2025-05-30 | 2025-10-09 |
 | [The Less I Know The Better](https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [The Less I Know The Better](https://open.spotify.com/album/37k9VMEhAj9tO9g7MTkHWk) | 2:56 | 2025-10-08 |  |
+| [The Light](https://open.spotify.com/track/5IVEBBkuAscVnEwfroexOZ) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9) | [The Light](https://open.spotify.com/album/1Gw2vUSjEihUAU7TbRJ6xd) | 2:56 | 2026-05-29 |  |
 | [The Moment \(Living Like It's Golden\)](https://open.spotify.com/track/0ZSiQQeGZp2ct1qupFtYSw) | [XYNTHESIZE](https://open.spotify.com/artist/5J9yQhiZO5jfcrRJYUiO2d), [KVELL](https://open.spotify.com/artist/5pL9g2lZ8YpZNmoD1zcIL1) | [The Moment \(Living Like It's Golden\)](https://open.spotify.com/album/2Q8Aq4ZZcfoU4dzJbSmdl6) | 3:31 | 2022-12-23 | 2023-02-18 |
 | [The Neon City](https://open.spotify.com/track/4oRgXJJQ81F6WbPPXvM2IM) | [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1), [Qwerty](https://open.spotify.com/artist/1zy8SA3oy5HdFvPkckW5bW) | [The Neon City](https://open.spotify.com/album/4O5SB8XnQm6kXNlAJobBU0) | 2:54 | 2024-06-13 | 2024-11-30 |
 | [The Nights](https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 2:56 | 2023-12-08 |  |

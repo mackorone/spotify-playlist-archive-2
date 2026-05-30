@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,676 likes - 49 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 942,697 likes - 49 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 48 | [Too Deep for the Intro](https://open.spotify.com/track/3v6oMGduetl7GA67POX9Dm) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 3:45 |
 | 49 | [Trae The Truth in Ibiza](https://open.spotify.com/track/4E2fOeF5A6onC10OtnjXJa) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 4:15 |
 
-Snapshot ID: `ahY0AAAAAACJBsX++rIB5FerzuaGiG0P`
+Snapshot ID: `aheFgAAAAACDYRIt6ee1Hbv9D59EA6dQ`

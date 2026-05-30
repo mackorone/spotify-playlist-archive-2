@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,832 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,831 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 49 | [Temple of Love \- Radio Edit](https://open.spotify.com/track/1cw6VQ7t4Wq4bIVKaLU768) | [BWO](https://open.spotify.com/artist/5SvvYvtnQ84Fsuyi61Gk0Q) | [Halcyon Days](https://open.spotify.com/album/69HuMCOG9mg3MkKY2fuYWg) | 3:24 |
 | 50 | [90\-talet](https://open.spotify.com/track/6O27WBEqkGeyq3hNYE0BdS) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z), [SAMI](https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr) | [90\-talet](https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn) | 2:56 |
 | 51 | [Blame It On The Disco](https://open.spotify.com/track/4IZy2nI5mAxLtlLPbcErqc) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Disco Defenders](https://open.spotify.com/album/6tZv43WmLwofiLbWanh1Ww) | 3:01 |
-| 52 | [Never Let It Go](https://open.spotify.com/track/28ihA2Fp5zRmcmi8hpfWiC) | [Afro\-Dite](https://open.spotify.com/artist/0oO1vycfLbA7I18jfy2eWe) | [Never Let It Go](https://open.spotify.com/album/7nbwgaAlzIqneeDFjoxxL4) | 3:02 |
+| 52 | [Jalla dansa sawa](https://open.spotify.com/track/6mn9gln5HdtYE11FOjQdxN) | [Behrang Miri](https://open.spotify.com/artist/5kQo9vxRzDvaNrmP3z6OFj) | [Jalla dansa Sawa](https://open.spotify.com/album/6BzQc2YaBRkbDAqgChHe7g) | 3:01 |
 
 Snapshot ID: `AAAAAL4/BbXjpFW0/aS+lVffe+tMUJ/t`

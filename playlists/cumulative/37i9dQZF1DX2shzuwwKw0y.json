@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Jaziel Avilez, Codiciado, Rey Quinto",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Los Alegres del Barranco, Edgardo Nu\u00f1ez y Los Farmerz",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -3664,7 +3664,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 112733,
       "name": "El 24",
       "url": "https://open.spotify.com/track/1gA1RZokrJwv0jP3DWEt1L"
@@ -3952,6 +3952,32 @@
       "duration_ms": 225212,
       "name": "El Boss",
       "url": "https://open.spotify.com/track/4L1iecYPJR1qc9tz5Zjkw9"
+    },
+    {
+      "album": {
+        "name": "El Buenas Tardes",
+        "url": "https://open.spotify.com/album/32JOOGL0H1g27caRVFuuIE"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211051,
+      "name": "El Buenas Tardes",
+      "url": "https://open.spotify.com/track/1gb3SXBZ05dqxy7KD616m6"
     },
     {
       "album": {
@@ -4985,6 +5011,28 @@
     },
     {
       "album": {
+        "name": "\u00a1Que Viva Antonio Aguilar!",
+        "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220729,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/4Bf34AjuADDVKQ3lfiafQe"
+    },
+    {
+      "album": {
         "name": "El Hijo Mayor",
         "url": "https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL"
       },
@@ -5770,7 +5818,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 215690,
       "name": "El Que Dir\u00e1n",
       "url": "https://open.spotify.com/track/1aCP4xJn3CwXqEP0keAb6r"
@@ -12055,6 +12103,28 @@
     },
     {
       "album": {
+        "name": "Que Gacho",
+        "url": "https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193205,
+      "name": "Que Gacho",
+      "url": "https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp"
+    },
+    {
+      "album": {
         "name": "Me Estoy Quemando por Tomar",
         "url": "https://open.spotify.com/album/3UytMWt8nhi6WjZZXInhTI"
       },
@@ -12300,7 +12370,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 227275,
       "name": "Rigo Campos",
       "url": "https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod"

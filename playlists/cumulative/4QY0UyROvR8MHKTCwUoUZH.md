@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 
-266 songs - 14 hr 48 min
+268 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Little More Peace](https://open.spotify.com/track/4hzIJ03631VAlr6rDZAJfX) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Little More Peace](https://open.spotify.com/album/38mBMbqdvlVW8G9BORbpqb) | 2:57 | 2025-07-18 | 2025-11-01 |
 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 | 2025-07-18 | 2025-11-22 |
 | [Looping](https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Looping](https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk) | 3:13 | 2025-07-18 | 2025-09-13 |
+| [Love Is All](https://open.spotify.com/track/0owKuy8OjZorj3sl1nizkG) | [DeNohr](https://open.spotify.com/artist/04wDSR15tH9jQ3cPZZ0l2E) | [Love Is All](https://open.spotify.com/album/1d3P5XSpableiTtk4iXin7) | 2:41 | 2026-05-29 |  |
 | [Love Letter](https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Love Letter](https://open.spotify.com/album/11koFUb2flCfP4dELQ388y) | 2:56 | 2026-04-10 |  |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-07-18 |  |
 | [Love You 'Til Death](https://open.spotify.com/track/7sqnVoTweuQofjz32gmDQl) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Love You 'Til Death](https://open.spotify.com/album/1VGXauODiynJX2hO9n0DYe) | 2:40 | 2025-07-18 | 2025-09-06 |
@@ -235,6 +236,7 @@
 | [The Monsters of Pig Alley](https://open.spotify.com/track/3VJXO5CI2npzuyBoctCQKQ) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Make\-up is a Lie](https://open.spotify.com/album/6A40Ozbw7pFO7HBeKHkxs2) | 4:57 | 2026-03-06 |  |
 | [The Ocean](https://open.spotify.com/track/2L3yAc4GOgoDJb50YKVqxw) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [The Ocean](https://open.spotify.com/album/6ab2amp1PfPLEklhyIKqf3) | 1:03 | 2025-10-31 |  |
 | [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:15 | 2026-04-10 |  |
+| [The Sun Will Never Settle](https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Sun Will Never Settle](https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH) | 2:28 | 2026-05-29 |  |
 | [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-04-10 |  |
 | [The Way](https://open.spotify.com/track/0qsbY9Jx0uqIs4QxhX0pLd) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [The Way](https://open.spotify.com/album/0SdP6YpDHTyVlSjkgBQJvZ) | 3:01 | 2025-07-18 | 2025-11-01 |
 | [There She Goes](https://open.spotify.com/track/17Oq7DCHIwtaFs2GuWHEr2) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [There She Goes](https://open.spotify.com/album/7tJQYF7j1H65H3HHVrXfvy) | 3:02 | 2025-09-12 |  |

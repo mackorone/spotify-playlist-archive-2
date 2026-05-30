@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,817 songs - 4 day 0 hr 19 min
+1,818 songs - 4 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1022,6 +1022,7 @@
 | [Moonlight To Sunrise](https://open.spotify.com/track/3zLY6nSZwlkUKfRZmQ0Guo) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Moonlight To Sunrise](https://open.spotify.com/album/7y5zb9rWSyouzeCdciuIY0) | 2:47 | 2024-07-04 | 2024-10-19 |
 | [More](https://open.spotify.com/track/7CuXB3Dr61IvDFEWfqG3sE) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Elena Pitoulis](https://open.spotify.com/artist/0Zw91yH74OemLqD4rHn96K) | [More](https://open.spotify.com/album/7DAyAlObwl5f8mcrqFCeWm) | 3:36 | 2022-11-24 | 2023-04-07 |
 | [More & More](https://open.spotify.com/track/4SJTYAk2TP94J5zkOxuvhF) | [New Hype](https://open.spotify.com/artist/394nMXTFPSgEKKDUverHbo) | [More & More](https://open.spotify.com/album/0zcz7GotKIvX14OmaBMkPF) | 2:38 | 2022-07-28 | 2022-08-26 |
+| [More! More! More!](https://open.spotify.com/track/7Bk9xGSArXDiMe5Jj2zSMo) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [More! More! More!](https://open.spotify.com/album/3TWM4Bg6PuweiSPOQk0nTU) | 2:55 | 2026-05-29 |  |
 | [Most Precious Love](https://open.spotify.com/track/653ejVq5HGkWXEqSi2gFO7) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Most Precious Love](https://open.spotify.com/album/2BrzjbGGyOta4J8VO6fuS6) | 3:09 | 2025-07-25 |  |
 | [Most Precious Love](https://open.spotify.com/track/0ggvWBJsXvs2eHuPbuIwPK) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Most Precious Love](https://open.spotify.com/album/1ZOKEIxWal7useozipXnXf) | 3:23 | 2025-09-05 |  |
 | [Most Precious Love](https://open.spotify.com/track/187CJ83y4UahoZtzkxP6fw) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Blaze](https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN), [UDAUFL](https://open.spotify.com/artist/2GTRVovNrpq94MSO7m6VxJ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Most Precious Love](https://open.spotify.com/album/56OlIB3OgnI16y719UVayK) | 2:53 | 2024-08-09 | 2025-04-04 |

@@ -1,6 +1,6 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 719206,
+  "num_followers": 719289,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-07-19 14:07:01",
       "album": {
+        "name": "The Way It Ends",
+        "url": "https://open.spotify.com/album/2pVCexIJwUK0Mg9cFtDhxr"
+      },
+      "artists": [
+        {
+          "name": "Currents",
+          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
+        }
+      ],
+      "duration_ms": 247747,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1BqzzWlA868p8J5VIbp50A"
+    },
+    {
+      "added_at": "2024-07-19 14:07:01",
+      "album": {
         "name": "Ronald",
         "url": "https://open.spotify.com/album/01GsZ4orxT9LHqCru5Pnz2"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 196754,
       "name": "Ronald",
       "url": "https://open.spotify.com/track/1xeIvccuZq4DiqqmZDSbAg"
-    },
-    {
-      "added_at": "2024-07-19 14:07:01",
-      "album": {
-        "name": "The Way It Ends",
-        "url": "https://open.spotify.com/album/2pVCexIJwUK0Mg9cFtDhxr"
-      },
-      "artists": [
-        {
-          "name": "Currents",
-          "url": "https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu"
-        }
-      ],
-      "duration_ms": 247747,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/1BqzzWlA868p8J5VIbp50A"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Chainbreaker",
-        "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
-      },
-      "artists": [
-        {
-          "name": "Shrine of Malice",
-          "url": "https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ"
-        }
-      ],
-      "duration_ms": 275807,
-      "name": "Chainbreaker",
-      "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "In The Court Of The Dragon",
         "url": "https://open.spotify.com/album/3x3csj05nBEuh2pVL49l9P"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 309029,
       "name": "In The Court Of The Dragon",
       "url": "https://open.spotify.com/track/4XUbRHf92kd5Gd8DS6iWqw"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Chainbreaker",
+        "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
+      },
+      "artists": [
+        {
+          "name": "Shrine of Malice",
+          "url": "https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ"
+        }
+      ],
+      "duration_ms": 275807,
+      "name": "Chainbreaker",
+      "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/60xkQwnQFMztQJVGSaeeW1"
     },
     {
-      "added_at": "2024-07-19 14:07:01",
-      "album": {
-        "name": "Abyss Pt I",
-        "url": "https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4"
-      },
-      "artists": [
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
-        }
-      ],
-      "duration_ms": 235380,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/7tWeQHYHpodXBZrMnXGBQY"
-    },
-    {
       "added_at": "2023-01-18 15:54:17",
       "album": {
         "name": "Title Fight",
@@ -1151,6 +1135,22 @@
       "duration_ms": 236142,
       "name": "Title Fight",
       "url": "https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA"
+    },
+    {
+      "added_at": "2024-07-19 14:07:01",
+      "album": {
+        "name": "Abyss Pt I",
+        "url": "https://open.spotify.com/album/2Cn410HpyiPrDfUbAV8fg4"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "duration_ms": 235380,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/7tWeQHYHpodXBZrMnXGBQY"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Army of Cops",
-        "url": "https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR"
-      },
-      "artists": [
-        {
-          "name": "Pig Destroyer",
-          "url": "https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Army of Cops",
-      "url": "https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Three Bastards",
         "url": "https://open.spotify.com/album/4omNTdi2r9MIciuJVMSJoB"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 257899,
       "name": "Three Bastards",
       "url": "https://open.spotify.com/track/1jX4MOsnVz3lnPt5PJXWfN"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Army of Cops",
+        "url": "https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR"
+      },
+      "artists": [
+        {
+          "name": "Pig Destroyer",
+          "url": "https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Army of Cops",
+      "url": "https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Beyond the Tomb",
+        "url": "https://open.spotify.com/album/5RdSBcj60rNvo4SUdlUMqu"
+      },
+      "artists": [
+        {
+          "name": "Fuming Mouth",
+          "url": "https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB"
+        }
+      ],
+      "duration_ms": 289870,
+      "name": "Beyond the Tomb",
+      "url": "https://open.spotify.com/track/0c2MVfLpCAQOts74o45rOb"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "The Cavalry",
         "url": "https://open.spotify.com/album/7uHf3n8HA3BmLEAWAyCElZ"
       },
@@ -1819,18 +1835,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Beyond the Tomb",
-        "url": "https://open.spotify.com/album/5RdSBcj60rNvo4SUdlUMqu"
+        "name": "Disconnected",
+        "url": "https://open.spotify.com/album/5svjN8DhfvgK6O8pmIYrT1"
       },
       "artists": [
         {
-          "name": "Fuming Mouth",
-          "url": "https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB"
+          "name": "Nothing Left",
+          "url": "https://open.spotify.com/artist/0g64mavk16xqgYfQrO1YUn"
         }
       ],
-      "duration_ms": 289870,
-      "name": "Beyond the Tomb",
-      "url": "https://open.spotify.com/track/0c2MVfLpCAQOts74o45rOb"
+      "duration_ms": 186849,
+      "name": "Death from Above",
+      "url": "https://open.spotify.com/track/5JThFNIo27sIaFDp3iw3OV"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1851,22 +1867,6 @@
       "duration_ms": 226956,
       "name": "The Outlaw",
       "url": "https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Disconnected",
-        "url": "https://open.spotify.com/album/5svjN8DhfvgK6O8pmIYrT1"
-      },
-      "artists": [
-        {
-          "name": "Nothing Left",
-          "url": "https://open.spotify.com/artist/0g64mavk16xqgYfQrO1YUn"
-        }
-      ],
-      "duration_ms": 186849,
-      "name": "Death from Above",
-      "url": "https://open.spotify.com/track/5JThFNIo27sIaFDp3iw3OV"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/76eF2u3RYgAQuQOMJEaWCL"
-      },
-      "artists": [
-        {
-          "name": "Neaera",
-          "url": "https://open.spotify.com/artist/66Xc7Y6aW9W5RS2r8HY6P2"
-        }
-      ],
-      "duration_ms": 262880,
-      "name": "Catalyst",
-      "url": "https://open.spotify.com/track/4PZyMx0S5LQyi76JWOrXg0"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Cosmic Maelstrom",
         "url": "https://open.spotify.com/album/4XuK6MYuIAbKcFDs5Tuoqa"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 328379,
       "name": "Cosmic Maelstrom",
       "url": "https://open.spotify.com/track/0qUi4EcvYS5FBJXv1AGGJn"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/76eF2u3RYgAQuQOMJEaWCL"
+      },
+      "artists": [
+        {
+          "name": "Neaera",
+          "url": "https://open.spotify.com/artist/66Xc7Y6aW9W5RS2r8HY6P2"
+        }
+      ],
+      "duration_ms": 262880,
+      "name": "Catalyst",
+      "url": "https://open.spotify.com/track/4PZyMx0S5LQyi76JWOrXg0"
     },
     {
       "added_at": "2023-01-18 15:54:17",

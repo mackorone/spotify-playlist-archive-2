@@ -825,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/2aDRBThYdeLPU8G5phnteD"
+      },
+      "artists": [
+        {
+          "name": "TyriqueOrDie",
+          "url": "https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155050,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/4M2wpBspHtN6DVkSsEM1Fk"
+    },
+    {
+      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
       },
@@ -1010,6 +1028,28 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "album": {
+        "name": "COLORADO",
+        "url": "https://open.spotify.com/album/0USW5CxIlgyrR0tSuOE8KC"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "ZOHARA",
+          "url": "https://open.spotify.com/artist/2JfoFQs5wPHgLz8wnJ4wL2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114875,
+      "name": "COLORADO",
+      "url": "https://open.spotify.com/track/5nOXtkJKRbxiWKMllo3DpJ"
     },
     {
       "album": {
@@ -1669,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4UAZRkXcGGeCMik3c1LAn7"
+      },
+      "artists": [
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202837,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/5sCyGJ7EttcKaX96fiIKRk"
+    },
+    {
+      "album": {
         "name": "DIVE IN",
         "url": "https://open.spotify.com/album/0wcF2eQIGacMilWO8F3hTM"
       },
@@ -2267,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "From Down Here",
+        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241470,
+      "name": "From Down Here",
+      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
+    },
+    {
+      "album": {
         "name": "Gabriela",
         "url": "https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft"
       },
@@ -2718,6 +2794,24 @@
       "duration_ms": 194364,
       "name": "Hate How You Look",
       "url": "https://open.spotify.com/track/1e5jpBtujcn9CMRwNsB9Rq"
+    },
+    {
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "album": {
@@ -3918,10 +4012,28 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 230733,
       "name": "Last Friday Night (T.G.I.F.)",
       "url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/6i6vC7SKe2d4lC4Habhs9x"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Last Friday Night (T.G.I.F.)",
+      "url": "https://open.spotify.com/track/4mVOwzuPKrMb4CDVe9Q4Hs"
     },
     {
       "album": {
@@ -4866,7 +4978,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 241023,
       "name": "NOKIA",
       "url": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
@@ -7079,6 +7191,24 @@
     },
     {
       "album": {
+        "name": "The Last Encounter",
+        "url": "https://open.spotify.com/album/7FxjVKOU9UL90KAwsvJ0y6"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "The Last Encounter",
+      "url": "https://open.spotify.com/track/3cKyBigEDROC8U1QrY921a"
+    },
+    {
+      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
       },
@@ -7146,6 +7276,24 @@
     {
       "album": {
         "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/6xfXgolXzcKzk77P3b3MeZ"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/2k3MdyqMHmfZubFg3pmtby"
+    },
+    {
+      "album": {
+        "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
       },
       "artists": [
@@ -7156,7 +7304,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG"
@@ -7271,6 +7419,28 @@
     },
     {
       "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Timeless (feat Playboi Carti)",
+      "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
       },
@@ -7286,7 +7456,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 256000,
       "name": "Timeless (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -7790,10 +7960,32 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/1zv3WFUbZ5vPxFq9I2jAU1"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215226,
+      "name": "We Found Love",
+      "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
     },
     {
       "album": {
@@ -8068,10 +8260,28 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 226283,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/1OtnMzmWT61Ht5QkRy3pGt"
+    },
+    {
+      "album": {
+        "name": "Son Of Spergy",
+        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226283,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
     },
     {
       "album": {
@@ -8322,10 +8532,28 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 189638,
       "name": "You Didn\u2019t Hear It From Me",
       "url": "https://open.spotify.com/track/0PgTSyiKAXgguGdMTRnW5i"
+    },
+    {
+      "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189638,
+      "name": "You Didn\u2019t Hear It From Me",
+      "url": "https://open.spotify.com/track/3nf11phTAo1DOMNwEWCBBf"
     },
     {
       "album": {

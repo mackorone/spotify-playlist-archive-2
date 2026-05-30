@@ -4,7 +4,7 @@
 
 > Kubilay Karça ve haftanın en iyi çıkışları!
 
-7,937 songs - 16 day 22 hr 37 min
+7,939 songs - 16 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3092,6 +3092,7 @@
 | [Hata](https://open.spotify.com/track/2Ch1f21CyOZNVrJawnUgFA) | [Tuğba Özerk](https://open.spotify.com/artist/30Lb5Jijp6ynpodpRsrqIX) | [Hata](https://open.spotify.com/album/5ZHWLd23tfPxoNOqvNTcjC) | 3:10 | 2025-11-27 | 2025-12-05 |
 | [Hatalardayım](https://open.spotify.com/track/3V8Q5gLXJwPaSTBxZTaxvE) | [Bağzıları](https://open.spotify.com/artist/2WEI5FlFf3Zc5rOKTTLOJe) | [Hatalardayım](https://open.spotify.com/album/6W7TNIyo1PefgDoDm0WbXI) | 2:45 | 2026-03-05 | 2026-03-13 |
 | [hate it](https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [hate it](https://open.spotify.com/album/0zIFTeUIfR4L14AjyVPqT9) | 2:41 | 2025-02-20 | 2025-02-28 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Hatice](https://open.spotify.com/track/0b2IbQthyNXEycBtsno9uZ) | [Azalp](https://open.spotify.com/artist/7hfpzXndG6A2QaUeJJ985O) | [Hatice](https://open.spotify.com/album/3i0OcCkyuqfhO8MSzi70Hw) | 2:41 | 2026-02-19 | 2026-02-27 |
 | [HATIRALAR](https://open.spotify.com/track/54Ms2Vqfba1Nb0vIapjGH0) | [Tamer Erten](https://open.spotify.com/artist/1aCKefPZFpKfviBQv7AnaZ) | [HATIRALAR](https://open.spotify.com/album/1wVZK0WFVNi9s7Rylh2RQj) | 1:29 | 2026-02-19 | 2026-02-27 |
 | [HATIRLA](https://open.spotify.com/track/1wUFOsQmIBejLIJCQt3T0p) | [Orchi](https://open.spotify.com/artist/17adKXL6KxtaIcWY6UvEve) | [HATIRLA](https://open.spotify.com/album/4ZMOF8doyn7k5JFIxmF4FG) | 1:38 | 2025-04-24 | 2025-05-02 |
@@ -4319,6 +4320,7 @@
 | [Külliyen Zarar](https://open.spotify.com/track/5po8GJwNUivrWCmCLTOerW) | [Yiğit Mahzuni](https://open.spotify.com/artist/1uu0kdfguMxU8HqSz7LxIK) | [Külliyen Zarar](https://open.spotify.com/album/5px4f0yVXDi122gJH508Hu) | 2:40 | 2025-10-02 | 2025-10-10 |
 | [KÜLÜ BİLE YOK](https://open.spotify.com/track/0DeeqgOLiOARIY1ug7kzed) | [Yiğit Seferoğlu](https://open.spotify.com/artist/23PyUBxakP5fM83oPh8Alc) | [KÜLÜ BİLE YOK](https://open.spotify.com/album/6X1pvM5QtkmfapShOBEc2j) | 2:47 | 2026-04-23 | 2026-05-01 |
 | [Külüme Kül Ekledin](https://open.spotify.com/track/03bokiDB4DusXtXPYeIECE) | [eyk](https://open.spotify.com/artist/5wJdAM8xOev4AQmtEx2Byv) | [Külüme Kül Ekledin](https://open.spotify.com/album/3sy4LoSAM6aSyShorZs7b6) | 2:44 | 2026-01-08 | 2026-01-16 |
+| [Kürdilihicazkar Longa \- Jazz Version](https://open.spotify.com/track/3gFmTGSIheiPuxBa6bTMMN) | [Ersin Ersavas](https://open.spotify.com/artist/4GUBCYI0FwQXQBMYIuKnoI) | [Istanbul Maqam Jazz](https://open.spotify.com/album/10qJGhH8XRyQzzo49CqbLs) | 1:47 | 2026-05-28 |  |
 | [Kürek](https://open.spotify.com/track/3TshK65BU9wsY12Wb6qRO4) | [Luca Fritz](https://open.spotify.com/artist/2OC7ge5Jh8ENuN1rN62cJw), [Robin](https://open.spotify.com/artist/0pGPEVS5RjTs0jE4egqtVW), [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [Kürek](https://open.spotify.com/album/5mVsKDrkMYPr8iqY37TIAN) | 1:31 | 2025-10-16 | 2025-10-24 |
 | [Kürşad Marşı](https://open.spotify.com/track/3H5qMjor8YM7YnLBKufBop) | [Atilla Yılmaz](https://open.spotify.com/artist/6ZFTsHbmnmsihpv2qGhYXI) | [Kürşad Marşı](https://open.spotify.com/album/0U5vMUgptyKAb97Lal980P) | 4:45 | 2026-05-07 | 2026-05-15 |
 | [Küskün Çiçek](https://open.spotify.com/track/0TnDxwv1IJzXB9E5TtcODm) | [Genç Osman](https://open.spotify.com/artist/5Zkr7EwsJ7r1XMjxvoD3Yu) | [Küskün Çiçek](https://open.spotify.com/album/1j2W31ZxWuNCrVgBQN3FWR) | 2:45 | 2026-04-23 | 2026-05-01 |
@@ -4414,6 +4416,7 @@
 | [LEGIT](https://open.spotify.com/track/6a9gI6ovVfACkSPpqfAkdQ) | [Alba](https://open.spotify.com/artist/3gT9Z8pVuqk2Rvl52J5W71) | [LEGIT](https://open.spotify.com/album/4Vy5kXhBI8jTqCTm1x16bB) | 1:58 | 2025-09-25 | 2025-10-04 |
 | [Leke](https://open.spotify.com/track/4hGaFvR5IF8iqdbxI1ri8N) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [Leke](https://open.spotify.com/album/3Rl9PqRpoP1L0U4uWwoiZi) | 2:46 | 2026-03-12 | 2026-03-20 |
 | [Lele Canım \(Selami Şahin Şarkıları 3\)](https://open.spotify.com/track/6JJn0MdC5O9Z3D14b2Ka89) | [Burak Akagün](https://open.spotify.com/artist/1jjG3yifMeceZWiCNh1FqG) | [Lele Canım \(Selami Şahin Şarkıları 3\)](https://open.spotify.com/album/6c2IXMpogOnnCdPzmzhz6L) | 2:48 | 2026-03-19 | 2026-03-27 |
+| [LEMONADE \(feat\. Becky G\)](https://open.spotify.com/track/4X0AxVnhlkSd4ggu78Tir1) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/5dscbWbSUuO5SNnrtiCVSB) | 3:07 | 2026-05-29 |  |
 | [Les Cadavres de la Reine au Cœur Noir](https://open.spotify.com/track/4M16G0T0iVIRIDxgwk6lSm) | [Genco Arı](https://open.spotify.com/artist/58PCTeH2HDJNLkLwAwEeMu) | [Les Cadavres de la Reine au Cœur Noir](https://open.spotify.com/album/1WWHivyMWZ0DeR0tnbBpeo) | 5:42 | 2025-08-14 | 2025-08-22 |
 | [Let It All Out](https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Let It All Out](https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb) | 4:13 | 2025-12-11 | 2025-12-19 |
 | [Let It Go](https://open.spotify.com/track/1kEr4xPFCpsYlet1ti3f5I) | [Ali Bakgor](https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs) | [Let It Go](https://open.spotify.com/album/5v8QbR6dw1XHOEnmLADKpF) | 2:31 | 2025-04-03 | 2025-04-11 |
@@ -6614,7 +6617,6 @@
 | [toybeat](https://open.spotify.com/track/3xxEgM4L0ZQRtO2QEO9lWN) | [nazire](https://open.spotify.com/artist/5yq1O1yuIoimW9QFYk4Pop) | [toybeat](https://open.spotify.com/album/0Li1WmzgBRkhfpwOeGMCNA) | 2:31 | 2025-08-21 | 2025-08-29 |
 | [Toydum](https://open.spotify.com/track/6kcwVqUax4S8GJ4FJy2t40) | [Seda Eylül Tansık](https://open.spotify.com/artist/3QoWho8rukGcCzeQEPuZud), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Toydum](https://open.spotify.com/album/1Py2kc9VYdxVp7WmHodxzq) | 3:40 | 2025-06-12 | 2025-06-20 |
 | [TOZPEMBE](https://open.spotify.com/track/4OgyM015xx4c2NECTQlND2) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC) | [TOZPEMBE](https://open.spotify.com/album/6kUsjDLFky1XSIs2PefSyQ) | 2:18 | 2025-10-30 | 2025-11-07 |
-| [Track 7](https://open.spotify.com/track/3gFmTGSIheiPuxBa6bTMMN) | [Ersin Ersavas](https://open.spotify.com/artist/4GUBCYI0FwQXQBMYIuKnoI) | [Istanbul Maqam Jazz](https://open.spotify.com/album/10qJGhH8XRyQzzo49CqbLs) | 0:00 | 2026-05-28 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [Transcend](https://open.spotify.com/track/2cbyiv8mzoTCCzCAx2SdYW) | [Erdem Tunali](https://open.spotify.com/artist/0nKW0tidLmlNBpIhcRmwta), [İdil Meşe](https://open.spotify.com/artist/5HE29yygBDPWK6kePPr3I3) | [Transcend](https://open.spotify.com/album/00pjxxOfsIntUfRjFtmf1l) | 4:28 | 2025-11-27 | 2025-12-05 |
 | [Transit \(feat\. Killa P\)](https://open.spotify.com/track/7mR1z8YGtFKBEJ8Y0lIg7E) | [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Transit](https://open.spotify.com/album/5dY2qizbHFrIZm3HMPZXJZ) | 3:22 | 2025-08-07 | 2025-08-15 |

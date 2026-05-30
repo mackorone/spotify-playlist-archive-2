@@ -919,6 +919,24 @@
     },
     {
       "album": {
+        "name": "Banksiana",
+        "url": "https://open.spotify.com/album/2ycvX3YzxvbmKK88J2xROQ"
+      },
+      "artists": [
+        {
+          "name": "Duu",
+          "url": "https://open.spotify.com/artist/1SsXg212vipwIjhJp0Ut9q"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247483,
+      "name": "Banksiana",
+      "url": "https://open.spotify.com/track/7gjAykShD6TS8XnCFDr3Lx"
+    },
+    {
+      "album": {
         "name": "Barracuda",
         "url": "https://open.spotify.com/album/0QFxXWyypV88bXEaJnyEF0"
       },
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 169415,
       "name": "CQTND",
       "url": "https://open.spotify.com/track/4wnGoVSLIwSyX48LuGwt6g"
@@ -2244,6 +2262,24 @@
       "duration_ms": 281645,
       "name": "Daystar",
       "url": "https://open.spotify.com/track/7rPtb0wNOQo3nX0OAikFRV"
+    },
+    {
+      "album": {
+        "name": "De l'autre c\u00f4t\u00e9 de la terre",
+        "url": "https://open.spotify.com/album/5AP6Ry2Z6NkmrpVGwcZemc"
+      },
+      "artists": [
+        {
+          "name": "happy sunflower",
+          "url": "https://open.spotify.com/artist/4WCxTKCJFu9QnUEDlS1rLS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456846,
+      "name": "De l'autre c\u00f4t\u00e9 de la terre",
+      "url": "https://open.spotify.com/track/5jSa3vmaQhWfyNcuQTl3wo"
     },
     {
       "album": {
@@ -2604,6 +2640,24 @@
       "duration_ms": 131741,
       "name": "DOWN FOR THAT",
       "url": "https://open.spotify.com/track/6MY7tVcqdKFG0GA6oXOY5v"
+    },
+    {
+      "album": {
+        "name": "Drive U Mad",
+        "url": "https://open.spotify.com/album/7DNLu7dMfMDFt9tnxbgTsD"
+      },
+      "artists": [
+        {
+          "name": "Eman Alali",
+          "url": "https://open.spotify.com/artist/6lV73BGgSYasE0ikD3Bs1W"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171723,
+      "name": "Drive U Mad",
+      "url": "https://open.spotify.com/track/61pKBial8w5aKgwgJmye19"
     },
     {
       "album": {
@@ -3151,6 +3205,24 @@
     },
     {
       "album": {
+        "name": "Fix Your Eyes",
+        "url": "https://open.spotify.com/album/6kfmApvazm2bnHuY7LF1eT"
+      },
+      "artists": [
+        {
+          "name": "Crimson99",
+          "url": "https://open.spotify.com/artist/4MqxhJPhBtuNQU4fy4lkIT"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154390,
+      "name": "Fix Your Eyes",
+      "url": "https://open.spotify.com/track/4Ca0yywYTfZbzm7fCJGKYK"
+    },
+    {
+      "album": {
         "name": "Bizou",
         "url": "https://open.spotify.com/album/274PDh5BGP9Bk2u3DoFcuj"
       },
@@ -3414,7 +3486,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 257834,
       "name": "Gothique",
       "url": "https://open.spotify.com/track/6As4yZPXn7pg038yAP6lGe"
@@ -3432,7 +3504,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 147582,
       "name": "graduation",
       "url": "https://open.spotify.com/track/3xsEofcAiQgpYqDOoAMJpK"
@@ -3540,7 +3612,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 290883,
       "name": "Haveluck Country",
       "url": "https://open.spotify.com/track/71IaDBix6TTuOWnnTVk9Eu"
@@ -3822,6 +3894,24 @@
       "duration_ms": 176138,
       "name": "i see red",
       "url": "https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI"
+    },
+    {
+      "album": {
+        "name": "I Wasn't Fully Cooked",
+        "url": "https://open.spotify.com/album/0TdzAcAYjqD9GsXKm8e1Om"
+      },
+      "artists": [
+        {
+          "name": "knitting",
+          "url": "https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177880,
+      "name": "I Wasn\u2019t Fully Cooked",
+      "url": "https://open.spotify.com/track/18Bzs5tXdAIoyPdWOqm5Kh"
     },
     {
       "album": {
@@ -4108,7 +4198,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 108064,
       "name": "Je confirme ma pr\u00e9sence",
       "url": "https://open.spotify.com/track/5Hycs03T6DODsC0i97ndGm"
@@ -4534,7 +4624,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 142574,
       "name": "KINDAWRONG",
       "url": "https://open.spotify.com/track/556NI5YjQJOSHFr2e94j4i"
@@ -5878,7 +5968,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 172500,
       "name": "mon chat doma",
       "url": "https://open.spotify.com/track/67YryEjrB7N61WxcQX0SHo"
@@ -6214,7 +6304,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 231923,
       "name": "Nos ombres longues",
       "url": "https://open.spotify.com/track/0YK4RPmzNxjFnNSnNCdui9"
@@ -6640,7 +6730,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 172173,
       "name": "paradize (popo, Madior, ACHEL)",
       "url": "https://open.spotify.com/track/5w0O9KOCNuFHAged9JhBMo"
@@ -6850,7 +6940,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 247430,
       "name": "PERSONNE NE LE SAIT",
       "url": "https://open.spotify.com/track/196IGLLDKa3fzwQeVUNBZB"
@@ -6951,6 +7041,24 @@
     },
     {
       "album": {
+        "name": "Peur dans l'parc",
+        "url": "https://open.spotify.com/album/2mtk4EXJodCwZxTEA9GY89"
+      },
+      "artists": [
+        {
+          "name": "PRINCESSES",
+          "url": "https://open.spotify.com/artist/6xxREfIH6g5mdbVCcxaxLA"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Peur dans l'parc",
+      "url": "https://open.spotify.com/track/26udX1kImizbH9W9xcz3YR"
+    },
+    {
+      "album": {
         "name": "Phil\u00e9douche",
         "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
       },
@@ -7046,6 +7154,42 @@
       "duration_ms": 211570,
       "name": "Piscine hors terre",
       "url": "https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu"
+    },
+    {
+      "album": {
+        "name": "Mythologie de la d\u00e9rape",
+        "url": "https://open.spotify.com/album/5JIcYV17n7Lakw38rt8ogM"
+      },
+      "artists": [
+        {
+          "name": "VioleTT Pi",
+          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242070,
+      "name": "Plaster",
+      "url": "https://open.spotify.com/track/2Uxcxzwhd02rbNJ1bwqfgL"
+    },
+    {
+      "album": {
+        "name": "PLAYER2",
+        "url": "https://open.spotify.com/album/0NPIpnEuNsjsjV2AyekFvd"
+      },
+      "artists": [
+        {
+          "name": "Les Shirley",
+          "url": "https://open.spotify.com/artist/2ap4aQ8MTn4TizEKDUDEer"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143226,
+      "name": "PLAYER2",
+      "url": "https://open.spotify.com/track/0ydThHqNyJ3ndxayxsH8Vn"
     },
     {
       "album": {
@@ -7208,7 +7352,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 157458,
       "name": "Poup\u00e9es russes",
       "url": "https://open.spotify.com/track/2QYKJDsjhcqvTKkx4FQfvA"
@@ -7594,7 +7738,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 154095,
       "name": "Romance",
       "url": "https://open.spotify.com/track/0eP24Hnuk6HuQpmmLBlfNd"
@@ -7778,7 +7922,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 275599,
       "name": "Sarniezz",
       "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
@@ -8038,6 +8182,24 @@
       "duration_ms": 140307,
       "name": "Si oui ou non",
       "url": "https://open.spotify.com/track/0OPEi21gk2S0fg8yMRcews"
+    },
+    {
+      "album": {
+        "name": "Si Vous Redo",
+        "url": "https://open.spotify.com/album/5zt6oAvv4J5He5JpZhergm"
+      },
+      "artists": [
+        {
+          "name": "SAMWOY",
+          "url": "https://open.spotify.com/artist/4khtCx57NpDeXO1miYSmvO"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225420,
+      "name": "Si Vous Redo",
+      "url": "https://open.spotify.com/track/5l94jgdvC6JoC6sqZxYn4b"
     },
     {
       "album": {
@@ -8315,7 +8477,7 @@
     },
     {
       "album": {
-        "name": "stone scultped heart",
+        "name": "stone sculpted heart",
         "url": "https://open.spotify.com/album/6aqZH96RIf4ikXh35FoQGX"
       },
       "artists": [
@@ -8328,8 +8490,30 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 176307,
-      "name": "stone scultped heart",
+      "name": "stone sculpted heart",
       "url": "https://open.spotify.com/track/10TQ5jFLDmJlOyfJQKIOMZ"
+    },
+    {
+      "album": {
+        "name": "les gu\u00eapes",
+        "url": "https://open.spotify.com/album/5LL4TPlXqemv0zB6MwtXDx"
+      },
+      "artists": [
+        {
+          "name": ".ape",
+          "url": "https://open.spotify.com/artist/5JV3xObYYjVkzqttWPv3ju"
+        },
+        {
+          "name": "ZEHD",
+          "url": "https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "stuck in fall",
+      "url": "https://open.spotify.com/track/13nbpYZgyWJzjsQk5o0jj6"
     },
     {
       "album": {
@@ -9281,6 +9465,24 @@
     },
     {
       "album": {
+        "name": "waiting",
+        "url": "https://open.spotify.com/album/2UfFfAkfOz2mok0DC5qZUt"
+      },
+      "artists": [
+        {
+          "name": "Nick Bellerose",
+          "url": "https://open.spotify.com/artist/6Rx0M4DvtX6RFbVTJNspwt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "waiting",
+      "url": "https://open.spotify.com/track/3VGYfBHY4fge5Hxa2Tkntt"
+    },
+    {
+      "album": {
         "name": "WAKE UP",
         "url": "https://open.spotify.com/album/64w4PHbffwBJvLkVdSfm9E"
       },
@@ -9638,6 +9840,24 @@
       "duration_ms": 242086,
       "name": "\u00c7a part avec toi",
       "url": "https://open.spotify.com/track/6FDTHYLa4jRRAZiUbH5zdI"
+    },
+    {
+      "album": {
+        "name": "\u00c9clats",
+        "url": "https://open.spotify.com/album/532JNf4itn7WIAfEDvXENN"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9atoire",
+          "url": "https://open.spotify.com/artist/2JRumJlhEUldbSC3uUSnZI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159564,
+      "name": "\u00c9clats",
+      "url": "https://open.spotify.com/track/5kO31qpPg2qlIJ7rKA4YeI"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "All killers, no fillers",
-  "num_followers": 1978300,
+  "num_followers": 1978208,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-03-24 13:52:10",
       "album": {
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
+    },
+    {
+      "added_at": "2026-03-24 13:52:10",
+      "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
-    },
-    {
-      "added_at": "2026-03-24 13:52:10",
-      "album": {
-        "name": "Music Of The Sun",
-        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "Pon de Replay",
-      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
     },
     {
       "added_at": "2026-03-24 13:52:10",
@@ -975,6 +975,26 @@
     {
       "added_at": "2026-03-24 13:52:10",
       "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2026-03-24 13:52:10",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2026-03-24 13:52:10",
-      "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2026-03-24 13:52:10",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2026-03-24 13:52:10",
       "album": {
-        "name": "NOW OR NEVER",
-        "url": "https://open.spotify.com/album/2iJkrwXpyChhfeClyX7oov"
-      },
-      "artists": [
-        {
-          "name": "Tkandz",
-          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
-        },
-        {
-          "name": "CXSPER",
-          "url": "https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "NOW OR NEVER",
-      "url": "https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c"
-    },
-    {
-      "added_at": "2026-03-24 13:52:10",
-      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 187086,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
+    },
+    {
+      "added_at": "2026-03-24 13:52:10",
+      "album": {
+        "name": "NOW OR NEVER",
+        "url": "https://open.spotify.com/album/2iJkrwXpyChhfeClyX7oov"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        },
+        {
+          "name": "CXSPER",
+          "url": "https://open.spotify.com/artist/1MVnyuEGQxpIwxOtlThiaL"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "NOW OR NEVER",
+      "url": "https://open.spotify.com/track/4fUK2q5ERoi97E3g2kwB8c"
     },
     {
       "added_at": "2026-03-24 13:52:10",
@@ -1339,30 +1339,6 @@
     {
       "added_at": "2026-03-24 13:52:10",
       "album": {
-        "name": "Shock Value",
-        "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
-      },
-      "artists": [
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Give It To Me",
-      "url": "https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx"
-    },
-    {
-      "added_at": "2026-03-24 13:52:10",
-      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -1383,6 +1359,30 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "added_at": "2026-03-24 13:52:10",
+      "album": {
+        "name": "Shock Value",
+        "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx"
     },
     {
       "added_at": "2026-03-24 13:52:10",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2026-03-24 13:52:10",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
       "artists": [
         {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2026-03-24 13:52:10",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2026-03-24 13:52:10",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
         }
       ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2026-03-24 13:52:10",

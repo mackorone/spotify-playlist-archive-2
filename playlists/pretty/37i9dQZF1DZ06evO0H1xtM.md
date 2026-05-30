@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,504 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,555 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 14 | [Pobre No](https://open.spotify.com/track/1P2j2F7AjZxUl0Uo102539) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Corleone](https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji) | 2:24 |
 | 15 | [Bling Bling](https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [Bling Bling](https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy) | 2:42 |
 | 16 | [A ti](https://open.spotify.com/track/1iCfoPEd960ppyxSkU7ZUP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [On fire](https://open.spotify.com/album/4tUJpKlX1wWFntOI9CPMw8) | 2:47 |
-| 17 | [Adicto A Ti](https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Adicto A Ti](https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ) | 2:18 |
-| 18 | [El Comerciante](https://open.spotify.com/track/3AAEHiOcKtEYxVLIM2frub) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigue La Magia Dando](https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW) | 4:05 |
+| 17 | [El Comerciante](https://open.spotify.com/track/3AAEHiOcKtEYxVLIM2frub) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigue La Magia Dando](https://open.spotify.com/album/1aIIP4cPvZFZnSCwAjKEVW) | 4:05 |
+| 18 | [Adicto A Ti](https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Adicto A Ti](https://open.spotify.com/album/3rRx6lmhafwUpFZGVIvTWJ) | 2:18 |
 | 19 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 |
 | 20 | [Déjenme Hacer Dinero](https://open.spotify.com/track/36Sb1v2RoaxKDFkzergWCO) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Déjenme Hacer Dinero](https://open.spotify.com/album/0EfL3Mc1ApalTVk7roCO5y) | 3:11 |
 | 21 | [Y Sigues Siendo Tú](https://open.spotify.com/track/74rsDogaPfxMdSMHAiWL3l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5) | 2:35 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 27 | [Por Si Las Dudas](https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Por Si Las Dudas](https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2) | 2:41 |
 | 28 | [Mafiosa](https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mafiosa](https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5) | 2:50 |
 | 29 | [Mi Morenita](https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Mi Morenita](https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1) | 2:29 |
-| 30 | [Sin Darme Explicacion](https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS) | [Jasson Arellano](https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Darme Explicacion](https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo) | 3:07 |
-| 31 | [El Niño](https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Niño](https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy) | 3:10 |
+| 30 | [El Niño](https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Niño](https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy) | 3:10 |
+| 31 | [Sin Darme Explicacion](https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS) | [Jasson Arellano](https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Darme Explicacion](https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo) | 3:07 |
 | 32 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 |
 | 33 | [SUPERCHARGED](https://open.spotify.com/track/58c33wvOVysB63tVyU28wB) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [SUPERCHARGED](https://open.spotify.com/album/2shcF3CrkjD6MgndMyDCP1) | 3:05 |
 | 34 | [Sigan Atentos](https://open.spotify.com/track/6GrGeO8GtlBe3Nulkv6LMi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sigan Atentos](https://open.spotify.com/album/0zLVv9rORmN7dGEqEql0rK) | 5:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 49 | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/track/2G1w6qfHd03zBzsNjAkPOt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/album/2GsM14v55cfq9hPlfXRzan) | 3:46 |
 | 50 | [El Destino Nos Separa](https://open.spotify.com/track/5lFJj5QAOpo9gHBmI1G2zP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [El Destino Nos Separa](https://open.spotify.com/album/4HQTPSXHRPrtPXAo4yYu1f) | 2:15 |
 
-Snapshot ID: `ahY0AAAAAADldSyziw1i1yAkOsJ6t2Vn`
+Snapshot ID: `aheFgAAAAAD555Y14tTDmLICqsp6rPXw`

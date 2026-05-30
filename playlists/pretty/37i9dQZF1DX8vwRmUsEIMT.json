@@ -1,13 +1,29 @@
 {
   "description": "All the new music you need to hear right now. Cover: Skye Newman",
-  "num_followers": 607764,
+  "num_followers": 608586,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK0BXdcudVIpjK//JeNhtecaqqR7",
+  "snapshot_id": "AAAAAHPi9QS0BJ8KpLKJGMx5lEI5Ksf4",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:02:25",
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
     {
       "added_at": "2026-05-28 23:00:51",
       "album": {
@@ -378,10 +394,14 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
       "duration_ms": 191786,
-      "name": "Hostage",
+      "name": "Hostage (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
     },
     {

@@ -194,7 +194,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 269740,
       "name": "Big Wheel Whippin'",
       "url": "https://open.spotify.com/track/3gSsZVKLIzKzQit8weYbm1"
@@ -2250,6 +2250,28 @@
     {
       "album": {
         "name": "Paperwork (Deluxe Explicit)",
+        "url": "https://open.spotify.com/album/6NJT4jSQtCoVAFhTmskP0h"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229714,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1DeSr083X5gBJVfXv426Ce"
+    },
+    {
+      "album": {
+        "name": "Paperwork (Deluxe Explicit)",
         "url": "https://open.spotify.com/album/4FADvCXok2GhepAWLE8Fs1"
       },
       "artists": [
@@ -2264,7 +2286,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 229714,
       "name": "Stay (feat. Victoria Mon\u00e9t)",
       "url": "https://open.spotify.com/track/424TDSrqQaZqxqzMkaJhDP"

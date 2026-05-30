@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes MCs do hip hop nacional. Foto: kouth",
+  "description": "Aqui quem manda s\u00e3o elas! Ou\u00e7a grandes MCs do hip hop nacional. Foto: Afreekassia",
   "name": "S\u00f3 as Minas",
   "tracks": [
     {
@@ -908,7 +908,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 161052,
       "name": "Chama de amor",
       "url": "https://open.spotify.com/track/2qOzVhY0aa8mdAdGT42eX4"
@@ -3166,7 +3166,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 136773,
       "name": "Mal Acostumada",
       "url": "https://open.spotify.com/track/7GnPbQS1aDXXmON7bMxwX4"
@@ -3552,6 +3552,32 @@
       "duration_ms": 151889,
       "name": "MINA QUENTE",
       "url": "https://open.spotify.com/track/3B17U5VJdLG72jwJVbhUsW"
+    },
+    {
+      "album": {
+        "name": "Cacau 50% , Vol.2",
+        "url": "https://open.spotify.com/album/7eW65C6hstcMmJGsLTvrgG"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "Minha onda",
+      "url": "https://open.spotify.com/track/5afa3QSWTAaVZm53Wv1ofK"
     },
     {
       "album": {
@@ -4348,6 +4374,28 @@
       "duration_ms": 135517,
       "name": "Pra Te Envolver",
       "url": "https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2"
+    },
+    {
+      "album": {
+        "name": "Cacau 50% , Vol.2",
+        "url": "https://open.spotify.com/album/7eW65C6hstcMmJGsLTvrgG"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139574,
+      "name": "Preta f* quente",
+      "url": "https://open.spotify.com/track/2330GWgB2sdm1XIqhrp97W"
     },
     {
       "album": {

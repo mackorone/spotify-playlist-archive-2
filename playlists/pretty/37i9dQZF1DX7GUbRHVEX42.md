@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Buju Banton
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,623 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,597 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 29 | [The Kalling](https://open.spotify.com/track/7sWHIFWauKqIXFPvVA4UTa) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [The Kalling](https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9) | 3:33 |
 | 30 | [Let's Make Up](https://open.spotify.com/track/0vXUQKUSOItuBwnRU6FsW2) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Forward](https://open.spotify.com/album/1AIRz1KsEzGjh55J81z03F) | 4:51 |
 | 31 | [Diamonds and Gold](https://open.spotify.com/track/2XMeQMiOJgKRoWcC3CHFtJ) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Diamonds and Gold](https://open.spotify.com/album/15muGQPID5opsEsRptvSDz) | 3:47 |
-| 32 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 |
-| 33 | [Wisemen](https://open.spotify.com/track/2u3aTF3PxyJt7XQ5w0z04t) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Wisemen](https://open.spotify.com/album/4IgOYbYLa7t750vdIx2QRZ) | 3:48 |
+| 32 | [Wisemen](https://open.spotify.com/track/2u3aTF3PxyJt7XQ5w0z04t) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Wisemen](https://open.spotify.com/album/4IgOYbYLa7t750vdIx2QRZ) | 3:48 |
+| 33 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 |
 | 34 | [Blaze Away](https://open.spotify.com/track/3JBcOPPiLz7mQYSm6wMHpF) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Blaze Away](https://open.spotify.com/album/2VI5sZ40Lewd51hhtF58cc) | 3:09 |
 | 35 | [Hustling In My Blood](https://open.spotify.com/track/4frqa3VmTDu8uPiflqdmoQ) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK), [Damian "Jr Gong" Marley](https://open.spotify.com/artist/3QWR83BS6UYBWy8wWkm1nN), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [Hustling In My Blood](https://open.spotify.com/album/2RBVosWbf5PCDS0b44NiaK) | 4:15 |
 | 36 | [My World](https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:18 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 47 | [Pilates](https://open.spotify.com/track/0XnhHtjdEQwhDwQzWVJ3k6) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Pilates](https://open.spotify.com/album/6ux6oPZPf2WlDa6lZqxDMs) | 2:25 |
 | 48 | [Mi Deh Yah](https://open.spotify.com/track/49v38DJoDmsKR2hLuuX035) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Mixing Finga](https://open.spotify.com/artist/2UopbSlohTzQEyqorhWAzx) | [Mi Deh Yah](https://open.spotify.com/album/1nidBImbRcFGTYh0YBkAuu) | 3:47 |
 | 49 | [GOOD TIMES](https://open.spotify.com/track/6MPPyUGO9FfPDXRcIe5klh) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [GOOD TIMES](https://open.spotify.com/album/0fRkvDQXSaioBIy3kHeCR7) | 2:55 |
-| 50 | [Way You Make Me Feel](https://open.spotify.com/track/7liPPCJ2159T02PnqyhhuY) | [Kelissa](https://open.spotify.com/artist/7yO5rUbDIUN1RDKMJcHeeg) | [Way You Make Me Feel](https://open.spotify.com/album/1xSwH7uxVv63vA6I5D5kqc) | 3:59 |
-| 51 | [Rose Petal](https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Rose Petal](https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF) | 3:29 |
+| 50 | [Rose Petal](https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Rose Petal](https://open.spotify.com/album/3puzUOeDspdXYqC7uLpGWF) | 3:29 |
+| 51 | [Way You Make Me Feel](https://open.spotify.com/track/7liPPCJ2159T02PnqyhhuY) | [Kelissa](https://open.spotify.com/artist/7yO5rUbDIUN1RDKMJcHeeg) | [Way You Make Me Feel](https://open.spotify.com/album/1xSwH7uxVv63vA6I5D5kqc) | 3:59 |
 | 52 | [Perfectly With You](https://open.spotify.com/track/6li1utKb0kTo2R9FQU66yn) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Perfectly With You](https://open.spotify.com/album/6cDKLuyr4i3lY2uCOuEO3J) | 3:32 |
 | 53 | [Keep Blazin'](https://open.spotify.com/track/3blQBAryJo7rmvRGW0rcTp) | [Green Lion Crew](https://open.spotify.com/artist/7iA6sxOMDOu5MnyfmKQv6m), [Roe Summerz](https://open.spotify.com/artist/28qKo7P9G17aasylX64m79) | [Keep Blazin'](https://open.spotify.com/album/0AbmIWR90BHUxSINeBPJ9G) | 3:04 |
 | 54 | [Good Over Evil](https://open.spotify.com/track/3DkzTVZLHifYPaIlBw0x0f) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [The Golden Hour](https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78) | 4:24 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 65 | [Fill My Cup](https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm) | [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Fill My Cup](https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE) | 3:22 |
 | 66 | [Hallelujah](https://open.spotify.com/track/2d0xBDrSxKqLacd8OJkeZ6) | [Spragga Benz](https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f) | [Hallelujah](https://open.spotify.com/album/3EmG2SaJaGoLoknL0Ad1oo) | 4:07 |
 | 67 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
-| 68 | [Bad Dreams](https://open.spotify.com/track/0iYz835jZ1PKFs8BAwikFz) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Crawba Genius](https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf) | [Bad Dreams](https://open.spotify.com/album/2fXdXcYiFoDrb8VKXPDRQY) | 2:58 |
-| 69 | [Light Of Mine](https://open.spotify.com/track/27OJkWLoSTF6JcQXUoiJw1) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [Light Of Mine](https://open.spotify.com/album/3tXhyhTgxoF5s4PrBajFla) | 3:42 |
+| 68 | [Light Of Mine](https://open.spotify.com/track/27OJkWLoSTF6JcQXUoiJw1) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [Light Of Mine](https://open.spotify.com/album/3tXhyhTgxoF5s4PrBajFla) | 3:42 |
+| 69 | [Bad Dreams](https://open.spotify.com/track/0iYz835jZ1PKFs8BAwikFz) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Crawba Genius](https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf) | [Bad Dreams](https://open.spotify.com/album/2fXdXcYiFoDrb8VKXPDRQY) | 2:58 |
 | 70 | [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 |
 
 Snapshot ID: `AAAAAHr2N5v0QanUwudeaRw7mitv0WQ4`

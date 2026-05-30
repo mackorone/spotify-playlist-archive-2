@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Bohemio \ud83d\udcf8",
+  "description": "The new school of M\u00fasica Mexicana. Juan Freer \ud83d\udcf8",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -2106,7 +2106,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 178000,
       "name": "Amor Propio",
       "url": "https://open.spotify.com/track/1qc7C2bbYn3PfgaygG2cv7"
@@ -2720,7 +2720,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 163000,
       "name": "Arrancarte",
       "url": "https://open.spotify.com/track/1SkONlC9ucuJD8irTfufcz"
@@ -9085,6 +9085,28 @@
     },
     {
       "album": {
+        "name": "El 7 Siempre",
+        "url": "https://open.spotify.com/album/0sqReY6LiMBNktJ4uGhqNL"
+      },
+      "artists": [
+        {
+          "name": "Daniel Vazquez",
+          "url": "https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS"
+        },
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193872,
+      "name": "El 7 Siempre",
+      "url": "https://open.spotify.com/track/2wkdooMvir2pmRJYkXKmqA"
+    },
+    {
+      "album": {
         "name": "El AA",
         "url": "https://open.spotify.com/album/1eGoHstdOOCZwrF7FqF4HZ"
       },
@@ -11134,7 +11156,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 200072,
       "name": "Empujando la Carreta",
       "url": "https://open.spotify.com/track/1bHCsHVvMZg13MsQTm7DLH"
@@ -15272,7 +15294,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 201804,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/2qSRWPxsgu6VHdNnpRTUDW"
@@ -21301,6 +21323,24 @@
     },
     {
       "album": {
+        "name": "Mucha Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/00aZ5TVDBxZpdAD2D6o5NZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166276,
+      "name": "Mucha Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/6BZpuN8gCYimSUbwSRRKWK"
+    },
+    {
+      "album": {
         "name": "CORRIDOS CHAKALOSOS II",
         "url": "https://open.spotify.com/album/0TqEXJ59iNhKktfSCxCJRH"
       },
@@ -23508,6 +23548,24 @@
       "duration_ms": 156078,
       "name": "Nunca Termino",
       "url": "https://open.spotify.com/track/6rEX6cTWAMmSGAiQyqYYoK"
+    },
+    {
+      "album": {
+        "name": "Nunca Voy a Morir",
+        "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134237,
+      "name": "Nunca Voy a Morir",
+      "url": "https://open.spotify.com/track/4C9ZJp0ykJ0ZvNUaMwdLZZ"
     },
     {
       "album": {
@@ -26242,6 +26300,28 @@
       "duration_ms": 163118,
       "name": "P\u00f3nganse Las Pilas",
       "url": "https://open.spotify.com/track/5YPfy2P8L8fnAsqhEl8oaD"
+    },
+    {
+      "album": {
+        "name": "q sentido tiene??? :(",
+        "url": "https://open.spotify.com/album/0hlUI3GPnB2cJ5VkiLs4Un"
+      },
+      "artists": [
+        {
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "q sentido tiene??? :(",
+      "url": "https://open.spotify.com/track/2kt28Xq4B5N4jkJpL0uJP7"
     },
     {
       "album": {

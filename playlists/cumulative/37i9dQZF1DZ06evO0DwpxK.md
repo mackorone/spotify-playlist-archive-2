@@ -4,7 +4,7 @@
 
 > This is HUMBE\. The essential tracks, all in one playlist.
 
-81 songs - 5 hr 6 min
+82 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [HARRY STAMPER](https://open.spotify.com/track/54oMTaZ94z2bwgQccWfc15) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 3:12 | 2025-12-08 |  |
 | [HERA](https://open.spotify.com/track/58nguiUrfLUHWX4r6OHh0p) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 3:42 | 2025-12-08 | 2026-01-05 |
 | [Himno](https://open.spotify.com/track/0qKwMEPwaEs4CuVGrGFYFR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:27 | 2023-11-10 |  |
-| [KINTSUGI](https://open.spotify.com/track/1aDOtUEvUbItaYvYy6Ajs4) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 3:57 | 2026-05-06 |  |
+| [KINTSUGI](https://open.spotify.com/track/1CwPL9y5m2lCO8AF6RsEk2) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/7ekh255Qq8kxNEzIHM8ZpT) | 3:57 | 2026-05-30 |  |
+| [KINTSUGI](https://open.spotify.com/track/1aDOtUEvUbItaYvYy6Ajs4) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 3:57 | 2026-05-06 | 2026-05-30 |
 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 | 2024-09-29 | 2026-05-06 |
 | [LOOP](https://open.spotify.com/track/7LF6VVNbG0jB6TiP1KVOzS) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 3:49 | 2024-12-01 | 2024-12-16 |
 | [LUZ DE LUNA](https://open.spotify.com/track/15TFkQufCx3EFoLJec4XVD) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 5:38 | 2025-12-08 | 2025-12-09 |

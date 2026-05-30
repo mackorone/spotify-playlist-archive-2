@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 
 > This is Hombres G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,684 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,692 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 20 | [Estoy pintando tu sonrisa](https://open.spotify.com/track/5Q7bqhsyIM6Ns3zUWZNMqL) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Esta Es Tu Vida](https://open.spotify.com/album/04SU7UlCSrIujoewyo5P08) | 2:14 |
 | 21 | [¿Qué te he hecho yo?](https://open.spotify.com/track/1ZKYyqCoI6NnQ6bfr3ydKQ) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 2:31 |
 | 22 | [En la playa](https://open.spotify.com/track/1wOsSDOOXIx01XstsQXxp2) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [La Cagaste..\. Burt Lancaster](https://open.spotify.com/album/6clqMga4PMBcBlWCR6idis) | 4:09 |
-| 23 | [Hace un año](https://open.spotify.com/track/1IGF8i4TR7VsVFsvcTZUB2) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:03 |
+| 23 | [Vuelve a mí](https://open.spotify.com/track/7Lsl2OfRZGXUNMtLn5aXgT) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:19 |
 | 24 | [Rita](https://open.spotify.com/track/6mukeKSlyZX1zfbvulrPy9) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Esta Es Tu Vida](https://open.spotify.com/album/04SU7UlCSrIujoewyo5P08) | 2:53 |
 | 25 | [En mi coche](https://open.spotify.com/track/2J4GESip4F72CDrrGQksJp) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 4:02 |
 | 26 | [Luz de Día \(En Vivo\)](https://open.spotify.com/track/6mCnpTHThZ0Rtmn69FKjd5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 5:25 |
-| 27 | [Vuelve a mí](https://open.spotify.com/track/7Lsl2OfRZGXUNMtLn5aXgT) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 3:19 |
+| 27 | [Hace un año](https://open.spotify.com/track/1IGF8i4TR7VsVFsvcTZUB2) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:03 |
 | 28 | [No aguanto a tu prima](https://open.spotify.com/track/2RlGxlLA26Je05MCjinvQX) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 2:40 |
 | 29 | [Los mejores años de nuestra vida](https://open.spotify.com/track/2gefFE6cOjYJ9n4QHUOzan) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Los mejores años de nuestra vida](https://open.spotify.com/album/0vgA7E6cinrPHGrBF9Qbzo) | 4:17 |
 | 30 | [Lamento Boliviano \(En Vivo\)](https://open.spotify.com/track/2EXI9HTEQxGdaEcVChE0DK) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Huevos Revueltos \(En Vivo\)](https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm) | 6:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 49 | [Te Vi \(with Albert Hammond\)](https://open.spotify.com/track/1CnYkECrVRHHfguk01Zn07) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [En La Playa](https://open.spotify.com/album/0oGCqVHaevPFm5mzgTsUsL) | 3:45 |
 | 50 | [Amos del Piano Bar \(feat\. Hombres G\)](https://open.spotify.com/track/68xGtXidF9kdGOoKc5R4yd) | [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Tres Tequilas & Un Mezcal](https://open.spotify.com/album/1UmFGyH0WblA5bxEn9A92E) | 3:16 |
 
-Snapshot ID: `ahY0AAAAAABno4fxK90vsNJiDMsHlyfS`
+Snapshot ID: `aheFgAAAAADQIPGvqFcwFsakkGJioVjv`

@@ -4,14 +4,14 @@
 
 > The tracks you just keep pulling up\. Cover: J\. Cole
 
-849 songs - 1 day 19 hr 52 min
+850 songs - 1 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!](https://open.spotify.com/track/5a1ofLoPiAn5xxf5UE6472) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [!](https://open.spotify.com/album/4YEhTvqsptB5D1n095QL5r) | 2:15 | 2022-02-25 | 2022-04-19 |
 | [06 Gucci \(feat\. DaBaby & 21 Savage\)](https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [06 Gucci \(feat\. DaBaby & 21 Savage\)](https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr) | 2:58 | 2023-05-05 | 2023-10-01 |
 | [2 Chains](https://open.spotify.com/track/6WoTtW8IOKd6EauCkALxR7) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [2 Chains](https://open.spotify.com/album/5Z5DR6hXE4MjtR6G9kJ5wI) | 3:05 | 2022-02-08 | 2022-04-21 |
-| [2 Mazza \(feat\. Drake\)](https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Don't Box Me In](https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT) | 3:11 | 2026-05-20 |  |
+| [2 Mazza \(feat\. Drake\)](https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Don't Box Me In](https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT) | 3:11 | 2026-05-20 | 2026-05-30 |
 | [2055](https://open.spotify.com/track/0mG6igzxbH55XRyq3ygEh8) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [2055](https://open.spotify.com/album/0DiZ7mmFppDNbEtoRPvSGf) | 2:03 | 2022-01-07 | 2023-06-03 |
 | [24 \(feat\. Lil Baby\)](https://open.spotify.com/track/7v96VvFLS0wSYT8kewNLRy) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [24 \(feat\. Lil Baby\)](https://open.spotify.com/album/5kaQQ0Z6RNMSqCRtM1lGn5) | 3:02 | 2022-01-07 | 2022-11-13 |
 | [25 million](https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:24 | 2022-04-15 | 2022-07-29 |
@@ -142,6 +142,7 @@
 | [Chill Bae](https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake 2](https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0) | 2:18 | 2025-03-18 | 2025-04-19 |
 | [CHOPPA SHOOT THE LOUDEST \(with Chief Keef, feat.Trippie Redd\)](https://open.spotify.com/track/2MyQK6cKu9IAzNXiBm7TD0) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [We Love You Tecca 2](https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS) | 4:01 | 2022-01-21 | 2022-05-24 |
 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 | 2022-09-30 |  |
+| [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 | 2026-05-29 |  |
 | [Circadian Rhythm](https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 2:06 | 2025-03-18 | 2026-02-24 |
 | [Circo Loco](https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:56 | 2022-12-16 | 2022-12-30 |
 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 | 2022-04-15 | 2022-11-14 |

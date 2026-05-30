@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9613,
+  "num_followers": 9620,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAACNfQAPaMbdxf8tJKHiu6vM",
+  "snapshot_id": "aheFgAAAAADor51mJ284QKGFXHL1d8+c",
   "tracks": [
     {
       "added_at": null,
@@ -99,26 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUNKIN' BEAUTIFUL",
-        "url": "https://open.spotify.com/album/4OqsSf5LaAoo0Mf4ok5I7s"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "ZORN",
-          "url": "https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C"
-        }
-      ],
-      "duration_ms": 231366,
-      "name": "FUNKIN' BEAUTIFUL",
-      "url": "https://open.spotify.com/track/5tlHEKA4Y4LB1PksqqrwhK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u9ec4\u91d1\u306e\u5f7c\u65b9 - Golden Horizon",
         "url": "https://open.spotify.com/album/74F9XqQ4eSg3zdu4O9dvKu"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 174738,
       "name": "\u9ec4\u91d1\u306e\u5f7c\u65b9 - Golden Horizon",
       "url": "https://open.spotify.com/track/4FB6P63qFpPPnZN9fVw7F8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUNKIN' BEAUTIFUL",
+        "url": "https://open.spotify.com/album/4OqsSf5LaAoo0Mf4ok5I7s"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "ZORN",
+          "url": "https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C"
+        }
+      ],
+      "duration_ms": 231366,
+      "name": "FUNKIN' BEAUTIFUL",
+      "url": "https://open.spotify.com/track/5tlHEKA4Y4LB1PksqqrwhK"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Temptations",
-        "url": "https://open.spotify.com/album/6vR3bL2HLIKKWpukolyqbM"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "Temptations",
-      "url": "https://open.spotify.com/track/2HyCSbrfRjy0smkJMol7Oy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEON",
         "url": "https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 310133,
       "name": "NEON",
       "url": "https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Temptations",
+        "url": "https://open.spotify.com/album/6vR3bL2HLIKKWpukolyqbM"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Temptations",
+      "url": "https://open.spotify.com/track/2HyCSbrfRjy0smkJMol7Oy"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Dance You, Matilda",
-      "url": "https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VIVA LA MUSICA",
         "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 191966,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/2EmBdXIg3R7pWTTaA0g2RH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Dance You, Matilda",
+      "url": "https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Tomorrow (Give It Up)",
-        "url": "https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 266406,
-      "name": "No Tomorrow (Give It Up)",
-      "url": "https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOST IN PARADISE",
         "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 347706,
       "name": "FAITH",
       "url": "https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Tomorrow (Give It Up)",
+        "url": "https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 266406,
+      "name": "No Tomorrow (Give It Up)",
+      "url": "https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
-        }
-      ],
-      "duration_ms": 289300,
-      "name": "FOUND BLUE",
-      "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MY LIFE. MY DESTINY",
         "url": "https://open.spotify.com/album/3sOmp9cI7NafWSHkFNUs4b"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 239600,
       "name": "MY LIFE. MY DESTINY",
       "url": "https://open.spotify.com/track/2O0918C9OEIB5uxg0RwdPd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Takuya Kuroda",
+          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
+        }
+      ],
+      "duration_ms": 289300,
+      "name": "FOUND BLUE",
+      "url": "https://open.spotify.com/track/3a75OF0QEnrn8LqWXWpC67"
     },
     {
       "added_at": null,

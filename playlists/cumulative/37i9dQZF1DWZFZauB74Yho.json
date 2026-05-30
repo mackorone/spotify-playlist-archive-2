@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The latest releases from bluegrass and string bands alike. Cover: Old Crow Medicine Show ",
+  "description": "The latest releases from bluegrass and string bands alike. Cover: Steep Canyon Rangers",
   "name": "New Grass",
   "tracks": [
     {
@@ -388,6 +388,24 @@
       "duration_ms": 197706,
       "name": "Baby I Just Do",
       "url": "https://open.spotify.com/track/56ktHoJih7TlM2VO9ZL67J"
+    },
+    {
+      "album": {
+        "name": "Next Act",
+        "url": "https://open.spotify.com/album/6E9EBnKClbismj9Rcfj2Xl"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215300,
+      "name": "Back of Beyond",
+      "url": "https://open.spotify.com/track/1qhW5qKe3hE4EfUBe90Cr1"
     },
     {
       "album": {
@@ -3302,7 +3320,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 205226,
       "name": "Guitar Song",
       "url": "https://open.spotify.com/track/58tEwrUnHKPXRotN8sYeQn"
@@ -3426,7 +3444,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 256042,
       "name": "Hear My Call",
       "url": "https://open.spotify.com/track/6uxA4ufK4rA2zhJxhnbtwc"
@@ -3488,7 +3506,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 209493,
       "name": "Heart's the Only Compass",
       "url": "https://open.spotify.com/track/0LZ8bMSHptpRE2JVuxfgLH"
@@ -5453,6 +5471,24 @@
     },
     {
       "album": {
+        "name": "Made Of Dust",
+        "url": "https://open.spotify.com/album/4onio1rECGWG9R3lJCazI3"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Atticus",
+          "url": "https://open.spotify.com/artist/1XWJCGMAlVXkarYONgIw7g"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Made Of Dust",
+      "url": "https://open.spotify.com/track/06m5bkQrI1N6pl8NXRY3XD"
+    },
+    {
+      "album": {
         "name": "The Katabatic EP",
         "url": "https://open.spotify.com/album/431zFq18cG3uXGu1VUGP8K"
       },
@@ -5832,6 +5868,24 @@
       "duration_ms": 152653,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/0I0IhCuV0b2mQVHxTbC9zm"
+    },
+    {
+      "album": {
+        "name": "Throwdown Thursday",
+        "url": "https://open.spotify.com/album/4RKzbVEXw73lUo1bVD9btx"
+      },
+      "artists": [
+        {
+          "name": "Throwdown Thursday",
+          "url": "https://open.spotify.com/artist/4F3Z2ubXsHmPpmk24ueTMr"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202746,
+      "name": "My Love Will Not Change",
+      "url": "https://open.spotify.com/track/6Oht8f4gTgstne9bXTMkiW"
     },
     {
       "album": {
@@ -6412,7 +6466,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 189629,
       "name": "Out Run 'Em",
       "url": "https://open.spotify.com/track/3EMiSPQXljOEKxwbThRxLy"
@@ -8669,6 +8723,24 @@
     },
     {
       "album": {
+        "name": "The Power and Glory",
+        "url": "https://open.spotify.com/album/2Cofzz1PTblR8dBOSK5BKJ"
+      },
+      "artists": [
+        {
+          "name": "The Kody Norris Show",
+          "url": "https://open.spotify.com/artist/0l64ISwwNK0l6H3R1bwRha"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136714,
+      "name": "The Power and Glory",
+      "url": "https://open.spotify.com/track/3YA5Bym6aBIwIbVpyM0wTJ"
+    },
+    {
+      "album": {
         "name": "The Real You",
         "url": "https://open.spotify.com/album/6rM0gruotLpOmw11fLmhUt"
       },
@@ -8840,6 +8912,24 @@
       "duration_ms": 177000,
       "name": "There Where the River Rolls Around",
       "url": "https://open.spotify.com/track/6ixvHkr0Lol7KxYH57u2mm"
+    },
+    {
+      "album": {
+        "name": "They Just Don't Make the Blues Like They Used To",
+        "url": "https://open.spotify.com/album/7GLQDgguhNXR9tBweRFhS7"
+      },
+      "artists": [
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209859,
+      "name": "They Just Don't Make the Blues Like They Used To",
+      "url": "https://open.spotify.com/track/6kVhQmwYfgXBWEZtmwPG7N"
     },
     {
       "album": {
@@ -9554,7 +9644,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188431,
       "name": "Waterbound",
       "url": "https://open.spotify.com/track/1QUPjYYu6QLTO85NYzoiSf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248 likes - 129 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 249 likes - 129 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 85 | [Too Much Of A Good Thing](https://open.spotify.com/track/1j1hE1uyIWcEMLSvMNPBss) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:14 |
 | 86 | [Like Her](https://open.spotify.com/track/4LqwSyXww9XrEG6cN6w6V1) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Unlocked](https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC) | 3:22 |
 | 87 | [You Are To Me](https://open.spotify.com/track/3y4OfQMZOrGutkuuVPtBu6) | [Pryor Baird](https://open.spotify.com/artist/4vSCJNeLjX3H9utec8uO58) | [You Are To Me](https://open.spotify.com/album/1IsHAQU91h1cYPJZrt0o3e) | 3:52 |
-| 88 | [Way of Life](https://open.spotify.com/track/2Pnl04NKw9jNodRsc9fsCD) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Way of Life](https://open.spotify.com/album/4tXZtaTZOPe6RgM3jOeZmP) | 3:05 |
-| 89 | [Try](https://open.spotify.com/track/2u9lTgGrauHdkJq6zXj2WQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:42 |
+| 88 | [Try](https://open.spotify.com/track/2u9lTgGrauHdkJq6zXj2WQ) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Things You Didn't See](https://open.spotify.com/album/1trtLENMUHUZrgKKNKjgty) | 2:42 |
+| 89 | [Way of Life](https://open.spotify.com/track/2Pnl04NKw9jNodRsc9fsCD) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Way of Life](https://open.spotify.com/album/4tXZtaTZOPe6RgM3jOeZmP) | 3:05 |
 | 90 | [Good As Yours](https://open.spotify.com/track/2rShBgDGvdzpuXBleIMi1O) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [I Didn't Come Here To Leave](https://open.spotify.com/album/1OnI72xhWUPmOmUeh6BInY) | 2:34 |
 | 91 | [Girls Like Me](https://open.spotify.com/track/7nGnnHtErve02tHBqMeli5) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/16Oll25MEMHBenyxFSWANh) | 2:51 |
 | 92 | [Show Up](https://open.spotify.com/track/1ENpEBh3B1Sf7sQrhlj58C) | [Rachel Purcell](https://open.spotify.com/artist/5RfPmVZKmCgO1ZI8rGPc6n) | [Show Up](https://open.spotify.com/album/0QnOXwlpdBKPJE5zZXMXri) | 3:02 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 128 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 129 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcSvEgAAAAB+44yvp/mZaHe0Ejm/bBX3`
+Snapshot ID: `AcS0sgAAAAC5jTcPjNdfjgLSWmvXymNX`

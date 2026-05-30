@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Es por Amor",
+        "url": "https://open.spotify.com/album/1pDRoekrP21qQbZBiADn3r"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "Es por Amor",
+      "url": "https://open.spotify.com/track/1thMBeq1EsLSlV5QOtmbgg"
+    },
+    {
+      "album": {
         "name": "escapar de m\u00ed",
         "url": "https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1"
       },
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 233617,
       "name": "I Knew You Were Trouble - Spotify Singles",
       "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"

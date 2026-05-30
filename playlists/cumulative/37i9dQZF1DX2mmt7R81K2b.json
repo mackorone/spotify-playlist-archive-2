@@ -2415,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "Pink Lady",
+        "url": "https://open.spotify.com/album/4ju3UGhD0gklblJdvNyu0y"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134013,
+      "name": "Pink Lady",
+      "url": "https://open.spotify.com/track/1cP2fGslG791XWTwz7Zkic"
+    },
+    {
+      "album": {
         "name": "Gershwin: Porgy & Bess: Oh, I can't sit down (Arr. for 4 Pianos by B. Engeli & S. Wirth)",
         "url": "https://open.spotify.com/album/1wLywKmINws48nUClTMgDQ"
       },

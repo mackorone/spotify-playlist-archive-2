@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34495,
+  "num_followers": 34501,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,26 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
+        "name": "Shades of Chet",
+        "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
+      },
+      "artists": [
+        {
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        }
+      ],
+      "duration_ms": 457360,
+      "name": "You can't go home again",
+      "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
         "name": "Cantare Pieranunzi",
         "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 251109,
       "name": "You Know",
       "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
-        "name": "Shades of Chet",
-        "url": "https://open.spotify.com/album/0AC26eZQKVP2pvcnqEyQFK"
-      },
-      "artists": [
-        {
-          "name": "Enrico Rava",
-          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        }
-      ],
-      "duration_ms": 457360,
-      "name": "You can't go home again",
-      "url": "https://open.spotify.com/track/64OrUDaxPFxPuwKzeUW6vA"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Fidate Correnti",
-        "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
-      },
-      "artists": [
-        {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Vola lontano",
-      "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "Funambola",
         "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 233160,
       "name": "Ziza",
       "url": "https://open.spotify.com/track/6WdTIDGuebUIlkQsWPJZpr"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "Fidate Correnti",
+        "url": "https://open.spotify.com/album/06eBjWR6QE59jLGJuSrcPc"
+      },
+      "artists": [
+        {
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Vola lontano",
+      "url": "https://open.spotify.com/track/7ACPRMQ3iaDUFCSjirM86Q"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -959,6 +959,22 @@
       "duration_ms": 235506,
       "name": "Io Cammino Di Notte Da Sola",
       "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
+        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
+      },
+      "artists": [
+        {
+          "name": "Riz Ortolani",
+          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Appuntamento al mare - Remastered 2022",
+      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
-        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
-      },
-      "artists": [
-        {
-          "name": "Riz Ortolani",
-          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Appuntamento al mare - Remastered 2022",
-      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "La ragazza dalla pelle di luna",
         "url": "https://open.spotify.com/album/2Yy70WbCDfjI4yzfska0Yg"
       },
@@ -1035,8 +1035,8 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
+        "name": "1000 Smiles",
+        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
       },
       "artists": [
         {
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
+      "duration_ms": 132413,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
+        "name": "SANG",
+        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
+      },
+      "artists": [
+        {
+          "name": "Dario Jacque",
+          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "notte brava",
+      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
         "name": "Maison Maravilha",
         "url": "https://open.spotify.com/album/6Q7qzoGfTHFMHMQBoPa7Yj"
       },
@@ -1083,18 +1099,34 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "SANG",
-        "url": "https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH"
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
       },
       "artists": [
         {
-          "name": "Dario Jacque",
-          "url": "https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm"
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
         }
       ],
-      "duration_ms": 151000,
-      "name": "notte brava",
-      "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
+      "duration_ms": 211818,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/7wHCGiTLzd4HDubO0QR5TO"
+      },
+      "artists": [
+        {
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2d2iHAsxyu6c9Ht5ecaIKh"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1119,22 +1151,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "1000 Smiles",
-        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
-      },
-      "artists": [
-        {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "Studio Murena",
         "url": "https://open.spotify.com/album/5gAOUXIOjmeiyqK90I5ya8"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 244000,
       "name": "Long John Silver",
       "url": "https://open.spotify.com/track/0TmQwgmFMt3N8qgdNWofnx"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 211818,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
+        "name": "Contigo Mi Vida",
+        "url": "https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Poso",
+          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "Contigo Mi Vida",
+      "url": "https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
         "name": "Opera prima (Including Ice One Remix)",
         "url": "https://open.spotify.com/album/2p4Mhuh5f6dDJwVxSPhdWf"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 245200,
       "name": "Southern Dub",
       "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
-        "name": "Contigo Mi Vida",
-        "url": "https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1"
-      },
-      "artists": [
-        {
-          "name": "Gabriele Poso",
-          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
-        }
-      ],
-      "duration_ms": 249720,
-      "name": "Contigo Mi Vida",
-      "url": "https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
-        "name": "Meridian",
-        "url": "https://open.spotify.com/album/4Xih1E9StG9RV8UjQ2DDET"
-      },
-      "artists": [
-        {
-          "name": "Daykoda",
-          "url": "https://open.spotify.com/artist/7ileF8v8C9pqci1fqJOkf0"
-        }
-      ],
-      "duration_ms": 150755,
-      "name": "Meridian",
-      "url": "https://open.spotify.com/track/7o8dtA8TSGnOhshs9HPYyV"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
         "name": "Mister Magic",
         "url": "https://open.spotify.com/album/3KazG335xSdg28ntQU1XsJ"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2026-05-21 22:02:54",
       "album": {
+        "name": "Meridian",
+        "url": "https://open.spotify.com/album/4Xih1E9StG9RV8UjQ2DDET"
+      },
+      "artists": [
+        {
+          "name": "Daykoda",
+          "url": "https://open.spotify.com/artist/7ileF8v8C9pqci1fqJOkf0"
+        }
+      ],
+      "duration_ms": 150755,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/7o8dtA8TSGnOhshs9HPYyV"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
         "name": "Le mie donne",
         "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
       },
@@ -1683,6 +1683,22 @@
       "duration_ms": 236881,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah"
+    },
+    {
+      "added_at": "2026-05-21 22:02:54",
+      "album": {
+        "name": "Alchimia",
+        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
+      },
+      "artists": [
+        {
+          "name": "AIN\u00c9",
+          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
     },
     {
       "added_at": "2026-05-21 22:02:54",
@@ -1707,22 +1723,6 @@
       "duration_ms": 194638,
       "name": "Inizi\u00f2",
       "url": "https://open.spotify.com/track/6zb4oLpJ6qngKWpNv9GxWG"
-    },
-    {
-      "added_at": "2026-05-21 22:02:54",
-      "album": {
-        "name": "Alchimia",
-        "url": "https://open.spotify.com/album/4bfZxJcBhT7jT7ATaZn1po"
-      },
-      "artists": [
-        {
-          "name": "AIN\u00c9",
-          "url": "https://open.spotify.com/artist/6XLKAr0x6aB0V3aAaqAS9h"
-        }
-      ],
-      "duration_ms": 225875,
-      "name": "Hangover",
-      "url": "https://open.spotify.com/track/4BUOv7mgtR1KT4VIaidMlP"
     },
     {
       "added_at": "2026-05-21 22:02:54",

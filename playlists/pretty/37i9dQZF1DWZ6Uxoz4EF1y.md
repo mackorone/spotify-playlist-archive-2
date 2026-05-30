@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,512 likes - 100 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,498 likes - 100 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 39 | [Tu Presencia Es El Cielo \(Your Presence is Heaven To Me\) \(feat\. Israel Houghton\)](https://open.spotify.com/track/0gSscjszQIv1eiJecgzIW9) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Vivo Estás](https://open.spotify.com/album/1cQr278wCe9Vk7k2wpNULc) | 6:32 |
 | 40 | [Gracias](https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Gracias](https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd) | 6:33 |
 | 41 | [Mateo 17](https://open.spotify.com/track/6phOeAec12tnILyQPwNmej) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:25 |
-| 42 | [Eres Tu](https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Si Tu No Estas](https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG) | 6:12 |
-| 43 | [Mi Jesús](https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Mi Jesús](https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx) | 4:20 |
+| 42 | [Mi Jesús](https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Mi Jesús](https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx) | 4:20 |
+| 43 | [Eres Tu](https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Si Tu No Estas](https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG) | 6:12 |
 | 44 | [Nada Guardaste](https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [Nada Guardaste](https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd) | 3:39 |
 | 45 | [No Temas](https://open.spotify.com/track/1WJjXVxrprcrrixUt7kJoC) | [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw), [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [No Temas](https://open.spotify.com/album/5gayNP2PRbA9gq5foXJeBM) | 4:03 |
 | 46 | [Porque Él Vive](https://open.spotify.com/track/7gXW3M4iny57LIpgeGwoY6) | [Rudy Pérez](https://open.spotify.com/artist/4eUxJJBkyYPh8Mdlj2TLlv) | [Porque Él Vive](https://open.spotify.com/album/4xSQ0ZsJO1VezwxplS4Ivn) | 4:19 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 55 | [Santa Cruz](https://open.spotify.com/track/0BI34frslrnpV9sMiCXY7z) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz) | [Triduo](https://open.spotify.com/album/5waVLhuqTWfMtWJU46lmZv) | 2:39 |
 | 56 | [Glorioso Eres Tú](https://open.spotify.com/track/25A92qcO6w5ERUwKqt4UwC) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Esto Es Jesus Culture](https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY) | 4:24 |
 | 57 | [Me Enseñas](https://open.spotify.com/track/3sbidBb8NqRMqWnLyjGULM) | [Carlos Omar](https://open.spotify.com/artist/6h3lF5lLoo8wGMB4C8SaiY) | [Me Enseñas](https://open.spotify.com/album/06AE1ZqiGC2tkxjsGlQqr1) | 4:31 |
-| 58 | [Su Sangre \- Radio Edit](https://open.spotify.com/track/1Gmid3Ba0ZN1Mi18K9wnSU) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um), [Jorge Caicedo](https://open.spotify.com/artist/2AahrkcBJ0W6cUW7zv8Y0P) | [Su Sangre](https://open.spotify.com/album/5fvhJ16FUBEYkhKIcmCzJp) | 5:49 |
-| 59 | [Resucitó](https://open.spotify.com/track/1toBEU2SNmfjMYufSOF2Ym) | [Zero Música](https://open.spotify.com/artist/7e2syyHGfVKZv3DXFXedkM) | [Experiencia Resurrección 2025 \( En Vivo Desde Santa Marta\)](https://open.spotify.com/album/1HnGtdu1TCcPd18hZ2QPeK) | 6:16 |
+| 58 | [Resucitó](https://open.spotify.com/track/1toBEU2SNmfjMYufSOF2Ym) | [Zero Música](https://open.spotify.com/artist/7e2syyHGfVKZv3DXFXedkM) | [Experiencia Resurrección 2025 \( En Vivo Desde Santa Marta\)](https://open.spotify.com/album/1HnGtdu1TCcPd18hZ2QPeK) | 6:16 |
+| 59 | [Su Sangre \- Radio Edit](https://open.spotify.com/track/1Gmid3Ba0ZN1Mi18K9wnSU) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um), [Jorge Caicedo](https://open.spotify.com/artist/2AahrkcBJ0W6cUW7zv8Y0P) | [Su Sangre](https://open.spotify.com/album/5fvhJ16FUBEYkhKIcmCzJp) | 5:49 |
 | 60 | [Alegre](https://open.spotify.com/track/3XsU69qdOCd5KCc3TrmzHT) | [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe) | [Alegre](https://open.spotify.com/album/0I2MOp31kLaLwpermDclkX) | 2:49 |
 | 61 | [Fue por Mí](https://open.spotify.com/track/3xwknbtAM3zGiFgrzYwTjj) | [Xiomara Henao](https://open.spotify.com/artist/3LvHWTcbbQBhD5rGqIfv7f) | [Fue por Mí](https://open.spotify.com/album/6NvTZyF4yYkVRareVc86Oy) | 3:54 |
 | 62 | [Redención](https://open.spotify.com/track/4e79KvvwvzThUpiWsrBK9S) | [Omi Rodriguez](https://open.spotify.com/artist/4mawCronnbQ9gbnf1oEyZR) | [Redención](https://open.spotify.com/album/611GELGy0l0KlU2LOlr7lc) | 5:10 |

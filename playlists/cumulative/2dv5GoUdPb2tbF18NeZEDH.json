@@ -1255,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+    },
+    {
+      "album": {
         "name": "Andr\u00e0 Come Andr\u00e0",
         "url": "https://open.spotify.com/album/1aTNdKBQsvsBmIzSiiNrOD"
       },
@@ -1396,6 +1414,24 @@
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/5vdp5UmvTsnMEMESIF2Ym7"
+    },
+    {
+      "album": {
+        "name": "Mud Blood Bone",
+        "url": "https://open.spotify.com/album/6eT5qu4VM8hXFm2uJ1JiQU"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219725,
+      "name": "Another Time",
+      "url": "https://open.spotify.com/track/1vAWy6PHVCfjtKNm27TSI7"
     },
     {
       "album": {
@@ -5143,6 +5179,24 @@
     },
     {
       "album": {
+        "name": "Give Yourself to Love (Live)",
+        "url": "https://open.spotify.com/album/3rD2NrOWuNUd9b1ozWQ76x"
+      },
+      "artists": [
+        {
+          "name": "Kate Wolf",
+          "url": "https://open.spotify.com/artist/0WisBVzWAcOpZtdUf23TiC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169293,
+      "name": "Desert Wind - Live",
+      "url": "https://open.spotify.com/track/1RGx8PETgtBfh3KN9eSM9k"
+    },
+    {
+      "album": {
         "name": "Deserti",
         "url": "https://open.spotify.com/album/7Jxhcx5zj9DudVFH9Aj1c4"
       },
@@ -8593,6 +8647,24 @@
     },
     {
       "album": {
+        "name": "My Home Is Not In This World",
+        "url": "https://open.spotify.com/album/3ioKmigfvYnT6nKa3SpNpe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Bergman",
+          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207254,
+      "name": "Gunslinger",
+      "url": "https://open.spotify.com/track/1Is6GwdWFuEXCbzkoEatb4"
+    },
+    {
+      "album": {
         "name": "Habitaci\u00f3n 3-012",
         "url": "https://open.spotify.com/album/4O5xubk7Itmv2RmLDcCVQn"
       },
@@ -8718,6 +8790,24 @@
       "duration_ms": 206315,
       "name": "He Doesn't Love You",
       "url": "https://open.spotify.com/track/4PJ52Ciz4hnU8b4QuN9Bfz"
+    },
+    {
+      "album": {
+        "name": "You Don't Own Me Anymore",
+        "url": "https://open.spotify.com/album/7BhjOA08mb0ui3Kw7iDIxY"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223400,
+      "name": "He's Fine",
+      "url": "https://open.spotify.com/track/5sou92yX82KNizKCdOWJDw"
     },
     {
       "album": {
@@ -8996,6 +9086,44 @@
       "duration_ms": 170202,
       "name": "Highway",
       "url": "https://open.spotify.com/track/0N6o7WTDcs4XjCvrA61TZF"
+    },
+    {
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212480,
+      "name": "Highwomen",
+      "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
     },
     {
       "album": {
@@ -12084,6 +12212,24 @@
       "duration_ms": 262030,
       "name": "Little Holograph Thoughts",
       "url": "https://open.spotify.com/track/0WdJdEOztTdwd8BVK5hA2J"
+    },
+    {
+      "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209748,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ"
     },
     {
       "album": {
@@ -24927,6 +25073,24 @@
     },
     {
       "album": {
+        "name": "Long Time Coming",
+        "url": "https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217586,
+      "name": "Why\u2019d Ya Do It",
+      "url": "https://open.spotify.com/track/1ICWvOqM1GND92d3XWiNo5"
+    },
+    {
+      "album": {
         "name": "Glen Campbell - The Capitol Years 1965 - 1977",
         "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
       },
@@ -24960,6 +25124,24 @@
       "duration_ms": 163600,
       "name": "Wilna (Rock)",
       "url": "https://open.spotify.com/track/1vSiiuoitqB5kfbq6JSYq5"
+    },
+    {
+      "album": {
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/2YgkSjAcI8lIJXiRt7BqiD"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/5whapFlXtB97RZg4CldtWB"
     },
     {
       "album": {
@@ -25142,6 +25324,24 @@
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
+    },
+    {
+      "album": {
+        "name": "Years",
+        "url": "https://open.spotify.com/album/0zExLXpM3bk85MlCLjrvZs"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179012,
+      "name": "Years",
+      "url": "https://open.spotify.com/track/29mTi7k11emagueZvOaXgS"
     },
     {
       "album": {

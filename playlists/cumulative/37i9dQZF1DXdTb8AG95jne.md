@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Balming Tiger\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 안예은 \(Ahn Ye Eun\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,349 songs - 3 day 9 hr 43 min
+1,351 songs - 3 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [apocalyptic serenade](https://open.spotify.com/track/11MEiPi0ktNXIFctbcYNar) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [deadpaints](https://open.spotify.com/artist/6J9uyUQkWxDxvfNiwdwYhh) | [apocalyptic serenade](https://open.spotify.com/album/0LozFO673nlo2eaRgSrr9B) | 4:28 | 2025-05-13 | 2025-05-23 |
 | [Around](https://open.spotify.com/track/0WGDTNPUH5ywFcatKn4DUo) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Around](https://open.spotify.com/album/6tICS1jK7fDG4e2Mmlcsw3) | 4:49 | 2022-04-12 | 2022-07-23 |
 | [As I Am](https://open.spotify.com/track/6n4R95MRGR3FmzxFtF89fm) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [As I Am](https://open.spotify.com/album/1YUP8BmPqjVWiS54AztFXi) | 3:54 | 2024-08-29 | 2024-09-04 |
+| [As is](https://open.spotify.com/track/1sT0vbLIJRnOIJU6gKAKDa) | [Jenny Choi](https://open.spotify.com/artist/2rtmI0H2LRnKU9Et5bl20L) | [Breathing Methods](https://open.spotify.com/album/43mZmhTsB9gmskv8k3q0Ml) | 3:46 | 2026-05-29 |  |
 | [Ashes](https://open.spotify.com/track/51ttgzyQ0SKKlC92bFK58v) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:56 | 2024-06-19 | 2024-07-02 |
 | [Asphalt](https://open.spotify.com/track/4QlN9AltbOXYUzuzTBkTWf) | [Mulsoo](https://open.spotify.com/artist/0Aq1PfguCBKu8zpQXobNJ5) | [Asphalt](https://open.spotify.com/album/2DJmpTc5osfVhqoTcLZJZn) | 3:16 | 2025-07-23 | 2025-08-01 |
 | [Aspirin Overdose](https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 4:11 | 2022-12-13 | 2022-12-30 |
@@ -252,6 +253,7 @@
 | [Default \- Live](https://open.spotify.com/track/6zQgyAyvIbuviFwQ2ak7WA) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [5202 \(Live\)](https://open.spotify.com/album/00dsUH5JoDdSbetvqcnnR7) | 4:15 | 2025-10-30 | 2025-12-09 |
 | [Defense Mechanism](https://open.spotify.com/track/0TX0PqzoSN5OSCeX0odaH7) | [heegyu](https://open.spotify.com/artist/7F4ElN9gP2tuyqZ2YIhicX) | [Defense Mechanism](https://open.spotify.com/album/1HJHfO6IO7vLjpO57Ty18b) | 2:53 | 2026-02-04 | 2026-04-10 |
 | [Dennis The Menace](https://open.spotify.com/track/12hdnizN9QCVB9WGIjCiAa) | [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Dennis The Menace](https://open.spotify.com/album/6PntXgsqWeJ8dINYWCAyGM) | 2:51 | 2024-09-04 | 2024-09-19 |
+| [DENY](https://open.spotify.com/track/469KVmto2MTpWFoJ7MGEaN) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [I don't think it's THAT bad](https://open.spotify.com/album/3ioXJFtha5tHn3O0Y8MCDc) | 3:02 | 2026-05-29 |  |
 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-16 | 2024-11-07 |
 | [devil](https://open.spotify.com/track/7sgTVyyE6mGklZaX3oiX7C) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [devil](https://open.spotify.com/album/1rJQScegG3PRYR8i9yTXyd) | 1:43 | 2024-08-08 | 2024-09-04 |
 | [Dew](https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y) | [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js), [DASU](https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b) | [Dew](https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo) | 3:20 | 2023-01-10 | 2023-01-26 |
@@ -415,7 +417,7 @@
 | [Girl Scout](https://open.spotify.com/track/3S4u5vm5ThxB68vevwDDMH) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR) | 3:57 | 2021-12-21 | 2022-07-06 |
 | [Girl to a Bride](https://open.spotify.com/track/77oYxuIZpbKKRQC2DUtwkt) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [XOXO: Your Wedding Song](https://open.spotify.com/album/1VQ38HctrDL20BpOUHvf0y) | 3:26 | 2022-05-11 | 2022-06-09 |
 | [Girls](https://open.spotify.com/track/6lEc9x1r1AOxH5gltRUuLX) | [Naked Tapes](https://open.spotify.com/artist/0oivAG6IziMRhcAASDbP7p) | [Naked Tapes](https://open.spotify.com/album/1rY30zLb2loNmK4VpzouEY) | 3:11 | 2025-10-23 | 2026-01-27 |
-| [Give me a Sin](https://open.spotify.com/track/1Z7ppeuMBD3yZwSKfl0c1I) | [나잠 수](https://open.spotify.com/artist/4BbJ7qarnJ3e5fgkZjD9Vf), [MOONSUN](https://open.spotify.com/artist/2i3uapmahaLJ4e2E9UkrV4) | [The Adventure Story of Nahzam and SSun](https://open.spotify.com/album/0ayKvVIM2rUFc1HIM2xn4g) | 3:19 | 2026-03-31 |  |
+| [Give me a Sin](https://open.spotify.com/track/1Z7ppeuMBD3yZwSKfl0c1I) | [나잠 수](https://open.spotify.com/artist/4BbJ7qarnJ3e5fgkZjD9Vf), [MOONSUN](https://open.spotify.com/artist/2i3uapmahaLJ4e2E9UkrV4) | [The Adventure Story of Nahzam and SSun](https://open.spotify.com/album/0ayKvVIM2rUFc1HIM2xn4g) | 3:19 | 2026-03-31 | 2026-05-30 |
 | [Glass](https://open.spotify.com/track/6BDq5XtSslhP4at0eQwgOu) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [Glass](https://open.spotify.com/album/4rbNo5Zm3TLpKKZ4CawxLJ) | 3:56 | 2023-02-28 | 2023-03-28 |
 | [Gloomy melody](https://open.spotify.com/track/15iuJrhlEUDBjmeOyQsUTC) | [Wine Loop](https://open.spotify.com/artist/4z2d0OklqGzcncmNereISj) | [Gloomy melody](https://open.spotify.com/album/5Ir0Ou7xH6smsOdvdelFYo) | 2:38 | 2024-04-30 | 2024-05-10 |
 | [glow](https://open.spotify.com/track/5mZo3Q91x343f30VaNGN5q) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [glow](https://open.spotify.com/album/4lVFscTohMpTPU2DLT0gyo) | 2:58 | 2025-06-23 | 2025-07-05 |
@@ -426,7 +428,7 @@
 | [Go Forth and Learn to Live](https://open.spotify.com/track/7Ey9y01U53bXiFehGn8Bik) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [Go Forth and Learn to Live](https://open.spotify.com/album/6ujhOlJpOuKsRNeiUG8AX8) | 4:03 | 2025-10-30 | 2025-12-03 |
 | [Go with the flow](https://open.spotify.com/track/5jUdSZQOgU1olKinXBb8eC) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 3:32 | 2022-03-09 | 2022-07-19 |
 | [God of Mud](https://open.spotify.com/track/5atGm2Ek2QCsfasyebyOfD) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [God of Mud](https://open.spotify.com/album/3xXfOKW5ZALtrTSdUIzoJ7) | 4:03 | 2025-02-06 | 2025-03-29 |
-| [Godspeed](https://open.spotify.com/track/7BoDS7yidANiu8l7RSX4f2) | [Far East Asian Tigers](https://open.spotify.com/artist/6GUWxio3LfJjV8DyH6RXEM) | [Godspeed](https://open.spotify.com/album/43og6RV6u8MLwcdDbkgtjC) | 4:14 | 2026-03-30 |  |
+| [Godspeed](https://open.spotify.com/track/7BoDS7yidANiu8l7RSX4f2) | [Far East Asian Tigers](https://open.spotify.com/artist/6GUWxio3LfJjV8DyH6RXEM) | [Godspeed](https://open.spotify.com/album/43og6RV6u8MLwcdDbkgtjC) | 4:14 | 2026-03-30 | 2026-05-30 |
 | [Golden Time !](https://open.spotify.com/track/68cZDWKZ2tShwZDcZxE6sF) | [ahreum](https://open.spotify.com/artist/59ARBW6DM7f37HN93uOjQy) | [Golden Time !](https://open.spotify.com/album/6k102m55xMi1OheH96tfRY) | 2:53 | 2024-04-30 | 2024-05-10 |
 | [GOM](https://open.spotify.com/track/6vwYtXrVDgYHsAfqbpqt44) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [GOM](https://open.spotify.com/album/1909JtfyOew0GsMkRxl8x1) | 3:47 | 2026-03-20 | 2026-04-28 |
 | [GONE](https://open.spotify.com/track/1txuHFV1QW1LObbNVmhafD) | [Soo Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [GONE](https://open.spotify.com/album/5O7WABbH4NYJhOrfahuNap) | 3:38 | 2025-08-07 | 2025-09-16 |

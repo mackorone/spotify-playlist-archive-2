@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "De Enige",
+        "url": "https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "De Enige",
+      "url": "https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk"
+    },
+    {
+      "album": {
         "name": "De Liefde",
         "url": "https://open.spotify.com/album/61mnvmeJ8RTpN5bXDq6AXy"
       },

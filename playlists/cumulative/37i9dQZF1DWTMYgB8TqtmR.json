@@ -6104,7 +6104,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 165057,
       "name": "Feelin' Myself",
       "url": "https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ"
@@ -7700,6 +7700,24 @@
       "duration_ms": 172468,
       "name": "Hardcore",
       "url": "https://open.spotify.com/track/2aRdlM9PMCRcUrM5DruLZv"
+    },
+    {
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "album": {

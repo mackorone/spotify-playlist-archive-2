@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-615 songs - 1 day 2 hr 1 min
+619 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Al Final Del Camino](https://open.spotify.com/track/0rtEFDsmOs9sZYZ6wEZ8Al) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Al Final Del Camino](https://open.spotify.com/album/3DFKaYFInRa8c8afBeefYv) | 1:54 | 2022-11-25 | 2023-09-14 |
 | [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-12 | 2023-09-14 |
 | [All Because I Found You](https://open.spotify.com/track/7nMYvgw89GfmCixfIopY3J) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [All Because I Found You](https://open.spotify.com/album/1bAwPcodbxhx19GvgzYSsX) | 3:11 | 2023-04-28 | 2023-06-23 |
+| [All For You](https://open.spotify.com/track/10OUbLj4inL5Y5mfqQC1Mb) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [All For You](https://open.spotify.com/album/2SwqfyY10feJTaYWu43Zqi) | 2:17 | 2026-05-29 |  |
 | [Along rusty rails](https://open.spotify.com/track/5xgTVeCBbRQ2rHl33azMw2) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Along rusty rails](https://open.spotify.com/album/60chGCUrcfMTQD2WxZsqyC) | 2:10 | 2024-07-29 |  |
 | [Altai](https://open.spotify.com/track/5xnMxcqVARosZ7Uwr4D04M) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Altai](https://open.spotify.com/album/2nrYZcCUiavKgeH2f07zlz) | 2:59 | 2023-09-29 | 2025-07-09 |
 | [Always With You](https://open.spotify.com/track/5ItGFvCvkLI4wm2dXycCCs) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Always With You](https://open.spotify.com/album/5T3Ix0PNlLeAhemjXwjBH9) | 2:27 | 2023-08-10 |  |
@@ -198,6 +199,7 @@
 | [Fragile](https://open.spotify.com/track/2DjZfJBMQxI5tnoC6l1CVc) | [Vincenzo Adelini](https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v) | [Fragile](https://open.spotify.com/album/1JAZhzpYAxIExPSV8jvHE6) | 2:49 | 2022-06-17 | 2022-07-29 |
 | [Fragile Dreams](https://open.spotify.com/track/1S1RTPziNCXpzq2ULuoeKG) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Fragile Dreams](https://open.spotify.com/album/0FHxZlAQQHtoyQrMPgRedP) | 2:01 | 2022-06-17 | 2023-10-13 |
 | [Frelsien](https://open.spotify.com/track/3FyCPb0sXgPpBnsvIosqAZ) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Frelsien](https://open.spotify.com/album/2xX3upugD201f0C2N2AsPr) | 2:10 | 2023-06-09 |  |
+| [Friend](https://open.spotify.com/track/4KcIyORNS8MEidqfAhpufz) | [Eric Nilson](https://open.spotify.com/artist/308tHLn6CKYz3k6w5zTxFd) | [Friend](https://open.spotify.com/album/2HtPVWcvHWH9u8pGCD3094) | 2:18 | 2026-05-29 |  |
 | [From me to you](https://open.spotify.com/track/1T0Knq3JKfOdEQVQboEWWM) | [Elvin Mercher](https://open.spotify.com/artist/5GVmxZZpLOj3mPeqMmNoFv) | [From me to you](https://open.spotify.com/album/1dMuiLPoMq3CJuKgFrKc7p) | 2:42 | 2025-09-12 |  |
 | [From me to you](https://open.spotify.com/track/4P4dWU1fWY0Ub6HjVawTie) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [From me to you](https://open.spotify.com/album/2lKWukwSmwoxCNAFHZSVTK) | 2:51 | 2024-09-03 |  |
 | [Fáilte](https://open.spotify.com/track/7g4jqCEvQZGdRKemCNdOxm) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Fáilte](https://open.spotify.com/album/1Whcn3o7IpIoJtQXEBq6TZ) | 1:44 | 2023-02-24 | 2023-06-23 |
@@ -272,6 +274,7 @@
 | [La Largo](https://open.spotify.com/track/3olW01y6J6xJK9bORKX2lN) | [Raphael de Santiago](https://open.spotify.com/artist/7swmr8PxBMfAXdEoDFzmpY) | [La Largo](https://open.spotify.com/album/0NpneUFE5gYog3A8QUfwsr) | 2:04 | 2023-02-24 | 2023-06-23 |
 | [La Mestis](https://open.spotify.com/track/0blt7mXlKmi52DXcYUKiQL) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [La Mestis](https://open.spotify.com/album/0VPJYGbYJsCCMvWujKVoj7) | 2:00 | 2022-06-17 | 2024-04-05 |
 | [La Sete D'Amore](https://open.spotify.com/track/4wLcJj4nrjiYGn3iRaDAmq) | [Elmer Soulé](https://open.spotify.com/artist/4lpow0wYafRp1sMMyCbOe2) | [La Sete D'Amore](https://open.spotify.com/album/3n5FEuPpGPkDhnG4jWJb8V) | 1:34 | 2022-06-17 | 2023-09-14 |
+| [La Strada Dell'amore](https://open.spotify.com/track/0iDNOaVC9U1fjFSh3UXq3e) | [Albert Wenmo](https://open.spotify.com/artist/3oRcts32YJGp3vx0U7ZyKf) | [La Strada Dell'amore](https://open.spotify.com/album/41kCwLAB68InGmnpWpoVgd) | 2:05 | 2026-05-29 |  |
 | [La Venue](https://open.spotify.com/track/17Z6iT4BizcR7BnqqBrzTi) | [Marina Portier](https://open.spotify.com/artist/5eY2S3YgZLBtyyEBgP9m7z) | [La Venue](https://open.spotify.com/album/0eGdnNpMq1wzNMtLICDSHZ) | 1:48 | 2023-05-19 | 2023-09-08 |
 | [Labyrinth](https://open.spotify.com/track/6D1rwuCaxBMaKNkRCKYkdN) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Labyrinth](https://open.spotify.com/album/1SDeeKR6wSSuPlqvTPAigX) | 2:12 | 2025-01-07 | 2025-06-17 |
 | [Lacrime](https://open.spotify.com/track/4kkylod0jvQnK7Ognj9OUP) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Lacrime](https://open.spotify.com/album/0xh6Z1tnwWL1H79Lapk4AG) | 1:51 | 2023-05-19 | 2023-09-14 |
@@ -540,6 +543,7 @@
 | [The Lights](https://open.spotify.com/track/2CIpfBZeHsuouUwJWUEsod) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [The Lights](https://open.spotify.com/album/7pnNgMZyKEPjGbJlQJ6LI1) | 1:46 | 2023-04-28 | 2023-06-23 |
 | [The Lowest Point](https://open.spotify.com/track/2gtT9F0c1DDaz0W3vr2hRv) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [The Lowest Point](https://open.spotify.com/album/5Wf8oYxZ6nrVDBmDM6Hj6t) | 2:31 | 2024-12-10 |  |
 | [The Meadow Stirs](https://open.spotify.com/track/7cVR6AMaMaUFuWFGvAsjDv) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [The Meadow Stirs](https://open.spotify.com/album/13MZr3OrJgQnMcukseUfSL) | 2:41 | 2025-05-28 |  |
+| [The Midnight Oil](https://open.spotify.com/track/5CAWxpUqibj7afx1wEOk40) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [The Midnight Oil](https://open.spotify.com/album/0lqmnpZkLOLirEruzyZVGV) | 2:26 | 2026-05-29 |  |
 | [The Opera House](https://open.spotify.com/track/3dhrGAxAN0i37d64p4bCm1) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [The Opera House](https://open.spotify.com/album/3LqVjTRi1yMlpNsjYEBPMG) | 3:00 | 2023-06-22 | 2024-05-10 |
 | [The Rain Comes](https://open.spotify.com/track/5zpgmMQ46DVTr97ZwFDcAG) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [The Rain Comes](https://open.spotify.com/album/6R7wD5TChs18vFNeX4jzin) | 2:40 | 2025-09-12 |  |
 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-06-17 | 2023-08-18 |

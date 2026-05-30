@@ -2,9 +2,9 @@
 
 ### [Pop Covers](https://open.spotify.com/playlist/37i9dQZF1DX2i24iHGhL24)
 
-> Reimagined pop covers of your favorite songs\.  Cover: Teddy Swims
+> Reimagined pop covers of your favorite songs\.  Cover: Mikayla Geier
 
-470 songs - 1 day 3 hr 0 min
+472 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Can't Feel My Face](https://open.spotify.com/track/6dLJcxHBJvift9UIKwMy55) | [Ember Island](https://open.spotify.com/artist/1I5eQkzyM8jCVZIM3k2bKL) | [Can't Feel My Face](https://open.spotify.com/album/0Olhook3bctGZesshPROlZ) | 2:32 | 2021-12-24 | 2022-04-16 |
 | [Can't Feel My Face](https://open.spotify.com/track/4UPZpRotT2V63Ev0vMRSOM) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 3:21 | 2021-12-24 | 2023-10-17 |
 | [Can't Get You Out Of My Head](https://open.spotify.com/track/1oaXPKmEw2VS2ZlYvbSN14) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [Different Hits](https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK) | [Can't Get You Out Of My Head](https://open.spotify.com/album/4dUf9aiNvwqVLQIhjGebto) | 3:29 | 2023-07-28 | 2023-10-17 |
+| [Can't Get You Out of My Head \- Spotify Singles](https://open.spotify.com/track/6j4kyvjM60Te1mU0H2LTwR) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Can't Get You Out of My Head \- Spotify Singles](https://open.spotify.com/album/6ynUBc9yQ4pq7kImTMdOql) | 2:58 | 2026-05-29 |  |
 | [Can't Help Falling in Love](https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Can't Help Falling in Love \(From The Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY) | 2:48 | 2022-06-24 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6lfxq3CG4xtTiEg7opyCyx) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2wMz3oVNS1bMXaEWY6QWmA) | 3:21 | 2022-07-08 | 2022-12-30 |
 | [Can’t Help Falling in Love](https://open.spotify.com/track/7uuEfUMuPeQ7RlSWa0cES2) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Crazy Rich Asians \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/32BVrPjwweOQcHKKpxgE4l) | 3:21 | 2021-12-17 | 2022-07-29 |
@@ -202,6 +203,7 @@
 | [Heather \- Spotify Singles](https://open.spotify.com/track/2GSLoT7abyYGchSSDCpWEI) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify Singles](https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt) | 3:10 | 2021-12-17 |  |
 | [Hello – Spotify Singles](https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Spotify Singles](https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV) | 4:06 | 2022-06-24 |  |
 | [Here](https://open.spotify.com/track/2vYfa73MHzOe0DAsZsr66l) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 3:20 | 2021-12-17 | 2023-10-17 |
+| [Here You Come Again \- From the Prime Original Series Every Year After](https://open.spotify.com/track/27ty6msb6Qqbj4wITtkf8A) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Here You Come Again \(From the Prime Original Series Every Year After\)](https://open.spotify.com/album/4AoTQB7rFy5beg3xFDsY1v) | 3:26 | 2026-05-29 |  |
 | [Heroes](https://open.spotify.com/track/6BSnTXlsNB6I7x9WSJi9y6) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Heroes](https://open.spotify.com/album/2gy5KgckchLwYAEhf10WsZ) | 3:28 | 2021-12-17 | 2023-10-17 |
 | [High](https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [High](https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM) | 3:50 | 2022-04-08 | 2022-12-30 |
 | [High Horse](https://open.spotify.com/track/3gOkRSnm9jzoAQvLPvlvhB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [High Horse](https://open.spotify.com/album/36obb93i3SdFfsWbcbTkqf) | 3:26 | 2021-12-17 | 2022-04-21 |
@@ -328,7 +330,7 @@
 | [Power](https://open.spotify.com/track/2rz9HKwpRSYIPI7K4O8lH5) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Power](https://open.spotify.com/album/4QKS5oUaGj2qNd7wstoCEt) | 3:39 | 2021-12-17 | 2022-05-02 |
 | [Praise You](https://open.spotify.com/track/56dOfIe8TCrSvPBnQduue9) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Praise You](https://open.spotify.com/album/65CxUyETl0Q4A2u6dZtbiA) | 2:49 | 2022-03-25 | 2023-10-17 |
 | [Psycho \- Yours Truly: 2018](https://open.spotify.com/track/4G856Y3xiqpJAg0B1XJNAw) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Psycho \(Yours Truly: 2018\)](https://open.spotify.com/album/6r3iKCgag1XfEarozWc59e) | 3:30 | 2021-12-17 | 2022-05-02 |
-| [Psycho Killer](https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Psycho Killer](https://open.spotify.com/album/12RGnhfKRBzq46QfG3rxOA) | 3:44 | 2024-05-17 |  |
+| [Psycho Killer](https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Psycho Killer](https://open.spotify.com/album/12RGnhfKRBzq46QfG3rxOA) | 3:44 | 2024-05-17 | 2026-05-30 |
 | [Put Your Records On](https://open.spotify.com/track/4Wd48CF1H2DvhpETlcFrbN) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [NOW That's What I Call Music, Vol\. 77](https://open.spotify.com/album/3P2f6BPhDskUbM5hnvzkLQ) | 3:24 | 2022-10-28 | 2022-11-13 |
 | [Put Your Records On](https://open.spotify.com/track/1fah1uAs7HeTYDlNftKr3K) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/48UWtRgO3MWkhUINPy3DjM) | 3:30 | 2021-12-17 |  |
 | [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 | 2022-07-08 | 2024-04-19 |
@@ -440,7 +442,7 @@
 | [Wanted \(Acoustic\)](https://open.spotify.com/track/1KZaVU9QspHnzNT3NgH9Tg) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Carmen Justice](https://open.spotify.com/artist/2JrDkW63FG9GotlYtmuwTs) | [Wanted \(Acoustic\)](https://open.spotify.com/album/48VjpRGLXZxgmmTTMTFowz) | 2:18 | 2021-12-17 | 2022-01-22 |
 | [Watermelon Sugar \(featuring Avenue Beat\)](https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 2:57 | 2021-12-17 | 2024-07-19 |
 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 | 2024-05-17 |  |
-| [we can't be friends \(wait for your love\) \- Spotify Singles](https://open.spotify.com/track/0eMGIcWRTh8mYD9DNPjdo3) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [we can't be friends \(wait for your love\) \- Spotify Singles](https://open.spotify.com/album/7hMUB0og6WfdFk0C1Z2td0) | 4:05 | 2024-05-20 |  |
+| [we can't be friends \(wait for your love\) \- Spotify Singles](https://open.spotify.com/track/0eMGIcWRTh8mYD9DNPjdo3) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [we can't be friends \(wait for your love\) \- Spotify Singles](https://open.spotify.com/album/7hMUB0og6WfdFk0C1Z2td0) | 4:05 | 2024-05-20 | 2026-05-30 |
 | [We Can't Stop](https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:42 | 2021-12-17 | 2022-10-29 |
 | [We Can't Stop \(feat\. Bea Miller\)](https://open.spotify.com/track/2PVU8zHILp6jK4Q7W6rkz8) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Collaborations, Vol\. 2](https://open.spotify.com/album/7b6ysbFfaxitbyERtugMcy) | 3:42 | 2021-12-31 | 2022-01-04 |
 | [What's Going On](https://open.spotify.com/track/2sXcrizjiV2OEodm3UmzDf) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [A Blue State](https://open.spotify.com/album/4JQiKpCWF4NXY9dVEnXvzA) | 2:49 | 2021-12-17 | 2023-10-17 |

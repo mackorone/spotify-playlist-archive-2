@@ -1,6 +1,6 @@
 {
   "description": "\u00bfA vuelta de rueda? Con esta playlist el camino ser\u00e1 m\u00e1s ligero. ",
-  "num_followers": 440103,
+  "num_followers": 440330,
   "original_name": "Pa'l Tr\u00e1fico",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2025-02-21 06:00:14",
       "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "DILUVIO",
+      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
+    },
+    {
+      "added_at": "2025-02-21 06:00:14",
+      "album": {
         "name": "un x100to",
         "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
-    },
-    {
-      "added_at": "2025-02-21 06:00:14",
-      "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "DILUVIO",
-      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
     },
     {
       "added_at": "2025-02-21 06:00:14",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-02-21 06:00:14",
       "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2025-02-21 06:00:14",
+      "album": {
         "name": "Si No Quieres No",
         "url": "https://open.spotify.com/album/6WkOBnYkj6y5iSr14uhUZF"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 147011,
       "name": "Si No Quieres No",
       "url": "https://open.spotify.com/track/1C84d9abZVKWHT2YYpoean"
-    },
-    {
-      "added_at": "2025-02-21 06:00:14",
-      "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2025-02-21 06:00:14",

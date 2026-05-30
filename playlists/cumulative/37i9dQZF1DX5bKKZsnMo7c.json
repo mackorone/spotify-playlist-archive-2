@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Feeling dramatic? All eyes on you. Cover: Luvcat",
+  "description": "Feeling dramatic? All eyes on you. Cover: Baby J",
   "name": "Limelight",
   "tracks": [
     {
@@ -3198,6 +3198,24 @@
       "duration_ms": 168974,
       "name": "Fall In Love With A Girl (feat. Orla Gartland)",
       "url": "https://open.spotify.com/track/3oDm8bWMqVw2Hn4R8nYwyZ"
+    },
+    {
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3ZLm8xE9pOYo3HRRI1pXbX"
+      },
+      "artists": [
+        {
+          "name": "Baby J",
+          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc"
     },
     {
       "album": {
@@ -9856,7 +9874,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"

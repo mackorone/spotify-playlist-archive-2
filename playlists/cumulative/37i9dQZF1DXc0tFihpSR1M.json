@@ -1003,6 +1003,28 @@
     },
     {
       "album": {
+        "name": "ADAM",
+        "url": "https://open.spotify.com/album/3t2UKfWliV6csDkriulnGq"
+      },
+      "artists": [
+        {
+          "name": "lille Caesar",
+          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
+        },
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165403,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/4VOkt0k6l7Ugyn1WMoEzR3"
+    },
+    {
+      "album": {
         "name": "Bewitched: The Goddess Edition",
         "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
@@ -1232,6 +1254,24 @@
       "duration_ms": 155708,
       "name": "Butterfly Feelings",
       "url": "https://open.spotify.com/track/7HJdIi4rzQqj5LkUQfZWRb"
+    },
+    {
+      "album": {
+        "name": "B\u00e6re ha d\u00e6",
+        "url": "https://open.spotify.com/album/5K974NcHvdjrvTXwfo7n4j"
+      },
+      "artists": [
+        {
+          "name": "Kajander",
+          "url": "https://open.spotify.com/artist/0hlCFEyzGGcZdjQpQ0o6Em"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156002,
+      "name": "B\u00e6re ha d\u00e6",
+      "url": "https://open.spotify.com/track/6qn6pcuk9JNG6PKfXFPts3"
     },
     {
       "album": {
@@ -2498,7 +2538,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 218236,
       "name": "End of an Era",
       "url": "https://open.spotify.com/track/4tif5uslc2gjyZ6LCOKxNV"
@@ -3018,7 +3058,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188869,
       "name": "Fortjener litt fri",
       "url": "https://open.spotify.com/track/5rcGHD3pKmAZp8PyDySpgH"
@@ -3672,6 +3712,24 @@
       "duration_ms": 162317,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx"
+    },
+    {
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "album": {
@@ -9864,24 +9922,6 @@
       "duration_ms": 166291,
       "name": "Toscana",
       "url": "https://open.spotify.com/track/7rQxgwpo7sS77Yv0oVYG81"
-    },
-    {
-      "album": {
-        "name": "ADAM",
-        "url": "https://open.spotify.com/album/3t2UKfWliV6csDkriulnGq"
-      },
-      "artists": [
-        {
-          "name": "lille Caesar",
-          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/4VOkt0k6l7Ugyn1WMoEzR3"
     },
     {
       "album": {

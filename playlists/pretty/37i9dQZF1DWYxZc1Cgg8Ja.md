@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxZc1Cgg8Ja.md) - [plain]
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: Barboza
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,884 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,914 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Linda](https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [AFRO RED 2](https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg) | 2:23 |
 | 2 | [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50) | 3:09 |
 | 3 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |
-| 4 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
-| 5 | [Portate Bonito](https://open.spotify.com/track/4XGFya44QyFTbB1pBT1TLi) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Portate Bonito](https://open.spotify.com/album/2guCMLk57vsbqr0jQbY0Zm) | 3:29 |
-| 6 | [5 Estrellas \- W Sound 23](https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [5 Estrellas \- W Sound 23](https://open.spotify.com/album/4L6MTI7UEE1kF0zHprnx3S) | 3:11 |
-| 7 | [El AchanTAdo](https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [El AchanTAdo](https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox) | 3:45 |
-| 8 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 |
-| 9 | [Demo](https://open.spotify.com/track/7aISltx2VUan85BwExh2bQ) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Starlight](https://open.spotify.com/album/3pSsGgeEhlEcsf0Sa5nBGS) | 3:30 |
+| 4 | [Aquel diciembre](https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 3:22 |
+| 5 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
+| 6 | [Portate Bonito](https://open.spotify.com/track/4XGFya44QyFTbB1pBT1TLi) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Portate Bonito](https://open.spotify.com/album/2guCMLk57vsbqr0jQbY0Zm) | 3:29 |
+| 7 | [5 Estrellas \- W Sound 23](https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [5 Estrellas \- W Sound 23](https://open.spotify.com/album/4L6MTI7UEE1kF0zHprnx3S) | 3:11 |
+| 8 | [El AchanTAdo](https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [El AchanTAdo](https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox) | 3:45 |
+| 9 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 |
 | 10 | [LE PEDÍ A DIOS](https://open.spotify.com/track/0u5j4aF91HDisFFExlgtdi) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [LE PEDÍ A DIOS](https://open.spotify.com/album/21YunxamBw6fwTRzuDx3Ik) | 3:34 |
 | 11 | [Flaka](https://open.spotify.com/track/12iY3g6aGopgjMoDo0hb8H) | [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Flaka](https://open.spotify.com/album/3rjGjvLB8Kb3H2NGgZ3CrY) | 3:37 |
 | 12 | [ALMA](https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxZc1Cgg8Ja.md) - [plain]
 | 74 | [yo pr1mero](https://open.spotify.com/track/0O0kmHHBUG4YCqrKvMnmQy) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [yo pr1mero](https://open.spotify.com/album/0iD5NLijJ6vFTQO6OlEk7i) | 3:14 |
 | 75 | [Más de Ti](https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Randy Nota Loca](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Más de Ti](https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv) | 4:26 |
 
-Snapshot ID: `AAAAAN0foXdjRoB2q4fTrul8rl5i7iYM`
+Snapshot ID: `AAAAAJvx2NJIRxrs17qzGx+faBe22tFf`

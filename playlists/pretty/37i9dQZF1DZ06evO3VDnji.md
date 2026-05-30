@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,656 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,670 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 49 | [Soledad](https://open.spotify.com/track/37mVNCGhOvnjFJ2wQFnNjq) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 4:02 |
 | 50 | [El 100](https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [El 100](https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin) | 2:58 |
 
-Snapshot ID: `ahY0AAAAAAAJNeAkXjtNlMBVVmafRe00`
+Snapshot ID: `aheFgAAAAADIl9qiH72l+FtEFdA/HSMX`

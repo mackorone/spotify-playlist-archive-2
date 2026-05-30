@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "your cheat sheet for all that's on the rise in rock/alt | Cover: breakkaway",
+  "description": "your cheat sheet for all that's on the rise in rock/alt | Cover: Keo",
   "name": "New Noise",
   "tracks": [
     {
@@ -298,6 +298,28 @@
       "duration_ms": 216775,
       "name": "100-99 (feat. GoldLink)",
       "url": "https://open.spotify.com/track/5XlcnTmdhoAJBZT1aR4dAd"
+    },
+    {
+      "album": {
+        "name": "12 Steps",
+        "url": "https://open.spotify.com/album/1aMq6S4AtfLlzrvKGkXdHp"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        },
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191423,
+      "name": "12 Steps (feat. Treaty Oak Revival)",
+      "url": "https://open.spotify.com/track/6RoaWAoHb5KxdBXUlzx6ls"
     },
     {
       "album": {
@@ -4580,6 +4602,24 @@
       "duration_ms": 206385,
       "name": "Back Of My Hand",
       "url": "https://open.spotify.com/track/45WQmEMvZMy3a90XbRWbbB"
+    },
+    {
+      "album": {
+        "name": "Back of Your Neck",
+        "url": "https://open.spotify.com/album/6fMXbX4OfDOHKBBYeCbvUn"
+      },
+      "artists": [
+        {
+          "name": "2AM-DM",
+          "url": "https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Back of Your Neck",
+      "url": "https://open.spotify.com/track/5eRGzmXhOC6vZnF6SugHve"
     },
     {
       "album": {
@@ -9481,6 +9521,24 @@
     },
     {
       "album": {
+        "name": "Be Sweet To Me",
+        "url": "https://open.spotify.com/album/0x4K7avY6nlNEppKxJg6fu"
+      },
+      "artists": [
+        {
+          "name": "Violet Grohl",
+          "url": "https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168693,
+      "name": "Bug In The Cake",
+      "url": "https://open.spotify.com/track/0eqW8uWYZD19N46werkSTF"
+    },
+    {
+      "album": {
         "name": "Bull",
         "url": "https://open.spotify.com/album/1Zf1hkjwXERIjI2585j7jl"
       },
@@ -10142,6 +10200,24 @@
       "duration_ms": 203254,
       "name": "Calling Anybody",
       "url": "https://open.spotify.com/track/7aumNl1d0tmZBIEThfaldQ"
+    },
+    {
+      "album": {
+        "name": "Calling This Healing",
+        "url": "https://open.spotify.com/album/0PxbYimV8PhpybxybCa2hZ"
+      },
+      "artists": [
+        {
+          "name": "Car Underwater",
+          "url": "https://open.spotify.com/artist/4l2d5QcDdawmA85SPn4GyF"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216263,
+      "name": "Calling This Healing",
+      "url": "https://open.spotify.com/track/2n2uQ2voZul23Q4rfFk13T"
     },
     {
       "album": {
@@ -13208,7 +13284,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 152626,
       "name": "Cool Buzz",
       "url": "https://open.spotify.com/track/4EPep3s07C13ngRBVzQ8V0"
@@ -22722,7 +22798,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 217897,
       "name": "Freakin\u2019 Out",
       "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
@@ -24192,6 +24268,24 @@
       "duration_ms": 224437,
       "name": "Gimme Danger",
       "url": "https://open.spotify.com/track/4LxBur43eJPy6s6dY2JE9I"
+    },
+    {
+      "album": {
+        "name": "Giraffe",
+        "url": "https://open.spotify.com/album/3uFbktga31i0ft3ZwRhrNp"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268042,
+      "name": "Giraffe",
+      "url": "https://open.spotify.com/track/7DQ3JbZ8JmjjxoGmOYkjoR"
     },
     {
       "album": {
@@ -28990,6 +29084,24 @@
       "duration_ms": 231266,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/1BOabedVD9kbuN8OiAHtkS"
+    },
+    {
+      "album": {
+        "name": "Homeward Bound",
+        "url": "https://open.spotify.com/album/5NrFjIqcXOg7OWpSXuh1uY"
+      },
+      "artists": [
+        {
+          "name": "Bike Routes",
+          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198761,
+      "name": "Homeward Bound",
+      "url": "https://open.spotify.com/track/68IGgk63d9FIsw1iONncrP"
     },
     {
       "album": {
@@ -40683,6 +40795,24 @@
     },
     {
       "album": {
+        "name": "mean eye",
+        "url": "https://open.spotify.com/album/3Jgy9q6THJRdUayPzOGBfe"
+      },
+      "artists": [
+        {
+          "name": "thistle.",
+          "url": "https://open.spotify.com/artist/4dPHAp5JXnj8HkY71hWVj5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130592,
+      "name": "mean eye",
+      "url": "https://open.spotify.com/track/6X8uT3lUavRViHr1Mzjfte"
+    },
+    {
+      "album": {
         "name": "Meant For Livin'",
         "url": "https://open.spotify.com/album/0RbK6rHwbqKgkGYDjad6cu"
       },
@@ -45390,6 +45520,24 @@
       "duration_ms": 185319,
       "name": "nothing (in my head)",
       "url": "https://open.spotify.com/track/4PFn8XOYbV4zlWr4Jhu7XX"
+    },
+    {
+      "album": {
+        "name": "nothing good to cry about",
+        "url": "https://open.spotify.com/album/41MDd6Yz2ggIp82YYt9H4J"
+      },
+      "artists": [
+        {
+          "name": "wilt",
+          "url": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188344,
+      "name": "nothing good to cry about",
+      "url": "https://open.spotify.com/track/61ZGSF7dPslNsGtOdOylYg"
     },
     {
       "album": {
@@ -51182,7 +51330,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 146762,
       "name": "pylon",
       "url": "https://open.spotify.com/track/13a44jgmdMKQ83q1qbWrXC"
@@ -51854,7 +52002,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 225880,
       "name": "Real Tree Lee",
       "url": "https://open.spotify.com/track/1MCsJBk8H4ku4v6PNqi0P4"
@@ -53160,7 +53308,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 210904,
       "name": "Roses n Poses",
       "url": "https://open.spotify.com/track/62CqS44jOqQSSf0RfCrWHQ"
@@ -55776,7 +55924,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 197627,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35"
@@ -59826,7 +59974,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 129938,
       "name": "St. Agnes",
       "url": "https://open.spotify.com/track/1iXcHOr7lFCEsGgQvrr2G5"
@@ -61298,7 +61446,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 168365,
       "name": "Sunblind",
       "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
@@ -63287,6 +63435,24 @@
     },
     {
       "album": {
+        "name": "That's Me",
+        "url": "https://open.spotify.com/album/0OFePaI594VRdvqQETTPBn"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131316,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/0ivNXNBIslaG7LeLfFaQ0T"
+    },
+    {
+      "album": {
         "name": "that's what time does",
         "url": "https://open.spotify.com/album/4lcvP3jaP1fZFrU7g9zeWH"
       },
@@ -63692,7 +63858,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 219130,
       "name": "The Failure Of My Life Run On Self Will",
       "url": "https://open.spotify.com/track/4hfsdPZS80qvGSjFf7EyAU"

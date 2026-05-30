@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre 📸 Juanse
+> Más vivo que nunca, más nuestro que siempre 📸 Marilina Bertoldi
 
-455 songs - 1 day 4 hr 10 min
+458 songs - 1 day 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Ama a Quien Llora por Ti](https://open.spotify.com/track/7dx5nsXhkbc53tUhszjTP3) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca), [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ama a Quien Llora por Ti](https://open.spotify.com/album/6ER89S7vm5NODaRvJ5dl0Z) | 4:09 | 2023-01-20 | 2025-11-01 |
 | [Amnesia](https://open.spotify.com/track/0pKq8NLJDwYbT7Ja7AEUYE) | [Francia 98](https://open.spotify.com/artist/6me7j5R08ARYKASHiqhvcu) | [Amnesia](https://open.spotify.com/album/4OMEnSsFgeenZiIVNjBIn6) | 3:47 | 2024-10-18 | 2025-02-08 |
 | [Amor en Pandemia](https://open.spotify.com/track/2MJGIie6rHtECQnhbFdnX7) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd) | [Amor en Pandemia](https://open.spotify.com/album/4l8e006uYJlLzgYLl1SUiJ) | 2:47 | 2022-07-29 | 2023-03-11 |
+| [Amores Como El Nuestro](https://open.spotify.com/track/3BR2IsY0nBj7mmrKudsYV8) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Amores Como El Nuestro](https://open.spotify.com/album/5buOKY4eTPj7DMIOrZpxdA) | 2:08 | 2026-05-29 |  |
 | [Anarquía en Buenos Aires](https://open.spotify.com/track/36s5ATx9tavfF7HnVzJtv4) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Anarquía en Buenos Aires](https://open.spotify.com/album/6sMENok4qzf1QQW19AkNV5) | 3:58 | 2024-12-06 |  |
 | [Angel](https://open.spotify.com/track/20G3beDqFyupoDqEhAfunp) | [Los Títeres](https://open.spotify.com/artist/48nIgxyfgJKBLXrIwT7GZZ) | [Angel](https://open.spotify.com/album/1LGGUBSviv7Bwf8pKoSmsc) | 2:57 | 2025-02-21 | 2025-06-21 |
 | [Arañas Bebé](https://open.spotify.com/track/5ftNxlkQO9WD9yKWn8K60f) | [Richard Coleman](https://open.spotify.com/artist/6Hngy3cPnHG2DO493ZxSya), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Arañas Bebé](https://open.spotify.com/album/295GI99A9OkBbikjcuNavc) | 3:50 | 2023-11-10 | 2024-02-10 |
@@ -119,7 +120,7 @@
 | [Diamante Roto](https://open.spotify.com/track/2kKDMlOpLR5NsTuOdTyukm) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV) | 3:01 | 2024-09-20 |  |
 | [Diamante Roto](https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t) | 3:01 | 2023-04-14 | 2023-07-10 |
 | [Diamante Roto](https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Diamante Roto](https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3) | 3:01 | 2024-04-19 | 2024-05-25 |
-| [Dirty Donna](https://open.spotify.com/track/41PlwW2LwnJQCHa3c2L1Qf) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Dirty Donna](https://open.spotify.com/album/6Y8jks0IRkAjXlHvcgDyX3) | 4:24 | 2025-10-17 |  |
+| [Dirty Donna](https://open.spotify.com/track/41PlwW2LwnJQCHa3c2L1Qf) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [Dirty Donna](https://open.spotify.com/album/6Y8jks0IRkAjXlHvcgDyX3) | 4:24 | 2025-10-17 | 2026-05-30 |
 | [Donde vamos](https://open.spotify.com/track/3Wb0obeYtdZxtCcaQ9WEd7) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Donde Vamos](https://open.spotify.com/album/0FurFGkEwgWs6fz96jox1J) | 4:42 | 2024-11-15 |  |
 | [Dos Días en la Vida \- EADDA9223 \(feat\. Lali & Nicki Nicole\)](https://open.spotify.com/track/4oDx5VoqSQJCduO5J5A8MB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [EADDA9223](https://open.spotify.com/album/4VdWh8m5cYm3XI6dhayGIg) | 4:08 | 2023-05-31 | 2025-12-06 |
 | [DOS PARTES](https://open.spotify.com/track/1rk15TMH2O0wP09zOvZB5u) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [CEREMONIA](https://open.spotify.com/album/0pTQYY91AEEoibVuUH1aQp) | 3:03 | 2025-09-05 | 2025-09-13 |
@@ -189,6 +190,7 @@
 | [Guerrero](https://open.spotify.com/track/3ChYPpfRYezxGMAIEGuJ0o) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Viaje 20 Años](https://open.spotify.com/album/6eDW35cJsD69VBDyWPE6gh) | 3:18 | 2026-04-24 | 2026-05-23 |
 | [Hablar de Flores](https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Hablar de Flores](https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7) | 3:09 | 2024-05-10 | 2025-03-08 |
 | [Hacerlo Bien](https://open.spotify.com/track/0hJBuCIq43WYZgZQ9A3Aq7) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Hacerlo Bien](https://open.spotify.com/album/2H73ICOxIxQAbAetEg70Qm) | 4:09 | 2023-10-13 | 2024-04-27 |
+| [Haditas](https://open.spotify.com/track/6Rqc7r9cZ7IG8c8xvPyQvK) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Díscolo](https://open.spotify.com/album/22MYjYwCITSV9lJQfkPiJw) | 3:03 | 2026-05-29 |  |
 | [Harto](https://open.spotify.com/track/381VNDFzOnJulI6qTS5rTm) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Harto](https://open.spotify.com/album/4jN5OvGwHl6aYZxVlMjJgw) | 4:07 | 2025-11-14 |  |
 | [Hay Momentos \- Acústico](https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Hay Momentos \(Acústico\)](https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG) | 4:39 | 2023-11-10 | 2026-03-07 |
 | [Hay Un Tirano Que Es para Vos](https://open.spotify.com/track/0ohAzwHz8iAtqu2QFUfnwG) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Hay Un Tirano Que Es para Vos](https://open.spotify.com/album/6iQsETOWDbUaRrvnoIKXL9) | 4:03 | 2025-01-09 | 2025-02-22 |
@@ -343,10 +345,11 @@
 | [Películas De Acción](https://open.spotify.com/track/5ReNrZRqNxwL7mQzPu1mKh) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Películas De Acción](https://open.spotify.com/album/0jXVUEzaxq6gCoBaqZZpZk) | 3:33 | 2026-01-16 |  |
 | [Perdido](https://open.spotify.com/track/4vlrKddAtbNTgxXvr24ovy) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Perdido](https://open.spotify.com/album/7wJl5MItC0c8sdRdTkKPBA) | 4:07 | 2022-06-24 | 2022-10-15 |
 | [Perdido en Buenos Aires](https://open.spotify.com/track/101sToXKkcLpZKmnri9XH2) | [Rolo Sartorio](https://open.spotify.com/artist/04qwrwU0fxN1TJ1hbfR5cv) | [Perdido en Buenos Aires](https://open.spotify.com/album/3DxE5lXge6XVcAMWWjLiIJ) | 4:31 | 2025-04-04 | 2025-04-26 |
-| [Pero mi mente no me deja](https://open.spotify.com/track/4LKOMJEmMfaz9SRSkbHn0O) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [SUBIDOS AL PONY](https://open.spotify.com/album/46rFn3rJ8c4kvk8gSsLaI0) | 3:59 | 2025-09-12 |  |
+| [Pero mi mente no me deja](https://open.spotify.com/track/4LKOMJEmMfaz9SRSkbHn0O) | [NOTA](https://open.spotify.com/artist/3diz4968GyTG9QV0xVv9lf) | [SUBIDOS AL PONY](https://open.spotify.com/album/46rFn3rJ8c4kvk8gSsLaI0) | 3:59 | 2025-09-12 | 2026-05-30 |
 | [Pistolas](https://open.spotify.com/track/2mAAt8iqdujWGKcB3RDB9D) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ay Ay Ay](https://open.spotify.com/album/5kgCug9cl7cMJ5BY3wigRK) | 4:55 | 2022-07-15 | 2023-09-27 |
 | [Pistolas](https://open.spotify.com/track/4zJOvPywNnXOWdIFIWgfzn) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ay Ay Ay](https://open.spotify.com/album/2yk0KfigUqjNZSY0cov92M) | 4:55 | 2022-06-24 | 2022-07-29 |
-| [Por Mil Noches](https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN) | 4:43 | 2024-03-22 |  |
+| [Por el Resto de Tus Días](https://open.spotify.com/track/5rdHg2px3yuSOFd9r6bGxQ) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR), [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [EV+](https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ) | 4:20 | 2026-05-29 |  |
+| [Por Mil Noches](https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN) | 4:43 | 2024-03-22 | 2026-05-30 |
 | [Por Qué](https://open.spotify.com/track/25HTcptVTrswNsbHKpxDvI) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Por Qué](https://open.spotify.com/album/546elWtt9bA4IvIhV8qUdP) | 3:12 | 2024-10-18 |  |
 | [Prendido Fuego](https://open.spotify.com/track/0h8P7C86KyfkjnqC4TaDhC) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Suenan Las Alarmas](https://open.spotify.com/album/5j5VrewC19P5osNjNanIu6) | 4:17 | 2022-06-24 | 2022-11-12 |
 | [Pretenden](https://open.spotify.com/track/0mWsrwWZXW49QXABIg3Qg2) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Días por Venir](https://open.spotify.com/album/1FYgkh7jHejtb5ADq49jeD) | 3:26 | 2022-06-24 | 2023-06-01 |

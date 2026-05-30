@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,593 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,586 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 14 | [Gostoso Veneno](https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Gostoso Veneno](https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO) | 3:15 |
 | 15 | [A Voz do Morro](https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP) | [Zé Keti](https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr) | [Latin Grooves \- Samba](https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU) | 2:03 |
 | 16 | [Feijoada Completa](https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque](https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR) | 2:51 |
-| 17 | [Foi Um Rio Que Passou Em Minha Vida](https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Eu Sou O Samba](https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6) | 2:35 |
-| 18 | [Alma Boêmia \- Ao Vivo](https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt) | [Toninho Geraes](https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp) | [Tudo Que Sou, Vol\. 1: Fragmentos \(Ao Vivo\)](https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW) | 4:27 |
+| 17 | [Alma Boêmia \- Ao Vivo](https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt) | [Toninho Geraes](https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp) | [Tudo Que Sou, Vol\. 1: Fragmentos \(Ao Vivo\)](https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW) | 4:27 |
+| 18 | [Foi Um Rio Que Passou Em Minha Vida](https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Eu Sou O Samba](https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6) | 2:35 |
 | 19 | [Deixa A Vida Me Levar \- Ao Vivo](https://open.spotify.com/track/3ADuEIn09NAZIBgpYY3IsE) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho \- Uma Prova De Amor Ao Vivo \(Deluxe\)](https://open.spotify.com/album/4rDMla3wFYoWfhcoUQ5XuC) | 3:14 |
 | 20 | [Quando o povo entra na dança](https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Sentimento Brasileiro](https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP) | 2:51 |
 | 21 | [Quando Eu Me Chamar Saudade](https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF) | [Nelson Cavaquinho](https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5) | [Série Documento \- Nelson Cavaquinho](https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k) | 3:27 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 37 | [Exaltação à mangueira](https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9) | [Jamelão](https://open.spotify.com/artist/4PirWL5JYf8HerMVvmwuD0) | [A Voz Do Samba \(Disco 03\)](https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR) | 3:09 |
 | 38 | [Caciqueando \- Ao Vivo](https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr), [Péricles](https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow) | [Roda de Samba do Fundo de Quintal no Cacique de Ramos \(Ao Vivo\)](https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5) | 2:26 |
 | 39 | [Saudosa Maloca](https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 2:20 |
-| 40 | [Eu e Você Sempre \- Ao Vivo](https://open.spotify.com/track/2XXa3wavj9vwz353ezqLUx) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Jorge 70: Ao Vivo em São Paulo, Pt\. 1](https://open.spotify.com/album/2E1JGC6suXlgoQQqGYgqQ8) | 4:11 |
-| 41 | [Coração Leviano](https://open.spotify.com/track/3byAfeclgYBN1cdyVc76Uh) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Coração Leviano](https://open.spotify.com/album/22OU59k6Hqx07gF2tqd7cy) | 2:52 |
+| 40 | [Coração Leviano](https://open.spotify.com/track/3byAfeclgYBN1cdyVc76Uh) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Coração Leviano](https://open.spotify.com/album/22OU59k6Hqx07gF2tqd7cy) | 2:52 |
+| 41 | [Eu e Você Sempre \- Ao Vivo](https://open.spotify.com/track/2XXa3wavj9vwz353ezqLUx) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Jorge 70: Ao Vivo em São Paulo, Pt\. 1](https://open.spotify.com/album/2E1JGC6suXlgoQQqGYgqQ8) | 4:11 |
 | 42 | [Partideiro Sem Nó Na Garganta](https://open.spotify.com/track/4vrcEe4iwNrGJi0ODXljvx) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [Marcelo D2 \- Canta Bezerra Da Silva](https://open.spotify.com/album/3I564AuHICCCnWEBHbvtoP) | 3:42 |
 | 43 | [É Corpo, É Alma, É Religião \- Ao Vivo Na Lapa](https://open.spotify.com/track/1Titm76tFsIqqjjITUYRfx) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [O Samba Em Mim \(Ao Vivo Na Lapa\)](https://open.spotify.com/album/2wv5WDVgqmtwqCcVok5eyr) | 3:46 |
 | 44 | [Pintou uma Lua Lá](https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP), [Sombrinha](https://open.spotify.com/artist/5GmHrvfki94D20jsW5PRTi) | [Da Música](https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM) | 4:24 |

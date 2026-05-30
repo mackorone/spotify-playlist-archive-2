@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💋 Ida Laurberg på coveret
 
-903 songs - 1 day 22 hr 6 min
+906 songs - 1 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Everything Once](https://open.spotify.com/track/22hGKB6H8np9tHazn84qLe) | [Tigeroak](https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0) | [Everything Once](https://open.spotify.com/album/7io8ZiO5AkjCYwkuXjuN6o) | 4:11 | 2025-11-21 |  |
 | [Eyes On You \(feat\. Ida & Annika\)](https://open.spotify.com/track/7zrpsIDtsWPzrMAW2zZeYz) | [Jonah Blacksmith](https://open.spotify.com/artist/3oM2douHxNqMYMbRNkT1tr), [Ida & Annika](https://open.spotify.com/artist/6f49Y3mRQ68px4jpR4x4ew) | [Ages](https://open.spotify.com/album/2p0BnYrZIL8fWLZ3GUaJ5z) | 3:06 | 2025-10-16 | 2025-11-22 |
 | [Face Like Yours](https://open.spotify.com/track/2s1eDgLrgfZxcKG0Re5qZM) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Face Like Yours](https://open.spotify.com/album/1JZe1YVeWAAeToAavXZ0f3) | 2:38 | 2026-02-05 |  |
+| [Falder Du Så Falder Jeg \(feat\. Gobs\)](https://open.spotify.com/track/0YUWZA7DCKtJ2mJxyd64AA) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Falder Du Så Falder Jeg \(feat\. Gobs\)](https://open.spotify.com/album/1GMfPfcQUDBN2w2fNYBJv6) | 2:31 | 2026-05-29 |  |
 | [Fall In Love With Your Life](https://open.spotify.com/track/5xdYMxd96DeE35dmrs1Oi6) | [KOPS](https://open.spotify.com/artist/10GRqg0xzOzJI8yOgs5DbS) | [Fall In Love With Your Life](https://open.spotify.com/album/5Wd25sRzDtlh1AjPjqAHKf) | 3:24 | 2026-01-19 | 2026-02-20 |
 | [Falling Behind](https://open.spotify.com/track/2PjPwiqoTs8RREFzR9e9Jz) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [Falling Behind](https://open.spotify.com/album/0FIHlq0Hn44YivHaUJCBPH) | 3:14 | 2025-10-23 | 2026-01-15 |
 | [fancy](https://open.spotify.com/track/7J5GcAbZ2rsWk2BzZDVog1) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [fancy / xvideos](https://open.spotify.com/album/073p1oabjQBPOYrAMWOrge) | 2:05 | 2024-12-19 | 2025-01-17 |
@@ -296,6 +297,7 @@
 | [Get Outta My Heart](https://open.spotify.com/track/2KlxiyBYb01MW2qvoKYcWx) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Get Outta My Heart](https://open.spotify.com/album/3icqrgQ5BLZ1cGyfLhQ7Mx) | 3:28 | 2025-02-13 | 2025-04-11 |
 | [Ghost](https://open.spotify.com/track/0FsOXNMDwtTdru7hxjw9vJ) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Ghost](https://open.spotify.com/album/2auDF9W61yqxQJBFt5JSHS) | 3:49 | 2024-09-26 | 2024-10-04 |
 | [Ghosted](https://open.spotify.com/track/1jJIJqxbAEAIUa15BuJVxa) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Too Bad We Grow Up](https://open.spotify.com/album/3JEsGLchf4cPvjSud2EefH) | 3:13 | 2025-06-06 | 2025-08-01 |
+| [Gi' Mig](https://open.spotify.com/track/6TuyzcroVkiqQZUXlJE3LC) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [FORLADMIGEJ](https://open.spotify.com/album/1YgMrux0tYh6IXpwdHPVio) | 2:28 | 2026-05-28 |  |
 | [Gi' Mig Lige](https://open.spotify.com/track/6cgvpCN5EDQOGQdYyK8e3a) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Gi' Mig Lige](https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA) | 2:41 | 2024-07-11 | 2024-08-09 |
 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-06-27 | 2025-01-17 |
 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-06-27 | 2025-01-17 |
@@ -667,6 +669,7 @@
 | [SALTY](https://open.spotify.com/track/3dzLIfyygjAMlm0f8rN7GQ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PLAYHOUSE](https://open.spotify.com/album/3yi5TjtYVe4Po9WpLqtZiO) | 3:11 | 2024-11-07 | 2025-01-24 |
 | [SAMMEN](https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-11-04 | 2025-04-25 |
 | [Samsø](https://open.spotify.com/track/1bXH7ivvqL31jE7pQs4tdA) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Samsø](https://open.spotify.com/album/0YhT8ZbJPvsQ0c8ZKAjQlV) | 2:30 | 2025-04-10 | 2025-06-13 |
+| [Samuraisværd](https://open.spotify.com/track/1bOZ3xmWdkbgdzUCxyH9Kv) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Samuraisværd](https://open.spotify.com/album/1NpBlrdZogWea9cJthduHl) | 2:19 | 2026-05-29 |  |
 | [Sang Til Min Mor](https://open.spotify.com/track/3FjUj0VQl2vu0Ru4MJvhN8) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Sang Til Min Mor](https://open.spotify.com/album/4Kg7MU9ZbNhCD0MfGx4Tll) | 2:52 | 2024-09-26 | 2025-01-17 |
 | [Sapphire](https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sapphire](https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t) | 2:59 | 2025-06-06 | 2025-11-22 |
 | [Satellitter \(feat\. Ida Laurberg\)](https://open.spotify.com/track/5ArTIrR4RkBbRd3Hsd0xK2) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr), [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Satellitter \(feat\. Ida Laurberg\)](https://open.spotify.com/album/1OTxPm7Fc0C2MajBH6r5oB) | 3:10 | 2026-04-30 |  |
@@ -687,6 +690,7 @@
 | [She's Missing](https://open.spotify.com/track/3zjgHWQEOHrtN801SqtOzo) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [She's Missing](https://open.spotify.com/album/7n7ktFWH8qWh5GJsOnWo4r) | 3:04 | 2026-04-16 |  |
 | [Shine](https://open.spotify.com/track/1Rt3wxfKg2dn8vjh2A7S7V) | [Donel](https://open.spotify.com/artist/6nboHpRsZBI6pPX9lSBvgT), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Shine](https://open.spotify.com/album/4o3AHAl1dknsQGp7NbJeQD) | 2:45 | 2025-08-07 | 2025-08-29 |
 | [Shine](https://open.spotify.com/track/3AG1SWCQLutTkbo2VA3gox) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI) | [Shine](https://open.spotify.com/album/60hETkzwZwmoxjUWX9jxiA) | 2:17 | 2024-06-27 | 2024-07-30 |
+| [Sidste Mand Der Dør](https://open.spotify.com/track/2IEGQCj6opHbd0gQZC7eR7) | [Gigis](https://open.spotify.com/artist/2JPtVnT5s9pasfOlXM6F4o), [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [Sidste Mand Der Dør](https://open.spotify.com/album/28OmKtTNp2VLK6bj9qKgGa) | 3:56 | 2026-05-29 |  |
 | [Siren sounds \(bonus\)](https://open.spotify.com/track/181yGUB8xEh4LfK8KhC4Wa) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb) | 3:03 | 2025-02-27 | 2025-04-25 |
 | [Skabt til at være to](https://open.spotify.com/track/2wilyl40E4klJdChkOcMNu) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Skabt til at være to](https://open.spotify.com/album/31iCNzDfpH8dlBBLWaDetq) | 3:23 | 2025-11-06 | 2026-02-20 |
 | [Skeletons](https://open.spotify.com/track/3hj8W5q7BI1Uam1rn47a9Q) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play \(Deluxe\)](https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7) | 2:41 | 2025-11-27 |  |
@@ -807,7 +811,6 @@
 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-22 | 2026-02-20 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-07-30 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-01-24 |
-| [Track 2](https://open.spotify.com/track/6TuyzcroVkiqQZUXlJE3LC) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [FORLADMIGEJ](https://open.spotify.com/album/1YgMrux0tYh6IXpwdHPVio) | 0:00 | 2026-05-28 |  |
 | [Trampoline](https://open.spotify.com/track/1seCBPXlQclXNQbDmjWAsQ) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Trampoline](https://open.spotify.com/album/1vkq5KBggKzpt7P6ZETmJb) | 3:21 | 2025-05-22 | 2025-06-27 |
 | [Trip Trip](https://open.spotify.com/track/7dFT2thcuAmKMC59rRuZ9A) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [Bby's Corner](https://open.spotify.com/album/2fOY9CevU5A47Rs5kp82cr) | 3:21 | 2025-10-02 | 2025-10-17 |
 | [Tristan & Isolde](https://open.spotify.com/track/361guhUskLY7XA6X178aEk) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Honey](https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf) | 4:50 | 2025-10-02 |  |

@@ -4,7 +4,7 @@
 
 > Pinky up!
 
-186 songs - 9 hr 27 min
+187 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [FUND$](https://open.spotify.com/track/799HHc8eTnRsHCFqXTwVRa) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [FUND$](https://open.spotify.com/album/4hQLeyedpQnCceU8hjjHjW) | 2:31 | 2025-08-29 | 2025-09-27 |
 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 | 2023-06-13 |  |
 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 | 2023-06-13 |  |
+| [Girl Like Me](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:25 | 2026-05-29 |  |
 | [Girlfriend](https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:36 | 2023-06-13 | 2024-04-19 |
 | [Girlfriend](https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing](https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK) | 3:36 | 2024-04-06 | 2025-07-19 |
 | [Girlie\-Pop!](https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Girlie\-Pop!](https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23) | 2:03 | 2025-07-25 | 2025-08-30 |
@@ -145,7 +146,7 @@
 | [rager](https://open.spotify.com/track/39kaks6MIhAZLcbN7PTgBz) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [rager](https://open.spotify.com/album/50DZmSygoelBizezheVskd) | 2:48 | 2026-02-06 | 2026-03-18 |
 | [Rich Girl](https://open.spotify.com/track/2Y2q7PkD7lvuWr8YaZfWuv) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:56 | 2023-06-13 | 2024-04-19 |
 | [Rich Girl](https://open.spotify.com/track/2oxtQ84p1j5GmyzmD50Lq0) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Eve](https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC) | [Love\. Angel\. Music\. Baby.](https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR) | 3:56 | 2024-04-06 |  |
-| [S&M Remix](https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [S&M Remix](https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs) | 4:17 | 2023-07-26 |  |
+| [S&M Remix](https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [S&M Remix](https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs) | 4:17 | 2023-07-26 | 2026-05-30 |
 | [Say So](https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:57 | 2023-06-13 |  |
 | [Sexy](https://open.spotify.com/track/2fawtioCymOM7qRH6SCHE7) | [Avantika](https://open.spotify.com/artist/7gjaWWHUIi54lepyZd1WIP) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/0WSPg07gRVxFdY1esBAIOc) | 3:03 | 2024-01-12 | 2024-01-25 |
 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 | 2024-01-12 | 2026-05-02 |

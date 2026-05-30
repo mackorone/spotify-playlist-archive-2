@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,021 likes - 98 songs - 5 hr 52 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,024 likes - 99 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 96 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 |
 | 97 | [Pool Song \(Swimming in the 70's\)](https://open.spotify.com/track/44o7PXa6JAO9W8oTUHd4EP) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Gazing\- Guitar Remix/Pool Song](https://open.spotify.com/album/5OdH9EuKxuDm5YPug0jFRy) | 1:35 |
 | 98 | [The Veil](https://open.spotify.com/track/3S9Wu7CaNB5gRDMPBSbHFR) | [Chris Maragoth](https://open.spotify.com/artist/01OJBw7i5uLKADzURGFQr3) | [Lost and Separated](https://open.spotify.com/album/56jnF9yHPmOA5ezamiYMWP) | 3:39 |
+| 99 | [Chicago](https://open.spotify.com/track/0uhM1mDQ9tsxPdV4oorvUv) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Chicago](https://open.spotify.com/album/5V7ZgYI3RoHeLYNtiJoTLB) | 3:09 |
 
-Snapshot ID: `AAAGLL/1jd0pkU56nvq03XzDyG/au/pQ`
+Snapshot ID: `AAAGLfK/aR4l54ewNtIfNFVYW59M25YH`

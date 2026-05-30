@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Bidemi Olaoba
 
-8,163 songs - 25 day 4 hr 51 min
+8,163 songs - 25 day 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3523,6 +3523,7 @@
 | [Intimate Worship](https://open.spotify.com/track/3dP9Dg223ZTbjUAeGyuxsx) | [Benjamin Israel](https://open.spotify.com/artist/5qGo4F4KRcg0fBmJBD2Ubq) | [Intimate Worship](https://open.spotify.com/album/1L6ZrzeKT6TZYqYdoBHuNE) | 9:18 | 2024-09-06 | 2024-09-20 |
 | [Intimate worship](https://open.spotify.com/track/6aSghEfFNO099IP86XPy3a) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Intimate worship](https://open.spotify.com/album/5cM5M5ftvg9xJ786ynhEEp) | 12:53 | 2023-05-19 | 2023-06-02 |
 | [Intro \(Mudzimu Uyavhuya\) \[feat\. Lebo Sekgobela\]](https://open.spotify.com/track/31O7XS9siV7dbPwk8ngvMN) | [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Miracle Child](https://open.spotify.com/album/1glMg9IGPAlUCFduzoU04V) | 6:14 | 2024-10-04 | 2024-10-18 |
+| [Inu ndi Ine \- Live](https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr) | [Paul Kachala](https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM), [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Mwayenera \- The Live Album](https://open.spotify.com/album/4CguM9gNqGCX0pvY5ioAcZ) | 9:24 | 2026-05-29 |  |
 | [Inumidun](https://open.spotify.com/track/4EOl9JwjmLZdoOiG77H44l) | [Marc Odiba](https://open.spotify.com/artist/68Qg2lgmOoVAXCVSrB2H0T), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn) | [Inumidun](https://open.spotify.com/album/1kSdrPqNHtHiMHd1YrQu1K) | 2:55 | 2024-01-19 | 2024-02-02 |
 | [Involved](https://open.spotify.com/track/5pb5B5hA3h3EF0s7cW1ykL) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [Involved](https://open.spotify.com/album/5jF4u2Au0Tbqifnr2qtzfH) | 3:40 | 2024-09-20 | 2024-10-04 |
 | [INVULNERABLE](https://open.spotify.com/track/4zlqOYk90F5YExsRItrJ31) | [Steve Rhema](https://open.spotify.com/artist/6Kh0D0JaOXIPRzD5BI9YwN) | [INVULNERABLE](https://open.spotify.com/album/6YANfZ8SrKvTEkHp3ARSEj) | 2:40 | 2025-07-04 | 2025-07-18 |
@@ -5045,6 +5046,7 @@
 | [Njalo Njalo](https://open.spotify.com/track/6GsFbAPxazUNP8THPfEvsl) | [Mneshmane Blr](https://open.spotify.com/artist/4KnyqrllEsGhKrYAtW4q3C), [Dr Dope](https://open.spotify.com/artist/511VpiGCdzuECpteBjWKuT), [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0), [Nomakhuze Ndabula](https://open.spotify.com/artist/5V8tWlChyzmA3CtMgn1beJ), [Boyzin Bee](https://open.spotify.com/artist/0RU8XphQbWwo1jxy1QCOiE) | [Njalo Njalo](https://open.spotify.com/album/3HgO00uYIsZfDhsWFlUnvV) | 5:28 | 2024-08-16 | 2024-08-30 |
 | [Nkabo Ke Le kae \- \(Genirol Take\)](https://open.spotify.com/track/32eFjS5L4U7BTS820k02ZX) | [Genirol](https://open.spotify.com/artist/2NaarOIQIasgOFuv1vCCX5), [Blessie G](https://open.spotify.com/artist/0hco7frB517h3FzNpVICSw) | [Nkabo Ke Le kae \(Genirol Take\)](https://open.spotify.com/album/19952qJv6rLTnXKzGjzd3S) | 3:51 | 2025-07-11 | 2025-07-18 |
 | [Nkosi](https://open.spotify.com/track/7yrgmkjqLrljc7Ei0rb8t8) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI) | [Nkosi](https://open.spotify.com/album/4ux0G0cVZIN98vXThCv9J4) | 7:11 | 2025-01-31 | 2025-02-07 |
+| [Nkosi Amakhosi](https://open.spotify.com/track/3A6dZNicN7AGaiwsUqnBcl) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [The Gospel Vol.1](https://open.spotify.com/album/4CcFnIA7S27UVeKPfjnFDe) | 7:18 | 2026-05-29 |  |
 | [Nkosi Baba](https://open.spotify.com/track/2qnh5cHl72qvBm4kcMOeHb) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nkosi Baba](https://open.spotify.com/album/1CvRoxwbkoXi6nAjf7izrE) | 7:30 | 2024-02-23 | 2024-03-08 |
 | [Nkosi Nkosi Bubusise](https://open.spotify.com/track/2N5Za701OwilHIPsYuwZR8) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nkosi Nkosi Bubusise](https://open.spotify.com/album/4cFOwbqaOmUNQnzZtVITpU) | 3:23 | 2023-10-27 | 2023-11-10 |
 | [Nkosi Sikelela uBaba](https://open.spotify.com/track/3DovCSCmydiBY6Tdu90imJ) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nkosi Sikelela uBaba](https://open.spotify.com/album/4Jf2doGSsYsb0TI32fmvBB) | 6:26 | 2023-08-04 | 2023-08-18 |
@@ -7145,8 +7147,6 @@
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-02 |
 | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [TPC](https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [TPC](https://open.spotify.com/album/3s7VHDyi99q9iFlxY1slbq) | 3:48 | 2024-09-27 | 2024-10-11 |
-| [Track 15](https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr) | [Paul Kachala](https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM) | [Mwayenera \- The Live Album](https://open.spotify.com/album/4CguM9gNqGCX0pvY5ioAcZ) | 0:00 | 2026-05-29 |  |
-| [Track 4](https://open.spotify.com/track/3A6dZNicN7AGaiwsUqnBcl) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [The Gospel Vol.1](https://open.spotify.com/album/4CcFnIA7S27UVeKPfjnFDe) | 0:00 | 2026-05-29 |  |
 | [Transitions](https://open.spotify.com/track/6Hz9LQZ6Ojoa3a5DmVVP4N) | [Rohi Shaapera](https://open.spotify.com/artist/10C5zzyN7mS8BBJLqyTYUr) | [Transitions](https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9) | 2:42 | 2025-07-04 | 2025-07-18 |
 | [Traumatized](https://open.spotify.com/track/4IuztXrOUvnDUONYGT5pc3) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [Traumatized](https://open.spotify.com/album/5dhM2pMbxRKCn65QwKccw9) | 1:28 | 2024-02-09 | 2024-02-16 |
 | [Traveller](https://open.spotify.com/track/0mCxma7UENksj35Hxm1k88) | [Father Ankrah Music](https://open.spotify.com/artist/0yt8H7q2YCQi8kUi1KeK6N) | [Traveller](https://open.spotify.com/album/19Xf6cvv5NKVkMDuZiesH2) | 3:13 | 2025-03-28 | 2025-04-11 |

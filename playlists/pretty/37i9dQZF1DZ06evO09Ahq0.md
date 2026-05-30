@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 
 > This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,989 likes - 48 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,042 likes - 49 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 42 | [Game Over](https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:46 |
 | 43 | [Crossroads](https://open.spotify.com/track/4Oq241mV2LEcQsfXQPOfZe) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 4:30 |
 | 44 | [Desecrate Through Reverence](https://open.spotify.com/track/2CtlenYH17sZ8Mzg9tgT1K) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 5:38 |
-| 45 | [Magic](https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Magic](https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U) | 3:42 |
+| 45 | [Wish You Were Here](https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 5:13 |
 | 46 | [We Love You](https://open.spotify.com/track/0JUZetZb7lxLsmT7HwNCQv) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 6:15 |
 | 47 | [St\. James](https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 5:02 |
-| 48 | [\(O\)rdinary](https://open.spotify.com/track/5Jfa1TJRwDnofxUlDg1yQy) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 2:52 |
+| 48 | [Magic](https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Magic](https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U) | 3:42 |
+| 49 | [\(O\)rdinary](https://open.spotify.com/track/5Jfa1TJRwDnofxUlDg1yQy) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 2:52 |
 
-Snapshot ID: `ahY0AAAAAADa1xfKdDB8IMWFGhJ5kYYJ`
+Snapshot ID: `aheFgAAAAAALDjx1spQz2TxMj85H2Hkj`

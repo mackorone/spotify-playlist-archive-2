@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: Krystal)",
-  "num_followers": 1096147,
+  "num_followers": 1096516,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -1267,18 +1267,22 @@
     {
       "added_at": "2026-05-27 07:58:51",
       "album": {
-        "name": "Paraglider",
-        "url": "https://open.spotify.com/album/5cvnpaz0cgbLl0wNruE7b6"
+        "name": "GANADARA",
+        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
       "artists": [
         {
-          "name": "Olivia Marsh",
-          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 152333,
-      "name": "Paraglider",
-      "url": "https://open.spotify.com/track/08YjBjAWR1DOlNpUHDZYpt"
+      "duration_ms": 203727,
+      "name": "GANADARA (Feat. IU)",
+      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
     },
     {
       "added_at": "2026-05-27 07:58:51",
@@ -1315,22 +1319,18 @@
     {
       "added_at": "2026-05-27 07:58:51",
       "album": {
-        "name": "GANADARA",
-        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
+        "name": "Paraglider",
+        "url": "https://open.spotify.com/album/5cvnpaz0cgbLl0wNruE7b6"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "Olivia Marsh",
+          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
         }
       ],
-      "duration_ms": 203727,
-      "name": "GANADARA (Feat. IU)",
-      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+      "duration_ms": 152333,
+      "name": "Paraglider",
+      "url": "https://open.spotify.com/track/08YjBjAWR1DOlNpUHDZYpt"
     },
     {
       "added_at": "2026-05-27 07:58:51",

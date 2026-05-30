@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,918 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,920 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 18 | [Merry Christmas Mary Jane](https://open.spotify.com/track/7DsdX05nPIdeUKK3xMnjFS) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Merry Christmas Mary Jane](https://open.spotify.com/album/7gJwPwRzEHQ5RQtzZUoQ4j) | 4:12 |
 | 19 | [Ugly Sweater Blues](https://open.spotify.com/track/4vqUiwZ2f6bYjpmbo7LW5x) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [SOCKS](https://open.spotify.com/album/6GFdPihjWOAE7OsauYu5uC) | 2:56 |
 | 20 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:34 |
-| 21 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
-| 22 | [Jingle Bell Rock](https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Rockin' Around The Christmas Tree / Jingle Bell Rock](https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN) | 2:23 |
-| 23 | [Send Me Out Like Autumn](https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J) | [King Margo](https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR) | [Send Me Out Like Autumn](https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ) | 3:53 |
-| 24 | [That Christmasy Feeling](https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tommy Cash](https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR) | [The Johnny Cash Family Christmas](https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd) | 2:13 |
+| 21 | [That Christmasy Feeling](https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tommy Cash](https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR) | [The Johnny Cash Family Christmas](https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd) | 2:13 |
+| 22 | [Send Me Out Like Autumn](https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J) | [King Margo](https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR) | [Send Me Out Like Autumn](https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ) | 3:53 |
+| 23 | [Jingle Bell Rock](https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Rockin' Around The Christmas Tree / Jingle Bell Rock](https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN) | 2:23 |
+| 24 | [The Sound Of Christmas](https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [The Sound of Christmas](https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH) | 3:17 |
 | 25 | [Have Yourself A Merry Little Christmas \- Live From BBC Radio 2](https://open.spotify.com/track/1upIC70GIjvJJ4iJ5i85Ny) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Live From BBC Radio 2](https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE) | 2:11 |
 | 26 | [White Winter Hymnal](https://open.spotify.com/track/6vvQPyBTCABvVeD7sipPdt) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [White Winter Hymnal](https://open.spotify.com/album/75LK4pXWhnMMt5hWhlZgNI) | 2:30 |
 | 27 | [O Come, All Ye Faithful](https://open.spotify.com/track/5cmP2p1HMmsNGLrKlppkDN) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Christmas Songs](https://open.spotify.com/album/4pkZIHysqjrPBgCJw48SnW) | 2:59 |

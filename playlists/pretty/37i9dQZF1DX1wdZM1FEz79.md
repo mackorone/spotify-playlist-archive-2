@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 박찬영\(Park Chan Young\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 최제니\(Jenny Choi\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,798 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,796 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Come to me](https://open.spotify.com/track/51AT2GdTdgyEG0D1w4AO2j) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Gaze](https://open.spotify.com/album/7op95Ju7RNmMABUncVzglj) | 3:03 |
+| 1 | [As is](https://open.spotify.com/track/1sT0vbLIJRnOIJU6gKAKDa) | [Jenny Choi](https://open.spotify.com/artist/2rtmI0H2LRnKU9Et5bl20L) | [Breathing Methods](https://open.spotify.com/album/43mZmhTsB9gmskv8k3q0Ml) | 3:46 |
 | 2 | [Fine](https://open.spotify.com/track/6CdUgvL597jWmW4w8P5kHs) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album](https://open.spotify.com/album/6DlCl3hBP1Gwhn0tgitGfN) | 3:29 |
 | 3 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 |
 | 4 | [I'm Gonna Love You](https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:31 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 45 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 |
 | 46 | [Love Is You](https://open.spotify.com/track/6DjDyzhoqpOQJ5ABAtZD3a) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Undercover High School OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/1NvuWEGKtO8uOGYaf7ufKD) | 2:59 |
 | 47 | [lemon](https://open.spotify.com/track/45K6rDTeTFcpQlVmWbqlyS) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [Ordinary Ever After](https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ) | 3:21 |
-| 48 | [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 |
-| 49 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
+| 48 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
+| 49 | [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 |
 | 50 | [La Danse De La Joie](https://open.spotify.com/track/1PesmnG3M2KOjYnaq3ppR5) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [LOVE in the BIG CITY \(Special pre\-release \- Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7KkI5zdnZdJufxzDW1aGWp) | 2:28 |
 
-Snapshot ID: `AAAAAJBbbfAow4LyXqItzrsEYRTuUUdD`
+Snapshot ID: `AAAAABAPtHjyyriRtlX42Xbmv/4mkY7Q`

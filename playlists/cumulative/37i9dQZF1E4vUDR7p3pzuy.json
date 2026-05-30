@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, JUST LIZZY, Synthetik Blonde and more",
+  "description": "With Evil Level Live, JUST LIZZY, LOR3L3I and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -834,7 +834,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 176470,
       "name": "Attack Of The Killer Coffee Beans",
       "url": "https://open.spotify.com/track/4D9oghIDt7j22TVXxWSBbw"
@@ -1777,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "By The Stars",
+        "url": "https://open.spotify.com/album/1aciQiXngQNtbsVgccAKEH"
+      },
+      "artists": [
+        {
+          "name": "Octavian Winters",
+          "url": "https://open.spotify.com/artist/3wPTYvBCrBaGcCu6DqJLtU"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313263,
+      "name": "By The Stars",
+      "url": "https://open.spotify.com/track/1y5o1igmHBuqVruw7sJ79q"
+    },
+    {
+      "album": {
         "name": "THE VAMPIRES PROJECT",
         "url": "https://open.spotify.com/album/11xuvpBfN0WiTlMNpJDlW6"
       },
@@ -2692,7 +2710,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 240797,
       "name": "Crimson claws",
       "url": "https://open.spotify.com/track/6qdVQrG1rQq0V3zP27utzf"
@@ -3368,7 +3386,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -3700,7 +3718,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 181615,
       "name": "Elixir - Cattac Remix",
       "url": "https://open.spotify.com/track/6V5btMqRC9NZVca9rn0ui5"
@@ -3844,7 +3862,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 220179,
       "name": "Everywhere is Nowhere",
       "url": "https://open.spotify.com/track/1gHMrlnQM4yN0tZ85g6GGs"
@@ -4118,7 +4136,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 201526,
       "name": "Fear Of Love",
       "url": "https://open.spotify.com/track/2iaqIN46Ag9tfrb4h6AStT"
@@ -4356,7 +4374,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 282551,
       "name": "For Now",
       "url": "https://open.spotify.com/track/1oM2pOdX6TNoMeNcm5u1H5"
@@ -5640,7 +5658,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 217546,
       "name": "I Heard It from Your Other Friend",
       "url": "https://open.spotify.com/track/1z2llNZKwHENaA7KS9S4M8"
@@ -6690,7 +6708,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 120000,
       "name": "Least",
       "url": "https://open.spotify.com/track/4jcdmZz76vJkLEEu8IsKkw"
@@ -6968,7 +6986,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 259840,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
@@ -8368,7 +8386,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 223663,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/7eJiTUS9FthmhEL9qOrisn"
@@ -8548,7 +8566,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 222560,
       "name": "Pacific City",
       "url": "https://open.spotify.com/track/7FwdrtJQammXYwsJcr0LdQ"
@@ -8808,7 +8826,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 309020,
       "name": "Porcelain - Black Remix",
       "url": "https://open.spotify.com/track/4AkRx8vmUX3JLOkPtMXE0t"
@@ -8888,7 +8906,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 224396,
       "name": "Pretty When You Cry",
       "url": "https://open.spotify.com/track/5E8ycUXvH9SRjUFvln1Xly"
@@ -9870,7 +9888,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 376000,
       "name": "September",
       "url": "https://open.spotify.com/track/1T2ty4xOFcAyV3nrmPfniv"
@@ -10676,7 +10694,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 210202,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/0xClyT50QEG0EwFYsg2xds"
@@ -10694,7 +10712,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 176949,
       "name": "Spider Spider",
       "url": "https://open.spotify.com/track/2KzArEhoiR0aHmEodyuTi0"
@@ -10954,7 +10972,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 210500,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/0LufHqU1K0M08WNNxc5XhG"
@@ -11312,7 +11330,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 219247,
       "name": "Tearskin",
       "url": "https://open.spotify.com/track/0tf0ezYl2zS1j3p5RV7CR0"
@@ -11406,7 +11424,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 280320,
       "name": "The Againsters - To Die In Beauty Remix",
       "url": "https://open.spotify.com/track/53KjYy69KuICpeKvQcCV7h"
@@ -11472,7 +11490,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 343461,
       "name": "The Becoming",
       "url": "https://open.spotify.com/track/0bE2LFEgksd5KwAWvLnFuu"
@@ -11814,7 +11832,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 264000,
       "name": "The Last Plague",
       "url": "https://open.spotify.com/track/1Ql39uWKAixAfwUkXFertZ"
@@ -11832,7 +11850,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 208703,
       "name": "The Long Drive",
       "url": "https://open.spotify.com/track/0ViZJbt9VJiWMX6WDFIJsb"
@@ -12366,7 +12384,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 206857,
       "name": "Through the Glass",
       "url": "https://open.spotify.com/track/4YAJwhrDUeu9PPohOU3Z6D"
@@ -12456,7 +12474,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 341834,
       "name": "Thy Womb Full of Black Nectar",
       "url": "https://open.spotify.com/track/6Yhuv8w23vsF3m06bGIho0"
@@ -13094,7 +13112,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 214909,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/0CcjAsFdi3wMukU6Yfnrkl"
@@ -13742,7 +13760,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 242093,
       "name": "White Mask",
       "url": "https://open.spotify.com/track/6CeYn56bnVviSINoisMbUx"

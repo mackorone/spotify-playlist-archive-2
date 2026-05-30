@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 162840,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/53rB05bAi7JdNbUfgz72I1"
@@ -768,6 +768,28 @@
       "duration_ms": 138117,
       "name": "Caught in Your Love",
       "url": "https://open.spotify.com/track/2xpbZxV34gnvg3QwUvG370"
+    },
+    {
+      "album": {
+        "name": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
+        "url": "https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163844,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae"
     },
     {
       "album": {
@@ -4403,6 +4425,24 @@
     },
     {
       "album": {
+        "name": "Who's the Clown?",
+        "url": "https://open.spotify.com/album/6unMpOoIJqsLxuoTEFqdfP"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170320,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ZAuQOgLrNQb9s7BXheuTy"
+    },
+    {
+      "album": {
         "name": "SUGAR",
         "url": "https://open.spotify.com/album/2Mt5nyYU4rYJSQkWXM7F0w"
       },
@@ -4468,7 +4508,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 152186,
       "name": "Super Lady",
       "url": "https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U"

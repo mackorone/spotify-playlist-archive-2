@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Trending for a reason - the home of country's future monster hits. Cover: Megan Moroney",
+  "description": "Trending for a reason - the home of country's future monster hits. Cover: Gabriella Rose",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -6005,6 +6005,24 @@
     },
     {
       "album": {
+        "name": "Land",
+        "url": "https://open.spotify.com/album/5MlazoygT2SDyJMOrvkVXr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "Land",
+      "url": "https://open.spotify.com/track/4848iEZHeWX9rqPlilPA87"
+    },
+    {
+      "album": {
         "name": "Lasso",
         "url": "https://open.spotify.com/album/1KBnCThd8WNhM6KBUxQ4Yc"
       },
@@ -7078,7 +7096,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 171696,
       "name": "Misery",
       "url": "https://open.spotify.com/track/67kE1VBtwdcy2KughONFhY"

@@ -4,7 +4,7 @@
 
 > Popronde is een jaarlijks reizend festival in NL met de grootste talenten\. Cover: Gilly
 
-369 songs - 19 hr 58 min
+370 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [bubble](https://open.spotify.com/track/1qfO88TpTtHIsY8pNidXF2) | [SERVICE](https://open.spotify.com/artist/2GS7B0jEZp2FPg6NH6zJNY) | [bubble](https://open.spotify.com/album/764nFclQjC7BFAZZjVPNK9) | 3:06 | 2025-09-30 | 2026-05-12 |
 | [Burnout Artist](https://open.spotify.com/track/0cIVDIAjjfsn1eAMkCPJuA) | [Kelsey](https://open.spotify.com/artist/3IEN09Jra7xWI4UYGy5Xor) | [Burnout Artist](https://open.spotify.com/album/3gCAxxMa7BKvmvpGkFEQJM) | 3:07 | 2025-05-07 | 2026-05-12 |
 | [Bust a Move](https://open.spotify.com/track/7bt9uAKb8aTgxkQuXjX1n7) | [STROOMSTOOT](https://open.spotify.com/artist/10UDvTwIuvIIZmDbyGxOCi) | [Bust a Move](https://open.spotify.com/album/24ksVM6aYcWH9xEHnqTHka) | 2:57 | 2025-05-07 | 2026-05-12 |
-| [CALL](https://open.spotify.com/track/1bsipxUMmK7w0qNC6isiVx) | [A Spiral Walk](https://open.spotify.com/artist/3lpNZTLYjKGqkq6wpSB8zm), [mayo](https://open.spotify.com/artist/2DJJyrhB4PVfAfDFYoVkkd), [CAH](https://open.spotify.com/artist/2usfHwRw9IwHk4PRPA142b) | [Summer of Insomnia](https://open.spotify.com/album/4SiL6c2ShzI1qKXzJKUALv) | 3:19 | 2026-05-11 |  |
+| [CALL](https://open.spotify.com/track/1bsipxUMmK7w0qNC6isiVx) | [A Spiral Walk](https://open.spotify.com/artist/3lpNZTLYjKGqkq6wpSB8zm), [mayo](https://open.spotify.com/artist/2DJJyrhB4PVfAfDFYoVkkd), [CAH](https://open.spotify.com/artist/2usfHwRw9IwHk4PRPA142b) | [Summer of Insomnia](https://open.spotify.com/album/4SiL6c2ShzI1qKXzJKUALv) | 3:19 | 2026-05-11 | 2026-05-30 |
 | [CAPSAICINA](https://open.spotify.com/track/2eNEduHKEjdyD7uDhWGoa8) | [Eigen Risico](https://open.spotify.com/artist/11wm7DCgeKiysJPg0tpN2E) | [EIGEN RISICO 3](https://open.spotify.com/album/3elHSIIOjgCb8mYc3yZO65) | 3:12 | 2025-05-07 | 2026-05-12 |
 | [Cavalry’s coming \- Cavalerie Remix](https://open.spotify.com/track/408HYIUmRaYQ2v3kSKGDmW) | [Primaat](https://open.spotify.com/artist/6J0yzuCa1ID2YLUAk4gT3u), [Dracula’s Beach Party](https://open.spotify.com/artist/4Akg5lhAgidpKeWigYL9j1) | [RE: Hoe vind je zelf dat het gaat](https://open.spotify.com/album/70Y58TfAmKkrmmCtQE7OCc) | 4:25 | 2026-05-11 |  |
 | [Cemetery Caretaker](https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV) | [Mo Bedick](https://open.spotify.com/artist/5I603otxzNxlCw0YbgcqYE) | [Whirligig](https://open.spotify.com/album/3hE04LDpNwaG2u29p15JbK) | 3:47 | 2024-07-01 | 2025-05-08 |
@@ -264,6 +264,7 @@
 | [Pieces](https://open.spotify.com/track/3pqPxWrCyUNb2wNhjF7qD8) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Pieces](https://open.spotify.com/album/5w0aKShwOj6hWC1w7I0z6O) | 3:16 | 2024-07-01 | 2025-05-08 |
 | [Pinch Me](https://open.spotify.com/track/4zjg3PG8mgaerssPLkP83v) | [Zo Lief](https://open.spotify.com/artist/655lv153aeepabVfhjnGwq) | [Pinch Me](https://open.spotify.com/album/6sR6bqWgWtc5zdBzHqde0b) | 3:03 | 2024-09-16 | 2025-05-08 |
 | [Please you](https://open.spotify.com/track/1peAGEGBN18t9MvSy5IfEf) | [Angelo Benson](https://open.spotify.com/artist/39ezwXVf2OepH5ZvJUzUvs) | [Please you](https://open.spotify.com/album/6BWRoWNORPpY8CcSpgfv18) | 4:02 | 2026-05-11 |  |
+| [Polder](https://open.spotify.com/track/4iJt3YH8EdjL5dcuknBfu4) | [CAH](https://open.spotify.com/artist/1w8sqAm1Y1fim0Dy17oBfr) | [CAH](https://open.spotify.com/album/39xFSYTYNTFyoRips5vQTu) | 3:48 | 2026-05-29 |  |
 | [PONCHO](https://open.spotify.com/track/19FXmyBwozudmHoagcDNXC) | [PXRPLE JAZZ](https://open.spotify.com/artist/4b3ke64kqHkuOMPtuEZIvZ) | [EP1](https://open.spotify.com/album/7xWofDr8zQrH2EZzjMApiZ) | 2:25 | 2024-07-01 | 2025-05-08 |
 | [Purge](https://open.spotify.com/track/31vaGk9YGSuqQK5LpwjJNS) | [Inherited](https://open.spotify.com/artist/6sExtUwI4txxfCTJM0tp02) | [No Regrets](https://open.spotify.com/album/46WpjJrm3eIQkXF1lSggCg) | 2:32 | 2025-05-07 | 2026-05-12 |
 | [Pushen in WW](https://open.spotify.com/track/6oS4HdsQYswzyycZ5IrjGI) | [Vegan Music](https://open.spotify.com/artist/4QaDqUig4hQ0OARX0CCYVG) | [Pushen in WW](https://open.spotify.com/album/6HomKcDgbpxWdPqXfAi6pH) | 2:13 | 2025-05-07 | 2025-09-17 |

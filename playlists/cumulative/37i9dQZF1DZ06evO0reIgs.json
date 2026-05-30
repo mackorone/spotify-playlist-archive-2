@@ -1212,10 +1212,32 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 202108,
       "name": "Jurei/Odin",
       "url": "https://open.spotify.com/track/1Zd1T3T45QW6Pv8U0l0uPT"
+    },
+    {
+      "album": {
+        "name": "Col\u00edrio da C\u00f3lera",
+        "url": "https://open.spotify.com/album/2PmgQahqFIrluuyIu9xHEW"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202108,
+      "name": "Jurei/Odin",
+      "url": "https://open.spotify.com/track/1hpujZfaZr8hikiiYaEFjs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playli..\. DODODOK!
 
-128 songs - 5 hr 57 min
+130 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Blue Flame \(Japanese ver.\)](https://open.spotify.com/track/1nCcwtlNAPrgQnMXilDo10) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4xfupa1EtOtNuKYtoBMy7i) | 3:21 | 2024-03-29 |  |
 | [Blue Flame \- Japanese ver.](https://open.spotify.com/track/6FnZShD1O17bZa9emuXLXh) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4db6bVyZTtbpZjsCQGyZpl) | 3:21 | 2023-05-01 | 2024-04-19 |
 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 | 2026-05-26 |  |
+| [BOOMPALA \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/4RpHkKbIFAc96Q2ep2eg6y) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BOOMPALA \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/3SheoOcRqSqoeJdvfhZPHo) | 3:02 | 2026-05-29 |  |
 | [BOOMPALA \(HONG EUNCHAE ver.\)](https://open.spotify.com/track/0TKHPjXbQoDZXM5tqUGbuj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BOOMPALA \(LE SSERAFIM Packages\)](https://open.spotify.com/album/75hJprktMQH4gn3lhgtemt) | 3:40 | 2026-05-26 |  |
 | [BOOMPALA \(HUH YUNJIN ver.\)](https://open.spotify.com/track/6Rh57nydhtGY7iBQTj3kGF) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BOOMPALA \(LE SSERAFIM Packages\)](https://open.spotify.com/album/75hJprktMQH4gn3lhgtemt) | 1:58 | 2026-05-26 |  |
 | [BOOMPALA \(Instrumental\)](https://open.spotify.com/track/51xcAouzzzodU5HAoBAHR3) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BOOMPALA \(Remixes\)](https://open.spotify.com/album/742CzMg7nWRm2ClrwEgUGu) | 2:56 | 2026-05-26 |  |
@@ -128,6 +129,7 @@
 | [spruce \(feat\. KIM CHAEWON\)](https://open.spotify.com/track/1LEeMr3Fpq8wH7j4Wbirew) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [KIM CHAEWON](https://open.spotify.com/artist/39j6wByxxNDb92rODch4mT) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:43 | 2024-06-25 |  |
 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/album/2JvE7wdlDjKxadK7Y95xpQ) | 2:53 | 2024-06-25 |  |
 | [Swan Song](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:37 | 2024-02-20 |  |
+| [Talk with LE SSERAFIM \(at PURE FLOWERS LIVE\)](https://open.spotify.com/episode/6UogqjJnnqR2zS4FRcCKRT) | [K\-Pop ON! Video Podcast](https://open.spotify.com/show/35ltzomNTBi2lqCtoL4Drt) | [K\-Pop ON! Video Podcast](https://open.spotify.com/album/35ltzomNTBi2lqCtoL4Drt) | 24:31 | 2026-05-29 |  |
 | [The Great Mermaid](https://open.spotify.com/track/5XO1SOADQxkdqGLFxX8rLN) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:57 | 2023-05-01 |  |
 | [The Hydra](https://open.spotify.com/track/0JosgxxZKZ87QbW5TISJDE) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 1:44 | 2023-05-01 |  |
 | [The World Is My Oyster](https://open.spotify.com/track/4Rrv9oNClBhzKRfKwdkg99) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 1:46 | 2023-05-01 |  |

@@ -226,7 +226,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 192214,
       "name": "9-5",
       "url": "https://open.spotify.com/track/4fJeNtJnafDGNpbrOKEhQi"
@@ -3738,7 +3738,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 241000,
       "name": "Emoji",
       "url": "https://open.spotify.com/track/1WgkRboDwSJLVKvv9bthvR"
@@ -3774,7 +3774,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 251134,
       "name": "Ether",
       "url": "https://open.spotify.com/track/0Kcn243BBpYS1CaZI3WHMn"
@@ -4483,6 +4483,24 @@
     },
     {
       "album": {
+        "name": "Goma",
+        "url": "https://open.spotify.com/album/1VqbZQicfqY4QzX5JyKGYB"
+      },
+      "artists": [
+        {
+          "name": "Moonstar88",
+          "url": "https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153213,
+      "name": "Goma",
+      "url": "https://open.spotify.com/track/7knz5IqhMTzfP5078awLue"
+    },
+    {
+      "album": {
         "name": "Good Things Take Time (feat. Wez Atlas & bbgriri)",
         "url": "https://open.spotify.com/album/1tlzbwcDxNp7HRpWdZG6l9"
       },
@@ -4650,7 +4668,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 191377,
       "name": "Gusto Mo Ba Ako",
       "url": "https://open.spotify.com/track/1G53ptsyAHZPp95lLzNK5J"
@@ -5776,6 +5794,24 @@
       "duration_ms": 194459,
       "name": "I'll Be Somebody You Want",
       "url": "https://open.spotify.com/track/7xCg44FlaaWMkyfAWhoSL1"
+    },
+    {
+      "album": {
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/5kADYxG8soPuGgiaZM4jqf"
+      },
+      "artists": [
+        {
+          "name": "jikamarie",
+          "url": "https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150638,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/2L0hF2UfJsSZEMeroy97Bv"
     },
     {
       "album": {
@@ -10842,7 +10878,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 216000,
       "name": "Paalam Na",
       "url": "https://open.spotify.com/track/6nb82LQFtFOniyiGe1AKxC"
@@ -10976,6 +11012,24 @@
       "duration_ms": 207313,
       "name": "Pag-Ibig ay Kanibalismo II",
       "url": "https://open.spotify.com/track/6GRxn0Cvq5RNXMqINqmdg7"
+    },
+    {
+      "album": {
+        "name": "IT STARTS WITH A WINK",
+        "url": "https://open.spotify.com/album/4YR7xycIlOYT3Nn738VvSN"
+      },
+      "artists": [
+        {
+          "name": "VVINK",
+          "url": "https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188444,
+      "name": "Pag-ibig Fun",
+      "url": "https://open.spotify.com/track/6YEqmic5LtdlOcaCqR9lA2"
     },
     {
       "album": {
@@ -11633,6 +11687,28 @@
     },
     {
       "album": {
+        "name": "Papel (Kinikimkim to)",
+        "url": "https://open.spotify.com/album/3BkP9Ev4WtNhNaXKHqtN3c"
+      },
+      "artists": [
+        {
+          "name": "Yden",
+          "url": "https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164729,
+      "name": "Papel (Kinikimkim to)",
+      "url": "https://open.spotify.com/track/0wC0zZmPEgN6eKY2cSNFGQ"
+    },
+    {
+      "album": {
         "name": "PARA",
         "url": "https://open.spotify.com/album/1gXCHmMxsmCsSugOVOXXUx"
       },
@@ -12280,7 +12356,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 218117,
       "name": "Pipiliin",
       "url": "https://open.spotify.com/track/0v8aGaYwqT9nbHYwh5WLAn"
@@ -12768,6 +12844,24 @@
       "duration_ms": 163448,
       "name": "Reyna Ng Quezon City",
       "url": "https://open.spotify.com/track/6x5iYjQE42FToFSUmcOvdw"
+    },
+    {
+      "album": {
+        "name": "Richest Man Alive",
+        "url": "https://open.spotify.com/album/68rmFBaOjglMNs6ETCllaq"
+      },
+      "artists": [
+        {
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149998,
+      "name": "Richest Man Alive",
+      "url": "https://open.spotify.com/track/2ryDLznKOALt5tBrJznBXv"
     },
     {
       "album": {
@@ -14964,7 +15058,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 214223,
       "name": "Tabi!",
       "url": "https://open.spotify.com/track/3aO6rk9KOQFt9D2GDoKrL8"
@@ -15589,6 +15683,24 @@
     },
     {
       "album": {
+        "name": "teka lang",
+        "url": "https://open.spotify.com/album/2CTm35u9x6Tk5mXZHhwmvs"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186136,
+      "name": "teka lang",
+      "url": "https://open.spotify.com/track/5zkqGMHs0EGafwqutNd7Gu"
+    },
+    {
+      "album": {
         "name": "Teka Muna (Sandali)",
         "url": "https://open.spotify.com/album/7z1kAAlmgAzjaP8zVSHw65"
       },
@@ -16020,7 +16132,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 206997,
       "name": "Trip Lang (feat. Raymund Marasigan)",
       "url": "https://open.spotify.com/track/0dYTBFF7vWGJYIJrewg3Lp"
@@ -16578,7 +16690,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 299459,
       "name": "Uwi Ka Na (Sa Akin)",
       "url": "https://open.spotify.com/track/6UrifhMFxklwSPuHSZF0BO"
@@ -17220,6 +17332,28 @@
       "duration_ms": 135246,
       "name": "Young Stunna",
       "url": "https://open.spotify.com/track/277r2K987DGP10pPO7U1Er"
+    },
+    {
+      "album": {
+        "name": "your playlist is a lie",
+        "url": "https://open.spotify.com/album/05MD4lnSBfqHGV6pYldPSa"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        },
+        {
+          "name": "Barbie Almalbis",
+          "url": "https://open.spotify.com/artist/6XMiJRtSvw0PYHOBSBEsMg"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "your playlist is a lie",
+      "url": "https://open.spotify.com/track/7rtzMVusuwTZtK2crtdtpO"
     },
     {
       "album": {

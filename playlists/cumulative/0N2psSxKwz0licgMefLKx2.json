@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The biggest Country hits of the year! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Shania Twain",
+  "description": "The biggest Country hits of the year! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross",
   "name": "2026 COUNTRY BANGERS \ud83e\udd20\ud83d\udd25",
   "tracks": [
     {
@@ -186,10 +186,32 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 187917,
       "name": "Ain't A Bad Life",
       "url": "https://open.spotify.com/track/0tKsXVJc0aqLQ2NYOIOTPt"
+    },
+    {
+      "album": {
+        "name": "About A Woman (Deluxe)",
+        "url": "https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187917,
+      "name": "Ain't A Bad Life",
+      "url": "https://open.spotify.com/track/59Wet0esLvTyJBhCjpXuUe"
     },
     {
       "album": {
@@ -348,7 +370,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 255712,
       "name": "American Trail",
       "url": "https://open.spotify.com/track/7JkuiX3FkJXUhGgLrJRYE3"
@@ -1254,7 +1276,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 208425,
       "name": "Coming Home To You (Bigger Houses) [feat. Owen Riegling]",
       "url": "https://open.spotify.com/track/6Fsa84KVrTjU9B1ZcppFsT"
@@ -1575,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "There I Go",
+        "url": "https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217446,
+      "name": "Damned If I Do",
+      "url": "https://open.spotify.com/track/5Lf0Hm3SuFxFzjfhg0Sous"
+    },
+    {
+      "album": {
         "name": "Damned If I Do",
         "url": "https://open.spotify.com/album/5QLiMcqQ9ompXCxU0UxIZF"
       },
@@ -1586,7 +1626,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 217446,
       "name": "Damned If I Do",
       "url": "https://open.spotify.com/track/7mxctiYgZD9JtvEZBJWoAW"
@@ -1965,6 +2005,24 @@
     },
     {
       "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197681,
+      "name": "Dry Spell",
+      "url": "https://open.spotify.com/track/1iZxQqbalIOYwcMWw4NccR"
+    },
+    {
+      "album": {
         "name": "Dry Spell",
         "url": "https://open.spotify.com/album/7uAm8mFfM9kP4ypzP3ZxMS"
       },
@@ -1976,7 +2034,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 197681,
       "name": "Dry Spell",
       "url": "https://open.spotify.com/track/3q5qgzl5xwEtbrZVi3agEJ"
@@ -2494,7 +2552,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 201468,
       "name": "Give 'Er Hell",
       "url": "https://open.spotify.com/track/2J7NJLFcFGVh41lRSN442s"
@@ -3230,10 +3288,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 197133,
       "name": "I Am Not Okay",
       "url": "https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9"
+    },
+    {
+      "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "I Am Not Okay",
+      "url": "https://open.spotify.com/track/3SaS0Va6o6jYkWvadT86C6"
     },
     {
       "album": {
@@ -5023,6 +5099,24 @@
     },
     {
       "album": {
+        "name": "Nothing On Me",
+        "url": "https://open.spotify.com/album/7hwI2tNyQeVRShLYQrVoxv"
+      },
+      "artists": [
+        {
+          "name": "Tony Stevens",
+          "url": "https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156754,
+      "name": "Nothing On Me",
+      "url": "https://open.spotify.com/track/1V5SxmanpeqEjZIUfCWp5T"
+    },
+    {
+      "album": {
         "name": "Trouble Is",
         "url": "https://open.spotify.com/album/7kDzDEi9qffLWSMeLPkEMZ"
       },
@@ -6190,10 +6284,32 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 150218,
       "name": "Small Town Girls",
       "url": "https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD"
+    },
+    {
+      "album": {
+        "name": "About A Woman (Deluxe)",
+        "url": "https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150218,
+      "name": "Small Town Girls",
+      "url": "https://open.spotify.com/track/75LqHkS2ceWCh3iQmg9KDV"
     },
     {
       "album": {
@@ -6269,6 +6385,24 @@
     },
     {
       "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180633,
+      "name": "Somebody I Know",
+      "url": "https://open.spotify.com/track/3I89hHuoP3VSuH5lMPJwuP"
+    },
+    {
+      "album": {
         "name": "Somebody I Know",
         "url": "https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e"
       },
@@ -6280,7 +6414,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 180633,
       "name": "Somebody I Know",
       "url": "https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv"
@@ -6530,10 +6664,28 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 247279,
       "name": "Stand By Me - Live at The Print Shop",
       "url": "https://open.spotify.com/track/67hKxSwcDqnccdCBzYaLsS"
+    },
+    {
+      "album": {
+        "name": "s\u00f8n of dad (deluxe)",
+        "url": "https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247280,
+      "name": "Stand By Me - Live at The Print Shop",
+      "url": "https://open.spotify.com/track/72RX8sK4OKFnUX2MBDOdBD"
     },
     {
       "album": {
@@ -7387,6 +7539,24 @@
     },
     {
       "album": {
+        "name": "Wanted Me To Be",
+        "url": "https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185169,
+      "name": "Wanted Me To Be",
+      "url": "https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD"
+    },
+    {
+      "album": {
         "name": "Watermelon Moonshine",
         "url": "https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82"
       },
@@ -7674,6 +7844,24 @@
     {
       "album": {
         "name": "Somewhere in a Small Town",
+        "url": "https://open.spotify.com/album/5Ia42Ht7CTQSy5LCUVtgSc"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177175,
+      "name": "When You Know You Know",
+      "url": "https://open.spotify.com/track/32sIMbP91MRYwlQ92UfYZL"
+    },
+    {
+      "album": {
+        "name": "Somewhere in a Small Town",
         "url": "https://open.spotify.com/album/1ylNEY1dGx6301ItDwc3th"
       },
       "artists": [
@@ -7684,7 +7872,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 177175,
       "name": "When You Know You Know",
       "url": "https://open.spotify.com/track/57t1RzKv09qhtwW9NANXV0"
@@ -8088,10 +8276,28 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 189638,
       "name": "You Didn\u2019t Hear It From Me",
       "url": "https://open.spotify.com/track/0PgTSyiKAXgguGdMTRnW5i"
+    },
+    {
+      "album": {
+        "name": "One Of Us",
+        "url": "https://open.spotify.com/album/1JusbAeAs7tTPKAn0Y6iiA"
+      },
+      "artists": [
+        {
+          "name": "James Barker Band",
+          "url": "https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189638,
+      "name": "You Didn\u2019t Hear It From Me",
+      "url": "https://open.spotify.com/track/3nf11phTAo1DOMNwEWCBBf"
     },
     {
       "album": {

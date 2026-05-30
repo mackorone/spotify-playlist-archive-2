@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Bebe Stockwell",
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: corook",
   "name": "Folk Pop",
   "tracks": [
     {
@@ -2854,6 +2854,24 @@
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "album": {
+        "name": "Fallen Angel",
+        "url": "https://open.spotify.com/album/3ZLm8xE9pOYo3HRRI1pXbX"
+      },
+      "artists": [
+        {
+          "name": "Baby J",
+          "url": "https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Fallen Angel",
+      "url": "https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc"
     },
     {
       "album": {
@@ -7423,6 +7441,24 @@
     },
     {
       "album": {
+        "name": "How do I relate to you?",
+        "url": "https://open.spotify.com/album/4xiUQNTYDIDU0Tdj5dEKq0"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164486,
+      "name": "Relate to you",
+      "url": "https://open.spotify.com/track/3G7D8chDbs0e3ho8U1uN8B"
+    },
+    {
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -9576,7 +9612,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 239265,
       "name": "time zones",
       "url": "https://open.spotify.com/track/4PwAIYkeLM1dxVpSpw9mno"
@@ -10770,7 +10806,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 194533,
       "name": "You Again",
       "url": "https://open.spotify.com/track/1Ki5PqMFMTKQfjB1uet9pG"

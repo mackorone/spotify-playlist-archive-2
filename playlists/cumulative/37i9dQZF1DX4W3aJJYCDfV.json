@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-01",
-  "description": "Brand new music from Skye Newman, Ezra Collective, Jungle and more!",
+  "description": "Brand new music from Ariana Grande, Skye Newman, Ezra Collective, Jungle and more! ",
   "name": "New Music Friday UK",
   "tracks": [
     {
@@ -157571,6 +157571,24 @@
     },
     {
       "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "album": {
         "name": "Hate This Song",
         "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
       },
@@ -162212,6 +162230,24 @@
       "duration_ms": 203853,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/4eawBBIL0VXLktBvSgdrBM"
+      },
+      "artists": [
+        {
+          "name": "JrodBroccoli",
+          "url": "https://open.spotify.com/artist/0ht1thNgu836B6AYsXbt1K"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/5ASzHE878PA0otam9gN50R"
     },
     {
       "album": {
@@ -170873,24 +170909,6 @@
     },
     {
       "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 191786,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
-    },
-    {
-      "album": {
         "name": "Hostage",
         "url": "https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G"
       },
@@ -170906,6 +170924,28 @@
       "duration_ms": 208747,
       "name": "Hostage",
       "url": "https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f"
+    },
+    {
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "Hostage (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
     },
     {
       "album": {
@@ -191222,6 +191262,24 @@
       "duration_ms": 149957,
       "name": "In Tune",
       "url": "https://open.spotify.com/track/2o5HG1fr3Xlqq0KwOiZCKP"
+    },
+    {
+      "album": {
+        "name": "She Won't Let Go",
+        "url": "https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD"
+      },
+      "artists": [
+        {
+          "name": "SISTRA",
+          "url": "https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147800,
+      "name": "In Two",
+      "url": "https://open.spotify.com/track/2chCyZz2DG5uRasGN40x28"
     },
     {
       "album": {
@@ -242893,6 +242951,24 @@
     },
     {
       "album": {
+        "name": "ghosted - EP",
+        "url": "https://open.spotify.com/album/1FI0XA7lmm54RaMcucVBBe"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179697,
+      "name": "minute",
+      "url": "https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo"
+    },
+    {
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/4GCl2J72Hzykrt4Ajv0rJU"
       },
@@ -282934,6 +283010,24 @@
       "duration_ms": 185142,
       "name": "Paper Aeroplanes",
       "url": "https://open.spotify.com/track/6AKGTDgdHJgSIt8YKIeoyn"
+    },
+    {
+      "album": {
+        "name": "Paper Angel",
+        "url": "https://open.spotify.com/album/4Hw8c99W3ZggHWWSJVQSrG"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Kemplay",
+          "url": "https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187568,
+      "name": "Paper Angel",
+      "url": "https://open.spotify.com/track/5zlazJ9iry3BYlq5ZcpbAy"
     },
     {
       "album": {
@@ -380359,6 +380453,24 @@
     },
     {
       "album": {
+        "name": "mind the gap",
+        "url": "https://open.spotify.com/album/7CoasIpZcrXKpeVtDwj77H"
+      },
+      "artists": [
+        {
+          "name": "Reuben Aziz",
+          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95238,
+      "name": "thru the valley",
+      "url": "https://open.spotify.com/track/6S0k9l9BftuJKd6GxKOdrz"
+    },
+    {
+      "album": {
         "name": "Thru U",
         "url": "https://open.spotify.com/album/0XU45Y4lUnPnLoLtacVDJ6"
       },
@@ -387222,60 +387334,6 @@
       "duration_ms": 246078,
       "name": "Tracing Lines",
       "url": "https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL"
-    },
-    {
-      "album": {
-        "name": "mind the gap",
-        "url": "https://open.spotify.com/album/7CoasIpZcrXKpeVtDwj77H"
-      },
-      "artists": [
-        {
-          "name": "Reuben Aziz",
-          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/6S0k9l9BftuJKd6GxKOdrz"
-    },
-    {
-      "album": {
-        "name": "ghosted - EP",
-        "url": "https://open.spotify.com/album/1FI0XA7lmm54RaMcucVBBe"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo"
-    },
-    {
-      "album": {
-        "name": "She Won't Let Go",
-        "url": "https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD"
-      },
-      "artists": [
-        {
-          "name": "SISTRA",
-          "url": "https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/2chCyZz2DG5uRasGN40x28"
     },
     {
       "album": {

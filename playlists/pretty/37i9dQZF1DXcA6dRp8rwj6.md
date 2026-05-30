@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Future, Tyla\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,240 likes - 97 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,257 likes - 97 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Game Time \(FIFA World Cup 2026™\)](https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e) | 3:26 |
 | 2 | [Janice STFU](https://open.spotify.com/track/514joG57v4yKTsfQmz7stz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:57 |
-| 3 | [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
+| 3 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 4 | [You See What We On](https://open.spotify.com/track/4bz9cqkDPA4RpfBuX9LrPa) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [John Mackk](https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw) | [You See What We On](https://open.spotify.com/album/5Oxu7KLIM4Y797UzdkCUDL) | 3:25 |
 | 5 | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 |
 | 6 | [24 Hours](https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [24 Hours](https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP) | 3:17 |

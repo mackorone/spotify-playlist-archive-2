@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New music from OLIVIA, Laura Tesoro, S10 & Oscar and the Wolf and more...",
+  "description": "New music from OLIVIA, Ariana Grande, Laura Tesoro, S10 & Oscar and the Wolf and more...",
   "name": "New Music Friday BE",
   "tracks": [
     {
@@ -1941,7 +1941,7 @@
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 200705,
+      "duration_ms": 201395,
       "name": "3.2.1.",
       "url": "https://open.spotify.com/track/43rUu8SDkrSuyNiq7NspwF"
     },
@@ -13256,6 +13256,24 @@
       "duration_ms": 186475,
       "name": "Ayi Giri",
       "url": "https://open.spotify.com/track/5xqjH87yvNSUWHN8ezvlpb"
+    },
+    {
+      "album": {
+        "name": "AYO",
+        "url": "https://open.spotify.com/album/5OK7TLDVBCq1qyK3TYwauP"
+      },
+      "artists": [
+        {
+          "name": "Dyce",
+          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121258,
+      "name": "AYO",
+      "url": "https://open.spotify.com/track/5u35BfpMLQAcaVI6BihEvV"
     },
     {
       "album": {
@@ -69015,6 +69033,24 @@
     },
     {
       "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "album": {
         "name": "Hate To Love",
         "url": "https://open.spotify.com/album/5AXLTxMpHICBifTJXDESzS"
       },
@@ -74402,13 +74438,17 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191786,
-      "name": "Hostage",
+      "name": "Hostage (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
     },
     {
@@ -84044,6 +84084,24 @@
       "duration_ms": 160270,
       "name": "Isabelle",
       "url": "https://open.spotify.com/track/61hCrar05r0Wsy6E2BuCmq"
+    },
+    {
+      "album": {
+        "name": "Welcome to the Mood (Special Edition)",
+        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183733,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
     },
     {
       "album": {
@@ -95538,6 +95596,28 @@
       "duration_ms": 159240,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/5wW92RgvtGIsbmX6CUlLHy"
+    },
+    {
+      "album": {
+        "name": "LEMONADE - The 2nd Album",
+        "url": "https://open.spotify.com/album/5dscbWbSUuO5SNnrtiCVSB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "LEMONADE (feat. Becky G)",
+      "url": "https://open.spotify.com/track/4X0AxVnhlkSd4ggu78Tir1"
     },
     {
       "album": {
@@ -128046,6 +128126,28 @@
       "duration_ms": 144004,
       "name": "Oublier",
       "url": "https://open.spotify.com/track/0COOpYVrr8jb7eR7GWZWZa"
+    },
+    {
+      "album": {
+        "name": "Binnenspiegel",
+        "url": "https://open.spotify.com/album/5GvmLsZrOqYqGD2Hz0eGyl"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Kaya Imani",
+          "url": "https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185470,
+      "name": "Oude Liefde Roest Niet",
+      "url": "https://open.spotify.com/track/5TIZfbC0VLJXwLnAa6NApJ"
     },
     {
       "album": {
@@ -164439,6 +164541,24 @@
     },
     {
       "album": {
+        "name": "Talk On The Hill",
+        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207774,
+      "name": "Talk On The Hill",
+      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
+    },
+    {
+      "album": {
         "name": "somebody's daughter",
         "url": "https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK"
       },
@@ -166091,7 +166211,7 @@
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 153648,
+      "duration_ms": 155476,
       "name": "Tellement",
       "url": "https://open.spotify.com/track/07x8McckfT6GnTn2V1L3Ew"
     },
@@ -175941,7 +176061,7 @@
     },
     {
       "album": {
-        "name": "traces",
+        "name": "traces (feat. Molina)",
         "url": "https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV"
       },
       "artists": [
@@ -175958,62 +176078,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187500,
-      "name": "traces",
+      "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
-    },
-    {
-      "album": {
-        "name": "AYO",
-        "url": "https://open.spotify.com/album/5OK7TLDVBCq1qyK3TYwauP"
-      },
-      "artists": [
-        {
-          "name": "Dyce",
-          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5u35BfpMLQAcaVI6BihEvV"
-    },
-    {
-      "album": {
-        "name": "Welcome to the Mood (Special Edition)",
-        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 14",
-      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
-    },
-    {
-      "album": {
-        "name": "Binnenspiegel",
-        "url": "https://open.spotify.com/album/5GvmLsZrOqYqGD2Hz0eGyl"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/5TIZfbC0VLJXwLnAa6NApJ"
     },
     {
       "album": {

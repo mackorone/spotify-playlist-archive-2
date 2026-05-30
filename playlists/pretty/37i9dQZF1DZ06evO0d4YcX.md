@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 
 > This is Amber Mark\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,373 likes - 48 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,375 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 25 | [Stop Calling Me](https://open.spotify.com/track/6SXLH5379TcMvuWp1RVsnt) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:31 |
 | 26 | [Way Back](https://open.spotify.com/track/15ahKSfjvqH5hfsnjyoASJ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:28 |
 | 27 | [Competition](https://open.spotify.com/track/7KoTZO2hKMS4hUTbdnHb16) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 3:22 |
-| 28 | [Space & Time](https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Space & Time](https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l) | 3:03 |
+| 28 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 |
 | 29 | [A Little More](https://open.spotify.com/track/5VvMjagk1oBlUG1yQ9lXKJ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 3:13 |
 | 30 | [Monsoon](https://open.spotify.com/track/04G8U1rkNbiiLNsWo2doW2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Mia Mark](https://open.spotify.com/artist/6p0LCYIWaoyyUGdwra3DF1) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 4:37 |
-| 31 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 |
+| 31 | [Space & Time](https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Space & Time](https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l) | 3:03 |
 | 32 | [Put You On](https://open.spotify.com/track/59nJ265OcQ7Rrms09xk8LO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Put You On](https://open.spotify.com/album/7xfpXfwN3bC3OgtU8dR2Xm) | 3:44 |
 | 33 | [City Starlight](https://open.spotify.com/track/6MgnX2FYtJCP61pjl8tj0D) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 3:31 |
 | 34 | [Like A Hunger](https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA) | [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Like A Hunger](https://open.spotify.com/album/7wWi3qsBhpW0HWrUgOSzz3) | 4:32 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 47 | [Heatwave](https://open.spotify.com/track/5DQ45iTgC4PgcaYt89gg6y) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heatwave](https://open.spotify.com/album/4g9FEP9LOTOblQ8ni00ymY) | 4:29 |
 | 48 | [Regret](https://open.spotify.com/track/4wQp3kcxjM778uwcymCXK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:23 |
 
-Snapshot ID: `ahY0AAAAAAAqtDnkgTonJ7Gk1FmlYj6j`
+Snapshot ID: `aheFgAAAAABuzp3z1oJjxPshNWdUYQgj`

@@ -4,7 +4,7 @@
 
 > Kim Petras is this week's evolving icon 🔂
 
-2,282 songs - 4 day 18 hr 1 min
+2,282 songs - 4 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1053,6 +1053,7 @@
 | [In The Kitchen](https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:47 | 2023-01-06 | 2023-04-29 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-29 | 2022-07-30 |
 | [In This Darkness](https://open.spotify.com/track/6qrcJkIpuWpxH0ruS8WVAy) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [In This Darkness](https://open.spotify.com/album/1oWMwzvnFWUv9NsSkQPKRT) | 3:17 | 2023-05-05 | 2023-07-29 |
+| [In Two](https://open.spotify.com/track/2chCyZz2DG5uRasGN40x28) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [She Won't Let Go](https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD) | 2:27 | 2026-05-28 |  |
 | [indieedgycool](https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:26 | 2022-10-14 | 2022-10-29 |
 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 | 2022-08-12 | 2022-10-16 |
 | [Infohazard](https://open.spotify.com/track/51e5r0rQraYmN6zflHv9mN) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Infohazard](https://open.spotify.com/album/4BKbfIYLYdEWatTBcXtogQ) | 4:29 | 2025-07-17 | 2025-08-08 |
@@ -2094,7 +2095,6 @@
 | [top gun](https://open.spotify.com/track/5DZLRMLNeGRS73q0psBiBq) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [top gun](https://open.spotify.com/album/3yCB0HDiI8ilckWy85Em4u) | 2:21 | 2022-10-07 | 2022-11-05 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 | 2024-12-21 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-03-07 |
-| [Track 7](https://open.spotify.com/track/2chCyZz2DG5uRasGN40x28) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [She Won't Let Go](https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD) | 0:00 | 2026-05-28 |  |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-19 | 2024-04-10 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-17 | 2025-03-07 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-07-05 | 2024-12-21 |

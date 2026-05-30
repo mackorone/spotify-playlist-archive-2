@@ -1,6 +1,6 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 11069881,
+  "num_followers": 11069995,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,26 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
-        "name": "I Don't Wanna Wait",
-        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 149667,
-      "name": "I Don't Wanna Wait",
-      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 319191,
       "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
-        "name": "Vois sur ton chemin (Techno Mix)",
-        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 178156,
-      "name": "Vois sur ton chemin - Techno Mix",
-      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -1247,18 +1247,22 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
-        "name": "Ca$ino",
-        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
+        "name": "Still Into You",
+        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
         }
       ],
-      "duration_ms": 260825,
-      "name": "Ca$ino",
-      "url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
+      "duration_ms": 151875,
+      "name": "Still Into You",
+      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -1283,38 +1287,18 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
-        "name": "Still Into You",
-        "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
+        "name": "Ca$ino",
+        "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         }
       ],
-      "duration_ms": 151875,
-      "name": "Still Into You",
-      "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 227239,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
+      "duration_ms": 260825,
+      "name": "Ca$ino",
+      "url": "https://open.spotify.com/track/3VW6HJYa5l0uzGcCRA222P"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -1335,6 +1319,22 @@
       "duration_ms": 136666,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 227239,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
+        "name": "Dark Thoughts",
+        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 136991,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
-        "name": "Dark Thoughts",
-        "url": "https://open.spotify.com/album/7BnNV4WZAG7rFqUeMHRdUP"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 136991,
-      "name": "Dark Thoughts",
-      "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
+        "name": "No Face",
+        "url": "https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "No Face",
+      "url": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
         "name": "That's When You Know",
         "url": "https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 193842,
       "name": "That's When You Know",
       "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
-        "name": "No Face",
-        "url": "https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "No Face",
-      "url": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
+        "name": "BIANCA (Extended)",
+        "url": "https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 168533,
+      "name": "WE ON GO",
+      "url": "https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -1979,22 +1995,6 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
-        "name": "BIANCA (Extended)",
-        "url": "https://open.spotify.com/album/3ZZPAolaVt6yBMsk84BeK1"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 168533,
-      "name": "WE ON GO",
-      "url": "https://open.spotify.com/track/6g4EPHt65k6X0BgLGzP1KW"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
         "name": "Bulletproof",
         "url": "https://open.spotify.com/album/5TSSlGJmfkBNC4M3uoMswL"
       },
@@ -2011,6 +2011,22 @@
       "duration_ms": 162213,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -2035,18 +2051,18 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
+      "duration_ms": 142702,
+      "name": "Yeah Glo!",
+      "url": "https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -2071,18 +2087,18 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+        "name": "Astronaut In The Ocean",
+        "url": "https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA"
       },
       "artists": [
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
         }
       ],
-      "duration_ms": 142702,
-      "name": "Yeah Glo!",
-      "url": "https://open.spotify.com/track/5A8xI7PN4WDe9e61xEdt94"
+      "duration_ms": 132780,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -2107,22 +2123,6 @@
       "duration_ms": 180340,
       "name": "ALL THE TIME",
       "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
-        "name": "Astronaut In The Ocean",
-        "url": "https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA"
-      },
-      "artists": [
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        }
-      ],
-      "duration_ms": 132780,
-      "name": "Astronaut In The Ocean",
-      "url": "https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -2267,18 +2267,18 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
-        "name": "What You Saying",
-        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 131729,
-      "name": "What You Saying",
-      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -2303,18 +2303,18 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
     },
     {
       "added_at": "2026-05-22 04:00:30",
@@ -2511,6 +2511,22 @@
     {
       "added_at": "2026-05-22 04:00:30",
       "album": {
+        "name": "Little Girl Gone",
+        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "duration_ms": 188596,
+      "name": "Little Girl Gone",
+      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
+    },
+    {
+      "added_at": "2026-05-22 04:00:30",
+      "album": {
         "name": "leavemealone",
         "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
       },
@@ -2547,22 +2563,6 @@
       "duration_ms": 170243,
       "name": "COOK",
       "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
-    },
-    {
-      "added_at": "2026-05-22 04:00:30",
-      "album": {
-        "name": "Little Girl Gone",
-        "url": "https://open.spotify.com/album/1vTHLsE6MttzdRfg2ZkU4I"
-      },
-      "artists": [
-        {
-          "name": "CHINCHILLA",
-          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
-        }
-      ],
-      "duration_ms": 188596,
-      "name": "Little Girl Gone",
-      "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
     },
     {
       "added_at": "2026-05-22 04:00:30",

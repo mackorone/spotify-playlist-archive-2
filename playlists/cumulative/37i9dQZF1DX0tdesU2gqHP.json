@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-12-11",
-  "description": "The best videos from the world of pop! \nMusic videos only available on Premium.",
+  "description": "The best videos from the world of pop! \n",
   "name": "Pop Music Videos",
   "tracks": [
     {
@@ -284,6 +284,28 @@
       "duration_ms": 126831,
       "name": "Call Me When You Break Up (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/6JCdIHw675Lc0u2vXzERqU"
+    },
+    {
+      "album": {
+        "name": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
+        "url": "https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163844,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae"
     },
     {
       "album": {
@@ -764,6 +786,24 @@
       "duration_ms": 170880,
       "name": "GO!",
       "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
+    },
+    {
+      "album": {
+        "name": "Handle",
+        "url": "https://open.spotify.com/album/7lnMFvhJ0IU7KbludkIay0"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Handle",
+      "url": "https://open.spotify.com/track/6NDvhN0PFBIioNAbM4EDak"
     },
     {
       "album": {
@@ -1648,7 +1688,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 235705,
       "name": "Reputation (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
@@ -1919,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "SS26",
+        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167674,
+      "name": "SS26",
+      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
+    },
+    {
+      "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
@@ -2036,6 +2094,24 @@
       "duration_ms": 238162,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/6g8bTcPOpvBK2LXbF0Q0s6"
+    },
+    {
+      "album": {
+        "name": "The Last Encounter",
+        "url": "https://open.spotify.com/album/7FxjVKOU9UL90KAwsvJ0y6"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "The Last Encounter",
+      "url": "https://open.spotify.com/track/3cKyBigEDROC8U1QrY921a"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
-297 songs - 15 hr 20 min
+298 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Cada wea k digo](https://open.spotify.com/track/2cSF8EK8nf9CPXVsyuGi2S) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf), [Saitoape](https://open.spotify.com/artist/1uXQ1A3Jy85T7cWKFvlgoU) | [Cada wea k digo](https://open.spotify.com/album/04iBMuyhgJdDWeGGlupYog) | 2:14 | 2023-06-01 | 2024-05-08 |
 | [Cali](https://open.spotify.com/track/6IWck0QI8n33UH2GZYq0HE) | [44 Kid](https://open.spotify.com/artist/6C5H5G8EN1hu9N1wtOF5Wb) | [Cali](https://open.spotify.com/album/45LvR7dWKVNLzoxFVEPwt5) | 3:12 | 2021-11-11 | 2023-06-02 |
 | [Canción para morir](https://open.spotify.com/track/7dPsBfSXOJ2cacwuhj1T4H) | [Sofía Alvez](https://open.spotify.com/artist/2mOfSQosQk4GNspOTIPx7a), [Mansalva](https://open.spotify.com/artist/27LrllSSvBViU6I1Kg7qS5) | [Canciones de tapa blanca y negra](https://open.spotify.com/album/5aWIyiQsGNQfpehfBOm8TS) | 2:02 | 2023-06-01 | 2023-08-24 |
+| [Capital](https://open.spotify.com/track/6HgoLwaS6qMbR5QlkBmVTU) | [Marcos Gaba](https://open.spotify.com/artist/1P12QdGTRg6fc7EELbk94J) | [Un Diablo Distinto](https://open.spotify.com/album/2nvfhkq2n20Bayoo6NBM0M) | 3:30 | 2026-05-29 |  |
 | [CAPITÁN](https://open.spotify.com/track/6B2HlVCB12CvtW3VJWUwVg) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [CAPITÁN](https://open.spotify.com/album/79KU6YUJgSaDPo94AjqlKz) | 3:13 | 2026-04-14 |  |
 | [Carmesí](https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Carmesí](https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9) | 2:45 | 2021-11-11 | 2023-06-02 |
 | [Casi Nunca Entiendo Nada](https://open.spotify.com/track/5DCMmMGHptS0nOmN97kIAV) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Casi Nunca Entiendo Nada](https://open.spotify.com/album/7dAANS4Pwlb9OkkkmadzsV) | 3:13 | 2021-11-11 | 2023-06-02 |
@@ -248,7 +249,7 @@
 | [Quién Pudiera?](https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph) | 3:33 | 2023-06-01 | 2024-05-08 |
 | [Quién Pudiera?](https://open.spotify.com/track/3TWAnB0Pok8EnOLimD18ue) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/5uIL8ryzMnjBbgRx7wVCwW) | 3:33 | 2023-10-05 | 2024-04-19 |
 | [QUÉ IMPORTA](https://open.spotify.com/track/5nzoLQgpSa9bwXFva3FhHE) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48) | [QUÉ IMPORTA](https://open.spotify.com/album/4WnL44xFHw4GOnm7mDlZP7) | 2:51 | 2025-05-09 |  |
-| [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 | 2025-05-09 |  |
+| [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 | 2025-05-09 | 2026-05-30 |
 | [RABIA DEL CORAZÓN](https://open.spotify.com/track/3g2XcCoWk2oYM3moTFFQoc) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BAR SCORPIOS](https://open.spotify.com/album/6Rtfa37o0kuhuso3RwimZQ) | 3:54 | 2025-05-09 |  |
 | [Random No](https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA) | [Tani](https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0) | [Random No](https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k) | 3:25 | 2021-11-11 | 2023-06-02 |
 | [Resistencia](https://open.spotify.com/track/3CDkhVrRUR1REPKi7Kft6B) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Under](https://open.spotify.com/album/6MprhJ3a5zRXj0UOF4ax5n) | 3:38 | 2021-11-11 | 2023-06-02 |

@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Skye Newman
 
-3,794 songs - 8 day 14 hr 8 min
+3,795 songs - 8 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1423,6 +1423,7 @@
 | [HARD](https://open.spotify.com/track/5AzO8bswSqsYtJIfVA2BqX) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 3:34 | 2025-11-14 | 2026-01-02 |
 | [Hard Out Here](https://open.spotify.com/track/4cjJzTza5lCcSuFOKOzZ4U) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Hard Out Here](https://open.spotify.com/album/3CoftMaewRZt7oW4cTMlv7) | 3:11 | 2022-06-30 | 2022-08-12 |
 | [Hate](https://open.spotify.com/track/0gYNMkxqYwKvUCvYfcRWLs) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Hate](https://open.spotify.com/album/4dW422TVEJ8xnLm5drc3He) | 4:04 | 2022-07-07 | 2022-08-12 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Hated](https://open.spotify.com/track/2NNq2V3PD8u55LqGs8ImU1) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hated](https://open.spotify.com/album/1Ifo5BrgTcBaUtwWj1ynhD) | 3:09 | 2023-08-25 | 2023-09-22 |
 | [Have Fun!](https://open.spotify.com/track/4GS9kA0rQsF3iAtckBXh7R) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Have Fun!](https://open.spotify.com/album/5Us2Z2hXxI3g8oAZMesqfq) | 4:30 | 2023-06-01 | 2023-06-23 |
 | [Haven't You Ever Been In Love Before?](https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:50 | 2023-05-18 | 2023-07-07 |
@@ -1547,7 +1548,7 @@
 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 | 2026-02-20 | 2026-03-27 |
 | [Horses](https://open.spotify.com/track/6GRKAd64XPuij4RWeSUhSX) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Horses](https://open.spotify.com/album/4eVDNftCpVDAzrh80ayq1D) | 5:05 | 2022-07-14 | 2022-07-29 |
 | [Horses and Divorces \(feat\. Miranda Lambert\)](https://open.spotify.com/track/44tr6kkaMRgd2UVG44wqv7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 2:43 | 2026-04-30 | 2026-05-22 |
-| [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 | 2026-05-28 |  |
+| [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 | 2026-05-28 |  |
 | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA) | 2:37 | 2022-07-28 | 2022-08-27 |
 | [HOT GIRL PROBLEMS](https://open.spotify.com/track/02u6FGlzBXqXaDdYztkmhh) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOT GIRL PROBLEMS](https://open.spotify.com/album/2EXP8hqxLe0BorbTWvJDgt) | 2:57 | 2025-07-24 | 2025-09-06 |
 | [Hot In Here](https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Hot In Here](https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W) | 3:11 | 2023-12-01 | 2024-01-13 |

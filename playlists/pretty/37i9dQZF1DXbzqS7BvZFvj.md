@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Young Coco
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,951 likes - 88 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,959 likes - 88 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 2 | [Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Game Time \(FIFA World Cup 2026™\)](https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e) | 3:26 |
 | 3 | [Make Them Cry](https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:07 |
 | 4 | [SAME SH!T](https://open.spotify.com/track/6gbcv097aD6bzPeUo2BLhl) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:13 |
-| 5 | [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
+| 5 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 6 | [GEEKIN](https://open.spotify.com/track/71ziqZUTX40nwZWrlBjJ5q) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [GEEKIN](https://open.spotify.com/album/1jotK23sLfoL2zqonVjUHG) | 2:32 |
 | 7 | [Clap](https://open.spotify.com/track/1qBEN3LafkXQBJ9ofV4nzM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Clap](https://open.spotify.com/album/2yNwOvF3g7DQcADqywdLj3) | 2:04 |
 | 8 | [Gone](https://open.spotify.com/track/45jsFbRoGY7Wjoufgpn9zc) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [They Just Ain't You](https://open.spotify.com/album/7JxNts9ZhHN2VvQ0NKU0tj) | 3:10 |

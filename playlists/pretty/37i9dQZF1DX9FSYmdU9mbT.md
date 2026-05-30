@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,473,803 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,473,821 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 13 | [Força Estranha](https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:34 |
 | 14 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 15 | [Queixa](https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Cores, Nomes](https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm) | 4:23 |
-| 16 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
+| 16 | [Tá perdoado](https://open.spotify.com/track/5ua6ByZaOw4hlMP6i8Vjdz) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Samba Meu](https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9) | 3:47 |
 | 17 | [Nem um Dia](https://open.spotify.com/track/3jFxkWQ1i4ephuKK56T9ta) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Malásia](https://open.spotify.com/album/53VgQJU6DoF3Y1mkmTONNa) | 5:46 |
-| 18 | [Tá perdoado](https://open.spotify.com/track/5ua6ByZaOw4hlMP6i8Vjdz) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Samba Meu](https://open.spotify.com/album/6oExFGPwXHfHwBFsgQsUC9) | 3:47 |
+| 18 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 |
 | 19 | [Clube Da Esquina Nº2 \- Acústico](https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Nada Será Como Antes \(Acústico\)](https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc) | 4:30 |
 | 20 | [Gente Aberta](https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 2:20 |
 | 21 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Marcel Powell](https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 25 | [Preciso Me Encontrar](https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:59 |
 | 26 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
 | 27 | [Meu Bem\-Querer \(Ao Vivo\)](https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan "Ao Vivo"](https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7) | 4:14 |
-| 28 | [Vitoriosa \- Ao Vivo](https://open.spotify.com/track/08oqG2aZTJndXXwGOAth9n) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF) | [Nova Bis \- Ivan Lins](https://open.spotify.com/album/3OMsMOMAMjhulGUrtoJ3h2) | 3:50 |
+| 28 | [Proposta](https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65), [Sophie Charlotte](https://open.spotify.com/artist/7Dew7s7T10L3pot2NFSQoT) | [Proposta](https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD) | 3:44 |
 | 29 | [Cajuína \- Remixed Original Album](https://open.spotify.com/track/7cEfPAbju7glmdAgT4e1AU) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Cinema Transcendental](https://open.spotify.com/album/64JvR5shy7j04mTiX0wfNp) | 2:19 |
-| 30 | [Proposta](https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65), [Sophie Charlotte](https://open.spotify.com/artist/7Dew7s7T10L3pot2NFSQoT) | [Proposta](https://open.spotify.com/album/6kV4cGFJFBrm8xWk9RqKWD) | 3:44 |
+| 30 | [Vitoriosa \- Ao Vivo](https://open.spotify.com/track/08oqG2aZTJndXXwGOAth9n) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF) | [Nova Bis \- Ivan Lins](https://open.spotify.com/album/3OMsMOMAMjhulGUrtoJ3h2) | 3:50 |
 | 31 | [Sangue latino](https://open.spotify.com/track/4LxKSGFZOX66wGSsH0kFRE) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [Gigantes](https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv) | 2:08 |
 | 32 | [Sorte](https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Sorte](https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh) | 3:04 |
 | 33 | [De Noite Na Cama](https://open.spotify.com/track/2LkrJ2aF0k50l8JNrqw4KK) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:17 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 95 | [Não é um Bolero](https://open.spotify.com/track/4ZGMXn6kUqS8CTVkl3lDuk) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/6MIoj7esxtgwgtG8Mh8rcw) | 4:21 |
 | 96 | [A História de Lilly Braun \- Ao Vivo no Coala Festival](https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [A História de Lilly Braun \(Ao Vivo no Coala Festival\)](https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv) | 4:26 |
 | 97 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 |
-| 98 | [Pérola Negra \- Ao Vivo](https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Estratosférica Ao Vivo](https://open.spotify.com/album/7eSEnOlFor4HMoblLfwLXz) | 5:00 |
-| 99 | [Brasil \- Ao Vivo no Coala Festival](https://open.spotify.com/track/7IeaNWQPnqgUhsdDdmXCs8) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [As Várias Pontas de uma Estrela \(Ao Vivo no Coala Festival\)](https://open.spotify.com/album/72ZE9c4C3akkC7g1flS0A1) | 3:38 |
+| 98 | [Brasil \- Ao Vivo no Coala Festival](https://open.spotify.com/track/7IeaNWQPnqgUhsdDdmXCs8) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [As Várias Pontas de uma Estrela \(Ao Vivo no Coala Festival\)](https://open.spotify.com/album/72ZE9c4C3akkC7g1flS0A1) | 3:38 |
+| 99 | [Pérola Negra \- Ao Vivo](https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Estratosférica Ao Vivo](https://open.spotify.com/album/7eSEnOlFor4HMoblLfwLXz) | 5:00 |
 | 100 | [Toda Menina Baiana \- Ao Vivo](https://open.spotify.com/track/0drLWHcGw3j6xZKn7zGJ7X) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Especial Ivete, Gil E Caetano \(Ao Vivo No Projac, Rio De Janeiro / 2011\)](https://open.spotify.com/album/3hOAYii7ltL7zatrSVtBQc) | 3:22 |
 
 Snapshot ID: `AAAAALQIPMp+wiJtdUcjkD76Exh1m279`

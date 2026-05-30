@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,692 likes - 49 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,708 likes - 49 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 2 | [This Is Amazing Grace](https://open.spotify.com/track/0RW1xWSPxmbXf012RN3yWl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The Ascension](https://open.spotify.com/album/2VAnZv1lS7kfPHiwPO3JyE) | 4:39 |
 | 3 | [Battle Belongs](https://open.spotify.com/track/1KYw86zGpAE1Cvl734nlrT) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:47 |
 | 4 | [Praise You In This Storm \(feat\. Phil Wickham\)](https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:33 |
-| 5 | [Living Hope](https://open.spotify.com/track/6nVm313QmsPlNllntTart1) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:27 |
-| 6 | [Homesick For Heaven](https://open.spotify.com/track/2Oz1rooRd8K1uINofVYgrZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:10 |
+| 5 | [Homesick For Heaven](https://open.spotify.com/track/2Oz1rooRd8K1uINofVYgrZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:10 |
+| 6 | [Living Hope](https://open.spotify.com/track/6nVm313QmsPlNllntTart1) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:27 |
 | 7 | [House Of The Lord](https://open.spotify.com/track/3Gyl1BvC41QD8rXEMfSQWY) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:16 |
 | 8 | [I Believe](https://open.spotify.com/track/2l20BZOKBc1vNBxfKkJoQ7) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 5:02 |
 | 9 | [It Really Is Amazing Grace](https://open.spotify.com/track/44ivpVgDIZgzeZRaflODT8) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Song Of The Saints \(Deluxe\)](https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT) | 4:14 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 29 | [Where I'm Standing Now \(feat\. Brandon Lake\)](https://open.spotify.com/track/3JBMyUHHYz30GCpJL99zGX) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:30 |
 | 30 | [Isn't He Good](https://open.spotify.com/track/1nhxzfAFAw2ksi0Rajd693) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:18 |
 | 31 | [Able](https://open.spotify.com/track/5up1i2KXfTgSF7x1dIJZQl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:33 |
-| 32 | [I Will Not Be Afraid \(Reprise\)](https://open.spotify.com/track/6HjiwLJ1CzTn6Yhmpf5PK2) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Angel](https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF) | [DAVID \(Soundtrack from the Angel Original Film\)](https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq) | 2:13 |
-| 33 | [Reason I Sing \- Acoustic](https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven \(Acoustic Sessions\)](https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj) | 4:32 |
+| 32 | [Reason I Sing \- Acoustic](https://open.spotify.com/track/43OioCdtXLa0YuS8tgBGAY) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven \(Acoustic Sessions\)](https://open.spotify.com/album/2vo5O7TN9M2ukYs8ZmTNqj) | 4:32 |
+| 33 | [I Will Not Be Afraid \(Reprise\)](https://open.spotify.com/track/6HjiwLJ1CzTn6Yhmpf5PK2) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Angel](https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF) | [DAVID \(Soundtrack from the Angel Original Film\)](https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq) | 2:13 |
 | 34 | [Everyday Hallelujah \- Hidden Track](https://open.spotify.com/track/76NFX7R3TnrI4XbVg2VhIu) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints \(Deluxe\)](https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT) | 2:41 |
 | 35 | [Song Of The Saints](https://open.spotify.com/track/4pMM0veMMHssV2N243bJLv) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 6:00 |
 | 36 | [The Secret Place \- Acoustic](https://open.spotify.com/track/1ZwyRRW5zGjt9gGOwSO5YM) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 4:43 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 48 | [Living Hope](https://open.spotify.com/track/3Z9PzaSZbEPoQssPnQdbPx) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 6:22 |
 | 49 | [Divine / Sailing / Time / Hymn \- Acoustic](https://open.spotify.com/track/3Ia4fDeie06NoYMSnoipZV) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God Acoustic Sessions](https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU) | 7:44 |
 
-Snapshot ID: `ahY0AAAAAAB1i1ZSTJ3QzfdzoMZq3Pv0`
+Snapshot ID: `aheFgAAAAAASnOY4fR9N/HKKYenzRoV5`

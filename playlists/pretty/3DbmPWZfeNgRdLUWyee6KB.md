@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 196 songs - 11 hr 35 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 200 songs - 11 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,5 +204,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 194 | [tomorrow I'll try](https://open.spotify.com/track/4MoKm1Ze37SlGoNy9YrCls) | [Sweetshirt](https://open.spotify.com/artist/7uNgpGi95W3yBlDs2kB6cI) | [tomorrow I'll try](https://open.spotify.com/album/30HI6lQJkora43ky42u5mX) | 2:35 |
 | 195 | [Particolare](https://open.spotify.com/track/0AdDre9FCxVt7U8jOVdT3g) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Particolare](https://open.spotify.com/album/1b9nxh9JegqaNR0OTsS6vC) | 2:45 |
 | 196 | [Long Time](https://open.spotify.com/track/2UKdtw1iNzsx2gmuYbQaKu) | [Eddus](https://open.spotify.com/artist/6iFNqjfucW5tG2WUK0nSxR) | [Long Time](https://open.spotify.com/album/3B3on9GGaYMjfyQpgVOnLa) | 3:32 |
+| 197 | [The Cry of an Angel](https://open.spotify.com/track/27Olu0bAnBKzRToftDDY3v) | [MBcK](https://open.spotify.com/artist/5tPReJv7l1ys12zXVFAEXZ) | [Hell Star](https://open.spotify.com/album/69cztdwH8rOrgsdi35oPGk) | 3:15 |
+| 198 | [¿Vampiro o Ladrón?](https://open.spotify.com/track/7KXOz98ntMZ8eeovE9pv6N) | [Angel](https://open.spotify.com/artist/5XFum7bQUnhp2U8h2zdJGV) | [¿Vampiro o Ladrón?](https://open.spotify.com/album/2qg0w5is7kIreSaDwx7n0k) | 3:41 |
+| 199 | [Say the Word](https://open.spotify.com/track/57lnic7GHCgDox7Nh4abvy) | [Violyt](https://open.spotify.com/artist/58dODJDrNq8DHvx5CJDJgd), [Justin Mola](https://open.spotify.com/artist/1LX4SXG0RusTp81RPzhPoh) | [Say the Word](https://open.spotify.com/album/74GBd4STU1MkXuJ0Ksm0Xk) | 4:26 |
+| 200 | [Weizenwetter](https://open.spotify.com/track/6zWKGR8Rn1EGib9mOP2jxf) | [LEEZE](https://open.spotify.com/artist/2IiWnyqGW4BZHM8THRSFpe) | [Weizenwetter](https://open.spotify.com/album/1HLwzEgafWcvuhsJqaIYgb) | 3:09 |
 
-Snapshot ID: `AAAUbgwFnUztbsztgE4VJbrJx7/2YUdX`
+Snapshot ID: `AAAUcvoZNuP64K6ZqEsZYHOySqYinFi9`

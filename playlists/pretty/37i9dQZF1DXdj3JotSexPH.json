@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36039,
+  "num_followers": 36040,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "NO ERA AMOR",
-        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
-      },
-      "artists": [
-        {
-          "name": "DJ Asul",
-          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
-        }
-      ],
-      "duration_ms": 93066,
-      "name": "NO ERA AMOR - Slowed",
-      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Running Around",
         "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 124620,
       "name": "Running Around",
       "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "NO ERA AMOR",
+        "url": "https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU"
+      },
+      "artists": [
+        {
+          "name": "DJ Asul",
+          "url": "https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe"
+        }
+      ],
+      "duration_ms": 93066,
+      "name": "NO ERA AMOR - Slowed",
+      "url": "https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Like Wooh Wooh",
+        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 136189,
+      "name": "Like Wooh Wooh - Radio Edit",
+      "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "3am - Nic Vans Remix",
         "url": "https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 164142,
       "name": "3am - Nic Vans Remix",
       "url": "https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Like Wooh Wooh",
-        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
-      },
-      "artists": [
-        {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
-        }
-      ],
-      "duration_ms": 136189,
-      "name": "Like Wooh Wooh - Radio Edit",
-      "url": "https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "SATA",
-        "url": "https://open.spotify.com/album/12Z3iZ8cEE8nNJbzR59Fdr"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Rohaan",
-          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
-        }
-      ],
-      "duration_ms": 182678,
-      "name": "SATA",
-      "url": "https://open.spotify.com/track/5RDVoCdb0LtcSiYnUG0R4d"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "hold tight",
         "url": "https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 148645,
       "name": "hold tight",
       "url": "https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "SATA",
+        "url": "https://open.spotify.com/album/12Z3iZ8cEE8nNJbzR59Fdr"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Rohaan",
+          "url": "https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS"
+        }
+      ],
+      "duration_ms": 182678,
+      "name": "SATA",
+      "url": "https://open.spotify.com/track/5RDVoCdb0LtcSiYnUG0R4d"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Welcome To My Crib",
-        "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
-      },
-      "artists": [
-        {
-          "name": "FUCK!LACR\u00c8ME",
-          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Slam It",
-      "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "HEAVY",
         "url": "https://open.spotify.com/album/6pyBVhhnvUn2SFFSD0sPVo"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 148965,
       "name": "That That",
       "url": "https://open.spotify.com/track/6EtiJyUqnFTIg5R1hIEYhB"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Welcome To My Crib",
+        "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
+      },
+      "artists": [
+        {
+          "name": "FUCK!LACR\u00c8ME",
+          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Slam It",
+      "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2539,6 +2539,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "issa vibe",
+        "url": "https://open.spotify.com/album/0d6Pj4XcVEMjtM7MODtLjI"
+      },
+      "artists": [
+        {
+          "name": "as\u00e1u",
+          "url": "https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "issa vibe",
+      "url": "https://open.spotify.com/track/0cKICIfbu0qOndy9I3rInG"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Memphis Cult Vol. 6",
         "url": "https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB"
       },
@@ -2559,22 +2575,6 @@
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "issa vibe",
-        "url": "https://open.spotify.com/album/0d6Pj4XcVEMjtM7MODtLjI"
-      },
-      "artists": [
-        {
-          "name": "as\u00e1u",
-          "url": "https://open.spotify.com/artist/4lNObJySHIKhPZdfGtZgE0"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "issa vibe",
-      "url": "https://open.spotify.com/track/0cKICIfbu0qOndy9I3rInG"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2915,6 +2915,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "PHONKY TOWN",
+        "url": "https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw"
+      },
+      "artists": [
+        {
+          "name": "PlayaPhonk",
+          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
+        }
+      ],
+      "duration_ms": 141373,
+      "name": "PHONKY TOWN",
+      "url": "https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Sequ\u00eancia da Dz7",
         "url": "https://open.spotify.com/album/0q18FVPvrXw161KvnT4sk7"
       },
@@ -2931,22 +2947,6 @@
       "duration_ms": 119184,
       "name": "Sequ\u00eancia da Dz7",
       "url": "https://open.spotify.com/track/12FbZlYxIUv2rhB0oCQEhQ"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "PHONKY TOWN",
-        "url": "https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw"
-      },
-      "artists": [
-        {
-          "name": "PlayaPhonk",
-          "url": "https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D"
-        }
-      ],
-      "duration_ms": 141373,
-      "name": "PHONKY TOWN",
-      "url": "https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "COWBELL WARRIOR!",
-        "url": "https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "COWBELL WARRIOR!",
-      "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "In My Arms (KREAM Remix)",
         "url": "https://open.spotify.com/album/1qXuQg53DXGnNa7MED6azY"
       },
@@ -3007,6 +2991,22 @@
       "duration_ms": 217684,
       "name": "In My Arms - KREAM Remix",
       "url": "https://open.spotify.com/track/1c0CauHGd6IumO162bEbCu"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "COWBELL WARRIOR!",
+        "url": "https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "COWBELL WARRIOR!",
+      "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
     },
     {
       "added_at": "2026-04-13 15:38:24",

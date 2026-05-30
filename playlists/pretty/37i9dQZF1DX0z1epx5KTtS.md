@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Josey
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,671 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,738 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 11 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
 | 12 | [Ça Va Chauffer](https://open.spotify.com/track/1yWnkDKdzmvnIFxP86IVxa) | [MNK OYEBI](https://open.spotify.com/artist/3KDz3PsFWd87NRPtvOmlky), [JD LSK](https://open.spotify.com/artist/6sYvVtA9vuxirfgrRZZxgJ) | [Ça Va Chauffer](https://open.spotify.com/album/5xKaOcdKFw8CEwQKGVOKgF) | 2:34 |
 | 13 | [Dos de chat](https://open.spotify.com/track/4c0hSRKfYD37ZEVN8KzLzL) | [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Dos de chat](https://open.spotify.com/album/5Y8wOOM07VtkJ47PRJ9GPf) | 3:19 |
-| 14 | [Track 6](https://open.spotify.com/track/5E0fsHZn7rKdrwguOZ7au7) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9) | [Roi de L’ambiance \- Begin](https://open.spotify.com/album/6bJMKOkZ01GVq9NA2W4hTg) | 0:00 |
+| 14 | [Eusseu toi tu me connais](https://open.spotify.com/track/5E0fsHZn7rKdrwguOZ7au7) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [Jolina Verdigo](https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO), [Le Grand Homme](https://open.spotify.com/artist/3gX7vHBOQDEPYfBaryvhWN) | [Roi de L’ambiance \- Begin](https://open.spotify.com/album/6bJMKOkZ01GVq9NA2W4hTg) | 2:35 |
 | 15 | [Djeneba Djaba](https://open.spotify.com/track/6Pt5lnHwIUAfnEXItAjmfp) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Djeneba Djaba](https://open.spotify.com/album/4y5SQcEOQN25EhFMYt3XpD) | 2:59 |
 | 16 | [Ma dernière relation](https://open.spotify.com/track/4tUiQ4jkM3lPLzHeDI1nSC) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Ma dernière relation](https://open.spotify.com/album/754eLu0PvJWfP0vjma4Gai) | 3:23 |
 | 17 | [DÉCAPSULEUR](https://open.spotify.com/track/6SDUCSyKIkXlm4uNwZ1elB) | [Kedjevara](https://open.spotify.com/artist/0aP3R0xostpYHSxtLFmny6) | [Kedjevaratitude](https://open.spotify.com/album/6EqhI5aGnP7SdKzljcjDBJ) | 3:45 |

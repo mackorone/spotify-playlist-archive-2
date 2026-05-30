@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 9 | [Long Shot](https://open.spotify.com/track/4DSNXNrBKv2rMo30c5DyTh) | [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Long Shot](https://open.spotify.com/album/0jSxGspgNSr6D1o839Brhl) | 3:24 |
 | 10 | [By Now](https://open.spotify.com/track/4NTAmq5vf3cXuKZIDV94w1) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [By Now](https://open.spotify.com/album/6B37u4rJJZX3nLtGb95X8g) | 3:06 |
 | 11 | [Stardust](https://open.spotify.com/track/64YqaPCvvnHxj96Qlo1a9w) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations](https://open.spotify.com/album/4iYUh0Cw9bB5XSObj8AuQq) | 2:51 |
-| 12 | [Death Is in the Air](https://open.spotify.com/track/7xwDVTZBWVCFfBig0vSeMU) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Death Is in the Air](https://open.spotify.com/album/2bIFB2pGDgyVrVWrQpA8GG) | 3:23 |
-| 13 | [City Girl](https://open.spotify.com/track/1Sbf8qBXp24byps3CtiONg) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:04 |
-| 14 | [How To Dance](https://open.spotify.com/track/17TLMCiWbRnNblIfXiDLfF) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:09 |
+| 12 | [How To Dance](https://open.spotify.com/track/17TLMCiWbRnNblIfXiDLfF) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:09 |
+| 13 | [Death Is in the Air](https://open.spotify.com/track/7xwDVTZBWVCFfBig0vSeMU) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Death Is in the Air](https://open.spotify.com/album/2bIFB2pGDgyVrVWrQpA8GG) | 3:23 |
+| 14 | [City Girl](https://open.spotify.com/track/1Sbf8qBXp24byps3CtiONg) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:04 |
 | 15 | [no reason to cry](https://open.spotify.com/track/5Byx31VEpvvOBmsVFPzTh0) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [no reason to cry](https://open.spotify.com/album/39t4Ap861N3r7OaJaZJ2CM) | 3:03 |
 | 16 | [Love Phobia](https://open.spotify.com/track/33Vbi87Po3TrNaJUvyKsdY) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [DICE \- The 2nd Mini Album](https://open.spotify.com/album/6tjdh7YCcSKD51C2kQTW9n) | 3:10 |
 | 17 | [The Wave](https://open.spotify.com/track/6EKqDWgTz9nCxZojy4XoSk) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [SATICA](https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Pilot](https://open.spotify.com/album/24K6FQs2L43tUVIeuFATl6) | 3:10 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCUfkK388h9R.md) - [plain]
 | 54 | [Fuck Things Up](https://open.spotify.com/track/4J2r5n7wTXGdaRGse0ON6G) | [Vera Hotsauce](https://open.spotify.com/artist/5KucN3rNvkbmfNWqknOvth) | [Hot N Saucy](https://open.spotify.com/album/5aerQ661gL2BTTPjPpYsm1) | 3:03 |
 | 55 | [Punch](https://open.spotify.com/track/7JtmLurRXvcyvqVGwxoS9M) | [Darcy Day](https://open.spotify.com/artist/0jsZR31z3SUBQ1BJuAdEDn) | [Punch](https://open.spotify.com/album/0MgS9kN89HMeT1m2YuWPVF) | 2:29 |
 
-Snapshot ID: `AcSvJgAAAAAhcZHXZER/XdTAMctScDrt`
+Snapshot ID: `AcS0sgAAAAByZrCnhgEOHP4rD9d1Rqt6`

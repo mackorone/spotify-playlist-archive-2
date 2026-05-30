@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 박찬영\(Park Chan Young\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 최제니\(Jenny Choi\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-679 songs - 1 day 15 hr 52 min
+680 songs - 1 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 | 2022-04-21 | 2024-05-06 |
 | [apocalyptic serenade](https://open.spotify.com/track/11MEiPi0ktNXIFctbcYNar) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [deadpaints](https://open.spotify.com/artist/6J9uyUQkWxDxvfNiwdwYhh) | [apocalyptic serenade](https://open.spotify.com/album/0LozFO673nlo2eaRgSrr9B) | 4:28 | 2025-05-13 | 2025-07-15 |
 | [Apricot](https://open.spotify.com/track/7aNOH4B73XDeLOL1yGhwU5) | [ONEE](https://open.spotify.com/artist/6qFD5SSrBTyg4aVi0EQEXI) | [Indifferent People](https://open.spotify.com/album/1wVHZ8ouYutwHL7H5Gl9s6) | 3:15 | 2022-01-13 | 2022-02-07 |
+| [As is](https://open.spotify.com/track/1sT0vbLIJRnOIJU6gKAKDa) | [Jenny Choi](https://open.spotify.com/artist/2rtmI0H2LRnKU9Et5bl20L) | [Breathing Methods](https://open.spotify.com/album/43mZmhTsB9gmskv8k3q0Ml) | 3:46 | 2026-05-29 |  |
 | [Ash \- Acoustic](https://open.spotify.com/track/3YLKumEaNPhR9ylIJLFXyv) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Ash \(Acoustic\)](https://open.spotify.com/album/4hFFT091ahBzpl6YHrHzgB) | 2:05 | 2025-06-09 | 2025-06-20 |
 | [At the end of the day](https://open.spotify.com/track/0nJLLHH6Y3iOe5uGou2m6s) | [HAEBIN](https://open.spotify.com/artist/79e9aBzsPX9kSAqUxMNKQL) | [At the end of the day](https://open.spotify.com/album/6arlyz7d91rjANtfyPQ1t6) | 3:55 | 2022-03-31 | 2022-04-15 |
 | [Autumn breeze](https://open.spotify.com/track/0nmdvYrzUgocrXt6IDanCj) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/1zPdH4xj4rZsLVRtgO8MRI) | 2:54 | 2021-12-10 | 2022-07-29 |
@@ -106,7 +107,7 @@
 | [Color of the day](https://open.spotify.com/track/1fljCSLlJYcFubv7LMNQRM) | [BAK CHANG GEUN](https://open.spotify.com/artist/4Gan2DEelDmjPv6jMaSYG9) | [Poems 25](https://open.spotify.com/album/33nIFtG0RQDBdXjsQ9X73G) | 3:30 | 2025-04-10 | 2025-05-15 |
 | [come as you are](https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:28 | 2021-12-10 | 2022-07-25 |
 | [Come back to me](https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Come back to me](https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW) | 6:28 | 2024-05-10 | 2024-08-31 |
-| [Come to me](https://open.spotify.com/track/51AT2GdTdgyEG0D1w4AO2j) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Gaze](https://open.spotify.com/album/7op95Ju7RNmMABUncVzglj) | 3:03 | 2026-05-20 |  |
+| [Come to me](https://open.spotify.com/track/51AT2GdTdgyEG0D1w4AO2j) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Gaze](https://open.spotify.com/album/7op95Ju7RNmMABUncVzglj) | 3:03 | 2026-05-20 | 2026-05-30 |
 | [Come With Me](https://open.spotify.com/track/61TR2Po5oS5cd5G0EUZ15n) | [INTHEPACK](https://open.spotify.com/artist/2jJa2tYxYmNtGYlxOqI0Il) | [Come With Me](https://open.spotify.com/album/5YV0DJWurTmtcKASwb6WH2) | 3:31 | 2022-03-31 | 2022-04-19 |
 | [Confession](https://open.spotify.com/track/1eOYrl4zBoeluCngkJRSmi) | [YeoDongSaeng](https://open.spotify.com/artist/7qwYeaMsqrO3TFFHvwhEtg) | [Confession](https://open.spotify.com/album/0uJ4HZnqJCiWNaHgA23ZQh) | 3:53 | 2022-03-31 | 2022-04-07 |
 | [crescent moon \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 6\]](https://open.spotify.com/track/5cVbfYMOBF7Ktdisoa9wxV) | [SUNG DAM](https://open.spotify.com/artist/1JdJprpKvNgqBLGSDrMsv9) | [crescent moon \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 6\]](https://open.spotify.com/album/2GVbStXkCtIeOhQ1zfjpWw) | 4:12 | 2022-03-31 | 2022-04-21 |

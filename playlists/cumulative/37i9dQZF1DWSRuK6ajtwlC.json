@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7 La Reuni\u00f3n Norte\u00f1a en portada \ud83d\udcf8",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7 Conjunto Relincho en portada \ud83d\udcf8",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 197733,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/6KfMaLSdCCHy8DwjlMjxqu"
@@ -1118,7 +1118,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 156757,
       "name": "Chiquita Bonita",
       "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 192286,
       "name": "Do\u00f1a Juana - Huapango",
       "url": "https://open.spotify.com/track/7chXMhihh8QPthkDUOWmpQ"
@@ -3031,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "Invierno En Chihuahua",
+        "url": "https://open.spotify.com/album/7nTDhZeu856RrlPNA3veNw"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157408,
+      "name": "Invierno En Chihuahua",
+      "url": "https://open.spotify.com/track/7vJEYawkKmNTS6VQTalng8"
+    },
+    {
+      "album": {
         "name": "Juan Ayon",
         "url": "https://open.spotify.com/album/3ElfgDqD8nuLTKb7s8sXOZ"
       },
@@ -3426,6 +3444,24 @@
       "duration_ms": 232970,
       "name": "La Muchacha de los Ojos Tristes - Live",
       "url": "https://open.spotify.com/track/26aLTCvTeexLZ4nT8HizNF"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Bonita",
+        "url": "https://open.spotify.com/album/3vRSfytqzHbGnXq41rDxG8"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209486,
+      "name": "La M\u00e1s Bonita",
+      "url": "https://open.spotify.com/track/58aHOF4Tcs2NMpklfYg2Cl"
     },
     {
       "album": {
@@ -4021,6 +4057,24 @@
     },
     {
       "album": {
+        "name": "Me Gan\u00e9 Este Puesto",
+        "url": "https://open.spotify.com/album/02RtZV8AkvXjTMaJaIx5nR"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229156,
+      "name": "Me Gan\u00e9 Este Puesto",
+      "url": "https://open.spotify.com/track/2F83tJyriCFxlVy8ZPUY6D"
+    },
+    {
+      "album": {
         "name": "Maquinando",
         "url": "https://open.spotify.com/album/3O5qORSxbUg6rEZZQzLTzg"
       },
@@ -4379,6 +4433,24 @@
     },
     {
       "album": {
+        "name": "Muchachita",
+        "url": "https://open.spotify.com/album/7tBh5U1TtPqeqxtbVVgrzv"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Relincho",
+          "url": "https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183626,
+      "name": "Muchachita",
+      "url": "https://open.spotify.com/track/52RycnT2T3bMWRF7ohgFfR"
+    },
+    {
+      "album": {
         "name": "Muevelou Tribal",
         "url": "https://open.spotify.com/album/1TRZW3Sj0PKUOcycnz7H3G"
       },
@@ -4456,7 +4528,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 178250,
       "name": "M\u00e1s Que Perfecta",
       "url": "https://open.spotify.com/track/3c4sQFyDUeYQyIsDTC0jSG"
@@ -4550,7 +4622,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 224506,
       "name": "Necesito Decirte",
       "url": "https://open.spotify.com/track/7A2q0QaLWjnH3ufI4WFzM9"
@@ -4813,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "Notas de Sociedad",
+        "url": "https://open.spotify.com/album/6R9K7XcXHAXQVeOB0pz5BX"
+      },
+      "artists": [
+        {
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203232,
+      "name": "Notas de Sociedad",
+      "url": "https://open.spotify.com/track/6rehkQKsZMnzL5jN4rsYWb"
+    },
+    {
+      "album": {
         "name": "Obsesi\u00f3n",
         "url": "https://open.spotify.com/album/4vmbCwmnU6KSPMtFbBZ4XD"
       },
@@ -4940,6 +5030,24 @@
       "duration_ms": 213658,
       "name": "Otra Pregunta",
       "url": "https://open.spotify.com/track/2Bivo1aEB5zxCEyhqTCCHr"
+    },
+    {
+      "album": {
+        "name": "PAM, PAM",
+        "url": "https://open.spotify.com/album/2qQkdL9uC7jZpc0Rqt7d5D"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151136,
+      "name": "PAM, PAM",
+      "url": "https://open.spotify.com/track/1CHhDIX9xfMgrMDDKjWsmG"
     },
     {
       "album": {
@@ -6499,6 +6607,24 @@
     },
     {
       "album": {
+        "name": "Nueva Era",
+        "url": "https://open.spotify.com/album/4eVnPWN5Xc5E3NZZT2LGCm"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165119,
+      "name": "Todav\u00eda La Recuerdo",
+      "url": "https://open.spotify.com/track/4Xvjg8E4uTPWFuSNPsUNy8"
+    },
+    {
+      "album": {
         "name": "Todo Lo Fue",
         "url": "https://open.spotify.com/album/735I46REeAjkcMEkQbK86H"
       },
@@ -6528,7 +6654,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 251630,
       "name": "Tonto Mi Corazon (En Vivo Estudio)",
       "url": "https://open.spotify.com/track/7m9XI9m7NVmo6ifF8U3bxS"
@@ -6712,7 +6838,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 157645,
       "name": "Un Amor Bonito",
       "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: ITZY)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: HEART OF WOMAN)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-01",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "body",
       "url": "https://open.spotify.com/track/4LJJxB4a47mreJAfKwbGEM"
@@ -6143,6 +6143,24 @@
     },
     {
       "album": {
+        "name": "Heart Byte : LEGACY",
+        "url": "https://open.spotify.com/album/5KeICTbuP4CFny9Qo0RJ7O"
+      },
+      "artists": [
+        {
+          "name": "HEART OF WOMAN",
+          "url": "https://open.spotify.com/artist/15JWJu72hLPUmB0L2RMusu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Lost in Proof",
+      "url": "https://open.spotify.com/track/0NUab1Hd5VSFickV3HOy9M"
+    },
+    {
+      "album": {
         "name": "YELLOW PUNCH",
         "url": "https://open.spotify.com/album/6L2VwLPHfm5cCdTF1erFrN"
       },
@@ -6862,7 +6880,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 193000,
       "name": "Motto",
       "url": "https://open.spotify.com/track/3xTcC2GxIavh97lAkIVHw6"
@@ -9550,7 +9568,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 177466,
       "name": "Talk that Talk",
       "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"

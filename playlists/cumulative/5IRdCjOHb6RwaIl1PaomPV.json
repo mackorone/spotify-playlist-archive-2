@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer, Thaiboy Digital, DJ_Dave, Safety Trance, &amp; more.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Eartheater, the sound that chalk makes, B0YG1RL, Eera, &amp; more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -862,7 +862,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 180465,
       "name": "Alise",
       "url": "https://open.spotify.com/track/0MPEX4Y7YK6QfWcL9oU685"
@@ -2426,7 +2426,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 156031,
       "name": "Blue Angels",
       "url": "https://open.spotify.com/track/3VJQSzdebeIZVAMxjOQisO"
@@ -3493,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "Rumspringa",
+        "url": "https://open.spotify.com/album/1EHtMAqAB6GSnw8IbuXFLn"
+      },
+      "artists": [
+        {
+          "name": "ear",
+          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234303,
+      "name": "Coil",
+      "url": "https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55"
+    },
+    {
+      "album": {
         "name": "Two Shell",
         "url": "https://open.spotify.com/album/4jZZgPpyDqLuTq0LKgXwK6"
       },
@@ -3788,6 +3806,32 @@
       "duration_ms": 169433,
       "name": "Cry (with Aluna)",
       "url": "https://open.spotify.com/track/2HdEtRBwROKFsTiX2VTLCq"
+    },
+    {
+      "album": {
+        "name": "CSM for bullshit",
+        "url": "https://open.spotify.com/album/4dlec4sTKWyTcTX81GZvlL"
+      },
+      "artists": [
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        },
+        {
+          "name": "Seven Blair Angels",
+          "url": "https://open.spotify.com/artist/4q68y687T1f5iGToWOTrnQ"
+        },
+        {
+          "name": "pato6p",
+          "url": "https://open.spotify.com/artist/1T7amPqWVfFBlntdPtflSm"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102492,
+      "name": "CSM for bullshit",
+      "url": "https://open.spotify.com/track/4UGzIUDcabJcatRVXzozJt"
     },
     {
       "album": {
@@ -4392,7 +4436,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 102468,
       "name": "DJ Boys Chamber",
       "url": "https://open.spotify.com/track/2qAngdGoqaBmQZ1RchkvjO"
@@ -5592,8 +5636,8 @@
           "url": "https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF"
         },
         {
-          "name": "Lolahol",
-          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
+          "name": "Lola Leon",
+          "url": "https://open.spotify.com/artist/7pKmOKc49BWyfcbcFqBLBL"
         }
       ],
       "date_added": "2026-02-27",
@@ -5820,6 +5864,32 @@
       "duration_ms": 165400,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2sLUiG5BYqth0WL0zMl25y"
+    },
+    {
+      "album": {
+        "name": "Falling Out of Grace",
+        "url": "https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        },
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        },
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/5AkRNxM8MEyS7oUjZMk0WQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180875,
+      "name": "Falling Out of Grace",
+      "url": "https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT"
     },
     {
       "album": {
@@ -6654,7 +6724,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 84565,
       "name": "Gaby Best Friend (feat. Celine del Carmen)",
       "url": "https://open.spotify.com/track/4OYOQAeV1nBZteM2FLd7Bh"
@@ -9825,6 +9895,28 @@
     },
     {
       "album": {
+        "name": "EXIT 2B",
+        "url": "https://open.spotify.com/album/5YA5ttWYM1MtDnfkB6dLJF"
+      },
+      "artists": [
+        {
+          "name": "B0YG1RL",
+          "url": "https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq"
+        },
+        {
+          "name": "NOVAGANG",
+          "url": "https://open.spotify.com/artist/2jKpyH0q7d85BevWLtdKGB"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131612,
+      "name": "Little Haiti",
+      "url": "https://open.spotify.com/track/298VmtiWYWKrcHpr4FTi8h"
+    },
+    {
+      "album": {
         "name": "LIVED AND IVE LEARNED",
         "url": "https://open.spotify.com/album/5ARU8FRt6m6DU1Slrm54E1"
       },
@@ -10256,7 +10348,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 215331,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/7rgWNlWTf1vFpsLZ7Grxn3"
@@ -11720,7 +11812,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 162000,
       "name": "no me quiero dormir",
       "url": "https://open.spotify.com/track/6pLKe1SzXJexj7VpBleAL4"
@@ -11985,6 +12077,28 @@
     },
     {
       "album": {
+        "name": "notime\u2026youshouldbeaskingmeout",
+        "url": "https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU"
+      },
+      "artists": [
+        {
+          "name": "finnj\u00e4vel",
+          "url": "https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT"
+        },
+        {
+          "name": "GRANT",
+          "url": "https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "notime\u2026",
+      "url": "https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww"
+    },
+    {
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/2kseeZVin6wA2vOCOmWlr9"
       },
@@ -12186,7 +12300,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 159198,
       "name": "OLD TECHNOLOGY",
       "url": "https://open.spotify.com/track/4m9DCecxzytC3ikqqVvtbd"
@@ -12640,6 +12754,24 @@
       "duration_ms": 96363,
       "name": "PARACHUTE",
       "url": "https://open.spotify.com/track/1BeCYnSgefgDxYNuN9LOQB"
+    },
+    {
+      "album": {
+        "name": "Paradise Rains",
+        "url": "https://open.spotify.com/album/2XsZLXPI21Ct2bN9xVlnKZ"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199400,
+      "name": "Paradise Rains",
+      "url": "https://open.spotify.com/track/7v8BK91W0rwEpxWckubE9C"
     },
     {
       "album": {
@@ -13456,6 +13588,32 @@
       "duration_ms": 222857,
       "name": "r u kissin any1?",
       "url": "https://open.spotify.com/track/7pCdAOcXQ8vhDpy98dGsGT"
+    },
+    {
+      "album": {
+        "name": "RAGE & RAVE",
+        "url": "https://open.spotify.com/album/2ZCwDwNFmsRwzbBjZvX8UI"
+      },
+      "artists": [
+        {
+          "name": "B0YG1RL",
+          "url": "https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq"
+        },
+        {
+          "name": "NOVAGANG",
+          "url": "https://open.spotify.com/artist/2jKpyH0q7d85BevWLtdKGB"
+        },
+        {
+          "name": "KAY NIVE$",
+          "url": "https://open.spotify.com/artist/6YQgtVqlL7emLLiAloN501"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148979,
+      "name": "RAGE & RAVE",
+      "url": "https://open.spotify.com/track/4D8ESLapW3rf4T0qZojFwR"
     },
     {
       "album": {
@@ -14324,6 +14482,28 @@
       "duration_ms": 228750,
       "name": "RVR",
       "url": "https://open.spotify.com/track/6iLtFQG0Wsb4wEU8SArd5D"
+    },
+    {
+      "album": {
+        "name": "Sad But So Funny",
+        "url": "https://open.spotify.com/album/2sZNACN1OtfS387IGeyJi9"
+      },
+      "artists": [
+        {
+          "name": "Eera",
+          "url": "https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P"
+        },
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223561,
+      "name": "Sad But So Funny",
+      "url": "https://open.spotify.com/track/4z82AjKmLtVzxmShgNCgkp"
     },
     {
       "album": {
@@ -15670,7 +15850,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"

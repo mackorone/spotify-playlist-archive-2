@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > Kim Petras is this week's evolving icon 🔂
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,206 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,212 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Brutalist](https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:57 |
 | 2 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
 | 3 | [POP SHUVIT!](https://open.spotify.com/track/401qoFc0esSgVBS9av7m0C) | [MARiMARi](https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl) | [MARi GO ROUND](https://open.spotify.com/album/3zSFgxHHV3ZCjj0FyhBCZv) | 2:13 |
-| 4 | [Track 7](https://open.spotify.com/track/2chCyZz2DG5uRasGN40x28) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [She Won't Let Go](https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD) | 0:00 |
+| 4 | [In Two](https://open.spotify.com/track/2chCyZz2DG5uRasGN40x28) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [She Won't Let Go](https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD) | 2:27 |
 | 5 | [CRANK](https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 2:55 |
 | 6 | [Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/5AkRNxM8MEyS7oUjZMk0WQ) | [Falling Out of Grace](https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r) | 3:00 |
 | 7 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |

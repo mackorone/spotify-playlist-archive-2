@@ -227,6 +227,28 @@
     },
     {
       "album": {
+        "name": "Ravel (Encores)",
+        "url": "https://open.spotify.com/album/4enKowMiwzVBUqTLYb6CHh"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Matteo Myderwyk",
+          "url": "https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167859,
+      "name": "Adagio (Ravel)",
+      "url": "https://open.spotify.com/track/64qeNInhPT3TKPCc6eKyy3"
+    },
+    {
+      "album": {
         "name": "Price: Adoration",
         "url": "https://open.spotify.com/album/11pIdn7j8vNhuCto2x6mgS"
       },
@@ -832,6 +854,24 @@
       "duration_ms": 176585,
       "name": "Estrellita (Arr. Abril & Barrueco for Guitar)",
       "url": "https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9"
+    },
+    {
+      "album": {
+        "name": "Four Seasons",
+        "url": "https://open.spotify.com/album/1XMr03YfagZQgAIW3YKSWB"
+      },
+      "artists": [
+        {
+          "name": "Jason Reolon",
+          "url": "https://open.spotify.com/artist/4b7cvB18URDzxLRTMcfPef"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124838,
+      "name": "Four Seasons",
+      "url": "https://open.spotify.com/track/6ROhVXVuSIinUsHugc5D62"
     },
     {
       "album": {
@@ -2406,6 +2446,58 @@
       "duration_ms": 190725,
       "name": "Tomorrow's Song",
       "url": "https://open.spotify.com/track/5OLv8P0JSaXFB95rw5saRv"
+    },
+    {
+      "album": {
+        "name": "View from a Tower",
+        "url": "https://open.spotify.com/album/184w3WMckgmkKMkZXxgfw3"
+      },
+      "artists": [
+        {
+          "name": "Winston Church",
+          "url": "https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi"
+        },
+        {
+          "name": "Denis Turbide",
+          "url": "https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137175,
+      "name": "View from a Tower",
+      "url": "https://open.spotify.com/track/55ekB9KazIBWIYjCretbBS"
+    },
+    {
+      "album": {
+        "name": "Korngold: Violin Concerto in D Major, Op. 35: II. Romance. Andante",
+        "url": "https://open.spotify.com/album/4Vhq1XXnn2cUtXitbvd5ih"
+      },
+      "artists": [
+        {
+          "name": "Erich Wolfgang Korngold",
+          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
+        },
+        {
+          "name": "Paul Huang",
+          "url": "https://open.spotify.com/artist/2yQvgqt7qJjKrHVIx7Kzll"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Jun M\u00e4rkl",
+          "url": "https://open.spotify.com/artist/6TmtR0aZY7PSPdpW3qz7Ku"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535923,
+      "name": "Violin Concerto in D Major, Op. 35: II. Romance. Andante",
+      "url": "https://open.spotify.com/track/11ylJoqbOnMJNXRBRxQXm7"
     },
     {
       "album": {

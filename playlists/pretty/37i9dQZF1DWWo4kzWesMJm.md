@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,598 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,627 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 34 | [Mauvais Garçon](https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Mauvais Garçon](https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q) | 2:42 |
 | 35 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
 | 36 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
-| 37 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 |
-| 38 | [Lady Mélody](https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd) | [Tom Frager](https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq) | [Better Days](https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1) | 3:11 |
+| 37 | [Lady Mélody](https://open.spotify.com/track/4LWVPTpGzQjKtwYmmx7Hbd) | [Tom Frager](https://open.spotify.com/artist/1N9Xy6x2jTaxMU75aFshoq) | [Better Days](https://open.spotify.com/album/4YFkUluvUeyvsj20kYXeR1) | 3:11 |
+| 38 | [Ne partons pas fâchés](https://open.spotify.com/track/73O15OI7KZXrLdsjCbY9aq) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 3:13 |
 | 39 | [On était beau](https://open.spotify.com/track/10ZrEcxWcD9vOSUVhUH33O) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Louane](https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8) | 3:25 |
 | 40 | [Le pouvoir des fleurs](https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Caché derrière](https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia) | 3:35 |
 | 41 | [Le Premier jour \(Du reste de ta vie\)](https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Le Premier Jour](https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w) | 4:10 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 43 | [Cette année\-là](https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Le vagabond](https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT) | 3:12 |
 | 44 | [Ma liberté de penser](https://open.spotify.com/track/6zxJh3RIzm6Qk7HauhCg9j) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Ailleurs Land](https://open.spotify.com/album/5IW71KAikTujML1ZNOnSzg) | 3:24 |
 | 45 | [La ballade de Jim](https://open.spotify.com/track/4lI8A7xmuQqGDj28dzelH4) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est comme vous voulez](https://open.spotify.com/album/1owL66vLGqOWxVJYYrCDE1) | 4:25 |
-| 46 | [Je ne suis pas un héros](https://open.spotify.com/track/3bHwuIcUkM1mc7c1u7vgbQ) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Un autre monde \(Remastered\)](https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2) | 5:13 |
-| 47 | [Divine idylle](https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Divinidylle](https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p) | 2:39 |
+| 46 | [Divine idylle](https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Divinidylle](https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p) | 2:39 |
+| 47 | [Je ne suis pas un héros](https://open.spotify.com/track/3bHwuIcUkM1mc7c1u7vgbQ) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Un autre monde \(Remastered\)](https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2) | 5:13 |
 | 48 | [L'amour à la plage](https://open.spotify.com/track/4mII9EfvzMukROnehYgqG3) | [Niagara](https://open.spotify.com/artist/4oJ3WVkGXRBtRC0YaqMKxU) | [Encore un dernier baiser](https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN) | 3:23 |
 | 49 | [Week\-end à Rome](https://open.spotify.com/track/0hMUcAdD9QT8apFfjv26A5) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Week End À Rome](https://open.spotify.com/album/1wIlT4LQTIiSLHtX9i4fNl) | 4:14 |
 | 50 | [Tu trouveras](https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [De L' Amour Le Mieux](https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD) | 4:58 |

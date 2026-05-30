@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 229300,
+  "num_followers": 229296,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAACmW5mU3ItSFT7fT5IbAU6b",
+  "snapshot_id": "aheFgAAAAACVAEd8KavtO7meLo494wjv",
   "tracks": [
     {
       "added_at": null,
@@ -251,30 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Love Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 161684,
-      "name": "Chosen (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -299,6 +275,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Love Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "Chosen (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Careless World: Rise Of The Last King",
         "url": "https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva"
       },
@@ -311,6 +311,26 @@
       "duration_ms": 208440,
       "name": "Rack City",
       "url": "https://open.spotify.com/track/7rPLYmabWMobWhoIqZe6rh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come My Way",
+        "url": "https://open.spotify.com/album/36ocXZA5Xnny4cdKULKoFF"
+      },
+      "artists": [
+        {
+          "name": "S\u01a1n T\u00f9ng M-TP",
+          "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 192863,
+      "name": "Come My Way",
+      "url": "https://open.spotify.com/track/7326q9PcJDcKuAFcrSkN0t"
     },
     {
       "added_at": null,
@@ -491,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 172361,
+      "name": "Fantastic",
+      "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -511,22 +547,6 @@
       "duration_ms": 254694,
       "name": "Bitches N Marijuana (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/3PiLfzEXHrvT1oJKR8PAJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/1N5NSxPMp1hpqwM5v5KIkz"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 172361,
-      "name": "Fantastic",
-      "url": "https://open.spotify.com/track/7fdTVjOFYWyfUXXTpIL917"
     },
     {
       "added_at": null,
@@ -571,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legendary (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 194935,
+      "name": "SWISH",
+      "url": "https://open.spotify.com/track/0aJ2hFC6e9Z00Lx9RIRNcT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desce Pro Play (PA PA PA)",
         "url": "https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV"
       },
@@ -595,18 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legendary (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr"
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
       "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 194935,
-      "name": "SWISH",
-      "url": "https://open.spotify.com/track/0aJ2hFC6e9Z00Lx9RIRNcT"
+      "duration_ms": 160320,
+      "name": "Kim Kardashian",
+      "url": "https://open.spotify.com/track/1gff7Ybgs4uLceHflZUPoC"
     },
     {
       "added_at": null,
@@ -635,26 +675,6 @@
       "duration_ms": 225228,
       "name": "DON'T KILL THE PARTY (feat. Tyga, Shoreline Mafia & Quavo) - Coast 2 Coast",
       "url": "https://open.spotify.com/track/6p82E6XWmwC9yGzXPe1HHv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 160320,
-      "name": "Kim Kardashian",
-      "url": "https://open.spotify.com/track/1gff7Ybgs4uLceHflZUPoC"
     },
     {
       "added_at": null,
@@ -795,30 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4REAL 4REAL",
-        "url": "https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        }
-      ],
-      "duration_ms": 299226,
-      "name": "Go Loko (feat. Tyga, Jon Z)",
-      "url": "https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
         "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
@@ -847,22 +843,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel California (Deluxe)",
-        "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
+        "name": "4REAL 4REAL",
+        "url": "https://open.spotify.com/album/5zuM1EG06X1J7VsIF1omRm"
       },
       "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         },
         {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
         }
       ],
-      "duration_ms": 221493,
-      "name": "Switch Lanes",
-      "url": "https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR"
+      "duration_ms": 299226,
+      "name": "Go Loko (feat. Tyga, Jon Z)",
+      "url": "https://open.spotify.com/track/1kK6DwzyXJSp58u5HYWwuD"
     },
     {
       "added_at": null,
@@ -879,6 +879,26 @@
       "duration_ms": 153575,
       "name": "Lightskin Lil Wayne",
       "url": "https://open.spotify.com/track/1zZEly0sLmyDm75c1pAqYf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel California (Deluxe)",
+        "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Switch Lanes",
+      "url": "https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR"
     },
     {
       "added_at": null,
@@ -1051,30 +1071,6 @@
       "duration_ms": 160256,
       "name": "Sheikh Talk",
       "url": "https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TRANSLATION",
-        "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "VIDA LOCA",
-      "url": "https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE"
     }
   ],
   "unique_name": "This Is Tyga",

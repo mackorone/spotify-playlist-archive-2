@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Trucha en portada ★
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,785 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,793 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dossier](https://open.spotify.com/track/1HuU83yceEAnz8XaQRS6CF) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Ilusiones de Amor](https://open.spotify.com/album/1S692zlCrtcSsgeG0Yk5zz) | 2:43 |
+| 1 | [Mystica!](https://open.spotify.com/track/5zaQp9y2PVJv8sNa9vnfll) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Ilusiones de Amor](https://open.spotify.com/album/1S692zlCrtcSsgeG0Yk5zz) | 2:41 |
 | 2 | [Amores Como El Nuestro](https://open.spotify.com/track/3BR2IsY0nBj7mmrKudsYV8) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Amores Como El Nuestro](https://open.spotify.com/album/5buOKY4eTPj7DMIOrZpxdA) | 2:08 |
 | 3 | [VICIO](https://open.spotify.com/track/2z1BEZBuo8UyPVWLqdZhJk) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [CIUDAD DEL SOL](https://open.spotify.com/album/5cjSUDgWxw6pnbXTmSuGAs) | 2:27 |
 | 4 | [Superstar](https://open.spotify.com/track/7cCH0NftLAPzwLwKHMSyks) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [GUFI](https://open.spotify.com/album/5dCVeOVUW25JhhYCiPaXJr) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [PUERTA DEL SOL](https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [ALTER EGO](https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8) | 3:40 |
 | 100 | [HOY](https://open.spotify.com/track/6y39mILscFJKcjlWn3lB8O) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Manu Calmet](https://open.spotify.com/artist/0B9JhFd1gL8bpf6FnaggJU), [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [HOY](https://open.spotify.com/album/4t4Hhfd3wsle7IGTgdZfUn) | 2:48 |
 
-Snapshot ID: `AAAAAGkT9yYkRDcIOODJYGN1Zxd7xzKD`
+Snapshot ID: `AAAAABm5e7mSQNMiJCJ2HvNVbldhPgIy`

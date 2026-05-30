@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Helena Gao
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: mikey
 
-293 songs - 16 hr 56 min
+298 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [An Embroidery](https://open.spotify.com/track/7FG7r7bGcTqjapPULaJ2v6) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [World of Work](https://open.spotify.com/album/7r1cQPyAwQfhQIw9H9eGB5) | 4:09 | 2025-03-13 |  |
 | [Another Life](https://open.spotify.com/track/23dlDcfYKSosr7uOqvcizd) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8), [Ninna Lundberg](https://open.spotify.com/artist/6k0RXaRQWP1oiq4pmEFbyR) | [hollis](https://open.spotify.com/album/3vKkVu1TQWct7R5JIjpwzO) | 2:28 | 2026-04-23 |  |
 | [Anymore](https://open.spotify.com/track/1F9eoTtJcbxIlCY0o0Imsp) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Anymore](https://open.spotify.com/album/2erxKF4TfbJnSZ9cSD44ef) | 3:57 | 2025-06-19 | 2025-07-19 |
+| [Aéroport](https://open.spotify.com/track/25cm5QSiCaqKbeP7MODFhv) | [Gintė Preisaitė](https://open.spotify.com/artist/5D33eNZh5iFRm3tIJf3Zit) | [Instruments of Forgetting and the Singing Bone](https://open.spotify.com/album/0oeXO3SDptQL2dYIpSOeB9) | 2:28 | 2026-05-29 |  |
 | [Back of a car](https://open.spotify.com/track/77gA40f86KuiqzFMnEh2Ww) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Koilwood](https://open.spotify.com/artist/4GKDR0aZmXTNpvDBcUy1m2) | [Back of a car](https://open.spotify.com/album/70I3QI750IKQK7UMgSMeve) | 2:31 | 2026-04-09 |  |
 | [Back Of My Hand](https://open.spotify.com/track/5DBpe50clTbGYnJZCIbUVG) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Back Of My Hand](https://open.spotify.com/album/1rtMcCl8GC8tpp2NShuS0d) | 2:40 | 2025-09-26 |  |
 | [Barrons Hotel \(I, To, Thee.\)](https://open.spotify.com/track/0eeyCEOLKsVVWxfZP0zA8k) | [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ), [Rainy Miller](https://open.spotify.com/artist/53LAWIqLkYE3N2UFod80A3) | [Barrons Hotel/Yellow Bones](https://open.spotify.com/album/4DiYXaIgNZZBKHwWBjXr6Y) | 5:54 | 2026-04-30 |  |
@@ -35,6 +36,7 @@
 | [Blinkmoth \(July Mix\)](https://open.spotify.com/track/6kvYlDN7rVedMOE7VxeQGg) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Hypersoft Lovejinx Junkdream](https://open.spotify.com/album/59V4YNExoSF8HH4JVEtn6k) | 7:03 | 2025-03-13 | 2025-09-06 |
 | [Blu](https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Mount Crystal](https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h) | 3:09 | 2025-09-12 | 2026-05-01 |
 | [Blue Flame](https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Play](https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx) | 3:03 | 2026-05-22 |  |
+| [blue+green](https://open.spotify.com/track/7cLHzL62KYEIDvqhmml7fx) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [blue+green](https://open.spotify.com/album/7dskID1nsNKIaBuA7Kze02) | 4:05 | 2026-05-29 |  |
 | [Blunt Force Trauma](https://open.spotify.com/track/6afDGn5RO7QvV88C6dESzg) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Speak Daggers](https://open.spotify.com/album/6ChvcmOKQHcUMaktvmBhPG) | 3:29 | 2025-10-17 |  |
 | [Body Language](https://open.spotify.com/track/0ebIDciVUpDhnNrivrXMzv) | [lene 3000](https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G) | [Body Language](https://open.spotify.com/album/4v2n6AI78jG6e3MQlQjj0C) | 3:04 | 2026-02-26 |  |
 | [Borrow](https://open.spotify.com/track/6Ro5eA9bg0rPvY2SpfK0Yl) | [Dan English](https://open.spotify.com/artist/055lipaCR86EoOxi2CsSBh) | [Sky Record](https://open.spotify.com/album/5eaUIlyGs7Hnnl6xgwyu8Y) | 4:04 | 2025-09-26 |  |
@@ -72,6 +74,7 @@
 | [dog\-tired](https://open.spotify.com/track/4ckNiDVC9gYumzgg9qZTQH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:21 | 2025-04-24 |  |
 | [Don't Let This Feeling](https://open.spotify.com/track/33040QumosMtuIENd4dG4D) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [Don't Let This Feeling](https://open.spotify.com/album/6A60dXBiLWris444qgDKaa) | 2:52 | 2025-03-13 | 2025-09-13 |
 | [Doom Bikini](https://open.spotify.com/track/740QhlNMaY3mERdoQ7B5M5) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Doom Bikini](https://open.spotify.com/album/3YNUpHeTZEwmQMtmJy5fDm) | 4:56 | 2025-07-25 |  |
+| [Dreams](https://open.spotify.com/track/4cgha4ghzfm6lLanSfdtHp) | [lene 3000](https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G) | [Dreams](https://open.spotify.com/album/4I4IpTNnfFUyh7HCpRt7FS) | 2:55 | 2026-05-29 |  |
 | [Dreamy Ride](https://open.spotify.com/track/0ReJIOFDYCHbC1yY2CXLzk) | [Farao](https://open.spotify.com/artist/6XIX2G6ZGiVQgMr6SSTMFu) | [Voice Continues](https://open.spotify.com/album/0nVyeUjJU9pv0DyuHKMXNp) | 3:57 | 2025-09-26 |  |
 | [driving \(so many emotions\)](https://open.spotify.com/track/7yEb7bJZ6HEVPXaBUU5jDD) | [Zoumer](https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB) | [e.a.l\. \(euro arab lovergirl\)](https://open.spotify.com/album/4XUlpIcXlnqe5xkscLOwEJ) | 3:02 | 2026-03-12 |  |
 | [Driving me crazy](https://open.spotify.com/track/37nR6LHLMBErNHTBdIIZmG) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Goodbyehouse](https://open.spotify.com/album/2UHXU5yDMaB5281r3ZMhNu) | 2:30 | 2025-09-12 |  |
@@ -260,6 +263,7 @@
 | [the end or the beginning idk \- trentemøller Remix](https://open.spotify.com/track/6NZZTbordbLZy1HuKd3hLv) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [the end or the beginning idk \(trentemøller Remix\)](https://open.spotify.com/album/5JducM3eb5EBHlofPuyhBv) | 3:38 | 2025-05-29 |  |
 | [The Future](https://open.spotify.com/track/1aaGeVnP4r66IgNvVoyL6T) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [The Future](https://open.spotify.com/album/5VGi3079D9C2xp1bggAujV) | 4:13 | 2025-04-24 | 2026-05-09 |
 | [The Future \(Fig Tape Remix\)](https://open.spotify.com/track/1jA6V9HI58GarsaDX6k7Gj) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt), [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [The Future \(Fig Tape Remix\)](https://open.spotify.com/album/4lv9qQYlWxHto8vJhjpeye) | 4:14 | 2026-02-19 |  |
+| [The Herd](https://open.spotify.com/track/27gXW1CtTnd7Z2nSjnns8b) | [Iben](https://open.spotify.com/artist/74r4FqTey9wuD0hsGp1gdf) | [The Herd](https://open.spotify.com/album/6VgsgIhrtd52qND0NEI1fY) | 4:03 | 2026-05-29 |  |
 | [The Longest Sleep](https://open.spotify.com/track/0rKK8Xj27S7L4tAB9EBYHX) | [Ssaliva](https://open.spotify.com/artist/3pPIWa19bNbZaA4xNt81HB) | [I'm the One with No Soul](https://open.spotify.com/album/0yZpBY7dvRB4cUHtuvB0uQ) | 3:53 | 2025-07-15 | 2026-03-20 |
 | [The One in Front of the Sun](https://open.spotify.com/track/2axEsEvh4uIfPNgPrhxew5) | [Spivak](https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx) | [Violences](https://open.spotify.com/album/50fGBMmPLU994MXKGDUQN1) | 4:47 | 2025-03-13 | 2026-01-24 |
 | [The tangible participant](https://open.spotify.com/track/1TpSk3O5QjHL0swwHCEk3W) | [isobel](https://open.spotify.com/artist/6m5hsSoDJX5LFsRFUk9DVx) | [Light weight](https://open.spotify.com/album/46pIzmIhR5egQRNxf1KCtC) | 2:41 | 2025-11-21 | 2026-03-20 |
@@ -268,6 +272,7 @@
 | [TMN](https://open.spotify.com/track/1atGiLsGuzJ5SduA6vVvrG) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [TMN](https://open.spotify.com/album/0yLlTZNuMUYqCx8zktCIWD) | 2:51 | 2025-05-08 | 2025-05-16 |
 | [To trust you](https://open.spotify.com/track/3zf4EScGKx7KCGAkGJIiUv) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [To trust you](https://open.spotify.com/album/55OpcIldEWmmgvg6rmmE98) | 2:27 | 2025-03-13 |  |
 | [together](https://open.spotify.com/track/2yr8vl7DazLslCkbHMp4E3) | [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [together](https://open.spotify.com/album/11eCriEtwr1U28laSYqK1q) | 2:54 | 2025-08-08 |  |
+| [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-29 |  |
 | [TWINK](https://open.spotify.com/track/6TecO454rbbvjs7ntr0S5N) | [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [TWINK](https://open.spotify.com/album/0tjF35e4vUYR2Af1UULxhB) | 2:42 | 2025-06-26 | 2026-03-07 |
 | [Two Thieves](https://open.spotify.com/track/1AR3tUpXDLN5eIFz8zxQ3C) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:24 | 2025-05-08 | 2026-03-07 |
 | [U Projected 2](https://open.spotify.com/track/0ZMfvxORfTTH4IVITqsQoh) | [Voice Actor](https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc), [Yarrow.co](https://open.spotify.com/artist/3NB9lrY3lN3V8xxk4DrXRw) | [Sent From My Telephone](https://open.spotify.com/album/0l5WnDIdqIofDQaVhzOkyl) | 2:06 | 2025-03-13 | 2026-01-24 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 39461,
+  "num_followers": 39468,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAAAKDWMso7R1VR/Lo8yIIsxn",
+  "snapshot_id": "aheFgAAAAABRKDOooOHdUwYN2+sMhsdc",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patrulla 05 Corridos Con",
-        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 171146,
-      "name": "La Patrulla 05",
-      "url": "https://open.spotify.com/track/4ygR8e1Qyb77idygs0EYcd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos de Coleccion",
         "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 207673,
       "name": "Gabino Barrera",
       "url": "https://open.spotify.com/track/3FJjpxv95LLjQPIVrPhntF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "La Patrulla 05",
+      "url": "https://open.spotify.com/track/4ygR8e1Qyb77idygs0EYcd"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Con",
+        "url": "https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 180226,
+      "name": "Maquina 501",
+      "url": "https://open.spotify.com/track/4kHm7xFUDRcvpos1q8o8tN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -427,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Con",
-        "url": "https://open.spotify.com/album/2XJszaQU3ezbZyYn9JUhKR"
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
       "artists": [
         {
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 180226,
-      "name": "Maquina 501",
-      "url": "https://open.spotify.com/track/4kHm7xFUDRcvpos1q8o8tN"
+      "duration_ms": 193567,
+      "name": "Con Cartitas",
+      "url": "https://open.spotify.com/track/5vy3RUI5XmNvAttY7IhFyo"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
       "duration_ms": 158760,
       "name": "Los Federales De Caminos",
       "url": "https://open.spotify.com/track/2Lwr5cxzmklQ7oY1RkFKu7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Exitos de Coleccion",
-        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 193567,
-      "name": "Con Cartitas",
-      "url": "https://open.spotify.com/track/5vy3RUI5XmNvAttY7IhFyo"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Otro Amor",
-        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Dos Seres Que Se Aman",
-      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos de Coleccion",
         "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 206184,
       "name": "Paloma Piquito de Oro",
       "url": "https://open.spotify.com/track/27Y6fG0wY2H2sxggDp1Mgq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Busca Otro Amor",
+        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Dos Seres Que Se Aman",
+      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Noche Serena Y Obscura",
-        "url": "https://open.spotify.com/album/00Sj4MCBwW7upNInYNuM0A"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Una Noche Serena Y Oscura",
-      "url": "https://open.spotify.com/track/4s5UucTLMuov5FQnOn4Cqi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Voy De Estas Tierras",
         "url": "https://open.spotify.com/album/1wdXQGOKGS3ihbtKKASPc3"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 161080,
       "name": "Dados Cargados",
       "url": "https://open.spotify.com/track/0wkoc68QhXWw3YjkkBZ3AE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Noche Serena Y Obscura",
+        "url": "https://open.spotify.com/album/00Sj4MCBwW7upNInYNuM0A"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Una Noche Serena Y Oscura",
+      "url": "https://open.spotify.com/track/4s5UucTLMuov5FQnOn4Cqi"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
-        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Ramiro Y Miguel",
-      "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Exitos de Coleccion",
         "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 203702,
       "name": "Jacinto Trevi\u00f1o",
       "url": "https://open.spotify.com/track/0qeTAiYnv4Zg78WdvBNo6J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Ramiro Y Miguel",
+      "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
     },
     {
       "added_at": null,

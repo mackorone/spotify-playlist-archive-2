@@ -1,6 +1,6 @@
 {
   "description": "The newest arrivals. Cover: Pozer",
-  "num_followers": 68975,
+  "num_followers": 68983,
   "original_name": "Just Dropped",
   "owner": {
     "name": "Spotify",
@@ -70,10 +70,14 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
       "duration_ms": 191786,
-      "name": "Hostage",
+      "name": "Hostage (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
     },
     {
@@ -108,8 +112,8 @@
           "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 179697,
+      "name": "minute",
       "url": "https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo"
     },
     {
@@ -224,8 +228,8 @@
           "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 95238,
+      "name": "thru the valley",
       "url": "https://open.spotify.com/track/6S0k9l9BftuJKd6GxKOdrz"
     },
     {
@@ -347,6 +351,22 @@
       "duration_ms": 204632,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/0RkudKUCGvubwnw8yjvza9"
+    },
+    {
+      "added_at": "2026-05-28 23:00:37",
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/4eawBBIL0VXLktBvSgdrBM"
+      },
+      "artists": [
+        {
+          "name": "JrodBroccoli",
+          "url": "https://open.spotify.com/artist/0ht1thNgu836B6AYsXbt1K"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/5ASzHE878PA0otam9gN50R"
     },
     {
       "added_at": "2026-05-28 23:00:37",
@@ -547,6 +567,26 @@
       "duration_ms": 154748,
       "name": "GTTB",
       "url": "https://open.spotify.com/track/3Ea9fP2AS2QbQwtF1m4qGl"
+    },
+    {
+      "added_at": "2026-05-28 23:00:37",
+      "album": {
+        "name": "Callin (feat. Blu june)",
+        "url": "https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Blu june",
+          "url": "https://open.spotify.com/artist/3pyEwxCySBsnsD5B4SUiDr"
+        }
+      ],
+      "duration_ms": 154581,
+      "name": "Callin (feat. Blu june)",
+      "url": "https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF"
     },
     {
       "added_at": "2026-05-28 23:00:37",

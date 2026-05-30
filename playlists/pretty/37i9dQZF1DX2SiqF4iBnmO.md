@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 
 > Only music produced on a TR\-808 drum machine\. Cover: Egyptian Lover
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,475 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,547 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 10 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 |
 | 11 | [Stay Fly](https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT) | [Most Known Unknown \(Explicit\)](https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF) | 3:56 |
 | 12 | [Do You Remember? \- 2016 Remaster](https://open.spotify.com/track/3TLtCHUaiMHcQcJVGVW2p2) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(2016 Remaster\)](https://open.spotify.com/album/1t89giOgPycfALwe2NuVf8) | 4:35 |
-| 13 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
-| 14 | [Because I Got High](https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4) | [Afroman](https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr) | [The Good Times](https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0) | 3:17 |
+| 13 | [Because I Got High](https://open.spotify.com/track/0rRboI6IRuGx56Dq3UdYY4) | [Afroman](https://open.spotify.com/artist/4Icvbp9RDt5aY2TWDOVDsr) | [The Good Times](https://open.spotify.com/album/5WW91LUt9Oqkhzrg0Ao4K0) | 3:17 |
+| 14 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 |
 | 15 | [March Madness](https://open.spotify.com/track/3WcC6NH9J77xPEvj1SOL7z) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 4:03 |
 | 16 | [Salt Shaker](https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m), [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x) | [Me & My Brother](https://open.spotify.com/album/2SS2QYikI1mNohhyPN2v95) | 4:12 |
 | 17 | [The Way You Do The Things You Do](https://open.spotify.com/track/04PydaEH97XN7YohGteKpK) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Labour Of Love II](https://open.spotify.com/album/1mMfvPS1HZsxtU958F4Eq9) | 3:02 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SiqF4iBnmO.md) - [plain]
 | 28 | [Down In It](https://open.spotify.com/track/06UVb2bREPv8hvioVkaMvC) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 3:46 |
 | 29 | [Spirit \(feat\. Wale\)](https://open.spotify.com/track/6Gqzr5DpN48FESo5uHGsJ7) | [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Spirit \(feat\. Wale\)](https://open.spotify.com/album/62HROJu6iE9DXc7EJjlmvv) | 4:13 |
 | 30 | [Feels So Real \(Won't Let Go\) \- 12" Version](https://open.spotify.com/track/6OTqMkJyg3dsr0GZU5OyoZ) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Remind Me \(The Classic Elektra Recordings 1978\-1984\)](https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t) | 6:49 |
-| 31 | [Peter Piper](https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:23 |
-| 32 | [Dangerous](https://open.spotify.com/track/2cZuNzaAGNFozlZTxSDU1g) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [When Disaster Strikes...](https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP) | 3:37 |
+| 31 | [Dangerous](https://open.spotify.com/track/2cZuNzaAGNFozlZTxSDU1g) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [When Disaster Strikes...](https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP) | 3:37 |
+| 32 | [Peter Piper](https://open.spotify.com/track/5gsY63Dq5ht0LEvydhj9lA) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 3:23 |
 | 33 | [Egypt Egypt](https://open.spotify.com/track/6noajkkuZkla4d8E6sYUiY) | [The Egyptian Lover](https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP) | [On the Nile](https://open.spotify.com/album/1jS5YBMTwMnFRoteVHOi3i) | 5:19 |
 | 34 | [6 'N the Mornin'](https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Rhyme Pays](https://open.spotify.com/album/267xiIVnif2CUxhbRQk115) | 3:44 |
 | 35 | [Clear \- Jose “Animal” Diaz Remix](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |

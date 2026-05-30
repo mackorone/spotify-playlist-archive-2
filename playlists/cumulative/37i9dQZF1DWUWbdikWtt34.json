@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang dangdut ngetop Tanah Air. Cover: Happy Asmara",
+  "description": "Dendang dangdut ngetop Tanah Air. Cover: Cici Faramida",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -2132,6 +2132,24 @@
       "duration_ms": 200763,
       "name": "Jangan Tinggalkan Aku",
       "url": "https://open.spotify.com/track/3NUcAoCf70gCawsrp26QRg"
+    },
+    {
+      "album": {
+        "name": "Jangan Tunggu Lama - Lama (2026 Version)",
+        "url": "https://open.spotify.com/album/11uumHIPG8m6qXprPxX8OY"
+      },
+      "artists": [
+        {
+          "name": "Cici Faramida",
+          "url": "https://open.spotify.com/artist/0v8CnbaMT0JN6DHYkGLvee"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240454,
+      "name": "Jangan Tunggu Lama - Lama - 2026 Version",
+      "url": "https://open.spotify.com/track/4VeAKWOq3au1Em1TkUfdSE"
     },
     {
       "album": {

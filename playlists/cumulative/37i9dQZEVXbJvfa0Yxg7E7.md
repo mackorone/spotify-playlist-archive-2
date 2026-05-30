@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-2,694 songs - 5 day 21 hr 47 min
+2,695 songs - 5 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 | 2023-11-28 | 2024-02-13 |
 | [Angels Above Me](https://open.spotify.com/track/0HZFTqqGkiY37nlA8fltkN) | [MDB](https://open.spotify.com/artist/72zQ9DAaHdc4g5oVQiwhuk) | [Angels Above Me](https://open.spotify.com/album/6IoVnGrjEnICUH8KBZhS9t) | 4:22 | 2026-05-15 | 2026-05-17 |
 | [Angels Above Me](https://open.spotify.com/track/27xQUM3V3FVzrOwfVWnHBj) | [MDB](https://open.spotify.com/artist/72zQ9DAaHdc4g5oVQiwhuk) | [Angels Above Me](https://open.spotify.com/album/3EKbjMsA0ERiC7skPiFGEn) | 4:22 | 2026-05-10 | 2026-05-16 |
-| [Angels Above Me](https://open.spotify.com/track/6hBHSglQeZDkfkDYPBxG4i) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:26 | 2026-05-27 |  |
+| [Angels Above Me](https://open.spotify.com/track/6hBHSglQeZDkfkDYPBxG4i) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [World on Fire](https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB) | 4:26 | 2026-05-27 | 2026-05-30 |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2023-08-08 | 2026-01-04 |
 | [Another Love](https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Expanded Edition\)](https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b) | 4:04 | 2024-10-04 | 2026-01-02 |
 | [Another Love](https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down](https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ) | 4:04 | 2021-04-26 | 2026-01-01 |
@@ -2188,6 +2188,7 @@
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/15zJeVUmKFnbrxm9dxcxYD) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [American Heart](https://open.spotify.com/album/3C0QJ1R0T3xX0BUbOZcdCw) | 2:36 | 2025-11-18 | 2025-11-20 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-03-01 | 2025-05-11 |
 | [Sorry, jeg har pult en annen](https://open.spotify.com/track/0bg4gJlfoDR0ICj58UfmdF) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB) | [Sorry, jeg har pult en annen](https://open.spotify.com/album/2CinqzM9xNMbWgVAaPWLJU) | 2:33 | 2023-01-28 | 2023-03-02 |
+| [SOS](https://open.spotify.com/track/0IpCt1Z62jF1LCPTADQTUB) | [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh), [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Spill For Galleriet](https://open.spotify.com/album/2f7lZnPRZhHfUcYzFMaKXb) | 3:14 | 2026-05-29 |  |
 | [Souljaboii Remixxx](https://open.spotify.com/track/4wdaPy15GosA2DVQ0P0nwp) | [Pen Gutt](https://open.spotify.com/artist/134vxVpC78AGeTmoApYQKD), [Chirag](https://open.spotify.com/artist/1Xfv0o1xU7jH7M9QYod7rj), [sa\_g](https://open.spotify.com/artist/5ys6SWXPFzxaULLoEmaO7L) | [Souljaboii Remixxx](https://open.spotify.com/album/6zobC136l4USs0YOARFGzX) | 3:10 | 2024-09-28 | 2024-09-30 |
 | [Sov Godt](https://open.spotify.com/track/0hZzAGc7nWaZsvSPhoiHTI) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Sov Godt](https://open.spotify.com/album/4Fa0cCqJ4G5z6CO8UDZQ5S) | 2:11 | 2022-01-08 | 2022-01-15 |
 | [Sover du](https://open.spotify.com/track/7BJNNmsQHnZBd1A5sRXQ5H) | [Jon Ranes](https://open.spotify.com/artist/1bSA2Bzn7yZHPifJQ2EK6t), [ULD](https://open.spotify.com/artist/5P7qPM9Znluf9Hqgi5WIg9) | [Sover du](https://open.spotify.com/album/7jFpenfKsfhNXTCEFyYc8s) | 4:24 | 2025-01-25 | 2025-02-03 |

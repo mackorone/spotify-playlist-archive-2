@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-456 songs - 23 hr 25 min
+457 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Everything](https://open.spotify.com/track/2goIIAg5kdzfwclJMFZM33) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Everything](https://open.spotify.com/album/4cKQLSgQBD6gnxp7U9lK4X) | 4:27 | 2023-08-10 |  |
 | [Evolution](https://open.spotify.com/track/27Jox9FmzQcLvDCdp0qcLw) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [3rd Prototype](https://open.spotify.com/artist/1zzlu7Aj6Dx6hFhS5sehOM), [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR), [Debris](https://open.spotify.com/artist/4SdjRO432fApGQp8iHbgIF), [EMDI](https://open.spotify.com/artist/5IuugmUXbSoEUqwwUA7Fxt), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Evolution](https://open.spotify.com/album/2RDdelfgAcDoe7ZeAZQBSa) | 2:28 | 2022-02-03 | 2022-09-15 |
 | [Fall In Love](https://open.spotify.com/track/0sZZw0P5oaiqUflw6H1oLl) | [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Fall In Love](https://open.spotify.com/album/1Cq2iRmDRdb3JJsRkn1NSq) | 2:36 | 2022-03-15 | 2023-08-11 |
+| [FALLEN ANGEL](https://open.spotify.com/track/6Ov4AyX5nwjxLHD8v2qELz) | [NAVARA](https://open.spotify.com/artist/4PuFClUU1pnh3KqSF3p3C2) | [FALLEN ANGEL](https://open.spotify.com/album/1H5hAif38CBizxp9gV3KVg) | 4:46 | 2026-05-29 |  |
 | [Falling](https://open.spotify.com/track/2mBji77pNUVeI0PVKqskIc) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Falling](https://open.spotify.com/album/4PmsOH9a3agTL1QrFeyfFp) | 3:35 | 2022-04-08 | 2023-08-11 |
 | [Falling \- Ayjin Remix](https://open.spotify.com/track/2IBiooC1rzmLqLfIsuea62) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28), [Ayjin](https://open.spotify.com/artist/2wNaQ7efIE7Q5ltzWXFjam) | [Falling \(Ayjin Remix\)](https://open.spotify.com/album/3UVR8MgUhiFM66SwyU7zJC) | 2:45 | 2023-08-10 |  |
 | [Falling For You](https://open.spotify.com/track/4laQol4chyvQc0gdVToZgl) | [SouMix](https://open.spotify.com/artist/3aYMIzdswPPo402ppCi9gp), [Bromar](https://open.spotify.com/artist/1bilUcnWet3UAKE4biDiQY) | [Falling For You](https://open.spotify.com/album/1AkO9k156Wdnw51DHA7Lod) | 2:09 | 2022-09-27 | 2023-08-11 |

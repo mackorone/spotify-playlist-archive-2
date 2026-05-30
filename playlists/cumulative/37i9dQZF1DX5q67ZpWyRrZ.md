@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Gini
 
-290 songs - 16 hr 33 min
+291 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Thing About the Colour Blue](https://open.spotify.com/track/09XtL9fgoolH8jNRlX2AkD) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Bring Back the Sound](https://open.spotify.com/album/1KosGhCYNNvwy0f1n4EPEZ) | 2:35 | 2022-01-05 | 2022-02-26 |
 | [Through These Years](https://open.spotify.com/track/34OnHRNEwBUIzICP1FulTO) | [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq), [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Through These Years](https://open.spotify.com/album/2i4UWMCrYHyvV1pSllSDpu) | 3:43 | 2021-12-06 | 2022-01-06 |
 | [Tu Aazma](https://open.spotify.com/track/38CMq8hlI8zIzGbENBBG1P) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Tu Aazma](https://open.spotify.com/album/5ME4ICYbKFTTYDqclbINw6) | 3:18 | 2023-10-09 | 2025-05-31 |
-| [Tu Chodiyon Na](https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tu Chodiyon Na](https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe) | 3:32 | 2022-10-07 |  |
+| [Tu Chodiyon Na](https://open.spotify.com/track/4trQhzRfEN0z5htXvjc5zA) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Tu Chodiyon Na](https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe) | 3:32 | 2022-10-07 | 2026-05-30 |
 | [Tu Hai Wajah](https://open.spotify.com/track/7zep4BfQRkfASc8qhX0cct) | [Piyush Bhisekar](https://open.spotify.com/artist/3HUf0l1HSBzHw0F5UhBOpA) | [Hai Bharosa](https://open.spotify.com/album/5gzjNeBbZlD3bDMKDxNCTL) | 3:13 | 2022-01-05 | 2022-05-24 |
 | [tu le chal](https://open.spotify.com/track/52FsMpdKeyU6dYQlHx8qpt) | [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS) | [tu le chal](https://open.spotify.com/album/2FSC8NwU8adIkchZtDEkV0) | 4:02 | 2021-12-06 | 2022-01-06 |
 | [Tum Jab Paas](https://open.spotify.com/track/3FTRSa9mWB3kKx2jkhUAN3) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tum Jab Paas \- Single](https://open.spotify.com/album/3xyedpfAMFNgZXHuU6iV6s) | 3:55 | 2022-01-05 | 2023-08-10 |
@@ -293,6 +293,7 @@
 | [Woh Raat](https://open.spotify.com/track/7GfUW14lAQO18Iazx8VpwL) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo) | [Woh Raat](https://open.spotify.com/album/2ygBY9nuMmrGqfZ1vi8OJ6) | 3:11 | 2022-04-14 | 2026-01-06 |
 | [Woh Raat](https://open.spotify.com/track/52lObaMpTZyYt2aACIkBmC) | [Shivoryx](https://open.spotify.com/artist/0frlLIs2UWXeTwqwH92Apo), [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn) | [Woh Raat](https://open.spotify.com/album/2AlOGPocqaVUeKlAe7pdAX) | 3:11 | 2022-07-25 | 2024-04-19 |
 | [Woh Saat Din](https://open.spotify.com/track/68kyeHa4UBlqTkwoy9tBHV) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n), [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT) | [Woh Saat Din](https://open.spotify.com/album/7e6uxfTigMqsc6SmP8ruUa) | 3:42 | 2022-10-20 | 2023-01-24 |
+| [Yeh Duniya Jala Do](https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Yeh Duniya Jala Do](https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6) | 3:50 | 2026-05-29 |  |
 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 | 2022-01-05 | 2023-10-10 |
 | [Zakir](https://open.spotify.com/track/1ZGLauVoD74BU8y8O5btcO) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Hindi Gaane](https://open.spotify.com/album/5fOzwws4qbE6ZPKQU3BSHI) | 3:41 | 2023-12-05 | 2024-04-19 |
 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 | 2021-12-06 | 2025-09-23 |

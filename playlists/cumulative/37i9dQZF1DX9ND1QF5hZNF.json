@@ -403,6 +403,28 @@
     },
     {
       "album": {
+        "name": "As Soon As I Get Home",
+        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239885,
+      "name": "As Soon As I Get Home",
+      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
+    },
+    {
+      "album": {
         "name": "Away From Home",
         "url": "https://open.spotify.com/album/5T2CFeH0z9TW9SwostRiQq"
       },
@@ -1362,7 +1384,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 207288,
       "name": "Catharina",
       "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
@@ -2202,6 +2224,32 @@
       "duration_ms": 153695,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/7nAeN4bX0kzrvftoG4jag6"
+    },
+    {
+      "album": {
+        "name": "Fast Lane (Dangerous)",
+        "url": "https://open.spotify.com/album/0H4czq8CKMrBbw6Bim91gf"
+      },
+      "artists": [
+        {
+          "name": "Drics",
+          "url": "https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        },
+        {
+          "name": "Alex Keeper",
+          "url": "https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157057,
+      "name": "Fast Lane (Dangerous)",
+      "url": "https://open.spotify.com/track/7n1QQqXP4MFVaAIMYlJvWs"
     },
     {
       "album": {
@@ -6978,7 +7026,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 184000,
       "name": "starry eyes",
       "url": "https://open.spotify.com/track/0LiCuKbMYM2pF00U502RH7"

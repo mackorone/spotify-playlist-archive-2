@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Sad Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIVaqdm8JIWAo>Olivia Dean</a>, <a href=spotify:playlist:37i9dQZF1EIUnslPhwwdfa>Zach Bryan</a>, <a href=spotify:playlist:37i9dQZF1EIWEZ8ZxSQLXq>Ed Sheeran</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIUnslPhwwdfa>Zach Bryan</a>, <a href=spotify:playlist:37i9dQZF1EIXiKcKm21cbI>Pearl Jam</a>, <a href=spotify:playlist:37i9dQZF1EIVcS7TfQj88P>Pink Floyd</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Let Alone The One You Love](https://open.spotify.com/track/3Vd4fHzwS6pBS3muymjiDi) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:06 |
-| 2 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
-| 3 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 |
+| 1 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 |
+| 2 | [Black](https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:42 |
+| 3 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:38 |
 | 4 | [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 |
 | 5 | [Makrehtosh](https://open.spotify.com/track/6ETTz69AD0SQzjxiCipq7g) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Yaah](https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR) | 3:32 |
 | 6 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |

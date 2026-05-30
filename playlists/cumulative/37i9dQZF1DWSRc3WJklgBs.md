@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,586 songs - 3 day 19 hr 21 min
+1,589 songs - 3 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Alive \(feat\. ILY\)](https://open.spotify.com/track/55Tom2dk5sMx1UTJPiTUbX) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [ILY](https://open.spotify.com/artist/6CVPDt9FXmWEaq3jCoKAZb) | [Alive \(feat\. ILY\)](https://open.spotify.com/album/7nleVQCNulqX2CXPoUJ6Jb) | 2:56 | 2019-08-09\* | 2020-03-29 |
 | [Alive \(with Calle Lehmann\)](https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calle Lehmann](https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm) | [Alive \(with Calle Lehmann\)](https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws) | 3:42 | 2022-05-06 | 2024-04-10 |
 | [All 4 U](https://open.spotify.com/track/4iXW8iEv7QzeWn71OU4NU2) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Snacks \(Supersize\)](https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO) | 3:09 | 2019-09-16 | 2020-10-30 |
+| [All Along](https://open.spotify.com/track/4u3zC8pDhLrd2oHZlZUVox) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [First Light](https://open.spotify.com/album/1bOpO54jb19mYeOJbRvbg1) | 4:09 | 2026-05-29 |  |
 | [All For You](https://open.spotify.com/track/7DMbkEORs1vmAevc4TD8KC) | [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [All For You](https://open.spotify.com/album/0ShhlWkhFhZmdz81oADxlO) | 3:18 | 2021-03-14 | 2022-05-14 |
 | [All For You](https://open.spotify.com/track/2tVe8OQT2AO0K9NbrwpdAh) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [All For You](https://open.spotify.com/album/4saS5G7d4t35h0ycE6VUKH) | 3:01 | 2021-06-16 | 2022-05-14 |
 | [All For You](https://open.spotify.com/track/6arIkRYjnK8iO7wsSl0VW2) | [Rynx](https://open.spotify.com/artist/3v2NAsnsViisa2k0CNolXW), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [All For You](https://open.spotify.com/album/5GWY3fEmbeSlyjrDrc7Mpe) | 3:21 | 2019-08-20 | 2020-10-30 |
@@ -870,6 +871,7 @@
 | [Love Song \- Radio Edit](https://open.spotify.com/track/3f9AhH3gPQnQIxJgnnhlwB) | [Marcus Worgull](https://open.spotify.com/artist/4N2PiVgTuh2rxhc3HGVKAG) | [Love Song](https://open.spotify.com/album/6MrtOgbJZNXYfifA8bKrfo) | 4:08 | 2019-08-09\* | 2019-09-12 |
 | [Love The One You're With](https://open.spotify.com/track/5cC7V4UPSs0G98rgeN5prF) | [Pep & Rash](https://open.spotify.com/artist/2HmmA3GhP0xsbRUiDllJUn) | [Love The One You're With](https://open.spotify.com/album/4UjiXrKjP5C3op1OBkdePd) | 2:32 | 2019-08-09\* | 2019-08-27 |
 | [Love To Give \(with Culture Shock & Billy Lockett\)](https://open.spotify.com/track/0Rww3ql3uRmzTvLOVBFlpn) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Culture Shock](https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE), [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Love To Give \(with Culture Shock & Billy Lockett\)](https://open.spotify.com/album/0UTEQDl8kWLzdAJr8WTzQq) | 3:22 | 2020-05-15 | 2021-09-11 |
+| [Love Tonight](https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Love Tonight](https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz) | 3:30 | 2026-05-29 |  |
 | [Love Who You Love](https://open.spotify.com/track/2uvcftCCrCr2pprXUJ6Vjr) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Love Who You Love](https://open.spotify.com/album/6RdhCbS2KuedWjsjuecMuY) | 3:59 | 2025-11-07 |  |
 | [Love With You](https://open.spotify.com/track/6j5KqspWky4FruOBCowDRe) | [Spencer Ramsay](https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji) | [Love With You](https://open.spotify.com/album/3cRBILOUA2Ag4X6Dn2DjZs) | 3:04 | 2021-06-26 | 2022-05-14 |
 | [Love You Back](https://open.spotify.com/track/5wM6LOw2U6XeIFHfsgI6wU) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Love You Back](https://open.spotify.com/album/3RfQXBQeOMWJPwsy4BO2Na) | 3:34 | 2022-04-29 | 2024-04-10 |
@@ -1566,6 +1568,7 @@
 | [You \(feat\. Sam Tompkins\)](https://open.spotify.com/track/6Q0Dzn2dGVvq0KPKjl2BPC) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [You \(feat\. Sam Tompkins\)](https://open.spotify.com/album/7FjEeMfveCJGI0IAyqNFGm) | 3:25 | 2021-10-23 | 2022-05-14 |
 | [You \(feat\. Seeb\)](https://open.spotify.com/track/3dVGTB7npFPXJp4839bXNb) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [You \(feat\. Seeb\)](https://open.spotify.com/album/6WEopWtR9ytzA1bCsdPjMP) | 3:17 | 2023-11-03 | 2025-02-08 |
 | [You Already Know](https://open.spotify.com/track/374iP6eVAWCCCH2mvZT2A9) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [You Already Know](https://open.spotify.com/album/6LMBySjeiqGMof5IojtNcJ) | 2:59 | 2019-08-20 | 2020-10-30 |
+| [You And I](https://open.spotify.com/track/1kVfH3uPqVvGJxaSGdqlEp) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [You And I](https://open.spotify.com/album/0cREGEa2AUt4GUCLVVVRqo) | 4:48 | 2026-05-29 |  |
 | [You and Me](https://open.spotify.com/track/4jnhZjWPyEeTS7VdiDC7Ui) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [You and Me](https://open.spotify.com/album/3lfAb8OAMPOInRKO1BuqR7) | 2:42 | 2025-04-11 |  |
 | [You and Me](https://open.spotify.com/track/00bq71I9OZ87M6jZqQFV6I) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Renaissance](https://open.spotify.com/album/3kiAgcLVuNcvVP2HhMkup9) | 3:34 | 2020-06-04 | 2021-09-25 |
 | [You Are](https://open.spotify.com/track/7ivcxtK1L1Y1j50x9yUWIR) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [You Are](https://open.spotify.com/album/3Mlmg99htNwRiVf6yDAspJ) | 3:59 | 2025-06-13 |  |

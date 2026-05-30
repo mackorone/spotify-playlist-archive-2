@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 
 > The hottest Anime hits of the 90s\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,615 likes - 51 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,678 likes - 51 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanOaZVFiwtB.md) - [plain]
 | 4 | [Tank!](https://open.spotify.com/track/2VqRxxZFbC0uZaTJcZY36c) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [「COWBOY BEBOP」オリジナルサウンドトラック](https://open.spotify.com/album/6cYPbwsAFAcddFuGeXMR7l) | 3:29 |
 | 5 | [微笑みの爆弾](https://open.spotify.com/track/5umjq620i9NI0l5wZvmjPr) | [Matsuko Mawatari](https://open.spotify.com/artist/4uXVncHzrGNwBaQHOWLGG5) | [決定盤「幽☆遊☆白書」アニメ主題歌&キャラソン大全集](https://open.spotify.com/album/7JMovRguegwVoP29vemjTE) | 4:12 |
 | 6 | [DAN DAN 心魅かれてく](https://open.spotify.com/track/0F1G4ssr0RMdm9h0GEbt40) | [ZARD](https://open.spotify.com/artist/2NKadilSWCwuqGp5QoDeUS) | [TODAY IS ANOTHER DAY](https://open.spotify.com/album/7nGUYK8tHjuKsHgq3qIDhE) | 4:29 |
-| 7 | [Catch You Catch Me](https://open.spotify.com/track/6ElSzFGDDrOnE0ifSf7WMC) | [GUMI](https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu) | [カードキャプターさくら　ソングコレクション 1998.4～1999.2](https://open.spotify.com/album/3DbJExsQsNeyI1D86ooudT) | 3:45 |
+| 7 | [Catch You Catch Me](https://open.spotify.com/track/6ElSzFGDDrOnE0ifSf7WMC) | [GUMI](https://open.spotify.com/artist/6lPgjZ6bSUnOe4B32XnjSs) | [カードキャプターさくら　ソングコレクション 1998.4～1999.2](https://open.spotify.com/album/3DbJExsQsNeyI1D86ooudT) | 3:45 |
 | 8 | [そばかす](https://open.spotify.com/track/0y0lQ10KHJCZqRQtXIvh1T) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [THE POWER SOURCE](https://open.spotify.com/album/6WOs9qwCv99wCa8rI0hkMr) | 4:15 |
 | 9 | [おどるポンポコリン](https://open.spotify.com/track/3e5u2LOu6wlUTjMpUICCP3) | [B.B.QUEENS](https://open.spotify.com/artist/4JqWbQDxluABEUVJ3bLVQ1) | [おどるポンポコリン](https://open.spotify.com/album/3djI1lk2H3dD6cvnQ90Q8T) | 3:14 |
 | 10 | [JUST COMMUNICATION](https://open.spotify.com/track/2MJuRVxvB0Wq298yZAmpuT) | [TWO\-MIX](https://open.spotify.com/artist/5BSOMHNc0qjG5WFU3bWjn8) | [JUST COMMUNICATION](https://open.spotify.com/album/3srT3oJ15NvnclIkLlvN8q) | 4:19 |

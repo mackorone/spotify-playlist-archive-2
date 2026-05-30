@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Noa Sainz en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,837 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,840 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 41 | [Manhattan](https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:50 |
 | 42 | [cuídame de mi](https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:23 |
 | 43 | [Ve y Diles V2 \- Remix](https://open.spotify.com/track/3NO1321RAnd9GmZoJANxlI) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ve y Diles V2 \(Remix\)](https://open.spotify.com/album/1JP7lfhnwCzHMStiqeL9QV) | 2:56 |
-| 44 | [el silencio](https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [el silencio](https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL) | 3:38 |
-| 45 | [Mantra](https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Bella Nostalgia](https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK) | 3:30 |
+| 44 | [Mantra](https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Bella Nostalgia](https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK) | 3:30 |
+| 45 | [el silencio](https://open.spotify.com/track/2I5Z0tMDcsJuYEcOnLZs5G) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [el silencio](https://open.spotify.com/album/7y8VSzFuSe0TXeX7nbKXnL) | 3:38 |
 | 46 | [Tú y Yo X Siempre](https://open.spotify.com/track/4RJMnTu2ZiQupxcooMWGEZ) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tú y Yo X Siempre](https://open.spotify.com/album/3E0UYsVU8PxkYYMF7ibS2Q) | 3:04 |
 | 47 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
 | 48 | [Cuando Estamos Solas](https://open.spotify.com/track/36E5cnvLlDtNJTvfhDi5ZX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Cuando Estamos Solas](https://open.spotify.com/album/6yljdwX9QDrD97sdLnD5Rv) | 2:40 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 59 | [odio a primera vista](https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O) | [Ana Sofi W.](https://open.spotify.com/artist/2lyO70w7by5Ekhac2H6zS0) | [odio a primera vista](https://open.spotify.com/album/0SUOvTZTNdnEES1VpEW7Vu) | 3:06 |
 | 60 | [Aeropuerto](https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Aeropuerto](https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn) | 3:32 |
 | 61 | [Al Mismo Kbrn \(De Siempre\)](https://open.spotify.com/track/5CmRpdPwcN9BK4KXNYAr0Z) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Denisse Guerrero](https://open.spotify.com/artist/1vVOBTQuNsGrbHedkTKUD5) | [Al Mismo Kbrn \(De Siempre\)](https://open.spotify.com/album/090ET0e1hTQLnCvnc5X9yN) | 3:21 |
-| 62 | [maniático](https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [maniático](https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG) | 2:54 |
-| 63 | [Hot Cherry Bomb](https://open.spotify.com/track/6vFqACvmDtCtcLB2OdiBA2) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Hot Cherry Bomb](https://open.spotify.com/album/14JMi0a2NKoBedw05QpxWV) | 2:08 |
+| 62 | [Hot Cherry Bomb](https://open.spotify.com/track/6vFqACvmDtCtcLB2OdiBA2) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Hot Cherry Bomb](https://open.spotify.com/album/14JMi0a2NKoBedw05QpxWV) | 2:08 |
+| 63 | [maniático](https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [maniático](https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG) | 2:54 |
 | 64 | [Ley universal](https://open.spotify.com/track/3dC9fYYyH5oGu8mQbcE8HQ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Ley universal](https://open.spotify.com/album/0UoP5K4k5NrxoYmtG3z0XG) | 3:09 |
 | 65 | [Amantes](https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Amantes](https://open.spotify.com/album/70Ywxe81wjlVE9wY7075WC) | 2:33 |
 | 66 | [Baja California](https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Baja California](https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf) | 3:07 |

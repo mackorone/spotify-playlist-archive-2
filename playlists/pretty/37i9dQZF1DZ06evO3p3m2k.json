@@ -1,12 +1,12 @@
 {
   "description": "This is Juliana. The essential tracks, all in one playlist.",
-  "num_followers": 5769,
+  "num_followers": 5774,
   "original_name": "This Is Juliana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAABxeHK38Mm48eAT+Lwvlowp",
+  "snapshot_id": "aheFgAAAAAAxW+Sa74OH1/Aabfcom0FL",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Primera Vez: Temporada 4 (Soundtrack de la Serie de Netflix)",
+        "url": "https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 218460,
+      "name": "La Primera Vez - Remix",
+      "url": "https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con las Que Crec\u00ed (Sesi\u00f3n en Vivo)",
         "url": "https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr"
       },
@@ -623,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Primera Vez: Temporada 4 (Soundtrack de la Serie de Netflix)",
-        "url": "https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 218460,
-      "name": "La Primera Vez - Remix",
-      "url": "https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minuto Cien",
         "url": "https://open.spotify.com/album/0VgrHzob67ddWvWakNphCx"
       },
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 198179,
+      "name": "A La Medida (2:20am)",
+      "url": "https://open.spotify.com/track/7EQKXlAb6jFOld9IPODbn8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Terminal",
         "url": "https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 178561,
       "name": "La Terminal",
       "url": "https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juliana",
-        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 198179,
-      "name": "A La Medida (2:20am)",
-      "url": "https://open.spotify.com/track/7EQKXlAb6jFOld9IPODbn8"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Primera Vez",
-        "url": "https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS"
-      },
-      "artists": [
-        {
-          "name": "Opa!",
-          "url": "https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ"
-        },
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 305898,
-      "name": "La Primera Vez",
-      "url": "https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Juliana",
         "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 248741,
       "name": "Juro Feat. Los Rumberos (Cap. 3)",
       "url": "https://open.spotify.com/track/3VDRMczhOxenDb7GPYKy7i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Primera Vez",
+        "url": "https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS"
+      },
+      "artists": [
+        {
+          "name": "Opa!",
+          "url": "https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 305898,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 166227,
+      "name": "Monta\u00f1a Rusa",
+      "url": "https://open.spotify.com/track/0OC5zKdIxjR3oYiWuL3Tq1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
         "url": "https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 170896,
       "name": "Si Quieres Marcharte Feat. Dstance (Cap. 1)",
       "url": "https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juliana",
-        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 166227,
-      "name": "Monta\u00f1a Rusa",
-      "url": "https://open.spotify.com/track/0OC5zKdIxjR3oYiWuL3Tq1"
     },
     {
       "added_at": null,

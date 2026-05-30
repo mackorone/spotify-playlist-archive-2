@@ -2,9 +2,9 @@
 
 ### [Video Musik Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DX7GFJ6vkCaiW)
 
-> Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Bernadya
+> Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Idgitaf, Hindia
 
-98 songs - 6 hr 18 min
+100 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cukup Sudah](https://open.spotify.com/track/7p0oydlzqHhi8ioLpCoUFc) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Cukup Sudah](https://open.spotify.com/album/6c5nRXhcFxc2YinPtePuao) | 3:33 | 2026-04-24 |  |
 | [Dia Milikku](https://open.spotify.com/track/1OQyfW04HtxbKJykjlG3wD) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [The Special One](https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp) | 3:31 | 2026-04-24 |  |
 | [Get Over Him](https://open.spotify.com/track/4lIQwnb1WHfdLf1YJHR31G) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Get Over Him](https://open.spotify.com/album/5cTM5vH4eQP1gauYKJftsA) | 3:06 | 2026-04-24 |  |
+| [Hatchu!!](https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Hatchu!!](https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F) | 3:24 | 2026-05-29 |  |
 | [Hilang Tanpa Bilang](https://open.spotify.com/track/6YYjgWRjj703COAyUNkHGE) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Hilang Tanpa Bilang](https://open.spotify.com/album/1ZYPWfFxtR0d4hWK01TfL6) | 4:43 | 2026-04-24 |  |
 | [Hoping You'll Be Mine](https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Hoping You'll Be Mine](https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8) | 3:22 | 2026-04-24 |  |
 | [Idea of You](https://open.spotify.com/track/4zfbfAmuxAD4Eevm1Kr7tN) | [Rimar](https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx) | [Idea of You](https://open.spotify.com/album/5PIXEonnpeD2zCG81NDXJn) | 2:39 | 2026-04-24 |  |
@@ -49,6 +50,7 @@
 | [Magnet](https://open.spotify.com/track/1xmR2idNjgxB8MTkBFh47L) | [KIM](https://open.spotify.com/artist/1ltPgn4r3rgK3NcpJZScIp), [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Magnet](https://open.spotify.com/album/1DvGtGi6iUv4QHQIueLWYk) | 3:36 | 2026-04-24 |  |
 | [Makna](https://open.spotify.com/track/2FPYnKqvSmYUBk1YE8q31E) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Klise](https://open.spotify.com/album/3py2U2L6UzHMMEoVuu8cD6) | 3:44 | 2026-04-24 |  |
 | [Masa ini, Nanti, dan Masa Indah Lainnya](https://open.spotify.com/track/3TTZfjYqhTowNALncAmY5v) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [EUNOIA](https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB) | 4:35 | 2026-04-24 |  |
+| [Masih Ada Cahaya](https://open.spotify.com/track/060z6NmZPv7YJWpQYYKTcs) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq), [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Berusaha di Bawah Hujan](https://open.spotify.com/album/2D2escw6RwZriL7Ia8EB05) | 3:54 | 2026-05-29 |  |
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2026-04-24 |  |
 | [Masih Takut Mencinta](https://open.spotify.com/track/4E6iWEsfOAkrT4OpluseK1) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:28 | 2026-04-24 |  |
 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 | 2026-04-24 |  |

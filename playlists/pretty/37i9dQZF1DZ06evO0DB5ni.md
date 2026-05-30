@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 
 > This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,446 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,626 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Regalo De Dios](https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:05 |
 | 2 | [Pongámonos De Acuerdo](https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:41 |
-| 3 | [Ojos Verdes](https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:57 |
+| 3 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:11 |
 | 4 | [Cero Empatía](https://open.spotify.com/track/18OMTIWpHGvhTcQjg83CtQ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [42 18](https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE) | 3:09 |
 | 5 | [Lo Tienes Todo](https://open.spotify.com/track/29vIEdxgMT9H1fnBMecWjA) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 2:44 |
 | 6 | [La Sonrisa Obligatoria](https://open.spotify.com/track/1nBOAbDuCryfokrS40T6w2) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:40 |
-| 7 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2jPufybqAAmiF16Jirt9Ez) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:11 |
+| 7 | [Ojos Verdes](https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Soy Lo Que Quiero..\. Indispensable \(Edición Especial\)](https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb) | 3:57 |
 | 8 | [Rey Sin Reina](https://open.spotify.com/track/0BiDnJFB3TlRB6aji7jUz3) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Atento Aviso ..\. Rey Sin Reina](https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2) | 2:30 |
 | 9 | [Casi Completa](https://open.spotify.com/track/5BTibB0lM8fExn033QebZJ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 3:10 |
 | 10 | [El Amor De Su Vida](https://open.spotify.com/track/5zMgWyXawwhTbCh74tiMxD) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:39 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 44 | [No Sé](https://open.spotify.com/track/76LNcs9r5RU3b6yB2UW10E) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:07 |
 | 45 | [Algo Bien](https://open.spotify.com/track/2M79FMrWRz5AlqbMXyRGP6) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Incomparable](https://open.spotify.com/album/1FFEWzkpUGWt0aC6rzQC8D) | 3:06 |
 | 46 | [Dueña De Mis Besos](https://open.spotify.com/track/22SjQwvk02AqkPuwQukDnZ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [42 18](https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE) | 2:31 |
-| 47 | [Ya No](https://open.spotify.com/track/3AnmzU0AFDi4XkAk7aGJD3) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Atento Aviso ..\. Rey Sin Reina](https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2) | 2:34 |
-| 48 | [Demente](https://open.spotify.com/track/642V8Exx3tLDW7yYrbKgCW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:34 |
-| 49 | [Hay Amores](https://open.spotify.com/track/3xdC10QJ54yltOq8r4fbXa) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Ídolos, Hoy Mis Amigos!!!](https://open.spotify.com/album/4DQQ3pKX45A1Twok8WL0hc) | 3:15 |
+| 47 | [Hay Amores](https://open.spotify.com/track/3xdC10QJ54yltOq8r4fbXa) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Ídolos, Hoy Mis Amigos!!!](https://open.spotify.com/album/4DQQ3pKX45A1Twok8WL0hc) | 3:15 |
+| 48 | [Ya No](https://open.spotify.com/track/3AnmzU0AFDi4XkAk7aGJD3) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Atento Aviso ..\. Rey Sin Reina](https://open.spotify.com/album/38uizvY4xqOiAq750FDmW2) | 2:34 |
+| 49 | [Demente](https://open.spotify.com/track/642V8Exx3tLDW7yYrbKgCW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:34 |
 | 50 | [Te Dije](https://open.spotify.com/track/7nqb9Lio1yARXuEdlkNOJW) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 2:23 |
 
-Snapshot ID: `ahY0AAAAAACkbiJ6yUcVr9BoFexyqgK8`
+Snapshot ID: `aheFgAAAAAAcs3l+pWE5PGdsAM+wUbaR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 
 > <a href="spotify:artist:3QFiymmbJlVBPpnrOatEAkq">Myd</a>'s favourite tracks\. Updated regularly\. Curated by Myd\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,307 likes - 311 songs - 1 day 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,322 likes - 324 songs - 1 day 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -319,5 +319,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcY6g7fWiKHx.md) - [plain]
 | 309 | [I Hadn't Known \(I Only Heard\)](https://open.spotify.com/track/7K0zIiRhf2WdHStfJR3HMU) | [Herbert](https://open.spotify.com/artist/6wXFUcaG7779tb1Ok72GBn) | [You Are Here](https://open.spotify.com/album/6MUop4oMi7GzUW6safdk8t) | 7:22 |
 | 310 | [Beat Bunny](https://open.spotify.com/track/03aGl91oeW7EZolJTFFNlM) | [Povoa](https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Beat Bunny](https://open.spotify.com/album/4918fSnTl2rA30dykzTrXG) | 3:14 |
 | 311 | [Song for You \- Kink Remix](https://open.spotify.com/track/1Ul24qfMjltxX5tEQcMpd8) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb) | [Song for You \(Kink Remix\)](https://open.spotify.com/album/51hcx5FC1XBpK9uqvMGNuk) | 4:41 |
+| 312 | [Triumph](https://open.spotify.com/track/60NshFAQfFdORPgbWhiSGX) | [Lean Low](https://open.spotify.com/artist/7A9q57PZ1UYY61rQVQKNUz) | [Stoop](https://open.spotify.com/album/03yjGdvpNXMbvqokXt7dmm) | 2:41 |
+| 313 | [Jumbo Hotdog](https://open.spotify.com/track/1RhDBbR7gDtIVsSa9F15dn) | [Masculados](https://open.spotify.com/artist/1JerI7MBqgTmPwFT0RpGS2) | [Nakaka...](https://open.spotify.com/album/0bhc5MOt5JHvKs9j2a5HKt) | 2:27 |
+| 314 | [Go Down \(feat\. Lee Scratch Perry\)](https://open.spotify.com/track/7Jv8k3MAfv9xfY1vj4JGF8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Roots](https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC) | 4:45 |
+| 315 | [So High](https://open.spotify.com/track/0VwHICADRAs30mvbD58MQY) | [GENNARO](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Enigma EP](https://open.spotify.com/album/7hqtZL6JeWriDUPEzG3jFV) | 3:00 |
+| 316 | [Reeborn P3 \- Reemaster](https://open.spotify.com/track/7AE7tuN0tvcbtUeWyElJmQ) | [Reelow](https://open.spotify.com/artist/5FizNUi0Rn6ZR6cmXL5nts) | [Reeborn P3 \(Reemaster\)](https://open.spotify.com/album/3UoMiWtvb4YjLk5lNKM5UL) | 5:37 |
+| 317 | [At the Party \(Myd Remix\)](https://open.spotify.com/track/0xdkCJUBG4lNQ3XnKoYsJB) | [DRIFT](https://open.spotify.com/artist/4GMpU7w4sOGXEyvQGpL1pX), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e), [infinite bisous](https://open.spotify.com/artist/7w5cbnOLouZ5bGFvwIF5Ff), [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [At the Party \(Myd Remix\)](https://open.spotify.com/album/7rWkijcfwy4XoWehV7bBQT) | 4:42 |
+| 318 | [Love Infection \- It's Just A Myd Remix](https://open.spotify.com/track/6iLTKUxcZdtn5mrMaqG5rr) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Higher](https://open.spotify.com/album/159jYJIHUwlReI4ARdC6oF) | 5:37 |
+| 319 | [Backstage Beauties](https://open.spotify.com/track/23nPRikc4zyCdTW7v4jDsf) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Backstage Beauties EP](https://open.spotify.com/album/3BZBOJSZSfOgZ0kfw9e32a) | 3:30 |
+| 320 | [Like It](https://open.spotify.com/track/3R9VgJ5fzBH5cNPDw5vAL9) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Like It](https://open.spotify.com/album/0lHjRu2RXgqIrnoRNX63C9) | 4:26 |
+| 321 | [Electro Body Free](https://open.spotify.com/track/2iVRvFKkGVpvC5lZGdiQUY) | [Chris Carrier](https://open.spotify.com/artist/1UcGcYjeIfYZATTOQVNXFN) | [Inner Activist](https://open.spotify.com/album/0FRWxDB60BCSUwI6PyMeUt) | 6:26 |
+| 322 | [Superfine Feeling \- Ashley Beedle's NSW Rejig \- 12" Edit](https://open.spotify.com/track/0wxwricAQkhkWoChdqoCRN) | [Rare Pleasure](https://open.spotify.com/artist/1Denphyud3EbymnUhwfwTW), [Ashley Beedle](https://open.spotify.com/artist/7gs54cZveSV3kraHmiGYDr) | [Superfine Feeling](https://open.spotify.com/album/68azCdGEME7PtUgkj5NyQH) | 10:13 |
+| 323 | [Black Majik](https://open.spotify.com/track/2brOYVbPEl8c6F0sAK4Nb7) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 3:19 |
+| 324 | [Coeur](https://open.spotify.com/track/5CwG9TTuRWEKtNwSl5qWlC) | [PPJ](https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi) | [Joker](https://open.spotify.com/album/4pMmWhrzk3PdHEcSLAHzvK) | 4:19 |
 
-Snapshot ID: `AAAAANy0/N2QVMz7DjYBB7OTzlDOSa7G`
+Snapshot ID: `AAAAAILVpbFSywN9dPFo+xn9bHPDtylc`

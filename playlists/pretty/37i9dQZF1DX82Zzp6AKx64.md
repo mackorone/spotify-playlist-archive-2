@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,941 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,237,005 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 18 | [The Flame](https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Lap Of Luxury](https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM) | 5:40 |
 | 19 | [Babe](https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Cornerstone](https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh) | 4:25 |
 | 20 | [What About Love?](https://open.spotify.com/track/5nN1jGnCadYk1jYm6oV5zN) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Heart](https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430) | 3:41 |
-| 21 | [We Don't Need Another Hero \(Thunderdome\)](https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 4:15 |
-| 22 | [Wild World](https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:28 |
+| 21 | [Wild World](https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Bump Ahead \[Expanded\]](https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA) | 3:28 |
+| 22 | [We Don't Need Another Hero \(Thunderdome\)](https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 4:15 |
 | 23 | [Take My Breath Away](https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Take My Breath Away](https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ) | 4:24 |
 | 24 | [Amanda](https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Third Stage](https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv) | 4:16 |
 | 25 | [Paradise By the Dashboard Light](https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 8:29 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 58 | [When I'm With You](https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O) | [Sheriff](https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d) | [Sheriff](https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V) | 3:58 |
 | 59 | [If You Needed Somebody](https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Holy Water](https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE) | 4:21 |
 | 60 | [Sometimes She Cries](https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:43 |
-| 61 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 |
+| 61 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
 | 62 | [Where You Goin' Now](https://open.spotify.com/track/3jaRUUaJUvS57h1DyVzUUX) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Don't Tread](https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8) | 4:39 |
-| 63 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
+| 63 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 |
 | 64 | [I'll Be There For You](https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey](https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv) | 5:46 |
 | 65 | [Life Goes On \- 2003 Remaster](https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 4:47 |
 | 66 | [Sleeping \(In The Fire\)](https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:55 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 87 | [Don't Walk Away](https://open.spotify.com/track/0g0WdBxrrOxOrowa9PDF9j) | [Danger Danger](https://open.spotify.com/artist/1VaIDrxow5xfLmB9R26JVZ) | [Danger Danger](https://open.spotify.com/album/3fkdfqYl5Ky1jbpEWqDe5U) | 4:55 |
 | 88 | [Here for You](https://open.spotify.com/track/3PcdvDVTHoRd46A3vPrRG2) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Black Rain \(Expanded Edition\)](https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z) | 4:37 |
 | 89 | [Just Take My Heart](https://open.spotify.com/track/7mqqMOgnRE50GOJFPxRF8x) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 4:25 |
-| 90 | [What Keeps Me Loving You](https://open.spotify.com/track/01w2LL7wrPyb4B3D6KhlIi) | [XYZ](https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk) | [XYZ](https://open.spotify.com/album/0lqnYDP3PMremkTQyG2F65) | 4:42 |
-| 91 | [One In A Million](https://open.spotify.com/track/21c4eOwp47FhhiFQWBLMz6) | [Trixter](https://open.spotify.com/artist/4M3TtMs03DHCYvzbgzBnyZ) | [Trixter](https://open.spotify.com/album/0XZ1S3qHK4OPgA0o8itUMb) | 5:05 |
-| 92 | [Paradise](https://open.spotify.com/track/48lLr0blWNLIl6hPoF3Ex1) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [The Great Radio Controversy](https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM) | 4:58 |
+| 90 | [Paradise](https://open.spotify.com/track/48lLr0blWNLIl6hPoF3Ex1) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [The Great Radio Controversy](https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM) | 4:58 |
+| 91 | [What Keeps Me Loving You](https://open.spotify.com/track/01w2LL7wrPyb4B3D6KhlIi) | [XYZ](https://open.spotify.com/artist/7M26B2dpKVQ30MPUYvzWXk) | [XYZ](https://open.spotify.com/album/0lqnYDP3PMremkTQyG2F65) | 4:42 |
+| 92 | [One In A Million](https://open.spotify.com/track/21c4eOwp47FhhiFQWBLMz6) | [Trixter](https://open.spotify.com/artist/4M3TtMs03DHCYvzbgzBnyZ) | [Trixter](https://open.spotify.com/album/0XZ1S3qHK4OPgA0o8itUMb) | 5:05 |
 | 93 | [Only My Heart Talkin'](https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:46 |
 | 94 | [Possession](https://open.spotify.com/track/4c9pXEaHBDpQT2HnXOUult) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 5:08 |
 | 95 | [When I'm Gone](https://open.spotify.com/track/66jTfbDdDYnV6fvb85WU25) | [McAuley Schenker Group](https://open.spotify.com/artist/3LbJq0qQ5XCk2ocAPfRxJz) | [MSG](https://open.spotify.com/album/4l2Iw0TA4oIqP8yWrfiM27) | 4:49 |

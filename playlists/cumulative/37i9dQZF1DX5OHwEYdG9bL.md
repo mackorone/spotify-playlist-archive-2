@@ -2,9 +2,9 @@
 
 ### [K\-Pop Music Video Hits](https://open.spotify.com/playlist/37i9dQZF1DX5OHwEYdG9bL)
 
-> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: aespa\) \(Enjoy a playlist of songs that support music video features!\)
+> 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: LE SSERAFIM\) \(Enjoy a playlist of songs that support music video features!\)
 
-224 songs - 12 hr 20 min
+225 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4apJfKW7UamoD66jO1lVMa) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/album/73ktiEZTGvXdVqNpWYjwBX) | 3:21 | 2025-07-15 |  |
 | [Bitter Sweet](https://open.spotify.com/track/5cnQKFiGw1qVfnbhGBbTPx) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Bitter Sweet](https://open.spotify.com/album/0LZZQWGxIn73Zx3joZTbyN) | 2:49 | 2026-01-03 |  |
 | [Blue Valentine](https://open.spotify.com/track/3oW83DopZrJSdXG6T8FHJ8) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0CthFjhDsahYkAhEY7X8kx) | 3:14 | 2025-10-24 |  |
+| [BOOMPALA \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/4RpHkKbIFAc96Q2ep2eg6y) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BOOMPALA \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/3SheoOcRqSqoeJdvfhZPHo) | 3:02 | 2026-05-29 |  |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/0Tql32l0iKbng4WDok0SgE) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5TI8s1Kjo4nNFKyqxpMKjK) | 4:03 | 2025-07-15 | 2025-08-20 |
 | [BOTH SIDES](https://open.spotify.com/track/3fBp1fqRxFAH5NWhIY9lMq) | [NCT JNJM](https://open.spotify.com/artist/1LljMyYd0jLd4Q7z1iDR5H) | [BOTH SIDES](https://open.spotify.com/album/7fECU0kA1n5hxYzz7PpHmN) | 3:16 | 2026-02-27 |  |
 | [BRUISE](https://open.spotify.com/track/2PgRbGGGKgTTAQJWMcuwsL) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [BRUISE](https://open.spotify.com/album/3f3zoSdNknY1cVivGbEyC9) | 3:29 | 2026-01-28 |  |

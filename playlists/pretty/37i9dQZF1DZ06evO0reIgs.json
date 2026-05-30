@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAABCrrPcvBpqd+HMYO5KqkFH",
+  "snapshot_id": "aheFgAAAAACVcECAtdSAPV5tSWJ0B219",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Col\u00edrio da C\u00f3lera",
-        "url": "https://open.spotify.com/album/0N9FuUX9s8kpPuTOxtq0kt"
-      },
-      "artists": [
-        {
-          "name": "Fabio Brazza",
-          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 202108,
-      "name": "Jurei/Odin",
-      "url": "https://open.spotify.com/track/1Zd1T3T45QW6Pv8U0l0uPT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o \u00e9 S\u00f3 Isso (Ao Vivo)",
         "url": "https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 180032,
       "name": "Beira Mar",
       "url": "https://open.spotify.com/track/0WIcuCP4r3jBup7JRk7yRO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Col\u00edrio da C\u00f3lera",
+        "url": "https://open.spotify.com/album/2PmgQahqFIrluuyIu9xHEW"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 202108,
+      "name": "Jurei/Odin",
+      "url": "https://open.spotify.com/track/1hpujZfaZr8hikiiYaEFjs"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gado",
+        "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Psiu",
+      "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ponto Panor\u00e2mico",
         "url": "https://open.spotify.com/album/6QTR3FJriIgFMIEuYteR3c"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 220500,
       "name": "N\u00e3o Vou Dormir Cedo",
       "url": "https://open.spotify.com/track/4JugYnZ8NTvzF0pCMpa49v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gado",
-        "url": "https://open.spotify.com/album/4ONyrxW3mWMLASTjpKq2ak"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Psiu",
-      "url": "https://open.spotify.com/track/3jtDOL6YOJpZpp1wABKoLp"
     },
     {
       "added_at": null,
@@ -823,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teoria do Ciclo da \u00c1gua",
+        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 275905,
+      "name": "Garota",
+      "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ponto Panor\u00e2mico",
         "url": "https://open.spotify.com/album/6QTR3FJriIgFMIEuYteR3c"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 162352,
       "name": "Te Escolhi",
       "url": "https://open.spotify.com/track/4hr93nmJbrM5fa6TpxA1jW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Teoria do Ciclo da \u00c1gua",
-        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 275905,
-      "name": "Garota",
-      "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
     },
     {
       "added_at": null,
@@ -1011,30 +1011,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fim Do Mundo",
-        "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
+        "name": "Do Caos ao Nirvana",
+        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
       "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Beeside Records",
-          "url": "https://open.spotify.com/artist/3ZCJP8VneBmjWhsRzmcOdo"
-        },
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 148571,
-      "name": "Fim Do Mundo",
-      "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
+      "duration_ms": 208695,
+      "name": "No Cais",
+      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
     },
     {
       "added_at": null,
@@ -1063,22 +1055,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Caos ao Nirvana",
-        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
+        "name": "Fim Do Mundo",
+        "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
       },
       "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+          "name": "Beeside Records",
+          "url": "https://open.spotify.com/artist/3ZCJP8VneBmjWhsRzmcOdo"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
         }
       ],
-      "duration_ms": 208695,
-      "name": "No Cais",
-      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
+      "duration_ms": 148571,
+      "name": "Fim Do Mundo",
+      "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
     },
     {
       "added_at": null,
@@ -1143,26 +1143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afetropia",
-        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        }
-      ],
-      "duration_ms": 173989,
-      "name": "Dan\u00e7ar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ainda \u00c9 Ver\u00e3o",
         "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 157006,
       "name": "Por Aqui",
       "url": "https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afetropia",
+        "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 173989,
+      "name": "Dan\u00e7ar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/0QCO5Qs1Bde7iw8IXlhpXy"
     },
     {
       "added_at": null,

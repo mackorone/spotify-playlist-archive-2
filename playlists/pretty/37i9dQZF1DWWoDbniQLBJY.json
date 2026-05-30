@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Valentina Rico",
-  "num_followers": 1791378,
+  "num_followers": 1791139,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Volverte A Ver - MTV Unplugged",
-      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "chiquita",
         "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 198720,
       "name": "culpa",
       "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Volverte A Ver - MTV Unplugged",
+      "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "MTV Unplugged (En Vivo)",
-        "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Mar\u00eda (Unplugged) - En Vivo",
-      "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
       },
@@ -739,22 +723,18 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Acoustic Sessions #1",
-        "url": "https://open.spotify.com/album/3bMXpSzCe91KawJRt1kiCR"
+        "name": "MTV Unplugged (En Vivo)",
+        "url": "https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9"
       },
       "artists": [
         {
-          "name": "NOREH",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Maquillaje (Acoustic)",
-      "url": "https://open.spotify.com/track/7qDIPO5RwLqLv3kVqhgeLH"
+      "duration_ms": 255133,
+      "name": "Mar\u00eda (Unplugged) - En Vivo",
+      "url": "https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -803,6 +783,26 @@
       "duration_ms": 170795,
       "name": "pa' que sue\u00f1es",
       "url": "https://open.spotify.com/track/4KuSic9vPLVLgB5lCfeFQy"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Acoustic Sessions #1",
+        "url": "https://open.spotify.com/album/3bMXpSzCe91KawJRt1kiCR"
+      },
+      "artists": [
+        {
+          "name": "NOREH",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Maquillaje (Acoustic)",
+      "url": "https://open.spotify.com/track/7qDIPO5RwLqLv3kVqhgeLH"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 264106,
-      "name": "Es Por T\u00ed - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "V\u00e9rtigo",
         "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 195917,
       "name": "Si hubieras querido - Versi\u00f3n ac\u00fastica",
       "url": "https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 264106,
+      "name": "Es Por T\u00ed - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Am\u00e9 (demo original)",
-        "url": "https://open.spotify.com/album/6qRHfBZ4IOPG4CSsUMdqoE"
-      },
-      "artists": [
-        {
-          "name": "Gera Demara",
-          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
-        }
-      ],
-      "duration_ms": 205197,
-      "name": "Am\u00e9 - demo original",
-      "url": "https://open.spotify.com/track/5FOEWRyZ9xwJwRlHmIaftH"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Preso (Grabado en ONErpm Studios)",
         "url": "https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "X Aqu\u00ed X All\u00e1 (Acustico)",
-        "url": "https://open.spotify.com/album/1fnwRevrGaRoY5MSmfOBVO"
+        "name": "Am\u00e9 (demo original)",
+        "url": "https://open.spotify.com/album/6qRHfBZ4IOPG4CSsUMdqoE"
       },
       "artists": [
         {
-          "name": "Caceres",
-          "url": "https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn"
+          "name": "Gera Demara",
+          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
         }
       ],
-      "duration_ms": 190628,
-      "name": "X Aqu\u00ed X All\u00e1 - Acustico",
-      "url": "https://open.spotify.com/track/648QMpSfKf72WwwvG3fKL5"
+      "duration_ms": 205197,
+      "name": "Am\u00e9 - demo original",
+      "url": "https://open.spotify.com/track/5FOEWRyZ9xwJwRlHmIaftH"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
+        "name": "X Aqu\u00ed X All\u00e1 (Acustico)",
+        "url": "https://open.spotify.com/album/1fnwRevrGaRoY5MSmfOBVO"
+      },
+      "artists": [
+        {
+          "name": "Caceres",
+          "url": "https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn"
+        }
+      ],
+      "duration_ms": 190628,
+      "name": "X Aqu\u00ed X All\u00e1 - Acustico",
+      "url": "https://open.spotify.com/track/648QMpSfKf72WwwvG3fKL5"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
         "name": "Peque\u00f1os Romances",
         "url": "https://open.spotify.com/album/02YYFa5lfqrTzRXUQQaQZo"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 295000,
       "name": "Enredadera",
       "url": "https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
-        "name": "Dimos Tanto",
-        "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
-      },
-      "artists": [
-        {
-          "name": "El Toed",
-          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
-        }
-      ],
-      "duration_ms": 189437,
-      "name": "Dimos Tanto",
-      "url": "https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1331,6 +1315,22 @@
       "duration_ms": 226844,
       "name": "Cuanto antes (feat. Lali)",
       "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Dimos Tanto",
+        "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
+      },
+      "artists": [
+        {
+          "name": "El Toed",
+          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
+        }
+      ],
+      "duration_ms": 189437,
+      "name": "Dimos Tanto",
+      "url": "https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9"
     },
     {
       "added_at": "2026-01-16 05:00:38",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-01-16 05:00:38",
       "album": {
-        "name": "Me Haces Falta",
-        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 215332,
-      "name": "Me Haces Falta",
-      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
         "name": "Mp3",
         "url": "https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 181368,
       "name": "Mp3",
       "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
+    },
+    {
+      "added_at": "2026-01-16 05:00:38",
+      "album": {
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 215332,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
     },
     {
       "added_at": "2026-01-16 05:00:38",

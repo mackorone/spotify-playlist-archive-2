@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Ravyn Lenae
 
-3,032 songs - 7 day 7 hr 32 min
+3,035 songs - 7 day 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [Catatan Kita](https://open.spotify.com/track/7GeCsDAdyO6SZGn6BjII4n) | [Caffeine](https://open.spotify.com/artist/47PbXAwIZQ0Zb03yiv5YyG), [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Catatan Kita](https://open.spotify.com/album/11kPpap9chXLlLHgDFcyEu) | 3:08 | 2026-01-23 | 2026-02-20 |
 | [Cats On The Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats On The Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 | 2024-10-17 | 2024-11-08 |
 | [Caught In The Echo](https://open.spotify.com/track/0B6cG6HOupKy2GaWOgfeOH) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Caught In The Echo](https://open.spotify.com/album/6swKsHBLuNUekcQcW2SOYK) | 4:02 | 2026-03-19 | 2026-05-08 |
+| [Caution](https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [K\-POPS! \(Music from and inspired by K\-POPS! Motion Picture\)](https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS) | 2:43 | 2026-05-29 |  |
 | [CBZ \(Prime time\)](https://open.spotify.com/track/0ofqcEBPdlyczRjUhjCiIS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS 2nd Single Album ‘TELEPARTY’](https://open.spotify.com/album/4aVPbSv7GmCaa1qRxjpLSq) | 2:33 | 2025-01-09 | 2025-02-14 |
 | [Cecilia](https://open.spotify.com/track/2s65OnZf9qEqhtixjuexX6) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Cecilia](https://open.spotify.com/album/1K5HPlcVA6LSD74GhydxR4) | 3:58 | 2025-01-23 | 2025-02-21 |
 | [Cegil](https://open.spotify.com/track/1hfSoyfUsiIYQrB9LJrRN1) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Cegil](https://open.spotify.com/album/3lxXnNeKdTgQrGiuZtIo5s) | 2:56 | 2026-01-15 | 2026-02-13 |
@@ -1016,6 +1017,7 @@
 | [Harusnya Tau](https://open.spotify.com/track/6RCmEBkhetG7zZvSRR6dPY) | [Peter Holly](https://open.spotify.com/artist/6jjRl6DiuWp03YdfGGI4fb) | [Harusnya Tau](https://open.spotify.com/album/76zvRdBp8IGzTmSyTzIG2N) | 3:44 | 2024-11-22 | 2024-12-28 |
 | [Hatchu!!](https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Hatchu!!](https://open.spotify.com/album/1BTnjmmBTK1QxlqwYPdQ5F) | 3:24 | 2026-05-07 | 2026-05-29 |
 | [Hate Myself](https://open.spotify.com/track/7DmTGp8xqD7TeuFKU7230f) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Hate Myself](https://open.spotify.com/album/0kpeTZy0ghMbYEesoL9xBE) | 2:32 | 2026-04-23 | 2026-05-09 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Hate to Love](https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Hate to Love](https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE) | 3:07 | 2025-06-05 | 2025-07-11 |
 | [Hati Yang Inginkanmu](https://open.spotify.com/track/2PIWomWNmOLaP8NPROOPfa) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT), [Irwan Simanjuntak](https://open.spotify.com/artist/1oC20EFDaM34fIP4hGQuDN) | [Hati Yang Inginkanmu](https://open.spotify.com/album/7cUZGMx6WIhz2Z0Q8kMLir) | 3:44 | 2025-01-31 | 2025-02-28 |
 | [Hati Yang Rindu](https://open.spotify.com/track/5yIG4C47lCjlNdvTnQK1en) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Gema Bumantara](https://open.spotify.com/album/3f1zSqkzyCUUbN1m6w9BW2) | 4:24 | 2025-10-30 | 2025-12-05 |
@@ -1476,6 +1478,7 @@
 | [Lelah Dilatih Rindu](https://open.spotify.com/track/10s6cbRasW1qCYbmHPHOEP) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N), [Joey Penny](https://open.spotify.com/artist/6c61KWwMh7qXh4E2SXASIj) | [Lelah Dilatih Rindu](https://open.spotify.com/album/7of8OfRWJr5IvTkOcZ3v16) | 4:29 | 2025-05-29 | 2025-06-27 |
 | [Lelaki Itu](https://open.spotify.com/track/1XxewgFF7Wp6jHhze78x75) | [Aquene](https://open.spotify.com/artist/03yjA4IJBNUY1wOW6v5kqL) | [Lelaki Itu](https://open.spotify.com/album/5OnPy8zI63UE2deTL09U1I) | 4:25 | 2024-01-18 | 2024-02-10 |
 | [Lembar Biru](https://open.spotify.com/track/2udnv6JwOA2gSJdmmx5Rrk) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Lembar Biru](https://open.spotify.com/album/2QaBwbWoOhQi4fv5s9COx1) | 3:15 | 2026-01-15 | 2026-02-13 |
+| [LEMONADE \(feat\. Becky G\)](https://open.spotify.com/track/4NMJt97p0KujNuQsLcC7Ut) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [LEMONADE \- The 2nd Album](https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm) | 3:07 | 2026-05-29 |  |
 | [Lepas Kendali](https://open.spotify.com/track/11LEQn7G7zBIRnZhW3FnDA) | [Jo Soegono](https://open.spotify.com/artist/4g10GFwD6GAtYbugb9Ur7p) | [Lepas Kendali](https://open.spotify.com/album/6VtQV89IlZM0UlFYkhFNZL) | 3:10 | 2026-05-15 | 2026-05-29 |
 | [Lepas Kendali](https://open.spotify.com/track/4Mv3Eoz39mbrZCNrI2Ayl6) | [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Lepas Kendali](https://open.spotify.com/album/7rsgrqg8cLkBsAMjLpL39j) | 2:52 | 2025-10-16 | 2025-11-21 |
 | [Let It Rain](https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Let It Rain](https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC) | 3:30 | 2024-01-18 | 2024-03-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,042 likes - 47 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,047 likes - 47 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UB5PW.md) - [plain]
 | 46 | [Stargasm](https://open.spotify.com/track/5QMcwznMFieF1zUUElE5TR) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter](https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1) | 4:39 |
 | 47 | [The Hunter](https://open.spotify.com/track/1LCkCkRfvuHMkWaAdXggkP) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter](https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1) | 5:17 |
 
-Snapshot ID: `ahY0AAAAAAC54GHt1Wjc9azr8AAk1aC0`
+Snapshot ID: `aheFgAAAAADr+KrmmQYn9FEGj1zZLQV0`

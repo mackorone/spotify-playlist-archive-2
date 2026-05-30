@@ -1,13 +1,29 @@
 {
-  "description": "New music from your favorite women.  Cover: Ana\u00efs Cardot",
-  "num_followers": 231930,
+  "description": "New music from your favorite women.  Cover: Nia Smith",
+  "num_followers": 231945,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA/kHMnNk3Kgn1S6WRhVVZ/v8AV7",
+  "snapshot_id": "AAAAALmWJjMxOUxiOSMHYesLQox0uMFx",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:00:16",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0iTH2MjVG0ZGxQmjYXgzy5"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1fylUPtF8NeiiZQng4F1Tf"
+    },
     {
       "added_at": "2026-05-22 04:01:55",
       "album": {
@@ -39,6 +55,26 @@
       "duration_ms": 187266,
       "name": "But, Nvm",
       "url": "https://open.spotify.com/track/7ktnXbGn8XERn7H3LXWvJG"
+    },
+    {
+      "added_at": "2026-05-29 04:00:16",
+      "album": {
+        "name": "Callin (feat. Blu june)",
+        "url": "https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Blu june",
+          "url": "https://open.spotify.com/artist/3pyEwxCySBsnsD5B4SUiDr"
+        }
+      ],
+      "duration_ms": 154581,
+      "name": "Callin (feat. Blu june)",
+      "url": "https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF"
     },
     {
       "added_at": "2026-05-01 07:00:07",
@@ -105,6 +141,38 @@
       "url": "https://open.spotify.com/track/3OQh9gEKxpLttwRfbSoJQQ"
     },
     {
+      "added_at": "2026-05-29 04:00:16",
+      "album": {
+        "name": "If I'm Being Honest",
+        "url": "https://open.spotify.com/album/73Pru3XYfffjHiAD3F4Jfn"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/3GqOaLT2p0n6PkWtGauwqA"
+    },
+    {
+      "added_at": "2026-05-29 04:00:16",
+      "album": {
+        "name": "UR HEARTBEAT (WHO DO U THINK ABOUT AT 2AM?)",
+        "url": "https://open.spotify.com/album/58ELdOBLnCOlXM49zBO6AR"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "UR HEARTBEAT (WHO DO U THINK ABOUT AT 2AM?)",
+      "url": "https://open.spotify.com/track/0jj2mcsNyuWb0a3uSjrw67"
+    },
+    {
       "added_at": "2026-05-08 06:30:18",
       "album": {
         "name": "linknb",
@@ -119,30 +187,6 @@
       "duration_ms": 115160,
       "name": "linknb",
       "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
-    },
-    {
-      "added_at": "2026-05-22 04:01:55",
-      "album": {
-        "name": "Commas",
-        "url": "https://open.spotify.com/album/0obVlj0DotwfVCpOkVCbbS"
-      },
-      "artists": [
-        {
-          "name": "Courtnie",
-          "url": "https://open.spotify.com/artist/64jXN9rBQaUKV7a651NfVn"
-        },
-        {
-          "name": "Mad Keys",
-          "url": "https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2"
-        },
-        {
-          "name": "Phoelix",
-          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
-        }
-      ],
-      "duration_ms": 177045,
-      "name": "Commas",
-      "url": "https://open.spotify.com/track/7MVgBwgPIToyFKbLStFSw9"
     },
     {
       "added_at": "2026-05-15 06:21:37",
@@ -175,6 +219,62 @@
       "duration_ms": 249218,
       "name": "touch myself",
       "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
+    },
+    {
+      "added_at": "2026-05-29 04:00:16",
+      "album": {
+        "name": "U, Me & My Ego",
+        "url": "https://open.spotify.com/album/57esSZdPuChqy2bso66lwX"
+      },
+      "artists": [
+        {
+          "name": "Chxrry",
+          "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        }
+      ],
+      "duration_ms": 202857,
+      "name": "Call Security",
+      "url": "https://open.spotify.com/track/4guaicBZF35p1P5IQHheAV"
+    },
+    {
+      "added_at": "2026-05-22 04:01:55",
+      "album": {
+        "name": "Commas",
+        "url": "https://open.spotify.com/album/0obVlj0DotwfVCpOkVCbbS"
+      },
+      "artists": [
+        {
+          "name": "Courtnie",
+          "url": "https://open.spotify.com/artist/64jXN9rBQaUKV7a651NfVn"
+        },
+        {
+          "name": "Mad Keys",
+          "url": "https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        }
+      ],
+      "duration_ms": 177045,
+      "name": "Commas",
+      "url": "https://open.spotify.com/track/7MVgBwgPIToyFKbLStFSw9"
+    },
+    {
+      "added_at": "2026-05-29 04:00:16",
+      "album": {
+        "name": "MORNING STAR: SIDE A",
+        "url": "https://open.spotify.com/album/4svntTSNqGX6iPYAsnHfXa"
+      },
+      "artists": [
+        {
+          "name": "Ania Hoo",
+          "url": "https://open.spotify.com/artist/141bAnJhsORNsCW1biNRvL"
+        }
+      ],
+      "duration_ms": 173126,
+      "name": "In The Wild",
+      "url": "https://open.spotify.com/track/0OiRxihFF13l75DQka084O"
     },
     {
       "added_at": "2026-05-15 06:21:37",
@@ -245,6 +345,38 @@
       "url": "https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd"
     },
     {
+      "added_at": "2026-05-29 04:00:16",
+      "album": {
+        "name": "Crashing Out!",
+        "url": "https://open.spotify.com/album/2flNDWDgl7QUJUX1wwsxla"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "duration_ms": 153312,
+      "name": "Crashing Out!",
+      "url": "https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt"
+    },
+    {
+      "added_at": "2026-05-29 04:00:16",
+      "album": {
+        "name": "Teeth",
+        "url": "https://open.spotify.com/album/0LHpEML58tbjRPgRcijZWE"
+      },
+      "artists": [
+        {
+          "name": "Phoenix James",
+          "url": "https://open.spotify.com/artist/4ccuoNDrKJ85JUWxl5HJfP"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "Without U",
+      "url": "https://open.spotify.com/track/6iuThyBRFa7jNctNj9DL8b"
+    },
+    {
       "added_at": "2026-05-15 06:21:37",
       "album": {
         "name": "One on One",
@@ -303,6 +435,22 @@
       "duration_ms": 203514,
       "name": "what did you think love would be?",
       "url": "https://open.spotify.com/track/7cJGicwTADorJ8GfR2hxIB"
+    },
+    {
+      "added_at": "2026-05-29 04:00:16",
+      "album": {
+        "name": "GET RIGHT!",
+        "url": "https://open.spotify.com/album/6NZu7xrzevZ62alH9IpD1e"
+      },
+      "artists": [
+        {
+          "name": "Olivia Escuyos",
+          "url": "https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "GET RIGHT!",
+      "url": "https://open.spotify.com/track/0T1VdaTxOLZFmpTrMfbZAT"
     },
     {
       "added_at": "2026-05-08 06:30:18",
@@ -375,22 +523,6 @@
       "duration_ms": 138423,
       "name": "Step",
       "url": "https://open.spotify.com/track/6mYtOaYZJ9MT2ndegk5Xdu"
-    },
-    {
-      "added_at": "2026-05-08 06:30:18",
-      "album": {
-        "name": "Shallow",
-        "url": "https://open.spotify.com/album/3dDRdrekhd0Z7CVK5t9l9F"
-      },
-      "artists": [
-        {
-          "name": "MALIA",
-          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
-        }
-      ],
-      "duration_ms": 160920,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/0QYF8fcHrzm8hqEA3WtIyX"
     },
     {
       "added_at": "2026-05-15 06:21:37",
@@ -1209,22 +1341,6 @@
       "url": "https://open.spotify.com/track/0MUSX7J41ns5rBseSaxuyT"
     },
     {
-      "added_at": "2026-03-27 05:57:52",
-      "album": {
-        "name": "Soundtrack 2 Get Her Back",
-        "url": "https://open.spotify.com/album/5XaX9juZsbuhbK3JcgKJZE"
-      },
-      "artists": [
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 171147,
-      "name": "True 2 Me",
-      "url": "https://open.spotify.com/track/42eUx35cp7oi3fGM8WAzF1"
-    },
-    {
       "added_at": "2026-04-03 06:17:19",
       "album": {
         "name": "I Love You Out Loud",
@@ -1273,42 +1389,6 @@
       "url": "https://open.spotify.com/track/0nD4peo8xBWxCkiL21ymlO"
     },
     {
-      "added_at": "2026-04-03 06:17:19",
-      "album": {
-        "name": "Do It",
-        "url": "https://open.spotify.com/album/6zRX7MSVKv1nDepB6Bd2ob"
-      },
-      "artists": [
-        {
-          "name": "S!MONE",
-          "url": "https://open.spotify.com/artist/10kpnvgjTMftJlxcFxHz2w"
-        }
-      ],
-      "duration_ms": 231627,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/2MejdO2M4JyomNvB5S6Q9s"
-    },
-    {
-      "added_at": "2026-04-03 06:17:19",
-      "album": {
-        "name": "Terre Rouge (Mother Earth)",
-        "url": "https://open.spotify.com/album/2vRGcRR2Fq4oL0RBgW7CyT"
-      },
-      "artists": [
-        {
-          "name": "Lubiana",
-          "url": "https://open.spotify.com/artist/7ojiPW0PaP28Dfl8CqfQ3Q"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 181405,
-      "name": "Women Who Run with the Wolves",
-      "url": "https://open.spotify.com/track/3XgaFHJnpEpDL9SkMTxrYF"
-    },
-    {
       "added_at": "2026-03-20 06:19:37",
       "album": {
         "name": "Love or a Lesson",
@@ -1323,42 +1403,6 @@
       "duration_ms": 165714,
       "name": "Too Much?",
       "url": "https://open.spotify.com/track/3paF4msOUqJzGjSthSHkmE"
-    },
-    {
-      "added_at": "2026-03-27 05:57:52",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/7asQi6ABuMJaubEiykeq3l"
-      },
-      "artists": [
-        {
-          "name": "MALIA",
-          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/1ukZdmbOo4MeK64kvpT3Gh"
-    },
-    {
-      "added_at": "2026-03-06 05:18:12",
-      "album": {
-        "name": "Tough",
-        "url": "https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms"
-      },
-      "artists": [
-        {
-          "name": "Nia Smith",
-          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 195325,
-      "name": "Tough",
-      "url": "https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -2179,22 +2223,6 @@
       "duration_ms": 178650,
       "name": "A Minute",
       "url": "https://open.spotify.com/track/6U64qozXo66Eg24nOlgM6S"
-    },
-    {
-      "added_at": "2025-11-21 11:20:02",
-      "album": {
-        "name": "Cut Ties (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6dkIA6cPbDA99Q3zNon5iS"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 150744,
-      "name": "Jury",
-      "url": "https://open.spotify.com/track/0HqIvIEYPWDnI2gSmyxWZy"
     },
     {
       "added_at": "2025-09-19 16:39:00",

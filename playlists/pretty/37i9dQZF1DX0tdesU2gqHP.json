@@ -1,13 +1,29 @@
 {
-  "description": "The best videos from the world of pop! \nMusic videos only available on Premium.",
-  "num_followers": 10462,
+  "description": "The best videos from the world of pop! \n",
+  "num_followers": 10469,
   "original_name": "Pop Music Videos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABQa3Pz2HEZq8AvqXO/0iDZhd2As",
+  "snapshot_id": "AAAAAE7bJgIeTfP5+2O61GN8flYwENUU",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:15:22",
+      "album": {
+        "name": "SS26",
+        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "SS26",
+      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
+    },
     {
       "added_at": "2026-05-15 19:06:55",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 145520,
       "name": "Girl Like Me",
       "url": "https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB"
+    },
+    {
+      "added_at": "2026-05-29 04:15:22",
+      "album": {
+        "name": "Handle",
+        "url": "https://open.spotify.com/album/7lnMFvhJ0IU7KbludkIay0"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Handle",
+      "url": "https://open.spotify.com/track/6NDvhN0PFBIioNAbM4EDak"
     },
     {
       "added_at": "2026-05-22 05:38:00",
@@ -217,6 +249,22 @@
       "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
     },
     {
+      "added_at": "2026-05-29 04:15:22",
+      "album": {
+        "name": "The Last Encounter",
+        "url": "https://open.spotify.com/album/7FxjVKOU9UL90KAwsvJ0y6"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "The Last Encounter",
+      "url": "https://open.spotify.com/track/3cKyBigEDROC8U1QrY921a"
+    },
+    {
       "added_at": "2026-05-22 05:38:00",
       "album": {
         "name": "Kissing For Practice",
@@ -311,6 +359,26 @@
       "duration_ms": 242517,
       "name": "Potential",
       "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
+    },
+    {
+      "added_at": "2026-05-29 04:15:22",
+      "album": {
+        "name": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
+        "url": "https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 163844,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae"
     },
     {
       "added_at": "2026-05-15 18:16:08",
@@ -647,26 +715,6 @@
       "duration_ms": 169713,
       "name": "Damn Good Actress",
       "url": "https://open.spotify.com/track/3Uh3cFYJUYqS8CdHDbHkFC"
-    },
-    {
-      "added_at": "2026-05-01 14:54:48",
-      "album": {
-        "name": "Reputation (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 235705,
-      "name": "Reputation (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0"
     },
     {
       "added_at": "2026-05-01 14:54:48",

@@ -1,6 +1,6 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 744615,
+  "num_followers": 744586,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "The Soul Album",
         "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 240800,
       "name": "Cigarettes and Coffee",
       "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
       "added_at": "2026-01-07 19:33:17",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-01-07 19:33:17",
       "album": {
-        "name": "Sexy Weekend EP",
-        "url": "https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY"
-      },
-      "artists": [
-        {
-          "name": "Scoundrels",
-          "url": "https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj"
-        }
-      ],
-      "duration_ms": 251255,
-      "name": "Sexy Weekend",
-      "url": "https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA"
-    },
-    {
-      "added_at": "2026-01-07 19:33:17",
-      "album": {
         "name": "Sheep",
         "url": "https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 215180,
       "name": "Sheep",
       "url": "https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC"
+    },
+    {
+      "added_at": "2026-01-07 19:33:17",
+      "album": {
+        "name": "Sexy Weekend EP",
+        "url": "https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY"
+      },
+      "artists": [
+        {
+          "name": "Scoundrels",
+          "url": "https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj"
+        }
+      ],
+      "duration_ms": 251255,
+      "name": "Sexy Weekend",
+      "url": "https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA"
     },
     {
       "added_at": "2026-01-07 19:33:17",

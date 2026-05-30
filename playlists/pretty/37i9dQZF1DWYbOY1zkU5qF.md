@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,533 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,599 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 38 | [Mis ojos lloran por ti](https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Mis ojos lloran por ti](https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp) | 3:50 |
 | 39 | [Lucha De Gigantes](https://open.spotify.com/track/0xq83JuGO0zzaUuIAJXKMQ) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Lucha De Gigantes](https://open.spotify.com/album/47rUQhjmVyqm9Yut7fegrl) | 3:46 |
 | 40 | [Felices los 4 \- Acoustic version](https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Felices los 4 \(Acoustic Version\)](https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7) | 4:09 |
-| 41 | [El Microbito](https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Microbito](https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR) | 3:14 |
-| 42 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
+| 41 | [Despacito](https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 3:51 |
+| 42 | [El Microbito](https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Microbito](https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR) | 3:14 |
 | 43 | [Calma \- Remix](https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Calma \(Remix\)](https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ) | 2:52 |
 | 44 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 |
 | 45 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/4gICYVqe0drMCOVgj0OeTA) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/album/0DX0y2NJhzvD9igiBgbzTg) | 4:10 |
-| 46 | [Azucar Amargo](https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Azucar Amargo](https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL) | 4:30 |
-| 47 | [Vaina Loca](https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM) | [JayBe](https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds) | [Vaina Loca](https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS) | 1:36 |
+| 46 | [Vaina Loca](https://open.spotify.com/track/6Si4Ce7bsNjG3Nf1ly3UEM) | [JayBe](https://open.spotify.com/artist/0npHlWiyNlQoGnO5kryyds) | [Vaina Loca](https://open.spotify.com/album/03Li6KYTn5cFTL9eu9epoS) | 1:36 |
+| 47 | [Azucar Amargo](https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Azucar Amargo](https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL) | 4:30 |
 | 48 | [Amigos con derechos](https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Amigos con derechos](https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2) | 2:40 |
 | 49 | [Calma](https://open.spotify.com/track/5Z52mAR8UvfDNmm6xMvIIR) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Calma](https://open.spotify.com/album/3F0daqlEpGUxXQCRIjMwql) | 3:05 |
 | 50 | [Amor Tumbado](https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Amor Tumbado](https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n) | 2:28 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 59 | [Cuando Calienta El Sol](https://open.spotify.com/track/0ic53a5YySQxpEi14fRq6s) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Cuando Calienta El Sol](https://open.spotify.com/album/1fQp9n1xWOGAFfF3TOjMg2) | 2:39 |
 | 60 | [Dime Que No](https://open.spotify.com/track/44v0ugSESJkLjn9ZbSMc5m) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Dime Que No](https://open.spotify.com/album/7JfcZLkDCS64ip1f7bMsAn) | 4:51 |
 | 61 | [Fantasias](https://open.spotify.com/track/35iRS5s1Xro2LmPwHMGAAO) | [Las Alas](https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar) | [Fantasias](https://open.spotify.com/album/04rcBlUOjNeKoMqh8fHAdW) | 3:07 |
-| 62 | [Un año](https://open.spotify.com/track/0X0cGcn1tkNimeB2EKRZCq) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Un año](https://open.spotify.com/album/06kz8w5KKmpwS7JHZRhtUe) | 2:29 |
-| 63 | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId) | [Jaime Kohen](https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l) | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil) | 3:38 |
-| 64 | [A Dios Le Pido](https://open.spotify.com/track/0bJ4L7meNjdPyp9fsZk6Lr) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [A Dios Le Pido](https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ) | 4:18 |
+| 62 | [A Dios Le Pido](https://open.spotify.com/track/0bJ4L7meNjdPyp9fsZk6Lr) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [A Dios Le Pido](https://open.spotify.com/album/4LOenPk4TGzP09GLdo2lSJ) | 4:18 |
+| 63 | [Un año](https://open.spotify.com/track/0X0cGcn1tkNimeB2EKRZCq) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Un año](https://open.spotify.com/album/06kz8w5KKmpwS7JHZRhtUe) | 2:29 |
+| 64 | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId) | [Jaime Kohen](https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l) | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil) | 3:38 |
 | 65 | [A Donde Vamos A Parar](https://open.spotify.com/track/4Zr7wmru0BGM1H6w5hayJ0) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [A Donde Vamos A Parar](https://open.spotify.com/album/4nGO0YbAEosTUlngS6m5HL) | 4:23 |
 | 66 | [Vete](https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM) | [Alfa Omega](https://open.spotify.com/artist/40U0n49Vb1zjKZq3mQmKxo), [Cláudia Nunes](https://open.spotify.com/artist/23Q6X7fvKHUilv3ii6VFMl) | [Vete](https://open.spotify.com/album/1bJebMwImKlh4wNpHj9hHb) | 3:34 |
 | 67 | [Ahora Dice](https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6) | [Alex Coppel](https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM) | [Ahora Dice](https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL) | 3:21 |

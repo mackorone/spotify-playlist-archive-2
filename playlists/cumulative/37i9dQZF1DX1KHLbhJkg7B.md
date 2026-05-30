@@ -2,9 +2,9 @@
 
 ### [Country Covers](https://open.spotify.com/playlist/37i9dQZF1DX1KHLbhJkg7B)
 
-> Unique covers by your favorite country artists\. Cover: Gavin Adcock
+> Unique covers by your favorite country artists\. Cover: Bailey Zimmerman
 
-460 songs - 1 day 4 hr 41 min
+461 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Always On My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:33 | 2021-12-10 |  |
 | [Am I Losing You \- Remastered](https://open.spotify.com/track/5UJCcSSiQRXT9ONGbgihDE) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Ultimate Ronnie Milsap](https://open.spotify.com/album/6MtbZ0Hjoez0CqgfIQ6FfM) | 3:36 | 2021-12-10 | 2022-07-29 |
 | [Amarillo by Morning](https://open.spotify.com/track/40UaGjNcP6ZRNDksHLrCli) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 2:48 | 2021-12-10 | 2022-07-29 |
-| [American Girl](https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [American Girl](https://open.spotify.com/album/5LUbA5E8vsyAbFgmS2CZin) | 3:03 | 2024-02-23 | 2026-05-27 |
+| [American Girl](https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [American Girl](https://open.spotify.com/album/5LUbA5E8vsyAbFgmS2CZin) | 3:03 | 2024-02-23 |  |
 | [Anti\-Hero \- Country Version](https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Anti\-Hero \- Country Version](https://open.spotify.com/album/2oBYZQh1jUxidkpVHK3vsW) | 3:10 | 2022-11-04 | 2024-09-19 |
 | [Anymore](https://open.spotify.com/track/74iNoeAILH4cxEEHbVE8p5) | [Will Dempsey](https://open.spotify.com/artist/6EwJep0jBRD2MMG3BLH6dd) | [Anymore](https://open.spotify.com/album/5DfR3WXx0ior8OriOD9cK1) | 4:05 | 2021-12-10 | 2022-07-27 |
 | [Anyone](https://open.spotify.com/track/6LwOHSi4IoJtivi221knNa) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Anyone](https://open.spotify.com/album/3SZjxYfXYl3LWNI3VVV4NC) | 3:22 | 2022-10-14 | 2023-01-06 |
@@ -257,7 +257,7 @@
 | [Make Me Want To](https://open.spotify.com/track/6N97FC8o9OKlHb5sT0NKna) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Little More Tequila](https://open.spotify.com/album/4A5deLd84PViQDMdC0Jzew) | 2:55 | 2023-02-10 | 2023-04-10 |
 | [Mama He's Crazy](https://open.spotify.com/track/3uuAVN4ZepStnZvWZqzBDD) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy) | 3:17 | 2023-10-27 | 2023-11-11 |
 | [Mama He’s Crazy](https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:17 | 2023-11-03 | 2026-03-07 |
-| [Mama Tried](https://open.spotify.com/track/2WfuFrcBnoDHInW6Lb7RzI) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y), [Country Never Dies](https://open.spotify.com/artist/6TCgpmXVJnPOtKQVBWv4nk) | [Country Never Dies](https://open.spotify.com/album/2a6THopXVAZN4ivuKdOi2d) | 2:26 | 2026-03-13 |  |
+| [Mama Tried](https://open.spotify.com/track/2WfuFrcBnoDHInW6Lb7RzI) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y), [Country Never Dies](https://open.spotify.com/artist/6TCgpmXVJnPOtKQVBWv4nk) | [Country Never Dies](https://open.spotify.com/album/2a6THopXVAZN4ivuKdOi2d) | 2:26 | 2026-03-13 | 2026-05-30 |
 | [Mama, I'm Coming Home](https://open.spotify.com/track/27hFnDcq32Q9wGx0W3bFUG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Mama, I'm Coming Home](https://open.spotify.com/album/34VR7v0VYnTqwT7bLHD94o) | 3:56 | 2025-10-17 |  |
 | [Mammas Don’t Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/track/50yaJDcExOmFaKeyGOyRiE) | [Shannon McNally](https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T) | [Mammas Don’t Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/album/0qqdReY9Phr0htx5Rn9F82) | 3:32 | 2022-03-11 | 2022-06-28 |
 | [Man Of Constant Sorrow](https://open.spotify.com/track/4CYckHP3FnrXCysqEavOd5) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Man Of Constant Sorrow](https://open.spotify.com/album/7jlzOCM6wAcFjOn0sQvrKj) | 3:34 | 2023-08-18 | 2023-09-02 |
@@ -384,6 +384,7 @@
 | [The Bottle Let Me Down](https://open.spotify.com/track/7iAPw5fKsiuwaPappNUpX2) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Rancho Fiesta Sessions](https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv) | 2:45 | 2021-12-10 | 2022-07-28 |
 | [The Chair](https://open.spotify.com/track/5i74TSFhkAla3RRMiE7vuQ) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [The Chair](https://open.spotify.com/album/6r8XKL8A1fARjiXxcSifNm) | 2:50 | 2025-10-08 |  |
 | [The Chair \- The Bootlegger Sessions](https://open.spotify.com/track/10KMzf7sHmbxdEBGOXeyfn) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [The Chair \(The Bootlegger Sessions\)](https://open.spotify.com/album/35sGt91imrj8GqU6E7EV3v) | 2:46 | 2022-09-16 | 2022-09-26 |
+| [The Climb](https://open.spotify.com/track/5TFrCaVcHteA1QbGwwIJD6) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [The Climb](https://open.spotify.com/album/4wgM4DAqjKCY9t3zQ6cU3W) | 3:50 | 2026-05-29 |  |
 | [The Cowboy Rides Away](https://open.spotify.com/track/4BmTdSr3xoKElUVPJZRdiH) | [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Re\-Dunn](https://open.spotify.com/album/3SgV10W3DzqU9ROOMSpxfo) | 3:24 | 2021-12-10 | 2023-01-20 |
 | [The Devil Went Down to Georgia \- Remastered](https://open.spotify.com/track/6E7l20drqpZjMTqY5w3G8f) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [The Devil Went Down to Georgia \- Remastered](https://open.spotify.com/album/79xtbCxVx1XB1YM5Ocr8gC) | 4:19 | 2023-08-11 | 2023-11-18 |
 | [The Galway Girl](https://open.spotify.com/track/4HrdoGHlfUq1D0wJm1kZkD) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [The Galway Girl](https://open.spotify.com/album/3hW3sQNLMGyjGyGQmEAMTr) | 4:25 | 2023-01-13 | 2023-07-09 |
@@ -429,7 +430,7 @@
 | [Wasting All These Tears](https://open.spotify.com/track/53F09zoZSMdnUex1VjnMPj) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Wasting All These Tears](https://open.spotify.com/album/5Z2ubQ6PRRFJ3smuU2YTLe) | 3:15 | 2022-11-18 | 2024-08-02 |
 | [we can’t be friends \(wait for your love\) \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/1KlElnmGdKIKpwt7dw49N3) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [we can’t be friends \(wait for your love\) \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/album/47qJZGcFVszKNYUjEEPNz9) | 3:53 | 2024-08-01 | 2025-07-01 |
 | [We Just Disagree](https://open.spotify.com/track/3xsYZOaajjyJouOEuKIeo7) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Certified Hits](https://open.spotify.com/album/61zrzuhdogtVgtLZPATw3L) | 3:26 | 2021-12-10 | 2022-07-29 |
-| [What's Up \(What's Going On\)](https://open.spotify.com/track/5FonXR4yh9PWNbQCHQn5I0) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:51 | 2023-01-03 |  |
+| [What's Up \(What's Going On\)](https://open.spotify.com/track/5FonXR4yh9PWNbQCHQn5I0) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:51 | 2023-01-03 | 2026-05-30 |
 | [What's Your Country Song](https://open.spotify.com/track/5S6Fijz2xGd1YSykH6zHWg) | [Charlotte Ave](https://open.spotify.com/artist/2rcT3E2t3e3HYJUOMsG3UX) | [What's Your Country Song](https://open.spotify.com/album/5vpq2EODIUw9aCqlty61kF) | 2:40 | 2022-01-07 | 2022-07-17 |
 | [Whatever It Is](https://open.spotify.com/track/23s4QWE0SAFXDKqpCl8Olq) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Whatever It Is](https://open.spotify.com/album/1M0t9G8Ip0snSJZEp6CswH) | 3:39 | 2023-12-15 | 2024-02-14 |
 | [What’s Up \(What’s Going On\)](https://open.spotify.com/track/7yVVTAPCav3KYMUksCTN3K) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:51 | 2023-11-17 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Drake.",
+  "description": "New music from Future, Latto and G Herbo.",
   "name": "RapCaviar",
   "tracks": [
     {
@@ -3380,7 +3380,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 180705,
       "name": "ATM",
       "url": "https://open.spotify.com/track/03auLpFLdCv4HozP4pQseu"
@@ -10098,7 +10098,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 292359,
       "name": "Circus Circus Free$tyle",
       "url": "https://open.spotify.com/track/5waTXjl4V7YBw1Bo4CsjlM"
@@ -10146,6 +10146,24 @@
       "duration_ms": 256000,
       "name": "City of Gods",
       "url": "https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c"
+    },
+    {
+      "album": {
+        "name": "Clap",
+        "url": "https://open.spotify.com/album/2yNwOvF3g7DQcADqywdLj3"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124500,
+      "name": "Clap",
+      "url": "https://open.spotify.com/track/1qBEN3LafkXQBJ9ofV4nzM"
     },
     {
       "album": {
@@ -18077,6 +18095,24 @@
     },
     {
       "album": {
+        "name": "Game Six",
+        "url": "https://open.spotify.com/album/6fGpOOSxGUvzpL3tTpVExt"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173742,
+      "name": "Game Six",
+      "url": "https://open.spotify.com/track/0bSlEreR3f5j8DlEc17QqI"
+    },
+    {
+      "album": {
         "name": "Game Time",
         "url": "https://open.spotify.com/album/1a9tWQRhRlPi4nZR7Ic3Xe"
       },
@@ -18099,6 +18135,32 @@
     },
     {
       "album": {
+        "name": "Game Time (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206166,
+      "name": "Game Time",
+      "url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr"
+    },
+    {
+      "album": {
         "name": "SLUT SZN",
         "url": "https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke"
       },
@@ -18114,6 +18176,28 @@
       "duration_ms": 138180,
       "name": "Gang Baby",
       "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
+    },
+    {
+      "album": {
+        "name": "GANG BIZNESS feat paygotti",
+        "url": "https://open.spotify.com/album/2ZhRsUqboIjLWBSF14fnMH"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167177,
+      "name": "GANG BIZNESS feat paygotti",
+      "url": "https://open.spotify.com/track/7MBxU6dqMPl4LAC7XacEkv"
     },
     {
       "album": {
@@ -19338,7 +19422,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 147401,
       "name": "Go Ladies",
       "url": "https://open.spotify.com/track/4pWlEdLIy2tQ3hQY1agXLh"
@@ -22545,6 +22629,28 @@
     },
     {
       "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "Hostage (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
+    },
+    {
+      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -23402,7 +23508,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 221592,
       "name": "I Go",
       "url": "https://open.spotify.com/track/5ToAXKztgfRiSAsWtyZh9Y"
@@ -24588,6 +24694,24 @@
       "duration_ms": 207380,
       "name": "Imaginary Playerz",
       "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
+    },
+    {
+      "album": {
+        "name": "RBT",
+        "url": "https://open.spotify.com/album/7tRd6qHR20ZfJKcGYGXbai"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190592,
+      "name": "Immigrants",
+      "url": "https://open.spotify.com/track/0wkWMbqr3SgM9TdgdzMsXv"
     },
     {
       "album": {
@@ -28776,6 +28900,24 @@
       "duration_ms": 267040,
       "name": "Lockdown (feat. JID, Noname & Jay Rock) - Remix",
       "url": "https://open.spotify.com/track/7HtNRW16rKIWHaHIoRWUbw"
+    },
+    {
+      "album": {
+        "name": "LOCKED IN FREESTYLE",
+        "url": "https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100392,
+      "name": "LOCKED IN FREESTYLE",
+      "url": "https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk"
     },
     {
       "album": {
@@ -38108,7 +38250,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 290346,
       "name": "Poor Thang",
       "url": "https://open.spotify.com/track/1nhNz1tWU8p5WvFAAgFW2h"
@@ -39202,7 +39344,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 108334,
       "name": "PUNCH DRUNK",
       "url": "https://open.spotify.com/track/4bWZz15GR1EE8E8x23rDWV"
@@ -46027,6 +46169,24 @@
     },
     {
       "album": {
+        "name": "Spend Dat",
+        "url": "https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181391,
+      "name": "Spend Dat",
+      "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
+    },
+    {
+      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
       },
@@ -51087,6 +51247,24 @@
     },
     {
       "album": {
+        "name": "Thug",
+        "url": "https://open.spotify.com/album/4aEj8HrgkscnDkdu5oPyqu"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145388,
+      "name": "Thug",
+      "url": "https://open.spotify.com/track/0iZh4VcMhp8zoTlvk8HWZD"
+    },
+    {
+      "album": {
         "name": "Thug Memorials",
         "url": "https://open.spotify.com/album/6bRyQTTn5IqTPswEauFAoV"
       },
@@ -52408,7 +52586,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 182673,
       "name": "Trimski",
       "url": "https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW"
@@ -52742,7 +52920,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 236893,
       "name": "Tupac Back (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/48tybOd2kxWaMjnYrEWTvY"
@@ -53640,7 +53818,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 108017,
       "name": "UR A VET!",
       "url": "https://open.spotify.com/track/3qpZN0QHjQygK8nUSdnYe5"
@@ -56342,7 +56520,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 154480,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/2CuM7FRomNSgZVF6QV5uLo"

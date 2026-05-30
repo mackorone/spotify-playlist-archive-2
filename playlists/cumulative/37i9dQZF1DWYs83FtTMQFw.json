@@ -482,7 +482,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 122352,
       "name": "2POPS",
       "url": "https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm"
@@ -2415,6 +2415,32 @@
     },
     {
       "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "Anxious (feat. Odeal & Wizkid)",
+      "url": "https://open.spotify.com/track/2kd3VObcq7PX64pCwNHQ8p"
+    },
+    {
+      "album": {
         "name": "AP (Music from the film Boogie)",
         "url": "https://open.spotify.com/album/2xAPKH0b7vGsyD5xzkPpnI"
       },
@@ -3576,6 +3602,28 @@
       "duration_ms": 202560,
       "name": "BANKROLL (feat. A$AP Rocky & A$AP Ferg)",
       "url": "https://open.spotify.com/track/3MK6OsCb4VJGdPxvXjW8Q9"
+    },
+    {
+      "album": {
+        "name": "Barbie Doll",
+        "url": "https://open.spotify.com/album/147rc4OmHtzzTxLObTAx15"
+      },
+      "artists": [
+        {
+          "name": "Hurricane Wisdom",
+          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Barbie Doll",
+      "url": "https://open.spotify.com/track/21fyLmQranpgyoYHMMCIuq"
     },
     {
       "album": {
@@ -12187,6 +12235,32 @@
     },
     {
       "album": {
+        "name": "Game Time (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206166,
+      "name": "Game Time",
+      "url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr"
+    },
+    {
+      "album": {
         "name": "SLUT SZN",
         "url": "https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke"
       },
@@ -13008,7 +13082,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 147401,
       "name": "Go Ladies",
       "url": "https://open.spotify.com/track/4pWlEdLIy2tQ3hQY1agXLh"
@@ -13450,7 +13524,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 157333,
       "name": "Griddl\u00eb",
       "url": "https://open.spotify.com/track/1VvXLOfkv1zxa3LZ0zBXt2"
@@ -23249,6 +23323,28 @@
     },
     {
       "album": {
+        "name": "Okayyy",
+        "url": "https://open.spotify.com/album/6TEo60to35PCEUfUsrwIVI"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238573,
+      "name": "Okayyy (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0V9uN2EqxHXVFoDnpRiups"
+    },
+    {
+      "album": {
         "name": "Scarlet 2 CLAUDE",
         "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
       },
@@ -29806,7 +29902,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 202426,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO"
@@ -30144,6 +30240,24 @@
       "duration_ms": 166690,
       "name": "SPACE CADET",
       "url": "https://open.spotify.com/track/0hRStjEfDhCLQ1F0gCefOQ"
+    },
+    {
+      "album": {
+        "name": "Spend Dat",
+        "url": "https://open.spotify.com/album/4bHuSvx7cbXCmVj5Y4XzFC"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181391,
+      "name": "Spend Dat",
+      "url": "https://open.spotify.com/track/0LWIiBYFmOnkqysugp0VKo"
     },
     {
       "album": {
@@ -36194,7 +36308,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 169134,
       "name": "Which One (feat. Central Cee)",
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"

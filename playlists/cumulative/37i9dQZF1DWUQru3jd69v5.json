@@ -1128,6 +1128,24 @@
     {
       "album": {
         "name": "24/7",
+        "url": "https://open.spotify.com/album/5wLTEEwgrfC3jtQ7PYjOQX"
+      },
+      "artists": [
+        {
+          "name": "GABRIEL TONELLI",
+          "url": "https://open.spotify.com/artist/3gzEVxb4jUC0579HQ08Opx"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157336,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/0B0Zfc6F9TXAwb9y8Zix6B"
+    },
+    {
+      "album": {
+        "name": "24/7",
         "url": "https://open.spotify.com/album/7KA4HQshkUPNtpP3UDpowQ"
       },
       "artists": [
@@ -9362,7 +9380,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179013,
-      "name": "CELINE (feat. ZAYRE)",
+      "name": "CELINE (feat. Zayre)",
       "url": "https://open.spotify.com/track/3Wg3yx21eF9nIJjTsfdNIo"
     },
     {
@@ -14468,6 +14486,28 @@
       "duration_ms": 138204,
       "name": "EI BIMBA",
       "url": "https://open.spotify.com/track/129kyfg5wAgPqfQEwsNf9E"
+    },
+    {
+      "album": {
+        "name": "Eiwa 3",
+        "url": "https://open.spotify.com/album/3LtRktSMthJZtYyQ5vXoIV"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216048,
+      "name": "Eiwa 3",
+      "url": "https://open.spotify.com/track/1ZlRKcHHtXTvya9jcJj3sD"
     },
     {
       "album": {

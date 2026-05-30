@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 
 > Women pickers keeping tradition alive and breaking boundaries\. Cover: Della Mae
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,648 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,655 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 11 | [Last Road Going Home](https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y) | [Amanda Cook](https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn) | [Last Road Going Home](https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS) | 3:34 |
 | 12 | [Willow](https://open.spotify.com/track/0xa49uKD6IdtaXgvLud3Bi) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Willow](https://open.spotify.com/album/2A0IALbZpxPXJ4ij9Dnsxp) | 3:27 |
 | 13 | [You'll Never Leave Harlan Alive](https://open.spotify.com/track/1KL82DZju7EN0Jpolg6CwD) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Mountain Soul](https://open.spotify.com/album/7CcrHU1XDBwkymb36Lj68f) | 6:05 |
-| 14 | [Up For Losing Sleep](https://open.spotify.com/track/6OQSKMqfNvz0NiiHHmTVSL) | [Bronwyn Keith\-Hynes](https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [I Built A World](https://open.spotify.com/album/6hTAyMVolX7dzbPkLZ54MV) | 2:41 |
+| 14 | [Up For Losing Sleep](https://open.spotify.com/track/6OQSKMqfNvz0NiiHHmTVSL) | [Bronwyn](https://open.spotify.com/artist/24S2vTDYhK9PESL4DvCWtq), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [I Built A World](https://open.spotify.com/album/6hTAyMVolX7dzbPkLZ54MV) | 2:41 |
 | 15 | [All I Ever Need Is You](https://open.spotify.com/track/6OEjWKO16fdprzAWXFU6IB) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [All I Ever Need Is You](https://open.spotify.com/album/16Ug2NcKJ3gHDpJvobIFwP) | 3:30 |
 | 16 | [Love Train](https://open.spotify.com/track/5vlTEeXibOs10LTl0Ugxkh) | [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm), [Rebecca Lynn Howard](https://open.spotify.com/artist/12bBoCZdPZbBEq1xHT0heD) | [Love Train](https://open.spotify.com/album/2Xrk8uAG4XkUPuaAmp4tgK) | 3:29 |
 | 17 | [Kentucky Borderline](https://open.spotify.com/track/3p1T3tocORKMJOulIOh4zc) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [One Step Ahead](https://open.spotify.com/album/6ycDawGWCxbT5dk860MWOE) | 3:32 |

@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Delilah. Curated by human Spotify editors. \n",
-  "num_followers": 213294,
+  "num_followers": 213361,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACH2bSLTxkTLfjhmaAA5zLIskSPR",
+  "snapshot_id": "AAAAABwykdYZDBavfUzJfbJoUFw1Ih/M",
   "tracks": [
     {
       "added_at": "2026-05-15 04:01:46",
@@ -23,6 +23,22 @@
       "duration_ms": 181108,
       "name": "Journey",
       "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
+    },
+    {
+      "added_at": "2026-05-29 18:47:07",
+      "album": {
+        "name": "WAITING",
+        "url": "https://open.spotify.com/album/6MDPlGG1SoqOKBbH6uS5gh"
+      },
+      "artists": [
+        {
+          "name": "fromclay",
+          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
+        }
+      ],
+      "duration_ms": 190698,
+      "name": "WAITING",
+      "url": "https://open.spotify.com/track/0IG66BxgMeOSYfVZCCZqSa"
     },
     {
       "added_at": "2026-05-27 23:56:21",
@@ -59,6 +75,22 @@
       "duration_ms": 175750,
       "name": "My Life Is A Disco (In The Mix)",
       "url": "https://open.spotify.com/track/4QNEi4zAOm0FwfwJXLgp7s"
+    },
+    {
+      "added_at": "2026-05-29 04:02:04",
+      "album": {
+        "name": "Burnt Out Disco For Club Rats",
+        "url": "https://open.spotify.com/album/0EP7fOhuEpPvsVtoilFOeV"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 164999,
+      "name": "Cashman Jack (XL Hotmix)",
+      "url": "https://open.spotify.com/track/0EA8QvqE66H315fGJUCmVQ"
     },
     {
       "added_at": "2026-05-15 04:01:46",
@@ -149,6 +181,22 @@
       "url": "https://open.spotify.com/track/56juJw8K3njlvFKz7fitj8"
     },
     {
+      "added_at": "2026-05-29 04:02:04",
+      "album": {
+        "name": "Senses",
+        "url": "https://open.spotify.com/album/662bn674V62JlOIqCkHB28"
+      },
+      "artists": [
+        {
+          "name": "Mati Astroza",
+          "url": "https://open.spotify.com/artist/1MzA4VczafczbCi64Rjieq"
+        }
+      ],
+      "duration_ms": 190789,
+      "name": "Senses",
+      "url": "https://open.spotify.com/track/2fAALriwTxIDo9tOSLeCIh"
+    },
+    {
       "added_at": "2026-05-08 04:03:57",
       "album": {
         "name": "Close 2 U",
@@ -195,6 +243,22 @@
       "duration_ms": 157058,
       "name": "It's All About The Music",
       "url": "https://open.spotify.com/track/6KEyvhYNlMtW7Caf1BP0eb"
+    },
+    {
+      "added_at": "2026-05-29 04:02:04",
+      "album": {
+        "name": "wdym you don\u2018t like hardgroove?",
+        "url": "https://open.spotify.com/album/5KAvS8DDDvMPhYOsMw2u80"
+      },
+      "artists": [
+        {
+          "name": "VIVI909",
+          "url": "https://open.spotify.com/artist/0Oo01WMz8SsWQdSFpkchoL"
+        }
+      ],
+      "duration_ms": 161068,
+      "name": "wdym you don\u2018t like hardgroove? - Radio Edit",
+      "url": "https://open.spotify.com/track/7uyHeUCGHtlKeZ5IJ1G7yI"
     },
     {
       "added_at": "2026-05-22 04:00:24",
@@ -265,6 +329,22 @@
       "url": "https://open.spotify.com/track/6z0Zc6uf2ofI2KkUupFepg"
     },
     {
+      "added_at": "2026-05-29 04:02:04",
+      "album": {
+        "name": "Get Some",
+        "url": "https://open.spotify.com/album/5mCysOSQnJmNq58TPm8qrF"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ssous",
+          "url": "https://open.spotify.com/artist/48vWKWt7Ip4hTNQmfE7vlA"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Get Some",
+      "url": "https://open.spotify.com/track/1GegmzGPEhqIHfXQ2p6UxK"
+    },
+    {
       "added_at": "2026-05-27 23:56:21",
       "album": {
         "name": "ITALIAN LEATHER",
@@ -299,6 +379,26 @@
       "duration_ms": 179076,
       "name": "Unless You Wanna (Uh Uh)",
       "url": "https://open.spotify.com/track/7dLRmh16YMIr7BpO4DmkHQ"
+    },
+    {
+      "added_at": "2026-05-29 04:02:04",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3cuUc6q7rrGELnzIpRqHwZ"
+      },
+      "artists": [
+        {
+          "name": "SHAKING",
+          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
+        },
+        {
+          "name": "Clearcast",
+          "url": "https://open.spotify.com/artist/3dRhjQBCaVo5zMuXyjv7Su"
+        }
+      ],
+      "duration_ms": 180430,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/1YsTMha2DpnIZlm7Dj9suA"
     },
     {
       "added_at": "2026-05-14 03:02:00",
@@ -347,6 +447,22 @@
       "duration_ms": 140952,
       "name": "Falling Again",
       "url": "https://open.spotify.com/track/1KOKSXOF3t21CKCR3DeEkR"
+    },
+    {
+      "added_at": "2026-05-29 04:02:04",
+      "album": {
+        "name": "Ready, Kick It",
+        "url": "https://open.spotify.com/album/4iT27hkOiYc5BVMhVGNaLI"
+      },
+      "artists": [
+        {
+          "name": "Anna-My",
+          "url": "https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9"
+        }
+      ],
+      "duration_ms": 210414,
+      "name": "Ready, Kick It",
+      "url": "https://open.spotify.com/track/4ZqyRBnQXJYYvuI1lukrAV"
     },
     {
       "added_at": "2026-05-06 19:01:48",
@@ -411,6 +527,22 @@
       "duration_ms": 188374,
       "name": "Out There",
       "url": "https://open.spotify.com/track/1kGhJkCKFJ12Bi7nAm01tT"
+    },
+    {
+      "added_at": "2026-05-29 04:02:04",
+      "album": {
+        "name": "Sugarblood",
+        "url": "https://open.spotify.com/album/2qqyp5V8vtlXSi4VB5fkMs"
+      },
+      "artists": [
+        {
+          "name": "Birthday in Texas",
+          "url": "https://open.spotify.com/artist/35SYTkkKBjuA75X0FoLRjA"
+        }
+      ],
+      "duration_ms": 156475,
+      "name": "Sugarblood",
+      "url": "https://open.spotify.com/track/1PSg1nZUOAkp7bLYrUF4fY"
     },
     {
       "added_at": "2026-05-06 19:01:48",
@@ -603,22 +735,6 @@
       "duration_ms": 110139,
       "name": "don't call",
       "url": "https://open.spotify.com/track/6p0HlaC4VdYZGxew0OLBP7"
-    },
-    {
-      "added_at": "2026-04-10 04:02:22",
-      "album": {
-        "name": "Snakebite Boogie EP",
-        "url": "https://open.spotify.com/album/65kPQwCvSFLJndDg9zJTOv"
-      },
-      "artists": [
-        {
-          "name": "Mellizos",
-          "url": "https://open.spotify.com/artist/58aKkaiVZkoeZNeHTz36Gi"
-        }
-      ],
-      "duration_ms": 211355,
-      "name": "Snakebite Boogie",
-      "url": "https://open.spotify.com/track/3Tokd2H9xxDzkvKVahm6tc"
     },
     {
       "added_at": "2026-05-06 19:01:48",
@@ -1045,26 +1161,6 @@
       "url": "https://open.spotify.com/track/3jXZzQIDIe2IiJC6mXzeVG"
     },
     {
-      "added_at": "2026-03-13 04:00:43",
-      "album": {
-        "name": "PUSH IT!",
-        "url": "https://open.spotify.com/album/0hCPigB4vRMewmngi3g6Mc"
-      },
-      "artists": [
-        {
-          "name": "SHAKING",
-          "url": "https://open.spotify.com/artist/5ymmrBnnRTW23bKo7Fpbx6"
-        },
-        {
-          "name": "Coupdekat",
-          "url": "https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0"
-        }
-      ],
-      "duration_ms": 229479,
-      "name": "PUSH IT!",
-      "url": "https://open.spotify.com/track/00zfXJaLdb2zPAuw7yRas9"
-    },
-    {
       "added_at": "2026-03-06 05:00:15",
       "album": {
         "name": "Fast Money",
@@ -1167,22 +1263,6 @@
       "duration_ms": 239119,
       "name": "Heart",
       "url": "https://open.spotify.com/track/2woJDJD5c1smpFdkWa4kpu"
-    },
-    {
-      "added_at": "2026-01-23 17:35:42",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/5KisNB2QCQ9og79IziCrYp"
-      },
-      "artists": [
-        {
-          "name": "JATO",
-          "url": "https://open.spotify.com/artist/7KARoSPxRf4ovDN7XxpqYa"
-        }
-      ],
-      "duration_ms": 184015,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/3Z6iA9iNhiKQIxib5VwcXp"
     }
   ],
   "unique_name": "Fresh Finds Dance",

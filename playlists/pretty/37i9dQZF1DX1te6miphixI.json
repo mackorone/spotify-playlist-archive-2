@@ -1,6 +1,6 @@
 {
   "description": "Grandes temas del rock de ayer y de hoy.",
-  "num_followers": 866103,
+  "num_followers": 866081,
   "original_name": "Radio Rock",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-04-24 04:59:24",
       "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn"
-    },
-    {
-      "added_at": "2026-04-24 04:59:24",
-      "album": {
         "name": "Rebel Yell",
         "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 288533,
       "name": "Rebel Yell",
       "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
+    },
+    {
+      "added_at": "2026-04-24 04:59:24",
+      "album": {
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/4pbJqGIASGPr0ZpGpnWkDn"
     },
     {
       "added_at": "2026-04-24 04:59:24",

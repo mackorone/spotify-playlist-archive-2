@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7q0jvGbuDLsmGvaRCU7F00">Maegan Cottone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-121 songs - 6 hr 43 min
+122 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Lightning](https://open.spotify.com/track/7wk2mXtIFJWJgUnFZmSq7I) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 5:12 | 2026-04-06 |  |
 | [Like You Do](https://open.spotify.com/track/6D3SReugBjKhaPsJJgg87F) | [Krystal Roxx](https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0), [Megz](https://open.spotify.com/artist/1Cd7wXMk3X4WRiaztPFudG) | [Like You Do](https://open.spotify.com/album/2EvcvtCWyYHChps43j59sR) | 3:28 | 2026-04-06 |  |
 | [Live It Up](https://open.spotify.com/track/1fzGTK2qoX10Xnm0tIr2nL) | [Miami Beatz](https://open.spotify.com/artist/7m7uZG6oF329yKI2FtptTA) | [Ultimate Summer Hits: 50 Party Anthems](https://open.spotify.com/album/2Yq0Bi84tBQ69lGKIBEdyD) | 3:28 | 2026-04-06 |  |
-| [Live It Up \- Official Song 2018 FIFA World Cup Russia](https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Live It Up \(Official Song 2018 FIFA World Cup Russia\)](https://open.spotify.com/album/1oxKlNFmKZ4heJRiBP0Sny) | 3:27 | 2026-04-11 | 2026-05-25 |
+| [Live It Up \- Official Song 2018 FIFA World Cup Russia](https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Live It Up \(Official Song 2018 FIFA World Cup Russia\)](https://open.spotify.com/album/1oxKlNFmKZ4heJRiBP0Sny) | 3:27 | 2026-04-11 |  |
 | [Lose Myself](https://open.spotify.com/track/2bZzUbUt8cbt9gbnaRX2p3) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Happy Place](https://open.spotify.com/album/2GF4liPUbApWEsVd4mTlpR) | 3:25 | 2026-04-06 |  |
 | [Love Train](https://open.spotify.com/track/6TTDhRdbaRpTyqi6UiESAv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:55 | 2026-04-06 |  |
 | [Mercedes](https://open.spotify.com/track/0kfY0oZBLuvIZz5ccq8khh) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 2:54 | 2026-04-06 |  |
@@ -98,6 +98,7 @@
 | [R.E.D\. \- Radio Edit](https://open.spotify.com/track/7fRYGQnJ3j77Wqu9WKDN7q) | [Kongsted](https://open.spotify.com/artist/1PqkzV8bXUf9ZBPC6OJo7o) | [R.E.D.](https://open.spotify.com/album/4la02mt9hFMwbf1VFMtvfN) | 3:22 | 2026-04-06 |  |
 | [REACT](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT](https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv) | 3:21 | 2026-04-06 |  |
 | [Red Light](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Red Light \- The 3rd Album](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) | 3:31 | 2026-04-06 |  |
+| [Red Wine & Caviar](https://open.spotify.com/track/0W2ExAkYXWHu9CEM0wjxi4) | [Misunderstood](https://open.spotify.com/artist/4WYL3FlpuOq1TPtVu8rA1G), [Londynn B](https://open.spotify.com/artist/6a1696QGUkDJgGuJHwS3zS) | [Red Wine & Caviar](https://open.spotify.com/album/2tuWM6zgD1A7P5NvCQ2cpP) | 2:56 | 2026-05-29 |  |
 | [Salute](https://open.spotify.com/track/1iupzLgX4O0Qosb4yDpYoz) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Salute \(Expanded Edition\)](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) | 3:56 | 2026-04-06 |  |
 | [Sellotape](https://open.spotify.com/track/2Wvsl6iJXxtHd3b17C7aZ5) | [Alexandru](https://open.spotify.com/artist/7BV24wLOUYAjUipNBRn3mK) | [Sellotape](https://open.spotify.com/album/3dm7sl4eVeS5bx7TkbpD3u) | 3:20 | 2026-04-06 |  |
 | [Shooting Star \- En duo avec tara mcdonald](https://open.spotify.com/track/5jCqTpHSkbcNJbaVqB3dg5) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Contagieuse](https://open.spotify.com/album/7E6v8eyFigpcPfcsYqQJS9) | 3:35 | 2026-04-06 |  |

@@ -5199,6 +5199,24 @@
     },
     {
       "album": {
+        "name": "Summer Nostalgia",
+        "url": "https://open.spotify.com/album/1QVc0CyfwvZr18tN0apisr"
+      },
+      "artists": [
+        {
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Summer on Ice",
+      "url": "https://open.spotify.com/track/4xFDggrjuOkJPO2LQmslQE"
+    },
+    {
+      "album": {
         "name": "Summer Song",
         "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
       },
@@ -5944,24 +5962,6 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "album": {
-        "name": "Summer Nostalgia",
-        "url": "https://open.spotify.com/album/1QVc0CyfwvZr18tN0apisr"
-      },
-      "artists": [
-        {
-          "name": "Emily James",
-          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/4xFDggrjuOkJPO2LQmslQE"
     },
     {
       "album": {

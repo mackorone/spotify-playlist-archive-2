@@ -2,7 +2,7 @@
 
 ### [Rock Classics](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U)
 
-> Rock legends & epic songs that continue to inspire generations\. Cover: Pink Floyd
+> Rock legends & epic songs that continue to inspire generations\. Cover: Ramones
 
 389 songs - 1 day 4 hr 43 min
 
@@ -51,7 +51,7 @@
 | [Black Dog \- Remaster](https://open.spotify.com/track/3qT4bUD1MaWpGrTwcvguhb) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Deluxe Edition\)](https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK) | 4:55 | 2021-12-14 |  |
 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 | 2021-12-14 |  |
 | [Black Magic Woman \- Single Version](https://open.spotify.com/track/4YMQXzscifAREG0a7KNGhB) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana's Greatest Hits](https://open.spotify.com/album/1YrdGK2y2Edq2R5gFja2ai) | 3:19 | 2022-09-30 |  |
-| [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 | 2022-09-30 | 2023-10-14 |
+| [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 | 2022-09-30 |  |
 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/1AhDOtG9vPSOmsWgNW0BEY) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1TSZDcvlPtAnekTaItI3qO) | 5:54 | 2021-12-14 |  |
 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/2GAIycsMaDVtMtdvxzR2xI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen 40 Limited Edition Collector's Box Set](https://open.spotify.com/album/1Q9NOisnaTULM5CZD4rIgZ) | 5:54 | 2022-11-11 | 2022-11-13 |
 | [Bohemian Rhapsody \- Remastered 2011](https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(Deluxe Remastered Version\)](https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr) | 5:54 | 2022-05-06 | 2024-04-19 |
@@ -146,7 +146,7 @@
 | [Hurricane](https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 8:32 | 2026-01-16 |  |
 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 | 2021-12-14 |  |
 | [I Love Rock 'N Roll](https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [I Love Rock 'N' Roll \(Expanded Edition\)](https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt) | 2:55 | 2021-12-14 |  |
-| [I Wanna Be Sedated \- 1999 Remaster](https://open.spotify.com/track/4jDt1y2gCPiqC3PgWuzLjW) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin](https://open.spotify.com/album/4uYGMRwon6fQ2zOJhfr0iC) | 2:29 | 2023-10-13 |  |
+| [I Wanna Be Sedated \- 1999 Remaster](https://open.spotify.com/track/4jDt1y2gCPiqC3PgWuzLjW) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Road to Ruin](https://open.spotify.com/album/4uYGMRwon6fQ2zOJhfr0iC) | 2:29 | 2023-10-13 | 2026-05-30 |
 | [I Wanna Be Your Dog \- 2019 Remaster](https://open.spotify.com/track/79MMMdYL00iwKVHBSAUkLY) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Stooges](https://open.spotify.com/album/0Z1Y5L90NjqUD351YUQWdA) | 3:12 | 2022-02-17 | 2022-10-01 |
 | [I Wanna Rock](https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 2:59 | 2022-02-17 |  |
 | [I Want To Hold Your Hand \- Remastered 2015](https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:25 | 2021-12-14 |  |

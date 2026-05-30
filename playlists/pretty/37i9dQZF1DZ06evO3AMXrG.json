@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 249752,
+  "num_followers": 249761,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAABatoxqO7t1E5gzQpt/0tC2",
+  "snapshot_id": "aheFgAAAAAA0+nlXv0PpdmIXpzAzvdn/",
   "tracks": [
     {
       "added_at": null,
@@ -199,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendito Vicio",
-        "url": "https://open.spotify.com/album/01IslxV0ythFtzyAhQsWRQ"
+        "name": "El Momento",
+        "url": "https://open.spotify.com/album/6JUteqYW61MphFHmJe5AAU"
       },
       "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 271285,
-      "name": "Bendito Vicio",
-      "url": "https://open.spotify.com/track/03pzxEy3IkfZgYRWKRTOT3"
+      "duration_ms": 235466,
+      "name": "S\u00f3lo Por Ti",
+      "url": "https://open.spotify.com/track/58ujE3lNtea4uCKJ05gUvg"
     },
     {
       "added_at": null,
@@ -231,22 +235,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Momento",
-        "url": "https://open.spotify.com/album/6JUteqYW61MphFHmJe5AAU"
+        "name": "Bendito Vicio",
+        "url": "https://open.spotify.com/album/01IslxV0ythFtzyAhQsWRQ"
       },
       "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 235466,
-      "name": "S\u00f3lo Por Ti",
-      "url": "https://open.spotify.com/track/58ujE3lNtea4uCKJ05gUvg"
+      "duration_ms": 271285,
+      "name": "Bendito Vicio",
+      "url": "https://open.spotify.com/track/03pzxEy3IkfZgYRWKRTOT3"
     },
     {
       "added_at": null,
@@ -415,6 +415,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marcri\u00e1",
+        "url": "https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI"
+      },
+      "artists": [
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 256750,
+      "name": "dame la verde",
+      "url": "https://open.spotify.com/track/5GjGjRKsnqpc9buR6Yhezg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quisiera",
         "url": "https://open.spotify.com/album/1hxhKktk2u9gTPms7c8fv9"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 299400,
       "name": "D\u00edas Intensos",
       "url": "https://open.spotify.com/track/2L7bcQuqRaa05ufkTNY5lx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marcri\u00e1",
-        "url": "https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI"
-      },
-      "artists": [
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        },
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 256750,
-      "name": "dame la verde",
-      "url": "https://open.spotify.com/track/5GjGjRKsnqpc9buR6Yhezg"
     },
     {
       "added_at": null,

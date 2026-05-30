@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Iceage
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,164,552 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,164,643 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 42 | [My Favourite Book Is One I’ve Read A Bunch](https://open.spotify.com/track/6Exa22JWVZdxT2ZPWjnfPC) | [Dermot Henry](https://open.spotify.com/artist/0RhsllRA8vVKWSiBxuF77H) | [My Favourite Book Is One I’ve Read A Bunch / Little Rib](https://open.spotify.com/album/1V4b9g4OT4KHNWJKvweYj3) | 3:34 |
 | 43 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
 | 44 | [Crutch](https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Crutch](https://open.spotify.com/album/1jWZ7cC58wnlEfuknDCwoq) | 3:31 |
-| 45 | [Busker's Paradise](https://open.spotify.com/track/2PY11fGLef2dcAGffxQKiL) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ), [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Busker's Paradise](https://open.spotify.com/album/7K4f2V8g4d63sL7WGSWhlb) | 3:43 |
+| 45 | [Busker's Paradise](https://open.spotify.com/track/2PY11fGLef2dcAGffxQKiL) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Busker's Paradise](https://open.spotify.com/album/7K4f2V8g4d63sL7WGSWhlb) | 3:43 |
 | 46 | [I'll Let You Finish](https://open.spotify.com/track/4rie7uUf3XRgxK92tAMjCt) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [I'll Let You Finish](https://open.spotify.com/album/7HOR1xOpbfjfOinjMqKv2L) | 3:54 |
 | 47 | [Taxes](https://open.spotify.com/track/5cbDTZG8lBJqVVa2zqROPI) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:17 |
 | 48 | [I’LL BE YOUR FRIEND](https://open.spotify.com/track/4BPgkHV0D1E1UvG6t8gEYV) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [I’LL BE YOUR FRIEND](https://open.spotify.com/album/1ZKcdKRBAc1vfIPwU72g5k) | 3:30 |

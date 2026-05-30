@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Angine de Poitrine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,855 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,859 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 5 | [Give 'Er Hell](https://open.spotify.com/track/0kopcRj073aQTVbQVeHWm3) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Give 'Er Hell](https://open.spotify.com/album/0p1xtZSyS5Ke7kezDsSFZj) | 3:21 |
 | 6 | [Rest Of My](https://open.spotify.com/track/3nPggg2eXJSJWTnThsj85q) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In The Feeling](https://open.spotify.com/album/5t9dUqzhZipR4hx7et4gx4) | 3:20 |
 | 7 | [Bother Me \(feat\. Victony\)](https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Bother Me \(feat\. Victony\)](https://open.spotify.com/album/7svkXljH25hpPavMawyyb2) | 3:00 |
-| 8 | [ELECTRIC CIRCUS](https://open.spotify.com/track/0IKpUoJz9bvL6rclPF2qeB) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez) | [ELECTRIC CIRCUS](https://open.spotify.com/album/2K0vMiT7DTwwpAnCc2Idqb) | 3:29 |
-| 9 | [Lots of Love](https://open.spotify.com/track/3ZOgyddOAOBl3jpY6gLIC4) | [Brothers Macklovitch](https://open.spotify.com/artist/74ituHOQ0RtRfPGwyfZYPl), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Lots of Love](https://open.spotify.com/album/50vTpftBnpvCMzTGLZ0cYH) | 3:07 |
+| 8 | [Lots of Love](https://open.spotify.com/track/3ZOgyddOAOBl3jpY6gLIC4) | [Brothers Macklovitch](https://open.spotify.com/artist/74ituHOQ0RtRfPGwyfZYPl), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Lots of Love](https://open.spotify.com/album/50vTpftBnpvCMzTGLZ0cYH) | 3:07 |
+| 9 | [ELECTRIC CIRCUS](https://open.spotify.com/track/0IKpUoJz9bvL6rclPF2qeB) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez) | [ELECTRIC CIRCUS](https://open.spotify.com/album/2K0vMiT7DTwwpAnCc2Idqb) | 3:29 |
 | 10 | [Outline](https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi), [Miette Hope](https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw) | [AMi Vol\. 1](https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb) | 4:10 |
 | 11 | [All Day](https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All Day](https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ) | 2:17 |
 | 12 | [If Somebody Told Me You Were Dying](https://open.spotify.com/track/7AC8IxFKVkAbW7R8wJisUg) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [If Somebody Told Me You Were Dying](https://open.spotify.com/album/0izbYSBk32Aos3qHS2ZW1M) | 3:05 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 35 | [Le Roi de la montagne](https://open.spotify.com/track/3Tj4NZCOKQXzG8FgZJ81fQ) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le Roi de la montagne](https://open.spotify.com/album/4NdkaHhwYRFsMrk4HYEngI) | 3:42 |
 | 36 | [I WANNA DANCE](https://open.spotify.com/track/7meRbdhGSL33VwsUK9P2mB) | [Tallandskiinny](https://open.spotify.com/artist/7oV3ZD4d2onldb3N8DKQjm) | [I WANNA DANCE](https://open.spotify.com/album/0ERprW5OlF990S05xy6TEs) | 2:31 |
 | 37 | [Oh, Ana](https://open.spotify.com/track/46G3dLvPYBjRB5WzyvWr32) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Oh, Ana](https://open.spotify.com/album/7h9mJCFBWhaRdWHm28xIME) | 3:12 |
-| 38 | [Pain \- Lonesome Version](https://open.spotify.com/track/17PLTUNOheE8k9M2oOonFF) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Pain \(Lonesome Version\)](https://open.spotify.com/album/7G2eiZtTNpFADoBqvzKFs6) | 4:23 |
-| 39 | [No Wonder](https://open.spotify.com/track/20cteJb81MYmbLMiuft2EA) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [No Wonder](https://open.spotify.com/album/4sLCUGAZIFKoDkNLB9CEFs) | 2:21 |
+| 38 | [No Wonder](https://open.spotify.com/track/20cteJb81MYmbLMiuft2EA) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [No Wonder](https://open.spotify.com/album/4sLCUGAZIFKoDkNLB9CEFs) | 2:21 |
+| 39 | [Pain \- Lonesome Version](https://open.spotify.com/track/17PLTUNOheE8k9M2oOonFF) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Pain \(Lonesome Version\)](https://open.spotify.com/album/7G2eiZtTNpFADoBqvzKFs6) | 4:23 |
 | 40 | [Fix This Mess](https://open.spotify.com/track/2bZVZFXbZJ26P0x5VJTIAl) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Fix This Mess](https://open.spotify.com/album/06kpT326WfFpxbh2qecbZO) | 3:33 |
 | 41 | [Mercy on the Skyline](https://open.spotify.com/track/7MZlYIv52fVAEN9voOhCKV) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Mercy on the Skyline](https://open.spotify.com/album/3UQcepdvrX3mnYHcCbQML2) | 4:42 |
 | 42 | [SkiDay](https://open.spotify.com/track/1v4m28NkQN4jCW4DwCMSPo) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [SkiDay](https://open.spotify.com/album/2D1mvRiFSFc6s9NkPArGDK) | 2:47 |

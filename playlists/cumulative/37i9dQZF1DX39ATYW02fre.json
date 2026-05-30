@@ -950,7 +950,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 162793,
       "name": "Chala (My Soul Is On A Loop)",
       "url": "https://open.spotify.com/track/2TidiXg42kktDIl8WhNPWk"
@@ -1993,6 +1993,50 @@
     },
     {
       "album": {
+        "name": "If This Is It",
+        "url": "https://open.spotify.com/album/4EQ1QONy2hsmWHFdxOB7gm"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Dan Whitlam",
+          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243702,
+      "name": "If This Is It",
+      "url": "https://open.spotify.com/track/71vkCMFohC2QD94tlyIGln"
+    },
+    {
+      "album": {
+        "name": "if you didn't know",
+        "url": "https://open.spotify.com/album/1eJDf0cu1n4xHvW4LEJ6Yg"
+      },
+      "artists": [
+        {
+          "name": "Dimside",
+          "url": "https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX"
+        },
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139384,
+      "name": "if you didn't know",
+      "url": "https://open.spotify.com/track/7q7L7Non8WYaIV9PiFUfrV"
+    },
+    {
+      "album": {
         "name": "If You Love Her",
         "url": "https://open.spotify.com/album/7rMnIouqweD8JlFSw3LyIm"
       },
@@ -2580,7 +2624,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
@@ -3654,7 +3698,7 @@
       ],
       "date_added": "2020-06-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 254346,
       "name": "Patience",
       "url": "https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ"
@@ -4852,6 +4896,24 @@
       "duration_ms": 275644,
       "name": "The End",
       "url": "https://open.spotify.com/track/4UTwiKGU3TDnoYvNWMzqhl"
+    },
+    {
+      "album": {
+        "name": "Feeling Is Structure",
+        "url": "https://open.spotify.com/album/2pvLN2jTZhYg9aWQyESDps"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278267,
+      "name": "The Shape Of Memory",
+      "url": "https://open.spotify.com/track/2ZpFFr4Sgch7Gd1Z8MCtcB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > fazer uma grana, pegar um jet fds, anima?? // Kisha zO
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,809 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,839 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 28 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
 | 29 | [FORA DA CAIXA](https://open.spotify.com/track/6x7CxrFQoDdV8miVsN9ywQ) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Zstudios](https://open.spotify.com/artist/1HBZ9LrkmdtlbN9NRlcdp9) | [FORA DA CAIXA](https://open.spotify.com/album/2jwSOcz8OhFxai4j7aF2gl) | 1:54 |
 | 30 | [Umami](https://open.spotify.com/track/0uSI4ZBnEMBdAKDulLPX1b) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 4:47 |
-| 31 | [Face Card](https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Face Card](https://open.spotify.com/album/5CIEM08attregcFPhVtxih) | 3:23 |
-| 32 | [QUENTE](https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [QUENTE](https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE) | 2:03 |
+| 31 | [QUENTE](https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [QUENTE](https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE) | 2:03 |
+| 32 | [Face Card](https://open.spotify.com/track/2IXFqNpacoTxIf3bVMl7Ym) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Face Card](https://open.spotify.com/album/5CIEM08attregcFPhVtxih) | 3:23 |
 | 33 | [LONGE DE B.O](https://open.spotify.com/track/6YYKv2SiW6FCXXxGx9Upez) | [Kisha zO](https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu), [LINS](https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT) | [LONGE DE B.O](https://open.spotify.com/album/1OZsNxFLBwmw5EJdh4rOaT) | 2:16 |
 | 34 | [BPP](https://open.spotify.com/track/2nDAkxDSXLc7uk2gKmLK7F) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Maff](https://open.spotify.com/artist/0HxREqsT9C0VjgsedbsfNL) | [BPP](https://open.spotify.com/album/5UmYWhTeln53ozYjsweT3O) | 2:33 |
 | 35 | [Supercine](https://open.spotify.com/track/2TUs2bn1wBFvNwsUV8nV0F) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P), [Dé Barros](https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x) | [Supercine](https://open.spotify.com/album/69FxwAS8S6e4SjzL4Ngiqj) | 2:38 |

@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Colo de Deus",
-  "num_followers": 149711,
+  "num_followers": 149709,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Davi (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1Jh6IaWVzcyClOrrFpBYpg"
-      },
-      "artists": [
-        {
-          "name": "Oficina G3",
-          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
-        }
-      ],
-      "duration_ms": 196829,
-      "name": "Davi - Ao Vivo",
-      "url": "https://open.spotify.com/track/7syDyjPtf7zwoX1D425KSW"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "For\u00e7a",
         "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Cordeiro e Le\u00e3o",
-        "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
+        "name": "Davi (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1Jh6IaWVzcyClOrrFpBYpg"
       },
       "artists": [
         {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+          "name": "Oficina G3",
+          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
         }
       ],
-      "duration_ms": 236295,
-      "name": "Cordeiro e Le\u00e3o",
-      "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
+      "duration_ms": 196829,
+      "name": "Davi - Ao Vivo",
+      "url": "https://open.spotify.com/track/7syDyjPtf7zwoX1D425KSW"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -503,6 +487,22 @@
       "duration_ms": 215064,
       "name": "Caminho Sem Volta",
       "url": "https://open.spotify.com/track/0KyqZzXWJSInwvSlCkFvUh"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "Cordeiro e Le\u00e3o",
+        "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 236295,
+      "name": "Cordeiro e Le\u00e3o",
+      "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -679,8 +679,8 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Autor da Vida",
-        "url": "https://open.spotify.com/album/3r90gAJbiSrxVhBS1UVVcn"
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
         }
       ],
-      "duration_ms": 268000,
-      "name": "Autor da Vida",
-      "url": "https://open.spotify.com/track/6KowLLbNDFuXBPgQCLrJ72"
+      "duration_ms": 258000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -771,8 +771,8 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+        "name": "Autor da Vida",
+        "url": "https://open.spotify.com/album/3r90gAJbiSrxVhBS1UVVcn"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
+      "duration_ms": 268000,
+      "name": "Autor da Vida",
+      "url": "https://open.spotify.com/track/6KowLLbNDFuXBPgQCLrJ72"
     },
     {
       "added_at": "2026-04-24 19:01:02",

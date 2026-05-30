@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Gabriela Bee
+> Discover the next wave of talent writing their own songs\. Cover: Hailey Picardi
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,283 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,295 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [17](https://open.spotify.com/track/2of62c53ISTlsqcGJlvkp1) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [17](https://open.spotify.com/album/7n4Uz5DQPoPvyHTvTvtvCI) | 2:58 |
-| 2 | [Good Ones](https://open.spotify.com/track/5AuqGkHqaX9qdn9aZlvBUb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Good Ones](https://open.spotify.com/album/1RK7afQN4wTu90lEqbVDou) | 3:19 |
-| 3 | [Dress Rehearsal](https://open.spotify.com/track/1zVsoNOPnuwQxpTeP5c7ot) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Dress Rehearsal](https://open.spotify.com/album/4Q0izijrtRFyKkO7CCfsGZ) | 2:15 |
-| 4 | [Hold](https://open.spotify.com/track/5GNXPlVDtvk0lnmak8HSaL) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Hold](https://open.spotify.com/album/2Ba4aUbtKS8a1IYhBDDLqB) | 4:07 |
-| 5 | [Backseat](https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Sick of Staying](https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU) | 3:26 |
-| 6 | [Same Old Song](https://open.spotify.com/track/2BppK8Nvb3GS3kMCJq567w) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Same Old Song](https://open.spotify.com/album/443TzyhYSpLd2UpEtQXCCN) | 4:12 |
-| 7 | [Piece of Your Love](https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp) | [GRESLEY](https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf) | [Songs I Wrote Since She Left](https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP) | 3:25 |
-| 8 | [picking petals](https://open.spotify.com/track/0VekjqDttKaEwQ1XowzE7B) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [picking petals](https://open.spotify.com/album/7nEq3wBHWyXjhi80GE6cEf) | 3:48 |
-| 9 | [Nothing Lasts Forever](https://open.spotify.com/track/6YUZYGMzBw8VXmXmeOcxv2) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [Nothing Lasts Forever](https://open.spotify.com/album/5ATBHthIlq9ouTm6NlPsMG) | 3:56 |
-| 10 | [Living Proof](https://open.spotify.com/track/49AfNVQ0stMJEJQ4O4mmNe) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Living Proof](https://open.spotify.com/album/2S4MfD2Tro1uE4nK9SNnW6) | 3:16 |
-| 11 | [What A Bummer!](https://open.spotify.com/track/4Lbmuaiif77RwGlLN4YSwp) | [Michele Lu](https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ) | [Dull Red](https://open.spotify.com/album/3Csq54O7plAJKLxXwc2Elq) | 3:33 |
-| 12 | [better and more](https://open.spotify.com/track/15JjCDBAdKJq1Zy3weXqTT) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [better and more](https://open.spotify.com/album/2cYIT4PnWRqsU2olQ8CbD3) | 2:38 |
-| 13 | [hide and seek](https://open.spotify.com/track/05VfUthfCJ34GsPQkQh8nD) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [hide and seek](https://open.spotify.com/album/6X2k0WqDwuRf4h1USksWTv) | 2:47 |
+| 1 | [chaotic](https://open.spotify.com/track/1yqQANXMu1CgGTjHQewP6G) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [scars to prove it](https://open.spotify.com/album/73Sgh6sfNyy8ZA3RZLJmKS) | 3:14 |
+| 2 | [17](https://open.spotify.com/track/2of62c53ISTlsqcGJlvkp1) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [17](https://open.spotify.com/album/7n4Uz5DQPoPvyHTvTvtvCI) | 2:58 |
+| 3 | [Good Ones](https://open.spotify.com/track/5AuqGkHqaX9qdn9aZlvBUb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Good Ones](https://open.spotify.com/album/1RK7afQN4wTu90lEqbVDou) | 3:19 |
+| 4 | [Dress Rehearsal](https://open.spotify.com/track/1zVsoNOPnuwQxpTeP5c7ot) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Dress Rehearsal](https://open.spotify.com/album/4Q0izijrtRFyKkO7CCfsGZ) | 2:15 |
+| 5 | [Hold](https://open.spotify.com/track/5GNXPlVDtvk0lnmak8HSaL) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Hold](https://open.spotify.com/album/2Ba4aUbtKS8a1IYhBDDLqB) | 4:07 |
+| 6 | [Backseat](https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4) | [Julia Campbell](https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud) | [Sick of Staying](https://open.spotify.com/album/65a1oTXKKKPfOCyy2V7jFU) | 3:26 |
+| 7 | [Same Old Song](https://open.spotify.com/track/2BppK8Nvb3GS3kMCJq567w) | [Lila Drew](https://open.spotify.com/artist/31ce51nzy9QQQlfnkwRm9F) | [Same Old Song](https://open.spotify.com/album/443TzyhYSpLd2UpEtQXCCN) | 4:12 |
+| 8 | [Piece of Your Love](https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp) | [GRESLEY](https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf) | [Songs I Wrote Since She Left](https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP) | 3:25 |
+| 9 | [picking petals](https://open.spotify.com/track/0VekjqDttKaEwQ1XowzE7B) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [picking petals](https://open.spotify.com/album/7nEq3wBHWyXjhi80GE6cEf) | 3:48 |
+| 10 | [Nothing Lasts Forever](https://open.spotify.com/track/6YUZYGMzBw8VXmXmeOcxv2) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [Nothing Lasts Forever](https://open.spotify.com/album/5ATBHthIlq9ouTm6NlPsMG) | 3:56 |
+| 11 | [Living Proof](https://open.spotify.com/track/49AfNVQ0stMJEJQ4O4mmNe) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Living Proof](https://open.spotify.com/album/2S4MfD2Tro1uE4nK9SNnW6) | 3:16 |
+| 12 | [What A Bummer!](https://open.spotify.com/track/4Lbmuaiif77RwGlLN4YSwp) | [Michele Lu](https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ) | [Dull Red](https://open.spotify.com/album/3Csq54O7plAJKLxXwc2Elq) | 3:33 |
+| 13 | [better and more](https://open.spotify.com/track/15JjCDBAdKJq1Zy3weXqTT) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [better and more](https://open.spotify.com/album/2cYIT4PnWRqsU2olQ8CbD3) | 2:38 |
 | 14 | [Say It Like You Mean It](https://open.spotify.com/track/2NmSbpmU94WloIuWGSeMCQ) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [IS IT FUN OR IS IT OVER?](https://open.spotify.com/album/74WPtnFgpaweZt8wSqcfQd) | 3:06 |
 | 15 | [Dying Star](https://open.spotify.com/track/0DwcDNWoSNSKIUzAfKhFQs) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Dying Star](https://open.spotify.com/album/2LW9HJ56wQs8VzYcI0LFfs) | 3:57 |
 | 16 | [Birthday Makeup](https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Birthday Makeup](https://open.spotify.com/album/5GEtta9qkKWmoWVZxbsq8t) | 2:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 74 | [All My Songs](https://open.spotify.com/track/00EtXjSHo1YKBPXANXMZN2) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [All My Songs](https://open.spotify.com/album/5MTmDNt1UeWj9QlGP7F149) | 3:28 |
 | 75 | [Basements & Bedrooms](https://open.spotify.com/track/0s5Dg7GfUY3QQrJdxLjIZP) | [Addie Costain](https://open.spotify.com/artist/5o4LFa41I9pZYhNaKsfj4p) | [Basements & Bedrooms](https://open.spotify.com/album/690BEvLpxV1u4gILyG9QHK) | 3:38 |
 
-Snapshot ID: `AAAAAKgeKlRCBfTT1FkfFeqSytW+rD0D`
+Snapshot ID: `AAAAAKeRqfuwwrkPfYSM6aQmZeuF1tPz`

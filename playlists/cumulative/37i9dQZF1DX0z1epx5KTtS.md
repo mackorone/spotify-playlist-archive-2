@@ -4,7 +4,7 @@
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Josey
 
-297 songs - 16 hr 6 min
+297 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Enfant de Dieu](https://open.spotify.com/track/6vuHEKtooN9wuoGMMt3NcY) | [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Allumez la lumière](https://open.spotify.com/album/67M8L0PH2ijmmshYMgdaui) | 3:23 | 2021-12-20 | 2023-01-13 |
 | [Enfants préférés](https://open.spotify.com/track/2oXPRdfajXsuvSNzQQLxQJ) | [Force One](https://open.spotify.com/artist/4quqBaZRHb1VeG3dAPucPS), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt) | [Enfants préférés](https://open.spotify.com/album/2n3a5j2w1qlsQ4NEsN0PJu) | 3:25 | 2021-12-20 | 2022-05-27 |
 | [Enjaillement](https://open.spotify.com/track/1wmrKgGI7jHvsNUqJqMsQF) | [Ramses Tikaya](https://open.spotify.com/artist/0q00AIYSAbXj18rBqWCYT1), [Mix Premier](https://open.spotify.com/artist/7E4tPSohzAp4dXEnNuab75) | [Enjaillement](https://open.spotify.com/album/3kX7u6RihaZK11a5plv3LO) | 3:30 | 2022-09-29 | 2022-10-28 |
+| [Eusseu toi tu me connais](https://open.spotify.com/track/5E0fsHZn7rKdrwguOZ7au7) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [Jolina Verdigo](https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO), [Le Grand Homme](https://open.spotify.com/artist/3gX7vHBOQDEPYfBaryvhWN) | [Roi de L’ambiance \- Begin](https://open.spotify.com/album/6bJMKOkZ01GVq9NA2W4hTg) | 2:35 | 2026-05-28 |  |
 | [Fais comme ça](https://open.spotify.com/track/2eL618WYaelRjzAQRK97Uw) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Fais comme ça](https://open.spotify.com/album/3VhjrK60nuPqWOJpvix2IH) | 2:58 | 2024-11-07 | 2024-12-06 |
 | [FAIS OH FAIS \(1 COUP KO\)](https://open.spotify.com/track/6myxZn56qXV2JBDWZkCqJe) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [FAIS OH FAIS \(1 COUP KO\)](https://open.spotify.com/album/3j4tdBgUxLNwYJVw0KYfOW) | 2:30 | 2026-02-12 |  |
 | [Fan ou Amoureux](https://open.spotify.com/track/0HB11vrRhhiZrdIoenOVMS) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Fan ou Amoureux](https://open.spotify.com/album/3tUmrMOkfaf03TTiFn6QIy) | 3:55 | 2022-03-22 | 2022-09-09 |
@@ -278,7 +279,6 @@
 | [Tourbillon \(feat\. Serge Beynaud\)](https://open.spotify.com/track/2cfMRPnLYhnshvaGqMpAF3) | [Héritier Wata](https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Tourbillon \(feat\. Serge Beynaud\)](https://open.spotify.com/album/4v67MEPOSosqao8IdgQKfK) | 3:51 | 2026-04-09 |  |
 | [Tous des traîtres](https://open.spotify.com/track/0MMDVLU6OYcTs6xCRng6XE) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Ali le code](https://open.spotify.com/artist/518yrkCaPdKEvMi8vK3H9d), [Abomé léléfant](https://open.spotify.com/artist/7AUVEvmiJ2N8xH2ECTylBg) | [Tous des traîtres](https://open.spotify.com/album/3bhE5PPsIznSHjka6Di4cY) | 3:01 | 2022-08-04 | 2022-09-30 |
 | [Tout laisse](https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Vibration Universelle](https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne) | 2:56 | 2024-05-30 | 2026-02-20 |
-| [Track 6](https://open.spotify.com/track/5E0fsHZn7rKdrwguOZ7au7) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9) | [Roi de L’ambiance \- Begin](https://open.spotify.com/album/6bJMKOkZ01GVq9NA2W4hTg) | 0:00 | 2026-05-28 |  |
 | [Tu as créé quoi encore !](https://open.spotify.com/track/70p1D6Rf95l5oPb9oYdXRA) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [Tu as créé quoi encore !](https://open.spotify.com/album/5fJdI5nd8LCFiDD3J0Z4vL) | 2:54 | 2025-06-12 | 2025-12-19 |
 | [Tu peux lover](https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6) | [Dj Mulukuku](https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn) | [Tu peux lover](https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz) | 3:32 | 2022-06-02 | 2022-09-16 |
 | [TU PRENDS ET PUIS TU LAISSES](https://open.spotify.com/track/4eWms3CUScWTxYGAezmVao) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [TU PRENDS ET PUIS TU LAISSES](https://open.spotify.com/album/7F91Vcw2Kt3uOKWJpJ0eIt) | 2:59 | 2025-12-18 | 2026-03-27 |

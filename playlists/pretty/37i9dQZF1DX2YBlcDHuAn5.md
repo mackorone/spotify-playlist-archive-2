@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,928 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,926 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 21 | [It Takes A Woman](https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [It Takes A Woman](https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR) | 4:06 |
 | 22 | [Streets of London](https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 3:09 |
 | 23 | [After Midnight \- feat\. Tyler Hubbard](https://open.spotify.com/track/6SDWFQJxKnwjYZuxWp2bFj) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [After Midnight \(feat\. Tyler Hubbard\)](https://open.spotify.com/album/23msMw5gDXUmSOQjleicfV) | 2:46 |
-| 24 | [Get It Right](https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Get It Right](https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs) | 2:52 |
-| 25 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 |
-| 26 | [Daisies](https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daisies](https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv) | 3:43 |
+| 24 | [Daisies](https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daisies](https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv) | 3:43 |
+| 25 | [Get It Right](https://open.spotify.com/track/4eycOJZ9ofGW7iqm1QEaDJ) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Get It Right](https://open.spotify.com/album/6qHejAKDb0fEkUvAax5nHs) | 2:52 |
+| 26 | [Hold On](https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Hold On](https://open.spotify.com/album/0LLTYOCYG7GVrGQIrsaf1v) | 3:17 |
 | 27 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 |
 | 28 | [Six O'Clock News](https://open.spotify.com/track/3kbSNJhl1oRRjgX8PBKYAE) | [Brennan Wedl](https://open.spotify.com/artist/60YFU6VpDwNGQnFYU63Efh), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Six O'Clock News](https://open.spotify.com/album/0djxhi0YKtQhZrRHXhlBLl) | 4:32 |
 | 29 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [Good As Gone](https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf) | [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [Good As Gone](https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50) | 3:45 |
 | 50 | [Wealthiest Man](https://open.spotify.com/track/0m5RI0qThyYnZ3QX9WQk2O) | [Erik Lindeman](https://open.spotify.com/artist/3n3KUrOk92Xm3ks9WYtrjH) | [Wealthiest Man](https://open.spotify.com/album/1SW1cbceHsjMJjHvyniK0s) | 4:53 |
 
-Snapshot ID: `AAAAAHLs661pxsHtHLQyHSBJs8WLJlBa`
+Snapshot ID: `AAAAAJ5/qyaquOHDw/ZhhLNR2FSgFEQV`

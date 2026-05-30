@@ -2,7 +2,7 @@
 
 ### [Barefoot and Free](https://open.spotify.com/playlist/37i9dQZF1DWY5zqHqQrusq)
 
-> Chill, take a long walk and clear your mind\. Cover: Iken
+> Chill, take a long walk and clear your mind\. Cover: Maali
 
 145 songs - 8 hr 13 min
 

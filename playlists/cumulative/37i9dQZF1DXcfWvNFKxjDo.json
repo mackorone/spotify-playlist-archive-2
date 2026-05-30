@@ -17866,6 +17866,10 @@
         {
           "name": "Justin Blau",
           "url": "https://open.spotify.com/artist/3FuyWvCgY1bKY1shySrVNz"
+        },
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
         }
       ],
       "date_added": "2026-05-28",
@@ -108475,6 +108479,28 @@
     },
     {
       "album": {
+        "name": "Insula EP",
+        "url": "https://open.spotify.com/album/1NWZRfPcwZ2RYs8kOdExoN"
+      },
+      "artists": [
+        {
+          "name": "Freddi",
+          "url": "https://open.spotify.com/artist/4Zd4UkFH4ixGwkoC2rwigR"
+        },
+        {
+          "name": "NewTone",
+          "url": "https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201384,
+      "name": "Soma - Radio Edit",
+      "url": "https://open.spotify.com/track/4clNHcI6J6MYlBM0ttSFGW"
+    },
+    {
+      "album": {
         "name": "Some Kinda Feeling",
         "url": "https://open.spotify.com/album/7ME6AN0ElHMfmDHRXI0euW"
       },
@@ -122560,24 +122586,6 @@
       "duration_ms": 162580,
       "name": "Toxic Symphony",
       "url": "https://open.spotify.com/track/5sf7RuZBQftrEfrK76uiGx"
-    },
-    {
-      "album": {
-        "name": "Insula EP",
-        "url": "https://open.spotify.com/album/1NWZRfPcwZ2RYs8kOdExoN"
-      },
-      "artists": [
-        {
-          "name": "Freddi",
-          "url": "https://open.spotify.com/artist/4Zd4UkFH4ixGwkoC2rwigR"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4clNHcI6J6MYlBM0ttSFGW"
     },
     {
       "album": {

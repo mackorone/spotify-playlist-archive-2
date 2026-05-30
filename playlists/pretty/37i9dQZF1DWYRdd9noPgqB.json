@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299289,
+  "num_followers": 299287,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 202972,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
+    },
+    {
+      "added_at": "2026-05-28 22:01:10",
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
       },
@@ -503,26 +519,6 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
-        "name": "Fucked Up",
-        "url": "https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ"
-      },
-      "artists": [
-        {
-          "name": "Reverend And The Makers",
-          "url": "https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e"
-        },
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Fucked Up",
-      "url": "https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj"
-    },
-    {
-      "added_at": "2026-05-28 22:01:10",
-      "album": {
         "name": "Downtown",
         "url": "https://open.spotify.com/album/3HpHW9r9grbAHVflpDttMU"
       },
@@ -563,6 +559,26 @@
       "duration_ms": 224240,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/0qyO4rqD2KCnuk8I6GM6KD"
+    },
+    {
+      "added_at": "2026-05-28 22:01:10",
+      "album": {
+        "name": "Fucked Up",
+        "url": "https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ"
+      },
+      "artists": [
+        {
+          "name": "Reverend And The Makers",
+          "url": "https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e"
+        },
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Fucked Up",
+      "url": "https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj"
     },
     {
       "added_at": "2026-05-28 22:01:10",
@@ -643,22 +659,6 @@
       "duration_ms": 192495,
       "name": "Slow Tonight",
       "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-05-28 22:01:10",
-      "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 202972,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
     },
     {
       "added_at": "2026-05-28 22:01:10",
@@ -783,6 +783,30 @@
     {
       "added_at": "2026-05-28 22:01:10",
       "album": {
+        "name": "All The Feels",
+        "url": "https://open.spotify.com/album/04Si32XoV0WYgBMlX6q8xH"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "All The Feels",
+      "url": "https://open.spotify.com/track/0Hj3Q6sxr1U3cT4sJYzlqT"
+    },
+    {
+      "added_at": "2026-05-28 22:01:10",
+      "album": {
         "name": "Wild Guess",
         "url": "https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU"
       },
@@ -811,30 +835,6 @@
       "duration_ms": 190745,
       "name": "Give Me More",
       "url": "https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ"
-    },
-    {
-      "added_at": "2026-05-28 22:01:10",
-      "album": {
-        "name": "All The Feels",
-        "url": "https://open.spotify.com/album/04Si32XoV0WYgBMlX6q8xH"
-      },
-      "artists": [
-        {
-          "name": "Tonique & Man",
-          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
-        },
-        {
-          "name": "Jean Tonique",
-          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
-        },
-        {
-          "name": "Mi Man",
-          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "All The Feels",
-      "url": "https://open.spotify.com/track/0Hj3Q6sxr1U3cT4sJYzlqT"
     },
     {
       "added_at": "2026-05-28 22:01:10",

@@ -1475,6 +1475,32 @@
     },
     {
       "album": {
+        "name": "Friends of Gqom",
+        "url": "https://open.spotify.com/album/7rEITl6LgwIfm5WSi5WY5w"
+      },
+      "artists": [
+        {
+          "name": "Chustar",
+          "url": "https://open.spotify.com/artist/6DgtyczD2FCpb36hxFw1NC"
+        },
+        {
+          "name": "Dj Slash",
+          "url": "https://open.spotify.com/artist/11aY8ZRAzvIMCqYlhV2TVg"
+        },
+        {
+          "name": "PERFECTO-MLU",
+          "url": "https://open.spotify.com/artist/4CcZwDP4X4FhaFWj6WtLw4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288470,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/35WM88N1tPneZFkU7ZsElU"
+    },
+    {
+      "album": {
         "name": "Gqom Revolution",
         "url": "https://open.spotify.com/album/5FMTjKl5MH70nUNSoKTAa9"
       },
@@ -1796,6 +1822,40 @@
       "duration_ms": 310752,
       "name": "Clunky Bass",
       "url": "https://open.spotify.com/track/2g5i5XnxJTModmEzzPGE5a"
+    },
+    {
+      "album": {
+        "name": "4 DA STREETS!",
+        "url": "https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Royal MusiQ",
+          "url": "https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS"
+        },
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        },
+        {
+          "name": "BarbieSZN",
+          "url": "https://open.spotify.com/artist/7artciaaHDwhU9bsORcUl5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351000,
+      "name": "Cn I see u (feat. BXKS & BarbieSZN)",
+      "url": "https://open.spotify.com/track/23eqHSHlC1VTgCW8EqHoxV"
     },
     {
       "album": {
@@ -2244,7 +2304,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 398887,
       "name": "Dika",
       "url": "https://open.spotify.com/track/2XALVknNnh2APguPIqsrGE"
@@ -7924,7 +7984,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 302293,
       "name": "Partii (feat. SpacePose)",
       "url": "https://open.spotify.com/track/5DdkXF93YaZC6lB0TrgZQF"
@@ -10557,6 +10617,28 @@
     },
     {
       "album": {
+        "name": "Umaspala",
+        "url": "https://open.spotify.com/album/0j72SksaBADogHnyPFbrN7"
+      },
+      "artists": [
+        {
+          "name": "LaCmall",
+          "url": "https://open.spotify.com/artist/06bUeTcHPZfa3ndP3owmJN"
+        },
+        {
+          "name": "Vanger Boyz",
+          "url": "https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Umaspala",
+      "url": "https://open.spotify.com/track/4y3n4sKwjgeXIqkYIXEWCw"
+    },
+    {
+      "album": {
         "name": "Umbhoqo Sound Check (NegoO remix)",
         "url": "https://open.spotify.com/album/66YSdRWtTSG9H4oEOAP6wd"
       },
@@ -11894,7 +11976,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 308320,
       "name": "Welcome to Durban (feat. King Deetoy)",
       "url": "https://open.spotify.com/track/6CqvkU7BpQvEqPeBc0QMW7"

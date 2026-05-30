@@ -1355,6 +1355,32 @@
     },
     {
       "album": {
+        "name": "Plays For Bird (RVG Remaster)",
+        "url": "https://open.spotify.com/album/3DYmLyJmnC9Rk3xFzQsd8C"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quintet",
+          "url": "https://open.spotify.com/artist/5dJDadRqAmqc06tD2KRSDO"
+        },
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        },
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "date_added": "2026-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 695640,
+      "name": "Kid's Know - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/7r9IzVSqmcXukLSy8xun9j"
+    },
+    {
+      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/5tpS8Goe4jAsu0MXji3tx3"
       },
@@ -1894,7 +1920,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 278437,
       "name": "Remembering Oscar",
       "url": "https://open.spotify.com/track/0DOhuUBCVvemIubPWQMh3p"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,047 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,067 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 2 | [Marley](https://open.spotify.com/track/0UZtknI7pCLAVGtHPLIYXZ) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [Dialogue de sourds](https://open.spotify.com/album/6CyUDbu8iwTgVhpUGAenMo) | 5:12 |
 | 3 | [Tout le bonheur du monde](https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL) | [Sinsémilia](https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY) | [Debout les yeux ouverts](https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H) | 3:49 |
 | 4 | [Les nuits parisiennes](https://open.spotify.com/track/2TaEmp0ekjFpnteScYcFXU) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 2:31 |
-| 5 | [Les moutons](https://open.spotify.com/track/5qcHNtNeQWSEVTeIwBLwss) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La Ouache](https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g) | 3:48 |
-| 6 | [Et ta mère](https://open.spotify.com/track/2HEr6PARUW822o9VLx25mg) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD) | [Prison Dorée \(Nouvelle Edition\)](https://open.spotify.com/album/0O5XAR0ds6FBbRTtG36mlL) | 2:49 |
+| 5 | [Et ta mère](https://open.spotify.com/track/2HEr6PARUW822o9VLx25mg) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD) | [Prison Dorée \(Nouvelle Edition\)](https://open.spotify.com/album/0O5XAR0ds6FBbRTtG36mlL) | 2:49 |
+| 6 | [Les moutons](https://open.spotify.com/track/5qcHNtNeQWSEVTeIwBLwss) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La Ouache](https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g) | 3:48 |
 | 7 | [Les hommes que j'aime](https://open.spotify.com/track/7ebyGGBvIus0ZgdbzcXweL) | [La Rue Kétanou](https://open.spotify.com/artist/5RJtcUSgNu7Y3X9YmZDci9) | [Y'a des cigales dans la fourmilière](https://open.spotify.com/album/5ojDgFtBuoqDYUky82np4Z) | 3:33 |
 | 8 | [J'veux du soleil](https://open.spotify.com/track/0L4JEAhghqIcwjVyMJv8Yw) | [Au P'Tit Bonheur](https://open.spotify.com/artist/6aA4f67AL9W1VxtO78M06b) | [Le Mal De Vivre](https://open.spotify.com/album/2LE9YgAyu2SdcqsmXI6hgE) | 3:02 |
 | 9 | [Toujours \(Et Toujours\)](https://open.spotify.com/track/4CQl5fRLrMnYtqNhJQHrEm) | [Massilia Sound System](https://open.spotify.com/artist/6OQvEmzlyemB8CjQGgIKqr) | [Òai E Libertat](https://open.spotify.com/album/1pIVpF6nz2h15csekrsiAQ) | 4:35 |

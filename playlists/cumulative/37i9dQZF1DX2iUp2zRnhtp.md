@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-645 songs - 1 day 8 hr 0 min
+646 songs - 1 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Blåögd](https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Blåögd](https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv) | 3:35 | 2025-09-18 |  |
 | [Body](https://open.spotify.com/track/4SykKuN3ZpoJViT7Nyhz57) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Energy](https://open.spotify.com/album/1s4mHTfjmO4CU8AACjkmsS) | 2:55 | 2026-01-22 |  |
 | [Body On Body](https://open.spotify.com/track/7LtTm0lzLApbRrPGsUqNUg) | [SINA](https://open.spotify.com/artist/2A8Gi3YlSBHUwmEO3oqHLv) | [Body On Body](https://open.spotify.com/album/1KIoMonb747LXCTsqQo0uv) | 3:15 | 2025-06-05 | 2025-09-19 |
+| [Bonnie & Clyde](https://open.spotify.com/track/4VOkt0k6l7Ugyn1WMoEzR3) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [ADAM](https://open.spotify.com/album/3t2UKfWliV6csDkriulnGq) | 2:45 | 2026-05-28 |  |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-06 | 2025-05-23 |
 | [BOY](https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [BOY](https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi) | 2:31 | 2024-09-05 | 2024-09-20 |
 | [Boys will be Boys](https://open.spotify.com/track/0kqLJ1b7GlMjBEXb8yAQXK) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Boys will be Boys](https://open.spotify.com/album/5HJuTYYesC7B2ewqFf8zBV) | 2:49 | 2025-06-26 |  |
@@ -224,6 +225,7 @@
 | [Happy Mistake](https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Harlequin](https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50) | 4:05 | 2024-09-26 | 2024-11-01 |
 | [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 | 2026-05-07 |  |
 | [HARD](https://open.spotify.com/track/3gqn3c9X4EIl0A3OLrbJ41) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [HARD](https://open.spotify.com/album/3kkhYZGL2alAIfIvTlA2j4) | 2:19 | 2026-01-08 |  |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Headlines](https://open.spotify.com/track/4FMxamchqOEJFMMmPNwZfH) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [AURA](https://open.spotify.com/album/0VXJNeoTG1FDVc69l0Joqf) | 2:41 | 2026-05-07 |  |
 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 | 2025-04-17 | 2025-09-19 |
 | [Heart of Gold](https://open.spotify.com/track/1VQfrKbnGSZnEFoGpfVnS8) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/1cMeCtprtHWW2XytkPUthL) | 2:51 | 2024-11-14 | 2024-11-22 |
@@ -602,7 +604,6 @@
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-20 | 2025-05-23 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2025-05-01 |
 | [Top Class](https://open.spotify.com/track/6i4D1EC6SyyOFaLylGZffm) | [Oscar Blesson](https://open.spotify.com/artist/34yalNbmu76FgEtORg2yVp) | [Top Class](https://open.spotify.com/album/0L6bJA2iBxUSYma6eWCFZB) | 2:51 | 2026-05-07 |  |
-| [Track 6](https://open.spotify.com/track/4VOkt0k6l7Ugyn1WMoEzR3) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR) | [ADAM](https://open.spotify.com/album/3t2UKfWliV6csDkriulnGq) | 0:00 | 2026-05-28 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-06-27 | 2025-03-08 |
 | [trenger min love](https://open.spotify.com/track/4pC15giPh4pwFZQkZL0z5L) | [lille Caesar](https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [trenger min love](https://open.spotify.com/album/02lT1avDI4toG3QCw7eoeo) | 3:02 | 2025-04-30 | 2025-05-23 |
 | [TRIPPIN](https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [TRIPPIN](https://open.spotify.com/album/6csFTPBuceEsBcSHGzQTaJ) | 3:22 | 2025-03-27 | 2025-05-01 |

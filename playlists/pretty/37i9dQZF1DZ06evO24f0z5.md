@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,715 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,725 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 49 | [Luces de la ciudad](https://open.spotify.com/track/2csEH050WHJQM6qXSxBlff) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari todo concuerda](https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif) | 3:18 |
 | 50 | [One Drop](https://open.spotify.com/track/6ygWwUSHRVDbja6zpfMFNG) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [One Drop](https://open.spotify.com/album/4guVvB3rBVdTjwb58DZfeh) | 3:58 |
 
-Snapshot ID: `ahY0AAAAAADSrow+GbVcw8hqU1FCyfqV`
+Snapshot ID: `aheFgAAAAAB/fLfgy6gG3kcIFxM1SkNg`

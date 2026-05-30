@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-311 songs - 1 day 1 hr 21 min
+312 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [One Mind](https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [One Mind EP](https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm) | 5:45 | 2025-02-07 |  |
 | [Open Up \- Original Mix](https://open.spotify.com/track/4LQ0pqAmV9SHFG617KpwtI) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Open Up](https://open.spotify.com/album/0f8gsdHHUzesyF8rDqUcU5) | 7:12 | 2022-07-05 | 2023-03-29 |
 | [ORION](https://open.spotify.com/track/5EhsdUx1N4JTcokotQT71c) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [ORION](https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A) | 3:21 | 2024-02-16 | 2024-11-16 |
+| [our frequency](https://open.spotify.com/track/7MHGgkKi7SQYDHX0bavrxM) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [our frequency](https://open.spotify.com/album/05gYwF3bCjFDVUxmwHHXPm) | 4:24 | 2026-05-29 |  |
 | [Overdose Of Bass](https://open.spotify.com/track/3UnDvoDHicV3e2YLAeiTj5) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Overdose Of Bass](https://open.spotify.com/album/25e0jOmd5wkq3DrJJRIaDN) | 3:14 | 2025-01-10 | 2025-06-01 |
 | [Overlord](https://open.spotify.com/track/1EQNQoNTxAhzj62OJ6z4q9) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj) | [Overlord](https://open.spotify.com/album/0Hz3KBcbbqPFTTxC5MJRzr) | 4:15 | 2022-07-05 | 2022-07-29 |
 | [P.A.R.T.Y.](https://open.spotify.com/track/6cdwuEuy9h42etVznXLTtd) | [Ramon Tapia](https://open.spotify.com/artist/5BFl4h5TXYSSJsCteTX3s1) | [P.A.R.T.Y.](https://open.spotify.com/album/0qYPyKXjit9qxZfehmx4xf) | 7:13 | 2023-02-01 | 2023-02-11 |
@@ -226,7 +227,7 @@
 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-04-13 | 2025-12-06 |
 | [Reflection](https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Reflection EP](https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe) | 6:46 | 2023-03-29 | 2023-05-07 |
 | [Remedy](https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Remedy](https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R) | 2:43 | 2024-07-29 | 2025-04-21 |
-| [Residue](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 | 2026-02-04 |  |
+| [Residue](https://open.spotify.com/track/3L9YdL4F2J0x8l6WigJ7uz) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Residue](https://open.spotify.com/album/4x5yNCevn6zkJx64oNfXmN) | 3:28 | 2026-02-04 | 2026-05-30 |
 | [Rewind](https://open.spotify.com/track/7qrj7lRzVLTMPLUt4ge274) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Rewind](https://open.spotify.com/album/2X63qmnbwC2KTbSy4YMMHD) | 2:59 | 2025-10-10 | 2025-11-07 |
 | [Ritual](https://open.spotify.com/track/5tPC9sy0oSG2snV5L3PYB1) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [Umbilicis Universalis](https://open.spotify.com/album/67vRbAKHrUlH3ejiXFDKQy) | 7:00 | 2022-07-05 | 2022-07-24 |
 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 | 2024-04-12 |  |

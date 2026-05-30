@@ -31120,10 +31120,28 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 179200,
       "name": "Greece",
       "url": "https://open.spotify.com/track/4diD44DnrjraPBpdXX1PGx"
+    },
+    {
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/5U1rTWBKjMsgDLqOim1uuz"
+      },
+      "artists": [
+        {
+          "name": "Korey Wade",
+          "url": "https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124797,
+      "name": "Greedy",
+      "url": "https://open.spotify.com/track/4Dl5rg9VuKYWza78Ehv7jH"
     },
     {
       "album": {
@@ -39656,6 +39674,28 @@
     {
       "album": {
         "name": "Juniper",
+        "url": "https://open.spotify.com/album/2Hx91M5walfklngrxPMDH8"
+      },
+      "artists": [
+        {
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
+        },
+        {
+          "name": "Slo Loris",
+          "url": "https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "Juniper",
+      "url": "https://open.spotify.com/track/37M0mUenbLK4xcQEkFcPUf"
+    },
+    {
+      "album": {
+        "name": "Juniper",
         "url": "https://open.spotify.com/album/4PoqWidhdoLutHZ5LoUxVU"
       },
       "artists": [
@@ -40806,7 +40846,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 120000,
       "name": "Kosame",
       "url": "https://open.spotify.com/track/0Wo2T73APnKUS0zDoqyBTc"

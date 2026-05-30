@@ -3754,7 +3754,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 258461,
       "name": "Bring Me To Life",
       "url": "https://open.spotify.com/track/6pkSEqfTFyoqaPXQ1d4nLp"
@@ -13687,6 +13687,24 @@
     },
     {
       "album": {
+        "name": "Is It Over Now?",
+        "url": "https://open.spotify.com/album/05d5EqS6Ti2DXSO8WfAkbv"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219971,
+      "name": "Is It Over Now?",
+      "url": "https://open.spotify.com/track/7a1HZI7drZ3Rn0EYGAnrgC"
+    },
+    {
+      "album": {
         "name": "It Don\u2019t Matter - Spotify Singles",
         "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
       },
@@ -16724,7 +16742,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 232282,
       "name": "Midnight Angel",
       "url": "https://open.spotify.com/track/5EqWocub9JmJKD9DVf32g0"
@@ -26508,7 +26526,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 156521,
       "name": "Taste The Bass",
       "url": "https://open.spotify.com/track/3GLMMMUd499cjYITlwMq4F"

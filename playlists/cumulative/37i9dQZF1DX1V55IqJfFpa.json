@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "aqu\u00ed pura vibra chida \u2728 Maluma en portada",
+  "description": "aqu\u00ed pura vibra chida \u2728 Young Miko y Rauw Alejandro en portada",
   "name": "rolitas chidas ",
   "tracks": [
     {
@@ -488,7 +488,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 128409,
       "name": "Agu\u00e1ntame",
       "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
@@ -810,6 +810,28 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
+        "name": "Do Not Disturb: Late Checkout",
+        "url": "https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202413,
+      "name": "Aquel diciembre",
+      "url": "https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG"
     },
     {
       "album": {
@@ -3120,7 +3142,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 194949,
       "name": "De la A a la Z",
       "url": "https://open.spotify.com/track/1csNK00TYZCFiSZuCZxOAK"
@@ -4390,6 +4412,24 @@
       "duration_ms": 181500,
       "name": "EX EX EX",
       "url": "https://open.spotify.com/track/0JblMDDZxhwEVAH65UeLBc"
+    },
+    {
+      "album": {
+        "name": "Explotar",
+        "url": "https://open.spotify.com/album/5jLGn7aHYTJm18dyDbj3hL"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191605,
+      "name": "Explotar",
+      "url": "https://open.spotify.com/track/09Yc3FvIm6wrSCt6mzGriT"
     },
     {
       "album": {
@@ -6553,6 +6593,32 @@
     },
     {
       "album": {
+        "name": "EV+",
+        "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185969,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/659ULDrXBQCJpoctMocXCo"
+    },
+    {
+      "album": {
         "name": "Lamine Yamal",
         "url": "https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J"
       },
@@ -7876,7 +7942,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188600,
       "name": "Mira Como Me Tienes",
       "url": "https://open.spotify.com/track/1A6uHSqJuqFPZX9RSAbfr0"
@@ -9068,7 +9134,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 198520,
       "name": "Ojos Marrones",
       "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
@@ -9248,7 +9314,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 132923,
       "name": "Otra Cosa",
       "url": "https://open.spotify.com/track/1CZE56TyhNwIffdDr4GyCC"
@@ -10994,6 +11060,24 @@
       "duration_ms": 236506,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
+    },
+    {
+      "album": {
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282216,
+      "name": "Rubio",
+      "url": "https://open.spotify.com/track/1koGYZiLV7pcmxT2FF8LNw"
     },
     {
       "album": {
@@ -13061,6 +13145,28 @@
     },
     {
       "album": {
+        "name": "T\u00fa Ni En Cuenta",
+        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203801,
+      "name": "T\u00fa Ni En Cuenta",
+      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
+    },
+    {
+      "album": {
         "name": "T\u00fa y yo y t\u00fa",
         "url": "https://open.spotify.com/album/481MCPmKn2LqqRmElx0p2o"
       },
@@ -13229,6 +13335,24 @@
     },
     {
       "album": {
+        "name": "UNA NA MAS",
+        "url": "https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196256,
+      "name": "UNA NA MAS",
+      "url": "https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"
+    },
+    {
+      "album": {
         "name": "Una Nada M\u00e1s",
         "url": "https://open.spotify.com/album/3BThJjhquxcjlV2umvw1ve"
       },
@@ -13324,7 +13448,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 194224,
       "name": "Una vida juntos",
       "url": "https://open.spotify.com/track/5t4jQPNGUqciQDDxXEnQKr"

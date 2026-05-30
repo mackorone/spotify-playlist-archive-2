@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 192000,
       "name": "Afro Beat",
       "url": "https://open.spotify.com/track/6vXcUUwsnBlOcXXT22ZIGT"
@@ -5260,7 +5260,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 188235,
       "name": "BUDAI GETT\u00d3",
       "url": "https://open.spotify.com/track/5fMwBmQDvzR4NlDPbNklZf"
@@ -21224,7 +21224,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 163375,
       "name": "MOKKA",
       "url": "https://open.spotify.com/track/3u582Ft7ws5CvUxCsBHxwT"
@@ -22244,6 +22244,28 @@
       "duration_ms": 186947,
       "name": "NEM ALSZOM OTTHON",
       "url": "https://open.spotify.com/track/2Mbg50MyaInQ2vbZ6n6xbi"
+    },
+    {
+      "album": {
+        "name": "nem hiszek",
+        "url": "https://open.spotify.com/album/6QEL4ZeDO3Q3oDpj8jxh8W"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189726,
+      "name": "nem hiszek",
+      "url": "https://open.spotify.com/track/6HUFPh5sQqQ1yRfo4sey8U"
     },
     {
       "album": {

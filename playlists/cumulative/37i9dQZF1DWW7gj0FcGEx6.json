@@ -1841,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "MATA (Bande originale)",
+        "url": "https://open.spotify.com/album/28K3ulAlrdUGYrH2HHshwN"
+      },
+      "artists": [
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117426,
+      "name": "C'EST PARTI",
+      "url": "https://open.spotify.com/track/5QTtHnAUbF8agWCYXCHM4L"
+    },
+    {
+      "album": {
         "name": "The Bad Guys 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0OOruSDLvleGc47uqRcbWm"
       },
@@ -8660,6 +8678,24 @@
       "duration_ms": 269105,
       "name": "Mission Accomplished",
       "url": "https://open.spotify.com/track/4wOJ9znPdhekIGwHHsdOD4"
+    },
+    {
+      "album": {
+        "name": "Watson: Seasons 1 & 2 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7oci1pirgR6VUwjOoAExqA"
+      },
+      "artists": [
+        {
+          "name": "Paul Leonard-Morgan",
+          "url": "https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125346,
+      "name": "Mister A",
+      "url": "https://open.spotify.com/track/0wd4RkKpLRAP5rWodd7fg1"
     },
     {
       "album": {

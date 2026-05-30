@@ -4,11 +4,12 @@
 
 > Atmospheric and emotional piano pieces.
 
-335 songs - 17 hr 46 min
+339 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/4ltFUwVA65LD3vgoFQo68b) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/0L9vIwfTY6FIZexNc1aq27) | 0:00 | 2021-12-10 | 2023-01-04 |
+| [4am feeling](https://open.spotify.com/track/0hYaiWcaYmFx6Blaa6tGwn) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [4am feeling](https://open.spotify.com/album/6URUq1pOo7FVUTCIO2xkSk) | 3:00 | 2026-05-29 |  |
 | [85mm](https://open.spotify.com/track/0QXXalGnUnollbhAscrpy3) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [85mm](https://open.spotify.com/album/2WBVYJgZDu0sU46CakgquV) | 2:59 | 2023-03-03 |  |
 | [A Colour Field \- Piano Version](https://open.spotify.com/track/4ukcqr2CrApch1Ddjk1yxk) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [A Colour Field \(Piano Version\)](https://open.spotify.com/album/45cblmLOyEeXopS1hBlEzn) | 2:34 | 2024-10-02 |  |
 | [A Daydream In Camelot](https://open.spotify.com/track/4V0E9NmULQ2oI3G12WnYFr) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [A Daydream In Camelot](https://open.spotify.com/album/7ufuRbKKVBbqwkeqxVlX55) | 2:38 | 2026-04-02 |  |
@@ -23,6 +24,7 @@
 | [A Year Of Meditations \- XXI](https://open.spotify.com/track/3DM9lLzPdlsHwMuZRrsBS9) | [Jef Martens](https://open.spotify.com/artist/2TdPVIB0o6UlXQMNhXzy4O), [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [A Year Of Meditations \- XXI](https://open.spotify.com/album/18ZY4F1fM8QXlArm7WLBSJ) | 2:12 | 2025-12-01 |  |
 | [Ab Ovo](https://open.spotify.com/track/64Et6pK8rZzVYTp4olBGue) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Ab Ovo](https://open.spotify.com/album/0AtZ7IYyvTpCDMFA5cuJBZ) | 4:28 | 2026-04-02 |  |
 | [About Coming and Leaving](https://open.spotify.com/track/6DQ0d8YVCs0wi1zHN0fedq) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [About Coming and Leaving](https://open.spotify.com/album/1jXegZ2mzIXJZHjlaD9NLf) | 2:07 | 2021-12-10 | 2025-03-27 |
+| [Adagio \(Ravel\)](https://open.spotify.com/track/64qeNInhPT3TKPCc6eKyy3) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Ravel \(Encores\)](https://open.spotify.com/album/4enKowMiwzVBUqTLYb6CHh) | 2:47 | 2026-05-29 |  |
 | [Adulta](https://open.spotify.com/track/20HkJbvVcpramHwwMg6gr3) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Adulta](https://open.spotify.com/album/4DDy87wXTLUIJGmkoGGpSd) | 1:41 | 2026-05-15 |  |
 | [Aeolus](https://open.spotify.com/track/4xq12nNwdGfjlORk5EvgcK) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Aeolus](https://open.spotify.com/album/6WZsTC4wFp4Jd8UtGnglw2) | 2:40 | 2025-12-01 |  |
 | [All Clear](https://open.spotify.com/track/1gLsIbGueJZ3GFeE8W9PnC) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitudes](https://open.spotify.com/album/1Zrfkm3Oc8xhCLGCGmmKev) | 3:44 | 2022-07-22 | 2023-02-19 |
@@ -133,6 +135,7 @@
 | [Idea 10](https://open.spotify.com/track/1lb3H41lbvAN28N7yqRNL9) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 10](https://open.spotify.com/album/537DpzZYvcwyR7Fvl3QnXE) | 2:08 | 2025-05-16 |  |
 | [Idea 22](https://open.spotify.com/track/18OvVTXtC3lx1Iym9E0RyT) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 22](https://open.spotify.com/album/2szFL2Ml8VtzkX0fhHrfin) | 2:32 | 2025-01-20 | 2025-03-06 |
 | [Ikoi](https://open.spotify.com/track/5LPiYEOBZTiN0oiaTyuR4m) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Awai / Ikoi](https://open.spotify.com/album/7Av6OIQIXPtfvjLLwZsRiS) | 2:43 | 2026-04-02 |  |
+| [Improvisation in E Major: Magic does Exist](https://open.spotify.com/track/7jG7M7yz1za1lVRI5oTgNw) | [James Malikey](https://open.spotify.com/artist/2EyDwUM5rybE4PoBmsbKKw) | [Lost Within the Aether](https://open.spotify.com/album/6yJy67JiExP2UzYZVkmmhP) | 9:05 | 2026-05-29 |  |
 | [Improvisation No\. 1](https://open.spotify.com/track/7CfQ6IUB9zTIH3XduqrdMP) | [Elias Kiefer](https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB) | [Improvisation No\. 1](https://open.spotify.com/album/2hCv6EDrKkpbdoE8cgYFU4) | 2:41 | 2025-03-26 |  |
 | [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 | 2021-12-10 |  |
 | [Inno \(Prologo\)](https://open.spotify.com/track/4CYoKviFpkT3XC6nDbjYte) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [\#002 Hymns](https://open.spotify.com/album/0tVvs2WoGh1ZkYp9ZuGkot) | 2:43 | 2022-02-25 | 2026-05-23 |
@@ -328,6 +331,7 @@
 | [Vale](https://open.spotify.com/track/66rQOJEJDAxUUdOBxFE8FM) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Upright Sketches, Vol 2](https://open.spotify.com/album/5StgabD99z9jFfWMpBlOrY) | 2:20 | 2021-12-10 | 2025-03-27 |
 | [Viola's Theme \- Music For Theatre](https://open.spotify.com/track/49s3cG4RJNxpnTcptWjihX) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf), [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Tröstrapporter \(Music For Theatre\)](https://open.spotify.com/album/4dCJnf1ZWcYOrqdfWEsmL9) | 3:09 | 2021-12-10 |  |
 | [Viola's Theme \- Music For Theatre](https://open.spotify.com/track/7AEf1Jc3htMKTWmFZOOGtR) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf), [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Tröstrapporter](https://open.spotify.com/album/4nxDnLtkNguSlaxTpzetdQ) | 3:09 | 2022-10-28 | 2024-04-19 |
+| [Violet Dusk](https://open.spotify.com/track/7HHwJCUE6xSkSUCZymJ5mA) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Violet Dusk](https://open.spotify.com/album/6Uylgq6Iejh4Q20dKfTlEQ) | 2:14 | 2026-05-29 |  |
 | [Vortex](https://open.spotify.com/track/4RphGhJN2miCGRkRVIP0FE) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Veer](https://open.spotify.com/album/0QRcTXAj8YAQ6kST7DLrzA) | 2:01 | 2025-03-26 | 2026-04-03 |
 | [Warming \(Mvt\. 5\)](https://open.spotify.com/track/4JdtTdug3Hr19bPtdSUzgS) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Warming \(Mvt\. 5\)](https://open.spotify.com/album/1YXbHHjbdli6iP2T158h6M) | 4:34 | 2026-04-02 |  |
 | [Water Variations and Theme: Variation II](https://open.spotify.com/track/26SHCfkRzsns4BVbpbr0Av) | [Oliver Davis](https://open.spotify.com/artist/3BRizPspINkIYljgzP1x6J), [Beth & Flo](https://open.spotify.com/artist/6vHrGcot7nJR1zRBBK2Io7) | [Oliver Davis: Blue](https://open.spotify.com/album/2GNj9tUmqEH2EK1vTmRM99) | 2:19 | 2024-09-06 |  |

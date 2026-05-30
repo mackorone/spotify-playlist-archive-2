@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2026 RADAR登場！持續發掘香港未來新聲！Cover: CONSTANCE
+> 2026 RADAR登場！持續發掘香港未來新聲！Cover: The Hertz
 
-337 songs - 19 hr 35 min
+338 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [mountain](https://open.spotify.com/track/7ymXZxnw48FcoGm27NhMlu) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [mountain](https://open.spotify.com/album/2PHjceB7h7ABJ4dWkkUkHS) | 1:42 | 2024-03-28 | 2025-03-28 |
 | [Mountain Song](https://open.spotify.com/track/2eIKlFY0T4zA3IJiFZ4BxL) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Mountain Song](https://open.spotify.com/album/5svETC0BXMrTyzJ3D53m8I) | 3:10 | 2025-02-06 | 2025-03-28 |
 | [Mr\. Nobody](https://open.spotify.com/track/4BLLabgvIOkn6nJF0flywa) | [CotaBoii](https://open.spotify.com/artist/2yUScYyzi0WG8ldMEFximW) | [Mr\. Nobody](https://open.spotify.com/album/4BHmoJJ6w2fZOXiXgtZWmd) | 2:56 | 2024-03-28 | 2025-03-28 |
+| [MR\. SMILE](https://open.spotify.com/track/3ez7xQy4UKDqnCPz0q6cxc) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [MR\. SMILE](https://open.spotify.com/album/66P2RDdsOcRXDrDLVW5rhR) | 3:48 | 2026-05-29 |  |
 | [nahnah](https://open.spotify.com/track/65kMPWR0eQ2EZJUkhEd4if) | [inablankat](https://open.spotify.com/artist/70mPT0gHw71WYtG8ozj590) | [sweetcut / nahnah](https://open.spotify.com/album/6LvYGRsgwRbtR1ZEAiupJ8) | 3:48 | 2026-04-06 |  |
 | [Never Meant to Hurt You](https://open.spotify.com/track/0ouOoGE1snaFzozJwFwokn) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [Never Meant to Hurt You](https://open.spotify.com/album/2CPfE2n9b4XbtLUQXT7HJs) | 3:16 | 2023-04-13 | 2023-12-15 |
 | [Never mind](https://open.spotify.com/track/4QM774WtzXy2KZeed1xe03) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Never mind](https://open.spotify.com/album/2aRPQp8uqMdUBDTIYROVWJ) | 4:11 | 2023-11-23 | 2024-03-29 |

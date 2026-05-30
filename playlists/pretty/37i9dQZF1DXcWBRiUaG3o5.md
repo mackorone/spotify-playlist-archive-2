@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,408 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,294 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 25 | [Cool Girl](https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Build A Problem](https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE) | 3:19 |
 | 26 | [Bare](https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:54 |
 | 27 | [Still I Wait](https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo) | [Anna Leone](https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj) | [Still I Wait](https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi) | 3:49 |
-| 28 | [La Lune](https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [La Lune](https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA) | 3:05 |
-| 29 | [The Dream Song](https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:15 |
+| 28 | [The Dream Song](https://open.spotify.com/track/4VzC9UCasqtH2lMsYNyLbF) | [Nathan Reich](https://open.spotify.com/artist/3kyJ9Dtcfsww8eXKdmLvtf) | [All Night Pharmacy](https://open.spotify.com/album/7rnzB9PcNqoE3A0JrYXh3s) | 4:15 |
+| 29 | [La Lune](https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [La Lune](https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA) | 3:05 |
 | 30 | [Silk \(feat\. Thelma Plum\)](https://open.spotify.com/track/2smKkz9SSKxe16NuscYxq5) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX), [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 4:01 |
 | 31 | [love \(aint always so good\)](https://open.spotify.com/track/7lY3juj1MLv4gjpRxkj27Z) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [the death of you & i \- EP](https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor) | 3:44 |
 | 32 | [Ether Garden](https://open.spotify.com/track/6WsgELUOvr9rf3XWolZYjc) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 2:47 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 61 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
 | 62 | [The Last Time I Saw Adrianne](https://open.spotify.com/track/3wmyO7epB7HGP2HOsAWtPW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:36 |
 | 63 | [I Can’t Hide](https://open.spotify.com/track/56wQ8oN1RxGkTDw1lV7RSM) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Waiting](https://open.spotify.com/album/42PYcXkN5YS40eOmFFU2XW) | 2:57 |
-| 64 | [Stop Your Tears](https://open.spotify.com/track/1ipOWUZFRUbHF0IVb00QAh) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2Kecdv9NPLSHoIjZvARyWz) | 5:38 |
-| 65 | [The First Time](https://open.spotify.com/track/1KYTFMhgTad8OGgmjkU6rn) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 2:40 |
+| 64 | [The First Time](https://open.spotify.com/track/1KYTFMhgTad8OGgmjkU6rn) | [Matt Kivel](https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w) | [Days of Being Wild](https://open.spotify.com/album/4OUF3bDg60cOEqlHLsLDA0) | 2:40 |
+| 65 | [Stop Your Tears](https://open.spotify.com/track/1ipOWUZFRUbHF0IVb00QAh) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/2Kecdv9NPLSHoIjZvARyWz) | 5:38 |
 | 66 | [Sang About It](https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Sang About It](https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ) | 2:13 |
 | 67 | [Polyester](https://open.spotify.com/track/7hfXWCR9YTkaD4TUk3y2ee) | [Clea](https://open.spotify.com/artist/5BMsuUeplpt928CfxMxHAl) | [Polyester](https://open.spotify.com/album/2tkakCOwJdh36GJYCFWAFl) | 3:28 |
 | 68 | [Cherry In Tacoma](https://open.spotify.com/track/09oUu07p0Hp845lehhYsYG) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Cherry In Tacoma](https://open.spotify.com/album/32peyMgk2J7Ro7X6rLjxZR) | 3:42 |

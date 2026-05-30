@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind\. Cover: Ryan Bingham
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,175 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,336 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 55 | [Can't Let Go](https://open.spotify.com/track/0kyM6MaS573Gt9Yna1rsqd) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 3:28 |
 | 56 | [Snake Farm](https://open.spotify.com/track/2vULyRIRIZH8dnw7lyXAcR) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Snake Farm](https://open.spotify.com/album/50TtZo1OeEN6eecHoCWTFV) | 3:53 |
 | 57 | [Feelin' Good Again](https://open.spotify.com/track/4NpYrBb5iuDqW1S5qrU3b6) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [Walking Distance](https://open.spotify.com/album/0n7FDhF0uwZ7hKpEyH9Ycq) | 3:16 |
-| 58 | [I'm the Only Hell \(Mama Ever Raised\)](https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Super Hits](https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3) | 3:06 |
-| 59 | [You Ain’t Gotta Die \(To Be Dead To Me\)](https://open.spotify.com/track/2l71DB43YblEWw73yWzeTm) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/3j10vE1dzWGEyVj5lcQXX0) | 3:19 |
+| 58 | [You Ain’t Gotta Die \(To Be Dead To Me\)](https://open.spotify.com/track/2l71DB43YblEWw73yWzeTm) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Roadrunner!](https://open.spotify.com/album/3j10vE1dzWGEyVj5lcQXX0) | 3:19 |
+| 59 | [I'm the Only Hell \(Mama Ever Raised\)](https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Super Hits](https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3) | 3:06 |
 | 60 | [All Your'n](https://open.spotify.com/track/3AK75yY57gkBbSPOqzn6GW) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [All Your'n](https://open.spotify.com/album/3GnTjxsOBLdqm6A5yXTcaL) | 3:38 |
 | 61 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Kristofferson](https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke) | 4:35 |
 | 62 | [Let the Rain Come Down](https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Straw in the Wind](https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x) | 3:19 |

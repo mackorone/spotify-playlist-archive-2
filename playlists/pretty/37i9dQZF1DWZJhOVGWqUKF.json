@@ -435,22 +435,6 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
-        "name": "Your Favorite Toy",
-        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
         "name": "Hexagons",
         "url": "https://open.spotify.com/album/3KoOHa3ZGsWo85OQv6fRSV"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 326599,
       "name": "Hexagons",
       "url": "https://open.spotify.com/track/6dN6m9zDXxLKtckqbLxaPX"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
+        "name": "Your Favorite Toy",
+        "url": "https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1"
     },
     {
       "added_at": "2026-05-28 22:00:18",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
-        "name": "Who Will You Follow",
-        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 235504,
-      "name": "Who Will You Follow",
-      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
         "name": "Be With You",
         "url": "https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 215196,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
+        "name": "Who Will You Follow",
+        "url": "https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 235504,
+      "name": "Who Will You Follow",
+      "url": "https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2"
     },
     {
       "added_at": "2026-05-28 22:00:18",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5"
-      },
-      "artists": [
-        {
-          "name": "Sleep Theory",
-          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
-        }
-      ],
-      "duration_ms": 209835,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
         "name": "Unravelling",
         "url": "https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 238002,
       "name": "Unravelling",
       "url": "https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/0vYjqR60YBxBFtRia6ezF5"
+      },
+      "artists": [
+        {
+          "name": "Sleep Theory",
+          "url": "https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN"
+        }
+      ],
+      "duration_ms": 209835,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/3Ai8swkl3r7q5TzaOFcpXu"
     },
     {
       "added_at": "2026-05-28 22:00:18",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/1VDav7H7kW9fgkpf54rLUD"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 207344,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/7KLFCXhioKvErGSF0qD1Ag"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 222957,
       "name": "Forever/Always",
       "url": "https://open.spotify.com/track/1MoRo6wa0WcfjlOcutsnui"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
-        "name": "Die For You",
-        "url": "https://open.spotify.com/album/1VDav7H7kW9fgkpf54rLUD"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 207344,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/7KLFCXhioKvErGSF0qD1Ag"
     },
     {
       "added_at": "2026-05-28 22:00:18",
@@ -791,38 +791,6 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
-        "name": "G.O.D. And The Broken Ribs / Derecho Demonico",
-        "url": "https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 223762,
-      "name": "G.O.D. And The Broken Ribs",
-      "url": "https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "In A Life",
-      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/0khYhFPJexeHI2w0X96XBy"
       },
@@ -839,34 +807,18 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
-        "name": "IT CALLS ME BY NAME",
-        "url": "https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL"
+        "name": "G.O.D. And The Broken Ribs / Derecho Demonico",
+        "url": "https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR"
       },
       "artists": [
         {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 194827,
-      "name": "BLINDFOLD",
-      "url": "https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
-        "name": "Idols",
-        "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 386181,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd"
+      "duration_ms": 223762,
+      "name": "G.O.D. And The Broken Ribs",
+      "url": "https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU"
     },
     {
       "added_at": "2026-05-28 22:00:18",
@@ -887,6 +839,38 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "In A Life",
+      "url": "https://open.spotify.com/track/1fbIlgO7EgYsDzk3r3uRz2"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
+        "name": "Idols",
+        "url": "https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 386181,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
         "name": "The Great Unknown",
         "url": "https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 181956,
       "name": "The Great Unknown",
       "url": "https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
+        "name": "IT CALLS ME BY NAME",
+        "url": "https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 194827,
+      "name": "BLINDFOLD",
+      "url": "https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6"
     },
     {
       "added_at": "2026-05-28 22:00:18",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
+        "name": "False Reaction",
+        "url": "https://open.spotify.com/album/1799QCS7eeX8JKJn0Fp7X3"
+      },
+      "artists": [
+        {
+          "name": "VIOLENT VIRA",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
+        }
+      ],
+      "duration_ms": 166132,
+      "name": "False Reaction",
+      "url": "https://open.spotify.com/track/3TG5mHXETb6JyWzysmZ5RN"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
         "name": "Everything Burns (feat. Beartooth)",
         "url": "https://open.spotify.com/album/4jsUVte5X0LXHuFIE281qq"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 203773,
       "name": "Drum Show",
       "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
-        "name": "False Reaction",
-        "url": "https://open.spotify.com/album/1799QCS7eeX8JKJn0Fp7X3"
-      },
-      "artists": [
-        {
-          "name": "VIOLENT VIRA",
-          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
-        }
-      ],
-      "duration_ms": 166132,
-      "name": "False Reaction",
-      "url": "https://open.spotify.com/track/3TG5mHXETb6JyWzysmZ5RN"
     },
     {
       "added_at": "2026-05-28 22:00:18",
@@ -1223,6 +1223,38 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
+        "name": "Unshatter",
+        "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 196112,
+      "name": "Unshatter",
+      "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/5Oa9k6uLFOMl27rMOBN7fi"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 192071,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/5sZqrPVsomozAx6QnyD996"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/76KSGTIS8AaHn6er7gg3V8"
       },
@@ -1239,22 +1271,6 @@
       "duration_ms": 239582,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
-        "name": "Unshatter",
-        "url": "https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 196112,
-      "name": "Unshatter",
-      "url": "https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht"
     },
     {
       "added_at": "2026-05-28 22:00:18",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/5Oa9k6uLFOMl27rMOBN7fi"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 192071,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/5sZqrPVsomozAx6QnyD996"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
         "name": "Whisper of a Dream",
         "url": "https://open.spotify.com/album/3FeXejbM9EaP9iGTK6kDeF"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 264248,
       "name": "Whisper of a Dream",
       "url": "https://open.spotify.com/track/6n2SePFVDUwGPhzSX7eGER"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
-        "name": "You Got to Lose",
-        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 197646,
-      "name": "You Got to Lose",
-      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
     },
     {
       "added_at": "2026-05-28 22:00:18",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
+        "name": "You Got to Lose",
+        "url": "https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 197646,
+      "name": "You Got to Lose",
+      "url": "https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
         "name": "Violent Nature",
         "url": "https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U"
       },
@@ -1407,8 +1407,8 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
-        "name": "Of All People",
-        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
       },
       "artists": [
         {
@@ -1416,9 +1416,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 154293,
-      "name": "Of All People",
-      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
+      "duration_ms": 269000,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "added_at": "2026-05-28 22:00:18",
@@ -1479,42 +1479,6 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
-        "name": "Nightmare Tripping (Feat. Nickelback)",
-        "url": "https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz"
-      },
-      "artists": [
-        {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
-        },
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 321106,
-      "name": "Nightmare Tripping (Feat. Nickelback)",
-      "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
         "name": "Crawl Back To My Coffin",
         "url": "https://open.spotify.com/album/7JWTIDOEdhFeAA3ipvMEkI"
       },
@@ -1527,6 +1491,22 @@
       "duration_ms": 242346,
       "name": "Crawl Back To My Coffin",
       "url": "https://open.spotify.com/track/2p50qhRb0mnj9H8fLoQRf1"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
+        "name": "Of All People",
+        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "Of All People",
+      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
     },
     {
       "added_at": "2026-05-28 22:00:18",
@@ -1555,6 +1535,42 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
+        "name": "Dear God",
+        "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 368505,
+      "name": "Dear God",
+      "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
+        "name": "Nightmare Tripping (Feat. Nickelback)",
+        "url": "https://open.spotify.com/album/3Ju4E7uK191rI13IfDBQWz"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        },
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "duration_ms": 321106,
+      "name": "Nightmare Tripping (Feat. Nickelback)",
+      "url": "https://open.spotify.com/track/3WzTUJKWd9pEYDepJpWJK1"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
         "name": "As Alive As You Need Me To Be",
         "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 233562,
       "name": "As Alive As You Need Me To Be",
       "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
-        "name": "595",
-        "url": "https://open.spotify.com/album/1MWiePmVOoRmpYrzoTM6SP"
-      },
-      "artists": [
-        {
-          "name": "Violet Grohl",
-          "url": "https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB"
-        }
-      ],
-      "duration_ms": 149653,
-      "name": "595",
-      "url": "https://open.spotify.com/track/3CloubWEgboFlaZ95WudUe"
     },
     {
       "added_at": "2026-05-28 22:00:18",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
+        "name": "595",
+        "url": "https://open.spotify.com/album/1MWiePmVOoRmpYrzoTM6SP"
+      },
+      "artists": [
+        {
+          "name": "Violet Grohl",
+          "url": "https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB"
+        }
+      ],
+      "duration_ms": 149653,
+      "name": "595",
+      "url": "https://open.spotify.com/track/3CloubWEgboFlaZ95WudUe"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
         "name": "Lachryma",
         "url": "https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev"
       },
@@ -1615,38 +1631,6 @@
       "duration_ms": 276400,
       "name": "Lachryma",
       "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
-        "name": "Dear God",
-        "url": "https://open.spotify.com/album/4LqPNdoEBqxhaIAdrrstsu"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 368505,
-      "name": "Dear God",
-      "url": "https://open.spotify.com/track/1Sn2P4sUV3ii0ykOrST5t4"
-    },
-    {
-      "added_at": "2026-05-28 22:00:18",
-      "album": {
-        "name": "Born To Kill",
-        "url": "https://open.spotify.com/album/1NqTkg2rUSAGF6KOSTUgqW"
-      },
-      "artists": [
-        {
-          "name": "Social Distortion",
-          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "Born To Kill",
-      "url": "https://open.spotify.com/track/2dar1QSaBJKGCPXJQsef0J"
     },
     {
       "added_at": "2026-05-28 22:00:18",
@@ -1667,18 +1651,38 @@
     {
       "added_at": "2026-05-28 22:00:18",
       "album": {
-        "name": "Villain",
-        "url": "https://open.spotify.com/album/4SLQnE0hqXkcnMlbLhcxnE"
+        "name": "Born To Kill",
+        "url": "https://open.spotify.com/album/1NqTkg2rUSAGF6KOSTUgqW"
       },
       "artists": [
         {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+          "name": "Social Distortion",
+          "url": "https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI"
         }
       ],
-      "duration_ms": 233786,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/7mSWvlQpztPoJiswhM6pbd"
+      "duration_ms": 230866,
+      "name": "Born To Kill",
+      "url": "https://open.spotify.com/track/2dar1QSaBJKGCPXJQsef0J"
+    },
+    {
+      "added_at": "2026-05-28 22:00:18",
+      "album": {
+        "name": "BRAINDEAD (feat. Toby Morse)",
+        "url": "https://open.spotify.com/album/6K484LDhrNh4mzq95WMPbv"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        },
+        {
+          "name": "Toby Morse",
+          "url": "https://open.spotify.com/artist/3bUT7vUCfASm9rKV19DAjd"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "BRAINDEAD (feat. Toby Morse)",
+      "url": "https://open.spotify.com/track/4lSXxf1buHPHRqz4otuxde"
     }
   ],
   "unique_name": "Rock Rotation",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-18",
-  "description": "With Vickie Winans, Kurt Carr & The Kurt Carr Singers, Marvin Winans and more",
+  "description": "With Kurt Carr & The Kurt Carr Singers, Donald Lawrence & The Tri-City Singers, Marvin Winans and more",
   "name": "Callie Day Radio",
   "tracks": [
     {
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 461266,
       "name": "Another Chance",
       "url": "https://open.spotify.com/track/28800OzZ17DMHi2zRiaiUb"
@@ -2460,7 +2460,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 306293,
       "name": "Beams Of Heaven",
       "url": "https://open.spotify.com/track/641RXBhAmRVgJwACuy2SuK"
@@ -2590,6 +2590,24 @@
       "duration_ms": 198893,
       "name": "Because You Loved Me - The Voice Performance",
       "url": "https://open.spotify.com/track/09CSLb7JtIXwmhVCGHi7iJ"
+    },
+    {
+      "album": {
+        "name": "Finding My Way",
+        "url": "https://open.spotify.com/album/7I2g3t2SLfg163cdpMMUH0"
+      },
+      "artists": [
+        {
+          "name": "KD French",
+          "url": "https://open.spotify.com/artist/010NN3U90FEWTTd3X39cdD"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217220,
+      "name": "Been Good",
+      "url": "https://open.spotify.com/track/0gQcLC7zvRtyCE3PwrRrSK"
     },
     {
       "album": {
@@ -2990,7 +3008,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 402666,
       "name": "Bless Me (The Prayer Of Jabez)",
       "url": "https://open.spotify.com/track/05yBRpVuSkNNmYEsKImaBV"
@@ -3694,7 +3712,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 415560,
       "name": "Call Him Up",
       "url": "https://open.spotify.com/track/0RlJdVpgOjyQ6AOtxP3b7y"
@@ -4352,7 +4370,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 292840,
       "name": "Come Ye Disconsolate",
       "url": "https://open.spotify.com/track/53hI2E4KnHEwrn4laNVeEw"
@@ -5456,7 +5474,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 385985,
       "name": "Draw Me Close/Thy Will Be Done",
       "url": "https://open.spotify.com/track/6nwCQqMyCjeYVtByOtkZq1"
@@ -6564,7 +6582,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 509600,
       "name": "Falling In Love With Jesus - Live At West Angeles Cathedral, Los Angeles, CA / 2002",
       "url": "https://open.spotify.com/track/1EPJDBY0b5DP25YiwtS7nV"
@@ -7646,7 +7664,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 241906,
       "name": "Get Your House In Order",
       "url": "https://open.spotify.com/track/1jHKB3VyaRrj9hvcMTDKk9"
@@ -7664,7 +7682,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 263640,
       "name": "Get Your House In Order",
       "url": "https://open.spotify.com/track/2hxNsvAnjC0rGA6noLGynw"
@@ -8482,7 +8500,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 208000,
       "name": "God Is Good",
       "url": "https://open.spotify.com/track/7uIR8E4J8aIPnN3HYJns1j"
@@ -9006,7 +9024,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 582200,
       "name": "Goin' Up Yonder",
       "url": "https://open.spotify.com/track/5Q8kGGeUqVJMO6fm00qB57"
@@ -9508,7 +9526,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 241093,
       "name": "Grace Of God",
       "url": "https://open.spotify.com/track/1HUqceGhRTXNuvuyMT7teG"
@@ -11590,7 +11608,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 444528,
       "name": "Hills",
       "url": "https://open.spotify.com/track/3RGXSu5rE4lT2EOHrtvxOF"
@@ -13666,7 +13684,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 301466,
       "name": "I Just Can't Give Up Now",
       "url": "https://open.spotify.com/track/1lvAyqOIXe3NpN0Rt9rztS"
@@ -13742,7 +13760,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 471379,
       "name": "I Know It Was Jesus",
       "url": "https://open.spotify.com/track/4ucMu9qhdgTjOez2Rji4OT"
@@ -15188,7 +15206,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 484560,
       "name": "I Won't Complain Medley (feat. Yolanda Morgan)",
       "url": "https://open.spotify.com/track/35ocW2X9XMmsZLOYdMHhIC"
@@ -15442,7 +15460,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 379734,
       "name": "I'm Available to You",
       "url": "https://open.spotify.com/track/2lWFN5HviKVkFtybv85FaU"
@@ -16986,7 +17004,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 497866,
       "name": "It Will Never Lose It's Power (The Blood)",
       "url": "https://open.spotify.com/track/77yIU5OnhH5pfb28yfr3dB"
@@ -19494,7 +19512,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 295746,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/3tQHbcDuZC0Zy323aODWPI"
@@ -22204,7 +22222,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 250893,
       "name": "More Abundantly",
       "url": "https://open.spotify.com/track/5LhDlzZY48ePfGxR64gioC"
@@ -22276,7 +22294,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 288100,
       "name": "More Strength",
       "url": "https://open.spotify.com/track/0EXZDMntTjftSPigcDoHwP"
@@ -22312,7 +22330,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 396333,
       "name": "More Than Anything",
       "url": "https://open.spotify.com/track/1c8N865GdfUkCkI87pin5T"
@@ -25892,7 +25910,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 454922,
       "name": "Perfect Praise",
       "url": "https://open.spotify.com/track/3DBwozJkYUTuVOZ8gNI1SX"
@@ -27994,7 +28012,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 312000,
       "name": "Safe in His Arms (Live)",
       "url": "https://open.spotify.com/track/1SAEJqnHfU9tFBS9GDoRZp"
@@ -29874,7 +29892,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 396453,
       "name": "Spiritual",
       "url": "https://open.spotify.com/track/264DuAk6ypux2fHZFoUSKD"
@@ -30792,7 +30810,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 293120,
       "name": "Take It to the Lord in Prayer",
       "url": "https://open.spotify.com/track/3kg8P8fbGvuS4U1wo5RGA3"
@@ -31420,7 +31438,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 505626,
       "name": "That Other Shore (Extended Version)",
       "url": "https://open.spotify.com/track/2wtrNtNgK53xoNCGyNyvhI"
@@ -31764,7 +31782,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 251062,
       "name": "The Blood Still Works",
       "url": "https://open.spotify.com/track/748veycKn5qYt1uSuBIrOU"
@@ -31960,7 +31978,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 328520,
       "name": "The Corinthian Song",
       "url": "https://open.spotify.com/track/131CaypTe4DEHe5SXpjxwN"
@@ -32730,7 +32748,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 303400,
       "name": "The Shepherd Song",
       "url": "https://open.spotify.com/track/6wtauQXvf4MfIuxH5wmTso"
@@ -33254,7 +33272,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 197173,
       "name": "This Day",
       "url": "https://open.spotify.com/track/5LZd9XOAoZfL22o12eXrGZ"
@@ -35632,7 +35650,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 287706,
       "name": "What If God",
       "url": "https://open.spotify.com/track/1CXrrLGBPX719XhByetNdQ"
@@ -36810,7 +36828,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 262906,
       "name": "Yes God Is Real",
       "url": "https://open.spotify.com/track/7Cz2VXqIb8jkSn7XOLANej"

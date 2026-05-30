@@ -1,13 +1,29 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Mayukh Velagapudi",
-  "num_followers": 44174,
+  "num_followers": 44181,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOWLUOywfd2Iqb+bN2npGD8rfZ9P",
+  "snapshot_id": "AAAAAKYZMisNI/YT2S+ugdZfwX2sE9Qo",
   "tracks": [
+    {
+      "added_at": "2026-05-29 09:39:40",
+      "album": {
+        "name": "Bagundhiley",
+        "url": "https://open.spotify.com/album/2Tvhfw6AmuuFgzfcBEpaCS"
+      },
+      "artists": [
+        {
+          "name": "Fleep & Arin",
+          "url": "https://open.spotify.com/artist/2zRyvhoEFi8FPPf32qOVSl"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Bagundhiley",
+      "url": "https://open.spotify.com/track/2NqXqilVdviS616yjTlpeg"
+    },
     {
       "added_at": "2026-05-21 08:20:03",
       "album": {

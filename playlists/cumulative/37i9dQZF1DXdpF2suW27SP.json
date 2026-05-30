@@ -10329,6 +10329,24 @@
     },
     {
       "album": {
+        "name": "Elephant In The Room",
+        "url": "https://open.spotify.com/album/55aRlTcoJzesDzpi4qlbua"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167832,
+      "name": "Look What You've Done",
+      "url": "https://open.spotify.com/track/1Umi992NaKD6NoFkUujkNS"
+    },
+    {
+      "album": {
         "name": "Louca Life",
         "url": "https://open.spotify.com/album/27Xe1TLkI2sxs5e2nYCwCZ"
       },
@@ -19300,24 +19318,6 @@
       "duration_ms": 164225,
       "name": "Trabadjadores",
       "url": "https://open.spotify.com/track/6Tz9tjOJI3nH09Q9uQXWSf"
-    },
-    {
-      "album": {
-        "name": "Elephant In The Room",
-        "url": "https://open.spotify.com/album/55aRlTcoJzesDzpi4qlbua"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/1Umi992NaKD6NoFkUujkNS"
     },
     {
       "album": {

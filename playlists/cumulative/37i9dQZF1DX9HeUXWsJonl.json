@@ -2928,7 +2928,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 232720,
       "name": "Mazelt sghir",
       "url": "https://open.spotify.com/track/6VITZeXhpy0zUSolcl0u92"
@@ -3623,6 +3623,24 @@
     },
     {
       "album": {
+        "name": "Oh Lala",
+        "url": "https://open.spotify.com/album/4M8IIVXJclA60xAPRPTODi"
+      },
+      "artists": [
+        {
+          "name": "Young Rz",
+          "url": "https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211282,
+      "name": "Oh Lala",
+      "url": "https://open.spotify.com/track/4dnPHgTsTnOHUaF83FeTxN"
+    },
+    {
+      "album": {
         "name": "Omri T3ada",
         "url": "https://open.spotify.com/album/5R4xtMp7Tu4tNwn9CvdkpB"
       },
@@ -3832,7 +3850,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 204615,
       "name": "Sahak Isho2",
       "url": "https://open.spotify.com/track/3zlKK9XIKHfKgNE1NDTw65"
@@ -5148,6 +5166,24 @@
       "duration_ms": 145920,
       "name": "\u0627\u0643\u0633\u064a\u062f\u0648\u0646",
       "url": "https://open.spotify.com/track/5BD1SaWWhLChuv9zZi8iLT"
+    },
+    {
+      "album": {
+        "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+        "url": "https://open.spotify.com/album/66i3Me0IlH2RVj0QMPrChu"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "\u062a\u0628\u0627\u0639\u0627\u064b \u062a\u0628\u0627\u0639\u0627\u064b",
+      "url": "https://open.spotify.com/track/6AT7ehtlpgwBUKIbtAOcOh"
     },
     {
       "album": {

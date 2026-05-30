@@ -4,7 +4,7 @@
 
 > A dive into Jersey Club's rise from regional to mainstream heights
 
-101 songs - 5 hr 29 min
+102 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/1uDYxzeUCAEPfZq6eV18cm) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Y2K! \(Bonus\)](https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK) | 1:58 | 2026-04-29 |  |
 | [DO IT AGAIN \(feat\. 2Rare\)](https://open.spotify.com/track/5DBD1TTl06dvp3WqPEY5Pj) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Cottonwood 2](https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP) | 3:33 | 2026-04-29 |  |
 | [Don’t hide](https://open.spotify.com/track/6yJIO8264hq1hCbBLU0C0X) | [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Supa vs Sligga](https://open.spotify.com/album/3GdWSIpfD42ZQMiNVg6Eu7) | 1:50 | 2026-04-29 |  |
+| [DYW Dance](https://open.spotify.com/track/3KOZ6ItiRYiojF0nRosom0) | [Sunny 6700](https://open.spotify.com/artist/6evGuUuo9B1Fz5oHrUteKn) | [DYW Dance](https://open.spotify.com/album/4nSynxQQCS2otSRwXXrL10) | 2:10 | 2026-05-29 |  |
 | [Encyclopedia](https://open.spotify.com/track/6HqUDmzFUVctDXEt19IFfN) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Encyclopedia](https://open.spotify.com/album/0lVbdzWLuKqLtBU2uRaY0Q) | 2:18 | 2025-08-11 | 2026-04-30 |
 | [Epiphany \(I'm Leaving\) \- Jersey Club Remix](https://open.spotify.com/track/1QQIi0N6NqkSKtCPN8vYwr) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj), [Loog](https://open.spotify.com/artist/5EMKpvztIr3J7icWA5or1I), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [Epiphany \(I'm Leaving\) \[Jersey Club Remix\]](https://open.spotify.com/album/1NiJM6oLaqru3BlKw1V2wo) | 2:49 | 2026-04-29 |  |
 | [Everybody \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:00 | 2026-04-29 |  |
@@ -62,7 +63,7 @@
 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 | 2026-04-29 |  |
 | [NO IDEA \#jerseyclub \- Ziahfyah & Indo2x Remix](https://open.spotify.com/track/7gNXY29SaVv9rN4z2oQhvz) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Indo2x](https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [NO IDEA \#jerseyclub \(Ziahfyah & Indo2x Remix\)](https://open.spotify.com/album/5mO75nU1r7JvkCO8oOmHhF) | 2:36 | 2026-04-29 |  |
 | [Object Permanence](https://open.spotify.com/track/4VuiAY5tY67krKYAAFimXi) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Object Permanence \(Deluxe Edition\)](https://open.spotify.com/album/2wupSocGm47JxOKTZtStrw) | 4:20 | 2025-08-11 | 2026-04-30 |
-| [Or What](https://open.spotify.com/track/34359k0LU3ZKVSlVJOUL39) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [AREA 41](https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI) | 3:19 | 2026-04-29 |  |
+| [Or What](https://open.spotify.com/track/34359k0LU3ZKVSlVJOUL39) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [AREA 41](https://open.spotify.com/album/2Hn5BTivLqJy8bkKN3cUCI) | 3:19 | 2026-04-29 | 2026-05-30 |
 | [Pack It In](https://open.spotify.com/track/1IXnf6JHfXlo65ogcb9gzW) | [wing!](https://open.spotify.com/artist/17zzsvpeBPUpP5XittRxEs) | [Pack It In](https://open.spotify.com/album/2haWbkYTfxq3lu1eYdC9XI) | 4:58 | 2025-08-11 | 2026-04-30 |
 | [Paradise \(Not for Me\)](https://open.spotify.com/track/6SMKtnrZX1rAuChCu2W2UY) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 6:33 | 2025-08-11 | 2026-04-30 |
 | [Pedal Petal](https://open.spotify.com/track/2vtr9NusUzbtG6Gstg2x2V) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [Scenic Route \- Road Less Travelled, Vol​​​.​​​ 2](https://open.spotify.com/album/1qMuvJRu4Rc7RmZPdafYU8) | 2:51 | 2025-08-11 | 2026-04-30 |

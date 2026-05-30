@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,528 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,529 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 40 | [Lạnh trọn đêm mưa](https://open.spotify.com/track/3rp4ByvMSs64N1BYxuijLk) | [Lưu Hồng](https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB) | [Mưa Rừng](https://open.spotify.com/album/1SyuuH6GragftZfYVuLqUq) | 4:29 |
 | 41 | [Chuyen Tinh Khong Di Vang](https://open.spotify.com/track/5ygjBNNPEdVjmUmWxzEJ7V) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Chuyen Doi Toi Tuan Vu, Vol\. 6](https://open.spotify.com/album/5p3HfLsl5TsfCABDfvh9VY) | 5:29 |
 | 42 | [Dấu Chân Kỷ Niệm](https://open.spotify.com/track/1VNjqb5ofbD2ILhelOtpj1) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Dấu Chân Kỷ Niệm](https://open.spotify.com/album/681A6zdwd0nbZbBcov98ph) | 6:13 |
-| 43 | [Hai Vì Sao Lạc](https://open.spotify.com/track/5PSk8BZS5OdSNZYPJIQtiT) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Nhạc Vàng](https://open.spotify.com/album/3k1SXNvYsRQ5Nb4Q4hBb7E) | 4:45 |
-| 44 | [Sầu lẻ bóng 2](https://open.spotify.com/track/1jYjDxPpkAqaxIm4p5ByiF) | [Sơn Tuyền](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [Chuyện Giàn Thiên Lý \(Tình Khúc Anh Bằng và Trần Thiện Thanh\)](https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv) | 4:54 |
+| 43 | [Sầu lẻ bóng 2](https://open.spotify.com/track/1jYjDxPpkAqaxIm4p5ByiF) | [Sơn Tuyền](https://open.spotify.com/artist/0RoUGjbZ9d63jXyUylDs1Q) | [Chuyện Giàn Thiên Lý \(Tình Khúc Anh Bằng và Trần Thiện Thanh\)](https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv) | 4:54 |
+| 44 | [Hai Vì Sao Lạc](https://open.spotify.com/track/5PSk8BZS5OdSNZYPJIQtiT) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Nhạc Vàng](https://open.spotify.com/album/3k1SXNvYsRQ5Nb4Q4hBb7E) | 4:45 |
 | 45 | [Để Trả Lời Một Câu Hỏi \(1989\) \- Remastered](https://open.spotify.com/track/5b3UPO3dt669drRyC4BTJ2) | [Hương Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn) | [Chuyện Tình Yêu \(Remastered\)](https://open.spotify.com/album/4XHgexhllgIIJbZZFeIF8G) | 4:35 |
 | 46 | [Người yêu cô đơn](https://open.spotify.com/track/4XM1Y4jyxqcmBRKRSfUD7r) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Đêm buồn tỉnh lẻ](https://open.spotify.com/album/27rvjSE9KjUEKj3nqI50fA) | 4:38 |
 | 47 | [Ngoại ô buồn](https://open.spotify.com/track/3YPk1P3F4qnlnTCN1lrhJh) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Tuyệt phẩm Tuấn Vũ](https://open.spotify.com/album/1irQ9Llxt2PKrQgx0Cxujh) | 4:40 |
 | 48 | [Chuyện tình đan áo](https://open.spotify.com/track/0etpGHwiYPRq6gi1bNgRPL) | [Thái Châu](https://open.spotify.com/artist/5AnqQwU6JkgU0dFmFKI6dM) | [Dạ vũ Rumba bebop tango boston \- Thương trao về ....](https://open.spotify.com/album/0djedKa72vbntYPAHEF5V2) | 3:39 |
 | 49 | [Phận Tơ Tằm](https://open.spotify.com/track/0D5WQIFqJdG0olsjuWvgHw) | [Phi Nhung](https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF) | [Chắc Gì](https://open.spotify.com/album/299gkTUmSpoTKBQAIXr9S0) | 5:13 |
-| 50 | [Ai Khổ Vì Ai](https://open.spotify.com/track/1xJoJzNejKKw9qpoFjxKUR) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Ai Cho Tôi Tình Yêu](https://open.spotify.com/album/6nuh0xhKDgghXctszWjefR) | 5:42 |
+| 50 | [Tình Chàng Ý Thiếp](https://open.spotify.com/track/3AF7iZrrmE5Tb1Tw9WnrFT) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk), [Phương Ý](https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG) | [Tình Chàng Ý Thiếp](https://open.spotify.com/album/70jAa1F8ItR0NerYSmmMpi) | 5:55 |
 
 Snapshot ID: `AAAAAOWKQlfiEnH4wOxSansQNxmY8OrH`

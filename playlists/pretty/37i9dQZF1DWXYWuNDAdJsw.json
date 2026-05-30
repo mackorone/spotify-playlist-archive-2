@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1005753,
+  "num_followers": 1005725,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 233826,
+      "name": "El Farsante",
+      "url": "https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
         "name": "Motivan2",
         "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 209453,
       "name": "Otra Vez (feat. J Balvin)",
       "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 233826,
-      "name": "El Farsante",
-      "url": "https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
+        "name": "Adan y Eva",
+        "url": "https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 258638,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 193961,
       "name": "DISPO",
       "url": "https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "Adan y Eva",
-        "url": "https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 258638,
-      "name": "Adan y Eva",
-      "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 193488,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
         "name": "La \u00daltima Promesa",
         "url": "https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 194989,
       "name": "Color\u00edn Colorado",
       "url": "https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 193488,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Yo Te Lo Dije",
-      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
         "name": "DONDE QUIERO ESTAR",
         "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 231428,
       "name": "DAME",
       "url": "https://open.spotify.com/track/5yocaqYG38qpSSxV1t0o3D"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "Yo Te Lo Dije",
+      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
-        "name": "Mixteip",
-        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
         "name": "The Sensation",
         "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
       },
@@ -1883,6 +1863,26 @@
       "duration_ms": 203666,
       "name": "Qu\u00e9 M\u00e1s Pues",
       "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
+        "name": "Mixteip",
+        "url": "https://open.spotify.com/album/5ZhcTmzBym8cwsVkNNrHgS"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1qRWRxr2FTJjAfqxf99Bdm"
     },
     {
       "added_at": "2026-04-10 16:26:16",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2026-04-10 16:26:16",
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 215891,
+      "name": "911",
+      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
+    },
+    {
+      "added_at": "2026-04-10 16:26:16",
+      "album": {
         "name": "Satirolog\u00eda, Vol. 3",
         "url": "https://open.spotify.com/album/6n3yGfhOtfklDdHxcGYsel"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 227383,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/2DqglvFMls6hZUumCCl8xq"
-    },
-    {
-      "added_at": "2026-04-10 16:26:16",
-      "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 215891,
-      "name": "911",
-      "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
     },
     {
       "added_at": "2026-04-10 16:26:16",

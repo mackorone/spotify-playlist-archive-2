@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 141548,
+  "num_followers": 141534,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Vampyr",
-        "url": "https://open.spotify.com/album/40XJm4eajWMokXnK4yRTd3"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 246292,
-      "name": "Vampyr",
-      "url": "https://open.spotify.com/track/56nBvr2fv2Cqhuul1Njjpl"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 213333,
       "name": "Halloween Parade",
       "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "Vampyr",
+        "url": "https://open.spotify.com/album/40XJm4eajWMokXnK4yRTd3"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 246292,
+      "name": "Vampyr",
+      "url": "https://open.spotify.com/track/56nBvr2fv2Cqhuul1Njjpl"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
+        "name": "Four Words to Stand On",
+        "url": "https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "Standing on Ghosts",
+      "url": "https://open.spotify.com/track/3Hae7QZVTET77QI7zSYc1g"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
         "name": "I See A Darkness",
         "url": "https://open.spotify.com/album/1EtJZ2zWwSqYHRh3l1btZA"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 265346,
       "name": "I See A Darkness",
       "url": "https://open.spotify.com/track/6WXWmDC0ltuc1NPD3ZTx2B"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
-        "name": "Four Words to Stand On",
-        "url": "https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "Standing on Ghosts",
-      "url": "https://open.spotify.com/track/3Hae7QZVTET77QI7zSYc1g"
     },
     {
       "added_at": "2026-04-24 13:27:34",

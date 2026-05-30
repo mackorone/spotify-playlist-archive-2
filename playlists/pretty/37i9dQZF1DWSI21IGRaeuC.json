@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Dean Turnley",
-  "num_followers": 83210,
+  "num_followers": 83297,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIx8dIzZDo+LRrVlk2xwMsD1MgBD",
+  "snapshot_id": "AAAAABRczS2ZfPVPgbJlNTDHZhk/X9ke",
   "tracks": [
     {
       "added_at": "2026-05-27 23:36:59",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/55LA3TJnSWxefo2arVfXHJ"
     },
     {
+      "added_at": "2026-05-29 04:01:35",
+      "album": {
+        "name": "On 2nite",
+        "url": "https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 158848,
+      "name": "On 2nite",
+      "url": "https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr"
+    },
+    {
       "added_at": "2026-05-08 04:01:49",
       "album": {
         "name": "Actin' Tough (A.B.C. Remix)",
@@ -49,6 +65,26 @@
       "url": "https://open.spotify.com/track/0t94CEbIDQZO99iP8Ibjr7"
     },
     {
+      "added_at": "2026-05-29 04:01:35",
+      "album": {
+        "name": "Jump N' Shout (Gorgon City Remix)",
+        "url": "https://open.spotify.com/album/2G9F2xsIz3HFRmzDEW4RQR"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 237022,
+      "name": "Jump N' Shout - Gorgon City Remix",
+      "url": "https://open.spotify.com/track/2pbtSI3CJXfAE9ekE5qowg"
+    },
+    {
       "added_at": "2026-03-20 04:00:44",
       "album": {
         "name": "Shinjuku",
@@ -63,22 +99,6 @@
       "duration_ms": 167905,
       "name": "Shinjuku",
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
-    },
-    {
-      "added_at": "2026-05-27 23:36:59",
-      "album": {
-        "name": "Hypa",
-        "url": "https://open.spotify.com/album/6qwcD8Fu84jZJgFVfeIT5B"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 174544,
-      "name": "Make It Hot",
-      "url": "https://open.spotify.com/track/6Y1Ox3HcXyZBuCS01qfjOW"
     },
     {
       "added_at": "2026-05-15 04:02:22",
@@ -113,26 +133,6 @@
       "url": "https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE"
     },
     {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
-        "name": "One Question",
-        "url": "https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
-        }
-      ],
-      "duration_ms": 184019,
-      "name": "One Question",
-      "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
-    },
-    {
       "added_at": "2026-05-27 23:36:59",
       "album": {
         "name": "Work Dub",
@@ -159,6 +159,42 @@
     {
       "added_at": "2026-05-01 04:01:14",
       "album": {
+        "name": "One Question",
+        "url": "https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+        }
+      ],
+      "duration_ms": 184019,
+      "name": "One Question",
+      "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
+    },
+    {
+      "added_at": "2026-05-29 04:01:35",
+      "album": {
+        "name": "Senses",
+        "url": "https://open.spotify.com/album/662bn674V62JlOIqCkHB28"
+      },
+      "artists": [
+        {
+          "name": "Mati Astroza",
+          "url": "https://open.spotify.com/artist/1MzA4VczafczbCi64Rjieq"
+        }
+      ],
+      "duration_ms": 190789,
+      "name": "Senses",
+      "url": "https://open.spotify.com/track/2fAALriwTxIDo9tOSLeCIh"
+    },
+    {
+      "added_at": "2026-05-01 04:01:14",
+      "album": {
         "name": "Face Bass",
         "url": "https://open.spotify.com/album/0zVP42K9yiy36j8i6J1XIb"
       },
@@ -177,6 +213,38 @@
       "url": "https://open.spotify.com/track/4tXS570m2e35lVjIxBjxoW"
     },
     {
+      "added_at": "2026-05-29 04:01:35",
+      "album": {
+        "name": "Impulses EP",
+        "url": "https://open.spotify.com/album/38mWTjv6haB5dTi9pYzy8y"
+      },
+      "artists": [
+        {
+          "name": "Jacob Matthews",
+          "url": "https://open.spotify.com/artist/6OLFLlG1W9ihgTCDQt5jaz"
+        }
+      ],
+      "duration_ms": 233854,
+      "name": "Impulses",
+      "url": "https://open.spotify.com/track/5hBK3SddrzzFWxsLyT1Rw2"
+    },
+    {
+      "added_at": "2026-05-27 23:36:59",
+      "album": {
+        "name": "Hypa",
+        "url": "https://open.spotify.com/album/6qwcD8Fu84jZJgFVfeIT5B"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 174544,
+      "name": "Make It Hot",
+      "url": "https://open.spotify.com/track/6Y1Ox3HcXyZBuCS01qfjOW"
+    },
+    {
       "added_at": "2026-05-08 04:01:49",
       "album": {
         "name": "Places",
@@ -191,6 +259,26 @@
       "duration_ms": 256615,
       "name": "Places",
       "url": "https://open.spotify.com/track/6OVnACZ85MNWhGeJqOjwAX"
+    },
+    {
+      "added_at": "2026-05-29 04:01:35",
+      "album": {
+        "name": "Back 2 the Beat",
+        "url": "https://open.spotify.com/album/75QcilzbNb32QNLhRFdFjW"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        },
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Back 2 the Beat - Radio-Edit",
+      "url": "https://open.spotify.com/track/1N73MfL1Klma29fohDhnwL"
     },
     {
       "added_at": "2026-05-15 17:09:33",
@@ -257,6 +345,22 @@
       "url": "https://open.spotify.com/track/7dLRmh16YMIr7BpO4DmkHQ"
     },
     {
+      "added_at": "2026-05-29 04:01:35",
+      "album": {
+        "name": "Back Pressure",
+        "url": "https://open.spotify.com/album/6KkOX0odkP64F3857xu3Mg"
+      },
+      "artists": [
+        {
+          "name": "Mariche",
+          "url": "https://open.spotify.com/artist/5gzRMOgauErn4aLSbr6RKF"
+        }
+      ],
+      "duration_ms": 222829,
+      "name": "Back Pressure",
+      "url": "https://open.spotify.com/track/4UAQbIQNigCfJx4fCv4gCY"
+    },
+    {
       "added_at": "2026-05-08 18:22:08",
       "album": {
         "name": "Deep House Pumpin'",
@@ -291,6 +395,22 @@
       "duration_ms": 190909,
       "name": "Step To My Groove",
       "url": "https://open.spotify.com/track/2WKo24hJ6TSkd7SzDwFZ9A"
+    },
+    {
+      "added_at": "2026-05-22 07:00:10",
+      "album": {
+        "name": "What I Might Do",
+        "url": "https://open.spotify.com/album/7q2MMicMNbXrGzy3Snw7Mo"
+      },
+      "artists": [
+        {
+          "name": "Wheats",
+          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+        }
+      ],
+      "duration_ms": 172463,
+      "name": "What I Might Do",
+      "url": "https://open.spotify.com/track/2GLogZAAP1nmaqcvmgWrTX"
     },
     {
       "added_at": "2026-05-27 23:36:59",
@@ -381,20 +501,24 @@
       "url": "https://open.spotify.com/track/7A5lQnbimaAolqrVqVGSbl"
     },
     {
-      "added_at": "2026-05-22 07:00:10",
+      "added_at": "2026-05-29 04:01:35",
       "album": {
-        "name": "What I Might Do",
-        "url": "https://open.spotify.com/album/7q2MMicMNbXrGzy3Snw7Mo"
+        "name": "She Just (Nuno Dos Santos Remix)",
+        "url": "https://open.spotify.com/album/5LYi4Vj9XLtH0pd7EHGGF2"
       },
       "artists": [
         {
-          "name": "Wheats",
-          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+          "name": "Lex Ludlow",
+          "url": "https://open.spotify.com/artist/5kVUN3bQAW2h5iIU1YVHhU"
+        },
+        {
+          "name": "Nuno Dos Santos",
+          "url": "https://open.spotify.com/artist/6pbyRsrSdph5CB46Z4cTZw"
         }
       ],
-      "duration_ms": 172463,
-      "name": "What I Might Do",
-      "url": "https://open.spotify.com/track/2GLogZAAP1nmaqcvmgWrTX"
+      "duration_ms": 311612,
+      "name": "She Just (Nuno Dos Santos Remix)",
+      "url": "https://open.spotify.com/track/3TfHcxceJcS54o4mKg39Kv"
     },
     {
       "added_at": "2026-05-01 04:01:14",
@@ -777,26 +901,6 @@
       "url": "https://open.spotify.com/track/2TuGDQpH0bN6kSBx8YrXhe"
     },
     {
-      "added_at": "2026-04-24 18:52:29",
-      "album": {
-        "name": "Re-Bokk Robot (Wodda Remix)",
-        "url": "https://open.spotify.com/album/0Ht0tRiDl58wa0PDaA5bYV"
-      },
-      "artists": [
-        {
-          "name": "POSH! The Prince",
-          "url": "https://open.spotify.com/artist/4rNGolATKxQcFM59djG041"
-        },
-        {
-          "name": "Wodda",
-          "url": "https://open.spotify.com/artist/5zHkCDcsGZjznWnqsgTMRg"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Re-Bokk Robot - Wodda Remix Radio Edit",
-      "url": "https://open.spotify.com/track/4wFdh0z4bYVCvNOORGDBuB"
-    },
-    {
       "added_at": "2026-05-01 04:01:14",
       "album": {
         "name": "Be Rich",
@@ -811,22 +915,6 @@
       "duration_ms": 164769,
       "name": "Be Rich",
       "url": "https://open.spotify.com/track/0ab30Uj0bWUhmYONhH46yc"
-    },
-    {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
-        "name": "On The Run",
-        "url": "https://open.spotify.com/album/3Q96H4Wl71kCx05aJQC9SU"
-      },
-      "artists": [
-        {
-          "name": "Dale Hart",
-          "url": "https://open.spotify.com/artist/2ABOKbFpFXhDQlerFjPSlu"
-        }
-      ],
-      "duration_ms": 190534,
-      "name": "On The Run - Radio Edit",
-      "url": "https://open.spotify.com/track/3n3MqZnAcYWjBxxunIZeva"
     },
     {
       "added_at": "2026-04-10 04:02:13",
@@ -1153,42 +1241,6 @@
       "url": "https://open.spotify.com/track/1PpHwZ75m6xGKdjXpaxUua"
     },
     {
-      "added_at": "2026-04-17 04:04:08",
-      "album": {
-        "name": "Hypa",
-        "url": "https://open.spotify.com/album/2qt5CEqE5IeJfVGgGIRMGd"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Specialist Moss",
-          "url": "https://open.spotify.com/artist/0Sclq3c13du0AJMrihvEx2"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Hypa",
-      "url": "https://open.spotify.com/track/7hQUvQN4IcDVhuBeaX7wwW"
-    },
-    {
-      "added_at": "2026-04-10 04:02:13",
-      "album": {
-        "name": "What Did You Come For ?",
-        "url": "https://open.spotify.com/album/6UPddPLVGe8DJmabcnSNWe"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 247846,
-      "name": "Authentic Computers 2.0 - Radio-Edit",
-      "url": "https://open.spotify.com/track/4rFRvreAqkla5Gw97tgQCM"
-    },
-    {
       "added_at": "2026-03-20 04:00:44",
       "album": {
         "name": "Wide Awake",
@@ -1449,26 +1501,6 @@
       "url": "https://open.spotify.com/track/7CVEZE9RSUO3MfdqF4TRgv"
     },
     {
-      "added_at": "2026-03-20 04:00:44",
-      "album": {
-        "name": "Can't Deny",
-        "url": "https://open.spotify.com/album/4pazCPqxyf0G5hgJ0dS6A6"
-      },
-      "artists": [
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        },
-        {
-          "name": "Locklead",
-          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
-        }
-      ],
-      "duration_ms": 224002,
-      "name": "Can't Deny",
-      "url": "https://open.spotify.com/track/38aBH2BvMIOr9EWqabmWRn"
-    },
-    {
       "added_at": "2026-04-03 04:01:44",
       "album": {
         "name": "Good Luck",
@@ -1643,22 +1675,6 @@
       "duration_ms": 178153,
       "name": "House Is Gettin' Raw",
       "url": "https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq"
-    },
-    {
-      "added_at": "2026-03-13 04:00:43",
-      "album": {
-        "name": "Back 2 The Beat",
-        "url": "https://open.spotify.com/album/4kuvB1QUjN7tRS6gCVrT96"
-      },
-      "artists": [
-        {
-          "name": "Local Dub",
-          "url": "https://open.spotify.com/artist/5Wgw2WCYLFCz0sOrD63ymF"
-        }
-      ],
-      "duration_ms": 185614,
-      "name": "Back 2 The Beat",
-      "url": "https://open.spotify.com/track/1cYrO5Twm6R4GsC8tJc40j"
     },
     {
       "added_at": "2026-03-06 05:00:09",
@@ -1943,22 +1959,6 @@
       "duration_ms": 230769,
       "name": "Do You Like Bass",
       "url": "https://open.spotify.com/track/0ATjMMo8OW5d5pJqzK0usi"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "High For You",
-        "url": "https://open.spotify.com/album/3fu36fH3ZLGbo6kzSL6VXD"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh"
-        }
-      ],
-      "duration_ms": 194357,
-      "name": "High For You",
-      "url": "https://open.spotify.com/track/7E2gGp4LHfH99X0LhTnU6j"
     },
     {
       "added_at": "2025-07-02 15:10:18",

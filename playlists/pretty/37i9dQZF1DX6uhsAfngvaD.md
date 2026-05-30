@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Blissful indie for dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,661 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,669 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 47 | [Earth To Sea](https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 6:40 |
 | 48 | [Back Into Your Arms](https://open.spotify.com/track/0RXXhrHZgLinM2Tb8k2ROk) | [RINSE](https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0), [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Back Into Your Arms](https://open.spotify.com/album/7e9ZaDSUcIgDPM1qm2zlsO) | 4:23 |
 | 49 | [Falling Apart Without You](https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Falling Apart Without You](https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr) | 3:23 |
-| 50 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
-| 51 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
+| 50 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
+| 51 | [Gloomy Girl](https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gloomy Girl](https://open.spotify.com/album/4TzEXyEPMZZPXbjPPIdRWR) | 3:06 |
 | 52 | [The Dream](https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Dream](https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst) | 4:49 |
 | 53 | [James](https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [James](https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1) | 4:29 |
 | 54 | [Valentine](https://open.spotify.com/track/28xKoto01psP4QaoISW5HY) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Valentine](https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg) | 3:22 |
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 64 | [Loverboy](https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Cabin Fever Dreams](https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn) | 3:26 |
 | 65 | [No More Kissing In The Rain](https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS), [Lisbet Fritze](https://open.spotify.com/artist/6ImgDd6PSpdu3uOGoTaGod) | [Memoria](https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2) | 4:19 |
 | 66 | [Honeybee](https://open.spotify.com/track/0RRkuQwb77DpJ29Z2CDgHH) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Honeybee](https://open.spotify.com/album/31TfscfSs0SHkqhA7KEYwK) | 2:49 |
-| 67 | [Deceiver](https://open.spotify.com/track/1rtlnLhySfda2ZgY5sRpEH) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/3OP8x4M096zMaMx3Rk89fw) | 6:29 |
-| 68 | [If I Come Home](https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [If I Come Home](https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45) | 3:36 |
-| 69 | [Ohio Blue Tips](https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv) | [Heathers](https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K) | 3:14 |
-| 70 | [The Dark](https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [The Dark](https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv) | 3:55 |
+| 67 | [If I Come Home](https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [If I Come Home](https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45) | 3:36 |
+| 68 | [Ohio Blue Tips](https://open.spotify.com/track/3cKzdHoTN1g39ktjm3twCF) | [Terry vs\. Tori](https://open.spotify.com/artist/1UAyQNs2HANU7mGGqtXzJv) | [Heathers](https://open.spotify.com/album/219YBWjZumk7SNvu9Rk86K) | 3:14 |
+| 69 | [The Dark](https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [The Dark](https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv) | 3:55 |
+| 70 | [Deceiver](https://open.spotify.com/track/1rtlnLhySfda2ZgY5sRpEH) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/3OP8x4M096zMaMx3Rk89fw) | 6:29 |
 | 71 | [Damn I'm Tired](https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Damn I'm Tired](https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu) | 3:45 |
 | 72 | [Nothing Left To Lose](https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x) | [Bleach Lab](https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8) | [Lost In A Rush Of Emptiness](https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU) | 3:18 |
 | 73 | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/track/6ldiSdfgx96IQvUm2XOobi) | [Swim Deep](https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc) | [How Many Love Songs Have Died In Vegas?](https://open.spotify.com/album/3ctaMoubphJD5IVfNfsb1V) | 3:53 |

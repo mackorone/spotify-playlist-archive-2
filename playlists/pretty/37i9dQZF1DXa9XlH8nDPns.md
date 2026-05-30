@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 
 > Feelgood indie & roadtrip bangers
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,356 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,368 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 18 | [Road Trippin'](https://open.spotify.com/track/7Gpr3kKk4BMgItz6UbI73q) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Californication](https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD) | 3:24 |
 | 19 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
 | 20 | [Same Old Song](https://open.spotify.com/track/1iNzOvQkAeXDeVIni76Yb2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic](https://open.spotify.com/album/5WMQEzS5EBCPU5IYKSY7BM) | 2:54 |
-| 21 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 |
-| 22 | [Not Like That Anymore](https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn) | 3:22 |
+| 21 | [Not Like That Anymore](https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn) | 3:22 |
+| 22 | [Marseille](https://open.spotify.com/track/43qx8PEmvj1r7xO9BKjS3a) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Divinations](https://open.spotify.com/album/2uISRQaBpbTvGQL67DEFcV) | 3:56 |
 | 23 | [Keep Me Honest](https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Keep Me Honest](https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy) | 3:10 |
 | 24 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 |
 | 25 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
 | 26 | [Writing's On The Wall](https://open.spotify.com/track/12zYE8lqduNUUrxe641vp4) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 2:49 |
-| 27 | [Last Goodbyes](https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk) | 3:23 |
-| 28 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
+| 27 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
+| 28 | [Last Goodbyes](https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk) | 3:23 |
 | 29 | [Arm's Length](https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Arm's Length](https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn) | 3:59 |
 | 30 | [Man On The Moon](https://open.spotify.com/track/79Ee80FT85h56l8vzL6cUJ) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Man On The Moon](https://open.spotify.com/album/2DQVR2QaqkCVAdkEYmFuKb) | 2:39 |
 | 31 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9XlH8nDPns.md) - [plain]
 | 53 | [Sweet Love \(coconut\)](https://open.spotify.com/track/4klmKtdoQRFiUy81avReWA) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/2lA6mh3J6bM89Ny0yVeSs7) | 3:42 |
 | 54 | [Smoke On the Highway](https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Townie](https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr) | 4:13 |
 | 55 | [Tequila Shots](https://open.spotify.com/track/41a9e1pccolyyJxkg2reuw) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Tequila Shots](https://open.spotify.com/album/3RvspKF4izNsVsFfawFeH2) | 3:03 |
-| 56 | [Little By Little](https://open.spotify.com/track/4YNoaytMcFUCGXXxZfXLO1) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Little By Little](https://open.spotify.com/album/6ikb0NTrw0WF03RJREBc7i) | 3:01 |
-| 57 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 |
+| 56 | [Rescue Me](https://open.spotify.com/track/6layeClm9iQ1xOPYZ9zbJU) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Rescue Me](https://open.spotify.com/album/2xpvAnyCde4Q20Q193vfgR) | 2:47 |
+| 57 | [Little By Little](https://open.spotify.com/track/4YNoaytMcFUCGXXxZfXLO1) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Little By Little](https://open.spotify.com/album/6ikb0NTrw0WF03RJREBc7i) | 3:01 |
 | 58 | [Youman](https://open.spotify.com/track/5ieeNpNUQXyVzoXTPoQNZu) | [Hiqpy](https://open.spotify.com/artist/7Iff7uMHGSpOygBkCsdcHq) | [Youman](https://open.spotify.com/album/7LsbWgretTOhI2fTMemPfv) | 3:36 |
 | 59 | [I Wanna Know](https://open.spotify.com/track/3dHxz2xClaQdyh8KuZIwrr) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [I Wanna Know](https://open.spotify.com/album/7jqC0VJUpFoEY8W1H69i76) | 3:44 |
 | 60 | [Sunny Baby](https://open.spotify.com/track/1AH1KdgFBW2orzVFDqzrup) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Sunny Baby](https://open.spotify.com/album/5QTrD7sEFUlkt5wXHS2wEa) | 3:19 |

@@ -495,6 +495,36 @@
     },
     {
       "album": {
+        "name": "Nunca Voy a Morir",
+        "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Angel Almaguer",
+          "url": "https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr"
+        },
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288671,
+      "name": "4x4",
+      "url": "https://open.spotify.com/track/04hw9znPUYJavSYhw9FyoU"
+    },
+    {
+      "album": {
         "name": "4x4",
         "url": "https://open.spotify.com/album/7bveUwdz1ngWbfs3czn2GW"
       },
@@ -14434,7 +14464,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-20",
+      "date_removed": null,
       "duration_ms": 187640,
       "name": "Mi Segunda Vida",
       "url": "https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD"
@@ -17318,7 +17348,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 242390,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/6yLqoieklk9gwabLaUDJ4s"
@@ -18190,10 +18220,28 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 186142,
       "name": "POR SUS BESOS",
       "url": "https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt"
+    },
+    {
+      "album": {
+        "name": "ACOMODO",
+        "url": "https://open.spotify.com/album/18ZBkv7H9aGiDhHVWeuuKv"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186142,
+      "name": "POR SUS BESOS",
+      "url": "https://open.spotify.com/track/7J0POh3pJKSmirVOsW4qnP"
     },
     {
       "album": {
@@ -23558,7 +23606,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 279275,
       "name": "UNA CERVEZA",
       "url": "https://open.spotify.com/track/0lbDzTINTToToBpkrnQT2t"

@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 14 | [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 |
 | 15 | [To Me](https://open.spotify.com/track/2GckgBulcihNqUrjxyL4ef) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 4:17 |
 | 16 | [Tough Luck](https://open.spotify.com/track/0r2cXYL1ymt0kJUtK9eUNz) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:12 |
-| 17 | [If You Let Me](https://open.spotify.com/track/2BfxLAYgetcxiyXJA7ItoF) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/5BRZHdsYHxgipEIy5Am2Ig) | 2:15 |
-| 18 | [Too Little, Too Late](https://open.spotify.com/track/1qJnr4Bm7OAauklV18Vdah) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:53 |
+| 17 | [Too Little, Too Late](https://open.spotify.com/track/1qJnr4Bm7OAauklV18Vdah) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 3:53 |
+| 18 | [If You Let Me](https://open.spotify.com/track/2BfxLAYgetcxiyXJA7ItoF) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Sunbeam](https://open.spotify.com/album/5BRZHdsYHxgipEIy5Am2Ig) | 2:15 |
 | 19 | [More Than Enough](https://open.spotify.com/track/6Zq6Ehha3XT94zBhEhUdsF) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 2:31 |
 | 20 | [forever&more](https://open.spotify.com/track/1BzYFQWjXHLZ0c7AGJtL1Z) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:56 |
 | 21 | [Haunted](https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:20 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 25 | [What Love Will Do to You](https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:51 |
 | 26 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 |
 | 27 | [Misty](https://open.spotify.com/track/5oEJyOsT68BDRwLoQQJl6W) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:29 |
-| 28 | [Serendipity](https://open.spotify.com/track/5yIuA6g8P4nwWGMzXfhX4a) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:39 |
-| 29 | [Mr\. Eclectic](https://open.spotify.com/track/4cZnOey9w6yxegFIzE982M) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:35 |
+| 28 | [Mr\. Eclectic](https://open.spotify.com/track/4cZnOey9w6yxegFIzE982M) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/3ZWIfcV7tylRzVh6amRaDv) | 2:35 |
+| 29 | [Serendipity](https://open.spotify.com/track/5yIuA6g8P4nwWGMzXfhX4a) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:39 |
 | 30 | [neverletyougo](https://open.spotify.com/track/4qWQdhdHttXPKrQVqoLKMy) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:58 |
 | 31 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
 | 32 | [Dear Soulmate](https://open.spotify.com/track/2OcTokSU4FnEaIMpNSAh9F) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 4:20 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 146 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 147 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `AcSvMAAAAACRf35UZG1ouyauYBgcrTfE`
+Snapshot ID: `AcS00AAAAADg5zNyD6HJ4uU76ouP0AYP`

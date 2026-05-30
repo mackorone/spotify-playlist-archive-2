@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Red Rocks Worship",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: The Belonging Co.",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -6373,6 +6373,32 @@
     },
     {
       "album": {
+        "name": "The Chorus",
+        "url": "https://open.spotify.com/album/6JThXMOkqvJ8BkF9kOLwbz"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
+        },
+        {
+          "name": "Leeland Mooring",
+          "url": "https://open.spotify.com/artist/2ylW0JAtYmQpymRkrvWnJb"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393541,
+      "name": "Hallowed Be Your Name",
+      "url": "https://open.spotify.com/track/1KacGbIerk18ESTtdCniF9"
+    },
+    {
+      "album": {
         "name": "Hands Of The Healer",
         "url": "https://open.spotify.com/album/3I7LT2cBTzO65R6bGzTBPr"
       },
@@ -6515,6 +6541,28 @@
     },
     {
       "album": {
+        "name": "He Is Here",
+        "url": "https://open.spotify.com/album/7iDWuJW8CE6Bpm5NZ2k0bW"
+      },
+      "artists": [
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        },
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297856,
+      "name": "He Is Here",
+      "url": "https://open.spotify.com/track/2CwSU2PBHlapNwbALjlFR2"
+    },
+    {
+      "album": {
         "name": "He Is Risen",
         "url": "https://open.spotify.com/album/2wLtbU0Nl8jM0pekaFnwb5"
       },
@@ -6552,7 +6600,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 372208,
       "name": "He Shall Be Praised",
       "url": "https://open.spotify.com/track/4mJ051qlagU9OHSZrB4bXY"
@@ -14549,6 +14597,28 @@
     },
     {
       "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/4EPC0qdL5Yy7YwzRUNyavs"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Tyler Roberts",
+          "url": "https://open.spotify.com/artist/6sgNKfg3LWtqX7zvcaImo0"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478285,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/2IS9bxq9BqYmK5GdTA8yzB"
+    },
+    {
+      "album": {
         "name": "Maverick City Music, Vol. 3: Pt. 1",
         "url": "https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq"
       },
@@ -17180,7 +17250,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 219836,
       "name": "That's How I Know",
       "url": "https://open.spotify.com/track/4FzI6hs5ZMg1F5euBkcZUr"
@@ -17788,7 +17858,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 457441,
       "name": "The Highest (No Other Name)",
       "url": "https://open.spotify.com/track/4WwAsRnQYWX5EfXPmQZhfK"
@@ -20556,7 +20626,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 325718,
       "name": "Who You'll Always Be",
       "url": "https://open.spotify.com/track/247FkK3tNtB5GgTMp8sn5O"
@@ -20780,7 +20850,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 278400,
       "name": "Wondrous Cross (When I Survey)",
       "url": "https://open.spotify.com/track/4XkcQH03mFG7ofpLmLG5xP"
@@ -21092,6 +21162,32 @@
       "duration_ms": 585750,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/07MKT2Vgw2MPq3eUmgorc0"
+    },
+    {
+      "album": {
+        "name": "Happy To Be Here",
+        "url": "https://open.spotify.com/album/548SBeYbBBay8CuJSGgbfu"
+      },
+      "artists": [
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317800,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/3P3BpjuFi9R9wCg1cUoaUl"
     },
     {
       "album": {

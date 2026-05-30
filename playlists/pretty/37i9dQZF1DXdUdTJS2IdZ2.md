@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: LAYYI
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,231 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,232 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/3drRiJb84b7LetoZYXB9Np) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [RFRNCE](https://open.spotify.com/album/4S0uMNzmraBl61pcsjrDoa) | 0:00 |
+| 1 | [RFRNCE](https://open.spotify.com/track/3drRiJb84b7LetoZYXB9Np) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [RFRNCE](https://open.spotify.com/album/4S0uMNzmraBl61pcsjrDoa) | 3:18 |
 | 2 | [Universe](https://open.spotify.com/track/4KKsAcemcx5qBNVrxpaIGq) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [CLOCKWORK](https://open.spotify.com/album/5ge6f3ZhfoBJTGx3jgvviu) | 3:47 |
 | 3 | [我陪你唱過的歌](https://open.spotify.com/track/57eFZat0FroqVPp9Pxfou9) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4), [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [我陪你唱過的歌](https://open.spotify.com/album/2vROIZnUECgoLVBYhdanUq) | 3:18 |
 | 4 | [CANDLELIGHT](https://open.spotify.com/track/7K5ja3WY99gt31S5fhhaMk) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [CANDLELIGHT](https://open.spotify.com/album/2TIihmFzGkWJPoYU6P44JH) | 3:36 |
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 6 | [When the Weather Comes](https://open.spotify.com/track/4x38terhIxU9vO1K0PGQif) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H), [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [When the Weather Comes](https://open.spotify.com/album/3gjrjWF0eSqoUsVsKVzFol) | 3:21 |
 | 7 | [Mine](https://open.spotify.com/track/3SZt6bGUF9zWgPDNx6QuH7) | [Midnight Blu](https://open.spotify.com/artist/1CrF9Qw6ekBFc36BbWWihl) | [Mine](https://open.spotify.com/album/1AjIqplPvhv8zWPm1R2hnL) | 3:45 |
 | 8 | [Strangers' Land](https://open.spotify.com/track/5AxFefLisrSrBZ7s924G2Z) | [Annette Lee](https://open.spotify.com/artist/7DOJeU8k34aMTZl014gcEC) | [Strangers' Land](https://open.spotify.com/album/7l6PVTvBIfRH8NDxZ3IgqB) | 3:05 |
-| 9 | [Track 7](https://open.spotify.com/track/6RrDZAlbfIKs6yG0HJHK6W) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [WANNA KISS](https://open.spotify.com/album/4hH1uwmKpjFGmWNoMlkgBS) | 0:00 |
+| 9 | [INTROVERT](https://open.spotify.com/track/6RrDZAlbfIKs6yG0HJHK6W) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [WANNA KISS](https://open.spotify.com/album/4hH1uwmKpjFGmWNoMlkgBS) | 2:03 |
 | 10 | [Archetype](https://open.spotify.com/track/27itjhujvRtqUmFz7xZ1wt) | [DAINASAURS](https://open.spotify.com/artist/0zahECcaw4ZSw8flJ0CTmk) | [Archetype](https://open.spotify.com/album/3oovRUTuwmAXqHD4tkc3Oo) | 3:16 |
 | 11 | [Surprise](https://open.spotify.com/track/6huBBTtXST8QnySSAwY56M) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [CLOCKWORK](https://open.spotify.com/album/5ge6f3ZhfoBJTGx3jgvviu) | 4:14 |
 | 12 | [Half Asleep](https://open.spotify.com/track/6m1YnBZj7qyw7UWEGalRNb) | [MARICELLE](https://open.spotify.com/artist/2AOp8ygleWgLQBFlS80McR), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [Half Asleep](https://open.spotify.com/album/5rcnlD04mIsWRDVZZEVI3V) | 4:38 |
-| 13 | [Track 5](https://open.spotify.com/track/37cdv5DlvppmZ7qF93nBql) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [WANNA KISS](https://open.spotify.com/album/4hH1uwmKpjFGmWNoMlkgBS) | 0:00 |
+| 13 | [SECRET](https://open.spotify.com/track/37cdv5DlvppmZ7qF93nBql) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [WANNA KISS](https://open.spotify.com/album/4hH1uwmKpjFGmWNoMlkgBS) | 1:53 |
 | 14 | [What the Hell](https://open.spotify.com/track/7KjbNAe7ZxqJxiFEh7PB2o) | [KIARA](https://open.spotify.com/artist/3ereOrrDplpipPoEhHYFeI) | [What the Hell](https://open.spotify.com/album/2nHnUJ5dd1bfhd0CsJ28MK) | 2:04 |
 | 15 | [Sleepless Entertainer](https://open.spotify.com/track/2NIVWjAKHBSaU6lf89hqLf) | [AIJOU](https://open.spotify.com/artist/3YLOuVG28q7yiUXwz18PM2) | [Sleepless Entertainer](https://open.spotify.com/album/5jjNTCF2qpv4p8SjGcK6PE) | 2:31 |
 | 16 | [better without you](https://open.spotify.com/track/1hwMl0RTMK40LtOnCsrhPk) | [JOYY](https://open.spotify.com/artist/7L98ngCpo0DMZDBeJXQB3h) | [better without you](https://open.spotify.com/album/6OH7nANqyGsFFHlerYeXkt) | 3:59 |

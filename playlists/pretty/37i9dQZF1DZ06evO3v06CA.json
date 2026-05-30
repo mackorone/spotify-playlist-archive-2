@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 204761,
+  "num_followers": 204764,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAABovULAb4WxPJNb16FCCPWN",
+  "snapshot_id": "aheFgAAAAAD8Q13wr0XQcde61x/TeQFt",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waylon & Willie",
-        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 157913,
-      "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
-      "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ol' Waylon",
         "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 201898,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 157913,
+      "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
+      "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 217725,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 183440,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 217725,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
     },
     {
       "added_at": null,
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "And Then I Wrote",
-        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 173001,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shotgun Willie",
         "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 154160,
       "name": "Stay All Night (Stay a Little Longer)",
       "url": "https://open.spotify.com/track/0ZXmbQXKbfXO8Cv9qxPdZu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "And Then I Wrote",
+        "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 173001,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
     },
     {
       "added_at": null,
@@ -1019,6 +1019,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "We'd Make A Good Movie",
+        "url": "https://open.spotify.com/album/3lpVPRuaulx4hl0JzjteU1"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 212546,
+      "name": "We'd Make A Good Movie",
+      "url": "https://open.spotify.com/track/54hGrZ6lgi51YYnsfTRIaF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "And Then I Wrote",
         "url": "https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 262663,
       "name": "Georgia On My Mind",
       "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We'd Make A Good Movie",
-        "url": "https://open.spotify.com/album/3lpVPRuaulx4hl0JzjteU1"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 212546,
-      "name": "We'd Make A Good Movie",
-      "url": "https://open.spotify.com/track/54hGrZ6lgi51YYnsfTRIaF"
     },
     {
       "added_at": null,

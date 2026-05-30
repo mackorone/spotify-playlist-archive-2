@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Samantha Fish
 
-178 songs - 18 hr 13 min
+179 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [How Many More Times \- Live](https://open.spotify.com/track/1l0gwvwWfPXgpNDqrrpJRI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 15:22 | 2020-10-30 | 2022-07-29 |
 | [I Didn't Know \- Live](https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I Didn't Know \(Live\)](https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi) | 3:18 | 2020-10-30 |  |
 | [I Didn't Think She Would Do It \- Live](https://open.spotify.com/track/1jjFV8q9KjN0FioJ8EeMeh) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Now Serving: Royal Tea Live From The Ryman](https://open.spotify.com/album/1At9QeiTNZXMtD3WKJldg9) | 4:34 | 2021-06-11 | 2022-07-25 |
-| [I Put A Spell On You](https://open.spotify.com/track/1MjrAbIA1Uhq1gURgMV36C) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [I Put A Spell On You](https://open.spotify.com/album/3FgscaFSKt1FekwGFw4FNQ) | 7:53 | 2024-10-04 |  |
+| [I Put A Spell On You](https://open.spotify.com/track/1MjrAbIA1Uhq1gURgMV36C) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [I Put A Spell On You](https://open.spotify.com/album/3FgscaFSKt1FekwGFw4FNQ) | 7:53 | 2024-10-04 | 2026-05-30 |
 | [I Wonder Who \- Live At The San Diego Civic Center, CA, USA / 1974](https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Live In San Diego '74](https://open.spotify.com/album/1uZboHwC6BiYuXGFZbcyYT) | 9:31 | 2022-04-29 |  |
 | [I'm Gonna Move To The Outskirts Of Town \- Remastered 2024](https://open.spotify.com/track/0jDyUtoWaNlUJoX0sdwsBf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 23:22 | 2024-10-18 |  |
 | [I'm In The Mood \- Live](https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I'm In The Mood \(Live\)](https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS) | 4:08 | 2020-10-30 |  |
@@ -120,6 +120,7 @@
 | [Open Hearted Woman \- Live](https://open.spotify.com/track/3Phzwv994YsLZSSU7B2Q6P) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Live at DBA: New Orleans Bootleg](https://open.spotify.com/album/0XQbbMvll706Gfsk4ymE2T) | 7:57 | 2022-02-18 |  |
 | [Pallet Soft and Low \(Live\)](https://open.spotify.com/track/3uhAfoYMM8sra1CXBDHqcK) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Live in Nashville \(Deluxe\)](https://open.spotify.com/album/2YFYcJ3gMqHgvzUVTb2eOe) | 8:29 | 2020-10-30 | 2024-04-19 |
 | [Pallet Soft and Low \(Live\)](https://open.spotify.com/track/5cOtmFYCBQOLMi7jk0xTbk) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Live in Nashville](https://open.spotify.com/album/3qmwNduPLk9xtrMRuUAGPf) | 8:29 | 2020-10-30 |  |
+| [Paper Doll \- Live](https://open.spotify.com/track/3LHV2sJZCPAgmF2M5blexT) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Paper Doll \(Live\)](https://open.spotify.com/album/14PabwwXnFajy1sfXmTYey) | 4:16 | 2026-05-29 |  |
 | [Peace Machine \(Live in L.A\. at The Baked Potato\)](https://open.spotify.com/track/01vW1dzOkXaISWwBe0MOsx) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Peace Machine \(Live in L.A\. at The Baked Potato\)](https://open.spotify.com/album/6gXu4Xk2P6CfCGJLu54t9w) | 9:30 | 2025-09-19 | 2026-05-02 |
 | [Pocket Full of Dust \(Live\)](https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW) | [Dave Fields](https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf) | [Unleashed](https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28) | 8:17 | 2020-10-30 |  |
 | [Prisoner \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 8:35 | 2024-06-21 |  |

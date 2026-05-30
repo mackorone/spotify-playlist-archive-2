@@ -4,7 +4,7 @@
 
 > Melanie Martinez is having a main pop girl emergency 🆘
 
-1,710 songs - 3 day 13 hr 46 min
+1,711 songs - 3 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [10 percent](https://open.spotify.com/track/6tD3yJpporbcCmbcdOoADp) | [Charlotte Jane](https://open.spotify.com/artist/054xTptvdBhGqiTOHvgUaQ) | [10 percent](https://open.spotify.com/album/2xD4eDG2v7bIduuU1LsS3N) | 3:21 | 2022-04-08 | 2022-05-07 |
 | [10,000 Faces](https://open.spotify.com/track/7aO4ET0kb0cm3fyk7ZBN0l) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [10,000 Faces](https://open.spotify.com/album/49gl6H1cpjMfK5UFyx4NUg) | 2:56 | 2024-10-18 | 2025-01-04 |
 | [100% Pure Love](https://open.spotify.com/track/46id9snGVXnL2aUR5nISKC) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [100% Pure Love](https://open.spotify.com/album/1YTJKcEfwPsi53BAPu3RXG) | 3:00 | 2022-11-11 | 2023-03-11 |
+| [101](https://open.spotify.com/track/2X8lHTavqDJoPr6GqbUEgf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 3:14 | 2026-05-29 |  |
 | [12345678](https://open.spotify.com/track/4TbuW9pROHEgQxEXptleTu) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [12345678](https://open.spotify.com/album/6LgzQ07mU3E9sTSNWgNz78) | 2:04 | 2024-08-09 | 2024-09-21 |
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-19 | 2025-02-08 |
 | [15 Minutes](https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:11 | 2025-02-14 | 2025-06-07 |
@@ -851,7 +852,7 @@
 | [Keep On Rising \(feat\. Michelle Shellers\) \[KVSH & Gancci Remix\]](https://open.spotify.com/track/1Cu8A0xpvYNTznkHyMtBOL) | [Ian Carey](https://open.spotify.com/artist/2QFXAOEj2ow8a3xVkD8Ntg), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Gancci](https://open.spotify.com/artist/2uyQkIb1755w342Vf3eFtx), [Michelle Shellers](https://open.spotify.com/artist/6nT13KD6zp5yKAdoWBuO2u) | [Keep On Rising \(feat\. Michelle Shellers\) \[KVSH & Gancci Remix\]](https://open.spotify.com/album/0QFqKYBN6BqCE7mp6KwYTV) | 2:49 | 2022-06-24 | 2022-08-27 |
 | [KEY TO THE CASTLE](https://open.spotify.com/track/3Low5wYPYQGcwDHvSQRw9H) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [PRINCESS OF POWER \(DELUXE\)](https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7) | 2:48 | 2025-10-24 | 2026-02-14 |
 | [KGB](https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [KGB](https://open.spotify.com/album/06wdsqUb4GSuR29Luwiu8n) | 2:37 | 2026-04-17 |  |
-| [Kids](https://open.spotify.com/track/3uWuQ4TyNDY63aQbppYcyc) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Kids](https://open.spotify.com/album/0xrQGzEnAjzDt55xG4L56w) | 2:08 | 2026-05-08 |  |
+| [Kids](https://open.spotify.com/track/3uWuQ4TyNDY63aQbppYcyc) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Kids](https://open.spotify.com/album/0xrQGzEnAjzDt55xG4L56w) | 2:08 | 2026-05-08 | 2026-05-30 |
 | [KiLL iT QUEEN](https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [KiLL iT QUEEN](https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2) | 2:48 | 2026-02-27 | 2026-04-18 |
 | [KILLA \(feat\. Pabllo Vittar & Isabella Lovestory\)](https://open.spotify.com/track/0Bnw9rIQ9C3DKqhmLHTARf) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [KILLA \(feat\. Pabllo Vittar & Isabella Lovestory\)](https://open.spotify.com/album/4n3fNuyz0AxA22ZLmrI9l1) | 2:05 | 2025-11-07 | 2026-03-28 |
 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 | 2023-11-03 | 2024-02-10 |

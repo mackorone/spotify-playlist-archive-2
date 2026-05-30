@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Mia Wray
 
-2,788 songs - 6 day 0 hr 11 min
+2,789 songs - 6 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -998,6 +998,7 @@
 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 | 2023-10-26 | 2023-12-15 |
 | [Hat Hair](https://open.spotify.com/track/0ZSaYrcaQUDf4I3CCdaz1Q) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hat Hair](https://open.spotify.com/album/4L0mrvm4RBHrkweUi9bFIQ) | 3:28 | 2024-02-22 | 2024-03-29 |
 | [Hate Myself](https://open.spotify.com/track/16F28Z5FEqGUbglyMtz6Yz) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Hate Myself](https://open.spotify.com/album/0rbrIJIWuQUEFDxgVzAXXp) | 2:32 | 2026-04-23 | 2026-05-22 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Hate That You Hurt](https://open.spotify.com/track/3Xm6fysXfjFtabHYe4cifr) | [Lachie Gill](https://open.spotify.com/artist/3Zzo9G7beienFXgXl0N3IJ) | [Hate That You Hurt](https://open.spotify.com/album/5JFGwX6w1TzPmxs3jUwsg3) | 2:51 | 2023-07-06 | 2023-09-01 |
 | [hate to be your wife \(demo\)](https://open.spotify.com/track/04Yv4iUYjcrDugyD83wL4G) | [Lucy Sugerman](https://open.spotify.com/artist/5nLGkslzP5G1oqwxhUPj2N) | [hate to be your wife \(demo\)](https://open.spotify.com/album/1CMyja2DKWC4WGcBGj79NF) | 1:45 | 2023-12-07 | 2024-01-19 |
 | [He Could Never](https://open.spotify.com/track/0xgK4nqr4bahkRpIrp2fOV) | [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [He Could Never](https://open.spotify.com/album/5dM7x8NvMfkWb6xyOuK5ru) | 2:04 | 2025-09-04 | 2025-10-10 |

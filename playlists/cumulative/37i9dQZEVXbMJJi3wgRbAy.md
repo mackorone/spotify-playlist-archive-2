@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,344 songs - 2 day 23 hr 25 min
+1,345 songs - 2 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,8 @@
 | [Daylight](https://open.spotify.com/track/51Zw1cKDgkad0CXv23HCMU) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:44 | 2022-05-21 | 2022-05-23 |
 | [Daytona](https://open.spotify.com/track/2kvpHbQHp9QmcG9WhyLwco) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 2:53 | 2024-03-04 | 2024-05-26 |
 | [De Enero a Diciembre](https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Enero a Diciembre](https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl) | 2:44 | 2021-12-18 | 2022-04-28 |
-| [De Lejitos](https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Lejitos](https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55) | 3:27 | 2026-04-11 |  |
+| [De Lejitos](https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Lejitos](https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55) | 3:27 | 2026-04-11 | 2026-05-30 |
+| [De Lejitos](https://open.spotify.com/track/4kJQ6oM2mAj7HIXmxphHEs) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Voz Favorita](https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ) | 3:27 | 2026-05-29 |  |
 | [De Museo](https://open.spotify.com/track/267NGliXM8YLVZiKAD9Otm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [De Museo](https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR) | 3:29 | 2021-07-11 | 2021-07-18 |
 | [De Papel](https://open.spotify.com/track/59YLoLaKOBMSU8k5pwEkXu) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [De Papel](https://open.spotify.com/album/6mFr2TVgix0ilEZGvwgjEQ) | 2:46 | 2025-08-09 | 2025-08-14 |
 | [DE REPENTE](https://open.spotify.com/track/4GXApiro1ifDD3Ye2qFu7h) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [TRAMPA AL TIEMPO](https://open.spotify.com/album/3UrDufkthGh0Ff88b2Rj77) | 2:59 | 2024-11-12 | 2024-11-15 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 38994,
+  "num_followers": 38998,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAAADsgvOTxHudgkyfMAll/1X",
+  "snapshot_id": "aheFgAAAAAA8QakfCGz4Vjk+SP6j8S/i",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
       "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 174466,
-      "name": "Snatch It Back And Hold It",
-      "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
     },
     {
       "added_at": null,
@@ -495,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
       "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
+      "duration_ms": 174466,
+      "name": "Snatch It Back And Hold It",
+      "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
     },
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Play Guitar",
-        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
-      "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skin Deep",
         "url": "https://open.spotify.com/album/0ROkOFhb4cqlys1e8e3m2W"
       },
@@ -623,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+        "name": "Born To Play Guitar",
+        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
       "artists": [
         {
@@ -632,13 +612,13 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
         }
       ],
-      "duration_ms": 224280,
-      "name": "One Day Away (feat. Keith Urban)",
-      "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
+      "duration_ms": 197813,
+      "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
+      "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
     },
     {
       "added_at": null,
@@ -655,6 +635,26 @@
       "duration_ms": 228167,
       "name": "Been There Done That",
       "url": "https://open.spotify.com/track/58fNv64oeBSZdAsYipR5pj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 224280,
+      "name": "One Day Away (feat. Keith Urban)",
+      "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bring 'Em In",
-        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 296280,
-      "name": "I've Got Dreams To Remember",
-      "url": "https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buddy Guy & Junior Wells Play The Blues (Expanded)",
         "url": "https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ"
       },
@@ -935,22 +915,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 296280,
+      "name": "I've Got Dreams To Remember",
+      "url": "https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blues Don't Lie",
+        "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
+      },
+      "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Ships On The Ocean",
-      "url": "https://open.spotify.com/track/28fsOjMzmiw6iphB2ty19x"
+      "duration_ms": 234181,
+      "name": "Blues Don't Lie",
+      "url": "https://open.spotify.com/track/1xyW8n2IfWReOvGWkc0A57"
     }
   ],
   "unique_name": "This Is Buddy Guy",

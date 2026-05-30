@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 138989,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/18M8lkxW7epH3aR6Lr0hff"
@@ -2112,6 +2112,24 @@
       "duration_ms": 448000,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3"
+    },
+    {
+      "album": {
+        "name": "Nowhere Sessions",
+        "url": "https://open.spotify.com/album/1hpZNZUYan5cYkfgMq6GK4"
+      },
+      "artists": [
+        {
+          "name": "Snorri Hallgr\u00edmsson",
+          "url": "https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151829,
+      "name": "Innocence - Nowhere Sessions",
+      "url": "https://open.spotify.com/track/3y9YR3AVhOws7ayEXnsZJo"
     },
     {
       "album": {

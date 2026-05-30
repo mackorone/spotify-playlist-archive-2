@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Souldia, Blynk",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Koriass",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "Saint Sauveur",
+        "url": "https://open.spotify.com/album/15oLM3BvT25D30ero3I291"
+      },
+      "artists": [
+        {
+          "name": "Seth Gueko",
+          "url": "https://open.spotify.com/artist/5SZayIKDZvxXaJrxLfnIRN"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176426,
+      "name": "12 points",
+      "url": "https://open.spotify.com/track/2YnWpGfnwl27C8c4NyxfKS"
+    },
+    {
+      "album": {
         "name": "FUGA (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3sF9TvDbeBYSjsSmoDKdqP"
       },
@@ -140,7 +162,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 194608,
       "name": "120 U",
       "url": "https://open.spotify.com/track/1iIOuxs3xQXPrd0PV1DhuP"
@@ -162,6 +184,32 @@
       "duration_ms": 219053,
       "name": "1942",
       "url": "https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW"
+    },
+    {
+      "album": {
+        "name": "2 Baddies dans 1 Uber",
+        "url": "https://open.spotify.com/album/5OVzEUBix1oQvLUe7wzLNI"
+      },
+      "artists": [
+        {
+          "name": "T.H.A Lord",
+          "url": "https://open.spotify.com/artist/6JC9bFmYuIoxLRwzRPGThM"
+        },
+        {
+          "name": "K!RA OJI",
+          "url": "https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm"
+        },
+        {
+          "name": "E MADE IT",
+          "url": "https://open.spotify.com/artist/18vwo8WT73HLw7tdAOjJDZ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130008,
+      "name": "2 Baddies dans 1 Uber",
+      "url": "https://open.spotify.com/track/6rXkxEW9iAUag0Sbd9hoJd"
     },
     {
       "album": {
@@ -268,7 +316,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 171146,
       "name": "2319 (feat. La Mano 1.9)",
       "url": "https://open.spotify.com/track/5PhNDsefWhhmeltxSonq0q"
@@ -966,7 +1014,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 138240,
       "name": "Appels manqu\u00e9s",
       "url": "https://open.spotify.com/track/6IDwLMT5Lk1cbDqQpKBHvx"
@@ -3201,6 +3249,24 @@
     },
     {
       "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/2tNKPaTJXSXmGtoRRRSLWs"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160263,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/42Ot6CgKD6HYfG2PNRfBYG"
+    },
+    {
+      "album": {
         "name": "Fractur\u00e9",
         "url": "https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw"
       },
@@ -3260,6 +3326,36 @@
       "duration_ms": 128859,
       "name": "DANS LA NUIT",
       "url": "https://open.spotify.com/track/2Vy9ttjVynSVxi1zEKH2Vn"
+    },
+    {
+      "album": {
+        "name": "DANS LA SCHEISSE",
+        "url": "https://open.spotify.com/album/6eYZPRlzZGCMhrCulCNStY"
+      },
+      "artists": [
+        {
+          "name": "OVE",
+          "url": "https://open.spotify.com/artist/42RwQlOWDVzGRQVa61O8VV"
+        },
+        {
+          "name": "Chilly Gonzales",
+          "url": "https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83"
+        },
+        {
+          "name": "Jaymee",
+          "url": "https://open.spotify.com/artist/78i5YadY0dgB2Fdb9tZp6s"
+        },
+        {
+          "name": "Lugatti",
+          "url": "https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140751,
+      "name": "DANS LA SCHEISSE",
+      "url": "https://open.spotify.com/track/0uSgQoXVUJp8DdiR6yf2DS"
     },
     {
       "album": {
@@ -4115,6 +4211,28 @@
     },
     {
       "album": {
+        "name": "EVERYDAY",
+        "url": "https://open.spotify.com/album/3xexbfGbdu3BXDdZxTzEOp"
+      },
+      "artists": [
+        {
+          "name": "Jamaz",
+          "url": "https://open.spotify.com/artist/2bWmHhwTBuPiOsnSz9sjBC"
+        },
+        {
+          "name": "astro_psykeman",
+          "url": "https://open.spotify.com/artist/4tYwjRz3iiyIrno26moZmP"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158840,
+      "name": "EVERYDAY",
+      "url": "https://open.spotify.com/track/0oyyXrvC1xTL1UztoOuFha"
+    },
+    {
+      "album": {
         "name": "EVIL WORLD",
         "url": "https://open.spotify.com/album/6ZH21maUMNkLcA2Tw0H5IQ"
       },
@@ -4148,6 +4266,24 @@
       "duration_ms": 153490,
       "name": "EXPLICIT 69",
       "url": "https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP"
+    },
+    {
+      "album": {
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/1e86hQpZEZU96Ex2IOxYD6"
+      },
+      "artists": [
+        {
+          "name": "Striky",
+          "url": "https://open.spotify.com/artist/2z9aSOsIU7HPmrtQRcRQx0"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180612,
+      "name": "F16",
+      "url": "https://open.spotify.com/track/2BRYyZSxV3uvxrNhk1l8pH"
     },
     {
       "album": {
@@ -4602,7 +4738,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 143222,
       "name": "G-SHOCK",
       "url": "https://open.spotify.com/track/5CYBxiyJJ2v1NH4nC4NFHW"
@@ -4698,6 +4834,24 @@
       "duration_ms": 152673,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7"
+    },
+    {
+      "album": {
+        "name": "Garo F\u00e9ca",
+        "url": "https://open.spotify.com/album/0kuczDyT5QpF6GQ8Gn20HG"
+      },
+      "artists": [
+        {
+          "name": "BNLI",
+          "url": "https://open.spotify.com/artist/1R7JWeWwlmrwtondvB8HCM"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72608,
+      "name": "Garo F\u00e9ca",
+      "url": "https://open.spotify.com/track/6c3mYh4LpzJ0THE1IFpGKR"
     },
     {
       "album": {
@@ -5899,6 +6053,24 @@
     },
     {
       "album": {
+        "name": "Blanco nemesis",
+        "url": "https://open.spotify.com/album/1CVD0XgRZjmkeO11U90NPo"
+      },
+      "artists": [
+        {
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "Kendall",
+      "url": "https://open.spotify.com/track/0wBAbM87bxaz3q1tzAawEM"
+    },
+    {
+      "album": {
         "name": "LA VIE RAPIDE EARLY ACCESS",
         "url": "https://open.spotify.com/album/3HSqYFBuzJKMW5GkrDzxQq"
       },
@@ -6118,6 +6290,24 @@
       "duration_ms": 160000,
       "name": "La Ch\u00e8vre",
       "url": "https://open.spotify.com/track/0PC4NdVKfQoz0yDTJA9v1E"
+    },
+    {
+      "album": {
+        "name": "La dose",
+        "url": "https://open.spotify.com/album/1gOAseYq3NJjaxNAqhE1Vj"
+      },
+      "artists": [
+        {
+          "name": "Frs taga",
+          "url": "https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135054,
+      "name": "La dose",
+      "url": "https://open.spotify.com/track/6oJDUuaWEWaQaad79MGMMD"
     },
     {
       "album": {
@@ -6827,6 +7017,24 @@
     },
     {
       "album": {
+        "name": "Love ou la monnaie",
+        "url": "https://open.spotify.com/album/7xIxKCqKrb7HB2uC8hNDdQ"
+      },
+      "artists": [
+        {
+          "name": "Kazba",
+          "url": "https://open.spotify.com/artist/1ceZwqOqvkw2vj58x2JM9l"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153019,
+      "name": "Love ou la monnaie",
+      "url": "https://open.spotify.com/track/168wDKskq9yL9n0DusSy4X"
+    },
+    {
+      "album": {
         "name": "LOVE YOU - A COLORS SHOW",
         "url": "https://open.spotify.com/album/0aUpiyVNdVZCNotN39cCZr"
       },
@@ -6940,6 +7148,24 @@
       "duration_ms": 254800,
       "name": "MAGHRIBI",
       "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
+    },
+    {
+      "album": {
+        "name": "Magie",
+        "url": "https://open.spotify.com/album/66JPwjXaD1bbI73tHp2Aws"
+      },
+      "artists": [
+        {
+          "name": "Abach",
+          "url": "https://open.spotify.com/artist/6fA844834oMBVWdtAu61HU"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Magie",
+      "url": "https://open.spotify.com/track/05NRh1joeSvBf4qL0d0ib6"
     },
     {
       "album": {
@@ -7895,6 +8121,32 @@
     },
     {
       "album": {
+        "name": "NETFLIX CHILL",
+        "url": "https://open.spotify.com/album/2jJBGEZ6vfmQXQ4qJUeVq2"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
+        {
+          "name": "PRINC\u20ac",
+          "url": "https://open.spotify.com/artist/42eXaZ8DcymFXerFjEEcmj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148676,
+      "name": "NETFLIX CHILL",
+      "url": "https://open.spotify.com/track/6Ap1nvdC4XT3p2Oj627ciD"
+    },
+    {
+      "album": {
         "name": "NHAR SHEITAN",
         "url": "https://open.spotify.com/album/2VBou4bqkk0pBsJbAvVdeA"
       },
@@ -7924,7 +8176,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 235694,
       "name": "Ni Dieu ni ma\u00eetre",
       "url": "https://open.spotify.com/track/2Te3XX0nnlY8JdEQlfrWz0"
@@ -7964,7 +8216,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 141678,
       "name": "NINTENDO (feat. Cash Crime)",
       "url": "https://open.spotify.com/track/59mFNcQ4w1ivAexgua99F0"
@@ -8060,7 +8312,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 138247,
       "name": "Noche",
       "url": "https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1"
@@ -9886,7 +10138,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 142222,
       "name": "risk",
       "url": "https://open.spotify.com/track/0BnFZYKfuxHDazunCJ7sXK"
@@ -10482,6 +10734,28 @@
       "duration_ms": 212436,
       "name": "Sentenc\u00e9",
       "url": "https://open.spotify.com/track/3n9VHoMlVJvotkaXLFNqA2"
+    },
+    {
+      "album": {
+        "name": "SEPT ANS DE MALHEUR (titre temporaire)",
+        "url": "https://open.spotify.com/album/0GiDyRgjAurcuHRHEMok40"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        },
+        {
+          "name": "Daniel B\u00e9langer",
+          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245950,
+      "name": "SEPT ANS DE MALHEUR (titre permanent)",
+      "url": "https://open.spotify.com/track/3Eu93yOFSnRVWLWhOgOn1z"
     },
     {
       "album": {
@@ -11232,7 +11506,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188678,
       "name": "TEC_9",
       "url": "https://open.spotify.com/track/6Vu7aySpY1Sl9ponz2mQ8d"
@@ -11626,7 +11900,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 109057,
       "name": "Tout prendre",
       "url": "https://open.spotify.com/track/5kU24jy5EGIXdWtLMpCjn2"
@@ -11856,7 +12130,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 135016,
       "name": "TU VAS TE FAIRE DRIVE-BY UN VENDREDI",
       "url": "https://open.spotify.com/track/3Uo2f9z7pGUrfvgluLs50J"
@@ -12178,7 +12452,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 153043,
       "name": "Victor Newman",
       "url": "https://open.spotify.com/track/24QJgDBgjAwwmNn4NPHSMa"

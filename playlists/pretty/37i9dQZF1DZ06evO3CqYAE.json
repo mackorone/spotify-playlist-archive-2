@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 14760,
+  "num_followers": 14768,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAADIiZ17VxTX9z3n68giEvfk",
+  "snapshot_id": "aheFgAAAAAC5WTd/WqWSqrsfoWORe0XV",
   "tracks": [
     {
       "added_at": null,
@@ -338,15 +338,11 @@
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Chioma Jesus",
-          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
         }
       ],
-      "duration_ms": 246674,
-      "name": "Onememma (feat. Chioma Jesus)",
-      "url": "https://open.spotify.com/track/5B6ckleglIos5782GxMYml"
+      "duration_ms": 362109,
+      "name": "Akamdinelu",
+      "url": "https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA"
     },
     {
       "added_at": null,
@@ -418,11 +414,15 @@
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Chioma Jesus",
+          "url": "https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4"
         }
       ],
-      "duration_ms": 362109,
-      "name": "Akamdinelu",
-      "url": "https://open.spotify.com/track/1w0iBUDtvyfHi3FnSMtlfA"
+      "duration_ms": 246674,
+      "name": "Onememma (feat. Chioma Jesus)",
+      "url": "https://open.spotify.com/track/5B6ckleglIos5782GxMYml"
     },
     {
       "added_at": null,

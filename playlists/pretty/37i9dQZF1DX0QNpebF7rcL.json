@@ -1,18 +1,18 @@
 {
   "description": "The best in blues right now. Cover: Joe Bonamassa",
-  "num_followers": 151792,
+  "num_followers": 151831,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANJNzA7KOrCP2b9zMJVKnoMlSzbc",
+  "snapshot_id": "AAAAAEil6jbkzH418K5QPMsuKl48YZTb",
   "tracks": [
     {
-      "added_at": "2026-05-15 04:00:51",
+      "added_at": "2026-05-29 04:00:36",
       "album": {
-        "name": "Fastlane",
-        "url": "https://open.spotify.com/album/6fR4Kppt8yCNKP5tZ9jUqH"
+        "name": "Roots & Wings",
+        "url": "https://open.spotify.com/album/2E7yNO54IXDhJwDdRZ5ZM0"
       },
       "artists": [
         {
@@ -20,9 +20,29 @@
           "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
         }
       ],
-      "duration_ms": 198133,
-      "name": "Fastlane",
-      "url": "https://open.spotify.com/track/0r4RAtWeSOx9lGRegJjG3T"
+      "duration_ms": 235306,
+      "name": "You Can't Heal What You Hide",
+      "url": "https://open.spotify.com/track/4Utooqc94lpk1RfWT2jSJu"
+    },
+    {
+      "added_at": "2026-05-29 04:00:36",
+      "album": {
+        "name": "I Can\u2019t Hold Out",
+        "url": "https://open.spotify.com/album/12kopSY2LCMFSGcmlVaGmv"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 148005,
+      "name": "I Can\u2019t Hold Out",
+      "url": "https://open.spotify.com/track/2PjKjXdPcYn155olSIFIcM"
     },
     {
       "added_at": "2026-05-15 04:00:51",
@@ -41,6 +61,26 @@
       "url": "https://open.spotify.com/track/5BM6FplSkbfROQI8qfLVIa"
     },
     {
+      "added_at": "2026-05-29 04:00:36",
+      "album": {
+        "name": "Brown Paper Bag (feat. Keith Urban)",
+        "url": "https://open.spotify.com/album/2q6RAZKCK142iBsIMiprOB"
+      },
+      "artists": [
+        {
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 175964,
+      "name": "Brown Paper Bag (feat. Keith Urban)",
+      "url": "https://open.spotify.com/track/6AQocHBa5FVwjHoqFgzjze"
+    },
+    {
       "added_at": "2026-05-15 04:00:51",
       "album": {
         "name": "Daisy Wake Up",
@@ -55,6 +95,22 @@
       "duration_ms": 165945,
       "name": "Daisy Wake Up",
       "url": "https://open.spotify.com/track/6xulabyMlnkc50eL8a2Rtd"
+    },
+    {
+      "added_at": "2026-05-29 04:00:36",
+      "album": {
+        "name": "Pleasure Untold",
+        "url": "https://open.spotify.com/album/7Ei1Dtu1LWdlpTE1q3O6gu"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        }
+      ],
+      "duration_ms": 320691,
+      "name": "Pleasure Untold",
+      "url": "https://open.spotify.com/track/6iXxuZxQaQwWqGvq9fIpdH"
     },
     {
       "added_at": "2026-05-01 04:00:41",
@@ -75,26 +131,6 @@
       "duration_ms": 198118,
       "name": "You Put The Whammy On Me",
       "url": "https://open.spotify.com/track/4XlNoEYn3C5o4o44B3PCe5"
-    },
-    {
-      "added_at": "2026-05-01 04:00:41",
-      "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/0yd7wMbdiJMsgiv3XXrJTy"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        },
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 195119,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/4COHCCcZAdeVCnnK36kUNS"
     },
     {
       "added_at": "2026-04-24 04:03:28",
@@ -813,22 +849,6 @@
       "url": "https://open.spotify.com/track/6muJT0L9jOn9SOdd2CWBWg"
     },
     {
-      "added_at": "2025-07-04 04:00:17",
-      "album": {
-        "name": "Mississippi",
-        "url": "https://open.spotify.com/album/3uQaiRXPr4v4nV0NbZo9Ya"
-      },
-      "artists": [
-        {
-          "name": "Deltaphonic",
-          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
-        }
-      ],
-      "duration_ms": 205411,
-      "name": "Mississippi",
-      "url": "https://open.spotify.com/track/3ykS8JhFli8fk4RyQewszO"
-    },
-    {
       "added_at": "2025-07-14 19:23:04",
       "album": {
         "name": "How The Other Half Lives",
@@ -1319,22 +1339,6 @@
       "duration_ms": 211066,
       "name": "Runaway - Radio Edit",
       "url": "https://open.spotify.com/track/3voGGhiHlPTZ9tG7WYt69Z"
-    },
-    {
-      "added_at": "2025-01-17 05:00:26",
-      "album": {
-        "name": "Livin' It Up Down In Texas",
-        "url": "https://open.spotify.com/album/36RkaLXpxXqJOgyoFARRCE"
-      },
-      "artists": [
-        {
-          "name": "Billy F Gibbons",
-          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
-        }
-      ],
-      "duration_ms": 285080,
-      "name": "Livin' It Up Down In Texas",
-      "url": "https://open.spotify.com/track/56fMChBQ4TlnX9E56WsyUT"
     },
     {
       "added_at": "2025-01-17 05:00:26",

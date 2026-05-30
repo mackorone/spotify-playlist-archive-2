@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Maggie Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,530 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,534 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 26 | [Sushi and Coca\-Cola](https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sushi and Coca\-Cola](https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4) | 2:37 |
 | 27 | [S.O.B.](https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [S.O.B.](https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI) | 4:07 |
 | 28 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 |
-| 29 | [Life of Sin](https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 2:26 |
-| 30 | [Stay](https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Act I](https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R) | 3:12 |
+| 29 | [Stay](https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Act I](https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R) | 3:12 |
+| 30 | [Life of Sin](https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 2:26 |
 | 31 | [Summer Sun](https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9) | [Ruen Brothers](https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go) | [All My Shades Of Blue](https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ) | 3:21 |
 | 32 | [Only You](https://open.spotify.com/track/1WeEXE3w0FkgPLUEOeoG9J) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:46 |
-| 33 | [Morning Coffee](https://open.spotify.com/track/5JChez1hix3cio2LrHgScq) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 3:35 |
-| 34 | [Heart Shaped Necklace](https://open.spotify.com/track/6H2iR8II829eMS8jFYWLMA) | [Cassidy Daniels](https://open.spotify.com/artist/7tkuLHX8bn8WkTZtJ5AqiM) | [Heart Shaped Necklace](https://open.spotify.com/album/2xXvur0dTkNBBHWxFoTGYR) | 3:42 |
+| 33 | [Heart Shaped Necklace](https://open.spotify.com/track/6H2iR8II829eMS8jFYWLMA) | [Cassidy Daniels](https://open.spotify.com/artist/7tkuLHX8bn8WkTZtJ5AqiM) | [Heart Shaped Necklace](https://open.spotify.com/album/2xXvur0dTkNBBHWxFoTGYR) | 3:42 |
+| 34 | [Morning Coffee](https://open.spotify.com/track/5JChez1hix3cio2LrHgScq) | [Jesper Munk](https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw) | [CLAIM](https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br) | 3:35 |
 | 35 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 |
 | 36 | [For the Time Being](https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M) | [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn), [Will Leet](https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi) | [For the Time Being](https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o) | 4:05 |
 | 37 | [Madelyn](https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Madelyn](https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0) | 3:15 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 54 | [Dance For Love](https://open.spotify.com/track/7hredXafMauuh15FNDEPnQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Dance For Love](https://open.spotify.com/album/4ur5fRmG36m0aYACPyCCEE) | 4:22 |
 | 55 | [Starlight](https://open.spotify.com/track/1kb4gNmvXUhQItlxnI6sLe) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 5:21 |
 | 56 | [Home With My Dog](https://open.spotify.com/track/53taqmWyUH21RoJmglUoyG) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Movin’ Shoes](https://open.spotify.com/album/2sHS3YECiWION4TfBHmkTI) | 4:09 |
-| 57 | [Lie To Me](https://open.spotify.com/track/29VmWHsaU3HhRn88PSLg0M) | [The Jaws of Brooklyn](https://open.spotify.com/artist/0G8ZAUGVk9uCR2xycfkepP) | [Lie To Me](https://open.spotify.com/album/0OanktBjwWfJ6rdNICU5ET) | 2:52 |
-| 58 | [Can't Let Go](https://open.spotify.com/track/5SMb9DajcX67GuiL4urSjp) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Can't Let Go](https://open.spotify.com/album/4FI4jvFk534aeIQXvyzNZr) | 3:41 |
+| 57 | [Can't Let Go](https://open.spotify.com/track/5SMb9DajcX67GuiL4urSjp) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Can't Let Go](https://open.spotify.com/album/4FI4jvFk534aeIQXvyzNZr) | 3:41 |
+| 58 | [Lie To Me](https://open.spotify.com/track/29VmWHsaU3HhRn88PSLg0M) | [The Jaws of Brooklyn](https://open.spotify.com/artist/0G8ZAUGVk9uCR2xycfkepP) | [Lie To Me](https://open.spotify.com/album/0OanktBjwWfJ6rdNICU5ET) | 2:52 |
 | 59 | [Not Yet](https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN) | [Izaak Opatz](https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G) | [Mariachi Static](https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE) | 3:58 |
 | 60 | [First Time Feeling](https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:06 |
 | 61 | [Take My Heart](https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg) | 4:18 |

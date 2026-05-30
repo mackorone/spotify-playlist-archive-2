@@ -214,7 +214,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 155394,
       "name": "At Last",
       "url": "https://open.spotify.com/track/1BXxytSL9ItPhYnKInkIR9"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 119000,
       "name": "Cavtat",
       "url": "https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 154838,
       "name": "chanson de bateau",
       "url": "https://open.spotify.com/track/2SwptMOjnExmwFIrx1prEw"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 148500,
       "name": "Coulant",
       "url": "https://open.spotify.com/track/445KHitEvap0tspDZ3C78V"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 154750,
       "name": "Dusk to dawn",
       "url": "https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O"
@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Eirene",
+        "url": "https://open.spotify.com/album/2jpigLGuZCzZYZzpSsmjGH"
+      },
+      "artists": [
+        {
+          "name": "Henry Flower",
+          "url": "https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152635,
+      "name": "Eirene",
+      "url": "https://open.spotify.com/track/3L7VyBjJaix0WPor72ykEU"
+    },
+    {
+      "album": {
         "name": "Ellipses",
         "url": "https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM"
       },
@@ -790,7 +808,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 151251,
       "name": "Ellipses",
       "url": "https://open.spotify.com/track/28GCsymrcDUXXLC12nkhp3"
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 167374,
       "name": "Gently",
       "url": "https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn"
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 130000,
       "name": "Il mio cuore brucia per te",
       "url": "https://open.spotify.com/track/2Wvu8d2R1Ish33Jl67JEdI"
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 123888,
       "name": "Impuissance",
       "url": "https://open.spotify.com/track/3W5GfZBvDJQKovjdCww4pL"
@@ -1589,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Katarina",
+        "url": "https://open.spotify.com/album/2wYHakqfGimqMeNVTELCd2"
+      },
+      "artists": [
+        {
+          "name": "Thiago Hernan",
+          "url": "https://open.spotify.com/artist/2HbMVXQwDL2R3QfZIIMXfv"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148860,
+      "name": "Katarina",
+      "url": "https://open.spotify.com/track/5j8aR8tgfB0yIG9zYOg7WJ"
+    },
+    {
+      "album": {
         "name": "Kindred spirit",
         "url": "https://open.spotify.com/album/63bChEcIGDsqy1XAmagYNt"
       },
@@ -1690,7 +1726,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 133572,
       "name": "Le Lac des Buttes",
       "url": "https://open.spotify.com/track/2wSDYbFEls8WYUCLCUvZNJ"
@@ -2122,7 +2158,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 128812,
       "name": "nyvallen",
       "url": "https://open.spotify.com/track/5Fc41UbpeLPaltHBkrL5kz"
@@ -2572,7 +2608,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 138000,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
@@ -2860,7 +2896,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 155384,
       "name": "soleil",
       "url": "https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli"
@@ -3274,7 +3310,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 125000,
       "name": "The little princess",
       "url": "https://open.spotify.com/track/2TD0iYRp8fH3okp5vOAOi2"
@@ -3382,7 +3418,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 128000,
       "name": "To You Again",
       "url": "https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu"
@@ -3526,7 +3562,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188938,
       "name": "Turquoise Move",
       "url": "https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6"
@@ -3548,6 +3584,24 @@
       "duration_ms": 159624,
       "name": "T\u00e5lamod",
       "url": "https://open.spotify.com/track/2pFheJ7wiffFLs37le8jrB"
+    },
+    {
+      "album": {
+        "name": "Understanding",
+        "url": "https://open.spotify.com/album/5KFROlI32LrUZUlboJrS7M"
+      },
+      "artists": [
+        {
+          "name": "Dalby",
+          "url": "https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151218,
+      "name": "Understanding",
+      "url": "https://open.spotify.com/track/30sZBlCQ7R81Prhqpj0Y0p"
     },
     {
       "album": {
@@ -3742,7 +3796,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 144623,
       "name": "Walking Home",
       "url": "https://open.spotify.com/track/0BJ8EpHAIaNfMBf5n57RjY"
@@ -3886,7 +3940,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 170625,
       "name": "You This Year",
       "url": "https://open.spotify.com/track/6ShwNJzALpViUaWO0N1K0I"
@@ -3922,7 +3976,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 149990,
       "name": "\u00c1tica",
       "url": "https://open.spotify.com/track/07g8nWc95mnGgPfRlRq075"

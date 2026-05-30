@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! Kapak: Öykü Dörter
+> Geleceğin seslerini dinle! Kapak: Zeki Arkun
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,123 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,115 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [YARINIMIZ OLMAYACAK](https://open.spotify.com/track/3cbMUX9OhGmAFeLybYcaMn) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [YARINIMIZ OLMAYACAK](https://open.spotify.com/album/3vVSHVhbyBvY9TdlnFGt1b) | 2:34 |
-| 2 | [YENİ BİRİ](https://open.spotify.com/track/0wx08CQnNntQhnkhEq9h2r) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [YENİ BİRİ](https://open.spotify.com/album/14ZzDyIYf5mBua5zRnIldK) | 2:33 |
-| 3 | [MUTLU SON](https://open.spotify.com/track/6RMli1QPSWUgw0b1q9goK8) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [SENDEN ÖNCE BEN KİMDİM](https://open.spotify.com/album/4B9gmTwPxd5qMbTzQc0HDW) | 2:27 |
-| 4 | [VEDA BUSESİ](https://open.spotify.com/track/0I3tf6OIWLHGPrphkE7v8W) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [VEDA BUSESİ](https://open.spotify.com/album/7JI3SLFixTxEybtyqQdtui) | 3:21 |
+| 1 | [YENİ BİRİ](https://open.spotify.com/track/0wx08CQnNntQhnkhEq9h2r) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [YENİ BİRİ](https://open.spotify.com/album/14ZzDyIYf5mBua5zRnIldK) | 2:33 |
+| 2 | [YARINIMIZ OLMAYACAK](https://open.spotify.com/track/3cbMUX9OhGmAFeLybYcaMn) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [YARINIMIZ OLMAYACAK](https://open.spotify.com/album/3vVSHVhbyBvY9TdlnFGt1b) | 2:34 |
+| 3 | [VEDA BUSESİ](https://open.spotify.com/track/0I3tf6OIWLHGPrphkE7v8W) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [VEDA BUSESİ](https://open.spotify.com/album/7JI3SLFixTxEybtyqQdtui) | 3:21 |
+| 4 | [MUTLU SON](https://open.spotify.com/track/6RMli1QPSWUgw0b1q9goK8) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [SENDEN ÖNCE BEN KİMDİM](https://open.spotify.com/album/4B9gmTwPxd5qMbTzQc0HDW) | 2:27 |
 | 5 | [Başka Hikaye](https://open.spotify.com/track/0ZqLQVGJQ3B1zrbXZBYZxM) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Başka Hikaye](https://open.spotify.com/album/1Vtn6RCVOJcn3RZ9hP2jo4) | 3:35 |
 | 6 | [Leyla](https://open.spotify.com/track/7io2J4KxxJGudWkyJIb2LI) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Leyla](https://open.spotify.com/album/3RgXsvxPagJnfAbnccbMb2) | 3:24 |
 | 7 | [Bırakın Arasın](https://open.spotify.com/track/2mp5AxLWjNW7WGvJ8uWddm) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Bırakın Arasın](https://open.spotify.com/album/19E7lRqhUcUGyMXtfPNgaA) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcND7hNAhMeu.md) - [plain]
 | 49 | [Yine Seni Severim](https://open.spotify.com/track/1cwaAXBp74JnMXBOdhLfjD) | [Tolga Ayaz](https://open.spotify.com/artist/7G2ZpX14n32mQ9k61IdLmY) | [Yine Seni Severim](https://open.spotify.com/album/0h3PL3HJJ8bw4qqSWF9gAn) | 3:13 |
 | 50 | [Durdurulmaz](https://open.spotify.com/track/5XO60bjTDzUdxPnHrnWbu8) | [Belki Biraz](https://open.spotify.com/artist/447yNY9cW9O0mMJ7B5QObd) | [Durdurulmaz](https://open.spotify.com/album/65lrcxD38SIHlYWYOOiIAh) | 3:42 |
 
-Snapshot ID: `AAAAACP1nC0qU1ZurQoe1/xWX90QToeR`
+Snapshot ID: `AAAAAGTrXxvtzhXzDZTXH7kASSUTKYDz`

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 729855,
+  "num_followers": 729817,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 169000,
       "name": "Giving Me",
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "DJ Turn It Up",
-        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "DJ Turn It Up",
-      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Wasted Youth",
         "url": "https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 147581,
       "name": "Wasted Youth",
       "url": "https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "DJ Turn It Up",
+        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "DJ Turn It Up",
+      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Sippin",
-        "url": "https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu"
-      },
-      "artists": [
-        {
-          "name": "Milco",
-          "url": "https://open.spotify.com/artist/5WHUxQCM4499eLKORl6G4l"
-        },
-        {
-          "name": "DEJA",
-          "url": "https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp"
-        }
-      ],
-      "duration_ms": 158075,
-      "name": "Sippin",
-      "url": "https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Here In Your Arms",
         "url": "https://open.spotify.com/album/7gpwvr3MB0ZMVEQsF2vR13"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 124620,
       "name": "Running Around",
       "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "Sippin",
+        "url": "https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu"
+      },
+      "artists": [
+        {
+          "name": "Milco",
+          "url": "https://open.spotify.com/artist/5WHUxQCM4499eLKORl6G4l"
+        },
+        {
+          "name": "DEJA",
+          "url": "https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp"
+        }
+      ],
+      "duration_ms": 158075,
+      "name": "Sippin",
+      "url": "https://open.spotify.com/track/60pHhvyWNIHvjIUWOKBUg6"
     },
     {
       "added_at": "2026-01-23 00:00:40",

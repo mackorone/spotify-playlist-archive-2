@@ -4,7 +4,7 @@
 
 > For the new generation of trendsetters coming through, we move\. Cover: Nori
 
-207 songs - 9 hr 4 min
+208 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Grandad](https://open.spotify.com/track/3lyJqisiNRrhiXlYDR5zT7) | [TR Gobrazy](https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C) | [Grandad](https://open.spotify.com/album/4tJ259cv5qvtU68KYRVClg) | 1:28 | 2025-12-12 | 2026-04-17 |
 | [Headside In Da Skiez \(Babycham Supernova\)](https://open.spotify.com/track/4ol6wLKnSSiu7MpPhYvIrk) | [Kibo](https://open.spotify.com/artist/1htekGIYpgIzz9EDeufPwn) | [Headside In Da Skiez \(Babycham Supernova\)](https://open.spotify.com/album/7cvZTXuwZeTDPYKiNYSCmT) | 3:16 | 2026-02-06 | 2026-04-17 |
 | [hell0\_hi](https://open.spotify.com/track/43KbL6h5XYDoqhFKt30DUF) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ) | [hell0\_hi](https://open.spotify.com/album/7qUlNsGeas6Upr3JlUuI29) | 1:50 | 2026-02-20 |  |
+| [HELLO](https://open.spotify.com/track/5ASzHE878PA0otam9gN50R) | [JrodBroccoli](https://open.spotify.com/artist/0ht1thNgu836B6AYsXbt1K) | [HELLO](https://open.spotify.com/album/4eawBBIL0VXLktBvSgdrBM) | 2:24 | 2026-05-28 |  |
 | [Hideout](https://open.spotify.com/track/6QWdHbwyi9Nqp53SNh7imF) | [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Hideout](https://open.spotify.com/album/1Z4KbGWGQjJkPFkeUKHx5c) | 2:31 | 2025-10-23 | 2026-02-27 |
 | [HIGH](https://open.spotify.com/track/70rtaYi2AprbjQQCz8rgTF) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF) | [HIGH](https://open.spotify.com/album/0M2wuRfrnrfM9QWLmMtEnr) | 3:36 | 2025-12-12 | 2026-03-13 |
 | [How Greedy](https://open.spotify.com/track/0H5pHlungswiZGbFIrcknj) | [SWiTCH](https://open.spotify.com/artist/6cTIiIfSl5XVcBjNksApDW) | [How Greedy](https://open.spotify.com/album/5fIJpPE2LbGMXN0WVjZKdF) | 1:37 | 2025-10-23 | 2026-02-21 |

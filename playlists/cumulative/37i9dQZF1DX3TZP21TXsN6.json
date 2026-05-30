@@ -4221,6 +4221,24 @@
     },
     {
       "album": {
+        "name": "Rico",
+        "url": "https://open.spotify.com/album/7oRO2j8KmhXNRMX9WySSRP"
+      },
+      "artists": [
+        {
+          "name": "Rico",
+          "url": "https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167929,
+      "name": "Glasscherf",
+      "url": "https://open.spotify.com/track/26tVaYe0QtuR2BDQrLOMfU"
+    },
+    {
+      "album": {
         "name": "Gnumes Gna",
         "url": "https://open.spotify.com/album/6nmyUNhonwSaBTJ21NEpYf"
       },

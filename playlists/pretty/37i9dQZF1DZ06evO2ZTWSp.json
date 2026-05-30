@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 476801,
+  "num_followers": 476780,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAABqVShOu3wZzfCqoYmFrNCL",
+  "snapshot_id": "aheFgAAAAABP6SVN67kSPwqMzGgGtgU/",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rumors (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 172832,
-      "name": "Rumors (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
         "url": "https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 129170,
       "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
       "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rumors (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 172832,
+      "name": "Rumors (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s"
     },
     {
       "added_at": null,
@@ -775,22 +775,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Did The Body",
-        "url": "https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH"
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2"
       },
       "artists": [
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 149173,
-      "name": "Freak Show",
-      "url": "https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv"
+      "duration_ms": 169042,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c"
     },
     {
       "added_at": null,
@@ -811,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2"
+        "name": "Who Did The Body",
+        "url": "https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH"
       },
       "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 169042,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c"
+      "duration_ms": 149173,
+      "name": "Freak Show",
+      "url": "https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv"
     },
     {
       "added_at": null,

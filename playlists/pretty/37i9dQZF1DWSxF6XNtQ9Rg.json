@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 250151,
+  "num_followers": 250207,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Fenice",
-        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
-      },
-      "artists": [
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "Chic",
-      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "Soldi in Nero (feat. Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 183797,
       "name": "Soldi in Nero - feat. Sfera Ebbasta",
       "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "Fenice",
+        "url": "https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I"
+      },
+      "artists": [
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Chic",
+      "url": "https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
       },
       "artists": [
         {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 180009,
-      "name": "Torna Da Me",
-      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
+      "duration_ms": 208506,
+      "name": "Bling Bling (Oro)",
+      "url": "https://open.spotify.com/track/11AXfsh0V6zCCU7Po6kQiY"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 208506,
-      "name": "Bling Bling (Oro)",
-      "url": "https://open.spotify.com/track/11AXfsh0V6zCCU7Po6kQiY"
+      "duration_ms": 180009,
+      "name": "Torna Da Me",
+      "url": "https://open.spotify.com/track/5iSHLCuc0K3pUW16b7sSP4"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "BBE (feat. Lazza)",
-      "url": "https://open.spotify.com/track/4I2SWtTgB08SICbqN6983B"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "La Divina Commedia",
         "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 137098,
       "name": "Hoe (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3VtGh8xE9qRsFyY2Uj1WG3"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "BBE (feat. Lazza)",
+      "url": "https://open.spotify.com/track/4I2SWtTgB08SICbqN6983B"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "Come Uccidere Un Usignolo",
-        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 206510,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "T\u00caTE (feat. Medy & VillaBanks)",
         "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 180904,
       "name": "T\u00caTE (feat. Medy & VillaBanks)",
       "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "Come Uccidere Un Usignolo",
+        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 206510,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "90MIN",
+      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "90MIN",
-      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "FSK TRAPSHIT REVENGE",
-        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
-      },
-      "artists": [
-        {
-          "name": "FSK SATELLITE",
-          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "ANSIA NO",
-      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "c@ra++ere s?ec!@le",
         "url": "https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 182078,
       "name": "Dimmi Che C'\u00e8 (feat. Tedua)",
       "url": "https://open.spotify.com/track/7jVQ6DP7Q6S2wKWqJmcTZL"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "FSK TRAPSHIT REVENGE",
+        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
+      },
+      "artists": [
+        {
+          "name": "FSK SATELLITE",
+          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "ANSIA NO",
+      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
+        "name": "23 6451",
+        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "fuck 3x",
+      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
         "name": "P Secondigliano (2020 Remaster)",
         "url": "https://open.spotify.com/album/2oaPXxOEcV98TOiHvcKTTq"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 229893,
       "name": "P Secondigliano - 2020 Remaster",
       "url": "https://open.spotify.com/track/1mnEdOTC5DoUrKjzNrnfCP"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
-        "name": "23 6451",
-        "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "fuck 3x",
-      "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
     },
     {
       "added_at": "2026-04-23 21:32:47",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2026-04-23 21:32:47",
       "album": {
-        "name": "00",
-        "url": "https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 134347,
-      "name": "00",
-      "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
-    },
-    {
-      "added_at": "2026-04-23 21:32:47",
-      "album": {
         "name": "Hellvisback",
         "url": "https://open.spotify.com/album/6o2ipzLDelm6yXU0v4ZOIK"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 249613,
       "name": "1984",
       "url": "https://open.spotify.com/track/0OU4v07h5oT26f4zmxzddH"
+    },
+    {
+      "added_at": "2026-04-23 21:32:47",
+      "album": {
+        "name": "00",
+        "url": "https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 134347,
+      "name": "00",
+      "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
     },
     {
       "added_at": "2026-04-23 21:32:47",

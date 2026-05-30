@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,908,678 likes - 125 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,908,862 likes - 125 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 49 | [False Pretense](https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 2:29 |
 | 50 | [All I Wanted](https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:45 |
 | 51 | [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 |
-| 52 | [Girl's Not Grey](https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:10 |
-| 53 | [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:27 |
-| 54 | [A Decade Under The Influence](https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:07 |
+| 52 | [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:27 |
+| 53 | [A Decade Under The Influence](https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:07 |
+| 54 | [Girl's Not Grey](https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:10 |
 | 55 | [Little Things](https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Charlotte](https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs) | 3:23 |
 | 56 | [The Great Escape](https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68) | 3:26 |
 | 57 | [The Best Of Me](https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Say It Like You Mean It](https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6) | 4:18 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 94 | [My Favorite Accident](https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [I Am The Movie](https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i) | 3:20 |
 | 95 | [I Just Wanna Run](https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [Best I Never Had](https://open.spotify.com/album/5fXNchpJ8jblaAsFQgVjLH) | 3:19 |
 | 96 | [You're So Last Summer](https://open.spotify.com/track/22opp9Depbmn43q5gSERwH) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 2:59 |
-| 97 | [Medicine](https://open.spotify.com/track/0uqTwEKTbkuhrn8yGSO6b5) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [breathe](https://open.spotify.com/album/1JMg02mQ5nmVKBWWoDUIeo) | 3:11 |
-| 98 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 |
+| 97 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 |
+| 98 | [Medicine](https://open.spotify.com/track/0uqTwEKTbkuhrn8yGSO6b5) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [breathe](https://open.spotify.com/album/1JMg02mQ5nmVKBWWoDUIeo) | 3:11 |
 | 99 | [The Medic](https://open.spotify.com/track/5KzuAU7zxcP0bq0CPdRRyr) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [The Albatross](https://open.spotify.com/album/7AiC8x8GIRbQK2ZROLox5f) | 3:22 |
 | 100 | [Goodbye My Love](https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM) | [Lovehatehero](https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq) | [White Lies](https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs) | 3:33 |
 | 101 | [Nikki](https://open.spotify.com/track/2xu7bTUyvvJMBMi6JXvWAZ) | [Forever The Sickest Kids](https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX) | [J.A.C.K.](https://open.spotify.com/album/6LPiuWcOA9oPH8IERVWhGr) | 3:44 |

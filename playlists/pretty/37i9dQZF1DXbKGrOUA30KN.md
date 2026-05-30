@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: JORIS
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,226 likes - 90 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,168 likes - 90 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 69 | [Liebe hat nicht ewig Zeit \(mit Tim Fischer\)](https://open.spotify.com/track/6aba1fAPry3bVP86xmFSTD) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR), [Tim Fischer](https://open.spotify.com/artist/6CZzwyMVpXk4qVy9CG0gxt) | [Stabile Poesie](https://open.spotify.com/album/2EqNBOXga1QE04Mno5CkvT) | 3:36 |
 | 70 | [kleiner reminder](https://open.spotify.com/track/3qT1ZE1MS8xf0qg4pMrXKt) | [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I) | [</3](https://open.spotify.com/album/5Ohm5ieAWkXCwmuN2cTdSd) | 2:26 |
 | 71 | [dann wird alles immer gut](https://open.spotify.com/track/5f9vVxNPqFc6UMzPu0sDWo) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [dann wird alles immer gut](https://open.spotify.com/album/4qlblODzkWZOC4vZgrUKOM) | 2:00 |
-| 72 | [Seelenruhig](https://open.spotify.com/track/2wfJuxPSkgoBeghpPX7IsB) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Seelenruhig](https://open.spotify.com/album/2agvFxxjA2iS17SNoAnWTZ) | 2:42 |
+| 72 | [Seelenruhig](https://open.spotify.com/track/2wfJuxPSkgoBeghpPX7IsB) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [LUNA](https://open.spotify.com/artist/52n7Mq10RdPfA7x1NW1uSq) | [Seelenruhig](https://open.spotify.com/album/2agvFxxjA2iS17SNoAnWTZ) | 2:42 |
 | 73 | [NIE WIEDER](https://open.spotify.com/track/7MLQqu5BcNGO78I4ozefEv) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [NIE WIEDER](https://open.spotify.com/album/5GSAR1jAcRlCAHLr5g1Rza) | 2:14 |
 | 74 | [Nickelodeon](https://open.spotify.com/track/6IR7O4OtqO7cNIXWsy6Ain) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Nickelodeon](https://open.spotify.com/album/0rJv3K7TOeDjod7aNTxgLm) | 2:27 |
 | 75 | [Nie mehr für immer](https://open.spotify.com/track/4rTKY2Iu3xmeAJwBr9aAMl) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Nie mehr für immer](https://open.spotify.com/album/2S0YuHNEfBbHgeYVE2pRHw) | 1:53 |

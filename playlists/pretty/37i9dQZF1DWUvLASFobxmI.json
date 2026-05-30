@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. David Ornelas en portada.",
-  "num_followers": 530235,
+  "num_followers": 530238,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "As\u00ed Es La Vida",
-        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 200357,
-      "name": "Pachamama",
-      "url": "https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Cheyenne",
         "url": "https://open.spotify.com/album/25A9GkAVwo5T9aT6oY5f4E"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 149457,
       "name": "Cheyenne",
       "url": "https://open.spotify.com/track/2p1dEFTP7tnan18oxyXOI7"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "As\u00ed Es La Vida",
+        "url": "https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 200357,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/7yF2xSIHaFSWTdaZWW5IPw"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "Con Los Ojos Cerrados",
-        "url": "https://open.spotify.com/album/6IGg5yVMpBMZpgI02Ltb4f"
-      },
-      "artists": [
-        {
-          "name": "Dinamicos Jrs",
-          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
-        }
-      ],
-      "duration_ms": 185997,
-      "name": "Con Los Ojos Cerrados",
-      "url": "https://open.spotify.com/track/54xWzsmkmnYYDvi3GzdneW"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Al Modo Villa",
         "url": "https://open.spotify.com/album/0yYyjz1d3UK1Lz5AlXDbr9"
       },
@@ -959,18 +943,34 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
-        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
+        "name": "Con Los Ojos Cerrados",
+        "url": "https://open.spotify.com/album/6IGg5yVMpBMZpgI02Ltb4f"
       },
       "artists": [
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
         }
       ],
-      "duration_ms": 286218,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
+      "duration_ms": 185997,
+      "name": "Con Los Ojos Cerrados",
+      "url": "https://open.spotify.com/track/54xWzsmkmnYYDvi3GzdneW"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
+        "name": "As\u00ed O M\u00e1s Vega Vol. 2",
+        "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 286218,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
         "name": "Soy Tan Tuyo",
         "url": "https://open.spotify.com/album/4zghh6p3DmXfCyRgXjBlgC"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 220377,
       "name": "Soy Tan Tuyo",
       "url": "https://open.spotify.com/track/0m1iRpW2FHqTkqSFKeHlJM"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
+        "name": "En Vivo Vol.4",
+        "url": "https://open.spotify.com/album/5Iog3hJn32L3VMprtQK9Yu"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 226101,
+      "name": "Y Por Lo Pronto - En Vivo",
+      "url": "https://open.spotify.com/track/0iMqJasK0kg8Z810F8V1J9"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
         "name": "Fondo de Pantalla",
         "url": "https://open.spotify.com/album/3p0BZHZ4TAqS5TMWOf0bcn"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 148504,
       "name": "Fondo de Pantalla",
       "url": "https://open.spotify.com/track/2kB7CPK1WlijXjrzeK58Gk"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
-        "name": "En Vivo Vol.4",
-        "url": "https://open.spotify.com/album/5Iog3hJn32L3VMprtQK9Yu"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 226101,
-      "name": "Y Por Lo Pronto - En Vivo",
-      "url": "https://open.spotify.com/track/0iMqJasK0kg8Z810F8V1J9"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "Legado Beltran",
-        "url": "https://open.spotify.com/album/16g7L4AGUl6NJRfFedVYyb"
-      },
-      "artists": [
-        {
-          "name": "Elio Vega",
-          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
-        }
-      ],
-      "duration_ms": 217650,
-      "name": "Legado Beltran",
-      "url": "https://open.spotify.com/track/0dp7E6LpxJWfAfGpJKq72m"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Las Tres Vueltas",
         "url": "https://open.spotify.com/album/4dhbOkmM9mHDD9zvn8ZQ7r"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 140832,
       "name": "Las Tres Vueltas",
       "url": "https://open.spotify.com/track/3oYMhtXh5wfMR4XpgX46RY"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "Legado Beltran",
+        "url": "https://open.spotify.com/album/16g7L4AGUl6NJRfFedVYyb"
+      },
+      "artists": [
+        {
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+        }
+      ],
+      "duration_ms": 217650,
+      "name": "Legado Beltran",
+      "url": "https://open.spotify.com/track/0dp7E6LpxJWfAfGpJKq72m"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "El Baquet\u00f3n",
-        "url": "https://open.spotify.com/album/2Xw6vC48yvWMU6sElKBRtQ"
-      },
-      "artists": [
-        {
-          "name": "Lupe Borbon y su Blindaje 7",
-          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
-        }
-      ],
-      "duration_ms": 149326,
-      "name": "El Baquet\u00f3n",
-      "url": "https://open.spotify.com/track/1GlmdM7hgqERuvzJR8aTIf"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Llamada Prohibida",
         "url": "https://open.spotify.com/album/0kCd03KyQWeyMTwVPPvvIW"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 158000,
       "name": "Llamada Prohibida",
       "url": "https://open.spotify.com/track/13pfpsGhaxPbSKZHuuc5Ni"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "El Baquet\u00f3n",
+        "url": "https://open.spotify.com/album/2Xw6vC48yvWMU6sElKBRtQ"
+      },
+      "artists": [
+        {
+          "name": "Lupe Borbon y su Blindaje 7",
+          "url": "https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl"
+        }
+      ],
+      "duration_ms": 149326,
+      "name": "El Baquet\u00f3n",
+      "url": "https://open.spotify.com/track/1GlmdM7hgqERuvzJR8aTIf"
     },
     {
       "added_at": "2026-05-22 06:00:43",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-05-22 06:00:43",
       "album": {
-        "name": "C\u00f3mo est\u00e1s t\u00fa",
-        "url": "https://open.spotify.com/album/5CnLsMoKIXFOnT8vcstLBE"
-      },
-      "artists": [
-        {
-          "name": "Jorge Morales El Jilguero",
-          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "C\u00f3mo est\u00e1s t\u00fa",
-      "url": "https://open.spotify.com/track/3FGlyZ16PQEdLgcjSNCSGt"
-    },
-    {
-      "added_at": "2026-05-22 06:00:43",
-      "album": {
         "name": "Vivir con ella",
         "url": "https://open.spotify.com/album/5HsY1UVumFj3q4njaxApeU"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 184960,
       "name": "Vivir con ella",
       "url": "https://open.spotify.com/track/6E0FinAlvA6nUUWQaIrPN5"
+    },
+    {
+      "added_at": "2026-05-22 06:00:43",
+      "album": {
+        "name": "C\u00f3mo est\u00e1s t\u00fa",
+        "url": "https://open.spotify.com/album/5CnLsMoKIXFOnT8vcstLBE"
+      },
+      "artists": [
+        {
+          "name": "Jorge Morales El Jilguero",
+          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "C\u00f3mo est\u00e1s t\u00fa",
+      "url": "https://open.spotify.com/track/3FGlyZ16PQEdLgcjSNCSGt"
     },
     {
       "added_at": "2026-05-22 06:00:43",

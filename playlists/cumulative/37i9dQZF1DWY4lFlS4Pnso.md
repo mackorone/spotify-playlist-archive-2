@@ -4,7 +4,7 @@
 
 > The UK's biggest playlist\. Cover: Ella Langley
 
-475 songs - 1 day 1 hr 18 min
+476 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Hairdresser](https://open.spotify.com/track/3ACuAlEUbOaRICryHUPoSL) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Hairdresser](https://open.spotify.com/album/45x0oOtcheQTInFbozCoWE) | 3:27 | 2025-05-08 | 2025-05-23 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-07 | 2025-04-04 |
 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 | 2024-03-25 | 2025-02-14 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 | 2025-04-22 | 2025-06-10 |
 | [Heaterz](https://open.spotify.com/track/2xq0T6R1a1cFBYCn7HPKtt) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Heaterz](https://open.spotify.com/album/6WRkgezvMJYr3bkSFUCPqU) | 2:40 | 2024-11-29 | 2025-01-17 |
 | [Heaven Or Hell](https://open.spotify.com/track/7zF3KNGz44bjX9WMneSvWr) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [Heaven or Hell](https://open.spotify.com/album/2hSBelgvz5Wi4anXg9M7KP) | 2:31 | 2024-02-16 | 2024-03-29 |

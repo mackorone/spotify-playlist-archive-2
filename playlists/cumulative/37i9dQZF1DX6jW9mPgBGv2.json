@@ -1435,6 +1435,28 @@
     },
     {
       "album": {
+        "name": "ESTA ENERG\u00cdA",
+        "url": "https://open.spotify.com/album/7kORV98udhkmoMsu3pc3MJ"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        },
+        {
+          "name": "Maggic",
+          "url": "https://open.spotify.com/artist/1ItNVcT1VXX8JcgBtS6C54"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "ESTA ENERG\u00cdA",
+      "url": "https://open.spotify.com/track/5B5QVDNWMCQREj7PuzTWzE"
+    },
+    {
+      "album": {
         "name": "Estamos Arriba",
         "url": "https://open.spotify.com/album/48eb5w6QS1v1YnLsw1fNkG"
       },

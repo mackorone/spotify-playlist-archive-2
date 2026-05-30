@@ -4,7 +4,7 @@
 
 > This is Banda MS de Sergio Lizárraga\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 1 min
+94 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Es Viernes](https://open.spotify.com/track/6SXlVEDXV7bMS4A3kbAGlc) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Es Viernes](https://open.spotify.com/album/6wxNV1UqQ5r80Dee8C1QOJ) | 3:36 | 2023-12-13 | 2023-12-31 |
 | [Estás Cancelada](https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Edición Limitada](https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF) | 2:48 | 2025-03-08 | 2025-09-23 |
 | [Hay Que Hacer Dinero](https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Hay Que Hacer Dinero](https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN) | 2:59 | 2023-08-08 | 2023-12-25 |
-| [Hermosa Experiencia](https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [10º Aniversario](https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk) | 2:33 | 2023-08-08 |  |
+| [Hermosa Experiencia](https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [10º Aniversario](https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk) | 2:33 | 2023-08-08 | 2026-05-30 |
+| [Hermosa Experiencia](https://open.spotify.com/track/6MbR83TqwZTJvZ3xuShoxU) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [10º Aniversario](https://open.spotify.com/album/2GjDcdVP24lmoBAh6oZYnP) | 2:33 | 2026-05-30 |  |
 | [Háblame De Ti](https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL) | 3:10 | 2023-08-08 |  |
 | [Ibas De Salida](https://open.spotify.com/track/369qTpwZBsjQ4LLakE5nRj) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Ibas De Salida](https://open.spotify.com/album/2peeWMWXIRp5R6vpyriJl4) | 3:22 | 2026-04-19 |  |
 | [Increíble](https://open.spotify.com/track/240IA16ruWe9xOjPy16lJy) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [En Preparación](https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF) | 2:48 | 2023-08-08 |  |

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: Chilli Beans.
 
-3,787 songs - 10 day 1 hr 10 min
+3,788 songs - 10 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,7 @@
 | [Ditty \- NV](https://open.spotify.com/track/5RsahemEpfCPpRXu7pdiih) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [NV](https://open.spotify.com/album/6NebdhrFtfzmuCqMTxXoU3) | 2:37 | 2025-04-01 | 2025-04-09 |
 | [Dive](https://open.spotify.com/track/4f4x2kMaLHM34iI3Mf5Oqv) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [VIA](https://open.spotify.com/album/4GOFbrXksrL1KmBrKF5OMm) | 3:37 | 2025-05-21 | 2025-05-28 |
 | [Dive](https://open.spotify.com/track/3gfkOywioaszbMdbxd0dVO) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [Ryoma Takamura](https://open.spotify.com/artist/4DQarWq5qDQV42Kz4dnedK) | [Dive](https://open.spotify.com/album/5IeUMnZm94sq4TSRxonXM7) | 2:55 | 2022-06-07 | 2022-06-15 |
-| [DIY](https://open.spotify.com/track/2BwfC8I7Y7IqOGDq2P9qcV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [DIY](https://open.spotify.com/album/40lBXGiHkC8ADfs5wip9jE) | 2:28 | 2026-01-20 |  |
+| [DIY](https://open.spotify.com/track/2BwfC8I7Y7IqOGDq2P9qcV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [DIY](https://open.spotify.com/album/40lBXGiHkC8ADfs5wip9jE) | 2:28 | 2026-01-20 | 2026-05-30 |
 | [Do What U Love](https://open.spotify.com/track/1qn2VwBsPI0iF6uiqOylRD) | [Kaoru Tominaga](https://open.spotify.com/artist/7h8VFlFvY1tPKovx1mKTGE), [Sho Asano](https://open.spotify.com/artist/7oNLOW0qxiKDZnG9xkP6CX) | [Do What U Love](https://open.spotify.com/album/2IHKQdjkiFyCO1yqz5IcZI) | 3:37 | 2022-06-21 | 2022-06-29 |
 | [Dogs](https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Dogs](https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC) | 4:56 | 2026-03-24 |  |
 | [doll](https://open.spotify.com/track/4LbegEhpVETr2aAOoo6kP5) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/6DSelDneeVFEluC97trMur) | 3:33 | 2023-11-21 | 2023-12-14 |
@@ -2405,6 +2405,7 @@
 | [はじめての気持ち](https://open.spotify.com/track/2rtsAFgv7XpFdqiZKRNnQg) | [Hana Sekitori](https://open.spotify.com/artist/68AgFdMHxeVZ8cUX31HlCq) | [はじめての気持ち](https://open.spotify.com/album/2G8a31nz9dZjsdUnQ5nLLQ) | 3:51 | 2024-07-25 | 2024-07-31 |
 | [はだかのピエロ](https://open.spotify.com/track/5n8B6kkQiQxA4mZAtZ2wXm) | [YUI](https://open.spotify.com/artist/3YOQiVsuddjx1oXVLmFPR5) | [『まなざし』 ～羊毛とおはなトリビュート～](https://open.spotify.com/album/3ulQkh3QCuLs4lNbPuwYHq) | 5:42 | 2024-05-21 | 2024-05-29 |
 | [はなむけの歌](https://open.spotify.com/track/3mZVSIHse4wetcIUc21ukK) | [Anri Kumaki](https://open.spotify.com/artist/03r5Qp1stBSmYxUSF7T7vc) | [はなむけの歌](https://open.spotify.com/album/2GiA5qyValMUHvMvDDa5Y2) | 4:29 | 2022-06-07 | 2022-06-27 |
+| [はなればなれ](https://open.spotify.com/track/5vpAgWkl4NgLs6Kuq6QFBu) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [はなればなれ](https://open.spotify.com/album/66XnpUJbdZSQ3bn3JY54NP) | 4:17 | 2026-05-26 |  |
 | [ひかりのあと](https://open.spotify.com/track/1O4fQNBqrJobEphruJJyjk) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [ひかりのあと / skip](https://open.spotify.com/album/0fWCvzwQ1YZD1qaxCEN54n) | 4:41 | 2023-10-24 | 2023-11-29 |
 | [ひかりのはなし](https://open.spotify.com/track/3yxCQpvmHOd2OOLmcghJEA) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [ひかりのはなし](https://open.spotify.com/album/6IFxKWApysHfpQIYN524xw) | 5:53 | 2022-07-26 | 2022-08-03 |
 | [ひかりの国](https://open.spotify.com/track/5fH0ynHoRCXR7VIYCflBPC) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ひかりの国](https://open.spotify.com/album/15RcfQBTOcXLC1t5X9bn3r) | 5:16 | 2022-06-07 | 2022-07-06 |

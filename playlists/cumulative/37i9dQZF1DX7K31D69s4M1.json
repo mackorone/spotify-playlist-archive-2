@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "A Dream",
+        "url": "https://open.spotify.com/album/1EzcxhjcaKM39ER6k6Psl2"
+      },
+      "artists": [
+        {
+          "name": "Kisane",
+          "url": "https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "A Dream",
+      "url": "https://open.spotify.com/track/4s4hhKi9vtxeIbaWKNc6Bl"
+    },
+    {
+      "album": {
         "name": "A French Film",
         "url": "https://open.spotify.com/album/2JmiWAL0pcAGTBatnbPcp4"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 133340,
       "name": "A Gentle Place",
       "url": "https://open.spotify.com/track/2kgwWNOn9IUCoQuJIReVUH"
@@ -470,7 +488,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 133970,
       "name": "A New Beginning",
       "url": "https://open.spotify.com/track/1Z1PcKjgCAf2O9VQommZgB"
@@ -542,7 +560,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 175354,
       "name": "A passing season",
       "url": "https://open.spotify.com/track/0kcNgvxO5miMzPqkFYoeqK"
@@ -1997,6 +2015,24 @@
     },
     {
       "album": {
+        "name": "And Forever",
+        "url": "https://open.spotify.com/album/7r2TMyr3b7Izr7Ugpe6qZ8"
+      },
+      "artists": [
+        {
+          "name": "Lioren",
+          "url": "https://open.spotify.com/artist/1Jg11umTUvDuwHLaat07hO"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144938,
+      "name": "And Forever",
+      "url": "https://open.spotify.com/track/09I1GjBjKqkbhwebFE5wmW"
+    },
+    {
+      "album": {
         "name": "And it Starts to Rain",
         "url": "https://open.spotify.com/album/00ilvHLWNO3SaC4uXl8J3L"
       },
@@ -2728,7 +2764,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 150950,
       "name": "Avignon",
       "url": "https://open.spotify.com/track/4QtIR11IW8W62Fl6J1gXpB"
@@ -3376,7 +3412,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 139467,
       "name": "Beneath",
       "url": "https://open.spotify.com/track/3Yk4gfSFT4i8k4vOWYX8rn"
@@ -3772,7 +3808,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 159750,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/3Ww0Guhe9loz9l2L1kZGWb"
@@ -4190,7 +4226,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 141014,
       "name": "Campania",
       "url": "https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9"
@@ -4872,7 +4908,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 167232,
       "name": "Close to the Heart",
       "url": "https://open.spotify.com/track/4GKamFKbj9c6bDB708nhlB"
@@ -5164,7 +5200,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 150854,
       "name": "Como Nights",
       "url": "https://open.spotify.com/track/38LK6J6rTadvqkZ2cdYlyc"
@@ -6262,7 +6298,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 129375,
       "name": "Desde el alma",
       "url": "https://open.spotify.com/track/1e1WFPBz50KtAuNyHitfW4"
@@ -7310,7 +7346,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 200843,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/741SePkge5anOObH5JLG5r"
@@ -7706,7 +7742,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 178500,
       "name": "Equinox",
       "url": "https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU"
@@ -7778,7 +7814,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 171750,
       "name": "Erz\u00e4hlung",
       "url": "https://open.spotify.com/track/7KGvAbdvYZEtTOCIWNG205"
@@ -9078,7 +9114,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 138187,
       "name": "Flower Wings",
       "url": "https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S"
@@ -13464,7 +13500,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 132509,
       "name": "It Rained Last Night",
       "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
@@ -15682,7 +15718,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 167647,
       "name": "Little blue girl",
       "url": "https://open.spotify.com/track/3pj9S5PnK0mEDIsjuCFr9U"
@@ -15772,7 +15808,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 141216,
       "name": "Littoral",
       "url": "https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd"
@@ -16762,7 +16798,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 143034,
       "name": "Making peace",
       "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
@@ -18246,7 +18282,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 184035,
       "name": "Morning Dance",
       "url": "https://open.spotify.com/track/1VVuP4EiUrFa3C0qHHe0rX"
@@ -18750,7 +18786,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 146125,
       "name": "My Solace My Home",
       "url": "https://open.spotify.com/track/0mD5cqe5rW4rPjlEBpRqUK"
@@ -19326,7 +19362,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 141818,
       "name": "Noct\u00e9",
       "url": "https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7"
@@ -19474,7 +19510,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 143874,
       "name": "Notions",
       "url": "https://open.spotify.com/track/118Gg76FPkdYt2uWzYejHh"
@@ -21238,7 +21274,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 152318,
       "name": "Passing Of Time",
       "url": "https://open.spotify.com/track/06lKhfeuTUsYCAlY7RdvRO"
@@ -22124,7 +22160,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 145566,
       "name": "Prati",
       "url": "https://open.spotify.com/track/7rXBrWGuXfc64IG5gD7Kee"
@@ -22574,7 +22610,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 131000,
       "name": "Quiet Nights",
       "url": "https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx"
@@ -22970,7 +23006,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 125804,
       "name": "Remain",
       "url": "https://open.spotify.com/track/2UZFceHSxA4HUsPdOp5Vzr"
@@ -23006,7 +23042,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 156500,
       "name": "Remember those quiet evenings",
       "url": "https://open.spotify.com/track/6K6xmEal7cYw4UaWr5W88w"
@@ -24566,7 +24602,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 147524,
       "name": "Secret Meadow",
       "url": "https://open.spotify.com/track/0CtYYa8anV9WcP4R7WEP6c"
@@ -24854,7 +24890,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 157916,
       "name": "Serenely",
       "url": "https://open.spotify.com/track/7dKsQh0b4fD43fxKEG47LS"
@@ -25704,7 +25740,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 146823,
       "name": "Snow-covered gardens",
       "url": "https://open.spotify.com/track/3DlgODi91SEXoYmgpVSc2U"
@@ -25848,7 +25884,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 207111,
       "name": "Sogni di Positano",
       "url": "https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY"
@@ -26874,7 +26910,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 130225,
       "name": "Stockholm Nocturne",
       "url": "https://open.spotify.com/track/3xNxdbEfDZRZbLm2ssng5F"
@@ -27818,7 +27854,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 138126,
       "name": "The Call Within",
       "url": "https://open.spotify.com/track/4JI39eHqlsxMhzBw0vpUJa"
@@ -27872,7 +27908,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 124500,
       "name": "The Conversation",
       "url": "https://open.spotify.com/track/7w8BJ0wsGFDSJuovWwwtF6"
@@ -29006,7 +29042,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 144775,
       "name": "The Stars And The Sea",
       "url": "https://open.spotify.com/track/3qKxRzPbXwEG3AFnpOFCVq"
@@ -29060,7 +29096,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 139424,
       "name": "The time it takes",
       "url": "https://open.spotify.com/track/4mbhsk7uTmqPYSpUKRICne"
@@ -29276,7 +29312,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 178624,
       "name": "There Is Light",
       "url": "https://open.spotify.com/track/4ZdgNKRy8OJcuUEAfErHfZ"
@@ -29348,7 +29384,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 134211,
       "name": "Thirsty Conversation",
       "url": "https://open.spotify.com/track/16fE7hNcwAY1jLN8eJJ22a"
@@ -30918,7 +30954,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 135013,
       "name": "Up",
       "url": "https://open.spotify.com/track/6a04n0DK9frDlgWEQkl2S8"
@@ -31476,7 +31512,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 159466,
       "name": "Villa Cortese",
       "url": "https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu"
@@ -31818,7 +31854,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 163072,
       "name": "Warm Embrace",
       "url": "https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp"
@@ -32358,7 +32394,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 131377,
       "name": "When We Were Two",
       "url": "https://open.spotify.com/track/2mP864ibWF6iscuKFnaFuh"

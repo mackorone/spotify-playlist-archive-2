@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Jordymone9
 
-[Spotify](https://open.spotify.com/user/spotify) - 707,141 likes - 60 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,127 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 18 | [Queen Treatment](https://open.spotify.com/track/7Haxic1q7JdJEMPYQtRnGj) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [Queen Treatment](https://open.spotify.com/album/2ppjSromD7XOUKWZzrZeq1) | 2:08 |
 | 19 | [Droom Soms](https://open.spotify.com/track/1mp44FAkM8LBrQGwsUUgqu) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Rode Kaart](https://open.spotify.com/album/0jxPTJsu6k7FdcacUuDY54) | 2:57 |
 | 20 | [Bawler](https://open.spotify.com/track/1qHe7zqGYKsAz8FNbTKysZ) | [MRD](https://open.spotify.com/artist/1Ph1cqOn7flTxltVNis2l9), [DODO](https://open.spotify.com/artist/0Q73wiY36HDHHvxE9fAI95) | [Bawler](https://open.spotify.com/album/7fbKomNs3D53se4Y6IR3cW) | 2:19 |
-| 21 | [Wie Is Die Man?!](https://open.spotify.com/track/0HWTnq9abLkyN9noktT4es) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Wie Is Die Man?!](https://open.spotify.com/album/2E0EpGVXjqBLdAsUyQFA7p) | 2:43 |
+| 21 | [Wie Is De Man?!](https://open.spotify.com/track/0HWTnq9abLkyN9noktT4es) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF), [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Wie Is De Man?!](https://open.spotify.com/album/2E0EpGVXjqBLdAsUyQFA7p) | 2:43 |
 | 22 | [Geldteller 2](https://open.spotify.com/track/26GWbitB19xHI4tAu1jkk3) | [Geechi](https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W) | [Geldteller 2](https://open.spotify.com/album/6YcdlM5B8Izo0sHcFEuKA4) | 2:03 |
 | 23 | [Toxic](https://open.spotify.com/track/2Go05djCQi4zVufi2XFcsQ) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Toxic](https://open.spotify.com/album/7liVvdipZeK6caApJkWSqd) | 2:31 |
 | 24 | [Tijd Gaat Snel](https://open.spotify.com/track/6Hy2JMJ4TQdxQVOoRxpIrr) | [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [Tijd Gaat Snel](https://open.spotify.com/album/0ljPY2H1z3Q1Xbzl0kkcGs) | 2:50 |

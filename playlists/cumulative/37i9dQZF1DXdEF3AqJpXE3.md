@@ -2,9 +2,9 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Tame Impala, JENNIE
+> The best tracks from the world of music\. Cover: Olivia Rodrigo
 
-657 songs - 1 day 11 hr 54 min
+658 songs - 1 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [can we start again?](https://open.spotify.com/track/5KLsWrx2OWuW8FAWX0lsNl) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Glenn Yong](https://open.spotify.com/artist/30OV13xhfDuLD5dIMT3GNA) | [can we start again?](https://open.spotify.com/album/5rnh9GR2iyypl6D1ffifhO) | 4:28 | 2025-12-17 | 2026-02-05 |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2024-01-17 | 2024-05-16 |
 | [Catch Catch](https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 3:00 | 2026-04-08 | 2026-05-27 |
-| [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 | 2026-05-06 |  |
+| [CELEBRATION](https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CELEBRATION](https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL) | 2:33 | 2026-05-06 | 2026-05-30 |
 | [Centre of Attention](https://open.spotify.com/track/087AOY4fMpZo1DgroSr6fv) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Swim, Swim](https://open.spotify.com/album/3spFKVTaFAJ9vbx76Yg71e) | 3:03 | 2025-04-09 | 2025-05-08 |
 | [CGI](https://open.spotify.com/track/77gmlWMtpITWH9Yk3cDNpN) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [CGI](https://open.spotify.com/album/5PTwYGU9DJWa72cphcmmZ1) | 2:49 | 2026-03-18 | 2026-04-30 |
 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 | 2025-11-12 |  |
@@ -217,6 +217,7 @@
 | [HANDO\-CHOGUA](https://open.spotify.com/track/3ZjbJvHQGKEkPL3HUg2hRh) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HANDO\-CHOGUA](https://open.spotify.com/album/3i7leFgKCQKD2EqW7XkRhO) | 3:11 | 2025-12-31 | 2026-01-22 |
 | [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 | 2025-05-07 | 2025-06-05 |
 | [HAPPY MAN](https://open.spotify.com/track/0iq4tyrVjVfHHeOXYDMC8g) | [ZUHAIR](https://open.spotify.com/artist/3uaX4vj7m3bkWhcY9xooJ6), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [HAPPY MAN](https://open.spotify.com/album/5lBn1L7IijsEcWQ7nHbaI7) | 2:39 | 2024-12-25 | 2025-01-30 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-30 | 2025-09-04 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-10-02 | 2024-10-30 |
 | [Heavy Serenade](https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Heavy Serenade](https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg) | 3:00 | 2026-05-20 |  |

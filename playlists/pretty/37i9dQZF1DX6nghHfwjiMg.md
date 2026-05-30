@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,904 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,903 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,18 +19,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 9 | [Horóscopo \- 21:00](https://open.spotify.com/track/7hMVe5L6zluc4pCVEVznpN) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [Horóscopo \- 21:00](https://open.spotify.com/album/7zidZokFG6W5qS15J3VlfT) | 3:21 |
 | 10 | [Poder](https://open.spotify.com/track/43Qf6HSkCuXBQeOjjzacoT) | [Joaco Burgos](https://open.spotify.com/artist/2MDvrUsi9z2CCh8p0Iqo7A) | [Poder](https://open.spotify.com/album/4g0rqG42TcD9fN6XmiGXfX) | 5:04 |
 | 11 | [Lo mejor](https://open.spotify.com/track/7FcL1jwNdxTTqpGOzfxYGC) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf) | [Lo mejor](https://open.spotify.com/album/60OPdho3AHL5dXBMLlsTzr) | 3:25 |
-| 12 | [RABIA DEL CORAZÓN](https://open.spotify.com/track/3g2XcCoWk2oYM3moTFFQoc) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BAR SCORPIOS](https://open.spotify.com/album/6Rtfa37o0kuhuso3RwimZQ) | 3:54 |
-| 13 | [CAPITÁN](https://open.spotify.com/track/6B2HlVCB12CvtW3VJWUwVg) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [CAPITÁN](https://open.spotify.com/album/79KU6YUJgSaDPo94AjqlKz) | 3:13 |
-| 14 | [Elevados](https://open.spotify.com/track/396JLGShBHYMC67DDC8Vy3) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Emblema](https://open.spotify.com/album/2MXupQ2U7M4KdPyxGx7INp) | 3:18 |
-| 15 | [Octubre](https://open.spotify.com/track/5li1TvCfdNVZclNOWI9zVS) | [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf), [Vinyltracker](https://open.spotify.com/artist/3C1LbhIokOcNVlfGF9k6Qz) | [Octubre](https://open.spotify.com/album/77dT4Zu1Zhy0i7ppHZHIp4) | 2:36 |
-| 16 | [SANTO](https://open.spotify.com/track/4aNc07b8Fklka1TwNtQjEL) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [SANTO](https://open.spotify.com/album/7DSxMZEpdZ1fkOO2ghdjwt) | 2:54 |
-| 17 | [FK4 2.0](https://open.spotify.com/track/1YgIa9m3ZlcImBMghTfNWr) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [Sobredimensión](https://open.spotify.com/album/7DMMjxxwcmsVjDp6cPFShq) | 3:41 |
-| 18 | [Lluvioso](https://open.spotify.com/track/2Ls7UJ3wbTOQrDkyvZALwo) | [Julia Cry](https://open.spotify.com/artist/48Tw6zoAK5CrXY7cTHv8D0) | [Lluvioso](https://open.spotify.com/album/5tzcdizyRkn3k5LiuB4NA0) | 2:52 |
-| 19 | [LOS COLONOS](https://open.spotify.com/track/7MktbGIccRK3UxTfzcLN2l) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o), [Majo Chicar](https://open.spotify.com/artist/7yZIq6IICjh94zRexdl2fR) | [LOS COLONOS](https://open.spotify.com/album/4jr9MY9VU6JFVjyhCOO8KT) | 3:17 |
-| 20 | [bajare](https://open.spotify.com/track/2W6X9hHAYlVDW9ksl2d68D) | [Lito](https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW) | [bajare](https://open.spotify.com/album/7H1sGpah9AY06xW4QB3rPW) | 2:27 |
-| 21 | [OKUPAS](https://open.spotify.com/track/1JFOzm5blyqrenJCWaUDQs) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [OKUPAS](https://open.spotify.com/album/2sV73ALGXBEAXy2uxHJctQ) | 2:44 |
-| 22 | [Dossier](https://open.spotify.com/track/04hBXrNXKdlYGmPZ2orD7o) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Dossier](https://open.spotify.com/album/3yOGQeve6r2M9yNaA3Y3wH) | 2:43 |
-| 23 | [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 |
+| 12 | [Capital](https://open.spotify.com/track/6HgoLwaS6qMbR5QlkBmVTU) | [Marcos Gaba](https://open.spotify.com/artist/1P12QdGTRg6fc7EELbk94J) | [Un Diablo Distinto](https://open.spotify.com/album/2nvfhkq2n20Bayoo6NBM0M) | 3:30 |
+| 13 | [RABIA DEL CORAZÓN](https://open.spotify.com/track/3g2XcCoWk2oYM3moTFFQoc) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BAR SCORPIOS](https://open.spotify.com/album/6Rtfa37o0kuhuso3RwimZQ) | 3:54 |
+| 14 | [CAPITÁN](https://open.spotify.com/track/6B2HlVCB12CvtW3VJWUwVg) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [CAPITÁN](https://open.spotify.com/album/79KU6YUJgSaDPo94AjqlKz) | 3:13 |
+| 15 | [Elevados](https://open.spotify.com/track/396JLGShBHYMC67DDC8Vy3) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Emblema](https://open.spotify.com/album/2MXupQ2U7M4KdPyxGx7INp) | 3:18 |
+| 16 | [Octubre](https://open.spotify.com/track/5li1TvCfdNVZclNOWI9zVS) | [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf), [Vinyltracker](https://open.spotify.com/artist/3C1LbhIokOcNVlfGF9k6Qz) | [Octubre](https://open.spotify.com/album/77dT4Zu1Zhy0i7ppHZHIp4) | 2:36 |
+| 17 | [SANTO](https://open.spotify.com/track/4aNc07b8Fklka1TwNtQjEL) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [SANTO](https://open.spotify.com/album/7DSxMZEpdZ1fkOO2ghdjwt) | 2:54 |
+| 18 | [FK4 2.0](https://open.spotify.com/track/1YgIa9m3ZlcImBMghTfNWr) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [Sobredimensión](https://open.spotify.com/album/7DMMjxxwcmsVjDp6cPFShq) | 3:41 |
+| 19 | [Lluvioso](https://open.spotify.com/track/2Ls7UJ3wbTOQrDkyvZALwo) | [Julia Cry](https://open.spotify.com/artist/48Tw6zoAK5CrXY7cTHv8D0) | [Lluvioso](https://open.spotify.com/album/5tzcdizyRkn3k5LiuB4NA0) | 2:52 |
+| 20 | [LOS COLONOS](https://open.spotify.com/track/7MktbGIccRK3UxTfzcLN2l) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o), [Majo Chicar](https://open.spotify.com/artist/7yZIq6IICjh94zRexdl2fR) | [LOS COLONOS](https://open.spotify.com/album/4jr9MY9VU6JFVjyhCOO8KT) | 3:17 |
+| 21 | [bajare](https://open.spotify.com/track/2W6X9hHAYlVDW9ksl2d68D) | [Lito](https://open.spotify.com/artist/3y7HnEVrtqMCiz1I7gLjGW) | [bajare](https://open.spotify.com/album/7H1sGpah9AY06xW4QB3rPW) | 2:27 |
+| 22 | [OKUPAS](https://open.spotify.com/track/1JFOzm5blyqrenJCWaUDQs) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [OKUPAS](https://open.spotify.com/album/2sV73ALGXBEAXy2uxHJctQ) | 2:44 |
+| 23 | [Dossier](https://open.spotify.com/track/04hBXrNXKdlYGmPZ2orD7o) | [Trucha](https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW) | [Dossier](https://open.spotify.com/album/3yOGQeve6r2M9yNaA3Y3wH) | 2:43 |
 | 24 | [Dejame de Joder](https://open.spotify.com/track/7edfsFmsbjrcKKsCxxQzBE) | [SOFA](https://open.spotify.com/artist/1qq6GushnQDP09yNO9VcEX) | [Dejame de Joder](https://open.spotify.com/album/0tw7URjGOJqmjdH55c1zu6) | 2:26 |
 | 25 | [Genio del Abasto](https://open.spotify.com/track/0kjrG36QkUzHmJHJ5Db6M9) | [Camionero](https://open.spotify.com/artist/6mwXlhRao6ThMMjARoOTIc) | [Club Camionero](https://open.spotify.com/album/19MHzE83J3kPtnYoP2ph61) | 5:08 |
 | 26 | [No esperes nada](https://open.spotify.com/track/2zUu0Yxl8kbawwgemMv1Xt) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [No esperes nada](https://open.spotify.com/album/7wwlW8Om4ZeOHNDdD1TIpr) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 49 | [Marfil](https://open.spotify.com/track/2C7a49yOHA2eUHndOZ8YjJ) | [Faus K](https://open.spotify.com/artist/4Dp9S8ukWAo7FOIloXG2mp) | [Marfil / E.M.C](https://open.spotify.com/album/3kGuw41SZs0uBDTaTudef1) | 1:42 |
 | 50 | [Entre Lazos](https://open.spotify.com/track/1YQ1QK6S5QpfFdbzV74KSj) | [Mariano Brocchini](https://open.spotify.com/artist/0F2RJxdzNxdnAIg43Sh7H2), [MARTIN JOTA YUBRO](https://open.spotify.com/artist/22blB9WFLiajsDgReo97BU) | [Entre Lazos](https://open.spotify.com/album/3tXjgHkdAM7uVRBHZRYgtY) | 3:05 |
 
-Snapshot ID: `AAAAAM4xv6PFSfLRPYcQJa2hakxEIv6x`
+Snapshot ID: `AAAAABxs+EYqhJyVUS/bTMVpT9p6Ju/z`

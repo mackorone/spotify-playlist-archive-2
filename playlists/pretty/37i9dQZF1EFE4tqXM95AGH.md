@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,410 likes - 189 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,412 likes - 189 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 56 | [Here All Night](https://open.spotify.com/track/5sGAAbdvqyRifmUt0IeQia) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 2:56 |
 | 57 | [Smoke Slow](https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Smoke Slow](https://open.spotify.com/album/4XJN8Qw5AGmKnDHbaiE05b) | 2:43 |
 | 58 | [Someone Else](https://open.spotify.com/track/28HfRT3Zjmt1KgIZFjlWlW) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:04 |
-| 59 | [Feel Something](https://open.spotify.com/track/5VNcKdmfAAsfbxbuo1Y7Vl) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Feel Something](https://open.spotify.com/album/2v5pXN3a4Ls3cqiTXmvTFD) | 2:35 |
-| 60 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
+| 59 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
+| 60 | [Feel Something](https://open.spotify.com/track/5VNcKdmfAAsfbxbuo1Y7Vl) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Feel Something](https://open.spotify.com/album/2v5pXN3a4Ls3cqiTXmvTFD) | 2:35 |
 | 61 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 |
-| 62 | [I Can't Stop Me](https://open.spotify.com/track/1AVVv4FgNLxQlV64j7dfP1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:42 |
-| 63 | [Silly](https://open.spotify.com/track/0Brx9I3vh7Po30gxsTtLz5) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:38 |
+| 62 | [Silly](https://open.spotify.com/track/0Brx9I3vh7Po30gxsTtLz5) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:38 |
+| 63 | [I Can't Stop Me](https://open.spotify.com/track/1AVVv4FgNLxQlV64j7dfP1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:42 |
 | 64 | [Telephone Busy](https://open.spotify.com/track/2JgwHnrqubIzSSlwVlu9mY) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0zkgIyTdpvOpV5z4oK7c2j) | 3:15 |
 | 65 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 |
 | 66 | [STUD](https://open.spotify.com/track/1trCZF4aa39AhDCfTBw8Qn) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:29 |
@@ -172,8 +172,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 162 | [1991](https://open.spotify.com/track/1RAoTgX7utbegR8hZWGthA) | [Kat Graham](https://open.spotify.com/artist/4rPZIJpeNz7GBm2t8YhR7j) | [Roxbury Drive](https://open.spotify.com/album/1e0lSv5aE8x3wAuaFFvv6r) | 3:15 |
 | 163 | [All My Issues](https://open.spotify.com/track/0QEQmLonfSYWYmU6w2l8TD) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Excuse Me \(Deluxe\)](https://open.spotify.com/album/3CEWoLRhNHEtBcw1wmgWd8) | 3:16 |
 | 164 | [Chainmail](https://open.spotify.com/track/0JhS4sHLmNN0St0YgXLwjd) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Ur an Angel I’m Just Particles](https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93) | 2:46 |
-| 165 | [Everything You Want \(feat\. MUNA\)](https://open.spotify.com/track/6FtRq9dtuyZdcSkqhnBANh) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Have You Heard of Christmas?](https://open.spotify.com/album/24iTQVXRE5uO3sW7yBMyiC) | 3:38 |
-| 166 | [SWIMMING POOLS](https://open.spotify.com/track/18mCnmIVtNQoQTMs9AclYh) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood](https://open.spotify.com/album/64AUWuw7LstVHT40CmFVg4) | 3:24 |
+| 165 | [SWIMMING POOLS](https://open.spotify.com/track/18mCnmIVtNQoQTMs9AclYh) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood](https://open.spotify.com/album/64AUWuw7LstVHT40CmFVg4) | 3:24 |
+| 166 | [Everything You Want \(feat\. MUNA\)](https://open.spotify.com/track/6FtRq9dtuyZdcSkqhnBANh) | [Matt Rogers](https://open.spotify.com/artist/437cckneXTy4cj15iUWAVZ), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Have You Heard of Christmas?](https://open.spotify.com/album/24iTQVXRE5uO3sW7yBMyiC) | 3:38 |
 | 167 | [FYI](https://open.spotify.com/track/0NFMRxhxAPudloawaWi3oq) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:24 |
 | 168 | [Two Thumbs](https://open.spotify.com/track/6jEVA2JVqQPZ5S5XtPcac1) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [lil kiiwi](https://open.spotify.com/album/0AUG7Sa8IIiCHTW6GONdf2) | 2:56 |
 | 169 | [Windows](https://open.spotify.com/track/2sDjAcLzPYZYUYOtfk5R4x) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:16 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 188 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 189 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AcSvCAAAAABbM1DiW1+aAaHb0iN/Ntfd`
+Snapshot ID: `AcS02gAAAABlv2Idx4/3YaOLw3z6yGze`

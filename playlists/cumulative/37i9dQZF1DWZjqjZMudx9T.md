@@ -2,9 +2,9 @@
 
 ### [MANSIÓN REGGAETÓN](https://open.spotify.com/playlist/37i9dQZF1DWZjqjZMudx9T)
 
-> De la Calle a la Cima con Maluma.
+> De la Calle a la Cima con Alvaro Díaz.
 
-690 songs - 1 day 13 hr 51 min
+691 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Después De La 1](https://open.spotify.com/track/6PhRhocBXP4y7NpciGmzra) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [LOUKI](https://open.spotify.com/artist/6uzHLlGqFKaXYOnZyYmXYg) | [MJ](https://open.spotify.com/album/2lIzIH2mQQ0ItgkJKefQMp) | 2:57 | 2024-09-13 | 2026-04-16 |
 | [DIABLITA \(feat\. YOVNGCHIMI\)](https://open.spotify.com/track/1cUQCjn7fGme2wZQrWKvhw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 3:05 | 2024-08-30 | 2024-10-11 |
 | [Diablo, Qué Chimba](https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Diablo, Qué Chimba](https://open.spotify.com/album/1BZibC0fiDXBFq0lrP82Yy) | 3:52 | 2023-03-24 | 2023-05-20 |
-| [Diablota](https://open.spotify.com/track/5sv4Fmi0zlNMJm8JIRSfFM) | [Jossie A](https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Diablota](https://open.spotify.com/album/2jxVNLCjxItfzlTkk267Ue) | 2:30 | 2026-03-06 |  |
+| [Diablota](https://open.spotify.com/track/5sv4Fmi0zlNMJm8JIRSfFM) | [Jossie A](https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Diablota](https://open.spotify.com/album/2jxVNLCjxItfzlTkk267Ue) | 2:30 | 2026-03-06 | 2026-05-30 |
 | [Diabólica](https://open.spotify.com/track/4IJWhehNLXru5WfS71EWSx) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 3:12 | 2024-03-22 | 2024-06-28 |
 | [Dictadura](https://open.spotify.com/track/4yoc5cUWk4OFvqOcvFvw0o) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Dictadura](https://open.spotify.com/album/45dcycgr7aPRo5boag4A6h) | 3:28 | 2021-12-31 | 2022-02-26 |
 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 | 2022-12-09 | 2024-01-05 |
@@ -257,7 +257,7 @@
 | [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:50 | 2023-09-29 | 2023-10-12 |
 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 | 2022-07-22 | 2023-02-25 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-02-08 |  |
-| [GATA SENSUAL](https://open.spotify.com/track/5NjTcWpLUloHUiXUn64E0v) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [JEREMIAS](https://open.spotify.com/album/3DShOnGU64m1mESFNJoOA0) | 2:39 | 2026-03-06 |  |
+| [GATA SENSUAL](https://open.spotify.com/track/5NjTcWpLUloHUiXUn64E0v) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [JEREMIAS](https://open.spotify.com/album/3DShOnGU64m1mESFNJoOA0) | 2:39 | 2026-03-06 | 2026-05-30 |
 | [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-11-25 | 2022-12-24 |
 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 | 2022-12-22 | 2023-04-29 |
 | [Gatita](https://open.spotify.com/track/16gluNDUf7GitRH9W3Y4zI) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Gatita](https://open.spotify.com/album/5qU46sCdXutaPCKYLEv0NJ) | 3:24 | 2025-10-24 | 2025-11-29 |
@@ -406,6 +406,7 @@
 | [Na De Na](https://open.spotify.com/track/2Jz1X6ZB0gkkCVgmeVGVGp) | [Angel Y Khriz](https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo), [Gocho "El Lápiz De Platino"](https://open.spotify.com/artist/65VADjjC47dZbyOyrgNWJA), [John Eric](https://open.spotify.com/artist/0IUvQ8DrCymt5IHywZsda2) | [Showtime](https://open.spotify.com/album/26YeHRhZt1HHM0Ed9I9YFw) | 3:22 | 2023-08-11 | 2024-04-19 |
 | [Nadie Nos Vio \- Spotify Singles](https://open.spotify.com/track/0BibHMUWAVk5R4R0EpUOfX) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Nadie Nos Vio \- Spotify Singles](https://open.spotify.com/album/5TCDz405Ejfs2yEK9Mgu8c) | 2:40 | 2022-11-04 | 2022-12-02 |
 | [Nena Moxita](https://open.spotify.com/track/7gG2xMiojQrsTUGa7qeQoo) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [No Hay Loco Que No Corone](https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0) | 3:37 | 2024-11-29 | 2025-01-11 |
+| [Ni le cabe](https://open.spotify.com/track/6BMO15AObPwSeUzxtF2fep) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Do Not Disturb](https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A) | 3:10 | 2026-05-29 |  |
 | [Nivel De Perreo](https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Nivel De Perreo](https://open.spotify.com/album/6uDeoe39q6zh4vNScJTTgr) | 2:31 | 2022-07-01 | 2022-08-26 |
 | [Niña Bonita](https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [Mi Niña Bonita \- Reloaded](https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96) | 3:36 | 2023-12-21 | 2024-01-05 |
 | [Niña de Mis Sueños](https://open.spotify.com/track/5R70etCKr7FOqdTqnohNfT) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Niña de Mis Sueños](https://open.spotify.com/album/1EXy8WlpTf6BU7J2XLyjVG) | 2:41 | 2022-01-21 | 2022-02-12 |

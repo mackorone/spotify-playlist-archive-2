@@ -4,7 +4,7 @@
 
 > Pump it up with these current jams!
 
-914 songs - 1 day 22 hr 45 min
+915 songs - 1 day 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [BAILÉ CON MI EX](https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:41 | 2022-06-16 | 2022-06-17 |
 | [bandaids](https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [bandaids](https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX) | 3:08 | 2025-12-05 | 2026-04-25 |
 | [Bang!](https://open.spotify.com/track/4SQLQfcR0vhyIN4uPBlc0d) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0KC9H4iFOOWiKEa5IzKKOE) | 2:50 | 2023-12-08 | 2024-04-19 |
-| [Bang!](https://open.spotify.com/track/53BHUFdQphHiZUUG3nx9zn) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Bang!](https://open.spotify.com/album/7B36GsLpC6IogfPjjkRlj3) | 2:50 | 2022-03-25 |  |
+| [Bang!](https://open.spotify.com/track/53BHUFdQphHiZUUG3nx9zn) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Bang!](https://open.spotify.com/album/7B36GsLpC6IogfPjjkRlj3) | 2:50 | 2022-03-25 | 2026-05-30 |
 | [Bang!](https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 2:50 | 2022-07-27 | 2023-11-04 |
 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 | 2021-12-17 | 2022-10-15 |
 | [Beautiful](https://open.spotify.com/track/5yv6tEdYkY3EfWXGSMSnWj) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Beautiful](https://open.spotify.com/album/6XrF9flkOo2jQuCTXPitha) | 3:14 | 2021-12-17 | 2022-06-16 |
@@ -294,6 +294,7 @@
 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 | 2023-06-23 | 2023-07-22 |
 | [Funny](https://open.spotify.com/track/4FYbo4yQzu3hGkj2Ix4ucW) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Funny](https://open.spotify.com/album/5Q8Uyc3KUlPhPtMQDY5SWm) | 3:41 | 2021-12-17 | 2022-01-29 |
 | [Gaga](https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Gaga](https://open.spotify.com/album/0s0AvUobBkq1X2wIyapBME) | 3:08 | 2024-07-12 | 2024-08-24 |
+| [Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Game Time \(FIFA World Cup 2026™\)](https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e) | 3:26 | 2026-05-29 |  |
 | [Get By](https://open.spotify.com/track/5CEkI4CA4yHWEdiRDt1qlr) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Get By](https://open.spotify.com/album/0QQ1aWvzjFk14qU4vfOFbW) | 2:40 | 2024-08-23 | 2024-12-03 |
 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 | 2023-01-27 | 2023-04-01 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2021-12-17 |  |

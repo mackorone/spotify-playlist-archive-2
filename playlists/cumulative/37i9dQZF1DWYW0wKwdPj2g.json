@@ -2543,6 +2543,28 @@
     },
     {
       "album": {
+        "name": "Mwayenera - The Live Album",
+        "url": "https://open.spotify.com/album/4CguM9gNqGCX0pvY5ioAcZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kachala",
+          "url": "https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM"
+        },
+        {
+          "name": "Kelvin Sings",
+          "url": "https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564000,
+      "name": "Inu ndi Ine - Live",
+      "url": "https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr"
+    },
+    {
+      "album": {
         "name": "Iwo Lalagbara (Live)",
         "url": "https://open.spotify.com/album/5WdY8B71pH9TVWfN2Amu2s"
       },
@@ -5504,24 +5526,6 @@
       "duration_ms": 488338,
       "name": "Tobechukwu - Live",
       "url": "https://open.spotify.com/track/79zFqU5mmz9wnuKfjaiPJp"
-    },
-    {
-      "album": {
-        "name": "Mwayenera - The Live Album",
-        "url": "https://open.spotify.com/album/4CguM9gNqGCX0pvY5ioAcZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Kachala",
-          "url": "https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM"
-        }
-      ],
-      "date_added": "2026-05-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 15",
-      "url": "https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr"
     },
     {
       "album": {

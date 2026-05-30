@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 35321,
+  "num_followers": 35332,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAABhWaDT+ZwnPdH15542+/tG",
+  "snapshot_id": "aheFgAAAAABQDrecJ9ti5eGNhCpRhYMD",
   "tracks": [
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 257866,
-      "name": "Wind My Friend",
-      "url": "https://open.spotify.com/track/0ZEvHwX30aXeG4mSp1Hm7b"
+      "duration_ms": 220240,
+      "name": "The One Before The One",
+      "url": "https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
         }
       ],
-      "duration_ms": 220240,
-      "name": "The One Before The One",
-      "url": "https://open.spotify.com/track/4q0xcRhjaHS2xdOzyj1OnF"
+      "duration_ms": 257866,
+      "name": "Wind My Friend",
+      "url": "https://open.spotify.com/track/0ZEvHwX30aXeG4mSp1Hm7b"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Romance a la antig\u00fcita con Edgar Alejandro en portada.",
+  "description": "Romance a la antig\u00fcita con Cumbia Pedregal en portada.",
   "name": "nuevo bolero",
   "tracks": [
     {
@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
@@ -4409,6 +4409,24 @@
     },
     {
       "album": {
+        "name": "Sabor A Llanto",
+        "url": "https://open.spotify.com/album/0ruBpdOaeRb9Up44T8Z6Of"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Pedregal",
+          "url": "https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203364,
+      "name": "Mi Alma Llorar\u00e1",
+      "url": "https://open.spotify.com/track/2ph1HxLM9MBQUs4mmlRWrW"
+    },
+    {
+      "album": {
         "name": "Asondeguerra",
         "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
       },
@@ -4508,6 +4526,28 @@
       "duration_ms": 136667,
       "name": "Mil Vidas",
       "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
+    },
+    {
+      "album": {
+        "name": "Mirando desde afuera",
+        "url": "https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        },
+        {
+          "name": "Agley",
+          "url": "https://open.spotify.com/artist/610h9Z4AAchvlW9qbE3hrY"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203750,
+      "name": "Mirando desde afuera",
+      "url": "https://open.spotify.com/track/4OMlNCvyT33krYLAtFy1Rx"
     },
     {
       "album": {
@@ -4808,7 +4848,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 174066,
       "name": "No me reproches",
       "url": "https://open.spotify.com/track/3dYMoXfLNJveflEypwaUeA"

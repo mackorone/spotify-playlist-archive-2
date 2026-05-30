@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Introducing RADAR Philippines Cast of 2026\. Cover: NEW LORE
+> Introducing RADAR Philippines Cast of 2026\. Cover: VVINK
 
-337 songs - 19 hr 53 min
+340 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [KAYA](https://open.spotify.com/track/6Kyrp5B4EUGApMnG4wDd8f) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [TURN UP](https://open.spotify.com/album/0MeFcaT811f9uSL73V0Cw0) | 3:34 | 2023-11-29 | 2024-01-12 |
 | [Kaya](https://open.spotify.com/track/79o5nlwnNk8oiK1cR6YC5i) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Kaya](https://open.spotify.com/album/1domLnNrgElxmpiDSSCYaC) | 4:28 | 2022-03-24 | 2023-04-14 |
 | [kbye](https://open.spotify.com/track/4B1pUZ8PlVG9Pbdjw9jMND) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [kbye](https://open.spotify.com/album/5RrHk4eQajkuqG03iNChlF) | 3:34 | 2021-11-25 | 2022-03-25 |
+| [KEMBOT](https://open.spotify.com/track/6DeMGenzdbi7BOKK3I3GCH) | [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu), [Playboy Baby](https://open.spotify.com/artist/2nCzMC3g3hmRg348Eyot8d), [Sordan](https://open.spotify.com/artist/1uC1cHZPMFyqkgTpc2rwyn) | [KEMBOT](https://open.spotify.com/album/40ZY9W7XiC0atnYcJOtPX9) | 3:24 | 2026-05-29 |  |
 | [Kisame](https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [Kisame](https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe) | 3:32 | 2026-04-06 |  |
 | [Kulay \(Miss Universe Philippines 2021\)](https://open.spotify.com/track/55HcwpBtgFIKmY1v1OZss8) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Kulay \(Miss Universe Philippines 2021\)](https://open.spotify.com/album/34MnMmfkCLs4Y4HTXz9fqJ) | 4:09 | 2021-11-25 | 2022-03-25 |
 | [Kung Di Mo Alam](https://open.spotify.com/track/73lcuoa9ZIRQhXNVRo81Kc) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Kung Di Mo Alam](https://open.spotify.com/album/1DRvYTu2nZlcKKixTQ7iIQ) | 2:57 | 2025-10-06 | 2026-04-07 |
@@ -220,6 +221,7 @@
 | [otw](https://open.spotify.com/track/3Wh9QrUzz5sEkiZAVUB9o1) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [otw](https://open.spotify.com/album/1yRluH890LAb0yIo1Ce2GV) | 3:32 | 2025-06-23 | 2026-04-07 |
 | [Padaba Taka](https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Padaba Taka](https://open.spotify.com/album/0Vl0nkEU0moIeAlY3gbYjZ) | 4:37 | 2024-04-02 | 2025-03-28 |
 | [Pag\-Ibig ay Kanibalismo II](https://open.spotify.com/track/410fyfFghBsxNu45LiNJ24) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Pag\-Ibig ay Kanibalismo II](https://open.spotify.com/album/2T523YMzbCSM86LYZDCZLI) | 3:27 | 2026-04-06 |  |
+| [Pag\-ibig Fun](https://open.spotify.com/track/6YEqmic5LtdlOcaCqR9lA2) | [VVINK](https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW) | [IT STARTS WITH A WINK](https://open.spotify.com/album/4YR7xycIlOYT3Nn738VvSN) | 3:08 | 2026-05-29 |  |
 | [Pagbilang Ng Tatlo](https://open.spotify.com/track/6qLfX65ENPhm38xQruqoVP) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Pasahili](https://open.spotify.com/album/1ap5tsIDusVksftqQzTSQL) | 3:16 | 2022-10-27 | 2022-12-01 |
 | [Pagdali](https://open.spotify.com/track/7fMR5ryCo3m38yyj1PCym4) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Pagdali](https://open.spotify.com/album/185zJ1UyWQn80NFdOCjIPJ) | 3:33 | 2024-02-21 | 2024-04-03 |
 | [Pagmamahal](https://open.spotify.com/track/2wDKvXRpikiUEvNBEjGRPa) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Pagmamahal](https://open.spotify.com/album/4veS7T0v7QLIXnpT3pkMci) | 3:08 | 2026-04-06 |  |
@@ -343,6 +345,7 @@
 | [YIEE](https://open.spotify.com/track/3Jt1u39DvQbrXJ1FfARklr) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [YIEE](https://open.spotify.com/album/4SrvxGNf0rOViuxIdpfmBa) | 3:53 | 2025-03-27 | 2026-04-07 |
 | [You](https://open.spotify.com/track/4BJa4tHm82NuaRvFPX67CJ) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [You](https://open.spotify.com/album/6RX6AKmLXfFdLi00GdxQUs) | 4:47 | 2021-11-25 | 2022-03-25 |
 | [You'll Be Safe Here](https://open.spotify.com/track/4whLOE7hwNIAykoMcSZmvO) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [You'll Be Safe Here](https://open.spotify.com/album/32jPh5iI4WfK1bbSrPkBZM) | 5:44 | 2022-03-24 | 2023-04-14 |
+| [your playlist is a lie](https://open.spotify.com/track/7rtzMVusuwTZtK2crtdtpO) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Barbie Almalbis](https://open.spotify.com/artist/6XMiJRtSvw0PYHOBSBEsMg) | [your playlist is a lie](https://open.spotify.com/album/05MD4lnSBfqHGV6pYldPSa) | 3:54 | 2026-05-29 |  |
 | [Yours](https://open.spotify.com/track/096GsV4auvK0bXfBjQzbpt) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Yours](https://open.spotify.com/album/09xwz7U4Ho2qNALirus13F) | 3:33 | 2025-11-03 | 2026-04-07 |
 | [Yugto](https://open.spotify.com/track/2S4oKxRl8Dh1rGzqWccCde) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Yugto](https://open.spotify.com/album/4hU4tzVSx4DBxMk0FLlvCS) | 4:12 | 2023-11-17 | 2024-04-03 |
 

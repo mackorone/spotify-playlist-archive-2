@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 
 > This is Playboi Carti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,448 likes - 48 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,468 likes - 47 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 43 | [DIFFERENT DAY](https://open.spotify.com/track/0dApSLrXvnYWy1wagJOmpp) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 2:46 |
 | 44 | [Beef](https://open.spotify.com/track/7dGzHvGAlJYK0U3I5RGxBH) | [Ethereal](https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Beef](https://open.spotify.com/album/54MESn0PMUBsvg5Z3uf4iR) | 3:33 |
 | 45 | [Uh Uh \- feat\. Playboi Carti](https://open.spotify.com/track/0C5RP61AWPA097x3vZzGKu) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Mansion Musick](https://open.spotify.com/album/0yhgc6S7U7pLxp0hjgPkH4) | 2:46 |
-| 46 | [FIELD TRIP](https://open.spotify.com/track/3lCb7ZYE3Fvie4JOPqpXfY) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [FIELD TRIP](https://open.spotify.com/album/73RJkZAkpUFHyGw4gTUQjK) | 2:43 |
-| 47 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
-| 48 | [100 Racks \(Offset feat\. Playboi Carti\)](https://open.spotify.com/track/4T2dHb8XBYHlVj7Dyo1cW9) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:37 |
+| 46 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
+| 47 | [100 Racks \(Offset feat\. Playboi Carti\)](https://open.spotify.com/track/4T2dHb8XBYHlVj7Dyo1cW9) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:37 |
 
-Snapshot ID: `ahY0AAAAAADHQ1TebtY13R+1DKD8EStv`
+Snapshot ID: `aheFgAAAAAAGeJ+2yiskIi8eLfGKnyoo`

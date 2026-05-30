@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Altrove",
+        "url": "https://open.spotify.com/album/1nOS4aWxRbGAYI06aSH2Rk"
+      },
+      "artists": [
+        {
+          "name": "The Recoveries",
+          "url": "https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204378,
+      "name": "Altrove",
+      "url": "https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4"
+    },
+    {
+      "album": {
         "name": "Anne Halt Durch!",
         "url": "https://open.spotify.com/album/0ywlMcNDzmlScH3LAu6Eus"
       },
@@ -298,6 +316,24 @@
       "duration_ms": 185846,
       "name": "Bangkok Jam",
       "url": "https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS"
+    },
+    {
+      "album": {
+        "name": "Be the Star That You Are",
+        "url": "https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0"
+      },
+      "artists": [
+        {
+          "name": "David Bluefield",
+          "url": "https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189589,
+      "name": "Be the Star That You Are",
+      "url": "https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R"
     },
     {
       "album": {
@@ -2075,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Deep Cut EP",
+        "url": "https://open.spotify.com/album/3KGDNN12K38UHMMK2Y9zRd"
+      },
+      "artists": [
+        {
+          "name": "Southern States",
+          "url": "https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143553,
+      "name": "Travelodge",
+      "url": "https://open.spotify.com/track/1X2ZccDDqnZICewb31H9Bm"
+    },
+    {
+      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/2gq88qxGS3TyrncBZYOwO1"
       },
@@ -2238,6 +2292,24 @@
       "duration_ms": 405666,
       "name": "Warpaint",
       "url": "https://open.spotify.com/track/3YUxt5V51agQZDIBTn2Wp2"
+    },
+    {
+      "album": {
+        "name": "Left it on the table",
+        "url": "https://open.spotify.com/album/4ZTZ2oRXuqK7j5zGKtnwug"
+      },
+      "artists": [
+        {
+          "name": "Half Quiet",
+          "url": "https://open.spotify.com/artist/5F48VKDyu8evEyKQIfBMcI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158480,
+      "name": "We said Hi",
+      "url": "https://open.spotify.com/track/5idEHknOLB6apZY52YceWt"
     },
     {
       "album": {

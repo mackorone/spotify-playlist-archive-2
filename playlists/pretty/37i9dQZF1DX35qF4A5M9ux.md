@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 
 > El Malo del Bronx y su legado siempre estarán presentes\. DEP, Willie Colón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,193 likes - 125 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,203 likes - 125 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 59 | [Cara Dura](https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:17 |
 | 60 | [Te Propongo](https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ) | [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv) | [Al Duro](https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U) | 4:37 |
 | 61 | [Trampolín](https://open.spotify.com/track/6o9sS5iqHV6Jwa2CTgCsM7) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestro Aniversario](https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2) | 4:21 |
-| 62 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
-| 63 | [Qué Hay de Malo](https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 4:58 |
-| 64 | [La Cita](https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Galy Galiano 30 Años](https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy) | 7:18 |
-| 65 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 |
+| 62 | [La Cita](https://open.spotify.com/track/1Wzt0dNLjAqN3OzGwWeGH5) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Galy Galiano 30 Años](https://open.spotify.com/album/07fXyhm97NonPri4FLOqyy) | 7:18 |
+| 63 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
+| 64 | [Qué Hay de Malo](https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 4:58 |
+| 65 | [Deseándote](https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Mas Grande Que Nunca](https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz) | 4:41 |
 | 66 | [Y No Hago Mas Na'](https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [La Universidad de La Salsa](https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf) | 5:01 |
-| 67 | [Tú No Le Amas Le Temes](https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:26 |
-| 68 | [Maria Teresa y Danilo](https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Siempre Charanga](https://open.spotify.com/album/5LRCh0vhclTfXIwnPaU7Az) | 4:47 |
+| 67 | [Maria Teresa y Danilo](https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [Siempre Charanga](https://open.spotify.com/album/5LRCh0vhclTfXIwnPaU7Az) | 4:47 |
+| 68 | [Tú No Le Amas Le Temes](https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:26 |
 | 69 | [Cara de Niño](https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP) | 4:55 |
-| 70 | [Deseándote](https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Mas Grande Que Nunca](https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz) | 4:41 |
+| 70 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 |
 | 71 | [Pa Que Me Llames](https://open.spotify.com/track/7f9xOgsbm7SYjBRU7blQaJ) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Amor de Locos](https://open.spotify.com/album/21UeXvBlGC8gUjxRovFSsF) | 4:48 |
 | 72 | [Se Parecio Tanto a Ti](https://open.spotify.com/track/1FjpX1UgBlhGJioQEe3vgT) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [La Danza de la Chancaca](https://open.spotify.com/album/4LLCCwFbIYh4nZ5JOxRntj) | 5:28 |
 | 73 | [Vete Ya](https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:53 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 83 | [Cuando Acaba el Placer](https://open.spotify.com/track/7rUmf9QMILaMOd0jKqS2vK) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Más Romántico\- Salsa en la Calle](https://open.spotify.com/album/6vgEHOeYvlDJNEM8GzsMt5) | 4:28 |
 | 84 | [Me Fallaste](https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Platino: Eddie Santiago](https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s) | 5:03 |
 | 85 | [Lo Que Pasó Entre Tú y Yo Pasó](https://open.spotify.com/track/1zTQ3j6jP0pMHQzCLLzBeF) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Colección De Oro](https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo) | 4:38 |
-| 86 | [Hechizo](https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:27 |
-| 87 | [Si Tú Me Besas](https://open.spotify.com/track/4RCzKrRP5OrB4bvINizTGf) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Si Tú Me Besas](https://open.spotify.com/album/0XPcr71KlShDJMJBJdde2b) | 4:20 |
+| 86 | [Si Tú Me Besas](https://open.spotify.com/track/4RCzKrRP5OrB4bvINizTGf) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Si Tú Me Besas](https://open.spotify.com/album/0XPcr71KlShDJMJBJdde2b) | 4:20 |
+| 87 | [Hechizo](https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:27 |
 | 88 | [Vivir Sin Ella](https://open.spotify.com/track/5ugemlM6AII73sb0k6yqux) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Caballero De La Salsa \- La Historia Tropical](https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA) | 5:12 |
 | 89 | [Me Niegas Tanto Amor](https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 4:44 |
 | 90 | [Anuncio Clasificado / Dámelo](https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [Viva Rosario](https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB) | 5:01 |

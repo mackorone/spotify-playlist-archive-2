@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,663 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,671 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 21 | [Thinkin’ Bout U](https://open.spotify.com/track/1LXJv1gk92JZ0LJ8I7glo2) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ELSE](https://open.spotify.com/album/3Xf88Z2tDQeLdzBxa7naSL) | 2:52 |
 | 22 | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 |
 | 23 | [있잖아](https://open.spotify.com/track/52tumwEdCAp7TrJ1QLNAho) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [연애 플레이리스트 OST Part.2](https://open.spotify.com/album/1Tpxwdd6eUwMJxzpv7rfpt) | 3:27 |
-| 24 | [Madeleine Love](https://open.spotify.com/track/5wefwQ17a5HEK4FwajSXXJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Plain](https://open.spotify.com/album/6pSV2QFFALy5LJzrQ3RxPS) | 3:38 |
-| 25 | [Tell me you love me](https://open.spotify.com/track/0U5HgFCn3EJN2zZqI0KGfJ) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Tell me you love me](https://open.spotify.com/album/5bKbsvVQeAG146ZniREsY2) | 3:19 |
+| 24 | [Tell me you love me](https://open.spotify.com/track/0U5HgFCn3EJN2zZqI0KGfJ) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Tell me you love me](https://open.spotify.com/album/5bKbsvVQeAG146ZniREsY2) | 3:19 |
+| 25 | [Madeleine Love](https://open.spotify.com/track/5wefwQ17a5HEK4FwajSXXJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Plain](https://open.spotify.com/album/6pSV2QFFALy5LJzrQ3RxPS) | 3:38 |
 | 26 | [HOME](https://open.spotify.com/track/6GTkQ4tpmiGEPNd2WN8Wz6) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Boyfriend on Demand Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97) | 3:46 |
 | 27 | [Heart Flutter](https://open.spotify.com/track/0lpRU36tC5Cq5crfYOCB6b) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [Queen of Tears \(Original Television Soundtrack\), Pt.10](https://open.spotify.com/album/54gULZ4uWxUIqt8Ehj2wAf) | 3:40 |
 | 28 | [Thought Of You](https://open.spotify.com/track/71D25BGzsq5OxlENZnq9N0) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Thought Of You](https://open.spotify.com/album/0K90xZWqXh0XyozCkQXu13) | 3:50 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 48 | [Pit a Pat](https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr) | 3:32 |
 | 49 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
 | 50 | [Like a dream](https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:17 |
-| 51 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
-| 52 | [Secret of Ours](https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Ours](https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO) | 3:26 |
+| 51 | [Secret of Ours](https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Ours](https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO) | 3:26 |
+| 52 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
 | 53 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
 | 54 | [U](https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:19 |
 | 55 | [I Will Be By Your Side](https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Korean Odyssey \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP) | 4:04 |
 | 56 | [Love Condition](https://open.spotify.com/track/6kUhDtV7NM7JSZYl6xV5HI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Love Condition \(Original Soundtrack from Even If This Love Disappears Tonight\)](https://open.spotify.com/album/1gmhYJRiDv9QBJhYcUMbS6) | 4:32 |
 | 57 | [Be My Love](https://open.spotify.com/track/1FbxpeYh1qPvQMve046NQU) | [EXO\-CBX](https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD) | [LOVE PLAYLIST 4 Part.1](https://open.spotify.com/album/2FyVlSQ1gQ1c80r0mm5JO5) | 3:35 |
-| 58 | [Give U the Universe](https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Our Universe \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I) | 3:01 |
-| 59 | [Do my best](https://open.spotify.com/track/7yoqyzY2QCccmuaiUe0pvn) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:15 |
+| 58 | [Do my best](https://open.spotify.com/track/7yoqyzY2QCccmuaiUe0pvn) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:15 |
+| 59 | [Give U the Universe](https://open.spotify.com/track/0rUS50qp88ja1UU7Y7L4j4) | [Hayoung Song](https://open.spotify.com/artist/4W1tNmyyTGHjTBQpiQWRNr) | [Our Universe \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4F3keGFXlukJ2W7U8LSI4I) | 3:01 |
 | 60 | [Promenade](https://open.spotify.com/track/3D2ThkkVsgooUUTr2Eufsa) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una), [HAEUN](https://open.spotify.com/artist/7BYHne6KtWNlbJnjZwLLRW) | [Our Universe \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7qqZe4aO9pb72JfxufekC7) | 3:31 |
 
 Snapshot ID: `AAAAAMPosmVXkCs28PlRDr/CDjZMYegI`

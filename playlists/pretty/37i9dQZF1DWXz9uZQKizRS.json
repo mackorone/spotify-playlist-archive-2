@@ -1,6 +1,6 @@
 {
   "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: BABIE LATO, Natalia Grosiak, BELA, Kathia",
-  "num_followers": 129861,
+  "num_followers": 129882,
   "original_name": "Alternatywna Polska",
   "owner": {
     "name": "Spotify",
@@ -147,7 +147,7 @@
     {
       "added_at": "2026-05-28 22:01:49",
       "album": {
-        "name": "traces",
+        "name": "traces (feat. Molina)",
         "url": "https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV"
       },
       "artists": [
@@ -161,7 +161,7 @@
         }
       ],
       "duration_ms": 187500,
-      "name": "traces",
+      "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
     },
     {
@@ -246,6 +246,10 @@
         {
           "name": "Marcin Doroci\u0144ski",
           "url": "https://open.spotify.com/artist/1yjBOdDbiuSSJ72NSd45yF"
+        },
+        {
+          "name": "Wojtek Mazolewski Quintet",
+          "url": "https://open.spotify.com/artist/4daN0QKE6JqPnvLvrzC9zT"
         }
       ],
       "duration_ms": 244469,

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Slow Goodbye",
+        "url": "https://open.spotify.com/album/1wnBJnRNTpeMydL0P4YKKc"
+      },
+      "artists": [
+        {
+          "name": "Evan Scudo",
+          "url": "https://open.spotify.com/artist/52YRLeGKgHrZwxxXqfIJ8w"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137103,
+      "name": "A Slow Goodbye",
+      "url": "https://open.spotify.com/track/3f3PczuKvYPitGz1iZZDQO"
+    },
+    {
+      "album": {
         "name": "A Thousand Miles",
         "url": "https://open.spotify.com/album/7eo39n32RoBLx2Z2yFfsnG"
       },
@@ -56,6 +74,24 @@
       "duration_ms": 197575,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/7y7zmK91BV5A4NagPCtuWt"
+    },
+    {
+      "album": {
+        "name": "Aconite",
+        "url": "https://open.spotify.com/album/5FOPIbIL5vouLumn792r6M"
+      },
+      "artists": [
+        {
+          "name": "The Piano Herbarium",
+          "url": "https://open.spotify.com/artist/0QiOtbuT3B1A7Xa5gaKhfW"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153224,
+      "name": "Aconite",
+      "url": "https://open.spotify.com/track/4rozXsuwZGj35WCAOp9CJy"
     },
     {
       "album": {
@@ -293,6 +329,42 @@
     },
     {
       "album": {
+        "name": "Bient\u00f4t",
+        "url": "https://open.spotify.com/album/3jYkcw4QMkiXeeuZvZN0wr"
+      },
+      "artists": [
+        {
+          "name": "Lucien des Ombres",
+          "url": "https://open.spotify.com/artist/1ZegMobzSe2l8uZOxRhcSI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121250,
+      "name": "Bient\u00f4t",
+      "url": "https://open.spotify.com/track/563RuhgRSelsHsxpBleqdu"
+    },
+    {
+      "album": {
+        "name": "Bloom Later",
+        "url": "https://open.spotify.com/album/4UugupuV93QB32rdUWZciN"
+      },
+      "artists": [
+        {
+          "name": "Aron E. Ross",
+          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180937,
+      "name": "Bloom Later",
+      "url": "https://open.spotify.com/track/0IoJYjMhJhOiwXqnkkBWoJ"
+    },
+    {
+      "album": {
         "name": "Blue sea",
         "url": "https://open.spotify.com/album/3GMcRS0oOuCxBhkHHrwO9w"
       },
@@ -376,7 +448,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 168089,
       "name": "Counting the Days",
       "url": "https://open.spotify.com/track/1xfEo3rOHLAT3vqxMPKC5d"
@@ -761,6 +833,28 @@
     },
     {
       "album": {
+        "name": "Hearth",
+        "url": "https://open.spotify.com/album/6Ku23VDzyckQn6aoyZJdYj"
+      },
+      "artists": [
+        {
+          "name": "Jakob Ahlbom",
+          "url": "https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K"
+        },
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125476,
+      "name": "Hearth",
+      "url": "https://open.spotify.com/track/7uk8WqCTD93lYCEKohkMIu"
+    },
+    {
+      "album": {
         "name": "Hiver",
         "url": "https://open.spotify.com/album/1wKl4ZvsF3qx5EVq9hKgy4"
       },
@@ -880,7 +974,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 166000,
       "name": "Into the Light",
       "url": "https://open.spotify.com/track/2cilJhRbesAUmkwLn9dlkR"
@@ -1078,7 +1172,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 156923,
       "name": "Meet Me At Noon",
       "url": "https://open.spotify.com/track/1nq30PCzNrkktaSxn2uxds"
@@ -1265,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/4bDXWDR2mxOE5XCKSRPrYU"
+      },
+      "artists": [
+        {
+          "name": "Eric D. Lawrence",
+          "url": "https://open.spotify.com/artist/7cr6fHoqPq2UXVPrmylXQg"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150685,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/6z0UhDZtA0Ln2hHhgLg6Ah"
+    },
+    {
+      "album": {
         "name": "Piave",
         "url": "https://open.spotify.com/album/4A94Hfby7t1bEQQOQkUrhp"
       },
@@ -1330,7 +1442,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 124269,
       "name": "Remains Of The Day",
       "url": "https://open.spotify.com/track/25nabFKD0CMJKhvP4qtFUM"
@@ -1388,6 +1500,24 @@
       "duration_ms": 174892,
       "name": "Sabana De La Mar",
       "url": "https://open.spotify.com/track/25Z5Lzg8qsFN8NxZXbdAAC"
+    },
+    {
+      "album": {
+        "name": "Sail Away",
+        "url": "https://open.spotify.com/album/52H4dLx4r4FowOjCJ83v3h"
+      },
+      "artists": [
+        {
+          "name": "Matthew L. Fisher",
+          "url": "https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139198,
+      "name": "Sail Away",
+      "url": "https://open.spotify.com/track/44BFfYMUdKogtMSJJZAhvk"
     },
     {
       "album": {
@@ -1697,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Temporary Coexistence of Humans",
+        "url": "https://open.spotify.com/album/2ob168pec2r2ZtuSjzbgtz"
+      },
+      "artists": [
+        {
+          "name": "Peter Sandberg",
+          "url": "https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173614,
+      "name": "Temporary Coexistence",
+      "url": "https://open.spotify.com/track/44UULCqmzqSuT4FzNoALZl"
+    },
+    {
+      "album": {
         "name": "The Conservatory Window",
         "url": "https://open.spotify.com/album/4N5vOrH6XKFvNRY7MQ3yIS"
       },
@@ -1996,7 +2144,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 160242,
       "name": "When you know, you know",
       "url": "https://open.spotify.com/track/4CsFtHD9LKRpBHmj9rowFq"

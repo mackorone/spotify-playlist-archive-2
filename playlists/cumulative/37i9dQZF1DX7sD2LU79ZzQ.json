@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: TheOvertunes",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: NPD",
   "name": "Naik Daun",
   "tracks": [
     {
@@ -664,7 +664,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 130007,
       "name": "after you",
       "url": "https://open.spotify.com/track/1MiVfeRxRkdMvNdf6lX4PP"
@@ -5653,6 +5653,28 @@
     },
     {
       "album": {
+        "name": "Cinta Pertama (feat. Kailol)",
+        "url": "https://open.spotify.com/album/3Fi7lhSF6cqHMIXL1Qp5Ur"
+      },
+      "artists": [
+        {
+          "name": "Chaeroel",
+          "url": "https://open.spotify.com/artist/7mCxJlJJ7rJ3P7vJ9037BY"
+        },
+        {
+          "name": "Kailol",
+          "url": "https://open.spotify.com/artist/39izKfjMCFfgIlIRU3HXsc"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "Cinta Pertama (feat. Kailol)",
+      "url": "https://open.spotify.com/track/4rpwa5TG68jYbV14X4gz8M"
+    },
+    {
+      "album": {
         "name": "Cinta Rahasia",
         "url": "https://open.spotify.com/album/6Tgp2oKTLa1mtyz64YSwLn"
       },
@@ -6850,7 +6872,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 192000,
       "name": "Diam-Diam Suka",
       "url": "https://open.spotify.com/track/4thXNCDS9r9K2phjDdEwxQ"
@@ -9530,6 +9552,24 @@
       "duration_ms": 260884,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/4eL2vw4mQswrIC9bmIbMgO"
+    },
+    {
+      "album": {
+        "name": "I Love You But You Lebih Love Me",
+        "url": "https://open.spotify.com/album/7hFVh9Oun5wTO5bv9DLuhk"
+      },
+      "artists": [
+        {
+          "name": "NPD",
+          "url": "https://open.spotify.com/artist/1TyOcqrycLx6L5U9ULfW40"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246507,
+      "name": "I Love You But You Lebih Love Me",
+      "url": "https://open.spotify.com/track/3l5GsMzdQ3puVYL2t3adPg"
     },
     {
       "album": {
@@ -12862,7 +12902,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 223880,
       "name": "Kita Apa?",
       "url": "https://open.spotify.com/track/5OxnPCPW5ZSbBIPm7VT9RR"
@@ -13304,7 +13344,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 299586,
       "name": "Kunci Hati",
       "url": "https://open.spotify.com/track/3CwhctExu5cz77YvbI9wlI"
@@ -18416,7 +18456,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 208090,
       "name": "Padahal",
       "url": "https://open.spotify.com/track/4wfSodaQue3kUViN5Ak2HL"
@@ -20018,7 +20058,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 253000,
       "name": "Raba Rasa",
       "url": "https://open.spotify.com/track/0dvAaqWND2K2tPE8ofVBKq"
@@ -21765,6 +21805,24 @@
     },
     {
       "album": {
+        "name": "Seadanya Kamu",
+        "url": "https://open.spotify.com/album/4s6g44cGHADq874XGSD7c0"
+      },
+      "artists": [
+        {
+          "name": "Ussy Sulistiawaty",
+          "url": "https://open.spotify.com/artist/17ceErO0ObjFUvXbIZuGVS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236288,
+      "name": "Seadanya Kamu",
+      "url": "https://open.spotify.com/track/2sm79RtYY4G971ZZf8dshx"
+    },
+    {
+      "album": {
         "name": "dear aa",
         "url": "https://open.spotify.com/album/2oy6Vw4KefIUaLDwxchV2s"
       },
@@ -21946,7 +22004,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 227028,
       "name": "Sedang Mesra Mesranya",
       "url": "https://open.spotify.com/track/0jEb2Umm9KUo8j2k7cHaco"
@@ -25071,6 +25129,50 @@
     },
     {
       "album": {
+        "name": "Sumpah Mati",
+        "url": "https://open.spotify.com/album/123f6H1A6X8scJKFvt1Zy8"
+      },
+      "artists": [
+        {
+          "name": "Celyna Grace",
+          "url": "https://open.spotify.com/artist/7ofzlcvCaN0u5naaoIiPKi"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240034,
+      "name": "Sumpah Mati",
+      "url": "https://open.spotify.com/track/1JPKV0sdQihvEIzXoZxIB6"
+    },
+    {
+      "album": {
+        "name": "Sumpah Mati",
+        "url": "https://open.spotify.com/album/0ymaEZjGF1TmSvLRBSfO4h"
+      },
+      "artists": [
+        {
+          "name": "Niki Becker",
+          "url": "https://open.spotify.com/artist/3BnWKeGbGMSqwTGd5Yy4CD"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208970,
+      "name": "Sumpah Mati",
+      "url": "https://open.spotify.com/track/5YxTyB77VRg3aul5gwv19Y"
+    },
+    {
+      "album": {
         "name": "Sunda Strait",
         "url": "https://open.spotify.com/album/5LDr3yKUSs94bs9QWgZTXR"
       },
@@ -25928,6 +26030,24 @@
       "duration_ms": 267600,
       "name": "Tak Pantas Terluka",
       "url": "https://open.spotify.com/track/1zyYrAztUAlOHO9wHyZU0P"
+    },
+    {
+      "album": {
+        "name": "Tak Perlu Khawatir Berlebihan",
+        "url": "https://open.spotify.com/album/6Rx4by6ukLPZ0Pthh7lxAD"
+      },
+      "artists": [
+        {
+          "name": "Khifnu",
+          "url": "https://open.spotify.com/artist/7eKNo6fozgNsKThGC40ol7"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235874,
+      "name": "Tak Perlu Khawatir Berlebihan",
+      "url": "https://open.spotify.com/track/1Nul0kD3tok77Hn2j2XDb5"
     },
     {
       "album": {
@@ -28337,6 +28457,24 @@
     },
     {
       "album": {
+        "name": "KODE?",
+        "url": "https://open.spotify.com/album/24AlWEGWxN9Y6NAnXopbpU"
+      },
+      "artists": [
+        {
+          "name": "Fani Rahmansyah",
+          "url": "https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228778,
+      "name": "typeku",
+      "url": "https://open.spotify.com/track/30gdhGhbfdmKYOQAce6mxa"
+    },
+    {
+      "album": {
         "name": "UH! (ghosted)",
         "url": "https://open.spotify.com/album/46wz8M1IRfe345WlsIp5IF"
       },
@@ -29174,7 +29312,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 249705,
       "name": "Yang Kuingin Darimu",
       "url": "https://open.spotify.com/track/1LRvBZm3qA96X6h4H2b5Ll"

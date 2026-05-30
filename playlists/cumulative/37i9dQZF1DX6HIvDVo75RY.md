@@ -4,7 +4,7 @@
 
 > Spotify House at Ole Red on Broadway is BACK for 2026! We've curated three incredible days of live music \- see you June 4\-6 in Nashville!
 
-484 songs - 1 day 2 hr 17 min
+485 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Something You Can Hold](https://open.spotify.com/track/3qqlyGEO02ZoW8OwYhuMq8) | [Mason Ramsey](https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz) | [Something You Can Hold](https://open.spotify.com/album/4pcO6I05CFVRHzNtLx9Gvs) | 2:59 | 2024-05-23 | 2025-05-22 |
 | [Something's Gonna Kill Me](https://open.spotify.com/track/2VrxL3FS3m7KLzfOHUPqOx) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Blacktop](https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi) | 3:03 | 2024-05-23 | 2025-05-22 |
 | [Son Of A Sinner](https://open.spotify.com/track/25VQoiuyc0HkC5FQTj1a8G) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads Of The Broken](https://open.spotify.com/album/4aWPCLZWr9gG0ucLIMJavx) | 3:52 | 2022-05-26 | 2023-05-24 |
+| [Songs About Us](https://open.spotify.com/track/7Mt9l5xWp9u5eP0KOfF7Ss) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Songs About Us](https://open.spotify.com/album/59lMZSEM0zreLqcLhhx8cE) | 2:52 | 2026-05-29 |  |
 | [Songs About You](https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Songs About You](https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq) | 3:22 | 2022-05-26 | 2023-05-24 |
 | [Sound Of A Heartbreak](https://open.spotify.com/track/2p4m654rK4ovizIpqTGSaF) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Sound Of A Heartbreak](https://open.spotify.com/album/3SDuRmpRWHaonAyJgG0wKu) | 2:38 | 2024-05-23 | 2025-05-22 |
 | [Sparkle](https://open.spotify.com/track/4JzDjc6fZH30lB4dIZWvlA) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [Sparkle](https://open.spotify.com/album/7zTwU1TyIM0RgiWIvDkTMp) | 3:01 | 2023-06-01 | 2024-05-24 |

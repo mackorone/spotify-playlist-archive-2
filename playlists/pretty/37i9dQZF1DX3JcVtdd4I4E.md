@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,933 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,934 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 8 | [On and On and On](https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [On and On and On](https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj) | 2:59 |
 | 9 | [giirL math](https://open.spotify.com/track/2vkkkaDiOamN4sNcCgsTE1) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [v.i.p\. \- very important pony](https://open.spotify.com/album/1L374HBhsqVNxaEI5RVdiL) | 2:29 |
 | 10 | [Hush Hush](https://open.spotify.com/track/3kzhtJH4jrnKQmuE8ai8ob) | [Meira Omar](https://open.spotify.com/artist/1URHcpHxwtcoQFi8UtC51c) | [Hush Hush](https://open.spotify.com/album/43VRsfHXsZh1BUxfNO0RZN) | 2:53 |
-| 11 | [Hate You So Much](https://open.spotify.com/track/3zqr8gsLOdlRehxOD3pZpe) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Hate You So Much](https://open.spotify.com/album/3OvBELEOFwys8gcBW4WN8U) | 2:36 |
+| 11 | [Venus](https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:27 |
 | 12 | [Mad Woman](https://open.spotify.com/track/5zMvjDWCoNtH3KJZZVYiHf) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Mad Woman](https://open.spotify.com/album/01XFfAn904bPwUQ8Hgt2fy) | 2:48 |
-| 13 | [Venus](https://open.spotify.com/track/1RaVANIegur4WaZTscvVS4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:27 |
+| 13 | [Hate You So Much](https://open.spotify.com/track/3zqr8gsLOdlRehxOD3pZpe) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Hate You So Much](https://open.spotify.com/album/3OvBELEOFwys8gcBW4WN8U) | 2:36 |
 | 14 | [A Lovestory](https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [A Lovestory](https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT) | 3:04 |
 | 15 | [Breakfast Club](https://open.spotify.com/track/7xuNajhwayadNJw83UxO9x) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx), [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Breakfast Club](https://open.spotify.com/album/34kfloNyFjcUZiD9Z6EXfu) | 3:09 |
 | 16 | [Wild Geese, Wild Love](https://open.spotify.com/track/7wNUuMw0R3gtYBpxaoGb64) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Your Hand Forever Checking On My Fever](https://open.spotify.com/album/3NEBgveq4crE0VXBZVw4Q9) | 5:23 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 50 | [Dance All Night](https://open.spotify.com/track/4g9HX5pBd1CHk4oq7vM9B0) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/2X2wLhDxQF1HGunasIEdjr) | 2:55 |
 | 51 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 |
 | 52 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
-| 53 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 |
-| 54 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
+| 53 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
+| 54 | [Falling](https://open.spotify.com/track/6itzenfqyO4mqeWTmP2E3E) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Falling](https://open.spotify.com/album/6CDjnw1WoRt2Tsts74eRIx) | 3:38 |
 | 55 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
 | 56 | [Always Hurts](https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Always Hurts](https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR) | 3:17 |
 | 57 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 61 | [When she holds me](https://open.spotify.com/track/7ELpkrJcANe6KBZi9KitCx) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Only music makes me cry now](https://open.spotify.com/album/6vHbkd7FkuJkyFZmp7Y8qS) | 4:03 |
 | 62 | [Lupins In Blue](https://open.spotify.com/track/1JDepuBvpnzV4BLIPvA2re) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Lupins In Blue](https://open.spotify.com/album/5h0x1dJtmfnVwVBY3rNNyc) | 3:46 |
 | 63 | [And Then Came You](https://open.spotify.com/track/2CuPyOrXSVSxFCpW0TjzdI) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [And Then Came You](https://open.spotify.com/album/4hq1E3eP2GWZ7kdddv7MDS) | 3:15 |
-| 64 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 |
-| 65 | [I Hate San Francisco](https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [I Hate San Francisco](https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36) | 3:13 |
+| 64 | [I Hate San Francisco](https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [I Hate San Francisco](https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36) | 3:13 |
+| 65 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 |
 | 66 | [Sunwarmed](https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/59VwIN9sQruODzORauynKX) | 2:58 |
 | 67 | [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 |
-| 68 | [Do Good Be Better](https://open.spotify.com/track/4dg5ZW6p6Lo56Eoyf994Lf) | [AmenA](https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo) | [Do Good Be Better](https://open.spotify.com/album/3XO9q33qp2Foiaa54zFmVQ) | 2:42 |
-| 69 | [h4msterb0y](https://open.spotify.com/track/6PNDkp573Zsb1yZDd4wjcD) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Live a Little Die a Lot](https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l) | 2:48 |
+| 68 | [h4msterb0y](https://open.spotify.com/track/6PNDkp573Zsb1yZDd4wjcD) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Live a Little Die a Lot](https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l) | 2:48 |
+| 69 | [Do Good Be Better](https://open.spotify.com/track/4dg5ZW6p6Lo56Eoyf994Lf) | [AmenA](https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo) | [Do Good Be Better](https://open.spotify.com/album/3XO9q33qp2Foiaa54zFmVQ) | 2:42 |
 | 70 | [Happy Again](https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy Again](https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay) | 2:34 |
 | 71 | [Drive With Our Eyes Closed](https://open.spotify.com/track/7LSJBkFyVA0XxQR9xAYWfy) | [Bye Bye Brenda](https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0) | [Landmarks](https://open.spotify.com/album/2eQeTTJ8jwC4QgOoKGiLFp) | 3:55 |
 | 72 | [I Should’ve Danced More](https://open.spotify.com/track/7vCZ1vLPbbTG42dPHg0PC9) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [I Should’ve Danced More](https://open.spotify.com/album/23ZYTwf4AeZozJU3mRNC0o) | 3:21 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 75 | [It's Not My Fault](https://open.spotify.com/track/759I7gXSRfrXFpXTqovwMa) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Salt](https://open.spotify.com/album/2Qyj2igDUVDUsTiteIIrer) | 2:40 |
 | 76 | [SMOKE](https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [SMOKE](https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6) | 3:24 |
 | 77 | [HURT PEOPLE](https://open.spotify.com/track/2cr6TL0vLgqJCcgD0hWIbl) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [HURT PEOPLE](https://open.spotify.com/album/5Ui2vqU9Ta35ZeiM8kjoNY) | 2:43 |
-| 78 | [This Isn't Cool](https://open.spotify.com/track/55SZGuMJ3rvpIdgAMUAfX7) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [This Isn't Cool](https://open.spotify.com/album/6hNWARcj3WEfGOIdZiOLrd) | 3:07 |
+| 78 | [Drip](https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Drip](https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R) | 3:50 |
 | 79 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 |
-| 80 | [Drip](https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Drip](https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R) | 3:50 |
+| 80 | [This Isn't Cool](https://open.spotify.com/track/55SZGuMJ3rvpIdgAMUAfX7) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [This Isn't Cool](https://open.spotify.com/album/6hNWARcj3WEfGOIdZiOLrd) | 3:07 |
 
 Snapshot ID: `AAAAANr+4XnZvqTOAnxs18nXCIALzpYZ`

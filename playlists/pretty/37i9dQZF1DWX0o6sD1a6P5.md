@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Tayc x Singuila
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,959 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,112 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 8 | [Rihanna](https://open.spotify.com/track/23Y3IYu82OxwSWC1f2ILyl) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Rihanna](https://open.spotify.com/album/7jvhFuArohMk5JOGfhH84L) | 3:28 |
 | 9 | [ONE TRACK MIND](https://open.spotify.com/track/0nP8XXnfBQnP3jllQj6f4K) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ONE TRACK MIND](https://open.spotify.com/album/2JOvmn8Eq4nwSUjeKfBEeQ) | 3:20 |
 | 10 | [Maladie](https://open.spotify.com/track/4zPb5wNcdTy15BgBvRVNYM) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/6UAi4kLruZxXwJbo5aDJ1Q) | 3:12 |
-| 11 | [Tellement](https://open.spotify.com/track/07x8McckfT6GnTn2V1L3Ew) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tellement](https://open.spotify.com/album/7bk5Hm4M0ROgIMwn6CMZeN) | 2:33 |
+| 11 | [Tellement](https://open.spotify.com/track/07x8McckfT6GnTn2V1L3Ew) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tellement](https://open.spotify.com/album/7bk5Hm4M0ROgIMwn6CMZeN) | 2:35 |
 | 12 | [Maria Benguela](https://open.spotify.com/track/0O0O5cDTQurnlQ4V44RNgV) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Dabanda Roots](https://open.spotify.com/album/4OFujVYmrxg2rieHAk9GVf) | 4:56 |
 | 13 | [jaloux fâché](https://open.spotify.com/track/7mUdlJ8dHqHijoZEn6jQ1n) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [HOPE\. : Imani](https://open.spotify.com/album/2PPf6NnvTFfJivaHNxczFn) | 2:57 |
 | 14 | [SONGI SONGI](https://open.spotify.com/track/2FaguN0RwC7KiTHiUuaO2y) | [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [SONGI SONGI](https://open.spotify.com/album/4ZGMdKfRPnQgQu5sXy6hXQ) | 2:48 |

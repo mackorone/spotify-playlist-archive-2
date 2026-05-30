@@ -2,7 +2,7 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop selecionada por Bárbara Bandeira
+> Uma playlist de pura alma pop! Foto: Bárbara Bandeira
 
 530 songs - 1 day 3 hr 55 min
 

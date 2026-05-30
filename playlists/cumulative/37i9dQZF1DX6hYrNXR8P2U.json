@@ -3262,7 +3262,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 163258,
       "name": "Dossier",
       "url": "https://open.spotify.com/track/1HuU83yceEAnz8XaQRS6CF"
@@ -7178,6 +7178,24 @@
       "duration_ms": 189045,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/2c7p5U1ci0a6sFj7C3KPGv"
+    },
+    {
+      "album": {
+        "name": "Ilusiones de Amor",
+        "url": "https://open.spotify.com/album/1S692zlCrtcSsgeG0Yk5zz"
+      },
+      "artists": [
+        {
+          "name": "Trucha",
+          "url": "https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161286,
+      "name": "Mystica!",
+      "url": "https://open.spotify.com/track/5zaQp9y2PVJv8sNa9vnfll"
     },
     {
       "album": {

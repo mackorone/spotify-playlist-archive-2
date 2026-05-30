@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-130 songs - 7 hr 43 min
+131 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [7 rings](https://open.spotify.com/track/14udgTPuByrHR6jUCYHVXu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [7 rings](https://open.spotify.com/album/3DdrREWxtsOTF6Ex1aTA9b) | 3:04 | 2023-12-30 | 2024-02-02 |
 | [90's Babies](https://open.spotify.com/track/7F1te2Bs6zaY9CzhowmGEo) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Nightmares & Lullabies Act 2](https://open.spotify.com/album/0De3mkwgF2lZdF4X5osS59) | 3:05 | 2023-12-30 |  |
 | [A Little More](https://open.spotify.com/track/4VHhltj6aUxZJWnImrXDhC) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [General Admission \(Deluxe\)](https://open.spotify.com/album/1HK1WLip5xwWQYixdF3Jsk) | 3:57 | 2023-12-30 |  |
-| [About My Issue \(feat\. Victoria Monét & Nipsey Hussle\)](https://open.spotify.com/track/3hDSWRdnQukqMXAJ9leK0t) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Paperwork \(Deluxe Explicit\)](https://open.spotify.com/album/4FADvCXok2GhepAWLE8Fs1) | 4:24 | 2024-07-10 |  |
+| [About My Issue](https://open.spotify.com/track/43u4zznE7dxdJqRS6aKu2F) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Paperwork \(Deluxe Explicit\)](https://open.spotify.com/album/6NJT4jSQtCoVAFhTmskP0h) | 4:24 | 2026-05-29 |  |
+| [About My Issue \(feat\. Victoria Monét & Nipsey Hussle\)](https://open.spotify.com/track/3hDSWRdnQukqMXAJ9leK0t) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Paperwork \(Deluxe Explicit\)](https://open.spotify.com/album/4FADvCXok2GhepAWLE8Fs1) | 4:24 | 2024-07-10 | 2026-05-30 |
 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(u dont want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 | 2025-10-09 | 2025-12-18 |
 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/1yWRsIslkxTnvBO2OMyzjc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/1tIp3NC564c1P9njNFJAqS) | 6:25 | 2023-12-30 | 2024-03-07 |
 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/2PUBQaF1AdVwk0EA2T9f9I) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/35RAdgZ15y062MlUZ5feIX) | 6:25 | 2026-03-12 | 2026-03-23 |

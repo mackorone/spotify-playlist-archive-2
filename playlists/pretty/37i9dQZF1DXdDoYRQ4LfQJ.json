@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la privada con Rey Quinto & the hottest corridos in the U.S.",
-  "num_followers": 342991,
+  "num_followers": 342993,
   "original_name": "La Privada",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-04-03 04:03:09",
       "album": {
-        "name": "El Primero",
-        "url": "https://open.spotify.com/album/4ninqvctwnheMXqskwO1aG"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 175514,
-      "name": "El Primero",
-      "url": "https://open.spotify.com/track/0S0r3vr9ekWX28JtCTz02t"
-    },
-    {
-      "added_at": "2026-04-03 04:03:09",
-      "album": {
         "name": "Amapola",
         "url": "https://open.spotify.com/album/1GG84O2hw5FjafV19KYMSr"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2026-04-03 04:03:09",
       "album": {
+        "name": "El Primero",
+        "url": "https://open.spotify.com/album/4ninqvctwnheMXqskwO1aG"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 175514,
+      "name": "El Primero",
+      "url": "https://open.spotify.com/track/0S0r3vr9ekWX28JtCTz02t"
+    },
+    {
+      "added_at": "2026-04-03 04:03:09",
+      "album": {
         "name": "Vision De Tunel",
         "url": "https://open.spotify.com/album/1ppdXLhrl0xKBdraTqcS3I"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 172890,
       "name": "Vision De Tunel",
       "url": "https://open.spotify.com/track/6VCRBicgO32jHZOT3dRbPk"
-    },
-    {
-      "added_at": "2026-04-03 04:03:09",
-      "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "La Ultima Sombra",
-      "url": "https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn"
     },
     {
       "added_at": "2026-04-03 04:03:09",
@@ -907,6 +891,22 @@
       "duration_ms": 170259,
       "name": "El Chore",
       "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
+    },
+    {
+      "added_at": "2026-04-03 04:03:09",
+      "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "La Ultima Sombra",
+      "url": "https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn"
     },
     {
       "added_at": "2026-04-03 04:03:09",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-04-03 04:03:09",
       "album": {
-        "name": "Arriba la Barbiza",
-        "url": "https://open.spotify.com/album/6kux9mkqScfGYMlVXbGCIR"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 169496,
-      "name": "Arriba la Barbiza",
-      "url": "https://open.spotify.com/track/0grL3xfACE1ls8YcHU4wvf"
-    },
-    {
-      "added_at": "2026-04-03 04:03:09",
-      "album": {
         "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55/66",
         "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 188361,
       "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55/66",
       "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
+    },
+    {
+      "added_at": "2026-04-03 04:03:09",
+      "album": {
+        "name": "Arriba la Barbiza",
+        "url": "https://open.spotify.com/album/6kux9mkqScfGYMlVXbGCIR"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 169496,
+      "name": "Arriba la Barbiza",
+      "url": "https://open.spotify.com/track/0grL3xfACE1ls8YcHU4wvf"
     },
     {
       "added_at": "2026-04-03 04:03:09",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-04-03 04:03:09",
       "album": {
-        "name": "El Chaval\u00f3n",
-        "url": "https://open.spotify.com/album/0jAjnsWB9EOcFL7Cq5ykpq"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 174754,
-      "name": "El Chaval\u00f3n",
-      "url": "https://open.spotify.com/track/7uBePvu0TAwsdX2POckybu"
-    },
-    {
-      "added_at": "2026-04-03 04:03:09",
-      "album": {
         "name": "El Gavil\u00e1n",
         "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 175295,
       "name": "El Gavil\u00e1n",
       "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
+    },
+    {
+      "added_at": "2026-04-03 04:03:09",
+      "album": {
+        "name": "El Chaval\u00f3n",
+        "url": "https://open.spotify.com/album/0jAjnsWB9EOcFL7Cq5ykpq"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 174754,
+      "name": "El Chaval\u00f3n",
+      "url": "https://open.spotify.com/track/7uBePvu0TAwsdX2POckybu"
     },
     {
       "added_at": "2026-04-03 04:03:09",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-04-03 04:03:09",
       "album": {
-        "name": "Si Lo Digo Es Porque Puedo",
-        "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
-        }
-      ],
-      "duration_ms": 172297,
-      "name": "Gente De Accionar",
-      "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
-    },
-    {
-      "added_at": "2026-04-03 04:03:09",
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 179450,
       "name": "La 701",
       "url": "https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i"
+    },
+    {
+      "added_at": "2026-04-03 04:03:09",
+      "album": {
+        "name": "Si Lo Digo Es Porque Puedo",
+        "url": "https://open.spotify.com/album/36T7295UHRjUmh2HxKNkDR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "duration_ms": 172297,
+      "name": "Gente De Accionar",
+      "url": "https://open.spotify.com/track/3ZpajXo0KgjHw5WSMMIDfy"
     },
     {
       "added_at": "2026-04-03 04:03:09",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-04-03 04:03:09",
       "album": {
-        "name": "Yo Vengo De La Nada",
-        "url": "https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq"
-      },
-      "artists": [
-        {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
-        },
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        }
-      ],
-      "duration_ms": 156807,
-      "name": "Yo Vengo De La Nada",
-      "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"
-    },
-    {
-      "added_at": "2026-04-03 04:03:09",
-      "album": {
         "name": "Mood Malandro",
         "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 191558,
       "name": "Mood Malandro",
       "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
+    },
+    {
+      "added_at": "2026-04-03 04:03:09",
+      "album": {
+        "name": "Yo Vengo De La Nada",
+        "url": "https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq"
+      },
+      "artists": [
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        },
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        }
+      ],
+      "duration_ms": 156807,
+      "name": "Yo Vengo De La Nada",
+      "url": "https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh"
     },
     {
       "added_at": "2026-04-03 04:03:09",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-04-03 04:03:09",
       "album": {
-        "name": "MODELO V",
-        "url": "https://open.spotify.com/album/4n2TsxlpT6TNsxebUYZCRd"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 190512,
-      "name": "MODELO V",
-      "url": "https://open.spotify.com/track/0CkRWoCbCPsBrVp6s8psZ2"
-    },
-    {
-      "added_at": "2026-04-03 04:03:09",
-      "album": {
         "name": "Supercargada",
         "url": "https://open.spotify.com/album/2MhwcUwJ8ovTDXcON7Upz1"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 175616,
       "name": "Supercargada",
       "url": "https://open.spotify.com/track/6SiAlj1pGTYSnXuKlLCcZd"
+    },
+    {
+      "added_at": "2026-04-03 04:03:09",
+      "album": {
+        "name": "MODELO V",
+        "url": "https://open.spotify.com/album/4n2TsxlpT6TNsxebUYZCRd"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 190512,
+      "name": "MODELO V",
+      "url": "https://open.spotify.com/track/0CkRWoCbCPsBrVp6s8psZ2"
     }
   ],
   "unique_name": "La Privada",

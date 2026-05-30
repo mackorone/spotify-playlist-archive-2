@@ -4,16 +4,18 @@
 
 > Warm instrumental guitar for a gentle start.
 
-469 songs - 20 hr 10 min
+476 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [13 de Julio](https://open.spotify.com/track/2htFLReJu6umNjsW1jAsMM) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Pampa y Misterio](https://open.spotify.com/album/0l517ILh9o9JHdRw7WsrrX) | 1:51 | 2023-01-20 | 2023-08-26 |
+| [1980](https://open.spotify.com/track/3Zb7m33gZLm0pkKXydpcbV) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [1980](https://open.spotify.com/album/6qOH30TOflMHu7lTiq33mb) | 2:11 | 2026-05-29 |  |
 | [A Marshmellow World](https://open.spotify.com/track/4TezFmLWnhe2gmwSg9oBgN) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [A Marshmellow World](https://open.spotify.com/album/06EGglJ1g08GNBiSEdzctZ) | 1:46 | 2024-11-06 | 2025-03-12 |
 | [A New Town](https://open.spotify.com/track/0TtojWFyrWvZQwPzUL0zOU) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [A New Town](https://open.spotify.com/album/0VLeqbF4YKB3etHmiu9Wir) | 3:00 | 2025-09-12 |  |
 | [A Pause in Time](https://open.spotify.com/track/0JsrO43QxoH9jVIZ5o0kZQ) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [A Pause in Time](https://open.spotify.com/album/3SourEMhZgyUDEkb9uMaE3) | 2:22 | 2025-03-18 | 2025-05-20 |
 | [A place to go](https://open.spotify.com/track/7oFm6C4wxkkVM1t1Via4mu) | [KORIBA](https://open.spotify.com/artist/0ttPJjx1cSyAn4CNVPNpEJ) | [Lonely Trip](https://open.spotify.com/album/2ezeL6Yi22qbpZnPgjU9nf) | 2:15 | 2023-03-24 | 2024-05-24 |
 | [A Quiet Message](https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [A Quiet Message](https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT) | 2:45 | 2023-05-09 | 2023-06-14 |
+| [A Stillness Within](https://open.spotify.com/track/2I58ajetaUKB6nl7963Tm7) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [A Stillness Within](https://open.spotify.com/album/2az1Rnce2myCYUd20ezq40) | 2:36 | 2026-05-29 |  |
 | [A Sweet Portrait](https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [A Sweet Portrait](https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl) | 2:27 | 2023-03-24 | 2025-05-29 |
 | [A symptom of love](https://open.spotify.com/track/5txD37iFI1bEZAmYg0vr2R) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [A symptom of love](https://open.spotify.com/album/72fvxb5dOABnoE2hVI6qi3) | 2:30 | 2023-02-24 | 2025-11-18 |
 | [abcdefu \- Guitar](https://open.spotify.com/track/0zz0FOzASOfV40g2mMwZjU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [abcdefu \(Guitar\)](https://open.spotify.com/album/2QOcjZil0yq4I6aOYeEwkF) | 4:15 | 2022-04-05 | 2023-03-10 |
@@ -132,6 +134,7 @@
 | [Enjoy Quietly](https://open.spotify.com/track/3nM9qzxNtAlxobdo6jLkxY) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Enjoy Quietly](https://open.spotify.com/album/3hQFgHVjnsvhOFv2LJ6nc2) | 2:32 | 2025-11-17 | 2025-12-23 |
 | [Entwined](https://open.spotify.com/track/2dD2vlba9615NY1XUOip8o) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Entwined](https://open.spotify.com/album/4duiYenGDX8tQdoAKlRpho) | 2:39 | 2025-05-13 |  |
 | [Epica](https://open.spotify.com/track/0atiY3LbkLweNVGenk79sx) | [Calden](https://open.spotify.com/artist/7Mk4LgnGiyEQldfCtHMXVe) | [Calden](https://open.spotify.com/album/5UbnVjw0edng6BBFivmGhs) | 1:21 | 2022-03-04 | 2022-07-01 |
+| [Esperándote](https://open.spotify.com/track/3LOMvUdTielO6KgtvNOuHJ) | [Davide Di Sierra](https://open.spotify.com/artist/4SJSkutoVsEjMPDDWUy2CG) | [Esperándote](https://open.spotify.com/album/2pTPM71gekppo6gQkrS6rl) | 2:35 | 2026-05-29 |  |
 | [Esteve](https://open.spotify.com/track/0z79KRpafDe5MduzUC5YhX) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Esteve](https://open.spotify.com/album/6P9fb1BvI1ZrwONnddqgEC) | 2:46 | 2025-03-05 | 2025-11-18 |
 | [Eternity](https://open.spotify.com/track/2cyNPCRZwqmfZNSgb6K2d6) | [Anshul Karn](https://open.spotify.com/artist/2XFT2RKEFS3T9h3Zsq9xsR) | [Eternity](https://open.spotify.com/album/0CsQkznGI4zvjVm9hWvir1) | 2:16 | 2022-03-04 | 2022-07-01 |
 | [Evening Glow](https://open.spotify.com/track/51hvO83ZDXLAtuxMb9hiJX) | [Néer Échoes](https://open.spotify.com/artist/3Z9Mr09HvDuod5l4JXIPpu) | [Evening Glow](https://open.spotify.com/album/0FUnhpLvxWntLrFpwCDpVB) | 2:42 | 2024-10-01 |  |
@@ -164,6 +167,7 @@
 | [Fly Up](https://open.spotify.com/track/0qzkoEYtEm3HZYUErVqk2E) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Fly Up](https://open.spotify.com/album/0p97Dwfkvjf0CxcmYaGRp9) | 2:21 | 2024-05-10 | 2025-09-13 |
 | [Follow Me](https://open.spotify.com/track/5qlWPpcBFypfcxJB0HvngM) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:05 | 2022-03-04 | 2022-07-08 |
 | [For Louise](https://open.spotify.com/track/22htnvHEZJQfd56eTmRVbM) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [For Louise](https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV) | 2:25 | 2022-03-04 | 2022-04-22 |
+| [Forest's Dream](https://open.spotify.com/track/1fWhKybAVLhgdvuwfh18ic) | [Dean Devaux](https://open.spotify.com/artist/7I3hN3ZYsVtCofZdp8Vque) | [Forest's Dream](https://open.spotify.com/album/46pp6mR39TwAEf3yalTjoA) | 2:18 | 2026-05-29 |  |
 | [Forever Grounded](https://open.spotify.com/track/2h4v1EDoBJTZUCrKGeWhDE) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Forever Grounded](https://open.spotify.com/album/4h662lhfF1VNQyHKwXrQp0) | 2:39 | 2025-02-19 | 2025-06-17 |
 | [Free at last](https://open.spotify.com/track/6NUq5Cj7Vu4LHjst1Oj1Yu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [From Dusk til Dawn](https://open.spotify.com/album/17eESm3rrSYQUO1EklmVQ4) | 2:35 | 2022-03-04 | 2024-04-06 |
 | [From Me To You](https://open.spotify.com/track/6KvEQQkHCAiIQRr75ZgiV7) | [Jason Lumen](https://open.spotify.com/artist/071OvtGYQ4tEbj8YMxN0du) | [Blackbird](https://open.spotify.com/album/0W4qzJ4avPABJU3IV2jmeP) | 2:45 | 2022-12-23 | 2023-03-10 |
@@ -269,6 +273,7 @@
 | [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 | 2023-06-22 | 2024-06-15 |
 | [Memories](https://open.spotify.com/track/43fv0Uohu4M5XnaBR4NYqh) | [Ian Rice](https://open.spotify.com/artist/7aUuQ2faT5iuixVCX7DXRj) | [As It Was](https://open.spotify.com/album/1wkZ0ftdgQCqV4BORaDiXn) | 3:27 | 2022-11-18 | 2023-02-25 |
 | [Memories of Spring](https://open.spotify.com/track/1ykgrOwZHrqDwVqL0FeV3f) | [Jeremiah River](https://open.spotify.com/artist/1yZEsDnvySiKAOlBRaf96D) | [Memories of Spring](https://open.spotify.com/album/7vjaeoMoOTbT3nxANmEHAN) | 2:21 | 2025-10-20 |  |
+| [Miles To Go](https://open.spotify.com/track/0fWnljaUhTwR6U1tFFjgX6) | [Ansel Leo](https://open.spotify.com/artist/0ZGzQZpKm8vUaLk7QooDgq) | [Miles To Go](https://open.spotify.com/album/23kMXgzWk8CmIi80mYDJaY) | 2:31 | 2026-05-29 |  |
 | [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 | 2023-04-21 | 2025-03-12 |
 | [Mná Na H'Eireann](https://open.spotify.com/track/5InWJK8aUznloFHTNH3Yza) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Mná Na H'Eireann](https://open.spotify.com/album/0INDZxABsPxB7JxTjYjmEy) | 2:33 | 2022-10-14 | 2023-10-13 |
 | [Mná Na H'Eireann](https://open.spotify.com/track/6KoZAaWjCwWDMHWHpNf8J6) | [Stephen Wake](https://open.spotify.com/artist/2cJYFSoLAYw942cLIRPGK7) | [Mná Na H'Eireann](https://open.spotify.com/album/1aZyHBKzHRHuR2C9HqbZIe) | 2:33 | 2022-10-07 | 2022-10-22 |
@@ -369,6 +374,7 @@
 | [Stairs](https://open.spotify.com/track/6ufsRNZjLydBXfncTkZ9ut) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Stairs](https://open.spotify.com/album/2mQcf2bqjYpNPbEfZw1ql5) | 2:40 | 2022-12-23 | 2023-05-10 |
 | [Staying In](https://open.spotify.com/track/4uLqEM1L4VhcTAnpKpkd3H) | [Sam Blom](https://open.spotify.com/artist/25zEYREIlgZF0kZ4Mb7OKN) | [Staying In](https://open.spotify.com/album/54OZnDVk4YawbMjQ2PrHsT) | 2:34 | 2025-05-19 |  |
 | [Still So Beautiful](https://open.spotify.com/track/1Oqj6onkV4tLjPSwd06Xg7) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Still So Beautiful](https://open.spotify.com/album/11r4IMk5xSdUYchjpIo2Bb) | 2:31 | 2022-03-04 | 2024-07-19 |
+| [Still Water](https://open.spotify.com/track/1Z8JqBsV8F4wepNo2YxZeW) | [Eugenio Lugo](https://open.spotify.com/artist/41H8ybXJCI8oIGnoOuZxnv) | [Still Water](https://open.spotify.com/album/3pZdGjE7UVsz5kWFqaPZYY) | 3:57 | 2026-05-29 |  |
 | [Stretch Through](https://open.spotify.com/track/5lwzLUn70mmFyHmX28Lfte) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Stretch Through](https://open.spotify.com/album/5GN2Ge30Mptqc9hpVCmZZH) | 2:18 | 2025-10-20 | 2026-05-23 |
 | [Strolling](https://open.spotify.com/track/5VCXMTgWi94jTU2wqKHQ1P) | [Steve Harris](https://open.spotify.com/artist/6O4Mp6UzqdDpXSVA3tUHTK) | [Strolling](https://open.spotify.com/album/4OyA57DDCvjgSOFxFJ7LY8) | 1:50 | 2025-01-07 | 2025-04-03 |
 | [Sullen Streets](https://open.spotify.com/track/2EQ4Oc2W8iNG9ZpGdl5wpe) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Sullen Streets](https://open.spotify.com/album/09kxEbIQ5Ox5v8hczNkQsW) | 2:22 | 2023-02-24 |  |
@@ -424,6 +430,7 @@
 | [Traveling Through](https://open.spotify.com/track/1UygGXclx9iMNWArEXmQZf) | [Timber Row](https://open.spotify.com/artist/64ICK2JUkKFcevsUA8N8Ll) | [Lone Rider](https://open.spotify.com/album/2KhCe7d9REnKhzfiR3BDFp) | 2:14 | 2022-03-04 | 2023-04-22 |
 | [True At Heart](https://open.spotify.com/track/73h3TJ84CCvwCfvvLpcVdq) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [True At Heart](https://open.spotify.com/album/0F6Y7O5CCZ8Ivlqb1A7uCV) | 2:13 | 2024-08-20 | 2025-06-17 |
 | [Tuscany](https://open.spotify.com/track/30Oh4ng8nkRQVhTtJEFI5I) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Tuscany](https://open.spotify.com/album/6HOv6lf3yleb4aJr9H76dw) | 2:04 | 2022-11-25 | 2023-05-10 |
+| [Un Momento Lento](https://open.spotify.com/track/2AADaEIRyEPLSpc7CQZRud) | [Olly Chesterman](https://open.spotify.com/artist/7cbFx59dQGKkWoNCAW8xFR) | [Un Momento Lento](https://open.spotify.com/album/6bSAwG6ybtJFJOfEBtFAgG) | 1:52 | 2026-05-29 |  |
 | [Uncharted roads](https://open.spotify.com/track/3oAN0qg37IOssyo0PX0p4I) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Uncharted roads](https://open.spotify.com/album/3slwpgpjDnCvY0KQTSsdF5) | 2:40 | 2025-09-12 |  |
 | [Under the Maple Tree](https://open.spotify.com/track/5rQMtXDTOZJhoYmtegIMFD) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Under the Maple Tree](https://open.spotify.com/album/20E4sk292E3oYqE4dr3VDU) | 2:58 | 2025-03-18 | 2025-05-20 |
 | [Under the Stars](https://open.spotify.com/track/4hBZeB6q56Jzq3wDh1MuPF) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Under the Stars](https://open.spotify.com/album/51EkjvbQPcZksWNjfrUi91) | 2:16 | 2023-02-24 | 2024-06-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,853 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,861 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 27 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
 | 28 | [Love You Right](https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Love You Right](https://open.spotify.com/album/24lu2LU2D8bI9qKnn4nSks) | 2:45 |
 | 29 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
-| 30 | [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 |
-| 31 | [It Ain't Over](https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:59 |
+| 30 | [It Ain't Over](https://open.spotify.com/track/7xWKGIFGLxBJAyGSus7BOJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:59 |
+| 31 | [Senses ft\. Sampha](https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ambiguous Desire](https://open.spotify.com/album/2l7Qtf3Mffx6ZIDTpyaMtS) | 4:02 |
 | 32 | [Sisters With Me](https://open.spotify.com/track/2ewg31VuWBIamb8f8APqw7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Sisters With Me](https://open.spotify.com/album/74sxWShKdwDJAFyID1XaaP) | 4:04 |
 | 33 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 |
 | 34 | [THEMSELVES](https://open.spotify.com/track/3vzSGr8Anj3SLaMrp613Gm) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [BACKWARD](https://open.spotify.com/album/0zN2naR1Vok73SgqTLS701) | 2:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,679 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,709 likes - 75 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 14 | [Nothing Happens Here](https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Nothing Happens Here](https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K) | 4:14 |
 | 15 | [End Of Summer](https://open.spotify.com/track/5Awwc8XXZPub32TbLWyOPp) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [End of Summer](https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ) | 3:55 |
 | 16 | [When I Fell for You](https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [When I Fell for You](https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk) | 5:22 |
-| 17 | [Glade](https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Forest Floor](https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi) | 5:42 |
-| 18 | [Deep in a Dream](https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja) | [Dmitry Baevsky](https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq), [Clovis Nicolas](https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh), [Jason Brown](https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY), [Stéphane Belmondo](https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ) | [Deep in a Dream](https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F) | 5:40 |
+| 17 | [Deep in a Dream](https://open.spotify.com/track/069VcK8RjjzhZK3UT3A8ja) | [Dmitry Baevsky](https://open.spotify.com/artist/728obCMssc3nIbC1qyaWJq), [Clovis Nicolas](https://open.spotify.com/artist/5JsYUdqyzTibf8j5w3PXKh), [Jason Brown](https://open.spotify.com/artist/2MYIvlQlzAXcgIlS4qqflY), [Stéphane Belmondo](https://open.spotify.com/artist/7uHyUkVGYl24xpCzTGZlzQ) | [Deep in a Dream](https://open.spotify.com/album/3kvH4Zr11zkfvUtwGS2Z7F) | 5:40 |
+| 18 | [Glade](https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Forest Floor](https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi) | 5:42 |
 | 19 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 6:33 |
 | 20 | [Solace](https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp) | [New Fossils](https://open.spotify.com/artist/1xLmn6aIyH3jxg8lX7L9Zm) | [II](https://open.spotify.com/album/1TQcJ46fVdGcVoG5kTXe0W) | 2:51 |
 | 21 | [Memories](https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG), [Maija Kauhanen](https://open.spotify.com/artist/4IfPb99Q6EIAGqE1w9Gw4q) | [Memories](https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv) | 6:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 74 | [Little Bird of Passage](https://open.spotify.com/track/7Ax5oHgngxCgqJNsBBzaub) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Little Bird of Passage](https://open.spotify.com/album/2qRhnK6la2N6J1JMX6KeFT) | 5:21 |
 | 75 | [central park west](https://open.spotify.com/track/1RzZ52eCHTUA9VkIJMMcO3) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [central park west](https://open.spotify.com/album/4jR1pj36uwbnOKxBphdmEG) | 4:28 |
 
-Snapshot ID: `AAAAAIl3ZGrXLU0CHrfWuUfihTkRASN/`
+Snapshot ID: `AAAAACQMEJzv+SeKWDKZPoDc8PO3wWLj`

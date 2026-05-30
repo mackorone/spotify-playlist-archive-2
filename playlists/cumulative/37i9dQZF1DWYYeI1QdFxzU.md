@@ -4,7 +4,7 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-200 songs - 13 hr 49 min
+202 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,13 +90,14 @@
 | [Forever Held](https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Forever Held](https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58) | 2:38 | 2024-11-01 |  |
 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 | 2021-10-15 |  |
 | [Get Away](https://open.spotify.com/track/52x4EIYCNN2LXXgy8LQ7Tb) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/7G6KMFNhuWlwwn4zGZTmk9) | 3:07 | 2021-10-15 | 2022-10-13 |
+| [Get That Close \(Orchestral\)](https://open.spotify.com/track/5vaPXwFceDDou7H2A5DllV) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Get That Close \(Orchestral\)](https://open.spotify.com/album/1mDAvdTxVIgvYQrwkN6Ag8) | 2:51 | 2026-05-29 |  |
 | [Go](https://open.spotify.com/track/7lcnSJwHkEHIwMSdPjavqH) | [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa), [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX) | [Go](https://open.spotify.com/album/1sdtDcHgD8ldGjXF2pgrSd) | 5:17 | 2026-05-07 |  |
 | [Grown Into You](https://open.spotify.com/track/2nOtqboltnadNSXWSFOdKT) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Grown Into You](https://open.spotify.com/album/3VqfUxHV8ZjcRJq9ihbBVr) | 3:42 | 2021-10-15 | 2022-07-29 |
 | [Grown Into You](https://open.spotify.com/track/3ITy1AfO27OqKCC8D5lFCy) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Home](https://open.spotify.com/album/6vSDLoq9qgSoEHKJm9tSLF) | 3:42 | 2021-10-15 | 2023-10-22 |
 | [haloes](https://open.spotify.com/track/54zbMMBTlxVurjPEWe4hUs) | [førget.](https://open.spotify.com/artist/5wHfi1y1q2QxxRGa4XBUwi) | [haloes](https://open.spotify.com/album/3ToJV3r9dqHtwYPLlsoCMf) | 2:08 | 2024-03-01 | 2026-03-13 |
 | [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 | 2024-03-01 | 2026-05-08 |
 | [Here](https://open.spotify.com/track/4vk5hhssPKQQBYNIQfteta) | [Jonas Munk](https://open.spotify.com/artist/6KPFlbSbh1zeN7x9QpgB4O), [Nicklas Sørensen](https://open.spotify.com/artist/3OXCO3AZeHHNudXu8Mftd7) | [Always Already Here](https://open.spotify.com/album/6Cly90UXXW9Hz851yq7mtM) | 3:28 | 2021-10-15 | 2023-03-05 |
-| [Home](https://open.spotify.com/track/20nMaS9F08WxA3FU9P0UG3) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI), [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Hyperphantasia](https://open.spotify.com/album/1vgXBRPMUybozJ8zD4TrZ0) | 4:10 | 2026-05-07 |  |
+| [Home](https://open.spotify.com/track/20nMaS9F08WxA3FU9P0UG3) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI), [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Hyperphantasia](https://open.spotify.com/album/1vgXBRPMUybozJ8zD4TrZ0) | 4:10 | 2026-05-07 | 2026-05-30 |
 | [home \(feat\. Kehina\)](https://open.spotify.com/track/6zNlb6YYsRHjIHBTNzoQ4X) | [ones](https://open.spotify.com/artist/2eKt2klgJbaK8qAqvkAte6), [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx) | [far too long](https://open.spotify.com/album/1fB7b72MXdkf1mT0ZZKCvd) | 2:53 | 2024-03-29 | 2024-09-20 |
 | [Home Station \(DJ\-Kicks Version\)](https://open.spotify.com/track/77795B8ZW6IwEFX3tlFWEQ) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [DJ\-Kicks: Sofia Kourtesis](https://open.spotify.com/album/3lgFnobUxzsnRNiGwS0XNj) | 2:29 | 2026-03-31 |  |
 | [i feel lost](https://open.spotify.com/track/2j7IP4msk5ZdSBtPQHuVly) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [Astral Projection](https://open.spotify.com/album/5PLTq69wJgaqQC10uWFpSj) | 2:27 | 2024-03-29 |  |
@@ -157,7 +158,7 @@
 | [Satisfied \[Strings\]](https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \[Strings\]](https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B) | 2:57 | 2024-09-19 |  |
 | [Screen](https://open.spotify.com/track/4Jwjq4kSi0IroSqO52Ob6M) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Screen](https://open.spotify.com/album/0vMC7XHhED9lyzCDor1rXu) | 4:06 | 2026-03-20 |  |
 | [Second Chance](https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Second Chance](https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS) | 4:30 | 2024-01-12 |  |
-| [Shining](https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Shining](https://open.spotify.com/album/2h2rLM0aSmNe2QNLTZuoCd) | 3:34 | 2023-10-20 |  |
+| [Shining](https://open.spotify.com/track/1w05kLq8yTawV2UStnkBxF) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Shining](https://open.spotify.com/album/2h2rLM0aSmNe2QNLTZuoCd) | 3:34 | 2023-10-20 | 2026-05-30 |
 | [Silver \- Original Mix](https://open.spotify.com/track/1Sitb65qvjW8eGNeUAgVqN) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Green Lanes EP](https://open.spotify.com/album/5DdQz0dx2qc5NYbLWwuszb) | 5:32 | 2021-10-15 | 2022-07-29 |
 | [Sit Around The Fire](https://open.spotify.com/track/2sAlOD8k8EL0dQ34f2ysJS) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Music For Psychedelic Therapy \(Excerpt\)](https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv) | 8:22 | 2021-10-15 | 2026-05-17 |
 | [Sitting at the Piano](https://open.spotify.com/track/6i1KrHhWOTwmUHnzu5wGBf) | [Afterlife](https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz) | [Sitting at the Piano](https://open.spotify.com/album/5U2xHo1yudVQQUYme57H2B) | 5:22 | 2021-10-15 | 2022-07-29 |
@@ -207,6 +208,7 @@
 | [Yorokobi](https://open.spotify.com/track/2h4JwOuZMiBSCao8QAiwgS) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Yorokobi](https://open.spotify.com/album/5mZ7OlFuS64Xi3P3J6LTWw) | 2:17 | 2024-11-01 |  |
 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 | 2021-10-15 | 2024-04-19 |
 | [You and I](https://open.spotify.com/track/5IBdGT5kl3wNblGeCpVYrH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [You and I](https://open.spotify.com/album/7L3MIEJygvjr0ovJXBUvW1) | 4:03 | 2021-10-15 | 2022-07-24 |
+| [You Retreat In Time And Space](https://open.spotify.com/track/5m3Uzjuiyj8656EGM1bwhk) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 5:25 | 2026-05-29 |  |
 | [⋆.✩ ࣪₊˚.⋆☾⋆⁺₊✧](https://open.spotify.com/track/0SxDq6CxA8IgkZIMsmUccI) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Close](https://open.spotify.com/album/3gRdeYH5U1sjiAb9a2HRzY) | 2:19 | 2026-03-12 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

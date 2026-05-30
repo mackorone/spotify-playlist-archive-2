@@ -1,6 +1,6 @@
 {
   "description": "The hottest tracks in Ghana. Cover: KiDi & Lasmid",
-  "num_followers": 85570,
+  "num_followers": 85631,
   "original_name": "Hot Hits Ghana",
   "owner": {
     "name": "Spotify",
@@ -214,6 +214,10 @@
         {
           "name": "O'Kenneth",
           "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Saint Edrah",
+          "url": "https://open.spotify.com/artist/2kbp8NOIpu2kWcYvzj54qG"
         }
       ],
       "duration_ms": 167090,

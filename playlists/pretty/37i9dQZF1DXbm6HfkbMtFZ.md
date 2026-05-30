@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,044 likes - 115 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,094 likes - 115 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 47 | [Uneasy \- Metronomy x spill tab](https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Uneasy \- Metronomy x spill tab](https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv) | 3:23 |
 | 48 | [Where You Belong](https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:27 |
 | 49 | [Anticipate](https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Anticipate](https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1) | 3:09 |
-| 50 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 |
+| 50 | [Let Love Flow On](https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t) | [Sonya Spence](https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ) | [Sings Love](https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd) | 3:42 |
 | 51 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
-| 52 | [Let Love Flow On](https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t) | [Sonya Spence](https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ) | [Sings Love](https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd) | 3:42 |
+| 52 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 |
 | 53 | [All the Time](https://open.spotify.com/track/3P0ONdABTC2DIzAfoJydzH) | [GHOSTWOMAN](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Ghost Woman](https://open.spotify.com/album/7vpXyhnVVUdrln1HfdURkr) | 4:55 |
 | 54 | [Mr\. Right Now](https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC) | [tig3r lewis](https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN) | [Mr\. Right Now](https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y) | 2:33 |
 | 55 | [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 89 | [wait outside](https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [wait outside](https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E) | 2:31 |
 | 90 | [Kathy and Paul](https://open.spotify.com/track/0FzYtu4DEKZkNxpxl7VXw6) | [Long Island Railroad](https://open.spotify.com/artist/2zZSQmUEnIliGJRClpPb70), [Smushie](https://open.spotify.com/artist/0XGgpBKj7u2MMX2kqUVLaH), [Ryan Gebhardt](https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA) | [Kathy and Paul](https://open.spotify.com/album/6kyQHx273kGzLd4Z8ogt4C) | 2:54 |
 | 91 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 |
-| 92 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 |
-| 93 | [I Just Want To Talk To You](https://open.spotify.com/track/4TmnRITTYSRhgY2zmEAJQ3) | [Charles Brown](https://open.spotify.com/artist/21DZF1qKLhIEpKTNvCA3tg), [Sleepy Creek](https://open.spotify.com/artist/28YkKGShPsq7y6Pf7NKE97) | [I Just Want To Talk To You](https://open.spotify.com/album/68DJRWdkFtRIMxYURX7zDX) | 3:11 |
+| 92 | [I Just Want To Talk To You](https://open.spotify.com/track/4TmnRITTYSRhgY2zmEAJQ3) | [Charles Brown](https://open.spotify.com/artist/21DZF1qKLhIEpKTNvCA3tg), [Sleepy Creek](https://open.spotify.com/artist/28YkKGShPsq7y6Pf7NKE97) | [I Just Want To Talk To You](https://open.spotify.com/album/68DJRWdkFtRIMxYURX7zDX) | 3:11 |
+| 93 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 |
 | 94 | [The Conservation of Energy](https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Choose Your Own Adventure](https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz) | 4:13 |
 | 95 | [The Otherside](https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Get On The Otherside](https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3) | 3:49 |
 | 96 | [Believer](https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [The Switch](https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY) | 3:09 |

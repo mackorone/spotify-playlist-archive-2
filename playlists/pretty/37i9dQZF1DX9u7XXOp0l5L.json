@@ -1,6 +1,6 @@
 {
   "description": "Non-stop een goed gevoel!",
-  "num_followers": 684555,
+  "num_followers": 684535,
   "original_name": "Happy Tunes",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-05-28 22:00:03",
       "album": {
-        "name": "I Just Might",
-        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
-    },
-    {
-      "added_at": "2026-05-28 22:00:03",
-      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 239600,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+    },
+    {
+      "added_at": "2026-05-28 22:00:03",
+      "album": {
+        "name": "I Just Might",
+        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "I Just Might",
+      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
       "added_at": "2026-05-28 22:00:03",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-05-28 22:00:03",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
-    },
-    {
-      "added_at": "2026-05-28 22:00:03",
-      "album": {
         "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
         "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2026-05-28 22:00:03",
       "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/47Slg6LuqLaX0VodpSCvPt"
+    },
+    {
+      "added_at": "2026-05-28 22:00:03",
+      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
@@ -463,26 +463,6 @@
       "duration_ms": 266600,
       "name": "Little Talks",
       "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
-    },
-    {
-      "added_at": "2026-05-28 22:00:03",
-      "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 288408,
-      "name": "Boogie Wonderland (with The Emotions) - Single Version",
-      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
     },
     {
       "added_at": "2026-05-28 22:00:03",
@@ -503,6 +483,26 @@
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"
+    },
+    {
+      "added_at": "2026-05-28 22:00:03",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 288408,
+      "name": "Boogie Wonderland (with The Emotions) - Single Version",
+      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
     },
     {
       "added_at": "2026-05-28 22:00:03",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-05-28 22:00:03",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2026-05-28 22:00:03",
-      "album": {
         "name": "Toulouse Street",
         "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 227266,
       "name": "Listen to the Music",
       "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
+    },
+    {
+      "added_at": "2026-05-28 22:00:03",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2026-05-28 22:00:03",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-28 22:00:03",
       "album": {
-        "name": "Eye To The Telescope",
-        "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
-      },
-      "artists": [
-        {
-          "name": "KT Tunstall",
-          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Suddenly I See",
-      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
-    },
-    {
-      "added_at": "2026-05-28 22:00:03",
-      "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "added_at": "2026-05-28 22:00:03",
+      "album": {
+        "name": "Eye To The Telescope",
+        "url": "https://open.spotify.com/album/3j70PDKieTWQAwas3bPHRZ"
+      },
+      "artists": [
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Suddenly I See",
+      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
     },
     {
       "added_at": "2026-05-28 22:00:03",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-05-28 22:00:03",
       "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
-    },
-    {
-      "added_at": "2026-05-28 22:00:03",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2026-05-28 22:00:03",
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "added_at": "2026-05-28 22:00:03",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-05-28 22:00:03",
       "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
-      },
-      "artists": [
-        {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
-    },
-    {
-      "added_at": "2026-05-28 22:00:03",
-      "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 167613,
       "name": "Green Green Grass",
       "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+    },
+    {
+      "added_at": "2026-05-28 22:00:03",
+      "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2026-05-28 22:00:03",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2026-05-28 22:00:03",
       "album": {
-        "name": "Lean on Me: The Best of Bill Withers",
-        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"
-    },
-    {
-      "added_at": "2026-05-28 22:00:03",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/0qj6LhMLgU1ferLbZ8Rbnw"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 164866,
       "name": "The Safety Dance",
       "url": "https://open.spotify.com/track/5O4NFbDqJ8SOfbjnIhdPDt"
+    },
+    {
+      "added_at": "2026-05-28 22:00:03",
+      "album": {
+        "name": "Lean on Me: The Best of Bill Withers",
+        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"
     },
     {
       "added_at": "2026-05-28 22:00:03",

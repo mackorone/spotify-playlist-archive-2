@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158664,
+  "num_followers": 158661,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "Tom Cinza",
+        "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
+      },
+      "artists": [
+        {
+          "name": "Cr\u00f4nicas de um Babaca",
+          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
+        },
+        {
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Tom Cinza",
+      "url": "https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "Brisa Errada",
         "url": "https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 123582,
       "name": "Brisa Errada",
       "url": "https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Tom Cinza",
-        "url": "https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6"
-      },
-      "artists": [
-        {
-          "name": "Cr\u00f4nicas de um Babaca",
-          "url": "https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV"
-        },
-        {
-          "name": "brandu",
-          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Tom Cinza",
-      "url": "https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -519,6 +519,34 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "Drogas e Sanfona",
+        "url": "https://open.spotify.com/album/7sdSlxyUNrYIGnr7Gjtd7r"
+      },
+      "artists": [
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "DUP\u00ca",
+          "url": "https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm"
+        },
+        {
+          "name": "Drake D.N",
+          "url": "https://open.spotify.com/artist/1vzDo7jFkbW3beWrNYDB27"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        }
+      ],
+      "duration_ms": 148944,
+      "name": "Drogas e Sanfona",
+      "url": "https://open.spotify.com/track/5OVfyWUnDUmCCoNvz0wYN9"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "RASTAFARI",
         "url": "https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG"
       },
@@ -539,22 +567,6 @@
       "duration_ms": 127794,
       "name": "RASTAFARI",
       "url": "https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "MARQUINHA",
-        "url": "https://open.spotify.com/album/0jK64HhmQ9W4Z5q54zgCqz"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 146651,
-      "name": "MARQUINHA",
-      "url": "https://open.spotify.com/track/2kpH7eRW7kjkXIlJpde87R"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -587,30 +599,18 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Drogas e Sanfona",
-        "url": "https://open.spotify.com/album/7sdSlxyUNrYIGnr7Gjtd7r"
+        "name": "MARQUINHA",
+        "url": "https://open.spotify.com/album/0jK64HhmQ9W4Z5q54zgCqz"
       },
       "artists": [
         {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "DUP\u00ca",
-          "url": "https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm"
-        },
-        {
-          "name": "Drake D.N",
-          "url": "https://open.spotify.com/artist/1vzDo7jFkbW3beWrNYDB27"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 148944,
-      "name": "Drogas e Sanfona",
-      "url": "https://open.spotify.com/track/5OVfyWUnDUmCCoNvz0wYN9"
+      "duration_ms": 146651,
+      "name": "MARQUINHA",
+      "url": "https://open.spotify.com/track/2kpH7eRW7kjkXIlJpde87R"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "QUENTE",
+        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
+      },
+      "artists": [
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        }
+      ],
+      "duration_ms": 123128,
+      "name": "QUENTE",
+      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "Moz\u00e3o",
         "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 160500,
       "name": "Moz\u00e3o",
       "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "QUENTE",
-        "url": "https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE"
-      },
-      "artists": [
-        {
-          "name": "Amanda Sarmento",
-          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
-        }
-      ],
-      "duration_ms": 123128,
-      "name": "QUENTE",
-      "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -795,26 +795,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Garotas s\u00e3o Confusas (Deluxe)",
-        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
-      },
-      "artists": [
-        {
-          "name": "Chase",
-          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        }
-      ],
-      "duration_ms": 139780,
-      "name": "A Festa",
-      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "VIRADA DE CHAVE",
         "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 188470,
       "name": "QUARTAS DE CINZA",
       "url": "https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "Garotas s\u00e3o Confusas (Deluxe)",
+        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
+      },
+      "artists": [
+        {
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "duration_ms": 139780,
+      "name": "A Festa",
+      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Oriente Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 215936,
-      "name": "Luz da Lua",
-      "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "Mais Al\u00e9m",
         "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 226000,
       "name": "Eles N\u00e3o Querem",
       "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "Oriente Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 215936,
+      "name": "Luz da Lua",
+      "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1231,6 +1231,30 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "ALAKASAM",
+        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Sem Press\u00e3o",
+      "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "Ciclo Vicioso",
         "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
       },
@@ -1275,30 +1299,6 @@
       "duration_ms": 169043,
       "name": "quem dera fosse...",
       "url": "https://open.spotify.com/track/2kmITcoAdnL8D7YPfwgklS"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "ALAKASAM",
-        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Sem Press\u00e3o",
-      "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
     },
     {
       "added_at": "2026-05-22 03:01:19",

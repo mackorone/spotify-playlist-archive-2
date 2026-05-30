@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,489 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,507 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 50 | [Mal](https://open.spotify.com/track/1FaEZe9E5eRYbpmwBDnYYK) | [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Mal](https://open.spotify.com/album/5kPcG2Ust8TEPQ56RVJuS4) | 4:18 |
 | 51 | [HoneyComb](https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [HoneyComb](https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM) | 2:19 |
 | 52 | [Kite Zo A](https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB) | [Lakou Mizik](https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r), [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX) | [Leave the Bones](https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ) | 5:54 |
-| 53 | [Mennaj Moun Yo](https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Mennaj Moun Yo](https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7) | 3:08 |
-| 54 | [Bizou](https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Bizou](https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW) | 2:56 |
+| 53 | [Bizou](https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Bizou](https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW) | 2:56 |
+| 54 | [Mennaj Moun Yo](https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Mennaj Moun Yo](https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7) | 3:08 |
 | 55 | [Ti Kabrit](https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Ti Kabrit](https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK) | 2:41 |
 | 56 | [Cashapp Cashapp Zelle](https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [Cashapp Cashapp Zelle](https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo) | 1:01 |
 | 57 | [Premye Fwa](https://open.spotify.com/track/0oVvKinBh6aWHfB0fUd4zs) | [DANOLA](https://open.spotify.com/artist/3X5IOZ3uAV3ClZg7hkeU7y) | [Premye Fwa](https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB) | 3:09 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 65 | [Bal Tout](https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Bal Tout](https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn) | 3:11 |
 | 66 | [Way Too Nice](https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR) | [Eyo\-E](https://open.spotify.com/artist/1fHqQb2xk144TtZxVGuULB) | [Way Too Nice](https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65) | 2:05 |
 | 67 | [Ban Mwen Love](https://open.spotify.com/track/1XbnEgnpIsAefXxNuiNH3X) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Ban Mwen Love](https://open.spotify.com/album/6HExK0uNeuhH4iNWQWuxie) | 4:38 |
-| 68 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 |
-| 69 | [Regrè](https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj) | [Wood Terrib](https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr) | [Regrè](https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7) | 3:49 |
+| 68 | [Regrè](https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj) | [Wood Terrib](https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr) | [Regrè](https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7) | 3:49 |
+| 69 | [She's Hot](https://open.spotify.com/track/0fd77CbudLrkDEnE2lXAcW) | [Pierre Jean](https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3), [TJO ZENNY](https://open.spotify.com/artist/3ZO3tXYKGVHvK2Yzx5cz2H) | [She's Hot](https://open.spotify.com/album/4aLbHzlAdncy8dQeP7O03u) | 3:58 |
 | 70 | [Love a Plein Temps](https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Love a Plein Temps](https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0) | 3:20 |
 | 71 | [HOLLOW.](https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Maureen Boyer](https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr), [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [Solèy](https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r) | 4:44 |
 | 72 | [Veye Priye](https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H) | [TROUBLEBOY HITMAKER](https://open.spotify.com/artist/7cvWJwt9kcAUzu4bdOBAio) | [Map Rap Ak Ke Kontan](https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1) | 2:18 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 96 | [Fete Nap Fete Ti Babas \- Live](https://open.spotify.com/track/3uz0KBWrclYlVgSgfC2tue) | [Haitian sky](https://open.spotify.com/artist/6GWK0aG3Hq8YSopy1milwv) | [Fete Nap Fete Ti Babas \(Live\)](https://open.spotify.com/album/4NxnJQPNAXRHl72HFIyNml) | 3:10 |
 | 97 | [U.F.O.](https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc) | [Freedom](https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [U.F.O.](https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu) | 3:30 |
 | 98 | [DILEMMA](https://open.spotify.com/track/66hJl21lRutbfOCcELoS1R) | [Dave Casseus](https://open.spotify.com/artist/6M0ExvsS8reHN5VKnqy1Eu), [Phanuel](https://open.spotify.com/artist/25wDxLvG5zX7B00AR6mhA4) | [DILEMMA](https://open.spotify.com/album/7asSYtN8VUWMJiBK6tCw4H) | 2:28 |
-| 99 | [Koupé](https://open.spotify.com/track/4qDqvbShZqZoipdKJuV3fk) | [Bilix](https://open.spotify.com/artist/2t3MOHUqpgzXfxRugdaXSY), [Blackboy](https://open.spotify.com/artist/41rmcjpuoB63va3wJtJ5sV), [Jay Brixxx](https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv) | [Koupé](https://open.spotify.com/album/0wDhbYYG03ApoFYKwtFpZI) | 2:35 |
+| 99 | [Solèy Midi](https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW) | [Talie](https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6), [David Chavannes](https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc) | [Solèy Midi](https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF) | 3:49 |
 | 100 | [Stupid Love](https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [BlecksFlex](https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal) | [Stupid Love](https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0) | 2:44 |
 
 Snapshot ID: `AAAAAO+3mBIvG34Ety4ijgCw7xE73CId`

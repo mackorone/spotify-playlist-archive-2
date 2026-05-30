@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25  \u00c9chale mi Duaaaaaa",
-  "name": "HOT NOW - Dua Lipa & Man\u00e1",
+  "description": "LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25  ",
+  "name": "HOT NOW - Ariana Grande",
   "tracks": [
     {
       "album": {
@@ -614,7 +614,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 189102,
       "name": "7-3",
       "url": "https://open.spotify.com/track/4lzo6zPM2paqyP8oBp3DOs"
@@ -3502,7 +3502,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 151967,
       "name": "CANAIMA",
       "url": "https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs"
@@ -6138,7 +6138,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 214521,
       "name": "DROGA LETAL (Live) - Spotify Live Room",
       "url": "https://open.spotify.com/track/2dcU6QzHaKgZG36mKQpzFV"
@@ -8731,6 +8731,24 @@
     },
     {
       "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "album": {
         "name": "HBU",
         "url": "https://open.spotify.com/album/52UL8EHKzDRYx84XqNnRiq"
       },
@@ -9404,7 +9422,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 193788,
       "name": "IMPOSIBLE",
       "url": "https://open.spotify.com/track/1Rq1DowZWneBBEfqMJPFm6"
@@ -11700,7 +11718,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 179516,
       "name": "Loco",
       "url": "https://open.spotify.com/track/5luZ8xH6spkxFIH9dMenlp"
@@ -14474,6 +14492,24 @@
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
+    },
+    {
+      "album": {
+        "name": "Do Not Disturb",
+        "url": "https://open.spotify.com/album/661FeA95LRhOgZCJ3Y5u9A"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Ni le cabe",
+      "url": "https://open.spotify.com/track/6BMO15AObPwSeUzxtF2fep"
     },
     {
       "album": {
@@ -17311,6 +17347,28 @@
     },
     {
       "album": {
+        "name": "Que Gacho",
+        "url": "https://open.spotify.com/album/5wlbbDq6Sz0pCKWAMigv6i"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193205,
+      "name": "Que Gacho",
+      "url": "https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp"
+    },
+    {
+      "album": {
         "name": "QUE HACES",
         "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
       },
@@ -18078,6 +18136,24 @@
       "duration_ms": 146240,
       "name": "RU MOR",
       "url": "https://open.spotify.com/track/3LToltMjcoYi665BhuLEAN"
+    },
+    {
+      "album": {
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282216,
+      "name": "Rubio",
+      "url": "https://open.spotify.com/track/1koGYZiLV7pcmxT2FF8LNw"
     },
     {
       "album": {
@@ -21839,6 +21915,28 @@
     },
     {
       "album": {
+        "name": "Un Pacto",
+        "url": "https://open.spotify.com/album/77WUGINM34mgh0Tq1QssAA"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167960,
+      "name": "Un Pacto",
+      "url": "https://open.spotify.com/track/4WQnJ9yzHxpfTIoQf1GKra"
+    },
+    {
+      "album": {
         "name": "UN PREVIEW",
         "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
       },
@@ -21920,7 +22018,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 152500,
       "name": "Una A La Vez",
       "url": "https://open.spotify.com/track/6MakvfCAr1VvnivfWl5FTg"
@@ -21968,6 +22066,24 @@
       "duration_ms": 183890,
       "name": "UNA BALA",
       "url": "https://open.spotify.com/track/6Rz80wUWSUbGGVHvkH7NpU"
+    },
+    {
+      "album": {
+        "name": "UNA NA MAS",
+        "url": "https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196256,
+      "name": "UNA NA MAS",
+      "url": "https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"
     },
     {
       "album": {

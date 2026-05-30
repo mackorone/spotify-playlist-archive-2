@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women who open up the pit\. Cover: Amy Lee of Evanescence, Poppy & Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,063 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,167 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 63 | [Reincarnation](https://open.spotify.com/track/40BsFOkZsT8WznGkJFUCuN) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Beyond The Black](https://open.spotify.com/album/0tdRNZ2Rb53OoY6CioMdZy) | 4:13 |
 | 64 | [The Rabbit Of The Moon](https://open.spotify.com/track/2Zca3T3JmEk28lMu17h4jS) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Lunaris](https://open.spotify.com/album/0CN6BqPhX3iEUHewxIRHQe) | 3:51 |
 | 65 | [Mortal](https://open.spotify.com/track/43eCVp68xqlin5DFHKahIE) | [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Mortal](https://open.spotify.com/album/3JNEooM1MrfXDs7pxkdYZF) | 2:56 |
-| 66 | [Orphan Soul](https://open.spotify.com/track/17yKsz2dbVEMuIt3M5OcxL) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [86](https://open.spotify.com/album/5TIa1cNM3wXt1eLNIGuS4w) | 4:48 |
-| 67 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
+| 66 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
+| 67 | [Orphan Soul](https://open.spotify.com/track/17yKsz2dbVEMuIt3M5OcxL) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [86](https://open.spotify.com/album/5TIa1cNM3wXt1eLNIGuS4w) | 4:48 |
 | 68 | [Blood Pigs](https://open.spotify.com/track/5t4raLj2HuARdxKoDefT57) | [Otep](https://open.spotify.com/artist/6iswhpc2w6na3lS1vehFXF) | [Sevas Tra](https://open.spotify.com/album/1vQRctOyiOZlxElJNOWjdA) | 4:03 |
 | 69 | [Murder Scene](https://open.spotify.com/track/6YXwxIPFt3R340CnoFxjf9) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Murder Scene](https://open.spotify.com/album/69xdy6jTcmgmCrZbd4ilob) | 2:47 |
 | 70 | [Ceremony](https://open.spotify.com/track/67gqSywShfhuuYwDbcJ2hG) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [Ceremony](https://open.spotify.com/album/7gcIgsU1vw9E2GwZDMaIcp) | 3:19 |
@@ -89,14 +89,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 79 | [Exoskeleton](https://open.spotify.com/track/7eP2AL5TLlVUmGNmFyAAXD) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Myriad](https://open.spotify.com/album/3wGofyxNWI01dZbQV97czC) | 4:34 |
 | 80 | [BITE DOWN](https://open.spotify.com/track/3FS58QCiryR8nE0d8F5hhH) | [FKA Rayne](https://open.spotify.com/artist/39ONBEBBOmsAwyANl4tsPt) | [BITE DOWN](https://open.spotify.com/album/15KzBKCsWnQGYxauI5cpKr) | 2:05 |
 | 81 | [Popular Monster](https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Popular Monster](https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC) | 3:50 |
-| 82 | [Scatterbrain](https://open.spotify.com/track/10d58mW3UzVjqU1CR6opaF) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Scatterbrain](https://open.spotify.com/album/3sfCEzZLGJqHyHSUbzyagV) | 2:48 |
-| 83 | [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 |
+| 82 | [Fresh Blood, Fresh Pussy](https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [Witch Club Satan](https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp) | 3:35 |
+| 83 | [Scatterbrain](https://open.spotify.com/track/10d58mW3UzVjqU1CR6opaF) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Scatterbrain](https://open.spotify.com/album/3sfCEzZLGJqHyHSUbzyagV) | 2:48 |
 | 84 | [Year of the Rat](https://open.spotify.com/track/3tSPzD7A31dohGDH2DAAhZ) | [Tristania](https://open.spotify.com/artist/2EOmvmVtYMTgn45w9mWUTV) | [Rubicon](https://open.spotify.com/album/6dlToGhcA5HASShTBq60Q8) | 4:35 |
 | 85 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 |
 | 86 | [The Plague On Both Your Houses](https://open.spotify.com/track/3VauFwfAiJ4wm3EWc8P3iY) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [World Domination](https://open.spotify.com/album/1PMmd57x3WmnxAbns3ptpy) | 3:58 |
-| 87 | [Neon Lights](https://open.spotify.com/track/1SiIFmd9cSHOfE43NSP10x) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Sorrowbreaker](https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q) | 3:10 |
-| 88 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 |
-| 89 | [Cross the Divide](https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Cross The Divide](https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2) | 4:18 |
+| 87 | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Turn It Up \(Keyboard Warriors Social Club\)](https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO) | 3:58 |
+| 88 | [Cross the Divide](https://open.spotify.com/track/4wBQ6nLedd6HDDYrGcJuSJ) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Cross The Divide](https://open.spotify.com/album/58fCrpLJa3BwBmGKcTthV2) | 4:18 |
+| 89 | [Neon Lights](https://open.spotify.com/track/1SiIFmd9cSHOfE43NSP10x) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Sorrowbreaker](https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q) | 3:10 |
 | 90 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 |
 | 91 | [Blood Dynasty](https://open.spotify.com/track/6n976ZUAIzsbxpKTK8KZLA) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/31wydmj2g8I7IcLDYSknfQ) | 3:51 |
 | 92 | [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 |

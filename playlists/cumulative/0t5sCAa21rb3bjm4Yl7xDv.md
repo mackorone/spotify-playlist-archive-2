@@ -4,7 +4,7 @@
 
 > pop is SO back\. shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>.
 
-669 songs - 1 day 11 hr 27 min
+670 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -583,6 +583,7 @@
 | [The girl, so confusing version with lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The girl, so confusing version with lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-07-09 | 2024-07-27 |
 | [The Giver](https://open.spotify.com/track/5xHgo5JN0wfsV41HnRaos5) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Giver](https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1) | 3:22 | 2025-03-14 | 2026-03-31 |
 | [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 | 2026-03-17 |  |
+| [The Last Encounter](https://open.spotify.com/track/3cKyBigEDROC8U1QrY921a) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [The Last Encounter](https://open.spotify.com/album/7FxjVKOU9UL90KAwsvJ0y6) | 3:04 | 2026-05-29 |  |
 | [The Light](https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Light](https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa) | 2:52 | 2023-11-06 | 2023-11-25 |
 | [the me i was](https://open.spotify.com/track/5CPsaOIdRdBROb4dvIfKfM) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [biting my tongue](https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK) | 3:00 | 2024-07-26 | 2025-03-08 |
 | [The One That Got Away](https://open.spotify.com/track/6hkOqJ5mE093AQf2lbZnsG) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2026-04-30 |  |

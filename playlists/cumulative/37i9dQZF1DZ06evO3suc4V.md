@@ -4,7 +4,7 @@
 
 > This is Ravyn Lenae\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 18 min
+61 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 | 2025-12-18 |  |
 | [Glass Flows](https://open.spotify.com/track/06BLANboqUEnvBHJH0aViQ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [blkswn](https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs) | 3:08 | 2025-12-18 |  |
 | [Glo\-Fi \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/4nyYv3DMrmCrkHq3R6pOra) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Maybe in Nirvana](https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv) | 2:43 | 2025-12-18 |  |
+| [Handle](https://open.spotify.com/track/6NDvhN0PFBIioNAbM4EDak) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Handle](https://open.spotify.com/album/7lnMFvhJ0IU7KbludkIay0) | 3:06 | 2026-05-30 |  |
 | [Hiatus \(Waiting\) \- EP Version](https://open.spotify.com/track/7H8Cdh16KSfyOjya2hv2Q3) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 1:36 | 2026-03-22 | 2026-05-10 |
 | [Is It Real \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/3tYxKs4D1Xqyt9xR8soVdr) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [We Live In A Society](https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5) | 2:49 | 2025-12-18 |  |
 | [Killing Me Softly With His Song \- Spotify Singles](https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Ravyn Lenae \- Spotify Singles](https://open.spotify.com/album/6LTLO1em5gSsWWlBCOBazT) | 3:46 | 2025-12-18 | 2026-01-15 |
@@ -42,7 +43,7 @@
 | [M.I.A.](https://open.spotify.com/track/4uVDdOZMZZunYYKHVvm6WZ) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:27 | 2025-12-18 | 2026-02-14 |
 | [MF GROOVE \(with Ravyn Lenae\)](https://open.spotify.com/track/3f0wlG15mXf22WOraAYwJ7) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [NOIR](https://open.spotify.com/album/5rVlqi2fHOmWB764N8PsWF) | 4:06 | 2025-12-18 |  |
 | [Montego Bae](https://open.spotify.com/track/6QNaeyzCJBOS1R8N5GskR7) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Room 25](https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl) | 2:43 | 2025-12-18 |  |
-| [Moon Shoes](https://open.spotify.com/track/7hMUEYcx1aApliI6CAqvBS) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 2:47 | 2025-12-18 |  |
+| [Moon Shoes](https://open.spotify.com/track/7hMUEYcx1aApliI6CAqvBS) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 2:47 | 2025-12-18 | 2026-05-30 |
 | [Need U 2 Know \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7FPcDXSPxXbjmbXJ3pgjV5) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Head Rush](https://open.spotify.com/album/1LWY99BhdUJPU72PZ0MCIc) | 2:57 | 2025-12-18 | 2026-01-15 |
 | [New Jersey \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/0O3OEz6OsTE4tKVhWKpCks) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Whatever's Clever!](https://open.spotify.com/album/2ivbRaW10BVYVDTGRGDW6p) | 2:15 | 2026-03-29 |  |
 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/4jaNeCjRjTCekyaErvjnRX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:15 | 2025-12-18 |  |

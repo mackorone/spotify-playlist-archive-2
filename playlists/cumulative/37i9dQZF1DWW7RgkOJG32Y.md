@@ -2,9 +2,9 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Trending for a reason \- the home of country's future monster hits\. Cover: Megan Moroney
+> Trending for a reason \- the home of country's future monster hits\. Cover: Gabriella Rose
 
-662 songs - 1 day 11 hr 45 min
+663 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Keeps Me Sane](https://open.spotify.com/track/5ivClJh64rX5PvFeyqI4Ew) | [Tyler Nance](https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z) | [Keeps Me Sane](https://open.spotify.com/album/2uXjcnHz8XQWs8IHPiPTbA) | 3:12 | 2025-07-25 | 2026-03-14 |
 | [Key to Life](https://open.spotify.com/track/2Mt1eUJXN4QMeH6hh0rpUr) | [BEXAR](https://open.spotify.com/artist/1GXBaX5YUjOrrXch1sGepn) | [Pronounced BEAR](https://open.spotify.com/album/7cNdBHLEbwYGakUYG6GbUa) | 3:15 | 2022-01-21 | 2022-05-14 |
 | [Key West & Colorado](https://open.spotify.com/track/0K9q7Z82z3BygBWznLCqXL) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Key West & Colorado](https://open.spotify.com/album/0FDFEgqvnVxMw84e9xgNEL) | 3:26 | 2022-08-19 | 2023-06-24 |
+| [Land](https://open.spotify.com/track/4848iEZHeWX9rqPlilPA87) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Land](https://open.spotify.com/album/5MlazoygT2SDyJMOrvkVXr) | 3:23 | 2026-05-29 |  |
 | [Lasso](https://open.spotify.com/track/3avjQYeEgR9ko93lnMy2m9) | [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [Lasso](https://open.spotify.com/album/1KBnCThd8WNhM6KBUxQ4Yc) | 2:09 | 2025-05-02 | 2025-10-11 |
 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-02-24 | 2024-02-03 |
 | [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 | 2022-02-25 | 2022-06-04 |
@@ -383,7 +384,7 @@
 | [Mind On You](https://open.spotify.com/track/7rr3gguU3TcVnLZD9VzASE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Mind On You](https://open.spotify.com/album/0FVH9WJPHicjhOLfsPpnxL) | 2:57 | 2022-03-18 | 2023-04-09 |
 | [Mine for the Summer](https://open.spotify.com/track/60zG892nrTd3vHhsJXWEEw) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Mine for the Summer](https://open.spotify.com/album/4OAdcwdCF7Z42GqRQiHF7D) | 3:29 | 2023-08-11 | 2023-10-28 |
 | [Mine Tomorrow](https://open.spotify.com/track/7J5uYwCH3rPIkDNroSK6qV) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Mine Tomorrow](https://open.spotify.com/album/2JFg94fX6wfG8IWxLTyNsG) | 3:20 | 2025-03-21 | 2025-05-10 |
-| [Misery](https://open.spotify.com/track/67kE1VBtwdcy2KughONFhY) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV), [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [West Texas Degenerate](https://open.spotify.com/album/7KmRRYUYlVAM2XIBJshVs4) | 2:51 | 2025-12-05 |  |
+| [Misery](https://open.spotify.com/track/67kE1VBtwdcy2KughONFhY) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV), [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [West Texas Degenerate](https://open.spotify.com/album/7KmRRYUYlVAM2XIBJshVs4) | 2:51 | 2025-12-05 | 2026-05-30 |
 | [Miss Us Then](https://open.spotify.com/track/3v7t1HDVDKCwa5QB9GUy4I) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Miss Us Then](https://open.spotify.com/album/4NmOlKfPRKxL8Oe1pFKnnw) | 3:13 | 2022-03-04 | 2022-12-03 |
 | [Missing One](https://open.spotify.com/track/6boItJTxu8c9PdSbVqbAUF) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Bet You're from a Small Town](https://open.spotify.com/album/00rNMpiSdqmVWMmQsahNTo) | 3:22 | 2022-03-04 | 2023-01-06 |
 | [Missing You](https://open.spotify.com/track/4yfSSCOrcAcgzcGAtc9LCW) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Missing You](https://open.spotify.com/album/7AFjkjnNLLn6LIDJJls1lK) | 3:03 | 2022-04-29 | 2023-02-25 |

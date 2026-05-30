@@ -1,13 +1,53 @@
 {
-  "description": "The best songs from the new shows and the buzziest hits. Cover: Lea Michele in CHESS the Musical",
-  "num_followers": 112416,
+  "description": "The best songs from the new shows and the buzziest hits. Cover: Original Broadway Cast of The Lost Boys",
+  "num_followers": 112425,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQaWD2e68K3Q3RRb8+Sw+BcX/3G",
+  "snapshot_id": "AAAAAIks5ui38RxKgVd8M7Pdx0FMtfJK",
   "tracks": [
+    {
+      "added_at": "2026-05-29 05:29:44",
+      "album": {
+        "name": "Secret Comes Out",
+        "url": "https://open.spotify.com/album/1FIS1oNTz6WBXu2XdlTQ4J"
+      },
+      "artists": [
+        {
+          "name": "Ali Louis Bourzgui",
+          "url": "https://open.spotify.com/artist/715DWWVfEfMl8tYCtJDNK3"
+        },
+        {
+          "name": "Maria Wirries",
+          "url": "https://open.spotify.com/artist/7EpkGE77bqXVmWcpyMJPq9"
+        },
+        {
+          "name": "LJ Benet",
+          "url": "https://open.spotify.com/artist/3OeEbpqTZS3lzSdqWcNYhb"
+        },
+        {
+          "name": "Brian Flores",
+          "url": "https://open.spotify.com/artist/2JVlAKAoehJSirFodroVZ9"
+        },
+        {
+          "name": "Sean Grandillo",
+          "url": "https://open.spotify.com/artist/2OEM7AG50pTr5lOyHizV7q"
+        },
+        {
+          "name": "Dean Maupin",
+          "url": "https://open.spotify.com/artist/3lqbkXEzOxo2z7YqDCGG0A"
+        },
+        {
+          "name": "Original Broadway Cast of The Lost Boys",
+          "url": "https://open.spotify.com/artist/3DECEsS7H9ALRxin82EZxE"
+        }
+      ],
+      "duration_ms": 229227,
+      "name": "Secret Comes Out",
+      "url": "https://open.spotify.com/track/0ehOUvtjmiTFKLpcvSJS7L"
+    },
     {
       "added_at": "2026-05-04 01:43:59",
       "album": {
@@ -1127,26 +1167,6 @@
       "duration_ms": 249194,
       "name": "Stay Gold",
       "url": "https://open.spotify.com/track/6QMYeuubL00KcXBXxS5Zhn"
-    },
-    {
-      "added_at": "2026-05-04 01:43:59",
-      "album": {
-        "name": "Hell\u2019s Kitchen (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/6FTH1fFDCpE90YlenHw3We"
-      },
-      "artists": [
-        {
-          "name": "Brandon Victor Dixon",
-          "url": "https://open.spotify.com/artist/3rIXaFZEmvRxMDdxvkg5g2"
-        },
-        {
-          "name": "Maleah Joi Moon",
-          "url": "https://open.spotify.com/artist/0sBeQc6bmrPBEIrlovSjGM"
-        }
-      ],
-      "duration_ms": 268610,
-      "name": "If I Ain\u2019t Got You",
-      "url": "https://open.spotify.com/track/6pakSvNOuGZOLmzBHN3IXh"
     },
     {
       "added_at": "2026-05-04 01:43:59",

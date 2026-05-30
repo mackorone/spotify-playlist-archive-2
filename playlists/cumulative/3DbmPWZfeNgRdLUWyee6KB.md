@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,121 songs - 2 day 17 hr 35 min
+1,125 songs - 2 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -795,6 +795,7 @@
 | [Saving a Song](https://open.spotify.com/track/1sCFMRorslEb20pXtIOYYz) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Saving a Song](https://open.spotify.com/album/1gGtfyU4EPhlsle2aEhFrO) | 3:18 | 2026-03-02 | 2026-05-14 |
 | [Say \- Acoustic](https://open.spotify.com/track/5OBguzeAkuviZT85bnec7g) | [Oliver Ycaro](https://open.spotify.com/artist/5W6ObMrqK1vr0O5sgooyIs) | [Say \(Acoustic\)](https://open.spotify.com/album/4NORYcZTCI5sWcHne2RPFX) | 3:16 | 2026-03-03 | 2026-03-25 |
 | [Say Something](https://open.spotify.com/track/2sBEE8SZudR0dBr3JNbOjd) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Say Something](https://open.spotify.com/album/3m1tA8n5qe5weca6RPf1lM) | 2:50 | 2026-05-10 |  |
+| [Say the Word](https://open.spotify.com/track/57lnic7GHCgDox7Nh4abvy) | [Violyt](https://open.spotify.com/artist/58dODJDrNq8DHvx5CJDJgd), [Justin Mola](https://open.spotify.com/artist/1LX4SXG0RusTp81RPzhPoh) | [Say the Word](https://open.spotify.com/album/74GBd4STU1MkXuJ0Ksm0Xk) | 4:26 | 2026-05-29 |  |
 | [Scarlet Powder](https://open.spotify.com/track/5ocCWaPIXdnDDZvpHmYNZx) | [Yellow Cars](https://open.spotify.com/artist/1A99aNrlYvDiDAa3eOSYw8) | [White Velvet Moon](https://open.spotify.com/album/5koREwv5sM8yJFDe6O1z70) | 2:48 | 2026-03-09 | 2026-04-12 |
 | [Scars](https://open.spotify.com/track/0lF2y089fv67qGw026DRhq) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [Scars](https://open.spotify.com/album/1k3nUKcqaObSHfhhsG15Wz) | 3:38 | 2026-03-26 | 2026-04-22 |
 | [Scars](https://open.spotify.com/track/7BoYRULbFPGNvnT2vVhcOf) | [tWIN](https://open.spotify.com/artist/1APguz6a6pgYym9jUAia5K), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Scars](https://open.spotify.com/album/59kHXQO88dKgGeOiNyMIoM) | 3:07 | 2025-11-25 | 2026-01-05 |
@@ -927,6 +928,7 @@
 | [The Box](https://open.spotify.com/track/3KEkfgb95vJX2gF3XpqNHB) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [The Box](https://open.spotify.com/album/1ZwvHlQjGWxavgXpulFa3q) | 2:41 | 2026-02-16 | 2026-03-15 |
 | [The Cost of Loving](https://open.spotify.com/track/0fRBek48j5RIUzwKvk6H8Q) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [The Cost of Loving](https://open.spotify.com/album/5FlWpk5S3NoKwAk0Q5TIBQ) | 3:25 | 2026-04-27 |  |
 | [The Crow](https://open.spotify.com/track/56Aya5c9O6YvYoPkBzpYvW) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [The Crow](https://open.spotify.com/album/4ANC5ONS6tRUkZJHRON4E9) | 3:04 | 2026-01-23 | 2026-02-20 |
+| [The Cry of an Angel](https://open.spotify.com/track/27Olu0bAnBKzRToftDDY3v) | [MBcK](https://open.spotify.com/artist/5tPReJv7l1ys12zXVFAEXZ) | [Hell Star](https://open.spotify.com/album/69cztdwH8rOrgsdi35oPGk) | 3:15 | 2026-05-29 |  |
 | [The Darkroom](https://open.spotify.com/track/4fuoVDkKQsFBdkBcYUBDT1) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [The Darkroom](https://open.spotify.com/album/6yoHNaQ2HEeNi7EqULSynN) | 3:17 | 2026-03-09 | 2026-04-12 |
 | [The Dwarf's Lover](https://open.spotify.com/track/0ErjDO7PkJpirFfxczXosu) | [Bob Salmieri Bastarduna Sextet](https://open.spotify.com/artist/5CoTEiPpHOEYCyguKEislJ) | [...and Mama Was a Belly Dancer](https://open.spotify.com/album/27PEqUCCnQJOVQkZgZEHG3) | 4:35 | 2023-04-20 | 2025-11-29 |
 | [The dwarf's lover \- Remastered 2023](https://open.spotify.com/track/3JikYx5pYaVDumDQcQju9i) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [...and Mama was a belly dancer \(Remastered 2023\)](https://open.spotify.com/album/7akxOJh7LxWGdBMmHH7HOo) | 4:34 | 2023-11-16 | 2025-11-29 |
@@ -1066,6 +1068,7 @@
 | [WE GOT ME AND YOU](https://open.spotify.com/track/7iE9B4ABEnccnd1wlVvIdA) | [Georgia Jay](https://open.spotify.com/artist/40BH0NxesBC7h5FMOcygVK), [Steve Balsamo](https://open.spotify.com/artist/6g4NDZyv8dDbZUnNu2dDEe) | [WE GOT ME AND YOU](https://open.spotify.com/album/7ftfDtY8Kfqe1lFlzZpAgk) | 3:26 | 2025-09-23 | 2025-11-29 |
 | [We Know](https://open.spotify.com/track/6mQqwT8Jde1KbJiIJ2xFf3) | [Spounk](https://open.spotify.com/artist/7JTljHSbdBmEsgjNB6IviO) | [We Know](https://open.spotify.com/album/5wht23W282apahy1VUzvKA) | 4:14 | 2026-02-17 | 2026-03-25 |
 | [Weisst du noch ?](https://open.spotify.com/track/4huYzPzA8X4qbVEy68KjLD) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Weisst du noch ?](https://open.spotify.com/album/2GcaJ26qd0XxJOdVhd6yqu) | 2:56 | 2026-01-20 | 2026-02-20 |
+| [Weizenwetter](https://open.spotify.com/track/6zWKGR8Rn1EGib9mOP2jxf) | [LEEZE](https://open.spotify.com/artist/2IiWnyqGW4BZHM8THRSFpe) | [Weizenwetter](https://open.spotify.com/album/1HLwzEgafWcvuhsJqaIYgb) | 3:09 | 2026-05-29 |  |
 | [We’re In The Same Boat \(Don’t Let Us Drown\)](https://open.spotify.com/track/3Mm300FDJhsQSvVngugH2G) | [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [We’re In The Same Boat \(Don’t Let Us Drown\)](https://open.spotify.com/album/6EsnMFhBUOTk6aTQ0rQKMU) | 3:12 | 2026-02-21 | 2026-03-25 |
 | [What are you doing the rest of your life?](https://open.spotify.com/track/2KHHj0ghB5pkwVGoKbJDZF) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE) | [What are you doing the rest of your life?](https://open.spotify.com/album/5UOBOEhS23KJ9kiVfsCjVr) | 5:37 | 2025-07-18 | 2026-01-05 |
 | [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 | 2025-12-23 | 2026-01-24 |
@@ -1119,6 +1122,7 @@
 | [You’re My Home](https://open.spotify.com/track/2C65Zq20H3kl5g5hqpGHq8) | [Ryan woollard](https://open.spotify.com/artist/05GAeBHIoOtFhm6Or5d8kF) | [You’re My Home](https://open.spotify.com/album/2nZRCKWz7qd3waBAdZ94t8) | 4:01 | 2026-03-12 | 2026-04-12 |
 | [¡Sálvese quien pueda!](https://open.spotify.com/track/3N2kTdJIK0inDmclvAnXGk) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [¡Sálvese quien pueda!](https://open.spotify.com/album/3ca7xs9oyiaoYsXWdBVN4G) | 3:38 | 2025-11-25 | 2026-01-05 |
 | [¿Me Vas a Amar Hasta El Final?](https://open.spotify.com/track/6uKlzmnvRUApUP5N2W16d5) | [Elio Ocampo](https://open.spotify.com/artist/6ytMeTFgXUIo5HtdCxKI1E) | [A Mess With No Solution](https://open.spotify.com/album/01jzx2n41mmV8lcwOS3ECd) | 2:54 | 2026-04-13 | 2026-05-14 |
+| [¿Vampiro o Ladrón?](https://open.spotify.com/track/7KXOz98ntMZ8eeovE9pv6N) | [Angel](https://open.spotify.com/artist/5XFum7bQUnhp2U8h2zdJGV) | [¿Vampiro o Ladrón?](https://open.spotify.com/album/2qg0w5is7kIreSaDwx7n0k) | 3:41 | 2026-05-29 |  |
 | [Étrange inconnu](https://open.spotify.com/track/6YmGrsKNSs00IocQLWalpC) | [Perrine Hope](https://open.spotify.com/artist/7aXpehI3ni2IquIMDyMeNw) | [Étrange inconnu](https://open.spotify.com/album/2GpEFesgNc62Zu92mduL8C) | 2:50 | 2026-03-02 | 2026-03-25 |
 | [Θα χαθείς με τη βροχή](https://open.spotify.com/track/3a7Q9NsGva0DuemgZfoxRJ) | [Vasilis Konstantinakos](https://open.spotify.com/artist/4u6ejjlbwhKrN1NKOcpfGh), [Maria Michalaka](https://open.spotify.com/artist/4rboAqEBfIBnyA0xiiNZi2) | [Θα χαθείς με τη βροχή](https://open.spotify.com/album/4wBzl4GQclHbCliJEgSWeM) | 4:54 | 2025-12-25 | 2026-01-24 |
 | [Земне Життя](https://open.spotify.com/track/6idVqezW5gYMSsW2YDRNID) | [YANKEE](https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V) | [Земне Життя](https://open.spotify.com/album/6fVSuI4RtrPRY5XesycuUl) | 2:13 | 2026-05-05 |  |

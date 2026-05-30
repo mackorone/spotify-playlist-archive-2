@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 7918,
+  "num_followers": 7920,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -351,34 +351,22 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "The Sound of Christmas",
-        "url": "https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH"
+        "name": "The Johnny Cash Family Christmas",
+        "url": "https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd"
       },
       "artists": [
         {
-          "name": "William Prince",
-          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
-        }
-      ],
-      "duration_ms": 197562,
-      "name": "The Sound Of Christmas",
-      "url": "https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
-      },
-      "artists": [
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
         {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+          "name": "Tommy Cash",
+          "url": "https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR"
         }
       ],
-      "duration_ms": 143909,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
+      "duration_ms": 133640,
+      "name": "That Christmasy Feeling",
+      "url": "https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -399,22 +387,34 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "The Johnny Cash Family Christmas",
-        "url": "https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd"
+        "name": "Rockin' Around The Christmas Tree / Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/0g4mDVf9xNJzzL6stSLRAN"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Tommy Cash",
-          "url": "https://open.spotify.com/artist/4BzpR8p9ihgMQBHZ1fYNlR"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 133640,
-      "name": "That Christmasy Feeling",
-      "url": "https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p"
+      "duration_ms": 143909,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/5J4d2HZ7MN8l8ue83VTiGS"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "The Sound of Christmas",
+        "url": "https://open.spotify.com/album/0muSWDx1IVqWeVr6aFKvrH"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "duration_ms": 197562,
+      "name": "The Sound Of Christmas",
+      "url": "https://open.spotify.com/track/1FZMD36ckRRLHAqa6Lz4PV"
     },
     {
       "added_at": "2025-12-12 05:00:29",

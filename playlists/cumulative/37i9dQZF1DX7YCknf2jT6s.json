@@ -4242,7 +4242,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 358533,
       "name": "Benny Thanks",
       "url": "https://open.spotify.com/track/01MKZzdSQL0byZSNVSZw9L"
@@ -5316,6 +5316,24 @@
       "duration_ms": 169484,
       "name": "BLUE PILL",
       "url": "https://open.spotify.com/track/6jKVU4FlzCTErDCv7QsAVn"
+    },
+    {
+      "album": {
+        "name": "Universal Truth",
+        "url": "https://open.spotify.com/album/5JguHYfSLjVomb3nAwP5Lm"
+      },
+      "artists": [
+        {
+          "name": "Emmet Cohen",
+          "url": "https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277400,
+      "name": "Blue Train",
+      "url": "https://open.spotify.com/track/1IrN8tRAaOVgfPYalUYs0U"
     },
     {
       "album": {
@@ -8102,7 +8120,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 335942,
       "name": "Congregation",
       "url": "https://open.spotify.com/track/3pZudU7jNsXF9s1bHtmNd1"
@@ -9974,6 +9992,32 @@
       "duration_ms": 381160,
       "name": "Disco Ears",
       "url": "https://open.spotify.com/track/1gV8QrtNcbTpOim6EE6qza"
+    },
+    {
+      "album": {
+        "name": "Dissipation Blues",
+        "url": "https://open.spotify.com/album/5oLp1QrcflaQCwvo0ckwUw"
+      },
+      "artists": [
+        {
+          "name": "Larry Goldings",
+          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346746,
+      "name": "Dissipation Blues",
+      "url": "https://open.spotify.com/track/0YIzGM6dIFlXh7w0NXUCr5"
     },
     {
       "album": {
@@ -11887,6 +11931,24 @@
     },
     {
       "album": {
+        "name": "Eternal Child",
+        "url": "https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307161,
+      "name": "Eternal Child",
+      "url": "https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr"
+    },
+    {
+      "album": {
         "name": "Les Jardins Mystiques Vol.1",
         "url": "https://open.spotify.com/album/4oIYiCrzOUVZvpxCopDB7e"
       },
@@ -13036,6 +13098,36 @@
       "duration_ms": 372548,
       "name": "First Light",
       "url": "https://open.spotify.com/track/0wIjLBtF13wkJ5MGPYmFSZ"
+    },
+    {
+      "album": {
+        "name": "Paramount Quartet",
+        "url": "https://open.spotify.com/album/17ACl4xvmRJAPgjcBJEPmh"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        },
+        {
+          "name": "Asante Santi Debriano",
+          "url": "https://open.spotify.com/artist/1AdgjVEMk6jR2OA3Mc5QT3"
+        },
+        {
+          "name": "Will Calhoun",
+          "url": "https://open.spotify.com/artist/03Fr2b89fbLWKq5skHknPV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444677,
+      "name": "First Song",
+      "url": "https://open.spotify.com/track/2t3HFsxdM5liMav1TQIE1m"
     },
     {
       "album": {
@@ -17318,7 +17410,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 328773,
       "name": "I. Eternal Glimpse",
       "url": "https://open.spotify.com/track/0p3dbo6jAN3ZDrkE5HPfQf"
@@ -17454,6 +17546,52 @@
       "duration_ms": 236519,
       "name": "Idea #5",
       "url": "https://open.spotify.com/track/1WQ1DsGnAbVhSzhvVfDITL"
+    },
+    {
+      "album": {
+        "name": "Identity Song",
+        "url": "https://open.spotify.com/album/3o6ycGYsl4KNJ50mpRgVga"
+      },
+      "artists": [
+        {
+          "name": "Terri Lyne Carrington",
+          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        },
+        {
+          "name": "Michael Mayo",
+          "url": "https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4"
+        },
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        },
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        },
+        {
+          "name": "Social Science",
+          "url": "https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5"
+        },
+        {
+          "name": "Nappy Nina",
+          "url": "https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx"
+        },
+        {
+          "name": "Matthew Stevens",
+          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
+        },
+        {
+          "name": "Morgan Guerin",
+          "url": "https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281960,
+      "name": "Identity Song",
+      "url": "https://open.spotify.com/track/723ggB6tplz5Jjwx0Plz6j"
     },
     {
       "album": {
@@ -21842,7 +21980,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 298593,
       "name": "Lookie",
       "url": "https://open.spotify.com/track/0FRGC4Qk2RlVVorFg1uUqP"
@@ -24798,7 +24936,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 383173,
       "name": "My Life Matters",
       "url": "https://open.spotify.com/track/399lk3KeNdL1DUOpGF1Lky"
@@ -27698,6 +27836,24 @@
       "duration_ms": 558080,
       "name": "Out of the Past",
       "url": "https://open.spotify.com/track/5GrUxudlbub9174u8xDeJr"
+    },
+    {
+      "album": {
+        "name": "Out of the Quiet",
+        "url": "https://open.spotify.com/album/4FIcOaGkpZpsNOVmIezauk"
+      },
+      "artists": [
+        {
+          "name": "Richard Spaven",
+          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336776,
+      "name": "Out of the Quiet",
+      "url": "https://open.spotify.com/track/3fB7N49ncsnENPMPLcDIDa"
     },
     {
       "album": {
@@ -44124,7 +44280,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 153830,
       "name": "\u00c9 Real \u2026 \u00c9 Verdade\u2026",
       "url": "https://open.spotify.com/track/7BrioRz1sLrk7nrgCKLPQC"

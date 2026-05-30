@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2025-09-06",
-  "description": "back roads up loud with 49 Winchester",
+  "description": "back roads up loud with Treaty Oak Revival and Dexter and the Moonrocks",
   "name": "GRAVEL",
   "tracks": [
+    {
+      "album": {
+        "name": "12 Steps",
+        "url": "https://open.spotify.com/album/1aMq6S4AtfLlzrvKGkXdHp"
+      },
+      "artists": [
+        {
+          "name": "Dexter and The Moonrocks",
+          "url": "https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT"
+        },
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191423,
+      "name": "12 Steps (feat. Treaty Oak Revival)",
+      "url": "https://open.spotify.com/track/6RoaWAoHb5KxdBXUlzx6ls"
+    },
     {
       "album": {
         "name": "5AM",
@@ -38,6 +60,24 @@
       "duration_ms": 210950,
       "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
       "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5c0L9DJDebZKVpfWMaXZCX"
+      },
+      "artists": [
+        {
+          "name": "LECADE",
+          "url": "https://open.spotify.com/artist/5KfgJTNwvEbzMtJREyq9Jt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190197,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1I2Qnoaa3r8vgRROa57Wim"
     },
     {
       "album": {
@@ -969,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/0lj6XoHKchGVYWKH6NabCJ"
+      },
+      "artists": [
+        {
+          "name": "Will Slater",
+          "url": "https://open.spotify.com/artist/1yxkDgfBfLB58FnsUUexpD"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244179,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/3uvbS1Zckk8ZnHEfYcnDPx"
+    },
+    {
+      "album": {
         "name": "Rattlesnake Preacher",
         "url": "https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj"
       },
@@ -1002,6 +1060,24 @@
       "duration_ms": 158634,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/78DcrUOhBhVod09vFiXn7P"
+    },
+    {
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/7G36cofedpDe1Y5JvuAvnw"
+      },
+      "artists": [
+        {
+          "name": "Fox N' Vead",
+          "url": "https://open.spotify.com/artist/6b2SGANlOJdvJ9imgsVrSm"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/53VPFVW3aLdNlb4gNetXwS"
     },
     {
       "album": {

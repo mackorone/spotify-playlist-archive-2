@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Marioo
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,421 likes - 59 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,478 likes - 59 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Finale](https://open.spotify.com/track/3EAeMcr78neZnJswrubqna) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Finale](https://open.spotify.com/album/7HByecqUGhHoQjxI8iaBIY) | 3:26 |
-| 2 | [Track 4](https://open.spotify.com/track/7qDnZtMk1yjQFkLaollEhQ) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [MMMCXII](https://open.spotify.com/album/3MGrxXwAivRhHt7BdVb5Z5) | 0:00 |
+| 2 | [UA](https://open.spotify.com/track/7qDnZtMk1yjQFkLaollEhQ) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [MMMCXII](https://open.spotify.com/album/3MGrxXwAivRhHt7BdVb5Z5) | 3:21 |
 | 3 | [Bhuju](https://open.spotify.com/track/43anMhnVk6EDjvxu3re25J) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Bhuju](https://open.spotify.com/album/3YeYkTet5Z6gbB66868VcL) | 3:29 |
 | 4 | [AYE](https://open.spotify.com/track/0qJRv1rTdZjncFB1U043tZ) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [AYE](https://open.spotify.com/album/3opoHmLShMPs6Msbd9Hime) | 2:09 |
 | 5 | [Mombasa](https://open.spotify.com/track/77yjMVDTTozcP5yyebGQ1F) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Mombasa](https://open.spotify.com/album/2i6qYd2aQXtLuDmcyS5lWU) | 2:43 |

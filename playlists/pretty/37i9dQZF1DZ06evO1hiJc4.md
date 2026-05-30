@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,218 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,248 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 16 | [Audio \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/100eDEmpWV5YGVCqHI0leU) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:24 |
 | 17 | [Make Me \(Cry\)](https://open.spotify.com/track/2BrzlUj1u1CtvaJDGIKpsP) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Make Me \(Cry\)](https://open.spotify.com/album/46yAYzRhSMPA44m0MzSr6g) | 4:02 |
 | 18 | [Fragile](https://open.spotify.com/track/6PyxrogMU9imKqVtKx6840) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:50 |
-| 19 | [Labrinth \- Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 |
-| 20 | [TARENTINO](https://open.spotify.com/track/3Z26mHKpT1gqU2gj7eFfsS) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [TARENTINO](https://open.spotify.com/album/2hizWLYL5xaA5gTlW17mRg) | 2:23 |
+| 19 | [TARENTINO](https://open.spotify.com/track/3Z26mHKpT1gqU2gj7eFfsS) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [TARENTINO](https://open.spotify.com/album/2hizWLYL5xaA5gTlW17mRg) | 2:23 |
+| 20 | [Labrinth \- Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 |
 | 21 | [No New Friends \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/6Dma0t0hOe6Bd6u5YRKF3n) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 2:55 |
 | 22 | [Earthquake \(feat\. Tinie Tempah\)](https://open.spotify.com/track/3SxiAdI8dP9AaaEz1Z24mn) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:34 |
-| 23 | [See You Assholes Later](https://open.spotify.com/track/7A3sMtS3oLdYq9GZlDYzF9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:30 |
-| 24 | [Losers](https://open.spotify.com/track/1bAvtmTl0F9loyz9AwPwp7) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:41 |
+| 23 | [Losers](https://open.spotify.com/track/1bAvtmTl0F9loyz9AwPwp7) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:41 |
+| 24 | [See You Assholes Later](https://open.spotify.com/track/7A3sMtS3oLdYq9GZlDYzF9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:30 |
 | 25 | [Nate Growing Up \(From "Euphoria: Season 1" Soundtrack\)](https://open.spotify.com/track/4iddJAOsc6U0hJ3krSJAKn) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 |
 | 26 | [Debris](https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 2:55 |
 | 27 | [Silverlines \- prod\. Labrinth](https://open.spotify.com/track/33hke6Ml8eB8HHjE9bl3Nm) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [FUNNY little FEARS](https://open.spotify.com/album/09OXDzuUcSUACxAsU7zmsO) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 49 | [Rue's I'm Tired \(with Zendaya\)](https://open.spotify.com/track/2zK87MbyKo6RRc520hbGAW) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:17 |
 | 50 | [Still In Love With The Pain](https://open.spotify.com/track/6yLLjhFGtImerlDezUwIgD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 3:21 |
 
-Snapshot ID: `ahY0AAAAAACcWpHVJJEd51tMLJEPHoXj`
+Snapshot ID: `aheFgAAAAABhvgFdiAILbHg2UF+/uKq0`

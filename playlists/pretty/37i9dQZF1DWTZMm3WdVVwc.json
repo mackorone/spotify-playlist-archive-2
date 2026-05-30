@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27337,
+  "num_followers": 27333,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "\u547d\u306e\u5225\u540d",
-        "url": "https://open.spotify.com/album/2brqJgfQPZcLwbFAGn8Y3I"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u5cf6\u307f\u3086\u304d",
-          "url": "https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t"
-        }
-      ],
-      "duration_ms": 307400,
-      "name": "\u7cf8",
-      "url": "https://open.spotify.com/track/06m8KKTa6rAYJ5I6l2gZgS"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
         "name": "Tree",
         "url": "https://open.spotify.com/album/1NF6OvO7LcY8f7m5rVxU1T"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 298040,
       "name": "\u708e\u3068\u68ee\u306e\u30ab\u30fc\u30cb\u30d0\u30eb",
       "url": "https://open.spotify.com/track/5kDz0Wrx0UpaVRttDZ4KtI"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u547d\u306e\u5225\u540d",
+        "url": "https://open.spotify.com/album/2brqJgfQPZcLwbFAGn8Y3I"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u307f\u3086\u304d",
+          "url": "https://open.spotify.com/artist/0caDIM0rTovLDe5UdFvK1t"
+        }
+      ],
+      "duration_ms": 307400,
+      "name": "\u7cf8",
+      "url": "https://open.spotify.com/track/06m8KKTa6rAYJ5I6l2gZgS"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "\u6708\u5149\u6d74",
-        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 248130,
-      "name": "\u6708\u5149\u6d74",
-      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
         "name": "POP LIFE",
         "url": "https://open.spotify.com/album/2jb27PDgg002Gnfo357dwv"
       },
@@ -673,28 +657,20 @@
       "url": "https://open.spotify.com/track/2i0GSXJfOgIMYmncn5S9Yx"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
+      "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "ALLSEASON EP.",
-        "url": "https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L"
+        "name": "\u6708\u5149\u6d74",
+        "url": "https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q"
       },
       "artists": [
         {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        },
-        {
-          "name": "SIKK-O",
-          "url": "https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR"
-        },
-        {
-          "name": "Mamiko Suzuki",
-          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 250864,
-      "name": "0\u2103\u306e\u65e5\u66dc",
-      "url": "https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81"
+      "duration_ms": 248130,
+      "name": "\u6708\u5149\u6d74",
+      "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -719,6 +695,30 @@
       "duration_ms": 153461,
       "name": "\u30db\u30c3\u30c8\u30ec\u30e2\u30f3 - Remix",
       "url": "https://open.spotify.com/track/21Bu6arnjs8MqLqn3jcuzc"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "ALLSEASON EP.",
+        "url": "https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "SIKK-O",
+          "url": "https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR"
+        },
+        {
+          "name": "Mamiko Suzuki",
+          "url": "https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF"
+        }
+      ],
+      "duration_ms": 250864,
+      "name": "0\u2103\u306e\u65e5\u66dc",
+      "url": "https://open.spotify.com/track/6VsSAI7IlsTiXqKuCsuS81"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "OH MY LITTLE GIRL",
-        "url": "https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj"
-      },
-      "artists": [
-        {
-          "name": "Yutaka Ozaki",
-          "url": "https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl"
-        }
-      ],
-      "duration_ms": 276333,
-      "name": "OH MY LITTLE GIRL",
-      "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "Junior Sweet",
         "url": "https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 232760,
       "name": "\u30df\u30eb\u30af",
       "url": "https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "OH MY LITTLE GIRL",
+        "url": "https://open.spotify.com/album/7LEcypSjlXxIQnSSjeIiLj"
+      },
+      "artists": [
+        {
+          "name": "Yutaka Ozaki",
+          "url": "https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl"
+        }
+      ],
+      "duration_ms": 276333,
+      "name": "OH MY LITTLE GIRL",
+      "url": "https://open.spotify.com/track/7gRwEA36B5Oq7oUlCcWLKb"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/2OnBkllxuR4IdUyvxfPAk6"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "\u97f3\u697d\u3068\u79c1",
-        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
-      },
-      "artists": [
-        {
-          "name": "Tomoyo Harada",
-          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
-        }
-      ],
-      "duration_ms": 219426,
-      "name": "\u30ed\u30de\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/3fNnXZJUEZU0QUvUgdMVeI"
-    },
-    {
       "added_at": "2025-10-23 13:55:51",
       "album": {
         "name": "The History of Shogo Hamada\u201cSince 1975\u201d",
@@ -1267,6 +1251,22 @@
       "duration_ms": 311946,
       "name": "\u60b2\u3057\u307f\u306f\u96ea\u306e\u3088\u3046\u306b (single / 1992)",
       "url": "https://open.spotify.com/track/10HHmKRsZmQLXQ3kiAEef1"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "\u97f3\u697d\u3068\u79c1",
+        "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
+      },
+      "artists": [
+        {
+          "name": "Tomoyo Harada",
+          "url": "https://open.spotify.com/artist/6tl1VDtemwax4iIKxqekK1"
+        }
+      ],
+      "duration_ms": 219426,
+      "name": "\u30ed\u30de\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/3fNnXZJUEZU0QUvUgdMVeI"
     },
     {
       "added_at": "2025-12-16 15:00:32",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/3RN23f4eu6flCYbmqam9Xl"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "imagination",
-        "url": "https://open.spotify.com/album/5MVA7qhcvMPhY7sK0Opw65"
-      },
-      "artists": [
-        {
-          "name": "clammbon",
-          "url": "https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Folklore",
-      "url": "https://open.spotify.com/track/0VVYgGflTZEUbz8vr04Awo"
-    },
-    {
       "added_at": "2025-12-05 00:27:18",
       "album": {
         "name": "shiro",
@@ -1331,6 +1315,22 @@
       "duration_ms": 221900,
       "name": "shiro",
       "url": "https://open.spotify.com/track/13B7xIMV9eLj9xWO4EJF6r"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "imagination",
+        "url": "https://open.spotify.com/album/5MVA7qhcvMPhY7sK0Opw65"
+      },
+      "artists": [
+        {
+          "name": "clammbon",
+          "url": "https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Folklore",
+      "url": "https://open.spotify.com/track/0VVYgGflTZEUbz8vr04Awo"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/6TgWVZWAjihesMAPcIwFnY"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "\u51ac\u306e\u4e88\u611f",
-        "url": "https://open.spotify.com/album/6UaY4IfXT6wnafnjSlBRhI"
-      },
-      "artists": [
-        {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
-        }
-      ],
-      "duration_ms": 201462,
-      "name": "\u51ac\u306e\u4e88\u611f",
-      "url": "https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT"
-    },
-    {
       "added_at": "2025-12-16 15:00:32",
       "album": {
         "name": "Winterboy",
@@ -1583,6 +1567,22 @@
       "duration_ms": 274733,
       "name": "Winterboy",
       "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "\u51ac\u306e\u4e88\u611f",
+        "url": "https://open.spotify.com/album/6UaY4IfXT6wnafnjSlBRhI"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 201462,
+      "name": "\u51ac\u306e\u4e88\u611f",
+      "url": "https://open.spotify.com/track/7oRPjRlfRnWZcBH4j8WAAT"
     },
     {
       "added_at": "2025-12-24 00:34:11",

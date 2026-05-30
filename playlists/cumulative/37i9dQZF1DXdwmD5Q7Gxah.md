@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> <a href="https://loremandfriends.substack.com/p/post\-hyperpop\-rockie\-rode\-arima\-ederra">read our substack 🫧  </a>   Bleachers on the cover
+> <a href="https://loremandfriends.substack.com/p/post\-hyperpop\-rockie\-rode\-arima\-ederra">read our substack 🫧  </a>   Iceage on the cover 🌟🌟🌟
 
-3,817 songs - 8 day 16 hr 50 min
+3,823 songs - 8 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [B2b](https://open.spotify.com/track/6tYGrpUyqB4yao5lAs3AR4) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:58 | 2024-04-03 | 2024-05-11 |
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-14 | 2024-12-21 |
 | [Baby Boy](https://open.spotify.com/track/5K7dEG6yDQ981HO7kFMVqm) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:31 | 2020-10-08 | 2020-12-04 |
+| [Baby Driver](https://open.spotify.com/track/5dtDj7mdGJjlviTxyfMrZE) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Baby Driver](https://open.spotify.com/album/0yUdcVEmK8G3jWAYS6Dii6) | 3:36 | 2026-05-29 |  |
 | [Baby from Atlanta](https://open.spotify.com/track/0L9eGPj0Meabb1SML6kD1A) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Sailor's Compilation, Pt\. 1](https://open.spotify.com/album/4o38yhz8rXxZvPHs20Vuyz) | 3:19 | 2023-07-28 | 2023-08-26 |
 | [Baby Please](https://open.spotify.com/track/7aDgRKt0w7iSVc3NIJLybG) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Baby Please](https://open.spotify.com/album/1t9Jdz9REC4rbeWX8guP63) | 2:58 | 2024-03-15 | 2024-06-29 |
 | [Baby Steps](https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:17 | 2025-09-26 | 2026-03-21 |
@@ -692,6 +693,7 @@
 | [Cobra](https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:05 | 2025-09-26 | 2025-11-14 |
 | [Coca Cola](https://open.spotify.com/track/7CxbBqDi1LdfsQX2v3OYgN) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Where Have All the Flowers Gone?](https://open.spotify.com/album/39JWmffb0CchVAr9AMyY7I) | 3:05 | 2021-09-11 | 2021-11-13 |
 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 | 2023-06-27 | 2023-08-26 |
+| [Coil](https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Rumspringa](https://open.spotify.com/album/1EHtMAqAB6GSnw8IbuXFLn) | 3:54 | 2026-05-29 |  |
 | [Coke & Henny Pt\. 1](https://open.spotify.com/track/0Njj8da23AV97wrQTrP577) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Coke & Henny Pt\. 1](https://open.spotify.com/album/7pU90hr9PdteGEQqp0XSU9) | 2:29 | 2019-10-10 | 2020-01-10 |
 | [Coke & Henny Pt\. 2](https://open.spotify.com/track/1gBn3RRt2jPquDW6AhHJrs) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Volume 2](https://open.spotify.com/album/04AgepNbaInpCwPDV2MjDc) | 2:37 | 2019-07-30\* | 2019-10-10 |
 | [Cola](https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Cola](https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4) | 3:49 | 2020-08-20 | 2020-09-12 |
@@ -984,6 +986,7 @@
 | [Dunno](https://open.spotify.com/track/0v5cHrifMPkhqHkV02ddMq) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dunno](https://open.spotify.com/album/7otBn9X8Gpl0KCbGS4GILI) | 4:00 | 2020-07-24 | 2020-08-04 |
 | [Dusk](https://open.spotify.com/track/2XxX4oQeUyZKaccvVLRHck) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Dusk](https://open.spotify.com/album/2qNGZ0KcmpFHbCkZX0KKns) | 3:34 | 2019-10-11 | 2019-12-14 |
 | [Dust](https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Dust](https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD) | 3:27 | 2025-03-05 | 2025-06-28 |
+| [Dust in the Wind](https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Dust in the Wind](https://open.spotify.com/album/2jNfiECR8FRr7SsnLiZ7dJ) | 2:50 | 2026-05-29 |  |
 | [Dust It Off](https://open.spotify.com/track/3AkfTXIZ3yRPlbUYzSveDO) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Both Ways Open Jaws](https://open.spotify.com/album/4VPsDiUtgIDmKrK52O7GTN) | 3:42 | 2020-08-20 | 2020-08-21 |
 | [Dusty](https://open.spotify.com/track/2mBzVP4ns9B4yPIZKjN9rV) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Dusty](https://open.spotify.com/album/0qS2NDMHBbTtTNE0B3CWeb) | 4:05 | 2025-03-14 | 2025-04-05 |
 | [Dusty](https://open.spotify.com/track/3YAbD6ZmkXerUDg7GY15zZ) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Dusty](https://open.spotify.com/album/7deK3zxoJuFhDhZAguSOvt) | 4:05 | 2025-12-03 | 2026-01-06 |
@@ -1046,6 +1049,7 @@
 | [Espada Primo](https://open.spotify.com/track/1SnrSiotEZcuZvGWRLSBIp) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [Espada Primo](https://open.spotify.com/album/0Dw542vo3ipfUGWT5vS9Ou) | 2:40 | 2022-02-17 | 2022-04-09 |
 | [Especially You](https://open.spotify.com/track/1prCMVGhgKF805LZJhFIHe) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Especially You](https://open.spotify.com/album/6GdntthLLMwjMcKiv4b70R) | 3:01 | 2022-02-04 | 2022-04-29 |
 | [essential](https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [essential](https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ) | 2:42 | 2023-01-13 | 2024-01-04 |
+| [Essex\_Honey.mp3](https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex\_Honey.mp3](https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY) | 4:49 | 2026-05-29 |  |
 | [Eternal](https://open.spotify.com/track/26d0somBZ0vPdfwUeqla2R) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:04 | 2022-09-02 | 2022-09-24 |
 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 | 2021-07-17 | 2021-07-23 |
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-15 | 2024-06-01 |
@@ -1820,6 +1824,7 @@
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-21 | 2022-10-29 |
 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 | 2020-10-07 | 2020-12-04 |
 | [Keep It Gold](https://open.spotify.com/track/2yUx1yDodVaZ7owq8JomOZ) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Keep It Gold](https://open.spotify.com/album/2ozgdpIsNasVUj6tY7Sn5S) | 4:13 | 2019-08-23 | 2020-02-05 |
+| [Keep It To Yourself](https://open.spotify.com/track/0UUnMVRHGJKFq4mlsld8GV) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Keep It To Yourself](https://open.spotify.com/album/3FQ8bzLV3poKkW6thJ04Tw) | 4:17 | 2026-05-29 |  |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-01-27 | 2022-06-01 |
 | [Keep On Calling](https://open.spotify.com/track/1QrxdJdAnMERuHL4pE5WDj) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Heavyweight Champion](https://open.spotify.com/album/4lwGU1857xh1ukKDey2zJl) | 2:23 | 2024-10-18 | 2025-02-12 |
 | [Keeping Busy](https://open.spotify.com/track/5g3InejbvUCMmZUOyVvRQb) | [Isaac Lewis](https://open.spotify.com/artist/0zMOuBo9Jxo4JvgH2IHdHO) | [Keeping Busy](https://open.spotify.com/album/7kpYhAqLTJG0syod9gl9Xh) | 2:52 | 2020-04-22 | 2020-05-14 |
@@ -2315,6 +2320,7 @@
 | [Nightstand](https://open.spotify.com/track/4z8a7vahVw3dfm9it3xL5d) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Nightstand](https://open.spotify.com/album/6Ob0YASAKRgPXDygXHiGoL) | 2:26 | 2023-01-27 | 2023-03-03 |
 | [Nikes On](https://open.spotify.com/track/5z14e4rPImlgk40W33dt0U) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Nikes On](https://open.spotify.com/album/1g3OgxosiUiccwisdf8mI1) | 2:42 | 2020-03-06 | 2021-08-14 |
 | [no faker](https://open.spotify.com/track/2z2S7tNx7Ckn87AUSvfyFe) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/6VtEyh4lKKk1Yjui9wWKhV) | 2:49 | 2020-04-23 | 2020-05-28 |
+| [No Fear](https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [For Love of Grace & the Hereafter](https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV) | 3:38 | 2026-05-29 |  |
 | [no friends](https://open.spotify.com/track/3bDJVbs8h1EpMsZmo3YNtp) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [no friends](https://open.spotify.com/album/6UoCFUS0khylMghHjtCILn) | 1:45 | 2020-04-18 | 2021-03-06 |
 | [no friends \(feat\. spill tab & MIA GLADSTONE\)](https://open.spotify.com/track/0c5eyxgiDJGS48ZCfmLabb) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Mia Gladstone](https://open.spotify.com/artist/655Kf1udFVddxdsFjryd0D) | [the rainbow cassette](https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC) | 2:10 | 2021-08-26 | 2021-08-28 |
 | [no good](https://open.spotify.com/track/5tFuR5TIvYsH7uj9liPEaQ) | [OHYUNG](https://open.spotify.com/artist/15Va8zoP4v4Z3T8qwCYAXG) | [no good](https://open.spotify.com/album/1Tj19geckD4ZtT3ZyJpVPl) | 4:11 | 2025-01-24 | 2025-03-13 |
@@ -3362,7 +3368,7 @@
 | [Theatre](https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Theatre](https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv) | 2:59 | 2023-08-18 | 2024-03-30 |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2021-11-13 | 2022-02-26 |
 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-22 | 2022-09-03 |
-| [Theorem](https://open.spotify.com/track/4UVBGuynnWlLYuBInusvBt) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Theorem](https://open.spotify.com/album/6tZ5imvrDkSs3zvexiVHYk) | 2:12 | 2025-09-03 |  |
+| [Theorem](https://open.spotify.com/track/4UVBGuynnWlLYuBInusvBt) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Theorem](https://open.spotify.com/album/6tZ5imvrDkSs3zvexiVHYk) | 2:12 | 2025-09-03 | 2026-05-30 |
 | [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2024-07-12 | 2024-10-05 |
 | [There You Are](https://open.spotify.com/track/5CBmrG7GQMMzRZ8zzbziy1) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [There You Are](https://open.spotify.com/album/5SEiDpe5r8WIUxm3nVAYNJ) | 3:51 | 2022-09-28 | 2022-10-29 |
 | [There’s no Other](https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [There’s no Other](https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b) | 2:35 | 2023-07-07 | 2024-01-11 |

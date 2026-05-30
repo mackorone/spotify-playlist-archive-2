@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,233 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,328 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 61 | [Separate Ways \(Worlds Apart\) \- Bryce Miller/Alloy Tracks Remix](https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt), [Steve Perry](https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf) | [Separate Ways \(Worlds Apart\) \[Bryce Miller/Alloy Tracks Remix\]](https://open.spotify.com/album/0YzSA7G1hEayfUGlELIe5K) | 2:45 |
 | 62 | [Blood](https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:09 |
 | 63 | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Paint The Town Blue \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ) | 1:55 |
-| 64 | [TRIALS](https://open.spotify.com/track/23wrmyJ1S2sjeh2dFN5P9k) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DIVISIONS](https://open.spotify.com/album/3mptvwc49sVgmxP5xIv7UN) | 4:18 |
-| 65 | [Dilemma](https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:18 |
+| 64 | [Dilemma](https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:18 |
+| 65 | [TRIALS](https://open.spotify.com/track/23wrmyJ1S2sjeh2dFN5P9k) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DIVISIONS](https://open.spotify.com/album/3mptvwc49sVgmxP5xIv7UN) | 4:18 |
 | 66 | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY) | 4:09 |
 | 67 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
 | 68 | [Closure](https://open.spotify.com/track/1JkRR2HcXnUBCkVa8tFoAl) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Closure](https://open.spotify.com/album/7JOgNoDkTHpEaASuOHwLSK) | 3:13 |
@@ -96,13 +96,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 86 | [Out of the Black](https://open.spotify.com/track/2nIulsLMiP2SMTDrtxfQXX) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/7DJijwZ2wqJrgLpcRMxs3G) | 4:00 |
 | 87 | [Trip Switch](https://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:01 |
 | 88 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 |
-| 89 | [Sing To Me](https://open.spotify.com/track/44oCGRuPFy7Uz6w4KliMBS) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [Sing To Me](https://open.spotify.com/album/5XdXw120Se7gs2kCDfIh3Z) | 3:09 |
-| 90 | [ATTN.](https://open.spotify.com/track/7lIeZcWnUovgdPUoZfhEdh) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface \(Deluxe Edition\)](https://open.spotify.com/album/6bY1m6dKRJhO3AHSGSMbAM) | 3:23 |
+| 89 | [ATTN.](https://open.spotify.com/track/7lIeZcWnUovgdPUoZfhEdh) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface \(Deluxe Edition\)](https://open.spotify.com/album/6bY1m6dKRJhO3AHSGSMbAM) | 3:23 |
+| 90 | [Sing To Me](https://open.spotify.com/track/44oCGRuPFy7Uz6w4KliMBS) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [Sing To Me](https://open.spotify.com/album/5XdXw120Se7gs2kCDfIh3Z) | 3:09 |
 | 91 | [HURT](https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:33 |
 | 92 | [Atlas Falls](https://open.spotify.com/track/7m1Lw3uTakxHFxGjXXbE4l) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Atlas Falls](https://open.spotify.com/album/3jOuZwZorZqcxcRAwLXDIV) | 3:12 |
 | 93 | [FREEFALL \(feat\. Chris Daughtry\)](https://open.spotify.com/track/2gjgAWkkeM8u849gkTV9ow) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [CARNAL \(Deluxe\)](https://open.spotify.com/album/6bo0qsybdHj6lP2Hr0flUj) | 3:46 |
-| 94 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 |
-| 95 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 |
+| 94 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 |
+| 95 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 |
 | 96 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 |
 | 97 | [When I'm Gone](https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7) | 3:25 |
 | 98 | [IF IT DOESN'T HURT](https://open.spotify.com/track/4olevV9BVXIZpcI3g8E6kI) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [IF IT DOESN'T HURT](https://open.spotify.com/album/5kx9a5qBDk9zQAk84pnPWo) | 2:59 |

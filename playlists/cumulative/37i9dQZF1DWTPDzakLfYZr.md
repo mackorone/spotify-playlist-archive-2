@@ -4,7 +4,7 @@
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Manuel Turizo.
 
-402 songs - 21 hr 3 min
+403 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Recordar](https://open.spotify.com/track/5OqHiduQCQDsOA2SB5CQJJ) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Recordar](https://open.spotify.com/album/7pk9Y44tyVZVJud0fhB9R1) | 3:52 | 2022-03-04 | 2022-03-26 |
 | [Regalito](https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [TRESCENDER](https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc) | 2:41 | 2026-03-13 |  |
 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 | 2022-03-04 | 2022-03-26 |
+| [Ritmo](https://open.spotify.com/track/1RJcWggyL9PTVVZLqOsBzZ) | [elkno](https://open.spotify.com/artist/7Hk8R7m0IdaLY5Hy70BhIq), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Ritmo](https://open.spotify.com/album/3XhdXzqFTyggqsDaeqI3X7) | 2:30 | 2026-05-29 |  |
 | [Rompecabezas](https://open.spotify.com/track/1wtEo5LAk0Hm405a26DaND) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Rompecabezas](https://open.spotify.com/album/5p788bFZwrslgTpb6AUT4M) | 3:02 | 2022-09-02 | 2022-10-15 |
 | [Rota](https://open.spotify.com/track/0zsrWnFZdRsMud7Vz7eR6P) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [Rota](https://open.spotify.com/album/6XrXA11FwOpIjGozdbkVcl) | 3:01 | 2022-07-29 | 2022-08-13 |
 | [Roxe](https://open.spotify.com/track/6LayKriqRHaFYI6peQp45f) | [Kid Fresco](https://open.spotify.com/artist/2Mqd2MLJTKaLBG8N5vS5rD), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Roxe](https://open.spotify.com/album/5Mjitq9NAXuE4ARFJTZuHe) | 3:05 | 2022-10-14 | 2022-11-26 |

@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Mala Fama.",
-  "num_followers": 596810,
+  "num_followers": 596896,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Ahi Ahi",
-        "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 176796,
-      "name": "Ahi Ahi",
-      "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Linda (Remix)",
         "url": "https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 234105,
       "name": "Linda - Remix",
       "url": "https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Ahi Ahi",
+        "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 176796,
+      "name": "Ahi Ahi",
+      "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -331,18 +331,18 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
         }
       ],
-      "duration_ms": 225320,
-      "name": "Que calor",
-      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
+      "duration_ms": 214093,
+      "name": "Poeta Enamorado",
+      "url": "https://open.spotify.com/track/7hz1CZ9EqizK9QjAIQFqRi"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 225320,
+      "name": "Que calor",
+      "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "Tamo Chelo",
         "url": "https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 112507,
       "name": "Tamo Chelo",
       "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Poeta Enamorado",
-      "url": "https://open.spotify.com/track/7hz1CZ9EqizK9QjAIQFqRi"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0aXuxTB6LV41ocKLn6Tx0k"
-      },
-      "artists": [
-        {
-          "name": "Yerba Brava",
-          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
-        }
-      ],
-      "duration_ms": 250786,
-      "name": "Como te voy a olvidar",
-      "url": "https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "M\u00e1s Solida",
         "url": "https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 201053,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2VnehfkcQBTzwMT0MYIfxx"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/0aXuxTB6LV41ocKLn6Tx0k"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "duration_ms": 250786,
+      "name": "Como te voy a olvidar",
+      "url": "https://open.spotify.com/track/0G6j6Tp5x3TF00TrUXtfkv"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1111,6 +1111,30 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "YO SOY TU MAESTRO (Remix)",
+        "url": "https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "YO SOY TU MAESTRO - Remix",
+      "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "Barrio Prendido",
         "url": "https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J"
       },
@@ -1139,30 +1163,6 @@
       "duration_ms": 240008,
       "name": "Barrio Prendido",
       "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
-        "name": "YO SOY TU MAESTRO (Remix)",
-        "url": "https://open.spotify.com/album/6wcl6zVgbk0jOyTcEURvjG"
-      },
-      "artists": [
-        {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "NEGRO DUB",
-          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "YO SOY TU MAESTRO - Remix",
-      "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP"
-      },
-      "artists": [
-        {
-          "name": "Los Dragones",
-          "url": "https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt"
-        }
-      ],
-      "duration_ms": 211461,
-      "name": "El Mamado del Auto",
-      "url": "https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Moviendo la Cola",
         "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 200373,
       "name": "Siempre Es la Misma Situaci\u00f3n",
       "url": "https://open.spotify.com/track/0m3IyXg5G0fjN7juaFihTv"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP"
+      },
+      "artists": [
+        {
+          "name": "Los Dragones",
+          "url": "https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt"
+        }
+      ],
+      "duration_ms": 211461,
+      "name": "El Mamado del Auto",
+      "url": "https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
+        "name": "Y Pinto... El Arrebato Guacho",
+        "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
+      },
+      "artists": [
+        {
+          "name": "El Arrebato",
+          "url": "https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "Quiero Que Escuches",
+      "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
         "name": "FERNANDITO",
         "url": "https://open.spotify.com/album/7LVRFI3cZTRI2nbY6vEanX"
       },
@@ -1687,18 +1703,26 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Y Pinto... El Arrebato Guacho",
-        "url": "https://open.spotify.com/album/30FrHEwHMkn6oBqMvW0jHJ"
+        "name": "6to Sentido (Una Vuelta)",
+        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
       },
       "artists": [
         {
-          "name": "El Arrebato",
-          "url": "https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg"
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "DJ Cronox",
+          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
         }
       ],
-      "duration_ms": 177093,
-      "name": "Quiero Que Escuches",
-      "url": "https://open.spotify.com/track/0mOelAOFxEBTkzBzHlXxIA"
+      "duration_ms": 128265,
+      "name": "6to Sentido (Una Vuelta)",
+      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1727,26 +1751,30 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "6to Sentido (Una Vuelta)",
-        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
+        "name": "EXCUSAS",
+        "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
       },
       "artists": [
         {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+          "name": "OKY",
+          "url": "https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU"
         },
         {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
         },
         {
-          "name": "DJ Cronox",
-          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        },
+        {
+          "name": "Dj Lauuh",
+          "url": "https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF"
         }
       ],
-      "duration_ms": 128265,
-      "name": "6to Sentido (Una Vuelta)",
-      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
+      "duration_ms": 221333,
+      "name": "EXCUSAS",
+      "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
     },
     {
       "added_at": "2026-02-13 19:04:43",
@@ -1787,34 +1815,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "EXCUSAS",
-        "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
-      },
-      "artists": [
-        {
-          "name": "OKY",
-          "url": "https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "NEGRO DUB",
-          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
-        },
-        {
-          "name": "Dj Lauuh",
-          "url": "https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "EXCUSAS",
-      "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Es Corta la Bocha",
         "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
       },
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-02-13 19:04:43",
       "album": {
-        "name": "Y Si Est\u00e1s Perseguido...!",
-        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
-      },
-      "artists": [
-        {
-          "name": "El Perro",
-          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Te Escapas De Mis Brazos",
-      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
-    },
-    {
-      "added_at": "2026-02-13 19:04:43",
-      "album": {
         "name": "Ritmo Sustancia",
         "url": "https://open.spotify.com/album/1MozmfW6obuEiUg2EqqQA1"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 157093,
       "name": "Guampa Chata",
       "url": "https://open.spotify.com/track/6386yQ4ObRBt7hmPgmTLVA"
+    },
+    {
+      "added_at": "2026-02-13 19:04:43",
+      "album": {
+        "name": "Y Si Est\u00e1s Perseguido...!",
+        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Te Escapas De Mis Brazos",
+      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
     }
   ],
   "unique_name": "Cumbia villera",

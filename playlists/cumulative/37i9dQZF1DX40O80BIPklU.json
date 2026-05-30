@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Charles Ans, La Loquera, BCN , Movimiento Original y Neto Pe\u00f1a en portada. ",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. Homer El Mero Mero en portada. ",
   "name": "Rap Champa\u00f1a",
   "tracks": [
     {
@@ -1300,6 +1300,28 @@
       "duration_ms": 201698,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/69vGl5T8eNegQYemljEFWX"
+    },
+    {
+      "album": {
+        "name": "ANTISISTEMA",
+        "url": "https://open.spotify.com/album/5EZgOVl4ZDzNOc10oJwXnA"
+      },
+      "artists": [
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        },
+        {
+          "name": "Trooko",
+          "url": "https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "ANTISISTEMA",
+      "url": "https://open.spotify.com/track/3cKnb09OERSpDLC5dqaP1y"
     },
     {
       "album": {
@@ -2721,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "Cap #3 - Villa Caraza",
+        "url": "https://open.spotify.com/album/2mwqCReRe5iKB6kYBPXD2I"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "Cap #3 - Villa Caraza",
+      "url": "https://open.spotify.com/track/0jD6ZTZgJnBkd1MR3euse4"
+    },
+    {
+      "album": {
         "name": "Capuccino",
         "url": "https://open.spotify.com/album/6SvKDk59wgaSM9tVWVA6n3"
       },
@@ -3190,7 +3230,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 150991,
       "name": "Codigoz",
       "url": "https://open.spotify.com/track/077Z91vFjwHGuG0X8KrIPX"
@@ -5543,6 +5583,24 @@
     },
     {
       "album": {
+        "name": "Fijate Bien",
+        "url": "https://open.spotify.com/album/6SSAJkqPAKxzyGvYlKOLV4"
+      },
+      "artists": [
+        {
+          "name": "Union Fatal",
+          "url": "https://open.spotify.com/artist/7ANYm0dRVIAIwNmWw0kWzj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230558,
+      "name": "Fijate Bien",
+      "url": "https://open.spotify.com/track/4uPObbvvoElrwI3ItquqLD"
+    },
+    {
+      "album": {
         "name": "FISG\u00d3N",
         "url": "https://open.spotify.com/album/2oum3uiNJMHA1zKRpgbhlM"
       },
@@ -6224,7 +6282,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 203076,
       "name": "Henry Hill",
       "url": "https://open.spotify.com/track/15f22EqDBH8w0nFRDw7NaK"
@@ -6272,6 +6330,28 @@
       "duration_ms": 181132,
       "name": "HIJO DE P",
       "url": "https://open.spotify.com/track/5iIpWGnsZM6Em76qUAIcRz"
+    },
+    {
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/6L1jceOxEzSMuTSULHYqzE"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182173,
+      "name": "Hijos de la Tierra",
+      "url": "https://open.spotify.com/track/5MVLsgpXweeWLloLlChWDl"
     },
     {
       "album": {
@@ -7466,7 +7546,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 170869,
       "name": "LA Piazza",
       "url": "https://open.spotify.com/track/6uzzVffK9LsyST2qAo9zMs"
@@ -8046,6 +8126,36 @@
       "duration_ms": 174335,
       "name": "Life's Short",
       "url": "https://open.spotify.com/track/172vmBDwYWR9u9Si4QvhAx"
+    },
+    {
+      "album": {
+        "name": "Lirica Homicida",
+        "url": "https://open.spotify.com/album/0eozRpJGbJEGWNNpWiLXqR"
+      },
+      "artists": [
+        {
+          "name": "Pielroja",
+          "url": "https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k"
+        },
+        {
+          "name": "Zumbiman",
+          "url": "https://open.spotify.com/artist/2HYZ0eK6rJzcwT33K7FxSE"
+        },
+        {
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        },
+        {
+          "name": "M.Tim\u00e9re",
+          "url": "https://open.spotify.com/artist/0GBlz2FhqkK3NwARNesKM5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260470,
+      "name": "Lirica Homicida",
+      "url": "https://open.spotify.com/track/1C0AgRLnLg1qBnmDGTVyg4"
     },
     {
       "album": {
@@ -12162,7 +12272,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 159665,
       "name": "Resurrecci\u00f3n",
       "url": "https://open.spotify.com/track/4zt8ZHxJ3NyhptyRiXR1W9"
@@ -12873,6 +12983,32 @@
     },
     {
       "album": {
+        "name": "SIEMPRE TITULAR",
+        "url": "https://open.spotify.com/album/0ZBkoEhKfKF3o3sYABM56c"
+      },
+      "artists": [
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Keko Beats",
+          "url": "https://open.spotify.com/artist/3d5ScJpj1ROK1DNtwM17Ed"
+        },
+        {
+          "name": "Cirujano Resendez",
+          "url": "https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "SIEMPRE TITULAR",
+      "url": "https://open.spotify.com/track/7mPLsi81eodaAXhI3zIX8w"
+    },
+    {
+      "album": {
         "name": "Ilusi\u00f3n Supersport",
         "url": "https://open.spotify.com/album/6L3tyYGy28herSTtFsKYIM"
       },
@@ -13240,7 +13376,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 210189,
       "name": "Solo Es Una",
       "url": "https://open.spotify.com/track/0zI6k327ZynSWmJ8v4gzlf"
@@ -13492,7 +13628,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 155666,
       "name": "Sustancias",
       "url": "https://open.spotify.com/track/5AwmjqMMYU46Esqe72NBwH"
@@ -14216,7 +14352,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 191713,
       "name": "Todo Ir\u00e1 Bien",
       "url": "https://open.spotify.com/track/3jX12gKsZ4bPUne2d9b4aQ"

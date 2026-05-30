@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,359 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,361 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 17 | [Bad \(feat\. Yungen, MoStack, Mr Eazi & Not3s\)](https://open.spotify.com/track/5vySkXA0v40CDwofIvhc1Y) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Yungen](https://open.spotify.com/artist/3ijd7T9kkzgvfx1az6Z3wj), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Bad \(feat\. Yungen, MoStack, Mr Eazi & Not3s\)](https://open.spotify.com/album/3X34zuRCa6RTlmAUP30kIh) | 3:24 |
 | 18 | [Mariana](https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Mariana](https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX) | 2:28 |
 | 19 | [Baby I'm Jealous](https://open.spotify.com/track/5lAOltJO0aw2FUP5Use4cD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [One Day You Will Understand](https://open.spotify.com/album/6Z22tsn1nyT9CmcTZa8ZEC) | 2:30 |
-| 20 | [Life Is Eazi](https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 4:04 |
-| 21 | [Pour Me Water](https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
+| 20 | [Pour Me Water](https://open.spotify.com/track/1XIPyyGqBSU20i4gSagsLV) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:48 |
+| 21 | [Life Is Eazi](https://open.spotify.com/track/6GPyqTzuYf5bMS0kTRmsbQ) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 4:04 |
 | 22 | [On D Low](https://open.spotify.com/track/145wLDNFQBRV6GMBA4y3IL) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dangerous Wavy Baby](https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW) | 1:58 |
-| 23 | [Baby I'm Still Jealous](https://open.spotify.com/track/7CXSw6Gifu5xrPQwW3zxSp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d) | 1:50 |
-| 24 | [Ohema \(feat\. Mr Eazi\)](https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [TEN](https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT) | 3:26 |
+| 23 | [Ohema \(feat\. Mr Eazi\)](https://open.spotify.com/track/2x09oCozS8uk8PHZwPInNH) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [TEN](https://open.spotify.com/album/4FiD8U5S4AEIUS1fev5cKT) | 3:26 |
+| 24 | [Baby I'm Still Jealous](https://open.spotify.com/track/7CXSw6Gifu5xrPQwW3zxSp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [See What We've Done](https://open.spotify.com/album/7t2OiJ1lU1nvmdHB1oOf0d) | 1:50 |
 | 25 | [Casanova](https://open.spotify.com/track/3coiPTHUXzjOQT1e1qKX9t) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Casanova](https://open.spotify.com/album/1ka9tiXxiUc6BHN5ZsNhgx) | 2:15 |
 | 26 | [Doyin](https://open.spotify.com/track/71iknvVFjHMMs0nit8eh2M) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Doyin](https://open.spotify.com/album/3G9nwad9keufs9f45T69Z9) | 2:33 |
 | 27 | [Surrender](https://open.spotify.com/track/3IQ3XI5Q2RjGYKGzkwCA65) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Attention](https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [F1 The Album](https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK) | 2:53 |
 | 50 | [Letter To My Guys \(LTMG\) \[Remix\]](https://open.spotify.com/track/6n4ILTDLJOvpC8bFAdAlI8) | [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Letter To My Guys \(LTMG\) \[Remix\]](https://open.spotify.com/album/4ouncs89hWP86vCrwoxoiq) | 3:15 |
 
-Snapshot ID: `ahY0AAAAAAAFoDH/bDOWKMIO8s+glD+p`
+Snapshot ID: `aheFgAAAAAA8oH4YjJR3FOSkQ213tAwp`

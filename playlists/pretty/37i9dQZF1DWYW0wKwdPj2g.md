@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,611 likes - 100 songs - 14 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,638 likes - 100 songs - 14 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 9 | [IDINMA \(Mercy Prevails\) \- Live](https://open.spotify.com/track/4oqxo4bkaRbnOqXMsWxP1Y) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [IDINMA \(Mercy Prevails\) \[Live\]](https://open.spotify.com/album/4vDlB283bSnqfdk1IC4upA) | 11:55 |
 | 10 | [My Lover \- Live](https://open.spotify.com/track/7DdZb0zDfmg7dXGsUICh2E) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 8:24 |
 | 11 | [Mercy](https://open.spotify.com/track/1n2kZ1iuGpuxj8sr4NY8RL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Mercy](https://open.spotify.com/album/65dVjDK6IVyThRsk4S6Yxu) | 16:45 |
-| 12 | [Track 15](https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr) | [Paul Kachala](https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM) | [Mwayenera \- The Live Album](https://open.spotify.com/album/4CguM9gNqGCX0pvY5ioAcZ) | 0:00 |
+| 12 | [Inu ndi Ine \- Live](https://open.spotify.com/track/1Ky5Hj2fPFZx27jkQrGHCr) | [Paul Kachala](https://open.spotify.com/artist/0awM3FLpcdgGDTT3gO2FaM), [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Mwayenera \- The Live Album](https://open.spotify.com/album/4CguM9gNqGCX0pvY5ioAcZ) | 9:24 |
 | 13 | [I PREVAIL \- Live](https://open.spotify.com/track/05e71J5stPJGlANXswQDDu) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [I PREVAIL \(Live\)](https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL) | 12:58 |
 | 14 | [Prayer](https://open.spotify.com/track/36F3Fmu0wxjutn8LTeZZvL) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Prayer](https://open.spotify.com/album/5HWf6AknaS1QvRXM0dpLsU) | 3:54 |
 | 15 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |

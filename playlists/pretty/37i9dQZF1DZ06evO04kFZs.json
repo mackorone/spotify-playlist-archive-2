@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 496802,
+  "num_followers": 496826,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAADCbrXVOUvajjvwY81tXbit",
+  "snapshot_id": "aheFgAAAAABd+2G/CsV74U0PubVIw+lY",
   "tracks": [
     {
       "added_at": null,
@@ -319,30 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
-        "url": "https://open.spotify.com/album/7LMJKPGcBZjZf6AEnTBS2t"
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU"
       },
       "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 296011,
-      "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
-      "url": "https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H"
+      "duration_ms": 151011,
+      "name": "Hotel Lobby",
+      "url": "https://open.spotify.com/track/3t6D3tZXVIuy8SwT7Pcc6N"
     },
     {
       "added_at": null,
@@ -399,18 +387,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU"
+        "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
+        "url": "https://open.spotify.com/album/7LMJKPGcBZjZf6AEnTBS2t"
       },
       "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 151011,
-      "name": "Hotel Lobby",
-      "url": "https://open.spotify.com/track/3t6D3tZXVIuy8SwT7Pcc6N"
+      "duration_ms": 296011,
+      "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
+      "url": "https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H"
     },
     {
       "added_at": null,
@@ -703,22 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Intentions",
-        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
+        "name": "I Know NIGO!",
+        "url": "https://open.spotify.com/album/14CQcafIVPmyMXbqZvU79T"
       },
       "artists": [
         {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
         }
       ],
-      "duration_ms": 179371,
-      "name": "Run It Up (feat. Pop Smoke)",
-      "url": "https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv"
+      "duration_ms": 135111,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1Q7sbHZrWpvaww9XjV26KA"
     },
     {
       "added_at": null,
@@ -747,22 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Know NIGO!",
-        "url": "https://open.spotify.com/album/14CQcafIVPmyMXbqZvU79T"
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
       "artists": [
         {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
         },
         {
-          "name": "Nigo",
-          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 135111,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/1Q7sbHZrWpvaww9XjV26KA"
+      "duration_ms": 179371,
+      "name": "Run It Up (feat. Pop Smoke)",
+      "url": "https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv"
     },
     {
       "added_at": null,

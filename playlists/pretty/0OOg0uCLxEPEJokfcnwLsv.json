@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1021,
+  "num_followers": 1024,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGLL/1jd0pkU56nvq03XzDyG/au/pQ",
+  "snapshot_id": "AAAGLfK/aR4l54ewNtIfNFVYW59M25YH",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1583,6 +1583,22 @@
       "duration_ms": 219000,
       "name": "The Veil",
       "url": "https://open.spotify.com/track/3S9Wu7CaNB5gRDMPBSbHFR"
+    },
+    {
+      "added_at": "2026-05-29 16:09:21",
+      "album": {
+        "name": "Chicago",
+        "url": "https://open.spotify.com/album/5V7ZgYI3RoHeLYNtiJoTLB"
+      },
+      "artists": [
+        {
+          "name": "Follow Deep",
+          "url": "https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg"
+        }
+      ],
+      "duration_ms": 189549,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/0uhM1mDQ9tsxPdV4oorvUv"
     }
   ],
   "unique_name": "Unsigned Rock",

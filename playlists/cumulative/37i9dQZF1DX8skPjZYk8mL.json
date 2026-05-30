@@ -5153,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "Dream Trail",
+        "url": "https://open.spotify.com/album/4iqqQnBiaQElsVBPwMlHYN"
+      },
+      "artists": [
+        {
+          "name": "Tom Abott",
+          "url": "https://open.spotify.com/artist/4Mxad1PBRHlkgCRhpKhTbf"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111658,
+      "name": "Dream Trail",
+      "url": "https://open.spotify.com/track/0cAEsP6HtzX0enOf19ih9c"
+    },
+    {
+      "album": {
         "name": "Dreambear",
         "url": "https://open.spotify.com/album/4dyt7Kgu09MWKs303sGCWH"
       },
@@ -5632,7 +5650,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 91304,
       "name": "East Side Lullaby",
       "url": "https://open.spotify.com/track/0heR54ps75NRwlDDsErcG4"
@@ -6104,6 +6122,24 @@
       "duration_ms": 146320,
       "name": "Fathoms Below",
       "url": "https://open.spotify.com/track/4454KBnQESBQnvtf6tlxh3"
+    },
+    {
+      "album": {
+        "name": "Feather Dream",
+        "url": "https://open.spotify.com/album/62QJZuAyIgwo8xmtPpSSYO"
+      },
+      "artists": [
+        {
+          "name": "Elio Fen",
+          "url": "https://open.spotify.com/artist/4HPVNREGebsTY2paLDQcfK"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98123,
+      "name": "Feather Dream",
+      "url": "https://open.spotify.com/track/6o3HXMM1xzQ0WZ29o6khyA"
     },
     {
       "album": {
@@ -10391,6 +10427,24 @@
     },
     {
       "album": {
+        "name": "Kitty Made a Toy",
+        "url": "https://open.spotify.com/album/5rxW3CvoH12SFr1I0HRLdZ"
+      },
+      "artists": [
+        {
+          "name": "Jesse Birkman",
+          "url": "https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122534,
+      "name": "Kitty Made a Toy",
+      "url": "https://open.spotify.com/track/1amKv2iacIgMI7OTgmEG4F"
+    },
+    {
+      "album": {
         "name": "Vaggvisor F\u00f6r Harpa",
         "url": "https://open.spotify.com/album/1eCMzYSos0iSpcgYB4kMyB"
       },
@@ -10780,7 +10834,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 104436,
       "name": "Leyre\u00b4s Song",
       "url": "https://open.spotify.com/track/2flPBsNXeqVveFNGQ30Pi2"
@@ -19240,7 +19294,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 112040,
       "name": "Summer Rain Lullaby",
       "url": "https://open.spotify.com/track/1tqpXIIpSt37fwvTnd0eaD"
@@ -19870,7 +19924,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 93889,
       "name": "Take Me Out to the Ball Game",
       "url": "https://open.spotify.com/track/26i7uHjympKu1M9rOhOu4N"
@@ -24518,6 +24572,24 @@
       "duration_ms": 104233,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/4qdOOYrsdiZaCQ0FbyDfaE"
+    },
+    {
+      "album": {
+        "name": "You Are my Sweet Dream",
+        "url": "https://open.spotify.com/album/0LELUauZXJXCq029m9vjTZ"
+      },
+      "artists": [
+        {
+          "name": "Amaya Ailey",
+          "url": "https://open.spotify.com/artist/3pjyHVhKVU2FW9R9bCGUVq"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116840,
+      "name": "You Are my Sweet Dream",
+      "url": "https://open.spotify.com/track/3783kQj0Mbpy4kYiMPIEAR"
     },
     {
       "album": {

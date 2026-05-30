@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Creed
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,028 likes - 70 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,041 likes - 70 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 66 | [Stacked Actors](https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:16 |
 | 67 | [Shade](https://open.spotify.com/track/2keOybXUjBXImmAjk7UapM) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:02 |
 | 68 | [Wasteland](https://open.spotify.com/track/0nTiC2fGkM4q8bGlBKGrGx) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Autumn Effect](https://open.spotify.com/album/44IoacfwUkvviGnihTUv1X) | 3:49 |
-| 69 | [Hollow](https://open.spotify.com/track/4fwqAO7Sq7jSCWeliHadVf) | [Submersed](https://open.spotify.com/artist/0539gq2LM2VDs01rp8gnGz) | [In Due Time](https://open.spotify.com/album/2kg7OYu7fN3clQtAzFEh1L) | 4:04 |
-| 70 | [Astounded](https://open.spotify.com/track/0WBL72ulf4mkcflIO0W5cq) | [Tantric](https://open.spotify.com/artist/4tMZahYVKJdjbC1GHVtNnV) | [Tantric \(U.S\. Version\-Enh'd\)](https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ) | 4:21 |
+| 69 | [Astounded](https://open.spotify.com/track/0WBL72ulf4mkcflIO0W5cq) | [Tantric](https://open.spotify.com/artist/4tMZahYVKJdjbC1GHVtNnV) | [Tantric \(U.S\. Version\-Enh'd\)](https://open.spotify.com/album/08nOgpgThrvOYlvM6nUOmJ) | 4:21 |
+| 70 | [Hollow](https://open.spotify.com/track/4fwqAO7Sq7jSCWeliHadVf) | [Submersed](https://open.spotify.com/artist/0539gq2LM2VDs01rp8gnGz) | [In Due Time](https://open.spotify.com/album/2kg7OYu7fN3clQtAzFEh1L) | 4:04 |
 
 Snapshot ID: `AAAAAPHqSluRIg+T1/LoeRomcCkQtVa+`

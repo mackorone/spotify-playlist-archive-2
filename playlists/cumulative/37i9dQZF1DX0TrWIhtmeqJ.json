@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/4eawBBIL0VXLktBvSgdrBM"
+      },
+      "artists": [
+        {
+          "name": "JrodBroccoli",
+          "url": "https://open.spotify.com/artist/0ht1thNgu836B6AYsXbt1K"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/5ASzHE878PA0otam9gN50R"
+    },
+    {
+      "album": {
         "name": "Hideout",
         "url": "https://open.spotify.com/album/1Z4KbGWGQjJkPFkeUKHx5c"
       },

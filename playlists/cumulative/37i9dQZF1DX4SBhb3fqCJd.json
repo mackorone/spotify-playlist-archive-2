@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B lives. Cover: 6LACK",
+  "description": "Where R&B lives. Cover: kwn",
   "name": "RNB X",
   "tracks": [
     {
@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 236559,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
@@ -13338,6 +13338,24 @@
       "duration_ms": 213791,
       "name": "STRANGERS",
       "url": "https://open.spotify.com/track/7jF5V0KISfBLyVO5eF4D1w"
+    },
+    {
+      "album": {
+        "name": "stuck",
+        "url": "https://open.spotify.com/album/2WQhpOLkmPLPgrcBYjWmRK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161334,
+      "name": "stuck",
+      "url": "https://open.spotify.com/track/1nEzZ4l1LYmmaDNgWNzVCG"
     },
     {
       "album": {

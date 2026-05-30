@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 
 ### [Barefoot and Free](https://open.spotify.com/playlist/37i9dQZF1DWY5zqHqQrusq)
 
-> Chill, take a long walk and clear your mind\. Cover: Iken
+> Chill, take a long walk and clear your mind\. Cover: Maali
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,481 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,482 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5zqHqQrusq.md) - [plain]
 | 49 | [Searching](https://open.spotify.com/track/1q7H5GOKYhxtJi7qUWAi3I) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Wabi Sherie](https://open.spotify.com/artist/2dtXYbUEL1VbMjtOKpIBDO), [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Soul'd Duets](https://open.spotify.com/album/0RWvz01vbIOwW5Oo3e3ky6) | 4:23 |
 | 50 | [Nitangoja](https://open.spotify.com/track/21eRcBcsRtuHjL2jSeMu7A) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Nitangoja](https://open.spotify.com/album/1gKLgM7RsLrCf3rx3Vh2ex) | 2:38 |
 
-Snapshot ID: `AAAAANFFA2wiVSexDj8ywca1QqGwbubt`
+Snapshot ID: `AAAAAOXQK+M7+xapW7udaLSTtj48hA4W`

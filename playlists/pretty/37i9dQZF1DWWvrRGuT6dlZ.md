@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Claire Javier\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,044 likes - 24 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,045 likes - 24 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

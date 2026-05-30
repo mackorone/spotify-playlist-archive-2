@@ -3736,7 +3736,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 237882,
       "name": "Amma Amma Dhaan - From \"Nooru Sami\"",
       "url": "https://open.spotify.com/track/2EvEcvLgZ7Wi3w1msoIY2Y"
@@ -10406,6 +10406,32 @@
       "duration_ms": 201162,
       "name": "Dhama Dhama (From \"Miss You\")",
       "url": "https://open.spotify.com/track/6AktQfsNi1y6WYnN7qEopE"
+    },
+    {
+      "album": {
+        "name": "Dhanda Jigar (From \"Valluvan\")",
+        "url": "https://open.spotify.com/album/0un95QyNP1raq0nVeIqkp5"
+      },
+      "artists": [
+        {
+          "name": "Ashwath",
+          "url": "https://open.spotify.com/artist/0ZME1dtaOU96fNDeTTAnnM"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Madras Miran",
+          "url": "https://open.spotify.com/artist/2uGJ4HB24UySISeUlOHsNb"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Dhanda Jigar - From \"Valluvan\"",
+      "url": "https://open.spotify.com/track/6H1yOR8utc5vAQajZAuGHk"
     },
     {
       "album": {

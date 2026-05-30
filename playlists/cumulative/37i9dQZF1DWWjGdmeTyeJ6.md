@@ -4,7 +4,7 @@
 
 > The best new music from independent artists and labels\. Featuring Paycheque\. Curated with love by human Spotify editors.
 
-9,737 songs - 21 day 22 hr 26 min
+9,738 songs - 21 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2881,7 +2881,7 @@
 | [Feet kept dancing](https://open.spotify.com/track/25XrI0x36fi0B6kPGFjovl) | [Lightris](https://open.spotify.com/artist/1BTzfMY27qhCFQpTeTUbCi), [Sabbath](https://open.spotify.com/artist/2aN5HVA7yy6ETvW4V0lmdt), [stomping plastic](https://open.spotify.com/artist/2a1rn28JQaiZwoqo5bmqs5) | [Feet kept dancing](https://open.spotify.com/album/1d2xJgkekgphIwcue6mo2I) | 3:41 | 2026-05-06 |  |
 | [Feet On The Sand](https://open.spotify.com/track/7BekKBRhD7H6rLgzZ0szIJ) | [Alice Costelloe](https://open.spotify.com/artist/1xbZZl0gYutFPyiUAXuJLy) | [Move On With The Year](https://open.spotify.com/album/5JMt8gvc13TSA5YCm9Hwe3) | 5:57 | 2026-02-12 | 2026-03-13 |
 | [Feline](https://open.spotify.com/track/73DV0IrR4FCwHOHLCo3M1D) | [NORTH](https://open.spotify.com/artist/5VgqZF1Hh98txNLr04HUVc) | [Feline](https://open.spotify.com/album/3eaeuM3WELR69oOfGTZpHA) | 3:19 | 2025-10-09 | 2025-11-08 |
-| [Fell Again](https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Fell Again / Stranger What's Your Name?](https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo) | 2:41 | 2026-04-22 |  |
+| [Fell Again](https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Fell Again / Stranger What's Your Name?](https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo) | 2:41 | 2026-04-22 | 2026-05-30 |
 | [Fell So Out](https://open.spotify.com/track/1vsA7hZEn4XKdvRkxDz9ov) | [From Dave](https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6) | [Fell So Out](https://open.spotify.com/album/7kqCL8iWoPfyjx8XheSEur) | 2:53 | 2026-01-28 | 2026-02-27 |
 | [FELT](https://open.spotify.com/track/3QhYurIfGGcEmVOGv64LkU) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [FELT](https://open.spotify.com/album/1M0ojx64lDoZkMimTiUYLm) | 1:45 | 2021-11-17 | 2022-01-13 |
 | [Felt Before](https://open.spotify.com/track/77MTRt1T7hxICgKpxpXsTd) | [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj), [Victor Dysayon](https://open.spotify.com/artist/7juH6y1N1CM4CThwQPTJba) | [Bahu](https://open.spotify.com/album/6qwGQgm99tnKU2tJ7qEB4y) | 2:27 | 2022-08-31 | 2022-09-09 |
@@ -4485,6 +4485,7 @@
 | [jackie](https://open.spotify.com/track/5gmszQA3QQASFTpGXMFcPz) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [jackie](https://open.spotify.com/album/1JEA214QFBJj9zT3wbOtzq) | 3:22 | 2023-01-11 | 2023-01-19 |
 | [Jackie](https://open.spotify.com/track/5vVxS6OUb5pOnYFjjN4p7g) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Jackie](https://open.spotify.com/album/6YqF0iImKRIVQh9luYDrN6) | 3:00 | 2023-11-08 | 2023-11-30 |
 | [Jackie Chan](https://open.spotify.com/track/0in5mxxYYegP6w1lRuKS8u) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH) | [Jackie Chan](https://open.spotify.com/album/1KHwTiHH1uVwHy04DS0Tj3) | 1:52 | 2023-03-29 | 2023-04-06 |
+| [JACKIE'S BACK](https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8) | [ASHMOOR](https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8) | [JACKIE'S BACK](https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI) | 2:39 | 2026-05-29 |  |
 | [JACKRABBIT](https://open.spotify.com/track/775kOqcATqrAHx28W6hvKD) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [FinallyFed](https://open.spotify.com/album/6qMYWYrxOA5EDNqRtyyG7C) | 2:36 | 2025-07-30 | 2025-09-04 |
 | [Jackson](https://open.spotify.com/track/3DZccgDWkT2PJrmvTDDI1a) | [Danielle Durack](https://open.spotify.com/artist/6GW3s0BFKxz18pDxGXPQnG) | [Escape Artist](https://open.spotify.com/album/6YeJDvjCE5ZoXVSe4mKnSY) | 3:20 | 2024-03-06 | 2024-03-28 |
 | [Jade](https://open.spotify.com/track/636MsYocCcRKzJxGWmhQ4Z) | [Maya Engen](https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm) | [Jade](https://open.spotify.com/album/2KIhBAxa9FMbVn9PToW2p0) | 4:04 | 2026-04-01 | 2026-04-30 |

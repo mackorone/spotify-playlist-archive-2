@@ -1,6 +1,6 @@
 {
   "description": "Reps, riffs, rest, repeat.",
-  "num_followers": 569180,
+  "num_followers": 569169,
   "original_name": "The Rock Workout",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-02-06 14:45:41",
       "album": {
+        "name": "Dead Club City",
+        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 197557,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/1eivMnftGIAIeTDUfTssVX"
+    },
+    {
+      "added_at": "2024-02-06 14:45:41",
+      "album": {
         "name": "Royal Blood",
         "url": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 204458,
       "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
-    },
-    {
-      "added_at": "2024-02-06 14:45:41",
-      "album": {
-        "name": "Dead Club City",
-        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 197557,
-      "name": "Welcome to the DCC",
-      "url": "https://open.spotify.com/track/1eivMnftGIAIeTDUfTssVX"
     },
     {
       "added_at": "2024-02-06 14:45:41",

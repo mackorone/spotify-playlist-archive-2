@@ -1,13 +1,133 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Joshua Robbie, Dawty, Preston Harris and Trxnz",
-  "num_followers": 118322,
+  "num_followers": 118318,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAhf+SXRdhYGysjJsV6SZ4cvfwjGjWR",
+  "snapshot_id": "AAAhj9UpgoRJsz5TbB+PVBFc5TsUhgzn",
   "tracks": [
+    {
+      "added_at": "2026-05-29 07:13:19",
+      "album": {
+        "name": "Addicted 2 U (feat. Preston Harris, Trxnz)",
+        "url": "https://open.spotify.com/album/2964GOL4YU5xRNslzMpjs3"
+      },
+      "artists": [
+        {
+          "name": "Joshua Robbie",
+          "url": "https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ"
+        },
+        {
+          "name": "Dawty",
+          "url": "https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe"
+        },
+        {
+          "name": "Preston Harris",
+          "url": "https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8"
+        },
+        {
+          "name": "Trxnz",
+          "url": "https://open.spotify.com/artist/1u2RwK9C55BTgbGB0LARNm"
+        }
+      ],
+      "duration_ms": 165672,
+      "name": "Addicted 2 U (feat. Preston Harris, Trxnz)",
+      "url": "https://open.spotify.com/track/0TrFKndsCS4nXlNcYwrath"
+    },
+    {
+      "added_at": "2026-05-29 07:13:22",
+      "album": {
+        "name": "Party Over Here (feat. Detroit's Filthiest)",
+        "url": "https://open.spotify.com/album/1LjXy7lxXGESbH5JBXvm2j"
+      },
+      "artists": [
+        {
+          "name": "Jamie Fielding",
+          "url": "https://open.spotify.com/artist/4vGZvBKumnAgz82tNuAnlh"
+        },
+        {
+          "name": "Detroit's Filthiest",
+          "url": "https://open.spotify.com/artist/3O9jHYmVyq59RNpd77g7HW"
+        }
+      ],
+      "duration_ms": 180019,
+      "name": "Party Over Here (feat. Detroit's Filthiest)",
+      "url": "https://open.spotify.com/track/43gnaKewGiyWvK4qyypoJR"
+    },
+    {
+      "added_at": "2026-05-29 07:13:21",
+      "album": {
+        "name": "I Need A Miracle",
+        "url": "https://open.spotify.com/album/6E92K2X9DEBwDkL8DSo0Hr"
+      },
+      "artists": [
+        {
+          "name": "Mike Momburg",
+          "url": "https://open.spotify.com/artist/3MZ80Vsf1nxkzuM1AjowNy"
+        },
+        {
+          "name": "Coco Star",
+          "url": "https://open.spotify.com/artist/3XSkS0dvC7HqbspstKciWc"
+        }
+      ],
+      "duration_ms": 180419,
+      "name": "I Need A Miracle",
+      "url": "https://open.spotify.com/track/7nOvkg55o8oQpx4yzDqExT"
+    },
+    {
+      "added_at": "2026-05-29 07:13:16",
+      "album": {
+        "name": "Don't Lose Your Head",
+        "url": "https://open.spotify.com/album/0JlIAgb2Wef3CMsq3Jf7JS"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Don't Lose Your Head",
+      "url": "https://open.spotify.com/track/6btPEp3yW4iSMB5ykuYJny"
+    },
+    {
+      "added_at": "2026-05-29 07:13:26",
+      "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/5Y5NjF98avN62VtZH0nP2d"
+      },
+      "artists": [
+        {
+          "name": "Geeyo Ibra",
+          "url": "https://open.spotify.com/artist/7qNEEQYlCIDFev1Z297wdx"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/5JZiWjnuOojwKGWFw5UcQw"
+    },
+    {
+      "added_at": "2026-05-29 07:13:24",
+      "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/3o7BNIsHMzdnjuUMCkOJMj"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "duration_ms": 113586,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/1De64hyRaLVuef35R9mAyE"
+    },
     {
       "added_at": "2026-05-21 13:16:09",
       "album": {
@@ -27,6 +147,30 @@
       "duration_ms": 187384,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
+    },
+    {
+      "added_at": "2026-05-29 07:13:27",
+      "album": {
+        "name": "Khoye Yahaan Reimagined",
+        "url": "https://open.spotify.com/album/3wLOljLlZt7B41pAZks4QJ"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "OTIOT",
+          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
+        },
+        {
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Khoye Yahaan Reimagined",
+      "url": "https://open.spotify.com/track/27rdwCkucvBC1uwWwruFgD"
     },
     {
       "added_at": "2026-05-21 22:00:00",
@@ -119,6 +263,26 @@
       "duration_ms": 206838,
       "name": "Touching Myself",
       "url": "https://open.spotify.com/track/7KoMYV6oP8wixP7YOrOwIU"
+    },
+    {
+      "added_at": "2026-05-29 07:13:18",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/1XFefiA64fuTrqGpsynbAe"
+      },
+      "artists": [
+        {
+          "name": "Steve Chris",
+          "url": "https://open.spotify.com/artist/1ZtZJPMuPeN1JQcOta58KI"
+        },
+        {
+          "name": "Venes",
+          "url": "https://open.spotify.com/artist/6bPCwlvecIvvfvB2a1mShc"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/6xHyykn4eSkjQs6Ci73Nf1"
     },
     {
       "added_at": "2026-05-21 13:16:12",

@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 
 ### [Éxitos USA](https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6)
 
-> The hottest Latin hits in the US! Cover: Maisak, Maluma & Feid
+> The hottest Latin hits in the US! Cover: Shakira, Burna Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,644,243 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,644,136 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Te Entiendo \- Remix](https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Te Entiendo \(Remix\)](https://open.spotify.com/album/05OMViCaav7QFZig4FJJOB) | 5:35 |
-| 2 | [Nalguita y Teta](https://open.spotify.com/track/6SuIUd8Wl5tZcyMFAV0EZJ) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Nalguita y Teta](https://open.spotify.com/album/0jwalP0wios13VlRWKILbC) | 3:07 |
-| 3 | [KOKO](https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:15 |
-| 4 | [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 |
-| 5 | [Ayúdame](https://open.spotify.com/track/5CnyWDjFwt7g0yPD2zdA4W) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Ayúdame](https://open.spotify.com/album/5mIgSt8XCughk9cUA5uxzu) | 2:41 |
-| 6 | [holanda](https://open.spotify.com/track/08ryHOM7OrGGcdrqFqNXxe) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [holanda](https://open.spotify.com/album/1l3EH2CGRWrHziaFV4uGTP) | 3:44 |
-| 7 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
+| 1 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
+| 2 | [KOKO](https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:15 |
+| 3 | [Te Entiendo \- Remix](https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Te Entiendo \(Remix\)](https://open.spotify.com/album/05OMViCaav7QFZig4FJJOB) | 5:35 |
+| 4 | [Nalguita y Teta](https://open.spotify.com/track/6SuIUd8Wl5tZcyMFAV0EZJ) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Nalguita y Teta](https://open.spotify.com/album/0jwalP0wios13VlRWKILbC) | 3:07 |
+| 5 | [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 |
+| 6 | [Ayúdame](https://open.spotify.com/track/5CnyWDjFwt7g0yPD2zdA4W) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Ayúdame](https://open.spotify.com/album/5mIgSt8XCughk9cUA5uxzu) | 2:41 |
+| 7 | [holanda](https://open.spotify.com/track/08ryHOM7OrGGcdrqFqNXxe) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [holanda](https://open.spotify.com/album/1l3EH2CGRWrHziaFV4uGTP) | 3:44 |
 | 8 | [BIAF <3](https://open.spotify.com/track/2niaqfUN4XWJ6BuDEm77Vh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [BIAF <3](https://open.spotify.com/album/0GnGHUSD8DxEU0ejWjvCNA) | 2:50 |
 | 9 | [Todos nos Shipean](https://open.spotify.com/track/1oeOCmZsqxNOKTE4AWqojs) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Todos nos Shipean](https://open.spotify.com/album/3SPczqBl3VuAwAHWfHQwa4) | 2:16 |
 | 10 | [PASE Y PASE](https://open.spotify.com/track/3UI9nM0xrI0ywhqoZQvLFt) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [PASE Y PASE](https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4oUPBOaEkL6.md) - [plain]
 | 49 | [Aguas](https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [Aguas](https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K) | 2:52 |
 | 50 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 |
 
-Snapshot ID: `AAAAAD0mn7TaAl+qGwzfzW3wuwt+d7SN`
+Snapshot ID: `AAAAANyiIZWToGXCslzvwQUY9RwJjX3k`

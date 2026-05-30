@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Barry Can't Swim
 
-1,482 songs - 4 day 4 hr 13 min
+1,483 songs - 4 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Desire](https://open.spotify.com/track/3DVXjW5D4mPCS7lcUdkuq4) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Running In Waves](https://open.spotify.com/album/3ihFO9WpTBiCoy2G4IWvgl) | 1:48 | 2022-09-08 | 2023-02-02 |
 | [Desire](https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [Running In Waves](https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN) | 1:48 | 2023-01-27 | 2023-02-11 |
 | [Desire to Stay](https://open.spotify.com/track/0YGzssfb4tqQqq9resLwcv) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Desire to Stay](https://open.spotify.com/album/2TwFbmIDc6KDXwdWbIZNfL) | 3:48 | 2025-03-28 | 2025-09-19 |
+| [Destructive Case \(Radio Edit\)](https://open.spotify.com/track/4ODxqMeVCyQHBGH3JjvAdm) | [CASE](https://open.spotify.com/artist/2nqV6ECmWpoJAiySMXL2vt) | [Destructive Case](https://open.spotify.com/album/0s7r3leG4qJKVbi9CaAyky) | 3:38 | 2026-05-29 |  |
 | [Diamond Cut](https://open.spotify.com/track/6iuVUXwvvDCzSSVMrpMQp4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Diamond Cut / Bby](https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k) | 6:10 | 2021-11-24\* | 2022-04-02 |
 | [Different](https://open.spotify.com/track/7x8FCh3aNU7YrYUSTVGHv6) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Different](https://open.spotify.com/album/2Du9S3uLn4IsAK3R7IqEOY) | 3:26 | 2025-03-14 | 2025-09-05 |
 | [Disco Tetris \- Edit](https://open.spotify.com/track/2gVJTQbla9i7bxnKdLiu45) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Disco Tetris \(Edit\)](https://open.spotify.com/album/6qv9cgmk8pQ8Lu6xkAHBg2) | 3:18 | 2025-01-31 | 2025-07-25 |
@@ -830,7 +831,7 @@
 | [Man With a Second Face](https://open.spotify.com/track/2vf8mbUbkwCMnW1jqRcKSO) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Archangel](https://open.spotify.com/album/2EEBcfRDbyyZQDESqiT48d) | 4:41 | 2025-10-02 | 2026-02-21 |
 | [Mandé](https://open.spotify.com/track/3ydhof4E7ANkc33BdTIkLZ) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Dopa La Vita / Mandé](https://open.spotify.com/album/7FESkU8kbkDSGaGhXUjWHu) | 6:03 | 2022-01-14 | 2022-05-20 |
 | [Mango Feedback](https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:51 | 2022-08-12 | 2022-11-25 |
-| [Manticore](https://open.spotify.com/track/3QrcVUaPX6v9eIsz2SyVWV) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Tales from the Power Hour EP](https://open.spotify.com/album/2OdmBZ7ijpR59J7OI7oJa6) | 3:21 | 2026-01-30 |  |
+| [Manticore](https://open.spotify.com/track/3QrcVUaPX6v9eIsz2SyVWV) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Tales from the Power Hour EP](https://open.spotify.com/album/2OdmBZ7ijpR59J7OI7oJa6) | 3:21 | 2026-01-30 | 2026-05-30 |
 | [Mantra](https://open.spotify.com/track/4iJ1K6IHuGKOjkmhzCK6qN) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [The Planets: Neptune](https://open.spotify.com/album/4LTPMgfqWEOJRI0TQXKBKP) | 5:22 | 2023-04-20 | 2023-09-15 |
 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 | 2025-05-22 | 2025-10-17 |
 | [Marabelle](https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [A Mixtape by Anish Kumar](https://open.spotify.com/album/2FKcfRXY5LYv0pALiLRh3g) | 4:12 | 2023-08-24 | 2024-01-13 |

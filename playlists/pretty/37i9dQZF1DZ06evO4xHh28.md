@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 
 > This is My Chemical Romance\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,064 likes - 39 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,111 likes - 39 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Na Na Na \(Na Na Na Na Na Na Na Na Na\) \- Recorded For BBC Radio 1](https://open.spotify.com/track/0HabheX67vkJHbmqB3XDUW) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Na Na Na \(Na Na Na Na Na Na Na Na Na\) \[Recorded For BBC Radio 1\]](https://open.spotify.com/album/7uqRJewbmIdHGhmwU5mxDx) | 3:16 |
 | 2 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 |
 | 3 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 |
-| 4 | [Demolition Lovers](https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 6:06 |
-| 5 | [The World Is Ugly](https://open.spotify.com/track/6VtcgrVYo2xfygcWAfRpd1) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Three](https://open.spotify.com/album/4pE8Bo9MYWMvc8JfYr5v5E) | 4:54 |
+| 4 | [The World Is Ugly](https://open.spotify.com/track/6VtcgrVYo2xfygcWAfRpd1) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Three](https://open.spotify.com/album/4pE8Bo9MYWMvc8JfYr5v5E) | 4:54 |
+| 5 | [Demolition Lovers](https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 6:06 |
 | 6 | [I Don't Love You](https://open.spotify.com/track/4RAOI1etsgbh5NP3T5R8rN) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 3:58 |
 | 7 | [I'm Not Okay \(I Promise\)](https://open.spotify.com/track/7lRlq939cDG4SzWOF4VAnd) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:06 |
 | 8 | [Summertime](https://open.spotify.com/track/7cQjIIjLOhbRVCXyIepF2U) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:06 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 | 38 | [Burn Bright](https://open.spotify.com/track/5HLVrG3xcuAQVwB65hI1GU) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Five](https://open.spotify.com/album/3t9RTitJieMFh6wIFhCicr) | 4:17 |
 | 39 | [Desert Song](https://open.spotify.com/track/1rDJIKiabJGtDtT8y72aTr) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Life on the Murder Scene](https://open.spotify.com/album/6W6pGKjcVJVwbGHy2YRoeO) | 3:50 |
 
-Snapshot ID: `ahY0AAAAAACpMdrx8IJawg8R5UCQxk+/`
+Snapshot ID: `aheFgAAAAADl71EaBG4OKKJp0xitLez8`

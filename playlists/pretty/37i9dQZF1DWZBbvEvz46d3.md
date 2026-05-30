@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,554 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,565 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 36 | [Pocałunki \(M\. Pawlikowska\- Jasnorzewska\)](https://open.spotify.com/track/47SjbGWuDZnVvSFyZEJCxG) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Pocałunki \(M\. Pawlikowska\- Jasnorzewska\)](https://open.spotify.com/album/0n9pO0gJUiLQmkKDhby6k6) | 3:10 |
 | 37 | [Tęskno Mi](https://open.spotify.com/track/4GQ393HmZYv14Ol4N1keYf) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Zakryj \(Deluxe\)](https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T) | 3:35 |
 | 38 | [Trójkąty i Kwadraty](https://open.spotify.com/track/3v0fVON6z5CnRlle3SJZU1) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Comfort and Happiness](https://open.spotify.com/album/3Ku50CLulJHPS5DTKRNyaM) | 4:03 |
-| 39 | [Trudno tak \(razem byc nam ze soba\)](https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15) | [Krzysztof Krawczyk](https://open.spotify.com/artist/1SKeSGQ3LMHYCEgqFGvJbE), [Edyta Bartosiewicz](https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g) | [Duety](https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t) | 4:23 |
+| 39 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
 | 40 | [Motyle](https://open.spotify.com/track/1Eaiv6OMMwO3v4iWl4eHHY) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [Motyle](https://open.spotify.com/album/00FcCZBbHD1FmOfn3FdDHj) | 2:55 |
-| 41 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
+| 41 | [Trudno tak \(razem byc nam ze soba\)](https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15) | [Krzysztof Krawczyk](https://open.spotify.com/artist/1SKeSGQ3LMHYCEgqFGvJbE), [Edyta Bartosiewicz](https://open.spotify.com/artist/1MrKvFb6ie6bTXGpSEYx0g) | [Duety](https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t) | 4:23 |
 | 42 | [Ostatni \(Rojst '97 \| Netflix\)](https://open.spotify.com/track/2Q9d7ioRLIML42xctLcDgq) | [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh), [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY), [Urbanski](https://open.spotify.com/artist/7Myky2n7ro7FEMaf0HyHtE), [Tymoteusz](https://open.spotify.com/artist/6vmzxIxi1A7CfB52BhRVKS) | [Ostatni \(Rojst '97 \| Netflix\)](https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ) | 3:39 |
 | 43 | [Kocham cię jak irlandię](https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz) | [Kobranocka](https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF) | [Póki to nie zabronione \(The Best\)](https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V) | 4:54 |
 | 44 | [Wkręceni nie ufaj mi](https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8) | [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Wkręceni nie ufaj mi](https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU) | 2:58 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 56 | [My](https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 3:26 |
 | 57 | [Smak słów](https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU) | [Goya](https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB) | [Smak Slów](https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez) | 3:59 |
 | 58 | [Każdego Dnia](https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [KONTRAST](https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry) | 3:05 |
-| 59 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
-| 60 | [Znam cie na pamiec](https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Moje piosenki edycja zwykla](https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj) | 3:23 |
+| 59 | [Znam cie na pamiec](https://open.spotify.com/track/4Wa9xLwIOdletdE8tBZKp5) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Moje piosenki edycja zwykla](https://open.spotify.com/album/4Wcm5yNUmX3UTH28KsZUtj) | 3:23 |
+| 60 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
 | 61 | [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 |
 | 62 | [Dwa serca, dwa smutki](https://open.spotify.com/track/0hmuqBnZVaud5KU7lMRJlE) | [Bajm](https://open.spotify.com/artist/1ckVZCWKKoeh5GhtidoU4D) | [Ballady](https://open.spotify.com/album/7odRFyosv4azI3uenvDJq0) | 5:19 |
 | 63 | [Niewiele Ci Mogę Dać](https://open.spotify.com/track/2h37uUs82DHQglGauJkMRD) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/4ZKi2ftayn5Qv9SmXTIGAb) | 3:43 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 72 | [Śpij Kochanie Śpij](https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H) | [Kayah](https://open.spotify.com/artist/2v295z585SM68pluEKXKSM), [Goran Bregović](https://open.spotify.com/artist/491v9k5NTGBGanwqPNSkuS) | [Kayah & Bregovic](https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX) | 4:31 |
 | 73 | [Zamienię cię](https://open.spotify.com/track/38TfzGmItoEUpJs4kVpqq3) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [NATinterpretacje](https://open.spotify.com/album/6PojSY8WZEY6Pbr9eQmrtV) | 3:04 |
 | 74 | [Dobrze, że Cię mam](https://open.spotify.com/track/3zkRnBtA9RYxjkwEdDdfXF) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Mój dom](https://open.spotify.com/album/6j3XzrGQ3yatMc9hqAM5DJ) | 3:32 |
-| 75 | [Tylko mnie kochaj](https://open.spotify.com/track/1LrSloV35nuQQ2FoUA1gIk) | [Goya](https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB) | [Tylko Mnie Kochaj](https://open.spotify.com/album/2oHewePut3hKygGxcCNaLR) | 2:49 |
+| 75 | [Safari](https://open.spotify.com/track/6iWe35n6ufDWMQaNUTDXdN) | [Piotr Zioła](https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB) | [Revolving Door](https://open.spotify.com/album/5AzZFFyTZnxQ8lqNlTOp88) | 3:36 |
 
 Snapshot ID: `AAAAAL3aSXBemzbaRJnvid2h3JTNytFT`

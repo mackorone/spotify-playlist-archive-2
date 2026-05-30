@@ -4,7 +4,7 @@
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-910 songs - 1 day 19 hr 13 min
+912 songs - 1 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [but a whimper](https://open.spotify.com/track/3MTs6KYd3l1wfdEY1x0NZX) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [The Gorge \(Soundtrack from the Apple Original Film\)](https://open.spotify.com/album/6KQhtdfPj8k6czRE2Qyh7u) | 4:11 | 2025-03-07 | 2025-08-09 |
 | [Butterfly \(Main Title Theme\)](https://open.spotify.com/track/0GzYENQAOCMmdAqNiUmvnd) | [Curtis Green](https://open.spotify.com/artist/7BeM8T22ATymjmtyyfoHyV) | [Butterfly \(Prime Video Original Series Soundtrack\)](https://open.spotify.com/album/33wNbXk6xIdqy76Hp9Cwmu) | 1:02 | 2025-08-15 |  |
 | [Butterfly \(Main Title Theme\) \[From The Prime Video Original Series Soundtrack\]](https://open.spotify.com/track/1tx9xnizW0talSLsa0TTt7) | [Curtis Green](https://open.spotify.com/artist/7BeM8T22ATymjmtyyfoHyV) | [Butterfly \(Main Title Theme\) \[From The Prime Video Original Series Soundtrack\]](https://open.spotify.com/album/5DifqPSck7JsTAD78OLkNt) | 1:04 | 2025-08-08 | 2025-08-16 |
+| [C'EST PARTI](https://open.spotify.com/track/5QTtHnAUbF8agWCYXCHM4L) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [MATA \(Bande originale\)](https://open.spotify.com/album/28K3ulAlrdUGYrH2HHshwN) | 1:57 | 2026-05-29 |  |
 | [Cairo, Five Years Ago](https://open.spotify.com/track/2Si6l08jYSNpNw8DygFCVD) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [The Bad Guys 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0OOruSDLvleGc47uqRcbWm) | 2:24 | 2025-08-01 |  |
 | [Call for the Ambassador](https://open.spotify.com/track/6lq2lYeJOgY1sIGQMEaZKz) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR) | [The Diplomat: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6JGHMYF754x0DQQMkOie1k) | 3:45 | 2024-11-06 | 2025-07-12 |
 | [Call Me Back](https://open.spotify.com/track/2CPdBzS58VD8NSLqWjfOKE) | [Chanda Dancy](https://open.spotify.com/artist/4h2JhymTmAhtumDKHG4Jta) | [I Know What You Did Last Summer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NANdbM7vUu0N5eduMmqOy) | 3:54 | 2025-07-18 | 2025-11-29 |
@@ -461,6 +462,7 @@
 | [Minamata Piano Theme](https://open.spotify.com/track/4SuctdNPUY8Cl6NL5dasGN) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Minamata Piano Theme](https://open.spotify.com/album/2uGicSh9qaQyj7oRQsolTi) | 2:50 | 2021-12-20 | 2022-07-09 |
 | [Missile Launch](https://open.spotify.com/track/2s5clj5ey4v257HOAxBIPD) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Creator \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/69GMDH8pkopRkQRwdff0Jp) | 3:01 | 2023-09-29 | 2024-11-21 |
 | [Mission Accomplished](https://open.spotify.com/track/4wOJ9znPdhekIGwHHsdOD4) | [Jasha Klebe](https://open.spotify.com/artist/7owBDVkVmRAeJINp1Ou9N3) | [American Manhunt: Osama bin Laden \(Soundtrack from the Netflix Documentary Series\)](https://open.spotify.com/album/2BQjhsXe7ppP3LBmcL0HvK) | 4:29 | 2025-03-19 | 2025-03-29 |
+| [Mister A](https://open.spotify.com/track/0wd4RkKpLRAP5rWodd7fg1) | [Paul Leonard\-Morgan](https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a) | [Watson: Seasons 1 & 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/7oci1pirgR6VUwjOoAExqA) | 2:05 | 2026-05-29 |  |
 | [Mo Ergaste Forn](https://open.spotify.com/track/6PRHXNZzRrsP5RppsMXTkq) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:31 | 2023-05-05 | 2024-11-21 |
 | [Moments of Melancholy](https://open.spotify.com/track/35ryyVuqtEUVBTnu5dRlAt) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Landscape With Invisible Hand \(Original Motion Picture Score\)](https://open.spotify.com/album/3fWOUH6Q5TaPfI8P1f97xR) | 1:39 | 2023-08-18 | 2025-03-22 |
 | [Monarch Butterfly](https://open.spotify.com/track/0MoNYYWAsCs5DjJrDvql9h) | [Jasha Klebe](https://open.spotify.com/artist/7owBDVkVmRAeJINp1Ou9N3) | [A Year On Planet Earth \(Original Television Soundtrack\)](https://open.spotify.com/album/0LUY6DKJaFhoL0coG7rZ3k) | 5:08 | 2023-07-14 | 2025-01-11 |

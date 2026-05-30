@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Yacht Rock Revue
 
-132 songs - 8 hr 11 min
+133 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Pictures of You](https://open.spotify.com/track/1XXwItGFhOuvQmopWby2dP) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/7kaw62RSTT97qeCUyURCLN) | 3:09 | 2022-10-21 | 2022-11-12 |
 | [Pleasure Line](https://open.spotify.com/track/1euiiwEoryUni184b7gata) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Pleasure Line](https://open.spotify.com/album/03SEDcdGkkkvJag0Ru5uMp) | 3:40 | 2022-10-21 | 2023-03-18 |
 | [Ramen](https://open.spotify.com/track/09hLUiFIdYM6czUci7qEoS) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Jesse Barrera](https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Ramen](https://open.spotify.com/album/0d6tVii8vdCudXWerodNa1) | 2:52 | 2023-12-08 |  |
-| [Rare Changes](https://open.spotify.com/track/1HRlVSpkT9NtMoPg8xohzY) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:08 | 2022-10-21 |  |
+| [Rare Changes](https://open.spotify.com/track/1HRlVSpkT9NtMoPg8xohzY) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Rare Changes](https://open.spotify.com/album/7pue5cbfa0TUgCUth2KFr8) | 3:08 | 2022-10-21 | 2026-05-30 |
 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 | 2025-05-30 |  |
 | [Rolling Back](https://open.spotify.com/track/0UePeoAMCh1Y8lwN5sC122) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Rolling Back](https://open.spotify.com/album/53VP4DNgyffY1BtCs42oEK) | 3:43 | 2022-10-21 | 2023-02-18 |
 | [Sailing](https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Sailing](https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4) | 3:25 | 2023-10-13 |  |
@@ -122,6 +122,7 @@
 | [Tip of the Flame \- 12” Disco Mix](https://open.spotify.com/track/3PF7zlShrw5JwwW3b1E3Jh) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Tip of the Flame \(12” Disco Mix\)](https://open.spotify.com/album/0zasXyPv7yIEJ6mRJoaBEi) | 5:57 | 2023-09-01 | 2025-09-20 |
 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 | 2022-10-21 |  |
 | [Tropical Illusion](https://open.spotify.com/track/0ox6C5vyLLOY7o6tkv04X6) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Tropical Illusion / Passengers](https://open.spotify.com/album/5heyrwO90ALCOD40rQOKAy) | 3:47 | 2024-05-24 | 2024-09-07 |
+| [Unattended](https://open.spotify.com/track/1J39gd1CiMbTiN1atBCICg) | [Walker](https://open.spotify.com/artist/6VWmuRhDSoyqiftAnlNFXz) | [Unattended](https://open.spotify.com/album/5zcSq7xSNmiu7aFZt9BLME) | 3:36 | 2026-05-29 |  |
 | [Upon Arrival](https://open.spotify.com/track/5AqO5MfeOGIgjnjgUaiSOt) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Upon Arrival](https://open.spotify.com/album/0i4qVBoh5czpvFAzezcrFU) | 3:24 | 2025-07-04 |  |
 | [Valencia](https://open.spotify.com/track/0EGWhz27mOGqTyhisGL0cM) | [Emm Gryner](https://open.spotify.com/artist/7MXEntILebAfX9ByW6MObM) | [Valencia](https://open.spotify.com/album/1nSK9uUr9jJxOOQG27XVY4) | 3:57 | 2022-11-11 |  |
 | [Villa](https://open.spotify.com/track/42DzViBjJl5he25R02T5WH) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/63f7oiyBTexDSGuPTd6Egq) | 2:41 | 2022-10-21 | 2022-11-19 |

@@ -8987,6 +8987,24 @@
     },
     {
       "album": {
+        "name": "Elephant In The Room",
+        "url": "https://open.spotify.com/album/55aRlTcoJzesDzpi4qlbua"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167832,
+      "name": "Look What You've Done",
+      "url": "https://open.spotify.com/track/1Umi992NaKD6NoFkUujkNS"
+    },
+    {
+      "album": {
         "name": "Losing",
         "url": "https://open.spotify.com/album/7KoeAFFIVeRL1VDajEgLjI"
       },
@@ -16568,24 +16586,6 @@
       "duration_ms": 142000,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/5y5whWaKrsHfPstxEvSRXo"
-    },
-    {
-      "album": {
-        "name": "Elephant In The Room",
-        "url": "https://open.spotify.com/album/55aRlTcoJzesDzpi4qlbua"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/1Umi992NaKD6NoFkUujkNS"
     },
     {
       "album": {

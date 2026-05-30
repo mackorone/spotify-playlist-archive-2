@@ -4,7 +4,7 @@
 
 > roots run deep with Sam Barber
 
-479 songs - 1 day 4 hr 39 min
+480 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Man of the Year](https://open.spotify.com/track/2xlsLf7aPOZlk1p3dvwpeH) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Man of the Year](https://open.spotify.com/album/58iFqnIfxNpuXu1Por7USP) | 3:48 | 2025-04-18 |  |
 | [Marlboro Man](https://open.spotify.com/track/7g3WvWRM3wTOhbOmM9f6u4) | [Colten Jesse](https://open.spotify.com/artist/2a54v7t8zdzGJxDKHhEGrT) | [Marlboro Man](https://open.spotify.com/album/7LVd1AfhUSn8smErFirp0y) | 3:50 | 2023-02-24 |  |
 | [Maxed Out](https://open.spotify.com/track/3DnsQ5O4uJw3MlYgvBJSCq) | [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Maxed Out](https://open.spotify.com/album/1SX8oq1sameXhpTKtZ3gOt) | 2:52 | 2024-05-24 |  |
+| [McArthur](https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McArthur](https://open.spotify.com/album/7tFDlNV1A2uRLdgArEKYuj) | 3:51 | 2026-05-29 |  |
 | [Me and My Kind](https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Cowboy Like Me](https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj) | 2:36 | 2023-02-24 | 2023-08-21 |
 | [Me More Cowboy Than You \- Demo](https://open.spotify.com/track/2kKUOwItJDGmsTUMJ6eJOc) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [Me More Cowboy Than You \(Demo\)](https://open.spotify.com/album/7yvLzquD1rZQr322tjIGOS) | 2:43 | 2025-01-21 | 2025-09-27 |
 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 | 2023-05-05 | 2026-01-17 |

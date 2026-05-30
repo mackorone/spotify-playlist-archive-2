@@ -7167,6 +7167,28 @@
     },
     {
       "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/3XhdXzqFTyggqsDaeqI3X7"
+      },
+      "artists": [
+        {
+          "name": "elkno",
+          "url": "https://open.spotify.com/artist/7Hk8R7m0IdaLY5Hy70BhIq"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/1RJcWggyL9PTVVZLqOsBzZ"
+    },
+    {
+      "album": {
         "name": "Rompecabezas",
         "url": "https://open.spotify.com/album/5p788bFZwrslgTpb6AUT4M"
       },

@@ -6189,6 +6189,24 @@
     },
     {
       "album": {
+        "name": "Destructive Case",
+        "url": "https://open.spotify.com/album/0s7r3leG4qJKVbi9CaAyky"
+      },
+      "artists": [
+        {
+          "name": "CASE",
+          "url": "https://open.spotify.com/artist/2nqV6ECmWpoJAiySMXL2vt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218898,
+      "name": "Destructive Case (Radio Edit)",
+      "url": "https://open.spotify.com/track/4ODxqMeVCyQHBGH3JjvAdm"
+    },
+    {
+      "album": {
         "name": "Diamond Cut / Bby",
         "url": "https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k"
       },
@@ -16392,7 +16410,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 201428,
       "name": "Manticore",
       "url": "https://open.spotify.com/track/3QrcVUaPX6v9eIsz2SyVWV"

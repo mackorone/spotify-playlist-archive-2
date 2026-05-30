@@ -8859,6 +8859,24 @@
     },
     {
       "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/1Gw2vUSjEihUAU7TbRJ6xd"
+      },
+      "artists": [
+        {
+          "name": "Dyro",
+          "url": "https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176008,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5IVEBBkuAscVnEwfroexOZ"
+    },
+    {
+      "album": {
         "name": "The Moment (Living Like It's Golden)",
         "url": "https://open.spotify.com/album/2Q8Aq4ZZcfoU4dzJbSmdl6"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 69565,
+  "num_followers": 69581,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABi5qiQGzGTd+sDQrceztV0K3OiO",
+  "snapshot_id": "AAAAAJC0hqx31RSqvqDZowf2lMK0RclT",
   "tracks": [
     {
       "added_at": "2026-03-02 07:46:32",
@@ -71,6 +71,34 @@
       "duration_ms": 161680,
       "name": "KD Title Track (From \"KD\")",
       "url": "https://open.spotify.com/track/3mSGFXSGleDhdk6vFGbQxU"
+    },
+    {
+      "added_at": "2026-05-29 15:53:26",
+      "album": {
+        "name": "Neenobbale (From \"Life Today (Kannada)\")",
+        "url": "https://open.spotify.com/album/7dG4KuGhp16KHus6uxYA1L"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Anuradha Bhat",
+          "url": "https://open.spotify.com/artist/7sJSfUsXlD9HT8JxFGXGiY"
+        },
+        {
+          "name": "Sridhar V. Sambhram",
+          "url": "https://open.spotify.com/artist/2LHylORp1iV7rOn9AVdxYa"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "duration_ms": 266590,
+      "name": "Neenobbale (From \"Life Today (Kannada)\")",
+      "url": "https://open.spotify.com/track/4k6yhERNSWuyBiqkCg4kQK"
     },
     {
       "added_at": "2026-05-15 12:33:35",
@@ -1703,30 +1731,6 @@
       "duration_ms": 245756,
       "name": "Higondu Manavi (From \"Maayavi\")",
       "url": "https://open.spotify.com/track/0Tg9xoPReNwwx60pxMrEjp"
-    },
-    {
-      "added_at": "2026-02-23 07:26:39",
-      "album": {
-        "name": "Hero (From \"Alpha # Men Love Vengeance\")",
-        "url": "https://open.spotify.com/album/4E4BlUEN7vPRINmHwdKQDX"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Krishnan",
-          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
-        },
-        {
-          "name": "J. Anoop Seelin",
-          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
-        },
-        {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Hero (From \"Alpha # Men Love Vengeance\")",
-      "url": "https://open.spotify.com/track/1dPlV7qbTTn8DI0qwV1Fgj"
     },
     {
       "added_at": "2026-01-28 14:37:12",

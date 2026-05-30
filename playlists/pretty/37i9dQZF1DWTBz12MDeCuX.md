@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: kid kapri, yung pepp
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,080 likes - 98 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,066 likes - 98 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 13 | [Hey There Delilah](https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [All That We Needed](https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY) | 3:52 |
 | 14 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
 | 15 | [fallen](https://open.spotify.com/track/3Ur9FR9JXetzzgUKooM3Kp) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [fallen](https://open.spotify.com/album/3Q2KdTgfwUkho1YUXkGx9l) | 2:54 |
-| 16 | [Track 1](https://open.spotify.com/track/0Moio5plYolRIS6HpmqjRD) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [letzter tag](https://open.spotify.com/album/0dBtMBFhRjnBValwhWS8dA) | 0:00 |
+| 16 | [letzter tag](https://open.spotify.com/track/0Moio5plYolRIS6HpmqjRD) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN), [BLISSFOOL](https://open.spotify.com/artist/2dH5TMksK8IRWkewaweRIm) | [letzter tag](https://open.spotify.com/album/0dBtMBFhRjnBValwhWS8dA) | 2:12 |
 | 17 | [Die Falschen geküsst](https://open.spotify.com/track/0qnFwCW5AxQaEJXfACBTD8) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Die Falschen geküsst](https://open.spotify.com/album/12b2GxR5a1c75iUuOtB0aY) | 2:38 |
 | 18 | [escitalopram](https://open.spotify.com/track/7006TIAyPcL1hLJlPmlYlR) | [absent](https://open.spotify.com/artist/5jdx9iK9rdclHYrd80tPna) | [escitalopram](https://open.spotify.com/album/6e9AMwJOvX1VWXwInm8FT2) | 2:15 |
 | 19 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-19",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZCsyhLFyG4d>Kendrick Lamar</a>, <a href=spotify:playlist:37i9dQZF1EIYf6cItAYzfX>The Weeknd</a>, <a href=spotify:playlist:37i9dQZF1EIX3vr6UVonYQ>Sabrina Carpenter</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYJUf4DGOAx2>Zara Larsson</a>, <a href=spotify:playlist:37i9dQZF1EIYf6cItAYzfX>The Weeknd</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-18",
+      "date_removed": null,
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 232186,
       "name": "All The Stars (with SZA) - From \"Black Panther: The Album\"",
       "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
@@ -360,7 +360,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 231013,
       "name": "Animals",
       "url": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 221820,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 193400,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U"
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 159400,
       "name": "exes",
       "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
@@ -2652,7 +2652,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 169214,
       "name": "House Tour",
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 149666,
       "name": "Illegal",
       "url": "https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG"
@@ -3120,7 +3120,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
@@ -3272,7 +3272,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 203807,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
@@ -4268,7 +4268,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 235355,
       "name": "Opalite",
       "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
@@ -4286,7 +4286,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -4420,7 +4420,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 231173,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A"
@@ -5222,7 +5222,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 200786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
@@ -5258,7 +5258,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 165045,
       "name": "Sports car",
       "url": "https://open.spotify.com/track/5UJbgR4XF4y1DvbkxEqe8S"
@@ -5584,7 +5584,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -5728,7 +5728,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -5912,6 +5912,28 @@
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+    },
+    {
+      "album": {
+        "name": "Hurry Up Tomorrow",
+        "url": "https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Timeless (feat Playboi Carti)",
+      "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
     },
     {
       "album": {
@@ -6140,7 +6162,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
@@ -6248,7 +6270,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
@@ -6340,7 +6362,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 205680,
       "name": "What Do You Mean?",
       "url": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
@@ -6484,7 +6506,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

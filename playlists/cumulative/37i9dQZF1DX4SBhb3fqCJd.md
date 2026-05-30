@@ -2,9 +2,9 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: 6LACK
+> Where R&B lives\. Cover: kwn
 
-823 songs - 1 day 21 hr 53 min
+824 songs - 1 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/track/5VRVc5Cq5MbKJG5llJ8XvH) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Careful \(From The Original Motion Picture "Magic Mike's Last Dance"\)](https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge) | 3:12 | 2023-02-10 | 2023-03-11 |
 | [Cartier](https://open.spotify.com/track/1A07u1T45HV84tT33UpVSB) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection Too](https://open.spotify.com/album/27jeucZeZB1BDcFtIbNY5b) | 3:16 | 2022-07-01 | 2022-09-17 |
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-05-24 | 2024-08-03 |
-| [Cha Cha Cha](https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:56 | 2026-02-27 |  |
+| [Cha Cha Cha](https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:56 | 2026-02-27 | 2026-05-30 |
 | [Change](https://open.spotify.com/track/1cCbhd6fguIfloDXiPdxH8) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3d8fLEZMdkLiqAKJAAktsu) | 3:12 | 2023-07-07 | 2023-09-16 |
 | [Changes](https://open.spotify.com/track/3noiPAHonb3coH4jSVM09i) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Changes](https://open.spotify.com/album/1DpF83ld572jojmymv9J8P) | 2:33 | 2022-10-21 | 2023-02-25 |
 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 | 2024-04-12 | 2024-06-01 |
@@ -680,6 +680,7 @@
 | [Stop \(Askin' Me 4Shyt\)](https://open.spotify.com/track/3ZrfIcsDKTBZzCwlE59yiS) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:51 | 2023-08-25 | 2023-09-02 |
 | [Stories In Motion \(with Wale\)](https://open.spotify.com/track/6gvhqnL1MUehL9g5mp1A0I) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:26 | 2023-03-24 | 2023-08-12 |
 | [STRANGERS](https://open.spotify.com/track/7jF5V0KISfBLyVO5eF4D1w) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:33 | 2025-07-18 | 2025-11-15 |
+| [stuck](https://open.spotify.com/track/1nEzZ4l1LYmmaDNgWNzVCG) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [stuck](https://open.spotify.com/album/2WQhpOLkmPLPgrcBYjWmRK) | 2:41 | 2026-05-29 |  |
 | [Such A Thing](https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 3:25 | 2022-07-09 | 2023-02-11 |
 | [Sucia \(feat\. Jill Scott & Young Miko\)](https://open.spotify.com/track/6DaOjQgLWflvPeEbL0incg) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 4:22 | 2024-06-21 | 2024-07-13 |
 | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 | 2025-07-25 | 2025-10-05 |

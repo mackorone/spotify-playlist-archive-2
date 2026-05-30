@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,239,160 likes - 100 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,239,303 likes - 100 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 24 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 |
 | 25 | [Flex It](https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [y3kfae](https://open.spotify.com/artist/1JJj74IKp1MHqtxuVz3ZXP) | [Flex It](https://open.spotify.com/album/4WjCHpeBmDFJOYl3dVP81O) | 2:56 |
 | 26 | [CLIMA LINDO \- SLOWED](https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp) | [GXMZ](https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02), [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko) | [CLIMA LINDO](https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH) | 1:21 |
-| 27 | [NO ERA AMOR \- Slowed](https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9) | [DJ Asul](https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe) | [NO ERA AMOR](https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU) | 1:33 |
-| 28 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 |
+| 27 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 |
+| 28 | [NO ERA AMOR \- Slowed](https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9) | [DJ Asul](https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe) | [NO ERA AMOR](https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU) | 1:33 |
 | 29 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 |
 | 30 | [SAY SOMETHING](https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj) | [Klo](https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq) | [SAY SOMETHING](https://open.spotify.com/album/5GpGiO6KJyRuk73MEqsPdr) | 2:51 |
 | 31 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 84 | [Where You Are \- GRiZ Remix](https://open.spotify.com/track/47kEJq44ZBrRBD4gvdCu0v) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Where You Are \(GRiZ Remix\)](https://open.spotify.com/album/6kULCT45GzgLQp2DbCA0oS) | 4:00 |
 | 85 | [Reset \(feat\. Killa P\)](https://open.spotify.com/track/6QtSmbIT7WsGgrqdNrZktD) | [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [Wall\-To\-Wall](https://open.spotify.com/album/0B9Olm8ITkG2zl7vMyI1ga) | 2:51 |
 | 86 | [i like the way you kiss me \- southstar remix](https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 2:17 |
-| 87 | [3am \- Nic Vans Remix](https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [Nic Vans](https://open.spotify.com/artist/43mZ0wYdhCElOXuMV71SG4) | [3am \- Nic Vans Remix](https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol) | 2:44 |
-| 88 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 |
+| 87 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 |
+| 88 | [3am \- Nic Vans Remix](https://open.spotify.com/track/0GBxBb2d4BlTiwbaQuQARv) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [Nic Vans](https://open.spotify.com/artist/43mZ0wYdhCElOXuMV71SG4) | [3am \- Nic Vans Remix](https://open.spotify.com/album/3bY6WFZNCsRQGunbuoiDol) | 2:44 |
 | 89 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 |
 | 90 | [cantcatchme](https://open.spotify.com/track/71XdxnvFc773OCQaJynqmf) | [uramaki.](https://open.spotify.com/artist/3AMDhBn0zTUgeY5o7Wplxh) | [club maki](https://open.spotify.com/album/0TL0aAXpuy64QIJKMv4bhb) | 5:04 |
 | 91 | [ONE FOR YOU](https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [ONE FOR YOU](https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd) | 2:32 |

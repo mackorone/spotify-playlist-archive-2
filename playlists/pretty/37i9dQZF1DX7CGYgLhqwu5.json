@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 386506,
+  "num_followers": 386514,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Super Hits Collection - 32 Songs - Swinging Doors",
-        "url": "https://open.spotify.com/album/7inmfUQJ4jioW0GSVxpgpe"
+        "name": "The Greatest: The Number Ones",
+        "url": "https://open.spotify.com/album/3uQReDOmST2pucGDXd8AvO"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 172920,
-      "name": "Swinging Doors",
-      "url": "https://open.spotify.com/track/6Ja76N5EcdHrZCGfsWNeGo"
+      "duration_ms": 225266,
+      "name": "A Boy Named Sue - Live Version",
+      "url": "https://open.spotify.com/track/6bMvOAtKZ55b00lrGQZPfA"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
+        "name": "Super Hits Collection - 32 Songs - Swinging Doors",
+        "url": "https://open.spotify.com/album/7inmfUQJ4jioW0GSVxpgpe"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Swinging Doors",
+      "url": "https://open.spotify.com/track/6Ja76N5EcdHrZCGfsWNeGo"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
         "name": "20 All Time Greatest Hits",
         "url": "https://open.spotify.com/album/48aF0MyVsxQgWYBF9SUR4k"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 203733,
       "name": "Phantom 309",
       "url": "https://open.spotify.com/track/3fNQkYKo7VHZBk8GWyqGAq"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
-        "name": "Honey - The Best of Bobby Goldsboro",
-        "url": "https://open.spotify.com/album/16QapBbCMXHEekBXfUCiKp"
-      },
-      "artists": [
-        {
-          "name": "Bobby Goldsboro",
-          "url": "https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "Honey - 1991 - Remaster",
-      "url": "https://open.spotify.com/track/3ZnlYvqCnjJ7OeZhVKkWPg"
     }
   ],
   "unique_name": "60s Country",

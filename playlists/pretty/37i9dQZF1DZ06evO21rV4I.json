@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 172896,
+  "num_followers": 172936,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAADurkiJBCR0ilxBOjwWpwCY",
+  "snapshot_id": "aheFgAAAAAAhnvl1nxYiMcPQa7wEliJq",
   "tracks": [
     {
       "added_at": null,
@@ -611,34 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
-        "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 213599,
-      "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
-      "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Love, Less Ego",
         "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
       },
@@ -675,6 +647,34 @@
       "duration_ms": 209735,
       "name": "Mood (feat. BNXN)",
       "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
+        "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 213599,
+      "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
+      "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 201520,
+      "name": "Break Me Down",
+      "url": "https://open.spotify.com/track/0EI0H7VQ7SNk7cwpuxG1DC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Refuse to Be Broke: Da Revolution 2",
         "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 261545,
       "name": "Slow Down (feat. Wiz Kid)",
       "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 201520,
-      "name": "Break Me Down",
-      "url": "https://open.spotify.com/track/0EI0H7VQ7SNk7cwpuxG1DC"
     },
     {
       "added_at": null,
@@ -991,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legend Or No Legend",
-        "url": "https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 209970,
-      "name": "Ebelebe (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KANA",
         "url": "https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 174053,
       "name": "Kese (Dance)",
       "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legend Or No Legend",
+        "url": "https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 209970,
+      "name": "Ebelebe (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg"
     }
   ],
   "unique_name": "This Is Wizkid",

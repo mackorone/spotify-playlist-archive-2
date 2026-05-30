@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,131 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,144 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 7 | [Something To Talk About](https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 3:47 |
 | 8 | [Feels Like Rain \(feat\. Bonnie Raitt\)](https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 4:35 |
 | 9 | [Dimming Of The Day](https://open.spotify.com/track/3g3ngs81nNMZn6kW1BA8Hs) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Longing In Their Hearts](https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI) | 3:39 |
-| 10 | [Call It Home](https://open.spotify.com/track/4EN9iaFnuzHQRDZwNt8fpM) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Call It Home, Vol\. 1](https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0) | 4:08 |
-| 11 | [Do I Ever Cross Your Mind](https://open.spotify.com/track/0Ujhv3IvhIKshwbq6Ws0Ub) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Genius Loves Company](https://open.spotify.com/album/1q7GZdqLKlHHwJ6vEISxKE) | 4:34 |
+| 10 | [Do I Ever Cross Your Mind](https://open.spotify.com/track/0Ujhv3IvhIKshwbq6Ws0Ub) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Genius Loves Company](https://open.spotify.com/album/1q7GZdqLKlHHwJ6vEISxKE) | 4:34 |
+| 11 | [Call It Home](https://open.spotify.com/track/4EN9iaFnuzHQRDZwNt8fpM) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Call It Home, Vol\. 1](https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0) | 4:08 |
 | 12 | [Love Has No Pride \- 2008 Remaster](https://open.spotify.com/track/5IaEafAl7QJbxu9DG1usyb) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:48 |
 | 13 | [Baby I Love You](https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 4:01 |
 | 14 | [I’m In The Mood \- feat\. Bonnie Raitt](https://open.spotify.com/track/5ZMRMaydpaWtuxlNFx9D6n) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 4:31 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 40 | [You](https://open.spotify.com/track/0gvmmdReQ6mZ9fVFiRaLOZ) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Longing In Their Hearts](https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI) | 4:27 |
 | 41 | [I Will Not Be Broken](https://open.spotify.com/track/7dS8Pt5M2lsBJuPhTMvRuq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Souls Alike](https://open.spotify.com/album/3iK0XCTRh5zfLjfrmO3agU) | 3:38 |
 | 42 | [Right Down The Line](https://open.spotify.com/track/1ciDeTaBbYEP3aBj2Eu5X4) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 5:27 |
-| 43 | [Papa Come Quick \(Jody And Chico\)](https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 2:43 |
-| 44 | [I Don't Want Anything To Change \- Live](https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Bonnie Raitt And Friends](https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A) | 5:00 |
+| 43 | [I Don't Want Anything To Change \- Live](https://open.spotify.com/track/5LoxEEVJZexmsipbWNxSZs) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Bonnie Raitt And Friends](https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A) | 5:00 |
+| 44 | [Papa Come Quick \(Jody And Chico\)](https://open.spotify.com/track/476zDaOOTeo5dSjZyxiAq4) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 2:43 |
 | 45 | [Any Day Woman \- 2008 Remaster](https://open.spotify.com/track/6hH5c3iQ0z1RjyOuz4D0c2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:23 |
 | 46 | [Kisses Sweeter than Wine](https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Where Have All The Flowers Gone: The Songs Of Pete Seeger](https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF) | 4:43 |
 | 47 | [Not Cause I Wanted To](https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Slipstream](https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T) | 3:32 |
-| 48 | [Nobody's Girl](https://open.spotify.com/track/3N3Pa8T8epLgjMplqbetq8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:14 |
-| 49 | [Blame it On Me](https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:47 |
+| 48 | [Blame it On Me](https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:47 |
+| 49 | [Nobody's Girl](https://open.spotify.com/track/3N3Pa8T8epLgjMplqbetq8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:14 |
 | 50 | [Your Sweet and Shiny Eyes \- 2008 Remaster](https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Home Plate \(2008 Remaster\)](https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX) | 2:47 |
 
-Snapshot ID: `ahY0AAAAAABg6r/rZvrmGpnLOR59Frm+`
+Snapshot ID: `aheFgAAAAACscWA5k/70c5VQMDDtPFRU`

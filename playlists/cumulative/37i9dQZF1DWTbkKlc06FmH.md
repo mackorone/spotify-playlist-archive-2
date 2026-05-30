@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,241 songs - 3 day 1 hr 8 min
+1,242 songs - 3 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Back in Love](https://open.spotify.com/track/3eFBPuf0y3Vguk6GUCNpwP) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Back in Love](https://open.spotify.com/album/1EIVSAkmhcp3XXsX0BkEce) | 3:14 | 2026-04-01 |  |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-08-24 |  |
 | [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-07-27 | 2023-08-14 |
-| [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 | 2024-02-22 |  |
+| [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 | 2024-02-22 | 2026-05-30 |
 | [Back To Life](https://open.spotify.com/track/3HqPsN2UyQAn4QxMJKbs1w) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Back To Life](https://open.spotify.com/album/7aJdFN1wN5WTF9kP0tJQVz) | 4:13 | 2023-06-29 | 2023-07-12 |
 | [Back To You](https://open.spotify.com/track/7JOQU9emKpGgvcpKbOsvuy) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [Back To You](https://open.spotify.com/album/5XnRUJSX2KwP5ijkterivr) | 3:28 | 2022-10-20 | 2022-12-21 |
 | [BAD HABITS](https://open.spotify.com/track/1pWQZlxAeBQsuO0p0Wcbw5) | [Kaikun](https://open.spotify.com/artist/2yXYV0qNsatMoSA2B5uKSj), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [BAD HABITS](https://open.spotify.com/album/7wb5LAXURvCCmsgE09pKgb) | 1:26 | 2025-05-27 | 2025-06-11 |
@@ -428,6 +428,7 @@
 | [Hold Me Tight](https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X) | 3:08 | 2025-09-12 | 2025-11-13 |
 | [Hold on](https://open.spotify.com/track/1YknjFiCnMnJVz12GdXqN7) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgiam](https://open.spotify.com/artist/5zMxT7ShYw4l8WpA9hmxq5) | [Wonderland](https://open.spotify.com/album/0WSFViphXCkNPkHwSiTuO3) | 3:14 | 2023-02-28 | 2023-05-17 |
 | [Hold On \- ft\. HMLT](https://open.spotify.com/track/0l2pN9znFhv8I6GWMXVOjB) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [HMLT](https://open.spotify.com/artist/0fBHUKzEq03UdHV8nc0KOy) | [Hold On](https://open.spotify.com/album/5bDhZcXD4BS3YGJ5nu4jfe) | 3:10 | 2024-05-14 | 2024-06-05 |
+| [Holy Grail](https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Holy Grail](https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD) | 3:34 | 2026-05-25 |  |
 | [Holy Hell](https://open.spotify.com/track/5y6BaL3VQ2hQt5sMN1Qmzj) | [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Holy Hell](https://open.spotify.com/album/1Fq57wNgriijiYFTTCwU6c) | 3:12 | 2022-10-20 | 2022-11-05 |
 | [Home](https://open.spotify.com/track/6NT8Sa3jev1C3Xm33VDcJF) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp), [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Home](https://open.spotify.com/album/7vulueHhGo64AVnt88kcxd) | 2:53 | 2025-12-03 | 2025-12-10 |
 | [Honesty](https://open.spotify.com/track/1ab5fflidfhTti4z11mtZF) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm) | 2:16 | 2024-09-25 | 2024-11-28 |

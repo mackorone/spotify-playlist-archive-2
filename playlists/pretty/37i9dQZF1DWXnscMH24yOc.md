@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,663 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,696 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 49 | [Let Me Love You](https://open.spotify.com/track/64c5q8c5j09YueRimGw4l2) | [The Luck](https://open.spotify.com/artist/1ZiLKiDuHyrckm1ubrrYtK) | [Let Me Love You](https://open.spotify.com/album/6sgv89amcLYzxSUoxjaLls) | 3:04 |
 | 50 | [White Flag](https://open.spotify.com/track/5YQdjvqe9fCrrkbU6BPtjQ) | [Ryan Corn](https://open.spotify.com/artist/6HOBJhMPSZxZEsfTcSPD0m) | [White Flag](https://open.spotify.com/album/4RgtpOkCDxykmCR9KyLCjG) | 3:31 |
 | 51 | [dreams](https://open.spotify.com/track/3hTEGA9oAXuXvnYhulpqFF) | [Anna Mae](https://open.spotify.com/artist/1LqshAgbw4iC1QlZSSR4qv) | [dreams](https://open.spotify.com/album/1mbS76gbfAHpmzKPjYV8AO) | 4:17 |
-| 52 | [Fade into You](https://open.spotify.com/track/5xkEkPxG9GkoxxcacT2cXW) | [Sara Rachele](https://open.spotify.com/artist/2OkyMqAoaxpBa9QUrJdlOL) | [Listen, Judas / Fade into You](https://open.spotify.com/album/59X6lUes7LbwYH4HbbD9jq) | 5:48 |
-| 53 | [Friday I'm in Love](https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX) | [Oselie](https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ) | [Friday I'm in Love](https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA) | 2:53 |
+| 52 | [Friday I'm in Love](https://open.spotify.com/track/0Mmwl88NJOfr7hSqNWXuwX) | [Oselie](https://open.spotify.com/artist/2WFpP5JesWt9H0zqKesrCJ) | [Friday I'm in Love](https://open.spotify.com/album/3SslCuIYB5WJZnBKYrMmEA) | 2:53 |
+| 53 | [Fade into You](https://open.spotify.com/track/5xkEkPxG9GkoxxcacT2cXW) | [Sara Rachele](https://open.spotify.com/artist/2OkyMqAoaxpBa9QUrJdlOL) | [Listen, Judas / Fade into You](https://open.spotify.com/album/59X6lUes7LbwYH4HbbD9jq) | 5:48 |
 | 54 | [Final Song](https://open.spotify.com/track/1VXJxus09S5VAcQ0VcaKjj) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a), [Jesse Justin](https://open.spotify.com/artist/05DZnoWzNBtiUH1Lttznjm) | [Final Song](https://open.spotify.com/album/0oWhABKDsYiQc9wiHEEoHk) | 2:21 |
 | 55 | [Dancing on My Own](https://open.spotify.com/track/7bqirkzoUJHi16RBEcQiv9) | [Jake McMullen](https://open.spotify.com/artist/0kBHkziT1rQpUBWW08p2dN) | [Dancing on My Own](https://open.spotify.com/album/2CKLz5tHDhnWLYuCgEztHY) | 5:07 |
 | 56 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 78 | [The Tourist](https://open.spotify.com/track/03WFAhoOVLmynaOBtZcyl7) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Follow Me Down](https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP) | 4:52 |
 | 79 | [Last Kiss](https://open.spotify.com/track/27H7ftAZmkbROLZuqHZ4QD) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Trauma \- Chansons de la série télé \(Saison No\. 5\)](https://open.spotify.com/album/21sYyp0tQfjcIwiu0ULknn) | 3:38 |
 | 80 | [Savior Complex](https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Savior Complex](https://open.spotify.com/album/2GRYhyTbRxrjwzJOcCfJUI) | 3:52 |
-| 81 | [Love Is A Stranger](https://open.spotify.com/track/6gf2j6a8uN53XCBcHyxQYZ) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Love Is A Stranger](https://open.spotify.com/album/5490tAio4QI2d3X9lkrXiy) | 3:38 |
-| 82 | [Everybody Here Wants You](https://open.spotify.com/track/6Ae3iEZalzep9aDRbGGMHK) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt) | [Everybody Here Wants You](https://open.spotify.com/album/0Fp9ynUHdMWvqhUm8PCdje) | 4:17 |
+| 81 | [Everybody Here Wants You](https://open.spotify.com/track/6Ae3iEZalzep9aDRbGGMHK) | [HAERTS](https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt) | [Everybody Here Wants You](https://open.spotify.com/album/0Fp9ynUHdMWvqhUm8PCdje) | 4:17 |
+| 82 | [Love Is A Stranger](https://open.spotify.com/track/6gf2j6a8uN53XCBcHyxQYZ) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Love Is A Stranger](https://open.spotify.com/album/5490tAio4QI2d3X9lkrXiy) | 3:38 |
 | 83 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 |
 | 84 | [All Too Well](https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [All Too Well](https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3) | 5:15 |
 | 85 | [High by the Beach](https://open.spotify.com/track/7tY1VsxEz6OGN3FkUMN2MU) | [Modern Space](https://open.spotify.com/artist/6gINjiQZIN2b9G2i6zj13e) | [High By The Beach.](https://open.spotify.com/album/7lRFVGUeOMASGpwQe7sZCk) | 3:37 |

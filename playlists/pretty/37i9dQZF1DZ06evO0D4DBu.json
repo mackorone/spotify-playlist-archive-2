@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 211172,
+  "num_followers": 211161,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAAAv1jn/xSeq+9rQ9/o394VX",
+  "snapshot_id": "aheFgAAAAACxb2nOn+Aqa2J6c2F9q3Fh",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Acid Rap",
+        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Lili K",
+          "url": "https://open.spotify.com/artist/7AguDSkWdr8NzTOvpTID4W"
+        }
+      ],
+      "duration_ms": 239250,
+      "name": "Good Ass Intro",
+      "url": "https://open.spotify.com/track/7hcv7bhiStn7kMgERTEORQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CATCH",
         "url": "https://open.spotify.com/album/50EKsOTP0hqXaVoITqhgsi"
       },
@@ -631,30 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acid Rap",
-        "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Lili K",
-          "url": "https://open.spotify.com/artist/7AguDSkWdr8NzTOvpTID4W"
-        }
-      ],
-      "duration_ms": 239250,
-      "name": "Good Ass Intro",
-      "url": "https://open.spotify.com/track/7hcv7bhiStn7kMgERTEORQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
       },
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stars Out",
+        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 107462,
+      "name": "Stars Out",
+      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 172309,
       "name": "Drapetomania (feat. BabyChiefDoit)",
       "url": "https://open.spotify.com/track/7lx69Bf8P4NeKhmZKbtNC0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stars Out",
-        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 107462,
-      "name": "Stars Out",
-      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Do Or Die",
-          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
-        }
-      ],
-      "duration_ms": 179368,
-      "name": "Ride (feat. Do or Die)",
-      "url": "https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Getting Started",
         "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 199431,
       "name": "Still Get Chanel (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/3CwLcNeac7m8ideW4m7AC6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Do Or Die",
+          "url": "https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB"
+        }
+      ],
+      "duration_ms": 179368,
+      "name": "Ride (feat. Do or Die)",
+      "url": "https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "3333",
+        "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 153648,
+      "name": "3333",
+      "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 293050,
       "name": "No More Old Men (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3333",
-        "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 153648,
-      "name": "3333",
-      "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
     },
     {
       "added_at": null,
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 284855,
+      "name": "Best Life (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/00B7TZ0Xawar6NZ00JFomN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -943,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 284855,
-      "name": "Best Life (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/00B7TZ0Xawar6NZ00JFomN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "iiiDrops",
         "url": "https://open.spotify.com/album/6McWou8VeXcVNGQVOiqhZd"
       },
@@ -979,6 +979,26 @@
       "duration_ms": 212950,
       "name": "Girls @ (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/5p7sELomeqtq9ypH3VeVH1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
       "added_at": null,
@@ -1023,26 +1043,6 @@
       "duration_ms": 223746,
       "name": "Star Side Intro",
       "url": "https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 50813,
+  "num_followers": 50809,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAAA5nh3JO4vrXpnM7nKCjiYA",
+  "snapshot_id": "aheFgAAAAACGj7GT1oJ6NWuaEeaM4/S/",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 150605,
+      "name": "Mi Bello \u00c1ngel",
+      "url": "https://open.spotify.com/track/31FzCxz4Iys6DXWgWPIw18"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 198582,
       "name": "C\u00f3mo Los Vaqueros",
       "url": "https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ten\u00eda Que Ser As\u00ed",
-        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 150605,
-      "name": "Mi Bello \u00c1ngel",
-      "url": "https://open.spotify.com/track/31FzCxz4Iys6DXWgWPIw18"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un D\u00eda a La Vez (En Vivo)",
+        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 195957,
+      "name": "Nunca Valiste Tanto (En Vivo)",
+      "url": "https://open.spotify.com/track/58zCeobzx6kDpn6iebGK1z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "30 Aniversario De Don Miguel Angulo (Vol. 1)",
         "url": "https://open.spotify.com/album/3iEu46MqpFlCcSBGO410nu"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 234160,
       "name": "A Toda Prueba",
       "url": "https://open.spotify.com/track/0eQA3v4oNIfTxP5B8sNXQX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Un D\u00eda a La Vez (En Vivo)",
-        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 195957,
-      "name": "Nunca Valiste Tanto (En Vivo)",
-      "url": "https://open.spotify.com/track/58zCeobzx6kDpn6iebGK1z"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Elegido",
-        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 208443,
-      "name": "Como los Vaqueros",
-      "url": "https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 191692,
       "name": "Ten\u00eda Que Ser As\u00ed",
       "url": "https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Elegido",
+        "url": "https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 208443,
+      "name": "Como los Vaqueros",
+      "url": "https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi"
     },
     {
       "added_at": null,

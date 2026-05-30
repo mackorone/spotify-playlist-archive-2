@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,114,889 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,115,087 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 11 | [Turn The Page](https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 6:06 |
 | 12 | [Seek & Destroy \- Remastered](https://open.spotify.com/track/28WmNsclKsrVmdv3tDmoYU) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 6:54 |
 | 13 | [Wherever I May Roam \- Remastered 2021](https://open.spotify.com/track/3quYoE7KgIIaqVXPd7MpX0) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered 2021\)](https://open.spotify.com/album/3dck2tBxGfxj9m3CguDgjb) | 6:44 |
-| 14 | [The Day That Never Comes](https://open.spotify.com/track/13Uvqll8OQDjw3wDweIK9y) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:56 |
-| 15 | [Fade To Black \- Remastered](https://open.spotify.com/track/7866E49sLyI938dEqxi8a4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 6:57 |
+| 14 | [Fade To Black \- Remastered](https://open.spotify.com/track/7866E49sLyI938dEqxi8a4) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 6:57 |
+| 15 | [The Day That Never Comes](https://open.spotify.com/track/13Uvqll8OQDjw3wDweIK9y) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:56 |
 | 16 | [Until It Sleeps \- Remastered](https://open.spotify.com/track/1L8c08ueO8ag3vBQFXwbjc) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV) | 4:29 |
 | 17 | [Battery](https://open.spotify.com/track/6UB9mShVLbMm0W4e6vud4C) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 5:12 |
-| 18 | [The Memory Remains](https://open.spotify.com/track/6RbC38oDCIXD8V2AOU1Tjr) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB), [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 4:39 |
-| 19 | [Creeping Death \- Remastered](https://open.spotify.com/track/4CLRLdxUDPNeO1xCW0U2zC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 6:35 |
+| 18 | [Creeping Death \- Remastered](https://open.spotify.com/track/4CLRLdxUDPNeO1xCW0U2zC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 6:35 |
+| 19 | [The Memory Remains](https://open.spotify.com/track/6RbC38oDCIXD8V2AOU1Tjr) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB), [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Reload](https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa) | 4:39 |
 | 20 | [Blackened](https://open.spotify.com/track/1odk70HBNbdk4wU0Ja9JR7) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | […And Justice for All \(Remastered\)](https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1) | 6:42 |
 | 21 | [Welcome Home \(Sanitarium\)](https://open.spotify.com/track/4TktvZTsMoFukiim1otMtr) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 6:27 |
 | 22 | [Whiplash \- Remastered](https://open.spotify.com/track/38fIaph07Kd8ZIN6l17ZJs) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 49 | [The Shortest Straw](https://open.spotify.com/track/4hvo7eCLfhs7dFr0mpk3zi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | […And Justice for All \(Remastered\)](https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1) | 6:35 |
 | 50 | [Leper Messiah](https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 5:39 |
 
-Snapshot ID: `ahY0AAAAAAAYVYTg4cXdYMUJpCgQgS52`
+Snapshot ID: `aheFgAAAAAB5jClj8Me6JWAaeQ/6UUKP`

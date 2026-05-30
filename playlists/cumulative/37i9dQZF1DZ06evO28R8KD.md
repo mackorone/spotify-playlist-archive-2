@@ -4,13 +4,14 @@
 
 > This is Emily A\. Sprague\. The essential tracks, all in one playlist.
 
-30 songs - 3 hr 16 min
+31 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Lake](https://open.spotify.com/track/3GgSZWI0IFZeOGLTMPPYEp) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 13:25 | 2026-03-27 |  |
 | [Dock](https://open.spotify.com/track/3EQdsc6j5U3jV2iQ0CITNW) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 3:15 | 2026-03-27 |  |
-| [Double Moon](https://open.spotify.com/track/1XVWwG1CS3wV89rVEualNq) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Double Moon](https://open.spotify.com/album/4HQF4jl7OnwYBUslOWJPbA) | 2:23 | 2026-04-24 |  |
+| [Double Moon](https://open.spotify.com/track/1XVWwG1CS3wV89rVEualNq) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Double Moon](https://open.spotify.com/album/4HQF4jl7OnwYBUslOWJPbA) | 2:23 | 2026-04-24 | 2026-05-30 |
+| [Double Moon \- Andras Dub](https://open.spotify.com/track/7MNceUCyw4hAhm4kDLVHUI) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9), [Andras](https://open.spotify.com/artist/6C3Q1d8QOpgYuRdsTmSoVm) | [Double Moon](https://open.spotify.com/album/1O14V9TO5JBO75p8f5rePh) | 3:39 | 2026-05-30 |  |
 | [Each Story](https://open.spotify.com/track/2lsGq0qsufQcmIM30Xfy2J) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 7:15 | 2026-03-27 |  |
 | [Flew](https://open.spotify.com/track/12wrErlyRy9mocGIy3vgMJ) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Touchtheplants Presents: Breathing Instruments](https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe) | 3:46 | 2026-03-27 |  |
 | [Friend Forest](https://open.spotify.com/track/7yTiL61OsCjCkHDA6MrDO6) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Friend Forest](https://open.spotify.com/album/1rwhU2oYPJ5lR7dewhMkHj) | 4:12 | 2026-03-27 |  |

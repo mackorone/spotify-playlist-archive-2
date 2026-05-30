@@ -1,12 +1,12 @@
 {
   "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Sienna Spiro",
-  "num_followers": 500094,
+  "num_followers": 500134,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA7pLhowdeAO2E6pM6LBvfV8BBrR",
+  "snapshot_id": "AAAAANSyoxHW4w4OzCGKgN7etzy4/l4h",
   "tracks": [
     {
       "added_at": "2026-03-27 04:00:22",
@@ -41,20 +41,20 @@
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     },
     {
-      "added_at": "2026-03-27 04:00:22",
+      "added_at": "2026-05-29 04:02:44",
       "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 204068,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+      "duration_ms": 223332,
+      "name": "Mexico Honey",
+      "url": "https://open.spotify.com/track/7xKr077iMufVJwge6aO9xJ"
     },
     {
       "added_at": "2026-04-24 04:03:00",
@@ -71,6 +71,22 @@
       "duration_ms": 231086,
       "name": "Doors",
       "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
+    },
+    {
+      "added_at": "2026-03-27 04:00:22",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "added_at": "2026-04-17 16:00:24",
@@ -103,6 +119,22 @@
       "duration_ms": 217240,
       "name": "Be Her",
       "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
+    },
+    {
+      "added_at": "2026-05-29 04:02:44",
+      "album": {
+        "name": "Nothing Like Hollywood",
+        "url": "https://open.spotify.com/album/77UyBNIRrgF0yW0d5WMgGU"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 185992,
+      "name": "Nothing Like Hollywood",
+      "url": "https://open.spotify.com/track/52cP6CHMCWQc6s1XItREqg"
     },
     {
       "added_at": "2026-04-17 16:00:24",
@@ -251,6 +283,22 @@
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2026-05-29 04:02:44",
+      "album": {
+        "name": "New York Confident",
+        "url": "https://open.spotify.com/album/4oDktJNg53nfidIcdeU1k2"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 147394,
+      "name": "New York Confident",
+      "url": "https://open.spotify.com/track/5cILqtT5F6B35u7sawG9FR"
     },
     {
       "added_at": "2026-01-23 05:00:31",
@@ -483,22 +531,6 @@
       "duration_ms": 174688,
       "name": "The Day That I Die",
       "url": "https://open.spotify.com/track/5etUFBAEUiOSS50lAY7Z3U"
-    },
-    {
-      "added_at": "2025-11-07 05:00:53",
-      "album": {
-        "name": "Die On This Hill",
-        "url": "https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 217008,
-      "name": "Die On This Hill",
-      "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
     },
     {
       "added_at": "2025-12-05 05:00:27",
@@ -1101,22 +1133,6 @@
       "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
     },
     {
-      "added_at": "2025-11-07 05:00:53",
-      "album": {
-        "name": "Past Won't Leave My Bed",
-        "url": "https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 166106,
-      "name": "Past Won't Leave My Bed",
-      "url": "https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ"
-    },
-    {
       "added_at": "2025-11-18 03:39:33",
       "album": {
         "name": "FEAR",
@@ -1179,22 +1195,6 @@
       "duration_ms": 187423,
       "name": "FINE PLACE TO DIE",
       "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
-    },
-    {
-      "added_at": "2025-11-18 03:39:33",
-      "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 208972,
-      "name": "FMT",
-      "url": "https://open.spotify.com/track/67KAaGKHUrYLCmHml6v0Yk"
     },
     {
       "added_at": "2025-06-27 04:00:48",

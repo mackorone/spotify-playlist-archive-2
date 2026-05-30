@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Hip Hop today.  Cover: 1K Phew",
+  "description": "The best of Christian Hip Hop today.  Cover: Andy Mineo & Wordsplayed",
   "name": "The Flow",
   "tracks": [
     {
@@ -538,6 +538,32 @@
       "duration_ms": 267687,
       "name": "Abide",
       "url": "https://open.spotify.com/track/4dZTZ3GsxQ2d3RZs07Yjyj"
+    },
+    {
+      "album": {
+        "name": "GET THE TABLES",
+        "url": "https://open.spotify.com/album/3q69IgBIYsu95OxhepUi40"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Wordsplayed",
+          "url": "https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO"
+        },
+        {
+          "name": "Magic & Bird",
+          "url": "https://open.spotify.com/artist/3Sv0RnybkUFxZfPJJlSV2x"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105340,
+      "name": "ABOVE IT",
+      "url": "https://open.spotify.com/track/6zlPHn6wW5yxffhUIs6Xio"
     },
     {
       "album": {
@@ -6479,6 +6505,28 @@
     },
     {
       "album": {
+        "name": "Dios Con Nosotros",
+        "url": "https://open.spotify.com/album/1PTs6BLC8BSH2hzY0wzaRf"
+      },
+      "artists": [
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192540,
+      "name": "Dios Con Nosotros",
+      "url": "https://open.spotify.com/track/2aALtzJYJmBFa0dflskmGs"
+    },
+    {
+      "album": {
         "name": "Dirty Floors (feat. 1K Phew)",
         "url": "https://open.spotify.com/album/5VTcnQWUHhdgZ7l27WVUBX"
       },
@@ -6660,7 +6708,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 190449,
       "name": "DON'T IT FEEL GOOD",
       "url": "https://open.spotify.com/track/3bmjgKC6oR27LaS6sR0Iam"
@@ -15880,7 +15928,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 152404,
       "name": "mental health. - heaven's remix",
       "url": "https://open.spotify.com/track/3VMJQzCWSUZce4pfql0Pp1"
@@ -16464,7 +16512,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 149999,
       "name": "MR SEND HIS SON",
       "url": "https://open.spotify.com/track/0lWf2Bm5Eb4OJ8T5DMMqWP"
@@ -19678,6 +19726,28 @@
     {
       "album": {
         "name": "POWER",
+        "url": "https://open.spotify.com/album/6Ue2j2IK9VCnwqOhsUJTQF"
+      },
+      "artists": [
+        {
+          "name": "Alex Jean",
+          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+        },
+        {
+          "name": "Kijan Boone",
+          "url": "https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187034,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/5NgW3zzWfRTiCCzKdrjQ6G"
+    },
+    {
+      "album": {
+        "name": "POWER",
         "url": "https://open.spotify.com/album/6lgqS4IlI74DCpsrwlmbyi"
       },
       "artists": [
@@ -22752,6 +22822,44 @@
       "duration_ms": 208717,
       "name": "So Tired (feat. Bizzle & Zhalarina)",
       "url": "https://open.spotify.com/track/2TYtWTZO97F1Uyuwov8wSk"
+    },
+    {
+      "album": {
+        "name": "Sober Society Remix 2",
+        "url": "https://open.spotify.com/album/3mfFdPOIHokg9du3BJLmB3"
+      },
+      "artists": [
+        {
+          "name": "Braille",
+          "url": "https://open.spotify.com/artist/6RYTz1tFNDF2qP0mwqEwDO"
+        },
+        {
+          "name": "YP Aka Young Paul",
+          "url": "https://open.spotify.com/artist/5rEAZYrahTLTvcgv0DgOJQ"
+        },
+        {
+          "name": "Datin",
+          "url": "https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4"
+        },
+        {
+          "name": "Shai Linne",
+          "url": "https://open.spotify.com/artist/5IOZCSuYRrid1baINgoKIQ"
+        },
+        {
+          "name": "Sho Baraka",
+          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
+        },
+        {
+          "name": "Selah the Corner",
+          "url": "https://open.spotify.com/artist/5RGpSLDa24rgCKsKIiGuwn"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197674,
+      "name": "Sober Society Remix 2",
+      "url": "https://open.spotify.com/track/2PoOBa2sSujuUCoOxKSHXo"
     },
     {
       "album": {

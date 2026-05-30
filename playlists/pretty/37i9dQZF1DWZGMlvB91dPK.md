@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2026.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,952 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,954 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lies](https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 3:47 |
-| 2 | [3 DÉFAUTS](https://open.spotify.com/track/1Ik7PTKQ5vcw3UU9UY57SL) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [3 DÉFAUTS](https://open.spotify.com/album/1wduUXAxvjWyIU6SdYke90) | 3:32 |
+| 1 | [3 DÉFAUTS](https://open.spotify.com/track/1Ik7PTKQ5vcw3UU9UY57SL) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [3 DÉFAUTS](https://open.spotify.com/album/1wduUXAxvjWyIU6SdYke90) | 3:32 |
+| 2 | [Lies](https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 3:47 |
 | 3 | [Brillance](https://open.spotify.com/track/0nBSgd2RXDySMDaAD73Oei) | [Juste Shani](https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR) | [Diamant Noir](https://open.spotify.com/album/5ivnbDMt0KAODnXgShWpIs) | 1:59 |
 | 4 | [angel candles](https://open.spotify.com/track/7cl1kr7pqaXdDov0lf6cQq) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr), [notinbed](https://open.spotify.com/artist/0e7T2sPaxQSpePLh4AhMg8) | [angel candles](https://open.spotify.com/album/5nVv2lLlDlzEREyU2wnTiZ) | 2:09 |
 | 5 | [Pinch Me](https://open.spotify.com/track/6zDYiZZXrjEJXIvCNkDlVj) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Woody](https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK) | [Pinch Me](https://open.spotify.com/album/2p7DbJjX0HA1HmxH408qMQ) | 3:34 |
-| 6 | [Jaouad](https://open.spotify.com/track/6W3hSP8obngau8e6yU1AAr) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 5:01 |
-| 7 | [Comme les autres](https://open.spotify.com/track/3WMwvWAAdicQFiTCvdAZd3) | [Peet](https://open.spotify.com/artist/7u4o1K3Qui9DmeWqSMsa6l), [White Corbeau](https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH) | [À demain](https://open.spotify.com/album/6ZsgRFJ41qP4MSXbm1vPta) | 3:27 |
+| 6 | [Comme les autres](https://open.spotify.com/track/3WMwvWAAdicQFiTCvdAZd3) | [Peet](https://open.spotify.com/artist/7u4o1K3Qui9DmeWqSMsa6l), [White Corbeau](https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH) | [À demain](https://open.spotify.com/album/6ZsgRFJ41qP4MSXbm1vPta) | 3:27 |
+| 7 | [Jaouad](https://open.spotify.com/track/6W3hSP8obngau8e6yU1AAr) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Dressed Like Boys](https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn) | 5:01 |
 | 8 | [25 EUROS](https://open.spotify.com/track/7CuqqjkW4d0BDelI7bpofl) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [25 EUROS](https://open.spotify.com/album/162WefLM0ISqUY9rB6HwcG) | 2:04 |
 | 9 | [FOMO](https://open.spotify.com/track/2RZD1FSRfzrXyBNTuzAznH) | [Juste Shani](https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR) | [FOMO](https://open.spotify.com/album/7ClcoIV2o4GIl0c416lj97) | 3:06 |
 | 10 | [No Rnb](https://open.spotify.com/track/3ISk54mlwwOqYvb8QkASqn) | [Gen](https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G) | [Dog Day](https://open.spotify.com/album/70vSMHeeSJ9Z2xmOX08RBr) | 1:27 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 18 | [To Get Fucked Up](https://open.spotify.com/track/7Mw0GVjk2NyXXk0cmR4M96) | [Jasmine Not Jafar](https://open.spotify.com/artist/1P8cIgzmOiorjmyVG6a8Eg) | [To Get Fucked Up](https://open.spotify.com/album/05mc5DP88eRyhoH9qCArzQ) | 4:09 |
 | 19 | [GROUND](https://open.spotify.com/track/0zve65Kt1H8j1Uslli8Qxp) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 5:06 |
 | 20 | [je dirai rien](https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R) | [Noée](https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q) | [je dirai rien](https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1) | 3:07 |
-| 21 | [Shade up My Blue](https://open.spotify.com/track/42basUZpPpLGTyQuvnKS7B) | [Blue Katrice](https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx) | [Shade up My Blue](https://open.spotify.com/album/68XRLmXS3BsRFQhduxAKDG) | 3:40 |
-| 22 | [Moonroad](https://open.spotify.com/track/1AxYsd1piLYQBovNvd86Up) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Hugh Greene & the Lucies Made Me](https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH) | 3:26 |
+| 21 | [Moonroad](https://open.spotify.com/track/1AxYsd1piLYQBovNvd86Up) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Hugh Greene & the Lucies Made Me](https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH) | 3:26 |
+| 22 | [Shade up My Blue](https://open.spotify.com/track/42basUZpPpLGTyQuvnKS7B) | [Blue Katrice](https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx) | [Shade up My Blue](https://open.spotify.com/album/68XRLmXS3BsRFQhduxAKDG) | 3:40 |
 | 23 | [La patte](https://open.spotify.com/track/3Po4bhUWHwV4JVCF3HeODp) | [Gen](https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G) | [ECHO ECHO](https://open.spotify.com/album/4LFLxS7qIsnJKD9h9nxJc0) | 2:33 |
 | 24 | [SHAKE](https://open.spotify.com/track/61VTG6BfF8TI9g869Udwv8) | [marta](https://open.spotify.com/artist/2o9cmYz3Qyeow09POTgTlt) | [ROOM](https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC) | 6:15 |
 | 25 | [Flou](https://open.spotify.com/track/30tWzwvW86eJJ6qZvApsFF) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Flou](https://open.spotify.com/album/7JavIhWOxHvoD6C1DDJ1Ro) | 2:21 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 40 | [SAM](https://open.spotify.com/track/1F95Q6fI5kK6nhu35Cup9J) | [ARTICLE15](https://open.spotify.com/artist/1alQDQ8WNBT4NQHFrjnvqx) | [SAM](https://open.spotify.com/album/3cEzNP6c8TRTjYNJ5Al3NZ) | 4:50 |
 | 41 | [Coma \- Stripped Version](https://open.spotify.com/track/2XnCicNih9wL1IQsq5nxOY) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Coma \(Stripped Version\)](https://open.spotify.com/album/4c2vZPWSzlMCZtjYHOkS17) | 3:18 |
 | 42 | [ARDE MAMI](https://open.spotify.com/track/1tPH5nXPitW7wLY2hyQAoK) | [Caos.808](https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC) | [ARDE MAMI](https://open.spotify.com/album/1Z137meWCyz4GsMlj1UDt4) | 2:56 |
-| 43 | [COMA](https://open.spotify.com/track/1OfsokshZ1UsTJJTqL1Gdc) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [COMA](https://open.spotify.com/album/1qeLpimb9Q18h3h52kmAAy) | 3:01 |
-| 44 | [outsider](https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [dealing with ghosts](https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt) | 2:01 |
-| 45 | [Strange Place](https://open.spotify.com/track/5dEC6ATbja2OwLRzXvo91E) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Wire](https://open.spotify.com/album/4TH0CpZEw9bzdvu3oamSwC) | 3:10 |
-| 46 | [Timecrash](https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz) | [MEDICIS](https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4) | [Where We Dive](https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F) | 4:00 |
+| 43 | [outsider](https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi) | [naya mö](https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi) | [dealing with ghosts](https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt) | 2:01 |
+| 44 | [COMA](https://open.spotify.com/track/1OfsokshZ1UsTJJTqL1Gdc) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [COMA](https://open.spotify.com/album/1qeLpimb9Q18h3h52kmAAy) | 3:01 |
+| 45 | [Timecrash](https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz) | [MEDICIS](https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4) | [Where We Dive](https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F) | 4:00 |
+| 46 | [Strange Place](https://open.spotify.com/track/5dEC6ATbja2OwLRzXvo91E) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Wire](https://open.spotify.com/album/4TH0CpZEw9bzdvu3oamSwC) | 3:10 |
 | 47 | [Down the Row](https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga) | [The Chainsaw Motel](https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf) | [Down the Row](https://open.spotify.com/album/2gjcAiaJfetD0D9zD4GRVy) | 3:29 |
-| 48 | [Changer](https://open.spotify.com/track/3on1O6i9u6hlkWCDs0r4fZ) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [Tout change](https://open.spotify.com/album/4RUoWFOmQ4QYlWbrkItg2I) | 2:38 |
-| 49 | [eye 2 eye](https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [eye 2 eye](https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ) | 2:30 |
+| 48 | [eye 2 eye](https://open.spotify.com/track/55zqLu62XWPBnFVw8B8lE7) | [Clara Kimera](https://open.spotify.com/artist/4sQzCc8XZTTmnuSH770IBr) | [eye 2 eye](https://open.spotify.com/album/4eJ6c7ldGq7POYztlCXuMQ) | 2:30 |
+| 49 | [Changer](https://open.spotify.com/track/3on1O6i9u6hlkWCDs0r4fZ) | [PAR.SEK](https://open.spotify.com/artist/6PDqYjhisgu14QnBRwZABx) | [Tout change](https://open.spotify.com/album/4RUoWFOmQ4QYlWbrkItg2I) | 2:38 |
 | 50 | [Twisted Mind](https://open.spotify.com/track/1sWVocPjaolPmAa4fsOrWz) | [MEDICIS](https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4) | [Twisted Mind](https://open.spotify.com/album/4ko8JEKBxITNZcDg8Wg3s9) | 2:52 |
 
 Snapshot ID: `AAAAANBgEuh8fXOQt7ClqE+/iPuTbHuY`

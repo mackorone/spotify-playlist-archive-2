@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 
 > We’re fired up\. Celebrate the new season of FX’s The Bear with music from the series\. All episodes now streaming on Hulu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,439 likes - 200 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,474 likes - 200 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqlvMml8mIw.md) - [plain]
 | 11 | [Only You Know](https://open.spotify.com/track/3m0iAPHzwU6cZT8vNCrZZO) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Born to Be With You / Streetheart](https://open.spotify.com/album/0DOf8RoY5pxvrbDCEGlj7B) | 4:45 |
 | 12 | [Haunted When the Minutes Drag](https://open.spotify.com/track/2aQPNm5EtLWBHsqzNuAdcq) | [Love and Rockets](https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg) | [Seventh Dream of Teenage Heaven](https://open.spotify.com/album/4nGGzp3IFhkksr4DCOYLQ0) | 8:01 |
 | 13 | [Finest Worksong](https://open.spotify.com/track/0O7f4jLccME6ZfYfJ1twsX) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 3:50 |
-| 14 | [Bagatelle No\. 25 in A Minor, Op\. 59 "Für Elise"](https://open.spotify.com/track/3CoqWI3zSEuzD6PsTUCVV5) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Dieter Goldmann](https://open.spotify.com/artist/3cYIDfwONCei51m4CuGuaL) | [Beethoven: Bagatelle No\. 25 in A Minor, Op\. 59 "Für Elise" \(Digitally Remastered\)](https://open.spotify.com/album/2FgAnLMoVG5KuEezPOpL6R) | 2:50 |
+| 14 | [Bagatelle No\. 25 in A Minor, Op\. 59 "Für Elise" \- 2013 Remaster](https://open.spotify.com/track/3CoqWI3zSEuzD6PsTUCVV5) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Dieter Goldmann](https://open.spotify.com/artist/3cYIDfwONCei51m4CuGuaL) | [Beethoven: Bagatelle No\. 25 in A Minor, Op\. 59 "Für Elise" \(2013 Remaster\)](https://open.spotify.com/album/2FgAnLMoVG5KuEezPOpL6R) | 2:50 |
 | 15 | [STUCK.](https://open.spotify.com/track/7EXvZP4EJrwD9dVKMyKeGz) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 4:21 |
 | 16 | [Wood](https://open.spotify.com/track/3EyxbmvNxqvFLmqRMc5Caw) | [Duval Timothy](https://open.spotify.com/artist/4t5XnkAKxcaYcDXI726A4Y), [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [Meeting with a Judas Tree](https://open.spotify.com/album/2JEmFCOxEi8Onik59bRrMg) | 3:32 |
 | 17 | [Wings of Love](https://open.spotify.com/track/2kGEhQef4WuyB4Z1TL6GK8) | [Tsvia Abarbanel](https://open.spotify.com/artist/54H7NRU9bdALbrsoSwW68m) | [Eastern Soul](https://open.spotify.com/album/0uWj8RfBIWTRMEvfhqgARd) | 2:56 |

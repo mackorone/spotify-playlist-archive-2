@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Tuğba Özerk
 
-602 songs - 1 day 6 hr 34 min
+603 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Bi' Farkın Var](https://open.spotify.com/track/7yV4NuGTMAwTJyymp7vdrL) | [Güliz Ayla](https://open.spotify.com/artist/7yiJcbeab3PFoFhxtNDujs) | [Bi' Farkın Var](https://open.spotify.com/album/3vgV50xyw8ldVEPJEXbZqA) | 2:32 | 2024-10-10 | 2024-10-18 |
 | [Bil Ki](https://open.spotify.com/track/0QXwA2k5hAD6nWeAzcwjTJ) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D), [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Sende De Benden Var](https://open.spotify.com/album/39zwVUxvdqEfPwW0JRg0KP) | 3:18 | 2025-09-25 | 2026-02-07 |
 | [Bilsen De](https://open.spotify.com/track/3vfPPNNAOPteFWU9xIwT1R) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Bilsen De](https://open.spotify.com/album/0qol5uBtarWXta5lVvDc5h) | 2:40 | 2025-12-11 | 2026-04-10 |
+| [Bir](https://open.spotify.com/track/5n5UzQrxMYAbbnz5kDO9fp) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx), [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Can Atayılmaz](https://open.spotify.com/artist/1qkPyuqp2GFBWcRK1HT4rp) | [Bir](https://open.spotify.com/album/7IoECfCapBFFhbtfRYz4Ub) | 3:14 | 2026-05-22 |  |
 | [Bir Başıma](https://open.spotify.com/track/591vD59s3EeTxLFH9K5OWk) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Bir Başıma](https://open.spotify.com/album/3eW6cRPWUdzifoxcHAar8g) | 6:13 | 2025-11-20 | 2026-04-23 |
 | [Bir Ev Vardı](https://open.spotify.com/track/0FH7zgmFuF8hgndYl0Jb8l) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Bir Ev Vardı](https://open.spotify.com/album/2ujewzFJr8bycfOSvSSoqh) | 2:39 | 2026-03-05 | 2026-03-13 |
 | [Bir Gün Gideceğim Buradan](https://open.spotify.com/track/6xkSI48AJlIRQwffd0and4) | [Demet Sağıroğlu](https://open.spotify.com/artist/1JezmRKWjau6fQtfotfhZY), [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Bir Gün Gideceğim Buradan](https://open.spotify.com/album/2xtEDraGpjQwsGv6rqGSwX) | 5:12 | 2026-01-01 | 2026-02-03 |
@@ -418,7 +419,7 @@
 | [pişman...](https://open.spotify.com/track/1vHyuIpmhC2TWrQHWPNxBA) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [pişman...](https://open.spotify.com/album/1D8mP2XsFgTuFDsgXsyz0G) | 1:50 | 2025-03-06 | 2025-03-14 |
 | [Rakıya Meze Olalım](https://open.spotify.com/track/0PTpHlfm7cqG69tKyIuu7r) | [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Rakıya Meze Olalım](https://open.spotify.com/album/5s1VUKfu8QHcTddbf1co5K) | 2:09 | 2024-10-03 | 2025-01-16 |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-06-27 | 2024-08-02 |
-| [RUJ](https://open.spotify.com/track/3SJ6Dk9v81DxV9ugOTXSZk) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [RUJ](https://open.spotify.com/album/0uDGWW5KwPWZz7uffY647c) | 3:08 | 2025-06-26 |  |
+| [RUJ](https://open.spotify.com/track/3SJ6Dk9v81DxV9ugOTXSZk) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [RUJ](https://open.spotify.com/album/0uDGWW5KwPWZz7uffY647c) | 3:08 | 2025-06-26 | 2026-05-30 |
 | [Sabrettim](https://open.spotify.com/track/1PkXm3F4IHE4cwm3D9y1tr) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Sabrettim](https://open.spotify.com/album/1F9mSnW3E9HjHLAzqO0cjP) | 3:05 | 2025-08-15 |  |
 | [Sahipsiz](https://open.spotify.com/track/0kxbEY08FagNJ6XSh1XHGo) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [Sahipsiz](https://open.spotify.com/album/1NVLQP0ioRk7TnvZeYtp5p) | 2:59 | 2025-01-16 | 2025-04-16 |
 | [Sahte Sonbahar](https://open.spotify.com/track/1ACI7zmoUY34xcrKrYeypb) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:55 | 2024-08-08 | 2026-02-27 |

@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05da. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e7\u05d0\u05d1\u05e8: \u05d8\u05de\u05e4\u05e8 \u05e1\u05d9\u05d8\u05d9",
-  "num_followers": 25770,
+  "num_followers": 25769,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2026-05-21 21:49:02",
       "album": {
+        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
+        "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
+      },
+      "artists": [
+        {
+          "name": "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9",
+          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "\u05de\u05dc\u05d5\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe"
+    },
+    {
+      "added_at": "2026-05-21 21:49:02",
+      "album": {
         "name": "THE VANDALIST",
         "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 207804,
       "name": "SAD GENERATION, HAPPY PICTURES (feat. Flyana Boss)",
       "url": "https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn"
-    },
-    {
-      "added_at": "2026-05-21 21:49:02",
-      "album": {
-        "name": "\u05e8\u05d3\u05d9\u05d5 \u05e9\u05d8\u05d7 2",
-        "url": "https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq"
-      },
-      "artists": [
-        {
-          "name": "\u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9",
-          "url": "https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "\u05de\u05dc\u05d5\u05d3\u05d9",
-      "url": "https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe"
     },
     {
       "added_at": "2026-05-21 21:49:02",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2026-05-21 21:49:02",
       "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+        "name": "\u05e9\u05d5\u05d1\u05e8 \u05d1\u05de\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU"
       },
       "artists": [
         {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+          "name": "Full Trunk",
+          "url": "https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k"
         }
       ],
-      "duration_ms": 218692,
-      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
-      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
+      "duration_ms": 297983,
+      "name": "\u05e6\u05e8\u05d9\u05da \u05d0\u05d5\u05ea\u05da",
+      "url": "https://open.spotify.com/track/4QDPzbvvoLr5EhsRO0n4KX"
     },
     {
       "added_at": "2026-05-21 21:49:02",
@@ -1491,18 +1491,18 @@
     {
       "added_at": "2026-05-21 21:49:02",
       "album": {
-        "name": "\u05e9\u05d5\u05d1\u05e8 \u05d1\u05de\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/4rhNl9PNCYluDbA39LYkgU"
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
       },
       "artists": [
         {
-          "name": "Full Trunk",
-          "url": "https://open.spotify.com/artist/1CD5WWtF6AFUq6BTY20I4k"
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
         }
       ],
-      "duration_ms": 297983,
-      "name": "\u05e6\u05e8\u05d9\u05da \u05d0\u05d5\u05ea\u05da",
-      "url": "https://open.spotify.com/track/4QDPzbvvoLr5EhsRO0n4KX"
+      "duration_ms": 218692,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
+      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
     },
     {
       "added_at": "2026-05-21 21:49:02",

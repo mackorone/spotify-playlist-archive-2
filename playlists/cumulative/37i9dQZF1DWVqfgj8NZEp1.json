@@ -1361,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "Cocktails for Two",
+        "url": "https://open.spotify.com/album/4hpqMlJXf5gMGOrKzQ7wn2"
+      },
+      "artists": [
+        {
+          "name": "Jakob Dinesen",
+          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221183,
+      "name": "Cocktails for Two",
+      "url": "https://open.spotify.com/track/12tkQUMuoZx8Mr7iJGbKHk"
+    },
+    {
+      "album": {
         "name": "Colonel Sanders (Two Moons Analog Session)",
         "url": "https://open.spotify.com/album/0WDdLI63t4lp8YCItwfRPm"
       },

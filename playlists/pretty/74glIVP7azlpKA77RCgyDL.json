@@ -1,13 +1,109 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9128,
+  "num_followers": 9132,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAQKTMjsBfM86YvwwmGz//zagMSD9kR",
+  "snapshot_id": "AAAQNFDfgFzUbX6Pf2TpnvAivlClXUzf",
   "tracks": [
+    {
+      "added_at": "2026-05-29 19:09:34",
+      "album": {
+        "name": "Starless",
+        "url": "https://open.spotify.com/album/2EmcHkFMRu0PS6viXk90Jd"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "duration_ms": 272567,
+      "name": "Starless",
+      "url": "https://open.spotify.com/track/0MXz52zYBIIe3wuqojwjsr"
+    },
+    {
+      "added_at": "2026-05-29 19:09:58",
+      "album": {
+        "name": "Sleeping With The Enemy",
+        "url": "https://open.spotify.com/album/1szmJLoAH4F1uk0AfSQj66"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 246374,
+      "name": "Sleeping With The Enemy",
+      "url": "https://open.spotify.com/track/1hLipkDpW1mAdGlUHl2Zl5"
+    },
+    {
+      "added_at": "2026-05-29 19:10:21",
+      "album": {
+        "name": "Injury Episode",
+        "url": "https://open.spotify.com/album/0nZNn9KNOqjQ45hMK4a2X2"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "duration_ms": 201562,
+      "name": "Male-bomb",
+      "url": "https://open.spotify.com/track/12THG6Gv4x9vEQh1Jert0o"
+    },
+    {
+      "added_at": "2026-05-29 19:09:47",
+      "album": {
+        "name": "Leigh",
+        "url": "https://open.spotify.com/album/2EIcpqJ1mdt6CteppnTzNI"
+      },
+      "artists": [
+        {
+          "name": "ASAVA",
+          "url": "https://open.spotify.com/artist/6CQw6qt1rxEUH5aNQnCzta"
+        }
+      ],
+      "duration_ms": 386499,
+      "name": "Leigh",
+      "url": "https://open.spotify.com/track/2h94nuWGjNSVvyaWXRtJst"
+    },
+    {
+      "added_at": "2026-05-29 19:10:09",
+      "album": {
+        "name": "A Muted TV",
+        "url": "https://open.spotify.com/album/2CApiqUNucJ3iXyPviTTHv"
+      },
+      "artists": [
+        {
+          "name": "Reclus.\u00c9",
+          "url": "https://open.spotify.com/artist/77myKiTzTz50cL8cMxBuvV"
+        }
+      ],
+      "duration_ms": 246845,
+      "name": "A Muted TV",
+      "url": "https://open.spotify.com/track/4RqrtnQcEQjbPPQLgS0Y5r"
+    },
+    {
+      "added_at": "2026-05-29 19:10:33",
+      "album": {
+        "name": "Soul From Flesh",
+        "url": "https://open.spotify.com/album/6YnozfYRwevSFWPY1xzeLf"
+      },
+      "artists": [
+        {
+          "name": "Suffer UK",
+          "url": "https://open.spotify.com/artist/5jzHeqBMZElOiky0aWXsFG"
+        }
+      ],
+      "duration_ms": 249517,
+      "name": "Soul From Flesh",
+      "url": "https://open.spotify.com/track/3482Rmode6fqvWFslpJhu9"
+    },
     {
       "added_at": "2026-05-22 19:48:57",
       "album": {

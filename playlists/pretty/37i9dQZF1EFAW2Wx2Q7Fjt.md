@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,568 likes - 233 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,571 likes - 233 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 36 | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/track/5fdbH2X0eyH3T6lBh2ZtVU) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Nu King](https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU) | 2:33 |
 | 37 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 |
 | 38 | [Slim Pickins](https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:32 |
-| 39 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 |
-| 40 | [Undrunk](https://open.spotify.com/track/1Pj5oOFzLYELyyeh1IYRK0) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:03 |
-| 41 | [drop dead](https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead \(taken that eurostar to france video\)](https://open.spotify.com/album/6yWUYijJvHyjvcw43abyWD) | 3:44 |
+| 39 | [drop dead](https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [drop dead \(taken that eurostar to france video\)](https://open.spotify.com/album/6yWUYijJvHyjvcw43abyWD) | 3:44 |
+| 40 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 |
+| 41 | [Undrunk](https://open.spotify.com/track/1Pj5oOFzLYELyyeh1IYRK0) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [you ruined new york city for me](https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L) | 3:03 |
 | 42 | [15 Minutes](https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet \(Deluxe\)](https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk) | 3:11 |
 | 43 | [My Man on Willpower](https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 3:17 |
 | 44 | [Miss possessive](https://open.spotify.com/track/4Q9ExJGFgL9Jd9kmYH3nXs) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 2:19 |
@@ -183,8 +183,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 173 | [Runnin' Low](https://open.spotify.com/track/2LQA6pUCmMeefsuGkasID5) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:28 |
 | 174 | [Do You Miss Me](https://open.spotify.com/track/6IppX350neGLNsjkVGACNp) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf) | [Do You Miss Me](https://open.spotify.com/album/2gCl7oG3bbT6AmcMJM0CEI) | 3:02 |
 | 175 | [ARE U SERIOUS?](https://open.spotify.com/track/5ZVsCKomk3UHQ4kf1S9XrH) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 2:23 |
-| 176 | [Tension](https://open.spotify.com/track/3CAgSnSpMCLcK20JodIKfE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 4:09 |
-| 177 | [Bad](https://open.spotify.com/track/4HaPoW6VbjC0iWBsuAmw5z) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Bad](https://open.spotify.com/album/3mu4Y69CWMH21RNGDzt9Eu) | 2:32 |
+| 176 | [Bad](https://open.spotify.com/track/4HaPoW6VbjC0iWBsuAmw5z) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Bad](https://open.spotify.com/album/3mu4Y69CWMH21RNGDzt9Eu) | 2:32 |
+| 177 | [Tension](https://open.spotify.com/track/3CAgSnSpMCLcK20JodIKfE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 4:09 |
 | 178 | [Difficult](https://open.spotify.com/track/7rY8Iw9HQtmLMDVe6wQ4f3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Difficult](https://open.spotify.com/album/4flPdmSeK3DAaiSduOVd2q) | 3:20 |
 | 179 | [What a Time To Be Alive \(feat\. Pink Sweat$\)](https://open.spotify.com/track/7oBm8q8uAatiY2rJpRZtEl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [What a Time To Be Alive \(feat\. Pink Sweat$\)](https://open.spotify.com/album/3XWD5ErRMHC6ssFJ0pXWOE) | 3:40 |
 | 180 | [One Big Party](https://open.spotify.com/track/4YBYxI7AX3hu5GbVl0lsyB) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [One Big Party](https://open.spotify.com/album/44wj2y403F8BYJZz1RRJ8Y) | 3:38 |
@@ -242,4 +242,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 232 | [break](https://open.spotify.com/track/3F7mNkXtkAtFRHCkwp0L4c) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:04 |
 | 233 | [kind sadness](https://open.spotify.com/track/14D1PA47cBk9pI3UMnzEn8) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [amy allen](https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb) | 3:16 |
 
-Snapshot ID: `AcSu9AAAAAAj9IrGIBfE45PAkn8M/cPU`
+Snapshot ID: `AcS0vAAAAAAIpOt+3zjBelpuaqU/f1QN`

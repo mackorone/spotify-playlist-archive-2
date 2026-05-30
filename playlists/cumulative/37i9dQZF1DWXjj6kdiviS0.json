@@ -1117,6 +1117,32 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Keyboard Concerto in G Minor, BWV 1058 (After BWV 1041): II. Andante",
+        "url": "https://open.spotify.com/album/7sZNJQ3UKrHYuQQOEHH7kq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mahan Esfahani",
+          "url": "https://open.spotify.com/artist/3IGLp0T2tKCevHZ2znDhtT"
+        },
+        {
+          "name": "Britten Sinfonia",
+          "url": "https://open.spotify.com/artist/3P1VtkpIYbw6YoTo0KYlxy"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352000,
+      "name": "Keyboard Concerto in G Minor, BWV 1058 (After BWV 1041): II. Andante",
+      "url": "https://open.spotify.com/track/54CyqfAXyO6RRzpYvIJ5bN"
+    },
+    {
+      "album": {
         "name": "Bach: Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo",
         "url": "https://open.spotify.com/album/5fKR1nc9CrnBATmWvQvfzF"
       },
@@ -2796,6 +2822,36 @@
       "duration_ms": 190160,
       "name": "Violin Concerto in E-Flat Major, RV 257: III. Allegro",
       "url": "https://open.spotify.com/track/5AW6hac4JAKu0ygmZUw7HF"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach & Silvestrov",
+        "url": "https://open.spotify.com/album/007Nv8X6D2qUFqM6iz4tsK"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vadim Gluzman",
+          "url": "https://open.spotify.com/artist/2ALFMP4vEAVWgatD07078r"
+        },
+        {
+          "name": "Zachary Carrettin",
+          "url": "https://open.spotify.com/artist/6sXyucEMFImdaSrUb3oyC3"
+        },
+        {
+          "name": "COmpass REsonance",
+          "url": "https://open.spotify.com/artist/5pp4YVCnpbrkgwdiOCfNLx"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216105,
+      "name": "Violin Concerto No. 1 in A Minor, BWV 1041: I. Allegro",
+      "url": "https://open.spotify.com/track/5ajdg7zFsfYhGwphf7773r"
     },
     {
       "album": {

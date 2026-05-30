@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,482 likes - 37 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,500 likes - 37 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 5 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 | 6 | [It Gets So Hot](https://open.spotify.com/track/7gaAXsjeXLtaRJPm1QvdKA) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 2:41 |
 | 7 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 |
-| 8 | [Bodies](https://open.spotify.com/track/2xeIWTt1cWvRa8R31RPOip) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:29 |
-| 9 | [Number One Fan](https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:25 |
+| 8 | [Number One Fan](https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:25 |
+| 9 | [Bodies](https://open.spotify.com/track/2xeIWTt1cWvRa8R31RPOip) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 3:29 |
 | 10 | [Dancing On The Wall](https://open.spotify.com/track/7G2NR2p31c87FwPAmT5HJJ) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 4:03 |
 | 11 | [Home By Now](https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:28 |
 | 12 | [Into Your Room \(with MUNA\)](https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Into Your Room \(with MUNA\)](https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun) | 3:31 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RlK48.md) - [plain]
 | 36 | [Empathy \- MUNA Remix](https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Empathy \(MUNA Remix\)](https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG) | 3:08 |
 | 37 | [Winterbreak](https://open.spotify.com/track/4B6BiC4TZUbvXMbrdx2rhq) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:57 |
 
-Snapshot ID: `ahY0AAAAAAC50G87yJ2sFvH6Oc/IvCJQ`
+Snapshot ID: `aheFgAAAAAAWX7WFasmo4yf5VEJKLIaV`

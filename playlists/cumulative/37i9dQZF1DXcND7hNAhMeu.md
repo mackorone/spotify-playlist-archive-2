@@ -2,7 +2,7 @@
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! Kapak: Öykü Dörter
+> Geleceğin seslerini dinle! Kapak: Zeki Arkun
 
 109 songs - 5 hr 15 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Garvit\-Priyansh
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,618 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,621 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 52 | [Aashiyan](https://open.spotify.com/track/0OlYIIUtBAWF2iEiTYan5h) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Aashiyan](https://open.spotify.com/album/69WkyMOrLpLPnOML7ZYPWq) | 2:54 |
 | 53 | [Firki](https://open.spotify.com/track/2DVr3mimT7i7fq2znGJxrM) | [Bharat Chandak](https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF) | [Firki](https://open.spotify.com/album/4ex57nAULj9BXxaOTFkuGv) | 2:56 |
 | 54 | [Sitaara](https://open.spotify.com/track/3ENBNV0iX1jIM5xIP6tJTj) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Sitaara](https://open.spotify.com/album/0ruofnDBPQXZvx2Ypzoodh) | 3:02 |
-| 55 | [Raaz](https://open.spotify.com/track/0cZBUtaPwfmsopHLd8zuag) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Raaz](https://open.spotify.com/album/0JRPSZVTpG5RlIC6LrzsJm) | 2:44 |
-| 56 | [You're The One](https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [You're The One](https://open.spotify.com/album/4XKfCJ0ZnU0C9IKwgEkgE9) | 2:33 |
+| 55 | [You're The One](https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [You're The One](https://open.spotify.com/album/4XKfCJ0ZnU0C9IKwgEkgE9) | 2:33 |
+| 56 | [Raaz](https://open.spotify.com/track/0cZBUtaPwfmsopHLd8zuag) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [Raaz](https://open.spotify.com/album/0JRPSZVTpG5RlIC6LrzsJm) | 2:44 |
 | 57 | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye) | [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Dear Maahiya \(From "UR Debut"\)](https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv) | 3:57 |
 | 58 | [Jaan Se Zyada](https://open.spotify.com/track/4MuqA3HaelY0K7OfUHQEOP) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Jaan Se Zyada](https://open.spotify.com/album/7zFdhMVq9hnCkIbV1qyWd1) | 2:53 |
 | 59 | [Zulfein](https://open.spotify.com/track/6bwIkFBUUMG7upgPoVlTHt) | [Mehul Mahesh](https://open.spotify.com/artist/2kyOjoPL3gf3VnKeje7NoD), [Dj AYnik](https://open.spotify.com/artist/7woN8EeGudPDKwSjbuUezk) | [Zulfein](https://open.spotify.com/album/0QLo84H5SAMrfwo6t1pkeS) | 3:18 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 66 | [Pyaar Kaafi Nahi](https://open.spotify.com/track/0emdpRC3rftireFUN9c00x) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Pyaar Kaafi Nahi](https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok) | 2:55 |
 | 67 | [Aaye Re](https://open.spotify.com/track/7hEJ4dnjlebJZVxWsfZH7n) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW) | [Aaye Re](https://open.spotify.com/album/4Qm6trjMbavUh99TWCdHAp) | 4:00 |
 | 68 | [Ratiyaan](https://open.spotify.com/track/6AW4SkLk5mYWpsPDz8lGXz) | [Taaruk Raina](https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Stay Vol\. 1](https://open.spotify.com/album/4pwc2Zic2F7VYloJi1cpql) | 2:28 |
-| 69 | [Aadhi Chai](https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Aadhi Chai](https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b) | 3:37 |
-| 70 | [Tujhsa Na Koi](https://open.spotify.com/track/5vt6phoMEMvVREJcjvcnM0) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Pata](https://open.spotify.com/album/2MYx8x9zEVAX5c99paLZ0A) | 2:55 |
+| 69 | [Tujhsa Na Koi](https://open.spotify.com/track/5vt6phoMEMvVREJcjvcnM0) | [Akash Kaushal](https://open.spotify.com/artist/3DzwTairO8yX0Ik8OT0T84) | [Pata](https://open.spotify.com/album/2MYx8x9zEVAX5c99paLZ0A) | 2:55 |
+| 70 | [Aadhi Chai](https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr) | [Deepak Rathore](https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI) | [Aadhi Chai](https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b) | 3:37 |
 | 71 | [3am Thoughts](https://open.spotify.com/track/347wKqohKOnydV7bsloEQf) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Marammat](https://open.spotify.com/album/42T0XxsHWYn8DuOQCHwCr2) | 4:29 |
 | 72 | [Yun Hi Kahin](https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Yun Hi Kahin](https://open.spotify.com/album/52e2XrnIrZJXzKTMxUSx9G) | 3:23 |
 | 73 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 |
 | 74 | [Baaton](https://open.spotify.com/track/2d5RyNcpBc8d5NTCz5M8aK) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Baaton](https://open.spotify.com/album/5lFlOlonnrtMTc9HPl1za4) | 2:05 |
-| 75 | [Tu hi hai](https://open.spotify.com/track/36DwegUM4ExV8aNhB6jW5e) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Tu hi hai](https://open.spotify.com/album/4BhDcGwNs1g3zfcqoOEbIZ) | 3:07 |
+| 75 | [Parinaam](https://open.spotify.com/track/3xJ0OLjMdcuvcYQiUAcGlz) | [Dorwin John](https://open.spotify.com/artist/1WrRZqtc5zXX95BV270M1v) | [Parinaam](https://open.spotify.com/album/4cQvaQtUd2Vjq0M8SNzyRv) | 2:15 |
 
 Snapshot ID: `AAAAAFYLB/JaiDzF3yFKZx2xGWrUvOAO`

@@ -1009,6 +1009,28 @@
     },
     {
       "album": {
+        "name": "Beach: By the still waters, Op. 114",
+        "url": "https://open.spotify.com/album/4kkNmHYLsQ1zoy9ceNzV0G"
+      },
+      "artists": [
+        {
+          "name": "Amy Beach",
+          "url": "https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB"
+        },
+        {
+          "name": "Carmen Stefanescu",
+          "url": "https://open.spotify.com/artist/2WcUK8LkHiBUOKVnB2VbVA"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147315,
+      "name": "By the still waters, Op. 114",
+      "url": "https://open.spotify.com/track/30CQ1ykaR7COuTmvkwaVwc"
+    },
+    {
+      "album": {
         "name": "Beach: By the Still Waters, Op. 114 (Arr. Lewin for 2 Guitars)",
         "url": "https://open.spotify.com/album/1Hfy4YW4bjSGnJGWnIpTf9"
       },
@@ -1388,6 +1410,40 @@
       "duration_ms": 306946,
       "name": "Continuum",
       "url": "https://open.spotify.com/track/1LAuCAY9H01A2iANaS1fIY"
+    },
+    {
+      "album": {
+        "name": "Ulusoy-Horsley: Cycle of Peace: No. 3, Bless\u00e9d",
+        "url": "https://open.spotify.com/album/7oO5HNDMnqsONTmt1ysEHK"
+      },
+      "artists": [
+        {
+          "name": "Jessica Ulusoy-Horsley",
+          "url": "https://open.spotify.com/artist/28r9oDDi9rvksIXdExG8ew"
+        },
+        {
+          "name": "Martha McLorinan",
+          "url": "https://open.spotify.com/artist/0Igp7oNh9fXDNrWGjxh9ZW"
+        },
+        {
+          "name": "Jeremy Budd",
+          "url": "https://open.spotify.com/artist/2BV7ACNTK1Dsh5Bq3Hud5B"
+        },
+        {
+          "name": "Tenebrae",
+          "url": "https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD"
+        },
+        {
+          "name": "Nigel Short",
+          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386333,
+      "name": "Cycle of Peace: No. 3, Bless\u00e9d",
+      "url": "https://open.spotify.com/track/55D9glLx7mVgzVMdPbyLbY"
     },
     {
       "album": {
@@ -3856,6 +3912,32 @@
       "duration_ms": 299827,
       "name": "Soir\u00e9es musicales, Op. 6: No. 2, Notturno",
       "url": "https://open.spotify.com/track/0kwsXm3bz33xWv7kp2JH4X"
+    },
+    {
+      "album": {
+        "name": "Boulanger: Soleils couchants",
+        "url": "https://open.spotify.com/album/55KLxXbkz5xkfiWz0Pv4Mi"
+      },
+      "artists": [
+        {
+          "name": "Nadia Boulanger",
+          "url": "https://open.spotify.com/artist/1vfC2bld90kx966JTCSwf7"
+        },
+        {
+          "name": "Rachel Kolly",
+          "url": "https://open.spotify.com/artist/2dcgYu1aAbH5fEw0jSxEeD"
+        },
+        {
+          "name": "Pallavi Mahidhara",
+          "url": "https://open.spotify.com/artist/0nDVAwryqabu297wiPlZqF"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179732,
+      "name": "Soleils couchants",
+      "url": "https://open.spotify.com/track/6NpIzc5YYxcn7rSIbtJAVq"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: MV Bill",
+  "description": "Os lan\u00e7amentos e melhores sons do rap nacional. Foto: Budah",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -2629,6 +2629,36 @@
     },
     {
       "album": {
+        "name": "Estreito",
+        "url": "https://open.spotify.com/album/4BE3vs7FYGYPrfYX9BDhzt"
+      },
+      "artists": [
+        {
+          "name": "Victor Xam\u00e3",
+          "url": "https://open.spotify.com/artist/6sLPSvN2Z4R1ndAS068ibP"
+        },
+        {
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
+        },
+        {
+          "name": "El Prat",
+          "url": "https://open.spotify.com/artist/6Bcq1eBPmMI5okl6q0y8EA"
+        },
+        {
+          "name": "DNASTY",
+          "url": "https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162606,
+      "name": "Antigo Blues",
+      "url": "https://open.spotify.com/track/45PSoBv0FAXrl08Ie8xcHa"
+    },
+    {
+      "album": {
         "name": "Antologia",
         "url": "https://open.spotify.com/album/6wxlNVLwzFRSsy8n9U2DRN"
       },
@@ -5153,6 +5183,28 @@
     },
     {
       "album": {
+        "name": "Brincando com Fogo",
+        "url": "https://open.spotify.com/album/2Xv9Df1asCsT6jpNuc9s0t"
+      },
+      "artists": [
+        {
+          "name": "Nyannbreck",
+          "url": "https://open.spotify.com/artist/0yWGcFdttc7rmQXuZ7vwM1"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148582,
+      "name": "Brincando com Fogo",
+      "url": "https://open.spotify.com/track/6iXjNkwzPlXaE9oduwKIGq"
+    },
+    {
+      "album": {
         "name": "MUITA LUTA MIXTAPE",
         "url": "https://open.spotify.com/album/2mQYx7MIWjcV3DuUvCVeyD"
       },
@@ -5542,7 +5594,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 184109,
       "name": "Caminho Que o Futuro Tr\u00e1s",
       "url": "https://open.spotify.com/track/0pAkQz9r4zU6YNw7sLDYaR"
@@ -5858,7 +5910,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 281551,
       "name": "Caribe",
       "url": "https://open.spotify.com/track/6pCF5uenLg1y6aWk6VFIe1"
@@ -10578,7 +10630,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 180213,
       "name": "EM MINHA JANELA",
       "url": "https://open.spotify.com/track/2hIYE9FgGnYq45lkSjb3CV"
@@ -13326,7 +13378,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 150948,
       "name": "FREESTYLE 2026",
       "url": "https://open.spotify.com/track/5bAMXG0oFvnNJ0DlAtyZeN"
@@ -19537,6 +19589,32 @@
     },
     {
       "album": {
+        "name": "Cacau 50% , Vol.2",
+        "url": "https://open.spotify.com/album/7eW65C6hstcMmJGsLTvrgG"
+      },
+      "artists": [
+        {
+          "name": "Afreekassia",
+          "url": "https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp"
+        },
+        {
+          "name": "Amanda Sarmento",
+          "url": "https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "Minha onda",
+      "url": "https://open.spotify.com/track/5afa3QSWTAaVZm53Wv1ofK"
+    },
+    {
+      "album": {
         "name": "Minha Pele",
         "url": "https://open.spotify.com/album/01W69LxzkNWgqEGqIaHlYS"
       },
@@ -19656,7 +19734,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 211222,
       "name": "Mo' Betta (Sev)",
       "url": "https://open.spotify.com/track/0UIdMKWXTlAieJuggfoJEk"
@@ -21873,6 +21951,36 @@
     },
     {
       "album": {
+        "name": "Nota 10",
+        "url": "https://open.spotify.com/album/48hSYcjmxMyU1SzWRfm8n0"
+      },
+      "artists": [
+        {
+          "name": "Sarah Sampp",
+          "url": "https://open.spotify.com/artist/2cl1hdWUdHlZoI3MXvIcY9"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Linguini",
+          "url": "https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz"
+        },
+        {
+          "name": "brandu",
+          "url": "https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229510,
+      "name": "Nota 10",
+      "url": "https://open.spotify.com/track/64bVcWrMTa8e1ymZi1CQnS"
+    },
+    {
+      "album": {
         "name": "Noturno",
         "url": "https://open.spotify.com/album/5zdsH90IfXwMJaPwxR1haz"
       },
@@ -22340,6 +22448,32 @@
       "duration_ms": 90003,
       "name": "N\u00c3O ESCUTE ESSA M\u00daSICA",
       "url": "https://open.spotify.com/track/3DqroTwrAl5gFwGDxvnT7F"
+    },
+    {
+      "album": {
+        "name": "N\u00c3O FAZEMOS POP",
+        "url": "https://open.spotify.com/album/1wPLgY7Mhu2NMSLr0QVw8S"
+      },
+      "artists": [
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154077,
+      "name": "N\u00c3O FAZEMOS POP",
+      "url": "https://open.spotify.com/track/3uUtnCjSTdBypLFvWv2KVz"
     },
     {
       "album": {
@@ -23163,6 +23297,28 @@
     },
     {
       "album": {
+        "name": "O Mais Odiado",
+        "url": "https://open.spotify.com/album/1NMAXk0Oo6AOmkBK9LdwRs"
+      },
+      "artists": [
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Jhony Mc",
+          "url": "https://open.spotify.com/artist/4hTGLEnPwUsmgakVoSo9Ww"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "O Mais Odiado",
+      "url": "https://open.spotify.com/track/6qbhnCQ6cwnRh3vlFRPbRG"
+    },
+    {
+      "album": {
         "name": "O mar agitou e acabamos naufragados",
         "url": "https://open.spotify.com/album/0J8wga9TKCzfGq5sUDQ9mz"
       },
@@ -23548,7 +23704,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 152769,
       "name": "O Que Me Diss Respeito",
       "url": "https://open.spotify.com/track/7pCKZTpoXBpSEaYk54nj3C"
@@ -27764,7 +27920,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 210000,
       "name": "Putinho piru rodado",
       "url": "https://open.spotify.com/track/1jBBiD8yyKuWggjR4H2t2z"
@@ -28370,6 +28526,44 @@
       "duration_ms": 179500,
       "name": "Quero saber",
       "url": "https://open.spotify.com/track/5MKeuNq3s0BAc5XCSGp1Sa"
+    },
+    {
+      "album": {
+        "name": "Querosene",
+        "url": "https://open.spotify.com/album/3trAjkbfE61c56tiwscDzj"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Mano Fler",
+          "url": "https://open.spotify.com/artist/0bjKeFBcvURoPaJiGd0Kfx"
+        },
+        {
+          "name": "NP Vocal",
+          "url": "https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU"
+        },
+        {
+          "name": "Alemar",
+          "url": "https://open.spotify.com/artist/762y4kQE966IVmD9SMT79l"
+        },
+        {
+          "name": "NEKTRASH",
+          "url": "https://open.spotify.com/artist/4jxiBeFywrrmqV7cpC9EWP"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305965,
+      "name": "Querosene",
+      "url": "https://open.spotify.com/track/73G3M7hlRaGg3xiib7UEBU"
     },
     {
       "album": {
@@ -29612,7 +29806,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 229090,
       "name": "Roleta Russa",
       "url": "https://open.spotify.com/track/4WVp9CzPaiTqwBWhFngBCr"
@@ -30642,6 +30836,32 @@
       "duration_ms": 193018,
       "name": "Segundo Ato",
       "url": "https://open.spotify.com/track/5Gk1KldhtgyPljF4xrwboT"
+    },
+    {
+      "album": {
+        "name": "Sei L\u00e1",
+        "url": "https://open.spotify.com/album/0RENWCeNQeexSBoS9rzxjG"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141935,
+      "name": "Sei L\u00e1",
+      "url": "https://open.spotify.com/track/71Vau26vLY4Vl6Z4ajFKW0"
     },
     {
       "album": {
@@ -35040,7 +35260,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 92571,
       "name": "T\u00f4 De Jet",
       "url": "https://open.spotify.com/track/2yFFCIk3ymVe2zZ0sgIEmR"
@@ -35640,6 +35860,28 @@
       "duration_ms": 89174,
       "name": "Vamos Ser Mais",
       "url": "https://open.spotify.com/track/2z3ZAgHlGXTp7CuSXUuFkH"
+    },
+    {
+      "album": {
+        "name": "FREQU\u00caNCIA LUNAR",
+        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170073,
+      "name": "VAMPIRA",
+      "url": "https://open.spotify.com/track/53sU5FYujB8QaiH61RyQ5l"
     },
     {
       "album": {

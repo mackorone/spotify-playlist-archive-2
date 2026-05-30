@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Shoreline Mafia",
+  "description": "Holdin' it down for the westside. Cover: YG",
   "name": "Westside",
   "tracks": [
     {
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 198400,
       "name": "ALREADY MINE",
       "url": "https://open.spotify.com/track/3r0z0osqa5540ESSK3xQrq"
@@ -2350,7 +2350,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 156000,
       "name": "AYE",
       "url": "https://open.spotify.com/track/1pv2Yw2RN9ET9GZFFaHIWL"
@@ -3440,7 +3440,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 212232,
       "name": "Bed Rest",
       "url": "https://open.spotify.com/track/3hzPdQzoswzPhbHX4bHgyP"
@@ -7515,6 +7515,32 @@
     },
     {
       "album": {
+        "name": "Norfside Story",
+        "url": "https://open.spotify.com/album/7zmQo3o4kpPhAAqcodbuM9"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Joe Moses",
+          "url": "https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113100,
+      "name": "Damu Ridaz",
+      "url": "https://open.spotify.com/track/4zU02EL4GYgRqp76sCwe60"
+    },
+    {
+      "album": {
         "name": "Dance With The Devil",
         "url": "https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo"
       },
@@ -9241,6 +9267,24 @@
     },
     {
       "album": {
+        "name": "DYW Dance",
+        "url": "https://open.spotify.com/album/4nSynxQQCS2otSRwXXrL10"
+      },
+      "artists": [
+        {
+          "name": "Sunny 6700",
+          "url": "https://open.spotify.com/artist/6evGuUuo9B1Fz5oHrUteKn"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130262,
+      "name": "DYW Dance",
+      "url": "https://open.spotify.com/track/3KOZ6ItiRYiojF0nRosom0"
+    },
+    {
+      "album": {
         "name": "SAM'S CLUB",
         "url": "https://open.spotify.com/album/50OBECtPBbwI9OGlg7vCHh"
       },
@@ -9558,6 +9602,36 @@
       "duration_ms": 218111,
       "name": "Ego Maniacs",
       "url": "https://open.spotify.com/track/55qnnjyxq5LuXq6WyZd9Er"
+    },
+    {
+      "album": {
+        "name": "If 16 Was A Letter",
+        "url": "https://open.spotify.com/album/0vJ469doozl6VbkUoHzObY"
+      },
+      "artists": [
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        },
+        {
+          "name": "Juice Lee",
+          "url": "https://open.spotify.com/artist/6VNSOx9WWlhU1KUtATEFg2"
+        },
+        {
+          "name": "SieteNameKeek",
+          "url": "https://open.spotify.com/artist/5J0I4id11x4ZN4R6xjtsTK"
+        },
+        {
+          "name": "Kt Foreign",
+          "url": "https://open.spotify.com/artist/5cArDHkqduJNS4bIuR1mnU"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200664,
+      "name": "Ehhh pt.2",
+      "url": "https://open.spotify.com/track/5ioEIdDl9xyzjsHBjYcGWc"
     },
     {
       "album": {
@@ -11940,6 +12014,28 @@
       "duration_ms": 169411,
       "name": "Games (feat. 03 Greedo & Bino Rideaux)",
       "url": "https://open.spotify.com/track/3CyMDd2MLUwAa0nQoScVYC"
+    },
+    {
+      "album": {
+        "name": "GANG BIZNESS feat paygotti",
+        "url": "https://open.spotify.com/album/2ZhRsUqboIjLWBSF14fnMH"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "PayGotti",
+          "url": "https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167177,
+      "name": "GANG BIZNESS feat paygotti",
+      "url": "https://open.spotify.com/track/7MBxU6dqMPl4LAC7XacEkv"
     },
     {
       "album": {
@@ -17148,7 +17244,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 150144,
       "name": "KNOCKA",
       "url": "https://open.spotify.com/track/4ULnpJdMqKvD2B60PO6fz9"
@@ -18476,7 +18572,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 156444,
       "name": "Living Too Fast",
       "url": "https://open.spotify.com/track/7thAwwD9QsymtOrmCWSNdr"
@@ -19366,7 +19462,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 164757,
       "name": "Married to the Game",
       "url": "https://open.spotify.com/track/6VFkxVv1wJ0UYvGuR0mQjU"
@@ -24904,7 +25000,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 153212,
       "name": "Precious",
       "url": "https://open.spotify.com/track/44hxcfEzWXQTeeCxBJ95DE"
@@ -27101,6 +27197,24 @@
     },
     {
       "album": {
+        "name": "She",
+        "url": "https://open.spotify.com/album/3YW90uN6f0rRDhEE29fdL7"
+      },
+      "artists": [
+        {
+          "name": "Haiti Babii",
+          "url": "https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158418,
+      "name": "She",
+      "url": "https://open.spotify.com/track/2wy9CWZaIVCCOwXkd4boBm"
+    },
+    {
+      "album": {
         "name": "webkam",
         "url": "https://open.spotify.com/album/0owwtB8ettfMbUgvOpGjqx"
       },
@@ -27130,7 +27244,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 102922,
       "name": "She A Freak Interlude",
       "url": "https://open.spotify.com/track/404H3p8Vbw34Eo6U64U5E2"
@@ -30214,7 +30328,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 132244,
       "name": "TALK LIKE THIS",
       "url": "https://open.spotify.com/track/6GiyYwhB1nFxXjx2vsYISo"
@@ -31614,6 +31728,24 @@
       "duration_ms": 149487,
       "name": "THUGGIN NOT CLUBBIN",
       "url": "https://open.spotify.com/track/5XKykbx4PClLewzOvlb2JX"
+    },
+    {
+      "album": {
+        "name": "Time Is Money",
+        "url": "https://open.spotify.com/album/2Xi56Mf9U5b0mUdwL3oBpQ"
+      },
+      "artists": [
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146373,
+      "name": "Time Is Money",
+      "url": "https://open.spotify.com/track/6AsmybAFQlHLaweN82xKFU"
     },
     {
       "album": {
@@ -33581,6 +33713,28 @@
     },
     {
       "album": {
+        "name": "Bling Bling Boy 2",
+        "url": "https://open.spotify.com/album/6yPqHvk8tXGS8MXEQCslO6"
+      },
+      "artists": [
+        {
+          "name": "R3 DA Chilliman",
+          "url": "https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121183,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/4lSUGB0KYqTu7JpyNWTLtG"
+    },
+    {
+      "album": {
         "name": "What It Cost Us",
         "url": "https://open.spotify.com/album/6EhrSym1tjiG4McUe78jJW"
       },
@@ -34978,6 +35132,36 @@
       "duration_ms": 187810,
       "name": "YOU READY?!",
       "url": "https://open.spotify.com/track/72qmdZgY95em4rT5nGZV3F"
+    },
+    {
+      "album": {
+        "name": "You See What We On",
+        "url": "https://open.spotify.com/album/5Oxu7KLIM4Y797UzdkCUDL"
+      },
+      "artists": [
+        {
+          "name": "JasonMartin",
+          "url": "https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "John Mackk",
+          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205011,
+      "name": "You See What We On",
+      "url": "https://open.spotify.com/track/4bz9cqkDPA4RpfBuX9LrPa"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Bente
 
-1,339 songs - 2 day 15 hr 53 min
+1,339 songs - 2 day 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [23](https://open.spotify.com/track/0z6xrWWeOlsxCwfvDbTuE0) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [23](https://open.spotify.com/album/16H5lY5PLYapy2BXLRQae2) | 2:50 | 2023-11-02 | 2024-03-29 |
 | [25](https://open.spotify.com/track/6PBphKhLXuAMBW6yWUNXby) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [25](https://open.spotify.com/album/3k8KS3JIhc7mdrtX46JbFd) | 2:11 | 2025-01-06 | 2025-03-14 |
 | [25 Nachten \(Wonderful Days\)](https://open.spotify.com/track/3vc8nuTPR0eNE06rnywF8V) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [25 Nachten \(Wonderful Days\)](https://open.spotify.com/album/3VOCrc5wbid37e9Yj4B2RO) | 2:19 | 2023-11-16 | 2024-03-15 |
-| [3.2.1.](https://open.spotify.com/track/43rUu8SDkrSuyNiq7NspwF) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [3.2.1.](https://open.spotify.com/album/5QXgmXHkvv6q2LHVwD4WQQ) | 3:20 | 2026-05-28 |  |
+| [3.2.1.](https://open.spotify.com/track/43rUu8SDkrSuyNiq7NspwF) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [3.2.1.](https://open.spotify.com/album/5QXgmXHkvv6q2LHVwD4WQQ) | 3:21 | 2026-05-28 |  |
 | [3D](https://open.spotify.com/track/08FAGebjL6tfLPGygWMJv2) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [3D](https://open.spotify.com/album/22JWsrUkiVvOAeaPCm5rPT) | 2:43 | 2025-09-18 | 2025-12-05 |
 | [4 Seizoenen](https://open.spotify.com/track/5uhf2Z3BYGaYD98MtlshaU) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 1:35 | 2026-02-26 | 2026-05-08 |
 | [5 tot 9](https://open.spotify.com/track/4FI7zyKGbFnbbwd3q5HnaH) | [Muda](https://open.spotify.com/artist/7m6avB4kU97EWWo2W7vrIm) | [5 tot 9](https://open.spotify.com/album/3aD8IP06IwdmShiEPyYo7R) | 2:29 | 2025-06-19 | 2025-06-21 |
@@ -933,6 +933,7 @@
 | [Op Zoek Naar Mezelf](https://open.spotify.com/track/1SsyC8Zfd7fwDcqviVa9OX) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Op Zoek Naar Mezelf](https://open.spotify.com/album/3q5aMpW5W8h5ddLiuhU9mo) | 2:54 | 2024-09-19 | 2024-11-15 |
 | [Opfok](https://open.spotify.com/track/0a7B1hi1BaLLkgXyZak3n7) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Opfok](https://open.spotify.com/album/2vrh59pa7DoAilw5DyAwju) | 2:26 | 2023-10-05 | 2024-01-19 |
 | [Opzij](https://open.spotify.com/track/1yoDJQ04wFrCBw9rkVgtXp) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ) | [Opzij](https://open.spotify.com/album/1PTTVXcXVkjmFovny2Is4C) | 2:22 | 2023-08-31 | 2023-10-06 |
+| [Oude Liefde Roest Niet](https://open.spotify.com/track/5TIZfbC0VLJXwLnAa6NApJ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Binnenspiegel](https://open.spotify.com/album/5GvmLsZrOqYqGD2Hz0eGyl) | 3:05 | 2026-05-28 |  |
 | [Outside](https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Outside](https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr) | 2:47 | 2023-05-11 | 2023-09-01 |
 | [over of niet?](https://open.spotify.com/track/5NjNvHLQHT2yP4kDBOBel1) | [Laura Sjin](https://open.spotify.com/artist/6bf1bbhtxECuliHnaTAJ8L) | [over of niet?](https://open.spotify.com/album/4Qg5ZK7clQbv75bn8DNQc6) | 3:16 | 2026-05-14 | 2026-05-22 |
 | [Overdosis](https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Overdosis](https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL) | 2:30 | 2025-08-14 | 2025-11-14 |
@@ -1117,7 +1118,6 @@
 | [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 | 2023-09-22 |
 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 | 2025-09-30 | 2025-12-19 |
 | [Toxisch](https://open.spotify.com/track/3O4Uzb4REHZFaywzeWB65g) | [Maxime](https://open.spotify.com/artist/67ijcDBwFthXo6WRpEl6kR) | [Toxisch](https://open.spotify.com/album/38nHPtWUaI6m5E52I8CDFC) | 2:42 | 2025-05-29 | 2025-07-11 |
-| [Track 2](https://open.spotify.com/track/5TIZfbC0VLJXwLnAa6NApJ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Binnenspiegel](https://open.spotify.com/album/5GvmLsZrOqYqGD2Hz0eGyl) | 0:00 | 2026-05-28 |  |
 | [Tranen In De Giftshop](https://open.spotify.com/track/6TOOdDpUpkx30Om2AGAbiF) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Tranen In De Giftshop](https://open.spotify.com/album/1OQVA5LvlqTTebTLRHub9f) | 3:06 | 2026-05-21 |  |
 | [Tranen Om Te Lachen](https://open.spotify.com/track/0gdQfQM4aROhIG7YRt2yKr) | [Van Den Hil](https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl) | [Tranen Om Te Lachen](https://open.spotify.com/album/5R02cPbl64j93pxizcmrTp) | 2:44 | 2023-03-16 | 2023-04-21 |
 | [Tranen Op Papier](https://open.spotify.com/track/3iphWgm8BldXfWkj7q6b0Y) | [Phillis](https://open.spotify.com/artist/0N9WidPPwB2dGm2q8umfFp) | [Tranen Op Papier](https://open.spotify.com/album/2Ig57EddQLFhqGTAx656F2) | 2:48 | 2023-09-14 | 2023-10-06 |

@@ -4,7 +4,7 @@
 
 > Grab a drink and let us help you see off the evening.
 
-105 songs - 6 hr 30 min
+106 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 | 2024-12-17 |  |
 | [Found You](https://open.spotify.com/track/7ym383h5MQfBNVLG92d5fh) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Found You](https://open.spotify.com/album/6GCdFbDYs475UfiHP4rnKX) | 3:20 | 2024-12-17 |  |
 | [Friend Of A Friend](https://open.spotify.com/track/3Mn22PKkfTR2CjaRt4ziNj) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Friend Of A Friend](https://open.spotify.com/album/7w5rD7XcQufZshgBmTjDIJ) | 4:35 | 2024-12-17 |  |
+| [Golden](https://open.spotify.com/track/03UZ8fbo1heGpeeVI380lY) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Golden](https://open.spotify.com/album/0hNccp1ktroLsmDFPvUh0l) | 3:09 | 2024-12-17 |  |
 | [Gone](https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm) | [Jasmine Oakley](https://open.spotify.com/artist/4PmfCgJPpLBtDbi5PY1ytL) | [Gone](https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K) | 3:46 | 2024-12-17 |  |
 | [Got To Be Good](https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Got To Be Good](https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e) | 2:39 | 2024-12-17 |  |
 | [Hate To Ride Alone](https://open.spotify.com/track/4EvYSLMS5RqdTysytMsXON) | [Syrup](https://open.spotify.com/artist/3F4JEfklypM9dhsSZmXJGc), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0), [C.Tappin](https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Hate To Ride Alone](https://open.spotify.com/album/2WNaU7iGyj2H3uwSbTA1kf) | 2:49 | 2024-12-17 |  |
@@ -65,7 +66,7 @@
 | [Malibu Jane](https://open.spotify.com/track/4NbOXgHL0Gu5ga0qD6z2WN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:38 | 2024-12-17 |  |
 | [meanie](https://open.spotify.com/track/48Feq4hOZdIMhVkIGkzNQI) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [Just a Girl \(stripped\)](https://open.spotify.com/album/2tjb8brG7VnVrR3kW1QxYl) | 4:08 | 2024-12-17 |  |
 | [Midnight](https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 5:14 | 2024-12-17 |  |
-| [Midnight Mischief \- Tom Misch Remix](https://open.spotify.com/track/3O5JIwSON3KBaoyMUsjLjn) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Midnight Mischief \(Tom Misch Remix\)](https://open.spotify.com/album/3ssz8pi55szsiCBRpJr4xV) | 4:26 | 2024-12-17 |  |
+| [Midnight Mischief \- Tom Misch Remix](https://open.spotify.com/track/3O5JIwSON3KBaoyMUsjLjn) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Midnight Mischief \(Tom Misch Remix\)](https://open.spotify.com/album/3ssz8pi55szsiCBRpJr4xV) | 4:26 | 2024-12-17 | 2026-05-30 |
 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 | 2024-12-17 |  |
 | [Mountains](https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Mountains](https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi) | 2:37 | 2024-12-17 |  |
 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 | 2024-12-17 |  |

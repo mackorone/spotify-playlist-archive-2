@@ -1,6 +1,6 @@
 {
   "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
-  "num_followers": 1542325,
+  "num_followers": 1542532,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,26 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
+        "name": "Summer Of 69",
+        "url": "https://open.spotify.com/album/0v24Fauk99WWgqdeu8ishw"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Topmodelz",
+          "url": "https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP"
+        }
+      ],
+      "duration_ms": 191472,
+      "name": "Summer Of 69",
+      "url": "https://open.spotify.com/track/07xYzmiyu0RV0viHgR1yWQ"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
         "name": "I Like To Move It",
         "url": "https://open.spotify.com/album/5S4jmxHYCgA6hqaONRvzqV"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 138000,
       "name": "I Like To Move It",
       "url": "https://open.spotify.com/track/11mihFv2UTOzdDD9DrStYu"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
-        "name": "Summer Of 69",
-        "url": "https://open.spotify.com/album/0v24Fauk99WWgqdeu8ishw"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Topmodelz",
-          "url": "https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP"
-        }
-      ],
-      "duration_ms": 191472,
-      "name": "Summer Of 69",
-      "url": "https://open.spotify.com/track/07xYzmiyu0RV0viHgR1yWQ"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -919,8 +919,8 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
-        "name": "Rave Mozart",
-        "url": "https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8"
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
       },
       "artists": [
         {
@@ -928,13 +928,17 @@
           "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         },
         {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Special D.",
+          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
         }
       ],
-      "duration_ms": 126000,
-      "name": "Rave Mozart",
-      "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
+      "duration_ms": 161589,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -1031,8 +1035,8 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
-        "name": "Come With Me",
-        "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
+        "name": "Rave Mozart",
+        "url": "https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8"
       },
       "artists": [
         {
@@ -1040,17 +1044,13 @@
           "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         },
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Special D.",
-          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
         }
       ],
-      "duration_ms": 161589,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
+      "duration_ms": 126000,
+      "name": "Rave Mozart",
+      "url": "https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/4dqHl8fKO6P425shFTdXQP"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
+        }
+      ],
+      "duration_ms": 120937,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/0eJcHvpws3PMadlPdvdWMN"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
         "name": "Brace For Impact",
         "url": "https://open.spotify.com/album/181ZDba8AtrqMPlB9UbcQi"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 116250,
       "name": "DON'T SLEEP",
       "url": "https://open.spotify.com/track/2ftrEmzMbleD2rMmAAI6vh"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/4dqHl8fKO6P425shFTdXQP"
-      },
-      "artists": [
-        {
-          "name": "The Saints",
-          "url": "https://open.spotify.com/artist/0CE9b5MpyYgJNxa2bNkOMc"
-        }
-      ],
-      "duration_ms": 120937,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/0eJcHvpws3PMadlPdvdWMN"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
-        "name": "Never Coming Down",
-        "url": "https://open.spotify.com/album/7ABAY9YdESYg7WWYkPwzuH"
+        "name": "Burning Down",
+        "url": "https://open.spotify.com/album/4XQenqlElkoMggcTGHj7VT"
       },
       "artists": [
         {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
         }
       ],
-      "duration_ms": 183889,
-      "name": "Never Coming Down",
-      "url": "https://open.spotify.com/track/4SHkx6ZqqWYFYFJHemDLKK"
+      "duration_ms": 199941,
+      "name": "Burning Down",
+      "url": "https://open.spotify.com/track/1Es2uLFDtB3xHrjv7V2H9J"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
-        "name": "Burning Down",
-        "url": "https://open.spotify.com/album/4XQenqlElkoMggcTGHj7VT"
+        "name": "Never Coming Down",
+        "url": "https://open.spotify.com/album/7ABAY9YdESYg7WWYkPwzuH"
       },
       "artists": [
         {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
         }
       ],
-      "duration_ms": 199941,
-      "name": "Burning Down",
-      "url": "https://open.spotify.com/track/1Es2uLFDtB3xHrjv7V2H9J"
+      "duration_ms": 183889,
+      "name": "Never Coming Down",
+      "url": "https://open.spotify.com/track/4SHkx6ZqqWYFYFJHemDLKK"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -1779,6 +1779,30 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
+        "name": "Ruinen Dieser Welt",
+        "url": "https://open.spotify.com/album/2JPl1Vfq5p6MtZ3re2QD6J"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
+        }
+      ],
+      "duration_ms": 190451,
+      "name": "Ruinen Dieser Welt",
+      "url": "https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
         "name": "PULL THE TRIGGER",
         "url": "https://open.spotify.com/album/3Tbwxw3wJTu1z2i5OjpZL8"
       },
@@ -1803,30 +1827,6 @@
       "duration_ms": 161634,
       "name": "PULL THE TRIGGER",
       "url": "https://open.spotify.com/track/0X27H1lv1ams6VqJEip8LW"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
-        "name": "Ruinen Dieser Welt",
-        "url": "https://open.spotify.com/album/2JPl1Vfq5p6MtZ3re2QD6J"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "2 Engel & Charlie",
-          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
-        }
-      ],
-      "duration_ms": 190451,
-      "name": "Ruinen Dieser Welt",
-      "url": "https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -1871,6 +1871,26 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
+        "name": "FEELIN' HIGH",
+        "url": "https://open.spotify.com/album/54hbMGZhiGSoP7IwCoJN3U"
+      },
+      "artists": [
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        },
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "FEELIN' HIGH",
+      "url": "https://open.spotify.com/track/5WeFchK0FRpzVv9Z3c6ulH"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/3B7aLTKz7ZNanHxu6K7cta"
       },
@@ -1911,26 +1931,6 @@
       "duration_ms": 143264,
       "name": "HEAR THIZ MF",
       "url": "https://open.spotify.com/track/6694BDIOC1J5OgyMWVqK2a"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
-        "name": "FEELIN' HIGH",
-        "url": "https://open.spotify.com/album/54hbMGZhiGSoP7IwCoJN3U"
-      },
-      "artists": [
-        {
-          "name": "Krowdexx",
-          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
-        },
-        {
-          "name": "Mish",
-          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "FEELIN' HIGH",
-      "url": "https://open.spotify.com/track/5WeFchK0FRpzVv9Z3c6ulH"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
+        "name": "Activation",
+        "url": "https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "duration_ms": 175874,
+      "name": "Activation",
+      "url": "https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
         "name": "Somebody That I Used To Know",
         "url": "https://open.spotify.com/album/73FFBX8d81xHVNwAINwfoy"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 242345,
       "name": "Somebody That I Used To Know",
       "url": "https://open.spotify.com/track/5YPl1zxprbE2ZaHQqxJ5wZ"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
-        "name": "Activation",
-        "url": "https://open.spotify.com/album/0EyjSmdFYi2h95rE95dWES"
-      },
-      "artists": [
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        }
-      ],
-      "duration_ms": 175874,
-      "name": "Activation",
-      "url": "https://open.spotify.com/track/6YHtcC9r1TQ4NDEVqu84KM"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "duration_ms": 174967,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0zE1ElkEoAyehEb2SH0AO4"
       },
@@ -2135,22 +2151,6 @@
       "duration_ms": 156003,
       "name": "Check This Out",
       "url": "https://open.spotify.com/track/56A3AtbRJMMUu7o6N9qWIn"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/5PacTGJNhF766ROoqHqPPn"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 174967,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/1rT7b6aDpU8jERHwOoRbi4"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -2499,6 +2499,22 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/2beJYLvWyLWbt6RNM0ztzz"
       },
@@ -2523,22 +2539,6 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/7q4GO1xwFZDt9GdgmvSq6S"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/5DYMuWtQyr1J9Af0SMrDz8"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
         "name": "Another Love",
         "url": "https://open.spotify.com/album/2bfcMjTP3vG8cI0cLBF7YA"
       },
@@ -2555,22 +2555,6 @@
       "duration_ms": 314348,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/66n4fD7vHrJ6jTOqexH8Ny"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
-        "name": "Let Yourself Go",
-        "url": "https://open.spotify.com/album/7EjUdKN7oY1SA19TZFw76S"
-      },
-      "artists": [
-        {
-          "name": "DJ Isaac",
-          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
-        }
-      ],
-      "duration_ms": 173516,
-      "name": "Let Yourself Go",
-      "url": "https://open.spotify.com/track/63YzIFn5l8c9z0WU3KVihN"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -2611,6 +2595,22 @@
       "duration_ms": 144750,
       "name": "Up, Down, Left, Right",
       "url": "https://open.spotify.com/track/2fUWH5VjaLgfi6yAPtpKO7"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
+        "name": "Let Yourself Go",
+        "url": "https://open.spotify.com/album/7EjUdKN7oY1SA19TZFw76S"
+      },
+      "artists": [
+        {
+          "name": "DJ Isaac",
+          "url": "https://open.spotify.com/artist/2FmgW6Jee0JQKtb6EnBWCq"
+        }
+      ],
+      "duration_ms": 173516,
+      "name": "Let Yourself Go",
+      "url": "https://open.spotify.com/track/63YzIFn5l8c9z0WU3KVihN"
     },
     {
       "added_at": "2026-05-18 09:51:31",
@@ -2815,6 +2815,26 @@
     {
       "added_at": "2026-05-18 09:51:31",
       "album": {
+        "name": "Rachel's Song",
+        "url": "https://open.spotify.com/album/5rt6PRpDeYAEs9gaKxFCa9"
+      },
+      "artists": [
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        },
+        {
+          "name": "CODA",
+          "url": "https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Rachel's Song",
+      "url": "https://open.spotify.com/track/06IiQuoBqM8QfELFbSMyzd"
+    },
+    {
+      "added_at": "2026-05-18 09:51:31",
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/6WbTZEvD3EH9Av7d3sLPTW"
       },
@@ -2835,26 +2855,6 @@
       "duration_ms": 227254,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/7dh9svKRrcDuepZPLwYi4F"
-    },
-    {
-      "added_at": "2026-05-18 09:51:31",
-      "album": {
-        "name": "Rachel's Song",
-        "url": "https://open.spotify.com/album/5rt6PRpDeYAEs9gaKxFCa9"
-      },
-      "artists": [
-        {
-          "name": "Ecstatic",
-          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
-        },
-        {
-          "name": "CODA",
-          "url": "https://open.spotify.com/artist/1KT6ReUJlpsbGOptScmzDP"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Rachel's Song",
-      "url": "https://open.spotify.com/track/06IiQuoBqM8QfELFbSMyzd"
     },
     {
       "added_at": "2026-05-18 09:51:31",

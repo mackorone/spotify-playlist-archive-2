@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "GIANT",
+        "url": "https://open.spotify.com/album/7Kqc8q1t1XsdblGaOdP6h3"
+      },
+      "artists": [
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "1000 Hugs",
+      "url": "https://open.spotify.com/track/6hal8MChrGMEpJuOaQN17D"
+    },
+    {
+      "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
       },
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 196517,
       "name": "Before I Let You Go",
       "url": "https://open.spotify.com/track/7Ago4ajJ3JPaycqhIx8Pnj"
@@ -2218,7 +2236,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 124653,
       "name": "Bounty",
       "url": "https://open.spotify.com/track/4UttTLHuTBDvTB7hfWoofk"
@@ -4942,7 +4960,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 289849,
       "name": "Fool For You",
       "url": "https://open.spotify.com/track/5qkD55wolSZy4qILVbleZL"
@@ -5273,6 +5291,32 @@
     },
     {
       "album": {
+        "name": "Game Time (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206166,
+      "name": "Game Time",
+      "url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr"
+    },
+    {
+      "album": {
         "name": "Games Women Play",
         "url": "https://open.spotify.com/album/5i8tr5l6kLG0UQNqt4Ry3K"
       },
@@ -5438,6 +5482,24 @@
       "duration_ms": 189061,
       "name": "Get Yo Boy (with 21 Savage)",
       "url": "https://open.spotify.com/track/4PIVjezxyuvwwH4qyHQhu0"
+    },
+    {
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241880,
+      "name": "Gimme Dat",
+      "url": "https://open.spotify.com/track/3o8j2ArxgKqL7ldLunBFWS"
     },
     {
       "album": {
@@ -6498,6 +6560,28 @@
       "duration_ms": 121075,
       "name": "hope u don't mind",
       "url": "https://open.spotify.com/track/6H1b1BiyS4Qoo15VhVoKsu"
+    },
+    {
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "Hostage (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
     },
     {
       "album": {
@@ -10748,7 +10832,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 158181,
       "name": "not a romantic",
       "url": "https://open.spotify.com/track/7f3t9RSEjvPHRqj82B9lkj"
@@ -10836,6 +10920,28 @@
       "duration_ms": 156933,
       "name": "Ocean Sounds",
       "url": "https://open.spotify.com/track/0iZNw4AkFwcglAsvaTLfmK"
+    },
+    {
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238573,
+      "name": "Okayyy (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/76IJjtvNrwN4yjRn2YMt2w"
     },
     {
       "album": {
@@ -12906,7 +13012,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 194716,
       "name": "Say Please (Don't Leave Me Lonely) (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/3gq1jrwHUDFN0VyQu2yvrQ"

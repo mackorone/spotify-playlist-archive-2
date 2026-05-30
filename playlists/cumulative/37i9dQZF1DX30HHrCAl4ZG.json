@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Iceage",
+  "description": "Explore all things indie rock right now. Featuring music from feeble little horse",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -9963,6 +9963,24 @@
     },
     {
       "album": {
+        "name": "bitknot",
+        "url": "https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212949,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3"
+    },
+    {
+      "album": {
         "name": "Disappointment",
         "url": "https://open.spotify.com/album/3vdEPdCmjkdxlprWNkgRsZ"
       },
@@ -10494,6 +10512,24 @@
       "duration_ms": 237645,
       "name": "Don\u2019t Let Them Tell You (It\u2019s Fair)",
       "url": "https://open.spotify.com/track/1ij91ZruNl7xGgWE0ZRcBb"
+    },
+    {
+      "album": {
+        "name": "Don't Lie",
+        "url": "https://open.spotify.com/album/1UKOVuWSsajyHrG1EwtZZI"
+      },
+      "artists": [
+        {
+          "name": "Dogpark",
+          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178650,
+      "name": "Don\u2019t Lie",
+      "url": "https://open.spotify.com/track/4cEC3ENYWqhXjOtmvCSxij"
     },
     {
       "album": {
@@ -24767,6 +24803,24 @@
     },
     {
       "album": {
+        "name": "For Love of Grace & the Hereafter",
+        "url": "https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218909,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX"
+    },
+    {
+      "album": {
         "name": "No Front Teeth",
         "url": "https://open.spotify.com/album/4faIj68HrgoUfU3YHdZ4PI"
       },
@@ -34938,7 +34992,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 195632,
       "name": "The Weak",
       "url": "https://open.spotify.com/track/5VynIbPZQP6UR2JTddLKqw"

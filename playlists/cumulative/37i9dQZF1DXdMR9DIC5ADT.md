@@ -2,9 +2,9 @@
 
 ### [The WISHLIST](https://open.spotify.com/playlist/37i9dQZF1DXdMR9DIC5ADT)
 
-> 来日希望！ライブで観たい注目の海外アーティストを特集。cover: Charli xcx
+> 来日希望！ライブで観たい注目の海外アーティストを特集。cover: WILLOW
 
-810 songs - 1 day 21 hr 1 min
+811 songs - 1 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Bloom Baby Bloom](https://open.spotify.com/track/3QJtQCtKVX5rLNYEsy4CWA) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/5nOndkG5PT7mDiD0o6fte8) | 3:47 | 2025-05-16 | 2025-07-11 |
 | [Blue Lotus](https://open.spotify.com/track/0XuXhobUbtK3i96TouI4m7) | [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Patterns](https://open.spotify.com/album/03hsJO3aPFCbKhjTNUAlE0) | 5:06 | 2025-02-21 | 2025-03-14 |
 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-17 | 2025-06-06 |
-| [Bodyfeeling](https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 4:08 | 2026-03-19 |  |
+| [Bodyfeeling](https://open.spotify.com/track/1hXtXrkP0n04Cx5DUyQNdX) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 4:08 | 2026-03-19 | 2026-05-30 |
 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 | 2023-05-11 | 2023-05-19 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-06 | 2025-05-23 |
 | [Boy Scout](https://open.spotify.com/track/0rJltghxX2Ene77FGVYxdL) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Boy Scout](https://open.spotify.com/album/5IyUVUACxYS7DE1URy80jv) | 3:20 | 2023-09-07 | 2023-09-29 |
@@ -685,6 +685,7 @@
 | [symptom of life](https://open.spotify.com/track/63SFAhNnOER587HfPOq4cO) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [symptom of life](https://open.spotify.com/album/7geRIwdu4x2plurupRu4GA) | 3:09 | 2024-03-14 | 2024-04-26 |
 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-05-16 | 2024-06-14 |
 | [Take You Down](https://open.spotify.com/track/0sbjvSYXqzLiMPID9FPYjL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 2:39 | 2025-02-13 | 2025-02-28 |
+| [Talk On The Hill](https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Talk On The Hill](https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y) | 3:27 | 2026-05-29 |  |
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-12 | 2024-11-07 |
 | [Tallinn](https://open.spotify.com/track/3jXXnHujoTjC4lnr3jUY1w) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Tallinn](https://open.spotify.com/album/58BG7qaTJWEaNvnoCDCwgp) | 2:42 | 2025-02-27 | 2025-03-07 |
 | [tears](https://open.spotify.com/track/3VJGO89ULwVFAe6q0sKn6R) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [tears](https://open.spotify.com/album/4NCgay1BBCiIn6kl3F1S0P) | 2:07 | 2024-06-13 | 2024-09-06 |

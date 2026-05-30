@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,554,071 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,554,209 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 15 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 |
 | 16 | [Dreamer](https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Down To Earth](https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM) | 4:44 |
 | 17 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 |
-| 18 | [Bother](https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Stone Sour](https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn) | 4:00 |
-| 19 | [Snuff](https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:36 |
+| 18 | [Snuff](https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:36 |
+| 19 | [Bother](https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Stone Sour](https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn) | 4:00 |
 | 20 | [The Sound of Silence](https://open.spotify.com/track/0eZBeB2xFIS65jQHerispi) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized \(Deluxe Edition\)](https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS) | 4:08 |
 | 21 | [A Tout Le Monde \- Remastered 2004](https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:22 |
 | 22 | [Wrong Side of Heaven](https://open.spotify.com/track/11Ojp7JniVvwd0gmgvyKkd) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 4:31 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 32 | [Blackbird](https://open.spotify.com/track/2o4AknH1hXnleCRW2rH45w) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/0Fk4lWAADmFMmuW6jp6xyE) | 7:58 |
 | 33 | [Voice of the Soul](https://open.spotify.com/track/69Yia3qCLw6N9U80WhLwLn) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [The Sound of Perseverance \- Reissue](https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB) | 3:43 |
 | 34 | [Life Eternal](https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 3:27 |
-| 35 | [Another Day](https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 4:23 |
-| 36 | [Right Here](https://open.spotify.com/track/36IkR2i4HaV3SRsSHzje6v) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Chapter V](https://open.spotify.com/album/4hW0Ey4Me41hKcmbygqhIL) | 4:11 |
+| 35 | [Right Here](https://open.spotify.com/track/36IkR2i4HaV3SRsSHzje6v) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Chapter V](https://open.spotify.com/album/4hW0Ey4Me41hKcmbygqhIL) | 4:11 |
+| 36 | [Another Day](https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 4:23 |
 | 37 | [Gone Away](https://open.spotify.com/track/73P5wYuZ1bsz0ZjsZiaSw2) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 4:35 |
 | 38 | [Return to Serenity](https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 6:30 |
 | 39 | [I Won't Forget You \- 2003 Remaster](https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Look What The Cat Dragged In \- 20th Anniversary Edition](https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe) | 3:34 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 79 | [Don't Cry \(Original\)](https://open.spotify.com/track/0ZEhlT9v8CdOKu55zhYGv9) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h) | 4:44 |
 | 80 | [Home Sweet Home](https://open.spotify.com/track/4zXvB4MoQD8onk0NCZbeHG) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre of Pain](https://open.spotify.com/album/18fYN6Hlig5t7ObBfQYUPe) | 4:00 |
 | 81 | [Tears of the Dragon \- 2001 Remastered Version](https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso \(2001 Remastered Version\)](https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8) | 6:24 |
-| 82 | [Send Me An Angel](https://open.spotify.com/track/4rBgm0zIGwwAhuUibPehy2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96) | 4:33 |
-| 83 | [Love Hurts \- Single Edit](https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair of the Dog](https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP) | 3:52 |
+| 82 | [Love Hurts \- Single Edit](https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair of the Dog](https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP) | 3:52 |
+| 83 | [Send Me An Angel](https://open.spotify.com/track/4rBgm0zIGwwAhuUibPehy2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96) | 4:33 |
 | 84 | [When A Blind Man Cries \- Remastered](https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 3:29 |
 | 85 | [Cryin'](https://open.spotify.com/track/3Yls95V4qCzVfR20gr8cOW) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip \(Reissue \- Remaster\)](https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq) | 5:08 |
 | 86 | [Bed Of Roses](https://open.spotify.com/track/5Ac8sOEk91RTzD06ViNzqf) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith \(Remastered\)](https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr) | 6:34 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 94 | [Wind Of Change](https://open.spotify.com/track/4YJ4n7DsZhR5hrnsMfn6zV) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Deadly Sting: The Mercury Years](https://open.spotify.com/album/6aiwtadb1HB5ImfuFgX4r7) | 5:13 |
 | 95 | [Changes](https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4 \(2009 Remastered Version\)](https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh) | 4:42 |
 | 96 | [OHNE DICH](https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [REISE, REISE](https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4) | 4:31 |
-| 97 | [Forever and One \(Neverland\)](https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [The Time of the Oath](https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4) | 3:54 |
-| 98 | [Fly To The Angels](https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter](https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL) | 4:32 |
-| 99 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
+| 97 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
+| 98 | [Forever and One \(Neverland\)](https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [The Time of the Oath](https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4) | 3:54 |
+| 99 | [Fly To The Angels](https://open.spotify.com/track/6e165g8fp2WDCBwF1zxLMh) | [Slaughter](https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3) | [Mass Slaughter](https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL) | 4:32 |
 | 100 | [Without You](https://open.spotify.com/track/2zjvTdpUoMpxNIY6e7jKOi) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood 20th Anniversary \(Expanded Version\)](https://open.spotify.com/album/2roIODnunU2CI0QWY3T8H9) | 4:30 |
 
 Snapshot ID: `AAAAAM+deCwUhT19r8htZ2+lfHHArf3e`

@@ -1,12 +1,12 @@
 {
   "description": "This is Ariel Camacho y Los Plebes Del Rancho. The essential tracks, all in one playlist.",
-  "num_followers": 452605,
+  "num_followers": 452629,
   "original_name": "This Is Ariel Camacho y Los Plebes Del Rancho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAAC9uCXP8YK+xKRBOvF4OVTP",
+  "snapshot_id": "aheFgAAAAAC0TAMs/UYNRMZ83VVxVDuh",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enfiestados En Culiacan",
-        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
+        "name": "Ya Lo Super\u00e9",
+        "url": "https://open.spotify.com/album/2otEsiSS1j7PtUwTVamjxH"
       },
       "artists": [
-        {
-          "name": "Banda Culiacancito",
-          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
-        },
         {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 246428,
-      "name": "El Rey De Corazones",
-      "url": "https://open.spotify.com/track/6N11HRZvYMon459IGNv3gF"
+      "duration_ms": 184966,
+      "name": "Ya Lo Super\u00e9",
+      "url": "https://open.spotify.com/track/5gt7vRRuXIG6cYPWmoHBtp"
     },
     {
       "added_at": null,
@@ -567,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Lo Super\u00e9",
-        "url": "https://open.spotify.com/album/2otEsiSS1j7PtUwTVamjxH"
+        "name": "Enfiestados En Culiacan",
+        "url": "https://open.spotify.com/album/1ZeWUxWu0lZTW4q43TeQMW"
       },
       "artists": [
+        {
+          "name": "Banda Culiacancito",
+          "url": "https://open.spotify.com/artist/6pHlsWmX5SSpyeZNsQFS0J"
+        },
         {
           "name": "Ariel Camacho y Los Plebes Del Rancho",
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 184966,
-      "name": "Ya Lo Super\u00e9",
-      "url": "https://open.spotify.com/track/5gt7vRRuXIG6cYPWmoHBtp"
+      "duration_ms": 246428,
+      "name": "El Rey De Corazones",
+      "url": "https://open.spotify.com/track/6N11HRZvYMon459IGNv3gF"
     },
     {
       "added_at": null,

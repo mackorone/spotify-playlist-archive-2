@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,047 likes - 80 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,073 likes - 80 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 70 | [Glória, Honra e Poder](https://open.spotify.com/track/4UcIesX6rkAqrSikVU12tr) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Falando Dele](https://open.spotify.com/album/38jXLFKb9lamBZS4v8JzjU) | 5:09 |
 | 71 | [Louvarei](https://open.spotify.com/track/0vUHDItGEgGhRsVFn0ad7j) | [Vinicius Motta](https://open.spotify.com/artist/5kaiQ3rhWouL5P6BgrIU5Y) | [Te Adorar](https://open.spotify.com/album/53rDqvzsW2NeuMVmnV8vvD) | 3:54 |
 | 72 | [Todos São Iguais \- Ao Vivo](https://open.spotify.com/track/1nvQzQaL7lEOtyGz3W3jgi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [João Alexandre](https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx) | [Todos São Iguais \(Ao Vivo\)](https://open.spotify.com/album/7ejMECw1J8l2h7vv08H1JA) | 4:16 |
-| 73 | [Oh Glória](https://open.spotify.com/track/3XXjak71y3Keeg7KPhpO2A) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Aonde Está Deus?](https://open.spotify.com/album/3CXe90GxZOBmxZidCtkwjY) | 3:59 |
-| 74 | [Dele, Com Ele \- Ao Vivo](https://open.spotify.com/track/7CRUMlW5jTgcyQHTVMISED) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 4:18 |
+| 73 | [Dele, Com Ele \- Ao Vivo](https://open.spotify.com/track/7CRUMlW5jTgcyQHTVMISED) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 4:18 |
+| 74 | [Oh Glória](https://open.spotify.com/track/3XXjak71y3Keeg7KPhpO2A) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Aonde Está Deus?](https://open.spotify.com/album/3CXe90GxZOBmxZidCtkwjY) | 3:59 |
 | 75 | [Santo, Santo, Santo \- Ao Vivo](https://open.spotify.com/track/07mrWfYD6KW61BQMa7Niav) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memóri4s Groove \(Ao Vivo\)](https://open.spotify.com/album/6GAd3DjcN9LYhev1IRCbQ9) | 4:37 |
 | 76 | [Eu Sou](https://open.spotify.com/track/3sEcVLYLPMdP2lOhw9aF47) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares 10 Anos](https://open.spotify.com/album/2UsWM0txt8jjHSUgEAKcuq) | 3:57 |
 | 77 | [Viver O Amor \- Ao Vivo](https://open.spotify.com/track/2jJL6Tj2prWHaXnjLMnLcD) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 3:50 |

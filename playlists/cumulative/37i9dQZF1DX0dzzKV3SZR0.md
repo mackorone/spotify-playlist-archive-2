@@ -4,7 +4,7 @@
 
 > the songs behind all your crushes.
 
-205 songs - 13 hr 26 min
+206 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Cry For You](https://open.spotify.com/track/3RNvMhYFEwpCgPnDGKR5MB) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Diary Of A Mad Band](https://open.spotify.com/album/41pgxrq2gjdSsGnqofrHGj) | 5:00 | 2024-02-14 | 2024-02-23 |
 | [Dangerous \(feat\. Jeremih and PnB Rock\)](https://open.spotify.com/track/3lb5fWSG2p7x8ik8HN9oFR) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:53 | 2023-01-27 | 2023-06-23 |
 | [Darling, I \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2024-10-28 | 2026-02-07 |
+| [Death Row](https://open.spotify.com/track/2txtsVh3MEYgUyemhkgsaY) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 1:34 | 2026-05-29 |  |
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2023-01-27 | 2024-02-23 |
 | [Dilemma](https://open.spotify.com/track/0ARK753YaiJbpLUk7z5yIM) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 4:49 | 2023-01-27 |  |
 | [Distraction](https://open.spotify.com/track/2wSQyp6VzUopSFBinRo1iD) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 3:55 | 2024-01-12 | 2024-02-03 |
@@ -72,7 +73,7 @@
 | [Feenin'](https://open.spotify.com/track/0IyGPlGWkWZubMgC3qdBWz) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Diary Of A Mad Band](https://open.spotify.com/album/41pgxrq2gjdSsGnqofrHGj) | 5:10 | 2024-02-14 | 2024-02-23 |
 | [Fell In Love](https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fell In Love](https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8) | 2:01 | 2023-06-05 | 2023-09-04 |
 | [Find a Way](https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Love Movement](https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2) | 3:23 | 2024-02-02 | 2024-02-11 |
-| [Flight Risqué \(feat\. Freddie Gibbs & SALIMATA\)](https://open.spotify.com/track/49Xxlgn6sP2hi0es0Xcxxn) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Flight Risqué \(feat\. Freddie Gibbs & SALIMATA\)](https://open.spotify.com/album/0lmNPyOnmc93RkhNZaOxDJ) | 2:51 | 2026-04-17 |  |
+| [Flight Risqué \(feat\. Freddie Gibbs & SALIMATA\)](https://open.spotify.com/track/49Xxlgn6sP2hi0es0Xcxxn) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Flight Risqué \(feat\. Freddie Gibbs & SALIMATA\)](https://open.spotify.com/album/0lmNPyOnmc93RkhNZaOxDJ) | 2:51 | 2026-04-17 | 2026-05-30 |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-11-17 |  |
 | [Foolish](https://open.spotify.com/track/6zMUIb4uce1CzpbjR3vMdN) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X) | 3:47 | 2023-01-27 |  |
 | [Freek'n You](https://open.spotify.com/track/43sNw9nvGYGLYnNiwI8oMZ) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [The Show, The After Party, The Hotel](https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz) | 6:19 | 2024-02-14 | 2024-02-23 |

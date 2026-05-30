@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Recca
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,232 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,244 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 73 | [PAC\-MANISM](https://open.spotify.com/track/06OI5rkTs4hHrlUGjD1UUw) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [PAC\-MANISM](https://open.spotify.com/album/4Rl64ebxCFoq7NuECnR9Nu) | 2:07 |
 | 74 | [禁断症状](https://open.spotify.com/track/0Vfgnv75toBF6micnr8Du6) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [大人の都合マジうぜえ](https://open.spotify.com/album/5D1JbpndO17mX5irHBEvCw) | 2:16 |
 | 75 | [ストラトキャスター・シーサイド](https://open.spotify.com/track/2BSEWKPGXooXHbDDle1noH) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [ストラトキャスター・シーサイド](https://open.spotify.com/album/0QByJcApTQCzRS2EvWy4gx) | 3:17 |
-| 76 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
-| 77 | [ずっきゅん♡](https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7) | [カライドスコープ](https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK) | [ずっきゅん♡](https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o) | 3:00 |
+| 76 | [ずっきゅん♡](https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7) | [カライドスコープ](https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK) | [ずっきゅん♡](https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o) | 3:00 |
+| 77 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
 | 78 | [WALK](https://open.spotify.com/track/37XUvKGl59e5TBs6LUqLFv) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [GRIP](https://open.spotify.com/album/1idRGxgQz3hZHnZFQRHPaM) | 2:13 |
 | 79 | [Underclass HERO](https://open.spotify.com/track/0tWhtN7KksQk7HzzxMawVY) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Underclass HERO](https://open.spotify.com/album/3yPtvypfL1CxNnxeztlNQh) | 3:38 |
 | 80 | [These Magic Words](https://open.spotify.com/track/3RbS00mL3QbGKEupNTmn9s) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:54 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 90 | [宣戦布告](https://open.spotify.com/track/6YZUBYJ00HCcKuYaYNewqw) | [Kazunobu Mineta](https://open.spotify.com/artist/5557aMYf4K6C6BCVpHsjll), [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m), [若葉竜也](https://open.spotify.com/artist/3izpGAZJR3iTtDlibD5WZx) | [宣戦布告](https://open.spotify.com/album/4frIFmBatx4GPBqR9PY2Jz) | 4:49 |
 | 91 | [さよなら涙](https://open.spotify.com/track/1NB6vlygOL59DbwiGh621c) | [ジ・エンプティ](https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf) | [神様からの贈物 e.p.](https://open.spotify.com/album/2ld5ZXZ4Jv3TpsJ8TLJCmY) | 2:31 |
 | 92 | [僕たちの悲しみはどこへ行く](https://open.spotify.com/track/4DumuLS6YMKJvk5rEhO75f) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [生きるとは鼻くそくらいの希望を持つことだ](https://open.spotify.com/album/1BRf610HGiqoBmqfM1vwYK) | 4:44 |
-| 93 | [Suffer](https://open.spotify.com/track/3wBJ9ZwrL74MC4IjfUwrBb) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suffer](https://open.spotify.com/album/4wdkJEh3CqOjgNx9FW5JDn) | 2:19 |
-| 94 | [Rest In Punk](https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest In Punk](https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4) | 2:32 |
+| 93 | [Rest In Punk](https://open.spotify.com/track/5bHgEvzoyK9OAVtQhGWLMJ) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest In Punk](https://open.spotify.com/album/7n7WePqrUPA7JcC7XY9lY4) | 2:32 |
+| 94 | [Suffer](https://open.spotify.com/track/3wBJ9ZwrL74MC4IjfUwrBb) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suffer](https://open.spotify.com/album/4wdkJEh3CqOjgNx9FW5JDn) | 2:19 |
 | 95 | [応援歌](https://open.spotify.com/track/4Jr2oNi8Tt6W5WZHYvqAsd) | [The Inazuma Sentai](https://open.spotify.com/artist/5tJXdkYUGeqkd1OiHDaNLD) | [勝手にロックンロール](https://open.spotify.com/album/3iXjHOdyjZ7mkiFVeF2CFZ) | 5:29 |
 | 96 | [Midnight Grow](https://open.spotify.com/track/1A2MlEvCue0EWDvPP2aJL0) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Midnight Grow](https://open.spotify.com/album/3HXAGw0DEIjZrLg3b1D9IL) | 2:43 |
 | 97 | [BEK](https://open.spotify.com/track/4XADQSC4BZQle5UYYkGhSY) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:06 |

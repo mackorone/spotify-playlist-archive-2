@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Daniel, Me Est\u00e1s Matando te deja las rolitas perfectas para que se las dediques al nadaqueverientx ",
-  "name": "canciones para superar a tu ex ",
+  "description": "Mujeres a todo volumen, ahora en video. S\u00f3lo para usuarios Premium. BLAIR en portada. ",
+  "name": "EQUAL En Vivo",
   "tracks": [
+    {
+      "album": {
+        "name": "(favorito) [EQUAL En Vivo Casa Spotify Bogot\u00e1]",
+        "url": "https://open.spotify.com/album/75urn7etlO3lSIIuwhWJf6"
+      },
+      "artists": [
+        {
+          "name": "nic",
+          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196010,
+      "name": "(favorito) - EQUAL En Vivo Casa Spotify Bogot\u00e1",
+      "url": "https://open.spotify.com/track/7nGWsqzjC62mN7IhJsjowH"
+    },
     {
       "album": {
         "name": "300 Noches",
@@ -172,7 +190,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 214867,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/0ZWjytJVagURvNPzNW0kOI"
@@ -252,7 +270,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 242240,
       "name": "Antes De Ti",
       "url": "https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd"
@@ -270,7 +288,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 221994,
       "name": "Aqu\u00ed No Pasa Nada",
       "url": "https://open.spotify.com/track/7e1Y9apAGYA532CaMXQoLA"
@@ -310,7 +328,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 213613,
       "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
       "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
@@ -520,7 +538,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 246666,
       "name": "Bocanada",
       "url": "https://open.spotify.com/track/12uaDRCVrgu4O6AyOZLrxG"
@@ -596,6 +614,28 @@
       "duration_ms": 298226,
       "name": "b\u00fascame otra vez",
       "url": "https://open.spotify.com/track/1S0yKut4XZD1ai8TefQemv"
+    },
+    {
+      "album": {
+        "name": "Cadenas - EQUAL En Vivo CDMX",
+        "url": "https://open.spotify.com/album/5ILNn5Xq5FIYmwOdfVbieF"
+      },
+      "artists": [
+        {
+          "name": "Jessy Bulbo",
+          "url": "https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT"
+        },
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275669,
+      "name": "Cadenas - EQUAL En Vivo CDMX",
+      "url": "https://open.spotify.com/track/23JNz9DUe6RIMgiw8tfoaP"
     },
     {
       "album": {
@@ -682,7 +722,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 237240,
       "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
       "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
@@ -736,10 +776,28 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 148680,
       "name": "Cu\u00e1ndo Se Ha Visto",
       "url": "https://open.spotify.com/track/2f22XJZsgMvo4tQlRICvjH"
+    },
+    {
+      "album": {
+        "name": "Cu\u00e9ntame - EQUAL En Vivo Casa Spotify Buenos Aires",
+        "url": "https://open.spotify.com/album/7HuaZt1w7O7EgscVUqCcFC"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162325,
+      "name": "Cu\u00e9ntame - EQUAL En Vivo Casa Spotify Buenos Aires",
+      "url": "https://open.spotify.com/track/1fWnH0zLLVBFPnNZCON3hZ"
     },
     {
       "album": {
@@ -949,6 +1007,28 @@
     },
     {
       "album": {
+        "name": "D\u00e9jame Ser",
+        "url": "https://open.spotify.com/album/757tGzy75GYwJPEH37nvsO"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Alex etc.",
+          "url": "https://open.spotify.com/artist/5HJfikshCXA946oV7QhUZG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187571,
+      "name": "D\u00e9jame Ser - EQUAL En Vivo CDMX",
+      "url": "https://open.spotify.com/track/56h0xUQ1lRDUz1tsev07bC"
+    },
+    {
+      "album": {
         "name": "Sexytriste, Vol. 1",
         "url": "https://open.spotify.com/album/4lyIeN5ooDyufh92u3Eljn"
       },
@@ -960,7 +1040,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 336811,
       "name": "El Amigo de Las Flores",
       "url": "https://open.spotify.com/track/6WWpmEbTKh8KNChAErnH51"
@@ -978,7 +1058,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 260026,
       "name": "El Amor Acaba",
       "url": "https://open.spotify.com/track/4TuVPlUrfKpAqPUJFjONcM"
@@ -1043,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "El Karma - EQUAL En Vivo Casa Spotify Bogot\u00e1",
+        "url": "https://open.spotify.com/album/1p25dCzE3gKeZFKURpVGxd"
+      },
+      "artists": [
+        {
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318869,
+      "name": "El Karma - EQUAL En Vivo Casa Spotify Bogot\u00e1",
+      "url": "https://open.spotify.com/track/01VXTdiqGUxzY27A5GVFqu"
+    },
+    {
+      "album": {
         "name": "The Last",
         "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
@@ -1072,7 +1170,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 207146,
       "name": "El Muchacho de los Ojos Tristes",
       "url": "https://open.spotify.com/track/41JBXtssxYuLMyiBwwlnY6"
@@ -1126,7 +1224,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 255506,
       "name": "El Triste",
       "url": "https://open.spotify.com/track/2riMKY7JnSlAYf4sPrwb1y"
@@ -1311,6 +1409,28 @@
     },
     {
       "album": {
+        "name": "Fr\u00e1gil - EQUAL En Vivo CDMX",
+        "url": "https://open.spotify.com/album/2wC0rRsGhYFUDhoCZZW58f"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280915,
+      "name": "Fr\u00e1gil - EQUAL En Vivo CDMX",
+      "url": "https://open.spotify.com/track/7ycQyDGUp7Yns2mqzPfjwd"
+    },
+    {
+      "album": {
         "name": "mix pa llorar en tu cuarto",
         "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
       },
@@ -1340,7 +1460,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 249426,
       "name": "Fuimos Amor",
       "url": "https://open.spotify.com/track/6wkPUUWrRhBUFAqC5UCcG4"
@@ -1420,7 +1540,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 290733,
       "name": "Gotas de Fuego",
       "url": "https://open.spotify.com/track/05BD87wSnrHtYe1SpeOkcE"
@@ -1438,7 +1558,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 181744,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/52sJwN0u3ER2iko7yqV449"
@@ -1456,7 +1576,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 546546,
       "name": "Hasta Que Te Conoc\u00ed - En Vivo [Desde el Instituto Nacional de Bellas Artes]",
       "url": "https://open.spotify.com/track/6hNkhvhy5ersmVRGFTuIps"
@@ -1503,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "HOMBRE ROTO (EQUAL en vivo Casa Spotify Buenos Aires)",
+        "url": "https://open.spotify.com/album/4mFKCCVwM9xkN2B2F55sGT"
+      },
+      "artists": [
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237376,
+      "name": "HOMBRE ROTO - EQUAL en vivo Casa Spotify Buenos Aires",
+      "url": "https://open.spotify.com/track/1NtWMpizdTMJEQscB34z5J"
+    },
+    {
+      "album": {
         "name": "Roxanne",
         "url": "https://open.spotify.com/album/1ZbLxFzTYmX9QclyenqN8u"
       },
@@ -1514,7 +1652,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 214422,
       "name": "Honey (Suceso 4)",
       "url": "https://open.spotify.com/track/216j6EdHn6N5Fwf0xAwmOa"
@@ -1536,7 +1674,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 242450,
       "name": "Hoy No",
       "url": "https://open.spotify.com/track/0jGBvWB2j1LfUUTm6oxXKs"
@@ -1673,6 +1811,32 @@
     },
     {
       "album": {
+        "name": "Intro (Live Video)",
+        "url": "https://open.spotify.com/album/21yVO3rwLV2kjxf8WuF6mQ"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Murilo e LT no beat",
+          "url": "https://open.spotify.com/artist/4iTw4S8i6S6EMB9PIC1rXi"
+        },
+        {
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132309,
+      "name": "Intro (Live Video)",
+      "url": "https://open.spotify.com/track/1uULfG83W1DqUijIhuMSj5"
+    },
+    {
+      "album": {
         "name": "IT GIRL",
         "url": "https://open.spotify.com/album/2by9XYSk5DVWxde0qrneyw"
       },
@@ -1764,7 +1928,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -1800,7 +1964,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 219106,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
@@ -1876,7 +2040,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 166499,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB"
@@ -1988,7 +2152,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 219960,
       "name": "Lo Dudo",
       "url": "https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH"
@@ -2006,7 +2170,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 186549,
       "name": "Lo Hice, Te Dej\u00e9",
       "url": "https://open.spotify.com/track/3PKhRDUCDckxRypmC5RhO6"
@@ -2060,7 +2224,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 171907,
       "name": "Lo Que Siempre Te Jur\u00e9",
       "url": "https://open.spotify.com/track/6F6u4u3t46xXnainjhjajt"
@@ -2078,7 +2242,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 312000,
       "name": "Lo Que Siento",
       "url": "https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y"
@@ -2121,6 +2285,28 @@
     },
     {
       "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/6qqZ3owJH4LBnxWW0ShPHV"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "Alanis Yuki",
+          "url": "https://open.spotify.com/artist/78wDefnHex943QL32ggbx6"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152119,
+      "name": "Mar\u00eda - EQUAL En Vivo CDMX",
+      "url": "https://open.spotify.com/track/5hdH6WPO1OTFUX2VGOcC41"
+    },
+    {
+      "album": {
         "name": "Entre el Cielo y el Suelo (Bonus Tracks Edition)",
         "url": "https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9"
       },
@@ -2132,7 +2318,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 174946,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/5xsY1Bm1FItKFFoJ3b964t"
@@ -2150,7 +2336,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 231773,
       "name": "Me Dediqu\u00e9 a Perderte",
       "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
@@ -2208,7 +2394,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 261815,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/7HNOGbbR726AfVEu89OQPt"
@@ -2266,7 +2452,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -2338,7 +2524,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 234489,
       "name": "Miro Al Cielo",
       "url": "https://open.spotify.com/track/3t6VXxSIoa4cyRdmJowRkq"
@@ -2397,6 +2583,24 @@
     },
     {
       "album": {
+        "name": "Muchas (MUCHAS) gracias - EQUAL En Vivo Casa Spotify Bogot\u00e1",
+        "url": "https://open.spotify.com/album/2r1UpUkS17NPIJ2WtYOi54"
+      },
+      "artists": [
+        {
+          "name": "Laura Mar\u00e9",
+          "url": "https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230656,
+      "name": "Muchas (MUCHAS) gracias - EQUAL En Vivo Casa Spotify Bogot\u00e1",
+      "url": "https://open.spotify.com/track/6LwMSV2SYyRg5olW0JFWdA"
+    },
+    {
+      "album": {
         "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -2448,7 +2652,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 213159,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/3fNK9wZMHV7CLG1z3rueBO"
@@ -2466,7 +2670,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 205467,
       "name": "No es normal",
       "url": "https://open.spotify.com/track/4FAkWvgZzt8znu3sFdSjO2"
@@ -2484,7 +2688,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 252240,
       "name": "No Soy Nada",
       "url": "https://open.spotify.com/track/3lH1wnABnFl7xGYdjRpcOU"
@@ -2506,6 +2710,28 @@
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+    },
+    {
+      "album": {
+        "name": "NOTYPE (Remix) - EQUAL En Vivo CDMX",
+        "url": "https://open.spotify.com/album/0JlJuxUAVYXB3NYosws5sb"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163071,
+      "name": "NOTYPE (Remix) - EQUAL En Vivo CDMX",
+      "url": "https://open.spotify.com/track/4BexZlKgEd1j0XJ9LBxt6t"
     },
     {
       "album": {
@@ -2545,6 +2771,28 @@
     },
     {
       "album": {
+        "name": "O que a Julia vai ser? (Live Video)",
+        "url": "https://open.spotify.com/album/26xz8v4hM5Z9UWN2d78WSC"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215509,
+      "name": "O que a Julia vai ser? (Live Video)",
+      "url": "https://open.spotify.com/track/3IxgMOpRAZ15vOQ1ZIkgdk"
+    },
+    {
+      "album": {
         "name": "Ohnana",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
       },
@@ -2560,6 +2808,24 @@
       "duration_ms": 156577,
       "name": "Ohnana",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "album": {
+        "name": "Opuesto Complementario (EQUAL en vivo Casa Spotify Buenos Aires)",
+        "url": "https://open.spotify.com/album/7itDnNnYKm5MT51WePsZk0"
+      },
+      "artists": [
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Opuesto Complementario - EQUAL en vivo Casa Spotify Buenos Aires",
+      "url": "https://open.spotify.com/track/39PRTeliITwOXA9V6C3Szb"
     },
     {
       "album": {
@@ -2603,6 +2869,32 @@
     },
     {
       "album": {
+        "name": "Par\u00eds (Junto a Ti) - EQUAL En Vivo CDMX",
+        "url": "https://open.spotify.com/album/196CAwvkL5HgdHcEF0Xnsm"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        },
+        {
+          "name": "Sue\u00f1o A Marte",
+          "url": "https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN"
+        },
+        {
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222058,
+      "name": "Par\u00eds (Junto a Ti) - EQUAL En Vivo CDMX",
+      "url": "https://open.spotify.com/track/0hSo53mUqXiISNyC84Ch4r"
+    },
+    {
+      "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
       },
@@ -2622,6 +2914,28 @@
       "duration_ms": 224835,
       "name": "Patadas de Ahogado",
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
+    },
+    {
+      "album": {
+        "name": "Pausa - EQUAL En Vivo CDMX",
+        "url": "https://open.spotify.com/album/3qcp9mOOAexlxfV4QLY5HW"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        },
+        {
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193119,
+      "name": "Pausa - EQUAL En Vivo CDMX - En vivo",
+      "url": "https://open.spotify.com/track/6IJkUmjxUrGjt1l3BqbKXY"
     },
     {
       "album": {
@@ -2648,6 +2962,28 @@
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "album": {
+        "name": "Pense como uma diva (Live Video)",
+        "url": "https://open.spotify.com/album/2dfdAZBir5V0nhm0tDzIKk"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163392,
+      "name": "Pense como uma diva (Live Video)",
+      "url": "https://open.spotify.com/track/2XXQpfQVCLTBDU1uSyrp0W"
     },
     {
       "album": {
@@ -2720,7 +3056,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 287426,
       "name": "Procuro Olvidarte",
       "url": "https://open.spotify.com/track/1mW4jT6jZvnRF1OG9nJhHy"
@@ -2778,7 +3114,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 241226,
       "name": "Quiero Dormir Cansado",
       "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
@@ -2800,7 +3136,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 293098,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/1DH0Cg447H2wioWGvW4S3z"
@@ -2826,6 +3162,24 @@
       "duration_ms": 152923,
       "name": "Qu\u00e9 Agon\u00eda",
       "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
+    },
+    {
+      "album": {
+        "name": "RABIA DEL CORAZ\u00d3N (EQUAL en vivo Casa Spotify Buenos Aires)",
+        "url": "https://open.spotify.com/album/7b1Ar0ICrCmaBJVK4HZkb9"
+      },
+      "artists": [
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240448,
+      "name": "RABIA DEL CORAZ\u00d3N - EQUAL en vivo Casa Spotify Buenos Aires",
+      "url": "https://open.spotify.com/track/2OqlRKlYFRKZ2z4HY8BrK5"
     },
     {
       "album": {
@@ -2958,7 +3312,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 228875,
       "name": "Seguir Vivo No Es Vivir",
       "url": "https://open.spotify.com/track/24jRdELbkS9YkBiaOZs60Q"
@@ -2984,6 +3338,32 @@
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4"
+    },
+    {
+      "album": {
+        "name": "Sex And The City - EQUAL En Vivo CDMX",
+        "url": "https://open.spotify.com/album/04PDrVRrEiYgtXiJQzSOO2"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        },
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195861,
+      "name": "Sex And The City - EQUAL En Vivo CDMX",
+      "url": "https://open.spotify.com/track/7ly5laACqQTU0gVAHzClQV"
     },
     {
       "album": {
@@ -3020,7 +3400,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 312840,
       "name": "Si a Veces Hablo de Ti",
       "url": "https://open.spotify.com/track/2kVQC1x2S9oQWx2QcI1CXt"
@@ -3074,7 +3454,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 278293,
       "name": "Si t\u00fa no vuelves",
       "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
@@ -3146,7 +3526,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 228228,
       "name": "Soy",
       "url": "https://open.spotify.com/track/2jL2s5zoAqJPF5eJMt3eNv"
@@ -3182,7 +3562,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 193133,
       "name": "Soy rebelde",
       "url": "https://open.spotify.com/track/1oaPnvUccVzyjsKFkuE7oA"
@@ -3395,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "Tengo Que Contarte - EQUAL En Vivo CDMX",
+        "url": "https://open.spotify.com/album/0Nub0eSiSG8nCExs5fd55k"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239165,
+      "name": "Tengo Que Contarte - EQUAL En Vivo CDMX",
+      "url": "https://open.spotify.com/track/6ZOv314qCYFYQttGEShhyF"
+    },
+    {
+      "album": {
         "name": "The Marshall Mathers LP",
         "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
       },
@@ -3431,6 +3829,46 @@
     },
     {
       "album": {
+        "name": "Toc Toc Toc (Live Video)",
+        "url": "https://open.spotify.com/album/2S2RHHQidTGleXgIqFNOwv"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152277,
+      "name": "Toc Toc Toc (Live Video)",
+      "url": "https://open.spotify.com/track/0HUIntcuET698i4FwSdB3a"
+    },
+    {
+      "album": {
+        "name": "TODO LO QUE TENGO (EQUAL en vivo Casa Spotify Buenos Aires)",
+        "url": "https://open.spotify.com/album/77D93nUJfRZglhnFboDKFS"
+      },
+      "artists": [
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208682,
+      "name": "TODO LO QUE TENGO - EQUAL en vivo Casa Spotify Buenos Aires",
+      "url": "https://open.spotify.com/track/3zbzvhfS1AKPIDf1grC9j6"
+    },
+    {
+      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -3460,7 +3898,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 161253,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
@@ -3500,7 +3938,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
@@ -3518,10 +3956,32 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 308000,
       "name": "Tu No Sabes (Voc\u00ea Nao Sabe)",
       "url": "https://open.spotify.com/track/37xUCd58Zj5fkYzLU2t4fN"
+    },
+    {
+      "album": {
+        "name": "TU SABES - EQUAL En Vivo Casa Spotify Bogot\u00e1",
+        "url": "https://open.spotify.com/album/0r2058uqhWXlGYbOSTGBJO"
+      },
+      "artists": [
+        {
+          "name": "Vera Delacruz",
+          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
+        },
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159338,
+      "name": "TU SABES - EQUAL En Vivo Casa Spotify Bogot\u00e1",
+      "url": "https://open.spotify.com/track/1Omv0FDDIsCDPfpfOIhei2"
     },
     {
       "album": {
@@ -3674,7 +4134,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 193109,
       "name": "Un Veneno",
       "url": "https://open.spotify.com/track/42C5Bbb4dHwS5OFMvtGkG2"
@@ -3796,7 +4256,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 175013,
       "name": "Ven Porque Te Necesito",
       "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"
@@ -3814,7 +4274,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 252306,
       "name": "Vete De Una Vez",
       "url": "https://open.spotify.com/track/2HA0GIqFTtvrV97ybAiU8A"
@@ -3832,7 +4292,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 157760,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T"
@@ -3908,7 +4368,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 242133,
       "name": "Y Volvere",
       "url": "https://open.spotify.com/track/4c307EUgnx8a4X28DlkUoa"
@@ -3948,7 +4408,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 276480,
       "name": "Ya S\u00e9 - Remix",
       "url": "https://open.spotify.com/track/0BpwXxeUsVhpoLOt0Acnor"
@@ -3966,7 +4426,7 @@
       ],
       "date_added": "2025-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 178426,
       "name": "Ya Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/7fYr68C6tRUsGIym4poraT"
@@ -4006,6 +4466,28 @@
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "album": {
+        "name": "\u00bfARDIDA QUI\u00c9N?- EQUAL En Vivo CDMX",
+        "url": "https://open.spotify.com/album/4ZDuphSCaQ7gcG8dRzIDMk"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        },
+        {
+          "name": "Mar\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149200,
+      "name": "\u00bfARDIDA QUI\u00c9N?- EQUAL En Vivo CDMX",
+      "url": "https://open.spotify.com/track/2yDUsvdsnN78ALkqJdfNXs"
     },
     {
       "album": {

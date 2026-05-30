@@ -4,7 +4,7 @@
 
 > Relax to these mellow cello melodies.
 
-149 songs - 10 hr 27 min
+150 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,5 +157,6 @@
 | [Vocalise, Op 34, No\. 14](https://open.spotify.com/track/6m68bzPaSl2OZI2sTSQmK0) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh), [Inon Barnatan](https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2) | [A Season of Music: Rachmaninoff](https://open.spotify.com/album/3T4yr1uLXK4ppBXk3yWOBc) | 5:59 | 2022-06-16 | 2022-10-09 |
 | [Vocalise, Op 34, No.14](https://open.spotify.com/track/7uKbelCBbJk2tp6w7JkpM3) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Alisa Weilerstein](https://open.spotify.com/artist/342cJoM4xzPrRfLb8fYkuh), [Inon Barnatan](https://open.spotify.com/artist/5ejziTkhdpyMUJvawZWuS2) | [Rachmaninov & Chopin Cello Sonatas](https://open.spotify.com/album/4StqdIskv8g0yRQnfaNqhg) | 5:59 | 2022-06-16 | 2022-09-07 |
 | [Woman's Prayer](https://open.spotify.com/track/6a3LTwG4gwiC62EUNff5AD) | [G\. I\. Gurdjieff](https://open.spotify.com/artist/4zFrWxrEffCBWEqNnZyB8T), [Anja Lechner](https://open.spotify.com/artist/0SGPrWBKXE2DfxLX4GbtBN), [Vassilis Tsabropoulos](https://open.spotify.com/artist/3gOdqjhBRr5vxK85vY7on0) | [Gurdjieff, Tsabropoulos: Chants, Hymns and Dances](https://open.spotify.com/album/2j51awurPD6ZDE0JdRliUc) | 1:58 | 2021-03-08 |  |
+| [Wonders](https://open.spotify.com/track/3NG9gJqP279619JIyWkk3O) | [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr) | [Wonders](https://open.spotify.com/album/7ohTit9j5fLOQxR31pCWVG) | 1:40 | 2026-05-29 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

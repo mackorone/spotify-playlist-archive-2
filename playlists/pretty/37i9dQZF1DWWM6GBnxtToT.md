@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,364 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,379 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 21 | [Acting My Age](https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Acting My Age](https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW) | 3:42 |
 | 22 | [minuit](https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L) | [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx), [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [minuit](https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89) | 3:45 |
 | 23 | [Life Is Long \- ESCQ Remix](https://open.spotify.com/track/1Ts0ItPHx59El49QqVeWuF) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX), [ESCQ](https://open.spotify.com/artist/1vosl7M2PI9ppxUURFUiOm) | [Life Is Long](https://open.spotify.com/album/3ZSrOi2JWzJUWg6CZ8QCoy) | 3:39 |
-| 24 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 |
-| 25 | [Mexico](https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Mexico](https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm) | 3:56 |
-| 26 | [Under Your Wings](https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:51 |
+| 24 | [Mexico](https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Mexico](https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm) | 3:56 |
+| 25 | [Under Your Wings](https://open.spotify.com/track/60jDBihAe1INnFWRCFgjUS) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [How Have You Been?](https://open.spotify.com/album/4FqEHLgdiMHXboXIztMkkO) | 3:51 |
+| 26 | [Kate's Not Here \- Day Wave & Lawrence Rothman Remix](https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Kate's Not Here \(Day Wave & Lawrence Rothman Remix\)](https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x) | 3:07 |
 | 27 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 |
 | 28 | [Always on My Mind](https://open.spotify.com/track/6JBOTY4U3xGtE2Wpzp2uA3) | [Roller Derby](https://open.spotify.com/artist/2MCyjG9viaC9IM39VO3yDe) | [Always on My Mind](https://open.spotify.com/album/5i0Y2Sy1MsI93LMM8FcyX4) | 3:29 |
 | 29 | [Unpack Your Bags \- Radio Edit](https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Unpack Your Bags \(Radio Edit\)](https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU) | 3:04 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 33 | [Bleach](https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Bleach](https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L) | 3:29 |
 | 34 | [Sabada](https://open.spotify.com/track/6bDu7PiUOUuXrviwss6aJD) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [Sabada](https://open.spotify.com/album/73JoE5TQ7DiMbRCrbKD7uD) | 3:45 |
 | 35 | [wait outside](https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [wait outside](https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E) | 2:31 |
-| 36 | [Busy](https://open.spotify.com/track/2VG8dvyYnyj4WtzNIj2fOC) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Busy](https://open.spotify.com/album/68Saky2gc5DtvcQlRHKm1g) | 2:46 |
+| 36 | [Walking Like That](https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Walking Like That](https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh) | 2:29 |
 | 37 | [Mister Burns](https://open.spotify.com/track/3KOk4G26hi8f8kOJF3iZTa) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Mister Burns](https://open.spotify.com/album/64XYX9rT7ouZe7vVsRV6hi) | 2:35 |
-| 38 | [Walking Like That](https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Walking Like That](https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh) | 2:29 |
+| 38 | [Busy](https://open.spotify.com/track/2VG8dvyYnyj4WtzNIj2fOC) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Busy](https://open.spotify.com/album/68Saky2gc5DtvcQlRHKm1g) | 2:46 |
 | 39 | [Overthinking](https://open.spotify.com/track/5yG8CqBL4jMnakBDOSoJYG) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Overthinking](https://open.spotify.com/album/39ZjTaQo6zaU0NZ6tHdDac) | 2:29 |
 | 40 | [Mexico](https://open.spotify.com/track/6HSEHDSU9XmdxheOyQBn1I) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Mexico](https://open.spotify.com/album/0uJ1vzYedMJ8ASp1TFQyEr) | 3:12 |
 | 41 | [cbb to b sad](https://open.spotify.com/track/56b4sQ1Sxi3ox5CoCmcp49) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [shame](https://open.spotify.com/album/5h31KRuPwb3EEgUW0b4k6l) | 4:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 
 > The perfect soundtrack to those long nights over dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,033,663 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,033,679 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 17 | [Something in the Orange](https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Something in the Orange](https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv) | 3:48 |
 | 18 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 |
 | 19 | [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 |
-| 20 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
-| 21 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
+| 20 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
+| 21 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 22 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 |
 | 23 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 |
 | 24 | [If You Leave Me Now](https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago X](https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P) | 3:55 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 78 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 |
 | 79 | [Summer Sweat](https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:06 |
 | 80 | [Fields Of Gold](https://open.spotify.com/track/22gLGCKbFKwmgZhrpVcnFb) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Fields Of Gold \- The Best Of Sting 1984 \- 1994](https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf) | 3:37 |
-| 81 | [You Are So Beautiful \- 1996 Version](https://open.spotify.com/track/0Q4FBn52tglZ02DCrAY8j0) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Organic](https://open.spotify.com/album/5oOaUOotDESRXMElqVlOFQ) | 2:43 |
-| 82 | [What It Gave Me](https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What It Gave Me](https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva) | 2:44 |
+| 81 | [What It Gave Me](https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What It Gave Me](https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva) | 2:44 |
+| 82 | [You Are So Beautiful \- 1996 Version](https://open.spotify.com/track/0Q4FBn52tglZ02DCrAY8j0) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Organic](https://open.spotify.com/album/5oOaUOotDESRXMElqVlOFQ) | 2:43 |
 | 83 | [Love Don't Let Me Go](https://open.spotify.com/track/6uZOUCeRMf1XzwRoXj4MgN) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Love Don’t Let Me Go](https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN) | 2:57 |
 | 84 | [table for two](https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [table for two](https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL) | 1:51 |
 | 85 | [Just You and I](https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA) | 2:54 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 91 | [Eyes Closed](https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 |
 | 92 | [Tell Me It's Over](https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Tell Me It's Over](https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP) | 2:56 |
 | 93 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 |
-| 94 | [Africa](https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9), [The Human Experience](https://open.spotify.com/artist/1NWjumiUC54F8S21p2W6cG) | [Africa](https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu) | 3:40 |
-| 95 | [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 |
+| 94 | [The Only Exception](https://open.spotify.com/track/6yBVp6DFh899CRaKww95Hr) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [The Only Exception](https://open.spotify.com/album/6ssR342wWYZwPjYG35AWbG) | 4:22 |
+| 95 | [Africa](https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9), [The Human Experience](https://open.spotify.com/artist/1NWjumiUC54F8S21p2W6cG) | [Africa](https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu) | 3:40 |
 | 96 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
 | 97 | [Time Will Tell](https://open.spotify.com/track/6twIIS0vl9LyMlUIPgt9Jl) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Time Will Tell](https://open.spotify.com/album/2OqCEpFpC8qq2vZq9k8fLh) | 3:44 |
 | 98 | [All My Life](https://open.spotify.com/track/5Bu3CmkflxDAx5ps1BI8HI) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/3GP6fZgniD9cydeW0nwEe4) | 2:53 |

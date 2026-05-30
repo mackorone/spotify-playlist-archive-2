@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: 6LACK
+> Where R&B lives\. Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,100,776 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,100,472 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [On Me \(with Odeal\)](https://open.spotify.com/track/6JoEoLh7ZS7Yx2DTnaPA9A) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Love is the New Gangsta](https://open.spotify.com/album/0P7rfrcXTzQwUR9q1nTDpq) | 3:02 |
+| 1 | [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/6Q1biSMDWjVrtpcZNeAd5A) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 2:42 |
 | 2 | [touch myself](https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [touch myself/idea of love](https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ) | 4:09 |
 | 3 | [FOOL ME ONCE \(feat\. Leon Thomas\)](https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 3:18 |
-| 4 | [What You Need](https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:54 |
-| 5 | [Slow Jamz \(feat\. Lucky Daye\)](https://open.spotify.com/track/6nCh6BMQcLAqAerDKprsRf) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:30 |
-| 6 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 |
-| 7 | [Sweet Nuthins \(feat\. Leon Thomas\)](https://open.spotify.com/track/6Q1biSMDWjVrtpcZNeAd5A) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 2:42 |
-| 8 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
-| 9 | [butterflies.](https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 4:08 |
-| 10 | [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 |
-| 11 | [Sunday Again \(with 2 Chainz\)](https://open.spotify.com/track/0jqIclUdaqiwYEi4FLUBOc) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Sunday Again \(with 2 Chainz\)](https://open.spotify.com/album/1b3dLmOwWOyyqsUtT0NrBv) | 3:40 |
-| 12 | [Classic](https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [HABIBTI](https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno) | 2:59 |
+| 4 | [Slow Jamz \(feat\. Lucky Daye\)](https://open.spotify.com/track/6nCh6BMQcLAqAerDKprsRf) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:30 |
+| 5 | [Sunday Again \(with 2 Chainz\)](https://open.spotify.com/track/0jqIclUdaqiwYEi4FLUBOc) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Sunday Again \(with 2 Chainz\)](https://open.spotify.com/album/1b3dLmOwWOyyqsUtT0NrBv) | 3:40 |
+| 6 | [Classic](https://open.spotify.com/track/3hZbi8AG14hRw5Skg7V8pl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [HABIBTI](https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno) | 2:59 |
+| 7 | [butterflies.](https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 4:08 |
+| 8 | [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 |
+| 9 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 |
+| 10 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
+| 11 | [What You Need](https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:54 |
+| 12 | [On Me \(with Odeal\)](https://open.spotify.com/track/6JoEoLh7ZS7Yx2DTnaPA9A) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Love is the New Gangsta](https://open.spotify.com/album/0P7rfrcXTzQwUR9q1nTDpq) | 3:02 |
 | 13 | [Obvious](https://open.spotify.com/track/3sssByeVMy15Vc2O6hbQmu) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 3:06 |
 | 14 | [Shoulda Never \(feat\. USHER\)](https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:06 |
 | 15 | [PAGEANT STAGE](https://open.spotify.com/track/18xbuNAEvWdiJpFMLgyRHj) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [THE EDGE](https://open.spotify.com/album/0OeCOxmJZPbLdSZYSmHYg8) | 2:52 |
 | 16 | [Reclusive](https://open.spotify.com/track/2E3c3APiNL1g2syAGwBHCP) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [sounds for someone](https://open.spotify.com/album/1kGkWn2PHljzeqiOu4wGum) | 3:06 |
-| 17 | [Cha Cha Cha](https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:56 |
+| 17 | [stuck](https://open.spotify.com/track/1nEzZ4l1LYmmaDNgWNzVCG) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [stuck](https://open.spotify.com/album/2WQhpOLkmPLPgrcBYjWmRK) | 2:41 |
 | 18 | [A Couple Minutes](https://open.spotify.com/track/312z6PZ8wwREck8613PkJk) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:32 |
 | 19 | [SAVE SOME FOR ME \(feat\. Kehlani\)](https://open.spotify.com/track/1IOzlMpIx4oLxo88nNbd1u) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 3:03 |
 | 20 | [No](https://open.spotify.com/track/6LP8B6nA0k4QaQTkHkBG4K) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It \(The Afterparty\)](https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SBhb3fqCJd.md) - [plain]
 | 49 | [Come Thru](https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Come Thru](https://open.spotify.com/album/46LbagB4ZLUwslEQPBs4iH) | 2:39 |
 | 50 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
 
-Snapshot ID: `AAAAAKZDip2WE/9cbc7c0OzM4VOQK6/D`
+Snapshot ID: `AAAAAJ6tuuj6TQ0z2sCnCcKSShw9rkZK`

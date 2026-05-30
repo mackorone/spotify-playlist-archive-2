@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: VINNE
 
-949 songs - 2 day 4 hr 37 min
+950 songs - 2 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Beggin' \- ZAC Remix](https://open.spotify.com/track/1NpBHGPBlC191Nx40nWAU4) | [Elekfantz](https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [Beggin' \(ZAC Remix\)](https://open.spotify.com/album/33YxPl0rbDdi1tp4yQBmXE) | 3:06 | 2025-06-20 | 2025-10-03 |
 | [Begging For Healing](https://open.spotify.com/track/1baO6Is68Eh4vhpPHwdfp6) | [Pontifexx](https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Patrus](https://open.spotify.com/artist/6B3adjXTdWVjypvXfYnR8D) | [Begging for Healing](https://open.spotify.com/album/2FH3Uiw6KBcTpSiFYtXeMQ) | 3:39 | 2024-04-19 | 2024-07-13 |
 | [Believe](https://open.spotify.com/track/6k7jFZVd514FE8EjMIcosg) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Believe](https://open.spotify.com/album/2WYyVhWlTNxhjhOdl2DEq1) | 3:05 | 2024-09-27 | 2025-01-25 |
+| [Belong](https://open.spotify.com/track/6blPhUuaJYCg38wUvUjSxB) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Belong](https://open.spotify.com/album/72EZQPxBJuuPJrE1Y84jqZ) | 3:07 | 2026-05-29 |  |
 | [Bem Melhor](https://open.spotify.com/track/6EIpJudgMmPuvzlSFfObX1) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Bem Melhor EP](https://open.spotify.com/album/1UYehMogvP90fwnGzPzrFf) | 2:30 | 2025-12-12 | 2026-03-21 |
 | [BENDAI](https://open.spotify.com/track/54f3sDAW39cx4gp49yvOte) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [BENDAI](https://open.spotify.com/album/53vV4VGldrLsNgcPwh6FRW) | 4:33 | 2024-03-22 | 2024-06-15 |
 | [Better Life \- Santti Remix](https://open.spotify.com/track/4Y3jwNrkZkqO37TETJxj4S) | [Elekfantz](https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [Better Life \(Santti Remix\)](https://open.spotify.com/album/5aCMxo9pr07ipspQi2Bkfj) | 3:28 | 2026-05-22 |  |

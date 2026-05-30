@@ -1,6 +1,6 @@
 {
   "description": "Esos \u00e9xitos que todav\u00eda quieres seguir escuchando. Foto: Zion & Lennox",
-  "num_followers": 688355,
+  "num_followers": 688404,
   "original_name": "Reggaet\u00f3n Rewind",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,26 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 222346,
+      "name": "QUE PRETENDES",
+      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
         "name": "Sola (Remix)",
         "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 307910,
       "name": "Sola (Remix)",
       "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "QUE PRETENDES",
-      "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "Tusa",
-        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Tusa",
-      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
+        "name": "Tusa",
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Tusa",
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
+        "name": "Velitas",
+        "url": "https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 225542,
+      "name": "Velitas",
+      "url": "https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
         "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
         "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
       },
@@ -1539,26 +1559,6 @@
       "duration_ms": 258799,
       "name": "Secreto",
       "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
-        "name": "Velitas",
-        "url": "https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 225542,
-      "name": "Velitas",
-      "url": "https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
+        "name": "ALMAS GEMELAS",
+        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 235411,
+      "name": "ALMAS GEMELAS",
+      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -1723,42 +1739,6 @@
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
-        "name": "ALMAS GEMELAS",
-        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 235411,
-      "name": "ALMAS GEMELAS",
-      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
-        "name": "La Rompe Corazones",
-        "url": "https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "La Rompe Corazones",
-      "url": "https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -1799,6 +1779,26 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
+        "name": "La Rompe Corazones",
+        "url": "https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "La Rompe Corazones",
+      "url": "https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP"
       },
@@ -1811,22 +1811,6 @@
       "duration_ms": 188894,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
-        "name": "Instagram",
-        "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Instagram",
-      "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -1855,18 +1839,18 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "Dura",
-        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
+        "name": "Instagram",
+        "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 200480,
-      "name": "Dura",
-      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
+      "duration_ms": 162000,
+      "name": "Instagram",
+      "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -1891,6 +1875,22 @@
       "duration_ms": 207680,
       "name": "SUBEME LA RADIO",
       "url": "https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
+        "name": "Dura",
+        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Dura",
+      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -2031,18 +2031,22 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "DI LETRA",
-        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
+        "name": "3 A.M.",
+        "url": "https://open.spotify.com/album/6DAFWiPpok2nZEtjdSZO3X"
       },
       "artists": [
         {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         }
       ],
-      "duration_ms": 197586,
-      "name": "Mi Cuarto",
-      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
+      "duration_ms": 183573,
+      "name": "3 A.M.",
+      "url": "https://open.spotify.com/track/0yyZN5ASdrYu0XYWFzfxUu"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -2067,22 +2071,18 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "3 A.M.",
-        "url": "https://open.spotify.com/album/6DAFWiPpok2nZEtjdSZO3X"
+        "name": "DI LETRA",
+        "url": "https://open.spotify.com/album/1NTAPW8MixdsXxAi4v9hBn"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
         }
       ],
-      "duration_ms": 183573,
-      "name": "3 A.M.",
-      "url": "https://open.spotify.com/track/0yyZN5ASdrYu0XYWFzfxUu"
+      "duration_ms": 197586,
+      "name": "Mi Cuarto",
+      "url": "https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "Picky Back To The Roots",
-        "url": "https://open.spotify.com/album/5Y0jPLZZEf179dwwq4iEmN"
-      },
-      "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Picky",
-      "url": "https://open.spotify.com/track/4tPL9PeVZY4c0jUPtSD5nx"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
         "name": "Siempre Blessd",
         "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 234402,
       "name": "Tendencia Global",
       "url": "https://open.spotify.com/track/2TCklWS3S4Zg6e2m2MBoYm"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
+        "name": "Picky Back To The Roots",
+        "url": "https://open.spotify.com/album/5Y0jPLZZEf179dwwq4iEmN"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Picky",
+      "url": "https://open.spotify.com/track/4tPL9PeVZY4c0jUPtSD5nx"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -2347,22 +2347,6 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178693,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
         "name": "RITMO (Bad Boys For Life)",
         "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
       },
@@ -2383,42 +2367,18 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "AM Remix",
-        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
       "artists": [
         {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 261334,
-      "name": "AM Remix",
-      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
-    },
-    {
-      "added_at": "2025-10-20 20:42:37",
-      "album": {
-        "name": "INTER SHIBUYA - LA MAFIA",
-        "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "SI T\u00da SUPIERAS - Bonus Track",
-      "url": "https://open.spotify.com/track/1SCYfmGM5ueb6YiiQbLXVn"
+      "duration_ms": 178693,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -2443,18 +2403,42 @@
     {
       "added_at": "2025-10-20 20:42:37",
       "album": {
-        "name": "SEJODIOTO",
-        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
+        "name": "INTER SHIBUYA - LA MAFIA",
+        "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 181106,
-      "name": "SEJODIOTO",
-      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
+      "duration_ms": 196373,
+      "name": "SI T\u00da SUPIERAS - Bonus Track",
+      "url": "https://open.spotify.com/track/1SCYfmGM5ueb6YiiQbLXVn"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
+        "name": "AM Remix",
+        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 261334,
+      "name": "AM Remix",
+      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
     },
     {
       "added_at": "2025-10-20 20:42:37",
@@ -2487,6 +2471,22 @@
       "duration_ms": 273198,
       "name": "A Solas (Remix)",
       "url": "https://open.spotify.com/track/1fXEkSum1vbTa3w0yvYzYW"
+    },
+    {
+      "added_at": "2025-10-20 20:42:37",
+      "album": {
+        "name": "SEJODIOTO",
+        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "SEJODIOTO",
+      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
     },
     {
       "added_at": "2025-10-20 20:42:37",

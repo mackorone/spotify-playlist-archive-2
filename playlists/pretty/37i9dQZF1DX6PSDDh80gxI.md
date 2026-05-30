@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Rareș in cover di Indie Italia e tutti i feels del suo disco qui \-\-> ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,059 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,053 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 79 | [Noi no](https://open.spotify.com/track/0ryO2qGJlJU1CYCqIWuTw7) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Noi no](https://open.spotify.com/album/7i6hD1DqhbmoXVCAcqV8je) | 3:16 |
 | 80 | [LA FRETTA](https://open.spotify.com/track/6svY4DOYitwdeBK6CfmPLt) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [LA FRETTA](https://open.spotify.com/album/5ABb9tC3u5KrDd42ErGpO1) | 2:53 |
 
-Snapshot ID: `AAAAAAqd0SX4mp26zo7gnOkGNRBgi4Ks`
+Snapshot ID: `AAAAAFdiR9ik05Fw4+fFxmsaBj5daUqj`

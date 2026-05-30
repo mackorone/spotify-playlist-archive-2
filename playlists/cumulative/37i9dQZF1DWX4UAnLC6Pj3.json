@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Los Recoditos \ud83d\udcf8",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS de Sergio Liz\u00e1rraga, Manuel Turizo \ud83d\udcf8",
   "name": "Banda 2026",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 158634,
       "name": "100/10",
       "url": "https://open.spotify.com/track/50uT8pGi81UxJQTersXOgF"
@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Tu Ex Amigo",
+        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202416,
+      "name": "Amor (Bonus Track)",
+      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
+    },
+    {
+      "album": {
         "name": "Amor Bonito",
         "url": "https://open.spotify.com/album/0xjGi60nUqjScTmuhGM31H"
       },
@@ -798,6 +816,28 @@
       "duration_ms": 190840,
       "name": "Aplaca Tus Berrinches",
       "url": "https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y"
+    },
+    {
+      "album": {
+        "name": "Aprendi la lecci\u00f3n",
+        "url": "https://open.spotify.com/album/2gKLdULUWctb0JSPkZofpI"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        },
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178808,
+      "name": "Aprendi la lecci\u00f3n",
+      "url": "https://open.spotify.com/track/5jfkYc3IyXwbtFnIpB9una"
     },
     {
       "album": {
@@ -2526,7 +2566,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 161480,
       "name": "Ctrl + Z (En Vivo)",
       "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
@@ -4932,7 +4972,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 168147,
       "name": "Ese Loco Soy Yo",
       "url": "https://open.spotify.com/track/0hVL1RhFEnCXGlXNAzm3Lm"
@@ -8069,6 +8109,24 @@
     },
     {
       "album": {
+        "name": "Legado Coleccion 1 Regrabado",
+        "url": "https://open.spotify.com/album/5ZWNnTDOu8trRdfKYvEy4O"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230965,
+      "name": "Mil Heridas",
+      "url": "https://open.spotify.com/track/50e5wLsBnFoeBNUMbM03FW"
+    },
+    {
+      "album": {
         "name": "Sin Miedo Al \u00c9xito",
         "url": "https://open.spotify.com/album/0TYhOqTiVs6VLG5ujVPB6i"
       },
@@ -9506,7 +9564,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 179745,
       "name": "Plat\u00edcame De Ti [Con Banda Y Bajoloche]",
       "url": "https://open.spotify.com/track/0Fxl65lUxXWPGGbnvFa4Nr"
@@ -10108,7 +10166,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 203720,
       "name": "Que Bonita Mujer",
       "url": "https://open.spotify.com/track/2vXiRUDuwj8dGaEE8MbiRB"
@@ -10289,6 +10347,28 @@
     },
     {
       "album": {
+        "name": "\u00a1Que Viva Antonio Aguilar!",
+        "url": "https://open.spotify.com/album/7e7KjU1w5VaKKnRoiNUYlV"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176481,
+      "name": "Que Se Te Quite Ese Orgullo (4 Meses)",
+      "url": "https://open.spotify.com/track/5kpSQO55qQkAcq244ciORm"
+    },
+    {
+      "album": {
         "name": "Que Te Quieran Bonito",
         "url": "https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx"
       },
@@ -10358,7 +10438,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 197400,
       "name": "Quererte Mucho",
       "url": "https://open.spotify.com/track/41BXvJcqgPfaPbgovNrZEs"
@@ -11011,6 +11091,24 @@
     },
     {
       "album": {
+        "name": "Se Busca Plebita",
+        "url": "https://open.spotify.com/album/2sqpCovDDnDfAL7Xay4CCs"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153085,
+      "name": "Se Busca Plebita",
+      "url": "https://open.spotify.com/track/6X7JlF95S3VBlAv1YxWNTU"
+    },
+    {
+      "album": {
         "name": "Me Las Dijo El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
       },
@@ -11399,6 +11497,24 @@
     },
     {
       "album": {
+        "name": "Si Las Miradas Mataran",
+        "url": "https://open.spotify.com/album/2YSx52WRNoGQRyfbdG69IQ"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "Si Las Miradas Mataran",
+      "url": "https://open.spotify.com/track/45VBtZ50ERPzMohDRPjoDm"
+    },
+    {
+      "album": {
         "name": "Si Me Ten\u00edas",
         "url": "https://open.spotify.com/album/1q7uT320674nuCp3rl0gIY"
       },
@@ -11768,7 +11884,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 220591,
       "name": "Sin Pensar Yo Te Enga\u00f1\u00e9",
       "url": "https://open.spotify.com/track/4ZAtv3gp4ZsOu8HGRZfDLF"
@@ -12887,6 +13003,24 @@
     },
     {
       "album": {
+        "name": "Tequila y Guaro",
+        "url": "https://open.spotify.com/album/0PCb1JN1VGKyc3n4bis4Bh"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182306,
+      "name": "Todo Que Ver",
+      "url": "https://open.spotify.com/track/3xJvrne8wyeyPcKqoITnwf"
+    },
+    {
+      "album": {
         "name": "Traguitos De Licor",
         "url": "https://open.spotify.com/album/7fLK82008gwT1AZeL4eyBe"
       },
@@ -13148,6 +13282,28 @@
       "duration_ms": 191733,
       "name": "T\u00fa Eres La Raz\u00f3n",
       "url": "https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Ni En Cuenta",
+        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203801,
+      "name": "T\u00fa Ni En Cuenta",
+      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
     },
     {
       "album": {
@@ -13540,7 +13696,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 221905,
       "name": "Vali\u00f3 La Pena Equivocarme",
       "url": "https://open.spotify.com/track/5fadmmChFKcR3G0mChCwP1"

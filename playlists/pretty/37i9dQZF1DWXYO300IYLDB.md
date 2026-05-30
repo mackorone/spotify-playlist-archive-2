@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,961 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,956 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 24 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 |
 | 25 | [シャナナ](https://open.spotify.com/track/0AsbrhosvIDAMdTGgbbGjP) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [シャナナ](https://open.spotify.com/album/6odirUSwzxPXuyGzOOkaxz) | 3:37 |
 | 26 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 |
-| 27 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 |
+| 27 | [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 |
 | 28 | [Time After Time](https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo) | 2:50 |
-| 29 | [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 |
+| 29 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 |
 | 30 | [Old Phone](https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Old Phone](https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S) | 3:41 |
 | 31 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 |
 | 32 | [Days Like This](https://open.spotify.com/track/0W6vig3DpP1D3R4w72hdWp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 2:29 |

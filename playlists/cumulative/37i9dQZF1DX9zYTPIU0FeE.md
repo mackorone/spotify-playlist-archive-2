@@ -4,7 +4,7 @@
 
 > Journey through the sounds of South African Jazz\. Cover: vuyo viwe
 
-360 songs - 1 day 11 hr 41 min
+361 songs - 1 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Kwetu](https://open.spotify.com/track/6ydtxqMaxXbLlBUVvlDuRU) | [Aaron Rimbui \| Ayanda Sikade \| Herbie Tsoaeli](https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo) | [Kwetu](https://open.spotify.com/album/1cfKpuS4Nb9aGIa99MxRf0) | 5:26 | 2024-03-15 | 2024-04-19 |
 | [Lesedi](https://open.spotify.com/track/0nL1LtNr9zcl0wgGOK6HJm) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [Lesedi](https://open.spotify.com/album/1Sukgz3b5erT1h2RdaAmlY) | 10:02 | 2024-02-22 | 2026-05-22 |
 | [Lesedi](https://open.spotify.com/track/7yCLdDtr0RBqQ36gQ0OYhO) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [In The Wake](https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq) | 10:02 | 2025-08-29 |  |
+| [Let The Sky Open Under Your Feet](https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa) | [Let The Sky Open Under Your Feet](https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec) | 6:35 | 2026-05-29 |  |
 | [Libations: Omnyama](https://open.spotify.com/track/6Bd3QTwgistsqEXT5NfQ7d) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Libations: Omnyama](https://open.spotify.com/album/5uTHEvO4Nei1U9zcAfat8c) | 6:05 | 2024-04-11 | 2024-06-01 |
 | [Life Esidimeni](https://open.spotify.com/track/6R6JexV8l3fhKCfRPrTaI6) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [UMDALI](https://open.spotify.com/album/6P9Zd5TpULDQd28yr50MlY) | 11:06 | 2023-11-01 | 2023-11-17 |
 | [Light Cycle / Vang Gou Die Strandloper](https://open.spotify.com/track/2Qr7PCmshXAAOUvP3bwotE) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa) | [Light Cycle / Vang Gou Die Strandloper](https://open.spotify.com/album/0AbupBIps2UaQWWQjIWmTt) | 8:40 | 2024-01-25 | 2025-08-24 |
@@ -340,7 +341,7 @@
 | [Wadada](https://open.spotify.com/track/5GvAP2rW6vPSqAdNsUI4Oq) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 4:45 | 2022-07-07 | 2024-05-17 |
 | [Walk Away](https://open.spotify.com/track/1v0x492mSc227x9PSJWfw7) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 4:17 | 2026-02-13 |  |
 | [Wandibulala](https://open.spotify.com/track/694A0LiaIJIrsetoQ8VLtO) | [Leon John](https://open.spotify.com/artist/014zDmQp2RjLA5nDMfi7ak), [Umzulu Phaqa](https://open.spotify.com/artist/6nStNfo8Gzsff8NcJl4mND), [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [License to Feel](https://open.spotify.com/album/1b6ehHrDD8xfdsQosE9OB1) | 3:20 | 2025-06-13 | 2025-06-20 |
-| [War](https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [War](https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH) | 5:11 | 2026-02-13 |  |
+| [War](https://open.spotify.com/track/1VrOE2BSzdM1sJPMUSADXQ) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [War](https://open.spotify.com/album/2FxrAPMVpvhLHVlmUzc1SH) | 5:11 | 2026-02-13 | 2026-05-30 |
 | [Water and Lights](https://open.spotify.com/track/7dH6eVi99rR7ga6yS03Q4U) | [Paul Hanmer](https://open.spotify.com/artist/11s57qoiAhGly26pUmZhO6) | [Water and Lights](https://open.spotify.com/album/2nWOYQfY86YaJDwBKadf3t) | 5:53 | 2026-04-29 | 2026-05-22 |
 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 | 2024-01-11 |  |
 | [Water Signs](https://open.spotify.com/track/2nsw0NQR8x2HCjgSZ4cnUV) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Simon Manana](https://open.spotify.com/artist/3q7fjTvf2EjwCnFKHr86x9), [Gontse Makhene](https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD), [Micca Manganye](https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae) | [Water Signs](https://open.spotify.com/album/4yVOwDT9cBY7j30TQcA89d) | 6:18 | 2023-02-03 | 2024-01-26 |

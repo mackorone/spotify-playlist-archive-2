@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,259 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,257 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 17 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 |
 | 18 | [The Simple Things](https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj) | [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [Love Adolescent](https://open.spotify.com/album/5R3YIYy4faDKKUtdBqbE52) | 4:23 |
 | 19 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 |
-| 20 | [Here's Your Perfect \- Acoustic](https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:44 |
-| 21 | [Two Ghosts \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1GDF5AusV7p0wwi4OVNz3i) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 3:44 |
+| 20 | [Two Ghosts \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1GDF5AusV7p0wwi4OVNz3i) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 3:44 |
+| 21 | [Here's Your Perfect \- Acoustic](https://open.spotify.com/track/5bTxvPSxViGxFfcawiCH0U) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect \(Acoustic\)](https://open.spotify.com/album/4jd0s2ooY8L7G3zbUf5rHN) | 2:44 |
 | 22 | [Morning Coffee](https://open.spotify.com/track/6zvtPVptAvY6wRbkPGLKff) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc), [Nalba](https://open.spotify.com/artist/7Dzf4xL1daaeiFXaz4SWXp) | [Morning Coffee](https://open.spotify.com/album/0Lhj5XHmeZTOXmrXDeXpEF) | 2:22 |
 | 23 | [rainbow](https://open.spotify.com/track/46Ga2kf5pfMcFINTIx0kXI) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [rainbow](https://open.spotify.com/album/7xi7Dl3oKoCK8lQeQnyhFd) | 3:22 |
 | 24 | [No Fun](https://open.spotify.com/track/6IGq3RtjQ7o25MvImbKzRQ) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [No Fun / Lucky for You](https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh) | 3:31 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 56 | [Beautiful Girl \- Recorded at Kodama Studios, Philippines](https://open.spotify.com/track/2rSEuTXuRnGOHcU5JuoW13) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Beautiful Girl \- Recorded at Kodama Studios, Philippines](https://open.spotify.com/album/3UL37TgEAcc58GXvm8hdnr) | 3:00 |
 | 57 | [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 |
 | 58 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
-| 59 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 |
-| 60 | [Someday](https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP) | [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Someday](https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV) | 4:19 |
+| 59 | [Someday](https://open.spotify.com/track/6sl4KzZ9PRb8xTzjYIrHAP) | [Leanne & Naara](https://open.spotify.com/artist/2nZ18B9RTjJH56v2NTnNAI) | [Someday](https://open.spotify.com/album/7quF2TPkzNhuVjyub5UtoV) | 4:19 |
+| 60 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 |
 | 61 | [Dream in Blue](https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [The Stray Birds](https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t) | 3:32 |
 | 62 | [Highlights](https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Highlights](https://open.spotify.com/album/275Y4XYTNfatAHFQfU54dt) | 2:32 |
 | 63 | [Come Back Around](https://open.spotify.com/track/7G89TqdJ9lZIv4toGuxjAr) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Alone, Together](https://open.spotify.com/album/0rjKAJNRVVFIzCF8mYLPCZ) | 3:00 |

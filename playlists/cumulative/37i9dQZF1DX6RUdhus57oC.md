@@ -4,7 +4,7 @@
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-183 songs - 8 hr 2 min
+184 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Svaj](https://open.spotify.com/track/0RdeSJMPOXBb8a1MmEP7Fq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Svaj](https://open.spotify.com/album/5mxzoB3Xja5f0sVuI1nsv3) | 2:26 | 2023-09-29 | 2024-06-04 |
 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 | 2025-11-21 | 2026-01-16 |
 | [Taciturn](https://open.spotify.com/track/6k4vTbYOi9pLZHaJYhBRu1) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Taciturn](https://open.spotify.com/album/5xnqoJGg61x04VqCJjBeG0) | 2:59 | 2025-02-27 |  |
+| [Tales of an Oak](https://open.spotify.com/track/5bCmrU1C14AFNulJ5qMNEw) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Tales of an Oak](https://open.spotify.com/album/1kXMFkrXkNYwkldSswlJpb) | 2:00 | 2026-03-18 |  |
 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 | 2025-11-21 |  |
 | [The Book of Jen](https://open.spotify.com/track/7LnU4vflcZ8fyuFaVxGtuN) | [Tedosio](https://open.spotify.com/artist/3El5MgGZoJYZvUhnn9O94A) | [The Book of Jen](https://open.spotify.com/album/02TTz5Zlr3FHrlmEdDqab6) | 2:47 | 2023-09-29 | 2024-06-04 |
 | [The Midnight Sun](https://open.spotify.com/track/73WwLsqz0sZQucwkeyybus) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [The Midnight Sun](https://open.spotify.com/album/6ST5jKASoHoEU1T7pgq5cE) | 2:58 | 2023-09-29 | 2024-06-04 |
@@ -183,7 +184,7 @@
 | [We were the hook](https://open.spotify.com/track/5EcZL9ug4iU6C7Dqqfixgt) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [We were the hook](https://open.spotify.com/album/5qtASuu0vG7fEmdjnb9ytb) | 2:07 | 2023-09-29 | 2024-06-04 |
 | [What We Say](https://open.spotify.com/track/5KiGarBX9pitdRxbFRUYAn) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [What We Say](https://open.spotify.com/album/3XrAGJAi6CQKGkRaNRJljd) | 2:47 | 2025-11-21 |  |
 | [When it drizzles](https://open.spotify.com/track/5YB0FJ63K0g5ZXw0BN4HXF) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [When it drizzles](https://open.spotify.com/album/3nDvhFMcF7a0M5CNuivOn4) | 2:28 | 2023-09-29 | 2024-06-05 |
-| [When The Raindrops Begin To Cry](https://open.spotify.com/track/2x85LEhnRE6mlLrKfwoJuD) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [When The Raindrops Begin To Cry](https://open.spotify.com/album/7Ld77MOEeYRSORFRGMKL9g) | 2:40 | 2025-11-21 |  |
+| [When The Raindrops Begin To Cry](https://open.spotify.com/track/2x85LEhnRE6mlLrKfwoJuD) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [When The Raindrops Begin To Cry](https://open.spotify.com/album/7Ld77MOEeYRSORFRGMKL9g) | 2:40 | 2025-11-21 | 2026-05-30 |
 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 | 2025-11-21 |  |
 | [Wiegenlieden](https://open.spotify.com/track/3U6R2JSOzgPzQo57fZFsDZ) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Wiegenlieden](https://open.spotify.com/album/55EUDdrVTg81REpnhuSwVl) | 2:38 | 2025-11-21 |  |
 | [Wild Dandelion \- Solo Piano](https://open.spotify.com/track/0K1g45Vb0qdmVufrYX8tHx) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Because You Were The Universe](https://open.spotify.com/album/2se5cnO8caL1zD8qrJucKo) | 2:24 | 2025-04-11 | 2026-01-16 |

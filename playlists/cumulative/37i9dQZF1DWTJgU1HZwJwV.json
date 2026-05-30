@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/2SwqfyY10feJTaYWu43Zqi"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137183,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/10OUbLj4inL5Y5mfqQC1Mb"
+    },
+    {
+      "album": {
         "name": "Along rusty rails",
         "url": "https://open.spotify.com/album/60chGCUrcfMTQD2WxZsqyC"
       },
@@ -3457,6 +3475,24 @@
     },
     {
       "album": {
+        "name": "Friend",
+        "url": "https://open.spotify.com/album/2HtPVWcvHWH9u8pGCD3094"
+      },
+      "artists": [
+        {
+          "name": "Eric Nilson",
+          "url": "https://open.spotify.com/artist/308tHLn6CKYz3k6w5zTxFd"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138493,
+      "name": "Friend",
+      "url": "https://open.spotify.com/track/4KcIyORNS8MEidqfAhpufz"
+    },
+    {
+      "album": {
         "name": "From me to you",
         "url": "https://open.spotify.com/album/1dMuiLPoMq3CJuKgFrKc7p"
       },
@@ -4786,6 +4822,24 @@
       "duration_ms": 94054,
       "name": "La Sete D'Amore",
       "url": "https://open.spotify.com/track/4wLcJj4nrjiYGn3iRaDAmq"
+    },
+    {
+      "album": {
+        "name": "La Strada Dell'amore",
+        "url": "https://open.spotify.com/album/41kCwLAB68InGmnpWpoVgd"
+      },
+      "artists": [
+        {
+          "name": "Albert Wenmo",
+          "url": "https://open.spotify.com/artist/3oRcts32YJGp3vx0U7ZyKf"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125884,
+      "name": "La Strada Dell'amore",
+      "url": "https://open.spotify.com/track/0iDNOaVC9U1fjFSh3UXq3e"
     },
     {
       "album": {
@@ -9626,6 +9680,24 @@
       "duration_ms": 161354,
       "name": "The Meadow Stirs",
       "url": "https://open.spotify.com/track/7cVR6AMaMaUFuWFGvAsjDv"
+    },
+    {
+      "album": {
+        "name": "The Midnight Oil",
+        "url": "https://open.spotify.com/album/0lqmnpZkLOLirEruzyZVGV"
+      },
+      "artists": [
+        {
+          "name": "Suno Light",
+          "url": "https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146476,
+      "name": "The Midnight Oil",
+      "url": "https://open.spotify.com/track/5CAWxpUqibj7afx1wEOk40"
     },
     {
       "album": {

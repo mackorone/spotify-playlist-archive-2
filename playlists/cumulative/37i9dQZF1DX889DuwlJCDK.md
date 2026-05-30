@@ -4,11 +4,12 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: the paddles
 
-1,801 songs - 4 day 12 hr 48 min
+1,802 songs - 4 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!](https://open.spotify.com/track/2l8y4xSzP1b7oZBvFnpWdA) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:05 | 2024-03-07 | 2024-07-11 |
+| [\(a\_study\)](https://open.spotify.com/track/6LImLpGYlruBWi75lOWPtf) | [AHUB](https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs) | [\(a\_study\)](https://open.spotify.com/album/5Qx2KPtoxrFRsMZgH865Vo) | 1:38 | 2026-05-26 |  |
 | [0strich ran faster than me, wth](https://open.spotify.com/track/7vztj6iiU61WTqKpFlq1wc) | [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1), [low mana](https://open.spotify.com/artist/6e5p88pjUjA4y7R34rUHiw) | [43210](https://open.spotify.com/album/4FWtBj1ZEJTJYmRPUSiJ0u) | 2:30 | 2025-07-08 | 2025-09-10 |
 | [1000 days of moments](https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000 days of moments](https://open.spotify.com/album/4kDY1iaK6MdsDsZEZ78Ebk) | 3:23 | 2025-04-22 | 2026-02-12 |
 | [100個の幸せとたった1つの](https://open.spotify.com/track/17Rs9pcjsoKPEnXfMTTK9X) | [606号室](https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI) | [100個の幸せとたった1つの](https://open.spotify.com/album/5VSDD9OivqIxCk6JBExnBQ) | 5:05 | 2024-12-17 | 2025-01-15 |
@@ -71,7 +72,7 @@
 | [Apollo \- Single Version](https://open.spotify.com/track/2p8GxDwi4ZH7WrvSOprFqi) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Apollo](https://open.spotify.com/album/7pJkY6zhcFm4jzSeGEUy6k) | 3:48 | 2025-02-04 | 2025-11-05 |
 | [aquarium](https://open.spotify.com/track/5BWT3Lvw8lwkhKHlz0EK7A) | [カラノア](https://open.spotify.com/artist/3OG4fjBtofQNIBaWMnZw2m) | [ネオンテトラ](https://open.spotify.com/album/5eBe2vfBo5KDCoTwC1vVGf) | 3:24 | 2025-07-29 | 2025-10-15 |
 | [Arifureta](https://open.spotify.com/track/2B44z1C18AAvoq14EKbAgi) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [Arifureta](https://open.spotify.com/album/2kNc23dtN8BPMkd2fNgumj) | 3:41 | 2025-04-08 | 2025-04-23 |
-| [Art](https://open.spotify.com/track/3EertikjuY6i1qojJ00Mpt) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [My favorite things](https://open.spotify.com/album/4aTzjXi53VeWSLORLhTOWq) | 3:26 | 2026-03-17 |  |
+| [Art](https://open.spotify.com/track/3EertikjuY6i1qojJ00Mpt) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [My favorite things](https://open.spotify.com/album/4aTzjXi53VeWSLORLhTOWq) | 3:26 | 2026-03-17 | 2026-05-30 |
 | [Aru ryuseigun](https://open.spotify.com/track/3uhm4bZRlimOth54MzjCQK) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [nude](https://open.spotify.com/album/44s4eyKJJmyJ3vWfZVXHqg) | 3:38 | 2026-01-27 | 2026-02-11 |
 | [Ayanami](https://open.spotify.com/track/34RGbpH0MRSxL0OQssmHQ3) | [sayonaramiochan](https://open.spotify.com/artist/7LBBSHQF4grvtHDGE8EfK7) | [Ayanami](https://open.spotify.com/album/43BEXRAxuNoWu86ad3ti8I) | 2:57 | 2024-01-25 | 2024-02-01 |
 | [B.O.A.T.](https://open.spotify.com/track/1kqxEAM1Ephzvg34R4YaW8) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [三者山羊](https://open.spotify.com/album/6BDIjMM0k0DBvsGmxglAIC) | 3:44 | 2026-04-07 |  |

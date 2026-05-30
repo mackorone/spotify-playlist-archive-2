@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582 likes - 317 songs - 17 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583 likes - 317 songs - 17 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 44 | [Dance with Me \(feat\. Thomas Rhett & Young Thug\)](https://open.spotify.com/track/6wXgnhpmOPEJ7cUweSyy2B) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:50 |
 | 45 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 |
 | 46 | [IF YOU GO DOWN \(I'M GOIN' DOWN TOO\)](https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:46 |
-| 47 | [Never Enough](https://open.spotify.com/track/7rdP71W8x4UbJ0KAKBACbo) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:33 |
-| 48 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 |
+| 47 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 |
+| 48 | [Never Enough](https://open.spotify.com/track/7rdP71W8x4UbJ0KAKBACbo) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:33 |
 | 49 | [Guys My Age](https://open.spotify.com/track/0Xm8tw6qikotb8FAOZ2ks7) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:33 |
 | 50 | [I Want to Write You a Song](https://open.spotify.com/track/608R6FvRtAqf2dvgKMzebP) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 2:59 |
 | 51 | [C'mon, C'mon](https://open.spotify.com/track/3lnjFENd7rHxPYM9b964Md) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home \(Expanded Edition\)](https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt) | 2:44 |
@@ -150,8 +150,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 140 | [This Girl](https://open.spotify.com/track/0TJdgYzIwuJNikaavO9Cul) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:09 |
 | 141 | [Overdrive](https://open.spotify.com/track/5BJ6XYpZGCGfsfqY6GFUNf) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 3:38 |
 | 142 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
-| 143 | [Softly](https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
-| 144 | [Might As Well Be Me](https://open.spotify.com/track/6oZ3hh7FI0bj2dUiF6OojO) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH) | 2:49 |
+| 143 | [Might As Well Be Me](https://open.spotify.com/track/6oZ3hh7FI0bj2dUiF6OojO) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH) | 2:49 |
+| 144 | [Softly](https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:53 |
 | 145 | [Never Let Me Go](https://open.spotify.com/track/42nE6CXQf0H6GdqYqau4K8) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Always in Between \(Deluxe\)](https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN) | 3:28 |
 | 146 | [BRAINWASHED](https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 |
 | 147 | [Start Without You \(feat\. Laza Morgan\)](https://open.spotify.com/track/24lvFiLei3W4DjCUA3LpFY) | [Alexandra Burke](https://open.spotify.com/artist/6yZoNdsPrYLviaEOOzbZt8), [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [Overcome](https://open.spotify.com/album/0Jo60TeFm2QkBR9d5anzRU) | 3:32 |
@@ -326,4 +326,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 316 | [No Le Digan](https://open.spotify.com/track/5nnUKcHKe4Qm55twZd4hnd) | [Paco](https://open.spotify.com/artist/3TFL2KVdTUeDMCxcGvPm2j) | [Urbano, Latinoamericano](https://open.spotify.com/album/1jrLDQ2dN17YE16I0XlR5f) | 3:50 |
 | 317 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `AcSvEgAAAADlzqeoD1UiExIcfB8rkul/`
+Snapshot ID: `AcS0sgAAAACmRP59g9wh2H0M7EVMUKzL`

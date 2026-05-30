@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,757 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,801 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 46 | [Naranja a Morado](https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 4:16 |
 | 47 | [Vamos a Dar el Roll](https://open.spotify.com/track/16GzftkFYQk71qlyYjFLhZ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:40 |
 | 48 | [No Estés Triste](https://open.spotify.com/track/0RmcxxIWGaiZ4mvK8ryRsq) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [No estes triste](https://open.spotify.com/album/3zQZmkhiglO4prMpN5U2A6) | 3:18 |
-| 49 | [Stamford Bridge](https://open.spotify.com/track/1zhQNQUBbZFaYmxhpOhyLC) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samg](https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ) | [Stamford Bridge](https://open.spotify.com/album/3n0nCCkmMF2pzXbMvpeg0B) | 3:03 |
-| 50 | [La Que Se Fue](https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Que Se Fue](https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26) | 2:46 |
+| 49 | [La Que Se Fue](https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [La Que Se Fue](https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26) | 2:46 |
+| 50 | [Stamford Bridge](https://open.spotify.com/track/1zhQNQUBbZFaYmxhpOhyLC) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samg](https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ) | [Stamford Bridge](https://open.spotify.com/album/3n0nCCkmMF2pzXbMvpeg0B) | 3:03 |
 
-Snapshot ID: `ahY0AAAAAABO86RIVSGo2Ju4UpO7Wzav`
+Snapshot ID: `aheFgAAAAADWsncmK/vlnOPm2AKkO+zu`

@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: Serebii
 
-1,558 songs - 3 day 18 hr 28 min
+1,559 songs - 3 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -729,6 +729,7 @@
 | [Into The Wild](https://open.spotify.com/track/1sZEsb6eFoKI8qTVBahzO2) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Into The Wild](https://open.spotify.com/album/2HtXNtYOhoPOCDbAduR3oy) | 3:41 | 2026-02-26 | 2026-04-17 |
 | [Is It Love?](https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Is It Love?](https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR) | 4:12 | 2026-03-19 |  |
 | [Is This Really Love?](https://open.spotify.com/track/0h2vooD5PFOykbPon6ShIZ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/00xSzSrckgOgVAqZUIcrxf) | 3:15 | 2025-04-24 | 2025-05-23 |
+| [Island](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:03 | 2026-05-28 |  |
 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-05-23 | 2024-07-12 |
 | [It Don't Matter](https://open.spotify.com/track/1BbD5gnHzob2VsddH8zoSM) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [It Don't Matter](https://open.spotify.com/album/53T5VUowP9rrmcnOJQLHNP) | 3:25 | 2024-11-28 | 2025-02-14 |
 | [It Hurts](https://open.spotify.com/track/5imUfUWymFxA95eoTId9vs) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [It Hurts](https://open.spotify.com/album/6Wd0G2DeqQNSnIr7jyTwb5) | 3:13 | 2024-10-17 | 2024-12-06 |
@@ -1317,6 +1318,7 @@
 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 | 2024-07-11 | 2024-08-23 |
 | [Taking Care of It](https://open.spotify.com/track/5rXD9gqZfnyIwwbfYKNVO8) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Taking Care of It](https://open.spotify.com/album/6jKFmiGmp2k58uNI0JmqEE) | 4:54 | 2024-11-28 | 2025-01-10 |
 | [Talk About It](https://open.spotify.com/track/0CMB8RuAsWGJ27KGI11ssZ) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Talk About It](https://open.spotify.com/album/4JmfHt2VTxhIPVXompKDoN) | 3:57 | 2025-05-15 | 2025-07-25 |
+| [Talk On The Hill](https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Talk On The Hill](https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y) | 3:27 | 2026-05-29 |  |
 | [Talk Talk Talk](https://open.spotify.com/track/2AcvdEAVDfdXxlWoi82apC) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Talk Talk Talk](https://open.spotify.com/album/2i9bKhZ9HOdYWLAS92fARL) | 3:54 | 2025-02-20 | 2025-04-04 |
 | [talking shit](https://open.spotify.com/track/3tMinsuWzmu5PlLa7CWhFC) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [talking shit](https://open.spotify.com/album/4P1uSRHlvwn9VZmMaWWqzi) | 3:03 | 2024-10-10 | 2024-11-08 |
 | [Tangerine](https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Tangerine](https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR) | 4:50 | 2024-10-10 | 2025-02-14 |
@@ -1427,8 +1429,7 @@
 | [Touch](https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd) | [JESS REISS](https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8) | [Touch](https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I) | 3:15 | 2025-02-20 | 2025-05-23 |
 | [Touching and Talking](https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Touching and Talking](https://open.spotify.com/album/63nBX7FKEB6e9j5NyFu2yF) | 3:16 | 2024-07-11 | 2024-08-09 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-11-14 |
-| [traces](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 |  |
-| [Track 14](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 0:00 | 2026-05-28 |  |
+| [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 |  |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-05-22 |
 | [Tractor Beams](https://open.spotify.com/track/5F8SZeipQ3cEN2gZ8BxSpO) | [Tutara Peak](https://open.spotify.com/artist/6GqQziMdX3FNMhEx9zd3NX), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Tractor Beams](https://open.spotify.com/album/43DvYfPb4cbuQr2wnBhdh9) | 3:18 | 2024-08-01 | 2024-09-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-07-25 |

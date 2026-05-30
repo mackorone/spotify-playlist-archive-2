@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > a experimental mix of rock, punk, alt & indie\. Cover: Opus Kink
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,334 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,325 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 43 | [Pretty Girls](https://open.spotify.com/track/1qjdgDgapvORPzzB45Qi1F) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Real Deal](https://open.spotify.com/album/20QRMueqfMw1nHWOfXZGOL) | 3:54 |
 | 44 | [The Head Tree](https://open.spotify.com/track/3HWdA71FSlLsCmgfrqOakx) | [Opus Kink](https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3), [The New Eves](https://open.spotify.com/artist/1uxnfBJssIJmSQUiuOB77l) | [The Head Tree](https://open.spotify.com/album/2ZNtheOiyXjpr3l0IGNOnH) | 4:28 |
 | 45 | [Wash Away](https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Wash Away](https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt) | 3:23 |
-| 46 | [Still Around](https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Something Worth Waiting For](https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG) | 3:24 |
-| 47 | [In My Pocket](https://open.spotify.com/track/2ZO4EidiOqngPkhNlSY5Zl) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Bite Reality](https://open.spotify.com/album/6i7UnNlsaT8MbI5TKtX3rM) | 3:58 |
-| 48 | [Sunburned in London](https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Sunburned in London](https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv) | 6:37 |
-| 49 | [We Don't Care About That](https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [On the Intricate Inner Workings of the System](https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH) | 4:26 |
+| 46 | [In My Pocket](https://open.spotify.com/track/2ZO4EidiOqngPkhNlSY5Zl) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Bite Reality](https://open.spotify.com/album/6i7UnNlsaT8MbI5TKtX3rM) | 3:58 |
+| 47 | [Still Around](https://open.spotify.com/track/6JeIv2YPBPPmWsr8kHGMFn) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Something Worth Waiting For](https://open.spotify.com/album/188WRkngMxrMTVmeWKp3yG) | 3:24 |
+| 48 | [We Don't Care About That](https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [On the Intricate Inner Workings of the System](https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH) | 4:26 |
+| 49 | [Sunburned in London](https://open.spotify.com/track/3yl2nZ7PzggmJ0QOqA8OZT) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Sunburned in London](https://open.spotify.com/album/0QhhQxOzxnkc78HbKI94Nv) | 6:37 |
 | 50 | [Girth](https://open.spotify.com/track/1puL7uMJb02F8Hq6a4qpcD) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Girth](https://open.spotify.com/album/7fUqP6t74BMOj1UnMTjfga) | 3:03 |
-| 51 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 |
-| 52 | [Van Goes](https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [EELS](https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT) | 3:33 |
+| 51 | [Van Goes](https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [EELS](https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT) | 3:33 |
+| 52 | [Besties](https://open.spotify.com/track/5Rb1SPunxB1aKDfaYQLwI7) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Besties](https://open.spotify.com/album/4vzxEXWrTCI4AZQJ3x8gy1) | 3:36 |
 | 53 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
 | 54 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
 | 55 | [Building 650](https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cowards](https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta) | 3:51 |
@@ -76,19 +76,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 66 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 |
 | 67 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 |
 | 68 | [Appetite](https://open.spotify.com/track/0itY67PAKCZ7ct5rfqDYny) | [Lifeguard](https://open.spotify.com/artist/17HkDJlzsK1YoBja2XmY5O) | [Ultra Violence / Appetite](https://open.spotify.com/album/1knLB4NojYvAH1vULgDuNz) | 2:27 |
-| 69 | [Rolling By](https://open.spotify.com/track/6rLuJ0UjBbi4xYwvUtYP0B) | [Antenna](https://open.spotify.com/artist/602NI1Pvl6SbFdDJXXqL4f) | [Rolling By](https://open.spotify.com/album/6iv1lLZhgmiVlvgea0i53c) | 3:02 |
-| 70 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 |
-| 71 | [Cool Job](https://open.spotify.com/track/06kKHELGsUCf40WjytjBa7) | [Telehealth](https://open.spotify.com/artist/3llBwQI73SJWVmKudqLghX) | [Cool Job](https://open.spotify.com/album/18RQPFDmUjqqf64v87muCa) | 1:57 |
-| 72 | [XO](https://open.spotify.com/track/7AJo6FdBPHCkyZ00euEKNg) | [How Much Art](https://open.spotify.com/artist/588xSD6VuBMAZf1xqf6qPy) | [XO](https://open.spotify.com/album/46AHcZ5qg9wiXaTOyOQoTD) | 2:56 |
-| 73 | [Volvo \(On The Road\)](https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84) | [Feels Like Heaven](https://open.spotify.com/artist/7a6QX0IDmM5mXo3bMB1oeO) | [Within Dreams](https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB) | 2:25 |
-| 74 | [The Best Tears of Your Life](https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:28 |
-| 75 | [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 |
-| 76 | [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 |
-| 77 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 |
-| 78 | [Circe](https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [How To Be Cool At Parties/Circe](https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe) | 3:20 |
-| 79 | [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 |
-| 80 | [March on for Pax Ramona](https://open.spotify.com/track/02EvfBHuBf5QmG6RdVzkih) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [March on for Pax Ramona](https://open.spotify.com/album/5sZfixhUM7Siag5o0cbmi0) | 4:33 |
-| 81 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 |
+| 69 | [Everything I Wanted](https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Everything I Wanted](https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2) | 4:18 |
+| 70 | [Rolling By](https://open.spotify.com/track/6rLuJ0UjBbi4xYwvUtYP0B) | [Antenna](https://open.spotify.com/artist/602NI1Pvl6SbFdDJXXqL4f) | [Rolling By](https://open.spotify.com/album/6iv1lLZhgmiVlvgea0i53c) | 3:02 |
+| 71 | [XO](https://open.spotify.com/track/7AJo6FdBPHCkyZ00euEKNg) | [How Much Art](https://open.spotify.com/artist/588xSD6VuBMAZf1xqf6qPy) | [XO](https://open.spotify.com/album/46AHcZ5qg9wiXaTOyOQoTD) | 2:56 |
+| 72 | [Volvo \(On The Road\)](https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84) | [Feels Like Heaven](https://open.spotify.com/artist/7a6QX0IDmM5mXo3bMB1oeO) | [Within Dreams](https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB) | 2:25 |
+| 73 | [Circe](https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [How To Be Cool At Parties/Circe](https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe) | 3:20 |
+| 74 | [Cool Job](https://open.spotify.com/track/06kKHELGsUCf40WjytjBa7) | [Telehealth](https://open.spotify.com/artist/3llBwQI73SJWVmKudqLghX) | [Cool Job](https://open.spotify.com/album/18RQPFDmUjqqf64v87muCa) | 1:57 |
+| 75 | [The Best Tears of Your Life](https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:28 |
+| 76 | [Salsa Verde](https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Salsa Verde](https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ) | 3:24 |
+| 77 | [After Party](https://open.spotify.com/track/7BknNkgT0Bvkx6awnyj16Z) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 3:09 |
+| 78 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 |
+| 79 | [Out Of My Head](https://open.spotify.com/track/3GfF24z5aHM8idyueXywno) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Out Of My Head](https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1) | 3:10 |
+| 80 | [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 |
+| 81 | [March on for Pax Ramona](https://open.spotify.com/track/02EvfBHuBf5QmG6RdVzkih) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [March on for Pax Ramona](https://open.spotify.com/album/5sZfixhUM7Siag5o0cbmi0) | 4:33 |
 | 82 | [In For a… Pound!](https://open.spotify.com/track/61eB7URzZDMWNywmlda4HX) | [Shaking Hand](https://open.spotify.com/artist/3HPGoeMdjOGfyi1GGl0G0J) | [Shaking Hand](https://open.spotify.com/album/0e8Wa6LD98MLMUHmH8b7mq) | 4:43 |
 | 83 | [Cowards Around](https://open.spotify.com/track/046dPCw2ZcqmD5oBcpOdBO) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE) | 2:21 |
 | 84 | [Fire, Man](https://open.spotify.com/track/6IICxWIGvm4adq3rPpnmBV) | [Stuck](https://open.spotify.com/artist/26NBM9MmocuhYDY4flth3a) | [Optimizer](https://open.spotify.com/album/6DH6Tz9pzAvqGT6pfEIVPw) | 5:13 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 97 | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/track/1ij91ZruNl7xGgWE0ZRcBb) | [The Belair Lip Bombs](https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT) | [Don’t Let Them Tell You \(It’s Fair\)](https://open.spotify.com/album/5gznrt3F3a9huMKqdzxPPN) | 3:57 |
 | 98 | [Factory](https://open.spotify.com/track/7L3Swbzvjy2QDwoLOsrJSX) | [Suitor](https://open.spotify.com/artist/5lTMfAl2DtVBQLtoOVHxty) | [Saw You Out with the Weeds](https://open.spotify.com/album/5owsbvTr7nrBK24Gjrqw1L) | 3:51 |
 | 99 | [Warmer Than Gold](https://open.spotify.com/track/77k6ZdVPouIPhxCOQyVNDQ) | [GUV](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [Warmer Than Gold](https://open.spotify.com/album/6jcG87zWQZGizrTR4QuJ6Y) | 3:50 |
-| 100 | [I Love My Wife](https://open.spotify.com/track/2ZjGheF3bEDNwHktj7WQXu) | [Touchdown Jesus](https://open.spotify.com/artist/4m2cmezyP3GrxPbHdNSgjM) | [It's All Feast Or Famine](https://open.spotify.com/album/3DjQPilg3Hxgx88B6bWmfd) | 3:44 |
+| 100 | [Moving On](https://open.spotify.com/track/1Of3zosPbcRV7ivFZzjIta) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [Half Divorced](https://open.spotify.com/album/4oTZaBT6SoZ9NURR8p42xr) | 4:28 |
 
 Snapshot ID: `AAAAAE67A9AiAkaCei4zIXZ7BcrJM5+K`

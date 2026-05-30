@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-511 songs - 1 day 7 hr 28 min
+512 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 | 2026-04-15 |  |
 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 | 2025-12-01 | 2025-12-28 |
 | [Camgirl](https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Camgirl](https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt) | 4:08 | 2026-02-04 | 2026-05-08 |
+| [Chicago](https://open.spotify.com/track/0uhM1mDQ9tsxPdV4oorvUv) | [Follow Deep](https://open.spotify.com/artist/0pi2JVymYDQ1helz6Z1AOg) | [Chicago](https://open.spotify.com/album/5V7ZgYI3RoHeLYNtiJoTLB) | 3:09 | 2026-05-29 |  |
 | [Chilly](https://open.spotify.com/track/0fhXATRQObAWuSEUlNY6td) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:38 | 2026-04-16 |  |
 | [Ciclos](https://open.spotify.com/track/4oIDPzkzzlZSWo2IKn6YfR) | [Peyote](https://open.spotify.com/artist/2jlDdJ58pw1y20cCSrmbPF) | [Ciclos](https://open.spotify.com/album/3XL3e4KxuMu0ty0nj8HW2F) | 3:57 | 2025-11-11 | 2025-12-12 |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-15 | 2026-02-04 |

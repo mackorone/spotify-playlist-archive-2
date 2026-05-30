@@ -2409,6 +2409,24 @@
     },
     {
       "album": {
+        "name": "I Just Wanna Be Loved",
+        "url": "https://open.spotify.com/album/6fJ8HGPgv0iwvcBQpC6Emg"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Rose",
+          "url": "https://open.spotify.com/artist/4Ff6AJhOGPhMC1wezoZNTj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182926,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3SwFHgWiPsGEHSBYpCfM1W"
+    },
+    {
+      "album": {
         "name": "Angel Baby",
         "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
       },
@@ -3648,7 +3666,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 222512,
       "name": "bad enough",
       "url": "https://open.spotify.com/track/01aNqddaggrPJYUIdRApRD"
@@ -4763,6 +4781,24 @@
     },
     {
       "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/3D0LxzawBk0Q6YIawaq6Kw"
+      },
+      "artists": [
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220510,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/4WmVt5fadMOfE9Fsc6F2Cw"
+    },
+    {
+      "album": {
         "name": "Birthday Cake",
         "url": "https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT"
       },
@@ -5756,7 +5792,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 184694,
       "name": "boy that's loving you",
       "url": "https://open.spotify.com/track/3zuhn8OqdMQFjrQdlZJ5Hw"
@@ -7372,6 +7408,24 @@
       "duration_ms": 182467,
       "name": "Changing",
       "url": "https://open.spotify.com/track/3Fq2jP7WOh6Jmw82J0ZUv9"
+    },
+    {
+      "album": {
+        "name": "scars to prove it",
+        "url": "https://open.spotify.com/album/73Sgh6sfNyy8ZA3RZLJmKS"
+      },
+      "artists": [
+        {
+          "name": "Hailey Picardi",
+          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194020,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/1yqQANXMu1CgGTjHQewP6G"
     },
     {
       "album": {
@@ -11276,7 +11330,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
@@ -13606,7 +13660,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 159729,
       "name": "Favorite Person",
       "url": "https://open.spotify.com/track/2aSLm1nQp9MmNwEqHyPerf"
@@ -15424,7 +15478,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 157226,
       "name": "Ginger Tea",
       "url": "https://open.spotify.com/track/4jBCtBR2iSffMZPh3Bdk2L"
@@ -16942,6 +16996,24 @@
       "duration_ms": 202133,
       "name": "Hard Work",
       "url": "https://open.spotify.com/track/6lxhClexlw4zNH0yuxv4An"
+    },
+    {
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "album": {
@@ -19718,7 +19790,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 220291,
       "name": "I Had a Dream She Took My Hand",
       "url": "https://open.spotify.com/track/2hUOnJj6B7938kFBcPO6l5"
@@ -30088,7 +30160,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 226553,
       "name": "Not the Only One",
       "url": "https://open.spotify.com/track/17AnW24hC6ZU6P8VQwElH9"
@@ -30218,6 +30290,24 @@
       "duration_ms": 157779,
       "name": "Nothing Feels Better",
       "url": "https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p"
+    },
+    {
+      "album": {
+        "name": "Nothing Like Hollywood",
+        "url": "https://open.spotify.com/album/77UyBNIRrgF0yW0d5WMgGU"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185992,
+      "name": "Nothing Like Hollywood",
+      "url": "https://open.spotify.com/track/52cP6CHMCWQc6s1XItREqg"
     },
     {
       "album": {
@@ -33010,7 +33100,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 208575,
       "name": "pocket knife",
       "url": "https://open.spotify.com/track/3zw5VNP6TiCdjTsPdWaUuu"
@@ -39733,6 +39823,24 @@
     },
     {
       "album": {
+        "name": "Strangers to Strangers",
+        "url": "https://open.spotify.com/album/6AgFEcYV2sGLDOOhVjqsYT"
+      },
+      "artists": [
+        {
+          "name": "Zach Hood",
+          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183461,
+      "name": "Strangers to Strangers",
+      "url": "https://open.spotify.com/track/6YQNdvwDWVb1zi7CgkWCWc"
+    },
+    {
+      "album": {
         "name": "strawberry cheeks",
         "url": "https://open.spotify.com/album/0qy7ydTLwBmQeHbJMHL88t"
       },
@@ -41256,6 +41364,24 @@
       "duration_ms": 193386,
       "name": "Temporary",
       "url": "https://open.spotify.com/track/2XvjJCTvgmV9rd4ZHImBfc"
+    },
+    {
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/4016CeKzSOstXXe2jLqqoh"
+      },
+      "artists": [
+        {
+          "name": "Paycheque",
+          "url": "https://open.spotify.com/artist/611gnATQNUeM0zwpBkyjhe"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239700,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/2pL2U3RrCM8fdI5pfoq3jR"
     },
     {
       "album": {
@@ -49180,6 +49306,24 @@
       "duration_ms": 205965,
       "name": "Your World",
       "url": "https://open.spotify.com/track/2AzvFMlNwqNyOsu581XkBO"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2w9oISdB9Gp5dO068DHzWm"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201099,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/0ADyw9trqLWFrstpPVQd8Y"
     },
     {
       "album": {

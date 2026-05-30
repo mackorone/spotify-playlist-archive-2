@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 122219,
+  "num_followers": 122226,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,18 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Sistema (Remix)",
-        "url": "https://open.spotify.com/album/0EuMrANorUJnRWTdYK4hpP"
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO"
       },
       "artists": [
         {
-          "name": "Se\u00f1or Marrano",
-          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
-        },
-        {
-          "name": "Eddy Mugre",
-          "url": "https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25"
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
         }
       ],
-      "duration_ms": 240837,
-      "name": "Sistema - Remix",
-      "url": "https://open.spotify.com/track/6ll4ikMqvDVEEs0da9zNqZ"
+      "duration_ms": 347441,
+      "name": "Origen",
+      "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -623,18 +619,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO"
+        "name": "Sistema (Remix)",
+        "url": "https://open.spotify.com/album/0EuMrANorUJnRWTdYK4hpP"
       },
       "artists": [
         {
-          "name": "Mecal",
-          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+          "name": "Se\u00f1or Marrano",
+          "url": "https://open.spotify.com/artist/4TGavohrECqpfWpLz6QhkG"
+        },
+        {
+          "name": "Eddy Mugre",
+          "url": "https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25"
         }
       ],
-      "duration_ms": 347441,
-      "name": "Origen",
-      "url": "https://open.spotify.com/track/293p8igLtACWCeDhXohcnC"
+      "duration_ms": 240837,
+      "name": "Sistema - Remix",
+      "url": "https://open.spotify.com/track/6ll4ikMqvDVEEs0da9zNqZ"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -819,26 +819,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "LA VIDA ES TAN DURA",
-        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
-      },
-      "artists": [
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Cheo Gallego",
-          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "LA VIDA ES TAN DURA",
-      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "La Capital Del Pecado",
         "url": "https://open.spotify.com/album/5ZhKILys7Vne4fJ1gvWZVc"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 163266,
       "name": "La Capital Del Pecado",
       "url": "https://open.spotify.com/track/5sxIv3QmlnQ4u5NxPM1E7V"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "LA VIDA ES TAN DURA",
+        "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Cheo Gallego",
+          "url": "https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "LA VIDA ES TAN DURA",
+      "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
     },
     {
       "added_at": "2025-05-23 06:00:30",

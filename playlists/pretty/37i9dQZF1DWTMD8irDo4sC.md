@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,337 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,346 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 43 | [Munaya \(Dream\)](https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:46 |
 | 44 | [درر](https://open.spotify.com/track/3BPWuKnv4MwaMX5GjQf9KY) | [Roxs9](https://open.spotify.com/artist/6Rk3PNEqDTshVlJ5D3U5Ru) | [دُرَرْ](https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD) | 4:28 |
 | 45 | [Mishwar‫ ‬ \- Live](https://open.spotify.com/track/6S850blEnGG1CS6ehAi4Dk) | [Luna Abu Nassar](https://open.spotify.com/artist/3JuUykT51S5TP7BNngL5uz) | [A Night in the Forest \(Live\)](https://open.spotify.com/album/5AF1PIF5WibTqUzjnaZDaq) | 4:26 |
-| 46 | [Tghayarti](https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [El Rajol El Khashabi](https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm) | 4:09 |
-| 47 | [Smek](https://open.spotify.com/track/539btjh5wDRbAmC49tX1jb) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Chura](https://open.spotify.com/album/64MAkAwfYsJoMbI4cjinad) | 2:43 |
+| 46 | [Smek](https://open.spotify.com/track/539btjh5wDRbAmC49tX1jb) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [Chura](https://open.spotify.com/album/64MAkAwfYsJoMbI4cjinad) | 2:43 |
+| 47 | [Tghayarti](https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [El Rajol El Khashabi](https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm) | 4:09 |
 | 48 | [Win Yamchi Zine](https://open.spotify.com/track/3Zlfkuzu8esBnCck3OAztD) | [Cameleon](https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9) | [Win Yamchi Zine](https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf) | 3:13 |
 | 49 | [Mafi Mennik](https://open.spotify.com/track/5pUGjCcpJn8AeurkYd4d0f) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Mafi Mennik](https://open.spotify.com/album/2nudqbtl9EcsCjrWOhChaF) | 4:03 |
 | 50 | [Zina](https://open.spotify.com/track/7gepRwLr6JXAEz6vBuksSF) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/6HrTAIVCm1zlmM0Qjgjeci) | 3:57 |

@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Braxton Keith
 
-725 songs - 1 day 19 hr 7 min
+726 songs - 1 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | ['Til I See You Again](https://open.spotify.com/track/14NYAu8zKQ8maBfDCA2FAt) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | ['Til I See You Again](https://open.spotify.com/album/4cEjb8X4fIzfLxVkpsAxYe) | 3:31 | 2022-10-21 | 2023-08-12 |
 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 | 2021-12-17 | 2022-06-18 |
 | [17 Wild Horses](https://open.spotify.com/track/3MgmNeCvLeaB9k8IAuJvef) | [Rich O'Toole](https://open.spotify.com/artist/2t6FHAUXxi9eiatP2Mavh0) | [17 Wild Horses](https://open.spotify.com/album/3ULIykDSMRU0p8qMRrkpiw) | 4:02 | 2021-12-17 | 2022-05-28 |
+| [27 Little Butterflies](https://open.spotify.com/track/6NA883DgZQM8jp40ALhfBs) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [27 Little Butterflies](https://open.spotify.com/album/30D1pJeNHmvLEI6FYi9Ziw) | 3:47 | 2026-05-29 |  |
 | [30 Miles](https://open.spotify.com/track/7JVEogoLQNWMQlIxTj0Lqw) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Faded Memories](https://open.spotify.com/album/3sKrvMSNdu4tnF3WDTgk9K) | 3:20 | 2022-04-29 | 2022-08-22 |
 | [35](https://open.spotify.com/track/6MdpKIS3SN51LsCYzZt0VE) | [Hill Country Revival](https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE) | [35](https://open.spotify.com/album/15IVUnrz2FvsgT7IN4LFYE) | 4:07 | 2022-05-27 | 2022-07-09 |
 | [5 to 9](https://open.spotify.com/track/7aGK202gwOfeCJee5qYCGy) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [5 to 9](https://open.spotify.com/album/1c8wFzXWGK7yDkLWfctG1Q) | 3:23 | 2024-08-02 | 2025-06-28 |
@@ -308,7 +309,7 @@
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2021-12-17 |  |
 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 | 2022-06-03 | 2023-09-02 |
 | [Hungover Again](https://open.spotify.com/track/2Fav608uXaDE1F5sTtBKSH) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Hungover Again](https://open.spotify.com/album/6vrhY31BWrTCBS7xzaXLRs) | 3:33 | 2024-07-12 | 2024-10-01 |
-| [Hunt You Down](https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hunt You Down](https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7) | 3:24 | 2024-05-03 |  |
+| [Hunt You Down](https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hunt You Down](https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7) | 3:24 | 2024-05-03 | 2026-05-30 |
 | [Hurt No More](https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hurt No More](https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG) | 3:34 | 2022-10-28 | 2023-06-28 |
 | [Hurt No More](https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 3:34 | 2023-06-23 | 2024-04-19 |
 | [I Ain't Drinkin' anymore](https://open.spotify.com/track/6A1ohNxfXzVD2r2KzMVkUo) | [Sister C](https://open.spotify.com/artist/1qhDoPY1tOHZzwXOnj2cE6) | [I Ain't Drinkin' anymore](https://open.spotify.com/album/5upiiDN439Eryn5bmTLhwy) | 3:17 | 2024-02-23 | 2024-05-18 |

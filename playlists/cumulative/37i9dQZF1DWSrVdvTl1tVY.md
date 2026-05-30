@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Michael Bibi
 
-1,419 songs - 3 day 8 hr 16 min
+1,420 songs - 3 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Faith](https://open.spotify.com/track/6pvWQ658tA5tXa07TGAb0i) | [Jamie Unknown](https://open.spotify.com/artist/36R06i2wVdVfHNfyyGtrzF) | [Faith](https://open.spotify.com/album/1fWvjg33oklUf7Y9qzhpJp) | 3:35 | 2023-08-10 | 2023-12-22 |
 | [Fall Of Rome](https://open.spotify.com/track/7mnB4psy9kv8FQDstlMYYZ) | [GIDEÖN](https://open.spotify.com/artist/1iVCq3rhTkFD4gveUnY9a5), [Rush Davis](https://open.spotify.com/artist/5ewyLdYTllvsWnsJN5IUSn) | [Fall Of Rome](https://open.spotify.com/album/7vwfiCYGcfvrFOjq6x6lNr) | 5:27 | 2024-04-12 | 2024-11-08 |
 | [Falling](https://open.spotify.com/track/6FYiUGWk4P8mDKUCj5m7ID) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Falling](https://open.spotify.com/album/4hgqGfVcXLabF9CVcGVD5q) | 3:44 | 2021-12-17 | 2022-01-21 |
+| [False Reality](https://open.spotify.com/track/0O5faR8NUPdk4idGs2Odww) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [False Reality](https://open.spotify.com/album/7F3KFyyqIfNyxZmhz4h6Ow) | 3:44 | 2026-05-29 |  |
 | [Famax \- Franky Rizardo Remix](https://open.spotify.com/track/2Oocj7yGn2oAKhh3Bg6RD2) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Famax \(Franky Rizardo Remix\)](https://open.spotify.com/album/1Zw8fGD6Ba9SNR5CeTCA6G) | 3:31 | 2024-09-05 | 2025-03-21 |
 | [Fancy $hit](https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh) | 2:48 | 2025-09-11 | 2026-01-15 |
 | [Fantasy](https://open.spotify.com/track/65zFScdofCOueq6XRLH1gt) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Lost, Found & Forgotten...](https://open.spotify.com/album/168x0ASrmQOKhL5dMWmGw2) | 4:07 | 2026-04-02 |  |
@@ -454,7 +455,7 @@
 | [Forgive Me](https://open.spotify.com/track/4QNHkL09PIRR9TY11blRLY) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Forgive Me](https://open.spotify.com/album/1nlXbXvDt7p0yDRT8m6bmI) | 2:41 | 2021-12-17 | 2022-01-28 |
 | [Formulate](https://open.spotify.com/track/5hIikVMKkHbcqWf5RssqfC) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Formulate](https://open.spotify.com/album/1gG1t6YSrSolqK0F6Dy03I) | 3:04 | 2024-01-26 | 2024-05-17 |
 | [Four Play](https://open.spotify.com/track/4RANu2OTh6ADsITIVS2Uok) | [Ruze](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Four Play EP](https://open.spotify.com/album/6Xsftz5ll3q2fZmF4l2MKO) | 4:16 | 2022-08-25 | 2022-11-26 |
-| [FREAK](https://open.spotify.com/track/3XafxtFrOuw27LHidlwVON) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [CREG](https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9) | [FREAK](https://open.spotify.com/album/0hFOskRk2gDbwRkMI0Q4K9) | 2:48 | 2026-03-20 |  |
+| [FREAK](https://open.spotify.com/track/3XafxtFrOuw27LHidlwVON) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [CREG](https://open.spotify.com/artist/3BoSgaNGMiAiEyRxECZgc9) | [FREAK](https://open.spotify.com/album/0hFOskRk2gDbwRkMI0Q4K9) | 2:48 | 2026-03-20 | 2026-05-30 |
 | [Freak](https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Freak](https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO) | 3:21 | 2024-12-06 | 2025-05-09 |
 | [FREAK IN THE SHEETS](https://open.spotify.com/track/2cpE8zEt3tqGEb7wN49mAU) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [FREAK IN THE SHEETS](https://open.spotify.com/album/3PMAjP3YdPhzk30gWIVEWi) | 3:13 | 2024-11-08 | 2025-04-18 |
 | [Freak Mode](https://open.spotify.com/track/2BZMWHCd8UKVMIWLxFf6BH) | [Dale Howard](https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ) | [Freak Mode](https://open.spotify.com/album/55CSMCHCUjT6iBcipBn0Wi) | 3:06 | 2024-06-28 | 2025-02-07 |

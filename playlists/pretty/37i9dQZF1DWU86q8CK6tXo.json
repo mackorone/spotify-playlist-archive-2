@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Quiet Light",
-  "num_followers": 65111,
+  "num_followers": 65108,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-05-04 14:33:16",
       "album": {
+        "name": "i loved you then",
+        "url": "https://open.spotify.com/album/7nocSTYeEUYkOXtHu5EIcf"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 222933,
+      "name": "i loved you then",
+      "url": "https://open.spotify.com/track/6VT52WzaQT5oeZpFWv2q1H"
+    },
+    {
+      "added_at": "2026-05-04 14:33:16",
+      "album": {
         "name": "Miss Michigan",
         "url": "https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 146738,
       "name": "Oops",
       "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
-    },
-    {
-      "added_at": "2026-05-04 14:33:16",
-      "album": {
-        "name": "i loved you then",
-        "url": "https://open.spotify.com/album/7nocSTYeEUYkOXtHu5EIcf"
-      },
-      "artists": [
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "i loved you then",
-      "url": "https://open.spotify.com/track/6VT52WzaQT5oeZpFWv2q1H"
     },
     {
       "added_at": "2026-05-04 14:33:16",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-05-04 14:33:16",
       "album": {
-        "name": "Is It Fun Or Is It Over?",
-        "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 160020,
-      "name": "Is It Fun Or Is It Over?",
-      "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
-    },
-    {
-      "added_at": "2026-05-04 14:33:16",
-      "album": {
         "name": "Delicately",
         "url": "https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 200710,
       "name": "Delicately",
       "url": "https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID"
+    },
+    {
+      "added_at": "2026-05-04 14:33:16",
+      "album": {
+        "name": "Is It Fun Or Is It Over?",
+        "url": "https://open.spotify.com/album/54N4dAkractT6mUBC0a48b"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "duration_ms": 160020,
+      "name": "Is It Fun Or Is It Over?",
+      "url": "https://open.spotify.com/track/4dXy0r0OF5T2wXeQu254A6"
     },
     {
       "added_at": "2026-05-04 14:33:16",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-05-04 14:33:16",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/5newvs2aGEj6sYvNIECgiZ"
-      },
-      "artists": [
-        {
-          "name": "Lolo Zoua\u00ef",
-          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
-        }
-      ],
-      "duration_ms": 171173,
-      "name": "Baggy Jeans",
-      "url": "https://open.spotify.com/track/3kkwjDRPPYIZ54FF0ceeco"
-    },
-    {
-      "added_at": "2026-05-04 14:33:16",
-      "album": {
         "name": "THUM",
         "url": "https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 131644,
       "name": "THUM",
       "url": "https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9"
+    },
+    {
+      "added_at": "2026-05-04 14:33:16",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/5newvs2aGEj6sYvNIECgiZ"
+      },
+      "artists": [
+        {
+          "name": "Lolo Zoua\u00ef",
+          "url": "https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ"
+        }
+      ],
+      "duration_ms": 171173,
+      "name": "Baggy Jeans",
+      "url": "https://open.spotify.com/track/3kkwjDRPPYIZ54FF0ceeco"
     },
     {
       "added_at": "2026-05-04 14:33:16",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-05-04 14:33:16",
       "album": {
+        "name": "just friends",
+        "url": "https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8"
+      },
+      "artists": [
+        {
+          "name": "camille blackman",
+          "url": "https://open.spotify.com/artist/5jswcyyCL6uoFlF9TaEtHc"
+        }
+      ],
+      "duration_ms": 208363,
+      "name": "just friends",
+      "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
+    },
+    {
+      "added_at": "2026-05-04 14:33:16",
+      "album": {
         "name": "Don't Stop",
         "url": "https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 175238,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp"
-    },
-    {
-      "added_at": "2026-05-04 14:33:16",
-      "album": {
-        "name": "just friends",
-        "url": "https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8"
-      },
-      "artists": [
-        {
-          "name": "camille blackman",
-          "url": "https://open.spotify.com/artist/5jswcyyCL6uoFlF9TaEtHc"
-        }
-      ],
-      "duration_ms": 208363,
-      "name": "just friends",
-      "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
     },
     {
       "added_at": "2026-05-04 14:33:16",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-05-04 14:33:16",
       "album": {
-        "name": "Growing Down",
-        "url": "https://open.spotify.com/album/3iajKt3PJf8HHpfjagIjHQ"
-      },
-      "artists": [
-        {
-          "name": "Robyn Ottolini",
-          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
-        }
-      ],
-      "duration_ms": 197388,
-      "name": "Growing Down",
-      "url": "https://open.spotify.com/track/4sSoej1nVKu9pmN7yI9CD1"
-    },
-    {
-      "added_at": "2026-05-04 14:33:16",
-      "album": {
         "name": "Somewhere In Between",
         "url": "https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 147253,
       "name": "WEAPON",
       "url": "https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX"
+    },
+    {
+      "added_at": "2026-05-04 14:33:16",
+      "album": {
+        "name": "Growing Down",
+        "url": "https://open.spotify.com/album/3iajKt3PJf8HHpfjagIjHQ"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "duration_ms": 197388,
+      "name": "Growing Down",
+      "url": "https://open.spotify.com/track/4sSoej1nVKu9pmN7yI9CD1"
     },
     {
       "added_at": "2026-05-04 14:33:16",

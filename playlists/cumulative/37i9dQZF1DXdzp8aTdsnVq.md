@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Ana del Castillo
 
-211 songs - 14 hr 36 min
+212 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [La Soltería](https://open.spotify.com/track/4i7LiTgRjxjlf8PMwRpxEy) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [La Soltería](https://open.spotify.com/album/7vxm6yeIcA63WUGy39KwAT) | 3:23 | 2022-09-02 |  |
 | [Las Cuatro Fiestas](https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Las Que Faltaban](https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw) | 4:34 | 2022-12-16 | 2023-04-06 |
 | [Las Locuras Mías](https://open.spotify.com/track/58sCyRSFBV0m60kbV9rtp9) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Las Locuras Mías](https://open.spotify.com/album/0PE6hxgSMyjrsiN0MktJpL) | 3:42 | 2024-05-22 | 2024-08-31 |
-| [Le Hago Caso a Titi](https://open.spotify.com/track/6IwyydBvphktS0q9vdUQbE) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB) | [Vallenato](https://open.spotify.com/album/6XsNcwOeu2ZgIi1bQtPk3P) | 4:17 | 2026-04-17 |  |
+| [Le Hago Caso a Titi](https://open.spotify.com/track/6IwyydBvphktS0q9vdUQbE) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB) | [Vallenato](https://open.spotify.com/album/6XsNcwOeu2ZgIi1bQtPk3P) | 4:17 | 2026-04-17 | 2026-05-30 |
 | [Llámame](https://open.spotify.com/track/7actmxrgaVflvfflEKSGZm) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [Sin Miedo Al Éxito](https://open.spotify.com/album/0H7htUNPhsSLGI1HZgtkGv) | 3:00 | 2022-09-02 | 2022-10-22 |
 | [Los Caminos De La Vida](https://open.spotify.com/track/3xMLWeaF5GejsfnUq9zzn6) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sorpresa Caribe](https://open.spotify.com/album/3snupj4n5mx4O77YCAYXUC) | 4:35 | 2024-05-22 | 2024-08-31 |
 | [Los Recuerdos de Mi Niñez](https://open.spotify.com/track/2XQNesY3cSNmNse65XdMa3) | [Luifer Cuello](https://open.spotify.com/artist/3t4QqzE7i62nLJ6nsAEswx) | [Los Recuerdos de Mi Niñez](https://open.spotify.com/album/0S4BQgcB35wRpoGKAsu762) | 4:56 | 2022-09-02 | 2023-08-26 |
@@ -200,6 +200,7 @@
 | [Te Lo Dije](https://open.spotify.com/track/3sLUnp9oaefpYVDeVLooCs) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [El Rey Guajiro](https://open.spotify.com/album/2gb8zKId5nHSza56IJbpLb) | 4:19 | 2024-01-26 | 2024-10-04 |
 | [Te Lo Dije](https://open.spotify.com/track/0uWc7lXGIv3K3575AhP6Cp) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [El Rey Guajiro](https://open.spotify.com/album/6rWUTRk4HYaV3ExfbtPmkh) | 4:19 | 2022-09-02 | 2024-04-19 |
 | [Te Recomiendo](https://open.spotify.com/track/6NbXGk6bATIXVzJjzzL3rk) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Más Gigantes Que Nunca](https://open.spotify.com/album/3CJwJFB2FjTQfcfuzpa498) | 3:22 | 2022-09-02 | 2022-10-15 |
+| [Te Vas Pal Carajo](https://open.spotify.com/track/04u25pR1eU6R7Sndwp3Gat) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [El Tiempo Perfecto](https://open.spotify.com/album/37vDr23Hvj1K9oOKXVI3UZ) | 3:47 | 2026-05-29 |  |
 | [Terminó Gustando](https://open.spotify.com/track/7lnBlgW6U6fLTotoXt6Tb4) | [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ), [Zona 8 R](https://open.spotify.com/artist/7M7XJgVgKowhXOEd4vGjuN) | [Terminó Gustando](https://open.spotify.com/album/10FtmtPmy2qRZbHUN6dezW) | 3:42 | 2023-09-15 | 2024-01-27 |
 | [Tierra Mala](https://open.spotify.com/track/7iJ43W1RWMrNjU3Or15jxX) | [Julio Meza](https://open.spotify.com/artist/61KRv7WhZJ2erWoYnJYHvL) | [Julio Canta Vallenato](https://open.spotify.com/album/5Qxd7iZAeoYqYFBLc3rchd) | 4:34 | 2022-09-02 | 2023-08-26 |
 | [Tierra Mala](https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Grandes Hits \- Los Chiches Vallenatos](https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx) | 4:48 | 2024-01-26 |  |

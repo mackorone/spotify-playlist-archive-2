@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 > Trendy & Chill Korean R&B music\. \(Cover: Krystal\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096,147 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,096,516 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 68 | [Pineapple Slice](https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Hello, World \- The 4th Mini Album](https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA) | 3:15 |
 | 69 | [Know me](https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Know me](https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN) | 3:34 |
 | 70 | [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 |
-| 71 | [Paraglider](https://open.spotify.com/track/08YjBjAWR1DOlNpUHDZYpt) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Paraglider](https://open.spotify.com/album/5cvnpaz0cgbLl0wNruE7b6) | 2:32 |
+| 71 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 72 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
 | 73 | [Love Again](https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:25 |
-| 74 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
+| 74 | [Paraglider](https://open.spotify.com/track/08YjBjAWR1DOlNpUHDZYpt) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Paraglider](https://open.spotify.com/album/5cvnpaz0cgbLl0wNruE7b6) | 2:32 |
 | 75 | [Fxxxboy](https://open.spotify.com/track/2YUoX58zywC6rqFPOUNOiq) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:07 |
 
 Snapshot ID: `AAAAAEmIuHa2kFXlyQkj62b6BmIzfSAC`

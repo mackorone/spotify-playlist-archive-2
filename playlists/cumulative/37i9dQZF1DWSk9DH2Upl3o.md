@@ -4,7 +4,7 @@
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-230 songs - 20 hr 52 min
+231 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bittersweet Ending \(Kev Rowe\)](https://open.spotify.com/track/3G5ZL9PIMtZxVs8TfG3L3p) | [Kev Rowe](https://open.spotify.com/artist/1hTerDFNMFDQGcwDMJHAVm) | [Bittersweet Ending \(Kev Rowe\)](https://open.spotify.com/album/2IWYnfeMxqlzIMVcRx8vfI) | 3:38 | 2023-03-24 | 2023-07-08 |
 | [Black Sheep](https://open.spotify.com/track/7Fqj1eusCP7dCZGQ8OnUWN) | [Perpetual Groove](https://open.spotify.com/artist/5Y5Qltdor4sw3O8NnFw5pO) | [Sea of Freaks](https://open.spotify.com/album/00KWBuk3CaLjEZlYIZFGWa) | 4:29 | 2024-03-15 |  |
 | [Blank Canvas](https://open.spotify.com/track/4Add8yFPCjaMGUMtotv0iU) | [ALO](https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj) | [Blank Canvas](https://open.spotify.com/album/2goyTImq0vkhL4FEqmdsli) | 3:40 | 2025-01-17 | 2025-02-22 |
+| [Bloom](https://open.spotify.com/track/08atsK2PzxjopBHiPZcdP8) | [Zuffalo](https://open.spotify.com/artist/3Eg66AM0Moxq0rp17vCPU4) | [Flock of the Town](https://open.spotify.com/album/3XlKWc4Z0gBz18PRX5fuLC) | 7:21 | 2026-05-29 |  |
 | [Blow You Away](https://open.spotify.com/track/6dbqL8257GSYfwiAVGD5W4) | [Daniel Hardin](https://open.spotify.com/artist/4qWbNJklW8aRvZSb8gCi22), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Blow You Away](https://open.spotify.com/album/70MEaXYusonEFxCPoKnvsi) | 4:49 | 2022-06-23 | 2025-03-29 |
 | [Bob and Weave \- Single Version](https://open.spotify.com/track/5fSkSBtOTu3zPj02mSGukL) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso), [Josh Phillips](https://open.spotify.com/artist/2yoLBWKwU6H5gw1UE8TDul) | [Bob and Weave](https://open.spotify.com/album/66bRhkNSslxtX10zMUXDTC) | 4:20 | 2024-03-01 |  |
 | [Bottom of the Hill](https://open.spotify.com/track/0CbCjYHs9BQgvUtVdyNsQS) | [River Spell](https://open.spotify.com/artist/15uvNDr9fxrZcvajNYYI46) | [Bottom of the Hill](https://open.spotify.com/album/2JtbjJhE3k9bn2mHHsdS0C) | 6:23 | 2024-01-19 |  |
@@ -50,7 +51,7 @@
 | [Despierta](https://open.spotify.com/track/3oVXcvauOF5fUgQXtfcyVy) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Nowhere To Go But Everywhere](https://open.spotify.com/album/2ispQP4b20p3IoW4bWfHrQ) | 3:38 | 2023-03-17 |  |
 | [Dig it Good](https://open.spotify.com/track/0JDLm3OWl6o1kBhLTEogz8) | [Aqueous](https://open.spotify.com/artist/74d8upOdwQZyoDGXWEguMn) | [Giant Something](https://open.spotify.com/album/4s8yfx0H0V18KwAgJj20Ob) | 6:02 | 2022-06-23 | 2023-05-06 |
 | [Dinosaur](https://open.spotify.com/track/0aXUHunhnDFZmco3rsevHr) | [The Unlikely Event](https://open.spotify.com/artist/2AriFbgiXImFNhCl5T8EMq) | [Dinosaur](https://open.spotify.com/album/0IwZSBrUSfTPnvKC9YXXri) | 3:18 | 2022-09-02 |  |
-| [Don't Say Goodnight Just Yet](https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Don't Say Goodnight Just Yet](https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe) | 5:54 | 2022-06-23 |  |
+| [Don't Say Goodnight Just Yet](https://open.spotify.com/track/2w04CcDEqzLwsc5hhZ0KRQ) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Don't Say Goodnight Just Yet](https://open.spotify.com/album/038eg4P2YxR7XEyXxSfWUe) | 5:54 | 2022-06-23 | 2026-05-30 |
 | [Dreaming Out Loud \[Feat\. Ivan Neville, Ruthie Foster\]](https://open.spotify.com/track/0t4WzuwZWExGugFY2WM4dK) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708), [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv), [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Dreaming Out Loud](https://open.spotify.com/album/3kjYjBpTV0C2gPHpUgAm35) | 4:38 | 2023-04-07 |  |
 | [Duck Farm](https://open.spotify.com/track/7bafHzGkh71QJhViBaohcm) | [The Werks](https://open.spotify.com/artist/2w3mdKFSuS2cyXd6ZLYEvs) | [The Werks](https://open.spotify.com/album/4GdrviBOifZPQe1r7At1qG) | 7:36 | 2022-06-23 |  |
 | [Dust Mites \(Tumble Down\)](https://open.spotify.com/track/0sg2CKv4gfvgMvtloRVu4g) | [Kendall Street Company](https://open.spotify.com/artist/6AKT0nNWeP4Eb7ntkeBOj9) | [Dust Mites \(Tumble Down\)](https://open.spotify.com/album/6y2MLbpoeGtCTO2oMcYB03) | 5:49 | 2025-03-14 | 2025-07-05 |

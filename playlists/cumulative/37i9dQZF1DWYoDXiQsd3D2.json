@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "4am feeling",
+        "url": "https://open.spotify.com/album/6URUq1pOo7FVUTCIO2xkSk"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180813,
+      "name": "4am feeling",
+      "url": "https://open.spotify.com/track/0hYaiWcaYmFx6Blaa6tGwn"
+    },
+    {
+      "album": {
         "name": "A Brief Silence (Original Score)",
         "url": "https://open.spotify.com/album/0rxCVW4B9jiUPEHp8WkQCO"
       },
@@ -4260,6 +4278,24 @@
       "duration_ms": 207756,
       "name": "VIM",
       "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
+    },
+    {
+      "album": {
+        "name": "Violet Dusk",
+        "url": "https://open.spotify.com/album/6Uylgq6Iejh4Q20dKfTlEQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134413,
+      "name": "Violet Dusk",
+      "url": "https://open.spotify.com/track/7HHwJCUE6xSkSUCZymJ5mA"
     },
     {
       "album": {

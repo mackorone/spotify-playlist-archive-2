@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88943,
+  "num_followers": 88942,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Fall Into You",
-        "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
-      },
-      "artists": [
-        {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
-        },
-        {
-          "name": "Julia Wu",
-          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
-        }
-      ],
-      "duration_ms": 168658,
-      "name": "Fall Into You",
-      "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u30a2\u30a4\u30a6\u30bf",
         "url": "https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52"
       },
@@ -587,6 +567,42 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "Fall Into You",
+        "url": "https://open.spotify.com/album/4W2eUzZfKOC0PVE5RjCSlS"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        },
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        }
+      ],
+      "duration_ms": 168658,
+      "name": "Fall Into You",
+      "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
+    },
+    {
+      "added_at": "2026-05-14 15:00:30",
+      "album": {
+        "name": "6 Years",
+        "url": "https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM"
+      },
+      "artists": [
+        {
+          "name": "Thee Marloes",
+          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "6 Years",
+      "url": "https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "\u671d\u9854",
         "url": "https://open.spotify.com/album/5BqiHDJ0KHdOVEIHBred2e"
       },
@@ -599,38 +615,6 @@
       "duration_ms": 336736,
       "name": "\u671d\u9854",
       "url": "https://open.spotify.com/track/5vnTYL1H4uGzNaMB14wagO"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "I'd Be Lost",
-        "url": "https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 167012,
-      "name": "I'd Be Lost",
-      "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "A Little More Time",
-        "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
-      },
-      "artists": [
-        {
-          "name": "hongjoin",
-          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
-        }
-      ],
-      "duration_ms": 240827,
-      "name": "A Little More Time",
-      "url": "https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -659,6 +643,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "A Little More Time",
+        "url": "https://open.spotify.com/album/6JzZcr1lpC2sAWgLeGVCGa"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "duration_ms": 240827,
+      "name": "A Little More Time",
+      "url": "https://open.spotify.com/track/2n7sdiVB7f1p53m5SqwqfB"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "A Call from My Dream",
         "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
       },
@@ -675,24 +675,8 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "back to you (you're the reason)",
-        "url": "https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M"
-      },
-      "artists": [
-        {
-          "name": "satellite.",
-          "url": "https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn"
-        }
-      ],
-      "duration_ms": 240392,
-      "name": "back to you (you're the reason)",
-      "url": "https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN"
-    },
-    {
-      "added_at": "2026-05-14 15:00:30",
-      "album": {
-        "name": "6 Years",
-        "url": "https://open.spotify.com/album/1pArqrd5AP2MuNvxAj6jDM"
+        "name": "I'd Be Lost",
+        "url": "https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij"
       },
       "artists": [
         {
@@ -700,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
         }
       ],
-      "duration_ms": 162920,
-      "name": "6 Years",
-      "url": "https://open.spotify.com/track/6092TzQMKn8WgJuHHsy84h"
+      "duration_ms": 167012,
+      "name": "I'd Be Lost",
+      "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -723,6 +707,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "back to you (you're the reason)",
+        "url": "https://open.spotify.com/album/1zGWULZWndg7c8f0adeU5M"
+      },
+      "artists": [
+        {
+          "name": "satellite.",
+          "url": "https://open.spotify.com/artist/58qX06UZpmeiapyjskI8sn"
+        }
+      ],
+      "duration_ms": 240392,
+      "name": "back to you (you're the reason)",
+      "url": "https://open.spotify.com/track/7MiWqkriAg3HsLr8L8OvdN"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "CYCLE HIT 1997-2005 Spitz Complete Single Collection",
         "url": "https://open.spotify.com/album/6GIlUDPdLxPLpPfVJvIwgJ"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 269413,
       "name": "\u5922\u3058\u3083\u306a\u3044",
       "url": "https://open.spotify.com/track/3aqBmRNL7ptMZ5PimLVif2"
-    },
-    {
-      "added_at": "2026-03-26 11:46:20",
-      "album": {
-        "name": "a plumber",
-        "url": "https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN"
-      },
-      "artists": [
-        {
-          "name": "jisokuryClub",
-          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
-        }
-      ],
-      "duration_ms": 209774,
-      "name": "a plumber",
-      "url": "https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -767,6 +751,22 @@
       "duration_ms": 192142,
       "name": "dandelions",
       "url": "https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF"
+    },
+    {
+      "added_at": "2026-03-26 11:46:20",
+      "album": {
+        "name": "a plumber",
+        "url": "https://open.spotify.com/album/0rKTE4TkHK5aPKgtGTN7EN"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "duration_ms": 209774,
+      "name": "a plumber",
+      "url": "https://open.spotify.com/track/7ICFekB0XzNPiqlVV9b6fI"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1001,6 +1001,22 @@
       "url": "https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL"
     },
     {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Museum of My Mess",
+        "url": "https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ"
+      },
+      "artists": [
+        {
+          "name": "mindfreakk!",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 269048,
+      "name": "Museum of My Mess",
+      "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
+    },
+    {
       "added_at": "2026-05-14 15:00:30",
       "album": {
         "name": "I Love Me Now",
@@ -1031,22 +1047,6 @@
       "duration_ms": 276756,
       "name": "I Love Me Now",
       "url": "https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Museum of My Mess",
-        "url": "https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ"
-      },
-      "artists": [
-        {
-          "name": "mindfreakk!",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 269048,
-      "name": "Museum of My Mess",
-      "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Here with me",
-        "url": "https://open.spotify.com/album/5MFOtHKYiQaxG9Ge3M26Zi"
-      },
-      "artists": [
-        {
-          "name": "Marter",
-          "url": "https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1"
-        }
-      ],
-      "duration_ms": 243600,
-      "name": "Here with me",
-      "url": "https://open.spotify.com/track/3mjO7GpUGG8ltpmxm8JsL1"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 191000,
       "name": "Sweet Lies (feat. Miyu Takeuchi)",
       "url": "https://open.spotify.com/track/7G1A0oCpYCpOiXe05VyNBy"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Here with me",
+        "url": "https://open.spotify.com/album/5MFOtHKYiQaxG9Ge3M26Zi"
+      },
+      "artists": [
+        {
+          "name": "Marter",
+          "url": "https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "Here with me",
+      "url": "https://open.spotify.com/track/3mjO7GpUGG8ltpmxm8JsL1"
     },
     {
       "added_at": "2026-02-19 15:16:11",

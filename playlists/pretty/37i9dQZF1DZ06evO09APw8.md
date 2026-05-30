@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 
 > This is Leon Thomas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,165 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,191 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09APw8.md) - [plain]
 | 49 | [PRIZE](https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 2:52 |
 | 50 | [Feel Alive](https://open.spotify.com/track/4SBFpbmbHSPJPhRbRjNuh7) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 2:42 |
 
-Snapshot ID: `ahY0AAAAAABmBsRG1Z7OablQJLWSdiTJ`
+Snapshot ID: `aheFgAAAAADkMvRKsQpJz2CtTZS4Wd/Z`

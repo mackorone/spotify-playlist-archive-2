@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop selecionada por Bárbara Bandeira
+> Uma playlist de pura alma pop! Foto: Bárbara Bandeira
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,369 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,379 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [um do outro](https://open.spotify.com/track/6gw8EpXw9txLByfBqqDUL2) | [Rita Rocha](https://open.spotify.com/artist/6zACiTxKXpO8M50M065iDy), [Diogo Piçarra](https://open.spotify.com/artist/3tOS3iTJSHwowFPRdR4Wsf) | [8/80](https://open.spotify.com/album/02jJwgULkZZtk7iuwr71xz) | 2:44 |
 | 70 | [A Minha Gente](https://open.spotify.com/track/5fN2X1bs5Ux9RsoRBgQdpY) | [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [A Minha Gente](https://open.spotify.com/album/6yBhBpKdAkvseC0FwlJsgh) | 3:18 |
 
-Snapshot ID: `AAAAADo1bH46k7ZZ8lQbciniHTo0kF3O`
+Snapshot ID: `AAAAADOIBWQStUjLVRtnA3HS89Gi8qF3`

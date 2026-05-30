@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: IDK
 
-286 songs - 13 hr 57 min
+286 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Flori de Lavandă](https://open.spotify.com/track/4UT5u2Qvd43ubrrEpcxdVK) | [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol), [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Flori de Lavandă](https://open.spotify.com/album/0XLsQLNSDLKN2d6tmvI5KD) | 3:14 | 2024-06-27 | 2024-10-02 |
 | [FLOTARI](https://open.spotify.com/track/6QaKF9W05z0sZpMeigJLbS) | [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO), [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2) | [DUBLU BOSS \(Chapter 1: Born To Be a King\)](https://open.spotify.com/album/22lwh8bY01H01EVgnVj9c3) | 2:54 | 2025-07-10 | 2025-09-26 |
 | [Flow Grăsan](https://open.spotify.com/track/4z6qfeqKoTnzTjXG4GhdvX) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Flow Grăsan](https://open.spotify.com/album/2zKRB30umnOovNff0etdJG) | 3:29 | 2026-03-26 | 2026-05-29 |
+| [FORME AI](https://open.spotify.com/track/6y3E05aCYm2nyQOneUXajU) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PLAYBOY CITY \- THE ALBUM](https://open.spotify.com/album/6igCZUd9U3XiYYOCxoyWbt) | 2:26 | 2026-05-28 |  |
 | [FRACTAL](https://open.spotify.com/track/1MaUiJzcCGlU0o5WrfdYCs) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [ASTROACVATICO](https://open.spotify.com/album/4xMZLdJo69xQIXX6fiaYTU) | 2:37 | 2026-03-12 | 2026-05-01 |
 | [FREESTYLE PÂNĂ LA D.F.D.N.](https://open.spotify.com/track/7HZP8qPQPCZiQdh2ptePLZ) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [FREESTYLE PÂNĂ LA D.F.D.N.](https://open.spotify.com/album/4GSVFm4e1yKbw1KUw388FH) | 4:29 | 2025-12-18 | 2026-02-13 |
 | [Frica](https://open.spotify.com/track/5zgMLbtWnOYRIbhO3znjFD) | [Spike](https://open.spotify.com/artist/6JDu6pr6teBn79KqBTOXdp), [MARIA](https://open.spotify.com/artist/7eybcMRs63pEObrQVNmPcS) | [Frica](https://open.spotify.com/album/1IhHV9ycCDbEFTczBnRBFW) | 3:08 | 2026-04-23 |  |
@@ -252,7 +253,6 @@
 | [TOATE STELELE](https://open.spotify.com/track/4SJMMS8ufyod5fn7nCpLuA) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [TOATE STELELE](https://open.spotify.com/album/4xKOxc0mP4HHPDPXQ2VXvE) | 2:31 | 2025-08-21 | 2025-09-30 |
 | [Tot Ce E Frumos](https://open.spotify.com/track/7wCICSZ56p7bcU1ntyzeZs) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG), [Guess Who](https://open.spotify.com/artist/2CIhA8Jh3xrpFrHYMjYzBy), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Tot Ce E Frumos](https://open.spotify.com/album/2D9miIckv84tT5AgdhFELE) | 3:41 | 2026-04-23 |  |
 | [TOXIC](https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Katarina](https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0) | [TOXIC](https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk) | 2:49 | 2025-10-09 |  |
-| [Track 8](https://open.spotify.com/track/6y3E05aCYm2nyQOneUXajU) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PLAYBOY CITY \- THE ALBUM](https://open.spotify.com/album/6igCZUd9U3XiYYOCxoyWbt) | 0:00 | 2026-05-28 |  |
 | [Transportin' \- Remix](https://open.spotify.com/track/27d3HuYPp6TgXyfPviO5fM) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Transportin' \(Remix\)](https://open.spotify.com/album/1OdBxAGHBnxdDaEVuGYXuN) | 2:14 | 2024-06-27 | 2026-03-13 |
 | [TRASH](https://open.spotify.com/track/1Ajml0HpJUlmEMQBzucMvP) | [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY), [Silent Strike](https://open.spotify.com/artist/7wogO6QhOf6U31t2EHmAiS) | [TRASH](https://open.spotify.com/album/7kfcWdEf4Hn1JlBDobXUqI) | 3:30 | 2026-03-06 | 2026-04-24 |
 | [TRATAMENT](https://open.spotify.com/track/19JSoWk6dzSKStTjGa82D2) | [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR), [BLANCO](https://open.spotify.com/artist/3aiNFfqqHURbyhzN5tOdp9), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [TRATAMENT](https://open.spotify.com/album/1qQlk9GbpnRKfx8NfZnWg3) | 3:21 | 2024-10-17 | 2024-12-06 |

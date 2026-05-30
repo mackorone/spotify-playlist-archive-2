@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Gera MX en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Barbas y Victor Mendivil en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -2748,7 +2748,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 210358,
       "name": "Bohemio Loco",
       "url": "https://open.spotify.com/track/2ZCqBUeQE7YCqx2uMSYl2f"
@@ -4062,7 +4062,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 153191,
       "name": "COLIMA",
       "url": "https://open.spotify.com/track/1ZAot62JLoX9S9M3qEwM7I"
@@ -4662,7 +4662,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 214342,
       "name": "Cuando Pienso",
       "url": "https://open.spotify.com/track/69WHa8WfluUXsfwbwc0NyH"
@@ -6809,6 +6809,24 @@
     },
     {
       "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/7d1sXyGrP6JIOkmQCAqdDA"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197272,
+      "name": "En Otra Vida",
+      "url": "https://open.spotify.com/track/18mR8gPcOXPd1TFhqppMnB"
+    },
+    {
+      "album": {
         "name": "En Pelotas",
         "url": "https://open.spotify.com/album/21PiTy5IfdJfO9jERo8gFB"
       },
@@ -7385,6 +7403,28 @@
     },
     {
       "album": {
+        "name": "Extendo",
+        "url": "https://open.spotify.com/album/4ij4gjuQuzcuzpWpiLP55r"
+      },
+      "artists": [
+        {
+          "name": "Carlos Aramburo",
+          "url": "https://open.spotify.com/artist/6qzVVEzRqDYkZ3yCRX0Mac"
+        },
+        {
+          "name": "Axel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/5zDcVWXtCTVoCClmP2WdW7"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163043,
+      "name": "Extendo",
+      "url": "https://open.spotify.com/track/1wVYxyySxhS9zmRqn8yArK"
+    },
+    {
+      "album": {
         "name": "Eyeliner de Katana",
         "url": "https://open.spotify.com/album/7yiB0Lc8603bb6mrz8SDJW"
       },
@@ -7500,6 +7540,32 @@
       "duration_ms": 179367,
       "name": "Fake Flows",
       "url": "https://open.spotify.com/track/1EbNU6pC2uVNFSx3vaRlYa"
+    },
+    {
+      "album": {
+        "name": "Nunca Voy a Morir",
+        "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Jan Glack",
+          "url": "https://open.spotify.com/artist/0Vg3WP6VS3IuKYwvnGsJFh"
+        },
+        {
+          "name": "Droppers",
+          "url": "https://open.spotify.com/artist/5tF1lj7zqB5GUBooRredO6"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202181,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/23SfAJNLKmEkekUve3xPDU"
     },
     {
       "album": {
@@ -8691,6 +8757,24 @@
     },
     {
       "album": {
+        "name": "Hugo",
+        "url": "https://open.spotify.com/album/0ozejItABSjZhP38zLAhlr"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220173,
+      "name": "Hugo",
+      "url": "https://open.spotify.com/track/3pAZ48Y9fPO20yurM5zDV8"
+    },
+    {
+      "album": {
         "name": "Humo y Tequila",
         "url": "https://open.spotify.com/album/0VMJ1Z2uByksrNmrcsVCS0"
       },
@@ -8972,6 +9056,28 @@
       "duration_ms": 181318,
       "name": "Invencible",
       "url": "https://open.spotify.com/track/5pakuQIl6IqFHdh7WgTQx8"
+    },
+    {
+      "album": {
+        "name": "Iron Mike",
+        "url": "https://open.spotify.com/album/0Rb43Al1jELjGubomh7ot2"
+      },
+      "artists": [
+        {
+          "name": "T.O.N.A",
+          "url": "https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK"
+        },
+        {
+          "name": "ProdbyTex",
+          "url": "https://open.spotify.com/artist/6mszJPj8C8RoCAO5gV74ln"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128955,
+      "name": "Iron Mike",
+      "url": "https://open.spotify.com/track/1ipkjo25PGxNqa9uMCIAlf"
     },
     {
       "album": {
@@ -11654,7 +11760,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 138720,
       "name": "Me Ilumin\u00e9",
       "url": "https://open.spotify.com/track/62jHLKgkJtuuJUmCidGUEo"
@@ -13314,7 +13420,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 212571,
       "name": "No Molestar",
       "url": "https://open.spotify.com/track/4JHofT7nIvc68RdwlZ8gM4"
@@ -14142,7 +14248,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 187826,
       "name": "PATRULLANDO",
       "url": "https://open.spotify.com/track/3Nm8TAAsLs8GQCQQ1E8AI3"
@@ -16374,7 +16480,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 173142,
       "name": "RZR",
       "url": "https://open.spotify.com/track/4qzgdMbUnkXaPTfstaGWcA"
@@ -17158,6 +17264,32 @@
       "duration_ms": 246605,
       "name": "Siempre Es Lo Mismo",
       "url": "https://open.spotify.com/track/1nvygjj05E6AK7qR44AP8i"
+    },
+    {
+      "album": {
+        "name": "SIEMPRE TITULAR",
+        "url": "https://open.spotify.com/album/0ZBkoEhKfKF3o3sYABM56c"
+      },
+      "artists": [
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Keko Beats",
+          "url": "https://open.spotify.com/artist/3d5ScJpj1ROK1DNtwM17Ed"
+        },
+        {
+          "name": "Cirujano Resendez",
+          "url": "https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "SIEMPRE TITULAR",
+      "url": "https://open.spotify.com/track/7mPLsi81eodaAXhI3zIX8w"
     },
     {
       "album": {
@@ -18166,6 +18298,28 @@
       "duration_ms": 175400,
       "name": "Tensi\u00f3n",
       "url": "https://open.spotify.com/track/1bfMxV2zzeFytzlW53xdCX"
+    },
+    {
+      "album": {
+        "name": "Thanos",
+        "url": "https://open.spotify.com/album/4bYmtMpjog75Otm244DDIt"
+      },
+      "artists": [
+        {
+          "name": "Barbas",
+          "url": "https://open.spotify.com/artist/3YQG4u5iF13bHt2slNOCdZ"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172234,
+      "name": "Thanos",
+      "url": "https://open.spotify.com/track/4z3fJB9AFUScGZe6K9iHlH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,580 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,598 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,15 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 42 | [Stanza Singola \(feat\. Tommaso Paradiso\)](https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Stanza Singola](https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc) | 3:16 |
 | 43 | [Unica](https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Unica](https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F) | 3:54 |
 | 44 | [La storia infinita](https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:27 |
-| 45 | [Mille giorni di te e di me](https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [Oltre](https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP) | 5:36 |
-| 46 | [Una finestra tra le stelle](https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Splende](https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX) | 3:31 |
-| 47 | [La donna cannone](https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [La Donna Cannone](https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2) | 4:39 |
-| 48 | [Giulia](https://open.spotify.com/track/5w8k4vqhqz2qYr7WI7eP0X) | [Gianni Togni](https://open.spotify.com/artist/1VeH892FTsVyB6XAnMvEbL) | [Cari Amori Miei](https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY) | 4:47 |
+| 45 | [Una finestra tra le stelle](https://open.spotify.com/track/7f7xRKukld8LH7aVAhJTQG) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Splende](https://open.spotify.com/album/7w6pXtT0mOGu4eQtrwXNJX) | 3:31 |
+| 46 | [Mille giorni di te e di me](https://open.spotify.com/track/6eLBzWfMCfir6mOvBQfrrr) | [Claudio Baglioni](https://open.spotify.com/artist/5zBAb4P2NoTps0shbgZvgj) | [Oltre](https://open.spotify.com/album/0ZCmePlwPAMoB0SHk1fGvP) | 5:36 |
+| 47 | [Giulia](https://open.spotify.com/track/5w8k4vqhqz2qYr7WI7eP0X) | [Gianni Togni](https://open.spotify.com/artist/1VeH892FTsVyB6XAnMvEbL) | [Cari Amori Miei](https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY) | 4:47 |
+| 48 | [La donna cannone](https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [La Donna Cannone](https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2) | 4:39 |
 | 49 | [A Te](https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 4:24 |
 | 50 | [Ho messo via](https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Sopravvissuti e sopravviventi \(2009 Remaster\)](https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt) | 4:46 |
-| 51 | [I giardini di marzo \- Remastered](https://open.spotify.com/track/5odtVIhEujejNnxSJCgpCa) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Umanamente uomo: il sogno](https://open.spotify.com/album/4eO6FJ1u3UkTlDJJGVOd1Z) | 5:31 |
-| 52 | [Rimmel](https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [Rimmel](https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K) | 3:40 |
-| 53 | [Anna E Marco](https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [Lucio Dalla](https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E) | 3:41 |
+| 51 | [Anna E Marco](https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [Lucio Dalla](https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E) | 3:41 |
+| 52 | [I giardini di marzo \- Remastered](https://open.spotify.com/track/5odtVIhEujejNnxSJCgpCa) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Umanamente uomo: il sogno](https://open.spotify.com/album/4eO6FJ1u3UkTlDJJGVOd1Z) | 5:31 |
+| 53 | [Rimmel](https://open.spotify.com/track/515XcapFOMtOOiGU31UqNp) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [Rimmel](https://open.spotify.com/album/5c1TMPBpOc4qJebACcOm7K) | 3:40 |
 | 54 | [Vieni A Vedere Perchè](https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Bagus](https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6) | 4:13 |
 | 55 | [Sorriso \(Milano Dateo\)](https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Sorriso \(Milano Dateo\)](https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz) | 2:57 |
 | 56 | [Oro](https://open.spotify.com/track/5NzWbTJOakrvq3g83UoD25) | [Mango](https://open.spotify.com/artist/5iBphIrmXEjfrqiuz5y6pY) | [Odissea](https://open.spotify.com/album/53byQXY8VWsJ8aiVjK6pbI) | 4:30 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 59 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 |
 | 60 | [Ricordi](https://open.spotify.com/track/1AQqSrJYbCeRtzO7EApqYX) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 3:23 |
 | 61 | [L'amore è](https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e) | [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [L'amore è](https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1) | 3:44 |
-| 62 | [BELLA DAVVERO](https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [BELLA DAVVERO](https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe) | 2:58 |
+| 62 | [Svegliarsi la mattina](https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Appena prima di partire](https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB) | 3:43 |
 | 63 | [Ti ho voluto bene veramente](https://open.spotify.com/track/3z5eL4hQXaBWxSWZUTwI4e) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Le cose che non ho](https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG) | 2:49 |
-| 64 | [Svegliarsi la mattina](https://open.spotify.com/track/0FhpzL0BoqEYsT6k2Wb9AV) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [Appena prima di partire](https://open.spotify.com/album/76c8rMt8AHuavJA1pQfWLB) | 3:43 |
+| 64 | [BELLA DAVVERO](https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [BELLA DAVVERO](https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe) | 2:58 |
 | 65 | [Nessuno Vuole Essere Robin](https://open.spotify.com/track/66l5RSJ4kvo9FUHqZ4x7Ti) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Possibili Scenari](https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa) | 4:44 |
 | 66 | [Bella senz'anima](https://open.spotify.com/track/7laNkNLlUbNslPAi8HB1IS) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Anima](https://open.spotify.com/album/2NNcni9mDROc7txSZzDRbb) | 4:34 |
 | 67 | [Sei nell'anima](https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Grazie](https://open.spotify.com/album/2htq51kTRL2dwMxa2mBfJi) | 4:30 |

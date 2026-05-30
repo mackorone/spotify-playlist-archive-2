@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 176810,
       "name": "Bolsita Cara",
       "url": "https://open.spotify.com/track/63RoO5slbFtgk6lPGZkgbC"
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 185717,
       "name": "Chiquilla",
       "url": "https://open.spotify.com/track/3lvdDPBEUT4bDjaUY6itKN"
@@ -3518,7 +3518,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 194949,
       "name": "De la A a la Z",
       "url": "https://open.spotify.com/track/1csNK00TYZCFiSZuCZxOAK"
@@ -7657,6 +7657,32 @@
     },
     {
       "album": {
+        "name": "EV+",
+        "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185969,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/659ULDrXBQCJpoctMocXCo"
+    },
+    {
+      "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
@@ -7704,7 +7730,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 224706,
       "name": "Las Dos Me Duelen",
       "url": "https://open.spotify.com/track/32EC4e7ZA1UI9glgDuynIl"
@@ -9202,7 +9228,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 207895,
       "name": "Miel Con Licor",
       "url": "https://open.spotify.com/track/6i14LuDm0BEtjcfa3hjElq"
@@ -9994,7 +10020,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 150000,
       "name": "Nataaoki",
       "url": "https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco"
@@ -10840,6 +10866,36 @@
       "duration_ms": 211160,
       "name": "Oops!...I Did It Again",
       "url": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
+    },
+    {
+      "album": {
+        "name": "Otra Cosa",
+        "url": "https://open.spotify.com/album/3QLasL9GBu5vdVmk8hnt1c"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        },
+        {
+          "name": "Santiago Berrio",
+          "url": "https://open.spotify.com/artist/3poRvxocbLlXT9rER89tAs"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "Otra Cosa",
+      "url": "https://open.spotify.com/track/1CZE56TyhNwIffdDr4GyCC"
     },
     {
       "album": {
@@ -12634,6 +12690,24 @@
       "duration_ms": 138064,
       "name": "Rubia Mala",
       "url": "https://open.spotify.com/track/0662YGn2tP3DWuYbJu9kUV"
+    },
+    {
+      "album": {
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282216,
+      "name": "Rubio",
+      "url": "https://open.spotify.com/track/1koGYZiLV7pcmxT2FF8LNw"
     },
     {
       "album": {
@@ -14875,6 +14949,28 @@
     },
     {
       "album": {
+        "name": "T\u00fa Ni En Cuenta",
+        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203801,
+      "name": "T\u00fa Ni En Cuenta",
+      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
+    },
+    {
+      "album": {
         "name": "T\u00fa no me conoces",
         "url": "https://open.spotify.com/album/5EYJpGVbasJMWtbgLmTDQI"
       },
@@ -14964,6 +15060,28 @@
       "duration_ms": 156734,
       "name": "Un Bezito",
       "url": "https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb"
+    },
+    {
+      "album": {
+        "name": "El Disco de Salsa",
+        "url": "https://open.spotify.com/album/3kyffTXTvro5gn9bQfliGf"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253260,
+      "name": "Un Consejo",
+      "url": "https://open.spotify.com/track/2W4axaQ0cAiEYn9FFvrnXk"
     },
     {
       "album": {

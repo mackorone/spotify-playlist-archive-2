@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 492 songs - 1 day 4 hr 15 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 493 songs - 1 day 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -500,5 +500,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 490 | [Hymn to the Decadent Life](https://open.spotify.com/track/00qsiWwjbJgraBSZDvFz36) | [Ro2noki](https://open.spotify.com/artist/4yLOF9ZLc9gOubIyxAMgks) | [My Coffin, My Toy Box](https://open.spotify.com/album/4IlhbwPnhO6JNJVYEqKK7J) | 3:36 |
 | 491 | [君が死んでも許してあげるよ](https://open.spotify.com/track/3F402NDKGrJxIOaJbkXSeB) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク2](https://open.spotify.com/album/26tBjFO9k2Aq7j72p0nTol) | 4:02 |
 | 492 | [MINAGOROSHI](https://open.spotify.com/track/1uC5OFXAwjhtToYXezTTZj) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [MINAGOROSHI](https://open.spotify.com/album/1k4Hs6tujNB331ASp8heM7) | 2:05 |
+| 493 | [英雄　運命の詩](https://open.spotify.com/track/2NAWetxu8cigewSiBR6WhU) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄　運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:44 |
 
-Snapshot ID: `AAAKNk5ewagKXi2BE6rMWCdv4i72igcZ`
+Snapshot ID: `AAAKN1X45bJOtmYVHs1Zu9uhCjFSDtRW`

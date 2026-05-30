@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Novedades y clásicos del popular género colombiano\. Foto: Ana del Castillo
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,391 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,380 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 2 | [El Picantico](https://open.spotify.com/track/0N3AaRr6eQ0vBoepAN1Yzy) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Lucas Dangond](https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX) | [EL CANTOR](https://open.spotify.com/album/7BaZ0Qg89LRnOwSqLIylNp) | 3:43 |
 | 3 | [Sin Medir Distancia](https://open.spotify.com/track/7yx473uSOxKxtrtarfAVde) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [Diomedes Vive](https://open.spotify.com/album/19vByA1IlHGAogr4eeqier) | 5:01 |
 | 4 | [10 Razones para Amarte](https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS) | [El Gran Martin Elias & Juancho De La Espriella](https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o) | [La Historia Continua](https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE) | 5:15 |
-| 5 | [El Vallenato](https://open.spotify.com/track/6CwFlUUT1Wmw5YCK2M1GVf) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Loco X Volver](https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy) | 3:44 |
-| 6 | [No Te Vayas](https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Version Original](https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo) | 4:56 |
-| 7 | [BACANO](https://open.spotify.com/track/4lHjc7jgioQhACpJADMsED) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | ['TA MALO](https://open.spotify.com/album/75BaMB8qvdrjZrIYwRBNOZ) | 3:10 |
-| 8 | [Si No Me Falla el Corazón](https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Juank Padilla](https://open.spotify.com/artist/4YQ8Twq8BoIP8YzIk1xSc4) | [Canta Vallenato Homenaje a los Compositores, Vol\. 3](https://open.spotify.com/album/2GFmrxZqNM6vuprSv6JWSw) | 6:02 |
-| 9 | [La Familia Que Soñé](https://open.spotify.com/track/0UKFSqTGGgBrLmytmDjd4W) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [En Tiempo Real](https://open.spotify.com/album/1VUkt1XKplcg3cnZVZJMru) | 4:03 |
-| 10 | [Merenguito](https://open.spotify.com/track/2vKS8OvHJeMgRJft3JrKaD) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7) | [Vallenato Social Club](https://open.spotify.com/album/0uXi5UjqNM8zQxizf3tlJ8) | 2:47 |
-| 11 | [Le Hago Caso a Titi](https://open.spotify.com/track/6IwyydBvphktS0q9vdUQbE) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB) | [Vallenato](https://open.spotify.com/album/6XsNcwOeu2ZgIi1bQtPk3P) | 4:17 |
+| 5 | [Te Vas Pal Carajo](https://open.spotify.com/track/04u25pR1eU6R7Sndwp3Gat) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV) | [El Tiempo Perfecto](https://open.spotify.com/album/37vDr23Hvj1K9oOKXVI3UZ) | 3:47 |
+| 6 | [El Vallenato](https://open.spotify.com/track/6CwFlUUT1Wmw5YCK2M1GVf) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Loco X Volver](https://open.spotify.com/album/2EInRP6cUHucyNktL1UPUy) | 3:44 |
+| 7 | [No Te Vayas](https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Version Original](https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo) | 4:56 |
+| 8 | [BACANO](https://open.spotify.com/track/4lHjc7jgioQhACpJADMsED) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | ['TA MALO](https://open.spotify.com/album/75BaMB8qvdrjZrIYwRBNOZ) | 3:10 |
+| 9 | [Si No Me Falla el Corazón](https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Juank Padilla](https://open.spotify.com/artist/4YQ8Twq8BoIP8YzIk1xSc4) | [Canta Vallenato Homenaje a los Compositores, Vol\. 3](https://open.spotify.com/album/2GFmrxZqNM6vuprSv6JWSw) | 6:02 |
+| 10 | [La Familia Que Soñé](https://open.spotify.com/track/0UKFSqTGGgBrLmytmDjd4W) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw) | [En Tiempo Real](https://open.spotify.com/album/1VUkt1XKplcg3cnZVZJMru) | 4:03 |
+| 11 | [Merenguito](https://open.spotify.com/track/2vKS8OvHJeMgRJft3JrKaD) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7) | [Vallenato Social Club](https://open.spotify.com/album/0uXi5UjqNM8zQxizf3tlJ8) | 2:47 |
 | 12 | [Ganas De Tenerla](https://open.spotify.com/track/4IiZh49rYj1hJgBZRlCCXQ) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ganas De Tenerla](https://open.spotify.com/album/76GQ6FedYkpmjjZgM9fsML) | 3:06 |
 | 13 | [Ilusiones](https://open.spotify.com/track/2jHaeV9nx3KARH8srHZFER) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Franco Argüelles](https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q) | [Experiencias Vividas](https://open.spotify.com/album/7jN66YGPSXc7ibUmQHqsWq) | 4:32 |
 | 14 | [Volvamos a Ser Novios](https://open.spotify.com/track/3BzqVIUCqTOHjkNRtol9F3) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [El Último Baile](https://open.spotify.com/album/0ZoqHpiyTLn22Kw9uXa7si) | 3:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 59 | [Difícil de Igualar](https://open.spotify.com/track/3vD0lvTizLj1jr8QE75Y9x) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:03 |
 | 60 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
 
-Snapshot ID: `AAAAAHvdh/XXPO7Z/bb3EDMhDT7EvoQQ`
+Snapshot ID: `AAAAABrm/9V/Qi719gn7WaErtOhfmhyq`

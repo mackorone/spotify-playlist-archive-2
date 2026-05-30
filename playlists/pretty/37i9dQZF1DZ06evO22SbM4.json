@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 47365,
+  "num_followers": 47390,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAABFPqVPCEyMPrMqWFgbCi6b",
+  "snapshot_id": "aheFgAAAAAADJUly0CAQCf8CSgcBPx6a",
   "tracks": [
     {
       "added_at": null,
@@ -135,8 +135,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
+        "name": "The Climb",
+        "url": "https://open.spotify.com/album/4wgM4DAqjKCY9t3zQ6cU3W"
       },
       "artists": [
         {
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 188254,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
+      "duration_ms": 230680,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/5TFrCaVcHteA1QbGwwIJD6"
     },
     {
       "added_at": null,
@@ -183,8 +183,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Climb",
-        "url": "https://open.spotify.com/album/4wgM4DAqjKCY9t3zQ6cU3W"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 230680,
-      "name": "The Climb",
-      "url": "https://open.spotify.com/track/5TFrCaVcHteA1QbGwwIJD6"
+      "duration_ms": 188254,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Small Town Crazy",
-        "url": "https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 162352,
-      "name": "Small Town Crazy",
-      "url": "https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/5PUFR2sBnMOdRAoM5jDQN0"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 230913,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/2j8pCpVtMjKchtmuu64BnY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Small Town Crazy",
+        "url": "https://open.spotify.com/album/4edQ6eoWIo3YotjFAZwVxq"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Small Town Crazy",
+      "url": "https://open.spotify.com/track/5AQBsu4oDjhKJui3jT1jbD"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Fani Rahmansyah
 
-934 songs - 2 day 12 hr 48 min
+935 songs - 2 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Aku Baik Saja \(Original Soundtrack from Tak Ingin Usai Disini\)](https://open.spotify.com/track/2Jis7HJrGnlRdW1whjEZwv) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Aku Baik Saja \(Original Soundtrack from Tak Ingin Usai Disini\)](https://open.spotify.com/album/7DitYwaNCH5O4BeaqdtVvK) | 4:18 | 2025-05-15 | 2025-08-09 |
 | [Aku Berjanji](https://open.spotify.com/track/0peGp475yG57hjwpP1PP8n) | [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Berjanji](https://open.spotify.com/album/4TpbJouqiWJsUGBZbxIdeW) | 3:59 | 2025-09-11 |  |
 | [Aku Bukan Untukmu](https://open.spotify.com/track/19zaLmqBM228wDPvrQyEUl) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Bukan Untukmu](https://open.spotify.com/album/0eXUnKcyUFHZnDoBMQM6YD) | 3:52 | 2025-01-16 | 2025-09-26 |
+| [Aku Cemburu](https://open.spotify.com/track/4IxVG36SSCtoviEM4f4QCC) | [Kakung Triadmojo](https://open.spotify.com/artist/38bVEhkw2SXkG11dsCPW9w) | [Aku Cemburu](https://open.spotify.com/album/6TWbApD0Cfn4mIO0Chme0n) | 3:54 | 2026-05-29 |  |
 | [Aku MerinduMu \(Ya Allah\)](https://open.spotify.com/track/3pyzX8lLQvN2iJSlAaIvlz) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Aku MerinduMu \(Ya Allah\)](https://open.spotify.com/album/4MBXLlE2OsOsmjY4rvWHko) | 3:45 | 2025-03-13 | 2025-04-25 |
 | [Aku Minta Maaf](https://open.spotify.com/track/3GxVrNjPSjSW1vIm6plmyK) | [Halstage](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Aku Minta Maaf](https://open.spotify.com/album/4QI39QpWAnJsGvSngT53J3) | 4:19 | 2026-04-23 |  |
 | [AKU PASTI KEMBALI 2.0](https://open.spotify.com/track/5PtqAzYdYvaLhPz8ytODnH) | [Pasto](https://open.spotify.com/artist/7IvfKO66wMWnKaZHh34IoU), [Meltho](https://open.spotify.com/artist/7rVvh5dJIlOvBgKVrFSaJs), [Rayen Pono](https://open.spotify.com/artist/19rdG4N7SsX2jtbCndgeK5) | [AKU PASTI KEMBALI 2.0](https://open.spotify.com/album/2PhzFP5vLutV5gUkaHjAol) | 4:34 | 2026-03-05 | 2026-05-09 |
@@ -907,7 +908,6 @@
 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 | 2025-06-26 |  |
 | [Titip Rindu Buat Ayah](https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Titip Rindu Buat Ayah](https://open.spotify.com/album/6cWNWavOXkbVePQ1opO1Ky) | 5:09 | 2025-09-05 | 2025-11-28 |
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
-| [Track 1](https://open.spotify.com/track/30gdhGhbfdmKYOQAce6mxa) | [Fani Rahmansyah](https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x) | [KODE?](https://open.spotify.com/album/24AlWEGWxN9Y6NAnXopbpU) | 0:00 | 2026-05-28 |  |
 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 | 2025-09-25 | 2025-11-07 |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-07 | 2024-12-13 |
 | [Tuhan Pasti Tahu](https://open.spotify.com/track/2MU9GB5Stt1sI2LDWMPciS) | [Berlliana Lovell](https://open.spotify.com/artist/4QqJsYziS0tOsMOdU6lXFa) | [Tuhan Pasti Tahu](https://open.spotify.com/album/6ymzPnROz3BDRGB4jzWUk2) | 4:05 | 2024-11-28 | 2025-02-28 |
@@ -916,6 +916,7 @@
 | [Tulang Punggung](https://open.spotify.com/track/0YwEhTKPAsQkMd9oehSJHz) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Tulang Punggung](https://open.spotify.com/album/5HAKMVQl0u6irMKdfGv6EO) | 4:35 | 2026-01-15 | 2026-04-10 |
 | [Tumbuh](https://open.spotify.com/track/5bL8uOAstudRszZ7JUu9FI) | [Ipang Lazuardi](https://open.spotify.com/artist/6j7d3OtOyA95ESoCHJIJEh) | [Tumbuh](https://open.spotify.com/album/1slRM2viVpnEHe6mM00OQD) | 6:01 | 2026-01-30 |  |
 | [Tuning Song](https://open.spotify.com/track/7dkKAIazTL7e2FwMuQIDY3) | [AMBARILA](https://open.spotify.com/artist/4bz5OZTEtiOvaBN1oI0Efc) | [Tuning Song](https://open.spotify.com/album/7xRSobNMP0ghOSlFSsSKot) | 2:43 | 2025-05-08 | 2025-05-30 |
+| [typeku](https://open.spotify.com/track/30gdhGhbfdmKYOQAce6mxa) | [Fani Rahmansyah](https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x) | [KODE?](https://open.spotify.com/album/24AlWEGWxN9Y6NAnXopbpU) | 3:48 | 2026-05-28 |  |
 | [UH! \(ghosted\)](https://open.spotify.com/track/3RGfTflTIJQMDY28yUsfKw) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR), [Saykoji](https://open.spotify.com/artist/6N981Y5JhkKTEH37pq4ImZ) | [UH! \(ghosted\)](https://open.spotify.com/album/46wz8M1IRfe345WlsIp5IF) | 3:14 | 2025-04-03 | 2025-06-06 |
 | [Ulurkan](https://open.spotify.com/track/0lXjMEFfyD6aXWT5T2l9bv) | [Bragi](https://open.spotify.com/artist/0sKPWtHbmPXRBZDocnmjNG), [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Ulurkan](https://open.spotify.com/album/4QTM1LD57CyUbGs8DltyBG) | 3:30 | 2024-09-05 | 2024-10-11 |
 | [Unspoken Goodbye](https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Never Ours](https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu) | 3:36 | 2026-05-14 |  |

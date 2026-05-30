@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 
 > atopa risers
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,347 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,370 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkUSrPFLZJw.md) - [plain]
 | 42 | [No Issues](https://open.spotify.com/track/4epMA12G6SPOTJryCZ4ouF) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [No Issues](https://open.spotify.com/album/67InfoNsNPlkHNQcB2FUEn) | 3:21 |
 | 43 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 |
 | 44 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |
-| 45 | [Babylon](https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Babylon](https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB) | 2:40 |
-| 46 | [Awurade Aye](https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Awurade Aye](https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4) | 3:39 |
+| 45 | [Awurade Aye](https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Awurade Aye](https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4) | 3:39 |
+| 46 | [Babylon](https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Babylon](https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB) | 2:40 |
 | 47 | [meet 4 corner](https://open.spotify.com/track/1xzClFt96f9K5mGCCAXTD8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Sweet Songs 4 You](https://open.spotify.com/album/5dd9pjLKGfr6jDOr3ChACg) | 2:50 |
-| 48 | [TSOOBI \(AKONOBA\)](https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [TSOOBI \(AKONOBA\)](https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV) | 3:46 |
-| 49 | [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 |
+| 48 | [Bienvenue](https://open.spotify.com/track/5X55V3mn3RTvHAheUtL6LR) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Bienvenue](https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W) | 2:56 |
+| 49 | [TSOOBI \(AKONOBA\)](https://open.spotify.com/track/4jGGlJ79PIT8MA85gfCMSR) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [TSOOBI \(AKONOBA\)](https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV) | 3:46 |
 | 50 | [The Matter](https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [The Matter](https://open.spotify.com/album/5a0AR2levIpBbG7n9qcvLp) | 3:01 |
 
 Snapshot ID: `AAAAADSb6JL3W34VpYiDSiQCSka+S8pv`

@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-192 songs - 10 hr 17 min
+193 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [First Heartbreak](https://open.spotify.com/track/0IPY0ENbqkDhHKxPK2s357) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [First Heartbreak](https://open.spotify.com/album/1QGOpJ2KxpQ4TryPQfPq9n) | 3:00 | 2024-09-12 |  |
 | [Flytta härifrån](https://open.spotify.com/track/76jsbvUYLVT0RPHUJkHl8v) | [Manon Lamartine](https://open.spotify.com/artist/1zcAHdb8ppOg7wV3Aaagvw) | [Flytta härifrån](https://open.spotify.com/album/6uUuPh3SkieVRxcruAwaMh) | 3:28 | 2024-10-04 |  |
 | [Follow You](https://open.spotify.com/track/34Q2nKX8PIQNrYEe98mFoH) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Follow You](https://open.spotify.com/album/4ZYs6XPHza9DCaNccj5vo3) | 3:39 | 2025-05-26 | 2025-07-01 |
+| [Fotografi](https://open.spotify.com/track/0uSazPtH03tqUxtT3EF9ew) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Fotografi](https://open.spotify.com/album/23yExxirXZ9LER8nXWuRlP) | 3:21 | 2026-05-21 |  |
 | [Fragile Thing](https://open.spotify.com/track/6WThsZZ0AaMNm4UkBnMmiB) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Fragile Thing](https://open.spotify.com/album/1DP01efbCq7HrWl9Yj3JDj) | 2:48 | 2024-06-27 |  |
 | [Free Falling](https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 2:53 | 2024-06-27 |  |
 | [From The Jump \(Duet Version\)](https://open.spotify.com/track/3DZXLbZv5uUMZ1R1nsSMQg) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [From The Jump \(Duet Version\)](https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl) | 3:51 | 2024-06-27 |  |
@@ -94,7 +95,7 @@
 | [Hurts](https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC) | [Anders Hojer](https://open.spotify.com/artist/2i1X0uaBs6LHLWVctFo1xY) | [Hurts](https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6) | 3:20 | 2024-06-27 | 2024-10-28 |
 | [Hus utan speglar](https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Hus utan speglar](https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe) | 2:44 | 2024-06-27 |  |
 | [Händerna Mot Himlen \- Acoustic](https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [And The Story Goes](https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9) | 4:35 | 2024-06-27 |  |
-| [I dina armar](https://open.spotify.com/track/4RT8RRIp5Asy5i9zg0IPOX) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [I dina armar](https://open.spotify.com/album/78oAKgGqyzH7aePn6IIB83) | 2:46 | 2025-11-06 |  |
+| [I dina armar](https://open.spotify.com/track/4RT8RRIp5Asy5i9zg0IPOX) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [I dina armar](https://open.spotify.com/album/78oAKgGqyzH7aePn6IIB83) | 2:46 | 2025-11-06 | 2026-05-30 |
 | [I Don't Wanna Go Downtown](https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:13 | 2024-08-22 | 2025-01-20 |
 | [I Don't Want To Be Loved](https://open.spotify.com/track/3IVUxvw5ZzTIZ7hU3xMtuc) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Younger](https://open.spotify.com/album/2IQaJBjAwBBhWnPNBOb70q) | 3:02 | 2025-03-28 | 2026-04-14 |
 | [I mina armar](https://open.spotify.com/track/75gZKsfo18ifT3NmAOwFOh) | [Stjärnfamiljen](https://open.spotify.com/artist/2r4Pb3a2tCSI6KNA0juZaz), [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [I mina armar](https://open.spotify.com/album/4ROTWkloGXBZy2KmpC5mIQ) | 3:23 | 2024-09-05 | 2025-11-27 |

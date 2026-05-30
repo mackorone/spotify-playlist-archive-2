@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Enoc Parra",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Alex Campos",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -2796,6 +2796,24 @@
       "duration_ms": 321269,
       "name": "Cantar\u00e9 de tu Amor",
       "url": "https://open.spotify.com/track/7gdABl8DcNsz8KyKrjN8gM"
+    },
+    {
+      "album": {
+        "name": "Cara a Cara con la Cruz",
+        "url": "https://open.spotify.com/album/0Nxdoi4v4LqSM2MFVLStOd"
+      },
+      "artists": [
+        {
+          "name": "Matthew Hotton",
+          "url": "https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203232,
+      "name": "Cara a Cara con la Cruz",
+      "url": "https://open.spotify.com/track/4Kvmq97C8RPdejsHRC8BFK"
     },
     {
       "album": {
@@ -9995,6 +10013,24 @@
     },
     {
       "album": {
+        "name": "Lo Que Hoy No Pudo Ser",
+        "url": "https://open.spotify.com/album/2gid8ldQL20sszSDum6Pjz"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215694,
+      "name": "Lo Que Hoy No Pudo Ser",
+      "url": "https://open.spotify.com/track/05fLRTHI40TvfN2UogPH6U"
+    },
+    {
+      "album": {
         "name": "Alumbras Mi Vida",
         "url": "https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH"
       },
@@ -11990,7 +12026,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 363832,
       "name": "Nadie Como T\u00fa",
       "url": "https://open.spotify.com/track/10SXg8PcGtWGyONDuxxZ80"
@@ -12996,7 +13032,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 192000,
       "name": "Pa'lo",
       "url": "https://open.spotify.com/track/2oqI47IlhQBtTHWC290hyS"
@@ -13684,6 +13720,32 @@
       "duration_ms": 201250,
       "name": "Presencia Aqu\u00ed (Known)",
       "url": "https://open.spotify.com/track/4LMPG7K5kPF4keIqrncb2R"
+    },
+    {
+      "album": {
+        "name": "Presencia Del Se\u00f1or",
+        "url": "https://open.spotify.com/album/5RthGzTiCNn9ZH0bKjOJ1N"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Marie Welch",
+          "url": "https://open.spotify.com/artist/57hkwgTr1hoISQpKpXfThE"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248987,
+      "name": "Presencia Del Se\u00f1or",
+      "url": "https://open.spotify.com/track/5o4NrZ8lqWR7rIbA5DxO7E"
     },
     {
       "album": {
@@ -19196,7 +19258,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 223642,
       "name": "Yo S\u00e9",
       "url": "https://open.spotify.com/track/5qzC0hpTVqpWgr0TRImBfZ"

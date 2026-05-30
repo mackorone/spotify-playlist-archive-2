@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 
 > This is RAYE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,222 likes - 45 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,319 likes - 45 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 29 | [Regardless](https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:17 |
 | 30 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 |
 | 31 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 |
-| 32 | [Ferrari Horses](https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Blue Print – Us Vs\. Them](https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX) | 3:45 |
-| 33 | [Better Things \- RAYE Remix](https://open.spotify.com/track/1RDMPArAraZJ5gW8Qvsucz) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Better Things \(RAYE Remix\)](https://open.spotify.com/album/6eoXsMVCy9smgDaR9RkHMw) | 3:25 |
+| 32 | [Better Things \- RAYE Remix](https://open.spotify.com/track/1RDMPArAraZJ5gW8Qvsucz) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Better Things \(RAYE Remix\)](https://open.spotify.com/album/6eoXsMVCy9smgDaR9RkHMw) | 3:25 |
+| 33 | [Ferrari Horses](https://open.spotify.com/track/5erCwioOcRwP59NJUAtEK3) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Blue Print – Us Vs\. Them](https://open.spotify.com/album/26uL4J5FErma5bp8r3UVnX) | 3:45 |
 | 34 | [Love Me Again](https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Me Again](https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc) | 3:18 |
 | 35 | [Walk On By](https://open.spotify.com/track/0YACnkfd4NWuiPgjXVJwOD) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:23 |
 | 36 | [Genesis.](https://open.spotify.com/track/7CJhEUFMNrUWSwcOAqTzPT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/7hYLel5p7npCbhAbkaGqvW) | 7:00 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3obss0.md) - [plain]
 | 44 | [Fly Me to the Moon](https://open.spotify.com/track/4krtOcIVPlUICseg29Nnet) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Fly Me to the Moon](https://open.spotify.com/album/3jiammRDNmKadXgGYVPyHY) | 3:11 |
 | 45 | [The Thrill Is Gone Requiem\. \- Live at the Royal Albert Hall](https://open.spotify.com/track/6e1u6VSqa1f4zITKX4aTmt) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [The Heritage Orchestra](https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx) | [My 21st Century Symphony\. \(Live at the Royal Albert Hall\)](https://open.spotify.com/album/0F0Fsao0H2ceIQdzGNTkrP) | 2:23 |
 
-Snapshot ID: `ahY0AAAAAACeOPYB5CBSxMZ7BKckgg2N`
+Snapshot ID: `aheFgAAAAAApEjV0nz6pprbmXv1Irk7i`

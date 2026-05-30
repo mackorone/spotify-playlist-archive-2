@@ -2,9 +2,9 @@
 
 ### [the Breakdown](https://open.spotify.com/playlist/37i9dQZF1DXbwsewzfZ9YU)
 
-> the best in hardcore\. open the pit w/ Terror.
+> the best in hardcore\. open the pit w/ No Cure.
 
-431 songs - 17 hr 38 min
+434 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [BATTERY NOT INCLUDED](https://open.spotify.com/track/7ACF2rwvNReujse9eedE56) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 2:53 | 2023-02-24 | 2023-05-20 |
 | [Be Here Now](https://open.spotify.com/track/1RNjFGObQrH5jkA3AhHtSd) | [You Should Be With Us](https://open.spotify.com/artist/2XIR40pw8RaCYA8nGukSPK) | [In Plain Sight](https://open.spotify.com/album/29Opx7ISsEQyOfXBzgr6T4) | 2:13 | 2025-02-11 | 2025-07-19 |
 | [Be Someone](https://open.spotify.com/track/0I86FZLWEyXO6lT68gEq1Z) | [CLOBBER](https://open.spotify.com/artist/48YxiC97XwVnDlK995fMJ5) | [Be Someone](https://open.spotify.com/album/5oxlX158n48vsVdPjCdSQ5) | 2:09 | 2025-07-18 | 2026-02-14 |
+| [BIG ASS TRUCK](https://open.spotify.com/track/3W2X2ev2QbGLqTfg5XfpFq) | [BIG ASS TRUCK I.E.](https://open.spotify.com/artist/1IegtgbvrijV4Rzw07RYM2) | [BIG ASS DEMO](https://open.spotify.com/album/3VsOjlzYYevmIq79XudzEQ) | 2:55 | 2026-05-29 |  |
 | [Big Disappointment](https://open.spotify.com/track/79KaITjubucfKzHLM7Hg5c) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [All Roads Lead To The Gun \(Deluxe\)](https://open.spotify.com/album/6bAXgNDkSgTZRvl5mUlHFq) | 2:34 | 2023-02-24 | 2023-03-11 |
 | [Big Mouth](https://open.spotify.com/track/5oorap1J1FPlc6nXESWa3E) | [SEUDO YOUTH](https://open.spotify.com/artist/2su0hPUfQYWrzpy6aMajJC) | [Nobody Gets Down Like...](https://open.spotify.com/album/41VGUqZHHG0qG0mASW5Kdj) | 1:37 | 2025-12-12 | 2026-01-15 |
 | [Bind](https://open.spotify.com/track/10u2Moizl0LxgYdqE40Qbv) | [Mile End](https://open.spotify.com/artist/30B2hObTJx7fyPThwqluZQ) | [Bind](https://open.spotify.com/album/59thVU5JwLgrsMlcdObFob) | 2:35 | 2024-07-12 | 2024-11-09 |
@@ -75,6 +76,7 @@
 | [Compromised](https://open.spotify.com/track/28TwG43K9sLsTCRqOcT9ex) | [Reviler](https://open.spotify.com/artist/5vriZzu0rYeHkWoZ9r2Dp5) | [Compromised](https://open.spotify.com/album/7JlELI8xTJhJZ8b4x81Sng) | 2:15 | 2024-06-28 | 2024-07-13 |
 | [Constructing a War Against You](https://open.spotify.com/track/7GislxP58SUMLTBophiSuA) | [Field of Flames](https://open.spotify.com/artist/7vePJsKD0BtKip0yC5Dv8J) | [Constructing a War Against You](https://open.spotify.com/album/18PYpYm7csh6OXUkaLl3AE) | 2:05 | 2023-02-24 | 2024-07-04 |
 | [Content](https://open.spotify.com/track/1S5okQvjTYN7WgiuANfmlF) | [Infant Island](https://open.spotify.com/artist/34ZIRrOiowNWuyJYt5crZM) | [Beneath](https://open.spotify.com/album/5ycE4NDRcP3gvnwltM8uiU) | 4:21 | 2023-02-24 | 2024-05-06 |
+| [Convulsing In The Dark](https://open.spotify.com/track/0gFb3LaE43VKFLWK3DfniZ) | [No Cure](https://open.spotify.com/artist/3nw6phs4P8q7lncRq3uurU) | [Convulsing In The Dark](https://open.spotify.com/album/463iKjT2fH3tgd3yLrkOWh) | 3:26 | 2026-05-29 |  |
 | [Corrode](https://open.spotify.com/track/2UIu1N8sSW8VzfzDyCz7Ur) | [Domain](https://open.spotify.com/artist/1jFKcpYLsykI3ApP77Rigk), [Indecision](https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM) | [Life's Cold Grasp](https://open.spotify.com/album/6Z51mOwW4iSIHrhNYZtkXx) | 2:33 | 2024-04-26 | 2025-02-12 |
 | [Cradle of Twigs & Bone](https://open.spotify.com/track/6cKAkWciz4161bbPiQZBgD) | [Feral Nature](https://open.spotify.com/artist/6GWAz8O11jtULZ4XDpuot1) | [Cradle of Twigs & Bone](https://open.spotify.com/album/73HEkLk33fvytVsTEcymy6) | 3:57 | 2026-02-13 |  |
 | [Crossroads](https://open.spotify.com/track/0ysghxADluRTNEDYY8Dep4) | [Going Off](https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9) | [Crossroads](https://open.spotify.com/album/2A1RKIVva8KZuGbrFyEJqO) | 1:09 | 2023-09-22 | 2023-12-14 |
@@ -96,7 +98,7 @@
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-24 | 2024-01-31 |
 | [Demolition Man](https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Demolition Man](https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8) | 2:45 | 2024-07-19 | 2024-08-17 |
 | [Deneyer Maker](https://open.spotify.com/track/6eOk1TWv4WjZHcCogAhBhw) | [Shawty](https://open.spotify.com/artist/6AWxfMNFsVCCpLnzeNTqCD) | [Los Compadres](https://open.spotify.com/album/1fa3q5XbM1R1ykfHeLkdhB) | 2:20 | 2023-08-11 | 2023-11-11 |
-| [Dice Roll](https://open.spotify.com/track/6UHzc4uQcUGDcQBVZDKZHe) | [PISS ANT](https://open.spotify.com/artist/2mBWeNVspYwiZoN82fNLbA), [lil sleepy](https://open.spotify.com/artist/33pxNrBzoYvOQYcXlCJ1GG) | [Winter Demo](https://open.spotify.com/album/3afYHGG5m3wOnWYN1716x9) | 1:58 | 2024-03-01 |  |
+| [Dice Roll](https://open.spotify.com/track/6UHzc4uQcUGDcQBVZDKZHe) | [PISS ANT](https://open.spotify.com/artist/2mBWeNVspYwiZoN82fNLbA), [lil sleepy](https://open.spotify.com/artist/33pxNrBzoYvOQYcXlCJ1GG) | [Winter Demo](https://open.spotify.com/album/3afYHGG5m3wOnWYN1716x9) | 1:58 | 2024-03-01 | 2026-05-30 |
 | [Different Strokes](https://open.spotify.com/track/0BKoH0V5oitnRXXdTJaruF) | [Pulses.](https://open.spotify.com/artist/0tko2stnUOqejIto8rKRh7) | [Different Strokes](https://open.spotify.com/album/1rDtz6r9JVwFBStd2vQpy1) | 2:52 | 2023-04-21 | 2025-02-01 |
 | [Dim](https://open.spotify.com/track/2aQOhBdbVnbmMGv7XmTNxc) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [Dim](https://open.spotify.com/album/1inJ0dw9LMiPZTEHpkHmCC) | 1:07 | 2025-01-31 | 2025-07-19 |
 | [Disabuse](https://open.spotify.com/track/5d5Ur3zYKpjSmPWJs7bNco) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Disabuse](https://open.spotify.com/album/4tISgQYB23hvT8TZPPWgjF) | 2:51 | 2025-01-17 | 2025-12-13 |
@@ -107,7 +109,7 @@
 | [Dominant Predation](https://open.spotify.com/track/0vob2r6rIQQVT43h0ffInQ) | [Get The Shot](https://open.spotify.com/artist/47YTOUaDKlPoDHr00r5Wu2), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Dominant Predation](https://open.spotify.com/album/0JfXWkLPzvf8cXfG9SpDUM) | 5:21 | 2024-06-21 | 2025-03-08 |
 | [Domination III](https://open.spotify.com/track/7rGRYa3OGnTFimCe9kYqRP) | [XweaponX](https://open.spotify.com/artist/71xfe4OhZpe7tdJSAT5x4i) | [Weapon of Pleasure](https://open.spotify.com/album/7suLwWGbNcaCkbExdOiHKI) | 1:54 | 2024-04-26 |  |
 | [DON'T NEED](https://open.spotify.com/track/2qD3qR21DrjeU11wIBoipE) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [DON'T NEED](https://open.spotify.com/album/5lLxD9Ay7XljNc2q1lS16d) | 2:43 | 2024-06-21 | 2024-08-17 |
-| [Don't Need Your Help](https://open.spotify.com/track/1PUQHpDXQKAF7gc2J7vh4S) | [No Cure](https://open.spotify.com/artist/3nw6phs4P8q7lncRq3uurU), [Nick Chance](https://open.spotify.com/artist/07dMUV2P8dzUJnEwZMVskC), [Wielded Steel](https://open.spotify.com/artist/3H5wolo8BHkr6ehzYiBQWH) | [Don't Need Your Help](https://open.spotify.com/album/4Yxcb4T7BcOZ0YqBFUy8hc) | 3:22 | 2024-11-08 |  |
+| [Don't Need Your Help](https://open.spotify.com/track/1PUQHpDXQKAF7gc2J7vh4S) | [No Cure](https://open.spotify.com/artist/3nw6phs4P8q7lncRq3uurU), [Nick Chance](https://open.spotify.com/artist/07dMUV2P8dzUJnEwZMVskC), [Wielded Steel](https://open.spotify.com/artist/3H5wolo8BHkr6ehzYiBQWH) | [Don't Need Your Help](https://open.spotify.com/album/4Yxcb4T7BcOZ0YqBFUy8hc) | 3:22 | 2024-11-08 | 2026-05-30 |
 | [Double \- B](https://open.spotify.com/track/1gejGIzAQdMubvpShoMuy0) | [HONEY WORLD](https://open.spotify.com/artist/6nI0Ctp9zzKzFrf9cvneul), [WIDI DETRUDE](https://open.spotify.com/artist/0AdlR1nsOgDKNkgZCUrCUB) | [Two Options](https://open.spotify.com/album/2BwD1dmIVz0FBGFlsb2nrD) | 3:14 | 2024-10-11 | 2025-04-05 |
 | [Doubt](https://open.spotify.com/track/52qEUuVxLfOOs4vqmh3nX2) | [Sunami](https://open.spotify.com/artist/1pBeRGeBHNPLy95LswDViS) | [Coast To Coast Split](https://open.spotify.com/album/2ZMXFdmJ6zY7Ed4NPHVjgO) | 1:30 | 2025-03-07 |  |
 | [E.O.S.](https://open.spotify.com/track/5RgZJZfmIsm04jxUqucdCU) | [Ends Of Sanity](https://open.spotify.com/artist/1OeKvczzeWqpSWRmBzv0ed) | [E.O.S.](https://open.spotify.com/album/6fbbgAVHHq0DhLmqxDPI1N) | 1:05 | 2024-06-21 | 2024-09-14 |
@@ -276,7 +278,7 @@
 | [One Last Taste of Heaven](https://open.spotify.com/track/54jCh0tTSFQK9YOjw7gC2w) | [Portrayal of Guilt](https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp) | [Devil Music](https://open.spotify.com/album/7sfiDMLBSmaP9IYJh7Qwlz) | 1:36 | 2023-04-21 | 2024-04-27 |
 | [One Shot](https://open.spotify.com/track/0IRL0HGFCkMR253ZTRuYjd) | [Bitterwood](https://open.spotify.com/artist/3s3MeH5JMG6o4ofQD1RMdS) | [One Shot](https://open.spotify.com/album/7zjQLinDFBxVITU5Y2XWfm) | 2:01 | 2023-03-17 | 2025-07-19 |
 | [Only Human](https://open.spotify.com/track/6tbWLCZ907Qh5k2aHEP4H3) | [Iron Lung](https://open.spotify.com/artist/1rXjfC9HsVIIHggTMuxvSL) | [Mental Distancing](https://open.spotify.com/album/2YgYYcJD41zpxUlJ2cUzPU) | 2:22 | 2023-02-24 | 2023-04-22 |
-| [Only The Dead](https://open.spotify.com/track/2lR42t0KZxPcR1SC4gsMtP) | [Holy Blade](https://open.spotify.com/artist/5PiiGxuHTSL0EIwbeIPRaP) | [Holy Blade](https://open.spotify.com/album/4r746Nev4IR7H16OwCai2N) | 2:52 | 2024-08-16 |  |
+| [Only The Dead](https://open.spotify.com/track/2lR42t0KZxPcR1SC4gsMtP) | [Holy Blade](https://open.spotify.com/artist/5PiiGxuHTSL0EIwbeIPRaP) | [Holy Blade](https://open.spotify.com/album/4r746Nev4IR7H16OwCai2N) | 2:52 | 2024-08-16 | 2026-05-30 |
 | [Opening Night](https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh) | 2:07 | 2023-02-24 | 2023-07-18 |
 | [Or So I Thought](https://open.spotify.com/track/0YfYMCgnraTxOXl8QLe2WJ) | [Fentanyl](https://open.spotify.com/artist/6ymyFsvAhvTJTgOqlFaiGb) | [Or So I Thought / Blind / Detached](https://open.spotify.com/album/2XC4AVj5pijoCPkgyWOSib) | 0:32 | 2024-08-16 | 2024-10-12 |
 | [Other Side](https://open.spotify.com/track/5RkKJtOqFjQ6Crr7MkGsLO) | [Dear Evangeline](https://open.spotify.com/artist/78P1cqMM6fZsrcOZvLq8cd) | [Other Side](https://open.spotify.com/album/2RjPse0PfvFkBW3HveFphT) | 3:32 | 2025-07-18 |  |
@@ -322,6 +324,7 @@
 | [Run You Out](https://open.spotify.com/track/48moUW0Vxdov1v4fA6gfKU) | [Bazooka](https://open.spotify.com/artist/5JjaKHxTOvC4JkCSirZIVS) | [Dimo](https://open.spotify.com/album/6lXOlPTEes6l6SWK9qfyKe) | 2:24 | 2023-08-11 | 2023-11-11 |
 | [Sabotage](https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Sabotage](https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp) | 2:50 | 2025-12-12 | 2026-04-25 |
 | [Salt and Ash](https://open.spotify.com/track/3TgHyyTjR0Wr7EkHkqrirm) | [God Complex](https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k) | [Salt and Ash](https://open.spotify.com/album/3OM8LvMT9BYY72B5FgGy1m) | 2:08 | 2025-01-17 | 2025-12-13 |
+| [Searching for a Pulse](https://open.spotify.com/track/7MYvh75gLTL6nYtUqQVoX6) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [A Door Left Open](https://open.spotify.com/album/7blYE5dWcNhCfnKB8OH0ff) | 2:39 | 2026-05-29 |  |
 | [Seditionist](https://open.spotify.com/track/6fkhrHuaBmonREaaCith0F) | [CLIQUE](https://open.spotify.com/artist/2VsAskD8T8epxy1TuVAO0F) | [Communique](https://open.spotify.com/album/6kx1Ta5DiwysPtz2DXYPee) | 2:35 | 2024-04-26 | 2025-02-12 |
 | [Seizure The Day](https://open.spotify.com/track/1J2qs0fVkDgnqncjJPw0LH) | [Last Gasp](https://open.spotify.com/artist/0CAPzuyQdCsgOemfeAWmMK), [The Spudmonsters](https://open.spotify.com/artist/691xdXnx3KlkIRUi4CQ2GY) | [Who Wants to Die Tonight?](https://open.spotify.com/album/0hGt0SPLp3bF7HNcQcu3MF) | 1:33 | 2023-11-10 | 2024-03-02 |
 | [Sell Out](https://open.spotify.com/track/6lSexK8DboPUOeznMlSvkj) | [With Hate](https://open.spotify.com/artist/06rZycdNoABBHttkHLFpdi) | [From Boston, With Hate](https://open.spotify.com/album/4Ic51g3IFTxTBYGP14979i) | 1:54 | 2026-01-13 |  |
@@ -437,7 +440,7 @@
 | [You Already Know](https://open.spotify.com/track/4lxxGe6I12Iq9FzGjmxNPH) | [Missing Link](https://open.spotify.com/artist/77iXzlVmGIOFyieeHf4qYZ) | [Miracle Smile](https://open.spotify.com/album/6144h23BFDEz9RhnSAaDKR) | 2:56 | 2026-01-13 |  |
 | [You're Gonna Have To Kill Me](https://open.spotify.com/track/0EOX4S6BJLixT61KRika3H) | [Blood For Blood](https://open.spotify.com/artist/1x61OF80wiXb3qawWTGUDA) | [You're Gonna Have To Kill Me](https://open.spotify.com/album/1LLMdiKtf5rmffV9bhhSm7) | 2:52 | 2025-12-12 |  |
 | [Your Phantasm](https://open.spotify.com/track/318Tb1QejxmItd6N4uyD5m) | [World I Hate](https://open.spotify.com/artist/04l0T0rBlp4cMuYY59JMrO) | [Total Nuclear Annihilation](https://open.spotify.com/album/0C1tZwGhmTG6pcDld9zj3J) | 1:31 | 2026-03-13 |  |
-| [Your Unyielding Light](https://open.spotify.com/track/4Ofd8MyfUKHum4Gka9J5qB) | [Balmora](https://open.spotify.com/artist/4thpVPtc68xxR1kilVSPPN) | [Six Pacts Etched In Blood](https://open.spotify.com/album/4GFVct3CfTj54RUVpdQjFc) | 6:28 | 2024-09-13 |  |
+| [Your Unyielding Light](https://open.spotify.com/track/4Ofd8MyfUKHum4Gka9J5qB) | [Balmora](https://open.spotify.com/artist/4thpVPtc68xxR1kilVSPPN) | [Six Pacts Etched In Blood](https://open.spotify.com/album/4GFVct3CfTj54RUVpdQjFc) | 6:28 | 2024-09-13 | 2026-05-30 |
 | [Zoo](https://open.spotify.com/track/5DuLYFs13hJ5QhAfXT3Jxs) | [Going Off](https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9) | [What Makes You Tick?](https://open.spotify.com/album/5cDmhZrR4QJCYxE0W5GvOm) | 1:15 | 2023-02-24 | 2023-09-23 |
 
 \*This playlist was first scraped on 2023-02-25. Prior content cannot be recovered.

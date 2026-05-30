@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 
 > Tu táta tu tatá..\. el beat funk de Brasil para el mundo\. Cover: MC L da Vinte, MC Gury, Anitta, Neton Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,914 likes - 76 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,908 likes - 76 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd96wQHeeDYo.md) - [plain]
 | 3 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 |
 | 4 | [Bandida Entrenada](https://open.spotify.com/track/3o0nsMGWZMpp3GOEZkVuSR) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:15 |
 | 5 | [CÓMO CHILLA ELLA](https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:14 |
-| 6 | [3SOME](https://open.spotify.com/track/2yqLYNfSjy633HSNTNAU3s) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [3SOME](https://open.spotify.com/album/0q3DuxifpmTxljvh7cUt1K) | 2:42 |
+| 6 | [3some](https://open.spotify.com/track/2yqLYNfSjy633HSNTNAU3s) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [3some](https://open.spotify.com/album/0q3DuxifpmTxljvh7cUt1K) | 2:42 |
 | 7 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
 | 8 | [KITA](https://open.spotify.com/track/3xa9RHdADxgYIBA6vUi4Rs) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD) | [KITA](https://open.spotify.com/album/7pINUha5DItOZwyLzS4e0Y) | 1:53 |
 | 9 | [Tá OK \(Remix\)](https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tá OK \(Remix\)](https://open.spotify.com/album/3n14ur3lb0lQ81joReKXVf) | 2:51 |

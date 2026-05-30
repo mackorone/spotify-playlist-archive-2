@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,237 songs - 2 day 20 hr 48 min
+1,239 songs - 2 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Best Thing](https://open.spotify.com/track/1LZWrNzPgzYudiej9NPbkH) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Fagin](https://open.spotify.com/artist/7rPtQcrQxAA6bdsUwSyYoV), [Marg Pappas](https://open.spotify.com/artist/39ZlbcpvLujmbnB2yYsDS5) | [Best Thing](https://open.spotify.com/album/72x4qPqql8qgMXf9HILb0j) | 3:55 | 2024-11-19 | 2025-02-27 |
 | [Between](https://open.spotify.com/track/1cdmC5U4jiWu6cEkMYFnht) | [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS) | [Between](https://open.spotify.com/album/0Z7L3gEHByeBMuzk66tViT) | 3:17 | 2025-08-13 | 2025-11-07 |
 | [Between the Lines](https://open.spotify.com/track/4i3yA5Fw7yDsm7WtXXbFKK) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Between the Lines](https://open.spotify.com/album/2ZfG7t9gQhlSA9fHvyqvta) | 4:35 | 2022-02-01 | 2022-04-13 |
+| [Bigger Than Dreamers](https://open.spotify.com/track/5FQadK5jylSAZHAMZlKabN) | [Matt Pridgyn](https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Bigger Than Dreamers](https://open.spotify.com/album/2LD06FNp9n2nIqFQYvPfxw) | 3:32 | 2026-05-29 |  |
 | [BINARY BLOOD](https://open.spotify.com/track/0wRWhbWiJXMKAGmi526bgc) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [BINARY BLOOD](https://open.spotify.com/album/3cXBP59Y3r4AAMrUsSyymj) | 2:37 | 2024-02-21 | 2024-05-11 |
 | [BITCH](https://open.spotify.com/track/5smthiQvz7Nn5IKIy6d38W) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Dichotomy](https://open.spotify.com/album/3ZmCOom51Ge6yuUAmsTR9V) | 3:41 | 2022-05-19 | 2022-07-30 |
 | [BITTERSWEET](https://open.spotify.com/track/0Ip4mtMZFwXD7EMTLROWw9) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [BITTERSWEET](https://open.spotify.com/album/3ezjk2cPYZe3qvfzxVF1kn) | 2:37 | 2022-01-24 | 2022-04-01 |
@@ -883,6 +884,7 @@
 | [Reverie](https://open.spotify.com/track/1v1y5wqUBNc3xxY2ZJfz8b) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k), [Braken](https://open.spotify.com/artist/1SFSz2SewAsgPeFvGmAouI) | [Reverie](https://open.spotify.com/album/0xk3atz0bPVIGZkP7mbUDk) | 3:51 | 2025-11-17 | 2026-02-27 |
 | [Rewind.\. \(But I Love You\)](https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Someone You Can Count On](https://open.spotify.com/album/5wj4dMktjUCPq8BfsQCMR2) | 2:53 | 2023-03-08 | 2023-06-01 |
 | [Ricochet](https://open.spotify.com/track/25izyWirNjcy6QQSjKP8G1) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [Blvk Sheep](https://open.spotify.com/artist/1iFDlldazsxhcE1uKnIsXr), [FOCUSS](https://open.spotify.com/artist/1zF6ztWzJmC3kmyvUsLbqX), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Ricochet](https://open.spotify.com/album/79FMrbPy2c7zRzadyNV9aa) | 4:19 | 2023-09-25 | 2024-01-11 |
+| [RIDDEM](https://open.spotify.com/track/1bkjMSYQVJJtxIZTykflfg) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Allenora](https://open.spotify.com/artist/7bPZHSmeAYFS6svtey8re0), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO) | [RIDDEM](https://open.spotify.com/album/6K0oLtutn78F9CXO6IOQ2g) | 3:27 | 2026-05-29 |  |
 | [Riders in the Sky](https://open.spotify.com/track/3a5TIKuvze6ZmmPSzElZru) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Riders in the Sky](https://open.spotify.com/album/0o2LL06MoSMePlWc4mVKGU) | 4:42 | 2023-03-27 | 2023-06-20 |
 | [Right Here, Right Now](https://open.spotify.com/track/6UAGp1Hg9VOqB8QU8salOK) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Right Here, Right Now](https://open.spotify.com/album/1pDqi26bklxKCIDRY9VHqc) | 4:03 | 2024-01-24 | 2024-04-16 |
 | [Right Through](https://open.spotify.com/track/4KyDMzlS1tynHxn3t6SpIJ) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [Asdek](https://open.spotify.com/artist/2rxubOde1svVDYAVDy7PDS) | [The Chase](https://open.spotify.com/album/5ihPWCYA0YE9mPIScQAQMG) | 3:22 | 2022-05-26 | 2022-08-06 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Muse",
+  "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Greta Van Fleet",
   "name": "VOLUME",
   "tracks": [
     {
@@ -866,6 +866,32 @@
       "duration_ms": 212706,
       "name": "Addicted to the Wicked & Twisted",
       "url": "https://open.spotify.com/track/0zGDTGavhrr5ADw7jt1uXV"
+    },
+    {
+      "album": {
+        "name": "Adjourn It (feat. Serj Tankian & Roman Morello)",
+        "url": "https://open.spotify.com/album/6mox7WL9GR6w6eRru10oDp"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        },
+        {
+          "name": "Roman Morello",
+          "url": "https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167600,
+      "name": "Adjourn It (feat. Serj Tankian & Roman Morello)",
+      "url": "https://open.spotify.com/track/5HmYPdTqF0gnH3X7tXo9Qn"
     },
     {
       "album": {
@@ -4673,6 +4699,24 @@
     },
     {
       "album": {
+        "name": "Be Sweet To Me",
+        "url": "https://open.spotify.com/album/0x4K7avY6nlNEppKxJg6fu"
+      },
+      "artists": [
+        {
+          "name": "Violet Grohl",
+          "url": "https://open.spotify.com/artist/3PbVZAe3y6cQKBDdG2YASB"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168693,
+      "name": "Bug In The Cake",
+      "url": "https://open.spotify.com/track/0eqW8uWYZD19N46werkSTF"
+    },
+    {
+      "album": {
         "name": "Bullet Farm",
         "url": "https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee"
       },
@@ -6187,6 +6231,24 @@
     },
     {
       "album": {
+        "name": "The Boys of Dungeon Lane",
+        "url": "https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193270,
+      "name": "Come Inside",
+      "url": "https://open.spotify.com/track/07GA2evqdJjhYOdyPgLXE3"
+    },
+    {
+      "album": {
         "name": "COME SAY SUM",
         "url": "https://open.spotify.com/album/05quqi2QPlESRpPPcMShfQ"
       },
@@ -6346,7 +6408,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 152626,
       "name": "Cool Buzz",
       "url": "https://open.spotify.com/track/4EPep3s07C13ngRBVzQ8V0"
@@ -10566,7 +10628,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 381293,
       "name": "Falling out of Love",
       "url": "https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0"
@@ -14068,7 +14130,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 191325,
       "name": "Home to Us",
       "url": "https://open.spotify.com/track/6dG0y3fCXIc5rl56dhQfuX"
@@ -20609,6 +20671,24 @@
     },
     {
       "album": {
+        "name": "For Love of Grace & the Hereafter",
+        "url": "https://open.spotify.com/album/1oU9h86D6qcuHNDoGvzpwV"
+      },
+      "artists": [
+        {
+          "name": "Iceage",
+          "url": "https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218909,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/2LQhEn8usQ8va0aPdLRnWX"
+    },
+    {
+      "album": {
         "name": "NO HOSTAGES",
         "url": "https://open.spotify.com/album/4EHZn3KXmNfXDQqE8BU4AO"
       },
@@ -20872,7 +20952,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 162760,
       "name": "NOISE",
       "url": "https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC"
@@ -22240,7 +22320,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 181869,
       "name": "Parking Garage Song #5",
       "url": "https://open.spotify.com/track/3BIfhn8vRZEWM9d2Em37ez"
@@ -22904,6 +22984,24 @@
       "duration_ms": 155603,
       "name": "Play My Favourite Song",
       "url": "https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV"
+    },
+    {
+      "album": {
+        "name": "Play Your Games",
+        "url": "https://open.spotify.com/album/1lqgUoNJgAXvWSpnNWwXvh"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195966,
+      "name": "Play Your Games",
+      "url": "https://open.spotify.com/track/7JcDWPlzZWGrzaLaak3UG0"
     },
     {
       "album": {
@@ -24870,7 +24968,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 275599,
       "name": "Sarniezz",
       "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
@@ -26401,6 +26499,24 @@
     },
     {
       "album": {
+        "name": "Sleeping With The Enemy",
+        "url": "https://open.spotify.com/album/1szmJLoAH4F1uk0AfSQj66"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246374,
+      "name": "Sleeping With The Enemy",
+      "url": "https://open.spotify.com/track/1hLipkDpW1mAdGlUHl2Zl5"
+    },
+    {
+      "album": {
         "name": "Sliding Doors",
         "url": "https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr"
       },
@@ -27290,6 +27406,24 @@
       "duration_ms": 232773,
       "name": "Stare At The Void",
       "url": "https://open.spotify.com/track/6hMfBQep2z22t7jKxY9sEF"
+    },
+    {
+      "album": {
+        "name": "Starless",
+        "url": "https://open.spotify.com/album/2EmcHkFMRu0PS6viXk90Jd"
+      },
+      "artists": [
+        {
+          "name": "A Perfect Circle",
+          "url": "https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272567,
+      "name": "Starless",
+      "url": "https://open.spotify.com/track/0MXz52zYBIIe3wuqojwjsr"
     },
     {
       "album": {
@@ -28640,6 +28774,24 @@
       "duration_ms": 191746,
       "name": "That's How I'm Feeling",
       "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
+    },
+    {
+      "album": {
+        "name": "That's Me",
+        "url": "https://open.spotify.com/album/0OFePaI594VRdvqQETTPBn"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131316,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/0ivNXNBIslaG7LeLfFaQ0T"
     },
     {
       "album": {
@@ -32002,7 +32154,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 203306,
       "name": "Victim Of Luck",
       "url": "https://open.spotify.com/track/5gH0Jr4nPOHPapmjfSYs4Y"
@@ -32358,7 +32510,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 176455,
       "name": "Waiting To Know",
       "url": "https://open.spotify.com/track/3COerH8qeZERHv69TypVPT"

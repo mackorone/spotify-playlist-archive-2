@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Yung Miami",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Latto",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -2884,7 +2884,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 260799,
       "name": "Business & Personal (Intro)",
       "url": "https://open.spotify.com/track/7MuSU4AjQ9yW9Jl6eFIPTW"
@@ -4579,6 +4579,28 @@
     },
     {
       "album": {
+        "name": "Everythang Pinka",
+        "url": "https://open.spotify.com/album/3Jh6MpCzstaq4pO6INbIqo"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Everythang Pinka",
+      "url": "https://open.spotify.com/track/7pbAF30G6MmDPjqV3mCoUX"
+    },
+    {
+      "album": {
         "name": "iight bet!",
         "url": "https://open.spotify.com/album/7eeKZCUXa6fxPOCGaCPqfY"
       },
@@ -5480,7 +5502,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 149776,
       "name": "Game On (ft. JT)",
       "url": "https://open.spotify.com/track/7EI4Scb5kZkSeympsOtP9h"
@@ -5662,6 +5684,24 @@
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+    },
+    {
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181586,
+      "name": "Get Money Girl",
+      "url": "https://open.spotify.com/track/6etwTzZtI9L64TYpfdOK0j"
     },
     {
       "album": {
@@ -6280,7 +6320,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 137733,
       "name": "Gyatt",
       "url": "https://open.spotify.com/track/6cpRVsxxwB04HEnOGddGCc"
@@ -6857,6 +6897,28 @@
     },
     {
       "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "Hostage (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
+    },
+    {
+      "album": {
         "name": "Hot Girl Maybach",
         "url": "https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC"
       },
@@ -7072,6 +7134,28 @@
       "duration_ms": 151970,
       "name": "I Don\u2019t Play",
       "url": "https://open.spotify.com/track/3fWwXwNMBR1FWVqxnglNko"
+    },
+    {
+      "album": {
+        "name": "I GO PUNK",
+        "url": "https://open.spotify.com/album/40kLk6FTJoOegUy5Jv2YXW"
+      },
+      "artists": [
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128918,
+      "name": "I GO PUNK",
+      "url": "https://open.spotify.com/track/0kQ73pOA7ljlHkWYu3a52F"
     },
     {
       "album": {
@@ -10526,7 +10610,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 154469,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
@@ -10750,6 +10834,24 @@
       "duration_ms": 217533,
       "name": "ONE THING",
       "url": "https://open.spotify.com/track/3EpMgxSOLZKW6mCCfERXcb"
+    },
+    {
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131186,
+      "name": "Onnat",
+      "url": "https://open.spotify.com/track/2QU9ZLNwjlFHvPQbHLiwij"
     },
     {
       "album": {
@@ -11862,7 +11964,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 173893,
       "name": "Pressed",
       "url": "https://open.spotify.com/track/4J1511BNhGrfsDYut0TDSs"

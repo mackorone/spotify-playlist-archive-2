@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: Rian Brazil
 
-3,827 songs - 8 day 19 hr 49 min
+3,828 songs - 8 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1775,6 +1775,7 @@
 | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k) | 2:47 | 2025-01-15 | 2025-02-27 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-12 | 2023-01-12 |
 | [Jacket](https://open.spotify.com/track/1dvZ5M0ZFaSWJI3Y5U6s7J) | [Pet Snake](https://open.spotify.com/artist/6iD9rqdmw5kq1W8CchAtCi) | [Jacket](https://open.spotify.com/album/2soKn44dzEe1649DoFUpCs) | 3:44 | 2022-10-19 | 2022-12-01 |
+| [JACKIE'S BACK](https://open.spotify.com/track/1gqb2OE1W0zB1Z5j0NeTm8) | [ASHMOOR](https://open.spotify.com/artist/2EEBrnSW0zrrzVQKV1dYU8) | [JACKIE'S BACK](https://open.spotify.com/album/54yNvMMbFHiHCgEXgdBGGI) | 2:39 | 2026-05-29 |  |
 | [Jane Tells a Lie](https://open.spotify.com/track/2ByTk98Ax1GwT4e9Wbj4Wd) | [Coyle Girelli](https://open.spotify.com/artist/5yyMbFWf7vC14hXTV9cX3q) | [Jane Tells a Lie](https://open.spotify.com/album/5647VX9QjYIIVCA0GMA8Le) | 3:47 | 2023-08-02 | 2023-09-21 |
 | [January Flowers](https://open.spotify.com/track/5jbPmrh0Gx2fiaD0At00rG) | [Coral Grief](https://open.spotify.com/artist/0O5Q3XbLXsSkQ4sM42c66a) | [Daydrops](https://open.spotify.com/album/3KJDlgW7kql0veb09Ggi6R) | 4:29 | 2023-03-01 | 2023-03-23 |
 | [January Mist](https://open.spotify.com/track/7DDGGhVhaA7atTfuPVIeD5) | [Joe Jenneman](https://open.spotify.com/artist/3lK5Mcroy89Xs9S43NdZG2) | [January Mist](https://open.spotify.com/album/3KIQr1aUoKqrfUOrkRUumB) | 2:36 | 2025-09-03 | 2025-12-04 |

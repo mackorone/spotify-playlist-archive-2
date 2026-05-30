@@ -59397,6 +59397,24 @@
     },
     {
       "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "album": {
         "name": "Hatice",
         "url": "https://open.spotify.com/album/3i0OcCkyuqfhO8MSzi70Hw"
       },
@@ -83015,6 +83033,24 @@
     },
     {
       "album": {
+        "name": "Istanbul Maqam Jazz",
+        "url": "https://open.spotify.com/album/10qJGhH8XRyQzzo49CqbLs"
+      },
+      "artists": [
+        {
+          "name": "Ersin Ersavas",
+          "url": "https://open.spotify.com/artist/4GUBCYI0FwQXQBMYIuKnoI"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107435,
+      "name": "K\u00fcrdilihicazkar Longa - Jazz Version",
+      "url": "https://open.spotify.com/track/3gFmTGSIheiPuxBa6bTMMN"
+    },
+    {
+      "album": {
         "name": "K\u00fcrek",
         "url": "https://open.spotify.com/album/5mVsKDrkMYPr8iqY37TIAN"
       },
@@ -84934,6 +84970,28 @@
       "duration_ms": 168879,
       "name": "Lele Can\u0131m (Selami \u015eahin \u015eark\u0131lar\u0131 3)",
       "url": "https://open.spotify.com/track/6JJn0MdC5O9Z3D14b2Ka89"
+    },
+    {
+      "album": {
+        "name": "LEMONADE - The 2nd Album",
+        "url": "https://open.spotify.com/album/5dscbWbSUuO5SNnrtiCVSB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "LEMONADE (feat. Becky G)",
+      "url": "https://open.spotify.com/track/4X0AxVnhlkSd4ggu78Tir1"
     },
     {
       "album": {
@@ -127661,24 +127719,6 @@
     },
     {
       "album": {
-        "name": "Istanbul Maqam Jazz",
-        "url": "https://open.spotify.com/album/10qJGhH8XRyQzzo49CqbLs"
-      },
-      "artists": [
-        {
-          "name": "Ersin Ersavas",
-          "url": "https://open.spotify.com/artist/4GUBCYI0FwQXQBMYIuKnoI"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/3gFmTGSIheiPuxBa6bTMMN"
-    },
-    {
-      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
       },
@@ -132729,7 +132769,7 @@
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 152819,
+      "duration_ms": 152821,
       "name": "VeRseNe GaSSoLiNaa",
       "url": "https://open.spotify.com/track/71E4cUepr8QRJocFzhHt9Q"
     },

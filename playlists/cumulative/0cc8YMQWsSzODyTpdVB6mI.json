@@ -2195,6 +2195,28 @@
     },
     {
       "album": {
+        "name": "Lovely Flight",
+        "url": "https://open.spotify.com/album/4bcDHCEB8Vewtvj6wFrWcH"
+      },
+      "artists": [
+        {
+          "name": "Didier Sinclair",
+          "url": "https://open.spotify.com/artist/4qdo8QO3v7asdW9CmxW70o"
+        },
+        {
+          "name": "Baron (FR)",
+          "url": "https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162887,
+      "name": "Lovely Flight",
+      "url": "https://open.spotify.com/track/2sZ3D4IIiGIoCo1hOx1gyd"
+    },
+    {
+      "album": {
         "name": "Magnetic / Addicted To Your Love",
         "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
       },

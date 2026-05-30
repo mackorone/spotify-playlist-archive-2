@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "Torna pi\u00f9 tardi per tutta la nuova musica della settimana \ud83d\udc40 ",
+  "description": "Nuovi brani di Ariana Grande, Noemi, Gabry Ponte e Salmo, Bebe Rexha e David Guetta, Nicol\u00f2 Filippucci e tanti altri.",
   "name": "New Music Friday Italia",
   "tracks": [
     {
@@ -29308,7 +29308,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179013,
-      "name": "CELINE (feat. ZAYRE)",
+      "name": "CELINE (feat. Zayre)",
       "url": "https://open.spotify.com/track/3Wg3yx21eF9nIJjTsfdNIo"
     },
     {
@@ -49499,6 +49499,28 @@
     },
     {
       "album": {
+        "name": "Eiwa 3",
+        "url": "https://open.spotify.com/album/3LtRktSMthJZtYyQ5vXoIV"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216048,
+      "name": "Eiwa 3",
+      "url": "https://open.spotify.com/track/1ZlRKcHHtXTvya9jcJj3sD"
+    },
+    {
+      "album": {
         "name": "el cielo",
         "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
       },
@@ -67514,6 +67536,24 @@
       "duration_ms": 161559,
       "name": "hate it",
       "url": "https://open.spotify.com/track/4IAC77ptCrH5wHXckzeEJU"
+    },
+    {
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
       "album": {
@@ -87916,6 +87956,28 @@
       "duration_ms": 159240,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/5wW92RgvtGIsbmX6CUlLHy"
+    },
+    {
+      "album": {
+        "name": "LEMONADE - The 2nd Album",
+        "url": "https://open.spotify.com/album/5dscbWbSUuO5SNnrtiCVSB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "LEMONADE (feat. Becky G)",
+      "url": "https://open.spotify.com/track/4X0AxVnhlkSd4ggu78Tir1"
     },
     {
       "album": {
@@ -157239,6 +157301,24 @@
     },
     {
       "album": {
+        "name": "Talk On The Hill",
+        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207774,
+      "name": "Talk On The Hill",
+      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
+    },
+    {
+      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -165199,7 +165279,7 @@
     },
     {
       "album": {
-        "name": "traces",
+        "name": "traces (feat. Molina)",
         "url": "https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV"
       },
       "artists": [
@@ -165216,7 +165296,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187500,
-      "name": "traces",
+      "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
     },
     {

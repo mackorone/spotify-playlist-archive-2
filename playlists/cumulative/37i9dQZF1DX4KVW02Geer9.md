@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: N.S\. DANCEMBLE
 
-565 songs - 1 day 16 hr 24 min
+565 songs - 1 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Elastic Man](https://open.spotify.com/track/7GX8c0mwHCi9QelFCLNtfF) | [Tony Grey](https://open.spotify.com/artist/4YIpmOub8uUSREpCwKCoaf) | [Infinity Glitch](https://open.spotify.com/album/49JyMHpb8nxxfW1hGRsqEG) | 6:27 | 2024-10-17 | 2025-01-31 |
 | [Endgame 3404](https://open.spotify.com/track/233OyZq9RYTq33crv2pcZN) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [Endgame 3404](https://open.spotify.com/album/2EQ0C32Gjv90BXPNZUQc41) | 4:04 | 2025-09-18 | 2026-02-28 |
 | [Endless Gray](https://open.spotify.com/track/7uoQI2brv0ESHgzM6BMEI9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Shades of](https://open.spotify.com/album/4SnYHpDFwJcbi4VpAuPIfO) | 3:40 | 2024-11-14 | 2025-03-07 |
+| [Eternal Child](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 5:07 | 2026-05-26 |  |
 | [Eternal Orbit](https://open.spotify.com/track/2ifHo7sPgqbXLVuShccAHU) | [ASOUND](https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk) | [Eternal Orbit](https://open.spotify.com/album/45I5XsIbAX2CTqpkaMgqGD) | 4:47 | 2026-01-22 |  |
 | [Eternal Reflections \(feat\. Yussef Dayes\)](https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:53 | 2025-09-11 | 2026-03-13 |
 | [Everything That Isn’t](https://open.spotify.com/track/3lgI03Ylx19zL2TLjDJbBf) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri), [Ben Williams](https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV), [Gene Coye](https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb), [Jermaine Paul](https://open.spotify.com/artist/2ybMMRa9RrKfGkbJRkrv21), [Jose Miguel Perez](https://open.spotify.com/artist/5GX31EnMcvTzsIJ0SSXlzR) | [Everything That Isn’t](https://open.spotify.com/album/152HIZKJspSoDCqZfqglop) | 4:13 | 2025-07-10 | 2025-12-12 |
@@ -486,7 +487,6 @@
 | [Tokyo Daydream](https://open.spotify.com/track/6WLnZc1eXIoGy6VOzkEV3l) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Taali](https://open.spotify.com/artist/5SkhihNXZNPmooUcbSVZho) | [1978: Revenge of The Dragon](https://open.spotify.com/album/485R0lCUZRApYWXnH2PAeh) | 3:48 | 2025-05-15 | 2025-08-01 |
 | [Tokyo Lift \(5am\)](https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Tokyo Lift \(5am\)](https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE) | 2:24 | 2025-03-13 | 2025-06-27 |
 | [Tomorrow（feat.Gaku Kano）](https://open.spotify.com/track/0hFgollnKwPJjFod8ouqof) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Gaku Kano](https://open.spotify.com/artist/6pV6yUKdqnxwwKpqSu6AXM) | [Tomorrow（feat.Gaku Kano）](https://open.spotify.com/album/03b1xvc1fNSbThzeQJvsfJ) | 3:54 | 2026-01-15 |  |
-| [Track 8](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 0:00 | 2026-05-26 |  |
 | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Traffic Lights \(feat\. Thom Yorke\)](https://open.spotify.com/album/3XztKVcdPZv8EZbgvYrxrF) | 5:41 | 2026-01-15 | 2026-04-03 |
 | [Transient Line](https://open.spotify.com/track/4ekwaV3DkhZOWafEoKWUUZ) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [Transient Line](https://open.spotify.com/album/4eOsTT2FgzuTRqCJLqXDbH) | 4:13 | 2025-07-03 | 2025-09-26 |
 | [Transporter](https://open.spotify.com/track/0mQo8pALF313P3mtXFQj1T) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Leif Maine](https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Transformations](https://open.spotify.com/album/3pGVHliOsYNnjjQLjZaClb) | 2:27 | 2025-06-19 | 2025-08-01 |

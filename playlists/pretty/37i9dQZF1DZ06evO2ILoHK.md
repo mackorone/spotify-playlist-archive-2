@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 
 > This is Basement\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,868 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,872 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 | 12 | [Sever](https://open.spotify.com/track/2YOUcXaWMtAJSLVSeao6X6) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 2:35 |
 | 13 | [Aquasun](https://open.spotify.com/track/0qUdIt9DmD5znk3aghrdy4) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 3:42 |
 | 14 | [Spoiled](https://open.spotify.com/track/22vIMDxg8BCHsnk474SCH8) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 2:44 |
-| 15 | [Earl Grey](https://open.spotify.com/track/2cQwslOlA0ICGxSLm2Dv54) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 2:34 |
+| 15 | [Slip Away](https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 2:57 |
 | 16 | [Embrace](https://open.spotify.com/track/5AmoC1x1Tlj2kI5LXHysif) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 3:24 |
 | 17 | [Promise Everything](https://open.spotify.com/track/1KdeXVG6x4MsjbAnjiAzbT) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:37 |
 | 18 | [Bad Apple](https://open.spotify.com/track/0k17MALHbaR6i6879Wasql) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 2:57 |
-| 19 | [Slip Away](https://open.spotify.com/track/4hI8PLtF0C3JBSUG5EsQtv) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 2:57 |
+| 19 | [Earl Grey](https://open.spotify.com/track/2cQwslOlA0ICGxSLm2Dv54) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 2:34 |
 | 20 | [The Way I Feel](https://open.spotify.com/track/20BjBJ6ecypTtbEUbceHgS) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED](https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151) | 2:51 |
 | 21 | [Brother's Keeper](https://open.spotify.com/track/481wkzrQ20aCvtlvhtLLcb) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:59 |
 | 22 | [Comfort](https://open.spotify.com/track/3hMDOqyTB73cXHaTnu9WhL) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 2:19 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ILoHK.md) - [plain]
 | 39 | [Skip Town](https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:03 |
 | 40 | [1104 Porter St](https://open.spotify.com/track/11Cf39LSlZmTUBGLoP8jCx) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:04 |
 
-Snapshot ID: `ahY0AAAAAACdISAPL68oHJhghVYy9cPx`
+Snapshot ID: `aheFgAAAAACyRzMGZVX5pcuvzH/ivLUC`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JayQ",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ZENTYARB",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -768,7 +768,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 149400,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4jn8qhYieA36a0fiyBqWFC"
@@ -1345,6 +1345,28 @@
     },
     {
       "album": {
+        "name": "CALL CENTER",
+        "url": "https://open.spotify.com/album/5nOwp60XwmjvFsC1ONFBg5"
+      },
+      "artists": [
+        {
+          "name": "SURIYA MQT",
+          "url": "https://open.spotify.com/artist/47VCMoQZJ0SycPle77t12P"
+        },
+        {
+          "name": "P6ICK",
+          "url": "https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "CALL CENTER",
+      "url": "https://open.spotify.com/track/5A17rLsu7dEEKNu9CYy46H"
+    },
+    {
+      "album": {
         "name": "Can I Call ?",
         "url": "https://open.spotify.com/album/3flSORLjXoEkQIV6tSJJgf"
       },
@@ -1422,7 +1444,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 177490,
       "name": "Chanel Babi (feat. ZENTYARB)",
       "url": "https://open.spotify.com/track/1smpUlZn78Y4ZK2vVAYNA7"
@@ -1510,7 +1532,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 153600,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/3rFx5A8IvfKWhEsIaNiYMg"
@@ -3442,7 +3464,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 201967,
       "name": "I TRY",
       "url": "https://open.spotify.com/track/4QPh8jTFkwcBrGoor19vmS"
@@ -5440,6 +5462,24 @@
       "duration_ms": 188173,
       "name": "ON GOD 2023",
       "url": "https://open.spotify.com/track/48ZTrCWFZblhqpoYwB9g8I"
+    },
+    {
+      "album": {
+        "name": "Once A Week",
+        "url": "https://open.spotify.com/album/3TfYHm1EIJ7aUYA3hlsbSz"
+      },
+      "artists": [
+        {
+          "name": "T-BIGGEST",
+          "url": "https://open.spotify.com/artist/3LW3TOMoNLelResUQ8w4UR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Once A Week",
+      "url": "https://open.spotify.com/track/73VrI25ri5eA7bL6X7pbF6"
     },
     {
       "album": {
@@ -8230,6 +8270,24 @@
       "duration_ms": 254308,
       "name": "You & I",
       "url": "https://open.spotify.com/track/1WW0UE1dZGrB3yj91BM513"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/76mc1HNck6d71skx1kk32J"
+      },
+      "artists": [
+        {
+          "name": "The BESTS",
+          "url": "https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165606,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6FKk8hfM9PlLim7rpqOC7z"
     },
     {
       "album": {
@@ -12323,6 +12381,40 @@
     },
     {
       "album": {
+        "name": "I DON'T TRUST YOU NO MORE",
+        "url": "https://open.spotify.com/album/74FhqdOdM6p3bPEQ7GGlOc"
+      },
+      "artists": [
+        {
+          "name": "FIIXD",
+          "url": "https://open.spotify.com/artist/3E2RbO6J3JSYa9VgP5iGMH"
+        },
+        {
+          "name": "1MILL",
+          "url": "https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco"
+        },
+        {
+          "name": "4BANG",
+          "url": "https://open.spotify.com/artist/79jZrupKGTRsyOsJV1OwGK"
+        },
+        {
+          "name": "KING KRAZY",
+          "url": "https://open.spotify.com/artist/4ji83s3s5xoQ8QAfhAA4NT"
+        },
+        {
+          "name": "SUNNYBONE",
+          "url": "https://open.spotify.com/artist/4UQEw9Mz3MhICXNgkyfdbL"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297290,
+      "name": "\u0e1e\u0e34\u0e29\u0e20\u0e31\u0e22 II",
+      "url": "https://open.spotify.com/track/0JUrTbNEB4hwGjNfTGhnBa"
+    },
+    {
+      "album": {
         "name": "\u0e1e\u0e35\u0e48\u0e01\u0e47\u0e23\u0e39\u0e49",
         "url": "https://open.spotify.com/album/7voWCwTeHJO98C9mpbXvh5"
       },
@@ -12342,6 +12434,42 @@
       "duration_ms": 185142,
       "name": "\u0e1e\u0e35\u0e48\u0e01\u0e47\u0e23\u0e39\u0e49",
       "url": "https://open.spotify.com/track/37BOGNFiFipyHllBoQz1mt"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e15\u0e48\u0e32\u0e07\u0e23\u0e30\u0e14\u0e31\u0e1a",
+        "url": "https://open.spotify.com/album/5L0chnEFr93ePwXzhL1zAO"
+      },
+      "artists": [
+        {
+          "name": "Hunsick",
+          "url": "https://open.spotify.com/artist/2wst2I06kgWhcA7DIhsVTv"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159652,
+      "name": "\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e15\u0e48\u0e32\u0e07\u0e23\u0e30\u0e14\u0e31\u0e1a",
+      "url": "https://open.spotify.com/track/0rNIhA4D3tNszYalkSoRsf"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e39\u0e14\u0e08\u0e23\u0e34\u0e07",
+        "url": "https://open.spotify.com/album/2Qf1bmsmEZVRBlQ7lkJFo7"
+      },
+      "artists": [
+        {
+          "name": "BABY ROCKY",
+          "url": "https://open.spotify.com/artist/3ANMzDN6QHTKp9yr6eYxDX"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179381,
+      "name": "\u0e1e\u0e39\u0e14\u0e08\u0e23\u0e34\u0e07",
+      "url": "https://open.spotify.com/track/2Yq5RSDVTUmhcnnXxSEKo8"
     },
     {
       "album": {
@@ -12426,7 +12554,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 228723,
       "name": "\u0e20\u0e32\u0e1e\u0e27\u0e31\u0e19\u0e40\u0e01\u0e48\u0e32",
       "url": "https://open.spotify.com/track/5wPAcjy0GjTefyYiVj6sOc"
@@ -12832,6 +12960,24 @@
       "duration_ms": 213818,
       "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e1e\u0e1a",
       "url": "https://open.spotify.com/track/0Fwjy0mqWILxbqIydFuG6u"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e43\u0e2b\u0e49\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23",
+        "url": "https://open.spotify.com/album/6DODcizCFDHT5VHXjB5wJG"
+      },
+      "artists": [
+        {
+          "name": "ZENTYARB",
+          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177007,
+      "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e43\u0e2b\u0e49\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23",
+      "url": "https://open.spotify.com/track/0vts9LzQJagWOK7e5T9Z44"
     },
     {
       "album": {
@@ -13962,7 +14108,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 172846,
       "name": "\u0e28\u0e35\u0e25\u0e40\u0e2a\u0e21\u0e2d",
       "url": "https://open.spotify.com/track/57yaTDYvk8QjalJbNj75Hv"
@@ -18792,7 +18938,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 149339,
       "name": "\u0e44\u0e2b\u0e19\u0e1a\u0e2d\u0e01\u0e27\u0e48\u0e32\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/67AeQN1WN6RUggPB8xX6vA"

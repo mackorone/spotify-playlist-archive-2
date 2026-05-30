@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,387 likes - 125 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,470 likes - 125 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,19 +78,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 68 | [Waves \- Guitar Acoustic](https://open.spotify.com/track/0SUih4u16BlTsIDyB7J0SU) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Waves \(Guitar Acoustic\)](https://open.spotify.com/album/2hrk8YSXUJJrhTnTTF8Bqw) | 4:08 |
 | 69 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 |
 | 70 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 |
-| 71 | [Buffalo Replaced \- Spotify Singles](https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 2:33 |
-| 72 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
+| 71 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
+| 72 | [Buffalo Replaced \- Spotify Singles](https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 2:33 |
 | 73 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 74 | [The Trek](https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [The Trek](https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj) | 4:42 |
 | 75 | [Wolf In Sheep’s Clothes](https://open.spotify.com/track/7oUiQH66dtqxiUuRgrRrz6) | [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [Cruel Joke](https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH) | 3:25 |
 | 76 | [Let No Grief](https://open.spotify.com/track/3R2sknZVO963iQknjhDwru) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Blind and Brave](https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90) | 4:34 |
 | 77 | [Tomorrow](https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Tomorrow](https://open.spotify.com/album/15tYnqIqZrwaQbLYQozlRY) | 4:07 |
-| 78 | [Same Old Eyes](https://open.spotify.com/track/0x2xErt1R95NpZPNjccGnu) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 4:01 |
-| 79 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
+| 78 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 |
+| 79 | [Same Old Eyes](https://open.spotify.com/track/0x2xErt1R95NpZPNjccGnu) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Twenty\-Twenty](https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO) | 4:01 |
 | 80 | [Nostalgia](https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Nostalgia](https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S) | 3:49 |
 | 81 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 |
-| 82 | [How \(ft\. Brandi Carlile\)](https://open.spotify.com/track/4da4p7RgqK9AjtVh4sEEHc) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [\(self\-titled\)](https://open.spotify.com/album/19g08PLwSFleJyXjAIugDI) | 3:44 |
-| 83 | [strip mall](https://open.spotify.com/track/4CgagfLY8EbXVCT69EY9tA) | [Jake Minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [strip mall](https://open.spotify.com/album/6T6OnNPadTtsyslDCXpUYp) | 2:33 |
+| 82 | [strip mall](https://open.spotify.com/track/4CgagfLY8EbXVCT69EY9tA) | [Jake Minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [strip mall](https://open.spotify.com/album/6T6OnNPadTtsyslDCXpUYp) | 2:33 |
+| 83 | [How \(ft\. Brandi Carlile\)](https://open.spotify.com/track/4da4p7RgqK9AjtVh4sEEHc) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [\(self\-titled\)](https://open.spotify.com/album/19g08PLwSFleJyXjAIugDI) | 3:44 |
 | 84 | [Morning](https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [Steady Now](https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY) | 4:22 |
 | 85 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
 | 86 | [Desert Song](https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp) | [säje](https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi) | [Desert Song](https://open.spotify.com/album/01Wmlp4OQ36xv48lqBmDm2) | 3:55 |
@@ -128,10 +128,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 118 | [Roof of the World](https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi) | [Roof of the World](https://open.spotify.com/album/4VDDyQSZ7fT8YgQqjufWoP) | 4:16 |
 | 119 | [Wait Up](https://open.spotify.com/track/464vzE6yinrOYJU0pba5HY) | [Neffy](https://open.spotify.com/artist/75Qz8WXumn9ghkXDwpj34N) | [Wait Up](https://open.spotify.com/album/1vodStDlRmay0I5Wbfdjng) | 3:11 |
 | 120 | [Wildflowers In The Sky](https://open.spotify.com/track/4tyFfJLi2tstBiMc1KiduB) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Wildflowers In The Sky](https://open.spotify.com/album/2fpUu11yj5MzI7UEpM40Mm) | 2:42 |
-| 121 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 |
-| 122 | [Feel Better](https://open.spotify.com/track/0StzhtAAdEIAcAMwDWY0kV) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 4:23 |
-| 123 | [Fixed](https://open.spotify.com/track/2BCTLF0QVwtM2BMECbmLx9) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:07 |
-| 124 | [Sunwarmed](https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/59VwIN9sQruODzORauynKX) | 2:58 |
+| 121 | [Feel Better](https://open.spotify.com/track/0StzhtAAdEIAcAMwDWY0kV) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 4:23 |
+| 122 | [Sunwarmed](https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Sunwarmed](https://open.spotify.com/album/59VwIN9sQruODzORauynKX) | 2:58 |
+| 123 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 |
+| 124 | [Fixed](https://open.spotify.com/track/2BCTLF0QVwtM2BMECbmLx9) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:07 |
 | 125 | [I Only See the Moon](https://open.spotify.com/track/37Fhfv4v0beY9Q57Hfg5Dp) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I Only See the Moon](https://open.spotify.com/album/7tXYHXjFDzAtPIZoIoX2W6) | 2:57 |
 
 Snapshot ID: `AAAAAKQq56gyLlGXZqlOVii3WDpurQNZ`

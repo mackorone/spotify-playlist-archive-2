@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-934 songs - 1 day 16 hr 17 min
+941 songs - 1 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [Luna](https://open.spotify.com/track/1rvZQZNnabwvwlxGZF1pTP) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Luna](https://open.spotify.com/album/4hwoBpIAlTDBniGD8C916b) | 2:13 | 2024-05-31 | 2025-12-06 |
 | [Lux Brumalis](https://open.spotify.com/track/2QrxZvUD1JpMLREXy3D44T) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Lux Brumalis](https://open.spotify.com/album/7xfHnRzqnzx8rQNClgi6Pm) | 2:47 | 2023-12-15 | 2026-03-05 |
 | [Luz de Aurora](https://open.spotify.com/track/75ducgEDNEPpzIqlxuEfoO) | [Homero Alvarez](https://open.spotify.com/artist/1Fa3oDtXt1Zb84g4bnFnf1) | [Luz de Aurora](https://open.spotify.com/album/2VYRYrgfzcLODcYNPCD4xA) | 2:55 | 2022-09-02 | 2023-06-16 |
+| [Luz de Luna](https://open.spotify.com/track/3sAxNhfLZDUH5mUkgZtnlU) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [Luz de Luna](https://open.spotify.com/album/3k6LnfkOLCns9XTkt1OxSZ) | 2:47 | 2026-05-29 |  |
 | [Madeline](https://open.spotify.com/track/0jXI8KkVrQpZaHtKOpoSJ2) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/6pq0RlmMLCrhAKPNPKobJX) | 2:10 | 2022-10-28 | 2023-05-05 |
 | [Madeline](https://open.spotify.com/track/4GNgHIkp3jZLZItPYY1vt9) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/2uQ9zlH6Ti2wUgPIydEaL7) | 2:10 | 2022-08-19 | 2022-11-04 |
 | [Madeline](https://open.spotify.com/track/51c0wJWXcH4CLcRtmeghK9) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/2dC5WIOAtSstDRiNwjDOHi) | 2:10 | 2023-04-21 | 2023-10-13 |
@@ -499,6 +500,7 @@
 | [Make Believe](https://open.spotify.com/track/3PBroeekLgQrZShp9mnR4S) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Make Believe](https://open.spotify.com/album/2mPBIOqwG4I9uMQFstaEO9) | 3:03 | 2022-06-10 | 2022-07-22 |
 | [Manzanilla](https://open.spotify.com/track/0LbZg654PnwFu7lcj5aPtb) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Swatches](https://open.spotify.com/album/6kjbiriERthwWKCpa9H9pX) | 3:13 | 2022-11-18 | 2024-05-04 |
 | [Maple Street](https://open.spotify.com/track/5GsNfOialI5ZsqmsuZ57CH) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Maple Street](https://open.spotify.com/album/2slEEFLv6zCH9BxsZWXNGc) | 2:33 | 2023-08-10 | 2025-01-21 |
+| [Mar de Tranquilidad](https://open.spotify.com/track/3Lhf4N97pNKaTEQ1NKfNLC) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Mar de Tranquilidad](https://open.spotify.com/album/60O3cCUBGvE55yK767eyPw) | 3:02 | 2026-05-29 |  |
 | [Matira](https://open.spotify.com/track/5DM2p6mxHBAXz9v9C7Or4o) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Matira](https://open.spotify.com/album/51Hi43BRLetzxLME54vxjN) | 2:20 | 2023-08-10 | 2024-06-01 |
 | [Maybe Tomorrow It Will Change](https://open.spotify.com/track/6olLemdG5vLF9msH832Lg6) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Maybe Tomorrow It Will Change](https://open.spotify.com/album/0GwHdP2HTwPNhgWvTSR24c) | 2:42 | 2022-01-19 | 2024-10-16 |
 | [Me And You](https://open.spotify.com/track/72mj6r1TJ5nVbhFp7l9Ss9) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Me And You](https://open.spotify.com/album/4IllAL0UmuPn1qGw2fqlBu) | 2:32 | 2023-06-02 | 2025-11-11 |
@@ -644,6 +646,7 @@
 | [Pure As You](https://open.spotify.com/track/3bPbiu9rSQou2Iqx5dT5z8) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Pure As You](https://open.spotify.com/album/2om6nDeDbESNIsKmMNOIp6) | 2:17 | 2023-04-21 | 2025-05-14 |
 | [Quality time](https://open.spotify.com/track/6bQX3qvIjRXcOgG6uNBsKX) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Quality time](https://open.spotify.com/album/4vCwxMUz9PNyzGd1NqGtm4) | 2:44 | 2024-04-19 | 2025-11-11 |
 | [Quartzite](https://open.spotify.com/track/7ApVbA2DWxftyUApfSB5Qq) | [Aiden Archer](https://open.spotify.com/artist/3VgNLAQtZ0NxQLpZJSGFmE) | [Quartzite](https://open.spotify.com/album/2cnYYDd1dtIFhSc0gJUyAi) | 2:05 | 2023-10-27 |  |
+| [Quiet Hillside](https://open.spotify.com/track/3JrKNG8S0Ev7DA0AkcL1sf) | [Leonardo Reyes](https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG) | [Quiet Hillside](https://open.spotify.com/album/4BH4Jw2krTgBP7nDxkejq0) | 2:09 | 2026-05-29 |  |
 | [Quondam](https://open.spotify.com/track/3s2DgQijs4kj42NehQZnwG) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Quercus](https://open.spotify.com/album/5UOtIQBUnWIYh40uPWNC2e) | 3:03 | 2021-12-08 | 2022-04-06 |
 | [Raconteur](https://open.spotify.com/track/06qPEPcQwF1tZWWxRvDVPI) | [Marc Zimmerman](https://open.spotify.com/artist/4j9koj6rBTYpRH9ESdhwKr) | [Raconteur](https://open.spotify.com/album/3XWGX9Y84mIXoSYAUXRN0u) | 2:17 | 2022-05-27 | 2022-11-18 |
 | [Raconteur](https://open.spotify.com/track/7qzfZetxTQEZlFi3QB7zHx) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Raconteur](https://open.spotify.com/album/6zJrL7ptspQXKC1CaBkVBV) | 2:15 | 2022-12-16 | 2024-07-18 |
@@ -744,6 +747,7 @@
 | [Soft Rain](https://open.spotify.com/track/3XVYaiSb0e492iJuyfOrd4) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Soft Rain](https://open.spotify.com/album/1wt6ILOvZuZrvbVYb94PXP) | 2:13 | 2024-12-10 |  |
 | [Soft Water](https://open.spotify.com/track/1lrY2ajxDQK8NzKtcE60Nv) | [John Henriksson](https://open.spotify.com/artist/0vd7h6G1xC8QyRvj7oJjij) | [Soft Water](https://open.spotify.com/album/2Ri8R8XqX5lrptfAJ1cSfF) | 1:40 | 2023-08-24 | 2024-02-23 |
 | [Softly Spoken](https://open.spotify.com/track/3fdjOJT2aXArEAmx68eK8P) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken \- Guitar Version](https://open.spotify.com/album/25eYx7OeEr6auVC04XSUlr) | 1:30 | 2022-06-17 | 2023-08-19 |
+| [Softwater Hearts](https://open.spotify.com/track/7746S7wsVe5qMcIThtyS44) | [Auguste Braun](https://open.spotify.com/artist/5hPDT99ovB977bWVy6oJIc) | [Softwater Hearts](https://open.spotify.com/album/5uZIHUyHVpPYW4cLsZ8ijm) | 2:34 | 2026-05-29 |  |
 | [Sol](https://open.spotify.com/track/7iySYm4OYpamlQbv1CcoXj) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Sol](https://open.spotify.com/album/16QpKi6zRqxJxKVGjf3gOH) | 2:05 | 2023-09-08 | 2024-06-08 |
 | [Soleil Levant](https://open.spotify.com/track/5vhZfWLpcbV4X08gvBhWlN) | [Jourdain Hume](https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q) | [Soleil Levant](https://open.spotify.com/album/0nscFDssNLcPBtY02kSdz3) | 2:42 | 2022-06-24 | 2022-11-18 |
 | [Solis](https://open.spotify.com/track/1szHxvHkt6Q5AOmhy3waph) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Solis](https://open.spotify.com/album/7nIUMBa5guEzQ3YqZiwG6Q) | 2:14 | 2025-04-07 | 2026-04-25 |
@@ -831,6 +835,7 @@
 | [The Rain Comes](https://open.spotify.com/track/5zpgmMQ46DVTr97ZwFDcAG) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [The Rain Comes](https://open.spotify.com/album/6R7wD5TChs18vFNeX4jzin) | 2:40 | 2025-09-12 | 2026-04-18 |
 | [The River Song \(Dream Nr\. 1\)](https://open.spotify.com/track/63s37RyQINHVSf3FGdLsxK) | [Liad Abraham](https://open.spotify.com/artist/2Y8i0N5eDGrqRbk3MJGBni) | [The River Song \(Dream Nr\. 1\)](https://open.spotify.com/album/1HzQRuz4CFkAqF0K2UtH9y) | 3:28 | 2022-10-28 | 2023-05-13 |
 | [The secret trail](https://open.spotify.com/track/1c04luQUt67s15rXVOPD4h) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The secret trail](https://open.spotify.com/album/1I8NCIidGKSYOJkPqp9nI6) | 3:09 | 2025-04-16 | 2025-04-23 |
+| [The sensitive section](https://open.spotify.com/track/1VbDzgsRYmROnFxN2opfC1) | [Max Stewart](https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow) | [The sensitive section](https://open.spotify.com/album/1c8hPG4jsx7LhEOdEYjqOA) | 2:17 | 2026-05-29 |  |
 | [The small things in life](https://open.spotify.com/track/77RRa9i2ITwLznWo4Q9HPv) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [The small things in life](https://open.spotify.com/album/6XJEnO611nb1gGDE2kpUPa) | 2:15 | 2023-11-24 | 2025-03-06 |
 | [The Stillness Within](https://open.spotify.com/track/2zSvZfdq6ZJpxmH2RbpoQ8) | [Vadim Cervenka](https://open.spotify.com/artist/13mof4l15J56TzfoMsY99Y) | [The Stillness Within](https://open.spotify.com/album/7pfveCDNbixSABr4bVIfJZ) | 2:59 | 2023-06-08 | 2024-04-05 |
 | [The Story's Not Over](https://open.spotify.com/track/4xezVAKUPJHq7BQarlvLyz) | [Sam With Friends](https://open.spotify.com/artist/5HZyj5PKGDHT6iGBQDSTDC) | [The Story's Not Over](https://open.spotify.com/album/2VDKfqYkAocJbbpzdJcHVk) | 3:07 | 2024-05-24 | 2025-10-01 |
@@ -904,6 +909,7 @@
 | [Wandering River](https://open.spotify.com/track/43tkHdo6E2rMciFMHxdlqH) | [Dean Devaux](https://open.spotify.com/artist/7I3hN3ZYsVtCofZdp8Vque) | [Wandering River](https://open.spotify.com/album/2RU8vuyf96eGNrCoRuQL3I) | 2:44 | 2026-03-30 |  |
 | [warm water in the well](https://open.spotify.com/track/6QgsCarVTD1jp6wFq6sk3E) | [Richard Sapphire](https://open.spotify.com/artist/40Xa6PWV6jW7f8NuS44BzF) | [warm water in the well](https://open.spotify.com/album/1ty4G5zw98T0Wsygo0EGfH) | 2:14 | 2022-12-09 | 2024-04-05 |
 | [Waterfall](https://open.spotify.com/track/0kUvYvrYM7xJnnJJFwNW1r) | [August Flendahl](https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct) | [Waterfall](https://open.spotify.com/album/05PM1kvfCNBafQMRFv4zWJ) | 2:27 | 2022-07-08 | 2022-09-03 |
+| [Way Home](https://open.spotify.com/track/2DhQFA1sdbRnHin7OnIGxf) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Way Home](https://open.spotify.com/album/4LkXFJKNPYcoSIgQThximT) | 2:15 | 2026-05-29 |  |
 | [Weaving Together](https://open.spotify.com/track/7F1UIEo3ZOb4hpbysZJM4V) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Weaving Together](https://open.spotify.com/album/5N0g78Zo6DEY8V0hnbfE5D) | 3:23 | 2023-08-10 | 2024-04-05 |
 | [Weekend](https://open.spotify.com/track/6WoPTEeOq4IEEVEp0n9biN) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Weekend](https://open.spotify.com/album/4kGCMsT5GbzvMyEJHORgYr) | 1:43 | 2025-02-24 | 2025-04-08 |
 | [Weightless Hours](https://open.spotify.com/track/2iwtObyukKDsBdFec5Wvkx) | [Lucian Byrne](https://open.spotify.com/artist/76JjyD3D3gmVw6h9Do2T2C) | [Weightless Hours](https://open.spotify.com/album/7vgUbq2EVbv5xkxcAPgIab) | 2:42 | 2026-03-30 |  |
@@ -926,6 +932,7 @@
 | [Winter Dreamin'](https://open.spotify.com/track/3EMWJCLAscSYAYlcBKEt65) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Winter Dreamin'](https://open.spotify.com/album/2khbVKACHbQ4UxShCbB4Th) | 3:39 | 2024-02-23 |  |
 | [Winter In Tarifa](https://open.spotify.com/track/1sgGFGC1iftGshE6fH03yL) | [Álvaro Mondo Fernández](https://open.spotify.com/artist/2V18SFrY5UqNXeFLJZlYX9) | [Winter In Tarifa](https://open.spotify.com/album/52S7cB4WieRJMibAj4w2Cv) | 2:05 | 2022-10-28 | 2023-05-13 |
 | [Winter is coming](https://open.spotify.com/track/2TVL32urlZnR6EBTRGUHEP) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Winter is coming](https://open.spotify.com/album/33zjD4b9Oeab3uRFpcuZFw) | 2:32 | 2023-03-10 |  |
+| [Winter Wanderer](https://open.spotify.com/track/0pGe41hQMwAZbHiJ8zvrDw) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Winter Wanderer](https://open.spotify.com/album/3qhIScejpsItJxDCaTa1wE) | 1:51 | 2026-05-29 |  |
 | [Winterland](https://open.spotify.com/track/1gW3VKqi9qjRHLyBhg4IZO) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Winterland](https://open.spotify.com/album/3Yvb1Wl1aDWwgEUM0vuM9L) | 2:11 | 2023-01-13 | 2024-09-04 |
 | [Wishes](https://open.spotify.com/track/7EK4UOqDPX6BJa2RkrtA1X) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Wishes](https://open.spotify.com/album/6pXAbcUwXLaSvR8ge32fGv) | 3:09 | 2024-06-07 | 2025-04-03 |
 | [Wishful Thinking](https://open.spotify.com/track/32jAfJ9rlQRGfFISloeh9m) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wishful Thinking](https://open.spotify.com/album/23wAvlEfME0Hg9UYDRTgx2) | 2:28 | 2023-01-13 | 2023-09-08 |

@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang dangdut ngetop Tanah Air\. Cover: Happy Asmara
+> Dendang dangdut ngetop Tanah Air\. Cover: Cici Faramida
 
-302 songs - 23 hr 54 min
+303 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Jakarta Kalimantan](https://open.spotify.com/track/2xN7UiLrcbu5w5Gn52Kqiy) | [Sinka Sisuka](https://open.spotify.com/artist/4kFQEmcuWSQUX91Q1KQflA) | [Jakarta Kalimantan](https://open.spotify.com/album/2x8MraY8UBPMfTxVDUQ8fq) | 3:50 | 2021-08-23 | 2023-02-17 |
 | [Jangan Tanggung Tanggung \- Live Ska Reggae](https://open.spotify.com/track/0glpTL0L63qt1CrCNuyJRi) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Jangan Tanggung Tanggung \(Live Ska Reggae\)](https://open.spotify.com/album/35Ynip23CA1h0oVV7smcKR) | 6:09 | 2024-11-28 | 2025-06-27 |
 | [Jangan Tinggalkan Aku](https://open.spotify.com/track/3NUcAoCf70gCawsrp26QRg) | [Abi Rafdi](https://open.spotify.com/artist/5lg2Srqzrj9XN9Yx3o0vzi) | [Jangan Tinggalkan Aku](https://open.spotify.com/album/6sAgU3iI0XWwKZlzHAeECz) | 3:20 | 2026-01-23 |  |
+| [Jangan Tunggu Lama \- Lama \- 2026 Version](https://open.spotify.com/track/4VeAKWOq3au1Em1TkUfdSE) | [Cici Faramida](https://open.spotify.com/artist/0v8CnbaMT0JN6DHYkGLvee) | [Jangan Tunggu Lama \- Lama \(2026 Version\)](https://open.spotify.com/album/11uumHIPG8m6qXprPxX8OY) | 4:00 | 2026-05-29 |  |
 | [Jatuh Bangun](https://open.spotify.com/track/5WGytp59Sk5j7Pzh3ejBjN) | [SMAN 1 Jampangkulon \(Gitsara\)](https://open.spotify.com/artist/1pS59gd0VO1Qw2NjNDYrXe) | [Jatuh Bangun](https://open.spotify.com/album/2pcm5hzGChyqTYah12auu4) | 5:22 | 2024-09-06 | 2024-09-27 |
 | [Kamar Kost Kenangan](https://open.spotify.com/track/2HKjpUsflqYo0kOxQLXKTw) | [Ligea](https://open.spotify.com/artist/7hLgy5SoxWG2nYanRBiouX) | [Kamar Kost Kenangan](https://open.spotify.com/album/0vjf1NPMQ4nglpqEBRr7mV) | 4:11 | 2025-07-17 |  |
 | [Kamu Istimewa](https://open.spotify.com/track/3JpeCd8KuebcR6HQa2vNZP) | [Melly Lee](https://open.spotify.com/artist/5YOtsqr05boEcIj0NpewaF) | [Kamu Istimewa](https://open.spotify.com/album/1P7MH3HaX3EesUbX8pxtk0) | 4:34 | 2025-11-06 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Sempre aggiornata. Con nuovi brani di 18K, Gu\u00e8, RRARI DAL TACCO, DANTE, Astro, Madman e molti altri. ",
-  "num_followers": 55540,
+  "num_followers": 55547,
   "original_name": "Novit\u00e0 Rap Italiano",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,26 @@
     {
       "added_at": "2026-05-28 22:02:27",
       "album": {
+        "name": "Eiwa 3",
+        "url": "https://open.spotify.com/album/3LtRktSMthJZtYyQ5vXoIV"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        }
+      ],
+      "duration_ms": 216048,
+      "name": "Eiwa 3",
+      "url": "https://open.spotify.com/track/1ZlRKcHHtXTvya9jcJj3sD"
+    },
+    {
+      "added_at": "2026-05-28 22:02:27",
+      "album": {
         "name": "BLING BLING",
         "url": "https://open.spotify.com/album/4ov8Dsd7V9KKwZcxXusSxT"
       },
@@ -757,7 +777,7 @@
         }
       ],
       "duration_ms": 179013,
-      "name": "CELINE (feat. ZAYRE)",
+      "name": "CELINE (feat. Zayre)",
       "url": "https://open.spotify.com/track/3Wg3yx21eF9nIJjTsfdNIo"
     },
     {

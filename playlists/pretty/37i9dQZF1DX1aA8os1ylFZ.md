@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > De beste nieuwe R&B releases \| Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,588 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,576 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 23 | [wrong faces.](https://open.spotify.com/track/0yYTRodDOWqZZ0AWa2qxHH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 3:43 |
 | 24 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 |
 | 25 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
-| 26 | [Death Do Us Part \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/5tot8CpUTFLoGDEhGRd8WN) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Everybody Got Somebody](https://open.spotify.com/album/3lJx06968UaIZU1u80Lq9u) | 3:25 |
-| 27 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 |
-| 28 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 |
+| 26 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 |
+| 27 | [Death Do Us Part \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/5tot8CpUTFLoGDEhGRd8WN) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Everybody Got Somebody](https://open.spotify.com/album/3lJx06968UaIZU1u80Lq9u) | 3:25 |
+| 28 | [Out The Window](https://open.spotify.com/track/5MqzNAzRgVj2dfp30LJ6s1) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Out The Window](https://open.spotify.com/album/4FdvzXXXWgv3YxkUuW2307) | 4:16 |
 | 29 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 |
 | 30 | [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 |
 | 31 | [tell me what you want](https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [tell me what you want](https://open.spotify.com/album/45dogBUITG47dD11ydydgz) | 3:56 |
@@ -81,13 +81,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 71 | [Can We Talk?](https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Can We Talk?](https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi) | 3:08 |
 | 72 | [Slow Down](https://open.spotify.com/track/2SlLZusHiwJ7sl18O4BssR) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Slow Down](https://open.spotify.com/album/7aSJHePqF7bfzQRVozwj4a) | 2:20 |
 | 73 | [SPEECHLESS](https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [HIATUS](https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE) | 3:34 |
-| 74 | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/track/3CpYc8sEJUAgusqSZZKzi3) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L) | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd) | 3:17 |
-| 75 | [He's Not Me](https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [He's Not Me](https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ) | 3:27 |
+| 74 | [He's Not Me](https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [He's Not Me](https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ) | 3:27 |
+| 75 | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/track/3CpYc8sEJUAgusqSZZKzi3) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L) | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd) | 3:17 |
 | 76 | [System](https://open.spotify.com/track/5coSBS4AytJ2V3lAAtstEg) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [System](https://open.spotify.com/album/2ow4378LTz6HxOdaLOWG9C) | 3:08 |
 | 77 | [Overrated](https://open.spotify.com/track/2NN4IYo4XsCPn0jcl8n12K) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Overrated](https://open.spotify.com/album/5ehxxi3VjaQ825YmJrFHxL) | 3:11 |
 | 78 | [Tricks Are For Kids](https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Tricks Are For Kids](https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO) | 2:20 |
-| 79 | [Desire \- Spotify Singles](https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Desire \- Spotify Singles](https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i) | 3:45 |
-| 80 | [So Bad \- bonus track](https://open.spotify.com/track/4d7pMYqix9rkgaRgJs4ITe) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [So Bad \(bonus track\)](https://open.spotify.com/album/0FP75BEtvpCPg1OrjnwV92) | 2:00 |
+| 79 | [So Bad \- bonus track](https://open.spotify.com/track/4d7pMYqix9rkgaRgJs4ITe) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [So Bad \(bonus track\)](https://open.spotify.com/album/0FP75BEtvpCPg1OrjnwV92) | 2:00 |
+| 80 | [Desire \- Spotify Singles](https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Desire \- Spotify Singles](https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i) | 3:45 |
 | 81 | [Not Fair](https://open.spotify.com/track/5mCQKLDgoMndWXm6DOdrve) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX), [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [Not Fair](https://open.spotify.com/album/5TgCn2rZ8FIHsmqhzrmQDi) | 3:25 |
 | 82 | [MEET THE SUN](https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [MEET THE SUN](https://open.spotify.com/album/0Mff6DYflCDBNvAaahjB3w) | 4:45 |
 | 83 | [100](https://open.spotify.com/track/1nD3K6W0atK00pbJXS6JRa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [100](https://open.spotify.com/album/5uzvHxfiPAcQncCnaqOMZr) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [From A Distance](https://open.spotify.com/track/1VW6rRYpdTRJ3WCgLovnOe) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [From A Distance](https://open.spotify.com/album/3KndyzgemjdDrIL5VRIphG) | 3:03 |
 | 100 | [All I Know](https://open.spotify.com/track/5g4UWtNXfBZjnnUqLwDqMp) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX), [RAIN](https://open.spotify.com/artist/0rroNFYF82HohpQTsJE39j) | [All I Know](https://open.spotify.com/album/4G3WyqUTLiI7xYL163RvXU) | 2:54 |
 
-Snapshot ID: `AAAAAJjG1mcF+C15LIKTAHhCegZvxPoz`
+Snapshot ID: `AAAAAERomHWCzRrwdLi/e0cKgIP/7NYF`

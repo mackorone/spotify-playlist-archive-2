@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: Young Jonn ",
-  "num_followers": 223127,
+  "num_followers": 223227,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-05-29 00:01:59",
       "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        }
+      ],
+      "duration_ms": 139424,
+      "name": "Lakute",
+      "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
+    },
+    {
+      "added_at": "2026-05-29 00:01:59",
+      "album": {
         "name": "Guide",
         "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 148550,
       "name": "Getting Paid \u200b(f\u200beat\u200b. Asake, Wizkid, Skillibeng\u200b)",
       "url": "https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s"
-    },
-    {
-      "added_at": "2026-05-29 00:01:59",
-      "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        }
-      ],
-      "duration_ms": 139424,
-      "name": "Lakute",
-      "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
     },
     {
       "added_at": "2026-05-29 00:01:59",
@@ -735,6 +735,26 @@
     {
       "added_at": "2026-05-29 00:01:59",
       "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 147118,
+      "name": "Chose Me",
+      "url": "https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG"
+    },
+    {
+      "added_at": "2026-05-29 00:01:59",
+      "album": {
         "name": "Rock Me Gentle",
         "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 176000,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
-    },
-    {
-      "added_at": "2026-05-29 00:01:59",
-      "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 147118,
-      "name": "Chose Me",
-      "url": "https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG"
     },
     {
       "added_at": "2026-05-29 00:01:59",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-05-29 00:01:59",
       "album": {
-        "name": "Attack",
-        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
-    },
-    {
-      "added_at": "2026-05-29 00:01:59",
-      "album": {
         "name": "Jembe / 14DRoad",
         "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 138208,
       "name": "Jembe",
       "url": "https://open.spotify.com/track/5c208bYsRosPrQkSchuNFE"
+    },
+    {
+      "added_at": "2026-05-29 00:01:59",
+      "album": {
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
     },
     {
       "added_at": "2026-05-29 00:01:59",
@@ -931,26 +931,6 @@
     {
       "added_at": "2026-05-29 00:01:59",
       "album": {
-        "name": "Paparazzi",
-        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 147302,
-      "name": "Paparazzi",
-      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
-    },
-    {
-      "added_at": "2026-05-29 00:01:59",
-      "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 206968,
       "name": "BIG TIME (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4zGLBKonWuLSeK35mrUXf0"
+    },
+    {
+      "added_at": "2026-05-29 00:01:59",
+      "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 147302,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
     },
     {
       "added_at": "2026-05-29 00:01:59",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2026-05-29 00:01:59",
       "album": {
+        "name": "Morayo",
+        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Bad Girl (feat. Asake)",
+      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
+    },
+    {
+      "added_at": "2026-05-29 00:01:59",
+      "album": {
         "name": "Je m'appelle",
         "url": "https://open.spotify.com/album/5lRDkN4fmcLGsqW0Ki4ZG2"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 243253,
       "name": "Je m'appelle",
       "url": "https://open.spotify.com/track/6eGPfRvMtXkP9yGT3KcXjV"
-    },
-    {
-      "added_at": "2026-05-29 00:01:59",
-      "album": {
-        "name": "Morayo",
-        "url": "https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Bad Girl (feat. Asake)",
-      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
     },
     {
       "added_at": "2026-05-29 00:01:59",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2026-05-29 00:01:59",
       "album": {
-        "name": "Realize",
-        "url": "https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
-    },
-    {
-      "added_at": "2026-05-29 00:01:59",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 188263,
       "name": "Gold",
       "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
+    },
+    {
+      "added_at": "2026-05-29 00:01:59",
+      "album": {
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/63Ijs2DCdv1qQAnnIUYOnH"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
     },
     {
       "added_at": "2026-05-29 00:01:59",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-05-29 00:01:59",
       "album": {
+        "name": "Fuji Xtra",
+        "url": "https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Life Of The Faaji",
+      "url": "https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp"
+    },
+    {
+      "added_at": "2026-05-29 00:01:59",
+      "album": {
         "name": "lost",
         "url": "https://open.spotify.com/album/5CLUFOEWCqiMNRrX5Ibxod"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 168082,
       "name": "lost",
       "url": "https://open.spotify.com/track/3wdV4OJ37JdoLyUJMm50UW"
-    },
-    {
-      "added_at": "2026-05-29 00:01:59",
-      "album": {
-        "name": "Fuji Xtra",
-        "url": "https://open.spotify.com/album/6NP9TfHyQAMu7QKFAySLdb"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 149500,
-      "name": "Life Of The Faaji",
-      "url": "https://open.spotify.com/track/4BVXL84QhTuDU3eQEpIBOp"
     },
     {
       "added_at": "2026-05-29 00:01:59",
@@ -1559,30 +1559,22 @@
     {
       "added_at": "2026-05-29 00:01:59",
       "album": {
-        "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
-        "url": "https://open.spotify.com/album/59Fs0w068THGXqx33PzCr7"
+        "name": "Che Che (feat. Asake)",
+        "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
       },
       "artists": [
         {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         },
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Skillibeng",
-          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 184682,
-      "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
-      "url": "https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov"
+      "duration_ms": 169911,
+      "name": "Che Che (feat. Asake)",
+      "url": "https://open.spotify.com/track/2iCI6gHilTbSiD8a138KMU"
     }
   ],
   "unique_name": "Gbedu",

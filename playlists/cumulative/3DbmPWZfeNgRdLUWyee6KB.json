@@ -15027,6 +15027,28 @@
     },
     {
       "album": {
+        "name": "Say the Word",
+        "url": "https://open.spotify.com/album/74GBd4STU1MkXuJ0Ksm0Xk"
+      },
+      "artists": [
+        {
+          "name": "Violyt",
+          "url": "https://open.spotify.com/artist/58dODJDrNq8DHvx5CJDJgd"
+        },
+        {
+          "name": "Justin Mola",
+          "url": "https://open.spotify.com/artist/1LX4SXG0RusTp81RPzhPoh"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266555,
+      "name": "Say the Word",
+      "url": "https://open.spotify.com/track/57lnic7GHCgDox7Nh4abvy"
+    },
+    {
+      "album": {
         "name": "White Velvet Moon",
         "url": "https://open.spotify.com/album/5koREwv5sM8yJFDe6O1z70"
       },
@@ -17656,6 +17678,24 @@
       "duration_ms": 184643,
       "name": "The Crow",
       "url": "https://open.spotify.com/track/56Aya5c9O6YvYoPkBzpYvW"
+    },
+    {
+      "album": {
+        "name": "Hell Star",
+        "url": "https://open.spotify.com/album/69cztdwH8rOrgsdi35oPGk"
+      },
+      "artists": [
+        {
+          "name": "MBcK",
+          "url": "https://open.spotify.com/artist/5tPReJv7l1ys12zXVFAEXZ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195586,
+      "name": "The Cry of an Angel",
+      "url": "https://open.spotify.com/track/27Olu0bAnBKzRToftDDY3v"
     },
     {
       "album": {
@@ -20309,6 +20349,24 @@
     },
     {
       "album": {
+        "name": "Weizenwetter",
+        "url": "https://open.spotify.com/album/1HLwzEgafWcvuhsJqaIYgb"
+      },
+      "artists": [
+        {
+          "name": "LEEZE",
+          "url": "https://open.spotify.com/artist/2IiWnyqGW4BZHM8THRSFpe"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "Weizenwetter",
+      "url": "https://open.spotify.com/track/6zWKGR8Rn1EGib9mOP2jxf"
+    },
+    {
+      "album": {
         "name": "We\u2019re In The Same Boat (Don\u2019t Let Us Drown)",
         "url": "https://open.spotify.com/album/6EsnMFhBUOTk6aTQ0rQKMU"
       },
@@ -21332,6 +21390,24 @@
       "duration_ms": 174039,
       "name": "\u00bfMe Vas a Amar Hasta El Final?",
       "url": "https://open.spotify.com/track/6uKlzmnvRUApUP5N2W16d5"
+    },
+    {
+      "album": {
+        "name": "\u00bfVampiro o Ladr\u00f3n?",
+        "url": "https://open.spotify.com/album/2qg0w5is7kIreSaDwx7n0k"
+      },
+      "artists": [
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/5XFum7bQUnhp2U8h2zdJGV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221945,
+      "name": "\u00bfVampiro o Ladr\u00f3n?",
+      "url": "https://open.spotify.com/track/7KXOz98ntMZ8eeovE9pv6N"
     },
     {
       "album": {

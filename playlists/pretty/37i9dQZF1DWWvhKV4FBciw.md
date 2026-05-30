@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 
 > A selection of the greatest funk & soul records ever made.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,888,920 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,889,063 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 50 | [Love Rollercoaster](https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Honey](https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR) | 4:50 |
 | 51 | [In the Midnight Hour](https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [In the Midnight Hour](https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU) | 2:37 |
 | 52 | [It's A Man's, Man's, Man's World](https://open.spotify.com/track/3BcH252CGECgOWfKBjAaBC) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [It's A New Day \- Let A Man Come In](https://open.spotify.com/album/6o2pZrZdpi9o4f5Cnrq38l) | 2:55 |
-| 53 | [Across 110th Street](https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Midnight Mover: The Bobby Womack Story](https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG) | 3:50 |
-| 54 | [Something's Got A Hold On Me](https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Sweetest Peaches: The Chess Years Part One \(1940\-1966\)](https://open.spotify.com/album/2BJqJ9am42hV8DytfIqhBL) | 2:47 |
+| 53 | [Something's Got A Hold On Me](https://open.spotify.com/track/5QC07jdKdQrH1cW7Ag3OJ2) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Sweetest Peaches: The Chess Years Part One \(1940\-1966\)](https://open.spotify.com/album/2BJqJ9am42hV8DytfIqhBL) | 2:47 |
+| 54 | [Across 110th Street](https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Midnight Mover: The Bobby Womack Story](https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG) | 3:50 |
 | 55 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
 | 56 | [Hollywood Swinging](https://open.spotify.com/track/6igsoAR6Co9u7Rq3U7mlOD) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Wild And Peaceful](https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI) | 4:39 |
 | 57 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
@@ -78,13 +78,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvhKV4FBciw.md) - [plain]
 | 68 | [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 |
 | 69 | [Pick up the Pieces](https://open.spotify.com/track/2H5nsVLjDwWsxfyajm0lVS) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [Average White Band](https://open.spotify.com/album/5SlfIp60F93VaOJjd88BXC) | 3:54 |
 | 70 | [That Lady, Pts\. 1 & 2](https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 5:34 |
-| 71 | [Strawberry Letter 23](https://open.spotify.com/track/4W8IEREeLldaSQyGXcZQ2I) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 3:59 |
-| 72 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
+| 71 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
+| 72 | [Strawberry Letter 23](https://open.spotify.com/track/4W8IEREeLldaSQyGXcZQ2I) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Freedom Flight](https://open.spotify.com/album/7suTZDEkiDpzkouw300noM) | 3:59 |
 | 73 | [Le Freak \- 2018 Remaster](https://open.spotify.com/track/3ClOMebBxeNTYCOfTH24YJ) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [The Chic Organization 1977\-1979 \(2018 Remaster\)](https://open.spotify.com/album/3Jhtxnrjbk5oxleA3oafAy) | 5:31 |
 | 74 | [It Takes Two](https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Kim Weston](https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL) | [Take Two](https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK) | 2:57 |
 | 75 | [Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 3:33 |
-| 76 | [Atomic Dog](https://open.spotify.com/track/4cgodXjv4TfrooNQxvlO4O) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Computer Games](https://open.spotify.com/album/36FlhEnhgkDwk371cG8nav) | 4:47 |
-| 77 | [Thank You \(Falettinme Be Mice Elf Agin\) \- Single Version](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 4:51 |
+| 76 | [Thank You \(Falettinme Be Mice Elf Agin\) \- Single Version](https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 4:51 |
+| 77 | [Atomic Dog](https://open.spotify.com/track/4cgodXjv4TfrooNQxvlO4O) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Computer Games](https://open.spotify.com/album/36FlhEnhgkDwk371cG8nav) | 4:47 |
 | 78 | [I Say a Little Prayer](https://open.spotify.com/track/7haFcQaoTBr2qY6G0r4JSH) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 3:32 |
 | 79 | [Fate](https://open.spotify.com/track/6bJGULOowvaqs5t1VSuDCw) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [What Cha' Gonna Do for Me](https://open.spotify.com/album/6elTNQdWmobPp0QGEPwPMc) | 3:14 |
 | 80 | [Hard Times](https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM) | [Baby Huey](https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv) | [The Baby Huey Story: The Living Legend](https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T) | 3:23 |

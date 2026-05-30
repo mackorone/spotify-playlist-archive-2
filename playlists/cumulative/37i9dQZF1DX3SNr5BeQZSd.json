@@ -3006,7 +3006,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 106666,
       "name": "bittersweet",
       "url": "https://open.spotify.com/track/2Mjz8KFp5g6N3mgCwVF9yo"
@@ -5840,7 +5840,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 120000,
       "name": "Crema",
       "url": "https://open.spotify.com/track/6R13DnbCUnX9ITBGmwDxxC"
@@ -6138,7 +6138,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 111000,
       "name": "Dark Brew",
       "url": "https://open.spotify.com/track/4MhOf4MoixASEUgogDTGry"
@@ -7469,6 +7469,24 @@
     },
     {
       "album": {
+        "name": "Drove North To The Redwoods",
+        "url": "https://open.spotify.com/album/0wHDTZH1VcJInF2ywfvmRz"
+      },
+      "artists": [
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143283,
+      "name": "Drove North To The Redwoods",
+      "url": "https://open.spotify.com/track/675SPQOkVI8SOFZ94cU5CC"
+    },
+    {
+      "album": {
         "name": "wild & free",
         "url": "https://open.spotify.com/album/2mccYcIpYZM5CVF4Z3cN8H"
       },
@@ -7996,6 +8014,24 @@
       "duration_ms": 80000,
       "name": "elevators",
       "url": "https://open.spotify.com/track/0Ko1L0621e2fZ5fZhaw1l3"
+    },
+    {
+      "album": {
+        "name": "elia",
+        "url": "https://open.spotify.com/album/2XBzLKCgFt1ZX6kGP8tIFj"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145312,
+      "name": "elia",
+      "url": "https://open.spotify.com/track/6irOJzdrcaarPDwAFt2bw5"
     },
     {
       "album": {
@@ -8902,6 +8938,24 @@
       "duration_ms": 92908,
       "name": "falling in reverse",
       "url": "https://open.spotify.com/track/7zK3KxQG2lTEEllBzUvNIA"
+    },
+    {
+      "album": {
+        "name": "familiar streets",
+        "url": "https://open.spotify.com/album/5OiuSuB5xrCN81gYYDPM5R"
+      },
+      "artists": [
+        {
+          "name": "Slowheal",
+          "url": "https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129729,
+      "name": "familiar streets",
+      "url": "https://open.spotify.com/track/1dxw1i0rNsRf7ZRbwDfnrw"
     },
     {
       "album": {
@@ -14762,7 +14816,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 103291,
       "name": "Like Sunday",
       "url": "https://open.spotify.com/track/0NCadexlwl3x3JHqAHxPSW"
@@ -20763,6 +20817,24 @@
     },
     {
       "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/0IQZu1M9A46tXkkNkVG3MQ"
+      },
+      "artists": [
+        {
+          "name": "Nat Walker",
+          "url": "https://open.spotify.com/artist/40BcKXWOaxLXJU26BNJEEp"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84591,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/0ZZCEysrZpi7SfRTe2NuMi"
+    },
+    {
+      "album": {
         "name": "horae",
         "url": "https://open.spotify.com/album/3Vaw8bskCqUQ8RHpnjZ8jK"
       },
@@ -20967,6 +21039,28 @@
     },
     {
       "album": {
+        "name": "Pistacchio",
+        "url": "https://open.spotify.com/album/5UOamq0APKOxtb7MImyZZn"
+      },
+      "artists": [
+        {
+          "name": "Paju",
+          "url": "https://open.spotify.com/artist/31UA0TK5svTSgKtWS5k8SG"
+        },
+        {
+          "name": "Br\u00f8",
+          "url": "https://open.spotify.com/artist/7bT0YuIs8yW2B9Ey8Ybawu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113239,
+      "name": "Pistacchio",
+      "url": "https://open.spotify.com/track/7FUbpPN4QGeQwD6TOj1TJS"
+    },
+    {
+      "album": {
         "name": "Pistachio",
         "url": "https://open.spotify.com/album/3Y67A7RoGRg4r7BnvHVeSZ"
       },
@@ -21156,7 +21250,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 141000,
       "name": "Pollen",
       "url": "https://open.spotify.com/track/0npTS3tR5pfQKgUFQMObJc"
@@ -22432,7 +22526,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 110270,
       "name": "roaming",
       "url": "https://open.spotify.com/track/6TMbUYF1Tuojm577wU6gV2"
@@ -23373,6 +23467,28 @@
     },
     {
       "album": {
+        "name": "Seasides",
+        "url": "https://open.spotify.com/album/5uG0yctgGzQUfbrfdZrek6"
+      },
+      "artists": [
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        },
+        {
+          "name": "HoK\u00f8",
+          "url": "https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144742,
+      "name": "Seasides",
+      "url": "https://open.spotify.com/track/4c2mpOx581sVs13T9YUHUi"
+    },
+    {
+      "album": {
         "name": "second nature",
         "url": "https://open.spotify.com/album/4caE5k79e2PBfaFyDvqiT4"
       },
@@ -23540,7 +23656,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 87272,
       "name": "Sentries",
       "url": "https://open.spotify.com/track/1glqyfGgl5ocubAauA2nQV"
@@ -25680,6 +25796,24 @@
       "duration_ms": 164800,
       "name": "Spring Again",
       "url": "https://open.spotify.com/track/0vzWY9bzQPBuaStxkCN9cF"
+    },
+    {
+      "album": {
+        "name": "Spring is Back",
+        "url": "https://open.spotify.com/album/3gF0FfwO3J181AKuee02RJ"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97274,
+      "name": "Spring is Back",
+      "url": "https://open.spotify.com/track/0OVkB9jf6YqVm98YAGJzaa"
     },
     {
       "album": {
@@ -31453,6 +31587,28 @@
     },
     {
       "album": {
+        "name": "white moon",
+        "url": "https://open.spotify.com/album/0nnk8T1CCO4d42DtKkCLCT"
+      },
+      "artists": [
+        {
+          "name": "prins",
+          "url": "https://open.spotify.com/artist/7EFgazliYfBAB0KNLX0bYn"
+        },
+        {
+          "name": "Hakuuro",
+          "url": "https://open.spotify.com/artist/3VoFRrRqwrD1WPLiQVbr1K"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131379,
+      "name": "white moon",
+      "url": "https://open.spotify.com/track/1HWX198CDmSASxOmcy1kbD"
+    },
+    {
+      "album": {
         "name": "Lonely Days",
         "url": "https://open.spotify.com/album/3P6e5gBKNbXkVSlqpdydew"
       },
@@ -31602,7 +31758,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 144615,
       "name": "wildflower walk",
       "url": "https://open.spotify.com/track/3mcGCTghkfVwws7J8Td7AZ"

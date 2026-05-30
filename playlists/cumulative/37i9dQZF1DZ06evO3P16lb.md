@@ -4,14 +4,15 @@
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 59 min
+75 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mi Me Ha Pasado](https://open.spotify.com/track/2q7cXyOxFmqa1YiuICarFB) | [Beatriz Solis](https://open.spotify.com/artist/3fuv8rxYnsWFnVFVopCu4J), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [A Mi Me Ha Pasado](https://open.spotify.com/album/2dEZS1yfuFzVs4ySKjmFCT) | 3:11 | 2025-02-12 |  |
 | [Alérgica](https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 3:32 | 2025-05-21 |  |
 | [Amorcito Corazón](https://open.spotify.com/track/1z3UgtvtJm0WZ8LCg8efKS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Mariachi Sol De Mexico De Jose Hernandez](https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG) | [Amorcito Corazón](https://open.spotify.com/album/3NG0a4l4VbwZ1rPlIm7g70) | 2:29 | 2025-02-12 |  |
-| [Amémonos de Nuevo](https://open.spotify.com/track/6U5Dim2CugbX7O6oK34gTt) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Amémonos de Nuevo](https://open.spotify.com/album/7MqsaLdOrhHItr6GxzsedJ) | 2:51 | 2025-07-27 |  |
+| [Amémonos de Nuevo](https://open.spotify.com/track/4Xd8S77RE5nwUsF5TKl0Oe) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Aunque Me Duela](https://open.spotify.com/album/5MJsWPUvtZOp2lVys1iQ30) | 2:51 | 2026-05-30 |  |
+| [Amémonos de Nuevo](https://open.spotify.com/track/6U5Dim2CugbX7O6oK34gTt) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Amémonos de Nuevo](https://open.spotify.com/album/7MqsaLdOrhHItr6GxzsedJ) | 2:51 | 2025-07-27 | 2026-05-30 |
 | [Aunque Me Duela](https://open.spotify.com/track/5qhmnsjbAIi1dtrI0Q4jkC) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Aunque Me Duela](https://open.spotify.com/album/5MJsWPUvtZOp2lVys1iQ30) | 3:07 | 2026-05-10 |  |
 | [Beautiful City](https://open.spotify.com/track/1pGyDZVBQCBKCC8JfO92iR) | [Ana Victoria](https://open.spotify.com/artist/1Xc3X1FuRXrzFZ1C5BuCy5), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Pablo Hurtado](https://open.spotify.com/artist/27Ei0laozDcWwT4F9ASW54), [Daniel Willy](https://open.spotify.com/artist/717Rj9LBr7WCA2knqxbl90), [The Silver Lake Chorus](https://open.spotify.com/artist/5cHNjijphFOJ54tYw4Dv1c) | [Beautiful City](https://open.spotify.com/album/3Fb5AZkT4XuFHctZ07Kvor) | 4:19 | 2025-08-24 | 2026-05-10 |
 | [Besarte Así](https://open.spotify.com/track/0z2fdrdXxLhb00CJjPxiY6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:54 | 2025-02-12 | 2026-05-16 |

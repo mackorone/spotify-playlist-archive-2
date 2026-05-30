@@ -1,6 +1,6 @@
 {
   "description": "Essential songs from the late '90s, 2000s underground hip-hop scene. Cover: J Dilla",
-  "num_followers": 647419,
+  "num_followers": 647527,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,30 @@
     {
       "added_at": "2026-02-07 18:12:32",
       "album": {
+        "name": "Violence Begets Violence",
+        "url": "https://open.spotify.com/album/1OT6Ow2YWScyicn8IIO8E5"
+      },
+      "artists": [
+        {
+          "name": "Jedi Mind Tricks",
+          "url": "https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc"
+        },
+        {
+          "name": "Young Zee",
+          "url": "https://open.spotify.com/artist/4OqgHlGnIFHukth5CY1Ejj"
+        },
+        {
+          "name": "Pacewon",
+          "url": "https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Design in Malice",
+      "url": "https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG"
+    },
+    {
+      "added_at": "2026-02-07 18:12:32",
+      "album": {
         "name": "Deltron 3030",
         "url": "https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye"
       },
@@ -495,30 +519,6 @@
       "duration_ms": 214306,
       "name": "Mastermind",
       "url": "https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz"
-    },
-    {
-      "added_at": "2026-02-07 18:12:32",
-      "album": {
-        "name": "Violence Begets Violence",
-        "url": "https://open.spotify.com/album/1OT6Ow2YWScyicn8IIO8E5"
-      },
-      "artists": [
-        {
-          "name": "Jedi Mind Tricks",
-          "url": "https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc"
-        },
-        {
-          "name": "Young Zee",
-          "url": "https://open.spotify.com/artist/4OqgHlGnIFHukth5CY1Ejj"
-        },
-        {
-          "name": "Pacewon",
-          "url": "https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Design in Malice",
-      "url": "https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG"
     },
     {
       "added_at": "2026-02-07 18:12:32",
@@ -643,62 +643,6 @@
     {
       "added_at": "2026-02-07 18:12:32",
       "album": {
-        "name": "The Torture Papers",
-        "url": "https://open.spotify.com/album/7kBK7f7V0vuag74KojKlrs"
-      },
-      "artists": [
-        {
-          "name": "Jedi Mind Tricks",
-          "url": "https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc"
-        },
-        {
-          "name": "Army Of The Pharaohs",
-          "url": "https://open.spotify.com/artist/13FswnDmTIttTpiK9PS0BI"
-        },
-        {
-          "name": "Apathy",
-          "url": "https://open.spotify.com/artist/6fK2hnSgfRPxR6sL975XQS"
-        },
-        {
-          "name": "King Syze",
-          "url": "https://open.spotify.com/artist/3b6EyI9X9TQqEydURC7W1c"
-        },
-        {
-          "name": "Crypt The Warchild",
-          "url": "https://open.spotify.com/artist/5R3Drc8FmPbDKmGK8LNIrh"
-        },
-        {
-          "name": "Des Devious",
-          "url": "https://open.spotify.com/artist/4foaZrkZMdUnXtiCGNZ0wS"
-        },
-        {
-          "name": "Esoteric",
-          "url": "https://open.spotify.com/artist/05uLh5wh57tN8AwajBpDkg"
-        },
-        {
-          "name": "Chief Kamachi",
-          "url": "https://open.spotify.com/artist/2KrFLjILMBg3cf4TW8nTrr"
-        },
-        {
-          "name": "Planetary",
-          "url": "https://open.spotify.com/artist/5ogssnW2k08fXhf6kYzIq8"
-        },
-        {
-          "name": "Celph Titled",
-          "url": "https://open.spotify.com/artist/6bJSpzkLD8XYKqsXJ5jJNS"
-        },
-        {
-          "name": "Vinnie Paz",
-          "url": "https://open.spotify.com/artist/3rExe3A3FzAmYDlQuvW2Wx"
-        }
-      ],
-      "duration_ms": 366066,
-      "name": "Battle Cry",
-      "url": "https://open.spotify.com/track/3iZc0giQC5ySLgbJ6gQFEl"
-    },
-    {
-      "added_at": "2026-02-07 18:12:32",
-      "album": {
         "name": "Revolutionary Vol. 2",
         "url": "https://open.spotify.com/album/5xtkb5z9PgR0dmIf8WkNT0"
       },
@@ -751,6 +695,62 @@
       "duration_ms": 225253,
       "name": "Scary Movies",
       "url": "https://open.spotify.com/track/2xqAI0XVjrn3VpK0bWa0wD"
+    },
+    {
+      "added_at": "2026-02-07 18:12:32",
+      "album": {
+        "name": "The Torture Papers",
+        "url": "https://open.spotify.com/album/7kBK7f7V0vuag74KojKlrs"
+      },
+      "artists": [
+        {
+          "name": "Jedi Mind Tricks",
+          "url": "https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc"
+        },
+        {
+          "name": "Army Of The Pharaohs",
+          "url": "https://open.spotify.com/artist/13FswnDmTIttTpiK9PS0BI"
+        },
+        {
+          "name": "Apathy",
+          "url": "https://open.spotify.com/artist/6fK2hnSgfRPxR6sL975XQS"
+        },
+        {
+          "name": "King Syze",
+          "url": "https://open.spotify.com/artist/3b6EyI9X9TQqEydURC7W1c"
+        },
+        {
+          "name": "Crypt The Warchild",
+          "url": "https://open.spotify.com/artist/5R3Drc8FmPbDKmGK8LNIrh"
+        },
+        {
+          "name": "Des Devious",
+          "url": "https://open.spotify.com/artist/4foaZrkZMdUnXtiCGNZ0wS"
+        },
+        {
+          "name": "Esoteric",
+          "url": "https://open.spotify.com/artist/05uLh5wh57tN8AwajBpDkg"
+        },
+        {
+          "name": "Chief Kamachi",
+          "url": "https://open.spotify.com/artist/2KrFLjILMBg3cf4TW8nTrr"
+        },
+        {
+          "name": "Planetary",
+          "url": "https://open.spotify.com/artist/5ogssnW2k08fXhf6kYzIq8"
+        },
+        {
+          "name": "Celph Titled",
+          "url": "https://open.spotify.com/artist/6bJSpzkLD8XYKqsXJ5jJNS"
+        },
+        {
+          "name": "Vinnie Paz",
+          "url": "https://open.spotify.com/artist/3rExe3A3FzAmYDlQuvW2Wx"
+        }
+      ],
+      "duration_ms": 366066,
+      "name": "Battle Cry",
+      "url": "https://open.spotify.com/track/3iZc0giQC5ySLgbJ6gQFEl"
     },
     {
       "added_at": "2026-02-07 18:12:32",
@@ -951,18 +951,22 @@
     {
       "added_at": "2026-02-07 18:12:32",
       "album": {
-        "name": "Kollage",
-        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+        "name": "Disposable Arts",
+        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
       "artists": [
         {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Apocalypse",
+          "url": "https://open.spotify.com/artist/7LdtN6h2Bln3e1RsS0Bxot"
         }
       ],
-      "duration_ms": 221640,
-      "name": "True Honey Buns (Dat Freak Shit)",
-      "url": "https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT"
+      "duration_ms": 307133,
+      "name": "Take a Walk",
+      "url": "https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt"
     }
   ],
   "unique_name": "I Love My Underground Classics",

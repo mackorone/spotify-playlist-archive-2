@@ -4,10 +4,11 @@
 
 > look up, dream on, drift off...
 
-235 songs - 15 hr 15 min
+237 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [4am feeling](https://open.spotify.com/track/0hYaiWcaYmFx6Blaa6tGwn) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [4am feeling](https://open.spotify.com/album/6URUq1pOo7FVUTCIO2xkSk) | 3:00 | 2026-05-29 |  |
 | [A Brief Silence](https://open.spotify.com/track/3ZZllAawjzTFYz5HN3x38I) | [Mauricio Trabanino](https://open.spotify.com/artist/3blJXUBNjlTFWMMrtsSLI3) | [A Brief Silence \(Original Score\)](https://open.spotify.com/album/0rxCVW4B9jiUPEHp8WkQCO) | 2:20 | 2023-02-15 | 2023-11-04 |
 | [A Brief Silence](https://open.spotify.com/track/3e4aHnazy2RkEl95ixPoK4) | [Mauricio Trabanino](https://open.spotify.com/artist/3blJXUBNjlTFWMMrtsSLI3) | [A Brief Silence \(Original Score\)](https://open.spotify.com/album/1QP0OlYoRl93vhZBGOhzOC) | 2:20 | 2022-09-14 |  |
 | [A Brief Silence](https://open.spotify.com/track/56BVuagoCX2UtxxZclPkW7) | [Mauricio Trabanino](https://open.spotify.com/artist/3blJXUBNjlTFWMMrtsSLI3) | [A Brief Silence](https://open.spotify.com/album/2iAqb5d0RyhfozPm80ew6D) | 2:20 | 2023-04-27 | 2024-04-19 |
@@ -221,6 +222,7 @@
 | [Video Tape \- From "Surface"](https://open.spotify.com/track/5z3KcciOg8G1IsIaRN5ZOv) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Surface \(Music from the Original TV Series\)](https://open.spotify.com/album/0DZZLQvXZzgurc5wWFgAst) | 2:17 | 2023-04-27 | 2024-04-19 |
 | [Video Tape \- From "Surface"](https://open.spotify.com/track/7zTaLLMF9A170FfPtBaL3m) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Video Tape \(From "Surface"\)](https://open.spotify.com/album/3qFNuf0WssUVPXTPdrxGho) | 2:17 | 2022-07-29 |  |
 | [VIM](https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [VIM](https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl) | 3:27 | 2023-01-30 |  |
+| [Violet Dusk](https://open.spotify.com/track/7HHwJCUE6xSkSUCZymJ5mA) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Violet Dusk](https://open.spotify.com/album/6Uylgq6Iejh4Q20dKfTlEQ) | 2:14 | 2026-05-29 |  |
 | [Vårsøg \(Arr\. for Violin and Orchestra by Ben Palmer\)](https://open.spotify.com/track/4R2IJdhyEPflHnWQreYQjh) | [Henning Sommerro](https://open.spotify.com/artist/6jW6nKyPEmPdBrKOEICcuu), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Arctic Philharmonic](https://open.spotify.com/artist/2h8O4ix84B1H0Qj3TQfl6f) | [Vårsøg \(Arr\. for Violin and Orchestra by Ben Palmer\)](https://open.spotify.com/album/5qWnxfBgvzLD75l02jzFeh) | 3:40 | 2022-09-14 |  |
 | [Waldgeist](https://open.spotify.com/track/2tQKDTxmrwz1HjKCvehNer) | [Autumn Glow](https://open.spotify.com/artist/4VlqUkFSCfcGj6CpDMPd0b) | [Waldgeist](https://open.spotify.com/album/1QGgKDW28GLKJCrEQLuxKL) | 4:40 | 2022-12-19 |  |
 | [Wandering II](https://open.spotify.com/track/1XPUfZx0Nhl7Tl1AT2LKos) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Bylur](https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7) | 2:39 | 2022-01-05 |  |

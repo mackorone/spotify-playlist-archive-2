@@ -2,9 +2,9 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> Big Freedia's got that big energy.
+> KALLITECHNIS got that big energy.
 
-656 songs - 1 day 8 hr 54 min
+657 songs - 1 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [PAPERWORK](https://open.spotify.com/track/2yyO7EKRr7c3txi4xCXUFk) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 2:25 | 2024-02-16 | 2024-05-18 |
 | [PARTYGYAL](https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [PARTYGYAL](https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty) | 2:47 | 2026-02-27 | 2026-05-16 |
 | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/track/3Owi7BjAeziHBYS0gLvHTQ) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Passport Bros \(with J\. Cole\)](https://open.spotify.com/album/2oTvw7CyNOGw0ie3g6KnKe) | 2:44 | 2023-09-02 | 2024-02-17 |
+| [passport picture](https://open.spotify.com/track/786J186GBhQ9z0jJvH18Vu) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [passport picture](https://open.spotify.com/album/4Mwjj2PJsvXBSg7KOFF2Np) | 3:11 | 2026-05-29 |  |
 | [Peace](https://open.spotify.com/track/60gKxdKtL9VIRhr3ENddBp) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [North Vol\. 2](https://open.spotify.com/album/29ViDgMA62axNx2WOABMjG) | 2:39 | 2024-05-24 | 2025-01-01 |
 | [Peacock Revisit \(feat\. Ice Beats Slide & Sbuda Maleather\)](https://open.spotify.com/track/1NQCinyxiglxekxXVPEhnC) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq) | [SOLACE](https://open.spotify.com/album/5Ne85eKSShHPNuoGZCfBik) | 5:26 | 2023-08-18 | 2023-09-30 |
 | [Peak](https://open.spotify.com/track/0g3GwtbGrSZOJaGmHpQdEA) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Peak](https://open.spotify.com/album/6dfw2mZzkclt69losFJxyD) | 2:48 | 2024-07-05 | 2024-12-03 |

@@ -1,6 +1,6 @@
 {
   "description": "if you wanna party, come over to my house",
-  "num_followers": 3849908,
+  "num_followers": 3849409,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-05-16 18:11:55",
       "album": {
-        "name": "how i'm feeling now",
-        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 296653,
-      "name": "party 4 u",
-      "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
-    },
-    {
-      "added_at": "2026-05-16 18:11:55",
-      "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": "2026-05-16 18:11:55",
+      "album": {
+        "name": "how i'm feeling now",
+        "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 296653,
+      "name": "party 4 u",
+      "url": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE"
     },
     {
       "added_at": "2026-05-16 18:11:55",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-16 18:11:55",
       "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
-    },
-    {
-      "added_at": "2026-05-16 18:11:55",
-      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 201700,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
+    },
+    {
+      "added_at": "2026-05-16 18:11:55",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
       "added_at": "2026-05-16 18:11:55",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2026-05-16 18:11:55",
       "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2026-05-16 18:11:55",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 253390,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
-    },
-    {
-      "added_at": "2026-05-16 18:11:55",
-      "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "added_at": "2026-05-16 18:11:55",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX"
     },
     {
+      "added_at": "2026-05-16 18:11:55",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "NEW DROP",
+      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+    },
+    {
       "added_at": "2026-05-22 04:01:19",
       "album": {
         "name": "RUNWAY",
@@ -1271,22 +1287,6 @@
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
-    },
-    {
-      "added_at": "2026-05-16 18:11:55",
-      "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "NEW DROP",
-      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
     },
     {
       "added_at": "2026-05-16 18:11:55",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-05-16 18:11:55",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 227628,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
-    },
-    {
-      "added_at": "2026-05-16 18:11:55",
-      "album": {
         "name": "Lose My Mind (feat. Doja Cat) [From F1\u00ae The Movie]",
         "url": "https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8"
       },
@@ -1387,6 +1367,26 @@
     {
       "added_at": "2026-05-16 18:11:55",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 227628,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
+    },
+    {
+      "added_at": "2026-05-16 18:11:55",
+      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -1403,6 +1403,26 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2026-05-16 18:11:55",
+      "album": {
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "added_at": "2026-05-16 18:11:55",
@@ -1427,26 +1447,6 @@
       "duration_ms": 176957,
       "name": "Show Me Love (with Tyla)",
       "url": "https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ"
-    },
-    {
-      "added_at": "2026-05-16 18:11:55",
-      "album": {
-        "name": "Say My Name (Remix)",
-        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
-      },
-      "artists": [
-        {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
-        },
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Say My Name - Remix",
-      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "added_at": "2026-05-16 18:11:55",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-05-16 18:11:55",
       "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2026-05-16 18:11:55",
+      "album": {
         "name": "TYCOON",
         "url": "https://open.spotify.com/album/6sOJ6rEt2KO0j7aLoNMLaK"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 132485,
       "name": "DON'T KILL THE PARTY (feat. Quavo & Juicy J)",
       "url": "https://open.spotify.com/track/4YmsnZcxHEGEqHB3K0vdt0"
-    },
-    {
-      "added_at": "2026-05-16 18:11:55",
-      "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2026-05-16 18:11:55",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-05-16 18:11:55",
       "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 156825,
-      "name": "PUSH 2 START",
-      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
-    },
-    {
-      "added_at": "2026-05-16 18:11:55",
-      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+    },
+    {
+      "added_at": "2026-05-16 18:11:55",
+      "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 156825,
+      "name": "PUSH 2 START",
+      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
     },
     {
       "added_at": "2026-05-16 18:11:55",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2026-05-16 18:11:55",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 210090,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
-    },
-    {
-      "added_at": "2026-05-16 18:11:55",
-      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 180522,
       "name": "Going Bad (feat. Drake)",
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+    },
+    {
+      "added_at": "2026-05-16 18:11:55",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1I4W7JKzYbl8VKRfD61DIS"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 210090,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6uBhi9gBXWjanegOb2Phh0"
     },
     {
       "added_at": "2026-05-16 18:11:55",

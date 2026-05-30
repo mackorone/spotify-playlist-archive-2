@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21094,
+  "num_followers": 21095,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAABzb1ysAntr0g60TyXZ0Caz",
+  "snapshot_id": "aheFgAAAAAAw6uH3k1T5DG/2T12N6sLu",
   "tracks": [
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Most - Single",
-        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
+        "name": "Still Dead",
+        "url": "https://open.spotify.com/album/5Aqj31jPQAuQmsgiIyJ78V"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 207405,
-      "name": "The Most",
-      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
+      "duration_ms": 128837,
+      "name": "Still Dead",
+      "url": "https://open.spotify.com/track/137EDAXjvEQSjMFDDQ3SfZ"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Most - Single",
+        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 207405,
+      "name": "The Most",
+      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm Sayin' (feat. Rich Homie Quan)",
         "url": "https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Dead",
-        "url": "https://open.spotify.com/album/5Aqj31jPQAuQmsgiIyJ78V"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 128837,
-      "name": "Still Dead",
-      "url": "https://open.spotify.com/track/137EDAXjvEQSjMFDDQ3SfZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back To The Basics",
         "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
       },
@@ -755,22 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rich Homie Cartel Vol 1",
-        "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 222720,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN"
+      "duration_ms": 253452,
+      "name": "RedBone",
+      "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
     },
     {
       "added_at": null,
@@ -795,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+        "name": "Rich Homie Cartel Vol 1",
+        "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
       },
       "artists": [
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 253452,
-      "name": "RedBone",
-      "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
+      "duration_ms": 222720,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
       "duration_ms": 188010,
       "name": "Reloaded",
       "url": "https://open.spotify.com/track/0hW0lUzRekaRofT8XiLSSj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 210409,
+      "name": "Stressed",
+      "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
     },
     {
       "added_at": null,
@@ -859,22 +875,6 @@
       "duration_ms": 162246,
       "name": "Gamble",
       "url": "https://open.spotify.com/track/6LZLx6B97FDjUg89RIT44U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 210409,
-      "name": "Stressed",
-      "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
     },
     {
       "added_at": null,

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Bente
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,851 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,875 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [3.2.1.](https://open.spotify.com/track/43rUu8SDkrSuyNiq7NspwF) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [3.2.1.](https://open.spotify.com/album/5QXgmXHkvv6q2LHVwD4WQQ) | 3:20 |
-| 2 | [Track 2](https://open.spotify.com/track/5TIZfbC0VLJXwLnAa6NApJ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Binnenspiegel](https://open.spotify.com/album/5GvmLsZrOqYqGD2Hz0eGyl) | 0:00 |
+| 1 | [3.2.1.](https://open.spotify.com/track/43rUu8SDkrSuyNiq7NspwF) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [3.2.1.](https://open.spotify.com/album/5QXgmXHkvv6q2LHVwD4WQQ) | 3:21 |
+| 2 | [Oude Liefde Roest Niet](https://open.spotify.com/track/5TIZfbC0VLJXwLnAa6NApJ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Binnenspiegel](https://open.spotify.com/album/5GvmLsZrOqYqGD2Hz0eGyl) | 3:05 |
 | 3 | [De Enige](https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Enige](https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu) | 2:38 |
 | 4 | [Multimiljonair](https://open.spotify.com/track/7febA9EPgU97DuLg9HAocX) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Multimiljonair](https://open.spotify.com/album/7MsrN7zy5Fm9iJRrAgOwPd) | 2:13 |
 | 5 | [Ben je dan niet blij](https://open.spotify.com/track/2lOype0E5KsoIM7klo1yRI) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Ben je dan niet blij](https://open.spotify.com/album/6ZJ5boHWv15ayyQu4giZhL) | 3:16 |

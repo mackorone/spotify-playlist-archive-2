@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack long, dark days with warm favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,072 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,070 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 4 | [chemicals](https://open.spotify.com/track/6mijtFNG6bFmNvoKU1T4EC) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [forever and always](https://open.spotify.com/album/1OknBAZwOC2TQJsDQjsRqC) | 2:28 |
 | 5 | [Dearly Missed](https://open.spotify.com/track/1FolOCn6zNFCfqMrV7jdWP) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Dearly Missed](https://open.spotify.com/album/2Y5moL7gzsUqrcDrjpsqHS) | 6:00 |
 | 6 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 |
-| 7 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/745JbQYxoYIegHzHTUxETp) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:17 |
-| 8 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
+| 7 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
+| 8 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/745JbQYxoYIegHzHTUxETp) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:17 |
 | 9 | [Treehouse](https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs), [Emily Yacina](https://open.spotify.com/artist/50oMAfElZgbElx2ktukv47) | [Treehouse](https://open.spotify.com/album/6bkxg2HCORFlB0akEfqJvY) | 2:38 |
 | 10 | [If You Know Me](https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me / Wild Horses](https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8) | 3:23 |
 | 11 | [Nude](https://open.spotify.com/track/35YyxFpE0ZTOoqFx5bADW8) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:15 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 72 | [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 |
 | 73 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 |
 | 74 | [Atmosphere](https://open.spotify.com/track/2SfoxWr00HN0iYpxyVDMyQ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Covers](https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq) | 3:57 |
-| 75 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
-| 76 | [At My Best](https://open.spotify.com/track/5XqbyTQDWGo6S2MYupzxTi) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [At My Best](https://open.spotify.com/album/7yDkhM5joo3A3aDa3OJgI5) | 2:56 |
+| 75 | [At My Best](https://open.spotify.com/track/5XqbyTQDWGo6S2MYupzxTi) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45), [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [At My Best](https://open.spotify.com/album/7yDkhM5joo3A3aDa3OJgI5) | 2:56 |
+| 76 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
 | 77 | [paper thin](https://open.spotify.com/track/4NevvmFYtCLxRvhAcNVhOB) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [eleven achers](https://open.spotify.com/album/5D2AToXPxIC5cBdbdOXHsM) | 3:06 |
 | 78 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
 | 79 | [The Magician](https://open.spotify.com/track/62x2pgvYu0cMP4gfNpbTP9) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/2EhgysAt5fY85LYceFFpbE) | 3:51 |

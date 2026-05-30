@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Barto, Bobby Van Jaarsveld, Ricus Nel, Robbie Wessels, Dassie en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,558 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,620 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 
 > This is yama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,149 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,151 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4lbP7a.md) - [plain]
 | 32 | [クリーム](https://open.spotify.com/track/6q2anED2iLMVW1XvdZx5pQ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [クリーム](https://open.spotify.com/album/4JX57Yo9ACKXP8v1ZW2KRo) | 3:38 |
 | 33 | [D\(evil\) feat\. yama](https://open.spotify.com/track/64taNX9xrRu6cYf0a0v72w) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [25](https://open.spotify.com/album/2XskQcykcw8kEH6xkDjUkO) | 2:41 |
 | 34 | [TORIHADA](https://open.spotify.com/track/0NGNeVj68sBFcyyHwax4C0) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 2:59 |
-| 35 | [Nemophila](https://open.spotify.com/track/2vjMfyA9EECR7tWgR9rHiT) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Nemophila](https://open.spotify.com/album/5y94VJ7S4bjK8Pl6I1bZle) | 3:56 |
-| 36 | [真っ白](https://open.spotify.com/track/1m0RfmsLgUUf0AB1zyObXc) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [真っ白](https://open.spotify.com/album/1X3vFDKaJJjQxQ2i21dBh8) | 4:47 |
+| 35 | [真っ白](https://open.spotify.com/track/1m0RfmsLgUUf0AB1zyObXc) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [真っ白](https://open.spotify.com/album/1X3vFDKaJJjQxQ2i21dBh8) | 4:47 |
+| 36 | [Nemophila](https://open.spotify.com/track/2vjMfyA9EECR7tWgR9rHiT) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Nemophila](https://open.spotify.com/album/5y94VJ7S4bjK8Pl6I1bZle) | 3:56 |
 | 37 | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/track/0QDjYBER1ZqISxA2Gc0cJe) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [春を告げる \- From THE FIRST TAKE](https://open.spotify.com/album/61OTGf8KiylPy39lihGoUs) | 5:00 |
-| 38 | [沫雪](https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [沫雪](https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q) | 3:04 |
-| 39 | [Hello/Hello](https://open.spotify.com/track/5M13MqCBVJykhVUXgjjYcX) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Hello/Hello](https://open.spotify.com/album/7kHYrY6mzroR0kQ7bktint) | 4:05 |
-| 40 | [shadow dance](https://open.spotify.com/track/1tyfDn2VPRvh336veB1ajh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アダルトチックチルドレン](https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm) | 2:58 |
+| 38 | [shadow dance](https://open.spotify.com/track/1tyfDn2VPRvh336veB1ajh) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [アダルトチックチルドレン](https://open.spotify.com/album/1fgsyeUzImXkMVBy1vVUNm) | 2:58 |
+| 39 | [沫雪](https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [沫雪](https://open.spotify.com/album/7hMlSqny9Cm80ZQV77EC0Q) | 3:04 |
+| 40 | [Hello/Hello](https://open.spotify.com/track/5M13MqCBVJykhVUXgjjYcX) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Hello/Hello](https://open.spotify.com/album/7kHYrY6mzroR0kQ7bktint) | 4:05 |
 | 41 | [Sleepless Night](https://open.spotify.com/track/4QudMialF8Y73NNyCdDD0G) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:18 |
-| 42 | [Film](https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 3:15 |
-| 43 | [カーテンコール](https://open.spotify.com/track/5EBkv7Vl47e674Yi6Gk7zi) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [カーテンコール](https://open.spotify.com/album/4FNbJK6K73qKy9TuxggkVY) | 3:39 |
+| 42 | [カーテンコール](https://open.spotify.com/track/5EBkv7Vl47e674Yi6Gk7zi) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [カーテンコール](https://open.spotify.com/album/4FNbJK6K73qKy9TuxggkVY) | 3:39 |
+| 43 | [Film](https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 3:15 |
 | 44 | [一寸の赤](https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [一寸の赤](https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj) | 3:51 |
 | 45 | [希望論](https://open.spotify.com/track/4ivrdKOEXXGiRIApiD7rII) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [the meaning of life](https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD) | 4:34 |
-| 46 | [レコード](https://open.spotify.com/track/6wG7V7gPdYl85QScNKqRBc) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 3:00 |
-| 47 | [こだま](https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [こだま](https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq) | 3:04 |
+| 46 | [こだま](https://open.spotify.com/track/45UVorDHdb5BugXpHjuorv) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [こだま](https://open.spotify.com/album/1RlXyJ5oN0EfFQPZXDriLq) | 3:04 |
+| 47 | [レコード](https://open.spotify.com/track/6wG7V7gPdYl85QScNKqRBc) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [; semicolon](https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe) | 3:00 |
 | 48 | [桃源郷](https://open.spotify.com/track/3XpV0yCZRizTsCMEIkxZVm) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [桃源郷](https://open.spotify.com/album/6aO1Ot1JoA9TPH73qX7ejE) | 3:48 |
 | 49 | [声明](https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [声明](https://open.spotify.com/album/64WnOkk1bfF32ElFKEBw1F) | 3:35 |
 | 50 | [GRIDOUT](https://open.spotify.com/track/3vPxuqeKOCpguz5aqhHtQr) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [GRIDOUT](https://open.spotify.com/album/22yU6RnbXhgWPi53eDpSyS) | 2:57 |
 
-Snapshot ID: `ahY0AAAAAABPvisK0tkHVAXivkSWwlAN`
+Snapshot ID: `aheFgAAAAAAwzT84kY6DcCbVbvQjkUqQ`

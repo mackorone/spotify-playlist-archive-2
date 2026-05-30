@@ -4,7 +4,7 @@
 
 > Lend a little drama to the occasion with this collection of truly epic classical music.
 
-153 songs - 20 hr 38 min
+154 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Symphony No\. 9 in E Minor, Op\. 95, B\. 178 "From the New World": IV\. Allegro con fuoco \- 2024 Remastered Version](https://open.spotify.com/track/4n9fmXGvKwtWLQBlqQRBIf) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Sir Colin Davis](https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Dvořák: Symphonies Nos 6\-9](https://open.spotify.com/album/0U8Lx7Np73ctASbMhml6hQ) | 10:58 | 2024-12-24 |  |
 | [Symphony No.9 In E Minor, Op.95, B\. 178 "From The New World": 4\. Allegro con fuoco](https://open.spotify.com/track/61WPkxq6gvXSfJLTyzm62L) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Dvorák: Symphony No.9 , Op.95, B\. 178 "From the New World" / Smetana: The Moldau](https://open.spotify.com/album/6g8prYR409LumFVcnJANPm) | 11:25 | 2020-11-03 |  |
 | [Tchaikovsky: Symphony No\. 4 in F Minor, Op\. 36: IV\. Finale \(Allegro con fuoco\)](https://open.spotify.com/track/14WfxpeSoB2YgOSyzeNJGZ) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [San Francisco Symphony](https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ), [Michael Tilson Thomas](https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78) | [Tchaikovsky: Symphony No\. 4](https://open.spotify.com/album/0CEcKeN8dOfJGWsOaiIYQE) | 9:35 | 2022-02-14 | 2024-04-19 |
+| [The Creator](https://open.spotify.com/track/26Y6eOEOtNris6GjsVi2Mn) | [Adrián Berenguer](https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv) | [The Creator](https://open.spotify.com/album/77wKwxnW5lw7wwUDpriuqY) | 3:36 | 2026-05-29 |  |
 | [The Dream Is Lost](https://open.spotify.com/track/5f6pwi2QJWirSSwcAnCadJ) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Gladiator II \(Music From The Motion Picture\)](https://open.spotify.com/album/2kiVkf7UnXGqUFr6ZJ2U3m) | 2:45 | 2024-11-15 |  |
 | [The Firebird, Tableau I: Infernal Dance of Kastchei and His Subjects Under the Firebird's Magic Spell](https://open.spotify.com/track/6snP2R2ysQXCZu22QFuTCu) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Robert Craft](https://open.spotify.com/artist/3aSbvbaiN2nvlFSftGKoJK) | [Stravinsky: The Firebird & Petrushka \(1947 Version\)](https://open.spotify.com/album/00JUTB3HBxnqTTPFUrkjK0) | 4:38 | 2020-11-03 | 2022-07-14 |
 | [The Flight of the Bumble Bee](https://open.spotify.com/track/2DcUJP3QX9Pb47TkW32aea) | [Ida Cernecka](https://open.spotify.com/artist/74Rnswg1LbBHPkfpuPBc2O) | [Classical for the New Age](https://open.spotify.com/album/3DRh8nMdQzxnvJqeKISLDf) | 1:29 | 2020-11-03 | 2022-02-15 |

@@ -1,13 +1,33 @@
 {
   "description": "To travel between house, deep house and positive vibes !",
-  "num_followers": 50600,
+  "num_followers": 50602,
   "original_name": "Ibiza ultimate mix (2026)",
   "owner": {
     "name": "Kitsun\u00e9 Musique",
     "url": "https://open.spotify.com/user/maisonkitsune"
   },
-  "snapshot_id": "AAAM/QCmJz0HBnc8cX6fU17l4NPDXAW/",
+  "snapshot_id": "AAAM/52mQXgef95UUX7AyGnSmNRkGlZ/",
   "tracks": [
+    {
+      "added_at": "2026-05-29 07:21:02",
+      "album": {
+        "name": "Lovely Flight",
+        "url": "https://open.spotify.com/album/4bcDHCEB8Vewtvj6wFrWcH"
+      },
+      "artists": [
+        {
+          "name": "Didier Sinclair",
+          "url": "https://open.spotify.com/artist/4qdo8QO3v7asdW9CmxW70o"
+        },
+        {
+          "name": "Baron (FR)",
+          "url": "https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3"
+        }
+      ],
+      "duration_ms": 162887,
+      "name": "Lovely Flight",
+      "url": "https://open.spotify.com/track/2sZ3D4IIiGIoCo1hOx1gyd"
+    },
     {
       "added_at": "2026-03-06 14:24:53",
       "album": {

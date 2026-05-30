@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 886988,
+  "num_followers": 887068,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAACJU2OHkoD7+QEteKYTAz+u",
+  "snapshot_id": "aheFgAAAAADFGyrR5xgcBxC4n1sabHp5",
   "tracks": [
     {
       "added_at": null,
@@ -691,54 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Pens\u00e1ndote",
-      "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DATA",
-        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "VOLVER",
-      "url": "https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
         "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
       },
@@ -771,6 +723,54 @@
       "duration_ms": 241659,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "VOLVER",
+      "url": "https://open.spotify.com/track/3Bp0XlRQv0URQMM6ABKhEE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Pens\u00e1ndote",
+      "url": "https://open.spotify.com/track/2wnhst8yHA4gKuojAgZedh"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 261603,
-      "name": "Algo M\u00e1gico",
-      "url": "https://open.spotify.com/track/7D93pJcwymzaZx8WgBo2zG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Androide",
         "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 163265,
       "name": "Besalo",
       "url": "https://open.spotify.com/track/2PUdyEnqZUh3zICKE4Fu8N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 261603,
+      "name": "Algo M\u00e1gico",
+      "url": "https://open.spotify.com/track/7D93pJcwymzaZx8WgBo2zG"
     },
     {
       "added_at": null,
@@ -883,30 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        }
-      ],
-      "duration_ms": 184817,
-      "name": "Ponte Pa' Mi",
-      "url": "https://open.spotify.com/track/1dt2lHi5RCMPuxz4VxKYgi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Somos",
         "url": "https://open.spotify.com/album/7uuWmAExHtNRHYi2ODfDcQ"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 227500,
       "name": "Que Somos",
       "url": "https://open.spotify.com/track/5FXARQTlf6UwUVuIS60Vn2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "duration_ms": 184817,
+      "name": "Ponte Pa' Mi",
+      "url": "https://open.spotify.com/track/1dt2lHi5RCMPuxz4VxKYgi"
     },
     {
       "added_at": null,
@@ -967,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 231594,
-      "name": "Reloj",
-      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosa Nuestra: Cap\u00edtulo 0",
         "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
       },
@@ -1007,6 +987,42 @@
       "duration_ms": 175408,
       "name": "CONTRABANDO",
       "url": "https://open.spotify.com/track/6Wr4xBLqAAXHrtiUghxEwL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 231594,
+      "name": "Reloj",
+      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carita Linda",
+        "url": "https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 203463,
+      "name": "Carita Linda",
+      "url": "https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK"
     },
     {
       "added_at": null,
@@ -1099,22 +1115,6 @@
       "duration_ms": 217546,
       "name": "Color Esperanza 2020",
       "url": "https://open.spotify.com/track/3eSJmGWqoBRx5wbFCtvPtz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carita Linda",
-        "url": "https://open.spotify.com/album/7qULx9UqZbMt1jggUMYaWD"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 203463,
-      "name": "Carita Linda",
-      "url": "https://open.spotify.com/track/5u5gkOBTv48cpXVMqkPkpK"
     }
   ],
   "unique_name": "This Is Rauw Alejandro",

@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Aku Cemburu",
+        "url": "https://open.spotify.com/album/6TWbApD0Cfn4mIO0Chme0n"
+      },
+      "artists": [
+        {
+          "name": "Kakung Triadmojo",
+          "url": "https://open.spotify.com/artist/38bVEhkw2SXkG11dsCPW9w"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234339,
+      "name": "Aku Cemburu",
+      "url": "https://open.spotify.com/track/4IxVG36SSCtoviEM4f4QCC"
+    },
+    {
+      "album": {
         "name": "Aku MerinduMu (Ya Allah)",
         "url": "https://open.spotify.com/album/4MBXLlE2OsOsmjY4rvWHko"
       },
@@ -16959,24 +16977,6 @@
     },
     {
       "album": {
-        "name": "KODE?",
-        "url": "https://open.spotify.com/album/24AlWEGWxN9Y6NAnXopbpU"
-      },
-      "artists": [
-        {
-          "name": "Fani Rahmansyah",
-          "url": "https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/30gdhGhbfdmKYOQAce6mxa"
-    },
-    {
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT"
       },
@@ -17118,6 +17118,24 @@
       "duration_ms": 163985,
       "name": "Tuning Song",
       "url": "https://open.spotify.com/track/7dkKAIazTL7e2FwMuQIDY3"
+    },
+    {
+      "album": {
+        "name": "KODE?",
+        "url": "https://open.spotify.com/album/24AlWEGWxN9Y6NAnXopbpU"
+      },
+      "artists": [
+        {
+          "name": "Fani Rahmansyah",
+          "url": "https://open.spotify.com/artist/2yfoFECTnaFjyHrHNjJm7x"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228778,
+      "name": "typeku",
+      "url": "https://open.spotify.com/track/30gdhGhbfdmKYOQAce6mxa"
     },
     {
       "album": {

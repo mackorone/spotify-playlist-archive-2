@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 
 > fully accepting melting alive 🫠
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,334 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,333 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 25 | [House Tour](https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:49 |
 | 26 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
 | 27 | [Fame is a Gun](https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:03 |
-| 28 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
-| 29 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
+| 28 | [Gimme More](https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 4:11 |
+| 29 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
 | 30 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 |
 | 31 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 32 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 39 | [Blow](https://open.spotify.com/track/3pYDZTJM2tVBUhIRifWVzI) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:39 |
 | 40 | [Training Season](https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:29 |
 | 41 | [Never Be the Same](https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:46 |
-| 42 | [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 |
+| 42 | [M.I.A](https://open.spotify.com/track/4vyQ2NdodXhtMGsaaMBqSt) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 2:09 |
 | 43 | [Girl Like Me](https://open.spotify.com/track/7aYGCP34Xo6XujY7Ix1DxB) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:25 |
-| 44 | [M.I.A](https://open.spotify.com/track/4vyQ2NdodXhtMGsaaMBqSt) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 2:09 |
+| 44 | [Bad Angel \(with LISA\)](https://open.spotify.com/track/4QR40LqFAbMdabh4AoZJGZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Bad Angel \(with LISA\)](https://open.spotify.com/album/4RyojhEO0VsnNacY6C3te7) | 2:33 |
 | 45 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 |
 | 46 | [Rush](https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 2:36 |
 | 47 | [OMG](https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'OMG'](https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj) | 3:32 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 74 | [Low Rise Jeans](https://open.spotify.com/track/7ajWF4MJHmswvijYEsFGZs) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Low Rise Jeans](https://open.spotify.com/album/6aS09iHBjpTatkojX4xdPY) | 3:26 |
 | 75 | [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 |
 | 76 | [Puss Puss \- Girls Trip](https://open.spotify.com/track/2nYpEIZbqk9Pj3UCXbwtpM) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Midnight Sun: Girls Trip](https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf) | 3:05 |
-| 77 | [Supermarket](https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Supermarket](https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy) | 3:04 |
-| 78 | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 |
+| 77 | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 |
+| 78 | [Supermarket](https://open.spotify.com/track/5TQq3QfG2tXGZum3GvBmkm) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Supermarket](https://open.spotify.com/album/2DdMFIN9ixfj0egXGlcfPy) | 3:04 |
 | 79 | [What's Done Is Done](https://open.spotify.com/track/36KQjAcAbpCtmFau9vzBL9) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/5OQtEHy6nPlWNd4dMbrdJk) | 2:53 |
 | 80 | [SAME LA](https://open.spotify.com/track/5PYrRnaRsCOOE0c65L4y2M) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [HALO](https://open.spotify.com/album/4T7qu6MdxoGjzZPErRWgsO) | 3:44 |
 

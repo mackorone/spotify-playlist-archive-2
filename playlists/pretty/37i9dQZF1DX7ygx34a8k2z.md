@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,717 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,814 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 56 | [Seether](https://open.spotify.com/track/1SY2vughwKmVPm1Lmf5Nl7) | [Veruca Salt](https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP) | [American Thighs](https://open.spotify.com/album/5Mjt2iha5C99JBqTjJijg9) | 3:16 |
 | 57 | [Human Behaviour](https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:12 |
 | 58 | [Can't Hardly Wait \- 2008 Remaster](https://open.spotify.com/track/0NX14YH2t16bwwlJSfXazr) | [The Replacements](https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3) | [Pleased to Meet Me \(Expanded\)](https://open.spotify.com/album/2kTTz2kpR2AXtBmiIZEyyv) | 3:08 |
-| 59 | [No Distance Left to Run](https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 3:28 |
-| 60 | [Brick](https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1) | [Ben Folds Five](https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk) | [Whatever And Ever Amen \(Remastered Edition\)](https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ) | 4:31 |
+| 59 | [Brick](https://open.spotify.com/track/4jKq1e80xAYixkIwt6YyV1) | [Ben Folds Five](https://open.spotify.com/artist/44gRHbEm4Uqa0ykW0rDTNk) | [Whatever And Ever Amen \(Remastered Edition\)](https://open.spotify.com/album/3oz8kworUyU7oXjaEVhDsZ) | 4:31 |
+| 60 | [No Distance Left to Run](https://open.spotify.com/track/0SaRvx9eYudSCQYNjuCQKX) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 3:28 |
 | 61 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 |
 | 62 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 3:16 |
 | 63 | [Sometimes Always](https://open.spotify.com/track/16vuZiAS0YQkQvAkRtI2d3) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Stoned and Dethroned \(Expanded Version\)](https://open.spotify.com/album/6ufoOtpwsgx0wpbQBQOH7H) | 2:31 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 93 | [Iron Man](https://open.spotify.com/track/2cpJAVteVpeXFCiOgjcx7m) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 4:19 |
 | 94 | [Son Of A Gun](https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8) | [The Vaselines](https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW) | [Enter The Vaselines \(Deluxe Edition\)](https://open.spotify.com/album/630p98oUEIBRflGJRRInCt) | 3:45 |
 | 95 | [Cold Blooded Old Times](https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 4:14 |
-| 96 | [Is This Desire?](https://open.spotify.com/track/3bHnxT5KHWPOb7Pl34jmzG) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 3:25 |
-| 97 | [I'm Shakin'](https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq) | [Rooney](https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7) | [Rooney](https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50) | 3:34 |
+| 96 | [I'm Shakin'](https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq) | [Rooney](https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7) | [Rooney](https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50) | 3:34 |
+| 97 | [Is This Desire?](https://open.spotify.com/track/3bHnxT5KHWPOb7Pl34jmzG) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Is This Desire?](https://open.spotify.com/album/1LQlpOjLrnNvsqg6tosrYD) | 3:25 |
 | 98 | [Soul And Fire](https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH) | [Sebadoh](https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6) | [Bubble & Scrape](https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H) | 3:46 |
 | 99 | [Friends of P.](https://open.spotify.com/track/5NjIog0vXS0VBWa5a94vzJ) | [The Rentals](https://open.spotify.com/artist/3NmdKZUM96z7NGvL35g5PC) | [Return Of The Rentals](https://open.spotify.com/album/41IJ0wgo3DWza5gIlJarRg) | 3:32 |
 | 100 | [That's When I Reach for My Revolver](https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI) | [Mission Of Burma](https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6) | [Signals, Calls and Marches](https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo) | 3:53 |

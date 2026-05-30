@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,902 likes - 41 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,914 likes - 41 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,20 +19,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 9 | [...What Are We?](https://open.spotify.com/track/1CDTADeg2GTtviwTcioBJi) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:38 |
 | 10 | [chemtrails](https://open.spotify.com/track/0J4PdreUozgygeHxhsDIMR) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:57 |
 | 11 | [Soccer Practice](https://open.spotify.com/track/72Y8v9ZjNI8mkCvqpUiaBO) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 3:58 |
-| 12 | [All Falls Down](https://open.spotify.com/track/46kXlOq68HXFrhkxGV6qtI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 2:51 |
-| 13 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 |
+| 12 | [Pancakes for Dinner](https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:55 |
+| 13 | [All Falls Down](https://open.spotify.com/track/46kXlOq68HXFrhkxGV6qtI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 2:51 |
 | 14 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 |
 | 15 | [Angelina](https://open.spotify.com/track/7epHo3miOIJ3fYEPAdCAf9) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:45 |
-| 16 | [Older](https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:21 |
-| 17 | [Apple Pie](https://open.spotify.com/track/0zLnAV1lYEhVnKk3ITmCym) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 4:19 |
+| 16 | [Apple Pie](https://open.spotify.com/track/0zLnAV1lYEhVnKk3ITmCym) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 4:19 |
+| 17 | [Older](https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:21 |
 | 18 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 |
 | 19 | [Never Gonna Be Alone \(feat\. Lizzy McAlpine & John Mayer\)](https://open.spotify.com/track/275XKjLmQFuZnxTvvtJ6VZ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 4:10 |
-| 20 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 |
-| 21 | [Let Light Be Light](https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:00 |
+| 20 | [Let Light Be Light](https://open.spotify.com/track/5ao5BeXUi0FRKoP58rsUXB) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:00 |
+| 21 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 |
 | 22 | [erase me](https://open.spotify.com/track/4R2DDseYW2tsmMhvdQQ2Po) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:34 |
 | 23 | [Means Something](https://open.spotify.com/track/5L3FlmnCvJY2SN2jzvUwxL) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:24 |
-| 24 | [Come Down Soon](https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 |
-| 25 | [So Far Gone \(feat\. Lizzy McAlpine\)](https://open.spotify.com/track/2ttemPsvqBdA8ItME6DCbL) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:16 |
+| 24 | [So Far Gone \(feat\. Lizzy McAlpine\)](https://open.spotify.com/track/2ttemPsvqBdA8ItME6DCbL) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:16 |
+| 25 | [Come Down Soon](https://open.spotify.com/track/6rEcXviYlZCEx01m1z7qZv) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 |
 | 26 | [Force of Nature](https://open.spotify.com/track/3gRJynimeVjLlVoGtjzhtE) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:02 |
 | 27 | [Same Boat](https://open.spotify.com/track/4PCsSHOvnIXh2TBdEzb0pr) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 3:22 |
 | 28 | [Stupid](https://open.spotify.com/track/4J7JZr3LfTC96SLjbpIyDe) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:42 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 40 | [Celebrate Me Home](https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Celebrate Me Home](https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB) | 3:53 |
 | 41 | [False Art](https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [False Art](https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ) | 3:03 |
 
-Snapshot ID: `ahY0AAAAAABVORohcHfRY24hqv0+lx3s`
+Snapshot ID: `aheFgAAAAAD1TpB4w/O+uRZuOHAaKGuo`

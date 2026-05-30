@@ -1,6 +1,6 @@
 {
   "description": "The BBMAs returns with performances from your favorite chart-topping artists! Cover: Tyla",
-  "num_followers": 85852,
+  "num_followers": 85851,
   "original_name": "2024 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Larger Than Life",
-        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 82508,
-      "name": "Best Time",
-      "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Made by These Moments",
         "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 217307,
       "name": "Wanna Be Loved",
       "url": "https://open.spotify.com/track/0htNDNNRkFmQuESkq4eoqj"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Larger Than Life",
+        "url": "https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 82508,
+      "name": "Best Time",
+      "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "KEEP UP // FROSTBITE",
-        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 133226,
-      "name": "KEEP UP",
-      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Comfort In Chaos",
         "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 236000,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/3pUz2qJe5nqZemi3hhIxMk"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "KEEP UP // FROSTBITE",
+        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "duration_ms": 133226,
+      "name": "KEEP UP",
+      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Never Let Go",
-        "url": "https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        }
-      ],
-      "duration_ms": 166812,
-      "name": "Never Let Go",
-      "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 153346,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Never Let Go",
+        "url": "https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "duration_ms": 166812,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs"
     },
     {
       "added_at": "2024-11-25 16:13:36",

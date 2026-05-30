@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3235,
+  "num_followers": 3237,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAADWsJo2MI2AFTJEVtQPCHkI",
+  "snapshot_id": "aheFgAAAAACeB9oUBH9mfIl1ePY80fhO",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 282906,
-      "name": "Walkabout",
-      "url": "https://open.spotify.com/track/4kohoXmcTc8bg09J0XUocD"
+      "duration_ms": 400906,
+      "name": "Animal Space / Spacier",
+      "url": "https://open.spotify.com/track/4AcSNRceUrNyddhHzQzbcx"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 400906,
-      "name": "Animal Space / Spacier",
-      "url": "https://open.spotify.com/track/4AcSNRceUrNyddhHzQzbcx"
+      "duration_ms": 282906,
+      "name": "Walkabout",
+      "url": "https://open.spotify.com/track/4kohoXmcTc8bg09J0XUocD"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 228160,
-      "name": "Newtown",
-      "url": "https://open.spotify.com/track/1e3ifvbu3nfTHFAN3qvS94"
+      "duration_ms": 160213,
+      "name": "So Tough",
+      "url": "https://open.spotify.com/track/37djIDiwXDcazfaKVy6bu6"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 160213,
-      "name": "So Tough",
-      "url": "https://open.spotify.com/track/37djIDiwXDcazfaKVy6bu6"
+      "duration_ms": 228160,
+      "name": "Newtown",
+      "url": "https://open.spotify.com/track/1e3ifvbu3nfTHFAN3qvS94"
     },
     {
       "added_at": null,

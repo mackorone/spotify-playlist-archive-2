@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Uni\u00f3n Fatal en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Pielroja en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 178454,
       "name": "100K DE AURA",
       "url": "https://open.spotify.com/track/2TBYdb2cToPtTPCTnPgMTZ"
@@ -2315,6 +2315,28 @@
     },
     {
       "album": {
+        "name": "ANTISISTEMA",
+        "url": "https://open.spotify.com/album/5EZgOVl4ZDzNOc10oJwXnA"
+      },
+      "artists": [
+        {
+          "name": "J Noa",
+          "url": "https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre"
+        },
+        {
+          "name": "Trooko",
+          "url": "https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "ANTISISTEMA",
+      "url": "https://open.spotify.com/track/3cKnb09OERSpDLC5dqaP1y"
+    },
+    {
+      "album": {
         "name": "Resiliencia",
         "url": "https://open.spotify.com/album/0C0FwgtecfoZ9f76ES7Cpr"
       },
@@ -4116,7 +4138,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 243711,
       "name": "Burbuja de Amor",
       "url": "https://open.spotify.com/track/2KEixVbLseX0hfD3KeM4A3"
@@ -4614,6 +4636,24 @@
       "duration_ms": 240000,
       "name": "Caos",
       "url": "https://open.spotify.com/track/7xLKArdIQUDkFPnhppLeeQ"
+    },
+    {
+      "album": {
+        "name": "Cap #3 - Villa Caraza",
+        "url": "https://open.spotify.com/album/2mwqCReRe5iKB6kYBPXD2I"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135529,
+      "name": "Cap #3 - Villa Caraza",
+      "url": "https://open.spotify.com/track/0jD6ZTZgJnBkd1MR3euse4"
     },
     {
       "album": {
@@ -5766,7 +5806,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 163404,
       "name": "Como Le Hago",
       "url": "https://open.spotify.com/track/1c0ED1rYND2AMg5qEitaV5"
@@ -7706,6 +7746,24 @@
       "duration_ms": 194005,
       "name": "DETESTABLE",
       "url": "https://open.spotify.com/track/2SfCwISA2KnRFS6bZrT7Rx"
+    },
+    {
+      "album": {
+        "name": "Detona",
+        "url": "https://open.spotify.com/album/67Tt5FBuZzgVILEi0pqTyw"
+      },
+      "artists": [
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Detona",
+      "url": "https://open.spotify.com/track/58uGGkltZuQ2RWSulM8X7y"
     },
     {
       "album": {
@@ -12167,6 +12225,24 @@
     },
     {
       "album": {
+        "name": "Hugo",
+        "url": "https://open.spotify.com/album/0ozejItABSjZhP38zLAhlr"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220173,
+      "name": "Hugo",
+      "url": "https://open.spotify.com/track/3pAZ48Y9fPO20yurM5zDV8"
+    },
+    {
+      "album": {
         "name": "Humo",
         "url": "https://open.spotify.com/album/0tOj5weTJiOodUMVF1VjGM"
       },
@@ -15085,6 +15161,36 @@
     },
     {
       "album": {
+        "name": "Lirica Homicida",
+        "url": "https://open.spotify.com/album/0eozRpJGbJEGWNNpWiLXqR"
+      },
+      "artists": [
+        {
+          "name": "Pielroja",
+          "url": "https://open.spotify.com/artist/1g58TQnLHp7eOEnYXfa63k"
+        },
+        {
+          "name": "Zumbiman",
+          "url": "https://open.spotify.com/artist/2HYZ0eK6rJzcwT33K7FxSE"
+        },
+        {
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        },
+        {
+          "name": "M.Tim\u00e9re",
+          "url": "https://open.spotify.com/artist/0GBlz2FhqkK3NwARNesKM5"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260470,
+      "name": "Lirica Homicida",
+      "url": "https://open.spotify.com/track/1C0AgRLnLg1qBnmDGTVyg4"
+    },
+    {
+      "album": {
         "name": "Llegale",
         "url": "https://open.spotify.com/album/4vzKrk18fYxBDAtUAco127"
       },
@@ -16994,7 +17100,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 196363,
       "name": "Mi Destino",
       "url": "https://open.spotify.com/track/0y9cK9FllNveJFMYrBVk18"
@@ -19562,7 +19668,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 185660,
       "name": "NOS RELOJEAN",
       "url": "https://open.spotify.com/track/1tbJP63ftEPVJKn8TFfB1u"
@@ -20026,6 +20132,24 @@
       "duration_ms": 159037,
       "name": "Otra Calaverita",
       "url": "https://open.spotify.com/track/7gfmvCGs02C6KKdeIEoMgQ"
+    },
+    {
+      "album": {
+        "name": "Otra Copa",
+        "url": "https://open.spotify.com/album/01mPUIZ5ekszSiP6Wa7Mvj"
+      },
+      "artists": [
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151416,
+      "name": "Otra Copa",
+      "url": "https://open.spotify.com/track/2N64ld7UvcZkf7Hg6gbS6y"
     },
     {
       "album": {
@@ -21588,7 +21712,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 193654,
       "name": "Primera Generaci\u00f3n",
       "url": "https://open.spotify.com/track/3fOq3pfMkNEMQyFwQgKYdp"
@@ -23116,7 +23240,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 196000,
       "name": "Riqueza",
       "url": "https://open.spotify.com/track/78PqDddX9dnUPCpSdiAmKH"
@@ -24373,6 +24497,32 @@
     },
     {
       "album": {
+        "name": "SIEMPRE TITULAR",
+        "url": "https://open.spotify.com/album/0ZBkoEhKfKF3o3sYABM56c"
+      },
+      "artists": [
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Keko Beats",
+          "url": "https://open.spotify.com/artist/3d5ScJpj1ROK1DNtwM17Ed"
+        },
+        {
+          "name": "Cirujano Resendez",
+          "url": "https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "SIEMPRE TITULAR",
+      "url": "https://open.spotify.com/track/7mPLsi81eodaAXhI3zIX8w"
+    },
+    {
+      "album": {
         "name": "Siendo Como Ni\u00f1os",
         "url": "https://open.spotify.com/album/7FaCUvZDF9Nm7UAz60k9M2"
       },
@@ -24786,6 +24936,28 @@
       "duration_ms": 179685,
       "name": "SOBREVIVI",
       "url": "https://open.spotify.com/track/1sJ6NnZr98B43OcNpLOqfv"
+    },
+    {
+      "album": {
+        "name": "SOFXX",
+        "url": "https://open.spotify.com/album/4cDw0FmQFO748XAhKu0PnR"
+      },
+      "artists": [
+        {
+          "name": "Kuervo Negro",
+          "url": "https://open.spotify.com/artist/0akKorQ1ve5dLYTYiyRuuz"
+        },
+        {
+          "name": "Diego Loudness",
+          "url": "https://open.spotify.com/artist/6fMsyy8ToMlOsZD5IKU3gE"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149010,
+      "name": "SOFXX",
+      "url": "https://open.spotify.com/track/5cgNQYXKPhQ71L34G7RDrW"
     },
     {
       "album": {
@@ -26222,7 +26394,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 160333,
       "name": "Tio Armando",
       "url": "https://open.spotify.com/track/3GqAS2IZTCV3HkeoQQMznK"
@@ -28842,7 +29014,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 152655,
       "name": "Zambombazo",
       "url": "https://open.spotify.com/track/4ps4tXsQlKjRCB5jmnaEnQ"
@@ -29156,6 +29328,32 @@
       "duration_ms": 190909,
       "name": "\u00c1nimas",
       "url": "https://open.spotify.com/track/23e2DIo2xHw552kU4vopM8"
+    },
+    {
+      "album": {
+        "name": "INSIDE DESIGN",
+        "url": "https://open.spotify.com/album/5nQ5sM0w18nno3UHs8YNX5"
+      },
+      "artists": [
+        {
+          "name": "Ana Milagros",
+          "url": "https://open.spotify.com/artist/4TGvzenBbWpfCsNf5S4WyI"
+        },
+        {
+          "name": "Yul0",
+          "url": "https://open.spotify.com/artist/7oIzXBybUtW6yVeoIOC79r"
+        },
+        {
+          "name": "Cerounno",
+          "url": "https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234044,
+      "name": "\u00c1REA",
+      "url": "https://open.spotify.com/track/5zTggS7h0iX4KOeujG66Xw"
     },
     {
       "album": {

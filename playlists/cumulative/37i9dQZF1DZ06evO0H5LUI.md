@@ -4,7 +4,7 @@
 
 > This is Leon Leiden\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 6 min
+87 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [DADOS](https://open.spotify.com/track/3HLPJXlVy6ez2lZeEpuDpB) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:38 | 2023-11-10 | 2025-12-14 |
 | [Decisión](https://open.spotify.com/track/3thXiXy8Y9Db1GwoHmxbnp) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Decisión](https://open.spotify.com/album/3VfF9AzOdrtJrN4yvwWV1H) | 3:24 | 2025-06-15 |  |
 | [Desamor Feliz \- Remix](https://open.spotify.com/track/4JRDTjUxA2bO4bF3JxOwt2) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Desamor Feliz \(Remix\)](https://open.spotify.com/album/06IFSa0PSph2dZSLuZKmpA) | 2:56 | 2023-11-10 |  |
-| [Desamor Feliz Pt\. 2](https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Desamor Feliz Pt\. 2](https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj) | 2:36 | 2023-11-10 |  |
+| [Desamor Feliz Pt\. 2](https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Desamor Feliz Pt\. 2](https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj) | 2:36 | 2023-11-10 | 2026-05-30 |
 | [Desde Que Te Vi](https://open.spotify.com/track/6JheR1ZMJyEJpFedDY1qme) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Desde Que Te Vi](https://open.spotify.com/album/6tajRRPxnmdcp24vdnq6Vd) | 2:51 | 2023-11-10 |  |
 | [El Mejor Amigo](https://open.spotify.com/track/0xRVhzvHkRBXbp25NRDotY) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [El Mejor Amigo](https://open.spotify.com/album/5qOUTOwLXAm1y3WvzePHZW) | 3:30 | 2023-12-13 |  |
 | [Embassy](https://open.spotify.com/track/0UFfGjyqll9cg23Kg689rd) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Aquí Estoy](https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o) | 2:10 | 2024-04-19 | 2024-08-03 |
@@ -36,6 +36,7 @@
 | [Estamos aquí](https://open.spotify.com/track/3NOjigYhB8fkuqK5570wsN) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Top Regional Mexicano](https://open.spotify.com/album/1c21iJdesNfqCJsXkztpyF) | 1:00 | 2023-11-10 | 2024-04-14 |
 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 | 2023-11-10 |  |
 | [Este Feeling](https://open.spotify.com/track/7kzbEaC84yqKJd5wHNdgoK) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mientras Tanto](https://open.spotify.com/album/4H1eSQMSWN2CxJp1u55oao) | 3:16 | 2025-09-10 |  |
+| [euteamo](https://open.spotify.com/track/5cRZDkt3YEtGh4NkObP1jI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [euteamo](https://open.spotify.com/album/1Yb9zmTvmAc28ZukmcEh7Y) | 2:28 | 2026-05-30 |  |
 | [FATALITY](https://open.spotify.com/track/6SPQL7Kz0hiXyWzaYIw3Ga) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:31 | 2023-11-10 | 2025-12-31 |
 | [Florecita Rockera](https://open.spotify.com/track/7i59viEVeGVJfyYS59V7oG) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Thalia's Mixtape](https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf) | 2:44 | 2023-11-10 |  |
 | [FLOTA](https://open.spotify.com/track/2cgeaGlJpUl1C37OHb28XW) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [mp3.](https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6) | 2:43 | 2023-11-10 |  |

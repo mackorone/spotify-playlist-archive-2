@@ -4,7 +4,7 @@
 
 > canciones para chillear con Silvina Moreno
 
-214 songs - 11 hr 32 min
+215 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 | 2025-01-29 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-04-12 |  |
 | [Entrégate](https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Entrégate](https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4) | 3:11 | 2023-10-17 | 2024-03-30 |
+| [Es por Amor](https://open.spotify.com/track/1thMBeq1EsLSlV5QOtmbgg) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB) | [Es por Amor](https://open.spotify.com/album/1pDRoekrP21qQbZBiADn3r) | 3:02 | 2026-05-29 |  |
 | [escapar de mí](https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [escapar de mí](https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1) | 3:48 | 2024-03-15 | 2024-04-06 |
 | [Espacio en Tu Corazón](https://open.spotify.com/track/0GIQqhTJpBvAUwThmUHbPj) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Espacio en Tu Corazón](https://open.spotify.com/album/1Jrh0ptfEVDJbLbhG8vQHd) | 2:58 | 2023-10-17 | 2024-03-30 |
 | [Estrella](https://open.spotify.com/track/5arlUnESk69UOTh80g3rMZ) | [Ambik](https://open.spotify.com/artist/4QIM495B5wWD9B24Fsi4aR) | [Estrella](https://open.spotify.com/album/7h1JPC24EIvqeglKgKm8dP) | 2:27 | 2025-07-18 | 2025-11-21 |
@@ -91,7 +92,7 @@
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-10-17 | 2024-04-19 |
 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 | 2023-10-17 | 2024-04-14 |
 | [Heridas \- Acoustic Version](https://open.spotify.com/track/2hqgGbTxWK7fToF9QELlgD) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Heridas \(Acoustic Version\)](https://open.spotify.com/album/7FKndOez6kYh87LWvgdB4p) | 3:16 | 2023-10-17 | 2023-11-18 |
-| [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 | 2023-10-19 |  |
+| [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 | 2023-10-19 | 2026-05-30 |
 | [I'm Back](https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:59 | 2024-04-12 | 2024-10-24 |
 | [I'm In Love With You](https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I'm In Love With You](https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS) | 4:22 | 2023-10-17 | 2024-04-21 |
 | [Igual que sobrevivir](https://open.spotify.com/track/60oT7H969s3xAfLGFvgjGt) | [GERO](https://open.spotify.com/artist/0yJdH7HHacvB0UopMceKZl) | [Igual que sobrevivir](https://open.spotify.com/album/1SvSDn4MExGrf0Xn85Frmg) | 3:30 | 2025-05-02 | 2025-06-20 |

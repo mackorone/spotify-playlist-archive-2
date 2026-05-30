@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Wiz Khalifa and Curren$y
 
-948 songs - 2 day 2 hr 40 min
+949 songs - 2 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 3:34 | 2022-07-08 | 2022-10-31 |
 | [Devil's Work 2](https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Devil's Work 2](https://open.spotify.com/album/54LfEBAO7J0GYfR9YH3hUr) | 5:01 | 2023-03-10 | 2023-07-08 |
 | [Diamonds](https://open.spotify.com/track/30pf6a2dADiDoB5DFXSceL) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Diamonds](https://open.spotify.com/album/0aEwHJdYAqUvpM3WgEGpN1) | 3:14 | 2025-11-21 | 2026-01-01 |
-| [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 | 2024-12-20 |  |
+| [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 | 2024-12-20 | 2026-05-30 |
 | [Diego Maradona](https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [The Genuine Articulate](https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp) | 2:37 | 2024-09-23 | 2025-06-16 |
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-02-08 | 2022-10-01 |
 | [DIET\_](https://open.spotify.com/track/1AzqpMy3yLYNITSOUrnL8i) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [UNLOCKED](https://open.spotify.com/album/5LsyqeWryTmxsmda4xkm5a) | 2:23 | 2021-09-03 | 2022-02-17 |
@@ -418,6 +418,7 @@
 | [If I Wasnt](https://open.spotify.com/track/2YbjuUyAGLuQ4ebkGCxaEF) | [RETRO](https://open.spotify.com/artist/5JQ5QsmDCpzhi6StRcYxqf) | [If I Wasnt](https://open.spotify.com/album/0AHcfHukL9JqfpatTr9EbR) | 4:03 | 2021-09-03 | 2022-04-16 |
 | [If Not Now, When?](https://open.spotify.com/track/6eQHIFVNvgsg4ooRrzgwVz) | [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [If Not Now, When?](https://open.spotify.com/album/493v3KuL0Bc12cQacac8sl) | 2:47 | 2022-02-18 | 2022-07-18 |
 | [IIGHT IIGHT](https://open.spotify.com/track/2LMYyJ5vzcfZfcwveWSMWu) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [EL CARNICERO](https://open.spotify.com/album/4LvgaBEfh47ijVJnCAgiOZ) | 2:38 | 2025-12-19 | 2026-02-02 |
+| [Immigrants](https://open.spotify.com/track/0wkWMbqr3SgM9TdgdzMsXv) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [RBT](https://open.spotify.com/album/7tRd6qHR20ZfJKcGYGXbai) | 3:10 | 2026-05-29 |  |
 | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/track/4EwwOC5ajOeyCVdPrScy5t) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [IMPALAS & HYDRAULICS \(Ft\. The Game\)](https://open.spotify.com/album/5BcFOLlzBLEtGAWC4GnKtL) | 2:57 | 2022-08-05 | 2023-04-09 |
 | [Imported Couches](https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Imported Couches](https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo) | 3:36 | 2024-04-12 | 2024-12-21 |
 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 | 2022-06-17 | 2023-04-22 |

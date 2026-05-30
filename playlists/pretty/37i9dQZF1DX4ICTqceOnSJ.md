@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,536 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,419 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 20 | [Club de fans de John Boy](https://open.spotify.com/track/1KhqSLS8YafrUCbjrn8WxZ) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [1999 \(o como generar incendios de nieve con una lupa enfocando la luna\)](https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF) | 3:51 |
 | 21 | [To My Love](https://open.spotify.com/track/6z1VtU0MCGo666iKiajfhp) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 3:59 |
 | 22 | [Quiero Que Me Llames](https://open.spotify.com/track/7jcXQXxo0lvpwg2twqJpqc) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Cabildo y Juramento](https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn) | 4:18 |
-| 23 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 |
-| 24 | [La Noche Eterna](https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 5:27 |
+| 23 | [La Noche Eterna](https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 5:27 |
+| 24 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 |
 | 25 | [Allí donde solíamos gritar](https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [1999 \(o como generar incendios de nieve con una lupa enfocando la luna\)](https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF) | 5:37 |
 | 26 | [Sincericidio](https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Monstruos](https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B) | 4:11 |
 | 27 | [Loco](https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [El Vuelo del Pez](https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD) | 3:31 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 92 | [PUEDE SER](https://open.spotify.com/track/71bO0OsW7odKFhbjrHwM8C) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 |
 | 93 | [Cuestión De Suerte](https://open.spotify.com/track/6TRRirUyyil4IbMcZLFQff) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Cuestión De Suerte](https://open.spotify.com/album/7J8jJvOHBMGDHeOT7Lc15t) | 3:13 |
 | 94 | [Soun Tha Mi Primer Amor \- Mtv Unplugged \(En Vivo\)](https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Mtv Unplugged](https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8) | 3:50 |
-| 95 | [Todo Terminó](https://open.spotify.com/track/5BeLLbwf4RUDccIVdzjuIh) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Who Me?](https://open.spotify.com/album/03AalHNXM2fBTryvQGw8lA) | 2:36 |
-| 96 | [El Destino](https://open.spotify.com/track/7deEXsuLC8Teu0MHiwr3V0) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Adrian Dargelos](https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg) | [Franco \(Bonus Track Version\)](https://open.spotify.com/album/1KwfATAKqo1JKJtlflgkGj) | 3:24 |
+| 95 | [El Destino](https://open.spotify.com/track/7deEXsuLC8Teu0MHiwr3V0) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Adrian Dargelos](https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg) | [Franco \(Bonus Track Version\)](https://open.spotify.com/album/1KwfATAKqo1JKJtlflgkGj) | 3:24 |
+| 96 | [Todo Terminó](https://open.spotify.com/track/5BeLLbwf4RUDccIVdzjuIh) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Who Me?](https://open.spotify.com/album/03AalHNXM2fBTryvQGw8lA) | 2:36 |
 | 97 | [Como Vez Primera](https://open.spotify.com/track/7akpZSIOBwaSDES0wS6ekC) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:33 |
 | 98 | [Vueltas](https://open.spotify.com/track/01tX4yeCFgfcuR4YyLiV5F) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Vueltas](https://open.spotify.com/album/6CCshZPonPq3626zN28AT4) | 3:41 |
 | 99 | [LA ARAÑA](https://open.spotify.com/track/4q3INV20vNx0BQYNTDLGEb) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Isla de Oro](https://open.spotify.com/album/0dm3jrhjmQgBMNZGtJsnr8) | 3:29 |

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,540 songs - 7 day 4 hr 19 min
+4,542 songs - 7 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1548,7 +1548,8 @@
 | [Gravity](https://open.spotify.com/track/7HtcTqT9ib4EQAfYNRQnMF) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl), [Fona](https://open.spotify.com/artist/1Z9Kmnj7PimziF4URnIzL2) | [Gravity](https://open.spotify.com/album/4nN1AtYr1VV172lNY1six4) | 1:49 | 2021-11-12 | 2022-11-20 |
 | [Gravity](https://open.spotify.com/track/0dDgGTb66FRncP1WlFFidc) | [Sineg](https://open.spotify.com/artist/2dFzMUO0SoMadcJNogEmg9) | [Gravity](https://open.spotify.com/album/4GkMpO1O0A51kNGDWBeE9v) | 3:00 | 2021-07-19 | 2021-12-17 |
 | [Great Depth](https://open.spotify.com/track/6JqcQEsdVQ745YZ6MTunYs) | [NEKOB](https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi) | [Great Depth](https://open.spotify.com/album/2fstCq3z87bxma8h5bVe7r) | 1:56 | 2023-04-06 | 2023-06-02 |
-| [Greece](https://open.spotify.com/track/4diD44DnrjraPBpdXX1PGx) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Greece](https://open.spotify.com/album/394IyVp8xiAI2ghHPpYCe9) | 2:59 | 2026-04-10 |  |
+| [Greece](https://open.spotify.com/track/4diD44DnrjraPBpdXX1PGx) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [Two Scents](https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81) | [Greece](https://open.spotify.com/album/394IyVp8xiAI2ghHPpYCe9) | 2:59 | 2026-04-10 | 2026-05-30 |
+| [Greedy](https://open.spotify.com/track/4Dl5rg9VuKYWza78Ehv7jH) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Parallel](https://open.spotify.com/album/5U1rTWBKjMsgDLqOim1uuz) | 2:04 | 2026-05-29 |  |
 | [Green Flash](https://open.spotify.com/track/70wXXk4KzYz0g28kJcFSIz) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Green Flash](https://open.spotify.com/album/3uswHlfBrK6SVI41S2c0ZB) | 1:46 | 2019-06-08 | 2019-11-08 |
 | [Green Heart](https://open.spotify.com/track/6sRdYxMkX8KXj35QWGP5Cl) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Green Heart](https://open.spotify.com/album/6O73waU0OO9xcT5HFwWQOj) | 3:10 | 2021-04-23 | 2021-10-01 |
 | [Green Jewel](https://open.spotify.com/track/0c0uIy763LsqxRutmcIoYw) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Green Jewel](https://open.spotify.com/album/0l4PWKGmXCbMjMbad22rJd) | 1:43 | 2023-05-25 | 2023-10-20 |
@@ -1969,6 +1970,7 @@
 | [Jumping Saxx](https://open.spotify.com/track/6gutPw9mIyl2U9YlNk0DgK) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Jumping Saxx](https://open.spotify.com/album/3JyMBj5AdOWlJnDYtaJKb7) | 2:31 | 2023-12-01 | 2024-06-07 |
 | [Junami](https://open.spotify.com/track/3nYrPIYlhbkUCqPEyhY3Pj) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Junami](https://open.spotify.com/album/6IF9gMIW8eUvrF6WFj6ARx) | 2:17 | 2022-05-05 | 2022-09-23 |
 | [June](https://open.spotify.com/track/7Hdv1ksjckBo3ntsQfJWPy) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [June](https://open.spotify.com/album/3scnq51ovIuwX0JmKlZTvj) | 2:08 | 2019-06-08 | 2019-10-25 |
+| [Juniper](https://open.spotify.com/track/37M0mUenbLK4xcQEkFcPUf) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [Juniper](https://open.spotify.com/album/2Hx91M5walfklngrxPMDH8) | 1:53 | 2026-05-29 |  |
 | [Juniper](https://open.spotify.com/track/3JKiwkPOJVPs8KqrSXM69a) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Juniper](https://open.spotify.com/album/4PoqWidhdoLutHZ5LoUxVU) | 2:57 | 2019-06-03 | 2019-08-13 |
 | [Juno Juno](https://open.spotify.com/track/1S0UsxkfYrCl6fSs6tbBeC) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Juno Juno](https://open.spotify.com/album/7cqsRHBl6PE2sSFwf0iHxn) | 1:36 | 2023-06-01 | 2023-06-23 |
 | [Jupiter](https://open.spotify.com/track/0jvk77dyCUddjRW4plCiB7) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Jupiter](https://open.spotify.com/album/3qjvMnqdtmvXfACND2qXTo) | 2:26 | 2021-06-22 | 2021-09-03 |
@@ -2027,7 +2029,7 @@
 | [Kompass](https://open.spotify.com/track/4Oy0kk2wtLgPqX01wUfzIq) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Kompass](https://open.spotify.com/album/0YvpEyxT3tgw9oq4OsU8AW) | 2:11 | 2020-12-11 | 2021-02-12 |
 | [Kopi Luwak](https://open.spotify.com/track/4JZIQzEuPvnGj68SHC9PSe) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Kopi Luwak](https://open.spotify.com/album/5JyC7IsDmilhWiLfSh0jce) | 2:13 | 2019-11-29 | 2020-04-24 |
 | [Kosame](https://open.spotify.com/track/5TqR51fMGFWDy9Vep5MMn8) | [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI), [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Kosame](https://open.spotify.com/album/4OO8sp5SLZyAEjPLzkImqM) | 2:32 | 2021-01-29 | 2021-06-25 |
-| [Kosame](https://open.spotify.com/track/0Wo2T73APnKUS0zDoqyBTc) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Kosame](https://open.spotify.com/album/4XPWvDD7QGrz1i8Tjldd06) | 2:00 | 2026-04-10 |  |
+| [Kosame](https://open.spotify.com/track/0Wo2T73APnKUS0zDoqyBTc) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Kosame](https://open.spotify.com/album/4XPWvDD7QGrz1i8Tjldd06) | 2:00 | 2026-04-10 | 2026-05-30 |
 | [Kosmochlor](https://open.spotify.com/track/6W300ARKUoc0VGZvcMKTIF) | [IROCC](https://open.spotify.com/artist/1L9GWi65XjnjeGrT4ryGId), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Minerals](https://open.spotify.com/album/7vxA3Vlcw2e6vT2QlR5K0w) | 2:18 | 2020-11-06 | 2021-03-19 |
 | [Koto](https://open.spotify.com/track/5o92FSV6JxfXg6E4qn0Xej) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Koto](https://open.spotify.com/album/0kZ7OfGrHpsKpba4c8IrMM) | 2:34 | 2021-05-29 | 2022-02-18 |
 | [Kranam](https://open.spotify.com/track/30nT3prZFX5dITIbZGSbVA) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Exoplanet](https://open.spotify.com/album/21QlxFzpFfy7vlmPs8E0qF) | 2:32 | 2022-12-15 | 2023-02-10 |

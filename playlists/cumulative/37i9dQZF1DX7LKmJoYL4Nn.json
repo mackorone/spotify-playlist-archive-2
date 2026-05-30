@@ -272,7 +272,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 294266,
       "name": "Birthday of Music!",
       "url": "https://open.spotify.com/track/0TcBOfm7HGz9LR8sQdNCgc"
@@ -568,7 +568,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 206933,
       "name": "Crush of Judgment",
       "url": "https://open.spotify.com/track/46CSWWCcDLMAU55Jb9TLc8"
@@ -710,7 +710,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 207813,
       "name": "Death Game Holic",
       "url": "https://open.spotify.com/track/0QXjruPtWWeeFeSceZMExA"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 251573,
       "name": "Fight for Judge",
       "url": "https://open.spotify.com/track/0REh9JzsqKLZ2enJil2RG7"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 288373,
       "name": "Kiss of Life",
       "url": "https://open.spotify.com/track/7FZ8p7BXhPoG9AvC8ymbhC"
@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 187840,
       "name": "Noir Neige",
       "url": "https://open.spotify.com/track/1vbPlABBS2aegeAEI5X68e"
@@ -3020,7 +3020,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 292093,
       "name": "Voice of Sword",
       "url": "https://open.spotify.com/track/4tKSR384aGgqztbVSIM7V4"
@@ -3788,7 +3788,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 280626,
       "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30c7\u30a3\u30b9\u30b3",
       "url": "https://open.spotify.com/track/0Pmja2vH52EzqkJyxQltM7"
@@ -4372,7 +4372,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 219920,
       "name": "\u59cb\u307e\u308a\u306e\u30d5\u30a1\u30f3\u30bf\u30b8\u30a2",
       "url": "https://open.spotify.com/track/1f7iTXYBjiNGkascBy9r6I"
@@ -4416,6 +4416,24 @@
       "duration_ms": 242106,
       "name": "\u5e78\u798f\u8ad6",
       "url": "https://open.spotify.com/track/5KPL8On7P402zXWCXSMRyw"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.5)",
+        "url": "https://open.spotify.com/album/2kJP5EFp6vRsGGi0wQlTZP"
+      },
+      "artists": [
+        {
+          "name": "MaM/\u4e09\u6bdb\u7e1e\u6591(CV.\u9ce5\u6d77\u6d69\u8f14)",
+          "url": "https://open.spotify.com/artist/6uEoSIAMWYdGObbvqfI9nd"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "\u6109\u5feb\u75db\u5feb That's alright!",
+      "url": "https://open.spotify.com/track/4QanjscZVT1XOxGf5tONhK"
     },
     {
       "album": {

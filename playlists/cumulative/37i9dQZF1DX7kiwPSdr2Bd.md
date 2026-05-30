@@ -2,9 +2,9 @@
 
 ### [Mulheres do Gospel](https://open.spotify.com/playlist/37i9dQZF1DX7kiwPSdr2Bd)
 
-> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Valesca Mayssa
+> Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Julia Vitória
 
-307 songs - 1 day 3 hr 59 min
+308 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 | 2022-10-07 |  |
 | [Amigo Jesus](https://open.spotify.com/track/35jMewGCMi7RF6CrJMz0wC) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Amigo Jesus](https://open.spotify.com/album/4c1kWI0RiMkQMrUbdMFVDb) | 4:22 | 2022-09-09 | 2023-10-07 |
 | [Amor Infinito / A Mensagem da Cruz \- Ao Vivo](https://open.spotify.com/track/3u1g3zx0ckdvqBwRCj7Yhb) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Amor Infinito / A Mensagem da Cruz \(Ao Vivo\)](https://open.spotify.com/album/2v1jvE1DqhO2JfGbeNJ2qI) | 5:55 | 2025-07-19 |  |
-| [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 | 2022-09-09 |  |
+| [Aos Pés da Cruz \- Ao Vivo](https://open.spotify.com/track/4fVOleOiFwM2INJXDJyR3Y) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Aos Pés da Cruz \(Ao Vivo\)](https://open.spotify.com/album/4jSgL2K7jXwXsHazBKMDuF) | 4:25 | 2022-09-09 | 2026-05-30 |
 | [Até Te Encontrar](https://open.spotify.com/track/2WFp3pIKEfdvjhzqGjwbgy) | [Rhay Campos](https://open.spotify.com/artist/4HECuUsFCE7RaTYOApDpuC), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ) | [Até Te Encontrar](https://open.spotify.com/album/3sDRaA4K56lczDWAi9HYuH) | 4:43 | 2023-05-26 | 2023-07-29 |
 | [Até te Encontrar \- Ao Vivo](https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s) | 9:36 | 2022-09-09 | 2023-03-18 |
 | [Até Transbordar \- Ao Vivo](https://open.spotify.com/track/527yLNgwnDNSaAexdoKQME) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/5lDSJypIaHWPLiPi0Tm6dX) | 10:25 | 2022-09-30 | 2022-10-29 |
@@ -265,6 +265,7 @@
 | [Sempre Vou Te Amar \- Ao Vivo](https://open.spotify.com/track/6yHSHQFwATsWbm4FphMWio) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Sempre Vou Te Amar \(Ao Vivo\)](https://open.spotify.com/album/4zL7PT3uZnulGZeD3CNlrL) | 5:00 | 2022-09-09 | 2022-10-01 |
 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 | 2022-09-09 | 2025-10-17 |
 | [Sensibilidade \- Ao Vivo](https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Sensibilidade \(Ao Vivo\)](https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT) | 6:31 | 2023-07-14 |  |
+| [Seu Amor Dura Para Sempre \(Bonus Track\) \- Ao Vivo](https://open.spotify.com/track/5FaMoShMm6N9kiZd81IrC9) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Ao Vivo na Ópera de Arame \(Deluxe Edition\)](https://open.spotify.com/album/0x9oovOV9CNm9uXiHEDeRP) | 6:52 | 2026-05-29 |  |
 | [Seu Amor • BRAVE Sessions \- Ao Vivo](https://open.spotify.com/track/4IzIBR03UPdEKyROA8KCDk) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [BRAVE Sessions • LUDI \(Ao Vivo\)](https://open.spotify.com/album/0WbJEPZ1ZWuv8w69yQc3eT) | 3:50 | 2023-08-18 | 2023-11-04 |
 | [Sobrevivi \(Ao Vivo\)](https://open.spotify.com/track/5glKBEULK9ouNoetw3xOhN) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [Sobrevivi \(Ao Vivo\)](https://open.spotify.com/album/6Xdm2ulL3hyc32DEKOg8Cu) | 4:05 | 2025-07-19 |  |
 | [Sol da Justiça](https://open.spotify.com/track/0M6CaZejftGPBvx9S0aQiD) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Sol da Justiça](https://open.spotify.com/album/2b0uRqyJN2B1Q0M4sUoi1w) | 5:41 | 2022-09-09 | 2023-03-04 |

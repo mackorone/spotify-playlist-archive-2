@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : KH X RK Reunion
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,360 likes - 75 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,371 likes - 75 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 57 | [The Vikram Squad \- Background Score](https://open.spotify.com/track/0hEUT9CpY3R2nvYzdvxGLE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:34 |
 | 58 | [Vettaiyan Theme](https://open.spotify.com/track/3Z8FAlpN5ARYkcCihIvkNj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vettaiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Xw7XAQQwpsy9KfUnJTrHz) | 1:56 |
 | 59 | [Narasimha Theme \(From "Jailer"\)](https://open.spotify.com/track/3lHH6j1JzcCYVct83zihWs) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Narasimha Theme \(From "Jailer"\)](https://open.spotify.com/album/4MGAcD1ZvQPy2r6FQcgAx7) | 1:03 |
-| 60 | [Mudinja Thodra](https://open.spotify.com/track/6b52NQujSIgTurwO7fVJnj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Madharaasi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P) | 1:57 |
-| 61 | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/track/6jiMGpaN4Sx7xYlSQqfjnz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/album/7rkELhEEUEuqWRmDdTCNZF) | 1:02 |
-| 62 | [Kaleesha](https://open.spotify.com/track/1x0Jfn08Bpz1pZATAW4BbT) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Coolie \(Original Background Score\)](https://open.spotify.com/album/2xSjbEyF1GTL6hJdvvvfd8) | 3:42 |
+| 60 | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/track/6jiMGpaN4Sx7xYlSQqfjnz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/album/7rkELhEEUEuqWRmDdTCNZF) | 1:02 |
+| 61 | [Kaleesha](https://open.spotify.com/track/1x0Jfn08Bpz1pZATAW4BbT) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Coolie \(Original Background Score\)](https://open.spotify.com/album/2xSjbEyF1GTL6hJdvvvfd8) | 3:42 |
+| 62 | [Mudinja Thodra](https://open.spotify.com/track/6b52NQujSIgTurwO7fVJnj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Madharaasi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P) | 1:57 |
 | 63 | [Wedding Party \- Background Score](https://open.spotify.com/track/0APxSVP73DpITxWovXrEZj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:36 |
 | 64 | [Rhythm of Petta](https://open.spotify.com/track/3uOEtcu7Zx1LFC1O2oqkgy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Background Score\)](https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0) | 0:52 |
 | 65 | [Shield Fight \- Background Score](https://open.spotify.com/track/48pWf7gVrD3ftzkyzUJqVu) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:36 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 69 | [Doctor Theme \- Background Score](https://open.spotify.com/track/2sW8zbqjQsOnwTcjC2JWBO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Doctor \(Original Background Score\)](https://open.spotify.com/album/57HnFkNaWMtqA3h7rrRIAh) | 0:43 |
 | 70 | [Madharaasi Theme](https://open.spotify.com/track/1NMRkvmHWhuV89yeiIib4j) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Madharaasi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P) | 1:12 |
 | 71 | [Animal Instinct](https://open.spotify.com/track/5Lf5SOcqZFePjtjK1QbLYY) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Madharaasi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P) | 0:37 |
-| 72 | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/track/6dyiMdcMYxUcZfI02hdODg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/album/15MnhzQdz7up0CdGyozomY) | 1:22 |
-| 73 | [The Theri Theme](https://open.spotify.com/track/5F6QjI9stjXP8yNzu60SEP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 1:52 |
+| 72 | [The Theri Theme](https://open.spotify.com/track/5F6QjI9stjXP8yNzu60SEP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 1:52 |
+| 73 | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/track/6dyiMdcMYxUcZfI02hdODg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Varman Theme \(From "Jailer"\)](https://open.spotify.com/album/15MnhzQdz7up0CdGyozomY) | 1:22 |
 | 74 | [Perseverance Theme](https://open.spotify.com/track/30XXtZvRUdMHoVgnGu28LO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Amogh Balaji](https://open.spotify.com/artist/6PRnZDNLsPAwsOqMk41XUz) | [Vidaamuyarchi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1nbDSTLKDO9SvjQ2cOQglE) | 2:54 |
 | 75 | [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/track/1DfpYz98hG74VoH8ROcvw2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/album/6GD2CMMyn07ALf3tguGZZF) | 2:09 |
 

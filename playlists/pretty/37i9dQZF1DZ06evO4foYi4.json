@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAAB0M468wUEuWulc3hQ+A2Tt",
+  "snapshot_id": "aheFgAAAAADzGaEwasrfYh1RP4cIJkka",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always The Same (feat. St. Vincent)",
-        "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
+        "name": "Tiempos Violentos (feat. Mon Laferte)",
+        "url": "https://open.spotify.com/album/5QltgUkS8v6Ied1QGoDUMw"
       },
       "artists": [
         {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        },
-        {
           "name": "St. Vincent",
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 256875,
-      "name": "Always The Same (feat. St. Vincent)",
-      "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
+      "duration_ms": 237029,
+      "name": "Tiempos Violentos (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/2ozyU0ouEszNl675sgJjjM"
     },
     {
       "added_at": null,
@@ -375,22 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Violentos (feat. Mon Laferte)",
-        "url": "https://open.spotify.com/album/5QltgUkS8v6Ied1QGoDUMw"
+        "name": "Always The Same (feat. St. Vincent)",
+        "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
       "artists": [
         {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
         },
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 237029,
-      "name": "Tiempos Violentos (feat. Mon Laferte)",
-      "url": "https://open.spotify.com/track/2ozyU0ouEszNl675sgJjjM"
+      "duration_ms": 256875,
+      "name": "Always The Same (feat. St. Vincent)",
+      "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent",
-        "url": "https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf"
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 276626,
-      "name": "Prince Johnny",
-      "url": "https://open.spotify.com/track/7hLWQTGBtKo4pBpJ9CaQo9"
+      "duration_ms": 214653,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+        "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
+        "url": "https://open.spotify.com/album/6U4CPSK3q8QTYpuy8LCOGG"
       },
       "artists": [
         {
@@ -696,15 +696,15 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 200426,
-      "name": "My Baby Wants A Baby",
-      "url": "https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG"
+      "duration_ms": 211200,
+      "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
+      "url": "https://open.spotify.com/track/1eNuVjITQ9uuBF7M62wG6y"
     },
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+        "name": "St. Vincent",
+        "url": "https://open.spotify.com/album/2CJnMhwEEkS8R1ctgt5llf"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 214653,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
+      "duration_ms": 276626,
+      "name": "Prince Johnny",
+      "url": "https://open.spotify.com/track/7hLWQTGBtKo4pBpJ9CaQo9"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
-        "url": "https://open.spotify.com/album/6U4CPSK3q8QTYpuy8LCOGG"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
-      "url": "https://open.spotify.com/track/1eNuVjITQ9uuBF7M62wG6y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIVE IN LONDON! (BBC Proms at the Royal Albert Hall)",
         "url": "https://open.spotify.com/album/2xdIxgu25l6fXk1OTjSobC"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 281578,
       "name": "The Nowhere Inn (Live)",
       "url": "https://open.spotify.com/track/5puEAUQFnOr5JeGfNbAhjo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "My Baby Wants A Baby",
+      "url": "https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Saves, I Spend",
-        "url": "https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strange Mercy",
         "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 243546,
       "name": "Dilettante",
       "url": "https://open.spotify.com/track/2V0Na3gPSckTReRoU0gQCp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Saves, I Spend",
+        "url": "https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 199320,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nowhere Inn",
-        "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 33453,
-      "name": "Carrie Voicemail",
-      "url": "https://open.spotify.com/track/7I3vnN7JkrJEiTtuoXGKoo"
+      "duration_ms": 277893,
+      "name": "Huey Newton",
+      "url": "https://open.spotify.com/track/6P5QvqGHXCksVTqMSVgEWV"
     }
   ],
   "unique_name": "This Is St. Vincent",

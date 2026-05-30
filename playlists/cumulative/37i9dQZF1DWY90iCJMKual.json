@@ -3831,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/5kADYxG8soPuGgiaZM4jqf"
+      },
+      "artists": [
+        {
+          "name": "jikamarie",
+          "url": "https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150638,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/2L0hF2UfJsSZEMeroy97Bv"
+    },
+    {
+      "album": {
         "name": "IBALING",
         "url": "https://open.spotify.com/album/2cVN9tWc78xAlDRAcypf1r"
       },
@@ -7440,6 +7458,28 @@
       "duration_ms": 206566,
       "name": "Routine",
       "url": "https://open.spotify.com/track/36KV0cYK3Yp2RCs4bhrm3h"
+    },
+    {
+      "album": {
+        "name": "RUN IT",
+        "url": "https://open.spotify.com/album/4PTFkgETxjS7R2bSuYr82k"
+      },
+      "artists": [
+        {
+          "name": "KLLY",
+          "url": "https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF"
+        },
+        {
+          "name": "gins&melodies",
+          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "RUN IT",
+      "url": "https://open.spotify.com/track/6hUUZHHiEfi2HfNfH9Ia1M"
     },
     {
       "album": {

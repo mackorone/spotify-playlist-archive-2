@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,425 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,471 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 4 | [CRG \(feat\. Dave\)](https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:02 |
 | 5 | [Trojan Horse](https://open.spotify.com/track/16D8OTSQ2qq9SEMzijwZiH) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH) | 4:08 |
 | 6 | [Law Of Attraction \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/6Rz9To4o1UlycFUIhj3WwK) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:01 |
-| 7 | [Doesn't Just Happen](https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 3:17 |
-| 8 | [Starlight](https://open.spotify.com/track/3ixYkZI6rGk3ktisaIQrh0) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/6ckPKdfC3EWCy9XRHUWLAT) | 3:31 |
+| 7 | [Starlight](https://open.spotify.com/track/3ixYkZI6rGk3ktisaIQrh0) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/6ckPKdfC3EWCy9XRHUWLAT) | 3:31 |
+| 8 | [Doesn't Just Happen](https://open.spotify.com/track/2NI8EpPOnrRQhNs81tAAoe) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Trying Times](https://open.spotify.com/album/16tV8wTfqPyA6Cu5dwJJPc) | 3:17 |
 | 9 | [The Boy Who Played the Harp](https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 4:37 |
 | 10 | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Propeller \(feat\. Dave & BNXN\)](https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD) | 3:24 |
 | 11 | [Verdansk](https://open.spotify.com/track/3AEOrh7zWjV2rVS1yOd41q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 49 | [My 19th Birthday](https://open.spotify.com/track/4KCfCctnZQd5mem6S3HhKi) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 8:58 |
 | 50 | [Mercury](https://open.spotify.com/track/1kVdMi8bWDhjp6NCf7s712) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [Titanium & Mercury](https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr) | 5:23 |
 
-Snapshot ID: `ahY0AAAAAACKy2x1tnnVwFe2vbl8jH6K`
+Snapshot ID: `aheFgAAAAAAjQ7FfUCYp/zL9zboNY/GG`

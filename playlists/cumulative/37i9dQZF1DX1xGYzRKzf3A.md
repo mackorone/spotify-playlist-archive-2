@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-416 songs - 1 day 0 hr 13 min
+417 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Allá en la esquina](https://open.spotify.com/track/4KumvJB2Kx9YtrDnOr8TWg) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [La Leyenda](https://open.spotify.com/album/37EeFfQW8XvoLJUqcfpwOZ) | 3:31 | 2025-11-09 |  |
 | [Alucin](https://open.spotify.com/track/2WqZ2CBDENtibvpW8DxiJr) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Alucina2](https://open.spotify.com/album/3ZNQvcoa9WX9HTgUxeQI1o) | 3:17 | 2025-11-09 |  |
 | [Amor a la Antigua](https://open.spotify.com/track/49uhcCBeHGJDcoaX9VZqKf) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Amor a la Antigua](https://open.spotify.com/album/2NiTukmXgBBs5FeFOx6yj7) | 3:52 | 2025-11-09 |  |
+| [Amor En Extincion](https://open.spotify.com/track/5a9cLkvr7hxu216ONAXqeB) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv) | [Amor En Extincion](https://open.spotify.com/album/7ybN4XEe8OL0C2PYLNCwQ1) | 3:46 | 2025-11-09 |  |
 | [AMOR PROPIO](https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [AMOR PROPIO](https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y) | 2:52 | 2023-11-08 | 2025-11-10 |
 | [Amor Sin Fronteras](https://open.spotify.com/track/4dBHzUM0bjAEtTwfy1YZDs) | [Erick Escobar y La Decisión Vallenata](https://open.spotify.com/artist/0g82wlKp1G6jdN3k36iwCG), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [14 Vallenatos Románticos, Vol\. 3](https://open.spotify.com/album/7cSjg2xmqW00pURG1SApjn) | 4:43 | 2023-11-08 | 2024-04-19 |
 | [Amorcito Mio \- En Vivo](https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg) | 3:23 | 2024-07-15 | 2025-11-10 |
@@ -273,7 +274,7 @@
 | [muero por verla luis mateus vallenato](https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91) | [14 vallenatos sabroso corta venas vol.1 exitos](https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl) | [14 vallenatos sabroso](https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc) | 4:43 | 2023-06-16 | 2024-04-19 |
 | [Mustangson](https://open.spotify.com/track/20Btm1q3Si7jvfAWNzDYLd) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX) | [Adiamantado](https://open.spotify.com/album/0x1egjkD9PUoH2w5nKyIp6) | 2:51 | 2025-11-09 |  |
 | [Necesito Decirte](https://open.spotify.com/track/5APm7ovr3mZBAEtJlF8pbY) | [Profugos De Nuevo Leon](https://open.spotify.com/artist/6xCiFhON3LPyvwIGvAGnwp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Necesito Decirte](https://open.spotify.com/album/1mbKbybVA8gxjLnEHs8HjV) | 3:27 | 2023-11-08 | 2025-06-18 |
-| [NECIA](https://open.spotify.com/track/1IUtvjwL9BWq3vaQpJbvDr) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX), [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [NECIA](https://open.spotify.com/album/3UkGnHED6tOV5fKgWCPBOX) | 3:03 | 2025-11-09 |  |
+| [NECIA](https://open.spotify.com/track/1IUtvjwL9BWq3vaQpJbvDr) | [Sahir Montoya](https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX), [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [NECIA](https://open.spotify.com/album/3UkGnHED6tOV5fKgWCPBOX) | 3:03 | 2025-11-09 | 2026-05-30 |
 | [Nena Moxita](https://open.spotify.com/track/4jC9blSAq4KNgejoNeQgwA) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [No Hay Loco Que No Corone](https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS) | 3:37 | 2025-11-09 | 2026-05-07 |
 | [Ni Una Sola Palabra \(feat\. IMA\)](https://open.spotify.com/track/4h9tHQkrlXA3N1wvpqDXmR) | [Chusi](https://open.spotify.com/artist/3mVKicofLUV7c9hlDXpY0b), [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo), [IMA](https://open.spotify.com/artist/3BjYZUW21VH6TohUVC5FhV) | [Ni Una Sola Palabra \(feat\. IMA\)](https://open.spotify.com/album/0bzo8Jsq6kthTs8V8bsqSS) | 4:22 | 2025-11-09 |  |
 | [Nitrocumbia](https://open.spotify.com/track/5Ub2ljGAxC1ZWZ4IxAZRKa) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Nitrocumbia](https://open.spotify.com/album/4vDymKr8UcyvMaaZOGELy3) | 3:03 | 2025-11-09 |  |

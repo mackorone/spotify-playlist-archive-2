@@ -19301,6 +19301,24 @@
     },
     {
       "album": {
+        "name": "Ms. Jackson",
+        "url": "https://open.spotify.com/album/3qB1DTzI1SIiP1syCOfd5U"
+      },
+      "artists": [
+        {
+          "name": "Young Roddo",
+          "url": "https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123695,
+      "name": "Ms. Jackson",
+      "url": "https://open.spotify.com/track/6PZcPdGpFA8rY1bqO4Bntv"
+    },
+    {
+      "album": {
         "name": "SLICK ALMIGHTY",
         "url": "https://open.spotify.com/album/5Kz4xbbXLmUuRUhGzBgsSF"
       },
@@ -22208,7 +22226,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 132380,
       "name": "OWA OWA",
       "url": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N"
@@ -24350,7 +24368,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 164154,
       "name": "RAMBO",
       "url": "https://open.spotify.com/track/66GGhX3SJmgrsaVKaNtIDN"
@@ -25400,6 +25418,24 @@
       "duration_ms": 153687,
       "name": "ROSE STREET",
       "url": "https://open.spotify.com/track/3phALNKWigFCXEhIHOkHrP"
+    },
+    {
+      "album": {
+        "name": "Dr*gs R Bad",
+        "url": "https://open.spotify.com/album/0w31mbjD6bT4eckeQFWDt3"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180703,
+      "name": "Roundtripski",
+      "url": "https://open.spotify.com/track/2BPjxkBhFjP2sp1SW6MyhU"
     },
     {
       "album": {
@@ -27140,6 +27176,28 @@
       "duration_ms": 154883,
       "name": "SLUT ME OUT 4",
       "url": "https://open.spotify.com/track/3PsiWFS27gmJAO997H9Py7"
+    },
+    {
+      "album": {
+        "name": "Smaxk Or Die (feat. Playboi Carti)",
+        "url": "https://open.spotify.com/album/0X1jRt7ic4faNgXBHPD7L7"
+      },
+      "artists": [
+        {
+          "name": "Fatt Smaxk",
+          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125360,
+      "name": "Smaxk Or Die (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/37PWu4Av27EVfKwx2UVJA1"
     },
     {
       "album": {
@@ -34628,7 +34686,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 126799,
       "name": "YUP AND I DO",
       "url": "https://open.spotify.com/track/6cA7DVYZYEYFKop72MRRRB"

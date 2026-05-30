@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: arches \(Hong Kong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,015 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,069 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 10 | [I'm Just A Girl](https://open.spotify.com/track/6UXfE2VCzrNI52B9fA2JiA) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Di Hotel Malibu](https://open.spotify.com/album/6y0nT2F3SwFS2dRnvczAFP) | 2:49 |
 | 11 | [Blush](https://open.spotify.com/track/56Rdvp163gJ4Bn9v1UqMC2) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Blush](https://open.spotify.com/album/6BlYYjKLjE1FzoJFaftbXh) | 3:06 |
 | 12 | [Black Dream](https://open.spotify.com/track/66eGzO4xa6UPIk1iXH1rXs) | [Moher](https://open.spotify.com/artist/7FPhKVHFqU4Er6VxA1fw3w) | [From the Deep and Dark](https://open.spotify.com/album/4j3bHvl8lA10wznyxOv6gW) | 4:33 |
-| 13 | [Track 4](https://open.spotify.com/track/3drRiJb84b7LetoZYXB9Np) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [RFRNCE](https://open.spotify.com/album/4S0uMNzmraBl61pcsjrDoa) | 0:00 |
+| 13 | [RFRNCE](https://open.spotify.com/track/3drRiJb84b7LetoZYXB9Np) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [RFRNCE](https://open.spotify.com/album/4S0uMNzmraBl61pcsjrDoa) | 3:18 |
 | 14 | [Universe](https://open.spotify.com/track/4KKsAcemcx5qBNVrxpaIGq) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [CLOCKWORK](https://open.spotify.com/album/5ge6f3ZhfoBJTGx3jgvviu) | 3:47 |
 | 15 | [In the End](https://open.spotify.com/track/5WKguOpEwe8qpXPSz25Zqx) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [The Doves Came Home](https://open.spotify.com/album/6stW0BEOqA6F0Gi7inuzLS) | 3:28 |
 | 16 | [Telephone feat\. Nenashi](https://open.spotify.com/track/1M8TJtxdjl7tcWTbR3wJTI) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Glimmer](https://open.spotify.com/album/4YspmHKLU2EtV6KtN8wWBf) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Neptune](https://open.spotify.com/track/2T2t33auvYkIVrM63wxEAV) | [SPACE PUMPKIN](https://open.spotify.com/artist/6ylyglH1E1JUTSenhyB3c0) | [Neptune](https://open.spotify.com/album/6Hs6rkcSNeBKEDfAI5mL1Y) | 4:43 |
 | 100 | [アンドロワ](https://open.spotify.com/track/2rm1TGK4s4uiG4pXx9zDWt) | [SAMOEDO](https://open.spotify.com/artist/7g6Mug4G6xLqi1odQOWdMp) | [アンドロワ](https://open.spotify.com/album/4zsInsxFOuwpuBdj700jh0) | 2:53 |
 
-Snapshot ID: `AAAAAM4IeL9voiZM1PpycuBhMVdnHDip`
+Snapshot ID: `AAAAALaAwoPFQNuIqHN7VqsTbwB8sS4V`

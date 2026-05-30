@@ -2,9 +2,9 @@
 
 ### [planet rave](https://open.spotify.com/playlist/37i9dQZF1DWW1XLSH8Oafp)
 
-> ur on the list bb 🪐 featuring Marlon Hoffstadt
+> ur on the list bb 🪐 featuring jigitz
 
-1,309 songs - 2 day 23 hr 24 min
+1,311 songs - 2 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [6SM](https://open.spotify.com/track/4iTmCeJoYcdJwVs85WXhGX) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [6SM](https://open.spotify.com/album/6naipOoYiyhK9UF3g45siT) | 2:29 | 2025-03-28 | 2026-01-16 |
 | [9\_Lives\_Glow Rush](https://open.spotify.com/track/4euy14Xcf6F4mDbR2aUJnT) | [Milan Gavris](https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ) | [9\_Lives\_Glow Rush](https://open.spotify.com/album/7C7A6ncDEtxE34zyJ7Si7p) | 2:13 | 2025-01-24 | 2025-09-12 |
 | [@t The Club](https://open.spotify.com/track/0avlLX3KhhIDAhKW5g1mbc) | [Miss Jay](https://open.spotify.com/artist/2282mHW48ronyIbZWsubbn) | [@t The Club](https://open.spotify.com/album/6MZ46QBQ6mct458tFWHGE0) | 3:08 | 2024-06-28 | 2025-03-21 |
-| [\_HALO\_](https://open.spotify.com/track/6POXlBCcr2Qodq1DptJhKn) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [\_HALO\_](https://open.spotify.com/album/3xE4txhOeUiHPskdf6zivM) | 3:31 | 2025-11-21 |  |
+| [\_HALO\_](https://open.spotify.com/track/6POXlBCcr2Qodq1DptJhKn) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [\_HALO\_](https://open.spotify.com/album/3xE4txhOeUiHPskdf6zivM) | 3:31 | 2025-11-21 | 2026-05-30 |
 | [A Gem so Precious](https://open.spotify.com/track/1p5GwLa7kNtEITi0RO9LYE) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [A Gem so Precious](https://open.spotify.com/album/0chp3Z6ScRddwE4zG9Ryg5) | 4:52 | 2022-05-06 | 2022-08-27 |
 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 | 2024-05-17 | 2025-02-14 |
 | [A Luv Desire](https://open.spotify.com/track/3VusLTAcZGq8bgAGzJKPRX) | [Bodhi](https://open.spotify.com/artist/1C545778m57qWQwISWGAHD) | [Dance Trax, Vol\. 47](https://open.spotify.com/album/6scBIchAttvfyikrrPQgMB) | 5:32 | 2022-12-02 | 2023-06-08 |
@@ -542,6 +542,7 @@
 | [Hey Homie](https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Hey Homie](https://open.spotify.com/album/0kZYADBXJfq3MIUmG1ebYR) | 3:09 | 2024-07-18 | 2025-04-18 |
 | [hi\(gher\)](https://open.spotify.com/track/5HCtJ7jVYXmRCuTgv6u8EA) | [Overpade](https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q) | [HYPNOTIK](https://open.spotify.com/album/2QQAQBq06J2T4wRWJ0lrcZ) | 2:28 | 2021-12-02 | 2022-04-29 |
 | [High](https://open.spotify.com/track/4aLoyjHI2UfR55tJwgAj6J) | [Natalie Red](https://open.spotify.com/artist/38EW5PoQXJSd0tRuhmMbFL) | [High](https://open.spotify.com/album/7m8hVydvqkepqCj2WjffvS) | 2:36 | 2022-12-09 | 2023-03-18 |
+| [higher](https://open.spotify.com/track/7oCzr7jdTHh3OSYTFxoVsb) | [boy 2000](https://open.spotify.com/artist/352jxy0PhVlrH05EHE78LV) | [higher](https://open.spotify.com/album/52VbP0EmUW0Xwp6GOmoIBS) | 1:59 | 2026-05-29 |  |
 | [HIGHER](https://open.spotify.com/track/2bSwV9e11V7rE2tXT2ka1y) | [Marlus](https://open.spotify.com/artist/6KZ0uwdg2CfmlADa1rkUmJ) | [HIGHER](https://open.spotify.com/album/1alwGF6CHQD76eWuEioStj) | 3:03 | 2025-03-14 | 2025-12-12 |
 | [Higher Than Ever Before \- yunè pinku Remix](https://open.spotify.com/track/6datYMoOV1Zq1yUJbFQuDw) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Higher Than Ever Before \(yunè pinku Remix\)](https://open.spotify.com/album/3ru4z9AhYi5cNUoUHG8T4A) | 3:37 | 2023-11-17 | 2024-01-13 |
 | [Highlight \- jigitz Remix](https://open.spotify.com/track/0S2M1qkve0r09dvQw4WmbE) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt), [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ) | [Highlight \(jigitz Remix\)](https://open.spotify.com/album/1P0suDsFOBQ5UVZHvWvrdj) | 4:06 | 2024-09-26 | 2025-05-30 |
@@ -841,6 +842,7 @@
 | [Not My Type](https://open.spotify.com/track/5mHeJsko8znfqCEXayzfAS) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [GIRL!!!](https://open.spotify.com/album/5f8If4cKjTsXaegOsrA25q) | 2:59 | 2024-08-08 | 2025-05-02 |
 | [nothing left 2 say](https://open.spotify.com/track/1f6nXWqapFZA69Rw3YRuWG) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL) | [nothing left 2 say / give u everything](https://open.spotify.com/album/3UP6UAXppXpPNzku4MrcpL) | 3:15 | 2024-12-13 | 2025-08-05 |
 | [notice](https://open.spotify.com/track/6p2BRzlsChZJREL4oEqYar) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [notice](https://open.spotify.com/album/2WyGgBBSAC4mIwcoNbdWB7) | 2:35 | 2023-06-02 | 2024-02-23 |
+| [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 | 2026-05-29 |  |
 | [Notoriously Fast](https://open.spotify.com/track/0GBLXfE9GbUSH2jF4Pr3yR) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Circulus Vitiosus](https://open.spotify.com/album/5xFPu0JBe4Wxh7gcu9Idmd) | 1:52 | 2022-09-16 | 2022-12-03 |
 | [Now That I Got You](https://open.spotify.com/track/4OXAFxJjeHjkg0wElaVPtT) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ), [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [Now That I Got You](https://open.spotify.com/album/4L4FuUA8V3YEGaLB6KBIFa) | 3:29 | 2026-02-06 |  |
 | [Number One](https://open.spotify.com/track/2xkn18PZVf7DGtpOOADAPI) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Number One](https://open.spotify.com/album/0iA5ZIMgD6y29Oqh3MY2sq) | 2:54 | 2024-12-13 | 2025-08-05 |
@@ -1249,7 +1251,7 @@
 | [Wedbecutetoget\-her](https://open.spotify.com/track/2aUqSrIw15sfRdMwjQaRg2) | [o0o](https://open.spotify.com/artist/5J1ISo62brLWWq3ylID7BR) | [Wedbecutetoget\-her](https://open.spotify.com/album/1Lpu55DV9ThB7G0ClRpM7N) | 3:39 | 2021-12-31 | 2022-08-27 |
 | [weird circle](https://open.spotify.com/track/7dq4mEawDhXL1xxIsvd7ZD) | [Loli in early 20s](https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N) | [weird circle](https://open.spotify.com/album/0vUW1BR8OFZ9iv7V9LXigd) | 2:11 | 2022-08-12 | 2022-09-10 |
 | [Welcome To My Island \- George Daniel & Charli XCX Remix](https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [Welcome To My Island \(Remix\)](https://open.spotify.com/album/0bTnYKeASx4Fjaf2ez2Us3) | 3:22 | 2023-01-20 | 2023-09-15 |
-| [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/track/0cZGeLbUQm3veTaoI6rHmN) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/album/3JHZvYvOucexDDHgqsZUHj) | 3:18 | 2025-11-21 |  |
+| [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/track/0cZGeLbUQm3veTaoI6rHmN) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/album/3JHZvYvOucexDDHgqsZUHj) | 3:18 | 2025-11-21 | 2026-05-30 |
 | [WFT](https://open.spotify.com/track/3KcvhdB2XV8U0s6PbIy1bc) | [Subtrax](https://open.spotify.com/artist/1li6c6TniSl5U8ABWQCNAD) | [WFT](https://open.spotify.com/album/4sXH8U0BPsKRPBBcEhAxGA) | 3:31 | 2023-09-15 | 2024-06-15 |
 | [What About Us \(oklou's cover\)](https://open.spotify.com/track/6MQLQMpuHyoNjeJFWGXdGU) | [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [What About Us \(oklou's cover\)](https://open.spotify.com/album/6oxHCbqVgudKCb2WsVWFPq) | 2:55 | 2021-10-01 | 2022-04-02 |
 | [what are you doing?](https://open.spotify.com/track/5Wj0NlnV4IOWmACK99Inei) | [BLONDETING](https://open.spotify.com/artist/5tOtqDwpHljDsBGKASlPk2) | [what are you doing?](https://open.spotify.com/album/2ZhKAK6ofnvfpNa78PSqG6) | 2:45 | 2025-10-02 | 2026-04-17 |

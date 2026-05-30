@@ -1,6 +1,6 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 896862,
+  "num_followers": 896828,
   "original_name": "chill latino",
   "owner": {
     "name": "Spotify",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "Ya",
-        "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
-      },
-      "artists": [
-        {
-          "name": "Flavio",
-          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
-        },
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 197910,
-      "name": "Ya",
-      "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "cuarto pa' las doce",
         "url": "https://open.spotify.com/album/2ReN9ssYYTNOW3irKf5XB1"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 144255,
       "name": "cuarto pa' las doce",
       "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "Ya",
+        "url": "https://open.spotify.com/album/1Kk33rOeAVRk4VP0PuLIpA"
+      },
+      "artists": [
+        {
+          "name": "Flavio",
+          "url": "https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN"
+        },
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 197910,
+      "name": "Ya",
+      "url": "https://open.spotify.com/track/3WcZfSkqdtVbNYVw9IwAAT"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 231936,
       "name": "Hablo Con Vos (feat. Nahuel Barbero)",
       "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "Quieres de mi",
-        "url": "https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq"
-      },
-      "artists": [
-        {
-          "name": "Anna Zarate",
-          "url": "https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2"
-        },
-        {
-          "name": "Gamboa",
-          "url": "https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Quieres de mi",
-      "url": "https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "Pajaritos",
         "url": "https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 144300,
       "name": "Pajaritos",
       "url": "https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "Qu\u00e9 Dulce",
+        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
+      },
+      "artists": [
+        {
+          "name": "Jorge Caj\u00edas",
+          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
+        },
+        {
+          "name": "Claudia Prieto",
+          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
+        }
+      ],
+      "duration_ms": 133666,
+      "name": "Qu\u00e9 Dulce",
+      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1127,38 +1127,22 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "Qu\u00e9 Dulce",
-        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
+        "name": "Quieres de mi",
+        "url": "https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq"
       },
       "artists": [
         {
-          "name": "Jorge Caj\u00edas",
-          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
+          "name": "Anna Zarate",
+          "url": "https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2"
         },
         {
-          "name": "Claudia Prieto",
-          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
+          "name": "Gamboa",
+          "url": "https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu"
         }
       ],
-      "duration_ms": 133666,
-      "name": "Qu\u00e9 Dulce",
-      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
-        "name": "Desp\u00eddeme De Todxs",
-        "url": "https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 200283,
-      "name": "Perderme",
-      "url": "https://open.spotify.com/track/5m1QnfGXl5gNqZ5tp48GyT"
+      "duration_ms": 192000,
+      "name": "Quieres de mi",
+      "url": "https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1175,6 +1159,22 @@
       "duration_ms": 180320,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "Desp\u00eddeme De Todxs",
+        "url": "https://open.spotify.com/album/11rGeM6nycLMTfKwcZ3dVl"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 200283,
+      "name": "Perderme",
+      "url": "https://open.spotify.com/track/5m1QnfGXl5gNqZ5tp48GyT"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "Justrylove (Chill&Go Remix)",
-        "url": "https://open.spotify.com/album/6YK11Ru4UJLSEMjdfpopbD"
-      },
-      "artists": [
-        {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
-        },
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 192105,
-      "name": "Justrylove (Chill&Go Remix)",
-      "url": "https://open.spotify.com/track/3rWccLg6nMDF851IqYmdf5"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB"
       },
@@ -1315,6 +1295,26 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
+        "name": "Justrylove (Chill&Go Remix)",
+        "url": "https://open.spotify.com/album/6YK11Ru4UJLSEMjdfpopbD"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        },
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 192105,
+      "name": "Justrylove (Chill&Go Remix)",
+      "url": "https://open.spotify.com/track/3rWccLg6nMDF851IqYmdf5"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
         "name": "I know",
         "url": "https://open.spotify.com/album/6GRPgTY3rk3dgxsG9ZOkCu"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 177867,
       "name": "I know",
       "url": "https://open.spotify.com/track/5xCUOxO46AyKy4x0W7dxeM"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
-        "name": "tu piel me ha besado",
-        "url": "https://open.spotify.com/album/0XWAMxQJV9RimKNpW0L5Mx"
-      },
-      "artists": [
-        {
-          "name": "Cariatydes",
-          "url": "https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W"
-        }
-      ],
-      "duration_ms": 222702,
-      "name": "tu piel me ha besado",
-      "url": "https://open.spotify.com/track/4ThDVnZgvk7qFL7vjTEZ5M"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1391,22 +1375,18 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "D\u00e9jame Decir Te Quiero",
-        "url": "https://open.spotify.com/album/3BxYz7JYPTS8LIIWkTvdhF"
+        "name": "tu piel me ha besado",
+        "url": "https://open.spotify.com/album/0XWAMxQJV9RimKNpW0L5Mx"
       },
       "artists": [
         {
-          "name": "David Velasco",
-          "url": "https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL"
-        },
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+          "name": "Cariatydes",
+          "url": "https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W"
         }
       ],
-      "duration_ms": 185610,
-      "name": "D\u00e9jame Decir Te Quiero",
-      "url": "https://open.spotify.com/track/3ZUtWP2fCW6WptxdsbaOTi"
+      "duration_ms": 222702,
+      "name": "tu piel me ha besado",
+      "url": "https://open.spotify.com/track/4ThDVnZgvk7qFL7vjTEZ5M"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1427,6 +1407,26 @@
       "duration_ms": 139833,
       "name": "WADGYMAR",
       "url": "https://open.spotify.com/track/5EckFDDZ79K3PbEJBeVyLX"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "D\u00e9jame Decir Te Quiero",
+        "url": "https://open.spotify.com/album/3BxYz7JYPTS8LIIWkTvdhF"
+      },
+      "artists": [
+        {
+          "name": "David Velasco",
+          "url": "https://open.spotify.com/artist/2lrPjlojnpUIuxFpGg7lAL"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 185610,
+      "name": "D\u00e9jame Decir Te Quiero",
+      "url": "https://open.spotify.com/track/3ZUtWP2fCW6WptxdsbaOTi"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "YNQNP",
-        "url": "https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "YNQNP",
-      "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/6Vbahwg4jyo7Z64F8z9Ky2"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/0lvQ5BPdyuOKqNqhptZsrA"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "YNQNP",
+        "url": "https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 150186,
+      "name": "YNQNP",
+      "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "Indirecta",
-        "url": "https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o"
-      },
-      "artists": [
-        {
-          "name": "Itzza Primera",
-          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
-        }
-      ],
-      "duration_ms": 200727,
-      "name": "Indirecta",
-      "url": "https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "IRENE ALEJANDRA",
         "url": "https://open.spotify.com/album/1EtK1Zju9gAMz9uoQ0q9rb"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 106736,
       "name": "cAnAimA",
       "url": "https://open.spotify.com/track/2LKpAspoJbTagy6HdHsU7L"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "Indirecta",
+        "url": "https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o"
+      },
+      "artists": [
+        {
+          "name": "Itzza Primera",
+          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
+        }
+      ],
+      "duration_ms": 200727,
+      "name": "Indirecta",
+      "url": "https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3"
     },
     {
       "added_at": "2026-05-08 04:03:12",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-05-08 04:03:12",
       "album": {
-        "name": "Esc\u00e1pate",
-        "url": "https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ"
-      },
-      "artists": [
-        {
-          "name": "Malxs",
-          "url": "https://open.spotify.com/artist/15vG2WQMHbjKWepVbj7lNY"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Esc\u00e1pate",
-      "url": "https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4"
-    },
-    {
-      "added_at": "2026-05-08 04:03:12",
-      "album": {
         "name": "Lo que escrib\u00ed mientras no estabas :)",
         "url": "https://open.spotify.com/album/4oJqkH55g9SByDb6H8vwZc"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 152256,
       "name": "5 letras, 2 palabras",
       "url": "https://open.spotify.com/track/4s3nqWkbqSisNpdrAPIwn3"
+    },
+    {
+      "added_at": "2026-05-08 04:03:12",
+      "album": {
+        "name": "Esc\u00e1pate",
+        "url": "https://open.spotify.com/album/0X8qCLQQl7u0ovRKkl0kWJ"
+      },
+      "artists": [
+        {
+          "name": "Malxs",
+          "url": "https://open.spotify.com/artist/15vG2WQMHbjKWepVbj7lNY"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "Esc\u00e1pate",
+      "url": "https://open.spotify.com/track/3AxC4Prjz8GNKFLH4jlzt4"
     },
     {
       "added_at": "2026-05-08 04:03:12",

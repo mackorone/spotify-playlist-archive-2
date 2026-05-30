@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "PIIKA",
+        "url": "https://open.spotify.com/album/7uQXB9fAq0FLImsAIjjuKH"
+      },
+      "artists": [
+        {
+          "name": "keiju",
+          "url": "https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5"
+        },
+        {
+          "name": "MOMO",
+          "url": "https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148181,
+      "name": "10!",
+      "url": "https://open.spotify.com/track/5wGpuoijb2FQHzk4AQeBw0"
+    },
+    {
+      "album": {
         "name": "Oots\u00e4 n\u00e4hny mua?",
         "url": "https://open.spotify.com/album/0pf2sh61zutGdkGtnWi9yI"
       },
@@ -4764,7 +4786,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 238826,
       "name": "Ent\u00e4 jos en p\u00e4rj\u00e4\u00e4k\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/7u7QfpxxJ4L8wlakNEPlar"
@@ -17003,6 +17025,24 @@
     },
     {
       "album": {
+        "name": "Santana",
+        "url": "https://open.spotify.com/album/1fBQfan1acewdtJ0lt0DnT"
+      },
+      "artists": [
+        {
+          "name": "Jenni & Juho",
+          "url": "https://open.spotify.com/artist/5uYU6UHu7wuyF2Oa4OjZnp"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172186,
+      "name": "Santana",
+      "url": "https://open.spotify.com/track/598SWcATgKhBcyhtMJBNgR"
+    },
+    {
+      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
       },
@@ -20634,24 +20674,6 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "album": {
-        "name": "PIIKA",
-        "url": "https://open.spotify.com/album/7uQXB9fAq0FLImsAIjjuKH"
-      },
-      "artists": [
-        {
-          "name": "keiju",
-          "url": "https://open.spotify.com/artist/78Q5OnbgoyHMj5aHlGljK5"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/5wGpuoijb2FQHzk4AQeBw0"
     },
     {
       "album": {

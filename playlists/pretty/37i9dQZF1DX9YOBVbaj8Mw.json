@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20470,
+  "num_followers": 20476,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Popi\u00f3\u0142",
+        "url": "https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3"
+      },
+      "artists": [
+        {
+          "name": "B\u0142a\u017cej Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
+        }
+      ],
+      "duration_ms": 281663,
+      "name": "Moja bestia",
+      "url": "https://open.spotify.com/track/0ZbwqrkZHD8NAG74mXJ7PL"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "HER NAME WAS YUMI",
         "url": "https://open.spotify.com/album/70tZRCqPItOdy3vornYcAi"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Popi\u00f3\u0142",
-        "url": "https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3"
+        "name": "BUNT",
+        "url": "https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I"
       },
       "artists": [
         {
-          "name": "B\u0142a\u017cej Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4"
+          "name": "Sad Smiles",
+          "url": "https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo"
         }
       ],
-      "duration_ms": 281663,
-      "name": "Moja bestia",
-      "url": "https://open.spotify.com/track/0ZbwqrkZHD8NAG74mXJ7PL"
+      "duration_ms": 326653,
+      "name": "Aport",
+      "url": "https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -871,22 +887,6 @@
       "duration_ms": 336773,
       "name": "The Shit Ov God",
       "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "BUNT",
-        "url": "https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I"
-      },
-      "artists": [
-        {
-          "name": "Sad Smiles",
-          "url": "https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo"
-        }
-      ],
-      "duration_ms": 326653,
-      "name": "Aport",
-      "url": "https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Oran\u017cowy \u015awit",
-        "url": "https://open.spotify.com/album/53YYHkNtfwxVM1N7E1LwXr"
-      },
-      "artists": [
-        {
-          "name": "Warszawska Orkiestra Sentymentalna",
-          "url": "https://open.spotify.com/artist/287kPG6g5bOowVT6Ehz5c8"
-        },
-        {
-          "name": "Noam Zylberberg",
-          "url": "https://open.spotify.com/artist/05HoQZvlX0l9QyrFHBmpl7"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "W \u017byciu Bywa Jak W Piosence",
-      "url": "https://open.spotify.com/track/1yJIGyzqw69MEMCsJdXAxO"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "CITY CLUSTER",
         "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
       },
@@ -1123,22 +1103,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Homage",
-        "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
+        "name": "Oran\u017cowy \u015awit",
+        "url": "https://open.spotify.com/album/53YYHkNtfwxVM1N7E1LwXr"
       },
       "artists": [
         {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+          "name": "Warszawska Orkiestra Sentymentalna",
+          "url": "https://open.spotify.com/artist/287kPG6g5bOowVT6Ehz5c8"
         },
         {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+          "name": "Noam Zylberberg",
+          "url": "https://open.spotify.com/artist/05HoQZvlX0l9QyrFHBmpl7"
         }
       ],
-      "duration_ms": 251514,
-      "name": "Love in the Garden",
-      "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
+      "duration_ms": 203000,
+      "name": "W \u017byciu Bywa Jak W Piosence",
+      "url": "https://open.spotify.com/track/1yJIGyzqw69MEMCsJdXAxO"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1171,6 +1151,26 @@
       "duration_ms": 181812,
       "name": "Pami\u0119tam twoje oczy",
       "url": "https://open.spotify.com/track/2QHokdfFac8aYoGuqbI9uk"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Homage",
+        "url": "https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        },
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        }
+      ],
+      "duration_ms": 251514,
+      "name": "Love in the Garden",
+      "url": "https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC"
     },
     {
       "added_at": "2026-05-26 09:05:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 
 > ¡mueve ese booty con la  Sayuri & Sopholov! 🍑🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,547 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,587 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOPE5PGBHDN.md) - [plain]
 | 32 | [Guatauba](https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Guatauba XXX](https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO) | 2:42 |
 | 33 | [Pam Pam](https://open.spotify.com/track/6d8owCU2kQ63h5bB8YYjv3) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Juntos Otra Vez](https://open.spotify.com/album/2zlrwEhyQvCZJH4zfAwasJ) | 3:47 |
 | 34 | [COMO OREO](https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [COMO OREO](https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd) | 3:15 |
-| 35 | [Chula Vente](https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Chula Vente](https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS) | 4:01 |
-| 36 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 |
+| 35 | [Shorty Party](https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [La Kelly](https://open.spotify.com/artist/4yEIQ0lJDgUEfsuYx3Gsmr) | [Shorty Party](https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9) | 4:25 |
+| 36 | [Chula Vente](https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Chula Vente](https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS) | 4:01 |
 | 37 | [Blancanieves](https://open.spotify.com/track/3BZUM1xojiL3TvRo3T50R9) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Porque La Demora](https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ) | 2:31 |
 | 38 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 |
 | 39 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 |

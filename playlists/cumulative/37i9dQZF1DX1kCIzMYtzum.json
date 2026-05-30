@@ -2137,6 +2137,32 @@
     },
     {
       "album": {
+        "name": "Bigger Than Dreamers",
+        "url": "https://open.spotify.com/album/2LD06FNp9n2nIqFQYvPfxw"
+      },
+      "artists": [
+        {
+          "name": "Matt Pridgyn",
+          "url": "https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu"
+        },
+        {
+          "name": "Vikkstar",
+          "url": "https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC"
+        },
+        {
+          "name": "Jex",
+          "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212769,
+      "name": "Bigger Than Dreamers",
+      "url": "https://open.spotify.com/track/5FQadK5jylSAZHAMZlKabN"
+    },
+    {
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5spblclZJQbJPAHjRop7sl"
       },
@@ -4338,6 +4364,28 @@
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
+    },
+    {
+      "album": {
+        "name": "Don't Lose Your Head",
+        "url": "https://open.spotify.com/album/0JlIAgb2Wef3CMsq3Jf7JS"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Olivia Sebastianelli",
+          "url": "https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163320,
+      "name": "Don't Lose Your Head",
+      "url": "https://open.spotify.com/track/6btPEp3yW4iSMB5ykuYJny"
     },
     {
       "album": {
@@ -9068,7 +9116,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 217684,
       "name": "In My Arms - KREAM Remix",
       "url": "https://open.spotify.com/track/1c0CauHGd6IumO162bEbCu"
@@ -9318,7 +9366,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 231591,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
@@ -11024,7 +11072,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 147777,
       "name": "Lost In Time",
       "url": "https://open.spotify.com/track/4LcxZayrPlz96szZpTDvBV"
@@ -11874,7 +11922,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 256875,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/2DN97n8HVmamCfL9WGphFt"
@@ -15891,6 +15939,28 @@
     },
     {
       "album": {
+        "name": "Sad Girls",
+        "url": "https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168771,
+      "name": "Sad Girls",
+      "url": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot"
+    },
+    {
+      "album": {
         "name": "Safe",
         "url": "https://open.spotify.com/album/5edtT743uNFxgxSkITKKF3"
       },
@@ -17607,6 +17677,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5Nt2LwkPvFezVspjtoywcO"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155725,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1eo5EOM8O8nFWiiNPKsav9"
+    },
+    {
+      "album": {
         "name": "Stay A Little Longer",
         "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
       },
@@ -18280,7 +18368,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 214764,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1x60WzUs7c8byX7lvYJ8Fa"
@@ -19642,6 +19730,28 @@
       "duration_ms": 162295,
       "name": "Too Late For Love",
       "url": "https://open.spotify.com/track/5AnFltV45uUTHmRIzHvzUh"
+    },
+    {
+      "album": {
+        "name": "Torture of the Heart",
+        "url": "https://open.spotify.com/album/48NX8QQxqYKR5mK11evUBi"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202248,
+      "name": "Torture of the Heart",
+      "url": "https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5"
     },
     {
       "album": {

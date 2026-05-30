@@ -2,9 +2,9 @@
 
 ### [Country Drive](https://open.spotify.com/playlist/37i9dQZF1DXdfhOsjRMISB)
 
-> Country music to accompany you on the open road\. Cover: Lainey Wilson
+> Country music to accompany you on the open road\. Cover: Cody Johnson
 
-447 songs - 1 day 0 hr 40 min
+448 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Make It Sweet](https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Old Dominion](https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m) | 3:07 | 2023-05-03 | 2023-09-16 |
 | [Make Me Want To](https://open.spotify.com/track/2uJwGoHVPStmWV7iTKEhcn) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Mercury Lane](https://open.spotify.com/album/1FZ4ysoRQblNEW0uoFk3v0) | 2:52 | 2021-12-03 | 2022-04-27 |
 | [May We All](https://open.spotify.com/track/498ZVInMGDkmmNVpSWqHiZ) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Dig Your Roots](https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC) | 3:46 | 2022-07-01 |  |
+| [McArthur](https://open.spotify.com/track/6yOHshc12fwMtM74xoy4je) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [McArthur](https://open.spotify.com/album/7tFDlNV1A2uRLdgArEKYuj) | 3:51 | 2026-05-29 |  |
 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 | 2022-02-01 |  |
 | [Memory I Don't Mess With](https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Memory I Don't Mess With](https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif) | 3:00 | 2021-12-03 | 2026-05-27 |
 | [Memory Lane](https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw) | 2:52 | 2023-04-21 |  |
@@ -427,7 +428,7 @@
 | [Whiskey Lullaby \(feat\. Alison Krauss\)](https://open.spotify.com/track/6iblnklMzUKIXAtjk5lzIy) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Mud On The Tires](https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS) | 4:19 | 2023-05-18 |  |
 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 | 2024-02-09 |  |
 | [Who Cares](https://open.spotify.com/track/0AuyO2tufq60YvAFdVYhOn) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Who Cares](https://open.spotify.com/album/0nLAp17gWpv95J2yPdqSK9) | 2:58 | 2022-02-01 | 2022-07-23 |
-| [Who Hurt You?](https://open.spotify.com/track/3Q7sDOGos4gxbOMkwVYgu8) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:54 | 2026-03-23 |  |
+| [Who Hurt You?](https://open.spotify.com/track/3Q7sDOGos4gxbOMkwVYgu8) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 3:54 | 2026-03-23 | 2026-05-30 |
 | [Why We Drink](https://open.spotify.com/track/4lSfhHd5Knwl8yQw2cVjAD) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Late Nights And Longnecks](https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K) | 3:31 | 2021-12-03 | 2024-08-10 |
 | [Wild as Her](https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg) | 3:19 | 2022-11-14 | 2023-06-05 |
 | [Wild as Her](https://open.spotify.com/track/3kXH9BQq0TyNliiP1MIE6N) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Blacktop](https://open.spotify.com/album/6nIkyQ0HO6MDucznnn8DXi) | 3:21 | 2023-05-18 | 2024-04-19 |

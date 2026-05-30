@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: SanIsidro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,872 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,884 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Los panes los hijos](https://open.spotify.com/track/6uNvSktr4ZfUTEFoiebus8) | [Anna Ferrer](https://open.spotify.com/artist/3It8AsQKxFW3Fx0FrrpF1z) | [Los panes los hijos](https://open.spotify.com/album/6C0litZn7pK31qXaGsI9ft) | 2:56 |
 | 100 | [Agua de Galicia](https://open.spotify.com/track/48zPOHTSD7edQnUa228nna) | [Sara Sístole](https://open.spotify.com/artist/5IITtWpOwYWgCQOC5saIg8) | [Amar La Sed](https://open.spotify.com/album/5gMxIQExjzRDvEYt1BISQU) | 2:35 |
 
-Snapshot ID: `AAAAAOfc9RSa17ewMOC/U5xSG2VRe/fq`
+Snapshot ID: `AAAAAGyYLgDJdODEZRr9frZSfh9Wly/f`

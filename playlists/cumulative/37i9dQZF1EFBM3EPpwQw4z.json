@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188000,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/4GavDWsnBIP0Q9GfQkhvyD"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 212500,
       "name": "Get So Close",
       "url": "https://open.spotify.com/track/2NkC2GxIq0hhluqflg8AhW"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 225000,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/20gc52nPIfr9tuvTe2RukI"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 215500,
       "name": "Giver",
       "url": "https://open.spotify.com/track/0bT1k41qDD0fQUhlziToXT"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 233000,
       "name": "Heater",
       "url": "https://open.spotify.com/track/7953uVZSJG2MJGYOrilJDr"
@@ -1847,6 +1847,24 @@
     },
     {
       "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/4FtFMcEmtCfEG3tIdJdYBv"
+      },
+      "artists": [
+        {
+          "name": "Dj Lee",
+          "url": "https://open.spotify.com/artist/2Sl3fW1Veov188veobOHJZ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81732,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/7wz5w7iDG4WJcOrkw0ZrOA"
+    },
+    {
+      "album": {
         "name": "Giver",
         "url": "https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd"
       },
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 230000,
       "name": "Push",
       "url": "https://open.spotify.com/track/68yeGVCUVICu3EiPv9D9LY"
@@ -2174,7 +2192,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 300000,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/6UHGXZ9uMBMCdUrbZuj591"
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 288000,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/7dGc9PVajCX7ZEWt8Tu6qv"
@@ -2508,7 +2526,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 226000,
       "name": "Swear I Lost Myself",
       "url": "https://open.spotify.com/track/46juGXFzApK5CRGsXvOKFu"

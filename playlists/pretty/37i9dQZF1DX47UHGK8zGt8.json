@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 611749,
+  "num_followers": 611785,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,26 @@
     {
       "added_at": "2026-05-29 03:00:12",
       "album": {
+        "name": "Algo Me Diz",
+        "url": "https://open.spotify.com/album/6thHdBENSsVg9O5elJfW8I"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 210612,
+      "name": "Algo Me Diz",
+      "url": "https://open.spotify.com/track/0I2Qjv3OpCJ8kGN7emPUtz"
+    },
+    {
+      "added_at": "2026-05-29 03:00:12",
+      "album": {
         "name": "COR",
         "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
       },
@@ -727,22 +747,18 @@
     {
       "added_at": "2026-05-29 03:00:12",
       "album": {
-        "name": "Algo Me Diz",
-        "url": "https://open.spotify.com/album/6thHdBENSsVg9O5elJfW8I"
+        "name": "Balada do Amor Inabal\u00e1vel",
+        "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
       },
       "artists": [
         {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
         }
       ],
-      "duration_ms": 210612,
-      "name": "Algo Me Diz",
-      "url": "https://open.spotify.com/track/0I2Qjv3OpCJ8kGN7emPUtz"
+      "duration_ms": 142144,
+      "name": "Balada do Amor Inabal\u00e1vel",
+      "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
     },
     {
       "added_at": "2026-05-29 03:00:12",
@@ -767,6 +783,22 @@
     {
       "added_at": "2026-05-29 03:00:12",
       "album": {
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
+    },
+    {
+      "added_at": "2026-05-29 03:00:12",
+      "album": {
         "name": "Releituras",
         "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
       },
@@ -779,22 +811,6 @@
       "duration_ms": 178081,
       "name": "Coisas Que Eu Sei",
       "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
-    },
-    {
-      "added_at": "2026-05-29 03:00:12",
-      "album": {
-        "name": "Balada do Amor Inabal\u00e1vel",
-        "url": "https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 142144,
-      "name": "Balada do Amor Inabal\u00e1vel",
-      "url": "https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB"
     },
     {
       "added_at": "2026-05-29 03:00:12",
@@ -827,22 +843,6 @@
       "duration_ms": 267266,
       "name": "Quando Voc\u00ea Olha Pra Ela",
       "url": "https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq"
-    },
-    {
-      "added_at": "2026-05-29 03:00:12",
-      "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2026-05-29 03:00:12",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2026-05-29 03:00:12",
       "album": {
+        "name": "Tons de Marrom",
+        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Corpo Suado",
+      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
+    },
+    {
+      "added_at": "2026-05-29 03:00:12",
+      "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 223808,
       "name": "Do Que \u00e9 Feito o Amor?",
       "url": "https://open.spotify.com/track/4NiuvO3nSHWYbnlpXtEX7I"
-    },
-    {
-      "added_at": "2026-05-29 03:00:12",
-      "album": {
-        "name": "Tons de Marrom",
-        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "Corpo Suado",
-      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
     },
     {
       "added_at": "2026-05-29 03:00:12",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-05-29 03:00:12",
       "album": {
-        "name": "When The Wind Blows (Private Sessions)",
-        "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 244393,
-      "name": "When The Wind Blows - Private Sessions",
-      "url": "https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT"
-    },
-    {
-      "added_at": "2026-05-29 03:00:12",
-      "album": {
         "name": "Todo Caminho \u00c9 Sorte",
         "url": "https://open.spotify.com/album/1l0jOyAvq12BpfGz6vnqof"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 229480,
       "name": "Minha Felicidade",
       "url": "https://open.spotify.com/track/6sW59B995jzBoLxWBhXPbK"
+    },
+    {
+      "added_at": "2026-05-29 03:00:12",
+      "album": {
+        "name": "When The Wind Blows (Private Sessions)",
+        "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 244393,
+      "name": "When The Wind Blows - Private Sessions",
+      "url": "https://open.spotify.com/track/1julDWnnvC3atzDs8AQ9IT"
     },
     {
       "added_at": "2026-05-29 03:00:12",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2026-05-29 03:00:12",
       "album": {
-        "name": "Kavita 1",
-        "url": "https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        },
-        {
-          "name": "Leci Brandao",
-          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
-        }
-      ],
-      "duration_ms": 392813,
-      "name": "Z\u00e9 Do Caro\u00e7o",
-      "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
-    },
-    {
-      "added_at": "2026-05-29 03:00:12",
-      "album": {
         "name": "Sentido",
         "url": "https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0"
       },
@@ -1679,18 +1659,22 @@
     {
       "added_at": "2026-05-29 03:00:12",
       "album": {
-        "name": "Banho de Folhas",
-        "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
+        "name": "Kavita 1",
+        "url": "https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO"
       },
       "artists": [
         {
-          "name": "Xande de Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+        },
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
         }
       ],
-      "duration_ms": 231017,
-      "name": "Banho de Folhas",
-      "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
+      "duration_ms": 392813,
+      "name": "Z\u00e9 Do Caro\u00e7o",
+      "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
     },
     {
       "added_at": "2026-05-29 03:00:12",
@@ -1707,6 +1691,22 @@
       "duration_ms": 158295,
       "name": "Outro Algu\u00e9m - Ao Vivo",
       "url": "https://open.spotify.com/track/64yBHtShxbb2ULPhakxsJv"
+    },
+    {
+      "added_at": "2026-05-29 03:00:12",
+      "album": {
+        "name": "Banho de Folhas",
+        "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
+      },
+      "artists": [
+        {
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 231017,
+      "name": "Banho de Folhas",
+      "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
     },
     {
       "added_at": "2026-05-29 03:00:12",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2026-05-29 03:00:12",
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/3GGUhsGGdHx4LFSJRNEFK8"
+      },
+      "artists": [
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "duration_ms": 236495,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/7GG0LrteBlJ1Rvkn33S4tf"
+    },
+    {
+      "added_at": "2026-05-29 03:00:12",
+      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 160825,
       "name": "Descubra Sua For\u00e7a",
       "url": "https://open.spotify.com/track/49jghinMiDdkPfjRSeOu8q"
-    },
-    {
-      "added_at": "2026-05-29 03:00:12",
-      "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/3GGUhsGGdHx4LFSJRNEFK8"
-      },
-      "artists": [
-        {
-          "name": "Ana Laura Lopes",
-          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
-        }
-      ],
-      "duration_ms": 236495,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/7GG0LrteBlJ1Rvkn33S4tf"
     },
     {
       "added_at": "2026-05-29 03:00:12",

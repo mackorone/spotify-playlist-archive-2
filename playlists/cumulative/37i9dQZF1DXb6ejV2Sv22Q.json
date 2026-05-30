@@ -2643,6 +2643,32 @@
     },
     {
       "album": {
+        "name": "los ni\u00f1os de azul",
+        "url": "https://open.spotify.com/album/1HwxLDptUfBD7zDNUANyjK"
+      },
+      "artists": [
+        {
+          "name": "Mikeanyway",
+          "url": "https://open.spotify.com/artist/5WFfC7WtTF7DrbqSpc2A7M"
+        },
+        {
+          "name": "Tzunami",
+          "url": "https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8"
+        },
+        {
+          "name": "Alexxbacacho",
+          "url": "https://open.spotify.com/artist/0B1AssDwSsJD8QdqM6o5Ml"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172304,
+      "name": "de nuevo pa' Marte",
+      "url": "https://open.spotify.com/track/52Obz4fuhthl4amjcKOeF0"
+    },
+    {
+      "album": {
         "name": "Dealer",
         "url": "https://open.spotify.com/album/6kaHMsLHs2Vf7iBRWk7DQr"
       },
@@ -3294,6 +3320,28 @@
       "duration_ms": 242000,
       "name": "EL ELIXIR DE TUS LABIOS",
       "url": "https://open.spotify.com/track/1gZq0d0TD4Cq8oe1MN8V1I"
+    },
+    {
+      "album": {
+        "name": "El Problema Eras T\u00fa",
+        "url": "https://open.spotify.com/album/4xKwnqFUiCk5lgMmJfUuRd"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192086,
+      "name": "El Problema Eras T\u00fa",
+      "url": "https://open.spotify.com/track/5chSieINSaqzNxMtht6zEC"
     },
     {
       "album": {
@@ -5000,7 +5048,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 156466,
       "name": "Jenni Rivera",
       "url": "https://open.spotify.com/track/5iyLTZ1YvtSYMdHsrwzuA3"
@@ -5860,10 +5908,32 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 207631,
       "name": "Los Colores de Mi Piel",
       "url": "https://open.spotify.com/track/45AJKxv7IgmsQmdIjV5eIj"
+    },
+    {
+      "album": {
+        "name": "hoy les digo que",
+        "url": "https://open.spotify.com/album/6ArPxheUgUkE5lfXli0vxA"
+      },
+      "artists": [
+        {
+          "name": "1702",
+          "url": "https://open.spotify.com/artist/01qP45vTj8wyA2YllLfzfS"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236341,
+      "name": "los quiero de verdad",
+      "url": "https://open.spotify.com/track/6mhuq822JPDG5gEp5Ey2KF"
     },
     {
       "album": {
@@ -10898,7 +10968,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 154506,
       "name": "Una Vez Y Ya",
       "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"

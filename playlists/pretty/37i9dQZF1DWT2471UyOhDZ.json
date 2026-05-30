@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Bleachers",
-  "num_followers": 93678,
+  "num_followers": 93673,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "The Banjo Song",
-        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "The Banjo Song",
-      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "The Rope",
         "url": "https://open.spotify.com/album/27ABxgs5YasDR0BxiPMiId"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 190574,
       "name": "The Rope",
       "url": "https://open.spotify.com/track/6HYHIPcS5U0PLhD6u43MRX"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "The Banjo Song",
+        "url": "https://open.spotify.com/album/1FElMhQ7y5kl7DhW6e1rDn"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "The Banjo Song",
+      "url": "https://open.spotify.com/track/2SAbtWqrD3YT4oHq993bq1"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/5b7UrNnuckYDfCp6ZW0Sji"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 214381,
       "name": "Tractor Beam",
       "url": "https://open.spotify.com/track/6wZePFKufqT4ZRQwTY3TiH"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -759,18 +759,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "5words",
-        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
       },
       "artists": [
         {
-          "name": "RIP Magic",
-          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
         }
       ],
-      "duration_ms": 317613,
-      "name": "5words",
-      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
+      "duration_ms": 156386,
+      "name": "80 Days",
+      "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -791,18 +791,34 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
       "artists": [
         {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
         }
       ],
-      "duration_ms": 156386,
-      "name": "80 Days",
-      "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
+      "duration_ms": 257400,
+      "name": "Iceberg",
+      "url": "https://open.spotify.com/track/7db86FvWNptUWJIFwvjiCG"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "5words",
+        "url": "https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "duration_ms": 317613,
+      "name": "5words",
+      "url": "https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -819,22 +835,6 @@
       "duration_ms": 259053,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 257400,
-      "name": "Iceberg",
-      "url": "https://open.spotify.com/track/7db86FvWNptUWJIFwvjiCG"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Taxes",
-        "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 197661,
-      "name": "Taxes",
-      "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 169610,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Taxes",
+        "url": "https://open.spotify.com/album/7uY2QygHF2ZNHbb0lxRadE"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 197661,
+      "name": "Taxes",
+      "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "I quit",
-        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 202626,
-      "name": "All over me",
-      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Maybe Not Tonight",
         "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+        "name": "I quit",
+        "url": "https://open.spotify.com/album/2Ub8XBjb6OsCIwM8KA9Sa6"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+      "duration_ms": 202626,
+      "name": "All over me",
+      "url": "https://open.spotify.com/track/4DHDIHlWldxXFqCugQCq8m"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1047,6 +1031,22 @@
       "duration_ms": 191620,
       "name": "Little Black Dress",
       "url": "https://open.spotify.com/track/5lDV7OJxjzx4ln8DPZNLeR"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Mud",
-        "url": "https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 127714,
-      "name": "Mud",
-      "url": "https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Television Love",
         "url": "https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 280800,
       "name": "Television Love",
       "url": "https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 127714,
+      "name": "Mud",
+      "url": "https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Incomprehensible",
-        "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
+        "name": "Get Sunk",
+        "url": "https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz"
       },
       "artists": [
         {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
         }
       ],
-      "duration_ms": 233307,
-      "name": "Incomprehensible",
-      "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
+      "duration_ms": 235106,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
+        "name": "Shells",
+        "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Shells",
+      "url": "https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
         "name": "Pined For You My Whole Life",
         "url": "https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey"
       },
@@ -1415,34 +1431,18 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Get Sunk",
-        "url": "https://open.spotify.com/album/7a2Z3UzPx9HHbRgsJbytdz"
+        "name": "Incomprehensible",
+        "url": "https://open.spotify.com/album/7IcMyoc3AX2VU0WG6vpMB7"
       },
       "artists": [
         {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 235106,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/35hdttiIfLS8MkZPZgRNMx"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
-        "name": "Shells",
-        "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Shells",
-      "url": "https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje"
+      "duration_ms": 233307,
+      "name": "Incomprehensible",
+      "url": "https://open.spotify.com/track/1sXdUadp0TcENaTscPUu8v"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "Everybody Laughs",
-        "url": "https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL"
-      },
-      "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
-        {
-          "name": "Ghost Train Orchestra",
-          "url": "https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Everybody Laughs",
-      "url": "https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Begging for Change",
         "url": "https://open.spotify.com/album/5zBcEC1VJgZVK9PSJL7udw"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 260550,
       "name": "Begging for Change",
       "url": "https://open.spotify.com/track/0HeZeCEzrXPXdaTD9JDA4a"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Everybody Laughs",
+        "url": "https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "Ghost Train Orchestra",
+          "url": "https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Everybody Laughs",
+      "url": "https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "PLAY ME",
-        "url": "https://open.spotify.com/album/04tCM2W8CvOXQBy4bBHlXk"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 120090,
-      "name": "NO HANDS",
-      "url": "https://open.spotify.com/track/0Ius1utxt6FWkzrvPyrTQ2"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "The Forest Is The Path (Extended Edition)",
         "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 228999,
       "name": "drains",
       "url": "https://open.spotify.com/track/73kYiEtR4NgVdIyQF3pYsK"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "PLAY ME",
+        "url": "https://open.spotify.com/album/04tCM2W8CvOXQBy4bBHlXk"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 120090,
+      "name": "NO HANDS",
+      "url": "https://open.spotify.com/track/0Ius1utxt6FWkzrvPyrTQ2"
     },
     {
       "added_at": "2026-04-30 23:01:24",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-04-30 23:01:24",
       "album": {
-        "name": "All The People (\u6240\u6709\u4eba)",
-        "url": "https://open.spotify.com/album/0nC0feKX2EiVtfEQLHAUV2"
-      },
-      "artists": [
-        {
-          "name": "Chinese American Bear",
-          "url": "https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh"
-        }
-      ],
-      "duration_ms": 213322,
-      "name": "All The People (\u6240\u6709\u4eba)",
-      "url": "https://open.spotify.com/track/4P1jRNtwsrEx72UfiZnlIv"
-    },
-    {
-      "added_at": "2026-04-30 23:01:24",
-      "album": {
         "name": "Come Over, Do Me Wrong",
         "url": "https://open.spotify.com/album/57uLR6kBn4y4a7dfo3NoN0"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 270319,
       "name": "Come Over, Do Me Wrong",
       "url": "https://open.spotify.com/track/0WjU2ltA87PJjO6u6YsvHl"
+    },
+    {
+      "added_at": "2026-04-30 23:01:24",
+      "album": {
+        "name": "Tomorrow is Perfect",
+        "url": "https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "duration_ms": 381560,
+      "name": "Tomorrow is Perfect",
+      "url": "https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC"
     }
   ],
   "unique_name": "The Listening Post",

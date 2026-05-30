@@ -1849,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "Always Paris",
+        "url": "https://open.spotify.com/album/254TGRCoEAhPX4ztHhyhp3"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184183,
+      "name": "Always Paris",
+      "url": "https://open.spotify.com/track/7axnFTbwWg0Qenx9aFTB8G"
+    },
+    {
+      "album": {
         "name": "Amble",
         "url": "https://open.spotify.com/album/0WtbPJ5f9h1LGb2QyqmK5s"
       },
@@ -3423,6 +3441,24 @@
     },
     {
       "album": {
+        "name": "Breaking Point",
+        "url": "https://open.spotify.com/album/5vvzk70TxI4TptEE27DEJC"
+      },
+      "artists": [
+        {
+          "name": "Gottfried Barber Trio",
+          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239258,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/1w4GfSzRoYvgnUXRFvnfP7"
+    },
+    {
+      "album": {
         "name": "Nightcaps",
         "url": "https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja"
       },
@@ -4676,7 +4712,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 253350,
       "name": "Cool Breeze",
       "url": "https://open.spotify.com/track/0dzh53o5y3EqVcjicXRcGN"
@@ -8249,6 +8285,24 @@
     },
     {
       "album": {
+        "name": "Here we are (right now)",
+        "url": "https://open.spotify.com/album/0KRRRSFaWjduRJOOyZi7hb"
+      },
+      "artists": [
+        {
+          "name": "Nathan Hill Trio",
+          "url": "https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236186,
+      "name": "Here we are (right now)",
+      "url": "https://open.spotify.com/track/5P9f1FQwvdcjrVGyCeBuVU"
+    },
+    {
+      "album": {
         "name": "Here's That Rainy Day",
         "url": "https://open.spotify.com/album/6pqnv43CbP2jV3A4AySGfG"
       },
@@ -8656,7 +8710,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 244874,
       "name": "I Adore You",
       "url": "https://open.spotify.com/track/4LF5NvC0jVrKsevrY1kYJA"
@@ -10276,7 +10330,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 192628,
       "name": "Indulge Me",
       "url": "https://open.spotify.com/track/7teI1ZZM3m5Mgh04CW0gDP"
@@ -11500,7 +11554,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 189016,
       "name": "Last Night at the Cedar Tavern",
       "url": "https://open.spotify.com/track/22WIvZ04x2ARzjRwzEsNtU"
@@ -15064,7 +15118,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 215546,
       "name": "Nolita",
       "url": "https://open.spotify.com/track/2QW2wMMnxkTAHxMVulVZGd"
@@ -15392,6 +15446,24 @@
       "duration_ms": 239513,
       "name": "Oh, You Crazy Moon",
       "url": "https://open.spotify.com/track/0ev5ZUSI3YFByFX9EfRUWl"
+    },
+    {
+      "album": {
+        "name": "Ol' Times Sake",
+        "url": "https://open.spotify.com/album/4tjEGNeuxRCCe4BGJFfe2X"
+      },
+      "artists": [
+        {
+          "name": "Niels Henningsen",
+          "url": "https://open.spotify.com/artist/6j9utDobDDjqHOlkOlpg0x"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179566,
+      "name": "Ol' Times Sake",
+      "url": "https://open.spotify.com/track/2vWugjTxYQsFRz3POPytWi"
     },
     {
       "album": {
@@ -16738,7 +16810,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 209594,
       "name": "Reacquainted",
       "url": "https://open.spotify.com/track/0MdFNrukQ56KurgxVNTNm2"
@@ -18042,6 +18114,24 @@
       "duration_ms": 197723,
       "name": "Sn\u00f8",
       "url": "https://open.spotify.com/track/1CgH8hDlSPvGBsSGKaXZAa"
+    },
+    {
+      "album": {
+        "name": "So, So Hungry for You",
+        "url": "https://open.spotify.com/album/5lOlPgwT0JfoMsHRyratkD"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305568,
+      "name": "So, So Hungry for You",
+      "url": "https://open.spotify.com/track/2Xl7lgmTmeTyt5AueuGOdF"
     },
     {
       "album": {
@@ -22420,6 +22510,24 @@
       "duration_ms": 200214,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1EPcmwgKuXclBG0fiWmiH6"
+    },
+    {
+      "album": {
+        "name": "Waiting at the Station",
+        "url": "https://open.spotify.com/album/6izvd7HoP7EJKdb81tpUFD"
+      },
+      "artists": [
+        {
+          "name": "The Soulful Strut",
+          "url": "https://open.spotify.com/artist/2WmxhCJKKXBoZywcTee5wM"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194411,
+      "name": "Waiting at the Station",
+      "url": "https://open.spotify.com/track/6iIIhMUI8b0ML8PsoExT8t"
     },
     {
       "album": {

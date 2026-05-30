@@ -78,7 +78,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 151267,
       "name": "1234",
       "url": "https://open.spotify.com/track/3Q4c260OtcneST0kSXoLnE"
@@ -1746,6 +1746,24 @@
       "duration_ms": 176874,
       "name": "Apart",
       "url": "https://open.spotify.com/track/1Ro0iWE2IjxZqwM6i0CgTL"
+    },
+    {
+      "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/2L6FoVC48uSB54QpfxZdS8"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/2BRxZXodJKlPvC0eq5VZFn"
     },
     {
       "album": {
@@ -4548,7 +4566,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 195692,
       "name": "Booty Percolatin' - Wet Velvet & TCHiLT Remix",
       "url": "https://open.spotify.com/track/33WIJBqaaBWPjfdUBk4x0R"
@@ -5239,6 +5257,24 @@
     },
     {
       "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/1Xua1uf9DhUlYfNjh9rztu"
+      },
+      "artists": [
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193479,
+      "name": "Broken Calculator",
+      "url": "https://open.spotify.com/track/7sjwnLjMRgSq4EQCzLveaa"
+    },
+    {
+      "album": {
         "name": "Broken Hearted (feat. Julia Church)",
         "url": "https://open.spotify.com/album/4YzBqD277ZTx7qtXI1wwSp"
       },
@@ -5926,7 +5962,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 146517,
       "name": "Candy P",
       "url": "https://open.spotify.com/track/66hh5gGtf4Z3AfT5mljhdV"
@@ -6918,7 +6954,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 171428,
       "name": "Cocaine Inside My Blunts (Tape B Remix)",
       "url": "https://open.spotify.com/track/5uCOhMc7WQy7jawqJbdhh2"
@@ -8768,7 +8804,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 132000,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/09qze0BFdLERhcw0058gNv"
@@ -10482,7 +10518,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 253714,
       "name": "Echo Chamber",
       "url": "https://open.spotify.com/track/7sJ4ue5uhSaXnNlmBWOyuv"
@@ -11455,6 +11491,32 @@
     },
     {
       "album": {
+        "name": "Eyes Cut Deeper (Crankdat Remix)",
+        "url": "https://open.spotify.com/album/1mWH95UcqhIYJHQmk8hydv"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243380,
+      "name": "Eyes Cut Deeper - Crankdat Remix",
+      "url": "https://open.spotify.com/track/2qwDBUFbjlzSQnOLOa6V7m"
+    },
+    {
+      "album": {
         "name": "EYES ON ME",
         "url": "https://open.spotify.com/album/7vZcwbfpxJoSlWvcrtGmBB"
       },
@@ -11738,6 +11800,24 @@
       "duration_ms": 217600,
       "name": "fall into you",
       "url": "https://open.spotify.com/track/3lllNdHwDYVRlRxK7Dcd2p"
+    },
+    {
+      "album": {
+        "name": "DESTRUCTION OF A UFO",
+        "url": "https://open.spotify.com/album/7KToeeuacOaEySYFDzjVTk"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213230,
+      "name": "FALL WITH ME",
+      "url": "https://open.spotify.com/track/64R7y9nCSQtZXPTsSBxUhe"
     },
     {
       "album": {
@@ -15884,7 +15964,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 208695,
       "name": "HEAVYWEIGHT (feat. Space Laces)",
       "url": "https://open.spotify.com/track/6VphpbVkmB65W5EHwPpNrx"
@@ -17452,7 +17532,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 202105,
       "name": "i go hard",
       "url": "https://open.spotify.com/track/4zBWyLe96iTLDSu68zneAj"
@@ -19918,7 +19998,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 227142,
       "name": "Let It Go (feat. Micah Martin)",
       "url": "https://open.spotify.com/track/0MgA5mQ4YspY5TKu6p6JeU"
@@ -20602,6 +20682,24 @@
       "duration_ms": 187500,
       "name": "Live For The Highs",
       "url": "https://open.spotify.com/track/1mWNh7MfEVEpikY11w4LtA"
+    },
+    {
+      "album": {
+        "name": "LOADED",
+        "url": "https://open.spotify.com/album/42Hu4og1F4k76S2kmDBk1K"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "LOADED",
+      "url": "https://open.spotify.com/track/3PhCbTYdxv5O9nGOzDHhkV"
     },
     {
       "album": {
@@ -22762,6 +22860,24 @@
       "duration_ms": 193103,
       "name": "MOTION",
       "url": "https://open.spotify.com/track/3zOHSTVeWT8qwTESyFdZoy"
+    },
+    {
+      "album": {
+        "name": "Motion Detected",
+        "url": "https://open.spotify.com/album/4m7RgMtt0PoU4tsgM2xOQ2"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Motion Detected",
+      "url": "https://open.spotify.com/track/4NOsf6p2Xnqpupe3dnR4xn"
     },
     {
       "album": {
@@ -26014,7 +26130,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 172344,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/2VxfVbANSIC8gHgiqJ2j3X"
@@ -27158,7 +27274,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 180413,
       "name": "Psych Ward!",
       "url": "https://open.spotify.com/track/055fkJ4voIArpXrHhFCjWA"
@@ -27894,7 +28010,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 199436,
       "name": "RAW",
       "url": "https://open.spotify.com/track/06QkznUonxRfTPaX6jRjRO"
@@ -28696,6 +28812,32 @@
       "duration_ms": 173609,
       "name": "Rewind.. (But I Love You)",
       "url": "https://open.spotify.com/track/2v5lLKdZG0PsXGWfvigk55"
+    },
+    {
+      "album": {
+        "name": "RIDDEM",
+        "url": "https://open.spotify.com/album/6K0oLtutn78F9CXO6IOQ2g"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Allenora",
+          "url": "https://open.spotify.com/artist/7bPZHSmeAYFS6svtey8re0"
+        },
+        {
+          "name": "America Foster",
+          "url": "https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "RIDDEM",
+      "url": "https://open.spotify.com/track/1bkjMSYQVJJtxIZTykflfg"
     },
     {
       "album": {
@@ -34737,6 +34879,28 @@
     },
     {
       "album": {
+        "name": "THIGHS (up)",
+        "url": "https://open.spotify.com/album/25jdNZ36W7Yn7bWGfn3Qlz"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Crumb Pit",
+          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "THIGHS (up)",
+      "url": "https://open.spotify.com/track/491ojG5dWqokrVgGltDdRH"
+    },
+    {
+      "album": {
         "name": "Think Of Me (feat. SOUNDR)",
         "url": "https://open.spotify.com/album/23c9KX69PSfZIDaeVPvq9O"
       },
@@ -34866,6 +35030,36 @@
       "duration_ms": 231272,
       "name": "This Way",
       "url": "https://open.spotify.com/track/5AvpUn8f14RPhZxiI4YkSm"
+    },
+    {
+      "album": {
+        "name": "Thistle",
+        "url": "https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Randomer",
+          "url": "https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h"
+        },
+        {
+          "name": "Blawan",
+          "url": "https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235034,
+      "name": "Thistle",
+      "url": "https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg"
     },
     {
       "album": {
@@ -39056,7 +39250,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 185142,
       "name": "you\u2019re a star - Skream & Benga remix",
       "url": "https://open.spotify.com/track/1b76GMDZIxrB0Ig9xZLchd"

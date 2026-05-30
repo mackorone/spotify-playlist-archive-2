@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Kanine
 
-360 songs - 22 hr 52 min
+361 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,12 +108,13 @@
 | [Drop It](https://open.spotify.com/track/4I9vO5QOgxfGCOo3iwyW6v) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi) | [Drop It](https://open.spotify.com/album/4KHGh98gIT10KOj65f9jEC) | 4:09 | 2025-02-21 | 2025-05-30 |
 | [Eat $hit](https://open.spotify.com/track/2RwD63NEvCaJPiNOM0knae) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [AIRGLO](https://open.spotify.com/artist/6J9iVHqjoo2ZCXq4kVgm4Z) | [Eat $hit](https://open.spotify.com/album/6vPFYzc1O68UsQVaM28k03) | 3:00 | 2025-04-17 | 2025-07-10 |
 | [Elemental](https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Elemental](https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb) | 3:17 | 2022-05-06 | 2025-03-21 |
+| [Elevate \- SOTA Remix](https://open.spotify.com/track/5l1KPMsuhpp3aE4UoK8Hzx) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Elevate \(SOTA Remix\)](https://open.spotify.com/album/2NccNdznw705uZ4sfQ7FRY) | 3:21 | 2026-05-29 |  |
 | [Empire](https://open.spotify.com/track/1zJnBEBuLD42Ypoaum6BOu) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k) | [Empire](https://open.spotify.com/album/4sfEJd0kHLYe0x7qTrnugx) | 3:11 | 2025-12-12 | 2026-02-28 |
 | [Empire](https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Empire](https://open.spotify.com/album/33h47MZRYtzLnHjLTIPIFn) | 6:07 | 2022-05-06 | 2023-12-27 |
 | [Engage](https://open.spotify.com/track/4FH2tcOHKRGTvqGwGznCNm) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi) | [Engage](https://open.spotify.com/album/3gDD3cdVbQGa1Zf7cmSMJM) | 4:49 | 2024-11-22 | 2025-02-21 |
 | [Epicentre](https://open.spotify.com/track/54GrWSvAB0WfzqD6HWGwLe) | [Killbox](https://open.spotify.com/artist/4Dnr2f1jAcXzAhi8tMp2UO) | [Epicentre](https://open.spotify.com/album/7oRiboMyJOVRTz1cEJME19) | 4:16 | 2022-05-06 | 2022-07-25 |
 | [F\*ck Jump Up \(feat\. B Live\)](https://open.spotify.com/track/0XaKIs5sTAhmhUfwsqTKiB) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [F\*ck Jump Up \(feat\. B Live\)](https://open.spotify.com/album/1MPpDGXMybp6qXjA41frqh) | 3:44 | 2023-09-22 | 2026-01-16 |
-| [Fancy $hit \- Skepsis Remix](https://open.spotify.com/track/6vrHmb5lwdWKc9kdhGUv7Z) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Fancy $hit \(Skepsis Remix\)](https://open.spotify.com/album/0p1P9uYMuVESTEoj4uDUCG) | 2:37 | 2026-01-16 |  |
+| [Fancy $hit \- Skepsis Remix](https://open.spotify.com/track/6vrHmb5lwdWKc9kdhGUv7Z) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Fancy $hit \(Skepsis Remix\)](https://open.spotify.com/album/0p1P9uYMuVESTEoj4uDUCG) | 2:37 | 2026-01-16 | 2026-05-30 |
 | [Feel My Love](https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [Feel My Love](https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus) | 3:44 | 2026-05-21 |  |
 | [Feel The Pulse](https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Feel The Pulse](https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ) | 3:20 | 2025-10-09 |  |
 | [Feel The Vibration](https://open.spotify.com/track/3dcWKFefG4Otjdb6ykBVcY) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Feel The Vibration](https://open.spotify.com/album/4L2BjQY9sslyCYkcF8CsS0) | 3:21 | 2025-05-08 |  |

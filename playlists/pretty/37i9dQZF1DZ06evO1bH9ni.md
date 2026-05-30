@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 
 > This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,618 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,660 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 22 | [Kilómetro 11\-60 \- En Vivo](https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Corridos Con Olor a Monte \(En Vivo\)](https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU) | 3:25 |
 | 23 | [Nave 727](https://open.spotify.com/track/2qIcd6aIO3hPpUnl7gWNh6) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Nave 727](https://open.spotify.com/album/5K18JEMSLeib5SozcvHVJy) | 3:16 |
 | 24 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 |
-| 25 | [Lo Logré \(En Vivo\)](https://open.spotify.com/track/1fd44meocAPByn3w0Qp3LY) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Desde El Expendio \(En Vivo\)](https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs) | 3:36 |
-| 26 | [La Tóxica](https://open.spotify.com/track/24MhzcEo2Ud8eYFbJcps7y) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:32 |
+| 25 | [La Tóxica](https://open.spotify.com/track/24MhzcEo2Ud8eYFbJcps7y) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:32 |
+| 26 | [Lo Logré \(En Vivo\)](https://open.spotify.com/track/1fd44meocAPByn3w0Qp3LY) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Desde El Expendio \(En Vivo\)](https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs) | 3:36 |
 | 27 | [El Federal de Caminos](https://open.spotify.com/track/5gV3vaCDEedjUoFXqI6LGh) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Federal de Caminos](https://open.spotify.com/album/3S76sDaZy2ioOzhQX2ckOl) | 3:03 |
-| 28 | [La Opinión](https://open.spotify.com/track/33o2E1rmr8Jl2JO1fdLgHG) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Mis Compas El Final](https://open.spotify.com/album/1vTFwkahBUhneC1fmz3bRy) | 3:23 |
-| 29 | [El Corrido de Panchito](https://open.spotify.com/track/5X1fOMurUPOobZJj95NDef) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:22 |
+| 28 | [El Corrido de Panchito](https://open.spotify.com/track/5X1fOMurUPOobZJj95NDef) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:22 |
+| 29 | [La Opinión](https://open.spotify.com/track/33o2E1rmr8Jl2JO1fdLgHG) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Mis Compas El Final](https://open.spotify.com/album/1vTFwkahBUhneC1fmz3bRy) | 3:23 |
 | 30 | [El Bendecido](https://open.spotify.com/track/5a6YycqQLwAUBGQCX5re6o) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Bendecido](https://open.spotify.com/album/4OQ8xCHU77JxF2A6hMvXzk) | 2:38 |
 | 31 | [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 |
 | 32 | [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 49 | [El Chamaquito](https://open.spotify.com/track/7HLCx8bPfOMR2rDy8Dzuqg) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Chamaquito](https://open.spotify.com/album/0A27vM7tXZgr5dJwLR1SD5) | 2:48 |
 | 50 | [El Fue Arturo \- En Vivo](https://open.spotify.com/track/6B9VpihRaveXPH0awrkIBG) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 3:05 |
 
-Snapshot ID: `ahY0AAAAAABCaV6IyRtH8ohn2mAN/cFo`
+Snapshot ID: `aheFgAAAAAD5caUzot21NK7HFnSZ6OqD`

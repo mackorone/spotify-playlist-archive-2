@@ -1395,6 +1395,28 @@
     },
     {
       "album": {
+        "name": "Brown Paper Bag (feat. Keith Urban)",
+        "url": "https://open.spotify.com/album/2q6RAZKCK142iBsIMiprOB"
+      },
+      "artists": [
+        {
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
+        },
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175964,
+      "name": "Brown Paper Bag (feat. Keith Urban)",
+      "url": "https://open.spotify.com/track/6AQocHBa5FVwjHoqFgzjze"
+    },
+    {
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/4gHKX42TgeTtJ0ichg2C4O"
       },
@@ -1838,7 +1860,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 195119,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/4COHCCcZAdeVCnnK36kUNS"
@@ -2790,7 +2812,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 198133,
       "name": "Fastlane",
       "url": "https://open.spotify.com/track/0r4RAtWeSOx9lGRegJjG3T"
@@ -4391,6 +4413,28 @@
     },
     {
       "album": {
+        "name": "I Can\u2019t Hold Out",
+        "url": "https://open.spotify.com/album/12kopSY2LCMFSGcmlVaGmv"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148005,
+      "name": "I Can\u2019t Hold Out",
+      "url": "https://open.spotify.com/track/2PjKjXdPcYn155olSIFIcM"
+    },
+    {
+      "album": {
         "name": "I Feel So Good",
         "url": "https://open.spotify.com/album/3eae0rBXR5q244uoqnbhVd"
       },
@@ -5668,7 +5712,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 285080,
       "name": "Livin' It Up Down In Texas",
       "url": "https://open.spotify.com/track/56fMChBQ4TlnX9E56WsyUT"
@@ -6254,7 +6298,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 205411,
       "name": "Mississippi",
       "url": "https://open.spotify.com/track/3ykS8JhFli8fk4RyQewszO"
@@ -7076,6 +7120,24 @@
       "duration_ms": 208415,
       "name": "Pink Turns To Red",
       "url": "https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3"
+    },
+    {
+      "album": {
+        "name": "Pleasure Untold",
+        "url": "https://open.spotify.com/album/7Ei1Dtu1LWdlpTE1q3O6gu"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320691,
+      "name": "Pleasure Untold",
+      "url": "https://open.spotify.com/track/6iXxuZxQaQwWqGvq9fIpdH"
     },
     {
       "album": {
@@ -10586,6 +10648,24 @@
       "duration_ms": 194236,
       "name": "Worried About the Young (feat. Christone \"Kingfish\" Ingram)",
       "url": "https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y"
+    },
+    {
+      "album": {
+        "name": "Roots & Wings",
+        "url": "https://open.spotify.com/album/2E7yNO54IXDhJwDdRZ5ZM0"
+      },
+      "artists": [
+        {
+          "name": "Amani Burnham",
+          "url": "https://open.spotify.com/artist/32dCeVCZ26g53CDEETZOLD"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235306,
+      "name": "You Can't Heal What You Hide",
+      "url": "https://open.spotify.com/track/4Utooqc94lpk1RfWT2jSJu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Zaan Sonnekus and Tasché
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,720 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,737 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 21 | [KLEUR](https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH) | [MOEGOE](https://open.spotify.com/artist/3LuJllzfjmmo5p6R4HRbrZ) | [KLEUR](https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0) | 3:21 |
 | 22 | [A Little Less](https://open.spotify.com/track/5He1bjR7YKGzKi48UXzYVG) | [Blush](https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F) | [A Little Less](https://open.spotify.com/album/4cfrD9ge78TghfKNP7CEAx) | 3:22 |
 | 23 | [Elsie](https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb) | [Elsie](https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg) | 2:36 |
-| 24 | [My Huis](https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [My Huis](https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad) | 3:30 |
+| 24 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
 | 25 | [Rooksein](https://open.spotify.com/track/7c2I70ecb1SgpT8NjfUCa9) | [Millennium](https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw) | [Rooksein](https://open.spotify.com/album/4Wtgot5JENKdO24gDevxGl) | 3:39 |
-| 26 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
+| 26 | [My Huis](https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc) | [Van Der Aven](https://open.spotify.com/artist/24YKf4cTz4brZ8j8UShB2e), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [My Huis](https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad) | 3:30 |
 | 27 | [Sink](https://open.spotify.com/track/3VllAFxFDUr5r1AYoQMmA8) | [veervol](https://open.spotify.com/artist/6S9Gj59mCaPhVk0LzhCaaE) | [Sink](https://open.spotify.com/album/4LWDIIAQiJGt6nFijQKv6j) | 3:52 |
 | 28 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
 | 29 | [Gatvol](https://open.spotify.com/track/07uTj3wCEQf5d1K34KZh8P) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Gatvol](https://open.spotify.com/album/5E7TdN3L8hkXbusyHFlbKI) | 2:46 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 34 | [Change](https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv) | [GRANGE](https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb) | [Change](https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah) | 3:59 |
 | 35 | [Sonskyn Vrou](https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl) | [Hendré Baard](https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R) | [Sonskyn Vrou](https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1) | 4:26 |
 | 36 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
-| 37 | [Doen Sy Bes](https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Nou Toer Ons!](https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89) | 2:58 |
-| 38 | [Kenia](https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Kenia](https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2) | 3:45 |
+| 37 | [Kenia](https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Kenia](https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2) | 3:45 |
+| 38 | [Doen Sy Bes](https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Nou Toer Ons!](https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89) | 2:58 |
 | 39 | [Kies](https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Kies](https://open.spotify.com/album/3SjkIeXyLQ4lkpc85KslZs) | 3:28 |
 | 40 | [Phoenix](https://open.spotify.com/track/11D5Tz757nMHDd0udbNYBt) | [Frans Karoo](https://open.spotify.com/artist/327EzTZc6z3mGwHbdaNKBO) | [Phoenix](https://open.spotify.com/album/5wZy1AyhZ5zh5X9AIuyWqh) | 3:03 |
 | 41 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 44 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
 | 45 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 46 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 |
-| 47 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
-| 48 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
-| 49 | [Dis Okay](https://open.spotify.com/track/15JYg6CvzKYMpaAivyC65P) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Dis Okay](https://open.spotify.com/album/1fKwNlSRfPn3yyIdY18hKP) | 3:01 |
-| 50 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
+| 47 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
+| 48 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
+| 49 | [Judas Mind \- edit](https://open.spotify.com/track/4GGLOcwYvTdWq3Tfvynt7K) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Judas Mind](https://open.spotify.com/album/4dlZeO4qr4ZVNDeuAUjjbl) | 4:04 |
+| 50 | [Dis Okay](https://open.spotify.com/track/15JYg6CvzKYMpaAivyC65P) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65) | [Dis Okay](https://open.spotify.com/album/1fKwNlSRfPn3yyIdY18hKP) | 3:01 |
 
 Snapshot ID: `AAAAAMuI5cica8NWtZECQkMxQ+MRi/yH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Conton Candy
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,649 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,647 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 18 | [もういらない](https://open.spotify.com/track/6OCA8XsHPechSuoniPVw2R) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [もういらない](https://open.spotify.com/album/206ZAfWibaoGfkQ6sJwoSa) | 3:05 |
 | 19 | [恥ずかしいか青春は](https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [恥ずかしいか青春は](https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW) | 4:29 |
 | 20 | [DIY](https://open.spotify.com/track/2BwfC8I7Y7IqOGDq2P9qcV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [DIY](https://open.spotify.com/album/40lBXGiHkC8ADfs5wip9jE) | 2:28 |
-| 21 | [間人間](https://open.spotify.com/track/0yNQwwEmuMnLz5WekZzo1j) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [形藻土](https://open.spotify.com/album/5BmBdOh7Q78sz2TWLtRmF5) | 4:04 |
-| 22 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
+| 21 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
+| 22 | [間人間](https://open.spotify.com/track/0yNQwwEmuMnLz5WekZzo1j) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [形藻土](https://open.spotify.com/album/5BmBdOh7Q78sz2TWLtRmF5) | 4:04 |
 | 23 | [DARMA GRAND PRIX](https://open.spotify.com/track/3ObSLLg2RNv3vhL2fIB5EK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [DARMA GRAND PRIX](https://open.spotify.com/album/0lfdhZeXQ140S9DmUss843) | 4:19 |
 | 24 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
 | 25 | [社会の左](https://open.spotify.com/track/4PGcKMEkq12yHVjn5IS46i) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [社会の左](https://open.spotify.com/album/7wBHzWSSePbWM4ABHjA6Pu) | 3:04 |
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 30 | [Revival](https://open.spotify.com/track/6vWrFTC5PrDDgMQNhoWoE7) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [Revival](https://open.spotify.com/album/4fhp7mvFmve4P2m2oBYEqt) | 3:32 |
 | 31 | [憂、燦々](https://open.spotify.com/track/65npSVkyhQVDDqOsbOW0Aa) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [憂、燦々](https://open.spotify.com/album/7d4ruxnSzZwJNn4txVARK4) | 4:09 |
 | 32 | [鏡に恋して](https://open.spotify.com/track/1DrDELqHERt3YQ0Q4y5MDK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [SOME BUDDY](https://open.spotify.com/album/03noS9IVsR6kLzt5PVa9Dn) | 3:35 |
-| 33 | [風に乗る](https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [風に乗る](https://open.spotify.com/album/3SAOqFr1FNxtHm3yNoKWKt) | 3:36 |
+| 33 | [芽吹くとき](https://open.spotify.com/track/5B5sSaCM7BjL729CNMWNw5) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [芽吹くとき](https://open.spotify.com/album/3FO16Ay7UtFOnJeH33CJ2d) | 3:39 |
 | 34 | [ブルー](https://open.spotify.com/track/6773G0vy7KnC1c5mnHyVbf) | [kanekoayano](https://open.spotify.com/artist/57pOIEYikq3gxJLw3l0a7c) | [ブルー/まだ問題ない](https://open.spotify.com/album/08xScu3cYp3QW5kakLd17P) | 4:50 |
 | 35 | [sunday driver](https://open.spotify.com/track/53Hc3XjCHfBDzz3ZsjBEhs) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:38 |
-| 36 | [芽吹くとき](https://open.spotify.com/track/5B5sSaCM7BjL729CNMWNw5) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [芽吹くとき](https://open.spotify.com/album/3FO16Ay7UtFOnJeH33CJ2d) | 3:39 |
+| 36 | [風に乗る](https://open.spotify.com/track/6cnTc9TUiWPnORVWCRdwXD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [風に乗る](https://open.spotify.com/album/3SAOqFr1FNxtHm3yNoKWKt) | 3:36 |
 | 37 | [Value](https://open.spotify.com/track/6BEnpVB7g2j8mzWs3MC2kh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Value](https://open.spotify.com/album/63xNXfql8mdsOd1fZjodbf) | 3:05 |
 | 38 | [ハッピーラッキーチャッピー](https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [BONE BORN BOMB](https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC) | 3:04 |
 | 39 | [ホレタハレタ](https://open.spotify.com/track/0PHMmilCr5oGP9OrkNzTn5) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [キラーパス](https://open.spotify.com/album/541MeMwAFGkHslqZMrp0aW) | 4:24 |
@@ -59,13 +59,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 49 | [FEVER TIME](https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [FEVER TIME](https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x) | 3:44 |
 | 50 | [クエスチョン](https://open.spotify.com/track/1Ix4GixUfVe2hJKZoY7H2n) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [クエスチョン](https://open.spotify.com/album/2AfYk9VN2ACnhxOT6xydRK) | 4:00 |
 | 51 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 |
-| 52 | [Bouquet](https://open.spotify.com/track/6AEiVvowy0FhIACwS9BROM) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [GLHF](https://open.spotify.com/album/5UosEfWZJZ7ol7WLerlTNq) | 3:35 |
-| 53 | [共犯者](https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [共犯者](https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i) | 2:30 |
+| 52 | [共犯者](https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [共犯者](https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i) | 2:30 |
+| 53 | [Bouquet](https://open.spotify.com/track/6AEiVvowy0FhIACwS9BROM) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [GLHF](https://open.spotify.com/album/5UosEfWZJZ7ol7WLerlTNq) | 3:35 |
 | 54 | [春となり](https://open.spotify.com/track/6UFYmzhfHBkQXYAPo1cx35) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [春となり](https://open.spotify.com/album/2yeGeyMPqWp1ou9EKh1DI5) | 4:02 |
 | 55 | [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 |
 | 56 | [シェードの埃は延長](https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [シェードの埃は延長](https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ) | 3:52 |
-| 57 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 |
-| 58 | [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 |
+| 57 | [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 |
+| 58 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 |
 | 59 | [dedede](https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [dedede](https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI) | 2:55 |
 | 60 | [illusion](https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [illusion](https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ) | 3:15 |
 | 61 | [東京ゴッドストリートボーイズ](https://open.spotify.com/track/2nXJEs0KZQeNbPBNq9LFuJ) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [THE GOLDEN PROTOTYPE.](https://open.spotify.com/album/6bSIAAgutYicD50L9Bt2yl) | 3:50 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 64 | [アルビレオ](https://open.spotify.com/track/0vmpS70PWUYuJPPosYa5rD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [アルビレオ](https://open.spotify.com/album/2p1h2hbCyLKHCPMOwmG3Wc) | 3:27 |
 | 65 | [PLAYER 1](https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Channel U](https://open.spotify.com/album/086HxFr00ZoUPUewk20f6s) | 3:14 |
 | 66 | [Bouquet](https://open.spotify.com/track/05ye2p3KzCb5U3yO0pm2Df) | [NELKE](https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG) | [Bouquet](https://open.spotify.com/album/0zS093L9kzNadSjy9fjTHL) | 3:32 |
-| 67 | [絶絶絶絶対聖域](https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [絶絶絶絶対聖域](https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom) | 3:33 |
-| 68 | [リトルワールド](https://open.spotify.com/track/1cflsQcGcOcL7gkZaPyiYm) | [PompadollS](https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0) | [リトルワールド](https://open.spotify.com/album/1zAo81LJpiaH49DbvEKqCU) | 3:08 |
+| 67 | [リトルワールド](https://open.spotify.com/track/1cflsQcGcOcL7gkZaPyiYm) | [PompadollS](https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0) | [リトルワールド](https://open.spotify.com/album/1zAo81LJpiaH49DbvEKqCU) | 3:08 |
+| 68 | [絶絶絶絶対聖域](https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [絶絶絶絶対聖域](https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom) | 3:33 |
 | 69 | [キラキラの灰](https://open.spotify.com/track/0u0fZBgvRjNbzmiLyW6ITX) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [キラキラの灰](https://open.spotify.com/album/3k6e6pejyoAWZExzb2p8f2) | 4:07 |
 | 70 | [覚悟を決めろ!](https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 3:54 |
 | 71 | [ライアー](https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq) | [Kucci](https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5) | [ライアー](https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf) | 3:05 |
 | 72 | [Good Morning](https://open.spotify.com/track/4PCu8xygJhOG4TLNNw3LO4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Good Morning](https://open.spotify.com/album/5lf6d24IOe7lkGxaDQ6zE0) | 3:03 |
 | 73 | [赤いワインに涙が・・・](https://open.spotify.com/track/48N4QmxXPEzt3J9nDMaGP0) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [赤いワインに涙が・・・](https://open.spotify.com/album/3bsUrgtonRDuRrwKbdDBtx) | 3:59 |
 | 74 | [CRASH OUT!!!](https://open.spotify.com/track/6aSYoAORIn0mhwy2pAh3LT) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [CRASH OUT!!!](https://open.spotify.com/album/3b7VZfo0jA5ubB2suwF2kU) | 3:39 |
-| 75 | [DECOTORA15](https://open.spotify.com/track/3BMO8Ft3nSGezNGEqsbFjl) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [DECOTORA15](https://open.spotify.com/album/13clnrelj5KAwEbD3I5v2i) | 3:06 |
+| 75 | [初恋](https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [初恋](https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45) | 4:00 |
 
 Snapshot ID: `AAAAAHyqIUMu1CZVD4okKnfqZPArPNWF`

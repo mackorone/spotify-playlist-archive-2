@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "BOOMPALA (at PURE FLOWERS LIVE) l Presented by Spotify",
+        "url": "https://open.spotify.com/album/3SheoOcRqSqoeJdvfhZPHo"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182409,
+      "name": "BOOMPALA (at PURE FLOWERS LIVE) l Presented by Spotify",
+      "url": "https://open.spotify.com/track/4RpHkKbIFAc96Q2ep2eg6y"
+    },
+    {
+      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/1xHNZeSRJIJSxqPlvD2Jkw"
       },

@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,051 songs - 2 day 15 hr 50 min
+1,053 songs - 2 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [11 Y 6](https://open.spotify.com/track/2PkTjm1QAJCZbJ9MqC4RqA) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Giros](https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm) | 2:58 | 2021-12-24 |  |
 | [11 y 6](https://open.spotify.com/track/0opWAKmSxKmZgDKj1Dm6cb) | [Francisco Charco](https://open.spotify.com/artist/5ijGwdfVkIvawofd3jGp2b) | [11 y 6](https://open.spotify.com/album/3lH7IoDmv4xZCW6NTBveSI) | 3:38 | 2022-04-13 | 2022-04-21 |
 | [11 y 6](https://open.spotify.com/track/0d8xQb9zET1Jt61CwLbA1o) | [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [11 y 6](https://open.spotify.com/album/3iYNEe0eYNFKIwCmBx3aV9) | 5:01 | 2022-02-18 | 2022-07-28 |
-| [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 | 2022-03-24 |  |
+| [19 \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0mRmRzqq9vahlZoODOdLNQ) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Mordisco](https://open.spotify.com/album/5rFPwHadhlLDXzNaPcOaYD) | 3:17 | 2022-03-24 | 2026-05-30 |
 | [2U \- Acoustic Version](https://open.spotify.com/track/1jUyxF7NmNXGlZQDVw40O8) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [2U \(Acoustic Version\)](https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU) | 3:28 | 2022-03-24 | 2022-04-21 |
 | [50 Horas](https://open.spotify.com/track/5xiH2wHtpuOaNbxm9PAofT) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Que Esperas \(Versión Exclusiva\)](https://open.spotify.com/album/2vd3SPSRppBEPjRWoFTDRp) | 3:33 | 2021-12-24 | 2025-12-25 |
 | [7 Rings \- Acoustic Version](https://open.spotify.com/track/47PTdbgKqE5JZFCZ9Lh4al) | [The Mistrals](https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk) | [7 Rings \(Acoustic Version\)](https://open.spotify.com/album/11S56kFlwa4KbADJTpSBJv) | 3:11 | 2022-04-08 | 2022-04-12 |
@@ -674,6 +674,7 @@
 | [Ni una Gota de Amor](https://open.spotify.com/track/0bhDlHFULrnJgbTnh8B9x3) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Ni una Gota de Amor](https://open.spotify.com/album/5LgML12Rb7QlWZ9OzPd97y) | 2:31 | 2022-04-13 | 2022-04-18 |
 | [Ni una Gota de Amor](https://open.spotify.com/track/0PVGWa43dtdXgIOLLj4SBJ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y), [Rulo](https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ) | [Ni una Gota de Amor](https://open.spotify.com/album/3izUUhuSLHj37AONPpPYiP) | 2:35 | 2022-01-18 | 2022-05-11 |
 | [Niño Eterno](https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Niño Eterno](https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU) | 2:41 | 2022-03-28 | 2022-04-11 |
+| [Niña](https://open.spotify.com/track/7p2DcY1E4IcPxCi1dxYfpX) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Niña](https://open.spotify.com/album/00V6VizOVi4q0XTlC1MOgM) | 3:42 | 2026-05-29 |  |
 | [Niño Abuelo](https://open.spotify.com/track/4rbHaQb6Rx27ytx7tseIlW) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Niño Abuelo](https://open.spotify.com/album/2YpfRo0UqFLIcM68buArBe) | 4:30 | 2022-03-24 | 2022-04-07 |
 | [No Aguanto Más](https://open.spotify.com/track/1NBblhAr28FTAec6ViFQAk) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [No Aguanto Más](https://open.spotify.com/album/0oqgWBgh1BXPjfjqAJTCuc) | 3:46 | 2022-04-01 | 2022-04-21 |
 | [No Es un Juego](https://open.spotify.com/track/2VDg8c5oYcGjkEE0BpeLRa) | [Acero](https://open.spotify.com/artist/6lmCju6acWQGvPOZJuYsD2) | [No Es un Juego](https://open.spotify.com/album/2A6QWgwKPxoSBtgg8MtUtf) | 3:15 | 2022-04-13 | 2022-04-21 |
@@ -1007,8 +1008,9 @@
 | [Vení Mirá](https://open.spotify.com/track/1eaVLscCKBbqFQWlJM4UVb) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Vivo en el Sillón](https://open.spotify.com/album/7iOslvqM5fW1vfARRkojrO) | 3:44 | 2022-04-01 | 2022-04-07 |
 | [Veredas Opuestas](https://open.spotify.com/track/0vMWJPVfHgXCHdEKZuWm2I) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Cerro Dublín](https://open.spotify.com/album/5rLCOjWrccuxzkmsPHYWyb) | 2:39 | 2022-04-01 | 2022-04-20 |
 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 | 2021-12-24 | 2025-08-04 |
-| [Verte Reír](https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:26 | 2022-01-07 |  |
+| [Verte Reír](https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:26 | 2022-01-07 | 2026-05-30 |
 | [Viaje](https://open.spotify.com/track/3BW824tqfWRLv9UC51wwkK) | [Ignacio Agulles](https://open.spotify.com/artist/5OGiIDhzkSxIfmnqVQPVJx) | [Habitar Tu Cosmos](https://open.spotify.com/album/6JVkhlRUkXy1Bpx4YHeSui) | 4:18 | 2022-03-24 | 2022-04-19 |
+| [Viaje Tropical \- El lado B](https://open.spotify.com/track/1T6pfCOc803RV2LlRYwojH) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [El lado B](https://open.spotify.com/album/0herv01D7VruP9cPQli1xn) | 3:24 | 2026-05-29 |  |
 | [VIAJERXS](https://open.spotify.com/track/5w9yYfOEV9Eo4ptiMzzuUq) | [Miranda Myndlis](https://open.spotify.com/artist/0PgWnms78CLlPRS1smSAnh) | [VIAJERXS](https://open.spotify.com/album/4STKa7im5mdCeAZqwlnk5s) | 3:46 | 2022-03-28 | 2022-04-19 |
 | [Vida de Topos](https://open.spotify.com/track/3lL9MHVJizb451IfV7h6pj) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Experiencia 432 \(Bulín Finoli\)](https://open.spotify.com/album/6giDhT2UzrxXWmDDALFskA) | 4:09 | 2022-03-28 | 2022-04-14 |
 | [Vida Tu Eres Toda La Verdad](https://open.spotify.com/track/42fW6LZoL7gV0UkVrcN4D6) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [Vida Tu Eres Toda La Verdad](https://open.spotify.com/album/5gRFrrYcSx0ZjgeamHjmXU) | 2:42 | 2022-04-01 | 2022-04-14 |

@@ -4,7 +4,7 @@
 
 > The best pop music right now ft\. Lola Young
 
-874 songs - 1 day 22 hr 29 min
+875 songs - 1 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-07 | 2025-05-23 |
 | [Happier](https://open.spotify.com/track/20S9YwqCOx5cRRyseQ23Gf) | [Remember Monday](https://open.spotify.com/artist/3oIj2x6uKeZSe9Bprnt4TX) | [Happier](https://open.spotify.com/album/57wQFtbtACr9SPCueOrWQJ) | 3:28 | 2025-08-07 | 2025-09-19 |
 | [happier without you](https://open.spotify.com/track/5VMEfcC6EkBvY36ckKe5VT) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [early twenties](https://open.spotify.com/album/5GCKgRtjoKHzgxLS8tk6HC) | 3:06 | 2024-07-12 | 2024-10-04 |
+| [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 | 2026-05-29 |  |
 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 | 2024-06-28 | 2024-07-06 |
 | [headline](https://open.spotify.com/track/3AM5wx8YnsAnk5lu0tTUSX) | [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [headline](https://open.spotify.com/album/11SdwsbfYW3Q3wifQNJFS3) | 2:17 | 2024-06-28 | 2024-07-12 |
 | [Headphones On](https://open.spotify.com/track/1efXUbx5gsLd2sqjszBtx1) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Headphones On](https://open.spotify.com/album/7f72kJL3HyP6q6wW7Zvayn) | 4:00 | 2025-04-17 | 2025-06-27 |

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-489 songs - 1 day 3 hr 25 min
+490 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Bangkok Jam](https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS) | [John Taratsas](https://open.spotify.com/artist/4VkfNtbWEZMiOMm4NjNPnf) | [Bangkok Jam](https://open.spotify.com/album/2lldcVHNQyPzeWFrNZo0Oq) | 3:05 | 2025-11-08 | 2025-12-01 |
 | [BARRAS MUERTAS VOLUMEN I Bombazos y drones](https://open.spotify.com/track/1uLUyGP42aHnFJHc9NzjRd) | [YWES VETERANO](https://open.spotify.com/artist/3oa2NASd7MkDS5L41X4O9m) | [BARRAS MUERTAS VOLUMEN I Bombazos y drones](https://open.spotify.com/album/165muWTVVh8l4qdxHkzoGQ) | 2:22 | 2026-03-21 | 2026-05-26 |
 | [Basic](https://open.spotify.com/track/4qdJ0mJWPcCPa1RRb60rRh) | [Slŷer](https://open.spotify.com/artist/0Uh5rHqSoGYI2ofi8Rg2Kl), [Sageyfløw](https://open.spotify.com/artist/3UxbWeCiwFa7OacJ9kBo1I) | [Basic](https://open.spotify.com/album/1GPw5LjkmlNd2ai8cXccfo) | 3:40 | 2025-12-23 | 2026-01-15 |
+| [Bayou Icarus](https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:28 | 2026-05-29 |  |
 | [beautiful](https://open.spotify.com/track/0HHlGXEynhwIkMLFEXzduC) | [briann](https://open.spotify.com/artist/0iOzH7JDn5rKOLMTuyscWx) | [always you](https://open.spotify.com/album/0rBDqg3aoHRz3TaOElSjfL) | 2:31 | 2025-12-28 | 2026-01-25 |
 | [Beautiful Girl](https://open.spotify.com/track/0GAPwPYqnrNZSHQLVkvSJd) | [RayNay](https://open.spotify.com/artist/0ggALYAP0ou6MOkFBDWNBg) | [Beautiful Girl](https://open.spotify.com/album/5IVREI1bhPqSeTug9WM9k9) | 3:00 | 2025-11-01 | 2025-12-01 |
 | [Bed Made of Roses](https://open.spotify.com/track/2ScYDedLsFpnA5iTkzQGKP) | [Hellblazers](https://open.spotify.com/artist/0m5GEfgKoEyMG9FelU8Sdz) | [Welcome to the Devil's Room](https://open.spotify.com/album/7lv9XUyMSaGRBwT52oKaB5) | 2:20 | 2026-04-28 |  |

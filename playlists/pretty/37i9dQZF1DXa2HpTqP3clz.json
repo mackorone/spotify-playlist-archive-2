@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle",
-  "num_followers": 167805,
+  "num_followers": 167826,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "The Highway Knows",
-        "url": "https://open.spotify.com/album/23EMx5160dHkUN9WdNWdZR"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 250513,
-      "name": "The Highway Knows",
-      "url": "https://open.spotify.com/track/5rsXy60BWCYUublUGT6L9a"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "How To Grow A Woman From The Ground",
         "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 254226,
       "name": "Watch 'At Breakdown",
       "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "The Highway Knows",
+        "url": "https://open.spotify.com/album/23EMx5160dHkUN9WdNWdZR"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 250513,
+      "name": "The Highway Knows",
+      "url": "https://open.spotify.com/track/5rsXy60BWCYUublUGT6L9a"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/4ahsOXEYwmIOWqZlACushd"
     },
     {
-      "added_at": "2026-05-14 19:56:42",
-      "album": {
-        "name": "Long Way Around",
-        "url": "https://open.spotify.com/album/7kLUZ0VHGE2BByWmbwk29F"
-      },
-      "artists": [
-        {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
-        }
-      ],
-      "duration_ms": 177858,
-      "name": "Long Way Around",
-      "url": "https://open.spotify.com/track/0s7eLvThs95MHCa1ie5FXT"
-    },
-    {
       "added_at": "2026-03-27 04:00:14",
       "album": {
         "name": "What Did the Blackbird Say to the Crow",
@@ -501,24 +485,36 @@
       "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
     },
     {
-      "added_at": "2026-03-27 04:00:14",
+      "added_at": "2026-05-14 19:56:42",
       "album": {
-        "name": "Songs from Horizon",
-        "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
+        "name": "Long Way Around",
+        "url": "https://open.spotify.com/album/7kLUZ0VHGE2BByWmbwk29F"
       },
       "artists": [
         {
-          "name": "Matt Combs",
-          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
-        },
-        {
-          "name": "Teddy Morgan",
-          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
         }
       ],
-      "duration_ms": 132794,
-      "name": "Winds Forever Blow",
-      "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
+      "duration_ms": 177858,
+      "name": "Long Way Around",
+      "url": "https://open.spotify.com/track/0s7eLvThs95MHCa1ie5FXT"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "North of Despair",
+        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
+      },
+      "artists": [
+        {
+          "name": "Wood & Wire",
+          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Eliza",
+      "url": "https://open.spotify.com/track/5lprg6IeVY9TNsK5WqjWcV"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -543,34 +539,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "North of Despair",
-        "url": "https://open.spotify.com/album/2xxpKXejWa3mgMsSldOAtY"
+        "name": "Songs from Horizon",
+        "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
       },
       "artists": [
         {
-          "name": "Wood & Wire",
-          "url": "https://open.spotify.com/artist/1OWDk6qANVAXtcAPIhJZEX"
-        }
-      ],
-      "duration_ms": 194320,
-      "name": "Eliza",
-      "url": "https://open.spotify.com/track/5lprg6IeVY9TNsK5WqjWcV"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "Nowhere Next",
-        "url": "https://open.spotify.com/album/1NHQWSuv2fvxVivvngEMAL"
-      },
-      "artists": [
+          "name": "Matt Combs",
+          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
+        },
         {
-          "name": "Yonder Mountain String Band",
-          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+          "name": "Teddy Morgan",
+          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
         }
       ],
-      "duration_ms": 230733,
-      "name": "Didn't Go Wrong",
-      "url": "https://open.spotify.com/track/4CyXGgMZJeBIg0vU1V4X3Y"
+      "duration_ms": 132794,
+      "name": "Winds Forever Blow",
+      "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -587,6 +571,22 @@
       "duration_ms": 182000,
       "name": "Knee Deep in Bluegrass",
       "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Nowhere Next",
+        "url": "https://open.spotify.com/album/1NHQWSuv2fvxVivvngEMAL"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Didn't Go Wrong",
+      "url": "https://open.spotify.com/track/4CyXGgMZJeBIg0vU1V4X3Y"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/0B88zHXjkSFUIGyYrnQGCc"
+        "name": "Wanderers Like Me",
+        "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
       },
       "artists": [
         {
-          "name": "Yonder Mountain String Band",
-          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/63B7GNMc9PMqRDsEvJ49KX"
+      "duration_ms": 189887,
+      "name": "Wanderers Like Me",
+      "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -763,6 +763,22 @@
       "duration_ms": 207000,
       "name": "Willow",
       "url": "https://open.spotify.com/track/0xa49uKD6IdtaXgvLud3Bi"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/0B88zHXjkSFUIGyYrnQGCc"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/63B7GNMc9PMqRDsEvJ49KX"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -787,22 +803,6 @@
       "duration_ms": 306440,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/0X0TSKvyAKxPYiv4HB7WOQ"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "Wanderers Like Me",
-        "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
-      },
-      "artists": [
-        {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
-        }
-      ],
-      "duration_ms": 189887,
-      "name": "Wanderers Like Me",
-      "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Up from the Bottom",
-        "url": "https://open.spotify.com/album/2gwK6AWvVnJVji8CC3ceJV"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 213680,
-      "name": "Up from the Bottom",
-      "url": "https://open.spotify.com/track/7gafoLtMMgxssDyy1hOibC"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Murmurations, Vol. 2",
         "url": "https://open.spotify.com/album/3u64Gq2Pji5gdCKdCMcTsG"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 279506,
       "name": "Sandhill Cranes",
       "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Up from the Bottom",
+        "url": "https://open.spotify.com/album/2gwK6AWvVnJVji8CC3ceJV"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 213680,
+      "name": "Up from the Bottom",
+      "url": "https://open.spotify.com/track/7gafoLtMMgxssDyy1hOibC"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1080,8 +1080,8 @@
       },
       "artists": [
         {
-          "name": "Bronwyn Keith-Hynes",
-          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+          "name": "Bronwyn",
+          "url": "https://open.spotify.com/artist/24S2vTDYhK9PESL4DvCWtq"
         },
         {
           "name": "Jason Carter",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Kentucky Highway",
-        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
-      },
-      "artists": [
-        {
-          "name": "Williamson Branch",
-          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Kentucky Highway",
-      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Blue Night",
         "url": "https://open.spotify.com/album/4zuvesfsRy11qUXy9RyAJM"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 174000,
       "name": "Blue Night",
       "url": "https://open.spotify.com/track/5CsDpl5sZRU3GtAYZe8YfN"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Kentucky Highway",
+        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
+      },
+      "artists": [
+        {
+          "name": "Williamson Branch",
+          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Kentucky Highway",
+      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Ingardia",
-          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
-        }
-      ],
-      "duration_ms": 216950,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Dovetail Cabin",
         "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 172533,
       "name": "Dovetail Cabin",
       "url": "https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Ingardia",
+          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
+        }
+      ],
+      "duration_ms": 216950,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
-      },
-      "artists": [
-        {
-          "name": "Watkins Family Hour",
-          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
-        },
-        {
-          "name": "Willie Watson",
-          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "She Left Me Standing on the Mountain",
-      "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Skating on the Harbourfront",
         "url": "https://open.spotify.com/album/0HJBSbUJHtaU1GAOCUYW9s"
       },
@@ -1555,6 +1535,26 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/67FkMHssT1EBNS6KzZTGoY"
+      },
+      "artists": [
+        {
+          "name": "Watkins Family Hour",
+          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
+        },
+        {
+          "name": "Willie Watson",
+          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "She Left Me Standing on the Mountain",
+      "url": "https://open.spotify.com/track/7JPuc4cWW62fMpL4iRldWY"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "Keepers of the Flame",
         "url": "https://open.spotify.com/album/4JpiWeHXlKxVLbqgA7eh9w"
       },
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "If I Don't Have You",
-        "url": "https://open.spotify.com/album/11WUysU9e8taAGwsYgeZpc"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "If I Don't Have You",
-      "url": "https://open.spotify.com/track/4klp9IQkMHW90IK5BiY0fe"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Radio John: Songs of John Hartford",
         "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 198493,
       "name": "I'm Still Here",
       "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "If I Don't Have You",
+        "url": "https://open.spotify.com/album/11WUysU9e8taAGwsYgeZpc"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "If I Don't Have You",
+      "url": "https://open.spotify.com/track/4klp9IQkMHW90IK5BiY0fe"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
+      },
+      "artists": [
+        {
+          "name": "Chatham Rabbits",
+          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "Lifetime To Go",
         "url": "https://open.spotify.com/album/7fPKHS5uBtUv5hxb8eIMqX"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 259534,
       "name": "Lifetime to Go",
       "url": "https://open.spotify.com/track/6lIa72k5pLtGwAmdsfgvG6"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
-      },
-      "artists": [
-        {
-          "name": "Chatham Rabbits",
-          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1751,34 +1751,34 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Let It Fall",
-        "url": "https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2"
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/15vlZHSy41ZgmNuB60ujiV"
       },
       "artists": [
         {
-          "name": "Tina Adair",
-          "url": "https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS"
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
         }
       ],
-      "duration_ms": 213360,
-      "name": "Let It Fall",
-      "url": "https://open.spotify.com/track/0JC6wfQJn8GyFwgscOLNoM"
+      "duration_ms": 226346,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/2Vu9uj5onkgFXm36JBAifP"
     },
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "This Sad Song (Single Version) [Live]",
-        "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
+        "name": "Big City",
+        "url": "https://open.spotify.com/album/1I8mPtZ8MM6o5SxCCwmsNa"
       },
       "artists": [
         {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+          "name": "Joe Mullins & The Radio Ramblers",
+          "url": "https://open.spotify.com/artist/1nlVHZslyaaNB0p5SUJe17"
         }
       ],
-      "duration_ms": 138534,
-      "name": "This Sad Song (Single Version) [Live]",
-      "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
+      "duration_ms": 171055,
+      "name": "Big City",
+      "url": "https://open.spotify.com/track/7hOFKZLEODrvpfqmrFJSAK"
     }
   ],
   "unique_name": "Grass Roots",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,225 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,265 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 7 | [Glòr](https://open.spotify.com/track/3AsKQkYvnehFj9JkVYdTJP) | [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri) | [Liberetto V: Echomyr](https://open.spotify.com/album/5CLe0rk6IiIePYDMhZizmi) | 5:49 |
 | 8 | [Days Of Us](https://open.spotify.com/track/5KVU59d9whwEPNrRY4WZmO) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Days Of Us](https://open.spotify.com/album/2nSItiBROm1O9jl8FtNvIj) | 4:39 |
 | 9 | [A Kiss A Kill](https://open.spotify.com/track/2FoduzDx5BvoN9MMwA9CYO) | [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [MOVIE](https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR) | 4:47 |
-| 10 | [Track 8](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 0:00 |
+| 10 | [Eternal Child](https://open.spotify.com/track/4XI2i9wR9L8OHhkrOLf7gr) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [Eternal Child](https://open.spotify.com/album/3dDNKDujQDYcQ5qwEz64hm) | 5:07 |
 | 11 | [Wonderful Thing](https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Wonderful Thing](https://open.spotify.com/album/4AqjAlTpQzooXdJXY7G4Px) | 2:14 |
 | 12 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 |
 | 13 | [Terra Em Transe](https://open.spotify.com/track/68vvcDQhNxv2QTNr7cZu81) | [Nicola Conte](https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB) | [Terra Em Transe / Naquela Base](https://open.spotify.com/album/1RrCuQlQiNiP3yEwxd8KgC) | 5:19 |

@@ -1,36 +1,176 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer, Thaiboy Digital, DJ_Dave, Safety Trance, &amp; more.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Eartheater, the sound that chalk makes, B0YG1RL, Eera, &amp; more.",
   "num_followers": 50410,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAedg+A0bpi/08/0VRHpxfAxleTo0yY",
+  "snapshot_id": "AAAeju6HiMd3kHw73OngYGLuP7T4idBD",
   "tracks": [
     {
-      "added_at": "2026-04-24 21:21:47",
+      "added_at": "2026-05-29 21:06:39",
       "album": {
-        "name": "GUAYANDO (Lykke Li Remix)",
-        "url": "https://open.spotify.com/album/6otQ5gAH4Q2vNNTpZdyj80"
+        "name": "Paradise Rains",
+        "url": "https://open.spotify.com/album/2XsZLXPI21Ct2bN9xVlnKZ"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 156848,
-      "name": "GUAYANDO - Lykke Li Remix",
-      "url": "https://open.spotify.com/track/3HG1ly6lMtWy3tPXFO8iJS"
+      "duration_ms": 199400,
+      "name": "Paradise Rains",
+      "url": "https://open.spotify.com/track/7v8BK91W0rwEpxWckubE9C"
+    },
+    {
+      "added_at": "2026-05-29 21:07:13",
+      "album": {
+        "name": "RAGE & RAVE",
+        "url": "https://open.spotify.com/album/2ZCwDwNFmsRwzbBjZvX8UI"
+      },
+      "artists": [
+        {
+          "name": "B0YG1RL",
+          "url": "https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq"
+        },
+        {
+          "name": "NOVAGANG",
+          "url": "https://open.spotify.com/artist/2jKpyH0q7d85BevWLtdKGB"
+        },
+        {
+          "name": "KAY NIVE$",
+          "url": "https://open.spotify.com/artist/6YQgtVqlL7emLLiAloN501"
+        }
+      ],
+      "duration_ms": 148979,
+      "name": "RAGE & RAVE",
+      "url": "https://open.spotify.com/track/4D8ESLapW3rf4T0qZojFwR"
+    },
+    {
+      "added_at": "2026-05-29 21:06:59",
+      "album": {
+        "name": "CSM for bullshit",
+        "url": "https://open.spotify.com/album/4dlec4sTKWyTcTX81GZvlL"
+      },
+      "artists": [
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        },
+        {
+          "name": "Seven Blair Angels",
+          "url": "https://open.spotify.com/artist/4q68y687T1f5iGToWOTrnQ"
+        },
+        {
+          "name": "pato6p",
+          "url": "https://open.spotify.com/artist/1T7amPqWVfFBlntdPtflSm"
+        }
+      ],
+      "duration_ms": 102492,
+      "name": "CSM for bullshit",
+      "url": "https://open.spotify.com/track/4UGzIUDcabJcatRVXzozJt"
+    },
+    {
+      "added_at": "2026-05-29 21:08:02",
+      "album": {
+        "name": "EXIT 2B",
+        "url": "https://open.spotify.com/album/5YA5ttWYM1MtDnfkB6dLJF"
+      },
+      "artists": [
+        {
+          "name": "B0YG1RL",
+          "url": "https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq"
+        },
+        {
+          "name": "NOVAGANG",
+          "url": "https://open.spotify.com/artist/2jKpyH0q7d85BevWLtdKGB"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "Little Haiti",
+      "url": "https://open.spotify.com/track/298VmtiWYWKrcHpr4FTi8h"
+    },
+    {
+      "added_at": "2026-05-29 21:07:26",
+      "album": {
+        "name": "Sad But So Funny",
+        "url": "https://open.spotify.com/album/2sZNACN1OtfS387IGeyJi9"
+      },
+      "artists": [
+        {
+          "name": "Eera",
+          "url": "https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P"
+        },
+        {
+          "name": "Mechatok",
+          "url": "https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW"
+        }
+      ],
+      "duration_ms": 223561,
+      "name": "Sad But So Funny",
+      "url": "https://open.spotify.com/track/4z82AjKmLtVzxmShgNCgkp"
+    },
+    {
+      "added_at": "2026-05-29 21:07:48",
+      "album": {
+        "name": "notime\u2026youshouldbeaskingmeout",
+        "url": "https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU"
+      },
+      "artists": [
+        {
+          "name": "finnj\u00e4vel",
+          "url": "https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT"
+        },
+        {
+          "name": "GRANT",
+          "url": "https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "notime\u2026",
+      "url": "https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww"
+    },
+    {
+      "added_at": "2026-05-29 22:56:48",
+      "album": {
+        "name": "Falling Out of Grace",
+        "url": "https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        },
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        },
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/5AkRNxM8MEyS7oUjZMk0WQ"
+        }
+      ],
+      "duration_ms": 180875,
+      "name": "Falling Out of Grace",
+      "url": "https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT"
+    },
+    {
+      "added_at": "2026-05-29 21:10:48",
+      "album": {
+        "name": "Rumspringa",
+        "url": "https://open.spotify.com/album/1EHtMAqAB6GSnw8IbuXFLn"
+      },
+      "artists": [
+        {
+          "name": "ear",
+          "url": "https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG"
+        }
+      ],
+      "duration_ms": 234303,
+      "name": "Coil",
+      "url": "https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55"
     },
     {
       "added_at": "2026-05-08 22:32:51",
@@ -177,22 +317,6 @@
       "url": "https://open.spotify.com/track/6O9XKJ76EWKIzSPH3vQuIp"
     },
     {
-      "added_at": "2026-04-24 21:21:03",
-      "album": {
-        "name": "+Teamgeist / Blue Angels",
-        "url": "https://open.spotify.com/album/7vUMizpVqUk8FuI6wBEFDQ"
-      },
-      "artists": [
-        {
-          "name": "Glayden",
-          "url": "https://open.spotify.com/artist/5GsNEQd9Q8J3Yi721r1Tsj"
-        }
-      ],
-      "duration_ms": 156031,
-      "name": "Blue Angels",
-      "url": "https://open.spotify.com/track/3VJQSzdebeIZVAMxjOQisO"
-    },
-    {
       "added_at": "2026-04-24 21:21:10",
       "album": {
         "name": "+Teamgeist / Blue Angels",
@@ -207,26 +331,6 @@
       "duration_ms": 156444,
       "name": "+Teamgeist",
       "url": "https://open.spotify.com/track/1pEVn9rtseG6eyK5kZNaIY"
-    },
-    {
-      "added_at": "2026-04-24 21:20:24",
-      "album": {
-        "name": "no me quiero dormir",
-        "url": "https://open.spotify.com/album/5wmPqODKNYl7HTr8RJti7x"
-      },
-      "artists": [
-        {
-          "name": "Safety Trance",
-          "url": "https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF"
-        },
-        {
-          "name": "Six Sex",
-          "url": "https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "no me quiero dormir",
-      "url": "https://open.spotify.com/track/6pLKe1SzXJexj7VpBleAL4"
     },
     {
       "added_at": "2026-04-24 21:20:36",
@@ -335,22 +439,6 @@
       "duration_ms": 188450,
       "name": "You Can't Hide",
       "url": "https://open.spotify.com/track/3CIVAiVxbssafeLkXvtQhM"
-    },
-    {
-      "added_at": "2026-04-09 19:55:48",
-      "album": {
-        "name": "WOR$T GIRL IN AMERICA",
-        "url": "https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 159198,
-      "name": "OLD TECHNOLOGY",
-      "url": "https://open.spotify.com/track/4m9DCecxzytC3ikqqVvtbd"
     },
     {
       "added_at": "2026-04-09 19:58:38",
@@ -465,40 +553,28 @@
       "url": "https://open.spotify.com/track/6SKx1auoeFDF3MKkDYw5gZ"
     },
     {
-      "added_at": "2026-03-20 20:11:55",
+      "added_at": "2026-04-24 21:21:47",
       "album": {
-        "name": "The Velvet Underground & Rowan",
-        "url": "https://open.spotify.com/album/49DyveBbRwP91OrmnVosdf"
+        "name": "GUAYANDO (Lykke Li Remix)",
+        "url": "https://open.spotify.com/album/6otQ5gAH4Q2vNNTpZdyj80"
       },
       "artists": [
         {
-          "name": "Worldpeace DMT",
-          "url": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV"
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         },
         {
-          "name": "Rowan Please",
-          "url": "https://open.spotify.com/artist/5h8WnKGTQVO9PUOZ97lZl8"
-        }
-      ],
-      "duration_ms": 215331,
-      "name": "Love Yourself",
-      "url": "https://open.spotify.com/track/7rgWNlWTf1vFpsLZ7Grxn3"
-    },
-    {
-      "added_at": "2026-03-20 20:09:36",
-      "album": {
-        "name": "I'm Gonna Live Forever",
-        "url": "https://open.spotify.com/album/7Cw8W87SsNb07cTAqBwOwp"
-      },
-      "artists": [
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
         {
-          "name": "Erisan",
-          "url": "https://open.spotify.com/artist/2LcjVIPrPkjLpmEa7o2spR"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         }
       ],
-      "duration_ms": 102468,
-      "name": "DJ Boys Chamber",
-      "url": "https://open.spotify.com/track/2qAngdGoqaBmQZ1RchkvjO"
+      "duration_ms": 156848,
+      "name": "GUAYANDO - Lykke Li Remix",
+      "url": "https://open.spotify.com/track/3HG1ly6lMtWy3tPXFO8iJS"
     },
     {
       "added_at": "2026-03-13 18:46:17",
@@ -616,8 +692,8 @@
           "url": "https://open.spotify.com/artist/1tUbyAgdYNOjxXrNSfgquF"
         },
         {
-          "name": "Lolahol",
-          "url": "https://open.spotify.com/artist/1qw9DrknRpBITBeyhmeDSn"
+          "name": "Lola Leon",
+          "url": "https://open.spotify.com/artist/7pKmOKc49BWyfcbcFqBLBL"
         }
       ],
       "duration_ms": 146938,
@@ -967,66 +1043,6 @@
       "duration_ms": 138947,
       "name": "New Life",
       "url": "https://open.spotify.com/track/20YZM0p9zdqOVoLTiykfMx"
-    },
-    {
-      "added_at": "2025-11-25 21:12:40",
-      "album": {
-        "name": "Alise",
-        "url": "https://open.spotify.com/album/0FEGZgonIOc9RZUa6KucAn"
-      },
-      "artists": [
-        {
-          "name": "Jawnino",
-          "url": "https://open.spotify.com/artist/0nnECIkl6LBEbZdov3nTEj"
-        },
-        {
-          "name": "SURF GANG",
-          "url": "https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz"
-        }
-      ],
-      "duration_ms": 180465,
-      "name": "Alise",
-      "url": "https://open.spotify.com/track/0MPEX4Y7YK6QfWcL9oU685"
-    },
-    {
-      "added_at": "2026-01-07 21:28:09",
-      "album": {
-        "name": "It Could Be Nice",
-        "url": "https://open.spotify.com/album/0fuYLgmA6JnN5HeWZUGGAU"
-      },
-      "artists": [
-        {
-          "name": "Blaketheman1000",
-          "url": "https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I"
-        },
-        {
-          "name": "Celine del Carmen",
-          "url": "https://open.spotify.com/artist/0Uio2mqycWxzpG1LUatzu3"
-        }
-      ],
-      "duration_ms": 84565,
-      "name": "Gaby Best Friend (feat. Celine del Carmen)",
-      "url": "https://open.spotify.com/track/4OYOQAeV1nBZteM2FLd7Bh"
-    },
-    {
-      "added_at": "2026-01-07 21:28:09",
-      "album": {
-        "name": "Fancy Some More?",
-        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Stateside + Zara Larsson",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
       "added_at": "2026-01-07 21:28:09",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-02-16",
-  "description": "next gen pop\nCover: Emei",
+  "description": "next gen pop\nCover: Mollie Elizabeth",
   "name": "Pop Sauce",
   "tracks": [
     {
@@ -6965,6 +6965,24 @@
     },
     {
       "album": {
+        "name": "Can't Get You Out of My Head - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ynUBc9yQ4pq7kImTMdOql"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Can't Get You Out of My Head - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j4kyvjM60Te1mU0H2LTwR"
+    },
+    {
+      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/1c8zI78vFIMEgNFqtdt1VO"
       },
@@ -7532,6 +7550,24 @@
       "duration_ms": 183451,
       "name": "change ur mind",
       "url": "https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h"
+    },
+    {
+      "album": {
+        "name": "scars to prove it",
+        "url": "https://open.spotify.com/album/73Sgh6sfNyy8ZA3RZLJmKS"
+      },
+      "artists": [
+        {
+          "name": "Hailey Picardi",
+          "url": "https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194020,
+      "name": "chaotic",
+      "url": "https://open.spotify.com/track/1yqQANXMu1CgGTjHQewP6G"
     },
     {
       "album": {
@@ -17570,7 +17606,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 194399,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/0uyv1zBBUQolBPzKlslzKh"
@@ -25066,7 +25102,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 155540,
       "name": "Love Bombs",
       "url": "https://open.spotify.com/track/7N2dxYIULi9q0vepBwsDf5"
@@ -25942,6 +25978,24 @@
       "duration_ms": 202931,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/4cQAhjxynTUlhVUJN5yhUb"
+    },
+    {
+      "album": {
+        "name": "SE9",
+        "url": "https://open.spotify.com/album/3TWvfSehKDLRaHJS7z8cNk"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155004,
+      "name": "Man of the House",
+      "url": "https://open.spotify.com/track/4j3tybPIKiCmp1Zm2hLD9Z"
     },
     {
       "album": {
@@ -29032,7 +29086,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
@@ -30336,6 +30390,24 @@
       "duration_ms": 180760,
       "name": "other side",
       "url": "https://open.spotify.com/track/1X77svze8Ec0WfRsmddT51"
+    },
+    {
+      "album": {
+        "name": "I Forgot / Out of my Head",
+        "url": "https://open.spotify.com/album/6ANjZWfiXY8sowZKEXOtaX"
+      },
+      "artists": [
+        {
+          "name": "Cara Delevingne",
+          "url": "https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Out of my Head",
+      "url": "https://open.spotify.com/track/5ExQZsB1FkAemKYykuvDUv"
     },
     {
       "album": {
@@ -36822,7 +36894,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 238282,
       "name": "Stay The Night",
       "url": "https://open.spotify.com/track/3CsUFsUp5guMgzaU9zSPj9"
@@ -39162,7 +39234,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 176133,
       "name": "Tell Me It's Over",
       "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
@@ -40000,6 +40072,24 @@
       "duration_ms": 143530,
       "name": "The Kiss Of Venus (Dominic Fike)",
       "url": "https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V"
+    },
+    {
+      "album": {
+        "name": "The Last Encounter",
+        "url": "https://open.spotify.com/album/7FxjVKOU9UL90KAwsvJ0y6"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "The Last Encounter",
+      "url": "https://open.spotify.com/track/3cKyBigEDROC8U1QrY921a"
     },
     {
       "album": {

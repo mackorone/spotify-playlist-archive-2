@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 20687,
+  "num_followers": 20693,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Bri's Lounge",
-        "url": "https://open.spotify.com/album/5RZYdZDTZdvlVl11IXCPU4"
-      },
-      "artists": [
-        {
-          "name": "Dami Oniru",
-          "url": "https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/78fUOYqXOsIFo6kBjEFfws"
-    },
-    {
-      "added_at": "2025-06-20 07:45:33",
-      "album": {
         "name": "Swing",
         "url": "https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F"
       },
@@ -1091,22 +1075,34 @@
     {
       "added_at": "2025-06-20 07:45:33",
       "album": {
-        "name": "Mondays",
-        "url": "https://open.spotify.com/album/2Clmel5K2QPX3LkwRfr6zK"
+        "name": "Bri's Lounge",
+        "url": "https://open.spotify.com/album/5RZYdZDTZdvlVl11IXCPU4"
       },
       "artists": [
         {
-          "name": "Yinka Bernie",
-          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
-        },
-        {
-          "name": "Mafeni",
-          "url": "https://open.spotify.com/artist/2ethW0V4e5GFiOsnfza3Xs"
+          "name": "Dami Oniru",
+          "url": "https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx"
         }
       ],
-      "duration_ms": 134295,
-      "name": "Mondays",
-      "url": "https://open.spotify.com/track/6MG6ZiaBw8fLXSMaqlfkjt"
+      "duration_ms": 205400,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/78fUOYqXOsIFo6kBjEFfws"
+    },
+    {
+      "added_at": "2025-06-20 07:45:33",
+      "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
+      },
+      "artists": [
+        {
+          "name": "TMXO",
+          "url": "https://open.spotify.com/artist/4SwLuQAfzvjEuIx6SVwWZP"
+        }
+      ],
+      "duration_ms": 128450,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/1vVpnZRghHBbAWSKxDaBNZ"
     }
   ],
   "unique_name": "Alt\u00e9 Classics ",

@@ -1,12 +1,12 @@
 {
   "description": "Pump it up with these current jams!",
-  "num_followers": 2199945,
+  "num_followers": 2199959,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN1T6t8iDnRMzAGWjKf/deqjx2ZI",
+  "snapshot_id": "AAAAAFCz/j1gVTNFZdDAJcTR60tEwTQ+",
   "tracks": [
     {
       "added_at": "2026-05-01 04:27:45",
@@ -45,6 +45,30 @@
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
+      "added_at": "2026-05-29 04:02:31",
+      "album": {
+        "name": "Game Time (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "duration_ms": 206166,
+      "name": "Game Time",
+      "url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr"
+    },
+    {
       "added_at": "2026-05-01 04:27:45",
       "album": {
         "name": "Good Luck, Babe!",
@@ -75,22 +99,6 @@
       "duration_ms": 217897,
       "name": "Freakin\u2019 Out",
       "url": "https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
-        "name": "Kingdom of Fear",
-        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 161075,
-      "name": "Kingdom of Fear",
-      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -407,6 +415,22 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
+        "name": "Kingdom of Fear",
+        "url": "https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 161075,
+      "name": "Kingdom of Fear",
+      "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
+    },
+    {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
         "name": "Mercury - Acts 1 & 2",
         "url": "https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS"
       },
@@ -419,22 +443,6 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -455,6 +463,22 @@
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+    },
+    {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -539,22 +563,6 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
-        "name": "Stay (If You Wanna Dance)",
-        "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 185999,
-      "name": "Stay (If You Wanna Dance)",
-      "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
         "name": "Miles On It",
         "url": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM"
       },
@@ -571,6 +579,22 @@
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
+    {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
+        "name": "Stay (If You Wanna Dance)",
+        "url": "https://open.spotify.com/album/70hrdDAd7dbcj0ob6GCAnA"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 185999,
+      "name": "Stay (If You Wanna Dance)",
+      "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -721,6 +745,22 @@
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+    },
+    {
       "added_at": "2026-05-15 04:01:41",
       "album": {
         "name": "girl next door",
@@ -739,22 +779,6 @@
       "duration_ms": 198600,
       "name": "girl next door",
       "url": "https://open.spotify.com/track/0xCRp9lVz8jrq7G9syKlYL"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -831,22 +855,6 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
-        "name": "BEFORE I FORGET (DELUXE)",
-        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "PIECES",
-      "url": "https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
         "name": "Carry You Home",
         "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
       },
@@ -879,18 +887,18 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww"
+        "name": "BEFORE I FORGET (DELUXE)",
+        "url": "https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 155192,
-      "name": "Heroine",
-      "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
+      "duration_ms": 205306,
+      "name": "PIECES",
+      "url": "https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -907,6 +915,22 @@
       "duration_ms": 219800,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3"
+    },
+    {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 155192,
+      "name": "Heroine",
+      "url": "https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -1219,22 +1243,6 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
-        "name": "VISION",
-        "url": "https://open.spotify.com/album/4mVo7o80j0vsGJ4l9hrmci"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 210433,
-      "name": "VISION",
-      "url": "https://open.spotify.com/track/50WiSPtOMlrONBTkcDyhQy"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf"
       },
@@ -1251,6 +1259,22 @@
       "duration_ms": 151986,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c"
+    },
+    {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
+        "name": "VISION",
+        "url": "https://open.spotify.com/album/4mVo7o80j0vsGJ4l9hrmci"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 210433,
+      "name": "VISION",
+      "url": "https://open.spotify.com/track/50WiSPtOMlrONBTkcDyhQy"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -1511,22 +1535,6 @@
     {
       "added_at": "2026-05-01 04:27:45",
       "album": {
-        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
-        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/4DVNb13HLAH4FmHz8eukMg"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2"
       },
@@ -1539,6 +1547,22 @@
       "duration_ms": 163228,
       "name": "Roots",
       "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
+    },
+    {
+      "added_at": "2026-05-01 04:27:45",
+      "album": {
+        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
+        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/4DVNb13HLAH4FmHz8eukMg"
     },
     {
       "added_at": "2026-05-01 04:27:45",
@@ -1719,22 +1743,6 @@
       "duration_ms": 186043,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
-    },
-    {
-      "added_at": "2026-05-01 04:27:45",
-      "album": {
-        "name": "Bang!",
-        "url": "https://open.spotify.com/album/7B36GsLpC6IogfPjjkRlj3"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 170858,
-      "name": "Bang!",
-      "url": "https://open.spotify.com/track/53BHUFdQphHiZUUG3nx9zn"
     }
   ],
   "unique_name": "Daily Lift",

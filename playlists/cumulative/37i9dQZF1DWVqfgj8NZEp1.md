@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-358 songs - 1 day 8 hr 10 min
+359 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Cianna](https://open.spotify.com/track/25cJePcRAgKUKtjH8Wm1MQ) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [The Secret Between the Shadow and the Soul](https://open.spotify.com/album/21Jrn9lGRwkXZyFz2bJjaf) | 7:32 | 2020-10-09 | 2023-04-26 |
 | [Clouds](https://open.spotify.com/track/7LIFp3v3CaTCvcG6fmceIg) | [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a) | [Clouds](https://open.spotify.com/album/3LEyIlY9P6z9Mvp6dpxk9d) | 4:43 | 2020-11-27 |  |
 | [Clouds](https://open.spotify.com/track/7hW3pQ8yVD94VzKiX0RC8u) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 4:43 | 2022-06-30 | 2024-04-19 |
+| [Cocktails for Two](https://open.spotify.com/track/12tkQUMuoZx8Mr7iJGbKHk) | [Jakob Dinesen](https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0) | [Cocktails for Two](https://open.spotify.com/album/4hpqMlJXf5gMGOrKzQ7wn2) | 3:41 | 2026-05-29 |  |
 | [Colonel Sanders \- Two Moons Analog Session](https://open.spotify.com/track/6sq2nfadF6Riqdbb3e5k8U) | [Sebastian Gahler](https://open.spotify.com/artist/3CfwkW9rDM1yyEuPRRBG5W), [Denis Gäbel](https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0) | [Colonel Sanders \(Two Moons Analog Session\)](https://open.spotify.com/album/0WDdLI63t4lp8YCItwfRPm) | 5:19 | 2023-01-26 | 2025-09-06 |
 | [Come What May](https://open.spotify.com/track/4CY09ZCdgvjtCaw0fGITbN) | [Joshua Redman Quartet](https://open.spotify.com/artist/53HPdlKWDIGFF4GvVrCtEV) | [Come What May](https://open.spotify.com/album/38R4DeasP4tqHhfiiShLVE) | 6:46 | 2020-10-09 | 2024-07-06 |
 | [Contemplation](https://open.spotify.com/track/78siZ5mLJApB78bhS9WwXI) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Contemplation](https://open.spotify.com/album/7rvhFTQ5KZNCzFtomenAfv) | 4:37 | 2023-05-25 | 2025-12-13 |

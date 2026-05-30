@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Music for enjoying your space
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,259 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,264 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 39 | [LYIN'](https://open.spotify.com/track/61xjj1xvLBn43Jn2E3RzbB) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:06 |
 | 40 | [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 |
 | 41 | [Not At This Party](https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Not At This Party](https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t) | 3:32 |
-| 42 | [Hairdresser](https://open.spotify.com/track/1xFr3sjrzFFgCp3XuPsWDx) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Hairdresser](https://open.spotify.com/album/5GG5esMus4sVQsZ75rguYv) | 3:27 |
-| 43 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
+| 42 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 |
+| 43 | [Hairdresser](https://open.spotify.com/track/1xFr3sjrzFFgCp3XuPsWDx) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Hairdresser](https://open.spotify.com/album/5GG5esMus4sVQsZ75rguYv) | 3:27 |
 | 44 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
 | 45 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 |
 | 46 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 77 | [Miss You](https://open.spotify.com/track/5zHB3dyXGTS00HuvgSnBUj) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Miss You](https://open.spotify.com/album/2lNL8dWOB8s3RpJ8RcmNqZ) | 3:51 |
 | 78 | [All About Me](https://open.spotify.com/track/60mXzhxdo3dtKYz1MNBLFD) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [All About Me](https://open.spotify.com/album/6zprXAlQbVyY4bokzeemmr) | 4:23 |
 | 79 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 |
-| 80 | [Disappear](https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Greyhound](https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP) | 3:31 |
-| 81 | [Baby Blue](https://open.spotify.com/track/0fNwos4bmDKOuPS2ldALiU) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Hug](https://open.spotify.com/album/30B9lQxsP8u8lbUp6hBNNJ) | 2:13 |
+| 80 | [Baby Blue](https://open.spotify.com/track/0fNwos4bmDKOuPS2ldALiU) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Hug](https://open.spotify.com/album/30B9lQxsP8u8lbUp6hBNNJ) | 2:13 |
+| 81 | [Disappear](https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Greyhound](https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP) | 3:31 |
 | 82 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 |
 | 83 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 |
 | 84 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |

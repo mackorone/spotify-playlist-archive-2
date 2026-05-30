@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 
 > The IDs that got us here\. \#Spotify20
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,770 likes - 95 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,774 likes - 95 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 12 | [Starry Night \- Edit](https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI) | 3:53 |
 | 13 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
 | 14 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
-| 15 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 |
-| 16 | [Fake ID](https://open.spotify.com/track/1UgZXifaKYZCHtcXp9653a) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z) | 4:06 |
+| 15 | [Fake ID](https://open.spotify.com/track/1UgZXifaKYZCHtcXp9653a) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5oKOIiqFThV4doCMFA5Y4z) | 4:06 |
+| 16 | [Immaterial](https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:52 |
 | 17 | [Good Lies](https://open.spotify.com/track/1ZnghCVtXCrtmKJH32z4UK) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 2:40 |
 | 18 | [Serotonin Moonbeams](https://open.spotify.com/track/5W9KXaUHasNgdram95MDLN) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Godspeed](https://open.spotify.com/album/0WGs5bQx4HefdubdFh1kfE) | 4:47 |
 | 19 | [Baianá](https://open.spotify.com/track/7B0gxo0jQCy5Lk93RIODAC) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Baianá](https://open.spotify.com/album/4fnmyznELge41MnyNpUp78) | 2:32 |

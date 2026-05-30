@@ -4,7 +4,7 @@
 
 > Shawty lo que necesitas es darle flow\.  Yeri Mua y Lucky Brown en portada
 
-985 songs - 2 day 4 hr 31 min
+986 songs - 2 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2021-12-17 | 2022-10-15 |
 | [Envolver Remix](https://open.spotify.com/track/4B7mXGdCLQFulSxPTIEjPu) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Envolver Remix](https://open.spotify.com/album/33P0aSLbBtHGYPYMehkPRY) | 3:02 | 2022-02-18 | 2022-03-05 |
 | [EoO](https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:24 | 2025-01-10 |  |
+| [EQUD](https://open.spotify.com/track/4AVrP6TEX9H4z7qGHCD3bH) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Fronti](https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr) | [EQUD](https://open.spotify.com/album/7jQ0zaYxFcWzGH5A0iGzs1) | 4:25 | 2026-05-29 |  |
 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 | 2024-04-12 | 2024-04-19 |
 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 | 2024-04-19 | 2025-02-01 |
 | [Esa Nena](https://open.spotify.com/track/2uvoAHdthe0bSCD0qIRBta) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Esa Nena](https://open.spotify.com/album/245a16Mk92WlnOnpBDq0O6) | 3:17 | 2023-03-03 | 2023-08-05 |

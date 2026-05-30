@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Tito Nieves",
+  "description": "Lo nuevo del mundo tropical. Cover: Luis Figueroa",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -172,6 +172,24 @@
       "duration_ms": 173195,
       "name": "36 Vidas",
       "url": "https://open.spotify.com/track/7zfvPN6Rth5yp1u0QbOglc"
+    },
+    {
+      "album": {
+        "name": "El Relevo",
+        "url": "https://open.spotify.com/album/58BCinurA7NihCoPpBiHtN"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286246,
+      "name": "5 Minutos",
+      "url": "https://open.spotify.com/track/5lG4taz1TiWRzGgiMIwJaL"
     },
     {
       "album": {
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 307153,
       "name": "Cachamba",
       "url": "https://open.spotify.com/track/3lsLE053C6EiydWvC3d1Gn"
@@ -2754,6 +2772,24 @@
       "duration_ms": 183333,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2YAfk5h0qctKYqVBWuwvvh"
+    },
+    {
+      "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/6G7yDOTR6sNJYT4D2oYTG7"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257898,
+      "name": "Cari\u00f1o Gitano",
+      "url": "https://open.spotify.com/track/5KqQ354Q8AeRsJOKglBv4l"
     },
     {
       "album": {
@@ -4316,7 +4352,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 232211,
       "name": "despu\u00e9s del PARi",
       "url": "https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf"
@@ -4640,7 +4676,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 240874,
       "name": "Dominiqueando Mix",
       "url": "https://open.spotify.com/track/6SHHcGkw7lh1rkaedIYLz2"
@@ -9175,6 +9211,24 @@
     },
     {
       "album": {
+        "name": "Momento Zero.",
+        "url": "https://open.spotify.com/album/1qzCxXvPKPJQ5N6aTz0Ovv"
+      },
+      "artists": [
+        {
+          "name": "Danny Polo",
+          "url": "https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Lo que no sabes tu",
+      "url": "https://open.spotify.com/track/0vuFk5CjCau6dpjUGDoSwZ"
+    },
+    {
+      "album": {
         "name": "El D\u00eda Es Hoy",
         "url": "https://open.spotify.com/album/2Pnmt5sGCcrDUJmKqVx7Rb"
       },
@@ -10212,6 +10266,24 @@
       "duration_ms": 184866,
       "name": "Me Niego",
       "url": "https://open.spotify.com/track/24c2ZuGRc6HBzHWoEYDkuS"
+    },
+    {
+      "album": {
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/1MwhORiO9DTVExZRxF7uUp"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cruz",
+          "url": "https://open.spotify.com/artist/3BiAkgxrLIXhB4evNuF2hn"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167555,
+      "name": "Me Quiere A M\u00ed",
+      "url": "https://open.spotify.com/track/0bUgZF9KH9QE3YvR0wOXCP"
     },
     {
       "album": {
@@ -11736,7 +11808,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 208573,
       "name": "Noticia de Ayer",
       "url": "https://open.spotify.com/track/5HS6bM4c7vf2nYTMJcBaGn"
@@ -13398,7 +13470,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 188644,
       "name": "Que Pena",
       "url": "https://open.spotify.com/track/0yhjxbwEuGrIsnrxwRDZmj"
@@ -13578,7 +13650,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 259090,
       "name": "Quien",
       "url": "https://open.spotify.com/track/2hkAgJwtYXK4GiWeJmIyDv"
@@ -14180,6 +14252,24 @@
       "duration_ms": 194390,
       "name": "Roto",
       "url": "https://open.spotify.com/track/0WLqXQaD7mco1ARvghfJkR"
+    },
+    {
+      "album": {
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282216,
+      "name": "Rubio",
+      "url": "https://open.spotify.com/track/1koGYZiLV7pcmxT2FF8LNw"
     },
     {
       "album": {
@@ -17454,6 +17544,28 @@
       "duration_ms": 142218,
       "name": "VUELVES TRISTE",
       "url": "https://open.spotify.com/track/5trhmUpq8NA8P6ltnIu8Dt"
+    },
+    {
+      "album": {
+        "name": "Vuelvo a Ser Yo",
+        "url": "https://open.spotify.com/album/4JV604kWQm7qdoShxrrIYO"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        },
+        {
+          "name": "Alain P\u00e9rez",
+          "url": "https://open.spotify.com/artist/71MILvcLWofhqgXKEVrn0a"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257114,
+      "name": "Vuelvo a Ser Yo",
+      "url": "https://open.spotify.com/track/4YkOLuXVmAtcJWBAm5Zog0"
     },
     {
       "album": {

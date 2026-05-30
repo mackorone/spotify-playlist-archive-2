@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-491 songs - 1 day 3 hr 22 min
+492 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,7 +286,7 @@
 | [My Bad](https://open.spotify.com/track/5ql22UbzPOJrDSjVeTvX6E) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [My Bad](https://open.spotify.com/album/7KNGS1OOy0u8NHQxY553D7) | 2:57 | 2021-02-05 | 2022-10-01 |
 | [MY BEST!](https://open.spotify.com/track/7LTAVYf8CmgGqaI1ynOSbg) | [Caleb Hawley](https://open.spotify.com/artist/5GF3JcY2h0SUPkDlo7ByCB) | [MY BEST!](https://open.spotify.com/album/1bhFAysJcmTSSTItooIW0M) | 3:19 | 2022-08-08 | 2024-06-01 |
 | [My Shade My Color](https://open.spotify.com/track/5IGzKMRnUUWAaxP0GxHLVW) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [My Shade My Color](https://open.spotify.com/album/705VoW6yvKnTtuAcpVDxqB) | 3:20 | 2021-09-21 | 2022-05-25 |
-| [My Tribe](https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0) | 3:03 | 2022-08-12 |  |
+| [My Tribe](https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0) | 3:03 | 2022-08-12 | 2026-05-30 |
 | [My Wave](https://open.spotify.com/track/12spArvPaLxK6deo7ikvnZ) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [My Wave](https://open.spotify.com/album/4qbZPeJPVHASszWzkoS8hf) | 2:31 | 2022-06-03 | 2023-03-18 |
 | [N.U.T.S](https://open.spotify.com/track/6T7sYe6XUjynzSamUDHaGm) | [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI) | [N.U.T.S](https://open.spotify.com/album/2fkmVIjIOCPwjnKeCuspwO) | 2:47 | 2021-05-14 | 2022-04-21 |
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2022-11-04 | 2024-06-01 |
@@ -338,6 +338,7 @@
 | [Preach](https://open.spotify.com/track/0yx0mGjfdB9ZpEJ3FI8oTu) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Sting](https://open.spotify.com/album/0BBW1lCE63dBs7u79aFIet) | 3:29 | 2022-04-29 | 2023-10-07 |
 | [Princess Pouty](https://open.spotify.com/track/6lwFOodKFZd0ro8bcIxlWg) | [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI) | [Princess Pouty](https://open.spotify.com/album/30OuMUBR1zRI4cdHDhNo1z) | 3:42 | 2021-04-30 | 2022-04-21 |
 | [Puff Break \(Believe That\)](https://open.spotify.com/track/1mriXvvbHJLklHHg8dehug) | [Andy Frasco & the U.N.](https://open.spotify.com/artist/4scyTeRfyqCWVATfPP7SGu) | [Wash, Rinse, Repeat.](https://open.spotify.com/album/3OBj0oXIByaBqpj393VX1h) | 3:15 | 2022-04-08 | 2024-03-16 |
+| [Rain Check \(feat\. Quinn XCII\)](https://open.spotify.com/track/4cvLkmpPOopL1RCpdHIho1) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Rain Check \(feat\. Quinn XCII\)](https://open.spotify.com/album/2C7DC3mMFQelrT6GeMCs80) | 2:48 | 2026-05-29 |  |
 | [Raincheck](https://open.spotify.com/track/4uLayl2QxBKcnNE9A34rev) | [Jachary](https://open.spotify.com/artist/4HvoSSqs9JthDCVf8rTdeZ) | [Loops of Life](https://open.spotify.com/album/2HXeiE0ito0084fqhsWNqG) | 3:06 | 2020-11-13 | 2022-03-26 |
 | [Reborn](https://open.spotify.com/track/0eqefuVYbQCHFJ3TxFD9KA) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Reborn](https://open.spotify.com/album/2QxhY2X1O0LLej9YzDaZcN) | 3:22 | 2024-06-07 |  |
 | [Remind Me](https://open.spotify.com/track/2KxPwaQYggkfkx4bOpjXLU) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Scenery](https://open.spotify.com/album/6oKN6JGDdO1ujKKlaNJdVG) | 4:03 | 2020-11-13 | 2022-03-15 |

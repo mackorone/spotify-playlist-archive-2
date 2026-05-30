@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 455620,
+  "num_followers": 455671,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1199,18 +1199,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "What I Want",
-        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
+        "name": "Stumblin' In (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
       },
       "artists": [
         {
-          "name": "Gregor McMurray",
-          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
         }
       ],
-      "duration_ms": 182000,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
+      "duration_ms": 180000,
+      "name": "Stumblin' In (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1231,22 +1235,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Stumblin' In (LUNAX Remix)",
-        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+          "name": "Gregor McMurray",
+          "url": "https://open.spotify.com/artist/1I2XKnqddS320Fo1vXH9WO"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Stumblin' In (LUNAX Remix)",
-      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
+      "duration_ms": 182000,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/77VtR2l9SUqNgN4mDRDEDt"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
+      },
+      "artists": [
+        {
+          "name": "Bisken",
+          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+        }
+      ],
+      "duration_ms": 134357,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Jump Jump Jump",
         "url": "https://open.spotify.com/album/7oP25q6BPt2pAsVfGnbCFq"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 159473,
       "name": "Jump Jump Jump",
       "url": "https://open.spotify.com/track/309jTjKoqrNjo0CQGjA0i4"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
-      },
-      "artists": [
-        {
-          "name": "Bisken",
-          "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
-        }
-      ],
-      "duration_ms": 134357,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Stumblin' In (Sonny Wern Remix)",
-        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 152400,
-      "name": "Stumblin' In (Sonny Wern Remix)",
-      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Hit The Road Jack",
         "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
       },
@@ -1583,26 +1563,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O"
+        "name": "Stumblin' In (Sonny Wern Remix)",
+        "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
       },
       "artists": [
         {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         },
         {
-          "name": "Stisema",
-          "url": "https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1"
-        },
-        {
-          "name": "Lulu Voxx",
-          "url": "https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu"
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
         }
       ],
-      "duration_ms": 168124,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
+      "duration_ms": 152400,
+      "name": "Stumblin' In (Sonny Wern Remix)",
+      "url": "https://open.spotify.com/track/4NNgwJCoAROKsP6b9Outvs"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1627,6 +1603,30 @@
       "duration_ms": 200086,
       "name": "Perfect (Exceeder) - 1991 Remix",
       "url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Stisema",
+          "url": "https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1"
+        },
+        {
+          "name": "Lulu Voxx",
+          "url": "https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu"
+        }
+      ],
+      "duration_ms": 168124,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1707,6 +1707,34 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Kisses (feat. bbyclose) [BOVSKI Remix]",
+        "url": "https://open.spotify.com/album/4eQj8eVrp2FVkHKBnb72Fu"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        },
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        }
+      ],
+      "duration_ms": 130263,
+      "name": "Kisses (feat. bbyclose) - BOVSKI Remix",
+      "url": "https://open.spotify.com/track/3V71EUC3c4kGv0CvQyOgf7"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Eternal Rave",
         "url": "https://open.spotify.com/album/5nIGJ0xAgOpX6q4IpOVLiv"
       },
@@ -1747,34 +1775,6 @@
       "duration_ms": 167600,
       "name": "Click Click Click",
       "url": "https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Kisses (feat. bbyclose) [BOVSKI Remix]",
-        "url": "https://open.spotify.com/album/4eQj8eVrp2FVkHKBnb72Fu"
-      },
-      "artists": [
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        },
-        {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        },
-        {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
-        }
-      ],
-      "duration_ms": 130263,
-      "name": "Kisses (feat. bbyclose) - BOVSKI Remix",
-      "url": "https://open.spotify.com/track/3V71EUC3c4kGv0CvQyOgf7"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1935,26 +1935,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "My Mama Dropped LSD in the 90's",
-        "url": "https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL"
       },
       "artists": [
         {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        },
-        {
-          "name": "blazey",
-          "url": "https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh"
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
         }
       ],
-      "duration_ms": 176875,
-      "name": "My Mama Dropped LSD in the 90's",
-      "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
+      "duration_ms": 124867,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1983,18 +1975,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/6CFfmrqFNdXzSE4HPPbsRL"
+        "name": "My Mama Dropped LSD in the 90's",
+        "url": "https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT"
       },
       "artists": [
         {
-          "name": "Felix Harrer",
-          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        },
+        {
+          "name": "blazey",
+          "url": "https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh"
         }
       ],
-      "duration_ms": 124867,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/3FxIVbSCCOvWjHSCtEmIR7"
+      "duration_ms": 176875,
+      "name": "My Mama Dropped LSD in the 90's",
+      "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
     },
     {
       "added_at": "2025-06-26 22:00:24",

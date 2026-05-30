@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: yola, Dani Lia
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,559 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,646 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 2 | [Barcelona](https://open.spotify.com/track/0Q4wFsYNtf9nl7WkPXsb5g) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Barcelona](https://open.spotify.com/album/6M0Pkl89MLLkYwgV9OyCmr) | 3:26 |
 | 3 | [Viel zu viel](https://open.spotify.com/track/1C8vx4jzvtbIIYYfmZILOf) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Viel zu viel](https://open.spotify.com/album/6Fne9NbfCvPqI6qD8xPITx) | 2:18 |
 | 4 | [Ich hab das nie gehabt](https://open.spotify.com/track/73Rzc2roeMf1fmzLr8qnEc) | [Jakob Ude](https://open.spotify.com/artist/0gDG1LlsqO4O5w1ilk2iAH) | [Ich hab das nie gehabt](https://open.spotify.com/album/0lPgVf2LlSTeLUNPIoZiGP) | 2:21 |
-| 5 | [Track 1](https://open.spotify.com/track/0Moio5plYolRIS6HpmqjRD) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [letzter tag](https://open.spotify.com/album/0dBtMBFhRjnBValwhWS8dA) | 0:00 |
+| 5 | [letzter tag](https://open.spotify.com/track/0Moio5plYolRIS6HpmqjRD) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN), [BLISSFOOL](https://open.spotify.com/artist/2dH5TMksK8IRWkewaweRIm) | [letzter tag](https://open.spotify.com/album/0dBtMBFhRjnBValwhWS8dA) | 2:12 |
 | 6 | [ciao bb](https://open.spotify.com/track/5gbcw4QBRYTa2k84kEFHiA) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [ciao bb](https://open.spotify.com/album/6KUjT3Z3we8zDTrZwebRcP) | 2:21 |
 | 7 | [2016](https://open.spotify.com/track/1wOMDZVFe2xZ6m0k6YCFZe) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV) | [2016](https://open.spotify.com/album/79JQCEgltHLRpvevz3exHs) | 1:54 |
 | 8 | [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/track/7iNLydOMjLLb7BiwkdoPDU) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/album/2j3dLULErYg2IgQeBqEX1w) | 3:08 |

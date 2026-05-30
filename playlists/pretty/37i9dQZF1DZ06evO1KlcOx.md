@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KlcOx.md) - [plain]
 
 > This is Grouper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,047 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,050 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KlcOx.md) - [plain]
 | 31 | [Labyrinth](https://open.spotify.com/track/3qKYIZTq1u62J2o98CzmGR) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 3:47 |
 | 32 | [Down to the Ocean](https://open.spotify.com/track/0Eci42j6D7tsAVhOVlSuk2) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 6:07 |
 | 33 | [Atone](https://open.spotify.com/track/1hKjbUkgAJUerYuE4XhsoU) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 4:55 |
-| 34 | [Promise](https://open.spotify.com/track/1Kvrqt00lnQgjgHOWku4lF) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 2:49 |
+| 34 | [Cover the Long Way](https://open.spotify.com/track/5NxOjQYObGO5cISU5jd8uu) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:05 |
 | 35 | [Holding](https://open.spotify.com/track/3P4PFBvooKQCnKLml7ekdO) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 7:56 |
-| 36 | [Cloud in Places](https://open.spotify.com/track/0diPy4X3fZ253nxtUXXitO) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:05 |
+| 36 | [Promise](https://open.spotify.com/track/1Kvrqt00lnQgjgHOWku4lF) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 2:49 |
 | 37 | [It Feels Alright](https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 6:02 |
-| 38 | [Soul Eraser](https://open.spotify.com/track/3ylmcpuUneUlGgGkuO4Htw) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 8:00 |
+| 38 | [Cloud in Places](https://open.spotify.com/track/0diPy4X3fZ253nxtUXXitO) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:05 |
 | 39 | [Call Across Rooms](https://open.spotify.com/track/4detZaj6qfObdW7h9cHnFz) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ruins](https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa) | 2:59 |
-| 40 | [Cover the Long Way](https://open.spotify.com/track/5NxOjQYObGO5cISU5jd8uu) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:05 |
+| 40 | [Soul Eraser](https://open.spotify.com/track/3ylmcpuUneUlGgGkuO4Htw) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 8:00 |
 | 41 | [Heart Current](https://open.spotify.com/track/7kdGOznQ3wZO2lvFFtWxsf) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 4:41 |
-| 42 | [A Lie](https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 5:13 |
-| 43 | [Basement Mix](https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 5:17 |
-| 44 | [Driving](https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Grid of Points](https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8) | 3:48 |
+| 42 | [Basement Mix](https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 5:17 |
+| 43 | [Driving](https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Grid of Points](https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8) | 3:48 |
+| 44 | [A Lie](https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 5:13 |
 | 45 | [Hold](https://open.spotify.com/track/5khRdxp5670i4gUmJoVxKH) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Hold / Sick \- Single](https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE) | 5:30 |
-| 46 | [You Never Came](https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 5:35 |
-| 47 | [Unclean mind](https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
+| 46 | [Unclean mind](https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
+| 47 | [Little Boat/Bone Dance \(Audrey\)](https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Wide](https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE) | 3:06 |
 | 48 | [The Races](https://open.spotify.com/track/7wAqt1ZqGRzY2CiVBpBAG8) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Grid of Points](https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8) | 0:50 |
-| 49 | [Little Boat/Bone Dance \(Audrey\)](https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Wide](https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE) | 3:06 |
+| 49 | [You Never Came](https://open.spotify.com/track/20rFw2Y26pbwK2qZV0nCKc) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Cover the Windows and the Walls](https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6) | 5:35 |
 | 50 | [Dragging the Streets \- First Heart Tone](https://open.spotify.com/track/7xpVS1KQiRFWgZGi1bdijA) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Dream Loss](https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q) | 6:20 |
 
-Snapshot ID: `ahY0AAAAAACkC0bpPU3DGx/vM7D0v2ca`
+Snapshot ID: `aheFgAAAAAA0xkNmNTCx+ReIP6cjCHNO`

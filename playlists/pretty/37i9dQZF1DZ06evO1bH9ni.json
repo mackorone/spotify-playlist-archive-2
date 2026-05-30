@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 352618,
+  "num_followers": 352660,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAABCaV6IyRtH8ohn2mAN/cFo",
+  "snapshot_id": "aheFgAAAAAD5caUzot21NK7HFnSZ6OqD",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 152791,
+      "name": "La T\u00f3xica",
+      "url": "https://open.spotify.com/track/24MhzcEo2Ud8eYFbJcps7y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde El Expendio (En Vivo)",
         "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 216583,
       "name": "Lo Logr\u00e9 (En Vivo)",
       "url": "https://open.spotify.com/track/1fd44meocAPByn3w0Qp3LY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 152791,
-      "name": "La T\u00f3xica",
-      "url": "https://open.spotify.com/track/24MhzcEo2Ud8eYFbJcps7y"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Al Estilo Rancheron",
+        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 202327,
+      "name": "El Corrido de Panchito",
+      "url": "https://open.spotify.com/track/5X1fOMurUPOobZJj95NDef"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Compas El Final",
         "url": "https://open.spotify.com/album/1vTFwkahBUhneC1fmz3bRy"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 203710,
       "name": "La Opini\u00f3n",
       "url": "https://open.spotify.com/track/33o2E1rmr8Jl2JO1fdLgHG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Estilo Rancheron",
-        "url": "https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 202327,
-      "name": "El Corrido de Panchito",
-      "url": "https://open.spotify.com/track/5X1fOMurUPOobZJj95NDef"
     },
     {
       "added_at": null,

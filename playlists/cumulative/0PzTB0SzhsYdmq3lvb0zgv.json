@@ -1729,6 +1729,28 @@
     },
     {
       "album": {
+        "name": "Daffodils (feat. Faela)",
+        "url": "https://open.spotify.com/album/3kCTGRIWZVPMBD3WRFgrdO"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        },
+        {
+          "name": "Faela",
+          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191332,
+      "name": "Daffodils (feat. Faela)",
+      "url": "https://open.spotify.com/track/5UD3KQNl23a0cCnhNNQNal"
+    },
+    {
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -3168,7 +3190,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 229086,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/0OFOf0vAz1EL18MtIPRoOo"
@@ -4005,6 +4027,24 @@
     },
     {
       "album": {
+        "name": "I'll Never Feel That Young Again",
+        "url": "https://open.spotify.com/album/56BrmoyoywierPRlLk98uG"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215480,
+      "name": "I'll Never Feel That Young Again",
+      "url": "https://open.spotify.com/track/17nKILQNWELsNRGWuTGbpL"
+    },
+    {
+      "album": {
         "name": "I'll Never Say No",
         "url": "https://open.spotify.com/album/23OWgkohqINT90n2VLxyBw"
       },
@@ -4379,6 +4419,24 @@
     },
     {
       "album": {
+        "name": "Keep It To Yourself",
+        "url": "https://open.spotify.com/album/3FQ8bzLV3poKkW6thJ04Tw"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257644,
+      "name": "Keep It To Yourself",
+      "url": "https://open.spotify.com/track/0UUnMVRHGJKFq4mlsld8GV"
+    },
+    {
+      "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/0xWgd5MBL46v6Qu2qOwR6G"
       },
@@ -4408,7 +4466,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 216594,
       "name": "Know You've Been Loved",
       "url": "https://open.spotify.com/track/7FLEPid2NVZg3TePBk3eHS"

@@ -1,13 +1,29 @@
 {
   "description": "All live, all blues. Cover: Samantha Fish",
-  "num_followers": 203902,
+  "num_followers": 203928,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALT/F/1JGwUCOeBoYLF65rZ7r80J",
+  "snapshot_id": "AAAAAPGF2cE4M55mQhBEL2n4LDzTOWot",
   "tracks": [
+    {
+      "added_at": "2026-05-29 04:00:35",
+      "album": {
+        "name": "Paper Doll (Live)",
+        "url": "https://open.spotify.com/album/14PabwwXnFajy1sfXmTYey"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 256358,
+      "name": "Paper Doll - Live",
+      "url": "https://open.spotify.com/track/3LHV2sJZCPAgmF2M5blexT"
+    },
     {
       "added_at": "2026-05-01 04:00:45",
       "album": {
@@ -103,22 +119,6 @@
       "duration_ms": 540733,
       "name": "Bridge Of Sighs - Live",
       "url": "https://open.spotify.com/track/1jXLVE3dElUuZtNSzEdS47"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3FgscaFSKt1FekwGFw4FNQ"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 473486,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/1MjrAbIA1Uhq1gURgMV36C"
     },
     {
       "added_at": "2024-10-18 04:00:00",

@@ -2,9 +2,9 @@
 
 ### [Folk Pop](https://open.spotify.com/playlist/37i9dQZF1DWXJyjYpHunCf)
 
-> The best of folk\-infused pop and singer\-songwriter\. Cover: Bebe Stockwell
+> The best of folk\-infused pop and singer\-songwriter\. Cover: corook
 
-594 songs - 1 day 9 hr 33 min
+596 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-25 | 2025-03-01 |
 | [Fair To You](https://open.spotify.com/track/21ZKNvnpr0ahYMFsTffZCm) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [Fair To You](https://open.spotify.com/album/6nXMgFLI7FcMiDR9OHnLaQ) | 3:38 | 2025-07-18 |  |
 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 | 2021-11-12 | 2023-09-30 |
+| [Fallen Angel](https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc) | [Baby J](https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK) | [Fallen Angel](https://open.spotify.com/album/3ZLm8xE9pOYo3HRRI1pXbX) | 3:05 | 2026-05-29 |  |
 | [Fallen Angel](https://open.spotify.com/track/6IUvnywluytD4Q0XLaneQ9) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [The Ghost of Our Past](https://open.spotify.com/album/5F2AUeavouVLCvaGEm7LaT) | 2:44 | 2024-07-12 | 2025-08-16 |
 | [Falling Faster](https://open.spotify.com/track/08mpiFeuRWQeJsswcdSTDl) | [Dylan Espeseth](https://open.spotify.com/artist/7wS3LzIpvpoPcpZKFpFAv0) | [Falling Faster](https://open.spotify.com/album/55Kd1nwppQaWjuKmphoeih) | 1:32 | 2024-05-17 | 2026-01-31 |
 | [Fault Line](https://open.spotify.com/track/3sThVFtOmlfOUh3yE2ObQd) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [The Space Between](https://open.spotify.com/album/3RDaPTTnQLcL2HuI5HQb2s) | 3:07 | 2022-10-14 | 2023-07-29 |
@@ -411,6 +412,7 @@
 | [Ready to Let You Down](https://open.spotify.com/track/4SEbW0shz7Q7yN3qrEDoQM) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Ready to Let You Down](https://open.spotify.com/album/3tkB4oJJ3ENFQMDjflYIBu) | 3:04 | 2025-09-19 |  |
 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 | 2023-09-29 | 2025-07-05 |
 | [Rearview](https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 3:51 | 2024-03-29 | 2024-04-19 |
+| [Relate to you](https://open.spotify.com/track/3G7D8chDbs0e3ho8U1uN8B) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [How do I relate to you?](https://open.spotify.com/album/4xiUQNTYDIDU0Tdj5dEKq0) | 2:44 | 2026-05-29 |  |
 | [Renegade](https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:14 | 2022-03-12 | 2024-04-19 |
 | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/track/1aU1wpYBSpP0M6IiihY5Ue) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/album/4kD0pFwhEjEiF9pwUwkpNo) | 4:14 | 2021-11-12 | 2022-07-29 |
 | [Revival](https://open.spotify.com/track/4TaRFbSPV4xhtRVPLs7BO7) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 4:05 | 2024-02-09 | 2024-03-30 |
@@ -526,7 +528,7 @@
 | [Time](https://open.spotify.com/track/49tW2u59iX2z2thHLkYYo5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/2Re9wrza8ZH46MUah5tILo) | 3:37 | 2021-11-12 | 2023-08-26 |
 | [Time After Time](https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Time After Time](https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x) | 3:39 | 2025-07-18 |  |
 | [Time Stand Still](https://open.spotify.com/track/6DblObtQQRnyqx9z6KVGFy) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life \(In Progress…\)](https://open.spotify.com/album/58dF8ETOhaFmNwngKEX1e7) | 4:39 | 2021-11-12 | 2022-07-29 |
-| [time zones](https://open.spotify.com/track/4PwAIYkeLM1dxVpSpw9mno) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [retrograde rodeo](https://open.spotify.com/album/5662DUUWrUnbd5rMa11ker) | 3:59 | 2025-03-14 |  |
+| [time zones](https://open.spotify.com/track/4PwAIYkeLM1dxVpSpw9mno) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [retrograde rodeo](https://open.spotify.com/album/5662DUUWrUnbd5rMa11ker) | 3:59 | 2025-03-14 | 2026-05-30 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-29 | 2025-08-16 |
 | [trees talk](https://open.spotify.com/track/6IGuqCOKQseTMHjALbFS16) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [trees talk](https://open.spotify.com/album/3Yr0kMBATk0wU6jTb7mIGO) | 3:04 | 2024-02-23 | 2025-04-12 |
 | [Turn out fine](https://open.spotify.com/track/4gdDN4A202OO2u7UDhoMjM) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Turn out fine](https://open.spotify.com/album/4LPDuEPmWtMfOj8argxDrI) | 2:27 | 2023-10-27 | 2024-03-30 |
@@ -591,7 +593,7 @@
 | [Worth the Walk](https://open.spotify.com/track/0b6sdOUZ6DMiE8rhTpGuzK) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [To Love A Thing That Fades](https://open.spotify.com/album/1mBprt4SXV2ih1O6HVRbUK) | 3:20 | 2025-09-19 |  |
 | [Yellow Brick Road](https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Yellow Brick Road](https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K) | 2:32 | 2025-06-06 | 2026-05-05 |
 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 | 2022-03-12 | 2024-01-19 |
-| [You Again](https://open.spotify.com/track/1Ki5PqMFMTKQfjB1uet9pG) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [You Again](https://open.spotify.com/album/2Chkb8Apocqiq73DnOC56m) | 3:14 | 2025-07-25 |  |
+| [You Again](https://open.spotify.com/track/1Ki5PqMFMTKQfjB1uet9pG) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [You Again](https://open.spotify.com/album/2Chkb8Apocqiq73DnOC56m) | 3:14 | 2025-07-25 | 2026-05-30 |
 | [You and Me On The Rock \(feat\. Lucius\)](https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:50 | 2021-11-12 | 2024-03-30 |
 | [You Are Enough](https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: I](https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh) | 3:00 | 2022-03-12 | 2024-03-30 |
 | [You Know the Way](https://open.spotify.com/track/5lrjZi5VNHqzr2UOBQvpka) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [You Know the Way](https://open.spotify.com/album/458HVOlPJ7mZY8T0XfBcI7) | 3:45 | 2022-02-21 | 2022-07-29 |

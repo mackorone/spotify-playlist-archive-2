@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/0edtlQTIC4ASTx7fUrXeqt"
+      },
+      "artists": [
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245007,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/0PbjL16GqsdVfQzYbjodnW"
+    },
+    {
+      "album": {
         "name": "Era",
         "url": "https://open.spotify.com/album/2AGsrVHSxTzWUz55LLU9hn"
       },
@@ -2391,6 +2409,24 @@
     },
     {
       "album": {
+        "name": "Mi Chico",
+        "url": "https://open.spotify.com/album/62l0wWMAp5TewPjHGqzyqY"
+      },
+      "artists": [
+        {
+          "name": "DJ Goja",
+          "url": "https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117053,
+      "name": "Mi Chico",
+      "url": "https://open.spotify.com/track/3hEtikqJXwlhC6Erz6pBrO"
+    },
+    {
+      "album": {
         "name": "Milky Way",
         "url": "https://open.spotify.com/album/3u201ZucjhDqDE4ZxDo1BR"
       },
@@ -2446,7 +2482,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 244285,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
@@ -4640,7 +4676,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 213688,
       "name": "Watching Me Dance",
       "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"

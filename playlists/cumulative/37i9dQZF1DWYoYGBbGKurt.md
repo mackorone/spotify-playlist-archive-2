@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-2,155 songs - 3 day 11 hr 18 min
+2,157 songs - 3 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Andira](https://open.spotify.com/track/3r2nv7g2OzpEZnsAW4Nflk) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Flynn](https://open.spotify.com/artist/0kJ2SIy2AnpPecBkJBzbMs) | [Andira](https://open.spotify.com/album/3yJjuHIO01ogd9dQc0e4xb) | 2:24 | 2021-12-07 | 2022-06-03 |
 | [Angel Number](https://open.spotify.com/track/0nwUtqy8TOnRahAzCmL42A) | [Beats Me, Innit?](https://open.spotify.com/artist/5szil3lhFSrW575RVEyPle) | [Angel Number](https://open.spotify.com/album/1X6EUgFJT1cwbG5SCePy7f) | 2:26 | 2021-12-07 | 2022-07-01 |
 | [Animal Crackers](https://open.spotify.com/track/6zmL0Bh4xKcyLoTQmUyNjE) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Effervescence](https://open.spotify.com/album/6Y7FWY7v3ZJFhZB83WPWv0) | 2:29 | 2021-12-07 | 2022-04-22 |
+| [another day](https://open.spotify.com/track/1DiwLXhMPO4oMAMbvdfGlE) | [afk](https://open.spotify.com/artist/29Xl84PNW154iIVrdVe2mN) | [another day](https://open.spotify.com/album/4tDNa6XxGzivgOk5L15PlZ) | 2:03 | 2026-05-29 |  |
 | [Another Day](https://open.spotify.com/track/4W5uebptHEmglHmveaYuj0) | [MagicCarpet](https://open.spotify.com/artist/20GTeaSXQRZspkO26Aq08R) | [Another Day](https://open.spotify.com/album/7uEbuJiST2zxb1CVmGD7ZF) | 2:09 | 2024-04-12 | 2025-04-19 |
 | [Another Dream](https://open.spotify.com/track/1prwLKcbevHh3roJBvZM1V) | [David Chief](https://open.spotify.com/artist/74MxkvPdj4ymZu9WZLxZZU), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Embers](https://open.spotify.com/album/093XnMFA71IuV7XFPBJEuR) | 1:24 | 2022-12-02 | 2023-08-22 |
 | [another time, another place](https://open.spotify.com/track/6A0Nu9iDYTjeCVXCm2fplq) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [another time, another place](https://open.spotify.com/album/4dWPNuUqkN1yPICPJFFFTi) | 2:45 | 2025-05-09 |  |
@@ -1771,6 +1772,7 @@
 | [stay here forever](https://open.spotify.com/track/7a6pu1aq2siFqMiLsLTcbB) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [stay here forever](https://open.spotify.com/album/4NLgYPTckHgyaiG3bZNqHP) | 2:14 | 2025-01-10 |  |
 | [Stay In Bed](https://open.spotify.com/track/1ACT2a4ZJWOZ2pyxuy3LuW) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Stay In Bed](https://open.spotify.com/album/4euuJt7jYJUnikG6HV4lxt) | 2:14 | 2022-06-10 | 2023-08-22 |
 | [Stems](https://open.spotify.com/track/71rmPrXb2YJnDP0IwtSksf) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [bouji bud](https://open.spotify.com/artist/4sKoAY8ajcXn6EI1ioDLXW) | [Ambrosia](https://open.spotify.com/album/4RxS1oXpacNGS2QqOfEmPJ) | 2:58 | 2023-01-20 | 2023-09-22 |
+| [still frames](https://open.spotify.com/track/5Mmf7AGKb276vcWTcLxxML) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [still frames](https://open.spotify.com/album/2wvJP6YwsUH8jBXeyLpQqC) | 2:03 | 2026-05-29 |  |
 | [Still Young](https://open.spotify.com/track/4akTe398s6zuJumFOM84Ik) | [Lazy Leopard](https://open.spotify.com/artist/41IKlkMyLVlT0OAkxXQtw4) | [Still Young](https://open.spotify.com/album/2trVdjWprHDbEPZ4zG597Y) | 1:48 | 2021-12-07 | 2022-07-01 |
 | [Stingray Jam](https://open.spotify.com/track/1LBULFw1T8HFqkA9PWAXnU) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Stingray Jam](https://open.spotify.com/album/2ik8qd7jDyATt7V4vsu7N2) | 2:41 | 2022-12-16 | 2023-10-20 |
 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 | 2023-10-13 | 2023-11-11 |

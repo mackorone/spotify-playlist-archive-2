@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 
 > Un mix de reggae y buena vibra para ver caer el sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,784 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,803 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,17 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 14 | [Esperaría Al Sol](https://open.spotify.com/track/2bWY2H78KeFkJRK0N80JG0) | [SER](https://open.spotify.com/artist/5Tk3cLiTSfgrMC4BxInpO9), [Piru Saez](https://open.spotify.com/artist/2qdl3OSZp8RVa0nCkHrDa9) | [Esperaría Al Sol](https://open.spotify.com/album/0inn5RinNhGSTFKXK06yoj) | 4:03 |
 | 15 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 |
 | 16 | [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 |
-| 17 | [Anónimos \(feat\. Carla Morrison\)](https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 5:15 |
+| 17 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 |
 | 18 | [La Medicina](https://open.spotify.com/track/7MWXlXJZBzrJVjbWb4woWz) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB) | [La Medicina](https://open.spotify.com/album/7tWT7yzxjFsiOW6MshgnEy) | 2:28 |
-| 19 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 |
+| 19 | [Anónimos \(feat\. Carla Morrison\)](https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 5:15 |
 | 20 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 |
 | 21 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
 | 22 | [Isla del Ritmo](https://open.spotify.com/track/5YAQFjWdqU0Rjm0SbnY8wf) | [Ritmo Machine](https://open.spotify.com/artist/00sAqRmmkclLUg9p8ICDnw) | [Isla del Ritmo](https://open.spotify.com/album/00hZw0zggoguww2I6rb1FH) | 3:16 |
 | 23 | [Caney](https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/1iVjhPA4VTxJ17IfxcYHGH) | [Caney](https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc) | 3:50 |
 | 24 | [Llévame](https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Bebo Dumont](https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe) | [Llévame \(Cultura Remix\)](https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy) | 4:24 |
 | 25 | [No Te Desanimes](https://open.spotify.com/track/5UhdNEQw0SOtfdUYx3FhkU) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [No Te Desanimes](https://open.spotify.com/album/3ULGENdwrVsBlo4aCHhywh) | 4:28 |
-| 26 | [Una Cumbia Triste](https://open.spotify.com/track/5IQfg3XiRgQpbKnbyiIDNx) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 3:31 |
-| 27 | [Si el Amor Se Cae \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 3:58 |
+| 26 | [Si el Amor Se Cae \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 3:58 |
+| 27 | [Una Cumbia Triste](https://open.spotify.com/track/5IQfg3XiRgQpbKnbyiIDNx) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 3:31 |
 | 28 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 |
 | 29 | [Love Song](https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 3:58 |
 | 30 | [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 |

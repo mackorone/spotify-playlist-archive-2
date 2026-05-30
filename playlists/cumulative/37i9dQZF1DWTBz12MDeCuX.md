@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: kid kapri, yung pepp
 
-3,499 songs - 6 day 18 hr 53 min
+3,499 songs - 6 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1778,6 +1778,7 @@
 | [Letztendlich](https://open.spotify.com/track/6Ysm6WDVXjmAZOnOtjtmD0) | [MC WINDHUND](https://open.spotify.com/artist/57MYoG73ZnyZPIpZbTXFUb) | [Letztendlich](https://open.spotify.com/album/4ndqsfxyeN7NMXyvkBpHTh) | 1:46 | 2024-05-23 | 2025-01-17 |
 | [Letzter Mensch](https://open.spotify.com/track/7Buw73JcMhd8sbrkIy0NUB) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [Letzter Mensch](https://open.spotify.com/album/0FLDhTobRqCV03GKzC34Jh) | 3:17 | 2026-03-05 | 2026-04-24 |
 | [letzter tag](https://open.spotify.com/track/0xu6dHIkh2eaLAhMRR3da0) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [lieder vom leben](https://open.spotify.com/album/6lTnRSnWUH4ROGLZWn1cOW) | 3:09 | 2024-07-26 | 2024-08-09 |
+| [letzter tag](https://open.spotify.com/track/0Moio5plYolRIS6HpmqjRD) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN), [BLISSFOOL](https://open.spotify.com/artist/2dH5TMksK8IRWkewaweRIm) | [letzter tag](https://open.spotify.com/album/0dBtMBFhRjnBValwhWS8dA) | 2:12 | 2026-05-28 |  |
 | [Letzter Tag](https://open.spotify.com/track/0FHJba7LMdY8s34lITV3DV) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Letzter Tag](https://open.spotify.com/album/5thuLWe6FnOxGp38JnCfTf) | 2:11 | 2025-02-27 | 2025-03-28 |
 | [Letztes Liebeslied](https://open.spotify.com/track/4Btio8Og0IzYk93AD6fQLc) | [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA), [SANITO](https://open.spotify.com/artist/45vHPR6n5JrfHQusM0zbT2), [yungfijay](https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm) | [Letztes Liebeslied](https://open.spotify.com/album/75dxadbFrGH1cIzEc4aUH4) | 2:54 | 2022-08-11 | 2022-08-26 |
 | [Letztes Lied](https://open.spotify.com/track/32CTnLyfwOpDQWwB7IOYXj) | [Rex](https://open.spotify.com/artist/4oZpEOsCD2du75K8BadPSY), [Sira Faal](https://open.spotify.com/artist/57IaP5fMkqnu3M3ib1Vgvs) | [Letztes Lied](https://open.spotify.com/album/498HXnLGLmrJZi0tSbY6R1) | 3:08 | 2026-04-16 | 2026-05-19 |
@@ -3021,7 +3022,6 @@
 | [Tour de Berlin](https://open.spotify.com/track/28eqTE31oIjrlSMK4y1VwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Tour de Berlin](https://open.spotify.com/album/7kOiXbB7O03HTlsu0qsBod) | 2:31 | 2022-11-03 | 2023-02-24 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-09-22 |
 | [toxic energy \(with The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-08-12 |
-| [Track 1](https://open.spotify.com/track/0Moio5plYolRIS6HpmqjRD) | [Hank](https://open.spotify.com/artist/1OZz0inGRhM1MojienwKeN) | [letzter tag](https://open.spotify.com/album/0dBtMBFhRjnBValwhWS8dA) | 0:00 | 2026-05-28 |  |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-04-17 | 2025-05-20 |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 | 2023-09-01 |
 | [Tracksuit Velours](https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Tracksuit Velours](https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc) | 2:30 | 2022-06-16 | 2022-09-02 |

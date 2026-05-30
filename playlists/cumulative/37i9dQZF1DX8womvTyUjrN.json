@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Kidd Voodoo",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Young Cister",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -1253,6 +1253,24 @@
     },
     {
       "album": {
+        "name": "Ricky y Mau",
+        "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142150,
+      "name": "AMAPOLA",
+      "url": "https://open.spotify.com/track/4iXgIc7EYYppSPmkMaGJRW"
+    },
+    {
+      "album": {
         "name": "amarillo",
         "url": "https://open.spotify.com/album/794XwJmivFd9maFbt8EPUb"
       },
@@ -2213,6 +2231,32 @@
     },
     {
       "album": {
+        "name": "BAILAS EN MI MENTE",
+        "url": "https://open.spotify.com/album/3GXdh1xy0FChbIPRjCb6kE"
+      },
+      "artists": [
+        {
+          "name": "LOCKWARD",
+          "url": "https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y"
+        },
+        {
+          "name": "Yannc",
+          "url": "https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1"
+        },
+        {
+          "name": "Full Harmony",
+          "url": "https://open.spotify.com/artist/05zdv8cIoFjW1CLROPsqkE"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131214,
+      "name": "BAILAS EN MI MENTE",
+      "url": "https://open.spotify.com/track/6jw78DLVUSqZRhXOvzZcQ8"
+    },
+    {
+      "album": {
         "name": "BAJO CERO",
         "url": "https://open.spotify.com/album/3pQ54dQWi9W956cG1N9H7C"
       },
@@ -2362,6 +2406,28 @@
       "duration_ms": 183007,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/3bf0lyG7ATkh89IkUdRAJR"
+    },
+    {
+      "album": {
+        "name": "BARCELOWNA",
+        "url": "https://open.spotify.com/album/5t1tFCHJxI4ab1ZLQDM5o1"
+      },
+      "artists": [
+        {
+          "name": "Anacri",
+          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
+        },
+        {
+          "name": "Sen6",
+          "url": "https://open.spotify.com/artist/4yRj5C8YJqIcq8QMKnIIWa"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "BARCELOWNA",
+      "url": "https://open.spotify.com/track/5pgxXa1o9WAnKzsXLqJPTI"
     },
     {
       "album": {
@@ -4935,6 +5001,24 @@
     },
     {
       "album": {
+        "name": "crush",
+        "url": "https://open.spotify.com/album/1Ry9tP4Uwdv04As7ArihdT"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172762,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/58JHQSju4UT64HNwialsZ9"
+    },
+    {
+      "album": {
         "name": "cruz",
         "url": "https://open.spotify.com/album/5SQWT4ckCwTAsQx5JQPL1U"
       },
@@ -7332,7 +7416,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 224416,
       "name": "Encu\u00e9ntrame en Tokio",
       "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
@@ -10738,7 +10822,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 152922,
       "name": "La Gente Cambia",
       "url": "https://open.spotify.com/track/6j7DWRBNyPSTCVSWxU0i6H"
@@ -12658,7 +12742,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 254740,
       "name": "Mantis",
       "url": "https://open.spotify.com/track/6ImCkOkytyhBDWDU3a26iL"
@@ -15371,6 +15455,24 @@
     },
     {
       "album": {
+        "name": "Atanor",
+        "url": "https://open.spotify.com/album/6DrdihUtlmWjSaSVPW4M5Y"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "Notre-Dame",
+      "url": "https://open.spotify.com/track/6c2s7cbT6WbothMJ6HaywK"
+    },
+    {
+      "album": {
         "name": "NOW",
         "url": "https://open.spotify.com/album/5uLwxrxExey2DMjxYTEnMC"
       },
@@ -17601,6 +17703,28 @@
     },
     {
       "album": {
+        "name": "PUNTER\u00cdA",
+        "url": "https://open.spotify.com/album/3OaUzv9LbQ4BQcvnJQp3Md"
+      },
+      "artists": [
+        {
+          "name": "PARDOPARDO",
+          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+        },
+        {
+          "name": "Luis Mint",
+          "url": "https://open.spotify.com/artist/1kGLVoWLKArhbWhADndMKu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136590,
+      "name": "PUNTER\u00cdA (feat. Luis Mint)",
+      "url": "https://open.spotify.com/track/7t9xKg1DSRBiQBBHJ9R9rF"
+    },
+    {
+      "album": {
         "name": "Pu\u00f1ales",
         "url": "https://open.spotify.com/album/5qhKAVJqruluLhgIe3wo1A"
       },
@@ -18592,7 +18716,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 201316,
       "name": "Re\u00edrme Sin Ti",
       "url": "https://open.spotify.com/track/1MPVlNPGwBdXN3Uaw6FIzS"
@@ -20186,7 +20310,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 140342,
       "name": "Suiza",
       "url": "https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju"
@@ -22290,7 +22414,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 154506,
       "name": "Una Vez Y Ya",
       "url": "https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD"

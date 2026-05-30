@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 
 > Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,700 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,715 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,16 +44,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 34 | [Savior](https://open.spotify.com/track/3asFGFY3uLjMDmML1p0tYm) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/3smHEWBKoqDUFuJrV8BCg1) | 4:02 |
 | 35 | [Too Shy](https://open.spotify.com/track/6WEBIVqiEsevfgJefTyuQQ) | [Kajagoogoo](https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl) | [White Feathers](https://open.spotify.com/album/52koatNHePHRWEmmkP0z2Z) | 3:41 |
 | 36 | [The Big Bang](https://open.spotify.com/track/0SGojwNP2zUrgDyeoBQxYO) | [Rock Mafia](https://open.spotify.com/artist/4pzAvicKWenQtv9zIQim47) | [The Big Bang](https://open.spotify.com/album/4KiFoNGSzCB5vxGrobuUcv) | 2:40 |
-| 37 | [Everything She Ain’t](https://open.spotify.com/track/1Pvp4xtQXVWVmRCP3StxrK) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/2fbpiahbZmJqg2KDK9JEVJ) | 2:31 |
-| 38 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 |
+| 37 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 |
+| 38 | [Everything She Ain’t](https://open.spotify.com/track/1Pvp4xtQXVWVmRCP3StxrK) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Raised](https://open.spotify.com/album/2fbpiahbZmJqg2KDK9JEVJ) | 2:31 |
 | 39 | [Stand Tall](https://open.spotify.com/track/02ypv5cnkwTGBCMfhpRT86) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Any Port in a Storm \(Special Edition\)](https://open.spotify.com/album/7scLSyggM3EvytUY325PKC) | 3:11 |
 | 40 | [Memory Lane](https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw) | 2:52 |
 | 41 | [Dulce Locura](https://open.spotify.com/track/1I3O8YESvj6G6TqHaJTvEU) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Guapa](https://open.spotify.com/album/5UdHC0G64TmwovfaGY8U2P) | 3:50 |
 | 42 | [Brindo](https://open.spotify.com/track/1abN81EF3BNKoVpSxvQXPi) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [5](https://open.spotify.com/album/158sVr4HeR7ukWJMDGmdFw) | 3:05 |
 | 43 | [Happy Face](https://open.spotify.com/track/3YYTCTlM2K3GoRz3X3d4ES) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Happy Face](https://open.spotify.com/album/7lYCoXM88rbCAePNgR6L1I) | 2:49 |
 | 44 | [All the Time](https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [All the Time](https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV) | 3:48 |
-| 45 | [ハルジオン](https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ハルジオン](https://open.spotify.com/album/4sKqN5y5RydUVgSSccH13q) | 3:18 |
-| 46 | [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 |
+| 45 | [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 |
+| 46 | [ハルジオン](https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ハルジオン](https://open.spotify.com/album/4sKqN5y5RydUVgSSccH13q) | 3:18 |
 | 47 | [Things Can Only Get Better \- 2018 Remaster](https://open.spotify.com/track/2zbXf2qz52eXmw4dpHWWq6) | [Howard Jones](https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY) | [Dream Into Action \(2018 Expanded & Remastered Edition\)](https://open.spotify.com/album/4RCG2vLqJFqEeVRA4y3BYB) | 3:55 |
 | 48 | [DUMB](https://open.spotify.com/track/2Pul6SaLL8e0sQhJDBVOr1) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 2:16 |
 | 49 | [Love Is Wicked](https://open.spotify.com/track/5kEfk2sb4xoEvk2zWbTGpt) | [Brick & Lace](https://open.spotify.com/artist/42zM1Af1Wgt8ftcda1sJxW) | [Love Is Wicked](https://open.spotify.com/album/5QrzQczc1WR25yn4u1PX5x) | 3:42 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 67 | [This Too Shall Pass](https://open.spotify.com/track/0OETmammlGosgW2SkaFeYl) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Of the Blue Colour of the Sky](https://open.spotify.com/album/41VPP2i2Yrwe8bXs5NNpM9) | 3:08 |
 | 68 | [Kiss Me Slowly](https://open.spotify.com/track/72R0X0h8YaxYNpegeoOl0M) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [The Way It Was](https://open.spotify.com/album/7drIw3eAGaFbqjAQe9EMYF) | 3:55 |
 | 69 | [Double Vision](https://open.spotify.com/track/3o2ESAMet1zR1aASlzrIxO) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F) | [Streets Of Gold](https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R) | 3:10 |
-| 70 | [Touchin’](https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [Touchin’ \(The Pack\)](https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw) | 3:13 |
-| 71 | [City Boy](https://open.spotify.com/track/4bIRKImTd8vH9Ks79l7Rz8) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO) | [Silver Moon](https://open.spotify.com/album/6vNVvWECWw4lYzwGLOEW6B) | 3:24 |
-| 72 | [Suffer Well](https://open.spotify.com/track/1tG9Hnpx1kfsHmyafOl0pF) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Playing the Angel \(Deluxe\)](https://open.spotify.com/album/57o8ROknLhGAxhiLKTOwSt) | 3:49 |
+| 70 | [Suffer Well](https://open.spotify.com/track/1tG9Hnpx1kfsHmyafOl0pF) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Playing the Angel \(Deluxe\)](https://open.spotify.com/album/57o8ROknLhGAxhiLKTOwSt) | 3:49 |
+| 71 | [Touchin’](https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [Touchin’ \(The Pack\)](https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw) | 3:13 |
+| 72 | [City Boy](https://open.spotify.com/track/4bIRKImTd8vH9Ks79l7Rz8) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO) | [Silver Moon](https://open.spotify.com/album/6vNVvWECWw4lYzwGLOEW6B) | 3:24 |
 | 73 | [Hit and Run](https://open.spotify.com/track/5NyA9sbbbRbjBeoJqFw1th) | [LOLO](https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA) | [Hit and Run](https://open.spotify.com/album/6lXAh5S4jE0AzBCi5yrcEM) | 3:04 |
 | 74 | [Love Me Dead](https://open.spotify.com/track/3IlYkyctlcTqXAZOA4ZPzz) | [Ludo](https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL) | [You're Awful, I Love You](https://open.spotify.com/album/7kG99quHohiDviZ4FsKCQA) | 4:20 |
 | 75 | [BMO](https://open.spotify.com/track/7Ffgp7DIow5wECYQyzEiTq) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 2:26 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0DjgMvP8nVJ.md) - [plain]
 | 92 | [Halloweenie VI: Possess Me](https://open.spotify.com/track/7kkZdXNVFUxtRVtwSQTnqU) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie I\-VI](https://open.spotify.com/album/01SvqQgWJr51L72qAWsRCc) | 2:57 |
 | 93 | [We Don't Know](https://open.spotify.com/track/68dYfLuvuF9AeHGyk2tUOK) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/21fsTeBAGnpzzJ1brqXG9i) | 4:33 |
 | 94 | [Chemicals React \- Remix](https://open.spotify.com/track/7vOjTY220BqIttYDbwshED) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 2:55 |
-| 95 | [SHELL \( OF A MAN \)](https://open.spotify.com/track/79ckbJiCdKrGYPTmpFlc7u) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:39 |
-| 96 | [Sleep Talking](https://open.spotify.com/track/0ojtOskzapucZWX767nQrc) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Sleep Talking](https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ) | 3:44 |
+| 95 | [Sleep Talking](https://open.spotify.com/track/0ojtOskzapucZWX767nQrc) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Sleep Talking](https://open.spotify.com/album/5j2SxMw6xC8wNKUfrtgjvQ) | 3:44 |
+| 96 | [SHELL \( OF A MAN \)](https://open.spotify.com/track/79ckbJiCdKrGYPTmpFlc7u) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:39 |
 | 97 | [Explorers](https://open.spotify.com/track/0D94OfdPJnUtMSd7ZKeOac) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/5kQUIjlpXoMMAHRAhbXmpp) | 4:16 |
 | 98 | [Perfect Someone](https://open.spotify.com/track/4xmAEAbMldER7mz8DnFk1b) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 4:39 |
 | 99 | [When It All Falls Apart](https://open.spotify.com/track/2lxXXI3hF46APE0wZlTeUZ) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:12 |

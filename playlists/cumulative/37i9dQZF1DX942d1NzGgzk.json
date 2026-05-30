@@ -6923,6 +6923,24 @@
     },
     {
       "album": {
+        "name": "ghosted - EP",
+        "url": "https://open.spotify.com/album/1FI0XA7lmm54RaMcucVBBe"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179697,
+      "name": "minute",
+      "url": "https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo"
+    },
+    {
+      "album": {
         "name": "Miss Me",
         "url": "https://open.spotify.com/album/2Q4lZ6WSea4YWAV60vCYoI"
       },
@@ -10523,6 +10541,24 @@
     },
     {
       "album": {
+        "name": "mind the gap",
+        "url": "https://open.spotify.com/album/7CoasIpZcrXKpeVtDwj77H"
+      },
+      "artists": [
+        {
+          "name": "Reuben Aziz",
+          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95238,
+      "name": "thru the valley",
+      "url": "https://open.spotify.com/track/6S0k9l9BftuJKd6GxKOdrz"
+    },
+    {
+      "album": {
         "name": "Outlines",
         "url": "https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU"
       },
@@ -10716,42 +10752,6 @@
       "duration_ms": 205597,
       "name": "traces",
       "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
-    },
-    {
-      "album": {
-        "name": "mind the gap",
-        "url": "https://open.spotify.com/album/7CoasIpZcrXKpeVtDwj77H"
-      },
-      "artists": [
-        {
-          "name": "Reuben Aziz",
-          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/6S0k9l9BftuJKd6GxKOdrz"
-    },
-    {
-      "album": {
-        "name": "ghosted - EP",
-        "url": "https://open.spotify.com/album/1FI0XA7lmm54RaMcucVBBe"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "date_added": "2026-05-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo"
     },
     {
       "album": {

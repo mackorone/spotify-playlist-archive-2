@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 
 > This is Lizzo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,801 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,780 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 14 | [What's Goin On \(feat\. Lizzo\)](https://open.spotify.com/track/5RpGHqlGHRTGWzNPBKW08D) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:24 |
 | 15 | [Boys](https://open.spotify.com/track/1du4tPkvJfCIuVL6WMtqSs) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:52 |
 | 16 | [YITTY ON YO TITTYS \(FREESTYLE\)](https://open.spotify.com/track/6mzJqQzYatigPwoJrvKlJM) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:28 |
-| 17 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 |
-| 18 | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 |
+| 17 | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [HOES \(feat\. Sexyy Red\) \[From Scary Movie\]](https://open.spotify.com/album/1fuVofIf79f9kg2CPH3LIt) | 2:09 |
+| 18 | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Rumors \(feat\. Cardi B\)](https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy) | 2:52 |
 | 19 | [Good as Hell \(feat\. Ariana Grande\)](https://open.spotify.com/track/2rjjNUYONZqC7wSd1i6OFq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 |
 | 20 | [Tempo \(feat\. Missy Elliott\)](https://open.spotify.com/track/6nBQFAIVFmAx2oZ8p6lUg6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:55 |
 | 21 | [Pink](https://open.spotify.com/track/2YXGbxICUdOUJe9OPlicy1) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 2:23 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZTWSp.md) - [plain]
 | 42 | [Scuse Me](https://open.spotify.com/track/26Q7f4tUntDtlL4EyZz65X) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:24 |
 | 43 | [Juice \- Breakbot Mix](https://open.spotify.com/track/47OnQIAx7QHkm1SbfXcjfP) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Juice \(Breakbot Mix\)](https://open.spotify.com/album/2PfQ8dwtLbBEunURVww5qB) | 2:52 |
 | 44 | [BOP IT!](https://open.spotify.com/track/6sCQYWvTIOIinEgO1d1JJV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE STILL HURTS FROM SMILING](https://open.spotify.com/album/2YoR3iqOT0HH62KRJN39w2) | 1:43 |
-| 45 | [Freak Show](https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:29 |
+| 45 | [Phone](https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Phone](https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2) | 2:49 |
 | 46 | [Worship](https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 2:57 |
-| 47 | [Phone](https://open.spotify.com/track/61yntOSHzW2kTeEsLhOH9c) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Phone](https://open.spotify.com/album/2MiUqzCCfWD0hLJvQXfBG2) | 2:49 |
+| 47 | [Freak Show](https://open.spotify.com/track/7zaWcWOj8qZWKqf0ldafNv) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Did The Body](https://open.spotify.com/album/4HOuHBKlSAkdpHf50kHMAH) | 2:29 |
 | 48 | [Let 'em Say](https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Caroline Smith](https://open.spotify.com/artist/47blM5Op3BJODxUJImwdYE) | [Let 'em Say](https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp) | 3:20 |
 | 49 | [NEW MISTAKES](https://open.spotify.com/track/2i8qZfW5H5xCG3YJBqZ0ZA) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 3:17 |
 | 50 | [Coconut Oil](https://open.spotify.com/track/6E44nO0qqQqfmXOhQPp0MM) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Coconut Oil](https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv) | 3:45 |
 
-Snapshot ID: `ahY0AAAAAABqVShOu3wZzfCqoYmFrNCL`
+Snapshot ID: `aheFgAAAAABP6SVN67kSPwqMzGgGtgU/`

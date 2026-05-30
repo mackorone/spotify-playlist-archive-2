@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285648,
+  "num_followers": 285656,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -247,26 +247,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "White Rabbit",
-        "url": "https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        }
-      ],
-      "duration_ms": 315309,
-      "name": "White Rabbit",
-      "url": "https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/7jdmHluAywfiIgFd1G8g5x"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 240305,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3RQGHYqNkEuixUCCCnS7vw"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "White Rabbit",
+        "url": "https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "duration_ms": 315309,
+      "name": "White Rabbit",
+      "url": "https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "...but i'd rather be with you",
-        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 229516,
-      "name": "She's A Rainbow",
-      "url": "https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "The Bluegrass Tribute to Guns n' Roses",
         "url": "https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 241786,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "...but i'd rather be with you",
+        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 229516,
+      "name": "She's A Rainbow",
+      "url": "https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Aerials",
-        "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
-      },
-      "artists": [
-        {
-          "name": "The Barefoot Movement",
-          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
-        }
-      ],
-      "duration_ms": 228490,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
         "url": "https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 261413,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Aerials",
+        "url": "https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4"
+      },
+      "artists": [
+        {
+          "name": "The Barefoot Movement",
+          "url": "https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt"
+        }
+      ],
+      "duration_ms": 228490,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "All I Ever Need Is You",
-        "url": "https://open.spotify.com/album/16Ug2NcKJ3gHDpJvobIFwP"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 210459,
-      "name": "All I Ever Need Is You",
-      "url": "https://open.spotify.com/track/6OEjWKO16fdprzAWXFU6IB"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Destinations and Fun Places",
         "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 256924,
       "name": "Take Me Home Country Roads",
       "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "All I Ever Need Is You",
+        "url": "https://open.spotify.com/album/16Ug2NcKJ3gHDpJvobIFwP"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 210459,
+      "name": "All I Ever Need Is You",
+      "url": "https://open.spotify.com/track/6OEjWKO16fdprzAWXFU6IB"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -931,18 +931,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "The New Modern Hymns",
-        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
       },
       "artists": [
         {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
         }
       ],
-      "duration_ms": 226901,
-      "name": "American Tune",
-      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
+      "duration_ms": 295528,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -963,18 +963,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/6X2VbXHnqwyJ75T5kIZlGO"
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
       },
       "artists": [
         {
-          "name": "Arkansauce",
-          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
         }
       ],
-      "duration_ms": 295528,
-      "name": "In the Summertime",
-      "url": "https://open.spotify.com/track/6jnDuBTAVl9tui1tyJMnzU"
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Me and Bobby McGee (2024 Mix)",
-        "url": "https://open.spotify.com/album/60vicIcWaolwJV9qNC7vMV"
-      },
-      "artists": [
-        {
-          "name": "Tompall & The Glaser Brothers",
-          "url": "https://open.spotify.com/artist/5bv06lZROKdyVlOlCnr2py"
-        }
-      ],
-      "duration_ms": 396516,
-      "name": "Me and Bobby McGee (2024 Mix)",
-      "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Elderly Woman Behind the Counter in a Small Town",
         "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 221913,
       "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
       "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Me and Bobby McGee (2024 Mix)",
+        "url": "https://open.spotify.com/album/60vicIcWaolwJV9qNC7vMV"
+      },
+      "artists": [
+        {
+          "name": "Tompall & The Glaser Brothers",
+          "url": "https://open.spotify.com/artist/5bv06lZROKdyVlOlCnr2py"
+        }
+      ],
+      "duration_ms": 396516,
+      "name": "Me and Bobby McGee (2024 Mix)",
+      "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Million Reasons",
+        "url": "https://open.spotify.com/album/4uMz0fz6MwUrOksLvyKv9w"
+      },
+      "artists": [
+        {
+          "name": "Shelby Means",
+          "url": "https://open.spotify.com/artist/6cdqu1uhLRPM1084uaVOoj"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Million Reasons",
+      "url": "https://open.spotify.com/track/5mxqBbBFgBVaYjnke4IGNw"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Love Is Alive",
         "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 243789,
       "name": "Love Is Alive",
       "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Million Reasons",
-        "url": "https://open.spotify.com/album/4uMz0fz6MwUrOksLvyKv9w"
-      },
-      "artists": [
-        {
-          "name": "Shelby Means",
-          "url": "https://open.spotify.com/artist/6cdqu1uhLRPM1084uaVOoj"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Million Reasons",
-      "url": "https://open.spotify.com/track/5mxqBbBFgBVaYjnke4IGNw"
     },
     {
       "added_at": "2026-02-04 05:00:53",

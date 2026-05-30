@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,488 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,513 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 46 | [Eyes on Me](https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [The Sweetest Dream](https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A) | 3:40 |
 | 47 | [Why Future Funk ROCKED in '17](https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Shine On](https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4) | 2:53 |
 | 48 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
-| 49 | [Like My Love](https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j) | [Tsundere Alley](https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe) | [Welcome To The Alley](https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH) | 2:41 |
+| 49 | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt) | 4:00 |
 | 50 | [Mode](https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1) | [Remember](https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o) | 3:52 |
 | 51 | [Stereo](https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Stereo](https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc) | 4:29 |
-| 52 | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt) | 4:00 |
+| 52 | [Like My Love](https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j) | [Tsundere Alley](https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe) | [Welcome To The Alley](https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH) | 2:41 |
 | 53 | [Lovely Road](https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 1:43 |
 | 54 | [Together](https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [City Lights](https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc) | 4:08 |
 | 55 | [keep down flyday](https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c) | [Q\-Rabbit](https://open.spotify.com/artist/2Psm6xHDNxNYTsVRJOhZcF) | [\#TRUE FUTURE](https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3) | 2:18 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 86 | [C'est La Vie](https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg) | [Lando Burch](https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX) | [Saturn St.](https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW) | 2:37 |
 | 87 | [DRENCH3D](https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb) | [3D BLAST](https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2) | [DRENCH3D](https://open.spotify.com/album/4Bvc4QKaD3A6UuvZSGOwk8) | 2:21 |
 | 88 | [Nostalgic Love](https://open.spotify.com/track/03xrLbDBTxLPrJqM3RhIZd) | [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [NeoGeo FM](https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2) | 2:50 |
-| 89 | [CATCH ME \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/6fEFEteEyD5ZCsh7KBl1tK) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [中山美穂](https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z) | [中山美穂 \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/3vDZoLb3zibICoeWzbeXXk) | 4:31 |
-| 90 | [I Didn't Know](https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:22 |
+| 89 | [I Didn't Know](https://open.spotify.com/track/1j9YnP7bHVGzBr3DPiJyB8) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Talk Of The Dancefloor](https://open.spotify.com/album/1MJQEf09RBmB8PY7W9AxR5) | 3:22 |
+| 90 | [CATCH ME \(Night Tempo Showa Groove Mix\)](https://open.spotify.com/track/6fEFEteEyD5ZCsh7KBl1tK) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [中山美穂](https://open.spotify.com/artist/27uDA7mGoHPHFvlBiZ4J9Z) | [中山美穂 \- Night Tempo presents ザ・昭和グルーヴ](https://open.spotify.com/album/3vDZoLb3zibICoeWzbeXXk) | 4:31 |
 | 91 | [Dangerous](https://open.spotify.com/track/0GrRY7cP03k1CSlZUkicCp) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Untold](https://open.spotify.com/album/2FqVBo8GtPsB2P7UrcnRR1) | 3:41 |
 | 92 | [Showa](https://open.spotify.com/track/3AiYEknQ4jvlUpHrCCxdfC) | [Flammy](https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz) | [Showa](https://open.spotify.com/album/5qOV4JCW6SC2cR9eZU5Hgv) | 2:20 |
 | 93 | [Galetus](https://open.spotify.com/track/5hEqabdQUshqGx8JERN7XK) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Galetus](https://open.spotify.com/album/0eEBi6zsHUpc2dWLEFVGZR) | 3:27 |
 | 94 | [Break Your Heart](https://open.spotify.com/track/0Opv7LwmfN6g0fCS0Zu2hG) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Virtual Girls Band a.k.a\. Sparkle](https://open.spotify.com/album/4lduHCRgtsSJWm8ktzp5mf) | 3:06 |
 | 95 | [Bbrown](https://open.spotify.com/track/21JcSs9Zkdc2kuNzoLBcbz) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [Pleasure](https://open.spotify.com/album/0AMbhzgFEcmVj46N9TPGmU) | 3:38 |
 | 96 | [君Kimi \(You Came Along\)](https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [TIMERIDER 1983](https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK) | 4:20 |
-| 97 | [Daydream](https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU) | [Daydream](https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki) | 5:03 |
-| 98 | [Chill City](https://open.spotify.com/track/0vx7rDY7DD44i5tFTMx0C9) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Videogame Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 7:24 |
+| 97 | [Chill City](https://open.spotify.com/track/0vx7rDY7DD44i5tFTMx0C9) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Videogame Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 7:24 |
+| 98 | [Daydream](https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU) | [Daydream](https://open.spotify.com/album/2bH0COrwebvZlo2k7XrXki) | 5:03 |
 | 99 | [Enigma](https://open.spotify.com/track/4vPvragqcYmYWwMELVmi17) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Enigma](https://open.spotify.com/album/71BDDT4vAMTa9gPZh96kbJ) | 3:17 |
-| 100 | [Just a Little](https://open.spotify.com/track/4CqwRPsNgnrs05KGY2MXks) | [Amherst](https://open.spotify.com/artist/0OF3elZ9nfycVA9b2IQBAU) | [Kudatah, Vol\. 1](https://open.spotify.com/album/0j21NLeNyi3QtU1Y8XJE7l) | 3:13 |
+| 100 | [Sua Noite](https://open.spotify.com/track/1F2LUInQ9RwsTShO88HFYH) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [Sua Noite](https://open.spotify.com/album/6YXNb4NfVrdQn0aKnW7sEx) | 2:22 |
 
 Snapshot ID: `AAAAALeEMQ4u4g+tJ+p11F/YOMDp0VtG`

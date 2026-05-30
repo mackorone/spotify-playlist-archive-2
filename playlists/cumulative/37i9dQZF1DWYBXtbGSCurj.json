@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: KayBlack",
+  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Cashley",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -2964,6 +2964,10 @@
         {
           "name": "Boaventura",
           "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        },
+        {
+          "name": "Thurts",
+          "url": "https://open.spotify.com/artist/0Gt2Yy7O5Dgf3PheRhZghi"
         }
       ],
       "date_added": "2026-05-22",
@@ -6121,6 +6125,32 @@
     },
     {
       "album": {
+        "name": "Blue Balenciaga",
+        "url": "https://open.spotify.com/album/2bZRw6aSJeOs1V5AoqBGCN"
+      },
+      "artists": [
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "A F\u00d3RMULA",
+          "url": "https://open.spotify.com/artist/2JjWIXlfhneMS1fsx4KW3W"
+        },
+        {
+          "name": "Stick",
+          "url": "https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Blue Balenciaga",
+      "url": "https://open.spotify.com/track/5W6DR95vbfWQtVNcj7g8ir"
+    },
+    {
+      "album": {
         "name": "ISSO \u00c9 TRAP VOL.2",
         "url": "https://open.spotify.com/album/5jiPp1YPjyhcWqU6jYQxlv"
       },
@@ -9164,6 +9194,32 @@
       "duration_ms": 229743,
       "name": "Cintura Covarde - RIMAR 9",
       "url": "https://open.spotify.com/track/11iqg0I2B90nZ8ujMNIs09"
+    },
+    {
+      "album": {
+        "name": "PPMC",
+        "url": "https://open.spotify.com/album/1mUAAvBsv3q6pFuQu0vgfY"
+      },
+      "artists": [
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        },
+        {
+          "name": "ch2mera",
+          "url": "https://open.spotify.com/artist/2pNbO2EEKOfBpFTaCpN1yg"
+        },
+        {
+          "name": "Nicholas Arashiro",
+          "url": "https://open.spotify.com/artist/5Cx8TEzo0BysMcJpfbH09m"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115443,
+      "name": "CLASSE A",
+      "url": "https://open.spotify.com/track/2zOIcxeqMRTxRjX3d9aekC"
     },
     {
       "album": {
@@ -13908,7 +13964,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 165816,
       "name": "drive by",
       "url": "https://open.spotify.com/track/289f3fB3mR8R2ExKicf4TR"
@@ -17628,7 +17684,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 341499,
       "name": "Fazenda de Stream",
       "url": "https://open.spotify.com/track/3QXa81ytaL2ZlK26KshU7k"
@@ -23462,7 +23518,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 151585,
       "name": "Kiboo",
       "url": "https://open.spotify.com/track/0P0OWDoqgHGYW2XHvAPz07"
@@ -27346,7 +27402,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 260129,
       "name": "Melhor Dia: Dopamina",
       "url": "https://open.spotify.com/track/78csEnL5LYOQc9eVITJTpu"
@@ -48475,6 +48531,28 @@
     },
     {
       "album": {
+        "name": "FREQU\u00caNCIA LUNAR",
+        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170073,
+      "name": "VAMPIRA",
+      "url": "https://open.spotify.com/track/53sU5FYujB8QaiH61RyQ5l"
+    },
+    {
+      "album": {
         "name": "Vampira",
         "url": "https://open.spotify.com/album/40SS0MUKLioNECxcobDHMP"
       },
@@ -49390,6 +49468,32 @@
       "duration_ms": 130800,
       "name": "VIP",
       "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
+    },
+    {
+      "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/6sAgL91d9yKrUgE31kH1jO"
+      },
+      "artists": [
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        },
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/06ax5FRto8zzgUOmH6u6BZ"
     },
     {
       "album": {

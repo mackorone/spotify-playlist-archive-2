@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 
 > Tremendo vacilón\. Los éxitos del merengue de todos los tiempos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,358 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,408 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nlNS0VyZnZ.md) - [plain]
 | 34 | [Luna Llena](https://open.spotify.com/track/7zOqkF9TUdUPREtkIf1v4Q) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:25 |
 | 35 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
 | 36 | [Enhorabuena](https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Enhorabuena](https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo) | 2:48 |
-| 37 | [Mi Corazón](https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:08 |
-| 38 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
+| 37 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
+| 38 | [Mi Corazón](https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:08 |
 | 39 | [Mar y Luna](https://open.spotify.com/track/004uWjBm1cOgxJAwQb6X8P) | [Pecos Kanvas](https://open.spotify.com/artist/2pg6yxVpoNN8yJSKHUgRw8) | [Mar y Luna](https://open.spotify.com/album/1YZPTBbRDZKhSlLbXjbjhp) | 4:20 |
 | 40 | [La Novela](https://open.spotify.com/track/5lwfX0HEWjulISjPHGPC8S) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 6:13 |
 | 41 | [La Morena](https://open.spotify.com/track/3sVfjl9XFBk8gjGrph7EWo) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Ilegales](https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg) | 4:24 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 377157,
+  "num_followers": 377174,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAABFzarXH5kb7uxNizoX3FGC",
+  "snapshot_id": "aheFgAAAAADFF5EiTlmpvHji9f/zATmf",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slowhand 35th Anniversary",
-        "url": "https://open.spotify.com/album/0GBrlPh90D25SQ6EJu4VtT"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 221640,
-      "name": "Cocaine",
-      "url": "https://open.spotify.com/track/2udGjDmpK1dH9VGyw7nrei"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unplugged (Live)",
         "url": "https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 289026,
       "name": "Layla - Acoustic Live",
       "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slowhand 35th Anniversary",
+        "url": "https://open.spotify.com/album/0GBrlPh90D25SQ6EJu4VtT"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "Cocaine",
+      "url": "https://open.spotify.com/track/2udGjDmpK1dH9VGyw7nrei"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pilgrim",
-        "url": "https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 442133,
-      "name": "River of Tears",
-      "url": "https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eric Clapton",
         "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
       },
@@ -815,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+        "name": "Pilgrim",
+        "url": "https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 256866,
-      "name": "It's Easy",
-      "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
+      "duration_ms": 442133,
+      "name": "River of Tears",
+      "url": "https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O"
     },
     {
       "added_at": null,
@@ -875,6 +855,26 @@
       "duration_ms": 381066,
       "name": "Six Strings Down",
       "url": "https://open.spotify.com/track/0C7mriFxQZ24xpDXgSfIc8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Road to Escondido",
+        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 256866,
+      "name": "It's Easy",
+      "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
     },
     {
       "added_at": null,

@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Amor En Extincion",
+        "url": "https://open.spotify.com/album/7ybN4XEe8OL0C2PYLNCwQ1"
+      },
+      "artists": [
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        }
+      ],
+      "date_added": "2025-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226921,
+      "name": "Amor En Extincion",
+      "url": "https://open.spotify.com/track/5a9cLkvr7hxu216ONAXqeB"
+    },
+    {
+      "album": {
         "name": "AMOR PROPIO",
         "url": "https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y"
       },
@@ -5294,7 +5312,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-30",
       "duration_ms": 183607,
       "name": "NECIA",
       "url": "https://open.spotify.com/track/1IUtvjwL9BWq3vaQpJbvDr"

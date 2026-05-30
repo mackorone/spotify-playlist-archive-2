@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahY0AAAAAADpFl2+rUIhH6OXOUY3GynK",
+  "snapshot_id": "aheFgAAAAAAwuqfqvkvN7uRAxyqJj0Vk",
   "tracks": [
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 212092,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7qZmhrhOXy2vRnaFezgmD2"
+      "duration_ms": 138750,
+      "name": "Dulce Soledad",
+      "url": "https://open.spotify.com/track/41CIG5tvJwEvhbkxZiv2P0"
     },
     {
       "added_at": null,
@@ -771,22 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis No Lugares",
-        "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
+        "name": "Estoy Enamorado (En Vivo)",
+        "url": "https://open.spotify.com/album/3obr3RWtDcd4nZq36HqsWw"
       },
       "artists": [
         {
-          "name": "Ale Z\u00e9guer",
-          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
+          "name": "Coraz\u00f3n Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 178285,
-      "name": "Jard\u00edn",
-      "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
+      "duration_ms": 183592,
+      "name": "Estoy Enamorado - En Vivo",
+      "url": "https://open.spotify.com/track/4IeTtjvqaCbWUzL1m2NPTM"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 138750,
-      "name": "Dulce Soledad",
-      "url": "https://open.spotify.com/track/41CIG5tvJwEvhbkxZiv2P0"
+      "duration_ms": 212092,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7qZmhrhOXy2vRnaFezgmD2"
     },
     {
       "added_at": null,
@@ -839,22 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estoy Enamorado (En Vivo)",
-        "url": "https://open.spotify.com/album/3obr3RWtDcd4nZq36HqsWw"
+        "name": "Mis No Lugares",
+        "url": "https://open.spotify.com/album/5UTVOml5TfH7wUeCkqxM8k"
       },
       "artists": [
         {
-          "name": "Coraz\u00f3n Serrano",
-          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 183592,
-      "name": "Estoy Enamorado - En Vivo",
-      "url": "https://open.spotify.com/track/4IeTtjvqaCbWUzL1m2NPTM"
+      "duration_ms": 178285,
+      "name": "Jard\u00edn",
+      "url": "https://open.spotify.com/track/6SpEFYmSZQJGuyL8tiyhnZ"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Quito el Sombrero (En Vivo Desde Guanajuato)",
-        "url": "https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ"
-      },
-      "artists": [
-        {
-          "name": "Samo",
-          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 263640,
-      "name": "El Aprendiz (with Pedro Cap\u00f3) - En Vivo Desde Guanajuato",
-      "url": "https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palmeras",
         "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 162857,
       "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Quito el Sombrero (En Vivo Desde Guanajuato)",
+        "url": "https://open.spotify.com/album/7cT5blE7IUCgqb20TzbQiJ"
+      },
+      "artists": [
+        {
+          "name": "Samo",
+          "url": "https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 263640,
+      "name": "El Aprendiz (with Pedro Cap\u00f3) - En Vivo Desde Guanajuato",
+      "url": "https://open.spotify.com/track/6wC2vAyhQo40HeENRI23aq"
     },
     {
       "added_at": null,
