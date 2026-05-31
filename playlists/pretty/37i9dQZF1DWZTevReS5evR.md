@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 
 > I really wish your real name is my last name 🤡
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,777 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,748 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTevReS5evR.md) - [plain]
 | 99 | [DIAM!](https://open.spotify.com/track/12Up29VqU3Eym1pDUGPu1l) | [K1O](https://open.spotify.com/artist/5222gtAqkQGUSpSJOrSlPs) | [DIAM!](https://open.spotify.com/album/4iX1bwDuop8lUX91J1T7fA) | 3:04 |
 | 100 | [Ms\. I Thrift Everything](https://open.spotify.com/track/1x61J9jICZFEoB3FFu1jH6) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Ms\. I Thrift Everything](https://open.spotify.com/album/6OaYidnqhiK4rlaUdlhRrr) | 3:36 |
 
-Snapshot ID: `AAAAAC7Y6STuENoFocgfjkFw45Top7s7`
+Snapshot ID: `AAAAADSq+7KYLJjhFroVv0S6eywk4DOX`

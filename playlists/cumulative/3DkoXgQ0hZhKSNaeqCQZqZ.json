@@ -2533,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Eat Me Alive",
+        "url": "https://open.spotify.com/album/4ZOHqRRTl4g9CkiCiB5tIA"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237558,
+      "name": "Eat Me Alive",
+      "url": "https://open.spotify.com/track/1m9upNm8FhtRYfcgbSshH2"
+    },
+    {
+      "album": {
         "name": "seriuos eepy",
         "url": "https://open.spotify.com/album/0KYLMTi4r39uNgMMC8NiaP"
       },
@@ -3194,6 +3212,28 @@
       "duration_ms": 231235,
       "name": "Fly Away - 2024 Remaster",
       "url": "https://open.spotify.com/track/5hyr4avaVh2OZLG7DPGhGk"
+    },
+    {
+      "album": {
+        "name": "FLY WITH ME",
+        "url": "https://open.spotify.com/album/6sK9SWuKTDP0zyz9ZcKV8E"
+      },
+      "artists": [
+        {
+          "name": "Verplex",
+          "url": "https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4"
+        },
+        {
+          "name": "MANEDBENTO!",
+          "url": "https://open.spotify.com/artist/3Tls1YrzO8LhdZjaG32MyH"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249931,
+      "name": "FLY WITH ME",
+      "url": "https://open.spotify.com/track/1rHTshEmjoQ1GBoQfXEXIQ"
     },
     {
       "album": {

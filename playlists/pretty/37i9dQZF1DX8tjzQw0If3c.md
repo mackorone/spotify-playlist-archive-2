@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Celine Wanyi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,460 likes - 43 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,457 likes - 43 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 | 42 | [Tulips \(Stage Edit\)](https://open.spotify.com/track/2zc01klD7NZTPeHiPHQiS8) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [ORANGE JUICE BOX](https://open.spotify.com/album/0BQUOCZhZ7Tr7kkF004AQn) | 2:23 |
 | 43 | [Weekend Plans \(Stage Edit\)](https://open.spotify.com/track/0oOCNePtMw1xp5Gz4wYyge) | [WHYLUCAS](https://open.spotify.com/artist/4Q2XtNhjSHHeEC1q4QbM5z) | [ORANGE JUICE BOX](https://open.spotify.com/album/0BQUOCZhZ7Tr7kkF004AQn) | 3:25 |
 
-Snapshot ID: `AAAAAGhB/b0Kqr5/RU7UA56HEinXrTPV`
+Snapshot ID: `AAAAANHOGdsL4Ovo+CUa8OzK123VyTPo`

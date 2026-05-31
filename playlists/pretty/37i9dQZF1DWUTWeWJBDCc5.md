@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTWeWJBDCc5.md) - [plain]
 
 > 스포티파이 코리아 뮤직 에디터가 선정한 노래를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,973 likes - 45 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,048 likes - 45 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [THE PRESSURE](https://open.spotify.com/track/5EwqL32rIUkHbfjYZ0WLXB) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [KILL THE GHOST](https://open.spotify.com/album/65XQpfjNaYkGLT7bKg2Wo3) | 2:52 |
 | 2 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 |
-| 3 | [Black Tesla](https://open.spotify.com/track/6iAfGJXEePmiot8dFiJ1eG) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [XngHan](https://open.spotify.com/artist/7BQG6r8XsMLVOBwbDj5qKW) | [Prussian Blue](https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD) | 2:14 |
+| 3 | [Black Tesla](https://open.spotify.com/track/6iAfGJXEePmiot8dFiJ1eG) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [XngHan](https://open.spotify.com/artist/7BQG6r8XsMLVOBwbDj5qKW) | [Prussian Blue](https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD) | 2:14 |
 | 4 | [Naive](https://open.spotify.com/track/17s4aRqxfnpJenYRgtBX3w) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [CRYSALIS \(CODA\)](https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu) | 3:46 |
 | 5 | [iffy iffy](https://open.spotify.com/track/27UQUnxpR2e8zrrMUVcbc9) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:09 |
 | 6 | [Ten Thirty Hang Out \(Feat\. Dynamicduo\)](https://open.spotify.com/track/1SbCGS2xJJBYbEyQYrHsH8) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Ten Thirty Lovey Dovey](https://open.spotify.com/album/6gKxrbKdtQwOoQjUQ0yD6j) | 3:15 |

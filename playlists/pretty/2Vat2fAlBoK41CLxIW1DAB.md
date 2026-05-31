@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,592 likes - 1,014 songs - 2 day 15 hr 52 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,593 likes - 1,027 songs - 2 day 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,7 +284,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 274 | [Save a Prayer \(Cover\)](https://open.spotify.com/track/2CVN6xuvfqWv49YjiCOwJD) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Save a Prayer](https://open.spotify.com/album/4fhwVPU30qsmq0cmyNUZg0) | 3:59 |
 | 275 | [Squabbles](https://open.spotify.com/track/1CvBST7guxLi0Y5jmxzfQs) | [JD](https://open.spotify.com/artist/5Lg7RoJ44wClpSQRlekSOB) | [Squabbles](https://open.spotify.com/album/1sq4QouZGEz9u1q0AZDT5s) | 4:58 |
 | 276 | [Lola](https://open.spotify.com/track/78Gfg717SWZJfydnpAuS9b) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [Lola](https://open.spotify.com/album/6VVFZOVldldwYJrNeUKOiH) | 4:22 |
-| 277 | [収斂と諦観 \(feat\. 晴乃なぎ\)](https://open.spotify.com/track/4QHrxetwgC0jN1TO9g2bYX) | [hikage](https://open.spotify.com/artist/6XVWCCuEAczUys2GEksw6C), [晴乃なぎ](https://open.spotify.com/artist/34x2eoZoMeprS0Hb2nXlIM) | [Rise and Fall](https://open.spotify.com/album/4R2PzreI7W4N1H0K9n0zE3) | 3:12 |
+| 277 | [収斂と諦観 \(feat\. 晴乃なぎ\)](https://open.spotify.com/track/4QHrxetwgC0jN1TO9g2bYX) | [hikage](https://open.spotify.com/artist/35ib9e2wzbfLEArMWXNDag), [晴乃なぎ](https://open.spotify.com/artist/34x2eoZoMeprS0Hb2nXlIM) | [Rise and Fall](https://open.spotify.com/album/4R2PzreI7W4N1H0K9n0zE3) | 3:12 |
 | 278 | [Shit Out of Luck](https://open.spotify.com/track/2AOpqgxo9hmvQi4oGXDPJq) | [Avenue Army](https://open.spotify.com/artist/4ihI2lJ3wolcFhlVmWAKWv) | [Shit Out of Luck](https://open.spotify.com/album/2KZSVIzUcGLB7pZH0eHY0V) | 3:08 |
 | 279 | [Honor](https://open.spotify.com/track/1G8IHis0cjJsD0wiEwUjoZ) | [BOT41](https://open.spotify.com/artist/4WI9St4UDgfcbmol7lO49V), [Illusion Maker](https://open.spotify.com/artist/6vFSS4a1U6Xd5PppowfNcv) | [Honor](https://open.spotify.com/album/7xukSKpt8eABewk1cK3wzu) | 3:17 |
 | 280 | [Water, Whiskey & Blood](https://open.spotify.com/track/3Ltv7PJ9QKOJvY5FI8ukwS) | [Jason Crowe](https://open.spotify.com/artist/0sLGB6Q7Zlr75d7lwVkDH3) | [Water, Whiskey & Blood](https://open.spotify.com/album/470YgndgnC6im6gsrbL8c8) | 3:40 |
@@ -1022,5 +1022,18 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1012 | [Trastorno Límite](https://open.spotify.com/track/2uPvmyFZ7mHiE23sbDddj1) | [Soporte 68](https://open.spotify.com/artist/7o3krkEDErKnl4s0D7JpSJ) | [Tras las Vías](https://open.spotify.com/album/2hQ1snLP14MEsk32QQXEA6) | 3:34 |
 | 1013 | [Out Of Control](https://open.spotify.com/track/1ASe0n6FmLqBKBsUttd1Qj) | [Plastic Mars](https://open.spotify.com/artist/0kytnNMCogQmGjxi273K0A) | [Out Of Control](https://open.spotify.com/album/1JmCXandNM9LP8I04nW29E) | 3:33 |
 | 1014 | [Callistoa's Odyssey](https://open.spotify.com/track/355OHsMp3zMrGNLe3mhpvQ) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 4:04 |
+| 1015 | [The Silence Between Commands](https://open.spotify.com/track/6cQtalpDf16fURuzJjLkW9) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Control Room Lullaby](https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46) | 3:33 |
+| 1016 | [The Family Secret](https://open.spotify.com/track/5v6DxofVLhcqQWsO4JlQ1v) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [The Family Secret](https://open.spotify.com/album/1kDUZGxfVbg4uS3OC0MqpB) | 2:59 |
+| 1017 | [Halfway To The Highground](https://open.spotify.com/track/1RupA6Ij3qAnqHiHeWIpd4) | [Frode Møller](https://open.spotify.com/artist/5r3LiRT8ytsGdckgx8hJwo) | [Halfway To The Highground](https://open.spotify.com/album/0KuGHd09XwG3xQcIjqV8As) | 3:07 |
+| 1018 | [All Hope Is Lost \(The Complete Tragedy\)](https://open.spotify.com/track/7aNAtgUGIYZCjv8E0EKq6V) | [Zachary Friederich](https://open.spotify.com/artist/63vqahfTVk1h3kpU2o7JKk) | [LIKE A CHURCH BELL ON A SUNDAY](https://open.spotify.com/album/0u46frFTznXngYVvSExtrP) | 13:57 |
+| 1019 | [Baron Samedi](https://open.spotify.com/track/1TqhI39fe1XbZBkwRMmlrZ) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 4:33 |
+| 1020 | [Outcast](https://open.spotify.com/track/0bANwo9DVN8mKM0VoPM3LC) | [Cutloose](https://open.spotify.com/artist/0edvqWPit6C1EuyWZSCTd4) | [Outcast](https://open.spotify.com/album/5iZuZfaqkDIeYe6v3JnjSl) | 3:03 |
+| 1021 | [Lucifer](https://open.spotify.com/track/0wMxTAxNVbHlfPJn1gCOm6) | [Niamh](https://open.spotify.com/artist/2Nqqjj4NSnqutYDbTFwaAx) | [Lucifer](https://open.spotify.com/album/58PYTxiplGakB9cPHvuOoG) | 3:04 |
+| 1022 | [Cadeado na Cabeça](https://open.spotify.com/track/2cRuFyGzf3dqC7VvWGu97Q) | [Trilogia Urbana](https://open.spotify.com/artist/7JEEQ1GSiNLKy8RNgEFlOM) | [Cadeado na Cabeça](https://open.spotify.com/album/37gI2wJQTpRB5TUdWNpSSD) | 2:48 |
+| 1023 | [SYNCHRONISE](https://open.spotify.com/track/4WahUNo8MbgaRb2J9XlB1d) | [AITKEN](https://open.spotify.com/artist/1MLTzskLFbXeHDoL98LZZz) | [SYNCHRONISE](https://open.spotify.com/album/1mdNBVINpDl4aqraHZTAnV) | 3:45 |
+| 1024 | [Happy Birthday Didi](https://open.spotify.com/track/46hRtSVrhaE5zfQcioOFzR) | [J\. Lee Bone](https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs) | [Boots in the City](https://open.spotify.com/album/5dbWKfGkd1vwPEeBhNIPIi) | 3:34 |
+| 1025 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 |
+| 1026 | [Selection](https://open.spotify.com/track/73QgeFPtGEvsZyq44q6sdE) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Selection](https://open.spotify.com/album/6smzkuQH1bt4CaQeOsLTjM) | 3:26 |
+| 1027 | [OK](https://open.spotify.com/track/40Xl7Z0IzFWT2R9koXjfWM) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [OK](https://open.spotify.com/album/16AqHuMfOuAtpPHLwi5xZm) | 4:59 |
 
-Snapshot ID: `AAAEHJvClsj8yccP6Tuta589lc+eRbUo`
+Snapshot ID: `AAAEKhgMDgh2tN+lTL3QreKKZ3gABp7h`

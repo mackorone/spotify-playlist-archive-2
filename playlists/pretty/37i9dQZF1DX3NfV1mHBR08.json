@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 49928,
+  "num_followers": 49932,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-04-20 02:30:13",
       "album": {
-        "name": "WHO WE ARE",
-        "url": "https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz"
-      },
-      "artists": [
-        {
-          "name": "AHOF",
-          "url": "https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Cosmic Underdog",
-      "url": "https://open.spotify.com/track/5SQFdiZM3xEwPjRVrZqXpm"
-    },
-    {
-      "added_at": "2026-04-20 02:30:13",
-      "album": {
         "name": "Calibrate",
         "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 225813,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
+    },
+    {
+      "added_at": "2026-04-20 02:30:13",
+      "album": {
+        "name": "WHO WE ARE",
+        "url": "https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz"
+      },
+      "artists": [
+        {
+          "name": "AHOF",
+          "url": "https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Cosmic Underdog",
+      "url": "https://open.spotify.com/track/5SQFdiZM3xEwPjRVrZqXpm"
     },
     {
       "added_at": "2026-04-20 02:30:13",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-04-20 02:30:13",
       "album": {
-        "name": "Who Are You : School 2015 (Original Television Soundtrack), Pt.3",
-        "url": "https://open.spotify.com/album/5rbk6PfoQk7m9KB6iaC6eG"
-      },
-      "artists": [
-        {
-          "name": "Mirae Yoon",
-          "url": "https://open.spotify.com/artist/7spkVN3BEcaQ4yWSzxPwra"
-        }
-      ],
-      "duration_ms": 194439,
-      "name": "I will listen never alone",
-      "url": "https://open.spotify.com/track/5Ny8dTK7mUgpL04RV07gee"
-    },
-    {
-      "added_at": "2026-04-20 02:30:13",
-      "album": {
         "name": "2nd Mini Album 'Algorithm's Blossom'",
         "url": "https://open.spotify.com/album/4i0rZXe1lgKDzJ8LkueifT"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 271293,
       "name": "Goodbye My Sadness",
       "url": "https://open.spotify.com/track/7BoC7eEStVxZSBeLtLSoHv"
+    },
+    {
+      "added_at": "2026-04-20 02:30:13",
+      "album": {
+        "name": "Who Are You : School 2015 (Original Television Soundtrack), Pt.3",
+        "url": "https://open.spotify.com/album/5rbk6PfoQk7m9KB6iaC6eG"
+      },
+      "artists": [
+        {
+          "name": "Mirae Yoon",
+          "url": "https://open.spotify.com/artist/7spkVN3BEcaQ4yWSzxPwra"
+        }
+      ],
+      "duration_ms": 194439,
+      "name": "I will listen never alone",
+      "url": "https://open.spotify.com/track/5Ny8dTK7mUgpL04RV07gee"
     },
     {
       "added_at": "2026-04-20 02:30:13",

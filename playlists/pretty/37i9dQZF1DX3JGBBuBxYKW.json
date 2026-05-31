@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 112714,
+  "num_followers": 112722,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -795,26 +795,6 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y"
-      },
-      "artists": [
-        {
-          "name": "Leslie Shaw",
-          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
-        },
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
         "name": "Placer y Olvido (En Vivo)",
         "url": "https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP"
       },
@@ -831,18 +811,22 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Dr. Psiquiatra",
-        "url": "https://open.spotify.com/album/62VXkWtudUuwXEpDu6LmkZ"
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/6wbWsSnHhve5sUwwI9af7y"
       },
       "artists": [
         {
-          "name": "Gladys \"La bomba tucumana\"",
-          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
+          "name": "Leslie Shaw",
+          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
+        },
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         }
       ],
-      "duration_ms": 168715,
-      "name": "Dr. Psiquiatra",
-      "url": "https://open.spotify.com/track/28N9f5LPtZOWnWPeX02WXv"
+      "duration_ms": 166736,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/3xdwJkTILl5R45jMgN3kWh"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -867,6 +851,22 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
+        "name": "Dr. Psiquiatra",
+        "url": "https://open.spotify.com/album/62VXkWtudUuwXEpDu6LmkZ"
+      },
+      "artists": [
+        {
+          "name": "Gladys \"La bomba tucumana\"",
+          "url": "https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3"
+        }
+      ],
+      "duration_ms": 168715,
+      "name": "Dr. Psiquiatra",
+      "url": "https://open.spotify.com/track/28N9f5LPtZOWnWPeX02WXv"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
         "name": "Abr\u00e1zame y B\u00e9same",
         "url": "https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Pantera",
-        "url": "https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL"
-      },
-      "artists": [
-        {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        }
-      ],
-      "duration_ms": 212946,
-      "name": "Cag\u00f3n",
-      "url": "https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
         "name": "Solo un Momento",
         "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 222361,
       "name": "No Te Ir\u00e1s",
       "url": "https://open.spotify.com/track/3E1z3ls7cgoAZV98STE2rT"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL"
+      },
+      "artists": [
+        {
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Cag\u00f3n",
+      "url": "https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "El Primero",
-        "url": "https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm"
-      },
-      "artists": [
-        {
-          "name": "Mariana Bfly",
-          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
-        }
-      ],
-      "duration_ms": 151463,
-      "name": "El Primero",
-      "url": "https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
         "name": "Perdoname",
         "url": "https://open.spotify.com/album/4fBFuS9ywy0N2MRghagEJI"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 217190,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/0Ki4mn5sAw9DEqZsJa9v5H"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
+        "name": "El Primero",
+        "url": "https://open.spotify.com/album/5cKLRicwM3olMiKKvUwoqm"
+      },
+      "artists": [
+        {
+          "name": "Mariana Bfly",
+          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
+        }
+      ],
+      "duration_ms": 151463,
+      "name": "El Primero",
+      "url": "https://open.spotify.com/track/0FW6NXDLRoav8lpodHfhhe"
     },
     {
       "added_at": "2025-07-18 03:00:26",

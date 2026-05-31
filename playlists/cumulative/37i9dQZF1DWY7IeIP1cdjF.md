@@ -2,7 +2,7 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from Ovy On The Drums, Blessd, Jere Klein Jay Wheeler, Omar Courtz , Bad Bunny and more\. 🔥🍑
+> Reggaeton hits from Ovy On The Drums, Blessd, Jere Klein, Jay Wheeler, Omar Courtz , Bad Bunny and more\. 🔥🍑
 
 750 songs - 1 day 16 hr 55 min
 

@@ -17511,6 +17511,32 @@
     },
     {
       "album": {
+        "name": "Scendo E Cerco Un\u2019Altra",
+        "url": "https://open.spotify.com/album/1g9x6zzynCJggRwNaeAExc"
+      },
+      "artists": [
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        },
+        {
+          "name": "Flatpearl",
+          "url": "https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R"
+        },
+        {
+          "name": "Succo",
+          "url": "https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129090,
+      "name": "Scendo E Cerco Un\u2019Altra",
+      "url": "https://open.spotify.com/track/0qFzTGufPnqkI4GrAwXCg1"
+    },
+    {
+      "album": {
         "name": "It's Almost Dry",
         "url": "https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH"
       },

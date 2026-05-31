@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 602093,
+  "num_followers": 602178,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aheFgAAAAABfyurCx2qa7ilOsrgyWm3z",
+  "snapshot_id": "ahjXAAAAAABzV9LVOitC4le4IhOyTcWY",
   "tracks": [
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 222093,
-      "name": "10:15 Saturday Night",
-      "url": "https://open.spotify.com/track/2CdxmZfz23dIjK7iuxvvMO"
+      "duration_ms": 177733,
+      "name": "Jumping Someone Else's Train",
+      "url": "https://open.spotify.com/track/76XCLlTwCYYaqQ9aru4yLB"
     },
     {
       "added_at": null,
@@ -507,6 +507,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6DCJNDiXeT5C8uSFNM8k56"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 183426,
+      "name": "M",
+      "url": "https://open.spotify.com/track/2iyEvZdipDeCmSW8v8PA32"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Three Imaginary Boys",
+        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "10:15 Saturday Night",
+      "url": "https://open.spotify.com/track/2CdxmZfz23dIjK7iuxvvMO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
@@ -523,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Three Imaginary Boys",
-        "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Jumping Someone Else's Train",
-      "url": "https://open.spotify.com/track/76XCLlTwCYYaqQ9aru4yLB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 250653,
       "name": "Cut Here",
       "url": "https://open.spotify.com/track/1SuAd1VNCDpM2ovs1ic9tN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/6DCJNDiXeT5C8uSFNM8k56"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 183426,
-      "name": "M",
-      "url": "https://open.spotify.com/track/2iyEvZdipDeCmSW8v8PA32"
     },
     {
       "added_at": null,

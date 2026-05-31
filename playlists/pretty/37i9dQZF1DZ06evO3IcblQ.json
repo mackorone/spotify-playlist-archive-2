@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 36577,
+  "num_followers": 36586,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aheFgAAAAAB2AeBvaWEhojLFHu2iKAO3",
+  "snapshot_id": "ahjXAAAAAADKq3cqRvEc+oIc2YkCySzI",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 172066,
-      "name": "My Own Way",
-      "url": "https://open.spotify.com/track/5ZIDmNOBYo1mnXrCjwrDjO"
+      "duration_ms": 161666,
+      "name": "Straight Ahead",
+      "url": "https://open.spotify.com/track/2hnXPU065OUTJo3orgiOWh"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 161666,
-      "name": "Straight Ahead",
-      "url": "https://open.spotify.com/track/2hnXPU065OUTJo3orgiOWh"
+      "duration_ms": 172066,
+      "name": "My Own Way",
+      "url": "https://open.spotify.com/track/5ZIDmNOBYo1mnXrCjwrDjO"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reason To Believe",
-        "url": "https://open.spotify.com/album/6qWDJK2ECvWqb7Yuov8LZc"
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 189413,
-      "name": "As Long As We Can (Intro)",
-      "url": "https://open.spotify.com/track/7ml60qKvVgLpEf0uZ5EQBI"
+      "duration_ms": 158080,
+      "name": "No Reason Why - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2mTPOlPrevasvnkDzrD8xx"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+        "name": "Reason To Believe",
+        "url": "https://open.spotify.com/album/6qWDJK2ECvWqb7Yuov8LZc"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 158080,
-      "name": "No Reason Why - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2mTPOlPrevasvnkDzrD8xx"
+      "duration_ms": 189413,
+      "name": "As Long As We Can (Intro)",
+      "url": "https://open.spotify.com/track/7ml60qKvVgLpEf0uZ5EQBI"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pennywise (2005 Remaster)",
+        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 85946,
+      "name": "Rules - 2005 Remaster",
+      "url": "https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ace of Spades",
         "url": "https://open.spotify.com/album/3xyncfiFgU49RupI5wfvP3"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 151866,
       "name": "Ace of Spades",
       "url": "https://open.spotify.com/track/1K7OdZNMaEqButgV6D28UX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pennywise (2005 Remaster)",
-        "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 85946,
-      "name": "Rules - 2005 Remaster",
-      "url": "https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq"
     },
     {
       "added_at": null,

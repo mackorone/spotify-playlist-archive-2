@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Grupo Frontera 📸
 
-10,699 songs - 23 day 2 hr 45 min
+10,700 songs - 23 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -694,9 +694,9 @@
 | [Aplaca Tus Berrinches](https://open.spotify.com/track/7kr4TyjK27pe7baowiwq0y) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aplaca Tus Berrinches](https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj) | 3:10 | 2023-01-13 | 2023-01-21 |
 | [Apoco No](https://open.spotify.com/track/74lQM6Q9FavdVylKmwIasq) | [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e), [Jesús Mendoza](https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W) | [Apoco No](https://open.spotify.com/album/1nTCjrbWxCyTGTuCs6dbsH) | 2:19 | 2024-10-04 | 2024-10-12 |
 | [Apoco No Te Acuerdas](https://open.spotify.com/track/1IPXrYEnzVH9SVQ0hc45QO) | [La Gavilla](https://open.spotify.com/artist/3DtemVNgP2pwgHLLUbkbST) | [Apoco No Te Acuerdas](https://open.spotify.com/album/2zHj2ndnDaOZ4mndIjzVeA) | 3:22 | 2024-11-01 | 2024-11-09 |
-| [Aprendi la lección](https://open.spotify.com/track/5jfkYc3IyXwbtFnIpB9una) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf), [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Aprendi la lección](https://open.spotify.com/album/2gKLdULUWctb0JSPkZofpI) | 2:58 | 2026-05-29 |  |
 | [Aprendiz](https://open.spotify.com/track/0KI94DLbKBVnTKt9lEKPOy) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Aprendiz](https://open.spotify.com/album/7JLeFKD3oZnZ6VHmEn854y) | 3:43 | 2024-05-03 | 2024-05-11 |
 | [Aprendí En Las Calles](https://open.spotify.com/track/2frEqvXWEQMGQ9bLUuEH6V) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Aprendí En Las Calles](https://open.spotify.com/album/6DqEdsCerLl3BXzXoRr4aO) | 3:15 | 2025-09-12 | 2025-09-20 |
+| [Aprendí La Lección](https://open.spotify.com/track/5jfkYc3IyXwbtFnIpB9una) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf), [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Aprendí La Lección](https://open.spotify.com/album/2gKLdULUWctb0JSPkZofpI) | 2:58 | 2026-05-29 |  |
 | [APSP](https://open.spotify.com/track/6rdDX7PuJB2uavUQnJqATC) | [Luis Arturo](https://open.spotify.com/artist/04spoeZCYxGrgMEfLQUdhw) | [APSP](https://open.spotify.com/album/3tMZl5Kv8cOpr0YdxmMb7t) | 2:23 | 2025-01-10 | 2025-01-18 |
 | [Aquel Amor \- En vivo](https://open.spotify.com/track/3HSzlN9rfgD7J66Wz9vYCU) | [Alfonso Payan y Asociados](https://open.spotify.com/artist/18zpXbLiUltDfI9Nmvs62k) | [Complacencias en vivo \(En vivo\)](https://open.spotify.com/album/1j89VXpoQM9Vm38YFRxWOO) | 2:45 | 2025-07-18 | 2025-07-26 |
 | [Aquella Chavala](https://open.spotify.com/track/3L3DRHeCqzIhjN6fhZ7F6a) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Aquella Chavala](https://open.spotify.com/album/5tWGTZR3G8fZpdcjhdM7YD) | 3:08 | 2025-04-11 | 2025-04-19 |
@@ -6009,6 +6009,7 @@
 | [Me Dejé Ir Con Todo](https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [PUNTO Y APARTE](https://open.spotify.com/album/7gweMRej5j0jzExxgwreci) | 2:32 | 2022-11-25 | 2022-12-03 |
 | [Me Derrito](https://open.spotify.com/track/1JmUlAs1cphQKPgh2hL61s) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Me Derrito](https://open.spotify.com/album/5052x1jXmFYTo0osSMcwxh) | 2:59 | 2026-03-13 | 2026-03-21 |
 | [Me Derrito](https://open.spotify.com/track/3vcrtSYtHJrhyWEBkzSDpM) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Me Derrito](https://open.spotify.com/album/4XkaEPeQ7KLillZsiWpuVC) | 2:50 | 2026-03-13 | 2026-03-21 |
+| [ME DERRITO \- Banda](https://open.spotify.com/track/2F5gUfjibEnuztDSFoRYgR) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [ME DERRITO \(Banda\)](https://open.spotify.com/album/7AEiXR1mHD5u2NPXlYeG2w) | 2:59 | 2026-05-30 |  |
 | [Me Despido del Pasado](https://open.spotify.com/track/4SzJi81zHSWyrxAu1ccZFC) | [Banda Todo Terreno](https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX), [Claudio Alcaraz](https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz) | [Me Despido del Pasado](https://open.spotify.com/album/2e3pLQlpzGCw2ihqDDwryK) | 2:44 | 2025-05-30 | 2025-06-07 |
 | [Me Di Cuenta](https://open.spotify.com/track/0xfdBhImqnPN4yh2bT1rr0) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro, Vol\. 2](https://open.spotify.com/album/2VNRQcvWyaZY20xKwGEOz0) | 3:02 | 2023-12-08 | 2023-12-10 |
 | [Me Di Cuenta](https://open.spotify.com/track/2ucU5OkIVrM0CcaUksB6vf) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro, Vol\. 2](https://open.spotify.com/album/3wxMFWQmft2AiryqyyH7Rx) | 3:02 | 2023-12-08 | 2023-12-16 |

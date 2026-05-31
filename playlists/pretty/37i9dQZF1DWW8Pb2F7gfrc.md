@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 
 > Enjoy the Asian Pop Festival 2025 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 아시안 팝 페스티벌 2025 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,953 likes - 432 songs - 1 day 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,957 likes - 432 songs - 1 day 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8Pb2F7gfrc.md) - [plain]
 | 26 | [Hero Collector](https://open.spotify.com/track/5PdQwDm0DvPU41QedRJ1bB) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Hero Collector](https://open.spotify.com/album/0bZNnPpFBcqxFQXPZ0A4Mx) | 4:12 |
 | 27 | [Strings as a Sword](https://open.spotify.com/track/5XULbmDVKK812fqvP61tcE) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [YEOK SEONG](https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES) | 4:03 |
 | 28 | [Intro](https://open.spotify.com/track/2gNtS3eqPOg9RcOLxWzYez) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [YEOK SEONG](https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES) | 3:42 |
-| 29 | [Gainism](https://open.spotify.com/track/4aZQ1ug0m8B6BI4s40jb4L) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 4:34 |
-| 30 | [Gibberish](https://open.spotify.com/track/6hHHiCl20wW5vJ2XywgIzu) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 5:34 |
+| 29 | [Gainism \(Live 2023\)](https://open.spotify.com/track/4aZQ1ug0m8B6BI4s40jb4L) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 4:34 |
+| 30 | [Gibberish \(Live 2023\)](https://open.spotify.com/track/6hHHiCl20wW5vJ2XywgIzu) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 5:34 |
 | 31 | [Docking](https://open.spotify.com/track/6o3U4VSdRkB3umd40oRRGj) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Even If Things Fall Apart](https://open.spotify.com/album/2dPzBNwePaE5rB2t9kpScF) | 3:49 |
 | 32 | [Unspoken](https://open.spotify.com/track/2berS6jFrr5FDB4XvqLgPr) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Unspoken](https://open.spotify.com/album/7za33muujtDaffMAvJq1Ld) | 4:17 |
 | 33 | [Stage Comment from LEE SEUNG YOON 1](https://open.spotify.com/track/5lujdf1R9g0IzQasGL9X3g) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Asian Pop Festival Audio Liners](https://open.spotify.com/album/5Fo3QoW7B2h1xfSPt1mhIF) | 0:35 |

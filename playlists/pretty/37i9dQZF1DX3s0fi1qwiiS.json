@@ -1,6 +1,6 @@
 {
   "description": "The Detty December anthems over the years ",
-  "num_followers": 8155,
+  "num_followers": 8157,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
@@ -147,26 +147,6 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "Energy (Stay Far Away)",
-        "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 199521,
-      "name": "Energy (Stay Far Away)",
-      "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
         "name": "Iskaba",
         "url": "https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 224640,
       "name": "Iskaba",
       "url": "https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
+        "name": "Energy (Stay Far Away)",
+        "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 199521,
+      "name": "Energy (Stay Far Away)",
+      "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -883,26 +883,18 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "Wiase (Y3d3 Remix)",
-        "url": "https://open.spotify.com/album/5iKIckXV57WUQ3LC6Ejd5x"
+        "name": "Otoolege",
+        "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
       },
       "artists": [
         {
-          "name": "Quamina Mp",
-          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Yung C",
-          "url": "https://open.spotify.com/artist/4AmyHrK5ftoTr4qYrFGTlW"
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
         }
       ],
-      "duration_ms": 276401,
-      "name": "Wiase (Y3d3 Remix)",
-      "url": "https://open.spotify.com/track/4eGieXDwiQ1RL980VAcQ5p"
+      "duration_ms": 400960,
+      "name": "Otoolege",
+      "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -927,18 +919,26 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "Otoolege",
-        "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
+        "name": "Wiase (Y3d3 Remix)",
+        "url": "https://open.spotify.com/album/5iKIckXV57WUQ3LC6Ejd5x"
       },
       "artists": [
         {
-          "name": "Ofori Amponsah",
-          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Yung C",
+          "url": "https://open.spotify.com/artist/4AmyHrK5ftoTr4qYrFGTlW"
         }
       ],
-      "duration_ms": 400960,
-      "name": "Otoolege",
-      "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
+      "duration_ms": 276401,
+      "name": "Wiase (Y3d3 Remix)",
+      "url": "https://open.spotify.com/track/4eGieXDwiQ1RL980VAcQ5p"
     },
     {
       "added_at": "2025-12-23 16:53:12",

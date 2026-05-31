@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Cruzando a la segunda mitad del año acompañados de La Arrolladora Banda El Limón de René Camacho y un montón de música nueva más.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,047 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,537 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 20 | [The Wave](https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [The Wave](https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj) | 3:22 |
 | 21 | [GANAS REMIX](https://open.spotify.com/track/57vNJ68zPmGIkgiDreQv6S) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [GANAS REMIX](https://open.spotify.com/album/51ZB7xmzN8RVLJfCeXJmOH) | 5:26 |
 | 22 | [Amanecer](https://open.spotify.com/track/6tYLe8jrs5Ten1n8ndhNKd) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [5AM \(Deluxe\)](https://open.spotify.com/album/7LJ4U8KKxI1RhURKfxtSS6) | 3:50 |
-| 23 | [Final Minutes](https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q) | [LMNT 115](https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Final Minutes](https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo) | 3:15 |
+| 23 | [Final Minutes](https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q) | [LMNT 115](https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Final Minutes](https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo) | 3:15 |
 | 24 | [Mi Gran Amor](https://open.spotify.com/track/6qxUTLRfdxcSy7mHnjNoj0) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mi Gran Amor](https://open.spotify.com/album/0O9T3rjNYjnrcsoOMXyE1Z) | 3:37 |
 | 25 | [Lamento Boliviano](https://open.spotify.com/track/659ULDrXBQCJpoctMocXCo) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [EV+](https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ) | 3:05 |
 | 26 | [Un Pacto](https://open.spotify.com/track/4WQnJ9yzHxpfTIoQf1GKra) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [Un Pacto](https://open.spotify.com/album/77WUGINM34mgh0Tq1QssAA) | 2:47 |

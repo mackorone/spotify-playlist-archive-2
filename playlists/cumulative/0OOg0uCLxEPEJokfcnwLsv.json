@@ -5253,6 +5253,24 @@
     },
     {
       "album": {
+        "name": "DDeep in Soul",
+        "url": "https://open.spotify.com/album/5sObpToTONHJqsGCV7KMe6"
+      },
+      "artists": [
+        {
+          "name": "Piglets DDeep Forest",
+          "url": "https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 846428,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6jVrywFRidATOA5opVWDAg"
+    },
+    {
+      "album": {
         "name": "CHERYL! Your Love Shines Down Like A Supernova\u2019s Death",
         "url": "https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT"
       },

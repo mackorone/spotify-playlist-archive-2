@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: Chilli Beans.
 
-3,788 songs - 10 day 1 hr 14 min
+3,789 songs - 10 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [AiAiA](https://open.spotify.com/track/10HeYTTDc5jxAnjRwWfwIe) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [AiAiA](https://open.spotify.com/album/5yo7MTWhUP9XpApJvcHAKn) | 4:14 | 2026-03-17 |  |
 | [aiko ga tuduita mitaina](https://open.spotify.com/track/4Xp8BPH0XH1kvaRj0FCKLi) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [After All, All Mine](https://open.spotify.com/album/0KweSlxA28L6NhNqwRV5iO) | 3:02 | 2025-02-18 | 2025-03-05 |
 | [AINIIKOU](https://open.spotify.com/track/3oGRtggGs5FH6nVrOwDIaW) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [AINIIKOU](https://open.spotify.com/album/6VUReTTUia2grVUe5YL6N6) | 4:05 | 2023-05-30 | 2023-06-21 |
+| [Airplane Letter](https://open.spotify.com/track/7Co5Rxc0BvTcANQtdnmBjC) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [Airplane Letter](https://open.spotify.com/album/7g7MS1ZyBQYj2ggKBgY6ym) | 3:16 | 2026-05-26 |  |
 | [Aiseta](https://open.spotify.com/track/62nFk3PRZcyj374GNw01Gz) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [Aiseta](https://open.spotify.com/album/5x7Nn1bwdvJ5Vx1l5cyZST) | 4:07 | 2022-06-02 | 2022-07-21 |
 | [aishiteru](https://open.spotify.com/track/79iFhIEFTqS5YykBPUMcon) | [宇雪](https://open.spotify.com/artist/1XxIFOqghfXfAuvXiYPHEE) | [aishiteru](https://open.spotify.com/album/2KqF4NM13iQ5UaIFP3loUR) | 3:16 | 2025-06-11 | 2025-06-18 |
 | [Aitagai](https://open.spotify.com/track/2d1Ei1KUpgoGFTpjqj6vBN) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Aitagai](https://open.spotify.com/album/08pc5v5qapwWz7UGRTl7ge) | 3:51 | 2022-07-28 | 2022-08-03 |
@@ -1652,7 +1653,7 @@
 | [Shampoo \(feat\. Yu Hayami\)](https://open.spotify.com/track/2h3F8V4Jx96YE9uX8jzG0a) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Yu Hayami](https://open.spotify.com/artist/1EgJAueSbwh56nECF6YQHX) | [Shampoo \(feat\. Yu Hayami\)](https://open.spotify.com/album/4fgoD35jNs2rcKlsCkipw8) | 3:09 | 2023-08-17 | 2023-08-23 |
 | [Shanghai \- feat.ひかり](https://open.spotify.com/track/7IJwsrAYULLIRYwvTY7zXe) | [Fumihiro Kaneko](https://open.spotify.com/artist/7fBmQcPIpoEzf3oNcuhexz), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Shanghai \(feat.ひかり\)](https://open.spotify.com/album/1RPBTEvfW9DWsL0yFxPVj3) | 4:00 | 2022-06-28 | 2022-07-06 |
 | [Shapes Of Happiness](https://open.spotify.com/track/6d6iKcKMl87NMHakoJfwyl) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [Shapes Of Happiness](https://open.spotify.com/album/46cgNFNcDV01LBc3ty5vR0) | 4:09 | 2025-04-01 | 2025-04-09 |
-| [Share](https://open.spotify.com/track/3PRRGO7BnuyiXu8e6EiTbR) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Share](https://open.spotify.com/album/2UwvE18GEMsWdXyvs0HYfE) | 3:57 | 2025-12-16 |  |
+| [Share](https://open.spotify.com/track/3PRRGO7BnuyiXu8e6EiTbR) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [Share](https://open.spotify.com/album/2UwvE18GEMsWdXyvs0HYfE) | 3:57 | 2025-12-16 | 2026-05-31 |
 | [She's my Venus](https://open.spotify.com/track/4OxLgmeGIn2UV2V229QdVt) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [She's my Venus](https://open.spotify.com/album/14lug4nKuX2kTAJYYZqjx6) | 2:47 | 2025-07-08 | 2026-01-15 |
 | [Shelter](https://open.spotify.com/track/4AxDEjLOMfpQ7IXB1xVTfe) | [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2), [Black Boboi](https://open.spotify.com/artist/1d0tqPDaL5aLB0Ep2Zjcgn) | [Shelter](https://open.spotify.com/album/6JHTVTO4BqQM6xsYYzMM7a) | 4:02 | 2022-06-24 | 2022-06-26 |
 | [Sherbet](https://open.spotify.com/track/56jXepSKHL0ZiIstrSpoMz) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [Tio](https://open.spotify.com/artist/7LzfAWU6jvqg8fVeNc0fqB), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Sherbet](https://open.spotify.com/album/4KhKPafupvHCvSb8lt6CAj) | 3:25 | 2022-09-13 | 2022-09-28 |

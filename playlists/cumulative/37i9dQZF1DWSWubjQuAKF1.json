@@ -1923,6 +1923,28 @@
     },
     {
       "album": {
+        "name": "B\u0105d\u017a ze mn\u0105 // Mia Wallace",
+        "url": "https://open.spotify.com/album/1gmsEZVb50twhJ16f5nixm"
+      },
+      "artists": [
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        },
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "B\u0105d\u017a ze mn\u0105",
+      "url": "https://open.spotify.com/track/1Sa8Kkb8onNb8ET8THUM5z"
+    },
+    {
+      "album": {
         "name": "WARM UP",
         "url": "https://open.spotify.com/album/4aAFN9ics0Z5JKVfBeahxV"
       },
@@ -14894,7 +14916,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 199955,
       "name": "Widz\u0119 Ci\u0119 od nowa",
       "url": "https://open.spotify.com/track/0F1dYBzy58gnE0MVHgY34I"

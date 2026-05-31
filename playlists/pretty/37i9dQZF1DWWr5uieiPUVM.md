@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > e aí tue, como foi o show?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,546,519 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,546,467 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [FORTAL NÃO TEM NEVE](https://open.spotify.com/track/53pmi3jzjIl3Hsikv8qXNG) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [FORTAL NÃO TEM NEVE](https://open.spotify.com/album/5fFWAbkfM2gur5ihfN5gJy) | 2:36 |
 | 50 | [Santo](https://open.spotify.com/track/3LHuL8QHNLs5xJYLha2sxd) | [Japa](https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA), [Lucchini](https://open.spotify.com/artist/2w2YbWSulMlPaCCSjNmMBR), [Cheek](https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3) | [!mortal](https://open.spotify.com/album/2lWpiz4yw5I8VLIQ1dKRdR) | 2:17 |
 
-Snapshot ID: `AAAAAP/XK1g3U8g9vXEOaZzWNsanGl3T`
+Snapshot ID: `AAAAALhFc/8+xxUTuEkANUW5HSqwyT7b`

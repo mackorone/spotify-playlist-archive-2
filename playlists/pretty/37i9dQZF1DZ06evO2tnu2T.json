@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 2253,
+  "num_followers": 2256,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aheFgAAAAAAQM6WDDuRIYfTABq/F8a3s",
+  "snapshot_id": "ahjXAAAAAADLF78kyQ4lGMk/g5pbfOln",
   "tracks": [
     {
       "added_at": null,
@@ -232,7 +232,7 @@
       "added_at": null,
       "album": {
         "name": "Paracosm",
-        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
+        "url": "https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 210506,
-      "name": "Elevator",
-      "url": "https://open.spotify.com/track/29iIxkfKomRxXdkzVhQuAE"
+      "duration_ms": 168080,
+      "name": "No Audience",
+      "url": "https://open.spotify.com/track/4neKoZZ53RPyeUyKqH8WSm"
     },
     {
       "added_at": null,
@@ -304,7 +304,7 @@
       "added_at": null,
       "album": {
         "name": "Paracosm",
-        "url": "https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw"
+        "url": "https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 168080,
-      "name": "No Audience",
-      "url": "https://open.spotify.com/track/4neKoZZ53RPyeUyKqH8WSm"
+      "duration_ms": 210506,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/29iIxkfKomRxXdkzVhQuAE"
     },
     {
       "added_at": null,

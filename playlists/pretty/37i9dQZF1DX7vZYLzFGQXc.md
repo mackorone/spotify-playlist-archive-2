@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: blueberryclub\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,250 likes - 53 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,249 likes - 53 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 25 | [Lines For Today](https://open.spotify.com/track/51JY7adOGiJuEYuydofe12) | [Wavemeans](https://open.spotify.com/artist/6CYyF2lNhSUwZHUtlYoJ3r) | [Lines For Today](https://open.spotify.com/album/6ft7pqkX2AsA17DSCb75XB) | 2:45 |
 | 26 | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn) | [Ryeojin](https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX) | 2:36 |
 | 27 | [New Babe](https://open.spotify.com/track/2XHO4Qu3rfqt8WgPulBwCu) | [yawn](https://open.spotify.com/artist/3vodBtJFpi0OtCviDMOHYc), [min](https://open.spotify.com/artist/66gNzDwsUTdKBVcq1cZg5g) | [New Babe](https://open.spotify.com/album/0ImDEqYg2Mc8T3c6q7DvdP) | 3:06 |
-| 28 | [Should be you](https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Prussian Blue](https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD) | 3:02 |
+| 28 | [Should be you](https://open.spotify.com/track/2SJeAcqIJA2lSZldU4q27z) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [Prussian Blue](https://open.spotify.com/album/72ZbIoAzhg0ZRa9GIV2PkD) | 3:02 |
 | 29 | [Trace](https://open.spotify.com/track/4NisfxvLivDgaosC7s6ejt) | [CHOSNG](https://open.spotify.com/artist/21Ohc3UObsDhgnvfonXb6W) | [Trace](https://open.spotify.com/album/2Dfsq1imLWUNAjhcScwk4H) | 4:21 |
 | 30 | [echo](https://open.spotify.com/track/6znYZ3QSDGuVde8I0LV5kR) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [echo](https://open.spotify.com/album/4RTph9mwBNSXPw583WX5OE) | 3:32 |
 | 31 | [fallen](https://open.spotify.com/track/14mDHG6i0nOWK2BKXk6eev) | [kyuman](https://open.spotify.com/artist/6kP25N7G38ac03KIwPsiph), [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [leaf, leaves](https://open.spotify.com/album/1EpSqXzJzPabeM6yPx0onN) | 2:24 |

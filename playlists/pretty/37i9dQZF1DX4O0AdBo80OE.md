@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Suaaaaaaave 📸 MC Davo y Miranda León
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,285 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,294 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LULULEMON](https://open.spotify.com/track/1WnG8q6f09ebulThpq3E5V) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Miranda León](https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14) | [LULULEMON](https://open.spotify.com/album/5UYYe9GIpJPCOwlkLMrjd5) | 2:51 |
 | 2 | [Yes en Inglés](https://open.spotify.com/track/5H6x8cLXFp8IIr3Luc59u3) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Big Sempa](https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf) | [Genaro Presenta: Este No Es el Disco Volumen\. II](https://open.spotify.com/album/6ISuv9ZZaNvs0vRVzk6Tmx) | 3:02 |
 | 3 | [Letras Chiquitas](https://open.spotify.com/track/2xX22Q4snEaWfqUVooJp9b) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C), [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [Letras Chiquitas](https://open.spotify.com/album/7cdkN6vQDrlnZMGJjvg3gT) | 4:22 |
-| 4 | [panty\_megamix\_\(Freedownload\)\_mp3\_exe](https://open.spotify.com/track/3Kx9dfUHGkfrRn7RqzjY4z) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs), [DJ king mermaid queen slayer](https://open.spotify.com/artist/5BNVpltb6N9SBDOqCa3gQu) | [panty\_megamix\_\(Freedownload\)\_mp3\_exe](https://open.spotify.com/album/1rmrtNEpeu9o0ak74KLhF5) | 2:51 |
+| 4 | [panty\_\(Freedownload\)\_mp3\_exe](https://open.spotify.com/track/3Kx9dfUHGkfrRn7RqzjY4z) | [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs), [DJ king mermaid queen slayer](https://open.spotify.com/artist/5BNVpltb6N9SBDOqCa3gQu) | [panty\_\(Freedownload\)\_mp3\_exe](https://open.spotify.com/album/1rmrtNEpeu9o0ak74KLhF5) | 2:51 |
 | 5 | [TITI](https://open.spotify.com/track/6lNeFGxU7FKtRxPYnCLErH) | [NOESUNAETAPA](https://open.spotify.com/artist/3WovYsWH9obL3GJCSndSwo), [Gallo Armado](https://open.spotify.com/artist/2QktjVtUENC6NeK8iAYKpc), [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x) | [TITI](https://open.spotify.com/album/4nUW129eXeuc72LcldUHIs) | 2:25 |
 | 6 | [Para Mi](https://open.spotify.com/track/330C6PsBzoBjHa9u3eCYqC) | [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [En las Nubes](https://open.spotify.com/album/5WFwVFbLi6qL17Cnpj2BjP) | 3:07 |
 | 7 | [me gustabas más que todo](https://open.spotify.com/track/5xvhUSdocrN0Px6B5506ls) | [D'huizar](https://open.spotify.com/artist/3DCJs16lEewkE0m5Do6feJ), [MAPACHE](https://open.spotify.com/artist/6i5UJieLqXIrhN98saCMzG) | [me gustabas más que todo](https://open.spotify.com/album/5o617WA7fE7ODGEDPf7HSr) | 2:21 |

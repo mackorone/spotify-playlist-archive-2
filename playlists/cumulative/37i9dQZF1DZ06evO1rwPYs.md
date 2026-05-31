@@ -4,7 +4,7 @@
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-161 songs - 10 hr 19 min
+162 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Desvelo De Amor](https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Tierna, Conmovedora, Bamboleadora](https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I) | 2:54 | 2021-12-29 |  |
 | [Dile Que Por Mí No Tema](https://open.spotify.com/track/2nti8TuVhtp3Gk53WUnnM4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 2:33 | 2022-01-01 |  |
 | [Dos Días en la Vida](https://open.spotify.com/track/6A2RSGXpBKOrG5uqJcCp6c) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh) | 3:43 | 2021-12-29 |  |
-| [Dos Jueyes](https://open.spotify.com/track/79LLoATRBfeQ6XrY5sOurY) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia y Willie](https://open.spotify.com/album/3dIsd8OhzKeonnCSV6VdWS) | 4:11 | 2021-12-31 |  |
+| [Dos Jueyes](https://open.spotify.com/track/79LLoATRBfeQ6XrY5sOurY) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia y Willie](https://open.spotify.com/album/3dIsd8OhzKeonnCSV6VdWS) | 4:11 | 2021-12-31 | 2026-05-31 |
+| [Dos Jueyes \- En Vivo](https://open.spotify.com/track/3UpSspxIu3zGlvGsNosHRd) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Dos Jueyes \(En Vivo\)](https://open.spotify.com/album/4xaXbP2jYcgRv27QMpTXZ3) | 5:34 | 2026-05-31 |  |
 | [Echa Pa' Lante \- Remastered 2025](https://open.spotify.com/track/72FM52DpBszmyaab4Ru2SI) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Serenata Guajira \(Remastered 2025\)](https://open.spotify.com/album/1kmTAexmlUr0sN1bAEmNW2) | 2:30 | 2025-10-26 | 2025-11-23 |
 | [El \#100](https://open.spotify.com/track/1KtmahhSHKA4iGAIrBi88P) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Domingo Quiñones](https://open.spotify.com/artist/4JqvRbbOIF4EUmsVQMTgjs), [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY), [Millie P.](https://open.spotify.com/artist/3FKe0JFVvOJchsQdhcJ6cY), [Santos Colón](https://open.spotify.com/artist/3RTLdhg8OTJebOdXZ1oQsz), [Jose Alberto](https://open.spotify.com/artist/0Ij5XvrnnRFo7wCrUrwV5x) | [2En1](https://open.spotify.com/album/3LTZ2KOyO71W1p5LepHuSM) | 5:58 | 2022-01-04 |  |
 | [El Chisme](https://open.spotify.com/track/3yH3PskdCzWgANziTqwUVc) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Ritmo en el Corazón](https://open.spotify.com/album/2Ei3gt0jWaAbbDn6k8rYpA) | 4:36 | 2021-12-28 | 2022-02-28 |

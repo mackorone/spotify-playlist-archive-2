@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,278 songs - 5 day 14 hr 31 min
+2,281 songs - 5 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Be Blessed Dub](https://open.spotify.com/track/3lKRkq4plxBgbmk39BZE1b) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw) | [Moc](https://open.spotify.com/album/0ujTermjf1TD2P0Ea9GoEE) | 3:17 | 2024-05-04 |  |
 | [Be Kind](https://open.spotify.com/track/3CukgR2nBQ6yNs5BrRXQ96) | [Adrian Rieder](https://open.spotify.com/artist/6pvI4btwNInfXq5PyamIiS), [Esther Denis](https://open.spotify.com/artist/4qMZ1QFpJA3egnsoyD4GD1) | [Be Kind](https://open.spotify.com/album/7vwuadS7IEeUAfyeoBIfuE) | 4:02 | 2025-10-10 |  |
 | [Be Worth You](https://open.spotify.com/track/4N1ckCu5nN4V0HoouL64RI) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Be Worth You](https://open.spotify.com/album/6btTLln5WbbTjjx364Z8e6) | 4:34 | 2026-05-19 |  |
+| [Beach Chair Technology Dub](https://open.spotify.com/track/4Yigb5QZkeGVeUb85S5vPA) | [Alien Trackers](https://open.spotify.com/artist/5L5HRZ5ZZENiDWIv2bPE08), [disrupt](https://open.spotify.com/artist/2gRoIdR5vwiNwds5uW3Kge), [Pablo Volt](https://open.spotify.com/artist/34MttlcoQi6VGZODd0GDBm) | [Dubs From Vortex Beach](https://open.spotify.com/album/4yP8iuNURoEAPZemwvvw0L) | 3:32 | 2026-05-30 |  |
 | [Beamin'](https://open.spotify.com/track/36OJ0CnzASEhbGDgr1TlGH) | [GJR](https://open.spotify.com/artist/6ED1OHDKyrxfqR1hv54TGM), [Big Brody](https://open.spotify.com/artist/0gO52kIaKbFMbxaFpDvSNM) | [Beamin'](https://open.spotify.com/album/1D3I4a8Sp6IqCR0iPUwwV9) | 3:37 | 2025-06-23 |  |
 | [Beatyfikowany Dub](https://open.spotify.com/track/6YgxG39ozOy2DtSLL2ub4A) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Muflon Man](https://open.spotify.com/artist/0VeWs0QhnTT7hKeo5D0DlV), [Norma](https://open.spotify.com/artist/0m9V6VkZS0jjZXHJRjsqVC), [Karolina](https://open.spotify.com/artist/61hOojWQQYaAfQSzSo9wUW) | [In Love with Righteousness \(2005\-2014 Best Dubs Compilation\)](https://open.spotify.com/album/0yCEH2qbynKuAzXt7x3Yzp) | 3:04 | 2024-05-01 |  |
 | [Beautiful](https://open.spotify.com/track/2lll7Rp1ftapLVcMx8srnN) | [Comfort Flute](https://open.spotify.com/artist/6sZRX8KtV2M8NzxLl3DEWr) | [Beautiful](https://open.spotify.com/album/5eT4UeHGH0hTY9m2jrdaTn) | 3:40 | 2025-05-26 |  |
@@ -405,6 +406,7 @@
 | [Cycle Dub](https://open.spotify.com/track/4OZhkME5qEVXBgkCwsl4S8) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw) | [Lost Transmissions](https://open.spotify.com/album/1IvD6MDub4gPiIz4VcZByo) | 4:24 | 2024-03-25 |  |
 | [Cypher Dust](https://open.spotify.com/track/32Zk8ZgVRf69UK6xIS5gW3) | [akawave](https://open.spotify.com/artist/5NSr7TIr69IGWkUdiJp79j) | [Cypher Dust](https://open.spotify.com/album/4ECCzaDYIUwXVPqKIbNSHe) | 3:21 | 2026-02-07 |  |
 | [Cáncer](https://open.spotify.com/track/36fLn4nYG2rrROYirs2TW5) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Cáncer](https://open.spotify.com/album/4M04xsPybORBRpEzJGZAcD) | 4:10 | 2025-06-17 |  |
+| [Cómo Respirar](https://open.spotify.com/track/0svv42aTlbAesTUc9Hu4y8) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Cómo Respirar](https://open.spotify.com/album/6pTVWAy8d6QaHQuW7hn8qd) | 3:25 | 2026-05-30 |  |
 | [Da Bras Hit Da Floor](https://open.spotify.com/track/3HLkXl8tZbmO0DMlBttHaX) | [Paul Marturano](https://open.spotify.com/artist/4ErK966kYcXS7y7s4e3MLA) | [MORE!](https://open.spotify.com/album/4h64BagLtNtjL0jRfVKdpo) | 3:05 | 2025-07-09 |  |
 | [Da sé](https://open.spotify.com/track/16aUoyuxw526EZQHLi0cEw) | [Cristian Nevola](https://open.spotify.com/artist/5obCJ7rIcd96XExURB2NTv) | [Sfumature](https://open.spotify.com/album/5K3wpbQU0nlWweaLY3Rd7B) | 4:32 | 2023-05-21 |  |
 | [dack](https://open.spotify.com/track/4qlWjCMKFWZzxLMzKGv32s) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 5:29 | 2024-10-20 |  |
@@ -2015,6 +2017,7 @@
 | [Time Is A Weapon](https://open.spotify.com/track/7F0rYUVBoEV4wEFeXG070e) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Time Is A Weapon](https://open.spotify.com/album/46wy0eBBTvxxI3llxxWkAE) | 3:30 | 2026-02-15 |  |
 | [Time of the Season \- Mono Remastered](https://open.spotify.com/track/6lx1n63qJmhzPpirxxksbI) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle \(Mono Remastered\)](https://open.spotify.com/album/1Rad3I77vbl5L65DjbSIzJ) | 3:30 | 2025-10-01 |  |
 | [Time Slips Away](https://open.spotify.com/track/65vKyPGbuAmYwdMSiRlAPg) | [DiaZero](https://open.spotify.com/artist/7o5pN1XmIndmtyoBGNJ1Fa) | [Time Slips Away](https://open.spotify.com/album/3C8elZHA5p4Y4eLZbBO9NM) | 4:10 | 2025-10-26 |  |
+| [Time to Forget \(Home Session\)](https://open.spotify.com/track/5E6Klq5qxudTSIhvwPvCYt) | [Apt 402](https://open.spotify.com/artist/1g2ffr30jwqhE1tepdL5jJ) | [Time to Forget \(Home Session\)](https://open.spotify.com/album/6RMIJjQU7CrgsSKosXyApZ) | 3:33 | 2026-05-30 |  |
 | [Tiny Soldiers on a Cheese Cake \- Live from Nowhere](https://open.spotify.com/track/18HT52ua8Cp8kXBARmnTV6) | [Riccardo Cantarelli](https://open.spotify.com/artist/58JQ6umDec53Xhx0yJz2Wf) | [Tiny Soldiers on a Cheese Cake](https://open.spotify.com/album/4GCk3PEIVm3CnwGJEtL2qa) | 4:11 | 2026-05-05 |  |
 | [Tiny Speck](https://open.spotify.com/track/6kPjfKphSOuffaeXzGRBZN) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Un Mal Menor](https://open.spotify.com/album/2YVnJHNShcNAkedJq4GJl3) | 3:26 | 2025-07-27 |  |
 | [TNT in My Brain](https://open.spotify.com/track/5IrwtZ7gmlW98mvLaTLUp8) | [Komadub](https://open.spotify.com/artist/5QSz1eRMvZIAkvBATsz4ob), [Alphadub](https://open.spotify.com/artist/2ggOeqoxpNZiuvQMNHXGtJ) | [Do Good](https://open.spotify.com/album/7zuEb5FEYogyGK6Ntjh2XE) | 4:15 | 2024-03-25 |  |

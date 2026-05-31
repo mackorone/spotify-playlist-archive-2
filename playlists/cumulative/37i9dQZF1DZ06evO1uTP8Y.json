@@ -81,6 +81,32 @@
     },
     {
       "album": {
+        "name": "Anxious",
+        "url": "https://open.spotify.com/album/6jp5LxG8lGxuetjqdJy10g"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "Anxious",
+      "url": "https://open.spotify.com/track/5JcLoePE4FisG4y5vLRXzD"
+    },
+    {
+      "album": {
         "name": "Out the Blue",
         "url": "https://open.spotify.com/album/5sTHywyZLnzU34tjOfdviE"
       },

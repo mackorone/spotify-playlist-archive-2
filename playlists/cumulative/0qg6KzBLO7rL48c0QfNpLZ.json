@@ -27221,6 +27221,24 @@
     },
     {
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/7z50RE98OYuqMNaaGNMARI"
+      },
+      "artists": [
+        {
+          "name": "Deep Deluxe",
+          "url": "https://open.spotify.com/artist/6phrdaBviOOj3QTnBxj83l"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/0ofaRJH0icpKM11alQRsh7"
+    },
+    {
+      "album": {
         "name": "Sweet Escape",
         "url": "https://open.spotify.com/album/1DkLZ79J98z54DHFFhbO53"
       },

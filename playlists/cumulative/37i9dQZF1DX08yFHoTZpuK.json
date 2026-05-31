@@ -61,6 +61,24 @@
     },
     {
       "album": {
+        "name": "RIOT IN SILENCE",
+        "url": "https://open.spotify.com/album/45LpEs9L4qtRyLcbdOHKEa"
+      },
+      "artists": [
+        {
+          "name": "DJ DISK",
+          "url": "https://open.spotify.com/artist/7BhAnkcfEJZNZNBsGXj9Jr"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212173,
+      "name": "BARTRACK",
+      "url": "https://open.spotify.com/track/6po2cdbkS2KF5EfgOa9uNi"
+    },
+    {
+      "album": {
         "name": "Republica Cafe Gold (Compiled by Marco Fullone)",
         "url": "https://open.spotify.com/album/1RZEMH8G4czKTZBauBLDHy"
       },
@@ -442,7 +460,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 243626,
       "name": "Fabric",
       "url": "https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp"
@@ -922,7 +940,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 236675,
       "name": "Nulife",
       "url": "https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN"
@@ -1464,6 +1482,24 @@
       "duration_ms": 161300,
       "name": "TRASHURE",
       "url": "https://open.spotify.com/track/0x9hcN9M7tZL8VipEkh6b4"
+    },
+    {
+      "album": {
+        "name": "130 EP",
+        "url": "https://open.spotify.com/album/3EAJf5JLBRkRzue63TPRyl"
+      },
+      "artists": [
+        {
+          "name": "Albino Sound",
+          "url": "https://open.spotify.com/artist/5MK0l7qvi1LxeXOhyUx8m0"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297230,
+      "name": "Uneven Objects 1",
+      "url": "https://open.spotify.com/track/5ZAlU658s1Y9B2QebY51OE"
     },
     {
       "album": {

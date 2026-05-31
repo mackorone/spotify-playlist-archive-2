@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300fEP 02",
+        "url": "https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS"
+      },
+      "artists": [
+        {
+          "name": "Chifuyu Matsuno (CV:Sho Karino)",
+          "url": "https://open.spotify.com/artist/3YpoR9JDNAGiujMNDA3sFZ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201773,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/1QlCMfHSeogUqJmtZXBglY"
+    },
+    {
+      "album": {
         "name": "TV Anime \"Tokyo Revengers\" EP 02",
         "url": "https://open.spotify.com/album/7gr5oKsQ9OAnM5qJ5Nhsrc"
       },
@@ -712,24 +730,6 @@
       "duration_ms": 201773,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/2hxuAPBIza2jYoZifRddTJ"
-    },
-    {
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u6771\u4eac\u30ea\u30d9\u30f3\u30b8\u30e3\u30fc\u30ba\u300fEP 02",
-        "url": "https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u91ce\u5343\u51ac(CV:\u72e9\u91ce \u7fd4)",
-          "url": "https://open.spotify.com/artist/5ptc6TSEqkQK6P3LkWYXzX"
-        }
-      ],
-      "date_added": "2023-12-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201773,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/1QlCMfHSeogUqJmtZXBglY"
     },
     {
       "album": {
@@ -756,8 +756,8 @@
       },
       "artists": [
         {
-          "name": "\u677e\u91ce\u5343\u51ac(CV:\u72e9\u91ce \u7fd4)",
-          "url": "https://open.spotify.com/artist/5ptc6TSEqkQK6P3LkWYXzX"
+          "name": "Chifuyu Matsuno (CV:Sho Karino)",
+          "url": "https://open.spotify.com/artist/3YpoR9JDNAGiujMNDA3sFZ"
         }
       ],
       "date_added": "2023-12-19",
@@ -1196,8 +1196,8 @@
       },
       "artists": [
         {
-          "name": "\u5834\u5730\u572d\u4ecb(CV:\u6c34\u4e2d\u96c5\u7ae0)",
-          "url": "https://open.spotify.com/artist/2DWpexvoarRPK7snD6HxgT"
+          "name": "Keisuke Baji (CV:Masaaki Mizunaka)",
+          "url": "https://open.spotify.com/artist/0dnOSnktjKjMsUiGU8aE4F"
         }
       ],
       "date_added": "2023-12-19",
@@ -1232,8 +1232,8 @@
       },
       "artists": [
         {
-          "name": "\u5834\u5730\u572d\u4ecb(CV:\u6c34\u4e2d\u96c5\u7ae0)",
-          "url": "https://open.spotify.com/artist/2DWpexvoarRPK7snD6HxgT"
+          "name": "Keisuke Baji (CV:Masaaki Mizunaka)",
+          "url": "https://open.spotify.com/artist/0dnOSnktjKjMsUiGU8aE4F"
         }
       ],
       "date_added": "2023-12-19",
@@ -1340,8 +1340,8 @@
       },
       "artists": [
         {
-          "name": "\u9f8d\u5bae\u5bfa \u5805(CV:\u798f\u897f\u52dd\u4e5f)",
-          "url": "https://open.spotify.com/artist/17jvoClXmCH3wLNBt0nHcn"
+          "name": "Ken Ryuguji (CV:Masaya Fukunishi)",
+          "url": "https://open.spotify.com/artist/4B1OAM4aAucqkW5QK6JkEP"
         }
       ],
       "date_added": "2023-12-19",
@@ -2096,8 +2096,8 @@
       },
       "artists": [
         {
-          "name": "\u4f50\u91ce\u4e07\u6b21\u90ce(CV:\u6797 \u52c7)",
-          "url": "https://open.spotify.com/artist/5u5Pcr8YJeB8OxpMoxYvTE"
+          "name": "Manjiro Sano (CV:Yuu Hayashi)",
+          "url": "https://open.spotify.com/artist/6hmu6G3WGEOi5iOhghjYBU"
         }
       ],
       "date_added": "2023-12-19",

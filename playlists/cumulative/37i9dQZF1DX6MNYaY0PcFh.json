@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "90S",
+        "url": "https://open.spotify.com/album/1gQuOq96Cpf4BNidbu0Zn0"
+      },
+      "artists": [
+        {
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
+        },
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196911,
+      "name": "90S",
+      "url": "https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG"
+    },
+    {
+      "album": {
         "name": "ABC's",
         "url": "https://open.spotify.com/album/6zpvtXid20MHH1ZYdb1mJE"
       },
@@ -732,7 +754,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 111428,
       "name": "Big Truck",
       "url": "https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn"

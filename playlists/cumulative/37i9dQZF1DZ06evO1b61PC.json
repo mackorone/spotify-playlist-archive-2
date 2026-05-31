@@ -2079,6 +2079,28 @@
     },
     {
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/5RW5fQHscTw8urPl8pTsuS"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Simona Shao",
+          "url": "https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168821,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/5QbbJFoN3rLoMAuE6TaLad"
+    },
+    {
+      "album": {
         "name": "Moonlight (The Remixes)",
         "url": "https://open.spotify.com/album/3gmbHl9gfRU8KTOh9z26E7"
       },

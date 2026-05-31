@@ -12575,6 +12575,24 @@
     },
     {
       "album": {
+        "name": "Good Things",
+        "url": "https://open.spotify.com/album/5NL0fgLo35PdV13UqOfcwQ"
+      },
+      "artists": [
+        {
+          "name": "Reitse Machiel",
+          "url": "https://open.spotify.com/artist/081QhRZxkgmFjDHdzJDDfp"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152096,
+      "name": "Good Things",
+      "url": "https://open.spotify.com/track/7nYQ0wMBgN1dcjxHBsocUa"
+    },
+    {
+      "album": {
         "name": "Goodnight Song",
         "url": "https://open.spotify.com/album/4wd1FGFihVt0lXoJy3104f"
       },
@@ -27544,6 +27562,24 @@
       "duration_ms": 156595,
       "name": "Running",
       "url": "https://open.spotify.com/track/1LdFU0wJ5Q3fpMSaJ1hCnb"
+    },
+    {
+      "album": {
+        "name": "Running (2026 Version)",
+        "url": "https://open.spotify.com/album/6yxUpA1wNXER0mn7YAAA3E"
+      },
+      "artists": [
+        {
+          "name": "Elevator Operator",
+          "url": "https://open.spotify.com/artist/146hY314HEGttVHczyZf8T"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263250,
+      "name": "Running - 2026 Version",
+      "url": "https://open.spotify.com/track/4A2wQMG1wllDmYYU8jBUCN"
     },
     {
       "album": {

@@ -875,6 +875,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Hacemos",
+        "url": "https://open.spotify.com/album/6OoKDX1vOapE6DFW7yRnbw"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283408,
+      "name": "Qu\u00e9 Hacemos",
+      "url": "https://open.spotify.com/track/1caeOHzU4WjJmqSCERLPbI"
+    },
+    {
+      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
       },

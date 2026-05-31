@@ -54543,6 +54543,24 @@
     },
     {
       "album": {
+        "name": "Prado Negra",
+        "url": "https://open.spotify.com/album/3wM8FOTYqRsQI6AXpKegdi"
+      },
+      "artists": [
+        {
+          "name": "The Samu",
+          "url": "https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191719,
+      "name": "Prado Negra",
+      "url": "https://open.spotify.com/track/5FWAGGkvGW7pyJpCZ6LUiD"
+    },
+    {
+      "album": {
         "name": "Precision",
         "url": "https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe"
       },
@@ -80146,6 +80164,24 @@
       "duration_ms": 247160,
       "name": "\u00d6ylece B\u0131rakt\u0131\u011f\u0131n Yerden",
       "url": "https://open.spotify.com/track/3nfQOWD7pmZjEcPrwXBanW"
+    },
+    {
+      "album": {
+        "name": "\u041f\u043e\u0442\u0435\u0440\u044f\u0442\u044c\u0441\u044f \u0432 \u0433\u043e\u043b\u043e\u0432\u0435",
+        "url": "https://open.spotify.com/album/7vEW4wxbXl9YJWlMcMGSRr"
+      },
+      "artists": [
+        {
+          "name": "\u041b\u0410\u0419\u0422\u041e\u0412\u042b\u0419 \u0422\u0420\u0410\u0423\u0420",
+          "url": "https://open.spotify.com/artist/5PwPpI0ZYVLkDltmVlBtAU"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "\u0411\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u0430\u044f \u043f\u0435\u0442\u043b\u044f",
+      "url": "https://open.spotify.com/track/4y4beiKEPsz2Bf0cft28Fz"
     },
     {
       "album": {

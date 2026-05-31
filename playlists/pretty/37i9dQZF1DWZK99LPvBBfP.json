@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 372771,
+  "num_followers": 372967,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
-        "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
-      },
-      "artists": [
-        {
-          "name": "Energy 52",
-          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
-        },
-        {
-          "name": "Three 'N One",
-          "url": "https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "Caf\u00e9 Del Mar - Three 'N One Radio Edit",
-      "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Trance Classics, Vol. 01",
         "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 238466,
       "name": "Ayla - DJ Taucher Radio Edit",
       "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
+        "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
+      },
+      "artists": [
+        {
+          "name": "Energy 52",
+          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
+        },
+        {
+          "name": "Three 'N One",
+          "url": "https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "Caf\u00e9 Del Mar - Three 'N One Radio Edit",
+      "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Mediterraneo (Club Favourites Collection '90/98)",
-        "url": "https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s"
-      },
-      "artists": [
-        {
-          "name": "Don Carlos",
-          "url": "https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq"
-        }
-      ],
-      "duration_ms": 406200,
-      "name": "Alone - Paradise",
-      "url": "https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Screamadelica",
         "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 216706,
       "name": "Higher Than the Sun - Higher Than the Orb Mix",
       "url": "https://open.spotify.com/track/23UR03W03HWH1HFcF4rz9Z"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Mediterraneo (Club Favourites Collection '90/98)",
+        "url": "https://open.spotify.com/album/0IypwuzkXm0mIhY3ZHEn9s"
+      },
+      "artists": [
+        {
+          "name": "Don Carlos",
+          "url": "https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq"
+        }
+      ],
+      "duration_ms": 406200,
+      "name": "Alone - Paradise",
+      "url": "https://open.spotify.com/track/2kZdKCN82ds6hIhBRtmHox"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Experience: Expanded (Remastered)",
-        "url": "https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 298533,
-      "name": "Out Of Space (Remastered)",
-      "url": "https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "The Age Of Love",
         "url": "https://open.spotify.com/album/1lvQv4KLgECYj4jPkwGPh5"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 408773,
       "name": "The Age Of Love - Jam & Spoon Watch Out For Stella Mix",
       "url": "https://open.spotify.com/track/0rgQp5Pi4C2G8vQrhaTS7b"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Experience: Expanded (Remastered)",
+        "url": "https://open.spotify.com/album/7xLQ4dDNZ7jDc67YxZwJJy"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 298533,
+      "name": "Out Of Space (Remastered)",
+      "url": "https://open.spotify.com/track/6gd0CyUDtpqZpTz2Yh2etS"
     },
     {
       "added_at": "2024-03-22 15:59:52",

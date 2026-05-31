@@ -1877,6 +1877,28 @@
     },
     {
       "album": {
+        "name": "Airplane Letter",
+        "url": "https://open.spotify.com/album/7g7MS1ZyBQYj2ggKBgY6ym"
+      },
+      "artists": [
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
+        },
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196757,
+      "name": "Airplane Letter",
+      "url": "https://open.spotify.com/track/7Co5Rxc0BvTcANQtdnmBjC"
+    },
+    {
+      "album": {
         "name": "Aiseta",
         "url": "https://open.spotify.com/album/5x7Nn1bwdvJ5Vx1l5cyZST"
       },
@@ -31256,7 +31278,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 237746,
       "name": "Share",
       "url": "https://open.spotify.com/track/3PRRGO7BnuyiXu8e6EiTbR"

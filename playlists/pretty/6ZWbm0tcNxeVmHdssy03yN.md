@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,190 likes - 103 songs - 5 hr 22 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,198 likes - 103 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Final Minutes](https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q) | [LMNT 115](https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Final Minutes](https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo) | 3:15 |
+| 1 | [Final Minutes](https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q) | [LMNT 115](https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Final Minutes](https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo) | 3:15 |
 | 2 | [Speak of the Devil](https://open.spotify.com/track/2D3F1P5jD7YloUEK0yzYQG) | [Phix](https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT) | [Speak of the Devil](https://open.spotify.com/album/07nZ4Xu9yFlY7vDdXniUbC) | 3:28 |
 | 3 | [take my hand](https://open.spotify.com/track/0i4SCqKHjbBrPjUX4RPRq3) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx), [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [take my hand](https://open.spotify.com/album/5dkcbuQwMuZK9vI22kT3mw) | 3:32 |
 | 4 | [French Tips](https://open.spotify.com/track/4AhDxbAKP8S3qU9rJKGsZf) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [French Tips](https://open.spotify.com/album/3yz86Gf6wgUk8eq8ceHRCP) | 2:01 |

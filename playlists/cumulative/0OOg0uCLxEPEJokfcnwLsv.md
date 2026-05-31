@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-512 songs - 1 day 7 hr 31 min
+513 songs - 1 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -298,6 +298,7 @@
 | [No Thanks](https://open.spotify.com/track/2anuBT1LsOHNxz5H9qXXkN) | [Fat Fungus](https://open.spotify.com/artist/5JvuLxzIE57fVdo7U29d2D) | [No Thanks](https://open.spotify.com/album/0652xN2MATBffKJ2tapEky) | 4:35 | 2026-04-16 |  |
 | [Noir](https://open.spotify.com/track/4zuMFhWwNSNjv3JBEGu4mD) | [Summoners](https://open.spotify.com/artist/2Q9wu4il52v9GylIMrq8Mn) | [Noir](https://open.spotify.com/album/0u9Wfry4L6EIsPHohmYUN2) | 3:21 | 2026-03-21 | 2026-04-20 |
 | [NORMIE FUCK](https://open.spotify.com/track/5HJyslBPhejHh1p2VlPWuC) | [Meerkat](https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal) | [NORMIE FUCK](https://open.spotify.com/album/0mvePeDg6YsuHXEkJ8RqQH) | 2:25 | 2026-05-05 | 2026-05-26 |
+| [Nostalgia](https://open.spotify.com/track/6jVrywFRidATOA5opVWDAg) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Soul](https://open.spotify.com/album/5sObpToTONHJqsGCV7KMe6) | 14:06 | 2026-05-30 |  |
 | [Notopia](https://open.spotify.com/track/2cuabAoFvJj2yx1xDhjxee) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 3:55 | 2025-10-27 | 2025-11-22 |
 | [Nuestro Camino](https://open.spotify.com/track/0UpD8nhlWeDDmGIsbhEYVj) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [Nuestro Camino](https://open.spotify.com/album/0YkzKQaESw6nPRyOHTfZWy) | 4:44 | 2025-11-04 | 2025-12-12 |
 | [O Acaso Não Costuma Falhar](https://open.spotify.com/track/1WQAo4Nb2oH19AgOSSJ11Z) | [LAVOLTA](https://open.spotify.com/artist/225mMwfH1uWmpEb60eyM7i) | [O Acaso Não Costuma Falhar](https://open.spotify.com/album/4tAeWlcuSKukgwJ49NhSRG) | 3:32 | 2026-05-22 |  |

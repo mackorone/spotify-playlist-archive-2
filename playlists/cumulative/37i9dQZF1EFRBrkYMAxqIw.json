@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "CALL ME",
+        "url": "https://open.spotify.com/album/3rez7CfomkdRAjFzOPv3r9"
+      },
+      "artists": [
+        {
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130825,
+      "name": "CALL ME",
+      "url": "https://open.spotify.com/track/5UwOGv6gUgqxD1VCXMGwno"
+    },
+    {
+      "album": {
         "name": "Close Your Eyes",
         "url": "https://open.spotify.com/album/26ML5knqJbLOSoU6isAq4H"
       },

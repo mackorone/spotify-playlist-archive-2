@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Julia Rocka
 
-860 songs - 1 day 17 hr 58 min
+861 songs - 1 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [było minęło](https://open.spotify.com/track/1P0uvpP1yBNBs6RgVeuTB1) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [było minęło](https://open.spotify.com/album/7mUd8uGotZWdppu9HwWsnr) | 3:12 | 2024-06-28 | 2024-08-23 |
 | [Było Minęło](https://open.spotify.com/track/14kyTL37LotnttqD7X4rqS) | [SARGIS](https://open.spotify.com/artist/114qvfOgYaQqBLv7Ta3WWL) | [Było Minęło](https://open.spotify.com/album/2ehpPnrVRngjOKHZi2U5vp) | 3:11 | 2025-07-24 | 2025-08-01 |
 | [bądź głośno](https://open.spotify.com/track/0N7ETdi2UiXwQZJLK72EHZ) | [NATE](https://open.spotify.com/artist/3AAPRqUrFG2DkMoZyfHlBP) | [bądź głośno](https://open.spotify.com/album/00ImWh3EugTSyFgvsIbwrr) | 2:38 | 2025-10-07 | 2025-10-21 |
+| [Bądź ze mną](https://open.spotify.com/track/1Sa8Kkb8onNb8ET8THUM5z) | [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Bądź ze mną // Mia Wallace](https://open.spotify.com/album/1gmsEZVb50twhJ16f5nixm) | 2:19 | 2026-05-29 |  |
 | [BĘDĘ KIMŚ](https://open.spotify.com/track/52yBm3Q1A8DxOf5EMr4RMp) | [zuziula](https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang), [Propz](https://open.spotify.com/artist/5WMX13N5anFvDkErB379U2) | [WARM UP](https://open.spotify.com/album/4aAFN9ics0Z5JKVfBeahxV) | 2:55 | 2026-01-16 | 2026-01-31 |
 | [Błąkam się](https://open.spotify.com/track/6y0EOAmIrzdSHdXs0umogb) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [Nastoletni dwudziestolatek](https://open.spotify.com/album/3sWnlf1z8Hgu1Sm8aRbghM) | 2:27 | 2024-06-28 | 2024-08-02 |
 | [BŁĘDY WSPÓLNYCH LAT](https://open.spotify.com/track/2NwcYJiajALAyORhxtYziP) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [BŁĘDY WSPÓLNYCH LAT](https://open.spotify.com/album/04edxvnGGmBBix5Xd9XQrB) | 2:09 | 2026-03-12 | 2026-03-20 |
@@ -787,7 +788,7 @@
 | [Why Am I Here](https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room](https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q) | 3:17 | 2026-04-23 | 2026-05-30 |
 | [Why she's better](https://open.spotify.com/track/6JvAJgRYNpMG53GjPThcE1) | [Ola Olszewska](https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b) | [Czy to nadal ja?](https://open.spotify.com/album/6ZxCc5LCfmblibKjhuUMyv) | 2:39 | 2024-06-28 | 2024-07-12 |
 | [WHY WHY WHY](https://open.spotify.com/track/6Jv07pdvSqhiKf6mo98jtw) | [Julia Pośnik](https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX) | [WHY WHY WHY](https://open.spotify.com/album/0YBTSoz2tH1eJGg2xGTf1y) | 2:43 | 2026-01-08 | 2026-04-10 |
-| [Widzę Cię od nowa](https://open.spotify.com/track/0F1dYBzy58gnE0MVHgY34I) | [Iga Posta](https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D) | [Widzę Cię od nowa](https://open.spotify.com/album/3Om5hWxQjSRPGN5rN6ZvbP) | 3:19 | 2026-05-21 |  |
+| [Widzę Cię od nowa](https://open.spotify.com/track/0F1dYBzy58gnE0MVHgY34I) | [Iga Posta](https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D) | [Widzę Cię od nowa](https://open.spotify.com/album/3Om5hWxQjSRPGN5rN6ZvbP) | 3:19 | 2026-05-21 | 2026-05-31 |
 | [Wiem co z nami będzie](https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj) | [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [Wiem co z nami będzie](https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V) | 3:20 | 2025-08-19 | 2025-11-07 |
 | [Wiem, że ci ciężko](https://open.spotify.com/track/6fdsYxLiiqBQBEdZh7lkL4) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Wiem, że ci ciężko](https://open.spotify.com/album/0CNDOPFX4ucmlpji8KAonu) | 3:31 | 2024-06-28 | 2024-07-05 |
 | [wifey material](https://open.spotify.com/track/1g8puN0EuWAuupTQfGBGZN) | [Milky.wav](https://open.spotify.com/artist/0d4V9KFvcZZS9ASemIGuDP) | [wifey material](https://open.spotify.com/album/60U1gVo9t0FP69JWud0BQ5) | 2:02 | 2025-09-16 | 2025-12-06 |

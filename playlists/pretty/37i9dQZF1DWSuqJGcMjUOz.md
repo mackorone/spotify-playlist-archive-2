@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2026 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,968 likes - 112 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,975 likes - 112 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 68 | [Ne me fais pas mal](https://open.spotify.com/track/5vMfDo2q3Pl8e4qgczvrzm) | [Édouard Tremblay\-Grenier](https://open.spotify.com/artist/6renDkf9cZYkI2TX5SKD4X) | [François Roberge](https://open.spotify.com/album/6sVp4J3N1Ws0Mouj5ksdAp) | 2:57 |
 | 69 | [L'abomination](https://open.spotify.com/track/62NFnzUA3hD4X76idybBEg) | [FUUDGE](https://open.spotify.com/artist/5VeX5PycbdHZmYuTqYGUbi) | [L'abomination](https://open.spotify.com/album/3pm7felj4C6KzFa2LslxxL) | 2:57 |
 | 70 | [Cimetière](https://open.spotify.com/track/4ATBchsxcAjYF9fd8cNfIr) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Deux places au cimetière](https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf) | 3:33 |
-| 71 | [PLUS JAMAIS BROKE](https://open.spotify.com/track/1Lf4PXnMAvhowUR3TgASAA) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [PLUS JAMAIS BROKE](https://open.spotify.com/album/0Vd0mxIcnqbqGaW30um1GT) | 2:04 |
+| 71 | [PLUS JAMAIS BROKE](https://open.spotify.com/track/1Lf4PXnMAvhowUR3TgASAA) | [GGCASHOUT](https://open.spotify.com/artist/5am9udROSiOvjHDoDh8Klx) | [PLUS JAMAIS BROKE](https://open.spotify.com/album/0Vd0mxIcnqbqGaW30um1GT) | 2:04 |
 | 72 | [La plus belle fille du moshpit](https://open.spotify.com/track/244JsiSpDkEV86ME9MNjfg) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [Anarcolique](https://open.spotify.com/album/79N0KV2PahSQUMeqjhF0xU) | 4:24 |
 | 73 | [Cartes en main](https://open.spotify.com/track/1kAjokPSNQb7UOl46vns4G) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8), [Original Gros Bonnet](https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX) | [Cartes en main](https://open.spotify.com/album/0K13Ralw58TEP2rBJz6eQG) | 3:15 |
 | 74 | [Perdu d'avance](https://open.spotify.com/track/1nIFrtw6AHGSoVIdMABPYt) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl), [BRÖ](https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5) | [Je ne t'aime plus](https://open.spotify.com/album/6yKbg6bRr8Aj3m4GzQwAhp) | 3:20 |

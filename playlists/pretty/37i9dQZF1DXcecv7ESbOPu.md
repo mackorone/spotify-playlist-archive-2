@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Tjuvjakt, Lovet & Victor Leksell och Tove Styrke med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,916 likes - 102 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,914 likes - 102 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 82 | [Not Your Island](https://open.spotify.com/track/0BS0wa4oWvMvPLBfyuwI2f) | [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [Not Your Island](https://open.spotify.com/album/7vPYZwd7l9wEcI2DsXdegz) | 4:08 |
 | 83 | [Coil](https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Rumspringa](https://open.spotify.com/album/1EHtMAqAB6GSnw8IbuXFLn) | 3:54 |
 | 84 | [LOCKED IN FREESTYLE](https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN FREESTYLE](https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN) | 1:40 |
-| 85 | [GOMF \(feat\. GloRilla\)](https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GOMF \(feat\. GloRilla\)](https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO) | 2:29 |
+| 85 | [GOMF](https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [GOMF](https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO) | 2:29 |
 | 86 | [Nothing New](https://open.spotify.com/track/44oXrdFdm41aG67NIdQfTV) | [Primula](https://open.spotify.com/artist/6jjkDJlJsOl35uLSyy2e7b) | [Nothing New](https://open.spotify.com/album/64gHEjQODZ1BrXBv473Kdv) | 3:40 |
 | 87 | [It's An Ugly Game But Damn You Look Pretty](https://open.spotify.com/track/1cMp97v5YUjJm5VwlkCRft) | [Elliot](https://open.spotify.com/artist/13HlSDWIZ8CBSq1ruAZxAe) | [It's An Ugly Game But Damn You Look Pretty](https://open.spotify.com/album/4F6wXlY0VfxFruCrkB0y5V) | 2:42 |
 | 88 | [Wavy](https://open.spotify.com/track/18fktEJvZ54EbjaUTFRQ1Q) | [D4vvyy](https://open.spotify.com/artist/2egcnbvvs5tjqsR7yYsfYl), [Maxxk](https://open.spotify.com/artist/1j2hRbCetYwiQg71grVtcY), [1HUNNA](https://open.spotify.com/artist/5atNT9H8UsejUwzKrmzipk) | [Wavy](https://open.spotify.com/album/1q8F8sGsY55VsihPsGS2Cf) | 2:05 |

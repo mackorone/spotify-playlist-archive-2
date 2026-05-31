@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Olivia Rodrigo on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,301 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,364 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [I Found You](https://open.spotify.com/track/2iUmp2L3Va1syZMi7CA5iL) | [TA Thomas](https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul) | [I Found You](https://open.spotify.com/album/0VYD8n0LUPyzA8I7Md1cVj) | 3:18 |
 | 100 | [Every Single Summer](https://open.spotify.com/track/5goZ77KeX08Iii1KG1ukZO) | [McCoy Moore](https://open.spotify.com/artist/5dvAwczYPvisoJu4cfWRxO) | [Sunshine State](https://open.spotify.com/album/04kjTLTshcdlB4BTey2vAA) | 2:36 |
 
-Snapshot ID: `AAAAAMN5QvO08/fYZx2wvQ9U/U/l6843`
+Snapshot ID: `AAAAAN09fuf0XPNZVlW+VLliz0juNjhJ`

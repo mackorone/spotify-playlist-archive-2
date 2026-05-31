@@ -1,12 +1,12 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI\n",
-  "num_followers": 122094,
+  "num_followers": 122114,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEPr9fpN6iFOFi2ttqDwHJmkLp7M",
+  "snapshot_id": "AAAAAHLBEAw0eMwX9oHoyEDL1Kz3i2xc",
   "tracks": [
     {
       "added_at": "2026-05-21 17:00:27",
@@ -107,26 +107,6 @@
     {
       "added_at": "2026-05-21 17:00:27",
       "album": {
-        "name": "Wrong Times",
-        "url": "https://open.spotify.com/album/3jQb4fnTYtHAP90TNLaj3y"
-      },
-      "artists": [
-        {
-          "name": "Puppy",
-          "url": "https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7"
-        },
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Wrong Times",
-      "url": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW"
-    },
-    {
-      "added_at": "2026-05-21 17:00:27",
-      "album": {
         "name": "THE WXRDIES",
         "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 240000,
       "name": "Y\u00eau 5",
       "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
+    },
+    {
+      "added_at": "2026-05-21 17:00:27",
+      "album": {
+        "name": "Wrong Times",
+        "url": "https://open.spotify.com/album/3jQb4fnTYtHAP90TNLaj3y"
+      },
+      "artists": [
+        {
+          "name": "Puppy",
+          "url": "https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7"
+        },
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Wrong Times",
+      "url": "https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW"
     },
     {
       "added_at": "2026-05-21 17:00:27",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-05-21 17:00:27",
       "album": {
-        "name": "Love is",
-        "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
-      },
-      "artists": [
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        }
-      ],
-      "duration_ms": 266758,
-      "name": "Love is",
-      "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
-    },
-    {
-      "added_at": "2026-05-21 17:00:27",
-      "album": {
         "name": "B\u1ea1n \u0110\u1eddi",
         "url": "https://open.spotify.com/album/2D1Enc9iq16z9Ikh6azGc2"
       },
@@ -351,22 +335,6 @@
       "duration_ms": 300718,
       "name": "B\u1ea1n \u0110\u1eddi",
       "url": "https://open.spotify.com/track/0kHgteR4TV4LO80wrasDSR"
-    },
-    {
-      "added_at": "2026-05-21 17:00:27",
-      "album": {
-        "name": "nh\u1eafn nh\u1ee7",
-        "url": "https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE"
-      },
-      "artists": [
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 241190,
-      "name": "nh\u1eafn nh\u1ee7",
-      "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
     },
     {
       "added_at": "2026-05-21 17:00:27",
@@ -391,22 +359,18 @@
     {
       "added_at": "2026-05-21 17:00:27",
       "album": {
-        "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
-        "url": "https://open.spotify.com/album/5yZBkOqFJ5hzK3alfJbENs"
+        "name": "nh\u1eafn nh\u1ee7",
+        "url": "https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE"
       },
       "artists": [
         {
-          "name": "Luxuyen",
-          "url": "https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4"
-        },
-        {
-          "name": "New$oulz",
-          "url": "https://open.spotify.com/artist/7GKDb02uOcMnDS5fUixNEc"
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
         }
       ],
-      "duration_ms": 113519,
-      "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
-      "url": "https://open.spotify.com/track/2qU7v0idyT8aTp8FVxl23c"
+      "duration_ms": 241190,
+      "name": "nh\u1eafn nh\u1ee7",
+      "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
     },
     {
       "added_at": "2026-05-21 17:00:27",
@@ -431,6 +395,26 @@
       "duration_ms": 215415,
       "name": "NG\u1ef0A \u00d4",
       "url": "https://open.spotify.com/track/4eeflgjzTF8xN8U2E0dech"
+    },
+    {
+      "added_at": "2026-05-21 17:00:27",
+      "album": {
+        "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
+        "url": "https://open.spotify.com/album/5yZBkOqFJ5hzK3alfJbENs"
+      },
+      "artists": [
+        {
+          "name": "Luxuyen",
+          "url": "https://open.spotify.com/artist/0B9sKSEY2YQpILrF2HHng4"
+        },
+        {
+          "name": "New$oulz",
+          "url": "https://open.spotify.com/artist/7GKDb02uOcMnDS5fUixNEc"
+        }
+      ],
+      "duration_ms": 113519,
+      "name": "\u0110\u00f3 Ch\u1ec9 L\u00e0 Th\u00e0nh Ph\u1ed1 C\u1ee7a Anh",
+      "url": "https://open.spotify.com/track/2qU7v0idyT8aTp8FVxl23c"
     },
     {
       "added_at": "2026-05-21 17:00:27",
@@ -479,26 +463,6 @@
     {
       "added_at": "2026-05-21 17:00:27",
       "album": {
-        "name": "Private Party",
-        "url": "https://open.spotify.com/album/0Fi3fDXRorxgRDam8ph1FO"
-      },
-      "artists": [
-        {
-          "name": "Puppy",
-          "url": "https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7"
-        },
-        {
-          "name": "Wheelie",
-          "url": "https://open.spotify.com/artist/0Gr3bRnYGIx2xHO853bo3V"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Private Party",
-      "url": "https://open.spotify.com/track/6SndU0avW3ACmNRknZISVc"
-    },
-    {
-      "added_at": "2026-05-21 17:00:27",
-      "album": {
         "name": "\u0110O\u00c1 HOA",
         "url": "https://open.spotify.com/album/64fyckGOqCyGMOqOSjGhOF"
       },
@@ -519,6 +483,22 @@
       "duration_ms": 158987,
       "name": "\u0110O\u00c1 HOA",
       "url": "https://open.spotify.com/track/354swDEk1Zdo9y57fEqmRg"
+    },
+    {
+      "added_at": "2026-05-21 17:00:27",
+      "album": {
+        "name": "Love is",
+        "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
+      },
+      "artists": [
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        }
+      ],
+      "duration_ms": 266758,
+      "name": "Love is",
+      "url": "https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm"
     },
     {
       "added_at": "2026-05-21 17:00:27",
@@ -653,20 +633,24 @@
       "url": "https://open.spotify.com/track/7p106V3HRaa0lCVL5oepMg"
     },
     {
-      "added_at": "2026-05-21 17:00:27",
+      "added_at": "2026-05-30 23:53:34",
       "album": {
-        "name": "Anh Ch\u1ec9 Mu\u1ed1n",
-        "url": "https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf"
+        "name": "G\u1eb7p L\u1ea1i",
+        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
       },
       "artists": [
         {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        },
+        {
+          "name": "Obito",
+          "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
         }
       ],
-      "duration_ms": 167970,
-      "name": "Anh Ch\u1ec9 Mu\u1ed1n",
-      "url": "https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh"
+      "duration_ms": 255256,
+      "name": "N\u1ebfu (feat. Obito)",
+      "url": "https://open.spotify.com/track/102XJmW0OH1WATZMW9avu2"
     },
     {
       "added_at": "2026-05-21 17:00:27",
@@ -699,6 +683,22 @@
     {
       "added_at": "2026-05-21 17:00:27",
       "album": {
+        "name": "Anh Ch\u1ec9 Mu\u1ed1n",
+        "url": "https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 167970,
+      "name": "Anh Ch\u1ec9 Mu\u1ed1n",
+      "url": "https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh"
+    },
+    {
+      "added_at": "2026-05-21 17:00:27",
+      "album": {
         "name": "2GOILAYS",
         "url": "https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-05-21 17:00:27",
       "album": {
-        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
-        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
-      },
-      "artists": [
-        {
-          "name": "Ricky Star",
-          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
-        }
-      ],
-      "duration_ms": 344276,
-      "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
-      "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
-    },
-    {
-      "added_at": "2026-05-21 17:00:27",
-      "album": {
         "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
         "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2026-05-21 17:00:27",
       "album": {
-        "name": "\u0110\u00fang Nh\u01b0 L\u1eddi H\u1ecd N\u00f3i",
-        "url": "https://open.spotify.com/album/7DlarLBW6gOlbUKYZh8hxi"
+        "name": "\u0110\u00d4I CH\u00c2N \u0110I",
+        "url": "https://open.spotify.com/album/5RqSAt1rbN0shxXTcZkWRs"
       },
       "artists": [
         {
-          "name": "B Ray",
-          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+          "name": "Ricky Star",
+          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
         }
       ],
-      "duration_ms": 174000,
-      "name": "\u0110\u00fang Nh\u01b0 L\u1eddi H\u1ecd N\u00f3i",
-      "url": "https://open.spotify.com/track/3w8MKmLlgDT0IiKQ5MPmAu"
+      "duration_ms": 344276,
+      "name": "T\u1ea5m L\u00f2ng C\u1eedu Long",
+      "url": "https://open.spotify.com/track/6roVxIZN2frBQoXFomdWW5"
     },
     {
       "added_at": "2026-05-21 17:00:27",
@@ -795,6 +779,22 @@
       "duration_ms": 197230,
       "name": "TETVOVEN",
       "url": "https://open.spotify.com/track/72ictTz6o0dusD2QpCn4bn"
+    },
+    {
+      "added_at": "2026-05-21 17:00:27",
+      "album": {
+        "name": "\u0110\u00fang Nh\u01b0 L\u1eddi H\u1ecd N\u00f3i",
+        "url": "https://open.spotify.com/album/7DlarLBW6gOlbUKYZh8hxi"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "\u0110\u00fang Nh\u01b0 L\u1eddi H\u1ecd N\u00f3i",
+      "url": "https://open.spotify.com/track/3w8MKmLlgDT0IiKQ5MPmAu"
     },
     {
       "added_at": "2026-05-21 17:00:27",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-05-21 17:00:27",
       "album": {
-        "name": "Hai \u0111\u1ee9a nh\u00f3c",
-        "url": "https://open.spotify.com/album/7212ydis4IU0SKTDPPXc70"
-      },
-      "artists": [
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 215850,
-      "name": "Hai \u0111\u1ee9a nh\u00f3c",
-      "url": "https://open.spotify.com/track/3AjXaNF3TPcdi5vTiQZxva"
-    },
-    {
-      "added_at": "2026-05-21 17:00:27",
-      "album": {
         "name": "TO LOVE AND BE LOVED",
         "url": "https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 224918,
       "name": "H\u1ed3ng kh\u00f4ng gai",
       "url": "https://open.spotify.com/track/3PJbFJImi0QMxDCUKFBfbU"
+    },
+    {
+      "added_at": "2026-05-21 17:00:27",
+      "album": {
+        "name": "Hai \u0111\u1ee9a nh\u00f3c",
+        "url": "https://open.spotify.com/album/7212ydis4IU0SKTDPPXc70"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 215850,
+      "name": "Hai \u0111\u1ee9a nh\u00f3c",
+      "url": "https://open.spotify.com/track/3AjXaNF3TPcdi5vTiQZxva"
     },
     {
       "added_at": "2026-05-21 17:00:27",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-05-21 17:00:27",
       "album": {
-        "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
-        "url": "https://open.spotify.com/album/0it2YRYxtq66pqOfKvh11i"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        }
-      ],
-      "duration_ms": 206111,
-      "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
-      "url": "https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY"
-    },
-    {
-      "added_at": "2026-05-21 17:00:27",
-      "album": {
         "name": "HOP ON DA SHOW",
         "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2026-05-21 17:00:27",
       "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/6rfjcidQcGekBn4NjN84wN"
+        "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
+        "url": "https://open.spotify.com/album/0it2YRYxtq66pqOfKvh11i"
       },
       "artists": [
         {
-          "name": "MegaShock",
-          "url": "https://open.spotify.com/artist/78BCjtPwVVmrolLWLArPaX"
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
         }
       ],
-      "duration_ms": 211232,
-      "name": "Wild West",
-      "url": "https://open.spotify.com/track/2jpQ5IutvO30jPbPeXLs7K"
+      "duration_ms": 206111,
+      "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
+      "url": "https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY"
     },
     {
       "added_at": "2026-05-21 17:00:27",
@@ -1027,6 +1011,22 @@
       "duration_ms": 193125,
       "name": "Th\u1ee7 \u0110\u00f4 Cypher (RPT Phongkhin Remix)",
       "url": "https://open.spotify.com/track/4A4Qdq6Jl4XilO2FS1sq2y"
+    },
+    {
+      "added_at": "2026-05-21 17:00:27",
+      "album": {
+        "name": "Cho B\u1ea3o",
+        "url": "https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9"
+      },
+      "artists": [
+        {
+          "name": "B Ray",
+          "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+        }
+      ],
+      "duration_ms": 244752,
+      "name": "C\u00f2n Ai Ngo\u00e0i Anh V\u1edbi Em",
+      "url": "https://open.spotify.com/track/0BR4Hdge19djSuyrU0kT9F"
     }
   ],
   "unique_name": "Hip-hop Vi\u1ec7t",

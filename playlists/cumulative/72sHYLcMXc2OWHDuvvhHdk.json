@@ -25267,6 +25267,28 @@
     },
     {
       "album": {
+        "name": "Reddish Blue",
+        "url": "https://open.spotify.com/album/6swcnIK9JkB0pISDdVPd9s"
+      },
+      "artists": [
+        {
+          "name": "J&H",
+          "url": "https://open.spotify.com/artist/18mmL6Dg8j6JxCXtC1rSd5"
+        },
+        {
+          "name": "The Voices of Reddish Blue",
+          "url": "https://open.spotify.com/artist/4ThYSQUHr7RqgwSrH6vDRG"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264269,
+      "name": "Need You To Breathe",
+      "url": "https://open.spotify.com/track/4BSPFCTbpu919CpM7yDVXU"
+    },
+    {
+      "album": {
         "name": "NEED YOUR LOVE",
         "url": "https://open.spotify.com/album/22w3JpzWTAUWzF3WQEkXo2"
       },
@@ -28302,6 +28324,24 @@
       "duration_ms": 203500,
       "name": "Perfect Girl, Perfect Mess",
       "url": "https://open.spotify.com/track/3fwNFeRkNg8kINeRk1yIWF"
+    },
+    {
+      "album": {
+        "name": "Permission",
+        "url": "https://open.spotify.com/album/2MH58peDK1Rmg7vtSf7GoI"
+      },
+      "artists": [
+        {
+          "name": "The Summer Fruits",
+          "url": "https://open.spotify.com/artist/28x9gjrLuZt7qXjgjNOh0w"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172890,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/64XniZVCRhgxyn3HVIZhn2"
     },
     {
       "album": {
@@ -40390,6 +40430,24 @@
       "duration_ms": 199917,
       "name": "Venus Delator",
       "url": "https://open.spotify.com/track/58LxvVyGJnfbHBhnFuyTFf"
+    },
+    {
+      "album": {
+        "name": "Verte",
+        "url": "https://open.spotify.com/album/7nZVKDmsl58PBPFWgajzPw"
+      },
+      "artists": [
+        {
+          "name": "DANAI",
+          "url": "https://open.spotify.com/artist/7CSNA8GhXH16bMuXxMfvri"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191752,
+      "name": "Verte",
+      "url": "https://open.spotify.com/track/5sLzHXXjhMTq59G1vU5Eky"
     },
     {
       "album": {

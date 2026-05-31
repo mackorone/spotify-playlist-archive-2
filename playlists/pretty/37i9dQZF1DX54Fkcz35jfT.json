@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002/  Discover the intensity and emotion resonating through Japan\u2019s hard rock. Cover: SiM & Yukina from \u82b1\u51b7\u3048\u3002",
-  "num_followers": 54355,
+  "num_followers": 54367,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-05-26 15:00:42",
       "album": {
+        "name": "ICONIC",
+        "url": "https://open.spotify.com/album/2OeQSCyzpoWeldbn3X57Wf"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "duration_ms": 206944,
+      "name": "ICONIC",
+      "url": "https://open.spotify.com/track/5Ppth5M7hMNzW64Snwmzyt"
+    },
+    {
+      "added_at": "2026-05-26 15:00:42",
+      "album": {
         "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
         "url": "https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 215866,
       "name": "\u30b3\u30a4\u30b3\u30ac\u30ec",
       "url": "https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md"
-    },
-    {
-      "added_at": "2026-05-26 15:00:42",
-      "album": {
-        "name": "ICONIC",
-        "url": "https://open.spotify.com/album/2OeQSCyzpoWeldbn3X57Wf"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 206944,
-      "name": "ICONIC",
-      "url": "https://open.spotify.com/track/5Ppth5M7hMNzW64Snwmzyt"
     },
     {
       "added_at": "2026-05-26 15:00:42",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-05-26 15:00:42",
       "album": {
-        "name": "Kill the Noise",
-        "url": "https://open.spotify.com/album/0QLdJL8eYUGXTFmJbt79Ud"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Kill the Noise",
-      "url": "https://open.spotify.com/track/43hn4s6ik2tccvWF5ltrEb"
-    },
-    {
-      "added_at": "2026-05-26 15:00:42",
-      "album": {
         "name": "Spicy Queen",
         "url": "https://open.spotify.com/album/6g6RUAmiCQbW9H8nq324XK"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 229105,
       "name": "Spicy Queen",
       "url": "https://open.spotify.com/track/6UtV1xntPbEgbbY8Dh2tQn"
+    },
+    {
+      "added_at": "2026-05-26 15:00:42",
+      "album": {
+        "name": "Kill the Noise",
+        "url": "https://open.spotify.com/album/0QLdJL8eYUGXTFmJbt79Ud"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Kill the Noise",
+      "url": "https://open.spotify.com/track/43hn4s6ik2tccvWF5ltrEb"
     },
     {
       "added_at": "2026-05-26 15:00:42",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-05-26 15:00:42",
       "album": {
-        "name": "EVER",
-        "url": "https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "EVER",
-      "url": "https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW"
-    },
-    {
-      "added_at": "2026-05-26 15:00:42",
-      "album": {
         "name": "Kon! Kon! (feat. Bloodywood)",
         "url": "https://open.spotify.com/album/15RUsiYzHzWFxCZqKjnW4T"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 235127,
       "name": "Kon! Kon! (feat. Bloodywood)",
       "url": "https://open.spotify.com/track/7uCQ2yvHQxZtTrvdDLA1Cz"
+    },
+    {
+      "added_at": "2026-05-26 15:00:42",
+      "album": {
+        "name": "EVER",
+        "url": "https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW"
     },
     {
       "added_at": "2026-05-26 15:00:42",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-05-26 15:00:42",
       "album": {
+        "name": "The Unforgettables E.P.",
+        "url": "https://open.spotify.com/album/0wfPZAnAc4hs0pIxXtS8pM"
+      },
+      "artists": [
+        {
+          "name": "MONOEYES",
+          "url": "https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9"
+        }
+      ],
+      "duration_ms": 168173,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/5zedOynNXLH5aUHPM5zSv7"
+    },
+    {
+      "added_at": "2026-05-26 15:00:42",
+      "album": {
         "name": "DISASTERPIECE",
         "url": "https://open.spotify.com/album/6KjTMgxqXazmTzIpzmQ4Dk"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 225826,
       "name": "\u5929\u8a85 & Mercy",
       "url": "https://open.spotify.com/track/4yPQdCSNYZq7xjWZpjY6mc"
-    },
-    {
-      "added_at": "2026-05-26 15:00:42",
-      "album": {
-        "name": "The Unforgettables E.P.",
-        "url": "https://open.spotify.com/album/0wfPZAnAc4hs0pIxXtS8pM"
-      },
-      "artists": [
-        {
-          "name": "MONOEYES",
-          "url": "https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9"
-        }
-      ],
-      "duration_ms": 168173,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/5zedOynNXLH5aUHPM5zSv7"
     },
     {
       "added_at": "2026-05-26 15:00:42",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-05-26 15:00:42",
       "album": {
-        "name": "INCOMPLETE",
-        "url": "https://open.spotify.com/album/7oN3hZbZ7xPkMbB4MC8vac"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "INCOMPLETE",
-      "url": "https://open.spotify.com/track/5qmYsAjOo7AVWcVSvQm8Wh"
-    },
-    {
-      "added_at": "2026-05-26 15:00:42",
-      "album": {
         "name": "Straight Up (feat. Kj)",
         "url": "https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 252300,
       "name": "Straight Up (feat. Kj)",
       "url": "https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ"
+    },
+    {
+      "added_at": "2026-05-26 15:00:42",
+      "album": {
+        "name": "INCOMPLETE",
+        "url": "https://open.spotify.com/album/7oN3hZbZ7xPkMbB4MC8vac"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "INCOMPLETE",
+      "url": "https://open.spotify.com/track/5qmYsAjOo7AVWcVSvQm8Wh"
     },
     {
       "added_at": "2026-05-26 15:00:42",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-05-26 15:00:42",
       "album": {
-        "name": "PLAYDEAD",
-        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 271265,
-      "name": "UNDER THE TREE - Full Length Ver.",
-      "url": "https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq"
-    },
-    {
-      "added_at": "2026-05-26 15:00:42",
-      "album": {
         "name": "\ud83d\udd25\u304a\u3063\u304b\u306a\u3044\ud83d\udd25",
         "url": "https://open.spotify.com/album/2vfqUvyv98Z354MvJ2a3Lz"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 196639,
       "name": "\ud83d\udd25\u304a\u3063\u304b\u306a\u3044\ud83d\udd25",
       "url": "https://open.spotify.com/track/7nymdpRh8yfJsHt6VWoKfQ"
+    },
+    {
+      "added_at": "2026-05-26 15:00:42",
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 271265,
+      "name": "UNDER THE TREE - Full Length Ver.",
+      "url": "https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq"
     },
     {
       "added_at": "2026-05-26 15:00:42",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-225 songs - 16 hr 51 min
+226 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,8 @@
 | [Pomegranate](https://open.spotify.com/track/3lLtXQWEAsiohpXyVl9o36) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [So This Is Love: More Newly Discovered Works Of Billy Strayhorn](https://open.spotify.com/album/3r57EGIl0Fu95RsuRzptRL) | 3:56 | 2022-09-08 |  |
 | [Portrait of a Silk Thread](https://open.spotify.com/track/5X7k61AnHOgUkDQYqOfJ1Q) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW), [Lennart Aberg](https://open.spotify.com/artist/3ZXO6RQeKC6PYzXqi7xe41), [Swedish Radio Jazz Group](https://open.spotify.com/artist/4RbQ3ndXO1lnERpNEAIXvx) | [A Swedish Tribute to Duke](https://open.spotify.com/album/0fhII1vzwnwC55J6CiM1zW) | 4:43 | 2023-03-26 | 2026-05-23 |
 | [Portrait of a Silk Thread](https://open.spotify.com/track/1ZgsLi4iqANiYLTRxevUmv) | [Lennart Aberg](https://open.spotify.com/artist/3ZXO6RQeKC6PYzXqi7xe41), [Swedish Radio Jazz Group](https://open.spotify.com/artist/4RbQ3ndXO1lnERpNEAIXvx) | [A Swedish Tribute to Duke](https://open.spotify.com/album/3Omjs5bBjpbgzCDK8v44e0) | 4:43 | 2022-09-08 | 2025-08-02 |
-| [Portrait of a Silk Thread](https://open.spotify.com/track/4GmSZ1UFgWcf1ZJNxHslBM) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 4:55 | 2026-05-22 |  |
+| [Portrait of a Silk Thread](https://open.spotify.com/track/0iGoqs9o8eHBlXc9s7Y9B1) | [Swedish Radio Jazz Group](https://open.spotify.com/artist/4RbQ3ndXO1lnERpNEAIXvx) | [A Swedish Tribute to Duke](https://open.spotify.com/album/1XByOhsYSXpAZlxARgptpj) | 4:43 | 2026-05-30 |  |
+| [Portrait of a Silk Thread](https://open.spotify.com/track/4GmSZ1UFgWcf1ZJNxHslBM) | [The Dutch Jazz Orchestra](https://open.spotify.com/artist/0oZIb1hT9LgKA0Sc2U7xEp) | [Portrait of a Silk Thread: Newly Discovered Works of Billy Strayhorn](https://open.spotify.com/album/3dBICshGBbp0nlNnxY4vl6) | 4:55 | 2026-05-22 | 2026-05-31 |
 | [Portrait Of Ella Fitzgerald \- Medley](https://open.spotify.com/track/1gHCjyrcEDy9dLSRWrVJCb) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 16:16 | 2022-09-08 | 2023-09-26 |
 | [Portrait Of Ella Fitzgerald \- Medley](https://open.spotify.com/track/4RPnrH7RPVkiInMV2L6dQs) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX) | 16:16 | 2023-09-25 |  |
 | [Pretty Girl \(aka The Star\-Crossed Lovers\)](https://open.spotify.com/track/3luMzvGFRxc8yFpdQGfviv) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 8:54 | 2022-09-08 |  |

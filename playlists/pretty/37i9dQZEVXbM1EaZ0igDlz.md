@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,752 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,754 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [Ajkula](https://open.spotify.com/track/6028MbbzbYD0O8K5RQ0HIB) | [Jala Brat](https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL) | [GODZILLA](https://open.spotify.com/album/1FxkxRMkCIXpl7qW5JHzEy) | 2:05 |
 | 50 | [Sarà perché ti amo](https://open.spotify.com/track/6lK2xptPzLPmvpE29U4mDH) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [...E Penso A Te](https://open.spotify.com/album/3MIeYPnUZmvCODVN09sfKh) | 3:04 |
 
-Snapshot ID: `Ma0F0AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ma5cAAAAAAAAAAAAAAAAAAAAAAAAAGVu`

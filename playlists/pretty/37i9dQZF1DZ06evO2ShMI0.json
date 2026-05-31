@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 211800,
+  "num_followers": 211831,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aheFgAAAAACff+PD3WMCA0WX0A6qAzuA",
+  "snapshot_id": "ahjXAAAAAAD4ysMeUSbGCg+ZgF0S9Ejj",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,30 @@
       "duration_ms": 289156,
       "name": "Luz de D\u00eda",
       "url": "https://open.spotify.com/track/39tFJsBnHNvgUDihoKiiEA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EV+",
+        "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 185969,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/659ULDrXBQCJpoctMocXCo"
     },
     {
       "added_at": null,
@@ -743,22 +767,6 @@
       "duration_ms": 189053,
       "name": "El Ataque de las Chicas Cocodrilo (En Vivo)",
       "url": "https://open.spotify.com/track/7qQTnO5dsxAn6iNDqC7w9l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 355293,
-      "name": "Lamento Boliviano - En Vivo",
-      "url": "https://open.spotify.com/track/4KtHxcTlIXEKinToSNzPPO"
     },
     {
       "added_at": null,

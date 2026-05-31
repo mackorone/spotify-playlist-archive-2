@@ -878,7 +878,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 128225,
       "name": "are u alright?",
       "url": "https://open.spotify.com/track/43EvhhuaG1fPTpRsbzXXZ6"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 180424,
       "name": "Can You Fix Your Heart?",
       "url": "https://open.spotify.com/track/5TgnPAEtz84lYjljbcu8MG"
@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 166233,
       "name": "everywhere<3",
       "url": "https://open.spotify.com/track/0x3iQHDSInr7mrFcfYIlYJ"
@@ -3788,7 +3788,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 223375,
       "name": "Feel Too Broken To Believe",
       "url": "https://open.spotify.com/track/2LDoCINJy5CGIeBn6czcqY"
@@ -5747,6 +5747,32 @@
     },
     {
       "album": {
+        "name": "I Think I'm About To Break",
+        "url": "https://open.spotify.com/album/0uDGDWdXl258PeABlvQbaf"
+      },
+      "artists": [
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        },
+        {
+          "name": "CARMICHAEL",
+          "url": "https://open.spotify.com/artist/28aPZP4w3Qj01OPQCoSwC8"
+        },
+        {
+          "name": "suval",
+          "url": "https://open.spotify.com/artist/4LqnRW18kU8pjcg2YJZoIF"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165461,
+      "name": "I Think I'm About To Break",
+      "url": "https://open.spotify.com/track/1AWPTcx4W2Z4b4UFIOVdZE"
+    },
+    {
+      "album": {
         "name": "I Wanna Go Back",
         "url": "https://open.spotify.com/album/21jGIjmCzMAhdqg5maZ7Wj"
       },
@@ -7050,7 +7076,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 169528,
       "name": "Light",
       "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
@@ -10159,6 +10185,24 @@
     },
     {
       "album": {
+        "name": "rich ain\u2019t $...",
+        "url": "https://open.spotify.com/album/40Xz6tgymRuYfsMZNteBhG"
+      },
+      "artists": [
+        {
+          "name": "Berjan",
+          "url": "https://open.spotify.com/artist/1cMuUKj94WCynh9u5uES9c"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183692,
+      "name": "rich ain\u2019t $...",
+      "url": "https://open.spotify.com/track/5tCTO3oh2oqa7nGXcvTnhx"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7BqoBqQfo0DQiYgZ6dNXWv"
       },
@@ -10414,7 +10458,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 186617,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3flcGGIKUaK1M2ps72ykcl"
@@ -11794,7 +11838,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 214766,
       "name": "Sunrise Underwater",
       "url": "https://open.spotify.com/track/1rRscKv9OiK64AgQQWez5m"
@@ -11962,7 +12006,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 169655,
       "name": "Tear Drops",
       "url": "https://open.spotify.com/track/2KVJEq0uhuKTqxpkb9srV6"

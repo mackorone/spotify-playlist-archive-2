@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik fra Berg, Christopher, Ariana Grande og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,749 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,759 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 50 | [Too Soon To Say](https://open.spotify.com/track/1J8QsDB3eAwjJ3BkvqPNFr) | [Magnus Münster](https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn) | [Too Soon To Say](https://open.spotify.com/album/5EugVtyH8mOUhYqV92mjqS) | 3:26 |
 | 51 | [RO I SINDET](https://open.spotify.com/track/2eksnd4fYKfWoIrbhBmzi1) | [3XB](https://open.spotify.com/artist/5mclFegO0RRuDnxI8d0dW7) | [RO I SINDET](https://open.spotify.com/album/0nyXWpZBtGYqgqVsWqzE2D) | 2:33 |
 | 52 | [Gå](https://open.spotify.com/track/6wmQux4BRH9KFH0bwashQF) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [FORLADMIGEJ](https://open.spotify.com/album/1YgMrux0tYh6IXpwdHPVio) | 1:53 |
-| 53 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
+| 53 | [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 54 | [ung & trim](https://open.spotify.com/track/0GfUPQZlq8McHHoZKVRLSh) | [lesliecph](https://open.spotify.com/artist/3iSL8E9gd8BN8qpxqmX4VE) | [ung & trim](https://open.spotify.com/album/1H9jedekqVFr1gJzNp5alV) | 3:00 |
 | 55 | [Lov Mig](https://open.spotify.com/track/527Za0ctUaZZTthbjwaHXw) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO) | [FORLADMIGEJ](https://open.spotify.com/album/1YgMrux0tYh6IXpwdHPVio) | 2:24 |
 | 56 | [Baby Driver](https://open.spotify.com/track/5dtDj7mdGJjlviTxyfMrZE) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Baby Driver](https://open.spotify.com/album/0yUdcVEmK8G3jWAYS6Dii6) | 3:36 |

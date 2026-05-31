@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Kim Petras, Luca Hänni, ZAH1DE, Die Toten Hosen, ENNIO & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,658 likes - 92 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,654 likes - 92 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 17 | [Right Here](https://open.spotify.com/track/7dfqSBe3I7m2GxuigR0zGk) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Right Here](https://open.spotify.com/album/5C1uiWNazII9KgQ8IkAQWM) | 1:53 |
 | 18 | [Aquel diciembre](https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 3:22 |
 | 19 | [YAKUZA](https://open.spotify.com/track/7DEuA8IpagjlToEyGmm3Zw) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [YAKUZA](https://open.spotify.com/album/6siFETHEE13cuuyRJo85TA) | 2:41 |
-| 20 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
+| 20 | [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 21 | [ALL IN \(Lieblingsspieler\)](https://open.spotify.com/track/2C9QLYJBwDmkwOJP08a18B) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [ALL IN \(Lieblingsspieler\)](https://open.spotify.com/album/2tWLo0nNRqZUOvCAAzavZf) | 2:43 |
 | 22 | [KOH PHANGAN](https://open.spotify.com/track/6vtEtkRzXZo9LZIEfZgurx) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [KOH PHANGAN](https://open.spotify.com/album/4pDyhoCM3u4FsB6BC3e47B) | 2:37 |
 | 23 | [Auf jeden Blick](https://open.spotify.com/track/2KKkqUuYfHkGsrXQAauCkG) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Auf jeden Blick](https://open.spotify.com/album/4XiGCtxEjXexk1neyhNTLm) | 2:09 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 48 | [More! More! More!](https://open.spotify.com/track/7Bk9xGSArXDiMe5Jj2zSMo) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [More! More! More!](https://open.spotify.com/album/3TWM4Bg6PuweiSPOQk0nTU) | 2:55 |
 | 49 | [Earn It](https://open.spotify.com/track/0ZQxahjWD0zQqAdWflcUfP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Earn It](https://open.spotify.com/album/6YN0lxBGhjZRm2vd6pCdtW) | 2:48 |
 | 50 | [OCTAVIO MESA](https://open.spotify.com/track/5yG18XCvRoSgNtANYyebCD) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [OCTAVIO MESA](https://open.spotify.com/album/0FMYkJfkAwAqRofPkQD8Fg) | 3:46 |
-| 51 | [Final Minutes](https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q) | [LMNT 115](https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Final Minutes](https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo) | 3:15 |
+| 51 | [Final Minutes](https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q) | [LMNT 115](https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Final Minutes](https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo) | 3:15 |
 | 52 | [Thug](https://open.spotify.com/track/0iZh4VcMhp8zoTlvk8HWZD) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Thug](https://open.spotify.com/album/4aEj8HrgkscnDkdu5oPyqu) | 2:25 |
 | 53 | [Deep In Your Soul](https://open.spotify.com/track/4emNZ0FXUSGqSv3aKsM1vX) | [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM) | [Deep In Your Soul](https://open.spotify.com/album/2MNrfEazLlUAx0mGETZg5n) | 3:49 |
 | 54 | [NETFLIX CHILL](https://open.spotify.com/track/6Ap1nvdC4XT3p2Oj627ciD) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [PRINC€](https://open.spotify.com/artist/42eXaZ8DcymFXerFjEEcmj) | [NETFLIX CHILL](https://open.spotify.com/album/2jJBGEZ6vfmQXQ4qJUeVq2) | 2:28 |

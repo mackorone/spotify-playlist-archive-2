@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "F\u00e9 / De Valor em Valor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3DhKlsI0stUY6DR0NFd5Tu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259079,
+      "name": "F\u00e9 / De Valor em Valor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7paEEGbwylvFQgP2Bnc9dH"
+    },
+    {
+      "album": {
         "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
         "url": "https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt"
       },
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 309243,
       "name": "P\u00e1gina em Branco (Ao Vivo)",
       "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"

@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 512705,
+  "num_followers": 512786,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Ante Tu Altar (Tour Edition) [Live]",
+        "url": "https://open.spotify.com/album/6laEQlL6119G9GUAjdnXIc"
+      },
+      "artists": [
+        {
+          "name": "Averly Morillo",
+          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
+        }
+      ],
+      "duration_ms": 497127,
+      "name": "\u00bfQui\u00e9n Podr\u00e1? - Live",
+      "url": "https://open.spotify.com/track/6NU3tnaJXjFxY9ZB4JRmvq"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Danzando (Live)",
         "url": "https://open.spotify.com/album/5gIeEB6jPv3t9tj5z5RBcJ"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 488927,
       "name": "Danzando - Live",
       "url": "https://open.spotify.com/track/2XjDhJaZnBT2G2a08Gtbky"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Ante Tu Altar (Tour Edition) [Live]",
-        "url": "https://open.spotify.com/album/6laEQlL6119G9GUAjdnXIc"
-      },
-      "artists": [
-        {
-          "name": "Averly Morillo",
-          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
-        }
-      ],
-      "duration_ms": 497127,
-      "name": "\u00bfQui\u00e9n Podr\u00e1? - Live",
-      "url": "https://open.spotify.com/track/6NU3tnaJXjFxY9ZB4JRmvq"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Bendecir Tu Nombre",
-        "url": "https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rojas",
-          "url": "https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z"
-        }
-      ],
-      "duration_ms": 266947,
-      "name": "Bendecir Tu Nombre",
-      "url": "https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Me Sumerjo en Ti",
         "url": "https://open.spotify.com/album/1Pd0TEOaJJ4L76IWhDCac4"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 202386,
       "name": "Me Sumerjo en Ti",
       "url": "https://open.spotify.com/track/41haenUzFaS84ClvAEJxYA"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Bendecir Tu Nombre",
+        "url": "https://open.spotify.com/album/0La6NLvbtZ9g5nEwQi74u9"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rojas",
+          "url": "https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z"
+        }
+      ],
+      "duration_ms": 266947,
+      "name": "Bendecir Tu Nombre",
+      "url": "https://open.spotify.com/track/51y1dDVay5bkydN09X7jjF"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 423173,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Glorioso Rey",
         "url": "https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa"
       },
@@ -1627,6 +1643,38 @@
       "duration_ms": 310231,
       "name": "Perfume a Tus Pies",
       "url": "https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Ganas de Vivir",
+        "url": "https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Ganas de Vivir",
+      "url": "https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Santo es el que Vive",
+        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
+      },
+      "artists": [
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 634551,
+      "name": "Santo es el que Vive",
+      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1651,38 +1699,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
-      },
-      "artists": [
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 423173,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Santo es el que Vive",
-        "url": "https://open.spotify.com/album/1nAqjj54iiVCesUX9jA47V"
-      },
-      "artists": [
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 634551,
-      "name": "Santo es el que Vive",
-      "url": "https://open.spotify.com/track/2zEIWex7Tqy4zOgD68VAen"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "Dios Cuida De M\u00ed",
         "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 240483,
       "name": "Himno De Victoria",
       "url": "https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Ganas de Vivir",
-        "url": "https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk"
-      },
-      "artists": [
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Ganas de Vivir",
-      "url": "https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Voy A Profetizar",
-        "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
-      },
-      "artists": [
-        {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
-        }
-      ],
-      "duration_ms": 284238,
-      "name": "El Rey Te Mand\u00f3 Llamar",
-      "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "El Cielo Gobierna",
         "url": "https://open.spotify.com/album/0jJt3oV7ptqObZj9ktTaBW"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 265280,
       "name": "El Cielo Gobierna",
       "url": "https://open.spotify.com/track/3RlEEd4YLEbpUSEo7o6wLH"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Voy A Profetizar",
+        "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
+      },
+      "artists": [
+        {
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+        }
+      ],
+      "duration_ms": 284238,
+      "name": "El Rey Te Mand\u00f3 Llamar",
+      "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
     }
   ],
   "unique_name": "Cl\u00e1sicos Cristianos",

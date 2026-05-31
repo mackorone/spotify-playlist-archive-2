@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Agris en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,206 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,211 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 6 | [Instrucciones](https://open.spotify.com/track/4eAz4bfY3RjxmOoVXKzIBR) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Instrucciones](https://open.spotify.com/album/7ePSlsRUOUcIUyEP8qla04) | 3:26 |
 | 7 | [CIELO = INFIERNO](https://open.spotify.com/track/5P0RgU4xvhM6d8ukeWrhh1) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [CIELO = INFIERNO](https://open.spotify.com/album/4GnO3xc6Z2APNuEXHkXlEF) | 2:56 |
 | 8 | [Me Apestan](https://open.spotify.com/track/32HOzZ3fTYuAcLk9T671LQ) | [Los Miserables](https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas) | [¿Democracia?](https://open.spotify.com/album/1sXUCwzPaMpScDSbttkCog) | 2:09 |
-| 9 | [Track 13](https://open.spotify.com/track/2tzVYlsAGm56pyDjp8Y67Z) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [No Es Que No Te Quiera Pero…](https://open.spotify.com/album/2royTQSIWVJ1wUbKpq7rlg) | 0:00 |
+| 9 | [Todo de Mí](https://open.spotify.com/track/2tzVYlsAGm56pyDjp8Y67Z) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [No Es Que No Te Quiera Pero…](https://open.spotify.com/album/2royTQSIWVJ1wUbKpq7rlg) | 3:05 |
 | 10 | [ARMADURA ARMADILHA](https://open.spotify.com/track/2qtSDKYyQVr1ef0XgIfPcw) | [Tangolo Mangos](https://open.spotify.com/artist/5i8xf9hZ3c5aXFO5WdrO6o) | [PEDAGIOS Y CARONAS](https://open.spotify.com/album/1ADyzZnYO53coeiJT79BtK) | 2:22 |
 | 11 | [Todos piensan que ya te olvidé](https://open.spotify.com/track/3Yep9HySEW2mDnfUbEclDo) | [Biela](https://open.spotify.com/artist/3V4eTmIv1fY1zTRSOFOjEH), [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Todos piensan que ya te olvidé](https://open.spotify.com/album/3RyeFvRc6zDhuvOq4jKNeI) | 3:04 |
 | 12 | [Shine](https://open.spotify.com/track/4HMi638FQTI7Y5GY0X0jbu) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Shine](https://open.spotify.com/album/1l5sOt4PbRBxZjAB8vqZBg) | 3:33 |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Dean Turnley
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,297 likes - 115 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,391 likes - 115 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Like That \(feat\. DJ Dre\)](https://open.spotify.com/track/55LA3TJnSWxefo2arVfXHJ) | [L.P\. Rhythm](https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e), [DJ Dre](https://open.spotify.com/artist/7nlHMb6OJZ3HPEAu7aLonU) | [Like That \(feat\. DJ Dre\)](https://open.spotify.com/album/5ccGat4JLwq2lteVoIdiiA) | 2:50 |
-| 2 | [On 2nite](https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [On 2nite](https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N) | 2:38 |
-| 3 | [Actin' Tough \- A.B.C\. Remix](https://open.spotify.com/track/0t94CEbIDQZO99iP8Ibjr7) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd), [A.B.C.](https://open.spotify.com/artist/4uqq5ILbNFCt9Q8AdaIVlN) | [Actin' Tough \(A.B.C\. Remix\)](https://open.spotify.com/album/11KlT9J8V32SJNd1mLD8r3) | 3:38 |
-| 4 | [Jump N' Shout \- Gorgon City Remix](https://open.spotify.com/track/2pbtSI3CJXfAE9ekE5qowg) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Jump N' Shout \(Gorgon City Remix\)](https://open.spotify.com/album/2G9F2xsIz3HFRmzDEW4RQR) | 3:57 |
-| 5 | [Shinjuku](https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Shinjuku](https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz) | 2:47 |
-| 6 | [Journey](https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19) | [Delilah](https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh) | [Journey EP](https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs) | 3:01 |
+| 1 | [On 2nite](https://open.spotify.com/track/2BoSbGSp2OaDBOx5NFHkrr) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [On 2nite](https://open.spotify.com/album/46NWiHTOxSLHBGJIT6J73N) | 2:38 |
+| 2 | [Actin' Tough \- A.B.C\. Remix](https://open.spotify.com/track/0t94CEbIDQZO99iP8Ibjr7) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd), [A.B.C.](https://open.spotify.com/artist/4uqq5ILbNFCt9Q8AdaIVlN) | [Actin' Tough \(A.B.C\. Remix\)](https://open.spotify.com/album/11KlT9J8V32SJNd1mLD8r3) | 3:38 |
+| 3 | [Jump N' Shout \- Gorgon City Remix](https://open.spotify.com/track/2pbtSI3CJXfAE9ekE5qowg) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Jump N' Shout \(Gorgon City Remix\)](https://open.spotify.com/album/2G9F2xsIz3HFRmzDEW4RQR) | 3:57 |
+| 4 | [Shinjuku](https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Shinjuku](https://open.spotify.com/album/5HiGwQ6NJl5XuXD2ugSFMz) | 2:47 |
+| 5 | [Journey](https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19) | [Delilah](https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh) | [Journey EP](https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs) | 3:01 |
+| 6 | [Like That \(feat\. DJ Dre\)](https://open.spotify.com/track/55LA3TJnSWxefo2arVfXHJ) | [L.P\. Rhythm](https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e), [DJ Dre](https://open.spotify.com/artist/7nlHMb6OJZ3HPEAu7aLonU) | [Like That \(feat\. DJ Dre\)](https://open.spotify.com/album/5ccGat4JLwq2lteVoIdiiA) | 2:50 |
 | 7 | [Feel The Funk](https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [The Funk EP](https://open.spotify.com/album/7oxFce5DqOA58Ycj9YAWaH) | 3:26 |
 | 8 | [Work Dub](https://open.spotify.com/track/6cldCn0zKbOhBxoqMPR2o1) | [Pupa Nas T](https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy), [SHUFFA](https://open.spotify.com/artist/3tosID3SunySdhOUdzmO8E), [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Work Dub](https://open.spotify.com/album/1bQczsMAUTzabEvTjzghAB) | 3:10 |
 | 9 | [One Question](https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [One Question](https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU) | 3:04 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 114 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 |
 | 115 | [Yosemite \- Philip George Remix](https://open.spotify.com/track/7Ix1YfRHAELxNIFqkzQdWl) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Philip George](https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV) | [Yosemite \(Philip George Remix\)](https://open.spotify.com/album/3ICO7iCL1VhEtbt4fSJ46Y) | 4:35 |
 
-Snapshot ID: `AAAAABRczS2ZfPVPgbJlNTDHZhk/X9ke`
+Snapshot ID: `AAAAAKUX+Vembuy/bH+KYCdbfrk/IFeF`

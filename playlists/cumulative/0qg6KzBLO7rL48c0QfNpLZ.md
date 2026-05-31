@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,506 songs - 2 day 18 hr 46 min
+1,507 songs - 2 day 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1276,6 +1276,7 @@
 | [Sweet Child O‘ Mine](https://open.spotify.com/track/1LOWjClZTe0qopdCl3VtVG) | [Lybera](https://open.spotify.com/artist/2uVTurrLCIblmZ8GBedNZq), [Wontu](https://open.spotify.com/artist/2AgZ1BzHABUD9ZbuyI4aEb), [hmny.](https://open.spotify.com/artist/2oqbohcixA0NGGIS4nuBaY) | [Sweet Child O‘ Mine](https://open.spotify.com/album/4HSVsOplO8QxOiGgBvNNKl) | 3:24 | 2024-08-08 | 2025-03-08 |
 | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/track/0D57lQnn110jGaup4NguSI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR) | 3:32 | 2026-03-13 |  |
 | [Sweet Dreams](https://open.spotify.com/track/6nJFd7o25QSjV14rIFIMND) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [Sweet Dreams](https://open.spotify.com/album/1PRCO6wRoGDqbmhTUzWawM) | 3:08 | 2024-10-11 | 2024-12-07 |
+| [Sweet Dreams](https://open.spotify.com/track/0ofaRJH0icpKM11alQRsh7) | [Deep Deluxe](https://open.spotify.com/artist/6phrdaBviOOj3QTnBxj83l) | [Sweet Dreams](https://open.spotify.com/album/7z50RE98OYuqMNaaGNMARI) | 2:19 | 2026-05-30 |  |
 | [Sweet Escape](https://open.spotify.com/track/4WlZNZ9ArFBiftZ29qDYeB) | [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH) | [Sweet Escape](https://open.spotify.com/album/1DkLZ79J98z54DHFFhbO53) | 2:00 | 2024-10-18 | 2025-03-14 |
 | [Sweet Harmony](https://open.spotify.com/track/2iFDiQOjPyYCstBOesduwN) | [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Alexia Di Lorenzo](https://open.spotify.com/artist/7Ak8772rvZAdKDoFcIqLkt) | [Sweet Harmony](https://open.spotify.com/album/762YlWavBCiEq2ogwVYztC) | 2:44 | 2024-08-16 | 2024-09-15 |
 | [Swim](https://open.spotify.com/track/6eMwt27IrY3xVYiyCHnl2Y) | [Cupido](https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB) | [Swim](https://open.spotify.com/album/6P3NzN8R4mKFbGdP4V0IBb) | 2:29 | 2026-04-24 | 2026-05-21 |

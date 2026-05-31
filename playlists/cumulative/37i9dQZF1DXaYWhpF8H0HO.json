@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Oslo Ibrahim",
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Soulfood",
   "name": "Ke Seberang",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 294210,
       "name": "13th February",
       "url": "https://open.spotify.com/track/3L5UcChdt6KE6nBlP41ddH"
@@ -346,6 +346,24 @@
       "duration_ms": 212598,
       "name": "^ANOTHER:night.a.w.y.o.m.m^ (Mardial ver.)",
       "url": "https://open.spotify.com/track/02Ef340mhGp7N2LgvZlimQ"
+    },
+    {
+      "album": {
+        "name": "A Day In My Life",
+        "url": "https://open.spotify.com/album/2vDT72Leu4JjvT1TqdpJTS"
+      },
+      "artists": [
+        {
+          "name": "Mario A",
+          "url": "https://open.spotify.com/artist/0pK3DbYFYBuw9mBYzPcPj6"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "A Day In My Life",
+      "url": "https://open.spotify.com/track/3rq6YYPpSFsiGHajy7IXt6"
     },
     {
       "album": {
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 254177,
       "name": "Bandar Batavia",
       "url": "https://open.spotify.com/track/13YxsURDGCfwVBBcr7wiGM"
@@ -1578,7 +1596,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 137474,
       "name": "Bloodshot",
       "url": "https://open.spotify.com/track/0tD8mZqjq3pCwbSzcfxoOE"
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 330000,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/31wZxPeJt5orIVYQGwqrWS"
@@ -1766,6 +1784,24 @@
       "duration_ms": 226666,
       "name": "Books Of Life",
       "url": "https://open.spotify.com/track/2QwTLcdMlccj1uapY7yn1i"
+    },
+    {
+      "album": {
+        "name": "Bouncing",
+        "url": "https://open.spotify.com/album/1V6Ta3rCF2GOh4ejr5qDTs"
+      },
+      "artists": [
+        {
+          "name": "Soulfood",
+          "url": "https://open.spotify.com/artist/4pPPCYQD20lPFRNBH8f5Eo"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164697,
+      "name": "Bouncing",
+      "url": "https://open.spotify.com/track/0TiThVWYZQVnwCi7iczqcu"
     },
     {
       "album": {
@@ -1924,7 +1960,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 194094,
       "name": "Buzzin",
       "url": "https://open.spotify.com/track/2zbNNWI53q6yRi6jdYfwX1"
@@ -1978,7 +2014,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 202783,
       "name": "Camel",
       "url": "https://open.spotify.com/track/6JD9Pgo0GPnZIMpREWunb1"
@@ -2746,7 +2782,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 188750,
       "name": "Difference",
       "url": "https://open.spotify.com/track/1bhMxRHujv6SzNMDeFAw9T"
@@ -3034,7 +3070,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 258000,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/3LiwiwT5TVx7qzFca0n2wv"
@@ -3052,7 +3088,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 168923,
       "name": "DREAMS",
       "url": "https://open.spotify.com/track/6dAi7ZPHaPtJ0BNSNAZMLG"
@@ -4232,7 +4268,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 167720,
       "name": "Ghosted",
       "url": "https://open.spotify.com/track/5cLfmkJs0JD99L26pudHYn"
@@ -6104,7 +6140,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 150400,
       "name": "kYuUt",
       "url": "https://open.spotify.com/track/4FoUJVHvGqapfo1Tl7DUHQ"
@@ -6582,7 +6618,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 195000,
       "name": "little freak",
       "url": "https://open.spotify.com/track/4xOBwulhffBVTmyATNF16E"
@@ -7096,7 +7132,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 214188,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/710G6yeNKsmE48Zf9qrlYI"
@@ -7765,6 +7801,24 @@
     },
     {
       "album": {
+        "name": "Near or Far",
+        "url": "https://open.spotify.com/album/4NrqoD6KHbLKBW0YcU3Ndv"
+      },
+      "artists": [
+        {
+          "name": "Chris Andrian Yang",
+          "url": "https://open.spotify.com/artist/74DSMvAfXpnN3c1KCfvFwQ"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180059,
+      "name": "Near or Far",
+      "url": "https://open.spotify.com/track/4v2LoqdTn1p2iYbAiaG5rq"
+    },
+    {
+      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/0UiQsTwNUPQXZUMokedfkF"
       },
@@ -8137,6 +8191,24 @@
     },
     {
       "album": {
+        "name": "On Our Own",
+        "url": "https://open.spotify.com/album/2ltL4jZcEGWPe0Dk0LU5kl"
+      },
+      "artists": [
+        {
+          "name": "D\u2019MASIV",
+          "url": "https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223504,
+      "name": "On Our Own",
+      "url": "https://open.spotify.com/track/7t8u3NnkMUcOTvhtuUEGRh"
+    },
+    {
+      "album": {
         "name": "Love, Kris Dayanti",
         "url": "https://open.spotify.com/album/3p51ctC0FneCUwdLeATaNi"
       },
@@ -8238,7 +8310,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 214565,
       "name": "Only Time",
       "url": "https://open.spotify.com/track/3enHMAuRZoSl6bnUq9yJmZ"
@@ -8536,7 +8608,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 172531,
       "name": "Playing Hearts",
       "url": "https://open.spotify.com/track/6nCLcGjrmepTFd8WUiBscg"
@@ -8710,7 +8782,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 140994,
       "name": "ragebait!",
       "url": "https://open.spotify.com/track/1agtREeSQBAZWgZqMJN7me"
@@ -9170,7 +9242,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 171311,
       "name": "SALT",
       "url": "https://open.spotify.com/track/5ddjiQQAsw1quLBp22TIox"
@@ -9246,7 +9318,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 184444,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/5jtVY2GJNGMLr4HuPQWwKp"
@@ -9575,6 +9647,28 @@
     },
     {
       "album": {
+        "name": "Shoulda Coulda",
+        "url": "https://open.spotify.com/album/0xVvyqYWs7SAvEVLNc4sr9"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bernadette",
+          "url": "https://open.spotify.com/artist/6EdS9IME8O4XEXWHNxtWot"
+        },
+        {
+          "name": "Agatha Baby",
+          "url": "https://open.spotify.com/artist/03pLkLugNkToASnJZhpi1Q"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254306,
+      "name": "Shoulda Coulda",
+      "url": "https://open.spotify.com/track/1sUqquIVswqNQa1F5rAo7B"
+    },
+    {
+      "album": {
         "name": "A Collection of Absurd Ideas",
         "url": "https://open.spotify.com/album/3eKJ4Y8KFK98fKfwNrgzlq"
       },
@@ -9665,6 +9759,28 @@
     },
     {
       "album": {
+        "name": "Slanted",
+        "url": "https://open.spotify.com/album/64yUpGdB7XsGFk9RUckfBp"
+      },
+      "artists": [
+        {
+          "name": "Bhanu Marais",
+          "url": "https://open.spotify.com/artist/0lNHnWpu3fCw1Hb2y0QOSj"
+        },
+        {
+          "name": "Charita Utami",
+          "url": "https://open.spotify.com/artist/48yQuRfvklyupKmridU1du"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214250,
+      "name": "Slanted",
+      "url": "https://open.spotify.com/track/3eM7N4SBHQ9uv7s4DIKYQg"
+    },
+    {
+      "album": {
         "name": "So Easy",
         "url": "https://open.spotify.com/album/3kHvoGX9srpBbwd2GIWpO0"
       },
@@ -9676,7 +9792,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 197826,
       "name": "So Easy",
       "url": "https://open.spotify.com/track/1G25dxb0WaPlLgjPdTkQYy"
@@ -9858,7 +9974,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 172008,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/6Q7pIoM5pOxFjO22Kh3uLx"
@@ -10732,7 +10848,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 303750,
       "name": "The Rise After",
       "url": "https://open.spotify.com/track/2q0I2mcySQzkwb6naL4Dek"
@@ -11534,7 +11650,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 128360,
       "name": "Waste!",
       "url": "https://open.spotify.com/track/6NwyKtwBmGKQ3vSsjpvGBO"

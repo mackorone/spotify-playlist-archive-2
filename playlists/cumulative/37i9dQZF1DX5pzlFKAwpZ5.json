@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 165000,
       "name": "ch\u00e2teau",
       "url": "https://open.spotify.com/track/7GGF2U7bZP3LhM2IojZYoE"
@@ -1278,6 +1278,24 @@
       "duration_ms": 165200,
       "name": "Colors",
       "url": "https://open.spotify.com/track/2UQoFEcg70YOsFhT5RTvNO"
+    },
+    {
+      "album": {
+        "name": "Colour of Dusk",
+        "url": "https://open.spotify.com/album/2T56mrz1I7hfQvvQj3oXXZ"
+      },
+      "artists": [
+        {
+          "name": "Koji Ishikura",
+          "url": "https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Colour of Dusk",
+      "url": "https://open.spotify.com/track/0AdRAxbNIMMf51vw7gH6DR"
     },
     {
       "album": {

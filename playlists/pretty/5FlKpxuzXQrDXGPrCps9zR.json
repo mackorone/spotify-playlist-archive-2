@@ -6,7 +6,7 @@
     "name": "dylan",
     "url": "https://open.spotify.com/user/g0hkhph9aqvum331ul8ftxj5i"
   },
-  "snapshot_id": "AAABtGGBxtkIv9jgKhg8Pgr5xVbrotxk",
+  "snapshot_id": "AAABtncxdT9OEOpNvXprcQXvVdIk9pE4",
   "tracks": [
     {
       "added_at": "2025-11-12 19:32:04",
@@ -247,6 +247,38 @@
       "duration_ms": 190559,
       "name": "Sleepwalker",
       "url": "https://open.spotify.com/track/1pFuoLQ9iRbPv7a0LQvhEJ"
+    },
+    {
+      "added_at": "2026-05-30 18:02:14",
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "added_at": "2026-05-30 18:02:21",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
     }
   ],
   "unique_name": "THE playlist",

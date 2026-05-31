@@ -610,7 +610,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 179482,
       "name": "Pick Up The Pieces",
       "url": "https://open.spotify.com/track/6rsSgqHQcIhYE95F2tTSMU"
@@ -938,6 +938,24 @@
       "duration_ms": 153530,
       "name": "WIRED",
       "url": "https://open.spotify.com/track/2VSNcIG1cSDoa9VJXwyBMK"
+    },
+    {
+      "album": {
+        "name": "WIRED",
+        "url": "https://open.spotify.com/album/2ZOCPqWk1v5UXSBHqOC151"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153530,
+      "name": "WIRED",
+      "url": "https://open.spotify.com/track/42Q9LhQAAEeclVxl8unpeA"
     },
     {
       "album": {

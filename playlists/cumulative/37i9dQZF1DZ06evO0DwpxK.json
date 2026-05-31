@@ -1459,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222638,
+      "name": "yo x3",
+      "url": "https://open.spotify.com/track/2CyfjFIIHRItMz1TbjA0MP"
+    },
+    {
+      "album": {
         "name": "yo x3",
         "url": "https://open.spotify.com/album/4sVjp0ucdVB0H7mGex3J4A"
       },

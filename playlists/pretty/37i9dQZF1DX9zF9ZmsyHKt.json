@@ -1,6 +1,6 @@
 {
   "description": "O melhor do Tecnobrega, Melody e Brega do norte! Foto: Manu",
-  "num_followers": 361208,
+  "num_followers": 361305,
   "original_name": "Melodys Marcantes",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-05-29 03:00:05",
       "album": {
-        "name": "Carabao o M\u00e1ximo",
-        "url": "https://open.spotify.com/album/3D7ahZJOzjxb7NXyvtAQeS"
-      },
-      "artists": [
-        {
-          "name": "Banda msynck",
-          "url": "https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ"
-        }
-      ],
-      "duration_ms": 140068,
-      "name": "Carabao o M\u00e1ximo",
-      "url": "https://open.spotify.com/track/21X99tpR1iJj93Qq1Zfmrb"
-    },
-    {
-      "added_at": "2026-05-29 03:00:05",
-      "album": {
         "name": "O Rei Do Techno Brega",
         "url": "https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 204335,
       "name": "Chico Preto",
       "url": "https://open.spotify.com/track/4aBj8paD5TRHwTRRPfJW5q"
+    },
+    {
+      "added_at": "2026-05-29 03:00:05",
+      "album": {
+        "name": "Carabao o M\u00e1ximo",
+        "url": "https://open.spotify.com/album/3D7ahZJOzjxb7NXyvtAQeS"
+      },
+      "artists": [
+        {
+          "name": "Banda msynck",
+          "url": "https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ"
+        }
+      ],
+      "duration_ms": 140068,
+      "name": "Carabao o M\u00e1ximo",
+      "url": "https://open.spotify.com/track/21X99tpR1iJj93Qq1Zfmrb"
     },
     {
       "added_at": "2026-05-29 03:00:05",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: PNAU, Maleigh Zan
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,151 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,148 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 26 | [Stupidisco](https://open.spotify.com/track/74LnvOHioFDBnqktSvGlZd) | [Liam Conner](https://open.spotify.com/artist/0uIGZDE3WVOqjjciTcinaD) | [Stupidisco](https://open.spotify.com/album/0wISfQ4f4BZwnms63QUfzg) | 2:20 |
 | 27 | [Imagination](https://open.spotify.com/track/1eZVcDPxhC6lMYJvUZrmOy) | [DOREY](https://open.spotify.com/artist/5P7dSJOFqnDQ3oY1Q7z0id), [Amy Wiles](https://open.spotify.com/artist/4ztolv1NbTfNxSjS1EgtOX), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Imagination](https://open.spotify.com/album/0GmTEDii8a1j4O8geUc1LG) | 3:42 |
 | 28 | [The Ceiling](https://open.spotify.com/track/08jOMh0SuNltPqEBuMd0Nb) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [The Ceiling](https://open.spotify.com/album/4O7TcNg3Kn7mSW4Ouhakgt) | 3:18 |
-| 29 | [Final Minutes](https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q) | [LMNT 115](https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Final Minutes](https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo) | 3:15 |
+| 29 | [Final Minutes](https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q) | [LMNT 115](https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Final Minutes](https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo) | 3:15 |
 | 30 | [Satisfy](https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Satisfy](https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd) | 3:06 |
 | 31 | [Cassette 97'](https://open.spotify.com/track/4WwapawQZKqSXhrGmX5WUT) | [Bryson Hill](https://open.spotify.com/artist/37R4dOpFZqJ22zb82V7soA), [Emma B](https://open.spotify.com/artist/5M9awHo1KCuzFffuo4Hdtb) | [Cassette 97'](https://open.spotify.com/album/3OLQHqDfCJnbmlOHJ6tCcb) | 3:59 |
 | 32 | [Sun Goes Down \(feat\. Camden Cox\)](https://open.spotify.com/track/6foHOZ75gZg19BphIKEFw4) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Sun Goes Down \(feat\. Camden Cox\)](https://open.spotify.com/album/16sGFu6kYUl8S1Au9enD7k) | 5:46 |

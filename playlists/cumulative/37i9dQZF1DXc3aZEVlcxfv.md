@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-621 songs - 1 day 17 hr 40 min
+622 songs - 1 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [Guide Your Way](https://open.spotify.com/track/4jku393QzOX63vjChnYcnP) | [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2), [JT Bulinda](https://open.spotify.com/artist/7hOUX5uA9IBzeVFiBNIsFM) | [Guide Your Way](https://open.spotify.com/album/0iceg2XyY5ydkaxLyQqFYC) | 5:09 | 2024-12-27 | 2025-03-21 |
 | [Halle](https://open.spotify.com/track/2sXiwh0GsUlj6Cvbs0IpVJ) | [Tevinnmusic](https://open.spotify.com/artist/1Vw2K0RswB87LX58SylIBB), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [Halle](https://open.spotify.com/album/6iMag6WolYLTNHYU2P8Mle) | 2:31 | 2024-11-01 | 2025-02-07 |
 | [Hallee Hallee](https://open.spotify.com/track/0RDjQE3FpiG4u0GmoQzJZM) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [T.S.T \(Deluxe Version\)](https://open.spotify.com/album/6Z9sSZdcLxPuMu2NMKICSW) | 2:38 | 2024-09-30 | 2025-02-28 |
-| [Hallelujah](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [JOY](https://open.spotify.com/album/4JcVpJAsnqCcif2idBqpVY) | 2:29 | 2026-01-30 |  |
+| [Hallelujah](https://open.spotify.com/track/61PIo9nn1kF5hhRoAAanEF) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [JOY](https://open.spotify.com/album/4JcVpJAsnqCcif2idBqpVY) | 2:29 | 2026-01-30 | 2026-05-31 |
 | [Hallelujah \(My song forever\)](https://open.spotify.com/track/2AUFfb517wmHQoDxxGg3TU) | [Hallel Community Choir](https://open.spotify.com/artist/6txrzyX5bSbN3ccS7PDvWH), [Manus Akpanke](https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL), [CJ Nonso](https://open.spotify.com/artist/5xZ3TZKzgqhGpJ65skKK8F), [Oluwapelumi](https://open.spotify.com/artist/7zoB4wcPhhtJx1UVzNvKAE), [Joshua Ekpenyong](https://open.spotify.com/artist/7a8htg4PeSTDKXdY3wZwy5) | [Hallelujah \(My song forever\)](https://open.spotify.com/album/6UgiLt6pBAO7zYE6ZobtAQ) | 8:20 | 2026-05-01 |  |
 | [Hallelujah is My Song](https://open.spotify.com/track/3NcaY6Gxj7xZVzackhIOnF) | [King GreatLight](https://open.spotify.com/artist/7CNnBtVHuRg05DyAZQjRF5) | [Hallelujah Is My Song](https://open.spotify.com/album/7C1mTzcL6XwiBzdnyNYcyh) | 2:24 | 2025-10-10 | 2026-01-15 |
 | [Halleluyah](https://open.spotify.com/track/2h8yRl1LvFqM1CpbdUJhQN) | [Spirit of Prophecy](https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF) | [Halleluyah](https://open.spotify.com/album/4Bupyny8rQ2FhN9BBVvted) | 2:57 | 2025-09-05 | 2025-11-07 |
@@ -512,6 +512,7 @@
 | [Someone](https://open.spotify.com/track/6AdMC6uV7DtLq2A7ya1UOp) | [Micah Charlz](https://open.spotify.com/artist/2d2a1Ulv4ArqVxCOxfWCh1) | [Someone](https://open.spotify.com/album/2k8TLgBxuwl80S4czOOTA2) | 3:39 | 2025-11-28 | 2026-01-15 |
 | [Soul](https://open.spotify.com/track/1wqLqn1y8nrmm97RZdYlCL) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [JustOG](https://open.spotify.com/artist/6sVnlgchiVPQOsqMkNlQvV), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Soul](https://open.spotify.com/album/553RUHvkweFtnFVeaV8SX4) | 2:24 | 2025-10-17 | 2025-11-28 |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-09-27 | 2025-02-07 |
+| [Subscribed \- Live](https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Subscribed \(Live\)](https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE) | 3:18 | 2026-05-29 |  |
 | [Sunday Prayer](https://open.spotify.com/track/0QPQRZ7E729E6IqmSdIQGj) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA) | [Sunday Prayer](https://open.spotify.com/album/0NxPkzXdu69FShASmeWzQP) | 3:03 | 2025-10-03 | 2026-02-27 |
 | [Sunshine & Laughter](https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Krisirie](https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m) | [Sunshine & Laughter](https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG) | 2:56 | 2025-07-18 | 2025-10-31 |
 | [Supa II](https://open.spotify.com/track/1uZo8bWMrVGFxk0N09512a) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo) | [Supa II](https://open.spotify.com/album/1aioY88IJoUr5GxBJR0I7a) | 2:01 | 2025-01-03 | 2025-02-21 |

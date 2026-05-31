@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Pozer
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,983 likes - 45 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,990 likes - 45 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/album/6nilpOGqIruVfH4w5UDJlY) | 3:22 |
 | 2 | [High](https://open.spotify.com/track/1fylUPtF8NeiiZQng4F1Tf) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [High](https://open.spotify.com/album/0iTH2MjVG0ZGxQmjYXgzy5) | 2:55 |
 | 3 | [Franklin Saint](https://open.spotify.com/track/41eLyUevYzG1Nqcs9LOSQb) | [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Crossroads](https://open.spotify.com/album/6OLfB7EDNgVTNM8eNlEeRC) | 2:11 |
-| 4 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
+| 4 | [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 5 | [Mazzaleen](https://open.spotify.com/track/2qjchnJOgJoWsuOJsfbUVr) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Mazzaleen](https://open.spotify.com/album/22gub81LW7QBIJIIK8J1gg) | 3:47 |
 | 6 | [minute](https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [ghosted \- EP](https://open.spotify.com/album/1FI0XA7lmm54RaMcucVBBe) | 2:59 |
 | 7 | [Feelings](https://open.spotify.com/track/3LMIf4uddKOZfFGgkotzL3) | [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [Feelings](https://open.spotify.com/album/1xdrDNQJP1VM4Jdnawk2lF) | 2:13 |

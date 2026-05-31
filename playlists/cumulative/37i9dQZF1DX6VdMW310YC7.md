@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,900 songs - 5 day 9 hr 1 min
+1,901 songs - 5 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Ardour](https://open.spotify.com/track/2zdqREDAOMvugQI0UObaAK) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v) | [Ascent / Ardour](https://open.spotify.com/album/6hOMI84T4i4mkHknCE1sOf) | 3:59 | 2020-05-25 | 2021-09-11 |
 | [are u alright?](https://open.spotify.com/track/43EvhhuaG1fPTpRsbzXXZ6) | [puulse](https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp), [Jai Cuzco](https://open.spotify.com/artist/2qjkEXePHEV3eMJkFil4be) | [are u alright?](https://open.spotify.com/album/7pSxubD8Db5Gu9OJb2gOYY) | 2:08 | 2025-07-18 | 2025-12-20 |
 | [As If It Was You \- Beach House Mix](https://open.spotify.com/track/2h6pldBTUGLH1JxYCZhYzM) | [Schwarz & Funk](https://open.spotify.com/artist/5tOiT7pdFoQN3hf2OWj2fv) | [As If It Was You](https://open.spotify.com/album/6n705GWuhf7HIhzw2nTa1J) | 5:14 | 2020-03-16 | 2022-04-20 |
+| [As Soon As I Get Home](https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO) | [As Soon As I Get Home](https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7) | 3:59 | 2026-05-29 |  |
 | [As You Were \(Original Mix\)](https://open.spotify.com/track/3dow7u5Ike0PlBi9FHwd0p) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2) | [As You Were \(Original Mix\)](https://open.spotify.com/album/1uGA0fISwcTLmOrs0Gn1at) | 3:52 | 2020-05-18 | 2020-07-03 |
 | [Ascend](https://open.spotify.com/track/3hjQojGfx3VRcNQ6TbxyUU) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Ascend](https://open.spotify.com/album/2JmffBnfePm3uUMx3zdTBQ) | 4:41 | 2022-05-20 | 2022-07-29 |
 | [Assassin](https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Assassin](https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz) | 5:26 | 2021-01-30 | 2024-03-23 |
@@ -1706,7 +1707,7 @@
 | [Tied To You \- Yotto Remix](https://open.spotify.com/track/6iQ9KEZuDYjz7GjAeTT0sO) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Tied To You \(Yotto Remix\)](https://open.spotify.com/album/19PmC8YknlZQ2kex90EdwB) | 6:02 | 2024-04-19 | 2024-05-11 |
 | [Till The Sky Falls Down \- Monokini Beach Mix](https://open.spotify.com/track/2bYjOZefrwx8CiUFT8j7E6) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [Loungelicious Vol.1](https://open.spotify.com/album/0McbWHbCfTaCe3t8LYza3R) | 3:07 | 2020-06-12 | 2020-07-03 |
 | [Time](https://open.spotify.com/track/1Zv8woSN47nSkwMjUWX0aS) | [FEYNMAN](https://open.spotify.com/artist/5bpKJkKb5h112Fy5eLMbWt), [Monomotion](https://open.spotify.com/artist/514CDwBzI2wOfEGuVqHOur) | [Air](https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut) | 4:01 | 2020-03-21 | 2021-03-06 |
-| [Time \- Edit](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 2:04 | 2024-04-05 |  |
+| [Time \- Edit](https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 2:04 | 2024-04-05 | 2026-05-31 |
 | [Time Capsule](https://open.spotify.com/track/02ht7aTttJ0zbbHQh6jKlL) | [Nick Beman](https://open.spotify.com/artist/7ow15x0a0qAhy4ZK6xJKGx) | [Time Capsule](https://open.spotify.com/album/1uGLfESQqsa5TwO5YQSCRI) | 3:10 | 2020-03-20 | 2022-04-21 |
 | [Tiny Molecules of Water](https://open.spotify.com/track/5snKLxGnhMAWMTJroPXlRD) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Imperfections](https://open.spotify.com/album/7qbo7wJh12LH1Qi0zvMU2F) | 3:52 | 2022-05-27 | 2022-07-25 |
 | [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 | 2022-09-30 | 2023-02-21 |

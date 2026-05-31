@@ -166,7 +166,7 @@
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2024-08-11 | 2025-10-18 |
 | [魔性の女A](https://open.spotify.com/track/3O7GuO30ri54Fmq53oQOVJ) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [eMulsion](https://open.spotify.com/album/2uFdZv9M3EOKksvW7QUYky) | 3:41 | 2025-10-17 |  |
 | [불꽃, 놀이](https://open.spotify.com/track/1GjIYtVGgDthZ6R6s6IMN4) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [불꽃, 놀이](https://open.spotify.com/album/0F3zl3WXNkN3Q9L00pjVvJ) | 3:03 | 2024-10-16 | 2025-10-18 |
-| [사랑이라 했던 말 속에서](https://open.spotify.com/track/0XyClpdRwhN06hxTNgIVHI) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [사랑이라 했던 말 속에서](https://open.spotify.com/album/4aP0PyJ9kWQFDJiHb7f7hK) | 3:19 | 2025-10-17 |  |
+| [사랑이라 했던 말 속에서](https://open.spotify.com/track/0XyClpdRwhN06hxTNgIVHI) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5) | [사랑이라 했던 말 속에서](https://open.spotify.com/album/4aP0PyJ9kWQFDJiHb7f7hK) | 3:19 | 2025-10-17 |  |
 | [슈퍼맨](https://open.spotify.com/track/2m6A9zranmeW76Zvsi0aLN) | [Norazo](https://open.spotify.com/artist/6qKi9ZFq7JiwMy2LvMAqNp) | [Three GO](https://open.spotify.com/album/2OAtEagTeDddUGF4yIeAZe) | 3:17 | 2025-10-17 |  |
 | [항복](https://open.spotify.com/track/40cWWy4RgszGtvmmiAaJLM) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Oh, Life](https://open.spotify.com/album/5XAcHixfWVD8iI6H9qIZ3z) | 3:27 | 2024-10-16 | 2025-10-18 |
 

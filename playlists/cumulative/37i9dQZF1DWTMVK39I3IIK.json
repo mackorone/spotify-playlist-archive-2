@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Sweetheart",
+        "url": "https://open.spotify.com/album/4WxyYrADTCr2OOuzX9AURz"
+      },
+      "artists": [
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Bider Det I Mig",
+      "url": "https://open.spotify.com/track/1Dq0FH27wkPeddOo3N57Pc"
+    },
+    {
+      "album": {
         "name": "Big city life",
         "url": "https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd"
       },
@@ -1202,7 +1220,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 163948,
       "name": "Den Lykkelige Ungdom",
       "url": "https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI"
@@ -2512,6 +2530,24 @@
       "duration_ms": 193866,
       "name": "Ghosted",
       "url": "https://open.spotify.com/track/1jJIJqxbAEAIUa15BuJVxa"
+    },
+    {
+      "album": {
+        "name": "FORLADMIGEJ",
+        "url": "https://open.spotify.com/album/1YgMrux0tYh6IXpwdHPVio"
+      },
+      "artists": [
+        {
+          "name": "OLIVVER",
+          "url": "https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148413,
+      "name": "Gi' Mig",
+      "url": "https://open.spotify.com/track/6TuyzcroVkiqQZUXlJE3LC"
     },
     {
       "album": {
@@ -4216,7 +4252,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 258797,
       "name": "Lige Meget Hvor Langt Du Er",
       "url": "https://open.spotify.com/track/1vqPaiBCEjsSmmRRSggJ23"
@@ -5730,7 +5766,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 236624,
       "name": "Se Mig",
       "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
@@ -7311,6 +7347,46 @@
     },
     {
       "album": {
+        "name": "Var det dig, der var derinde?",
+        "url": "https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Sarah Wichmann",
+          "url": "https://open.spotify.com/artist/51MYcyx50QTCOVGXeX3cfx"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255223,
+      "name": "Var det dig, der var derinde?",
+      "url": "https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ"
+    },
+    {
+      "album": {
+        "name": "Venter Jo Bare",
+        "url": "https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200164,
+      "name": "Venter Jo Bare",
+      "url": "https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda"
+    },
+    {
+      "album": {
         "name": "Venter Kun P\u00e5 Dig",
         "url": "https://open.spotify.com/album/7sBpUWuaMauZvtzbgBzGnL"
       },
@@ -7376,7 +7452,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 207660,
       "name": "Vilde Svaner",
       "url": "https://open.spotify.com/track/1yCjEZoEg0hICScFrASlMg"

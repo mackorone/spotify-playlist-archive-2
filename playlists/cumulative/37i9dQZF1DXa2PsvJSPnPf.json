@@ -132,7 +132,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 231000,
       "name": "All Good Cowboys",
       "url": "https://open.spotify.com/track/2tGGjVf9IAyXRv9XucKgCs"
@@ -2528,6 +2528,24 @@
       "duration_ms": 234306,
       "name": "May Your Kindness Remain",
       "url": "https://open.spotify.com/track/71l6dkMk6FSKcL4LcC8hzG"
+    },
+    {
+      "album": {
+        "name": "Meet You There",
+        "url": "https://open.spotify.com/album/5RfbwEqP1Y1hQVdX04fzwR"
+      },
+      "artists": [
+        {
+          "name": "Katie Lynne Sharbaugh",
+          "url": "https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220072,
+      "name": "Meet You There",
+      "url": "https://open.spotify.com/track/6x12TkPefYSVSJ1mw9sv3o"
     },
     {
       "album": {

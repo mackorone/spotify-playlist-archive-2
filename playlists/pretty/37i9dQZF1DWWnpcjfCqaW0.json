@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 298720,
+  "num_followers": 298727,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "Jerry Lee's Greatest",
-        "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 111535,
-      "name": "Great Balls Of Fire",
-      "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
-    },
-    {
-      "added_at": "2026-02-17 04:48:24",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
         "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 146666,
       "name": "There Stands The Glass",
       "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
+    },
+    {
+      "added_at": "2026-02-17 04:48:24",
+      "album": {
+        "name": "Jerry Lee's Greatest",
+        "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 111535,
+      "name": "Great Balls Of Fire",
+      "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -823,18 +823,22 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+        "name": "Dance To The Bop",
+        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
       },
       "artists": [
         {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        },
+        {
+          "name": "Gene Vincent",
+          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
         }
       ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
+      "duration_ms": 156306,
+      "name": "Be-Bop-A-Lula",
+      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -855,22 +859,18 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "Dance To The Bop",
-        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
       },
       "artists": [
         {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
-        },
-        {
-          "name": "Gene Vincent",
-          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
         }
       ],
-      "duration_ms": 156306,
-      "name": "Be-Bop-A-Lula",
-      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "The Essential Johnny Horton",
-        "url": "https://open.spotify.com/album/5kHMuIlNGbEMHsDDTWNmgN"
-      },
-      "artists": [
-        {
-          "name": "Johnny Horton",
-          "url": "https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz"
-        }
-      ],
-      "duration_ms": 130933,
-      "name": "Honky Tonk Man",
-      "url": "https://open.spotify.com/track/7m44TrK4qxvhRUh1vaibHL"
-    },
-    {
-      "added_at": "2026-02-17 04:48:24",
-      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 169000,
       "name": "Chattanoogie Shoe Shine Boy - 1949 Single Version",
       "url": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
+    },
+    {
+      "added_at": "2026-02-17 04:48:24",
+      "album": {
+        "name": "The Essential Johnny Horton",
+        "url": "https://open.spotify.com/album/5kHMuIlNGbEMHsDDTWNmgN"
+      },
+      "artists": [
+        {
+          "name": "Johnny Horton",
+          "url": "https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz"
+        }
+      ],
+      "duration_ms": 130933,
+      "name": "Honky Tonk Man",
+      "url": "https://open.spotify.com/track/7m44TrK4qxvhRUh1vaibHL"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "The Essential Eddy Arnold",
-        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 185026,
-      "name": "Tennessee Stud - Remastered",
-      "url": "https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc"
-    },
-    {
-      "added_at": "2026-02-17 04:48:24",
-      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 192960,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP"
+    },
+    {
+      "added_at": "2026-02-17 04:48:24",
+      "album": {
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 185026,
+      "name": "Tennessee Stud - Remastered",
+      "url": "https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -1119,18 +1119,22 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/55O1JjrXNbKrJVw3AJ8FWJ"
+        "name": "The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
       "artists": [
         {
-          "name": "Lefty Frizzell",
-          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        },
+        {
+          "name": "The Nashville Dixielanders",
+          "url": "https://open.spotify.com/artist/3D0LVCVE801kjPjVk0JjH5"
         }
       ],
-      "duration_ms": 184040,
-      "name": "Always Late (With Your Kisses)",
-      "url": "https://open.spotify.com/track/3XQ2ZGDLsNVzypE5UMFsIF"
+      "duration_ms": 167906,
+      "name": "Alabama Jubilee",
+      "url": "https://open.spotify.com/track/4Go8YDlnV1lgAtJtc02Fq7"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -1151,22 +1155,18 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/55O1JjrXNbKrJVw3AJ8FWJ"
       },
       "artists": [
         {
-          "name": "Red Foley",
-          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
-        },
-        {
-          "name": "The Nashville Dixielanders",
-          "url": "https://open.spotify.com/artist/3D0LVCVE801kjPjVk0JjH5"
+          "name": "Lefty Frizzell",
+          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
         }
       ],
-      "duration_ms": 167906,
-      "name": "Alabama Jubilee",
-      "url": "https://open.spotify.com/track/4Go8YDlnV1lgAtJtc02Fq7"
+      "duration_ms": 184040,
+      "name": "Always Late (With Your Kisses)",
+      "url": "https://open.spotify.com/track/3XQ2ZGDLsNVzypE5UMFsIF"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/55O1JjrXNbKrJVw3AJ8FWJ"
-      },
-      "artists": [
-        {
-          "name": "Lefty Frizzell",
-          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "I Love You a Thousand Ways",
-      "url": "https://open.spotify.com/track/7pWjsuL63J2CBvml3dCCS4"
-    },
-    {
-      "added_at": "2026-02-17 04:48:24",
-      "album": {
         "name": "Vintage Collections",
         "url": "https://open.spotify.com/album/7JiYSwAMa7hUHWjiD372m5"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 177866,
       "name": "Wildwood Flower - Instrumental",
       "url": "https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3"
+    },
+    {
+      "added_at": "2026-02-17 04:48:24",
+      "album": {
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "How's the World Treating You",
+      "url": "https://open.spotify.com/track/7oW8AM8E8DeZknzCSCb3lu"
     }
   ],
   "unique_name": "50s Country",

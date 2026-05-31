@@ -1233,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/2L6FoVC48uSB54QpfxZdS8"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/2BRxZXodJKlPvC0eq5VZFn"
+    },
+    {
+      "album": {
         "name": "Arabian Knights",
         "url": "https://open.spotify.com/album/1PicnlQtu8oliMzWJcQcZV"
       },
@@ -3941,6 +3959,24 @@
     },
     {
       "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/1Xua1uf9DhUlYfNjh9rztu"
+      },
+      "artists": [
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193479,
+      "name": "Broken Calculator",
+      "url": "https://open.spotify.com/track/7sjwnLjMRgSq4EQCzLveaa"
+    },
+    {
+      "album": {
         "name": "Brosteppin' EP",
         "url": "https://open.spotify.com/album/76KrlJAZvWip2yWYPVupVR"
       },
@@ -6272,7 +6308,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 158896,
       "name": "Curse",
       "url": "https://open.spotify.com/track/0sMUNvtxcV8ej6lUZR4BYd"
@@ -9412,6 +9448,32 @@
       "duration_ms": 188749,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/0URVvPEQafAqfYVBVoWyI0"
+    },
+    {
+      "album": {
+        "name": "Eyes Cut Deeper (Crankdat Remix)",
+        "url": "https://open.spotify.com/album/1mWH95UcqhIYJHQmk8hydv"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243380,
+      "name": "Eyes Cut Deeper - Crankdat Remix",
+      "url": "https://open.spotify.com/track/2qwDBUFbjlzSQnOLOa6V7m"
     },
     {
       "album": {
@@ -13364,7 +13426,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 220137,
       "name": "Hunter (feat. Flowdan)",
       "url": "https://open.spotify.com/track/48GP8MO8zVxnfr4ydZ99Wl"
@@ -13466,7 +13528,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 224000,
       "name": "HYPERCOASTER",
       "url": "https://open.spotify.com/track/6HI5Zrh5XdIUoPbYLrOWmv"
@@ -13900,7 +13962,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 145071,
       "name": "ILL",
       "url": "https://open.spotify.com/track/4THkynBgb2TALixMj8IO5S"
@@ -16084,6 +16146,24 @@
     {
       "album": {
         "name": "LOADED",
+        "url": "https://open.spotify.com/album/42Hu4og1F4k76S2kmDBk1K"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "LOADED",
+      "url": "https://open.spotify.com/track/3PhCbTYdxv5O9nGOzDHhkV"
+    },
+    {
+      "album": {
+        "name": "LOADED",
         "url": "https://open.spotify.com/album/32C8hb5LmXYLay6nTAjoO6"
       },
       "artists": [
@@ -16692,7 +16772,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 281600,
       "name": "MandelBrock",
       "url": "https://open.spotify.com/track/1Ptnrndbn8iPp4YXFj6VpL"
@@ -16710,7 +16790,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 247904,
       "name": "March of the Machine",
       "url": "https://open.spotify.com/track/2ZhSXdApy452LqJFf7aEwz"
@@ -18816,7 +18896,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 157714,
       "name": "OI",
       "url": "https://open.spotify.com/track/7nQMNfGjVgbvWFXAIvmuK7"
@@ -19864,6 +19944,24 @@
       "duration_ms": 144000,
       "name": "PERFECT",
       "url": "https://open.spotify.com/track/4aYB6rQFGFLwQLMiM5OSJC"
+    },
+    {
+      "album": {
+        "name": "Piano Man",
+        "url": "https://open.spotify.com/album/2VrU4lEgSJURpmpWgb6Oty"
+      },
+      "artists": [
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182937,
+      "name": "Piano Man",
+      "url": "https://open.spotify.com/track/4z4DOJvYRFLBdKmHHKL20c"
     },
     {
       "album": {
@@ -22645,6 +22743,28 @@
     },
     {
       "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/1mDAIaOkXn6c05dfk4zZUh"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/0PwKQQoUa5377ubuR3TYsI"
+    },
+    {
+      "album": {
         "name": "S.O.S",
         "url": "https://open.spotify.com/album/5sudLLMrf4J9ymgG8f07Ba"
       },
@@ -23838,7 +23958,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 193647,
       "name": "Six Four",
       "url": "https://open.spotify.com/track/1r8lcRJbuTIZWtZcYj1WPP"
@@ -24090,6 +24210,32 @@
       "duration_ms": 113000,
       "name": "Smack Talk",
       "url": "https://open.spotify.com/track/4iDH4VGsaceJTWlv52ao0L"
+    },
+    {
+      "album": {
+        "name": "SMACK!",
+        "url": "https://open.spotify.com/album/2i2Kz9gvag1NSfNcbhubyI"
+      },
+      "artists": [
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        },
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Smokey",
+          "url": "https://open.spotify.com/artist/3jxeWOIj5CnXfzYe4QBWz8"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "SMACK!",
+      "url": "https://open.spotify.com/track/0I9tf0J9JPnT0Df7yrQAxr"
     },
     {
       "album": {
@@ -24676,6 +24822,24 @@
       "duration_ms": 210206,
       "name": "Spacetime - Virtual Riot Remix",
       "url": "https://open.spotify.com/track/5VJuzCF7u2Q7G9hYvtd6f6"
+    },
+    {
+      "album": {
+        "name": "SPEAKERBOX",
+        "url": "https://open.spotify.com/album/1gISYtnNwhExvcaUEMEN2j"
+      },
+      "artists": [
+        {
+          "name": "MUST DIE!",
+          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280816,
+      "name": "SPEAKERBOX",
+      "url": "https://open.spotify.com/track/79YGo7Nth2hGq9lyW0W5NB"
     },
     {
       "album": {

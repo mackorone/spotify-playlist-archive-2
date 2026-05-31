@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > copos pro alto, cada um com o seu\. Foto: MD Chefe, Maru2D, NandaTsunami
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,995 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,981 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 49 | [Sensações](https://open.spotify.com/track/6vdJfD1AH9LUBQYGUG3rDC) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG), [Duckjay](https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0) | [Sensações](https://open.spotify.com/album/0vDwVsdEdnRyL0bsOwom7a) | 2:46 |
 | 50 | [Hiphop X Funk](https://open.spotify.com/track/1OnGlV8JcdoEsCevpAAz84) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [DJ Yas](https://open.spotify.com/artist/7BSj39Ch2fiZWCGJqak1WS) | [Hiphop X Funk](https://open.spotify.com/album/6gMKkI5T5xBMg54RZvOsJ8) | 2:29 |
 
-Snapshot ID: `AAAAACVjdeI7Di4uUJUognmovkb0pfLY`
+Snapshot ID: `AAAAAHv/IhmZqeGkJ+aW2O7jeJpw6ZsR`

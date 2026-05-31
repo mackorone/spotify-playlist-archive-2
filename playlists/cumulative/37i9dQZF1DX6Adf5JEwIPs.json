@@ -13525,28 +13525,6 @@
     },
     {
       "album": {
-        "name": "Aprendi la lecci\u00f3n",
-        "url": "https://open.spotify.com/album/2gKLdULUWctb0JSPkZofpI"
-      },
-      "artists": [
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
-        },
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        }
-      ],
-      "date_added": "2026-05-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 178808,
-      "name": "Aprendi la lecci\u00f3n",
-      "url": "https://open.spotify.com/track/5jfkYc3IyXwbtFnIpB9una"
-    },
-    {
-      "album": {
         "name": "Aprendiz",
         "url": "https://open.spotify.com/album/7JLeFKD3oZnZ6VHmEn854y"
       },
@@ -13580,6 +13558,28 @@
       "duration_ms": 195285,
       "name": "Aprend\u00ed En Las Calles",
       "url": "https://open.spotify.com/track/2frEqvXWEQMGQ9bLUuEH6V"
+    },
+    {
+      "album": {
+        "name": "Aprend\u00ed La Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/2gKLdULUWctb0JSPkZofpI"
+      },
+      "artists": [
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
+        },
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178808,
+      "name": "Aprend\u00ed La Lecci\u00f3n",
+      "url": "https://open.spotify.com/track/5jfkYc3IyXwbtFnIpB9una"
     },
     {
       "album": {
@@ -118012,6 +118012,24 @@
       "duration_ms": 170016,
       "name": "Me Derrito",
       "url": "https://open.spotify.com/track/3vcrtSYtHJrhyWEBkzSDpM"
+    },
+    {
+      "album": {
+        "name": "ME DERRITO (Banda)",
+        "url": "https://open.spotify.com/album/7AEiXR1mHD5u2NPXlYeG2w"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "ME DERRITO - Banda",
+      "url": "https://open.spotify.com/track/2F5gUfjibEnuztDSFoRYgR"
     },
     {
       "album": {

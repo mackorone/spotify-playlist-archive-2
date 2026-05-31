@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > El mundo cabrón de las bandas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,713 likes - 140 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,736 likes - 140 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

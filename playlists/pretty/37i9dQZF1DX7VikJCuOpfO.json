@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Christian Nodal\ud83d\udcf8",
-  "num_followers": 367716,
+  "num_followers": 367738,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKHCyS6R3JAAINCC6e2keIpBOWwS",
+  "snapshot_id": "AAAAAGPe/E+ER2gYi9Xemu1vuzYaOY8d",
   "tracks": [
     {
       "added_at": "2026-05-22 06:00:32",
@@ -351,18 +351,18 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Excusa No Es",
-        "url": "https://open.spotify.com/album/1cc7eNghzcXbtq3eWD1bmq"
+        "name": "Cas\u00ed 16",
+        "url": "https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Barraza",
-          "url": "https://open.spotify.com/artist/6YR3uGzINqVcATvyzArZKt"
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 175384,
-      "name": "Excusa No Es",
-      "url": "https://open.spotify.com/track/5GPUnQ4JmIf2bUsRek7Vlp"
+      "duration_ms": 192928,
+      "name": "Cas\u00ed 16",
+      "url": "https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -383,18 +383,18 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Cas\u00ed 16",
-        "url": "https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB"
+        "name": "Excusa No Es",
+        "url": "https://open.spotify.com/album/1cc7eNghzcXbtq3eWD1bmq"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "Adri\u00e1n Barraza",
+          "url": "https://open.spotify.com/artist/6YR3uGzINqVcATvyzArZKt"
         }
       ],
-      "duration_ms": 192928,
-      "name": "Cas\u00ed 16",
-      "url": "https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i"
+      "duration_ms": 175384,
+      "name": "Excusa No Es",
+      "url": "https://open.spotify.com/track/5GPUnQ4JmIf2bUsRek7Vlp"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -463,38 +463,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Bien, \u00bfy t\u00fa?",
-        "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
-      },
-      "artists": [
-        {
-          "name": "Kakalo",
-          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Bien, \u00bfy t\u00fa?",
-      "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
-        "name": "Ley De La Atracci\u00f3n",
-        "url": "https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        }
-      ],
-      "duration_ms": 163354,
-      "name": "Ley De La Atracci\u00f3n",
-      "url": "https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "Malagradecido",
         "url": "https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9"
       },
@@ -515,18 +483,34 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Vives En M\u00ed",
-        "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
+        "name": "Ley De La Atracci\u00f3n",
+        "url": "https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S"
       },
       "artists": [
         {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
         }
       ],
-      "duration_ms": 210471,
-      "name": "Vives En M\u00ed",
-      "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
+      "duration_ms": 163354,
+      "name": "Ley De La Atracci\u00f3n",
+      "url": "https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Bien, \u00bfy t\u00fa?",
+        "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
+      },
+      "artists": [
+        {
+          "name": "Kakalo",
+          "url": "https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Bien, \u00bfy t\u00fa?",
+      "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -543,6 +527,38 @@
       "duration_ms": 176597,
       "name": "MIL RAZONES",
       "url": "https://open.spotify.com/track/2Wa2x4jWNGIyWWSc1vg0oa"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Vives En M\u00ed",
+        "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 210471,
+      "name": "Vives En M\u00ed",
+      "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Coleccionando Corazones",
+        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 196766,
+      "name": "Se Me Va A Pasar",
+      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -575,22 +591,6 @@
       "duration_ms": 184167,
       "name": "Antes",
       "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
-        "name": "Coleccionando Corazones",
-        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 196766,
-      "name": "Se Me Va A Pasar",
-      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
+        "name": "En Las Cantinas (En vivo)",
+        "url": "https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N"
+      },
+      "artists": [
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 196377,
+      "name": "No Me Amenaces (En Vivo)",
+      "url": "https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
         "name": "Cuando Llegue el D\u00eda",
         "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 238200,
       "name": "Cuando Llegue el D\u00eda",
       "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
-        "name": "En Las Cantinas (En vivo)",
-        "url": "https://open.spotify.com/album/2Y37D3boCOXZSf1IHURy9N"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 196377,
-      "name": "No Me Amenaces (En Vivo)",
-      "url": "https://open.spotify.com/track/4wSyFpCLJp4LBB7epKQZ1F"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -967,22 +967,18 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Diente De Le\u00f3n",
-        "url": "https://open.spotify.com/album/6tF3e4s4jH2JH2HYyoPexo"
+        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
+        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
       },
       "artists": [
         {
-          "name": "Rosal\u00eda Le\u00f3n",
-          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
-        },
-        {
-          "name": "Mariachi Romanza de Rodrigo Rodriguez",
-          "url": "https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL"
+          "name": "Karina Catal\u00e1n",
+          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
         }
       ],
-      "duration_ms": 219175,
-      "name": "Diente De Le\u00f3n",
-      "url": "https://open.spotify.com/track/0QnAR0S70keqrIMvfKBjzF"
+      "duration_ms": 254227,
+      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
+      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -1003,18 +999,22 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Con Todo Y Mi Tristeza (En Vivo Desde Tenampa 100)",
-        "url": "https://open.spotify.com/album/10l6d2kg8dxjPemNIfxbUW"
+        "name": "Diente De Le\u00f3n",
+        "url": "https://open.spotify.com/album/6tF3e4s4jH2JH2HYyoPexo"
       },
       "artists": [
         {
-          "name": "Karina Catal\u00e1n",
-          "url": "https://open.spotify.com/artist/21HVFYVJPwDz60bgjZ84Nx"
+          "name": "Rosal\u00eda Le\u00f3n",
+          "url": "https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx"
+        },
+        {
+          "name": "Mariachi Romanza de Rodrigo Rodriguez",
+          "url": "https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL"
         }
       ],
-      "duration_ms": 254227,
-      "name": "Con Todo Y Mi Tristeza - En Vivo Desde Tenampa 100",
-      "url": "https://open.spotify.com/track/1KZ7bZLmto31FCm4G3dURQ"
+      "duration_ms": 219175,
+      "name": "Diente De Le\u00f3n",
+      "url": "https://open.spotify.com/track/0QnAR0S70keqrIMvfKBjzF"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "El Hielo Est\u00e1 Quemando",
-        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
-      },
-      "artists": [
-        {
-          "name": "Erika Vidrio",
-          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
-        }
-      ],
-      "duration_ms": 189884,
-      "name": "El Hielo Est\u00e1 Quemando",
-      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "\u00bfQui\u00e9n Es Usted?",
         "url": "https://open.spotify.com/album/5IcZe5B1FZzVRtKT8sNYgS"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 150880,
       "name": "Cuando Ama Una Mujer",
       "url": "https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "El Hielo Est\u00e1 Quemando",
+        "url": "https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ"
+      },
+      "artists": [
+        {
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        }
+      ],
+      "duration_ms": 189884,
+      "name": "El Hielo Est\u00e1 Quemando",
+      "url": "https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj"
     },
     {
       "added_at": "2026-05-22 06:00:32",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-05-22 06:00:32",
       "album": {
-        "name": "Olvidarte",
-        "url": "https://open.spotify.com/album/4k2PMe609GRbQjzUztSDWh"
-      },
-      "artists": [
-        {
-          "name": "Horacio de Jes\u00fas",
-          "url": "https://open.spotify.com/artist/7KKH9zlrjetM4JvkzrvDNY"
-        }
-      ],
-      "duration_ms": 158866,
-      "name": "Olvidarte",
-      "url": "https://open.spotify.com/track/2TD16DpXgveHeMqrKzCc0W"
-    },
-    {
-      "added_at": "2026-05-22 06:00:32",
-      "album": {
         "name": "El \u00daltimo Beso",
         "url": "https://open.spotify.com/album/7vujXpwWOhQ3JGzkwve84S"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 169287,
       "name": "El \u00daltimo Beso",
       "url": "https://open.spotify.com/track/7yO0Y1qzLnxnkHV3nZDo1e"
+    },
+    {
+      "added_at": "2026-05-22 06:00:32",
+      "album": {
+        "name": "Olvidarte",
+        "url": "https://open.spotify.com/album/4k2PMe609GRbQjzUztSDWh"
+      },
+      "artists": [
+        {
+          "name": "Horacio de Jes\u00fas",
+          "url": "https://open.spotify.com/artist/7KKH9zlrjetM4JvkzrvDNY"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "Olvidarte",
+      "url": "https://open.spotify.com/track/2TD16DpXgveHeMqrKzCc0W"
     },
     {
       "added_at": "2026-05-22 06:00:32",

@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 502211,
+  "num_followers": 502227,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Keajaiban",
-        "url": "https://open.spotify.com/album/57qz9fO792T8n6ndrprJ5j"
-      },
-      "artists": [
-        {
-          "name": "Reza Artamevia",
-          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
-        }
-      ],
-      "duration_ms": 325973,
-      "name": "Satu Yang Tak Bisa Lepas",
-      "url": "https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Dari Mata",
         "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 223462,
       "name": "Dari Mata",
       "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Keajaiban",
+        "url": "https://open.spotify.com/album/57qz9fO792T8n6ndrprJ5j"
+      },
+      "artists": [
+        {
+          "name": "Reza Artamevia",
+          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
+        }
+      ],
+      "duration_ms": 325973,
+      "name": "Satu Yang Tak Bisa Lepas",
+      "url": "https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "My Happy Life",
-        "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
-      },
-      "artists": [
-        {
-          "name": "Tompi",
-          "url": "https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Menghujam Jantungku",
-      "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 197813,
       "name": "Air & Api",
       "url": "https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "My Happy Life",
+        "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
+      },
+      "artists": [
+        {
+          "name": "Tompi",
+          "url": "https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Menghujam Jantungku",
+      "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Hit Singles BCL And More",
-        "url": "https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        }
-      ],
-      "duration_ms": 292306,
-      "name": "Karena Kucinta Kau",
-      "url": "https://open.spotify.com/track/3OO0GMQomNOnhFli960HDz"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Peace, Love And Respect",
         "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 212026,
       "name": "11 Januari",
       "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Hit Singles BCL And More",
+        "url": "https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "duration_ms": 292306,
+      "name": "Karena Kucinta Kau",
+      "url": "https://open.spotify.com/track/3OO0GMQomNOnhFli960HDz"
     },
     {
       "added_at": "2026-02-27 14:15:43",

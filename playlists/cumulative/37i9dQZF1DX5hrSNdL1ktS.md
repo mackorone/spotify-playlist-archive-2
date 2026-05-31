@@ -4,7 +4,7 @@
 
 > Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Alnz G en cover
 
-1,088 songs - 2 day 4 hr 42 min
+1,089 songs - 2 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [AMIGA](https://open.spotify.com/track/37Q98j1xECmF8FDH8NHVlx) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6), [Tomasa del Real](https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD) | [AMIGA](https://open.spotify.com/album/0vBbku18pQfN1H8q3mQWoc) | 3:24 | 2023-02-17 | 2023-07-01 |
 | [Amigos Verdes](https://open.spotify.com/track/2KFY4TZatZ8y55t1o98VPv) | [Alexis Chaires](https://open.spotify.com/artist/7j8jaHM5LlrFnDxJTbG2wr) | [Amigos Verdes](https://open.spotify.com/album/6tMBbaakn1TshtrIlMpB4T) | 2:16 | 2023-05-26 | 2023-09-09 |
 | [Amor de Anexo](https://open.spotify.com/track/2LFayVbAfSgB5Cxt05u2na) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M) | [Amor de Anexo](https://open.spotify.com/album/0ab2RZHIJxEZEtjwtB7sqM) | 2:51 | 2025-12-12 | 2026-01-17 |
+| [amor, cómo ESTÁS???](https://open.spotify.com/track/5DdWTn9Snp801vg4bm0EXP) | [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [amor, cómo ESTÁS???](https://open.spotify.com/album/7EU7v0sM0po4foAIGPXwWY) | 3:33 | 2026-05-29 |  |
 | [Amores Pasajeros](https://open.spotify.com/track/2pOSUvbqg479E45rxzD7C4) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Amores Pasajeros](https://open.spotify.com/album/3nNFxx4kiSUmExd6zCE6Pz) | 2:36 | 2023-07-14 | 2023-11-14 |
 | [Andamos Francos](https://open.spotify.com/track/3MiLSG8Ewq2Q4kgnQVKnmV) | [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [Andamos Francos](https://open.spotify.com/album/4CsfRkIYoAO2PwjUOSMdr2) | 2:05 | 2023-10-13 | 2024-06-29 |
 | [ANDROMEDA](https://open.spotify.com/track/4hTcgF76AM6PaGLLUWvdkE) | [Eibra](https://open.spotify.com/artist/1pG4qlufLbzzpauUusATj2), [Joshycris](https://open.spotify.com/artist/5PxFCegXNBT8Yf9qTDUpTW) | [ANDROMEDA](https://open.spotify.com/album/1SaKp9LhPnu7NrjlmBt1Tg) | 3:12 | 2023-02-24 | 2023-03-11 |

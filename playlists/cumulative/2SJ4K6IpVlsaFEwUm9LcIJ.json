@@ -13671,6 +13671,24 @@
     },
     {
       "album": {
+        "name": "Soliloquy",
+        "url": "https://open.spotify.com/album/1xetZMHqk2AOXrxtW5rD9j"
+      },
+      "artists": [
+        {
+          "name": "Michael Manring",
+          "url": "https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292786,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/09RFU0eg1GiM01yv0RqXa4"
+    },
+    {
+      "album": {
         "name": "In Sepiatone",
         "url": "https://open.spotify.com/album/1Zenx1StQqmVXFiBbVgvzz"
       },

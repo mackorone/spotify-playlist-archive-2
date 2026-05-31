@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Sheheryar Rehan
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,728 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,745 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kya Kehnay](https://open.spotify.com/track/370aTpm5frZGBvFp96hfxB) | [Sheheryar Rehan](https://open.spotify.com/artist/4uulqSsU6e7BdsYYos6kfS) | [Kya Kehnay](https://open.spotify.com/album/3ZeViaOtD6B4gaCQiTrpRm) | 2:28 |
 | 2 | [About You](https://open.spotify.com/track/1xz6X3PwE36t89m1vFZLnT) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx) | [The Basement](https://open.spotify.com/album/63mhHbgjR55MFjevivOcvQ) | 3:33 |
 | 3 | [Koi Achi Khabar](https://open.spotify.com/track/70XZSAiqgFv44DgphHIwIM) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [Faheem uddin hunzai](https://open.spotify.com/artist/31bt09yIuNKHYx3rpspuRB) | [Koi Achi Khabar](https://open.spotify.com/album/31vDQhzEaHpugJ7tayZbiQ) | 10:07 |
-| 4 | [Falling4U](https://open.spotify.com/track/31AvnBBomAFBYvFNzSjBBD) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Falling4U](https://open.spotify.com/album/1aasIv8wFPMlA2BlE8cEGs) | 2:40 |
+| 4 | [Falling4U](https://open.spotify.com/track/31AvnBBomAFBYvFNzSjBBD) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Falling4U](https://open.spotify.com/album/1aasIv8wFPMlA2BlE8cEGs) | 2:40 |
 | 5 | [Fikraan](https://open.spotify.com/track/3TlrQs3QEh0LnlXQ0xUCja) | [Sarmad Qadeer](https://open.spotify.com/artist/6Eh92TEgarADIOborTEsDJ) | [Fikraan](https://open.spotify.com/album/59TffB9XeOhnhs2kdajjFi) | 2:39 |
 | 6 | [Akhri Baar](https://open.spotify.com/track/6K093cKQBo3JWoX5OPP1uY) | [Zouqan](https://open.spotify.com/artist/2IMwndXSonTHhlmMYpAlh6) | [Akhri Baar](https://open.spotify.com/album/6WaYC52DAxJZ0JeoUNQgVg) | 2:18 |
 | 7 | [Ranjheya](https://open.spotify.com/track/0YH4Ibfz9FRUv7ZrHuS4xf) | [Tashfeen Butt](https://open.spotify.com/artist/4uBVLT4sswoKGPEwQyo8pO), [Arooj Butt](https://open.spotify.com/artist/59BxQDdcv6nR97dzVEMVOk), [Kabeer Khan](https://open.spotify.com/artist/0IdnVmNY5znWCoM5xM9ibt) | [Ranjheya](https://open.spotify.com/album/0KaPxpczs7maXSa7I2bZBd) | 3:11 |

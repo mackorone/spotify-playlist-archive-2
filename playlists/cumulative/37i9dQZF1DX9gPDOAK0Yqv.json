@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 217920,
       "name": "365",
       "url": "https://open.spotify.com/track/3gL7OwN0YWlodBBgsTlnIX"
@@ -16382,6 +16382,36 @@
       "duration_ms": 226262,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/4cKZUOfF3nXZisEZ8EVJSw"
+    },
+    {
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/42TBjNEvZ9W4Cg9QmhUSun"
+      },
+      "artists": [
+        {
+          "name": "Joachim Pastor",
+          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
+        },
+        {
+          "name": "Joris Delacroix",
+          "url": "https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1"
+        },
+        {
+          "name": "Teho",
+          "url": "https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO"
+        },
+        {
+          "name": "PACT",
+          "url": "https://open.spotify.com/artist/5EDgmVBq5IjxAumbWRazCA"
+        }
+      ],
+      "date_added": "2026-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364687,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/7BG10c8LCWJKEZlPqwQDpG"
     },
     {
       "album": {

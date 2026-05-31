@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,087 songs - 14 day 4 hr 9 min
+6,089 songs - 14 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1473,6 +1473,7 @@
 | [Dream Girl](https://open.spotify.com/track/2Gew97fJbolz5D9jiwPqCz) | [Lenny Gazebo](https://open.spotify.com/artist/6xieypSypSPfO5qdlZFMXG), [Vibe Provide Collective](https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [Dream Girl](https://open.spotify.com/album/2PpBVhQoVv2kf33Ysot9G6) | 2:10 | 2024-06-08 | 2024-06-20 |
 | [Dream House](https://open.spotify.com/track/1dDWUNpBIgZVc06aU65vGB) | [Grace Lee](https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh) | [Dream House](https://open.spotify.com/album/5OvVHApc7an0PxgizKaeur) | 2:50 | 2024-01-27 | 2024-02-11 |
 | [Dream I'm In](https://open.spotify.com/track/7gfjlLvQxV9JVXl7aaGobq) | [Night Talks](https://open.spotify.com/artist/2AtastUSfbudzZmPKQTsvz) | [Dream I'm In](https://open.spotify.com/album/4XkvRbodE4RcJcoSiK6kZX) | 3:21 | 2025-04-18 | 2025-04-30 |
+| [Dream of Summer](https://open.spotify.com/track/1BNFek2O2KUY0UMPLKTAxF) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Phil Beaudreau](https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Dream of Summer](https://open.spotify.com/album/4lcPh7hqgmmqjV4UAqGzNO) | 4:06 | 2026-05-30 |  |
 | [Dream Song](https://open.spotify.com/track/7J6bBnnykhiGvw6zjBP423) | [telco](https://open.spotify.com/artist/6M6obxInga7XUzdpC7irmd) | [Please, Come Home](https://open.spotify.com/album/4NrIGbAQCnlkpA8GtalM5T) | 4:31 | 2021-10-23 | 2021-11-07 |
 | [DREAM2U](https://open.spotify.com/track/03JyanEnPlnPK3AlQNR0uh) | [Muhammad $mith](https://open.spotify.com/artist/6DFxdtNB64gpETzLIdOBOD) | [Sadboi/Happyboi](https://open.spotify.com/album/12rqExEIVoQr2wqaN9n9YT) | 2:23 | 2025-03-26 | 2025-04-07 |
 | [Dreamer Too](https://open.spotify.com/track/2RmS9jVUAVRH5dm02SYsVk) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Dreamer Too](https://open.spotify.com/album/1xTqo5gfVw2TfD4djfavZA) | 4:31 | 2025-07-25 | 2025-08-16 |
@@ -4731,6 +4732,7 @@
 | [Sober](https://open.spotify.com/track/2I1DKbI38lcWXxAxwQ6IQf) | [Mike Watts](https://open.spotify.com/artist/3Wx36s9vPKc18yZopjMWPU), [Mikaila](https://open.spotify.com/artist/1mA7Bh4IhIuuUsrATfhEpT) | [Sober](https://open.spotify.com/album/3rN8rtA4haHiPN7v66jhek) | 3:35 | 2020-06-24 | 2020-07-13 |
 | [Sober Brain](https://open.spotify.com/track/1pFLOatIscuyzEtHLueLIz) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt) | [Pretty Picture \(Side A\)](https://open.spotify.com/album/1LsXiKY65aIDClJXI6wno3) | 3:16 | 2021-04-30 | 2021-12-27 |
 | [Sofa](https://open.spotify.com/track/1WzhUeO671Ao0H4h3jRmUJ) | [Hannah Ascher](https://open.spotify.com/artist/2yHuoZP76QdJig5EbPEq1L) | [Sofa](https://open.spotify.com/album/0Bc1adVWc1yyTMu2LgjOTj) | 3:21 | 2023-07-04 | 2023-07-18 |
+| [sofocón](https://open.spotify.com/track/4pCV0TQLhfF6iSZ99WJiUR) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Marcriá](https://open.spotify.com/album/40x1qnn7kg9oovxvd6jwMI) | 2:26 | 2026-05-30 |  |
 | [Soft Maverick](https://open.spotify.com/track/3IujgFD9na2pChd07kbr3e) | [Imani Shola](https://open.spotify.com/artist/6Xg6LoqcniDRcZcIeipMwf) | [Soft Maverick](https://open.spotify.com/album/6rcWYP9seL1PdU8zNN7cID) | 3:53 | 2024-06-21 | 2024-07-03 |
 | [Software Update](https://open.spotify.com/track/3FCgcYKYRnISRWKMW9Wfij) | [kimaRA](https://open.spotify.com/artist/0wrETSNZWzyKrdPXrRfkbD) | [Software Update](https://open.spotify.com/album/30jxGlfdLkyPL3KgLjyURk) | 4:16 | 2025-05-29 | 2025-06-10 |
 | [Soju](https://open.spotify.com/track/2dcD5s2X2A9QOV0Xhe0cdd) | [Labit](https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea) | [Soju](https://open.spotify.com/album/5PCBZNCMphWJAC5eVYdMLV) | 3:01 | 2022-06-20 | 2022-07-07 |

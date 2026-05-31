@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's. Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 149176,
+  "num_followers": 149187,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Wakely",
-          "url": "https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "One Has My Name (The Other Has My Heart) - 1948 Single",
-      "url": "https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
         "name": "Together Again",
         "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 140280,
       "name": "Ida Red",
       "url": "https://open.spotify.com/track/6Va6Mpqj9prgmYwUHdxj4z"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/0pvHJDiUCaXMKXafTh80wU"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Wakely",
+          "url": "https://open.spotify.com/artist/1bkPltv18ZrFr2IhEdIae5"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "One Has My Name (The Other Has My Heart) - 1948 Single",
+      "url": "https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW"
     },
     {
       "added_at": "2026-02-11 22:46:25",

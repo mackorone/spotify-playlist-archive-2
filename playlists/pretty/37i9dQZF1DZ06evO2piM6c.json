@@ -1,12 +1,12 @@
 {
   "description": "This is Sade. The essential tracks, all in one playlist.",
-  "num_followers": 483673,
+  "num_followers": 483836,
   "original_name": "This Is Sade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aheFgAAAAAAcyXW7nc9SWJxbTyAHW5U2",
+  "snapshot_id": "ahjXAAAAAACsF6GAteT6wumDVwpixkRB",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soldier of Love",
-        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 304413,
-      "name": "In Another Time",
-      "url": "https://open.spotify.com/track/1DKYtHoBNbqjMLqvpw7o73"
+      "duration_ms": 264240,
+      "name": "Still in Love with You",
+      "url": "https://open.spotify.com/track/51UNNIXG0vZrwB40N6qWOo"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+        "name": "Soldier of Love",
+        "url": "https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 264240,
-      "name": "Still in Love with You",
-      "url": "https://open.spotify.com/track/51UNNIXG0vZrwB40N6qWOo"
+      "duration_ms": 304413,
+      "name": "In Another Time",
+      "url": "https://open.spotify.com/track/1DKYtHoBNbqjMLqvpw7o73"
     },
     {
       "added_at": null,

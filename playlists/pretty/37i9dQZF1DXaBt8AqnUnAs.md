@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,743 likes - 81 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,772 likes - 81 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 31 | [começo \(de um fim\)](https://open.spotify.com/track/152mvG5WOMDuKHnpTQJywJ) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [começo \(de um fim\)](https://open.spotify.com/album/5Noioyq0yVx8jUpDZk09uR) | 2:47 |
 | 32 | [Diaba](https://open.spotify.com/track/6OL1PIjTZoCEA4NA1yVUPj) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk) | [Cachorro Sincero](https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc) | 2:17 |
 | 33 | [Foi assim](https://open.spotify.com/track/6fPALIGFkjmlHKuiiZLRl6) | [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [Rob](https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw) | [Fique o tempo que precisar](https://open.spotify.com/album/3XopVdEcVEZHbk1yJQlXHO) | 2:27 |
-| 34 | [Você \- Remix](https://open.spotify.com/track/5pscBEmv4Hj9QrpJyUMZD7) | [Delinn](https://open.spotify.com/artist/0YZV75xF136zfiSYukmY6p), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [DJ Caetano](https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ) | [Você \(Remix\)](https://open.spotify.com/album/7Jdi1YIeZABZ0dD695gixE) | 3:23 |
+| 34 | [Você \- Remix](https://open.spotify.com/track/5pscBEmv4Hj9QrpJyUMZD7) | [Delinn](https://open.spotify.com/artist/0YZV75xF136zfiSYukmY6p), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [Caetanoprod](https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy) | [Você \(Remix\)](https://open.spotify.com/album/7Jdi1YIeZABZ0dD695gixE) | 3:23 |
 | 35 | [Paraíso](https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Paraíso](https://open.spotify.com/album/67EMxtfXTpZVQFQ76TlDOs) | 3:25 |
 | 36 | [ME DIZ PQ?](https://open.spotify.com/track/3yTgfngNRx88W1GvD4Cyc8) | [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [MANO R7](https://open.spotify.com/artist/6RruMIOL9mfFjnNfZfsXhB) | [ME DIZ PQ?](https://open.spotify.com/album/1Hvq4LbUkDiLHUc518ElWy) | 2:49 |
 | 37 | [O QUE É O AMOR?](https://open.spotify.com/track/77PUcKl2HCqOLlsTgzpcWa) | [San Joe](https://open.spotify.com/artist/4CtW1JCmaMN6PhgBBQHxpX), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [O QUE É O AMOR?](https://open.spotify.com/album/5K6H514pSDDzO2GtOY8x1s) | 2:21 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 80 | [Juro Não É Drama \- Remix](https://open.spotify.com/track/3ac23PZ5PqrwKgPMkD4FuO) | [DHION](https://open.spotify.com/artist/1lzxvMTm6klPlX7nmHSDYy), [Modder Aka.](https://open.spotify.com/artist/6tMYoBuQNa41Bn0zoPbD2l), [Theuzz011](https://open.spotify.com/artist/7DUOb2BAkKqL0kG8ecSAVp), [JMB](https://open.spotify.com/artist/3S00c09nAIpRQ0XUWewXup) | [Juro Não É Drama \(Remix\)](https://open.spotify.com/album/2IBDisWQgXHwc1gi8Hunbe) | 3:12 |
 | 81 | [Ligar Pra Você](https://open.spotify.com/track/6cxlDhSVE4fbxanvcS9yaT) | [Dash Foreal](https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk) | [Músicas Para Mulheres, Vol\. 1](https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF) | 2:27 |
 
-Snapshot ID: `AAAAABfkhAaAgE/bGVWBgdzDtl4yVJdP`
+Snapshot ID: `AAAAAPpitgzKS0Zmr8kw5NW98y3gURz9`

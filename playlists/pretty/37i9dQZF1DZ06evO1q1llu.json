@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 251212,
+  "num_followers": 251249,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aheFgAAAAABvqfufX82RF2+Ei+NoAljI",
+  "snapshot_id": "ahjXAAAAAABRb9zeYKqUrAQnpwGWULM5",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEFORE I FORGET",
-        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 177746,
-      "name": "NEVER CAME BACK",
-      "url": "https://open.spotify.com/track/1y8Cn036pPqrbkNJQVywuz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "QUINTESSENCE",
         "url": "https://open.spotify.com/album/3zn3zxWG2OgEfplBepaisb"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 163613,
       "name": "OPEN UP - feat. The Kid LAROI",
       "url": "https://open.spotify.com/track/3jYPZi9vzjnPlsWyikVPTL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEFORE I FORGET",
+        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "NEVER CAME BACK",
+      "url": "https://open.spotify.com/track/1y8Cn036pPqrbkNJQVywuz"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEFORE I FORGET",
-        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "MAYBE I'M WRONG",
-      "url": "https://open.spotify.com/track/2GYP2rpIFWiwUX8iQbQ59H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diva (feat. Lil Tecca)",
         "url": "https://open.spotify.com/album/6baGSG5U130x5ttGIIRIwR"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 172004,
       "name": "Diva (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEFORE I FORGET",
+        "url": "https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "MAYBE I'M WRONG",
+      "url": "https://open.spotify.com/track/2GYP2rpIFWiwUX8iQbQ59H"
     },
     {
       "added_at": null,

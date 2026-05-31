@@ -4,7 +4,7 @@
 
 > Fresh from the recording to your ears\. Latest Hindi music, right here\. Cover \- Chand Mera Dil
 
-775 songs - 1 day 23 hr 21 min
+775 songs - 1 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,7 @@
 | [Mann Hawa \(From "Assi"\)](https://open.spotify.com/track/3B5gqMyA7GrPDihCXHEz9B) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Mann Hawa \(From "Assi"\)](https://open.spotify.com/album/73Cy8yx9EoseyMsaRnz7RB) | 5:30 | 2026-02-09 | 2026-04-16 |
 | [Mann Na Laage](https://open.spotify.com/track/1Tp0DeuFqlDWywpwTb3T7c) | [Aditya Virmani](https://open.spotify.com/artist/1N4yXrFrXyYVjT5xRnJ2Ya), [Stuti Sinha](https://open.spotify.com/artist/3wEyqO1YSZgsVq8GZGbLjI) | [Mann Na Laage](https://open.spotify.com/album/6k0aekC3ZjoltWQP9MoVvz) | 4:38 | 2026-04-14 | 2026-05-09 |
 | [Mann Ye Mera \(From "Metro ..\. In Dino"\)](https://open.spotify.com/track/1iM0dkfgtTxBi7yQV16pjD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI) | [Mann Ye Mera \(From "Metro ..\. In Dino"\)](https://open.spotify.com/album/42JeoQ0RuFFzHJA2RVxvfC) | 4:02 | 2025-07-01 | 2025-07-26 |
-| [Manva Mera](https://open.spotify.com/track/4KHeyyU6JFCaCU4EZ2fKd0) | [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Manva Mera](https://open.spotify.com/album/5MFO8NU4nP5mU5ShAtZvSw) | 4:05 | 2026-05-29 |  |
+| [Manva Mera](https://open.spotify.com/track/4KHeyyU6JFCaCU4EZ2fKd0) | [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Manva Mera](https://open.spotify.com/album/5MFO8NU4nP5mU5ShAtZvSw) | 3:57 | 2026-05-29 |  |
 | [Manwa](https://open.spotify.com/track/18MbSqavv4QryG3pzzDmx3) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Manwa](https://open.spotify.com/album/1HswXt5DYQFSbjyErfYr2z) | 2:54 | 2025-07-01 | 2025-07-08 |
 | [Marammat](https://open.spotify.com/track/6fHNMaNAoP9D9KVp30CtGL) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Marammat](https://open.spotify.com/album/4QIFTipmqIvkyihm5jrVKF) | 3:16 | 2025-10-09 | 2025-11-05 |
 | [Marammatein](https://open.spotify.com/track/5IvcYdbyPCoFocOu5hoZyN) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Marammatein](https://open.spotify.com/album/3fNUyCBvpJXAINIrKEPFWb) | 3:51 | 2025-11-14 | 2025-12-10 |

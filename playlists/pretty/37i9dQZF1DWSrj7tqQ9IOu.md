@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,297 likes - 45 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,281 likes - 45 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 22 | [SITUATION CHEAP](https://open.spotify.com/track/6t3f9Sl83g4viuGWsnEiQm) | [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I), [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [SITUATION CHEAP](https://open.spotify.com/album/1TjF0xCufULcSRrmUQ1igm) | 2:45 |
 | 23 | [ciel azur](https://open.spotify.com/track/2mRq38Iw2Wtf5gJyu8Y8bB) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [spleen\. social club](https://open.spotify.com/album/6zfiNo6nUuPrVoawomWkEK) | 2:21 |
 | 24 | [Rien à fêter](https://open.spotify.com/track/2SraRNXafpI7MzEDSssAs3) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Rien à fêter](https://open.spotify.com/album/6Is9iEcP8QVpihebTOLh7i) | 2:55 |
-| 25 | [Tia Na Sé](https://open.spotify.com/track/6zzRjzMRxt3MGBsyx75wOh) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [Tia Na Sé](https://open.spotify.com/album/7AhjQKIKkggT6me7NFLjkT) | 2:45 |
-| 26 | [Nieuport Beach Ft\. BEN PLG](https://open.spotify.com/track/4rqBGwPRAMjxMb6XMKRjFd) | [ABSOLEM](https://open.spotify.com/artist/4jELC7j0cRWJVQ8QkpDcvU), [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Champagne en canette](https://open.spotify.com/album/1us9LOlrL2I6jySgwAJ21N) | 2:19 |
+| 25 | [Nieuport Beach Ft\. BEN PLG](https://open.spotify.com/track/4rqBGwPRAMjxMb6XMKRjFd) | [ABSOLEM](https://open.spotify.com/artist/4jELC7j0cRWJVQ8QkpDcvU), [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Champagne en canette](https://open.spotify.com/album/1us9LOlrL2I6jySgwAJ21N) | 2:19 |
+| 26 | [Tia Na Sé](https://open.spotify.com/track/6zzRjzMRxt3MGBsyx75wOh) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [Tia Na Sé](https://open.spotify.com/album/7AhjQKIKkggT6me7NFLjkT) | 2:45 |
 | 27 | [Sesi](https://open.spotify.com/track/3Ov8MLsFdrNDcSp4KzdLhi) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Sesi](https://open.spotify.com/album/3yBUvZ7lmnGicfM5Of3xTt) | 2:53 |
 | 28 | [Moi](https://open.spotify.com/track/5xBznzl74AmnZsmhqME24s) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Moi](https://open.spotify.com/album/6nTICAZHGjKVtB3krnlHEe) | 3:03 |
 | 29 | [Coquelicot](https://open.spotify.com/track/2OmiV4VCHXDzGgsOjdJ5dB) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ), [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [Coquelicot](https://open.spotify.com/album/5VT0KSzFLeyVOPfmNfQfqO) | 2:53 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 32 | [Être une fille](https://open.spotify.com/track/6s7PgvBT8yKRtoogdwZzna) | [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [Les monstres](https://open.spotify.com/album/4w8l9RgrnoYB6EvRkZhmdo) | 3:32 |
 | 33 | [Le besoin](https://open.spotify.com/track/5VYUkw26Zrwj2FC458bQe0) | [Krisy](https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo) | [Le besoin](https://open.spotify.com/album/4BosQLexIQPtg8TPG4ioEA) | 3:05 |
 | 34 | [Second Hand](https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Second Hand](https://open.spotify.com/album/0q9Y3XkOUcclX7l1HAqEBV) | 3:24 |
-| 35 | [Mwasi Chou](https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Mwasi Chou](https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ) | 2:35 |
-| 36 | [ALL WIN](https://open.spotify.com/track/28Hl41hlf9LDVqg4zoy7gE) | [Selug](https://open.spotify.com/artist/3j2UfwsNoDqcuoGh8gp0qi), [$enar](https://open.spotify.com/artist/4aG6mP1P80gOIpELCWePG5) | [FRAGMENT EXHIBITION](https://open.spotify.com/album/44rTVSiLrSOu1o3wIBHTFN) | 3:04 |
-| 37 | [CINÉMA](https://open.spotify.com/track/05AppqGcRJffs3mpphLOTU) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [CINÉMA](https://open.spotify.com/album/3w3eJevAHMoQzOv4lJDxox) | 2:35 |
+| 35 | [ALL WIN](https://open.spotify.com/track/28Hl41hlf9LDVqg4zoy7gE) | [Selug](https://open.spotify.com/artist/3j2UfwsNoDqcuoGh8gp0qi), [$enar](https://open.spotify.com/artist/4aG6mP1P80gOIpELCWePG5) | [FRAGMENT EXHIBITION](https://open.spotify.com/album/44rTVSiLrSOu1o3wIBHTFN) | 3:04 |
+| 36 | [CINÉMA](https://open.spotify.com/track/05AppqGcRJffs3mpphLOTU) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [CINÉMA](https://open.spotify.com/album/3w3eJevAHMoQzOv4lJDxox) | 2:35 |
+| 37 | [Mwasi Chou](https://open.spotify.com/track/3igi0a7ec8hXEuXFUOnjte) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Mwasi Chou](https://open.spotify.com/album/2u7P6gANBEBWBoNhOEWgyQ) | 2:35 |
 | 38 | [CHALÈ](https://open.spotify.com/track/6OTuYW0hggs1rhC5isHJbD) | [Malcolm](https://open.spotify.com/artist/1c3s9SZHgBWS8mpo8DpdUb), [Krys](https://open.spotify.com/artist/6d4N9S0QxevupZo0FNXx0D) | [CHALÈ](https://open.spotify.com/album/75BImxArgxMcPKVJjOpRAB) | 2:18 |
 | 39 | [SWING](https://open.spotify.com/track/0u1MlZLPl0U6bNN3SYhGvh) | [Angie](https://open.spotify.com/artist/1reCrDItJcpmACHds2If1w) | [SWING](https://open.spotify.com/album/7uTNjPjyptfuq0I6cntxXe) | 2:29 |
 | 40 | [Beaux\-arts](https://open.spotify.com/track/5TF34rrtgmYMHRIPo0irA2) | [EL'NOUR](https://open.spotify.com/artist/3G57My9Nb3MPAqH12PeC4e) | [Beaux\-arts](https://open.spotify.com/album/13ZhwviVjcYAIHQKwjoBqI) | 2:29 |

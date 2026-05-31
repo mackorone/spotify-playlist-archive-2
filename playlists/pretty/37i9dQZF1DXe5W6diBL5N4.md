@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ALPHA DRIVE ONE\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,101 likes - 141 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,130 likes - 141 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 39 | [Loveholic](https://open.spotify.com/track/74qKDPA4s7EdriYosZHaFl) | [Loveholic](https://open.spotify.com/artist/7gSVTyMFvcvwb6JUAJzLb2) | [F.L.O.R.I.S.T](https://open.spotify.com/album/52w1ee61sMJWfL7fj698fM) | 3:41 |
 | 40 | [The End of Us](https://open.spotify.com/track/7zpyK804uZWtM1BCn8ojut) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [The End of Us](https://open.spotify.com/album/7nsw4woYEOl2Tiayk312fX) | 3:33 |
 | 41 | [Scenario](https://open.spotify.com/track/6lrYXAGKF5xo1VB9kRr5XQ) | [104](https://open.spotify.com/artist/70lxm9Zz1sKBCez2iEHnu8) | [Scenario](https://open.spotify.com/album/7cL6ZVHeGzzuR9txbSnoPN) | 2:56 |
-| 42 | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can’t be blue ](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 |
+| 42 | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 |
 | 43 | [As If](https://open.spotify.com/track/4CBQXkillvktWczebMlqip) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [As If](https://open.spotify.com/album/5cQBqXCPndAmOPRZfLLL3a) | 4:34 |
 | 44 | [Pairing](https://open.spotify.com/track/1GkKG2lHCLNPdUeio2UDj9) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Cook 4 U](https://open.spotify.com/album/0SdNCLe6PxJibffY4hsBeX) | 3:27 |
 | 45 | [SPACE HORROR](https://open.spotify.com/track/4WV516lo8Xd5C2HuZ9q5MB) | [UJGD](https://open.spotify.com/artist/6BoEMXjm5VY3Qc6yLb6Ng6) | [SPACE HORROR](https://open.spotify.com/album/0MaaVorgQ8388OceuQcalx) | 2:58 |

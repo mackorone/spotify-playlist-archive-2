@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Sei artisti e artiste su cui puntare quest'anno, e per il futuro, secondo Spotify Italia\. Marte in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,190 likes - 40 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,192 likes - 40 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 | 39 | [Ppl](https://open.spotify.com/track/6Mxtn8VYIdGWtkyVbKluVT) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Hiding](https://open.spotify.com/album/1LDEPbaGv4HgFoviWNUcXi) | 3:47 |
 | 40 | [EMOZIONI](https://open.spotify.com/track/0PhiDkRKsPlKzyaGLTnRYH) | [Carla Hero](https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu) | [EMOZIONI](https://open.spotify.com/album/063W1TOJyXH4Jzg01uFEi1) | 1:47 |
 
-Snapshot ID: `AAAAACP9vYfw5rMdrmpBNwgdaL87maoB`
+Snapshot ID: `AAAAALFTVUNxYe1D6LlfHzpMbWT5kdGH`

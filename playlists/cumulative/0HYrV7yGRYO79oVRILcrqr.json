@@ -2449,6 +2449,28 @@
     },
     {
       "album": {
+        "name": "E so chi sei",
+        "url": "https://open.spotify.com/album/3ht8h2QMfmMdgVfaaXT0Ob"
+      },
+      "artists": [
+        {
+          "name": "Davide Tonello",
+          "url": "https://open.spotify.com/artist/53qVOSpwIpsKTfgXl7o8QG"
+        },
+        {
+          "name": "Gigi Cavalli Cocchi",
+          "url": "https://open.spotify.com/artist/1e8xgA8q63uywSwnkfbngd"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "E so chi sei",
+      "url": "https://open.spotify.com/track/7wiewFshn7HGbfbkAjBAo0"
+    },
+    {
+      "album": {
         "name": "The Way We Roll",
         "url": "https://open.spotify.com/album/1QkiIps2aHo0aqkw3xWukw"
       },
@@ -3452,7 +3474,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 230671,
       "name": "Got Your Gun",
       "url": "https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh"
@@ -5604,7 +5626,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 279481,
       "name": "Move Along",
       "url": "https://open.spotify.com/track/4DgpMmdypUrJKzie2icDPf"
@@ -9420,7 +9442,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 220740,
       "name": "Widespread Coma",
       "url": "https://open.spotify.com/track/2NDtE7qiWJirYfhZ3gydOC"

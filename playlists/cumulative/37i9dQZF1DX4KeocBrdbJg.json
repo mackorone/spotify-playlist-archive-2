@@ -829,6 +829,24 @@
     },
     {
       "album": {
+        "name": "amor, c\u00f3mo EST\u00c1S???",
+        "url": "https://open.spotify.com/album/7EU7v0sM0po4foAIGPXwWY"
+      },
+      "artists": [
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213035,
+      "name": "amor, c\u00f3mo EST\u00c1S???",
+      "url": "https://open.spotify.com/track/5DdWTn9Snp801vg4bm0EXP"
+    },
+    {
+      "album": {
         "name": "Anda Bien Monosa",
         "url": "https://open.spotify.com/album/28XJHrqWkVFvIAceXSWGUV"
       },

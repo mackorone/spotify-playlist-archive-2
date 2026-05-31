@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot",
-  "num_followers": 25814,
+  "num_followers": 25824,
   "original_name": "60's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "20 Jaar Herman Van Veen - In Vogelvlucht",
-        "url": "https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze"
-      },
-      "artists": [
-        {
-          "name": "Herman van Veen",
-          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "Liefde Van Later",
-      "url": "https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Ramses Shaffy - Laat Me",
         "url": "https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 256186,
       "name": "Pastorale",
       "url": "https://open.spotify.com/track/50a6StrR0wfLLYKqBl1mvg"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "20 Jaar Herman Van Veen - In Vogelvlucht",
+        "url": "https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze"
+      },
+      "artists": [
+        {
+          "name": "Herman van Veen",
+          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "Liefde Van Later",
+      "url": "https://open.spotify.com/track/06IedMIA8r8jSgWzGcW6o5"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "De Vertedering - De 60 Mooiste Luisterliedjes",
-        "url": "https://open.spotify.com/album/7wychIhuEA1yc9YClKzR17"
-      },
-      "artists": [
-        {
-          "name": "Jacques Brel",
-          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Mijn Vlakke Land",
-      "url": "https://open.spotify.com/track/1UlztlUKod6mibYwJEWbsp"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Favorieten van Toen",
         "url": "https://open.spotify.com/album/3cFCIbnr6p0ITYXEmsA2Y1"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 159533,
       "name": "Kom van dat dak af",
       "url": "https://open.spotify.com/track/4I07xdkqgw91HqlP4t5h9B"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "De Vertedering - De 60 Mooiste Luisterliedjes",
+        "url": "https://open.spotify.com/album/7wychIhuEA1yc9YClKzR17"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Mijn Vlakke Land",
+      "url": "https://open.spotify.com/track/1UlztlUKod6mibYwJEWbsp"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Hollands Glorie",
-        "url": "https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8"
-      },
-      "artists": [
-        {
-          "name": "Het Cocktail Trio",
-          "url": "https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Wie heeft de sleutels van de jukebox gezien",
-      "url": "https://open.spotify.com/track/765nN5UPfEY3cf956Qvzpj"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Warm Is De Liefde - 50 Gouden Herinneringen",
         "url": "https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 148173,
       "name": "Soerabaja",
       "url": "https://open.spotify.com/track/6WgIBSj3JIImcRurWWt63T"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Hollands Glorie",
+        "url": "https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8"
+      },
+      "artists": [
+        {
+          "name": "Het Cocktail Trio",
+          "url": "https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Wie heeft de sleutels van de jukebox gezien",
+      "url": "https://open.spotify.com/track/765nN5UPfEY3cf956Qvzpj"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Die Goeie Ouwe Tijd Top 100",
-        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
-      },
-      "artists": [
-        {
-          "name": "Jasperina de Jong",
-          "url": "https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "De Wandelclub",
-      "url": "https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Corry",
         "url": "https://open.spotify.com/album/7HN3yPzTLfJhGf8Ek67H4i"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 173733,
       "name": "De Wereld Is Leeg Zonder Jou",
       "url": "https://open.spotify.com/track/3GWOmCm7y2lobaykZbkjpm"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Die Goeie Ouwe Tijd Top 100",
+        "url": "https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3"
+      },
+      "artists": [
+        {
+          "name": "Jasperina de Jong",
+          "url": "https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX"
+        }
+      ],
+      "duration_ms": 210013,
+      "name": "De Wandelclub",
+      "url": "https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm"
         }
       ],
-      "duration_ms": 156667,
-      "name": "Iedere Avond",
-      "url": "https://open.spotify.com/track/27K4ItIdSmWm9VKiteM5m2"
+      "duration_ms": 117874,
+      "name": "Geweldig",
+      "url": "https://open.spotify.com/track/6Xjg93yoJu0h64r8SKRtld"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Vroeger - 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1",
-        "url": "https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO"
-      },
-      "artists": [
-        {
-          "name": "Ria Valk",
-          "url": "https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Vrijgezellenflat",
-      "url": "https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Rijst Met Kouseband (En Andere Poku's)",
         "url": "https://open.spotify.com/album/56aQwxkpYt8PWWbOqLZuMz"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
+        "name": "Vroeger - 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1",
+        "url": "https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO"
+      },
+      "artists": [
+        {
+          "name": "Ria Valk",
+          "url": "https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Vrijgezellenflat",
+      "url": "https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
         "name": "Het Beste van Ronnie Tober",
         "url": "https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3"
       },
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm"
         }
       ],
-      "duration_ms": 117874,
-      "name": "Geweldig",
-      "url": "https://open.spotify.com/track/6Xjg93yoJu0h64r8SKRtld"
+      "duration_ms": 156667,
+      "name": "Iedere Avond",
+      "url": "https://open.spotify.com/track/27K4ItIdSmWm9VKiteM5m2"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Het Beste van De Heikrekels - Instrumentaal",
-        "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
-      },
-      "artists": [
-        {
-          "name": "De Heikrekels",
-          "url": "https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR"
-        }
-      ],
-      "duration_ms": 171551,
-      "name": "Jij Bent Voor Mij Alleen",
-      "url": "https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "De Regenboog Serie: Anneke Gr\u00f6nloh",
         "url": "https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 137920,
       "name": "Da Doo Ron Ron",
       "url": "https://open.spotify.com/track/7CaFlYMP3S0nzP6rFu9NNx"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Het Beste van De Heikrekels - Instrumentaal",
+        "url": "https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG"
+      },
+      "artists": [
+        {
+          "name": "De Heikrekels",
+          "url": "https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR"
+        }
+      ],
+      "duration_ms": 171551,
+      "name": "Jij Bent Voor Mij Alleen",
+      "url": "https://open.spotify.com/track/2eNAWjONbl5l4Ju1Yywvmu"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
-        "name": "Kom Uit De Bedstee Mijn Liefste (Bonus Track)",
-        "url": "https://open.spotify.com/album/5R5atJoMJqLCowLQgyP7xo"
-      },
-      "artists": [
-        {
-          "name": "Egbert Douwe",
-          "url": "https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2"
-        }
-      ],
-      "duration_ms": 227166,
-      "name": "Vader Is De Dader - Bonus Track",
-      "url": "https://open.spotify.com/track/1Mqd5anFyBvNSxbNAgR4d6"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
         "name": "Favorieten Expres",
         "url": "https://open.spotify.com/album/7ghZOFhVXnKPQrcsZ0mJXl"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 158466,
       "name": "Schemering (Wanneer De Zon Verkleurt Tot Oranje) - Remastered",
       "url": "https://open.spotify.com/track/0hKoOOgxib2r9hNoGtyTyI"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
+        "name": "Kom Uit De Bedstee Mijn Liefste (Bonus Track)",
+        "url": "https://open.spotify.com/album/5R5atJoMJqLCowLQgyP7xo"
+      },
+      "artists": [
+        {
+          "name": "Egbert Douwe",
+          "url": "https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2"
+        }
+      ],
+      "duration_ms": 227166,
+      "name": "Vader Is De Dader - Bonus Track",
+      "url": "https://open.spotify.com/track/1Mqd5anFyBvNSxbNAgR4d6"
     },
     {
       "added_at": "2024-07-19 06:41:15",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-07-19 06:41:15",
       "album": {
+        "name": "Alle 40 Goed",
+        "url": "https://open.spotify.com/album/7E0mYawKN4S3u4gK0mwq88"
+      },
+      "artists": [
+        {
+          "name": "Zangeres Zonder Naam",
+          "url": "https://open.spotify.com/artist/6m9EYPGGPleNS457wrg9p9"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/00LS9wY7MHuurmWfefavb9"
+    },
+    {
+      "added_at": "2024-07-19 06:41:15",
+      "album": {
         "name": "The Story of Indo Rock, Vol. 5",
         "url": "https://open.spotify.com/album/7aRjoPQ3OjMqUQS10W8B1t"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 168786,
       "name": "Beestjes",
       "url": "https://open.spotify.com/track/5bNlDs2IvevjBJ3MH0FluN"
-    },
-    {
-      "added_at": "2024-07-19 06:41:15",
-      "album": {
-        "name": "Alle 40 Goed",
-        "url": "https://open.spotify.com/album/7E0mYawKN4S3u4gK0mwq88"
-      },
-      "artists": [
-        {
-          "name": "Zangeres Zonder Naam",
-          "url": "https://open.spotify.com/artist/6m9EYPGGPleNS457wrg9p9"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/00LS9wY7MHuurmWfefavb9"
     },
     {
       "added_at": "2024-07-19 06:41:15",

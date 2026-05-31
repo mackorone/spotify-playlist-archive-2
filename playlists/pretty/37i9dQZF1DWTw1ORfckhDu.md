@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,314 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,308 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,22 +40,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 30 | [Elämää Suurempaa](https://open.spotify.com/track/59P3bZ1wyLSZetsU2Jovmo) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Elämää Suurempaa](https://open.spotify.com/album/6NNqEWHtfa4ZTg1N5VAitK) | 3:02 |
 | 31 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
 | 32 | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT) | 3:07 |
-| 33 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
-| 34 | [Rockstar \(feat\. Janna\)](https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Rockstar \(feat\. Janna\)](https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ) | 2:54 |
+| 33 | [Rockstar \(feat\. Janna\)](https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Rockstar \(feat\. Janna\)](https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ) | 2:54 |
+| 34 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
 | 35 | [Tom Ford](https://open.spotify.com/track/52gUymoTGCj5xg0YU1kCw3) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Stallion](https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo) | 2:03 |
 | 36 | [Autobahn](https://open.spotify.com/track/4LVEvAnfjYuXn1RooKi5Mn) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Autobahn](https://open.spotify.com/album/38UgXLcxp7CY01IEcyZdzf) | 2:58 |
-| 37 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
+| 37 | [FEAR NO MAN](https://open.spotify.com/track/5pIBicwxxVfLXKiCV667YY) | [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [FEAR NO MAN](https://open.spotify.com/album/7pW18CHeRUUqZF74nfEDxO) | 1:43 |
 | 38 | [Lentoo](https://open.spotify.com/track/6660VtRfpFWAHYLV2M6oo1) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Lentoo](https://open.spotify.com/album/21lA51gDsHgzkxx2X5LhO2) | 2:19 |
-| 39 | [FEAR NO MAN](https://open.spotify.com/track/5pIBicwxxVfLXKiCV667YY) | [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [FEAR NO MAN](https://open.spotify.com/album/7pW18CHeRUUqZF74nfEDxO) | 1:43 |
+| 39 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
 | 40 | [Maailman Huipulla](https://open.spotify.com/track/39tNLJl07Dzxktiu6mKtJH) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Maailman Huipulla](https://open.spotify.com/album/1zwH2Ac1JCcbMxZbIUSh6r) | 2:36 |
 | 41 | [MVMB](https://open.spotify.com/track/2wYOgzfeAtCaLENTzkGOgg) | [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [MVMB](https://open.spotify.com/album/58lzgf4G1TY7ABMEYwU5p3) | 2:30 |
 | 42 | [Anteeks](https://open.spotify.com/track/0v5kGCRM6aBsXHhRY1mKB7) | [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [Anteeks](https://open.spotify.com/album/7ykVkX02A8Nnom9eXIG5BL) | 3:10 |
 | 43 | [Riehuu rikkoo rakastaa](https://open.spotify.com/track/14OFcRcbrnoacVCFZ2aypL) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Riehuu rikkoo rakastaa](https://open.spotify.com/album/7qZf1JEx0DXwvZzHZtpqVR) | 2:55 |
-| 44 | [Aito freak](https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Aito freak](https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn) | 2:18 |
-| 45 | [Päätä Päätä Päätä](https://open.spotify.com/track/2svYJOAWAVkCTd9oLu2iOE) | [Lakko](https://open.spotify.com/artist/48wDYb8J9emrtnfRJvYEdZ), [Herba](https://open.spotify.com/artist/4ifckgu18HJ94DG43ys4Ae) | [Päätä Päätä Päätä](https://open.spotify.com/album/35hMM1YOcRj7pLrx5FcUEq) | 3:13 |
-| 46 | [Olosuhteet](https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Olosuhteet](https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L) | 3:08 |
-| 47 | [Se ei ollu minä](https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Se ei ollu minä](https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ) | 2:10 |
-| 48 | [UUDESTAAN \(feat\. Dw\)](https://open.spotify.com/track/16XlESQD7Rp3WANPygQU7k) | [BLANKS](https://open.spotify.com/artist/2IpgPfo9HrBdYvaBQjG3aU), [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [UUDESTAAN \(feat\. Dw\)](https://open.spotify.com/album/08pkqUJ3MZ6IhEctB6TbPL) | 2:44 |
+| 44 | [Olosuhteet](https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Olosuhteet](https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L) | 3:08 |
+| 45 | [Aito freak](https://open.spotify.com/track/2DYKl588g3oqvUVoSE3utp) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Aito freak](https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn) | 2:18 |
+| 46 | [Päätä Päätä Päätä](https://open.spotify.com/track/2svYJOAWAVkCTd9oLu2iOE) | [Lakko](https://open.spotify.com/artist/48wDYb8J9emrtnfRJvYEdZ), [Herba](https://open.spotify.com/artist/4ifckgu18HJ94DG43ys4Ae) | [Päätä Päätä Päätä](https://open.spotify.com/album/35hMM1YOcRj7pLrx5FcUEq) | 3:13 |
+| 47 | [UUDESTAAN \(feat\. Dw\)](https://open.spotify.com/track/16XlESQD7Rp3WANPygQU7k) | [BLANKS](https://open.spotify.com/artist/2IpgPfo9HrBdYvaBQjG3aU), [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [UUDESTAAN \(feat\. Dw\)](https://open.spotify.com/album/08pkqUJ3MZ6IhEctB6TbPL) | 2:44 |
+| 48 | [Se ei ollu minä](https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Se ei ollu minä](https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ) | 2:10 |
 | 49 | [Pelleilly](https://open.spotify.com/track/2eJfHgk5cCQYcHjh4om5SZ) | [Röge](https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5) | [Pelleilly](https://open.spotify.com/album/16v1GWCwpx2oSFNqjCVH7o) | 2:52 |
 | 50 | [tää ei vaan oo sulle](https://open.spotify.com/track/7EZWQeAyOfpOQGVacA5Xcx) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [tää ei vaan oo sulle](https://open.spotify.com/album/768j9sCaqohBMnuDgmKc6u) | 2:25 |
 

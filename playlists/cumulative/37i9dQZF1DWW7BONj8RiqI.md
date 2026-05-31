@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Voice
 
-400 songs - 21 hr 47 min
+401 songs - 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Big Truck](https://open.spotify.com/track/6bsdIx7sYZF8LHnheDVKDy) | [Xtatik](https://open.spotify.com/artist/5szs7oPKYJGaEQv1LWwLhm) | [Heavy Duty](https://open.spotify.com/album/15aeSbiDMIDiU84GKW76Ip) | 4:10 | 2023-02-21 | 2025-01-20 |
 | [Bless This Party](https://open.spotify.com/track/0LeRnJGx13yg3jm1h2LObA) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Happy Daze Riddim](https://open.spotify.com/album/7zwjCiXWYlTYdXZ3eYw0Zb) | 3:50 | 2023-05-15 | 2025-02-07 |
 | [Blessing](https://open.spotify.com/track/1HOPBqlGgQfICLMDyQl0hR) | [Blaka Dan](https://open.spotify.com/artist/5Ni4JcnD21yTIewzA94Q1s) | [Blessing](https://open.spotify.com/album/5VDx9lhAQoXcOojXClAncN) | 3:07 | 2025-08-29 |  |
-| [Blind](https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blind](https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS) | 3:16 | 2023-05-15 |  |
+| [Blind](https://open.spotify.com/track/7bErUZsA8PjlWoubWJOAZr) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blind](https://open.spotify.com/album/2vBIHd56g3B7who55PVxqS) | 3:16 | 2023-05-15 | 2026-05-31 |
 | [Blinkin Bad](https://open.spotify.com/track/5os0fpMF0zgXbwKG8HYPew) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Gas Station Riddim](https://open.spotify.com/album/4hBtvACfUm2HTY9SkLGTBY) | 3:08 | 2022-02-24 | 2022-08-19 |
 | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/track/47JAnoEyucOxF3vHoIGs4U) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Born Wit It \(Bumpa Riddim\)](https://open.spotify.com/album/35TKuPeg7ZXBmwHDuoQ65g) | 3:22 | 2024-07-24 |  |
 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:13 | 2021-08-26 | 2023-02-22 |
@@ -349,6 +349,7 @@
 | [Swing](https://open.spotify.com/track/4QjQJ3Q6FSURBpQv2JkuU3) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Swing](https://open.spotify.com/album/6D5KUP8n6c5EoLCK4CCBps) | 3:30 | 2022-08-18 | 2023-02-22 |
 | [Swing](https://open.spotify.com/track/6dvfFB6P3Sp6gAs4afIVPR) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Swing](https://open.spotify.com/album/5HIO7M01N8Y9LoLPrgCuIZ) | 3:30 | 2022-08-18 | 2022-10-05 |
 | [SYMPTOMS](https://open.spotify.com/track/6xPovreLJAWcjphIlRZbqC) | [BENJI BEATZ](https://open.spotify.com/artist/5BKnVBJCdHSzMtQnVm92mJ), [LUNI SPARK](https://open.spotify.com/artist/6z3R7K0c755u0wuUiBVLSm), [ELECTRIFY](https://open.spotify.com/artist/6zRh0HEspjKVWT7ZbHTAce) | [BISON RIDDIM](https://open.spotify.com/album/1u5QLXe5LXgHiz7hkpSzgo) | 2:39 | 2025-06-05 | 2026-02-18 |
+| [Sé Miimii](https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [DJ SKYCEE](https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv) | [Sé Miimii](https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4) | 2:01 | 2026-05-30 |  |
 | [Tack Back](https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Tack Back](https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq) | 3:18 | 2024-07-24 |  |
 | [Take Bamboo](https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s) | [Boogy Rankss](https://open.spotify.com/artist/2QHmjFlStzFVsLeXo4nfth), [Melick](https://open.spotify.com/artist/26QL5yG54Jo5TV405TDyzP) | [Dutty Dutty Riddim](https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe) | 2:49 | 2022-02-24 |  |
 | [Tempted To Touch](https://open.spotify.com/track/0ENQCg0FziqV4VB9U2xTf5) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Soca Gold 2003](https://open.spotify.com/album/5Eg7rfQh9NtDvffZ1yyyyP) | 3:32 | 2023-02-21 |  |

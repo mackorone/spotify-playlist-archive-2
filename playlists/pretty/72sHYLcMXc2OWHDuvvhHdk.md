@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,696 songs - 6 day 13 hr 4 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,699 songs - 6 day 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2704,5 +2704,8 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2694 | [Bananas & Flannels](https://open.spotify.com/track/001d2p1A2bUG8n30IEnyYw) | [JianHere](https://open.spotify.com/artist/5HYA4GxRfxcT8hlzGOA6uY) | [I Want To Be Something](https://open.spotify.com/album/1ZkcivT2y4W6uxjwR4xSro) | 3:00 |
 | 2695 | [Unbroken](https://open.spotify.com/track/2Q7dtFYhxUBQ5qQF43ZEzr) | [Virginia Dirt](https://open.spotify.com/artist/2MYf68puCUVIovXxt7Nc0x) | [Scrub Up Good](https://open.spotify.com/album/0eqPD5z000CHb90owkVSOB) | 3:04 |
 | 2696 | [Nothing//Everything](https://open.spotify.com/track/7JPo4HuOcewMONunICPvwy) | [Noah Whiteside](https://open.spotify.com/artist/6BvQWE7rOY7Zlnl8HVtMde) | [Nothing//Everything](https://open.spotify.com/album/4BswvpHqDSSDLldBnKqKuW) | 4:15 |
+| 2697 | [Verte](https://open.spotify.com/track/5sLzHXXjhMTq59G1vU5Eky) | [DANAI](https://open.spotify.com/artist/7CSNA8GhXH16bMuXxMfvri) | [Verte](https://open.spotify.com/album/7nZVKDmsl58PBPFWgajzPw) | 3:11 |
+| 2698 | [Permission](https://open.spotify.com/track/64XniZVCRhgxyn3HVIZhn2) | [The Summer Fruits](https://open.spotify.com/artist/28x9gjrLuZt7qXjgjNOh0w) | [Permission](https://open.spotify.com/album/2MH58peDK1Rmg7vtSf7GoI) | 2:52 |
+| 2699 | [Need You To Breathe](https://open.spotify.com/track/4BSPFCTbpu919CpM7yDVXU) | [J&H](https://open.spotify.com/artist/18mmL6Dg8j6JxCXtC1rSd5), [The Voices of Reddish Blue](https://open.spotify.com/artist/4ThYSQUHr7RqgwSrH6vDRG) | [Reddish Blue](https://open.spotify.com/album/6swcnIK9JkB0pISDdVPd9s) | 4:24 |
 
-Snapshot ID: `AAALIXQERxFdcF99C0xGTGwjZ6Cjdxzh`
+Snapshot ID: `AAALJE914N1E1SWhEBipZ8nnmoOzAr9m`

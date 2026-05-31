@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Marioo
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,478 likes - 59 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,534 likes - 59 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 18 | [Kama Sio](https://open.spotify.com/track/6S920U14Kw9v5dedojzQLA) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Kama Sio](https://open.spotify.com/album/3jlIsMfVbLH2l8aS8EgDvJ) | 3:14 |
 | 19 | [Wewe](https://open.spotify.com/track/0lubOWkxW8XzWHvn05W9h9) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Wewe](https://open.spotify.com/album/6pGLKEtnPe2caApnGszFEX) | 3:30 |
 | 20 | [Bedui](https://open.spotify.com/track/5JXEL6pfOs68LSmjoipFL7) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Bedui](https://open.spotify.com/album/3mtpMHkwhgRZiomFEhSRUm) | 3:00 |
-| 21 | [Love Spell \(feat\. Iyanya\) \- Remix](https://open.spotify.com/track/6TzOABcWSO1HBMNctS6kK4) | [Itaré](https://open.spotify.com/artist/3yI6gNRof3sCjlPnUPX1Ps), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Love Spell \(feat\. Iyanya\) \[Remix\]](https://open.spotify.com/album/0MqgfeblvezNfoW239z0ji) | 3:15 |
+| 21 | [Love Spell \- Remix](https://open.spotify.com/track/6TzOABcWSO1HBMNctS6kK4) | [Itaré](https://open.spotify.com/artist/3yI6gNRof3sCjlPnUPX1Ps), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Love Spell \(Remix\)](https://open.spotify.com/album/0MqgfeblvezNfoW239z0ji) | 3:15 |
 | 22 | [Nichum \(feat\. Darassa\)](https://open.spotify.com/track/02FisdTIvwtjVyRnWaDf7K) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Nichum \(feat\. Darassa\)](https://open.spotify.com/album/4TheUCjOTTQgkYZSLvvA0M) | 3:15 |
 | 23 | [Najivunia](https://open.spotify.com/track/1u37FR1Oo0LLpjwXdGfMB9) | [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6), [Godfrey Steven](https://open.spotify.com/artist/3RJbUlHXjdGJxZNEskbv3o) | [Najivunia](https://open.spotify.com/album/6FttVul1urLyu1O7yT3MFq) | 4:11 |
 | 24 | [I Love You](https://open.spotify.com/track/3XRI2PTAJ65j7uPKuvpuNS) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [I Love You](https://open.spotify.com/album/1u4xz5MGmqYxqVMYXdvnyg) | 3:31 |

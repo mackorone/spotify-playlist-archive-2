@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "To Love",
+        "url": "https://open.spotify.com/album/75qeEXGYWh1F6pqolkQ7wt"
+      },
+      "artists": [
+        {
+          "name": "Randy Resnick",
+          "url": "https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259068,
+      "name": "Into the Fire",
+      "url": "https://open.spotify.com/track/2pfZbypE18sp9V0D4ZSYOQ"
+    },
+    {
+      "album": {
         "name": "It Is Time",
         "url": "https://open.spotify.com/album/5Pg5ViuWgWOILr8u3fjD5T"
       },

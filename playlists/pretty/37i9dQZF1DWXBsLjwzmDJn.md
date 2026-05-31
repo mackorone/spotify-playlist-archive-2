@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBsLjwzmDJn.md) - [plain]
 
 > Enjoy music from "TOKYO REVENGERS"! Ⓒ和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,634 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,638 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBsLjwzmDJn.md) - [plain]
 | 23 | [グラデーション](https://open.spotify.com/track/5jWH9i9C8haNGbyEm9vFHg) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [グラデーション](https://open.spotify.com/album/37TBI4DrZdU5Ne3wxRiSrJ) | 4:00 |
 | 24 | [名前を呼ぶよ](https://open.spotify.com/track/5jtiIP4VKerDV7eTJwB7za) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [名前を呼ぶよ](https://open.spotify.com/album/3CZJOaywz0wMS65pKt3b96) | 4:37 |
 | 25 | [Rusted Fist](https://open.spotify.com/track/6iVJ8nmplMeFDbzTAS8beI) | [花垣武道\(CV:新 祐樹\)](https://open.spotify.com/artist/3pJhPrtboWR4tr89iLVS1d) | [TVアニメ『東京リベンジャーズ』EP 01](https://open.spotify.com/album/77JMGyBpdProDdSE6raSBf) | 3:17 |
-| 26 | [六幻](https://open.spotify.com/track/3rOgjocdTLf1KlSU03muBn) | [佐野万次郎\(CV:林 勇\)](https://open.spotify.com/artist/5u5Pcr8YJeB8OxpMoxYvTE) | [TVアニメ『東京リベンジャーズ』EP 01](https://open.spotify.com/album/77JMGyBpdProDdSE6raSBf) | 5:09 |
-| 27 | [SIDEKICK](https://open.spotify.com/track/401sRDVPglfOjzyldMmlrR) | [龍宮寺 堅\(CV:福西勝也\)](https://open.spotify.com/artist/17jvoClXmCH3wLNBt0nHcn) | [TVアニメ『東京リベンジャーズ』EP 01](https://open.spotify.com/album/77JMGyBpdProDdSE6raSBf) | 3:25 |
+| 26 | [六幻](https://open.spotify.com/track/3rOgjocdTLf1KlSU03muBn) | [Manjiro Sano \(CV:Yuu Hayashi\)](https://open.spotify.com/artist/6hmu6G3WGEOi5iOhghjYBU) | [TVアニメ『東京リベンジャーズ』EP 01](https://open.spotify.com/album/77JMGyBpdProDdSE6raSBf) | 5:09 |
+| 27 | [SIDEKICK](https://open.spotify.com/track/401sRDVPglfOjzyldMmlrR) | [Ken Ryuguji \(CV:Masaya Fukunishi\)](https://open.spotify.com/artist/4B1OAM4aAucqkW5QK6JkEP) | [TVアニメ『東京リベンジャーズ』EP 01](https://open.spotify.com/album/77JMGyBpdProDdSE6raSBf) | 3:25 |
 | 28 | [BUDDY](https://open.spotify.com/track/3ubUzfOjTJP8fb4AkmyNr7) | [林田春樹\(CV:木村 昴\)](https://open.spotify.com/artist/77W8lyMZZTKQh0O0ZnvB7d), [林 良平\(CV:野津山幸宏\)](https://open.spotify.com/artist/0JYQCPWlqXQCgsg2gvs0ay) | [TVアニメ『東京リベンジャーズ』EP 01](https://open.spotify.com/album/77JMGyBpdProDdSE6raSBf) | 3:59 |
-| 29 | [Rest In Rampage](https://open.spotify.com/track/5T7MBjCL2A44KWBKMwvGJN) | [場地圭介\(CV:水中雅章\)](https://open.spotify.com/artist/2DWpexvoarRPK7snD6HxgT) | [TVアニメ『東京リベンジャーズ』EP 02](https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS) | 4:26 |
-| 30 | [I Believe](https://open.spotify.com/track/1QlCMfHSeogUqJmtZXBglY) | [松野千冬\(CV:狩野 翔\)](https://open.spotify.com/artist/5ptc6TSEqkQK6P3LkWYXzX) | [TVアニメ『東京リベンジャーズ』EP 02](https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS) | 3:21 |
+| 29 | [Rest In Rampage](https://open.spotify.com/track/5T7MBjCL2A44KWBKMwvGJN) | [Keisuke Baji \(CV:Masaaki Mizunaka\)](https://open.spotify.com/artist/0dnOSnktjKjMsUiGU8aE4F) | [TVアニメ『東京リベンジャーズ』EP 02](https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS) | 4:26 |
+| 30 | [I Believe](https://open.spotify.com/track/1QlCMfHSeogUqJmtZXBglY) | [Chifuyu Matsuno \(CV:Sho Karino\)](https://open.spotify.com/artist/3YpoR9JDNAGiujMNDA3sFZ) | [TVアニメ『東京リベンジャーズ』EP 02](https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS) | 3:21 |
 | 31 | [Blue Fire](https://open.spotify.com/track/6MsebOKYAYg1LcKvkveXQZ) | [三ツ谷 隆\(CV:松岡禎丞\)](https://open.spotify.com/artist/4ymanfBv3eUYrRFyBr4qZf) | [TVアニメ『東京リベンジャーズ』EP 02](https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS) | 3:26 |
 | 32 | [Ghosts](https://open.spotify.com/track/0jPq2XTi3O4csRkuuw3g0K) | [羽宮一虎\(CV:土岐隼一\)](https://open.spotify.com/artist/5T6TO2PYl8Kor76Ev1T6w7) | [TVアニメ『東京リベンジャーズ』EP 02](https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS) | 3:51 |
-| 33 | [Rest In Rampage \- Instrumental](https://open.spotify.com/track/4En3f5pPKxRruukvohO4rC) | [場地圭介\(CV:水中雅章\)](https://open.spotify.com/artist/2DWpexvoarRPK7snD6HxgT) | [TVアニメ『東京リベンジャーズ』EP 02](https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS) | 4:26 |
-| 34 | [I Believe \- Instrumental](https://open.spotify.com/track/4C1QYCAuIyz4FEz0fCbfzX) | [松野千冬\(CV:狩野 翔\)](https://open.spotify.com/artist/5ptc6TSEqkQK6P3LkWYXzX) | [TVアニメ『東京リベンジャーズ』EP 02](https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS) | 3:21 |
+| 33 | [Rest In Rampage \- Instrumental](https://open.spotify.com/track/4En3f5pPKxRruukvohO4rC) | [Keisuke Baji \(CV:Masaaki Mizunaka\)](https://open.spotify.com/artist/0dnOSnktjKjMsUiGU8aE4F) | [TVアニメ『東京リベンジャーズ』EP 02](https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS) | 4:26 |
+| 34 | [I Believe \- Instrumental](https://open.spotify.com/track/4C1QYCAuIyz4FEz0fCbfzX) | [Chifuyu Matsuno \(CV:Sho Karino\)](https://open.spotify.com/artist/3YpoR9JDNAGiujMNDA3sFZ) | [TVアニメ『東京リベンジャーズ』EP 02](https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS) | 3:21 |
 | 35 | [Blue Fire \- Instrumental](https://open.spotify.com/track/5db5lUWY7dfv5u5ZJG3vG3) | [三ツ谷 隆\(CV:松岡禎丞\)](https://open.spotify.com/artist/4ymanfBv3eUYrRFyBr4qZf) | [TVアニメ『東京リベンジャーズ』EP 02](https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS) | 3:26 |
 | 36 | [Ghosts \- Instrumental](https://open.spotify.com/track/7Fbwi7sW2GGE7fqpZO8xSk) | [羽宮一虎\(CV:土岐隼一\)](https://open.spotify.com/artist/5T6TO2PYl8Kor76Ev1T6w7) | [TVアニメ『東京リベンジャーズ』EP 02](https://open.spotify.com/album/04InT3ByPAmznaPvtUqJGS) | 3:51 |
 | 37 | [Paint the Town Red!](https://open.spotify.com/track/0bcKHxGGC7pwpaySLWnZLG) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [「東京リベンジャーズ」オリジナルサウンドトラック](https://open.spotify.com/album/4SirMx5jhNw5RMmA5lfHD3) | 1:55 |

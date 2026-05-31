@@ -818,7 +818,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 192558,
       "name": "Block Party",
       "url": "https://open.spotify.com/track/7hyYBmS8LeIhXjMhzHG4Ar"
@@ -5528,6 +5528,24 @@
       "duration_ms": 195407,
       "name": "Raise Your Hands",
       "url": "https://open.spotify.com/track/5iv7beL5KjBbTsilr6pZpV"
+    },
+    {
+      "album": {
+        "name": "Rave Kids",
+        "url": "https://open.spotify.com/album/4Uri1WMUN281HfpNz0vg6D"
+      },
+      "artists": [
+        {
+          "name": "Harriet Jaxxon",
+          "url": "https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158054,
+      "name": "Rave Kids",
+      "url": "https://open.spotify.com/track/0WEFilcF0zCqDatqjgut6C"
     },
     {
       "album": {

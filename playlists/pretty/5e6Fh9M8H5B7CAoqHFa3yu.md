@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,351 songs - 5 day 18 hr 44 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 322 likes - 2,354 songs - 5 day 18 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2359,5 +2359,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2349 | [I'll be back](https://open.spotify.com/track/28YNy52CqI0UwMa5n70wwA) | [Apex89](https://open.spotify.com/artist/0jdPGIACeHmp89qaOUEsWZ) | [I'll be back](https://open.spotify.com/album/31d7cMUoGxAt9bIKedgJJV) | 4:22 |
 | 2350 | [Agadir \- Radio Edit](https://open.spotify.com/track/5tv6fSuO6Z40hjtFpgMOYD) | [CARUSO](https://open.spotify.com/artist/4gPWSjh9OJolHoeTQ995Tw), [VALENZIANO](https://open.spotify.com/artist/6ZRVg1mv3nhx6METtSYaVj), [Andrea Belli](https://open.spotify.com/artist/65buRrCpNVkMbkKspjt5iR), [Dave Roy Bland](https://open.spotify.com/artist/1X3vecxOTZqDpEVb4Y4nVd) | [Agadir](https://open.spotify.com/album/0pCiPhZpmB9vCyiFt8Wi2M) | 2:10 |
 | 2351 | [Beg For Me \- JADE Remix](https://open.spotify.com/track/0JNVnPAXsNDG3Rayv0FQEZ) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Beg For Me \(Remix\)](https://open.spotify.com/album/0HBQFvlAP6dpbqrh8hNjmA) | 2:50 |
+| 2352 | [Cómo Respirar](https://open.spotify.com/track/0svv42aTlbAesTUc9Hu4y8) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Cómo Respirar](https://open.spotify.com/album/6pTVWAy8d6QaHQuW7hn8qd) | 3:25 |
+| 2353 | [Time to Forget \(Home Session\)](https://open.spotify.com/track/5E6Klq5qxudTSIhvwPvCYt) | [Apt 402](https://open.spotify.com/artist/1g2ffr30jwqhE1tepdL5jJ) | [Time to Forget \(Home Session\)](https://open.spotify.com/album/6RMIJjQU7CrgsSKosXyApZ) | 3:33 |
+| 2354 | [Beach Chair Technology Dub](https://open.spotify.com/track/4Yigb5QZkeGVeUb85S5vPA) | [Alien Trackers](https://open.spotify.com/artist/5L5HRZ5ZZENiDWIv2bPE08), [disrupt](https://open.spotify.com/artist/2gRoIdR5vwiNwds5uW3Kge), [Pablo Volt](https://open.spotify.com/artist/34MttlcoQi6VGZODd0GDBm) | [Dubs From Vortex Beach](https://open.spotify.com/album/4yP8iuNURoEAPZemwvvw0L) | 3:32 |
 
-Snapshot ID: `AAAJ/UnQ5VOu8c3dhUOYqmsbu8CCyOmh`
+Snapshot ID: `AAAKAGDyjMxLyy/acfLUaIKYJV/xcOzs`

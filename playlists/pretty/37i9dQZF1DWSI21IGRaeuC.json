@@ -1,33 +1,13 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Dean Turnley",
-  "num_followers": 83297,
+  "num_followers": 83391,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABRczS2ZfPVPgbJlNTDHZhk/X9ke",
+  "snapshot_id": "AAAAAKUX+Vembuy/bH+KYCdbfrk/IFeF",
   "tracks": [
-    {
-      "added_at": "2026-05-27 23:36:59",
-      "album": {
-        "name": "Like That (feat. DJ Dre)",
-        "url": "https://open.spotify.com/album/5ccGat4JLwq2lteVoIdiiA"
-      },
-      "artists": [
-        {
-          "name": "L.P. Rhythm",
-          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
-        },
-        {
-          "name": "DJ Dre",
-          "url": "https://open.spotify.com/artist/7nlHMb6OJZ3HPEAu7aLonU"
-        }
-      ],
-      "duration_ms": 170909,
-      "name": "Like That (feat. DJ Dre)",
-      "url": "https://open.spotify.com/track/55LA3TJnSWxefo2arVfXHJ"
-    },
     {
       "added_at": "2026-05-29 04:01:35",
       "album": {
@@ -115,6 +95,26 @@
       "duration_ms": 181108,
       "name": "Journey",
       "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
+    },
+    {
+      "added_at": "2026-05-27 23:36:59",
+      "album": {
+        "name": "Like That (feat. DJ Dre)",
+        "url": "https://open.spotify.com/album/5ccGat4JLwq2lteVoIdiiA"
+      },
+      "artists": [
+        {
+          "name": "L.P. Rhythm",
+          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
+        },
+        {
+          "name": "DJ Dre",
+          "url": "https://open.spotify.com/artist/7nlHMb6OJZ3HPEAu7aLonU"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "Like That (feat. DJ Dre)",
+      "url": "https://open.spotify.com/track/55LA3TJnSWxefo2arVfXHJ"
     },
     {
       "added_at": "2026-05-15 04:02:22",

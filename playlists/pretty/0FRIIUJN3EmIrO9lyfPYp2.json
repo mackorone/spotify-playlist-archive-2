@@ -6,8 +6,244 @@
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACf/w459/TI5Zcc2Aq0UpkoB4Yx92s",
+  "snapshot_id": "AAACgIT0RfZHOyxuklPX5B7n36Rx6/GN",
   "tracks": [
+    {
+      "added_at": "2026-05-30 21:11:41",
+      "album": {
+        "name": "erasure",
+        "url": "https://open.spotify.com/album/61bJ5t1Vgf440BrR4S0IaE"
+      },
+      "artists": [
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        },
+        {
+          "name": "ihatemyjob",
+          "url": "https://open.spotify.com/artist/56FljFqP7tSmnd0jx4lpzO"
+        }
+      ],
+      "duration_ms": 78000,
+      "name": "erasure",
+      "url": "https://open.spotify.com/track/6iZG7Rn69JFQW1GiheqhDL"
+    },
+    {
+      "added_at": "2026-05-30 21:11:41",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1MXVcmYFMHX0J2YxVyzPgD"
+      },
+      "artists": [
+        {
+          "name": "Eleftherios",
+          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
+        }
+      ],
+      "duration_ms": 103714,
+      "name": "sorry i'm not good enough",
+      "url": "https://open.spotify.com/track/1vkkny2YytycNe8IOxd0CD"
+    },
+    {
+      "added_at": "2026-05-30 21:11:41",
+      "album": {
+        "name": "subsonic",
+        "url": "https://open.spotify.com/album/3KF19LjyIg20LznqD06Dry"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "subsonic",
+      "url": "https://open.spotify.com/track/5E1WNdpdqURNOg1tuhMzUm"
+    },
+    {
+      "added_at": "2026-05-30 21:11:41",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1MXVcmYFMHX0J2YxVyzPgD"
+      },
+      "artists": [
+        {
+          "name": "Eleftherios",
+          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
+        }
+      ],
+      "duration_ms": 118618,
+      "name": "becoming",
+      "url": "https://open.spotify.com/track/0MqoTw9Aok6bTyOjqBizyd"
+    },
+    {
+      "added_at": "2026-05-30 21:11:41",
+      "album": {
+        "name": "light cycle",
+        "url": "https://open.spotify.com/album/0cTY1jdrP9SNeIozCzhn1d"
+      },
+      "artists": [
+        {
+          "name": "Piedkies",
+          "url": "https://open.spotify.com/artist/1dT2lRJatpaerhp5FEKEGo"
+        },
+        {
+          "name": "otletev",
+          "url": "https://open.spotify.com/artist/1ZMmZxkST2Vnj3kfAvk25l"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "light cycle",
+      "url": "https://open.spotify.com/track/46YJJozkvJfi80niQcrkm2"
+    },
+    {
+      "added_at": "2026-05-30 21:11:41",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1MXVcmYFMHX0J2YxVyzPgD"
+      },
+      "artists": [
+        {
+          "name": "Eleftherios",
+          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
+        }
+      ],
+      "duration_ms": 132933,
+      "name": "if i never wake up",
+      "url": "https://open.spotify.com/track/3aXKOAW4cpaDS5H1gNXLZO"
+    },
+    {
+      "added_at": "2026-05-30 21:11:41",
+      "album": {
+        "name": "loveless",
+        "url": "https://open.spotify.com/album/0upw8kHoeCKEJOS8esfefE"
+      },
+      "artists": [
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "duration_ms": 118356,
+      "name": "loveless",
+      "url": "https://open.spotify.com/track/2T9byPuhWsqgkDZgyQkrV0"
+    },
+    {
+      "added_at": "2026-05-30 21:11:41",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1MXVcmYFMHX0J2YxVyzPgD"
+      },
+      "artists": [
+        {
+          "name": "Eleftherios",
+          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
+        }
+      ],
+      "duration_ms": 125267,
+      "name": "limitless",
+      "url": "https://open.spotify.com/track/5abH5UsL4WSzPzNTtmzc9N"
+    },
+    {
+      "added_at": "2026-05-30 21:11:41",
+      "album": {
+        "name": "joywave",
+        "url": "https://open.spotify.com/album/5WcGQoKzDay7SrCJpcGnJY"
+      },
+      "artists": [
+        {
+          "name": "ohhdeer",
+          "url": "https://open.spotify.com/artist/422PA7Nujo7hN8HVbUUl2x"
+        }
+      ],
+      "duration_ms": 91344,
+      "name": "joywave",
+      "url": "https://open.spotify.com/track/7jGy1thIgNmirbL0QipDh8"
+    },
+    {
+      "added_at": "2026-05-30 21:11:41",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1MXVcmYFMHX0J2YxVyzPgD"
+      },
+      "artists": [
+        {
+          "name": "Eleftherios",
+          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "we are all alone in the end",
+      "url": "https://open.spotify.com/track/44i1IA3j4fMMOcY0PxUoQ0"
+    },
+    {
+      "added_at": "2026-05-30 21:11:41",
+      "album": {
+        "name": "how can i forget",
+        "url": "https://open.spotify.com/album/6bvYCX29cTQlof0FwkXM7X"
+      },
+      "artists": [
+        {
+          "name": "helix fracture",
+          "url": "https://open.spotify.com/artist/33FFHowZPPYyzmNhnhCMIM"
+        }
+      ],
+      "duration_ms": 109090,
+      "name": "how can i forget",
+      "url": "https://open.spotify.com/track/4w3SJh3dy2PzT52J4JmSiN"
+    },
+    {
+      "added_at": "2026-05-30 21:11:41",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1MXVcmYFMHX0J2YxVyzPgD"
+      },
+      "artists": [
+        {
+          "name": "Eleftherios",
+          "url": "https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9"
+        }
+      ],
+      "duration_ms": 133775,
+      "name": "fly away",
+      "url": "https://open.spotify.com/track/6WSOed3itRrSJGZa55NV8k"
+    },
+    {
+      "added_at": "2026-05-30 21:11:41",
+      "album": {
+        "name": "homesick",
+        "url": "https://open.spotify.com/album/4VRRRd5kZB8bfjVbOLuQXH"
+      },
+      "artists": [
+        {
+          "name": "Bluegaze",
+          "url": "https://open.spotify.com/artist/01pwFek4TL5JjzczP9lriM"
+        }
+      ],
+      "duration_ms": 128354,
+      "name": "homesick",
+      "url": "https://open.spotify.com/track/3q6Dslt6fUJ4N1RvuCth3D"
+    },
+    {
+      "added_at": "2026-05-30 21:11:41",
+      "album": {
+        "name": "Elysia",
+        "url": "https://open.spotify.com/album/4Gdi10YyYr4GgvR0fV6VeX"
+      },
+      "artists": [
+        {
+          "name": "No One Is Listening",
+          "url": "https://open.spotify.com/artist/5jIsbjAfJD4aHKLC4lRPT1"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Elysia",
+      "url": "https://open.spotify.com/track/6IfkZNnt68eiM2HfIeYR4v"
+    },
     {
       "added_at": "2026-05-23 20:05:26",
       "album": {

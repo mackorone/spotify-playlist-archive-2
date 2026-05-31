@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Alewya
 
-561 songs - 1 day 4 hr 54 min
+562 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,9 +131,10 @@
 | [Cool Kids](https://open.spotify.com/track/1KuKl8qIrUfkvtQtGn1Awo) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Cool Kids](https://open.spotify.com/album/05IcnMq0Wn025bMmbV8J9L) | 3:26 | 2022-06-24 | 2022-07-29 |
 | [Coulda Been](https://open.spotify.com/track/1odD58TbhEsdHHhLh1Apko) | [Ajet 2F](https://open.spotify.com/artist/4Ruq98a6s75FiLSMsRYwqL) | [Coulda Been](https://open.spotify.com/album/7qm0yqA8bDIZT17wHH2gzO) | 2:53 | 2024-10-03 | 2024-10-26 |
 | [Counterfeit](https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Counterfeit](https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo) | 3:12 | 2024-10-25 | 2025-04-05 |
+| [Crashing Out!](https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Crashing Out!](https://open.spotify.com/album/2flNDWDgl7QUJUX1wwsxla) | 2:33 | 2026-05-28 |  |
 | [Creole](https://open.spotify.com/track/756wXdrf4NC0uPaV8lxX8A) | [Tre Mission](https://open.spotify.com/artist/0A1RqQ9c8SDENYZPp3XcPg) | [Creole](https://open.spotify.com/album/4VP9WTf9O90gf0Re4vbuNt) | 2:29 | 2025-01-31 | 2025-04-09 |
 | [CRUSHED VELVET](https://open.spotify.com/track/5mHAhU2mrJ0WjRx818XmYS) | [BERWYN](https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR) | [DEMOTAPE/VEGA](https://open.spotify.com/album/3SucuvOplRzjCm602c5XuK) | 2:41 | 2022-06-24 | 2022-07-25 |
-| [Crystal Ball](https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Crystal Ball](https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa) | 2:34 | 2025-05-01 |  |
+| [Crystal Ball](https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Crystal Ball](https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa) | 2:34 | 2025-05-01 | 2026-05-31 |
 | [dancing](https://open.spotify.com/track/1e1CgX8nZAeCMxo7fOWasc) | [tn\_490](https://open.spotify.com/artist/1ULJBOKjmOpRsRRHP1vc2X) | [dancing](https://open.spotify.com/album/6moYJaa4jE3wS62TfuIvJ4) | 2:22 | 2024-10-10 | 2024-12-20 |
 | [Dans la hess](https://open.spotify.com/track/06nMeoeJumuAenz7XKhHYw) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Gore](https://open.spotify.com/album/7e9inFYUpFSKmTFbj2xrCS) | 2:49 | 2022-06-24 | 2022-07-29 |
 | [Dark Days](https://open.spotify.com/track/2CZK0do1yJntY27iBK3PKD) | [Che Lingo](https://open.spotify.com/artist/0xNKgWtSixAqcwJLM2c8ez), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [The Worst Generation](https://open.spotify.com/album/3eRX6QYuVXL9jux0bCDdFi) | 3:02 | 2022-07-17 | 2022-11-03 |

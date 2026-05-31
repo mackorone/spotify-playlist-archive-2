@@ -248,7 +248,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 221775,
       "name": "An Absolute Living Hell, Pt. 1",
       "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
@@ -1556,6 +1556,24 @@
       "duration_ms": 127240,
       "name": "Lifted",
       "url": "https://open.spotify.com/track/4tEdMG485b8naFRVOasiKD"
+    },
+    {
+      "album": {
+        "name": "Bloom II",
+        "url": "https://open.spotify.com/album/7qVGmNKYVBhK566xhc6Z0C"
+      },
+      "artists": [
+        {
+          "name": "Lights & Motion",
+          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Live This Moment",
+      "url": "https://open.spotify.com/track/471MksSg1ykR0CrI6ydcQQ"
     },
     {
       "album": {

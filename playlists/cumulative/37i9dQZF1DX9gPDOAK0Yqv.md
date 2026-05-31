@@ -4,12 +4,12 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-910 songs - 2 day 18 hr 43 min
+911 songs - 2 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20ms](https://open.spotify.com/track/2tMJnfs9ZcmNLweduzrvBv) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [20ms](https://open.spotify.com/album/5qVxSXNw0lk95eOSgLoWjP) | 4:37 | 2023-09-01 | 2023-09-30 |
-| [365](https://open.spotify.com/track/3gL7OwN0YWlodBBgsTlnIX) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [365](https://open.spotify.com/album/7isOH7iTC82sYKBW1lGKSc) | 3:37 | 2025-02-13 |  |
+| [365](https://open.spotify.com/track/3gL7OwN0YWlodBBgsTlnIX) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [365](https://open.spotify.com/album/7isOH7iTC82sYKBW1lGKSc) | 3:37 | 2025-02-13 | 2026-05-31 |
 | [44 \(Forget Forever\) \(Mathame Remix\)](https://open.spotify.com/track/3sQFWyTGIe1j4dyIkzKzBO) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [4444: Reborn](https://open.spotify.com/album/3hJ5n4LUTznYIsbml5gmXu) | 3:57 | 2025-01-09 | 2025-03-04 |
 | [A Cappella](https://open.spotify.com/track/3INzwnPdpDf7patNCpn6dL) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [A Cappella](https://open.spotify.com/album/1iJ79Xqyq2BTpIQsfvKQiO) | 3:10 | 2024-03-15 | 2024-10-04 |
 | [A Feeling I Miss](https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [A Feeling I Miss](https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq) | 3:21 | 2026-02-06 |  |
@@ -784,6 +784,7 @@
 | [The Drums](https://open.spotify.com/track/1oEJFi0JGHY9dyCdz4brDM) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB) | [The Drums](https://open.spotify.com/album/3FOnVRyMplcbGQfYu6NcUp) | 4:14 | 2024-11-07 | 2025-02-12 |
 | [The Duty](https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [The Duty](https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS) | 3:14 | 2023-08-04 | 2023-09-25 |
 | [The Edge](https://open.spotify.com/track/4cKZUOfF3nXZisEZ8EVJSw) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Adz](https://open.spotify.com/artist/5JQz6ekVNCeKSAYKn0HkNp), [Luke Coulson](https://open.spotify.com/artist/5ctD2yNFX7W8uWIxTvirkx) | [The Edge](https://open.spotify.com/album/2cooPo4EPTTifPKXr2Buid) | 3:46 | 2023-06-02 | 2023-11-17 |
+| [The Edge](https://open.spotify.com/track/7BG10c8LCWJKEZlPqwQDpG) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ), [Joris Delacroix](https://open.spotify.com/artist/3HRRzIZNQFus3xlUx2xKy1), [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [PACT](https://open.spotify.com/artist/5EDgmVBq5IjxAumbWRazCA) | [The Edge](https://open.spotify.com/album/42TBjNEvZ9W4Cg9QmhUSun) | 6:04 | 2026-05-28 |  |
 | [The Fall](https://open.spotify.com/track/2MxYP7fPz6IZMTSfVaJuww) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [The Fall](https://open.spotify.com/album/5cUjMv9cvwC2k0L52M9WMS) | 3:20 | 2025-01-09 | 2025-08-08 |
 | [The First Rebirth](https://open.spotify.com/track/3p97W1BwtzC8aOcTHtOxKe) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [The First Rebirth](https://open.spotify.com/album/5WZUYgzp0bkcGosnYBiG10) | 7:01 | 2023-02-10 | 2023-02-18 |
 | [The Future Is Unknown](https://open.spotify.com/track/4CvvIoMzXxXTzvGPT9nBNO) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [The Future Is Unknown](https://open.spotify.com/album/0htK1OiP8v8kU6SSNEDaal) | 4:23 | 2023-11-30 |  |

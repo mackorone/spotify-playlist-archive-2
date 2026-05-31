@@ -3069,6 +3069,36 @@
     },
     {
       "album": {
+        "name": "QMPND",
+        "url": "https://open.spotify.com/album/6AVzXJNMTCUDuEH5tI5G4L"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "BLOCKKSTAR",
+          "url": "https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "prodmelo!",
+          "url": "https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ"
+        }
+      ],
+      "date_added": "2026-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129115,
+      "name": "Dona Estela",
+      "url": "https://open.spotify.com/track/6WrdGOCsPxBsXR4UQ9SWfX"
+    },
+    {
+      "album": {
         "name": "Dope",
         "url": "https://open.spotify.com/album/6xTSy2yx1vCqHgj9l9q5WF"
       },
@@ -9236,7 +9266,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 115801,
       "name": "Ref!",
       "url": "https://open.spotify.com/track/7aPfhw5HVcha8xa4pQKRx6"

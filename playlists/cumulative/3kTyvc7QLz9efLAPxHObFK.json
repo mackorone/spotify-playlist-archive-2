@@ -5063,6 +5063,32 @@
     },
     {
       "album": {
+        "name": "BEAT GOES OFF",
+        "url": "https://open.spotify.com/album/48wea2xOB99jzbDNy1dRH0"
+      },
+      "artists": [
+        {
+          "name": "Wolverave",
+          "url": "https://open.spotify.com/artist/52tkAziCrKk8awyPXo7TnD"
+        },
+        {
+          "name": "RAVE HEAVEN",
+          "url": "https://open.spotify.com/artist/5kgp9TGuY8Qt8fwwZKn1CQ"
+        },
+        {
+          "name": "MerkMine",
+          "url": "https://open.spotify.com/artist/4EQUCTMYsKiUG8u7vErffU"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161062,
+      "name": "BEAT GOES OFF",
+      "url": "https://open.spotify.com/track/1ZlfW970nA8PDFMKYy2PQ6"
+    },
+    {
+      "album": {
         "name": "Beat Like a Drugs (HARDTECHNO)",
         "url": "https://open.spotify.com/album/6h8hIPIfStu33xxQYTK0tD"
       },

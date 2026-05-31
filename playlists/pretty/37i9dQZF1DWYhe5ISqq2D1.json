@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Featuring Japanese Singer-Songwriters. Cover: \u97f3\u7530\u96c5\u5247 Masanori Otoda\n",
-  "num_followers": 65247,
+  "num_followers": 65266,
   "original_name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",
   "owner": {
     "name": "Spotify",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-05-28 02:48:25",
       "album": {
-        "name": "cappuccino",
-        "url": "https://open.spotify.com/album/2BvQS0zGZ4CRCVTbIsIi9A"
-      },
-      "artists": [
-        {
-          "name": "kakizaki yuta",
-          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
-        }
-      ],
-      "duration_ms": 151034,
-      "name": "cappuccino",
-      "url": "https://open.spotify.com/track/0fOrNEpaPcnJ9unDn4xZTf"
-    },
-    {
-      "added_at": "2026-05-28 02:48:25",
-      "album": {
         "name": "OK! GO!",
         "url": "https://open.spotify.com/album/1cXPneXLMQLpz1ScS3VQmY"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 215958,
       "name": "OK! GO!",
       "url": "https://open.spotify.com/track/61OAIwTrH9C5oITjPOkrCD"
+    },
+    {
+      "added_at": "2026-05-28 02:48:25",
+      "album": {
+        "name": "cappuccino",
+        "url": "https://open.spotify.com/album/2BvQS0zGZ4CRCVTbIsIi9A"
+      },
+      "artists": [
+        {
+          "name": "kakizaki yuta",
+          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
+        }
+      ],
+      "duration_ms": 151034,
+      "name": "cappuccino",
+      "url": "https://open.spotify.com/track/0fOrNEpaPcnJ9unDn4xZTf"
     },
     {
       "added_at": "2026-05-28 02:48:25",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-05-28 02:48:25",
       "album": {
-        "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
-        "url": "https://open.spotify.com/album/2psksUsB4o9xBS9mArvYD0"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 127966,
-      "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
-      "url": "https://open.spotify.com/track/5BnMjmHTJgmIOhUvfE2q9B"
-    },
-    {
-      "added_at": "2026-05-28 02:48:25",
-      "album": {
         "name": "UP TO THE MINUTE MIXTAPE",
         "url": "https://open.spotify.com/album/6s6Pqnd88fCGpFrgpEr9Gg"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 227720,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/1797TbHHrKxxVyk2u5td2F"
+    },
+    {
+      "added_at": "2026-05-28 02:48:25",
+      "album": {
+        "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
+        "url": "https://open.spotify.com/album/2psksUsB4o9xBS9mArvYD0"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 127966,
+      "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
+      "url": "https://open.spotify.com/track/5BnMjmHTJgmIOhUvfE2q9B"
     },
     {
       "added_at": "2026-05-28 02:48:25",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-05-28 02:48:25",
       "album": {
-        "name": "\u7b54\u3048\u5408\u308f\u305b\u306f\u3001\u30c7\u30b6\u30fc\u30c8\u306e\u3042\u3068\u3067\u3002",
-        "url": "https://open.spotify.com/album/1x1Zc8S7fp684gDbjLRMvn"
-      },
-      "artists": [
-        {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
-        }
-      ],
-      "duration_ms": 164427,
-      "name": "\u7b54\u3048\u5408\u308f\u305b\u306f\u3001\u30c7\u30b6\u30fc\u30c8\u306e\u3042\u3068\u3067\u3002",
-      "url": "https://open.spotify.com/track/10XXsycfPNZ8xaC6vFT9CC"
-    },
-    {
-      "added_at": "2026-05-28 02:48:25",
-      "album": {
         "name": "B.G.M.",
         "url": "https://open.spotify.com/album/0kr1JL5urhQ3XG8EUdiOCt"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 182040,
       "name": "\u30cf\u30a4\u30bb\u30f3\u30b9\uff1d\u30ca\u30f3\u30bb\u30f3\u30b9",
       "url": "https://open.spotify.com/track/11JPVASzRw6bHemz5FAqwX"
+    },
+    {
+      "added_at": "2026-05-28 02:48:25",
+      "album": {
+        "name": "\u7b54\u3048\u5408\u308f\u305b\u306f\u3001\u30c7\u30b6\u30fc\u30c8\u306e\u3042\u3068\u3067\u3002",
+        "url": "https://open.spotify.com/album/1x1Zc8S7fp684gDbjLRMvn"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 164427,
+      "name": "\u7b54\u3048\u5408\u308f\u305b\u306f\u3001\u30c7\u30b6\u30fc\u30c8\u306e\u3042\u3068\u3067\u3002",
+      "url": "https://open.spotify.com/track/10XXsycfPNZ8xaC6vFT9CC"
     },
     {
       "added_at": "2026-05-28 02:48:25",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-05-28 02:48:25",
       "album": {
-        "name": "\u3088\u3042\u3051\u306e\u3046\u305f",
-        "url": "https://open.spotify.com/album/20j4mWS0JNhrXC5IW1fEwq"
-      },
-      "artists": [
-        {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
-        }
-      ],
-      "duration_ms": 253041,
-      "name": "\u308f\u304b\u308c\u306e\u3046\u305f - Wakare no uta",
-      "url": "https://open.spotify.com/track/3qsuqGRNyg6tV26MQ6gH0U"
-    },
-    {
-      "added_at": "2026-05-28 02:48:25",
-      "album": {
         "name": "\u306f\u306a\u308c\u3070\u306a\u308c",
         "url": "https://open.spotify.com/album/66XnpUJbdZSQ3bn3JY54NP"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 257963,
       "name": "\u306f\u306a\u308c\u3070\u306a\u308c",
       "url": "https://open.spotify.com/track/5vpAgWkl4NgLs6Kuq6QFBu"
+    },
+    {
+      "added_at": "2026-05-28 02:48:25",
+      "album": {
+        "name": "\u3088\u3042\u3051\u306e\u3046\u305f",
+        "url": "https://open.spotify.com/album/20j4mWS0JNhrXC5IW1fEwq"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 253041,
+      "name": "\u308f\u304b\u308c\u306e\u3046\u305f - Wakare no uta",
+      "url": "https://open.spotify.com/track/3qsuqGRNyg6tV26MQ6gH0U"
     },
     {
       "added_at": "2026-05-28 02:48:25",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-05-28 02:48:25",
       "album": {
-        "name": "\u3067\u304d\u308b\u3060\u3051/\u53cb\u9054\u304c\u3044\u308b",
-        "url": "https://open.spotify.com/album/2iccswYJOuTlPVR7KKUHMi"
-      },
-      "artists": [
-        {
-          "name": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
-          "url": "https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB"
-        }
-      ],
-      "duration_ms": 258253,
-      "name": "\u53cb\u9054\u304c\u3044\u308b",
-      "url": "https://open.spotify.com/track/5ovMnbYBgHszF21lHPNhBv"
-    },
-    {
-      "added_at": "2026-05-28 02:48:25",
-      "album": {
         "name": "\u6b7b\u3093\u3067\u3082\u4e00\u751f",
         "url": "https://open.spotify.com/album/0h1iYevrGU4NXbRtYT7k5N"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2026-05-28 02:48:25",
       "album": {
-        "name": "\u30cf\u30a4\u30e9\u30a4\u30c8",
-        "url": "https://open.spotify.com/album/5TJMrxi9aLKaFH17ocWR7U"
+        "name": "\u3067\u304d\u308b\u3060\u3051/\u53cb\u9054\u304c\u3044\u308b",
+        "url": "https://open.spotify.com/album/2iccswYJOuTlPVR7KKUHMi"
       },
       "artists": [
         {
-          "name": "Centimillimental",
-          "url": "https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw"
+          "name": "\u30ab\u30cd\u30b3\u30a2\u30e4\u30ce",
+          "url": "https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB"
         }
       ],
-      "duration_ms": 262083,
-      "name": "\u30cf\u30a4\u30e9\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/2Uv5rAuHJd5XVwgvuGVjot"
+      "duration_ms": 258253,
+      "name": "\u53cb\u9054\u304c\u3044\u308b",
+      "url": "https://open.spotify.com/track/5ovMnbYBgHszF21lHPNhBv"
     },
     {
       "added_at": "2026-05-28 02:48:25",
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2026-05-28 02:48:25",
       "album": {
-        "name": "\u82b1\u675f",
-        "url": "https://open.spotify.com/album/3OciJ2DnyvaAPRVoqOlluz"
+        "name": "\u30cf\u30a4\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/5TJMrxi9aLKaFH17ocWR7U"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "Centimillimental",
+          "url": "https://open.spotify.com/artist/0aRqEPPTtQd3pGuB4tJxVw"
         }
       ],
-      "duration_ms": 202659,
-      "name": "\u82b1\u675f",
-      "url": "https://open.spotify.com/track/6fdfN996bpKMVIM3H6JozT"
+      "duration_ms": 262083,
+      "name": "\u30cf\u30a4\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/2Uv5rAuHJd5XVwgvuGVjot"
     },
     {
       "added_at": "2026-05-28 02:48:25",
@@ -1623,6 +1607,22 @@
       "duration_ms": 198066,
       "name": "\u30b3\u30fc\u30eb\u30c9\u30b9\u30ea\u30fc\u30d7\u3001\u611b",
       "url": "https://open.spotify.com/track/3YczdCPUrmBVarUwOOuOmN"
+    },
+    {
+      "added_at": "2026-05-28 02:48:25",
+      "album": {
+        "name": "\u82b1\u675f",
+        "url": "https://open.spotify.com/album/3OciJ2DnyvaAPRVoqOlluz"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 202659,
+      "name": "\u82b1\u675f",
+      "url": "https://open.spotify.com/track/6fdfN996bpKMVIM3H6JozT"
     }
   ],
   "unique_name": "\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc Singer-Songwriter Japan",

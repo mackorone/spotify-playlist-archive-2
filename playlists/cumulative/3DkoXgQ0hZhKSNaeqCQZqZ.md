@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-535 songs - 1 day 4 hr 11 min
+537 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Drivin' To The Moonlight](https://open.spotify.com/track/49y72iLboKC9BOz3Jxnebd) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Drivin' To The Moonlight](https://open.spotify.com/album/3i5lBpOaIAeqQpg06UDKCz) | 2:24 | 2024-04-08 | 2026-03-01 |
 | [drunk](https://open.spotify.com/track/6eV31VaY2FYeCwU0w4eAfu) | [lambcatz](https://open.spotify.com/artist/1kZhT2J3MLjIr1VhgsFG8t) | [drunk](https://open.spotify.com/album/05F3IttDmLYr93iaz5ihqI) | 2:23 | 2024-02-09 | 2026-03-01 |
 | [Dystopia](https://open.spotify.com/track/1CVk5ezWggeE24hJMIBcZF) | [Pony Boy](https://open.spotify.com/artist/6RFWaB4szIPFWnJKchk8tX), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Age of Discovery](https://open.spotify.com/album/10s4l3Jffskegx8mmqeXYJ) | 6:37 | 2024-05-20 | 2026-03-01 |
+| [Eat Me Alive](https://open.spotify.com/track/1m9upNm8FhtRYfcgbSshH2) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Eat Me Alive](https://open.spotify.com/album/4ZOHqRRTl4g9CkiCiB5tIA) | 3:57 | 2026-05-30 |  |
 | [EAT SHIT AND DIE](https://open.spotify.com/track/3HdBABZV9a6A5B2xgpEVKj) | [Kookie](https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW) | [seriuos eepy](https://open.spotify.com/album/0KYLMTi4r39uNgMMC8NiaP) | 2:51 | 2026-04-01 |  |
 | [EAT YOU UP](https://open.spotify.com/track/0MKnQvS2nCL3AC6Acd4NLY) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RAVEPOP](https://open.spotify.com/album/1mLzn3i4NwDW4cOg2wJsig) | 2:00 | 2024-09-09 |  |
 | [EAT YOU UP](https://open.spotify.com/track/0MeybRC4lyCjjYRAWDd2Ht) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [EAT YOU UP + RUSSY'S BIG OL' BUTT](https://open.spotify.com/album/7Dpf0PTYYfOF4lpS4YEwEC) | 2:00 | 2024-03-24 | 2026-03-01 |
@@ -168,6 +169,7 @@
 | [Floating](https://open.spotify.com/track/4wgv8Zz3mTTEIQ6m027HL8) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Can't Let Go](https://open.spotify.com/album/4APkFZoAXlcjzbpOFQHVTk) | 3:33 | 2026-02-11 | 2026-02-14 |
 | [FLOWERS](https://open.spotify.com/track/6TExJ61OqpJYFsJ7Rdc0dV) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [TRANQUIL](https://open.spotify.com/album/1rbdkQxI6hqQ2x3vfdEEEC) | 2:55 | 2025-04-17 |  |
 | [Fly Away \- 2024 Remaster](https://open.spotify.com/track/5hyr4avaVh2OZLG7DPGhGk) | [OSVLD](https://open.spotify.com/artist/5sEPLBlT091Kqqt58rCqlM), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Fly Away \(2024 Remaster\)](https://open.spotify.com/album/7y2pnziJyQTHkr10J2zy8G) | 3:51 | 2024-02-09 | 2026-03-01 |
+| [FLY WITH ME](https://open.spotify.com/track/1rHTshEmjoQ1GBoQfXEXIQ) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4), [MANEDBENTO!](https://open.spotify.com/artist/3Tls1YrzO8LhdZjaG32MyH) | [FLY WITH ME](https://open.spotify.com/album/6sK9SWuKTDP0zyz9ZcKV8E) | 4:09 | 2026-05-30 |  |
 | [FOOL FOR YOU](https://open.spotify.com/track/4NEkuzx5DgSNL7buwNsvCi) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH), [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 2:05 | 2025-02-03 |  |
 | [Four on the Floor \(Find You\)](https://open.spotify.com/track/3AgA6iKpyh9P3ozPnDYCh5) | [Friends Without Faces](https://open.spotify.com/artist/2rBIhSqg9o2UCJizO5r3on) | [Four on the Floor \(Find You\)](https://open.spotify.com/album/0hI2u6PJpcPV7ryd8lcEaf) | 4:19 | 2025-08-01 |  |
 | [Fox Boy](https://open.spotify.com/track/6Znko1vwkXU7ebLmQ0Nl4E) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Fox Boy](https://open.spotify.com/album/68m9JFPkoH54ntMsCh2niB) | 4:00 | 2023-06-14 | 2026-03-01 |

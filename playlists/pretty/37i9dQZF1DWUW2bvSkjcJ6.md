@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Kim Petras, ZAH1DE, Die Toten Hosen, ENNIO vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,297 likes - 92 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,307 likes - 92 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 9 | [Game Time](https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Game Time \(FIFA World Cup 2026™\)](https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e) | 3:26 |
 | 10 | [Nur nach vorn](https://open.spotify.com/track/3EhwApqek8LV2AuXyv7gyR) | [Die Toten Hosen](https://open.spotify.com/artist/2F8GvYuY0lfZNYu45dY6gJ) | ["Trink aus, wir müssen gehen!“ + Bonusalbum "Alles muss raus!“](https://open.spotify.com/album/0NTGoXqOmnS9jOVl8d5jwY) | 3:27 |
 | 11 | [Right Here](https://open.spotify.com/track/7dfqSBe3I7m2GxuigR0zGk) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Right Here](https://open.spotify.com/album/5C1uiWNazII9KgQ8IkAQWM) | 1:53 |
-| 12 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
+| 12 | [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 13 | [KOH PHANGAN](https://open.spotify.com/track/6vtEtkRzXZo9LZIEfZgurx) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [GReeeN](https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd) | [KOH PHANGAN](https://open.spotify.com/album/4pDyhoCM3u4FsB6BC3e47B) | 2:37 |
 | 14 | [Auf jeden Blick](https://open.spotify.com/track/2KKkqUuYfHkGsrXQAauCkG) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Auf jeden Blick](https://open.spotify.com/album/4XiGCtxEjXexk1neyhNTLm) | 2:09 |
 | 15 | [Keiner von euch](https://open.spotify.com/track/0uYOkD73ZWOmrnIyLKRN40) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm) | [Keiner von euch](https://open.spotify.com/album/6jULIG8gq8OvqyqQ1qYMQh) | 2:58 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 36 | [EMELIANA](https://open.spotify.com/track/1z9z6dpNwjzoaIWnfFWaLL) | [Veysel](https://open.spotify.com/artist/4VuARVJiWGsH2msKTdsKdQ) | [EMELIANA](https://open.spotify.com/album/3D5RvwUJktUYZRvpnWxGf9) | 1:46 |
 | 37 | [More! More! More!](https://open.spotify.com/track/7Bk9xGSArXDiMe5Jj2zSMo) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [More! More! More!](https://open.spotify.com/album/3TWM4Bg6PuweiSPOQk0nTU) | 2:55 |
 | 38 | [Earn It](https://open.spotify.com/track/0ZQxahjWD0zQqAdWflcUfP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Earn It](https://open.spotify.com/album/6YN0lxBGhjZRm2vd6pCdtW) | 2:48 |
-| 39 | [Final Minutes](https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q) | [LMNT 115](https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Final Minutes](https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo) | 3:15 |
+| 39 | [Final Minutes](https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q) | [LMNT 115](https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Final Minutes](https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo) | 3:15 |
 | 40 | [Thug](https://open.spotify.com/track/0iZh4VcMhp8zoTlvk8HWZD) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Thug](https://open.spotify.com/album/4aEj8HrgkscnDkdu5oPyqu) | 2:25 |
 | 41 | [Don't Lose Your Head](https://open.spotify.com/track/6btPEp3yW4iSMB5ykuYJny) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Don't Lose Your Head](https://open.spotify.com/album/0JlIAgb2Wef3CMsq3Jf7JS) | 2:43 |
 | 42 | [The Wave](https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [The Wave](https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj) | 3:22 |

@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-332 songs - 19 hr 31 min
+333 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Blame You \(feat\. Dylan\)](https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Reflections](https://open.spotify.com/album/3w6tCisQHurw8IMhnTyXwM) | 3:51 | 2022-08-05 | 2024-09-07 |
 | [Bleep Tune](https://open.spotify.com/track/0ogSWd8QmVLZ3anKFB1Zjp) | [El Pablo](https://open.spotify.com/artist/7g7JHvvHIKswxFqQKM8zYs) | [Bleep Tune / Everyday](https://open.spotify.com/album/6TC324P1VoaFUsw773z9r5) | 2:56 | 2026-04-16 | 2026-05-26 |
 | [Blind Faith](https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:53 | 2023-10-13 | 2024-04-05 |
-| [Block Party](https://open.spotify.com/track/7hyYBmS8LeIhXjMhzHG4Ar) | [Shapeshifter](https://open.spotify.com/artist/4whp3jSWWaITn36r9D4ZLf) | [Block Party](https://open.spotify.com/album/5FfL0kreP6wtkZrUruTCbn) | 3:12 | 2025-05-08 |  |
+| [Block Party](https://open.spotify.com/track/7hyYBmS8LeIhXjMhzHG4Ar) | [Shapeshifter](https://open.spotify.com/artist/4whp3jSWWaITn36r9D4ZLf) | [Block Party](https://open.spotify.com/album/5FfL0kreP6wtkZrUruTCbn) | 3:12 | 2025-05-08 | 2026-05-31 |
 | [Bounce](https://open.spotify.com/track/6NqiYnOoIWenWEQjDQRKFW) | [Dan Brookes](https://open.spotify.com/artist/4Fd821g4IbBSATcjAItUMu), [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Bounce](https://open.spotify.com/album/2vzIL86NNcD5U2YzHI8aAt) | 1:56 | 2026-04-16 |  |
 | [Bounce On Da Riddim](https://open.spotify.com/track/5cHBouflUMRr6gISONA1WK) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Southby](https://open.spotify.com/artist/30UL7vK03suadfI9eqNYLA), [Emily J](https://open.spotify.com/artist/5ChprbFpHquoq5pkUUdY0v) | [Bounce On Da Riddim](https://open.spotify.com/album/0fuhcZE5IvWaSezPQU8pCw) | 2:39 | 2025-05-08 | 2025-08-23 |
 | [Break My Fall](https://open.spotify.com/track/0TLYpWsoh2KJMvjv18kTNK) | [Sudley](https://open.spotify.com/artist/56BZYfbCbGZfo1EZt3XYqn), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Break My Fall](https://open.spotify.com/album/643r3PSopySBJCfwabGiSg) | 2:17 | 2026-04-16 |  |
@@ -255,6 +255,7 @@
 | [Rage Days](https://open.spotify.com/track/6h9ckbO36zzMJ2H5GdnV7S) | [Mix'Elle](https://open.spotify.com/artist/43QGdvDr2wO4x1Y8wbeovp), [BRAVA](https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ) | [Rage Days](https://open.spotify.com/album/4KmpFnF9cHZInIXsVATOfP) | 4:05 | 2026-04-16 |  |
 | [Raise Di Alarm](https://open.spotify.com/track/5xC8aq9kmGCdwF03NThspZ) | [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl), [Benny Page](https://open.spotify.com/artist/602tBNQHNIZL6tsB2RHAV1) | [Raise Di Alarm](https://open.spotify.com/album/5ThyOWKAUT1wosv9ysDcdG) | 2:50 | 2024-04-04 | 2026-04-17 |
 | [Raise Your Hands](https://open.spotify.com/track/5iv7beL5KjBbTsilr6pZpV) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM), [SOLAH](https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ) | [Raise Your Hands / Short Stuff](https://open.spotify.com/album/5IQvDz0gS7K9rsgiKCNqTH) | 3:15 | 2026-04-16 |  |
+| [Rave Kids](https://open.spotify.com/track/0WEFilcF0zCqDatqjgut6C) | [Harriet Jaxxon](https://open.spotify.com/artist/6QnlU1E8RuDkq4wU4cUnJu) | [Rave Kids](https://open.spotify.com/album/4Uri1WMUN281HfpNz0vg6D) | 2:38 | 2026-05-29 |  |
 | [Rave Out](https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [Rave Out](https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX) | 2:28 | 2023-05-19 | 2026-04-17 |
 | [Raving In The Studio](https://open.spotify.com/track/6TAbRIua9JOTmqGMjGWe4d) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Raving In The Studio](https://open.spotify.com/album/46WNfH3xNv7P6m3WplO0mO) | 3:03 | 2025-03-06 |  |
 | [Remedies](https://open.spotify.com/track/20AgOIjyk2Qd7DLt8lkxvn) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Remedies](https://open.spotify.com/album/2WUzn7UJ7mdiu7hAYQWMYh) | 4:42 | 2022-08-05 | 2024-04-19 |

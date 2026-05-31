@@ -934,10 +934,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 251706,
       "name": "Dos Jueyes",
       "url": "https://open.spotify.com/track/79LLoATRBfeQ6XrY5sOurY"
+    },
+    {
+      "album": {
+        "name": "Dos Jueyes (En Vivo)",
+        "url": "https://open.spotify.com/album/4xaXbP2jYcgRv27QMpTXZ3"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334736,
+      "name": "Dos Jueyes - En Vivo",
+      "url": "https://open.spotify.com/track/3UpSspxIu3zGlvGsNosHRd"
     },
     {
       "album": {

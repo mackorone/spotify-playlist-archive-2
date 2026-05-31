@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Zeca Baleiro, Vicente Barreto
 
-1,200 songs - 2 day 21 hr 59 min
+1,201 songs - 2 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1001,6 +1001,7 @@
 | [Serial Lover](https://open.spotify.com/track/6rn8qBN3sv8ImQblQFHMrg) | [Sérgio Britto](https://open.spotify.com/artist/1cyHhFmWDK80pd2IOK02QI), [Érika Martins](https://open.spotify.com/artist/4dRD1vu6GiXmDOECHo6p43) | [Serial Lover](https://open.spotify.com/album/57uN0JGRfhevFpJjdw6QP6) | 2:35 | 2022-04-01 | 2022-04-28 |
 | [Será que eu tô gostando dela?](https://open.spotify.com/track/2aFrwhmO0Yw2Qh3hTE8kAX) | [Tuca Oliveira](https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k) | [Será que eu tô gostando dela?](https://open.spotify.com/album/3slNVgQpPfoynH15INuJuG) | 3:16 | 2023-02-22 | 2023-06-03 |
 | [Será que eu tô gostando dela? \(Acústico\)](https://open.spotify.com/track/2NKaOIKEoRdCitUlZXLRLA) | [Tuca Oliveira](https://open.spotify.com/artist/2VvZoYg1jc8rfndlvnn43k) | [Será que eu tô gostando dela? \(Acústico\)](https://open.spotify.com/album/6uDkd4k8tUXoXNGkuw2C7T) | 3:16 | 2023-10-20 | 2024-10-05 |
+| [Será se eu vou achar?](https://open.spotify.com/track/3surQmzInpHtbsb8GEcTNg) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Será se eu vou achar?](https://open.spotify.com/album/47Z8c4qDEzvTHiwp4IRChT) | 1:52 | 2026-05-29 |  |
 | [Seu Anjo](https://open.spotify.com/track/2DngmDYImzKt5C3l72IBuI) | [Sarah Renata](https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY) | [Seu Anjo](https://open.spotify.com/album/6kd1kQHUp1gACNL05u6jez) | 3:15 | 2023-05-12 | 2023-06-17 |
 | [Seu Romance](https://open.spotify.com/track/3p0SwRVHWFDUEfsTdEcoUH) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [MARAVILHOSAMENTE BEM](https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY) | 3:22 | 2025-05-09 | 2025-07-05 |
 | [Seu Zé e Dona Maria](https://open.spotify.com/track/2i1jPpSftCb9ON4oCseMuP) | [Léo Vieira](https://open.spotify.com/artist/0XxePJXaakWSiVVyITL408), [Duo Inhambu](https://open.spotify.com/artist/4lTbeZnB64nniCL5rV9AZj) | [Seu Zé e Dona Maria](https://open.spotify.com/album/6Y0GIsSZer326N4HNfKVwi) | 2:44 | 2024-09-06 | 2024-11-09 |
@@ -1099,7 +1100,7 @@
 | [Tristonho](https://open.spotify.com/track/3A8nX2ZPhiIeg673BWSRr1) | [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs) | [Tristonho](https://open.spotify.com/album/5CBxmCi4daAXeCQWtZcPCR) | 4:56 | 2022-04-08 | 2022-04-21 |
 | [Troco Tudo](https://open.spotify.com/track/3vT0bYuBxPIbZxfqKTvHsh) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN) | [Todas Elas](https://open.spotify.com/album/39vSWTqfZUoXfJBIm6U2eg) | 4:05 | 2025-05-16 | 2026-04-11 |
 | [Três](https://open.spotify.com/track/5NkFAh88iCq7PULpgNoBuv) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Três](https://open.spotify.com/album/2rs1t4jW9OQB4ESpTs8tMV) | 3:42 | 2022-07-15 | 2022-10-08 |
-| [Tua](https://open.spotify.com/track/7mQd6u3LBfpiRme11Pa4Yr) | [Clara Buarque](https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt), [Mari Jasca](https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp) | [Tua](https://open.spotify.com/album/3zutfiNwGhY1TtHsChMzIT) | 2:45 | 2026-05-29 |  |
+| [Tua](https://open.spotify.com/track/7mQd6u3LBfpiRme11Pa4Yr) | [Clara Buarque](https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt), [Mari Jasca](https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp) | [Tua](https://open.spotify.com/album/3zutfiNwGhY1TtHsChMzIT) | 2:45 | 2026-05-29 | 2026-05-31 |
 | [Tua Mania](https://open.spotify.com/track/6bB8o2MFqMwuZEqQz9xLkI) | [Jona Poeta](https://open.spotify.com/artist/2CUdlmUOwQQy1E4hUuAaNL) | [Tua Mania](https://open.spotify.com/album/62KeKm1nciobB61pMOfQBv) | 3:26 | 2023-09-02 | 2023-10-07 |
 | [Tudo Bateu](https://open.spotify.com/track/73V4hpSoL889KOpT22uO49) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Tudo Bateu](https://open.spotify.com/album/2JPBsl0RmL0koMHG8hzE3Z) | 3:48 | 2022-02-01 | 2022-04-16 |
 | [Tudo Maré](https://open.spotify.com/track/578lk0KGacSMilzFXofE2L) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Tudo Maré](https://open.spotify.com/album/0cXPOyHcHeHGmmqnnMbSsB) | 4:02 | 2024-11-01 | 2025-03-08 |

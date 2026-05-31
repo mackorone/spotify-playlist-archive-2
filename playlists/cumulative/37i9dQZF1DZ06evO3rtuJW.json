@@ -364,7 +364,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 154581,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/1tsDf9YBzRuAon9RgzfyOd"
@@ -4420,6 +4420,24 @@
       "duration_ms": 173565,
       "name": "Throw (feat. G Herbo)",
       "url": "https://open.spotify.com/track/4GPdoLd1cWW8vgmij3mxLb"
+    },
+    {
+      "album": {
+        "name": "Thug",
+        "url": "https://open.spotify.com/album/4aEj8HrgkscnDkdu5oPyqu"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145388,
+      "name": "Thug",
+      "url": "https://open.spotify.com/track/0iZh4VcMhp8zoTlvk8HWZD"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Gilly ",
-  "num_followers": 1993,
+  "num_followers": 1994,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-05-29 09:27:15",
       "album": {
-        "name": "Jongens van het Dorp",
-        "url": "https://open.spotify.com/album/2HdI3nwl7qMtOj4XD0SP1c"
-      },
-      "artists": [
-        {
-          "name": "Mick Spek",
-          "url": "https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi"
-        }
-      ],
-      "duration_ms": 125419,
-      "name": "Jongens van het Dorp",
-      "url": "https://open.spotify.com/track/7KOKjftx3ceSxiK9mVzIdH"
-    },
-    {
-      "added_at": "2026-05-29 09:27:15",
-      "album": {
         "name": "Stilte",
         "url": "https://open.spotify.com/album/0UupZY6rtG3oVXVwUksxCL"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 150000,
       "name": "Stilte",
       "url": "https://open.spotify.com/track/4NT1xPFPqQfjVgPgNifPBY"
+    },
+    {
+      "added_at": "2026-05-29 09:27:15",
+      "album": {
+        "name": "Jongens van het Dorp",
+        "url": "https://open.spotify.com/album/2HdI3nwl7qMtOj4XD0SP1c"
+      },
+      "artists": [
+        {
+          "name": "Mick Spek",
+          "url": "https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi"
+        }
+      ],
+      "duration_ms": 125419,
+      "name": "Jongens van het Dorp",
+      "url": "https://open.spotify.com/track/7KOKjftx3ceSxiK9mVzIdH"
     },
     {
       "added_at": "2026-05-29 09:27:15",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-05-29 09:27:15",
       "album": {
-        "name": "Money Rain",
-        "url": "https://open.spotify.com/album/7vskvCoVOcvR6UN9kIkW4M"
-      },
-      "artists": [
-        {
-          "name": "BigBobbyBitch",
-          "url": "https://open.spotify.com/artist/6eXPslCtUuNKBMxrPQhSOe"
-        }
-      ],
-      "duration_ms": 143061,
-      "name": "Money Rain",
-      "url": "https://open.spotify.com/track/6nQBeKREBjEQj7ked6fYod"
-    },
-    {
-      "added_at": "2026-05-29 09:27:15",
-      "album": {
         "name": "SKIN",
         "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 149070,
       "name": "SKIN",
       "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
+    },
+    {
+      "added_at": "2026-05-29 09:27:15",
+      "album": {
+        "name": "Money Rain",
+        "url": "https://open.spotify.com/album/7vskvCoVOcvR6UN9kIkW4M"
+      },
+      "artists": [
+        {
+          "name": "BigBobbyBitch",
+          "url": "https://open.spotify.com/artist/6eXPslCtUuNKBMxrPQhSOe"
+        }
+      ],
+      "duration_ms": 143061,
+      "name": "Money Rain",
+      "url": "https://open.spotify.com/track/6nQBeKREBjEQj7ked6fYod"
     },
     {
       "added_at": "2026-05-29 09:27:15",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-05-29 09:27:15",
       "album": {
-        "name": "leave the party . \u0741\u208a \u22b9 .",
-        "url": "https://open.spotify.com/album/2ygqPrtyd9kniEMFrjFo21"
-      },
-      "artists": [
-        {
-          "name": "Nelles",
-          "url": "https://open.spotify.com/artist/7MjBGtTl4ki7xS6w8dUlLG"
-        }
-      ],
-      "duration_ms": 201434,
-      "name": "leave the party . \u0741\u208a \u22b9 .",
-      "url": "https://open.spotify.com/track/3LcQCbXUE7v49SnCRHfEvh"
-    },
-    {
-      "added_at": "2026-05-29 09:27:15",
-      "album": {
         "name": "Snelle Planga",
         "url": "https://open.spotify.com/album/1DnQAKM1LkDyrWZAUGwLSQ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 307414,
       "name": "Snelle Planga",
       "url": "https://open.spotify.com/track/5lyCknaiX131J9SFbgLEGB"
+    },
+    {
+      "added_at": "2026-05-29 09:27:15",
+      "album": {
+        "name": "leave the party . \u0741\u208a \u22b9 .",
+        "url": "https://open.spotify.com/album/2ygqPrtyd9kniEMFrjFo21"
+      },
+      "artists": [
+        {
+          "name": "Nelles",
+          "url": "https://open.spotify.com/artist/7MjBGtTl4ki7xS6w8dUlLG"
+        }
+      ],
+      "duration_ms": 201434,
+      "name": "leave the party . \u0741\u208a \u22b9 .",
+      "url": "https://open.spotify.com/track/3LcQCbXUE7v49SnCRHfEvh"
     },
     {
       "added_at": "2026-05-29 09:27:15",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-05-29 09:27:15",
       "album": {
-        "name": "\u0130kimiz Bir Fidan\u0131z",
-        "url": "https://open.spotify.com/album/6u2vTsJZKwSqvtc1QPJBk5"
-      },
-      "artists": [
-        {
-          "name": "Duygu Alkan",
-          "url": "https://open.spotify.com/artist/2s3KgqITgw54THeZStF6MP"
-        }
-      ],
-      "duration_ms": 194925,
-      "name": "\u0130kimiz Bir Fidan\u0131z",
-      "url": "https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb"
-    },
-    {
-      "added_at": "2026-05-29 09:27:15",
-      "album": {
         "name": "kom is dromen",
         "url": "https://open.spotify.com/album/1I6KrCPnCTxGvjZEXcoN6T"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 217781,
       "name": "de franse",
       "url": "https://open.spotify.com/track/7uHsmPCZPQEfxRbzDqOJVj"
+    },
+    {
+      "added_at": "2026-05-29 09:27:15",
+      "album": {
+        "name": "\u0130kimiz Bir Fidan\u0131z",
+        "url": "https://open.spotify.com/album/6u2vTsJZKwSqvtc1QPJBk5"
+      },
+      "artists": [
+        {
+          "name": "Duygu Alkan",
+          "url": "https://open.spotify.com/artist/2s3KgqITgw54THeZStF6MP"
+        }
+      ],
+      "duration_ms": 194925,
+      "name": "\u0130kimiz Bir Fidan\u0131z",
+      "url": "https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb"
     },
     {
       "added_at": "2026-05-29 09:27:15",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-05-29 09:27:15",
       "album": {
-        "name": "Mad Again",
-        "url": "https://open.spotify.com/album/6Y6uRRoutQyDd0sMNN5PaV"
-      },
-      "artists": [
-        {
-          "name": "Doris Vosters",
-          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
-        }
-      ],
-      "duration_ms": 262224,
-      "name": "Mad Again",
-      "url": "https://open.spotify.com/track/24b08Mfa4LGOzEzAs5iuNY"
-    },
-    {
-      "added_at": "2026-05-29 09:27:15",
-      "album": {
         "name": "The Circle Ends Where It Began",
         "url": "https://open.spotify.com/album/4bLRgf3ADRInRkYznOLT3J"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 253292,
       "name": "This Change Is Bigger Than Us",
       "url": "https://open.spotify.com/track/4EG10CbmpwvUuZpCYEVd5L"
+    },
+    {
+      "added_at": "2026-05-29 09:27:15",
+      "album": {
+        "name": "Mad Again",
+        "url": "https://open.spotify.com/album/6Y6uRRoutQyDd0sMNN5PaV"
+      },
+      "artists": [
+        {
+          "name": "Doris Vosters",
+          "url": "https://open.spotify.com/artist/4g4WlP6okyN27pzkAOaT3b"
+        }
+      ],
+      "duration_ms": 262224,
+      "name": "Mad Again",
+      "url": "https://open.spotify.com/track/24b08Mfa4LGOzEzAs5iuNY"
     },
     {
       "added_at": "2026-05-29 09:27:15",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-05-29 09:27:15",
       "album": {
-        "name": "Way Out",
-        "url": "https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8"
-      },
-      "artists": [
-        {
-          "name": "Wilson A.",
-          "url": "https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt"
-    },
-    {
-      "added_at": "2026-05-29 09:27:15",
-      "album": {
         "name": "Odesa Twilight Session (live)",
         "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 190083,
       "name": "In My Arms - live",
       "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
+    },
+    {
+      "added_at": "2026-05-29 09:27:15",
+      "album": {
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/0C8G0veIQjoen0waDLfhU8"
+      },
+      "artists": [
+        {
+          "name": "Wilson A.",
+          "url": "https://open.spotify.com/artist/5brK3zQCrbjQMdfAaiwlL2"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/6k0Yi9T1s1PAlYxTDHjRZt"
     },
     {
       "added_at": "2026-05-29 09:27:15",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-05-29 09:27:15",
       "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/4bv1QCN1qUWesWbUnqKhp2"
+      },
+      "artists": [
+        {
+          "name": "Favour",
+          "url": "https://open.spotify.com/artist/3UDCA2vjy6FkE5eKQq38qo"
+        }
+      ],
+      "duration_ms": 216588,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/44vGAqIIgXYYEOg0lDnC0X"
+    },
+    {
+      "added_at": "2026-05-29 09:27:15",
+      "album": {
         "name": "deadbeat (how long)",
         "url": "https://open.spotify.com/album/5I59rSj4lUsrpoam0Ae23c"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2026-05-29 09:27:15",
       "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/4bv1QCN1qUWesWbUnqKhp2"
+        "name": "Red Car",
+        "url": "https://open.spotify.com/album/0a2L8sKFL6M1bRMAFUVjRo"
       },
       "artists": [
         {
-          "name": "Favour",
-          "url": "https://open.spotify.com/artist/3UDCA2vjy6FkE5eKQq38qo"
+          "name": "The Hook",
+          "url": "https://open.spotify.com/artist/66y3ZygySfpK16S3oZvumu"
         }
       ],
-      "duration_ms": 216588,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/44vGAqIIgXYYEOg0lDnC0X"
+      "duration_ms": 149479,
+      "name": "Red Car",
+      "url": "https://open.spotify.com/track/7beZWdJVztwfhrhobHRuYF"
     },
     {
       "added_at": "2026-05-29 09:27:15",
@@ -1011,22 +1027,6 @@
       "duration_ms": 223974,
       "name": "BAD CHI - Single Version",
       "url": "https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK"
-    },
-    {
-      "added_at": "2026-05-29 09:27:15",
-      "album": {
-        "name": "Red Car",
-        "url": "https://open.spotify.com/album/0a2L8sKFL6M1bRMAFUVjRo"
-      },
-      "artists": [
-        {
-          "name": "The Hook",
-          "url": "https://open.spotify.com/artist/66y3ZygySfpK16S3oZvumu"
-        }
-      ],
-      "duration_ms": 149479,
-      "name": "Red Car",
-      "url": "https://open.spotify.com/track/7beZWdJVztwfhrhobHRuYF"
     },
     {
       "added_at": "2026-05-29 09:27:15",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-05-29 09:27:15",
       "album": {
-        "name": "Fashion Week",
-        "url": "https://open.spotify.com/album/2kSJHERGTck6gWQYaAKFBF"
-      },
-      "artists": [
-        {
-          "name": "The Awkward",
-          "url": "https://open.spotify.com/artist/2NNlnlNi1c4gEqp3BFQ2Ci"
-        }
-      ],
-      "duration_ms": 199013,
-      "name": "Fashion Week",
-      "url": "https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk"
-    },
-    {
-      "added_at": "2026-05-29 09:27:15",
-      "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/0BTi5qLvMLhaf197QJxVNo"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 165784,
       "name": "Trepanationforthenationalhealth",
       "url": "https://open.spotify.com/track/0l6mlfoFZH3PPDTmq8ZmHT"
+    },
+    {
+      "added_at": "2026-05-29 09:27:15",
+      "album": {
+        "name": "Fashion Week",
+        "url": "https://open.spotify.com/album/2kSJHERGTck6gWQYaAKFBF"
+      },
+      "artists": [
+        {
+          "name": "The Awkward",
+          "url": "https://open.spotify.com/artist/2NNlnlNi1c4gEqp3BFQ2Ci"
+        }
+      ],
+      "duration_ms": 199013,
+      "name": "Fashion Week",
+      "url": "https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk"
     },
     {
       "added_at": "2026-05-29 09:27:15",
@@ -1271,22 +1271,18 @@
     {
       "added_at": "2026-05-29 09:27:15",
       "album": {
-        "name": "Snakes and Heartbreak(er)s",
-        "url": "https://open.spotify.com/album/5xDpr5R9HyJMRqTlwgn2mC"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
       },
       "artists": [
         {
-          "name": "Weird Youth",
-          "url": "https://open.spotify.com/artist/6TnYTsKeXWGO0BmrQtLXIC"
-        },
-        {
-          "name": "suze who?",
-          "url": "https://open.spotify.com/artist/5tb3T4SvNmr26QW5SMFAsG"
+          "name": "HOOFS",
+          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
         }
       ],
-      "duration_ms": 298693,
-      "name": "Snakes and Heartbreak(er)s",
-      "url": "https://open.spotify.com/track/3D7n0y3XWg2GKlGrR4Gxw0"
+      "duration_ms": 288000,
+      "name": "Out Of Place",
+      "url": "https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ"
     },
     {
       "added_at": "2026-05-29 09:27:15",
@@ -1311,18 +1307,22 @@
     {
       "added_at": "2026-05-29 09:27:15",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
+        "name": "Snakes and Heartbreak(er)s",
+        "url": "https://open.spotify.com/album/5xDpr5R9HyJMRqTlwgn2mC"
       },
       "artists": [
         {
-          "name": "HOOFS",
-          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
+          "name": "Weird Youth",
+          "url": "https://open.spotify.com/artist/6TnYTsKeXWGO0BmrQtLXIC"
+        },
+        {
+          "name": "suze who?",
+          "url": "https://open.spotify.com/artist/5tb3T4SvNmr26QW5SMFAsG"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Out Of Place",
-      "url": "https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ"
+      "duration_ms": 298693,
+      "name": "Snakes and Heartbreak(er)s",
+      "url": "https://open.spotify.com/track/3D7n0y3XWg2GKlGrR4Gxw0"
     },
     {
       "added_at": "2026-05-29 09:27:15",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-05-29 09:27:15",
       "album": {
-        "name": "On Top Of The World",
-        "url": "https://open.spotify.com/album/1jqfyWLvx0KxmKqj9gsw43"
-      },
-      "artists": [
-        {
-          "name": "Misha Wong",
-          "url": "https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0"
-        }
-      ],
-      "duration_ms": 164897,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/0ZBODLiUzv1lYDCxpxCtHH"
-    },
-    {
-      "added_at": "2026-05-29 09:27:15",
-      "album": {
         "name": "fight 'n kill",
         "url": "https://open.spotify.com/album/5nl20qK0CAbSLPsO4hIDeb"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2026-05-29 09:27:15",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/7db55fGyJSN2PBidi9pPM1"
+        "name": "On Top Of The World",
+        "url": "https://open.spotify.com/album/1jqfyWLvx0KxmKqj9gsw43"
       },
       "artists": [
         {
-          "name": "Faradays",
-          "url": "https://open.spotify.com/artist/7pY3f9cvVm9WNZNGJuohjD"
+          "name": "Misha Wong",
+          "url": "https://open.spotify.com/artist/53awYKecnsSi0dogUvlVv0"
         }
       ],
-      "duration_ms": 219876,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/3SD4rpJ0PeaIPzJUi0SRSE"
+      "duration_ms": 164897,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/0ZBODLiUzv1lYDCxpxCtHH"
     },
     {
       "added_at": "2026-05-29 09:27:15",
@@ -1419,6 +1403,22 @@
       "duration_ms": 213152,
       "name": "Machine (Radio Edit)",
       "url": "https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4"
+    },
+    {
+      "added_at": "2026-05-29 09:27:15",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/7db55fGyJSN2PBidi9pPM1"
+      },
+      "artists": [
+        {
+          "name": "Faradays",
+          "url": "https://open.spotify.com/artist/7pY3f9cvVm9WNZNGJuohjD"
+        }
+      ],
+      "duration_ms": 219876,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/3SD4rpJ0PeaIPzJUi0SRSE"
     },
     {
       "added_at": "2026-05-29 09:27:15",

@@ -5967,7 +5967,25 @@
     },
     {
       "album": {
-        "name": "Divididos en Argentinos Juniors",
+        "name": "En Vivo Obras",
+        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
+      },
+      "artists": [
+        {
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249144,
+      "name": "S\u00e9 Vos - En Vivo",
+      "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
+    },
+    {
+      "album": {
+        "name": "Divididos en Argentinos Juniors (En Vivo)",
         "url": "https://open.spotify.com/album/77GGWQhMJlJsr5yinJ6wGP"
       },
       "artists": [
@@ -5984,26 +6002,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 293061,
-      "name": "S\u00e9 Vos",
-      "url": "https://open.spotify.com/track/1jmIpHXJVBKZZGOHVMvg9C"
-    },
-    {
-      "album": {
-        "name": "En Vivo Obras",
-        "url": "https://open.spotify.com/album/2l7x79wrLp28jt7qRjErxT"
-      },
-      "artists": [
-        {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
-        }
-      ],
-      "date_added": "2022-04-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 249144,
       "name": "S\u00e9 Vos - En Vivo",
-      "url": "https://open.spotify.com/track/5qmap4CQeX4rNCIi2rBOJ8"
+      "url": "https://open.spotify.com/track/1jmIpHXJVBKZZGOHVMvg9C"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-1,014 songs - 2 day 13 hr 28 min
+1,015 songs - 2 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -749,6 +749,7 @@
 | [Secrets of the Heart](https://open.spotify.com/track/6gAEjLEQdZjDlEU1XiIdGi) | [Andrew Kenny](https://open.spotify.com/artist/4km4J5RDvdZZNHThRxst8G) | [Home EP](https://open.spotify.com/album/5vrRXbB4flIC0omKlwY5o4) | 2:15 | 2024-09-07 | 2024-11-14 |
 | [See What I Need](https://open.spotify.com/track/38czcDNnalIA2OfXXw7oME) | [West Coast Modern Day Punk Rock Orchestra](https://open.spotify.com/artist/2ArRDH9p0aQ4SlKUAnAbKA) | [Correspondence](https://open.spotify.com/album/7tqYJyAD2OCNX3E93VS6h2) | 4:11 | 2024-11-25 | 2025-01-12 |
 | [Seki](https://open.spotify.com/track/08qNRaYrPlY97WAslzovD9) | [The Circling Sun](https://open.spotify.com/artist/6U51RugDKVdqss9kCDx0dQ) | [Orbits](https://open.spotify.com/album/6jEQazZeVrCNhy55PIiojb) | 4:19 | 2025-10-26 | 2025-11-15 |
+| [Selene](https://open.spotify.com/track/09RFU0eg1GiM01yv0RqXa4) | [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR) | [Soliloquy](https://open.spotify.com/album/1xetZMHqk2AOXrxtW5rD9j) | 4:52 | 2026-05-30 |  |
 | [Sepiatone](https://open.spotify.com/track/2jymt1GBsUjaFNNOYDfRDo) | [Sepiatone](https://open.spotify.com/artist/04Urn5thSune3deFvSCPmk) | [In Sepiatone](https://open.spotify.com/album/1Zenx1StQqmVXFiBbVgvzz) | 2:30 | 2024-09-07 | 2024-11-14 |
 | [Serenade](https://open.spotify.com/track/2lQPJWfiPr1v3Yy9y8EfQK) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 2:58 | 2024-07-25 | 2024-09-08 |
 | [Shaded Tree](https://open.spotify.com/track/7IEpUKhnn41bBFb1RF8aBr) | [Good Sad Happy Bad](https://open.spotify.com/artist/3FPFQDA4cYbvO3O7O5rVWr) | [Shaded Tree](https://open.spotify.com/album/2cV0Yn07F5F3eU4siaQcQo) | 3:23 | 2024-09-30 | 2024-11-14 |

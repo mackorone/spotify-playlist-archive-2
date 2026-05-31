@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1227825,
+  "num_followers": 1227842,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aheFgAAAAACB7u9aPHi6XHcwxUySqGHT",
+  "snapshot_id": "ahjXAAAAAAC/gfBLTX0uX4B7KDSQzkzu",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
-        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
+        "name": "A Man And His Music",
+        "url": "https://open.spotify.com/album/6lmuhQkwg4qkjytuho7Oxz"
       },
       "artists": [
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 173226,
-      "name": "The Best Is Yet To Come",
-      "url": "https://open.spotify.com/track/3HXdy2r9RzawSwqQCwkjnP"
+      "duration_ms": 148866,
+      "name": "Fly Me To The Moon",
+      "url": "https://open.spotify.com/track/1PVTvvxpSkyJWemW1CwVVk"
     },
     {
       "added_at": null,
@@ -715,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Man And His Music",
-        "url": "https://open.spotify.com/album/6lmuhQkwg4qkjytuho7Oxz"
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
       },
       "artists": [
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 148866,
-      "name": "Fly Me To The Moon",
-      "url": "https://open.spotify.com/track/1PVTvvxpSkyJWemW1CwVVk"
+      "duration_ms": 173226,
+      "name": "The Best Is Yet To Come",
+      "url": "https://open.spotify.com/track/3HXdy2r9RzawSwqQCwkjnP"
     },
     {
       "added_at": null,

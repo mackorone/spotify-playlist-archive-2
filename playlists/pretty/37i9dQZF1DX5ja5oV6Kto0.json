@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Deto Black ",
-  "num_followers": 111714,
+  "num_followers": 111724,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -503,18 +503,22 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "impossible",
-        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
+        "name": "Modern Fantasy",
+        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
       },
       "artists": [
         {
-          "name": "Tochi Bedford",
-          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
         }
       ],
-      "duration_ms": 146666,
-      "name": "impossible",
-      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
+      "duration_ms": 212903,
+      "name": "Modern man",
+      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -535,22 +539,18 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "Modern Fantasy",
-        "url": "https://open.spotify.com/album/0GAEfooM5nj6r9JoHW3ERy"
+        "name": "impossible",
+        "url": "https://open.spotify.com/album/0djaWlKgbcCWTQkkUxgY7M"
       },
       "artists": [
         {
-          "name": "Sut\u00e9 Iwar",
-          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
-        },
-        {
-          "name": "Raytheboffin",
-          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+          "name": "Tochi Bedford",
+          "url": "https://open.spotify.com/artist/1zeUMAJrOoMdWjU0BErMzn"
         }
       ],
-      "duration_ms": 212903,
-      "name": "Modern man",
-      "url": "https://open.spotify.com/track/15aVkIio1Y8GHcSubtql0y"
+      "duration_ms": 146666,
+      "name": "impossible",
+      "url": "https://open.spotify.com/track/2vE3z6XBUsLuUgIA0MVbUe"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/2yzE0FVIVvSPPtJEWaFd7Z"
-      },
-      "artists": [
-        {
-          "name": "Fimi",
-          "url": "https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr"
-        }
-      ],
-      "duration_ms": 161289,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/1xAKbuqVAmKTH7beQe7VRJ"
-    },
-    {
-      "added_at": "2026-05-29 00:01:42",
-      "album": {
         "name": "Whine Am",
         "url": "https://open.spotify.com/album/2I2BeesRbfvWYzqxbrw4ky"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 176326,
       "name": "Whine Am",
       "url": "https://open.spotify.com/track/7GvlEVyj6lqf4FPLeomoHx"
+    },
+    {
+      "added_at": "2026-05-29 00:01:42",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/2yzE0FVIVvSPPtJEWaFd7Z"
+      },
+      "artists": [
+        {
+          "name": "Fimi",
+          "url": "https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr"
+        }
+      ],
+      "duration_ms": 161289,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/1xAKbuqVAmKTH7beQe7VRJ"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
+        "name": "Sex on the Beach",
+        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 171205,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
+    },
+    {
+      "added_at": "2026-05-29 00:01:42",
+      "album": {
         "name": "Gorilla",
         "url": "https://open.spotify.com/album/4a0B0u4XNJ80uqh3k7lmKf"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 249812,
       "name": "Gorilla",
       "url": "https://open.spotify.com/track/4aVaZe9w1fWrGERmJKPzsk"
-    },
-    {
-      "added_at": "2026-05-29 00:01:42",
-      "album": {
-        "name": "Sex on the Beach",
-        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 171205,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
+        "name": "SAME TIME",
+        "url": "https://open.spotify.com/album/1Cgfvc3oOpSa0UBlYyWqjl"
+      },
+      "artists": [
+        {
+          "name": "Chie",
+          "url": "https://open.spotify.com/artist/51aVuIZ1VIS3LTKkxXJzUm"
+        }
+      ],
+      "duration_ms": 116869,
+      "name": "SAME TIME",
+      "url": "https://open.spotify.com/track/4eiXWCDaKqPSatZwFU0HGb"
+    },
+    {
+      "added_at": "2026-05-29 00:01:42",
+      "album": {
         "name": "Second Thoughts",
         "url": "https://open.spotify.com/album/7kxDk3xWnJBvecCkH13NVw"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 137692,
       "name": "Second Thoughts",
       "url": "https://open.spotify.com/track/1LKGPZBZTeFrsSevbGqVz9"
-    },
-    {
-      "added_at": "2026-05-29 00:01:42",
-      "album": {
-        "name": "SAME TIME",
-        "url": "https://open.spotify.com/album/1Cgfvc3oOpSa0UBlYyWqjl"
-      },
-      "artists": [
-        {
-          "name": "Chie",
-          "url": "https://open.spotify.com/artist/51aVuIZ1VIS3LTKkxXJzUm"
-        }
-      ],
-      "duration_ms": 116869,
-      "name": "SAME TIME",
-      "url": "https://open.spotify.com/track/4eiXWCDaKqPSatZwFU0HGb"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
+        "name": "Clear Mind",
+        "url": "https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Clear Mind",
+      "url": "https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy"
+    },
+    {
+      "added_at": "2026-05-29 00:01:42",
+      "album": {
         "name": "Prime",
         "url": "https://open.spotify.com/album/3AYdprmzxKsiZZdYpNeJar"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 128450,
       "name": "Prime",
       "url": "https://open.spotify.com/track/3e9nDsU4bvLBcucvpuwDpB"
-    },
-    {
-      "added_at": "2026-05-29 00:01:42",
-      "album": {
-        "name": "Clear Mind",
-        "url": "https://open.spotify.com/album/5FacPr0HFLxZwXo49lhK2g"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Clear Mind",
-      "url": "https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
+        "name": "Italawa",
+        "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        }
+      ],
+      "duration_ms": 172634,
+      "name": "Italawa",
+      "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
+    },
+    {
+      "added_at": "2026-05-29 00:01:42",
+      "album": {
         "name": "My letter to Zayn",
         "url": "https://open.spotify.com/album/7aAhZv5SRsHdezmOU5o2tJ"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 237000,
       "name": "My letter to Zayn",
       "url": "https://open.spotify.com/track/5NEh3NHichnlvVYBFmgpgC"
-    },
-    {
-      "added_at": "2026-05-29 00:01:42",
-      "album": {
-        "name": "Italawa",
-        "url": "https://open.spotify.com/album/2TSeiQDOkAsmIrNuk329fn"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        }
-      ],
-      "duration_ms": 172634,
-      "name": "Italawa",
-      "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
     },
     {
       "added_at": "2026-05-29 00:01:42",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-05-29 00:01:42",
       "album": {
-        "name": "follow",
-        "url": "https://open.spotify.com/album/6j1ITgbvTcJili8nV9mDxm"
-      },
-      "artists": [
-        {
-          "name": "Lod\u00f9",
-          "url": "https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs"
-        }
-      ],
-      "duration_ms": 149708,
-      "name": "follow",
-      "url": "https://open.spotify.com/track/6slE6YZPbo5l8fM3AcRR94"
-    },
-    {
-      "added_at": "2026-05-29 00:01:42",
-      "album": {
         "name": "MOSQUITOES",
         "url": "https://open.spotify.com/album/7CudWV8gnBMZx9v3wfDjnS"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 107368,
       "name": "MOSQUITOES",
       "url": "https://open.spotify.com/track/2FIlgyfaaE6jL3o19pB1V0"
+    },
+    {
+      "added_at": "2026-05-29 00:01:42",
+      "album": {
+        "name": "follow",
+        "url": "https://open.spotify.com/album/6j1ITgbvTcJili8nV9mDxm"
+      },
+      "artists": [
+        {
+          "name": "Lod\u00f9",
+          "url": "https://open.spotify.com/artist/69kIonbxk5zdquoCvueiEs"
+        }
+      ],
+      "duration_ms": 149708,
+      "name": "follow",
+      "url": "https://open.spotify.com/track/6slE6YZPbo5l8fM3AcRR94"
     },
     {
       "added_at": "2026-05-29 00:01:42",

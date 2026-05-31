@@ -3675,6 +3675,32 @@
     },
     {
       "album": {
+        "name": "Dubs From Vortex Beach",
+        "url": "https://open.spotify.com/album/4yP8iuNURoEAPZemwvvw0L"
+      },
+      "artists": [
+        {
+          "name": "Alien Trackers",
+          "url": "https://open.spotify.com/artist/5L5HRZ5ZZENiDWIv2bPE08"
+        },
+        {
+          "name": "disrupt",
+          "url": "https://open.spotify.com/artist/2gRoIdR5vwiNwds5uW3Kge"
+        },
+        {
+          "name": "Pablo Volt",
+          "url": "https://open.spotify.com/artist/34MttlcoQi6VGZODd0GDBm"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212222,
+      "name": "Beach Chair Technology Dub",
+      "url": "https://open.spotify.com/track/4Yigb5QZkeGVeUb85S5vPA"
+    },
+    {
+      "album": {
         "name": "Beamin'",
         "url": "https://open.spotify.com/album/1D3I4a8Sp6IqCR0iPUwwV9"
       },
@@ -7680,6 +7706,24 @@
       "duration_ms": 250102,
       "name": "C\u00e1ncer",
       "url": "https://open.spotify.com/track/36fLn4nYG2rrROYirs2TW5"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Respirar",
+        "url": "https://open.spotify.com/album/6pTVWAy8d6QaHQuW7hn8qd"
+      },
+      "artists": [
+        {
+          "name": "BORDONADO",
+          "url": "https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205086,
+      "name": "C\u00f3mo Respirar",
+      "url": "https://open.spotify.com/track/0svv42aTlbAesTUc9Hu4y8"
     },
     {
       "album": {
@@ -38172,6 +38216,24 @@
       "duration_ms": 250344,
       "name": "Time Slips Away",
       "url": "https://open.spotify.com/track/65vKyPGbuAmYwdMSiRlAPg"
+    },
+    {
+      "album": {
+        "name": "Time to Forget (Home Session)",
+        "url": "https://open.spotify.com/album/6RMIJjQU7CrgsSKosXyApZ"
+      },
+      "artists": [
+        {
+          "name": "Apt 402",
+          "url": "https://open.spotify.com/artist/1g2ffr30jwqhE1tepdL5jJ"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Time to Forget (Home Session)",
+      "url": "https://open.spotify.com/track/5E6Klq5qxudTSIhvwPvCYt"
     },
     {
       "album": {

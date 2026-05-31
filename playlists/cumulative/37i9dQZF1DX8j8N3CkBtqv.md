@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Hansika Pareek, Parth Srivastava and other exciting artists.
 
-1,459 songs - 3 day 8 hr 3 min
+1,460 songs - 3 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -974,6 +974,7 @@
 | [Padosan](https://open.spotify.com/track/1eAh44Dq2pSa7SGReD5L0G) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Rais Khan Project](https://open.spotify.com/artist/0UN51NcAMkNCDJgFqoO4ou) | [Padosan](https://open.spotify.com/album/2DY2Gz77vYcvL5WRGxlw7O) | 3:17 | 2024-03-22 | 2024-05-04 |
 | [Pagal Rehne De](https://open.spotify.com/track/760LXdTukTZjtD6rZ4p2n8) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Sunday](https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m) | 2:04 | 2023-11-24 | 2024-02-03 |
 | [Pahaad](https://open.spotify.com/track/1FfejBc6pNUQbFb8WwUy4K) | [Maddy Sharma](https://open.spotify.com/artist/2xA2yHPINunPF0MvZq2sIQ) | [Pahaad](https://open.spotify.com/album/7JLjDClIZe92XRG9sz3wDg) | 2:02 | 2025-03-14 | 2025-03-22 |
+| [Pahaad](https://open.spotify.com/track/416l6p2QFJUceAZcLGuXom) | [Sukrit Thakur](https://open.spotify.com/artist/3VBJZ7z2qR2hPlMrtAeqLv) | [Pahaad](https://open.spotify.com/album/1W62yM9tWboFmnkQacHyXg) | 2:45 | 2026-05-29 |  |
 | [Pahadi Pyaar](https://open.spotify.com/track/5ebIDeI6UXzJUZMP7cvTxp) | [Liquid Lake](https://open.spotify.com/artist/59tEU0jAjUkuKWhzElmD8r), [ACHINX](https://open.spotify.com/artist/3SEsONpgPHbW9KXBWWabgm), [Gulbis Khan](https://open.spotify.com/artist/1BfNgRnl08Cf0SXoqAXKx3) | [Pahadi Pyaar](https://open.spotify.com/album/2x5Tj96nhW7aiYbf5lgTBf) | 1:34 | 2024-03-29 | 2024-05-11 |
 | [Pahadon Mein](https://open.spotify.com/track/2M2ebFEyGa12BfpVVJBcuG) | [Gursheet Khanuja](https://open.spotify.com/artist/6cGG5aDa7RjUOWbqMVlh66), [Geetesh Yadav](https://open.spotify.com/artist/2LPKu6MxNC5SRxeiHqRMrm) | [Pahadon Mein](https://open.spotify.com/album/6nO8SSVHoUq9GiOGUl1RK6) | 3:16 | 2024-06-28 | 2024-07-27 |
 | [Paint It Over Me](https://open.spotify.com/track/6zOdT0oZeeYVK8R3B6hzbg) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Paint It Over Me](https://open.spotify.com/album/3D9DLneQgDyzaSL9J9DFUe) | 3:21 | 2025-05-30 | 2025-08-06 |
@@ -1148,7 +1149,7 @@
 | [Sandook](https://open.spotify.com/track/6p9MlK7EEj9D5eiwrXhld4) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Sandook](https://open.spotify.com/album/1PRh7blZxOcmG7LSgHQ2I1) | 3:03 | 2024-11-08 | 2025-01-25 |
 | [Sang Baarishon Ke](https://open.spotify.com/track/40EKNsUKSIdbXWodemplk6) | [Samira Koppikar](https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e) | [Sang Baarishon Ke](https://open.spotify.com/album/1sCNpq0xg4Z1CYoWTsLLj2) | 3:38 | 2023-07-28 | 2023-08-25 |
 | [Sang Tere](https://open.spotify.com/track/5NsEfpHGCMmBS4sANtp5qo) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Rupin Suchak](https://open.spotify.com/artist/1VKnLalQQJZajLYjTyyYnl) | [Sang Tere](https://open.spotify.com/album/1ps7a8LjOyAqQ49OKG46Me) | 2:55 | 2023-12-01 | 2024-02-03 |
-| [Sanjha Ko Ghaam](https://open.spotify.com/track/4WTaogqXfnHw9DA1R8IIHE) | [Bipul Chettri](https://open.spotify.com/artist/3sauLUNFUPvJVWIADSYTvZ) | [Sanjha Ko Ghaam](https://open.spotify.com/album/7FKa1prVnSqkq6UFN3zHSY) | 3:03 | 2026-04-17 |  |
+| [Sanjha Ko Ghaam](https://open.spotify.com/track/4WTaogqXfnHw9DA1R8IIHE) | [Bipul Chettri](https://open.spotify.com/artist/3sauLUNFUPvJVWIADSYTvZ) | [Sanjha Ko Ghaam](https://open.spotify.com/album/7FKa1prVnSqkq6UFN3zHSY) | 3:03 | 2026-04-17 | 2026-05-31 |
 | [Sapno Ka Jahan](https://open.spotify.com/track/5WWtJ4VnGQZINSHzH3pjUn) | [Samyak Prasana](https://open.spotify.com/artist/64j5rJTsD25fTAcOiZWAiY), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Deepali Sathe](https://open.spotify.com/artist/3cGXRvJBjBJ2Uz01Tzh8kI) | [Sapno Ka Jahan](https://open.spotify.com/album/2y4dF0JhZkaE8ZBP4ejMtc) | 5:13 | 2026-02-27 | 2026-05-30 |
 | [Sapno Ki Nagri](https://open.spotify.com/track/3EVc6oZcFFFSr0hnuatPRk) | [Nihaarika](https://open.spotify.com/artist/0Bz8tfHA4pjg4FKYk4ARmR), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Haseena](https://open.spotify.com/album/0WCqZTtq0hYwfswGTyNoKq) | 2:21 | 2024-12-13 | 2025-01-11 |
 | [Saqi](https://open.spotify.com/track/29lea1IAFPvQ079hMAAeOf) | [Shye Ben Tzur](https://open.spotify.com/artist/2UCzkuXiE37VD7K123J4Tf), [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU), [The Rajasthan Express](https://open.spotify.com/artist/01LHIx3tQpDdRtuGLOI9Jk) | [Ranjha](https://open.spotify.com/album/0J2LzthCjjSrl2TnAef2Pu) | 4:29 | 2026-05-08 |  |

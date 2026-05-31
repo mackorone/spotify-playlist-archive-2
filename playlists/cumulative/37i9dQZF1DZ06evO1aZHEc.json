@@ -1199,6 +1199,32 @@
     },
     {
       "album": {
+        "name": "a crying poem",
+        "url": "https://open.spotify.com/album/2MbJeHsvvUkpKfXYpuErfZ"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        },
+        {
+          "name": "More Eaze",
+          "url": "https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY"
+        },
+        {
+          "name": "Bloodz Boi",
+          "url": "https://open.spotify.com/artist/1U21I6Gqa4EyPwf7hJ1Phg"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180561,
+      "name": "Overcast",
+      "url": "https://open.spotify.com/track/5DcrwGaCgfhnOgX56a6rss"
+    },
+    {
+      "album": {
         "name": "a softer focus",
         "url": "https://open.spotify.com/album/7C5oqO91QIUG6ZUJqQIRNv"
       },
@@ -1494,7 +1520,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 307118,
       "name": "sycamore skylight",
       "url": "https://open.spotify.com/track/6HoYOmVHh3MbPhynnidIby"
@@ -1574,7 +1600,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 268134,
       "name": "Tuufuhhoowaah",
       "url": "https://open.spotify.com/track/4Ib1aQhVD5SeIgFE0ycCBZ"
@@ -1664,7 +1690,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 77749,
       "name": "w sunset blvd",
       "url": "https://open.spotify.com/track/0QnGxzCkv13R2qIj3LOd6a"

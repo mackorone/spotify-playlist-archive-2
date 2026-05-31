@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,400 songs - 5 day 20 hr 0 min
+2,403 songs - 5 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1367,6 +1367,7 @@
 | [Nasten'ka](https://open.spotify.com/track/1FHUVKAMCFt4Ix2xYPfxo2) | [F3D UNION](https://open.spotify.com/artist/5Qbr0mp6yPcKn9t6wNPb7T) | [Nasten'ka](https://open.spotify.com/album/3ndAESiGEF0Noyn7NpvuPh) | 3:36 | 2025-07-27 |  |
 | [Nationaldagsnatt](https://open.spotify.com/track/2LT4JbAY6sK20ynnlvYWuR) | [Kitty May](https://open.spotify.com/artist/7giGeeAAUU3WUq5FH63S9T) | [Nationaldagsnatt](https://open.spotify.com/album/7fLyTlFJfUxQfKDp3urKYL) | 4:14 | 2025-06-13 |  |
 | [Naturalmente](https://open.spotify.com/track/5yiGt4wRP31JX6WaTC0o2A) | [Alece Condado](https://open.spotify.com/artist/50goLdZxUjmsQoPfpLHqWB) | [Naturalmente](https://open.spotify.com/album/0WoMtyGLPrGsDMupLfXTeE) | 3:17 | 2024-07-18 |  |
+| [Need You To Breathe](https://open.spotify.com/track/4BSPFCTbpu919CpM7yDVXU) | [J&H](https://open.spotify.com/artist/18mmL6Dg8j6JxCXtC1rSd5), [The Voices of Reddish Blue](https://open.spotify.com/artist/4ThYSQUHr7RqgwSrH6vDRG) | [Reddish Blue](https://open.spotify.com/album/6swcnIK9JkB0pISDdVPd9s) | 4:24 | 2026-05-30 |  |
 | [NEED YOUR LOVE](https://open.spotify.com/track/38dTnC22EB8ZLRvemReL5g) | [JXN STORM](https://open.spotify.com/artist/1YPcT5GlJPsWgMuFZRbE33), [Tynacity](https://open.spotify.com/artist/31DSTgOXB9Vy3k8YABw1G1) | [NEED YOUR LOVE](https://open.spotify.com/album/22w3JpzWTAUWzF3WQEkXo2) | 1:49 | 2025-05-30 |  |
 | [Needa Kratos](https://open.spotify.com/track/1TfOReUwK7EwVU95M9hq7V) | [Evenal](https://open.spotify.com/artist/4ikteLHrexhGOKL3FSV5rt) | [Needa Kratos](https://open.spotify.com/album/4P7brHBMHy0Wd8Ql2rWhHl) | 2:54 | 2025-11-06 |  |
 | [Neu Neu Neu](https://open.spotify.com/track/1vjSs6Ll2YATKkw8vJSEso) | [Lehmanski](https://open.spotify.com/artist/3PP78jZWtoEwvOfgUIgTeD), [Pele Caster](https://open.spotify.com/artist/7uwAl3zF82Dp1skkps7AyR), [Ruebi](https://open.spotify.com/artist/0M7Fjef4dLBwOI6Akb8kh9) | [Neu Neu Neu](https://open.spotify.com/album/4clbGnYFeRBc4hkxZ1joQK) | 3:46 | 2024-09-16 |  |
@@ -1532,6 +1533,7 @@
 | [Peor Error](https://open.spotify.com/track/5bkKeAmBOGuPJ146yIXAF5) | [Sebas Salazar](https://open.spotify.com/artist/59cW1VN6289l5svW1hARxo), [Sebastian Bolaños Salazar](https://open.spotify.com/artist/4MfD5Dug1Vfn6ODj5WWmPB) | [Peor Error](https://open.spotify.com/album/411VI78NWDR24ALDgRcBsS) | 2:43 | 2025-10-27 |  |
 | [Perfect \- Acoustic Version](https://open.spotify.com/track/4y3e8uWRoX16peyxX1xQxs) | [Lil Vertigo](https://open.spotify.com/artist/1fRDHdlNXC9OQQGghaJe5W) | [Perfect \(Acoustic Version\)](https://open.spotify.com/album/0MsRkaimkoZpviatWphfq3) | 3:35 | 2026-01-07 |  |
 | [Perfect Girl, Perfect Mess](https://open.spotify.com/track/3fwNFeRkNg8kINeRk1yIWF) | [Paola](https://open.spotify.com/artist/5HxfaRnTUV5cLoMX9MaF0I) | [Perfect Girl, Perfect Mess](https://open.spotify.com/album/5fOarL9eHfMikpYeOcqsFb) | 3:23 | 2025-08-06 |  |
+| [Permission](https://open.spotify.com/track/64XniZVCRhgxyn3HVIZhn2) | [The Summer Fruits](https://open.spotify.com/artist/28x9gjrLuZt7qXjgjNOh0w) | [Permission](https://open.spotify.com/album/2MH58peDK1Rmg7vtSf7GoI) | 2:52 | 2026-05-30 |  |
 | [Perspicaz](https://open.spotify.com/track/06ARSnSxReS8ET4ZNJtbr4) | [Corrupt P1cture](https://open.spotify.com/artist/2q4DGRukYWiZFccYoq9uwN) | [Royalty](https://open.spotify.com/album/5ujB4MEna73Lq0i2sK7KHp) | 2:22 | 2026-05-18 |  |
 | [Pez de tu rio](https://open.spotify.com/track/3myQO6N3LpWaZxwzu76dwb) | [Por Si Dicen Que Caí](https://open.spotify.com/artist/23LRY8EOOefJ8VsihBF6lM) | [Pez de tu rio](https://open.spotify.com/album/1Q5zUEnDuBCRG0M1XRVb7Y) | 6:22 | 2025-08-04 |  |
 | [Phoenix](https://open.spotify.com/track/7btCE1zOgG8WmWqHmLa4vS) | [冉明阳](https://open.spotify.com/artist/7gn8b6PSGLSivahI4fq0Cl) | [iSimple\(International Version\)](https://open.spotify.com/album/07YH3XfzgTWNaZ6ykJ74v9) | 3:08 | 2025-05-14 |  |
@@ -2180,6 +2182,7 @@
 | [Vengeful Victim](https://open.spotify.com/track/3AVI1kxzxSWqWXFBypqZCB) | [Johnny Crabb](https://open.spotify.com/artist/4cJ99SG5p8SMUzroLLh9cM) | [Vengeful Victim](https://open.spotify.com/album/5qdkazxkZxyd4zqoxcyvlB) | 3:42 | 2024-05-23 |  |
 | [Vente Corriendo](https://open.spotify.com/track/5seQwSOdTP0wCV6mCmf6ol) | [Situasound](https://open.spotify.com/artist/7Dz2EGchEMJd01XvgQX9CV) | [Vente Corriendo](https://open.spotify.com/album/7iUDO1aAsfxV164hO31d83) | 3:35 | 2025-06-20 |  |
 | [Venus Delator](https://open.spotify.com/track/58LxvVyGJnfbHBhnFuyTFf) | [Guinda Ramé](https://open.spotify.com/artist/66PKDyTNwe6tAYqYO6qw9g) | [Venus Delator](https://open.spotify.com/album/1MatJTTViBXhq2FO8Mabfo) | 3:19 | 2024-11-18 |  |
+| [Verte](https://open.spotify.com/track/5sLzHXXjhMTq59G1vU5Eky) | [DANAI](https://open.spotify.com/artist/7CSNA8GhXH16bMuXxMfvri) | [Verte](https://open.spotify.com/album/7nZVKDmsl58PBPFWgajzPw) | 3:11 | 2026-05-30 |  |
 | [verte sin sentir](https://open.spotify.com/track/0Tbsx8hzo2OP9akwNLV22F) | [Isac nenetl](https://open.spotify.com/artist/1Sq4O2kvbSUgTIhznAwHQT) | [verte sin sentir](https://open.spotify.com/album/1HhEstomIbkDhDZJEGvogm) | 2:43 | 2024-08-20 |  |
 | [Vertigo Dream](https://open.spotify.com/track/1yjiLGkjlg8HviA15MRqZD) | [Cerulean Creek](https://open.spotify.com/artist/53yn6AaY7Xt5uqrdNsz6yH) | [Vertigo Dream](https://open.spotify.com/album/5rIIehSGC1MNaJkH44OYMm) | 4:53 | 2024-07-26 |  |
 | [Viandante \- Instrumental](https://open.spotify.com/track/5p8GB1qne0pXeVzSz1g2Z2) | [Marco Montagnini](https://open.spotify.com/artist/5HDWwv0sIBF0ZacxXlYpu7) | [Decadenza \(Instrumental\)](https://open.spotify.com/album/7u1L1Y6KJFWMFoe0ftZHwq) | 2:44 | 2025-03-11 |  |

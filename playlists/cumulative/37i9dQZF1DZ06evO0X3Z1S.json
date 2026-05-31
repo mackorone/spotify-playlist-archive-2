@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 172728,
       "name": "Billboard",
       "url": "https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX"
@@ -656,6 +656,24 @@
       "duration_ms": 192195,
       "name": "Fly Away - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/1gwOMsYzYeRH6xjAKVzBFq"
+    },
+    {
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/4zb6suQsfAk4sIvcykjJlT"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193594,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/6ASmcWqTjvZROxoj97zzdo"
     },
     {
       "album": {

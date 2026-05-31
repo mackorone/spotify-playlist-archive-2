@@ -4,7 +4,7 @@
 
 > 
 
-3,084 songs - 6 day 15 hr 7 min
+3,085 songs - 6 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Be With U](https://open.spotify.com/track/6JPeJvJYsCdSlr7T6DC5tn) | [M\-Project](https://open.spotify.com/artist/5XQLMFJlYMppzVqRUpFP5x) | [Be With U](https://open.spotify.com/album/7FFg8lMRvTarqDCTAZZoFl) | 2:39 | 2023-02-25 |  |
 | [Beast On](https://open.spotify.com/track/2GAHnlasH84OBAIln8CdN1) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [Beast On](https://open.spotify.com/album/5NOtT8ZvVrTQIPp59wEJIE) | 3:17 | 2025-11-02 |  |
 | [BEAT DROP](https://open.spotify.com/track/6euvRHGSDbaHgbQYbJeX7S) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1) | [BEAT DROP](https://open.spotify.com/album/4tB9m8YxO1ubNOi6iYocZH) | 3:26 | 2023-04-10 |  |
+| [BEAT GOES OFF](https://open.spotify.com/track/1ZlfW970nA8PDFMKYy2PQ6) | [Wolverave](https://open.spotify.com/artist/52tkAziCrKk8awyPXo7TnD), [RAVE HEAVEN](https://open.spotify.com/artist/5kgp9TGuY8Qt8fwwZKn1CQ), [MerkMine](https://open.spotify.com/artist/4EQUCTMYsKiUG8u7vErffU) | [BEAT GOES OFF](https://open.spotify.com/album/48wea2xOB99jzbDNy1dRH0) | 2:41 | 2026-05-30 |  |
 | [Beat Like a Drugs \(HARDTECHNO\)](https://open.spotify.com/track/2X7ukGE1Z2K4Bfy2sW6Fdk) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Beat Like a Drugs \(HARDTECHNO\)](https://open.spotify.com/album/6h8hIPIfStu33xxQYTK0tD) | 2:17 | 2025-07-17 |  |
 | [Beat Of The Drum](https://open.spotify.com/track/0ryREQNVALsNonSQ24okIX) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Beat Of The Drum](https://open.spotify.com/album/6uhqXqtlxqvJGVFq6Y6Lfp) | 1:52 | 2024-10-27 |  |
 | [Beat The Drum](https://open.spotify.com/track/3kbMlpaPpuXpEM4WFV7PpF) | [Malok](https://open.spotify.com/artist/4NQLpIqkmTLrI16VEM1WEY) | [Beat The Drum](https://open.spotify.com/album/1ocdviQYO1revFkNKElU3O) | 3:40 | 2025-08-02 |  |

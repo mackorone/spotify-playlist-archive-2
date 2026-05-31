@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Mirella ja Lauri Haav, Cledos..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,262 likes - 113 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,275 likes - 113 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 46 | [uber](https://open.spotify.com/track/3LG9GSdM6R4eDH4aHhNP3P) | [sane](https://open.spotify.com/artist/4NcPJzVZA5NDH8LeHOt5Ax) | [HITMAN](https://open.spotify.com/album/5y8LBJoUTbzmmHdioCpDry) | 3:30 |
 | 47 | [Kesä on paskaa](https://open.spotify.com/track/5hqpSUXZ1v8ccLlxxCwA2y) | [Loppasuo](https://open.spotify.com/artist/2Qci9xPGkyLyAtHMeajv4i) | [Kesä on paskaa](https://open.spotify.com/album/3rWf12H6p91kupZgiQeqrQ) | 2:35 |
 | 48 | [Iho \(feat\. margiiela\)](https://open.spotify.com/track/734g0W8rdUCB5qcxrGE6sg) | [Baby Blu](https://open.spotify.com/artist/4MRUt0W6EcwLPwuH7ehu4A), [margiiela](https://open.spotify.com/artist/0k4DsAQchmnvZRtA6j7O1R) | [Mixtape Madness Vol.2](https://open.spotify.com/album/1iEXmGIFvYz3rme88RXXgc) | 2:08 |
-| 49 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
+| 49 | [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 50 | [High](https://open.spotify.com/track/1fylUPtF8NeiiZQng4F1Tf) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [High](https://open.spotify.com/album/0iTH2MjVG0ZGxQmjYXgzy5) | 2:55 |
 | 51 | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/album/6nilpOGqIruVfH4w5UDJlY) | 3:22 |
 | 52 | [LOCKED IN FREESTYLE](https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN FREESTYLE](https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN) | 1:40 |

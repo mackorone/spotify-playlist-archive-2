@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Mylène Farmer, Ariana Grande, La Mano 1.9 x Gazo x La Rvfleuze et Bebe Rexha x David Guetta au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,630 likes - 103 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,620 likes - 103 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 32 | [Starlight](https://open.spotify.com/track/64Y1COS4dg0R3Bhnc0xKtW) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Starlight](https://open.spotify.com/album/2W0TsF1BA27Hh9TLlO9415) | 3:37 |
 | 33 | [Mon Nom](https://open.spotify.com/track/260Bx637B9nxl1LNsp31ag) | [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Mon Nom](https://open.spotify.com/album/0zl9vdLIQMYiudl6tkCvbl) | 3:15 |
 | 34 | [Moitié les mêmes](https://open.spotify.com/track/5bvqmfsknupgemx1eTlOFz) | [Victorien](https://open.spotify.com/artist/4hCY20IkGa63aUoV82yMBE) | [Moitié les mêmes](https://open.spotify.com/album/6PXiQIVz7ZBKeDXMbbPoGl) | 2:58 |
-| 35 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
+| 35 | [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 36 | [MA HAINE](https://open.spotify.com/track/0aMPw8CS1MFTJZRMl4BPNI) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 2:37 |
 | 37 | [Girl](https://open.spotify.com/track/6ASmcWqTjvZROxoj97zzdo) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Girl](https://open.spotify.com/album/4zb6suQsfAk4sIvcykjJlT) | 3:13 |
 | 38 | [Euphoria](https://open.spotify.com/track/33bvTLdmKTRzFwhONUWYHo) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Mother Of Pearl](https://open.spotify.com/album/5aUTUf4xWzBVUoUHHJ3nQO) | 2:51 |

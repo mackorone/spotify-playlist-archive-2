@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIwR6L5fhDrBNWmSpy7z4VoTJxUwHf",
+  "snapshot_id": "AAAIw2nQIiT+AY21dkWMd6MyqdmBAo9Z",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -73207,6 +73207,38 @@
       "duration_ms": 160197,
       "name": "Floorfiller Miss",
       "url": "https://open.spotify.com/track/0pvfvuE8sttFh4SMPapwGh"
+    },
+    {
+      "added_at": "2026-05-30 05:52:43",
+      "album": {
+        "name": "Prado Negra",
+        "url": "https://open.spotify.com/album/3wM8FOTYqRsQI6AXpKegdi"
+      },
+      "artists": [
+        {
+          "name": "The Samu",
+          "url": "https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP"
+        }
+      ],
+      "duration_ms": 191719,
+      "name": "Prado Negra",
+      "url": "https://open.spotify.com/track/5FWAGGkvGW7pyJpCZ6LUiD"
+    },
+    {
+      "added_at": "2026-05-30 11:08:45",
+      "album": {
+        "name": "\u041f\u043e\u0442\u0435\u0440\u044f\u0442\u044c\u0441\u044f \u0432 \u0433\u043e\u043b\u043e\u0432\u0435",
+        "url": "https://open.spotify.com/album/7vEW4wxbXl9YJWlMcMGSRr"
+      },
+      "artists": [
+        {
+          "name": "\u041b\u0410\u0419\u0422\u041e\u0412\u042b\u0419 \u0422\u0420\u0410\u0423\u0420",
+          "url": "https://open.spotify.com/artist/5PwPpI0ZYVLkDltmVlBtAU"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "\u0411\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u0430\u044f \u043f\u0435\u0442\u043b\u044f",
+      "url": "https://open.spotify.com/track/4y4beiKEPsz2Bf0cft28Fz"
     }
   ],
   "unique_name": "playlist spotify free",

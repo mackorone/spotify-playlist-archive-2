@@ -3117,6 +3117,24 @@
     },
     {
       "album": {
+        "name": "The Steel II",
+        "url": "https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd"
+      },
+      "artists": [
+        {
+          "name": "The Steel",
+          "url": "https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227245,
+      "name": "Plastic World",
+      "url": "https://open.spotify.com/track/3KC2RXGgJjiizcah1Dpy60"
+    },
+    {
+      "album": {
         "name": "Future Mondays",
         "url": "https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W"
       },

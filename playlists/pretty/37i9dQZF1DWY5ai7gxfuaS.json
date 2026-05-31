@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 4508,
+  "num_followers": 4551,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "BLOODSUCKERS",
-        "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
-      },
-      "artists": [
-        {
-          "name": "Saint Agnes",
-          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
-        }
-      ],
-      "duration_ms": 202693,
-      "name": "Bloodsuckers",
-      "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Salma Hayek",
         "url": "https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 219630,
       "name": "Salma Hayek",
       "url": "https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "BLOODSUCKERS",
+        "url": "https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb"
+      },
+      "artists": [
+        {
+          "name": "Saint Agnes",
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+        }
+      ],
+      "duration_ms": 202693,
+      "name": "Bloodsuckers",
+      "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
-      },
-      "artists": [
-        {
-          "name": "Death Blooms",
-          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
-        }
-      ],
-      "duration_ms": 204848,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/1uzhNEYp4kM2OGR8danu44"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
       },
       "artists": [
         {
-          "name": "Love Is Noise",
-          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+          "name": "Death Blooms",
+          "url": "https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j"
         }
       ],
-      "duration_ms": 254722,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
+      "duration_ms": 204848,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1139,6 +1123,22 @@
       "duration_ms": 197600,
       "name": "Fuck What You Heard",
       "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "duration_ms": 254722,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Spiritual Architecture",
+        "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
+      },
+      "artists": [
+        {
+          "name": "Ashbringer",
+          "url": "https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2"
+        }
+      ],
+      "duration_ms": 562515,
+      "name": "Spiritual Architecture",
+      "url": "https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Laid to Rest (HEALTH Remix)",
         "url": "https://open.spotify.com/album/2xJ9kcY65dxKtx81YOCa1K"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 158604,
       "name": "Laid to Rest - HEALTH Remix",
       "url": "https://open.spotify.com/track/15qtJGXETtDOflM2Rvod4U"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Spiritual Architecture",
-        "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
-      },
-      "artists": [
-        {
-          "name": "Ashbringer",
-          "url": "https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2"
-        }
-      ],
-      "duration_ms": 562515,
-      "name": "Spiritual Architecture",
-      "url": "https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq"
+      },
+      "artists": [
+        {
+          "name": "King Yosef",
+          "url": "https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S"
+        }
+      ],
+      "duration_ms": 269265,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "DODGE A BULLET",
         "url": "https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 166504,
       "name": "DODGE A BULLET",
       "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/4MAo5gILZxksQ3eAF1VkEq"
-      },
-      "artists": [
-        {
-          "name": "King Yosef",
-          "url": "https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S"
-        }
-      ],
-      "duration_ms": 269265,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/49CICsKXhKYkvXobgkrutz"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Concept Unification",
-        "url": "https://open.spotify.com/album/7rWHpoEFxd6qJBRmVS2EPc"
-      },
-      "artists": [
-        {
-          "name": "Pinkish Black",
-          "url": "https://open.spotify.com/artist/60Ob6q8BCjykLBKuF5aroP"
-        }
-      ],
-      "duration_ms": 313986,
-      "name": "Concept Unification",
-      "url": "https://open.spotify.com/track/5SDEsNpIsdw4Le3ECGHAql"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "The Triumphal Chariot of Antimony",
         "url": "https://open.spotify.com/album/1EIi0O4cK8iTq79mY8PceL"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 386552,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/23Ct1DllhsUlFtGn6iK59R"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Concept Unification",
+        "url": "https://open.spotify.com/album/7rWHpoEFxd6qJBRmVS2EPc"
+      },
+      "artists": [
+        {
+          "name": "Pinkish Black",
+          "url": "https://open.spotify.com/artist/60Ob6q8BCjykLBKuF5aroP"
+        }
+      ],
+      "duration_ms": 313986,
+      "name": "Concept Unification",
+      "url": "https://open.spotify.com/track/5SDEsNpIsdw4Le3ECGHAql"
     },
     {
       "added_at": "2024-07-19 10:51:43",

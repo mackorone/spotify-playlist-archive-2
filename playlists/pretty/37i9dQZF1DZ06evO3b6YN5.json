@@ -1,12 +1,12 @@
 {
   "description": "This is Little Jesus. The essential tracks, all in one playlist.",
-  "num_followers": 36916,
+  "num_followers": 36918,
   "original_name": "This Is Little Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aheFgAAAAADQcS3Eo2IrwAOi0+0EnnzP",
+  "snapshot_id": "ahjXAAAAAACWSvnGzjDaLs+ruXfO46g0",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,26 @@
       "duration_ms": 261453,
       "name": "Disco de Oro",
       "url": "https://open.spotify.com/track/4z17lasP9rNazlyeegw5J6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9 Hacemos",
+        "url": "https://open.spotify.com/album/6OoKDX1vOapE6DFW7yRnbw"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        },
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 283408,
+      "name": "Qu\u00e9 Hacemos",
+      "url": "https://open.spotify.com/track/1caeOHzU4WjJmqSCERLPbI"
     },
     {
       "added_at": null,

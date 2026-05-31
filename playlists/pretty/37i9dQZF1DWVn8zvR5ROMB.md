@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Alana Springsteen, Riley Green, Dasha and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,181 likes - 84 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,249 likes - 84 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 112 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 117 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 108 | [I'm On Your Side](https://open.spotify.com/track/5qLAEju8e3dTbo7526FVnZ) | [Lena Byrd Miles](https://open.spotify.com/artist/6ZI4O5cl4ieBP4IQdH0fYP) | [Brand New](https://open.spotify.com/album/7palBk6YrLey31q9FcuTO4) | 5:03 |
 | 109 | [Where'd You Go](https://open.spotify.com/track/0UzISy5ELKspiS6I80xd6J) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 5:10 |
 | 110 | [Touched The Sky](https://open.spotify.com/track/1Mny8zZspJQGl32fxWiVjF) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 5:02 |
-| 111 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
-| 112 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
+| 111 | [Good Stuff](https://open.spotify.com/track/4sCLcImHftjbvpX5QNRwQp) | [The PRVLG](https://open.spotify.com/artist/2BWNNDrfiAwUHbkihc16I4) | [Good Stuff](https://open.spotify.com/album/5WLagKpxa2vUXQRTWTQ8YP) | 2:52 |
+| 112 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
+| 113 | [Feeling You](https://open.spotify.com/track/3d1Ss4hkeFGInKBK4bsmn4) | [The PRVLG](https://open.spotify.com/artist/2BWNNDrfiAwUHbkihc16I4) | [Feeling You](https://open.spotify.com/album/4mZAyAw44zEsAY7bIFneQu) | 2:46 |
+| 114 | [Cross the Line](https://open.spotify.com/track/4y8TIEtADmvxevCB7yHnYc) | [The PRVLG](https://open.spotify.com/artist/2BWNNDrfiAwUHbkihc16I4) | [Lover Girl's Playlist Pt\. 1](https://open.spotify.com/album/2AMZkJYM8t5bloohspD4y6) | 3:38 |
+| 115 | [Right Time](https://open.spotify.com/track/2ozIlUOSzWuS4xt6I0IWtW) | [The PRVLG](https://open.spotify.com/artist/2BWNNDrfiAwUHbkihc16I4) | [Lover Girl's Playlist Pt\. 1](https://open.spotify.com/album/2AMZkJYM8t5bloohspD4y6) | 2:26 |
+| 116 | [Leap of Faith](https://open.spotify.com/track/4mwSkN12OpWi1Wp9k5Oesq) | [The PRVLG](https://open.spotify.com/artist/2BWNNDrfiAwUHbkihc16I4) | [Lover Girl's Playlist Pt\. 1](https://open.spotify.com/album/2AMZkJYM8t5bloohspD4y6) | 3:00 |
+| 117 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AcS02gAAAADpJTUfmPS0QJi2JkIz8ksE`
+Snapshot ID: `AcS6egAAAADq5Za7+00Zwu/vINwbhrpN`

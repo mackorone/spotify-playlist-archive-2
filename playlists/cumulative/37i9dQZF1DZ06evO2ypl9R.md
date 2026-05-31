@@ -4,7 +4,7 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-81 songs - 7 hr 20 min
+82 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Booty Call](https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:35 | 2025-06-28 |  |
 | [Brand New Feeling \- Yoruba Soul Mix Part 1](https://open.spotify.com/track/5udRnyoTYZRr44pXCOCo7p) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Brand New Feeling \- Yoruba Soul Remixes](https://open.spotify.com/album/470ou8bSscstQ53wB8gVYE) | 7:27 | 2025-09-16 |  |
 | [Brand New Feeling \- Yoruba Soul Mix Part 2 Edit](https://open.spotify.com/track/7hEOBK13E4307YEaQFyWRQ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Brand New Feeling \(Yoruba Soul Mix Part 2 Edit\)](https://open.spotify.com/album/3Avh7w1evREcin2NEj75JG) | 6:29 | 2025-08-03 | 2025-09-16 |
-| [Build a Fire](https://open.spotify.com/track/1mq79cmhhp0bvnOmF8Blb8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Iamone](https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1) | 1:49 | 2025-06-29 |  |
+| [Build a Fire](https://open.spotify.com/track/1mq79cmhhp0bvnOmF8Blb8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Iamone](https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1) | 1:49 | 2025-06-29 | 2026-05-31 |
 | [Butterfly \- Phil Asher's Restless Soul Vocal Mix](https://open.spotify.com/track/5ZOtWpLOQ7YI8dKrxpzmc2) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Phil Asher](https://open.spotify.com/artist/1TltGeYRJu8JbGgSoisLfO) | [Butterfly \(The Remixes\)](https://open.spotify.com/album/5130TvNkBTPiErxtPYpnlZ) | 8:56 | 2026-03-16 | 2026-03-19 |
 | [Cantos a Ochun et Oya \- Juan Valentine Re\-Edit](https://open.spotify.com/track/7CmRM4JiOswdLdF28NyajZ) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Frankie Feliciano](https://open.spotify.com/artist/5KjteRQRJaHk16aYeZ08Ej), [Juan Valentine](https://open.spotify.com/artist/3GDUvKkbqtscZQHS8Zrzni) | [Cantos A Ochun et Oya \[Juan Valentine ReEdit\]](https://open.spotify.com/album/6k6ANYZCzmhF4KyKxUsPMx) | 7:05 | 2025-08-11 |  |
 | [Chocolate Puddin' \- FNX Omar Remix](https://open.spotify.com/track/67YOMcFQqySpEjD9vfPMCH) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [James Curd](https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Chocolate Puddin'](https://open.spotify.com/album/27xHJMPWVqDvcSwhuknfH7) | 6:28 | 2025-06-28 |  |
@@ -63,6 +63,7 @@
 | [My Reflection](https://open.spotify.com/track/1vQstVQMpgM26zzHUyoDTA) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Elements Beyond](https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw) | 5:24 | 2025-06-28 |  |
 | [Natives Tongue](https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Natives Tongue](https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl) | 3:56 | 2025-06-28 |  |
 | [No Way](https://open.spotify.com/track/1munpHmR7jwdF2X7OJrZ9U) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 6:01 | 2025-08-23 | 2026-05-29 |
+| [Oia In Winter](https://open.spotify.com/track/6Rgn51oKJyCcjLQoPAAIrW) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Aquarian Moon](https://open.spotify.com/album/7L9DbyxlXNlTwrtsVBTYuy) | 4:21 | 2026-05-31 |  |
 | [Plantation Earth](https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 4:18 | 2025-06-28 |  |
 | [Poh's Devotion](https://open.spotify.com/track/5OcUpKX9VeYwbJp6i1e3aC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Ache'](https://open.spotify.com/album/2lvRr5UqUBPPiDr80JFZP4) | 1:37 | 2026-03-08 | 2026-05-12 |
 | [Pride \(Main Mix\)](https://open.spotify.com/track/6g2O54hw97iNV0Y9kXdrAP) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Nadirah Shakoor](https://open.spotify.com/artist/6NxIOj0bsCWjW5mJGDEFwy) | [Pride](https://open.spotify.com/album/6KV80D3ILcPYRKetKucQ68) | 6:28 | 2025-06-28 |  |

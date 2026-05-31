@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 527555,
+  "num_followers": 527675,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aheFgAAAAADcbZk3AroUX8KAYJTC5DrF",
+  "snapshot_id": "ahjXAAAAAAAxVu221oxyrVa+OqQ5OhX6",
   "tracks": [
     {
       "added_at": null,
@@ -758,15 +758,11 @@
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 119856,
-      "name": "Brujer\u00eda - En Vivo Desde la Plaza de Toros la M\u00e9xico",
-      "url": "https://open.spotify.com/track/6997oOnKPvYwGCLRIFyMbW"
+      "duration_ms": 174071,
+      "name": "Dime - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/3qLOy8BOZKF68TYNLJ8SAu"
     },
     {
       "added_at": null,
@@ -830,11 +826,15 @@
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 174071,
-      "name": "Dime - En Vivo Desde la Plaza de Toros la M\u00e9xico",
-      "url": "https://open.spotify.com/track/3qLOy8BOZKF68TYNLJ8SAu"
+      "duration_ms": 119856,
+      "name": "Brujer\u00eda - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/6997oOnKPvYwGCLRIFyMbW"
     },
     {
       "added_at": null,

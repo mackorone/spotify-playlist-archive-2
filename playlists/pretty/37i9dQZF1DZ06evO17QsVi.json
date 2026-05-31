@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1233523,
+  "num_followers": 1233575,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aheFgAAAAAD0DVPrei1Hoe8sKT9npNty",
+  "snapshot_id": "ahjXAAAAAAAaYPbpvEXWndwvNw9nYfW/",
   "tracks": [
     {
       "added_at": null,
@@ -907,6 +907,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loyal To The Game",
+        "url": "https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Soldier Like Me",
+      "url": "https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duets: The Final Chapter",
         "url": "https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 241400,
       "name": "Living in Pain (feat. 2Pac, Mary J. Blige & Nas)",
       "url": "https://open.spotify.com/track/37ZBmAekfkMcg6TQSo1fkL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loyal To The Game",
-        "url": "https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "Soldier Like Me",
-      "url": "https://open.spotify.com/track/36UjTTrSwaAqLkAlf2Ooc4"
     }
   ],
   "unique_name": "This Is 2Pac",

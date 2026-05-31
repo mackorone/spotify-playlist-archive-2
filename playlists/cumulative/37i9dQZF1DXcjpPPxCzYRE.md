@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-532 songs - 1 day 6 hr 13 min
+534 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,7 +343,7 @@
 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 | 2023-04-20 | 2024-04-19 |
 | [No Se Preocupe](https://open.spotify.com/track/5kxINGPGRziL4ja8KjBoAN) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [PO2054AZ \(Vol.II\)](https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA) | 3:40 | 2024-12-23 | 2025-03-07 |
 | [No tenemos tiempo](https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE) | [Lía Luque](https://open.spotify.com/artist/0FHwXD2qLe7i1TReZjztpj) | [No tenemos tiempo](https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu) | 3:32 | 2024-10-24 |  |
-| [No volverán](https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h) | [Xenia](https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR) | [Dollhouse](https://open.spotify.com/album/7KyMspVcsozaqonHmMoQVy) | 2:56 | 2026-03-26 |  |
+| [No volverán](https://open.spotify.com/track/3mE3e1YEIgUCzvoImXDu0h) | [Xenia](https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR) | [Dollhouse](https://open.spotify.com/album/7KyMspVcsozaqonHmMoQVy) | 2:56 | 2026-03-26 | 2026-05-31 |
 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-10-24 | 2025-08-07 |
 | [Northern Attitude](https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:27 | 2024-03-04 | 2024-05-03 |
 | [Northern Sky](https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5) | 3:44 | 2022-11-11 | 2024-04-19 |
@@ -440,6 +440,7 @@
 | [Someone You Loved](https://open.spotify.com/track/3dCC7aodARJimlvDnlh1mo) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [NOW That's What I Call Music, Vol\. 71](https://open.spotify.com/album/6Xo8vxClsqZvYUXCgPuEcB) | 2:59 | 2023-12-28 | 2024-01-29 |
 | [Someone You Loved](https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Breach](https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y) | 3:02 | 2022-11-11 | 2025-06-27 |
 | [something in the wind](https://open.spotify.com/track/569YPSCMpfNJRM47SA8K0C) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [when i paint my masterpiece](https://open.spotify.com/album/7Ad33SfmCrwQ8sNL5YJVAl) | 2:35 | 2025-08-21 | 2025-09-18 |
+| [son de tu talla mis brazos](https://open.spotify.com/track/0qXDb5qvwZcMsMST0P2Ynq) | [Jude C](https://open.spotify.com/artist/0JNOZjSNqLyeSFf4L87RNO), [mita](https://open.spotify.com/artist/4lhVlEY2reX41rKxxuhhX8), [ThePauSing](https://open.spotify.com/artist/7pqkBxRJvj8NfGe8yDOXIQ) | [HOY SALDRÉ por si sales](https://open.spotify.com/album/6S7xuxL2nlvbV7Zx3Vz1CH) | 2:51 | 2026-05-28 |  |
 | [Song For You](https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:58 | 2022-11-11 |  |
 | [SOPHIA](https://open.spotify.com/track/59lGrz68PP8oxZ0UTJtej5) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [SOPHIA](https://open.spotify.com/album/77R6W0mK0nlkpm698gAfVu) | 3:04 | 2025-02-25 | 2025-04-01 |
 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 | 2023-06-09 | 2023-07-07 |
@@ -455,6 +456,7 @@
 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:56 | 2022-11-11 | 2024-04-19 |
 | [SUDANDO](https://open.spotify.com/track/467bCbzFtT127cI2WM9rNU) | [Confeti de Odio](https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ) | [SUDANDO](https://open.spotify.com/album/1MZVcuVoxAZbC4C6KKePRR) | 1:57 | 2024-07-12 | 2024-08-24 |
 | [Sunsets For Somebody Else](https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:30 | 2022-11-11 | 2023-03-01 |
+| [Supernova](https://open.spotify.com/track/19hOu7GyeG1YwiyNvSfaf7) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [La Frontera](https://open.spotify.com/album/68M19FS9VdSxdSPl5uzUWt) | 2:37 | 2026-05-28 |  |
 | [surubí](https://open.spotify.com/track/5U4P3PbG2SUazQgoEneybe) | [Daniel Boudzali](https://open.spotify.com/artist/4eaFfMoSIsblL3UN33ucQq) | [surubí](https://open.spotify.com/album/3RYRZMMe98SfBYzYvJN1eq) | 2:41 | 2026-04-30 |  |
 | [Suspicious Minds](https://open.spotify.com/track/2OCgVQoRYmBAedBkUSQpjF) | [Casual](https://open.spotify.com/artist/6bYakhjMl4eDSfiETppQmS) | [Casual](https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC) | 2:50 | 2024-04-11 | 2025-09-19 |
 | [Sé Que Te Vas A Ir](https://open.spotify.com/track/25riTX5vEOraVZcYqPkBrw) | [Espíritu System](https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0) | [Sé Que Te Vas A Ir](https://open.spotify.com/album/2qW2gVKVFU8aKQMTgLDvC1) | 2:49 | 2026-02-19 | 2026-03-14 |

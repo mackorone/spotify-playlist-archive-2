@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,315 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,320 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 15 | [Santa](https://open.spotify.com/track/7GhZgLQ5zzRUMHFS8nPc6o) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [Santa](https://open.spotify.com/album/7KoTJ59Lg3rAMgYGb8xXLi) | 3:47 |
 | 16 | [Movin' To The Sun](https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Imael Angel](https://open.spotify.com/artist/17yREPqyU875WJnX9U082A), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Movin' To The Sun](https://open.spotify.com/album/7sCzauzbInQn7NEsvTAtqq) | 2:22 |
 | 17 | [You Are](https://open.spotify.com/track/5yCOto2qdnC9d7cYWSgTFm) | [Laura van Dam](https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz) | [You Are](https://open.spotify.com/album/39jJaarZplGt1gHKmCpcME) | 3:20 |
-| 18 | [Stay](https://open.spotify.com/track/1eo5EOM8O8nFWiiNPKsav9) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [Stay](https://open.spotify.com/album/5Nt2LwkPvFezVspjtoywcO) | 2:35 |
+| 18 | [Stay](https://open.spotify.com/track/1eo5EOM8O8nFWiiNPKsav9) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [Stay](https://open.spotify.com/album/5Nt2LwkPvFezVspjtoywcO) | 2:50 |
 | 19 | [Dreaming & Breathing](https://open.spotify.com/track/6MKiPmkj1j3fdRA3oaGEvs) | [ELFIGO](https://open.spotify.com/artist/1f7tXw5OzDgWVBpEZ0hjJs), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [AYAREZ](https://open.spotify.com/artist/3eTTWCTlXDyGKwrGqDMsX0) | [Dreaming & Breathing](https://open.spotify.com/album/6Ezhr8VCYlVGutTXINUZqS) | 2:43 |
 | 20 | [Return To Bhibo](https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Return To Bhibo](https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc) | 2:37 |
 | 21 | [can't stop](https://open.spotify.com/track/19jGoaQl5HURwDLeY8Tv9g) | [Saidah](https://open.spotify.com/artist/18ddrVSTx9Y6FZIiXFG7IU) | [takeme2](https://open.spotify.com/album/4A9dZ20uZdUx7BwIeAiTFZ) | 5:16 |

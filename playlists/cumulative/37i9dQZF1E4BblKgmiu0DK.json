@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Crimson ValkyRies, Tssara, Die Mannequin and more",
+  "description": "With Crimson ValkyRies, Die Mannequin, Gin Wigmore and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 209600,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 164560,
       "name": "Beat Me Up",
       "url": "https://open.spotify.com/track/6iQ6uu9FSWPbt6BuX0XsjU"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 207750,
       "name": "Body Double",
       "url": "https://open.spotify.com/track/7tYKbBwjeC2krHASc0E8Lv"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 205401,
       "name": "Bright Side",
       "url": "https://open.spotify.com/track/1iz0iPGl5wBK440W2ceXFe"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 103359,
       "name": "Bruv, Skyline Ruckus",
       "url": "https://open.spotify.com/track/3rkTZkhoOA7fQgwpqnmwva"
@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Gloves",
+        "url": "https://open.spotify.com/album/5Puvnt7lAt5ehbfZAN5haL"
+      },
+      "artists": [
+        {
+          "name": "Operator Please",
+          "url": "https://open.spotify.com/artist/3KshwzAIDBZRPr5Xc7S79C"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191140,
+      "name": "Catapult",
+      "url": "https://open.spotify.com/track/6akUUK3X6K49283AbwHJK4"
+    },
+    {
+      "album": {
         "name": "Champagne Cocaine & Strawberries [Single]",
         "url": "https://open.spotify.com/album/4pqxHqsjZDPkyv3pv7QDT2"
       },
@@ -1594,6 +1612,24 @@
       "duration_ms": 94919,
       "name": "Certain Call",
       "url": "https://open.spotify.com/track/0X0TruhDU9hbzVSWzc1OM3"
+    },
+    {
+      "album": {
+        "name": "Invisible Tonight",
+        "url": "https://open.spotify.com/album/7ygsghuGcE8KN2kPY9vNRa"
+      },
+      "artists": [
+        {
+          "name": "The Nearly Deads",
+          "url": "https://open.spotify.com/artist/02xGrkvi3hMrDW023OJNAc"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204683,
+      "name": "Changeover",
+      "url": "https://open.spotify.com/track/7xTk2HP884Gw5SVJKOXmWO"
     },
     {
       "album": {
@@ -2076,7 +2112,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 240233,
       "name": "Democracy Don't Die Quiet",
       "url": "https://open.spotify.com/track/310RSr2bawiy09nV0OPVTg"
@@ -2152,7 +2188,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 205186,
       "name": "Dirty Mercy",
       "url": "https://open.spotify.com/track/6pNS6OLRNCGGtTlSEXbIUU"
@@ -2188,7 +2224,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 243281,
       "name": "Doll",
       "url": "https://open.spotify.com/track/6nxxyAxIg1B4RAaWg09j0C"
@@ -2332,7 +2368,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 194533,
       "name": "Don't Wanna Go To Bed Now - New Version",
       "url": "https://open.spotify.com/track/00914fQv9854t2yzDKp8QI"
@@ -2656,7 +2692,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 225200,
       "name": "FAME",
       "url": "https://open.spotify.com/track/2zty4A3XTAWyS4XHsY9EBj"
@@ -3276,7 +3312,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 106159,
       "name": "Ginza Voltage, Senpai",
       "url": "https://open.spotify.com/track/7IymNg6Ov2DMkO5bHFJua4"
@@ -3420,7 +3456,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 130245,
       "name": "Gravity Falls",
       "url": "https://open.spotify.com/track/2JtKoVYwMlmNsrhHZXyzCi"
@@ -4336,7 +4372,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 186149,
       "name": "Idtn",
       "url": "https://open.spotify.com/track/48CKvOgx9G5Zeg5p4bccYa"
@@ -4614,7 +4650,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 169748,
       "name": "Jackson",
       "url": "https://open.spotify.com/track/6MawJbGwFNsd6w5B6ZPvM7"
@@ -4902,7 +4938,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 125831,
       "name": "Last Message",
       "url": "https://open.spotify.com/track/3iezZMzkcKTzZk31ggXVxE"
@@ -5324,7 +5360,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 146735,
       "name": "Love Shot",
       "url": "https://open.spotify.com/track/0liKzWoH4y2QVRTJeRB5dv"
@@ -5382,7 +5418,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 92639,
       "name": "Maboneng Megawatt, Bru",
       "url": "https://open.spotify.com/track/2r6BmVTnI8HAtHAwhEp2x9"
@@ -5426,6 +5462,24 @@
       "duration_ms": 258797,
       "name": "MAMMA COM\u2019\u00c8",
       "url": "https://open.spotify.com/track/4sqKgNhOmBhxjknLFE7jVv"
+    },
+    {
+      "album": {
+        "name": "Gravel & Wine",
+        "url": "https://open.spotify.com/album/2HtT4gawEGgOvAPUO7tiU2"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170466,
+      "name": "Man Like That",
+      "url": "https://open.spotify.com/track/7KNIZlX0pBSBBrkI4d8AHB"
     },
     {
       "album": {
@@ -5854,7 +5908,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 120799,
       "name": "Mumbai Monsoon Riff, Yaar",
       "url": "https://open.spotify.com/track/0M7fBG1M0RfhXcA9Hru297"
@@ -5872,7 +5926,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -6153,6 +6207,24 @@
     },
     {
       "album": {
+        "name": "Revenge of the Nearly Deads",
+        "url": "https://open.spotify.com/album/06cPgu1TGPbbMuziuNcwNY"
+      },
+      "artists": [
+        {
+          "name": "The Nearly Deads",
+          "url": "https://open.spotify.com/artist/02xGrkvi3hMrDW023OJNAc"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211291,
+      "name": "Not Listening",
+      "url": "https://open.spotify.com/track/38MVfDV99sgd5GaMvZrxRR"
+    },
+    {
+      "album": {
         "name": "Not Sorry",
         "url": "https://open.spotify.com/album/4HgzabTgG9c9OZOk6m1ZCG"
       },
@@ -6276,6 +6348,24 @@
       "duration_ms": 224562,
       "name": "Off-beat",
       "url": "https://open.spotify.com/track/3wUn8N746h7vP8goxi2571"
+    },
+    {
+      "album": {
+        "name": "Holy Smoke",
+        "url": "https://open.spotify.com/album/0YSYH2O7M9HwAE7ZSd9dKu"
+      },
+      "artists": [
+        {
+          "name": "Gin Wigmore",
+          "url": "https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255973,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/3GBll4nM0vShsLyfWfpMHJ"
     },
     {
       "album": {
@@ -6510,7 +6600,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 184480,
       "name": "Open Heart Surgery - remastered",
       "url": "https://open.spotify.com/track/3HhNahDR0ApxXW1vxVTzB5"
@@ -6784,7 +6874,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 403285,
       "name": "Please",
       "url": "https://open.spotify.com/track/1mNEljsd4NIHWtd6VzpydD"
@@ -7432,7 +7522,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 89999,
       "name": "Shibuya Spark Surge",
       "url": "https://open.spotify.com/track/27DgDjnuv6arYqMyloQfpH"
@@ -8182,7 +8272,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -8802,7 +8892,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 213641,
       "name": "Wanna Get Along?",
       "url": "https://open.spotify.com/track/5yHm4fwAC3Y8jArEHpKvEy"
@@ -8874,7 +8964,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 244917,
       "name": "We'll Never Die",
       "url": "https://open.spotify.com/track/0Thn1p4p1bqvYjdfDX8uAj"
@@ -8982,7 +9072,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 169173,
       "name": "What's It Gonna Be",
       "url": "https://open.spotify.com/track/5DDd2Gq55LpJYmmoRYLqqe"
@@ -9090,7 +9180,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 162933,
       "name": "Whyyawannabringmedown",
       "url": "https://open.spotify.com/track/1jGNjpHdQVaMBeSnpCv5Jy"

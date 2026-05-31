@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from OLIVIA, Ariana Grande, Laura Tesoro, S10 & Oscar and the Wolf and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,163 likes - 114 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,166 likes - 114 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 67 | [Inkululeko](https://open.spotify.com/track/07yDzqkOPiUqn35LSconrk) | [Sickluv](https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe), [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Inkululeko](https://open.spotify.com/album/2YeivbiIR4ggXMlaCmMMMC) | 2:48 |
 | 68 | [Mon Nom](https://open.spotify.com/track/260Bx637B9nxl1LNsp31ag) | [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Mon Nom](https://open.spotify.com/album/0zl9vdLIQMYiudl6tkCvbl) | 3:15 |
 | 69 | [Au Revoir](https://open.spotify.com/track/3ndK6v70Emzo0Ryv8zpD9R) | [Selecta Killa](https://open.spotify.com/artist/5SmWI5tRnXusg7cjfTIzUG), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p) | [Au Revoir](https://open.spotify.com/album/6NBSqY1px4TyPuPNXrf34J) | 1:57 |
-| 70 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
+| 70 | [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 71 | [Some people \(ton désir\)](https://open.spotify.com/track/690sIXKoWu8PoIDIcV4ciP) | [Calumny](https://open.spotify.com/artist/1VzCGzFPj5ZToYK3QmpD8R), [Ocean Drive](https://open.spotify.com/artist/5WLalRI8ogjIt7nhUNdoEC) | [Some people \(ton désir\)](https://open.spotify.com/album/5mYDlFSuGl7h5uUadpJmjj) | 2:25 |
 | 72 | [Faithful Friend](https://open.spotify.com/track/4W9FgrEV5qV6XmgMj0uyRe) | [Yannick Bovy](https://open.spotify.com/artist/3Qz5Z2ES5YfXj5svtEQU4e) | [Faithful Friend](https://open.spotify.com/album/44vrpSOrks90WDb1jYlSo4) | 3:26 |
 | 73 | [Girl](https://open.spotify.com/track/6ASmcWqTjvZROxoj97zzdo) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Girl](https://open.spotify.com/album/4zb6suQsfAk4sIvcykjJlT) | 3:13 |

@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 160327,
       "name": "Afedersin",
       "url": "https://open.spotify.com/track/2kKMrqXZCGXjvHTi3GmhWn"
@@ -7898,7 +7898,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 224080,
       "name": "De\u011filim",
       "url": "https://open.spotify.com/track/1rSjuvKXvAScLhYx1jnGpW"
@@ -10976,7 +10976,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-31",
       "duration_ms": 169411,
       "name": "Geri Ver",
       "url": "https://open.spotify.com/track/0XZx9qu1r2sUXeoHCqsRiP"
@@ -12854,6 +12854,24 @@
       "duration_ms": 162295,
       "name": "Hayalet",
       "url": "https://open.spotify.com/track/3NWhRNp75M7bEZZH1nWzMw"
+    },
+    {
+      "album": {
+        "name": "HAYALLER\u0130M\u0130 VURDUM",
+        "url": "https://open.spotify.com/album/2IEW5QMVDVcCRdeeEfEtJU"
+      },
+      "artists": [
+        {
+          "name": "Lark2020",
+          "url": "https://open.spotify.com/artist/51FnfWbFaj7Ec4ZFcnGuCH"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106800,
+      "name": "HAYALLER\u0130M\u0130 VURDUM",
+      "url": "https://open.spotify.com/track/7qNhHR3C1rEV68qLqXT9Tt"
     },
     {
       "album": {
@@ -28821,6 +28839,28 @@
     },
     {
       "album": {
+        "name": "SOPRANOS",
+        "url": "https://open.spotify.com/album/5V5fwysLCxsaOxfXFvUPN5"
+      },
+      "artists": [
+        {
+          "name": "EGE!",
+          "url": "https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5"
+        },
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141631,
+      "name": "YOKLAMA",
+      "url": "https://open.spotify.com/track/0UdEmE2g5AnqZPefygdQeB"
+    },
+    {
+      "album": {
         "name": "Yokmu\u015f Sevenim Senden \u00d6nce",
         "url": "https://open.spotify.com/album/3ECnEk8UPu12VWdBjbOexQ"
       },
@@ -28938,7 +28978,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 158974,
       "name": "y\u00e2r",
       "url": "https://open.spotify.com/track/4pdrlGq6TtXXxDSiBuGri2"

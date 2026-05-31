@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-576 songs - 1 day 10 hr 3 min
+578 songs - 1 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Brandalsund](https://open.spotify.com/track/4YSgUGFpznFJt9bfBmIn72) | [Adolphson & Falk](https://open.spotify.com/artist/2PGhx95sJF2XfZyOyrDFo0), [Peder af Ugglas](https://open.spotify.com/artist/0BShcQJsGOlh0CxBK24Q43) | [Brandalsund](https://open.spotify.com/album/6eGmbGKoEUJOCD40SbPQOI) | 4:26 | 2024-06-27 | 2024-08-16 |
 | [Breaking Up Is Hard To Do](https://open.spotify.com/track/7BMEbFtMbTuacawRXMQ0kC) | [Charlotte Perrelli](https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl), [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Breaking Up Is Hard To Do](https://open.spotify.com/album/6jhOWJ2x7JfrO8b9CQ20CU) | 4:25 | 2026-02-12 | 2026-02-20 |
 | [Bästa kebaben i hela stan](https://open.spotify.com/track/01yyVpq4GDYpkrZcTP66qG) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Bästa kebaben i hela stan](https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2) | 3:35 | 2024-06-27 | 2024-08-23 |
-| [Bättre här](https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Bättre här](https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn) | 3:08 | 2025-09-18 |  |
+| [Bättre här](https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Bättre här](https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn) | 3:08 | 2025-09-18 | 2026-05-31 |
 | [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-08-15 | 2025-04-04 |
 | [Can't Frame the Moonlight](https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Can't Frame the Moonlight](https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP) | 3:25 | 2026-01-22 |  |
 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-27 | 2026-02-13 |
@@ -154,6 +154,7 @@
 | [Escape Through Music](https://open.spotify.com/track/5yYvMWbMI9heTaRuU7tRrn) | [Kleerup](https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc) | [Escape Higher](https://open.spotify.com/album/32m9TsdAxKjUQhVsu78rsY) | 4:25 | 2026-03-19 | 2026-05-10 |
 | [Ett Glas Till](https://open.spotify.com/track/1KEbdZihYjyr8LvxGalGYR) | [Avantgardet](https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ) | [Dom Sa – Ett glas till](https://open.spotify.com/album/5Useo9AgKrHlin0pSsEt74) | 4:25 | 2024-06-27 | 2024-08-16 |
 | [Europa](https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 6:34 | 2024-08-29 | 2025-01-15 |
+| [Everything's wasted](https://open.spotify.com/track/1ao7iSXbAFlnDKCibe3KcG) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [Everything's wasted](https://open.spotify.com/album/2qRHkSc9g1Iign5yKvJhFA) | 4:22 | 2026-05-28 |  |
 | [EXISTENS](https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EXISTENS](https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm) | 2:52 | 2025-08-07 |  |
 | [F\-Bomb](https://open.spotify.com/track/0VkSUNZoG6kE0Rtnz4Hsf4) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [F\-Bomb](https://open.spotify.com/album/50qDq5SuKpZCiuYQy3eKE3) | 3:47 | 2025-08-14 | 2026-04-21 |
 | [Face The Unknown](https://open.spotify.com/track/06JfWUM1gcTOCAIHFcOTbw) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Face The Unknown](https://open.spotify.com/album/1KZJK8jAvN1V6NNlCiP3iz) | 3:30 | 2026-03-05 | 2026-04-10 |
@@ -373,7 +374,7 @@
 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 | 2024-08-22 | 2025-02-10 |
 | [Någonting som aldrig hänt](https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Någonting som aldrig hänt](https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq) | 3:01 | 2025-08-14 | 2026-04-27 |
 | [Något ska dö](https://open.spotify.com/track/1ieslv0IfVoD8Yzm5vs6W0) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Något ska dö \(del 1\)](https://open.spotify.com/album/5ZSAZ2Oqc1sLa06LYensG0) | 3:28 | 2025-09-25 | 2026-03-13 |
-| [Nånting är off](https://open.spotify.com/track/7aDxaG7G5ZhYtd4ffzq7u4) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Nånting är off](https://open.spotify.com/album/7pxlFUyNZZrvJVyQm1xSQK) | 4:31 | 2026-04-16 |  |
+| [Nånting är off](https://open.spotify.com/track/7aDxaG7G5ZhYtd4ffzq7u4) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Nånting är off](https://open.spotify.com/album/7pxlFUyNZZrvJVyQm1xSQK) | 4:31 | 2026-04-16 | 2026-05-31 |
 | [Nöd och lust](https://open.spotify.com/track/3HhGWw77PZRn7k4YMku96d) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Nöd och lust](https://open.spotify.com/album/6Y7RhVGnwyJxpTgKIGeNYP) | 2:51 | 2025-06-05 | 2025-09-26 |
 | [Of All People](https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Of All People](https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn) | 2:34 | 2026-04-09 |  |
 | [Older](https://open.spotify.com/track/13dyKTy1OGspz1EcoPnyqw) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Older \(From the TV series ”Tystnaden”\)](https://open.spotify.com/album/0Y9R3xwuHbFqcD75ukOgIF) | 3:34 | 2025-11-06 |  |
@@ -579,6 +580,7 @@
 | [Zoe](https://open.spotify.com/track/4ZuXd4UOTvZcnxnK7HK0dz) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Zoe](https://open.spotify.com/album/10BtiylTakTRu7lTKhMJQ9) | 3:11 | 2025-01-09 | 2025-02-26 |
 | [Älskade vän](https://open.spotify.com/track/6ROMGo5KcACNoRxjyp2uEh) | [Uno Svenningsson](https://open.spotify.com/artist/65OPXmm2nfPvaX1fjHo8kR) | [Älskade vän](https://open.spotify.com/album/2z2kXYzNFlTp3FYmThV1Uw) | 3:19 | 2025-05-29 | 2025-12-06 |
 | [Änglarna](https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5) | [Jonas Lundqvist](https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7) | [Änglarna](https://open.spotify.com/album/0l0GsGyhoZn8yCgmXOVbhR) | 3:40 | 2024-08-22 | 2024-10-11 |
+| [Är det här det är party](https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f) | [Korslagda](https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv) | [Är det här det är party](https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58) | 3:22 | 2026-05-28 |  |
 | [Är det upp till dig och mig](https://open.spotify.com/track/5D94n7MSUmTTPwO91roL9x) | [Jakob Hellman](https://open.spotify.com/artist/74terC9ol9zMo8rfzhSOiG) | [Är det upp till dig och mig](https://open.spotify.com/album/36Y6LGKWC5qrVnEU2uX5Nd) | 4:25 | 2025-09-11 | 2025-10-31 |
 | [Ärligt misstag](https://open.spotify.com/track/3SENIcIRPLk5c5xSnKYEAs) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Ärligt misstag](https://open.spotify.com/album/5dDzaWLtQBPMBnmIV5S5HU) | 2:29 | 2025-02-06 | 2025-09-05 |
 | [Ögonblick i livet](https://open.spotify.com/track/2dZoKGCLtsUzVlxQvIyjFl) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf) | [Ögonblick i livet](https://open.spotify.com/album/7ejzXc7bRHlth4dEGcyrje) | 3:14 | 2024-06-27 | 2024-08-16 |

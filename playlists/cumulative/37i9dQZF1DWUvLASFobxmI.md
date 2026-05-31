@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. David Ornelas en portada.
 
-988 songs - 2 day 3 hr 36 min
+989 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,7 +580,7 @@
 | [Me Gustas 1CH!NG0](https://open.spotify.com/track/02H6BuFrvvOlsMcsmOlDN6) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Me Gustas 1CH!NG0](https://open.spotify.com/album/25FoblDtlEtbdCoZGk0MM0) | 2:53 | 2025-04-25 | 2025-06-13 |
 | [Me Gustas Te Gusto](https://open.spotify.com/track/1Z02yuUx0hXmqLPTtnLxiC) | [Geru y Su Legion 7](https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch) | [Me Gustas Te Gusto](https://open.spotify.com/album/4foID1AlUm2eGNIDoDiiAb) | 3:12 | 2024-03-22 | 2024-06-22 |
 | [Me Haces Tan Bien](https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Me Haces Tan Bien](https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv) | 2:48 | 2023-05-12 | 2023-07-15 |
-| [Me Llamas](https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Así O Más Vega Vol\. 2](https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG) | 4:46 | 2025-10-17 |  |
+| [Me Llamas](https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Así O Más Vega Vol\. 2](https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG) | 4:46 | 2025-10-17 | 2026-05-31 |
 | [Me Nació Del Alma](https://open.spotify.com/track/3GYDqqCfOhrB1XicSIh6AY) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Me Nacio Del Alma](https://open.spotify.com/album/4EoyPCA0FQxPe1d6C1BCN1) | 2:36 | 2024-12-20 | 2025-08-17 |
 | [Me Porto Bonito / Te Bote \- Dale Mambo Mix En Vivo](https://open.spotify.com/track/6B5vw9KfuSCQFiX2e9fNLH) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Me Porto Bonito / Te Bote \(Dale Mambo Mix En Vivo\)](https://open.spotify.com/album/1FIoOoWKqOQdGDeciXgWRN) | 5:00 | 2022-12-02 | 2023-01-14 |
 | [Me Quedé Esperando](https://open.spotify.com/track/3ebQssKPVq6cdnAYUcuZGs) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Me Quedé Esperando](https://open.spotify.com/album/32r7bBWD7vEMEfslIZ4Mjt) | 3:24 | 2023-05-26 | 2023-10-07 |
@@ -723,6 +723,7 @@
 | [Peripecia](https://open.spotify.com/track/67vUomLwg8288pELNn5OSA) | [Bandera Negra](https://open.spotify.com/artist/5xABAb793YTVAkTlUGPvnO), [La Edición de Culiacán](https://open.spotify.com/artist/14DIWXxTBoAzGJNsAFvNWU) | [Peripecia](https://open.spotify.com/album/5nPvAgRXUDboSwwIUHV91R) | 3:03 | 2026-01-09 | 2026-04-11 |
 | [PERLA](https://open.spotify.com/track/43KSN4b74MOJEGyp0Tf0CD) | [Los Del North Texas](https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE) | [PERLA](https://open.spotify.com/album/3IDUICe2L61aOFidmYYm3i) | 2:22 | 2024-09-25 | 2024-11-09 |
 | [Pero Esta Vez Llore](https://open.spotify.com/track/1HLVA86qyMw9DMUFc8IW1k) | [Torrente](https://open.spotify.com/artist/5ZVx6Kk09abRMkgfzh650x) | [Pero Esta Vez Llore](https://open.spotify.com/album/7zlyZ8FwOgjw0nyKCZdH9u) | 3:18 | 2025-10-17 | 2026-02-21 |
+| [Pero Me Dañaste](https://open.spotify.com/track/1qKXwfvMYIxFFl8RPCjXoQ) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Pero Me Dañaste](https://open.spotify.com/album/6QBAPBBqfkK02HsaQEhskQ) | 3:34 | 2026-05-30 |  |
 | [Pero Si Fue](https://open.spotify.com/track/54Rc94xfSTRhxi9ZMhQlrx) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Pero Si Fue](https://open.spotify.com/album/0kH03LyNZQRbQDh8NHb2OZ) | 2:34 | 2024-03-22 | 2024-07-02 |
 | [Pero Te Vas a Arrepentir](https://open.spotify.com/track/0BqupaTUKv80njcNbK0grX) | [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Pero Te Vas a Arrepentir](https://open.spotify.com/album/6vaE2TeXwrRTOc4HaKby51) | 2:50 | 2022-07-01 | 2022-07-22 |
 | [Perro Amor](https://open.spotify.com/track/4UXTRbDMHUukqoskflG91T) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Perro Amor](https://open.spotify.com/album/44v5fgLRaVqwAVpUxHnMJP) | 2:47 | 2023-08-25 | 2024-01-03 |

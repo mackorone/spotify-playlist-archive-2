@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 104314,
+  "num_followers": 104308,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-05-28 21:00:28",
       "album": {
-        "name": "Jos t\u00e4\u00e4 ei oo se",
-        "url": "https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt"
-      },
-      "artists": [
-        {
-          "name": "Elastinen",
-          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
-        }
-      ],
-      "duration_ms": 180534,
-      "name": "Jos t\u00e4\u00e4 ei oo se",
-      "url": "https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU"
-    },
-    {
-      "added_at": "2026-05-28 21:00:28",
-      "album": {
         "name": "Rockstar (feat. Janna)",
         "url": "https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 174900,
       "name": "Rockstar (feat. Janna)",
       "url": "https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR"
+    },
+    {
+      "added_at": "2026-05-28 21:00:28",
+      "album": {
+        "name": "Jos t\u00e4\u00e4 ei oo se",
+        "url": "https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt"
+      },
+      "artists": [
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        }
+      ],
+      "duration_ms": 180534,
+      "name": "Jos t\u00e4\u00e4 ei oo se",
+      "url": "https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU"
     },
     {
       "added_at": "2026-05-28 21:00:28",
@@ -679,18 +679,18 @@
     {
       "added_at": "2026-05-28 21:00:28",
       "album": {
-        "name": "RICK ROSS",
-        "url": "https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY"
+        "name": "FEAR NO MAN",
+        "url": "https://open.spotify.com/album/7pW18CHeRUUqZF74nfEDxO"
       },
       "artists": [
         {
-          "name": "M//O",
-          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
+          "name": "MOMO",
+          "url": "https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq"
         }
       ],
-      "duration_ms": 170020,
-      "name": "RICK ROSS",
-      "url": "https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP"
+      "duration_ms": 103578,
+      "name": "FEAR NO MAN",
+      "url": "https://open.spotify.com/track/5pIBicwxxVfLXKiCV667YY"
     },
     {
       "added_at": "2026-05-28 21:00:28",
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-05-28 21:00:28",
       "album": {
-        "name": "FEAR NO MAN",
-        "url": "https://open.spotify.com/album/7pW18CHeRUUqZF74nfEDxO"
+        "name": "RICK ROSS",
+        "url": "https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY"
       },
       "artists": [
         {
-          "name": "MOMO",
-          "url": "https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq"
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
         }
       ],
-      "duration_ms": 103578,
-      "name": "FEAR NO MAN",
-      "url": "https://open.spotify.com/track/5pIBicwxxVfLXKiCV667YY"
+      "duration_ms": 170020,
+      "name": "RICK ROSS",
+      "url": "https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP"
     },
     {
       "added_at": "2026-05-28 21:00:28",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-05-28 21:00:28",
       "album": {
+        "name": "Olosuhteet",
+        "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
+      },
+      "artists": [
+        {
+          "name": "Leyla",
+          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
+        }
+      ],
+      "duration_ms": 188810,
+      "name": "Olosuhteet",
+      "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
+    },
+    {
+      "added_at": "2026-05-28 21:00:28",
+      "album": {
         "name": "Aito freak",
         "url": "https://open.spotify.com/album/3WdHhuhr4aJu3PWwVvNXsn"
       },
@@ -827,38 +843,6 @@
     {
       "added_at": "2026-05-28 21:00:28",
       "album": {
-        "name": "Olosuhteet",
-        "url": "https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L"
-      },
-      "artists": [
-        {
-          "name": "Leyla",
-          "url": "https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra"
-        }
-      ],
-      "duration_ms": 188810,
-      "name": "Olosuhteet",
-      "url": "https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG"
-    },
-    {
-      "added_at": "2026-05-28 21:00:28",
-      "album": {
-        "name": "Se ei ollu min\u00e4",
-        "url": "https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ"
-      },
-      "artists": [
-        {
-          "name": "Joe L",
-          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
-        }
-      ],
-      "duration_ms": 130423,
-      "name": "Se ei ollu min\u00e4",
-      "url": "https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH"
-    },
-    {
-      "added_at": "2026-05-28 21:00:28",
-      "album": {
         "name": "UUDESTAAN (feat. Dw)",
         "url": "https://open.spotify.com/album/08pkqUJ3MZ6IhEctB6TbPL"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 164416,
       "name": "UUDESTAAN (feat. Dw)",
       "url": "https://open.spotify.com/track/16XlESQD7Rp3WANPygQU7k"
+    },
+    {
+      "added_at": "2026-05-28 21:00:28",
+      "album": {
+        "name": "Se ei ollu min\u00e4",
+        "url": "https://open.spotify.com/album/6lGv5jZ04AmTbHdkv6rEjQ"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        }
+      ],
+      "duration_ms": 130423,
+      "name": "Se ei ollu min\u00e4",
+      "url": "https://open.spotify.com/track/6pcFppgbBG2eXOGdRn46kH"
     },
     {
       "added_at": "2026-05-28 21:00:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,077 songs - 6 day 14 hr 43 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,078 songs - 6 day 14 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3085,5 +3085,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3075 | [NIGHT](https://open.spotify.com/track/0jcbruoL9yAZAOZJoj1Z7N) | [N\-XD](https://open.spotify.com/artist/17DfrO4osPjPs1ElUIfO15) | [NIGHT](https://open.spotify.com/album/3NmZDQak9CawuwpMf57DSU) | 2:14 |
 | 3076 | [Be My Lover](https://open.spotify.com/track/4dJrJx3SfGXHmkqwB9muhO) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Be My Lover](https://open.spotify.com/album/7gFe3PHDOrolmoMNc8iHW4) | 3:21 |
 | 3077 | [Lost In Time](https://open.spotify.com/track/77NujRBK213WUBJvlKvPt0) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Lost In Time](https://open.spotify.com/album/5gTsMu6MnYZjx3fjk5K3Iq) | 2:35 |
+| 3078 | [BEAT GOES OFF](https://open.spotify.com/track/1ZlfW970nA8PDFMKYy2PQ6) | [Wolverave](https://open.spotify.com/artist/52tkAziCrKk8awyPXo7TnD), [RAVE HEAVEN](https://open.spotify.com/artist/5kgp9TGuY8Qt8fwwZKn1CQ), [MerkMine](https://open.spotify.com/artist/4EQUCTMYsKiUG8u7vErffU) | [BEAT GOES OFF](https://open.spotify.com/album/48wea2xOB99jzbDNy1dRH0) | 2:41 |
 
-Snapshot ID: `AAAMXvLh8u+gqoKYRsjfz/zwM+3Lw41a`
+Snapshot ID: `AAAMXyn0DC6o7IRJbB9XyFBdoxWrV38i`

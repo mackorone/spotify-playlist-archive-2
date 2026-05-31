@@ -1,13 +1,49 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1111,
+  "num_followers": 1113,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFUiSY/pG2uttaOgkIMUDwQSKkGjXm",
+  "snapshot_id": "AAAFVEwga97XlvK40Kc481ScM/8of5mn",
   "tracks": [
+    {
+      "added_at": "2026-05-30 20:49:39",
+      "album": {
+        "name": "Eat Me Alive",
+        "url": "https://open.spotify.com/album/4ZOHqRRTl4g9CkiCiB5tIA"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 237558,
+      "name": "Eat Me Alive",
+      "url": "https://open.spotify.com/track/1m9upNm8FhtRYfcgbSshH2"
+    },
+    {
+      "added_at": "2026-05-30 20:49:29",
+      "album": {
+        "name": "FLY WITH ME",
+        "url": "https://open.spotify.com/album/6sK9SWuKTDP0zyz9ZcKV8E"
+      },
+      "artists": [
+        {
+          "name": "Verplex",
+          "url": "https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4"
+        },
+        {
+          "name": "MANEDBENTO!",
+          "url": "https://open.spotify.com/artist/3Tls1YrzO8LhdZjaG32MyH"
+        }
+      ],
+      "duration_ms": 249931,
+      "name": "FLY WITH ME",
+      "url": "https://open.spotify.com/track/1rHTshEmjoQ1GBoQfXEXIQ"
+    },
     {
       "added_at": "2026-05-28 03:35:15",
       "album": {

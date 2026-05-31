@@ -4,7 +4,7 @@
 
 > De la Calle a la Cima con Alvaro Díaz.
 
-691 songs - 1 day 13 hr 54 min
+692 songs - 1 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [AMI Paris](https://open.spotify.com/track/4EnhZsNiUgAbwTuL5Y0KlS) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [AMI Paris](https://open.spotify.com/album/4tK82nRb9RlbxXl6mHuKgm) | 3:28 | 2024-10-25 | 2024-11-16 |
 | [AMISTA](https://open.spotify.com/track/1TzQqJ4hme55ZKnM86Xyw0) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [AMISTA](https://open.spotify.com/album/12kivfRERofKpsDpcinrmE) | 2:57 | 2025-04-25 | 2026-02-21 |
 | [Amor De Una Noche](https://open.spotify.com/track/6DlIqUlAjLfrmgUdewGf1x) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Reggaetonea](https://open.spotify.com/album/6Wu7QHl7uK1EBunS3YsPni) | 3:29 | 2022-08-05 | 2022-09-10 |
+| [amor, cómo ESTÁS???](https://open.spotify.com/track/5DdWTn9Snp801vg4bm0EXP) | [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [amor, cómo ESTÁS???](https://open.spotify.com/album/7EU7v0sM0po4foAIGPXwWY) | 3:33 | 2026-05-29 |  |
 | [Ande Con Quien Ande](https://open.spotify.com/track/6AizmGCrFRQHru1Qf8WKoJ) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Ande Con Quien Ande](https://open.spotify.com/album/1HUkl1Q80b9VhGWBfY37RW) | 3:28 | 2022-08-19 | 2022-10-28 |
 | [ANDO](https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ANDO](https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D) | 2:52 | 2023-09-29 | 2024-08-09 |
 | [Antojo \(with De La Ghetto\)](https://open.spotify.com/track/0ped2RBpjF2pRWCrmi1Lfw) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Antojo \(with De La Ghetto\)](https://open.spotify.com/album/2MS1YlHQkeWVVn9WAlk3Ww) | 3:27 | 2022-01-28 | 2022-02-18 |

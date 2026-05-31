@@ -6,7 +6,7 @@
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAALIXQERxFdcF99C0xGTGwjZ6Cjdxzh",
+  "snapshot_id": "AAALJE914N1E1SWhEBipZ8nnmoOzAr9m",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -44743,6 +44743,58 @@
       "duration_ms": 255403,
       "name": "Nothing//Everything",
       "url": "https://open.spotify.com/track/7JPo4HuOcewMONunICPvwy"
+    },
+    {
+      "added_at": "2026-05-30 19:18:50",
+      "album": {
+        "name": "Verte",
+        "url": "https://open.spotify.com/album/7nZVKDmsl58PBPFWgajzPw"
+      },
+      "artists": [
+        {
+          "name": "DANAI",
+          "url": "https://open.spotify.com/artist/7CSNA8GhXH16bMuXxMfvri"
+        }
+      ],
+      "duration_ms": 191752,
+      "name": "Verte",
+      "url": "https://open.spotify.com/track/5sLzHXXjhMTq59G1vU5Eky"
+    },
+    {
+      "added_at": "2026-05-30 19:19:30",
+      "album": {
+        "name": "Permission",
+        "url": "https://open.spotify.com/album/2MH58peDK1Rmg7vtSf7GoI"
+      },
+      "artists": [
+        {
+          "name": "The Summer Fruits",
+          "url": "https://open.spotify.com/artist/28x9gjrLuZt7qXjgjNOh0w"
+        }
+      ],
+      "duration_ms": 172890,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/64XniZVCRhgxyn3HVIZhn2"
+    },
+    {
+      "added_at": "2026-05-30 19:21:01",
+      "album": {
+        "name": "Reddish Blue",
+        "url": "https://open.spotify.com/album/6swcnIK9JkB0pISDdVPd9s"
+      },
+      "artists": [
+        {
+          "name": "J&H",
+          "url": "https://open.spotify.com/artist/18mmL6Dg8j6JxCXtC1rSd5"
+        },
+        {
+          "name": "The Voices of Reddish Blue",
+          "url": "https://open.spotify.com/artist/4ThYSQUHr7RqgwSrH6vDRG"
+        }
+      ],
+      "duration_ms": 264269,
+      "name": "Need You To Breathe",
+      "url": "https://open.spotify.com/track/4BSPFCTbpu919CpM7yDVXU"
     }
   ],
   "unique_name": "Cruise Music",

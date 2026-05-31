@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Bidemi Olaoba
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,389 likes - 120 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,416 likes - 120 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 62 | [Vem Deus/ É Dele](https://open.spotify.com/track/0s6rbvub1pjnbmpqOgVHSp) | [Eunice Zumbuca](https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p), [Arthur Diaz](https://open.spotify.com/artist/79JudXh1e1OVVJaUTTCvBA) | [Vem Deus/ É Dele](https://open.spotify.com/album/1GGGtK9aG7thHhVye7Qsun) | 20:52 |
 | 63 | [GRATEFUL](https://open.spotify.com/track/2p809l9DcNtnaG8kuqiuui) | [Rhatti](https://open.spotify.com/artist/6wPLbuIZFKsOiD8LOIXRbZ) | [GRATEFUL](https://open.spotify.com/album/14TTAz2D9o089dD7z184yB) | 2:41 |
 | 64 | [BASKET OF PRAISE 3.0](https://open.spotify.com/track/6qpKHL8qjscYrzfYoSJoG9) | [Deborah Ajayi](https://open.spotify.com/artist/5BSaqURPjcHhZCV7wgOYSA) | [BASKET OF PRAISE 3.0](https://open.spotify.com/album/1AxiH14ITXCa3JU25v8ZTT) | 26:55 |
-| 65 | [J'accepte](https://open.spotify.com/track/6YiMXpuTFfbZ30DvjvNv2z) | [Claudrick Miere](https://open.spotify.com/artist/0JcyTFlN8YOQzGLjx8J0aT) | [ETAPE YA SUKA](https://open.spotify.com/album/68SGYmoNISpY1xhijIHrKK) | 3:35 |
+| 65 | [J'accepte](https://open.spotify.com/track/6YiMXpuTFfbZ30DvjvNv2z) | [Claudrick Miere](https://open.spotify.com/artist/0JcyTFlN8YOQzGLjx8J0aT) | [ETAP YA SUKA](https://open.spotify.com/album/68SGYmoNISpY1xhijIHrKK) | 3:34 |
 | 66 | [Sarkin Sarakuna](https://open.spotify.com/track/47vpjYVwDxDptQ97eb6yxn) | [Dr Becky Paul\-Enenche](https://open.spotify.com/artist/3uVRRvZIlNO21kzY2gsJ9n) | [Sarkin Sarakuna](https://open.spotify.com/album/0Nh0Qy2dWiCJM0VxKS7HQF) | 3:43 |
 | 67 | [Takarawan Yabo](https://open.spotify.com/track/36JR1EHHT6TbHu0zTi9uYy) | [Tklex](https://open.spotify.com/artist/3nqqTSStDMepotlsMSnbvL) | [Takarawan Yabo](https://open.spotify.com/album/7KyN6Pqb9xZ9M5hkA8IX6Y) | 3:40 |
 | 68 | [In Love \(Syktv?\)](https://open.spotify.com/track/1ljdWVUlsAI4G8k0MCEiml) | [Benjo vibe](https://open.spotify.com/artist/5MfzbclTompWaJeqGDlyk1), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [In Love \(Syktv?\)](https://open.spotify.com/album/6lQf4HKIE3SorkMFAjAWOm) | 3:21 |

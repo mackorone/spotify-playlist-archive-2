@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Qing Madi, Tiwa Savage, Joey B & Odunsi \(the Engine\), Black Sheriff, Ariana Grande, Latto and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,232 likes - 74 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,338 likes - 74 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 35 | [GO 243](https://open.spotify.com/track/3ZfuGTNPAMUH3WqDZHfP0C) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [GO 243](https://open.spotify.com/album/6X0YbFz4I6z9jtOUzUBA1M) | 3:09 |
 | 36 | [Call Me](https://open.spotify.com/track/7yeC0Li94ZmAwxVW5qApUw) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W), [Ariel Wayz](https://open.spotify.com/artist/6vLTbWnzofdofLGkDfxODG) | [Call Me](https://open.spotify.com/album/2saIxLurd9fufhXrueztza) | 3:17 |
 | 37 | [choose what stays](https://open.spotify.com/track/1nnjy0d1HpKBwjzKQUASts) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Kwoli Black](https://open.spotify.com/artist/4munQWPVKYZ9uQHepLM1qn) | [choose what stays](https://open.spotify.com/album/55iKFMwXfmHbh3Z5O8pPeU) | 2:48 |
-| 38 | [Love Spell \(feat\. Iyanya\) \- Remix](https://open.spotify.com/track/6TzOABcWSO1HBMNctS6kK4) | [Itaré](https://open.spotify.com/artist/3yI6gNRof3sCjlPnUPX1Ps), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Love Spell \(feat\. Iyanya\) \[Remix\]](https://open.spotify.com/album/0MqgfeblvezNfoW239z0ji) | 3:15 |
+| 38 | [Love Spell \- Remix](https://open.spotify.com/track/6TzOABcWSO1HBMNctS6kK4) | [Itaré](https://open.spotify.com/artist/3yI6gNRof3sCjlPnUPX1Ps), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [Love Spell \(Remix\)](https://open.spotify.com/album/0MqgfeblvezNfoW239z0ji) | 3:15 |
 | 39 | [LOCKED IN FREESTYLE](https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN FREESTYLE](https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN) | 1:40 |
 | 40 | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/album/6nilpOGqIruVfH4w5UDJlY) | 3:22 |
 | 41 | [SHUMELA VENDA](https://open.spotify.com/track/4H1un0Ryy8VRaV5Sf5kSv1) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [SHUMELA VENDA](https://open.spotify.com/album/4xxTX8UBLtAc9rJn5jhw32) | 4:10 |

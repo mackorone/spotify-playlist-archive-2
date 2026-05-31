@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Bebe Rexha, David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,228 likes - 84 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,250 likes - 84 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

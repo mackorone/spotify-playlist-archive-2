@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 113588,
+  "num_followers": 113632,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Marcos Valle",
-        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 313493,
-      "name": "Estrelar",
-      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "A Tabua De Esmeralda",
         "url": "https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 177200,
       "name": "Menina Mulher Da Pele Preta",
       "url": "https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Marcos Valle",
+        "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 313493,
+      "name": "Estrelar",
+      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Canto Das Tr\u00eas Ra\u00e7as",
-        "url": "https://open.spotify.com/album/32VNQlyGmFb0otQdOr43Rx"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/7wQTptwkkTHXjBF2JSZlHY"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Caetanear",
         "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 199333,
       "name": "Odara",
       "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Canto Das Tr\u00eas Ra\u00e7as",
+        "url": "https://open.spotify.com/album/32VNQlyGmFb0otQdOr43Rx"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/7wQTptwkkTHXjBF2JSZlHY"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -775,8 +775,8 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Emilio Santiago (Remastered)",
-        "url": "https://open.spotify.com/album/2FlDGXezVaILbnqmFIb2vU"
+        "name": "Mais Que Um Momento",
+        "url": "https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt"
         }
       ],
-      "duration_ms": 173506,
-      "name": "Bananeira (Remastered)",
-      "url": "https://open.spotify.com/track/3Z2Thcr0SrxKcQpvouDpR8"
+      "duration_ms": 252147,
+      "name": "O Amigo De Nova York",
+      "url": "https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -859,8 +859,8 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Mais Que Um Momento",
-        "url": "https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq"
+        "name": "Emilio Santiago (Remastered)",
+        "url": "https://open.spotify.com/album/2FlDGXezVaILbnqmFIb2vU"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt"
         }
       ],
-      "duration_ms": 252147,
-      "name": "O Amigo De Nova York",
-      "url": "https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb"
+      "duration_ms": 173506,
+      "name": "Bananeira (Remastered)",
+      "url": "https://open.spotify.com/track/3Z2Thcr0SrxKcQpvouDpR8"
     },
     {
       "added_at": "2025-10-04 00:28:31",

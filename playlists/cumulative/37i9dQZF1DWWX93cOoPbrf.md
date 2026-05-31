@@ -4,7 +4,7 @@
 
 > Lo más fresco de los corridones\. Los Gemelos De Sinaloa en portada.
 
-1,876 songs - 3 day 23 hr 14 min
+1,877 songs - 3 day 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Desde Chavalo](https://open.spotify.com/track/5dLetVydMzRAVHwJpNtTbv) | [Agushto Papa](https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS), [Ernesto Garza](https://open.spotify.com/artist/3ck0Lz49fc6D7G8GnofiTz) | [Desde Chavalo](https://open.spotify.com/album/4SbwJDmA4IWeTlzpuncazg) | 2:41 | 2025-10-10 | 2026-01-31 |
 | [Desde La Prisión 19](https://open.spotify.com/track/5WKa58Z9qiOYdOwKw52KUg) | [Grupo Cartel](https://open.spotify.com/artist/5wa3UkofRgI0jl6fKB6q4J) | [Desde La Prisión 19](https://open.spotify.com/album/1kdG9DtGQoZGHAEFd4lLQj) | 2:55 | 2024-04-19 | 2024-07-13 |
 | [Desde Topo Hasta La Sierra](https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj) | [Novillos de la Sierra](https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro), [Los Torrenciales de la Sierra](https://open.spotify.com/artist/1AR0atiSk7fk8C18cEyYNn) | [Desde Topo Hasta La Sierra](https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F) | 3:38 | 2023-10-13 | 2024-04-13 |
+| [Despojo](https://open.spotify.com/track/2cyTQuiycCaB68TExWLZSW) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN) | [Despojo](https://open.spotify.com/album/2iy3hFHDwL5G826Y8jIAmL) | 3:14 | 2026-05-30 |  |
 | [Destapando Botellitas](https://open.spotify.com/track/3FgvsU9Qr1cxmlSdZFPQ3q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Destapando Botellitas](https://open.spotify.com/album/6GcK0lJrvH4rFp5bLh4NLm) | 2:19 | 2023-07-07 | 2023-08-12 |
 | [Diamond](https://open.spotify.com/track/2uqsyTvMEs2ZUk3uct499J) | [Benji V](https://open.spotify.com/artist/6fkUHseNm5m0sScnOOJxWA) | [Diamond](https://open.spotify.com/album/1bJTE7XIk6H7YeMH2uOun2) | 2:55 | 2024-12-13 | 2025-01-18 |
 | [Dicen Que Soy Belicon](https://open.spotify.com/track/1FjWaxfDLfcvJjA5TDZTPc) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Dicen Que Soy Belicon](https://open.spotify.com/album/2Qk2i6CreCzTWRIs9B8b8a) | 3:06 | 2023-07-14 | 2023-10-28 |
@@ -859,7 +860,7 @@
 | [Estilos Distintos \(Versión Banda\)](https://open.spotify.com/track/0DM0Ajf4ZXoreMnOeDkYCx) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Estilos Distintos \(Versión Banda\)](https://open.spotify.com/album/38YIoO1BldtfEMWke9uwHh) | 1:57 | 2022-10-07 | 2022-10-22 |
 | [Estoy Carita](https://open.spotify.com/track/7jaMFGMuicBDg6hc39OS42) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [El Compa JD](https://open.spotify.com/artist/0ulACiQS73IYsCG3SqkTO0) | [Con Tokio](https://open.spotify.com/album/7rnKX7At3vWHV0MZAGzihw) | 2:33 | 2025-01-24 | 2025-06-28 |
 | [Estratega De Guerra \- En Vivo](https://open.spotify.com/track/6Pe7zRsDX0NggD1WhnPoy2) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Estratega De Guerra \(En Vivo\)](https://open.spotify.com/album/42QrtfssKe48oEdJBiAXht) | 3:50 | 2022-11-04 | 2022-12-03 |
-| [Estrategia](https://open.spotify.com/track/1scr1n8CTdtZzwT54UY8MK) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN) | [10\-4](https://open.spotify.com/album/6lOyEI09qmGpLUL1jSb7Yp) | 3:06 | 2026-04-26 |  |
+| [Estrategia](https://open.spotify.com/track/1scr1n8CTdtZzwT54UY8MK) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN) | [10\-4](https://open.spotify.com/album/6lOyEI09qmGpLUL1jSb7Yp) | 3:06 | 2026-04-26 | 2026-05-31 |
 | [Estrategia](https://open.spotify.com/track/4Vjn4JuCI0p7GS3TmbLaLJ) | [Moreno X4](https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN) | [Estrategia](https://open.spotify.com/album/28s5t2aXnyRfumfCcnWJ7L) | 3:06 | 2026-01-23 | 2026-03-14 |
 | [Evolucionando](https://open.spotify.com/track/1XW5OWtjaJ3NqZtbADTop0) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Evolucionando](https://open.spotify.com/album/2rntMI420qF9TIyX7is9aQ) | 2:47 | 2026-03-13 | 2026-05-30 |
 | [EXOTICÓN](https://open.spotify.com/track/5D679I3gCMw6maX0MQR5Vw) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1), [Grupo Feroz](https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r) | [EXOTICÓN](https://open.spotify.com/album/7MTZomem1mbxWoBgo9u52X) | 2:38 | 2024-04-26 | 2024-09-21 |

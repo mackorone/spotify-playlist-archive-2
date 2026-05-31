@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Giorgos Livanis, Strat",
-  "num_followers": 39039,
+  "num_followers": 39041,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-05-28 21:00:41",
       "album": {
-        "name": "Etsi Exei Mathei",
-        "url": "https://open.spotify.com/album/3AkgZF3a0REfLrVhbgDWTG"
-      },
-      "artists": [
-        {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
-        }
-      ],
-      "duration_ms": 190148,
-      "name": "Etsi Exei Mathei",
-      "url": "https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA"
-    },
-    {
-      "added_at": "2026-05-28 21:00:41",
-      "album": {
         "name": "KABANES",
         "url": "https://open.spotify.com/album/0g2UZJiNLO78UIby2ZJzVf"
       },
@@ -487,22 +471,6 @@
     {
       "added_at": "2026-05-28 21:00:41",
       "album": {
-        "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
-        "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
-      },
-      "artists": [
-        {
-          "name": "Ria Ellinidou",
-          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
-        }
-      ],
-      "duration_ms": 305263,
-      "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
-      "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
-    },
-    {
-      "added_at": "2026-05-28 21:00:41",
-      "album": {
         "name": "Matia Mou",
         "url": "https://open.spotify.com/album/0Np3xakjySsq2L133xPFFo"
       },
@@ -515,6 +483,22 @@
       "duration_ms": 231480,
       "name": "Matia Mou",
       "url": "https://open.spotify.com/track/3cTnyjyZpo93SfoO4RAA6v"
+    },
+    {
+      "added_at": "2026-05-28 21:00:41",
+      "album": {
+        "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou (Medley)",
+        "url": "https://open.spotify.com/album/7uQPoxmw3bL1K7c8viJCM0"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "duration_ms": 305263,
+      "name": "Terma S' Agapo / Oti Kai Na Ginei Thimisou - Medley",
+      "url": "https://open.spotify.com/track/5MateRIsXSsdRHYVVOcZpx"
     },
     {
       "added_at": "2026-05-28 21:00:41",
@@ -535,6 +519,22 @@
       "duration_ms": 228977,
       "name": "Xorepse",
       "url": "https://open.spotify.com/track/3FNGcipuHWekU1KvhdrAwH"
+    },
+    {
+      "added_at": "2026-05-28 21:00:41",
+      "album": {
+        "name": "Etsi Exei Mathei",
+        "url": "https://open.spotify.com/album/3AkgZF3a0REfLrVhbgDWTG"
+      },
+      "artists": [
+        {
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+        }
+      ],
+      "duration_ms": 190148,
+      "name": "Etsi Exei Mathei",
+      "url": "https://open.spotify.com/track/6JD1KxMV8A5y68OuRXVpPA"
     },
     {
       "added_at": "2026-05-28 21:00:41",
@@ -603,26 +603,6 @@
     {
       "added_at": "2026-05-28 21:00:41",
       "album": {
-        "name": "Ta Xano",
-        "url": "https://open.spotify.com/album/6pVOST8S9KjooQavCagiHf"
-      },
-      "artists": [
-        {
-          "name": "Lena Zevgara",
-          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
-        },
-        {
-          "name": "Foivos",
-          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
-        }
-      ],
-      "duration_ms": 182574,
-      "name": "Ta Xano",
-      "url": "https://open.spotify.com/track/5P81M4o7l0SW7Eb0ijR2jr"
-    },
-    {
-      "added_at": "2026-05-28 21:00:41",
-      "album": {
         "name": "Xelogiastra",
         "url": "https://open.spotify.com/album/2SbWEEvoOUARNeUXNxrg6p"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 162683,
       "name": "Xelogiastra",
       "url": "https://open.spotify.com/track/3Ng9QVp2XtIWG5ZADToxqB"
+    },
+    {
+      "added_at": "2026-05-28 21:00:41",
+      "album": {
+        "name": "Ta Xano",
+        "url": "https://open.spotify.com/album/6pVOST8S9KjooQavCagiHf"
+      },
+      "artists": [
+        {
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "duration_ms": 182574,
+      "name": "Ta Xano",
+      "url": "https://open.spotify.com/track/5P81M4o7l0SW7Eb0ijR2jr"
     },
     {
       "added_at": "2026-05-28 21:00:41",
@@ -711,18 +711,18 @@
     {
       "added_at": "2026-05-28 21:00:41",
       "album": {
-        "name": "Nero (Live Edition)",
-        "url": "https://open.spotify.com/album/3c1xLILpDuCXETrptwXeYR"
+        "name": "Kataramena Feggaria (Live)",
+        "url": "https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH"
       },
       "artists": [
         {
-          "name": "Konstantinos Argiros",
-          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+          "name": "Nikos Apergis",
+          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
         }
       ],
-      "duration_ms": 198444,
-      "name": "Nero - Live Edition",
-      "url": "https://open.spotify.com/track/7AH52Zb9T2FqoluMNPx1ds"
+      "duration_ms": 180571,
+      "name": "Kataramena Feggaria - Live",
+      "url": "https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc"
     },
     {
       "added_at": "2026-05-28 21:00:41",
@@ -743,18 +743,18 @@
     {
       "added_at": "2026-05-28 21:00:41",
       "album": {
-        "name": "Kataramena Feggaria (Live)",
-        "url": "https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH"
+        "name": "Nero (Live Edition)",
+        "url": "https://open.spotify.com/album/3c1xLILpDuCXETrptwXeYR"
       },
       "artists": [
         {
-          "name": "Nikos Apergis",
-          "url": "https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d"
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
         }
       ],
-      "duration_ms": 180571,
-      "name": "Kataramena Feggaria - Live",
-      "url": "https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc"
+      "duration_ms": 198444,
+      "name": "Nero - Live Edition",
+      "url": "https://open.spotify.com/track/7AH52Zb9T2FqoluMNPx1ds"
     },
     {
       "added_at": "2026-05-28 21:00:41",

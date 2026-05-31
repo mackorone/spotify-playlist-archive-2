@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: S10 & Oscar and the Wolf, Idaly, Ronnie Flex & Frenna, Ariana Grande, Bebe Rexha, Tiësto en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,104 likes - 105 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,124 likes - 105 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 39 | [Caution](https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [K\-POPS! \(Music from and inspired by K\-POPS! Motion Picture\)](https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS) | 2:43 |
 | 40 | [Ben je dan niet blij](https://open.spotify.com/track/2lOype0E5KsoIM7klo1yRI) | [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Ben je dan niet blij](https://open.spotify.com/album/6ZJ5boHWv15ayyQu4giZhL) | 3:16 |
 | 41 | [Doen We Het Vaker](https://open.spotify.com/track/0TnZ9a7qyF3nZS3bnc8JBo) | [Jessey Fields](https://open.spotify.com/artist/3d2RT26NhHPXHa9IOdzhOy) | [Doen We Het Vaker](https://open.spotify.com/album/1KaWiEgp5oRUjFFa7KOvm9) | 2:20 |
-| 42 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
+| 42 | [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 43 | [Clap](https://open.spotify.com/track/1qBEN3LafkXQBJ9ofV4nzM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Clap](https://open.spotify.com/album/2yNwOvF3g7DQcADqywdLj3) | 2:04 |
 | 44 | [Baby Driver](https://open.spotify.com/track/5dtDj7mdGJjlviTxyfMrZE) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Baby Driver](https://open.spotify.com/album/0yUdcVEmK8G3jWAYS6Dii6) | 3:36 |
 | 45 | [Thug](https://open.spotify.com/track/0iZh4VcMhp8zoTlvk8HWZD) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Thug](https://open.spotify.com/album/4aEj8HrgkscnDkdu5oPyqu) | 2:25 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 62 | [Brutalist](https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:57 |
 | 63 | [Torture of the Heart](https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Torture of the Heart](https://open.spotify.com/album/48NX8QQxqYKR5mK11evUBi) | 3:22 |
 | 64 | [Girl](https://open.spotify.com/track/6ASmcWqTjvZROxoj97zzdo) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Girl](https://open.spotify.com/album/4zb6suQsfAk4sIvcykjJlT) | 3:13 |
-| 65 | [Final Minutes](https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q) | [LMNT 115](https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Final Minutes](https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo) | 3:15 |
+| 65 | [Final Minutes](https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q) | [LMNT 115](https://open.spotify.com/artist/2uhgJK13algiylq9MtKRWu), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Final Minutes](https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo) | 3:15 |
 | 66 | [Pawn Shop Guitar](https://open.spotify.com/track/0YLFAf6LETZiEpQTbRbU4B) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Pawn Shop Guitar](https://open.spotify.com/album/2yU7UhtuGQWdy5zUes5nMQ) | 3:48 |
 | 67 | [Stay Alive](https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [The Devil's Tax Return](https://open.spotify.com/artist/1pnP4d3omqdQ4MDfizPlGC) | [Stay Alive](https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi) | 3:53 |
 | 68 | [Forever Sixteen](https://open.spotify.com/track/0cagh3TFowRoOXWpkxfggG) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5) | [Forever Sixteen](https://open.spotify.com/album/20XkH2m9d54XkjiLZqjn1t) | 2:54 |

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,422 songs - 9 day 20 hr 18 min
+4,424 songs - 9 day 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2983,6 +2983,7 @@
 | [Power](https://open.spotify.com/track/0laZWY3EU8RYnJf4YnB2Fl) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Power](https://open.spotify.com/album/6ln8iXcLmyu9wJIUq5J7IS) | 2:43 | 2024-11-07 |  |
 | [Power in Balance](https://open.spotify.com/track/1SSf6zVdpSTdqVxwZux1jo) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Power in Balance](https://open.spotify.com/album/56TclUUl47Mtvb3QAL81L2) | 5:04 | 2025-06-04 |  |
 | [Power Seduction](https://open.spotify.com/track/6jBFjlQcdnLdUIsWamK3AJ) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Power Seduction](https://open.spotify.com/album/2zfCSd7SauTyEde13splcU) | 3:44 | 2025-06-04 |  |
+| [Prado Negra](https://open.spotify.com/track/5FWAGGkvGW7pyJpCZ6LUiD) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Prado Negra](https://open.spotify.com/album/3wM8FOTYqRsQI6AXpKegdi) | 3:11 | 2026-05-30 |  |
 | [Precision](https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Precision](https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe) | 2:38 | 2025-07-28 |  |
 | [Premierm Plus](https://open.spotify.com/track/3jKWfYIZ2QFA2g7kyAoMjM) | [HOZATHEBOSS](https://open.spotify.com/artist/5qlQBBPsnIsx0UxLSVotFj) | [Premierm Plus](https://open.spotify.com/album/7Kv3Zm5Ku73LE5p5Tv4jPd) | 2:58 | 2025-07-24 |  |
 | [Presagio](https://open.spotify.com/track/0aGQnAIPURJd1RELEAHTtN) | [Omar Vega](https://open.spotify.com/artist/6L3IMMDoS80aLwE3xktcPN) | [Rumbo de luz](https://open.spotify.com/album/3DMjyJVMfigfeVNMkmlehx) | 3:35 | 2025-06-11 |  |
@@ -4386,6 +4387,7 @@
 | [À Quoi Ça Sert](https://open.spotify.com/track/4fV76EXoQhpeB3w9zJBF4h) | [Al 29](https://open.spotify.com/artist/0LebYgYvKDz6SzsFyoeWxs) | [Moi Qui a Mal](https://open.spotify.com/album/0iQHWtIwT46b3Rj97T2Zb4) | 3:59 | 2025-10-13 |  |
 | [Élite Mundial](https://open.spotify.com/track/3MtOrsLxv31SNJeMl3pqlv) | [Velx](https://open.spotify.com/artist/4rGwpY6x2VsXxZ1iAevcGw) | [Élite Mundial](https://open.spotify.com/album/6ZKD1o5vXu3f9cDOr8KJ7e) | 3:17 | 2025-10-07 |  |
 | [Öylece Bıraktığın Yerden](https://open.spotify.com/track/3nfQOWD7pmZjEcPrwXBanW) | [zibidi gonzales](https://open.spotify.com/artist/4AZqCD8QOtlTnQ4S37Z1VN) | [Gurursuz](https://open.spotify.com/album/2giFMp6p1IUf54NyJ9A35f) | 4:07 | 2026-01-30 |  |
+| [Бесконечная петля](https://open.spotify.com/track/4y4beiKEPsz2Bf0cft28Fz) | [ЛАЙТОВЫЙ ТРАУР](https://open.spotify.com/artist/5PwPpI0ZYVLkDltmVlBtAU) | [Потеряться в голове](https://open.spotify.com/album/7vEW4wxbXl9YJWlMcMGSRr) | 2:46 | 2026-05-30 |  |
 | [Буду с тобой](https://open.spotify.com/track/59IGh75jcZX5dytjWQ6zHX) | [ΛNZZ](https://open.spotify.com/artist/3TWeuhaLtXwVABFag0rOLK) | [Буду с тобой](https://open.spotify.com/album/0PuSC7RFOlqwUkw6r0nNhd) | 2:18 | 2025-05-14 |  |
 | [Вдыхая](https://open.spotify.com/track/5wCJdxThWor3Zt8JP7jEOf) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Вдыхая](https://open.spotify.com/album/135EW2AzzOC1uUHc7AXasA) | 3:03 | 2025-05-17 |  |
 | [Вдыхая](https://open.spotify.com/track/7h0NWQtE9GpPGOwPaocdPF) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 3:03 | 2025-06-30 |  |

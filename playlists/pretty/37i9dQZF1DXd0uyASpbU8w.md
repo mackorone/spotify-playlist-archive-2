@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Muneyi, Ariana Grande, Makwa, Yumbs, Bebe Rexha & David Guetta and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,987 likes - 93 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,037 likes - 93 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 12 | [Ba Malatjie](https://open.spotify.com/track/01IxJODXkew2KfcvCndGpH) | [Poobington](https://open.spotify.com/artist/1ue9oEVioYpBEUlvPHnas4), [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [Lexxyphonik](https://open.spotify.com/artist/3RZi3YdYnV4YV5j3biO3f4) | [The American Dream](https://open.spotify.com/album/2sSbsep4UpG0plaFtCoquO) | 4:07 |
 | 13 | [Bosso Ke Mang \(feat\. PLG Chanty, Sonic TSK & Lethabo Chantell Maule\)](https://open.spotify.com/track/6ED6JHTY01a6Srvtqqq7di) | [Tribby wadi bhozza](https://open.spotify.com/artist/1oSGEqStrxauOi4Gmf8jcQ), [PLG Chanty](https://open.spotify.com/artist/0iy6SpAZnBvSYpBw2bFoUQ), [Sonic TSK](https://open.spotify.com/artist/3XODj1KPLBJk3aOIeCz8FI), [Lethabo Chantell Maule](https://open.spotify.com/artist/5l4BnMxFH8J8lYTItZvrhg) | [Kasi Flavour](https://open.spotify.com/album/0xtguH0IrCjTg5SdvNuBtK) | 3:53 |
 | 14 | [BITCH & MONEY](https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 3:15 |
-| 15 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
+| 15 | [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 16 | [GANG BIZNESS feat paygotti](https://open.spotify.com/track/7MBxU6dqMPl4LAC7XacEkv) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [GANG BIZNESS feat paygotti](https://open.spotify.com/album/2ZhRsUqboIjLWBSF14fnMH) | 2:47 |
 | 17 | [Handle](https://open.spotify.com/track/6NDvhN0PFBIioNAbM4EDak) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Handle](https://open.spotify.com/album/7lnMFvhJ0IU7KbludkIay0) | 3:06 |
 | 18 | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Only Love \(feat\. Pa Salieu\)](https://open.spotify.com/album/6nilpOGqIruVfH4w5UDJlY) | 3:22 |

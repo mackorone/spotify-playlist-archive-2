@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,200 songs - 1 day 22 hr 9 min
+1,201 songs - 1 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [From a cloudy sky](https://open.spotify.com/track/6E0xoTUNynlFT6Lm4LVAaw) | [Gogofluc](https://open.spotify.com/artist/6OrQ9gVexUFxOERMRDEmkH) | [From a cloudy sky](https://open.spotify.com/album/3BbAOcLjpCWeM55OmGtLtO) | 1:58 | 2023-10-20 | 2025-07-19 |
 | [fromain](https://open.spotify.com/track/5LhVAZrBWUrqIcCLX90uPa) | [Muddy Mudd](https://open.spotify.com/artist/05oBg7V7OuHrEb1YZ7DuJS) | [fromain](https://open.spotify.com/album/7C3avsrbBhR7CiACWLX1SK) | 2:02 | 2023-09-22 | 2024-08-31 |
 | [fruta verde](https://open.spotify.com/track/5r8OKzdJadvERTJyPPCUCg) | [Mirá](https://open.spotify.com/artist/0dmRquUJ70tvTf8xxeohPa) | [fruta verde](https://open.spotify.com/album/4GuhPC2YJ4vk9njh103Zut) | 1:51 | 2023-09-29 | 2025-08-30 |
-| [Full Moon](https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Full Moon](https://open.spotify.com/album/3OrOAP2SZLl1ds10yp2frH) | 2:13 | 2023-10-13 |  |
+| [Full Moon](https://open.spotify.com/track/1iVqrYE7uhpFotSYT7CB0Z) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Full Moon](https://open.spotify.com/album/3OrOAP2SZLl1ds10yp2frH) | 2:13 | 2023-10-13 | 2026-05-31 |
 | [Future Feline](https://open.spotify.com/track/5wkEOqy092lfdf247rko8x) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Still Sloppy](https://open.spotify.com/album/0hAwuOO6cx2uTvd5Egx7UA) | 1:30 | 2022-06-10 | 2023-07-20 |
 | [Gary](https://open.spotify.com/track/1q1UZUT8oCqhuoaUtOQyk7) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Gary](https://open.spotify.com/album/1wyBKnUiA3N4Rqe8WPvvFd) | 2:02 | 2022-04-15 | 2023-10-13 |
 | [Gelato 33](https://open.spotify.com/track/3Gzs37SLuzINUby4IAD0Hs) | [Hazeeman](https://open.spotify.com/artist/5mLnKXD8YyMwMI7dCBpFkP) | [Amnesia](https://open.spotify.com/album/0gkzkNt2Uj4xz8tNLhDIru) | 1:52 | 2022-04-15 | 2022-09-03 |
@@ -764,6 +764,7 @@
 | [Pink Soda](https://open.spotify.com/track/5MSeGUnLLWatEBCxViIcGC) | [Keylo Parks](https://open.spotify.com/artist/7DDfnMy4LQyQLFMCgQLULn) | [Pink Soda](https://open.spotify.com/album/4H09JXtQEzll5guGsSP2Vt) | 2:42 | 2024-01-05 | 2026-03-18 |
 | [Pink Waters](https://open.spotify.com/track/0RnUzVJENbMYhU5Eb7xbRe) | [dusty dexter](https://open.spotify.com/artist/0KoBEBf7ivUphWtpc5GUqG) | [Pink Waters](https://open.spotify.com/album/6ggugqKNKHGdB96D6Ujotj) | 1:59 | 2022-04-15 | 2022-09-24 |
 | [Piped Up Lately](https://open.spotify.com/track/48CjGSOWBdZ11IOiMAwD0K) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Piped Up Lately](https://open.spotify.com/album/7zRzz2vXolxYUzP8sLQ88g) | 2:20 | 2025-08-22 |  |
+| [Pistacchio](https://open.spotify.com/track/7FUbpPN4QGeQwD6TOj1TJS) | [Paju](https://open.spotify.com/artist/31UA0TK5svTSgKtWS5k8SG), [Brø](https://open.spotify.com/artist/7bT0YuIs8yW2B9Ey8Ybawu) | [Pistacchio](https://open.spotify.com/album/5UOamq0APKOxtb7MImyZZn) | 1:53 | 2026-05-29 |  |
 | [Pjl \- 平和 正義感 フリーダム](https://open.spotify.com/track/2CqgdkFRS2HeiBp0hPvQQc) | [Lusca061](https://open.spotify.com/artist/2aLJPHGJD4D6WAPvS5mW48) | [Pjl \- 平和 正義感 フリーダム](https://open.spotify.com/album/18MpdfuMLX46cV4X6BaeSA) | 3:13 | 2022-04-15 | 2022-07-29 |
 | [Plant Based](https://open.spotify.com/track/1xhKWuFY0iCBsUgLOKzxdJ) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo) | [Plant Based](https://open.spotify.com/album/5DolwMWX6UsnOODUpAKscF) | 1:57 | 2022-04-15 | 2022-07-29 |
 | [Plant Based](https://open.spotify.com/track/5sZYbMFFIS4raZVntbfOfZ) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo) | [Plant Based](https://open.spotify.com/album/2Ep5JJmZhnzaWMK1K33QX2) | 1:57 | 2022-07-29 | 2023-10-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Akylas
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,980 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,982 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Ekeinos](https://open.spotify.com/track/7vEFGoqbuVcLmyCkBKFDkQ) | [Giorgos Papadopoulos](https://open.spotify.com/artist/4ONfSbgDnJ1fGfSRHKPbyz) | [Ekeinos](https://open.spotify.com/album/7I5lgVW7EKY6x322AEoATa) | 3:16 |
 | 50 | [Xronomixani](https://open.spotify.com/track/0uHiM7lWdLZvsUJO24C5rX) | [Solmeister](https://open.spotify.com/artist/24Dj1piBfpK6bL3WwIFq48), [\_sunset](https://open.spotify.com/artist/7wW1i3pFTsdxc7yqYAH2Vu) | [Xronomixani](https://open.spotify.com/album/4slQ6jKbvEP4KldHnawRH6) | 3:37 |
 
-Snapshot ID: `AAAAABtCGIXksW1AgLqlvUYaqzyPUMWB`
+Snapshot ID: `AAAAAAwZXlNJOuDmfNkPFij3tOmNhLt+`

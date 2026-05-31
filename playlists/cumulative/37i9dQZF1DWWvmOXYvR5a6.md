@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: MilliMax\(밀리맥스\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Brian Chase\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-829 songs - 1 day 20 hr 16 min
+830 songs - 1 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [iffy \(Prod\. GroovyRoom\)](https://open.spotify.com/track/4q9JLlC3HIhN4CDC6KlpYK) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB) | [Dingo X H1GHR MUSIC](https://open.spotify.com/album/2t5fdLTQu0xX89rDf4NMNX) | 4:19 | 2022-07-24 |  |
 | [IIII](https://open.spotify.com/track/0U7bTv1s1bTVFDumtnM81H) | [EXN](https://open.spotify.com/artist/5s57OpnkDtehlRDTZcLGFE) | [IIII](https://open.spotify.com/album/0pZZCpIEQcr52yFXtL6UuS) | 2:55 | 2022-07-07 | 2022-07-23 |
 | [illa illa](https://open.spotify.com/track/02UxgpMd5uzA9h39tN7v3x) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu) | 3:25 | 2022-07-24 | 2024-04-19 |
-| [illa illa](https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:25 | 2022-04-01 |  |
+| [illa illa](https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [WATERFALL](https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t) | 3:25 | 2022-04-01 | 2026-05-31 |
 | [in my room \(feat\. pH\-1, Marv\) \(prod\. moocean\)](https://open.spotify.com/track/3x3STzbhNeCivtioNh2k2I) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [love is](https://open.spotify.com/album/5uivJupx1ZmlrLMIBVbbYy) | 3:57 | 2023-05-05 | 2023-06-12 |
 | [Independent Music](https://open.spotify.com/track/7Jin5db4i7evTFvtGU1Am1) | [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq) | [Independent Music](https://open.spotify.com/album/5KyAvL3uY3CsyNXPjKmDyU) | 3:10 | 2022-05-11 | 2022-07-24 |
 | [INEEDYOURLOVE](https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [INEEDYOURLOVE](https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh) | 3:42 | 2023-08-25 | 2023-12-05 |
@@ -536,6 +536,7 @@
 | [OUR LOVE](https://open.spotify.com/track/6WzG5XMZcRIMk9GtO1RwqX) | [Halsoon](https://open.spotify.com/artist/0sNCNblXQopxO3mIssE1dG), [104](https://open.spotify.com/artist/70lxm9Zz1sKBCez2iEHnu8) | [OUR LOVE](https://open.spotify.com/album/36y5BIfDoZWkh4QMXFqqdl) | 2:59 | 2022-07-04 | 2022-07-15 |
 | [Out Of Control \(feat\. Austn\)](https://open.spotify.com/track/69d5Z6u2fUgVZjQ1RnGqed) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr), [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR), [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [Out Of Control Vol.1](https://open.spotify.com/album/79Qt6gWXEzQsK7Kyg41KnH) | 2:32 | 2022-05-03 | 2022-05-06 |
 | [OUT OF MY SIGHT](https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [VIOLINIST2](https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT) | 3:26 | 2022-04-01 |  |
+| [OUTSIDE](https://open.spotify.com/track/5q6UIOiX4ipmWKCrsKpVAk) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [OUTSIDE](https://open.spotify.com/album/5LkiOqXF3ieFOFEREqlqt7) | 2:51 | 2026-05-30 |  |
 | [Over You](https://open.spotify.com/track/3Qi024yD0YtE3nUqv1mCAp) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Over You](https://open.spotify.com/album/5rr6ZH6LQckgwvHaIgPsPI) | 3:27 | 2023-11-21 |  |
 | [Over You](https://open.spotify.com/track/53Ck0tEqxMbgP9GpBSN1cl) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa) | [Focused On Getting Rich](https://open.spotify.com/album/19nQ5tfbjcexQxVXWToO1u) | 2:18 | 2026-03-03 |  |
 | [Pajama](https://open.spotify.com/track/0rtUHxLBR3MARvki4YVOzL) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [TENT 0.3](https://open.spotify.com/album/2Lvb2FmWvthR6XPszLF41J) | 2:39 | 2024-09-03 | 2024-09-28 |

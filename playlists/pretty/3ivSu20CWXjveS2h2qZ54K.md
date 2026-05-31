@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,907 likes - 85 songs - 4 hr 38 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,906 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 40 | [Rambla](https://open.spotify.com/track/6tPb94sfjT5Chm7KtOBaXO) | [farmar](https://open.spotify.com/artist/4KJhjfq2vOKNzDfeIqbe4L) | [Rambla](https://open.spotify.com/album/0k08TVOarjIhpA94WiDfY5) | 3:12 |
 | 41 | [Smugglers & Scholars \(feat\. Killer Mike\)](https://open.spotify.com/track/0PcvDbmXlrh7NfDBCxR8Hp) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Smugglers & Scholars \(feat\. Killer Mike\)](https://open.spotify.com/album/4ANRVMnwUmE27fbXVpqfvE) | 3:30 |
 | 42 | [Ain't Dead Yet](https://open.spotify.com/track/4Lx2gmkk1OO863VQDlFJMK) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [Ain't Dead Yet](https://open.spotify.com/album/5Jr87sM5qXE1lMc96glXNn) | 2:52 |
-| 43 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
+| 43 | [Hostage](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 |
 | 44 | [Torture of the Heart](https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Torture of the Heart](https://open.spotify.com/album/48NX8QQxqYKR5mK11evUBi) | 3:22 |
 | 45 | [Roto de corazón](https://open.spotify.com/track/104D5Q3VP3MDLTNJwAfkgi) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq) | [Roto de corazón](https://open.spotify.com/album/35oVMxqhEgLPpmCXdlB2a5) | 2:41 |
 | 46 | [Giraffe](https://open.spotify.com/track/7DQ3JbZ8JmjjxoGmOYkjoR) | [Gilla Band](https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S) | [Giraffe](https://open.spotify.com/album/3uFbktga31i0ft3ZwRhrNp) | 4:28 |

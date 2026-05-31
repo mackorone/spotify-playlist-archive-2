@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Agris en portada.
 
-842 songs - 2 day 1 hr 24 min
+842 songs - 2 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -751,6 +751,7 @@
 | [Todo Acaba Mal](https://open.spotify.com/track/2r9Qk7BnAFVEhESJU5J4wz) | [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn) | [Todo Acaba Mal](https://open.spotify.com/album/0T1v6nMqxaMb2nadYLntW5) | 2:41 | 2024-06-21 | 2024-10-05 |
 | [Todo Bien \(Mentira\)](https://open.spotify.com/track/7pUXmxfXKq7wBNOFiij5lB) | [Todo Arde En Silencio](https://open.spotify.com/artist/1D7PyEtL78gKjto4erdkd8), [Samuek](https://open.spotify.com/artist/1z4ITYjGrpAuU7cPXTZxvc) | [Todo Bien \(Mentira\)](https://open.spotify.com/album/5L64RkRKhqGYpWd15tePV9) | 2:22 | 2026-02-13 | 2026-05-09 |
 | [Todo Cuenta](https://open.spotify.com/track/25ayfrtkcSJfE93B8mnhRT) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Primario](https://open.spotify.com/album/2ATnlNdhTGBHX9SYn3UoL0) | 3:52 | 2021-12-17 | 2024-08-03 |
+| [Todo de Mí](https://open.spotify.com/track/2tzVYlsAGm56pyDjp8Y67Z) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [No Es Que No Te Quiera Pero…](https://open.spotify.com/album/2royTQSIWVJ1wUbKpq7rlg) | 3:05 | 2026-05-29 |  |
 | [Todo el Día de Hoy](https://open.spotify.com/track/2bNZpngzQy9PfdwUWtv7yS) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl) | [Lapeste](https://open.spotify.com/album/6cPThDDpJEvAyuqeRlqZgN) | 4:30 | 2022-12-16 | 2023-01-07 |
 | [Todo Lo Que Fue](https://open.spotify.com/track/3t94KpTxLehlg6nm7h5wVY) | [ZEEVA](https://open.spotify.com/artist/5c7xVgAzKeYYrYnKTrHELH), [xKori](https://open.spotify.com/artist/7482JBrvZ3ILAr4vVigQvI) | [Todo Lo Que Fue](https://open.spotify.com/album/0FRn4ltt8bTuNAqUSb4jWB) | 2:38 | 2025-01-24 | 2025-04-12 |
 | [todo salió mal](https://open.spotify.com/track/7im6JrGLc5nhNfyWTfSCPS) | [The Space Ocean](https://open.spotify.com/artist/2ayaTHAzCLG5bNjYhGofYb) | [todo salió mal](https://open.spotify.com/album/2lDWwIstIBdBVxNwtVyLqR) | 2:47 | 2025-05-23 | 2025-09-27 |
@@ -759,7 +760,6 @@
 | [Tokyo](https://open.spotify.com/track/4YETK2Zs4oJ6YIAVbfqYMH) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Tokyo](https://open.spotify.com/album/2XbAH4JRlR941sejnT2suC) | 3:14 | 2023-09-29 | 2024-07-13 |
 | [Tomar el Sol](https://open.spotify.com/track/16uqfvpkuIw0oLFWXIBeN9) | [Lanza Internacional](https://open.spotify.com/artist/5s4SbJgMMtIyl0caPyZMmT) | [Lanza Internacional](https://open.spotify.com/album/5MC0RCLUWwbTE4UHGhAtxm) | 5:38 | 2021-12-17 | 2023-11-11 |
 | [Torreta](https://open.spotify.com/track/4mCVL6ScNCjvftMsydugz6) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Torreta](https://open.spotify.com/album/11cTYPYA2YQrMc9OVGTVJY) | 1:29 | 2025-10-24 | 2026-03-21 |
-| [Track 13](https://open.spotify.com/track/2tzVYlsAGm56pyDjp8Y67Z) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [No Es Que No Te Quiera Pero…](https://open.spotify.com/album/2royTQSIWVJ1wUbKpq7rlg) | 0:00 | 2026-05-29 |  |
 | [Tragos de Amargo Licor](https://open.spotify.com/track/4DANpl1NXr6YJIlP37vm7W) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Los Amigos Reales](https://open.spotify.com/album/1Pm0bM390rMtjBWpvBqFg2) | 2:56 | 2024-09-20 | 2025-01-25 |
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-07-07 | 2023-07-22 |
 | [Transforma](https://open.spotify.com/track/6wBIOgxmVa68TxzBvROZnU) | [Pequeño Fénix](https://open.spotify.com/artist/0fuWp7kffdhZk9XrQdF7Sb) | [SUPERALMA](https://open.spotify.com/album/00aqqoS6QTBSnQmnoemdkf) | 4:04 | 2022-09-02 | 2022-09-28 |

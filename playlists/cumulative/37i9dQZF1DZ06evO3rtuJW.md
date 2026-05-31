@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-231 songs - 11 hr 40 min
+232 songs - 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Any Other Way](https://open.spotify.com/track/2tCtzpukuW4P20KmAcQ2P6) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 2:46 | 2023-05-01 | 2023-05-28 |
 | [Aye \(feat\. Offset\)](https://open.spotify.com/track/3O0W0PorDwqsEuZRl7A9Pi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:11 | 2022-10-28 | 2023-04-23 |
 | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/track/2HvORsttUMTfUqEyhX7z1x) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/album/2DTtyXTqV77kHcu20TDNyE) | 2:51 | 2023-06-16 | 2023-12-14 |
-| [Back 2 Back](https://open.spotify.com/track/1tsDf9YBzRuAon9RgzfyOd) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Most Hated 2](https://open.spotify.com/album/6xQrmsJcsLLZnPfYErWuKW) | 2:34 | 2026-03-15 |  |
+| [Back 2 Back](https://open.spotify.com/track/1tsDf9YBzRuAon9RgzfyOd) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Most Hated 2](https://open.spotify.com/album/6xQrmsJcsLLZnPfYErWuKW) | 2:34 | 2026-03-15 | 2026-05-31 |
 | [Ball \(feat\. Meek Mill\)](https://open.spotify.com/track/5bHUIeEigheHTuIyNFAyms) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 3:30 | 2024-11-11 | 2024-12-10 |
 | [Becoming](https://open.spotify.com/track/3XnjwiaFgTM45NmfCtDldk) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Blanco 6](https://open.spotify.com/album/2yRwXVqJ8Bz1jYUEghIsTk) | 2:51 | 2023-04-11 | 2023-06-21 |
 | [Been A While](https://open.spotify.com/track/0B0uobFNRxL0yr1zFZ0Fgw) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 3:25 | 2023-04-03 | 2023-05-30 |
@@ -207,6 +207,7 @@
 | [Through The Fire](https://open.spotify.com/track/0EngAXfx8kNX7I8W4CVJZX) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 3:07 | 2025-04-20 | 2025-08-03 |
 | [Through The Fire](https://open.spotify.com/track/25fdio8bhsK7Z93UXjfvKd) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8) | 3:07 | 2025-08-31 | 2025-09-28 |
 | [Throw \(feat\. G Herbo\)](https://open.spotify.com/track/4GPdoLd1cWW8vgmij3mxLb) | [MAF Teeski](https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [BIG SCOOM \(Vol\. 1\)](https://open.spotify.com/album/08IxpbkS8U33weBUBYOy49) | 2:53 | 2024-12-31 | 2025-04-11 |
+| [Thug](https://open.spotify.com/track/0iZh4VcMhp8zoTlvk8HWZD) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Thug](https://open.spotify.com/album/4aEj8HrgkscnDkdu5oPyqu) | 2:25 | 2026-05-31 |  |
 | [Thuggin](https://open.spotify.com/track/3uZDY0QgBOg6GIxCHy6L2S) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Luca Brasi 4](https://open.spotify.com/album/2MrBg0bmBOii342VanrH6v) | 2:24 | 2025-08-15 | 2025-12-01 |
 | [TO THE GRAVE](https://open.spotify.com/track/12Qfni7HZUowpG6NNtM10g) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [TO THE GRAVE](https://open.spotify.com/album/3oftYhgmFsRf56Ivz1CbVV) | 3:36 | 2024-06-18 | 2024-10-19 |
 | [TO THE GRAVE](https://open.spotify.com/track/2d1HzUNg6hkZx69wHRPhTS) | [HotBlock Jmoe](https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THA STREETS VOL 1](https://open.spotify.com/album/4bLE8jmz0HJlQcSaT8zrob) | 3:41 | 2025-01-30 | 2025-02-17 |

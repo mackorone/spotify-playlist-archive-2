@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> New & Hottest K\-Hip Hop is here\. \(Cover: Jay Park & LNGSHOT\)
+> New & Hottest K\-Hip Hop is here\. \(Cover: BewhY\)
 
-1,900 songs - 4 day 5 hr 35 min
+1,902 songs - 4 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Alright \(feat\. pH\-1, HAON & Jay Park\)](https://open.spotify.com/track/4e1o6BLtgFcDbaXEF1W6mA) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [POP A LOT](https://open.spotify.com/album/1QbzttUvCTfS4Auh28FsVf) | 3:10 | 2023-08-09 | 2024-03-09 |
 | [Ambition](https://open.spotify.com/track/5oxIQwbWIvAIYDmB2K8E6j) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [AMBITION 2/10](https://open.spotify.com/album/72jqOxG7FqqoUryy2GlCFl) | 3:12 | 2026-02-11 |  |
 | [Ambitious B](https://open.spotify.com/track/7fKg4Spmggqu64lZSgmv8J) | [Yumewanaii](https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8) | [Ambitious B](https://open.spotify.com/album/3SbEXP35GLeN3ez8RQRncM) | 1:36 | 2025-09-08 | 2025-12-10 |
+| [AMBITIUN](https://open.spotify.com/track/76rhDyuK7Tevz35ZyXg9YO) | [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8) | [AMBITIUN](https://open.spotify.com/album/2bkjeiI3hNKJWRl9UCIGlk) | 3:13 | 2026-05-30 |  |
 | [Ambush \(Prod\. APRO\)](https://open.spotify.com/track/0uk23NJvJEd672W6Ks8PPe) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [Luci Gang](https://open.spotify.com/artist/6bdK4VbII2XlfccYCeK47S), [KIM KIPYO](https://open.spotify.com/artist/2tEjwojzeAyfw3efs9s4fG) | [RAP:PUBLIC FINAL](https://open.spotify.com/album/6Fe3AaeLDjpSHZy4CEJ1KU) | 3:38 | 2024-12-11 | 2025-04-25 |
 | [Anbu \(Feat\. VINXEN, NO:EL\)](https://open.spotify.com/track/6x7c8C7ds3L4qTtXX7UEX8) | [NE:ON](https://open.spotify.com/artist/2bhYmlBehpmfopU0TroWem), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q), [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV) | [Anbu \(Feat\. VINXEN, NO:EL\)](https://open.spotify.com/album/0ouGwuWLW4uVSxQp9FPKj9) | 3:04 | 2024-03-05 | 2024-06-05 |
 | [ANI\(feat.SOYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/3l1xBiDVRNJHTx4WvITGfs) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [ANI\(feat.SOYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/album/5nt7HzeKaxAp6Gh4fZoqMm) | 3:01 | 2021-12-21 | 2022-07-04 |
@@ -1521,6 +1522,7 @@
 | [STAY THE NIGHT \(Feat\. DeVita\)](https://open.spotify.com/track/3mTYmxNyeKiZuYHdOw5W0j) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [STAY THE NIGHT \(She is My Type♡ X GRAY\)](https://open.spotify.com/album/1QlyNYwz5B7KAKElSrMm2v) | 2:55 | 2021-12-18 | 2022-07-08 |
 | [STAY TOGETHER](https://open.spotify.com/track/5clZZrlClVtbBYPy1ydbDa) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Lean$moke](https://open.spotify.com/artist/09KnkYAktjhPJQ6E8CedDA) | [Iceberg Syndrome](https://open.spotify.com/album/4XIC3O8Us3Fk8rfW7gAwuT) | 3:16 | 2024-07-31 | 2024-11-07 |
 | [Stay With Me \(Feat\. Skinny Brown\)](https://open.spotify.com/track/4YJlv9lK1EsszlUZ4ekj7I) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Stay With Me](https://open.spotify.com/album/1WrH1x8AufHskA9Z2rFJOO) | 2:52 | 2023-12-18 | 2024-05-03 |
+| [STIGMATA](https://open.spotify.com/track/4qVWdknjmRgKPLTym3ENhh) | [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [POP IS CRYIN'](https://open.spotify.com/album/2h40qzkfv5Key1ZcCzujQB) | 2:44 | 2026-05-30 |  |
 | [Still Freestylin'](https://open.spotify.com/track/4pH7JqQP1CQnQAmhvF7acS) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Still Freestylin'](https://open.spotify.com/album/7FM3SdqxHnpsfbyLxhlQMz) | 3:13 | 2026-05-11 |  |
 | [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/12hD59WtTU92K1VcCXqLlw) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 2:55 | 2022-12-02 | 2022-12-19 |
 | [Still Life \(with Anderson .Paak\)](https://open.spotify.com/track/3p4N6mBFv42M8dI8SUoPre) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 2:55 | 2022-12-14 | 2024-06-05 |
