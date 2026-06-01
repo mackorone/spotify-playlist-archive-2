@@ -2,29 +2,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 ### [Buzz Tracker \#バズトラ](https://open.spotify.com/playlist/37i9dQZF1DXdTxsEGukhp4)
 
-> TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: セカンドバッカー
+> TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 楽音
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,017 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,076 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SOS](https://open.spotify.com/track/3I2mKETQKvGkaAQtQMRiWa) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [SOS](https://open.spotify.com/album/5MSAjm42tFoSRM1emzt9VY) | 4:26 |
-| 2 | [犬とバカ猫](https://open.spotify.com/track/5CifiKtU7pNzCQ9GdV3xfE) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [犬とバカ猫](https://open.spotify.com/album/65467rSxnHNRnRlHHY6412) | 3:14 |
-| 3 | [ツンデレ](https://open.spotify.com/track/4ZV0sDpdtIScjt8oeBNEHV) | [なえなの](https://open.spotify.com/artist/4AkYIS5laEOXhlRNBEPaiM), [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [ツンデレ](https://open.spotify.com/album/1Q5qwdHsxSh4MwRQusVLpd) | 3:05 |
+| 1 | [mosi mosi?](https://open.spotify.com/track/76oCvJj6LRoed2754GybpH) | [楽音](https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L) | [mosi mosi?](https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5) | 2:43 |
+| 2 | [mosi mosi? \- Korean ver.](https://open.spotify.com/track/69GBglAPVNImTzGiklvZjA) | [楽音](https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L) | [mosi mosi? \(Korean ver.\)](https://open.spotify.com/album/62KWo4XIidEXfg71CnTQQZ) | 2:43 |
+| 3 | [SOS](https://open.spotify.com/track/3I2mKETQKvGkaAQtQMRiWa) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [SOS](https://open.spotify.com/album/5MSAjm42tFoSRM1emzt9VY) | 4:26 |
 | 4 | [ほんまやで☆なんでやねん☆しらんけど](https://open.spotify.com/track/4ufk3YG63bwSLIqZ8vdgFx) | [モナキ](https://open.spotify.com/artist/48La8eUwq93H7Va1Hl4bMd) | [ほんまやで☆なんでやねん☆しらんけど／こんなもんじゃねぇ \(Aタイプ\)](https://open.spotify.com/album/3mcZV7uNaUca6jvyH5Akyu) | 3:31 |
-| 5 | [mosi mosi?](https://open.spotify.com/track/76oCvJj6LRoed2754GybpH) | [楽音](https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L) | [mosi mosi?](https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5) | 2:43 |
-| 6 | [夜の踊り子](https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 5:02 |
-| 7 | [トンツカタンタン](https://open.spotify.com/track/2bonDeesq7NsHnfeMNDhZv) | [クレイジーウォウウォ！！](https://open.spotify.com/artist/7GSqiihDPb6AjoK8lh40fh) | [トンツカタンタン](https://open.spotify.com/album/6OPk5SaDBxwv0KOku8sZNC) | 3:50 |
-| 8 | [My SunShine](https://open.spotify.com/track/5AplfXQJgaj3lsGj1ShWAW) | [ROCK'A'TRENCH](https://open.spotify.com/artist/1kWzWCT81LMI1c5FpWPc4u) | [ACTION!](https://open.spotify.com/album/5yKG9a1Z9PWFgB9UEJGx8s) | 4:27 |
-| 9 | [キミに100パーセント \- アニメヴァージョン](https://open.spotify.com/track/1qL3lAvrurNvpif4BiYsTF) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [キミに100パーセント\(アニメヴァージョン\)](https://open.spotify.com/album/0CIAMbcW40zEx9F7404j82) | 1:06 |
-| 10 | [MONTAGEM HIKARI](https://open.spotify.com/track/0XqgE9UN4MCo5ooIwUYm7l) | [BellyJay](https://open.spotify.com/artist/1AldIZRmNccuXCk2uoYcpv) | [MONTAGEM HIKARI](https://open.spotify.com/album/0anDjww4IXQWw3aeUO3PZG) | 1:29 |
-| 11 | [爆裂愛してる](https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [爆裂愛してる](https://open.spotify.com/album/6w5De26ICkG8LOnpRe3xPA) | 3:25 |
-| 12 | [最初はキュン！](https://open.spotify.com/track/5WBFEpEo85flRybWZfqhHf) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [IDOL1ST \(Special Edition\)](https://open.spotify.com/album/3CN0ZrWt88sbfjYsDYqJvq) | 2:57 |
-| 13 | [two](https://open.spotify.com/track/02qqbVSYkDc6FTClN5gwH5) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [bbno$](https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T) | 2:15 |
-| 14 | [君の恋人になったら](https://open.spotify.com/track/0k4KaqElLVjdR6sVHPTS6h) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ハッピーエンド](https://open.spotify.com/album/756KBTfY0YiHQNkg3UJhR6) | 4:04 |
-| 15 | [君が眩しいから僕は星が見えない](https://open.spotify.com/track/2AofAbNYmyevuCF6JEnyOZ) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [All Right](https://open.spotify.com/album/46YRge9mufTuhuFD4IZr1n) | 3:55 |
-| 16 | [幸せって。](https://open.spotify.com/track/5qPW4tQpwbrasMVde5bW1j) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [For You](https://open.spotify.com/album/437Kmqhu3cM3NMCcY5JeHo) | 4:19 |
-| 17 | [Theater](https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [STARRING](https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM) | 3:20 |
+| 5 | [夜の踊り子](https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [sakanaction](https://open.spotify.com/album/6fCKQaXvHahkOfGO0BvGSr) | 5:02 |
+| 6 | [トンツカタンタン](https://open.spotify.com/track/2bonDeesq7NsHnfeMNDhZv) | [クレイジーウォウウォ！！](https://open.spotify.com/artist/7GSqiihDPb6AjoK8lh40fh) | [トンツカタンタン](https://open.spotify.com/album/6OPk5SaDBxwv0KOku8sZNC) | 3:50 |
+| 7 | [My SunShine](https://open.spotify.com/track/5AplfXQJgaj3lsGj1ShWAW) | [ROCK'A'TRENCH](https://open.spotify.com/artist/1kWzWCT81LMI1c5FpWPc4u) | [ACTION!](https://open.spotify.com/album/5yKG9a1Z9PWFgB9UEJGx8s) | 4:27 |
+| 8 | [キミに100パーセント \- アニメヴァージョン](https://open.spotify.com/track/1qL3lAvrurNvpif4BiYsTF) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [キミに100パーセント\(アニメヴァージョン\)](https://open.spotify.com/album/0CIAMbcW40zEx9F7404j82) | 1:06 |
+| 9 | [MONTAGEM HIKARI](https://open.spotify.com/track/0XqgE9UN4MCo5ooIwUYm7l) | [BellyJay](https://open.spotify.com/artist/1AldIZRmNccuXCk2uoYcpv) | [MONTAGEM HIKARI](https://open.spotify.com/album/0anDjww4IXQWw3aeUO3PZG) | 1:29 |
+| 10 | [爆裂愛してる](https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [爆裂愛してる](https://open.spotify.com/album/6w5De26ICkG8LOnpRe3xPA) | 3:25 |
+| 11 | [最初はキュン！](https://open.spotify.com/track/5WBFEpEo85flRybWZfqhHf) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [IDOL1ST \(Special Edition\)](https://open.spotify.com/album/3CN0ZrWt88sbfjYsDYqJvq) | 2:57 |
+| 12 | [two](https://open.spotify.com/track/02qqbVSYkDc6FTClN5gwH5) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [bbno$](https://open.spotify.com/album/6NnOcPG7uLUSpJTS83Ra1T) | 2:15 |
+| 13 | [君の恋人になったら](https://open.spotify.com/track/0k4KaqElLVjdR6sVHPTS6h) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ハッピーエンド](https://open.spotify.com/album/756KBTfY0YiHQNkg3UJhR6) | 4:04 |
+| 14 | [君が眩しいから僕は星が見えない](https://open.spotify.com/track/2AofAbNYmyevuCF6JEnyOZ) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [All Right](https://open.spotify.com/album/46YRge9mufTuhuFD4IZr1n) | 3:55 |
+| 15 | [幸せって。](https://open.spotify.com/track/5qPW4tQpwbrasMVde5bW1j) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [For You](https://open.spotify.com/album/437Kmqhu3cM3NMCcY5JeHo) | 4:19 |
+| 16 | [Theater](https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [STARRING](https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM) | 3:20 |
+| 17 | [ツンデレ](https://open.spotify.com/track/4ZV0sDpdtIScjt8oeBNEHV) | [なえなの](https://open.spotify.com/artist/4AkYIS5laEOXhlRNBEPaiM), [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [ツンデレ](https://open.spotify.com/album/1Q5qwdHsxSh4MwRQusVLpd) | 3:05 |
 | 18 | [だよ](https://open.spotify.com/track/2P29b4IhpipUwq6OKMwda8) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [だよ](https://open.spotify.com/album/5HMF0jFGPGqtHka0GoIoge) | 3:19 |
 | 19 | [SWEET STEP](https://open.spotify.com/track/1tZ8w3UVU4KbABQArIlUmk) | [SWEET STEADY](https://open.spotify.com/artist/1UyIqMBjk0DMexWtQF2X1i) | [SWEET STEP](https://open.spotify.com/album/5wovGLGVXOz9b0yRVqszEL) | 2:43 |
 | 20 | [TOKYO DRIFT](https://open.spotify.com/track/4bNEc5GcevI0JyvVgTv2nZ) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/5RMTQ1Qu7bGVyDmyhAXzdC) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [Summer Ride \- feat\. ¥ellow Bucks](https://open.spotify.com/track/71QDzMWQQz9ZzYauqza7N6) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Summer Ride \(feat\. ¥ellow Bucks\)](https://open.spotify.com/album/4Sm6CO2ZEQpTdALfsR1Sb4) | 2:51 |
 | 50 | [キューにストップできません！](https://open.spotify.com/track/5OX4Nq07ulpm1uleSR6wAQ) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [キューにストップできません！](https://open.spotify.com/album/6oLeXGeM7Dv4wr1cB1E1X3) | 3:42 |
 
-Snapshot ID: `AAAAACiHsVGFKufTNezlop8q6ikynvC5`
+Snapshot ID: `AAAAACqS5BJaznqAub3NycW84ltnhjwy`

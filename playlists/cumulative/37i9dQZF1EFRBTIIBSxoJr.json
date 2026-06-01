@@ -886,10 +886,28 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 198809,
       "name": "Four Letters",
       "url": "https://open.spotify.com/track/1SujOS52KWiUrFbhGSSv0T"
+    },
+    {
+      "album": {
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/3cuU62OolExReMJHsckJt1"
+      },
+      "artists": [
+        {
+          "name": "Lawson",
+          "url": "https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198809,
+      "name": "Four Letters",
+      "url": "https://open.spotify.com/track/7EYVIDHuV5wQtKypKLeSrI"
     },
     {
       "album": {

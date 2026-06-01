@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,470 likes - 75 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,657 likes - 75 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 5 | [Tenderly](https://open.spotify.com/track/4GexggWZGdd0ER5wBAtuwF) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors \(Expanded Edition\)](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:01 |
 | 6 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 |
 | 7 | [Stardust](https://open.spotify.com/track/5gHPj9g3L9e2cu81LZUc5F) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The President Plays With The Oscar Peterson Trio](https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq) | 3:32 |
-| 8 | [Dancing In The Dark](https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 4:07 |
-| 9 | [That Ole Devil Called Love](https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:17 |
-| 10 | [Where Are You \- Remastered](https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:10 |
-| 11 | [Virgo \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:06 |
-| 12 | [Deep In A Dream](https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Leapin' And Lopin'](https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm) | 6:42 |
-| 13 | [I Waited For You](https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Volume 2](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 3:29 |
-| 14 | [Tangerine](https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:20 |
+| 8 | [Where Are You \- Remastered](https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:10 |
+| 9 | [Dancing In The Dark](https://open.spotify.com/track/5DDx7lVobjWfLyvRDtW7BX) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 4:07 |
+| 10 | [That Ole Devil Called Love](https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 3:17 |
+| 11 | [Deep In A Dream](https://open.spotify.com/track/0em61RfC2p6XAi9cBSEjE6) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Leapin' And Lopin'](https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm) | 6:42 |
+| 12 | [Virgo \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:06 |
+| 13 | [Tangerine](https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:20 |
+| 14 | [I Waited For You](https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Volume 2](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 3:29 |
 | 15 | [Stardust](https://open.spotify.com/track/2KfxK9sO9xnjeFxizuXljy) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 2:26 |
 | 16 | [\(It Will Have To Do\) Until The Real Thing Comes Along \- Remastered](https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:49 |
 | 17 | [The Midnight Sun Will Never Set](https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:57 |

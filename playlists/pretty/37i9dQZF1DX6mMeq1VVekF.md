@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Alewya
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,736 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,738 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 34 | [Chameleon](https://open.spotify.com/track/1EcXdrJ3qgbgHiPR2wZyRe) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Chameleon](https://open.spotify.com/album/5ME2rABxMciklKhCnrWYaY) | 2:26 |
 | 35 | [i hope you're ready](https://open.spotify.com/track/5aG0VbqVEE7Egpdc2YLBzZ) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [BLACKS LAW](https://open.spotify.com/album/3JG5TTWwvr0IEtb5OyKxWe) | 3:43 |
 | 36 | [Devil In Disguise](https://open.spotify.com/track/0SeiW54NQCIWZkD3dSK3cA) | [BaggE](https://open.spotify.com/artist/4ZO0hWTm3mUwCVF1BlELp8) | [Devil In Disguise](https://open.spotify.com/album/2rQQonbrweOupwqG3Sfd07) | 3:08 |
-| 37 | [On With The Show](https://open.spotify.com/track/7eCGf54RZlK7XjxfhbIsgr) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [On With The Show](https://open.spotify.com/album/35KxRfr6lCxdoMiXsjQR6D) | 2:27 |
-| 38 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |
-| 39 | [JIGGY](https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz), [LEE.](https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG) | [JIGGY](https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe) | 2:21 |
-| 40 | [City of Symbols](https://open.spotify.com/track/1JAXKQ9M0xWhwk7l1y7MHQ) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm), [eejebee](https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu), [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [City of Symbols](https://open.spotify.com/album/2VmpZccsh5CCOOyURSWExW) | 3:29 |
-| 41 | [Crashing Out!](https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Crashing Out!](https://open.spotify.com/album/2flNDWDgl7QUJUX1wwsxla) | 2:33 |
-| 42 | [the beginning of the end](https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the beginning of the end](https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc) | 2:51 |
-| 43 | [Figure It Out](https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figure It Out](https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD) | 3:11 |
+| 37 | [Crashing Out!](https://open.spotify.com/track/7EMXZO6LkLU4HBsBB9LZjt) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [Crashing Out!](https://open.spotify.com/album/2flNDWDgl7QUJUX1wwsxla) | 2:33 |
+| 38 | [On With The Show](https://open.spotify.com/track/7eCGf54RZlK7XjxfhbIsgr) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [On With The Show](https://open.spotify.com/album/35KxRfr6lCxdoMiXsjQR6D) | 2:27 |
+| 39 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 |
+| 40 | [JIGGY](https://open.spotify.com/track/3bwSYqsCf1FLQ3bZN8zepl) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz), [LEE.](https://open.spotify.com/artist/5hKBEuzwAfFqH7ZZ167NeG) | [JIGGY](https://open.spotify.com/album/6ufPPtJ4nLKEc1wAZI8IOe) | 2:21 |
+| 41 | [City of Symbols](https://open.spotify.com/track/1JAXKQ9M0xWhwk7l1y7MHQ) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm), [eejebee](https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu), [Vraell](https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO) | [City of Symbols](https://open.spotify.com/album/2VmpZccsh5CCOOyURSWExW) | 3:29 |
+| 42 | [Figure It Out](https://open.spotify.com/track/1rCx6JsPW5DP31O5DoVN3C) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Figure It Out](https://open.spotify.com/album/6hXhIGninvkhV0kOOFZuMD) | 3:11 |
+| 43 | [the beginning of the end](https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the beginning of the end](https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc) | 2:51 |
 | 44 | [Give Me Time](https://open.spotify.com/track/3p1bQx6kqm8p9PCFELKkNG) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Give Me Time](https://open.spotify.com/album/6yIT2IQGECZ0BWl3krrL3J) | 3:39 |
 | 45 | [Azimuth](https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [eniola](https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY) | [Azimuth](https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA) | 4:26 |
 | 46 | [To Be Found](https://open.spotify.com/track/2vU95jI1hFEHcKgonUcrlF) | [DHANYA](https://open.spotify.com/artist/4SWESjuSbInxK2MAbQGhbJ), [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [To Be Found](https://open.spotify.com/album/4BtnAuulML7FN3rALzq7sr) | 3:40 |

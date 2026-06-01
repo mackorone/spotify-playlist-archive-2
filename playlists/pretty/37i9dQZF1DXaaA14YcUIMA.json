@@ -1,6 +1,6 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 662927,
+  "num_followers": 663088,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Mas Alla Del Tiempo Y La Distancia",
-        "url": "https://open.spotify.com/album/5As1BGh84PNzMhuuhYQdmt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
-        }
-      ],
-      "duration_ms": 225653,
-      "name": "Doy La Vida Por Un Beso",
-      "url": "https://open.spotify.com/track/5WejEyXB6jW1CTmCVPRHRP"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "En Su Punto",
         "url": "https://open.spotify.com/album/0ph5nQiD5JvQHBC0AsKvTJ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 233266,
       "name": "Rosas Blancas",
       "url": "https://open.spotify.com/track/4D4dwuskd2c7Keg0VcQwN3"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Mas Alla Del Tiempo Y La Distancia",
+        "url": "https://open.spotify.com/album/5As1BGh84PNzMhuuhYQdmt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        }
+      ],
+      "duration_ms": 225653,
+      "name": "Doy La Vida Por Un Beso",
+      "url": "https://open.spotify.com/track/5WejEyXB6jW1CTmCVPRHRP"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Un D\u00eda Sin Ti",
-        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
+        "name": "Juntos Para Siempre",
+        "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
       },
       "artists": [
         {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+          "name": "Los Mismos",
+          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
         }
       ],
-      "duration_ms": 214346,
-      "name": "Un D\u00eda Sin Ti",
-      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
+      "duration_ms": 205400,
+      "name": "Me Est\u00e1 Doliendo Dejarte",
+      "url": "https://open.spotify.com/track/1S05r50Qef8J6Yh6sGtjPj"
     },
     {
       "added_at": "2024-08-28 00:51:57",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-08-28 00:51:57",
       "album": {
-        "name": "Juntos Para Siempre",
-        "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
-      },
-      "artists": [
-        {
-          "name": "Los Mismos",
-          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Me Est\u00e1 Doliendo Dejarte",
-      "url": "https://open.spotify.com/track/1S05r50Qef8J6Yh6sGtjPj"
-    },
-    {
-      "added_at": "2024-08-28 00:51:57",
-      "album": {
         "name": "Serie 32: Yndio",
         "url": "https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 207586,
       "name": "Dame Un Beso Y Dime Adi\u00f3s",
       "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
+    },
+    {
+      "added_at": "2024-08-28 00:51:57",
+      "album": {
+        "name": "Un D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Un D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
     },
     {
       "added_at": "2024-08-28 00:51:57",

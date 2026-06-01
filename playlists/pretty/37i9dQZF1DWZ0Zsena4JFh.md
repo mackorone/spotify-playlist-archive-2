@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > Willow en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,059 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,034 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 31 | [Ride It Out](https://open.spotify.com/track/02ha48YfyAgAOrg50ZcDNh) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Ride It Out](https://open.spotify.com/album/6vMuk0DhZDM1wClWe6ZjIA) | 3:29 |
 | 32 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
 | 33 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 |
-| 34 | [Holly!](https://open.spotify.com/track/6rlCtwow78KOeQFkSQhQwy) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Holly!](https://open.spotify.com/album/4pMhDFwae5Udlg8MTn4BGg) | 3:10 |
+| 34 | [Essex\_Honey.mp3](https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex\_Honey.mp3](https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY) | 4:49 |
 | 35 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 |
-| 36 | [Versailles Flow](https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Sulfur Surfer](https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE) | 3:37 |
-| 37 | [Ride Lonesome](https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC) | 4:32 |
-| 38 | [i'm not joking](https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [i'm not joking](https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP) | 3:54 |
-| 39 | [The Waves \(feat\. Solann\)](https://open.spotify.com/track/0Hcr3kdSB9NVQmFckRsgSD) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb), [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [The Waves \(feat\. Solann\)](https://open.spotify.com/album/2xhsIO7LVY0B6ELCQgiupH) | 5:29 |
-| 40 | [Essex\_Honey.mp3](https://open.spotify.com/track/6PMSpoBxswOQOkgWXv0ih3) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex\_Honey.mp3](https://open.spotify.com/album/7Em98ENzbDnIoXXPaZ4mFY) | 4:49 |
+| 36 | [Holly!](https://open.spotify.com/track/6rlCtwow78KOeQFkSQhQwy) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Holly!](https://open.spotify.com/album/4pMhDFwae5Udlg8MTn4BGg) | 3:10 |
+| 37 | [Versailles Flow](https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Sulfur Surfer](https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE) | 3:37 |
+| 38 | [The Waves \(feat\. Solann\)](https://open.spotify.com/track/0Hcr3kdSB9NVQmFckRsgSD) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb), [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [The Waves \(feat\. Solann\)](https://open.spotify.com/album/2xhsIO7LVY0B6ELCQgiupH) | 5:29 |
+| 39 | [i'm not joking](https://open.spotify.com/track/06v2x2dttlLFyF2JaBROpF) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [i'm not joking](https://open.spotify.com/album/6kn0sKYNf2rnfk0Gr9lxUP) | 3:54 |
+| 40 | [Ride Lonesome](https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC) | 4:32 |
 | 41 | [Riptides](https://open.spotify.com/track/34HWkEfh1KRkw5hReCVtcz) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Riptides](https://open.spotify.com/album/5GBDzuHE3dMAauYKN8FvrN) | 3:17 |
 | 42 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
 | 43 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 47 | [No Place to Be](https://open.spotify.com/track/5iDSDrBVBExohwfB4RVLHJ) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Fondness, Etc.](https://open.spotify.com/album/3VgLs6trnvDp0Sqe9KLLiF) | 2:55 |
 | 48 | [I Never See Her](https://open.spotify.com/track/4Mk8CHwAOp9VDoauZ5y7h8) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [I Never See Her](https://open.spotify.com/album/2p6wnhkj0a5SWmBnLFmCTe) | 3:04 |
 | 49 | [Holy Grail](https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Holy Grail](https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD) | 3:34 |
-| 50 | [Tremolo](https://open.spotify.com/track/2fLrRiiTmJM4Gdoq7mdXV9) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Romanticize The Dive](https://open.spotify.com/album/75oefoG5Cn2MbBc32uNPnu) | 3:43 |
+| 50 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 |
 
 Snapshot ID: `AAAAAKfsm5TCjrbC7O6Xrtome+I+WyjW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring fidoisblue ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,905 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,916 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 41 | [¿Qué te falta?](https://open.spotify.com/track/6rJUYVdXXdlShGL0r9jOWg) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [¿Qué te falta?](https://open.spotify.com/album/2BgSxItWXrQllkGhbj5oan) | 3:19 |
 | 42 | [Lagrimas derramadas](https://open.spotify.com/track/7FGduSCJxpdDSsDlJmXflr) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [HAT](https://open.spotify.com/artist/5TsAOFIiXfD0fTJF2wscJI), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [Lagrimas derramadas](https://open.spotify.com/album/396hukAGIHUkc06vZsoVdA) | 3:20 |
 | 43 | [Lucecita](https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Lucecita](https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX) | 2:45 |
-| 44 | [California](https://open.spotify.com/track/2nQewD0vqhQBnCReBypscv) | [Nunca Fuimos Listos](https://open.spotify.com/artist/68ACpELeoQ2CcSYksOvQ8T) | [California](https://open.spotify.com/album/25mZUa1WpgJC6r3zlmK05I) | 3:51 |
-| 45 | [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 |
-| 46 | [Te encontré](https://open.spotify.com/track/4RJQujeHok0h49MLNIrqS4) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Sajiva](https://open.spotify.com/artist/2sa34IYwo3zKCyi6cZOpsF) | [Te encontré](https://open.spotify.com/album/6pDXj3YRssQQq8kOwzWZKg) | 2:40 |
-| 47 | [Antes de Marcharte](https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Mareas](https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP) | 4:02 |
+| 44 | [Amantes Astrales](https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Amantes Astrales](https://open.spotify.com/album/7b7z6A21xZfdpJNCPk94cT) | 3:03 |
+| 45 | [California](https://open.spotify.com/track/2nQewD0vqhQBnCReBypscv) | [Nunca Fuimos Listos](https://open.spotify.com/artist/68ACpELeoQ2CcSYksOvQ8T) | [California](https://open.spotify.com/album/25mZUa1WpgJC6r3zlmK05I) | 3:51 |
+| 46 | [Antes de Marcharte](https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Mareas](https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP) | 4:02 |
+| 47 | [Te encontré](https://open.spotify.com/track/4RJQujeHok0h49MLNIrqS4) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Sajiva](https://open.spotify.com/artist/2sa34IYwo3zKCyi6cZOpsF) | [Te encontré](https://open.spotify.com/album/6pDXj3YRssQQq8kOwzWZKg) | 2:40 |
 | 48 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
 | 49 | [En Cualquier Lugar](https://open.spotify.com/track/58vJuilqgm3folaBEx12ac) | [Antuan.](https://open.spotify.com/artist/1DqhnQn8VUtJiNtENJ520y) | [En Cualquier Lugar](https://open.spotify.com/album/0xOHml2OgwfR8DqTiWlr2r) | 3:29 |
 | 50 | [Adentro Mío](https://open.spotify.com/track/1eqy9eJep6OX0lWKbevodl) | [REDNBLUE](https://open.spotify.com/artist/2fFmT5WlZr5EsPKyU1qGzG), [Luisa Quiroga](https://open.spotify.com/artist/41BvCh2pTbtXbK80QyZmcq) | [Adentro Mío](https://open.spotify.com/album/4LUtBY7vKqZ8ctSk195AcJ) | 3:40 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 64 | [Y Si](https://open.spotify.com/track/081225Aw909qAbV9UjAQeM) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Y Si](https://open.spotify.com/album/2zGCoMAOkdVwmEpCew4SL3) | 1:54 |
 | 65 | [Voces en mi mente](https://open.spotify.com/track/2U97hS7kT1Cu1hatTcab8e) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Arly Tafoya](https://open.spotify.com/artist/54h5QicVrtMrBsr2tb43t9) | [Voces en mi mente](https://open.spotify.com/album/0OGWa3tlg1xPCSo68ZTczX) | 2:57 |
 | 66 | [Fruta en Vegueta](https://open.spotify.com/track/0KgASwQXz7FRsXDcjlI7lC) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Fruta en Vegueta](https://open.spotify.com/album/5EkbZuhQeSRQeih3cmlhSe) | 3:04 |
-| 67 | [IKIGAI](https://open.spotify.com/track/1FezdADxZtkTcOmKqvj2dc) | [Louis Goodman](https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR) | [Nostalgia en Rosa](https://open.spotify.com/album/19GhGsz9cqLY4nXQnA3bDQ) | 4:02 |
-| 68 | [Melancolía](https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Melancolía](https://open.spotify.com/album/51R6Oy0Y67WZswWS4fniWD) | 3:49 |
+| 67 | [Melancolía](https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Melancolía](https://open.spotify.com/album/51R6Oy0Y67WZswWS4fniWD) | 3:49 |
+| 68 | [IKIGAI](https://open.spotify.com/track/1FezdADxZtkTcOmKqvj2dc) | [Louis Goodman](https://open.spotify.com/artist/06CtxLVFp5Bbchyi7iWmjR) | [Nostalgia en Rosa](https://open.spotify.com/album/19GhGsz9cqLY4nXQnA3bDQ) | 4:02 |
 | 69 | [Verde Artificial](https://open.spotify.com/track/4ISo0mSJfcDi9tx2WBDCq9) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Verde Artificial](https://open.spotify.com/album/5uzeX8BMNL4p4jDiRDJ9dF) | 4:04 |
 | 70 | [Último Intento](https://open.spotify.com/track/5wXBavPSFmy6ImZdeTxPAt) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Último Intento](https://open.spotify.com/album/6cLORSZVsdonI0tYVUEK0d) | 2:54 |
 | 71 | [Amanecer](https://open.spotify.com/track/6dYRnANZHWEytnuxIRq9HY) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Amanecer](https://open.spotify.com/album/0R4tApSVds26boh8Z4xGsB) | 4:25 |

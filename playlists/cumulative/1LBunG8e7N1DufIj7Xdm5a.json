@@ -69549,6 +69549,24 @@
     },
     {
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/50oev5lys8ubDpTo5oCxJ7"
+      },
+      "artists": [
+        {
+          "name": "The Ineffectuals",
+          "url": "https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130519,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/4WjDvfgvB7M6K7sH9K5gN6"
+    },
+    {
+      "album": {
         "name": "The Ghost Pirate",
         "url": "https://open.spotify.com/album/6uxrv6u2UsLyvbNMFlzCaU"
       },

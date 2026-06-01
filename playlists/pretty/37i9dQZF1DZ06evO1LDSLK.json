@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 74950,
+  "num_followers": 74949,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAACBOsqOF6L9TuKitM21Xztt",
+  "snapshot_id": "ahoogAAAAAA3GGyoz+ODOI7BHHup7HgO",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 213960,
+      "name": "Et Si Tu n'existais Pas",
+      "url": "https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 213960,
-      "name": "Et Si Tu n'existais Pas",
-      "url": "https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken Boy (feat. Iggy Pop)",
         "url": "https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 392160,
-      "name": "Fall In Love With Me",
-      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 259113,
       "name": "Loves Missing",
       "url": "https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 392160,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd"
     },
     {
       "added_at": null,
@@ -611,38 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arista Heritage Series: Iggy Pop",
-        "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "I'm Bored",
-      "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 174578,
-      "name": "Funtime",
-      "url": "https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apr\u00e8s (10th-anniversary edition)",
         "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
       },
@@ -655,6 +623,22 @@
       "duration_ms": 163013,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arista Heritage Series: Iggy Pop",
+        "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "I'm Bored",
+      "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
     },
     {
       "added_at": null,
@@ -675,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 271171,
-      "name": "James Bond",
-      "url": "https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Idiot",
         "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
       },
@@ -707,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 271171,
+      "name": "James Bond",
+      "url": "https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome To Goran Bregovic",
         "url": "https://open.spotify.com/album/77MrRtQU0y7U4F1oz0ayda"
       },
@@ -719,6 +703,42 @@
       "duration_ms": 253480,
       "name": "This Is A Film - \"Arizona Dream\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/1lJt4lE7eGIejYZBMcVdPu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Time Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 269461,
+      "name": "The Pure and the Damned",
+      "url": "https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 174578,
+      "name": "Funtime",
+      "url": "https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg"
     },
     {
       "added_at": null,
@@ -755,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Time Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 269461,
-      "name": "The Pure and the Damned",
-      "url": "https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Post Pop Depression",
         "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 238387,
       "name": "Chocolate Drops",
       "url": "https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 180260,
-      "name": "Tiny Girls",
-      "url": "https://open.spotify.com/track/5Jwn7FaCOEvJmiWQACIKZ1"
     },
     {
       "added_at": null,
@@ -823,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Preliminaires",
-        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
       },
       "artists": [
         {
@@ -832,9 +816,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 172880,
-      "name": "I Want To Go To The Beach",
-      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
+      "duration_ms": 180260,
+      "name": "Tiny Girls",
+      "url": "https://open.spotify.com/track/5Jwn7FaCOEvJmiWQACIKZ1"
     },
     {
       "added_at": null,
@@ -859,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Post Pop Depression",
-        "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
+        "name": "Preliminaires",
+        "url": "https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9"
       },
       "artists": [
         {
@@ -868,9 +852,25 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 366896,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/2jRQcQFH7XLPsIFZsSuHkB"
+      "duration_ms": 172880,
+      "name": "I Want To Go To The Beach",
+      "url": "https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 150453,
+      "name": "La Javanaise",
+      "url": "https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt"
     }
   ],
   "unique_name": "This Is Iggy Pop",

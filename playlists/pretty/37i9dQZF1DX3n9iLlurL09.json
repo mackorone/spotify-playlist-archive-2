@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 112362,
+  "num_followers": 112375,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Thinking In Textures",
-        "url": "https://open.spotify.com/album/1UW1oXBj1mbUOjenKc9o6z"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 221533,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/0PB8KUQHpc7GveSOaWhGwb"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Jake Bugg",
         "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 144013,
       "name": "Lightning Bolt",
       "url": "https://open.spotify.com/track/79DO6dBi8936P6EShLB209"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Thinking In Textures",
+        "url": "https://open.spotify.com/album/1UW1oXBj1mbUOjenKc9o6z"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 221533,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/0PB8KUQHpc7GveSOaWhGwb"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Mondo",
-        "url": "https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz"
-      },
-      "artists": [
-        {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "This Head I Hold",
-      "url": "https://open.spotify.com/track/0LVaveDmmoMEKhBGhVhfoI"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Jake Bugg",
         "url": "https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 195986,
       "name": "Two Fingers",
       "url": "https://open.spotify.com/track/582EVyAFKmKPa1bVPSDurJ"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Mondo",
+        "url": "https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "This Head I Hold",
+      "url": "https://open.spotify.com/track/0LVaveDmmoMEKhBGhVhfoI"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Celebration Rock",
-        "url": "https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW"
-      },
-      "artists": [
-        {
-          "name": "Japandroids",
-          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
-        }
-      ],
-      "duration_ms": 289150,
-      "name": "The House That Heaven Built",
-      "url": "https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Summer's Gone",
         "url": "https://open.spotify.com/album/0ebTxbNe07spVPn7uxKOb1"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 131250,
       "name": "How Did I Get Here",
       "url": "https://open.spotify.com/track/4aJnMRNeuDZSQN7FaSNGtM"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Celebration Rock",
+        "url": "https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW"
+      },
+      "artists": [
+        {
+          "name": "Japandroids",
+          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
+        }
+      ],
+      "duration_ms": 289150,
+      "name": "The House That Heaven Built",
+      "url": "https://open.spotify.com/track/2dcmQJCw1INGn7yR2KHx0U"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Young North - EP",
-        "url": "https://open.spotify.com/album/1n9w0sUkiSat6OCtoL1rwS"
+        "name": "Shields",
+        "url": "https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
         }
       ],
-      "duration_ms": 191773,
-      "name": "Paint",
-      "url": "https://open.spotify.com/track/2BOof6lYrGfz6BojJ0aeJd"
+      "duration_ms": 318423,
+      "name": "Yet Again",
+      "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Shields",
-        "url": "https://open.spotify.com/album/57LAEzKL94ZHwbIkUWYCDY"
+        "name": "Young North - EP",
+        "url": "https://open.spotify.com/album/1n9w0sUkiSat6OCtoL1rwS"
       },
       "artists": [
         {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 318423,
-      "name": "Yet Again",
-      "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
+      "duration_ms": 191773,
+      "name": "Paint",
+      "url": "https://open.spotify.com/track/2BOof6lYrGfz6BojJ0aeJd"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1588,9 +1588,9 @@
           "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 218240,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/4VPZX5qq0mujdIrVhLFROu"
+      "duration_ms": 182666,
+      "name": "Tessellate",
+      "url": "https://open.spotify.com/track/1LfKHwrMydWNruvTonm0eO"
     },
     {
       "added_at": "2025-03-14 12:16:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,671 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,675 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 16 | [Dreams in summer night](https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP) | 3:57 |
 | 17 | [One Confess](https://open.spotify.com/track/5vzGjOGXJQcefc3JqopL2X) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [One Confess \(Original Soundtrack from Hear Me: Our Summer\)](https://open.spotify.com/album/4lspmWfRe38Gyt12UoBQ0Q) | 2:48 |
 | 18 | [Star](https://open.spotify.com/track/6h7pTcDLNo5Pc8Lu1w2Qo9) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Star](https://open.spotify.com/album/7Ht7kJByAKQhnnqZSqLxzO) | 3:19 |
-| 19 | [love song](https://open.spotify.com/track/4YK6kyQr9E3KRdi08w3pQz) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [love song](https://open.spotify.com/album/5MbXbQBOrTmBlCNSIKqjEl) | 3:23 |
-| 20 | [Dear love](https://open.spotify.com/track/6l6zrxtopyeJ0UDdQFkLmF) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [When I stop thinking](https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw) | 4:42 |
+| 19 | [Dear love](https://open.spotify.com/track/6l6zrxtopyeJ0UDdQFkLmF) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [When I stop thinking](https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw) | 4:42 |
+| 20 | [love song](https://open.spotify.com/track/4YK6kyQr9E3KRdi08w3pQz) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [love song](https://open.spotify.com/album/5MbXbQBOrTmBlCNSIKqjEl) | 3:23 |
 | 21 | [Listen And Sleep](https://open.spotify.com/track/524zQBp9uyUs3e77GE5tZ8) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Would You Sleep?](https://open.spotify.com/album/5onylFvAu8WKvHvPGC46lF) | 4:37 |
 | 22 | [입맞춤](https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:17 |
 | 23 | [Your River In Me](https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC) | 4:48 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 30 | [First Snow](https://open.spotify.com/track/00wkRxiuNBLBFPHvxkg2PI) | [19990619](https://open.spotify.com/artist/2Fqmn8Sl7YZf1TlrwJpI6Z) | [First Snow](https://open.spotify.com/album/5u51hTYLdODB8t2Rt4QlCF) | 4:06 |
 | 31 | [Fine](https://open.spotify.com/track/4YNh8dtLsWVykAv0i2BG01) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Fine](https://open.spotify.com/album/15aHvAj26u3yUPTPJHr8AL) | 4:11 |
 | 32 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
-| 33 | [Letter](https://open.spotify.com/track/6IFltGdAUMosyFl0ZieEF7) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [1](https://open.spotify.com/album/6HhqELdvnGGbBQVYoTj239) | 3:28 |
+| 33 | [light](https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [雨後 uuhu](https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo) | 3:41 |
 | 34 | [To eunbi](https://open.spotify.com/track/0MEpiC2Qa5IN1IpNkifI2x) | [n@di](https://open.spotify.com/artist/2vA4UiJVgTWHeYzk3j4ugI) | [A Form Of Love](https://open.spotify.com/album/4AQrjSk8NraBpI0lWkmzV8) | 2:47 |
-| 35 | [light](https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [雨後 uuhu](https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo) | 3:41 |
+| 35 | [Letter](https://open.spotify.com/track/6IFltGdAUMosyFl0ZieEF7) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [1](https://open.spotify.com/album/6HhqELdvnGGbBQVYoTj239) | 3:28 |
 | 36 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
 | 37 | [Good Night](https://open.spotify.com/track/1KPgxV8aJDJh26Z3Ff7N5p) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [Your Letter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jds8P9MpsOKTJzmBXCMM1) | 3:12 |
 | 38 | [Could you?](https://open.spotify.com/track/78hBN6qlftwJiLmkYoYahf) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [Mind Laundry](https://open.spotify.com/album/3Ft01nxEpjAYvOG2KNrMN4) | 3:50 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 47 | [Choose You](https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 4:05 |
 | 48 | [Night, Snow](https://open.spotify.com/track/0eFZnopeoBIj4WhZzAEtki) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Night, Snow](https://open.spotify.com/album/6HcMo1yhe6YNFN1GVWG9Hk) | 3:49 |
 | 49 | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp), [kimminseong](https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq) | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG) | 3:44 |
-| 50 | [Youth](https://open.spotify.com/track/7pdrLAo29KaqUTO3iD1O4z) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 3:36 |
+| 50 | [dear my loves](https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [To.](https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6) | 3:15 |
 
 Snapshot ID: `AAAAAE7VGpxn3MqviFV2Xl4jBCzRs6e7`

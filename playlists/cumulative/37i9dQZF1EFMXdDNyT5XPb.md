@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5SUu7au16Jd2bvqWVN09HM">Jon "MAGS" Maguire</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-132 songs - 6 hr 46 min
+136 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 | 2025-09-10 |  |
 | [Don't Even Know Your Name](https://open.spotify.com/track/5M4rm5ga9KAaYFPxCTKllY) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Don't Even Know Your Name](https://open.spotify.com/album/2F3t7A71izLYlhfSuw6LZE) | 2:21 | 2024-05-01 | 2026-05-17 |
 | [Don't Even Know Your Name](https://open.spotify.com/track/6s3OlLs8Ey8LCol4xaDb6R) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Don't Even Know Your Name](https://open.spotify.com/album/0DOaI2o4EJgG6Yszs6Ki8J) | 2:21 | 2026-05-16 |  |
-| [Don't Play This on the Radio](https://open.spotify.com/track/1PJ5jEyfsLYPHe8Arlq68B) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Today Was a Good Day](https://open.spotify.com/album/7IIVfnuwQ2zrfbMp2vWsdQ) | 3:13 | 2024-05-01 |  |
+| [Don't Play This on the Radio](https://open.spotify.com/track/0dEnmyAPUam3ysF3DNkQAp) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Today Was a Good Day](https://open.spotify.com/album/6Q39VR0QICiUg0qzojJ4aZ) | 3:13 | 2026-05-31 |  |
+| [Don't Play This on the Radio](https://open.spotify.com/track/1PJ5jEyfsLYPHe8Arlq68B) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Today Was a Good Day](https://open.spotify.com/album/7IIVfnuwQ2zrfbMp2vWsdQ) | 3:13 | 2024-05-01 | 2026-06-01 |
 | [Déjà Vu](https://open.spotify.com/track/7ipXvWl43mmCl2kgBZg9FR) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 2:56 | 2024-05-01 |  |
 | [Falling out of Love](https://open.spotify.com/track/5dXgMYzwp3o19lLgSL3hdG) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Have a Good Time All the Time](https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90) | 3:04 | 2024-05-01 | 2025-06-29 |
 | [Falling out of Love](https://open.spotify.com/track/2hDVo59GNn1W3VN1HObnge) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Ain't Love Crazy](https://open.spotify.com/album/4fh8KEvwQCK8LhPUnAnH2p) | 3:13 | 2025-06-28 |  |
@@ -86,7 +87,8 @@
 | [Lighthouse](https://open.spotify.com/track/4siqMJwzRxpd3etBmZ5vbb) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lighthouse](https://open.spotify.com/album/0uzmn5569YzeNmq63JMK5S) | 3:11 | 2024-05-01 | 2025-10-13 |
 | [Lighthouse](https://open.spotify.com/track/57t9hza2T0WUr8qZMIcxhH) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:11 | 2025-10-12 |  |
 | [Like It Like That](https://open.spotify.com/track/0UG7iUrCSlhZvQK8zpu3gZ) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:47 | 2024-05-01 |  |
-| [London Bound](https://open.spotify.com/track/4w9UERRjbLgLZJmlezArOF) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [We Are](https://open.spotify.com/album/56t8diCSoYT53frC59aHYJ) | 2:53 | 2024-05-01 |  |
+| [London Bound](https://open.spotify.com/track/23W5DnkWMWTa78tLM3XMJP) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [We Are](https://open.spotify.com/album/36p4rYj7sADNICFRGBAy3H) | 2:53 | 2026-05-31 |  |
+| [London Bound](https://open.spotify.com/track/4w9UERRjbLgLZJmlezArOF) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [We Are](https://open.spotify.com/album/56t8diCSoYT53frC59aHYJ) | 2:53 | 2024-05-01 | 2026-06-01 |
 | [Lose Myself](https://open.spotify.com/track/6xLR0LNVqenF9ihWoXMhKW) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:44 | 2025-10-12 |  |
 | [Losing You](https://open.spotify.com/track/2Bk8jjFB0FfAFYUIxihOnG) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Love Synonym \#1: Right for Me](https://open.spotify.com/album/4RJIJFoKSzNmYKAJWJ23R6) | 2:58 | 2024-05-01 | 2025-10-04 |
 | [Losing You](https://open.spotify.com/track/6zGmf1yfpWaI92WFNVy82y) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Love Synonym \#1: Right for Me](https://open.spotify.com/album/5oD1oHJgnQgNldumxwZIsX) | 2:58 | 2025-10-03 |  |
@@ -123,7 +125,8 @@
 | [Simple](https://open.spotify.com/track/5kUfd28cjloYrcCX1NUDiP) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:25 | 2024-05-01 |  |
 | [Song I Can't Forget](https://open.spotify.com/track/3LNV9RmV3zxKuLN6D0G1aZ) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [The Place We Used to Meet](https://open.spotify.com/album/4uuofFLpxeB321PaVpW6GY) | 3:14 | 2024-05-01 |  |
 | [Stay](https://open.spotify.com/track/3EpQUpVAaQWZX9oLCoJEfo) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Stay](https://open.spotify.com/album/6E2VmkOih43z49pVr5WNQK) | 3:04 | 2026-03-22 |  |
-| [Stick the Kettle On](https://open.spotify.com/track/7Mob9AxqWbMbhV0PKbRrSG) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N), [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [Today Was a Good Day \(Deluxe\)](https://open.spotify.com/album/2OvioEMUJr9AlI02k6KnT4) | 2:55 | 2024-05-01 |  |
+| [Stick the Kettle On](https://open.spotify.com/track/75DiKvpDJnE9AKynPvtWvD) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N), [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [Today Was a Good Day](https://open.spotify.com/album/6Q39VR0QICiUg0qzojJ4aZ) | 2:55 | 2026-05-31 |  |
+| [Stick the Kettle On](https://open.spotify.com/track/7Mob9AxqWbMbhV0PKbRrSG) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N), [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [Today Was a Good Day \(Deluxe\)](https://open.spotify.com/album/2OvioEMUJr9AlI02k6KnT4) | 2:55 | 2024-05-01 | 2026-06-01 |
 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 | 2024-05-01 |  |
 | [Take on the World](https://open.spotify.com/track/2X9W0RM92EE7IJCj8u6mZD) | [Luke Friend](https://open.spotify.com/artist/0fN6T4AfuRK8fWrENakh5U) | [Take on the World](https://open.spotify.com/album/2fTi0wYA5Ne7mk9puy2br6) | 3:07 | 2024-05-01 |  |
 | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Tears In Ibiza \(feat\. AR/CO\)](https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg) | 2:23 | 2024-05-01 |  |
@@ -139,6 +142,7 @@
 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 | 2024-05-01 |  |
 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 | 2024-05-01 |  |
 | [You Only Love Me](https://open.spotify.com/track/398Kr7urUvmBVXvfUZZYiM) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/0lY3tmonYCBxbviBSKczIX) | 2:29 | 2024-05-01 |  |
-| [You've Let Yourself Down](https://open.spotify.com/track/3ilLCZ64M9t4828QK5EpDE) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 2:58 | 2024-05-01 |  |
+| [You've Let Yourself Down](https://open.spotify.com/track/3ilLCZ64M9t4828QK5EpDE) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 2:58 | 2024-05-01 | 2026-06-01 |
+| [You've Let Yourself Down](https://open.spotify.com/track/6lKrHnIYfojalfSGFrLM8i) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/2VyBS4QePIFcVI4NJJkKEP) | 2:58 | 2026-05-31 |  |
 
 \*This playlist was first scraped on 2024-05-02. Prior content cannot be recovered.

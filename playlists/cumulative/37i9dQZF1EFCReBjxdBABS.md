@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-133 songs - 7 hr 15 min
+134 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Night Lights](https://open.spotify.com/track/1jgD0qqYoZJX6ajbejN9sg) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Night Lights](https://open.spotify.com/album/0dKYIBiFsEftQiLahvzDkh) | 2:43 | 2026-01-14 |  |
 | [No Good Reason](https://open.spotify.com/track/2tR2GWXvBx0FGQI7n0os7c) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF), [Jordan Walker](https://open.spotify.com/artist/7i17Lwe8Ds1mTCfGCVmvr3) | [Heart Like a Songwriter](https://open.spotify.com/album/7fgCgwZc8AKPWwVfqPLNn1) | 3:39 | 2026-01-18 | 2026-03-24 |
 | [No Good Reason](https://open.spotify.com/track/3uFxAVJ6BNpcpbBYtubeeJ) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF), [Jordan Walker](https://open.spotify.com/artist/7i17Lwe8Ds1mTCfGCVmvr3) | [Heart Like a Songwriter](https://open.spotify.com/album/4cVgPhm5hnTOe604QyhJnk) | 3:39 | 2026-03-23 |  |
+| [no man's](https://open.spotify.com/track/5EoJW3n1SC0ILmAcs3u6Ax) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:51 | 2026-05-31 |  |
 | [Nothing But Wild](https://open.spotify.com/track/4NcRfij5JDR55DFTlxrDd4) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Nothing But Wild](https://open.spotify.com/album/4iuQQpJvgPgqi3pP5txVhb) | 3:10 | 2026-01-14 |  |
 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 | 2026-01-14 |  |
 | [One Day Tonight](https://open.spotify.com/track/5lLsusYmNQkOalUBSaWUEI) | [Noah Thompson](https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi) | [One Day Tonight](https://open.spotify.com/album/7oFaFya0ZcXUIryvPpdNw3) | 2:45 | 2026-01-14 |  |

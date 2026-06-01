@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2017. Cover: The xx",
-  "num_followers": 162240,
+  "num_followers": 162236,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Nothing Lasts Forever (And It's Fine)",
-        "url": "https://open.spotify.com/album/6uX6tLDnj6Q4ptrzK0mtR3"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 218883,
-      "name": "You're Somebody Else",
-      "url": "https://open.spotify.com/track/4zlqaEHnAle2taqwBbp9ZH"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Something To Tell You",
         "url": "https://open.spotify.com/album/3EFSOzgqaOQqJCMAMMn4Cl"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 232120,
       "name": "Want You Back",
       "url": "https://open.spotify.com/track/2ixswrurtpfZHrx406eGgw"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Nothing Lasts Forever (And It's Fine)",
+        "url": "https://open.spotify.com/album/6uX6tLDnj6Q4ptrzK0mtR3"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 218883,
+      "name": "You're Somebody Else",
+      "url": "https://open.spotify.com/track/4zlqaEHnAle2taqwBbp9ZH"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "You Say I'm in Love",
-        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
+        "name": "raingurl",
+        "url": "https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr"
       },
       "artists": [
         {
-          "name": "Banes World",
-          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 176760,
-      "name": "You Say I'm in Love",
-      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
+      "duration_ms": 237231,
+      "name": "raingurl",
+      "url": "https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1439,18 +1439,34 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "raingurl",
-        "url": "https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr"
+        "name": "You Say I'm in Love",
+        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+          "name": "Banes World",
+          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
         }
       ],
-      "duration_ms": 237231,
-      "name": "raingurl",
-      "url": "https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU"
+      "duration_ms": 176760,
+      "name": "You Say I'm in Love",
+      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1483,22 +1499,6 @@
       "duration_ms": 207679,
       "name": "Turn",
       "url": "https://open.spotify.com/track/11IJA30efHAJLO3qroPh5L"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Down the Line",
+        "url": "https://open.spotify.com/album/2rejwIeesDOudIQpbwDZFM"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 158474,
+      "name": "Down the Line",
+      "url": "https://open.spotify.com/track/15eduSFXnQfnQvcmWHDBPi"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
       },
@@ -1583,6 +1599,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Apricot Princess",
+        "url": "https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 135706,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Tailwhip",
         "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
       },
@@ -1611,38 +1643,6 @@
       "duration_ms": 209449,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Antisocialites",
-        "url": "https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Dreams Tonite",
-      "url": "https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Process",
-        "url": "https://open.spotify.com/album/2gUSWVHCOerKhJHZRwhVtN"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "(No One Knows Me) Like the Piano",
-      "url": "https://open.spotify.com/track/5zOnoB8FdZudDcPX4O8WqF"
     }
   ],
   "unique_name": "Best of Indie 2017",

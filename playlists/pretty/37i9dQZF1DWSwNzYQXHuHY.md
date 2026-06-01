@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,561 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,568 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 42 | [9 to 2](https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 2:27 |
 | 43 | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Naeun](https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc) | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO) | 3:27 |
 | 44 | [왔다 갔다 \(feat\. Hoody\)](https://open.spotify.com/track/0T3gqQBET5hnKf0ZZxoK0Y) | [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM), [Hoody\(후디\)](https://open.spotify.com/artist/4q06d8EqPjUQjgIuhXc6eB) | [왔다 갔다 ㅎㅎ](https://open.spotify.com/album/0iMDHVChGWdtIsADexUTap) | 2:53 |
-| 45 | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/track/6l8TVn5TPpQmIWJgIOrmQk) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yoo Jongkwon](https://open.spotify.com/artist/4V8HlSuob367QsmOg11mfj) | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/album/0UJMPu7e4Kcepqp2KbecsS) | 3:33 |
-| 46 | [Love Frequency](https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Love Frequency \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l) | 2:43 |
+| 45 | [Love Frequency](https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Love Frequency \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l) | 2:43 |
+| 46 | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/track/6l8TVn5TPpQmIWJgIOrmQk) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yoo Jongkwon](https://open.spotify.com/artist/4V8HlSuob367QsmOg11mfj) | [The spring you never knew \(with Yoojongkwon\)](https://open.spotify.com/album/0UJMPu7e4Kcepqp2KbecsS) | 3:33 |
 | 47 | [Before the Petals Fall](https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Before the Petals Fall](https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3) | 3:49 |
 | 48 | [이런 내 맘](https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [이런 내 맘 \(대충 캠퍼스로맨스임 X HAAN & Chan\)](https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5) | 3:25 |
 | 49 | [Friends to Lovers](https://open.spotify.com/track/7mH3OUMmYMRUNW8kNXyKtU) | [B.D.U](https://open.spotify.com/artist/1SRmmtrnAo0UK0NUROJRjz) | [Friends to Lovers](https://open.spotify.com/album/3pQ3m6kI9K3N47rXgQkeNQ) | 2:56 |

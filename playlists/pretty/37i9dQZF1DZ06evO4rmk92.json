@@ -1,12 +1,12 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 125985,
+  "num_followers": 125995,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAACrJg9OVXowmu0eO8VfqbvP",
+  "snapshot_id": "ahoogAAAAAD0708T7hFpjWtOFp6eDTex",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Just One Of Those Things",
+        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "The Party's Over",
+      "url": "https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ultimate Nat King Cole",
         "url": "https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just One Of Those Things",
-        "url": "https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "The Party's Over",
-      "url": "https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mis Amigos",
         "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
       },
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 192826,
+      "name": "On The Street Where You Live",
+      "url": "https://open.spotify.com/track/1xTlKISiuPabtjwJe3aPEy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lester Young Trio",
         "url": "https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF"
       },
@@ -563,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/5Lu3yzAEdFlbyWWBcVUl8I"
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
       "artists": [
         {
@@ -572,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 192826,
-      "name": "On The Street Where You Live",
-      "url": "https://open.spotify.com/track/1xTlKISiuPabtjwJe3aPEy"
+      "duration_ms": 252000,
+      "name": "Blame It On My Youth - Remastered 1999",
+      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Blame It On My Youth - Remastered 1999",
-      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 162600,
       "name": "You'll Never Know - Remastered",
       "url": "https://open.spotify.com/track/5dPRT4LvyogKLxmFpNGV4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thank You, Pretty Baby",
-        "url": "https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 172040,
-      "name": "You Made Me Love You (I Didn't Want To Do It) - Remastered",
-      "url": "https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
       "duration_ms": 182293,
       "name": "Just You, Just Me - Remastered 1999",
       "url": "https://open.spotify.com/track/4TktGfWqFoYgimmSo1ApQQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You, Pretty Baby",
+        "url": "https://open.spotify.com/album/0Nghkb1nHs4WCtnA0irWN2"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 172040,
+      "name": "You Made Me Love You (I Didn't Want To Do It) - Remastered",
+      "url": "https://open.spotify.com/track/7LPVWfMHGxawDxNzppoHOZ"
     },
     {
       "added_at": null,

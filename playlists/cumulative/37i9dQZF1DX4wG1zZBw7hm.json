@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 387840,
       "name": "City Centre",
       "url": "https://open.spotify.com/track/1TMdcMofJBGCvP8fSLaEE0"
@@ -352,6 +352,24 @@
       "duration_ms": 187693,
       "name": "Delicately in the Sunlight",
       "url": "https://open.spotify.com/track/6wwJpnx8QOlKhooSOp4I8I"
+    },
+    {
+      "album": {
+        "name": "Different Lives",
+        "url": "https://open.spotify.com/album/0718LPIq9rnJEznKVAGEO1"
+      },
+      "artists": [
+        {
+          "name": "Mr. Cloudy",
+          "url": "https://open.spotify.com/artist/38zfjwWSt5995vjlOcQ0ed"
+        }
+      ],
+      "date_added": "2025-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513000,
+      "name": "Different Lives",
+      "url": "https://open.spotify.com/track/2DjWrM03s7Y50aHSfvQeh7"
     },
     {
       "album": {

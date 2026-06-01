@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,329 songs - 3 day 9 hr 38 min
+1,332 songs - 3 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [505](https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 4:13 | 2022-08-23 |  |
 | [53.49](https://open.spotify.com/track/2alJKJoqOOEPVU1Do3eIjJ) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [3.15.20](https://open.spotify.com/album/600ClrWRsAr7jZ0qjaBLHz) | 3:55 | 2021-12-30 |  |
 | [7 Minute Drill](https://open.spotify.com/track/2mhdhTWqT8RhkTlN2yWZZi) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:32 | 2024-04-05 | 2025-08-24 |
+| [80's Films](https://open.spotify.com/track/6ZSwwQsW9HTH0EJaQfjRYl) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 3:36 | 2026-06-01 |  |
 | [9 5 \. s o u t h](https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:16 | 2022-08-25 |  |
 | [911 / Mr\. Lonely \(feat\. Frank Ocean & Steve Lacy\)](https://open.spotify.com/track/4bEcoz1OcfMgUbp2ft8ieQ) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 4:15 | 2023-01-23 |  |
 | [97 Jag](https://open.spotify.com/track/6k4FnXiMy4pjcK7cIw2X6z) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:49 | 2025-06-26 |  |
@@ -474,8 +475,10 @@
 | [Half Life](https://open.spotify.com/track/2uhJyFGBH8qRj14D82rrYn) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 3:47 | 2022-09-17 |  |
 | [Half The World Away](https://open.spotify.com/track/14jz7rVR3zpczqFhpXe08T) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [The Masterplan](https://open.spotify.com/album/15D0D1mafSX8Vx5a7w2ZR4) | 4:21 | 2022-03-21 |  |
 | [Hanami](https://open.spotify.com/track/5Oxhp6jxu8ax96LIsu8t3Q) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Quaranta](https://open.spotify.com/album/2aswMmRN4vXGalI39pDsMb) | 3:27 | 2023-11-17 |  |
+| [Hand Of God \- Outro](https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 5:37 | 2026-06-01 |  |
 | [Happiness](https://open.spotify.com/track/35lxFAny9XDBkvE6r9j4uG) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:03 | 2023-02-16 |  |
 | [Hate To Say I Told You So](https://open.spotify.com/track/20j7B6mL9gnNvG3ic6Vwh5) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/1C4UGzx5gD9b3X0UfAhY7z) | 3:20 | 2023-06-19 |  |
+| [He Is The Same](https://open.spotify.com/track/6Kr2WqO9jWYU64D24yqapu) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 4:01 | 2026-06-01 |  |
 | [Heal](https://open.spotify.com/track/24YQI1zLM0hVozDEyghfDx) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [One Man Band](https://open.spotify.com/album/3kHrYmHBC2fi59cNjBbwZn) | 3:18 | 2023-08-04 |  |
 | [Heart on Fire](https://open.spotify.com/track/5OJUTZS9QE2qem6FDsEnOM) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 3:58 | 2022-12-21 |  |
 | [heart pt\. 6](https://open.spotify.com/track/1SGvjfc85yzqKXsfKcCxn2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 4:52 | 2024-11-24 |  |

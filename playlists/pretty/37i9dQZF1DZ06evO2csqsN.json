@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 40712,
+  "num_followers": 40723,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAABMKOBvlMfQ3kOvTQizkDKA",
+  "snapshot_id": "ahoogAAAAAAHbJokr+ipbgw0aaxtudmG",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARADISE",
-        "url": "https://open.spotify.com/album/3GVcT0ZaiYTX3ZVETuP1aD"
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
       },
       "artists": [
-        {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        },
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         },
         {
-          "name": "Coupe",
-          "url": "https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 201306,
-      "name": "WHAT'S HAPPENIN' (feat. Latto & Coupe)",
-      "url": "https://open.spotify.com/track/6q2djm8drU3EWpLBK0mllz"
+      "duration_ms": 191786,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Big Mama",
+      "url": "https://open.spotify.com/track/4xlKyYuOlA94jRW2S7IM1a"
     },
     {
       "added_at": null,
@@ -307,18 +319,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+        "name": "PARADISE",
+        "url": "https://open.spotify.com/album/3GVcT0ZaiYTX3ZVETuP1aD"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Coupe",
+          "url": "https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz"
+        }
+      ],
+      "duration_ms": 201306,
+      "name": "WHAT'S HAPPENIN' (feat. Latto & Coupe)",
+      "url": "https://open.spotify.com/track/6q2djm8drU3EWpLBK0mllz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
       },
       "artists": [
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Big Mama",
-      "url": "https://open.spotify.com/track/4xlKyYuOlA94jRW2S7IM1a"
+      "duration_ms": 238573,
+      "name": "Okayyy",
+      "url": "https://open.spotify.com/track/76IJjtvNrwN4yjRn2YMt2w"
     },
     {
       "added_at": null,
@@ -363,42 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 191786,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 147013,
-      "name": "Georgia Peach",
-      "url": "https://open.spotify.com/track/3UidcB20Bb0f9WGZ08TNCL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anxious",
         "url": "https://open.spotify.com/album/6jp5LxG8lGxuetjqdJy10g"
       },
@@ -419,6 +423,38 @@
       "duration_ms": 227266,
       "name": "Anxious",
       "url": "https://open.spotify.com/track/5JcLoePE4FisG4y5vLRXzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 131186,
+      "name": "Onnat",
+      "url": "https://open.spotify.com/track/2QU9ZLNwjlFHvPQbHLiwij"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 147013,
+      "name": "Georgia Peach",
+      "url": "https://open.spotify.com/track/3UidcB20Bb0f9WGZ08TNCL"
     },
     {
       "added_at": null,
@@ -447,42 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Okayyy",
-      "url": "https://open.spotify.com/track/76IJjtvNrwN4yjRn2YMt2w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "Chicken Grease",
-      "url": "https://open.spotify.com/track/5BsGbw1doMaFghuOMkkiJB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAT HAPPENED TO THE STREETS?",
         "url": "https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o"
       },
@@ -499,6 +499,38 @@
       "duration_ms": 197306,
       "name": "POP IT",
       "url": "https://open.spotify.com/track/3BBMNT5kxTsYxe1r0DukIb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 94013,
+      "name": "Death Row",
+      "url": "https://open.spotify.com/track/2txtsVh3MEYgUyemhkgsaY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/78bwcxLYi7vPZ2eCL9Vtvp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 161666,
+      "name": "Chicken Grease",
+      "url": "https://open.spotify.com/track/5BsGbw1doMaFghuOMkkiJB"
     },
     {
       "added_at": null,
@@ -535,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 131186,
-      "name": "Onnat",
-      "url": "https://open.spotify.com/track/2QU9ZLNwjlFHvPQbHLiwij"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
@@ -567,6 +583,22 @@
       "duration_ms": 174683,
       "name": "PROCEDURE (feat. Latto)",
       "url": "https://open.spotify.com/track/0NrMjaEIssvhuzUhQOEwmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Chrome Heart Diaper Bag",
+      "url": "https://open.spotify.com/track/1IHpMe3bxgL9iDHpJAzvim"
     },
     {
       "added_at": null,
@@ -603,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 94013,
-      "name": "Death Row",
-      "url": "https://open.spotify.com/track/2txtsVh3MEYgUyemhkgsaY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
@@ -635,6 +651,22 @@
       "duration_ms": 245653,
       "name": "Didn't Say (feat. Latto)",
       "url": "https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Get Money Girl",
+      "url": "https://open.spotify.com/track/6etwTzZtI9L64TYpfdOK0j"
     },
     {
       "added_at": null,
@@ -683,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+        "name": "PRINCESS POP THAT",
+        "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
       },
       "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        },
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 181586,
-      "name": "Get Money Girl",
-      "url": "https://open.spotify.com/track/6etwTzZtI9L64TYpfdOK0j"
+      "duration_ms": 173573,
+      "name": "BACK OUTSIDE (feat. Latto)",
+      "url": "https://open.spotify.com/track/0WGLtCw9w9ZjCBqvY8rXCL"
     },
     {
       "added_at": null,
@@ -719,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRINCESS POP THAT",
-        "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
-      },
-      "artists": [
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 173573,
-      "name": "BACK OUTSIDE (feat. Latto)",
-      "url": "https://open.spotify.com/track/0WGLtCw9w9ZjCBqvY8rXCL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Booty (feat. Latto)",
         "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 146666,
       "name": "Booty (feat. Latto)",
       "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Chrome Heart Diaper Bag",
-      "url": "https://open.spotify.com/track/1IHpMe3bxgL9iDHpJAzvim"
     },
     {
       "added_at": null,
@@ -983,26 +983,6 @@
       "duration_ms": 144313,
       "name": "Another Nasty Song",
       "url": "https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Get Enough (feat. Latto)",
-        "url": "https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 207284,
-      "name": "Can't Get Enough (feat. Latto)",
-      "url": "https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH"
     }
   ],
   "unique_name": "This Is Latto",

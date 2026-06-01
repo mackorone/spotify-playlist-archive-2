@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93934,
+  "num_followers": 93938,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "Of All People",
-        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
+        "name": "Det h\u00f6gsta ljud jag h\u00f6rt",
+        "url": "https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
         }
       ],
-      "duration_ms": 154293,
-      "name": "Of All People",
-      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
+      "duration_ms": 190013,
+      "name": "Pappa kommer inte hem",
+      "url": "https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -339,18 +339,18 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "Det h\u00f6gsta ljud jag h\u00f6rt",
-        "url": "https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY"
+        "name": "Of All People",
+        "url": "https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn"
       },
       "artists": [
         {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 190013,
-      "name": "Pappa kommer inte hem",
-      "url": "https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql"
+      "duration_ms": 154293,
+      "name": "Of All People",
+      "url": "https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -439,8 +439,8 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "Bara mellan oss",
-        "url": "https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn"
+        "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+        "url": "https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl"
       },
       "artists": [
         {
@@ -448,25 +448,25 @@
           "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
         }
       ],
-      "duration_ms": 221833,
-      "name": "Bara mellan oss",
-      "url": "https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h"
+      "duration_ms": 262644,
+      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
+      "url": "https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6"
     },
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
-        "url": "https://open.spotify.com/album/4u1XhQVQ6dbY1Irc9jPdNC"
+        "name": "Farsans h\u00e4nder",
+        "url": "https://open.spotify.com/album/2sc5mcCEfmeKSjBxziE6Uz"
       },
       "artists": [
         {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 182746,
-      "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
-      "url": "https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2"
+      "duration_ms": 187200,
+      "name": "Farsans h\u00e4nder",
+      "url": "https://open.spotify.com/track/5Q6hZUb0wqqasN62P0N3wD"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -483,6 +483,22 @@
       "duration_ms": 229146,
       "name": "\u00d6ver",
       "url": "https://open.spotify.com/track/142CLjGxBpBtQxj9gPNJOK"
+    },
+    {
+      "added_at": "2026-05-28 22:00:01",
+      "album": {
+        "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
+        "url": "https://open.spotify.com/album/4u1XhQVQ6dbY1Irc9jPdNC"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "D\u00e4r hela v\u00e4rlden v\u00e4ntar",
+      "url": "https://open.spotify.com/track/4kRZAIVd5BBkYSPRsqj2D2"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -511,6 +527,22 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
+        "name": "Bara mellan oss",
+        "url": "https://open.spotify.com/album/0uu0VZmG5Bk4q5VAXTLmnn"
+      },
+      "artists": [
+        {
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+        }
+      ],
+      "duration_ms": 221833,
+      "name": "Bara mellan oss",
+      "url": "https://open.spotify.com/track/4VIWX9gEawpAkvzvwz2a1h"
+    },
+    {
+      "added_at": "2026-05-28 22:00:01",
+      "album": {
         "name": "Glasshouse",
         "url": "https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36"
       },
@@ -531,18 +563,18 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "Himlen \u00e4r oskyldigt bl\u00e5",
-        "url": "https://open.spotify.com/album/2YeDXQKCSMPg9H1j244Wwl"
+        "name": "Blindg\u00e5ngare / Du \u00e4r vid liv",
+        "url": "https://open.spotify.com/album/6eQFzMf0W6BniBkrWdR4yV"
       },
       "artists": [
         {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
         }
       ],
-      "duration_ms": 262644,
-      "name": "Himlen \u00e4r oskyldigt bl\u00e5",
-      "url": "https://open.spotify.com/track/1hYwe6tTSED5oiZoUaH0b6"
+      "duration_ms": 203986,
+      "name": "Du \u00e4r vid liv",
+      "url": "https://open.spotify.com/track/2pyPEuPvXdvJMr7CjN0cUA"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -563,22 +595,6 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "Blindg\u00e5ngare / Du \u00e4r vid liv",
-        "url": "https://open.spotify.com/album/6eQFzMf0W6BniBkrWdR4yV"
-      },
-      "artists": [
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Du \u00e4r vid liv",
-      "url": "https://open.spotify.com/track/2pyPEuPvXdvJMr7CjN0cUA"
-    },
-    {
-      "added_at": "2026-05-28 22:00:01",
-      "album": {
         "name": "Ingenting \u00e4r efter oss",
         "url": "https://open.spotify.com/album/5NgyWTgIc8ilxOEL0Cb0kQ"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "Farsans h\u00e4nder",
-        "url": "https://open.spotify.com/album/2sc5mcCEfmeKSjBxziE6Uz"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Farsans h\u00e4nder",
-      "url": "https://open.spotify.com/track/5Q6hZUb0wqqasN62P0N3wD"
-    },
-    {
-      "added_at": "2026-05-28 22:00:01",
-      "album": {
         "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
         "url": "https://open.spotify.com/album/3EdhLYmufCoE4EC6aNMLMn"
       },
@@ -623,6 +623,22 @@
       "duration_ms": 251000,
       "name": "Inga \u00e4rliga m\u00e4nniskor s\u00e4ljer sina k\u00e4nslor",
       "url": "https://open.spotify.com/track/5SggUVw4h9ADbSuYWjm2se"
+    },
+    {
+      "added_at": "2026-05-28 22:00:01",
+      "album": {
+        "name": "Hj\u00e4rnsp\u00f6ken",
+        "url": "https://open.spotify.com/album/5cDNdPjGB4JA26VNlee1vW"
+      },
+      "artists": [
+        {
+          "name": "Axel Schylstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
+        }
+      ],
+      "duration_ms": 170924,
+      "name": "Hj\u00e4rnsp\u00f6ken",
+      "url": "https://open.spotify.com/track/1oy1YNVgdi8b6TqWwkVXBP"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -647,22 +663,6 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "Hj\u00e4rnsp\u00f6ken",
-        "url": "https://open.spotify.com/album/5cDNdPjGB4JA26VNlee1vW"
-      },
-      "artists": [
-        {
-          "name": "Axel Schylstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT"
-        }
-      ],
-      "duration_ms": 170924,
-      "name": "Hj\u00e4rnsp\u00f6ken",
-      "url": "https://open.spotify.com/track/1oy1YNVgdi8b6TqWwkVXBP"
-    },
-    {
-      "added_at": "2026-05-28 22:00:01",
-      "album": {
         "name": "Sciura",
         "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
       },
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
-    },
-    {
-      "added_at": "2026-05-28 22:00:01",
-      "album": {
         "name": "Tillbaka",
         "url": "https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 211233,
       "name": "Tillbaka",
       "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
+    },
+    {
+      "added_at": "2026-05-28 22:00:01",
+      "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
+        "name": "Ton\u00e5rsland",
+        "url": "https://open.spotify.com/album/5nUCQzDYCGuLymgRWGh0Z9"
+      },
+      "artists": [
+        {
+          "name": "Bo Kaspers Orkester",
+          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
+        }
+      ],
+      "duration_ms": 190881,
+      "name": "Ton\u00e5rsland",
+      "url": "https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q"
+    },
+    {
+      "added_at": "2026-05-28 22:00:01",
+      "album": {
         "name": "Hon steg p\u00e5 finlandsb\u00e5ten",
         "url": "https://open.spotify.com/album/2NWC30QTZOUGAbbuBhChfI"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "Ton\u00e5rsland",
-        "url": "https://open.spotify.com/album/5nUCQzDYCGuLymgRWGh0Z9"
-      },
-      "artists": [
-        {
-          "name": "Bo Kaspers Orkester",
-          "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn"
-        }
-      ],
-      "duration_ms": 190881,
-      "name": "Ton\u00e5rsland",
-      "url": "https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q"
-    },
-    {
-      "added_at": "2026-05-28 22:00:01",
-      "album": {
         "name": "Bra \u00e4nd\u00e5",
         "url": "https://open.spotify.com/album/1d6k2tcmRdom4CSnZcmJHA"
       },
@@ -811,18 +811,18 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "Valborg hela veckan",
-        "url": "https://open.spotify.com/album/5fPB7xU8dckN204Tnfml7H"
+        "name": "\u00c4r det h\u00e4r det \u00e4r party",
+        "url": "https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58"
       },
       "artists": [
         {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+          "name": "Korslagda",
+          "url": "https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv"
         }
       ],
-      "duration_ms": 166511,
-      "name": "Valborg hela veckan",
-      "url": "https://open.spotify.com/track/4ofntrRzWXBr9eT0aSnR3c"
+      "duration_ms": 202011,
+      "name": "\u00c4r det h\u00e4r det \u00e4r party",
+      "url": "https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -839,6 +839,22 @@
       "duration_ms": 288020,
       "name": "You",
       "url": "https://open.spotify.com/track/0FPUZqLL86z0eGXKgf9J5M"
+    },
+    {
+      "added_at": "2026-05-28 22:00:01",
+      "album": {
+        "name": "Valborg hela veckan",
+        "url": "https://open.spotify.com/album/5fPB7xU8dckN204Tnfml7H"
+      },
+      "artists": [
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        }
+      ],
+      "duration_ms": 166511,
+      "name": "Valborg hela veckan",
+      "url": "https://open.spotify.com/track/4ofntrRzWXBr9eT0aSnR3c"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -907,22 +923,6 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "G\u00f6teborg",
-        "url": "https://open.spotify.com/album/71pxG9wcH5tpumzPTrREIK"
-      },
-      "artists": [
-        {
-          "name": "Valter Nilsson",
-          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
-        }
-      ],
-      "duration_ms": 228561,
-      "name": "G\u00f6teborg",
-      "url": "https://open.spotify.com/track/5wCwRorgVytF1HnOw9IwF9"
-    },
-    {
-      "added_at": "2026-05-28 22:00:01",
-      "album": {
         "name": "Bara trummor kvar",
         "url": "https://open.spotify.com/album/6gs9deX2HzLigPK9WDIzSd"
       },
@@ -939,18 +939,18 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "\u00c4r det h\u00e4r det \u00e4r party",
-        "url": "https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58"
+        "name": "G\u00f6teborg",
+        "url": "https://open.spotify.com/album/71pxG9wcH5tpumzPTrREIK"
       },
       "artists": [
         {
-          "name": "Korslagda",
-          "url": "https://open.spotify.com/artist/7uW0TRg4ie6mixKsuLEuAv"
+          "name": "Valter Nilsson",
+          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
         }
       ],
-      "duration_ms": 202011,
-      "name": "\u00c4r det h\u00e4r det \u00e4r party",
-      "url": "https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f"
+      "duration_ms": 228561,
+      "name": "G\u00f6teborg",
+      "url": "https://open.spotify.com/track/5wCwRorgVytF1HnOw9IwF9"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "All These Years",
-        "url": "https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1"
-      },
-      "artists": [
-        {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
-        }
-      ],
-      "duration_ms": 228482,
-      "name": "All These Years",
-      "url": "https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w"
-    },
-    {
-      "added_at": "2026-05-28 22:00:01",
-      "album": {
         "name": "Can't Frame the Moonlight",
         "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
       },
@@ -1023,22 +1007,6 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "Gullmar Gospel",
-        "url": "https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9"
-      },
-      "artists": [
-        {
-          "name": "Joel Alme",
-          "url": "https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc"
-        }
-      ],
-      "duration_ms": 272575,
-      "name": "Gullmar Gospel",
-      "url": "https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk"
-    },
-    {
-      "added_at": "2026-05-28 22:00:01",
-      "album": {
         "name": "Jag \u00c4r",
         "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
       },
@@ -1051,6 +1019,38 @@
       "duration_ms": 183160,
       "name": "Magk\u00e4nsla",
       "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
+    },
+    {
+      "added_at": "2026-05-28 22:00:01",
+      "album": {
+        "name": "All These Years",
+        "url": "https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 228482,
+      "name": "All These Years",
+      "url": "https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w"
+    },
+    {
+      "added_at": "2026-05-28 22:00:01",
+      "album": {
+        "name": "Gullmar Gospel",
+        "url": "https://open.spotify.com/album/70FLBezfgY07tPfguRRhq9"
+      },
+      "artists": [
+        {
+          "name": "Joel Alme",
+          "url": "https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc"
+        }
+      ],
+      "duration_ms": 272575,
+      "name": "Gullmar Gospel",
+      "url": "https://open.spotify.com/track/1UNyMoHUNzdaxaKGMNc3Xk"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "Greczula",
-        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
-      },
-      "artists": [
-        {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "All The Things That I Am",
-      "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
-    },
-    {
-      "added_at": "2026-05-28 22:00:01",
-      "album": {
         "name": "Mitt hj\u00e4rta en rebell",
         "url": "https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 191635,
       "name": "Mitt hj\u00e4rta en rebell",
       "url": "https://open.spotify.com/track/5vWwVISfokXhL3ZAK7Y5yj"
+    },
+    {
+      "added_at": "2026-05-28 22:00:01",
+      "album": {
+        "name": "Greczula",
+        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
+      },
+      "artists": [
+        {
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "All The Things That I Am",
+      "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "About Nothing",
-        "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
+        "name": "Everything's wasted",
+        "url": "https://open.spotify.com/album/2qRHkSc9g1Iign5yKvJhFA"
       },
       "artists": [
         {
-          "name": "Robert Pettersson",
-          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+          "name": "Takida",
+          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
         }
       ],
-      "duration_ms": 193433,
-      "name": "About Nothing",
-      "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
+      "duration_ms": 262501,
+      "name": "Everything's wasted",
+      "url": "https://open.spotify.com/track/1ao7iSXbAFlnDKCibe3KcG"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -1211,6 +1211,38 @@
       "duration_ms": 242641,
       "name": "Tiden",
       "url": "https://open.spotify.com/track/4FJ0spbrJdbUTuD4bior44"
+    },
+    {
+      "added_at": "2026-05-28 22:00:01",
+      "album": {
+        "name": "About Nothing",
+        "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
+      },
+      "artists": [
+        {
+          "name": "Robert Pettersson",
+          "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
+        }
+      ],
+      "duration_ms": 193433,
+      "name": "About Nothing",
+      "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
+    },
+    {
+      "added_at": "2026-05-28 22:00:01",
+      "album": {
+        "name": "Margaretas s\u00e5ng",
+        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 252629,
+      "name": "Margaretas s\u00e5ng",
+      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -1247,22 +1279,6 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "Margaretas s\u00e5ng",
-        "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 252629,
-      "name": "Margaretas s\u00e5ng",
-      "url": "https://open.spotify.com/track/6bgxMMjVfFGQ7LhL0gJq6h"
-    },
-    {
-      "added_at": "2026-05-28 22:00:01",
-      "album": {
         "name": "Prinsessa",
         "url": "https://open.spotify.com/album/4GumTSRgywolC98wanKLun"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 241000,
       "name": "Prinsessa",
       "url": "https://open.spotify.com/track/41BCn8oMNZEDvuFqXFMMrY"
-    },
-    {
-      "added_at": "2026-05-28 22:00:01",
-      "album": {
-        "name": "Dansa",
-        "url": "https://open.spotify.com/album/2OwwK5sCeCL2H9Ka2t6Hgt"
-      },
-      "artists": [
-        {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
-        }
-      ],
-      "duration_ms": 184145,
-      "name": "Dansa",
-      "url": "https://open.spotify.com/track/4oQRXnBrfgFpR47I1rGyCU"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "Stronger Than",
-        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
+        "name": "Dansa",
+        "url": "https://open.spotify.com/album/2OwwK5sCeCL2H9Ka2t6Hgt"
       },
       "artists": [
         {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
         }
       ],
-      "duration_ms": 188493,
-      "name": "Stronger Than",
-      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
+      "duration_ms": 184145,
+      "name": "Dansa",
+      "url": "https://open.spotify.com/track/4oQRXnBrfgFpR47I1rGyCU"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
+        "name": "Stronger Than",
+        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
+      },
+      "artists": [
+        {
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Stronger Than",
+      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
+    },
+    {
+      "added_at": "2026-05-28 22:00:01",
+      "album": {
         "name": "Older (From the TV series \u201dTystnaden\u201d)",
         "url": "https://open.spotify.com/album/0Y9R3xwuHbFqcD75ukOgIF"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 214712,
       "name": "Older",
       "url": "https://open.spotify.com/track/13dyKTy1OGspz1EcoPnyqw"
-    },
-    {
-      "added_at": "2026-05-28 22:00:01",
-      "album": {
-        "name": "Todas nacemos con alas",
-        "url": "https://open.spotify.com/album/730wfoIiktQkZfLv6Y32KZ"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Perrelli",
-          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
-        }
-      ],
-      "duration_ms": 184669,
-      "name": "Todas nacemos con alas",
-      "url": "https://open.spotify.com/track/2RsJaTRZ998FJIlvx4Vuk3"
     },
     {
       "added_at": "2026-05-28 22:00:01",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2026-05-28 22:00:01",
       "album": {
-        "name": "Everything's wasted",
-        "url": "https://open.spotify.com/album/2qRHkSc9g1Iign5yKvJhFA"
+        "name": "Todas nacemos con alas",
+        "url": "https://open.spotify.com/album/730wfoIiktQkZfLv6Y32KZ"
       },
       "artists": [
         {
-          "name": "Takida",
-          "url": "https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW"
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
         }
       ],
-      "duration_ms": 262501,
-      "name": "Everything's wasted",
-      "url": "https://open.spotify.com/track/1ao7iSXbAFlnDKCibe3KcG"
+      "duration_ms": 184669,
+      "name": "Todas nacemos con alas",
+      "url": "https://open.spotify.com/track/2RsJaTRZ998FJIlvx4Vuk3"
     },
     {
       "added_at": "2026-05-28 22:00:01",

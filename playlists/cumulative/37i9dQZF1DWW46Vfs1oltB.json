@@ -21465,6 +21465,32 @@
     },
     {
       "album": {
+        "name": "LLLM",
+        "url": "https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm"
+      },
+      "artists": [
+        {
+          "name": "Tray B",
+          "url": "https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225610,
+      "name": "LLLM (feat. Gaeko, ZICO) [prod. Tray B] [Instrumental]",
+      "url": "https://open.spotify.com/track/6oGgsodkuei2zO2H0BliRY"
+    },
+    {
+      "album": {
         "name": "AnotherVerse",
         "url": "https://open.spotify.com/album/66dDxL1UwfekjIrwhdRMd8"
       },

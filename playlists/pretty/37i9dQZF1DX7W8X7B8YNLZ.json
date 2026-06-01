@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 70. Photo : Dalida",
-  "num_followers": 127418,
+  "num_followers": 127444,
   "original_name": "Tubes Fran\u00e7ais 70",
   "owner": {
     "name": "Spotify",
@@ -638,11 +638,15 @@
         {
           "name": "Claude Fran\u00e7ois",
           "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        },
+        {
+          "name": "Fr\u00e9d\u00e9rique",
+          "url": "https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI"
         }
       ],
-      "duration_ms": 159253,
-      "name": "Le mal aim\u00e9",
-      "url": "https://open.spotify.com/track/36JTsxq9ywTGHpBjg3Wf4J"
+      "duration_ms": 245493,
+      "name": "Le t\u00e9l\u00e9phone pleure",
+      "url": "https://open.spotify.com/track/4cAeq0pjjvWxFfy7NL3XSD"
     },
     {
       "added_at": "2025-12-28 17:29:00",
@@ -718,15 +722,11 @@
         {
           "name": "Claude Fran\u00e7ois",
           "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
-        },
-        {
-          "name": "Fr\u00e9d\u00e9rique",
-          "url": "https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI"
         }
       ],
-      "duration_ms": 245493,
-      "name": "Le t\u00e9l\u00e9phone pleure",
-      "url": "https://open.spotify.com/track/4cAeq0pjjvWxFfy7NL3XSD"
+      "duration_ms": 159253,
+      "name": "Le mal aim\u00e9",
+      "url": "https://open.spotify.com/track/36JTsxq9ywTGHpBjg3Wf4J"
     },
     {
       "added_at": "2025-12-28 17:29:00",

@@ -1,6 +1,6 @@
 {
   "description": "Sun's out...and so are you!  Let these inspirational and faith-filled songs soundtrack your summer fun!",
-  "num_followers": 32818,
+  "num_followers": 32834,
   "original_name": "Summer Spirit",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "Like I Am Yours",
+        "url": "https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF"
+      },
+      "artists": [
+        {
+          "name": "Hopeful.",
+          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
+        }
+      ],
+      "duration_ms": 184712,
+      "name": "Like I Am Yours",
+      "url": "https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "The Sacrifice",
         "url": "https://open.spotify.com/album/1Axo3TBWbcL604Jup2pYUB"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "Like I Am Yours",
-        "url": "https://open.spotify.com/album/7MCAvA57pDBkK6tnNFbEPF"
-      },
-      "artists": [
-        {
-          "name": "Hopeful.",
-          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
-        }
-      ],
-      "duration_ms": 184712,
-      "name": "Like I Am Yours",
-      "url": "https://open.spotify.com/track/4FjN4t4HvAx5qm7kCnzTb0"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -579,6 +579,26 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "So Divine",
+        "url": "https://open.spotify.com/album/6Ne1Fmuoc3iajPROkDGkQU"
+      },
+      "artists": [
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        },
+        {
+          "name": "Dani Lyra",
+          "url": "https://open.spotify.com/artist/7mJXskCHqtGzhCevJvGLhn"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "So Divine",
+      "url": "https://open.spotify.com/track/4c6wcbbG8NrOTNPJewWdUT"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "STRENGTH AND SONG",
         "url": "https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 213995,
       "name": "STRENGTH AND SONG",
       "url": "https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "So Divine",
-        "url": "https://open.spotify.com/album/6Ne1Fmuoc3iajPROkDGkQU"
-      },
-      "artists": [
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        },
-        {
-          "name": "Dani Lyra",
-          "url": "https://open.spotify.com/artist/7mJXskCHqtGzhCevJvGLhn"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "So Divine",
-      "url": "https://open.spotify.com/track/4c6wcbbG8NrOTNPJewWdUT"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Koolaid",
-        "url": "https://open.spotify.com/album/0di8Gum7drHw1FPmniZRvr"
-      },
-      "artists": [
-        {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
-        }
-      ],
-      "duration_ms": 180829,
-      "name": "Koolaid",
-      "url": "https://open.spotify.com/track/2VT2WRmWPN4Be318KrdFDo"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
         "name": "give & take",
         "url": "https://open.spotify.com/album/7ufigBepuzBwx2TDA5lgWC"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 206719,
       "name": "give & take",
       "url": "https://open.spotify.com/track/5zjbwZNZn7vNdb6ep4Xszq"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
+        "name": "Koolaid",
+        "url": "https://open.spotify.com/album/0di8Gum7drHw1FPmniZRvr"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "duration_ms": 180829,
+      "name": "Koolaid",
+      "url": "https://open.spotify.com/track/2VT2WRmWPN4Be318KrdFDo"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -899,6 +899,22 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
+        "name": "redeemed",
+        "url": "https://open.spotify.com/album/5Gz7B8CntlUIvMoGlKZY3f"
+      },
+      "artists": [
+        {
+          "name": "sun haze",
+          "url": "https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2"
+        }
+      ],
+      "duration_ms": 205448,
+      "name": "redeemed",
+      "url": "https://open.spotify.com/track/2lkHVcg3Ur0DK0YGR2RFT2"
+    },
+    {
+      "added_at": "2026-05-29 08:59:34",
+      "album": {
         "name": "MILLION WAYS",
         "url": "https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 164632,
       "name": "How Good of God",
       "url": "https://open.spotify.com/track/5hP9ouI6yMgG1EPq1hs76t"
-    },
-    {
-      "added_at": "2026-05-29 08:59:34",
-      "album": {
-        "name": "redeemed",
-        "url": "https://open.spotify.com/album/5Gz7B8CntlUIvMoGlKZY3f"
-      },
-      "artists": [
-        {
-          "name": "sun haze",
-          "url": "https://open.spotify.com/artist/2fm6kygt9BS4un4NcXC5E2"
-        }
-      ],
-      "duration_ms": 205448,
-      "name": "redeemed",
-      "url": "https://open.spotify.com/track/2lkHVcg3Ur0DK0YGR2RFT2"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/1mHjunby6EiZ38XWe1TaM1"
+        "name": "Just Got Better",
+        "url": "https://open.spotify.com/album/5XcmIJOQk6QH821cjT04tJ"
       },
       "artists": [
         {
-          "name": "DeAngelo",
-          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
+          "name": "In Paradise",
+          "url": "https://open.spotify.com/artist/4ALawqTfUuUWNCPMoKKuxz"
         }
       ],
-      "duration_ms": 130576,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/0ndh1TcblkuceH8ZmauBWM"
+      "duration_ms": 184046,
+      "name": "Just Got Better",
+      "url": "https://open.spotify.com/track/1ivpauFFHo56fKDgHZSLWG"
     },
     {
       "added_at": "2026-05-29 08:59:34",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2026-05-29 08:59:34",
       "album": {
-        "name": "Just Got Better",
-        "url": "https://open.spotify.com/album/5XcmIJOQk6QH821cjT04tJ"
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1mHjunby6EiZ38XWe1TaM1"
       },
       "artists": [
         {
-          "name": "In Paradise",
-          "url": "https://open.spotify.com/artist/4ALawqTfUuUWNCPMoKKuxz"
+          "name": "DeAngelo",
+          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
         }
       ],
-      "duration_ms": 184046,
-      "name": "Just Got Better",
-      "url": "https://open.spotify.com/track/1ivpauFFHo56fKDgHZSLWG"
+      "duration_ms": 130576,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/0ndh1TcblkuceH8ZmauBWM"
     },
     {
       "added_at": "2026-05-29 08:59:34",

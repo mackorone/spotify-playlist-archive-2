@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💋 Ida Laurberg på coveret
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,214 likes - 183 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,208 likes - 183 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

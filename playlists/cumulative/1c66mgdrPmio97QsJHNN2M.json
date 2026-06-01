@@ -510,7 +510,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 184855,
       "name": "A Spring of Bleak Midwinter",
       "url": "https://open.spotify.com/track/2uzY9Isy91887tzQNarisi"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 244839,
       "name": "Almost There",
       "url": "https://open.spotify.com/track/1zocYcw3ujfDX6uvUnRIFa"
@@ -5826,7 +5826,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 89623,
       "name": "Club Vibes",
       "url": "https://open.spotify.com/track/2OWX1eiKWgWpkQgrUqGiMk"
@@ -12831,6 +12831,24 @@
     },
     {
       "album": {
+        "name": "Grit & Grind",
+        "url": "https://open.spotify.com/album/5Qjyu1LxMnKyyG5YTYgvpc"
+      },
+      "artists": [
+        {
+          "name": "Dutch Noize",
+          "url": "https://open.spotify.com/artist/5NFoZwrk6qXcC2rFVRfrHn"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137439,
+      "name": "Grit & Grind",
+      "url": "https://open.spotify.com/track/17OBYQlv4e8ouTvJNirhi5"
+    },
+    {
+      "album": {
         "name": "Growing Up Is Confusing",
         "url": "https://open.spotify.com/album/0l5BwDoeCdcx0WgDncljjd"
       },
@@ -14828,7 +14846,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 138119,
       "name": "I Find My Song",
       "url": "https://open.spotify.com/track/1M0qYTLT54tub1POGPqpxq"
@@ -15826,7 +15844,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 218200,
       "name": "if i had you",
       "url": "https://open.spotify.com/track/5pPCbLQ1trQ56fzPrO2qpb"
@@ -17890,6 +17908,24 @@
       "duration_ms": 110650,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/2Yhwx0zitX3eFpn4Aa9cGi"
+    },
+    {
+      "album": {
+        "name": "Lauralie",
+        "url": "https://open.spotify.com/album/4HVUB1jDCI8b5r8YCJLGzc"
+      },
+      "artists": [
+        {
+          "name": "P Dulude",
+          "url": "https://open.spotify.com/artist/7gjzWrv2x5OF85aJ7WVSMM"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279860,
+      "name": "Lauralie",
+      "url": "https://open.spotify.com/track/5BPdbqtxirEm3KX8E7Bgm7"
     },
     {
       "album": {
@@ -21898,7 +21934,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 188731,
       "name": "my medication",
       "url": "https://open.spotify.com/track/2UkTzHwSSLcFof1muj3XHz"
@@ -25948,7 +25984,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 325861,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/7s2KVLvcukEffhFNvWnjhO"
@@ -29906,6 +29942,24 @@
       "duration_ms": 187059,
       "name": "Soul Searching",
       "url": "https://open.spotify.com/track/5zdPwwfIfwSmGvmKtZDWdo"
+    },
+    {
+      "album": {
+        "name": "Sound Of You",
+        "url": "https://open.spotify.com/album/0BXR32AN5GYyAEuza0QPL6"
+      },
+      "artists": [
+        {
+          "name": "Blake Schmitz",
+          "url": "https://open.spotify.com/artist/6C5UsZ26MzmcbxIZM6geL4"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "Sound Of You",
+      "url": "https://open.spotify.com/track/6xIUGvJrwdhcE6ryNMrcKB"
     },
     {
       "album": {
@@ -34150,7 +34204,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 216980,
       "name": "Too Much Fun",
       "url": "https://open.spotify.com/track/7KD60OsEnkK4xjJebRuRos"
@@ -38480,7 +38534,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 392009,
       "name": "\u00c1gua Viva",
       "url": "https://open.spotify.com/track/2GGf3fne4G1MZB8WlZaRri"

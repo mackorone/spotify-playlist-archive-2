@@ -1,6 +1,6 @@
 {
   "description": "\u97f3\u697d\u3092\u30dd\u30b1\u30c3\u30c8\u306b\u8a70\u3081\u3066\u6563\u6b69\u306b\u51fa\u304b\u3051\u3088\u3046\u3002\u304d\u3063\u3068\u65b0\u3057\u3044\u666f\u8272\u304c\u898b\u3048\u3066\u304f\u308b\u306f\u305a\u3002",
-  "num_followers": 50830,
+  "num_followers": 50838,
   "original_name": "Happy Stroll - \u97f3\u697d\u3068\u6563\u6b69 - ",
   "owner": {
     "name": "Spotify",
@@ -513,20 +513,20 @@
       "url": "https://open.spotify.com/track/3Wh9QrUzz5sEkiZAVUB9o1"
     },
     {
-      "added_at": "2026-05-19 15:00:25",
+      "added_at": "2026-05-21 15:00:20",
       "album": {
-        "name": "Nothing's About to Happen to Me",
-        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
+        "name": "everyone for ten minutes",
+        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 180053,
-      "name": "If I Leave",
-      "url": "https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ"
+      "duration_ms": 184761,
+      "name": "we should talk",
+      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
     },
     {
       "added_at": "2026-04-17 03:49:21",
@@ -561,20 +561,20 @@
       "url": "https://open.spotify.com/track/5APnPxCXlNvoMcnvJ6kmOA"
     },
     {
-      "added_at": "2026-05-21 15:00:20",
+      "added_at": "2026-05-19 15:00:25",
       "album": {
-        "name": "everyone for ten minutes",
-        "url": "https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o"
+        "name": "Nothing's About to Happen to Me",
+        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
       },
       "artists": [
         {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 184761,
-      "name": "we should talk",
-      "url": "https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz"
+      "duration_ms": 180053,
+      "name": "If I Leave",
+      "url": "https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ"
     },
     {
       "added_at": "2026-04-17 03:49:21",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-04-17 03:49:21",
       "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 206530,
-      "name": "Cruel World",
-      "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
-    },
-    {
-      "added_at": "2026-04-17 03:49:21",
-      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
       },
@@ -827,18 +811,34 @@
     {
       "added_at": "2026-04-17 03:49:21",
       "album": {
-        "name": "Beat Yourself Up",
-        "url": "https://open.spotify.com/album/4UEzLrGegP8f1PyFEXaKKN"
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
       },
       "artists": [
         {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 178461,
-      "name": "Beat Yourself Up",
-      "url": "https://open.spotify.com/track/7dr9uWtuRR6sdFpRjk0mnN"
+      "duration_ms": 206530,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
+    },
+    {
+      "added_at": "2026-05-14 15:00:33",
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/18ItvpfElRAbLFVhhgLk4I"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Young",
+      "url": "https://open.spotify.com/track/50aMKGLZR1T1RDnvCXS41W"
     }
   ],
   "unique_name": "Happy Stroll - \u97f3\u697d\u3068\u6563\u6b69 - ",

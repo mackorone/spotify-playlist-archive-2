@@ -4,7 +4,7 @@
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-109 songs - 6 hr 4 min
+110 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bury My Bones at Crystal Cove](https://open.spotify.com/track/6U6M3mSmfBXY0HWnywGl5x) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 4:49 | 2022-10-25 | 2025-10-26 |
 | [Butterflies](https://open.spotify.com/track/3CkNQ8PftJdF4NPoRYesw5) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa) | 4:25 | 2022-10-25 | 2024-03-14 |
 | [Candycanes and Cola](https://open.spotify.com/track/18MUDuwe1pdczRE6PeHlL0) | [A Day In The Life](https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Nine Reasons To Say Goodbye](https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx) | 3:04 | 2024-11-13 | 2026-05-30 |
+| [Chemicals](https://open.spotify.com/track/6nthEVYr9WWrJDYClVQhhd) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hope](https://open.spotify.com/album/4nMaQP7tda42A7kP5sxbQS) | 3:49 | 2026-06-01 |  |
 | [Come Back Home \(Reprised\)](https://open.spotify.com/track/0oPYSVGiTrBQP2Dmv6N6IA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Fragile Future](https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ) | 4:11 | 2022-10-25 | 2023-03-18 |
 | [Common Crook](https://open.spotify.com/track/3nHEKxGnv30F4uZkcUf97m) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 3:13 | 2022-10-25 |  |
 | [Constant Dread](https://open.spotify.com/track/3IyhY55cr7wlxkVgLl1HCT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe), [Brendan Murphy](https://open.spotify.com/artist/7CbcN4VBt2aG1NzFlB8uJE), [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Rain Just Follows Me](https://open.spotify.com/album/1jCGtVCGyczQy3obBbxARG) | 2:52 | 2025-04-23 |  |
@@ -39,7 +40,7 @@
 | [Do You Have A Map, Because I'm Lost In Your Eyes](https://open.spotify.com/track/7MhBjBtRuhiZBZO4b3tpXv) | [A Day In The Life](https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr), [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Nine Reasons To Say Goodbye](https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx) | 3:06 | 2024-11-12 |  |
 | [Drive](https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 3:06 | 2022-10-25 |  |
 | [Empty](https://open.spotify.com/track/4q9fBT07eKXUlbzXC4bxfB) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Lights](https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv) | 2:51 | 2023-09-09 | 2024-11-12 |
-| [Four White Walls](https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 2:58 | 2023-10-04 |  |
+| [Four White Walls](https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hate](https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh) | 2:58 | 2023-10-04 | 2026-06-01 |
 | [Gold Econoline](https://open.spotify.com/track/1JfyMRSL41EA1J4B2IbfRT) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Sandpaper and Silk](https://open.spotify.com/album/2HA1HQPJKPkJTXotAi112u) | 3:28 | 2025-01-13 | 2025-04-29 |
 | [Gold Econoline](https://open.spotify.com/track/1N747HibtK5DZUwezC6zV9) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Gold Econoline](https://open.spotify.com/album/6KSH1Uegz02CQlhVL5uOLj) | 3:28 | 2024-06-23 | 2025-01-01 |
 | [Hard to Breathe](https://open.spotify.com/track/0z7vP1cqwrlwvbSw5d0pzc) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta) | 2:57 | 2025-04-27 |  |

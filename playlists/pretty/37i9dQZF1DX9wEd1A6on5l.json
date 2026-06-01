@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 116431,
+  "num_followers": 116481,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -51,22 +51,6 @@
     {
       "added_at": "2026-05-29 00:02:10",
       "album": {
-        "name": "Ukanigbe",
-        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 169299,
-      "name": "Tumo Weto",
-      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
-    },
-    {
-      "added_at": "2026-05-29 00:02:10",
-      "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 333451,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO"
+    },
+    {
+      "added_at": "2026-05-29 00:02:10",
+      "album": {
+        "name": "Ukanigbe",
+        "url": "https://open.spotify.com/album/5XaW0jZyPkJg3A85nxX0dA"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 169299,
+      "name": "Tumo Weto",
+      "url": "https://open.spotify.com/track/5eVQcRihBkD938y0zfnbJ4"
     },
     {
       "added_at": "2026-05-29 00:02:10",
@@ -159,26 +159,6 @@
     {
       "added_at": "2026-05-29 00:02:10",
       "album": {
-        "name": "Breaking",
-        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "SSSoundGawd",
-          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
-        }
-      ],
-      "duration_ms": 172160,
-      "name": "Aura Salad",
-      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
-    },
-    {
-      "added_at": "2026-05-29 00:02:10",
-      "album": {
         "name": "REAL, Vol. 1",
         "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 155773,
       "name": "Alaye",
       "url": "https://open.spotify.com/track/1juUeg0oAfCwO8xWj4rzZg"
+    },
+    {
+      "added_at": "2026-05-29 00:02:10",
+      "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "SSSoundGawd",
+          "url": "https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw"
+        }
+      ],
+      "duration_ms": 172160,
+      "name": "Aura Salad",
+      "url": "https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM"
     },
     {
       "added_at": "2026-05-29 00:02:10",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-05-29 00:02:10",
       "album": {
-        "name": "Mofe",
-        "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Mofe",
-      "url": "https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB"
-    },
-    {
-      "added_at": "2026-05-29 00:02:10",
-      "album": {
         "name": "STREET THERAPIST",
         "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 139424,
       "name": "Lakute",
       "url": "https://open.spotify.com/track/4vihO3E0gnClPlL5g02yXr"
+    },
+    {
+      "added_at": "2026-05-29 00:02:10",
+      "album": {
+        "name": "Mofe",
+        "url": "https://open.spotify.com/album/6Pshl1rktRcEVRGlPO9BrB"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Mofe",
+      "url": "https://open.spotify.com/track/1w8lSGDuMUgRh7rygMp7VB"
     },
     {
       "added_at": "2026-05-29 00:02:10",
@@ -571,22 +571,18 @@
     {
       "added_at": "2026-05-29 00:02:10",
       "album": {
-        "name": "Paparazzi",
-        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
       },
       "artists": [
         {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
         }
       ],
-      "duration_ms": 147302,
-      "name": "Paparazzi",
-      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2026-05-29 00:02:10",
@@ -607,18 +603,22 @@
     {
       "added_at": "2026-05-29 00:02:10",
       "album": {
-        "name": "Candor",
-        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
       },
       "artists": [
         {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 175666,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
+      "duration_ms": 147302,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
     },
     {
       "added_at": "2026-05-29 00:02:10",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-05-29 00:02:10",
       "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2026-05-29 00:02:10",
+      "album": {
         "name": "99 (feat. Daecolm)",
         "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
       },
@@ -939,22 +955,6 @@
     {
       "added_at": "2026-05-29 00:02:10",
       "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
-    },
-    {
-      "added_at": "2026-05-29 00:02:10",
-      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-05-29 00:02:10",
       "album": {
-        "name": "No Wam",
-        "url": "https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR"
-      },
-      "artists": [
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 149446,
-      "name": "No Wam",
-      "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"
-    },
-    {
-      "added_at": "2026-05-29 00:02:10",
-      "album": {
         "name": "Calculate (II)",
         "url": "https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 180688,
       "name": "Calculate - II",
       "url": "https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw"
+    },
+    {
+      "added_at": "2026-05-29 00:02:10",
+      "album": {
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 149446,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"
     },
     {
       "added_at": "2026-05-29 00:02:10",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-05-29 00:02:10",
       "album": {
+        "name": "Mortal Kombat",
+        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 121061,
+      "name": "Mortal Kombat",
+      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
+    },
+    {
+      "added_at": "2026-05-29 00:02:10",
+      "album": {
         "name": "Jembe / 14DRoad",
         "url": "https://open.spotify.com/album/6GQm5kwFN5tyyZroeexRew"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2026-05-29 00:02:10",
       "album": {
-        "name": "Mortal Kombat",
-        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
       },
       "artists": [
         {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 121061,
-      "name": "Mortal Kombat",
-      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
+      "duration_ms": 171553,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2026-05-29 00:02:10",
@@ -1111,22 +1127,6 @@
       "duration_ms": 154105,
       "name": "Solace II",
       "url": "https://open.spotify.com/track/6qLshHZOHqWyAVRmSj4qip"
-    },
-    {
-      "added_at": "2026-05-29 00:02:10",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/41zwoiFoBTlcKg5v8Jh6Jz"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6Dl5VTH88DdfbF8VOsxHgx"
     },
     {
       "added_at": "2026-05-29 00:02:10",
@@ -1247,6 +1247,30 @@
     {
       "added_at": "2026-05-29 00:02:10",
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/4DkDQnkfCfgniEm33g3IEV"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 140505,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G"
+    },
+    {
+      "added_at": "2026-05-29 00:02:10",
+      "album": {
         "name": "Go Crazy",
         "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
       },
@@ -1307,26 +1331,18 @@
     {
       "added_at": "2026-05-29 00:02:10",
       "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/4DkDQnkfCfgniEm33g3IEV"
+        "name": "Laye Mi",
+        "url": "https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 140505,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G"
+      "duration_ms": 204159,
+      "name": "Laye Mi",
+      "url": "https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co"
     },
     {
       "added_at": "2026-05-29 00:02:10",
@@ -1343,22 +1359,6 @@
       "duration_ms": 136707,
       "name": "Coco Money",
       "url": "https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z"
-    },
-    {
-      "added_at": "2026-05-29 00:02:10",
-      "album": {
-        "name": "Laye Mi",
-        "url": "https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 204159,
-      "name": "Laye Mi",
-      "url": "https://open.spotify.com/track/5X8ZK1cZ57LxyJ66pbH0Co"
     },
     {
       "added_at": "2026-05-29 00:02:10",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-05-29 00:02:10",
       "album": {
-        "name": "OMO TI O COMMON",
-        "url": "https://open.spotify.com/album/4CNkV9CTes6bwemvcv6OhE"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 174174,
-      "name": "OMO TI O COMMON",
-      "url": "https://open.spotify.com/track/0VqMli0V4mKPu0yhN3Dc7P"
-    },
-    {
-      "added_at": "2026-05-29 00:02:10",
-      "album": {
         "name": "Pity My Soul",
         "url": "https://open.spotify.com/album/7KH2FKeF3Py5WuZ93qf3Hz"
       },
@@ -1467,6 +1451,42 @@
       "duration_ms": 141716,
       "name": "Pity My Soul",
       "url": "https://open.spotify.com/track/1NOw3SULPNXOPxbacxXlUJ"
+    },
+    {
+      "added_at": "2026-05-29 00:02:10",
+      "album": {
+        "name": "OMO TI O COMMON",
+        "url": "https://open.spotify.com/album/4CNkV9CTes6bwemvcv6OhE"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 174174,
+      "name": "OMO TI O COMMON",
+      "url": "https://open.spotify.com/track/0VqMli0V4mKPu0yhN3Dc7P"
+    },
+    {
+      "added_at": "2026-05-29 00:02:10",
+      "album": {
+        "name": "Shake That",
+        "url": "https://open.spotify.com/album/5KJYpO15Cv5uDPE4OZDJbP"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Shake That",
+      "url": "https://open.spotify.com/track/2HNqGqMFyUjyjGyi6K58xm"
     },
     {
       "added_at": "2026-05-29 00:02:10",
@@ -1543,22 +1563,6 @@
       "duration_ms": 134237,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
-    },
-    {
-      "added_at": "2026-05-29 00:02:10",
-      "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 169541,
-      "name": "Matter",
-      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
     }
   ],
   "unique_name": "Party Dey!",

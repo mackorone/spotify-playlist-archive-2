@@ -1,6 +1,6 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 395972,
+  "num_followers": 396051,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Inalcanzable",
-        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Acepto Mi Derrota",
-      "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Amor Plat\u00f3nico",
         "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 179506,
       "name": "Amor Plat\u00f3nico",
       "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Inalcanzable",
+        "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Acepto Mi Derrota",
+      "url": "https://open.spotify.com/track/3FKDvQRZImg9cl1jcaQiHX"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Intimidades",
-        "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 226280,
-      "name": "Como Una Novela",
-      "url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "La Otra Cara De La Moneda",
         "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 245693,
       "name": "La Otra Cara De La Moneda",
       "url": "https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Intimidades",
+        "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 226280,
+      "name": "Como Una Novela",
+      "url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "30 Mejores Vol. 2",
-        "url": "https://open.spotify.com/album/6lsChnup0ny0ddu0vt7WIS"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 294295,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/7efyNQkw5iAsQrvwwnNiy3"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Huele A Peligro",
         "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 232480,
       "name": "Huele A Peligro",
       "url": "https://open.spotify.com/track/1DwQgyvgKArDb8abfodH1f"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "30 Mejores Vol. 2",
+        "url": "https://open.spotify.com/album/6lsChnup0ny0ddu0vt7WIS"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 294295,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/7efyNQkw5iAsQrvwwnNiy3"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Verano De Amor",
-        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Rosas Rojas",
-      "url": "https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "La Otra Cara De La Moneda",
         "url": "https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 225826,
       "name": "Comp\u00e1rame",
       "url": "https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Verano De Amor",
+        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Rosas Rojas",
+      "url": "https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Con El Coraz\u00f3n En La Mano",
-      "url": "https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 171013,
       "name": "Te Quiero As\u00ed",
       "url": "https://open.spotify.com/track/61kqdsD1xegRmPhdw1r95l"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Con El Coraz\u00f3n En La Mano",
+      "url": "https://open.spotify.com/track/7dQXDhWQmLrememQGfQo70"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Y Seguimos Con Duranguense",
-        "url": "https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 166426,
-      "name": "Si La Quieres",
-      "url": "https://open.spotify.com/track/5uhtYs2t9NiemfPfwHjslo"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Recuerdos y algo m\u00e1s",
         "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 208533,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Y Seguimos Con Duranguense",
+        "url": "https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "duration_ms": 166426,
+      "name": "Si La Quieres",
+      "url": "https://open.spotify.com/track/5uhtYs2t9NiemfPfwHjslo"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Locos De Amor",
-        "url": "https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8"
-      },
-      "artists": [
-        {
-          "name": "Los Hor\u00f3scopos De Durango",
-          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Hoy y Siempre",
         "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
       },
@@ -1503,18 +1487,18 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Y Si Te Quedas, Que?",
-        "url": "https://open.spotify.com/album/4dAkXsd5DLwTJjT0enyi2Q"
+        "name": "Locos De Amor",
+        "url": "https://open.spotify.com/album/68mkOfI8mKH9HULGOBO3O8"
       },
       "artists": [
         {
-          "name": "Carlos D'Castro",
-          "url": "https://open.spotify.com/artist/0GhPz9EJN7w5QcZRc54NeE"
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
         }
       ],
-      "duration_ms": 262400,
-      "name": "Y Si Te Quedas, Que?",
-      "url": "https://open.spotify.com/track/42X4cUqxpcu0wRhazXplak"
+      "duration_ms": 206146,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/4GzrlsibHiAfMqyWvSBvgh"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1555,8 +1539,24 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Banda Cuisillos",
-        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
+        "name": "Y Si Te Quedas, Que?",
+        "url": "https://open.spotify.com/album/4dAkXsd5DLwTJjT0enyi2Q"
+      },
+      "artists": [
+        {
+          "name": "Carlos D'Castro",
+          "url": "https://open.spotify.com/artist/0GhPz9EJN7w5QcZRc54NeE"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Y Si Te Quedas, Que?",
+      "url": "https://open.spotify.com/track/42X4cUqxpcu0wRhazXplak"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Descontrolado",
+        "url": "https://open.spotify.com/album/76rlyFU75ajn47W3pBWe2P"
       },
       "artists": [
         {
@@ -1564,9 +1564,9 @@
           "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 174265,
-      "name": "C\u00f3mo Sufro",
-      "url": "https://open.spotify.com/track/2AAsziSTEQoTMIyXAunJbY"
+      "duration_ms": 198681,
+      "name": "Descontrolado",
+      "url": "https://open.spotify.com/track/4sP1BjxO9FtKoG0BaVSYeE"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1639,8 +1639,8 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Descontrolado",
-        "url": "https://open.spotify.com/album/76rlyFU75ajn47W3pBWe2P"
+        "name": "Banda Cuisillos",
+        "url": "https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww"
       },
       "artists": [
         {
@@ -1648,9 +1648,9 @@
           "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 198681,
-      "name": "Descontrolado",
-      "url": "https://open.spotify.com/track/4sP1BjxO9FtKoG0BaVSYeE"
+      "duration_ms": 174265,
+      "name": "C\u00f3mo Sufro",
+      "url": "https://open.spotify.com/track/2AAsziSTEQoTMIyXAunJbY"
     },
     {
       "added_at": "2026-01-21 19:40:02",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-01-21 19:40:02",
       "album": {
-        "name": "Como Pude Enamorarme De Ti",
-        "url": "https://open.spotify.com/album/4kPZh0MgavSWBIr1LXgBQU"
-      },
-      "artists": [
-        {
-          "name": "Patrulla 81",
-          "url": "https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN"
-        }
-      ],
-      "duration_ms": 131440,
-      "name": "C\u00f3mo Pude Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V"
-    },
-    {
-      "added_at": "2026-01-21 19:40:02",
-      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 155746,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu"
+    },
+    {
+      "added_at": "2026-01-21 19:40:02",
+      "album": {
+        "name": "Como Pude Enamorarme De Ti",
+        "url": "https://open.spotify.com/album/4kPZh0MgavSWBIr1LXgBQU"
+      },
+      "artists": [
+        {
+          "name": "Patrulla 81",
+          "url": "https://open.spotify.com/artist/4TTxsp1mecTPT9O4dxVtvN"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "C\u00f3mo Pude Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/0A4lH5fAqNuLCSOYA3Bp7V"
     },
     {
       "added_at": "2026-01-21 19:40:02",

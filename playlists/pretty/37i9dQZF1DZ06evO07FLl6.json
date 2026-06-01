@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 248323,
+  "num_followers": 248371,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAABsIhkhSMV7B+VRwW720x1X",
+  "snapshot_id": "ahoogAAAAADM8o9GqOkjJe2qpIN13Ov4",
   "tracks": [
     {
       "added_at": null,
@@ -87,50 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 181988,
-      "name": "Boplicity",
-      "url": "https://open.spotify.com/track/0Wz6DLq8NBoi1viEqrdH9B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 562640,
-      "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
-      "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -163,40 +119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music From and Inspired by The Film Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0JDBCK1VDNacLmb49NCG9V"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 167612,
-      "name": "G\u00e9n\u00e9rique - Mono Version",
-      "url": "https://open.spotify.com/track/1hh6s2tQuxdnaHET2hlNSH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 172330,
-      "name": "Au bar du Petit Bac - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/4x1wPhR48abeSDr6o25NAv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kind Of Blue",
-        "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
       "artists": [
         {
@@ -212,17 +136,45 @@
           "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         },
         {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 588410,
-      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
-      "url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
+      "duration_ms": 562640,
+      "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 181988,
+      "name": "Boplicity",
+      "url": "https://open.spotify.com/track/0Wz6DLq8NBoi1viEqrdH9B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music From and Inspired by The Film Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0JDBCK1VDNacLmb49NCG9V"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 167612,
+      "name": "G\u00e9n\u00e9rique - Mono Version",
+      "url": "https://open.spotify.com/track/1hh6s2tQuxdnaHET2hlNSH"
     },
     {
       "added_at": null,
@@ -259,6 +211,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kind Of Blue",
+        "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        }
+      ],
+      "duration_ms": 588410,
+      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
+      "url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 172330,
+      "name": "Au bar du Petit Bac - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/4x1wPhR48abeSDr6o25NAv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Volume 2",
         "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
       },
@@ -275,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 172026,
-      "name": "Florence sur les Champs-\u00c9lys\u00e9es - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/72bpseQy3hiwU2MB4RNhEf"
+      "duration_ms": 193546,
+      "name": "Jeru",
+      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 193546,
-      "name": "Jeru",
-      "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
+      "duration_ms": 172026,
+      "name": "Florence sur les Champs-\u00c9lys\u00e9es - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/72bpseQy3hiwU2MB4RNhEf"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascenseur pour l'\u00e9chafaud",
-        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 230690,
-      "name": "Chez le photographe du motel - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
-      "url": "https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq"
+      "duration_ms": 200296,
+      "name": "Moon Dreams",
+      "url": "https://open.spotify.com/track/3GRRmV65lSUxQ82GHyVAZO"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
       "duration_ms": 566133,
       "name": "Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/6dRx7OUXfvosnXG3g9lWGi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 200296,
-      "name": "Moon Dreams",
-      "url": "https://open.spotify.com/track/3GRRmV65lSUxQ82GHyVAZO"
     },
     {
       "added_at": null,
@@ -455,34 +439,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
+        "name": "Ascenseur pour l'\u00e9chafaud",
+        "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        },
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Jimmy Cobb",
-          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
         }
       ],
-      "duration_ms": 314160,
-      "name": "Old Folks (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
-      "url": "https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP"
+      "duration_ms": 230690,
+      "name": "Chez le photographe du motel - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
+      "url": "https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Birth Of The Cool",
+        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 192992,
+      "name": "Venus De Milo",
+      "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
     },
     {
       "added_at": null,
@@ -515,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Birth Of The Cool",
-        "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "Venus De Milo",
-      "url": "https://open.spotify.com/track/5e6IB3ls75JPn0tpXggs4W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
       },
@@ -556,10 +524,6 @@
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         },
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
           "name": "Hank Mobley",
           "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         },
@@ -576,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
         }
       ],
-      "duration_ms": 542400,
-      "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
-      "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
+      "duration_ms": 314160,
+      "name": "Old Folks (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
+      "url": "https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP"
     },
     {
       "added_at": null,
@@ -631,6 +595,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        }
+      ],
+      "duration_ms": 542400,
+      "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
+      "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Embraceable",
         "url": "https://open.spotify.com/album/2j5GUDLnu0vbZCK1fgHo7c"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 243600,
       "name": "Out Of Nowhere",
       "url": "https://open.spotify.com/track/5cA3pwT15ubAZeJR0gRppU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miles Ahead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Miles Ahead",
-      "url": "https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox"
     },
     {
       "added_at": null,
@@ -679,34 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
+        "name": "Miles Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
       },
       "artists": [
         {
           "name": "Miles Davis",
           "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        },
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Jimmy Cobb",
-          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
         }
       ],
-      "duration_ms": 292106,
-      "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
-      "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
+      "duration_ms": 209333,
+      "name": "Miles Ahead",
+      "url": "https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox"
     },
     {
       "added_at": null,
@@ -739,6 +707,38 @@
       "duration_ms": 299680,
       "name": "Airegin - RVG Remastered 2008",
       "url": "https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Jimmy Cobb",
+          "url": "https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ"
+        }
+      ],
+      "duration_ms": 292106,
+      "name": "I Thought About You (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
+      "url": "https://open.spotify.com/track/63JCF21fkQzPsC2fBr9TMD"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doo-Bop",
-        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 297440,
-      "name": "The Doo-Bop Song",
-      "url": "https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tutu",
         "url": "https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 316666,
       "name": "Tutu",
       "url": "https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doo-Bop",
+        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 297440,
+      "name": "The Doo-Bop Song",
+      "url": "https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doo-Bop",
-        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 236200,
-      "name": "Mystery",
-      "url": "https://open.spotify.com/track/6WfytwIOVy3rdh2j7qFoEh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 129680,
       "name": "Julien dans l'ascenseur - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
       "url": "https://open.spotify.com/track/187EUpV70OeUMCGwz1GaT7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doo-Bop",
+        "url": "https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 236200,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/6WfytwIOVy3rdh2j7qFoEh"
     },
     {
       "added_at": null,
@@ -943,22 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles Davis And Horns",
-        "url": "https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Blue Room - Take 2",
-      "url": "https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porgy And Bess",
         "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 253933,
       "name": "I Loves You, Porgy (From \"Porgy & Bess\")",
       "url": "https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miles Davis And Horns",
+        "url": "https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Blue Room - Take 2",
+      "url": "https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ"
     },
     {
       "added_at": null,
@@ -1027,38 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Only One and Fantastic... Miles Davis (Remastered)",
-        "url": "https://open.spotify.com/album/2YbApvKnTuUh6izzrgG0h6"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 357947,
-      "name": "My Funny Valentine - Remastered",
-      "url": "https://open.spotify.com/track/6zbHM6vwsLgUe9t2luekJj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INTEGRAL MILES DAVIS 1951-1956",
-        "url": "https://open.spotify.com/album/3JUxN1xKhdG2zKHqbGkNRH"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 323680,
-      "name": "It Never Entered My Mind - From The Album Workin' With The Miles Davis Quintet",
-      "url": "https://open.spotify.com/track/6AUn7hXlXsNW6Qf5i39JyZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
         "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
       },
@@ -1087,6 +1055,38 @@
       "duration_ms": 276800,
       "name": "But Not For Me - Take 1 / RVG Remastered 2008",
       "url": "https://open.spotify.com/track/16xrvoly0kWh4Rruc73XlL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INTEGRAL MILES DAVIS 1951-1956",
+        "url": "https://open.spotify.com/album/3JUxN1xKhdG2zKHqbGkNRH"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 323680,
+      "name": "It Never Entered My Mind - From The Album Workin' With The Miles Davis Quintet",
+      "url": "https://open.spotify.com/track/6AUn7hXlXsNW6Qf5i39JyZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Only One and Fantastic... Miles Davis (Remastered)",
+        "url": "https://open.spotify.com/album/2YbApvKnTuUh6izzrgG0h6"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 357947,
+      "name": "My Funny Valentine - Remastered",
+      "url": "https://open.spotify.com/track/6zbHM6vwsLgUe9t2luekJj"
     }
   ],
   "unique_name": "This Is Miles Davis",

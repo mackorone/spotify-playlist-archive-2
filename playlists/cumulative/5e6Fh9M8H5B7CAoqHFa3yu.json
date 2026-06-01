@@ -12401,6 +12401,24 @@
     },
     {
       "album": {
+        "name": "Fiona's Promise",
+        "url": "https://open.spotify.com/album/0BgJqVM50Qc0LydzgcRwFj"
+      },
+      "artists": [
+        {
+          "name": "The Unk Skunk",
+          "url": "https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239840,
+      "name": "Fiona's Promise",
+      "url": "https://open.spotify.com/track/6pGJTHi6D1WgsvW9sWv66I"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz"
       },
@@ -43242,6 +43260,32 @@
       "duration_ms": 179277,
       "name": "\u0644\u064a\u0644 \u0648 \u0633\u0647\u0631",
       "url": "https://open.spotify.com/track/1LpYFfXPmghqqxrSd8EoQz"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0641\u064a\u0634 \u0641\u0627\u064a\u062f\u0629 ( \u0628\u0646\u0644\u0641 \u0641\u064a \u062f\u0627\u064a\u0631\u0629 \u0641\u0627\u0636\u064a\u0629 )",
+        "url": "https://open.spotify.com/album/55ly2sSClrLujKzB5jFTcN"
+      },
+      "artists": [
+        {
+          "name": "AFROTO Beats",
+          "url": "https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0"
+        },
+        {
+          "name": "Ahmed M Farid",
+          "url": "https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk"
+        },
+        {
+          "name": "Super Mono",
+          "url": "https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235728,
+      "name": "\u0645\u0641\u064a\u0634 \u0641\u0627\u064a\u062f\u0629 ( \u0628\u0646\u0644\u0641 \u0641\u064a \u062f\u0627\u064a\u0631\u0629 \u0641\u0627\u0636\u064a\u0629 )",
+      "url": "https://open.spotify.com/track/3T71EW4SKk1F1j9p9eeojH"
     },
     {
       "album": {

@@ -1667,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Ayoko Maging Kaibigan",
+        "url": "https://open.spotify.com/album/4Ys1gxmMQim8Zay3p9UNhf"
+      },
+      "artists": [
+        {
+          "name": "kiddotin",
+          "url": "https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166129,
+      "name": "Ayoko Maging Kaibigan",
+      "url": "https://open.spotify.com/track/6AIACiACh45NhUyAWKwqql"
+    },
+    {
+      "album": {
         "name": "B.A.D.",
         "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
       },
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 270233,
       "name": "Bulong",
       "url": "https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta"
@@ -14706,7 +14724,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 280828,
       "name": "Pag-ibig ng Ikaw at Ako",
       "url": "https://open.spotify.com/track/2DABJpDDPUaCWqZ9nMgkw4"
@@ -18982,7 +19000,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 206181,
       "name": "TAKE ALL THE LOVE",
       "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"

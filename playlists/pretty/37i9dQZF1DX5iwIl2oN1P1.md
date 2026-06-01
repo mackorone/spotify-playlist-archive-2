@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Victor Thompson
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,532 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,565 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Subscribed \- Live](https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Subscribed \(Live\)](https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE) | 3:18 |
 | 2 | [Walking With My God](https://open.spotify.com/track/4yi7JrFdDLT2CGMKnCo6L6) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [LIN D](https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr) | [Walking With My God](https://open.spotify.com/album/4AuDg3JnT6t56XrEdcvZNs) | 3:09 |
-| 3 | [TAKE ME](https://open.spotify.com/track/2hDkIZjbuwor5pYA9zpS4n) | [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Obed](https://open.spotify.com/artist/4KQ6s83KHVf777C58K0ixS) | [TAKE ME](https://open.spotify.com/album/4fm8Y72ze4kvFLEDg3snGp) | 2:42 |
+| 3 | [TAKE ME](https://open.spotify.com/track/2hDkIZjbuwor5pYA9zpS4n) | [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [OBED](https://open.spotify.com/artist/6dlnnsHCMKCV3v1aMOFvuE) | [TAKE ME](https://open.spotify.com/album/4fm8Y72ze4kvFLEDg3snGp) | 2:42 |
 | 4 | [Close Enough](https://open.spotify.com/track/6Z0yWXcPbnfzSYJJ1GUV7A) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Close Enough](https://open.spotify.com/album/0hw6cmUpOEdCXpHbsKSIx7) | 3:56 |
 | 5 | [IOU](https://open.spotify.com/track/4sx9iH87BCRWmvbvNLzjaQ) | [Lady Audri](https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke) | [IOU](https://open.spotify.com/album/3AcRKbpD6MNJinpBx5v4dK) | 2:24 |
 | 6 | [I Believe](https://open.spotify.com/track/0cyxZnsRLaQMSP8XyNwbGS) | [Road to Restoration](https://open.spotify.com/artist/5HNGuh45sTuaF2y8xr2nKt), [Vincena](https://open.spotify.com/artist/6MZ1PacnLWwElKALk2bdck) | [I Believe](https://open.spotify.com/album/6ze47lJLs2yEPXn3czjHTn) | 5:09 |

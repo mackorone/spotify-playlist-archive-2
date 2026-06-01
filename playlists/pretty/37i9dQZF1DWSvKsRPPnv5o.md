@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: YG
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,793 likes - 99 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,815 likes - 99 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > Indiepop in het Nederlands\. Cover: Igor
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,396 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,398 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 44 | [Bang Dat Ik Spring](https://open.spotify.com/track/7mGEyicqCXj4lvtIq71I8R) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4), [Saartje Van Camp](https://open.spotify.com/artist/4F6ezMqheQX1B8dBFnuJ1s) | [Bang Dat Ik Spring](https://open.spotify.com/album/0Cpxp6XmrxJjmTsb1MJwn2) | 3:06 |
 | 45 | [Komt Goed](https://open.spotify.com/track/1vw8hWQB4iST0TzmjNYCM2) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [Kubus In Een Ballenbak](https://open.spotify.com/album/2qCMxawxzGP2g3dJ8q0eNR) | 2:33 |
 | 46 | [In NL Mag Je Een Vrouw Slaan](https://open.spotify.com/track/7FxAlqztuui1tcixeLCq0n) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [In NL Mag Je Een Vrouw Slaan](https://open.spotify.com/album/3q5dNlndDVXzfvulgjpbRe) | 2:30 |
-| 47 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
-| 48 | [Kan Ik Zoveel?](https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2) | [Igor](https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq) | [Kan Ik Zoveel? / Dingen Mis Met De Auto](https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC) | 3:54 |
+| 47 | [Kan Ik Zoveel?](https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2) | [Igor](https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq) | [Kan Ik Zoveel? / Dingen Mis Met De Auto](https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC) | 3:54 |
+| 48 | [Niemandsland](https://open.spotify.com/track/7iXUwdWoR4dDwKk85zvcCa) | [Ploegendienst](https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea), [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niemandsland](https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll) | 2:45 |
 | 49 | [Underdog](https://open.spotify.com/track/52FO4DLoFdJZfvsgrhixAt) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [De Underdog EP](https://open.spotify.com/album/3ivN33rZC5KNlL8g62rXnq) | 2:47 |
-| 50 | [Fata Morgana](https://open.spotify.com/track/58bCOr6hgtcNvBSdGViKFQ) | [PAULIEN](https://open.spotify.com/artist/2YjTYpJ0JQB1CZ6P5v2G4b) | [Fata Morgana](https://open.spotify.com/album/3l1nxL3R1vPTsevFUMX97H) | 2:38 |
+| 50 | [Maskers](https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG) | [Elias Mazian](https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU) | [Maskers](https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO) | 3:21 |
 
 Snapshot ID: `AAAAALD/pw5fVE1xGqCqBU50Ph/LxB/e`

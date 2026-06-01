@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Relaxed beats to game, vibe and stay unbothered
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,912 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,971 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 49 | [Gravity](https://open.spotify.com/track/6W2Vs75yqXyLYscxl8rtY2) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Gravity](https://open.spotify.com/album/4NzihaIFhK1CyM24DQSkax) | 3:00 |
 | 50 | [Ocean Eyes](https://open.spotify.com/track/2PMZHLdLaf5WUibfsL6nIU) | [Amsané](https://open.spotify.com/artist/3ySQ8l1Tp4kYr62AEYJVF0) | [Ocean Eyes](https://open.spotify.com/album/3bbovdHQD22JBvkp6kW1rm) | 2:25 |
 
-Snapshot ID: `AAAAAIlJJnpMsMHDpdxyDvle6vJWozg9`
+Snapshot ID: `AAAAAGwh/tRzTIuWvubg/hA+o7rM8MzH`

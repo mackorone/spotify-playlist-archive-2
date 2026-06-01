@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132717,
+  "num_followers": 132714,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAAOYgnss9PptTODuk9nLOJs",
+  "snapshot_id": "ahoogAAAAADOkXly8bM8t+a5nty612Fq",
   "tracks": [
     {
       "added_at": null,
@@ -83,42 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 327318,
-      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Advogado Fiel",
-        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 264103,
-      "name": "Quando Eu Chorar",
-      "url": "https://open.spotify.com/track/3cq63zWjxoePzdCylIM52x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Extraordin\u00e1ria Gra\u00e7a (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/29i8q7KVZZjFh82BgJCDHd"
       },
@@ -139,6 +103,42 @@
       "duration_ms": 468427,
       "name": "Rendido Estou (Arms Open Wide) - Ao Vivo",
       "url": "https://open.spotify.com/track/4pPpXzIZOX6tRyme9rp96E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Advogado Fiel",
+        "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 264103,
+      "name": "Quando Eu Chorar",
+      "url": "https://open.spotify.com/track/3cq63zWjxoePzdCylIM52x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 327318,
+      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00caxodo",
-        "url": "https://open.spotify.com/album/44sV0KO83IohkU1FhQHB2b"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 363075,
-      "name": "Deus de Mois\u00e9s",
-      "url": "https://open.spotify.com/track/3ghzHm4lHHhA9WO9Yiu5nY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voc\u00ea \u00e9 Precioso",
         "url": "https://open.spotify.com/album/3luf1k9pVj09Xbe8YYExQr"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 262896,
       "name": "Voc\u00ea \u00e9 Precioso",
       "url": "https://open.spotify.com/track/12yoDN22yFACeVgyz9XQuN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00caxodo",
+        "url": "https://open.spotify.com/album/44sV0KO83IohkU1FhQHB2b"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 363075,
+      "name": "Deus de Mois\u00e9s",
+      "url": "https://open.spotify.com/track/3ghzHm4lHHhA9WO9Yiu5nY"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Com os Olhos da F\u00e9",
-        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 278593,
-      "name": "Eu Sei que N\u00e3o Estou S\u00f3",
-      "url": "https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo \u00e9 Poss\u00edvel",
         "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 395435,
       "name": "Tudo \u00e9 Poss\u00edvel",
       "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Com os Olhos da F\u00e9",
+        "url": "https://open.spotify.com/album/2BhLfjpZAEHo39gGsDcenk"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 278593,
+      "name": "Eu Sei que N\u00e3o Estou S\u00f3",
+      "url": "https://open.spotify.com/track/3vX8jNhUlTJSeI6iuVd5Fd"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gis Danese",
-          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "Eu Creio Nos Planos de Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quatro por Um Forever (Ao Vivo)",
         "url": "https://open.spotify.com/album/20INxhFFGnvx75lNaxGxXs"
       },
@@ -871,18 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vento do Esp\u00edrito",
-        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
+        "name": "10 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4sAqEgbJ67S6lA2LeVu0nv"
       },
       "artists": [
+        {
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 244831,
-      "name": "Uma Mulher, Um Milagre",
-      "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
+      "duration_ms": 244680,
+      "name": "Eu Creio Nos Planos de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/4StyOe9pamMyZHE5MTxclY"
     },
     {
       "added_at": null,
@@ -899,6 +883,22 @@
       "duration_ms": 248407,
       "name": "Apaixonado Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vento do Esp\u00edrito",
+        "url": "https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 244831,
+      "name": "Uma Mulher, Um Milagre",
+      "url": "https://open.spotify.com/track/7376jMT2i67KqphVdumwPQ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,635,255 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,635,464 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 35 | [Call Me \- Slowed](https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Call Me \(Slowed\)](https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N) | 2:40 |
 | 36 | [Memory Reboot \- Slowed](https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Narvent](https://open.spotify.com/artist/3QZtwiUoyaXbl1JssMPIQ7) | [Memory Reboot](https://open.spotify.com/album/38leU2pvDRxNx2u59BENZb) | 3:56 |
 | 37 | [Love Me Back \(Fayahh Beat\) \- Slowed + Reverb](https://open.spotify.com/track/7jlPfhpd0tVCeaqBtmwFOA) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [Robinson](https://open.spotify.com/artist/352VD5fhV8xzAFcmO7lMwg), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/3rIzlFSrRENuXrBvGkDbqD) | [Love Me Back \(Fayahh Beat\) \[Slowed + Reverb\]](https://open.spotify.com/album/3vAp0G0DDiQtbQ6p2jOQB3) | 3:02 |
-| 38 | [Assumptions \- slowed down version](https://open.spotify.com/track/4QhTDQlt5M2sp2DNWnVift) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Assumptions \(slowed down version\)](https://open.spotify.com/album/7dg5TA4iTqKMqAgX8hAQz1) | 4:38 |
-| 39 | [Swing Lynn \- Slowed Version](https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn) | 7:28 |
+| 38 | [Swing Lynn \- Slowed Version](https://open.spotify.com/track/4WR5MhgQr1TtJfuEgBE4jC) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [Swing Lynn \(Slowed Version\)](https://open.spotify.com/album/3wah0ODozs7Q39lUvFEwOn) | 7:28 |
+| 39 | [Assumptions \- slowed down version](https://open.spotify.com/track/4QhTDQlt5M2sp2DNWnVift) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Assumptions \(slowed down version\)](https://open.spotify.com/album/7dg5TA4iTqKMqAgX8hAQz1) | 4:38 |
 | 40 | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/track/0G17UriYHMjXnZE2OJJSMR) | [Xantesha](https://open.spotify.com/artist/2rgcNuLkn8pPBdKZhjZ8Em) | [SUNRISE \(Slowed + Reverb\)](https://open.spotify.com/album/2tiHE58yMuZI1wiygJxxSM) | 2:18 |
 | 41 | [drowning \(slowed + reverb\)](https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs) | [Vague003](https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k) | [drowning \(remixes\)](https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd) | 2:12 |
 | 42 | [Vision \- Slowed](https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh) | [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Vision \(Slowed\)](https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh) | 4:59 |

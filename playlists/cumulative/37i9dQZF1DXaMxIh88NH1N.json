@@ -11730,7 +11730,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 190512,
       "name": "MODELO V",
       "url": "https://open.spotify.com/track/0CkRWoCbCPsBrVp6s8psZ2"
@@ -15174,6 +15174,28 @@
       "duration_ms": 159397,
       "name": "Solo Que Lo Dudes",
       "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
+    },
+    {
+      "album": {
+        "name": "Somos Los Que Somos (En Vivo)",
+        "url": "https://open.spotify.com/album/4fyPhbp4TVAcAePO24DPQE"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2026-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280093,
+      "name": "Somos Los Que Somos - En Vivo",
+      "url": "https://open.spotify.com/track/2HF7et3dSdyQqq7aIMLoQ5"
     },
     {
       "album": {

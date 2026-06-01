@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-173 songs - 8 hr 54 min
+174 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Raincoat](https://open.spotify.com/track/1fuv5IQZYgYZAe5ob2wswo) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Too Much](https://open.spotify.com/album/3BmIiIVp13T2mlqH39gos5) | 3:37 | 2026-04-06 |  |
 | [rock bottom](https://open.spotify.com/track/4AsIb3tfOTpQYSpe8goH6c) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [SUPERBLOOM](https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob) | 3:10 | 2026-04-06 |  |
 | [Roll the Credits](https://open.spotify.com/track/4XBsD43QzoPt4wLDdDtEqL) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:19 | 2026-04-06 |  |
-| [Run With The Sun](https://open.spotify.com/track/4tzDxQC3Rkso3khvj5nQJG) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Run With The Sun](https://open.spotify.com/album/0yGAKnZcjJiLJtz8zxZw3a) | 2:30 | 2026-04-06 |  |
+| [Run With The Sun](https://open.spotify.com/track/1jTIXpx7E3QGN5e9oc8kr3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [OASIS](https://open.spotify.com/album/5Wmypry9sRXgIZT5wdqkQq) | 2:30 | 2026-05-31 |  |
+| [Run With The Sun](https://open.spotify.com/track/4tzDxQC3Rkso3khvj5nQJG) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Run With The Sun](https://open.spotify.com/album/0yGAKnZcjJiLJtz8zxZw3a) | 2:30 | 2026-04-06 | 2026-06-01 |
 | [Runaway](https://open.spotify.com/track/0CB8732A7tDEkVsq3o4JT8) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [CRS](https://open.spotify.com/artist/6JmOuvz89uKCAPa5eIF7N5) | [Just For Fun \(Deluxe\)](https://open.spotify.com/album/28gqYvhSFXLr2VLCSsZHlY) | 3:29 | 2026-04-06 |  |
 | [Save You a Seat](https://open.spotify.com/track/0TdacYZkgRxz8ZvHUtpimP) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:17 | 2026-04-06 |  |
 | [Semi\-Charmed](https://open.spotify.com/track/4vXp4PHotIOQBRWd3lggvT) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Semi\-Charmed](https://open.spotify.com/album/7C1571QooJI5hDOwWm7pRC) | 2:59 | 2026-04-06 |  |

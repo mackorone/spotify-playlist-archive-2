@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 668591,
+  "num_followers": 668624,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAAR0Ph1PgZWYhhhSsr+/7SW",
+  "snapshot_id": "ahoogAAAAACa2tRyfcWLiIYf6xUXmpf2",
   "tracks": [
     {
       "added_at": null,
@@ -951,34 +951,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI"
+        "name": "ICU (with Justin Timberlake) [Remix]",
+        "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
       },
       "artists": [
         {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
         },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "James Corden",
-          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
-        },
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        },
-        {
-          "name": "The Pop Trolls",
-          "url": "https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ"
         }
       ],
-      "duration_ms": 61923,
-      "name": "Trolls 2 Many Hits Mashup",
-      "url": "https://open.spotify.com/track/74PmqgIU0EU60QEgrjJIIk"
+      "duration_ms": 218566,
+      "name": "ICU (with Justin Timberlake) - Remix",
+      "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
     },
     {
       "added_at": null,
@@ -1019,22 +1007,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "ICU (with Justin Timberlake) [Remix]",
-        "url": "https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7"
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI"
       },
       "artists": [
         {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
         },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "The Pop Trolls",
+          "url": "https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ"
         }
       ],
-      "duration_ms": 218566,
-      "name": "ICU (with Justin Timberlake) - Remix",
-      "url": "https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR"
+      "duration_ms": 61923,
+      "name": "Trolls 2 Many Hits Mashup",
+      "url": "https://open.spotify.com/track/74PmqgIU0EU60QEgrjJIIk"
     },
     {
       "added_at": null,

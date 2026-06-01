@@ -3815,6 +3815,32 @@
     },
     {
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/4op6OHjj9ITrjGz7qAYLP2"
+      },
+      "artists": [
+        {
+          "name": "Toby Rose",
+          "url": "https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ"
+        },
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        },
+        {
+          "name": "One Trick Pony",
+          "url": "https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151076,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/6Wx2Mj7N0JSaUPsdA4POA5"
+    },
+    {
+      "album": {
         "name": "Chemical (Rammor Remix)",
         "url": "https://open.spotify.com/album/6Uirp3UorqWmh8Mafzdfrb"
       },
@@ -7260,7 +7286,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 138260,
       "name": "Faith In Every Day",
       "url": "https://open.spotify.com/track/6nGUc7BDbdrKRg5o6OcwcN"
@@ -12480,7 +12506,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 164000,
       "name": "In Love With Me",
       "url": "https://open.spotify.com/track/1MDlygb6oO8tDnlqOi7U0d"
@@ -22972,7 +22998,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 150000,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/1PSix4hG5AC5bTWJSMzohQ"
@@ -24606,7 +24632,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 151475,
       "name": "Summer Skies",
       "url": "https://open.spotify.com/track/4BlayQpBAsdh1ZjZAXRmdf"
@@ -24632,6 +24658,24 @@
       "duration_ms": 157480,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/0JyYqPuwaggu7zSrJX0Uix"
+    },
+    {
+      "album": {
+        "name": "Summer With You",
+        "url": "https://open.spotify.com/album/6zYlLIJIkZmsgiqYEcY2aw"
+      },
+      "artists": [
+        {
+          "name": "Lost In Reveries",
+          "url": "https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122564,
+      "name": "Summer With You",
+      "url": "https://open.spotify.com/track/3Yb8b0XQrIBXRYoh94WpHQ"
     },
     {
       "album": {

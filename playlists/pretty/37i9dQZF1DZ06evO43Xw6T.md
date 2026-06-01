@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,921 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,948 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 46 | [BAYAMÓN](https://open.spotify.com/track/3ZGNnNlKZNMNW9abDm0i0g) | [Capo](https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Esteban González](https://open.spotify.com/artist/1vMnVEtq5i30xyCVaHPhyz) | [BAYAMÓN](https://open.spotify.com/album/73kwI4UvPc6CfNi5zih7AY) | 2:57 |
 | 47 | [Sonrisa Colgate](https://open.spotify.com/track/1zlbnoJE5NabN9STMIYmf1) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:25 |
 | 48 | [El Gabacho](https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Gabacho](https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq) | 2:42 |
-| 49 | [Te Engañé](https://open.spotify.com/track/4Gl4DGopis01oDfkmM5BWF) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 3:00 |
-| 50 | [ESCONDIDAS](https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [ESCONDIDAS](https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0) | 2:53 |
+| 49 | [Salvame Hoy \(feat\. Gabito Ballesteros\)](https://open.spotify.com/track/1RkWdKYYHVrtV76KLzUJsa) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Salvame Hoy \(feat\. Gabito Ballesteros\)](https://open.spotify.com/album/7lEc1BEhoOFtDgKA3aZyIt) | 3:35 |
+| 50 | [Te Engañé](https://open.spotify.com/track/4Gl4DGopis01oDfkmM5BWF) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 3:00 |
 
-Snapshot ID: `ahjXAAAAAAAnBAvUd+ouIuRb1KjY0HCv`
+Snapshot ID: `ahoogAAAAAA/deWU/m9oDnsbJZFylGAx`

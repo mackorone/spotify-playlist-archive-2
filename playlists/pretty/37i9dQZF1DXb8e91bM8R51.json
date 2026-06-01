@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 53012,
+  "num_followers": 53011,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
-        "name": "Off the Strength",
-        "url": "https://open.spotify.com/album/1okrd5yTD0zDNhOq2YJDox"
-      },
-      "artists": [
-        {
-          "name": "Cookin Soul",
-          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
-        },
-        {
-          "name": "Lord Apex",
-          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/4ZfJMUZL5hOoXgsPAwDHcs"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
         "name": "On The Unda",
         "url": "https://open.spotify.com/album/3Akcg76wExGx02Gr02hhAa"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 181333,
       "name": "On The Unda",
       "url": "https://open.spotify.com/track/5HvU2ulNj38890uRhs3Zm8"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
+        "name": "Off the Strength",
+        "url": "https://open.spotify.com/album/1okrd5yTD0zDNhOq2YJDox"
+      },
+      "artists": [
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/4ZfJMUZL5hOoXgsPAwDHcs"
     },
     {
       "added_at": "2026-05-07 21:17:30",
@@ -1887,6 +1887,38 @@
     {
       "added_at": "2026-05-07 21:17:30",
       "album": {
+        "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
+        "url": "https://open.spotify.com/album/1L87V0tvYy44z5A0F8dyUr"
+      },
+      "artists": [
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Dylan Cartlidge",
+          "url": "https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 281360,
+      "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
+      "url": "https://open.spotify.com/track/7ulKIiSeTO1P4kY6vh7RhV"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
         "name": "AMERICAN HORROR STORY",
         "url": "https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR"
       },
@@ -1899,6 +1931,30 @@
       "duration_ms": 309570,
       "name": "AMERICAN HORROR STORY",
       "url": "https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj"
+    },
+    {
+      "added_at": "2026-05-07 21:17:30",
+      "album": {
+        "name": "Carefree (with Femdot & Mick Jenkins)",
+        "url": "https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t"
+      },
+      "artists": [
+        {
+          "name": "KingTrey",
+          "url": "https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "femdot.",
+          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
+        }
+      ],
+      "duration_ms": 241582,
+      "name": "Carefree (with Femdot & Mick Jenkins)",
+      "url": "https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS"
     },
     {
       "added_at": "2026-05-07 21:17:30",
@@ -1955,62 +2011,6 @@
       "duration_ms": 300066,
       "name": "All Good",
       "url": "https://open.spotify.com/track/0rOx5AT657O5E4tCKx0YOp"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
-        "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
-        "url": "https://open.spotify.com/album/1L87V0tvYy44z5A0F8dyUr"
-      },
-      "artists": [
-        {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
-        },
-        {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
-        {
-          "name": "Dylan Cartlidge",
-          "url": "https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 281360,
-      "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
-      "url": "https://open.spotify.com/track/7ulKIiSeTO1P4kY6vh7RhV"
-    },
-    {
-      "added_at": "2026-05-07 21:17:30",
-      "album": {
-        "name": "Carefree (with Femdot & Mick Jenkins)",
-        "url": "https://open.spotify.com/album/6JnfvhlcNqcMaDA5lTqs7t"
-      },
-      "artists": [
-        {
-          "name": "KingTrey",
-          "url": "https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "femdot.",
-          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
-        }
-      ],
-      "duration_ms": 241582,
-      "name": "Carefree (with Femdot & Mick Jenkins)",
-      "url": "https://open.spotify.com/track/5B6EIqgRxNOU08BgyKNQSS"
     },
     {
       "added_at": "2026-05-07 21:17:30",

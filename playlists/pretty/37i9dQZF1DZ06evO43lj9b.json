@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAABeSDtLNwq2FVkcAFiV8G3u",
+  "snapshot_id": "ahoogAAAAACf9kM5LAHW2KB4G63HRO5t",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coffy",
-        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 166133,
-      "name": "Brawling Broads - From The \"Coffy\" Soundtrack",
-      "url": "https://open.spotify.com/track/2ZoZzG6PESuJ9taOuLevxk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Virgin Ubiquity II",
         "url": "https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 336546,
       "name": "Funk in the Hole",
       "url": "https://open.spotify.com/track/3olJm5hPTWRM89ZNuPbNMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coffy",
+        "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 166133,
+      "name": "Brawling Broads - From The \"Coffy\" Soundtrack",
+      "url": "https://open.spotify.com/track/2ZoZzG6PESuJ9taOuLevxk"
     },
     {
       "added_at": null,
@@ -391,6 +391,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Share My World",
+        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 305800,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/432fHKBQfXMMgU7yyEtRvz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coffy",
         "url": "https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA"
       },
@@ -423,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Share My World",
-        "url": "https://open.spotify.com/album/11s3RAPMk0LpsZhuniepSW"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 305800,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/432fHKBQfXMMgU7yyEtRvz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 329240,
       "name": "Vibin' W/Ayers",
       "url": "https://open.spotify.com/track/6AgUMpyUJyxj9hFwKezRFf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red, Black & Green",
+        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Day Dreaming",
+      "url": "https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red, Black & Green",
-        "url": "https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Day Dreaming",
-      "url": "https://open.spotify.com/track/4H5zpPqtT57VcAePUCNSM8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Instrumentals JID009",
         "url": "https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09"
       },
@@ -535,32 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roy Ayers JID002",
-        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        },
-        {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
-        },
-        {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        }
-      ],
-      "duration_ms": 142127,
-      "name": "Hey Lover",
-      "url": "https://open.spotify.com/track/0zE96LJrCv81I6N1zRaJSO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Stranger To Love",
-        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
+        "name": "You Send Me",
+        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
       },
       "artists": [
         {
@@ -568,9 +544,9 @@
           "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
         }
       ],
-      "duration_ms": 350546,
-      "name": "What You Won't Do For Love",
-      "url": "https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR"
+      "duration_ms": 217866,
+      "name": "Everytime I See You",
+      "url": "https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf"
     },
     {
       "added_at": null,
@@ -607,6 +583,46 @@
       "duration_ms": 241133,
       "name": "Green and Gold - Delfonic Rework",
       "url": "https://open.spotify.com/track/42NO5tmaYgn8trdgg6UnhC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Stranger To Love",
+        "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 350546,
+      "name": "What You Won't Do For Love",
+      "url": "https://open.spotify.com/track/0wCvzEcP4lYy9eM4IaKqsR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roy Ayers JID002",
+        "url": "https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "duration_ms": 142127,
+      "name": "Hey Lover",
+      "url": "https://open.spotify.com/track/0zE96LJrCv81I6N1zRaJSO"
     },
     {
       "added_at": null,
@@ -691,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Send Me",
-        "url": "https://open.spotify.com/album/7a3fNfSPvq9lhqF3bUp0nB"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Everytime I See You",
-      "url": "https://open.spotify.com/track/3Ravb8XPBKL6sE2jqStRJf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Stranger To Love",
         "url": "https://open.spotify.com/album/2W87L99rdz5YxJL7OZhAT5"
       },
@@ -719,26 +719,6 @@
       "duration_ms": 492960,
       "name": "Don't Stop The Feeling",
       "url": "https://open.spotify.com/track/2YRaNRacKlIAOZd3iAfxGh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avery*Sunshine",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        },
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 82613,
-      "name": "Everybody Loves",
-      "url": "https://open.spotify.com/track/2FfMF9bBcw0UuWpV2pbu4A"
     },
     {
       "added_at": null,
@@ -763,6 +743,26 @@
       "duration_ms": 205167,
       "name": "Dangerous Vibes (Emmaculate Remix / Edit)",
       "url": "https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avery*Sunshine",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        },
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 82613,
+      "name": "Everybody Loves",
+      "url": "https://open.spotify.com/track/2FfMF9bBcw0UuWpV2pbu4A"
     },
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In The Dark (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 390933,
+      "name": "Poo Poo La La",
+      "url": "https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roy Ayers Delfonic Reworked #1",
         "url": "https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 350293,
       "name": "Oh What A Lonely Feeling - Delfonic Rework",
       "url": "https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Dark (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 390933,
-      "name": "Poo Poo La La",
-      "url": "https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz"
     }
   ],
   "unique_name": "This Is Roy Ayers",

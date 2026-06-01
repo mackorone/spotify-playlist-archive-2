@@ -1,6 +1,6 @@
 {
   "description": "De beste Indie releases. Cover: Naaz ",
-  "num_followers": 105552,
+  "num_followers": 105544,
   "original_name": "Indie XL",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-04-16 22:02:19",
       "album": {
-        "name": "First Rodeo",
-        "url": "https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj"
-      },
-      "artists": [
-        {
-          "name": "Kensington",
-          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
-        }
-      ],
-      "duration_ms": 223985,
-      "name": "Call You Home",
-      "url": "https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc"
-    },
-    {
-      "added_at": "2026-04-16 22:02:19",
-      "album": {
         "name": "SEEIN\u2019 STARS / BIRDS",
         "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 186277,
       "name": "SEEIN\u2019 STARS",
       "url": "https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR"
+    },
+    {
+      "added_at": "2026-04-16 22:02:19",
+      "album": {
+        "name": "First Rodeo",
+        "url": "https://open.spotify.com/album/0tMYQo9n5L7w1uRknqg7Qj"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "duration_ms": 223985,
+      "name": "Call You Home",
+      "url": "https://open.spotify.com/track/6asKWJ9heYSpUUlN77lgnc"
     },
     {
       "added_at": "2026-04-16 22:02:19",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-04-16 22:02:19",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": "2026-04-16 22:02:19",
-      "album": {
         "name": "Did I Say Too Much",
         "url": "https://open.spotify.com/album/2xn4IEQqM44vDqisznRvZn"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 188512,
       "name": "Did I Say Too Much",
       "url": "https://open.spotify.com/track/4f8dJP5n2xlwMYLWVuLsfS"
+    },
+    {
+      "added_at": "2026-04-16 22:02:19",
+      "album": {
+        "name": "CPR",
+        "url": "https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 170337,
+      "name": "CPR",
+      "url": "https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv"
     },
     {
       "added_at": "2026-04-16 22:02:19",
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-04-16 22:02:19",
       "album": {
-        "name": "CPR",
-        "url": "https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh"
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 170337,
-      "name": "CPR",
-      "url": "https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv"
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-04-16 22:02:19",

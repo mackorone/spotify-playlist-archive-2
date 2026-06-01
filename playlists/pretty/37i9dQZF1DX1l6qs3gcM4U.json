@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo com Stef\u00e2nia Leonel, Denilson LA e mais.  ",
-  "num_followers": 246246,
+  "num_followers": 246265,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-05-21 22:01:34",
       "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 225621,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
-    },
-    {
-      "added_at": "2026-05-21 22:01:34",
-      "album": {
         "name": "Com Quem Ser\u00e1",
         "url": "https://open.spotify.com/album/2QQnJqt5HPHWrS1PiAhZVL"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 268314,
       "name": "Com Quem Ser\u00e1",
       "url": "https://open.spotify.com/track/0tzA9PpAJrUMv1bmkTRmI7"
+    },
+    {
+      "added_at": "2026-05-21 22:01:34",
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 225621,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE"
     },
     {
       "added_at": "2026-05-21 22:01:34",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-05-21 22:01:34",
       "album": {
+        "name": "Magui",
+        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
+      },
+      "artists": [
+        {
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+        }
+      ],
+      "duration_ms": 217853,
+      "name": "Magui",
+      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
+    },
+    {
+      "added_at": "2026-05-21 22:01:34",
+      "album": {
         "name": "O Lamento",
         "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
       },
@@ -771,42 +787,6 @@
       "duration_ms": 240000,
       "name": "O Lamento",
       "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
-    },
-    {
-      "added_at": "2026-05-21 22:01:34",
-      "album": {
-        "name": "Magui",
-        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
-      },
-      "artists": [
-        {
-          "name": "Matias Dam\u00e1sio",
-          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
-        }
-      ],
-      "duration_ms": 217853,
-      "name": "Magui",
-      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
-    },
-    {
-      "added_at": "2026-05-21 22:01:34",
-      "album": {
-        "name": "Bom Dia",
-        "url": "https://open.spotify.com/album/5yMkVXNyaa2AA9RqDuAqzX"
-      },
-      "artists": [
-        {
-          "name": "Bluay",
-          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
-        },
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 195529,
-      "name": "Bom Dia",
-      "url": "https://open.spotify.com/track/0I2KjbYEBm2mE8Dc9KbIYB"
     },
     {
       "added_at": "2026-05-21 22:01:34",
@@ -843,6 +823,26 @@
       "duration_ms": 221538,
       "name": "Porta",
       "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
+    },
+    {
+      "added_at": "2026-05-21 22:01:34",
+      "album": {
+        "name": "Bom Dia",
+        "url": "https://open.spotify.com/album/5yMkVXNyaa2AA9RqDuAqzX"
+      },
+      "artists": [
+        {
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 195529,
+      "name": "Bom Dia",
+      "url": "https://open.spotify.com/track/0I2KjbYEBm2mE8Dc9KbIYB"
     },
     {
       "added_at": "2026-05-21 22:01:34",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-05-21 22:01:34",
       "album": {
-        "name": "Ado\u00e7are",
-        "url": "https://open.spotify.com/album/2NlRRJjh24MTvK4OTCuCAy"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 218229,
-      "name": "Ado\u00e7are",
-      "url": "https://open.spotify.com/track/19R7zhkc3pex8XOGXPWo06"
-    },
-    {
-      "added_at": "2026-05-21 22:01:34",
-      "album": {
         "name": "Totoloto",
         "url": "https://open.spotify.com/album/4WunUod6SvMME077UZtvFU"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 190515,
       "name": "Totoloto",
       "url": "https://open.spotify.com/track/5etF10zgERUooGQTRe6Hbl"
+    },
+    {
+      "added_at": "2026-05-21 22:01:34",
+      "album": {
+        "name": "Ado\u00e7are",
+        "url": "https://open.spotify.com/album/2NlRRJjh24MTvK4OTCuCAy"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 218229,
+      "name": "Ado\u00e7are",
+      "url": "https://open.spotify.com/track/19R7zhkc3pex8XOGXPWo06"
     },
     {
       "added_at": "2026-05-21 22:01:34",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-05-21 22:01:34",
       "album": {
-        "name": "Hey Odja",
-        "url": "https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 167180,
-      "name": "Hey Odja",
-      "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
-    },
-    {
-      "added_at": "2026-05-21 22:01:34",
-      "album": {
         "name": "Vida Linda",
         "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 175346,
       "name": "Vida Linda",
       "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
+    },
+    {
+      "added_at": "2026-05-21 22:01:34",
+      "album": {
+        "name": "Hey Odja",
+        "url": "https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 167180,
+      "name": "Hey Odja",
+      "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
     },
     {
       "added_at": "2026-05-21 22:01:34",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-05-21 22:01:34",
       "album": {
-        "name": "\u00c9s S\u00f3 Tu",
-        "url": "https://open.spotify.com/album/7j7Wms0KNvccZAR7LQbUaz"
-      },
-      "artists": [
-        {
-          "name": "Yasmine",
-          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
-        }
-      ],
-      "duration_ms": 174174,
-      "name": "\u00c9s S\u00f3 Tu",
-      "url": "https://open.spotify.com/track/6iPtPVekBPpDc3okcrpreo"
-    },
-    {
-      "added_at": "2026-05-21 22:01:34",
-      "album": {
         "name": "O Jeito Dela",
         "url": "https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 216127,
       "name": "O Jeito Dela - Radio Edit",
       "url": "https://open.spotify.com/track/1IPfgonCiEuHRIsDddkBWq"
+    },
+    {
+      "added_at": "2026-05-21 22:01:34",
+      "album": {
+        "name": "\u00c9s S\u00f3 Tu",
+        "url": "https://open.spotify.com/album/7j7Wms0KNvccZAR7LQbUaz"
+      },
+      "artists": [
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "duration_ms": 174174,
+      "name": "\u00c9s S\u00f3 Tu",
+      "url": "https://open.spotify.com/track/6iPtPVekBPpDc3okcrpreo"
     },
     {
       "added_at": "2026-05-21 22:01:34",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-05-21 22:01:34",
       "album": {
-        "name": "Planos",
-        "url": "https://open.spotify.com/album/5OQujsjg6AsgHiybmw4nhb"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Planos",
-      "url": "https://open.spotify.com/track/49cUQeHqB29Pf3DahEOsD8"
-    },
-    {
-      "added_at": "2026-05-21 22:01:34",
-      "album": {
         "name": "BATOTA",
         "url": "https://open.spotify.com/album/3lvCADbf6qOq34TllBbG6L"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 232340,
       "name": "BATOTA",
       "url": "https://open.spotify.com/track/5JB2CNifWQV75f0RlWLmXI"
+    },
+    {
+      "added_at": "2026-05-21 22:01:34",
+      "album": {
+        "name": "Planos",
+        "url": "https://open.spotify.com/album/5OQujsjg6AsgHiybmw4nhb"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Planos",
+      "url": "https://open.spotify.com/track/49cUQeHqB29Pf3DahEOsD8"
     },
     {
       "added_at": "2026-05-21 22:01:34",
@@ -1867,18 +1867,22 @@
     {
       "added_at": "2026-05-21 22:01:34",
       "album": {
-        "name": "Buqu\u00ea",
-        "url": "https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX"
+        "name": "Longe Daqui",
+        "url": "https://open.spotify.com/album/2lV2eLC9oG1zx36I4CO5nS"
       },
       "artists": [
         {
-          "name": "Deejay Telio",
-          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+          "name": "Anderson M\u00e1rio",
+          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
+        },
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 211584,
-      "name": "Buqu\u00ea",
-      "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
+      "duration_ms": 214935,
+      "name": "Longe Daqui",
+      "url": "https://open.spotify.com/track/6MexAjdg4Fc1qSudsOBGKo"
     },
     {
       "added_at": "2026-05-21 22:01:34",

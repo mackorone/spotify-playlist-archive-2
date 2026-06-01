@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,555 likes - 62 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,605 likes - 62 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 36 | [Que Alegre Va María](https://open.spotify.com/track/23c3BqMJumqqXFTjmVoMeF) | [Imelda Miller](https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J) | [Que Alegre Va María](https://open.spotify.com/album/5TD73XKSMfhNHWIBPCE4zN) | 4:52 |
 | 37 | [Divina Ilusión](https://open.spotify.com/track/6xFJpltR4UBDXGNE8oTpfj) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Tan Cerca ..\. Tan Lejos](https://open.spotify.com/album/38WQ5FzWFuIz4c58VLklAj) | 4:08 |
 | 38 | [Smog](https://open.spotify.com/track/6MzXulC37YZkShGJLXYR14) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [Smog](https://open.spotify.com/album/1QQZWTHIDvquxXLSqCaq9L) | 3:21 |
-| 39 | [Si los Niños Gobernaran al Mundo](https://open.spotify.com/track/0wtGpgsKB13jYY3QMYvt77) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Para los Peques](https://open.spotify.com/album/2G7iskbrJp8fEzGIRrf06o) | 2:11 |
-| 40 | [Ciudad Perdida](https://open.spotify.com/track/3idcbx21Jgm10E3Ji71UQ1) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Puro Rock](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 4:34 |
+| 39 | [Ciudad Perdida](https://open.spotify.com/track/3idcbx21Jgm10E3Ji71UQ1) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Puro Rock](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 4:34 |
+| 40 | [Si los Niños Gobernaran al Mundo](https://open.spotify.com/track/0wtGpgsKB13jYY3QMYvt77) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Para los Peques](https://open.spotify.com/album/2G7iskbrJp8fEzGIRrf06o) | 2:11 |
 | 41 | [Adoro](https://open.spotify.com/track/4irHHlpVq5VCPgqSoJgD89) | [Carlos Lico](https://open.spotify.com/artist/3CFnY1i5FrsN9P4B7drTba) | [Serie 3X4 \(Los Angeles Negros, Altemar Dutra, Carlos Lico\)](https://open.spotify.com/album/1S1zJAXDxGM6HqXMj1aS7F) | 3:04 |
 | 42 | [Voy a Rifar Mi Corazón](https://open.spotify.com/track/5kzDgkyl2iAo4qEitoqU5n) | [Imelda Miller](https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J) | [Que Alegre Va María](https://open.spotify.com/album/1ttlxUfJimVo4kiyXCrxa9) | 2:43 |
 | 43 | [Cambia, Cambia](https://open.spotify.com/track/3aVnShJUHI4HJjSxukRmhC) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [Cambia, Cambia](https://open.spotify.com/album/77KHWR4kgEFYveU3I3e4j3) | 3:22 |

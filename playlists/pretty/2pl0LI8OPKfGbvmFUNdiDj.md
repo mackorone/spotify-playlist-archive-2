@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 890 likes - 70 songs - 3 hr 50 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 891 likes - 72 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 68 | [1000 Kilómetros](https://open.spotify.com/track/0fZ3Wcrlzz9OaURp2WJJ0V) | [María Montenegro](https://open.spotify.com/artist/0cnIFVS9I8UzqNlEQxvOin) | [1000 Kilómetros](https://open.spotify.com/album/5wMQCKdpfs29F4NyrTibLx) | 3:04 |
 | 69 | [Autumn Leaves](https://open.spotify.com/track/7qOWu0a7bzpYNk4yEju09S) | [Bonolo Solomon](https://open.spotify.com/artist/4kaNxQusxlke6nfnusb2fT) | [Autumn Leaves](https://open.spotify.com/album/2ZQfxyOz4pBWHrJdlp7yJL) | 3:11 |
 | 70 | [Bayou Icarus](https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:28 |
+| 71 | [37 Guns](https://open.spotify.com/track/6O5NzMNLYRIhazkUmlqE0W) | [Glife](https://open.spotify.com/artist/3OstriB6t4uPV55YmNf3V3), [Bloswick](https://open.spotify.com/artist/6gKWJHwJJNsAKlAIDX1yug) | [Pals](https://open.spotify.com/album/6DgMKpmqw4gzWfVD0Ket9r) | 3:05 |
+| 72 | [In My Life](https://open.spotify.com/track/2gGcCQt9wtPhaNHQi20hm5) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [In My Life](https://open.spotify.com/album/5oZEd7DEOSHVlLqvrZurla) | 1:56 |
 
-Snapshot ID: `AAAD4D+PJcBT/ENdS4x+mwdXaWjga+iv`
+Snapshot ID: `AAAD4pcRqzv59F+hP8yYherAFqRpscV2`

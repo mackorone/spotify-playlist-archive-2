@@ -536,7 +536,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 152727,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq"
@@ -1510,6 +1510,24 @@
       "duration_ms": 206191,
       "name": "Bad Belle",
       "url": "https://open.spotify.com/track/4iFqHFseTx2tXn6PHCETYl"
+    },
+    {
+      "album": {
+        "name": "Bad Decision",
+        "url": "https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A"
+      },
+      "artists": [
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211428,
+      "name": "Bad Decision",
+      "url": "https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo"
     },
     {
       "album": {
@@ -3422,7 +3440,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 157910,
       "name": "Cut You Off",
       "url": "https://open.spotify.com/track/7olSeEjcLypVdWRrDD7Uap"
@@ -17468,6 +17486,24 @@
       "duration_ms": 220865,
       "name": "Tiny Apartment",
       "url": "https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY"
+    },
+    {
+      "album": {
+        "name": "SAY Yours",
+        "url": "https://open.spotify.com/album/5AIArg9AYwFRfvjh6QPkyv"
+      },
+      "artists": [
+        {
+          "name": "\u00d8bed",
+          "url": "https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "TNGHT",
+      "url": "https://open.spotify.com/track/5oWZFpX95oaCZ69WWZNZzc"
     },
     {
       "album": {

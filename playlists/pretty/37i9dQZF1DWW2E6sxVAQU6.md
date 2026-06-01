@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 
 > Dedicata a chi non ha rischiato ed è sempre andato al massimo  ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,400 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,404 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 12 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |
 | 13 | [Papa Nero](https://open.spotify.com/track/1X3eAXBIhLIsD8krO81Vup) | [Pitura Freska](https://open.spotify.com/artist/7nDp1YwhqukHtWtiQeH0LD) | [GRAN CALMA](https://open.spotify.com/album/5HuowqKpNxqmuwSY0RLjaP) | 3:54 |
 | 14 | [L'assenzio \( the Power of Nothing\)](https://open.spotify.com/track/1yhr95Jd7uqh391cqQDrpx) | [Bluvertigo](https://open.spotify.com/artist/6q8FspLLQOHpabMMbEb8Vq) | [Pop Tools \(Alcune Fasi e Forme d'Onda\)](https://open.spotify.com/album/2NZmrYl2xI4xZSAOG2YRM7) | 3:53 |
-| 15 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
-| 16 | [Ma Perchè \- 1991 Remaster](https://open.spotify.com/track/6WuLDwygCrcsLGB6qaqIK5) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Gran bazar \(1991 Remaster\)](https://open.spotify.com/album/2eQOIfa83ZGRRcphsFEBdH) | 3:22 |
+| 15 | [Ma Perchè \- 1991 Remaster](https://open.spotify.com/track/6WuLDwygCrcsLGB6qaqIK5) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Gran bazar \(1991 Remaster\)](https://open.spotify.com/album/2eQOIfa83ZGRRcphsFEBdH) | 3:22 |
+| 16 | [Il Ragazzo Della Via Gluck](https://open.spotify.com/track/5iLoVWRuwPity9CuN1VTJ8) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Il Ragazzo Della Via Gluck \(2012 Remaster\)](https://open.spotify.com/album/5S22BsWZcjENeRpXRKiB4V) | 4:13 |
 | 17 | [Gigante](https://open.spotify.com/track/7wfaa5eSB5e8L3iKTsFTql) | [Piero Pelù](https://open.spotify.com/artist/6gTrPTTb3XgiLt7GGcmf8j) | [Pugili fragili](https://open.spotify.com/album/5tDFqVgQ2YMRlkA8tNQOof) | 3:40 |
 | 18 | [Pitzinnos in sa gherra](https://open.spotify.com/track/3rrhZJ5RzTD7YrardXkhn4) | [Tazenda](https://open.spotify.com/artist/3iET9n0KDfyrTBmCFGZjnS) | [Vida](https://open.spotify.com/album/2OCfY0uJlOFW0qpOXO9bNy) | 4:18 |
 | 19 | [Sincero \(feat\. Morgan\)](https://open.spotify.com/track/6v2eWAtpP4WDrxRDAG9FwL) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Morgan](https://open.spotify.com/artist/6RUY9TXdPIoeOExtd9twr0) | [Sincero \(feat\. Morgan\)](https://open.spotify.com/album/1N1j43lLEbPtcH2agEYos7) | 3:43 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2E6sxVAQU6.md) - [plain]
 | 28 | [Linda Bella Linda \- 2004 Digital Remaster](https://open.spotify.com/track/2YCL69ro0MbYfCQHj0rY7z) | [Daniel Sentacruz Ensemble](https://open.spotify.com/artist/0VkTO4kWbmwTFNReojnv26) | [Daniel Sentacruz Ensemble: Solo Grandi Successi](https://open.spotify.com/album/5f9JDlOz09tMEcXmWljoZ0) | 3:42 |
 | 29 | [Verso il 2000](https://open.spotify.com/track/2Jgl0CTX70DeULejc5XUsn) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Verso il 2000](https://open.spotify.com/album/5QybZhfwjSfKnDIRkmi1h6) | 4:34 |
 | 30 | [Bada Bambina](https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ) | [Little Tony](https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW) | [Little Tony](https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys) | 2:54 |
-| 31 | [Bentivoglio Angelina](https://open.spotify.com/track/2EYm6XYiMF1o3jUCR0ElnW) | [Quintorigo](https://open.spotify.com/artist/4guRW6Wa0XPtSNDy5yDkjP) | [Grigio](https://open.spotify.com/album/270IC3XZCJIoxK5uRPzWmY) | 4:14 |
-| 32 | [Tu fai schifo sempre](https://open.spotify.com/track/3wtQeyl59gDxcJkvbV036k) | [I Pandemonium](https://open.spotify.com/artist/717AOR8NywHgYvjrlQtzyp) | [I Pandemonium](https://open.spotify.com/album/4JWO6OQfAhyNzTIBnOvhO2) | 3:35 |
+| 31 | [Tu fai schifo sempre](https://open.spotify.com/track/3wtQeyl59gDxcJkvbV036k) | [I Pandemonium](https://open.spotify.com/artist/717AOR8NywHgYvjrlQtzyp) | [I Pandemonium](https://open.spotify.com/album/4JWO6OQfAhyNzTIBnOvhO2) | 3:35 |
+| 32 | [Bentivoglio Angelina](https://open.spotify.com/track/2EYm6XYiMF1o3jUCR0ElnW) | [Quintorigo](https://open.spotify.com/artist/4guRW6Wa0XPtSNDy5yDkjP) | [Grigio](https://open.spotify.com/album/270IC3XZCJIoxK5uRPzWmY) | 4:14 |
 | 33 | [Ping Pong](https://open.spotify.com/track/2H9copqgXrRBpjLnMBZjh8) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Ça Plane Pour Moi](https://open.spotify.com/album/6bv0t7P61aPvCjgbqMZk0V) | 2:46 |
 | 34 | [Sbatti Ben Su Del BeBop](https://open.spotify.com/track/5Dt3SmukbC11M8p5boi1ss) | [Ladri Di Biciclette](https://open.spotify.com/artist/4xsbbVfhjw1iCPyLKQdKQe) | [Made In Italy](https://open.spotify.com/album/2GU0jh6JYDm5CZzOwFJBb9) | 4:09 |
 | 35 | [Italia amore mio](https://open.spotify.com/track/0Y5wPtrrDx8Z7leLqYbF6F) | [Luca Canonici](https://open.spotify.com/artist/5EPuE5AnmS2tOrgNEmd47b), [Pupo](https://open.spotify.com/artist/6LjwPhoH3RDoL8JoXciUHL), [Emanuele Filiberto](https://open.spotify.com/artist/5i2qgL9Q4eV4K3uIPYBygd) | [Italia amore mio](https://open.spotify.com/album/1XBGjZaXqq3zdUs4MzIcc4) | 3:37 |

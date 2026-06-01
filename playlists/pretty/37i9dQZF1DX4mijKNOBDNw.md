@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,205 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,207 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,15 +20,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 10 | [Flower Power](https://open.spotify.com/track/321lmohAdDLovCHMWxwKWU) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Ayo](https://open.spotify.com/album/2OxYGrY7nYt2ymmoFaebqB) | 3:18 |
 | 11 | [La Fortaleza](https://open.spotify.com/track/1VXPKfgMIAn95PFK4TlyDD) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [La Fortaleza](https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9) | 3:55 |
 | 12 | [Esmeralda \(Episodio 2\)](https://open.spotify.com/track/6FgVbS4WlDLPTjr0C6Ozkw) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI), [El Palomar](https://open.spotify.com/artist/5NQBS0Adzkd4OheoR7DtpF) | [Esmeralda \(Episodio 2\)](https://open.spotify.com/album/6sxVaMwALeEANXA2b7TtLt) | 3:48 |
-| 13 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
-| 14 | [Faroles](https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Faroles](https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0) | 2:58 |
+| 13 | [Faroles](https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy), [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln), [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [Faroles](https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0) | 2:58 |
+| 14 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 |
 | 15 | [La Cumbia Feminazi](https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG) | [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [La Cumbia Feminazi](https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p) | 3:49 |
 | 16 | [Báilalo Mujer](https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Báilalo Mujer](https://open.spotify.com/album/3TqIGSpoilpG6QXGpwn5X5) | 2:52 |
 | 17 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
 | 18 | [Alma de Cantaora](https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg) | [Alma de Cantaora](https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO) | 4:50 |
 | 19 | [Te Mereces Un Amor](https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te Mereces Un Amor](https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl) | 3:46 |
-| 20 | [Gitanas](https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Gitanas](https://open.spotify.com/album/2S6OhCz266448hlUEzIduB) | 3:10 |
-| 21 | [Paren de Matarnos](https://open.spotify.com/track/4p048hM5kMxSLLcRiLtE0K) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:22 |
+| 20 | [Paren de Matarnos](https://open.spotify.com/track/4p048hM5kMxSLLcRiLtE0K) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:22 |
+| 21 | [Gitanas](https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Gitanas](https://open.spotify.com/album/2S6OhCz266448hlUEzIduB) | 3:10 |
 | 22 | [Mi Fuerza Es Tuya](https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga) | [Thelma Fardin](https://open.spotify.com/artist/0SBwpTwANByEBrhww6nGEl), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Mi Fuerza Es Tuya](https://open.spotify.com/album/5OeRmEiUnbVCOCSBpYrk1W) | 4:05 |
 | 23 | [Hermanas](https://open.spotify.com/track/1ZMILHInTaxZ3G5A7y55hY) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg), [Maria Rezende](https://open.spotify.com/artist/3WDDrOm8mMLjqb8DltOW4k) | [Hermanas](https://open.spotify.com/album/5UPSoi84uNlqOuRcSkOOEa) | 4:06 |
 | 24 | [Nosotras Tenemos Otros Datos](https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Nosotras Tenemos Otros Datos](https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4) | 3:21 |

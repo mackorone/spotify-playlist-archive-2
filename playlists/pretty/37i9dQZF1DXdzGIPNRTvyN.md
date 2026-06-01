@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,991 likes - 200 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,316 likes - 200 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzGIPNRTvyN.md) - [plain]
 | 199 | [Floe](https://open.spotify.com/track/2mdsmyXRZGdzogMfDmTnf4) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Floe](https://open.spotify.com/album/7KeNkCZ64bAfBaRXgUa0IU) | 2:40 |
 | 200 | [Symbolic](https://open.spotify.com/track/24gnyEWYUMkZvPncFgimt6) | [Qualeis](https://open.spotify.com/artist/6HaHca1Dcrxamb4r1b0eig) | [Symbolic](https://open.spotify.com/album/2kleGofzY0AVL7bzSAuf9m) | 2:49 |
 
-Snapshot ID: `AAAAAN/HFNP2ca92G6h3cLMW784Qc7MK`
+Snapshot ID: `AAAAAGluzkwirtUmzmgQGBr7NYHfU0LS`

@@ -1,6 +1,6 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 87830,
+  "num_followers": 87823,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
+        "name": "Crazymad, For Me",
+        "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 216946,
+      "name": "Stay For Something",
+      "url": "https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
         "name": "Dangerous Lover",
         "url": "https://open.spotify.com/album/2EIRNYg9YwfZt0iRuuUFCh"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 201555,
       "name": "Fix What You Didn't Break",
       "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
-        "name": "Crazymad, For Me",
-        "url": "https://open.spotify.com/album/27E56zhC7dIPjOapQ1tc3O"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 216946,
-      "name": "Stay For Something",
-      "url": "https://open.spotify.com/track/05TyHrGHIEg8EyW31zJj0c"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -819,26 +819,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Hurts 2B Human",
-        "url": "https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 188120,
-      "name": "Love Me Anyway (feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/0pwdJLLVxlJa1lnR9UeMZY"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "UNHEALTHY (Deluxe)",
         "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 205613,
       "name": "YOU & I (feat. Khalid)",
       "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "Hurts 2B Human",
+        "url": "https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 188120,
+      "name": "Love Me Anyway (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/0pwdJLLVxlJa1lnR9UeMZY"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
-      },
-      "artists": [
-        {
-          "name": "Jim Gardner",
-          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "Evering Road (Special Edition)",
         "url": "https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 230615,
       "name": "Don't Break the Heart",
       "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
+      },
+      "artists": [
+        {
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
+        }
+      ],
+      "duration_ms": 153973,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Burning Daylight",
-        "url": "https://open.spotify.com/album/5FdecV9YIP62njz9sgfyWK"
-      },
-      "artists": [
-        {
-          "name": "Mia Nicolai",
-          "url": "https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ"
-        },
-        {
-          "name": "Dion Cooper",
-          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Burning Daylight",
-      "url": "https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "So Good To Me",
         "url": "https://open.spotify.com/album/67XCgRpDrGHQS1tLnYaTGD"
       },
@@ -1523,18 +1503,22 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Catch A Rainbow",
-        "url": "https://open.spotify.com/album/3eBm9UKivBxtlrSuSljTVB"
+        "name": "Burning Daylight",
+        "url": "https://open.spotify.com/album/5FdecV9YIP62njz9sgfyWK"
       },
       "artists": [
         {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+          "name": "Mia Nicolai",
+          "url": "https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ"
+        },
+        {
+          "name": "Dion Cooper",
+          "url": "https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj"
         }
       ],
-      "duration_ms": 154160,
-      "name": "Catch A Rainbow",
-      "url": "https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2"
+      "duration_ms": 184000,
+      "name": "Burning Daylight",
+      "url": "https://open.spotify.com/track/5pjp1jN7hitQTuSlT2jOep"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -1567,6 +1551,22 @@
       "duration_ms": 197205,
       "name": "Happier",
       "url": "https://open.spotify.com/track/04KJXYKCosHf3jtySjxwff"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "Catch A Rainbow",
+        "url": "https://open.spotify.com/album/3eBm9UKivBxtlrSuSljTVB"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Catch A Rainbow",
+      "url": "https://open.spotify.com/track/2UdvthIbV4tJuCxXM1AWX2"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Love The Way It Hurts",
-        "url": "https://open.spotify.com/album/6OqAYoh045njumidj7tobF"
-      },
-      "artists": [
-        {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        }
-      ],
-      "duration_ms": 260021,
-      "name": "Love The Way It Hurts",
-      "url": "https://open.spotify.com/track/3u1UZ826Dbecx5Zl41tI4D"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "Hurt Me",
         "url": "https://open.spotify.com/album/36Wlc2fxWoilGfYwd7SaC4"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 185476,
       "name": "Hurt Me",
       "url": "https://open.spotify.com/track/2rkf3F19As1KUykfS45TQv"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "Love The Way It Hurts",
+        "url": "https://open.spotify.com/album/6OqAYoh045njumidj7tobF"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "duration_ms": 260021,
+      "name": "Love The Way It Hurts",
+      "url": "https://open.spotify.com/track/3u1UZ826Dbecx5Zl41tI4D"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
+        "name": "In Case You Missed It",
+        "url": "https://open.spotify.com/album/0jyLWLEnAbUmefy3UeQkuY"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "duration_ms": 184852,
+      "name": "In Case You Missed It",
+      "url": "https://open.spotify.com/track/2O10QQ8538iu2zslC4GCcP"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
         "name": "half a world away",
         "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 207954,
       "name": "half a world away",
       "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
-        "name": "In Case You Missed It",
-        "url": "https://open.spotify.com/album/0jyLWLEnAbUmefy3UeQkuY"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        }
-      ],
-      "duration_ms": 184852,
-      "name": "In Case You Missed It",
-      "url": "https://open.spotify.com/track/2O10QQ8538iu2zslC4GCcP"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Salt Moon City",
-        "url": "https://open.spotify.com/album/3llOStWz8Dr8dO4bC0SpNs"
-      },
-      "artists": [
-        {
-          "name": "Iskander Moon",
-          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Buried in Beverly Hills",
-      "url": "https://open.spotify.com/track/2kBDE8s0flZwnonaQ5A2Ef"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "Salt Moon City",
+        "url": "https://open.spotify.com/album/3llOStWz8Dr8dO4bC0SpNs"
+      },
+      "artists": [
+        {
+          "name": "Iskander Moon",
+          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Buried in Beverly Hills",
+      "url": "https://open.spotify.com/track/2kBDE8s0flZwnonaQ5A2Ef"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "the devil's advocate",
-        "url": "https://open.spotify.com/album/3AQLKzmHD6t3R4MTE90E4P"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "the devil's advocate",
-      "url": "https://open.spotify.com/track/6EQxQwc56xRBxjQQMHPFkn"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "Only Smith & Burrows Is Good Enough",
         "url": "https://open.spotify.com/album/7mueFpE0ElhVLHaxQDtuOB"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 203766,
       "name": "All The Best Moves",
       "url": "https://open.spotify.com/track/7C6ONRhow0K5PqvKmqOiAi"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "the devil's advocate",
+        "url": "https://open.spotify.com/album/3AQLKzmHD6t3R4MTE90E4P"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "the devil's advocate",
+      "url": "https://open.spotify.com/track/6EQxQwc56xRBxjQQMHPFkn"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Play (Extended Edition)",
-        "url": "https://open.spotify.com/album/7hkuAIT9TEVABBi7WJq5sz"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207256,
-      "name": "For Always",
-      "url": "https://open.spotify.com/track/0T02ywvKCK8xVKuymZm3AS"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "Hurricane (Acoustic Version)",
         "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 186093,
       "name": "Wasted Heart",
       "url": "https://open.spotify.com/track/0xDYB5xoFT2LbkWNkSoa8z"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "Play (Extended Edition)",
+        "url": "https://open.spotify.com/album/7hkuAIT9TEVABBi7WJq5sz"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207256,
+      "name": "For Always",
+      "url": "https://open.spotify.com/track/0T02ywvKCK8xVKuymZm3AS"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV"
-      },
-      "artists": [
-        {
-          "name": "Niels Geusebroek",
-          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "In The Cold Light of Monday",
         "url": "https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i"
       },
@@ -2603,18 +2587,18 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Elba",
-        "url": "https://open.spotify.com/album/4JOtH0irSi1qe7Dtyj2XGT"
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5oQqzWjvn2XvuF2NE0C7PV"
       },
       "artists": [
         {
-          "name": "Laura Jansen",
-          "url": "https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM"
+          "name": "Niels Geusebroek",
+          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
         }
       ],
-      "duration_ms": 237266,
-      "name": "Queen Of Elba",
-      "url": "https://open.spotify.com/track/02qxRNbkok9cAtwiSDQrqw"
+      "duration_ms": 184546,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/58h6HSRIKJeArYdGNUhKQJ"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -2631,6 +2615,22 @@
       "duration_ms": 245836,
       "name": "Boston",
       "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "Elba",
+        "url": "https://open.spotify.com/album/4JOtH0irSi1qe7Dtyj2XGT"
+      },
+      "artists": [
+        {
+          "name": "Laura Jansen",
+          "url": "https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM"
+        }
+      ],
+      "duration_ms": 237266,
+      "name": "Queen Of Elba",
+      "url": "https://open.spotify.com/track/02qxRNbkok9cAtwiSDQrqw"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "First In Line",
-        "url": "https://open.spotify.com/album/0WxVhhggNEQLa4DuD8oSy6"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 186615,
-      "name": "First In Line",
-      "url": "https://open.spotify.com/track/0AAik55QhNYlyZFmnSHqKx"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/5WZbBRS9f7IXaGFSoDXa7S"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 151200,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/2Ge2inARTv0tXh2CxozJCu"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "First In Line",
+        "url": "https://open.spotify.com/album/0WxVhhggNEQLa4DuD8oSy6"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 186615,
+      "name": "First In Line",
+      "url": "https://open.spotify.com/track/0AAik55QhNYlyZFmnSHqKx"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -2795,6 +2795,22 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
+        "name": "I Could Be Wrong",
+        "url": "https://open.spotify.com/album/3ujt1l1rq1UnLM3KXHYPEx"
+      },
+      "artists": [
+        {
+          "name": "Ed Struijlaart",
+          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
+        }
+      ],
+      "duration_ms": 186139,
+      "name": "I Could Be Wrong",
+      "url": "https://open.spotify.com/track/1PkvInIcaxRagzStMGVAi5"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/0WxWpSTJASFJofnbr7vA76"
       },
@@ -2823,22 +2839,6 @@
       "duration_ms": 125800,
       "name": "Ballad Of Easy Rider",
       "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
-        "name": "I Could Be Wrong",
-        "url": "https://open.spotify.com/album/3ujt1l1rq1UnLM3KXHYPEx"
-      },
-      "artists": [
-        {
-          "name": "Ed Struijlaart",
-          "url": "https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2"
-        }
-      ],
-      "duration_ms": 186139,
-      "name": "I Could Be Wrong",
-      "url": "https://open.spotify.com/track/1PkvInIcaxRagzStMGVAi5"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -2891,22 +2891,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/1GBFKMecUkExm0TbTrNpbg"
-      },
-      "artists": [
-        {
-          "name": "Morpheus",
-          "url": "https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX"
-        }
-      ],
-      "duration_ms": 204634,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/5dzD57wEZZZ4tdn4ybJgXU"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "ten years time",
         "url": "https://open.spotify.com/album/2KS00P0TaswDOaTBNc6KVj"
       },
@@ -2935,6 +2919,22 @@
       "duration_ms": 227293,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/20Rjl0NnWdKHv1OwKA7gid"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/1GBFKMecUkExm0TbTrNpbg"
+      },
+      "artists": [
+        {
+          "name": "Morpheus",
+          "url": "https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX"
+        }
+      ],
+      "duration_ms": 204634,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/5dzD57wEZZZ4tdn4ybJgXU"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Rolling",
-        "url": "https://open.spotify.com/album/5meYSRyh2OUGjPDYxHxJ3Z"
-      },
-      "artists": [
-        {
-          "name": "Krystl",
-          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Fool For You",
-      "url": "https://open.spotify.com/track/0N1QRsfKXJs7uGpzZc58cY"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "Wandering Heart",
         "url": "https://open.spotify.com/album/10THMG976Sqzl7Bh5yE7At"
       },
@@ -2999,6 +2983,22 @@
       "duration_ms": 200840,
       "name": "Wandering Heart",
       "url": "https://open.spotify.com/track/3nB886s0ieK7TwHFjQgoOz"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "Rolling",
+        "url": "https://open.spotify.com/album/5meYSRyh2OUGjPDYxHxJ3Z"
+      },
+      "artists": [
+        {
+          "name": "Krystl",
+          "url": "https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi"
+        }
+      ],
+      "duration_ms": 204026,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/0N1QRsfKXJs7uGpzZc58cY"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -3059,22 +3059,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/4BmxmKGu5tA194V2qCuRw6"
-      },
-      "artists": [
-        {
-          "name": "SOLEROY",
-          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/43DQTjc9abmcaGOq6Wjpdo"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/2xmOMHzLhu5BgzpGOWkOWe"
       },
@@ -3107,22 +3091,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Icarus & The Sun",
-        "url": "https://open.spotify.com/album/7hhml09yFIN79J7iL9uPba"
-      },
-      "artists": [
-        {
-          "name": "Neil Hollyn",
-          "url": "https://open.spotify.com/artist/3xwOjGQV5Pblxa9thjh6w0"
-        }
-      ],
-      "duration_ms": 188204,
-      "name": "Icarus & The Sun",
-      "url": "https://open.spotify.com/track/7KxupcqvShlinKyVDAwNtd"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "Now That We\u2019ve Found Love",
         "url": "https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8"
       },
@@ -3143,6 +3111,22 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
+        "name": "Icarus & The Sun",
+        "url": "https://open.spotify.com/album/7hhml09yFIN79J7iL9uPba"
+      },
+      "artists": [
+        {
+          "name": "Neil Hollyn",
+          "url": "https://open.spotify.com/artist/3xwOjGQV5Pblxa9thjh6w0"
+        }
+      ],
+      "duration_ms": 188204,
+      "name": "Icarus & The Sun",
+      "url": "https://open.spotify.com/track/7KxupcqvShlinKyVDAwNtd"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
         "name": "Dog in the Park",
         "url": "https://open.spotify.com/album/6jdS8PKHxrOCoB15wv2QYD"
       },
@@ -3155,6 +3139,22 @@
       "duration_ms": 180346,
       "name": "Dog in the Park",
       "url": "https://open.spotify.com/track/7aIt9y0iirchcmXvHOrjBs"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/4BmxmKGu5tA194V2qCuRw6"
+      },
+      "artists": [
+        {
+          "name": "SOLEROY",
+          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
+        }
+      ],
+      "duration_ms": 181002,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/43DQTjc9abmcaGOq6Wjpdo"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -3351,18 +3351,22 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
+        "name": "House On Fire (Duet Version)",
+        "url": "https://open.spotify.com/album/7dH9OmKx2qWo6zGfd9brou"
       },
       "artists": [
         {
-          "name": "Josh Island",
-          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        },
+        {
+          "name": "Milow",
+          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
+      "duration_ms": 179561,
+      "name": "House On Fire - Duet Version",
+      "url": "https://open.spotify.com/track/3D5RwZZhMiWkI2RrIhyenr"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -3383,22 +3387,18 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "House On Fire (Duet Version)",
-        "url": "https://open.spotify.com/album/7dH9OmKx2qWo6zGfd9brou"
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
       },
       "artists": [
         {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
-        },
-        {
-          "name": "Milow",
-          "url": "https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5"
+          "name": "Josh Island",
+          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
         }
       ],
-      "duration_ms": 179561,
-      "name": "House On Fire - Duet Version",
-      "url": "https://open.spotify.com/track/3D5RwZZhMiWkI2RrIhyenr"
+      "duration_ms": 255000,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -3499,22 +3499,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Lay Your Weapons Down (Acoustic)",
-        "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
-      },
-      "artists": [
-        {
-          "name": "Ilse DeLange",
-          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
-        }
-      ],
-      "duration_ms": 205108,
-      "name": "Lay Your Weapons Down - Acoustic",
-      "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "Beauty Is A Mess",
         "url": "https://open.spotify.com/album/56G0aPRr7G9paEbEGFlola"
       },
@@ -3527,6 +3511,22 @@
       "duration_ms": 184360,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/31iIDD0Np4zBqnk5xVXSgf"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "Lay Your Weapons Down (Acoustic)",
+        "url": "https://open.spotify.com/album/71nqwuPOUHmVNcrjjkRx9m"
+      },
+      "artists": [
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "duration_ms": 205108,
+      "name": "Lay Your Weapons Down - Acoustic",
+      "url": "https://open.spotify.com/track/4b2kDKZCGdWEVrWTwC4uUv"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -3611,22 +3611,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "weed & videogames",
-        "url": "https://open.spotify.com/album/4VomEJXaT4uQeNzfP9aVmr"
-      },
-      "artists": [
-        {
-          "name": "Joe Buck",
-          "url": "https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh"
-        }
-      ],
-      "duration_ms": 183715,
-      "name": "weed & videogames",
-      "url": "https://open.spotify.com/track/5V8NIbC1m0FC2t697j6Bua"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/3nziLyYhBlU55CVhB7PDGC"
       },
@@ -3643,18 +3627,18 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/31r84Xu8EUGaws9CrhlzV8"
+        "name": "weed & videogames",
+        "url": "https://open.spotify.com/album/4VomEJXaT4uQeNzfP9aVmr"
       },
       "artists": [
         {
-          "name": "Lisa Lois",
-          "url": "https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL"
+          "name": "Joe Buck",
+          "url": "https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh"
         }
       ],
-      "duration_ms": 223253,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0JYPUB7FFVAew3qXxhfXVa"
+      "duration_ms": 183715,
+      "name": "weed & videogames",
+      "url": "https://open.spotify.com/track/5V8NIbC1m0FC2t697j6Bua"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -3671,6 +3655,22 @@
       "duration_ms": 168000,
       "name": "Till The River Runs Dry",
       "url": "https://open.spotify.com/track/1LRm0dAdk7IEuQDXDs9pIG"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/31r84Xu8EUGaws9CrhlzV8"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lois",
+          "url": "https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL"
+        }
+      ],
+      "duration_ms": 223253,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0JYPUB7FFVAew3qXxhfXVa"
     },
     {
       "added_at": "2026-05-28 22:00:55",
@@ -4083,22 +4083,6 @@
     {
       "added_at": "2026-05-28 22:00:55",
       "album": {
-        "name": "Die For You",
-        "url": "https://open.spotify.com/album/6EetSjlBdamHHg82She66u"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 186766,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/64tOhYVyesLmhhky9R5RAE"
-    },
-    {
-      "added_at": "2026-05-28 22:00:55",
-      "album": {
         "name": "Before It Might Be Gone",
         "url": "https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM"
       },
@@ -4111,6 +4095,22 @@
       "duration_ms": 296885,
       "name": "Before It Might Be Gone",
       "url": "https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92"
+    },
+    {
+      "added_at": "2026-05-28 22:00:55",
+      "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/6EetSjlBdamHHg82She66u"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 186766,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/64tOhYVyesLmhhky9R5RAE"
     },
     {
       "added_at": "2026-05-28 22:00:55",

@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33927,
+  "num_followers": 33930,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
-        "name": "Thorns",
-        "url": "https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11"
-    },
-    {
-      "added_at": "2026-05-21 22:00:09",
-      "album": {
         "name": "EURO-COUNTRY",
         "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 272266,
       "name": "When A Good Man Cries",
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "added_at": "2026-05-21 22:00:09",
+      "album": {
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/6AMa9mH7ee5Q02TXf2LCGg"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/00mF2mWX2yYQehNfDDrY11"
     },
     {
       "added_at": "2026-05-21 22:00:09",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-05-21 22:00:09",
       "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 223425,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG"
+    },
+    {
+      "added_at": "2026-05-21 22:00:09",
+      "album": {
         "name": "After Midnight (feat. Tyler Hubbard)",
         "url": "https://open.spotify.com/album/23msMw5gDXUmSOQjleicfV"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 166357,
       "name": "After Midnight - feat. Tyler Hubbard",
       "url": "https://open.spotify.com/track/6SDWFQJxKnwjYZuxWp2bFj"
-    },
-    {
-      "added_at": "2026-05-21 22:00:09",
-      "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/2xW159PeikPpj7jIIJpjdv"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 223425,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/4q0uQNqaIchPOgvhODEsnG"
     },
     {
       "added_at": "2026-05-21 22:00:09",

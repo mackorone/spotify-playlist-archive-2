@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Wiz Khalifa and Curren$y
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,565,541 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,565,446 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 32 | [Gold Feet \(feat\. J.I.D.\)](https://open.spotify.com/track/6yZPdc1jlYnG9QFG8WnrMm) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:41 |
 | 33 | [No Blame](https://open.spotify.com/track/4OiF7pHMapELmWxgwShCbK) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 2:46 |
 | 34 | [Munyon Canyon](https://open.spotify.com/track/65F3PDyVWG6sYeiMJJEBly) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:42 |
-| 35 | [Reconsider](https://open.spotify.com/track/68s4qX9mitS8d3u1UY7SDj) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [ADHD 2 Reloaded](https://open.spotify.com/album/61MEzXrdKxuTvken9N1C7g) | 3:37 |
-| 36 | [Community \(with Clipse, Pusha T & Malice\)](https://open.spotify.com/track/3LXxHFZWt6OHdBsgucSIjJ) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/5tN6fQFvbiTYubJ9okxkft) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 4:25 |
+| 35 | [Community \(with Clipse, Pusha T & Malice\)](https://open.spotify.com/track/3LXxHFZWt6OHdBsgucSIjJ) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/5tN6fQFvbiTYubJ9okxkft) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 4:25 |
+| 36 | [Reconsider](https://open.spotify.com/track/68s4qX9mitS8d3u1UY7SDj) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [ADHD 2 Reloaded](https://open.spotify.com/album/61MEzXrdKxuTvken9N1C7g) | 3:37 |
 | 37 | [Feeling \(feat\. Larry June\)](https://open.spotify.com/track/4ig1U15Fek3EOm6lJppxu1) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 3:55 |
 | 38 | [Friendly Hallucinations](https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:45 |
 | 39 | [Drive Alone](https://open.spotify.com/track/52O0lWLhF9VoOVACnlnAnS) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Spiral Staircases](https://open.spotify.com/album/4XGYIMntQYL5PPjsUZJoGJ) | 3:29 |

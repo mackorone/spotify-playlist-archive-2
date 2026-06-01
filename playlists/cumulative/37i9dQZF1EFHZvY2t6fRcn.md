@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-212 songs - 11 hr 30 min
+214 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Human](https://open.spotify.com/track/5XJcLojjlAJRtUagEZmP9N) | [The Ramona Flowers](https://open.spotify.com/artist/2wPSVzL9RmbR3g1MjWRjMe) | [Human](https://open.spotify.com/album/5ql4aGdqDTQmVQK5lDUkoN) | 3:49 | 2025-05-05 | 2025-10-13 |
 | [I Don't Love You](https://open.spotify.com/track/56DtlpHeMFHUIRf60GpBqa) | [Aidan Alexander](https://open.spotify.com/artist/470MOsSyAjffyO2de235Yw) | [I Don't Love You](https://open.spotify.com/album/0isT3M0fEUwPOiuECCGL9E) | 3:24 | 2021-12-27 | 2022-10-14 |
 | [I Don't Love You](https://open.spotify.com/track/5lmNLpttoz07aUCITtAKhX) | [Aidan Alexander](https://open.spotify.com/artist/470MOsSyAjffyO2de235Yw) | [I Don't Love You](https://open.spotify.com/album/352YNkVFSV9KDvGlLpEwRc) | 3:24 | 2022-10-13 |  |
+| [I Forgot](https://open.spotify.com/track/02zcxkBgtRdpHovTLgJRl1) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [I Forgot / Out of my Head](https://open.spotify.com/album/6ANjZWfiXY8sowZKEXOtaX) | 3:50 | 2026-05-31 |  |
 | [I Love You, But](https://open.spotify.com/track/4dKAXI5lvnoan3m4YryZlN) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [The Long Way Round \(Deluxe\)](https://open.spotify.com/album/2wPN08yZghT08iRTUfeB1x) | 3:31 | 2026-02-11 |  |
 | [If We Were Made Of Water](https://open.spotify.com/track/2jWiqKyZKkcChQpwwmQH8k) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:24 | 2021-12-27 |  |
 | [Jane](https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Jane](https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0) | 3:22 | 2022-08-28 |  |
@@ -150,6 +151,7 @@
 | [One and Lonely](https://open.spotify.com/track/0br1EHWkZNvoi0KFruBUVX) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [One and Lonely](https://open.spotify.com/album/0yZFcNibtzlDg4r4Molxyk) | 3:04 | 2022-10-13 |  |
 | [One and Lonely](https://open.spotify.com/track/3D5XJZSaJG3imPilzjhqyP) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [One and Lonely](https://open.spotify.com/album/6kTwjb4jYa8Wo4F3eIUdOP) | 3:04 | 2021-12-27 | 2022-10-14 |
 | [Ooh Laa](https://open.spotify.com/track/0ulSIUvy5rSdkTEgUbJzm2) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 2:59 | 2021-12-27 |  |
+| [Out of my Head](https://open.spotify.com/track/5ExQZsB1FkAemKYykuvDUv) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [I Forgot / Out of my Head](https://open.spotify.com/album/6ANjZWfiXY8sowZKEXOtaX) | 3:04 | 2026-05-31 |  |
 | [Pace Yourself](https://open.spotify.com/track/0MvqfZ64k279BTGvIxuLm0) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Motive](https://open.spotify.com/album/2IVlGSUdl1ZTeSjOj8tMEr) | 2:54 | 2023-01-29 |  |
 | [Pasado \(feat\. Cali Y El Dandee\)](https://open.spotify.com/track/0Csxl0xjWL376E9L78Up4j) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Pasado \(feat\. Cali Y El Dandee\)](https://open.spotify.com/album/4QvmvksCfpmZPo95QOS6tF) | 2:22 | 2021-12-27 |  |
 | [PIECES](https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PIECES](https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo) | 2:46 | 2022-08-12 | 2023-12-14 |

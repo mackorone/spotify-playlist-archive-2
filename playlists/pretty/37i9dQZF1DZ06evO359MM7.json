@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 447456,
+  "num_followers": 447477,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAAUbO+B21IpLKg5trIHxxju",
+  "snapshot_id": "ahoogAAAAADnZyfGiAxMtidze5S0KFbM",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Turn (Deluxe)",
+        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 144651,
+      "name": "Low Down",
+      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 194732,
       "name": "Never Recover (Lil Baby & Gunna, Drake)",
       "url": "https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Turn (Deluxe)",
-        "url": "https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 144651,
-      "name": "Low Down",
-      "url": "https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dr*gs R Bad",
-        "url": "https://open.spotify.com/album/0w31mbjD6bT4eckeQFWDt3"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 151021,
-      "name": "Can't B Trusted",
-      "url": "https://open.spotify.com/track/0cW1EfMD4CzcHmp5AY283A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RY RY WORLD",
         "url": "https://open.spotify.com/album/6i1OieEQCZaMlQZZ44VLON"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 197043,
       "name": "Always n Forever (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/6dbENHQHHtWRai4snSvy2w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dr*gs R Bad",
+        "url": "https://open.spotify.com/album/0w31mbjD6bT4eckeQFWDt3"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 151021,
+      "name": "Can't B Trusted",
+      "url": "https://open.spotify.com/track/0cW1EfMD4CzcHmp5AY283A"
     },
     {
       "added_at": null,
@@ -839,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "2step (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 163449,
+      "name": "2step (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Realer",
         "url": "https://open.spotify.com/album/3o5se5blwiAdJPk8yAw1EQ"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 233684,
       "name": "Cross Me (feat. Lil Baby and Plies)",
       "url": "https://open.spotify.com/track/3V3JxDpiUg0RAt1Mfbn6Ht"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2step (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/6NPPPC6DxPvukxZcYVOBif"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 163449,
-      "name": "2step (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/2UN0lp72LAusrXi8LLVomt"
     },
     {
       "added_at": null,
@@ -955,22 +955,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOW OR NEVER II",
-        "url": "https://open.spotify.com/album/4Qm3agfa6jg4nescfzLyy3"
+        "name": "Alicia (with Lil Baby)",
+        "url": "https://open.spotify.com/album/1miVPmKXGnxetl1HF4MXvU"
       },
       "artists": [
         {
-          "name": "Tkandz",
-          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
         },
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 158357,
-      "name": "NOW OR NEVER II",
-      "url": "https://open.spotify.com/track/3WIV7gukpFbj7YotPoUVb2"
+      "duration_ms": 213067,
+      "name": "Alicia (with Lil Baby)",
+      "url": "https://open.spotify.com/track/6LU2Kbm1QiNx3LgFNwQEbH"
     },
     {
       "added_at": null,
@@ -995,22 +995,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alicia (with Lil Baby)",
-        "url": "https://open.spotify.com/album/1miVPmKXGnxetl1HF4MXvU"
+        "name": "NOW OR NEVER II",
+        "url": "https://open.spotify.com/album/4Qm3agfa6jg4nescfzLyy3"
       },
       "artists": [
         {
-          "name": "Hotboii",
-          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
         },
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 213067,
-      "name": "Alicia (with Lil Baby)",
-      "url": "https://open.spotify.com/track/6LU2Kbm1QiNx3LgFNwQEbH"
+      "duration_ms": 158357,
+      "name": "NOW OR NEVER II",
+      "url": "https://open.spotify.com/track/3WIV7gukpFbj7YotPoUVb2"
     }
   ],
   "unique_name": "This Is Lil Baby",

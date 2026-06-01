@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,695 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,763 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [JETSKI](https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [JETSKI](https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o) | 2:28 |
 | 50 | [Ilusão De Ótica \- Ao Vivo](https://open.spotify.com/track/44CTudFZ0kbaIF9n0jk7oU) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Envolvente \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/1OkdRmcGgEGkotlkG1E9q2) | 2:59 |
 
-Snapshot ID: `Ma5cAAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ma+v2AAAAAAAAAAAAAAAAAAAAAAAAGVu`

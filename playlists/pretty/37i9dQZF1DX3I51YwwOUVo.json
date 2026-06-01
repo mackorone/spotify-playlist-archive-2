@@ -1,6 +1,6 @@
 {
   "description": "Get to know our 2026 Artists to Watch.",
-  "num_followers": 9933,
+  "num_followers": 9932,
   "original_name": "Artists To Watch 2026",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2026-01-12 16:30:22",
       "album": {
+        "name": "Night Diving",
+        "url": "https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Better Me For You (Brown Eyes)",
+      "url": "https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ"
+    },
+    {
+      "added_at": "2026-01-12 16:30:22",
+      "album": {
         "name": "Shake It To The Max (FLY) (Remix)",
         "url": "https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
-    },
-    {
-      "added_at": "2026-01-12 16:30:22",
-      "album": {
-        "name": "Night Diving",
-        "url": "https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Better Me For You (Brown Eyes)",
-      "url": "https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ"
     },
     {
       "added_at": "2026-01-12 16:30:22",

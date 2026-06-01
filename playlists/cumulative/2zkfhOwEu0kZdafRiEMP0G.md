@@ -4,7 +4,7 @@
 
 > 
 
-128 songs - 8 hr 55 min
+129 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Ascensionism](https://open.spotify.com/track/2Z1eWq9VOXkCzUmcU6uoNe) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 7:08 | 2025-07-13 |  |
 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-03-30 |  |
 | [Ballad of a Badman](https://open.spotify.com/track/2PLOCIYlFr8XxNsz0Lgs4l) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 4:14 | 2026-03-30 | 2026-05-03 |
-| [bedrott](https://open.spotify.com/track/3rhZUqbKiA1ILhjc1LptC5) | [duskydemise](https://open.spotify.com/artist/5y9Swh1G1KLBrlyM3wlNst) | [bedrott](https://open.spotify.com/album/0a9A5YTj5U1wBb9PwxSkMU) | 1:53 | 2026-03-30 |  |
+| [bedrott](https://open.spotify.com/track/3rhZUqbKiA1ILhjc1LptC5) | [duskydemise](https://open.spotify.com/artist/5y9Swh1G1KLBrlyM3wlNst) | [bedrott](https://open.spotify.com/album/0a9A5YTj5U1wBb9PwxSkMU) | 1:53 | 2026-03-30 | 2026-06-01 |
 | [Billie Jean Freestyle](https://open.spotify.com/track/3lNVBDUD9ybAq4yK3VV4Ns) | [CamDaGuapo](https://open.spotify.com/artist/4iLPlIi4D6LlySN30w0NZa) | [Billie Jean Freestyle](https://open.spotify.com/album/4NYVqGf6Wcj6jnO20f2xHK) | 2:01 | 2026-03-30 | 2026-05-03 |
 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 | 2025-08-26 | 2025-10-23 |
 | [Broken Heart](https://open.spotify.com/track/1hNiqmCEOozAghYTQEbQH6) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [Broken Heart](https://open.spotify.com/album/6bc1hlrJy9oULH5LnYNkpv) | 3:27 | 2025-11-05 |  |
@@ -56,6 +56,7 @@
 | [How Liberty Dies](https://open.spotify.com/track/3JZw17iEok1bdXdmny1Tco) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [How Liberty Dies](https://open.spotify.com/album/6B8JOR5XGQ6X0PyQkqHWP4) | 2:13 | 2025-11-05 | 2025-12-28 |
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2026-03-30 |  |
 | [I Am a Jedi](https://open.spotify.com/track/2U0sNA99tgmDUxDvnukqJT) | [Royish Good Looks](https://open.spotify.com/artist/08zsyi6FbSP0D1FTrDyo0W) | [I Am a Jedi](https://open.spotify.com/album/3T9U4Po9LYbShRBuEECFdL) | 2:15 | 2025-11-30 |  |
+| [I Can't Help but Wonder](https://open.spotify.com/track/5gf0PsMTswpUXqtRaM96aF) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Miguel Veloso](https://open.spotify.com/artist/1DQVqtMtxpz4eYX5BBAiBP), [Teagan Earley](https://open.spotify.com/artist/1iM9uHQqsPQvZ087a5pf5w) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 4:51 | 2026-05-31 |  |
 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 | 2025-11-15 | 2025-12-28 |
 | [I Think I Like It](https://open.spotify.com/track/52SvKTH6jFGVAhpL2aLLbH) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI) | [I Think I Like It](https://open.spotify.com/album/745ZYuADRerLHSeUH7G8uW) | 2:48 | 2026-03-30 |  |
 | [I Won't Say \(I'm In Love\)](https://open.spotify.com/track/0PKmDncVOiNQLO6D1P6PXi) | [Susan Egan](https://open.spotify.com/artist/7CckquWatDQSr3PFKkjM8M), [Cheryl Freeman](https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd), [LaChanze](https://open.spotify.com/artist/3zT7dcLl9wbSXsVh3VQx3A), [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK), [Lillias White](https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Hercules \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J) | 2:20 | 2025-07-13 | 2025-10-23 |

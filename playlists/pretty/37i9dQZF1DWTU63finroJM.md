@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Skye Newman
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,875 likes - 41 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,879 likes - 41 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tum](https://open.spotify.com/track/6mHTwIXqZtuQUF1fEkrhFB) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Tum](https://open.spotify.com/album/4INFMJi3SwIEWixQjlMNig) | 4:18 |
-| 2 | [The Market Remix \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/1OsVaHQgD0x4q8byl0yXcF) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [The Market Remix \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/7bg5wEjbiAcVKmpixEfmrx) | 3:27 |
-| 3 | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 |
+| 2 | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [HAN](https://open.spotify.com/artist/46YvTuKiPBUu5KP9818J2F) | [can't love \(feat\. HAN \(Stray Kids\)\)](https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm) | 3:15 |
+| 3 | [The Market Remix \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/1OsVaHQgD0x4q8byl0yXcF) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [100Bandplan](https://open.spotify.com/artist/54gXMsMsoa0quu4bwTms8v) | [The Market Remix \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/7bg5wEjbiAcVKmpixEfmrx) | 3:27 |
 | 4 | [Woman I Am](https://open.spotify.com/track/7JDJimCnfNpiReuMNPXIVJ) | [Skye Newman](https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M) | [Woman I Am](https://open.spotify.com/album/2sgEblpbAegLtRuCpHJl70) | 3:31 |
 | 5 | [ทนอีกนิด \(feat\. KHEM FREEHAND\)](https://open.spotify.com/track/6XARn0Eq1mOQZmuAArPNA6) | [GOODMOOD](https://open.spotify.com/artist/2obSYixUts1MEx2lJfNTCJ), [KHEM FREEHAND](https://open.spotify.com/artist/5QkPxDQTObq1U2uSfpwhhN) | [ทนอีกนิด \(feat\. KHEM FREEHAND\)](https://open.spotify.com/album/54cxKQb85yrv96YnG6G8wI) | 4:08 |
 | 6 | [Bhool](https://open.spotify.com/track/1XTijOjVgekZjRXwgJ2VSE) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Bhool](https://open.spotify.com/album/4MIPkmbrYvZqLdzLwaQRF9) | 4:04 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 13 | [要還](https://open.spotify.com/track/0htSMEYzCEqaVedtTUYuCt) | [CONSTANCE](https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP) | [要還](https://open.spotify.com/album/0VuUCTaVoxR1HWIfRQLBai) | 3:34 |
 | 14 | [cuídame de mi](https://open.spotify.com/track/3rHnzhfozKEQ8p414MPW9F) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:23 |
 | 15 | [Vekhi Jaava](https://open.spotify.com/track/6WwWLn22expKNHxawIo2Qn) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Daaku](https://open.spotify.com/artist/0Gk0DXsojuXvKXROsCbO0e) | [Vekhi Jaava](https://open.spotify.com/album/1YphBK2DQ3mtLoyIAwAH21) | 2:01 |
-| 16 | [clear blue!](https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [is anybody home!?](https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX) | 4:17 |
-| 17 | [SAJGON](https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [SAJGON](https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw) | 2:00 |
+| 16 | [SAJGON](https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [SAJGON](https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw) | 2:00 |
+| 17 | [clear blue!](https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [is anybody home!?](https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX) | 4:17 |
 | 18 | [Porteira Fechada \- Ao Vivo](https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx) | [Bruna Lipiani](https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK) | [Barzin, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig) | 2:58 |
 | 19 | [nos keremos tanto](https://open.spotify.com/track/3DrkXhBUf9p5vftXG0E1mS) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:33 |
 | 20 | [藍染](https://open.spotify.com/track/4dMSlzMPadND88uh7zn0q6) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [Unveilings](https://open.spotify.com/album/7uv5MHIeUv0U9v0FkLIwV5) | 3:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,974 likes - 140 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,996 likes - 140 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65caF1CvtIN.md) - [plain]
 | 139 | [Last Dance](https://open.spotify.com/track/3eCueoiyNs7xUYqX05IEoy) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism](https://open.spotify.com/album/3kHd7wS71L5WVLzkz7O8yU) | 3:09 |
 | 140 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 |
 
-Snapshot ID: `AAAAAJkavjqRKHrFRdxQjzVcYEa6nQWp`
+Snapshot ID: `AAAAAIaGiXrGRz0nKsGCF4x7df/pNKxK`

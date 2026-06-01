@@ -7409,6 +7409,24 @@
     },
     {
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/334wq5LsvTbKOIauntarEf"
+      },
+      "artists": [
+        {
+          "name": "Yo-Sea",
+          "url": "https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw"
+        }
+      ],
+      "date_added": "2026-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/4CZdaN3oZZrWaYao4kU9cx"
+    },
+    {
+      "album": {
         "name": "FOREVER",
         "url": "https://open.spotify.com/album/6VARq97kNwGMDwNOJdAfHv"
       },
@@ -34566,7 +34584,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 206107,
       "name": "\u98df\u5353",
       "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"

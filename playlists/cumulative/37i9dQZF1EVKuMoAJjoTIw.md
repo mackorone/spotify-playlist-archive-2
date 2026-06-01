@@ -2,7 +2,7 @@
 
 ### [Sad Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIVNN1WQoxAb6>Lady Gaga</a>, <a href=spotify:playlist:37i9dQZF1EIV630wDjArgt>P!nk</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIUY5V9mnUM6w>Junior H</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIXWjKL8vlIdd>The Script</a> and more
 
 1,022 songs - 2 day 13 hr 34 min
 
@@ -62,7 +62,7 @@
 | [Alone](https://open.spotify.com/track/50OPOdJbRx9iCJXGultmUf) | [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z), [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [Alone](https://open.spotify.com/album/4OxTuWflyabL6kbYj6Oiip) | 2:40 | 2022-11-30 | 2024-01-20 |
 | [ALONE, PART 3](https://open.spotify.com/track/2oe6dDthgthqUkfL3czpEd) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 1:49 | 2023-01-03 | 2023-08-28 |
 | [Already Gone](https://open.spotify.com/track/5zCunX8URvLoBHlg1Fnjv6) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Covers, Vol\. 2](https://open.spotify.com/album/0UIIvTTWNB3gRQWFoxoEDh) | 4:03 | 2022-12-02 | 2024-04-16 |
-| [Always Remember Us This Way](https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:30 | 2026-04-02 |  |
+| [Always Remember Us This Way](https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:30 | 2026-04-02 | 2026-06-01 |
 | [Aléjate de Mí](https://open.spotify.com/track/15AbuFJdFrbINydSMSqVhV) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Dejarte De Amar](https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6) | 4:18 | 2023-12-16 | 2024-02-02 |
 | [AMARTE DUELE](https://open.spotify.com/track/1lJ5l1ZngiPnU8ppb3Bz1Z) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [AMAR TE DUELE](https://open.spotify.com/album/5nYI4FLiWm1kwCKkwbX2BL) | 3:39 | 2026-03-12 | 2026-04-09 |
 | [Amorfoda](https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Amorfoda](https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg) | 2:33 | 2026-02-27 | 2026-04-30 |
@@ -88,7 +88,7 @@
 | [Atención](https://open.spotify.com/track/51sN3VDJBVmKJVgp0trc7M) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 4:13 | 2026-04-13 | 2026-04-14 |
 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2022-11-30 | 2025-10-11 |
 | [Au Revoir](https://open.spotify.com/track/4HkRGYJYn1Y99uXpqTyOI6) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Au Revoir](https://open.spotify.com/album/3PE0mVKw3fqzBxS1mZBI9Z) | 2:29 | 2025-09-04 | 2025-09-05 |
-| [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2025-10-31 | 2026-05-26 |
+| [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2025-10-31 |  |
 | [Awel Kol Haga](https://open.spotify.com/track/0z7T5qNnbWZ4zDL0vNWXlO) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Meaddy El Nas](https://open.spotify.com/album/1mrzsRg8FgZKlB0LQl0IAr) | 4:41 | 2026-05-03 |  |
 | [Aşk Laftan Anlamazki](https://open.spotify.com/track/6ISpHcsG1LZMI2EyvzgW5P) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Haberi Olsun \(New version\)](https://open.spotify.com/album/34wbIj7ZDbZMOsoNQIIkHW) | 4:39 | 2025-08-29 | 2025-08-30 |
 | [Baby You're Worth It](https://open.spotify.com/track/75SW8IItf7yy1VejSLtv9W) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF) | [Baby You're Worth It](https://open.spotify.com/album/62r72iOYRvaKELSijiyWYX) | 2:10 | 2022-12-01 | 2024-04-19 |
@@ -639,7 +639,7 @@
 | [No Time To Die](https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [No Time To Die](https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad) | 4:02 | 2023-07-11 | 2024-01-17 |
 | [No\. 1 Party Anthem](https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:03 | 2025-09-11 | 2026-02-06 |
 | [Nobody Cares](https://open.spotify.com/track/4l2soLCGAoYvSKGyqFtsbJ) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF) | [Nobody Cares](https://open.spotify.com/album/5d28vbmvMndrlHpdaPJZwZ) | 2:55 | 2022-11-29 | 2024-04-19 |
-| [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2026-05-01 | 2026-05-09 |
+| [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2026-05-01 |  |
 | [NOCHES FRÍAS](https://open.spotify.com/track/4YVLgx6LURPo1VNeaqBT5x) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:52 | 2026-04-13 | 2026-05-03 |
 | [Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G) | [wifiskeleton](https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62), [i wanna be a jack\-o\-lantern](https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:30 | 2025-08-16 | 2026-02-21 |
 | [Norman fucking Rockwell](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:08 | 2023-07-24 | 2023-07-25 |
@@ -840,7 +840,7 @@
 | [Tak Kan Hilang](https://open.spotify.com/track/1USA6DXJ1qsucoKnDu4vnu) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tak Kan Hilang](https://open.spotify.com/album/6JmBf13wUd3kJEdoXgbZy5) | 4:01 | 2025-08-16 | 2026-02-27 |
 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 | 2023-07-18 | 2025-12-03 |
 | [Tak Selalu Memiliki \- Ipar Adalah Maut Original Soundtrack](https://open.spotify.com/track/778yZPIEqLgL4qSi2zUh9F) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Melangkah](https://open.spotify.com/album/2y28ojd9lBvtJjgoGgCLov) | 4:20 | 2026-02-27 | 2026-03-12 |
-| [Take Me To Church](https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 4:01 | 2026-03-05 |  |
+| [Take Me To Church](https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 4:01 | 2026-03-05 | 2026-06-01 |
 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 | 2024-01-15 | 2024-04-19 |
 | [Talking to the Moon](https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:37 | 2022-12-01 | 2026-05-12 |
 | [Tanpa Cinta](https://open.spotify.com/track/0qjuyXWrksQxIRntqz9ZJV) | [Yovie & Nuno](https://open.spotify.com/artist/3DHOtJqv0Bw65ENlK4FiSF) | [Still The One](https://open.spotify.com/album/2KZ89EkUZMZMuHuDdi3VNN) | 4:16 | 2025-08-16 | 2026-02-27 |

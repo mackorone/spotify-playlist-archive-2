@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 30853,
+  "num_followers": 30856,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAC/yKKOioQ+v8BEjFOYcwam",
+  "snapshot_id": "ahoogAAAAAB2ZeFPxh0yxJRVpIzUFzji",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Man [Expanded]",
-        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 288600,
-      "name": "If That's What It Takes",
-      "url": "https://open.spotify.com/track/1NPM349VjkD7ooJ6TIFbYH"
+      "duration_ms": 278160,
+      "name": "Anything For You - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2QUeoJUK5KYn6P6medGcgM"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 288600,
+      "name": "If That's What It Takes",
+      "url": "https://open.spotify.com/track/1NPM349VjkD7ooJ6TIFbYH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bump Ahead [Expanded]",
         "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 253480,
       "name": "Colorado Bulldog",
       "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mr. Big [Expanded]",
-        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 278160,
-      "name": "Anything For You - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/2QUeoJUK5KYn6P6medGcgM"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "The Whole World's Gonna Know",
-      "url": "https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lean Into It [Expanded]",
         "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 253266,
       "name": "CDFF-Lucky This Time",
       "url": "https://open.spotify.com/track/0HVMgdDyhr4pwNqrVh1TWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "The Whole World's Gonna Know",
+      "url": "https://open.spotify.com/track/2NSdCWlOUgny6uYM8JT47v"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 222506,
-      "name": "Strike Like Lightning",
-      "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
+      "duration_ms": 239173,
+      "name": "Road to Ruin",
+      "url": "https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7uV3SQQ8UOlvZOnEh1E8xi"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 239173,
-      "name": "Road to Ruin",
-      "url": "https://open.spotify.com/track/2mkrQ6styM2orpDSCTmfm8"
+      "duration_ms": 222506,
+      "name": "Strike Like Lightning",
+      "url": "https://open.spotify.com/track/58LtaOiGBPEeVbJUUxXFRE"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Over It",
-        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
+        "name": "Live From The Living Room",
+        "url": "https://open.spotify.com/album/59xrZMtRGj46AFad07qjLS"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 252520,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/4JDD3UYWUKvYX5j1UwSg5d"
+      "duration_ms": 303960,
+      "name": "Stranger In My Life",
+      "url": "https://open.spotify.com/track/25Ft3uRiRsbvnsrF9vOJXv"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From The Living Room",
-        "url": "https://open.spotify.com/album/59xrZMtRGj46AFad07qjLS"
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 303960,
-      "name": "Stranger In My Life",
-      "url": "https://open.spotify.com/track/25Ft3uRiRsbvnsrF9vOJXv"
+      "duration_ms": 252520,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/4JDD3UYWUKvYX5j1UwSg5d"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big (2023 Remastered)",
-        "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
+        "name": "...The Stories We Could Tell",
+        "url": "https://open.spotify.com/album/7n9ucIrj2GIE0VpLSU8Wpe"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 295472,
-      "name": "Had Enough - 2023 Remastered",
-      "url": "https://open.spotify.com/track/4bdJBbE17wBF9BRnaodYpk"
+      "duration_ms": 259293,
+      "name": "Just Let Your Heart Decide",
+      "url": "https://open.spotify.com/track/0kHY2RwiRyOvL0WX9C7Brn"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...The Stories We Could Tell",
-        "url": "https://open.spotify.com/album/7n9ucIrj2GIE0VpLSU8Wpe"
+        "name": "Mr. Big (2023 Remastered)",
+        "url": "https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 259293,
-      "name": "Just Let Your Heart Decide",
-      "url": "https://open.spotify.com/track/0kHY2RwiRyOvL0WX9C7Brn"
+      "duration_ms": 295472,
+      "name": "Had Enough - 2023 Remastered",
+      "url": "https://open.spotify.com/track/4bdJBbE17wBF9BRnaodYpk"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actual Size",
-        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 292026,
-      "name": "Lost In America",
-      "url": "https://open.spotify.com/track/3JG9t9qhTYktLGEA3UXZYr"
+      "duration_ms": 251413,
+      "name": "Electrified",
+      "url": "https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Over It",
-        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 251413,
-      "name": "Electrified",
-      "url": "https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF"
+      "duration_ms": 292026,
+      "name": "Lost In America",
+      "url": "https://open.spotify.com/track/3JG9t9qhTYktLGEA3UXZYr"
     },
     {
       "added_at": null,

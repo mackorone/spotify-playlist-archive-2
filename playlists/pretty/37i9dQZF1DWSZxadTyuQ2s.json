@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover:  Blaqbonez & Asake ",
-  "num_followers": 36331,
+  "num_followers": 36427,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -51,26 +51,6 @@
     {
       "added_at": "2026-05-29 00:01:45",
       "album": {
-        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 213241,
-      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
-    },
-    {
-      "added_at": "2026-05-29 00:01:45",
-      "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
+    },
+    {
+      "added_at": "2026-05-29 00:01:45",
+      "album": {
+        "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 213241,
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
     },
     {
       "added_at": "2026-05-29 00:01:45",
@@ -315,26 +315,6 @@
     {
       "added_at": "2026-05-29 00:01:45",
       "album": {
-        "name": "WORSHIP",
-        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 163055,
-      "name": "WORSHIP",
-      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
-    },
-    {
-      "added_at": "2026-05-29 00:01:45",
-      "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
+    },
+    {
+      "added_at": "2026-05-29 00:01:45",
+      "album": {
+        "name": "WORSHIP",
+        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "duration_ms": 163055,
+      "name": "WORSHIP",
+      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
     },
     {
       "added_at": "2026-05-29 00:01:45",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-05-29 00:01:45",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+    },
+    {
+      "added_at": "2026-05-29 00:01:45",
+      "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 148550,
       "name": "Getting Paid \u200b(f\u200beat\u200b. Asake, Wizkid, Skillibeng\u200b)",
       "url": "https://open.spotify.com/track/1HJr3tp2LIrvXFexwiyn7s"
-    },
-    {
-      "added_at": "2026-05-29 00:01:45",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     },
     {
       "added_at": "2026-05-29 00:01:45",
@@ -899,6 +899,30 @@
     {
       "added_at": "2026-05-29 00:01:45",
       "album": {
+        "name": "POPULAIR",
+        "url": "https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj"
+      },
+      "artists": [
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "POPULAIR",
+      "url": "https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f"
+    },
+    {
+      "added_at": "2026-05-29 00:01:45",
+      "album": {
         "name": "you",
         "url": "https://open.spotify.com/album/4ewH5bNprFllcPxYmz43CR"
       },
@@ -963,6 +987,22 @@
     {
       "added_at": "2026-05-29 00:01:45",
       "album": {
+        "name": "HateLove",
+        "url": "https://open.spotify.com/album/1D43Bu7egbBwd6wNhsdL8x"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Ma bella",
+      "url": "https://open.spotify.com/track/3Sp1CoECEKOBa2zdt8Cfil"
+    },
+    {
+      "added_at": "2026-05-29 00:01:45",
+      "album": {
         "name": "99 (feat. Daecolm)",
         "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
       },
@@ -991,46 +1031,6 @@
       "duration_ms": 248832,
       "name": "99 (feat. Daecolm)",
       "url": "https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1"
-    },
-    {
-      "added_at": "2026-05-29 00:01:45",
-      "album": {
-        "name": "HateLove",
-        "url": "https://open.spotify.com/album/1D43Bu7egbBwd6wNhsdL8x"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Ma bella",
-      "url": "https://open.spotify.com/track/3Sp1CoECEKOBa2zdt8Cfil"
-    },
-    {
-      "added_at": "2026-05-29 00:01:45",
-      "album": {
-        "name": "POPULAIR",
-        "url": "https://open.spotify.com/album/5XIEGdAU9LWEL8Nqjos6bj"
-      },
-      "artists": [
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "POPULAIR",
-      "url": "https://open.spotify.com/track/4y31VcNe2CESLzUZ7vQN7f"
     },
     {
       "added_at": "2026-05-29 00:01:45",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-05-29 00:01:45",
       "album": {
-        "name": "HIM",
-        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 202547,
-      "name": "HIM (feat. Gunna)",
-      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
-    },
-    {
-      "added_at": "2026-05-29 00:01:45",
-      "album": {
         "name": "I'M OK",
         "url": "https://open.spotify.com/album/76l0XFIFlbBpMhYHg5pgOZ"
       },
@@ -1279,6 +1259,26 @@
     {
       "added_at": "2026-05-29 00:01:45",
       "album": {
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/22RwSA5nTQT9t0icR9ZwWV"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 202547,
+      "name": "HIM (feat. Gunna)",
+      "url": "https://open.spotify.com/track/3YaLrZQLOggK3fPxUAihUW"
+    },
+    {
+      "added_at": "2026-05-29 00:01:45",
+      "album": {
         "name": "INDUSTRY MACHINE",
         "url": "https://open.spotify.com/album/6jqvqsLMnDQc1iRNkLwxrL"
       },
@@ -1291,26 +1291,6 @@
       "duration_ms": 184821,
       "name": "INDUSTRY MACHINE",
       "url": "https://open.spotify.com/track/3wxFGa444tOpit0dsToPd6"
-    },
-    {
-      "added_at": "2026-05-29 00:01:45",
-      "album": {
-        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
-        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
-      },
-      "artists": [
-        {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
-        },
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "Look To You (feat. Llona)",
-      "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
     },
     {
       "added_at": "2026-05-29 00:01:45",
@@ -1331,6 +1311,26 @@
       "duration_ms": 151024,
       "name": "NWANGOLO",
       "url": "https://open.spotify.com/track/0JHiAVySqpLE1RpBMkZnau"
+    },
+    {
+      "added_at": "2026-05-29 00:01:45",
+      "album": {
+        "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
+        "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
+      },
+      "artists": [
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        },
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "Look To You (feat. Llona)",
+      "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
     },
     {
       "added_at": "2026-05-29 00:01:45",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2026-05-29 00:01:45",
       "album": {
-        "name": "Juvie",
-        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 176975,
-      "name": "\u2060State Of My Heart",
-      "url": "https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5"
-    },
-    {
-      "added_at": "2026-05-29 00:01:45",
-      "album": {
         "name": "BlownBoy RU",
         "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
       },
@@ -1515,22 +1495,22 @@
     {
       "added_at": "2026-05-29 00:01:45",
       "album": {
-        "name": "Fala",
-        "url": "https://open.spotify.com/album/6LFMWLz83925x392Lp8YUq"
+        "name": "Juvie",
+        "url": "https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC"
       },
       "artists": [
         {
-          "name": "Vicky R",
-          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         },
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
         }
       ],
-      "duration_ms": 197680,
-      "name": "Fala",
-      "url": "https://open.spotify.com/track/5yxVXkeP45nxmff0uDac67"
+      "duration_ms": 176975,
+      "name": "\u2060State Of My Heart",
+      "url": "https://open.spotify.com/track/0bvkdVZKWIZGPT0IPwxfZ5"
     },
     {
       "added_at": "2026-05-29 00:01:45",
@@ -1547,6 +1527,26 @@
       "duration_ms": 172053,
       "name": "COMMAS",
       "url": "https://open.spotify.com/track/1RVBT05e3P6vtziIXxTfZB"
+    },
+    {
+      "added_at": "2026-05-29 00:01:45",
+      "album": {
+        "name": "Fala",
+        "url": "https://open.spotify.com/album/6LFMWLz83925x392Lp8YUq"
+      },
+      "artists": [
+        {
+          "name": "Vicky R",
+          "url": "https://open.spotify.com/artist/468tlC6QAKEJ4u0jndX9o0"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 197680,
+      "name": "Fala",
+      "url": "https://open.spotify.com/track/5yxVXkeP45nxmff0uDac67"
     },
     {
       "added_at": "2026-05-29 00:01:45",

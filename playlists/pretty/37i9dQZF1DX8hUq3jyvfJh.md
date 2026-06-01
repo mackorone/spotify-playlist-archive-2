@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:3f5VCwd57gZsqMad28jyLV">Maria Bethânia</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,677 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,739 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 21 | [Eternamente](https://open.spotify.com/track/3Ez01JZkWXupNqWLBwhGme) | [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Slap Sessions: Melly \(Ao Vivo\)](https://open.spotify.com/album/4IOY6NKMG3itD8WIW8rpgn) | 2:46 |
 | 22 | [Outra Ladeira](https://open.spotify.com/track/5gIgIaEdMyjICEGdPQMUMT) | [Letícia Fialho](https://open.spotify.com/artist/31ZnPMG6ywDdaBMnn1qkpN) | [Outra Ladeira](https://open.spotify.com/album/20BXK1rBXqmb43DSFfR3Im) | 3:48 |
 | 23 | [Peito Aberto](https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Peito Aberto](https://open.spotify.com/album/3GeFk3NWlnaxB7oj4M8j0w) | 3:11 |
-| 24 | [Saudade](https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Juliana Linhares](https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof) | [Fulorá](https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v) | 3:53 |
+| 24 | [Xote Destino](https://open.spotify.com/track/6T1CDe3leBfSnWK1fvr1Bx) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Xote Destino](https://open.spotify.com/album/48k0NmZpRSAlrqgcMeFHbn) | 3:42 |
 | 25 | [Afim De Verão](https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [Afim De Verão](https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI) | 5:00 |
-| 26 | [Xote Destino](https://open.spotify.com/track/6T1CDe3leBfSnWK1fvr1Bx) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Xote Destino](https://open.spotify.com/album/48k0NmZpRSAlrqgcMeFHbn) | 3:42 |
+| 26 | [Saudade](https://open.spotify.com/track/5in3nRFCJm8bUV8Twa561Z) | [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX), [Juliana Linhares](https://open.spotify.com/artist/2TYSLpy17fec9NRzbtfsof) | [Fulorá](https://open.spotify.com/album/4QUe4PqEDYYiK21Z7Kwu3v) | 3:53 |
 | 27 | [Manha De Carnaval](https://open.spotify.com/track/1IF4NYiVd71yfaPicrYkMn) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [Black Orpheus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b2ozEvPDWvXiq98K3whfc) | 2:57 |
 | 28 | [Tatuagem](https://open.spotify.com/track/2vmXFXcr44JSrZ1MpgWLRa) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Falso Brilhante](https://open.spotify.com/album/18p3b48JyIK5XY90JmWxET) | 4:22 |
 | 29 | [Meu Poeta](https://open.spotify.com/track/5KUKKu3icCNFq4VnzxC0hH) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Ópera Grunkie](https://open.spotify.com/album/1W3vMj7OmKb8SwdiHwpHfK) | 3:43 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 34 | [MAPA MUNDI](https://open.spotify.com/track/3E17xNfbh9h3Y4YzaHzPWO) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [BEM VINDOS DE VOLTA](https://open.spotify.com/album/63IDdeh5PXr4Qvja9pKYtr) | 4:28 |
 | 35 | [Modinha Para Gabriela](https://open.spotify.com/track/5b1lbWCyBEL3u0tSmgvkUb) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Modinha Para Gabriela](https://open.spotify.com/album/584hYWVxQ6cb94MFXKWkxv) | 3:51 |
 | 36 | [Voz de Longe](https://open.spotify.com/track/3oYkFf1qzu7O2SUtPld2Th) | [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ) | [Voz de Longe](https://open.spotify.com/album/5mADYBJ2iOsAgAJOqnM7Lr) | 3:10 |
-| 37 | [Ter Filhos Fortes](https://open.spotify.com/track/53EdazlS9uRL1MTT4fsnA1) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [Ter Filhos Fortes](https://open.spotify.com/album/2yExdcx2kjImSo2CrxezZc) | 4:19 |
-| 38 | [Doce Presença](https://open.spotify.com/track/4izEvMiE7VGx7TEvbsLJ06) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn), [Cesar Camargo Mariano](https://open.spotify.com/artist/43B6M32q64TmvCjO9WAhWd) | [Voz E Suor](https://open.spotify.com/album/5kFLiVWINVn7Q5N6GVdmDI) | 4:03 |
+| 37 | [Doce Presença](https://open.spotify.com/track/4izEvMiE7VGx7TEvbsLJ06) | [Nana Caymmi](https://open.spotify.com/artist/1hQT9TlJXMBP6Dy4lExSKn), [Cesar Camargo Mariano](https://open.spotify.com/artist/43B6M32q64TmvCjO9WAhWd) | [Voz E Suor](https://open.spotify.com/album/5kFLiVWINVn7Q5N6GVdmDI) | 4:03 |
+| 38 | [Ter Filhos Fortes](https://open.spotify.com/track/53EdazlS9uRL1MTT4fsnA1) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [Ter Filhos Fortes](https://open.spotify.com/album/2yExdcx2kjImSo2CrxezZc) | 4:19 |
 | 39 | [Gerando na Alta](https://open.spotify.com/track/2VkyGDJt5GufPlriJfDkNJ) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Gerando na Alta](https://open.spotify.com/album/4BSFDWZXGcfjqteEakRbvb) | 4:08 |
 | 40 | [Louca Me Chamam \(Crazy He Call's Me\)](https://open.spotify.com/track/1PRgQsAd2MJaCKuD3bUhUz) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Caras E Bocas](https://open.spotify.com/album/73gyxoh7akWRRrv78uJC1o) | 3:29 |
 | 41 | [Voltei](https://open.spotify.com/track/6mPPoDXnKWGTXz5e7VI0s7) | [Alulu Paranhos](https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW) | [Põe Esperança Nisso](https://open.spotify.com/album/6CC7VWHHDS4sPvo9f60zNA) | 2:09 |

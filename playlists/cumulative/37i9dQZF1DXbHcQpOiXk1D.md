@@ -4,7 +4,7 @@
 
 > The best from Britain's vibrant scene\. Cover: corto.alto
 
-812 songs - 2 day 8 hr 32 min
+813 songs - 2 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,6 +595,7 @@
 | [Shades of You](https://open.spotify.com/track/2OtnmFipsJgxUPkwnMP11I) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Shades of You](https://open.spotify.com/album/7jLNLqOG6x7G8lyAEgtOFC) | 4:20 | 2021-12-17 | 2022-02-15 |
 | [Shake It](https://open.spotify.com/track/0uTmLBjVtYkSCfmg8jkbHy) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [Shake It](https://open.spotify.com/album/6rIm6bKMkWASdVVSQHD4kq) | 1:51 | 2025-01-17 | 2025-02-28 |
 | [Shaking Body](https://open.spotify.com/track/1LisJs3UsHmNKbk3O0pXtq) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [Dance, No One's Watching](https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9) | 3:12 | 2024-09-26 | 2025-04-11 |
+| [Shelter](https://open.spotify.com/track/0RkudKUCGvubwnw8yjvza9) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Shelter](https://open.spotify.com/album/1quwj92sSkORVSqtpi13tf) | 3:24 | 2026-05-28 |  |
 | [SHINE IN](https://open.spotify.com/track/6Fwf2T6bVCKNs9D7HnrQOQ) | [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [SHINE IN](https://open.spotify.com/album/4aOc1sIevjX4PBCv8p18kV) | 2:50 | 2024-09-26 | 2024-10-30 |
 | [Show Your Face](https://open.spotify.com/track/40lXitSla8hy5FCOECyCdD) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7), [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Show Your Face](https://open.spotify.com/album/5IXmgg1etXuezkK3NaH1F9) | 4:09 | 2021-12-17 | 2022-03-12 |
 | [Sicily' Box](https://open.spotify.com/track/7EdQ9Z80HAKiISr1MZABpZ) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS) | [Sicily' Box](https://open.spotify.com/album/2uuyNTiLLeSomuFh1agl6v) | 4:05 | 2022-10-28 | 2024-05-03 |
@@ -611,7 +612,7 @@
 | [Soar](https://open.spotify.com/track/7F8HGHuxgKJ6ISlbX2NJuW) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Uniri](https://open.spotify.com/artist/6MGWbyxXmoiLVcsZkapigA) | [Soar](https://open.spotify.com/album/5FLNHUP6N4lNCGbQdd6Vdu) | 2:34 | 2024-02-02 | 2024-04-13 |
 | [Soften](https://open.spotify.com/track/3X9yLXt2yAbeCwTUc6dyVU) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Soften](https://open.spotify.com/album/0bDHHs74NH4n7Ta8TwfzlP) | 4:11 | 2026-05-14 |  |
 | [Some Rain Must Fall](https://open.spotify.com/track/7bXGshtzy2q4qfndkageDQ) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Where Light Settles](https://open.spotify.com/album/12zXswD56NoDPTM8zlR9Co) | 5:50 | 2026-05-14 |  |
-| [Something Blues](https://open.spotify.com/track/4rCFwBw0zbsUZ3LYA9gqvA) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Something Blues](https://open.spotify.com/album/2hWRAC4tDLgUskaJAu8kex) | 5:07 | 2025-08-07 |  |
+| [Something Blues](https://open.spotify.com/track/4rCFwBw0zbsUZ3LYA9gqvA) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Something Blues](https://open.spotify.com/album/2hWRAC4tDLgUskaJAu8kex) | 5:07 | 2025-08-07 | 2026-06-01 |
 | [Something I Said](https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2) | 3:16 | 2022-07-28 | 2022-10-02 |
 | [Something I Said](https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Something I Said](https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R) | 3:16 | 2022-10-14 | 2024-01-13 |
 | [something will happen](https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [something will happen](https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC) | 2:59 | 2024-05-09 | 2025-03-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Błogie dźwięki na powitanie słonecznych dni 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,739 likes - 65 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,729 likes - 65 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 45 | [UNCANNY VALLEY](https://open.spotify.com/track/5CTcF00NFuaDfuwzpQBZ0I) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [HADES](https://open.spotify.com/album/7jwikgbD6e5Oht9gJzaR3l) | 3:16 |
 | 46 | [Heroine](https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Heroine](https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww) | 2:35 |
 | 47 | [The Best](https://open.spotify.com/track/5ioB3LzMIXG31NYMXV685k) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [The Best](https://open.spotify.com/album/3Jkm1bpLu02vfw8vIREcVY) | 3:48 |
-| 48 | [White Noise](https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:45 |
-| 49 | [ECHO](https://open.spotify.com/track/4Z9nSvXEBRsj10fVZAFz0x) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [ECHO](https://open.spotify.com/album/6JkirjpVFMizDMoOqAGCOg) | 2:27 |
+| 48 | [ECHO](https://open.spotify.com/track/4Z9nSvXEBRsj10fVZAFz0x) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [ECHO](https://open.spotify.com/album/6JkirjpVFMizDMoOqAGCOg) | 2:27 |
+| 49 | [White Noise](https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:45 |
 | 50 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/52m9ZMBCf6tv5ONxr81Uv0) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/album/0GagxhdItrfNoWwTI6mogx) | 3:55 |
 | 51 | [How I Get](https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY) | 3:39 |
 | 52 | [Komu miałabym powiedzieć?](https://open.spotify.com/track/6v3aVSYMUOKOoh7Ut70gJ9) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Komu miałabym powiedzieć?](https://open.spotify.com/album/7qplgpgnhZdVhVhIpEaGaI) | 2:32 |
-| 53 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 |
-| 54 | [W to mi graj](https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [W to mi graj](https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc) | 3:09 |
+| 53 | [W to mi graj](https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [W to mi graj](https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc) | 3:09 |
+| 54 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 |
 | 55 | [Pamiętnik](https://open.spotify.com/track/6gKig3A8E0xpGDQNY858On) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Pamiętnik](https://open.spotify.com/album/5cxQxKUtuwTEiX2ehsNPzY) | 3:11 |
 | 56 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 |
 | 57 | [Decyzje](https://open.spotify.com/track/4LMQdvzEt5z4D14Rr2frwH) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Decyzje](https://open.spotify.com/album/6uYOJ4jwogpsfI4q80MS65) | 3:13 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 59 | [Nie ucieknę](https://open.spotify.com/track/18qEhJZR4hnkq9p3duOErV) | [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Nie ucieknę](https://open.spotify.com/album/3FNrAC8JpdyitVzVTmGOxk) | 2:57 |
 | 60 | [Door](https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone Deluxe](https://open.spotify.com/album/18BxfsH93SUb77MlISUt60) | 3:54 |
 | 61 | [Anioły \(Pojedynek\)](https://open.spotify.com/track/2FPk6E4BfCsdJ4esqT6bVv) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Julia Pietrucha](https://open.spotify.com/artist/5gSWboNBgJZ060m1r30Xmg) | [Anioły \(Pojedynek\)](https://open.spotify.com/album/6Y1mNv6Zlfkh8U7H2jabST) | 4:42 |
-| 62 | [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 |
-| 63 | [Miyazaki](https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Miyazaki](https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9) | 3:24 |
+| 62 | [Miyazaki](https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Miyazaki](https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9) | 3:24 |
+| 63 | [Trying Times](https://open.spotify.com/track/52T8TTMESX21406wvTdQDY) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Trying Times](https://open.spotify.com/album/35GCADa3vYa6kCYhxODmQE) | 4:33 |
 | 64 | [Feelin' Myself](https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Feelin' Myself](https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56) | 2:45 |
 | 65 | [Cruel World](https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ) | 3:26 |
 

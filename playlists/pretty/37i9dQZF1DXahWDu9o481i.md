@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Momo Boyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,242 likes - 66 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,240 likes - 66 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 31 | [esperando que vuelvas](https://open.spotify.com/track/7hOpmWDACdtAeuksK2BseS) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [esperando que vuelvas](https://open.spotify.com/album/1vqUjUxGNccr4r4kgFTd7M) | 3:36 |
 | 32 | [Tu Corazón \(Your Heart\)](https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Tu Corazón \(Your Heart\)](https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX) | 3:00 |
 | 33 | [Why Am I Here](https://open.spotify.com/track/5BaG5aMYeyOCfix0eTJXKz) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [Sensitive to the room](https://open.spotify.com/album/2HD4BmFejncyUP0fhoes6Q) | 3:17 |
-| 34 | [American Dream](https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [American Dream](https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s) | 4:27 |
-| 35 | [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 |
-| 36 | [Day After Day \(feat\. Lori Perry\)](https://open.spotify.com/track/4deVP1zpdGKQs5QRqTvE3i) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [Lori Perry](https://open.spotify.com/artist/5D4g8u0UfgSFcisAei0qPI) | [Day After Day \(feat\. Lori Perry\)](https://open.spotify.com/album/5SR4FxTHW3yTLbFZZmO1uP) | 2:43 |
+| 34 | [Day After Day \(feat\. Lori Perry\)](https://open.spotify.com/track/4deVP1zpdGKQs5QRqTvE3i) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [Lori Perry](https://open.spotify.com/artist/5D4g8u0UfgSFcisAei0qPI) | [Day After Day \(feat\. Lori Perry\)](https://open.spotify.com/album/5SR4FxTHW3yTLbFZZmO1uP) | 2:43 |
+| 35 | [American Dream](https://open.spotify.com/track/2hEtEN8dt6Hj2djG33DT6e) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [American Dream](https://open.spotify.com/album/45NVjCLXsyk3X8gxD5d18s) | 4:27 |
+| 36 | [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 |
 | 37 | [CHRÖME \(feat\. slayr\)](https://open.spotify.com/track/13bMRD7SZJCqbx4fSGHK0Y) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [CHRÖME \(feat\. slayr\)](https://open.spotify.com/album/3qJ91i2zamDYcJ91J7PNHs) | 3:42 |
 | 38 | [The Old Rugged Cross \- Spotify Singles](https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [The Old Rugged Cross \(Spotify Singles\)](https://open.spotify.com/album/6PPQduXeIf3ShWuJJGOg58) | 3:08 |
 | 39 | [SKIN CARE](https://open.spotify.com/track/5w5l2JFEJNAGEf3nR8iaZY) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [SKIN CARE](https://open.spotify.com/album/6TuYkWjoeAaCZvTxdXiyPP) | 2:10 |

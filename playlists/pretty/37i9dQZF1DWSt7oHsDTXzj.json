@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 272852,
+  "num_followers": 272835,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -575,18 +575,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/093RBGEAg4aKxxuAMrTAmz"
+        "name": "Ain't Christmas (with Laufey)",
+        "url": "https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/1j2CmnmtAdGBjuvnFj6UiM"
+      "duration_ms": 189088,
+      "name": "Ain't Christmas (with Laufey)",
+      "url": "https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -607,22 +611,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Ain't Christmas (with Laufey)",
-        "url": "https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL"
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/093RBGEAg4aKxxuAMrTAmz"
       },
       "artists": [
         {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 189088,
-      "name": "Ain't Christmas (with Laufey)",
-      "url": "https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN"
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/1j2CmnmtAdGBjuvnFj6UiM"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 128737,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "We Should Be Together",
         "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 211946,
       "name": "We Should Be Together",
       "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "December '04",
-        "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
-      },
-      "artists": [
-        {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
-        }
-      ],
-      "duration_ms": 206798,
-      "name": "December '04",
-      "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Carol Of The Bells",
         "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 193379,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "December '04",
+        "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
+      },
+      "artists": [
+        {
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "duration_ms": 206798,
+      "name": "December '04",
+      "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 152426,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "A Christmas Album",
         "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 139600,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 152426,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
     }
   ],
   "unique_name": "Indie Christmas",

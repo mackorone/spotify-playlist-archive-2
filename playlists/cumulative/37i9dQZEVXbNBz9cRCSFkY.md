@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,194 songs - 3 day 0 hr 12 min
+1,195 songs - 3 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Aura](https://open.spotify.com/track/4dnk82CNAgQvINdXSGkieH) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Andalucia](https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh) | 5:18 | 2025-11-07 | 2025-11-13 |
 | [Autumn \(Reimagined\)](https://open.spotify.com/track/2NP0WCHeIjBi3oC7MruePl) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Autumn \(Reimagined\)](https://open.spotify.com/album/4jKfiwrpklbqDOrwiUBsLv) | 3:56 | 2026-05-13 | 2026-05-21 |
 | [Aya](https://open.spotify.com/track/6iwojThk8NJYqaN9LUZSON) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Aya](https://open.spotify.com/album/3H0LADPurgxZ61MXge7EpR) | 3:50 | 2025-03-14 | 2025-06-09 |
+| [Ayoko Maging Kaibigan](https://open.spotify.com/track/6AIACiACh45NhUyAWKwqql) | [kiddotin](https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL) | [Ayoko Maging Kaibigan](https://open.spotify.com/album/4Ys1gxmMQim8Zay3p9UNhf) | 2:46 | 2026-05-31 |  |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2023-11-22 | 2024-03-08 |
 | [B.A.D.](https://open.spotify.com/track/1KZPOTmqASPbMc7WIqNdyS) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/4TdIVLLS4os2X4r2p6vTr5) | 2:50 | 2023-11-18 | 2023-11-23 |
 | [B4 I LET YOU GO](https://open.spotify.com/track/3ubEHwfx9d54LTme8Ft8gp) | [Ryouji](https://open.spotify.com/artist/0LxWnRbSp4xZBKzNYjc3V4), [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [B4 I LET YOU GO](https://open.spotify.com/album/7JYV3pHS2CmhJmnRI9ga3F) | 3:15 | 2025-02-26 | 2025-08-12 |
@@ -172,7 +173,7 @@
 | [Breathe \(feat\. Colbie Caillat\) \(Taylor’s Version\)](https://open.spotify.com/track/7HC7R2D8WjXVcUHJyEGjRs) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:23 | 2021-04-11 | 2021-04-17 |
 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 | 2021-05-23 | 2021-06-27 |
 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 | 2021-05-16 | 2021-09-05 |
-| [Bulong](https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:30 | 2024-12-27 |  |
+| [Bulong](https://open.spotify.com/track/5rV7xueHNNXaZqOLroaUta) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:30 | 2024-12-27 | 2026-06-01 |
 | [Burgis](https://open.spotify.com/track/3O5P2ZDUwExzcIdZkJwFq1) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Burgis](https://open.spotify.com/album/3rucLazJL4NKIiF6DBp5Fa) | 3:29 | 2024-04-02 | 2025-02-10 |
 | [Burnout](https://open.spotify.com/track/6Srj2NoAIGgBFORh6r5Whs) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Sa Wakas](https://open.spotify.com/album/2gJJfKzy0fHjhy8AR8lhym) | 3:29 | 2025-10-10 |  |
 | [Burnout](https://open.spotify.com/track/0ZCCbW4Aym7b5QdQUKfVdv) | [Sugarfree](https://open.spotify.com/artist/5I3uAFbAOhuVSKdrcG5mgy) | [Sa Wakas](https://open.spotify.com/album/5TgWcKNeogXr2cPNDcXZRb) | 3:30 | 2025-01-08 | 2025-10-05 |
@@ -779,7 +780,7 @@
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-11-04 | 2021-11-13 |
 | [Pa\-umaga](https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Pa\-umaga](https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE) | 3:09 | 2023-05-07 | 2024-06-03 |
 | [Pag\-Ibig ay Kanibalismo II](https://open.spotify.com/track/410fyfFghBsxNu45LiNJ24) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Pag\-Ibig ay Kanibalismo II](https://open.spotify.com/album/2T523YMzbCSM86LYZDCZLI) | 3:27 | 2025-10-27 |  |
-| [Pag\-ibig ng Ikaw at Ako](https://open.spotify.com/track/2DABJpDDPUaCWqZ9nMgkw4) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Himig at Pag\-ibig](https://open.spotify.com/album/4AxnZ4xJ266tS2n435qdMU) | 4:40 | 2026-01-05 |  |
+| [Pag\-ibig ng Ikaw at Ako](https://open.spotify.com/track/2DABJpDDPUaCWqZ9nMgkw4) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Himig at Pag\-ibig](https://open.spotify.com/album/4AxnZ4xJ266tS2n435qdMU) | 4:40 | 2026-01-05 | 2026-06-01 |
 | [Pagsamo](https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy) | 4:57 | 2022-03-09 | 2026-03-20 |
 | [Pagsamo](https://open.spotify.com/track/34YfLWuoxLEcvJQNxdI9P2) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/2a4tsCtI450vuuBKJ3nSP2) | 4:57 | 2021-10-04 | 2022-03-10 |
 | [Pahina](https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 4:09 | 2025-09-16 |  |
@@ -1003,7 +1004,7 @@
 | [Tahanan](https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Tahanan](https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5) | 3:15 | 2025-11-27 |  |
 | [Take A Chance With Me](https://open.spotify.com/track/0x7PmByJWVXdeipevd6KZS) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t) | 5:03 | 2023-11-10 | 2024-04-21 |
 | [Take A Chance With Me](https://open.spotify.com/track/21acb66djKRlDPJOXRBCkc) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/0Cu6JzzodKQ5Lzccubu5zj) | 5:03 | 2025-04-02 | 2025-05-18 |
-| [TAKE ALL THE LOVE](https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [TAKE ALL THE LOVE](https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb) | 3:26 | 2023-11-17 | 2026-05-31 |
+| [TAKE ALL THE LOVE](https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [TAKE ALL THE LOVE](https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb) | 3:26 | 2023-11-17 |  |
 | [Take My Breath](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 | 2021-08-18 | 2021-08-29 |
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-11 | 2021-08-18 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-10 | 2023-06-19 |

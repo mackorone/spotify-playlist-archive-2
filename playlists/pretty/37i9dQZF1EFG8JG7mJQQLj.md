@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,338 likes - 511 songs - 1 day 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,351 likes - 511 songs - 1 day 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,11 +239,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 229 | [Do It Well](https://open.spotify.com/track/2dOcfwJpfgGLcB4vPi8YXf) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Brave](https://open.spotify.com/album/7i3VnuGAGi7howNQLPRhgJ) | 3:05 |
 | 230 | [Born](https://open.spotify.com/track/797fEwjPjyNhkoQCHDkzne) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 4:25 |
 | 231 | [Keep On Dancin'](https://open.spotify.com/track/1TFfOebb7u1Dof6OXxw38S) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:46 |
-| 232 | [Wildfire](https://open.spotify.com/track/40MNdK1qPu8kDB0cSI51ds) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:19 |
-| 233 | [Hurt](https://open.spotify.com/track/6eZEuLvZDa5cQy8bX22oZT) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:41 |
+| 232 | [Hurt](https://open.spotify.com/track/6eZEuLvZDa5cQy8bX22oZT) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:41 |
+| 233 | [Wildfire](https://open.spotify.com/track/40MNdK1qPu8kDB0cSI51ds) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:19 |
 | 234 | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/track/7jnHuJ0HDcAYt7Anv77h4X) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/album/40lf12fnzCVNE6t6MV2dvA) | 3:07 |
-| 235 | [Life To Come](https://open.spotify.com/track/6jMRqEHVRC3iamsSscJlbz) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:31 |
-| 236 | [Save Me Tonight](https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Save Me Tonight](https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z) | 3:16 |
+| 235 | [Save Me Tonight](https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Save Me Tonight](https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z) | 3:16 |
+| 236 | [Life To Come](https://open.spotify.com/track/6jMRqEHVRC3iamsSscJlbz) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:31 |
 | 237 | [Sweeter](https://open.spotify.com/track/6KRpJT14N5lvLP6zo1QPoB) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Sweeter](https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j) | 3:43 |
 | 238 | [Fingertips](https://open.spotify.com/track/7FQgwxkgClQLTwEilUlscr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 4:15 |
 | 239 | [NATIVE TONGUE](https://open.spotify.com/track/4zPmVJ51QlCimfTrQIqQiV) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [NATIVE TONGUE](https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc) | 4:38 |
@@ -273,8 +273,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 263 | [Where We Are](https://open.spotify.com/track/5vQSU3pxA9atqN6zMrcTU7) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 3:57 |
 | 264 | [Hurt Me Tomorrow](https://open.spotify.com/track/3SdAoQZr0azIpNV3ogNkAd) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Country, God Or The Girl \(Deluxe\)](https://open.spotify.com/album/6b7Cs5avLSsnEnXWM9pzVB) | 3:47 |
 | 265 | [Fake Friends](https://open.spotify.com/track/6TF72mBLuUB7bsLPXETr4x) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Fake Friends](https://open.spotify.com/album/6ktJ6rOU8Rdp1d1Uj7wFpo) | 2:54 |
-| 266 | [Rescue](https://open.spotify.com/track/6WY7Q7D3BWu00Vd6EegHgr) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 2:54 |
-| 267 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 |
+| 266 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 |
+| 267 | [Rescue](https://open.spotify.com/track/6WY7Q7D3BWu00Vd6EegHgr) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 2:54 |
 | 268 | [Distance](https://open.spotify.com/track/2l3gQ8Zv1KlGqyE6B4ntPC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:00 |
 | 269 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/4dfotX3ZuHDqwbXFs6QBgy) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:15 |
 | 270 | ['Til The Dawn](https://open.spotify.com/track/6fc0E8NhqsOoXTDyudtaUb) | [Drew Sidora](https://open.spotify.com/artist/6RbIwDgAskXJEpnZJl5vnE) | [Step Up \- Original Soundtrack](https://open.spotify.com/album/02W2pKViYFgqy9JR7XpRio) | 3:09 |
@@ -282,8 +282,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 272 | [Touch](https://open.spotify.com/track/1xz905v9g71heS0BQQM9re) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch](https://open.spotify.com/album/3Ukv5qnyHMAyBoG0GOrOMU) | 3:03 |
 | 273 | [Good In Goodbye](https://open.spotify.com/track/1rDBEE2J1D9oJhtdK29jk6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:19 |
 | 274 | [Lullaby](https://open.spotify.com/track/1QijFEB8TfVgDHdBqPczo6) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:37 |
-| 275 | [Take a Bow](https://open.spotify.com/track/09CIJTmSoWTrrpIh2EUatf) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:54 |
-| 276 | [Dropkick](https://open.spotify.com/track/3epNFRifLGAHdsuLCsaVfE) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : NOW](https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL) | 2:58 |
+| 275 | [Dropkick](https://open.spotify.com/track/3epNFRifLGAHdsuLCsaVfE) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [First Howling : NOW](https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL) | 2:58 |
+| 276 | [Take a Bow](https://open.spotify.com/track/09CIJTmSoWTrrpIh2EUatf) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:54 |
 | 277 | [Lucky \- from Now You See Me: Now You Don’t](https://open.spotify.com/track/0LdfRfBLZZJrATRUpAQOUe) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Lucky \(from Now You See Me: Now You Don’t\)](https://open.spotify.com/album/3NNzw1JFbGkyNfiz9MoGcE) | 2:28 |
 | 278 | [Human](https://open.spotify.com/track/5NbplIIyJnnAPrUWeJAbQ4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My](https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m) | 3:40 |
 | 279 | [Getting Started \(Hobbs & Shaw\)](https://open.spotify.com/track/1IEH2N8txrWCakbVBy2jcY) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Fast & Furious Presents: Hobbs & Shaw \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Y1wIHHmTIqv3mnVvQNJNH) | 2:38 |
@@ -309,8 +309,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 299 | [Something's Gotta Give](https://open.spotify.com/track/1WY42ffdMgNO6q15cePW2g) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native \(Deluxe\)](https://open.spotify.com/album/7bWzSwx1PRiZjfjhaB8BjZ) | 4:51 |
 | 300 | [Say It All](https://open.spotify.com/track/57CyqjHnj1E9dNysbxLysv) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:27 |
 | 301 | [Beautiful World](https://open.spotify.com/track/69WehikArL9eByV3BFgC9A) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:01 |
-| 302 | [Revolution](https://open.spotify.com/track/6LbAhaBQ5yAifQuNIPlQsR) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 3:03 |
-| 303 | [Take Care Of You](https://open.spotify.com/track/2ExaKO7GhafvrUHOjWxjgC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:48 |
+| 302 | [Take Care Of You](https://open.spotify.com/track/2ExaKO7GhafvrUHOjWxjgC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:48 |
+| 303 | [Revolution](https://open.spotify.com/track/6LbAhaBQ5yAifQuNIPlQsR) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future + Dreams Of The Past](https://open.spotify.com/album/2dssFgPLHm6Y1mINk3JNJ8) | 3:03 |
 | 304 | [With Your Love](https://open.spotify.com/track/2HCQ2CgoxWGYr4aB8n1hxo) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:02 |
 | 305 | [Can't Help](https://open.spotify.com/track/7qCmv4SsXVt7I415eneHVk) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Overnight](https://open.spotify.com/album/3s9li4RKJ1pcjcbFQftbg5) | 3:23 |
 | 306 | [\#1Nite \(One Night\)](https://open.spotify.com/track/2iObDtZHIKtZ15kLfhK2yw) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Night Shades](https://open.spotify.com/album/5gXDrzBIzmAhiE0dNKwy0i) | 3:39 |
@@ -520,4 +520,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 510 | [Fantastic](https://open.spotify.com/track/2Qs9CZcvOzVcHFhP64eEvP) | [pupculture](https://open.spotify.com/artist/5hJodDOgnJhYazwIDUTWPH) | [Fantastic](https://open.spotify.com/album/4EVmjvtGfqzswP65AxA6hV) | 3:03 |
 | 511 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `AcS6UgAAAACSNqAr4BpurVyxKDAwlP3P`
+Snapshot ID: `AcTALgAAAAAxWWrIunsGTAvSYFiLKjL1`

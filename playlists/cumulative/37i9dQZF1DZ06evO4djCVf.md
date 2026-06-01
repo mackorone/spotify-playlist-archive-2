@@ -4,7 +4,7 @@
 
 > This is Suzan & Freek\. The essential tracks, all in one playlist.
 
-43 songs - 2 hr 16 min
+45 songs - 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Op Deze Dag \- uit Liefde Voor Muziek](https://open.spotify.com/track/2qfckSYDNIFrEWgONKHUpH) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:52 | 2025-07-20 |  |
 | [Papa](https://open.spotify.com/track/2m9KUW33lkjUji0oDCPIHl) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 3:17 | 2025-07-20 |  |
 | [Passie \- uit Liefde Voor Muziek](https://open.spotify.com/track/18J7FNm30eEK4FBtbMMrtA) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 4:11 | 2025-07-20 |  |
-| [Slapeloosheid](https://open.spotify.com/track/0gegvYa9Mexi7LPnAXN4lV) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 2:57 | 2025-07-20 |  |
+| [Slapeloosheid](https://open.spotify.com/track/0gegvYa9Mexi7LPnAXN4lV) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 2:57 | 2025-07-20 | 2026-06-01 |
+| [Slapeloosheid](https://open.spotify.com/track/5tiTVSryX1Hu09cPsNvaIR) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Slapeloosheid](https://open.spotify.com/album/2DIOF2PigIUoGJWhq9XBCG) | 2:57 | 2026-06-01 |  |
 | [Spiegelbeeld](https://open.spotify.com/track/43nBXdQvogPKHqRQEIqjeM) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Gedeeld Door Ons](https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ) | 2:48 | 2025-07-20 |  |
 | [Straks Is Het Te Laat](https://open.spotify.com/track/7EDgU3nwMkU9YesCHKz6Io) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 2:51 | 2025-07-20 |  |
 | [Vas\-y \(Ga Maar\)](https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh), [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Vas\-y \(Ga Maar\)](https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV) | 3:06 | 2025-07-20 |  |
@@ -51,5 +52,6 @@
 | [Voor Het Leven Voor Elkaar \- Uit Liefde Voor Muziek](https://open.spotify.com/track/6iYzHNhKoXZFND7NlbbkE3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 2:53 | 2025-07-20 |  |
 | [Waarom \- Uit Liefde Voor Muziek](https://open.spotify.com/track/0BqpBJqJSuWOFfZG87qSYe) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 2:42 | 2025-07-20 |  |
 | [Weg Van Jou](https://open.spotify.com/track/5WvPd0VhOqp3Mmxua6PfCd) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Dromen In Kleur](https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF) | 2:26 | 2025-07-20 |  |
+| [Zinloos](https://open.spotify.com/track/0dgmDxjOPwf3bZCDPGIuI9) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 3:03 | 2026-06-01 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

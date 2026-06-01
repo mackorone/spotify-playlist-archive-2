@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 169159,
       "name": "La Carga Fina",
       "url": "https://open.spotify.com/track/7I3Qg5hfOsJW3uWc1rH4Gj"
@@ -2442,6 +2442,28 @@
       "duration_ms": 473272,
       "name": "Mix Rom\u00e1ntico (En Vivo)",
       "url": "https://open.spotify.com/track/0BXbG3KZCoGb04giUU3Ijg"
+    },
+    {
+      "album": {
+        "name": "Monedas y Billetes",
+        "url": "https://open.spotify.com/album/0MtYJPPHndmMkuU97lWacw"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        },
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "date_added": "2026-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271534,
+      "name": "Monedas y Billetes",
+      "url": "https://open.spotify.com/track/37VFOxHDkI1eozrMrA8D5P"
     },
     {
       "album": {

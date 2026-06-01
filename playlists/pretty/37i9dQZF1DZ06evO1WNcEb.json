@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66655,
+  "num_followers": 66654,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAACoAerNrtuaMPQw24rdpqdQ",
+  "snapshot_id": "ahoogAAAAADZwQvYqSuF79F6PH72Kfc4",
   "tracks": [
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus no Controle",
-        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": " CGM - Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
-        }
-      ],
-      "duration_ms": 383490,
-      "name": "Simplesmente Te Adorar",
-      "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
         "url": "https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 338253,
       "name": "Eu Me Arrependo + Deixar a L\u00e1grima Rolar (Ao Vivo)",
       "url": "https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": " CGM - Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        }
+      ],
+      "duration_ms": 383490,
+      "name": "Simplesmente Te Adorar",
+      "url": "https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H"
     },
     {
       "added_at": null,
@@ -644,25 +644,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 380760,
-      "name": "Eu Quero Ser Santo",
-      "url": "https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 262664,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4"
+      "duration_ms": 393206,
+      "name": "\u00c9 Assim que Eu Quero Te Adorar",
+      "url": "https://open.spotify.com/track/2IwhjYtwmTtigR0gPTwleo"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
       "duration_ms": 496640,
       "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
       "url": "https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 262664,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 393206,
-      "name": "\u00c9 Assim que Eu Quero Te Adorar",
-      "url": "https://open.spotify.com/track/2IwhjYtwmTtigR0gPTwleo"
+      "duration_ms": 380760,
+      "name": "Eu Quero Ser Santo",
+      "url": "https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK"
     },
     {
       "added_at": null,
@@ -795,42 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2zyADzeYjaUwdBh7ecCpSP"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        }
-      ],
-      "duration_ms": 363600,
-      "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0P32dn0FwLXHbGn9nUxT8H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Na Casa de Deus",
-        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 254862,
-      "name": "Na Casa de Deus",
-      "url": "https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL"
       },
@@ -851,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2zyADzeYjaUwdBh7ecCpSP"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        }
+      ],
+      "duration_ms": 363600,
+      "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0P32dn0FwLXHbGn9nUxT8H"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/0iwwmZaDhcPFlBQ97Sx6jm"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 307160,
       "name": "Descanse o Seu Cora\u00e7\u00e3o + Deus \u00e9 Deus (Ao Vivo)",
       "url": "https://open.spotify.com/track/6e2AAioKth03BlAjIXiTJr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Na Casa de Deus",
+        "url": "https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 254862,
+      "name": "Na Casa de Deus",
+      "url": "https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4"
     },
     {
       "added_at": null,

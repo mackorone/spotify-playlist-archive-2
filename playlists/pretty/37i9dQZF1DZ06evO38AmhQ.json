@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAABX+BHa3fSlUYu3RjPSFBqc",
+  "snapshot_id": "ahoogAAAAACnJbO6yquFLIOeX8FA89Sd",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Man Emu",
-        "url": "https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "True Blue",
-      "url": "https://open.spotify.com/track/2MGZFL6kqsXxXojlm64BUn"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 170213,
       "name": "Home Among the Gumtrees",
       "url": "https://open.spotify.com/track/3FYDkfPfPwFREohfO9uUel"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Man Emu",
+        "url": "https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/2MGZFL6kqsXxXojlm64BUn"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chandelier of Stars",
-        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "Chandelier of Stars",
-      "url": "https://open.spotify.com/track/41dkNDpZO62SV9s8JFJ14Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J.W.'s Family Album",
         "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 191000,
       "name": "Old Man Emu",
       "url": "https://open.spotify.com/track/6CdOcSuE9dHBzPAL8obZkj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chandelier of Stars",
+        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 195426,
+      "name": "Chandelier of Stars",
+      "url": "https://open.spotify.com/track/41dkNDpZO62SV9s8JFJ14Y"
     },
     {
       "added_at": null,
@@ -303,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+        "name": "Chandelier of Stars",
+        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
       },
       "artists": [
         {
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 184906,
-      "name": "Hillbilly Road",
-      "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
+      "duration_ms": 193013,
+      "name": "Flower on the Water",
+      "url": "https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chandelier of Stars",
-        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 193013,
-      "name": "Flower on the Water",
-      "url": "https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Hell of a Career",
         "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 212680,
       "name": "I Can't Feel Those Chains Any Longer - Live",
       "url": "https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Hillbilly Road",
+      "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "A Flag of Our Own",
-      "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Looking for a Story",
         "url": "https://open.spotify.com/album/2g3QOuio9fp0dO2zAl9aQg"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 304493,
       "name": "I Was Only 19 - Live",
       "url": "https://open.spotify.com/track/2ccxbWZGAWXk7SHduGYELK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "A Flag of Our Own",
+      "url": "https://open.spotify.com/track/6dcUIKxlQKjRphBrBQo85f"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Favourite Collection",
-        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Queensland Bungalow",
-      "url": "https://open.spotify.com/track/2SRV54FM0bJbByaAWezRLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 215293,
       "name": "Campfire on the Road",
       "url": "https://open.spotify.com/track/2fEPIWh5HFnatSwBpHzKBl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "Queensland Bungalow",
+      "url": "https://open.spotify.com/track/2SRV54FM0bJbByaAWezRLL"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Favourite Collection",
-        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 199360,
-      "name": "Papa Whisky November",
-      "url": "https://open.spotify.com/track/5GHyi4qF0TEZKPhTi4CmhQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boomerang Caf\u00e9",
         "url": "https://open.spotify.com/album/3aKnYVHf49TqnydtPknQ4G"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 305000,
       "name": "The Truckies Wife",
       "url": "https://open.spotify.com/track/4MY4eaNaoe8ChfbEmWqvNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 199360,
+      "name": "Papa Whisky November",
+      "url": "https://open.spotify.com/track/5GHyi4qF0TEZKPhTi4CmhQ"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Favourite Collection",
-        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 227653,
-      "name": "Prettiest Girl in the Kimberley",
-      "url": "https://open.spotify.com/track/05tYnIXdjhCUTuBmoMTEFe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waratah St.",
         "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 158866,
       "name": "Wobbly Boot Hotel",
       "url": "https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 227653,
+      "name": "Prettiest Girl in the Kimberley",
+      "url": "https://open.spotify.com/track/05tYnIXdjhCUTuBmoMTEFe"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Favourite Collection",
-        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Hang My Hat in Queensland - Orchestra Version",
-      "url": "https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Old Farts in Caravan Parks",
         "url": "https://open.spotify.com/album/2rUqoqGrm1mDXeLbSgIBTu"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 234440,
       "name": "Old Farts in Caravan Parks",
       "url": "https://open.spotify.com/track/6xwtfMFUuqJPsfAtWcNwP5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Favourite Collection",
+        "url": "https://open.spotify.com/album/5xpwDOS9c7IYaSqqpJxFnZ"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Hang My Hat in Queensland - Orchestra Version",
+      "url": "https://open.spotify.com/track/3fXi3nvCCBN6DV6aI3blTa"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "John Williamson: In Symphony",
-        "url": "https://open.spotify.com/album/4SvEahcLlJcRGaI8qRI4DK"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "A Bushman Can't Survive",
-      "url": "https://open.spotify.com/track/52vVnJVanG26T4XMGkU1Tq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mulga to Mangoes",
         "url": "https://open.spotify.com/album/64eh3xc1oIsr9qbssOngbG"
       },
@@ -767,22 +751,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Both Sides Now",
-        "url": "https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm"
+        "name": "John Williamson: In Symphony",
+        "url": "https://open.spotify.com/album/4SvEahcLlJcRGaI8qRI4DK"
       },
       "artists": [
-        {
-          "name": "Adam Harvey",
-          "url": "https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf"
-        },
         {
           "name": "John Williamson",
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 126586,
-      "name": "King Of The Road",
-      "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
+      "duration_ms": 228186,
+      "name": "A Bushman Can't Survive",
+      "url": "https://open.spotify.com/track/52vVnJVanG26T4XMGkU1Tq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Farts in Caravan Parks",
+        "url": "https://open.spotify.com/album/2rUqoqGrm1mDXeLbSgIBTu"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 234200,
+      "name": "The Vasectomy Song",
+      "url": "https://open.spotify.com/track/1BELARDQLHoVfA0GuedJZn"
     },
     {
       "added_at": null,
@@ -803,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Farts in Caravan Parks",
-        "url": "https://open.spotify.com/album/2rUqoqGrm1mDXeLbSgIBTu"
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/35OfYsF8wYNq3OR2YJpMvm"
       },
       "artists": [
+        {
+          "name": "Adam Harvey",
+          "url": "https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf"
+        },
         {
           "name": "John Williamson",
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 234200,
-      "name": "The Vasectomy Song",
-      "url": "https://open.spotify.com/track/1BELARDQLHoVfA0GuedJZn"
+      "duration_ms": 126586,
+      "name": "King Of The Road",
+      "url": "https://open.spotify.com/track/1Ndrjyj3hZv7KuZmNLQr9U"
     }
   ],
   "unique_name": "This Is John Williamson",

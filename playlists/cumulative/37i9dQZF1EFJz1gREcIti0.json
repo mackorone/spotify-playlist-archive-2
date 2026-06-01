@@ -956,10 +956,32 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 186070,
       "name": "Fear of Missing Out",
       "url": "https://open.spotify.com/track/12nV0dBwvdQ1h6IV3GRnc1"
+    },
+    {
+      "album": {
+        "name": "Fear of Missing Out",
+        "url": "https://open.spotify.com/album/2WqBLJhpm2GEeF6wmsBKJV"
+      },
+      "artists": [
+        {
+          "name": "T:ME",
+          "url": "https://open.spotify.com/artist/0JTYV7vcKAjuhUdQlAWJ5F"
+        },
+        {
+          "name": "Spencer Stewart",
+          "url": "https://open.spotify.com/artist/1nQsezENSIztSFFNRF4dDX"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186070,
+      "name": "Fear of Missing Out",
+      "url": "https://open.spotify.com/track/7jiBMgDb5B69mxiQnUCgXV"
     },
     {
       "album": {

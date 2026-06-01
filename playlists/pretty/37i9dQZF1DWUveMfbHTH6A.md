@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">Fresh Finds</a>  tracks around the world this year\. Cover: The Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,112 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,115 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 70 | [Say Ciao](https://open.spotify.com/track/2gDCKgrPUXLfNTtwNbmE8T) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7) | [Romantica](https://open.spotify.com/album/5XCjEt4FxEgvC8qSwQShcc) | 2:57 |
 | 71 | [Hotel TV](https://open.spotify.com/track/0rmV9NKcTQ7YvvDQAOP7oL) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 4:37 |
 | 72 | [I Want It All](https://open.spotify.com/track/711qQxgXzTRc7UzXBG8MHe) | [Ullah](https://open.spotify.com/artist/6DJbA69u1iLhG6s8H9tVqP) | [I Want It All](https://open.spotify.com/album/3RJmsUsvKZyneGHeZPOYqg) | 3:36 |
-| 73 | [Play](https://open.spotify.com/track/4iE0gwQnXHc7I9bbTkzlhm) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 4:34 |
-| 74 | [QUAY VỀ](https://open.spotify.com/track/5iHWbMNn1nmJFS9UpkfOCS) | [EREN](https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq), [Bbynascar](https://open.spotify.com/artist/70xqUA23Q0PdxUOMqUCkqR), [Taki](https://open.spotify.com/artist/5Gwp3UAgzZ1v9UjuZJOst2) | [DEJA VU](https://open.spotify.com/album/6BVlsEO0l2upeO4fukXxvf) | 3:03 |
-| 75 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 |
+| 73 | [QUAY VỀ](https://open.spotify.com/track/5iHWbMNn1nmJFS9UpkfOCS) | [EREN](https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq), [Bbynascar](https://open.spotify.com/artist/70xqUA23Q0PdxUOMqUCkqR), [Taki](https://open.spotify.com/artist/5Gwp3UAgzZ1v9UjuZJOst2) | [DEJA VU](https://open.spotify.com/album/6BVlsEO0l2upeO4fukXxvf) | 3:03 |
+| 74 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 |
+| 75 | [My Endeavour](https://open.spotify.com/track/32zC4WPTjQdzXbQGvSk6rB) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Somersault Queen](https://open.spotify.com/album/6GonAkL6eg0RWND5iwfPIm) | 4:05 |
 
 Snapshot ID: `AAAAAHNoEb26yzPClN6w/R3GzcdXUzzx`

@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 30 | [Vampire Time](https://open.spotify.com/track/5yDVOzmgF2jVaz7ilmm7IY) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Florescence](https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO) | 3:20 |
 | 31 | [siren calling](https://open.spotify.com/track/0VWfoM5mnhtLMFoKofXjxF) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [oyster](https://open.spotify.com/album/6pfeou37tIaZ3cBjomd0cb) | 2:42 |
 | 32 | [by the end of the night](https://open.spotify.com/track/6DFch1r1JwISZRgkqR7NQs) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [by the end of the night](https://open.spotify.com/album/3c7NyXa96w0Ei3HmjXyzVC) | 2:58 |
-| 33 | [PSYCHO \(NAH NAH\)](https://open.spotify.com/track/4PxdYBm1nzW9dDZpFlpQl0) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 2:30 |
-| 34 | [Thought About You](https://open.spotify.com/track/2qYDfRv9ESW4mw4XNwQDiD) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Thought About You](https://open.spotify.com/album/4yk2w4x41gsrJC1b0jmJB4) | 3:24 |
+| 33 | [Thought About You](https://open.spotify.com/track/2qYDfRv9ESW4mw4XNwQDiD) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Thought About You](https://open.spotify.com/album/4yk2w4x41gsrJC1b0jmJB4) | 3:24 |
+| 34 | [PSYCHO \(NAH NAH\)](https://open.spotify.com/track/4PxdYBm1nzW9dDZpFlpQl0) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [METTENARRATIVE](https://open.spotify.com/album/7ymgtpioHT4LTk1WTGgBZM) | 2:30 |
 | 35 | [1+1](https://open.spotify.com/track/3shioGmz53I8xsFJsOeoXg) | [Just Jayne](https://open.spotify.com/artist/1ru5TgKifGAHTGB5mr4OxE) | [1+1](https://open.spotify.com/album/0ceOSqT51dibFsdXpQ492x) | 2:35 |
 | 36 | [ASK HOW I AM \(feat\. Jo’s Boyfriend\)](https://open.spotify.com/track/3DOH4dZTZbluriBGx42OwT) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8), [Jo’s Boyfriend](https://open.spotify.com/artist/2IuJdsDiwAHANMu3St7dFC) | [Down at The Res](https://open.spotify.com/album/2vGN8iGA2kWBSkqve6Cmk7) | 3:01 |
 
-Snapshot ID: `AcS6cAAAAAAJTFK7Iv6Ric84yjTumzkg`
+Snapshot ID: `AcTABgAAAAATJjFRe0ECr7pk0YGmPxdh`

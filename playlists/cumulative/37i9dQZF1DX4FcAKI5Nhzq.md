@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: AND2BLE \(앤더블\)\)
 
-1,704 songs - 3 day 19 hr 3 min
+1,705 songs - 3 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [BLUE \- WINTER Solo](https://open.spotify.com/track/58awxGcVt7bQ9bahX7yWxt) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : aeXIS LINE \- 2025 Special Digital Single](https://open.spotify.com/album/74gHwFGwl4KWA3sD8ZmAbJ) | 3:31 | 2025-11-20 | 2026-01-20 |
 | [BLUE CHECK \(Feat\. Jay Park, Jessi\) \(Prod\. by Slom\)](https://open.spotify.com/track/7aNA0yQbOYu3HKWv9zElJX) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:28 | 2023-02-06 | 2023-09-12 |
 | [Blue Hour](https://open.spotify.com/track/0JQHGu03YJikcND4SENdiW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/4usjdWBMHtZyhdqcbTrLB2) | 3:29 | 2020-10-26 | 2021-04-14 |
+| [Blue Lips](https://open.spotify.com/track/1VyXprVXZYNGWWZf1u4JfN) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [GREENGREEN](https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT) | 2:21 | 2026-05-31 |  |
 | [BLUE MOON](https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:51 | 2023-07-21 | 2023-09-02 |
 | [Blue Valentine](https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Blue Valentine](https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW) | 3:06 | 2025-10-13 | 2025-11-21 |
 | [Blue Whale](https://open.spotify.com/track/3YfmmJkPj0IH58IP1FN8Z0) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [Special Single 'Blue Whale'](https://open.spotify.com/album/4J4HRHJCwGHHutsosHWA3J) | 4:06 | 2025-10-08 | 2025-11-11 |
@@ -1414,7 +1415,7 @@
 | [Sweet Juice](https://open.spotify.com/track/2th6UWbfVz3hsSDzQAKqy2) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Cabin Fever](https://open.spotify.com/album/4uIqXyViDoMKFuuw12kYMO) | 3:12 | 2023-02-17 | 2023-04-21 |
 | [Sweet Sorrow of Mother](https://open.spotify.com/track/6s7KK3ktVQaLNjiIVxlmV2) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Sweet Sorrow of Mother](https://open.spotify.com/album/5JeeP4rSAS41KjuC7c6cvJ) | 1:06 | 2022-10-27 | 2023-01-18 |
 | [SWICY](https://open.spotify.com/track/3owGQ1rmtKXpvwHmF0S2CZ) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 2nd Mini Album 'SWICY'](https://open.spotify.com/album/3S4N457QDAQonUfQU2ACj9) | 3:03 | 2025-04-17 | 2025-07-02 |
-| [swipe\_feat\_lou\_garcia\_v1.mp3](https://open.spotify.com/track/4zsxh0FkRntWV1vA7ckhHQ) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [seriously unserious](https://open.spotify.com/album/5iK4Cr6djzpTWvuPCxCosm) | 2:04 | 2026-04-18 |  |
+| [swipe\_feat\_lou\_garcia\_v1.mp3](https://open.spotify.com/track/4zsxh0FkRntWV1vA7ckhHQ) | [HEYOON](https://open.spotify.com/artist/0lPGXQv9ckW0tLxVQTxJn1), [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [seriously unserious](https://open.spotify.com/album/5iK4Cr6djzpTWvuPCxCosm) | 2:04 | 2026-04-18 | 2026-06-01 |
 | [Switch](https://open.spotify.com/track/2muZNT1f0eVDC6qbCto2Ma) | [KIM WOO SEOK](https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2) | [3RD DESIRE \[Reve\]](https://open.spotify.com/album/0wos6TVDS8fbc7WzUgITFY) | 3:23 | 2022-03-11 | 2022-06-09 |
 | [Switch It Up \(feat\. sokodomo\) \- Prod\. Cha Cha Malone](https://open.spotify.com/track/1m1ho1lkZHAGe7rv5K8Ift) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [Switch It Up \(feat\. sokodomo\) \[Prod\. Cha Cha Malone\]](https://open.spotify.com/album/5mFDH66iKlo3pBjMSRxddK) | 3:35 | 2021-05-15 | 2021-07-14 |
 | [Switch to me \(duet with JYP\)](https://open.spotify.com/track/1LjhBbl5MvGz2rYcz5Fhgm) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [Switch to me \(duet with JYP\)](https://open.spotify.com/album/3XnNc5DV6LdZODUjV3YJVp) | 3:17 | 2020-12-31 | 2021-03-01 |

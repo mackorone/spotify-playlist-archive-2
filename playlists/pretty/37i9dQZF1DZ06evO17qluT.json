@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 106999,
+  "num_followers": 107035,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAAYjXyCUWhlNU9AmHJ0/1rD",
+  "snapshot_id": "ahoogAAAAADnuRZNLrHZqzz2dVaqMAp7",
   "tracks": [
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRODUTO DO AMBIENTE",
-        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
-        }
-      ],
-      "duration_ms": 189914,
-      "name": "Gatilhos",
-      "url": "https://open.spotify.com/track/3kPQJBcNyV2VjuksuhKtWf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FOR\u00c7A DA JUVENTUDE",
         "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
       },
@@ -607,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castelos & Ru\u00ednas",
-        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
+        "name": "PRODUTO DO AMBIENTE",
+        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
       },
       "artists": [
         {
@@ -616,13 +596,33 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
         }
       ],
-      "duration_ms": 167999,
-      "name": "Caminhos",
-      "url": "https://open.spotify.com/track/1cLYvKsm34lAPyhNKY7HZ0"
+      "duration_ms": 189914,
+      "name": "Gatilhos",
+      "url": "https://open.spotify.com/track/3kPQJBcNyV2VjuksuhKtWf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Vivendo Avan\u00e7ado - Ao Vivo",
+      "url": "https://open.spotify.com/track/5DaJJxTkFXv2ymTfiqunQd"
     },
     {
       "added_at": null,
@@ -655,22 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRXV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+        "name": "Castelos & Ru\u00ednas",
+        "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
       },
       "artists": [
         {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
-      "duration_ms": 224266,
-      "name": "Vivendo Avan\u00e7ado - Ao Vivo",
-      "url": "https://open.spotify.com/track/5DaJJxTkFXv2ymTfiqunQd"
+      "duration_ms": 167999,
+      "name": "Caminhos",
+      "url": "https://open.spotify.com/track/1cLYvKsm34lAPyhNKY7HZ0"
     },
     {
       "added_at": null,
@@ -1055,8 +1055,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRODUTO DO AMBIENTE",
-        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
       },
       "artists": [
         {
@@ -1064,13 +1064,13 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
-      "duration_ms": 191338,
-      "name": "Se Eu N\u00e3o Manter",
-      "url": "https://open.spotify.com/track/0mBr4S97a0duSfgebe007c"
+      "duration_ms": 294314,
+      "name": "Tit\u00e3s",
+      "url": "https://open.spotify.com/track/180D7ddndoKuifsdIthUPW"
     },
     {
       "added_at": null,
@@ -1095,8 +1095,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
+        "name": "PRODUTO DO AMBIENTE",
+        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
       },
       "artists": [
         {
@@ -1104,13 +1104,13 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
         }
       ],
-      "duration_ms": 294314,
-      "name": "Tit\u00e3s",
-      "url": "https://open.spotify.com/track/180D7ddndoKuifsdIthUPW"
+      "duration_ms": 191338,
+      "name": "Se Eu N\u00e3o Manter",
+      "url": "https://open.spotify.com/track/0mBr4S97a0duSfgebe007c"
     },
     {
       "added_at": null,
@@ -1135,6 +1135,30 @@
       "duration_ms": 225803,
       "name": "Vinho, Voz e Viol\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/1wx8J9hbkS1m2KMiXN9Q7B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gigantes",
+        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/3lsEmETqVt85iRYSYslRMb"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        }
+      ],
+      "duration_ms": 148738,
+      "name": "Deus do Furdun\u00e7o",
+      "url": "https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr"
     },
     {
       "added_at": null,
@@ -1179,30 +1203,6 @@
       "duration_ms": 217647,
       "name": "Para\u00edso Que Me Cerca",
       "url": "https://open.spotify.com/track/5UeZjPBEi6NW5HvHl4OTYW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gigantes",
-        "url": "https://open.spotify.com/album/6kjXPFw0BT3SdpWgHwjr32"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/3lsEmETqVt85iRYSYslRMb"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        }
-      ],
-      "duration_ms": 148738,
-      "name": "Deus do Furdun\u00e7o",
-      "url": "https://open.spotify.com/track/3sUhwX7vQhzuKDkFC6lAEr"
     },
     {
       "added_at": null,

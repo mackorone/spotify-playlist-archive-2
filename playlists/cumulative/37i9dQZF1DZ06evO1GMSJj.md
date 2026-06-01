@@ -4,7 +4,7 @@
 
 > This is Boards of Canada\. The essential tracks, all in one playlist.
 
-118 songs - 7 hr 10 min
+119 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [In The Annexe](https://open.spotify.com/track/46VGk02ZLerhw2SdV953zV) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 1:22 | 2023-02-14 | 2025-05-28 |
 | [In The Annexe](https://open.spotify.com/track/5LrPKZmACz0BVdWGU0ycxx) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 1:22 | 2022-12-25 | 2023-02-15 |
 | [Into The Rainbow Vein](https://open.spotify.com/track/2Wo9U9sM6oi6hl5ZSBSA0B) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU) | 0:44 | 2023-09-05 |  |
-| [Introit](https://open.spotify.com/track/68j6NKcGW2oCHZ0V2FDMbo) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Prophecy At 1420 MHz](https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y) | 0:35 | 2026-05-10 |  |
+| [Introit](https://open.spotify.com/track/237EDlkjHoVAfG1FEtV0R2) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 0:35 | 2026-06-01 |  |
+| [Introit](https://open.spotify.com/track/68j6NKcGW2oCHZ0V2FDMbo) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Prophecy At 1420 MHz](https://open.spotify.com/album/3sq57EactOjc9RJqk6Yl1y) | 0:35 | 2026-05-10 | 2026-06-01 |
 | [Jacquard Causeway](https://open.spotify.com/track/7Dw7RRCKnPBlbmHteZ8Whw) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 6:35 | 2022-05-29 | 2022-10-13 |
 | [Julie And Candy](https://open.spotify.com/track/7bgtelfoppWqHtwkQudvod) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 5:30 | 2022-05-29 | 2022-12-26 |
 | [Kaini Industries](https://open.spotify.com/track/3FJ4suZo6FuW0xmARmE0R4) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 0:59 | 2023-02-16 |  |
@@ -67,11 +68,11 @@
 | [Kid For Today](https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:23 | 2023-02-16 |  |
 | [Last Walk Around Mirror Lake \- Boards of Canada Remix](https://open.spotify.com/track/2iDoKVqyiCdu327FaqJCNH) | [Boom Bip](https://open.spotify.com/artist/6AtkRnMQyGsdt9aldrc0dx), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Corymb](https://open.spotify.com/album/4xqSQIJoitX1MxaBl1nwYG) | 4:30 | 2026-01-21 |  |
 | [Last Walk Around Mirror Lake \- Boards of Canada Remix](https://open.spotify.com/track/4agMFZlZVMPvXcpLewP2tS) | [Boom Bip](https://open.spotify.com/artist/6AtkRnMQyGsdt9aldrc0dx), [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Corymb](https://open.spotify.com/album/2W1DcMSpmpTt8KF3zjKyqd) | 4:30 | 2025-09-05 | 2026-01-20 |
-| [Left Side Drive](https://open.spotify.com/track/3NrNukjXkShrtZSrA89Gc4) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c) | 5:20 | 2023-02-15 | 2026-05-31 |
+| [Left Side Drive](https://open.spotify.com/track/3NrNukjXkShrtZSrA89Gc4) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/7DcHbfXY5HpmU2ltqCxc8c) | 5:20 | 2023-02-15 |  |
 | [Left Side Drive](https://open.spotify.com/track/47wSsypqjVoZ7XaGIp1aOV) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Trans Canada Highway](https://open.spotify.com/album/41Vzs4ftEXSYYfqYyD5I3y) | 5:20 | 2022-05-29 | 2023-02-16 |
 | [Melissa Juice](https://open.spotify.com/track/4KJE8soq80zLzaoDmDjqkb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf) | 1:32 | 2023-02-15 | 2026-02-07 |
 | [Melissa Juice](https://open.spotify.com/track/782LcmOkkNn1dm083on9wF) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/0LDCQOBp7NFjkD1LbuusCG) | 1:32 | 2022-05-29 | 2023-02-16 |
-| [Memory Death](https://open.spotify.com/track/5YFWLq8Y6LElf9r8hMYgFa) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 2:37 | 2026-05-31 |  |
+| [Memory Death](https://open.spotify.com/track/5YFWLq8Y6LElf9r8hMYgFa) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 2:37 | 2026-05-31 | 2026-06-01 |
 | [Music Is Math](https://open.spotify.com/track/3MF9cjIlg3R9osw3SgRmEb) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE) | 5:21 | 2023-02-16 |  |
 | [Music Is Math](https://open.spotify.com/track/3vBJYnujT3yxLjLEG1jtDS) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 5:21 | 2022-05-29 | 2023-02-17 |
 | [Naraka](https://open.spotify.com/track/6IuquJdJVxdSEgsJv5YU6Z) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Inferno](https://open.spotify.com/album/0mu3EvWYfNwBfISSg0q03p) | 5:01 | 2026-05-31 |  |

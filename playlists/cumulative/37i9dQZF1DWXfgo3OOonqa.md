@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,320 songs - 4 day 2 hr 42 min
+2,321 songs - 4 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Block Boy](https://open.spotify.com/track/3Hx7Q4rCjzKGrk0pNEMi9Z) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ) | [Block Boy](https://open.spotify.com/album/5zx268AJd3jAYeZ7i8uGju) | 1:50 | 2025-01-30 | 2025-05-02 |
 | [Blockstar](https://open.spotify.com/track/3vhyGWYdI5sQ9X2W9b5JGO) | [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Blockstar](https://open.spotify.com/album/5eNV7eE2UUh97gzwemO1pZ) | 2:20 | 2025-06-12 | 2025-10-31 |
 | [Blonda Brudar](https://open.spotify.com/track/10IJjXrc0I18fz8mYTO5r4) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW) | [Blonda Brudar](https://open.spotify.com/album/65mj2HckFL4LcKkqJZP0Nu) | 2:27 | 2025-05-08 | 2025-08-08 |
+| [Blue](https://open.spotify.com/track/6byE0Hosp2n6bDMuGvouHG) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2) | [Grindarna Till Ithaka](https://open.spotify.com/album/3mho6giNN5KjgBDsbyJanY) | 2:01 | 2026-05-31 |  |
 | [BLUE CHEESE](https://open.spotify.com/track/4wNOwxVpjmOUJM9Rf8wybr) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP) | [BLUE CHEESE](https://open.spotify.com/album/7cc4vxxrzIdT43dabK291s) | 2:34 | 2022-06-30 | 2022-07-15 |
 | [Blunda](https://open.spotify.com/track/5QtQBD38EDfz0tlVbZDAFg) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [Blunda](https://open.spotify.com/album/5flX744gppUbEqAzftaro3) | 2:54 | 2024-12-19 | 2025-03-14 |
 | [BLÅ MERCEDES](https://open.spotify.com/track/5UO9GbQbILdcv5HXolHAe4) | [Ozzy](https://open.spotify.com/artist/6XmbeFgAh0itkfnnLXza1J) | [BLÅ MERCEDES](https://open.spotify.com/album/6RqXPNnDTZ1vA890a1ya7o) | 2:11 | 2023-01-12 | 2023-02-10 |

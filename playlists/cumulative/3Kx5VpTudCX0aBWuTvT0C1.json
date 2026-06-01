@@ -1111,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "home ANYMORE",
+        "url": "https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs"
+      },
+      "artists": [
+        {
+          "name": "Nayla Salzmann",
+          "url": "https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222051,
+      "name": "If I Die",
+      "url": "https://open.spotify.com/track/6p1154wPVVepKN9XxLRVJQ"
+    },
+    {
+      "album": {
         "name": "If I Was A Ghost",
         "url": "https://open.spotify.com/album/0PkjL6ESR2Fav9OToP3UVd"
       },

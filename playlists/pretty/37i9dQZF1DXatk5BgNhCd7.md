@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Todo lo nuevo de música tropical 📸 Neutro Shorty
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,854 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,849 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 99 | [PorquE Si Te QuedAs](https://open.spotify.com/track/32fkaxjxY0MXP5WyovCWC8) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [PorquE Si Te QuedAs](https://open.spotify.com/album/54zZai5zPTfVxRxpi8i4R8) | 2:59 |
 | 100 | [SOY HEREDERO](https://open.spotify.com/track/2tpxleVlgT8Xpns9YcZmM0) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [SOY HEREDERO](https://open.spotify.com/album/6rRDwG2tQQHYoHqI7QhgBm) | 2:58 |
 
-Snapshot ID: `AAAAAO5POHnvAHHYlLKGrIAbQrfv7g2F`
+Snapshot ID: `AAAAAIa4Q0iNfDvoCej+a/dIFMsX92Nk`

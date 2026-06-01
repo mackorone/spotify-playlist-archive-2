@@ -1,6 +1,6 @@
 {
   "description": "The newest r&b drops, every week. Cover: Syd",
-  "num_followers": 1118783,
+  "num_followers": 1118755,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
       "duration_ms": 154581,
       "name": "Callin (feat. Blu june)",
       "url": "https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF"
+    },
+    {
+      "added_at": "2026-05-29 04:02:50",
+      "album": {
+        "name": "point blank",
+        "url": "https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 266613,
+      "name": "point blank",
+      "url": "https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI"
     },
     {
       "added_at": "2026-05-29 04:02:50",

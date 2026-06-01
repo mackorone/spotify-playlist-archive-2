@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIw2nQIiT+AY21dkWMd6MyqdmBAo9Z",
+  "snapshot_id": "AAAIxLW5nhNhi7w+msFCKjtuMfGFrH9u",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -73239,6 +73239,22 @@
       "duration_ms": 166956,
       "name": "\u0411\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u0430\u044f \u043f\u0435\u0442\u043b\u044f",
       "url": "https://open.spotify.com/track/4y4beiKEPsz2Bf0cft28Fz"
+    },
+    {
+      "added_at": "2026-05-31 16:54:40",
+      "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/50oev5lys8ubDpTo5oCxJ7"
+      },
+      "artists": [
+        {
+          "name": "The Ineffectuals",
+          "url": "https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT"
+        }
+      ],
+      "duration_ms": 130519,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/4WjDvfgvB7M6K7sH9K5gN6"
     }
   ],
   "unique_name": "playlist spotify free",

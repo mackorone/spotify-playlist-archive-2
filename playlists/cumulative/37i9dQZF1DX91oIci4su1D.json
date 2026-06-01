@@ -2974,7 +2974,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 181874,
       "name": "Blast from the Past",
       "url": "https://open.spotify.com/track/3IqaRh5S6GctUfCv1Q9xIg"
@@ -12204,6 +12204,24 @@
       "duration_ms": 240000,
       "name": "Into the Night",
       "url": "https://open.spotify.com/track/2ucRE68wy12o3kV3y1cCKF"
+    },
+    {
+      "album": {
+        "name": "Into The Sun",
+        "url": "https://open.spotify.com/album/60m6YMLSy3skQBRyzc8XnT"
+      },
+      "artists": [
+        {
+          "name": "Cold Blue",
+          "url": "https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246956,
+      "name": "Into The Sun",
+      "url": "https://open.spotify.com/track/1RuF2s2aFbfc0d1XUtcE6Y"
     },
     {
       "album": {

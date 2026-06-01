@@ -191,22 +191,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "evergreen love",
-        "url": "https://open.spotify.com/album/5qSRcveKFl9iwgxMAYoVKS"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "evergreen love",
-      "url": "https://open.spotify.com/track/5uHmaCMrEFNSgUbV4sPJS8"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "More To This Life",
         "url": "https://open.spotify.com/album/2RCszuL9awvBddKkB7Iknm"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 268533,
       "name": "I Will Be Here",
       "url": "https://open.spotify.com/track/7w0CEIlW8kcomXPgxQ55Hj"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
+        "name": "evergreen love",
+        "url": "https://open.spotify.com/album/5qSRcveKFl9iwgxMAYoVKS"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 177804,
+      "name": "evergreen love",
+      "url": "https://open.spotify.com/track/5uHmaCMrEFNSgUbV4sPJS8"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
+        "name": "Man I Was Made to Be",
+        "url": "https://open.spotify.com/album/32LxXkyg4zBtxvS7KhnwTf"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "duration_ms": 223609,
+      "name": "Man I Was Made to Be",
+      "url": "https://open.spotify.com/track/4fFj0XIZvqJxuE1BsR5Ltd"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
         "name": "Here In Your Arms",
         "url": "https://open.spotify.com/album/07pEzm2jpbU2FHE4Q1i3l7"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 172702,
       "name": "Here In Your Arms",
       "url": "https://open.spotify.com/track/4e8PDVGtTG1uvLOkKDR0gV"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
-        "name": "Man I Was Made to Be",
-        "url": "https://open.spotify.com/album/32LxXkyg4zBtxvS7KhnwTf"
-      },
-      "artists": [
-        {
-          "name": "Conner Smith",
-          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
-        }
-      ],
-      "duration_ms": 223609,
-      "name": "Man I Was Made to Be",
-      "url": "https://open.spotify.com/track/4fFj0XIZvqJxuE1BsR5Ltd"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/6BWnjFtlkr5qPpFxQiQcXw"
-      },
-      "artists": [
-        {
-          "name": "DeAngelo",
-          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
-        }
-      ],
-      "duration_ms": 187994,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/2D4g5r9CzCmHuDPKfgqmcr"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "All Over The World",
         "url": "https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 190434,
       "name": "All Over The World",
       "url": "https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/6BWnjFtlkr5qPpFxQiQcXw"
+      },
+      "artists": [
+        {
+          "name": "DeAngelo",
+          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
+        }
+      ],
+      "duration_ms": 187994,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2D4g5r9CzCmHuDPKfgqmcr"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "Love Like Yours",
-        "url": "https://open.spotify.com/album/3Tli9YD4x5FeeywgJVdV2Y"
-      },
-      "artists": [
-        {
-          "name": "DeAngelo",
-          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
-        }
-      ],
-      "duration_ms": 139008,
-      "name": "Love Like Yours",
-      "url": "https://open.spotify.com/track/1yGO7Kc6Aa8DF9R99zUE5X"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "i do",
         "url": "https://open.spotify.com/album/6qTSsWWkDt5kqb2ZjX0wQA"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 151016,
       "name": "i do",
       "url": "https://open.spotify.com/track/2u93JxM9KC1dQMBJuHKYXv"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
+        "name": "Love Like Yours",
+        "url": "https://open.spotify.com/album/3Tli9YD4x5FeeywgJVdV2Y"
+      },
+      "artists": [
+        {
+          "name": "DeAngelo",
+          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
+        }
+      ],
+      "duration_ms": 139008,
+      "name": "Love Like Yours",
+      "url": "https://open.spotify.com/track/1yGO7Kc6Aa8DF9R99zUE5X"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 246093,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "I Love You (Remix)",
         "url": "https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 193170,
       "name": "I Love You (Remix)",
       "url": "https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/6qVOZPXvCgvhFKasGiDTAO"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 246093,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/0rzJtYsSkHiYWWn5QUjVL3"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "You Are My Love",
-        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
-      },
-      "artists": [
-        {
-          "name": "Jervis Campbell",
-          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
-        }
-      ],
-      "duration_ms": 203120,
-      "name": "You Are My Love",
-      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "Forever With You (Freestyle Session)",
         "url": "https://open.spotify.com/album/6d3pB44ez3TsJ7ZShjP72R"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 123386,
       "name": "Forever With You (Freestyle Session)",
       "url": "https://open.spotify.com/track/434WFp5IK0hnp2df22hdOv"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
+        "name": "You Are My Love",
+        "url": "https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "You Are My Love",
+      "url": "https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "Ride or Die",
-        "url": "https://open.spotify.com/album/2jcpIxfkydmBZ0tdF8F7St"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 172730,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/1MDYOI1rPyR0BfrS7E8eMv"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "Here for You",
         "url": "https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 187826,
       "name": "Junto a Ti",
       "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
+        "name": "Ride or Die",
+        "url": "https://open.spotify.com/album/2jcpIxfkydmBZ0tdF8F7St"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 172730,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/1MDYOI1rPyR0BfrS7E8eMv"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Beasley",
-          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "Good Love (feat. Kim Burrell)",
         "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 223518,
       "name": "Without The Risk",
       "url": "https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Beasley",
+          "url": "https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "If I Were an R&B Singer",
-        "url": "https://open.spotify.com/album/5Q7MUqwtF2LsoFCU0ZogH2"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 199125,
-      "name": "Free Fallin",
-      "url": "https://open.spotify.com/track/0EWgI9kJgjGOlmfFkvbR2c"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "Giving In",
         "url": "https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm"
       },
@@ -1603,6 +1587,22 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
+        "name": "If I Were an R&B Singer",
+        "url": "https://open.spotify.com/album/5Q7MUqwtF2LsoFCU0ZogH2"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 199125,
+      "name": "Free Fallin",
+      "url": "https://open.spotify.com/track/0EWgI9kJgjGOlmfFkvbR2c"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
         "name": "Me + You = Pi",
         "url": "https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p"
       },
@@ -1615,22 +1615,6 @@
       "duration_ms": 169846,
       "name": "Me + You = Pi",
       "url": "https://open.spotify.com/track/11akLVy8J6vDKsnmDbMxus"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
-        "name": "Let Me Be There",
-        "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
-      },
-      "artists": [
-        {
-          "name": "Gaither Vocal Band",
-          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
-        }
-      ],
-      "duration_ms": 185095,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
     },
     {
       "added_at": "2026-05-28 21:00:20",
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
+        "name": "Let Me Be There",
+        "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "duration_ms": 185095,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
         "name": "SURREAL",
         "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-05-28 21:00:20",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/3RsemeJwb8I1PebI8Y2tW8"
-      },
-      "artists": [
-        {
-          "name": "Jordan May",
-          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
-        }
-      ],
-      "duration_ms": 214142,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq"
-    },
-    {
-      "added_at": "2026-05-28 21:00:20",
-      "album": {
         "name": "SAFE",
         "url": "https://open.spotify.com/album/74yE9s61cJjwygLpdW7gQq"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 231501,
       "name": "SAFE",
       "url": "https://open.spotify.com/track/2UZf3nuTmbp4hgG3vluLRs"
+    },
+    {
+      "added_at": "2026-05-28 21:00:20",
+      "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/3RsemeJwb8I1PebI8Y2tW8"
+      },
+      "artists": [
+        {
+          "name": "Jordan May",
+          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
+        }
+      ],
+      "duration_ms": 214142,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq"
     },
     {
       "added_at": "2026-05-28 21:00:20",

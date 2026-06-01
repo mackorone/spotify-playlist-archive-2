@@ -4,7 +4,7 @@
 
 > 뮤직비디오 기능이 지원되는 노래들을 플레이리스트로 즐겨보세요! \(Cover: LE SSERAFIM\) \(Enjoy a playlist of songs that support music video features!\)
 
-225 songs - 12 hr 23 min
+228 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Countdown!](https://open.spotify.com/track/3zzSkxx2JhVthLIo4aaM3p) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Countdown!](https://open.spotify.com/album/2U6jC4iYqqFC9OfwMZ4cK1) | 3:35 | 2025-07-15 |  |
 | [Crazier](https://open.spotify.com/track/5bgpAtvOFcNP0N3jjIDXpV) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Crazier](https://open.spotify.com/album/6k2vpQgr7NOAnvPzuzcHCN) | 3:08 | 2025-08-13 |  |
 | [CRAZY](https://open.spotify.com/track/5BT66JSYMSXbytWr7Tvq06) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/2J1Jcp6bzHDWf1wd4mOBEA) | 2:49 | 2025-07-15 | 2025-08-20 |
+| [Creatures \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/3WotTZr6P3Y7faSFC82nPO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Creatures \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/1l9nBUyvVRmv03XYfv6NYA) | 3:11 | 2026-06-01 |  |
 | [Crown](https://open.spotify.com/track/0frJ0IhhIOSWodge5fwKb5) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Crown](https://open.spotify.com/album/2xgWak2XDGZyBnGtVIkUJp) | 3:31 | 2026-01-19 |  |
 | [Dash](https://open.spotify.com/track/2eUExqqFOpckGJG7faJMeW) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Dash](https://open.spotify.com/album/3f1MBI3Z9BTZ8N1kaX46sV) | 3:58 | 2025-07-15 | 2025-08-20 |
 | [ddok ddok ddok](https://open.spotify.com/track/3gYInUz6sp2ujSizzUdZeg) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [ddok ddok ddok](https://open.spotify.com/album/4gHuTmtRrcGHwgijzB7yR2) | 2:40 | 2026-05-12 |  |
@@ -142,6 +143,7 @@
 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/7EfsDwMIp2K2zcesWFdIQ7) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/7AyY2UsDMJjLoAPLlSQtsa) | 3:05 | 2025-07-15 |  |
 | [MONA LISA](https://open.spotify.com/track/6FfKVcRELC01p2V64HXsRH) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MONA LISA](https://open.spotify.com/album/0XOxRUT0IKQjJCdP0nqaKw) | 2:42 | 2025-07-15 | 2025-08-20 |
 | [MUSEUM](https://open.spotify.com/track/3I8Dqw8JZI89crzCtWalJD) | [OWIS](https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8) | [MUSEUM](https://open.spotify.com/album/1717Ib5wr97Iz47nHBJTnM) | 3:17 | 2026-03-30 |  |
+| [NORMAL \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/15rwL0jnoGk8n2kmYY8DP0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [NORMAL \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/1ZHVo1MDKy7BXmLASfqc2C) | 3:11 | 2026-06-01 |  |
 | [NOT CUTE ANYMORE](https://open.spotify.com/track/04BTH7A529j7G0TCuthFkI) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [NOT CUTE ANYMORE](https://open.spotify.com/album/5l45MwxKiVZXeMzzz8tChC) | 2:26 | 2025-12-03 |  |
 | [number one girl](https://open.spotify.com/track/5sgKW9J1rsDlqV8nXpSXjd) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/2GU9eECPOLAYV9EERR8sE1) | 3:35 | 2025-07-15 | 2025-08-20 |
 | [O.O Part 1 \(Baila\)](https://open.spotify.com/track/6dx6xPMkBwPXdRXtaFEk1T) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [O.O Part 1 \(Baila\)](https://open.spotify.com/album/3hndrP38zWOzZFDIIyDsB7) | 3:43 | 2025-10-24 |  |
@@ -183,6 +185,7 @@
 | [SKIID](https://open.spotify.com/track/0nODm4Pm4CbF0J9LgCVYjQ) | [ARrC](https://open.spotify.com/artist/0aI0llD36ZH9ZDplS8TblP) | [SKIID](https://open.spotify.com/album/5RTdE4Zgn2DPtLfdnP8C2B) | 3:08 | 2025-12-03 |  |
 | [SLAM DUNK](https://open.spotify.com/track/0ac6EPiOL73NcinNhYcHJz) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/5kozfGudIOkMM18OJi4d3n) | 3:08 | 2025-08-13 |  |
 | [SLAM DUNK](https://open.spotify.com/track/5c3v5iU6WjMzd9EG1k2Hxc) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [SLAM DUNK](https://open.spotify.com/album/228Cezlv7JrcRvVdj5B1Vz) | 3:08 | 2025-08-13 |  |
+| [Sonder \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/11rPa1ex0jv6jQQdnopJYd) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Sonder \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/0Ch54rVSoEPdCE8qKuxH8W) | 2:51 | 2026-06-01 |  |
 | [SPINNIN′ ON IT](https://open.spotify.com/track/1JSeYUstYyaHgO7zuuLt3s) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [SPINNIN′ ON IT](https://open.spotify.com/album/1MlEgnV5IDNYRUsY6HCfD4) | 3:26 | 2025-10-24 |  |
 | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/track/5vDhLCnufZRYk4W43gOJjP) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/album/5QPRhveyVrCxrDpgeMUZ8F) | 4:24 | 2025-10-24 |  |
 | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/track/70onuk40GO7rAoJv8GCrbs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Star Eyes \(Spotify Live Version\)](https://open.spotify.com/album/4hoBN3h0te1QXuzLfKbs5V) | 4:24 | 2025-10-24 |  |

@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-494 songs - 1 day 7 hr 30 min
+495 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 | 2022-12-13 | 2023-06-09 |
 | [Another autumn](https://open.spotify.com/track/3mFbJ6Ur7gSAAqxQaY3sbq) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 2:32 | 2023-02-16 |  |
 | [Apologise / City](https://open.spotify.com/track/568zqqSBf7dSeImcwS6mo9) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [How Can We Lose When We’re So Sincere?!](https://open.spotify.com/album/2P3wmcPhctNRdQtuK4YuGK) | 3:15 | 2024-12-14 | 2025-04-05 |
+| [As Soon As I Get Home](https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO) | [As Soon As I Get Home](https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7) | 3:59 | 2026-05-30 |  |
 | [Asamoya](https://open.spotify.com/track/2mZNBSaa3bssYRAXYzlDMU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:18 | 2022-12-13 | 2023-01-25 |
 | [Atlantis](https://open.spotify.com/track/7cSWxKJOYcIj7orwt0pUsW) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [BJOERN](https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN) | [Atlantis / Drift](https://open.spotify.com/album/0PrL6tpjj9q7IcBveZjrCf) | 3:33 | 2024-04-17 | 2024-05-24 |
 | [Baby Blue Movie](https://open.spotify.com/track/6kgn7bCEXk0A5ZrPqrRZwc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Baby Blue Movie](https://open.spotify.com/album/3T7i2gfwdTmMOUD5wiuoAj) | 4:04 | 2024-06-07 | 2025-03-11 |
@@ -494,7 +495,7 @@
 | [拝啓生きとし愛おしきあなた](https://open.spotify.com/track/5TPDyjoG3MRjWHltxXkYXu) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [拝啓生きとし愛おしきあなた](https://open.spotify.com/album/5mGXQXpwzEmRor7HouC1zF) | 3:39 | 2024-04-02 | 2024-08-09 |
 | [新宝島 \(hf remix\)](https://open.spotify.com/track/2qo64xvU09LWSKKFxJAUoV) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq), [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [月の幻 ～ Remix works ～](https://open.spotify.com/album/0NJZay74NMAcBopFkqeecG) | 4:08 | 2023-09-05 | 2023-09-07 |
 | [星屑の夜に](https://open.spotify.com/track/4RW1yU2KOJFz91cprWoIhj) | [nenne](https://open.spotify.com/artist/0pQa8NC0N9XU57aOp3BgXw) | [aida](https://open.spotify.com/album/1f1TfK6OTAumXADOYK9aQ2) | 4:23 | 2023-07-06 | 2023-09-15 |
-| [最後の楽園](https://open.spotify.com/track/3Q59MwvTzZveZTNunIQY1x) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [PACIFIC](https://open.spotify.com/album/6PnbwR4pgQQZDrLUdw6Kc7) | 4:03 | 2026-04-27 |  |
+| [最後の楽園](https://open.spotify.com/track/3Q59MwvTzZveZTNunIQY1x) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [PACIFIC](https://open.spotify.com/album/6PnbwR4pgQQZDrLUdw6Kc7) | 4:03 | 2026-04-27 | 2026-06-01 |
 | [泡と文學](https://open.spotify.com/track/5bnFfYJoLdQjS44T1UVOK6) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT!](https://open.spotify.com/album/1VfpN0zgdLujwepllGpJVo) | 3:55 | 2024-01-10 | 2024-11-30 |
 | [泡になっても](https://open.spotify.com/track/5K8fwWbc0eN97hOeSWdqaA) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [泡になっても](https://open.spotify.com/album/6jyCTOIpaUUhbLBvpCmwip) | 4:01 | 2024-08-25 | 2024-10-05 |
 | [灯台 \(Live Session\)](https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [LIGHTHOUSE](https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r) | 3:07 | 2023-09-07 | 2023-09-09 |

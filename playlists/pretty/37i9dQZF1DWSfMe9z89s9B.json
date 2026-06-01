@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Dua Saleh",
-  "num_followers": 1319340,
+  "num_followers": 1319282,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -1277,6 +1277,22 @@
       "url": "https://open.spotify.com/track/025c4zVMZmyLrSPtsmXA7x"
     },
     {
+      "added_at": "2025-09-07 01:24:20",
+      "album": {
+        "name": "maple brown",
+        "url": "https://open.spotify.com/album/5PHWdBFGFJ53VSB8hFPCeD"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 179342,
+      "name": "maple brown",
+      "url": "https://open.spotify.com/track/7qJRRPkLoOfjD3vYRrF4T4"
+    },
+    {
       "added_at": "2026-03-06 06:14:13",
       "album": {
         "name": "Flood / Glow",
@@ -1295,38 +1311,6 @@
       "duration_ms": 179586,
       "name": "Flood (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
-    },
-    {
-      "added_at": "2025-09-07 01:24:20",
-      "album": {
-        "name": "maple brown",
-        "url": "https://open.spotify.com/album/5PHWdBFGFJ53VSB8hFPCeD"
-      },
-      "artists": [
-        {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
-        }
-      ],
-      "duration_ms": 179342,
-      "name": "maple brown",
-      "url": "https://open.spotify.com/track/7qJRRPkLoOfjD3vYRrF4T4"
-    },
-    {
-      "added_at": "2025-08-15 06:41:00",
-      "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 207950,
-      "name": "Another Baby!",
-      "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
     },
     {
       "added_at": "2024-06-07 12:28:44",
@@ -1349,24 +1333,20 @@
       "url": "https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb"
     },
     {
-      "added_at": "2026-03-13 08:17:11",
+      "added_at": "2025-08-15 06:41:00",
       "album": {
-        "name": "ThunderWave",
-        "url": "https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 194040,
-      "name": "ThunderWave",
-      "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
+      "duration_ms": 207950,
+      "name": "Another Baby!",
+      "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
     },
     {
       "added_at": "2025-08-01 08:16:45",
@@ -1401,6 +1381,42 @@
       "url": "https://open.spotify.com/track/6OoRRvJWQdAL4nOIFrVKv9"
     },
     {
+      "added_at": "2026-03-13 08:17:11",
+      "album": {
+        "name": "ThunderWave",
+        "url": "https://open.spotify.com/album/6X04Gtu90ik0MFHv09TOIL"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "ThunderWave",
+      "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "Surface Tension",
+        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
+    },
+    {
       "added_at": "2026-04-17 06:06:32",
       "album": {
         "name": "July",
@@ -1421,22 +1437,6 @@
       "url": "https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Surface Tension",
-        "url": "https://open.spotify.com/album/632eFniptp1u6saHBEN06y"
-      },
-      "artists": [
-        {
-          "name": "Annahstasia",
-          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Bird's Eye",
@@ -1451,22 +1451,6 @@
       "duration_ms": 205773,
       "name": "From Scratch",
       "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
-    },
-    {
-      "added_at": "2025-09-19 06:19:16",
-      "album": {
-        "name": "I Wish I Didn\u2019t Waste Your Time",
-        "url": "https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "I Wish I Didn\u2019t Waste Your Time",
-      "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
     },
     {
       "added_at": "2024-08-16 04:08:50",
@@ -1487,6 +1471,22 @@
       "duration_ms": 267110,
       "name": "Don't You Love Me? - A COLORS SHOW",
       "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
+    },
+    {
+      "added_at": "2025-09-19 06:19:16",
+      "album": {
+        "name": "I Wish I Didn\u2019t Waste Your Time",
+        "url": "https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "I Wish I Didn\u2019t Waste Your Time",
+      "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
     },
     {
       "added_at": "2025-10-17 06:22:08",
@@ -1665,22 +1665,6 @@
       "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Y PREE",
-        "url": "https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv"
-      },
-      "artists": [
-        {
-          "name": "H.LLS",
-          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
-        }
-      ],
-      "duration_ms": 140870,
-      "name": "Y PREE",
-      "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
-    },
-    {
       "added_at": "2024-09-27 23:55:30",
       "album": {
         "name": "Songs About You Specifically",
@@ -1695,6 +1679,22 @@
       "duration_ms": 163931,
       "name": "Akira",
       "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Y PREE",
+        "url": "https://open.spotify.com/album/1ljEpxoPi9HmA2ci7U13kv"
+      },
+      "artists": [
+        {
+          "name": "H.LLS",
+          "url": "https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD"
+        }
+      ],
+      "duration_ms": 140870,
+      "name": "Y PREE",
+      "url": "https://open.spotify.com/track/3vmeYOaZkDAun6Vcri9Yeu"
     },
     {
       "added_at": "2024-12-13 05:00:40",
@@ -1797,6 +1797,22 @@
       "url": "https://open.spotify.com/track/12fSlzhqUDqnrZnA50Y617"
     },
     {
+      "added_at": "2024-10-26 03:32:36",
+      "album": {
+        "name": "The Drive Home",
+        "url": "https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy"
+      },
+      "artists": [
+        {
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
+        }
+      ],
+      "duration_ms": 143102,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa"
+    },
+    {
       "added_at": "2026-04-17 06:06:32",
       "album": {
         "name": "Lights Down Low",
@@ -1833,22 +1849,6 @@
       "url": "https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT"
     },
     {
-      "added_at": "2024-10-26 03:32:36",
-      "album": {
-        "name": "The Drive Home",
-        "url": "https://open.spotify.com/album/07vD7PUkwTMoRWpXzMwDMy"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 143102,
-      "name": "Rolling Stone",
-      "url": "https://open.spotify.com/track/0nmIWoirK2cbSD9duTDQJa"
-    },
-    {
       "added_at": "2024-06-21 07:44:39",
       "album": {
         "name": "Petra",
@@ -1881,22 +1881,6 @@
       "url": "https://open.spotify.com/track/2mOzuKNxwbIrPedqhh4I8o"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "bits + pieces",
-        "url": "https://open.spotify.com/album/4FWleazNVFcPfQukyqW4Le"
-      },
-      "artists": [
-        {
-          "name": "Casper Sage",
-          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
-        }
-      ],
-      "duration_ms": 233824,
-      "name": "bits + pieces",
-      "url": "https://open.spotify.com/track/5el2DZSkpldGfM8y2sTeXv"
-    },
-    {
       "added_at": "2024-06-28 18:42:06",
       "album": {
         "name": "ACCELERATOR",
@@ -1911,6 +1895,22 @@
       "duration_ms": 228003,
       "name": "STRANGER",
       "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "bits + pieces",
+        "url": "https://open.spotify.com/album/4FWleazNVFcPfQukyqW4Le"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "duration_ms": 233824,
+      "name": "bits + pieces",
+      "url": "https://open.spotify.com/track/5el2DZSkpldGfM8y2sTeXv"
     },
     {
       "added_at": "2025-10-17 06:22:08",
@@ -1933,22 +1933,6 @@
       "url": "https://open.spotify.com/track/5CAsuNKpa7tcaJOrIiaqi6"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Pluto Baby",
-        "url": "https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9"
-      },
-      "artists": [
-        {
-          "name": "Wesley Joseph",
-          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Pluto Baby",
-      "url": "https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK"
-    },
-    {
       "added_at": "2025-04-11 05:53:52",
       "album": {
         "name": "All American F\u2b50\ufe0fckBoy",
@@ -1969,6 +1953,22 @@
       "url": "https://open.spotify.com/track/5cecqx5yqGOrtBADz9YNza"
     },
     {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Pluto Baby",
+        "url": "https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Pluto Baby",
+      "url": "https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK"
+    },
+    {
       "added_at": "2025-10-25 02:54:19",
       "album": {
         "name": "Cumulus / Memory",
@@ -1983,6 +1983,22 @@
       "duration_ms": 407765,
       "name": "Cumulus / Memory",
       "url": "https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb"
+    },
+    {
+      "added_at": "2025-09-07 01:24:20",
+      "album": {
+        "name": "New Martyrs (Ride 4 U)",
+        "url": "https://open.spotify.com/album/2JsUcLi6QE4l46IR4U4lMU"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 210052,
+      "name": "New Martyrs (Ride 4 U)",
+      "url": "https://open.spotify.com/track/1toHY5SPpeCjHlfR6QROkJ"
     },
     {
       "added_at": "2024-07-26 09:18:29",
@@ -2001,20 +2017,24 @@
       "url": "https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg"
     },
     {
-      "added_at": "2025-09-07 01:24:20",
+      "added_at": "2025-02-07 08:30:49",
       "album": {
-        "name": "New Martyrs (Ride 4 U)",
-        "url": "https://open.spotify.com/album/2JsUcLi6QE4l46IR4U4lMU"
+        "name": "WONDERLOVE",
+        "url": "https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
         }
       ],
-      "duration_ms": 210052,
-      "name": "New Martyrs (Ride 4 U)",
-      "url": "https://open.spotify.com/track/1toHY5SPpeCjHlfR6QROkJ"
+      "duration_ms": 184227,
+      "name": "LUV IN DA 6 (with Smino)",
+      "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
     },
     {
       "added_at": "2026-04-17 06:06:32",
@@ -2049,42 +2069,6 @@
       "url": "https://open.spotify.com/track/7F2nEClWeQ3x5ycA5qtKOI"
     },
     {
-      "added_at": "2025-02-07 08:30:49",
-      "album": {
-        "name": "WONDERLOVE",
-        "url": "https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 184227,
-      "name": "LUV IN DA 6 (with Smino)",
-      "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Low End Love Songs",
-        "url": "https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        }
-      ],
-      "duration_ms": 210957,
-      "name": "Spend More Time With Your Friends",
-      "url": "https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R"
-    },
-    {
       "added_at": "2024-06-07 12:28:44",
       "album": {
         "name": "TIMELESS",
@@ -2103,6 +2087,22 @@
       "duration_ms": 87301,
       "name": "Wasted Words (feat. Thundercat)",
       "url": "https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Low End Love Songs",
+        "url": "https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        }
+      ],
+      "duration_ms": 210957,
+      "name": "Spend More Time With Your Friends",
+      "url": "https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -2201,38 +2201,6 @@
       "url": "https://open.spotify.com/track/1MAKhZHljHK1Rz25RHrwVP"
     },
     {
-      "added_at": "2026-03-13 08:17:11",
-      "album": {
-        "name": "I Do, I Do",
-        "url": "https://open.spotify.com/album/45UoESCkQiiPFpvQy84jTh"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 135893,
-      "name": "I Do, I Do",
-      "url": "https://open.spotify.com/track/48GMhj7HceWsedpDjUTtiE"
-    },
-    {
-      "added_at": "2024-12-06 07:13:57",
-      "album": {
-        "name": "Petty Pete",
-        "url": "https://open.spotify.com/album/4Ofb1xAGY7BRXi5CCcWNg1"
-      },
-      "artists": [
-        {
-          "name": "Liim",
-          "url": "https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM"
-        }
-      ],
-      "duration_ms": 160248,
-      "name": "Petty Pete",
-      "url": "https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5"
-    },
-    {
       "added_at": "2024-08-30 06:47:05",
       "album": {
         "name": "IMPALA",
@@ -2255,6 +2223,38 @@
       "duration_ms": 209874,
       "name": "SATIVA!",
       "url": "https://open.spotify.com/track/3txRu0oUiaaGalqysVvWqf"
+    },
+    {
+      "added_at": "2024-12-06 07:13:57",
+      "album": {
+        "name": "Petty Pete",
+        "url": "https://open.spotify.com/album/4Ofb1xAGY7BRXi5CCcWNg1"
+      },
+      "artists": [
+        {
+          "name": "Liim",
+          "url": "https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM"
+        }
+      ],
+      "duration_ms": 160248,
+      "name": "Petty Pete",
+      "url": "https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5"
+    },
+    {
+      "added_at": "2026-03-13 08:17:11",
+      "album": {
+        "name": "I Do, I Do",
+        "url": "https://open.spotify.com/album/45UoESCkQiiPFpvQy84jTh"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 135893,
+      "name": "I Do, I Do",
+      "url": "https://open.spotify.com/track/48GMhj7HceWsedpDjUTtiE"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -2477,6 +2477,22 @@
       "url": "https://open.spotify.com/track/6N6SeSFTRdnu7ogCDnysby"
     },
     {
+      "added_at": "2025-04-25 06:37:11",
+      "album": {
+        "name": "Dark Nights",
+        "url": "https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 192279,
+      "name": "What I Used To Get Into",
+      "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
+    },
+    {
       "added_at": "2025-11-07 07:39:57",
       "album": {
         "name": "Beck n Call",
@@ -2495,22 +2511,6 @@
       "duration_ms": 203320,
       "name": "Beck n Call",
       "url": "https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E"
-    },
-    {
-      "added_at": "2025-04-25 06:37:11",
-      "album": {
-        "name": "Dark Nights",
-        "url": "https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 192279,
-      "name": "What I Used To Get Into",
-      "url": "https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT"
     },
     {
       "added_at": "2024-06-14 07:30:32",

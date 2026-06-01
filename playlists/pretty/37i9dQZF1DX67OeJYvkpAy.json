@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 109812,
+  "num_followers": 109811,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "StepBack2023",
+        "url": "https://open.spotify.com/album/1bmfo5V4UNd5Y8kmIUlQYS"
+      },
+      "artists": [
+        {
+          "name": "Reek0",
+          "url": "https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "StepBack2023",
+      "url": "https://open.spotify.com/track/2Jx64g45ERK7qGwTFx5NGg"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Lost in Lofi",
         "url": "https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 183851,
       "name": "Hate That I Love You",
       "url": "https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "StepBack2023",
-        "url": "https://open.spotify.com/album/1bmfo5V4UNd5Y8kmIUlQYS"
-      },
-      "artists": [
-        {
-          "name": "Reek0",
-          "url": "https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "StepBack2023",
-      "url": "https://open.spotify.com/track/2Jx64g45ERK7qGwTFx5NGg"
     },
     {
       "added_at": "2025-10-10 12:01:08",

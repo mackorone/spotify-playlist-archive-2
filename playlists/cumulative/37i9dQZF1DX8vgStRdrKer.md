@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-796 songs - 2 day 20 hr 34 min
+797 songs - 2 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Father](https://open.spotify.com/track/2WPjFlvF3E8SQrOE2KkY9C) | [Mairo Great](https://open.spotify.com/artist/1jNE6zqcxeVgxJmYpQygon) | [Father](https://open.spotify.com/album/3teuBwGRzSIJUxY77xTDjg) | 3:16 | 2026-04-17 | 2026-05-22 |
 | [Favour](https://open.spotify.com/track/0aq8tNf7KTwvZf98EC2XO8) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Favour](https://open.spotify.com/album/3PraQo3aIBkdSBsMIkwhDK) | 2:32 | 2024-04-26 | 2024-10-14 |
 | [Favour Go Follow Me](https://open.spotify.com/track/2GXSZYenTnoYXHpjxOSNbI) | [PC Lapez](https://open.spotify.com/artist/4tUGKyhBDR4cQrd5jM7TgM) | [Favour Go Follow Me](https://open.spotify.com/album/3xCjmH66ZDmsNWykxKgIXP) | 2:58 | 2024-08-09 | 2025-06-06 |
-| [Feel So Good](https://open.spotify.com/track/7daG2xOKoua7f3nmvbsjyW) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Look, it's Green](https://open.spotify.com/album/2GUcf58yY6ChmzXR6DP6dC) | 2:11 | 2026-04-03 |  |
+| [Feel So Good](https://open.spotify.com/track/7daG2xOKoua7f3nmvbsjyW) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Look, it's Green](https://open.spotify.com/album/2GUcf58yY6ChmzXR6DP6dC) | 2:11 | 2026-04-03 | 2026-06-01 |
 | [Fighting for me](https://open.spotify.com/track/525mBgyWmOUgeJLl6ZcOFl) | [Genirol](https://open.spotify.com/artist/2NaarOIQIasgOFuv1vCCX5), [Elizabeth Tendai](https://open.spotify.com/artist/29RbIWF60KrBy2eP4fNZo9), [Geo Musiwa](https://open.spotify.com/artist/4LuXTovCGYwbeZQCx15PxW) | [Fighting for me](https://open.spotify.com/album/4HZNjFrlwtOnT4S9AvGkOU) | 3:42 | 2023-10-06 | 2023-11-03 |
 | [Final Say](https://open.spotify.com/track/3M6FR3xV9S9LwILoTknpU8) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Final Say](https://open.spotify.com/album/2rIJUwTuMOARFg6UXTHQxs) | 3:01 | 2025-10-10 | 2025-11-24 |
 | [Fire on my Altar](https://open.spotify.com/track/3weOyLmKQGAEwEyhMYUxsz) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Fire on my Altar](https://open.spotify.com/album/2sNGMK8jCbywP4dUAZpBbU) | 10:39 | 2024-01-12 | 2024-01-26 |
@@ -288,6 +288,7 @@
 | [Higher](https://open.spotify.com/track/2Sv5TBcFr50zDLDfcwGntc) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Higher](https://open.spotify.com/album/1KKYyAZaITpEknUADTzAAt) | 2:27 | 2025-11-21 | 2026-01-06 |
 | [Higher](https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Higher](https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj) | 2:42 | 2024-05-03 | 2025-02-05 |
 | [Higher](https://open.spotify.com/track/4iA6XeCs04NrmGPnmQdCyT) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7) | [Higher](https://open.spotify.com/album/6SXKoXwDn8T4NG0sPS4sEc) | 2:38 | 2024-06-14 | 2025-05-30 |
+| [HOLD ME UP](https://open.spotify.com/track/5otqUM66dct6QElsKFmC3D) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [HOLD ME UP](https://open.spotify.com/album/2A9YtwVXV5WMYCj2pmSx90) | 4:48 | 2026-05-29 |  |
 | [Hold On](https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Hold On](https://open.spotify.com/album/5IT0DNo7zHmPjhZdDDKxfS) | 2:45 | 2024-09-06 | 2025-02-19 |
 | [Hold On](https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hold On](https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r) | 2:37 | 2024-04-05 | 2024-05-24 |
 | [Hollow](https://open.spotify.com/track/6qLHsnwSYXLmN9xipKIcdb) | [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Hollow](https://open.spotify.com/album/25oaJrHjmiejM5ciSinPh4) | 1:36 | 2025-05-30 | 2025-06-06 |

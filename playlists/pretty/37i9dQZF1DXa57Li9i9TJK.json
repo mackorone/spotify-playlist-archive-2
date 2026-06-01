@@ -1,6 +1,6 @@
 {
   "description": "Potras, rancherxs y la \ud83e\uddc0 Julieta Venegas en portada ",
-  "num_followers": 36133,
+  "num_followers": 36142,
   "original_name": "Sombreruda y nimoderrimo \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
         "name": "La Morrita",
         "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 154951,
       "name": "La Morrita",
       "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
     },
     {
       "added_at": "2026-05-18 21:58:22",
@@ -1411,42 +1411,6 @@
     {
       "added_at": "2026-05-18 21:58:22",
       "album": {
-        "name": "La Mala Era Yo",
-        "url": "https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "La Mala Era Yo",
-      "url": "https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
-        "name": "No Fue Lo Que Hiciste",
-        "url": "https://open.spotify.com/album/1V5GnWGLCnmsGVsWOzp0n3"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 242330,
-      "name": "No Fue Lo Que Hiciste",
-      "url": "https://open.spotify.com/track/31XQ01Q6ld5H4q7dje4VbF"
-    },
-    {
-      "added_at": "2026-05-18 21:58:22",
-      "album": {
         "name": "Tu Regalo",
         "url": "https://open.spotify.com/album/6hUQFOztpF095UsEhq7QlR"
       },
@@ -1475,6 +1439,42 @@
       "duration_ms": 156470,
       "name": "PERDIDO",
       "url": "https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "No Fue Lo Que Hiciste",
+        "url": "https://open.spotify.com/album/1V5GnWGLCnmsGVsWOzp0n3"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 242330,
+      "name": "No Fue Lo Que Hiciste",
+      "url": "https://open.spotify.com/track/31XQ01Q6ld5H4q7dje4VbF"
+    },
+    {
+      "added_at": "2026-05-18 21:58:22",
+      "album": {
+        "name": "La Mala Era Yo",
+        "url": "https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "La Mala Era Yo",
+      "url": "https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB"
     },
     {
       "added_at": "2026-05-18 21:58:22",

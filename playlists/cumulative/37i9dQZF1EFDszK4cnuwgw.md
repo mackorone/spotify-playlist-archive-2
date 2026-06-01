@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4s1bdPvgsNLQZdeWUnc3bx">Young M.A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-86 songs - 4 hr 38 min
+88 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Karma Krys](https://open.spotify.com/track/0P7eod3BXbvrLxFiOOfR4c) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [SleepWalkin](https://open.spotify.com/album/5UcaPHZWI1ryGAaF09KH5R) | 3:21 | 2024-06-13 |  |
 | [Klub Stories](https://open.spotify.com/track/4C46orOZ07HhFoInkxYIRO) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Wap5tar](https://open.spotify.com/artist/0ysitIDksCRjXWiyCNaRHC) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:43 | 2024-06-13 |  |
 | [Kold World](https://open.spotify.com/track/5pVlBFnZcXzW613mB9pQVG) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 3:57 | 2024-06-13 |  |
-| [Lasagna](https://open.spotify.com/track/4Elh59m7WL8zLHxGd6rUgc) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Lasagna](https://open.spotify.com/album/17UFLnKSALSwQF20X3JpJo) | 2:53 | 2026-02-14 |  |
+| [Lasagna](https://open.spotify.com/track/4Elh59m7WL8zLHxGd6rUgc) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Lasagna](https://open.spotify.com/album/17UFLnKSALSwQF20X3JpJo) | 2:53 | 2026-02-14 | 2026-06-01 |
+| [Lasagna](https://open.spotify.com/track/17JkIzPFtW8P5kfwRvTByh) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Kween](https://open.spotify.com/album/4K172XQbFUgzmnFDpwKPOM) | 2:53 | 2026-05-31 |  |
 | [Lumidee](https://open.spotify.com/track/2KihIG1ZqhFqOU6Q0kzcB9) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [Snakes & Ladders](https://open.spotify.com/album/2DDBLFf03iaP8u2NVXN0ZO) | 3:30 | 2024-06-13 |  |
 | [M.A \(Intro\)](https://open.spotify.com/track/5rJ8QqvXG2hQuGr0muuoIk) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 2:13 | 2024-06-13 |  |
 | [Maaan \(Got Me F'd Up\)](https://open.spotify.com/track/2ZIe9Spi6ysxIafCfgLkKo) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 2:48 | 2024-06-13 |  |
@@ -59,7 +60,8 @@
 | [Off the Yak](https://open.spotify.com/track/0B1qHg8IDDHSCwswHeu58o) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 3:31 | 2024-06-13 |  |
 | [OOOUUU](https://open.spotify.com/track/7JYsArznYOjX2jsrT3UEnL) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory](https://open.spotify.com/album/23Fvpx2T1drg9lJ4WC0fXl) | 3:54 | 2024-06-13 |  |
 | [OOOUUU Remix \(feat\. 50 Cent\)](https://open.spotify.com/track/27wJgOxwIDaDi0MqE6guW3) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [OOOUUU Remix \(feat\. 50 Cent\)](https://open.spotify.com/album/0cbsLcm8Y0HjUiBJMWoMEO) | 4:49 | 2024-06-13 |  |
-| [Open Scars](https://open.spotify.com/track/5l2UlIRagkhJgn2qmA10ZV) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Open Scars](https://open.spotify.com/album/6oacjRp4wh0H64Mn944wgf) | 3:56 | 2024-06-13 |  |
+| [Open Scars](https://open.spotify.com/track/467bcP9Utkoxj00vX4JWyk) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Kween](https://open.spotify.com/album/4K172XQbFUgzmnFDpwKPOM) | 3:53 | 2026-05-31 |  |
+| [Open Scars](https://open.spotify.com/track/5l2UlIRagkhJgn2qmA10ZV) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Open Scars](https://open.spotify.com/album/6oacjRp4wh0H64Mn944wgf) | 3:56 | 2024-06-13 | 2026-06-01 |
 | [PettyWap](https://open.spotify.com/track/76pUKeKLQuxjFFfbXJ5dif) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 2:56 | 2024-06-13 |  |
 | [PettyWap 2 \(Bonus\)](https://open.spotify.com/track/3C1sgPi7KaTbQB93WvXYJG) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 2:36 | 2024-06-13 |  |
 | [Pick A Side](https://open.spotify.com/track/6VC96yBUe4zgpQPXwgagjC) | [WAP5TAR](https://open.spotify.com/artist/3wk369fbina3PpKTz8f4na), [MA](https://open.spotify.com/artist/7mN9hXvyTCViY3fHNjxm7l) | [Writers Block](https://open.spotify.com/album/7akBwrKckxfE9wOY9XP2Da) | 3:38 | 2024-06-13 | 2026-01-15 |

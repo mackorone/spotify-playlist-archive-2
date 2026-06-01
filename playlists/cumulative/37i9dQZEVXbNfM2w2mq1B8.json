@@ -20882,7 +20882,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 171655,
       "name": "Loro Piana",
       "url": "https://open.spotify.com/track/7cgtjCw4F1I3UEg5MV9cUH"
@@ -25194,7 +25194,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 246099,
       "name": "Ne se iztrivash",
       "url": "https://open.spotify.com/track/0eFXnAmevM77kRInrvf3G1"
@@ -39068,7 +39068,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 216793,
       "name": "Varnah ti go",
       "url": "https://open.spotify.com/track/6zvwO7R26lGigFffAyFDRO"
@@ -43056,7 +43056,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 142325,
       "name": "\u0413\u0430\u0431\u0440\u0438\u0435\u043b\u0430",
       "url": "https://open.spotify.com/track/4MvuZxJn8hc6Wa5sEJXBae"
@@ -43198,7 +43198,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
       "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
@@ -45636,7 +45636,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 217959,
       "name": "\u041c\u0430\u0437\u043e\u0445\u0438\u0441\u0442\u043a\u0430",
       "url": "https://open.spotify.com/track/6hRJgAPy4kDgOkiyD5s8je"
@@ -48075,6 +48075,24 @@
     },
     {
       "album": {
+        "name": "\u041f\u0440\u0430\u0445\u043e\u0441\u043c\u0443\u043a\u0430\u0447\u043a\u0430",
+        "url": "https://open.spotify.com/album/0YlGdhKmSHh3D1Eso7rQy8"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198720,
+      "name": "\u041f\u0440\u0430\u0445\u043e\u0441\u043c\u0443\u043a\u0430\u0447\u043a\u0430",
+      "url": "https://open.spotify.com/track/6c2PAUaxUBF4m4DUlR0Ls6"
+    },
+    {
+      "album": {
         "name": "\u041f\u0440\u0438\u043f\u043e\u043c\u043d\u0438 \u043c\u0438",
         "url": "https://open.spotify.com/album/2UBkSD1AuAs6cvvpSC8Cuc"
       },
@@ -48352,7 +48370,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "\u0420\u0430\u043d\u043e \u043f\u0440\u0438\u0437\u043e\u0440\u0438",
       "url": "https://open.spotify.com/track/6i1VePbXqvRNdANixCeGUq"

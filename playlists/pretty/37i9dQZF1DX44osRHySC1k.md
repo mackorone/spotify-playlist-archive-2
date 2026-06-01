@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,623 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,625 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 20 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 |
 | 21 | [You'll Be In My Heart](https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs) | [Daavid Laaksonen](https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK) | [You'll Be In My Heart](https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU) | 4:32 |
 | 22 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
-| 23 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
-| 24 | [Atmosphere](https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Newborn Soul](https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR) | 4:07 |
-| 25 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 |
-| 26 | [Sentiment](https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9) | [Sufi Sheman](https://open.spotify.com/artist/4hWBezYoYKyxns86q3P9ok) | [Sentiment](https://open.spotify.com/album/7ccpFpZ8vOqBmsvVsGxr4w) | 2:10 |
+| 23 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 |
+| 24 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
+| 25 | [Sentiment](https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9) | [Sufi Sheman](https://open.spotify.com/artist/4hWBezYoYKyxns86q3P9ok) | [Sentiment](https://open.spotify.com/album/7ccpFpZ8vOqBmsvVsGxr4w) | 2:10 |
+| 26 | [Atmosphere](https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Newborn Soul](https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR) | 4:07 |
 | 27 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
 | 28 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
 | 29 | [Goodnight](https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [Goodnight](https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT) | 2:37 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 66 | [Heavenly Walk](https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Heavenly Walk](https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS) | 4:44 |
 | 67 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
 | 68 | [Priya \(Beloved\)](https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/3dfjHQXl4xuXAbSEPZarJL) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 4:18 |
-| 69 | [Bliss](https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN) | [Sufi Ellman](https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz) | [Bliss](https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2) | 2:15 |
+| 69 | [The Great Plains Hymn](https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Seasons Changing](https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu) | 1:59 |
 | 70 | [Long Ride](https://open.spotify.com/track/19TByZROgOouJ9uc4VPaSb) | [Musica Relajante](https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D), [Entspannungsmusik](https://open.spotify.com/artist/3xeIqGEgOD8QQstyUXSz4J), [Relaxing Music Therapy](https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN) | [Calm Moments Piano Music](https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn) | 2:30 |
-| 71 | [The Great Plains Hymn](https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Seasons Changing](https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu) | 1:59 |
+| 71 | [Bliss](https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN) | [Sufi Ellman](https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz) | [Bliss](https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2) | 2:15 |
 | 72 | [Danny](https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Broadchurch \(Music From The Original TV Series\)](https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR) | 4:23 |
 | 73 | [Canon in D](https://open.spotify.com/track/5b7rilZzZG7QbiaXiMyWqz) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 5:11 |
 | 74 | [Linger](https://open.spotify.com/track/0LRcLz3D9bHLPPVegJoFZL) | [Alexander Molina](https://open.spotify.com/artist/3zHtPCK9MEwzFqwuJwuYkW) | [Linger](https://open.spotify.com/album/67x2G6YcVVzuPCNR0kGBkI) | 2:43 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 89 | [anywhere](https://open.spotify.com/track/72vxTKMDAc9eh7Nb8wgpHU) | [Rosetta Arroyo](https://open.spotify.com/artist/6SOqlkZOWQ8ySlNYoxysKg) | [unspoken](https://open.spotify.com/album/13YgCo3QU3MKCB5d75wpAI) | 2:39 |
 | 90 | [As She Awakens](https://open.spotify.com/track/1tZxzyEBPmsMTOpc6t005r) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Monument](https://open.spotify.com/album/05oo8Bv67GY4iClgCrG6jv) | 3:15 |
 | 91 | [Lorimar](https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7) | [Danyel Varda](https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB) | [Mandala Spirit](https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z) | 3:42 |
-| 92 | [Surrender](https://open.spotify.com/track/5EJQuBhBqG7VU2Fi6y5btW) | [K](https://open.spotify.com/artist/0hd66OEzb2gfUd7drvOK3d) | [Surrender](https://open.spotify.com/album/033FoV2z84edQ98JTUxFIl) | 3:16 |
-| 93 | [Rain](https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 4:32 |
+| 92 | [Rain](https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 4:32 |
+| 93 | [Surrender](https://open.spotify.com/track/5EJQuBhBqG7VU2Fi6y5btW) | [K](https://open.spotify.com/artist/0hd66OEzb2gfUd7drvOK3d) | [Surrender](https://open.spotify.com/album/033FoV2z84edQ98JTUxFIl) | 3:16 |
 | 94 | [Time to Heal](https://open.spotify.com/track/1Z8DkdqPSCc4sScqQjz9oe) | [Vittoria Emanuelle](https://open.spotify.com/artist/0qQapHASppA0D5wvOcRe7Q) | [Time to Heal](https://open.spotify.com/album/2XBQ8mWB82EXOdQSQ2OEEP) | 2:34 |
 | 95 | [Silent Night](https://open.spotify.com/track/61IRuGBTbIXT1yl2OtAUwu) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Lonnie Park](https://open.spotify.com/artist/34fDpfsOWv8Z8r7A1goy8N) | [Nidra](https://open.spotify.com/album/3GfnOD0tBkLPIhVqVyBXaS) | 8:10 |
 | 96 | [Balance](https://open.spotify.com/track/67VwaFnie5tKXclaRO2Fer) | [T\. Landley](https://open.spotify.com/artist/4sWE38K3uQqp3ZmyMSFyJW) | [Balance](https://open.spotify.com/album/5RD6t7Q2kRnrZrT6JzXV8e) | 2:11 |

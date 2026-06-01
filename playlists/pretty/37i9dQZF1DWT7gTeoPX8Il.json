@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 169041,
+  "num_followers": 169080,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Lagu Pernikahan Kita",
-        "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
-      },
-      "artists": [
-        {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
-        },
-        {
-          "name": "Arsy Widianto",
-          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
-        }
-      ],
-      "duration_ms": 261476,
-      "name": "Lagu Pernikahan Kita",
-      "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
         "name": "Bermuara",
         "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 287465,
       "name": "Bermuara",
       "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
+        "name": "Lagu Pernikahan Kita",
+        "url": "https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+        }
+      ],
+      "duration_ms": 261476,
+      "name": "Lagu Pernikahan Kita",
+      "url": "https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Daur Hidup",
-        "url": "https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI"
-      },
-      "artists": [
-        {
-          "name": "Donne Maula",
-          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
-        }
-      ],
-      "duration_ms": 162739,
-      "name": "Daur Hidup",
-      "url": "https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
         "name": "Tak Selalu Memiliki (Ipar Adalah Maut Original Soundtrack)",
         "url": "https://open.spotify.com/album/1GfKNDVSJ5OGvTgrj0Coqu"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 260571,
       "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
       "url": "https://open.spotify.com/track/0wRXRWyFNE99paoKAUeA5s"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
+        "name": "Daur Hidup",
+        "url": "https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI"
+      },
+      "artists": [
+        {
+          "name": "Donne Maula",
+          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+        }
+      ],
+      "duration_ms": 162739,
+      "name": "Daur Hidup",
+      "url": "https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Bukan Lagi Kita",
-        "url": "https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv"
-      },
-      "artists": [
-        {
-          "name": "Nadeera",
-          "url": "https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Bukan Lagi Kita",
-      "url": "https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
         "name": "Sendiri",
         "url": "https://open.spotify.com/album/6qa8phimspRLQ5Zh5gJPgQ"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 239073,
       "name": "Musnah",
       "url": "https://open.spotify.com/track/3rznXO6e3t8WgvsR2ZOmKK"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
+        "name": "Bukan Lagi Kita",
+        "url": "https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv"
+      },
+      "artists": [
+        {
+          "name": "Nadeera",
+          "url": "https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Bukan Lagi Kita",
+      "url": "https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv"
     },
     {
       "added_at": "2026-02-20 05:28:17",

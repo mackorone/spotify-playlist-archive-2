@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\uae0d\uc815\uc801\uc774\uace0 \ubc1d\uc740 \uae30\uc6b4 \uac00\ub4dd\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud589\ubcf5\ud55c \uc0c8\ud574\ub97c \ub9de\uc774\ud558\uc138\uc694!",
-  "name": "\uc5b4\uc11c\uc640 2026 !",
+  "description": "\ucd95\uad6c \uacbd\uae30 \uc751\uc6d0\uac00/\ud14c\ub9c8\uace1\uacfc \ud568\uaed8 \ub300\ud55c\ubbfc\uad6d\uc758 \uacbd\uae30\ub97c \uc751\uc6d0\ud574\ubcf4\uc138\uc694!! \ud83c\uddf0\ud83c\uddf7",
+  "name": "\uc2b9\ub9ac\uc758 \ud568\uc131! \ucd95\uad6c \uc751\uc6d0\uac00 \u26bd ",
   "tracks": [
     {
       "album": {
@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267866,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
+    },
+    {
+      "album": {
         "name": "Love, Yerin",
         "url": "https://open.spotify.com/album/5a3LnwhYHFlx82Do9iuU8t"
       },
@@ -182,7 +200,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 220844,
       "name": "Always Awake - Bonus Track",
       "url": "https://open.spotify.com/track/4I55nWQr3aZPmxlzUDHjkS"
@@ -200,7 +218,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 220926,
       "name": "Always Awake - Bonus Track",
       "url": "https://open.spotify.com/track/6DcJLFmrrkwqhVOtIKr36u"
@@ -243,6 +261,36 @@
     },
     {
       "album": {
+        "name": "Arhbo [Arabic Version]",
+        "url": "https://open.spotify.com/album/1orEpvegayKRhGenAllkpQ"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        },
+        {
+          "name": "Nasser Al Kubaisi",
+          "url": "https://open.spotify.com/artist/3bvtOfgTNCw2Vpk3nClP1I"
+        },
+        {
+          "name": "Haneen Hussain",
+          "url": "https://open.spotify.com/artist/4CmKKm9NdvAUNGjpc3LjJJ"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202334,
+      "name": "Arhbo [Arabic Version]",
+      "url": "https://open.spotify.com/track/7JvhC9dUhq0MpL5yUhUIpT"
+    },
+    {
+      "album": {
         "name": "Jack In The Box",
         "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
       },
@@ -272,7 +320,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 195667,
       "name": "As You Wish",
       "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
@@ -308,7 +356,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 259866,
       "name": "ATHENA",
       "url": "https://open.spotify.com/track/6bvaxaTfeRpavgZXK1pAsn"
@@ -441,6 +489,32 @@
     },
     {
       "album": {
+        "name": "Become One",
+        "url": "https://open.spotify.com/album/4wSeKDz78EF6lnBpCjNj1z"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        },
+        {
+          "name": "UNEDUCATED KID",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        },
+        {
+          "name": "TransFixion",
+          "url": "https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192813,
+      "name": "Become One",
+      "url": "https://open.spotify.com/track/4AMpvQBVulTYH5gnypJNno"
+    },
+    {
+      "album": {
         "name": "Behind the camera",
         "url": "https://open.spotify.com/album/7JPpktvZ0OGvK0m3TkMQbY"
       },
@@ -474,6 +548,24 @@
       "duration_ms": 198319,
       "name": "Being There",
       "url": "https://open.spotify.com/track/6ytG5J2bUPGTQG4kWVfBg5"
+    },
+    {
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204346,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
     },
     {
       "album": {
@@ -600,10 +692,28 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 239880,
       "name": "blooming",
       "url": "https://open.spotify.com/track/2qZY6Idoa7WWPb1aFC5eYC"
+    },
+    {
+      "album": {
+        "name": "Born This Way (International Special Edition Version)",
+        "url": "https://open.spotify.com/album/6LY3AerY6KNGOPsNPL63Kk"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260252,
+      "name": "Born This Way",
+      "url": "https://open.spotify.com/track/30XU4suKzCeoCK9YFzdufg"
     },
     {
       "album": {
@@ -756,7 +866,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 266480,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/5tsv7SWaJ1u5EOy7ffaZgO"
@@ -826,7 +936,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 237026,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/7hHHVk8zubIU0x4GSFchW4"
@@ -927,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "Carnaval de Paris",
+        "url": "https://open.spotify.com/album/0wevT1LD6VQtghix2apQgQ"
+      },
+      "artists": [
+        {
+          "name": "Dario G",
+          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232653,
+      "name": "Carnaval de Paris - Radio Mix",
+      "url": "https://open.spotify.com/track/59mdyQniSaNFeXaKMGu9RB"
+    },
+    {
+      "album": {
         "name": "MAXIDENT",
         "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
       },
@@ -956,10 +1084,46 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 212360,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/5YRxqekM8SPnLRaY4DClAf"
+    },
+    {
+      "album": {
+        "name": "No. 18",
+        "url": "https://open.spotify.com/album/0y1oIfGo1T3NoHuC7lY8Rg"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266506,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/2mwArTWljrY38D1cd243PB"
+    },
+    {
+      "album": {
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
     },
     {
       "album": {
@@ -1053,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "Colors (Coca-Cola\u00ae Anthem, 2018 FIFA World CupTM)",
+        "url": "https://open.spotify.com/album/7pglizAVl7fH7acLADSS8d"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187389,
+      "name": "Colors - Coca-Cola\u00ae Anthem, 2018 FIFA World CupTM",
+      "url": "https://open.spotify.com/track/7wD6iRghe6SnKHkvHqpnC5"
+    },
+    {
+      "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/3Tt2lX8MvtFWaFhVKYhKIO"
       },
@@ -1064,7 +1246,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 275173,
       "name": "Coming Of Age Story",
       "url": "https://open.spotify.com/track/2ZTU8atPwouhoQSvxv9aQj"
@@ -1202,6 +1384,28 @@
       "duration_ms": 236960,
       "name": "Daddy's Daughter",
       "url": "https://open.spotify.com/track/4uFftok6WkuWWQDLN9d0RU"
+    },
+    {
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
       "album": {
@@ -1349,6 +1553,28 @@
     },
     {
       "album": {
+        "name": "Desire (Official FIFA Anthem) (feat. Laura Pausini)",
+        "url": "https://open.spotify.com/album/4idwkC0yHkciuQ6v0VkNU5"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223987,
+      "name": "Desire (Official FIFA Anthem) (feat. Laura Pausini)",
+      "url": "https://open.spotify.com/track/4cE1UKQ5RvZlo53dL2qtzr"
+    },
+    {
+      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/58T3Mkgs37IjcximP129MP"
       },
@@ -1360,7 +1586,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 179253,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
@@ -1486,7 +1712,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 203786,
       "name": "Dive",
       "url": "https://open.spotify.com/track/443LBzP0OxN1FzUNXHumAx"
@@ -1612,7 +1838,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 154080,
       "name": "Draw my path",
       "url": "https://open.spotify.com/track/3tNqsTDxLSioar0ZlBlU1J"
@@ -1648,7 +1874,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 184266,
       "name": "Dream Rider",
       "url": "https://open.spotify.com/track/0SoeUz2EAoRITKGY5JLkUJ"
@@ -1674,7 +1900,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 201391,
       "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
@@ -1692,7 +1918,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 226786,
       "name": "DREAMLIKE",
       "url": "https://open.spotify.com/track/3Hpzmd4GsW2vqxNplwUL1r"
@@ -1790,6 +2016,32 @@
       "duration_ms": 242343,
       "name": "East Coast",
       "url": "https://open.spotify.com/track/5vZ46Y2lI7dfF1a3dV3HZ0"
+    },
+    {
+      "album": {
+        "name": "Echo (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/7k1aRcg1pB0wDlOyB3HwrH"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135398,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/2jPYazutYa3HCyxbsLgdw1"
     },
     {
       "album": {
@@ -1952,7 +2204,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 172280,
       "name": "Every Moment With You",
       "url": "https://open.spotify.com/track/04HGddGSz9qgxiFJkR7oMy"
@@ -2155,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "18 Months",
+        "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206413,
+      "name": "Feel So Close - Radio Edit",
+      "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+    },
+    {
+      "album": {
         "name": "BSS 1st Single Album 'SECOND WIND'",
         "url": "https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW"
       },
@@ -2170,7 +2440,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 204466,
       "name": "Fighting (Feat. Lee Young Ji)",
       "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
@@ -2206,7 +2476,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 286213,
       "name": "Fly",
       "url": "https://open.spotify.com/track/0U4gMX1z7VAGvwPpjHjuq3"
@@ -2224,7 +2494,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 286213,
       "name": "Fly",
       "url": "https://open.spotify.com/track/3PWAXevGn0xxCDcPoeQAae"
@@ -2242,7 +2512,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 178175,
       "name": "Fly Up",
       "url": "https://open.spotify.com/track/4rRDmXBKB2X2Jnb8yLzAKZ"
@@ -2314,10 +2584,36 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 320720,
       "name": "Funeral hope",
       "url": "https://open.spotify.com/track/3467TuqmjZem7e7RlRlzqY"
+    },
+    {
+      "album": {
+        "name": "Game Time (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206166,
+      "name": "Game Time",
+      "url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr"
     },
     {
       "album": {
@@ -2484,7 +2780,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 213453,
       "name": "Go",
       "url": "https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc"
@@ -2520,10 +2816,58 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 222200,
       "name": "Go on!",
       "url": "https://open.spotify.com/track/54aEQVlwpCFlsphQiMIdV4"
+    },
+    {
+      "album": {
+        "name": "GO WEST",
+        "url": "https://open.spotify.com/album/2RxUKMuW45kOMES9OsQGDz"
+      },
+      "artists": [
+        {
+          "name": "Lazybone",
+          "url": "https://open.spotify.com/artist/6xP2saE1VcgnPlroMk0F8k"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "GO WEST",
+      "url": "https://open.spotify.com/track/727jHC7QOMT4JkC7Z8IlXz"
+    },
+    {
+      "album": {
+        "name": "Goals (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/32V31xJ7RTgNQB3qyMevei"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180345,
+      "name": "Goals",
+      "url": "https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ"
     },
     {
       "album": {
@@ -2630,10 +2974,28 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
+    },
+    {
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248133,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
     },
     {
       "album": {
@@ -2666,7 +3028,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 156354,
       "name": "Good Parts (when the quality is bad but I am)",
       "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
@@ -2846,7 +3208,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 262882,
       "name": "Grown up Child",
       "url": "https://open.spotify.com/track/43bsAXphz5g8yQvksF3ENN"
@@ -2920,10 +3282,40 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 236933,
       "name": "Happy me from today (Feat. Lee Sangsoon)",
       "url": "https://open.spotify.com/track/5dYHwnVY9Knvz7M3iuu8cL"
+    },
+    {
+      "album": {
+        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
+        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
+      },
+      "artists": [
+        {
+          "name": "Trinidad Cardona",
+          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Aisha",
+          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206069,
+      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
+      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
     },
     {
       "album": {
@@ -2992,7 +3384,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 334701,
       "name": "HERO (From the Film \u2033Firefighters\u2033)",
       "url": "https://open.spotify.com/track/5hse7JC8DFwZInsvw1Dobl"
@@ -3050,6 +3442,28 @@
       "duration_ms": 216773,
       "name": "Hey, Soul Sister",
       "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
+    },
+    {
+      "album": {
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
     },
     {
       "album": {
@@ -3242,7 +3656,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 168000,
       "name": "How To Fly",
       "url": "https://open.spotify.com/track/7G1G52J73XzMhzHxcknjBx"
@@ -3300,7 +3714,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 206038,
       "name": "I",
       "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
@@ -3372,7 +3786,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 230597,
       "name": "I FLY",
       "url": "https://open.spotify.com/track/3YW9BZAvwIvXF6C7D3cN6r"
@@ -3430,7 +3844,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 184984,
       "name": "I WANT IT",
       "url": "https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T"
@@ -3473,6 +3887,32 @@
     },
     {
       "album": {
+        "name": "Illuminate (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/7bWcEZkWHrGumRfvN6PPWJ"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183212,
+      "name": "Illuminate",
+      "url": "https://open.spotify.com/track/2xSEiQBQ39xfUgj2KmeRET"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST"
       },
@@ -3510,6 +3950,24 @@
       "duration_ms": 195989,
       "name": "in the distant future (feat. \uae40\uc218\uc5f0)",
       "url": "https://open.spotify.com/track/58QzsbkjVv7wLTGObf93X4"
+    },
+    {
+      "album": {
+        "name": "The Best Of Shin Hae-Chul / Struggling",
+        "url": "https://open.spotify.com/album/0Sw6DZcJz7174hWgm5K5t8"
+      },
+      "artists": [
+        {
+          "name": "Shin Hae Chul",
+          "url": "https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "Into The Arena",
+      "url": "https://open.spotify.com/track/3gzvUFhrDwtWNfqxG3CXlW"
     },
     {
       "album": {
@@ -3607,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "The Best Of CLON 2002",
+        "url": "https://open.spotify.com/album/0ioMNxyCTVsyaVYczSEMNp"
+      },
+      "artists": [
+        {
+          "name": "Clon",
+          "url": "https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207413,
+      "name": "Kick It",
+      "url": "https://open.spotify.com/track/4fApdSLKvld7s9B5BDgXnw"
+    },
+    {
+      "album": {
         "name": "Heng:gar\u00e6",
         "url": "https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy"
       },
@@ -3618,7 +4094,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 192893,
       "name": "Kidult",
       "url": "https://open.spotify.com/track/23EXCgTa99RN6b3KwtkodK"
@@ -3697,6 +4173,112 @@
     },
     {
       "album": {
+        "name": "Korea Oh Korea - SBS \uc6d4\ub4dc\ucef5 \uc751\uc6d0\uac00",
+        "url": "https://open.spotify.com/album/5ZAj6mXcVDwHhjLFbE8MqR"
+      },
+      "artists": [
+        {
+          "name": "The Crack",
+          "url": "https://open.spotify.com/artist/5AE6qHxNtuUbDbVvCCiLNC"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256156,
+      "name": "Korea Oh Korea(Full Ver.)",
+      "url": "https://open.spotify.com/track/4J3IIEJpeDXoQPAOWcvtew"
+    },
+    {
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277426,
+      "name": "La Copa de la Vida (La Cancion Oficial de la Copa Mundial, Francia '98) - Spanglish Radio Edit",
+      "url": "https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa"
+    },
+    {
+      "album": {
+        "name": "Shakira. (Expanded Edition) [Spanish Version]",
+        "url": "https://open.spotify.com/album/5meb7aKE722LA66ssBhvfM"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197626,
+      "name": "La La La (Brasil 2014) (feat. Carlinhos Brown) - Tradu\u00e7\u00e3o/Letra)",
+      "url": "https://open.spotify.com/track/6i2kn3iS5WKzsaYBdeHLIQ"
+    },
+    {
+      "album": {
+        "name": "The 2014 FIFA World Cup Official Album: One Love, One Rhythm",
+        "url": "https://open.spotify.com/album/5htwZrf4lCiZ6GTj9Z0CMo"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Carlinhos Brown",
+          "url": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197680,
+      "name": "La La La (Brazil 2014) (feat. Carlinhos Brown)",
+      "url": "https://open.spotify.com/track/2A17TySL9lcoRTA28w9yfB"
+    },
+    {
+      "album": {
+        "name": "Peace Is The Mission (Extended)",
+        "url": "https://open.spotify.com/album/2Vrovs0ox24aKH9pgiZcNB"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176561,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/4UKJUbcuStnnxLeJmVJsSc"
+    },
+    {
+      "album": {
         "name": "SHOOTING STAR",
         "url": "https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS"
       },
@@ -3751,6 +4333,24 @@
     },
     {
       "album": {
+        "name": "Let's Get It Started",
+        "url": "https://open.spotify.com/album/5zu6TWUkjK4kaa9Nu4Tjec"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "Let's Get It Started - Spike Mix",
+      "url": "https://open.spotify.com/track/6Ct1AsE9oTWUg1rmvIWJKM"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4"
       },
@@ -3784,6 +4384,70 @@
       "duration_ms": 178133,
       "name": "Life's Too Short (English Version)",
       "url": "https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T"
+    },
+    {
+      "album": {
+        "name": "Light The Sky [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
+        "url": "https://open.spotify.com/album/6wdzzvM5r17TGPXrIvKYJu"
+      },
+      "artists": [
+        {
+          "name": "Nora Fatehi",
+          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
+        },
+        {
+          "name": "Rahma Riad",
+          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
+        },
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        },
+        {
+          "name": "RedOne",
+          "url": "https://open.spotify.com/artist/5nHkhzi4KmcXbspnGVMcoT"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        },
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258782,
+      "name": "Light The Sky [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
+      "url": "https://open.spotify.com/track/1HHzmFwcB8Cs7WyNukkCSn"
+    },
+    {
+      "album": {
+        "name": "Lighter (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/1MSm697OSJkLnNed3JY0Dh"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179149,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/3i5yV30C8kFn84q5qIh2sY"
     },
     {
       "album": {
@@ -3928,7 +4592,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 214253,
       "name": "LILAC",
       "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
@@ -3993,6 +4657,32 @@
     },
     {
       "album": {
+        "name": "Live It Up (Official Song 2018 FIFA World Cup Russia)",
+        "url": "https://open.spotify.com/album/1oxKlNFmKZ4heJRiBP0Sny"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        },
+        {
+          "name": "Era Istrefi",
+          "url": "https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207977,
+      "name": "Live It Up - Official Song 2018 FIFA World Cup Russia",
+      "url": "https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT"
+    },
+    {
+      "album": {
         "name": "CRAZY IN LOVE",
         "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
       },
@@ -4026,6 +4716,28 @@
       "duration_ms": 191462,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV"
+    },
+    {
+      "album": {
+        "name": "The Official FIFA World Cup 26\u2122\ufe0f Host City Themes",
+        "url": "https://open.spotify.com/album/6IcCa6PvGhf4f73q8uShOh"
+      },
+      "artists": [
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        },
+        {
+          "name": "DJ Flict",
+          "url": "https://open.spotify.com/artist/5kGccnf4y59UqCEMOPzAXX"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130090,
+      "name": "Los Angeles City Theme x FIFA World Cup 26\u2122\ufe0f by DJ Flict",
+      "url": "https://open.spotify.com/track/1A0jy9LR2eoO3XSOOgaOje"
     },
     {
       "album": {
@@ -4246,10 +4958,32 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 140021,
       "name": "Lucky Girl Syndrome",
       "url": "https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275"
+    },
+    {
+      "album": {
+        "name": "Africainement v\u00f4tre",
+        "url": "https://open.spotify.com/album/7CbbTg0ujpAaeLvEvk8JqS"
+      },
+      "artists": [
+        {
+          "name": "Magic System",
+          "url": "https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F"
+        },
+        {
+          "name": "Chawki",
+          "url": "https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233693,
+      "name": "Magic in the Air (feat. Ahmed Chawki)",
+      "url": "https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn"
     },
     {
       "album": {
@@ -4322,6 +5056,32 @@
       "duration_ms": 182757,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
+    },
+    {
+      "album": {
+        "name": "Marhba Bik (Welcome), the Official Song of the FIFA U-17 Women\u2019s World Cup Morocco 2025\u2122\ufe0f",
+        "url": "https://open.spotify.com/album/1Q0pHcizLrZLW9NOv0jQOO"
+      },
+      "artists": [
+        {
+          "name": "Inez",
+          "url": "https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa"
+        },
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158882,
+      "name": "Marhba Bik (Welcome), the Official Song of the FIFA U-17 Women\u2019s World Cup Morocco 2025\u2122\ufe0f",
+      "url": "https://open.spotify.com/track/2xQqxzouN1XfONWiAoY1aY"
     },
     {
       "album": {
@@ -4452,10 +5212,54 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 197096,
       "name": "METEOR",
       "url": "https://open.spotify.com/track/06eq0M1eZRcIIRfx6d00nu"
+    },
+    {
+      "album": {
+        "name": "The Official FIFA World Cup 26\u2122\ufe0f Host City Themes",
+        "url": "https://open.spotify.com/album/6IcCa6PvGhf4f73q8uShOh"
+      },
+      "artists": [
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        },
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122142,
+      "name": "Mexico City Theme x FIFA World Cup 26\u2122\ufe0f by Mexican Institute Of Sound",
+      "url": "https://open.spotify.com/track/6pGotVUdNz2VLbiqzu8tPP"
+    },
+    {
+      "album": {
+        "name": "The Official FIFA World Cup 26\u2122\ufe0f Host City Themes",
+        "url": "https://open.spotify.com/album/6IcCa6PvGhf4f73q8uShOh"
+      },
+      "artists": [
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        },
+        {
+          "name": "Mr. Naisgai",
+          "url": "https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142600,
+      "name": "Miami Theme x FIFA World Cup 26\u2122\ufe0f by Mr. Naisgai",
+      "url": "https://open.spotify.com/track/3WNj3c4HUf1bYrO7YBEAsT"
     },
     {
       "album": {
@@ -4755,6 +5559,24 @@
     },
     {
       "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204811,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
+    },
+    {
+      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 1",
         "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
       },
@@ -4924,10 +5746,32 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 237129,
       "name": "New Year's Luck - Original Mix Remastered 2018",
       "url": "https://open.spotify.com/track/6lvVk13gK9xWjDjqTZnPLp"
+    },
+    {
+      "album": {
+        "name": "The Official FIFA World Cup 26\u2122\ufe0f Host City Themes",
+        "url": "https://open.spotify.com/album/6IcCa6PvGhf4f73q8uShOh"
+      },
+      "artists": [
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        },
+        {
+          "name": "Take A Daytrip",
+          "url": "https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122142,
+      "name": "New York New Jersey Theme x FIFA World Cup 26\u2122\ufe0f by Take A Daytrip",
+      "url": "https://open.spotify.com/track/5v4PxdGhGMlnZ1X4318mJo"
     },
     {
       "album": {
@@ -5159,6 +6003,24 @@
     },
     {
       "album": {
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192280,
+      "name": "On Top Of The World",
+      "url": "https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w"
+    },
+    {
+      "album": {
         "name": "Orchid",
         "url": "https://open.spotify.com/album/5bgIq10LAmMuagnq8qOmiZ"
       },
@@ -5195,6 +6057,24 @@
     },
     {
       "album": {
+        "name": "\uc9c0\uad6c\ub97c \uc9c0\ucf1c\ub77c! (Original Movie Soundtrack)",
+        "url": "https://open.spotify.com/album/262SznVf2Yg03opcSQS6SL"
+      },
+      "artists": [
+        {
+          "name": "TransFixion",
+          "url": "https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146533,
+      "name": "Over The Rainbow (Transfixion)",
+      "url": "https://open.spotify.com/track/2QfENCOUFLTDxfSfUqfBg3"
+    },
+    {
+      "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL"
       },
@@ -5206,7 +6086,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 198558,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
@@ -5469,6 +6349,32 @@
     },
     {
       "album": {
+        "name": "Por Ella (FIFA World Cup 2026\u2122)",
+        "url": "https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181253,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/7KKG3CoafcuqfCf7mkSR8J"
       },
@@ -5498,7 +6404,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 143242,
       "name": "POWER",
       "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
@@ -5613,6 +6519,24 @@
     },
     {
       "album": {
+        "name": "Marchand de sable",
+        "url": "https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b"
+      },
+      "artists": [
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235555,
+      "name": "Ramenez la coupe \u00e0 la maison",
+      "url": "https://open.spotify.com/track/1m0UFnuTktOkksvjbF9z0m"
+    },
+    {
+      "album": {
         "name": "REBEL HEART",
         "url": "https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3"
       },
@@ -5624,10 +6548,46 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
+    },
+    {
+      "album": {
+        "name": "Reds, Go Together",
+        "url": "https://open.spotify.com/album/3n9bBxZIl8mJ60sKsCZqEA"
+      },
+      "artists": [
+        {
+          "name": "\ud53c\uc544",
+          "url": "https://open.spotify.com/artist/0Fxv9zwau5n1luu2adbZp2"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195221,
+      "name": "Red Devils",
+      "url": "https://open.spotify.com/track/4tlLvWKnTyXNKk1NAxoW2j"
+    },
+    {
+      "album": {
+        "name": "Reds, Go Together",
+        "url": "https://open.spotify.com/album/3n9bBxZIl8mJ60sKsCZqEA"
+      },
+      "artists": [
+        {
+          "name": "\ubc84\uc988",
+          "url": "https://open.spotify.com/artist/0ekkC4Hy7Ki03yVHhTWiws"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242613,
+      "name": "Reds, Go Together",
+      "url": "https://open.spotify.com/track/7wBY3AMJTftdA5qcp7Vl63"
     },
     {
       "album": {
@@ -5660,7 +6620,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 219147,
       "name": "Reflection - From \"Mulan\"",
       "url": "https://open.spotify.com/track/0w3rgvi520T6gLn4PQKFrD"
@@ -5703,6 +6663,28 @@
     },
     {
       "album": {
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
+    },
+    {
+      "album": {
         "name": "Rest in Peace Mama (feat. Beta)",
         "url": "https://open.spotify.com/album/0pQP9tKyQGWIOpVVqsd6wn"
       },
@@ -5736,7 +6718,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 211760,
       "name": "RINGING",
       "url": "https://open.spotify.com/track/1ShTCj5B8ICnrkXyfhSWKn"
@@ -5787,6 +6769,32 @@
     },
     {
       "album": {
+        "name": "What Is Love? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251173,
+      "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
+      "url": "https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2"
+    },
+    {
+      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -5824,10 +6832,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 195480,
       "name": "Rose Blossom",
       "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
+    },
+    {
+      "album": {
+        "name": "The Golden Age",
+        "url": "https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2"
+      },
+      "artists": [
+        {
+          "name": "Woodkid",
+          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "Run Boy Run",
+      "url": "https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS"
     },
     {
       "album": {
@@ -5940,6 +6966,24 @@
       "duration_ms": 218660,
       "name": "Sally, When The Wine Runs Out",
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
+    },
+    {
+      "album": {
+        "name": "Samba de Janeiro",
+        "url": "https://open.spotify.com/album/5TfIXTpntvzKhPPH7JBBoR"
+      },
+      "artists": [
+        {
+          "name": "Bellini",
+          "url": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168444,
+      "name": "Samba de Janeiro",
+      "url": "https://open.spotify.com/track/5aIfLbdgkbH7NbQryd1poB"
     },
     {
       "album": {
@@ -6147,6 +7191,24 @@
     },
     {
       "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232106,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
+    },
+    {
+      "album": {
         "name": "Shelter Of Dreams",
         "url": "https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ"
       },
@@ -6158,7 +7220,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 272080,
       "name": "Shelter Of Dreams",
       "url": "https://open.spotify.com/track/2DauGSCkwdgts3sUkuQu30"
@@ -6198,7 +7260,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 232960,
       "name": "Shooting Star",
       "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
@@ -6416,6 +7478,24 @@
       "duration_ms": 179453,
       "name": "SNEAKERS",
       "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
+    },
+    {
+      "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "album": {
@@ -6899,6 +7979,28 @@
     },
     {
       "album": {
+        "name": "La Copa de la Vida",
+        "url": "https://open.spotify.com/album/3W5ZNGafvvKFq6YYcyMMgQ"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Pablo Flores",
+          "url": "https://open.spotify.com/artist/1zTUYXZHltJuaK4ONIzKDu"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279920,
+      "name": "The Cup of Life (The Official Song of the World Cup, France '98) - Remix - English Radio Edit",
+      "url": "https://open.spotify.com/track/68CzXNGAMmb3k5MhLu0xVb"
+    },
+    {
+      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/0Rfqw98N7kZ4qVPGWvt8Gn"
       },
@@ -6917,6 +8019,118 @@
     },
     {
       "album": {
+        "name": "The Official FIFA World Cup 26\u2122 Theme",
+        "url": "https://open.spotify.com/album/6lxQ4qtidgL3Ts9bibTiGj"
+      },
+      "artists": [
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122142,
+      "name": "The Official FIFA World Cup 26\u2122 Theme",
+      "url": "https://open.spotify.com/track/4sCJgFA6bx4vtiEVs5x0gW"
+    },
+    {
+      "album": {
+        "name": "The Reds and Korea",
+        "url": "https://open.spotify.com/album/1LvMILXSjr6tf5zjopAMPZ"
+      },
+      "artists": [
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "The Reds and Korea",
+      "url": "https://open.spotify.com/track/1VruHDum120zCG67vVi26O"
+    },
+    {
+      "album": {
+        "name": "We, the Reds",
+        "url": "https://open.spotify.com/album/3cQ4qBZ7PmUGPERnE8XQGK"
+      },
+      "artists": [
+        {
+          "name": "TransFixion",
+          "url": "https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3"
+        },
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192991,
+      "name": "The Shouts of Reds 2018",
+      "url": "https://open.spotify.com/track/30evcBM4ydREwQNgvJFzrH"
+    },
+    {
+      "album": {
+        "name": "Three Lions",
+        "url": "https://open.spotify.com/album/6vOxOnQHYrXocGtFkbEx57"
+      },
+      "artists": [
+        {
+          "name": "Baddiel, Skinner & Lightning Seeds",
+          "url": "https://open.spotify.com/artist/3LtYMPncqtiugGwOuuLq3h"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "Three Lions (Football's Coming Home)",
+      "url": "https://open.spotify.com/track/0Ai6qtPfiEYGCqBGJYWD1W"
+    },
+    {
+      "album": {
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292333,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
+    },
+    {
+      "album": {
+        "name": "Time of Our Lives",
+        "url": "https://open.spotify.com/album/6zCpB7vF0iCE2TGBpG1wv2"
+      },
+      "artists": [
+        {
+          "name": "Chawki",
+          "url": "https://open.spotify.com/artist/79b2ipSR68Uf9EzA438KZt"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223861,
+      "name": "Time of Our Lives",
+      "url": "https://open.spotify.com/track/1OPLF48hCfqeEjlFP3e8xX"
+    },
+    {
+      "album": {
         "name": "Time to Shine",
         "url": "https://open.spotify.com/album/6Smoxllzq1IoD6J11YAEb3"
       },
@@ -6928,7 +8142,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 198906,
       "name": "Time to Shine",
       "url": "https://open.spotify.com/track/3uWMfe3rWSwQZT4yAgGJhH"
@@ -6971,6 +8185,28 @@
     },
     {
       "album": {
+        "name": "Red Devil 5th \"We are the Reds\"",
+        "url": "https://open.spotify.com/album/12AGV8Gn7zV6v3rpZEq0vr"
+      },
+      "artists": [
+        {
+          "name": "TransFixion",
+          "url": "https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3"
+        },
+        {
+          "name": "Mina",
+          "url": "https://open.spotify.com/artist/1PMHqOZrnMxCsJJfUnI3y2"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "To the Victory 2014",
+      "url": "https://open.spotify.com/track/4EFATw5cZpRimq5gKBGd7V"
+    },
+    {
+      "album": {
         "name": "To. X - The 5th Mini Album",
         "url": "https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD"
       },
@@ -7008,6 +8244,24 @@
       "duration_ms": 181933,
       "name": "To.Mom",
       "url": "https://open.spotify.com/track/3J9QLmxdbUcaBjFJFRo9ET"
+    },
+    {
+      "album": {
+        "name": "The Reds and Korea",
+        "url": "https://open.spotify.com/album/1LvMILXSjr6tf5zjopAMPZ"
+      },
+      "artists": [
+        {
+          "name": "Cho Moon Geun Band",
+          "url": "https://open.spotify.com/artist/2053K4zLW7CivPHvamTXkC"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194784,
+      "name": "Toast to Victory",
+      "url": "https://open.spotify.com/track/26UFAH7nXisVXuXzZTLruH"
     },
     {
       "album": {
@@ -7065,6 +8319,36 @@
     },
     {
       "album": {
+        "name": "Tukoh Taka (Official FIFA Fan Festival\u2122Anthem)",
+        "url": "https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Myriam Fares",
+          "url": "https://open.spotify.com/artist/1YnW3KicGQq3zD9LcdGJSh"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178529,
+      "name": "Tukoh Taka - Official FIFA Fan Festival\u2122 Anthem",
+      "url": "https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ"
+    },
+    {
+      "album": {
         "name": "25 (\uc2a4\ubb3c \ub2e4\uc12f)",
         "url": "https://open.spotify.com/album/0dHsaDASfNkFnjgmQjMWzu"
       },
@@ -7094,7 +8378,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 205270,
       "name": "Twenty-Five",
       "url": "https://open.spotify.com/track/7IBv83rhYvNoTEZBJEmdu7"
@@ -7305,6 +8589,28 @@
     },
     {
       "album": {
+        "name": "Volunteer Theme x FIFA World Cup 26\u2122 by DJANE VIOLET",
+        "url": "https://open.spotify.com/album/4Cpe21C9CHKVX9nuGuwiVq"
+      },
+      "artists": [
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        },
+        {
+          "name": "Djane Violet",
+          "url": "https://open.spotify.com/artist/3Sh1PUYdNWI9KGFQO2uBdw"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122133,
+      "name": "Volunteer Theme x FIFA World Cup 26\u2122 by DJANE VIOLET",
+      "url": "https://open.spotify.com/track/3B3k8bDSy6Wgr7nyg8NcrF"
+    },
+    {
+      "album": {
         "name": "FIRST IMPACT",
         "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
       },
@@ -7320,6 +8626,166 @@
       "duration_ms": 183693,
       "name": "WA DA DA",
       "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
+    },
+    {
+      "album": {
+        "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+        "url": "https://open.spotify.com/album/3pzQF7YgU1f66pBayA8uHv"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/2Cd9iWfcOpGDHLz6tVA3G4"
+    },
+    {
+      "album": {
+        "name": "Listen Up! The Official 2010 FIFA World Cup Album",
+        "url": "https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ"
+    },
+    {
+      "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247426,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
+    },
+    {
+      "album": {
+        "name": "Troubadour (Champion Edition)",
+        "url": "https://open.spotify.com/album/2G7B2SMiz2TGTSmoihJRw2"
+      },
+      "artists": [
+        {
+          "name": "K'NAAN",
+          "url": "https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212506,
+      "name": "Wavin' Flag - Coca-Cola\u00ae Celebration Mix",
+      "url": "https://open.spotify.com/track/4NZvhN4bENiMBxlxyHujlZ"
+    },
+    {
+      "album": {
+        "name": "Troubadour (Champion Edition - Asian Version)",
+        "url": "https://open.spotify.com/album/5NeG7Rk7ZUGVgvIRxPOmJ3"
+      },
+      "artists": [
+        {
+          "name": "K'NAAN",
+          "url": "https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "Wavin' Flag - Coca-Cola\u00ae Celebration Mix",
+      "url": "https://open.spotify.com/track/4nOygULhEuDO5ZBRNPFaso"
+    },
+    {
+      "album": {
+        "name": "Globalization",
+        "url": "https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Claudia Leitte",
+          "url": "https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222559,
+      "name": "We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",
+      "url": "https://open.spotify.com/track/1PCvKFPWnTXAe2oaReVUcr"
+    },
+    {
+      "album": {
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "We Are The Champions - Remastered 2011",
+      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
+    },
+    {
+      "album": {
+        "name": "\uc2f8\uc9d1",
+        "url": "https://open.spotify.com/album/2ZhAZPjsWtCJ6ZDgtl6E63"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200346,
+      "name": "we are the one",
+      "url": "https://open.spotify.com/track/12JGUlBJZMIoKOIAMD3JP5"
     },
     {
       "album": {
@@ -7468,7 +8934,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 185546,
       "name": "WISH - Korean Ver.",
       "url": "https://open.spotify.com/track/7uRWaWF70gvKmLhpY3FuaJ"
@@ -7623,6 +9089,42 @@
     },
     {
       "album": {
+        "name": "The Best Hits Of Clon 2002 (The History Of Clon 1996-2000)",
+        "url": "https://open.spotify.com/album/6GYeagVUBtUSULYplexS8e"
+      },
+      "artists": [
+        {
+          "name": "Clon",
+          "url": "https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214306,
+      "name": "World Cup Song",
+      "url": "https://open.spotify.com/track/4D1N07EKeqOgBdJTohLzf4"
+    },
+    {
+      "album": {
+        "name": "The Best Of CLON 2002",
+        "url": "https://open.spotify.com/album/0ioMNxyCTVsyaVYczSEMNp"
+      },
+      "artists": [
+        {
+          "name": "Clon",
+          "url": "https://open.spotify.com/artist/3IvJqVgapy3AMUBmVGrvag"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214306,
+      "name": "World Cup Song",
+      "url": "https://open.spotify.com/track/7mxl9m75K2o7bo15OuoElC"
+    },
+    {
+      "album": {
         "name": "NEW DNA",
         "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
       },
@@ -7670,7 +9172,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 211660,
       "name": "Yes I am",
       "url": "https://open.spotify.com/track/3yL1v1JtX8k8zLOUoqGvq9"
@@ -7930,7 +9432,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 184267,
       "name": "\ub0a0\uc544\ub77c! \ub4dc\ub9bc\ub77c\uc774\ub354 Dream Rider",
       "url": "https://open.spotify.com/track/1j7snGbBwSspkycGNu1tqH"
@@ -7974,7 +9476,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 182833,
       "name": "\ub0b4\uc77c\uc774 \uc788\uc796\uc544 (Feat. Jayci yucca)",
       "url": "https://open.spotify.com/track/7yjWpSf5hZiI7gjz0jEKxk"
@@ -7992,7 +9494,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 209320,
       "name": "\ub3cc\ub369\uc774",
       "url": "https://open.spotify.com/track/6A9QEWYXpXLMeJLRjGsIJ1"
@@ -8010,7 +9512,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 86047,
       "name": "\ub4e3\uae30\ub9cc \ud574\ub3c4 \ubd80\uc790 \ub418\ub294 \uc74c\uc545",
       "url": "https://open.spotify.com/track/2jPFemDtlTYE7oOLaYItqC"
@@ -8053,6 +9555,24 @@
     },
     {
       "album": {
+        "name": "Reds, Go Together",
+        "url": "https://open.spotify.com/album/3n9bBxZIl8mJ60sKsCZqEA"
+      },
+      "artists": [
+        {
+          "name": "\ubd80\ud65c",
+          "url": "https://open.spotify.com/artist/1aQ0ylOjvfZSuvUjTRGfha"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197741,
+      "name": "\ubd89\uc740 \ubb3c\uacb0",
+      "url": "https://open.spotify.com/track/5vzvWZpjaaRGgdzD4eCuMS"
+    },
+    {
+      "album": {
         "name": "Desire To Fly",
         "url": "https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3"
       },
@@ -8064,7 +9584,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 270001,
       "name": "\ube44\uc0c1",
       "url": "https://open.spotify.com/track/6YZQnBMOVFYsUERkP1BjsM"
@@ -8089,6 +9609,24 @@
     },
     {
       "album": {
+        "name": "Reds, Go Together",
+        "url": "https://open.spotify.com/album/3n9bBxZIl8mJ60sKsCZqEA"
+      },
+      "artists": [
+        {
+          "name": "TransFixion",
+          "url": "https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208793,
+      "name": "\uc2b9\ub9ac\ub97c \uc704\ud558\uc5ec",
+      "url": "https://open.spotify.com/track/5hJjj5WR9HmJEexGnYp0aV"
+    },
+    {
+      "album": {
         "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9"
       },
@@ -8100,7 +9638,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 202440,
       "name": "\uc2dc\uc791",
       "url": "https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP"
@@ -8118,7 +9656,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 256626,
       "name": "\uc2dc\uc791\uc758 \uc544\uc774 \u30cf\u30b8\u30de\u30ea\u306e\u30b3 (Starting With You)",
       "url": "https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF"
@@ -8381,6 +9919,42 @@
     },
     {
       "album": {
+        "name": "Red Devil 2002 Official Album",
+        "url": "https://open.spotify.com/album/2Pua3PkMmgq68HjuMCvMlO"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123089,
+      "name": "\uc624 \ud544\uc2b9 \ucf54\ub9ac\uc544",
+      "url": "https://open.spotify.com/track/1GQ53T3vf5WXjWLbrdMxzO"
+    },
+    {
+      "album": {
+        "name": "Reds, Go Together",
+        "url": "https://open.spotify.com/album/3n9bBxZIl8mJ60sKsCZqEA"
+      },
+      "artists": [
+        {
+          "name": "\ubc84\uc988",
+          "url": "https://open.spotify.com/artist/0ekkC4Hy7Ki03yVHhTWiws"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227253,
+      "name": "\uc624! \ud544\uc2b9 \ucf54\ub9ac\uc544",
+      "url": "https://open.spotify.com/track/4Xn90HhpSSXtsHEQMbEdTv"
+    },
+    {
+      "album": {
         "name": "\uc6b0\ub9ac \ud560\uba38\ub2c8\ub294 \uc785\ub9db\uc774 \uc5c6\ub2e4 \ud558\uc2dc\uba70 \uc790\uafb8 \ub098\uc774\ub97c \ub4dc\uc2e0\ub2e4",
         "url": "https://open.spotify.com/album/5Due9uUBfPM8KDa4ZOawrb"
       },
@@ -8410,10 +9984,28 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 197778,
       "name": "\uc6b0\ub9b0 \uad6c\ub984\uc744 \ubc1f\uace0",
       "url": "https://open.spotify.com/track/5X7F8S7BU4DdeTfI7VmiFM"
+    },
+    {
+      "album": {
+        "name": "Reds, Go Together",
+        "url": "https://open.spotify.com/album/3n9bBxZIl8mJ60sKsCZqEA"
+      },
+      "artists": [
+        {
+          "name": "\ubd04\uc5ec\ub984\uac00\uc744\uaca8\uc6b8",
+          "url": "https://open.spotify.com/artist/0eEjepwGVqU2v3zfudzxHr"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171154,
+      "name": "\uc6d4\ub4dc\ucef5 \ube0c\ub77c\ubcf4 Song",
+      "url": "https://open.spotify.com/track/5Mkehd147fQk77Ccpxl7bo"
     },
     {
       "album": {
@@ -8450,6 +10042,28 @@
       "duration_ms": 265453,
       "name": "\ud669\ud63c\uc758 \ubb38\ud131",
       "url": "https://open.spotify.com/track/3pZuWYfGAK1tVVVkdaWlmC"
+    },
+    {
+      "album": {
+        "name": "2022 \uce74\ud0c0\ub974 \ub300\ud55c\ubbfc\uad6d \uc6d4\ub4dc\ucef5 \ud765\uc6d0\uac00",
+        "url": "https://open.spotify.com/album/6EzoeVXcIR1TZjs7R4L9nL"
+      },
+      "artists": [
+        {
+          "name": "ESang",
+          "url": "https://open.spotify.com/artist/5Ci2B26PF2SKMQVSfC4uvc"
+        },
+        {
+          "name": "Kim Heung Kook",
+          "url": "https://open.spotify.com/artist/2d5BY9oGVBk6hZJSW24kfN"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204040,
+      "name": "\ud765\ud574\ub77c \ub300\ud55c\ubbfc\uad6d",
+      "url": "https://open.spotify.com/track/3A4B4FC6HXj4jgHpLq13h5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0sa2Fqej3CR"

@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 598620,
+  "num_followers": 598732,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
-        "name": "Ponce: Estrellita (Arr. Abril & Barrueco for Guitar)",
-        "url": "https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx"
-      },
-      "artists": [
-        {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
-        },
-        {
-          "name": "Alexandra Whittingham",
-          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
-        }
-      ],
-      "duration_ms": 176585,
-      "name": "Estrellita (Arr. Abril & Barrueco for Guitar)",
-      "url": "https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9"
-    },
-    {
-      "added_at": "2026-05-29 04:00:58",
-      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 150415,
       "name": "Schwanenlied",
       "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
+    },
+    {
+      "added_at": "2026-05-29 04:00:58",
+      "album": {
+        "name": "Ponce: Estrellita (Arr. Abril & Barrueco for Guitar)",
+        "url": "https://open.spotify.com/album/0ztyoeKvYBlkX64d5W8lKx"
+      },
+      "artists": [
+        {
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+        },
+        {
+          "name": "Alexandra Whittingham",
+          "url": "https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM"
+        }
+      ],
+      "duration_ms": 176585,
+      "name": "Estrellita (Arr. Abril & Barrueco for Guitar)",
+      "url": "https://open.spotify.com/track/01yRkgF7l1pdFSCehiI7o9"
     },
     {
       "added_at": "2026-05-29 04:00:58",
@@ -1547,6 +1547,26 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
+        "name": "Debussy: R\u00eaverie, CD 76",
+        "url": "https://open.spotify.com/album/2W0kS2snDbRyZkpaTpJI4j"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Bruce Liu",
+          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
+        }
+      ],
+      "duration_ms": 259799,
+      "name": "R\u00eaverie, CD 76",
+      "url": "https://open.spotify.com/track/3VXIpxYMlX4GMSbR2Ijerb"
+    },
+    {
+      "added_at": "2026-05-29 04:00:58",
+      "album": {
         "name": "Beethoven: Piano Sonatas, Vol. 7",
         "url": "https://open.spotify.com/album/0Cquzn7E5wAEmCHjbPO0f6"
       },
@@ -1583,30 +1603,6 @@
       "duration_ms": 156233,
       "name": "Le Rossignol-en-Amour: 14\u00e8me ordre, 3\u00e8me livre",
       "url": "https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM"
-    },
-    {
-      "added_at": "2026-05-29 04:00:58",
-      "album": {
-        "name": "Mozart: Night Music - Serenades Nos. 6 & 13; A Musical Joke; Adagio & Fugue",
-        "url": "https://open.spotify.com/album/4nf4imwG0lfPqhoEGCazGT"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "The English Concert",
-          "url": "https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA"
-        },
-        {
-          "name": "Andrew Manze",
-          "url": "https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Minuet & Trio in C Major, K. 485a (Compl. Attwood)",
-      "url": "https://open.spotify.com/track/04HFjYp900E9b3Plshyvzo"
     },
     {
       "added_at": "2026-05-29 04:00:58",
@@ -1655,6 +1651,30 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
+        "name": "Mozart: Night Music - Serenades Nos. 6 & 13; A Musical Joke; Adagio & Fugue",
+        "url": "https://open.spotify.com/album/4nf4imwG0lfPqhoEGCazGT"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "The English Concert",
+          "url": "https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA"
+        },
+        {
+          "name": "Andrew Manze",
+          "url": "https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Minuet & Trio in C Major, K. 485a (Compl. Attwood)",
+      "url": "https://open.spotify.com/track/04HFjYp900E9b3Plshyvzo"
+    },
+    {
+      "added_at": "2026-05-29 04:00:58",
+      "album": {
         "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
         "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 114601,
       "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
       "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
-    },
-    {
-      "added_at": "2026-05-29 04:00:58",
-      "album": {
-        "name": "Debussy: R\u00eaverie, CD 76",
-        "url": "https://open.spotify.com/album/2W0kS2snDbRyZkpaTpJI4j"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Bruce Liu",
-          "url": "https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9"
-        }
-      ],
-      "duration_ms": 259799,
-      "name": "R\u00eaverie, CD 76",
-      "url": "https://open.spotify.com/track/3VXIpxYMlX4GMSbR2Ijerb"
     },
     {
       "added_at": "2026-05-29 04:00:58",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2026-05-29 04:00:58",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 161961,
-      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
-    },
-    {
-      "added_at": "2026-05-29 04:00:58",
-      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 77573,
       "name": "Ouverture-Suite in D Minor, TWV 55:d2: VIII. Menuet II. Doucement",
       "url": "https://open.spotify.com/track/2c8keEZtTmhetir5FfMRvT"
+    },
+    {
+      "added_at": "2026-05-29 04:00:58",
+      "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 161961,
+      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
     },
     {
       "added_at": "2026-05-29 04:00:58",

@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Kunmie",
-  "num_followers": 643594,
+  "num_followers": 643633,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-05-29 00:01:54",
       "album": {
-        "name": "Dealer",
-        "url": "https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180594,
-      "name": "Dealer",
-      "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
-    },
-    {
-      "added_at": "2026-05-29 00:01:54",
-      "album": {
         "name": "Juice & Liquor",
         "url": "https://open.spotify.com/album/5MlDvYvYASREJcq5nJN0OZ"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 177087,
       "name": "Juice & Liquor",
       "url": "https://open.spotify.com/track/4isHpjM4xVhRI74vGjUm4R"
+    },
+    {
+      "added_at": "2026-05-29 00:01:54",
+      "album": {
+        "name": "Dealer",
+        "url": "https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180594,
+      "name": "Dealer",
+      "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
     },
     {
       "added_at": "2026-05-29 00:01:54",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-05-29 00:01:54",
       "album": {
-        "name": "Gaddem",
-        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
-      },
-      "artists": [
-        {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Gaddem",
-      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
-    },
-    {
-      "added_at": "2026-05-29 00:01:54",
-      "album": {
         "name": "I'M OK",
         "url": "https://open.spotify.com/album/76l0XFIFlbBpMhYHg5pgOZ"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 157241,
       "name": "I'M OK",
       "url": "https://open.spotify.com/track/2f04CjDwGwX0QBHso7qdy5"
+    },
+    {
+      "added_at": "2026-05-29 00:01:54",
+      "album": {
+        "name": "Gaddem",
+        "url": "https://open.spotify.com/album/2G1jDSMvmlbb2Xnq2WEix1"
+      },
+      "artists": [
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Gaddem",
+      "url": "https://open.spotify.com/track/63cOYqSjpQXEBrMTkBQwrp"
     },
     {
       "added_at": "2026-05-29 00:01:54",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-05-29 00:01:54",
       "album": {
-        "name": "Isn't It Beautiful",
-        "url": "https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 156997,
-      "name": "Isn't It Beautiful",
-      "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
-    },
-    {
-      "added_at": "2026-05-29 00:01:54",
-      "album": {
         "name": "Luv Again",
         "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 220606,
       "name": "Luv Again",
       "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+    },
+    {
+      "added_at": "2026-05-29 00:01:54",
+      "album": {
+        "name": "Isn't It Beautiful",
+        "url": "https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 156997,
+      "name": "Isn't It Beautiful",
+      "url": "https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y"
     },
     {
       "added_at": "2026-05-29 00:01:54",

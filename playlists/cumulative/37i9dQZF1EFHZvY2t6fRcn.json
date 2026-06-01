@@ -2023,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "I Forgot / Out of my Head",
+        "url": "https://open.spotify.com/album/6ANjZWfiXY8sowZKEXOtaX"
+      },
+      "artists": [
+        {
+          "name": "Cara Delevingne",
+          "url": "https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230600,
+      "name": "I Forgot",
+      "url": "https://open.spotify.com/track/02zcxkBgtRdpHovTLgJRl1"
+    },
+    {
+      "album": {
         "name": "The Long Way Round (Deluxe)",
         "url": "https://open.spotify.com/album/2wPN08yZghT08iRTUfeB1x"
       },
@@ -2642,6 +2660,24 @@
       "duration_ms": 179426,
       "name": "Ooh Laa",
       "url": "https://open.spotify.com/track/0ulSIUvy5rSdkTEgUbJzm2"
+    },
+    {
+      "album": {
+        "name": "I Forgot / Out of my Head",
+        "url": "https://open.spotify.com/album/6ANjZWfiXY8sowZKEXOtaX"
+      },
+      "artists": [
+        {
+          "name": "Cara Delevingne",
+          "url": "https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Out of my Head",
+      "url": "https://open.spotify.com/track/5ExQZsB1FkAemKYykuvDUv"
     },
     {
       "album": {

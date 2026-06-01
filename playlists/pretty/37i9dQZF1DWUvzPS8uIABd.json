@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132656,
+  "num_followers": 132648,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
+        "name": "SUOMI SOIMAAN",
+        "url": "https://open.spotify.com/album/6S7ManFfpG2utmKFgyyDtK"
+      },
+      "artists": [
+        {
+          "name": "Vesta",
+          "url": "https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q"
+        }
+      ],
+      "duration_ms": 218651,
+      "name": "Helmi",
+      "url": "https://open.spotify.com/track/61dybiXP0dqHsqNdoPkMfy"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
         "name": "MMG",
         "url": "https://open.spotify.com/album/2TbFAQtfMExiXwaQqksQvW"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 186628,
       "name": "MMG",
       "url": "https://open.spotify.com/track/78F5qg3GeuvulXePGIL3vJ"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
-        "name": "SUOMI SOIMAAN",
-        "url": "https://open.spotify.com/album/6S7ManFfpG2utmKFgyyDtK"
-      },
-      "artists": [
-        {
-          "name": "Vesta",
-          "url": "https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q"
-        }
-      ],
-      "duration_ms": 218651,
-      "name": "Helmi",
-      "url": "https://open.spotify.com/track/61dybiXP0dqHsqNdoPkMfy"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
+        "name": "TEENAGE DREAM",
+        "url": "https://open.spotify.com/album/2QvJkqhNLgNDhDvhdq7lRw"
+      },
+      "artists": [
+        {
+          "name": "OLGA",
+          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
+        }
+      ],
+      "duration_ms": 147923,
+      "name": "TEENAGE DREAM",
+      "url": "https://open.spotify.com/track/15an2EUW6pXrY3Pv6Q2mac"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
         "name": "Adam & Steve",
         "url": "https://open.spotify.com/album/4fZRW3osgW79uGrmvifqeA"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 174372,
       "name": "Vesipisaroiden valssi (feat. KAUKUA)",
       "url": "https://open.spotify.com/track/7e64QPpNIC6pMFvabkY06u"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
-        "name": "TEENAGE DREAM",
-        "url": "https://open.spotify.com/album/2QvJkqhNLgNDhDvhdq7lRw"
-      },
-      "artists": [
-        {
-          "name": "OLGA",
-          "url": "https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub"
-        }
-      ],
-      "duration_ms": 147923,
-      "name": "TEENAGE DREAM",
-      "url": "https://open.spotify.com/track/15an2EUW6pXrY3Pv6Q2mac"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "FATHER (I Will Never Confess)",
-        "url": "https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk"
-      },
-      "artists": [
-        {
-          "name": "Erika Vikman",
-          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
-        }
-      ],
-      "duration_ms": 198250,
-      "name": "FATHER (I Will Never Confess)",
-      "url": "https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
         "name": "Kuudes aisti",
         "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 193965,
       "name": "Kuudes aisti",
       "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
+        "name": "FATHER (I Will Never Confess)",
+        "url": "https://open.spotify.com/album/787MQtQSxspIiK7b06vwzk"
+      },
+      "artists": [
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        }
+      ],
+      "duration_ms": 198250,
+      "name": "FATHER (I Will Never Confess)",
+      "url": "https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -931,26 +931,6 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "Syd\u00e4n (feat. Alina Burnet)",
-        "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
-      },
-      "artists": [
-        {
-          "name": "Lauri Haav",
-          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
-        },
-        {
-          "name": "Alina Burnet",
-          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
-        }
-      ],
-      "duration_ms": 225061,
-      "name": "Syd\u00e4n (feat. Alina Burnet)",
-      "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
         "name": "Entiseen el\u00e4m\u00e4\u00e4n",
         "url": "https://open.spotify.com/album/1JHx48hhuAxO1HSsQb2KWw"
       },
@@ -971,6 +951,26 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
+        "name": "Syd\u00e4n (feat. Alina Burnet)",
+        "url": "https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg"
+      },
+      "artists": [
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        },
+        {
+          "name": "Alina Burnet",
+          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
+        }
+      ],
+      "duration_ms": 225061,
+      "name": "Syd\u00e4n (feat. Alina Burnet)",
+      "url": "https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
         "name": "No. 1 Fani",
         "url": "https://open.spotify.com/album/4GF6JioXBG870YaDW5rXjn"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 172533,
       "name": "No. 1 Fani",
       "url": "https://open.spotify.com/track/0mJA8xolE0lLnB7JjxMvug"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
+        "name": "Pelkk\u00e4 kirosana",
+        "url": "https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY"
+      },
+      "artists": [
+        {
+          "name": "helmi marleena",
+          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
+        }
+      ],
+      "duration_ms": 192949,
+      "name": "Pelkk\u00e4 kirosana",
+      "url": "https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -1007,38 +1023,6 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "Pelkk\u00e4 kirosana",
-        "url": "https://open.spotify.com/album/69BJtiqmsfk2WkiuImEEYY"
-      },
-      "artists": [
-        {
-          "name": "helmi marleena",
-          "url": "https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK"
-        }
-      ],
-      "duration_ms": 192949,
-      "name": "Pelkk\u00e4 kirosana",
-      "url": "https://open.spotify.com/track/2LnXnh1HRlznaDtf5LrFOa"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
-        "name": "Stand Back",
-        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
-      },
-      "artists": [
-        {
-          "name": "Jukka Poika",
-          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
-        }
-      ],
-      "duration_ms": 165359,
-      "name": "Stand Back",
-      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
         "name": "El\u00e4k\u00f6\u00f6n el\u00e4m\u00e4",
         "url": "https://open.spotify.com/album/6e01m6cB2ym4pYjW6eRx89"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 199469,
       "name": "El\u00e4k\u00f6\u00f6n el\u00e4m\u00e4",
       "url": "https://open.spotify.com/track/5UmUoihlRQHchy2bt59YsL"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
+        "name": "Stand Back",
+        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
+      },
+      "artists": [
+        {
+          "name": "Jukka Poika",
+          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
+        }
+      ],
+      "duration_ms": 165359,
+      "name": "Stand Back",
+      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
+        "name": "Maailma on mun",
+        "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "duration_ms": 182438,
+      "name": "Kaikki on mahollist",
+      "url": "https://open.spotify.com/track/3MaLeuBpGax5hiCaLYlPis"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
         "name": "Kun tulee pimee",
         "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 165269,
       "name": "Kun tulee pimee",
       "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
-        "name": "PLAYBOY",
-        "url": "https://open.spotify.com/album/43qo3eIxgyF0ckL7sRvUoE"
-      },
-      "artists": [
-        {
-          "name": "Sonia",
-          "url": "https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah"
-        }
-      ],
-      "duration_ms": 183964,
-      "name": "PLAYBOY",
-      "url": "https://open.spotify.com/track/1tWP6V183Ux1z2xkZa0WSE"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "Maailma on mun",
-        "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
+        "name": "PLAYBOY",
+        "url": "https://open.spotify.com/album/43qo3eIxgyF0ckL7sRvUoE"
       },
       "artists": [
         {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+          "name": "Sonia",
+          "url": "https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah"
         }
       ],
-      "duration_ms": 182438,
-      "name": "Kaikki on mahollist",
-      "url": "https://open.spotify.com/track/3MaLeuBpGax5hiCaLYlPis"
+      "duration_ms": 183964,
+      "name": "PLAYBOY",
+      "url": "https://open.spotify.com/track/1tWP6V183Ux1z2xkZa0WSE"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "\u00c4l\u00e4 sano sua rumaksi",
-        "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
-      },
-      "artists": [
-        {
-          "name": "ELLIMEI",
-          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
-        }
-      ],
-      "duration_ms": 153135,
-      "name": "\u00c4l\u00e4 sano sua rumaksi",
-      "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
         "name": "Cokis ja Mentos",
         "url": "https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 167293,
       "name": "Cokis ja Mentos",
       "url": "https://open.spotify.com/track/7epSxuVlx3PKqCqQcr42i1"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
+        "name": "\u00c4l\u00e4 sano sua rumaksi",
+        "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        }
+      ],
+      "duration_ms": 153135,
+      "name": "\u00c4l\u00e4 sano sua rumaksi",
+      "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
     }
   ],
   "unique_name": "#vainsuomihitit",

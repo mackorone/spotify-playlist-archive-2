@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,281 songs - 5 day 14 hr 42 min
+2,283 songs - 5 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [Find a Local Number](https://open.spotify.com/track/5ssQ6lnBgbH7t71UjtWvtU) | [RamShackle](https://open.spotify.com/artist/0io5dV4KEggh6b7TR1EOPV) | [Find a Local Number](https://open.spotify.com/album/1H1YLJ2bi1gA8S9T5EjlqE) | 3:33 | 2026-04-21 |  |
 | [Finding the Light](https://open.spotify.com/track/3NRF7WdmISMZDHqnQihJ1f) | [Mello Marston](https://open.spotify.com/artist/55f0l7J5C0blvKjUW4m8pl) | [Finding the Light](https://open.spotify.com/album/35ywCORGOYMeTxKVETMPMK) | 2:44 | 2026-03-13 |  |
 | [Fine Dub](https://open.spotify.com/track/3OC1ZBl2IyA6A2Vn4CD7VU) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:19 | 2024-03-25 |  |
+| [Fiona's Promise](https://open.spotify.com/track/6pGJTHi6D1WgsvW9sWv66I) | [The Unk Skunk](https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe) | [Fiona's Promise](https://open.spotify.com/album/0BgJqVM50Qc0LydzgcRwFj) | 3:59 | 2026-05-31 |  |
 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 | 2024-03-04 |  |
 | [Fire on the Black Flags](https://open.spotify.com/track/2BZvjrW4tUWtkdMzSgS6Ua) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SPRING](https://open.spotify.com/album/3RLTwcxszKpeAT8bBoFdDV) | 2:49 | 2026-05-20 |  |
 | [Fire on the Black Flags](https://open.spotify.com/track/6NHwoy2BjpvkYL9Z6PzVUO) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Fire on the Black Flags](https://open.spotify.com/album/5VwdBeek9VvCzaW449fm1e) | 2:49 | 2026-03-13 |  |
@@ -2286,6 +2287,7 @@
 | [שלוש שנים](https://open.spotify.com/track/3MeArNHAOCEo4wLhpg4hnh) | [Bar Alfandari](https://open.spotify.com/artist/0GE2lMUi936oDHpSGEOaGH) | [קעקוע](https://open.spotify.com/album/2PVt35lk55xeksgl5yBiEN) | 3:13 | 2025-08-30 |  |
 | [قولي لية \( السكة ضاقت \)](https://open.spotify.com/track/09SbdmnCu4cyMrrBynK5M5) | [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt), [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk) | [قولي لية \( السكة ضاقت \)](https://open.spotify.com/album/4a62YKi3au42STNxvedOZl) | 3:47 | 2026-04-10 |  |
 | [ليل و سهر](https://open.spotify.com/track/1LpYFfXPmghqqxrSd8EoQz) | [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk), [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt) | [ليل و سهر](https://open.spotify.com/album/6f9FczaUDIwBd54D3k8RiG) | 2:59 | 2026-05-25 |  |
+| [مفيش فايدة \( بنلف في دايرة فاضية \)](https://open.spotify.com/track/3T71EW4SKk1F1j9p9eeojH) | [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt) | [مفيش فايدة \( بنلف في دايرة فاضية \)](https://open.spotify.com/album/55ly2sSClrLujKzB5jFTcN) | 3:55 | 2026-05-31 |  |
 | [あなた](https://open.spotify.com/track/7HHPTTI8vesYK563qCNckR) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [あなた](https://open.spotify.com/album/1CZNZD1qvAbHlFcdByhbfR) | 2:30 | 2025-06-09 |  |
 | [塩顔男子](https://open.spotify.com/track/0GSbY6mlGyfMNinV8YOlI1) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [塩顔男子](https://open.spotify.com/album/5VPhR0H5oRNQue1bggcMlH) | 3:07 | 2025-08-25 |  |
 | [好きになったもん負け。なんて信じない！](https://open.spotify.com/track/1a5L2HXxeJRDrc8wJq6Z8C) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [好きになったもん負け。なんて信じない！](https://open.spotify.com/album/7A1cBtzaQ5LwHMrPGtIdvx) | 4:37 | 2026-02-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 202 songs - 11 hr 57 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 203 songs - 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,5 +210,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 200 | [Weizenwetter](https://open.spotify.com/track/6zWKGR8Rn1EGib9mOP2jxf) | [LEEZE](https://open.spotify.com/artist/2IiWnyqGW4BZHM8THRSFpe) | [Weizenwetter](https://open.spotify.com/album/1HLwzEgafWcvuhsJqaIYgb) | 3:09 |
 | 201 | [Panama City](https://open.spotify.com/track/6ISqW48QK81L59hxZncmAW) | [Whale Sark](https://open.spotify.com/artist/3UzpxNnyCVw8z6Umc6IVaF) | [Panama City](https://open.spotify.com/album/6bLcagkAlCxdmPHmtpalIL) | 4:34 |
 | 202 | [I Hope You Know](https://open.spotify.com/track/5Me4wfIqY2GUH9u8lzJbBS) | [FYONA](https://open.spotify.com/artist/4DVQgGkceK5qLMWB9ICJkR) | [I Hope You Know](https://open.spotify.com/album/0tv09GUZwNTIiTWh5TWi5a) | 2:42 |
+| 203 | [Non ho niente d'intelligente da dire](https://open.spotify.com/track/1oHlgkWpq8XtbazzUiu4LZ) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK) | [Non ho niente d'intelligente da dire](https://open.spotify.com/album/2qiVxI3VlAhm04T5c146wJ) | 3:02 |
 
-Snapshot ID: `AAAUdKoDKsuQTVNkg27hEMWFWVRhkK+S`
+Snapshot ID: `AAAUdUB9uVnhNzLmj4Jv9C8sdImJNrMK`

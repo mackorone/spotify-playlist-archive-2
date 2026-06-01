@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-05-21 21:49:02",
       "album": {
-        "name": "\u05ea\u05e1\u05de\u05d9\u05e0\u05d9\u05dd \u05e9\u05dc \u05e4\u05e8\u05d9\u05d3\u05d4",
-        "url": "https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43"
-      },
-      "artists": [
-        {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        }
-      ],
-      "duration_ms": 175961,
-      "name": "\u05d0\u05d9\u05e4\u05d4 \u05e9\u05ea\u05d2\u05d9\u05d3\u05d9",
-      "url": "https://open.spotify.com/track/2PZ8BlakFfw8T8InWlkVLg"
-    },
-    {
-      "added_at": "2026-05-21 21:49:02",
-      "album": {
         "name": "New Day Will Rise",
         "url": "https://open.spotify.com/album/24y9OhOzeuod3kjeTjs9lJ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 179624,
       "name": "New Day Will Rise",
       "url": "https://open.spotify.com/track/1H5GUNNCrurtyoOKbS2tT8"
+    },
+    {
+      "added_at": "2026-05-21 21:49:02",
+      "album": {
+        "name": "\u05ea\u05e1\u05de\u05d9\u05e0\u05d9\u05dd \u05e9\u05dc \u05e4\u05e8\u05d9\u05d3\u05d4",
+        "url": "https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        }
+      ],
+      "duration_ms": 175961,
+      "name": "\u05d0\u05d9\u05e4\u05d4 \u05e9\u05ea\u05d2\u05d9\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/2PZ8BlakFfw8T8InWlkVLg"
     },
     {
       "added_at": "2026-05-21 21:49:02",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-05-21 21:49:02",
       "album": {
-        "name": "\u05d7\u05de\u05d9\u05e9\u05d4 \u05dc\u05d9\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs"
-      },
-      "artists": [
-        {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        }
-      ],
-      "duration_ms": 234844,
-      "name": "\u05e8\u05e7 \u05e9\u05dc\u05da",
-      "url": "https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N"
-    },
-    {
-      "added_at": "2026-05-21 21:49:02",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 178965,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw"
+    },
+    {
+      "added_at": "2026-05-21 21:49:02",
+      "album": {
+        "name": "\u05d7\u05de\u05d9\u05e9\u05d4 \u05dc\u05d9\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        }
+      ],
+      "duration_ms": 234844,
+      "name": "\u05e8\u05e7 \u05e9\u05dc\u05da",
+      "url": "https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N"
     },
     {
       "added_at": "2026-05-21 21:49:02",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-05-21 21:49:02",
       "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
-      },
-      "artists": [
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 218692,
-      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
-      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
-    },
-    {
-      "added_at": "2026-05-21 21:49:02",
-      "album": {
         "name": "PENNY LAME",
         "url": "https://open.spotify.com/album/3IRxlSrvryP0kmlxLRbws5"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 180352,
       "name": "PENNY LAME",
       "url": "https://open.spotify.com/track/4OiPfVNluW2rsWpqjERciX"
+    },
+    {
+      "added_at": "2026-05-21 21:49:02",
+      "album": {
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+      },
+      "artists": [
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 218692,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05dd",
+      "url": "https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef"
     },
     {
       "added_at": "2026-05-21 21:49:02",

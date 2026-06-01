@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-168 songs - 8 hr 52 min
+169 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Endlessly](https://open.spotify.com/track/3LRWraxJdgfnfSaV0zWZ5J) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/6aZ4ZtDzQNNIOFeHUj51No) | 5:00 | 2026-04-05 |  |
 | [Fading Away](https://open.spotify.com/track/6MJz5kRadbyADILsgi9Km4) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Fading Away](https://open.spotify.com/album/2tv1vYb3kL8OENATe7bRFe) | 3:57 | 2025-08-02 |  |
 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 | 2025-08-02 |  |
-| [Fear of Missing Out](https://open.spotify.com/track/12nV0dBwvdQ1h6IV3GRnc1) | [T:ME](https://open.spotify.com/artist/0JTYV7vcKAjuhUdQlAWJ5F) | [Fear of Missing Out](https://open.spotify.com/album/5QTHJtgF26BPakoxDzmC2D) | 3:06 | 2025-08-02 |  |
+| [Fear of Missing Out](https://open.spotify.com/track/12nV0dBwvdQ1h6IV3GRnc1) | [T:ME](https://open.spotify.com/artist/0JTYV7vcKAjuhUdQlAWJ5F) | [Fear of Missing Out](https://open.spotify.com/album/5QTHJtgF26BPakoxDzmC2D) | 3:06 | 2025-08-02 | 2026-06-01 |
+| [Fear of Missing Out](https://open.spotify.com/track/7jiBMgDb5B69mxiQnUCgXV) | [T:ME](https://open.spotify.com/artist/0JTYV7vcKAjuhUdQlAWJ5F), [Spencer Stewart](https://open.spotify.com/artist/1nQsezENSIztSFFNRF4dDX) | [Fear of Missing Out](https://open.spotify.com/album/2WqBLJhpm2GEeF6wmsBKJV) | 3:06 | 2026-05-31 |  |
 | [Feyoncé](https://open.spotify.com/track/7zibkGOiGEgZ4dR5pqCOW1) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [Melody Of A Memory](https://open.spotify.com/album/5HHk3WZje18OMnqE6VzVKB) | 2:10 | 2025-08-02 |  |
 | [First](https://open.spotify.com/track/1o0Pxy7HBl5pqiDRPROcob) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 2:46 | 2025-08-02 |  |
 | [foolish](https://open.spotify.com/track/1onG2NrPIVGnpUxORqcXqi) | [Elah Hale](https://open.spotify.com/artist/0EDEUACmghvLBhxLnMpyeU) | [foolish](https://open.spotify.com/album/536MhsgMyVylgUPfosDAUj) | 2:40 | 2025-08-02 |  |

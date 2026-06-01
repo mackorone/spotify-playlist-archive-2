@@ -1,6 +1,6 @@
 {
   "description": "Let go and let God.",
-  "num_followers": 346408,
+  "num_followers": 346398,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,26 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Spirit Breathe",
-        "url": "https://open.spotify.com/album/0ruqTmr1iVkkekhMSoWqtK"
+        "name": "keep me tender, keep me near",
+        "url": "https://open.spotify.com/album/0rmuV8S810HnA1pFQKVz5j"
       },
       "artists": [
         {
-          "name": "Echo Harbor Worship",
-          "url": "https://open.spotify.com/artist/0RMjAlLDOtjinKZEj6tJci"
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
         },
         {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+          "name": "Simon Wester",
+          "url": "https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO"
+        },
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
         }
       ],
-      "duration_ms": 296744,
-      "name": "Spirit Breathe",
-      "url": "https://open.spotify.com/track/3uPCdMhnn9Xs6Yh8T4xbnr"
+      "duration_ms": 175000,
+      "name": "keep me tender, keep me near",
+      "url": "https://open.spotify.com/track/1fPbaGuCol6aRs0beOFvle"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -403,26 +407,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "keep me tender, keep me near",
-        "url": "https://open.spotify.com/album/0rmuV8S810HnA1pFQKVz5j"
+        "name": "Spirit Breathe",
+        "url": "https://open.spotify.com/album/0ruqTmr1iVkkekhMSoWqtK"
       },
       "artists": [
         {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+          "name": "Echo Harbor Worship",
+          "url": "https://open.spotify.com/artist/0RMjAlLDOtjinKZEj6tJci"
         },
         {
-          "name": "Simon Wester",
-          "url": "https://open.spotify.com/artist/2qUycRIHExBVUPIoq6RUkO"
-        },
-        {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
         }
       ],
-      "duration_ms": 175000,
-      "name": "keep me tender, keep me near",
-      "url": "https://open.spotify.com/track/1fPbaGuCol6aRs0beOFvle"
+      "duration_ms": 296744,
+      "name": "Spirit Breathe",
+      "url": "https://open.spotify.com/track/3uPCdMhnn9Xs6Yh8T4xbnr"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -447,18 +447,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Day The Lord Has Made",
-        "url": "https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta"
+        "name": "Quench This Love",
+        "url": "https://open.spotify.com/album/1bYB5g35kfJhiqkmTCDUR5"
       },
       "artists": [
         {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+          "name": "D\u00e2mares Gomes",
+          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
         }
       ],
-      "duration_ms": 304800,
-      "name": "Day The Lord Has Made",
-      "url": "https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel"
+      "duration_ms": 231000,
+      "name": "Quench This Love",
+      "url": "https://open.spotify.com/track/19w9r9vWXOgomOlCTXczNr"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -479,18 +479,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Quench This Love",
-        "url": "https://open.spotify.com/album/1bYB5g35kfJhiqkmTCDUR5"
+        "name": "Day The Lord Has Made",
+        "url": "https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta"
       },
       "artists": [
         {
-          "name": "D\u00e2mares Gomes",
-          "url": "https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC"
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Quench This Love",
-      "url": "https://open.spotify.com/track/19w9r9vWXOgomOlCTXczNr"
+      "duration_ms": 304800,
+      "name": "Day The Lord Has Made",
+      "url": "https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/5jQqrndG6bMYnzNoeb6hZs"
-      },
-      "artists": [
-        {
-          "name": "Megan Tibbits",
-          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
-        }
-      ],
-      "duration_ms": 278035,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/7pG1MzJgF91mS2PNAZ4LXd"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "I Remind Myself (Live)",
         "url": "https://open.spotify.com/album/3YQj4UXmkPQ6d46bfXa0ob"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 245989,
       "name": "I Remind Myself - Live",
       "url": "https://open.spotify.com/track/1u0bArttdfyhYH29gR23Zu"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/5jQqrndG6bMYnzNoeb6hZs"
+      },
+      "artists": [
+        {
+          "name": "Megan Tibbits",
+          "url": "https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ"
+        }
+      ],
+      "duration_ms": 278035,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/7pG1MzJgF91mS2PNAZ4LXd"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Open Door (Live)",
-        "url": "https://open.spotify.com/album/0NxDsacgrGu2cZQDuv8LFQ"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 370839,
-      "name": "There Is Peace - Live",
-      "url": "https://open.spotify.com/track/1gArkzIvOIPRVWqXoUmpG8"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "The King Is Coming (Reimagined)",
         "url": "https://open.spotify.com/album/5ICnnanXjdEOP2tHzAlqkH"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 253632,
       "name": "Who You'll Always Be - Reimagined",
       "url": "https://open.spotify.com/track/37QFWIEWsLUyzPDRuUiYhX"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Open Door (Live)",
+        "url": "https://open.spotify.com/album/0NxDsacgrGu2cZQDuv8LFQ"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 370839,
+      "name": "There Is Peace - Live",
+      "url": "https://open.spotify.com/track/1gArkzIvOIPRVWqXoUmpG8"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "All Blessing",
-        "url": "https://open.spotify.com/album/0gmV0YaQmCDasG9wmMgqpG"
-      },
-      "artists": [
-        {
-          "name": "Anna Childs",
-          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
-        }
-      ],
-      "duration_ms": 256190,
-      "name": "All Blessing",
-      "url": "https://open.spotify.com/track/77akNBdUgVyOW1ECLt94BX"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Belovedness (Lullaby)",
         "url": "https://open.spotify.com/album/50oTpxuB6Vb5OmdE5BzKx9"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 232800,
       "name": "Belovedness - Lullaby",
       "url": "https://open.spotify.com/track/4otbUxvuD7PdY5gK3tZkSg"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "All Blessing",
+        "url": "https://open.spotify.com/album/0gmV0YaQmCDasG9wmMgqpG"
+      },
+      "artists": [
+        {
+          "name": "Anna Childs",
+          "url": "https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck"
+        }
+      ],
+      "duration_ms": 256190,
+      "name": "All Blessing",
+      "url": "https://open.spotify.com/track/77akNBdUgVyOW1ECLt94BX"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "BROKEN BUT I RISE",
-        "url": "https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri"
-      },
-      "artists": [
-        {
-          "name": "New Path Worship",
-          "url": "https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx"
-        }
-      ],
-      "duration_ms": 199719,
-      "name": "BROKEN BUT I RISE",
-      "url": "https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "All I Truly Know",
         "url": "https://open.spotify.com/album/3uG7sSj5QiHYKTnv6oUhV3"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 210857,
       "name": "All I Truly Know",
       "url": "https://open.spotify.com/track/6h0AC9XW1XI89240ONvx7D"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "BROKEN BUT I RISE",
+        "url": "https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri"
+      },
+      "artists": [
+        {
+          "name": "New Path Worship",
+          "url": "https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx"
+        }
+      ],
+      "duration_ms": 199719,
+      "name": "BROKEN BUT I RISE",
+      "url": "https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "MATIN: Home",
-        "url": "https://open.spotify.com/album/0Qucx2hDKwy57AZ7Wtj5Th"
-      },
-      "artists": [
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        }
-      ],
-      "duration_ms": 240687,
-      "name": "All My Tears",
-      "url": "https://open.spotify.com/track/1GQOcxv5TqzcGB6htUFpnr"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "You & Me",
         "url": "https://open.spotify.com/album/3OGu7hRk9AmV0GvBDXIJZA"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 198774,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/2SKn74eH7TukmmWCIRrrPp"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "MATIN: Home",
+        "url": "https://open.spotify.com/album/0Qucx2hDKwy57AZ7Wtj5Th"
+      },
+      "artists": [
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        }
+      ],
+      "duration_ms": 240687,
+      "name": "All My Tears",
+      "url": "https://open.spotify.com/track/1GQOcxv5TqzcGB6htUFpnr"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Give Me Rest",
-        "url": "https://open.spotify.com/album/6QOasW9GKveRo6nthEHswG"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 243704,
-      "name": "Give Me Rest",
-      "url": "https://open.spotify.com/track/69KgH1V1TPLDsYmq9Eu0fn"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "I Smile (Neo-Soul Version)",
         "url": "https://open.spotify.com/album/5r0D7BBk37EAbReud8Zjhe"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 137746,
       "name": "I Smile - Neo-Soul Version",
       "url": "https://open.spotify.com/track/3alP5tQ1DdiEcgtHacPLOj"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Give Me Rest",
+        "url": "https://open.spotify.com/album/6QOasW9GKveRo6nthEHswG"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 243704,
+      "name": "Give Me Rest",
+      "url": "https://open.spotify.com/track/69KgH1V1TPLDsYmq9Eu0fn"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2003,26 +2003,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "You Are Holy / Falling In Love With Jesus",
-        "url": "https://open.spotify.com/album/391izZ6H98ZIMQ6WGZT9o4"
-      },
-      "artists": [
-        {
-          "name": "David Andrew",
-          "url": "https://open.spotify.com/artist/44nxpJ4QALHoSoUFpWiIQc"
-        },
-        {
-          "name": "David Soh",
-          "url": "https://open.spotify.com/artist/5gQJetIU8Kv0bvDgAusFeO"
-        }
-      ],
-      "duration_ms": 182413,
-      "name": "You Are Holy / Falling In Love With Jesus",
-      "url": "https://open.spotify.com/track/7o65kENeLGJbAPrn4MwyfB"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Tomorrow Mind",
         "url": "https://open.spotify.com/album/2kY3zCakEuOOS48ac4boMJ"
       },
@@ -2055,6 +2035,26 @@
       "duration_ms": 226758,
       "name": "Give Us Clean Hands",
       "url": "https://open.spotify.com/track/4hTd0w8f0YXDcFJxOjQEVV"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "You Are Holy / Falling In Love With Jesus",
+        "url": "https://open.spotify.com/album/391izZ6H98ZIMQ6WGZT9o4"
+      },
+      "artists": [
+        {
+          "name": "David Andrew",
+          "url": "https://open.spotify.com/artist/44nxpJ4QALHoSoUFpWiIQc"
+        },
+        {
+          "name": "David Soh",
+          "url": "https://open.spotify.com/artist/5gQJetIU8Kv0bvDgAusFeO"
+        }
+      ],
+      "duration_ms": 182413,
+      "name": "You Are Holy / Falling In Love With Jesus",
+      "url": "https://open.spotify.com/track/7o65kENeLGJbAPrn4MwyfB"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5755DgGFCgS6f2Pzt89WbJ"
+      },
+      "artists": [
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
+        }
+      ],
+      "duration_ms": 351840,
+      "name": "More Fire",
+      "url": "https://open.spotify.com/track/0x4I55F4BJK2zS695SWtZn"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "It's So Good to Need You",
         "url": "https://open.spotify.com/album/24uTX01x4LqhTnb9YlX6Ly"
       },
@@ -2167,22 +2183,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/5755DgGFCgS6f2Pzt89WbJ"
-      },
-      "artists": [
-        {
-          "name": "Esua",
-          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
-        }
-      ],
-      "duration_ms": 351840,
-      "name": "More Fire",
-      "url": "https://open.spotify.com/track/0x4I55F4BJK2zS695SWtZn"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Sparrows (Acoustic)",
         "url": "https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo"
       },
@@ -2215,26 +2215,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Yeshua",
-        "url": "https://open.spotify.com/album/1017fCJGdhko9FO0P4QSF9"
-      },
-      "artists": [
-        {
-          "name": "Gungor",
-          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
-        },
-        {
-          "name": "Laura C",
-          "url": "https://open.spotify.com/artist/2QXiJH1K9OEDvejWMc0EYr"
-        }
-      ],
-      "duration_ms": 543479,
-      "name": "Yeshua",
-      "url": "https://open.spotify.com/track/2G1w0Bn8KNQtJe4sM3QNSn"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Voice So Precious",
         "url": "https://open.spotify.com/album/7iCHAP9zG7WMiuF6WFXdzD"
       },
@@ -2263,6 +2243,26 @@
       "duration_ms": 206530,
       "name": "Jesus Cries - Unplugged Version",
       "url": "https://open.spotify.com/track/1Y8mtlqG8bI4GzI0CpbLhA"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Yeshua",
+        "url": "https://open.spotify.com/album/1017fCJGdhko9FO0P4QSF9"
+      },
+      "artists": [
+        {
+          "name": "Gungor",
+          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+        },
+        {
+          "name": "Laura C",
+          "url": "https://open.spotify.com/artist/2QXiJH1K9OEDvejWMc0EYr"
+        }
+      ],
+      "duration_ms": 543479,
+      "name": "Yeshua",
+      "url": "https://open.spotify.com/track/2G1w0Bn8KNQtJe4sM3QNSn"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Come Thou Fount",
-        "url": "https://open.spotify.com/album/5J65uMoIxeivCC9bQG6oLu"
-      },
-      "artists": [
-        {
-          "name": "Love & The Outcome",
-          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
-        }
-      ],
-      "duration_ms": 223600,
-      "name": "Come Thou Fount",
-      "url": "https://open.spotify.com/track/2USk0mSPJMZjdPQFCtU0o5"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Mental Help",
         "url": "https://open.spotify.com/album/6gNhyDKRFJc9BZ2LrZq2o1"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 224094,
       "name": "Rest",
       "url": "https://open.spotify.com/track/2EeTkq8DEzBCpxSuyqWDIP"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Come Thou Fount",
+        "url": "https://open.spotify.com/album/5J65uMoIxeivCC9bQG6oLu"
+      },
+      "artists": [
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+        }
+      ],
+      "duration_ms": 223600,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/2USk0mSPJMZjdPQFCtU0o5"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Cutting Through",
-        "url": "https://open.spotify.com/album/05k0qlSJHk8Puqyppo78ru"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 266815,
-      "name": "Cutting Through",
-      "url": "https://open.spotify.com/track/3VLyEMI7b12KZFbaMa36YK"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "Faithfulness & Kem Di Hallelujah",
         "url": "https://open.spotify.com/album/3QMYzQvw4pFbV3H5ZUJgw8"
       },
@@ -2515,18 +2499,18 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Like Everybody Else",
-        "url": "https://open.spotify.com/album/6ZeGqLGUopeVokA6dQQUVK"
+        "name": "Cutting Through",
+        "url": "https://open.spotify.com/album/05k0qlSJHk8Puqyppo78ru"
       },
       "artists": [
         {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
         }
       ],
-      "duration_ms": 192500,
-      "name": "Like Everybody Else",
-      "url": "https://open.spotify.com/track/2aOAMQcIW3tiPNomNPsuZy"
+      "duration_ms": 266815,
+      "name": "Cutting Through",
+      "url": "https://open.spotify.com/track/3VLyEMI7b12KZFbaMa36YK"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2547,6 +2531,22 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
+        "name": "Like Everybody Else",
+        "url": "https://open.spotify.com/album/6ZeGqLGUopeVokA6dQQUVK"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Like Everybody Else",
+      "url": "https://open.spotify.com/track/2aOAMQcIW3tiPNomNPsuZy"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
         "name": "Between Garden and Glory",
         "url": "https://open.spotify.com/album/1DQrVH9FevzD9EkqDDYM6B"
       },
@@ -2559,6 +2559,22 @@
       "duration_ms": 299236,
       "name": "Between Garden and Glory",
       "url": "https://open.spotify.com/track/5SS74lv4c1dHRDv7J1Mj8g"
+    },
+    {
+      "added_at": "2026-04-17 06:49:13",
+      "album": {
+        "name": "Living Water",
+        "url": "https://open.spotify.com/album/7dQNytGm36FVwX005CcmzX"
+      },
+      "artists": [
+        {
+          "name": "Deborah Billyben",
+          "url": "https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj"
+        }
+      ],
+      "duration_ms": 345999,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/1IwoLntlnhcvmJ5pdOGeo0"
     },
     {
       "added_at": "2026-04-17 06:49:13",
@@ -2619,22 +2635,6 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "Living Water",
-        "url": "https://open.spotify.com/album/7dQNytGm36FVwX005CcmzX"
-      },
-      "artists": [
-        {
-          "name": "Deborah Billyben",
-          "url": "https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj"
-        }
-      ],
-      "duration_ms": 345999,
-      "name": "Living Water",
-      "url": "https://open.spotify.com/track/1IwoLntlnhcvmJ5pdOGeo0"
-    },
-    {
-      "added_at": "2026-04-17 06:49:13",
-      "album": {
         "name": "It Is Done",
         "url": "https://open.spotify.com/album/7vGdaDyZxXCA73IIGcVm3Q"
       },
@@ -2651,18 +2651,26 @@
     {
       "added_at": "2026-04-17 06:49:13",
       "album": {
-        "name": "'Tis So Sweet to Trust in Jesus",
-        "url": "https://open.spotify.com/album/7rl9IXPfsyEU1bzvD005mI"
+        "name": "Precious Wine",
+        "url": "https://open.spotify.com/album/5aZ4Gy4rkDIdmcpVmwNRAn"
       },
       "artists": [
         {
-          "name": "Logan and Katie",
-          "url": "https://open.spotify.com/artist/29mBJluOiESLCXX9eFpkJs"
+          "name": "Kieran De La Harpe",
+          "url": "https://open.spotify.com/artist/0ga5nCOIYGuTbCaY6yHIOl"
+        },
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        },
+        {
+          "name": "Rothbury",
+          "url": "https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye"
         }
       ],
-      "duration_ms": 206470,
-      "name": "'Tis So Sweet to Trust in Jesus",
-      "url": "https://open.spotify.com/track/2LLF8eOLgBs4lgBxkEgH04"
+      "duration_ms": 378181,
+      "name": "Precious Wine",
+      "url": "https://open.spotify.com/track/0nkjRQ02czr5R11E0EeWCb"
     }
   ],
   "unique_name": "Be Still",

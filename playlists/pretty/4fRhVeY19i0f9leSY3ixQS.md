@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added regularly :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,367 likes - 218 songs - 11 hr 48 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,368 likes - 228 songs - 12 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -226,5 +226,15 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 216 | [DLR](https://open.spotify.com/track/4HxisSe8CDMIgFEDDd32D5) | [SULFITE](https://open.spotify.com/artist/1L8pBrYuxoPyeMurTh454s) | [DLR](https://open.spotify.com/album/5WmQEaQTNesPYwJwiSLiVx) | 3:45 |
 | 217 | [Beyond The Light](https://open.spotify.com/track/26vrsbBRCrnRoln8sZZtaN) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Shapes Of The Gloom](https://open.spotify.com/album/5ifTQ8XktSfaReA6cHjg4P) | 3:24 |
 | 218 | [The Last Frequency](https://open.spotify.com/track/1vPf1NmZiKXBUMWhfc9fCL) | [FACEVOLT](https://open.spotify.com/artist/6pIqGqpnJZlIGDzwTsv9WH) | [LONG WAY](https://open.spotify.com/album/7uzLn5WRyAa5Ac5qhJgEKC) | 4:26 |
+| 219 | [Almost Alright](https://open.spotify.com/track/1e2bfdoVKrSM4VbfhQkucw) | [Ugly Bridesmaids](https://open.spotify.com/artist/0gj5NWtV59oZATC9oRiCuB) | [Almost Alright](https://open.spotify.com/album/1DLCkneGG65a5rQHuSZwon) | 1:39 |
+| 220 | [Pink Noises](https://open.spotify.com/track/52gZK9uDQM7g0wvcvJ56wr) | [Satva](https://open.spotify.com/artist/5hW3wXuMeJBeG11j3YSL5o) | [Pink Noises](https://open.spotify.com/album/4PQrY6AeBdjMZMck9tDidz) | 3:31 |
+| 221 | [There's Not Enough Black In Your Images](https://open.spotify.com/track/4aVNW8SDgXy3xzSLHrGDz3) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [There's Not Enough Black In Your Images](https://open.spotify.com/album/3ujWLhJoyqqPfAMiCqlbCm) | 4:18 |
+| 222 | [Still Within](https://open.spotify.com/track/6pFkswwI3CUjIHlUjMUqaM) | [Malabari](https://open.spotify.com/artist/4CnyEflqNfnU0nGAt0PQ77) | [...And Into The Abyss](https://open.spotify.com/album/3ZohHVNaWlwn0FZfqB7LfP) | 5:00 |
+| 223 | [Have Your Say](https://open.spotify.com/track/5G0y8rEfDcnsT6MyxquLmn) | [Friends With Boats](https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc) | [Have Your Say](https://open.spotify.com/album/3sJgNrX4tRIJlI4wJpVzNh) | 2:57 |
+| 224 | [BLEED \- Single Version](https://open.spotify.com/track/6OOhnKmVu1YxR8IKPOqpbf) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BLEED](https://open.spotify.com/album/1HUACNh5N6FCKrsQcOzTya) | 2:53 |
+| 225 | [Vessel](https://open.spotify.com/track/6lfG1ve3hUeViVHq5Qqzqq) | [GLDN](https://open.spotify.com/artist/7DFqTND6l3CivKuXFL7zfW) | [Vessel](https://open.spotify.com/album/6j79vB7AG5rREwvnCYP5cu) | 3:51 |
+| 226 | [Berezin](https://open.spotify.com/track/10SrNbg6O4aIFaim1YkjpP) | [Crush](https://open.spotify.com/artist/5yvFvBNNtlQLLiV6QZOreL) | [EL DIABLO](https://open.spotify.com/album/446hwj8FbwM0R6XECjBbed) | 2:48 |
+| 227 | [The Family Secret](https://open.spotify.com/track/5v6DxofVLhcqQWsO4JlQ1v) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [The Family Secret](https://open.spotify.com/album/1kDUZGxfVbg4uS3OC0MqpB) | 2:59 |
+| 228 | [EViL<>DiscO](https://open.spotify.com/track/3w1XPuH9KdQ0hqk5osPHfq) | [Mission Stark](https://open.spotify.com/artist/252sia2rdafviOs3V9aRjT) | [EViL<>DiscO](https://open.spotify.com/album/18SGpV863owaQFdmpcVxBO) | 2:27 |
 
-Snapshot ID: `AAAQE/mddeLXkclXYYD3nlYBpMXpqDVR`
+Snapshot ID: `AAAQHSKpsOGe163969j8eXyF+AnRsUlx`

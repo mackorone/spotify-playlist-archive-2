@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,837 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,838 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 7 | [Weight of Sound](https://open.spotify.com/track/3W4x7fZhMHw2pE6wyBzzF8) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R), [TJ O'Neill](https://open.spotify.com/artist/4maVD6NJFM9n1U8z0Vd262) | [Burial Ground](https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE) | 7:23 |
 | 8 | [Into The Sun \- EP Version](https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Already Gone](https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE) | 5:00 |
 | 9 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 |
-| 10 | [I Am](https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [The Story of You](https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx) | 4:21 |
-| 11 | [Nectar Drop](https://open.spotify.com/track/3QbtJmJeeh8JE5EtAD1Eh0) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [Jahta Beat: The Lotus Memoirs](https://open.spotify.com/album/61GQtLkHRdK3jmnm9aoAFZ) | 4:00 |
-| 12 | [Give Thanks \(feat\. Stick Figure\)](https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Sacred Sound](https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796) | 3:36 |
+| 10 | [Give Thanks \(feat\. Stick Figure\)](https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r) | [Iya Terra](https://open.spotify.com/artist/1uXHYeD8JQjkaIGvEARs4D), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Sacred Sound](https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796) | 3:36 |
+| 11 | [I Am](https://open.spotify.com/track/1a7xPbQ5QJJelGgSc4rmK8) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [The Story of You](https://open.spotify.com/album/6P3vOGSpgf7pHvJVpY9TLx) | 4:21 |
+| 12 | [Nectar Drop](https://open.spotify.com/track/3QbtJmJeeh8JE5EtAD1Eh0) | [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [Jahta Beat: The Lotus Memoirs](https://open.spotify.com/album/61GQtLkHRdK3jmnm9aoAFZ) | 4:00 |
 | 13 | [Salvation](https://open.spotify.com/track/4va2tNNWYut7ycFZ2zjvTk) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Salvation](https://open.spotify.com/album/2rJJUaHPFt7uyS8qE7wrbR) | 4:19 |
 | 14 | [Permanent Holiday](https://open.spotify.com/track/73gASYnzwZAzq5IYQf4Hff) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [The Change I'm Seeking](https://open.spotify.com/album/4jCGl3siqH9eTslNqzudLR) | 8:02 |
 | 15 | [You Can't Rush Your Healing](https://open.spotify.com/track/7kdJcH97qbvW7ubH6ukOTf) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:51 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 24 | [When Will I Learn](https://open.spotify.com/track/7wEOApTPakhHeJ6qg0drrJ) | [Rob Riccardo](https://open.spotify.com/artist/4VbWKy3JWAFBro0dARznBa) | [The Fire in Me](https://open.spotify.com/album/2Msz9ZE73nnfVx6DRKoNet) | 4:21 |
 | 25 | [Don't Hold Your Breath](https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [You're It!](https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S) | 3:36 |
 | 26 | [These Are My Roots](https://open.spotify.com/track/2n0ORNOlH1ZP3nXp4QEqWO) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [These Are My Roots](https://open.spotify.com/album/29QwobCCAbSYwuJMXpMYaC) | 3:54 |
-| 27 | [Indigo](https://open.spotify.com/track/3eVI3IOrq5u8NPOKWSiFlP) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:31 |
-| 28 | [You Ain't Going Nowhere](https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [You Ain't Going Nowhere](https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ) | 2:25 |
+| 27 | [You Ain't Going Nowhere](https://open.spotify.com/track/6ToeXQreJDxSwej9PQgoCC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [You Ain't Going Nowhere](https://open.spotify.com/album/0A2gzxhs9VNdJf2ctyN7cQ) | 2:25 |
+| 28 | [Indigo](https://open.spotify.com/track/3eVI3IOrq5u8NPOKWSiFlP) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [KALA](https://open.spotify.com/album/7LInWgnlGzdaGS8neaQoR3) | 5:31 |
 | 29 | [Change The World](https://open.spotify.com/track/318KlGWToczNB1mHZlH3SU) | [Leilani Wolfgramm](https://open.spotify.com/artist/1CJqIxlYOwcuIZAzfhfnZj), [Jacob Hemphill](https://open.spotify.com/artist/19eNU5TerePMfGRGoKxC3b), [Fortunate Youth](https://open.spotify.com/artist/53eTH57OzNJCKOohjcWMoB) | [Sugarshack Sessions Selects, Vol\. 1](https://open.spotify.com/album/6uo1uYH6afoP84SUliIPkS) | 3:17 |
 | 30 | [Just to Say I Love You](https://open.spotify.com/track/0ARW77w2p7lghXvnDNiLYI) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Stay Human Vol\. II](https://open.spotify.com/album/4nGq2g2GpoSJniROsGJoKH) | 2:49 |
 | 31 | [Breathe](https://open.spotify.com/track/38B7DBC5xcEiYRHNfNROoe) | [Satsang](https://open.spotify.com/artist/5q73QGeZGnA3ChVIPxIvyc) | [Kulture](https://open.spotify.com/album/28BxL4zo6T1mTBLh81TzyT) | 4:36 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 46 | [No Regrets](https://open.spotify.com/track/5cjvwsuXLWoKIxy13wCOsm) | [Mike Love](https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC) | [Love Overflowing](https://open.spotify.com/album/3gkTud0H2xXXfVXlwtU2Wu) | 5:22 |
 | 47 | [Fast And Slow](https://open.spotify.com/track/4OO9SNBNWasLpz5MiwqxEM) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Double Vision](https://open.spotify.com/album/2K4mKmxSsxhkkhqESs6Foj) | 4:40 |
 | 48 | [The Great Unknown](https://open.spotify.com/track/21AgHZ2EyROGUEq6lPqu8E) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [The Great Unknown](https://open.spotify.com/album/7KPEITgznag0cVjUDY8KET) | 4:10 |
-| 49 | [Warm Under the Light](https://open.spotify.com/track/5p4ydBPTPRhhQ6mWTWswXJ) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Low Tide](https://open.spotify.com/album/0vYG3TaFXfpIqNXLvTo4GL) | 3:53 |
+| 49 | [Call on the Wolves](https://open.spotify.com/track/1h1rjRbZwiVc1y2jNqYphX) | [Dustin Thomas](https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK) | [Call on the Wolves](https://open.spotify.com/album/3ne5IY3MK0FoaxXccvBvR4) | 5:33 |
 | 50 | [Red Road Soul](https://open.spotify.com/track/066Dx92oWS0hI10RzJEItj) | [Tubby Love](https://open.spotify.com/artist/2iIIX35bw7TQhOve8Ur5tG) | [Red Road Soul](https://open.spotify.com/album/1KEbOLz0XhCP7l0GFjeA3Y) | 5:15 |
 
 Snapshot ID: `AAAAAGazCCRLaLJzzDoVJcQwwJbm9NIl`

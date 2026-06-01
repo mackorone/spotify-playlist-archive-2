@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Mucco",
-  "num_followers": 574589,
+  "num_followers": 574529,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -395,26 +395,6 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "wegen dir.",
-        "url": "https://open.spotify.com/album/5G9TnMKD3nPTyxig4mHqv7"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        },
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
-        }
-      ],
-      "duration_ms": 172857,
-      "name": "wegen dir.",
-      "url": "https://open.spotify.com/track/0V9tCM5tGcNicWoytK8D5o"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
         "name": "tempo",
         "url": "https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 164745,
       "name": "tempo",
       "url": "https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
+        "name": "wegen dir.",
+        "url": "https://open.spotify.com/album/5G9TnMKD3nPTyxig4mHqv7"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "duration_ms": 172857,
+      "name": "wegen dir.",
+      "url": "https://open.spotify.com/track/0V9tCM5tGcNicWoytK8D5o"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Wenn es regnet",
-        "url": "https://open.spotify.com/album/6z904C0mk8NJa8XSiEu5C0"
-      },
-      "artists": [
-        {
-          "name": "Symba",
-          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
-        }
-      ],
-      "duration_ms": 112679,
-      "name": "Wenn es regnet",
-      "url": "https://open.spotify.com/track/5HTzGYpdqc0rZzLiByZC4Q"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
         "name": "wie du manchmal fehlst",
         "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "OHNE DICH",
-        "url": "https://open.spotify.com/album/4Pmcl0b76Ka2AOEce4KXcO"
+        "name": "Wenn es regnet",
+        "url": "https://open.spotify.com/album/6z904C0mk8NJa8XSiEu5C0"
       },
       "artists": [
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY"
         }
       ],
-      "duration_ms": 175218,
-      "name": "OHNE DICH",
-      "url": "https://open.spotify.com/track/7x0s3muKqhVtxqXpk9RhvR"
+      "duration_ms": 112679,
+      "name": "Wenn es regnet",
+      "url": "https://open.spotify.com/track/5HTzGYpdqc0rZzLiByZC4Q"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -975,6 +959,22 @@
       "duration_ms": 129023,
       "name": "WAS ICH BIN",
       "url": "https://open.spotify.com/track/7syy0KIJDEXson69rGXK35"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
+        "name": "OHNE DICH",
+        "url": "https://open.spotify.com/album/4Pmcl0b76Ka2AOEce4KXcO"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "duration_ms": 175218,
+      "name": "OHNE DICH",
+      "url": "https://open.spotify.com/track/7x0s3muKqhVtxqXpk9RhvR"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Regentage",
-        "url": "https://open.spotify.com/album/0PFt6WX6A7W0MIJsBtK0b0"
-      },
-      "artists": [
-        {
-          "name": "Souly",
-          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
-        },
-        {
-          "name": "Lucio101",
-          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
-        }
-      ],
-      "duration_ms": 178217,
-      "name": "Regentage",
-      "url": "https://open.spotify.com/track/2wsshURx5YlfXcUpJETi5T"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
         "name": "Ich liebe.... (feat. MAJAN)",
         "url": "https://open.spotify.com/album/6AjZsOYjpu97IWWLJrXOzj"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 237250,
       "name": "Ich liebe.... (feat. MAJAN)",
       "url": "https://open.spotify.com/track/3ki3YXx0OtIjOZ0Plcj6KW"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
+        "name": "Regentage",
+        "url": "https://open.spotify.com/album/0PFt6WX6A7W0MIJsBtK0b0"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        },
+        {
+          "name": "Lucio101",
+          "url": "https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv"
+        }
+      ],
+      "duration_ms": 178217,
+      "name": "Regentage",
+      "url": "https://open.spotify.com/track/2wsshURx5YlfXcUpJETi5T"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Weisse Orchideen",
-        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "Weisse Orchideen",
-      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
         "name": "Gesegnet",
         "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 221579,
       "name": "Bei Nacht",
       "url": "https://open.spotify.com/track/3DVjjnzWtCURhhGlswtymg"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
+        "name": "Weisse Orchideen",
+        "url": "https://open.spotify.com/album/0dQq7rjlKZbkK2bPGfiZT2"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 177208,
+      "name": "Weisse Orchideen",
+      "url": "https://open.spotify.com/track/0fNYJMvRcSBEC4zK3SClpK"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Eh zu kurz",
-        "url": "https://open.spotify.com/album/6fDwn30tXqPNrSypjqPh0G"
-      },
-      "artists": [
-        {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
-        },
-        {
-          "name": "GReeeN",
-          "url": "https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd"
-        }
-      ],
-      "duration_ms": 144120,
-      "name": "Eh zu kurz",
-      "url": "https://open.spotify.com/track/29ubUu1EekkAvy3H2hxNNC"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
         "name": "Gesegnet",
         "url": "https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 191450,
       "name": "Gesegnet",
       "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
+        "name": "Eh zu kurz",
+        "url": "https://open.spotify.com/album/6fDwn30tXqPNrSypjqPh0G"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        },
+        {
+          "name": "GReeeN",
+          "url": "https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd"
+        }
+      ],
+      "duration_ms": 144120,
+      "name": "Eh zu kurz",
+      "url": "https://open.spotify.com/track/29ubUu1EekkAvy3H2hxNNC"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Sad Holiday (Schwarzer Sand)",
-        "url": "https://open.spotify.com/album/12UG4kJJvo6nKQ1b4s2fBw"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 178582,
-      "name": "Sad Holiday (Schwarzer Sand)",
-      "url": "https://open.spotify.com/track/143OixORbbu7309OOxQHFV"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
         "name": "Plug",
         "url": "https://open.spotify.com/album/1T5ftJvgOHmUnaXw5GLwoK"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 175240,
       "name": "Plug",
       "url": "https://open.spotify.com/track/1apdrrO6QhgdZ5IFPsrXwl"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
+        "name": "Sad Holiday (Schwarzer Sand)",
+        "url": "https://open.spotify.com/album/12UG4kJJvo6nKQ1b4s2fBw"
+      },
+      "artists": [
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
+        }
+      ],
+      "duration_ms": 178582,
+      "name": "Sad Holiday (Schwarzer Sand)",
+      "url": "https://open.spotify.com/track/143OixORbbu7309OOxQHFV"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "9 Leben (Eins \u00fcbrig)",
-        "url": "https://open.spotify.com/album/7zkV4UJ6oToN21XonJTX5H"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 163501,
-      "name": "9 Leben (Eins \u00fcbrig)",
-      "url": "https://open.spotify.com/track/61qrYKersfFpefdPPwGYkH"
-    },
-    {
-      "added_at": "2026-04-30 22:02:23",
-      "album": {
         "name": "kleine Feuer",
         "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa"
       },
@@ -1787,18 +1771,34 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Bleib",
-        "url": "https://open.spotify.com/album/4nu43xWIcRfWXl6PXkUxgO"
+        "name": "9 Leben (Eins \u00fcbrig)",
+        "url": "https://open.spotify.com/album/7zkV4UJ6oToN21XonJTX5H"
       },
       "artists": [
         {
-          "name": "Eddin",
-          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
         }
       ],
-      "duration_ms": 133599,
-      "name": "Bleib",
-      "url": "https://open.spotify.com/track/0MhuZSPKF5O3A889rPnZUA"
+      "duration_ms": 163501,
+      "name": "9 Leben (Eins \u00fcbrig)",
+      "url": "https://open.spotify.com/track/61qrYKersfFpefdPPwGYkH"
+    },
+    {
+      "added_at": "2026-04-30 22:02:23",
+      "album": {
+        "name": "Was war das",
+        "url": "https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn"
+      },
+      "artists": [
+        {
+          "name": "Olson",
+          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
+        }
+      ],
+      "duration_ms": 160448,
+      "name": "Was war das",
+      "url": "https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF"
     },
     {
       "added_at": "2026-04-30 22:02:23",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2026-04-30 22:02:23",
       "album": {
-        "name": "Was war das",
-        "url": "https://open.spotify.com/album/6UbwfuixJigc1oxGWowRGn"
+        "name": "Bleib",
+        "url": "https://open.spotify.com/album/4nu43xWIcRfWXl6PXkUxgO"
       },
       "artists": [
         {
-          "name": "Olson",
-          "url": "https://open.spotify.com/artist/3JtuxOs4xRaE4r0S50WcSI"
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
         }
       ],
-      "duration_ms": 160448,
-      "name": "Was war das",
-      "url": "https://open.spotify.com/track/0j9stlpfmon31bZfoD5PpF"
+      "duration_ms": 133599,
+      "name": "Bleib",
+      "url": "https://open.spotify.com/track/0MhuZSPKF5O3A889rPnZUA"
     },
     {
       "added_at": "2026-04-30 22:02:23",

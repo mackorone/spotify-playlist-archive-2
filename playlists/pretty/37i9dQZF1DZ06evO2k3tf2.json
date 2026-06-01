@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1442383,
+  "num_followers": 1442528,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAD9YAUabiyIFVkIQ5TruWDT",
+  "snapshot_id": "ahoogAAAAACebzyYoyrQaR9jWty9vTTX",
   "tracks": [
     {
       "added_at": null,
@@ -331,18 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vessel",
-        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/18r1yGUJUNHXYj1DQU0qIE"
       },
       "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
         {
           "name": "Twenty One Pilots",
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 267720,
-      "name": "Car Radio",
-      "url": "https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P"
+      "duration_ms": 192000,
+      "name": "The Line (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/52IZK2QdSxUf7O5gdwhail"
     },
     {
       "added_at": null,
@@ -395,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/18r1yGUJUNHXYj1DQU0qIE"
+        "name": "Vessel",
+        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
       },
       "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
         {
           "name": "Twenty One Pilots",
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 192000,
-      "name": "The Line (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/52IZK2QdSxUf7O5gdwhail"
+      "duration_ms": 267720,
+      "name": "Car Radio",
+      "url": "https://open.spotify.com/track/5cbpoIu3YjoOwbBDGUEp3P"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,015 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,053 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 25 | [Ha Ha Ha](https://open.spotify.com/track/57JUrL5ZfFN35tLCJuyGmU) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I) | [Ha Ha Ha](https://open.spotify.com/album/5gxztKpDmQc00vuOCE9NtV) | 3:09 |
 | 26 | [SYSTEM PAAD](https://open.spotify.com/track/5T0zX3YBzgxknRs74X50YM) | [Virat](https://open.spotify.com/artist/3uHCE9eimH5dJx7TLslsmE), [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Vaishali Chaudhary](https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq) | [SYSTEM PAAD](https://open.spotify.com/album/3mqaU3yGoA1XQXV7dj5t4Z) | 2:35 |
 | 27 | [Jazbaati Bande](https://open.spotify.com/track/3EVoVFpeF3O89KLyJMuhxL) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Jazbaati Bande](https://open.spotify.com/album/6dKzLGsI9xxqgvjImYA3kw) | 3:42 |
-| 28 | [BROTHERHOOD](https://open.spotify.com/track/3wFvPbq2unoV7EaQUHMQZ4) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [BROTHERHOOD](https://open.spotify.com/album/7FbUkl3XwYstd8g2xI9tQy) | 2:32 |
-| 29 | [Chora Baba Ka](https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Chora Baba Ka](https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS) | 2:55 |
+| 28 | [Chora Baba Ka](https://open.spotify.com/track/3fz747rKjbEa6mtclKacjf) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Chora Baba Ka](https://open.spotify.com/album/6qW38JP4tbzrsZ5VtxUNUS) | 2:55 |
+| 29 | [BROTHERHOOD](https://open.spotify.com/track/3wFvPbq2unoV7EaQUHMQZ4) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [BROTHERHOOD](https://open.spotify.com/album/7FbUkl3XwYstd8g2xI9tQy) | 2:32 |
 | 30 | [Jaat Anthem](https://open.spotify.com/track/3XcyzvbdfkXaXyFSEwUfUq) | [D Naveen](https://open.spotify.com/artist/5D80BHvnjVZSI4M9mVp7Sb), [Kajal Saraswat](https://open.spotify.com/artist/4lCRPDIGHWbey0EkWI9lF9), [Sumit Kajla](https://open.spotify.com/artist/3Hvf7S9LHmpan3CzIUGaRq) | [Jaat Anthem](https://open.spotify.com/album/1SlzsALoJIh9X8RQC67ScO) | 2:33 |
 | 31 | [Kah Diye](https://open.spotify.com/track/1DX4Pj3IGtk7LvcVPC6Eoo) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Kah Diye](https://open.spotify.com/album/0kJS7CuXrnhACry2ULRFhu) | 2:39 |
 | 32 | [Jaat](https://open.spotify.com/track/7ukOVopzKs1CFGZgZRTOMo) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Ghanu Music](https://open.spotify.com/artist/21dcNsxyYDyCaF33KDYL3T) | [Jaat](https://open.spotify.com/album/1T3kwFgMDCxWqQzfU61use) | 2:57 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 45 | [No One Knows](https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [No One Knows](https://open.spotify.com/album/0wwZVKonQFQMtpHAHHW2Zs) | 3:12 |
 | 46 | [Haryana Side](https://open.spotify.com/track/7fHUxpAV4YIPnk0QIzmtGP) | [Ash Bhardwaj](https://open.spotify.com/artist/3S0GVWEMxgcQgMM7EScrX5), [Dhruv Balyaan](https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw) | [Haryana Side](https://open.spotify.com/album/0Io4qN1ciIoZwubHch7Use) | 2:46 |
 | 47 | [Tha Tha](https://open.spotify.com/track/3NCTkRAJLcSK0OMyuomlAs) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf) | [Tha Tha](https://open.spotify.com/album/48tF1dtmzFTUflbODkZ6UO) | 2:49 |
-| 48 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 |
-| 49 | [0008](https://open.spotify.com/track/3QbBAFPQh3BOcGHUiSRGMV) | [R Maan](https://open.spotify.com/artist/0fNDH2JsW1yPrwIYjyOB5n) | [0008](https://open.spotify.com/album/2HvTVuae3QUQEM9SiyzqHT) | 2:41 |
+| 48 | [0008](https://open.spotify.com/track/3QbBAFPQh3BOcGHUiSRGMV) | [R Maan](https://open.spotify.com/artist/0fNDH2JsW1yPrwIYjyOB5n) | [0008](https://open.spotify.com/album/2HvTVuae3QUQEM9SiyzqHT) | 2:41 |
+| 49 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 |
 | 50 | [Dole Laadle](https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dole Laadle](https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq) | 3:01 |
 
 Snapshot ID: `AAAAAJXeTGdOFSsnh0WKg+Vd4v2E0Bee`

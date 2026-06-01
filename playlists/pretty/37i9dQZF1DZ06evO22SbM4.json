@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 47409,
+  "num_followers": 47430,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAA8PfOmLXL6jPE/MLt8hRSc",
+  "snapshot_id": "ahoogAAAAAA3FykY/tPRA2sKtx8ABdOx",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Believe",
-        "url": "https://open.spotify.com/album/5hGKVyBnm1l8cYuDNlykJn"
+        "name": "The Climb",
+        "url": "https://open.spotify.com/album/4wgM4DAqjKCY9t3zQ6cU3W"
       },
       "artists": [
         {
           "name": "Bailey Zimmerman",
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 161214,
-      "name": "Just Believe",
-      "url": "https://open.spotify.com/track/4wudj4XYQ1dqmK2vcZwudU"
+      "duration_ms": 230680,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/5TFrCaVcHteA1QbGwwIJD6"
     },
     {
       "added_at": null,
@@ -119,18 +115,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Climb",
-        "url": "https://open.spotify.com/album/4wgM4DAqjKCY9t3zQ6cU3W"
+        "name": "Just Believe",
+        "url": "https://open.spotify.com/album/5hGKVyBnm1l8cYuDNlykJn"
       },
       "artists": [
         {
           "name": "Bailey Zimmerman",
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 230680,
-      "name": "The Climb",
-      "url": "https://open.spotify.com/track/5TFrCaVcHteA1QbGwwIJD6"
+      "duration_ms": 161214,
+      "name": "Just Believe",
+      "url": "https://open.spotify.com/track/4wudj4XYQ1dqmK2vcZwudU"
     },
     {
       "added_at": null,

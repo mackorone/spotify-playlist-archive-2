@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Martin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,887 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,887 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 47 | [TKM CNT XFA](https://open.spotify.com/track/3kHxYzvottpn4pmV5GBADA) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [TKM CNT XFA](https://open.spotify.com/album/7E3vNnKm7alB2ayeYuaO3Q) | 3:32 |
 | 48 | [Tócame](https://open.spotify.com/track/12KM4a7nY2hX3lgflqeQNs) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [MAYO SEASON](https://open.spotify.com/album/36spvJZroG0oL8Me4tA8Vp) | 2:18 |
 | 49 | [Aseregé](https://open.spotify.com/track/04f2tTJjVwknNobTRPm4iT) | [Svetlana](https://open.spotify.com/artist/3ax5cuCKLmHd6NEt0ZWGW6), [Alosa](https://open.spotify.com/artist/3wGkgRi4YbaoT5a2iNj5fB) | [Aseregé](https://open.spotify.com/album/4YmwrdHEDe9njR1VQnsS8z) | 3:22 |
-| 50 | [Nuevos Recuerdos](https://open.spotify.com/track/627AgFGbrZRwWVNcwsK2jc) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Nuevos Recuerdos](https://open.spotify.com/album/0pZWzpJOLbxjI3vjWpA4Ns) | 3:33 |
+| 50 | [Sabalenka](https://open.spotify.com/track/6IZUskjG7bR12G0MPo4IfN) | [Dear Joanne](https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa) | [Sabalenka](https://open.spotify.com/album/77c1RrvOjAp3oNu8dKk5yX) | 2:31 |
 
 Snapshot ID: `AAAAAF+dEiC4yeuBlkxTjsCa4BZaaqs+`

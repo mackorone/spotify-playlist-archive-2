@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11396,
+  "num_followers": 11398,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
+        "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
+      },
+      "artists": [
+        {
+          "name": "Igor",
+          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
+        }
+      ],
+      "duration_ms": 234633,
+      "name": "Kan Ik Zoveel?",
+      "url": "https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "Niemandsland",
         "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
       },
@@ -855,22 +871,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
-        "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
-      },
-      "artists": [
-        {
-          "name": "Igor",
-          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
-        }
-      ],
-      "duration_ms": 234633,
-      "name": "Kan Ik Zoveel?",
-      "url": "https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "De Underdog EP",
         "url": "https://open.spotify.com/album/3ivN33rZC5KNlL8g62rXnq"
       },
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/3l1nxL3R1vPTsevFUMX97H"
+        "name": "Maskers",
+        "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
       },
       "artists": [
         {
-          "name": "PAULIEN",
-          "url": "https://open.spotify.com/artist/2YjTYpJ0JQB1CZ6P5v2G4b"
+          "name": "Elias Mazian",
+          "url": "https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU"
         }
       ],
-      "duration_ms": 158849,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/58bCOr6hgtcNvBSdGViKFQ"
+      "duration_ms": 201627,
+      "name": "Maskers",
+      "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
     }
   ],
   "unique_name": "indie.nl",

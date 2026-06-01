@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Nl3w7ubARwONg9aY6uEuw">KLP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-158 songs - 9 hr 13 min
+159 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Toothbrush Time](https://open.spotify.com/track/74PbbRXfYrw2FpIar3v8p3) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Dance Silly](https://open.spotify.com/album/2tAzTmRwDTTbaLUoO6A6Js) | 0:48 | 2023-12-30 |  |
 | [Tropical](https://open.spotify.com/track/3Xr7uULlUS81hG6cndfIb9) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Revolution](https://open.spotify.com/album/1YMdBR2ZOZKHOkp1CoivzD) | 3:18 | 2023-12-30 | 2025-07-24 |
 | [Under the Influence](https://open.spotify.com/track/41Y6rsPcgKgdmvbQeZRzUD) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [Kilian & Jo](https://open.spotify.com/artist/75axmxcpFNiQiMTZFWGMWn) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:53 | 2023-12-30 | 2024-07-11 |
-| [Until I Find You](https://open.spotify.com/track/3wRZ4NPqxNUXWXM0IZw8Qs) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:48 | 2023-12-30 |  |
+| [Until I Find You](https://open.spotify.com/track/0QOh30yJEdrZ4Vo46yUfAu) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Until I Find You](https://open.spotify.com/album/3u730g5lQLOqpmHlUDuaKS) | 3:48 | 2026-05-31 |  |
+| [Until I Find You](https://open.spotify.com/track/3wRZ4NPqxNUXWXM0IZw8Qs) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Giver](https://open.spotify.com/album/01cbm7RUoB7Xs9A4lrzPyd) | 3:48 | 2023-12-30 | 2026-06-01 |
 | [Upside Down Frown](https://open.spotify.com/track/6hEgMKHsM9U0ForXDXKCYp) | [Diver City](https://open.spotify.com/artist/7tlC25wkoaK9cCpTF6Ex8k) | [Welcome to Diver City](https://open.spotify.com/album/60gI1kcOLfTGBUBftJXnfJ) | 3:06 | 2023-12-30 |  |
 | [Venus x Mars](https://open.spotify.com/track/2TRBrHV1YaCN1s3S11f9AK) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Venus x Mars](https://open.spotify.com/album/3Bs1qbFLE8EHmOdaV0Mj2F) | 4:29 | 2023-12-30 |  |
 | [Vision of Love](https://open.spotify.com/track/4Vq21syz7y2dTZYW2PVab9) | [Husky](https://open.spotify.com/artist/1BQ5NhlyhxAO1CdRYGHmQe) | [Break Free](https://open.spotify.com/album/0OOa1ua526wFSIdcVZz8X9) | 6:00 | 2023-12-30 |  |

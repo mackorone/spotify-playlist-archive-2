@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring BossMan Dlow & Megan Thee Stallion, Latto, YG and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,857 likes - 48 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,886 likes - 48 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

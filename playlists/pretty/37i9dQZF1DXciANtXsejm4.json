@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 342632,
+  "num_followers": 342694,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
-      },
-      "artists": [
-        {
-          "name": "Los Del Maranaho",
-          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "Te Tengo que Olvidar",
-      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
-    },
-    {
-      "added_at": "2025-12-01 13:20:09",
-      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/2BfL5Eidwew1KpoJzq1eLA"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 186435,
       "name": "Nada",
       "url": "https://open.spotify.com/track/6E4QxXiJaNE6zAE0HbJXct"
+    },
+    {
+      "added_at": "2025-12-01 13:20:09",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
+      },
+      "artists": [
+        {
+          "name": "Los Del Maranaho",
+          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "Te Tengo que Olvidar",
+      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -511,22 +511,18 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "Si Te Agarran Las Ganas",
-        "url": "https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz"
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
       },
       "artists": [
         {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        },
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
         }
       ],
-      "duration_ms": 239418,
-      "name": "Si Te Agarran Las Ganas",
-      "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
+      "duration_ms": 186986,
+      "name": "Vuelve Mi Amor",
+      "url": "https://open.spotify.com/track/1YQExirdEk4Xh525kr4SHW"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -567,18 +563,22 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+        "name": "Si Te Agarran Las Ganas",
+        "url": "https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz"
       },
       "artists": [
         {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        },
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 186986,
-      "name": "Vuelve Mi Amor",
-      "url": "https://open.spotify.com/track/1YQExirdEk4Xh525kr4SHW"
+      "duration_ms": 239418,
+      "name": "Si Te Agarran Las Ganas",
+      "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -595,6 +595,22 @@
       "duration_ms": 262803,
       "name": "Flor P\u00e1lida",
       "url": "https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq"
+    },
+    {
+      "added_at": "2025-12-01 13:20:09",
+      "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -651,22 +667,6 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
-    },
-    {
-      "added_at": "2025-12-01 13:20:09",
-      "album": {
         "name": "Simplemente Nag\u00fcel",
         "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
       },
@@ -703,6 +703,22 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224"
+    },
+    {
+      "added_at": "2025-12-01 13:20:09",
+      "album": {
         "name": "Sinf\u00f3nico 45 A\u00f1os - En Vivo",
         "url": "https://open.spotify.com/album/46VxYWDLPoZ9l3RFWQ2iDH"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 120865,
       "name": "A chillar a otra parte",
       "url": "https://open.spotify.com/track/4XTW9nuDuvGUObvZNpsYZu"
-    },
-    {
-      "added_at": "2025-12-01 13:20:09",
-      "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
+        "name": "Matala",
+        "url": "https://open.spotify.com/album/5GXPAzBUue89g3wL2p8CGT"
+      },
+      "artists": [
+        {
+          "name": "Habana Combo",
+          "url": "https://open.spotify.com/artist/7zpSH2chjM380vMwQTEOaq"
+        }
+      ],
+      "duration_ms": 275186,
+      "name": "Estas en el Recuerdo / Matala",
+      "url": "https://open.spotify.com/track/2mMdfb5n1V9pA6f2cJPAKN"
+    },
+    {
+      "added_at": "2025-12-01 13:20:09",
+      "album": {
         "name": "No Fue Culpa Mia",
         "url": "https://open.spotify.com/album/2hwcGbBQKle8mt23Z3gy6p"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 228565,
       "name": "No Fue Culpa Mia",
       "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
-    },
-    {
-      "added_at": "2025-12-01 13:20:09",
-      "album": {
-        "name": "Matala",
-        "url": "https://open.spotify.com/album/5GXPAzBUue89g3wL2p8CGT"
-      },
-      "artists": [
-        {
-          "name": "Habana Combo",
-          "url": "https://open.spotify.com/artist/7zpSH2chjM380vMwQTEOaq"
-        }
-      ],
-      "duration_ms": 275186,
-      "name": "Estas en el Recuerdo / Matala",
-      "url": "https://open.spotify.com/track/2mMdfb5n1V9pA6f2cJPAKN"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
+        "name": "Mi \u00danica Alegr\u00eda",
+        "url": "https://open.spotify.com/album/5zydYTOfjjzPENqxvR3qBH"
       },
       "artists": [
         {
-          "name": "Mario Pereyra y Su Banda",
-          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
+          "name": "Marcos Castell\u00f3 Kaniche",
+          "url": "https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8"
         }
       ],
-      "duration_ms": 137786,
-      "name": "Hasta el Sol de Hoy - En Vivo",
-      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
+      "duration_ms": 162037,
+      "name": "Humillate",
+      "url": "https://open.spotify.com/track/3trzCCEnxmzybmFYY8KPdL"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "Mi \u00danica Alegr\u00eda",
-        "url": "https://open.spotify.com/album/5zydYTOfjjzPENqxvR3qBH"
+        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
       },
       "artists": [
         {
-          "name": "Marcos Castell\u00f3 Kaniche",
-          "url": "https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8"
+          "name": "Mario Pereyra y Su Banda",
+          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
         }
       ],
-      "duration_ms": 162037,
-      "name": "Humillate",
-      "url": "https://open.spotify.com/track/3trzCCEnxmzybmFYY8KPdL"
+      "duration_ms": 137786,
+      "name": "Hasta el Sol de Hoy - En Vivo",
+      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
     },
     {
       "added_at": "2025-12-01 13:20:09",

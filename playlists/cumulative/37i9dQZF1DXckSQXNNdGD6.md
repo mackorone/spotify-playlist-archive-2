@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: Martin.
 
-328 songs - 16 hr 5 min
+329 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Novio o novia](https://open.spotify.com/track/3Kn35ojAyhYVogKD8Bk70U) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Donde nada es para tanto](https://open.spotify.com/album/16HxA8so0smcyGapeDhXor) | 1:57 | 2026-04-07 | 2026-05-06 |
 | [Nublado](https://open.spotify.com/track/2Ys3pyscD3CEsgZyIoZs7R) | [Joanna Crass](https://open.spotify.com/artist/5NH7AZYpUjd9UL1vR3KMzD) | [Nublado](https://open.spotify.com/album/3PPfO3ZVMFyBZaISPsc5PF) | 2:48 | 2025-02-04 | 2025-09-03 |
 | [nuestro](https://open.spotify.com/track/0STAzVvA7i8xHiZUpX8ShC) | [GAZZI](https://open.spotify.com/artist/07V8t8EEwskMdjlXWulRsK) | [nuestro](https://open.spotify.com/album/3Cjxcd7mg5XAXT8dHjYGja) | 2:58 | 2025-09-02 | 2025-10-02 |
-| [Nuevos Recuerdos](https://open.spotify.com/track/627AgFGbrZRwWVNcwsK2jc) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Nuevos Recuerdos](https://open.spotify.com/album/0pZWzpJOLbxjI3vjWpA4Ns) | 3:33 | 2025-11-04 |  |
+| [Nuevos Recuerdos](https://open.spotify.com/track/627AgFGbrZRwWVNcwsK2jc) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Nuevos Recuerdos](https://open.spotify.com/album/0pZWzpJOLbxjI3vjWpA4Ns) | 3:33 | 2025-11-04 | 2026-06-01 |
 | [Nunca Llega 05](https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Nunca Llega 05](https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f) | 2:39 | 2024-06-05 | 2025-09-03 |
 | [Objetos Perdidos](https://open.spotify.com/track/5yaKeKUta80OzEByYcf3FG) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN) | [Objetos Perdidos](https://open.spotify.com/album/6peIb3lWOnZHYr58jFcSRZ) | 3:27 | 2025-02-04 |  |
 | [ojeras](https://open.spotify.com/track/0isUWT0Nadg2JBuCFw9FUo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [ojeras](https://open.spotify.com/album/0qAn74lSp8DJhhEWekVt0p) | 2:52 | 2025-06-20 | 2025-08-06 |
@@ -273,6 +273,7 @@
 | [Reset](https://open.spotify.com/track/77CM7X0G61viIVZ4Wbfpo8) | [Nancys Rubias](https://open.spotify.com/artist/7DHglFER2ajzSXJvNRwHJl) | [Reset](https://open.spotify.com/album/0Nsp1WVHr59vBYZvns3l8s) | 2:57 | 2025-04-01 | 2026-05-06 |
 | [ROADTRIP](https://open.spotify.com/track/1WZfs7Pl5zlvsqv8yH3RGC) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [ROADTRIP](https://open.spotify.com/album/2pJoTyNXajAzNvSomoodOJ) | 2:41 | 2026-01-28 | 2026-03-04 |
 | [Rutina](https://open.spotify.com/track/4EZRWXXfT2Odi7n5YqDd8m) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Rutina](https://open.spotify.com/album/4veGlDXexNE2cbOSIfQ5vC) | 2:48 | 2025-09-02 | 2025-10-19 |
+| [Sabalenka](https://open.spotify.com/track/6IZUskjG7bR12G0MPo4IfN) | [Dear Joanne](https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa) | [Sabalenka](https://open.spotify.com/album/77c1RrvOjAp3oNu8dKk5yX) | 2:31 | 2026-05-06 |  |
 | [SABES K ME KIERES](https://open.spotify.com/track/30yyRnlzBJo9Vz1AzUsiTF) | [Luna Zuazu](https://open.spotify.com/artist/0aIiiEWwpITfHLl0JPtl0J) | [SABES K ME KIERES](https://open.spotify.com/album/52SfgXz7J3q6GCHopmdj0P) | 2:20 | 2025-12-02 | 2026-04-08 |
 | [SAHARA](https://open.spotify.com/track/4NuYE4exbvPeJgr4gJiFUS) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [SAHARA](https://open.spotify.com/album/7B5RSeXqwIBWobYh3GRTjk) | 2:26 | 2024-08-06 | 2024-09-04 |
 | [Santo](https://open.spotify.com/track/0f9jzpBVwDhaOIHH8SRRUw) | [Kadriana Massri](https://open.spotify.com/artist/3VQnM4BnAzAcEwr7RZl8mz) | [Santo](https://open.spotify.com/album/0iClGLoYQyJtqoYmAUq7dB) | 2:37 | 2025-10-01 | 2025-11-05 |

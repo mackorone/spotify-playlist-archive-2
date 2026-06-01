@@ -1,12 +1,12 @@
 {
   "description": "This is Laufey. The essential tracks, all in one playlist.",
-  "num_followers": 376005,
+  "num_followers": 376263,
   "original_name": "This Is Laufey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAAbBt2sFx76ybCGugJPUv+A",
+  "snapshot_id": "ahoogAAAAAAIXbGKDbHA/SnLnh3R6Wwb",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel Face",
-        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii"
       },
       "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
         {
           "name": "Laufey",
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 239308,
-      "name": "No One Knows (with Laufey)",
-      "url": "https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB"
+      "duration_ms": 198000,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ"
     },
     {
       "added_at": null,
@@ -551,18 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/1OdANZQlB2kBHw4dFjIiii"
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
       "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
         {
           "name": "Laufey",
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/1trLEhC9nDvvj36MfnlwcJ"
+      "duration_ms": 239308,
+      "name": "No One Knows (with Laufey)",
+      "url": "https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,434 songs - 3 day 6 hr 6 min
+1,435 songs - 3 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [ABC](https://open.spotify.com/track/1no0HVphfnHBjYNfhH3m1k) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [ABC](https://open.spotify.com/album/1eCJRp3bemhLyeuD3hSCqK) | 2:39 | 2024-02-09 | 2024-04-19 |
 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 | 2022-07-01 | 2024-04-19 |
 | [About You](https://open.spotify.com/track/4IoWprg6W4DxHjxm1Pi4KT) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [About You](https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId) | 3:38 | 2022-03-11 | 2022-07-25 |
+| [Abraza](https://open.spotify.com/track/5LTG0kxIlsJp6n5QIUKBo2) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Identity](https://open.spotify.com/album/7d6N7Y0s4UpsklTqRorhsk) | 2:37 | 2026-05-29 |  |
 | [ACID](https://open.spotify.com/track/6JkQb1qCCJDBV7kW5vJUAH) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [ACID](https://open.spotify.com/album/7LAUJxkEQOBf6rbS0MXUi6) | 3:01 | 2023-05-12 | 2024-07-13 |
 | [Acronym](https://open.spotify.com/track/2LDzkukrAPSqUpCzuggJRN) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Acronym](https://open.spotify.com/album/0LIUuVfhyE6CzCbuXJ6t18) | 6:46 | 2020-09-21\* | 2020-11-03 |
 | [Act of God](https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Act of God](https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0) | 3:52 | 2025-01-24 | 2025-05-18 |
@@ -544,7 +545,7 @@
 | [Hold On To Now](https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:57 | 2023-12-15 | 2024-01-25 |
 | [Hold On To Now](https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 3:57 | 2023-09-22 | 2023-11-18 |
 | [Hold Up](https://open.spotify.com/track/5KGn7C4GflN0EFMNqDmUY9) | [Late Replies](https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7) | [Hold Up](https://open.spotify.com/album/6aebvC7BtTJtJ1qsNgzaYZ) | 3:48 | 2021-01-05 | 2021-08-07 |
-| [Holding On](https://open.spotify.com/track/6KHSkuZcQS28nxmI8PFwbn) | [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt), [Rowland Giles](https://open.spotify.com/artist/3Rn5HY9wLXdCBe8iDWINBP) | [Holding On](https://open.spotify.com/album/0RweNLkaauLQFlQPfDXtiV) | 3:18 | 2026-05-08 |  |
+| [Holding On](https://open.spotify.com/track/6KHSkuZcQS28nxmI8PFwbn) | [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt), [Rowland Giles](https://open.spotify.com/artist/3Rn5HY9wLXdCBe8iDWINBP) | [Holding On](https://open.spotify.com/album/0RweNLkaauLQFlQPfDXtiV) | 3:18 | 2026-05-08 | 2026-06-01 |
 | [Home Sweet Home \(feat\. ALMA & Digital Farm Animals\)](https://open.spotify.com/track/3vIPdMmbsye0YMhXy4GeXt) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Home Sweet Home \(feat\. ALMA & Digital Farm Animals\)](https://open.spotify.com/album/4JMUcayU11ORfD6m7nt5kk) | 2:57 | 2020-11-27 | 2021-09-11 |
 | [Hometown Heroes](https://open.spotify.com/track/7cGuwTGKFrWIvvXbJ84SCL) | [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [Hometown Heroes](https://open.spotify.com/album/4iMi6VNQ8AFfYVbKIRN7eY) | 3:10 | 2021-03-11 | 2021-07-24 |
 | [Hooked \- My Nu Leng Remix](https://open.spotify.com/track/677znmm5HHoucfGs3Ohf82) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [My Nu Leng](https://open.spotify.com/artist/2rChxbkkh2U5ZrPuShKmTZ) | [Hooked \(My Nu Leng Remix\)](https://open.spotify.com/album/252c3xrRlbmadMTfUb9reX) | 3:29 | 2020-09-21\* | 2021-01-05 |

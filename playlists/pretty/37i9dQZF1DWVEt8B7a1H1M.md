@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 
 > Bird sounds in the background
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,091 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,141 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 | 22 | [Magical Rainforest](https://open.spotify.com/track/5gKbTObGEDjqpB6pTzu1Ht) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [The Sound Of Rain](https://open.spotify.com/album/4GarWDiMBHvz8hQudi2Ql4) | 2:25 |
 | 23 | [Rain & Birds](https://open.spotify.com/track/5dWXEeQTiyFdC8xAG1TZVh) | [Mind & Body](https://open.spotify.com/artist/6JYtJJDafQm9bjAm5zRxbz) | [Meditative Rain](https://open.spotify.com/album/6aOKFZw9ZBxQAaezNz5QcX) | 3:49 |
 | 24 | [Happy Birds](https://open.spotify.com/track/2x2NrTYeKoNmiC6uEcXyuJ) | [Nature Lab](https://open.spotify.com/artist/2EBjHUWeiiLMOz9A22c4he) | [Birds by the Creek](https://open.spotify.com/album/5tk2REf1nK7U5eqr01YFbg) | 1:44 |
-| 25 | [River Birds \(Green Noise 220Hz HP\)](https://open.spotify.com/track/3Lr6j4FjEiaZAEjp6yUyRY) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:22 |
-| 26 | [Birds near the river in Columbia](https://open.spotify.com/track/4YjV6QkrEGCIq66DBeO4Ky) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Birds near the river in Columbia](https://open.spotify.com/album/0zUtoR2O9ZiM8uoiVKAOuP) | 1:59 |
+| 25 | [Birds near the river in Columbia](https://open.spotify.com/track/4YjV6QkrEGCIq66DBeO4Ky) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Birds near the river in Columbia](https://open.spotify.com/album/0zUtoR2O9ZiM8uoiVKAOuP) | 1:59 |
+| 26 | [River Birds \(Green Noise 220Hz HP\)](https://open.spotify.com/track/3Lr6j4FjEiaZAEjp6yUyRY) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:22 |
 | 27 | [Jungle Midnight Calm, Borneo](https://open.spotify.com/track/2rIFfdTbET7IDjZjIcGFy4) | [Naoxos](https://open.spotify.com/artist/3rOQCk7GXQhyVt0GPDzOGn) | [Jungle Midnight Calm, Borneo](https://open.spotify.com/album/6bHAVMbGHxv0dx4BZnSk8b) | 2:34 |
 | 28 | [Birds in the Sun](https://open.spotify.com/track/6RgPEQxUE04OTPrnRJb8hC) | [When Doves Cry \(FX\)](https://open.spotify.com/artist/3lPRLDLxH0H7EhjakuDNgP) | [Bird Sounds Vol\. 1](https://open.spotify.com/album/7e7U3d9Ip6aMKP2PFTlOej) | 2:06 |
 | 29 | [Bird\-watching](https://open.spotify.com/track/3dxPEV0XTNkhvAqx790nmo) | [Swedish Forest Birds](https://open.spotify.com/artist/0aW02sXtwKH8TEaJDPvg9N) | [Morning Forest Birds](https://open.spotify.com/album/1g53d39LNzKfa8p1aJhN5B) | 2:58 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 | 45 | [Spring Birds Calling](https://open.spotify.com/track/5JTIydAbaixj7wuulxKbKd) | [Birds On Television](https://open.spotify.com/artist/5vBa5eR4bpuGBiYrXDyN8J) | [Birds Sounds 1](https://open.spotify.com/album/3YhXoFHl3TIYaNpE7bwRth) | 4:23 |
 | 46 | [Sunny Windy Day](https://open.spotify.com/track/2Eej9iJAvO0Ar1RYrwfTl5) | [Natural Song](https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3) | [Sunny Windy Day](https://open.spotify.com/album/573klMlAI4BNEDicxHqZ9g) | 4:08 |
 | 47 | [The Millpond VII](https://open.spotify.com/track/2dNizJkyRarfT8qtOBLsHm) | [Elberry](https://open.spotify.com/artist/3HcvBTK8MOcYl9cVEg45vP) | [The Millpond VII](https://open.spotify.com/album/7rditgWAg73FfmUDMAUmY9) | 2:18 |
-| 48 | [Still River \- Green Noise](https://open.spotify.com/track/76t29X9hSeFcZMh4ZOxPF0) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:12 |
-| 49 | [Rain Healing](https://open.spotify.com/track/7bOMWkpdJzXNnEsuf508pq) | [Heal Your Soul](https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw) | [Rain Healing](https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX) | 2:54 |
+| 48 | [Rain Healing](https://open.spotify.com/track/7bOMWkpdJzXNnEsuf508pq) | [Heal Your Soul](https://open.spotify.com/artist/67Ids2ljNbqqydXuFkpamw) | [Rain Healing](https://open.spotify.com/album/4M1SM1am0TFgRp3RJOcjmX) | 2:54 |
+| 49 | [Still River \- Green Noise](https://open.spotify.com/track/76t29X9hSeFcZMh4ZOxPF0) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:12 |
 | 50 | [Birds In The Woods](https://open.spotify.com/track/2TJvCm7NNBJBSKQJWNEj3D) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rainy Morning Bird Sounds](https://open.spotify.com/album/2U4bKyLdWQquKGfFxzLr66) | 2:51 |
 
 Snapshot ID: `AAAAAIBsoL9z0UNCf7ab3PT2/rQ7d7WH`

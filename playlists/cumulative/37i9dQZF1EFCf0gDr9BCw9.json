@@ -2880,6 +2880,32 @@
     {
       "album": {
         "name": "A Swedish Tribute to Duke",
+        "url": "https://open.spotify.com/album/3wxLQMh9dK8qpBzuELb651"
+      },
+      "artists": [
+        {
+          "name": "Billy Strayhorn",
+          "url": "https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW"
+        },
+        {
+          "name": "Lennart Aberg",
+          "url": "https://open.spotify.com/artist/3ZXO6RQeKC6PYzXqi7xe41"
+        },
+        {
+          "name": "Swedish Radio Jazz Group",
+          "url": "https://open.spotify.com/artist/4RbQ3ndXO1lnERpNEAIXvx"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283493,
+      "name": "Portrait of a Silk Thread",
+      "url": "https://open.spotify.com/track/1nuob5wFDQSm4QMyAQzAa4"
+    },
+    {
+      "album": {
+        "name": "A Swedish Tribute to Duke",
         "url": "https://open.spotify.com/album/0fhII1vzwnwC55J6CiM1zW"
       },
       "artists": [
@@ -2938,7 +2964,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 283493,
       "name": "Portrait of a Silk Thread",
       "url": "https://open.spotify.com/track/0iGoqs9o8eHBlXc9s7Y9B1"

@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 58629,
+  "num_followers": 58654,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAABhULRKP8HR2zBmYvdA2vg7",
+  "snapshot_id": "ahoogAAAAAB3cdh0KuESKt3HiXIMlnbz",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/1b8glbu39phYQ6HZ3gCWea"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/7lTBFudN674Thpm376zGuV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MI PROPIO JEFE",
         "url": "https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 210923,
       "name": "MI PROPIO JEFE",
       "url": "https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/1b8glbu39phYQ6HZ3gCWea"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/7lTBFudN674Thpm376zGuV"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos 602 Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 201258,
+      "name": "Sentimientos De Carton - En Vivo",
+      "url": "https://open.spotify.com/track/2I24ChV8vV9MFxT3ju4Z54"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 183311,
       "name": "Vencedor",
       "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602 Vol.3 (En Vivo)",
-        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 201258,
-      "name": "Sentimientos De Carton - En Vivo",
-      "url": "https://open.spotify.com/track/2I24ChV8vV9MFxT3ju4Z54"
     },
     {
       "added_at": null,

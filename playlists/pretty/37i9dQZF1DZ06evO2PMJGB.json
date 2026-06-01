@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264866,
+  "num_followers": 264863,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAADEExbKMCD+E8L1CWXStIbs",
+  "snapshot_id": "ahoogAAAAAAdNXVRowd+sdM+hnQu1QSc",
   "tracks": [
     {
       "added_at": null,
@@ -339,46 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Vai Embora",
-        "url": "https://open.spotify.com/album/6JwoRKYnWd1Dv5z6zfv0bo"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 205785,
-      "name": "N\u00e3o Vai Embora",
-      "url": "https://open.spotify.com/track/28atBekPVlTdnU4M9Z7udd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BRUTAL PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 192766,
-      "name": "Loira Gelada",
-      "url": "https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Me Provoca",
         "url": "https://open.spotify.com/album/4zoOC66ELs5xOesaO0tD1z"
       },
@@ -407,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esc\u00e2ndalo \u00cdntimo",
-        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+        "name": "BRUTAL PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ"
       },
       "artists": [
         {
@@ -416,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 76248,
-      "name": "Campo De Morango",
-      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
+      "duration_ms": 192766,
+      "name": "Loira Gelada",
+      "url": "https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc"
     },
     {
       "added_at": null,
@@ -439,6 +399,46 @@
       "duration_ms": 135111,
       "name": "ATEN\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esc\u00e2ndalo \u00cdntimo",
+        "url": "https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 76248,
+      "name": "Campo De Morango",
+      "url": "https://open.spotify.com/track/2exu569k07hUulN9CoPnMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Vai Embora",
+        "url": "https://open.spotify.com/album/6JwoRKYnWd1Dv5z6zfv0bo"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 205785,
+      "name": "N\u00e3o Vai Embora",
+      "url": "https://open.spotify.com/track/28atBekPVlTdnU4M9Z7udd"
     },
     {
       "added_at": null,
@@ -827,6 +827,46 @@
       "duration_ms": 243793,
       "name": "Itamambuca",
       "url": "https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bossa Sempre Nova",
+        "url": "https://open.spotify.com/album/6aiBQlSTLJoZ0pPa9uko6t"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        }
+      ],
+      "duration_ms": 171490,
+      "name": "Consola\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3aQlzls4W5SlVuEBsLUCZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor In Studio",
+        "url": "https://open.spotify.com/album/7AqYvzwdaHSq4731qi61Tt"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "P\u00f3s Voc\u00ea",
+      "url": "https://open.spotify.com/track/1mHe9kYpOPxNsdE3Wu0FWW"
     }
   ],
   "unique_name": "This Is Lu\u00edsa Sonza",

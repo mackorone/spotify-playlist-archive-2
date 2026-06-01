@@ -1,12 +1,12 @@
 {
   "description": "This is Eva Shaw. The essential tracks, all in one playlist.",
-  "num_followers": 134,
+  "num_followers": 135,
   "original_name": "This Is Eva Shaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAADQHE5fP9sii+DNV7+X3IBL",
+  "snapshot_id": "ahoogAAAAACTlB7IfFzbPo7yTMowCdeO",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/1jZHbGZ1LpaqDZYFTZ4jtN"
+      },
+      "artists": [
+        {
+          "name": "Hard Rock Sofa",
+          "url": "https://open.spotify.com/artist/6iBOcuDTJKItKor6YfzZa9"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 345000,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/0yeQpFHYNyn4sv5PSeLyvu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "U (feat. Mally Mall & Sonny Wilson)",
         "url": "https://open.spotify.com/album/1Vp2y5edO73InFx4jeXGRV"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 179748,
       "name": "U (feat. Mally Mall & Sonny Wilson)",
       "url": "https://open.spotify.com/track/0DCBpDmAyJRRKupCAJzjRj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/1jZHbGZ1LpaqDZYFTZ4jtN"
-      },
-      "artists": [
-        {
-          "name": "Hard Rock Sofa",
-          "url": "https://open.spotify.com/artist/6iBOcuDTJKItKor6YfzZa9"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 345000,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/0yeQpFHYNyn4sv5PSeLyvu"
     },
     {
       "added_at": null,
@@ -787,30 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "please.",
-        "url": "https://open.spotify.com/album/3Z7S7yzklJNj07PVZHTp8Z"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Haviah Mighty",
-          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
-        },
-        {
-          "name": "Friyie",
-          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
-        }
-      ],
-      "duration_ms": 164507,
-      "name": "please.",
-      "url": "https://open.spotify.com/track/5PepejmElIdDfY66jFnEJP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Snakes",
         "url": "https://open.spotify.com/album/6F1OMdqwrGdjJakNYx37lb"
       },
@@ -835,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "REDLIGHT",
-        "url": "https://open.spotify.com/album/5AefEXlzhGcgciplFhzGho"
+        "name": "please.",
+        "url": "https://open.spotify.com/album/3Z7S7yzklJNj07PVZHTp8Z"
       },
       "artists": [
         {
@@ -844,13 +820,17 @@
           "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
         },
         {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        },
+        {
           "name": "Friyie",
           "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
         }
       ],
-      "duration_ms": 227295,
-      "name": "REDLIGHT",
-      "url": "https://open.spotify.com/track/6vx3BTJ34toUfAqevscDTI"
+      "duration_ms": 164507,
+      "name": "please.",
+      "url": "https://open.spotify.com/track/5PepejmElIdDfY66jFnEJP"
     },
     {
       "added_at": null,
@@ -875,6 +855,26 @@
       "duration_ms": 206888,
       "name": "Voices (feat. Najja)",
       "url": "https://open.spotify.com/track/0yZ7BOopH03rkVyny1XlpS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REDLIGHT",
+        "url": "https://open.spotify.com/album/5AefEXlzhGcgciplFhzGho"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Friyie",
+          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
+        }
+      ],
+      "duration_ms": 227295,
+      "name": "REDLIGHT",
+      "url": "https://open.spotify.com/track/6vx3BTJ34toUfAqevscDTI"
     },
     {
       "added_at": null,
@@ -927,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BIG MON",
+        "url": "https://open.spotify.com/album/0RLe0Jsc7wnkGyaPuuT6Qz"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 140204,
+      "name": "BIG MON",
+      "url": "https://open.spotify.com/track/2d6ZM9zADssISNrtgIw8LS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MIX IT UP",
         "url": "https://open.spotify.com/album/09pJzHgISLr3dxfhODiA1s"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 147153,
       "name": "MIX IT UP",
       "url": "https://open.spotify.com/track/0cwh5o0rrAj4uLMu9gDmOR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BIG MON",
-        "url": "https://open.spotify.com/album/0RLe0Jsc7wnkGyaPuuT6Qz"
-      },
-      "artists": [
-        {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 140204,
-      "name": "BIG MON",
-      "url": "https://open.spotify.com/track/2d6ZM9zADssISNrtgIw8LS"
     },
     {
       "added_at": null,
@@ -999,66 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAQX",
-        "url": "https://open.spotify.com/album/4eeWlofq6XChtEK3UgYrD1"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Thouxanbanfauni",
-          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
-        },
-        {
-          "name": "BTK Villeion",
-          "url": "https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "RAQX",
-      "url": "https://open.spotify.com/track/770erApKJNOvIdFGtn04G5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THANKFUL",
-        "url": "https://open.spotify.com/album/7qVxP0IbzX8RXujG1p65DM"
-      },
-      "artists": [
-        {
-          "name": "DB Bantino",
-          "url": "https://open.spotify.com/artist/5ltYVQ8xZcX9CnLT4Jl0sa"
-        },
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "THANKFUL [Eva Shaw Mainstage Mix]",
-      "url": "https://open.spotify.com/track/5y20ABHqW3yLuqT6d7yeGq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "<3 me",
-        "url": "https://open.spotify.com/album/2e605PQqswJzKgHVnBva1J"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        }
-      ],
-      "duration_ms": 162295,
-      "name": "<3 me",
-      "url": "https://open.spotify.com/track/5A5zQ1uMfxEd0K7BCmDNwL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Look Down",
         "url": "https://open.spotify.com/album/0YyZnj5aMm44Ki54CfOolb"
       },
@@ -1079,30 +1019,6 @@
       "duration_ms": 182292,
       "name": "Don't Look Down",
       "url": "https://open.spotify.com/track/76Q9VH6V8XfWu1AjXoYceU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "line em up.",
-        "url": "https://open.spotify.com/album/2HoNPzxZQcZEsSjT6TUNp7"
-      },
-      "artists": [
-        {
-          "name": "Eva Shaw",
-          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
-        },
-        {
-          "name": "Skip Waiters",
-          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
-        },
-        {
-          "name": "Kris the $pirit",
-          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
-        }
-      ],
-      "duration_ms": 139424,
-      "name": "line em up.",
-      "url": "https://open.spotify.com/track/67wnr39oFDdVJjRDPb5yGE"
     },
     {
       "added_at": null,
@@ -1131,6 +1047,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dat Girl",
+        "url": "https://open.spotify.com/album/13kSlYOht04NAOxxYusQQx"
+      },
+      "artists": [
+        {
+          "name": "Red Rat",
+          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
+        },
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Steve Walls",
+          "url": "https://open.spotify.com/artist/3RAIGoHN3Qz4WQeVPyT4Zc"
+        }
+      ],
+      "duration_ms": 130978,
+      "name": "Dat Girl",
+      "url": "https://open.spotify.com/track/5R3yCbROZKow1PHrXI4UP8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RVPTVRE",
         "url": "https://open.spotify.com/album/7iI8JyP8eydxqHRpk1HHTH"
       },
@@ -1147,6 +1087,70 @@
       "duration_ms": 214000,
       "name": "RVPTVRE",
       "url": "https://open.spotify.com/track/357JtAx8mVUPmSsHl6SeUW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RAQX",
+        "url": "https://open.spotify.com/album/4eeWlofq6XChtEK3UgYrD1"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        },
+        {
+          "name": "BTK Villeion",
+          "url": "https://open.spotify.com/artist/2Mumdj049Bt1TtGicOw9gc"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "RAQX",
+      "url": "https://open.spotify.com/track/770erApKJNOvIdFGtn04G5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "<3 me",
+        "url": "https://open.spotify.com/album/2e605PQqswJzKgHVnBva1J"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        }
+      ],
+      "duration_ms": 162295,
+      "name": "<3 me",
+      "url": "https://open.spotify.com/track/5A5zQ1uMfxEd0K7BCmDNwL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "line em up.",
+        "url": "https://open.spotify.com/album/2HoNPzxZQcZEsSjT6TUNp7"
+      },
+      "artists": [
+        {
+          "name": "Eva Shaw",
+          "url": "https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c"
+        },
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        },
+        {
+          "name": "Kris the $pirit",
+          "url": "https://open.spotify.com/artist/6qqwLx8jRPkjUz0mlIvB6H"
+        }
+      ],
+      "duration_ms": 139424,
+      "name": "line em up.",
+      "url": "https://open.spotify.com/track/67wnr39oFDdVJjRDPb5yGE"
     }
   ],
   "unique_name": "This Is Eva Shaw",

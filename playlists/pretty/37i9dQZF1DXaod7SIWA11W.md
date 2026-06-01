@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: PJ Morton
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,513 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,526 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 6 | [Wanderer](https://open.spotify.com/track/4lZvEE1UvtCEnxvUgLOkjv) | [Ire Toluhi](https://open.spotify.com/artist/1uLf3V4Z9jtKJHJOb4Tx7K) | [Wanderer](https://open.spotify.com/album/4e7n1hfpPjDB9s9jpeqAsP) | 3:50 |
 | 7 | [Show Me](https://open.spotify.com/track/2PdQRUYXMLPqf8ckw9McyO) | [Ochaè](https://open.spotify.com/artist/3BQA6DkdnDx5Gd07dFgFeI) | [Prodigal](https://open.spotify.com/album/2Ia0jrSaVw8Xu5AmsZQCM5) | 4:05 |
 | 8 | [Joy Is Coming](https://open.spotify.com/track/4t9D6MbFQQ6SWhsrsAJpfb) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Joy Is Coming](https://open.spotify.com/album/7luJgr2jPaTffmI16Nsfgk) | 2:34 |
-| 9 | [TAKE ME](https://open.spotify.com/track/2hDkIZjbuwor5pYA9zpS4n) | [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Obed](https://open.spotify.com/artist/4KQ6s83KHVf777C58K0ixS) | [TAKE ME](https://open.spotify.com/album/4fm8Y72ze4kvFLEDg3snGp) | 2:42 |
+| 9 | [TAKE ME](https://open.spotify.com/track/2hDkIZjbuwor5pYA9zpS4n) | [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [OBED](https://open.spotify.com/artist/6dlnnsHCMKCV3v1aMOFvuE) | [TAKE ME](https://open.spotify.com/album/4fm8Y72ze4kvFLEDg3snGp) | 2:42 |
 | 10 | [skin & bone](https://open.spotify.com/track/0rOcs5rGwmi2IDzMtH34Vx) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [skin & bone](https://open.spotify.com/album/3mC6ddrJJQXgGcZFHEmQhf) | 2:41 |
 | 11 | [I Got Jesus](https://open.spotify.com/track/5cvJ2YaP4j5IOHQaaLTOAR) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [I Got Jesus](https://open.spotify.com/album/2I6w9AEE0Zre8OjP7QfVDW) | 3:19 |
 | 12 | [I Will Follow](https://open.spotify.com/track/6gJK5adZfQmY47emm3tYFO) | [Charles Weems](https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab) | [I Will Follow](https://open.spotify.com/album/00tFqwEocdZuPjsnIofLFC) | 4:37 |

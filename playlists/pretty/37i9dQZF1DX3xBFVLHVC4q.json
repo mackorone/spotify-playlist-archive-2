@@ -91,38 +91,6 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
-        "name": "Awaken the power",
-        "url": "https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf"
-      },
-      "artists": [
-        {
-          "name": "Saint Aqours Snow",
-          "url": "https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ"
-        }
-      ],
-      "duration_ms": 296786,
-      "name": "Awaken the power",
-      "url": "https://open.spotify.com/track/5lNJrTnmGyHRByNYU53aHO"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u300cSailing to the Sunshine\u300d",
-        "url": "https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1"
-      },
-      "artists": [
-        {
-          "name": "Saint Snow",
-          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
-        }
-      ],
-      "duration_ms": 237960,
-      "name": "SELF CONTROL!![\u7b2c8\u8a71\u633f\u5165\u6b4c(\u30d5\u30eb\u30b5\u30a4\u30ba)]",
-      "url": "https://open.spotify.com/track/4dBdyHDWfox9QU0HN8y30t"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
         "name": "Bring the LOVE\uff01",
         "url": "https://open.spotify.com/album/4if3euNE5b8VoUpEsLepk3"
       },
@@ -151,6 +119,38 @@
       "duration_ms": 223520,
       "name": "Bring the LOVE\uff01",
       "url": "https://open.spotify.com/track/08jHICuBUw39Mct5JfZ3C5"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30e9\u30d6\u30e9\u30a4\u30d6!\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u300cSailing to the Sunshine\u300d",
+        "url": "https://open.spotify.com/album/4m7uoSHxp9AWwEHikCZNZ1"
+      },
+      "artists": [
+        {
+          "name": "Saint Snow",
+          "url": "https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7"
+        }
+      ],
+      "duration_ms": 237960,
+      "name": "SELF CONTROL!![\u7b2c8\u8a71\u633f\u5165\u6b4c(\u30d5\u30eb\u30b5\u30a4\u30ba)]",
+      "url": "https://open.spotify.com/track/4dBdyHDWfox9QU0HN8y30t"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "Awaken the power",
+        "url": "https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf"
+      },
+      "artists": [
+        {
+          "name": "Saint Aqours Snow",
+          "url": "https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ"
+        }
+      ],
+      "duration_ms": 296786,
+      "name": "Awaken the power",
+      "url": "https://open.spotify.com/track/5lNJrTnmGyHRByNYU53aHO"
     },
     {
       "added_at": "2024-12-17 16:20:41",

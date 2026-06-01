@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,623 likes - 110 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,630 likes - 110 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 36 | [La Luna Me Dijo](https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Luna Me Dijo](https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r) | 2:37 |
 | 37 | [La Samaria](https://open.spotify.com/track/7ieuslYMSCaz2xTqq8jIPL) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Samaria](https://open.spotify.com/album/3z05HWXEIBe1YJhLS0K6bd) | 3:33 |
 | 38 | [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 |
-| 39 | [Alas Rotas](https://open.spotify.com/track/6Aqqjb3HuSNlLLd6gCdAqv) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT) | [Alas Rotas](https://open.spotify.com/album/1gldREJ19wR9LsbMCosp3w) | 2:40 |
-| 40 | [No Se Dio](https://open.spotify.com/track/4WJlDctOtjnZXgW49DM1Bs) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [No Se Dio](https://open.spotify.com/album/7qkFiccMKg5MaeuaznXLJF) | 2:48 |
+| 39 | [No Se Dio](https://open.spotify.com/track/4WJlDctOtjnZXgW49DM1Bs) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [No Se Dio](https://open.spotify.com/album/7qkFiccMKg5MaeuaznXLJF) | 2:48 |
+| 40 | [Alas Rotas](https://open.spotify.com/track/6Aqqjb3HuSNlLLd6gCdAqv) | [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT) | [Alas Rotas](https://open.spotify.com/album/1gldREJ19wR9LsbMCosp3w) | 2:40 |
 | 41 | [borondo](https://open.spotify.com/track/6NyPyarIkT3ViNZYUImbW7) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [borondo](https://open.spotify.com/album/0hCJNl8pcd7S697Ss52YUF) | 2:21 |
 | 42 | [Playita](https://open.spotify.com/track/2WowKsE6B5QEXiYTVCHogG) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [Playita](https://open.spotify.com/album/1Abywyg2e2Vr8P1pPZUwzZ) | 2:30 |
 | 43 | [Feeling](https://open.spotify.com/track/6it8wBT8PrplRJmTmLojs6) | [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt) | [Feeling](https://open.spotify.com/album/5NGE6VHVNTLOuvgrtrYmqo) | 2:53 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 88 | [Como Fuego](https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Sol Y Lluvia](https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7) | 3:04 |
 | 89 | [Museo](https://open.spotify.com/track/2cos8mfUgNxpBKZBWj0fvg) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Museo](https://open.spotify.com/album/0Dsu1o55jtnkwt1BxKnCGB) | 2:45 |
 | 90 | [Respiro](https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh) | [Paraísos](https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM), [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Respiro](https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF) | 3:15 |
-| 91 | [XODÓ](https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD) | [JBot & Tuti](https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX) | [XODÓ](https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo) | 2:37 |
-| 92 | [Un Trambo \(feat\. De La Ghetto\)](https://open.spotify.com/track/1xJfxxyuhOQmBTJ8k549BZ) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Un Trambo \(feat\. De La Ghetto\)](https://open.spotify.com/album/7Lfh4TQpKIHbQONtS1K1lL) | 2:51 |
+| 91 | [Un Trambo \(feat\. De La Ghetto\)](https://open.spotify.com/track/1xJfxxyuhOQmBTJ8k549BZ) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Un Trambo \(feat\. De La Ghetto\)](https://open.spotify.com/album/7Lfh4TQpKIHbQONtS1K1lL) | 2:51 |
+| 92 | [XODÓ](https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD) | [JBot & Tuti](https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX) | [XODÓ](https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo) | 2:37 |
 | 93 | [All Inclusive](https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 2:35 |
 | 94 | [Calor](https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Calor](https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn) | 3:20 |
 | 95 | [Mochilera](https://open.spotify.com/track/3hZwZDBGZChsE3VI91KRUv) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Mochilera](https://open.spotify.com/album/29VDqesyiDj71uuXp6liz0) | 3:48 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 109 | [Isla](https://open.spotify.com/track/0njT0PeIOjXZ4wcY1tuSSJ) | [Som Caney](https://open.spotify.com/artist/7ymW4RibYTRpCKmk3Q5YyH) | [Isla](https://open.spotify.com/album/5QQ2uGDTtJNfM5OffTfSoG) | 3:51 |
 | 110 | [Estás Escuchando \(with El David Aguilar\) \- Single Edit](https://open.spotify.com/track/2khOYj1vDGhmS84m4Wm7cc) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [David Aguilar](https://open.spotify.com/artist/3UxQcJ5P3W30gW0zHtBcKY) | [Estás Escuchando \(with El David Aguilar\)](https://open.spotify.com/album/4ofoHq8EzjKBLBOX2K4OhA) | 2:17 |
 
-Snapshot ID: `AAAAAMSTV8fnKbbU4GB/fgDnJ9Y7VapB`
+Snapshot ID: `AAAAAHCyawz3ooljbM+WAN4F9ljim2+N`

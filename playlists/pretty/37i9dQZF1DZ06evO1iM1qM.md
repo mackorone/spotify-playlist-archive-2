@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,143 likes - 50 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,172 likes - 50 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 31 | [Dear Lord](https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 5:30 |
 | 32 | [Stevie](https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:22 |
 | 33 | [Theme For Ernie](https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Soultrane](https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg) | 4:53 |
-| 34 | [Autumn Serenade](https://open.spotify.com/track/3lrcl8bNSUkHMjHEtP5yC1) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 4:19 |
-| 35 | [Why Was I Born? \- Rudy Van Gelder Remaster 1958](https://open.spotify.com/track/5LnChMpPDKhkyE6wJjVGn1) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Kenny Burrell & John Coltrane](https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY) | 3:10 |
-| 36 | [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 |
-| 37 | [Moment's Notice](https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 9:10 |
+| 34 | [Moment's Notice](https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 9:10 |
+| 35 | [Autumn Serenade](https://open.spotify.com/track/3lrcl8bNSUkHMjHEtP5yC1) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 4:19 |
+| 36 | [Why Was I Born? \- Rudy Van Gelder Remaster 1958](https://open.spotify.com/track/5LnChMpPDKhkyE6wJjVGn1) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Kenny Burrell & John Coltrane](https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY) | 3:10 |
+| 37 | [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 |
 | 38 | [After The Rain](https://open.spotify.com/track/7qIu3QtATGnJhQ9RyrDQHP) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 4:08 |
 | 39 | [Take The Coltrane](https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:42 |
 | 40 | [A Love Supreme, Pt\. I – Acknowledgement](https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:42 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 46 | [Tenor Madness \- Rudy Van Gelder Remastered 2006 / Shared ISRC](https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 12:13 |
 | 47 | [Body and Soul](https://open.spotify.com/track/26bnmztmGcY03sO1uWmoTd) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane's Sound](https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja) | 5:37 |
 | 48 | [Time After Time](https://open.spotify.com/track/6ZJdpaqHQGvJj6NQ3GuITN) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Stardust \[Rudy Van Gelder edition\]](https://open.spotify.com/album/1wL2hJoek6UmeP0GLx9VnZ) | 7:41 |
-| 49 | [Speak Low \- Remastered 1998](https://open.spotify.com/track/48maZW59yoavD1b4gbSGro) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Sonny's Crib](https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA) | 6:50 |
-| 50 | [A Love Supreme, Pt\. II \- Resolution](https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:17 |
+| 49 | [A Love Supreme, Pt\. II \- Resolution](https://open.spotify.com/track/7unF2ARDGldwWxZWCmlwDM) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:17 |
+| 50 | [Speak Low \- Remastered 1998](https://open.spotify.com/track/48maZW59yoavD1b4gbSGro) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Sonny's Crib](https://open.spotify.com/album/469Y1IVCrttWSp2qQYzioA) | 6:50 |
 
-Snapshot ID: `ahjXAAAAAADcNKg+5neGPK+iYgZiO6zb`
+Snapshot ID: `ahoogAAAAAB4e26hFnqKewEdqEoE/aDp`

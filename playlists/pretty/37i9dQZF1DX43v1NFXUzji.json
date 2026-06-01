@@ -1,6 +1,6 @@
 {
   "description": "Latin music bangers for your gaming session! PEDRO SAMPAIO & El Bogueto on cover",
-  "num_followers": 611816,
+  "num_followers": 611803,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,22 @@
     {
       "added_at": "2026-05-24 07:02:19",
       "album": {
-        "name": "Pase y Toque",
-        "url": "https://open.spotify.com/album/6jJPYY36xdnHzRkT6Dfbj3"
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
       "artists": [
         {
-          "name": "BeatBoy",
-          "url": "https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
         },
         {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Pase y Toque",
-      "url": "https://open.spotify.com/track/2MzaScXAL8wrSU9tlEijo6"
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "added_at": "2026-05-24 07:02:19",
@@ -419,22 +419,22 @@
     {
       "added_at": "2026-05-24 07:02:19",
       "album": {
-        "name": "La Bebe (Remix)",
-        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+        "name": "Pase y Toque",
+        "url": "https://open.spotify.com/album/6jJPYY36xdnHzRkT6Dfbj3"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "BeatBoy",
+          "url": "https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
         }
       ],
-      "duration_ms": 234352,
-      "name": "La Bebe - Remix",
-      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+      "duration_ms": 168000,
+      "name": "Pase y Toque",
+      "url": "https://open.spotify.com/track/2MzaScXAL8wrSU9tlEijo6"
     },
     {
       "added_at": "2026-05-24 07:02:19",
@@ -759,6 +759,26 @@
     {
       "added_at": "2026-05-24 07:02:19",
       "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 193463,
+      "name": "Tormenta (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
+    },
+    {
+      "added_at": "2026-05-24 07:02:19",
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 118558,
       "name": "3 PECADOS DESPUES\u2026",
       "url": "https://open.spotify.com/track/16iLGYXMiLUhvqTEIu4pKB"
-    },
-    {
-      "added_at": "2026-05-24 07:02:19",
-      "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 193463,
-      "name": "Tormenta (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     },
     {
       "added_at": "2026-05-24 07:02:19",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2026-05-24 07:02:19",
       "album": {
-        "name": "De Vuelta a las Andadas",
-        "url": "https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 221583,
-      "name": "Mi Clero",
-      "url": "https://open.spotify.com/track/7LdLq9qpjRDksIQlO5EyAQ"
-    },
-    {
-      "added_at": "2026-05-24 07:02:19",
-      "album": {
         "name": "Mas Rica Que Ayer",
         "url": "https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 199148,
       "name": "Mas Rica Que Ayer",
       "url": "https://open.spotify.com/track/3XjvMZqm2AQ8thMCD6w9w2"
+    },
+    {
+      "added_at": "2026-05-24 07:02:19",
+      "album": {
+        "name": "De Vuelta a las Andadas",
+        "url": "https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 221583,
+      "name": "Mi Clero",
+      "url": "https://open.spotify.com/track/7LdLq9qpjRDksIQlO5EyAQ"
     },
     {
       "added_at": "2026-05-24 07:02:19",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-05-24 07:02:19",
       "album": {
-        "name": "Carretera",
-        "url": "https://open.spotify.com/album/55rjt544eDAkDYSU6keHCa"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Carretera",
-      "url": "https://open.spotify.com/track/542UGSa3CDAitFbjCGmHqg"
-    },
-    {
-      "added_at": "2026-05-24 07:02:19",
-      "album": {
         "name": "LOKERA",
         "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 197101,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
+    },
+    {
+      "added_at": "2026-05-24 07:02:19",
+      "album": {
+        "name": "Carretera",
+        "url": "https://open.spotify.com/album/55rjt544eDAkDYSU6keHCa"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Carretera",
+      "url": "https://open.spotify.com/track/542UGSa3CDAitFbjCGmHqg"
     },
     {
       "added_at": "2026-05-24 07:02:19",
@@ -1787,22 +1787,18 @@
     {
       "added_at": "2026-05-24 07:02:19",
       "album": {
-        "name": "CAIRO",
-        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
+        "name": "DONDE QUIERO ESTAR",
+        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 201280,
-      "name": "CAIRO",
-      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
+      "duration_ms": 160909,
+      "name": "WANDA",
+      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
     },
     {
       "added_at": "2026-05-24 07:02:19",
@@ -1827,18 +1823,22 @@
     {
       "added_at": "2026-05-24 07:02:19",
       "album": {
-        "name": "DONDE QUIERO ESTAR",
-        "url": "https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3"
+        "name": "CAIRO",
+        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 160909,
-      "name": "WANDA",
-      "url": "https://open.spotify.com/track/0Iozrbed8spxoBnmtBMshO"
+      "duration_ms": 201280,
+      "name": "CAIRO",
+      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
     },
     {
       "added_at": "2026-05-24 07:02:19",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2026-05-24 07:02:19",
       "album": {
-        "name": "T O M A !",
-        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "T O M A !",
-      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
-    },
-    {
-      "added_at": "2026-05-24 07:02:19",
-      "album": {
         "name": "Whiskey y Coco",
         "url": "https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 186477,
       "name": "Whiskey y Coco",
       "url": "https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK"
+    },
+    {
+      "added_at": "2026-05-24 07:02:19",
+      "album": {
+        "name": "T O M A !",
+        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "T O M A !",
+      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
     },
     {
       "added_at": "2026-05-24 07:02:19",
@@ -2119,6 +2119,22 @@
     {
       "added_at": "2026-05-24 07:02:19",
       "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/3k8sgSmYuXjyFdFv0Zhc3M"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 145970,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p"
+    },
+    {
+      "added_at": "2026-05-24 07:02:19",
+      "album": {
         "name": "Abran Paso",
         "url": "https://open.spotify.com/album/4pMFJL9AAor8UG0uAkIbl5"
       },
@@ -2135,22 +2151,6 @@
       "duration_ms": 236002,
       "name": "Abran Paso",
       "url": "https://open.spotify.com/track/5ryLHMXzsxUdtThQ9gyxXr"
-    },
-    {
-      "added_at": "2026-05-24 07:02:19",
-      "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/3k8sgSmYuXjyFdFv0Zhc3M"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 145970,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p"
     },
     {
       "added_at": "2026-05-24 07:02:19",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2026-05-24 07:02:19",
       "album": {
-        "name": "Aprend\u00ed",
-        "url": "https://open.spotify.com/album/2iH6PY5UmsbSumzhHvfjk1"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 248372,
-      "name": "Aprend\u00ed",
-      "url": "https://open.spotify.com/track/2TfTcErMx9XRqbOIt1nJvS"
-    },
-    {
-      "added_at": "2026-05-24 07:02:19",
-      "album": {
         "name": "Sikora",
         "url": "https://open.spotify.com/album/2mpAg33X8hrzISDjzcZm5u"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 161311,
       "name": "Sikora",
       "url": "https://open.spotify.com/track/3xfWkp003WhKYWAk6vO0wv"
+    },
+    {
+      "added_at": "2026-05-24 07:02:19",
+      "album": {
+        "name": "Aprend\u00ed",
+        "url": "https://open.spotify.com/album/2iH6PY5UmsbSumzhHvfjk1"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 248372,
+      "name": "Aprend\u00ed",
+      "url": "https://open.spotify.com/track/2TfTcErMx9XRqbOIt1nJvS"
     },
     {
       "added_at": "2026-05-24 07:02:19",
@@ -2899,30 +2899,6 @@
     {
       "added_at": "2026-05-24 07:02:19",
       "album": {
-        "name": "PU\u00d1OS PULSERAS Y PALETAS",
-        "url": "https://open.spotify.com/album/5tLfLxGmx7N71QBzmiCx58"
-      },
-      "artists": [
-        {
-          "name": "Kevis & Maykyy",
-          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
-        },
-        {
-          "name": "Chans",
-          "url": "https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG"
-        },
-        {
-          "name": "Fntwxy",
-          "url": "https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH"
-        }
-      ],
-      "duration_ms": 143529,
-      "name": "PU\u00d1OS PULSERAS Y PALETAS",
-      "url": "https://open.spotify.com/track/3ZSVSvD86WfSiKD6ubOygJ"
-    },
-    {
-      "added_at": "2026-05-24 07:02:19",
-      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
@@ -2943,6 +2919,30 @@
       "duration_ms": 281119,
       "name": "LOYAL (feat. Drake and Bad Bunny) - Remix",
       "url": "https://open.spotify.com/track/1sdWxcygtoOmfwCDfKklQk"
+    },
+    {
+      "added_at": "2026-05-24 07:02:19",
+      "album": {
+        "name": "PU\u00d1OS PULSERAS Y PALETAS",
+        "url": "https://open.spotify.com/album/5tLfLxGmx7N71QBzmiCx58"
+      },
+      "artists": [
+        {
+          "name": "Kevis & Maykyy",
+          "url": "https://open.spotify.com/artist/0q32VhVNSEcCRpQaYE1VGH"
+        },
+        {
+          "name": "Chans",
+          "url": "https://open.spotify.com/artist/52ntmpHiRU47gviRUYdnjG"
+        },
+        {
+          "name": "Fntwxy",
+          "url": "https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "PU\u00d1OS PULSERAS Y PALETAS",
+      "url": "https://open.spotify.com/track/3ZSVSvD86WfSiKD6ubOygJ"
     },
     {
       "added_at": "2026-05-24 07:02:19",

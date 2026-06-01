@@ -496,7 +496,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 191986,
       "name": "Blame It On Me (Acoustic)",
       "url": "https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7"
@@ -2528,6 +2528,28 @@
       "duration_ms": 240238,
       "name": "Pointless - Strings Acoustic",
       "url": "https://open.spotify.com/track/4rmuX9LHbxYYJuPtP353uL"
+    },
+    {
+      "album": {
+        "name": "Clau: We4Sessions",
+        "url": "https://open.spotify.com/album/3l4j90WNDrvsKKdJF6N5Zi"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "WE4Sessions",
+          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207671,
+      "name": "Pouca Pausa / Cigana",
+      "url": "https://open.spotify.com/track/553dpGjn4UFZmZ3pgWp5CA"
     },
     {
       "album": {

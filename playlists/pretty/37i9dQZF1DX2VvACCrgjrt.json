@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1313201,
+  "num_followers": 1313202,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1361,6 +1361,62 @@
       "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
     },
     {
+      "added_at": "2026-03-06 05:00:10",
+      "album": {
+        "name": "INERTIA",
+        "url": "https://open.spotify.com/album/6vQY11JrPuG6h17SzGa1oD"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        },
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/4ou6cmjDFP0qzoXwr0cJTM"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "YOU GOT ME",
+      "url": "https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Grove St. Party",
+        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
+      },
+      "artists": [
+        {
+          "name": "Proppa",
+          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "duration_ms": 170307,
+      "name": "Grove St. Party",
+      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
+    },
+    {
       "added_at": "2026-04-24 04:01:50",
       "album": {
         "name": "My Own Thang EP",
@@ -1385,46 +1441,6 @@
       "url": "https://open.spotify.com/track/4u6u4sdrJ0CPWHAzV8ygVd"
     },
     {
-      "added_at": "2026-03-06 05:00:10",
-      "album": {
-        "name": "INERTIA",
-        "url": "https://open.spotify.com/album/6vQY11JrPuG6h17SzGa1oD"
-      },
-      "artists": [
-        {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
-        },
-        {
-          "name": "Marzi",
-          "url": "https://open.spotify.com/artist/4ou6cmjDFP0qzoXwr0cJTM"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "YOU GOT ME",
-      "url": "https://open.spotify.com/track/0clHsShVOKyXflPbH5adcg"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Grove St. Party",
-        "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
-      },
-      "artists": [
-        {
-          "name": "Proppa",
-          "url": "https://open.spotify.com/artist/6h9guyYUhKLeDhyUVoOE68"
-        },
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
-        }
-      ],
-      "duration_ms": 170307,
-      "name": "Grove St. Party",
-      "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
-    },
-    {
       "added_at": "2026-04-17 04:02:12",
       "album": {
         "name": "Fotopaparazzi",
@@ -1447,22 +1463,6 @@
       "duration_ms": 140770,
       "name": "Fotopaparazzi",
       "url": "https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1505,6 +1505,22 @@
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
     },
     {
+      "added_at": "2026-05-01 04:01:35",
+      "album": {
+        "name": "Night & Day",
+        "url": "https://open.spotify.com/album/5fntuEso27V8mz6wBYiNeX"
+      },
+      "artists": [
+        {
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
+        }
+      ],
+      "duration_ms": 178261,
+      "name": "Night & Day",
+      "url": "https://open.spotify.com/track/70emOt10n88XGHzJzG8qIB"
+    },
+    {
       "added_at": "2026-04-10 04:02:08",
       "album": {
         "name": "Bad Girls",
@@ -1527,22 +1543,6 @@
       "duration_ms": 125199,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/2M2mxEsoQpXXUujuxxBayv"
-    },
-    {
-      "added_at": "2026-05-01 04:01:35",
-      "album": {
-        "name": "Night & Day",
-        "url": "https://open.spotify.com/album/5fntuEso27V8mz6wBYiNeX"
-      },
-      "artists": [
-        {
-          "name": "Mosimann",
-          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
-        }
-      ],
-      "duration_ms": 178261,
-      "name": "Night & Day",
-      "url": "https://open.spotify.com/track/70emOt10n88XGHzJzG8qIB"
     },
     {
       "added_at": "2026-02-06 05:00:42",
@@ -2053,22 +2053,6 @@
       "url": "https://open.spotify.com/track/4ekPN8q9in7XPXHbT4cYTo"
     },
     {
-      "added_at": "2026-04-17 04:02:12",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/36poUrVEJVkcHABIVxlqv3"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/2GMHlcrfeNgqRxmuM85LTb"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Renegade Master (Don Diablo Edit)",
@@ -2113,6 +2097,22 @@
       "url": "https://open.spotify.com/track/0LPcQK0wDigAqAkgs939cK"
     },
     {
+      "added_at": "2026-04-17 04:02:12",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/36poUrVEJVkcHABIVxlqv3"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2GMHlcrfeNgqRxmuM85LTb"
+    },
+    {
       "added_at": "2026-04-24 04:01:50",
       "album": {
         "name": "Mind On The Beat",
@@ -2131,22 +2131,6 @@
       "duration_ms": 164307,
       "name": "Mind On The Beat",
       "url": "https://open.spotify.com/track/7v0FrXXKGnVelJsJQubUxV"
-    },
-    {
-      "added_at": "2026-02-27 05:00:47",
-      "album": {
-        "name": "Right Nahh",
-        "url": "https://open.spotify.com/album/2g99IUCFyi04QOYvPd6NDn"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 149817,
-      "name": "Right Nahh",
-      "url": "https://open.spotify.com/track/0WMZSRpCfrUwmqTUaqQZa3"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2169,6 +2153,38 @@
       "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
     },
     {
+      "added_at": "2026-02-27 05:00:47",
+      "album": {
+        "name": "Right Nahh",
+        "url": "https://open.spotify.com/album/2g99IUCFyi04QOYvPd6NDn"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 149817,
+      "name": "Right Nahh",
+      "url": "https://open.spotify.com/track/0WMZSRpCfrUwmqTUaqQZa3"
+    },
+    {
+      "added_at": "2026-05-08 04:01:56",
+      "album": {
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/6Ypp3AlqyAsm7CII1FdQEi"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        }
+      ],
+      "duration_ms": 230624,
+      "name": "Trendsetter",
+      "url": "https://open.spotify.com/track/5MMPfKSSzfGvJ1VVZgHPqS"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Sweat",
@@ -2187,22 +2203,6 @@
       "duration_ms": 140654,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/694KwHLls5cZF2HvsOIuFA"
-    },
-    {
-      "added_at": "2026-05-08 04:01:56",
-      "album": {
-        "name": "Trendsetter",
-        "url": "https://open.spotify.com/album/6Ypp3AlqyAsm7CII1FdQEi"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        }
-      ],
-      "duration_ms": 230624,
-      "name": "Trendsetter",
-      "url": "https://open.spotify.com/track/5MMPfKSSzfGvJ1VVZgHPqS"
     },
     {
       "added_at": "2026-01-09 16:39:37",

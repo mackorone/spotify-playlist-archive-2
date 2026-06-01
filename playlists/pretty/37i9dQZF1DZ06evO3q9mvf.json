@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3236,
+  "num_followers": 3234,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAA4x0cyTDsCdc7GYZJZ3+OG",
+  "snapshot_id": "ahoogAAAAAC6whsK4Upck7LuhIU0KR6s",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 221306,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
+      "duration_ms": 146586,
+      "name": "Slime",
+      "url": "https://open.spotify.com/track/2LabDMCiDEFX7ay29gUkug"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 146586,
-      "name": "Slime",
-      "url": "https://open.spotify.com/track/2LabDMCiDEFX7ay29gUkug"
+      "duration_ms": 221306,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 365293,
-      "name": "In The Beginning",
-      "url": "https://open.spotify.com/track/6psWuKnXsVNryfsHLAGvIV"
+      "duration_ms": 180786,
+      "name": "A Boring Life",
+      "url": "https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 180786,
-      "name": "A Boring Life",
-      "url": "https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ"
+      "duration_ms": 365293,
+      "name": "In The Beginning",
+      "url": "https://open.spotify.com/track/6psWuKnXsVNryfsHLAGvIV"
     }
   ],
   "unique_name": "This Is The Slits",

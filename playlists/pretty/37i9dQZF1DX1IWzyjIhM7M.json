@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 10231,
+  "num_followers": 10234,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "Tu hai kahan",
+        "url": "https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l"
+      },
+      "artists": [
+        {
+          "name": "AUR",
+          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
+        }
+      ],
+      "duration_ms": 263184,
+      "name": "Tu hai kahan",
+      "url": "https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "Lonestar Luchador",
         "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 192000,
       "name": "Johnny Dang (with Paul Wall & DRODi)",
       "url": "https://open.spotify.com/track/6XEt23sq6sRgER8sSZbCR5"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "Tu hai kahan",
-        "url": "https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l"
-      },
-      "artists": [
-        {
-          "name": "AUR",
-          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
-        }
-      ],
-      "duration_ms": 263184,
-      "name": "Tu hai kahan",
-      "url": "https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Wana",
-        "url": "https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm"
-      },
-      "artists": [
-        {
-          "name": "nour",
-          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Wana",
-      "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Falling Behind",
         "url": "https://open.spotify.com/album/7EKPZpguEOpNXn7R75Zumw"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 228600,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/2bgIuOQEKQZ6TDDiMMJbfX"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Wana",
+        "url": "https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm"
+      },
+      "artists": [
+        {
+          "name": "nour",
+          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Wana",
+      "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "MAKIA",
+        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 195411,
+      "name": "LA DROGA ES MIA (Yuca_Ab_120BPM)",
+      "url": "https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "Blue Voyage",
         "url": "https://open.spotify.com/album/4eZiuAVaQeHXTDAAfgASAw"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 254080,
       "name": "Blue Voyage",
       "url": "https://open.spotify.com/track/2R2hUKAdr1ubbKlXsTDkZl"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "MAKIA",
-        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 195411,
-      "name": "LA DROGA ES MIA (Yuca_Ab_120BPM)",
-      "url": "https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Supply/Demand",
-        "url": "https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd"
-      },
-      "artists": [
-        {
-          "name": "Sugar Pit",
-          "url": "https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Supply/Demand",
-      "url": "https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Once Upon The End",
         "url": "https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 279183,
       "name": "Once Upon The End",
       "url": "https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Supply/Demand",
+        "url": "https://open.spotify.com/album/71boRaJnmsU6419GQP4yBd"
+      },
+      "artists": [
+        {
+          "name": "Sugar Pit",
+          "url": "https://open.spotify.com/artist/5xd7qZAa7qyYO8QpsEEBkv"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Supply/Demand",
+      "url": "https://open.spotify.com/track/0D2VPQ57FeEUkJz2wxpKKg"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "The CARR Show",
-        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
-      },
-      "artists": [
-        {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
-        }
-      ],
-      "duration_ms": 149106,
-      "name": "Spiral City",
-      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Criteria",
         "url": "https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 142500,
       "name": "More In Love (with Grady)",
       "url": "https://open.spotify.com/track/3gnz988nn8pcUGijzH4h9O"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "The CARR Show",
+        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149106,
+      "name": "Spiral City",
+      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
     },
     {
       "added_at": "2024-01-10 16:06:35",

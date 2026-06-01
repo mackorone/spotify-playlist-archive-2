@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 73634,
+  "num_followers": 73642,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAACeUA9RK8vCKexurHWpKizx",
+  "snapshot_id": "ahoogAAAAACQYbkaK/hHugZY41M+Gr33",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Alma De Lila Downs",
-        "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "Naila",
-      "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Balas y Chocolate",
         "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
       },
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+        "name": "El Alma De Lila Downs",
+        "url": "https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/6c3lhT9ewcn6Vv0J8deA2b"
+      "duration_ms": 191640,
+      "name": "Naila",
+      "url": "https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI"
     },
     {
       "added_at": null,
@@ -671,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Border",
-        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
       "artists": [
         {
@@ -680,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 285466,
-      "name": "Perhaps, Perhaps, Perhaps",
-      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
+      "duration_ms": 205200,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/6c3lhT9ewcn6Vv0J8deA2b"
     },
     {
       "added_at": null,
@@ -707,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+        "name": "Border",
+        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
       "artists": [
         {
@@ -716,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 208946,
-      "name": "La Campanera",
-      "url": "https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k"
+      "duration_ms": 285466,
+      "name": "Perhaps, Perhaps, Perhaps",
+      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
     },
     {
       "added_at": null,
@@ -739,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Border",
-        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Ken Basman",
-          "url": "https://open.spotify.com/artist/3Qn101vbL0qNKzG18WsPuo"
         }
       ],
-      "duration_ms": 207026,
-      "name": "El Feo",
-      "url": "https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB"
+      "duration_ms": 208946,
+      "name": "La Campanera",
+      "url": "https://open.spotify.com/track/7fw1xC8CxyRiCz7XJiz47k"
     },
     {
       "added_at": null,
@@ -779,18 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+        "name": "Border",
+        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
       "artists": [
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Ken Basman",
+          "url": "https://open.spotify.com/artist/3Qn101vbL0qNKzG18WsPuo"
         }
       ],
-      "duration_ms": 190586,
-      "name": "La San Marque\u00f1a",
-      "url": "https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk"
+      "duration_ms": 207026,
+      "name": "El Feo",
+      "url": "https://open.spotify.com/track/5WKJ5R7jFZi9wz0hQHYpLB"
     },
     {
       "added_at": null,
@@ -815,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumba 7",
-        "url": "https://open.spotify.com/album/6fPRIFEbcszWFz0xxoGPzl"
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
       "artists": [
         {
@@ -824,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 301621,
-      "name": "Tumba 7",
-      "url": "https://open.spotify.com/track/68yaDbdzyd0qgtZLIm4MCq"
+      "duration_ms": 190586,
+      "name": "La San Marque\u00f1a",
+      "url": "https://open.spotify.com/track/74Ldi2R0KmTHQzkt9r5DRk"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tumba 7",
+        "url": "https://open.spotify.com/album/6fPRIFEbcszWFz0xxoGPzl"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 301621,
+      "name": "Tumba 7",
+      "url": "https://open.spotify.com/track/68yaDbdzyd0qgtZLIm4MCq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La S\u00e1nchez",
         "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
       },
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En El \u00daltimo Trago",
         "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 207200,
       "name": "En el \u00faltimo trago",
       "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
     },
     {
       "added_at": null,
@@ -1023,26 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janney",
-        "url": "https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 183679,
-      "name": "ESP\u00cdRITU",
-      "url": "https://open.spotify.com/track/3CJE62BhA4pHqwwr9UIOX7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quiero Verte Feliz",
         "url": "https://open.spotify.com/album/2wl1hLE3yTYYBwVMxk2PHR"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 177653,
       "name": "Quiero Verte Feliz",
       "url": "https://open.spotify.com/track/6V0TM2KFU9V3KXOEU8aPcf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Janney",
+        "url": "https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 183679,
+      "name": "ESP\u00cdRITU",
+      "url": "https://open.spotify.com/track/3CJE62BhA4pHqwwr9UIOX7"
     }
   ],
   "unique_name": "This Is Lila Downs",

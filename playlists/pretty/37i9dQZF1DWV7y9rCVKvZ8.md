@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 
 > Jadi lebih produktif ditemani musik terkini
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,340 likes - 101 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,356 likes - 101 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 | 100 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 101 | [Sebuah Puisi](https://open.spotify.com/track/6ruVNtweuLJKcjiS9N4kX7) | [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Sebuah Puisi](https://open.spotify.com/album/3Tui3YcJni9noaGQOfJOlU) | 3:31 |
 
-Snapshot ID: `AAAAAIBXP73kpncdIr6D/CzLp0WBfPE3`
+Snapshot ID: `AAAAAGWux9vET5Xrk4ngMG6jW9HQ8RtU`

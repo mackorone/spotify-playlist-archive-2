@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 39125,
+  "num_followers": 39124,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAADPJtTqolK6IlV5bXyHgMNF",
+  "snapshot_id": "ahoogAAAAADHnbF1XnxBRVUoJemOuZfJ",
   "tracks": [
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 311933,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d"
+      "duration_ms": 245493,
+      "name": "You Can't Hide from Yourself",
+      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 245493,
-      "name": "You Can't Hide from Yourself",
-      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
+      "duration_ms": 311933,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d"
     },
     {
       "added_at": null,

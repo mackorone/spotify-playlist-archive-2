@@ -1,12 +1,12 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 52409,
+  "num_followers": 52414,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAACfwiTtM0IUc8mGrYlRCZcT",
+  "snapshot_id": "ahoogAAAAABdiNCZuh+WUmCYOrHxJBam",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Lucky",
         "url": "https://open.spotify.com/album/3t99XEvm7voCGPI7Od66FZ"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 404453,
       "name": "I Cover the Waterfront - feat. Booker T. Jones",
       "url": "https://open.spotify.com/track/050GP3PZhpslbb83CBhzIR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hooker 'N Heat",
+        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "Whiskey And Wimmen'",
+      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It Serve You Right To Suffer (2025 Remaster)",
+        "url": "https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 261837,
+      "name": "Shake It Baby - 2025 Remaster",
+      "url": "https://open.spotify.com/track/1Oh8werpHaazuzJ52QMieU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hooker 'N Heat",
         "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
       },
@@ -291,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Serve You Right To Suffer (2025 Remaster)",
-        "url": "https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS"
+        "name": "UNION STATION BLUES",
+        "url": "https://open.spotify.com/album/6BNi3RgIN4PBwwrj12OfyT"
       },
       "artists": [
         {
@@ -300,9 +316,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 261837,
-      "name": "Shake It Baby - 2025 Remaster",
-      "url": "https://open.spotify.com/track/1Oh8werpHaazuzJ52QMieU"
+      "duration_ms": 133545,
+      "name": "Dimples",
+      "url": "https://open.spotify.com/track/7EVfyWoxyraAp1rRmuHpV7"
     },
     {
       "added_at": null,
@@ -323,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNION STATION BLUES",
-        "url": "https://open.spotify.com/album/6BNi3RgIN4PBwwrj12OfyT"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 133545,
-      "name": "Dimples",
-      "url": "https://open.spotify.com/track/7EVfyWoxyraAp1rRmuHpV7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 158800,
-      "name": "Cry Before I Go",
-      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
+      "duration_ms": 123800,
+      "name": "Think Twice Before You Go",
+      "url": "https://open.spotify.com/track/2IV2NdDBpCUhKmmIT841Po"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 123800,
-      "name": "Think Twice Before You Go",
-      "url": "https://open.spotify.com/track/2IV2NdDBpCUhKmmIT841Po"
+      "duration_ms": 158800,
+      "name": "Cry Before I Go",
+      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chill Out",
-        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 386973,
-      "name": "Serves Me Right to Suffer / Syndicator - feat. Van Morrison - 2007 Remaster",
-      "url": "https://open.spotify.com/track/7cdA9MmxoRwjpYFDO0TEhs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boom Boom (2007 Remaster)",
         "url": "https://open.spotify.com/album/0keiVYLEe5RKFslw9X9veN"
       },
@@ -543,6 +523,22 @@
       "duration_ms": 373933,
       "name": "Same Old Blues Again - 2007 - Remaster",
       "url": "https://open.spotify.com/track/7kiAAOa7TgKXQFDJxWxDwb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Serve You Right To Suffer (2025 Remaster)",
+        "url": "https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 148097,
+      "name": "Bottle Up & Go - 2025 Remaster",
+      "url": "https://open.spotify.com/track/1KDNObuiENmdHWdvynZIbu"
     },
     {
       "added_at": null,
@@ -563,8 +559,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Serve You Right To Suffer (2025 Remaster)",
-        "url": "https://open.spotify.com/album/5RNxoNHqpCJ2q4YOZycWWS"
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 386973,
+      "name": "Serves Me Right to Suffer / Syndicator - feat. Van Morrison - 2007 Remaster",
+      "url": "https://open.spotify.com/track/7cdA9MmxoRwjpYFDO0TEhs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Real Folk Blues: The Missing Album",
+        "url": "https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11"
       },
       "artists": [
         {
@@ -572,9 +588,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 148097,
-      "name": "Bottle Up & Go - 2025 Remaster",
-      "url": "https://open.spotify.com/track/1KDNObuiENmdHWdvynZIbu"
+      "duration_ms": 208800,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD"
     },
     {
       "added_at": null,
@@ -599,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Real Folk Blues: The Missing Album",
-        "url": "https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
@@ -627,6 +627,22 @@
       "duration_ms": 150906,
       "name": "I Can't Stand To Leave You",
       "url": "https://open.spotify.com/track/5fYjLvAzuZSYDjC20B2WOt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 309320,
+      "name": "The Healing Game",
+      "url": "https://open.spotify.com/track/1SSAVVIiMMfpukBfQ15vBP"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
       "duration_ms": 266533,
       "name": "I Got My Eyes On You",
       "url": "https://open.spotify.com/track/2AxC0hBTjAslD0sZAywCzU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Look Back",
-        "url": "https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 309320,
-      "name": "The Healing Game",
-      "url": "https://open.spotify.com/track/1SSAVVIiMMfpukBfQ15vBP"
     },
     {
       "added_at": null,

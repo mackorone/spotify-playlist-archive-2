@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di 18K, Guè, RRARI DAL TACCO, DANTE, Astro, Madman e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,556 likes - 111 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,559 likes - 111 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

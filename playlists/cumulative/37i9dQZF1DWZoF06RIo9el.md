@@ -4,7 +4,7 @@
 
 > Lo mejor de mayo 2026\. Cover: Rels B
 
-1,512 songs - 3 day 8 hr 17 min
+1,513 songs - 3 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Aguardiente](https://open.spotify.com/track/7lFpX8kcAFe1Jv9MmKIdMV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Aguardiente](https://open.spotify.com/album/6OSCKBZsN0mw3jZdLKpsga) | 2:22 | 2022-04-29 | 2022-05-25 |
 | [Aguas](https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Rey Quinto](https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0) | [Aguas](https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K) | 2:52 | 2026-01-30 | 2026-03-07 |
 | [Ahora que no estás sola](https://open.spotify.com/track/76kxpHdZ0hqo6kisRchAzc) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Ahora que no estás sola](https://open.spotify.com/album/0zSVmbdS1gDc2TXghbD1vv) | 2:55 | 2024-08-09 | 2024-09-18 |
+| [aiaiaiaiai](https://open.spotify.com/track/3ZIUbesQtBxDi4Dl46u2bl) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ricky y Mau](https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg) | 2:20 | 2026-05-29 |  |
 | [AIRBNB](https://open.spotify.com/track/0fuyLaeHh0TvQ65m5ojgP2) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:05 | 2022-11-15 | 2023-01-05 |
 | [Aiwo \- Remix](https://open.spotify.com/track/3TsxLSHNDd5dNzb65cZRrh) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Aiwo \(Remix\)](https://open.spotify.com/album/5leLsq0A1HMqzaReyWvxZZ) | 2:55 | 2024-10-21 | 2024-12-10 |
 | [AL CHILE](https://open.spotify.com/track/386FztxeWI2aSqF6jLfGUT) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [AL CHILE](https://open.spotify.com/album/5J9rc3hd9K8IPPEZMTglFz) | 2:55 | 2024-08-16 | 2024-08-27 |
@@ -1096,7 +1097,7 @@
 | [Por Deporte](https://open.spotify.com/track/7EyGZtJuOckQfMDJL1PPrH) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:49 | 2022-11-28 | 2023-02-17 |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2023-01-30 | 2023-04-07 |
 | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/track/595wwjQiad6e6lSTScmXvz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:24 | 2026-03-06 | 2026-05-29 |
-| [Power Ballad](https://open.spotify.com/track/5gOjb6qeRHH4CScUkqTFZ6) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Power Ballad](https://open.spotify.com/album/3mb9jcjOHpLjzqJ1us7x6P) | 3:52 | 2026-05-29 |  |
+| [Power Ballad](https://open.spotify.com/track/5gOjb6qeRHH4CScUkqTFZ6) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Power Ballad](https://open.spotify.com/album/3mb9jcjOHpLjzqJ1us7x6P) | 3:52 | 2026-05-29 | 2026-06-01 |
 | [preguntalealaluna](https://open.spotify.com/track/2zvBpVyuuWIBfNh2k1UWvi) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [preguntalealaluna](https://open.spotify.com/album/1C8ND2Lh3xBQ1jwQEZcvOo) | 3:48 | 2025-11-21 | 2026-01-31 |
 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 | 2022-10-24 | 2022-11-08 |
 | [Prende la Cámara RMX](https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Prende la Cámara RMX](https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo) | 3:32 | 2021-12-14 | 2022-03-05 |

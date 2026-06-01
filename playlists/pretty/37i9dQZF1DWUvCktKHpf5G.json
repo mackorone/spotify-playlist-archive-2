@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Puro perreo intenso en la comodidad de tu habitaci\u00f3n!",
-  "num_followers": 267433,
+  "num_followers": 267441,
   "original_name": "Perrea en tu Cuarto",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-05-15 06:00:04",
       "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
+      "added_at": "2026-05-15 06:00:04",
+      "album": {
         "name": "Mi\u00e9nteme",
         "url": "https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2026-05-15 06:00:04",
-      "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2026-05-15 06:00:04",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-05-15 06:00:04",
       "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Negro",
+      "url": "https://open.spotify.com/track/2hsA9YWuF3C9Gosi4dpjJN"
+    },
+    {
+      "added_at": "2026-05-15 06:00:04",
+      "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 193013,
       "name": "Problem\u00f3n",
       "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
-    },
-    {
-      "added_at": "2026-05-15 06:00:04",
-      "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Negro",
-      "url": "https://open.spotify.com/track/2hsA9YWuF3C9Gosi4dpjJN"
     },
     {
       "added_at": "2026-05-15 06:00:04",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2026-05-15 06:00:04",
       "album": {
-        "name": "HABLAME CLARO",
-        "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 154969,
-      "name": "HABLAME CLARO",
-      "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
-    },
-    {
-      "added_at": "2026-05-15 06:00:04",
-      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/3oP0LPKsjcdocYsRGCMpkn"
       },
@@ -1715,6 +1695,26 @@
     {
       "added_at": "2026-05-15 06:00:04",
       "album": {
+        "name": "HABLAME CLARO",
+        "url": "https://open.spotify.com/album/2uAs0cfev3WKGaotTsREhI"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 154969,
+      "name": "HABLAME CLARO",
+      "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
+    },
+    {
+      "added_at": "2026-05-15 06:00:04",
+      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2026-05-15 06:00:04",
       "album": {
-        "name": "LA NENA",
-        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "LA NENA",
-      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
-    },
-    {
-      "added_at": "2026-05-15 06:00:04",
-      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/6bZ3w99gJilo45OwKsMBd0"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 179893,
       "name": "Cinco Estrellas",
       "url": "https://open.spotify.com/track/0bZ5NMULGjx65BhgXTfA33"
+    },
+    {
+      "added_at": "2026-05-15 06:00:04",
+      "album": {
+        "name": "LA NENA",
+        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
+      },
+      "artists": [
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "LA NENA",
+      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
     },
     {
       "added_at": "2026-05-15 06:00:04",
@@ -1959,26 +1959,6 @@
     {
       "added_at": "2026-05-15 06:00:04",
       "album": {
-        "name": "DUBAI",
-        "url": "https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "DUBAI",
-      "url": "https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6"
-    },
-    {
-      "added_at": "2026-05-15 06:00:04",
-      "album": {
         "name": "G Low Kitty (Remix)",
         "url": "https://open.spotify.com/album/5HdE72l91YCqPtlMx7YPHD"
       },
@@ -2015,26 +1995,22 @@
     {
       "added_at": "2026-05-15 06:00:04",
       "album": {
-        "name": "Prende la C\u00e1mara RMX",
-        "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
+        "name": "DUBAI",
+        "url": "https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd"
       },
       "artists": [
         {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         },
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
         }
       ],
-      "duration_ms": 212629,
-      "name": "Prende la C\u00e1mara RMX",
-      "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
+      "duration_ms": 146000,
+      "name": "DUBAI",
+      "url": "https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6"
     },
     {
       "added_at": "2026-05-15 06:00:04",
@@ -2067,18 +2043,26 @@
     {
       "added_at": "2026-05-15 06:00:04",
       "album": {
-        "name": "Pol\u00e9mica",
-        "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
+        "name": "Prende la C\u00e1mara RMX",
+        "url": "https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo"
       },
       "artists": [
         {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 151718,
-      "name": "Pol\u00e9mica",
-      "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
+      "duration_ms": 212629,
+      "name": "Prende la C\u00e1mara RMX",
+      "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
     },
     {
       "added_at": "2026-05-15 06:00:04",
@@ -2111,6 +2095,22 @@
       "duration_ms": 310588,
       "name": "Fan\u00e1tico (feat. Feid & De La Ghetto) - Remix",
       "url": "https://open.spotify.com/track/5SEyiGqIMeZcFpC5ycODJc"
+    },
+    {
+      "added_at": "2026-05-15 06:00:04",
+      "album": {
+        "name": "Pol\u00e9mica",
+        "url": "https://open.spotify.com/album/6tRi3uL84txRiFisTNc2e8"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 151718,
+      "name": "Pol\u00e9mica",
+      "url": "https://open.spotify.com/track/6dtILMYAezM9EChiT0RsCN"
     }
   ],
   "unique_name": "Perrea en tu Cuarto",

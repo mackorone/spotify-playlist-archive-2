@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1227842,
+  "num_followers": 1227839,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAC/gfBLTX0uX4B7KDSQzkzu",
+  "snapshot_id": "ahoogAAAAACBWKGJokmXkP3xtuCpl0lQ",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Nice 'n' Easy - Remastered 1999",
-      "url": "https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 194306,
       "name": "The Lady Is A Tramp - Remastered 1998",
       "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Nice 'n' Easy - Remastered 1999",
+      "url": "https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come Dance With Me! (Remastered)",
+        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 151026,
+      "name": "Come Dance With Me - 1998 Remastered",
+      "url": "https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Seventeen Number Ones",
         "url": "https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 189466,
       "name": "I'll Never Smile Again",
       "url": "https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Dance With Me! (Remastered)",
-        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 151026,
-      "name": "Come Dance With Me - 1998 Remastered",
-      "url": "https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf"
     },
     {
       "added_at": null,

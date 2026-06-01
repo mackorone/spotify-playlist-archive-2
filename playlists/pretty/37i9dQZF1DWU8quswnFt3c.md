@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume\. Cover: Tenille Towner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,944 likes - 45 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,814 likes - 45 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 25 | [I Wish You Well](https://open.spotify.com/track/62MQQhu3ljO21zGvjWEJYV) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [I Wish You Well](https://open.spotify.com/album/3LvKwWsV65kw0zBuNaChoA) | 3:20 |
 | 26 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
 | 27 | [Therapy](https://open.spotify.com/track/78ZwA2gv2dKj92FqY3CwrU) | [Samar Tarik](https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0) | [Therapy](https://open.spotify.com/album/4I5mHJeEcs9QcTfxHUwWfk) | 3:18 |
-| 28 | [¿ARDIDA QUIÉN?](https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [¿ARDIDA QUIÉN?](https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ) | 2:20 |
-| 29 | [Amour Propre](https://open.spotify.com/track/0YviyT90HZHpGqLQDfif2b) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [VERSATILE](https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ) | 3:29 |
+| 28 | [Amour Propre](https://open.spotify.com/track/0YviyT90HZHpGqLQDfif2b) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [VERSATILE](https://open.spotify.com/album/0owIvIFEbUN6xtsplJHOjZ) | 3:29 |
+| 29 | [¿ARDIDA QUIÉN?](https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc) | [¿ARDIDA QUIÉN?](https://open.spotify.com/album/4oxsCPmw0U4j8Rg5jg6ygJ) | 2:20 |
 | 30 | [深宵便利愛](https://open.spotify.com/track/1PVmRq1h6juqGicSQFCfSf) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [深宵便利愛](https://open.spotify.com/album/4BX4idG37uUOpXB0WvQ1JJ) | 3:19 |
 | 31 | [Berlin](https://open.spotify.com/track/7Ei6t0vqP6QsuEEok9oxZJ) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Blue Angel Sparkling Silver 2](https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor) | 3:23 |
 | 32 | [setidaknya aku telah mencoba](https://open.spotify.com/track/4NhhEuSZb5uAj5mgIA5WJN) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [setidaknya aku telah mencoba](https://open.spotify.com/album/6g4AW1lAuD1jyQi2xGixLn) | 2:54 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 37 | [Toma Toma](https://open.spotify.com/track/1zJxOcvQ84OzBsAfGcrWtc) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7), [Taliixo Beatz](https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE), [Wiils](https://open.spotify.com/artist/5nlb9fduEXeYSS8K6IkFwj) | [Toma Toma](https://open.spotify.com/album/1rKwmiX9ouMu23H5cddHqC) | 2:40 |
 | 38 | [schlaflied](https://open.spotify.com/track/19NYiWCaRQ1JHTWu3FfCJb) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [schlaflied](https://open.spotify.com/album/6STFUc3msVtCqGMQ6xPKus) | 1:36 |
 | 39 | [Es para Ti](https://open.spotify.com/track/7i1YQivbv7XRVp6cAYJ5Sp) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Es para Ti](https://open.spotify.com/album/4AXhRC8yGmNBdm8eoMgAE3) | 3:01 |
-| 40 | [Üzdü](https://open.spotify.com/track/2bUUN4MNEajcdjXcDzbNBM) | [Güneş Özgeç](https://open.spotify.com/artist/6mkCYg6ZwD3mv7XnLy19CB) | [Üzdü](https://open.spotify.com/album/2qMffBUqprMXNo9vH6KKQD) | 4:07 |
-| 41 | [Y QUÉ TAL SI YA ES MOMENTO](https://open.spotify.com/track/77g27yz56vE5OjWCxha0Fs) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [CANDADO](https://open.spotify.com/album/00CudgxUmqI9koR8mspIUd) | 3:02 |
+| 40 | [Y QUÉ TAL SI YA ES MOMENTO](https://open.spotify.com/track/77g27yz56vE5OjWCxha0Fs) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [CANDADO](https://open.spotify.com/album/00CudgxUmqI9koR8mspIUd) | 3:02 |
+| 41 | [Üzdü](https://open.spotify.com/track/2bUUN4MNEajcdjXcDzbNBM) | [Güneş Özgeç](https://open.spotify.com/artist/6mkCYg6ZwD3mv7XnLy19CB) | [Üzdü](https://open.spotify.com/album/2qMffBUqprMXNo9vH6KKQD) | 4:07 |
 | 42 | [No me soltes \(pt.2\)](https://open.spotify.com/track/0bda6sDLcIiy5vm3oUXHw5) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [TEMPORAL, LP.](https://open.spotify.com/album/6ITfMwpGDKVTzl16mMXvYN) | 3:13 |
 | 43 | [звіра](https://open.spotify.com/track/6FMmOofZMTzT9D1jbd7wkp) | [YUVI](https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9) | [Viskra](https://open.spotify.com/album/6tKb5eqYdO6scLOYgzEov5) | 3:43 |
 | 44 | [Jadi Manusia](https://open.spotify.com/track/1WPSTpBANcJrij80C79Bkz) | [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [Jadi Manusia](https://open.spotify.com/album/5lVphuoW9odFp5KlJlDE7d) | 3:02 |

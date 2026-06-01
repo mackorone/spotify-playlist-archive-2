@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Mariybu
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,222 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,217 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 45 | [Was in der Welt](https://open.spotify.com/track/7dQA57kfO11YkHe2AGU0Q7) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [Was in der Welt](https://open.spotify.com/album/0UNWXfSyHKKkPTJMvVzriX) | 2:36 |
 | 46 | [Gehaltsvorstellung](https://open.spotify.com/track/1lan0SYHEbg2ravcltq9zs) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [Gehaltsvorstellung](https://open.spotify.com/album/5uxYiyVezVSwTuQBFJu33L) | 2:26 |
 | 47 | [runaway](https://open.spotify.com/track/69wW6EfIBvGukl09GyQAoe) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga) | [runaway](https://open.spotify.com/album/7nRRXXbWWUysqjNWWv9bFM) | 3:06 |
-| 48 | [Sandcastles](https://open.spotify.com/track/3MA57OW9he0nct4IEFZmNT) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Aisle 5 / Sandcastles](https://open.spotify.com/album/5bDKvcGb6660veclIzG3aO) | 3:21 |
-| 49 | [Chelsea Boots](https://open.spotify.com/track/07knU7vfi676BflQegJShP) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Christin Nichols](https://open.spotify.com/album/07QmIL5D54fsjdN6KZ7tk7) | 4:19 |
+| 48 | [Chelsea Boots](https://open.spotify.com/track/07knU7vfi676BflQegJShP) | [Christin Nichols](https://open.spotify.com/artist/3vQtRdN3v7tuRnKaOjNzU0) | [Christin Nichols](https://open.spotify.com/album/07QmIL5D54fsjdN6KZ7tk7) | 4:19 |
+| 49 | [Sandcastles](https://open.spotify.com/track/3MA57OW9he0nct4IEFZmNT) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Aisle 5 / Sandcastles](https://open.spotify.com/album/5bDKvcGb6660veclIzG3aO) | 3:21 |
 | 50 | [Süchtig](https://open.spotify.com/track/4BNv3RHDUOfs5fBcou1EmE) | [LIYO](https://open.spotify.com/artist/4jBNboxETqKU5YBdRBfeQk) | [Süchtig](https://open.spotify.com/album/1ZvlRBzJr4RFqNTuEaqhUJ) | 2:34 |
 
 Snapshot ID: `AAAAALgnPE1SUmmkdTD2vHR3MWzpmokr`

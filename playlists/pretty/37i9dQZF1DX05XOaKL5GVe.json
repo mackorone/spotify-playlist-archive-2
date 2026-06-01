@@ -1,6 +1,6 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 984643,
+  "num_followers": 984777,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Amarte Es Un Placer",
-        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 196333,
-      "name": "O Tu O Ninguna",
-      "url": "https://open.spotify.com/track/7u5wdRqlAC4qeRp47e7hce"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 195506,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Amarte Es Un Placer",
+        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "O Tu O Ninguna",
+      "url": "https://open.spotify.com/track/7u5wdRqlAC4qeRp47e7hce"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -799,22 +799,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Antolog\u00eda...Los Baby's",
-        "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
-      },
-      "artists": [
-        {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
-        }
-      ],
-      "duration_ms": 178680,
-      "name": "Como sufro",
-      "url": "https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Coleccion Original",
         "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 152093,
       "name": "Gema",
       "url": "https://open.spotify.com/track/6CtFzFcak77qpA0ll1guMN"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Antolog\u00eda...Los Baby's",
+        "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        }
+      ],
+      "duration_ms": 178680,
+      "name": "Como sufro",
+      "url": "https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -957,22 +957,6 @@
       "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
     },
     {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Selecao De Ouro Vol.2",
-        "url": "https://open.spotify.com/album/7flgfjMt0hJLUjSm3ipdIX"
-      },
-      "artists": [
-        {
-          "name": "Nelson Ned",
-          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Quien Eres Tu?",
-      "url": "https://open.spotify.com/track/1g8LiofugZTeOSitfw8KLU"
-    },
-    {
       "added_at": "2023-01-04 00:38:43",
       "album": {
         "name": "Siempre",
@@ -991,6 +975,22 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "Selecao De Ouro Vol.2",
+        "url": "https://open.spotify.com/album/7flgfjMt0hJLUjSm3ipdIX"
+      },
+      "artists": [
+        {
+          "name": "Nelson Ned",
+          "url": "https://open.spotify.com/artist/1qBGWp46vgiATN7mfKJd3s"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Quien Eres Tu?",
+      "url": "https://open.spotify.com/track/1g8LiofugZTeOSitfw8KLU"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Bienvenido al Club",
         "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 241733,
       "name": "Por volverte a ver",
       "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
-    },
-    {
-      "added_at": "2024-09-26 19:28:08",
-      "album": {
-        "name": "Ya No Pienso en Ti (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 187350,
-      "name": "Ya No Pienso en Ti - Spotify Singles",
-      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1035,6 +1019,22 @@
       "duration_ms": 219826,
       "name": "Con Olor a Hierba",
       "url": "https://open.spotify.com/track/30PNkwSPcer18CoQ8uyUct"
+    },
+    {
+      "added_at": "2024-09-26 19:28:08",
+      "album": {
+        "name": "Ya No Pienso en Ti (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1Hi1oyOSYXYCmNDtoW6SzA"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 187350,
+      "name": "Ya No Pienso en Ti - Spotify Singles",
+      "url": "https://open.spotify.com/track/0MlstFQR7Ak6k60xelYcz8"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "Disco De Oro: Baladas, Vol. 1",
+        "url": "https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Lisa Lopez",
+          "url": "https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts"
+        }
+      ],
+      "duration_ms": 222476,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/1CGZr3OWD5QG1KCW7LMC1D"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Serenata con Los Tecolines",
         "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
       },
@@ -1243,26 +1263,6 @@
       "duration_ms": 162040,
       "name": "Digan lo que digan",
       "url": "https://open.spotify.com/track/3JclUL96MU6SWZCPb1wzih"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Disco De Oro: Baladas, Vol. 1",
-        "url": "https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Lisa Lopez",
-          "url": "https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts"
-        }
-      ],
-      "duration_ms": 222476,
-      "name": "Rumores",
-      "url": "https://open.spotify.com/track/1CGZr3OWD5QG1KCW7LMC1D"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4JUkSVuOwbbMwCXETe6qa0"
+        "name": "Lo Mejor de Massiel",
+        "url": "https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF"
       },
       "artists": [
         {
-          "name": "Victor Yturbe \"El Piruli\"",
-          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+          "name": "Massiel",
+          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
         }
       ],
-      "duration_ms": 190533,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/75B5ZKWxccZztF9x76RKXt"
+      "duration_ms": 227640,
+      "name": "Rosas en el Mar",
+      "url": "https://open.spotify.com/track/1CzxmV2RMlY7RoYN6Jd85S"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Lo Mejor de Massiel",
-        "url": "https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF"
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4JUkSVuOwbbMwCXETe6qa0"
       },
       "artists": [
         {
-          "name": "Massiel",
-          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
         }
       ],
-      "duration_ms": 227640,
-      "name": "Rosas en el Mar",
-      "url": "https://open.spotify.com/track/1CzxmV2RMlY7RoYN6Jd85S"
+      "duration_ms": 190533,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/75B5ZKWxccZztF9x76RKXt"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Serie 32",
-        "url": "https://open.spotify.com/album/2PLljs7FAccVYVySNb0tRo"
+        "name": "Enamorada",
+        "url": "https://open.spotify.com/album/53a626hUxhtVTAyaVSX2Qc"
       },
       "artists": [
         {
-          "name": "Victor Yturbe \"El Piruli\"",
-          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Ver\u00f3nica",
-      "url": "https://open.spotify.com/track/0TwbY0aX7jIgJLFXZCUcti"
+      "duration_ms": 164826,
+      "name": "Mi Amor, Amor",
+      "url": "https://open.spotify.com/track/52MtS8GblLs1yBVLjecSk1"
     }
   ],
   "unique_name": "Viejitas pero Bonitas",

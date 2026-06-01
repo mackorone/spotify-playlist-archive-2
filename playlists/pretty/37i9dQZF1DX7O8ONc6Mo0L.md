@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,140 likes - 80 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,176 likes - 80 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 7 | [Algo Novo \- Acústico](https://open.spotify.com/track/7xIoYG2DgfZ92SkIzHZzXm) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Algo Novo \(Acústico\)](https://open.spotify.com/album/5mT4Ohgb4ZJe2AN22B62mG) | 3:37 |
 | 8 | [De Dentro Pra Fora \- Acústico](https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [De Dentro Pra Fora \(Acústico\)](https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70) | 4:17 |
 | 9 | [Algo Novo](https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta](https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm) | 5:16 |
-| 10 | [Troco](https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Troco](https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA) | 4:00 |
+| 10 | [Oração De Gratidão](https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Oração De Gratidão](https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5) | 3:56 |
 | 11 | [Pra Sempre \- Acústico](https://open.spotify.com/track/3uLESUUCo5sq0c03Q0WxFr) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Paula Santos](https://open.spotify.com/artist/35DMyN0d5YWOdfJLyLZcSi) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 5:31 |
 | 12 | [Não Mais Escravos \- Acústico](https://open.spotify.com/track/0NW8ucEVIPzLRp4zBhJyv4) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Não Mais Escravos \(Acústico\)](https://open.spotify.com/album/1LC96GSyEYHJaKg6314wB3) | 4:06 |
-| 13 | [Oração De Gratidão](https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Oração De Gratidão](https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5) | 3:56 |
+| 13 | [Troco](https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Troco](https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA) | 4:00 |
 | 14 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/23nF36eHv3EECAS1m86RLY) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Uma Voz, Uma Lembrança e Uma Canção](https://open.spotify.com/artist/0ySwpAxnbxGkqSVKp81Nqo) | [Uma Voz, Uma Lembrança e Uma Canção \(Acústico\)](https://open.spotify.com/album/53o1n8DWCO158z2PIJZvNr) | 4:37 |
 | 15 | [Recomeçar](https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Recomeçar](https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv) | 3:50 |
 | 16 | [Faz Chover \- Acústica](https://open.spotify.com/track/5FPjAIOZoxboGvYkr7eawZ) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Série Acústica Com Fernandinho, Vol\. 3 \(Acústico\)](https://open.spotify.com/album/461uxJ7Fk4jjJ1q8gYo16L) | 3:54 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Mad Clip",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Anastasia",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -730,7 +730,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 160000,
       "name": "ALCANTARA",
       "url": "https://open.spotify.com/track/7utCywQkIX7CztLdSbShJp"
@@ -1252,6 +1252,28 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
+        "name": "ARAGORN",
+        "url": "https://open.spotify.com/album/26R30prhxm1bgA3fHuzqKz"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Misk",
+          "url": "https://open.spotify.com/artist/4JMMgnz7NNpnj5okuoV7Xx"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265263,
+      "name": "ARAGORN",
+      "url": "https://open.spotify.com/track/1EplyD8aYp2lujM3Vjs3Mz"
     },
     {
       "album": {
@@ -3175,6 +3197,32 @@
     },
     {
       "album": {
+        "name": "EGW",
+        "url": "https://open.spotify.com/album/2HUTGa6crjBp3EiSdJl2qj"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122880,
+      "name": "EGW",
+      "url": "https://open.spotify.com/track/0ZbE3pJyd4bpZYo5kqVAqf"
+    },
+    {
+      "album": {
         "name": "Eipes",
         "url": "https://open.spotify.com/album/1H3ahuX2TFGViiP3fon6kh"
       },
@@ -3978,7 +4026,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 135000,
       "name": "FIRMINO",
       "url": "https://open.spotify.com/track/4QzDOpaEg5dY6dQY4hP1wI"
@@ -4654,7 +4702,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 177230,
       "name": "GOOD LUCK",
       "url": "https://open.spotify.com/track/3Zg7YKBnryTuQn8BeOO4rZ"
@@ -4881,6 +4929,24 @@
     },
     {
       "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "album": {
         "name": "HAYABUSA",
         "url": "https://open.spotify.com/album/6HwurAZCw1kbg2C1ihbP8M"
       },
@@ -5000,7 +5066,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 165282,
       "name": "Hey Shawty",
       "url": "https://open.spotify.com/track/2wqdEi1mkHWBgkkFWcZuFe"
@@ -5224,7 +5290,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 184598,
       "name": "Isos Isoun Kiria",
       "url": "https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4"
@@ -5699,6 +5765,28 @@
     },
     {
       "album": {
+        "name": "CASUS BELLI",
+        "url": "https://open.spotify.com/album/1aQnXfjBDbLVjdYf1kkAbe"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "Michalis Hatzigiannis",
+          "url": "https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146707,
+      "name": "KENO",
+      "url": "https://open.spotify.com/track/0gHJaxTC8LopPDr6fuLAUI"
+    },
+    {
+      "album": {
         "name": "Keno",
         "url": "https://open.spotify.com/album/7FrdB9jKNXI7DbhPHN9sl0"
       },
@@ -5714,7 +5802,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 231130,
       "name": "Keno",
       "url": "https://open.spotify.com/track/5bIY2tipWqaLOBanuPL4sF"
@@ -5766,6 +5854,36 @@
       "duration_ms": 164257,
       "name": "KENZO",
       "url": "https://open.spotify.com/track/72RVUaUXgSjqtWse5mQmDm"
+    },
+    {
+      "album": {
+        "name": "ALO PRONTO",
+        "url": "https://open.spotify.com/album/5VAoxCvaROxgO1tXt5fULq"
+      },
+      "artists": [
+        {
+          "name": "Marzi",
+          "url": "https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "GMBeaTz",
+          "url": "https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz"
+        },
+        {
+          "name": "ASOK",
+          "url": "https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134571,
+      "name": "KETOPA",
+      "url": "https://open.spotify.com/track/07edNBcIKzkA9wHMLcFcYj"
     },
     {
       "album": {
@@ -6475,6 +6593,32 @@
     },
     {
       "album": {
+        "name": "Low Rider",
+        "url": "https://open.spotify.com/album/5dnvmbm94kxwQVg95di2R6"
+      },
+      "artists": [
+        {
+          "name": "Silly Slime",
+          "url": "https://open.spotify.com/artist/36UIThsG09bsbei5r8Lspl"
+        },
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "4k Studio",
+          "url": "https://open.spotify.com/artist/1Z2k7DBKGZQGuvuB4RtnOo"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "Low Rider",
+      "url": "https://open.spotify.com/track/05FslWja07nCxznWhER5Yp"
+    },
+    {
+      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/2SnPLsrghVBQhdxYjcSMcX"
       },
@@ -6747,6 +6891,28 @@
     },
     {
       "album": {
+        "name": "MATIA",
+        "url": "https://open.spotify.com/album/4Sq2Y2BuOdQPDgQEdytaB0"
+      },
+      "artists": [
+        {
+          "name": "SARIGIAN",
+          "url": "https://open.spotify.com/artist/71Fi48sWYjiSsjvLGRZzCB"
+        },
+        {
+          "name": "GLS",
+          "url": "https://open.spotify.com/artist/25om2GMeTAyCA6qyw40ncG"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174314,
+      "name": "MATIA",
+      "url": "https://open.spotify.com/track/6VpyXpen3OkhaNPjkMQhg3"
+    },
+    {
+      "album": {
         "name": "MATRIX",
         "url": "https://open.spotify.com/album/6DXj8zcaB9ls3dECyOh0EU"
       },
@@ -6912,7 +7078,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 179573,
       "name": "Me Xodepses",
       "url": "https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ"
@@ -6956,7 +7122,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 151034,
       "name": "MESSI",
       "url": "https://open.spotify.com/track/5llZA8BwgV9fKr7cuRoiQH"
@@ -9443,6 +9609,24 @@
     },
     {
       "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/3HpW5sydy4XsJACERKphUg"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194658,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/2BH6JRPce640O4m9CcIS3f"
+    },
+    {
+      "album": {
         "name": "SALVATORE",
         "url": "https://open.spotify.com/album/2OInngvIJpJ8AYujWexpuL"
       },
@@ -10000,7 +10184,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 231073,
       "name": "Sousouro",
       "url": "https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4"
@@ -10044,6 +10228,24 @@
       "duration_ms": 240930,
       "name": "Spasmeni Fleva",
       "url": "https://open.spotify.com/track/5OBGB0w41ecJacqcdSop5B"
+    },
+    {
+      "album": {
+        "name": "Spaste Ta",
+        "url": "https://open.spotify.com/album/3jfetX93UbxUrzpaEd1dRq"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188316,
+      "name": "Spaste Ta",
+      "url": "https://open.spotify.com/track/1VeNPOEHBUrFvygQScloJI"
     },
     {
       "album": {

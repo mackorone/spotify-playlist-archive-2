@@ -4,7 +4,7 @@
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: BewhY\)
 
-1,902 songs - 4 day 5 hr 41 min
+1,903 songs - 4 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -958,6 +958,7 @@
 | [LIT \(Prod\. Czaer\)](https://open.spotify.com/track/5qaOtskRtNxLiewYb6QM7A) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm), [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Street Man Fighter Original Vol.4 \(Crew Songs\)](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) | 3:15 | 2022-09-20 | 2023-01-03 |
 | [LIVE LOVE & FLOW \(Feat\. BILL STAX\)](https://open.spotify.com/track/1h0zVOTJEUkXvnmqj5nWgU) | [Wuuslime](https://open.spotify.com/artist/2HW5pB8BOn42simtS907Sm), [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD) | [WUUSLIME](https://open.spotify.com/album/5F5uZoZ8wKFBiKFcWepkNd) | 2:37 | 2025-05-12 | 2025-08-21 |
 | [Livin Life \(Feat\. Roh Yun Ha\)](https://open.spotify.com/track/7wcRthiqZm2d9J1y3uBpFV) | [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [Livin Life](https://open.spotify.com/album/0hOBPoHA4ONtUQPR8vd82S) | 3:12 | 2025-08-20 | 2025-12-09 |
+| [LLLM \(feat\. Gaeko, ZICO\) \[prod\. Tray B\] \[Instrumental\]](https://open.spotify.com/track/6oGgsodkuei2zO2H0BliRY) | [Tray B](https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [LLLM](https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm) | 3:45 | 2026-05-31 |  |
 | [Loadin' \(Feat\. Lil Cherry\)](https://open.spotify.com/track/0BEfAunifK0mhU5K6EBWDd) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4) | [AnotherVerse](https://open.spotify.com/album/66dDxL1UwfekjIrwhdRMd8) | 2:20 | 2024-12-17 | 2025-04-25 |
 | [Lonely Stoner \(Feat\. 염따, Rakon\)](https://open.spotify.com/track/2230xmkulvU8U7yWaVsFcU) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [Rakon](https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk) | [DETOX](https://open.spotify.com/album/7d2sa6rToC6MkSTxAkkrWk) | 3:54 | 2024-04-05 | 2024-04-12 |
 | [Look \(Feat\. Blase\)](https://open.spotify.com/track/7HvjsQzCtP8lEBfZ8NIxOk) | [Honey J](https://open.spotify.com/artist/7GLNucMzWyvNW8FAabALKi), [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Honey Drop](https://open.spotify.com/album/5kdXxKUQ3VaGOPEU8C3Hb5) | 2:22 | 2022-08-30 | 2022-12-10 |

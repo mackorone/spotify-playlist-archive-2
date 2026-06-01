@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,044 likes - 215 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,045 likes - 216 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,22 +206,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 196 | [Right Where You Left It](https://open.spotify.com/track/1wboStbCbokseuqzBfjVzz) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [The Famine and the Feast](https://open.spotify.com/album/5lDe9pedBMqihBPmrupQtr) | 3:06 |
 | 197 | [Scared Enough](https://open.spotify.com/track/4oIFK69GlRvGCGp0WTaKQo) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [Steamroller](https://open.spotify.com/album/3O46e6Sla5IcijreLnwBb5) | 3:05 |
 | 198 | [Recover](https://open.spotify.com/track/1XjO88kNY45fMdCae2Ksv5) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [61\-615](https://open.spotify.com/album/4lddSI9ZMF3jGgZwDkoJgJ) | 4:45 |
-| 199 | [I'm Making Mine](https://open.spotify.com/track/176fqPqcS5peZMArZEt0kR) | [Erica Nicole](https://open.spotify.com/artist/2SyJvmOHYwZBWwPWsR2KZd) | [I'm Making Mine](https://open.spotify.com/album/0E7xnu9aDS7CK41jaaijWD) | 3:52 |
-| 200 | [Stone](https://open.spotify.com/track/0pIkc8xhWVuKYTI4DvUGO8) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [This Is Me](https://open.spotify.com/album/7J1fvceJAIHUYSQY976uBJ) | 3:29 |
-| 201 | [Fireproof](https://open.spotify.com/track/0zFR0wSejjWfqWvcnVDUse) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [Steamroller](https://open.spotify.com/album/3O46e6Sla5IcijreLnwBb5) | 2:45 |
-| 202 | [Fight This Feeling](https://open.spotify.com/track/5OeQCFlmPPimuUYTWq6hF5) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [This Is Me](https://open.spotify.com/album/7J1fvceJAIHUYSQY976uBJ) | 3:26 |
-| 203 | [Love Letter](https://open.spotify.com/track/1kTEvkTBl7urxt9vCAewBi) | [Jordyn Pollard](https://open.spotify.com/artist/5erlKemcX5wMgwsmEIWfH9) | [Upside of Being Down](https://open.spotify.com/album/41VQjd12AQYVoZylCcJkjH) | 2:53 |
-| 204 | [Other People](https://open.spotify.com/track/3ZB4OCLh0jpCAh7QPAL7Mg) | [Boxcutter](https://open.spotify.com/artist/6enSWV1VuiPGbdCuS6GVfS) | [Allele](https://open.spotify.com/album/3pLMl0fe5MilNRofg7UfIC) | 4:05 |
-| 205 | [Ain't Dead Yet](https://open.spotify.com/track/523r9RA3BnBmy6EKnF7B7I) | [Portia Clark](https://open.spotify.com/artist/6r9fQWOOYgHvlgbcUFrCwU) | [Ain't Dead Yet](https://open.spotify.com/album/4etFHxxdXFe3paQElevDRm) | 3:03 |
-| 206 | [Criminal](https://open.spotify.com/track/1E7DCfac2ez9Lr9vwzFmH0) | [Dales](https://open.spotify.com/artist/102trktxAbjTJFnGszYTpU) | [Lovember](https://open.spotify.com/album/0AwjoK6YsCLevNRGxWAdAk) | 3:28 |
-| 207 | [Heartbreak Hall of Fame](https://open.spotify.com/track/5qqSc01RfWs7c24HcK1p8k) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [Steamroller](https://open.spotify.com/album/3O46e6Sla5IcijreLnwBb5) | 2:54 |
-| 208 | [Petty](https://open.spotify.com/track/0VUDQ0BEIhvSiYllWCsTaO) | [Taylor J](https://open.spotify.com/artist/3ZFQEgIoDzalXmEsl9LIPE) | [Petty](https://open.spotify.com/album/39rAhUM6mHM6uKSQ7wpfZH) | 2:21 |
-| 209 | [Politician](https://open.spotify.com/track/2Lv3DczkCXP4EEa73VVXmb) | [Riah](https://open.spotify.com/artist/5fgdvwrS2h0wRV0VZ3RWOa) | [On Sundays \- EP](https://open.spotify.com/album/4hUtNkyp1vfnye4dj7erTA) | 3:14 |
-| 210 | [I've Got You](https://open.spotify.com/track/1fCZlXzwRBQ7slzj3PCTsi) | [Sheridan](https://open.spotify.com/artist/1M1VQcOFJjfzyqmb9Krdi6) | [Gettin' Back Up](https://open.spotify.com/album/0OEZOtmG9gMlvIRgVk6VrQ) | 3:22 |
-| 211 | [Be Mine](https://open.spotify.com/track/24lqukpF5r54WOz49OHm00) | [The Veltz Family](https://open.spotify.com/artist/6EoqHhFmQQsEnqlIlEhYlN) | [This](https://open.spotify.com/album/5w5PjDlUKkouS03Eso1lHd) | 2:39 |
-| 212 | [God's Not Done](https://open.spotify.com/track/2H2nV5UVlVGJV7GR0SpRsq) | [Kris Nicole](https://open.spotify.com/artist/0v0bzqf7pxvfdbVi5TGmiG) | [God's Not Done](https://open.spotify.com/album/6xr3bDg9Q3sHdV7El7EQAq) | 3:24 |
-| 213 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
-| 214 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
-| 215 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
+| 199 | [how to swim](https://open.spotify.com/track/5eytO8ZEN26UjAp5QSkciP) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:45 |
+| 200 | [I'm Making Mine](https://open.spotify.com/track/176fqPqcS5peZMArZEt0kR) | [Erica Nicole](https://open.spotify.com/artist/2SyJvmOHYwZBWwPWsR2KZd) | [I'm Making Mine](https://open.spotify.com/album/0E7xnu9aDS7CK41jaaijWD) | 3:52 |
+| 201 | [Stone](https://open.spotify.com/track/0pIkc8xhWVuKYTI4DvUGO8) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [This Is Me](https://open.spotify.com/album/7J1fvceJAIHUYSQY976uBJ) | 3:29 |
+| 202 | [Fireproof](https://open.spotify.com/track/0zFR0wSejjWfqWvcnVDUse) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [Steamroller](https://open.spotify.com/album/3O46e6Sla5IcijreLnwBb5) | 2:45 |
+| 203 | [Fight This Feeling](https://open.spotify.com/track/5OeQCFlmPPimuUYTWq6hF5) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [This Is Me](https://open.spotify.com/album/7J1fvceJAIHUYSQY976uBJ) | 3:26 |
+| 204 | [Love Letter](https://open.spotify.com/track/1kTEvkTBl7urxt9vCAewBi) | [Jordyn Pollard](https://open.spotify.com/artist/5erlKemcX5wMgwsmEIWfH9) | [Upside of Being Down](https://open.spotify.com/album/41VQjd12AQYVoZylCcJkjH) | 2:53 |
+| 205 | [Other People](https://open.spotify.com/track/3ZB4OCLh0jpCAh7QPAL7Mg) | [Boxcutter](https://open.spotify.com/artist/6enSWV1VuiPGbdCuS6GVfS) | [Allele](https://open.spotify.com/album/3pLMl0fe5MilNRofg7UfIC) | 4:05 |
+| 206 | [Ain't Dead Yet](https://open.spotify.com/track/523r9RA3BnBmy6EKnF7B7I) | [Portia Clark](https://open.spotify.com/artist/6r9fQWOOYgHvlgbcUFrCwU) | [Ain't Dead Yet](https://open.spotify.com/album/4etFHxxdXFe3paQElevDRm) | 3:03 |
+| 207 | [Criminal](https://open.spotify.com/track/1E7DCfac2ez9Lr9vwzFmH0) | [Dales](https://open.spotify.com/artist/102trktxAbjTJFnGszYTpU) | [Lovember](https://open.spotify.com/album/0AwjoK6YsCLevNRGxWAdAk) | 3:28 |
+| 208 | [Heartbreak Hall of Fame](https://open.spotify.com/track/5qqSc01RfWs7c24HcK1p8k) | [Samara Yung](https://open.spotify.com/artist/5a1VJWkjoVKIeG8MP74WDs) | [Steamroller](https://open.spotify.com/album/3O46e6Sla5IcijreLnwBb5) | 2:54 |
+| 209 | [Petty](https://open.spotify.com/track/0VUDQ0BEIhvSiYllWCsTaO) | [Taylor J](https://open.spotify.com/artist/3ZFQEgIoDzalXmEsl9LIPE) | [Petty](https://open.spotify.com/album/39rAhUM6mHM6uKSQ7wpfZH) | 2:21 |
+| 210 | [Politician](https://open.spotify.com/track/2Lv3DczkCXP4EEa73VVXmb) | [Riah](https://open.spotify.com/artist/5fgdvwrS2h0wRV0VZ3RWOa) | [On Sundays \- EP](https://open.spotify.com/album/4hUtNkyp1vfnye4dj7erTA) | 3:14 |
+| 211 | [I've Got You](https://open.spotify.com/track/1fCZlXzwRBQ7slzj3PCTsi) | [Sheridan](https://open.spotify.com/artist/1M1VQcOFJjfzyqmb9Krdi6) | [Gettin' Back Up](https://open.spotify.com/album/0OEZOtmG9gMlvIRgVk6VrQ) | 3:22 |
+| 212 | [Be Mine](https://open.spotify.com/track/24lqukpF5r54WOz49OHm00) | [The Veltz Family](https://open.spotify.com/artist/6EoqHhFmQQsEnqlIlEhYlN) | [This](https://open.spotify.com/album/5w5PjDlUKkouS03Eso1lHd) | 2:39 |
+| 213 | [God's Not Done](https://open.spotify.com/track/2H2nV5UVlVGJV7GR0SpRsq) | [Kris Nicole](https://open.spotify.com/artist/0v0bzqf7pxvfdbVi5TGmiG) | [God's Not Done](https://open.spotify.com/album/6xr3bDg9Q3sHdV7El7EQAq) | 3:24 |
+| 214 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
+| 215 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
+| 216 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcS6egAAAABN3puTDGc69zkDJGH39tkR`
+Snapshot ID: `AcTAGgAAAAAKNUvo2Hz0GDRJXFLRtu2n`

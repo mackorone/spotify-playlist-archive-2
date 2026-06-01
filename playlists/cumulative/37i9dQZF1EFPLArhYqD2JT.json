@@ -6026,6 +6026,44 @@
     {
       "album": {
         "name": "Red Nichols : Original 1929 Recordings",
+        "url": "https://open.spotify.com/album/0QDZ4VaUslFCrLB2Iv8I9X"
+      },
+      "artists": [
+        {
+          "name": "Red Nichols",
+          "url": "https://open.spotify.com/artist/0lKHVrznMIh4noTdNQJ1qw"
+        },
+        {
+          "name": "Scrappy Lambert",
+          "url": "https://open.spotify.com/artist/6Oy6CBBmRmWqBKSXKsjcNX"
+        },
+        {
+          "name": "Jack Teagarden",
+          "url": "https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf"
+        },
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        },
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        },
+        {
+          "name": "Jimmy Dorsey",
+          "url": "https://open.spotify.com/artist/3xPpQCRiTBxgmL4PD8J5ek"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160293,
+      "name": "Nobody Knows (and Nobody Seems to Care)",
+      "url": "https://open.spotify.com/track/4iXEIHNz7tWE2FUs1PHTSu"
+    },
+    {
+      "album": {
+        "name": "Red Nichols : Original 1929 Recordings",
         "url": "https://open.spotify.com/album/1FUmH2ErUQwWgi2yfOWtj6"
       },
       "artists": [
@@ -6056,7 +6094,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 160293,
       "name": "Nobody Knows (and Nobody Seems to Care)",
       "url": "https://open.spotify.com/track/6g6lMnQDLTlv0tsbqAa6gE"
@@ -7862,7 +7900,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 132573,
       "name": "The Harry Lime Theme (The Third Man)",
       "url": "https://open.spotify.com/track/3jkApQvikb2XC6s84ZjNcn"
@@ -8209,6 +8247,24 @@
     },
     {
       "album": {
+        "name": "Hits Of The 1950S, Vol. 1 (1950): Music! Music! Music!",
+        "url": "https://open.spotify.com/album/5KfMfLPwNxHdrvgXwuhmqS"
+      },
+      "artists": [
+        {
+          "name": "Anton Karas",
+          "url": "https://open.spotify.com/artist/1N6hAy84Nd6KdUhr4BjXWS"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "The Third Man Theme",
+      "url": "https://open.spotify.com/track/5iA2A3j0DJuIwv4srlCCVf"
+    },
+    {
+      "album": {
         "name": "Chip Deffaa's Rare and Unrecorded Irving Berlin Songs",
         "url": "https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex"
       },
@@ -8286,6 +8342,32 @@
     {
       "album": {
         "name": "Entertaining the Boys... With Crooning Tunes: The V-Discs of the American Forces, Vol. 3 (Remastered 2016)",
+        "url": "https://open.spotify.com/album/7eQdMXqGgycdb15JsxLnAj"
+      },
+      "artists": [
+        {
+          "name": "Irving Berlin",
+          "url": "https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii"
+        },
+        {
+          "name": "Woody Herman",
+          "url": "https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P"
+        },
+        {
+          "name": "Woody Herman & His Orchestra",
+          "url": "https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162731,
+      "name": "There Are No Wings on a Fox-Hole",
+      "url": "https://open.spotify.com/track/55jJVQVWhuT9heuDNr5MiI"
+    },
+    {
+      "album": {
+        "name": "Entertaining the Boys... With Crooning Tunes: The V-Discs of the American Forces, Vol. 3 (Remastered 2016)",
         "url": "https://open.spotify.com/album/0Zd4zCwPzXDsegdCaVromi"
       },
       "artists": [
@@ -8300,7 +8382,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 162731,
       "name": "There Are No Wings on a Fox-Hole",
       "url": "https://open.spotify.com/track/734hK63VM47Etsa7qw6xMX"
@@ -9304,7 +9386,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 211986,
       "name": "When the Curtain Falls",
       "url": "https://open.spotify.com/track/2zZxHwRpssaZ1tzlPFgamT"

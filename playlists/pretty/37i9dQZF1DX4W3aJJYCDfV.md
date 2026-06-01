@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ariana Grande, Skye Newman, Ezra Collective, Jungle and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,335 likes - 101 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,318 likes - 101 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

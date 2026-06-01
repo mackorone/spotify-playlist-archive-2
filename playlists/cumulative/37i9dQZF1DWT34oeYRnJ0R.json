@@ -4421,6 +4421,24 @@
     },
     {
       "album": {
+        "name": "El Virus",
+        "url": "https://open.spotify.com/album/4EicaSGbg2BLwp2fYEg48q"
+      },
+      "artists": [
+        {
+          "name": "Moris",
+          "url": "https://open.spotify.com/artist/0FOLAubOdWPFIBTEUJsAYY"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115312,
+      "name": "El Virus",
+      "url": "https://open.spotify.com/track/3wXYQ4zXLdEwSTyLBle4li"
+    },
+    {
+      "album": {
         "name": "el vuelo",
         "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
       },

@@ -4,7 +4,7 @@
 
 > a strictly smooth mood...cover: Tems
 
-293 songs - 15 hr 29 min
+294 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Cascades \- Remix](https://open.spotify.com/track/4MQRD5jQuVYa5xhNifyut6) | [Grievous Bodily Calm](https://open.spotify.com/artist/58OKZUurPOXnGlGNRvoNwL), [Kuzich](https://open.spotify.com/artist/2UZBhRAr5PcZ0qRA5mEvwU), [MALI JO$E](https://open.spotify.com/artist/2dW8glpVWvAL8tODw7sxy4) | [Cascades \(Remix\)](https://open.spotify.com/album/5E09lTjiDzd9lXU7fzDztD) | 3:50 | 2024-03-14 | 2024-10-05 |
 | [Chameleon](https://open.spotify.com/track/5MJuuUnNuOv3O1fJrLaEYk) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Change & Remain](https://open.spotify.com/album/54cLUzUwEVwArcZzFmxqln) | 2:55 | 2024-10-04 |  |
 | [Chase Your Tail](https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Chase Your Tail](https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby) | 3:13 | 2026-04-23 |  |
+| [Cherry Pie](https://open.spotify.com/track/3b0rbuHtD50p1gmfYeKCom) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 6:18 | 2026-03-06 |  |
 | [Chill Baby](https://open.spotify.com/track/0qpdzfTxAkOREtvvGO5oew) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:20 | 2024-12-20 |  |
 | [City Lights](https://open.spotify.com/track/53RtHfvyr0f6yj1uLy5bxY) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [City Lights](https://open.spotify.com/album/1lfQlXzzgUbMBNQmyrDBhp) | 3:56 | 2024-03-14 | 2024-10-05 |
 | [CRASH DUMMY MUZIK](https://open.spotify.com/track/3DIgMO31zNSpR2wOZT7JcD) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Roland Jones](https://open.spotify.com/artist/19deba9lIgvZdIThv0kykj) | [CRASH DUMMY MUZIK](https://open.spotify.com/album/4NlIVt9HcukdI7EEzXWkuo) | 3:21 | 2024-10-17 | 2024-11-08 |
@@ -292,7 +293,7 @@
 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 | 2024-10-04 |  |
 | [Without You \(with Skillibeng\)](https://open.spotify.com/track/0ycJKH5LaMsTfFZIDt8rps) | [Cholita](https://open.spotify.com/artist/6v1frZGIbqJEs7UKRFdFbe), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Without You \(with Skillibeng\)](https://open.spotify.com/album/5dqiHFlnv1VHJmFSrAdtgw) | 3:28 | 2025-11-21 | 2026-02-20 |
 | [Witness](https://open.spotify.com/track/3I4Ay3SjBeJvp0JQCEu6mh) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Witness](https://open.spotify.com/album/1QpzXe0shTuT75JgxTasJc) | 3:58 | 2024-10-04 | 2025-05-24 |
-| [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 | 2024-10-04 |  |
+| [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 | 2024-10-04 | 2026-06-01 |
 | [Work Me Out \(with Wizkid\)](https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:42 | 2024-10-04 | 2025-03-20 |
 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-02-13 |  |
 | [Wrong Again](https://open.spotify.com/track/1EkLo6IFUeXk9C0bAlOty3) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl) | [Blue Desert](https://open.spotify.com/album/1H96rR2NE8XkXZw5w9586X) | 3:02 | 2026-03-06 | 2026-03-20 |

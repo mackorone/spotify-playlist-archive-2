@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-224 songs - 12 hr 41 min
+225 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Hell Without the Flames](https://open.spotify.com/track/5M7DXt5D6Z3cZGifDWTRkX) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [As Is](https://open.spotify.com/album/4z9DYoh5j3e6t7SKjFq2xg) | 2:33 | 2026-05-28 |  |
 | [High](https://open.spotify.com/track/7oNh0H3emjOKRpouhUxRdp) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 4:41 | 2024-01-29 |  |
 | [Home](https://open.spotify.com/track/1XsX1UjkAnVKnRFadCYdIF) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/67NWJ3RuWpPohz3zvJmmOb) | 4:36 | 2024-01-29 | 2026-02-16 |
-| [Home](https://open.spotify.com/track/28LN7UaMESB80svwZttTYF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Home](https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN) | 3:11 | 2026-02-15 |  |
+| [Home](https://open.spotify.com/track/11vxl6GuoJixb43JXzYHur) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:11 | 2026-05-31 |  |
+| [Home](https://open.spotify.com/track/28LN7UaMESB80svwZttTYF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Home](https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN) | 3:11 | 2026-02-15 | 2026-06-01 |
 | [I Need This](https://open.spotify.com/track/211EszPlTiEiiHbphXiuEX) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me on Your Side](https://open.spotify.com/album/1t0W3Y70i6983CHeDcjh1l) | 3:33 | 2024-11-11 |  |
 | [I Need This](https://open.spotify.com/track/781JjwabyzLL7R7BItsWBJ) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Keep Me On Your Side](https://open.spotify.com/album/783RRqFHQuacUgztTTfzjz) | 3:33 | 2024-01-29 | 2024-11-12 |
 | [I Would \- Australian Version](https://open.spotify.com/track/3VAlgnWebpkajPC1GVeeYE) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [My Only \(Australian Version\)](https://open.spotify.com/album/0LliQGUNBIbpwsDlGyX5ka) | 3:21 | 2024-01-29 | 2024-11-11 |

@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-425 songs - 1 day 8 hr 48 min
+426 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [home](https://open.spotify.com/track/2FAPPil2Mqow9QFsEEisLo) | [Layanari](https://open.spotify.com/artist/22aDdyTumcQjpxGQ1432p3), [LochHaven](https://open.spotify.com/artist/5u9yfFjiKlQJft9MBAcRcr) | [home](https://open.spotify.com/album/6MCuGk5ATtnclImMuORwfY) | 2:08 | 2026-03-13 | 2026-05-16 |
 | [Honest Labour \(feat\. HforSpirit\)](https://open.spotify.com/track/3reCdVXmx9UVQlLhzqAh8H) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [HforSpirit](https://open.spotify.com/artist/3EFHV7IDQxHCNlFljVrMUu) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 3:51 | 2022-02-04 | 2022-08-18 |
 | [hope](https://open.spotify.com/track/3bynos2wQgXzPI4Sbcdow2) | [hélix](https://open.spotify.com/artist/0ro2QSQn9ViTKd2iuaygHj) | [hope](https://open.spotify.com/album/4bvVIFyU0p2OZzzuAbH3cc) | 1:47 | 2023-01-20 | 2023-10-06 |
-| [Hope and Fate](https://open.spotify.com/track/7lh7iHO2MpF1PPISdhiAS8) | [Sunlight Jr.](https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC), [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP), [Open Palm](https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb) | [Hope and Fate](https://open.spotify.com/album/4ELMGh7AabrbLQLrMsWgOP) | 3:47 | 2023-01-13 |  |
+| [Hope and Fate](https://open.spotify.com/track/7lh7iHO2MpF1PPISdhiAS8) | [Sunlight Jr.](https://open.spotify.com/artist/5yuCMtz7erXhuUeOVIvClC), [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP), [Open Palm](https://open.spotify.com/artist/6c6NiFmjPb8dE7ea34HFdb) | [Hope and Fate](https://open.spotify.com/album/4ELMGh7AabrbLQLrMsWgOP) | 3:47 | 2023-01-13 | 2026-06-01 |
 | [hope, held](https://open.spotify.com/track/10yVevqpF94x3fpkPDtB2W) | [énouement](https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU), [Logic23](https://open.spotify.com/artist/1G4qXAH4sUczCkVwrhXPr1) | [hope, held](https://open.spotify.com/album/6siX6Z19MZzFneLnK6wQHA) | 1:12 | 2026-03-13 |  |
 | [Horn in Deep Night](https://open.spotify.com/track/6rsrcdXlac37j8YozUfHpT) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 5:08 | 2022-01-28 | 2026-03-14 |
 | [Hostages in Love](https://open.spotify.com/track/6SeMU5LqTGTWGVNZbfcyyv) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Crossing the Border](https://open.spotify.com/album/4p1dDiZNp0L8hmBa8PnCb2) | 4:07 | 2023-09-01 | 2026-03-14 |
@@ -422,6 +422,7 @@
 | [Where Lonely Embers Glow](https://open.spotify.com/track/2wnL9GReYcMbMA29ILdhdS) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Memento](https://open.spotify.com/album/1ZbO6GlyoIo9nXdHe7dPZH) | 6:51 | 2022-04-01 |  |
 | [Where Shadows Cross](https://open.spotify.com/track/01PSwIYcSK1go1pMU4WpCK) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d), [Fionnlagh](https://open.spotify.com/artist/5EG6Uwsagvsrl6ukTGuqeh) | [Where Shadows Cross](https://open.spotify.com/album/1dk1O5iKnW1rcNogvKlqOi) | 2:36 | 2023-10-06 |  |
 | [Wilderness](https://open.spotify.com/track/3GPPGnqnwI9aDcT2oyi8Td) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Wilderness](https://open.spotify.com/album/7HktUMt7zeVI1qZLTVnMmp) | 3:07 | 2026-02-27 | 2026-03-14 |
+| [will i see you again?](https://open.spotify.com/track/0nxadEm6pJa9WsyP4Qm3rp) | [SXR3NE](https://open.spotify.com/artist/4eTigo0t50urkV3KdIj3CU) | [will i see you again?](https://open.spotify.com/album/47yQ8LEkEf2RfzDUojBbXU) | 2:25 | 2026-05-15 |  |
 | [Wingbeats Source III: Piano and Wings](https://open.spotify.com/track/1nxNCdh7SLOxFny6EmmzL3) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Wingbeats](https://open.spotify.com/album/1daolYgECDn9hgAKsWuX2n) | 2:36 | 2022-07-22 | 2023-04-29 |
 | [Wingbeats Source III: Piano and Wings](https://open.spotify.com/track/2fIGv43HCZ6tilfVfovu2e) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Wingbeats](https://open.spotify.com/album/2gOZAH0hCwU3Zl8Ohm9YCA) | 2:36 | 2022-02-04 | 2024-10-05 |
 | [Wingbeats Source III: Piano and Wings](https://open.spotify.com/track/6iqq6toY0z6qzTLBSMNOrr) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Wingbeats](https://open.spotify.com/album/3nDGt0nkTrs5ApCxb2FucN) | 2:36 | 2023-04-21 | 2024-04-19 |

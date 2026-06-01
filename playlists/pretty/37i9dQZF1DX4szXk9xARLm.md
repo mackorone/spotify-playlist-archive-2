@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > Your essential Ramadan Series songs! Cover: Ramy Sabry
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,330 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,336 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 13 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 |
 | 14 | [بخاف من مسلسل سيد الناس](https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [بخاف من مسلسل سيد الناس](https://open.spotify.com/album/37Y9kPOLBf9mBHYX60YDVf) | 4:52 |
 | 15 | [ولاد الشمس](https://open.spotify.com/track/6bT6tu7R9BaAZHAHTebbFM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [ولاد الشمس](https://open.spotify.com/album/3c9LqrAjd1JANFnh2C8IzO) | 2:34 |
-| 16 | [عين سحرية](https://open.spotify.com/track/0SuWrDNsHCpu2Nh1Ygoeet) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عين سحرية](https://open.spotify.com/album/2j2GeCSkeSYIr3Rv86e4Km) | 2:21 |
-| 17 | [درويله \- الاغنية الدعائية لمسلسل علي كلاي](https://open.spotify.com/track/6HJVfj3VeFOcAkPNpYx7G7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [درويله \- الاغنية الدعائية لمسلسل علي كلاي](https://open.spotify.com/album/0kWVuEQEr1CJeuiHWzdl15) | 2:42 |
+| 16 | [درويله \- الاغنية الدعائية لمسلسل علي كلاي](https://open.spotify.com/track/6HJVfj3VeFOcAkPNpYx7G7) | [Rahma Mohsen](https://open.spotify.com/artist/6TCllXW2SWfhcUzBOOGTLD) | [درويله \- الاغنية الدعائية لمسلسل علي كلاي](https://open.spotify.com/album/0kWVuEQEr1CJeuiHWzdl15) | 2:42 |
+| 17 | [عين سحرية](https://open.spotify.com/track/0SuWrDNsHCpu2Nh1Ygoeet) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عين سحرية](https://open.spotify.com/album/2j2GeCSkeSYIr3Rv86e4Km) | 2:21 |
 | 18 | [أفوق لكرامتي](https://open.spotify.com/track/4WmLQxbEDu8hhCWsYUAQdg) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [أفوق لكرامتي](https://open.spotify.com/album/27h9OLJPaW6eukA0SuuNel) | 3:46 |
 | 19 | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/track/2aZNUu6LFLD0nsppiw8f0p) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Alf Mara \(Kamel El Adad++ series\)](https://open.spotify.com/album/3nHHSUiPdf5V88OgBsUSXA) | 2:38 |
 | 20 | [انا وانت سوا](https://open.spotify.com/track/1f2hNkDAGoVfjH4wIY7kzJ) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [انا وانت سوا](https://open.spotify.com/album/0l5B4ZOolT5fasPcru5Qc7) | 2:34 |

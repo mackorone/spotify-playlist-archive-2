@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1020565,
+  "num_followers": 1020748,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -167,26 +167,6 @@
     {
       "added_at": "2026-05-29 04:00:46",
       "album": {
-        "name": "No Bad Vibes",
-        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        },
-        {
-          "name": "KILIMANJARO",
-          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
-        }
-      ],
-      "duration_ms": 162100,
-      "name": "No Bad Vibes",
-      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
-    },
-    {
-      "added_at": "2026-05-29 04:00:46",
-      "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
+    },
+    {
+      "added_at": "2026-05-29 04:00:46",
+      "album": {
+        "name": "No Bad Vibes",
+        "url": "https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "duration_ms": 162100,
+      "name": "No Bad Vibes",
+      "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
     },
     {
       "added_at": "2026-05-29 04:00:46",
@@ -479,26 +479,6 @@
     {
       "added_at": "2026-05-29 04:00:46",
       "album": {
-        "name": "Because You Move Me",
-        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 196375,
-      "name": "Because You Move Me",
-      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
-    },
-    {
-      "added_at": "2026-05-29 04:00:46",
-      "album": {
         "name": "Forever (feat. Malou & Yuna)",
         "url": "https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 140500,
       "name": "Forever (feat. Malou & Yuna)",
       "url": "https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S"
+    },
+    {
+      "added_at": "2026-05-29 04:00:46",
+      "album": {
+        "name": "Because You Move Me",
+        "url": "https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 196375,
+      "name": "Because You Move Me",
+      "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
     },
     {
       "added_at": "2026-05-29 04:00:46",
@@ -627,30 +627,6 @@
     {
       "added_at": "2026-05-29 04:00:46",
       "album": {
-        "name": "Your Love (9PM)",
-        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 150052,
-      "name": "Your Love (9PM)",
-      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
-    },
-    {
-      "added_at": "2026-05-29 04:00:46",
-      "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
       },
@@ -671,6 +647,30 @@
       "duration_ms": 148135,
       "name": "Location",
       "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
+    },
+    {
+      "added_at": "2026-05-29 04:00:46",
+      "album": {
+        "name": "Your Love (9PM)",
+        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 150052,
+      "name": "Your Love (9PM)",
+      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
     },
     {
       "added_at": "2026-05-29 04:00:46",
@@ -699,30 +699,6 @@
     {
       "added_at": "2026-05-29 04:00:46",
       "album": {
-        "name": "Promises (with Sam Smith)",
-        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 213309,
-      "name": "Promises (with Sam Smith)",
-      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
-    },
-    {
-      "added_at": "2026-05-29 04:00:46",
-      "album": {
         "name": "My Love (2024)",
         "url": "https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 184949,
       "name": "My Love (2024)",
       "url": "https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk"
+    },
+    {
+      "added_at": "2026-05-29 04:00:46",
+      "album": {
+        "name": "Promises (with Sam Smith)",
+        "url": "https://open.spotify.com/album/2tpWgbBdzjkaJVJzR4T8y1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 213309,
+      "name": "Promises (with Sam Smith)",
+      "url": "https://open.spotify.com/track/5N5k9nd479b1xpDZ4usjrg"
     },
     {
       "added_at": "2026-05-29 04:00:46",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-05-29 04:00:46",
       "album": {
+        "name": "For The Soul",
+        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "For The Soul",
+      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
+    },
+    {
+      "added_at": "2026-05-29 04:00:46",
+      "album": {
         "name": "Tu Coraz\u00f3n (Your Heart)",
         "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 180120,
       "name": "Tu Coraz\u00f3n (Your Heart)",
       "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
-    },
-    {
-      "added_at": "2026-05-29 04:00:46",
-      "album": {
-        "name": "For The Soul",
-        "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
-      },
-      "artists": [
-        {
-          "name": "Tini Gessler",
-          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "For The Soul",
-      "url": "https://open.spotify.com/track/3tvfmoyEtk3kuktDUssJam"
     },
     {
       "added_at": "2026-05-29 04:00:46",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2026-05-29 04:00:46",
       "album": {
+        "name": "No Hesitating",
+        "url": "https://open.spotify.com/album/0rGKGBOA9WXmZ7QbNcRohX"
+      },
+      "artists": [
+        {
+          "name": "Joe Rol\u00e9t",
+          "url": "https://open.spotify.com/artist/3ASuunCWWOrj4XX3ZMeA6o"
+        }
+      ],
+      "duration_ms": 163890,
+      "name": "No Hesitating",
+      "url": "https://open.spotify.com/track/3qJEX3SA7Vtu1fMPNustjI"
+    },
+    {
+      "added_at": "2026-05-29 04:00:46",
+      "album": {
         "name": "Places",
         "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 211278,
       "name": "Places",
       "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
-    },
-    {
-      "added_at": "2026-05-29 04:00:46",
-      "album": {
-        "name": "No Hesitating",
-        "url": "https://open.spotify.com/album/0rGKGBOA9WXmZ7QbNcRohX"
-      },
-      "artists": [
-        {
-          "name": "Joe Rol\u00e9t",
-          "url": "https://open.spotify.com/artist/3ASuunCWWOrj4XX3ZMeA6o"
-        }
-      ],
-      "duration_ms": 163890,
-      "name": "No Hesitating",
-      "url": "https://open.spotify.com/track/3qJEX3SA7Vtu1fMPNustjI"
     },
     {
       "added_at": "2026-05-29 04:00:46",
@@ -2015,18 +2015,18 @@
     {
       "added_at": "2026-05-29 04:00:46",
       "album": {
-        "name": "M\u00e1s Tiempo Vol. 2",
-        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
+        "name": "Spanish Chica",
+        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
       },
       "artists": [
         {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
         }
       ],
-      "duration_ms": 380625,
-      "name": "The Whistle Tune",
-      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
+      "duration_ms": 244918,
+      "name": "Te Doy La Libertad",
+      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
     },
     {
       "added_at": "2026-05-29 04:00:46",
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2026-05-29 04:00:46",
       "album": {
-        "name": "Spanish Chica",
-        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
+        "name": "M\u00e1s Tiempo Vol. 2",
+        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
       },
       "artists": [
         {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
         }
       ],
-      "duration_ms": 244918,
-      "name": "Te Doy La Libertad",
-      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
+      "duration_ms": 380625,
+      "name": "The Whistle Tune",
+      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
     },
     {
       "added_at": "2026-05-29 04:00:46",

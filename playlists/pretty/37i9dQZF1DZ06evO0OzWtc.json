@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2223,
+  "num_followers": 2224,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAADv3G7tPF586fzSoNGjKJE+",
+  "snapshot_id": "ahoogAAAAABECMWXIAZ3eoJL1Lg5PGke",
   "tracks": [
     {
       "added_at": null,
@@ -751,30 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TFS",
-        "url": "https://open.spotify.com/album/3pormZJDUwmFPua4p2Fxqx"
-      },
-      "artists": [
-        {
-          "name": "Dan Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 187297,
-      "name": "Tirando Flow Sesh #9",
-      "url": "https://open.spotify.com/track/3XOfnUKBNSB01mQRiTVspm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pari Pari",
         "url": "https://open.spotify.com/album/13oqvn7XeZixU1JA5RRZxr"
       },
@@ -799,6 +775,30 @@
       "duration_ms": 153984,
       "name": "Pari Pari",
       "url": "https://open.spotify.com/track/39UW1y3kBC6UOvKqc9vw1u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TFS",
+        "url": "https://open.spotify.com/album/3pormZJDUwmFPua4p2Fxqx"
+      },
+      "artists": [
+        {
+          "name": "Dan Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 187297,
+      "name": "Tirando Flow Sesh #9",
+      "url": "https://open.spotify.com/track/3XOfnUKBNSB01mQRiTVspm"
     },
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
+        "url": "https://open.spotify.com/album/71kYjtmfd7gZcTMM73LyPV"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 174704,
+      "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
+      "url": "https://open.spotify.com/track/0hgTaCVMiUVwp4cK4kmkDW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A 150",
         "url": "https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC"
       },
@@ -939,18 +955,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
-        "url": "https://open.spotify.com/album/71kYjtmfd7gZcTMM73LyPV"
+        "name": "Licuado",
+        "url": "https://open.spotify.com/album/08f4lGUZsvC3g5Pkprj0lg"
       },
       "artists": [
         {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
           "name": "Sebastian Esquivel",
           "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
         }
       ],
-      "duration_ms": 174704,
-      "name": "Ni Muy Ni\u00f1o Ni Muy Viejo",
-      "url": "https://open.spotify.com/track/0hgTaCVMiUVwp4cK4kmkDW"
+      "duration_ms": 134583,
+      "name": "Licuado",
+      "url": "https://open.spotify.com/track/7pU2OxHpgRxnrf0ax4TrjT"
     },
     {
       "added_at": null,
@@ -995,38 +1027,6 @@
       "duration_ms": 259333,
       "name": "Modo B\u00e9lico (feat. B.OG, Daizak, Chino El Gorila, Daniel Martinez & Jose Dolche)",
       "url": "https://open.spotify.com/track/5DpXwDeOTcMyGE5GZBW9SG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Licuado",
-        "url": "https://open.spotify.com/album/08f4lGUZsvC3g5Pkprj0lg"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 134583,
-      "name": "Licuado",
-      "url": "https://open.spotify.com/track/7pU2OxHpgRxnrf0ax4TrjT"
     },
     {
       "added_at": null,

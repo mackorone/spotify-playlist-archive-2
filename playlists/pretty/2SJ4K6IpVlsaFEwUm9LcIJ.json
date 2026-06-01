@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2026 (previous playlists archived on my profile)",
-  "num_followers": 24332,
+  "num_followers": 24337,
   "original_name": "life is sweet",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAObXaQopueYWtPdxmVkuS2GxwtiOQi",
+  "snapshot_id": "AAAOcCaU23rE0Wb6srBH6XVxk23hIvAw",
   "tracks": [
     {
       "added_at": "2026-05-06 18:37:50",
@@ -503,6 +503,54 @@
       "duration_ms": 292786,
       "name": "Selene",
       "url": "https://open.spotify.com/track/09RFU0eg1GiM01yv0RqXa4"
+    },
+    {
+      "added_at": "2026-05-31 15:12:21",
+      "album": {
+        "name": "Love Is Overtaking Me (Redux)",
+        "url": "https://open.spotify.com/album/72Hh7NaXG3r7E5sHhAnLCN"
+      },
+      "artists": [
+        {
+          "name": "Arthur Russell",
+          "url": "https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj"
+        }
+      ],
+      "duration_ms": 331130,
+      "name": "Apple to the Orange",
+      "url": "https://open.spotify.com/track/3rX1lDnL0lcdNX3LwRzDfp"
+    },
+    {
+      "added_at": "2026-05-31 17:27:07",
+      "album": {
+        "name": "*FLUTTERS AWAY*",
+        "url": "https://open.spotify.com/album/5grjXewIYwJzeegUrLSsyx"
+      },
+      "artists": [
+        {
+          "name": "Operelly",
+          "url": "https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "Under my bed",
+      "url": "https://open.spotify.com/track/52Sd0lu6TTVMDhwQqjZcD6"
+    },
+    {
+      "added_at": "2026-05-31 17:27:19",
+      "album": {
+        "name": "Birds of Paradise",
+        "url": "https://open.spotify.com/album/7Lib6qYBmpQCGyh1W8L4S3"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dollbaum",
+          "url": "https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ"
+        }
+      ],
+      "duration_ms": 324160,
+      "name": "Dozen Roses",
+      "url": "https://open.spotify.com/track/1QM2VOPPfzGJJJ2Hgqo90m"
     }
   ],
   "unique_name": "life is sweet",

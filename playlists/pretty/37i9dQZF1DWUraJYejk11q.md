@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,435 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,440 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 16 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 |
 | 17 | [Weird Moments](https://open.spotify.com/track/3WFGkSKtU8ahwFluCrUb6n) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [nothing](https://open.spotify.com/album/1hD0obPJIc7yi3RwwREblP) | 3:30 |
 | 18 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
-| 19 | [Even Colder Spring \- Part 2](https://open.spotify.com/track/3QNI9EPsFVtoytcTClGcaQ) | [Cities Aviv](https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX) | [EVEN COLDER SPRING](https://open.spotify.com/album/4zqz0CmtPzxWriY0bTdvxg) | 4:23 |
-| 20 | [Chicken Garaage](https://open.spotify.com/track/4voWFU5XAE1s13LheHhrhJ) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Chicken Garaage](https://open.spotify.com/album/60vxrbii465Dp2fdM3IiAa) | 6:41 |
+| 19 | [Chicken Garaage](https://open.spotify.com/track/4voWFU5XAE1s13LheHhrhJ) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Chicken Garaage](https://open.spotify.com/album/60vxrbii465Dp2fdM3IiAa) | 6:41 |
+| 20 | [Even Colder Spring \- Part 2](https://open.spotify.com/track/3QNI9EPsFVtoytcTClGcaQ) | [Cities Aviv](https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX) | [EVEN COLDER SPRING](https://open.spotify.com/album/4zqz0CmtPzxWriY0bTdvxg) | 4:23 |
 | 21 | [The Visit](https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Alt\-Mobeat](https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI) | 1:41 |
 | 22 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 |
 | 23 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |

@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 93904,
+  "num_followers": 93917,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Martes 13",
+        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 163096,
+      "name": "Guitarra",
+      "url": "https://open.spotify.com/track/3LcPnIFriINZZ0ot0hBncl"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "el gil",
         "url": "https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 272500,
       "name": "el gil",
       "url": "https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
-      },
-      "artists": [
-        {
-          "name": "Yamila Ruiz",
-          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
-        }
-      ],
-      "duration_ms": 193517,
-      "name": "Cursi",
-      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Martes 13",
-        "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Yamila Ruiz",
+          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
         }
       ],
-      "duration_ms": 163096,
-      "name": "Guitarra",
-      "url": "https://open.spotify.com/track/3LcPnIFriINZZ0ot0hBncl"
+      "duration_ms": 193517,
+      "name": "Cursi",
+      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
     },
     {
       "added_at": "2024-09-20 03:00:00",

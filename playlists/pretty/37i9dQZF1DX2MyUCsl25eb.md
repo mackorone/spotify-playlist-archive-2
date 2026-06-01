@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,901 likes - 99 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 942,846 likes - 99 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 98 | [What I Am](https://open.spotify.com/track/7xUqG3PXz7i8soy6tiWG66) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:31 |
 | 99 | [Come Back](https://open.spotify.com/track/5crRQC4x6b5IcAblnbcie2) | [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB), [Delicate Steve](https://open.spotify.com/artist/1bNgeTuV3MlkAq64Ybvcq5) | [Come Back](https://open.spotify.com/album/1EpesBHfk9xdg6XU6LMKQE) | 3:31 |
 
-Snapshot ID: `AAAAAAb9JoBi1mceAPIHMbhhrAW5vPEW`
+Snapshot ID: `AAAAAIvn3k1t4nWbB+ONAGsaI2XVZ7Uo`

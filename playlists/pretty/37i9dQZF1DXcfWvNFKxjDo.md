@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Bebe Rexha, David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,250 likes - 84 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,276 likes - 84 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 83 | [Fior Di Macchia](https://open.spotify.com/track/1HKT7N5bCvuete8irgxbUj) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Fior Di Macchia](https://open.spotify.com/album/0IlVGap9XmNGPJcF5ScpuZ) | 5:18 |
 | 84 | [Unter der Sonne](https://open.spotify.com/track/4qw0mTSSHCtN2iOL6ve0pV) | [Vintash](https://open.spotify.com/artist/7HT6Eq3zMZQhU7as3K8XgT) | [Unter der Sonne](https://open.spotify.com/album/3m3NDZrb7nh7mWvAzkDbji) | 2:24 |
 
-Snapshot ID: `AAAAAILHiqB35/ftaDEQkttGlIv/FKbu`
+Snapshot ID: `AAAAAD8UIpxGhKm3CnjlwXatIXUFbWPF`

@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141240,
+  "num_followers": 141248,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -811,26 +811,6 @@
     {
       "added_at": "2026-05-21 12:28:12",
       "album": {
-        "name": "Samen (Niet Alleen)",
-        "url": "https://open.spotify.com/album/68hXkfVxsDWyBj7DDtz8Vg"
-      },
-      "artists": [
-        {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
-        },
-        {
-          "name": "DJ DYLVN",
-          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
-        }
-      ],
-      "duration_ms": 145296,
-      "name": "Samen (Niet Alleen)",
-      "url": "https://open.spotify.com/track/0lDTAuwGNLvOiavYF9GmFe"
-    },
-    {
-      "added_at": "2026-05-21 12:28:12",
-      "album": {
         "name": "Hyp\u00e9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 153621,
       "name": "Nu Meteen (Slide)",
       "url": "https://open.spotify.com/track/73epTVTwGh2rSnMkrKmgJS"
+    },
+    {
+      "added_at": "2026-05-21 12:28:12",
+      "album": {
+        "name": "Samen (Niet Alleen)",
+        "url": "https://open.spotify.com/album/68hXkfVxsDWyBj7DDtz8Vg"
+      },
+      "artists": [
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        },
+        {
+          "name": "DJ DYLVN",
+          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+        }
+      ],
+      "duration_ms": 145296,
+      "name": "Samen (Niet Alleen)",
+      "url": "https://open.spotify.com/track/0lDTAuwGNLvOiavYF9GmFe"
     },
     {
       "added_at": "2026-05-21 12:28:12",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2026-05-21 12:28:12",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
+        "name": "Voorzichtig",
+        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
         }
       ],
-      "duration_ms": 207865,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
+      "duration_ms": 143015,
+      "name": "Voorzichtig",
+      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
     },
     {
       "added_at": "2026-05-21 12:28:12",
@@ -1383,22 +1387,18 @@
     {
       "added_at": "2026-05-21 12:28:12",
       "album": {
-        "name": "Voorzichtig",
-        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
+        "name": "Update",
+        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
       },
       "artists": [
         {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 143015,
-      "name": "Voorzichtig",
-      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
+      "duration_ms": 207865,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
     },
     {
       "added_at": "2026-05-21 12:28:12",
@@ -1447,18 +1447,22 @@
     {
       "added_at": "2026-05-21 12:28:12",
       "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
+        "name": "Stiekem \u201824",
+        "url": "https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr"
       },
       "artists": [
         {
-          "name": "Yssine",
-          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
         }
       ],
-      "duration_ms": 161901,
-      "name": "Wild West",
-      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
+      "duration_ms": 188956,
+      "name": "Stiekem \u201824",
+      "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
     },
     {
       "added_at": "2026-05-21 12:28:12",
@@ -1479,22 +1483,18 @@
     {
       "added_at": "2026-05-21 12:28:12",
       "album": {
-        "name": "Stiekem \u201824",
-        "url": "https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr"
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
       },
       "artists": [
         {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+          "name": "Yssine",
+          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
         }
       ],
-      "duration_ms": 188956,
-      "name": "Stiekem \u201824",
-      "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
+      "duration_ms": 161901,
+      "name": "Wild West",
+      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
     },
     {
       "added_at": "2026-05-21 12:28:12",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-05-21 12:28:12",
       "album": {
+        "name": "PAPARAZZI",
+        "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "duration_ms": 147641,
+      "name": "PAPARAZZI",
+      "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
+    },
+    {
+      "added_at": "2026-05-21 12:28:12",
+      "album": {
         "name": "Ik Heb Je",
         "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 194347,
       "name": "Ik Heb Je (met Henkie T & Yssi SB)",
       "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
-    },
-    {
-      "added_at": "2026-05-21 12:28:12",
-      "album": {
-        "name": "PAPARAZZI",
-        "url": "https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        }
-      ],
-      "duration_ms": 147641,
-      "name": "PAPARAZZI",
-      "url": "https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt"
     },
     {
       "added_at": "2026-05-21 12:28:12",

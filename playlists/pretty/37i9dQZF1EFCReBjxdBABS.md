@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 129 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 250 likes - 130 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 8 | [Kid On Christmas \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:22 |
 | 9 | [Drive](https://open.spotify.com/track/0p8U2VbsRyfuokUx8IOaou) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/5HhHFZfsMFwampLhyKqxsW) | 3:34 |
 | 10 | [Can't Do Without Me](https://open.spotify.com/track/7GO58JK2bCEt11jHjsL1gb) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Can't Do Without Me](https://open.spotify.com/album/3w7uUXehrg0nr8ROERZBSk) | 3:21 |
-| 11 | [Country's Cool Again](https://open.spotify.com/track/7s8QiPdUm1rwWnVPtResNR) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:38 |
-| 12 | [Middle Of It](https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:26 |
+| 11 | [Middle Of It](https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:26 |
+| 12 | [Country's Cool Again](https://open.spotify.com/track/7s8QiPdUm1rwWnVPtResNR) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:38 |
 | 13 | [Call A Cowboy](https://open.spotify.com/track/5KPDO23ZYI5BRlnlNoWKyg) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:47 |
 | 14 | [Wedding Dress](https://open.spotify.com/track/2Jy50uaAgvyyrVOQsUv3rJ) | [Levi Hummon](https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi) | [Wedding Dress](https://open.spotify.com/album/48N7RsO9NW9PKALS4SJ40k) | 3:08 |
 | 15 | [Don't We All \(Acoustic\)](https://open.spotify.com/track/7kwSLtR8B2XOtBtorr372O) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 2:41 |
@@ -132,10 +132,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 122 | [Second Hand](https://open.spotify.com/track/6btNUCsS1PkecQaY5434eE) | [John Daly](https://open.spotify.com/artist/3Vx5YyvKAvy6SLxuVyNRQ8) | [Country Boy](https://open.spotify.com/album/5Lq7zurlJ7xIHmS5Kogwyb) | 3:04 |
 | 123 | [Time Will Tell \- Demo](https://open.spotify.com/track/1fQVCwEFROQ3uqnqPTjHoP) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF), [Dallas Wilson](https://open.spotify.com/artist/0ueAhTxK4uzP6XOPSq7vrn) | [Time Will Tell \(Demo\)](https://open.spotify.com/album/2LSHj1QMjgHYKS2IQzKHmp) | 3:19 |
 | 124 | [Why Why Why](https://open.spotify.com/track/5f93O4SF1ckOKOohzuqAMJ) | [Cooper Riley](https://open.spotify.com/artist/794UG1owjPTy0oFi9aM6XA) | [Why Why Why](https://open.spotify.com/album/3oUQb7vKsXx4BP8ve41J7W) | 3:15 |
-| 125 | [Cold Water](https://open.spotify.com/track/7jz4rqeSIv1LJpac6IQG34) | [Tranquilla](https://open.spotify.com/artist/4KdUd1THBpqIbfVxgqXfLz), [Obeds](https://open.spotify.com/artist/0HFp2bgInRmPn12k5KBYYt) | [Cold Water](https://open.spotify.com/album/5ON0W8Hm2AUSsoMZF6n5ig) | 4:04 |
-| 126 | [Just What I Wanted](https://open.spotify.com/track/5wqbvckLKX6fwlWbfiPFRV) | [Bling Bling](https://open.spotify.com/artist/7LSPQ8cAwOgviHtqG8D1Lg) | [Just What I Wanted](https://open.spotify.com/album/6Ir9ErdBRT1nfLnLD64JLR) | 2:04 |
-| 127 | [No Good Reason](https://open.spotify.com/track/3uFxAVJ6BNpcpbBYtubeeJ) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF), [Jordan Walker](https://open.spotify.com/artist/7i17Lwe8Ds1mTCfGCVmvr3) | [Heart Like a Songwriter](https://open.spotify.com/album/4cVgPhm5hnTOe604QyhJnk) | 3:39 |
-| 128 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
-| 129 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
+| 125 | [no man's](https://open.spotify.com/track/5EoJW3n1SC0ILmAcs3u6Ax) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:51 |
+| 126 | [Cold Water](https://open.spotify.com/track/7jz4rqeSIv1LJpac6IQG34) | [Tranquilla](https://open.spotify.com/artist/4KdUd1THBpqIbfVxgqXfLz), [Obeds](https://open.spotify.com/artist/0HFp2bgInRmPn12k5KBYYt) | [Cold Water](https://open.spotify.com/album/5ON0W8Hm2AUSsoMZF6n5ig) | 4:04 |
+| 127 | [Just What I Wanted](https://open.spotify.com/track/5wqbvckLKX6fwlWbfiPFRV) | [Bling Bling](https://open.spotify.com/artist/7LSPQ8cAwOgviHtqG8D1Lg) | [Just What I Wanted](https://open.spotify.com/album/6Ir9ErdBRT1nfLnLD64JLR) | 2:04 |
+| 128 | [No Good Reason](https://open.spotify.com/track/3uFxAVJ6BNpcpbBYtubeeJ) | [Trannie Anderson](https://open.spotify.com/artist/2wDwhVAnShDPtz2xrZu3oF), [Jordan Walker](https://open.spotify.com/artist/7i17Lwe8Ds1mTCfGCVmvr3) | [Heart Like a Songwriter](https://open.spotify.com/album/4cVgPhm5hnTOe604QyhJnk) | 3:39 |
+| 129 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
+| 130 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcS6UgAAAABOHBqnYOZWKfZXKI+zEevn`
+Snapshot ID: `AcTALgAAAAALmLnjuQECIEWoyc8Tdgej`

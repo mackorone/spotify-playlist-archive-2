@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6qlZhVcPgV2bWXdUuEDoST">Ink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 798 likes - 69 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 797 likes - 69 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 23 | [Can't Get Enough](https://open.spotify.com/track/2if19Z5XLIR9CZt2oiKjGk) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:06 |
 | 24 | [Made It from Nothing \(feat\. Teyana Taylor and Rick Ross\)](https://open.spotify.com/track/7yGJcaSJgpgXamjmXBCb6j) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Wins & Losses](https://open.spotify.com/album/2SCQAZZ5pc90l9SPBsWCIQ) | 4:09 |
 | 25 | [Pressure](https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Pressure](https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU) | 2:36 |
-| 26 | [Frenesí](https://open.spotify.com/track/7Kz2Op4u003oogY6FTqDkB) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 3:13 |
-| 27 | [TEXAS HOLD 'EM \(PONY UP\) REMIX](https://open.spotify.com/track/5vrUXAD0UfFIVCrBkJ8Kq7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM \(PONY UP\) REMIX](https://open.spotify.com/album/1X75jBTdqVxa8tOs15yPoi) | 3:20 |
+| 26 | [TEXAS HOLD 'EM \(PONY UP\) REMIX](https://open.spotify.com/track/5vrUXAD0UfFIVCrBkJ8Kq7) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM \(PONY UP\) REMIX](https://open.spotify.com/album/1X75jBTdqVxa8tOs15yPoi) | 3:20 |
+| 27 | [Frenesí](https://open.spotify.com/track/7Kz2Op4u003oogY6FTqDkB) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 3:13 |
 | 28 | [Magnolias](https://open.spotify.com/track/0VrVlWutHnOk0QLeO7gD77) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:22 |
 | 29 | [They Ain't Ready](https://open.spotify.com/track/2efF9ZPcJQolc3hLVFQ34V) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [They Ain't Ready](https://open.spotify.com/album/3zNrAL9B03xuDZd3AEbDpu) | 3:29 |
 | 30 | [Power of Money \(feat\. Ink\)](https://open.spotify.com/track/26z0PyPWLQNDByatk2GRuJ) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Ink](https://open.spotify.com/artist/3Fv2hilkIgkziuz8U1LeJk) | [White Friday \(CM9\)](https://open.spotify.com/album/2NLkWfzw3YmRGBhqPqtAvW) | 3:44 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 40 | [Hummingbird](https://open.spotify.com/track/7xl8Bg3rcjYsF31NUGbrQA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now \(Deluxe\)](https://open.spotify.com/album/5n2H8XDZfGQS92t0dpTNtg) | 2:45 |
 | 41 | [This Time Around](https://open.spotify.com/track/6fveZbfaioqsGCZDaCEUqV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:55 |
 | 42 | [Greatest Love Story Never Told](https://open.spotify.com/track/4FAs3OblD5UR4gKdpwcprV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:07 |
-| 43 | [Midnight Trip to Vegas](https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:11 |
-| 44 | [Black Rose](https://open.spotify.com/track/2weAP38rRFExVCWkOUJSiX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:15 |
+| 43 | [Black Rose](https://open.spotify.com/track/2weAP38rRFExVCWkOUJSiX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:15 |
+| 44 | [Midnight Trip to Vegas](https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:11 |
 | 45 | [Turquoise Cowboy](https://open.spotify.com/track/4BZSY7v7z0uOrcOQ2vU9GA) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 3:13 |
 | 46 | [Change](https://open.spotify.com/track/4tm4ucTjb7eJ85iz9tZjnt) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [The Golden Child](https://open.spotify.com/album/52iN0AN48yBH5pF6C65ZmI) | 2:36 |
 | 47 | [Hoedown](https://open.spotify.com/track/4qPdEFwFiUaOVi6sZzQadZ) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 2:56 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFNsuSPMFRwX.md) - [plain]
 | 68 | [Outro](https://open.spotify.com/track/4WShc2g1Vl3hdMM9JGzZoi) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:54 |
 | 69 | [Tony Machine on 42nd](https://open.spotify.com/track/7oS5pGCbIRr3fbp8PPDS2n) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [BIG BUSKIN’](https://open.spotify.com/album/6ABpmE24WIVkACvjhnChF0) | 0:19 |
 
-Snapshot ID: `AcS6egAAAAAZlDeuH4J082Is/hTlX39K`
+Snapshot ID: `AcTAGgAAAABgR3JnHCsEtOjSwdtwXNNb`

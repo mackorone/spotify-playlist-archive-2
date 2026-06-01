@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-807 songs - 1 day 17 hr 30 min
+808 songs - 1 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Ewor Me](https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Ewor Me](https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey) | 3:40 | 2026-01-14 | 2026-02-06 |
 | [Excellent](https://open.spotify.com/track/3Xa0qIUcRBZgOCs4XBqJdC) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Excellent](https://open.spotify.com/album/4HPBUH9zzG24I7ggx8f2P4) | 2:40 | 2025-03-31 | 2025-07-16 |
 | [Eye Clear](https://open.spotify.com/track/6Mz15WVvQ7zDdfX1O7Dpvv) | [Tulenkey](https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT), [Da Yanney](https://open.spotify.com/artist/1zAYykvv39SwUBLzldCBcP) | [Eye Clear](https://open.spotify.com/album/7nGHPzpRjg9zWeoWoZKe7Z) | 1:46 | 2024-07-19 | 2024-08-30 |
-| [Eye Open](https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:17 | 2025-04-04 |  |
+| [Eye Open](https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:17 | 2025-04-04 | 2026-06-01 |
 | [EYE RED](https://open.spotify.com/track/2iyBfSrE6d3Wh3C5hjOXY3) | [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX) | [NEW ROAD AND GUAVA TREES](https://open.spotify.com/album/4p7Y6nHD0gwwS0GMCabOlI) | 2:07 | 2025-03-31 | 2025-04-18 |
 | [Eyes Dried Over \(feat\. Tom Walker\)](https://open.spotify.com/track/5ApdHdkOmIGoEBIjvdA2Cp) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [True To Self \(Deluxe\)](https://open.spotify.com/album/0FKIhRZXxjDsxccQLiUlbz) | 2:44 | 2024-12-16 | 2025-04-01 |
 | [Eyes on You](https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Eyes on You](https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr) | 3:02 | 2023-10-06 | 2024-01-14 |
@@ -695,6 +695,7 @@
 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 | 2024-08-02 | 2024-08-30 |
 | [Superman](https://open.spotify.com/track/2hdLevN6pPqOZgD3ig0RUm) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Superman](https://open.spotify.com/album/78ubgVbVvaYofy4YFvJTnj) | 3:01 | 2022-08-25 | 2022-10-14 |
 | [Survivor](https://open.spotify.com/track/4juj2vcoKlRyW2toW951Wg) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Survivor](https://open.spotify.com/album/5uaAvmMxqIOtqu2Vh3omBc) | 2:30 | 2025-03-07 | 2025-03-22 |
+| [SWAGGA](https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [SWAGGA](https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F) | 3:10 | 2026-05-29 |  |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-28 | 2024-07-12 |
 | [Sweet Baby Angel](https://open.spotify.com/track/350Y4aUGeygzLIr7QDlzdh) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Sweet Baby Angel](https://open.spotify.com/album/5fmH8CipJq22aPbhha3NdY) | 3:01 | 2026-03-20 | 2026-05-10 |
 | [Take Away](https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Take Away](https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ) | 2:46 | 2022-06-09 | 2023-11-25 |

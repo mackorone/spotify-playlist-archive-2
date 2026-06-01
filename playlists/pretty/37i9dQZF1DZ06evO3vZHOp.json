@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 379080,
+  "num_followers": 379101,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAAUCSnDnWJcv14jCNKEzHz4",
+  "snapshot_id": "ahoogAAAAACPcnMVJ1QhwbTVBxn0VVQF",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 217736,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORSA",
+        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 177662,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/7HzLGyZkbUtatOACuwO75x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Falsas Promesas (Remix)",
         "url": "https://open.spotify.com/album/14FAowouxDrPZQOhqrH2SM"
       },
@@ -415,42 +451,6 @@
       "duration_ms": 415973,
       "name": "Falsas Promesas (Remix)",
       "url": "https://open.spotify.com/track/09djeJtz8wrtQFs5YtwgD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CORSA",
-        "url": "https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 177662,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/7HzLGyZkbUtatOACuwO75x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 217736,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC"
     },
     {
       "added_at": null,
@@ -511,6 +511,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00c1S DE AH\u00cd (Remix)",
+        "url": "https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E"
+      },
+      "artists": [
+        {
+          "name": "Topboy TGR",
+          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 245052,
+      "name": "M\u00c1S DE AH\u00cd - Remix",
+      "url": "https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Primer Lugar",
         "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
       },
@@ -547,30 +571,6 @@
       "duration_ms": 206946,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/4hY6swYPVeFVKFaormmzez"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00c1S DE AH\u00cd (Remix)",
-        "url": "https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E"
-      },
-      "artists": [
-        {
-          "name": "Topboy TGR",
-          "url": "https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 245052,
-      "name": "M\u00c1S DE AH\u00cd - Remix",
-      "url": "https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u"
     },
     {
       "added_at": null,
@@ -763,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DON KBRN",
-        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
+        "name": "Las Leyendas Nunca Mueren",
+        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
       },
       "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 130459,
-      "name": "H.I.M.",
-      "url": "https://open.spotify.com/track/4fZUG9dMyqlIFSnf1iitm1"
+      "duration_ms": 176538,
+      "name": "North Carolina",
+      "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
     },
     {
       "added_at": null,
@@ -795,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Leyendas Nunca Mueren",
-        "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
+        "name": "DON KBRN",
+        "url": "https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a"
       },
       "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
         {
           "name": "Eladio Carrion",
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 176538,
-      "name": "North Carolina",
-      "url": "https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM"
+      "duration_ms": 130459,
+      "name": "H.I.M.",
+      "url": "https://open.spotify.com/track/4fZUG9dMyqlIFSnf1iitm1"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00e1rgolas Forever",
-        "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
-      },
-      "artists": [
-        {
-          "name": "Alex Gargolas",
-          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Podemos (Remix)",
         "url": "https://open.spotify.com/album/0eIaEg1LMlc3ZGVLiTL7ZB"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 240000,
       "name": "No Podemos - Remix",
       "url": "https://open.spotify.com/track/1jZXWu9aglrtzS9IqLbnrd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G\u00e1rgolas Forever",
+        "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
+      },
+      "artists": [
+        {
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7"
     },
     {
       "added_at": null,

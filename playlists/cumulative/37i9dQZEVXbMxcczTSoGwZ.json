@@ -4856,7 +4856,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -5890,7 +5890,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 150944,
       "name": "Boujee",
       "url": "https://open.spotify.com/track/4VXj5DCEqxj6ATWzV1EfRA"
@@ -19022,7 +19022,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 158091,
       "name": "Idari",
       "url": "https://open.spotify.com/track/3N2IDifmtszdBvBT894ZYn"
@@ -23986,7 +23986,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 188240,
       "name": "Kaunis vaan kun itken (feat. AHTI)",
       "url": "https://open.spotify.com/track/4gRjzRiNonRigwPCARLrF5"
@@ -24492,7 +24492,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-25",
+      "date_removed": null,
       "duration_ms": 237133,
       "name": "Kes\u00e4y\u00f6",
       "url": "https://open.spotify.com/track/4Q7NePRrh6S0WzKMz8CbCA"
@@ -33788,7 +33788,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-30",
+      "date_removed": null,
       "duration_ms": 243160,
       "name": "Min\u00e4 (feat. Mariska)",
       "url": "https://open.spotify.com/track/3gYHMSi0QXprEALlsYDgF5"
@@ -36284,7 +36284,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 183461,
       "name": "Mustat sunnuntait",
       "url": "https://open.spotify.com/track/1LmOOpRQCtYuCubwh2PoE3"
@@ -39382,7 +39382,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 257386,
       "name": "Ollaanko t\u00e4m\u00e4 kes\u00e4 n\u00e4in?",
       "url": "https://open.spotify.com/track/45W3OW8VgBNjb8lOpPXWeT"
@@ -40828,7 +40828,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 158472,
       "name": "Pahoille teille",
       "url": "https://open.spotify.com/track/4xaNQ6k3xiZ6dAyI5hJGwA"
@@ -47632,7 +47632,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 174000,
       "name": "Sata syyt",
       "url": "https://open.spotify.com/track/5utmpdm2S5HNpdvz1Fve8L"
@@ -51100,7 +51100,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -55420,6 +55420,24 @@
       "duration_ms": 178615,
       "name": "Tilip\u00e4iv\u00e4",
       "url": "https://open.spotify.com/track/1xE3bYl2RqvsZasAX2uF9E"
+    },
+    {
+      "album": {
+        "name": "Boom Kah",
+        "url": "https://open.spotify.com/album/5QTfDLgxA3pcwVcrDHxBcI"
+      },
+      "artists": [
+        {
+          "name": "Robin Packalen",
+          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168760,
+      "name": "Tilttaamaan",
+      "url": "https://open.spotify.com/track/71eG4ZupmvZFW5YICD7o67"
     },
     {
       "album": {

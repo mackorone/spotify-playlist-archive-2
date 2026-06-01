@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 207977,
       "name": "Live It Up - Official Song 2018 FIFA World Cup Russia",
       "url": "https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT"
@@ -2016,6 +2016,36 @@
       "duration_ms": 197880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/1hIj5fZhmr8hsEpWhMOoiy"
+    },
+    {
+      "album": {
+        "name": "SWIPE LEFT",
+        "url": "https://open.spotify.com/album/4iuytjVmI31UQivEpVnNcz"
+      },
+      "artists": [
+        {
+          "name": "Karim Naas",
+          "url": "https://open.spotify.com/artist/0CtbEQRf5QgHb89JgCl95n"
+        },
+        {
+          "name": "ZHIKO",
+          "url": "https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166"
+        },
+        {
+          "name": "Acko",
+          "url": "https://open.spotify.com/artist/4jiOvEyAn2AHCd4wJuRsBi"
+        },
+        {
+          "name": "GREGG",
+          "url": "https://open.spotify.com/artist/3Dd8hs6oduPlzzHhqtYAzM"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122608,
+      "name": "SWIPE LEFT",
+      "url": "https://open.spotify.com/track/1HUZ8rtqtm2I6UtUAHJpTw"
     },
     {
       "album": {

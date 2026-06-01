@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: corto.alto
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,777 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,793 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 45 | [Pink](https://open.spotify.com/track/3q1uWf6BulnqldbYrDJ45U) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pink](https://open.spotify.com/album/0utv7DeJSHoEHBYu0kol5R) | 3:18 |
 | 46 | [Agave Flute](https://open.spotify.com/track/0QFqGiwrunHgwpflzQhgmQ) | [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Wu Wei](https://open.spotify.com/album/6vpHWq7UHPBQ5ohdU31VnM) | 1:36 |
 | 47 | [We Have Each Other \- Marla Kether Remix](https://open.spotify.com/track/24ZAd38hq1QWkbvu5UMfbW) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ), [Plumm](https://open.spotify.com/artist/17goxueRDomjijRHKaaQpT), [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU) | [We Have Each Other: Remixed](https://open.spotify.com/album/3PsNU2NkYqaAOYqlCChIHu) | 3:48 |
-| 48 | [Reflections](https://open.spotify.com/track/6EiddSbc6b4quXfQvrVND1) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Reflections](https://open.spotify.com/album/6pM6v4BqKK85SuyZHwxHwM) | 3:34 |
-| 49 | [Lifetones](https://open.spotify.com/track/0gouDswj0R5jne7YUUrlIO) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [All The Quiet \(Part I\)](https://open.spotify.com/album/0efFrXZr98tY3O5qkAGQB7) | 8:07 |
+| 48 | [Lifetones](https://open.spotify.com/track/0gouDswj0R5jne7YUUrlIO) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [All The Quiet \(Part I\)](https://open.spotify.com/album/0efFrXZr98tY3O5qkAGQB7) | 8:07 |
+| 49 | [Reflections](https://open.spotify.com/track/6EiddSbc6b4quXfQvrVND1) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Reflections](https://open.spotify.com/album/6pM6v4BqKK85SuyZHwxHwM) | 3:34 |
 | 50 | [Circa 2019](https://open.spotify.com/track/33VHDPVMX4zjiv0zYFl3cT) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Circa 2019](https://open.spotify.com/album/1GiNqVTjpSb5WrQiiRszHU) | 3:21 |
 | 51 | [Cali](https://open.spotify.com/track/0QLMIFB1tGQBQ3HlGVKWsp) | [Ife Ogunjobi](https://open.spotify.com/artist/2nkMktddAGCSVHJlsO6eUK), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Cali](https://open.spotify.com/album/0Yj5zhtDAOsEX8Ttvf0ezI) | 2:55 |
 | 52 | [No Others](https://open.spotify.com/track/3xuYB0Utwmn2KFxAWrKDe7) | [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF) | [No Others / When Palestine Is Free](https://open.spotify.com/album/3YREK1AXnlQLgmgt9kmRwW) | 4:26 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 65 | [Ode To Friend](https://open.spotify.com/track/51h16aD5I2qGmuE46fYKjz) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Ode To Friend](https://open.spotify.com/album/4JqxoQZmtPSo2OPIWIEbsr) | 3:29 |
 | 66 | [Smiley](https://open.spotify.com/track/3bVzCiIlDQHRj6AceYv5IQ) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [birty](https://open.spotify.com/artist/4p81Kbhx0mkop7JXpKoqlA) | [Smiley](https://open.spotify.com/album/4qrWD7B7c7y3sUACC1VPwD) | 2:34 |
 | 67 | [ISA](https://open.spotify.com/track/5MHpJS8FDkSleGcV6Lk0Dz) | [Cooks But We're Chefs](https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83) | [ISA](https://open.spotify.com/album/3AYOE4y7iEVsvUPo4T0KXF) | 3:48 |
-| 68 | [What I'd Give](https://open.spotify.com/track/5l7YXrYO9vwnqLetytpAkm) | [Orchard](https://open.spotify.com/artist/1VOK0qiCsKHkdblP97zcMd) | [What I'd Give](https://open.spotify.com/album/4DCXpOKlV1iesz50B0NPYV) | 4:02 |
+| 68 | [Shelter](https://open.spotify.com/track/0RkudKUCGvubwnw8yjvza9) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Shelter](https://open.spotify.com/album/1quwj92sSkORVSqtpi13tf) | 3:24 |
 | 69 | [All Time \(feat\. Tawiah\)](https://open.spotify.com/track/3zpS6M5WsdliAa5DWc03Br) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Tawiah](https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN) | [All Time \(feat\. Tawiah\)](https://open.spotify.com/album/3ms6dSKt2HBnwvI2SbtXip) | 3:48 |
-| 70 | [Got a Lil Luv](https://open.spotify.com/track/0RS89gLDcUVs441ZUAVuA0) | [Isabelle Mettle](https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC) | [Changes Deluxe](https://open.spotify.com/album/0nIMJVYQ41dBMDASeQ3mWc) | 2:32 |
-| 71 | [Never Gonna Be A Boxer](https://open.spotify.com/track/38d90hGqh10VeQXDmlbYcE) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7) | [Never Gonna Be A Boxer](https://open.spotify.com/album/7rtY9Btpo8FbCMtKhCocNs) | 6:12 |
-| 72 | [Pinch](https://open.spotify.com/track/2oBc2lx30NnvvNmRsm8J2f) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v), [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Pinch](https://open.spotify.com/album/4dcQ7NEJlOUFp5mkYnP8QD) | 4:37 |
-| 73 | [We're Not Free](https://open.spotify.com/track/715GdTHoLH2FOLfZ3GCvi9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [We're Not Free](https://open.spotify.com/album/7nsFzOZtsC433KokTp75Hm) | 4:51 |
-| 74 | [Sunset and Memories](https://open.spotify.com/track/1Z62oxxaQMOy1qEjSTAlzl) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Find Your Way / Sunset and Memories](https://open.spotify.com/album/4D303kngKMG3VGjOmdX7Y8) | 3:32 |
-| 75 | [Something Blues](https://open.spotify.com/track/4rCFwBw0zbsUZ3LYA9gqvA) | [Tanhai Collective](https://open.spotify.com/artist/26b6sds0w1dppBvAeSwv73) | [Something Blues](https://open.spotify.com/album/2hWRAC4tDLgUskaJAu8kex) | 5:07 |
+| 70 | [What I'd Give](https://open.spotify.com/track/5l7YXrYO9vwnqLetytpAkm) | [Orchard](https://open.spotify.com/artist/1VOK0qiCsKHkdblP97zcMd) | [What I'd Give](https://open.spotify.com/album/4DCXpOKlV1iesz50B0NPYV) | 4:02 |
+| 71 | [Got a Lil Luv](https://open.spotify.com/track/0RS89gLDcUVs441ZUAVuA0) | [Isabelle Mettle](https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC) | [Changes Deluxe](https://open.spotify.com/album/0nIMJVYQ41dBMDASeQ3mWc) | 2:32 |
+| 72 | [Never Gonna Be A Boxer](https://open.spotify.com/track/38d90hGqh10VeQXDmlbYcE) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7) | [Never Gonna Be A Boxer](https://open.spotify.com/album/7rtY9Btpo8FbCMtKhCocNs) | 6:12 |
+| 73 | [Pinch](https://open.spotify.com/track/2oBc2lx30NnvvNmRsm8J2f) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v), [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Pinch](https://open.spotify.com/album/4dcQ7NEJlOUFp5mkYnP8QD) | 4:37 |
+| 74 | [We're Not Free](https://open.spotify.com/track/715GdTHoLH2FOLfZ3GCvi9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [We're Not Free](https://open.spotify.com/album/7nsFzOZtsC433KokTp75Hm) | 4:51 |
+| 75 | [Sunset and Memories](https://open.spotify.com/track/1Z62oxxaQMOy1qEjSTAlzl) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Kaidi Akinnibi](https://open.spotify.com/artist/37dGQu2K8lXncPDUxfuhEJ) | [Find Your Way / Sunset and Memories](https://open.spotify.com/album/4D303kngKMG3VGjOmdX7Y8) | 3:32 |
 
 Snapshot ID: `AAAAALVI9fCJrl4ZKAZDuL1xk0Srl5iX`

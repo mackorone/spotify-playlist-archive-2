@@ -2563,6 +2563,28 @@
     },
     {
       "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/2W0TsF1BA27Hh9TLlO9415"
+      },
+      "artists": [
+        {
+          "name": "The Avener",
+          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217933,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/64Y1COS4dg0R3Bhnc0xKtW"
+    },
+    {
+      "album": {
         "name": "Starlight (The Fame)",
         "url": "https://open.spotify.com/album/6GNKUJR0OQtwR9xUK6OVE4"
       },

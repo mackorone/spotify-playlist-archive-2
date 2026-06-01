@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Asha Bhosle
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,550 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,573 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 40 | [Rooh](https://open.spotify.com/track/01SLrI7ebOPtnN5bPz6v5v) | [Dirty Jays](https://open.spotify.com/artist/4Qi9tHCWxGHILQ7pgifMft), [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Rooh](https://open.spotify.com/album/0RjWEQbdNDcml5itl9UYsI) | 3:35 |
 | 41 | [Maan Jao](https://open.spotify.com/track/5HzQLl5EyKpaE2dwgSaK4C) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Maan Jao](https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF) | 2:34 |
 | 42 | [Khaamakha](https://open.spotify.com/track/0GPCJqtDyJPVpdVLgp9lfx) | [Siddharth Pandit](https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Bandish Bandits Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF) | 4:32 |
-| 43 | [Ho Jaa](https://open.spotify.com/track/3Tc2kbehPIEDoZ7fBbGGQc) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Ho Jaa](https://open.spotify.com/album/4IbUlWxqCC11mPVme8IxzF) | 3:32 |
-| 44 | [umraan](https://open.spotify.com/track/5BbkLWMmRsEVEbgVkuoIab) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [ADP](https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i) | [umraan](https://open.spotify.com/album/0RYVngJi1hWo7yqsy2dzN7) | 2:31 |
-| 45 | [Ankhiyan Roye](https://open.spotify.com/track/4gjSfkLdSKAxsDZ4aj0RXb) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Uddipan Sharma](https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm) | [Ankhiyan Roye](https://open.spotify.com/album/28jr23QVPgioV3LcXCkr7M) | 3:15 |
+| 43 | [Na Lage Nazar](https://open.spotify.com/track/28U6ckPA3oRItIEzVbe3j7) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Na Lage Nazar](https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY) | 3:00 |
+| 44 | [Ho Jaa](https://open.spotify.com/track/3Tc2kbehPIEDoZ7fBbGGQc) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Ho Jaa](https://open.spotify.com/album/4IbUlWxqCC11mPVme8IxzF) | 3:32 |
+| 45 | [umraan](https://open.spotify.com/track/5BbkLWMmRsEVEbgVkuoIab) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [ADP](https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i) | [umraan](https://open.spotify.com/album/0RYVngJi1hWo7yqsy2dzN7) | 2:31 |
 | 46 | [Aa Zara](https://open.spotify.com/track/0MoRzKAl00iGQVOfUhmAUJ) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Aa Zara](https://open.spotify.com/album/5gw0j8n8j2h7kLmQ8XqzcL) | 2:35 |
-| 47 | [Barf](https://open.spotify.com/track/2sJl8wjjlM7aNyaJNdUAwJ) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Barf](https://open.spotify.com/album/4zMKl5LLjrNQH7eyM7PJcf) | 6:10 |
-| 48 | [Ankhiyan Nigodi](https://open.spotify.com/track/2gXCEGUg2zmQODJLfAVJmu) | [Shalini Mamgain](https://open.spotify.com/artist/1xUBrkqouhUTbiQbFwXUhY) | [Ankhiyan Nigodi](https://open.spotify.com/album/220OnLhJAzkYLGgDxKwePi) | 3:07 |
-| 49 | [Impression](https://open.spotify.com/track/62qTL9muHhMFfKxKHEW0Xw) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Impression](https://open.spotify.com/album/2jZQt2LalNKkcI7r8G4eI5) | 2:11 |
-| 50 | [Fasaana](https://open.spotify.com/track/69UVWiMCXMNnj6bKLc2Bi6) | [Kuhu Gracia](https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq) | [Fasaana](https://open.spotify.com/album/1aXkbjRSWxyBZOujzSE8Wj) | 3:25 |
+| 47 | [Ankhiyan Roye](https://open.spotify.com/track/4gjSfkLdSKAxsDZ4aj0RXb) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr), [Uddipan Sharma](https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm) | [Ankhiyan Roye](https://open.spotify.com/album/28jr23QVPgioV3LcXCkr7M) | 3:15 |
+| 48 | [Barf](https://open.spotify.com/track/2sJl8wjjlM7aNyaJNdUAwJ) | [Mansa Jimmy](https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu) | [Barf](https://open.spotify.com/album/4zMKl5LLjrNQH7eyM7PJcf) | 6:10 |
+| 49 | [Ankhiyan Nigodi](https://open.spotify.com/track/2gXCEGUg2zmQODJLfAVJmu) | [Shalini Mamgain](https://open.spotify.com/artist/1xUBrkqouhUTbiQbFwXUhY) | [Ankhiyan Nigodi](https://open.spotify.com/album/220OnLhJAzkYLGgDxKwePi) | 3:07 |
+| 50 | [Impression](https://open.spotify.com/track/62qTL9muHhMFfKxKHEW0Xw) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Impression](https://open.spotify.com/album/2jZQt2LalNKkcI7r8G4eI5) | 2:11 |
 
 Snapshot ID: `AAAAAHoeOOGfjvn/bggI6EqWM9P6w/ND`

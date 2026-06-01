@@ -12519,6 +12519,24 @@
     },
     {
       "album": {
+        "name": "Non ho niente d'intelligente da dire",
+        "url": "https://open.spotify.com/album/2qiVxI3VlAhm04T5c146wJ"
+      },
+      "artists": [
+        {
+          "name": "Hofmann Orchestra",
+          "url": "https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182636,
+      "name": "Non ho niente d'intelligente da dire",
+      "url": "https://open.spotify.com/track/1oHlgkWpq8XtbazzUiu4LZ"
+    },
+    {
+      "album": {
         "name": "Northwest Cold Front",
         "url": "https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c"
       },

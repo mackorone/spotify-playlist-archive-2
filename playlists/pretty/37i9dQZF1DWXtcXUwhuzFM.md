@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Mirella ja Lauri Haav, Cledos..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,275 likes - 113 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,277 likes - 113 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

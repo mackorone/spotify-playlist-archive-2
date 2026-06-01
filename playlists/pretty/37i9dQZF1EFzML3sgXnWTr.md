@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 30 | [L'UNICA](https://open.spotify.com/track/4UFS1osMKu4hGJwZtmfvuX) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:10 |
 | 31 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 |
 | 32 | [Taki](https://open.spotify.com/track/24HZYhiT0GhKM3KY95NTp0) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5) | [MET GALA](https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh) | 2:33 |
-| 33 | [NIENTE DI MALE](https://open.spotify.com/track/5GrGU0oH8iGkPIdEAjXdGb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:37 |
-| 34 | [AL MIO PAESE](https://open.spotify.com/track/4uDzwzT9vjM6pUnhxmClxK) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G), [DELIA](https://open.spotify.com/artist/0BjRnUqiITQwjqGtTeoxUS) | [SACRO](https://open.spotify.com/album/5fjacR3hNh14bYgoAyyEIS) | 3:17 |
+| 33 | [AL MIO PAESE](https://open.spotify.com/track/4uDzwzT9vjM6pUnhxmClxK) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G), [DELIA](https://open.spotify.com/artist/0BjRnUqiITQwjqGtTeoxUS) | [SACRO](https://open.spotify.com/album/5fjacR3hNh14bYgoAyyEIS) | 3:17 |
+| 34 | [NIENTE DI MALE](https://open.spotify.com/track/5GrGU0oH8iGkPIdEAjXdGb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:37 |
 | 35 | [Ancora in due](https://open.spotify.com/track/70rhDfMyFQBSshpXUovMEh) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano](https://open.spotify.com/album/3yPQgxO1KYgLhjsViwdqzt) | 3:02 |
 | 36 | [Non sono io](https://open.spotify.com/track/56G2D39tC1YMt6H6htjsSI) | [Noemi](https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA) | [Nostalgia](https://open.spotify.com/album/0jHdKUHCpkeGvNiHzzWiM1) | 2:52 |
 | 37 | [CON\(TORTA\)...](https://open.spotify.com/track/1DJZ3oXntTxMIeqQKodeX0) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Con\(torta\)](https://open.spotify.com/album/4XTcBZhbAcDSLO8blO4RBd) | 3:16 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 39 | [RANDAGI](https://open.spotify.com/track/0UFNkuBGeda7Rx2JTidBcu) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [RANDAGI](https://open.spotify.com/album/5oRlxAHKgPHEO5cwSOk8U3) | 3:17 |
 | 40 | [6 PM](https://open.spotify.com/track/5Lh0AgBMU1xRNLZ8iPW4bS) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [6 PM](https://open.spotify.com/album/7hrXbPpSWQ4xd1uuOnAuT5) | 3:08 |
 | 41 | [Avion](https://open.spotify.com/track/2RjEVSy0X1X9LMOeke924W) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Avion](https://open.spotify.com/album/6Ft2AKbiVmJiRYGIzS1I9y) | 3:13 |
-| 42 | [Tasche](https://open.spotify.com/track/2MLEfq2eP8lGfQaupsALXc) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Tasche](https://open.spotify.com/album/1Vtj0G5V5TjH7AE5SVwhRe) | 3:17 |
-| 43 | [GUAGLIÒ](https://open.spotify.com/track/7wSfdZWyjZwjInPFlpkvOT) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [GUAGLIÒ](https://open.spotify.com/album/0vqU1hJuj9MOFTAyVVFKzz) | 2:42 |
+| 42 | [GUAGLIÒ](https://open.spotify.com/track/7wSfdZWyjZwjInPFlpkvOT) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [GUAGLIÒ](https://open.spotify.com/album/0vqU1hJuj9MOFTAyVVFKzz) | 2:42 |
+| 43 | [Tasche](https://open.spotify.com/track/2MLEfq2eP8lGfQaupsALXc) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [Tasche](https://open.spotify.com/album/1Vtj0G5V5TjH7AE5SVwhRe) | 3:17 |
 | 44 | [Giove](https://open.spotify.com/track/7B6OCZyGDckCQvg839dN7N) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Il cielo contromano su Giove](https://open.spotify.com/album/21gWOI8QKz6gRqEEyUJbdy) | 2:44 |
 | 45 | [Stupidi lovers](https://open.spotify.com/track/6eZXzI6f0nHiTtL2C2V8E8) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Leggera](https://open.spotify.com/album/6vtGqGLz1IqeLtEXwluv70) | 3:24 |
 | 46 | [NUDA](https://open.spotify.com/track/3eLgGwDw3HnlfHR1Ox4LB5) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [rosa dei venti](https://open.spotify.com/album/0NGv6zN2X04QkMJH3ooWWR) | 2:37 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzML3sgXnWTr.md) - [plain]
 | 93 | [Rewind](https://open.spotify.com/track/34NY3jw9ipQYyBa1xVTRmK) | [Benji & Fede](https://open.spotify.com/artist/2nftqfbLohpDYzY8VUlvbm) | [REWIND](https://open.spotify.com/album/1NbBp6motkuIDeTTdRk0B5) | 3:04 |
 | 94 | [Non cambia mai](https://open.spotify.com/track/4huAaH4Q2zf6pj6dhiCqOn) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/3NNCpZojXm9nasubGE0JTr) | 3:10 |
 
-Snapshot ID: `AcS6cAAAAADDT6ycIlQ0oDdpVsir1FbY`
+Snapshot ID: `AcTABgAAAAC53sOfcFe8Ar5l83g8bzm1`

@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Asha Bhosle",
-  "num_followers": 103550,
+  "num_followers": 103573,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,30 @@
     {
       "added_at": "2026-05-29 04:41:29",
       "album": {
+        "name": "Na Lage Nazar",
+        "url": "https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Na Lage Nazar",
+      "url": "https://open.spotify.com/track/28U6ckPA3oRItIEzVbe3j7"
+    },
+    {
+      "added_at": "2026-05-29 04:41:29",
+      "album": {
         "name": "Ho Jaa",
         "url": "https://open.spotify.com/album/4IbUlWxqCC11mPVme8IxzF"
       },
@@ -1011,26 +1035,6 @@
     {
       "added_at": "2026-05-29 04:41:29",
       "album": {
-        "name": "Ankhiyan Roye",
-        "url": "https://open.spotify.com/album/28jr23QVPgioV3LcXCkr7M"
-      },
-      "artists": [
-        {
-          "name": "Palak Muchhal",
-          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
-        },
-        {
-          "name": "Uddipan Sharma",
-          "url": "https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Ankhiyan Roye",
-      "url": "https://open.spotify.com/track/4gjSfkLdSKAxsDZ4aj0RXb"
-    },
-    {
-      "added_at": "2026-05-29 04:41:29",
-      "album": {
         "name": "Aa Zara",
         "url": "https://open.spotify.com/album/5gw0j8n8j2h7kLmQ8XqzcL"
       },
@@ -1051,6 +1055,26 @@
       "duration_ms": 155357,
       "name": "Aa Zara",
       "url": "https://open.spotify.com/track/0MoRzKAl00iGQVOfUhmAUJ"
+    },
+    {
+      "added_at": "2026-05-29 04:41:29",
+      "album": {
+        "name": "Ankhiyan Roye",
+        "url": "https://open.spotify.com/album/28jr23QVPgioV3LcXCkr7M"
+      },
+      "artists": [
+        {
+          "name": "Palak Muchhal",
+          "url": "https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr"
+        },
+        {
+          "name": "Uddipan Sharma",
+          "url": "https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Ankhiyan Roye",
+      "url": "https://open.spotify.com/track/4gjSfkLdSKAxsDZ4aj0RXb"
     },
     {
       "added_at": "2026-05-29 04:41:29",
@@ -1099,22 +1123,6 @@
       "duration_ms": 131288,
       "name": "Impression",
       "url": "https://open.spotify.com/track/62qTL9muHhMFfKxKHEW0Xw"
-    },
-    {
-      "added_at": "2026-05-29 04:41:29",
-      "album": {
-        "name": "Fasaana",
-        "url": "https://open.spotify.com/album/1aXkbjRSWxyBZOujzSE8Wj"
-      },
-      "artists": [
-        {
-          "name": "Kuhu Gracia",
-          "url": "https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Fasaana",
-      "url": "https://open.spotify.com/track/69UVWiMCXMNnj6bKLc2Bi6"
     }
   ],
   "unique_name": "EQUAL India",

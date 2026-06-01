@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 2256,
+  "num_followers": 2258,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAADLF78kyQ4lGMk/g5pbfOln",
+  "snapshot_id": "ahoogAAAAAAgLBS7Ko78Df2F5pHYhD+/",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 146293,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/5VcPQ1E84Pg3cISGQqDntq"
+      "duration_ms": 200080,
+      "name": "Simple Things",
+      "url": "https://open.spotify.com/track/2tUwCO3XQ9DXdTeW9oQuce"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 161524,
-      "name": "Symphony",
-      "url": "https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R"
+      "duration_ms": 174973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/7JOczAqSpp8pPBhOqjSnOQ"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 200080,
-      "name": "Simple Things",
-      "url": "https://open.spotify.com/track/2tUwCO3XQ9DXdTeW9oQuce"
+      "duration_ms": 146293,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/5VcPQ1E84Pg3cISGQqDntq"
     },
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
         }
       ],
-      "duration_ms": 174973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/7JOczAqSpp8pPBhOqjSnOQ"
+      "duration_ms": 161524,
+      "name": "Symphony",
+      "url": "https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R"
     },
     {
       "added_at": null,

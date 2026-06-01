@@ -2,7 +2,7 @@
 
 ### [Bolero Tuyệt Phẩm](https://open.spotify.com/playlist/37i9dQZF1DWWdlSG3xntgM)
 
-> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
+> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
 352 songs - 1 day 6 hr 40 min
 

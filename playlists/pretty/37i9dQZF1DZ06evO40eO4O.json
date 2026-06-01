@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 7896,
+  "num_followers": 7906,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAACwqDa7x/L+KDezycwQ/7lr",
+  "snapshot_id": "ahoogAAAAABdc9EO8Yw1ulFwm7J5sC3n",
   "tracks": [
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR DEL WENO",
-        "url": "https://open.spotify.com/album/4fSgoKVXnlEYs9gtElWJp6"
-      },
-      "artists": [
-        {
-          "name": "Franco Rizzaro",
-          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 198803,
-      "name": "AMOR DEL WENO",
-      "url": "https://open.spotify.com/track/2StKy6GrZrk8G9ChNNCb1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Di Cuenta",
         "url": "https://open.spotify.com/album/6jFRVOjcQ9Ca7LwZbdpzyo"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 171034,
       "name": "Me Di Cuenta",
       "url": "https://open.spotify.com/track/2f0Sy7EgELM5bP6GZhrMSq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMOR DEL WENO",
+        "url": "https://open.spotify.com/album/4fSgoKVXnlEYs9gtElWJp6"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 198803,
+      "name": "AMOR DEL WENO",
+      "url": "https://open.spotify.com/track/2StKy6GrZrk8G9ChNNCb1T"
     },
     {
       "added_at": null,

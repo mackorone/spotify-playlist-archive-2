@@ -1,6 +1,6 @@
 {
   "description": "Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!",
-  "num_followers": 236194,
+  "num_followers": 236226,
   "original_name": "Christian Party",
   "owner": {
     "name": "Spotify",
@@ -431,18 +431,22 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "NO SKIPS / GOOD OLD DAYS",
-        "url": "https://open.spotify.com/album/4igdFeAJW7MrQZ2bDxcm8X"
+        "name": "Anike",
+        "url": "https://open.spotify.com/album/6PzZRVqEuFrt2U6f5j4yEf"
       },
       "artists": [
         {
-          "name": "bodie",
-          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        },
+        {
+          "name": "Porsha Love",
+          "url": "https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG"
         }
       ],
-      "duration_ms": 190350,
-      "name": "NO SKIPS",
-      "url": "https://open.spotify.com/track/3E1Z0oPXJ5ZkAktQhJPzhC"
+      "duration_ms": 169583,
+      "name": "YAHWEH",
+      "url": "https://open.spotify.com/track/2X8by6m44p9dpivzyzB14p"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -467,22 +471,18 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Anike",
-        "url": "https://open.spotify.com/album/6PzZRVqEuFrt2U6f5j4yEf"
+        "name": "NO SKIPS / GOOD OLD DAYS",
+        "url": "https://open.spotify.com/album/4igdFeAJW7MrQZ2bDxcm8X"
       },
       "artists": [
         {
-          "name": "Anike",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        },
-        {
-          "name": "Porsha Love",
-          "url": "https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG"
+          "name": "bodie",
+          "url": "https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC"
         }
       ],
-      "duration_ms": 169583,
-      "name": "YAHWEH",
-      "url": "https://open.spotify.com/track/2X8by6m44p9dpivzyzB14p"
+      "duration_ms": 190350,
+      "name": "NO SKIPS",
+      "url": "https://open.spotify.com/track/3E1Z0oPXJ5ZkAktQhJPzhC"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "KEEP MOVING",
-        "url": "https://open.spotify.com/album/1KJHczPnIT7ZE5gxhFBj0j"
-      },
-      "artists": [
-        {
-          "name": "DC3",
-          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "KEEP MOVING",
-      "url": "https://open.spotify.com/track/45O7UAhY9CqEHyLwvWRwMS"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "GRACE!",
         "url": "https://open.spotify.com/album/1sKNlt0ATgaUIlxfh9k5ND"
       },
@@ -575,22 +559,18 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "ON MY OWN",
-        "url": "https://open.spotify.com/album/5JbeSse9g5Qpv4LVkVUs3G"
+        "name": "KEEP MOVING",
+        "url": "https://open.spotify.com/album/1KJHczPnIT7ZE5gxhFBj0j"
       },
       "artists": [
         {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
-        },
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "DC3",
+          "url": "https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf"
         }
       ],
-      "duration_ms": 128307,
-      "name": "ON MY OWN",
-      "url": "https://open.spotify.com/track/0XpMMyWhdU7AuBEuc3G01Z"
+      "duration_ms": 180000,
+      "name": "KEEP MOVING",
+      "url": "https://open.spotify.com/track/45O7UAhY9CqEHyLwvWRwMS"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -611,6 +591,26 @@
       "duration_ms": 230889,
       "name": "Turbulent Skies - INOY Remix; Fan Remix Contest Winner",
       "url": "https://open.spotify.com/track/0W4idZcj495GpBU2OyzM7z"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "ON MY OWN",
+        "url": "https://open.spotify.com/album/5JbeSse9g5Qpv4LVkVUs3G"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 128307,
+      "name": "ON MY OWN",
+      "url": "https://open.spotify.com/track/0XpMMyWhdU7AuBEuc3G01Z"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -651,30 +651,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "I'd Be Lying",
-        "url": "https://open.spotify.com/album/1Nx3COSHouV525o3E16uTZ"
-      },
-      "artists": [
-        {
-          "name": "ONE HOUSE",
-          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
-        },
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 154231,
-      "name": "I'd Be Lying",
-      "url": "https://open.spotify.com/track/5gSSBeFZLEnvoXMYVIiCzK"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/7tofoNXgN2AgkEeQ0mbKK1"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 226523,
       "name": "Goodness of God - Remix",
       "url": "https://open.spotify.com/track/0u2v7e57souRjQpso1c8vc"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "I'd Be Lying",
+        "url": "https://open.spotify.com/album/1Nx3COSHouV525o3E16uTZ"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 154231,
+      "name": "I'd Be Lying",
+      "url": "https://open.spotify.com/track/5gSSBeFZLEnvoXMYVIiCzK"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Say It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 196161,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "I'LL BELIEVE YOU",
         "url": "https://open.spotify.com/album/60Hdn7vnZayAHFbpv46TP3"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
+        "name": "Say It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
       },
       "artists": [
         {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
+      "duration_ms": 196161,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -863,6 +847,22 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
         "name": "RHYTHM",
         "url": "https://open.spotify.com/album/0ErAtlzxtHJ3laGBFlbsLZ"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 120023,
       "name": "RHYTHM",
       "url": "https://open.spotify.com/track/3uZR2lTKQHc9CRdjptdXkA"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
-        "name": "COMFORTER",
-        "url": "https://open.spotify.com/album/1yMwbTznm77BRUYdjMOT4f"
-      },
-      "artists": [
-        {
-          "name": "IMRHAN",
-          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "COMFORTER",
-      "url": "https://open.spotify.com/track/7oz86G4TGts39AteYoDn0F"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -911,6 +895,22 @@
       "duration_ms": 196291,
       "name": "365 (Running Back To You)",
       "url": "https://open.spotify.com/track/6kGBUzKcc4ij9hbHx5tXUZ"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "COMFORTER",
+        "url": "https://open.spotify.com/album/1yMwbTznm77BRUYdjMOT4f"
+      },
+      "artists": [
+        {
+          "name": "IMRHAN",
+          "url": "https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "COMFORTER",
+      "url": "https://open.spotify.com/track/7oz86G4TGts39AteYoDn0F"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
         "name": "Calling My Name",
         "url": "https://open.spotify.com/album/4IeX9q85ep83QsXB1LpN6j"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 168750,
       "name": "Calling My Name",
       "url": "https://open.spotify.com/track/6pzWAV0CjM025DvrUSR6uE"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
+        "name": "more like you",
+        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
+      },
+      "artists": [
+        {
+          "name": "Reed Deming",
+          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "more like you",
+      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
         "name": "Overcomer: The Remixes",
         "url": "https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 196738,
       "name": "Overcomer - Julie and Ruslan Remix",
       "url": "https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
-        "name": "more like you",
-        "url": "https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J"
-      },
-      "artists": [
-        {
-          "name": "Reed Deming",
-          "url": "https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "more like you",
-      "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1851,22 +1851,26 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Break Out",
-        "url": "https://open.spotify.com/album/6fHknY4BtYJ5qQ0AgK42wV"
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6i51R5QgBQu6ynxVLkpA0a"
       },
       "artists": [
         {
-          "name": "Rolling Hills Worship",
-          "url": "https://open.spotify.com/artist/19dCe1rplp2csOVqXF6J0M"
+          "name": "Sound Haven",
+          "url": "https://open.spotify.com/artist/1kwQGKUN2oMZi8TpPf7Bag"
         },
         {
-          "name": "Jennifer Akers",
-          "url": "https://open.spotify.com/artist/5xPxDbZRCqgGDTNvMlVz8U"
+          "name": "Za Smith",
+          "url": "https://open.spotify.com/artist/4XtxlaWuCCmOs0MpZp4t7X"
+        },
+        {
+          "name": "Maddi Jane",
+          "url": "https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo"
         }
       ],
-      "duration_ms": 235580,
-      "name": "Break Out - Studio Single",
-      "url": "https://open.spotify.com/track/11aBOrLAA0yjNooqF3eWW8"
+      "duration_ms": 166862,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/6rGoI3PrGO9swDjo4CGHLs"
     }
   ],
   "unique_name": "Christian Party",

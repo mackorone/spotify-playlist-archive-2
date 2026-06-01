@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 94878,
+  "num_followers": 94886,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -471,18 +471,22 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Brother Joe",
-        "url": "https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN"
+        "name": "All of Your Stones",
+        "url": "https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy"
       },
       "artists": [
         {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+          "name": "The Steel Woods",
+          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
+        },
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Brother Joe",
-      "url": "https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w"
+      "duration_ms": 429488,
+      "name": "I Need You (feat. Ashley Monroe)",
+      "url": "https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -503,22 +507,18 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "All of Your Stones",
-        "url": "https://open.spotify.com/album/3Cv9M3aOY2sU7DMfq5QbMy"
+        "name": "Brother Joe",
+        "url": "https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN"
       },
       "artists": [
         {
-          "name": "The Steel Woods",
-          "url": "https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM"
-        },
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
         }
       ],
-      "duration_ms": 429488,
-      "name": "I Need You (feat. Ashley Monroe)",
-      "url": "https://open.spotify.com/track/4U7VPsgV5C3cz28kdWAT8u"
+      "duration_ms": 288000,
+      "name": "Brother Joe",
+      "url": "https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w"
     },
     {
       "added_at": "2026-04-10 16:28:54",

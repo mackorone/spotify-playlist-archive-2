@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Tiwa Savage ",
-  "num_followers": 91786,
+  "num_followers": 91818,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 147302,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9"
-      },
-      "artists": [
-        {
-          "name": "Chella",
-          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -983,30 +983,6 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
-        "name": "ROAD TO PARATI",
-        "url": "https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Jenerall",
-          "url": "https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x"
-        },
-        {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
-        }
-      ],
-      "duration_ms": 172631,
-      "name": "Stack",
-      "url": "https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
         "name": "1 WORK (Remix)",
         "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 136693,
       "name": "1 WORK - Remix",
       "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
+        "name": "ROAD TO PARATI",
+        "url": "https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Jenerall",
+          "url": "https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "Stack",
+      "url": "https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 169541,
+      "name": "Matter",
+      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
+    },
+    {
+      "added_at": "2026-05-29 00:01:58",
+      "album": {
         "name": "ORIGIN8A",
         "url": "https://open.spotify.com/album/0aaTaQX3Nu9Z5fdH7uZX5x"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2026-05-29 00:01:58",
       "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
+        "name": "Kupe",
+        "url": "https://open.spotify.com/album/0RuXzoq19CsSoT6VEqsfrW"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Teee Dollar",
+          "url": "https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd"
         }
       ],
-      "duration_ms": 169541,
-      "name": "Matter",
-      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
+      "duration_ms": 152105,
+      "name": "Kupe",
+      "url": "https://open.spotify.com/track/3DrxLfaqMuFOF1txHcmN9F"
     },
     {
       "added_at": "2026-05-29 00:01:58",
@@ -1419,22 +1435,6 @@
       "duration_ms": 180136,
       "name": "WYD",
       "url": "https://open.spotify.com/track/4wKM4gjReTiYbswQv23mFc"
-    },
-    {
-      "added_at": "2026-05-29 00:01:58",
-      "album": {
-        "name": "Kupe",
-        "url": "https://open.spotify.com/album/0RuXzoq19CsSoT6VEqsfrW"
-      },
-      "artists": [
-        {
-          "name": "Teee Dollar",
-          "url": "https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd"
-        }
-      ],
-      "duration_ms": 152105,
-      "name": "Kupe",
-      "url": "https://open.spotify.com/track/3DrxLfaqMuFOF1txHcmN9F"
     },
     {
       "added_at": "2026-05-29 00:01:58",

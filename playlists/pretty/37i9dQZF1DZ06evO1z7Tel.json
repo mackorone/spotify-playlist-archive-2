@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 39480,
+  "num_followers": 39486,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAAlp/hf4zTZ0CQsEIN6Fr/Y",
+  "snapshot_id": "ahoogAAAAAAYxrrFbpnqRiNXdTwh06k7",
   "tracks": [
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Otro Amor",
-        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
+        "name": "Es Imposible",
+        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 164826,
-      "name": "Dos Seres Que Se Aman",
-      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
+      "duration_ms": 168386,
+      "name": "Corrido De Cruz Estrada Aka Crucillo Estrada",
+      "url": "https://open.spotify.com/track/2fT6krdKBX5bWSm4mnsA3G"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Busca Otro Amor",
+        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Dos Seres Que Se Aman",
+      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 165280,
       "name": "El Rayo De Sinaloa",
       "url": "https://open.spotify.com/track/1t3CCfo0cJd77OBakt0Vim"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es Imposible",
-        "url": "https://open.spotify.com/album/459tUpIpt2G8td6hbszxCY"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 168386,
-      "name": "Corrido De Cruz Estrada Aka Crucillo Estrada",
-      "url": "https://open.spotify.com/track/2fT6krdKBX5bWSm4mnsA3G"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 227306,
-      "name": "Dos Cruces En La Curva",
-      "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
+      "duration_ms": 160813,
+      "name": "Los Dos Contrabandos",
+      "url": "https://open.spotify.com/track/5l4K1ifEJoN9zBYhlw1HkX"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
-        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
+        "name": "Nuestros 15 Exitos",
+        "url": "https://open.spotify.com/album/1GHMkn23Oq9AJoLwwiXPmv"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 183693,
-      "name": "Ramiro Y Miguel",
-      "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
+      "duration_ms": 191791,
+      "name": "La Noria Escondida",
+      "url": "https://open.spotify.com/track/0S0rgFudcFSKg3wVcoWjqR"
     },
     {
       "added_at": null,
@@ -744,15 +744,15 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 160813,
-      "name": "Los Dos Contrabandos",
-      "url": "https://open.spotify.com/track/5l4K1ifEJoN9zBYhlw1HkX"
+      "duration_ms": 227306,
+      "name": "Dos Cruces En La Curva",
+      "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros 15 Exitos",
-        "url": "https://open.spotify.com/album/1GHMkn23Oq9AJoLwwiXPmv"
+        "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
+        "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 191791,
-      "name": "La Noria Escondida",
-      "url": "https://open.spotify.com/track/0S0rgFudcFSKg3wVcoWjqR"
+      "duration_ms": 183693,
+      "name": "Ramiro Y Miguel",
+      "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
     },
     {
       "added_at": null,

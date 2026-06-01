@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,407 likes - 90 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,516 likes - 90 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 57 | [Tallo Tallo El Siyadi](https://open.spotify.com/track/19R3nkpFwmgJ9rVUhHGY1I) | [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT) | [Best Of Nasri Shamsedine](https://open.spotify.com/album/7KQav4kCbFKdschirLT49w) | 3:21 |
 | 58 | [Men Douwara La Douwara](https://open.spotify.com/track/1MRDz5Z3xTpq10yZL1dgVy) | [Samir Hanna](https://open.spotify.com/artist/1wQLIAsJsjPiOCrK2onDFW) | [Samir Hanna Sings Elias Rahbani, Vol\. 2](https://open.spotify.com/album/1jWBZVLtrIMaB81Q1s3SSs) | 3:29 |
 | 59 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 |
-| 60 | [Dakhlak wel hawa \- Remastered](https://open.spotify.com/track/1qj89M4ZVFDYP1sTcocBep) | [Toni Hanna](https://open.spotify.com/artist/0xedaSQFHyTb4CqdnleQ1q) | [The Best Of](https://open.spotify.com/album/4kQoGwncuB0SinfYZh5sP0) | 4:43 |
-| 61 | [Ya Samra Ya Tamr Hindi](https://open.spotify.com/track/4WwOrlzRUa0ENdJd3CetJx) | [Issam Raggi](https://open.spotify.com/artist/0fmsWX4FzxBaUgznwZm4fD) | [Issam Raggi](https://open.spotify.com/album/4L41rtbbP7WVUTnQIqJeeq) | 5:25 |
+| 60 | [Ya Samra Ya Tamr Hindi](https://open.spotify.com/track/4WwOrlzRUa0ENdJd3CetJx) | [Issam Raggi](https://open.spotify.com/artist/0fmsWX4FzxBaUgznwZm4fD) | [Issam Raggi](https://open.spotify.com/album/4L41rtbbP7WVUTnQIqJeeq) | 5:25 |
+| 61 | [Dakhlak wel hawa \- Remastered](https://open.spotify.com/track/1qj89M4ZVFDYP1sTcocBep) | [Toni Hanna](https://open.spotify.com/artist/0xedaSQFHyTb4CqdnleQ1q) | [The Best Of](https://open.spotify.com/album/4kQoGwncuB0SinfYZh5sP0) | 4:43 |
 | 62 | [Ya Miyet Halla](https://open.spotify.com/track/3gJrHg4YpvfsaNkIlW1YMM) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 3:07 |
 | 63 | [Habayebna Hawalayna](https://open.spotify.com/track/3mJetRKi2uyhXGE1j8NnF9) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Shta'na Aa Lebnan](https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd) | 4:10 |
 | 64 | [Etuel Omrak 2](https://open.spotify.com/track/6kLj4NqXvD9vraba7ZXSZY) | [Azar Habib](https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX) | [The Best of Azar Habib](https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV) | 5:29 |

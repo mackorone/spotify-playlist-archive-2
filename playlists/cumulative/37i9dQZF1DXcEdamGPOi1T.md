@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-517 songs - 1 day 3 hr 18 min
+518 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 | 2024-08-16 |  |
 | [Solar Power](https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/0pAF4Jr6MPQ2u0vqG2VOjd) | 3:12 | 2022-05-27 | 2022-07-28 |
 | [Soleil](https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Soleil](https://open.spotify.com/album/5IwocCJFXNPDoBVSY88Bcw) | 2:11 | 2026-05-29 |  |
+| [Soleil dans ma tête](https://open.spotify.com/track/62j5dQuXwRnUOZGoDhwBOd) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Soleil dans ma tête](https://open.spotify.com/album/4wtfS8im6vop0N1u5EsDMj) | 2:30 | 2026-05-29 |  |
 | [Solo](https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Solo](https://open.spotify.com/album/4zX2oy6k4NLIThxb2Qp6LZ) | 2:34 | 2023-05-19 | 2023-08-19 |
 | [Solo Night](https://open.spotify.com/track/3uBsKpfduBQH3urCb4Z05y) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [The Paradise Club](https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7) | 3:12 | 2022-05-27 | 2022-07-29 |
 | [Somebody First](https://open.spotify.com/track/4V29VOY4hJvJbjuVXBXzSG) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:44 | 2023-08-25 | 2023-09-16 |
@@ -493,7 +494,7 @@
 | [Univers](https://open.spotify.com/track/4b5mmyOtZQZR8RsmKuKohL) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Univers](https://open.spotify.com/album/7diFYGJ5FZ6x3iYwM5jJAn) | 2:24 | 2026-05-04 |  |
 | [UP](https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [UP](https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy) | 2:28 | 2022-05-27 | 2022-07-29 |
 | [Vaslaw](https://open.spotify.com/track/53IQ9t3XO4WibuAB92SJDV) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va) | 4:34 | 2022-05-27 | 2022-07-23 |
-| [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 | 2024-06-14 |  |
+| [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 | 2024-06-14 | 2026-06-01 |
 | [Vraiment](https://open.spotify.com/track/7J3cONRfk18KhNX08k8Ydk) | [Olivier Dion](https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em) | [Vraiment](https://open.spotify.com/album/6H4NS2GCkvTMRQNUdtj8bY) | 2:47 | 2022-06-03 | 2023-05-06 |
 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 | 2022-07-26 | 2024-04-19 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2024-03-29 | 2026-05-30 |

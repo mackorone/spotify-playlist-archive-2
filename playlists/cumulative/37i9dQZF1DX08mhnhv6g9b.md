@@ -4,7 +4,7 @@
 
 > Check out BTS's <a href="https://open.spotify.com/track/5REQfCD9ZRdEedJI5SWSEa?si=9eJTL\-8PRHOIUiFx4ln41Q&pi=\-1cSpwezSo2dP">'SWIM'</a> music video!
 
-558 songs - 1 day 8 hr 41 min
+559 songs - 1 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [No More Dream](https://open.spotify.com/track/27S8iOXD7Z58yvJtyk2S9j) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:42 | 2022-06-20 | 2022-06-22 |
 | [No\. 29](https://open.spotify.com/track/31fmJmXLPdIax9kLUIvFKh) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN) | 1:38 | 2026-03-20 |  |
 | [NORMAL](https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 3:01 | 2026-03-20 |  |
+| [NORMAL \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/track/15rwL0jnoGk8n2kmYY8DP0) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [NORMAL \(Live at Pier 17\) \| Presented by Spotify](https://open.spotify.com/album/1ZHVo1MDKy7BXmLASfqc2C) | 3:11 | 2026-04-07 |  |
 | [Not Today](https://open.spotify.com/track/3wyrhwPpV8uhMMEms4vG3X) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [You Never Walk Alone](https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb) | 3:51 | 2022-05-27 |  |
 | [Not Today](https://open.spotify.com/track/7KlTFTpy7dXLzr2NtLkvG6) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [YOU NEVER WALK ALONE](https://open.spotify.com/album/64WayBZ9Mrx8iGOpME5vpI) | 3:51 | 2022-06-10 | 2022-06-18 |
 | [Old Town Road \(feat\. RM of BTS\) \- Seoul Town Road Remix](https://open.spotify.com/track/6woeVu3fVMflqen1t4N6pg) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Old Town Road \(feat\. RM of BTS\) \[Seoul Town Road Remix\]](https://open.spotify.com/album/7CQho9XJ69KLTUdM9vUZyW) | 1:54 | 2022-06-03 |  |

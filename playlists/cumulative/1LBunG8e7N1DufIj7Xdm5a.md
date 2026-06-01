@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,424 songs - 9 day 20 hr 24 min
+4,425 songs - 9 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3806,6 +3806,7 @@
 | [THE FLYEST](https://open.spotify.com/track/6rPCj41IqJ6yfrftv1BbDE) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Viceroy](https://open.spotify.com/album/6qQPlbeJBHwJd0iAzpmdoU) | 2:37 | 2025-07-28 |  |
 | [The Futurists](https://open.spotify.com/track/7yBwBDKpP4pZtXhceHoM8j) | [Popgang](https://open.spotify.com/artist/69jNhtjLutxw7rGbsiqcGS) | [The Futurists](https://open.spotify.com/album/3B3Bmi61QL0jPz7sWh7c25) | 4:09 | 2025-09-24 |  |
 | [The Garden](https://open.spotify.com/track/2qxHPdPGlS57jEEaOZEe82) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [The Garden](https://open.spotify.com/album/7fkzC9YeVBhfFBPyeqm9wY) | 3:11 | 2021-03-15 |  |
+| [The Garden](https://open.spotify.com/track/4WjDvfgvB7M6K7sH9K5gN6) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [The Garden](https://open.spotify.com/album/50oev5lys8ubDpTo5oCxJ7) | 2:10 | 2026-05-31 |  |
 | [The Ghost Pirate](https://open.spotify.com/track/0Pb35kHuAwFQTH054uY2cJ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [The Ghost Pirate](https://open.spotify.com/album/6uxrv6u2UsLyvbNMFlzCaU) | 3:11 | 2025-12-10 |  |
 | [The Glass Is Your Friend \(Padel Song\)](https://open.spotify.com/track/3L6mTCCK0Ntj1QhJu5pDpn) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [The Glass Is Your Friend \(Padel Song\)](https://open.spotify.com/album/3sDMC57oljLQWOniNRwskJ) | 2:21 | 2025-12-10 |  |
 | [The Good Life](https://open.spotify.com/track/4nERZsgNIxAuM3bEs9kLVB) | [Raffaele Tremante](https://open.spotify.com/artist/4d8ojEqg8n52KpP8TA7hLv) | [The Good Life](https://open.spotify.com/album/1zJq4KC0Xs0jRjQjeuFSul) | 2:58 | 2025-06-04 |  |

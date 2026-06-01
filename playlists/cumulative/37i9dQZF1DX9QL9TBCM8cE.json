@@ -1623,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS \"CANVAS\" 03",
+        "url": "https://open.spotify.com/album/2VWsU3SNlScdb1DQXVl5GJ"
+      },
+      "artists": [
+        {
+          "name": "HO-KA-GO CLIMAX GIRLS",
+          "url": "https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz"
+        }
+      ],
+      "date_added": "2025-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231106,
+      "name": "\u3072\u3081\u304f\u308a\u30e2\u30b6\u30a4\u30af",
+      "url": "https://open.spotify.com/track/3UU8p5JjvFWUUJCcMuxmvK"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Luna- (2022 Version)",
         "url": "https://open.spotify.com/album/0PC9a1J3ae1N0yrTXJS2kT"
       },
@@ -2014,7 +2032,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-05",
+      "date_removed": null,
       "duration_ms": 222746,
       "name": "\u30cf\u30ca\u30de\u30eb\u30d0\u30c3\u30b8",
       "url": "https://open.spotify.com/track/5EweKwXSbpybdUQ3svvit5"
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 214306,
       "name": "\u30ea\u30d5\u30ec\u30af\u30c8\u30b5\u30a4\u30f3 - 2022 Version",
       "url": "https://open.spotify.com/track/4gGz2TCwkSQZxGh4x5mjv3"
@@ -2336,7 +2354,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 227973,
       "name": "\u5168\u529b\u30a2\u30f3\u30b5\u30fc",
       "url": "https://open.spotify.com/track/31SFzLw1GuO4osjopWgYqW"
@@ -2426,7 +2444,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 291520,
       "name": "\u592a\u967d\u30ad\u30c3\u30b9",
       "url": "https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M"
@@ -3228,7 +3246,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 249506,
       "name": "\u9769\u547d\u9032\u5316\u8ad6 - 2023 Version",
       "url": "https://open.spotify.com/track/6er0j8UjDyjlN51WUjodpO"

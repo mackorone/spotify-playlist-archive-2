@@ -1,12 +1,12 @@
 {
   "description": "This is Sofie Birch. The essential tracks, all in one playlist.",
-  "num_followers": 198,
+  "num_followers": 199,
   "original_name": "This Is Sofie Birch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAADFKiOor3vMRQhGIizjiwUT",
+  "snapshot_id": "ahoogAAAAACeSJu0eYnXrm0egvfmkf8q",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Comes with sunrise",
-      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
+      "duration_ms": 213253,
+      "name": "N\u00f8kken",
+      "url": "https://open.spotify.com/track/4U3HMHRavamml1N4hv5wjl"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 213253,
-      "name": "N\u00f8kken",
-      "url": "https://open.spotify.com/track/4U3HMHRavamml1N4hv5wjl"
+      "duration_ms": 199093,
+      "name": "Comes with sunrise",
+      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
     },
     {
       "added_at": null,
@@ -499,22 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
       "artists": [
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 101775,
-      "name": "Me of Ocean",
-      "url": "https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT"
+      "duration_ms": 618138,
+      "name": "Myg",
+      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
     },
     {
       "added_at": null,
@@ -539,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
       "artists": [
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 618138,
-      "name": "Myg",
-      "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
+      "duration_ms": 101775,
+      "name": "Me of Ocean",
+      "url": "https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT"
     },
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
       },
       "artists": [
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 107015,
-      "name": "Behind the Hill",
-      "url": "https://open.spotify.com/track/42kuJapejU5G2RATHD1sCY"
+      "duration_ms": 1190161,
+      "name": "Whisper Fold Brush, Pt. One",
+      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
     },
     {
       "added_at": null,
@@ -611,18 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
       "artists": [
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 1190161,
-      "name": "Whisper Fold Brush, Pt. One",
-      "url": "https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk"
+      "duration_ms": 107015,
+      "name": "Behind the Hill",
+      "url": "https://open.spotify.com/track/42kuJapejU5G2RATHD1sCY"
     },
     {
       "added_at": null,
@@ -639,46 +639,6 @@
       "duration_ms": 274115,
       "name": "Begin Sync End",
       "url": "https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 295789,
-      "name": "The Journey",
-      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2nd Quake",
-        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
-      },
-      "artists": [
-        {
-          "name": "OTOOTO",
-          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
-        },
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 234502,
-      "name": "Runge",
-      "url": "https://open.spotify.com/track/1ox3vHoIccsiV7t86Zw3RF"
     },
     {
       "added_at": null,
@@ -707,6 +667,46 @@
       "duration_ms": 704359,
       "name": "Miocene",
       "url": "https://open.spotify.com/track/2y2YE8SUxYf0tNkhcZucG9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2nd Quake",
+        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
+      },
+      "artists": [
+        {
+          "name": "OTOOTO",
+          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
+        },
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 234502,
+      "name": "Runge",
+      "url": "https://open.spotify.com/track/1ox3vHoIccsiV7t86Zw3RF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 295789,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Island Alchemy",
-        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+        "name": "Whisper Fold Brush",
+        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 413882,
-      "name": "Slow Piru",
-      "url": "https://open.spotify.com/track/40rypDZRUKDNpnNDxTfh54"
+      "duration_ms": 1107159,
+      "name": "Whisper Fold Brush, Pt. Two",
+      "url": "https://open.spotify.com/track/5fObGDdLnL4AmGJb1OxEEF"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whisper Fold Brush",
-        "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
       },
       "artists": [
         {
@@ -804,45 +804,9 @@
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
         }
       ],
-      "duration_ms": 1107159,
-      "name": "Whisper Fold Brush, Pt. Two",
-      "url": "https://open.spotify.com/track/5fObGDdLnL4AmGJb1OxEEF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2nd Quake",
-        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
-      },
-      "artists": [
-        {
-          "name": "OTOOTO",
-          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
-        },
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 185870,
-      "name": "Lace",
-      "url": "https://open.spotify.com/track/5PEiAHjdDWcyzVfY7b63o6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planetes",
-        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 712522,
-      "name": "Hills Bells Mother",
-      "url": "https://open.spotify.com/track/7fATVAuieODEabRB4txujc"
+      "duration_ms": 344827,
+      "name": "Mu Evans",
+      "url": "https://open.spotify.com/track/2LVsWugKQqpmM8oo2mIF3Q"
     },
     {
       "added_at": null,
@@ -863,6 +827,58 @@
       "duration_ms": 248154,
       "name": "Arch",
       "url": "https://open.spotify.com/track/7J3rIJQfGotyvvtYD7ncYC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planetes",
+        "url": "https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 712522,
+      "name": "Hills Bells Mother",
+      "url": "https://open.spotify.com/track/7fATVAuieODEabRB4txujc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Island Alchemy",
+        "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 413882,
+      "name": "Slow Piru",
+      "url": "https://open.spotify.com/track/40rypDZRUKDNpnNDxTfh54"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2nd Quake",
+        "url": "https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB"
+      },
+      "artists": [
+        {
+          "name": "OTOOTO",
+          "url": "https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ"
+        },
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 185870,
+      "name": "Lace",
+      "url": "https://open.spotify.com/track/5PEiAHjdDWcyzVfY7b63o6"
     },
     {
       "added_at": null,

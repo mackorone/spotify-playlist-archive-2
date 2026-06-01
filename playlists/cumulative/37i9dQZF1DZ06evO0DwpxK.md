@@ -4,7 +4,7 @@
 
 > This is HUMBE\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 14 min
+84 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Encerrados](https://open.spotify.com/track/3bLEc8iw4wZqMFb6MFB7Bg) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:36 | 2023-11-10 | 2024-12-07 |
 | [ESENCIA](https://open.spotify.com/track/3r0eidnhTQ0a33kdfjzFoJ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 5:05 | 2023-11-10 |  |
 | [fantasmas](https://open.spotify.com/track/16OhThzklXn3xI3iNzcIus) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1vAsU8qdTEo5YzOduO9Uce) | 4:47 | 2025-03-30 | 2026-02-14 |
-| [fantasmas](https://open.spotify.com/track/4mmt6QpIOOn5ySzKWB6qOB) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 4:47 | 2026-02-25 |  |
+| [fantasmas](https://open.spotify.com/track/3iTVjevexCuVrBwmkR4qJc) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/7h9iBBAZPjCnpStB4XXLgx) | 4:47 | 2026-06-01 |  |
+| [fantasmas](https://open.spotify.com/track/4mmt6QpIOOn5ySzKWB6qOB) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 4:47 | 2026-02-25 | 2026-06-01 |
 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2023-12-13 | 2025-03-30 |
 | [Ganas de Verte](https://open.spotify.com/track/0F84fAwNfEGg9ZIJZCf8cE) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:07 | 2023-11-10 | 2025-03-21 |
 | [HARRY STAMPER](https://open.spotify.com/track/54oMTaZ94z2bwgQccWfc15) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 3:12 | 2025-12-08 |  |
@@ -52,7 +53,7 @@
 | [mamá](https://open.spotify.com/track/2JW4s3HaqPerHX3R644sIG) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:29 | 2023-11-10 |  |
 | [MANIFIESTO](https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:05 | 2023-11-10 | 2025-12-18 |
 | [MI 100](https://open.spotify.com/track/2RHOPfMWLM2iqf6rPo1Ymw) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:36 | 2026-04-16 |  |
-| [Morfina](https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Morfina](https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n) | 5:50 | 2025-11-13 |  |
+| [Morfina](https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Morfina](https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n) | 5:50 | 2025-11-13 | 2026-06-01 |
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/22D72L2NnJJkI5m1g3pXnj) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:05 | 2023-11-10 |  |
 | [MURALLAS](https://open.spotify.com/track/6vAdKhF0MrtHo32J0rRySQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 8:12 | 2025-12-09 | 2025-12-10 |
 | [novatos](https://open.spotify.com/track/0XwJGj1tXy2IvacjPZ3dDe) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 2:28 | 2024-12-01 |  |

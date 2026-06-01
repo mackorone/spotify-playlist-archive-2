@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 239072,
+  "num_followers": 239106,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
-        "name": "Rediscovery",
-        "url": "https://open.spotify.com/album/5WKbd9lbctdAXcjwK2X4PV"
-      },
-      "artists": [
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        }
-      ],
-      "duration_ms": 297231,
-      "name": "Loved By Love",
-      "url": "https://open.spotify.com/track/2fGaAHVN3P45yLBLAjd3mi"
-    },
-    {
-      "added_at": "2026-04-17 06:51:16",
-      "album": {
         "name": "How To Start A Housefire (Pt. III)",
         "url": "https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 415598,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
+    },
+    {
+      "added_at": "2026-04-17 06:51:16",
+      "album": {
+        "name": "Rediscovery",
+        "url": "https://open.spotify.com/album/5WKbd9lbctdAXcjwK2X4PV"
+      },
+      "artists": [
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "duration_ms": 297231,
+      "name": "Loved By Love",
+      "url": "https://open.spotify.com/track/2fGaAHVN3P45yLBLAjd3mi"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
-        "name": "Canvas And Clay (Live)",
-        "url": "https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        }
-      ],
-      "duration_ms": 383560,
-      "name": "You're Making Something Beautiful - Spontaneous/Live",
-      "url": "https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr"
-    },
-    {
-      "added_at": "2026-04-17 06:51:16",
-      "album": {
         "name": "Never Going Back",
         "url": "https://open.spotify.com/album/4XuXyNQX9VnoxPMjQ0kk6H"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 260213,
       "name": "Oh The Wonder (feat. Mike Grayson)",
       "url": "https://open.spotify.com/track/3z0MhWhSeSiSyPUTfDr5zj"
+    },
+    {
+      "added_at": "2026-04-17 06:51:16",
+      "album": {
+        "name": "Canvas And Clay (Live)",
+        "url": "https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        }
+      ],
+      "duration_ms": 383560,
+      "name": "You're Making Something Beautiful - Spontaneous/Live",
+      "url": "https://open.spotify.com/track/7ygTUmAS6ZgoNVC5fEiFLr"
     },
     {
       "added_at": "2026-04-17 06:51:16",

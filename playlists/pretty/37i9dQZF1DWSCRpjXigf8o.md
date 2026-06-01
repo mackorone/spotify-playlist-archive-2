@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,939 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,940 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 56 | [Bloom feat\. KIKI](https://open.spotify.com/track/6BsLjqplB626oHZbQvSndr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Silent Storm](https://open.spotify.com/album/3DzHNZiuvnAX0TK8uAc3Os) | 3:26 |
 | 57 | [ネイルの島](https://open.spotify.com/track/3Uic3fYiF1ZvjiRyv9ovj2) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [ネイルの島](https://open.spotify.com/album/6c7E6ubEWrIQ2BVH3dsOc9) | 3:41 |
 | 58 | [junior](https://open.spotify.com/track/5DeQBAPTltJreKfwiBJDyh) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [jones](https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs) | 4:28 |
-| 59 | [covent garden](https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [covent garden](https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH) | 3:01 |
+| 59 | [Museum of My Mess](https://open.spotify.com/track/30beBjOCmvuAed4eT872rt) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ) | 4:29 |
 | 60 | [カラタチの夢](https://open.spotify.com/track/7o0IZeK9qnfNdjxx4TaMNL) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [カラタチの夢](https://open.spotify.com/album/2fSTHMm7zKp834JHdcGcY4) | 3:29 |
-| 61 | [Museum of My Mess](https://open.spotify.com/track/30beBjOCmvuAed4eT872rt) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ) | 4:29 |
+| 61 | [covent garden](https://open.spotify.com/track/0YIiDc0bIbvm2doecnf7fU) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [covent garden](https://open.spotify.com/album/4fz69J654PbUgnq2vkZzVH) | 3:01 |
 | 62 | [I Love Me Now](https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T) | [Childish](https://open.spotify.com/artist/7ILJcS2uY2VevOMgm83nqf), [Wes Reeve](https://open.spotify.com/artist/57PSuIwuvvlbNtcG4LtnGV), [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E), [Zalma](https://open.spotify.com/artist/7babJi39oEVpXicBIzFQzT), [Floro](https://open.spotify.com/artist/0yvd3GXMKpg82pnDNEQjGq) | [I Love Me Now](https://open.spotify.com/album/5HFMjggZPqo2Q3ePQRDUYK) | 4:36 |
 | 63 | [Caterpillar](https://open.spotify.com/track/4Er5MHdgvsfc2zvqOMQRyI) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Caterpillar](https://open.spotify.com/album/4S1zoniwS9PvDJ6n2GJW8i) | 2:49 |
 | 64 | [唄が歩く時](https://open.spotify.com/track/79EUfmvj3VwRlbzke3s4HO) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [唄が歩く時](https://open.spotify.com/album/4VAkCYiPGkPOPGdloGVZwY) | 3:50 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 67 | [Apple](https://open.spotify.com/track/0SvDsyzmibzVFrG3pl167V) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw) | [Apple](https://open.spotify.com/album/0LLoFRBwIW3CtFmzBF0MHu) | 4:08 |
 | 68 | [all my perfects](https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 3:38 |
 | 69 | [My Way Home](https://open.spotify.com/track/1PmHzy1AebjGRue4hYVkpM) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Wonder, Won't You?](https://open.spotify.com/album/3aVD5rqyzp6fzi4do8MI1y) | 3:37 |
-| 70 | [Pools of Colour](https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:48 |
-| 71 | [Move On](https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Move On](https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t) | 2:42 |
-| 72 | [FIVE](https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [FIVE](https://open.spotify.com/album/7DKZH8zqKxCRx43r1896I5) | 3:31 |
+| 70 | [FIVE](https://open.spotify.com/track/5ICTfedPA2JOufnA8TeeDU) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [FIVE](https://open.spotify.com/album/7DKZH8zqKxCRx43r1896I5) | 3:31 |
+| 71 | [Pools of Colour](https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:48 |
+| 72 | [Move On](https://open.spotify.com/track/09PNPXGzX8BQuCcbpDz3ul) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Move On](https://open.spotify.com/album/1MSNZN04MIYi6g61BXO54t) | 2:42 |
 | 73 | [So am I](https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Love me tender](https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf) | 4:31 |
 | 74 | [栃木](https://open.spotify.com/track/2vLeNRYH7SaI1nNFzef2lA) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [栃木](https://open.spotify.com/album/4OQvjxlUGnkFHo6tCZftwE) | 3:49 |
 | 75 | [TOO MUCH TOO SOON](https://open.spotify.com/track/49t61aRaNkwrBc9A6uMhtq) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [TOO MUCH TOO SOON](https://open.spotify.com/album/2cqHjTfmhgn2OOVqvA6OHW) | 3:46 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 81 | [ceremony](https://open.spotify.com/track/4PP7K0az3fUMKGez4yDkMk) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [ceremony](https://open.spotify.com/album/77msxPT6qZ75VPxAUJsmIL) | 4:35 |
 | 82 | [鼓動](https://open.spotify.com/track/33HrWYjijsnYrjiETDlHEk) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [鼓動](https://open.spotify.com/album/47YNWei4YtzRWYs5eYNvRR) | 2:41 |
 | 83 | [夢にならないように](https://open.spotify.com/track/7FZEAOoUYZiIhvQCxzUPV0) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢にならないように](https://open.spotify.com/album/6fselSaEhSSEmnzcEyNfTV) | 4:28 |
-| 84 | [Place Your Hands](https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Place Your Hands](https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh) | 3:15 |
-| 85 | [Time](https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [TIME](https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES) | 2:25 |
+| 84 | [Time](https://open.spotify.com/track/6SxkiETU36VnbiJk9jNxQ8) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [TIME](https://open.spotify.com/album/1TWjKSJNJ7WUbSxSqelrES) | 2:25 |
+| 85 | [Place Your Hands](https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Place Your Hands](https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh) | 3:15 |
 | 86 | [maybe](https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [maybe](https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF) | 3:41 |
 | 87 | [Tanana](https://open.spotify.com/track/5U1bU8Km0S3jrMfY0udtsu) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N), [Clémentine](https://open.spotify.com/artist/6A03sWpZmAsYFVV5f6IGVQ) | [スタジオ地図 Music Journey Vol\. 2 \- 高木正勝 うたの時間](https://open.spotify.com/album/5nV7q6plyHYqgHdWlTHDl4) | 3:31 |
 | 88 | [朝日のあたる道](https://open.spotify.com/track/5jEMga8fWv3tNHVq2EISKr) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [オリジナルラヴ・アーリーコンプリート](https://open.spotify.com/album/6HlglVJs9ZhhqlN42ocK26) | 5:03 |

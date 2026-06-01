@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 115042,
+  "num_followers": 115057,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,18 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+        "name": "SWAG MUSIC",
+        "url": "https://open.spotify.com/album/2UXBH30efrkteg2hSfUB10"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         }
       ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+      "duration_ms": 172714,
+      "name": "SWAG MUSIC",
+      "url": "https://open.spotify.com/track/3QGY1Tr2MePboAxYtsdbn4"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -159,18 +155,22 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
-        "name": "SWAG MUSIC",
-        "url": "https://open.spotify.com/album/2UXBH30efrkteg2hSfUB10"
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
       "artists": [
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 172714,
-      "name": "SWAG MUSIC",
-      "url": "https://open.spotify.com/track/3QGY1Tr2MePboAxYtsdbn4"
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
+        "name": "LA BELLAVITA",
+        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "SOGNO AMERICANO",
+      "url": "https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
         "name": "Tu Me Quieres",
         "url": "https://open.spotify.com/album/7DCQMEasHZn2y5VHAmSlBF"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 214285,
       "name": "Tu Me Quieres - Prod. by Higashi x Roberto Ferrante",
       "url": "https://open.spotify.com/track/00URgxWgyVoybGLhhmKr7g"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
-        "name": "LA BELLAVITA",
-        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "SOGNO AMERICANO",
-      "url": "https://open.spotify.com/track/7i0zYckMTyvLyKAFxfOKIS"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -547,6 +547,26 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 151515,
+      "name": "Soldi Arrotolati (feat. ANNA)",
+      "url": "https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
         "name": "Nerissima",
         "url": "https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 147396,
       "name": "Bacio del Cobra (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/00b18mcpPYwLZtFYWqbDgN"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
-        "name": "FERITE",
-        "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 151515,
-      "name": "Soldi Arrotolati (feat. ANNA)",
-      "url": "https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
+        "name": "Bossoli",
+        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Bossoli",
+      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
         "name": "SCUGNIZZI X SEMPRE",
         "url": "https://open.spotify.com/album/1KAwVf1Z880lPfgDXSVCkM"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 121804,
       "name": "ZE PEQUENO",
       "url": "https://open.spotify.com/track/0BTaf9B2reL6S8Ep82XMcO"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
-        "name": "Bossoli",
-        "url": "https://open.spotify.com/album/6DkNp8K9LeYR2xryLdW7Sq"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Bossoli",
-      "url": "https://open.spotify.com/track/5mn8bU8IjYqr8ZqTDmLtSO"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
-        "name": "Going Hard 3",
-        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Codeine (feat. ANNA)",
-      "url": "https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 119217,
       "name": "BIKINI (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
+        "name": "Going Hard 3",
+        "url": "https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "Codeine (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2fgOUiGsgelBOjH8ZTSJHs"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
-        "name": "FERITE",
-        "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        }
-      ],
-      "duration_ms": 157168,
-      "name": "Fino All'Alba",
-      "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
         "name": "Suavemente",
         "url": "https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 157714,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
+        "name": "FERITE",
+        "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        }
+      ],
+      "duration_ms": 157168,
+      "name": "Fino All'Alba",
+      "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -1275,6 +1275,30 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
+        "name": "TAXI SULLA LUNA",
+        "url": "https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        },
+        {
+          "name": "Takagi & Ketra",
+          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "TAXI SULLA LUNA",
+      "url": "https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
         "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
         "url": "https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e"
       },
@@ -1303,30 +1327,6 @@
       "duration_ms": 265637,
       "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
-        "name": "TAXI SULLA LUNA",
-        "url": "https://open.spotify.com/album/1Q2gs2NTXULiFqwCiv5JdG"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Emma",
-          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
-        },
-        {
-          "name": "Takagi & Ketra",
-          "url": "https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "TAXI SULLA LUNA",
-      "url": "https://open.spotify.com/track/0JONs2ETXIHvYVxNris8Bf"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
-        "name": "Supercar",
-        "url": "https://open.spotify.com/album/0NP8M8kOGShVj1YQrvN2sf"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9za",
-          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
-        },
-        {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "Supercar",
-      "url": "https://open.spotify.com/track/45Z5FthR22V4kAe49KLke1"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
         "name": "VIDA LOCA (feat. Medy)",
         "url": "https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 182067,
       "name": "VIDA LOCA (feat. Medy)",
       "url": "https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
+        "name": "Supercar",
+        "url": "https://open.spotify.com/album/0NP8M8kOGShVj1YQrvN2sf"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "Supercar",
+      "url": "https://open.spotify.com/track/45Z5FthR22V4kAe49KLke1"
     },
     {
       "added_at": "2026-05-21 23:01:21",
@@ -1851,6 +1851,26 @@
     {
       "added_at": "2026-05-21 23:01:21",
       "album": {
+        "name": "Anno Zero",
+        "url": "https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr"
+      },
+      "artists": [
+        {
+          "name": "Icy Subzero",
+          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "DONNA VERA (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/5U3MS2PddLtfkwx3eJZmt8"
+    },
+    {
+      "added_at": "2026-05-21 23:01:21",
+      "album": {
         "name": "In Piazza",
         "url": "https://open.spotify.com/album/4yVlp28f83eK8Sg2T2Lqw6"
       },
@@ -1871,26 +1891,6 @@
       "duration_ms": 183801,
       "name": "In Piazza",
       "url": "https://open.spotify.com/track/3N0cYpWubd9hAUApJDcLRw"
-    },
-    {
-      "added_at": "2026-05-21 23:01:21",
-      "album": {
-        "name": "Anno Zero",
-        "url": "https://open.spotify.com/album/7shtYxDm2JIN1hmypbmYBr"
-      },
-      "artists": [
-        {
-          "name": "Icy Subzero",
-          "url": "https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "DONNA VERA (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/5U3MS2PddLtfkwx3eJZmt8"
     },
     {
       "added_at": "2026-05-21 23:01:21",

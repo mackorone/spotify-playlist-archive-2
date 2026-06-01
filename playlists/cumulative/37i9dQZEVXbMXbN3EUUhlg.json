@@ -3946,7 +3946,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 204080,
       "name": "At\u00e9 Voc\u00ea Voltar - Ao Vivo",
       "url": "https://open.spotify.com/track/4ksSf8cL3VlUvQSkFcRHy3"
@@ -4166,7 +4166,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -5090,7 +5090,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 247980,
       "name": "Beatriz",
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
@@ -5634,7 +5634,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -10718,7 +10718,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 198823,
       "name": "Direitos Iguais - Ao Vivo",
       "url": "https://open.spotify.com/track/0dNNhmOSnE6fOcXkNRO3uF"
@@ -13354,6 +13354,24 @@
       "duration_ms": 134932,
       "name": "Eu N\u00e3o Previ - Ao Vivo em Goi\u00e2nia",
       "url": "https://open.spotify.com/track/3S8M3mZGIc10IdtmNTsrjQ"
+    },
+    {
+      "album": {
+        "name": "Alian\u00e7a - Vol.2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ejLnHri909csVlNncBvyD"
+      },
+      "artists": [
+        {
+          "name": "Danilo e Davi",
+          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "Eu N\u00e3o Sou Terapia - Ao Vivo",
+      "url": "https://open.spotify.com/track/43M2EwcFfSxthlO3E58Men"
     },
     {
       "album": {
@@ -21997,6 +22015,28 @@
     },
     {
       "album": {
+        "name": "Mente S\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1kgtcBaKHNzz1Xl3SdDPg5"
+      },
+      "artists": [
+        {
+          "name": "Kaique e Felipe",
+          "url": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh"
+        },
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156220,
+      "name": "Mente S\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/2v5zIiTacPZrueyo4wRYtv"
+    },
+    {
+      "album": {
         "name": "Country Sessions 2",
         "url": "https://open.spotify.com/album/68OY0mYlWfoIDE30464mi6"
       },
@@ -29228,7 +29268,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 163674,
       "name": "Ponto G",
       "url": "https://open.spotify.com/track/2nFxi81mANa6dtAWR8admj"
@@ -32686,7 +32726,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 192034,
       "name": "Seja Ex (Ao Vivo)",
       "url": "https://open.spotify.com/track/5jP9oqulg2Dz6yLwLYj5KO"
@@ -41414,7 +41454,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 163722,
       "name": "\u00c9 Que Eu N\u00e3o Te Esqueci \ud83d\udc94",
       "url": "https://open.spotify.com/track/3D71jvd5cyuaW5c3jBCw4i"

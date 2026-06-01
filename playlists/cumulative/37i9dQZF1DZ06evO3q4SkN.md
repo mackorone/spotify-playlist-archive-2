@@ -4,7 +4,7 @@
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-167 songs - 4 hr 59 min
+168 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Let’s Go Find Dora’s Parents](https://open.spotify.com/track/2lVD90NcI0ghjPeruIAS0P) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 1:08 | 2023-08-31 | 2025-11-07 |
 | [Mad Because You Are Leaving](https://open.spotify.com/track/5to0lOyg0gqupUiQLLXgV9) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 1:08 | 2023-05-05 | 2026-05-24 |
 | [Making Friends](https://open.spotify.com/track/7fuu4486VYc6FGKVPyVyia) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 0:46 | 2023-05-12 | 2024-06-11 |
+| [Mali Arrives](https://open.spotify.com/track/3LMyBmQ96e8NISyZajigC9) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 1:01 | 2026-06-01 |  |
 | [Margarita Buys a Ticket](https://open.spotify.com/track/7huIymf44gWwlfa5Yv4yHF) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 1:01 | 2023-05-05 | 2023-11-11 |
 | [Margarita's Cha Cha](https://open.spotify.com/track/6nDOL5nhJUk9MCf8PjewZG) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 2:10 | 2024-07-27 |  |
 | [Margarita's Fantasy](https://open.spotify.com/track/6qLONqjljMGxxEQnlIjk7o) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 0:32 | 2025-04-05 | 2026-05-12 |
@@ -119,7 +120,7 @@
 | [Not It](https://open.spotify.com/track/4qQYUXly5uyHi10uLkaRha) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Tag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US) | 1:19 | 2023-12-18 | 2026-05-25 |
 | [Opera House](https://open.spotify.com/track/08lXo0ES201xImrPw8f6hg) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 1:06 | 2023-05-09 | 2025-11-05 |
 | [Riding Into the Sunset](https://open.spotify.com/track/1E9wL6Fko0s380amDh51T0) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 0:40 | 2023-08-07 | 2025-07-26 |
-| [Riding to School](https://open.spotify.com/track/7CNFYryrbakDS0tQ0LxWOH) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 0:59 | 2026-05-31 |  |
+| [Riding to School](https://open.spotify.com/track/7CNFYryrbakDS0tQ0LxWOH) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 0:59 | 2026-05-31 | 2026-06-01 |
 | [Roundhouse](https://open.spotify.com/track/11VT8c2XwdWgX91rMCgOBo) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Tag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US) | 1:11 | 2025-01-10 |  |
 | [Royal Barge Disaster](https://open.spotify.com/track/6fmRBaYCK3bUKUgQozL9fw) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:10 | 2024-05-02 | 2026-05-10 |
 | [Royal Car](https://open.spotify.com/track/2lsmyzXbFXVOsq91rMirAS) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 1:31 | 2023-05-05 | 2026-05-11 |

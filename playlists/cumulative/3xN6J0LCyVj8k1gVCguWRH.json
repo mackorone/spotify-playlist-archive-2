@@ -54449,6 +54449,28 @@
     },
     {
       "album": {
+        "name": "La Father",
+        "url": "https://open.spotify.com/album/7qWn6gizIQQA6WKHmkTKDW"
+      },
+      "artists": [
+        {
+          "name": "Vale Pintos",
+          "url": "https://open.spotify.com/artist/7DuOPzujoDWP8r3V5zYKM2"
+        },
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "La Father",
+      "url": "https://open.spotify.com/track/3TRQswuviiQVvyy5Q5uI7y"
+    },
+    {
+      "album": {
         "name": "Dakan",
         "url": "https://open.spotify.com/album/1qy1GJBNaiUnp65pHdI220"
       },
@@ -65736,6 +65758,24 @@
       "duration_ms": 232000,
       "name": "Moon In The Sky",
       "url": "https://open.spotify.com/track/1LQ2na6H4BsmLN081VN1vU"
+    },
+    {
+      "album": {
+        "name": "moon light (voice memo)",
+        "url": "https://open.spotify.com/album/3abewMpM6dyFylwhduGC7Z"
+      },
+      "artists": [
+        {
+          "name": "Seth Menne",
+          "url": "https://open.spotify.com/artist/2l8MsqlEQkQAtd5fholUc3"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203528,
+      "name": "moon light - voice memo",
+      "url": "https://open.spotify.com/track/7Mlh0hfV4nxyRZyxID0AtX"
     },
     {
       "album": {

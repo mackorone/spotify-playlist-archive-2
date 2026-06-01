@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 215940,
+  "num_followers": 215960,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAAxXpPYIxo4BcMfHX0oZ8el",
+  "snapshot_id": "ahoogAAAAABCFv14K/d7EEfJzsDcX/NB",
   "tracks": [
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qui\u00e9n No Llora",
-        "url": "https://open.spotify.com/album/62eH2gWy4aImRgTQQVAgmy"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 236571,
-      "name": "Qui\u00e9n No Llora",
-      "url": "https://open.spotify.com/track/1YxgIliOknSsGt2LsbfNOV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soledad",
         "url": "https://open.spotify.com/album/7qjCJhOgyBd9bVyksyDH1z"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 248267,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/1OAtkMjjiZ46ZXYN0rrCGE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qui\u00e9n No Llora",
+        "url": "https://open.spotify.com/album/62eH2gWy4aImRgTQQVAgmy"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 236571,
+      "name": "Qui\u00e9n No Llora",
+      "url": "https://open.spotify.com/track/1YxgIliOknSsGt2LsbfNOV"
     },
     {
       "added_at": null,
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Voy Por El Oro",
+        "url": "https://open.spotify.com/album/758TpUvJbvcx7esTYZZcz9"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 310750,
+      "name": "Voy Por El Oro",
+      "url": "https://open.spotify.com/track/5C3siAP7m7PCQgxFaDFYNR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voy Por El Oro",
-        "url": "https://open.spotify.com/album/758TpUvJbvcx7esTYZZcz9"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 310750,
-      "name": "Voy Por El Oro",
-      "url": "https://open.spotify.com/track/5C3siAP7m7PCQgxFaDFYNR"
     },
     {
       "added_at": null,

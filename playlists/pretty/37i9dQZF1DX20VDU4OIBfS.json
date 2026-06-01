@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3029220,
+  "num_followers": 3029164,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Lo Pasado Pasado",
-        "url": "https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Lo Que No Fue No Ser\u00e1",
-      "url": "https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 192213,
       "name": "Frente a Frente",
       "url": "https://open.spotify.com/track/38sK8PSXXgZMLZujwgvNUH"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Lo Pasado Pasado",
+        "url": "https://open.spotify.com/album/5oddKuDpZE5aTn2uZ98Bbq"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Lo Que No Fue No Ser\u00e1",
+      "url": "https://open.spotify.com/track/3nlBG0lCutyuRX3jDRALw0"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 157493,
+      "name": "El Rey",
+      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 137560,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "El Idolo De Mexico",
-        "url": "https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 157493,
-      "name": "El Rey",
-      "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Dos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
-        }
-      ],
-      "duration_ms": 316840,
-      "name": "Due\u00f1o de Nada",
-      "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "El Rey Bravo",
         "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 274018,
       "name": "Oye C\u00f3mo Va",
       "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Dos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+        }
+      ],
+      "duration_ms": 316840,
+      "name": "Due\u00f1o de Nada",
+      "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
+        "name": "Pimpinela",
+        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
+      },
+      "artists": [
+        {
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "D\u00edmelo Delante de Ella",
+      "url": "https://open.spotify.com/track/37amjDwMG9SQQ1xQETzBm9"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
         "name": "Solo Lo Mejor - 20 Exitos",
         "url": "https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 210466,
       "name": "Como Han Pasado los A\u00f1os (with Julio Iglesias)",
       "url": "https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
-        "name": "Pimpinela",
-        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
-      },
-      "artists": [
-        {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "D\u00edmelo Delante de Ella",
-      "url": "https://open.spotify.com/track/37amjDwMG9SQQ1xQETzBm9"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Pra Sempre Em Espanhol - Vol. 2",
-        "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 417533,
-      "name": "Camionero (Caminhoneiro) [Gentle On My Mind]",
-      "url": "https://open.spotify.com/track/2qndofldhCJ8D94cdWDuWH"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Juanello",
         "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 186400,
       "name": "Espejismo",
       "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Pra Sempre Em Espanhol - Vol. 2",
+        "url": "https://open.spotify.com/album/7tgwXjkq9Km7n7pwiAhLyK"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 417533,
+      "name": "Camionero (Caminhoneiro) [Gentle On My Mind]",
+      "url": "https://open.spotify.com/track/2qndofldhCJ8D94cdWDuWH"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58"
-      },
-      "artists": [
-        {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Amandote",
-      "url": "https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Exclusive Ricchi E Poveri - 15 Exitos",
         "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 191792,
       "name": "Me Enamoro De Ti",
       "url": "https://open.spotify.com/track/7tK0PM1fKK0g4scuqmAnts"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Amandote",
+      "url": "https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/5NvUMQzUcZi9DIBSvgWkDG"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ruiz",
-          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
-        }
-      ],
-      "duration_ms": 239506,
-      "name": "La Malague\u00f1a",
-      "url": "https://open.spotify.com/track/5QXVH3XAyJnfVu6CxTFqvj"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Coleccion Original: Rocio Jurado",
         "url": "https://open.spotify.com/album/2z7fXV5xBlpkmfnqe5b7D4"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 256093,
       "name": "Como una Ola",
       "url": "https://open.spotify.com/track/1gNXYvLc14OmqK6gSJKLUM"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/5NvUMQzUcZi9DIBSvgWkDG"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ruiz",
+          "url": "https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "La Malague\u00f1a",
+      "url": "https://open.spotify.com/track/5QXVH3XAyJnfVu6CxTFqvj"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
-        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 179984,
-      "name": "Mamma Maria",
-      "url": "https://open.spotify.com/track/1Y0blUyMxLbGF6gdj65vxc"
-    },
-    {
-      "added_at": "2024-06-04 19:16:04",
-      "album": {
         "name": "Lila Deneken......Por Cobard\u00eda",
         "url": "https://open.spotify.com/album/796ID4GjmeQOqVXWVt31TN"
       },
@@ -2355,18 +2339,18 @@
     {
       "added_at": "2024-06-04 19:16:04",
       "album": {
-        "name": "Lo Mejor de Massiel",
-        "url": "https://open.spotify.com/album/1h2ucRNe6wSDRNlHHvHxu6"
+        "name": "Exclusive Ricchi E Poveri - 15 Exitos",
+        "url": "https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC"
       },
       "artists": [
         {
-          "name": "Massiel",
-          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
         }
       ],
-      "duration_ms": 215706,
-      "name": "Brindaremos por \u00e9l",
-      "url": "https://open.spotify.com/track/1TRsgYfke7OMfK7fyszgeY"
+      "duration_ms": 179984,
+      "name": "Mamma Maria",
+      "url": "https://open.spotify.com/track/1Y0blUyMxLbGF6gdj65vxc"
     },
     {
       "added_at": "2024-06-04 19:16:04",
@@ -2383,6 +2367,22 @@
       "duration_ms": 183933,
       "name": "Cuando Me Enamoro (Quando Mi Inamoro)",
       "url": "https://open.spotify.com/track/4tOpQs1UNniDYeVAc9Ck8u"
+    },
+    {
+      "added_at": "2024-06-04 19:16:04",
+      "album": {
+        "name": "Lo Mejor de Massiel",
+        "url": "https://open.spotify.com/album/1h2ucRNe6wSDRNlHHvHxu6"
+      },
+      "artists": [
+        {
+          "name": "Massiel",
+          "url": "https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T"
+        }
+      ],
+      "duration_ms": 215706,
+      "name": "Brindaremos por \u00e9l",
+      "url": "https://open.spotify.com/track/1TRsgYfke7OMfK7fyszgeY"
     },
     {
       "added_at": "2024-06-04 19:16:04",

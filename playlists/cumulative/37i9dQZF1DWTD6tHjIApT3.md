@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: Chilli Beans.
 
-3,789 songs - 10 day 1 hr 17 min
+3,790 songs - 10 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [Dance with Darkness](https://open.spotify.com/track/0MzTWsKVnAwr64qapJzEkA) | [Angela Aki](https://open.spotify.com/artist/7if7UQ2RpiPgIvUkgomgR7) | [SHADOW WORK](https://open.spotify.com/album/2IdM3we2u6vwMQpeETtHPi) | 3:41 | 2026-02-11 | 2026-02-25 |
 | [danceasphalt](https://open.spotify.com/track/15QwPOnO8ZJa8F08bQycIo) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [danceasphalt](https://open.spotify.com/album/64Ce2StULSUtZGXDWyMrH1) | 3:37 | 2025-06-11 | 2025-08-06 |
 | [Dancing Womer](https://open.spotify.com/track/1gnwP3EsVfF9ZNB9ILG5Bq) | [MPC GIRL USAGI](https://open.spotify.com/artist/5f2e0f0Q7tv69BzuLHvien), [YeYe](https://open.spotify.com/artist/2YUe21UG1hJsuhy9E3bzxp) | [Dancing Womer](https://open.spotify.com/album/5ZPkVkgnqXl4XOYyKe1q3w) | 4:03 | 2022-09-27 | 2022-10-19 |
-| [DARK GAME](https://open.spotify.com/track/06yH03bQeE3qYbeD2lmNoG) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [DARK GAME](https://open.spotify.com/album/7KUSqIZLZE7YxCpgvUqTc5) | 3:32 | 2026-02-03 |  |
+| [DARK GAME](https://open.spotify.com/track/06yH03bQeE3qYbeD2lmNoG) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [DARK GAME](https://open.spotify.com/album/7KUSqIZLZE7YxCpgvUqTc5) | 3:32 | 2026-02-03 | 2026-06-01 |
 | [DARK MOON](https://open.spotify.com/track/253dKsWeZE2WdHXU7ayijC) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [DARK MOON](https://open.spotify.com/album/1glcs8m8icMoXsAwRWpZgN) | 4:58 | 2025-10-14 | 2025-10-22 |
 | [Darling](https://open.spotify.com/track/1gSmvXIqIezK3KpIc6tn37) | [lulu](https://open.spotify.com/artist/1D663bTJFEgoHXHPSn7B00), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [Time to Love](https://open.spotify.com/album/4KBSCpxhgK3MvUBVvkYqmg) | 2:55 | 2022-11-03 | 2022-11-09 |
 | [Darling](https://open.spotify.com/track/1LvpK2WDM3UDBMSROQ5h6E) | [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB), [lulu](https://open.spotify.com/artist/1D663bTJFEgoHXHPSn7B00) | [Darling](https://open.spotify.com/album/3q3B8EKPL7UhPI3YXW8Gg3) | 2:55 | 2022-11-01 | 2022-11-05 |
@@ -2522,6 +2522,7 @@
 | [アーティスト](https://open.spotify.com/track/7s5lA70AK4nnSI50tdvPsh) | [平山みき](https://open.spotify.com/artist/16eUjAZ2A6E4i8Hy3Q2npG), [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [アーティスト](https://open.spotify.com/album/19hCarTppFvMeTXXQklrmY) | 3:55 | 2024-01-02 | 2024-01-10 |
 | [イイキモチ](https://open.spotify.com/track/5UrVscqqwuI0HVTX9hyWXu) | [来海](https://open.spotify.com/artist/110vAH5DWtQ3fBywg7vNmE) | [イイキモチ](https://open.spotify.com/album/0y3McNnJ4LqheEjzyz4zwh) | 3:50 | 2025-12-02 | 2025-12-10 |
 | [イオ](https://open.spotify.com/track/39VPDfAqvjOhiA4EmikYeD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [イオ](https://open.spotify.com/album/4xNg6oWMihtDxAg6zttebV) | 3:03 | 2025-08-26 | 2025-12-03 |
+| [イクジナシ](https://open.spotify.com/track/4jeG0pnEjEFIphK0oLnGaW) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [イクジナシ](https://open.spotify.com/album/3o7fMvUbIBPcXLR7EK0xzL) | 4:04 | 2026-05-26 |  |
 | [イケメンタル](https://open.spotify.com/track/1exFPjNa3Kyrod6p2BhAX0) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [United Queens](https://open.spotify.com/album/0DBMXQZEOb7fiGQlXlaQ2y) | 2:15 | 2023-08-08 | 2023-08-10 |
 | [イツメン。](https://open.spotify.com/track/6S1fhXHt8tzOhdERyq3Qqa) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [イツメン。](https://open.spotify.com/album/08bOlAZpzJnBoKAsHRvh6H) | 3:00 | 2022-11-03 | 2022-11-30 |
 | [イマジン](https://open.spotify.com/track/4feGdGnL0YIUhEQbiQLhTn) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [イマジン](https://open.spotify.com/album/610DjzHmV6tPQhsZxp4mQN) | 3:56 | 2024-01-30 | 2024-02-07 |

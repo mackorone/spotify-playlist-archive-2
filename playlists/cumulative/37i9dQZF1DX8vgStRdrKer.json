@@ -4396,7 +4396,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 131136,
       "name": "Feel So Good",
       "url": "https://open.spotify.com/track/7daG2xOKoua7f3nmvbsjyW"
@@ -5794,6 +5794,24 @@
       "duration_ms": 158746,
       "name": "Higher",
       "url": "https://open.spotify.com/track/4iA6XeCs04NrmGPnmQdCyT"
+    },
+    {
+      "album": {
+        "name": "HOLD ME UP",
+        "url": "https://open.spotify.com/album/2A9YtwVXV5WMYCj2pmSx90"
+      },
+      "artists": [
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288372,
+      "name": "HOLD ME UP",
+      "url": "https://open.spotify.com/track/5otqUM66dct6QElsKFmC3D"
     },
     {
       "album": {

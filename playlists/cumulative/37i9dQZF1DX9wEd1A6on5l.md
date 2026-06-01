@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-883 songs - 1 day 17 hr 41 min
+884 songs - 1 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,7 +533,7 @@
 | [Marhaba](https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Marhaba X We Must](https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw) | 2:23 | 2024-09-27 | 2025-04-01 |
 | [Maria](https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Xin Mao](https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ) | 2:23 | 2024-08-29 | 2025-04-01 |
 | [Marry](https://open.spotify.com/track/1RdJBwpiYkf3mB8Tlak7ck) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Marry](https://open.spotify.com/album/6FOPrXcN2OdzaTJeV4mwL4) | 3:19 | 2023-12-22 | 2024-02-20 |
-| [Matter](https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Matter](https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb) | 2:49 | 2026-05-22 |  |
+| [Matter](https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Matter](https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb) | 2:49 | 2026-05-22 | 2026-06-01 |
 | [Mașe](https://open.spotify.com/track/2vk4aVxQpbGE35u22K1elZ) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Mașe](https://open.spotify.com/album/3tJhNuOQwykvA4x6Tl8n8I) | 2:52 | 2024-12-16 | 2025-07-05 |
 | [Mbali](https://open.spotify.com/track/3nnZWb6mhiPhhyRV2sQv0X) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Mbali](https://open.spotify.com/album/414Ob3floRfurHgYHnRqk0) | 2:47 | 2025-08-15 | 2025-08-30 |
 | [Mean 2 Me](https://open.spotify.com/track/6IMJPS60S4PuO4dsyGSaDc) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Mean 2 Me](https://open.spotify.com/album/0npUtWGx1oEk4AXLoNvhKm) | 4:27 | 2026-03-06 | 2026-04-17 |
@@ -735,6 +735,7 @@
 | [Shake](https://open.spotify.com/track/6e5vqhKj1M5X02ocoxiPCH) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Don't Get Used To This](https://open.spotify.com/album/3v5qsWRB3qTlbd5RNXO3Be) | 3:34 | 2024-01-26 | 2024-02-11 |
 | [Shake Body](https://open.spotify.com/track/36G89SJXnRgcXtwl9HOzB3) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci), [GIVANO](https://open.spotify.com/artist/5qsyvtRCMdpOpq7s5uetZ4) | [Shake Body](https://open.spotify.com/album/7FUcwqHZEqvdy3ZRikJcTc) | 2:05 | 2026-05-25 |  |
 | [Shake It To The Max \(FLY\) \- Remix](https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\) \(Remix\)](https://open.spotify.com/album/7jhHpyhKorvt65mYvuhlBs) | 2:58 | 2025-02-21 | 2025-04-01 |
+| [Shake That](https://open.spotify.com/track/2HNqGqMFyUjyjGyi6K58xm) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Shake That](https://open.spotify.com/album/5KJYpO15Cv5uDPE4OZDJbP) | 3:16 | 2026-05-29 |  |
 | [SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:20 | 2025-02-24 | 2026-03-17 |
 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 | 2023-07-21 | 2024-06-03 |
 | [Sharpiru](https://open.spotify.com/track/3UnV8C3DyIns9oEQRt0UnZ) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Sharpiru](https://open.spotify.com/album/3G8ivhEbQ9MREc8PZrROgr) | 3:28 | 2023-08-10 | 2024-02-16 |

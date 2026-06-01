@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-364 songs - 21 hr 56 min
+367 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 | 2025-11-27 | 2025-12-28 |
 | [Invierno](https://open.spotify.com/track/35WJrQEZY5tEzHjiGzCL62) | [Macías](https://open.spotify.com/artist/12tb38v6ePm4N3MSLWQVzu) | [Invierno](https://open.spotify.com/album/6w5A0FMOmXN6iubAeY392K) | 4:08 | 2026-03-31 |  |
 | [It's Not Much But It's Honest](https://open.spotify.com/track/7qk61UVR5b4uOZPERARakC) | [Chase Cavanaugh](https://open.spotify.com/artist/6DH1kypdObaGWIcKEefQEQ) | [It's Not Much But It's Honest](https://open.spotify.com/album/0s6g5E03GbA8a6rK2G2rfI) | 4:08 | 2026-01-22 | 2026-02-19 |
+| [It's Over](https://open.spotify.com/track/3bmxRg9hZNL7fJHSCpqpgj) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [home ANYMORE](https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs) | 3:17 | 2026-05-31 |  |
 | [Jane](https://open.spotify.com/track/4XedfQTRrrkH48buhGSbFd) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Jane](https://open.spotify.com/album/3McsECnITe5RZAbrBHn36C) | 3:01 | 2026-03-28 |  |
 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2026-01-11 |  |
 | [Just Another Dying Hero](https://open.spotify.com/track/6MJZL9jgx23emQ5lzhwBEz) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 4:10 | 2025-10-29 |  |
@@ -238,7 +239,9 @@
 | [Perfect life](https://open.spotify.com/track/7MqtvOVB7fIqwaOFE8Upjk) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [Perfect life](https://open.spotify.com/album/1rg4ZejsarO8YjR7fyu26X) | 2:44 | 2025-11-04 | 2025-12-06 |
 | [Perilous Crests](https://open.spotify.com/track/0SjeRsyPzUfOWQgEfbtnNO) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Perilous Crests](https://open.spotify.com/album/664kp9PX6QSxOuCuP0lvS1) | 3:47 | 2026-01-24 |  |
 | [Play The Fool](https://open.spotify.com/track/17utc5QAA7nYqFHJBecviD) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:13 | 2025-11-21 | 2025-12-12 |
+| [Playground](https://open.spotify.com/track/0hUbr66SmawTFyn17USbQS) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Sinking Into The Ocean](https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc) | 3:37 | 2026-05-31 |  |
 | [Playing God](https://open.spotify.com/track/58MmPniM5FnH9c1WfeTzdO) | [Early Exit](https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3) | [Playing God](https://open.spotify.com/album/2ZxXf7pkmshkpbMgHSfQnv) | 3:40 | 2026-01-10 | 2026-02-02 |
+| [Poison](https://open.spotify.com/track/3etMVsSrF9XZ4PbZKyvyQj) | [Noam Peri](https://open.spotify.com/artist/5jOb4IiotwIkHpg8wyRmzt) | [Poison](https://open.spotify.com/album/5hd5OYYmt8n6nkayRVVzqw) | 4:11 | 2026-05-31 |  |
 | [ponte a pensar](https://open.spotify.com/track/7lrX4uvZ2jAxkYztRmb9T6) | [MARCADODEESO](https://open.spotify.com/artist/6opl25ebP1jA6bVWfI21JL) | [ponte a pensar](https://open.spotify.com/album/1noVGcsDJs7DHKturu2d5J) | 3:36 | 2026-01-06 | 2026-02-02 |
 | [POV \(YOU\)](https://open.spotify.com/track/59Iiv7YFhhpKKF4IWTDXp2) | [FEDZ](https://open.spotify.com/artist/3ZoN7RJDhdtnxOzijkmJKO) | [POV \(YOU\)](https://open.spotify.com/album/09tl9b1a9v1tYKPlXBWHt9) | 3:51 | 2025-11-20 | 2025-12-12 |
 | [Predictable](https://open.spotify.com/track/58uPzPjEmM93usVWgvdezo) | [Jake Rouson](https://open.spotify.com/artist/2y9f6Ij6xnhBBjpyEl5hjH) | [Predictable](https://open.spotify.com/album/0yzYOpUWL4n1kF8sGJ7eM6) | 3:41 | 2025-11-02 | 2025-12-06 |

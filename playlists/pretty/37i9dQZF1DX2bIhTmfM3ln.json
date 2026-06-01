@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 60053,
+  "num_followers": 60062,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "Anini (Thief)",
-        "url": "https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82"
+        "name": "Holy Romance",
+        "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
       },
       "artists": [
         {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 189570,
-      "name": "Anini (Thief)",
-      "url": "https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv"
+      "duration_ms": 155377,
+      "name": "Holy Romance",
+      "url": "https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "Holy Romance",
-        "url": "https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v"
+        "name": "Anini (Thief)",
+        "url": "https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
         }
       ],
-      "duration_ms": 155377,
-      "name": "Holy Romance",
-      "url": "https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca"
+      "duration_ms": 189570,
+      "name": "Anini (Thief)",
+      "url": "https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -1415,22 +1415,38 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "DID I LIE",
-        "url": "https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm"
+        "name": "Hug",
+        "url": "https://open.spotify.com/album/3GOtT9lqg7Vh8pWh73Mtbi"
       },
       "artists": [
         {
-          "name": "Cina Soul",
-          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+          "name": "Lemon Adisa",
+          "url": "https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3"
         },
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
         }
       ],
-      "duration_ms": 141967,
-      "name": "Larger Than Life (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO"
+      "duration_ms": 171250,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/5v6gXQTjb0MVjZdan2XzJz"
+    },
+    {
+      "added_at": "2026-05-29 00:02:09",
+      "album": {
+        "name": "South South Romance: After Hours",
+        "url": "https://open.spotify.com/album/2NTNbpQJ74m3GCAK7812ui"
+      },
+      "artists": [
+        {
+          "name": "Tmaro",
+          "url": "https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd"
+        }
+      ],
+      "duration_ms": 128166,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/6gwRyjLzdn1992RpT6sUdb"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -1459,18 +1475,22 @@
     {
       "added_at": "2026-05-29 00:02:09",
       "album": {
-        "name": "South South Romance: After Hours",
-        "url": "https://open.spotify.com/album/2NTNbpQJ74m3GCAK7812ui"
+        "name": "DID I LIE",
+        "url": "https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm"
       },
       "artists": [
         {
-          "name": "Tmaro",
-          "url": "https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd"
+          "name": "Cina Soul",
+          "url": "https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         }
       ],
-      "duration_ms": 128166,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/6gwRyjLzdn1992RpT6sUdb"
+      "duration_ms": 141967,
+      "name": "Larger Than Life (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO"
     },
     {
       "added_at": "2026-05-29 00:02:09",
@@ -1487,26 +1507,6 @@
       "duration_ms": 234000,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/1sX6eJVTDmuLxcHfVTYfCA"
-    },
-    {
-      "added_at": "2026-05-29 00:02:09",
-      "album": {
-        "name": "Ifeoma II",
-        "url": "https://open.spotify.com/album/3omsRcXGM3GKAdbg7ZVEX7"
-      },
-      "artists": [
-        {
-          "name": "Coblaze",
-          "url": "https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 151724,
-      "name": "Ifeoma II",
-      "url": "https://open.spotify.com/track/1nuIJutSpeXaPHkfpCc3iB"
     }
   ],
   "unique_name": "AfroBae",

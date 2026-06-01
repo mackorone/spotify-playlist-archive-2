@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 73838,
+  "num_followers": 73843,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAACCUyWcO1tpWzTDT3qDu6g5",
+  "snapshot_id": "ahoogAAAAAAiKwe38vsj8iYVyaWuLTXj",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apenas um Toque",
-        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 289041,
-      "name": "Puro Nardo",
-      "url": "https://open.spotify.com/track/7LHGwdC5OJpb4v8nO0ie73"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Onde o Fogo N\u00e3o Apaga (Deluxe)",
         "url": "https://open.spotify.com/album/2g5xYfM6zkLWBhWn4C44dN"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 265565,
       "name": "Romanos 8:26",
       "url": "https://open.spotify.com/track/7297XfxiTDouaiWlGTsjX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 289041,
+      "name": "Puro Nardo",
+      "url": "https://open.spotify.com/track/7LHGwdC5OJpb4v8nO0ie73"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apenas um Toque",
-        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 420234,
-      "name": "Apenas um Toque",
-      "url": "https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 416194,
       "name": "Jesus, Meu Primeiro Amor",
       "url": "https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 420234,
+      "name": "Apenas um Toque",
+      "url": "https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 273670,
-      "name": "Como Se Cura a Ferida",
-      "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
+      "duration_ms": 305342,
+      "name": "Adorai, Adonai",
+      "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 305342,
-      "name": "Adorai, Adonai",
-      "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
+      "duration_ms": 273670,
+      "name": "Como Se Cura a Ferida",
+      "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre",
-        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 304813,
-      "name": "Te Amo Tanto (feat. Fernanda Brum)",
-      "url": "https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastros de Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
       },
@@ -955,22 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cassiane 40 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2U57wHaKqG82HLUd2R99Di"
+        "name": "Entre",
+        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
       },
       "artists": [
         {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         },
         {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 275604,
-      "name": "Imagine (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0dQTShPGmWg76YIjyAVDTu"
+      "duration_ms": 304813,
+      "name": "Te Amo Tanto (feat. Fernanda Brum)",
+      "url": "https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb"
     },
     {
       "added_at": null,
@@ -987,6 +967,26 @@
       "duration_ms": 331766,
       "name": "Sonhos",
       "url": "https://open.spotify.com/track/1VIheUgrhc6Xe0ZRz0GulJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cassiane 40 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2U57wHaKqG82HLUd2R99Di"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 275604,
+      "name": "Imagine (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0dQTShPGmWg76YIjyAVDTu"
     },
     {
       "added_at": null,

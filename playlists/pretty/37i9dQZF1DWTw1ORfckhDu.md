@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,308 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,301 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 29 | [Kirjotettu tähtiin](https://open.spotify.com/track/6JKClwOEbYMZrSJGRACtY2) | [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Kirjotettu tähtiin](https://open.spotify.com/album/2jnDXAJYyg6170tk9cQ7JT) | 2:38 |
 | 30 | [Elämää Suurempaa](https://open.spotify.com/track/59P3bZ1wyLSZetsU2Jovmo) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Elämää Suurempaa](https://open.spotify.com/album/6NNqEWHtfa4ZTg1N5VAitK) | 3:02 |
 | 31 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
-| 32 | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT) | 3:07 |
-| 33 | [Rockstar \(feat\. Janna\)](https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Rockstar \(feat\. Janna\)](https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ) | 2:54 |
+| 32 | [Rockstar \(feat\. Janna\)](https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR) | [Aste](https://open.spotify.com/artist/0FgPkjSOY3FoLQRXeNbkhL), [JANNA](https://open.spotify.com/artist/4grOKb7qP9dH5FOhUXn3s3) | [Rockstar \(feat\. Janna\)](https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ) | 2:54 |
+| 33 | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/track/3NAK9uLlCCJ52oUq05fde3) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Koukussa \(feat\. Axel Kala\)](https://open.spotify.com/album/5ntiuFVpliqYALWnECH2dT) | 3:07 |
 | 34 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
 | 35 | [Tom Ford](https://open.spotify.com/track/52gUymoTGCj5xg0YU1kCw3) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Stallion](https://open.spotify.com/album/7pi5d32VXj6J9vBiupq9Wo) | 2:03 |
-| 36 | [Autobahn](https://open.spotify.com/track/4LVEvAnfjYuXn1RooKi5Mn) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Autobahn](https://open.spotify.com/album/38UgXLcxp7CY01IEcyZdzf) | 2:58 |
-| 37 | [FEAR NO MAN](https://open.spotify.com/track/5pIBicwxxVfLXKiCV667YY) | [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [FEAR NO MAN](https://open.spotify.com/album/7pW18CHeRUUqZF74nfEDxO) | 1:43 |
+| 36 | [FEAR NO MAN](https://open.spotify.com/track/5pIBicwxxVfLXKiCV667YY) | [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [FEAR NO MAN](https://open.spotify.com/album/7pW18CHeRUUqZF74nfEDxO) | 1:43 |
+| 37 | [Autobahn](https://open.spotify.com/track/4LVEvAnfjYuXn1RooKi5Mn) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Autobahn](https://open.spotify.com/album/38UgXLcxp7CY01IEcyZdzf) | 2:58 |
 | 38 | [Lentoo](https://open.spotify.com/track/6660VtRfpFWAHYLV2M6oo1) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Lentoo](https://open.spotify.com/album/21lA51gDsHgzkxx2X5LhO2) | 2:19 |
 | 39 | [RICK ROSS](https://open.spotify.com/track/4U7K6eAKQeESDQNsV1HVlP) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [RICK ROSS](https://open.spotify.com/album/1h0IUx4bRPIVZgnGsGl4lY) | 2:50 |
 | 40 | [Maailman Huipulla](https://open.spotify.com/track/39tNLJl07Dzxktiu6mKtJH) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Maailman Huipulla](https://open.spotify.com/album/1zwH2Ac1JCcbMxZbIUSh6r) | 2:36 |

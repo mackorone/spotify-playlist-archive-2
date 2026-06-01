@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65435,
+  "num_followers": 65444,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC"
     },
     {
-      "added_at": "2022-01-11 02:50:37",
-      "album": {
-        "name": "Con Sabor a M\u00e9xico",
-        "url": "https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6"
-      },
-      "artists": [
-        {
-          "name": "Big Band Jazz de M\u00e9xico",
-          "url": "https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c"
-        }
-      ],
-      "duration_ms": 271053,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
-    },
-    {
       "added_at": "2023-04-12 01:24:34",
       "album": {
         "name": "El Patio",
@@ -55,6 +39,22 @@
       "duration_ms": 260000,
       "name": "Cumbiero",
       "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
+    },
+    {
+      "added_at": "2022-01-11 02:50:37",
+      "album": {
+        "name": "Con Sabor a M\u00e9xico",
+        "url": "https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6"
+      },
+      "artists": [
+        {
+          "name": "Big Band Jazz de M\u00e9xico",
+          "url": "https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c"
+        }
+      ],
+      "duration_ms": 271053,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -301,38 +301,6 @@
       "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Retazos",
-        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
-      },
-      "artists": [
-        {
-          "name": "Donna Pierrot",
-          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
-        }
-      ],
-      "duration_ms": 269080,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
-    },
-    {
-      "added_at": "2024-08-29 03:09:23",
-      "album": {
-        "name": "Tlapaler\u00eda Don Chuy",
-        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
-      },
-      "artists": [
-        {
-          "name": "Tlapaler\u00eda Don Chuy",
-          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
-        }
-      ],
-      "duration_ms": 366283,
-      "name": "Activo De Guayaba",
-      "url": "https://open.spotify.com/track/6dmMJruFIptrKqtaeBMuAm"
-    },
-    {
       "added_at": "2022-08-16 16:23:25",
       "album": {
         "name": "Cronolog\u00edas",
@@ -353,6 +321,38 @@
       "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
     },
     {
+      "added_at": "2024-08-29 03:09:23",
+      "album": {
+        "name": "Tlapaler\u00eda Don Chuy",
+        "url": "https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx"
+      },
+      "artists": [
+        {
+          "name": "Tlapaler\u00eda Don Chuy",
+          "url": "https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj"
+        }
+      ],
+      "duration_ms": 366283,
+      "name": "Activo De Guayaba",
+      "url": "https://open.spotify.com/track/6dmMJruFIptrKqtaeBMuAm"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Retazos",
+        "url": "https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb"
+      },
+      "artists": [
+        {
+          "name": "Donna Pierrot",
+          "url": "https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj"
+        }
+      ],
+      "duration_ms": 269080,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp"
+    },
+    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Jazz Mariachi",
@@ -367,22 +367,6 @@
       "duration_ms": 211026,
       "name": "Luna Taxque\u00f1a - Jazz Mariachi",
       "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Para Ser Libre",
-        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
-      },
-      "artists": [
-        {
-          "name": "Hilvana",
-          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
-        }
-      ],
-      "duration_ms": 193332,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -407,6 +391,22 @@
       "duration_ms": 350746,
       "name": "Qui\u00e9n Eres T\u00fa?",
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Para Ser Libre",
+        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+      },
+      "artists": [
+        {
+          "name": "Hilvana",
+          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+        }
+      ],
+      "duration_ms": 193332,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Groove Zone",
-        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
-      },
-      "artists": [
-        {
-          "name": "Pepe Hernandez",
-          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
-        }
-      ],
-      "duration_ms": 272771,
-      "name": "Nu Soul",
-      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "What's The Rush? (Remastered)",
         "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 403946,
       "name": "Temporary Insanity",
       "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Groove Zone",
+        "url": "https://open.spotify.com/album/3mxSuXC1jUOCwNC6BApBQ3"
+      },
+      "artists": [
+        {
+          "name": "Pepe Hernandez",
+          "url": "https://open.spotify.com/artist/2pgE2IxsK0mnwef7EnxAhW"
+        }
+      ],
+      "duration_ms": 272771,
+      "name": "Nu Soul",
+      "url": "https://open.spotify.com/track/7ibDUlvqdCL2MJp4UluPm1"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -679,26 +679,6 @@
       "duration_ms": 198083,
       "name": "La Franca",
       "url": "https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq"
-    },
-    {
-      "added_at": "2023-04-13 19:45:15",
-      "album": {
-        "name": "Calladito Te Ves Mejor",
-        "url": "https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C"
-      },
-      "artists": [
-        {
-          "name": "La Berm\u00fadez",
-          "url": "https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl"
-        },
-        {
-          "name": "Renee Goust",
-          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
-        }
-      ],
-      "duration_ms": 236419,
-      "name": "Calladito Te Ves Mejor",
-      "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -743,6 +723,26 @@
       "duration_ms": 393786,
       "name": "La Cigarra",
       "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
+    },
+    {
+      "added_at": "2023-04-13 19:45:15",
+      "album": {
+        "name": "Calladito Te Ves Mejor",
+        "url": "https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C"
+      },
+      "artists": [
+        {
+          "name": "La Berm\u00fadez",
+          "url": "https://open.spotify.com/artist/4T3iMc0MZ9Ix9GL8B57fDl"
+        },
+        {
+          "name": "Renee Goust",
+          "url": "https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K"
+        }
+      ],
+      "duration_ms": 236419,
+      "name": "Calladito Te Ves Mejor",
+      "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
     },
     {
       "added_at": "2021-07-28 16:44:28",

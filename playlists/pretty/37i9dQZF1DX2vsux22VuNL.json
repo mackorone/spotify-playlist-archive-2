@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Gloria Groove",
-  "num_followers": 290927,
+  "num_followers": 290916,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
+        "name": "Seu e S\u00f3",
+        "url": "https://open.spotify.com/album/1T7dvcAcWOuBqmzmGF4zCR"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "duration_ms": 153148,
+      "name": "Seu e S\u00f3",
+      "url": "https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
         "name": "FOR\u00c7A DA JUVENTUDE",
         "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 224058,
       "name": "falador",
       "url": "https://open.spotify.com/track/5vQInwZReaYIOdIyGQHjbF"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
-        "name": "Seu e S\u00f3",
-        "url": "https://open.spotify.com/album/1T7dvcAcWOuBqmzmGF4zCR"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
-        }
-      ],
-      "duration_ms": 153148,
-      "name": "Seu e S\u00f3",
-      "url": "https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -139,6 +139,26 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
+        "name": "Tons de Marrom",
+        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        },
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Corpo Suado",
+      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
         "name": "Ibiza",
         "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
       },
@@ -159,26 +179,6 @@
       "duration_ms": 150000,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
-        "name": "Tons de Marrom",
-        "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        },
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "Corpo Suado",
-      "url": "https://open.spotify.com/track/60HKq194AJUnsiyogk99uL"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -207,6 +207,30 @@
       "duration_ms": 235862,
       "name": "Te Pe\u00e7o Pra Ficar",
       "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
+        "name": "Sei L\u00e1",
+        "url": "https://open.spotify.com/album/0RENWCeNQeexSBoS9rzxjG"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "duration_ms": 141935,
+      "name": "Sei L\u00e1",
+      "url": "https://open.spotify.com/track/71Vau26vLY4Vl6Z4ajFKW0"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -243,30 +267,6 @@
       "duration_ms": 291166,
       "name": "Ladeira da Vida",
       "url": "https://open.spotify.com/track/6xKnsvZ0O06BvQcT2Prt2A"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
-        "name": "N\u00e3o Sei Lidar",
-        "url": "https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        },
-        {
-          "name": "Rapha Ren\u00f3",
-          "url": "https://open.spotify.com/artist/3ppCUye5DRGnRwevs13CAh"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "N\u00e3o Sei Lidar",
-      "url": "https://open.spotify.com/track/7JCZoa3kdK7D5AJAYjiut8"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -343,6 +343,30 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
+        "name": "N\u00e3o Sei Lidar",
+        "url": "https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        },
+        {
+          "name": "Rapha Ren\u00f3",
+          "url": "https://open.spotify.com/artist/3ppCUye5DRGnRwevs13CAh"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "N\u00e3o Sei Lidar",
+      "url": "https://open.spotify.com/track/7JCZoa3kdK7D5AJAYjiut8"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
         "name": "Trama",
         "url": "https://open.spotify.com/album/0cjiJLtUVvsUtxuDfWn2a7"
       },
@@ -367,30 +391,6 @@
       "duration_ms": 259591,
       "name": "Trama",
       "url": "https://open.spotify.com/track/3aJ2s11rSi5r13qiegTs1o"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
-        "name": "Sei L\u00e1",
-        "url": "https://open.spotify.com/album/0RENWCeNQeexSBoS9rzxjG"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        }
-      ],
-      "duration_ms": 141935,
-      "name": "Sei L\u00e1",
-      "url": "https://open.spotify.com/track/71Vau26vLY4Vl6Z4ajFKW0"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -483,6 +483,22 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 199812,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
         "name": "Pensando Em N\u00f3s",
         "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 202713,
       "name": "seguir sozinho",
       "url": "https://open.spotify.com/track/6sT5GUsuZh3goVtsWwKmEN"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 199812,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -923,26 +923,6 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
-        "name": "N\u00e3o Vou Voltar",
-        "url": "https://open.spotify.com/album/1unIXIxrlEFGSpWC1k7bUn"
-      },
-      "artists": [
-        {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
-        },
-        {
-          "name": "Luccas Simoneto",
-          "url": "https://open.spotify.com/artist/08mt6cahZUGy437zTfbsJU"
-        }
-      ],
-      "duration_ms": 239232,
-      "name": "N\u00e3o Vou Voltar",
-      "url": "https://open.spotify.com/track/4g1IihVPDB892Dwgm2qqAT"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
         "name": "Arcano 19 (Deluxe)",
         "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 249798,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
+        "name": "N\u00e3o Vou Voltar",
+        "url": "https://open.spotify.com/album/1unIXIxrlEFGSpWC1k7bUn"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        },
+        {
+          "name": "Luccas Simoneto",
+          "url": "https://open.spotify.com/artist/08mt6cahZUGy437zTfbsJU"
+        }
+      ],
+      "duration_ms": 239232,
+      "name": "N\u00e3o Vou Voltar",
+      "url": "https://open.spotify.com/track/4g1IihVPDB892Dwgm2qqAT"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
-        "name": "Summer Groove",
-        "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
-      },
-      "artists": [
-        {
-          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
-          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
-        },
-        {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
-        }
-      ],
-      "duration_ms": 162985,
-      "name": "Qual \u00c9",
-      "url": "https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
         "name": "PAZ",
         "url": "https://open.spotify.com/album/0EERtu0Qbd2RFSiNp3HGdN"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 239557,
       "name": "PAZ",
       "url": "https://open.spotify.com/track/3d030LtkMGUreX1dk56goW"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
+        "name": "Summer Groove",
+        "url": "https://open.spotify.com/album/2PV7rqE4GaBBboe739T1m5"
+      },
+      "artists": [
+        {
+          "name": "\u00c0TT\u00d8\u00d8XX\u00c1",
+          "url": "https://open.spotify.com/artist/43jyzP3h86XvtC8FQm4ow3"
+        },
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        }
+      ],
+      "duration_ms": 162985,
+      "name": "Qual \u00c9",
+      "url": "https://open.spotify.com/track/6CHhx9h0q9aJZAD4hNfhgf"
     },
     {
       "added_at": "2026-05-29 03:00:26",

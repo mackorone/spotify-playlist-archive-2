@@ -4,7 +4,7 @@
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playli..\. DODODOK!
 
-130 songs - 6 hr 25 min
+132 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [CRAZY \- Japanese ver.](https://open.spotify.com/track/34dagzqtT7Gl5NpQc3aEgO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(Japanese ver\. / Party Remixes\)](https://open.spotify.com/album/7Bz2elGAw4ZcvLxZyzJofp) | 2:44 | 2024-12-19 |  |
 | [CRAZY \- Japanese ver\. / Chaki Zulu Remix](https://open.spotify.com/track/53f0i5CNeNICVm67yqCXQM) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Chaki Zulu](https://open.spotify.com/artist/1OZZwe2ji8xjfVC8qjrQup) | [CRAZY \(Japanese ver\. / Party Remixes\)](https://open.spotify.com/album/7Bz2elGAw4ZcvLxZyzJofp) | 2:36 | 2024-12-19 |  |
 | [Creatures](https://open.spotify.com/track/0HsgIz531mkdxly35wKcwj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 3:08 | 2026-05-26 |  |
+| [Creatures \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/3WotTZr6P3Y7faSFC82nPO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Creatures \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/1l9nBUyvVRmv03XYfv6NYA) | 3:11 | 2026-06-01 |  |
 | [DIFFERENT](https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v) | 2:21 | 2025-06-14 |  |
 | [DIFFERENT \- English ver.](https://open.spotify.com/track/0Slvwx0p3H5wyB4s8EB7Aj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT \(English ver.\)](https://open.spotify.com/album/5p6KkE9SBq8MJPD0EFrNAF) | 2:21 | 2025-06-14 |  |
 | [EASY](https://open.spotify.com/track/08ZaKnsnO14nB9pxAgabCm) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY \(Remixes\)](https://open.spotify.com/album/75rFaEWO9nufjSlTcg3wPS) | 2:44 | 2024-03-01 |  |
@@ -114,6 +115,7 @@
 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 | 2024-02-20 |  |
 | [So Cynical \(Badum\)](https://open.spotify.com/track/1Hw8WhXlRjfUFDMykf92gA) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:35 | 2025-03-14 |  |
 | [Sonder](https://open.spotify.com/track/6dPtt7EhUj8YQQ0IFVCQRm) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:46 | 2026-05-26 |  |
+| [Sonder \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/track/11rPa1ex0jv6jQQdnopJYd) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Sonder \(at PURE FLOWERS LIVE\) l Presented by Spotify](https://open.spotify.com/album/0Ch54rVSoEPdCE8qKuxH8W) | 2:51 | 2026-06-01 |  |
 | [Sour Grapes](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:16 | 2023-05-01 |  |
 | [SPAGHETTI](https://open.spotify.com/track/4ly7INe0YNvJNZYXnp85PH) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:51 | 2025-10-24 |  |
 | [SPAGHETTI](https://open.spotify.com/track/2N9miXnewVmUrgl6JSK1FI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [SPAGHETTI](https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX) | 2:52 | 2025-10-24 |  |

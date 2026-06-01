@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Hansika Pareek, Parth Srivastava and other exciting artists.
 
-1,460 songs - 3 day 8 hr 5 min
+1,461 songs - 3 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Chameli](https://open.spotify.com/track/3qtvgK1IdAnqxGCYfxekBT) | [Swanand Kirkire](https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz), [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Chameli](https://open.spotify.com/album/5qjyXpuyhcvYmT2ruEez16) | 3:30 | 2024-11-22 | 2025-03-08 |
 | [Chand Takiye](https://open.spotify.com/track/6uIo39yycBdxv1MHPOmUS4) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Chand Takiye](https://open.spotify.com/album/5mpSOm6MdLFjIJvSfFffyy) | 3:28 | 2026-02-27 | 2026-05-30 |
 | [Chandni](https://open.spotify.com/track/0k4MaE3r8qucVkFeJZPzwG) | [Anmol A](https://open.spotify.com/artist/4K60fhzI6KgrXpVsPwxuJb) | [Chandni](https://open.spotify.com/album/6NNdw1bjy6Z3BHfd5S9Fbp) | 3:24 | 2025-08-15 | 2025-08-30 |
+| [Chandni](https://open.spotify.com/track/4TYSwFH0LcKo32RuWJiaao) | [Bharat Chandak](https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF) | [Chandni](https://open.spotify.com/album/0eXeInZLi8DMMtncmsk2w5) | 2:54 | 2026-05-29 |  |
 | [Chandni](https://open.spotify.com/track/0jb3Iwz56sdRxPXlXhlWPY) | [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7), [Yash Mishra](https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi) | [Chandni](https://open.spotify.com/album/48o9elVhva8Ao3xF9v5n6x) | 3:14 | 2025-11-14 | 2025-12-21 |
 | [Chandni Raat](https://open.spotify.com/track/1PVeB2mHmWwdB9YHm0yeIZ) | [Ashu Shukla](https://open.spotify.com/artist/15iD55LPew2DyTQDqoV0F1) | [Chandni Raat](https://open.spotify.com/album/37fimO5ahI9qtvEN7OqlME) | 4:12 | 2023-11-17 | 2023-12-16 |
 | [Chandni Si Raat \- Reprise](https://open.spotify.com/track/3BlcYd4T7bcXbMDVasiGVJ) | [Himanshu Pareek](https://open.spotify.com/artist/0J6jTSteCba4UiHRRSqPC2), [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo) | [Chandni Si Raat \(Reprise\)](https://open.spotify.com/album/3YOBOrTu9G26nGOoMrhOJu) | 3:35 | 2024-03-01 | 2024-04-13 |
@@ -492,7 +493,7 @@
 | [Hum Khuda Nahi They](https://open.spotify.com/track/79zDOSNDDbDbG2HkZRW46G) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Hum Khuda Nahi They](https://open.spotify.com/album/24nmDLHBZHXDNLltg4kUFT) | 7:13 | 2024-03-22 | 2024-05-04 |
 | [Hum Kya Karein](https://open.spotify.com/track/19KiIzkn7AT9bpgt5KnijH) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Hum Kya Karein](https://open.spotify.com/album/5bh4Z98L2sKtU5lxl9dEJt) | 3:11 | 2023-04-14 | 2023-05-20 |
 | [Hum The Ghum](https://open.spotify.com/track/498eQH9cMiiJYatuTTiXCj) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k), [Rishita Malkania](https://open.spotify.com/artist/2iYRleECSrB0io7EdpIWFz), [Ashwini Munghate](https://open.spotify.com/artist/0NtyKWh1adHMm7cVnGYUVJ) | [Hum The Ghum](https://open.spotify.com/album/7nKa4sLlobUHLpf4BJjiV8) | 4:11 | 2026-02-06 | 2026-02-08 |
-| [Hum Tum Miley](https://open.spotify.com/track/7GGUyCMipQJaORkMoPRw0d) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Amaan Anjum](https://open.spotify.com/artist/6i2OGAPggr2SpNnrzEjQG1), [Harshil Roy](https://open.spotify.com/artist/0WLHgj66goZ8D71UhA0wvN) | [Hum Tum Miley](https://open.spotify.com/album/0K0U5D15JUGzp3Vj4OptAc) | 2:51 | 2026-04-03 |  |
+| [Hum Tum Miley](https://open.spotify.com/track/7GGUyCMipQJaORkMoPRw0d) | [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2), [Amaan Anjum](https://open.spotify.com/artist/6i2OGAPggr2SpNnrzEjQG1), [Harshil Roy](https://open.spotify.com/artist/0WLHgj66goZ8D71UhA0wvN) | [Hum Tum Miley](https://open.spotify.com/album/0K0U5D15JUGzp3Vj4OptAc) | 2:51 | 2026-04-03 | 2026-06-01 |
 | [Hum Tumhare](https://open.spotify.com/track/61njpcpC4qWIvEHgGSKtBV) | [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Hum Tumhare](https://open.spotify.com/album/2mBMNUSzTvDrp5DRFeLZw6) | 3:36 | 2024-08-23 | 2024-09-28 |
 | [Human Be](https://open.spotify.com/track/7HcJINliogGG6VkEYu6lKj) | [Uday Benegal](https://open.spotify.com/artist/4UUhpxk7Znfhj3DfZycudP) | [Human Be](https://open.spotify.com/album/0iaJnLJOBIOQA30ZNR2sj5) | 4:50 | 2026-05-08 |  |
 | [Humdum](https://open.spotify.com/track/1ZbcAMnlobqTAg2gZp3po1) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Humdum](https://open.spotify.com/album/4xSDrJ3bKFOZjUoy9JV2ku) | 3:01 | 2024-05-17 | 2024-12-07 |

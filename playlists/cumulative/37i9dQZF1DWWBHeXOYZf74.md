@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: JPEGMAFIA
 
-3,437 songs - 8 day 0 hr 13 min
+3,438 songs - 8 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2352,6 +2352,7 @@
 | [Pluto Projector](https://open.spotify.com/track/64BjH0cofoZQLz7STwGqyw) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Pluto Projector](https://open.spotify.com/album/3n4DlItnFse4pNj8jddEXf) | 4:27 | 2019-10-18 | 2020-03-13 |
 | [Point and Kill](https://open.spotify.com/track/2JVkNlfC5n7KvsaXAQdfIs) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Point and Kill](https://open.spotify.com/album/4X0qkXpSENN8uzENjrxY0b) | 3:05 | 2021-09-04 | 2021-12-18 |
 | [Point and Kill](https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:05 | 2021-12-24 | 2022-01-15 |
+| [point blank](https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [point blank](https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr) | 4:26 | 2026-05-29 |  |
 | [Poison](https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Poison \(feat\. The Weeknd\)](https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO) | 2:42 | 2021-12-17 | 2022-02-12 |
 | [Poison](https://open.spotify.com/track/1N9jzEJmaNZw8lSqTSLwZR) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Poison](https://open.spotify.com/album/49hw5yv8BUKx6OQ578yt6T) | 2:55 | 2023-09-15 | 2023-12-16 |
 | [Police Scanner](https://open.spotify.com/track/15YfCOUZ0480yVO8huUvTY) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Police Scanner](https://open.spotify.com/album/3UEx6dCjY47tO4a57de8dW) | 2:22 | 2023-11-24 | 2024-02-24 |

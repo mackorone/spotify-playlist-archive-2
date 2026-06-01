@@ -4,7 +4,7 @@
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-107 songs - 5 hr 35 min
+108 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [No Es Normal \(con Jay Wheeler\)](https://open.spotify.com/track/7hd7BiCHRG9ItaUolMFLgr) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [No Es Normal \(con Jay Wheeler\)](https://open.spotify.com/album/1O3zYVpdxYT8EEp5lI4RFX) | 2:53 | 2023-09-25 | 2024-05-05 |
 | [No Hace Falta Que Lo Digas](https://open.spotify.com/track/6gpj9k6a2SdPNDidycPQUB) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [No Hace Falta Que Lo Digas](https://open.spotify.com/album/3EOsQvKcZSYJtkAz6jXHEQ) | 3:38 | 2023-09-25 | 2024-06-03 |
 | [No Puede Ser \- con Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(con Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 | 2023-09-25 |  |
-| [noche de luna](https://open.spotify.com/track/4JKmOu2ChCgrmP7aGQS48i) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [noche de luna](https://open.spotify.com/album/40CKCca9JcuNQmItQ5nh2R) | 3:04 | 2025-02-09 |  |
+| [noche de luna](https://open.spotify.com/track/4JKmOu2ChCgrmP7aGQS48i) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [noche de luna](https://open.spotify.com/album/40CKCca9JcuNQmItQ5nh2R) | 3:04 | 2025-02-09 | 2026-06-01 |
 | [once](https://open.spotify.com/track/0iAg4apUUiURhe8wRARRFJ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [LA LLAVE](https://open.spotify.com/album/52U5V49ea5yNLX86XJZU4Y) | 3:09 | 2025-09-03 | 2025-11-28 |
 | [OUCH](https://open.spotify.com/track/0mfBEZtTbXZY1o7zolRRun) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:17 | 2024-01-06 | 2024-05-29 |
 | [PAPÁS](https://open.spotify.com/track/2pI0OyprOJssVYlqx9ZO3t) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [PAPÁS](https://open.spotify.com/album/1cvKWctA426nZjfP0DA2aA) | 3:13 | 2023-09-25 |  |
@@ -92,6 +92,7 @@
 | [Prende la Cámara RMX](https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Prende la Cámara RMX](https://open.spotify.com/album/4sMnAW8LBrLh7KL37MdTuo) | 3:32 | 2023-09-25 |  |
 | [Qué Dirías?](https://open.spotify.com/track/3HPvXWekjDqIppRxhpHkDT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Qué Dirías?](https://open.spotify.com/album/6nz3906mjf2FD4EiuzBrGM) | 3:03 | 2023-09-25 |  |
 | [Qué Tienes Tú \(feat\. Jesús de Reik & Mau y Ricky\)](https://open.spotify.com/track/4txQPJDlvU72lC6EMhT7m9) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI), [Jesús Reik](https://open.spotify.com/artist/5W9RX9DoA3MSvQGnoIgs7X), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Qué Tienes Tú \(feat\. Jesús de Reik & Mau y Ricky\)](https://open.spotify.com/album/694hCUyeR4sSjV7J1mu0dO) | 3:32 | 2023-09-25 |  |
+| [Recordando](https://open.spotify.com/track/2ifvjmD3ypoALrB0QoCnBF) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Ricky y Mau](https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg) | 3:36 | 2026-06-01 |  |
 | [Recuerdo](https://open.spotify.com/track/5cgXYVjt3tEaM8l3wZiSiV) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 3:20 | 2023-09-25 |  |
 | [Rolex](https://open.spotify.com/track/5hXlAWrc8L8hYhxUnXlqFf) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:57 | 2023-09-25 |  |
 | [Salvaje \(con Justin Quiles\)](https://open.spotify.com/track/5hy01VsGPEFhWp7gvnQY1n) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Salvaje \(con Justin Quiles\)](https://open.spotify.com/album/2dJhY6RaPMkmO5ebUNEgv6) | 2:39 | 2023-09-25 | 2023-11-11 |

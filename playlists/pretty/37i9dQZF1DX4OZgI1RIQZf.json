@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 141525,
+  "num_followers": 141509,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Vampire at the Beach",
-        "url": "https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5"
+        "name": "Cease To Begin",
+        "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
       },
       "artists": [
         {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Vampire at the Beach",
-      "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
+      "duration_ms": 179666,
+      "name": "Is There A Ghost",
+      "url": "https://open.spotify.com/track/7fgOmdonXZap1Kuz7hs3O1"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -331,18 +331,18 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Cease To Begin",
-        "url": "https://open.spotify.com/album/0zWsqSsamm615uHbVj7uiZ"
+        "name": "Vampire at the Beach",
+        "url": "https://open.spotify.com/album/2oiYk3sjV14nv6vukULSv5"
       },
       "artists": [
         {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
         }
       ],
-      "duration_ms": 179666,
-      "name": "Is There A Ghost",
-      "url": "https://open.spotify.com/track/7fgOmdonXZap1Kuz7hs3O1"
+      "duration_ms": 221000,
+      "name": "Vampire at the Beach",
+      "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "The Feast",
-        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 302882,
-      "name": "The Feast",
-      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Introducing The Sonics",
         "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 158680,
       "name": "The Witch",
       "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "The Feast",
+        "url": "https://open.spotify.com/album/0eNHN1wdo7BA0kP0a2P7Gu"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "duration_ms": 302882,
+      "name": "The Feast",
+      "url": "https://open.spotify.com/track/3zX3qdlhBdjSs0uE1mST8V"
     },
     {
       "added_at": "2026-04-24 13:27:34",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22405,
+  "num_followers": 22406,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAAGgoAloZjhoifvRlUQ5ZYx",
+  "snapshot_id": "ahoogAAAAADQRRXqXEHJ87ywxQ1ODiuT",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lourena Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "billboard Brasil",
+          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
+        }
+      ],
+      "duration_ms": 261397,
+      "name": "Dizeres (Undai\u00e1)",
+      "url": "https://open.spotify.com/track/6xlD60qg2yRZhlLvy6PZ3v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia de Boteco",
         "url": "https://open.spotify.com/album/5JyVfUGi4mSUZZ9DHdnbJc"
       },
@@ -507,34 +535,6 @@
       "duration_ms": 312207,
       "name": "Poesia de Boteco",
       "url": "https://open.spotify.com/track/4uExiXNq9cL45Y1cLmNtAO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lourena Ac\u00fastico",
-        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "billboard Brasil",
-          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
-        }
-      ],
-      "duration_ms": 261397,
-      "name": "Dizeres (Undai\u00e1)",
-      "url": "https://open.spotify.com/track/6xlD60qg2yRZhlLvy6PZ3v"
     },
     {
       "added_at": null,
@@ -607,6 +607,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lourena Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "billboard Brasil",
+          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
+        }
+      ],
+      "duration_ms": 279499,
+      "name": "Acabou",
+      "url": "https://open.spotify.com/track/5gK09qUQ4XYVoPeUEa99RE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seja Forte",
         "url": "https://open.spotify.com/album/3mdrAMknncQfphwa2wukcx"
       },
@@ -643,38 +675,6 @@
       "duration_ms": 410196,
       "name": "Seja Forte",
       "url": "https://open.spotify.com/track/1DPEMTb3jjjtEFtA4PyG9S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lourena Ac\u00fastico",
-        "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "billboard Brasil",
-          "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
-        }
-      ],
-      "duration_ms": 279499,
-      "name": "Acabou",
-      "url": "https://open.spotify.com/track/5gK09qUQ4XYVoPeUEa99RE"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Seu Grande Amor",
-        "url": "https://open.spotify.com/album/4Krd55setsOAcPdU2WzB5t"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 211896,
-      "name": "O Seu Grande Amor",
-      "url": "https://open.spotify.com/track/0xVpYDK444H2EN27fYQmLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lourena Ac\u00fastico",
         "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 173291,
       "name": "Louco Por Voc\u00ea",
       "url": "https://open.spotify.com/track/79ixyXR5hjLWNdk8ricxAi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Seu Grande Amor",
+        "url": "https://open.spotify.com/album/4Krd55setsOAcPdU2WzB5t"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 211896,
+      "name": "O Seu Grande Amor",
+      "url": "https://open.spotify.com/track/0xVpYDK444H2EN27fYQmLe"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prioridade",
-        "url": "https://open.spotify.com/album/1tQe4DId5aSpPVhMIvPOna"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 208576,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/5cSW70c7FYpNtioW8zBoLb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lourena Ac\u00fastico",
         "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
       },
@@ -907,26 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos de Caju, Vol. 1",
-        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
+        "name": "Prioridade",
+        "url": "https://open.spotify.com/album/1tQe4DId5aSpPVhMIvPOna"
       },
       "artists": [
         {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        },
-        {
-          "name": "Maguzinho",
-          "url": "https://open.spotify.com/artist/5vTInqPT32rNVz8KW6Qp6v"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         },
         {
           "name": "Lourena",
           "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         }
       ],
-      "duration_ms": 203350,
-      "name": "Rid\u00edculo",
-      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
+      "duration_ms": 208576,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/5cSW70c7FYpNtioW8zBoLb"
     },
     {
       "added_at": null,
@@ -1007,6 +983,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "10 Anos de Caju, Vol. 1",
+        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Maguzinho",
+          "url": "https://open.spotify.com/artist/5vTInqPT32rNVz8KW6Qp6v"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 203350,
+      "name": "Rid\u00edculo",
+      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/3XpyegLFI8NwrNhLaCLgaU"
       },
@@ -1047,26 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deixa Ir",
-        "url": "https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caon",
-          "url": "https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Deixa Ir",
-      "url": "https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lourena Ac\u00fastico",
         "url": "https://open.spotify.com/album/5aO8m4nM0tMsR3inJ14PEx"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 244648,
       "name": "Quando Voc\u00ea Voltar",
       "url": "https://open.spotify.com/track/3DchA8j5XAzU6E6gGV2Njr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deixa Ir",
+        "url": "https://open.spotify.com/album/68JkTr2YMhffcdKmQ5ztL5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caon",
+          "url": "https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Deixa Ir",
+      "url": "https://open.spotify.com/track/5hMk6GBvUM3Qi4u0pxugqi"
     },
     {
       "added_at": null,
@@ -1223,6 +1223,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -1243,50 +1263,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo Vai Mudar",
-        "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
-      },
-      "artists": [
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 173553,
-      "name": "Tudo Vai Mudar",
-      "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fake",
-        "url": "https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
     },
     {
       "added_at": null,
@@ -1319,6 +1295,30 @@
       "duration_ms": 226521,
       "name": "Posturadin",
       "url": "https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tudo Vai Mudar",
+        "url": "https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt"
+      },
+      "artists": [
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "duration_ms": 173553,
+      "name": "Tudo Vai Mudar",
+      "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
     },
     {
       "added_at": null,

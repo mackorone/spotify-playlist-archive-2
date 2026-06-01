@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 3270,
+  "num_followers": 3275,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAAPCTC6i0lMJyg/lOG7y4pQ",
+  "snapshot_id": "ahoogAAAAADlpqdjzTSYsNQ0BQ9FALqc",
   "tracks": [
     {
       "added_at": null,
@@ -259,38 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chernobyl (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 284052,
-      "name": "Bridge of Death",
-      "url": "https://open.spotify.com/track/5VwxuwHdpY19gZvyA7TlyU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "Call Me Joker",
-      "url": "https://open.spotify.com/track/257SoE95qEweGItCB9Q5rE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Without Sinking",
         "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
       },
@@ -311,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
       },
       "artists": [
         {
@@ -320,9 +288,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 139680,
-      "name": "Torrek",
-      "url": "https://open.spotify.com/track/5wiNhkUEe7imXJiwPQAuIe"
+      "duration_ms": 288800,
+      "name": "Call Me Joker",
+      "url": "https://open.spotify.com/track/257SoE95qEweGItCB9Q5rE"
     },
     {
       "added_at": null,
@@ -339,6 +307,38 @@
       "duration_ms": 313150,
       "name": "F\u00f3lk f\u00e6r andlit",
       "url": "https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 139680,
+      "name": "Torrek",
+      "url": "https://open.spotify.com/track/5wiNhkUEe7imXJiwPQAuIe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 284052,
+      "name": "Bridge of Death",
+      "url": "https://open.spotify.com/track/5VwxuwHdpY19gZvyA7TlyU"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bride! (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5XjFdeM4VwDiSGxSXvs95S"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 116908,
-      "name": "The Fall",
-      "url": "https://open.spotify.com/track/4n4p5J9mUea31Lbn9S98Uj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 219515,
       "name": "A Minor Astronomical Event",
       "url": "https://open.spotify.com/track/45wiC9xhqI9HZMoKetKV9C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bride! (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5XjFdeM4VwDiSGxSXvs95S"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 116908,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/4n4p5J9mUea31Lbn9S98Uj"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 84760,
-      "name": "Hoyt's Office",
-      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
+      "duration_ms": 121813,
+      "name": "Young Penny",
+      "url": "https://open.spotify.com/track/0u2NLEpkGaPwFptuhWkVwY"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
+        "name": "Saman",
+        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 383266,
-      "name": "The Bone Temple",
-      "url": "https://open.spotify.com/track/3RDfAFQg0yoOjIlUx6l95y"
+      "duration_ms": 450226,
+      "name": "Strokur",
+      "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
     },
     {
       "added_at": null,
@@ -548,15 +548,15 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 121813,
-      "name": "Young Penny",
-      "url": "https://open.spotify.com/track/0u2NLEpkGaPwFptuhWkVwY"
+      "duration_ms": 84760,
+      "name": "Hoyt's Office",
+      "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Saman",
-        "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
+        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 450226,
-      "name": "Strokur",
-      "url": "https://open.spotify.com/track/5rUDQEKBwnLKvvI8m2xFIF"
+      "duration_ms": 383266,
+      "name": "The Bone Temple",
+      "url": "https://open.spotify.com/track/3RDfAFQg0yoOjIlUx6l95y"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 184180,
+      "name": "Melody of Not Knowing",
+      "url": "https://open.spotify.com/track/7DBduWe8f8VWxrIPsfYeGC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Without Sinking",
         "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 198146,
       "name": "Overcast",
       "url": "https://open.spotify.com/track/0UdssF0wBtkGmbTvCCEQFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 184180,
-      "name": "Melody of Not Knowing",
-      "url": "https://open.spotify.com/track/7DBduWe8f8VWxrIPsfYeGC"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 192559,
-      "name": "Over There",
-      "url": "https://open.spotify.com/track/0pGs9W5XnvyF1AdxRpxD90"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 98240,
       "name": "Temple High",
       "url": "https://open.spotify.com/track/1JMqLTfQwSnRgjCup1INOO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 192559,
+      "name": "Over There",
+      "url": "https://open.spotify.com/track/0pGs9W5XnvyF1AdxRpxD90"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 140909,
-      "name": "Make Space",
-      "url": "https://open.spotify.com/track/4ARFffayKBFybDNtCYYXDG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trapped (Original Television Series Soundtrack)",
         "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 124541,
       "name": "A Political Murder",
       "url": "https://open.spotify.com/track/4mHMybgI5nXy30WzP5IKyw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 140909,
+      "name": "Make Space",
+      "url": "https://open.spotify.com/track/4ARFffayKBFybDNtCYYXDG"
     },
     {
       "added_at": null,

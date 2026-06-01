@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 
 > This is Chet Baker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,386 likes - 46 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,404 likes - 46 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO200ybe.md) - [plain]
 | 45 | [I Remember You \- Remastered 2004](https://open.spotify.com/track/6FYeRy9LuMYTEMXOVCRCJ5) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:15 |
 | 46 | [Neapolitan Phantasy](https://open.spotify.com/track/20xmXGsOL7nGsFyUxHszm2) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Smog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5v9yUH4MkbT7Wovdz8Y54o) | 3:54 |
 
-Snapshot ID: `ahjXAAAAAACT0mk35FurbUmaW9/K1zlM`
+Snapshot ID: `ahoogAAAAACCaWRSvrjQ8R59YLPH3GK/`

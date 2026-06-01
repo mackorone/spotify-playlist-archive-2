@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 
 > ¡Esto es punta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,757 likes - 38 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,770 likes - 38 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOCFhDS6muW.md) - [plain]
 | 31 | [Puntas Criollas](https://open.spotify.com/track/5wX1o7xplHkvs1zUkUL5sJ) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [Batalla de las Puntas, Vol\. 3](https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R) | 5:42 |
 | 32 | [El Amor de una Rosa](https://open.spotify.com/track/1PZrgNt6DYEcKhK3PHUngt) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Fiesta de Punta USA](https://open.spotify.com/album/08CZ6kTp8bTgIWmmMryA0s) | 4:28 |
 | 33 | [Si Pudiera Yo](https://open.spotify.com/track/7C0qwetoetcHa3Q4mCBCWz) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Puro Exitos](https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7) | 4:15 |
-| 34 | [Swing Latino](https://open.spotify.com/track/2kVZfr5MW8w7wc7v6ULwWK) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Saben Quien Llego](https://open.spotify.com/album/78w7svKazglFlKTtHOYht7) | 5:02 |
+| 34 | [Banana](https://open.spotify.com/track/61AxjjJ98vp7XOzUVutY3l) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Banana](https://open.spotify.com/album/4gcyP6xuH2Dz69J7gaNAeR) | 3:16 |
 | 35 | [Mete y Saca](https://open.spotify.com/track/5VLpKWHfSig8NU1mdsr5Re) | [Punta Cartel](https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM) | [Mete y Saca](https://open.spotify.com/album/6LZYFwkUpoUd2UiMnsnIeV) | 5:25 |
 | 36 | [Catalina La Coja](https://open.spotify.com/track/0YRYTEfZUNm1oxEVbJYmWB) | [Los Silver Star](https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP) | [La Guerra De Las Puntas](https://open.spotify.com/album/7MRIkW4ZvHEVWVvoGDieW8) | 4:09 |
 | 37 | [Vamos Vamos Todos Con la Seleccion](https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl) | [Grupo Kazzabe](https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3) | [Baila Baila](https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo) | 1:53 |
-| 38 | [Banana](https://open.spotify.com/track/61AxjjJ98vp7XOzUVutY3l) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv) | [Banana](https://open.spotify.com/album/4gcyP6xuH2Dz69J7gaNAeR) | 3:16 |
+| 38 | [Pai](https://open.spotify.com/track/7nVxxifuVHGa97WVNIVoMG) | [Las Chicas Rolands](https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz) | [Puro Exitos: Las Chicas Rolands](https://open.spotify.com/album/4T4kwbbas6ZdwBYUCVPfeY) | 3:23 |
 
 Snapshot ID: `AAAAAFtc1gNHVLvK6lpKGU17VKxPtkxU`

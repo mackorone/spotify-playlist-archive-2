@@ -1,12 +1,12 @@
 {
   "description": "This is SOPHIE. The essential tracks, all in one playlist.",
-  "num_followers": 38302,
+  "num_followers": 38304,
   "original_name": "This Is SOPHIE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAA1o1lraGOL8XzjbIn3HNNB",
+  "snapshot_id": "ahoogAAAAABJG1J9xVut7EV9eOH69m/k",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hi This Is Flume (Mixtape)",
-        "url": "https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ"
+        "name": "1,2,3 dayz up",
+        "url": "https://open.spotify.com/album/1xaI3XJLvqBsUkB3V8ekZt"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Eprom",
-          "url": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
         }
       ],
-      "duration_ms": 287331,
-      "name": "Is It Cold In The Water? (Flume & Eprom Remix)",
-      "url": "https://open.spotify.com/track/04X7LXANC1Vm78k4PhNmTV"
+      "duration_ms": 213678,
+      "name": "1,2,3 dayz up",
+      "url": "https://open.spotify.com/track/7yYthdauFfDxLhkWCsFtas"
     },
     {
       "added_at": null,
@@ -395,22 +391,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "1,2,3 dayz up",
-        "url": "https://open.spotify.com/album/1xaI3XJLvqBsUkB3V8ekZt"
+        "name": "Hi This Is Flume (Mixtape)",
+        "url": "https://open.spotify.com/album/0enl6lyotKB8LKlUo5m2oJ"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         },
         {
           "name": "SOPHIE",
           "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Eprom",
+          "url": "https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi"
         }
       ],
-      "duration_ms": 213678,
-      "name": "1,2,3 dayz up",
-      "url": "https://open.spotify.com/track/7yYthdauFfDxLhkWCsFtas"
+      "duration_ms": 287331,
+      "name": "Is It Cold In The Water? (Flume & Eprom Remix)",
+      "url": "https://open.spotify.com/track/04X7LXANC1Vm78k4PhNmTV"
     },
     {
       "added_at": null,

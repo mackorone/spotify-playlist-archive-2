@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 
 > Chill out to the sweetest soul songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,409,844 likes - 65 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,409,968 likes - 65 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 55 | [Ain't No Love In The Heart Of The City \- Single Version](https://open.spotify.com/track/14rTFBs1cCkOBp5JPUrJhw) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Music For Groovin'](https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON) | 3:45 |
 | 56 | [Rhythm Of Life](https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 4:19 |
 | 57 | [Footsteps In the Dark \- Pt\. 1 & 2](https://open.spotify.com/track/5cDylrPWlV0A3XbX5fRTrd) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Your Thing: The Story Of The Isley Brothers](https://open.spotify.com/album/21O10zQ7YrFOTgfyRmopHs) | 5:05 |
-| 58 | [Express Yourself \- Remastered Version](https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself \(Remastered & Expanded\)](https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3) | 3:49 |
-| 59 | [On My Own](https://open.spotify.com/track/7KsXSnQc8qdeBSOnTM5Vvn) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [The Collection](https://open.spotify.com/album/7jueDf9uaDOwCSQOfM9rFs) | 4:49 |
+| 58 | [On My Own](https://open.spotify.com/track/7KsXSnQc8qdeBSOnTM5Vvn) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [The Collection](https://open.spotify.com/album/7jueDf9uaDOwCSQOfM9rFs) | 4:49 |
+| 59 | [Express Yourself \- Remastered Version](https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself \(Remastered & Expanded\)](https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3) | 3:49 |
 | 60 | [Wish I Didn't Miss You](https://open.spotify.com/track/1euSJSk3dqCRmfdVwczmsR) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Hits: The Very Best Of Angie Stone](https://open.spotify.com/album/3N8afNZRMDlSO5TrDZ08Nc) | 4:29 |
 | 61 | [Talk It Out](https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6) | 3:10 |
 | 62 | [Try A Little Tenderness](https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Stax\-Volt: The Complete Singles 1959\-1968](https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH) | 3:20 |

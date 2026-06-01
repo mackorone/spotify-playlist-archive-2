@@ -2191,6 +2191,32 @@
     },
     {
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/5Wmypry9sRXgIZT5wdqkQq"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "VAVO",
+          "url": "https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK"
+        },
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Run With The Sun",
+      "url": "https://open.spotify.com/track/1jTIXpx7E3QGN5e9oc8kr3"
+    },
+    {
+      "album": {
         "name": "Run With The Sun",
         "url": "https://open.spotify.com/album/0yGAKnZcjJiLJtz8zxZw3a"
       },
@@ -2210,7 +2236,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 150500,
       "name": "Run With The Sun",
       "url": "https://open.spotify.com/track/4tzDxQC3Rkso3khvj5nQJG"

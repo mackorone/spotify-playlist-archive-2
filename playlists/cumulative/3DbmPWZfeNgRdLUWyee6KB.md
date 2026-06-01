@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,127 songs - 2 day 17 hr 57 min
+1,128 songs - 2 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,6 +661,7 @@
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2026-03-02 | 2026-03-25 |
 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2026-02-22 | 2026-03-25 |
 | [Noah \- Radio Edit](https://open.spotify.com/track/1x58z8IfXZpTsWWqJaHV1B) | [Bob Birthisel](https://open.spotify.com/artist/4uc4QBJqxmjH3I6QnA3IdT), [Phil Keaggy](https://open.spotify.com/artist/1bAzlT6fMBcvCfwgh4S3Xl) | [Noah \(Radio Edit\)](https://open.spotify.com/album/4OUb2YjMiE9fRJAGiNpFKk) | 4:20 | 2025-10-06 | 2025-11-29 |
+| [Non ho niente d'intelligente da dire](https://open.spotify.com/track/1oHlgkWpq8XtbazzUiu4LZ) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK) | [Non ho niente d'intelligente da dire](https://open.spotify.com/album/2qiVxI3VlAhm04T5c146wJ) | 3:02 | 2026-05-31 |  |
 | [Northwest Cold Front](https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Northwest Cold Front](https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c) | 3:07 | 2026-04-01 | 2026-05-03 |
 | [Nostalgia](https://open.spotify.com/track/0b2mrLjNxBfCq2hl97Yb4a) | [Miss Marielle](https://open.spotify.com/artist/4jDARgo4Odf7OslYnqZVlx) | [Detached](https://open.spotify.com/album/4VpODvxBTAEv2PVNXSTjYC) | 3:15 | 2026-04-08 | 2026-05-14 |
 | [Nostalgia \(Remastered\)](https://open.spotify.com/track/1BiivaZNsUDEgm8at5T5Et) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Pakhi Adhikari Kalipada](https://open.spotify.com/artist/7ozw5g9CS05d0lgbhPAmNv) | [Sicilia Araba: Arabic Poets of Sicily 827\-1091 \(Remastered\)](https://open.spotify.com/album/5d75AmGNOpM2U2hBrPuFeA) | 4:49 | 2023-04-20 | 2025-11-29 |

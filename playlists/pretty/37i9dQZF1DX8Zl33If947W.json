@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 207030,
+  "num_followers": 207087,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Morgen",
-        "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
       },
       "artists": [
         {
-          "name": "EstA",
-          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
-        },
-        {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
         }
       ],
-      "duration_ms": 135096,
-      "name": "Morgen",
-      "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
+      "duration_ms": 254080,
+      "name": "Liebes Lied",
+      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -707,18 +703,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+        "name": "Morgen",
+        "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
       "artists": [
         {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+          "name": "EstA",
+          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+        },
+        {
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
         }
       ],
-      "duration_ms": 254080,
-      "name": "Liebes Lied",
-      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
+      "duration_ms": 135096,
+      "name": "Morgen",
+      "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
     },
     {
       "added_at": "2026-03-26 08:28:03",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,212 likes - 50 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,221 likes - 50 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 41 | [Made For More \- Live](https://open.spotify.com/track/1eCgbIxafpKPWH5on8N02j) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [We Must Respond \(Live\)](https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH) | 6:25 |
 | 42 | [Dancing on the Waves](https://open.spotify.com/track/7D2dX1omKWoLatKZyYMhCV) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 6:14 |
 | 43 | [You Make Me Brave \(Live\)](https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm) | 6:06 |
-| 44 | [We Praise You \(Live\)](https://open.spotify.com/track/3t8IxqbGlWeILQM6bPt5VU) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 6:55 |
-| 45 | [Rescue](https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 5:19 |
-| 46 | [My King Forever \(Live\)](https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 5:15 |
+| 44 | [My King Forever \(Live\)](https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 5:15 |
+| 45 | [We Praise You \(Live\)](https://open.spotify.com/track/3t8IxqbGlWeILQM6bPt5VU) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 6:55 |
+| 46 | [Rescue](https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 5:19 |
 | 47 | [This Is a Move](https://open.spotify.com/track/3y3NMcB0IuMKrLbqwFKU8N) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/6i1NqxIGiZ5PmI4LAXDF4H) | 4:59 |
 | 48 | [Holy Hands \- Live](https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp) | [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Holy Hands \(Live\)](https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P) | 7:14 |
 | 49 | [Ten Fe Corazón \(En Vivo\)](https://open.spotify.com/track/2lDF0n9AO9SKTt8NkSxHkj) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8), [Raquel Vega](https://open.spotify.com/artist/3CWGrUvzZCBCxLI1bc9RgM) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn) | 5:12 |
 | 50 | [Jesus Have It All \(Spontaneous\) \- Live](https://open.spotify.com/track/4t2nKUddnq1ST2Fi6dZdJy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [We Must Respond \(Live\)](https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH) | 8:07 |
 
-Snapshot ID: `ahjXAAAAAAAD5VjzjQZd/5TbsoG+Wl9H`
+Snapshot ID: `ahoogAAAAAByQg4j+I6SDzEH3yCgQCsg`

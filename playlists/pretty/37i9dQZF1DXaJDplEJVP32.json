@@ -1,6 +1,6 @@
 {
   "description": "Spotify music editors' choice for the best Christian & Gospel songs of 2010s. Cover: MercyMe",
-  "num_followers": 152924,
+  "num_followers": 152955,
   "original_name": "2010s Christian & Gospel",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
+        "name": "Listen To The Sound",
+        "url": "https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Where I Belong",
+      "url": "https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
         "name": "I Won't Let You Go",
         "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 247422,
       "name": "I Won't Let You Go",
       "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "Listen To The Sound",
-        "url": "https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Where I Belong",
-      "url": "https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
+        "name": "No Far Away",
+        "url": "https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA"
+      },
+      "artists": [
+        {
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+        }
+      ],
+      "duration_ms": 203440,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/7C1UfKbTHSjLOvufnfdWbl"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
         "name": "Fierce (Studio Version)",
         "url": "https://open.spotify.com/album/5KLi1WXy0wZdtGYVkujZkW"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 222186,
       "name": "Fierce - Studio Version",
       "url": "https://open.spotify.com/track/35jVid0Qi789ypoem4KMrs"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "No Far Away",
-        "url": "https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA"
-      },
-      "artists": [
-        {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
-        }
-      ],
-      "duration_ms": 203440,
-      "name": "Starry Night",
-      "url": "https://open.spotify.com/track/7C1UfKbTHSjLOvufnfdWbl"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1483,6 +1483,46 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
+        "name": "I'll Find You (feat. Tori Kelly)",
+        "url": "https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 218213,
+      "name": "I'll Find You (feat. Tori Kelly)",
+      "url": "https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
+        "name": "One Song at a Time",
+        "url": "https://open.spotify.com/album/0RmFv9lGGXC4gII5HHB3Xy"
+      },
+      "artists": [
+        {
+          "name": "Jamie Grace",
+          "url": "https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Hold Me (feat. Tobymac)",
+      "url": "https://open.spotify.com/track/2t97pZAsSgraYlocMNhkSe"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
         "name": "Hope In Front of Me",
         "url": "https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM"
       },
@@ -1551,46 +1591,6 @@
       "duration_ms": 293331,
       "name": "Death Was Arrested",
       "url": "https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "One Song at a Time",
-        "url": "https://open.spotify.com/album/0RmFv9lGGXC4gII5HHB3Xy"
-      },
-      "artists": [
-        {
-          "name": "Jamie Grace",
-          "url": "https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7"
-        },
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Hold Me (feat. Tobymac)",
-      "url": "https://open.spotify.com/track/2t97pZAsSgraYlocMNhkSe"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "I'll Find You (feat. Tori Kelly)",
-        "url": "https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 218213,
-      "name": "I'll Find You (feat. Tori Kelly)",
-      "url": "https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE"
     },
     {
       "added_at": "2025-12-12 06:15:47",

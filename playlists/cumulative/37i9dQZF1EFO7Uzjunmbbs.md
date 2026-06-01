@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-217 songs - 12 hr 10 min
+218 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Hoodie](https://open.spotify.com/track/51rmbZbSxwrLGhFEsC61cT) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Rise and Shine](https://open.spotify.com/album/2xaRueD4DNWoJ2JyMKBXde) | 3:01 | 2026-05-19 |  |
 | [How Much More](https://open.spotify.com/track/7Gf89EnjBp9LQthVznFpEH) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Shattered](https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm) | 3:41 | 2026-05-19 |  |
 | [How This Ends](https://open.spotify.com/track/4vSCO0f8BurJVGYlY4OVkZ) | [Grayson Reed](https://open.spotify.com/artist/0ZqF46gvYuIgK5S5LjsUjk) | [Walk](https://open.spotify.com/album/65bBOu1yEq9ioTCPLM7yPo) | 3:41 | 2026-05-19 |  |
+| [how to swim](https://open.spotify.com/track/5eytO8ZEN26UjAp5QSkciP) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:45 | 2026-05-31 |  |
 | [Human Diary](https://open.spotify.com/track/5HPT6H8sKOhkGZ7TCrTgfY) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:43 | 2026-05-19 |  |
 | [I'm Making Mine](https://open.spotify.com/track/176fqPqcS5peZMArZEt0kR) | [Erica Nicole](https://open.spotify.com/artist/2SyJvmOHYwZBWwPWsR2KZd) | [I'm Making Mine](https://open.spotify.com/album/0E7xnu9aDS7CK41jaaijWD) | 3:52 | 2026-05-19 |  |
 | [I've Got You](https://open.spotify.com/track/1fCZlXzwRBQ7slzj3PCTsi) | [Sheridan](https://open.spotify.com/artist/1M1VQcOFJjfzyqmb9Krdi6) | [Gettin' Back Up](https://open.spotify.com/album/0OEZOtmG9gMlvIRgVk6VrQ) | 3:22 | 2026-05-19 |  |

@@ -2727,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "home ANYMORE",
+        "url": "https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs"
+      },
+      "artists": [
+        {
+          "name": "Nayla Salzmann",
+          "url": "https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197149,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/3bmxRg9hZNL7fJHSCpqpgj"
+    },
+    {
+      "album": {
         "name": "Jane",
         "url": "https://open.spotify.com/album/3McsECnITe5RZAbrBHn36C"
       },
@@ -4205,6 +4223,24 @@
     },
     {
       "album": {
+        "name": "Sinking Into The Ocean",
+        "url": "https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc"
+      },
+      "artists": [
+        {
+          "name": "Maia and the Squires",
+          "url": "https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/0hUbr66SmawTFyn17USbQS"
+    },
+    {
+      "album": {
         "name": "Playing God",
         "url": "https://open.spotify.com/album/2ZxXf7pkmshkpbMgHSfQnv"
       },
@@ -4220,6 +4256,24 @@
       "duration_ms": 220933,
       "name": "Playing God",
       "url": "https://open.spotify.com/track/58MmPniM5FnH9c1WfeTzdO"
+    },
+    {
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/5hd5OYYmt8n6nkayRVVzqw"
+      },
+      "artists": [
+        {
+          "name": "Noam Peri",
+          "url": "https://open.spotify.com/artist/5jOb4IiotwIkHpg8wyRmzt"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251037,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/3etMVsSrF9XZ4PbZKyvyQj"
     },
     {
       "album": {

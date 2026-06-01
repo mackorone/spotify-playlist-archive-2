@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 824469,
+  "num_followers": 824544,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/1BXZQGHBi7vwCqxr6UncIf"
+      },
+      "artists": [
+        {
+          "name": "Dobie Gray",
+          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
+        }
+      ],
+      "duration_ms": 235653,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/5S6lnVk3sQDN9lKMeSUGrI"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Motown: The Complete No. 1's",
         "url": "https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 428240,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/1BXZQGHBi7vwCqxr6UncIf"
-      },
-      "artists": [
-        {
-          "name": "Dobie Gray",
-          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
-        }
-      ],
-      "duration_ms": 235653,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/5S6lnVk3sQDN9lKMeSUGrI"
     },
     {
       "added_at": "2024-07-02 22:47:47",

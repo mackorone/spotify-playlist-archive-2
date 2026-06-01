@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,485 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,488 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 9 | [Flashlight](https://open.spotify.com/track/4soJPaN3etpZC72tHZztw3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Flashlight](https://open.spotify.com/album/57zTr9eQz0d6JqRnHpcCBQ) | 3:52 |
 | 10 | [BOTAS CON BASS](https://open.spotify.com/track/1GRmevIWg03dJEC8UYZ7uM) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Montez de Durango](https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc), [Chan](https://open.spotify.com/artist/7eW92uO1go30tdK4XtqVPh) | [BOTAS & RAVE](https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz) | 3:15 |
 | 11 | [Muñequita Linda](https://open.spotify.com/track/3EFzexdYFIzbM2dusddMVk) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [Muñequita Linda](https://open.spotify.com/album/2ndIHUzRvnc6rLoSxFVfd3) | 3:30 |
-| 12 | [Un Poquito Más](https://open.spotify.com/track/1ShgziqogzD9PeYRNugqNU) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Un Poquito Más](https://open.spotify.com/album/7bj3LncFV0WD4jIJa0O6ME) | 3:16 |
-| 13 | [Pica](https://open.spotify.com/track/40VX50kHlByBKYWSoa6I5B) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Pica](https://open.spotify.com/album/3A7OG7pA70ldH6OudLhiQG) | 3:19 |
+| 12 | [Pica](https://open.spotify.com/track/40VX50kHlByBKYWSoa6I5B) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Pica](https://open.spotify.com/album/3A7OG7pA70ldH6OudLhiQG) | 3:19 |
+| 13 | [Un Poquito Más](https://open.spotify.com/track/1ShgziqogzD9PeYRNugqNU) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Un Poquito Más](https://open.spotify.com/album/7bj3LncFV0WD4jIJa0O6ME) | 3:16 |
 | 14 | [ME GUSTA](https://open.spotify.com/track/4bbFWEArNN2tCgR0DpsylN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [BOTAS & RAVE](https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz) | 2:27 |
 | 15 | [I Can Be Somebody \(feat\. Erin McCarley\)](https://open.spotify.com/track/0sxvPuybHVMwEvCSfbJDM6) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Erin McCarley](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) | [I Can Be Somebody \(feat\. Erin McCarley\)](https://open.spotify.com/album/3uhSkzqs0XFuG9J6pueblf) | 4:37 |
 | 16 | [Bring It Back \(feat\. Max Styler\)](https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Bring It Back \(feat\. Max Styler\)](https://open.spotify.com/album/6orvX1pLBGiiHQiSc1eEr8) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 49 | [All This Time](https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [All This Time](https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs) | 3:45 |
 | 50 | [La Plebada \(feat\. Deorro\)](https://open.spotify.com/track/5frpTS5bVMhdXTmDqCpLaS) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Síndrome Estocolmo](https://open.spotify.com/album/4D10N5Tf0M2MEeyZzb1LPg) | 2:45 |
 
-Snapshot ID: `ahjXAAAAAADAYl7mG9gfpaPPDpdiIB5b`
+Snapshot ID: `ahoogAAAAABCj9CiuhJVb7Y5Tft8tjiX`

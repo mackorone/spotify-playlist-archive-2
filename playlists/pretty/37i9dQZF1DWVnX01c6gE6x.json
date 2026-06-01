@@ -1,13 +1,61 @@
 {
-  "description": "Creadores que necesitas tener en el RADAR. En la portada: <a href=\"spotify:show:1Rd6XqtD2PNcs599lgCaqn\">Las Desencantadas</a>",
+  "description": "Creadores que necesitas tener en el RADAR. En la portada: <a href=\"spotify:show:4NGoEpjwtJL5N6QhJhzEUV\">Desmenucemos la Data </a>",
   "num_followers": 3008,
   "original_name": "RADAR Creadores M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD+LT2pJipcgRKznvDY3fP0IbrDr",
+  "snapshot_id": "AAAAAP2VMmh8bR3eEUPrg78Erflm6od5",
   "tracks": [
+    {
+      "added_at": "2026-05-31 06:28:49",
+      "album": {
+        "name": "Desmenucemos la Data",
+        "url": "https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV"
+      },
+      "artists": [
+        {
+          "name": "Desmenucemos la Data",
+          "url": "https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV"
+        }
+      ],
+      "duration_ms": 4967978,
+      "name": "19 - FGR CITA A MARU CAMPOS Y ROCHA MOYA | Sheinbaum va contra TV Azteca",
+      "url": "https://open.spotify.com/episode/5jOVBpg6ZDvXSLKQBJJNHi"
+    },
+    {
+      "added_at": "2026-05-31 06:28:49",
+      "album": {
+        "name": "Desmenucemos la Data",
+        "url": "https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV"
+      },
+      "artists": [
+        {
+          "name": "Desmenucemos la Data",
+          "url": "https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV"
+        }
+      ],
+      "duration_ms": 5221056,
+      "name": "18 - MORENA VS MARU CAMPOS, UIF, MAHAHUAL y m\u00e1s brete",
+      "url": "https://open.spotify.com/episode/6objEioJtX2sUFGEhtnoMq"
+    },
+    {
+      "added_at": "2026-05-31 06:28:49",
+      "album": {
+        "name": "Desmenucemos la Data",
+        "url": "https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV"
+      },
+      "artists": [
+        {
+          "name": "Desmenucemos la Data",
+          "url": "https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV"
+        }
+      ],
+      "duration_ms": 4124735,
+      "name": "17 - HONDURASGATE Y D\u00cdAZ AYUSO | \u00bfQu\u00e9 hac\u00eda BTS en Palacio Nacional? ",
+      "url": "https://open.spotify.com/episode/3uDBFNmlP3AawBLtFQ1Y0k"
+    },
     {
       "added_at": "2026-05-01 15:19:32",
       "album": {
@@ -103,54 +151,6 @@
       "duration_ms": 4725333,
       "name": " 2x2 - Supositorios en la vida adulta - Kayko - Puerto la Camotera.",
       "url": "https://open.spotify.com/episode/580Yz0V1atmbENWt9ZCmEK"
-    },
-    {
-      "added_at": "2026-05-01 15:19:32",
-      "album": {
-        "name": "Cachorritas Podcast",
-        "url": "https://open.spotify.com/album/33otctvlvENqmean7uvNWH"
-      },
-      "artists": [
-        {
-          "name": "Cachorritas Podcast",
-          "url": "https://open.spotify.com/show/33otctvlvENqmean7uvNWH"
-        }
-      ],
-      "duration_ms": 2860604,
-      "name": "Palabras de Pueblo: No reconocidas por la RAE | Cachorritas Podcast | Ep 35",
-      "url": "https://open.spotify.com/episode/6962xzNmJpfTmab4O6L91A"
-    },
-    {
-      "added_at": "2026-05-01 15:19:32",
-      "album": {
-        "name": "Cachorritas Podcast",
-        "url": "https://open.spotify.com/album/33otctvlvENqmean7uvNWH"
-      },
-      "artists": [
-        {
-          "name": "Cachorritas Podcast",
-          "url": "https://open.spotify.com/show/33otctvlvENqmean7uvNWH"
-        }
-      ],
-      "duration_ms": 2721936,
-      "name": "La infancia de antes era mejor que la de ahora l Cachorritas Podcast l Ep 33",
-      "url": "https://open.spotify.com/episode/6CTgrAua0zQ61dFpbSrYEO"
-    },
-    {
-      "added_at": "2026-02-03 13:44:25",
-      "album": {
-        "name": "Cachorritas Podcast",
-        "url": "https://open.spotify.com/album/33otctvlvENqmean7uvNWH"
-      },
-      "artists": [
-        {
-          "name": "Cachorritas Podcast",
-          "url": "https://open.spotify.com/show/33otctvlvENqmean7uvNWH"
-        }
-      ],
-      "duration_ms": 1796017,
-      "name": "Noviazgos de Pueblo | Cachorritas Podcast | Ep 02",
-      "url": "https://open.spotify.com/episode/6fM5cok1ukGOOWUX06KQe3"
     }
   ],
   "unique_name": "RADAR Creadores M\u00e9xico",

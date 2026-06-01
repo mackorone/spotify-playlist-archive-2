@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 
 > This is Pennywise\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,586 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,595 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 43 | [As Long As We Can \(Intro\)](https://open.spotify.com/track/7ml60qKvVgLpEf0uZ5EQBI) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Reason To Believe](https://open.spotify.com/album/6qWDJK2ECvWqb7Yuov8LZc) | 3:09 |
 | 44 | [Dying to Know \- 2005 Remaster](https://open.spotify.com/track/6wHh6CHqcIQR1gpmmjeaKL) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 3:05 |
 | 45 | [The World](https://open.spotify.com/track/2WD64H3EBdbIisfP34X0ea) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 2:26 |
-| 46 | [Don't Tear Me Down](https://open.spotify.com/track/5mSr9lvz9wQkSX0L2kUs50) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz), [Jim Lindberg](https://open.spotify.com/artist/3cAR0XuqxfhBw6nEk9uPc6), [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Ollie Ollie Oxen Free](https://open.spotify.com/album/4MBEuKyxcVRFFMtXIWlRH1) | 2:12 |
-| 47 | [Rules \- 2005 Remaster](https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 1:25 |
+| 46 | [Rules \- 2005 Remaster](https://open.spotify.com/track/767rObQPgUNryNEu7HBnqq) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Pennywise \(2005 Remaster\)](https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt) | 1:25 |
+| 47 | [Don't Tear Me Down](https://open.spotify.com/track/5mSr9lvz9wQkSX0L2kUs50) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz), [Jim Lindberg](https://open.spotify.com/artist/3cAR0XuqxfhBw6nEk9uPc6), [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Ollie Ollie Oxen Free](https://open.spotify.com/album/4MBEuKyxcVRFFMtXIWlRH1) | 2:12 |
 | 48 | [Ace of Spades](https://open.spotify.com/track/1K7OdZNMaEqButgV6D28UX) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks), [Killed By Deaf](https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB) | [Ace of Spades](https://open.spotify.com/album/3xyncfiFgU49RupI5wfvP3) | 2:31 |
 | 49 | [X Generation](https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [All Or Nothing \(Deluxe Edition\)](https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa) | 3:15 |
 | 50 | [American Lies](https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:11 |
 
-Snapshot ID: `ahjXAAAAAADKq3cqRvEc+oIc2YkCySzI`
+Snapshot ID: `ahoogAAAAABBNhhh2peKvTWyzaN6mfNy`

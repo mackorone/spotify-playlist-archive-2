@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 133717,
+  "num_followers": 133714,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-05-11 18:43:15",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/1AyCx0WQX2pRFTQdbicwcK"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 283848,
+      "name": "Into the Groove",
+      "url": "https://open.spotify.com/track/3y2Y3Bc6GDxAWAMIpbW7RU"
+    },
+    {
+      "added_at": "2026-05-11 18:43:15",
+      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
-    },
-    {
-      "added_at": "2026-05-11 18:43:15",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/1AyCx0WQX2pRFTQdbicwcK"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 283848,
-      "name": "Into the Groove",
-      "url": "https://open.spotify.com/track/3y2Y3Bc6GDxAWAMIpbW7RU"
     },
     {
       "added_at": "2026-05-11 18:43:15",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-05-11 18:43:15",
       "album": {
-        "name": "Millennium",
-        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "Larger Than Life",
-      "url": "https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE"
-    },
-    {
-      "added_at": "2026-05-11 18:43:15",
-      "album": {
         "name": "She\u2019s Gone, Dance On",
         "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 226773,
       "name": "She\u2019s Gone, Dance On",
       "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "added_at": "2026-05-11 18:43:15",
+      "album": {
+        "name": "Millennium",
+        "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "Larger Than Life",
+      "url": "https://open.spotify.com/track/6sbXGUn9V9ZaLwLdOfpKRE"
     },
     {
       "added_at": "2026-05-11 18:43:15",
@@ -1027,22 +1027,18 @@
     {
       "added_at": "2026-05-11 18:43:15",
       "album": {
-        "name": "Tattoo (Topic Remix)",
-        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
+        "name": "You've Come a Long Way Baby",
+        "url": "https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Tattoo - Topic Remix",
-      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
+      "duration_ms": 413880,
+      "name": "The Rockafeller Skank",
+      "url": "https://open.spotify.com/track/5AgCO3dc2kuSicCsw09YCA"
     },
     {
       "added_at": "2026-05-11 18:43:15",
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2026-05-11 18:43:15",
       "album": {
-        "name": "You've Come a Long Way Baby",
-        "url": "https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN"
+        "name": "Tattoo (Topic Remix)",
+        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
       },
       "artists": [
         {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         }
       ],
-      "duration_ms": 413880,
-      "name": "The Rockafeller Skank",
-      "url": "https://open.spotify.com/track/5AgCO3dc2kuSicCsw09YCA"
+      "duration_ms": 211400,
+      "name": "Tattoo - Topic Remix",
+      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
     },
     {
       "added_at": "2026-05-11 18:43:15",

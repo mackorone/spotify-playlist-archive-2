@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 34 likes - 11 songs - 40 min 11 sec
+[royva06](https://open.spotify.com/user/royva06) - 34 likes - 11 songs - 44 min 41 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cod Liver Oil & The Orange Juice](https://open.spotify.com/track/5X04NRmQ7iIINOtACuxltp) | [The Mary Wallopers](https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2) | [A Mouthful of The Mary Wallopers](https://open.spotify.com/album/5UVPXZwN2cgFrqAhSk1bkJ) | 4:11 |
-| 2 | [Trampoline](https://open.spotify.com/track/4Ng1Xb8w86KxxEph6Z9uQm) | [The Shootouts](https://open.spotify.com/artist/7s5iJMvUVornAgb6oseC6j), [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ) | [Switchback](https://open.spotify.com/album/7sP57A3uEiFoiqVPkyXCmt) | 3:36 |
-| 3 | [I Keep Forgettin' \(Every Time You're Near\)](https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:42 |
-| 4 | [Hertz](https://open.spotify.com/track/4GIeQy7OzftStBoimCWIMU) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 2:33 |
-| 5 | [Return of the "G"](https://open.spotify.com/track/1wYp8ISMvX8qrflPrBU9Yo) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 4:49 |
-| 6 | [Date With Destiny](https://open.spotify.com/track/6QD6XXDt3wy1GcSMaIOH2h) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Full Circle \(2005 Remaster\)](https://open.spotify.com/album/3B6R5NLi3Lg6pyXUdVf32E) | 2:55 |
-| 7 | [On The Road](https://open.spotify.com/track/0RO5cr4TnZWiZipvpQUeuX) | [Habibi](https://open.spotify.com/artist/600GgDUq9kzGJgNIrVsWfz) | [Dreamachine](https://open.spotify.com/album/4unDF4XrmmKS7HbbfYpfmB) | 4:16 |
-| 8 | [Read My Lips](https://open.spotify.com/track/6TOtXc4baTpVCQE7rwbgLR) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 4:03 |
-| 9 | [Identity Theft](https://open.spotify.com/track/5GJhtKP7EgUVhDjrHGbF4P) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [High Risk Behaviour](https://open.spotify.com/album/0MHGKVzf6jX0hJ1gfgDwF7) | 2:42 |
-| 10 | [Benzi Box](https://open.spotify.com/track/6x4T3kWUcaZI3BpdOlasxH) | [DANGERDOOM](https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [THE MOUSE & THE MASK](https://open.spotify.com/album/6vAKENvwUSLMUAWYruV9sw) | 3:00 |
-| 11 | [Dead Men Don't Rape](https://open.spotify.com/track/0y3aIB5JiHNhJLSGhLdHoJ) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Dead Men Don't Rape](https://open.spotify.com/album/3RfSdZ2Rxqo5FYdZtr7ZyP) | 4:19 |
+| 1 | [Classical](https://open.spotify.com/track/4DlGLD32K7shuL8ub067DL) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:19 |
+| 2 | [bmbmbm](https://open.spotify.com/track/3VRR4cKNiHC3CzY4iGj9XX) | [black midi](https://open.spotify.com/artist/7Hvq85OU8T7Hsd63zNBwaL) | [Schlagenheim](https://open.spotify.com/album/5M9SijJoRgczSknq2LaHJN) | 4:56 |
+| 3 | [Green Rocky Road](https://open.spotify.com/track/2QLxKsUuwmjeaZTTfJN6x1) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [Green/Green](https://open.spotify.com/album/3xlJBfOW81k5jsfTcOR5rw) | 3:45 |
+| 4 | [Honey](https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:01 |
+| 5 | [The Bird](https://open.spotify.com/track/7pamxApUs3CE8t7tKmUJ6Z) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 3:37 |
+| 6 | [Gorof \(Elixir\)](https://open.spotify.com/track/3ny55ZJcTqFLIcuXPzOpBF) | [Dur\-Dur Band](https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF), [Sahra Dawo](https://open.spotify.com/artist/46WFCBN904ERbVnN9yixog) | [Sweet as Broken Dates: Lost Somali Tapes from the Horn of Africa](https://open.spotify.com/album/7l5wQ73rhubusiHsnT0tsN) | 5:40 |
+| 7 | [All The Kids Are Right](https://open.spotify.com/track/50kQ7oNv9cGEs8JRC614hl) | [Local H](https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8) | [Pack Up The Cats](https://open.spotify.com/album/0v7rheoRfC87UP3A9737ih) | 3:47 |
+| 8 | [America](https://open.spotify.com/track/63LVOsdT7bB52kCzNLsEPn) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:23 |
+| 9 | [Acceptance](https://open.spotify.com/track/2KfRanpm32bkFwHqm1Fnht) | [Rachel Ana Dobken](https://open.spotify.com/artist/0yjMY9pIL4rmCOLrNtvSlP) | [Acceptance](https://open.spotify.com/album/6OT9KKWOI1D4DEySZJbaIn) | 5:52 |
+| 10 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
+| 11 | [VBS](https://open.spotify.com/track/2ZnEPfXm1CZzhGOn1Ay4mZ) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 3:56 |
 
-Snapshot ID: `AAAKypjD+3hUquLZSyJmpsChkjnlcE3Q`
+Snapshot ID: `AAAK4EC1Qd29LoXvY5O9xlNtiRWD7xMA`

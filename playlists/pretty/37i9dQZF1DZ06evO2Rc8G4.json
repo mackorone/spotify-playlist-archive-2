@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 173036,
+  "num_followers": 173121,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAAiD2YNFhdPaLxAM30d0RJh",
+  "snapshot_id": "ahoogAAAAACth/htDWvbiDkFbwAJXyT3",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Especially for You",
-        "url": "https://open.spotify.com/album/0DXTYW6fxh7RmQbZwjGsqP"
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
       "artists": [
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Jason Donovan",
-          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
         }
       ],
-      "duration_ms": 240892,
-      "name": "Especially for You",
-      "url": "https://open.spotify.com/track/0mVEYOASqm8DX7mCmHgIWt"
+      "duration_ms": 196213,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/0dV9JbXkCeuQWjuxG8BtIS"
     },
     {
       "added_at": null,
@@ -263,54 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+        "name": "Especially for You",
+        "url": "https://open.spotify.com/album/0DXTYW6fxh7RmQbZwjGsqP"
       },
       "artists": [
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 196213,
-      "name": "Story",
-      "url": "https://open.spotify.com/track/0dV9JbXkCeuQWjuxG8BtIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "last night i dreamt i fell in love",
-        "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "Jason Donovan",
+          "url": "https://open.spotify.com/artist/5bnNgwp3nooah9yHAHsnR4"
         }
       ],
-      "duration_ms": 126923,
-      "name": "last night i dreamt i fell in love",
-      "url": "https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "In My Arms",
-      "url": "https://open.spotify.com/track/45TyDwIRFFSib4HMkRmBPx"
+      "duration_ms": 240892,
+      "name": "Especially for You",
+      "url": "https://open.spotify.com/track/0mVEYOASqm8DX7mCmHgIWt"
     },
     {
       "added_at": null,
@@ -347,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "In My Arms",
+      "url": "https://open.spotify.com/track/45TyDwIRFFSib4HMkRmBPx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rhythm of Love",
         "url": "https://open.spotify.com/album/30YW6lNcviVzg3FAF2kAXI"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 233362,
       "name": "Better the Devil You Know",
       "url": "https://open.spotify.com/track/1uiQNFERY6n5FxIEPGxzwA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "last night i dreamt i fell in love",
+        "url": "https://open.spotify.com/album/2guIXbgAa9lVRKQSlb1uvA"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 126923,
+      "name": "last night i dreamt i fell in love",
+      "url": "https://open.spotify.com/track/6t1pBY6VYjNM9SJEBieyJw"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/7xjut3yY1qOBy5Fi1egX0i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/7xjut3yY1qOBy5Fi1egX0i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/55khqtC0aVEUkIAefNjklD"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 178880,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/0NWP6SiwMWfb5m2GjU7ocj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 239880,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
       "duration_ms": 262893,
       "name": "Real Groove - Studio 2054 Remix",
       "url": "https://open.spotify.com/track/2AaMtxb9ipiZO6ItN1bJrq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DISCO (Deluxe)",
+        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 236266,
+      "name": "Miss a Thing",
+      "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DISCO: Guest List Edition",
         "url": "https://open.spotify.com/album/6X1cZakiDOXDbDUWiTVmGh"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 207986,
       "name": "A Second to Midnight",
       "url": "https://open.spotify.com/track/3lWQgPeo8TrZZQT4qPScxg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DISCO (Deluxe)",
-        "url": "https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 236266,
-      "name": "Miss a Thing",
-      "url": "https://open.spotify.com/track/0qV1eEYdqH4UIhxIEabinN"
     },
     {
       "added_at": null,

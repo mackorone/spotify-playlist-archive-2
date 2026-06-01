@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 760057,
+  "num_followers": 760226,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAA30ItmvElCE8MReElkE6Ol",
+  "snapshot_id": "ahoogAAAAAD/jsoqsgZKu7ceUkYQ5vxP",
   "tracks": [
     {
       "added_at": null,
@@ -220,7 +220,7 @@
       "added_at": null,
       "album": {
         "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
+        "url": "https://open.spotify.com/album/3CoVYVQdyWAVkI0LRdxKRZ"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 293706,
-      "name": "Cover Me Up",
-      "url": "https://open.spotify.com/track/5AQNqdpl6SEV9rAHWy7U9w"
+      "duration_ms": 210506,
+      "name": "7 Summers",
+      "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr"
     },
     {
       "added_at": null,
@@ -284,7 +284,7 @@
       "added_at": null,
       "album": {
         "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/3CoVYVQdyWAVkI0LRdxKRZ"
+        "url": "https://open.spotify.com/album/1AlJetbC3AI9aGsiGn0O6T"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 210506,
-      "name": "7 Summers",
-      "url": "https://open.spotify.com/track/58FbmtiyAlFBqFr8EorsSr"
+      "duration_ms": 293706,
+      "name": "Cover Me Up",
+      "url": "https://open.spotify.com/track/5AQNqdpl6SEV9rAHWy7U9w"
     },
     {
       "added_at": null,

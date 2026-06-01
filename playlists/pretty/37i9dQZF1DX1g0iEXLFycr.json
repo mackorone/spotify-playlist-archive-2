@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1072189,
+  "num_followers": 1072150,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 253295,
-      "name": "Walking on Broken Glass",
-      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 201637,
       "name": "Sweet Lovin' - Radio Edit",
       "url": "https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "SUCKER",
-        "url": "https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 169866,
-      "name": "Boom Clap",
-      "url": "https://open.spotify.com/track/3x2YIvkLcxvZQsA5x6xyIR"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
         "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 170716,
       "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
       "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "SUCKER",
+        "url": "https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 169866,
+      "name": "Boom Clap",
+      "url": "https://open.spotify.com/track/3x2YIvkLcxvZQsA5x6xyIR"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Love, Sax & Flashbacks (Track by Track)",
-        "url": "https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm"
-      },
-      "artists": [
-        {
-          "name": "Fleur East",
-          "url": "https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Sax",
-      "url": "https://open.spotify.com/track/2IFl6p0LoIfIZOn5IaxZOO"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "So Good To Me (Remixes)",
         "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 209586,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/1T6928Jai5vaFUIP7XhXhS"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "Love, Sax & Flashbacks (Track by Track)",
+        "url": "https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm"
+      },
+      "artists": [
+        {
+          "name": "Fleur East",
+          "url": "https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Sax",
+      "url": "https://open.spotify.com/track/2IFl6p0LoIfIZOn5IaxZOO"
     },
     {
       "added_at": "2024-03-22 16:40:22",

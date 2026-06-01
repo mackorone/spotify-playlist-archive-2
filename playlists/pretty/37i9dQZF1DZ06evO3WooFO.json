@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 624612,
+  "num_followers": 624650,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAAEd6u/nad2OGVNQeMtYp9U",
+  "snapshot_id": "ahoogAAAAABritBDzzMQm/p+n/WAIXeG",
   "tracks": [
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 219389,
-      "name": "TAKE ME IN",
-      "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
+      "duration_ms": 178785,
+      "name": "IF YOU NEVER LEFT",
+      "url": "https://open.spotify.com/track/6QJE092f2CYzFskOrBgSrN"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 178785,
-      "name": "IF YOU NEVER LEFT",
-      "url": "https://open.spotify.com/track/6QJE092f2CYzFskOrBgSrN"
+      "duration_ms": 219389,
+      "name": "TAKE ME IN",
+      "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Versões desplugadas do mundo pop.
 
-184 songs - 10 hr 47 min
+185 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Better Part of Me](https://open.spotify.com/track/2Qf6BPJNeyKk4O6kUeoAbU) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:46 | 2023-05-05 | 2024-04-19 |
 | [Better Part of Me](https://open.spotify.com/track/7nrcOd9UygzKEf8RsfKbNN) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Better Part of Me](https://open.spotify.com/album/5CAdMkVQs80Gz4f67D5Arw) | 3:46 | 2022-11-29 | 2023-05-11 |
 | [Big \- Acoustic](https://open.spotify.com/track/0WaQZO8nw9VKvpYR3yL7Mg) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Big \(Acoustic\)](https://open.spotify.com/album/2coQTbqSfarJT5OW6He8jm) | 2:39 | 2021-11-05 | 2022-09-11 |
-| [Blame It On Me \(Acoustic\)](https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Blame It On Me \(Acoustic\)](https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd) | 3:11 | 2021-11-05 |  |
+| [Blame It On Me \(Acoustic\)](https://open.spotify.com/track/4SsJbYhmGPNQ5G1tnA1rK7) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Blame It On Me \(Acoustic\)](https://open.spotify.com/album/4pEVbYbcShKz1w7L1uSmLd) | 3:11 | 2021-11-05 | 2026-06-01 |
 | [Blue](https://open.spotify.com/track/65HsXWtHGIMXJE9YB7CvZA) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Blue](https://open.spotify.com/album/7e8MAOJkh11RROwjECuxUG) | 3:11 | 2021-11-05 | 2025-05-26 |
 | [Bomba Relógio](https://open.spotify.com/track/3mNdnKuJz4R0doVNRsTvoZ) | [Dora Sanches](https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR) | [Bomba Relógio](https://open.spotify.com/album/2o759BamXSEuef3mFMX00X) | 4:03 | 2023-10-23 | 2024-04-22 |
 | [Boom Clap \- Spotify Sessions](https://open.spotify.com/track/5lCfF0woasEzNAwLKb6sjp) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Spotify Sessions](https://open.spotify.com/album/0kE3eroQzJ7OQH6qF1XqyO) | 3:21 | 2021-11-05 | 2022-09-03 |
@@ -137,6 +137,7 @@
 | [please](https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2021-11-05 |  |
 | [Pointless \- Strings Acoustic](https://open.spotify.com/track/27tnkW0WtnEFj4kmMV4DbF) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless \(Strings Acoustic\)](https://open.spotify.com/album/102iyvAz8Z5WnUZUlFN6Mi) | 4:00 | 2023-05-26 | 2024-04-19 |
 | [Pointless \- Strings Acoustic](https://open.spotify.com/track/4rmuX9LHbxYYJuPtP353uL) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless \(Strings Acoustic\)](https://open.spotify.com/album/1cblE478ZQE4G3sDtGprqy) | 4:00 | 2023-02-12 | 2023-05-28 |
+| [Pouca Pausa / Cigana](https://open.spotify.com/track/553dpGjn4UFZmZ3pgWp5CA) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [WE4Sessions](https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y) | [Clau: We4Sessions](https://open.spotify.com/album/3l4j90WNDrvsKKdJF6N5Zi) | 3:27 | 2026-05-29 |  |
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/6HZnBUYzLfIjejP2dBSrMk) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Acoustic Pop](https://open.spotify.com/album/7dJGA0NIzPNdA6oXWeTVWr) | 3:18 | 2021-11-05 | 2022-11-12 |
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Who You Are \(Deluxe Edition\)](https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b) | 3:18 | 2023-05-26 | 2024-04-19 |
 | [Price Tag \- Acoustic Version](https://open.spotify.com/track/1RrTwfs2pFM4n8GytgmYKH) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Price Tag](https://open.spotify.com/album/1iNj9EcvHmhI7KMbKcTwCX) | 3:18 | 2021-11-05 |  |

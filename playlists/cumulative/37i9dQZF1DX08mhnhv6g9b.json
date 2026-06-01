@@ -7041,6 +7041,24 @@
     },
     {
       "album": {
+        "name": "NORMAL (Live at Pier 17) | Presented by Spotify",
+        "url": "https://open.spotify.com/album/1ZHVo1MDKy7BXmLASfqc2C"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191305,
+      "name": "NORMAL (Live at Pier 17) | Presented by Spotify",
+      "url": "https://open.spotify.com/track/15rwL0jnoGk8n2kmYY8DP0"
+    },
+    {
+      "album": {
         "name": "You Never Walk Alone",
         "url": "https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb"
       },

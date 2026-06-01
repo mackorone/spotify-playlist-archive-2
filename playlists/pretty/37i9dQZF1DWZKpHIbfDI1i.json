@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Fito Silva, Cachirula y LOOJAN en portada ",
-  "num_followers": 849231,
+  "num_followers": 849277,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
-        "name": "PASE Y PASE",
-        "url": "https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 181149,
-      "name": "PASE Y PASE",
-      "url": "https://open.spotify.com/track/3UI9nM0xrI0ywhqoZQvLFt"
-    },
-    {
-      "added_at": "2026-05-29 06:00:30",
-      "album": {
         "name": "Porque La Demora",
         "url": "https://open.spotify.com/album/7EIuLIjhFQAGPvq6L5gBvZ"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 203357,
       "name": "Perlas Negras",
       "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
+    },
+    {
+      "added_at": "2026-05-29 06:00:30",
+      "album": {
+        "name": "PASE Y PASE",
+        "url": "https://open.spotify.com/album/7z9NCCZBv2lnejkFRlUlAm"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 181149,
+      "name": "PASE Y PASE",
+      "url": "https://open.spotify.com/track/3UI9nM0xrI0ywhqoZQvLFt"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -595,8 +595,8 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
-        "name": "La Buena",
-        "url": "https://open.spotify.com/album/6pJpCycVCDwv5gV1Q5Ql7r"
+        "name": "MUDA",
+        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 136585,
-      "name": "La Buena",
-      "url": "https://open.spotify.com/track/3l4k6rckgBZodaRpfMRbDA"
+      "duration_ms": 171627,
+      "name": "En La Misma Cama",
+      "url": "https://open.spotify.com/track/4mknaB6EEmN3noSR71073a"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -683,8 +683,8 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
-        "name": "MUDA",
-        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
+        "name": "La Buena",
+        "url": "https://open.spotify.com/album/6pJpCycVCDwv5gV1Q5Ql7r"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 171627,
-      "name": "En La Misma Cama",
-      "url": "https://open.spotify.com/track/4mknaB6EEmN3noSR71073a"
+      "duration_ms": 136585,
+      "name": "La Buena",
+      "url": "https://open.spotify.com/track/3l4k6rckgBZodaRpfMRbDA"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
-        "name": "LUCID DREAMS",
-        "url": "https://open.spotify.com/album/5jIZEQP2E5YkW1Fp5vRNYj"
-      },
-      "artists": [
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "YOU COULD BE THAT BOY",
-      "url": "https://open.spotify.com/track/6k5dlT8rllGwzWSAbjtySZ"
-    },
-    {
-      "added_at": "2026-05-29 06:00:30",
-      "album": {
         "name": "De Los Dientes Pa Fuera",
         "url": "https://open.spotify.com/album/3rGviY23qfCvsHXiauzv19"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 168664,
       "name": "De Los Dientes Pa Fuera",
       "url": "https://open.spotify.com/track/6U4MQb60Hkvv4ZS2Qwg3Lo"
+    },
+    {
+      "added_at": "2026-05-29 06:00:30",
+      "album": {
+        "name": "LUCID DREAMS",
+        "url": "https://open.spotify.com/album/5jIZEQP2E5YkW1Fp5vRNYj"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        }
+      ],
+      "duration_ms": 194755,
+      "name": "YOU COULD BE THAT BOY",
+      "url": "https://open.spotify.com/track/6k5dlT8rllGwzWSAbjtySZ"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
+        "name": "Bolsita Cara",
+        "url": "https://open.spotify.com/album/3RVp9B94uoddtDyGUtJcIg"
+      },
+      "artists": [
+        {
+          "name": "$HUPE",
+          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
+        },
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "duration_ms": 176810,
+      "name": "Bolsita Cara",
+      "url": "https://open.spotify.com/track/63RoO5slbFtgk6lPGZkgbC"
+    },
+    {
+      "added_at": "2026-05-29 06:00:30",
+      "album": {
         "name": "Te Juro Que Te Amo",
         "url": "https://open.spotify.com/album/048hj9COAKtTGGm3YyO02H"
       },
@@ -1111,6 +1131,22 @@
       "duration_ms": 208298,
       "name": "Te Juro Que Te Amo",
       "url": "https://open.spotify.com/track/3qtGLAar7AhrbwLegrYOUE"
+    },
+    {
+      "added_at": "2026-05-29 06:00:30",
+      "album": {
+        "name": "Por Si Las Dudas",
+        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Por Si Las Dudas",
+      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -1135,42 +1171,6 @@
       "duration_ms": 146400,
       "name": "Nenas Mafiosas",
       "url": "https://open.spotify.com/track/33E72WM96PhNU9qyqHiccb"
-    },
-    {
-      "added_at": "2026-05-29 06:00:30",
-      "album": {
-        "name": "Bolsita Cara",
-        "url": "https://open.spotify.com/album/3RVp9B94uoddtDyGUtJcIg"
-      },
-      "artists": [
-        {
-          "name": "$HUPE",
-          "url": "https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3"
-        },
-        {
-          "name": "Ian Cordova",
-          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
-        }
-      ],
-      "duration_ms": 176810,
-      "name": "Bolsita Cara",
-      "url": "https://open.spotify.com/track/63RoO5slbFtgk6lPGZkgbC"
-    },
-    {
-      "added_at": "2026-05-29 06:00:30",
-      "album": {
-        "name": "Por Si Las Dudas",
-        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Por Si Las Dudas",
-      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
-        "name": "Mujeres Divinas",
-        "url": "https://open.spotify.com/album/6WHOe7liplOfeeSzM5Fuhq"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        },
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Mujeres Divinas",
-      "url": "https://open.spotify.com/track/1jCJu55Uc0JD6eeoYucUgn"
-    },
-    {
-      "added_at": "2026-05-29 06:00:30",
-      "album": {
         "name": "Otra Cosa",
         "url": "https://open.spotify.com/album/3QLasL9GBu5vdVmk8hnt1c"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 132923,
       "name": "Otra Cosa",
       "url": "https://open.spotify.com/track/1CZE56TyhNwIffdDr4GyCC"
+    },
+    {
+      "added_at": "2026-05-29 06:00:30",
+      "album": {
+        "name": "Mujeres Divinas",
+        "url": "https://open.spotify.com/album/6WHOe7liplOfeeSzM5Fuhq"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        },
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Mujeres Divinas",
+      "url": "https://open.spotify.com/track/1jCJu55Uc0JD6eeoYucUgn"
     },
     {
       "added_at": "2026-05-29 06:00:30",
@@ -1427,38 +1427,46 @@
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
-        "name": "Mi Droga",
-        "url": "https://open.spotify.com/album/5RE7nniZDKaiF1WYMcaeiv"
+        "name": "Ni\u00f1a Bien (SLS-007)",
+        "url": "https://open.spotify.com/album/7dKqAaRmVVghVq4iqSOnYa"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Sheeno",
+          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
         },
         {
-          "name": "Natt Calma",
-          "url": "https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 195389,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/6bbTjLQR2TmEApXj8QYhl8"
+      "duration_ms": 133100,
+      "name": "Ni\u00f1a Bien (SLS-007)",
+      "url": "https://open.spotify.com/track/7yt5TPj7jGPs09iITMzAuw"
     },
     {
       "added_at": "2026-05-29 06:00:30",
       "album": {
-        "name": "MISI\u00d3N IMPOSIBLE",
-        "url": "https://open.spotify.com/album/2DWRMKt7QqmK7lJtPy4sLO"
+        "name": "her (feat. Leon Leiden & Macario Mart\u00ednez)",
+        "url": "https://open.spotify.com/album/1hcoQmTGeohdgVLYImXji9"
       },
       "artists": [
         {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
         }
       ],
-      "duration_ms": 166693,
-      "name": "MISI\u00d3N IMPOSIBLE",
-      "url": "https://open.spotify.com/track/2BIfMGhF6O5VvHqxS7QV3x"
+      "duration_ms": 186669,
+      "name": "her (feat. Leon Leiden & Macario Mart\u00ednez)",
+      "url": "https://open.spotify.com/track/1OcpRD3d7YBuGlIxPYQHsd"
     }
   ],
   "unique_name": "Top M\u00e9xico",

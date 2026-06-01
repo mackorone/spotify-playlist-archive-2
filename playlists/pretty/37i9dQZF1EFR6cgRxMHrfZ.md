@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6VGYv5vpzG5D6Votiqpolb">Cal Shapiro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307 likes - 171 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 308 likes - 171 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,13 +97,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 87 | [AFU](https://open.spotify.com/track/1ofgiVRjJTfLDOXBh3HvVU) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [The Identity Crisis: Side A](https://open.spotify.com/album/0frneG4jiVupF47MCKJR4I) | 3:07 |
 | 88 | [Burn It Down](https://open.spotify.com/track/5m3MtTi4XzSfqdjj86KgUF) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:25 |
 | 89 | [Jump And Shake](https://open.spotify.com/track/6Ka0NSviEKTMc60zFR39eO) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:09 |
-| 90 | [Supposed to Be a Love Song](https://open.spotify.com/track/2dFMguJ8EVUNpljS6XTVZF) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [A Heart Is a Terrible Thing to Break](https://open.spotify.com/album/6mBNXZGN2V1JmcUhjlxU3q) | 3:10 |
-| 91 | [Sounds Like Heaven](https://open.spotify.com/track/6oPW5eZePLKr2mzPNfHR7L) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:53 |
+| 90 | [Sounds Like Heaven](https://open.spotify.com/track/6oPW5eZePLKr2mzPNfHR7L) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:53 |
+| 91 | [Supposed to Be a Love Song](https://open.spotify.com/track/2dFMguJ8EVUNpljS6XTVZF) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [A Heart Is a Terrible Thing to Break](https://open.spotify.com/album/6mBNXZGN2V1JmcUhjlxU3q) | 3:10 |
 | 92 | [Roll the Credits](https://open.spotify.com/track/4XBsD43QzoPt4wLDdDtEqL) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:19 |
 | 93 | [Fall](https://open.spotify.com/track/0ARnA1zH4FXjheCl3tCNbF) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 3:08 |
 | 94 | [NSFW](https://open.spotify.com/track/2R1KN7ppqgLaon8zZX04Kv) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [Angel Haze](https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl) | [NSFW](https://open.spotify.com/album/2ydYkG9c2X6ldQh7kEawqT) | 2:57 |
-| 95 | [Guilty](https://open.spotify.com/track/5jmGXGD7wh45Ye5DYzHJcq) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:43 |
-| 96 | [Wildheart](https://open.spotify.com/track/73ZgfWXgthO6suB2xM5wac) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 2:46 |
+| 95 | [Wildheart](https://open.spotify.com/track/73ZgfWXgthO6suB2xM5wac) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 2:46 |
+| 96 | [Guilty](https://open.spotify.com/track/5jmGXGD7wh45Ye5DYzHJcq) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 2:43 |
 | 97 | [Runaway](https://open.spotify.com/track/0CB8732A7tDEkVsq3o4JT8) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p), [CRS](https://open.spotify.com/artist/6JmOuvz89uKCAPa5eIF7N5) | [Just For Fun \(Deluxe\)](https://open.spotify.com/album/28gqYvhSFXLr2VLCSsZHlY) | 3:29 |
 | 98 | [Fire](https://open.spotify.com/track/7qmbcwvnyfUldBJQsuF0ZV) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [To Dream](https://open.spotify.com/album/4hXGxuxXLcpbVTQUqOSZCJ) | 3:25 |
 | 99 | [Tonight I Can't Say No](https://open.spotify.com/track/5IGnTCrguYRCEOcDU7Cd8m) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [One Night EP](https://open.spotify.com/album/04xXTzwHFjgXj7KH26U1aQ) | 3:29 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 107 | [Crystal Ball](https://open.spotify.com/track/2if88MyNq14tVvQg49WwqP) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours \(Deluxe\)](https://open.spotify.com/album/2xX0ZnW2kG0qpIjnvEVl8s) | 3:00 |
 | 108 | [Are You Down](https://open.spotify.com/track/3q4KWbIzey7qQwaEsjlZl6) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Are You Down](https://open.spotify.com/album/7avyGDYu07FYDN8dslIxeS) | 3:05 |
 | 109 | [Until the Sunrise](https://open.spotify.com/track/79sLEAkkvv4Ogc67PkhBWR) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 7:02 |
-| 110 | [Crazy](https://open.spotify.com/track/6YBMZXn64raboF2O3LcUh4) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:07 |
-| 111 | [King For A Day](https://open.spotify.com/track/0sibWY7yGsr4UO7lxrKy1M) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 3:11 |
+| 110 | [King For A Day](https://open.spotify.com/track/0sibWY7yGsr4UO7lxrKy1M) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Deluxe\)](https://open.spotify.com/album/5RHdOTPKxJ63HPEAslOZhv) | 3:11 |
+| 111 | [Crazy](https://open.spotify.com/track/6YBMZXn64raboF2O3LcUh4) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:07 |
 | 112 | [To Dream](https://open.spotify.com/track/0vaXxVRPhjCo6MUnGsmHD2) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [To Dream](https://open.spotify.com/album/4hXGxuxXLcpbVTQUqOSZCJ) | 2:13 |
 | 113 | [Ex Games](https://open.spotify.com/track/4aFLceY2SiW4mclfXXyurP) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 4:41 |
 | 114 | [So Cal](https://open.spotify.com/track/5QGGaFNMEVLiA6MGAzSvP6) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [The Identity Crisis: Side A](https://open.spotify.com/album/0frneG4jiVupF47MCKJR4I) | 2:44 |
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 142 | [Catch](https://open.spotify.com/track/1jgwyVhrPqZ99Ms7Bokf2W) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Catch](https://open.spotify.com/album/23pTh1PnK6lpSmXSsV6XDZ) | 2:51 |
 | 143 | [Trigger Pull](https://open.spotify.com/track/36lWj5leItG9UojUEdtlPy) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4) | 3:25 |
 | 144 | [Spend Some Money](https://open.spotify.com/track/3TcqRZ82oECJnwU9CDoQ1w) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [Gas Station Sunglasses](https://open.spotify.com/album/1qgkaI8sVGplzQA4eLDdMj) | 2:14 |
-| 145 | [Run With The Sun](https://open.spotify.com/track/4tzDxQC3Rkso3khvj5nQJG) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Run With The Sun](https://open.spotify.com/album/0yGAKnZcjJiLJtz8zxZw3a) | 2:30 |
+| 145 | [Run With The Sun](https://open.spotify.com/track/1jTIXpx7E3QGN5e9oc8kr3) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [OASIS](https://open.spotify.com/album/5Wmypry9sRXgIZT5wdqkQq) | 2:30 |
 | 146 | [Trip Around The Sun](https://open.spotify.com/track/1AaU5I2I62IdMUV755YCQm) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/25wOAGrwmxfXdI7lRVHCB4) | 3:02 |
 | 147 | [My Brother](https://open.spotify.com/track/6CyG7dQCSt5rQAWglWRUJH) | [CAL](https://open.spotify.com/artist/4VmI5ZXt5FnlYIA8xHCLGH) | [The Identity Crisis: Side A](https://open.spotify.com/album/0frneG4jiVupF47MCKJR4I) | 3:01 |
 | 148 | [Interlude](https://open.spotify.com/track/0FKQ1F4rLZPr3rRI7eiHDN) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [The Scotch Tape](https://open.spotify.com/album/2W2J97vm3aul3LuE2DygGk) | 0:54 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR6cgRxMHrfZ.md) - [plain]
 | 170 | [Drink Us Back Together](https://open.spotify.com/track/5dANkvVBO2q1vqty0jNp4i) | [17 Memphis](https://open.spotify.com/artist/4vqV8IpWyagD7V8RjMO63g) | [17 MEMPHIS FOREVER](https://open.spotify.com/album/2XYynyaDxQk1h2d6vWv4iI) | 3:12 |
 | 171 | [Give You Love](https://open.spotify.com/track/2UO5W95ydfVo5AmCQNzVxJ) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Give You Love](https://open.spotify.com/album/4AhCVQ2AZkSQD7N3Mp3ksC) | 3:04 |
 
-Snapshot ID: `AcS6egAAAADgF0hCtiYajwxy3Jr5KI3/`
+Snapshot ID: `AcTAGgAAAABzQGcVegYd8xyIbIovJMaF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,296 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,405 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,13 +96,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 86 | [Stevie](https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:22 |
 | 87 | [Never Will I Marry](https://open.spotify.com/track/2bOUrmH6OljKtXOLjvVEU8) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Sweet](https://open.spotify.com/artist/0GMf8b501ogU3obivaslNF) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:19 |
 | 88 | [Joy Spring](https://open.spotify.com/track/0sQ9ee2jJNTQgjy55Pse5H) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO) | [The Best Of Clifford Brown](https://open.spotify.com/album/0oWFL44UweyyQSawMSHA4L) | 3:18 |
-| 89 | [Tenor Madness \- Rudy Van Gelder Remastered 2006 / Shared ISRC](https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 12:13 |
-| 90 | [Blue Skies](https://open.spotify.com/track/5cdBPBfYeRFDZWHAk4UPOH) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Essential Frank Sinatra](https://open.spotify.com/album/0r7da132K35RCtPvE7H7U3) | 2:27 |
+| 89 | [Blue Skies](https://open.spotify.com/track/5cdBPBfYeRFDZWHAk4UPOH) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Essential Frank Sinatra](https://open.spotify.com/album/0r7da132K35RCtPvE7H7U3) | 2:27 |
+| 90 | [Tenor Madness \- Rudy Van Gelder Remastered 2006 / Shared ISRC](https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 12:13 |
 | 91 | [The Nearness Of You](https://open.spotify.com/track/7yCEzOAfijmD88IA1DHgSo) | [George Shearing Quintet](https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y), [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [The Swingin's Mutual! \(Expanded Edition\)](https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7) | 3:00 |
 | 92 | [Blue Nile](https://open.spotify.com/track/0nYbjARvvJYQulZYDKlSum) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Ptah The El Daoud](https://open.spotify.com/album/6XyhwP7a50E4u83H9aM8sD) | 7:01 |
 | 93 | [Alone Together](https://open.spotify.com/track/7lApnj6eswDJvT8mqGrut6) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [New York Jazz](https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm) | 4:51 |
-| 94 | [Makin' Whoopee](https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 4:31 |
-| 95 | [Come Fly With Me](https://open.spotify.com/track/2EzE1ti66ASZLKQ0VdJzRX) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 3:18 |
+| 94 | [Come Fly With Me](https://open.spotify.com/track/2EzE1ti66ASZLKQ0VdJzRX) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 3:18 |
+| 95 | [Makin' Whoopee](https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 4:31 |
 | 96 | [April In Paris](https://open.spotify.com/track/5Va2ImszhfJhRUgayR7ZaP) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 6:36 |
 | 97 | [Waltz for Debby \(Take 2\) \- Live](https://open.spotify.com/track/49H4LDNFE5BU7ZMIg8UsZy) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 7:00 |
 | 98 | [But Not For Me](https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 3:05 |

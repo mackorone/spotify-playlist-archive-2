@@ -4,7 +4,7 @@
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-127 songs - 8 hr 54 min
+128 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:36 | 2026-05-03 |  |
 | [Burning Up](https://open.spotify.com/track/48YZhmKL3aZKhQUfpvkelu) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 3:45 | 2024-04-19 | 2024-05-19 |
 | [Candy Perfume Girl](https://open.spotify.com/track/7crZfJQOb8QsLtn3LwwQLK) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 4:36 | 2025-02-03 | 2025-03-02 |
+| [Celebration](https://open.spotify.com/track/1MQTYbCmC1IvL94JtGB33E) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(Remixes\)](https://open.spotify.com/album/08ultWv4w3KP7wJ6LQtU2t) | 3:35 | 2026-06-01 |  |
 | [Cherish](https://open.spotify.com/track/5HLnHfVreT57ESXAU0szPC) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(Deluxe Version\)](https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP) | 3:49 | 2026-03-22 | 2026-03-29 |
 | [Cherish](https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:49 | 2025-05-14 | 2026-02-22 |
 | [Cherish](https://open.spotify.com/track/6WjrgHvISFS0Oj3vk3XLiE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 3:52 | 2026-04-11 |  |
@@ -84,7 +85,7 @@
 | [La Isla Bonita](https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:02 | 2023-07-28 |  |
 | [La Isla Bonita](https://open.spotify.com/track/5g7xZ7eoCpNt4Zm2UbE2U5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Chris Lord\-Alge](https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx) | [The Immaculate Collection](https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h) | 3:47 | 2025-08-29 |  |
 | [Let It Will Be](https://open.spotify.com/track/0y8WwU96Z3PADns6b2SZkS) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions On A Dance Floor \(Twenty Years Edition\)](https://open.spotify.com/album/4ANSdhjb0b1KqKpPTyUSV9) | 4:18 | 2025-11-13 | 2025-12-12 |
-| [Let It Will Be](https://open.spotify.com/track/5HKcfvhCdIoZKzeQw2HgEe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:20 | 2025-01-14 |  |
+| [Let It Will Be](https://open.spotify.com/track/5HKcfvhCdIoZKzeQw2HgEe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:20 | 2025-01-14 | 2026-06-01 |
 | [Levitating \(feat\. Madonna and Missy Elliott\) \[The Blessed Madonna Remix\]](https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Levitating \(feat\. Madonna and Missy Elliott\) \[The Blessed Madonna Remix\]](https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic) | 4:10 | 2023-07-28 | 2026-04-01 |
 | [Like a Prayer](https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:42 | 2023-07-28 |  |
 | [Like a Prayer \- Battle Royale Mix from “Deadpool & Wolverine”](https://open.spotify.com/track/1xSDXrcZ16nKUZGsOckUTW) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine: Madonna's "Like a Prayer" EP](https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0) | 2:48 | 2025-08-29 |  |

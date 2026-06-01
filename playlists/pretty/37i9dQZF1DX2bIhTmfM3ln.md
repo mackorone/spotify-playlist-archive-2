@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > love is in the air...breathe in
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,053 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,062 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 55 | [Crazily](https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Crazily](https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k) | 2:29 |
 | 56 | [Ring](https://open.spotify.com/track/1uREOYREV020F3QOGENSMI) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Ring](https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg) | 2:35 |
 | 57 | [Screaming Beauty](https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Screaming Beauty](https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP) | 2:41 |
-| 58 | [Anini \(Thief\)](https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Anini \(Thief\)](https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82) | 3:09 |
+| 58 | [Holy Romance](https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Holy Romance](https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v) | 2:35 |
 | 59 | [Stick to the Plan](https://open.spotify.com/track/2RkUTD0pHL6zWVWpfWqnIT) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Stick to the Plan](https://open.spotify.com/album/1Qg0C5ICE3bsQTSym87OaL) | 1:57 |
-| 60 | [Holy Romance](https://open.spotify.com/track/4dsxF6UWyzVM7lutvZkyca) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Holy Romance](https://open.spotify.com/album/3F3rEgznhfUMH925IUKc2v) | 2:35 |
+| 60 | [Anini \(Thief\)](https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Anini \(Thief\)](https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82) | 3:09 |
 | 61 | [i think i love you 2](https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [i think i love you 2](https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9) | 2:44 |
 | 62 | [A1 \(feat\. Kizz Daniel\)](https://open.spotify.com/track/3kBjs166DWzq9vvxKgRtlw) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [A1 \(feat\. Kizz Daniel\)](https://open.spotify.com/album/5Z5Uwng7e3a0sdvzX4oMdB) | 2:11 |
 | 63 | [Mariana](https://open.spotify.com/track/0eN2iadqY8XAVqlx20EM6R) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Mariana](https://open.spotify.com/album/6IDE7vBvoNuLeQaEGHYIWX) | 2:28 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 73 | [numero](https://open.spotify.com/track/06CMmOHVZXX6zJoZBZcBE6) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [numero](https://open.spotify.com/album/6VbnEZlNrGnRD3Jml0UyPV) | 2:27 |
 | 74 | [First Sight](https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [First Sight](https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg) | 3:06 |
 | 75 | [Sorry I'm Busy](https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws) | [Sorry I'm Busy](https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w) | 2:22 |
-| 76 | [Larger Than Life \(feat\. Stonebwoy\)](https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [DID I LIE](https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm) | 2:21 |
-| 77 | [Be A Lover](https://open.spotify.com/track/4ulgOCX4KPIPaEOpOS6QFd) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Be A Lover](https://open.spotify.com/album/4V0X4r6sBK4R5RIQdJnSB0) | 2:45 |
-| 78 | [Away](https://open.spotify.com/track/6gwRyjLzdn1992RpT6sUdb) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd) | [South South Romance: After Hours](https://open.spotify.com/album/2NTNbpQJ74m3GCAK7812ui) | 2:08 |
-| 79 | [Last Forever](https://open.spotify.com/track/1sX6eJVTDmuLxcHfVTYfCA) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Last Forever](https://open.spotify.com/album/6XUgrldDupyhi4bmDKScIP) | 3:54 |
-| 80 | [Ifeoma II](https://open.spotify.com/track/1nuIJutSpeXaPHkfpCc3iB) | [Coblaze](https://open.spotify.com/artist/3kkZ1TtjCHg8xBvvfrsZfs), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Ifeoma II](https://open.spotify.com/album/3omsRcXGM3GKAdbg7ZVEX7) | 2:31 |
+| 76 | [Hug](https://open.spotify.com/track/5v6gXQTjb0MVjZdan2XzJz) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Hug](https://open.spotify.com/album/3GOtT9lqg7Vh8pWh73Mtbi) | 2:51 |
+| 77 | [Away](https://open.spotify.com/track/6gwRyjLzdn1992RpT6sUdb) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd) | [South South Romance: After Hours](https://open.spotify.com/album/2NTNbpQJ74m3GCAK7812ui) | 2:08 |
+| 78 | [Be A Lover](https://open.spotify.com/track/4ulgOCX4KPIPaEOpOS6QFd) | [Jembaa Groove](https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Be A Lover](https://open.spotify.com/album/4V0X4r6sBK4R5RIQdJnSB0) | 2:45 |
+| 79 | [Larger Than Life \(feat\. Stonebwoy\)](https://open.spotify.com/track/3inZDmrO8MqAbMjSliT1IO) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [DID I LIE](https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm) | 2:21 |
+| 80 | [Last Forever](https://open.spotify.com/track/1sX6eJVTDmuLxcHfVTYfCA) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Last Forever](https://open.spotify.com/album/6XUgrldDupyhi4bmDKScIP) | 3:54 |
 
 Snapshot ID: `AAAAANbrltIFKCpPDy34wcAwQmXX9eia`

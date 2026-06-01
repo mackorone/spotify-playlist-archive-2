@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,388 likes - 45 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,390 likes - 45 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 6 | [Afterlife](https://open.spotify.com/track/1IATy9AtXQ96BqOAncqaal) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Afterlife](https://open.spotify.com/album/5FvZBcWlokND0Y5fKcf85c) | 3:04 |
 | 7 | [The World Is Ours](https://open.spotify.com/track/7uI1GB0253D1Wi5Ratcnt2) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk) | 3:42 |
 | 8 | [Heartbeat](https://open.spotify.com/track/3sK0vSa0R8YjWd5wARutEM) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Heartbeat](https://open.spotify.com/album/1TgoCuBwx1xQ4a0o3KE2Vj) | 2:35 |
-| 9 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/7nO01nUfeU6b6N6WxaRmdH) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/7CQsq8FQ9BPHTwgAK6ONXN) | 3:25 |
-| 10 | [Better Apart \(feat\. Dresage\)](https://open.spotify.com/track/1l6EKqIVc3dwMUyWByXh9g) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [The Cure To Loneliness](https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF) | 3:54 |
-| 11 | [Deep Down](https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Deep Down](https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw) | 3:05 |
-| 12 | [Nothing Left To Lose](https://open.spotify.com/track/4CMv5MeFVLxhz9fjM1yN96) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Lyncs](https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr) | [Nothing Left To Lose](https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l) | 3:41 |
-| 13 | [Gravity \(feat\. JMR\)](https://open.spotify.com/track/4a9en6x7eb1YnRPNruBG8H) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [JMR](https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752) | [Kindred Spirits](https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk) | 3:48 |
-| 14 | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/track/74QUrsUibuADACTNB14F1p) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/album/6Vf8EPxLHlNIbOKGc2RKjH) | 4:01 |
-| 15 | [Weekend](https://open.spotify.com/track/5QbbJFoN3rLoMAuE6TaLad) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Simona Shao](https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF) | [Weekend](https://open.spotify.com/album/5RW5fQHscTw8urPl8pTsuS) | 2:48 |
+| 9 | [Better Apart \(feat\. Dresage\)](https://open.spotify.com/track/1l6EKqIVc3dwMUyWByXh9g) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Dresage](https://open.spotify.com/artist/5dFeAUPKdp9Id4E1RYqez2) | [The Cure To Loneliness](https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF) | 3:54 |
+| 10 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/7nO01nUfeU6b6N6WxaRmdH) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/7CQsq8FQ9BPHTwgAK6ONXN) | 3:25 |
+| 11 | [Weekend](https://open.spotify.com/track/5QbbJFoN3rLoMAuE6TaLad) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Simona Shao](https://open.spotify.com/artist/4iF8VQ9Avxe5RM3A4ddlvF) | [Weekend](https://open.spotify.com/album/5RW5fQHscTw8urPl8pTsuS) | 2:48 |
+| 12 | [Deep Down](https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Deep Down](https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw) | 3:05 |
+| 13 | [Nothing Left To Lose](https://open.spotify.com/track/4CMv5MeFVLxhz9fjM1yN96) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Lyncs](https://open.spotify.com/artist/0huGFU0XRUrnGBpgRzZ2Pr) | [Nothing Left To Lose](https://open.spotify.com/album/3BAKHZSPd3BVA9WccLo78l) | 3:41 |
+| 14 | [Gravity \(feat\. JMR\)](https://open.spotify.com/track/4a9en6x7eb1YnRPNruBG8H) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [JMR](https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752) | [Kindred Spirits](https://open.spotify.com/album/6TNzEXP1xsd5jgzHs6Punk) | 3:48 |
+| 15 | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/track/74QUrsUibuADACTNB14F1p) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/album/6Vf8EPxLHlNIbOKGc2RKjH) | 4:01 |
 | 16 | [blue \- Jai Wolf Remix](https://open.spotify.com/track/0qoPwaD8mJz5tlfPF0hO2t) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [trilogy remixes](https://open.spotify.com/album/05H1dRhfSFcuWW1HD5Nama) | 3:22 |
 | 17 | [Higher](https://open.spotify.com/track/14AEzrlCC5yrrZ9ZjVMYAN) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Higher](https://open.spotify.com/album/6s8hEzxR2gLlkonzqr0nSz) | 3:26 |
 | 18 | [Telepathy](https://open.spotify.com/track/4q0OWYe7JIElF8lPaARHki) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/4xC8keq1HPNhkS1qMbLPjF) | 3:49 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 44 | [Flight Log 822](https://open.spotify.com/track/384IaC21cJhTpjKJkz8tz7) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 2:03 |
 | 45 | [3 Tattoos \(Rishi’s Interlude\)](https://open.spotify.com/track/2PQnL2SJ7DtwtfYCRW83LG) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/6MGFhNLw9fZVFD1KgBqGta) | 1:40 |
 
-Snapshot ID: `ahjXAAAAAABREsEonKXfOMTZ88VByeMM`
+Snapshot ID: `ahoogAAAAAAKNw+jkbH124QMH2+0QieY`

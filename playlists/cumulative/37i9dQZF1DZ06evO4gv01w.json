@@ -716,7 +716,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 273237,
       "name": "Bluephoria",
       "url": "https://open.spotify.com/track/1VBIGJaKmOPcVcblzIlZk4"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 273237,
       "name": "Bluephoria",
       "url": "https://open.spotify.com/track/7Do8H5FJLqlNWucdTN7AmN"
@@ -1326,7 +1326,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 210989,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/150uQDJ6nOL5uJpTFN3HWt"
@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-24",
+      "date_removed": null,
       "duration_ms": 210989,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/6dB3CBDenGlbN82nWYTFIu"
@@ -2393,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246351,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/3usTtVN7xhVDvmAD7NG5CD"
+    },
+    {
+      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/6WXRDcHhPvdHZ2euLWGldM"
       },
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 246351,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/7kiwF7Shhi48WbBNswDhqb"
@@ -2896,7 +2914,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 172282,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/3n5CGOLFC49Mki34ooYM8K"
@@ -2914,7 +2932,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-14",
+      "date_removed": null,
       "duration_ms": 172282,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/42NhtRt3m866eCGfMVg5BF"
@@ -3088,7 +3106,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 200858,
       "name": "Strike Gold",
       "url": "https://open.spotify.com/track/4vuqP2NPI5QaxvBJll1kCO"
@@ -3106,7 +3124,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 200858,
       "name": "Strike Gold",
       "url": "https://open.spotify.com/track/7AZTHka2MiNr13j68b0Qun"

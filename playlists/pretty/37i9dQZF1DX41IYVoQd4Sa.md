@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : דודו טסה
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,832 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,841 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 24 | [כל מה שיש לי](https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr) | [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [כל מה שיש לי](https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9) | 3:24 |
 | 25 | [ג׳ין](https://open.spotify.com/track/0fAbC15ujG00QJjAXVE0Es) | [Shae](https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [אי אפשר לרכב על סוס פרא](https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx) | 3:55 |
 | 26 | [העץ יחיה](https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [העץ יחיה](https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL) | 3:09 |
-| 27 | [Stuck In Heaven \(AATM\) \- Live](https://open.spotify.com/track/2thCcR8O7YwgUTIjrIQBuX) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Stuck In Heaven \(AATM\) \[Live\]](https://open.spotify.com/album/29041H9UFjzxE1zrVEQ7Km) | 2:50 |
+| 27 | [WATCH THE NEWS](https://open.spotify.com/track/7x2mL3MT47IxwQQBfiTFh9) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [WATCH THE NEWS](https://open.spotify.com/album/5OM5AobrcNnYzh3mNdcprJ) | 2:46 |
 | 28 | [מחברת כאב](https://open.spotify.com/track/6jA9Ad86Jqk8buxx6hIV4j) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [אי](https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw) | 3:14 |
 | 29 | [הכי יפה בדיסקו](https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg) | [Girafot](https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy), [Daniel sun Krief](https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm) | [מזל שיש לי מוזיקה](https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM) | 2:54 |
 | 30 | [ניגון עתיק](https://open.spotify.com/track/2JjrMM8Isp8hKgCG9DsSmI) | [Shae](https://open.spotify.com/artist/49wOBRtFgrPnrYYJUlPgY6) | [אי אפשר לרכב על סוס פרא](https://open.spotify.com/album/3uKIb53kW2Ub3Kd1WPU2Hx) | 3:24 |

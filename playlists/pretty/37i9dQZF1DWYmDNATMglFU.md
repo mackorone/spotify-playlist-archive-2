@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. cq wrestling
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,084 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,076 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 49 | [She's Got A Problem](https://open.spotify.com/track/3hgOBnLoZ0ENK4y1DNMA9h) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Hot Shock](https://open.spotify.com/album/3Mb1kIexwEEpa8mc9HLNOl) | 2:08 |
 | 50 | [Daydreaming](https://open.spotify.com/track/6t6J3bUrnxFAiqZXTG7E7S) | [Blood Wizard](https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp) | [Daydreaming](https://open.spotify.com/album/7AMbD95QaNlzyVEt0YPjW8) | 4:17 |
 
-Snapshot ID: `AAAAADsXqVZVa77KVZVTPPKYeg4ofMnE`
+Snapshot ID: `AAAAAJUA/aVGPlqQbXaY6p2mgxwyaEKu`

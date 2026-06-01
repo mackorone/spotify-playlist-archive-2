@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 445308,
+  "num_followers": 445294,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-05-04 03:38:53",
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/74efdghdFtsNTvaN0b0QYr"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 259250,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/554WpDQ7PihlizEmEV0bI0"
+    },
+    {
+      "added_at": "2026-05-04 03:38:53",
+      "album": {
         "name": "Pasaporte",
         "url": "https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 266787,
       "name": "Pasaporte",
       "url": "https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi"
-    },
-    {
-      "added_at": "2026-05-04 03:38:53",
-      "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/74efdghdFtsNTvaN0b0QYr"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 259250,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/554WpDQ7PihlizEmEV0bI0"
     },
     {
       "added_at": "2026-05-04 03:38:53",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2026-05-04 03:38:53",
       "album": {
-        "name": "Anoche",
-        "url": "https://open.spotify.com/album/6sj1zdh540uTNRdHyUNOLu"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 144950,
-      "name": "Anoche",
-      "url": "https://open.spotify.com/track/58Jy5NMhkBLzE8Au5KFqLT"
-    },
-    {
-      "added_at": "2026-05-04 03:38:53",
-      "album": {
         "name": "Guaro con Ron",
         "url": "https://open.spotify.com/album/77QMET8x0AvIlMarJmLZU2"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 148454,
       "name": "Guaro con Ron",
       "url": "https://open.spotify.com/track/09Hf0Ef5ViOn3o6BIrmNwM"
+    },
+    {
+      "added_at": "2026-05-04 03:38:53",
+      "album": {
+        "name": "Anoche",
+        "url": "https://open.spotify.com/album/6sj1zdh540uTNRdHyUNOLu"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 144950,
+      "name": "Anoche",
+      "url": "https://open.spotify.com/track/58Jy5NMhkBLzE8Au5KFqLT"
     },
     {
       "added_at": "2026-05-04 03:38:53",

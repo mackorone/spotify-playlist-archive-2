@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,089 songs - 14 day 4 hr 16 min
+6,091 songs - 14 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2870,6 +2870,7 @@
 | [La Despedida](https://open.spotify.com/track/3EJgRWyLSrbBqMTj7oMZln) | [N3ko](https://open.spotify.com/artist/6BiVyVPtAL35KVcguNMPDW), [Becca](https://open.spotify.com/artist/6SDkocG9wTPzVk5RdOTKoX) | [Pop Hitz \(16\)](https://open.spotify.com/album/4f0DJRLtuNpExYY4P3SuLF) | 2:56 | 2023-08-18 | 2023-09-26 |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2024-03-31 | 2024-04-29 |
 | [La Difícil](https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:43 | 2021-07-12 | 2021-11-19 |
+| [La Father](https://open.spotify.com/track/3TRQswuviiQVvyy5Q5uI7y) | [Vale Pintos](https://open.spotify.com/artist/7DuOPzujoDWP8r3V5zYKM2), [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB) | [La Father](https://open.spotify.com/album/7qWn6gizIQQA6WKHmkTKDW) | 2:12 | 2026-06-01 |  |
 | [La frontière](https://open.spotify.com/track/4cn9EGp2xjQdyuV8zHXwte) | [Toma Sidibé](https://open.spotify.com/artist/3L1ScpLRzBRXUTBmh4UpNw), [Kandy Guira](https://open.spotify.com/artist/4KyEzCKVwhOaKxDR7ZFxjP) | [Dakan](https://open.spotify.com/album/1qy1GJBNaiUnp65pHdI220) | 3:30 | 2025-01-18 | 2025-01-30 |
 | [La mémoire des vaincus](https://open.spotify.com/track/3CFqtDU41E8wgBQ01D3v6V) | [Baba Wazo](https://open.spotify.com/artist/0vZ3ih2AY9SZgIQZkXnDqb) | [La mémoire des vaincus](https://open.spotify.com/album/1r4be4Ipu91VBIVpILlsTW) | 3:47 | 2025-01-11 | 2025-01-23 |
 | [La Nota](https://open.spotify.com/track/3SVzHzomKt0AfMsZwm23NZ) | [Ray Torres](https://open.spotify.com/artist/6VqdAtF2hlMv4MXNPQwWDs) | [La Nota](https://open.spotify.com/album/2tIRWo1Z00iitMVTghyzEx) | 2:04 | 2025-06-04 | 2025-06-17 |
@@ -3465,6 +3466,7 @@
 | [Moon](https://open.spotify.com/track/0zqeElCo5HCsX7jHVCdAdf) | [Matt McKnzi](https://open.spotify.com/artist/4orx8N4oR4sQ782cyxNwwq) | [Moon](https://open.spotify.com/album/7q31344xJVGygupgXUWVFQ) | 2:53 | 2024-03-22 | 2024-04-06 |
 | [Moon Beam](https://open.spotify.com/track/1Y8hldXGLDNcJRxQBC9m3g) | [Mahaji](https://open.spotify.com/artist/2h5Dnku5SpbZdtXIpOvEo1) | [Moon Beam](https://open.spotify.com/album/3ikMVsPsSSqTc1Wq912Qxp) | 2:47 | 2023-03-03 | 2023-03-29 |
 | [Moon In The Sky](https://open.spotify.com/track/1LQ2na6H4BsmLN081VN1vU) | [Stevie Rockit](https://open.spotify.com/artist/7KIjUWhjD7JAeNW9APx13m), [Taylor Taylor](https://open.spotify.com/artist/4vyXjivS5Uy1AMrL2jw2Qs) | [Moon In The Sky](https://open.spotify.com/album/2sZho0xhKRjCPZqwdIQ5qM) | 3:52 | 2021-11-28 | 2021-12-20 |
+| [moon light \- voice memo](https://open.spotify.com/track/7Mlh0hfV4nxyRZyxID0AtX) | [Seth Menne](https://open.spotify.com/artist/2l8MsqlEQkQAtd5fholUc3) | [moon light \(voice memo\)](https://open.spotify.com/album/3abewMpM6dyFylwhduGC7Z) | 3:23 | 2026-05-31 |  |
 | [Moon Pie \(you like it\)](https://open.spotify.com/track/4vESptmW26t9U8Riaji02C) | [MICALL](https://open.spotify.com/artist/2xrLmzMaMHtiTA0B5uh9yN) | [Moon Pie \(you like it\)](https://open.spotify.com/album/5Ka2fyE5Q78PE7E6HI6td4) | 2:39 | 2024-11-01 | 2024-11-13 |
 | [Moonlight](https://open.spotify.com/track/3KQUrSScvugc7coxSrBlom) | [Alexi Musnitsky](https://open.spotify.com/artist/4aR05jFatlHj8gBEmlzPq8) | [Moonlight](https://open.spotify.com/album/3WSlExH7nssfJ0DGaBsdL1) | 2:33 | 2020-12-25 | 2021-01-09 |
 | [Moonlight](https://open.spotify.com/track/26m3a6jjutoB86efXGO2dP) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [In The Moment](https://open.spotify.com/album/5oapmE6hovtOqcG4Niwh1T) | 4:06 | 2025-07-25 | 2025-10-02 |

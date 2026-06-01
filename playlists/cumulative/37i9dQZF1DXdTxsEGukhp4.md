@@ -2,9 +2,9 @@
 
 ### [Buzz Tracker \#バズトラ](https://open.spotify.com/playlist/37i9dQZF1DXdTxsEGukhp4)
 
-> TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: セカンドバッカー
+> TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 楽音
 
-589 songs - 1 day 9 hr 34 min
+590 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Moshi Moshi](https://open.spotify.com/track/1NUIKmqkxfTrAHZaU6uHf2) | [Nozomi Kitay](https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump), [GAL D](https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD), [MUKADE](https://open.spotify.com/artist/4d1EYQLZDof8IHoNt8i9FR) | [Moshi Moshi](https://open.spotify.com/album/6C3rZZEZcaycHs0yrVrSpf) | 2:56 | 2024-02-15 | 2024-04-19 |
 | [Moshi Moshi \(feat\. 百足\)](https://open.spotify.com/track/0FJVGU0hNhCtohkjKB6uKQ) | [Nozomi Kitay](https://open.spotify.com/artist/3iNcdTXdoEJYM1O10q3Ump), [GAL D](https://open.spotify.com/artist/12XCqO4rH8dTgYZiYzcLOD), [百足](https://open.spotify.com/artist/4WgGn0neagCUyjQExpUBX7) | [Moshi Moshi \(feat\. 百足\)](https://open.spotify.com/album/3yJzboBD9EvdIEnVH9DuMr) | 2:56 | 2024-04-18 | 2025-04-01 |
 | [mosi mosi?](https://open.spotify.com/track/76oCvJj6LRoed2754GybpH) | [楽音](https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L) | [mosi mosi?](https://open.spotify.com/album/7f1NEFlfunI7TMwrE886W5) | 2:43 | 2026-04-23 |  |
+| [mosi mosi? \- Korean ver.](https://open.spotify.com/track/69GBglAPVNImTzGiklvZjA) | [楽音](https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L) | [mosi mosi? \(Korean ver.\)](https://open.spotify.com/album/62KWo4XIidEXfg71CnTQQZ) | 2:43 | 2026-06-01 |  |
 | [MOTTAI](https://open.spotify.com/track/6mHZYuJSurWBl6ne142xiz) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [MOTTAI](https://open.spotify.com/album/2hzMW3wgt1nmHUhTjAR7bF) | 2:40 | 2024-01-18 | 2024-04-02 |
 | [MOTTAI](https://open.spotify.com/track/59kkHKD21U2A0zoQwkq2Kd) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [ラブホリック](https://open.spotify.com/album/1sJvXdzjZ7FYbftQyPDZBc) | 2:41 | 2024-04-01 | 2025-01-10 |
 | [Motto](https://open.spotify.com/track/1Y6YzmcAplb3PJVql7vHd4) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [May Dream](https://open.spotify.com/album/5b4Ch2PIXd1p3ve5CT1nYk) | 4:50 | 2023-06-29 | 2023-08-18 |
@@ -571,7 +572,7 @@
 | [渋沢栄一](https://open.spotify.com/track/5iLlUZC0jiNN49m3HDTmlA) | [Ninja We Made It.](https://open.spotify.com/artist/2X7rMdeSJ6OUUtxY5vY3Vg) | [渋沢栄一](https://open.spotify.com/album/4nfG94Htc9Qy9KGhMh7Tr0) | 1:58 | 2024-07-18 | 2024-09-20 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-13 | 2023-11-11 |
 | [爆裂愛してる](https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [爆裂愛してる](https://open.spotify.com/album/6w5De26ICkG8LOnpRe3xPA) | 3:25 | 2026-03-12 |  |
-| [犬とバカ猫](https://open.spotify.com/track/5CifiKtU7pNzCQ9GdV3xfE) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [犬とバカ猫](https://open.spotify.com/album/65467rSxnHNRnRlHHY6412) | 3:14 | 2025-09-11 |  |
+| [犬とバカ猫](https://open.spotify.com/track/5CifiKtU7pNzCQ9GdV3xfE) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [犬とバカ猫](https://open.spotify.com/album/65467rSxnHNRnRlHHY6412) | 3:14 | 2025-09-11 | 2026-06-01 |
 | [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-01-26 | 2023-03-18 |
 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-05-09 | 2025-08-16 |
 | [睨めっ娘](https://open.spotify.com/track/2SL6pRmKNyug2DqhoVjVXq) | [TOMONARI SORA	](https://open.spotify.com/artist/2UMMVk4WPg6pKXQGvufnuG) | [睨めっ娘](https://open.spotify.com/album/1ujicwHmO1pnHs8mieQ9U2) | 2:39 | 2024-05-16 | 2025-08-29 |

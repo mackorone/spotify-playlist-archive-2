@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-490 songs - 1 day 3 hr 28 min
+492 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1721](https://open.spotify.com/track/2o9VXvH23n3IGgkaogject) | [Recheal Chrismild](https://open.spotify.com/artist/0Y0N5wtZyxYHA67np5VXIO) | [1721](https://open.spotify.com/album/0CoDvYVYINl0w9eJAXBNpl) | 3:44 | 2026-05-05 |  |
 | [1969](https://open.spotify.com/track/7mzfM2tTKNEgHIWdvXqJyQ) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Best Of](https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5) | 3:30 | 2026-04-19 | 2026-05-26 |
 | [2 0 4 5](https://open.spotify.com/track/3mS5wAqw8WxYGw4Hdc0hag) | [Wyatt Leach](https://open.spotify.com/artist/6Rl58oDVByLhttQgFkTTW1) | [2 0 4 5](https://open.spotify.com/album/1NXZMjp4olFbvITfoegqea) | 2:21 | 2025-11-30 | 2026-01-05 |
+| [37 Guns](https://open.spotify.com/track/6O5NzMNLYRIhazkUmlqE0W) | [Glife](https://open.spotify.com/artist/3OstriB6t4uPV55YmNf3V3), [Bloswick](https://open.spotify.com/artist/6gKWJHwJJNsAKlAIDX1yug) | [Pals](https://open.spotify.com/album/6DgMKpmqw4gzWfVD0Ket9r) | 3:05 | 2026-05-31 |  |
 | [40](https://open.spotify.com/track/0efLMYEhoCsvPEjMTug7cY) | [The Katawicks](https://open.spotify.com/artist/3hqty8aRn2EImLsrckK6mk) | [For The Seasons](https://open.spotify.com/album/7dDWirfVw0eWCOovuiREaa) | 3:10 | 2026-04-03 |  |
 | [A Better Man](https://open.spotify.com/track/1qJ46HmbyOpBtb3vpRb4an) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [A Better Man](https://open.spotify.com/album/3fYEKBdWP2srmsbqsJzSlf) | 4:02 | 2025-12-26 | 2026-01-15 |
 | [A mani vuote](https://open.spotify.com/track/7GbUksy2hbn9Y4in8VU8rN) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY) | [A mani vuote](https://open.spotify.com/album/5KOYdCWPstaraOwRpsK2xK) | 3:12 | 2025-11-22 | 2026-01-05 |
@@ -219,6 +220,7 @@
 | [Il mio nome è Divoc](https://open.spotify.com/track/5C9onzUPqDPEa1bkicVEvH) | [Mantideatea](https://open.spotify.com/artist/5v1HMdsldVByS7yLgsL3aB) | [Vecchio Progresso](https://open.spotify.com/album/3r1infkoCbumrwUx4nBIEd) | 3:16 | 2025-11-24 | 2026-01-05 |
 | [Imagine](https://open.spotify.com/track/0qfZc2BEwvldx3YU55aBJy) | [ELEKTROWAN](https://open.spotify.com/artist/6PAHshSRQPQLC0UWb9v43v) | [Imagine](https://open.spotify.com/album/1GCezoHHagiknb2SwdHAdd) | 3:15 | 2025-11-10 | 2025-12-01 |
 | [In My Dreams](https://open.spotify.com/track/3bJmToSAKBi018GPh5dZk5) | [Emma Galanaki](https://open.spotify.com/artist/3uLWfPiygNLK6JFhj2gCG7) | [In My Dreams](https://open.spotify.com/album/0FFKptQv4URWBWRSJj8Vcx) | 3:45 | 2025-11-08 | 2025-12-01 |
+| [In My Life](https://open.spotify.com/track/2gGcCQt9wtPhaNHQi20hm5) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [In My Life](https://open.spotify.com/album/5oZEd7DEOSHVlLqvrZurla) | 1:56 | 2026-05-31 |  |
 | [In My Lowrider](https://open.spotify.com/track/7ilcS2AzP2fJbRqRlD8WS6) | [Willie of Wilshire](https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS) | [A Day in LA](https://open.spotify.com/album/4cnMBGhaSYkhDDeXJLSvR1) | 2:52 | 2025-12-01 | 2026-01-05 |
 | [In the Zone](https://open.spotify.com/track/4GQCB31mUj7IWjZWa2xyU6) | [Zoë Evans](https://open.spotify.com/artist/22WSFLmJCcJ6YvkfCaXWBo) | [In the Zone](https://open.spotify.com/album/5y5SUzLfH5GFst6dPosrZj) | 2:38 | 2026-02-08 |  |
 | [Interest Free](https://open.spotify.com/track/04oLfpOdFBPSM7GJmwmGX4) | [Lost Trends](https://open.spotify.com/artist/6kZpNXyeuRmP1DkYDiNSbV) | [Interest Free](https://open.spotify.com/album/1aPNhzmMkxcFpppkxtKWqZ) | 2:37 | 2026-02-14 |  |

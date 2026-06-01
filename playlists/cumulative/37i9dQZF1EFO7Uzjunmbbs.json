@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "I HOPE THIS HELPS",
+        "url": "https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "how to swim",
+      "url": "https://open.spotify.com/track/5eytO8ZEN26UjAp5QSkciP"
+    },
+    {
+      "album": {
         "name": "I Don't Believe We've Met",
         "url": "https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM"
       },

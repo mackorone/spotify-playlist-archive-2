@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Lagum",
-  "num_followers": 361597,
+  "num_followers": 361564,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
-        "name": "Fruto Do Tempo",
-        "url": "https://open.spotify.com/album/3fHaNVV7o76HmvDVehDxID"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 244809,
-      "name": "Fruto do Tempo",
-      "url": "https://open.spotify.com/track/4bK5J8VeSYMKmwSvyyHCNO"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
         "name": "Olhar de Quem n\u00e3o Presta",
         "url": "https://open.spotify.com/album/78wcFSGxIQDEuYc79SaLhs"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 166442,
       "name": "Olhar de Quem n\u00e3o Presta",
       "url": "https://open.spotify.com/track/5cJ90Ya6UbFgQpk6Epq5vk"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
+        "name": "Fruto Do Tempo",
+        "url": "https://open.spotify.com/album/3fHaNVV7o76HmvDVehDxID"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 244809,
+      "name": "Fruto do Tempo",
+      "url": "https://open.spotify.com/track/4bK5J8VeSYMKmwSvyyHCNO"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -247,26 +247,6 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
-        "name": "Pedacin de Mim",
-        "url": "https://open.spotify.com/album/2eGN7en1PVMGZ9j0JUWCCp"
-      },
-      "artists": [
-        {
-          "name": "Ananda Paix\u00e3o",
-          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
-        },
-        {
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        }
-      ],
-      "duration_ms": 161764,
-      "name": "Pedacin de Mim",
-      "url": "https://open.spotify.com/track/3a4c19yPZKQaSShh6KiwYG"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
         "name": "oitava maravilha",
         "url": "https://open.spotify.com/album/5FwTt373ypJJDubbvjkgtz"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 160433,
       "name": "oitava maravilha",
       "url": "https://open.spotify.com/track/6V4BwX49ZsEzuDhtZ4bSVx"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
+        "name": "Pedacin de Mim",
+        "url": "https://open.spotify.com/album/2eGN7en1PVMGZ9j0JUWCCp"
+      },
+      "artists": [
+        {
+          "name": "Ananda Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/5LCSzaHtMSsMqXOEjnASiJ"
+        },
+        {
+          "name": "Johnny Hooker",
+          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
+        }
+      ],
+      "duration_ms": 161764,
+      "name": "Pedacin de Mim",
+      "url": "https://open.spotify.com/track/3a4c19yPZKQaSShh6KiwYG"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
+        "name": "Quando me ver passar",
+        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 134753,
+      "name": "Quando me ver passar",
+      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/1IJ4gunXDSfzjxloxvWY07"
       },
@@ -347,50 +363,6 @@
       "duration_ms": 134755,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/75JqbHbQztZgSS3nZEcHU7"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "Quando me ver passar",
-        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 134753,
-      "name": "Quando me ver passar",
-      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "Fim Do Mundo",
-        "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Beeside Records",
-          "url": "https://open.spotify.com/artist/3ZCJP8VneBmjWhsRzmcOdo"
-        },
-        {
-          "name": "Fresh Records",
-          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Fim Do Mundo",
-      "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -423,6 +395,34 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
+        "name": "Fim Do Mundo",
+        "url": "https://open.spotify.com/album/4awLAGhKdYZx9vi4tneHEe"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Beeside Records",
+          "url": "https://open.spotify.com/artist/3ZCJP8VneBmjWhsRzmcOdo"
+        },
+        {
+          "name": "Fresh Records",
+          "url": "https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Fim Do Mundo",
+      "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
         "name": "Tudo o que eu preciso",
         "url": "https://open.spotify.com/album/4qgcTa8MFq2CTcY39Wlftz"
       },
@@ -435,22 +435,6 @@
       "duration_ms": 182064,
       "name": "Tudo o que eu preciso",
       "url": "https://open.spotify.com/track/6EuZGtqXcAfejal7Ghvtrw"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "Tudo Pelo Show",
-        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
-      },
-      "artists": [
-        {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
-        }
-      ],
-      "duration_ms": 152232,
-      "name": "Os Mo\u00e7os da R\u00e1dio",
-      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -483,6 +467,22 @@
       "duration_ms": 195692,
       "name": "Del\u00edrio Favorito",
       "url": "https://open.spotify.com/track/7BJ0CO6cBxEC3g8as2M8zC"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
+        "name": "Tudo Pelo Show",
+        "url": "https://open.spotify.com/album/0urOGdgpK9kCBGkfgqNm8J"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 152232,
+      "name": "Os Mo\u00e7os da R\u00e1dio",
+      "url": "https://open.spotify.com/track/0HqEAEoxKIR88HTUJVwBfy"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -607,34 +607,6 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
-        "name": "Baile do Djavan",
-        "url": "https://open.spotify.com/album/0BzMA7k4ObqhbBqLPH4Ovx"
-      },
-      "artists": [
-        {
-          "name": "Tapsounds",
-          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
-        },
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "Felipe Phyre",
-          "url": "https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc"
-        }
-      ],
-      "duration_ms": 173537,
-      "name": "Baile do Djavan",
-      "url": "https://open.spotify.com/track/5uD5LNjOASmoTOVK7CR4j6"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
         "name": "a1",
         "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
       },
@@ -663,6 +635,34 @@
       "duration_ms": 157186,
       "name": "Curvas",
       "url": "https://open.spotify.com/track/5p7aqn8b2RlAqWlCNKBJsL"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
+        "name": "Baile do Djavan",
+        "url": "https://open.spotify.com/album/0BzMA7k4ObqhbBqLPH4Ovx"
+      },
+      "artists": [
+        {
+          "name": "Tapsounds",
+          "url": "https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO"
+        },
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Felipe Phyre",
+          "url": "https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc"
+        }
+      ],
+      "duration_ms": 173537,
+      "name": "Baile do Djavan",
+      "url": "https://open.spotify.com/track/5uD5LNjOASmoTOVK7CR4j6"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -739,6 +739,26 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
+        "name": "LUMINOSA, ATO II: SOL",
+        "url": "https://open.spotify.com/album/0jjFw0lrAwiOvXgbnvOp2D"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        },
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 179259,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/28xVmDFPHeRgYHo1Nfv27d"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
         "name": "Balelo",
         "url": "https://open.spotify.com/album/5h91bT30As9hPOjFRPhvOM"
       },
@@ -779,26 +799,6 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
-        "name": "LUMINOSA, ATO II: SOL",
-        "url": "https://open.spotify.com/album/0jjFw0lrAwiOvXgbnvOp2D"
-      },
-      "artists": [
-        {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
-        },
-        {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
-        }
-      ],
-      "duration_ms": 179259,
-      "name": "Sorte",
-      "url": "https://open.spotify.com/track/28xVmDFPHeRgYHo1Nfv27d"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
         "name": "Cada Linha",
         "url": "https://open.spotify.com/album/11S0gVsVXpCpSUFYYiLADo"
       },
@@ -815,6 +815,30 @@
       "duration_ms": 162339,
       "name": "Cada Linha",
       "url": "https://open.spotify.com/track/49gSrZDPSaWtmLZzkMW9Wt"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
+        "name": "CARAMELO SALGADO",
+        "url": "https://open.spotify.com/album/52E7tqry5EliX0ypc7n3oM"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 238058,
+      "name": "SECA PALHA",
+      "url": "https://open.spotify.com/track/6X6h7rjzj166usJ7Bx4MM1"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -991,6 +1015,26 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
+        "name": "Outras Vezes",
+        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
+      },
+      "artists": [
+        {
+          "name": "Lulina",
+          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
+        },
+        {
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Outras Vezes",
+      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
         "name": "N\u00e3o Solta Minha M\u00e3o",
         "url": "https://open.spotify.com/album/3n9S4UdRZhnt5rqksg3qVA"
       },
@@ -1023,30 +1067,6 @@
       "duration_ms": 189333,
       "name": "rela\u00e7\u00f5es superficiais",
       "url": "https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "CARAMELO SALGADO",
-        "url": "https://open.spotify.com/album/52E7tqry5EliX0ypc7n3oM"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 238058,
-      "name": "SECA PALHA",
-      "url": "https://open.spotify.com/track/6X6h7rjzj166usJ7Bx4MM1"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -1087,26 +1107,6 @@
       "duration_ms": 171194,
       "name": "No Mar",
       "url": "https://open.spotify.com/track/3Wc384GdmbSP2XQGRGrZHh"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "Outras Vezes",
-        "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
-      },
-      "artists": [
-        {
-          "name": "Lulina",
-          "url": "https://open.spotify.com/artist/1wobNlwSDkLjQIOK1fpuaC"
-        },
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Outras Vezes",
-      "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
     },
     {
       "added_at": "2026-05-29 03:00:20",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2026-05-29 03:00:20",
       "album": {
+        "name": "Esqueleto",
+        "url": "https://open.spotify.com/album/78Hln7xFuFdsh6grNA8qIM"
+      },
+      "artists": [
+        {
+          "name": "Ariah",
+          "url": "https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8"
+        },
+        {
+          "name": "Gabriel Aiala",
+          "url": "https://open.spotify.com/artist/7BaQ2BKBgFgSUBxa9ulAlT"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Esqueleto",
+      "url": "https://open.spotify.com/track/4wsioNig2uczFFKKgpe4yO"
+    },
+    {
+      "added_at": "2026-05-29 03:00:20",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 152000,
       "name": "GPS",
       "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
-    },
-    {
-      "added_at": "2026-05-29 03:00:20",
-      "album": {
-        "name": "Esqueleto",
-        "url": "https://open.spotify.com/album/78Hln7xFuFdsh6grNA8qIM"
-      },
-      "artists": [
-        {
-          "name": "Ariah",
-          "url": "https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8"
-        },
-        {
-          "name": "Gabriel Aiala",
-          "url": "https://open.spotify.com/artist/7BaQ2BKBgFgSUBxa9ulAlT"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Esqueleto",
-      "url": "https://open.spotify.com/track/4wsioNig2uczFFKKgpe4yO"
     },
     {
       "added_at": "2026-05-29 03:00:20",

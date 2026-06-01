@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Foo Fighters",
-  "num_followers": 77203,
+  "num_followers": 77207,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/1Mf27cnAF1Q6Ko83XTM5d1"
     },
     {
-      "added_at": "2026-05-28 21:10:12",
-      "album": {
-        "name": "Vol.II",
-        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
-      },
-      "artists": [
-        {
-          "name": "Angine de Poitrine",
-          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
-        }
-      ],
-      "duration_ms": 275599,
-      "name": "Sarniezz",
-      "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
-    },
-    {
       "added_at": "2026-05-06 20:31:40",
       "album": {
         "name": "Lunatic",
@@ -775,6 +759,22 @@
       "duration_ms": 211960,
       "name": "Come with Me Now",
       "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
+    },
+    {
+      "added_at": "2026-05-28 21:10:12",
+      "album": {
+        "name": "Vol.II",
+        "url": "https://open.spotify.com/album/3FqqIeynZXFBcyLS9FlWMo"
+      },
+      "artists": [
+        {
+          "name": "Angine de Poitrine",
+          "url": "https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2"
+        }
+      ],
+      "duration_ms": 275599,
+      "name": "Sarniezz",
+      "url": "https://open.spotify.com/track/6iDKiCR13L8Ba6bkK6cqqt"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Ugly is Beautiful",
-        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 145147,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "God Of Angels Trust",
         "url": "https://open.spotify.com/album/0PTsIhGBmoAAkLULFz6lwC"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 222960,
       "name": "By a Monster\u2019s Hand",
       "url": "https://open.spotify.com/track/6okhNU97I9bKQ1wCbtleOQ"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 145147,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
     },
     {
       "added_at": "2026-05-06 20:31:40",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-05-06 20:31:40",
       "album": {
-        "name": "Going to Hell",
-        "url": "https://open.spotify.com/album/5cjJRrzeVRE79YXiTSCbVf"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 224854,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl"
-    },
-    {
-      "added_at": "2026-05-06 20:31:40",
-      "album": {
         "name": "What If Nothing",
         "url": "https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 196533,
       "name": "Lost Kitten",
       "url": "https://open.spotify.com/track/5yaEx1flpZmNBiPyAT8iUx"
+    },
+    {
+      "added_at": "2026-05-06 20:31:40",
+      "album": {
+        "name": "Going to Hell",
+        "url": "https://open.spotify.com/album/5cjJRrzeVRE79YXiTSCbVf"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 224854,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl"
     },
     {
       "added_at": "2026-05-06 20:31:40",

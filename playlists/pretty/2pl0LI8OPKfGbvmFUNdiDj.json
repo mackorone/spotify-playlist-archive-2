@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 890,
+  "num_followers": 891,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAD4D+PJcBT/ENdS4x+mwdXaWjga+iv",
+  "snapshot_id": "AAAD4pcRqzv59F+hP8yYherAFqRpscV2",
   "tracks": [
     {
       "added_at": "2026-05-09 15:40:27",
@@ -1167,6 +1167,42 @@
       "duration_ms": 208733,
       "name": "Bayou Icarus",
       "url": "https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i"
+    },
+    {
+      "added_at": "2026-05-31 14:30:15",
+      "album": {
+        "name": "Pals",
+        "url": "https://open.spotify.com/album/6DgMKpmqw4gzWfVD0Ket9r"
+      },
+      "artists": [
+        {
+          "name": "Glife",
+          "url": "https://open.spotify.com/artist/3OstriB6t4uPV55YmNf3V3"
+        },
+        {
+          "name": "Bloswick",
+          "url": "https://open.spotify.com/artist/6gKWJHwJJNsAKlAIDX1yug"
+        }
+      ],
+      "duration_ms": 185350,
+      "name": "37 Guns",
+      "url": "https://open.spotify.com/track/6O5NzMNLYRIhazkUmlqE0W"
+    },
+    {
+      "added_at": "2026-05-31 16:56:39",
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/5oZEd7DEOSHVlLqvrZurla"
+      },
+      "artists": [
+        {
+          "name": "Randy Resnick",
+          "url": "https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq"
+        }
+      ],
+      "duration_ms": 116785,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/2gGcCQt9wtPhaNHQi20hm5"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: J Balvin, Ryan Castro
 
-784 songs - 1 day 16 hr 39 min
+785 songs - 1 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [El Problema \(2020\)](https://open.spotify.com/track/5C5MyN6NWwcvcJNud1bkEp) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [El Problema \(2020\)](https://open.spotify.com/album/7A7fxgXTMgJ0qGnMIzj0YG) | 2:30 | 2025-05-30 |  |
 | [El Punto](https://open.spotify.com/track/1etWW7mTNfW6gqiWIGNs1F) | [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky), [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E) | [Cerré El Punto](https://open.spotify.com/album/4RaQSi2UJmAWyADX9juodz) | 2:28 | 2025-11-18 |  |
 | [EL VIBE](https://open.spotify.com/track/2FB0B97YQMCYhIuCKbaSkb) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [EL VIBE](https://open.spotify.com/album/5spqI36OyC3hvd4NmlrhO8) | 2:51 | 2023-07-14 | 2024-10-19 |
+| [El Virus](https://open.spotify.com/track/3wXYQ4zXLdEwSTyLBle4li) | [Moris](https://open.spotify.com/artist/0FOLAubOdWPFIBTEUJsAYY) | [El Virus](https://open.spotify.com/album/4EicaSGbg2BLwp2fYEg48q) | 1:55 | 2026-05-31 |  |
 | [el vuelo](https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [el vuelo](https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3) | 3:05 | 2022-09-06 | 2022-12-08 |
 | [Embeleso](https://open.spotify.com/track/3ZiRZ7a4LrX6H6uU4iPsRz) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Embeleso](https://open.spotify.com/album/4L2IfsDgvK37jAXhCbxAaK) | 3:20 | 2022-09-06 | 2022-09-11 |
 | [Embeleso](https://open.spotify.com/track/5OMX4q4yknfdEFLBU0ufWl) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Embeleso](https://open.spotify.com/album/4tvKQtkJEk1dkFs53jh1ue) | 3:20 | 2022-09-06 | 2022-12-02 |

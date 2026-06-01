@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: Maria Sur
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,179 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,183 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 65 | [Твій аромат](https://open.spotify.com/track/2XuMhr7BgehygNPq1ffQqF) | [CHEEV](https://open.spotify.com/artist/0PWfuxCvPtyeCLLWjf4EzJ) | [Romcom](https://open.spotify.com/album/13ynoeCvmsVqsU5P8BLd9d) | 3:13 |
 | 66 | [HORA](https://open.spotify.com/track/5PBohl4TCGfmUkDxsYgAuk) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [HORA](https://open.spotify.com/album/1zvYTSGjOKxgoEque7gpHu) | 2:25 |
 | 67 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
-| 68 | [CATHARTICUS \(prayer\)](https://open.spotify.com/track/0h515vyyNVzcmpkSB1r2Oh) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [CATHARTICUS \(prayer\)](https://open.spotify.com/album/6BaxdtefdTdELBbxuIdM2K) | 3:01 |
-| 69 | [Хто якщо не ми](https://open.spotify.com/track/191XHBxla6n4hyz7x3NssJ) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Хто якщо не ми](https://open.spotify.com/album/1Oaf7lnKX6HOXDIAEhDwc3) | 2:43 |
-| 70 | [FENOMENAL'](https://open.spotify.com/track/1b977NIX97rPhUrvt57udY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FENOMENAL'](https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS) | 2:57 |
+| 68 | [Хто якщо не ми](https://open.spotify.com/track/191XHBxla6n4hyz7x3NssJ) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ), [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Хто якщо не ми](https://open.spotify.com/album/1Oaf7lnKX6HOXDIAEhDwc3) | 2:43 |
+| 69 | [FENOMENAL'](https://open.spotify.com/track/1b977NIX97rPhUrvt57udY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [FENOMENAL'](https://open.spotify.com/album/5c6g5EqMjyhZYGDgVHGiSS) | 2:57 |
+| 70 | [CATHARTICUS \(prayer\)](https://open.spotify.com/track/0h515vyyNVzcmpkSB1r2Oh) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [CATHARTICUS \(prayer\)](https://open.spotify.com/album/6BaxdtefdTdELBbxuIdM2K) | 3:01 |
 
 Snapshot ID: `AAAAAFbFXLGOsn8sw0DNx+4Hej0JubGs`

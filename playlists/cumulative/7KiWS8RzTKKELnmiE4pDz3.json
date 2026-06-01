@@ -1721,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Head Carrier",
+        "url": "https://open.spotify.com/album/5F9YYEKDxenkRpyuovdqZe"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187320,
+      "name": "All I Think About Now",
+      "url": "https://open.spotify.com/track/3NfqN997u9A3YAAafgzhIa"
+    },
+    {
+      "album": {
         "name": "All Kap",
         "url": "https://open.spotify.com/album/3oOzhQKzdTlnfzYrMtry2P"
       },
@@ -1848,6 +1866,28 @@
       "duration_ms": 224468,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1BuN2kMDQrXhS73RrTNRyY"
+    },
+    {
+      "album": {
+        "name": "The Blueprint 3",
+        "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269853,
+      "name": "Already Home",
+      "url": "https://open.spotify.com/track/6BspqxU4vVF6ZsWjfgIJkK"
     },
     {
       "album": {
@@ -6925,6 +6965,24 @@
     },
     {
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+    },
+    {
+      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/0uGrHjpQjFttH2ztKbouyb"
       },
@@ -9095,6 +9153,24 @@
     },
     {
       "album": {
+        "name": "Beg For Mercy",
+        "url": "https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy"
+      },
+      "artists": [
+        {
+          "name": "G-Unit",
+          "url": "https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "G-Unit",
+      "url": "https://open.spotify.com/track/2TDP6ok1O8yNtCAWltzyON"
+    },
+    {
+      "album": {
         "name": "Hell On Earth",
         "url": "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
       },
@@ -10766,6 +10842,24 @@
       "duration_ms": 193208,
       "name": "Headshots (4r da Locals)",
       "url": "https://open.spotify.com/track/0xta6Gah3inmeHbj0e3F9a"
+    },
+    {
+      "album": {
+        "name": "Philadelphia Freeway",
+        "url": "https://open.spotify.com/album/41guLY5GEPG3GLREh0ck19"
+      },
+      "artists": [
+        {
+          "name": "Freeway",
+          "url": "https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215360,
+      "name": "Hear The Song",
+      "url": "https://open.spotify.com/track/7DSyeWwyPMY0qIEr6w07DV"
     },
     {
       "album": {
@@ -21171,6 +21265,28 @@
     },
     {
       "album": {
+        "name": "The Sound of Revenge",
+        "url": "https://open.spotify.com/album/31dzB4ULKZfOH71tuaBiR8"
+      },
+      "artists": [
+        {
+          "name": "Chamillionaire",
+          "url": "https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb"
+        },
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303053,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9"
+    },
+    {
+      "album": {
         "name": "i wanna be a sniperrrrr",
         "url": "https://open.spotify.com/album/3hqf7upVvfJhXJDgBfmBMq"
       },
@@ -26326,7 +26442,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 320160,
       "name": "Trife Life",
       "url": "https://open.spotify.com/track/7a2dsbIZcf5SAz7Uv4G0NR"

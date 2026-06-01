@@ -4,7 +4,7 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-145 songs - 7 hr 24 min
+146 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 | 2025-07-04 |  |
 | [Seratonin](https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Seratonin](https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj) | 1:55 | 2026-05-15 |  |
 | [Sorry Papi](https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Sorry Papi](https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk) | 2:50 | 2026-04-24 |  |
+| [Starlight](https://open.spotify.com/track/64Y1COS4dg0R3Bhnc0xKtW) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [Starlight](https://open.spotify.com/album/2W0TsF1BA27Hh9TLlO9415) | 3:37 | 2026-05-31 |  |
 | [Starlight \(The Fame\)](https://open.spotify.com/track/2Rr9a2sxcTIe9xhfaEmFTL) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Starlight \(The Fame\)](https://open.spotify.com/album/6GNKUJR0OQtwR9xUK6OVE4) | 3:02 | 2025-07-04 |  |
 | [Summer Love](https://open.spotify.com/track/0YjXevB90M9K34TOx4q02S) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [Summer Love](https://open.spotify.com/album/4VDwEXL99iyW8h5irzXg8S) | 2:35 | 2025-07-04 | 2025-07-26 |
 | [Supergirl](https://open.spotify.com/track/6N542bNlsteL28mkXZW3Nl) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [Supergirl](https://open.spotify.com/album/3jUkvDHe7qlkQJXgEzOwbi) | 2:32 | 2025-07-25 | 2025-08-15 |

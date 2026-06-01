@@ -4194,7 +4194,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 205000,
       "name": "Fasaana",
       "url": "https://open.spotify.com/track/69UVWiMCXMNnj6bKLc2Bi6"
@@ -9386,6 +9386,32 @@
       "duration_ms": 305017,
       "name": "Munni Badnaam",
       "url": "https://open.spotify.com/track/6fORBVECjNDJ1gdq5uuoAz"
+    },
+    {
+      "album": {
+        "name": "Na Lage Nazar",
+        "url": "https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Na Lage Nazar",
+      "url": "https://open.spotify.com/track/28U6ckPA3oRItIEzVbe3j7"
     },
     {
       "album": {

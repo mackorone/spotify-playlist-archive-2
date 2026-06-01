@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,045 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,042 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 10 | [What's It Feel Like To Be A Ghost?](https://open.spotify.com/track/376GmAj8YF8fIJLe5IwOoH) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:47 |
 | 11 | [Timberwolves At New Jersey \- Remastered](https://open.spotify.com/track/1JFPraHovseDzutd6BOIry) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:25 |
 | 12 | [Set Phasers To Stun](https://open.spotify.com/track/33n3pRhzyat73ZGUzluZjx) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 3:03 |
-| 13 | [Sink Into Me](https://open.spotify.com/track/3XctWgpqES8k6NcpJuS1jA) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:03 |
+| 13 | [Flicker, Fade](https://open.spotify.com/track/6QQq00cv1UZK0bwWWEpa5e) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 4:33 |
 | 14 | [My Blue Heaven](https://open.spotify.com/track/6pYzQWbPT3zw4F8Y5euTfl) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 4:07 |
 | 15 | [There's No 'I' In Team \- Remastered](https://open.spotify.com/track/5GDhZIimrLEJAgV7zVshSG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:48 |
 | 16 | [One\-Eighty By Summer](https://open.spotify.com/track/6r2EjEQh33dR5Ofxf5r79T) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 3:53 |
-| 17 | [Flicker, Fade](https://open.spotify.com/track/6QQq00cv1UZK0bwWWEpa5e) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 4:33 |
+| 17 | [Sink Into Me](https://open.spotify.com/track/3XctWgpqES8k6NcpJuS1jA) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:03 |
 | 18 | [Spin](https://open.spotify.com/track/1rnuOugmaCQNaYxMhGrSyT) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:39 |
 | 19 | [You Know How I Do \- Remastered](https://open.spotify.com/track/7zqyhEbjAajHuvH2Icn1Hr) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:21 |
 | 20 | [Number Five With A Bullet](https://open.spotify.com/track/1TDj6SaGAWm81OfkXVbTNr) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 3:49 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 39 | [Summer, Man](https://open.spotify.com/track/0liXar8GQi3nwKrbe6Ooi2) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:51 |
 | 40 | [Capital M\-E](https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 2:48 |
 | 41 | [Best Places To Be A Mom](https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Taking Back Sunday](https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY) | 3:31 |
-| 42 | [Quit Trying](https://open.spotify.com/track/4DOorspFqyW01uFqi0x5Ti) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:15 |
+| 42 | [New Music Friday](https://open.spotify.com/track/2NC1x67is50XdNyvvNPjJ1) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:15 |
 | 43 | [Everything Must Go](https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 4:44 |
 | 44 | [We All Love Our Pets](https://open.spotify.com/track/5LIYbUs41ceW73JBLdPbVv) | [Yo Gabba Gabba](https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Yo Gabba Gabba! Hey!](https://open.spotify.com/album/3LbmwW3awdE7P4wJillCEA) | 1:41 |
 | 45 | [Beat Up Car](https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Happiness Is](https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd) | 3:11 |
-| 46 | [New Music Friday](https://open.spotify.com/track/2NC1x67is50XdNyvvNPjJ1) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:15 |
+| 46 | [Quit Trying](https://open.spotify.com/track/4DOorspFqyW01uFqi0x5Ti) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:15 |
 | 47 | [Cut Me Up Jenny](https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:52 |
 | 48 | [Suburban Home / I Like Food](https://open.spotify.com/track/6taKcHeZ9SU9QgZy1oMXOi) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tony Hawk's American Wasteland Soundtrack](https://open.spotify.com/album/67tv7opgqW8VDYdLc6shX5) | 1:56 |
 | 49 | [Your Own Disaster \- Live From Orensanz, New York, NY / 2010](https://open.spotify.com/track/1aggSZloUOTB3Y6vGMD8GS) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Live From Orensanz](https://open.spotify.com/album/586wLbc8nvAWQXVcAAwib4) | 4:56 |
 | 50 | [Cute Without The E \(Ziri\)](https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Cute Without The E \(Ziri\)](https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0) | 3:22 |
 
-Snapshot ID: `ahjXAAAAAABBX7vDFnCshFSf6P8RWW20`
+Snapshot ID: `ahoogAAAAABJwO6x7o540wRjKntFU2ZI`

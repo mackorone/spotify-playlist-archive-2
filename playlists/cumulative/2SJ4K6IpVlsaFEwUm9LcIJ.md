@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-1,015 songs - 2 day 13 hr 33 min
+1,018 songs - 2 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Anorak](https://open.spotify.com/track/4PLYD3XqOL4Wp8HtEQySFn) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Modern Meta Physic](https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN) | 2:31 | 2024-01-31 | 2024-03-10 |
 | [Another Lifetime Floats Away](https://open.spotify.com/track/1NAluKvmuPDYJ7EnbSyhe3) | [Wendy Eisenberg](https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi) | [Wendy Eisenberg](https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5) | 4:34 | 2026-05-22 |  |
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-06-14 | 2024-07-12 |
+| [Apple to the Orange](https://open.spotify.com/track/3rX1lDnL0lcdNX3LwRzDfp) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Love Is Overtaking Me \(Redux\)](https://open.spotify.com/album/72Hh7NaXG3r7E5sHhAnLCN) | 5:31 | 2026-05-31 |  |
 | [Arcadia](https://open.spotify.com/track/1xTi10LGVMv9MbKbg944mm) | [dome 3000](https://open.spotify.com/artist/3mBx6bxMOEGvTYe2B5pTH5) | [After The Dream Comes True](https://open.spotify.com/album/4xOPUGqhLNceNlxXxiDIfX) | 2:11 | 2025-11-14 | 2026-01-15 |
 | [Are You Lonesome Like Me?](https://open.spotify.com/track/7eXefSw0omrWAzAj9bPHdg) | [The Feminine Complex](https://open.spotify.com/artist/01KjnhCy6NazKcRifV68Mm) | [Livin' Love](https://open.spotify.com/album/0k5SeppJRa4SbJnaISfFqf) | 2:52 | 2024-04-25 | 2024-05-16 |
 | [Are You Really on Drugs?](https://open.spotify.com/track/0vRdw4Dn862ci4NjJutQI6) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Mister Pop](https://open.spotify.com/album/1fdN6BFzynfexqrwsHz5g9) | 2:46 | 2024-12-27 | 2025-01-12 |
@@ -228,6 +229,7 @@
 | [donatt gonatt](https://open.spotify.com/track/1KTUanjuON1WRpdAm7K0q6) | [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Dan Nicholls](https://open.spotify.com/artist/3jPACp3hjJoZE4amLccrTW) | [Y\-OTIS TRE](https://open.spotify.com/album/5Ft7Z5wGzds53aw1ivIPAS) | 2:18 | 2025-01-21 | 2025-01-23 |
 | [Doubt](https://open.spotify.com/track/2dexrJhfT8hQEvH7uqNpRf) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 4:00 | 2025-09-26 | 2025-11-15 |
 | [Doubt](https://open.spotify.com/track/6fFSq7gqYd1IyidV7tIBCI) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Escho 15 år: Burgers for my new life](https://open.spotify.com/album/0DyC815neW8HCVwn9SEp09) | 4:00 | 2025-02-10 | 2025-03-02 |
+| [Dozen Roses](https://open.spotify.com/track/1QM2VOPPfzGJJJ2Hgqo90m) | [Thomas Dollbaum](https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ) | [Birds of Paradise](https://open.spotify.com/album/7Lib6qYBmpQCGyh1W8L4S3) | 5:24 | 2026-05-31 |  |
 | [Dream Alone](https://open.spotify.com/track/53ApaDXhRYAfB9St8Uqg2n) | [Artie Garr](https://open.spotify.com/artist/2qAv2padGLkUEaVP7SoWwv) | [Dream Alone / Beat Love](https://open.spotify.com/album/4rXWdsIYGhGtqYJpg3xA1b) | 2:22 | 2024-02-21 | 2024-03-10 |
 | [Dream police](https://open.spotify.com/track/2fLBrwqNZ2oCZBbSPEX1G3) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Dream police](https://open.spotify.com/album/21IkWTFIWNfa1SCCkk24gw) | 2:49 | 2024-01-19 | 2024-03-10 |
 | [Dribble Dribble](https://open.spotify.com/track/0gnJmxrfTJkUALVkMRyTTP) | [Amy O](https://open.spotify.com/artist/6CMJF0sfcDB4ohajYpE9jb) | [Dribble Dribble](https://open.spotify.com/album/1JWRaVRiOgvCGKOEhdW21v) | 3:16 | 2024-03-28 | 2024-05-16 |
@@ -935,6 +937,7 @@
 | [Two Thieves](https://open.spotify.com/track/1AR3tUpXDLN5eIFz8zxQ3C) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:24 | 2025-05-16 | 2025-07-04 |
 | [Tymps \(The Sick in the Head Song\)](https://open.spotify.com/track/2zjUGfh1MqYNfYrQ6Fbu0o) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Extraordinary Machine](https://open.spotify.com/album/1z0O8lKuQRs974S8wcRiAs) | 4:03 | 2026-02-02 | 2026-03-13 |
 | [U.F.O](https://open.spotify.com/track/1N6oLheDDCvbDIEjwcR8S4) | [ESG](https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa) | [You're No Good](https://open.spotify.com/album/7hlRtKmx13ObPK4OL0UE6C) | 2:55 | 2025-07-03 | 2025-09-11 |
+| [Under my bed](https://open.spotify.com/track/52Sd0lu6TTVMDhwQqjZcD6) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [\*FLUTTERS AWAY\*](https://open.spotify.com/album/5grjXewIYwJzeegUrLSsyx) | 2:52 | 2026-05-31 |  |
 | [Under My Thumb](https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:41 | 2026-03-12 | 2026-05-06 |
 | [Unfair](https://open.spotify.com/track/10ZQm8oJGYLJg0x8B0TPEZ) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Crooked Rain, Crooked Rain](https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP) | 2:33 | 2025-05-20 | 2025-07-04 |
 | [Unterwegs](https://open.spotify.com/track/57D9V3FpffrYBY1Nb03Fqv) | [Tyndall](https://open.spotify.com/artist/6jrdjJ3UPZaGkuNUSb2chF) | [Traumland](https://open.spotify.com/album/7EWYt8PKoXHy6lbVJiKBqg) | 5:17 | 2025-07-03 | 2025-09-11 |

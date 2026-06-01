@@ -1,6 +1,6 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 227318,
+  "num_followers": 227392,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Very Mercenary",
-        "url": "https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV"
-      },
-      "artists": [
-        {
-          "name": "The Herbaliser",
-          "url": "https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w"
-        }
-      ],
-      "duration_ms": 216001,
-      "name": "The Sensual Woman",
-      "url": "https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Flying Away",
         "url": "https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 406000,
       "name": "Underwater Love",
       "url": "https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Very Mercenary",
+        "url": "https://open.spotify.com/album/1V3a7mBozraa6AXQmUNxFV"
+      },
+      "artists": [
+        {
+          "name": "The Herbaliser",
+          "url": "https://open.spotify.com/artist/1O7aMVbDeSXY2LiVBhb13w"
+        }
+      ],
+      "duration_ms": 216001,
+      "name": "The Sensual Woman",
+      "url": "https://open.spotify.com/track/31U21fwH5izi4fVA2f1HKa"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        }
-      ],
-      "duration_ms": 277333,
-      "name": "Breathe In",
-      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Deadringer: Deluxe",
         "url": "https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "G-Stoned",
-        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
       },
       "artists": [
         {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
         }
       ],
-      "duration_ms": 386266,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
+      "duration_ms": 277333,
+      "name": "Breathe In",
+      "url": "https://open.spotify.com/track/03kZca43rgVgphYctcopJU"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -595,6 +579,22 @@
       "duration_ms": 458666,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/4wcWI3GEtaGm38dbdDFbyI"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "G-Stoned",
+        "url": "https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 386266,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/5eqHucyy09GuijWam8RAja"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        },
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 233226,
+      "name": "Futures",
+      "url": "https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "Fisherman's Woman",
         "url": "https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp"
       },
@@ -1419,22 +1439,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "Slip Into Something More Comfortable",
-        "url": "https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu"
-      },
-      "artists": [
-        {
-          "name": "Kinobe",
-          "url": "https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy"
-        }
-      ],
-      "duration_ms": 287776,
-      "name": "Slip Into Something More Comfortable - Stephen Hague 2016 Mix",
-      "url": "https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "In A Space Outta Sound",
         "url": "https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf"
       },
@@ -1447,6 +1451,22 @@
       "duration_ms": 324173,
       "name": "Flip Ya Lid",
       "url": "https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Slip Into Something More Comfortable",
+        "url": "https://open.spotify.com/album/0e6fOjkQGCCWwtUXryzwJu"
+      },
+      "artists": [
+        {
+          "name": "Kinobe",
+          "url": "https://open.spotify.com/artist/468ohR5I3vI6JztrHL7exy"
+        }
+      ],
+      "duration_ms": 287776,
+      "name": "Slip Into Something More Comfortable - Stephen Hague 2016 Mix",
+      "url": "https://open.spotify.com/track/6l7PbHcApOcdXYbZlex1z4"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1499,22 +1519,34 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/5eqHucyy09GuijWam8RAja"
+        "name": "Suzuki",
+        "url": "https://open.spotify.com/album/36ogL93DPRBSrAKjenPLwe"
       },
       "artists": [
         {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        },
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
         }
       ],
-      "duration_ms": 233226,
-      "name": "Futures",
-      "url": "https://open.spotify.com/track/7m3Tbsn12hbBnsFHR6O4U7"
+      "duration_ms": 272613,
+      "name": "Ocean Beat",
+      "url": "https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Satta",
+        "url": "https://open.spotify.com/album/33EJ6lZ0aQ6uYFnac5F5Xq"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        }
+      ],
+      "duration_ms": 379360,
+      "name": "Night over Manaus",
+      "url": "https://open.spotify.com/track/5E80SdB1TAjgZqX5t6D3Fa"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1531,6 +1563,26 @@
       "duration_ms": 566146,
       "name": "A Zed And Two L's",
       "url": "https://open.spotify.com/track/0zaNoKovmrdck2PeLdGpeQ"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "Superluminal",
+        "url": "https://open.spotify.com/album/3It8376G4eBhEraQbW3TNR"
+      },
+      "artists": [
+        {
+          "name": "Sofa Surfers",
+          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
+        },
+        {
+          "name": "Mani Obeya",
+          "url": "https://open.spotify.com/artist/3Ex5qqvWXjVZkWuTkYkKc6"
+        }
+      ],
+      "duration_ms": 286386,
+      "name": "Broken Together",
+      "url": "https://open.spotify.com/track/2gamThf1tKQIGXX5flOvX0"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1627,58 +1679,6 @@
       "duration_ms": 401333,
       "name": "In the Bath",
       "url": "https://open.spotify.com/track/2RutVE1bxmy90AeXrnq4Ov"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Nothing Changes Under The Sun",
-        "url": "https://open.spotify.com/album/3Ubp7mzJGm58QtdJUWxlmc"
-      },
-      "artists": [
-        {
-          "name": "Blue States",
-          "url": "https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6"
-        }
-      ],
-      "duration_ms": 304333,
-      "name": "Your Girl",
-      "url": "https://open.spotify.com/track/6L90mFjGeLu3rsGddZpttR"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Suzuki",
-        "url": "https://open.spotify.com/album/36ogL93DPRBSrAKjenPLwe"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 272613,
-      "name": "Ocean Beat",
-      "url": "https://open.spotify.com/track/5smUyJcGZB0FhJWUDhre7T"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/2KtW863zWF7TCoaSgRRNKX"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        },
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "I Don't Know What I Can Save You From - R\u00f6yksopp Remix",
-      "url": "https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3"
     }
   ],
   "unique_name": "Chillout Classics",

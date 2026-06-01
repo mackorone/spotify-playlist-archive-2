@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > quanto vale uma peça pronta ser substituída?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,448 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,302 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [TÚNEL REBOUÇAS](https://open.spotify.com/track/7k0aaFjBBSyqwWoTNhVryG) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [Você Precisa do Álibi](https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX) | 1:48 |
 | 50 | [Normal](https://open.spotify.com/track/33iOAKRA2RmRPz8VjbHUib) | [Crônicas de um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [brandu](https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0) | [Normal](https://open.spotify.com/album/5ag8g1wUpfwNGb3npSb4jx) | 2:56 |
 
-Snapshot ID: `AAAAAKXRwNobtHf34vWs80JP2EeAg/h5`
+Snapshot ID: `AAAAAI2e0TPFQn0z3zZKbsPcs6n63SpD`

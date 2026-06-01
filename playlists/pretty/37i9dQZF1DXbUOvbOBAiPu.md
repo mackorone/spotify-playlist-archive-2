@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from OLIVIA, Ariana Grande, Laura Tesoro, S10 & Oscar and the Wolf and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,166 likes - 114 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,173 likes - 114 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

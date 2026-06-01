@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With David Eugene Edwards, Lockjaw, Dystopian X Vision and more",
+  "description": "With David Eugene Edwards, Lockjaw, Sraig\u0117s Efektas and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -2288,7 +2288,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 245793,
       "name": "Divine Electronic Doom",
       "url": "https://open.spotify.com/track/35B32sSZ1Ri0O2qQ8ObRKT"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 248000,
       "name": "Doesn't Matter If You Love It Here",
       "url": "https://open.spotify.com/track/4LHVJfoMF3fwGsRQcVkZBv"
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 298308,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/0EhvI9u41JDu4CymPT0e4B"
@@ -3802,7 +3802,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 168882,
       "name": "Freaky Ho's",
       "url": "https://open.spotify.com/track/0ZNvLRHdoL8K1rCs2tmMWM"
@@ -3820,7 +3820,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 241558,
       "name": "Frost Upon The Longships",
       "url": "https://open.spotify.com/track/77FAbjrKGLobbU26aL6BFZ"
@@ -3910,7 +3910,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 138070,
       "name": "F\u00f6rnedringen",
       "url": "https://open.spotify.com/track/4x9QBTz7ub8ts2qB7BBtgx"
@@ -4000,7 +4000,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -5003,6 +5003,24 @@
     },
     {
       "album": {
+        "name": "In the Very Time That Will Rot Us",
+        "url": "https://open.spotify.com/album/4oYnZsYcBYQhlWK31FydIY"
+      },
+      "artists": [
+        {
+          "name": "Soulburn",
+          "url": "https://open.spotify.com/artist/5GAJnSaQE4vHVoCuI7B7qH"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "In The Very Time That Will Rot Us",
+      "url": "https://open.spotify.com/track/2s998b6NVcI0zz1FCwy6kG"
+    },
+    {
+      "album": {
         "name": "D.A.D. Dig and die",
         "url": "https://open.spotify.com/album/0wqA39u7ZzfbXqjnoaz7PH"
       },
@@ -5682,7 +5700,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -6492,6 +6510,24 @@
       "duration_ms": 340409,
       "name": "Mental Health (MIK\u2019s Miasma)",
       "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
+    },
+    {
+      "album": {
+        "name": "Voidseeker",
+        "url": "https://open.spotify.com/album/7163GVjGNL6mXyKDBfmeOq"
+      },
+      "artists": [
+        {
+          "name": "Blood Python",
+          "url": "https://open.spotify.com/artist/2ZwyjxGoF6AH2PML6CIjf2"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253600,
+      "name": "Midnight Ritual",
+      "url": "https://open.spotify.com/track/1p8Au17NXxXeEivXJaYqSJ"
     },
     {
       "album": {
@@ -8036,7 +8072,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 210117,
       "name": "Pay The Price",
       "url": "https://open.spotify.com/track/5pBvfqml5qtDwgd8AeiYwH"
@@ -8524,7 +8560,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 202927,
       "name": "Rest Your Halo",
       "url": "https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ"
@@ -8964,7 +9000,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 319590,
       "name": "Sera-(The Dance of War)",
       "url": "https://open.spotify.com/track/3IoGv5RPjVw1eGfFqwQUvk"
@@ -9130,7 +9166,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 341659,
       "name": "She's a Killer",
       "url": "https://open.spotify.com/track/3HRQ6CkJzKk2pdiTy5FUQS"
@@ -9804,7 +9840,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 262622,
       "name": "Stranger No More",
       "url": "https://open.spotify.com/track/05ge9yVtSfjcdlq5t4suer"
@@ -11010,7 +11046,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -11046,7 +11082,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 177297,
       "name": "This Is Not Everything I Expected",
       "url": "https://open.spotify.com/track/0vVIh3MHwwSOTu4utJXlAq"

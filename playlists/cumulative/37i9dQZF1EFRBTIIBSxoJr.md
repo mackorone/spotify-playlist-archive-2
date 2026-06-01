@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-170 songs - 9 hr 31 min
+171 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Flaws](https://open.spotify.com/track/0SWDM8WYXyM1PkJUqRW0pn) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/7b0LDjvwIauR7OUEX8rQAo) | 2:53 | 2024-03-01 | 2025-10-11 |
 | [Flaws](https://open.spotify.com/track/11h7cjswldN3GFpd961XAw) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/4edayUkEhvvjFQF2DRmlse) | 2:53 | 2025-10-10 |  |
 | [For the One I Love](https://open.spotify.com/track/7ppWqAMqilpFlu85s2x11H) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:21 | 2024-03-01 |  |
-| [Four Letters](https://open.spotify.com/track/1SujOS52KWiUrFbhGSSv0T) | [Lawson](https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU) | [Hell Yeah](https://open.spotify.com/album/4uX8OvNcCFkOr1WRVgLKO6) | 3:18 | 2024-03-01 |  |
+| [Four Letters](https://open.spotify.com/track/1SujOS52KWiUrFbhGSSv0T) | [Lawson](https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU) | [Hell Yeah](https://open.spotify.com/album/4uX8OvNcCFkOr1WRVgLKO6) | 3:18 | 2024-03-01 | 2026-06-01 |
+| [Four Letters](https://open.spotify.com/track/7EYVIDHuV5wQtKypKLeSrI) | [Lawson](https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU) | [Hell Yeah](https://open.spotify.com/album/3cuU62OolExReMJHsckJt1) | 3:18 | 2026-05-31 |  |
 | [Freedom](https://open.spotify.com/track/1Y7PcAoFbvlTWGX75kzyf5) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 5:46 | 2024-03-01 |  |
 | [Freedom \(feat\. Jussie Smollett\)](https://open.spotify.com/track/29C4JH1nAexGkEeGq7loVw) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Freedom \(feat\. Jussie Smollett\)](https://open.spotify.com/album/769DoxR17WdWZtfpXODY6c) | 3:05 | 2025-10-14 | 2026-05-31 |
 | [Freedom \(feat\. Jussie Smollett\)](https://open.spotify.com/track/3K21eqPSN8Fb4SxEnKfEOo) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 3:05 | 2024-03-01 | 2025-10-15 |

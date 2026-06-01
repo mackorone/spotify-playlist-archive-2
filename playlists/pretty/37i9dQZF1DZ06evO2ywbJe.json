@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 8324,
+  "num_followers": 8329,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAANw5tqtEUToLnmDVKKME//",
+  "snapshot_id": "ahoogAAAAADX8JDopVillgr5QSMucVlq",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "SORRY I'M BAD",
+        "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
+      },
+      "artists": [
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        },
+        {
+          "name": "BabyDaiz",
+          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "BITCH & MONEY",
+      "url": "https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Symbol of Hope",
         "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
@@ -523,30 +547,6 @@
       "duration_ms": 204000,
       "name": "Grind - Remix",
       "url": "https://open.spotify.com/track/2irYlw9LMULXI1E8qnnpl7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SORRY I'M BAD",
-        "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
-      },
-      "artists": [
-        {
-          "name": "Himra",
-          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
-        },
-        {
-          "name": "BabyDaiz",
-          "url": "https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "BITCH & MONEY",
-      "url": "https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "BAD TILL ETERNITY (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/6vGIf9ajywvcQzIdQVGnwG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killin Dem",
         "url": "https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 220884,
       "name": "Killin Dem",
       "url": "https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "BAD TILL ETERNITY (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/6vGIf9ajywvcQzIdQVGnwG"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 156042,
+  "num_followers": 156034,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAACjPXK2cuaN6uD7vBgptomT",
+  "snapshot_id": "ahoogAAAAADwGwRpGREORmRy8X7nRZVQ",
   "tracks": [
     {
       "added_at": null,
@@ -1019,26 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/5isez0graYpGdX8l0Zyqra"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 172608,
-      "name": "ci\u00fame bobo - b\u00f4nus track",
-      "url": "https://open.spotify.com/track/5GSfUru7qGr2sr3lvaUcJN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LUME",
         "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
       },
@@ -1063,6 +1043,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/5isez0graYpGdX8l0Zyqra"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 172608,
+      "name": "ci\u00fame bobo - b\u00f4nus track",
+      "url": "https://open.spotify.com/track/5GSfUru7qGr2sr3lvaUcJN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 186240,
       "name": "EU TE AVISEI",
       "url": "https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AC\u00daSTICO DO LITTLE - PT. 1",
-        "url": "https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 155526,
-      "name": "Ac\u00fastico_DeNinguem",
-      "url": "https://open.spotify.com/track/4JCxV2QomgEtVUiZwfyPiF"
     },
     {
       "added_at": null,
@@ -1123,6 +1107,22 @@
       "duration_ms": 250588,
       "name": "Quebradas",
       "url": "https://open.spotify.com/track/3LwdDMldO8zXz5jgVTQbvR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AC\u00daSTICO DO LITTLE - PT. 1",
+        "url": "https://open.spotify.com/album/0IPmkgB1Syy4dZ9KcIPf9L"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 155526,
+      "name": "Ac\u00fastico_DeNinguem",
+      "url": "https://open.spotify.com/track/4JCxV2QomgEtVUiZwfyPiF"
     },
     {
       "added_at": null,
@@ -1287,22 +1287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00edmica",
-        "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "Qu\u00edmica",
-      "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/2lmzrJYfk5WQSQ4JawLrsb"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 225365,
       "name": "Ak de Bip\u00e9",
       "url": "https://open.spotify.com/track/4rUahua3HRlpjoRD0KB8dq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00edmica",
+        "url": "https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r"
     },
     {
       "added_at": null,

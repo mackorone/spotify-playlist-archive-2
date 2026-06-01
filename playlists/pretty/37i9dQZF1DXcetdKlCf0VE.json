@@ -1,6 +1,6 @@
 {
   "description": "Jean Sibelius: Finnish hero, notorious lobster enthusiast, and composer of truly monumental music. Discover his famous works in this essential playlist.",
-  "num_followers": 31856,
+  "num_followers": 31864,
   "original_name": "This Is Sibelius",
   "owner": {
     "name": "Spotify",
@@ -423,26 +423,6 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Sibelius Piano Works",
-        "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Janne Mertanen",
-          "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
-        }
-      ],
-      "duration_ms": 209880,
-      "name": "Ten Pieces, Op. 24: Idyll, Op. 24: No. 6",
-      "url": "https://open.spotify.com/track/2qvjgKcSEDndhfQyWRadRU"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
         "name": "Colin Davis conducts Sibelius",
         "url": "https://open.spotify.com/album/7oQGD0ewpZNngUmqP4IhH1"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 273213,
       "name": "Rakastava, Op. 14: The Lover",
       "url": "https://open.spotify.com/track/7FS2NhkWBEgLEkKm7h5vGf"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
+        "name": "Sibelius Piano Works",
+        "url": "https://open.spotify.com/album/7azglOe1PUdjuomHyXH2DO"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Janne Mertanen",
+          "url": "https://open.spotify.com/artist/2qYhukUeIDcRRtE7CsqA8V"
+        }
+      ],
+      "duration_ms": 209880,
+      "name": "Ten Pieces, Op. 24: Idyll, Op. 24: No. 6",
+      "url": "https://open.spotify.com/track/2qvjgKcSEDndhfQyWRadRU"
     },
     {
       "added_at": "2025-12-15 12:16:59",
@@ -963,30 +963,6 @@
     {
       "added_at": "2025-12-15 12:16:59",
       "album": {
-        "name": "Sibelius: Symphonies 1 - 7",
-        "url": "https://open.spotify.com/album/1AMFO2rMwxrPIYT4ZX4mlB"
-      },
-      "artists": [
-        {
-          "name": "Jean Sibelius",
-          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        }
-      ],
-      "duration_ms": 582039,
-      "name": "Symphony No. 7 in C Major, Op. 105: Adagio",
-      "url": "https://open.spotify.com/track/3EQg9cV6xd32tb3EHvMeEl"
-    },
-    {
-      "added_at": "2025-12-15 12:16:59",
-      "album": {
         "name": "Sibelius : Symphony No.5",
         "url": "https://open.spotify.com/album/5wnhMucv4vY1wcusOUjoby"
       },
@@ -1007,6 +983,30 @@
       "duration_ms": 541226,
       "name": "Sibelius: Symphony No. 5 in E-Flat Major, Op. 82: II. Andante mosso, quasi allegretto",
       "url": "https://open.spotify.com/track/05ZXmkLLbvP7Shi8TG5etU"
+    },
+    {
+      "added_at": "2025-12-15 12:16:59",
+      "album": {
+        "name": "Sibelius: Symphonies 1 - 7",
+        "url": "https://open.spotify.com/album/1AMFO2rMwxrPIYT4ZX4mlB"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        }
+      ],
+      "duration_ms": 582039,
+      "name": "Symphony No. 7 in C Major, Op. 105: Adagio",
+      "url": "https://open.spotify.com/track/3EQg9cV6xd32tb3EHvMeEl"
     },
     {
       "added_at": "2025-12-15 12:16:59",

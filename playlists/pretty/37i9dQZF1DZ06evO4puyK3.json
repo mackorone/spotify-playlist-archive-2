@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 166686,
+  "num_followers": 166694,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAACQUeazAw9I6NUDxFmVlYyT",
+  "snapshot_id": "ahoogAAAAAD0rga7zL6Fd8b3eLUfl+ol",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 166013,
+      "name": "AMEIANOITE",
+      "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Serenata da GG, Vol. 2 - Ao Vivo",
         "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 182182,
       "name": "At\u00e9 J\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/0ss1tjwc69FuQU7RKaUJ3B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 166013,
-      "name": "AMEIANOITE",
-      "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "MC Tchelinho",
+          "url": "https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv"
+        }
+      ],
+      "duration_ms": 145056,
+      "name": "FOGO NO BARRACO",
+      "url": "https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Zod\u00edaco",
         "url": "https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR"
       },
@@ -819,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "MC Tchelinho",
-          "url": "https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv"
-        }
-      ],
-      "duration_ms": 145056,
-      "name": "FOGO NO BARRACO",
-      "url": "https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beijo De Judas",
         "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
       },
@@ -855,6 +855,42 @@
       "duration_ms": 187311,
       "name": "Rol\u00ea",
       "url": "https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "085 RMX",
+        "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
+      },
+      "artists": [
+        {
+          "name": "Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 163102,
+      "name": "085 RMX",
+      "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LADY LESTE",
+        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 176709,
+      "name": "LSD",
+      "url": "https://open.spotify.com/track/3t7CeMsyZJ8Jnt4MwJRDgX"
     },
     {
       "added_at": null,
@@ -895,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LADY LESTE",
-        "url": "https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 176709,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/3t7CeMsyZJ8Jnt4MwJRDgX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Provocar",
         "url": "https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 168138,
       "name": "Provocar",
       "url": "https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "085 RMX",
-        "url": "https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK"
-      },
-      "artists": [
-        {
-          "name": "Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 163102,
-      "name": "085 RMX",
-      "url": "https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn"
     },
     {
       "added_at": null,

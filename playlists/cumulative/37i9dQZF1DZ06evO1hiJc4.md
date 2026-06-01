@@ -4,7 +4,7 @@
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-105 songs - 5 hr 3 min
+106 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Accepted By The Crew](https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Alex Baranowski](https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 1:42 | 2024-04-21 | 2026-05-20 |
 | [All For Us](https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 3:11 | 2023-12-18 |  |
 | [Angel in Your Eyes \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/6k71NlTnn41Vk7RJX7CSbY) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:06 | 2025-03-13 |  |
+| [ANOINTED REPROBATE](https://open.spotify.com/track/1u4U3udzv9qSSHQl1Qeidf) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT II](https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD) | 3:47 | 2026-06-01 |  |
 | [Audio \(feat\. Sia, Diplo, and Labrinth\)](https://open.spotify.com/track/100eDEmpWV5YGVCqHI0leU) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [LSD](https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ) | [LABRINTH, SIA & DIPLO PRESENT..\. LSD](https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf) | 3:24 | 2023-12-18 |  |
 | [Ave Maria](https://open.spotify.com/track/3vzqs9tJQx7JoTC2bX7uae) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ave Maria](https://open.spotify.com/album/7sR2iW8aYLKgE0R2fLgXOA) | 3:14 | 2023-12-24 | 2025-01-10 |
 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:31 | 2023-12-18 |  |
@@ -46,7 +47,7 @@
 | [IMPLOSION](https://open.spotify.com/track/5v69y5vJhDy8YJ2blZoO1Y) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 3:20 | 2026-02-06 | 2026-05-08 |
 | [Incredible \(AWEN Remix\)](https://open.spotify.com/track/2AY4ZQ8Uzz0nbwJr0dLUsU) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl) | [Reasonable Remixes 1](https://open.spotify.com/album/67wMwSJ4tkhJtb8qAetnTO) | 5:43 | 2024-11-03 | 2024-12-04 |
 | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV) | 3:33 | 2024-04-07 | 2026-05-08 |
-| [into the black hole](https://open.spotify.com/track/1Lpak2MRcnhcgMEpXUaanK) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 1:59 | 2026-02-01 |  |
+| [into the black hole](https://open.spotify.com/track/1Lpak2MRcnhcgMEpXUaanK) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 1:59 | 2026-02-01 | 2026-06-01 |
 | [Iridium](https://open.spotify.com/track/5amRolITZmPuqDQOqJ4aWr) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Iridium](https://open.spotify.com/album/573lYeLYHCPSKBOa0RyDbE) | 2:46 | 2023-12-18 | 2025-09-16 |
 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2023-12-18 |  |
 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 | 2023-12-18 |  |

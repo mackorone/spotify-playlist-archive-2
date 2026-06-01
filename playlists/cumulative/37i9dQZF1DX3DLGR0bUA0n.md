@@ -4,7 +4,7 @@
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Arkangel Musical de Tierra Caliente en portada.
 
-202 songs - 11 hr 46 min
+203 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Jefe Fresa](https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Estoy Aquí](https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ) | 3:13 | 2023-10-12 |  |
 | [La Araña](https://open.spotify.com/track/2xYmyXiRZC5kw3p34ZZN05) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Porque Te Quiero Amor](https://open.spotify.com/album/0Mys0SoE9tjsqoI4viRcw5) | 3:06 | 2023-10-12 |  |
 | [La Boca Es Para Comer](https://open.spotify.com/track/3mVT1MmEoJdLadOmCnX6hn) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [Al 100 y Pasadito](https://open.spotify.com/album/5Yt4zVJRzpF1p48uCA930b) | 2:37 | 2023-10-12 |  |
-| [La Carga Fina](https://open.spotify.com/track/7I3Qg5hfOsJW3uWc1rH4Gj) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [La Carga Fina](https://open.spotify.com/album/3KYQUyhtZSvij2abXFYch5) | 2:49 | 2025-12-05 |  |
+| [La Carga Fina](https://open.spotify.com/track/7I3Qg5hfOsJW3uWc1rH4Gj) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [La Carga Fina](https://open.spotify.com/album/3KYQUyhtZSvij2abXFYch5) | 2:49 | 2025-12-05 | 2026-06-01 |
 | [La Grapa](https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH) | [Severo Benito y Su Banda Cachas de Oro](https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS) | [Para Toda La Vida](https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC) | 2:50 | 2023-10-12 |  |
 | [La luz de tus ojos](https://open.spotify.com/track/1Qpg5hC3FbO66SOzhEiLr2) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Ni cariño ni rencor](https://open.spotify.com/album/0Bc7IgJAQv1lJ8gcpx1Ddm) | 4:09 | 2024-02-23 |  |
 | [La luz de tus ojos](https://open.spotify.com/track/5wGCEeAGVRB1y3FxEblw9l) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Ni cariño ni rencor](https://open.spotify.com/album/5VtPBxEBsseCHSLDt4Hw73) | 4:09 | 2023-10-12 | 2024-04-19 |
@@ -138,6 +138,7 @@
 | [Mis Errores Pagando](https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Guerra De Corridos](https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG) | 2:32 | 2023-10-12 |  |
 | [Mix de Sones \#2](https://open.spotify.com/track/69T73pmI6Ikpne4NHp4Px6) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k) | [Siempre Contigo](https://open.spotify.com/album/4txMTXItugpA7vz6sGK8SV) | 6:16 | 2026-03-27 |  |
 | [Mix Romántico \(En Vivo\)](https://open.spotify.com/track/0BXbG3KZCoGb04giUU3Ijg) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Mix Romántico \(En Vivo\)](https://open.spotify.com/album/3ARnKyRkEEbHZ5nldlf6Te) | 7:53 | 2024-08-23 | 2024-10-05 |
+| [Monedas y Billetes](https://open.spotify.com/track/37VFOxHDkI1eozrMrA8D5P) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Monedas y Billetes](https://open.spotify.com/album/0MtYJPPHndmMkuU97lWacw) | 4:31 | 2026-03-27 |  |
 | [Morenita Labios Rojos](https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Morenita Labios Rojos](https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR) | 2:08 | 2023-10-12 |  |
 | [Mujer, Mujer](https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:21 | 2023-10-12 |  |
 | [Muñequita Consentida](https://open.spotify.com/track/5iMgOdul9oZBYiVQGbs6mw) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [La Última Vuelta](https://open.spotify.com/album/0uKK9zywGx5BTFBFkKQmfj) | 2:50 | 2023-10-12 | 2024-02-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 
 > This is BAYLI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257 likes - 36 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 256 likes - 36 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 | 12 | [boys lie](https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [boys lie](https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO) | 2:25 |
 | 13 | [hi fem](https://open.spotify.com/track/2I8KlAdvU5ZN8VkpwbZm5e) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:31 |
 | 14 | [Float \(feat\. BAYLI\)](https://open.spotify.com/track/20fWv7580PvwdmWnVqHPDc) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Sparrow \(CH\)](https://open.spotify.com/artist/6tft5GigqFdQwILafx4hyO), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Float \(feat\. BAYLI\)](https://open.spotify.com/album/7oGQVPQR0LNdBcGpFaDag5) | 2:54 |
-| 15 | [Find A Way](https://open.spotify.com/track/79VbNdFIOMuQQMWKhTg0Zr) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ), [Radio Ahlee](https://open.spotify.com/artist/4noIdorsdqtCKOxr9T2V1W), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [SuperGood](https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H) | 3:51 |
-| 16 | [SICK!](https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [SICK!](https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7) | 2:06 |
+| 15 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 |
+| 16 | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/track/4fORekngPoCqeJpe3xg6GQ) | [BABYNYMPH](https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr) | 6:27 |
 | 17 | [Lucky Number One](https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:26 |
-| 18 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 |
-| 19 | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/track/4fORekngPoCqeJpe3xg6GQ) | [BABYNYMPH](https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr) | 6:27 |
+| 18 | [Find A Way](https://open.spotify.com/track/79VbNdFIOMuQQMWKhTg0Zr) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ), [Radio Ahlee](https://open.spotify.com/artist/4noIdorsdqtCKOxr9T2V1W), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [SuperGood](https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H) | 3:51 |
+| 19 | [SICK!](https://open.spotify.com/track/1IpP0gGsWlkag2S4U0vooG) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [SICK!](https://open.spotify.com/album/1uQyVaCOSTSbLHLzYHr4b7) | 2:06 |
 | 20 | [act up](https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [act up](https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3) | 2:08 |
 | 21 | [Gospel](https://open.spotify.com/track/7JWK1ujyuUTJnPauiLYpzK) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:14 |
 | 22 | [Ethical Plum](https://open.spotify.com/track/6hsGhh9tQ5g3QteBK1n72Y) | [Chaos Chaos](https://open.spotify.com/artist/6D6rjLdxyE5vwhMlkuQq0E), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Ethical Plum](https://open.spotify.com/album/1mue0bRSOvTGisXjsFGNAz) | 2:46 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f3RuP.md) - [plain]
 | 35 | [Kissing Practise](https://open.spotify.com/track/0Fmj0CquXZqPHMpb8D8Ro7) | [Kai Whiston](https://open.spotify.com/artist/0hktkVFcCRG9z2NTXE6jhl), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [Quiet As Kept, F.O.G\. \(Extended Cut\)](https://open.spotify.com/album/5o0OzTCm1JqNniLfxlwVSL) | 4:22 |
 | 36 | [Mind Games](https://open.spotify.com/track/62sJa0KNYdItPUkxyeRYzC) | [DAGR](https://open.spotify.com/artist/6jDxyPx376PtDCCWzo7OJi), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve), [Hanabii](https://open.spotify.com/artist/50Zy4KYB0xQC80GNSJXN8m) | [Fade on Back](https://open.spotify.com/album/6QJiBMaU34dNLmiT9Qq7xH) | 3:05 |
 
-Snapshot ID: `ahjXAAAAAADeN4S2c2BQIEmYFxhNmh54`
+Snapshot ID: `ahoogAAAAAAD2LGSFYLdA/1GB3sbafNh`

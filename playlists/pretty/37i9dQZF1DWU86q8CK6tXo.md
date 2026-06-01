@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Quiet Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,103 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,105 likes - 54 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 28 | [i loved you then](https://open.spotify.com/track/6VT52WzaQT5oeZpFWv2q1H) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [i loved you then](https://open.spotify.com/album/7nocSTYeEUYkOXtHu5EIcf) | 3:42 |
 | 29 | [Oops](https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:26 |
 | 30 | [Femme Hysteria](https://open.spotify.com/track/2g8y30PtQ3jO7fR4wKQaOU) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 2:53 |
-| 31 | [NOISE](https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [NOISE](https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj) | 2:42 |
-| 32 | [listening](https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Just Us](https://open.spotify.com/album/08oXopCW2RCdYqNdHiTrit) | 3:53 |
+| 31 | [listening](https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Just Us](https://open.spotify.com/album/08oXopCW2RCdYqNdHiTrit) | 3:53 |
+| 32 | [NOISE](https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [NOISE](https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj) | 2:42 |
 | 33 | [Tattoos](https://open.spotify.com/track/4kgygJE5PCRORk4iBYChSY) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Tattoos](https://open.spotify.com/album/0ooC997k9ey9EMOIBCfLyt) | 3:18 |
 | 34 | [MALIBU](https://open.spotify.com/track/4fPXanSrPMbboicrHPzV0M) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:34 |
 | 35 | [Delicately](https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Delicately](https://open.spotify.com/album/4kIpWgP7FfaTQEjMKlavQD) | 3:20 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 40 | [Baggy Jeans](https://open.spotify.com/track/3kkwjDRPPYIZ54FF0ceeco) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Reverie](https://open.spotify.com/album/5newvs2aGEj6sYvNIECgiZ) | 2:51 |
 | 41 | [\(ENAMORADA\)](https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk) | [nic](https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph) | [\(enamorada\)](https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7) | 4:01 |
 | 42 | [You Remain](https://open.spotify.com/track/3266gTer0klnum066VVwlB) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [You Remain](https://open.spotify.com/album/16zT4Ip6VV3DeWDzPfYjsb) | 2:57 |
-| 43 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
-| 44 | [6ft Under](https://open.spotify.com/track/23u8tBDy1IBq0VajnoDQzx) | [KELS](https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU) | [6ft Under](https://open.spotify.com/album/5LaPPtttpfc4UHqKWQUJkX) | 3:30 |
+| 43 | [6ft Under](https://open.spotify.com/track/23u8tBDy1IBq0VajnoDQzx) | [KELS](https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU) | [6ft Under](https://open.spotify.com/album/5LaPPtttpfc4UHqKWQUJkX) | 3:30 |
+| 44 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
 | 45 | [just friends](https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW) | [camille blackman](https://open.spotify.com/artist/5jswcyyCL6uoFlF9TaEtHc) | [just friends](https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8) | 3:28 |
 | 46 | [Don't Stop](https://open.spotify.com/track/2JgqwzlOSIxq5WmXKJdnVp) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Don't Stop](https://open.spotify.com/album/0194cIBrgVyNYXLk0csjjF) | 2:55 |
 | 47 | [Drunk Cigs](https://open.spotify.com/track/6cwCpbUf4SNAl4GxnQnJfL) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Drunk Cigs](https://open.spotify.com/album/1SBpNaoGLqkAPhN88qIXCP) | 3:41 |

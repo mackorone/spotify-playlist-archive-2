@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,747 songs - 4 day 9 hr 38 min
+1,748 songs - 4 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Fly High](https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb) | 3:03 | 2024-06-12 | 2025-01-22 |
 | [Focus](https://open.spotify.com/track/5y170aRBflCoZagqVYdUiq) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Focus](https://open.spotify.com/album/57jgzL9QOFsdEPVKPkYbhh) | 4:17 | 2024-12-10 | 2025-02-13 |
 | [FOG](https://open.spotify.com/track/3rpdmGoD12xblXFiTyKyFF) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [FOG](https://open.spotify.com/album/5Fi9k1K3IBJV3W7x6FDDTi) | 3:22 | 2022-05-26 | 2022-06-01 |
+| [Follow Me](https://open.spotify.com/track/4CZdaN3oZZrWaYao4kU9cx) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Follow Me](https://open.spotify.com/album/334wq5LsvTbKOIauntarEf) | 3:47 | 2026-05-30 |  |
 | [FOREVER](https://open.spotify.com/track/217wGZ7qxq9Id0JjlZhw2V) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [FOREVER](https://open.spotify.com/album/6VARq97kNwGMDwNOJdAfHv) | 3:51 | 2022-05-26 | 2022-06-15 |
 | [FORGIVE ME](https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [FORGIVE ME](https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4) | 2:23 | 2024-05-01 | 2025-03-19 |
 | [Free Yourself feat\. ATARASHII GAKKO!](https://open.spotify.com/track/1oholojJEuNCauGl8jcf3J) | [BIGYUKI](https://open.spotify.com/artist/5bQhICu3eC2RFDr4OPRQHq), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Yourself feat\. ATARASHII GAKKO!](https://open.spotify.com/album/0C7iWuQIhgo3PmxpjQXNbr) | 3:33 | 2025-04-13 | 2025-04-24 |
@@ -1751,7 +1752,7 @@
 | [頬にひと口](https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [頬にひと口](https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj) | 3:29 | 2023-04-25 | 2023-08-11 |
 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 | 2023-04-06 | 2024-10-09 |
 | [風来](https://open.spotify.com/track/0NCp3Af9c2ufCah4LinfJT) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [風来](https://open.spotify.com/album/3JrxuhOs9bd9Tbcs6P7j7D) | 4:25 | 2023-02-21 | 2023-02-23 |
-| [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-12 |  |
+| [食卓](https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [食卓](https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE) | 3:26 | 2023-10-12 | 2026-06-01 |
 | [骨まで愛して](https://open.spotify.com/track/76eXC94QzPqx9XcxQSxcAZ) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [骨まで愛して](https://open.spotify.com/album/1zGhKpqriVQSXKLl4ItJI0) | 3:26 | 2023-01-20 | 2023-04-05 |
 | [魚 \_ 魚](https://open.spotify.com/track/0iReJwnfIhYXmdGKN1OgB2) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [魚 \_ 魚](https://open.spotify.com/album/4X1929ex2VAoBiJ0M5eYkk) | 4:54 | 2023-10-03 | 2023-11-22 |
 | [麻痺](https://open.spotify.com/track/43pMPzvf5ERpK3trw9k0C7) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [麻痺](https://open.spotify.com/album/468ihgnfToRbmvaj6BHFWJ) | 5:24 | 2026-01-21 | 2026-05-10 |

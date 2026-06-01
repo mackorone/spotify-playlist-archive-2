@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,265 songs - 3 day 5 hr 54 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,268 songs - 3 day 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1273,5 +1273,8 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1263 | [Musician](https://open.spotify.com/track/7k6jxIMMAcXjHnbbHmGC9H) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/3QITXlmmt93E176jzVqKUb) | 3:58 |
 | 1264 | [Mad at Me](https://open.spotify.com/track/5avJdJjXtHN9ADFeSn1pDq) | [forgive yourself](https://open.spotify.com/artist/4R0PDznz6UhsZTqglLC8Yq) | [Songs I'll Never Release](https://open.spotify.com/album/6a1cLgO7MZ6nFJcRfh5kjE) | 2:43 |
 | 1265 | [Dark Magic](https://open.spotify.com/track/60hga4vu4erXRxcxEGDLMQ) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Dark Magic](https://open.spotify.com/album/1iBUPWKDIoHqRhNxmnNQps) | 2:55 |
+| 1266 | [80's Films](https://open.spotify.com/track/6ZSwwQsW9HTH0EJaQfjRYl) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 3:36 |
+| 1267 | [He Is The Same](https://open.spotify.com/track/6Kr2WqO9jWYU64D24yqapu) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 4:01 |
+| 1268 | [Hand Of God \- Outro](https://open.spotify.com/track/6JGCC9qfdZbCSPhOI29ypv) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Human Condition](https://open.spotify.com/album/2e8nzTZ0HtK94IifOWgN7o) | 5:37 |
 
-Snapshot ID: `AAAJ8HEuO8XdYHUrWLRtWkU4eRI/7CQh`
+Snapshot ID: `AAAJ82QtumM6kP90Qem+ccxuTBtrEGzk`

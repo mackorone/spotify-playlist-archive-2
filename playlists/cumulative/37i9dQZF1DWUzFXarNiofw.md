@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Syd
 
-5,614 songs - 12 day 4 hr 53 min
+5,615 songs - 12 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3767,6 +3767,7 @@
 | [Pluto](https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Pluto](https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen) | 3:33 | 2024-05-10 | 2024-06-22 |
 | [Pluto Baby](https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [Pluto Baby](https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9) | 2:57 | 2026-03-06 | 2026-04-25 |
 | [Poed Up](https://open.spotify.com/track/4RvJeTlBaWDSEOqVSBIk1f) | [Zay Johnny](https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Poed Up](https://open.spotify.com/album/0KqGvl9LbFqKEZgxqy4azU) | 3:19 | 2023-03-10 | 2023-05-20 |
+| [point blank](https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [point blank](https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr) | 4:26 | 2026-05-29 |  |
 | [Poison](https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Poison \(feat\. The Weeknd\)](https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO) | 2:42 | 2021-12-17 | 2022-02-05 |
 | [Poison](https://open.spotify.com/track/2UIzYHSDE0W0hkQNmjzmLp) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Poison](https://open.spotify.com/album/7gm1ZfdxeWVYzcKcfI6f37) | 2:37 | 2025-05-09 | 2025-07-12 |
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-18 | 2023-09-30 |

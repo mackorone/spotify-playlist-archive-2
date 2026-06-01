@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/druski/?hl=en">Druski</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,473 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,480 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32D1cAHhVuW.md) - [plain]
 | 36 | [Walk \(feat\. Lil Baby & 42 Dugg\)](https://open.spotify.com/track/1qDLTUxg7xyylgtyNleurw) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [G.I.H.F.](https://open.spotify.com/album/5Oj9ZSzPQOfyTUJDKytirZ) | 4:36 |
 | 37 | [2 Chains](https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [25](https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz) | 4:04 |
 | 38 | [Don’t Leave Me](https://open.spotify.com/track/2PaP6wC4cqEgYLKBDeJWdN) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:36 |
-| 39 | [Outside](https://open.spotify.com/track/5PtmUKEIJPOw0Few8yUXVe) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Outside](https://open.spotify.com/album/3z9LLbRZaaUAPdlyQvm2xQ) | 1:27 |
-| 40 | [Who Want Smoke?](https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who Want Smoke?](https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc) | 2:32 |
+| 39 | [Who Want Smoke?](https://open.spotify.com/track/5PJbsnPWGcZWsNHdRpW3Wq) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who Want Smoke?](https://open.spotify.com/album/6e4K6xYheopkx9xug6jjgc) | 2:32 |
+| 40 | [Outside](https://open.spotify.com/track/5PtmUKEIJPOw0Few8yUXVe) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Outside](https://open.spotify.com/album/3z9LLbRZaaUAPdlyQvm2xQ) | 1:27 |
 | 41 | [Mob Ties Remix \(feat\. Unfoonk, 24Heavy, Future & YTB Trench\)](https://open.spotify.com/track/2PfqoDotCBeNygVVdTU3rN) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Unfoonk](https://open.spotify.com/artist/2f6hqWBFjqS1EUHMS1JOFB), [24Heavy](https://open.spotify.com/artist/23mJPosA4Qmp8kc6IlWalb), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [YTB Trench](https://open.spotify.com/artist/5PHYg0IcnpyZJ1y9euAx4i) | [Slime Language 2 \(Deluxe\)](https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre) | 3:23 |
 | 42 | [Baby Boy](https://open.spotify.com/track/0qeNJtldeoVelVsOUahnbw) | [Slimelife Shawty](https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf) | [Better Living](https://open.spotify.com/album/58FGVPSHqBFWgAhKMIhrxH) | 3:28 |
 | 43 | [Dirty K](https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Boy Kodak](https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu) | 2:49 |

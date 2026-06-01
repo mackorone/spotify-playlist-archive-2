@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Mosaic MSC
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,021 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,029 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 55 | [Subscribed \- Live](https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Subscribed \(Live\)](https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE) | 3:18 |
 | 56 | [Dzina Lau \(Yahweh\) \- Radio Edit](https://open.spotify.com/track/1CIyIAQVhpwwCHdfojpa8d) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Brenton Brown](https://open.spotify.com/artist/3oZR0tAkfIn1YmLe1faQST) | [Dzina Lau \(Yahweh\) Radio Edit](https://open.spotify.com/album/07V42SduMxfZ90tbeWOi0j) | 5:27 |
 | 57 | [I See The Lord \- Live](https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [I See The Lord \(Live\)](https://open.spotify.com/album/3EbJqKDeDsAX4wv1RZ5Za3) | 10:10 |
-| 58 | [TAKE ME](https://open.spotify.com/track/2hDkIZjbuwor5pYA9zpS4n) | [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [Obed](https://open.spotify.com/artist/4KQ6s83KHVf777C58K0ixS) | [TAKE ME](https://open.spotify.com/album/4fm8Y72ze4kvFLEDg3snGp) | 2:42 |
+| 58 | [TAKE ME](https://open.spotify.com/track/2hDkIZjbuwor5pYA9zpS4n) | [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [OBED](https://open.spotify.com/artist/6dlnnsHCMKCV3v1aMOFvuE) | [TAKE ME](https://open.spotify.com/album/4fm8Y72ze4kvFLEDg3snGp) | 2:42 |
 | 59 | [Holy Spirit](https://open.spotify.com/track/6qMEFM7wncWmD6LvxXdZnQ) | [KHAEL](https://open.spotify.com/artist/7f1NLCuBpkGnSbwEVClaGW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Holy Spirit](https://open.spotify.com/album/3o3pHXAbeUh0uTG2cZ9vJ2) | 2:39 |
 | 60 | [Joy Is Coming](https://open.spotify.com/track/4t9D6MbFQQ6SWhsrsAJpfb) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Joy Is Coming](https://open.spotify.com/album/7luJgr2jPaTffmI16Nsfgk) | 2:34 |
 | 61 | [FINISHED BUSINESS](https://open.spotify.com/track/2BIkreWEKSKoSRryuj8gRA) | [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3), [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [FINISHED BUSINESS](https://open.spotify.com/album/5um1GLq27Td4GU5NXBcAxq) | 3:27 |

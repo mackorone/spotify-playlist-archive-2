@@ -2830,7 +2830,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 187000,
       "name": "Camouflage",
       "url": "https://open.spotify.com/track/4bqn9QgIrsgRy6HjcYhxak"
@@ -6202,7 +6202,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 148082,
       "name": "FRI(END)S",
       "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
@@ -6680,7 +6680,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -9751,6 +9751,24 @@
     },
     {
       "album": {
+        "name": "LEMONADE - The 2nd Album (NINGNING Special Version)",
+        "url": "https://open.spotify.com/album/437o5FFGCf3CszTjO3wVAi"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV"
+    },
+    {
+      "album": {
         "name": "LEMONADE - The 2nd Album",
         "url": "https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm"
       },
@@ -9762,7 +9780,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 187000,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O"
@@ -14176,7 +14194,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -14618,7 +14636,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 162000,
       "name": "SHAKIN'",
       "url": "https://open.spotify.com/track/4hWEH4DPWe6rot4JHJUMr4"
@@ -18335,6 +18353,28 @@
     },
     {
       "album": {
+        "name": "LEMONADE - The 2nd Album (NINGNING Special Version)",
+        "url": "https://open.spotify.com/album/437o5FFGCf3CszTjO3wVAi"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2026-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/3sVtFtx8Xis8EZrwHHLGlF"
+    },
+    {
+      "album": {
         "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
         "url": "https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL"
       },
@@ -18372,7 +18412,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 174000,
       "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
       "url": "https://open.spotify.com/track/5U91cIDMrNEdsDBavYuQQh"
@@ -21430,7 +21470,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 261571,
       "name": "\u5230\u6b64\u70ba\u6b62",
       "url": "https://open.spotify.com/track/0hKkGlDhaef5OPrXfc8Idx"
@@ -22392,7 +22432,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 210973,
       "name": "\u5927\u4ea8",
       "url": "https://open.spotify.com/track/1Cb6F1Iu6I7dQgpG4hWT53"
@@ -22836,7 +22876,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 147764,
       "name": "\u5c0f\u6642\u5019",
       "url": "https://open.spotify.com/track/3SeYidVmVUr3TV2veqeIZ0"
@@ -23272,7 +23312,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 179022,
       "name": "\u611b\u4f60\u4f46\u8aaa\u4e0d\u51fa\u53e3",
       "url": "https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh"
@@ -23442,7 +23482,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 269118,
       "name": "\u61f7\u7591\u4eba\u751f",
       "url": "https://open.spotify.com/track/64DtUTH1ZtBURnXIDzBzx1"
@@ -24658,7 +24698,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "\u6708\u4eae\u4ee3\u8868\u6211",
       "url": "https://open.spotify.com/track/1cZfNeEFNZAfOkqYZQkJHr"
@@ -25448,7 +25488,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 227542,
       "name": "\u6d41\u6d6a\u661f\u7403",
       "url": "https://open.spotify.com/track/7rJDyMalhenvCV4uwxL1fl"
@@ -26282,7 +26322,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 207787,
       "name": "\u756b\u51fa\u5f69\u8679",
       "url": "https://open.spotify.com/track/63FpyJ6bmzCtHNdKxvFSIK"

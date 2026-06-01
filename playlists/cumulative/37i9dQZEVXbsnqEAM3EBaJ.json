@@ -18145,6 +18145,24 @@
     },
     {
       "album": {
+        "name": "Zodeon at Crystal Hall",
+        "url": "https://open.spotify.com/album/17llPIMPUtlH5azIRiPDhd"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140911,
+      "name": "Excelsior",
+      "url": "https://open.spotify.com/track/0OJWg7xO1rFQ0dR7d6Er7p"
+    },
+    {
+      "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
       },
@@ -20516,6 +20534,24 @@
       "duration_ms": 242880,
       "name": "Funeral Pyre",
       "url": "https://open.spotify.com/track/2OCHovRkWSvlxl8fhuL0U4"
+    },
+    {
+      "album": {
+        "name": "Future Breed Machine (Remastered 2026)",
+        "url": "https://open.spotify.com/album/1xkkoe0JDhcV3jAeDJtTIo"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348533,
+      "name": "Future Breed Machine - Remastered 2026",
+      "url": "https://open.spotify.com/track/2LalwijfqunfEmhKWMSHW9"
     },
     {
       "album": {
@@ -26372,6 +26408,24 @@
       "duration_ms": 235386,
       "name": "I'm Alice",
       "url": "https://open.spotify.com/track/6moRtThbNDALIv8qaS1263"
+    },
+    {
+      "album": {
+        "name": "Sinatra The Musical: His Way - The Originals",
+        "url": "https://open.spotify.com/album/5YEThML8feFJpk0c4KDgW7"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114760,
+      "name": "I'm Gonna Live Till I Die",
+      "url": "https://open.spotify.com/track/2fhMMMA2Ea9MjGYW2sOue3"
     },
     {
       "album": {
@@ -34243,6 +34297,24 @@
     },
     {
       "album": {
+        "name": "Luminous (from \"One Piece Elbaph Arc\") [Spanish Version]",
+        "url": "https://open.spotify.com/album/3czyRvHkWXQkZl9scpeG4T"
+      },
+      "artists": [
+        {
+          "name": "Iris ~Pamela Calvo~",
+          "url": "https://open.spotify.com/artist/6qWXcGYNEAmUxFWLA5uFwM"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232737,
+      "name": "Luminous (from \"One Piece Elbaph Arc\") - Spanish Version",
+      "url": "https://open.spotify.com/track/53AG3cqXxphjU0NT3Uhlx9"
+    },
+    {
+      "album": {
         "name": "Orbital 2 (The Brown Album Expanded)",
         "url": "https://open.spotify.com/album/6cni6TMOVlY9jAbEGAjOif"
       },
@@ -34462,7 +34534,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 202392,
       "name": "Magdalena",
       "url": "https://open.spotify.com/track/2Z6T171uzbiX0UHtHgWifP"
@@ -41754,7 +41826,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 298517,
       "name": "Pecados para Dos (Mariano Mellino Remix)",
       "url": "https://open.spotify.com/track/1MvisgSyStQEKW6PIu6k2b"
@@ -48488,7 +48560,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 214386,
       "name": "Shed",
       "url": "https://open.spotify.com/track/25Ko4HidXVJ7UDiLIGygof"
@@ -48976,7 +49048,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 397801,
       "name": "Sin Disfraz (Mariano Mellino Remix)",
       "url": "https://open.spotify.com/track/3oKziXaTWnggt8QoxLmKYQ"
@@ -57582,7 +57654,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 204906,
       "name": "Theme From New York, New York - 2008 Remastered",
       "url": "https://open.spotify.com/track/35rcZ5V1lwIXUTFAZAuBpE"
@@ -58426,7 +58498,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-01",
       "duration_ms": 251408,
       "name": "Tobu Toki (from \"Yomi no Tsugai\") - Spanish Version",
       "url": "https://open.spotify.com/track/6LdAjHddIrVFgc9TWZErmn"

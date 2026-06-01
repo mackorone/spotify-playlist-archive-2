@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,332 likes - 31 songs - 1 hr 52 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,337 likes - 34 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,5 +39,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 29 | [idea 1](https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [idea 1](https://open.spotify.com/album/0d0V3ranIJdJ0RjSo4Q7Qm) | 3:25 |
 | 30 | [linknb](https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [linknb](https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc) | 1:55 |
 | 31 | [Selene](https://open.spotify.com/track/09RFU0eg1GiM01yv0RqXa4) | [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR) | [Soliloquy](https://open.spotify.com/album/1xetZMHqk2AOXrxtW5rD9j) | 4:52 |
+| 32 | [Apple to the Orange](https://open.spotify.com/track/3rX1lDnL0lcdNX3LwRzDfp) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Love Is Overtaking Me \(Redux\)](https://open.spotify.com/album/72Hh7NaXG3r7E5sHhAnLCN) | 5:31 |
+| 33 | [Under my bed](https://open.spotify.com/track/52Sd0lu6TTVMDhwQqjZcD6) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [\*FLUTTERS AWAY\*](https://open.spotify.com/album/5grjXewIYwJzeegUrLSsyx) | 2:52 |
+| 34 | [Dozen Roses](https://open.spotify.com/track/1QM2VOPPfzGJJJ2Hgqo90m) | [Thomas Dollbaum](https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ) | [Birds of Paradise](https://open.spotify.com/album/7Lib6qYBmpQCGyh1W8L4S3) | 5:24 |
 
-Snapshot ID: `AAAObXaQopueYWtPdxmVkuS2GxwtiOQi`
+Snapshot ID: `AAAOcCaU23rE0Wb6srBH6XVxk23hIvAw`

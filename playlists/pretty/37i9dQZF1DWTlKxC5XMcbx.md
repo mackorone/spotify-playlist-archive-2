@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,804 likes - 75 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,802 likes - 75 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,10 +42,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 32 | [When Your Lover Has Gone](https://open.spotify.com/track/7m4OEcDjdVPVKRhXmnQko5) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ) | 3:56 |
 | 33 | [Over The Rainbow](https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Everything I Play Is Funky](https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E) | 7:11 |
 | 34 | [The Great Ennui](https://open.spotify.com/track/0Inho965rlE38Rip2e9nJ6) | [Tadd Norman](https://open.spotify.com/artist/51qxeic1xO4PPLgxnKPjzo) | [The Great Ennui](https://open.spotify.com/album/0rSMhyt4OaK93GhfJGDN0U) | 3:21 |
-| 35 | [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 |
-| 36 | [A Flower Is a Lovesome Thing](https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Straight Road](https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg) | 4:45 |
-| 37 | [Blue Ballad](https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Phil's Mood](https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43) | 6:34 |
-| 38 | [Lullaby Of The Leaves \- 1998 Digital Remaster](https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [The Original Quartet With Chet Baker](https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA) | 3:15 |
+| 35 | [A Flower Is a Lovesome Thing](https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Straight Road](https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg) | 4:45 |
+| 36 | [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 |
+| 37 | [Lullaby Of The Leaves \- 1998 Digital Remaster](https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [The Original Quartet With Chet Baker](https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA) | 3:15 |
+| 38 | [Blue Ballad](https://open.spotify.com/track/6f6OQJv9qjqyJq9NHin45n) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Phil's Mood](https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43) | 6:34 |
 | 39 | [My Sweetest You](https://open.spotify.com/track/1DvX7QmvoZMr2i2rIy6vPy) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [My Sweetest You](https://open.spotify.com/album/1BxZWb9WVLtpAjSLX25sRq) | 3:07 |
 | 40 | [When It's Sleepy Time Down South](https://open.spotify.com/track/6AyUZf6QlPpOJLETzK9wkr) | [Howard Alden](https://open.spotify.com/artist/7sgBK9xjqtnAFTfm2SvWMR), [Helmut Nieberle](https://open.spotify.com/artist/7xDNjmM5Q34OUfblDBD1EO) | [Timelines](https://open.spotify.com/album/7rjsl9oej89UpkhFciGwFY) | 3:20 |
 | 41 | [Sleep Away](https://open.spotify.com/track/5YHPH0wpc5IMqNNrbN3JMm) | [Bob Acri](https://open.spotify.com/artist/5LgnVUVYlM9jqiyYMgNMMB) | [Bob Acri](https://open.spotify.com/album/1HghYCAJpIIZrqad27tp1s) | 3:21 |

@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-333 songs - 19 hr 33 min
+334 songs - 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Smile](https://open.spotify.com/track/1m5JuDvItgNagV7S2vsVTX) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [Smile](https://open.spotify.com/album/2ke64bHM7wNi6QVGgQOVAa) | 2:13 | 2025-07-25 | 2026-04-23 |
 | [So Fly](https://open.spotify.com/track/4zt7iHmZ9CuRLJ7uWhv7SD) | [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Satl](https://open.spotify.com/artist/6OwnHoDYszPivlUgbApZbR), [Verbz](https://open.spotify.com/artist/2GLeuQsqfwk8iIkqyp1c3w) | [So Fly](https://open.spotify.com/album/0bAR4Eq0isrSRqbiBTayf3) | 3:42 | 2024-05-09 | 2024-05-12 |
 | [soulboy \- Disrupta Remix](https://open.spotify.com/track/3hFWCTewbkyGSxHCJN2Trh) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G) | [soulboy \(Disrupta Remix\)](https://open.spotify.com/album/2JZQaPa53qti19HhrBe8sh) | 3:29 | 2025-08-07 | 2026-05-30 |
+| [Soundboy Johnny](https://open.spotify.com/track/3LQqxvd3CxGhZPHjUNepKI) | [Conducta](https://open.spotify.com/artist/1lMcg4Y7nW5hHgIVsN9Shn) | [Soundboy Johnny](https://open.spotify.com/album/4qup8Jq6TdMvFy7fam9lz8) | 3:30 | 2026-05-29 |  |
 | [Southwark](https://open.spotify.com/track/5jhL4cFcAzraDweCvLSreL) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ) | [Southwark](https://open.spotify.com/album/1UNGxOhYLpyjEPWqVAKneh) | 3:51 | 2025-03-06 |  |
 | [Spray Tan](https://open.spotify.com/track/7jFMzLAxBsAJhvHXsdV91Z) | [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl) | [Spray Tan](https://open.spotify.com/album/3XnoM2emoZPBKK9rFkmqTI) | 2:35 | 2024-05-09 | 2024-08-21 |
 | [Sprinta \(Bad Bad\)](https://open.spotify.com/track/3KJD2bb7mnH0fnLDGSJ2dn) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [KIPPO](https://open.spotify.com/artist/4Bf3pfU2A6dHgR1eZwlE6N) | [Sprinta \(Bad Bad\)](https://open.spotify.com/album/7l0SqJre5CRZcGLcMztXrV) | 3:19 | 2024-09-19 |  |
@@ -337,7 +338,7 @@
 | [Where You Are](https://open.spotify.com/track/0D5qWqcQzcWOsmUi8jAkgw) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [shadxwgirl](https://open.spotify.com/artist/0VI8OJAF4LWfSHukdALwia) | [Where You Are](https://open.spotify.com/album/1olN41ilLwcgf8egALwSvu) | 3:24 | 2025-08-07 |  |
 | [White Noise](https://open.spotify.com/track/5MsnXwlc53vv0ym7NPw5gh) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [White Noise](https://open.spotify.com/album/2oXZn3B3jk9U1KTINe6qQa) | 3:07 | 2023-05-19 | 2024-05-10 |
 | [Whole Place Lift](https://open.spotify.com/track/5qBkr45TSiCMMsVrwicIFk) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [Whole Place Lift / Plus](https://open.spotify.com/album/18RybKs2HWnRVUVdN79nWZ) | 2:26 | 2026-05-15 |  |
-| [Why Can't It Always Be Like This](https://open.spotify.com/track/3W1kgexqXUKZr38D5lkdN5) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Why Can't It Always Be Like This](https://open.spotify.com/album/1LM36Uz1olawfBTZvC78f0) | 3:02 | 2025-07-25 |  |
+| [Why Can't It Always Be Like This](https://open.spotify.com/track/3W1kgexqXUKZr38D5lkdN5) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Why Can't It Always Be Like This](https://open.spotify.com/album/1LM36Uz1olawfBTZvC78f0) | 3:02 | 2025-07-25 | 2026-06-01 |
 | [Wonderluv](https://open.spotify.com/track/6w28PfNPGBrfuaHRrOJ0aE) | [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [Wonderluv](https://open.spotify.com/album/2LkzjaFwGulpxmAU9qYNDD) | 4:16 | 2026-04-16 |  |
 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 | 2023-07-21 | 2026-04-17 |
 | [you don't want love \(in the club\)](https://open.spotify.com/track/38ASpHzf1kXpko2TSlhTof) | [Robin Knightz](https://open.spotify.com/artist/7zmMLJIDnDu5yQjJwWWYS8), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [you don’t want love \(in the club\)](https://open.spotify.com/album/2RlKzPi1Ekl9MbmcRMYZlY) | 2:16 | 2023-08-11 | 2025-03-07 |

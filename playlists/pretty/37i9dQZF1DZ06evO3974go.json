@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21099,
+  "num_followers": 21102,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahjXAAAAAAAsftDDo77L0fp8+tGORD1+",
+  "snapshot_id": "ahoogAAAAAAQKG2W1hecZJHzeBZ2Q8ji",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rich As In Spirit",
-        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 195908,
-      "name": "Never Fold",
-      "url": "https://open.spotify.com/track/1Op4A6asA7L6SN8dDRWvLJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 265133,
       "name": "Get TF Out My Face (feat. Young Thug)",
       "url": "https://open.spotify.com/track/4I44RCVIbiGXUrqVdK96uk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rich As In Spirit",
+        "url": "https://open.spotify.com/album/5vW8xhq1cIBvC8IXOfPss7"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 195908,
+      "name": "Never Fold",
+      "url": "https://open.spotify.com/track/1Op4A6asA7L6SN8dDRWvLJ"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2488892,
+  "num_followers": 2488836,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "TAKE ALL THE LOVE",
-        "url": "https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 206181,
-      "name": "TAKE ALL THE LOVE",
-      "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
-    },
-    {
-      "added_at": "2026-05-20 10:30:00",
-      "album": {
         "name": "Kathang Isip",
         "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 318814,
       "name": "Kathang Isip",
       "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+    },
+    {
+      "added_at": "2026-05-20 10:30:00",
+      "album": {
+        "name": "TAKE ALL THE LOVE",
+        "url": "https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 206181,
+      "name": "TAKE ALL THE LOVE",
+      "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -539,38 +539,6 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Kitchie Nadal",
-        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
-      },
-      "artists": [
-        {
-          "name": "Kitchie Nadal",
-          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
-        }
-      ],
-      "duration_ms": 249080,
-      "name": "Huwag Na Huwag Mong Sasabihin",
-      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
-    },
-    {
-      "added_at": "2026-05-20 10:30:00",
-      "album": {
-        "name": "Hirap Kalimutan",
-        "url": "https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C"
-      },
-      "artists": [
-        {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "Hirap Kalimutan",
-      "url": "https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw"
-    },
-    {
-      "added_at": "2026-05-20 10:30:00",
-      "album": {
         "name": "Senaryo",
         "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
       },
@@ -591,18 +559,18 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+        "name": "Hirap Kalimutan",
+        "url": "https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
         }
       ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+      "duration_ms": 173500,
+      "name": "Hirap Kalimutan",
+      "url": "https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -619,6 +587,38 @@
       "duration_ms": 221641,
       "name": "Misteryoso",
       "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
+    },
+    {
+      "added_at": "2026-05-20 10:30:00",
+      "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+    },
+    {
+      "added_at": "2026-05-20 10:30:00",
+      "album": {
+        "name": "Kitchie Nadal",
+        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
+      },
+      "artists": [
+        {
+          "name": "Kitchie Nadal",
+          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
+        }
+      ],
+      "duration_ms": 249080,
+      "name": "Huwag Na Huwag Mong Sasabihin",
+      "url": "https://open.spotify.com/track/4mOjjXKDOR1sel6APULUaN"
     },
     {
       "added_at": "2026-05-20 10:30:00",

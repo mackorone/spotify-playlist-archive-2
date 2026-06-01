@@ -4,7 +4,7 @@
 
 > Enjoy music from "Nijigasaki High School Idol Club"\. ©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-151 songs - 10 hr 26 min
+152 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [どこにいても君は君](https://open.spotify.com/track/1LRDHZ5jyWwTOm7JX4eOxZ) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [どこにいても君は君](https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om) | 4:35 | 2024-09-24 | 2025-03-12 |
 | [めっちゃGoing!!](https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:48 | 2022-06-25 |  |
 | [やがてひとつの物語](https://open.spotify.com/track/0EoTGDUKh0Se9mChgBghmp) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:20 | 2022-06-25 | 2022-07-28 |
+| [わちゅごなどぅー](https://open.spotify.com/track/0hAnxsOLd0TsGJ8JzQetGy) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [わちゅごなどぅー](https://open.spotify.com/album/2veg32WQHA4TGzPblFEt4s) | 3:30 | 2025-07-21 |  |
 | [アナログハート](https://open.spotify.com/track/6vWqcL79ETNeXDZpR231Tn) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:40 | 2022-06-25 |  |
 | [エイエ戦サー](https://open.spotify.com/track/2HJeb0v2zfXtnvsL7wxWFq) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [L!L!L! \(Love the Life We Live\)](https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i) | 4:23 | 2022-06-25 | 2022-07-29 |
 | [オードリー](https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 3:54 | 2022-06-25 |  |
@@ -157,7 +158,7 @@
 | [繚乱！ビクトリーロード](https://open.spotify.com/track/2WdwcYfaJ73rGKWg4Jyr1j) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [夢が僕らの太陽さ](https://open.spotify.com/album/5Bw9Vtcymu9iUzf6y0iH6T) | 4:01 | 2022-06-25 |  |
 | [翠いカナリア](https://open.spotify.com/track/0pcnND4RErXrefEfytdlr8) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [MONSTER GIRLS](https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi) | 3:49 | 2022-06-25 |  |
 | [翠いカナリア](https://open.spotify.com/track/3LDPZE2mrrsvHGJOTwm2i3) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:49 | 2022-07-26 | 2024-04-19 |
-| [虹色Passions!](https://open.spotify.com/track/02pLFicJc11BISyxKv8UcC) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [虹色Passions!](https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl) | 4:15 | 2022-06-25 |  |
+| [虹色Passions!](https://open.spotify.com/track/02pLFicJc11BISyxKv8UcC) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [虹色Passions!](https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl) | 4:15 | 2022-06-25 | 2026-06-01 |
 | [開花宣言](https://open.spotify.com/track/2I2gxRtOhtaghM4kmQbFYH) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:18 | 2022-06-25 | 2026-05-11 |
 
 \*This playlist was first scraped on 2022-07-14. Prior content cannot be recovered.
