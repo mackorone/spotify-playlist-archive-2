@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-534 songs - 1 day 6 hr 18 min
+535 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Life Is A Movie](https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Life Is A Movie](https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO) | 3:01 | 2025-02-25 | 2025-06-08 |
 | [Like You](https://open.spotify.com/track/6sVI9FHyt9hfcHOOTDKOK6) | [Xenia](https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR) | [Like You](https://open.spotify.com/album/3AodZkuHP0JGLslBdE3ozw) | 2:14 | 2026-03-13 | 2026-04-10 |
 | [Limão](https://open.spotify.com/track/0ND0hIRaK0GfPYIqELyp2Z) | [navxja](https://open.spotify.com/artist/1H5AZwBOL8ETpshyqPvYQh) | [Limão](https://open.spotify.com/album/4zNnHX6IxlhzI5TMXKxgow) | 3:37 | 2025-09-18 |  |
-| [Lista de deseos](https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5) | [Medianoche](https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk) | [Lista de deseos](https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL) | 3:16 | 2025-09-18 |  |
+| [Lista de deseos](https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5) | [Medianoche](https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk) | [Lista de deseos](https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL) | 3:16 | 2025-09-18 | 2026-06-02 |
 | [Livin´ On a Prayer](https://open.spotify.com/track/33wSIvyZvFVzOap7H89JMG) | [Softband](https://open.spotify.com/artist/7KS4igpkjzmjCn4nhTnhhV) | [Acoustic Hits](https://open.spotify.com/album/2QL3fVo50dTiXdvmCc1I9q) | 3:48 | 2024-04-11 | 2025-09-19 |
 | [Llévame](https://open.spotify.com/track/4uxTvwFypCgeL7VT7V5NZh) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Llévame](https://open.spotify.com/album/1XweC6MnJea3Pz9jlLImji) | 3:28 | 2025-03-31 | 2025-06-03 |
 | [Lo Contrario](https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Lo Contrario](https://open.spotify.com/album/4j7ez1oEHKlQZzIFspVQI8) | 3:10 | 2024-08-02 | 2024-09-25 |
@@ -350,6 +350,7 @@
 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 | 2022-11-11 | 2024-04-19 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5BI7bKCEZiA0zod12yXe6S) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Redux](https://open.spotify.com/album/0NtxsKpmMPDFh6GMXHIUBW) | 5:57 | 2026-02-19 |  |
 | [Nothing To Declare](https://open.spotify.com/track/5FbdXtJfcXb2UB8KJNAcQM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Nothing To Declare](https://open.spotify.com/album/7E9wJ7yAAw5UszQT80PuZ8) | 3:33 | 2024-02-08 | 2024-03-05 |
+| [Notre\-Dame](https://open.spotify.com/track/6c2s7cbT6WbothMJ6HaywK) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Atanor](https://open.spotify.com/album/6DrdihUtlmWjSaSVPW4M5Y) | 2:46 | 2026-05-28 |  |
 | [NUNCA ES TARDE](https://open.spotify.com/track/2xh2NMeCkSwQjIK4al3aCG) | [Chill Chicos](https://open.spotify.com/artist/6QkU4dEKBiGy3rOepPOhnG), [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [NUNCA ES TARDE](https://open.spotify.com/album/4tnZ7ErjvSTD4cLVvGbU9I) | 3:08 | 2024-05-02 | 2024-05-05 |
 | [Nunca Nadie](https://open.spotify.com/track/5twSN2QylT6wKmNCu0Xw4e) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Nunca Nadie](https://open.spotify.com/album/4EwQ5G2tbosagB8tEr3A7O) | 2:58 | 2025-03-31 | 2025-06-27 |
 | [Oasis](https://open.spotify.com/track/3uCaj0MSjd7Z90xCQ0jalj) | [Julia Nar](https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL), [Khotton](https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ) | [Oasis](https://open.spotify.com/album/0S4nrbyuhs0joy3Igb9llz) | 3:15 | 2025-09-18 |  |

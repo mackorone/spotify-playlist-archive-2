@@ -78,7 +78,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 176000,
       "name": "40 Days & 40 Nights (Pt. 2)",
       "url": "https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES"
@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 179861,
       "name": "Alert",
       "url": "https://open.spotify.com/track/4FAqKCBFj52Myx3NJiXlv2"
@@ -430,10 +430,28 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 178666,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/0iYz835jZ1PKFs8BAwikFz"
+    },
+    {
+      "album": {
+        "name": "Be My Love",
+        "url": "https://open.spotify.com/album/3hNEt3yLb2xuzpp1sTRQfh"
+      },
+      "artists": [
+        {
+          "name": "NESTA",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145231,
+      "name": "Be My Love",
+      "url": "https://open.spotify.com/track/2dHiX5mhxKvNq0cryeVo1a"
     },
     {
       "album": {
@@ -612,7 +630,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 217114,
       "name": "Born A Rebel",
       "url": "https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6"
@@ -882,7 +900,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 196949,
       "name": "Cold & Clear",
       "url": "https://open.spotify.com/track/6gCx19TvXTF39mQ6VLCKvm"
@@ -1266,7 +1284,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 157974,
       "name": "Energy",
       "url": "https://open.spotify.com/track/6iH3aLFWxvjl4XfoDPfpNP"
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 202701,
       "name": "Fill My Cup",
       "url": "https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm"
@@ -1632,6 +1650,28 @@
       "duration_ms": 188297,
       "name": "God Flo",
       "url": "https://open.spotify.com/track/1fnWfoQqM20SD4Bjd5nFIm"
+    },
+    {
+      "album": {
+        "name": "God is Love",
+        "url": "https://open.spotify.com/album/5dYxmqhKLrE1TMD0fCDhUk"
+      },
+      "artists": [
+        {
+          "name": "Beres Hammond",
+          "url": "https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260185,
+      "name": "God is Love",
+      "url": "https://open.spotify.com/track/3tPqn65CrA76tZggtsEukz"
     },
     {
       "album": {
@@ -1806,7 +1846,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 247058,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/2d0xBDrSxKqLacd8OJkeZ6"
@@ -2450,7 +2490,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 141560,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0ez6JelKTHlTaZlJEufmfd"
@@ -2754,7 +2794,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 222000,
       "name": "Light Of Mine",
       "url": "https://open.spotify.com/track/27OJkWLoSTF6JcQXUoiJw1"
@@ -2900,7 +2940,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 221626,
       "name": "Lost in Time",
       "url": "https://open.spotify.com/track/6ZSiSHgQAZN1lb8EmXq6GC"
@@ -3364,7 +3404,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 198362,
       "name": "My World",
       "url": "https://open.spotify.com/track/3acMAUnwxMKfuXIt3SNqDw"
@@ -3650,6 +3690,28 @@
     {
       "album": {
         "name": "Oh Jah",
+        "url": "https://open.spotify.com/album/6aWDxjUhXcX2kA2OyaXRur"
+      },
+      "artists": [
+        {
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+        },
+        {
+          "name": "Ireland Boss",
+          "url": "https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241219,
+      "name": "Oh Jah",
+      "url": "https://open.spotify.com/track/41dSErI0T8wLpLc1C7jNkX"
+    },
+    {
+      "album": {
+        "name": "Oh Jah",
         "url": "https://open.spotify.com/album/7aVMzB3MdZyZkLXu7pJ1Oj"
       },
       "artists": [
@@ -3780,7 +3842,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 201250,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/14b19xNkaa81ANXj5arAhS"
@@ -3980,7 +4042,7 @@
       },
       "artists": [
         {
-          "name": "Koffee",
+          "name": "Original Koffee",
           "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
         },
         {
@@ -3990,7 +4052,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 238576,
       "name": "Pressure (Remix)",
       "url": "https://open.spotify.com/track/6k7lW8ShIArQQ12suirGKs"
@@ -4498,7 +4560,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 186564,
       "name": "Safe N Sound",
       "url": "https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie"
@@ -4814,7 +4876,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "Sky Way",
       "url": "https://open.spotify.com/track/3jOydeGVAsjdYoYVeqVS5U"
@@ -4836,7 +4898,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 194406,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/0jPEWByX9DZAQb5zyQ6eng"
@@ -4924,7 +4986,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 260168,
       "name": "Smugglaren",
       "url": "https://open.spotify.com/track/6vZ3MadtYqe7xEITIJbcr0"
@@ -5250,7 +5312,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 215474,
       "name": "Take Her Love",
       "url": "https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE"
@@ -5272,6 +5334,36 @@
       "duration_ms": 181766,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/2UY4Y4TOUp0FP4srzqlfNr"
+    },
+    {
+      "album": {
+        "name": "The Mighty Rootsmen",
+        "url": "https://open.spotify.com/album/5Qauynrfn120RhCZU0k8cy"
+      },
+      "artists": [
+        {
+          "name": "The Mighty Rootsmen",
+          "url": "https://open.spotify.com/artist/3HZNJxRu48Cxt6dlPcIhnH"
+        },
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        },
+        {
+          "name": "Gregory Isaacs",
+          "url": "https://open.spotify.com/artist/31FEcF5HWEYAo3oAqYUM40"
+        },
+        {
+          "name": "Mykal Rose",
+          "url": "https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q"
+        }
+      ],
+      "date_added": "2026-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213482,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/69FFEPc1lubJ4ij5KEaTQF"
     },
     {
       "album": {
@@ -5950,7 +6042,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 160172,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/48qduYsXAIOjvqvXs7jO6r"

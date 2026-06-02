@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > youshouldbeaskingmeout 🇫🇮
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,500 likes - 125 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,550 likes - 125 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 7 | [Bitch Ball Out](https://open.spotify.com/track/1kPJM9NZnOpaX5H534DYqA) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:09 |
 | 8 | [Versailles Flow](https://open.spotify.com/track/2T1utvioehcgYAtQ6hjPOd) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Sulfur Surfer](https://open.spotify.com/album/0ZegzmzVWw6wVsSeXK3OQE) | 3:37 |
 | 9 | [Wildlife](https://open.spotify.com/track/1qz9ZTZDdXH9W1bEeCcrYD) | [Noahh](https://open.spotify.com/artist/1Vk8Xbn8TTDtYlCOEanuc8) | [Wildlife](https://open.spotify.com/album/0vWVbHtldu8qLiJMy3Q2Fj) | 2:20 |
-| 10 | [Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/5AkRNxM8MEyS7oUjZMk0WQ) | [Falling Out of Grace](https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r) | 3:00 |
+| 10 | [Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Falling Out of Grace](https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r) | 3:00 |
 | 11 | [putaprincesa](https://open.spotify.com/track/2NslexlQS0NuAbqU14xmJu) | [Rakky Ripper](https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [putaprincesa](https://open.spotify.com/album/3Hd022bMuDP3O4v7JNmg6k) | 2:18 |
 | 12 | [Mind Killer](https://open.spotify.com/track/0I0OmJNbs66ulFVXSlRMrr) | [Tommy Fleece](https://open.spotify.com/artist/4vv1Y8dwByLcOJ8Wdsxrfg) | [Mind Killer](https://open.spotify.com/album/6F3IAMzBwKxiQ0LFkcZdjX) | 1:49 |
 | 13 | [lil qoo](https://open.spotify.com/track/0iX9RT9NmaeX9yEflLXTzc) | [tsubi club](https://open.spotify.com/artist/6fHEaFnFgMxMAtDt7mFoQ3) | [trinket](https://open.spotify.com/album/20uJcpJbimpsyG7v9kL5Co) | 3:48 |

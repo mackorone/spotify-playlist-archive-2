@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOH3bXSBd8uiD.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 18 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOH3bXSBd8uiD.md) - [plain]
 | 10 | [money machine](https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 1:54 |
 | 11 | [100 Gecs \| Episode 40 \| Skullcandy](https://open.spotify.com/episode/4ww5qJVZl83Ecw1usjo9tv) | [You Feel Me?](https://open.spotify.com/show/1T4CoonlEOMVUCh3M4gxZi) | [You Feel Me?](https://open.spotify.com/album/1T4CoonlEOMVUCh3M4gxZi) | 31:45 |
 | 12 | [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/track/3LxG9HkMMFP0MZuiw3O2rF) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:36 |
-| 13 | [Ep\. 53: Jon Bellion](https://open.spotify.com/episode/6pawr1zxBuM143LEKyPTsW) | [And The Writer Is...with Ross Golan](https://open.spotify.com/show/26gzyiPD2ix1VaO1fHDKCk) | [And The Writer Is...with Ross Golan](https://open.spotify.com/album/26gzyiPD2ix1VaO1fHDKCk) | 1:23:48 |
-| 14 | [Mother](https://open.spotify.com/track/6rVNnvyNeibts1uOqdSNIw) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Mother](https://open.spotify.com/album/5OrSjlgjIvI3GmTnTt6wnT) | 2:42 |
-| 15 | [Plastic](https://open.spotify.com/track/3wFnBRnYgpdoBQyXl3NxoH) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [The Sunset Tapes: A Cool Tape Story](https://open.spotify.com/album/5SEBhuhm9MbbRg3YOOuaCR) | 2:16 |
-| 16 | [Jaden Smith](https://open.spotify.com/episode/7rzHpSNNGZiTAzH6udUCe7) | [Phil Taggart’s Slacker Podcast](https://open.spotify.com/show/4JHRWijaDsdLCYje4qx9gb) | [Phil Taggart’s Slacker Podcast](https://open.spotify.com/album/4JHRWijaDsdLCYje4qx9gb) | 40:09 |
-| 17 | [dropout \(w/ blackbear\)](https://open.spotify.com/track/1hV0Ue00iyNCZvb1n0VyGf) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dropout \(w/ blackbear\)](https://open.spotify.com/album/5hxBw9Le7T09nRIDXoRbei) | 2:46 |
-| 18 | [Six Feet Apart](https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Six Feet Apart](https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi) | 2:53 |
-| 19 | [Ep\. \#3 \| Alec Benjamin](https://open.spotify.com/episode/7HztB2eoxJl0EkBzRdU4qq) | [I Think You're Dope w/ Eric Nam](https://open.spotify.com/show/6wCxoCzOin6F2J6HKxkuWr) | [I Think You're Dope w/ Eric Nam](https://open.spotify.com/album/6wCxoCzOin6F2J6HKxkuWr) | 50:29 |
+| 13 | [Mother](https://open.spotify.com/track/6rVNnvyNeibts1uOqdSNIw) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Mother](https://open.spotify.com/album/5OrSjlgjIvI3GmTnTt6wnT) | 2:42 |
+| 14 | [Plastic](https://open.spotify.com/track/3wFnBRnYgpdoBQyXl3NxoH) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT) | [The Sunset Tapes: A Cool Tape Story](https://open.spotify.com/album/5SEBhuhm9MbbRg3YOOuaCR) | 2:16 |
+| 15 | [Jaden Smith](https://open.spotify.com/episode/7rzHpSNNGZiTAzH6udUCe7) | [Phil Taggart’s Slacker Podcast](https://open.spotify.com/show/4JHRWijaDsdLCYje4qx9gb) | [Phil Taggart’s Slacker Podcast](https://open.spotify.com/album/4JHRWijaDsdLCYje4qx9gb) | 40:09 |
+| 16 | [dropout \(w/ blackbear\)](https://open.spotify.com/track/1hV0Ue00iyNCZvb1n0VyGf) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [dropout \(w/ blackbear\)](https://open.spotify.com/album/5hxBw9Le7T09nRIDXoRbei) | 2:46 |
+| 17 | [Six Feet Apart](https://open.spotify.com/track/22AJMMJMaQ3qtTwlegrKcm) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Six Feet Apart](https://open.spotify.com/album/0sW48R4zooMyCQyYQSt8xi) | 2:53 |
+| 18 | [Ep\. \#3 \| Alec Benjamin](https://open.spotify.com/episode/7HztB2eoxJl0EkBzRdU4qq) | [I Think You're Dope w/ Eric Nam](https://open.spotify.com/show/6wCxoCzOin6F2J6HKxkuWr) | [I Think You're Dope w/ Eric Nam](https://open.spotify.com/album/6wCxoCzOin6F2J6HKxkuWr) | 50:29 |
 
 Snapshot ID: `AZiNkgAAAACdjf4PuCGf/fpmmotzDpkL`

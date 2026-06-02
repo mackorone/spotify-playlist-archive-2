@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Lagum
 
-1,154 songs - 2 day 9 hr 11 min
+1,155 songs - 2 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Brilho](https://open.spotify.com/track/19Jjfmq5r74zSjuJPx9r5P) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Mikezin](https://open.spotify.com/artist/4LnQWC7U1XWXpcgoZN3D3Q) | [Brilho](https://open.spotify.com/album/5BiPHAuUfPVatyElXJdrce) | 3:35 | 2020-10-20 | 2022-07-29 |
 | [BRINCA COM A...](https://open.spotify.com/track/6JvROZjvoKm32bFgxBW9IW) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [BRINCA COM A...](https://open.spotify.com/album/63wfk6ebjwjWeKcchiDxa2) | 3:02 | 2023-02-14 | 2023-06-17 |
 | [BRINCADEIRA](https://open.spotify.com/track/6DT9JJRSc2eYhRK8oJpMyf) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [BRINCADEIRA](https://open.spotify.com/album/6xbriig0l2cAG4aV6zdzm5) | 2:45 | 2025-08-15 | 2025-10-18 |
+| [Brisa Boa](https://open.spotify.com/track/2kYACuBTEu9iRZvCs7NWpC) | [Triêtu](https://open.spotify.com/artist/3LSbz358ULiQDvQghJdPQV) | [Brisa Boa](https://open.spotify.com/album/7eDipXrg5yOHLtZCuVF0bv) | 2:51 | 2026-05-29 |  |
 | [Brisadão Na Dela](https://open.spotify.com/track/0lfiCykYr1kvnZyZxGN0rB) | [xang](https://open.spotify.com/artist/4naDHvC9oln9sz6Rwfvory), [mayklove](https://open.spotify.com/artist/3ViPtN67C4po5HoqLgJy9m), [Bonde R300](https://open.spotify.com/artist/5rhznZjKfSxtKVqB0JZtpC), [biel bolado](https://open.spotify.com/artist/2uzMoXMqmluquh8zgtzcte) | [Brisadão Na Dela](https://open.spotify.com/album/2oEoPgjc0CfTcwtoJgS18N) | 2:24 | 2020-10-20 | 2022-07-14 |
 | [bunda 🍑](https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [bunda 🍑](https://open.spotify.com/album/7xo5DMCBtjshSQdMcp4TRJ) | 3:43 | 2025-02-21 | 2025-03-29 |
 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 | 2020-10-20 | 2023-02-15 |
@@ -198,7 +199,7 @@
 | [Cancún](https://open.spotify.com/track/2gbmbB5KHCpLYgr7AMwNEn) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [FreezaMC](https://open.spotify.com/artist/6aiPY2UsxHJrLq0X1ruIiU) | [Cancún](https://open.spotify.com/album/2fHM4ZxQCcFe7pbflBMpgD) | 2:22 | 2023-10-06 | 2023-12-16 |
 | [Canibal](https://open.spotify.com/track/5yS5dvfPcEQ6f3iTfgjgPZ) | [GABI LINS](https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm) | [Canibal](https://open.spotify.com/album/4O207Ff6WQrzOK4YITcI16) | 2:35 | 2025-12-05 | 2026-02-28 |
 | [Canoa](https://open.spotify.com/track/2LneA7MOWuowIRaga0eO3t) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Canoa](https://open.spotify.com/album/3yVv0gmK4EdJNQBWt6au3D) | 2:57 | 2023-10-13 | 2023-11-11 |
-| [Caos e Poesia](https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo) | [Isix](https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug), [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv) | [Caos e Poesia](https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD) | 2:25 | 2025-12-05 |  |
+| [Caos e Poesia](https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo) | [Isix](https://open.spotify.com/artist/4iU2XqRFAxIFelgbns2fug), [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv) | [Caos e Poesia](https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD) | 2:25 | 2025-12-05 | 2026-06-02 |
 | [caos gostoso](https://open.spotify.com/track/0X883Y0HeyYfxjvl5N30Bb) | [Carol Passos](https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP) | [cítrico](https://open.spotify.com/album/76jsaicEyFkyxjjzl4XQIt) | 2:38 | 2025-01-24 | 2025-12-12 |
 | [Capa Vogue](https://open.spotify.com/track/7jaQt9VbBVJa6YYm3vxAB7) | [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Capa Vogue](https://open.spotify.com/album/4joYhZVy4gA2zYOpp7qUy7) | 2:11 | 2024-03-08 | 2024-05-29 |
 | [Capitán](https://open.spotify.com/track/3Zesg4c4eKhWJbKyh2mZos) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Capitán](https://open.spotify.com/album/3HzG2GrYVNOFovlnK112G2) | 3:44 | 2023-05-26 | 2023-07-08 |

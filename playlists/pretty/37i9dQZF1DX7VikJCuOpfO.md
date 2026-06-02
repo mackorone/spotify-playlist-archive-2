@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Christian Nodal📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,746 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,752 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 19 | [Ya Es Muy Tarde](https://open.spotify.com/track/3PFWVrUoyikqdyOjGn5j2p) | [Ximena Ocampo](https://open.spotify.com/artist/3NWb6W7xGBAxFUGp2e21ho) | [Ya Es Muy Tarde](https://open.spotify.com/album/0voMkqxOxtKKUG8eWonZRy) | 3:47 |
 | 20 | [Casí 16](https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Casí 16](https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB) | 3:12 |
 | 21 | [Segunda Opción](https://open.spotify.com/track/0x4XZXxwOmAsbMCuAnIqpN) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Segunda Opción](https://open.spotify.com/album/3Y5wuyGo040iGF41w8Az6t) | 3:29 |
-| 22 | [Excusa No Es](https://open.spotify.com/track/5GPUnQ4JmIf2bUsRek7Vlp) | [Adrián Barraza](https://open.spotify.com/artist/6YR3uGzINqVcATvyzArZKt) | [Excusa No Es](https://open.spotify.com/album/1cc7eNghzcXbtq3eWD1bmq) | 2:55 |
-| 23 | [Si Nos Dejan](https://open.spotify.com/track/6vjXvBlZCDxWhHinj2UkSl) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Si Nos Dejan](https://open.spotify.com/album/5j9hSlNRtpGy9I3g3Yl9wN) | 2:34 |
+| 22 | [Si Nos Dejan](https://open.spotify.com/track/6vjXvBlZCDxWhHinj2UkSl) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Si Nos Dejan](https://open.spotify.com/album/5j9hSlNRtpGy9I3g3Yl9wN) | 2:34 |
+| 23 | [Excusa No Es](https://open.spotify.com/track/5GPUnQ4JmIf2bUsRek7Vlp) | [Adrián Barraza](https://open.spotify.com/artist/6YR3uGzINqVcATvyzArZKt) | [Excusa No Es](https://open.spotify.com/album/1cc7eNghzcXbtq3eWD1bmq) | 2:55 |
 | 24 | [La Perra](https://open.spotify.com/track/2l34uHM6mHVi6glzqRpk3y) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [La Perra](https://open.spotify.com/album/7bsNQ0GpPPiP7mRvOGsCzw) | 3:08 |
 | 25 | [Dónde y Cuándo](https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Dónde y Cuándo](https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN) | 2:43 |
 | 26 | [Vete](https://open.spotify.com/track/4XMpHNazONIhzh3hr2TQmF) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Vete](https://open.spotify.com/album/2MowOz3kjdjFX9zs8BgZvq) | 3:03 |

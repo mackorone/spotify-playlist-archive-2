@@ -1765,6 +1765,28 @@
     },
     {
       "album": {
+        "name": "Blessed Assurance (I Will Praise You)",
+        "url": "https://open.spotify.com/album/0ihoBcuioyoGx6ZMdrLtss"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Mara Justine",
+          "url": "https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179166,
+      "name": "Blessed Assurance (I Will Praise You)",
+      "url": "https://open.spotify.com/track/0NUeirXItOmsaEetXfWU5t"
+    },
+    {
+      "album": {
         "name": "Blood Of Christ",
         "url": "https://open.spotify.com/album/0OIJAEarNSxiDd1MK9sb1l"
       },

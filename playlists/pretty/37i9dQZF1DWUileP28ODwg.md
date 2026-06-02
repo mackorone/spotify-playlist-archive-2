@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Consumed By Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,476 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,518 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 79 | [When You Give It Up](https://open.spotify.com/track/5d70RGXlCzwqQl5WLV6Wpk) | [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [When You Give It Up](https://open.spotify.com/album/174U4t8jS0tRqjhpXlgBMh) | 2:42 |
 | 80 | [Time](https://open.spotify.com/track/1LsGjcNxbdOCPWASQWxXQG) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Time](https://open.spotify.com/album/2ZiFRKlEgjOs98Uno3OQrG) | 3:20 |
 
-Snapshot ID: `AAAAAF0S6KFqd/DSLMl0cgsz6wPcr4yB`
+Snapshot ID: `AAAAAP5Vxmw37g2q1KMyTglkDh384Ikx`

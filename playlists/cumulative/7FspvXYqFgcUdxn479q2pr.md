@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-1,160 songs - 2 day 10 hr 51 min
+1,161 songs - 2 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,6 +543,7 @@
 | [Journey](https://open.spotify.com/track/4lXXQzuKmjJy6sfTY4OCxU) | [Skuado](https://open.spotify.com/artist/5j1ayJ4We8dDOPMEnQ0XqP), [RIBOX](https://open.spotify.com/artist/27RBGhYic2u8ehdZIYZHks) | [Journey](https://open.spotify.com/album/4pX1OHSj8qK3FIqWEjzpmI) | 3:31 | 2025-11-28 | 2026-02-07 |
 | [Joyenergizer \(Sander van Doorn 2025 Remix\)](https://open.spotify.com/track/4boz4oEimOWDtIbGs4FBDr) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Joyenergizer \(Sander van Doorn 2025 Remix\)](https://open.spotify.com/album/6gUghn3PvhlLfGxLiRuRCd) | 3:19 | 2025-08-21 | 2026-02-14 |
 | [Jump](https://open.spotify.com/track/5rX7lQzWSk3b6RA5FNcEVc) | [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o) | [Jump](https://open.spotify.com/album/3ecDkFlkQ4Ehu48eFfaCiN) | 3:04 | 2025-02-13 | 2025-05-31 |
+| [Jump High \(Jump In\)](https://open.spotify.com/track/3oXUYHy5srjrmVHt1Srel5) | [Møsard](https://open.spotify.com/artist/7LMTCzHMeJywCQJFETsdnh) | [Jump High \(Jump In\)](https://open.spotify.com/album/7dm4Y0dtk5y8R9JlFvL6Ey) | 3:16 | 2026-06-01 |  |
 | [June](https://open.spotify.com/track/1xfj8i1OvEhqJmWncOV2d5) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb) | [June](https://open.spotify.com/album/5R8lqTv6VUfTgPyuA3vScp) | 2:43 | 2024-04-26 | 2024-06-08 |
 | [Junglin](https://open.spotify.com/track/55m5dkip1lCp6DPeVnj07C) | [Angel Janson](https://open.spotify.com/artist/5nycUaruL25aOGh6M1kmSz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Junglin](https://open.spotify.com/album/6GsZ9H6JpOaHIsyI8A8E3c) | 2:54 | 2024-09-27 | 2024-10-18 |
 | [Just Dance \(With Chacel\)](https://open.spotify.com/track/58404MHSQ1tJ4NJpPZ61Y3) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [Just Dance \(With Chacel\)](https://open.spotify.com/album/1RZZnPzor5uMPyqrmV7Seb) | 2:37 | 2024-12-12 | 2025-01-04 |

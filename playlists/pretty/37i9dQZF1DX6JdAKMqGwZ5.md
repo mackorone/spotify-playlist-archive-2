@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: CARLANGAS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,087 likes - 120 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,094 likes - 120 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 7 | [iii\. LaDrogaMásSuaveDelMundo\(!\) · enamoramiento](https://open.spotify.com/track/25sS3mU6hQC2FtgSf0oB1v) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Soulost](https://open.spotify.com/album/1UJ9oErOGqOrtQuFuZLrxE) | 4:00 |
 | 8 | [yo quisiera](https://open.spotify.com/track/6JW045I5tycJU6hAnCpuFh) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [un viaje eterno](https://open.spotify.com/album/7DOyGqS22SVN0k8fz8GSDI) | 3:44 |
 | 9 | [La Boca del Lobo](https://open.spotify.com/track/3KMdnYhFgFMPOmWYc7Alx4) | [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [La Boca del Lobo](https://open.spotify.com/album/6FbPApCJOcvGgZvGbcsckq) | 3:40 |
-| 10 | [Me da igual](https://open.spotify.com/track/5GhPY7com5UF8FOeYUczAF) | [Perfecto Miserable](https://open.spotify.com/artist/48z3nG28oOK5eXgDOCjcon), [pablo morfeo](https://open.spotify.com/artist/67qie8QmMvLni5TBlqgPvU) | [Me da igual](https://open.spotify.com/album/4BxtMUES9diwHKdNlYgDjR) | 2:27 |
+| 10 | [Me da igual](https://open.spotify.com/track/5GhPY7com5UF8FOeYUczAF) | [Perfecto Miserable](https://open.spotify.com/artist/48z3nG28oOK5eXgDOCjcon), [pablo morfeo](https://open.spotify.com/artist/2LIf6qH4Lc71sFtILoF9GB) | [Me da igual](https://open.spotify.com/album/4BxtMUES9diwHKdNlYgDjR) | 2:27 |
 | 11 | [Tormenta de Verano](https://open.spotify.com/track/2VxJ25Mth6Sgo1s8gJJmcL) | [Ciao Marina](https://open.spotify.com/artist/2Xhr9xrjtvIj1mmkUDUUTo) | [Tormenta de Verano](https://open.spotify.com/album/7xOmZtxBm956kqWkq5IkR9) | 2:14 |
 | 12 | [tiene que ser más fácil](https://open.spotify.com/track/2QmjmQQeNAl4BFynm5N4Dh) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [tiene que ser más fácil](https://open.spotify.com/album/6xVdTAJCQAcjM4CyHiJjZa) | 3:50 |
 | 13 | [Un Clásico \[2022\]](https://open.spotify.com/track/4HGwZV5u3gLKuKoSpONUbz) | [MERINO](https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam) | [Un Clásico \[2022\]](https://open.spotify.com/album/49Ljbuf0AX1mUWMz2HBtZ8) | 3:17 |

@@ -568,7 +568,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 227254,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/7dh9svKRrcDuepZPLwYi4F"
@@ -2045,6 +2045,28 @@
     },
     {
       "album": {
+        "name": "Freestyler",
+        "url": "https://open.spotify.com/album/2H2qI7vCGoc0VqKcrvd7ow"
+      },
+      "artists": [
+        {
+          "name": "HOLY PRIEST",
+          "url": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+        },
+        {
+          "name": "Krowdexx",
+          "url": "https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198009,
+      "name": "Freestyler",
+      "url": "https://open.spotify.com/track/5vcRm62wo4Hncrr2tJrLKE"
+    },
+    {
+      "album": {
         "name": "Friday",
         "url": "https://open.spotify.com/album/0DZPkZHG0XqnBMqTWMLttB"
       },
@@ -3406,7 +3428,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 178297,
       "name": "Livin' On A Prayer",
       "url": "https://open.spotify.com/track/4HDc6qOPlM4MSwAiXDTBgD"
@@ -4512,7 +4534,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 133500,
       "name": "Rock That Body",
       "url": "https://open.spotify.com/track/4gRyR3iQuENn8XdNx4UkVX"

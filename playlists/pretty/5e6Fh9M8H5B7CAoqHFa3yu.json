@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 322,
+  "num_followers": 324,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKAtLsw8CKavIyfSpFI9nE9XSnzT7r",
+  "snapshot_id": "AAAKBUmhmSdXPTOLFMUfQqhTkhCLp//t",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -40047,6 +40047,58 @@
       "duration_ms": 239840,
       "name": "Fiona's Promise",
       "url": "https://open.spotify.com/track/6pGJTHi6D1WgsvW9sWv66I"
+    },
+    {
+      "added_at": "2026-06-01 08:13:34",
+      "album": {
+        "name": "My Baby Is a Superstar",
+        "url": "https://open.spotify.com/album/4Ld8PrwGL5IYjQ0JJZPJ6M"
+      },
+      "artists": [
+        {
+          "name": "Peter Foreman",
+          "url": "https://open.spotify.com/artist/5r2w9FvNgxIeSQuQuuBZph"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "My Baby Is a Superstar",
+      "url": "https://open.spotify.com/track/3zUViqxMkQyeli2dBUzlH0"
+    },
+    {
+      "added_at": "2026-06-01 08:14:01",
+      "album": {
+        "name": "All I Want From You",
+        "url": "https://open.spotify.com/album/2Gi2yf2kTvuRBLGlORfSWr"
+      },
+      "artists": [
+        {
+          "name": "Kevin ISM",
+          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "All I Want From You (Distribution)",
+      "url": "https://open.spotify.com/track/3oD3uLVohw5dcJP5WugSYV"
+    },
+    {
+      "added_at": "2026-06-01 11:27:42",
+      "album": {
+        "name": "Numb It",
+        "url": "https://open.spotify.com/album/7AFlVYlb35ZvmaMkhF5Hcl"
+      },
+      "artists": [
+        {
+          "name": "FiNiX",
+          "url": "https://open.spotify.com/artist/2Z78u5tE6JlMW98GnyOvwp"
+        },
+        {
+          "name": "The Irie Lions",
+          "url": "https://open.spotify.com/artist/4YJu9BNUR2dU09UuuKE5OQ"
+        }
+      ],
+      "duration_ms": 246620,
+      "name": "Numb It",
+      "url": "https://open.spotify.com/track/5Cu0ZKQeGfxmZcSJHqlAlG"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

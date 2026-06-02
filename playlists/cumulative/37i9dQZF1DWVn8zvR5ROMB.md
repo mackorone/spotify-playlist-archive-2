@@ -4,7 +4,7 @@
 
 > Country music's latest offerings featuring Alana Springsteen, Riley Green, Dasha and more.
 
-12,959 songs - 29 day 12 hr 25 min
+12,960 songs - 29 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2144,6 +2144,7 @@
 | [Comeback Baby](https://open.spotify.com/track/6Znw9ZaQWtztROR9Bp5DED) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Comeback Baby](https://open.spotify.com/album/0E0kjcnt9RnrWYRnxvWnIG) | 2:59 | 2023-11-10 | 2023-11-18 |
 | [Comeback Kid](https://open.spotify.com/track/3Apdb4wCwGOgF1nxGBg8Z7) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [Comeback Kid](https://open.spotify.com/album/2aNaTXajKGYdbTVL5cPAQT) | 3:27 | 2024-06-28 | 2024-07-06 |
 | [Comes out in the Whiskey](https://open.spotify.com/track/7xuOHwrjytqcUMw1M9Y4Lr) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Thing About Me](https://open.spotify.com/album/7z61EVpDg0C4lAcVjgoEQd) | 3:00 | 2026-02-27 | 2026-03-07 |
+| [Comes With The Country](https://open.spotify.com/track/4bt25WxTk6jBXiolQSUp0t) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Comes With The Country](https://open.spotify.com/album/4NstqK0xUJ6UUqakiluqtO) | 3:17 | 2026-06-01 |  |
 | [Comin' from](https://open.spotify.com/track/2RbFPHlqlkHERW2oWdr6YG) | [Nick Boyd](https://open.spotify.com/artist/5MgzAw2RMY0fJSDTn63Cdj) | [Comin' from](https://open.spotify.com/album/2ZfSo68hUsfGiYxz0pYVf0) | 2:58 | 2022-02-25 | 2022-03-12 |
 | [Comin' In Cold](https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Comin' In Cold](https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK) | 3:00 | 2025-06-06 | 2025-06-14 |
 | [Comin' In Country](https://open.spotify.com/track/3bvjKt99htMEN6zoYxdjR3) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Comin' In Country](https://open.spotify.com/album/055yxXlckLstMzj0cGwguS) | 2:55 | 2025-01-17 | 2025-01-25 |

@@ -195,6 +195,24 @@
     },
     {
       "album": {
+        "name": "Kylie Minogue (Special Edition)",
+        "url": "https://open.spotify.com/album/6w4rV3jRx64zOGE84pxHsd"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351866,
+      "name": "Confide in Me",
+      "url": "https://open.spotify.com/track/0U0VCzqz0CvbjrYOFKQC6W"
+    },
+    {
+      "album": {
         "name": "Dance Alone",
         "url": "https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw"
       },
@@ -410,7 +428,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 200061,
       "name": "Got to Be Certain",
       "url": "https://open.spotify.com/track/7hsOcTJHQS6BxxPIyaNlvw"

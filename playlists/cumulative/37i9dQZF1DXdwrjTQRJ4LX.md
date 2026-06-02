@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:62k5LKMhymqlDNo2DWOvvv">Boys Noize</a>'s favorite tracks\. Updated regularly\. Curated by Boys Noize\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-57 songs - 4 hr 8 min
+59 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [HYYTUP](https://open.spotify.com/track/3holG7xFxHFJrMftsHBzIg) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HYYTUP / Sh5b0mbe](https://open.spotify.com/album/54qI1WE81gr67fg5FCuKvN) | 3:17 | 2026-03-02 |  |
 | [Ich und meine Ubahn \- Architectural Remix](https://open.spotify.com/track/6Hu6qaNG17T89wuHglDMfQ) | [11Schnull](https://open.spotify.com/artist/5ARzbmevfsegHTKzXKYJyv), [Newinfluenzer](https://open.spotify.com/artist/2bH6767Ky9X5sZ2eVRg4Te), [Architectural](https://open.spotify.com/artist/0C8DyEeKMAOHPCLck0hwk0) | [Ich und meine Ubahn](https://open.spotify.com/album/5n0vuthWixG2GbsAtFfpFp) | 5:45 | 2026-03-02 |  |
 | [Insanity Impersonator](https://open.spotify.com/track/3eMl7s4ATargbF8k3CJvi2) | [TINKERHELL](https://open.spotify.com/artist/0Y1HdImRNp7q0Qfw8dhmWF) | [Insanity Impersonator](https://open.spotify.com/album/6I5AwpiHDeWyZ9meLsI5HJ) | 6:06 | 2026-03-02 |  |
+| [Into the Sky](https://open.spotify.com/track/2bo1qVBpVO9xHDuOmJzcCZ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Into The Sky](https://open.spotify.com/album/6y6mFe56cz3DFMpXaXOBag) | 2:15 | 2026-06-01 |  |
 | [Irgendwohin](https://open.spotify.com/track/1TiqdP3O2INYcsjFvUiyUR) | [Siriusmo](https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg) | [Buletten & Blumen](https://open.spotify.com/album/5x3WN8S89q0zfhqKd9ormh) | 3:59 | 2026-03-02 |  |
 | [La Batteria \- Dj Babatr Remix](https://open.spotify.com/track/7pNhlQ5Zhst1GeH6oBD6ME) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [La Batteria \(Dj Babatr Remix\)](https://open.spotify.com/album/2W1XJ8Co2EbGSnfZRLFNj7) | 5:45 | 2026-03-02 |  |
 | [Mania](https://open.spotify.com/track/07Scld4OmuhvuokTkOHneZ) | [Josh Caffé](https://open.spotify.com/artist/3JOct1LuzqDQHeCHuHjpM2) | [Poppa Zesque](https://open.spotify.com/album/6EW1u8G8ZAMKgDYrLVAEpg) | 6:10 | 2026-03-02 |  |
@@ -60,6 +61,7 @@
 | [T00STEP](https://open.spotify.com/track/5MzR3ttkqFVCBkscYr7fFz) | [SEES00000](https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45) | [T00STEP](https://open.spotify.com/album/7FCTs0W90tv2y0i0UprCx4) | 3:56 | 2026-03-02 |  |
 | [TCP Burn](https://open.spotify.com/track/592IqSmoQlqYWsc0vWfvWI) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [SickElixir](https://open.spotify.com/album/59aRCCtOb1yMhdN9TM53zR) | 2:38 | 2026-03-02 |  |
 | [The False Economy](https://open.spotify.com/track/6FCWwRr6OJs1K7tQUXurcL) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [All Systems Are Lying](https://open.spotify.com/album/5YrUPQ9Xib98i41d6caVl8) | 4:14 | 2026-03-02 |  |
+| [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 | 2026-06-01 |  |
 | [Touch Me](https://open.spotify.com/track/3WI90t1eZ2ZEwBk2Ppm4qF) | [Hekt](https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1) | [Touch Me](https://open.spotify.com/album/7qRaFX4mdQz9Id7zU06UXh) | 3:42 | 2026-03-02 |  |
 | [Trópico Eléctrico](https://open.spotify.com/track/6wfyATooqFaROQnkmeB3I3) | [Luke Hovey](https://open.spotify.com/artist/3gd2jHvnYcd20gXy8jzaXf), [WATTO](https://open.spotify.com/artist/4b54IerEu9mw3OgGPLAi13) | [Trópico Eléctrico](https://open.spotify.com/album/2IkWivW7N6wSz1Gk76Icro) | 4:03 | 2026-03-02 |  |
 | [Under The Ocean](https://open.spotify.com/track/4JQNvmZIDSG2xWL40txXNf) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Under The Ocean](https://open.spotify.com/album/4m2CIu8Pkh32Z2pgZD0Zli) | 5:13 | 2026-03-02 |  |

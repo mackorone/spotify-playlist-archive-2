@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 385988,
+  "num_followers": 385993,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Lost On You",
-        "url": "https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 195579,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "We Were Young",
         "url": "https://open.spotify.com/album/1kL8jd0kT5v75FP5pm0MQg"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 293158,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/76zINUrMkJR2DRufWj7S9u"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 195579,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB"
     },
     {
       "added_at": "2024-07-05 21:33:59",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Instinct",
-        "url": "https://open.spotify.com/album/2umLwGbP7gJ1QdaznHzxcW"
-      },
-      "artists": [
-        {
-          "name": "Josh Cashman",
-          "url": "https://open.spotify.com/artist/62wsyfgYMWrbayHMZixc8m"
-        }
-      ],
-      "duration_ms": 284546,
-      "name": "Instinct",
-      "url": "https://open.spotify.com/track/4DYs87Ykz0A1khI80nYF9F"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Colorado (feat. Carlie Hanson)",
         "url": "https://open.spotify.com/album/2Z7pxzctvYN8zwWmtJRnCO"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 202666,
       "name": "Colorado (feat. Carlie Hanson)",
       "url": "https://open.spotify.com/track/5sNMU0zWZvWnutYz5ySuYY"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Instinct",
+        "url": "https://open.spotify.com/album/2umLwGbP7gJ1QdaznHzxcW"
+      },
+      "artists": [
+        {
+          "name": "Josh Cashman",
+          "url": "https://open.spotify.com/artist/62wsyfgYMWrbayHMZixc8m"
+        }
+      ],
+      "duration_ms": 284546,
+      "name": "Instinct",
+      "url": "https://open.spotify.com/track/4DYs87Ykz0A1khI80nYF9F"
     },
     {
       "added_at": "2024-07-05 21:33:59",

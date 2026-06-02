@@ -4,7 +4,7 @@
 
 > Heia Norge 🇳🇴⚽️🏟️
 
-236 songs - 10 hr 56 min
+237 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [KLOVN](https://open.spotify.com/track/5LMUzJc43DaksLiWeueJ18) | [Rakkere](https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25), [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP) | [KLOVN](https://open.spotify.com/album/4Z9UA2PgWm8mnUPcWGbazC) | 3:06 | 2024-10-10 | 2024-11-08 |
 | [Klubben Pumper](https://open.spotify.com/track/38utgpdjianr2f9ta4acyi) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Klubben Pumper](https://open.spotify.com/album/273G5MBwL44VfGR0tlsO0h) | 2:31 | 2026-03-12 | 2026-05-29 |
 | [konfetti](https://open.spotify.com/track/1qL6kHMI4KPCzG08xXQY1d) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [konfetti](https://open.spotify.com/album/3l1hJrenFvmlaFVfKCGeuo) | 2:41 | 2024-08-22 | 2024-09-06 |
+| [Kongens Menn \(feat\. Birkelunden Mannskor\)](https://open.spotify.com/track/0i4UcILImgKSCbfaHsJg5P) | [Kongens Menn](https://open.spotify.com/artist/6aJxLVgZ5875f0URSeQpRX), [Birkelunden Mannskor](https://open.spotify.com/artist/2zfbcqB6axSNewctgkHOQD) | [Kongens Menn](https://open.spotify.com/album/6L4F4xbRSmQAKO99PyCABm) | 2:48 | 2026-06-01 |  |
 | [Kun i kveld](https://open.spotify.com/track/6PIkK5x2L0t4v10BofX67d) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Kun i kveld](https://open.spotify.com/album/4jhm1B2vDAGkhlnVJWoZ3S) | 2:20 | 2024-09-12 | 2024-10-25 |
 | [Kunne vi](https://open.spotify.com/track/2zIQ3Sgm3lEMpVRz2hKQao) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh) | [Kunne vi](https://open.spotify.com/album/285MzfmGoQE0a1MTPzZxPN) | 2:13 | 2024-09-05 | 2024-11-04 |
 | [La meg leve](https://open.spotify.com/track/14JwY1qZ2Y7AP9OsYb18DO) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [La meg leve](https://open.spotify.com/album/6oTl6TkEuWOesP1lM8NDqj) | 2:05 | 2025-10-02 | 2026-05-29 |

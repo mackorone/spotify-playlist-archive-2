@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,239 songs - 2 day 20 hr 55 min
+1,240 songs - 2 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1098,6 +1098,7 @@
 | [Theory](https://open.spotify.com/track/1qCEAyfBpdPhs7hLcZO9Dn) | [Nohost](https://open.spotify.com/artist/0LJ2EQmZqB05sPEtr1nTuI) | [Monstercat Instinct Selections 02](https://open.spotify.com/album/6DCXQ7sTyFktwFGwsPBzNQ) | 3:37 | 2026-05-04 |  |
 | [Therapy \- VIP](https://open.spotify.com/track/4DJoqSLh5xeRGWd3iFkG7H) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Therapy \(VIP\)](https://open.spotify.com/album/7aBvVvj3FvFtC1324hgKmM) | 2:47 | 2024-12-12 | 2025-03-22 |
 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 | 2024-09-05 | 2024-11-28 |
+| [Think About Your Love](https://open.spotify.com/track/6Uo4h2tDpc8sKbgTH1Gt4A) | [OKO UK](https://open.spotify.com/artist/5oFM5kxRXZI1qOzvdyPkkV), [XLVR](https://open.spotify.com/artist/3fom1pernUdgyIJm1HgadE) | [Think About Your Love](https://open.spotify.com/album/44PN2pfrGSxF4RN8t9Cy4V) | 3:26 | 2026-06-01 |  |
 | [this feeling that never ends](https://open.spotify.com/track/4YMmmpFYgC29DqDqjghjuT) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:30 | 2022-11-30 | 2023-03-02 |
 | [This Is The Life We Dreamed Of](https://open.spotify.com/track/3pUcJ0iqUjdBp5Tecep22N) | [IPeiqi](https://open.spotify.com/artist/62ttTweDvqEfd60TMZaUzc) | [This Is The Life We Dreamed Of](https://open.spotify.com/album/1Mf5B4sfQnNMkpxt20SZvE) | 3:48 | 2022-03-11 | 2022-05-24 |
 | [Threats](https://open.spotify.com/track/4J9A0BRmF6Blem0EdnqS8e) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Versa](https://open.spotify.com/artist/7lm6PfYsdEvxXIqA5LaCA3) | [Threats](https://open.spotify.com/album/3v3GWfZZoZyJqDjQ9TijDS) | 2:51 | 2025-04-30 | 2025-07-24 |

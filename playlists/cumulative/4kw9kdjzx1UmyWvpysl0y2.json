@@ -22773,6 +22773,28 @@
     },
     {
       "album": {
+        "name": "Think About Your Love",
+        "url": "https://open.spotify.com/album/44PN2pfrGSxF4RN8t9Cy4V"
+      },
+      "artists": [
+        {
+          "name": "OKO UK",
+          "url": "https://open.spotify.com/artist/5oFM5kxRXZI1qOzvdyPkkV"
+        },
+        {
+          "name": "XLVR",
+          "url": "https://open.spotify.com/artist/3fom1pernUdgyIJm1HgadE"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206057,
+      "name": "Think About Your Love",
+      "url": "https://open.spotify.com/track/6Uo4h2tDpc8sKbgTH1Gt4A"
+    },
+    {
+      "album": {
         "name": "this feeling that never ends",
         "url": "https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: WILLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,225 likes - 149 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,193 likes - 149 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

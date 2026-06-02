@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: YG
 
-1,634 songs - 3 day 3 hr 52 min
+1,635 songs - 3 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1342,6 +1342,7 @@
 | [Stand On It \(with Future\)](https://open.spotify.com/track/7H3lr9bsPBGFx5NyTuBBGc) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:00 | 2024-02-16 | 2024-02-18 |
 | [Stand Over Music](https://open.spotify.com/track/1ezBNl54V0EWpAL7h9rpal) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [Don't Trust Me](https://open.spotify.com/album/31BQ8N7t9iWv9LTsCALzbH) | 3:57 | 2025-05-30 | 2026-05-09 |
 | [Standing On Business](https://open.spotify.com/track/4fKaJnL9jseJhKolMgIjgE) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Before We Party](https://open.spotify.com/album/27GCBOOnc3L4SzKPDF0nWq) | 2:22 | 2024-09-27 | 2024-10-26 |
+| [Star](https://open.spotify.com/track/5hJvUFs1STKrodPsOk4DYZ) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [BastardChild](https://open.spotify.com/album/78peygM9sPeSRrBvhpjNvN) | 2:42 | 2026-05-29 |  |
 | [Star Baby](https://open.spotify.com/track/5iF6yDcOpHBDROoa1I6c6J) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [LOVE HURTS.](https://open.spotify.com/album/0D5FsRdiOSpSxsi1x7C4hT) | 2:29 | 2025-12-05 | 2026-01-24 |
 | [Start Dissin'](https://open.spotify.com/track/0KQgnz1CwlDqajn2SXZCzZ) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Spank Nitti James](https://open.spotify.com/artist/4JxatpbcAgr7UWnIngnNPD), [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Start Dissin'](https://open.spotify.com/album/36XBvmmkGQEy0gkBAlkp4V) | 3:43 | 2025-09-12 | 2025-09-27 |
 | [Started Off Good \(feat\. Wallie the Sensei & G Perico\)](https://open.spotify.com/track/3a7XFTycLuzNbkq4rflSP6) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5), [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [Forever On That](https://open.spotify.com/album/7veyzptFlB7p7knPCY7FHG) | 2:48 | 2024-06-07 | 2024-06-15 |

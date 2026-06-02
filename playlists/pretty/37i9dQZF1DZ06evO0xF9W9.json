@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahoogAAAAAAVGUMM2Wuy2vNBna3BAxRs",
+  "snapshot_id": "aht6AAAAAABtYCMixiIJmxv6hopnTRhp",
   "tracks": [
     {
       "added_at": null,
@@ -187,30 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHARTiANDO",
-        "url": "https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG"
-      },
-      "artists": [
-        {
-          "name": "Latinnites Music",
-          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
-        },
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Diamond la Mafia",
-          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
-        }
-      ],
-      "duration_ms": 172198,
-      "name": "CHARTiANDO",
-      "url": "https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Actua",
         "url": "https://open.spotify.com/album/59Ii7JcTRINr6G3iVsmo3b"
       },
@@ -255,6 +231,30 @@
       "duration_ms": 188969,
       "name": "Leyenda",
       "url": "https://open.spotify.com/track/1xM9xOhQlicmrc0tRvcNCK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHARTiANDO",
+        "url": "https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG"
+      },
+      "artists": [
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Diamond la Mafia",
+          "url": "https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX"
+        }
+      ],
+      "duration_ms": 172198,
+      "name": "CHARTiANDO",
+      "url": "https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Puto Amo",
+        "url": "https://open.spotify.com/album/2Kz1M3efVHHJ9f4azQ14zA"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        }
+      ],
+      "duration_ms": 126205,
+      "name": "El Puto Amo",
+      "url": "https://open.spotify.com/track/2cE8NFkwGrPBUwChlpkqaG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soledad",
         "url": "https://open.spotify.com/album/78TTKt4xwI5HPfTv57EyHp"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 195056,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/7b2ondpAcEVseJO5t9n4FB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Puto Amo",
-        "url": "https://open.spotify.com/album/2Kz1M3efVHHJ9f4azQ14zA"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        }
-      ],
-      "duration_ms": 126205,
-      "name": "El Puto Amo",
-      "url": "https://open.spotify.com/track/2cE8NFkwGrPBUwChlpkqaG"
     },
     {
       "added_at": null,

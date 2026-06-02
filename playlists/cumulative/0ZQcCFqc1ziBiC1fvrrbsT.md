@@ -4,7 +4,7 @@
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-5,216 songs - 13 day 23 hr 27 min
+5,217 songs - 13 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2635,6 +2635,7 @@
 | [Levitate](https://open.spotify.com/track/54sxFKDI5OeXhqrCn2hGJX) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Jellywish](https://open.spotify.com/album/14c7ejHmWUNwierZGDN5Qb) | 2:49 | 2025-04-04 | 2025-04-19 |
 | [LFO \(Lupe Finds Oliveros\)](https://open.spotify.com/track/67D1DphJpan1hFNs7H5O8i) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [LFO \(Lupe Finds Oliveros\)](https://open.spotify.com/album/0DkVX02cJFDAvuovLNz16Y) | 3:06 | 2023-10-20 | 2023-10-28 |
 | [Liar](https://open.spotify.com/track/09j7RIpXYTfic5Uds4CHsa) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Liar](https://open.spotify.com/album/0TMn3YSFvsM1sVl5COdjVO) | 3:22 | 2022-07-29 | 2022-08-06 |
+| [Liars](https://open.spotify.com/track/6485JQQNgQ9xN4dVuV33Lw) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Liars](https://open.spotify.com/album/78yhELiG1ccrGIxAToHGEl) | 3:46 | 2026-06-01 |  |
 | [Liars Tale](https://open.spotify.com/track/0YJizAvRp2i7MCs99rJWW0) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [Liars Tale](https://open.spotify.com/album/1BJNYGK987nM5UrDBLNrqe) | 3:17 | 2026-01-30 | 2026-02-07 |
 | [Liberty Print](https://open.spotify.com/track/60B07L7JYEj0ybkfXLqsdW) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Liberty Print](https://open.spotify.com/album/1ykbR4iwlKdRxxmrJ964yX) | 5:14 | 2024-04-12 | 2024-04-20 |
 | [Lie 95](https://open.spotify.com/track/0QsyCIEVXMXMfh8h5DHwZy) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Lie 95](https://open.spotify.com/album/7bgvD3tFUHpcDk8m2l932P) | 2:41 | 2024-07-12 | 2024-07-20 |

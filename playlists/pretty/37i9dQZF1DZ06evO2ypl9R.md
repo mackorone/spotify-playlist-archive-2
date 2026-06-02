@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ypl9R.md) - [plain]
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,903 likes - 50 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,903 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ypl9R.md) - [plain]
 | 27 | [Same Thing \- Vocal Mix](https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Maiya James](https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6) | [Same Thing](https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP) | 6:19 |
 | 28 | [Envisions \- Âme Acoustic Remix](https://open.spotify.com/track/14LxnNcx4dNrJlfGOJxpEE) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Chill Out \(Sit Back And Relax\)](https://open.spotify.com/album/5mu0dUqF2CfqijJet4yYsJ) | 3:49 |
 | 29 | [A Time To Remember \- Remix](https://open.spotify.com/track/2igFnucx4r1uHG40yilbGy) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Blue Note Revisited](https://open.spotify.com/album/7DNMdBpvFLtwdu9FCUBQ1h) | 4:43 |
-| 30 | [The Roads Of Kenya](https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 2:51 |
-| 31 | [Brand New Feeling \- Yoruba Soul Mix Part 1](https://open.spotify.com/track/5udRnyoTYZRr44pXCOCo7p) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Brand New Feeling \- Yoruba Soul Remixes](https://open.spotify.com/album/470ou8bSscstQ53wB8gVYE) | 7:27 |
+| 30 | [Brand New Feeling \- Yoruba Soul Mix Part 1](https://open.spotify.com/track/5udRnyoTYZRr44pXCOCo7p) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Brand New Feeling \- Yoruba Soul Remixes](https://open.spotify.com/album/470ou8bSscstQ53wB8gVYE) | 7:27 |
+| 31 | [A Day Without U](https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 3:37 |
 | 32 | [Cantos a Ochun et Oya \- Juan Valentine Re\-Edit](https://open.spotify.com/track/7CmRM4JiOswdLdF28NyajZ) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Frankie Feliciano](https://open.spotify.com/artist/5KjteRQRJaHk16aYeZ08Ej), [Juan Valentine](https://open.spotify.com/artist/3GDUvKkbqtscZQHS8Zrzni) | [Cantos A Ochun et Oya \[Juan Valentine ReEdit\]](https://open.spotify.com/album/6k6ANYZCzmhF4KyKxUsPMx) | 7:05 |
 | 33 | [Natives Tongue](https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Natives Tongue](https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl) | 3:56 |
-| 34 | [A Day Without U](https://open.spotify.com/track/5v5nbBMc1XDmIh2LML9HLA) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 3:37 |
+| 34 | [The Roads Of Kenya](https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 2:51 |
 | 35 | [Let's Invade the Amazon \- Yoruba Soul Mix](https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc) | [Casbah 73](https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Let's Invade the Amazon \(Yoruba Soul Mix\)](https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL) | 6:22 |
 | 36 | [Cosmic Signs](https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Dedication EP](https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX) | 3:13 |
 | 37 | [YOUniversal Love](https://open.spotify.com/track/7fLfJbK21ZnYy5dzzSK9Jr) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Starbase 17](https://open.spotify.com/album/4aT3UTD8y8mFbDzONNlkHg) | 6:15 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ypl9R.md) - [plain]
 | 46 | [Sistagurl](https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Prism EP](https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby) | 5:40 |
 | 47 | [Walkin' in Paris](https://open.spotify.com/track/6FT47gn7jWEL31VHB41UZw) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 5:04 |
 | 48 | [We Call Love](https://open.spotify.com/track/0orJzfilEns6w4Qo7TMibG) | [Art Department](https://open.spotify.com/artist/7Gsu15RkjjdKhMecdRpk9x), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD) | [We Call Love](https://open.spotify.com/album/1FCRVkwVO9nrIzEWrIoYhv) | 6:18 |
-| 49 | [Oia In Winter](https://open.spotify.com/track/6Rgn51oKJyCcjLQoPAAIrW) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Aquarian Moon](https://open.spotify.com/album/7L9DbyxlXNlTwrtsVBTYuy) | 4:21 |
-| 50 | [Amnesia](https://open.spotify.com/track/2S7PGZYwLFzzqjp0WCP4XO) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/52jbKRpd9w9aw47fKQckOF) | 5:13 |
+| 49 | [Build a Fire](https://open.spotify.com/track/1mq79cmhhp0bvnOmF8Blb8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Iamone](https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1) | 1:49 |
+| 50 | [Oia In Winter](https://open.spotify.com/track/6Rgn51oKJyCcjLQoPAAIrW) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Aquarian Moon](https://open.spotify.com/album/7L9DbyxlXNlTwrtsVBTYuy) | 4:21 |
 
-Snapshot ID: `ahoogAAAAABZMkuJWrf7Uf80Cwns2XDD`
+Snapshot ID: `aht6AAAAAACcfDux+t+/XOXGrFhIXuIt`

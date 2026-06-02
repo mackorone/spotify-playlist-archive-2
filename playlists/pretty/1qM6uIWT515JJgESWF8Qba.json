@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 455,
+  "num_followers": 456,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAABxwrLpqgWOKXNT9MvkYjBJ/zvhveb",
+  "snapshot_id": "AAAByLkWGKkdnU9hZ/gFPrk7Mb70xBjI",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -923,6 +923,22 @@
       "duration_ms": 227245,
       "name": "Plastic World",
       "url": "https://open.spotify.com/track/3KC2RXGgJjiizcah1Dpy60"
+    },
+    {
+      "added_at": "2026-06-01 21:02:09",
+      "album": {
+        "name": "Frange",
+        "url": "https://open.spotify.com/album/3n1xVpqvWtn31Ju321fY2U"
+      },
+      "artists": [
+        {
+          "name": "Maldimarte",
+          "url": "https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD"
+        }
+      ],
+      "duration_ms": 203513,
+      "name": "Frange",
+      "url": "https://open.spotify.com/track/0GJiPCIUEyl5tqbjo53Qbk"
     }
   ],
   "unique_name": "Local Rock Bands",

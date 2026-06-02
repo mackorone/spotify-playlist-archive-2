@@ -11543,6 +11543,24 @@
     },
     {
       "album": {
+        "name": "Jump High (Jump In)",
+        "url": "https://open.spotify.com/album/7dm4Y0dtk5y8R9JlFvL6Ey"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8sard",
+          "url": "https://open.spotify.com/artist/7LMTCzHMeJywCQJFETsdnh"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Jump High (Jump In)",
+      "url": "https://open.spotify.com/track/3oXUYHy5srjrmVHt1Srel5"
+    },
+    {
+      "album": {
         "name": "June",
         "url": "https://open.spotify.com/album/5R8lqTv6VUfTgPyuA3vScp"
       },

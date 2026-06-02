@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/4eqjMjMiYCs2b9gG1m446s"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241886,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/6D2kbomhEQ84KjbMOexvz0"
+    },
+    {
+      "album": {
         "name": "This Empty Northern Hemisphere",
         "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 179866,
       "name": "Feel It All (Willow's Song)",
       "url": "https://open.spotify.com/track/3dX9bqoYbTZkoPK8ngw3rB"
@@ -3306,7 +3324,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 182535,
       "name": "Hold Your Hair",
       "url": "https://open.spotify.com/track/3JPvjupgTUmtJiNL5WJrQw"
@@ -4195,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "Karaoke Bar",
+        "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204467,
+      "name": "Karaoke Bar",
+      "url": "https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN"
+    },
+    {
+      "album": {
         "name": "King of Disappointment",
         "url": "https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X"
       },
@@ -4990,6 +5026,24 @@
       "duration_ms": 188546,
       "name": "Mine",
       "url": "https://open.spotify.com/track/2RghWVQyQe1jIehgQnD1nD"
+    },
+    {
+      "album": {
+        "name": "missing you",
+        "url": "https://open.spotify.com/album/3ybVPvqMAtbyyceiDxu4Tk"
+      },
+      "artists": [
+        {
+          "name": "Tom River",
+          "url": "https://open.spotify.com/artist/6vrVGkC0yApJHtA66iXyTs"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173154,
+      "name": "missing you",
+      "url": "https://open.spotify.com/track/6bh7mHsbv8u9kVWtKqCAcB"
     },
     {
       "album": {
@@ -6814,7 +6868,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 192845,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/55bpoCWPxzbvg5b6ljcHv6"
@@ -7118,7 +7172,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 232420,
       "name": "That's Not Free",
       "url": "https://open.spotify.com/track/7dmAB54LAj0hA7LX6Y44TB"
@@ -7328,6 +7382,24 @@
       "duration_ms": 281497,
       "name": "The Shadow",
       "url": "https://open.spotify.com/track/5NUc11LW8s9hbHkDmCP1iX"
+    },
+    {
+      "album": {
+        "name": "The Start",
+        "url": "https://open.spotify.com/album/2MrxxdT4uByxxo75nRkW6z"
+      },
+      "artists": [
+        {
+          "name": "Brook St",
+          "url": "https://open.spotify.com/artist/0XWlE5RXufPoqsxJgzrrfZ"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220601,
+      "name": "The Start",
+      "url": "https://open.spotify.com/track/7FebQybDHKNDCAoxY1Ee6H"
     },
     {
       "album": {

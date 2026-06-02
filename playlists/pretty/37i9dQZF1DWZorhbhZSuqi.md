@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 
 > to the people who look at the stars and wish 🧚‍♀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,494 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,496 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 5 | [Luminary \(Slowed Down\)](https://open.spotify.com/track/6cWLRE5YPIhuajRVgawuQK) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Luminary](https://open.spotify.com/album/2jUVowzF4Qk8IvMEWxXk6E) | 3:32 |
 | 6 | [Where's My Love \- Piano and Viola Version](https://open.spotify.com/track/0L1jqLRKdzZYXQWatvdFi3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Hurt for Me \(Piano & Strings\)](https://open.spotify.com/album/2ukMZuGD1JcHgD3ngDWNhA) | 3:44 |
 | 7 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 |
-| 8 | [Fairytale \(Violin\)](https://open.spotify.com/track/1YFA2vnDRM6NtZlh0U3kRq) | [Dramatic Violin](https://open.spotify.com/artist/7xFAkXgK99h0nlTo1kHagi) | [Fairytale \(Violin\)](https://open.spotify.com/album/5IpSg9YahGaMNaTi38lKoZ) | 2:38 |
+| 8 | [Fairytale \(Violin\)](https://open.spotify.com/track/1YFA2vnDRM6NtZlh0U3kRq) | [The Dramatic Society](https://open.spotify.com/artist/7xFAkXgK99h0nlTo1kHagi) | [Fairytale \(Violin\)](https://open.spotify.com/album/5IpSg9YahGaMNaTi38lKoZ) | 2:38 |
 | 9 | [To Keep You from Breaking](https://open.spotify.com/track/7rIf53zRSn4zAyYtUvt8Lr) | [Kelsey Woods](https://open.spotify.com/artist/0561irRxpOH0x1qJi6C80Y) | [To Keep You from Breaking](https://open.spotify.com/album/5JCNG1G2iZHzn6Ki65Yl7H) | 1:51 |
 | 10 | [Love Story](https://open.spotify.com/track/6nGeLlakfzlBcFdZXteDq7) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Mini World](https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH) | 5:16 |
 | 11 | [The Bog Bodies \- Dorm Demo](https://open.spotify.com/track/160XbT2fXx7qEmFQTvCqbx) | [Rabbitology](https://open.spotify.com/artist/5FHvHqIRjr9ePQ3B1kwoEO) | [The Bog Bodies \(Dorm Demo\)](https://open.spotify.com/album/2BK9Fz46nZzZVcQyUokEdd) | 2:50 |

@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Capsula",
-  "num_followers": 155472,
+  "num_followers": 155477,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-05-29 03:03:04",
       "album": {
+        "name": "Coisas da Vida",
+        "url": "https://open.spotify.com/album/1UJSIqXoXSgeZMGwrY0jT7"
+      },
+      "artists": [
+        {
+          "name": "Paulo Miklos",
+          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Coisas da Vida",
+      "url": "https://open.spotify.com/track/1jmlizXsOJiT8KNyOiQKEn"
+    },
+    {
+      "added_at": "2026-05-29 03:03:04",
+      "album": {
         "name": "One (Songs Of Surrender)",
         "url": "https://open.spotify.com/album/0PeDmZjgRyVSgqZPTpgwEq"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 193469,
       "name": "Tela Quente - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1PvGWfUNdGceuhwKR5ruha"
-    },
-    {
-      "added_at": "2026-05-29 03:03:04",
-      "album": {
-        "name": "Coisas da Vida",
-        "url": "https://open.spotify.com/album/1UJSIqXoXSgeZMGwrY0jT7"
-      },
-      "artists": [
-        {
-          "name": "Paulo Miklos",
-          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Coisas da Vida",
-      "url": "https://open.spotify.com/track/1jmlizXsOJiT8KNyOiQKEn"
     },
     {
       "added_at": "2026-05-29 03:03:04",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-05-29 03:03:04",
       "album": {
-        "name": "Vida Real",
-        "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
-      },
-      "artists": [
-        {
-          "name": "Esteban Tavares",
-          "url": "https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o"
-        }
-      ],
-      "duration_ms": 230565,
-      "name": "Vida Real",
-      "url": "https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il"
-    },
-    {
-      "added_at": "2026-05-29 03:03:04",
-      "album": {
         "name": "P\u00e1ssaro Livre",
         "url": "https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2026-05-29 03:03:04",
       "album": {
-        "name": "Vamos Correr Pro Mar",
-        "url": "https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ"
+        "name": "Vida Real",
+        "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
       },
       "artists": [
         {
-          "name": "Seu Cuca",
-          "url": "https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b"
+          "name": "Esteban Tavares",
+          "url": "https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o"
         }
       ],
-      "duration_ms": 206677,
-      "name": "Vamos Correr Pro Mar",
-      "url": "https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35"
+      "duration_ms": 230565,
+      "name": "Vida Real",
+      "url": "https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il"
     },
     {
       "added_at": "2026-05-29 03:03:04",
@@ -799,6 +783,22 @@
       "duration_ms": 196457,
       "name": "Nada Mudou",
       "url": "https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR"
+    },
+    {
+      "added_at": "2026-05-29 03:03:04",
+      "album": {
+        "name": "Vamos Correr Pro Mar",
+        "url": "https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ"
+      },
+      "artists": [
+        {
+          "name": "Seu Cuca",
+          "url": "https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b"
+        }
+      ],
+      "duration_ms": 206677,
+      "name": "Vamos Correr Pro Mar",
+      "url": "https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35"
     },
     {
       "added_at": "2026-05-29 03:03:04",

@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,403 songs - 5 day 20 hr 11 min
+2,409 songs - 5 day 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Before You Go](https://open.spotify.com/track/5TCcUv3blSCoDEoet5CCvl) | [J.V\. Ferreira](https://open.spotify.com/artist/71IyZPuWgamI0vGHr0YKj7) | [Before You Go](https://open.spotify.com/album/5tYwJmMTfqvc8A0oliLoQp) | 3:37 | 2025-03-24 |  |
 | [Behind Every Light](https://open.spotify.com/track/2xDrlOKDnYtXAntJMV1iM6) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 1:58 | 2025-12-17 |  |
 | [Believe \(If You Feel\) \- Spotify Exclusive](https://open.spotify.com/track/4Vy3fIkIRJgW4HnGpcv6zZ) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Believe \(If You Feel\) \- Spotify Exclusive](https://open.spotify.com/album/01x3mjTfAcdyEWa4uK9QAW) | 3:30 | 2026-01-27 |  |
+| [Bella Anima](https://open.spotify.com/track/0KmN9pdfaqUdV5jvENSXFm) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Not All Eyes Are Green](https://open.spotify.com/album/5uIS1c0hRQZY3H8eIHNCrJ) | 1:57 | 2026-06-01 |  |
 | [Beside U](https://open.spotify.com/track/4qCpULRWzhWbmlYebMiX9v) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9), [DatBoi 23](https://open.spotify.com/artist/4vKO24n3S0KcjQmsuPkb3g) | [Rotten Melodies](https://open.spotify.com/album/31cLKUhgugZvtrd0bvzioa) | 2:03 | 2024-10-22 |  |
 | [Bessere Welt](https://open.spotify.com/track/6NIOjyusEUxmkl758p5T25) | [Andreas Nock](https://open.spotify.com/artist/3jcSIBMX1Kx8OkxJdZBkLv) | [Bessere Welt](https://open.spotify.com/album/774sDlcfRfiwRIrHXgdYGI) | 2:26 | 2024-12-04 |  |
 | [Best In Mind](https://open.spotify.com/track/6xWOPuc4yh1jUSvHbsbGQM) | [The Reeves Brothers](https://open.spotify.com/artist/0jbIQai36wrkBnRqHrc6gx) | [Best In Mind](https://open.spotify.com/album/2Xd3csom3BVvU0EGrd2MjW) | 3:24 | 2025-05-30 |  |
@@ -406,6 +407,7 @@
 | [Crush](https://open.spotify.com/track/02SdEM0St5vODiPaQgv8l0) | [Jake Moralez](https://open.spotify.com/artist/4PwNxhWQEr9Na1sVQqP1ru), [Lizi Aquilina](https://open.spotify.com/artist/7FRZbXjxvEqWDZzu6ho7WY) | [Crush](https://open.spotify.com/album/4t9snIQLi3Ngsr8diTf4n2) | 3:27 | 2026-02-18 |  |
 | [Cruz de caminos](https://open.spotify.com/track/66DeNfPf59jLNqICHWlEN1) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 6:34 | 2026-04-03 |  |
 | [Cry](https://open.spotify.com/track/19FsXIJBxPSBq3tzKH0UPK) | [Emery Evans](https://open.spotify.com/artist/449FmvBxTfX6cbYVV08xyD) | [Don't ruin it for me](https://open.spotify.com/album/34nkeuipxMRfKRDi8nQOce) | 4:07 | 2025-10-13 |  |
+| [Cry](https://open.spotify.com/track/2Zr2FjVPvCstdW2kLkU3mr) | [Vaughn Velvet](https://open.spotify.com/artist/6pYBVLW10Qq3JX0oSaJOBG) | [Black Velvet Burn Rumble Edition](https://open.spotify.com/album/6zMI0xFLVn7607QjxNIrtt) | 2:39 | 2026-06-01 |  |
 | [Cualquier verano](https://open.spotify.com/track/0W5rI1Z2SJ36gYPb9TZk6I) | [CUCA](https://open.spotify.com/artist/11c0zLA7ELr8vJTyHcgAGf) | [Cualquier verano](https://open.spotify.com/album/2z6R6gtJzOfzhLRhAuXNUC) | 3:10 | 2025-02-05 |  |
 | [Cut Him Loose](https://open.spotify.com/track/7KTXkYe44yVXD1fJVY6R2j) | [Panic Man Dan](https://open.spotify.com/artist/3hpLPLyt4SQxIDKtbUdPU3) | [Cut Him Loose](https://open.spotify.com/album/5qRqJfma32kcXJ1tTlv8Ba) | 3:26 | 2024-05-14 |  |
 | [Cyber Boat](https://open.spotify.com/track/2DGpnS4l9A1R3vDkALrqxY) | [VibeCreator](https://open.spotify.com/artist/2gX3FN31FeQMa0Y7myRa8G) | [Cyber Boat](https://open.spotify.com/album/0npby7a2QEsxDCsNNDoXfu) | 1:39 | 2026-05-05 |  |
@@ -951,6 +953,7 @@
 | [I Wanna Be Yours](https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:03 | 2025-11-17 |  |
 | [i wanna take off your clothes](https://open.spotify.com/track/2g41PA6KsYjCMUqcmvbfMo) | [Angel3va](https://open.spotify.com/artist/4EllMkGKscCY3TZoGAnlgV) | [TENSION](https://open.spotify.com/album/2jT1lxm2fiaOfZkRpf2wvC) | 2:42 | 2025-10-29 |  |
 | [I Want You](https://open.spotify.com/track/4N01Tocw86sruTIJVHKZeh) | [Goth Star](https://open.spotify.com/artist/67zqOWq2ao3mYj2aviXHZ9) | [Goth Star](https://open.spotify.com/album/4ICVZzViTjSFPl8M497IXJ) | 3:00 | 2025-11-17 |  |
+| [I will be sovereign \- acoustic version](https://open.spotify.com/track/0FFde7UAaerp5uvQUBFCU3) | [KraHbichT](https://open.spotify.com/artist/6BviIFP7ZRxpgu79x7Y8a8) | [The other side \(When everything is..\. acoustic! Vol\. I\)](https://open.spotify.com/album/4h02NUFK61jm2Z0p6ZL8Kv) | 4:35 | 2026-06-01 |  |
 | [I Will Take You To Hell](https://open.spotify.com/track/6jcFAG4Tqw2klTj8KPFEZF) | [Highway Queen](https://open.spotify.com/artist/6HV2ATap9CHsc4EcZnzc4u) | [Extendead Play](https://open.spotify.com/album/5kf27yA2pk86epIZc20WlB) | 4:00 | 2025-06-24 |  |
 | [I Wish You Luck](https://open.spotify.com/track/1r7gv1DoQyaEYRtm7Lmg1V) | [Dancing Armadillo](https://open.spotify.com/artist/7b2rS7Tg0w7BvZPyGpx1mt) | [I Wish You Luck](https://open.spotify.com/album/64FlVk8Yx0oAsqhXdYazpR) | 3:50 | 2026-01-31 |  |
 | [I Won't Wait](https://open.spotify.com/track/3Y7HGwIzrWQrOmGtJgf4qW) | [James Freeborn](https://open.spotify.com/artist/5AcQEHF71spqzUSE5IFnA3) | [Mesas and Moons](https://open.spotify.com/album/3oCVK4QamOijiUByX8ySrW) | 3:41 | 2024-08-02 |  |
@@ -1357,6 +1360,7 @@
 | [My Private World Of Darkness](https://open.spotify.com/track/1qY6aiE9gPwb0ty748kGip) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [My Private World Of Darkness](https://open.spotify.com/album/1LAHkhsFyD6e88puBAb5Z3) | 2:25 | 2025-12-01 |  |
 | [My Saviour](https://open.spotify.com/track/3ZazOI4IXxcTbvTBjsnULA) | [Little Fables](https://open.spotify.com/artist/5eRmLnXByFps5ZVRsJyy0c) | [My Saviour](https://open.spotify.com/album/5OLyo38j8pJAk8pctrcVbu) | 3:34 | 2026-02-11 |  |
 | [My shed](https://open.spotify.com/track/6mYZTMFxu9hYV2b7JY5Ore) | [Atropos Will Fly](https://open.spotify.com/artist/66loxBpT27MYxOZcIIoh2M) | [Reflections](https://open.spotify.com/album/5snKtFuiZiagSS7aXNBuqq) | 4:28 | 2024-07-12 |  |
+| [My Summer Love](https://open.spotify.com/track/4OUxYPBbrujuFLCyWVe1kJ) | [Marios Papalexis](https://open.spotify.com/artist/4LVxkX59xWHTrIhwI78A6K) | [Love Paths \(Remastered\)](https://open.spotify.com/album/3NuIHFKN8mPdjOgKCOSINd) | 2:08 | 2026-06-01 |  |
 | [Mystery](https://open.spotify.com/track/3KzmyF847TnzXARO7u2T9h) | [Mark Millar](https://open.spotify.com/artist/1iibSB0v1MIXHVAnC4pgxC) | [Mystery](https://open.spotify.com/album/6RxjcXZ1ND99XotBE86AS7) | 4:04 | 2024-07-16 |  |
 | [Métro](https://open.spotify.com/track/7xFloyGnH8uQRsEyJhtLI8) | [willowed](https://open.spotify.com/artist/5o2YW4HKfS8fWumXu3TtPb) | [Métro](https://open.spotify.com/album/4DpFbNhu6rekdaWOeFL5pQ) | 3:46 | 2024-09-03 |  |
 | [Na Outra Margem](https://open.spotify.com/track/64HjUpaKosJdsoStgY6MfT) | [SevenShadows](https://open.spotify.com/artist/178U22U6maut0EDjZf5HTU) | [Na Outra Margem](https://open.spotify.com/album/13AqUq8CYe06zSNkoAoDci) | 3:26 | 2026-03-30 |  |
@@ -2135,6 +2139,7 @@
 | [TWIRLING IN MY RED BOOTS](https://open.spotify.com/track/6yVDUBpznQK5L5DbSPPVU7) | [Marley Angel](https://open.spotify.com/artist/3cpd6XFLnAniWkOu74xZxA) | [ONE NIGHT ONLY](https://open.spotify.com/album/3WLz3g4mOl6IdP1yVZ9RJM) | 2:43 | 2024-05-20 |  |
 | [TWIST](https://open.spotify.com/track/2kM8OoQYaPetarV2TkGmRY) | [Joe T\. Johnson](https://open.spotify.com/artist/1KfLg5hchfgDMS2e0kaVDF) | [TWIST](https://open.spotify.com/album/7gKyjunMzjHqL24YbTGQsx) | 2:27 | 2024-04-17 |  |
 | [Two Hearts](https://open.spotify.com/track/7dqwoYsPal0CryxyCN5IoL) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [Two Hearts](https://open.spotify.com/album/0JMcv3JxCuIPFkyXZoJQQy) | 4:05 | 2026-05-18 |  |
+| [Two Is The Same As Three](https://open.spotify.com/track/1v6A6uG26alJXi3TB21iQ2) | [PsychoAcoustic SoundClash](https://open.spotify.com/artist/1EfDU2YEap9aF5yhAuHUQG) | [Recycled Culture](https://open.spotify.com/album/1SKCCEW8YU60KpZJMu5bkO) | 3:56 | 2026-06-01 |  |
 | [Two Mommies Two Dads and No Future](https://open.spotify.com/track/7bHNI2kVP2LYKuX97vLN7r) | [LyGlynay](https://open.spotify.com/artist/6IQ5X616FWz9Q0bmHAz9Ei) | [Against Cultural Marxism](https://open.spotify.com/album/21eHI6TirDFCnz8WE1kLOO) | 3:34 | 2024-08-20 |  |
 | [U progu dnia](https://open.spotify.com/track/6GalGDVYIMlLXUVKl6apGg) | [emilia pawłowska](https://open.spotify.com/artist/0ap0LwD965bk2RBuQXMg48) | [Niebo nad jeziorem](https://open.spotify.com/album/5SGLcjqYDiZ4exarPZJsut) | 4:25 | 2024-09-09 |  |
 | [uh lalala](https://open.spotify.com/track/3YJn7dN4N05HprwUoo5VYA) | [JUAN HUMO](https://open.spotify.com/artist/3WXP65ZKIX6dfhOhrFOHsS) | [uh lalala](https://open.spotify.com/album/4FSSVD5eCEfIoUgerdQcdO) | 3:35 | 2024-08-05 |  |
@@ -2221,6 +2226,7 @@
 | [Water, Whiskey & Blood](https://open.spotify.com/track/3Ltv7PJ9QKOJvY5FI8ukwS) | [Jason Crowe](https://open.spotify.com/artist/0sLGB6Q7Zlr75d7lwVkDH3) | [Water, Whiskey & Blood](https://open.spotify.com/album/470YgndgnC6im6gsrbL8c8) | 3:40 | 2025-03-06 |  |
 | [Waves Of Steel](https://open.spotify.com/track/4BLqDU1NKtLrD8KcLtWgwx) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Waves Of Steel](https://open.spotify.com/album/37K8nxgpxiIajsh3lQAm3A) | 3:08 | 2025-04-24 |  |
 | [Waves Waves](https://open.spotify.com/track/2s6G5xh6JQYSQ1hHsZ8MWE) | [CS Hellmann](https://open.spotify.com/artist/6S7H0M3iwMR6dURBdDYixG) | [Waves Waves](https://open.spotify.com/album/5TMC353y44x5ra1WA84gw3) | 4:18 | 2025-07-08 |  |
+| [Way](https://open.spotify.com/track/6KLOrYcWx5D4fm3oGvTBEP) | [Foad Jafari](https://open.spotify.com/artist/0bD1tTxPLVkAFvaHliwAnk) | [Way](https://open.spotify.com/album/5DyrBT1slzCwNfjsSy96CS) | 2:47 | 2026-06-01 |  |
 | [Way](https://open.spotify.com/track/1cl7PUBvbYsSMnwJjGUVhn) | [Koli Gustine](https://open.spotify.com/artist/0y5zZkZNR056Z0r0F5ruKm), [The outrider](https://open.spotify.com/artist/7F3FtmX1PzrVOsjUquQ70M) | [Drama in the Circus](https://open.spotify.com/album/4sapmSZbvRK2fuSoELrWED) | 2:33 | 2026-05-04 |  |
 | [Wayfaring stranger](https://open.spotify.com/track/5mxDs8Vh2Ho262f5OF6IF3) | [Juan El Grande](https://open.spotify.com/artist/1EKGn7PcgUA19OXlhZ7xgS) | [Wayfaring stranger](https://open.spotify.com/album/1x5z1sFMbEzJ6LVrBaDU1B) | 3:38 | 2025-09-05 |  |
 | [We Belong Together](https://open.spotify.com/track/6Zi6DPmrBKx2R1ZA1dGKZi) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp), [Jennifer Saxell](https://open.spotify.com/artist/0vs2u9WEEcDysMQ61C4qaU) | [We Belong Together](https://open.spotify.com/album/1iWVgBefaJmyvJS95b5s7r) | 5:32 | 2025-07-16 |  |

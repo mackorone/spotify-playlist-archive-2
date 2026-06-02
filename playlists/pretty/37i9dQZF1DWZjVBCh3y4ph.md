@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Naïka x Kalash
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,157 likes - 41 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,204 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,6 +48,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 38 | [Ziska la fin](https://open.spotify.com/track/3Scl8u15MUYwElep1DgQY9) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5), [Tidem](https://open.spotify.com/artist/6sTLgEEZMRu3PTRjhyHD2U) | [FOLAM](https://open.spotify.com/album/2Jbala2obJkpWXqT0JlkST) | 2:53 |
 | 39 | [Homme Parfait](https://open.spotify.com/track/7I2eyMgDU5aTq0TyfylNJz) | [Pix'L](https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA) | [Homme Parfait](https://open.spotify.com/album/6vFTchlyI9121gnbXQQjhm) | 2:54 |
 | 40 | [Elle voulait](https://open.spotify.com/track/5ZXttool9cUKnXlvx049FV) | [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN) | [Elle voulait](https://open.spotify.com/album/2UtiPQLm8NKbLIR8xRVyHF) | 3:00 |
-| 41 | [Sans moin](https://open.spotify.com/track/3wVeagnOOc5s5hICWRyKPF) | [Dyrone](https://open.spotify.com/artist/01Og6jVacvaYfaVmCo6fzs), [Dj M'sy](https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c) | [Sans moin](https://open.spotify.com/album/6K2yRWhvi3cPM22gwD5E6f) | 3:08 |
 
-Snapshot ID: `AAAAAOeHrFPkwGGkOzKCCKahjRtfZArZ`
+Snapshot ID: `AAAAAGyBa+fnIAzzmCiVf2Exw9Afsa/T`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-3,087 songs - 6 day 14 hr 1 min
+3,088 songs - 6 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2509,7 +2509,7 @@
 | [Sei tu](https://open.spotify.com/track/7fgEx5OxzDP1hw50mJeDMh) | [Fabrizio Moro](https://open.spotify.com/artist/3ebOqZZsLCDAkLS6QdI8cc) | [Sei tu](https://open.spotify.com/album/54trcKDQoKkvQ71hG9LezJ) | 2:52 | 2022-02-04 | 2022-02-20 |
 | [SEI TU](https://open.spotify.com/track/1MXiEYzY1u2DEfh2cRITv9) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [SEI TU](https://open.spotify.com/album/1D50lfiYDTVclwpb7iThC2) | 3:31 | 2026-02-26 | 2026-03-12 |
 | [Seignosse](https://open.spotify.com/track/1aHWdsWQooVkRhZL2oU8m2) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Seignosse](https://open.spotify.com/album/5TmDheBbiIysuxMl2Qjhfg) | 2:56 | 2022-02-20 | 2022-03-13 |
-| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-05-27 |  |
+| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-05-27 | 2026-06-02 |
 | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/track/62mcxUzMfWpN4ZD9FXmVSI) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [MET GALA](https://open.spotify.com/album/4kS1yg2jnfGJEq0cKiZ7rh) | 3:07 | 2025-10-08 | 2025-10-10 |
 | [SENZ'ANIMA \- nikita](https://open.spotify.com/track/39ZJEJ8KLq8yQQ1OEAdJ1W) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:13 | 2023-05-20 | 2023-06-11 |
 | [Senza Di Me \(feat\. Baby Gang\)](https://open.spotify.com/track/6JJksqiePG5LUjiayW0Kre) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 2:30 | 2023-12-02 | 2023-12-08 |
@@ -2642,6 +2642,7 @@
 | [Spingere](https://open.spotify.com/track/3RgpMcg7uRz9b4Sbn1iXec) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Spingere](https://open.spotify.com/album/5M31DXq0glzwh6sxOrW6Be) | 2:37 | 2024-01-24 | 2024-04-17 |
 | [Spirito Puro \(feat\. Izi & Vegas Jones\)](https://open.spotify.com/track/3TZXi4qWprNqar3trdFtNo) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Cultura Italiana Pt.1](https://open.spotify.com/album/5uNUfyRRg7WrbviPwQVrge) | 4:01 | 2024-06-01 | 2024-06-03 |
 | [Splash](https://open.spotify.com/track/7EZcLhi3EhKMb408cHOQOU) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Splash](https://open.spotify.com/album/7963LrIHyvVfjRCIQWc55t) | 3:29 | 2023-02-10 | 2023-03-29 |
+| [Splinter Cell](https://open.spotify.com/track/3KsGBiWVuybY3Zm7LDKuqK) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [Splinter Cell](https://open.spotify.com/album/6R0HGRmgF4A0wMrwkTh6yr) | 1:57 | 2026-06-01 |  |
 | [Sponsor \(feat\. dutchavelli\)](https://open.spotify.com/track/0KDfnaFHRKoZ3oPUzy28E2) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 2:05 | 2021-12-12 | 2021-12-18 |
 | [Sport](https://open.spotify.com/track/0UZoRj2sEtpMpPAdizF0N0) | [Jamil](https://open.spotify.com/artist/1BvLhDkql2F6d4G5aaajY2), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Sport](https://open.spotify.com/album/3ulq6RamdkC27QXqIhqlOe) | 2:51 | 2021-04-10 | 2021-04-11 |
 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-11-24 | 2024-11-29 |

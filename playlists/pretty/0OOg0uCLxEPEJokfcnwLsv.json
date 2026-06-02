@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1027,
+  "num_followers": 1031,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGLhIKnfsJAIV3uJhMpMNDI/rm7RjQ",
+  "snapshot_id": "AAAGMwBwybH8rfjw/OR55hvdOcqS2+4e",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1615,6 +1615,86 @@
       "duration_ms": 846428,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/6jVrywFRidATOA5opVWDAg"
+    },
+    {
+      "added_at": "2026-06-01 21:02:20",
+      "album": {
+        "name": "Memory Tattoos",
+        "url": "https://open.spotify.com/album/225MfCZIbTNTA5m9tOollK"
+      },
+      "artists": [
+        {
+          "name": "Bad Valentines",
+          "url": "https://open.spotify.com/artist/3xVdUhudpYUp6NH3Pim0sd"
+        }
+      ],
+      "duration_ms": 230811,
+      "name": "Summer Ends In June",
+      "url": "https://open.spotify.com/track/0sJKhlWsiYhYDR8KEcC7Zn"
+    },
+    {
+      "added_at": "2026-06-02 01:17:25",
+      "album": {
+        "name": "Fairy Wings",
+        "url": "https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd"
+      },
+      "artists": [
+        {
+          "name": "Ladat",
+          "url": "https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "Fairy Wings",
+      "url": "https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG"
+    },
+    {
+      "added_at": "2026-06-02 01:17:44",
+      "album": {
+        "name": "fibres",
+        "url": "https://open.spotify.com/album/4yHAxaNLLxheJ688GXi9ko"
+      },
+      "artists": [
+        {
+          "name": "ANCR TO PAST",
+          "url": "https://open.spotify.com/artist/5JAtQYcWXv57H39UEom6ul"
+        }
+      ],
+      "duration_ms": 231900,
+      "name": "Chasing Taste",
+      "url": "https://open.spotify.com/track/2OnXAQlNqA5ulvDJAdMbNm"
+    },
+    {
+      "added_at": "2026-06-02 01:28:58",
+      "album": {
+        "name": "Tanzt mit mir",
+        "url": "https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ"
+      },
+      "artists": [
+        {
+          "name": "Pro|Contra",
+          "url": "https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "Tanzt mit mir",
+      "url": "https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt"
+    },
+    {
+      "added_at": "2026-06-02 01:41:26",
+      "album": {
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/7vQkexwSNeZJQ9X7RLwUTE"
+      },
+      "artists": [
+        {
+          "name": "Elysium",
+          "url": "https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/4AGflhfh5RPzKlVydgG6TQ"
     }
   ],
   "unique_name": "Unsigned Rock",

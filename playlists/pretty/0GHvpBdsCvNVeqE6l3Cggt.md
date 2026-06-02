@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 41 songs - 2 hr 39 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 42 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 39 | [Beautiful Life](https://open.spotify.com/track/0D8tiMBCjym2xlrZtNwfNO) | [Atomic Ritual](https://open.spotify.com/artist/5miCWiVah5iRMvoaNmkDWc) | [Beautiful Life](https://open.spotify.com/album/4gm2ra9K1zYB21USPZxLKv) | 2:39 |
 | 40 | [Turn Around](https://open.spotify.com/track/3wCxOZWqln1SNnUqfuXymu) | [Duke Mahone](https://open.spotify.com/artist/4b7nAPf8YpkU5Y21aQEN3e) | [Turn Around](https://open.spotify.com/album/45qD4s12bVDIGHGNyTrHtA) | 2:44 |
 | 41 | [In My Dreams](https://open.spotify.com/track/6Nar5xC0OUuOTpUxkUmqg8) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [In My Dreams](https://open.spotify.com/album/6hJS82VvESy6OtHP3nLkPV) | 3:21 |
+| 42 | [JEAN SHORTS](https://open.spotify.com/track/3L2Na5XhAajI0KVaQp7qFu) | [Val Texas](https://open.spotify.com/artist/7spILdiaFh8D2O1yiGNGrA) | [DIRT](https://open.spotify.com/album/2y6jtOEkZXgrtbkvcXdfrG) | 2:41 |
 
-Snapshot ID: `AAAkRDVBo5whKSF33uJSiSKD/TPS8LTR`
+Snapshot ID: `AAAkRaAF91CU0xa0lhFAaWuo7KblpofV`

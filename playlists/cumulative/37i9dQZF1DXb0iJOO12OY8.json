@@ -2255,6 +2255,28 @@
     },
     {
       "album": {
+        "name": "Kongens Menn",
+        "url": "https://open.spotify.com/album/6L4F4xbRSmQAKO99PyCABm"
+      },
+      "artists": [
+        {
+          "name": "Kongens Menn",
+          "url": "https://open.spotify.com/artist/6aJxLVgZ5875f0URSeQpRX"
+        },
+        {
+          "name": "Birkelunden Mannskor",
+          "url": "https://open.spotify.com/artist/2zfbcqB6axSNewctgkHOQD"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168378,
+      "name": "Kongens Menn (feat. Birkelunden Mannskor)",
+      "url": "https://open.spotify.com/track/0i4UcILImgKSCbfaHsJg5P"
+    },
+    {
+      "album": {
         "name": "Kun i kveld",
         "url": "https://open.spotify.com/album/4jhm1B2vDAGkhlnVJWoZ3S"
       },

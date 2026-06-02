@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-761 songs - 3 day 1 hr 8 min
+762 songs - 3 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Bless The Lord](https://open.spotify.com/track/4un5nPT9hPvMxMbmDPdPYf) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Matthew Nainby](https://open.spotify.com/artist/6I3uBljYWbt6br31RMYnPe) | [Bless The Lord](https://open.spotify.com/album/2KsZi8gRzq9qnoai8E6KKm) | 3:41 | 2026-05-29 |  |
 | [Bless The Lord](https://open.spotify.com/track/72kofsjFXx2FaajQOSHbjK) | [Rose Worship](https://open.spotify.com/artist/6SIyNWjA9wTHoHcotZV3Rj), [Julia Damazio](https://open.spotify.com/artist/2pE1zVa1OtCCmO4ufiO7Nl), [Kirk Anderson](https://open.spotify.com/artist/7JMsKiRKiqFgMiWE3PwiTY) | [Bless The Lord](https://open.spotify.com/album/5FvCXd6ct6lMybM7BoVTzs) | 7:54 | 2024-02-23 | 2024-03-02 |
 | [Bless Your Name](https://open.spotify.com/track/04OblrBhkRHOHJ11RkXS64) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Bless Your Name](https://open.spotify.com/album/0zUGFX6Xl5vSvXZ2n3q9mH) | 4:11 | 2026-03-13 |  |
+| [Blessed Assurance \(I Will Praise You\)](https://open.spotify.com/track/0NUeirXItOmsaEetXfWU5t) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Mara Justine](https://open.spotify.com/artist/52jBs6QQRZr8FNQLxiifBw) | [Blessed Assurance \(I Will Praise You\)](https://open.spotify.com/album/0ihoBcuioyoGx6ZMdrLtss) | 2:59 | 2026-06-01 |  |
 | [Blood Of Christ](https://open.spotify.com/track/4FpSdYB6a8U97dVgZaThML) | [Kingdom Culture Worship](https://open.spotify.com/artist/0KYoEkNrjtHSuTwaiGZTcc), [Emma Fargnoli](https://open.spotify.com/artist/66vp1Xgi5koKUndk6ajMTI) | [Blood Of Christ](https://open.spotify.com/album/0OIJAEarNSxiDd1MK9sb1l) | 7:15 | 2026-02-13 | 2026-03-07 |
 | [Blood Of Christ \(feat\. John Wilds\)](https://open.spotify.com/track/6HavpEsmpotEj5E5QXAcn6) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [Blood Of Christ \(feat\. John Wilds\)](https://open.spotify.com/album/2WcqnKorQo9unYA7KBVao7) | 10:42 | 2025-04-18 |  |
 | [Blood of Jesus \(I Surrender All\)](https://open.spotify.com/track/0quxaXkS1kE3oKMdMWJbZ8) | [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Ashley Bailey](https://open.spotify.com/artist/0mCGACx1tzi9BRx1KX0OXR), [Aaron Tedeschi](https://open.spotify.com/artist/3LSv8vyAjTxn37MsKnYkz0) | [Blood of Jesus \(I Surrender All\)](https://open.spotify.com/album/39iJQ5xz5BDQ30QdSGHbhW) | 5:37 | 2026-02-27 |  |

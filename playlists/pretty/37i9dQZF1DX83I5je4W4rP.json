@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1055082,
+  "num_followers": 1055040,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -371,18 +371,18 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
-        "name": "Kona Town",
-        "url": "https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4"
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
       "artists": [
         {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 254800,
-      "name": "Stone Love",
-      "url": "https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV"
+      "duration_ms": 269500,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -403,18 +403,18 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+        "name": "Kona Town",
+        "url": "https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4"
       },
       "artists": [
         {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
         }
       ],
-      "duration_ms": 269500,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
+      "duration_ms": 254800,
+      "name": "Stone Love",
+      "url": "https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B"
-      },
-      "artists": [
-        {
-          "name": "Sublime With Rome",
-          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
-        }
-      ],
-      "duration_ms": 131855,
-      "name": "Goodbyes",
-      "url": "https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5"
-    },
-    {
-      "added_at": "2026-03-13 19:03:14",
-      "album": {
         "name": "If That's Ok",
         "url": "https://open.spotify.com/album/72axqPlcPenA4cydmu4teu"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 196197,
       "name": "If That's Ok",
       "url": "https://open.spotify.com/track/7wQ9DeZTB7OJ8rnrxeUHSl"
+    },
+    {
+      "added_at": "2026-03-13 19:03:14",
+      "album": {
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B"
+      },
+      "artists": [
+        {
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
+        }
+      ],
+      "duration_ms": 131855,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
-        "name": "Set Yourself Free",
-        "url": "https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr"
-      },
-      "artists": [
-        {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/5Yfvo0NueXP0DiveWmH3Za"
-    },
-    {
-      "added_at": "2026-03-13 19:03:14",
-      "album": {
         "name": "Sunday Vibe",
         "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 186760,
       "name": "Sunday Vibe",
       "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
+    },
+    {
+      "added_at": "2026-03-13 19:03:14",
+      "album": {
+        "name": "Set Yourself Free",
+        "url": "https://open.spotify.com/album/47OXVPMtjTrnDwnuptinJr"
+      },
+      "artists": [
+        {
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/5Yfvo0NueXP0DiveWmH3Za"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
+        "name": "The Mighty",
+        "url": "https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO"
+      },
+      "artists": [
+        {
+          "name": "O.A.R.",
+          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Knocking at Your Door",
+      "url": "https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa"
+    },
+    {
+      "added_at": "2026-03-13 19:03:14",
+      "album": {
         "name": "Put Down What You Are Carrying (with Brett Dennen)",
         "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 268006,
       "name": "Put Down What You Are Carrying (with Brett Dennen)",
       "url": "https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN"
-    },
-    {
-      "added_at": "2026-03-13 19:03:14",
-      "album": {
-        "name": "The Mighty",
-        "url": "https://open.spotify.com/album/6aaRaPwK2QDEIro5UcHMIO"
-      },
-      "artists": [
-        {
-          "name": "O.A.R.",
-          "url": "https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "Knocking at Your Door",
-      "url": "https://open.spotify.com/track/78v5ljpPryjGY4r1wndiqa"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -1323,22 +1323,22 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
-        "name": "Press Remix",
-        "url": "https://open.spotify.com/album/32zUSPDOp5FTKipWZUzWBM"
+        "name": "Cool & Collected",
+        "url": "https://open.spotify.com/album/2yplQKzNbpJS0FiFZddgYm"
       },
       "artists": [
         {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
         },
         {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 220841,
-      "name": "Press Remix",
-      "url": "https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS"
+      "duration_ms": 193941,
+      "name": "Cool & Collected",
+      "url": "https://open.spotify.com/track/0aYdeu6ICosEexS6C6gPD7"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -1363,22 +1363,22 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
-        "name": "Cool & Collected",
-        "url": "https://open.spotify.com/album/2yplQKzNbpJS0FiFZddgYm"
+        "name": "Press Remix",
+        "url": "https://open.spotify.com/album/32zUSPDOp5FTKipWZUzWBM"
       },
       "artists": [
         {
-          "name": "Sublime With Rome",
-          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
         },
         {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         }
       ],
-      "duration_ms": 193941,
-      "name": "Cool & Collected",
-      "url": "https://open.spotify.com/track/0aYdeu6ICosEexS6C6gPD7"
+      "duration_ms": 220841,
+      "name": "Press Remix",
+      "url": "https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
+        "name": "Batshit Crazy",
+        "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
+      },
+      "artists": [
+        {
+          "name": "Artikal Sound System",
+          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
+        },
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        }
+      ],
+      "duration_ms": 205142,
+      "name": "Batshit Crazy",
+      "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
+    },
+    {
+      "added_at": "2026-03-13 19:03:14",
+      "album": {
         "name": "Everyday People (Remix with B-Real & G. Love)",
         "url": "https://open.spotify.com/album/5yvXdYoFdXhZjHwl24QmCz"
       },
@@ -1531,26 +1551,6 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
-        "name": "Batshit Crazy",
-        "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
-      },
-      "artists": [
-        {
-          "name": "Artikal Sound System",
-          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
-        },
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
-        }
-      ],
-      "duration_ms": 205142,
-      "name": "Batshit Crazy",
-      "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
-    },
-    {
-      "added_at": "2026-03-13 19:03:14",
-      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 186845,
       "name": "Love Her Anyways",
       "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
-    },
-    {
-      "added_at": "2026-03-13 19:03:14",
-      "album": {
-        "name": "Old School Feeling",
-        "url": "https://open.spotify.com/album/6BsIV30xUdK2QDmP9UdYO7"
-      },
-      "artists": [
-        {
-          "name": "Rebelution",
-          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
-        }
-      ],
-      "duration_ms": 236624,
-      "name": "Old School Feeling",
-      "url": "https://open.spotify.com/track/54GuCaNBEr3dcPAZq4SNkB"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -1603,6 +1587,22 @@
       "duration_ms": 199600,
       "name": "Corona and Lime",
       "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
+    },
+    {
+      "added_at": "2026-03-13 19:03:14",
+      "album": {
+        "name": "Old School Feeling",
+        "url": "https://open.spotify.com/album/6BsIV30xUdK2QDmP9UdYO7"
+      },
+      "artists": [
+        {
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+        }
+      ],
+      "duration_ms": 236624,
+      "name": "Old School Feeling",
+      "url": "https://open.spotify.com/track/54GuCaNBEr3dcPAZq4SNkB"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -1771,8 +1771,8 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
-        "name": "Setting Out for the Sun",
-        "url": "https://open.spotify.com/album/28BjvlMeCTBtGJbkwZNfCm"
+        "name": "If You Wanna Roll (with The Elovaters)",
+        "url": "https://open.spotify.com/album/5e5cvqzU4lNCZQJJmZPHLx"
       },
       "artists": [
         {
@@ -1780,13 +1780,13 @@
           "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
         },
         {
-          "name": "Spencer Thomson",
-          "url": "https://open.spotify.com/artist/0b5jdstWHEgwmsYa8uSAFw"
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
         }
       ],
-      "duration_ms": 270228,
-      "name": "Setting Out for the Sun",
-      "url": "https://open.spotify.com/track/40LcGCfPY6eYPL3dJ7lll1"
+      "duration_ms": 179228,
+      "name": "If You Wanna Roll (with The Elovaters)",
+      "url": "https://open.spotify.com/track/0fbrmERo8JtzODur1bPazG"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -1867,8 +1867,8 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
-        "name": "If You Wanna Roll (with The Elovaters)",
-        "url": "https://open.spotify.com/album/5e5cvqzU4lNCZQJJmZPHLx"
+        "name": "Setting Out for the Sun",
+        "url": "https://open.spotify.com/album/28BjvlMeCTBtGJbkwZNfCm"
       },
       "artists": [
         {
@@ -1876,13 +1876,13 @@
           "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
         },
         {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+          "name": "Spencer Thomson",
+          "url": "https://open.spotify.com/artist/0b5jdstWHEgwmsYa8uSAFw"
         }
       ],
-      "duration_ms": 179228,
-      "name": "If You Wanna Roll (with The Elovaters)",
-      "url": "https://open.spotify.com/track/0fbrmERo8JtzODur1bPazG"
+      "duration_ms": 270228,
+      "name": "Setting Out for the Sun",
+      "url": "https://open.spotify.com/track/40LcGCfPY6eYPL3dJ7lll1"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
-        "name": "Heavy as Lead",
-        "url": "https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m"
-      },
-      "artists": [
-        {
-          "name": "Rebelution",
-          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
-        }
-      ],
-      "duration_ms": 176761,
-      "name": "Heavy as Lead",
-      "url": "https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO"
-    },
-    {
-      "added_at": "2026-03-13 19:03:14",
-      "album": {
         "name": "Welcome to Florida",
         "url": "https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d"
       },
@@ -2311,18 +2295,18 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
-        "name": "Way Too High for This",
-        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
+        "name": "Heavy as Lead",
+        "url": "https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m"
       },
       "artists": [
         {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
         }
       ],
-      "duration_ms": 227149,
-      "name": "Way Too High for This",
-      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
+      "duration_ms": 176761,
+      "name": "Heavy as Lead",
+      "url": "https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -2347,18 +2331,18 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
-        "name": "Endless Summer (Deluxe)",
-        "url": "https://open.spotify.com/album/5fs7OWZ9tOVCiYk1rKf3fv"
+        "name": "Way Too High for This",
+        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
       },
       "artists": [
         {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
         }
       ],
-      "duration_ms": 248317,
-      "name": "Wind On My Back - Endless Summer Edition",
-      "url": "https://open.spotify.com/track/6HQblgVFjC3gIeRmsK1uiX"
+      "duration_ms": 227149,
+      "name": "Way Too High for This",
+      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -2379,22 +2363,18 @@
     {
       "added_at": "2026-03-13 19:03:14",
       "album": {
-        "name": "Tall Grass (with Surfer Girl)",
-        "url": "https://open.spotify.com/album/5Qll5vw5rVP91vv7oBcDn7"
+        "name": "Endless Summer (Deluxe)",
+        "url": "https://open.spotify.com/album/5fs7OWZ9tOVCiYk1rKf3fv"
       },
       "artists": [
         {
-          "name": "Beach Fly",
-          "url": "https://open.spotify.com/artist/2fmr2owTgEp1iIlJaGoiiV"
-        },
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
         }
       ],
-      "duration_ms": 246064,
-      "name": "Tall Grass (with Surfer Girl)",
-      "url": "https://open.spotify.com/track/0u6KZpeNCOV4ktGV1rNlGE"
+      "duration_ms": 248317,
+      "name": "Wind On My Back - Endless Summer Edition",
+      "url": "https://open.spotify.com/track/6HQblgVFjC3gIeRmsK1uiX"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -2419,6 +2399,26 @@
       "duration_ms": 125880,
       "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
       "url": "https://open.spotify.com/track/0aUAIqpOHwdUvf6jLvjCjl"
+    },
+    {
+      "added_at": "2026-03-13 19:03:14",
+      "album": {
+        "name": "Tall Grass (with Surfer Girl)",
+        "url": "https://open.spotify.com/album/5Qll5vw5rVP91vv7oBcDn7"
+      },
+      "artists": [
+        {
+          "name": "Beach Fly",
+          "url": "https://open.spotify.com/artist/2fmr2owTgEp1iIlJaGoiiV"
+        },
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "duration_ms": 246064,
+      "name": "Tall Grass (with Surfer Girl)",
+      "url": "https://open.spotify.com/track/0u6KZpeNCOV4ktGV1rNlGE"
     },
     {
       "added_at": "2026-03-13 19:03:14",
@@ -2746,10 +2746,6 @@
         {
           "name": "aurorawave",
           "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
-        },
-        {
-          "name": "Nathan Aurora",
-          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
         }
       ],
       "duration_ms": 170057,

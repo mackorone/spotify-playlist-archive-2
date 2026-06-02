@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAUdUB9uVnhNzLmj4Jv9C8sdImJNrMK",
+  "snapshot_id": "AAAUfvJMJCl82GGBi4VFNWrwnW464Abz",
   "tracks": [
     {
       "added_at": "2026-05-07 22:07:00",
@@ -447,6 +447,38 @@
       "duration_ms": 208416,
       "name": "Ultraviolet GT",
       "url": "https://open.spotify.com/track/3Gx9KqZzJWYKsZorL9VTNW"
+    },
+    {
+      "added_at": "2026-06-01 06:02:42",
+      "album": {
+        "name": "nothing serious",
+        "url": "https://open.spotify.com/album/2YGjzOwoBr0xxfRGXSU79s"
+      },
+      "artists": [
+        {
+          "name": "Italia Larios",
+          "url": "https://open.spotify.com/artist/10N336x5jfP6sE5ayTIrjZ"
+        }
+      ],
+      "duration_ms": 163084,
+      "name": "nothing serious",
+      "url": "https://open.spotify.com/track/41PEEcuyR4NNf3FBNphO95"
+    },
+    {
+      "added_at": "2026-06-01 06:02:30",
+      "album": {
+        "name": "Shadow In The Dark",
+        "url": "https://open.spotify.com/album/4F7OfP8jpxeOHysZTdBq2r"
+      },
+      "artists": [
+        {
+          "name": "floyer",
+          "url": "https://open.spotify.com/artist/4SC935qNn89rGKI1VbZPsH"
+        }
+      ],
+      "duration_ms": 201412,
+      "name": "Shadow In The Dark",
+      "url": "https://open.spotify.com/track/5PVEuzATsSZJmwAhRTevql"
     },
     {
       "added_at": "2026-04-19 07:55:47",
@@ -3391,6 +3423,118 @@
       "duration_ms": 182636,
       "name": "Non ho niente d'intelligente da dire",
       "url": "https://open.spotify.com/track/1oHlgkWpq8XtbazzUiu4LZ"
+    },
+    {
+      "added_at": "2026-06-01 06:03:25",
+      "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/4JbdJmhx3Xu8qzLF9nwSjU"
+      },
+      "artists": [
+        {
+          "name": "BEATZRIK",
+          "url": "https://open.spotify.com/artist/2RKeTkiISLaaVesoTixqPY"
+        }
+      ],
+      "duration_ms": 200005,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/0FcmEub4kDnpKddxpPXM6Q"
+    },
+    {
+      "added_at": "2026-06-01 06:03:27",
+      "album": {
+        "name": "Echoes of us",
+        "url": "https://open.spotify.com/album/0tKAmmCf9wHCsouHo82ofI"
+      },
+      "artists": [
+        {
+          "name": "Davit Case",
+          "url": "https://open.spotify.com/artist/6gfxKpKhcoU4CGdJ9Nc23H"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Echoes of us",
+      "url": "https://open.spotify.com/track/6Xc29li7V1e61RJu1P8C6G"
+    },
+    {
+      "added_at": "2026-06-01 16:59:17",
+      "album": {
+        "name": "The Morning",
+        "url": "https://open.spotify.com/album/5wxzMqAHFsxQ4K1h1bWJxW"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "The Morning",
+      "url": "https://open.spotify.com/track/6AvJQ7MB7BwSr7ZoTkHYf4"
+    },
+    {
+      "added_at": "2026-06-01 16:59:25",
+      "album": {
+        "name": "Someone Save Me",
+        "url": "https://open.spotify.com/album/1zgEDzAQxqQb5YQiQaEgcm"
+      },
+      "artists": [
+        {
+          "name": "Dark Crusifix",
+          "url": "https://open.spotify.com/artist/5B1abcNGyvaBx6iP0YGQ26"
+        }
+      ],
+      "duration_ms": 137053,
+      "name": "Someone save me",
+      "url": "https://open.spotify.com/track/6GEoZo5ObzaQneTGCw4D19"
+    },
+    {
+      "added_at": "2026-06-01 16:59:34",
+      "album": {
+        "name": "Know U Fine",
+        "url": "https://open.spotify.com/album/3gFzVNmbdPvfjrNs5FNh73"
+      },
+      "artists": [
+        {
+          "name": "Skye Cotter",
+          "url": "https://open.spotify.com/artist/2Zd6MDFlvS0GG7Ncyb9q67"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "Know U Fine",
+      "url": "https://open.spotify.com/track/4rRSpH0e1QEJjluHPybBiZ"
+    },
+    {
+      "added_at": "2026-06-01 16:59:36",
+      "album": {
+        "name": "No More Lies",
+        "url": "https://open.spotify.com/album/7vQkexwSNeZJQ9X7RLwUTE"
+      },
+      "artists": [
+        {
+          "name": "Elysium",
+          "url": "https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "No More Lies",
+      "url": "https://open.spotify.com/track/4AGflhfh5RPzKlVydgG6TQ"
+    },
+    {
+      "added_at": "2026-06-01 16:59:54",
+      "album": {
+        "name": "Days go by (Lost)",
+        "url": "https://open.spotify.com/album/0lssnlmSTX50erZ6CLv30s"
+      },
+      "artists": [
+        {
+          "name": "TeoT",
+          "url": "https://open.spotify.com/artist/4IVsxJI83GRiIx0S2qWV6E"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Days go by (Lost)",
+      "url": "https://open.spotify.com/track/6moyAEoIcPqI8HPVkVKTcn"
     }
   ],
   "unique_name": "New Indie Music",

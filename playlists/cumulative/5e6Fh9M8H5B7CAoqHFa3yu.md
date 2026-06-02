@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,283 songs - 5 day 14 hr 50 min
+2,286 songs - 5 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [All About Us](https://open.spotify.com/track/6ARTh4rpwKKy2v3Vob0GZq) | [Shahk10](https://open.spotify.com/artist/78efzo5kXScfrFywQyHN7l), [Raviii Kadam](https://open.spotify.com/artist/6AbBJRTJEfpPQQwu3KylYW), [D&V sisters](https://open.spotify.com/artist/31bWGfjdxZcxU5U2669sfm) | [All About Us](https://open.spotify.com/album/0buqgugryDSgCyXJKx3t3o) | 3:02 | 2026-02-21 |  |
 | [All Alone](https://open.spotify.com/track/0LiPJ9sQxkfPoCHOnbWm7m) | [Shay Walker](https://open.spotify.com/artist/23l7c9b79ReIwEBfqxHsQE) | [All Alone](https://open.spotify.com/album/2vCDcstrXte917TvEZ6hkz) | 2:57 | 2025-07-15 |  |
 | [ALL ALONE](https://open.spotify.com/track/2UAxdjDnHDLvslaKR0zV6Y) | [Tristan](https://open.spotify.com/artist/5bSt94yD0HXB48H7DPHt9q) | [TRISTAN](https://open.spotify.com/album/0gHpsUXvvDpHFnI4rhRGIA) | 3:21 | 2026-05-22 |  |
+| [All I Want From You \(Distribution\)](https://open.spotify.com/track/3oD3uLVohw5dcJP5WugSYV) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [All I Want From You](https://open.spotify.com/album/2Gi2yf2kTvuRBLGlORfSWr) | 2:29 | 2026-06-01 |  |
 | [All in Time \(jam\)](https://open.spotify.com/track/3g3bOV4uinfmmfNOfa8rmP) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [All in Time \(jam\)](https://open.spotify.com/album/69KTKEdLbsl5oScihcsZqB) | 3:48 | 2025-10-27 |  |
 | [All In Your Head](https://open.spotify.com/track/2nUBpjvuqLHOVOxcQxDu7d) | [Another Drowning Day](https://open.spotify.com/artist/3lv5pVa3GmxX1LQc1TIXzw) | [The Borderlands](https://open.spotify.com/album/4aR9k66ZREBcLwbu6hlt8d) | 3:48 | 2025-05-28 |  |
 | [All The Nations](https://open.spotify.com/track/3zNwqBlXYgAkPVC1CKrrI9) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Melana](https://open.spotify.com/artist/5Wm3mlWwE7B8OrfjORsAz7) | [News From The World](https://open.spotify.com/album/0K2QmHIMelMxMVbLVeA0XQ) | 5:28 | 2025-04-25 |  |
@@ -1315,6 +1316,7 @@
 | [Musica leggerissima](https://open.spotify.com/track/4LAWJfQbfeMrlX0ShqhC2a) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [I Mortali²](https://open.spotify.com/album/2PrT5iXmTLdobJUjgn5pNZ) | 3:56 | 2023-03-15 |  |
 | [Mustard](https://open.spotify.com/track/7yQtYUpS9ckX3KLr9UzUwM) | [Foxx1hunna](https://open.spotify.com/artist/2eIJtmM9wko6eAcNyIVn6w) | [Mustard](https://open.spotify.com/album/43m8bSGfxV1UgY7F3St9EV) | 1:42 | 2025-10-07 |  |
 | [Muurame](https://open.spotify.com/track/1Krh2vadndyc5CiGYyTKLT) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 2:25 | 2026-05-04 |  |
+| [My Baby Is a Superstar](https://open.spotify.com/track/3zUViqxMkQyeli2dBUzlH0) | [Peter Foreman](https://open.spotify.com/artist/5r2w9FvNgxIeSQuQuuBZph) | [My Baby Is a Superstar](https://open.spotify.com/album/4Ld8PrwGL5IYjQ0JJZPJ6M) | 3:15 | 2026-06-01 |  |
 | [My Biggest Fan](https://open.spotify.com/track/2qfPuBESKKnAWI1KRuTwnn) | [BIGG BAGGZ](https://open.spotify.com/artist/51j5AJZDaLf8GFSu5am0WE) | [My Biggest Fan](https://open.spotify.com/album/4WN8Zm2Jb39ItoC6z9zrJR) | 2:48 | 2025-10-07 |  |
 | [My Butterfly Dream's](https://open.spotify.com/track/57cKFWmHj6ZEvfCg4P59YI) | [RZWY](https://open.spotify.com/artist/6kjbhDLFGX81REbc6EACk4) | [My Butterfly Dream's](https://open.spotify.com/album/63Ot1I8sVGao8RdUDbJdWk) | 3:42 | 2025-05-22 |  |
 | [My Dear Moon](https://open.spotify.com/track/5Z8esB9VR06kcNQ660qmxV) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf) | [My Dear Moon](https://open.spotify.com/album/4ocryLazIq64xWQOvrzSKg) | 3:18 | 2025-09-28 |  |
@@ -1411,6 +1413,7 @@
 | [nu](https://open.spotify.com/track/0Lcu9nd7cRUSALv5lFxVaf) | [Lofi u](https://open.spotify.com/artist/7tOkG8CZx1DrlER0naUlOr) | [nu](https://open.spotify.com/album/3H2DEOcKQKuOhqapbaqKYl) | 3:07 | 2025-08-19 |  |
 | [Nuestro Amor](https://open.spotify.com/track/4Abd2UraYIqNWFNzNcYHuK) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Futuro de ayer](https://open.spotify.com/album/7lUdUvmdDdK2mdysOuo5xn) | 3:20 | 2026-04-12 |  |
 | [Nuestro cielo](https://open.spotify.com/track/7mx5FacYX14sdove4ngb64) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 3:47 | 2026-03-15 |  |
+| [Numb It](https://open.spotify.com/track/5Cu0ZKQeGfxmZcSJHqlAlG) | [FiNiX](https://open.spotify.com/artist/2Z78u5tE6JlMW98GnyOvwp), [The Irie Lions](https://open.spotify.com/artist/4YJu9BNUR2dU09UuuKE5OQ) | [Numb It](https://open.spotify.com/album/7AFlVYlb35ZvmaMkhF5Hcl) | 4:06 | 2026-06-01 |  |
 | [Nunca existiu](https://open.spotify.com/track/7K8StUZmGTUCfz5tj5zE7z) | [Folk Soundtrack Band](https://open.spotify.com/artist/7msqMHsbi7Yvpy3gRfp31l), [Beto Carrara](https://open.spotify.com/artist/7A7ioygw9Zh8vJsOpSdlmW) | [Nunca existiu](https://open.spotify.com/album/6210vDcCo0uFR4kxpkQURI) | 2:44 | 2025-11-17 |  |
 | [Nura](https://open.spotify.com/track/1r0tSRtG85WzU8BXY9w3WP) | [Gary Tapiego](https://open.spotify.com/artist/73rYkLqdQlbp7BM6tDuo5v) | [Nura](https://open.spotify.com/album/3Qw5OcvnTYtXjU78OmDDwQ) | 2:00 | 2025-03-18 |  |
 | [Nutbush City Limits](https://open.spotify.com/track/06yREZ9X92R2e9RJpdzZ2O) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Tina!](https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj) | 3:01 | 2024-03-04 |  |

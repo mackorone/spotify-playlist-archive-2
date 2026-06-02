@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: Lvbel C5 x DYSTINCT",
-  "num_followers": 580856,
+  "num_followers": 580918,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-05-28 21:00:31",
       "album": {
-        "name": "D\u00fcnya Yalan S\u00f6yl\u00fcyor",
-        "url": "https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7"
-      },
-      "artists": [
-        {
-          "name": "mor ve \u00f6tesi",
-          "url": "https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Cambaz",
-      "url": "https://open.spotify.com/track/3ZkA3JnqluUWzwr64BBkl4"
-    },
-    {
-      "added_at": "2026-05-28 21:00:31",
-      "album": {
         "name": "valiz",
         "url": "https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 125538,
       "name": "yan\u0131lm\u0131\u015f\u0131m",
       "url": "https://open.spotify.com/track/4W445XWByCeN8CH6uexxLW"
+    },
+    {
+      "added_at": "2026-05-28 21:00:31",
+      "album": {
+        "name": "D\u00fcnya Yalan S\u00f6yl\u00fcyor",
+        "url": "https://open.spotify.com/album/0QbpgPjg5eOU5ltJ05r4V7"
+      },
+      "artists": [
+        {
+          "name": "mor ve \u00f6tesi",
+          "url": "https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Cambaz",
+      "url": "https://open.spotify.com/track/3ZkA3JnqluUWzwr64BBkl4"
     },
     {
       "added_at": "2026-05-28 21:00:31",
@@ -759,34 +759,6 @@
     {
       "added_at": "2026-05-28 21:00:31",
       "album": {
-        "name": "sanma ki ya\u015f\u0131yorum",
-        "url": "https://open.spotify.com/album/2LEhF3vteB6Yd6Nqgliq6G"
-      },
-      "artists": [
-        {
-          "name": "AKDO",
-          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
-        },
-        {
-          "name": "ASLAR",
-          "url": "https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA"
-        },
-        {
-          "name": "Lessio",
-          "url": "https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1"
-        },
-        {
-          "name": "Astral",
-          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
-        }
-      ],
-      "duration_ms": 149567,
-      "name": "sanma ki ya\u015f\u0131yorum",
-      "url": "https://open.spotify.com/track/7zH71HbdpGVES8lVRIcDDs"
-    },
-    {
-      "added_at": "2026-05-28 21:00:31",
-      "album": {
         "name": "valiz",
         "url": "https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7"
       },
@@ -815,6 +787,34 @@
       "duration_ms": 106666,
       "name": "NALAKA",
       "url": "https://open.spotify.com/track/5h5QPBDmsxIGuH55zsBgRU"
+    },
+    {
+      "added_at": "2026-05-28 21:00:31",
+      "album": {
+        "name": "sanma ki ya\u015f\u0131yorum",
+        "url": "https://open.spotify.com/album/2LEhF3vteB6Yd6Nqgliq6G"
+      },
+      "artists": [
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        },
+        {
+          "name": "ASLAR",
+          "url": "https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA"
+        },
+        {
+          "name": "Lessio",
+          "url": "https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1"
+        },
+        {
+          "name": "Astral",
+          "url": "https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD"
+        }
+      ],
+      "duration_ms": 149567,
+      "name": "sanma ki ya\u015f\u0131yorum",
+      "url": "https://open.spotify.com/track/7zH71HbdpGVES8lVRIcDDs"
     },
     {
       "added_at": "2026-05-28 21:00:31",

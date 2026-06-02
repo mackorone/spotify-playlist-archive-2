@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-367 songs - 22 hr 7 min
+368 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Hold On](https://open.spotify.com/track/66WZo836GgymQUJIomTs0v) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Hold On](https://open.spotify.com/album/0xZfbz18GIROo9S2LYCr1L) | 3:15 | 2026-03-27 | 2026-05-17 |
 | [HOLES](https://open.spotify.com/track/45j00HSKzMiIfJ4elyzxGs) | [Vampire Slumber Party](https://open.spotify.com/artist/5NWnYLJe0rkfZLZuKN4m4d) | [HOLES](https://open.spotify.com/album/5zl7NEY0kWkXzqdCCksGvQ) | 2:44 | 2026-05-19 |  |
 | [Hollow](https://open.spotify.com/track/7vnpgpf3Jx8gtskcb050nl) | [Jordan Bailey](https://open.spotify.com/artist/0hGKx9UEqBFpYYf0hYk7JS) | [DARKLIGHT](https://open.spotify.com/album/2zOPBEuYdqtuyEEd7CGSNR) | 3:08 | 2025-11-06 | 2025-12-06 |
+| [Hollow Eyes](https://open.spotify.com/track/0BY1CFp97qI8opvS0KbD4z) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [Hollow Eyes](https://open.spotify.com/album/2dmxukyWSXkjiSeD1eGsPL) | 3:23 | 2026-06-02 |  |
 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 | 2026-03-18 | 2026-04-15 |
 | [Honest Mistake](https://open.spotify.com/track/1DEQCWDbuYFZHSW9zVMAjt) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Honest Mistake](https://open.spotify.com/album/70TvqiEcsoMkV2UjmKydz3) | 3:25 | 2025-11-04 | 2025-12-06 |
 | [Hopeless](https://open.spotify.com/track/38kwkqMeKqAnJh8ObitN3r) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Hopeless](https://open.spotify.com/album/2Ftm7kCGOpuiovVEx2Fgxx) | 3:16 | 2025-11-04 | 2025-12-06 |

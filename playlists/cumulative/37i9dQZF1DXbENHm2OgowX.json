@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "forgiveness",
+        "url": "https://open.spotify.com/album/79o2cFbdtagQBw4jq7Qayq"
+      },
+      "artists": [
+        {
+          "name": "l\u00f8nelyspirit",
+          "url": "https://open.spotify.com/artist/6xs3ngC1nJiJxtWLh2ROih"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128410,
+      "name": "forgiveness",
+      "url": "https://open.spotify.com/track/14YgbSpR1vStKDuFeRlkzf"
+    },
+    {
+      "album": {
         "name": "The Importance of Birds",
         "url": "https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9"
       },
@@ -3956,7 +3974,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 134314,
       "name": "thoughts inside my head",
       "url": "https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY"

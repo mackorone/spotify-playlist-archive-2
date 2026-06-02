@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Ariana Grande, Bella Kay og mörgum fleiri!
 
-10,951 songs - 24 day 12 hr 11 min
+10,952 songs - 24 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3008,7 +3008,7 @@
 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 | 2024-12-20 | 2025-01-03 |
 | [Falling Forever](https://open.spotify.com/track/1DiVt4mPAMzbv2N2Yywxs1) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Radical Optimism](https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc) | 3:43 | 2024-05-03 | 2024-05-10 |
 | [Falling Into You](https://open.spotify.com/track/3ZHKnaw6nJCXGYVY1h63lK) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Kezano](https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4) | [Falling Into You](https://open.spotify.com/album/5sLop69oN5zrq9KzVgEunR) | 3:09 | 2024-07-05 | 2024-07-12 |
-| [Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/5AkRNxM8MEyS7oUjZMk0WQ) | [Falling Out of Grace](https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r) | 3:00 | 2026-05-29 |  |
+| [Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Falling Out of Grace](https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r) | 3:00 | 2026-05-29 |  |
 | [Falling out of Love](https://open.spotify.com/track/04L817uN0cjbQCqAcyfWE1) | [Beforefrances](https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj), [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [Falling out of Love](https://open.spotify.com/album/45FddOq9RVYwA2UY5WmpdG) | 3:12 | 2025-05-09 | 2025-05-16 |
 | [Falling out of Love](https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Falling out of Love](https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ) | 6:21 | 2026-05-15 | 2026-05-22 |
 | [falling, holding on](https://open.spotify.com/track/3qi6XC5Ig1NVRTZqIyhQFO) | [Mookigang](https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO), [po9t](https://open.spotify.com/artist/31enKimZVIjA10b0HYQxHX), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET), [autrioly](https://open.spotify.com/artist/2SalqIZD5x6AJLLHEuctcU) | [falling, holding on](https://open.spotify.com/album/3UcH9Gnc7w8oJfCxKuaW1j) | 2:39 | 2025-02-28 | 2025-03-07 |
@@ -5195,6 +5195,7 @@
 | [Kalt](https://open.spotify.com/track/2NeTVS8PWBaLWI9l4QOZPN) | [Mælginn](https://open.spotify.com/artist/1lFnZPL1UP1qfi7qpRIxKX) | [Kalt](https://open.spotify.com/album/36Hk063QO6CpBIOSnbO1RT) | 3:43 | 2025-09-26 | 2025-09-30 |
 | [Kalt Stál](https://open.spotify.com/track/3DDaq5bkCvwRbGq8aGVZy4) | [Mælginn](https://open.spotify.com/artist/1lFnZPL1UP1qfi7qpRIxKX), [Flyguy](https://open.spotify.com/artist/1L3wIjW7CDb6zC7tvhOKvh) | [Kalt Stál](https://open.spotify.com/album/0jvHWdaBovL7Wa5kjg0e5O) | 2:35 | 2026-03-27 | 2026-04-03 |
 | [Kamakura](https://open.spotify.com/track/6oMnfqRJiv3T0vTrrFD3ux) | [Youth Novels](https://open.spotify.com/artist/3Mnsk5N6fdCc5svXTunb3D) | [Kamakura](https://open.spotify.com/album/3NbroNNSDmYESLq8IHlgEV) | 5:16 | 2026-01-16 | 2026-01-23 |
+| [Kamanche](https://open.spotify.com/track/2FEuPZtih3bGvdoKiEEtY1) | [SANJARI](https://open.spotify.com/artist/70QMkmdjAHFUWzBZgtfUUl) | [Kamanche](https://open.spotify.com/album/63E1lD4Lno8i24aiJnbkE1) | 4:05 | 2026-05-29 |  |
 | [Kamikaze](https://open.spotify.com/track/7yf2KZIKYUB9XABxpk3IcF) | [Molly Mae](https://open.spotify.com/artist/1id88vQlxSueQIddQeiKTl) | [Kamikaze](https://open.spotify.com/album/1cuRIt0mlB7vaUrYcBIpSj) | 2:02 | 2026-02-20 | 2026-02-27 |
 | [Kannski](https://open.spotify.com/track/40nc2E3b20YmKZFsresHaD) | [Rebekka Blöndal](https://open.spotify.com/artist/1xdFWOYUpVYbPU1s3VRs5I) | [Kannski](https://open.spotify.com/album/1S6b6hMGVr7GdBIjlZqNfg) | 4:02 | 2026-02-13 | 2026-02-20 |
 | [KANSAS](https://open.spotify.com/track/0MTTVpvGuNHEZMFU5UQ2y6) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [KANSAS](https://open.spotify.com/album/2FP92TJw2nTs1FsPFHXQC6) | 3:01 | 2024-07-12 | 2024-07-19 |
@@ -7667,7 +7668,7 @@
 | [Reach For You](https://open.spotify.com/track/4hLDHwc3t9fx3zyn3NYBXN) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Reach For You](https://open.spotify.com/album/4reioH9lNaPq6lFuKH9nBF) | 2:49 | 2024-12-13 | 2024-12-20 |
 | [React](https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [React](https://open.spotify.com/album/65scBPZ6DNuKCjcQkeJnjB) | 2:41 | 2024-05-03 | 2024-05-10 |
 | [Ready For Your Love](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Ready For Your Love](https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss) | 2:39 | 2024-07-05 | 2024-07-12 |
-| [Ready Now](https://open.spotify.com/track/7HozwdJp0EVd9TuVqY2B8O) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [Ready Now](https://open.spotify.com/album/14UibeqYUKe5krgjMLJPL4) | 3:04 | 2026-05-29 |  |
+| [Ready Now](https://open.spotify.com/track/7HozwdJp0EVd9TuVqY2B8O) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [Ready Now](https://open.spotify.com/album/14UibeqYUKe5krgjMLJPL4) | 3:04 | 2026-05-29 | 2026-06-02 |
 | [ready set no](https://open.spotify.com/track/7MqT2Omd8JRwC3VnV39bUQ) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [ready set no](https://open.spotify.com/album/2qm113wW4n0SRF6sUOOQMs) | 2:09 | 2026-01-02 | 2026-01-15 |
 | [Ready To Love](https://open.spotify.com/track/4172S3BC4ViI5biWFakPuO) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [NGL](https://open.spotify.com/album/4veaG4MuOfmgfq0r45Y5Z3) | 2:54 | 2025-01-24 | 2025-01-31 |
 | [Ready! Steady! Go!](https://open.spotify.com/track/07kIajZ6CvQbDwBJxlZ9A0) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Ready! Steady! Go!](https://open.spotify.com/album/1768d1IgXTZWDEhAFIpir1) | 4:56 | 2025-05-16 | 2025-05-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 
 > 
 
-[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 70 songs - 5 hr 8 min
+[Starkoft](https://open.spotify.com/user/xnh6geml57106421pi4l32t6v) - 1 like - 71 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,6 @@ pretty - [cumulative](/playlists/cumulative/2zkfhOwEu0kZdafRiEMP0G.md) - [plain]
 | 68 | [God Games](https://open.spotify.com/track/2nTbWfwXlp9gK5u205Pcm1) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Teagan Earley](https://open.spotify.com/artist/1iM9uHQqsPQvZ087a5pf5w), [Luke Holt](https://open.spotify.com/artist/3Bgch077fZjxvqwRrklrES), [Brandon McInnis](https://open.spotify.com/artist/5BSt2fFhlHBz8nG6HrmndO), [Mike Rivera](https://open.spotify.com/artist/12VOo3IyWtm6kD1Ba1vXjs), [Janani K\. Jha](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU), [Earle Gresham Jr.](https://open.spotify.com/artist/5ZrrFCnpd82nEYmVxE7e1a), [POESY](https://open.spotify.com/artist/5wzk9261aP0OGmpxLAgYfL), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Wisdom Saga \(Official Concept Album\)](https://open.spotify.com/album/5IaGIT4jt1J2JAXrOBPPck) | 5:19 |
 | 69 | [Love in Paradise](https://open.spotify.com/track/3Hp8GJDsH3E7fumfAACH2k) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ), [Teagan Earley](https://open.spotify.com/artist/1iM9uHQqsPQvZ087a5pf5w), [Kira Stone](https://open.spotify.com/artist/0Hb4OWnwJ1yfEY3lnmGwas), [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O), [Talya Sindel](https://open.spotify.com/artist/2cjhj5CXQPAr8nHi0Sd8fz), [Mason Olshavsky](https://open.spotify.com/artist/7ixHDobaqDCeHMI5M6mPlD), [KJ Burkhauser](https://open.spotify.com/artist/2n9fh4G23BOrldW1f9IhnO), [Armando Julián](https://open.spotify.com/artist/6bVYQ4OCT9GIoQF5W6mVTj), [Steven Dookie](https://open.spotify.com/artist/6rLqxfVk0nnbaIgAbuQRHa), [Wanda Herrans](https://open.spotify.com/artist/3OD23Cv3fYtv2AlHdTfYPN), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Wisdom Saga \(Official Concept Album\)](https://open.spotify.com/album/5IaGIT4jt1J2JAXrOBPPck) | 4:10 |
 | 70 | [I Can't Help but Wonder](https://open.spotify.com/track/5gf0PsMTswpUXqtRaM96aF) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Miguel Veloso](https://open.spotify.com/artist/1DQVqtMtxpz4eYX5BBAiBP), [Teagan Earley](https://open.spotify.com/artist/1iM9uHQqsPQvZ087a5pf5w) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 4:51 |
+| 71 | [Purple Rain](https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 8:41 |
 
-Snapshot ID: `AAAG9lTp/c2cxRUQDKAFrEzcccvJDNcD`
+Snapshot ID: `AAAG97geqYwHGG0NdmUM3uEcHp43YMh0`

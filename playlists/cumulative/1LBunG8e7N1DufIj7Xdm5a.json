@@ -52831,6 +52831,24 @@
     },
     {
       "album": {
+        "name": "Lifelines",
+        "url": "https://open.spotify.com/album/4Ld3pZ6yTQ504LgUKMUmio"
+      },
+      "artists": [
+        {
+          "name": "Broken Star",
+          "url": "https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251610,
+      "name": "Paramount",
+      "url": "https://open.spotify.com/track/1MNWQKYwZp0eIAXW71Hd15"
+    },
+    {
+      "album": {
         "name": "Hard Rock Italiano",
         "url": "https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk"
       },
@@ -52864,6 +52882,24 @@
       "duration_ms": 174880,
       "name": "Paranoia del Destino (another)",
       "url": "https://open.spotify.com/track/34g8ZLQxg9oofcUtgQbkCm"
+    },
+    {
+      "album": {
+        "name": "Para\u00edso Contigo",
+        "url": "https://open.spotify.com/album/1YossSBf5OAPlnh8kq3PZx"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Sechi",
+          "url": "https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219880,
+      "name": "Para\u00edso Contigo",
+      "url": "https://open.spotify.com/track/6tFgPbQpQ5VbAFFgqwcMdq"
     },
     {
       "album": {

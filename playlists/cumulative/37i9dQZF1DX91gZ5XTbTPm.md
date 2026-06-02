@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Veeze
 
-1,589 songs - 3 day 0 hr 20 min
+1,589 songs - 3 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1461,7 +1461,7 @@
 | [Type Sh\*T](https://open.spotify.com/track/69VKKagqJnoEDXHIAlz87f) | [Louie Ray](https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw) | [Type Sh\*T](https://open.spotify.com/album/091oEcHIB4aE9kyBxvkCOR) | 1:49 | 2025-01-24 | 2025-04-05 |
 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 | 2024-03-24 | 2024-08-04 |
 | [Typecast](https://open.spotify.com/track/12c9upZX3qLJP9UQlKFjDP) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Better Me Than You](https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd) | 3:19 | 2024-10-04 | 2024-10-12 |
-| [U Feel Me](https://open.spotify.com/track/7cUxVemQxSVEu6ZVnOczw5) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [U Feel Me](https://open.spotify.com/album/4xBLPh2I8zSpCYaS62N7Dt) | 3:41 | 2025-11-21 |  |
+| [U Feel Me](https://open.spotify.com/track/7cUxVemQxSVEu6ZVnOczw5) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [U Feel Me](https://open.spotify.com/album/4xBLPh2I8zSpCYaS62N7Dt) | 2:26 | 2025-11-21 |  |
 | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7) | 2:38 | 2024-09-06 | 2025-09-13 |
 | [U Know Dat \(feat\. G Herbo\)](https://open.spotify.com/track/6iKSh4ElPgyGlA5DY7ljLk) | [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [\#FreeMyHoodFuckYoHood: Bounce Out Edition](https://open.spotify.com/album/2ROAftc11A5ptP94CNoPrD) | 3:10 | 2024-06-14 | 2024-10-26 |
 | [U My Everything \(feat\. Drake\)](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 | 2024-05-24 | 2024-07-19 |

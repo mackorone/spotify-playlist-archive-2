@@ -1,13 +1,45 @@
 {
   "description": "The biggest Arabic songs in the 2000's. Cover: Nancy Ajram",
-  "num_followers": 286280,
+  "num_followers": 286342,
   "original_name": "All Out Arabic 00's",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIkoPSbgL+Je9M5A6QzG9/p3/Hzv",
+  "snapshot_id": "AAAAAJYc9yeWJw3lbehcCZQf74OuXrOt",
   "tracks": [
+    {
+      "added_at": "2025-06-30 09:56:44",
+      "album": {
+        "name": "Ya Tab Tab",
+        "url": "https://open.spotify.com/album/4YwYcMDoBFkq3Ht4tTRIQi"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "duration_ms": 262165,
+      "name": "Ya Tab Tab",
+      "url": "https://open.spotify.com/track/4gk2kIAnfcLhZe1hQ3jC5g"
+    },
+    {
+      "added_at": "2025-06-30 09:56:44",
+      "album": {
+        "name": "\u0645\u0639\u0642\u0648\u0644",
+        "url": "https://open.spotify.com/album/0IoUZAoBAIyldt7snnSb9T"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "\u0645\u0639\u0642\u0648\u0644",
+      "url": "https://open.spotify.com/track/3QopR32frEHu5QwWkG4xdL"
+    },
     {
       "added_at": "2025-06-30 09:56:44",
       "album": {
@@ -25,26 +57,58 @@
       "url": "https://open.spotify.com/track/7qLXBcYW78is9LygQBziAU"
     },
     {
-      "added_at": "2025-06-30 09:56:44",
+      "added_at": "2026-06-01 17:24:40",
       "album": {
-        "name": "Nour El Ein",
-        "url": "https://open.spotify.com/album/3qZ0kZ8d3F8EpvEyx0yemA"
+        "name": "Ahla Dounya",
+        "url": "https://open.spotify.com/album/2lbMDIUyYAxZCGzqCFf2L3"
       },
       "artists": [
         {
-          "name": "Amr Diab",
-          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
         }
       ],
-      "duration_ms": 307762,
-      "name": "Nour El Ein",
-      "url": "https://open.spotify.com/track/3ZTuYuaV1fhdNnuIBuzTYy"
+      "duration_ms": 322351,
+      "name": "Kol Yuom Fe Omry",
+      "url": "https://open.spotify.com/track/5SnZwtWr4RcHClLaQxO5q8"
     },
     {
-      "added_at": "2025-06-30 09:56:44",
+      "added_at": "2026-06-01 17:24:40",
       "album": {
-        "name": "\u064a\u0627 \u063a\u0627\u064a\u0628 | Ya ghayeb",
-        "url": "https://open.spotify.com/album/1zllS0OgHqjTCFZhsNAo5Y"
+        "name": "\u062d\u0633\u064a\u0646 \u0627\u0644\u062c\u0633\u0645\u064a \u0662\u0660\u0661\u0660",
+        "url": "https://open.spotify.com/album/4cLgnSoT9jUsfT3YWwuMCs"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "\u0633\u062a\u0629 \u0627\u0644\u0635\u0628\u062d",
+      "url": "https://open.spotify.com/track/4XwmkLMuFc96k7BJmXLUZF"
+    },
+    {
+      "added_at": "2026-06-01 17:24:40",
+      "album": {
+        "name": "2006",
+        "url": "https://open.spotify.com/album/4m4onoYSUvA8O8JF4i6Ehu"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "duration_ms": 308610,
+      "name": "Bahebak Ana",
+      "url": "https://open.spotify.com/track/2Gl2ROXZQDuAYTKz9HRZ5S"
+    },
+    {
+      "added_at": "2026-06-01 17:24:40",
+      "album": {
+        "name": "Allah We'Allam",
+        "url": "https://open.spotify.com/album/6muIpUNhNmf5wF2kxKuBXt"
       },
       "artists": [
         {
@@ -52,9 +116,9 @@
           "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
         }
       ],
-      "duration_ms": 236013,
-      "name": "\u064a\u0627 \u063a\u0627\u064a\u0628",
-      "url": "https://open.spotify.com/track/5TUWTLuTWP9u3zd1C4A5r8"
+      "duration_ms": 313939,
+      "name": "Akendni Maak",
+      "url": "https://open.spotify.com/track/0yVxXWnrrQz0g8vrH7jcIj"
     },
     {
       "added_at": "2025-06-30 09:56:44",
@@ -75,22 +139,6 @@
     {
       "added_at": "2025-06-30 09:56:44",
       "album": {
-        "name": "Tamally Maak",
-        "url": "https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu"
-      },
-      "artists": [
-        {
-          "name": "Amr Diab",
-          "url": "https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M"
-        }
-      ],
-      "duration_ms": 269232,
-      "name": "Tamally Maak",
-      "url": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs"
-    },
-    {
-      "added_at": "2025-06-30 09:56:44",
-      "album": {
         "name": "Eba Abelny",
         "url": "https://open.spotify.com/album/18hMYQuTWVT03fhBbtT8kp"
       },
@@ -103,6 +151,38 @@
       "duration_ms": 315991,
       "name": "Leih Beydary Keda",
       "url": "https://open.spotify.com/track/4iKQHYDFlFsX28FeViuwSK"
+    },
+    {
+      "added_at": "2026-06-01 17:24:40",
+      "album": {
+        "name": "Habeat",
+        "url": "https://open.spotify.com/album/28n12Le01l3gNUYIIsrSzs"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        }
+      ],
+      "duration_ms": 251010,
+      "name": "Katar Khaere",
+      "url": "https://open.spotify.com/track/1V6ioSgBCclIVPWEpKVuab"
+    },
+    {
+      "added_at": "2025-06-30 09:56:44",
+      "album": {
+        "name": "\u064a\u0627 \u063a\u0627\u064a\u0628 | Ya ghayeb",
+        "url": "https://open.spotify.com/album/1zllS0OgHqjTCFZhsNAo5Y"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "duration_ms": 236013,
+      "name": "\u064a\u0627 \u063a\u0627\u064a\u0628",
+      "url": "https://open.spotify.com/track/5TUWTLuTWP9u3zd1C4A5r8"
     },
     {
       "added_at": "2025-06-30 09:56:44",
@@ -121,6 +201,22 @@
       "url": "https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7"
     },
     {
+      "added_at": "2026-06-01 17:24:40",
+      "album": {
+        "name": "Aleak Ouyouni",
+        "url": "https://open.spotify.com/album/1nZZNc8oqXhHaRa20f2oTM"
+      },
+      "artists": [
+        {
+          "name": "Cyrine Abdel Noor",
+          "url": "https://open.spotify.com/artist/6Dclk6RIvbl0c7U42WxehG"
+        }
+      ],
+      "duration_ms": 246883,
+      "name": "Law Bass Fe Eyne",
+      "url": "https://open.spotify.com/track/1SEmNAQvqDCm1aADR77Csj"
+    },
+    {
       "added_at": "2025-06-30 09:56:44",
       "album": {
         "name": "\u062e\u0644\u064a\u0646\u0627 \u0646\u0639\u064a\u0634",
@@ -135,6 +231,22 @@
       "duration_ms": 262538,
       "name": "\u0628\u062a\u0636\u062d\u0643",
       "url": "https://open.spotify.com/track/3qhoIMbfdhooMz2YyxP9m1"
+    },
+    {
+      "added_at": "2026-06-01 17:24:40",
+      "album": {
+        "name": "El Layali",
+        "url": "https://open.spotify.com/album/1aDz1gin3pJdDadmQ2n7qw"
+      },
+      "artists": [
+        {
+          "name": "Nawal Al Zoghbi",
+          "url": "https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK"
+        }
+      ],
+      "duration_ms": 254328,
+      "name": "El Layali",
+      "url": "https://open.spotify.com/track/50bEv6AUsTvMtCgPeWsLoF"
     },
     {
       "added_at": "2025-06-30 09:56:44",
@@ -169,20 +281,20 @@
       "url": "https://open.spotify.com/track/4MmVIBw7hNG9Iw9arQDyKb"
     },
     {
-      "added_at": "2025-06-30 09:56:44",
+      "added_at": "2026-06-01 17:24:40",
       "album": {
-        "name": "Ya Tab Tab",
-        "url": "https://open.spotify.com/album/4YwYcMDoBFkq3Ht4tTRIQi"
+        "name": "Mashkalni",
+        "url": "https://open.spotify.com/album/1wGEjRIHItdY6t3XepkjFI"
       },
       "artists": [
         {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
         }
       ],
-      "duration_ms": 262165,
-      "name": "Ya Tab Tab",
-      "url": "https://open.spotify.com/track/4gk2kIAnfcLhZe1hQ3jC5g"
+      "duration_ms": 360071,
+      "name": "Mashkalni",
+      "url": "https://open.spotify.com/track/2L2VpAkaYFdE8qQE3uvf85"
     },
     {
       "added_at": "2025-06-30 09:56:44",
@@ -215,6 +327,38 @@
       "duration_ms": 275737,
       "name": "Ana Wel Shog",
       "url": "https://open.spotify.com/track/3PhIFsnWr59wvfxR2dj64x"
+    },
+    {
+      "added_at": "2026-06-01 17:24:40",
+      "album": {
+        "name": "Houwa El Zaman",
+        "url": "https://open.spotify.com/album/009RW0MttQawyTcXFGSTu2"
+      },
+      "artists": [
+        {
+          "name": "Haifa Wehbe",
+          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Agoul Ahwak",
+      "url": "https://open.spotify.com/track/210fJVqnCvVkpR44a449zY"
+    },
+    {
+      "added_at": "2026-06-01 17:24:40",
+      "album": {
+        "name": "Sharea El Gharam",
+        "url": "https://open.spotify.com/album/4zyxXPXUZcMymCb2FAsmaG"
+      },
+      "artists": [
+        {
+          "name": "Saber Rebai",
+          "url": "https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD"
+        }
+      ],
+      "duration_ms": 230936,
+      "name": "Barsha",
+      "url": "https://open.spotify.com/track/62euOKqZdmxgaRktrtoiMv"
     },
     {
       "added_at": "2025-06-30 09:56:44",
@@ -263,6 +407,26 @@
       "duration_ms": 237866,
       "name": "Ah Ya Alby",
       "url": "https://open.spotify.com/track/7HT0g6P2sr8kypPzAFrg0n"
+    },
+    {
+      "added_at": "2026-06-01 17:24:40",
+      "album": {
+        "name": "Free Mix Vol. 3",
+        "url": "https://open.spotify.com/album/6jcaok7fGQKWbeDO3VwyLl"
+      },
+      "artists": [
+        {
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
+        },
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 243382,
+      "name": "Law Kont Nesit",
+      "url": "https://open.spotify.com/track/1Sduba7I7nwCWoIOso3wwi"
     },
     {
       "added_at": "2025-06-30 09:56:44",
@@ -429,20 +593,20 @@
       "url": "https://open.spotify.com/track/76ej94nqmhe05PyEvw15wK"
     },
     {
-      "added_at": "2025-06-30 09:56:44",
+      "added_at": "2026-06-01 17:24:40",
       "album": {
-        "name": "\u0645\u0639\u0642\u0648\u0644",
-        "url": "https://open.spotify.com/album/0IoUZAoBAIyldt7snnSb9T"
+        "name": "Hob",
+        "url": "https://open.spotify.com/album/7d8fnty4m201yxUPu433YP"
       },
       "artists": [
         {
-          "name": "Fadel Chaker",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
         }
       ],
-      "duration_ms": 236533,
-      "name": "\u0645\u0639\u0642\u0648\u0644",
-      "url": "https://open.spotify.com/track/3QopR32frEHu5QwWkG4xdL"
+      "duration_ms": 270341,
+      "name": "Arrab Habiby",
+      "url": "https://open.spotify.com/track/5O5VV0ESA52Eu0YHSlrnO0"
     },
     {
       "added_at": "2025-06-30 09:56:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Kim Petras, Luca Hänni, ZAH1DE, Die Toten Hosen, ENNIO & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,645 likes - 92 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,639 likes - 92 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

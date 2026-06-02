@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-390 songs - 22 hr 33 min
+391 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [HE'S FOR THE STREETS](https://open.spotify.com/track/4p9kOPyXEoQLzXJXodHJz2) | [Rob Dowler's Vanity Project](https://open.spotify.com/artist/60WcRmpDHEvMhSp6stlL7b) | [HE'S FOR THE STREETS](https://open.spotify.com/album/2oYCt2PA2D7BwzPxno1LzN) | 3:26 | 2026-03-10 | 2026-04-16 |
 | [Heading Out](https://open.spotify.com/track/37JTgHjdSzi6RDZAjz6Blg) | [Velvet Static](https://open.spotify.com/artist/6F0VPim2a3o1M64nwGGRv2) | [Heading Out](https://open.spotify.com/album/3MHolAh5hdccEvWypHo6qy) | 4:47 | 2025-11-17 | 2026-01-17 |
 | [Help](https://open.spotify.com/track/2KyfeUoufiUqQiRj4HJnnp) | [JaShaku](https://open.spotify.com/artist/0ZsfYSlTGxS0e97MtJZbge) | [Help](https://open.spotify.com/album/6HBAyeWX4NzC3qZnsIBIU6) | 3:18 | 2026-03-26 | 2026-04-21 |
+| [Here to Stay](https://open.spotify.com/track/1pQmRpOXuIufHIGaylroCw) | [Edwina Van Kuyk](https://open.spotify.com/artist/268un72oahUYc2Vyt2YGB7) | [Here to Stay](https://open.spotify.com/album/4pzZL5wRL6e8tG0DASYvl6) | 3:01 | 2026-06-01 |  |
 | [High and Low](https://open.spotify.com/track/7aJokZHlQxlEbNXYZiOA0p) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [High and Low](https://open.spotify.com/album/5tGCGKKNwOF4w2vj17Cut9) | 3:20 | 2025-11-09 | 2026-01-17 |
 | [Hoary Light](https://open.spotify.com/track/5VZCZYaOsBrZtF7i3jy2P4) | [RawGrow](https://open.spotify.com/artist/5Q0kT0kscaMSJ56bRv1VAF) | [Hoary Light](https://open.spotify.com/album/2k2Qu1YN9FI3O2ALMCq9Gy) | 3:08 | 2026-02-28 | 2026-04-16 |
 | [Hold On](https://open.spotify.com/track/66WZo836GgymQUJIomTs0v) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Hold On](https://open.spotify.com/album/0xZfbz18GIROo9S2LYCr1L) | 3:15 | 2026-02-28 | 2026-04-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new cuts from Eartheater, the sound that chalk makes, B0YG1RL, Eera, &amp; more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,405 likes - 100 songs - 5 hr 22 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,403 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 4 | [Little Haiti](https://open.spotify.com/track/298VmtiWYWKrcHpr4FTi8h) | [B0YG1RL](https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq), [NOVAGANG](https://open.spotify.com/artist/2jKpyH0q7d85BevWLtdKGB) | [EXIT 2B](https://open.spotify.com/album/5YA5ttWYM1MtDnfkB6dLJF) | 2:11 |
 | 5 | [Sad But So Funny](https://open.spotify.com/track/4z82AjKmLtVzxmShgNCgkp) | [Eera](https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P), [Mechatok](https://open.spotify.com/artist/4poYOxVqlpDTelhhiJcSrW) | [Sad But So Funny](https://open.spotify.com/album/2sZNACN1OtfS387IGeyJi9) | 3:43 |
 | 6 | [notime…](https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww) | [finnjävel](https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT), [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [notime…youshouldbeaskingmeout](https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU) | 2:19 |
-| 7 | [Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/5AkRNxM8MEyS7oUjZMk0WQ) | [Falling Out of Grace](https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r) | 3:00 |
+| 7 | [Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Falling Out of Grace](https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r) | 3:00 |
 | 8 | [Coil](https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Rumspringa](https://open.spotify.com/album/1EHtMAqAB6GSnw8IbuXFLn) | 3:54 |
 | 9 | [Fail\-safe](https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Fail\-safe](https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt) | 3:27 |
 | 10 | [Destiny](https://open.spotify.com/track/3T61iS2oR14n5GY9WMoZaw) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK) | [Paradise](https://open.spotify.com/album/6hWrYqqI8mLlsRhS8alGYU) | 2:41 |

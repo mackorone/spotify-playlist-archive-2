@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Lash curry
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,297 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,354 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Death Flow](https://open.spotify.com/track/6mkcfLcEKBqqgxXwAxj4Kv) | [Lash curry](https://open.spotify.com/artist/5EXPLxIaBJwaXPW5FovTOx), [Xolo.prod](https://open.spotify.com/artist/3OcFDDhUycXXemDd92Drjs) | [Poetry & Protest](https://open.spotify.com/album/38JfPJ6waFkA8bs6t0oNBj) | 4:00 |
 | 2 | [Tap Kar](https://open.spotify.com/track/4aahMBsWyCfbNND11PDFGJ) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [MC GAWTHI](https://open.spotify.com/artist/24lSXXXZU1qaunmruSh3gC), [Year Down](https://open.spotify.com/artist/4vIfkn8fo2rtRIBJi9fdku) | [Tap Kar](https://open.spotify.com/album/6UW4p8cef9p8hrTPVLynlS) | 2:52 |
-| 3 | [FVCK BC](https://open.spotify.com/track/66NXMGrhBOjO3gG7BY46py) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Rawal](https://open.spotify.com/artist/3XbsFoxsYfrJyo9VZrbM16) | [Manoranjan](https://open.spotify.com/album/4sDbOvMTU459JRGwbXnm1P) | 2:28 |
+| 3 | [Fvck Bc](https://open.spotify.com/track/66NXMGrhBOjO3gG7BY46py) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Rawal](https://open.spotify.com/artist/3XbsFoxsYfrJyo9VZrbM16) | [Manoranjan](https://open.spotify.com/album/4sDbOvMTU459JRGwbXnm1P) | 2:28 |
 | 4 | [Royal Bengal Tiger](https://open.spotify.com/track/6bHun5IIJuccBm0y59axR3) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [KIYAN](https://open.spotify.com/artist/1L6igrIquPV8wAugobtAhh) | [Royal Bengal Tiger](https://open.spotify.com/album/5TZNS7zteEfVsDSQcQaPBh) | 2:01 |
 | 5 | [SHOR](https://open.spotify.com/track/06YTrc6dXppnVlHN9hIKIm) | [VAIBHAV](https://open.spotify.com/artist/6BKRb9HapejNswwa5rTFBO), [Gemius](https://open.spotify.com/artist/3knCph2pDDNGng0W5U8bRJ) | [SHOR](https://open.spotify.com/album/3H2khI4ghDa6RdNyPvKuJH) | 1:54 |
 | 6 | [PHOBIA](https://open.spotify.com/track/5pkuTzKR0NL3PWJXSB2GrC) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB), [Audiocrackerr](https://open.spotify.com/artist/6R3w3WdJRJqEMRc0qy1z5i) | [PHOBIA](https://open.spotify.com/album/2RVT3rbXCR4zJSwOmRdfYf) | 2:40 |
 | 7 | [MBA \- Remix](https://open.spotify.com/track/7Hvl7iP6f1DVjFPmTrmuHr) | [PST](https://open.spotify.com/artist/1j29WnUOQSeVTf8uChbjDP), [Srijjan](https://open.spotify.com/artist/5dnjB8N4O4XUJipl8jpDf1) | [MBA \(Remix\)](https://open.spotify.com/album/5WpCz0MNxmzmHQZQpptSoK) | 3:09 |
-| 8 | [BOREDOM](https://open.spotify.com/track/2JPnuc8Y9fKsxlhfbIGcoT) | [Yarur & RCINE](https://open.spotify.com/artist/0KgksECF0zqujx94HH5pPr), [prod.tennisplayer](https://open.spotify.com/artist/3BohkNHi1255Hitz1j3XNF) | [DARWAAZE](https://open.spotify.com/album/2zF2XhBc7myrvWs8Yuzjcf) | 2:48 |
+| 8 | [BOREDOM](https://open.spotify.com/track/2JPnuc8Y9fKsxlhfbIGcoT) | [Yarur](https://open.spotify.com/artist/0oJpRjYpCDlUPibQc1msWJ), [RCINE](https://open.spotify.com/artist/6XUOTcPajQ5TLSbvj00v74), [prod.tennisplayer](https://open.spotify.com/artist/3BohkNHi1255Hitz1j3XNF) | [DARWAAZE](https://open.spotify.com/album/2zF2XhBc7myrvWs8Yuzjcf) | 2:48 |
 | 9 | [Turiya Freeverse 2](https://open.spotify.com/track/2iEyQA2XHav60cutbAzom8) | [GAUSH](https://open.spotify.com/artist/5UPhqOBfNq83B0vOaLocFM), [Placidchills](https://open.spotify.com/artist/4DOiFiwOoLhBQOniziQ7V6) | [Turiya Freeverse 2](https://open.spotify.com/album/0IkXKP4f7Egzw8UfuDaSs3) | 3:13 |
 | 10 | [Keertan](https://open.spotify.com/track/7aFA8OKFdFQocRfKcToUfi) | [Rijux](https://open.spotify.com/artist/43xfBsWMqTBrX7D23B4dXI), [Teja](https://open.spotify.com/artist/3n0cGv2o7RHrbibJEdPl0I) | [APATTIJANAK GAANE](https://open.spotify.com/album/6nZRQOPJ9UG9FaKVT43z3q) | 1:39 |
 | 11 | [Spellbound](https://open.spotify.com/track/7hpGre5AKyTaLPgCITsSMR) | [Dhruv Sthetick](https://open.spotify.com/artist/4g8Z4if0DrwN5H83ZGpZ44), [Sthetick on Keyys](https://open.spotify.com/artist/7a2x8RWVoM3QBz8ILJVXno) | [Spellbound](https://open.spotify.com/album/727f2qEbusZp6jT1nj3JW0) | 3:21 |

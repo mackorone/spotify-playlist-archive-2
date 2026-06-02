@@ -15632,7 +15632,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 168539,
       "name": "NULLNEUN",
       "url": "https://open.spotify.com/track/3lIZO0nzkPw8ArCOZNX8l6"
@@ -19230,11 +19230,19 @@
         {
           "name": "G.Mineiro",
           "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        },
+        {
+          "name": "Flatpearl",
+          "url": "https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R"
+        },
+        {
+          "name": "Succo",
+          "url": "https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg"
         }
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 129090,
       "name": "Scendo E Cerco Un\u2019Altra",
       "url": "https://open.spotify.com/track/0qFzTGufPnqkI4GrAwXCg1"

@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Jordymone9
 
-460 songs - 20 hr 42 min
+461 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Dure Geintje](https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Dure Geintje](https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr) | 2:16 | 2026-02-12 |  |
 | [Eenzaam](https://open.spotify.com/track/2dg10oKMTxkzABwSythyvK) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Grijze](https://open.spotify.com/album/4J0OXItwOZUFT4QXPu18dw) | 3:04 | 2025-12-18 | 2026-04-17 |
 | [Eenzaam](https://open.spotify.com/track/6J5WlSjIOIQxHUro6UgkRX) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Eenzaam](https://open.spotify.com/album/1vUU3kqZAjhcbN3e2jvIUI) | 2:32 | 2026-04-16 | 2026-05-22 |
-| [Eerste Klus](https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:19 | 2026-03-19 |  |
+| [Eerste Klus](https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:19 | 2026-03-19 | 2026-06-02 |
 | [Emotional Damage](https://open.spotify.com/track/35BD5rWTlSWfH2Z9W5UVSc) | [D\-Double](https://open.spotify.com/artist/7sgdV8Ka9ILeZdzSqjzItk) | [Emotional Damage](https://open.spotify.com/album/7g9ZnM61b2rc5qDfkVGoA9) | 3:57 | 2026-04-16 |  |
 | [Encrypted](https://open.spotify.com/track/7F49HEqLIVKuK26mOL56CN) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu) | [Encrypted](https://open.spotify.com/album/4eHIDkjphxPvdrsRn8uDYo) | 2:01 | 2025-10-23 | 2026-01-23 |
 | [Endz](https://open.spotify.com/track/2KyxmtsF0qugKt4fHh2Wa2) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW), [Sevirio](https://open.spotify.com/artist/0C1qkv78R9GMPtSUt0rZb2) | [Endz](https://open.spotify.com/album/34gmhLuclw3pWmkEcJPhDu) | 2:09 | 2025-08-28 | 2025-09-12 |
@@ -424,6 +424,7 @@
 | [Uomini d’Onore](https://open.spotify.com/track/6cpG23bMKBRor5ZPBTxIRS) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [Heinek'n](https://open.spotify.com/artist/5ed6V9Y0zJ86tgeKvgDRKo) | [Rozengeur & Bloedsporen](https://open.spotify.com/album/0YG1mRrVCLpN3EfLbrW2Og) | 2:54 | 2025-08-28 | 2025-09-19 |
 | [Vage Gozer](https://open.spotify.com/track/0lIwbiNPr1wHVa2UfZSUMR) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK) | [Vage Gozer](https://open.spotify.com/album/71YgosnEaSCYHQX1T9EZyo) | 2:55 | 2026-01-29 | 2026-04-21 |
 | [VATO](https://open.spotify.com/track/656lFvGszcfHFgsYjr94vM) | [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [Steven Bergwijn](https://open.spotify.com/artist/4hIP6wtjjIZcGFFyDD2zw4), [Public Figure](https://open.spotify.com/artist/3ad52LK4v43lgKOAOUYi5Y) | [VATO](https://open.spotify.com/album/2jLTgpDuenbgIKr0hcqblw) | 3:13 | 2025-10-30 | 2025-11-28 |
+| [Vatos Locos](https://open.spotify.com/track/065QrSTbq6QXcxOkaJNBwe) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Vatos Locos](https://open.spotify.com/album/01tZQXKZDFjLCMRcrdws0X) | 2:42 | 2026-06-01 |  |
 | [Vdv](https://open.spotify.com/track/6qB66SFVZSTTWlWT8POSlM) | [Hekje31](https://open.spotify.com/artist/010ZclHHy7BrTO5AQ0xGgn), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [RResstante](https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC), [Gettalot](https://open.spotify.com/artist/3Ah2w3vVoguN5RdBDeyXPc), [Fearblow](https://open.spotify.com/artist/35xHCzQHAXuCWut0PxO793) | [Noéden](https://open.spotify.com/album/1v80U9kA5nNBvJXlCQbEFW) | 3:31 | 2025-08-14 | 2025-10-24 |
 | [Vertrek 3](https://open.spotify.com/track/31Q5H6Mue5WfP30A0usBId) | [SKEEKS](https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa) | [Vertrek 3](https://open.spotify.com/album/08EgIDBQf24QqbNktr0J7d) | 2:29 | 2026-01-08 | 2026-01-30 |
 | [Vertrouw Niemand](https://open.spotify.com/track/6OWhm03iyWFTX6UM8FGzcY) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Vertrouw Niemand](https://open.spotify.com/album/6Kkxkrjci5izGVL4q5ekag) | 2:45 | 2026-03-12 | 2026-04-03 |

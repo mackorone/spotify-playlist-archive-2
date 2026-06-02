@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-622 songs - 1 day 17 hr 44 min
+623 songs - 1 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [FAVOUR](https://open.spotify.com/track/0qgx6zvq7aU69Lt6iGDCvx) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [FAVOUR](https://open.spotify.com/album/4w6PorVb5s1RTpTWJWifhs) | 3:03 | 2024-10-18 | 2025-02-21 |
 | [Favoured](https://open.spotify.com/track/3MV5F5mXmSwV4SfDQtltEw) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Favoured](https://open.spotify.com/album/2DUMgEaK0BuGQ0zZ7KMl5g) | 2:50 | 2025-02-21 | 2025-05-02 |
 | [Feel So Good](https://open.spotify.com/track/7daG2xOKoua7f3nmvbsjyW) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Look, it's Green](https://open.spotify.com/album/2GUcf58yY6ChmzXR6DP6dC) | 2:11 | 2026-04-03 | 2026-05-18 |
-| [FEELIN](https://open.spotify.com/track/7G8r8DeL59ryZTT6ToMTeS) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Uno Genre](https://open.spotify.com/artist/4Wj4wdjGep1CoCQThDn8KX), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [FEELIN](https://open.spotify.com/album/5Uig3xMhqmo7uYb1bJI3BC) | 2:16 | 2026-05-01 |  |
+| [FEELIN](https://open.spotify.com/track/7G8r8DeL59ryZTT6ToMTeS) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Uno Genre](https://open.spotify.com/artist/4Wj4wdjGep1CoCQThDn8KX), [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5) | [FEELIN](https://open.spotify.com/album/5Uig3xMhqmo7uYb1bJI3BC) | 2:16 | 2026-05-01 | 2026-06-02 |
 | [Feels Good](https://open.spotify.com/track/1PjcG9WVo37d7rC095xRaI) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [Feels Good](https://open.spotify.com/album/6rdruiqR1RYqmURdMQFlcz) | 3:04 | 2024-11-08 | 2025-02-21 |
 | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Find Me Here \(Blessings Find Me\)](https://open.spotify.com/album/5ebJIqFHHtI9QytYJIs8Cy) | 2:06 | 2024-09-27 | 2025-02-28 |
 | [Firm Foundation \(He Won't\)\[Feat\. Chandler Moore\]](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 | 2024-11-22 | 2025-11-28 |
@@ -279,6 +279,7 @@
 | [I Love To Sing](https://open.spotify.com/track/2UpaUGsq9iYxao0NS6sx0Z) | [Enyll](https://open.spotify.com/artist/1RLIMh2QK8UDo18dg2FiqE) | [I Love To Sing](https://open.spotify.com/album/0UAGwm0HS9Qw7U6wT70vQe) | 3:04 | 2025-12-19 | 2026-01-15 |
 | [I Need You](https://open.spotify.com/track/4kl6JrRdDO2K2pPBPNVI0X) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG), [IsaiahLaRoi](https://open.spotify.com/artist/3o50w5mSnTFy6gmqGEu2Yv) | [I Need You](https://open.spotify.com/album/1lieJsFQbluMUfNGUYouZX) | 2:42 | 2025-10-24 | 2025-11-28 |
 | [I Overcame](https://open.spotify.com/track/4W3PcOJiacBGCQAhDMLRPP) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/487JaVhiwGAiG1i3aYIS6O) | 5:22 | 2024-09-30 | 2025-11-28 |
+| [I See The Lord \- Live](https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [I See The Lord \(Live\)](https://open.spotify.com/album/3EbJqKDeDsAX4wv1RZ5Za3) | 10:10 | 2026-05-29 |  |
 | [I Surrender](https://open.spotify.com/track/4LuaKxOzwnUJ1P88fXjR0T) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh) | [I Surrender](https://open.spotify.com/album/2eCZ2zLOptlOg9EBUo8I3V) | 3:00 | 2025-11-21 | 2026-01-15 |
 | [I Testify](https://open.spotify.com/track/25WsThhuvxiv7i2G0qMv0h) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Future Now](https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ) | 6:02 | 2025-02-14 |  |
 | [I'm a Living Fire](https://open.spotify.com/track/5jMev9PUAvCTqvx3KGUPG4) | [Jordan Praise](https://open.spotify.com/artist/7fG249hsXVMxhDYXtCfPzr) | [ReBirth](https://open.spotify.com/album/5aGAXK6OLeKDtDvC3WWfLO) | 3:38 | 2025-03-28 | 2025-05-16 |

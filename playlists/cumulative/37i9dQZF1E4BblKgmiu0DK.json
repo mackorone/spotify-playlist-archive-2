@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Crimson ValkyRies, Tssara, Die Mannequin and more",
+  "description": "With Crimson ValkyRies, Tssara, Kaelis Virel and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/7c8yo0HL6k2XYiqFRrxBzK"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 209600,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
@@ -1183,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/3RQrPlTO6RMsU5nJgoVYSS"
+      },
+      "artists": [
+        {
+          "name": "full pure horizon",
+          "url": "https://open.spotify.com/artist/6tCMsAFFbzB8Zo2yuY7Lsi"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129360,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/1IhqwS7LAs5KkSsQ6l8cJV"
+    },
+    {
+      "album": {
         "name": "Feral By Choice",
         "url": "https://open.spotify.com/album/5osFKToPWtS1XAazsafbr9"
       },
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 191140,
       "name": "Catapult",
       "url": "https://open.spotify.com/track/6akUUK3X6K49283AbwHJK4"
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 229586,
       "name": "Differently (feat. Travis McCoy)",
       "url": "https://open.spotify.com/track/0T8H3yrVHqTAQw4HqnRvR5"
@@ -2224,7 +2242,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 243281,
       "name": "Doll",
       "url": "https://open.spotify.com/track/6nxxyAxIg1B4RAaWg09j0C"
@@ -2458,7 +2476,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 218823,
       "name": "Echo",
       "url": "https://open.spotify.com/track/73BF4Y37KF0GJh8YCyEMdl"
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 112719,
       "name": "Empire Static Swagger",
       "url": "https://open.spotify.com/track/47yPEQ3W1kIsX3bWJwloPe"
@@ -2674,7 +2692,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 202840,
       "name": "Fall Behind Me",
       "url": "https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk"
@@ -2692,7 +2710,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 225200,
       "name": "FAME",
       "url": "https://open.spotify.com/track/2zty4A3XTAWyS4XHsY9EBj"
@@ -2912,7 +2930,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 181053,
       "name": "Follow the Lights - Monito Version",
       "url": "https://open.spotify.com/track/0Z0jTbX5oxLb3ohEwOiaXw"
@@ -3078,7 +3096,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 218066,
       "name": "Friends Like Mine",
       "url": "https://open.spotify.com/track/2D79BAoGxFQUjz4h3RkslT"
@@ -5028,7 +5046,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 219786,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67I2ZXHgILepytYzNMBAbm"
@@ -5440,7 +5458,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Makin Me Crazy (feat. AMAZONICA) - 2026 Remaster",
       "url": "https://open.spotify.com/track/2nZqW9PodUAAYYQi6PoZvX"
@@ -5746,7 +5764,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 182426,
       "name": "Miss Americvnt",
       "url": "https://open.spotify.com/track/0f5GbhBWi6BReYANrvg3N8"
@@ -7760,7 +7778,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 227306,
       "name": "Speak & Destroy",
       "url": "https://open.spotify.com/track/1gjlOlpdE4eus4gjl7HohK"
@@ -8964,7 +8982,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 244917,
       "name": "We'll Never Die",
       "url": "https://open.spotify.com/track/0Thn1p4p1bqvYjdfDX8uAj"
@@ -9112,6 +9130,24 @@
       "duration_ms": 214290,
       "name": "When I Wake Up",
       "url": "https://open.spotify.com/track/3O3fI1Z3myBXTCmUWT29zO"
+    },
+    {
+      "album": {
+        "name": "When the Heart Says Goodbye",
+        "url": "https://open.spotify.com/album/0Gw2iL592HYzT26LuJDjiQ"
+      },
+      "artists": [
+        {
+          "name": "Crimson ValkyRies",
+          "url": "https://open.spotify.com/artist/6QvCtGh44hAmVHohADuKNn"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174999,
+      "name": "When the Heart Says Goodbye",
+      "url": "https://open.spotify.com/track/15lNP5Q4MhSHIwSGTZ7u5k"
     },
     {
       "album": {

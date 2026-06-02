@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Syd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,755 likes - 274 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,726 likes - 274 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

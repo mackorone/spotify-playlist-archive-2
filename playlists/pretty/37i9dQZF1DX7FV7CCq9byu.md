@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,803 likes - 140 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,800 likes - 140 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Atom](https://open.spotify.com/track/24j5pHISv4r7Au45ueiZ8r) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Atom](https://open.spotify.com/album/2PH7ApIbAdLECzTi0iX5yB) | 2:41 |
 | 2 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
 | 3 | [Vad gör jag nu?](https://open.spotify.com/track/6IMBFqh4GmIRA0iUntwWhN) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Vad gör jag nu?](https://open.spotify.com/album/5lkw3OxRJvLDynKbnrmTcI) | 3:13 |
-| 4 | [Song and Dance Man](https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and Dance Man + Let's Go Camping](https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA) | 2:17 |
-| 5 | [Stammis](https://open.spotify.com/track/5cDSbU73KTPSa4osINu0Qs) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Simon Strömstedt](https://open.spotify.com/artist/29gZaii4lX0oXppmZEpT7W) | [Stammis](https://open.spotify.com/album/7q3CHJeVyYcbGc2bGu7Ygc) | 3:46 |
-| 6 | [Lycka till, ha det bra](https://open.spotify.com/track/06zomPNddyGvGghI16PN1U) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Om ditt namn var Natalie](https://open.spotify.com/album/4UXKOpwiliOUMQ8rRa0Ho5) | 2:57 |
-| 7 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 |
+| 4 | [Stammis](https://open.spotify.com/track/5cDSbU73KTPSa4osINu0Qs) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Simon Strömstedt](https://open.spotify.com/artist/29gZaii4lX0oXppmZEpT7W) | [Stammis](https://open.spotify.com/album/7q3CHJeVyYcbGc2bGu7Ygc) | 3:46 |
+| 5 | [Lycka till, ha det bra](https://open.spotify.com/track/06zomPNddyGvGghI16PN1U) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Om ditt namn var Natalie](https://open.spotify.com/album/4UXKOpwiliOUMQ8rRa0Ho5) | 2:57 |
+| 6 | [the cure](https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [the cure](https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y) | 4:57 |
+| 7 | [Song and Dance Man](https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and Dance Man + Let's Go Camping](https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA) | 2:17 |
 | 8 | [Farsans händer](https://open.spotify.com/track/5Q6hZUb0wqqasN62P0N3wD) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Farsans händer](https://open.spotify.com/album/2sc5mcCEfmeKSjBxziE6Uz) | 3:07 |
-| 9 | [STOP](https://open.spotify.com/track/2487dSsY2qY7OZxbhSdqDp) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [are you mad at me?](https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL) | 2:56 |
-| 10 | [Pappa kommer inte hem](https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Det högsta ljud jag hört](https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY) | 3:10 |
+| 9 | [Pappa kommer inte hem](https://open.spotify.com/track/5r2KPAo67ayJ5CyDH6uhql) | [Oskar Linnros](https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi) | [Det högsta ljud jag hört](https://open.spotify.com/album/3WYtGbzsy5rUpYKf7u9tlY) | 3:10 |
+| 10 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
 | 11 | [From Down Here](https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [From Down Here](https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u) | 4:01 |
 | 12 | [Farligaste](https://open.spotify.com/track/3EMO5vkEN7sFkDUyKNaD1Y) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [POWERBALLADER](https://open.spotify.com/album/278kUvgRBmXIOjp0tOO8FE) | 2:42 |
 | 13 | [Hela världen](https://open.spotify.com/track/3uOz4RtO8A0etLzetCpwC8) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Hela världen](https://open.spotify.com/album/2tqvHHHZaIqPmesiaxmhRP) | 3:26 |
-| 14 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
+| 14 | [STOP](https://open.spotify.com/track/2487dSsY2qY7OZxbhSdqDp) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [are you mad at me?](https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL) | 2:56 |
 | 15 | [Rakt i kaklet](https://open.spotify.com/track/3CJ6cEV4Z3YaNarSa4pOpp) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Rakt i kaklet](https://open.spotify.com/album/63xIwF9Pt9Vd2IjhplezFU) | 2:59 |
 | 16 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 |
 | 17 | [Ring mig](https://open.spotify.com/track/04OVPwGPTvOe5A88zHZsub) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Ring mig](https://open.spotify.com/album/7b6XoHCw7wYunL5SuEN7PA) | 2:26 |
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 139 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
 | 140 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 |
 
-Snapshot ID: `AAAAAJycoKj6sMpz0F7rjTRxd2FEikoJ`
+Snapshot ID: `AAAAAMYxVDI2u4aB0XF1b+3XfJGzc+nK`

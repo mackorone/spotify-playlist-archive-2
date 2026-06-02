@@ -1,12 +1,12 @@
 {
   "description": "This is SPYAIR. The essential tracks, all in one playlist.",
-  "num_followers": 28159,
+  "num_followers": 28162,
   "original_name": "This Is SPYAIR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahoogAAAAAB9sidtWiroHNuA3dVuu55Y",
+  "snapshot_id": "aht6AAAAAACfyCTPy2Zd/05+F9oskMkt",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RE-BIRTH",
-        "url": "https://open.spotify.com/album/1sR5KzprQKpzjuJc1u586m"
+        "name": "BEST",
+        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 193973,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/0JtabsBfN1J8KnWw6x1PE3"
+      "duration_ms": 238640,
+      "name": "JUST ONE LIFE",
+      "url": "https://open.spotify.com/track/2vCumCEw0EKMj88IZ659cP"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST",
-        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
+        "name": "RE-BIRTH",
+        "url": "https://open.spotify.com/album/1sR5KzprQKpzjuJc1u586m"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 238640,
-      "name": "JUST ONE LIFE",
-      "url": "https://open.spotify.com/track/2vCumCEw0EKMj88IZ659cP"
+      "duration_ms": 193973,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/0JtabsBfN1J8KnWw6x1PE3"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 232973,
-      "name": "\u30d5\u30a1\u30a4\u30a2\u30b9\u30bf\u30fc\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/34zx9CE9xviVXZk5tyj5Ut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STILL ON FIRE",
         "url": "https://open.spotify.com/album/0mVecY7PMTHop2lnWOb7Vf"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 196066,
       "name": "STILL ON FIRE",
       "url": "https://open.spotify.com/track/5blRKN8WIFG3WXUzNytf5B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/5But7Bof89100t1dGas3vE"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 232973,
+      "name": "\u30d5\u30a1\u30a4\u30a2\u30b9\u30bf\u30fc\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/34zx9CE9xviVXZk5tyj5Ut"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST OF THE BEST",
-        "url": "https://open.spotify.com/album/68QoEUuuoo734ojnUufXJ3"
-      },
-      "artists": [
-        {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
-        }
-      ],
-      "duration_ms": 234373,
-      "name": "Born To Be Loud",
-      "url": "https://open.spotify.com/track/7Fw38gA686VM1lgJUu4ViS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIAR",
         "url": "https://open.spotify.com/album/5Q7cs4fbLi9ouR8FpLHikk"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 245053,
       "name": "SINGING",
       "url": "https://open.spotify.com/track/23CvdoP44hvsQQHzZmBEWB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEST OF THE BEST",
+        "url": "https://open.spotify.com/album/68QoEUuuoo734ojnUufXJ3"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "duration_ms": 234373,
+      "name": "Born To Be Loud",
+      "url": "https://open.spotify.com/track/7Fw38gA686VM1lgJUu4ViS"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEST",
-        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
+        "name": "UNITE",
+        "url": "https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 296866,
-      "name": "\u3042\u306e\u9803\u3001\u50d5\u3089\u306f\u540c\u3058\u672a\u6765\u3092",
-      "url": "https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5"
+      "duration_ms": 216000,
+      "name": "Get over it",
+      "url": "https://open.spotify.com/track/0bd3mjHcB0y5NV3j0Qg1rl"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNITE",
-        "url": "https://open.spotify.com/album/1ZKqKNaTjM3yuWYRmv33m4"
+        "name": "BEST",
+        "url": "https://open.spotify.com/album/6tQGlVKPllcFPSmlbv2mVx"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Get over it",
-      "url": "https://open.spotify.com/track/0bd3mjHcB0y5NV3j0Qg1rl"
+      "duration_ms": 296866,
+      "name": "\u3042\u306e\u9803\u3001\u50d5\u3089\u306f\u540c\u3058\u672a\u6765\u3092",
+      "url": "https://open.spotify.com/track/1gR5yiekZEQtB0XLS4LBx5"
     },
     {
       "added_at": null,

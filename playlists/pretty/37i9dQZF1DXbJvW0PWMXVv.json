@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 77534,
+  "num_followers": 77530,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "big buraco",
-        "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
-      },
-      "artists": [
-        {
-          "name": "Jadsa",
-          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
-        }
-      ],
-      "duration_ms": 180185,
-      "name": "sol na pele",
-      "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Cancionera",
         "url": "https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 336005,
       "name": "Cancionera",
       "url": "https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "big buraco",
+        "url": "https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN"
+      },
+      "artists": [
+        {
+          "name": "Jadsa",
+          "url": "https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj"
+        }
+      ],
+      "duration_ms": 180185,
+      "name": "sol na pele",
+      "url": "https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq"
     },
     {
       "added_at": "2025-09-17 15:00:09",
@@ -931,26 +931,6 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
-        "name": "Hamilton de Holanda Trio - Live in NYC",
-        "url": "https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr"
-      },
-      "artists": [
-        {
-          "name": "Hamilton De Holanda",
-          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
-        },
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 315110,
-      "name": "Todo Dia \u00c9 Um Recome\u00e7o",
-      "url": "https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
         "name": "Milton + esperanza",
         "url": "https://open.spotify.com/album/6lVRgFz4vQ3qoNT2nJfsar"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 276973,
       "name": "Um Vento Passou (para Paul Simon)",
       "url": "https://open.spotify.com/track/4KEvdc2UmMNMwTs4XlhmkG"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
+        "name": "Hamilton de Holanda Trio - Live in NYC",
+        "url": "https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr"
+      },
+      "artists": [
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 315110,
+      "name": "Todo Dia \u00c9 Um Recome\u00e7o",
+      "url": "https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7"
     },
     {
       "added_at": "2025-09-17 15:00:09",

@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "DIRT",
+        "url": "https://open.spotify.com/album/2y6jtOEkZXgrtbkvcXdfrG"
+      },
+      "artists": [
+        {
+          "name": "Val Texas",
+          "url": "https://open.spotify.com/artist/7spILdiaFh8D2O1yiGNGrA"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161269,
+      "name": "JEAN SHORTS",
+      "url": "https://open.spotify.com/track/3L2Na5XhAajI0KVaQp7qFu"
+    },
+    {
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/6ZMr3nj1g6MKbNmexo4KcB"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Asha Bhosle",
-  "num_followers": 103573,
+  "num_followers": 103602,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,30 @@
     {
       "added_at": "2026-05-29 04:41:29",
       "album": {
+        "name": "Na Lage Nazar",
+        "url": "https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Na Lage Nazar",
+      "url": "https://open.spotify.com/track/28U6ckPA3oRItIEzVbe3j7"
+    },
+    {
+      "added_at": "2026-05-29 04:41:29",
+      "album": {
         "name": "Maan Jao",
         "url": "https://open.spotify.com/album/44wT6D3aZMj90IkzsftFRF"
       },
@@ -971,30 +995,6 @@
     {
       "added_at": "2026-05-29 04:41:29",
       "album": {
-        "name": "Na Lage Nazar",
-        "url": "https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY"
-      },
-      "artists": [
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        },
-        {
-          "name": "Aditya Bisht",
-          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
-        },
-        {
-          "name": "Anurag Mishra",
-          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Na Lage Nazar",
-      "url": "https://open.spotify.com/track/28U6ckPA3oRItIEzVbe3j7"
-    },
-    {
-      "added_at": "2026-05-29 04:41:29",
-      "album": {
         "name": "Ho Jaa",
         "url": "https://open.spotify.com/album/4IbUlWxqCC11mPVme8IxzF"
       },
@@ -1011,26 +1011,30 @@
     {
       "added_at": "2026-05-29 04:41:29",
       "album": {
-        "name": "umraan",
-        "url": "https://open.spotify.com/album/0RYVngJi1hWo7yqsy2dzN7"
+        "name": "Saanware",
+        "url": "https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm"
       },
       "artists": [
         {
-          "name": "Rashmeet Kaur",
-          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+          "name": "Zikrr",
+          "url": "https://open.spotify.com/artist/4aEfgXDQuGLSDsyFRGt2DZ"
         },
         {
-          "name": "tricksingh",
-          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
+          "name": "Vidhi Tyagi",
+          "url": "https://open.spotify.com/artist/2WUJ2S53A6RZENNR2rbAzr"
         },
         {
-          "name": "ADP",
-          "url": "https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i"
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        },
+        {
+          "name": "DUSH",
+          "url": "https://open.spotify.com/artist/05abXfm9g4tZcaUqn301Xh"
         }
       ],
-      "duration_ms": 151874,
-      "name": "umraan",
-      "url": "https://open.spotify.com/track/5BbkLWMmRsEVEbgVkuoIab"
+      "duration_ms": 214400,
+      "name": "Saanware",
+      "url": "https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i"
     },
     {
       "added_at": "2026-05-29 04:41:29",
@@ -1055,6 +1059,30 @@
       "duration_ms": 155357,
       "name": "Aa Zara",
       "url": "https://open.spotify.com/track/0MoRzKAl00iGQVOfUhmAUJ"
+    },
+    {
+      "added_at": "2026-05-29 04:41:29",
+      "album": {
+        "name": "umraan",
+        "url": "https://open.spotify.com/album/0RYVngJi1hWo7yqsy2dzN7"
+      },
+      "artists": [
+        {
+          "name": "Rashmeet Kaur",
+          "url": "https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J"
+        },
+        {
+          "name": "tricksingh",
+          "url": "https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk"
+        },
+        {
+          "name": "ADP",
+          "url": "https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "umraan",
+      "url": "https://open.spotify.com/track/5BbkLWMmRsEVEbgVkuoIab"
     },
     {
       "added_at": "2026-05-29 04:41:29",
@@ -1107,22 +1135,6 @@
       "duration_ms": 187317,
       "name": "Ankhiyan Nigodi",
       "url": "https://open.spotify.com/track/2gXCEGUg2zmQODJLfAVJmu"
-    },
-    {
-      "added_at": "2026-05-29 04:41:29",
-      "album": {
-        "name": "Impression",
-        "url": "https://open.spotify.com/album/2jZQt2LalNKkcI7r8G4eI5"
-      },
-      "artists": [
-        {
-          "name": "Shalmali Kholgade",
-          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
-        }
-      ],
-      "duration_ms": 131288,
-      "name": "Impression",
-      "url": "https://open.spotify.com/track/62qTL9muHhMFfKxKHEW0Xw"
     }
   ],
   "unique_name": "EQUAL India",

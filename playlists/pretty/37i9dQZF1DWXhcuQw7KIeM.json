@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 587524,
+  "num_followers": 587588,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-11-14 04:00:17",
       "album": {
-        "name": "Hersir",
-        "url": "https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD"
-      },
-      "artists": [
-        {
-          "name": "Hulkoff",
-          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
-        }
-      ],
-      "duration_ms": 145826,
-      "name": "Hersir",
-      "url": "https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO"
-    },
-    {
-      "added_at": "2025-11-14 04:00:17",
-      "album": {
         "name": "Sunir",
         "url": "https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 398160,
       "name": "Anaia",
       "url": "https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC"
+    },
+    {
+      "added_at": "2025-11-14 04:00:17",
+      "album": {
+        "name": "Hersir",
+        "url": "https://open.spotify.com/album/0A00Ykp2mAq35Ob6sQmqzD"
+      },
+      "artists": [
+        {
+          "name": "Hulkoff",
+          "url": "https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH"
+        }
+      ],
+      "duration_ms": 145826,
+      "name": "Hersir",
+      "url": "https://open.spotify.com/track/14peV9O1Fm2QpOIzesUudO"
     },
     {
       "added_at": "2025-11-14 04:00:17",

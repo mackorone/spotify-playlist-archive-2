@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Viniloversus en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,923 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,904 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vértigo](https://open.spotify.com/track/4JQqJWba7QvMixVzrefzlZ) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt) | [La Frontera](https://open.spotify.com/album/68M19FS9VdSxdSPl5uzUWt) | 2:56 |
 | 2 | [A ver quién se duerme ahora](https://open.spotify.com/track/7o5WOg4bXlWjVmOBPLgEtb) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ) | [A ver quién se duerme ahora](https://open.spotify.com/album/0nJbGCacKiwX8Rw1teA7lJ) | 3:28 |
-| 3 | [Me da igual](https://open.spotify.com/track/5GhPY7com5UF8FOeYUczAF) | [Perfecto Miserable](https://open.spotify.com/artist/48z3nG28oOK5eXgDOCjcon), [pablo morfeo](https://open.spotify.com/artist/67qie8QmMvLni5TBlqgPvU) | [Me da igual](https://open.spotify.com/album/4BxtMUES9diwHKdNlYgDjR) | 2:27 |
+| 3 | [Me da igual](https://open.spotify.com/track/5GhPY7com5UF8FOeYUczAF) | [Perfecto Miserable](https://open.spotify.com/artist/48z3nG28oOK5eXgDOCjcon), [pablo morfeo](https://open.spotify.com/artist/2LIf6qH4Lc71sFtILoF9GB) | [Me da igual](https://open.spotify.com/album/4BxtMUES9diwHKdNlYgDjR) | 2:27 |
 | 4 | [los quiero de verdad](https://open.spotify.com/track/6mhuq822JPDG5gEp5Ey2KF) | [1702](https://open.spotify.com/artist/01qP45vTj8wyA2YllLfzfS), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [hoy les digo que](https://open.spotify.com/album/6ArPxheUgUkE5lfXli0vxA) | 3:56 |
 | 5 | [Tunombrealaciudad \(Mirror Tapes\)](https://open.spotify.com/track/4eNhTfHLJ4GS7AOvka4DM0) | [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Tunombrealaciudad \(Mirror Tapes\)](https://open.spotify.com/album/1Wt7MvsUGlxmM6Wjzp96Ay) | 3:06 |
 | 6 | [mar caribe](https://open.spotify.com/track/2WFsbq2Av9w3fx6vZ49U3g) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [la esquina + violenta](https://open.spotify.com/album/3BlNClVeOvM4q3DVKJIKnO) | 4:14 |

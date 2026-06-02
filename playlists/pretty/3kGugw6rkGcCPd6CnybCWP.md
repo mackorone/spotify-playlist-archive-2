@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 107 songs - 6 hr 12 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 108 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 105 | [Back To Me](https://open.spotify.com/track/2e1Mqe1pQWp9wRKtoRH5pN) | [Ham Radio](https://open.spotify.com/artist/0KAzAbafgVSUP3w8P4n5SM), [American Theory](https://open.spotify.com/artist/28Qtn1c2vjIrKMKvZHFsD8) | [Back To Me](https://open.spotify.com/album/1eQJZ2ju0grdHgVCeUkgYq) | 3:33 |
 | 106 | [Super 8](https://open.spotify.com/track/5RYqOCd159JIlWw7MDTPN0) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Super 8](https://open.spotify.com/album/2Nbr2TjNHUruDKEVHmix6a) | 4:08 |
 | 107 | [Round and Round](https://open.spotify.com/track/7uFPwIzZHUJCbPpkbhk71U) | [Plastic Funeral](https://open.spotify.com/artist/65Af8cCDWCfPu1nEX9PIfy) | [Round and Round](https://open.spotify.com/album/1H9cOzkLY09KkJVSdcKHJA) | 4:49 |
+| 108 | [Here to Stay](https://open.spotify.com/track/1pQmRpOXuIufHIGaylroCw) | [Edwina Van Kuyk](https://open.spotify.com/artist/268un72oahUYc2Vyt2YGB7) | [Here to Stay](https://open.spotify.com/album/4pzZL5wRL6e8tG0DASYvl6) | 3:01 |
 
-Snapshot ID: `AAAO/O/NrMt40VntWxiyxhjOz+RNRtkL`
+Snapshot ID: `AAAO/aG2oV/3fTgHUlEC9yCqRboTwSie`

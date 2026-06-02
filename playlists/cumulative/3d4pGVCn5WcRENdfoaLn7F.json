@@ -2395,6 +2395,24 @@
     },
     {
       "album": {
+        "name": "Hollow Eyes",
+        "url": "https://open.spotify.com/album/2dmxukyWSXkjiSeD1eGsPL"
+      },
+      "artists": [
+        {
+          "name": "Mike Power",
+          "url": "https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203948,
+      "name": "Hollow Eyes",
+      "url": "https://open.spotify.com/track/0BY1CFp97qI8opvS0KbD4z"
+    },
+    {
+      "album": {
         "name": "Homework Forever",
         "url": "https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420654,
+  "num_followers": 420647,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-05-20 18:15:24",
       "album": {
-        "name": "Roots Dance",
-        "url": "https://open.spotify.com/album/6afQ6HTPEO3pTjL99ncQso"
-      },
-      "artists": [
-        {
-          "name": "Chimarruts",
-          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
-        }
-      ],
-      "duration_ms": 158819,
-      "name": "Roots Dance",
-      "url": "https://open.spotify.com/track/3rnUgJFac0V6O8D0MQQBMw"
-    },
-    {
-      "added_at": "2026-05-20 18:15:24",
-      "album": {
         "name": "Pipa",
         "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 181740,
       "name": "Pipa",
       "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
+    },
+    {
+      "added_at": "2026-05-20 18:15:24",
+      "album": {
+        "name": "Roots Dance",
+        "url": "https://open.spotify.com/album/6afQ6HTPEO3pTjL99ncQso"
+      },
+      "artists": [
+        {
+          "name": "Chimarruts",
+          "url": "https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW"
+        }
+      ],
+      "duration_ms": 158819,
+      "name": "Roots Dance",
+      "url": "https://open.spotify.com/track/3rnUgJFac0V6O8D0MQQBMw"
     },
     {
       "added_at": "2026-05-20 18:15:24",

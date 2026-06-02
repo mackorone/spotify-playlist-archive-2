@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: J Wax",
-  "num_followers": 105316,
+  "num_followers": 105332,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-05-29 11:07:50",
       "album": {
-        "name": "Talking Nonsense",
-        "url": "https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy"
-      },
-      "artists": [
-        {
-          "name": "Soul Mass Transit System",
-          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
-        }
-      ],
-      "duration_ms": 339663,
-      "name": "Talking Nonsense",
-      "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
-    },
-    {
-      "added_at": "2026-05-29 11:07:50",
-      "album": {
         "name": "Needed You",
         "url": "https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp"
       },
@@ -923,42 +907,18 @@
     {
       "added_at": "2026-05-29 11:07:50",
       "album": {
-        "name": "Swings",
-        "url": "https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk"
+        "name": "Talking Nonsense",
+        "url": "https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy"
       },
       "artists": [
         {
-          "name": "KiLLOWEN",
-          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+          "name": "Soul Mass Transit System",
+          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
         }
       ],
-      "duration_ms": 141535,
-      "name": "Swings",
-      "url": "https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY"
-    },
-    {
-      "added_at": "2026-05-29 11:07:50",
-      "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/1dkMg6enDSv6bjEBBqnt8c"
-      },
-      "artists": [
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 199411,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9"
+      "duration_ms": 339663,
+      "name": "Talking Nonsense",
+      "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
     },
     {
       "added_at": "2026-05-29 11:07:50",
@@ -991,6 +951,30 @@
     {
       "added_at": "2026-05-29 11:07:50",
       "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/1dkMg6enDSv6bjEBBqnt8c"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 199411,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/1LdRvKZka9ZHunz6eoH5B9"
+    },
+    {
+      "added_at": "2026-05-29 11:07:50",
+      "album": {
         "name": "Pingers",
         "url": "https://open.spotify.com/album/48Gg8EbVBCsBpQAgfHl7ek"
       },
@@ -1011,6 +995,22 @@
     {
       "added_at": "2026-05-29 11:07:50",
       "album": {
+        "name": "Swings",
+        "url": "https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "duration_ms": 141535,
+      "name": "Swings",
+      "url": "https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY"
+    },
+    {
+      "added_at": "2026-05-29 11:07:50",
+      "album": {
         "name": "F\u00f3n P\u00f3ca (feat. Travy)",
         "url": "https://open.spotify.com/album/46vTHTMcKsi2Xs2GVUQEDF"
       },
@@ -1027,22 +1027,6 @@
       "duration_ms": 217706,
       "name": "F\u00f3n P\u00f3ca (feat. Travy)",
       "url": "https://open.spotify.com/track/7F8E0Skfsvz8bImaNTZxas"
-    },
-    {
-      "added_at": "2026-05-29 11:07:50",
-      "album": {
-        "name": "Naughties",
-        "url": "https://open.spotify.com/album/3vtgWRCNRarRGSj1nFDofe"
-      },
-      "artists": [
-        {
-          "name": "KiLLOWEN",
-          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Naughties",
-      "url": "https://open.spotify.com/track/7zzQAlN6An9YQfIK7KT8DP"
     },
     {
       "added_at": "2026-05-29 11:07:50",
@@ -1091,22 +1075,6 @@
     {
       "added_at": "2026-05-29 11:07:50",
       "album": {
-        "name": "Melon",
-        "url": "https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3"
-      },
-      "artists": [
-        {
-          "name": "Lockerz",
-          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Melon",
-      "url": "https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M"
-    },
-    {
-      "added_at": "2026-05-29 11:07:50",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5"
       },
@@ -1123,22 +1091,34 @@
     {
       "added_at": "2026-05-29 11:07:50",
       "album": {
-        "name": "Motion Sickness",
-        "url": "https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8"
+        "name": "Naughties",
+        "url": "https://open.spotify.com/album/3vtgWRCNRarRGSj1nFDofe"
       },
       "artists": [
         {
           "name": "KiLLOWEN",
           "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
-        },
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
         }
       ],
-      "duration_ms": 200571,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18"
+      "duration_ms": 146893,
+      "name": "Naughties",
+      "url": "https://open.spotify.com/track/7zzQAlN6An9YQfIK7KT8DP"
+    },
+    {
+      "added_at": "2026-05-29 11:07:50",
+      "album": {
+        "name": "Melon",
+        "url": "https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3"
+      },
+      "artists": [
+        {
+          "name": "Lockerz",
+          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Melon",
+      "url": "https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M"
     },
     {
       "added_at": "2026-05-29 11:07:50",
@@ -1187,6 +1167,26 @@
       "duration_ms": 178777,
       "name": "Picking Up The Pace",
       "url": "https://open.spotify.com/track/5koTalU95XrUKGGa1nwCSp"
+    },
+    {
+      "added_at": "2026-05-29 11:07:50",
+      "album": {
+        "name": "Motion Sickness",
+        "url": "https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18"
     },
     {
       "added_at": "2026-05-29 11:07:50",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-05-29 11:07:50",
       "album": {
-        "name": "Draw a Line",
-        "url": "https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH"
-      },
-      "artists": [
-        {
-          "name": "Lu.Re",
-          "url": "https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN"
-        }
-      ],
-      "duration_ms": 205162,
-      "name": "Draw a Line",
-      "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
-    },
-    {
-      "added_at": "2026-05-29 11:07:50",
-      "album": {
         "name": "See Thru",
         "url": "https://open.spotify.com/album/0Dgr5QpgjUOa45upuXnCXO"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 160000,
       "name": "See Thru",
       "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
+    },
+    {
+      "added_at": "2026-05-29 11:07:50",
+      "album": {
+        "name": "Draw a Line",
+        "url": "https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH"
+      },
+      "artists": [
+        {
+          "name": "Lu.Re",
+          "url": "https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN"
+        }
+      ],
+      "duration_ms": 205162,
+      "name": "Draw a Line",
+      "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
     },
     {
       "added_at": "2026-05-29 11:07:50",

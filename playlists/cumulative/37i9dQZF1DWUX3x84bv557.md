@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Bente
 
-1,339 songs - 2 day 15 hr 56 min
+1,341 songs - 2 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,7 +453,7 @@
 | [Harmonie](https://open.spotify.com/track/1RGseAlntVH6yD65xKi509) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Harmonie](https://open.spotify.com/album/7ekoyoS7XjHdic9gqDGlxm) | 2:59 | 2024-01-18 | 2024-03-15 |
 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 | 2025-04-24 | 2025-07-18 |
 | [Hart Zonder Krassen](https://open.spotify.com/track/3FuVRInBL4Nph4L1oRscbe) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Hart Zonder Krassen](https://open.spotify.com/album/4eSC7ylSZLb4nkWIehlLJi) | 2:23 | 2025-10-23 | 2026-01-23 |
-| [Harteloos](https://open.spotify.com/track/1YvfQqLQdV2hw9WNoUJkTm) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Harteloos](https://open.spotify.com/album/0cJVc75pWZWLMBkZOZ6Z3e) | 2:33 | 2026-03-19 |  |
+| [Harteloos](https://open.spotify.com/track/1YvfQqLQdV2hw9WNoUJkTm) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Harteloos](https://open.spotify.com/album/0cJVc75pWZWLMBkZOZ6Z3e) | 2:33 | 2026-03-19 | 2026-06-02 |
 | [Hartenbreker](https://open.spotify.com/track/28vRO0o5XMVU2DIDqAPrFc) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Hartenbreker](https://open.spotify.com/album/0PqE4iqArw2Ax0mbKqfjFU) | 2:37 | 2023-12-08 | 2024-03-15 |
 | [Hartslag](https://open.spotify.com/track/2JH8u157TEJOojZ4GfRxUv) | [Mees](https://open.spotify.com/artist/69JBEM02xkpzdC6nuafOiI) | [Hartslag](https://open.spotify.com/album/0mpT1ek8Dt0m3w7oowVJpN) | 2:21 | 2025-05-29 | 2025-10-10 |
 | [Hartslag Van De Stad](https://open.spotify.com/track/78ZiXK0IZ1uiuCHUzFWmcl) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Hartslag Van De Stad](https://open.spotify.com/album/4CFGDK4RYUeX4v544VExLo) | 2:59 | 2023-09-28 | 2024-01-12 |
@@ -882,6 +882,7 @@
 | [Nonchalant](https://open.spotify.com/track/4xfPIBJaa4SBpiphmCzrUo) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Nonchalant](https://open.spotify.com/album/4AUBKZCLgsSAjAdKazWYQI) | 2:30 | 2025-10-16 | 2026-01-23 |
 | [Noodrem](https://open.spotify.com/track/5NM9cd1PYAg9tmMapkRDuz) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Noodrem](https://open.spotify.com/album/5wM4vPPqTJ51nUrOH4kLxu) | 3:27 | 2025-10-02 | 2025-12-19 |
 | [Nooduitgang](https://open.spotify.com/track/1ZSDaIEJm2tiYGrkSiKDMn) | [Bazart](https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ) | [Nooduitgang](https://open.spotify.com/album/6AhmUsPetlmZRoXXFoX6kn) | 3:51 | 2025-11-06 | 2025-12-12 |
+| [Nooduitgang](https://open.spotify.com/track/5rOBfDJVwRRDFNe2YxeXbf) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Nooduitgang](https://open.spotify.com/album/4nTDJDQYvw7pzXVojgpsI8) | 3:24 | 2026-06-01 |  |
 | [Nooit Alleen \(Dit Is Wat Mijn Mama Zei\) \- Radio Edit](https://open.spotify.com/track/42TrRURvbB6SD5fjSR71PB) | [Eva Simons](https://open.spotify.com/artist/2d6W4cnC5XsVOaxtgaj9hA) | [Nooit Alleen \(Dit Is Wat Mijn Mama Zei\) \[Radio Edit\]](https://open.spotify.com/album/7BMPGjcpUSCZQyeEiGPoEo) | 2:55 | 2023-11-02 | 2024-02-16 |
 | [Nooit Echt Van Mij](https://open.spotify.com/track/0QOU6ZXADvlZc7dyuG0uqS) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Nooit Echt Van Mij](https://open.spotify.com/album/4zMpCoxZcpE1sMjYzZI47y) | 2:17 | 2025-02-27 | 2025-05-23 |
 | [Nooit Genoeg \(bla bla bla\)](https://open.spotify.com/track/1vynTOF2wevlg9eE0Y06W5) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Nooit Genoeg \(bla bla bla\)](https://open.spotify.com/album/0DntQLCiPu5P9GJQ8gUAxJ) | 2:26 | 2025-09-11 | 2025-11-14 |
@@ -919,7 +920,7 @@
 | [Ongevraagde Vragen](https://open.spotify.com/track/2nlLX6pgUHvu9esjEbDFcx) | [Shenelva](https://open.spotify.com/artist/59mZykBJSMZk08cUncPyjv) | [Ongevraagde Vragen](https://open.spotify.com/album/5jtb0lHqQpm7XAkbRZ8cgF) | 3:27 | 2024-10-18 | 2024-12-13 |
 | [Ongezien](https://open.spotify.com/track/2PJyGfXFYv6XzBvrO1szhQ) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q), [Rhodé Kok](https://open.spotify.com/artist/47oMdNjsvbREik3zoNlbL6) | [Ongezien](https://open.spotify.com/album/6PYy4lyXipNUcHl9cVYlaM) | 2:29 | 2023-07-31 | 2023-09-22 |
 | [Online](https://open.spotify.com/track/64r0yTL6Tinak5LjCOUpxG) | [Younes](https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0) | [Online](https://open.spotify.com/album/2aTr3xBo8zgf7Ya845DypK) | 2:50 | 2023-02-23 | 2023-03-18 |
-| [Ons Hart](https://open.spotify.com/track/1twrDS67jyp2YXGZ89jAF3) | [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Ons Hart](https://open.spotify.com/album/2SVy3vM8Lw9w9MOXICtsJI) | 2:54 | 2026-03-23 |  |
+| [Ons Hart](https://open.spotify.com/track/1twrDS67jyp2YXGZ89jAF3) | [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Ons Hart](https://open.spotify.com/album/2SVy3vM8Lw9w9MOXICtsJI) | 2:54 | 2026-03-23 | 2026-06-02 |
 | [Onweer In M'n Hoofd](https://open.spotify.com/track/7GyjwvMINxtagvYJN33O0p) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Onweer In M'n Hoofd](https://open.spotify.com/album/7DP9NG2p1qW5hgO2S87BT3) | 2:54 | 2024-09-12 | 2024-10-25 |
 | [Oog van de Orkaan](https://open.spotify.com/track/4Q2nXiRdHJotWpLrtYQhlw) | [Bart Voncken](https://open.spotify.com/artist/313iy3CDtL0MAqtm6ObDTa), [Dwight Dissels](https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f) | [Oog van de Orkaan](https://open.spotify.com/album/7cSCqm3G9fVViBjTEh3YAT) | 2:58 | 2025-12-11 | 2026-01-15 |
 | [Ooit](https://open.spotify.com/track/1cfwCRlpkbTDoVQwY0jF7L) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [Ooit](https://open.spotify.com/album/2tSHHPhn58yk1pHuAbO8HT) | 3:28 | 2025-02-07 | 2025-04-25 |
@@ -997,6 +998,7 @@
 | [Rustig Aan](https://open.spotify.com/track/00DY5arVSND7mosWaEuTpp) | [AISHA](https://open.spotify.com/artist/5UpppF0nILJOYwXkRCgieY) | [Rustig Aan](https://open.spotify.com/album/1myQT2kMsFJLPckPWuvgrh) | 2:19 | 2026-05-28 |  |
 | [Ruwe Diamant](https://open.spotify.com/track/3Q0XoPBcs6NxI15FQBwtyI) | [Cheyenne Toney](https://open.spotify.com/artist/1sTs8GU5lgBiANf1OypPp8) | [Ruwe Diamant](https://open.spotify.com/album/7n1ZlbM9wq9eI0t6NcZ8FY) | 2:16 | 2024-04-25 | 2024-07-20 |
 | [Saai](https://open.spotify.com/track/7GTTbP6Gz9Zu3qet2Rroga) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Saai](https://open.spotify.com/album/343waDPIpF4NnfRbMjkBIA) | 2:55 | 2026-02-26 | 2026-05-22 |
+| [Safe and Sound](https://open.spotify.com/track/1rPiYTqwFEgpIw9F1Anu0d) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Safe and Sound](https://open.spotify.com/album/4ww7KYNPOFZBtP60Mj7hPq) | 3:13 | 2026-06-01 |  |
 | [Salmari & Kreeft](https://open.spotify.com/track/12BhfJTdaDmy9dSAQIaLPN) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Naar De Haaien & Weer Terug](https://open.spotify.com/album/49kVZFZguyqvfxt0HklIhg) | 4:22 | 2024-10-03 | 2024-11-22 |
 | [Samen](https://open.spotify.com/track/6R8yIWBiagEoxILhcY1Hnw) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Samen](https://open.spotify.com/album/55XhyytN7FTEHoNiGphKRe) | 2:36 | 2024-05-30 | 2024-06-28 |
 | [Samen](https://open.spotify.com/track/1pwrVAT0Ks9gGCRwrdXaf6) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Samen](https://open.spotify.com/album/7drCw1YJM30pRxnPrkSFja) | 3:20 | 2024-05-09 | 2024-06-14 |

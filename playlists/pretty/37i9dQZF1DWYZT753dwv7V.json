@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 103247,
+  "num_followers": 103251,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "Vado al massimo (Remastered)",
+        "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "Vado al massimo",
+      "url": "https://open.spotify.com/track/3vSvzXZVJ92x9fHPQAqgVo"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "Eros 30 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 164000,
       "name": "farfalle",
       "url": "https://open.spotify.com/track/32KxxVUfXnbdujTh5DGmgu"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "Vado al massimo (Remastered)",
-        "url": "https://open.spotify.com/album/6E94kQ6nvwprEL5XtidoxM"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "Vado al massimo",
-      "url": "https://open.spotify.com/track/3vSvzXZVJ92x9fHPQAqgVo"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Fai rumore",
-        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
-      },
-      "artists": [
-        {
-          "name": "Diodato",
-          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
-        }
-      ],
-      "duration_ms": 216140,
-      "name": "Fai rumore",
-      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Eros 30 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 223520,
       "name": "Terra promessa",
       "url": "https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Fai rumore",
+        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
+      },
+      "artists": [
+        {
+          "name": "Diodato",
+          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
+        }
+      ],
+      "duration_ms": 216140,
+      "name": "Fai rumore",
+      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Magmamemoria MMXX (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr"
-      },
-      "artists": [
-        {
-          "name": "Levante",
-          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Tikibombom",
-      "url": "https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "IL BENE NEL MALE",
         "url": "https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 213143,
       "name": "IL BENE NEL MALE",
       "url": "https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Magmamemoria MMXX (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr"
+      },
+      "artists": [
+        {
+          "name": "Levante",
+          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Tikibombom",
+      "url": "https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "Canta En Italiano",
+        "url": "https://open.spotify.com/album/3PIns2QvAPHuDZ807zmHJz"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 221865,
+      "name": "Noi Ragazzi Di Oggi",
+      "url": "https://open.spotify.com/track/3nMQMdlNAlPJVwJ6frem76"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "Italian Love Songs",
         "url": "https://open.spotify.com/album/1og5fGuVXjSWeAGQMkfLrX"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 296533,
       "name": "Non amarmi",
       "url": "https://open.spotify.com/track/0YRMOyyJw458JBQhZMEvce"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "Canta En Italiano",
-        "url": "https://open.spotify.com/album/3PIns2QvAPHuDZ807zmHJz"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 221865,
-      "name": "Noi Ragazzi Di Oggi",
-      "url": "https://open.spotify.com/track/3nMQMdlNAlPJVwJ6frem76"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -927,18 +927,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/0jDgMZrhUnBCPTH0W9sxRD"
+        "name": "Riccardo Del Turco",
+        "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
       },
       "artists": [
         {
-          "name": "Lorenzo Fragola",
-          "url": "https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy"
+          "name": "Riccardo Del Turco",
+          "url": "https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq"
         }
       ],
-      "duration_ms": 250053,
-      "name": "Siamo uguali",
-      "url": "https://open.spotify.com/track/1E646EbKhR5pVWZGswXta8"
+      "duration_ms": 213173,
+      "name": "Cosa hai messo nel caff\u00e8?",
+      "url": "https://open.spotify.com/track/2BTvcx218RPaIXyH5Gz3xa"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Riccardo Del Turco",
-        "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
+        "name": "1995",
+        "url": "https://open.spotify.com/album/0jDgMZrhUnBCPTH0W9sxRD"
       },
       "artists": [
         {
-          "name": "Riccardo Del Turco",
-          "url": "https://open.spotify.com/artist/26YwzAEW3kihviypkZpOfq"
+          "name": "Lorenzo Fragola",
+          "url": "https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy"
         }
       ],
-      "duration_ms": 213173,
-      "name": "Cosa hai messo nel caff\u00e8?",
-      "url": "https://open.spotify.com/track/2BTvcx218RPaIXyH5Gz3xa"
+      "duration_ms": 250053,
+      "name": "Siamo uguali",
+      "url": "https://open.spotify.com/track/1E646EbKhR5pVWZGswXta8"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "VOCE",
-        "url": "https://open.spotify.com/album/4vkLfhpx6NCW76ZVXAjKTZ"
-      },
-      "artists": [
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        }
-      ],
-      "duration_ms": 211410,
-      "name": "VOCE",
-      "url": "https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Greatest Hits (Le Cose Non Vanno Mai come Credi)",
         "url": "https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 267026,
       "name": "E poi",
       "url": "https://open.spotify.com/track/3yoADEzMFGJkP1n95TTMRR"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "VOCE",
+        "url": "https://open.spotify.com/album/4vkLfhpx6NCW76ZVXAjKTZ"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "duration_ms": 211410,
+      "name": "VOCE",
+      "url": "https://open.spotify.com/track/1eIS75JS5rfbJpSu6ZC9EO"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Senza farlo apposta",
-        "url": "https://open.spotify.com/album/20wgQyzYFfr0OS9CCqmvbz"
-      },
-      "artists": [
-        {
-          "name": "Shade",
-          "url": "https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt"
-        },
-        {
-          "name": "Federica Carta",
-          "url": "https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L"
-        }
-      ],
-      "duration_ms": 215156,
-      "name": "Senza farlo apposta",
-      "url": "https://open.spotify.com/track/4rwKn954sAK61ojiPVIxuP"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "I Grandi Successi",
         "url": "https://open.spotify.com/album/6WilIF4woo3IMNzZRecDoA"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 240933,
       "name": "Ti lascer\u00f2",
       "url": "https://open.spotify.com/track/5BTBBUwbXB7AVTUd5maNee"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Senza farlo apposta",
+        "url": "https://open.spotify.com/album/20wgQyzYFfr0OS9CCqmvbz"
+      },
+      "artists": [
+        {
+          "name": "Shade",
+          "url": "https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt"
+        },
+        {
+          "name": "Federica Carta",
+          "url": "https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L"
+        }
+      ],
+      "duration_ms": 215156,
+      "name": "Senza farlo apposta",
+      "url": "https://open.spotify.com/track/4rwKn954sAK61ojiPVIxuP"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "L'ADDIO",
-        "url": "https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ"
-      },
-      "artists": [
-        {
-          "name": "Coma_Cose",
-          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "L'ADDIO",
-      "url": "https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Luigi Tenco - I Miti",
         "url": "https://open.spotify.com/album/1m1azdRUDmvSw5TcixliW3"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Ringo Starr",
-        "url": "https://open.spotify.com/album/7Li84Fi6QLiE5SAlsruDwS"
+        "name": "L'ADDIO",
+        "url": "https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ"
       },
       "artists": [
         {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
         }
       ],
-      "duration_ms": 183333,
-      "name": "Ringo Starr",
-      "url": "https://open.spotify.com/track/17j76Q3fmROd2eL4M7Vira"
+      "duration_ms": 207750,
+      "name": "L'ADDIO",
+      "url": "https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1363,6 +1347,22 @@
       "duration_ms": 239407,
       "name": "Quelli Che Non Hanno Et\u00e0 - Gabry Ponte Power Cut",
       "url": "https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Ringo Starr",
+        "url": "https://open.spotify.com/album/7Li84Fi6QLiE5SAlsruDwS"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Ringo Starr",
+      "url": "https://open.spotify.com/track/17j76Q3fmROd2eL4M7Vira"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Le Robe Che Ha Detto Adriano",
-        "url": "https://open.spotify.com/album/7zgNDaFDZCNcObGA6JEyte"
-      },
-      "artists": [
-        {
-          "name": "Adriano Celentano",
-          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
-        }
-      ],
-      "duration_ms": 255266,
-      "name": "Il Ragazzo Della Via Gluck",
-      "url": "https://open.spotify.com/track/11MoOaSoxLOvryOh6Ke5zK"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Le origini - Gli anni d'oro (1978 - 1982)",
         "url": "https://open.spotify.com/album/3u9mKrMogJjg9W0Y8tYKMH"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 183541,
       "name": "Contessa - Original Version 1980",
       "url": "https://open.spotify.com/track/0CWJIpU0D8Bk78H1k7ELC6"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Le Robe Che Ha Detto Adriano",
+        "url": "https://open.spotify.com/album/7zgNDaFDZCNcObGA6JEyte"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "duration_ms": 255266,
+      "name": "Il Ragazzo Della Via Gluck",
+      "url": "https://open.spotify.com/track/11MoOaSoxLOvryOh6Ke5zK"
     },
     {
       "added_at": "2026-01-25 23:01:06",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
-        "name": "Monetine",
-        "url": "https://open.spotify.com/album/3mfahOk88mQBdYnbLfT7GZ"
-      },
-      "artists": [
-        {
-          "name": "Daniele Silvestri",
-          "url": "https://open.spotify.com/artist/6q8f3fxaWqkXzkbxtKOzYF"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Salir\u00f2",
-      "url": "https://open.spotify.com/track/0Oheso9xvbCsZc6rzZjaWe"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
         "name": "Domenico Modugno",
         "url": "https://open.spotify.com/album/1O5m1zuWVPyD0g7MwHDYMp"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 151933,
       "name": "Dio come ti amo!",
       "url": "https://open.spotify.com/track/0QceOqQ2vmiRfCjJwgHwqA"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
+        "name": "Monetine",
+        "url": "https://open.spotify.com/album/3mfahOk88mQBdYnbLfT7GZ"
+      },
+      "artists": [
+        {
+          "name": "Daniele Silvestri",
+          "url": "https://open.spotify.com/artist/6q8f3fxaWqkXzkbxtKOzYF"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Salir\u00f2",
+      "url": "https://open.spotify.com/track/0Oheso9xvbCsZc6rzZjaWe"
     },
     {
       "added_at": "2026-01-25 23:01:06",

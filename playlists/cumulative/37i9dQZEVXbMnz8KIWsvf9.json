@@ -122,7 +122,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 261000,
       "name": "1 OF 1",
       "url": "https://open.spotify.com/track/7wEWayecQuw6YBcWZLukM0"
@@ -2488,7 +2488,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 166700,
       "name": "BU",
       "url": "https://open.spotify.com/track/3X5Kco6l9HuvtO9CLCtzzq"
@@ -7964,7 +7964,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 187000,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/1Hv8KIKhK6Dz02ROKT63lV"
@@ -7986,6 +7986,24 @@
       "duration_ms": 187000,
       "name": "LEMONADE",
       "url": "https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O"
+    },
+    {
+      "album": {
+        "name": "LEMONADE - The 2nd Album (GISELLE Special Version)",
+        "url": "https://open.spotify.com/album/7ED3mOUgYLjyvtRDrrSyrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/7jx5CmnSDhVbLD9Eww6QLB"
     },
     {
       "album": {
@@ -11674,7 +11692,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/65ZihkVQO3KqPj7ZKxmcev"
@@ -14220,10 +14238,32 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 182000,
       "name": "Switchblade (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/27Vku9m1VA4ooCpTgJM57e"
+    },
+    {
+      "album": {
+        "name": "LEMONADE - The 2nd Album (KARINA Special Version)",
+        "url": "https://open.spotify.com/album/3dUrT5Fo4xOTALDH7vX05C"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Switchblade (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/62Iz0yxck1wYIo8Nk5kT2W"
     },
     {
       "album": {
@@ -15716,10 +15756,32 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 174000,
       "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
       "url": "https://open.spotify.com/track/3sVtFtx8Xis8EZrwHHLGlF"
+    },
+    {
+      "album": {
+        "name": "LEMONADE - The 2nd Album (KARINA Special Version)",
+        "url": "https://open.spotify.com/album/3dUrT5Fo4xOTALDH7vX05C"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/4CjVeLvm8hSVV2XO6997MS"
     },
     {
       "album": {
@@ -20354,7 +20416,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 211066,
       "name": "\u0e1c\u0e21\u0e21\u0e35\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e08\u0e23\u0e34\u0e07\u0e46 (For The Girl...)",
       "url": "https://open.spotify.com/track/0yKr4gsqBjdZqrWhQp5Kny"
@@ -22970,7 +23032,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 201065,
       "name": "\u0e2d\u0e4a\u0e30\u0e1b\u0e48\u0e32\u0e27?",
       "url": "https://open.spotify.com/track/38fifVNFjaZJqoI4ZSHSHN"
@@ -23100,7 +23162,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 261948,
       "name": "\u0e40\u0e08\u0e34\u0e14\u0e08\u0e23\u0e31\u0e2a",
       "url": "https://open.spotify.com/track/756CfCm14O6NqBUld3CWv3"
@@ -23252,7 +23314,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 205434,
       "name": "\u0e40\u0e14\u0e34\u0e19\u0e21\u0e32\u0e2a\u0e48\u0e07 - BYE",
       "url": "https://open.spotify.com/track/7jq0O5rfrzEIqNOsc7v9JT"
@@ -25358,7 +25420,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 228383,
       "name": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e25\u0e37\u0e21\u0e41\u0e04\u0e48\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d - Flashback",
       "url": "https://open.spotify.com/track/2m7as7aD1JAEUSOJCNoeHT"

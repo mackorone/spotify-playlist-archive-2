@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A tutti i Costi",
+        "url": "https://open.spotify.com/album/3FlJOwFJ9UvX9fJNI6xykJ"
+      },
+      "artists": [
+        {
+          "name": "Maldimarte",
+          "url": "https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "A tutti i Costi",
+      "url": "https://open.spotify.com/track/3xLZkXAHPDbntmFG4XjD9v"
+    },
+    {
+      "album": {
         "name": "A.B. Normal",
         "url": "https://open.spotify.com/album/1HWSSVtCRanpO7PyMZFOXP"
       },
@@ -2382,6 +2400,24 @@
       "duration_ms": 211153,
       "name": "Weaker",
       "url": "https://open.spotify.com/track/6EXLpcnf9KBY7T16ZfX1Y1"
+    },
+    {
+      "album": {
+        "name": "When The Roots Don't Hold (2026 Remaster)",
+        "url": "https://open.spotify.com/album/2SbHvfSxTxkOY3yzOGCH8g"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Warrior Zone",
+          "url": "https://open.spotify.com/artist/4SkvaDIyFyeGYsMUcwte2T"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216374,
+      "name": "When The Roots Don't Hold - 2026 Remaster",
+      "url": "https://open.spotify.com/track/0WutAvKPCuTDZ8us6mstGA"
     },
     {
       "album": {

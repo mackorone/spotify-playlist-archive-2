@@ -28829,6 +28829,28 @@
     },
     {
       "album": {
+        "name": "BastardChild",
+        "url": "https://open.spotify.com/album/78peygM9sPeSRrBvhpjNvN"
+      },
+      "artists": [
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162822,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/5hJvUFs1STKrodPsOk4DYZ"
+    },
+    {
+      "album": {
         "name": "LOVE HURTS.",
         "url": "https://open.spotify.com/album/0D5FsRdiOSpSxsi1x7C4hT"
       },

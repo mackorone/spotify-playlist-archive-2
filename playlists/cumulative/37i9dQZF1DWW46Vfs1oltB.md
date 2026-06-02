@@ -4,7 +4,7 @@
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: BewhY\)
 
-1,903 songs - 4 day 5 hr 45 min
+1,904 songs - 4 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1228,6 +1228,7 @@
 | [Out the Mud](https://open.spotify.com/track/6V1V7I3MTepUpaRAazUD4z) | [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [Out the Mud](https://open.spotify.com/album/7fX1wbSxdV5GCPYUlboVlg) | 2:17 | 2023-06-22 | 2023-09-15 |
 | [Out the Mud Remix \(Feat\. Chillin Homie, Don mills, Los\)](https://open.spotify.com/track/2p5qocymZhtWXqC8EbuTdY) | [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [Out the Mud Remix](https://open.spotify.com/album/3oMcqojKRxFv6rS9FfErrm) | 3:11 | 2023-08-04 | 2023-09-15 |
 | [Outlaw Zone \(Feat\. Yumdda, RB NINE & YLN Foreign\)](https://open.spotify.com/track/2k4pZDSiyidi8HwHnbVtME) | [Choo](https://open.spotify.com/artist/6hAqtKCaOISAG24LhlNqdr), [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR), [RB NINE](https://open.spotify.com/artist/79tuyMDO42MRFpm8gOXn7p), [YLN Foreign](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl) | [Abbotsford](https://open.spotify.com/album/5kSemw15EKzzRDLVNlqeue) | 3:12 | 2022-05-04 | 2022-06-30 |
+| [OUTSIDE](https://open.spotify.com/track/5q6UIOiX4ipmWKCrsKpVAk) | [Bryan Chase](https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [OUTSIDE](https://open.spotify.com/album/5LkiOqXF3ieFOFEREqlqt7) | 2:51 | 2026-06-01 |  |
 | [Outside \(Feat\. CROWN J\)](https://open.spotify.com/track/2prgkdNraX24rX622xAEJI) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [CROWN J](https://open.spotify.com/artist/0MRiOTUJTYnn2DFzdKwRPH) | [BLASÉ 2](https://open.spotify.com/album/5kM60Roh5piPeQJ5gABXJG) | 2:33 | 2026-05-15 |  |
 | [Outside \(Prod\. shinjihang\)](https://open.spotify.com/track/4qhUSmpm9aevBgRcYn12PC) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [ksmartboi](https://open.spotify.com/artist/6iBjPtCEGarFwpdJUc39P9), [YULEUM](https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB), [Chu Seo Jun](https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO) | [Monthly AP \- February, 2024](https://open.spotify.com/album/0GpMqPwZWhiohI7uTynfzX) | 3:29 | 2024-02-20 | 2024-06-05 |
 | [OUTTA SPACE](https://open.spotify.com/track/00x6bVmgpINfHaxUQWv2OY) | [KC](https://open.spotify.com/artist/0hQTMC0zU4pFW0Lc7ExB6f), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [KC2.5](https://open.spotify.com/album/1dDrVmFxkXq2knN8I883XT) | 3:11 | 2025-08-08 | 2025-12-09 |

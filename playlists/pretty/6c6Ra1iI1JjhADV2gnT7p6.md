@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,181 likes - 1,259 songs - 2 day 22 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,186 likes - 1,259 songs - 2 day 22 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 16 | [No Magic](https://open.spotify.com/track/7ne9gFNoaVeAB5trQXC7av) | [Catherine Moan](https://open.spotify.com/artist/1j3eSDACLPhrEDYDkHYF9I) | [No Magic](https://open.spotify.com/album/6tce3Bcx5yF0BcTD14JQvJ) | 3:41 |
 | 17 | [Diamond In The Rough](https://open.spotify.com/track/5hhGBIoXEFj2cMoCIvETt4) | [Rowena Wise](https://open.spotify.com/artist/1cofMlotC1E8kMOfz1yhZC) | [Diamond In The Rough](https://open.spotify.com/album/042iCFhL9yccI818i6vR8G) | 3:49 |
 | 18 | [Everything](https://open.spotify.com/track/6pKQbGfkkF2GRSzs9Bw6MW) | [atmos bloom](https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3) | [Everything](https://open.spotify.com/album/04B6TIjLAjMBSnh5BfaWX2) | 2:48 |
-| 19 | [Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/5AkRNxM8MEyS7oUjZMk0WQ) | [Falling Out of Grace](https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r) | 3:00 |
+| 19 | [Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Falling Out of Grace](https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r) | 3:00 |
 | 20 | [Just Us 2](https://open.spotify.com/track/4OpDqBB32qUigzP15QzvHJ) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [Just Us 2](https://open.spotify.com/album/1eEybetTJMXuAgc1rgPUjh) | 3:12 |
 | 21 | [Flowers](https://open.spotify.com/track/1nU7euE2UtifL8LvwjyCm0) | [j.paul](https://open.spotify.com/artist/0klHZ1ixAXRq6KIJIMYtXO), [Lazy Trail](https://open.spotify.com/artist/5WHVS2qeych1JQDD4qQPjg) | [Flowers](https://open.spotify.com/album/67xHJ0x5tX4E5ADqix2RF0) | 2:30 |
 | 22 | [Golden Record](https://open.spotify.com/track/6F6Ca2ZR14cJmeWdNbr9es) | [HOTT MT](https://open.spotify.com/artist/7s8woKsl1IGhU7G7cNUki7) | [Haunted House](https://open.spotify.com/album/6nngsIiS3dU9Nh23wD2N5y) | 3:49 |
@@ -1268,4 +1268,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 1258 | [New ADHD](https://open.spotify.com/track/3B6vRouUzwrdQsVnyAtqZa) | [33](https://open.spotify.com/artist/4lY7e5NKMLIIQGi5WdrKkq), [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [New ADHD](https://open.spotify.com/album/2yXJmY5B1iozAXIsOaM6T9) | 4:04 |
 | 1259 | [THINK BACK](https://open.spotify.com/track/3lZNGXXxjEI5BMZV3Nnx3K) | [Glass Fountain](https://open.spotify.com/artist/2FGv92685ifqSBFc4pCM0Q) | [THINK BACK](https://open.spotify.com/album/40qPEKb4fVYgtemaNJ4srF) | 3:51 |
 
-Snapshot ID: `AABByDfb+4zHaj4hLYs0ld+OO3D+Gryd`
+Snapshot ID: `AABBzHPxFqi5jsvCV3lqDwWOQcfxjQij`

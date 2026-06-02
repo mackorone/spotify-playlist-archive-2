@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-223 songs - 16 hr 45 min
+224 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [For One Another](https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Harbors](https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R) | [For One Another](https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw) | 3:50 | 2025-09-05 |  |
 | [for us](https://open.spotify.com/track/45R6vmTyzezkT5I96ZJUvN) | [findnothing](https://open.spotify.com/artist/0BksomtJ8esgOVfmXrpX1B), [hide waldo](https://open.spotify.com/artist/7G4Fsp2wsfpic7VX867NQH), [Hikari](https://open.spotify.com/artist/6zcdZhEldo0uGgl1rrEA3P) | [if things were different](https://open.spotify.com/album/2cQI2arOtejZN6geQc6xXr) | 1:38 | 2026-05-15 |  |
 | [Forever Held](https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Forever Held](https://open.spotify.com/album/4kltw3bgytAYd9DiwbeI58) | 2:38 | 2024-12-12 |  |
+| [forgiveness](https://open.spotify.com/track/14YgbSpR1vStKDuFeRlkzf) | [lønelyspirit](https://open.spotify.com/artist/6xs3ngC1nJiJxtWLh2ROih) | [forgiveness](https://open.spotify.com/album/79o2cFbdtagQBw4jq7Qayq) | 2:08 | 2026-05-15 |  |
 | [From a Convenient Grass](https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [The Importance of Birds](https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9) | 3:39 | 2025-11-06 |  |
 | [Full Moon](https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX), [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Full Moon](https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN) | 4:22 | 2024-08-29 |  |
 | [Fur and Exhaust](https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS) | [Saapato](https://open.spotify.com/artist/1zmmKdRwflRmJ8knfGlmYt), [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Decomposition: Fox on a Highway](https://open.spotify.com/album/0Ml1fgzwzQBA0G7K12QGuB) | 3:21 | 2025-06-05 |  |
@@ -212,7 +213,7 @@
 | [The Promise of Snakes](https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Weighing Souls With Sand](https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl) | 9:32 | 2022-02-11 |  |
 | [They'll Only Miss You When You Leave](https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS) | [Carissa's Wierd](https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh) | [Songs About Leaving](https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf) | 4:46 | 2022-02-11 | 2026-03-21 |
 | [Thought of You](https://open.spotify.com/track/7GOGLPdwOkhLvHkYx6yA2r) | [Petrichor](https://open.spotify.com/artist/2V0Gar47Ao1PPLeOXxDbv3) | [Façade](https://open.spotify.com/album/2B2aGBKrvouHni9QcLcHuU) | 3:48 | 2023-01-09 | 2024-12-13 |
-| [thoughts inside my head](https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY) | [I'm flying](https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS) | [thoughts inside my head](https://open.spotify.com/album/47GjjzzGUecs6GjtbwieRA) | 2:14 | 2026-02-27 |  |
+| [thoughts inside my head](https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY) | [I'm flying](https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS) | [thoughts inside my head](https://open.spotify.com/album/47GjjzzGUecs6GjtbwieRA) | 2:14 | 2026-02-27 | 2026-06-02 |
 | [Too Much Love](https://open.spotify.com/track/27bJg4uzTXoqMS1Udjacni) | [Romance](https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt) | [Too Much Love](https://open.spotify.com/album/2UGOkuaFlOoIeGxLEN298U) | 2:13 | 2026-02-27 |  |
 | [try to find you](https://open.spotify.com/track/5YflECMsYbbO4ngUIhsCNX) | [Inlirium](https://open.spotify.com/artist/066MLijKpVu3cOFCn0H4Ib) | [try to find you](https://open.spotify.com/album/2L6M7uhtmkIfnsFjezamjU) | 1:39 | 2026-05-15 |  |
 | [Tómið Titrar](https://open.spotify.com/track/5kAH14PxBaBrJCE4NDH3Ol) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 6:45 | 2022-11-09 | 2025-02-28 |

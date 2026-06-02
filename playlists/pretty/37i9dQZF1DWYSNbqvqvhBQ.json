@@ -1,12 +1,12 @@
 {
   "description": "Nieuwe tijdloze muziek. Cover: Danny Vera & Marlon Pichel",
-  "num_followers": 449102,
+  "num_followers": 449092,
   "original_name": "Altijd Goed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAfkgJR2sr7rGLmqi/XL4rjZD183",
+  "snapshot_id": "AAAAAOGu5wJpnBPgVFxhFk9OVzEQLnl3",
   "tracks": [
     {
       "added_at": "2026-05-28 22:00:09",
@@ -27,6 +27,26 @@
       "duration_ms": 236906,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/6z3AtDWa2TYRo2MF6KwTmD"
+    },
+    {
+      "added_at": "2026-05-28 22:00:09",
+      "album": {
+        "name": "Daffodils (feat. Faela)",
+        "url": "https://open.spotify.com/album/3kCTGRIWZVPMBD3WRFgrdO"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        },
+        {
+          "name": "Faela",
+          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
+        }
+      ],
+      "duration_ms": 191332,
+      "name": "Daffodils (feat. Faela)",
+      "url": "https://open.spotify.com/track/5UD3KQNl23a0cCnhNNQNal"
     },
     {
       "added_at": "2026-05-28 22:00:09",
@@ -203,26 +223,6 @@
       "duration_ms": 218870,
       "name": "It Feels Right",
       "url": "https://open.spotify.com/track/6of3KnaLpo3j8ANnr0BLn7"
-    },
-    {
-      "added_at": "2026-05-28 22:00:09",
-      "album": {
-        "name": "Daffodils (feat. Faela)",
-        "url": "https://open.spotify.com/album/3kCTGRIWZVPMBD3WRFgrdO"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        },
-        {
-          "name": "Faela",
-          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
-        }
-      ],
-      "duration_ms": 191332,
-      "name": "Daffodils (feat. Faela)",
-      "url": "https://open.spotify.com/track/5UD3KQNl23a0cCnhNNQNal"
     },
     {
       "added_at": "2026-05-28 22:00:09",

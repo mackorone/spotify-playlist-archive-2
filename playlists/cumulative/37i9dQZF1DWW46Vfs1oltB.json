@@ -27621,6 +27621,28 @@
     },
     {
       "album": {
+        "name": "OUTSIDE",
+        "url": "https://open.spotify.com/album/5LkiOqXF3ieFOFEREqlqt7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171961,
+      "name": "OUTSIDE",
+      "url": "https://open.spotify.com/track/5q6UIOiX4ipmWKCrsKpVAk"
+    },
+    {
+      "album": {
         "name": "BLAS\u00c9 2",
         "url": "https://open.spotify.com/album/5kM60Roh5piPeQJ5gABXJG"
       },

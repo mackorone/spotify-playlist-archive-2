@@ -1,6 +1,6 @@
 {
   "description": "\u00c4ntligen fredag och ny musik fr\u00e5n Tjuvjakt, Lovet & Victor Leksell och Tove Styrke med flera. Happy New Music Friday! ",
-  "num_followers": 233911,
+  "num_followers": 233904,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
@@ -353,7 +353,7 @@
         },
         {
           "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/5AkRNxM8MEyS7oUjZMk0WQ"
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
         }
       ],
       "duration_ms": 180875,
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-05-29 04:01:00",
       "album": {
+        "name": "Soulmates",
+        "url": "https://open.spotify.com/album/5Jqq2XRC5YvgcOkJ7hJFZF"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 217882,
+      "name": "Soulmates",
+      "url": "https://open.spotify.com/track/7tGekWqgVeR84jTUTF3Fs1"
+    },
+    {
+      "added_at": "2026-05-29 04:01:00",
+      "album": {
         "name": "LOCKED IN FREESTYLE",
         "url": "https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN"
       },
@@ -1455,7 +1471,7 @@
     {
       "added_at": "2026-05-29 04:01:00",
       "album": {
-        "name": "GOMF",
+        "name": "GOMF (feat. GloRilla)",
         "url": "https://open.spotify.com/album/7woXVG8V3g8TQjDd8WV5JO"
       },
       "artists": [
@@ -1469,7 +1485,7 @@
         }
       ],
       "duration_ms": 149640,
-      "name": "GOMF",
+      "name": "GOMF (feat. GloRilla)",
       "url": "https://open.spotify.com/track/7DbtXoclIdBSaeMWxcTSSY"
     },
     {

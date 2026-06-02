@@ -4,7 +4,7 @@
 
 > All the New Joints featuring BossMan Dlow & Megan Thee Stallion, Latto, YG and more!
 
-10,178 songs - 19 day 11 hr 49 min
+10,179 songs - 19 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8345,6 +8345,7 @@
 | [Standing on Business](https://open.spotify.com/track/4dlGz2heWuSZ6nE6gOyLjD) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Codeine Cowboy](https://open.spotify.com/album/2qKLRkLcQeq5Pa79KJgsf8) | 3:47 | 2025-08-15 | 2025-08-23 |
 | [Stank Ass Walk \(RAP SH!T: Soundtrack From The Max Original Series, S1\)](https://open.spotify.com/track/0KqZCRr1HIvgyNBs0H3uHO) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ), [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD) | [RAP SH!T \(Soundtrack: From The Max Original Series, S1\)](https://open.spotify.com/album/0ej4GVNwII3h7eFqVs5q3M) | 2:21 | 2022-09-02 | 2022-09-10 |
 | [Star](https://open.spotify.com/track/6LM7O0ujf9VfPleIQA1bWm) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Star](https://open.spotify.com/album/45U3g8nL4BlpuD93BmbIv5) | 2:04 | 2024-07-27 | 2024-08-03 |
+| [Star](https://open.spotify.com/track/5hJvUFs1STKrodPsOk4DYZ) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [BastardChild](https://open.spotify.com/album/78peygM9sPeSRrBvhpjNvN) | 2:42 | 2026-05-29 |  |
 | [Star Racer](https://open.spotify.com/track/0ivTkJFsZedg1BjQLttK8k) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS) | [Star Racer](https://open.spotify.com/album/6C6hehv4X1lw0RMuTx7SFw) | 2:13 | 2024-12-06 | 2024-12-14 |
 | [Star Struck](https://open.spotify.com/track/3NVL9ge2NbCPzXthbsvI03) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Star Struck](https://open.spotify.com/album/5IuKprhEIx4ZAxUBshC4A1) | 3:32 | 2024-09-13 | 2024-09-21 |
 | [Starburst](https://open.spotify.com/track/5BwcOGxss3yjlEru57ZY4Y) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Starburst](https://open.spotify.com/album/4hm1LQhtqHqqXkJoBcSAYO) | 4:58 | 2025-09-26 | 2025-10-05 |

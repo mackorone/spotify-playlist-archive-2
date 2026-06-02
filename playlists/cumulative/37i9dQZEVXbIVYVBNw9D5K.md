@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,554 songs - 3 day 6 hr 11 min
+1,555 songs - 3 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Ben Bilmem](https://open.spotify.com/track/5YbygGKXlC5HP55xGtSkx8) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Bir Bakmışsın](https://open.spotify.com/album/4lefgXP8RY8zV7QLQ7DJvS) | 4:24 | 2026-02-12 | 2026-02-21 |
 | [Ben Değilim](https://open.spotify.com/track/4Fcoc1T0sMSATaxoidF4ei) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Değilim](https://open.spotify.com/album/7sJGFksC9dYJlNG2wELOjt) | 3:42 | 2024-12-13 | 2025-04-02 |
 | [Ben Gibi Bakmaz](https://open.spotify.com/track/3QWpTf2VIdELYUUiKJAXlI) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Ben Gibi Bakmaz](https://open.spotify.com/album/6IU59t2Ujxo6PfliB9y3kQ) | 3:31 | 2021-03-27\* | 2021-05-25 |
-| [Ben Olsaydım \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/44Iv4fydv6bLCS7RVmjDKV) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Ben Olsaydım \(Mustafa Sandal Saygı 1\)](https://open.spotify.com/album/1EtKjq4nWwKevImkbbIG1A) | 3:00 | 2026-05-31 |  |
+| [Ben Olsaydım \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/44Iv4fydv6bLCS7RVmjDKV) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Ben Olsaydım \(Mustafa Sandal Saygı 1\)](https://open.spotify.com/album/1EtKjq4nWwKevImkbbIG1A) | 3:00 | 2026-05-31 | 2026-06-02 |
 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 | 2024-04-25 | 2024-09-21 |
 | [Ben Sarhoş Oldum](https://open.spotify.com/track/4ObQ5sbaP5PDCSfv1y6RdT) | [Kamuran Akkor](https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR) | [Sev Yeter](https://open.spotify.com/album/5DjAnvhJUznmnHW55brdfO) | 3:30 | 2024-06-24 | 2024-08-04 |
 | [BEN ÜNLÜYÜM](https://open.spotify.com/track/3MLrWKvuIJjP00nSu1GdQW) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [BEN ÜNLÜYÜM](https://open.spotify.com/album/7wCv0qYY2OuU0QSHt2aiZF) | 1:51 | 2026-02-21 | 2026-03-12 |
@@ -504,6 +504,7 @@
 | [ELMAS](https://open.spotify.com/track/37yAd2kwEI9axbB6UznrOQ) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [ELMAS](https://open.spotify.com/album/3I9p3UhZEHa6jmZyHhveco) | 3:04 | 2021-05-09 | 2021-06-12 |
 | [ELON MUSK](https://open.spotify.com/track/6w9w2tEw3EiZmy8f7BRUzL) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [ELON MUSK](https://open.spotify.com/album/4hOdvd5JCpWSZiqWB7WFOD) | 2:59 | 2022-02-12 | 2022-02-14 |
 | [en baba rüzgarda yanar ateş \(GODBLESS\)](https://open.spotify.com/track/2GJ2xsbWkrQNOgy45RRKU4) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb), [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA) | [valiz](https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7) | 2:27 | 2026-05-12 | 2026-05-15 |
+| [En Büyük Aşkım \- Bir deli yürek acısındayım](https://open.spotify.com/track/1VAfqUV47v1csngOi0bvNb) | [Nebi Demir](https://open.spotify.com/artist/4Ys9T6FpNzgWFDshsftmcQ) | [En Büyük Aşkım \(Bir deli yürek acısındayım\)](https://open.spotify.com/album/3V9l51t68pj4aP6FCxdybE) | 2:58 | 2026-06-01 |  |
 | [En Derine](https://open.spotify.com/track/1Y0dPkNvAXzfWqhXknO8Ji) | [WTSOUNDS](https://open.spotify.com/artist/27N70iRV4BrxqvFnR6CT28), [WTFRANK](https://open.spotify.com/artist/0oP6PRV97lvonUAdTvzeqN) | [En Derine](https://open.spotify.com/album/2nGA1RqvIEJ3OY1ecAe1TH) | 2:27 | 2026-01-30 | 2026-05-21 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2026-01-05 | 2026-01-15 |
 | [End Of Time](https://open.spotify.com/track/4ZfVkX9C4WCIOkS9oyGmbN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Kelvyn Colt](https://open.spotify.com/artist/3VV2TXkXYDYSUvtRRER3Wo) | [End Of Time](https://open.spotify.com/album/5DXmqr0nXw2Gle8A6GYC8c) | 2:55 | 2021-08-15 | 2021-08-16 |

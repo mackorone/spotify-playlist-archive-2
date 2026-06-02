@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Saidah.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,234 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,228 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 20 | [HA HA HA](https://open.spotify.com/track/6MePkdJLUWUb6DY3ptvLXx) | [Kuzco](https://open.spotify.com/artist/41gAwOVRxPXax5jUQ3Ub6Q) | [HA HA HA](https://open.spotify.com/album/4NX0ZjSayrZDwRKLu0yDdR) | 4:48 |
 | 21 | [Kids](https://open.spotify.com/track/3uWuQ4TyNDY63aQbppYcyc) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [Kids](https://open.spotify.com/album/0xrQGzEnAjzDt55xG4L56w) | 2:08 |
 | 22 | [T Shirt](https://open.spotify.com/track/54uCSh5xkFvWxXPIe6zgZp) | [Lola Leon](https://open.spotify.com/artist/7pKmOKc49BWyfcbcFqBLBL) | [T Shirt](https://open.spotify.com/album/041iig9kwc27HB2PBR2xc7) | 3:42 |
-| 23 | [Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/5AkRNxM8MEyS7oUjZMk0WQ) | [Falling Out of Grace](https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r) | 3:00 |
+| 23 | [Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Falling Out of Grace](https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r) | 3:00 |
 | 24 | [Girls first](https://open.spotify.com/track/4m6NR1LOz8wo6OmAHcgCwc) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Girls first](https://open.spotify.com/album/0G3hx74DdbIhleZNgkuML6) | 4:18 |
 | 25 | [midnight moon](https://open.spotify.com/track/5fu8pfEsXXA9mY0F9grAce) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [HOME WAS ALWAYS ME](https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD) | 2:17 |
 | 26 | [Shake Down \- Regrette Rien Mix](https://open.spotify.com/track/70tSdH7QeLCoiEsq4gzxAk) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Shake Down \(Regrette Rien Mix\)](https://open.spotify.com/album/1kFOuM0oYv7FgZwUtvazeS) | 3:39 |

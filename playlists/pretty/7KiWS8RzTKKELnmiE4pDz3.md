@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 248 songs - 15 hr 36 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 254 songs - 16 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -256,5 +256,11 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 246 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
 | 247 | [G\-Unit](https://open.spotify.com/track/2TDP6ok1O8yNtCAWltzyON) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 3:29 |
 | 248 | [All I Think About Now](https://open.spotify.com/track/3NfqN997u9A3YAAafgzhIa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Head Carrier](https://open.spotify.com/album/5F9YYEKDxenkRpyuovdqZe) | 3:07 |
+| 249 | [December 4th](https://open.spotify.com/track/7gVaf6eZDV1oQdGwvDYfmU) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:32 |
+| 250 | [Doin' My Job](https://open.spotify.com/track/78kVkpg0yX3jlTqzreFk0U) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Muzik](https://open.spotify.com/album/1SloKtrz48mjFA3QIDg7Vl) | 4:13 |
+| 251 | [Thank You](https://open.spotify.com/track/6up1XqJ3UkmvkVmtwGLsGg) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:09 |
+| 252 | [Knight \(feat\. Domo Genesis\)](https://open.spotify.com/track/2LbL1HaoZrXrCR538uxUjl) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 3:13 |
+| 253 | [Where It'$ At?](https://open.spotify.com/track/4rkfCWtPe63QU1HXsVTcpc) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Kirk Knight](https://open.spotify.com/artist/1nSpOxq3pcgomrfpXudQuq) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 4:08 |
+| 254 | [Job Song \- Explicit Album Version](https://open.spotify.com/track/4Ix6Fd6ILiKqo9p3lOv5Y7) | [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm) | [Don't Quit Your Day Job](https://open.spotify.com/album/37dKTmpuFAV0n0A5THoliS) | 3:18 |
 
-Snapshot ID: `AAAgUOY6RJLObigiPqGNlYielOegXiTE`
+Snapshot ID: `AAAgVo7D3Uz+IN9SA8NHIabqsi2P++Af`

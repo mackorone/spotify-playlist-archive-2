@@ -1757,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "All I Want From You",
+        "url": "https://open.spotify.com/album/2Gi2yf2kTvuRBLGlORfSWr"
+      },
+      "artists": [
+        {
+          "name": "Kevin ISM",
+          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "All I Want From You (Distribution)",
+      "url": "https://open.spotify.com/track/3oD3uLVohw5dcJP5WugSYV"
+    },
+    {
+      "album": {
         "name": "All in Time (jam)",
         "url": "https://open.spotify.com/album/69KTKEdLbsl5oScihcsZqB"
       },
@@ -24939,6 +24957,24 @@
     },
     {
       "album": {
+        "name": "My Baby Is a Superstar",
+        "url": "https://open.spotify.com/album/4Ld8PrwGL5IYjQ0JJZPJ6M"
+      },
+      "artists": [
+        {
+          "name": "Peter Foreman",
+          "url": "https://open.spotify.com/artist/5r2w9FvNgxIeSQuQuuBZph"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "My Baby Is a Superstar",
+      "url": "https://open.spotify.com/track/3zUViqxMkQyeli2dBUzlH0"
+    },
+    {
+      "album": {
         "name": "My Biggest Fan",
         "url": "https://open.spotify.com/album/4WN8Zm2Jb39ItoC6z9zrJR"
       },
@@ -26760,6 +26796,28 @@
       "duration_ms": 227393,
       "name": "Nuestro cielo",
       "url": "https://open.spotify.com/track/7mx5FacYX14sdove4ngb64"
+    },
+    {
+      "album": {
+        "name": "Numb It",
+        "url": "https://open.spotify.com/album/7AFlVYlb35ZvmaMkhF5Hcl"
+      },
+      "artists": [
+        {
+          "name": "FiNiX",
+          "url": "https://open.spotify.com/artist/2Z78u5tE6JlMW98GnyOvwp"
+        },
+        {
+          "name": "The Irie Lions",
+          "url": "https://open.spotify.com/artist/4YJu9BNUR2dU09UuuKE5OQ"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246620,
+      "name": "Numb It",
+      "url": "https://open.spotify.com/track/5Cu0ZKQeGfxmZcSJHqlAlG"
     },
     {
       "album": {

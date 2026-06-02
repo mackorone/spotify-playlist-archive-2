@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ariana Grande, Skye Newman, Ezra Collective, Jungle and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,318 likes - 101 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,283 likes - 101 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 78 | [Get It On](https://open.spotify.com/track/46dQBbMp7vmxeHsh3ijOy5) | [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Get It On](https://open.spotify.com/album/3AsRWH41MDVmp8tMwyzmWJ) | 2:58 |
 | 79 | [Earn It](https://open.spotify.com/track/0ZQxahjWD0zQqAdWflcUfP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Earn It](https://open.spotify.com/album/6YN0lxBGhjZRm2vd6pCdtW) | 2:48 |
 | 80 | [choose what stays](https://open.spotify.com/track/1nnjy0d1HpKBwjzKQUASts) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [Kwoli Black](https://open.spotify.com/artist/4munQWPVKYZ9uQHepLM1qn) | [choose what stays](https://open.spotify.com/album/55iKFMwXfmHbh3Z5O8pPeU) | 2:48 |
-| 81 | [Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/5AkRNxM8MEyS7oUjZMk0WQ) | [Falling Out of Grace](https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r) | 3:00 |
+| 81 | [Falling Out of Grace](https://open.spotify.com/track/1nPkAtpKnqemShhkfxcFcT) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Falling Out of Grace](https://open.spotify.com/album/0wP2oZeEwU29BUodHFav7r) | 3:00 |
 | 82 | [Confetti](https://open.spotify.com/track/20e6lwpoqbj9nsXtvHO6Oq) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Confetti](https://open.spotify.com/album/2BEajTzdQ2OkdrOJV4EmFf) | 2:52 |
 | 83 | [FINISHED BUSINESS](https://open.spotify.com/track/2BIkreWEKSKoSRryuj8gRA) | [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3), [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [FINISHED BUSINESS](https://open.spotify.com/album/5um1GLq27Td4GU5NXBcAxq) | 3:27 |
 | 84 | [Talk nice](https://open.spotify.com/track/6i1D8BSUDo5WHIDvl9sMqp) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Talk nice](https://open.spotify.com/album/58QTVyvEXnWqmrGSSHh6nt) | 3:58 |

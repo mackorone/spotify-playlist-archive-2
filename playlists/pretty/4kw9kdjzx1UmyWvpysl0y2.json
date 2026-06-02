@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123885,
+  "num_followers": 123881,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVb3NqbR0+I/WGapUBfIv+5WleV634",
+  "snapshot_id": "AAAVcE5oDy4m2Xa4lCLqA6ndNfqBlHJA",
   "tracks": [
+    {
+      "added_at": "2026-06-01 14:29:40",
+      "album": {
+        "name": "Think About Your Love",
+        "url": "https://open.spotify.com/album/44PN2pfrGSxF4RN8t9Cy4V"
+      },
+      "artists": [
+        {
+          "name": "OKO UK",
+          "url": "https://open.spotify.com/artist/5oFM5kxRXZI1qOzvdyPkkV"
+        },
+        {
+          "name": "XLVR",
+          "url": "https://open.spotify.com/artist/3fom1pernUdgyIJm1HgadE"
+        }
+      ],
+      "duration_ms": 206057,
+      "name": "Think About Your Love",
+      "url": "https://open.spotify.com/track/6Uo4h2tDpc8sKbgTH1Gt4A"
+    },
     {
       "added_at": "2026-05-29 14:44:03",
       "album": {

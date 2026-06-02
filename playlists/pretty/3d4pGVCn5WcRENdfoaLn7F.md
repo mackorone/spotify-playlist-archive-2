@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 689 likes - 78 songs - 4 hr 31 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 691 likes - 79 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 76 | [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 |
 | 77 | [Poison](https://open.spotify.com/track/3etMVsSrF9XZ4PbZKyvyQj) | [Noam Peri](https://open.spotify.com/artist/5jOb4IiotwIkHpg8wyRmzt) | [Poison](https://open.spotify.com/album/5hd5OYYmt8n6nkayRVVzqw) | 4:11 |
 | 78 | [It's Over](https://open.spotify.com/track/3bmxRg9hZNL7fJHSCpqpgj) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [home ANYMORE](https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs) | 3:17 |
+| 79 | [Hollow Eyes](https://open.spotify.com/track/0BY1CFp97qI8opvS0KbD4z) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [Hollow Eyes](https://open.spotify.com/album/2dmxukyWSXkjiSeD1eGsPL) | 3:23 |
 
-Snapshot ID: `AAADhzHK7jqwk8KgHRqGwECGki0RNF3Q`
+Snapshot ID: `AAADiNMIvBa2snJ9C5AsGNTampzChsni`

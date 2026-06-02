@@ -5122,7 +5122,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 250754,
       "name": "Creeping Offence",
       "url": "https://open.spotify.com/track/3YKWasEdCEL48xFml10l4J"
@@ -7978,7 +7978,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 170117,
       "name": "Everything Is Forever Until It Ends",
       "url": "https://open.spotify.com/track/50pDOdKch7VKkPlxfV2wNf"
@@ -10000,6 +10000,24 @@
       "duration_ms": 291630,
       "name": "Golden Bloom",
       "url": "https://open.spotify.com/track/6Ejw0TslqjsDLClAL3skkJ"
+    },
+    {
+      "album": {
+        "name": "Golden Glasses",
+        "url": "https://open.spotify.com/album/4qxkpU3001dOaHswl1Na7K"
+      },
+      "artists": [
+        {
+          "name": "Cheap Petrol",
+          "url": "https://open.spotify.com/artist/12GUVzQKdS6WNQvbZRq100"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330119,
+      "name": "Golden Glasses",
+      "url": "https://open.spotify.com/track/4PH6B0EduFdpGGiQiDyvoB"
     },
     {
       "album": {
@@ -12483,6 +12501,24 @@
     },
     {
       "album": {
+        "name": "A Night in Hollywood",
+        "url": "https://open.spotify.com/album/5EnZ4hduf758YArA21k8PM"
+      },
+      "artists": [
+        {
+          "name": "leetham",
+          "url": "https://open.spotify.com/artist/6A0yNfaiITVOUgOZbRdK5u"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224186,
+      "name": "Insomniacs Lullaby",
+      "url": "https://open.spotify.com/track/0CZA4uPdR4i3KNZN4xzIH7"
+    },
+    {
+      "album": {
         "name": "Insomnio (FT. HIT-GRL)",
         "url": "https://open.spotify.com/album/02LrmUdCuM6ThRYXInacHI"
       },
@@ -12710,7 +12746,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 181108,
       "name": "Isn't That Worth Something",
       "url": "https://open.spotify.com/track/74nMFpHYca1nN75CjwYfkx"
@@ -16882,7 +16918,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 219000,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/4l3ukeCLGfZuILXGyLcvbt"
@@ -25002,7 +25038,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 141478,
       "name": "The More, The Less",
       "url": "https://open.spotify.com/track/5aokvsaDoaPn7czbDWujLy"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 ### [Japanese Hardstyle/Hardcore \| J\-Core \| WeebCore \|](https://open.spotify.com/playlist/2YCTZb01BHsUw3t7XxVNM9)
 
-> Western orientated Hardcore Music by Japanese Artists
+> Western orientated Hardcore&\#x2F;Hardstyle Music by Japanese Artists \(L.U\. 26.06.01\)
 
-[SONGBIRD\-CN](https://open.spotify.com/user/megustager) - 896 likes - 537 songs - 1 day 12 hr 55 min
+[SONGBIRD\-CN](https://open.spotify.com/user/megustager) - 896 likes - 554 songs - 1 day 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -545,5 +545,22 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 535 | [Smash Your Face In](https://open.spotify.com/track/10QAte2MBnpv8y5BuxcCwD) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Smash Your Face In](https://open.spotify.com/album/411GBEMGoWJMY6K9xT8ea5) | 2:38 |
 | 536 | [CrossFire](https://open.spotify.com/track/3m1eCTwUu2DbGM32NZ9vB9) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [SUPERNOVA](https://open.spotify.com/album/67d4c4cTZYKKUkqEOkkHYD) | 2:23 |
 | 537 | [INSANE](https://open.spotify.com/track/6voTcnDXjOBv94matxVXhG) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [SUPERNOVA](https://open.spotify.com/album/67d4c4cTZYKKUkqEOkkHYD) | 3:48 |
+| 538 | [ÆTERNUM AXIOMA](https://open.spotify.com/track/1gpaUClrIlRr5AISTCWgNU) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3), [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa) | [ÆTERNUM AXIOMA](https://open.spotify.com/album/1oQmcw2RaEpmgoRWXfeF5D) | 3:04 |
+| 539 | [Σ](https://open.spotify.com/track/69kHnUnrj3v2EnKgMhR6dX) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Gram](https://open.spotify.com/artist/27Y8ucj3Ev56vnIRSSMik9), [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [XODUS](https://open.spotify.com/album/5naYMddiFADehZuceoqE0w) | 3:12 |
+| 540 | [Don't Be Scared \- Executive Mix](https://open.spotify.com/track/33DYuKoTETh8gY7i8Lc2lN) | [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2) | [Don't Be Scared](https://open.spotify.com/album/7mWRUirnWnfvHoDTTfGM5n) | 4:26 |
+| 541 | [Roots Of The Core](https://open.spotify.com/track/5oYnhgyWfjHQ32Cnkkihco) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [The Breaking Dawn](https://open.spotify.com/album/3rULeLa3FvYBratPt7ozyg) | 4:21 |
+| 542 | [Border is Nothing](https://open.spotify.com/track/5T1MNGslIidtb7It5kX5g2) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [YATSUZAKI HARDCORE VOLUME 2](https://open.spotify.com/album/3bon2Wxdz6VJXHSX18sGzz) | 4:47 |
+| 543 | [Ruined Empire](https://open.spotify.com/track/0jrksqaEuWlYmuETI5INt9) | [TAIYO](https://open.spotify.com/artist/0zdOkgRS2gOQnYrccL7tKh), [Quark](https://open.spotify.com/artist/0cgvFywwD5eQevYZed0hw7) | [Ignis ardens non comburens](https://open.spotify.com/album/4ajWTNPCwz1QqIlxomn5mZ) | 4:30 |
+| 544 | [God Of The Sun](https://open.spotify.com/track/2oTzk1aZuRxxxqD6yKlJrK) | [Floxytek](https://open.spotify.com/artist/1v2lA2moEBT9UFfnRd6Pkx), [Tanukichi](https://open.spotify.com/artist/23vallNaMILMOgxcCYcuGP), [TAIYO](https://open.spotify.com/artist/0zdOkgRS2gOQnYrccL7tKh) | [Bass Fxxkers](https://open.spotify.com/album/6HNxI0QXHrRzRhBg7HQnwd) | 3:27 |
+| 545 | [DEAD ZONE feat.TAIYO](https://open.spotify.com/track/5acon28Ip2qLxE24bFI6vp) | [N4Gi](https://open.spotify.com/artist/7oempbKAQ5uk9bigEC9m6X), [TAIYO](https://open.spotify.com/artist/0zdOkgRS2gOQnYrccL7tKh) | [DEAD ZONE feat.TAIYO](https://open.spotify.com/album/4k4SBTUkPG4PGFnLIRm9N0) | 2:17 |
+| 546 | [Secondary Effects](https://open.spotify.com/track/6RYbhZWBclUdRbVQq5ERx9) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Japanese Stream Hardcore Vol.2 WEB](https://open.spotify.com/album/6Pqd973J67Iw8XSQZRbwIo) | 4:59 |
+| 547 | [OUTRAGE \(feat\. USAO\)](https://open.spotify.com/track/55njFTGfD9Jqkv7rHO9whO) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [SUPER EXTRA HARD](https://open.spotify.com/album/4svMAEGpnB42JWzX6JAOij) | 2:38 |
+| 548 | [Darkside Of The Mind](https://open.spotify.com/track/0WGkVwFN5W41i2SmLNqCTl) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [SUPER EXTRA HARD](https://open.spotify.com/album/4svMAEGpnB42JWzX6JAOij) | 1:57 |
+| 549 | [DEVASTATION;CODE](https://open.spotify.com/track/1GfXxqM7ywUfYL9WTmKacy) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [SUPER EXTRA HARD](https://open.spotify.com/album/4svMAEGpnB42JWzX6JAOij) | 2:21 |
+| 550 | [Deviant Mechanics](https://open.spotify.com/track/1gUCktnAqurWKTMr0UypvH) | [Noizenecio](https://open.spotify.com/artist/6nnVxZM26xhcsPxc0uEGuU), [Akira Complex](https://open.spotify.com/artist/57eFNkPwLhad2Sg1zxTBWL) | [Hardcore Syndrome X](https://open.spotify.com/album/04LLjrJFyKhiiYsh4IIqH4) | 4:55 |
+| 551 | [Machinery of Avoid](https://open.spotify.com/track/65F1l7qd8OSIeN0qX3zsJb) | [Noizenecio](https://open.spotify.com/artist/6nnVxZM26xhcsPxc0uEGuU) | [Hardcore Syndrome 12](https://open.spotify.com/album/3lKZsbJ559ehcs7hrXVCor) | 4:18 |
+| 552 | [GOT TO PARTY](https://open.spotify.com/track/5Vsb928oMHlLaveRee454v) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN), [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [INFINITE](https://open.spotify.com/album/0irRLnZ9RlyZajjTLACs50) | 2:49 |
+| 553 | [Fantasia of Salvation](https://open.spotify.com/track/30BZO8w8Il1gQhJP6PhUAn) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5) | [Fantasia of Salvation](https://open.spotify.com/album/7A2UrCNVVZMFXFQnITnz18) | 3:41 |
+| 554 | [High Forever](https://open.spotify.com/track/6wzgc8uhfC6riYUzhpXMXs) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [High Forever](https://open.spotify.com/album/0yyjFFA5LNU562gqR5llHd) | 3:10 |
 
-Snapshot ID: `AAACd13znP+jl3zk1ZqxdPscKDkmzfAB`
+Snapshot ID: `AAACiSS7fAgZFDLg4zYWIRl3NYeUw/o2`

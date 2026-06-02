@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,776 likes - 130 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,864 likes - 130 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 129 | [Sandcastles](https://open.spotify.com/track/6JYMRQa2LSWRLXaFYcyXXl) | [The Afronaut](https://open.spotify.com/artist/0RcAEaIg21iTmK6ru4WS9U) | [Sandcastles](https://open.spotify.com/album/2w0lcXs2nRJRAHhJCiILnE) | 2:41 |
 | 130 | [Pistachio](https://open.spotify.com/track/2fdGBFsSr5mp1zhrJH39zk) | [Amber & Ochre](https://open.spotify.com/artist/1ThQ3MXSa99zoFt5j8QDkX) | [Pistachio](https://open.spotify.com/album/1RIkCaKGXuZfjSNB9MXPRC) | 2:18 |
 
-Snapshot ID: `AAAAAJmXxGf/qwLpkTOCBmbL2qOVpvCv`
+Snapshot ID: `AAAAAAMQeUDF0Bre8RJqUxMMvQwO+bir`

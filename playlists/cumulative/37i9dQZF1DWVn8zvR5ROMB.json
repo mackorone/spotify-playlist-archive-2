@@ -39565,6 +39565,24 @@
     },
     {
       "album": {
+        "name": "Comes With The Country",
+        "url": "https://open.spotify.com/album/4NstqK0xUJ6UUqakiluqtO"
+      },
+      "artists": [
+        {
+          "name": "Shane Profitt",
+          "url": "https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197453,
+      "name": "Comes With The Country",
+      "url": "https://open.spotify.com/track/4bt25WxTk6jBXiolQSUp0t"
+    },
+    {
+      "album": {
         "name": "Comin' from",
         "url": "https://open.spotify.com/album/2ZfSo68hUsfGiYxz0pYVf0"
       },

@@ -2360,11 +2360,33 @@
         {
           "name": "Elvis Crespo",
           "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171296,
+      "name": "Poeta Curao",
+      "url": "https://open.spotify.com/track/3IKLCia1XGDzcxJnd0ZGgi"
+    },
+    {
+      "album": {
+        "name": "Poeta Her\u00edo",
+        "url": "https://open.spotify.com/album/3e214gx6bbQgVykslGuK5F"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
         }
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 178278,
       "name": "Poeta Her\u00edo",
       "url": "https://open.spotify.com/track/32nDX9V41Xge8OUn28jvwG"

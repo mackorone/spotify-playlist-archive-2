@@ -4470,7 +4470,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 298666,
       "name": "Lead By Example (Official Dominator 2025 Anthem)",
       "url": "https://open.spotify.com/track/037LhIv2yUudP1jzxB8kSD"
@@ -4784,7 +4784,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 182400,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/5LMqNwIFZBPwTh2buKaHix"
@@ -5452,6 +5452,36 @@
       "duration_ms": 295187,
       "name": "Mythology of Hardcore - Official Masters of Hardcore Russia 2022 Anthem",
       "url": "https://open.spotify.com/track/4Ia0P4lQDTzKYva6OWFSuW"
+    },
+    {
+      "album": {
+        "name": "Nachtroutine",
+        "url": "https://open.spotify.com/album/4TB1dUlwRTYT3Xom9bBTDj"
+      },
+      "artists": [
+        {
+          "name": "RAM\u00d8N",
+          "url": "https://open.spotify.com/artist/3wGq6ADKJWJOBfHw0kzytT"
+        },
+        {
+          "name": "Mental Theo",
+          "url": "https://open.spotify.com/artist/3dOyTnBq9jKfRXJlJlddQq"
+        },
+        {
+          "name": "STTRBSTN",
+          "url": "https://open.spotify.com/artist/6ESSpVZHXgnwW7zKPKLbJo"
+        },
+        {
+          "name": "Kazkid",
+          "url": "https://open.spotify.com/artist/76fIZZHPt37NZC5r3raQxO"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189753,
+      "name": "Nachtroutine",
+      "url": "https://open.spotify.com/track/3VCv6p0T9LPZ0L2SiR82WD"
     },
     {
       "album": {
@@ -6146,7 +6176,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 152000,
       "name": "Pennywise - Deadly Guns Remix",
       "url": "https://open.spotify.com/track/6m8neHWouA9kxypGPNwDA4"
@@ -7962,7 +7992,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 186002,
       "name": "The Nightmare Man",
       "url": "https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD"
@@ -8812,6 +8842,28 @@
       "duration_ms": 175113,
       "name": "Voice Of The Underground",
       "url": "https://open.spotify.com/track/0qDh203qtw06cri10ahfjj"
+    },
+    {
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/7KpN5YOLMSR9L1BZEjTtD8"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188914,
+      "name": "Voices In My Head",
+      "url": "https://open.spotify.com/track/1Wh4d4pQj9LXkTb02OYbQA"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik",
-  "num_followers": 83188,
+  "num_followers": 83202,
   "original_name": "90's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 213040,
-      "name": "Aan De Kust",
-      "url": "https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa"
+      "duration_ms": 290733,
+      "name": "Wat Zou Je Doen?",
+      "url": "https://open.spotify.com/track/5iKaPg25J8rrEBHXsM8SLx"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 290733,
-      "name": "Wat Zou Je Doen?",
-      "url": "https://open.spotify.com/track/5iKaPg25J8rrEBHXsM8SLx"
+      "duration_ms": 213040,
+      "name": "Aan De Kust",
+      "url": "https://open.spotify.com/track/7mvxl7tRdYZsJ9jxgIJrVa"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -999,6 +999,26 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Rob 100",
+        "url": "https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T"
+      },
+      "artists": [
+        {
+          "name": "Rob De Nijs",
+          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
+        },
+        {
+          "name": "Ellert Driessen",
+          "url": "https://open.spotify.com/artist/7qd0FFy6IEMv634lendv01"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "Banger Hart - Radio Mix",
+      "url": "https://open.spotify.com/track/7wXI1Z6evrwG5ujxmeo57c"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "ParaCDmol",
         "url": "https://open.spotify.com/album/2zWo1Ql9eSAWxXxKqYU3yW"
       },
@@ -1031,38 +1051,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Rob 100",
-        "url": "https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T"
+        "name": "Clouseau30",
+        "url": "https://open.spotify.com/album/5jy4Ndvb4aJcbt9Cy8LDFJ"
       },
       "artists": [
         {
-          "name": "Rob De Nijs",
-          "url": "https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K"
-        },
-        {
-          "name": "Ellert Driessen",
-          "url": "https://open.spotify.com/artist/7qd0FFy6IEMv634lendv01"
+          "name": "Clouseau",
+          "url": "https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts"
         }
       ],
-      "duration_ms": 261866,
-      "name": "Banger Hart - Radio Mix",
-      "url": "https://open.spotify.com/track/7wXI1Z6evrwG5ujxmeo57c"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Het Beste Uit De Q Music Top 500 Van Het Foute Uur",
-        "url": "https://open.spotify.com/album/2EbhHZgmdy362RoEAE3Rbt"
-      },
-      "artists": [
-        {
-          "name": "Henk Westbroek",
-          "url": "https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2"
-        }
-      ],
-      "duration_ms": 268723,
-      "name": "Zelfs Je Naam Is Mooi",
-      "url": "https://open.spotify.com/track/0BGiXFcfWNE1ZOJYwtbWbX"
+      "duration_ms": 248026,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/3XeuDg8LpGQ6LCZBok55QC"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Clouseau30",
-        "url": "https://open.spotify.com/album/5jy4Ndvb4aJcbt9Cy8LDFJ"
+        "name": "Het Beste Uit De Q Music Top 500 Van Het Foute Uur",
+        "url": "https://open.spotify.com/album/2EbhHZgmdy362RoEAE3Rbt"
       },
       "artists": [
         {
-          "name": "Clouseau",
-          "url": "https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts"
+          "name": "Henk Westbroek",
+          "url": "https://open.spotify.com/artist/178yD2iAVWr5qYldTaWBA2"
         }
       ],
-      "duration_ms": 227906,
-      "name": "Daar Gaat Ze",
-      "url": "https://open.spotify.com/track/7kMPC3vgXk3o9xUP3GWAJ0"
+      "duration_ms": 268723,
+      "name": "Zelfs Je Naam Is Mooi",
+      "url": "https://open.spotify.com/track/0BGiXFcfWNE1ZOJYwtbWbX"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Clouseau30",
+        "url": "https://open.spotify.com/album/5jy4Ndvb4aJcbt9Cy8LDFJ"
+      },
+      "artists": [
+        {
+          "name": "Clouseau",
+          "url": "https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Daar Gaat Ze",
+      "url": "https://open.spotify.com/track/7kMPC3vgXk3o9xUP3GWAJ0"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "Liefdesliedjes",
         "url": "https://open.spotify.com/album/7CdAzPf0nk3FfsXGuZWiI7"
       },
@@ -1147,26 +1163,6 @@
       "duration_ms": 284266,
       "name": "Liefdesliedjes",
       "url": "https://open.spotify.com/track/0wD43UCEku61GIZB89O0vP"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Mooi Weer Een CD",
-        "url": "https://open.spotify.com/album/2SqhO69ScHJePoFmMesQs6"
-      },
-      "artists": [
-        {
-          "name": "Paul de Leeuw",
-          "url": "https://open.spotify.com/artist/2UWFwMXUXbEs79qbI4NdTT"
-        },
-        {
-          "name": "Simone Kleinsma",
-          "url": "https://open.spotify.com/artist/7xNISTVPefpc5iesdJQqz0"
-        }
-      ],
-      "duration_ms": 236373,
-      "name": "Zonder Jou",
-      "url": "https://open.spotify.com/track/7dIuHfrJskIy7ynwRkptkb"
     }
   ],
   "unique_name": "90's Nederlandstalig",

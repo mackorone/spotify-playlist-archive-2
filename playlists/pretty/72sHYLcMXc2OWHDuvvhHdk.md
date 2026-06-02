@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,699 songs - 6 day 13 hr 15 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,705 songs - 6 day 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2707,5 +2707,11 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2697 | [Verte](https://open.spotify.com/track/5sLzHXXjhMTq59G1vU5Eky) | [DANAI](https://open.spotify.com/artist/7CSNA8GhXH16bMuXxMfvri) | [Verte](https://open.spotify.com/album/7nZVKDmsl58PBPFWgajzPw) | 3:11 |
 | 2698 | [Permission](https://open.spotify.com/track/64XniZVCRhgxyn3HVIZhn2) | [The Summer Fruits](https://open.spotify.com/artist/28x9gjrLuZt7qXjgjNOh0w) | [Permission](https://open.spotify.com/album/2MH58peDK1Rmg7vtSf7GoI) | 2:52 |
 | 2699 | [Need You To Breathe](https://open.spotify.com/track/4BSPFCTbpu919CpM7yDVXU) | [J&H](https://open.spotify.com/artist/18mmL6Dg8j6JxCXtC1rSd5), [The Voices of Reddish Blue](https://open.spotify.com/artist/4ThYSQUHr7RqgwSrH6vDRG) | [Reddish Blue](https://open.spotify.com/album/6swcnIK9JkB0pISDdVPd9s) | 4:24 |
+| 2700 | [Way](https://open.spotify.com/track/6KLOrYcWx5D4fm3oGvTBEP) | [Foad Jafari](https://open.spotify.com/artist/0bD1tTxPLVkAFvaHliwAnk) | [Way](https://open.spotify.com/album/5DyrBT1slzCwNfjsSy96CS) | 2:47 |
+| 2701 | [Cry](https://open.spotify.com/track/2Zr2FjVPvCstdW2kLkU3mr) | [Vaughn Velvet](https://open.spotify.com/artist/6pYBVLW10Qq3JX0oSaJOBG) | [Black Velvet Burn Rumble Edition](https://open.spotify.com/album/6zMI0xFLVn7607QjxNIrtt) | 2:39 |
+| 2702 | [My Summer Love](https://open.spotify.com/track/4OUxYPBbrujuFLCyWVe1kJ) | [Marios Papalexis](https://open.spotify.com/artist/4LVxkX59xWHTrIhwI78A6K) | [Love Paths \(Remastered\)](https://open.spotify.com/album/3NuIHFKN8mPdjOgKCOSINd) | 2:08 |
+| 2703 | [I will be sovereign \- acoustic version](https://open.spotify.com/track/0FFde7UAaerp5uvQUBFCU3) | [KraHbichT](https://open.spotify.com/artist/6BviIFP7ZRxpgu79x7Y8a8) | [The other side \(When everything is..\. acoustic! Vol\. I\)](https://open.spotify.com/album/4h02NUFK61jm2Z0p6ZL8Kv) | 4:35 |
+| 2704 | [Two Is The Same As Three](https://open.spotify.com/track/1v6A6uG26alJXi3TB21iQ2) | [PsychoAcoustic SoundClash](https://open.spotify.com/artist/1EfDU2YEap9aF5yhAuHUQG) | [Recycled Culture](https://open.spotify.com/album/1SKCCEW8YU60KpZJMu5bkO) | 3:56 |
+| 2705 | [Bella Anima](https://open.spotify.com/track/0KmN9pdfaqUdV5jvENSXFm) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Not All Eyes Are Green](https://open.spotify.com/album/5uIS1c0hRQZY3H8eIHNCrJ) | 1:57 |
 
-Snapshot ID: `AAALJE914N1E1SWhEBipZ8nnmoOzAr9m`
+Snapshot ID: `AAALKkdFs6gkIZfkzN468iWCwv3xb4A2`

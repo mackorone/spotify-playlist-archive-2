@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Willow Avalon",
-  "num_followers": 314392,
+  "num_followers": 314428,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -159,58 +159,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Cardinal Sin (feat. Jason Isbell)",
-        "url": "https://open.spotify.com/album/5bqzhOiZ1j42qcD2oMCh32"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        },
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Cardinal Sin (feat. Jason Isbell)",
-      "url": "https://open.spotify.com/track/1wU21mCoSc3fc8VZq1WkAn"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
-        "name": "Lone Star",
-        "url": "https://open.spotify.com/album/347MekIQGAWp7mqyhiRNUe"
-      },
-      "artists": [
-        {
-          "name": "Cactus Lee",
-          "url": "https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4"
-        }
-      ],
-      "duration_ms": 335846,
-      "name": "Lone Star",
-      "url": "https://open.spotify.com/track/2bAgoYfWqEUIMeNPLvwtfg"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
-        "name": "Easy On The Eyes",
-        "url": "https://open.spotify.com/album/3JQfqboxnLDsxsHE4ut65G"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 224568,
-      "name": "Easy On The Eyes",
-      "url": "https://open.spotify.com/track/0FKafClDhDTAjjNGr7wV5t"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -243,6 +191,38 @@
       "duration_ms": 212480,
       "name": "Highwomen",
       "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Lone Star",
+        "url": "https://open.spotify.com/album/347MekIQGAWp7mqyhiRNUe"
+      },
+      "artists": [
+        {
+          "name": "Cactus Lee",
+          "url": "https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4"
+        }
+      ],
+      "duration_ms": 335846,
+      "name": "Lone Star",
+      "url": "https://open.spotify.com/track/2bAgoYfWqEUIMeNPLvwtfg"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Easy On The Eyes",
+        "url": "https://open.spotify.com/album/3JQfqboxnLDsxsHE4ut65G"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 224568,
+      "name": "Easy On The Eyes",
+      "url": "https://open.spotify.com/track/0FKafClDhDTAjjNGr7wV5t"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -295,22 +275,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Tequila or Whiskey",
-        "url": "https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 133695,
-      "name": "Tequila or Whiskey",
-      "url": "https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "Time Flies",
         "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
       },
@@ -323,6 +287,26 @@
       "duration_ms": 190923,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Cardinal Sin (feat. Jason Isbell)",
+        "url": "https://open.spotify.com/album/5bqzhOiZ1j42qcD2oMCh32"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Cardinal Sin (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/1wU21mCoSc3fc8VZq1WkAn"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -387,6 +371,22 @@
       "duration_ms": 227240,
       "name": "Evangelina",
       "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Tequila or Whiskey",
+        "url": "https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 133695,
+      "name": "Tequila or Whiskey",
+      "url": "https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Lawdy Mama",
-        "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
-      },
-      "artists": [
-        {
-          "name": "The Deslondes",
-          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Lawdy Mama",
-      "url": "https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "Mint Condition",
         "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
       },
@@ -599,22 +583,34 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Lavender Cowboy",
-        "url": "https://open.spotify.com/album/6zeA4GCl9aHODp1dB4yo8w"
+        "name": "Lawdy Mama",
+        "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Lawdy Mama",
+      "url": "https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Under You",
+        "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
       },
       "artists": [
         {
           "name": "Andrew Sa",
           "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
-        },
-        {
-          "name": "H.C. McEntire",
-          "url": "https://open.spotify.com/artist/223IvfSnge3qiGcDMHk2e4"
         }
       ],
-      "duration_ms": 193555,
-      "name": "Lavender Cowboy",
-      "url": "https://open.spotify.com/track/2B8BHU6KqYiDbabtYEqfqD"
+      "duration_ms": 228781,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -631,22 +627,6 @@
       "duration_ms": 198173,
       "name": "It Must Be Someone Else\u2019s Fault",
       "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
-        "name": "Livin\u2019 In Shame",
-        "url": "https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f"
-      },
-      "artists": [
-        {
-          "name": "Emily Nenni",
-          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
-        }
-      ],
-      "duration_ms": 145253,
-      "name": "Livin\u2019 In Shame",
-      "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -683,18 +663,38 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Under You",
-        "url": "https://open.spotify.com/album/0fOqE6VqVqhnUBT0Ebkk86"
+        "name": "Livin\u2019 In Shame",
+        "url": "https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "duration_ms": 145253,
+      "name": "Livin\u2019 In Shame",
+      "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Lavender Cowboy",
+        "url": "https://open.spotify.com/album/6zeA4GCl9aHODp1dB4yo8w"
       },
       "artists": [
         {
           "name": "Andrew Sa",
           "url": "https://open.spotify.com/artist/6deCLrQTLyZTG8iNpirQ07"
+        },
+        {
+          "name": "H.C. McEntire",
+          "url": "https://open.spotify.com/artist/223IvfSnge3qiGcDMHk2e4"
         }
       ],
-      "duration_ms": 228781,
-      "name": "Under You",
-      "url": "https://open.spotify.com/track/6tXqo7GYIZKkRw1FYYChk9"
+      "duration_ms": 193555,
+      "name": "Lavender Cowboy",
+      "url": "https://open.spotify.com/track/2B8BHU6KqYiDbabtYEqfqD"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "You Make Sense To Me",
-        "url": "https://open.spotify.com/album/4WpCPGJZZfQACuLkCxtfAn"
-      },
-      "artists": [
-        {
-          "name": "Alex Lambert",
-          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
-        }
-      ],
-      "duration_ms": 235804,
-      "name": "You Make Sense To Me",
-      "url": "https://open.spotify.com/track/0H2E2WuQocHwRU7hHhZ1Sz"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "Blue Kentucky Girl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 200933,
       "name": "Blue Kentucky Girl - 2003 Remaster",
       "url": "https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "You Make Sense To Me",
+        "url": "https://open.spotify.com/album/4WpCPGJZZfQACuLkCxtfAn"
+      },
+      "artists": [
+        {
+          "name": "Alex Lambert",
+          "url": "https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN"
+        }
+      ],
+      "duration_ms": 235804,
+      "name": "You Make Sense To Me",
+      "url": "https://open.spotify.com/track/0H2E2WuQocHwRU7hHhZ1Sz"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "What Have I Done Wrong",
-        "url": "https://open.spotify.com/album/0AruFid9bNKPNydpHr4NFf"
-      },
-      "artists": [
-        {
-          "name": "Emily Nenni",
-          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
-        }
-      ],
-      "duration_ms": 175562,
-      "name": "What Have I Done Wrong",
-      "url": "https://open.spotify.com/track/4iBseQDtjvuxlzwDAzXXHo"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "Riddy Arman",
         "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 194306,
       "name": "Too Late to Write a Love Song",
       "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "What Have I Done Wrong",
+        "url": "https://open.spotify.com/album/0AruFid9bNKPNydpHr4NFf"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "duration_ms": 175562,
+      "name": "What Have I Done Wrong",
+      "url": "https://open.spotify.com/track/4iBseQDtjvuxlzwDAzXXHo"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
+        "name": "The Lost Outlaw Album",
+        "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
+      },
+      "artists": [
+        {
+          "name": "Hoover",
+          "url": "https://open.spotify.com/artist/4RXI4V3ta2nRbDoB5jvMED"
+        }
+      ],
+      "duration_ms": 165088,
+      "name": "I'm the Loneliest Man I Ever Met",
+      "url": "https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
         "name": "All My Exes Live in L.A.",
         "url": "https://open.spotify.com/album/0YDQ6x3Lf2bfReLsZfOLYw"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 156000,
       "name": "Diamond Joe",
       "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
-        "name": "The Lost Outlaw Album",
-        "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
-      },
-      "artists": [
-        {
-          "name": "Hoover",
-          "url": "https://open.spotify.com/artist/4RXI4V3ta2nRbDoB5jvMED"
-        }
-      ],
-      "duration_ms": 165088,
-      "name": "I'm the Loneliest Man I Ever Met",
-      "url": "https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Tom Turkey (Alternate Version)",
-        "url": "https://open.spotify.com/album/19xJ5beC0Fmqc9pRl71Sfs"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        }
-      ],
-      "duration_ms": 234656,
-      "name": "Tom Turkey - Alternate Version",
-      "url": "https://open.spotify.com/track/2dYWKTtBO7YxKNHJ6yFk05"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "This Masquerade",
         "url": "https://open.spotify.com/album/1otvDymvVShCQLgSWp869e"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 192750,
       "name": "This Masquerade",
       "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Tom Turkey (Alternate Version)",
+        "url": "https://open.spotify.com/album/19xJ5beC0Fmqc9pRl71Sfs"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "duration_ms": 234656,
+      "name": "Tom Turkey - Alternate Version",
+      "url": "https://open.spotify.com/track/2dYWKTtBO7YxKNHJ6yFk05"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Love All Night (Work All Day)",
-        "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "Same Devil (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 187466,
       "name": "Same Devil (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Love All Night (Work All Day)",
+        "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Magnolia Queen",
-        "url": "https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B"
-      },
-      "artists": [
-        {
-          "name": "Emily Scott Robinson",
-          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
-        }
-      ],
-      "duration_ms": 226784,
-      "name": "Marriage Ain't the End of Being Lonely",
-      "url": "https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "Snakelife",
         "url": "https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 200480,
       "name": "True Love's Face",
       "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Magnolia Queen",
+        "url": "https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B"
+      },
+      "artists": [
+        {
+          "name": "Emily Scott Robinson",
+          "url": "https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM"
+        }
+      ],
+      "duration_ms": 226784,
+      "name": "Marriage Ain't the End of Being Lonely",
+      "url": "https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "southwest serenade",
-        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
-      },
-      "artists": [
-        {
-          "name": "Story Slaughter",
-          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
-        }
-      ],
-      "duration_ms": 106250,
-      "name": "southwest serenade",
-      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
         "name": "Playing Old Games",
         "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
       },
@@ -1531,6 +1515,38 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
+        "name": "southwest serenade",
+        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
+      },
+      "artists": [
+        {
+          "name": "Story Slaughter",
+          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
+        }
+      ],
+      "duration_ms": 106250,
+      "name": "southwest serenade",
+      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
+      },
+      "artists": [
+        {
+          "name": "Gold Child",
+          "url": "https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc"
+        }
+      ],
+      "duration_ms": 220571,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
+    },
+    {
+      "added_at": "2026-05-15 04:01:20",
+      "album": {
         "name": "You Don't Own Me",
         "url": "https://open.spotify.com/album/7BOSDXG0al6FLZZyUqGIBe"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 168648,
       "name": "You Don't Own Me",
       "url": "https://open.spotify.com/track/6ZVCTPK8A83OogGsI0Dxjl"
-    },
-    {
-      "added_at": "2026-05-15 04:01:20",
-      "album": {
-        "name": "Swimming Alone",
-        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
-      },
-      "artists": [
-        {
-          "name": "Liz Rose",
-          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
-        }
-      ],
-      "duration_ms": 199339,
-      "name": "Yellow Room",
-      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
     },
     {
       "added_at": "2026-05-15 04:01:20",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2026-05-15 04:01:20",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
+        "name": "Swimming Alone",
+        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
       },
       "artists": [
         {
-          "name": "Gold Child",
-          "url": "https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc"
+          "name": "Liz Rose",
+          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
         }
       ],
-      "duration_ms": 220571,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
+      "duration_ms": 199339,
+      "name": "Yellow Room",
+      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
     },
     {
       "added_at": "2026-05-15 04:01:20",

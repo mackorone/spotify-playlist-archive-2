@@ -1539,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Frange",
+        "url": "https://open.spotify.com/album/3n1xVpqvWtn31Ju321fY2U"
+      },
+      "artists": [
+        {
+          "name": "Maldimarte",
+          "url": "https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203513,
+      "name": "Frange",
+      "url": "https://open.spotify.com/track/0GJiPCIUEyl5tqbjo53Qbk"
+    },
+    {
+      "album": {
         "name": "Fugaz",
         "url": "https://open.spotify.com/album/5ZprKugGTao6b6K1EnF84S"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mario Santander en portada.",
-  "num_followers": 72255,
+  "num_followers": 72275,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,26 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/6fiQok7m1pQUTJsCUueZPK"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "duration_ms": 242024,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/71nlFhAB2VhGZ1Vd7OdbHi"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
         "name": "Fotopaparazzi",
         "url": "https://open.spotify.com/album/0yJcjogROmyReERdHLtDuq"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 140770,
       "name": "Fotopaparazzi",
       "url": "https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/6fiQok7m1pQUTJsCUueZPK"
-      },
-      "artists": [
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        },
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        }
-      ],
-      "duration_ms": 242024,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/71nlFhAB2VhGZ1Vd7OdbHi"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
+        "name": "EVOLUXION",
+        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 145165,
+      "name": "HOUSE OF LUX 2",
+      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
         "name": "LA PERLA (V. ELECTRO-CORRIDO)",
         "url": "https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 162634,
       "name": "Solo Quiero Tomar",
       "url": "https://open.spotify.com/track/5lbdtAkTRsWCYBbkb2y7Sc"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
-        "name": "EVOLUXION",
-        "url": "https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 145165,
-      "name": "HOUSE OF LUX 2",
-      "url": "https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "S\u00edndrome Estocolmo",
-        "url": "https://open.spotify.com/album/4D10N5Tf0M2MEeyZzb1LPg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Maximo Grado",
-          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 165571,
-      "name": "La Plebada (feat. Deorro)",
-      "url": "https://open.spotify.com/track/5frpTS5bVMhdXTmDqCpLaS"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
         "name": "Ya No Se Llevan Serenatas",
         "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 190153,
       "name": "HOUSE & REGGAETON",
       "url": "https://open.spotify.com/track/0DaDaswKuO02nK39YfMpcJ"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
+        "name": "S\u00edndrome Estocolmo",
+        "url": "https://open.spotify.com/album/4D10N5Tf0M2MEeyZzb1LPg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Maximo Grado",
+          "url": "https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 165571,
+      "name": "La Plebada (feat. Deorro)",
+      "url": "https://open.spotify.com/track/5frpTS5bVMhdXTmDqCpLaS"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "Candy P",
-        "url": "https://open.spotify.com/album/5AAGa1ufqIZwD6yUt7nQbF"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "Mr Candy Kazu",
-          "url": "https://open.spotify.com/artist/3j2xZ5qiSevCbQT914rIPS"
-        }
-      ],
-      "duration_ms": 146517,
-      "name": "Candy P",
-      "url": "https://open.spotify.com/track/66hh5gGtf4Z3AfT5mljhdV"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
         "name": "Lo Mueve",
         "url": "https://open.spotify.com/album/7Hxs3puTDbpnamjx0gpwzN"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 152812,
       "name": "Lo Mueve",
       "url": "https://open.spotify.com/track/4gdGtQ5Apq80zuYzr5NJsM"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
+        "name": "Candy P",
+        "url": "https://open.spotify.com/album/5AAGa1ufqIZwD6yUt7nQbF"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "Mr Candy Kazu",
+          "url": "https://open.spotify.com/artist/3j2xZ5qiSevCbQT914rIPS"
+        }
+      ],
+      "duration_ms": 146517,
+      "name": "Candy P",
+      "url": "https://open.spotify.com/track/66hh5gGtf4Z3AfT5mljhdV"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
+        "name": "EXTAPHORIC!",
+        "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
+      },
+      "artists": [
+        {
+          "name": "Lumi Athena",
+          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
+        }
+      ],
+      "duration_ms": 85520,
+      "name": "THIRST FOR ME!",
+      "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
         "name": "NOT THE SAME",
         "url": "https://open.spotify.com/album/2Lq2PZQGLukrUIHod8IQ0Q"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 220549,
       "name": "NOT THE SAME",
       "url": "https://open.spotify.com/track/6ILS65H18B80SeUMTZQ3tC"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
-        "name": "EXTAPHORIC!",
-        "url": "https://open.spotify.com/album/3Z6XgTOnmv6jXg8Aus1Oxr"
-      },
-      "artists": [
-        {
-          "name": "Lumi Athena",
-          "url": "https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm"
-        }
-      ],
-      "duration_ms": 85520,
-      "name": "THIRST FOR ME!",
-      "url": "https://open.spotify.com/track/0x6ZS33oQQFyUMRjap4NXf"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
+        "name": "CAJETA",
+        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
+      },
+      "artists": [
+        {
+          "name": "Fend",
+          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
+        }
+      ],
+      "duration_ms": 146976,
+      "name": "CAJETA",
+      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
       },
@@ -1699,22 +1715,6 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "CAJETA",
-        "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
-      },
-      "artists": [
-        {
-          "name": "Fend",
-          "url": "https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7"
-        }
-      ],
-      "duration_ms": 146976,
-      "name": "CAJETA",
-      "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
         "name": "Jugo de Diamantes",
         "url": "https://open.spotify.com/album/0lt2MhZTJTSegzvSHfh7YM"
       },
@@ -1727,26 +1727,6 @@
       "duration_ms": 168000,
       "name": "Jugo de Diamantes",
       "url": "https://open.spotify.com/track/5fZVLUJBlfZUi4xMCjIv48"
-    },
-    {
-      "added_at": "2026-05-22 06:00:39",
-      "album": {
-        "name": "NOCHE FRIA",
-        "url": "https://open.spotify.com/album/5pSLDdzSk6qgadsklb8VIN"
-      },
-      "artists": [
-        {
-          "name": "Happykid",
-          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
-        },
-        {
-          "name": "Mendoza",
-          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "NOCHE FRIA",
-      "url": "https://open.spotify.com/track/5hXBT9Mfo3SqlevuDRpmjG"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -1795,22 +1775,22 @@
     {
       "added_at": "2026-05-22 06:00:39",
       "album": {
-        "name": "Shadows In The Night",
-        "url": "https://open.spotify.com/album/02sUoTG70SqDEyqESivGsk"
+        "name": "NOCHE FRIA",
+        "url": "https://open.spotify.com/album/5pSLDdzSk6qgadsklb8VIN"
       },
       "artists": [
         {
-          "name": "Skytech",
-          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+          "name": "Happykid",
+          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
         },
         {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
         }
       ],
-      "duration_ms": 171500,
-      "name": "Shadows In The Night",
-      "url": "https://open.spotify.com/track/1zN4OtDXLJae4PmCXIV7h6"
+      "duration_ms": 176000,
+      "name": "NOCHE FRIA",
+      "url": "https://open.spotify.com/track/5hXBT9Mfo3SqlevuDRpmjG"
     },
     {
       "added_at": "2026-05-22 06:00:39",
@@ -1831,6 +1811,26 @@
       "duration_ms": 114000,
       "name": "G\u00f3zalo (with Deorro)",
       "url": "https://open.spotify.com/track/7E2ZpjfCIQuTXLeDuYTaQh"
+    },
+    {
+      "added_at": "2026-05-22 06:00:39",
+      "album": {
+        "name": "Shadows In The Night",
+        "url": "https://open.spotify.com/album/02sUoTG70SqDEyqESivGsk"
+      },
+      "artists": [
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        },
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Shadows In The Night",
+      "url": "https://open.spotify.com/track/1zN4OtDXLJae4PmCXIV7h6"
     }
   ],
   "unique_name": "electro mx ",

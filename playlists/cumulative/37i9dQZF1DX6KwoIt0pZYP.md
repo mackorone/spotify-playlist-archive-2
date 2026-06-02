@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-1,183 songs - 2 day 16 hr 18 min
+1,184 songs - 2 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [fool me twice](https://open.spotify.com/track/2pTiZDWLDQjucMaCqiJnTW) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [fool's gold](https://open.spotify.com/album/3h3J8rBM1fJmZasYyT9U2U) | 3:02 | 2025-06-20 | 2025-07-12 |
 | [For Days](https://open.spotify.com/track/1pA0LgbtDzHRWCwuAWqw3z) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Constellations](https://open.spotify.com/album/0TlyEfOkm86OhT6NQcnWIt) | 3:43 | 2022-01-28 | 2022-10-15 |
 | [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 | 2025-02-14 | 2025-02-22 |
+| [For No Reason](https://open.spotify.com/track/6AFUs8A7itwJ2BF0Q8xXnW) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [For No Reason](https://open.spotify.com/album/0YxfTVkwTEk8XiRyC6G2WQ) | 3:15 | 2026-03-19 |  |
 | [For Once](https://open.spotify.com/track/55aAg3WavEg2F70ha4kWi9) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [For Once](https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM) | 3:32 | 2023-03-02 | 2023-03-10 |
 | [FOR REAL](https://open.spotify.com/track/4kur5V464OTAgBXrGVsQNV) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [FOR REAL](https://open.spotify.com/album/2TzyBYYqPp3ZARHD5z0vKL) | 2:41 | 2023-06-08 | 2023-06-16 |
 | [for you](https://open.spotify.com/track/0LxjqoA3oxdMiVfDW0PbUW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [25](https://open.spotify.com/album/1mNdKc1N4YKzkLcUNh1vxf) | 2:31 | 2025-10-02 | 2026-01-21 |
@@ -550,7 +551,7 @@
 | [Kill Your Darling](https://open.spotify.com/track/0t00rWZNQhSxO3YzHotFVb) | [Summer Soul](https://open.spotify.com/artist/6ZDL9IVLcZPApjoBdajrao), [Charming Lips](https://open.spotify.com/artist/7435cB9b8d5SMBEyn5eQi5) | [Kill Your Darling](https://open.spotify.com/album/0hr9Ut5vbeTUMjakNQwen9) | 3:36 | 2022-03-29 | 2022-04-21 |
 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 | 2022-05-27 | 2023-01-06 |
 | [King](https://open.spotify.com/track/6O2ruDL64hebg6W2VPvDLX) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [King](https://open.spotify.com/album/5LXxoJ288tW1BnkrF8rZg6) | 3:14 | 2023-12-08 | 2024-01-13 |
-| [kiss me thru the phone](https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E) | [CLUB BOYBND](https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN) | [kiss me thru the phone](https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P) | 1:57 | 2023-06-30 |  |
+| [kiss me thru the phone](https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E) | [CLUB BOYBND](https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN) | [kiss me thru the phone](https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P) | 1:57 | 2023-06-30 | 2026-06-02 |
 | [KISS&TELL](https://open.spotify.com/track/4Q9GArihbyGgtxRZ9D65Dj) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS), [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK) | [KISS&TELL](https://open.spotify.com/album/3eMRbPhnLjvYclsOHOyxJC) | 3:11 | 2024-02-23 | 2024-03-09 |
 | [kitchen light](https://open.spotify.com/track/3y2SDMSFemKDSF9q8xbmm1) | [Maggery](https://open.spotify.com/artist/452UwbEF3N7LK6Zd3bkTzw), [Isaac Solo](https://open.spotify.com/artist/0DqFap2UZBZYFYKEDYMEPa) | [kitchen light](https://open.spotify.com/album/34omlcFfOvMIgIOvLnStQo) | 2:17 | 2022-09-12 | 2022-09-17 |
 | [Know Me so Well \(feat\. Helen Hong\)](https://open.spotify.com/track/6yW1wqoGkABqhM6MlVK9eI) | [Lowhi](https://open.spotify.com/artist/3KUPWfQpnvly6W1yogx267), [Helen Hong](https://open.spotify.com/artist/4q4YgMpzLs9xevRBfEhY5s) | [Come Back Home](https://open.spotify.com/album/2MJhau1UjgYtvQJ6LTxYqN) | 3:13 | 2022-02-11 | 2022-04-21 |

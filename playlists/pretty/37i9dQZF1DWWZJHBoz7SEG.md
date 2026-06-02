@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Cruzando a la segunda mitad del año acompañados de La Arrolladora Banda El Limón de René Camacho y un montón de música nueva más.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,498 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,187,432 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 29 | [La Solicitud](https://open.spotify.com/track/12e6JgOysur8QUyedf9Rpm) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [La Solicitud](https://open.spotify.com/album/761Wr4nouqjUQup5dkuTOt) | 4:57 |
 | 30 | [Bye Bye Bailando](https://open.spotify.com/track/7pWGEl1IPvdxTlnTL3Fnkh) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Sin Control](https://open.spotify.com/album/0rpTeuCMoLaPtgCirgzFDY) | 3:18 |
 | 31 | [En Otra Vida](https://open.spotify.com/track/18mR8gPcOXPd1TFhqppMnB) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [En Otra Vida](https://open.spotify.com/album/7d1sXyGrP6JIOkmQCAqdDA) | 3:17 |
-| 32 | [Mi Alma Llorará](https://open.spotify.com/track/2ph1HxLM9MBQUs4mmlRWrW) | [Cumbia Pedregal](https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca) | [Sabor A Llanto](https://open.spotify.com/album/0ruBpdOaeRb9Up44T8Z6Of) | 3:23 |
+| 32 | [Mi Alma Llorará](https://open.spotify.com/track/2ph1HxLM9MBQUs4mmlRWrW) | [Cumbia Pedregal](https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca) | [Sabor A Llanto](https://open.spotify.com/album/0ruBpdOaeRb9Up44T8Z6Of) | 3:22 |
 | 33 | [MONTANDO EL CERRO DE LA SILLA](https://open.spotify.com/track/1vzdCBSBp5WrESskwxErDF) | [Morenito De Fuego](https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV), [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [NORTEÑO FLAVA](https://open.spotify.com/album/7IJ0Ofov2M0nyDmybbisuE) | 2:40 |
 | 34 | [euteamo](https://open.spotify.com/track/5cRZDkt3YEtGh4NkObP1jI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [euteamo](https://open.spotify.com/album/1Yb9zmTvmAc28ZukmcEh7Y) | 2:28 |
 | 35 | [los quiero de verdad](https://open.spotify.com/track/6mhuq822JPDG5gEp5Ey2KF) | [1702](https://open.spotify.com/artist/01qP45vTj8wyA2YllLfzfS), [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4) | [hoy les digo que](https://open.spotify.com/album/6ArPxheUgUkE5lfXli0vxA) | 3:56 |

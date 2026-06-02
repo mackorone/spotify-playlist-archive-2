@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -3336,6 +3336,40 @@
       "duration_ms": 429048,
       "name": "Amazekethe (feat. Soulful Disciple & Mdu aka TRP)",
       "url": "https://open.spotify.com/track/0Ounuqqaz5chAiyqSbIgj8"
+    },
+    {
+      "album": {
+        "name": "Amazwe",
+        "url": "https://open.spotify.com/album/3SS2CFxVmQ4B0FPyecIVMA"
+      },
+      "artists": [
+        {
+          "name": "Acidicloopz",
+          "url": "https://open.spotify.com/artist/4XNEqhjuBP9eVoL20n37FI"
+        },
+        {
+          "name": "Dlala Ceekai",
+          "url": "https://open.spotify.com/artist/3ciOZXxgHzLTWXpVMzHVNi"
+        },
+        {
+          "name": "Salga",
+          "url": "https://open.spotify.com/artist/1Y52sa19kigw534ZpEHXmF"
+        },
+        {
+          "name": "Deep6",
+          "url": "https://open.spotify.com/artist/4A9u9yolcBMM1hdNEeO6uz"
+        },
+        {
+          "name": "Solo SA",
+          "url": "https://open.spotify.com/artist/4ERU2RUtL62ijdYtZVo2UM"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293050,
+      "name": "Amazwe",
+      "url": "https://open.spotify.com/track/4A6U9iDOEAO2EfvbjBJuSN"
     },
     {
       "album": {
@@ -12214,7 +12248,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 372320,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4gOXXoIOkur9FZsRpReV9x"
@@ -26040,7 +26074,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 240039,
       "name": "IVALENTINE (feat. Shenge wasehlalankosi)",
       "url": "https://open.spotify.com/track/42Z8LNtIBkHEMW5hguw0Fo"
@@ -26308,7 +26342,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 284003,
       "name": "Izinkinga Zami",
       "url": "https://open.spotify.com/track/3cSHiNQ5ntNfERXSxJOPAR"
@@ -30416,7 +30450,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 311867,
       "name": "Lengoma (feat. Sami'Kay & Misokuhle)",
       "url": "https://open.spotify.com/track/3HCZlM8G03ely2mj6nHiJV"
@@ -34536,7 +34570,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 535310,
       "name": "Methodist Medley",
       "url": "https://open.spotify.com/track/4iitLhHIPZIyTPt9HfsykG"
@@ -36248,7 +36282,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 313338,
       "name": "MPOTXE NINE NINE",
       "url": "https://open.spotify.com/track/0FsuW0XZPx0x5kH70eQtYK"
@@ -44638,7 +44672,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 334522,
       "name": "Rato Laka",
       "url": "https://open.spotify.com/track/46NRGSM8TnSkJexKnQtoKw"
@@ -51398,7 +51432,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 215745,
       "name": "STOP and GO",
       "url": "https://open.spotify.com/track/5xqgBnOpJHAqN0IbGEodh9"
@@ -53102,7 +53136,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 346277,
       "name": "Thandolwethu",
       "url": "https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre"
@@ -56950,7 +56984,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 217850,
       "name": "Ulova",
       "url": "https://open.spotify.com/track/6Fp2Kq1gOFqfQX1DEpHofE"
@@ -58596,7 +58630,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 368000,
       "name": "uValo (feat. Dlala Thukzin)",
       "url": "https://open.spotify.com/track/0y7lIKJXlNFPcqVCxfnvOO"
@@ -58950,7 +58984,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 259709,
       "name": "Uyoncengwa Unyoko",
       "url": "https://open.spotify.com/track/3H2sEc2EOfjeptg8pPPTlx"

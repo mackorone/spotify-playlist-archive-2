@@ -1,6 +1,6 @@
 {
   "description": "eles barulharam nessa sess\u00e3o hein \ud83d\udc40",
-  "num_followers": 1446460,
+  "num_followers": 1446338,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,30 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Confiss\u00f5es",
+      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "Flexiona / Poder da Gest\u00e3o",
         "url": "https://open.spotify.com/album/3W0FANh8OHZbvqn4OynCIh"
       },
@@ -1063,30 +1087,6 @@
       "duration_ms": 162461,
       "name": "Flexiona",
       "url": "https://open.spotify.com/track/65Ww9xVjO9Dww9RUxqHgKQ"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
-      },
-      "artists": [
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 156461,
-      "name": "Confiss\u00f5es",
-      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1279,34 +1279,6 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
-        "name": "Advinha o CEP",
-        "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
-      },
-      "artists": [
-        {
-          "name": "IKNOWFELIPE",
-          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        }
-      ],
-      "duration_ms": 131368,
-      "name": "Advinha o CEP",
-      "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
         "name": "PEITO FALSO",
         "url": "https://open.spotify.com/album/0Yh7SE739Q8KPCsiW9DGff"
       },
@@ -1331,6 +1303,34 @@
       "duration_ms": 210461,
       "name": "PEITO FALSO",
       "url": "https://open.spotify.com/track/6NWfG69zA4RQyksIdwW7jt"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
+        "name": "Advinha o CEP",
+        "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
+      },
+      "artists": [
+        {
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        }
+      ],
+      "duration_ms": 131368,
+      "name": "Advinha o CEP",
+      "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
     },
     {
       "added_at": "2026-05-22 03:01:19",
@@ -1467,6 +1467,34 @@
     {
       "added_at": "2026-05-22 03:01:19",
       "album": {
+        "name": "dedin na boca",
+        "url": "https://open.spotify.com/album/1u9MYHRtdhwc0RINHD8Qe4"
+      },
+      "artists": [
+        {
+          "name": "TheJovemJota",
+          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Bymd.wav",
+          "url": "https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ"
+        },
+        {
+          "name": "DKmixx",
+          "url": "https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX"
+        }
+      ],
+      "duration_ms": 133715,
+      "name": "dedin na boca",
+      "url": "https://open.spotify.com/track/1H4k1iOh3EGQmIINhl1ZbG"
+    },
+    {
+      "added_at": "2026-05-22 03:01:19",
+      "album": {
         "name": "BASE: Barras da Leste Barras da Sul",
         "url": "https://open.spotify.com/album/27zwXjwKqkvRexUh7kwlQv"
       },
@@ -1495,34 +1523,6 @@
       "duration_ms": 211529,
       "name": "Mamadeira",
       "url": "https://open.spotify.com/track/4HQMSdNaiyeGJ5Zq79i76S"
-    },
-    {
-      "added_at": "2026-05-22 03:01:19",
-      "album": {
-        "name": "dedin na boca",
-        "url": "https://open.spotify.com/album/1u9MYHRtdhwc0RINHD8Qe4"
-      },
-      "artists": [
-        {
-          "name": "TheJovemJota",
-          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Bymd.wav",
-          "url": "https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ"
-        },
-        {
-          "name": "DKmixx",
-          "url": "https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX"
-        }
-      ],
-      "duration_ms": 133715,
-      "name": "dedin na boca",
-      "url": "https://open.spotify.com/track/1H4k1iOh3EGQmIINhl1ZbG"
     },
     {
       "added_at": "2026-05-22 03:01:19",

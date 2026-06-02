@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Ray. The essential tracks, all in one playlist.",
-  "num_followers": 5941,
+  "num_followers": 5946,
   "original_name": "This Is Victor Ray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ahoogAAAAACcB+NHkb0+krM51OwMULK0",
+  "snapshot_id": "aht6AAAAAADgB5hvug/4a/2cg3SC1Qp9",
   "tracks": [
     {
       "added_at": null,
@@ -135,22 +135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of Cards",
-        "url": "https://open.spotify.com/album/1l1l8xo7IAxCor2QPYM0Mg"
+        "name": "I WILL.",
+        "url": "https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl"
       },
       "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        },
         {
           "name": "Victor Ray",
           "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 150333,
-      "name": "House Of Cards",
-      "url": "https://open.spotify.com/track/2NSsAlLowF4oBBBktsAwM7"
+      "duration_ms": 171391,
+      "name": "World At My Feet",
+      "url": "https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S"
     },
     {
       "added_at": null,
@@ -171,18 +167,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I WILL.",
-        "url": "https://open.spotify.com/album/2BYVPJNyBUltJDH4rrxvwl"
+        "name": "House Of Cards",
+        "url": "https://open.spotify.com/album/1l1l8xo7IAxCor2QPYM0Mg"
       },
       "artists": [
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        },
         {
           "name": "Victor Ray",
           "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 171391,
-      "name": "World At My Feet",
-      "url": "https://open.spotify.com/track/1wvqFqy2sYYQN7Eyrnva2S"
+      "duration_ms": 150333,
+      "name": "House Of Cards",
+      "url": "https://open.spotify.com/track/2NSsAlLowF4oBBBktsAwM7"
     },
     {
       "added_at": null,

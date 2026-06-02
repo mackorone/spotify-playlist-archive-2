@@ -892,7 +892,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 308280,
       "name": "Memory of Future Melody",
       "url": "https://open.spotify.com/track/526K5riGysdt3Efrra6JXk"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 98106,
       "name": "Percussion in Nonspace",
       "url": "https://open.spotify.com/track/3zSk7VaJAbu4q1L4c083mx"
@@ -1120,6 +1120,24 @@
       "duration_ms": 221236,
       "name": "Piano on Tape",
       "url": "https://open.spotify.com/track/5KjMDOzck3awFToS8R8IUc"
+    },
+    {
+      "album": {
+        "name": "No. 3",
+        "url": "https://open.spotify.com/album/0IFAjnkr74T7JLEwGW8sia"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166090,
+      "name": "Pillar 1",
+      "url": "https://open.spotify.com/track/0mg9Ey03GAsHoMpTsdrb8I"
     },
     {
       "album": {
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 165495,
       "name": "Reclining Figures",
       "url": "https://open.spotify.com/track/0CXkhX1HRAbw3OyBmLDjem"
@@ -1494,7 +1512,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 247826,
       "name": "Staircases",
       "url": "https://open.spotify.com/track/1nyrOETmu8VBvlc01RQTgg"
@@ -1654,7 +1672,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 127883,
       "name": "The Library",
       "url": "https://open.spotify.com/track/4XCvnTjOlwShZABH9wtQHU"

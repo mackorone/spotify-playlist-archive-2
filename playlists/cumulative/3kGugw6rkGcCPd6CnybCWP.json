@@ -2795,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "Here to Stay",
+        "url": "https://open.spotify.com/album/4pzZL5wRL6e8tG0DASYvl6"
+      },
+      "artists": [
+        {
+          "name": "Edwina Van Kuyk",
+          "url": "https://open.spotify.com/artist/268un72oahUYc2Vyt2YGB7"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181775,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/1pQmRpOXuIufHIGaylroCw"
+    },
+    {
+      "album": {
         "name": "High and Low",
         "url": "https://open.spotify.com/album/5tGCGKKNwOF4w2vj17Cut9"
       },

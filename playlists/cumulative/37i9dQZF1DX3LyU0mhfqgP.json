@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Songs from LGBTQIA+ artists. Cover: FLOSS",
+  "description": "Songs from LGBTQIA+ artists. Cover: wavvyboi",
   "name": "GLOW",
   "tracks": [
     {
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 168348,
       "name": "Alineaci\u00f3n Antelada",
       "url": "https://open.spotify.com/track/0tWRaJmrTk5HyPelnNpG8P"
@@ -7542,7 +7542,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 166440,
       "name": "Dive Into Me",
       "url": "https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ"
@@ -7850,6 +7850,24 @@
       "duration_ms": 222000,
       "name": "Dose",
       "url": "https://open.spotify.com/track/2EF8lku4iNs7sMJBLZ8DqZ"
+    },
+    {
+      "album": {
+        "name": "Ilusiones de Amor",
+        "url": "https://open.spotify.com/album/1S692zlCrtcSsgeG0Yk5zz"
+      },
+      "artists": [
+        {
+          "name": "Trucha",
+          "url": "https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163258,
+      "name": "Dossier",
+      "url": "https://open.spotify.com/track/1HuU83yceEAnz8XaQRS6CF"
     },
     {
       "album": {
@@ -11535,6 +11553,24 @@
     },
     {
       "album": {
+        "name": "Golondrina y Tortolita",
+        "url": "https://open.spotify.com/album/3twCHqmmqHXitnYqHlu1uA"
+      },
+      "artists": [
+        {
+          "name": "La Bruja de Texcoco",
+          "url": "https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233571,
+      "name": "Golondrina y Tortolita",
+      "url": "https://open.spotify.com/track/25cCbTeW2RD3FPPgtb4dol"
+    },
+    {
+      "album": {
         "name": "GONE",
         "url": "https://open.spotify.com/album/2DGbNjWdCK5Mwu5WU7yFh9"
       },
@@ -12540,7 +12576,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 266129,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
@@ -18322,6 +18358,24 @@
       "duration_ms": 207813,
       "name": "Loved By U",
       "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
+    },
+    {
+      "album": {
+        "name": "Lover in The Dark",
+        "url": "https://open.spotify.com/album/2rUjbl38vD9SRhZE2QybQQ"
+      },
+      "artists": [
+        {
+          "name": "Pablo Brooks",
+          "url": "https://open.spotify.com/artist/7lZT5zwsgfFltYmlqC3gra"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Lover in The Dark",
+      "url": "https://open.spotify.com/track/0Zw5IwasOPQSCmDSgaHVaX"
     },
     {
       "album": {
@@ -30939,6 +30993,28 @@
     },
     {
       "album": {
+        "name": "Un Beso Entre Compadres",
+        "url": "https://open.spotify.com/album/7gztgXopQmLArcWo06rNhr"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Jerry Vel\u00e1zquez",
+          "url": "https://open.spotify.com/artist/6fF05Jq6daFXZIk1EFmp08"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187687,
+      "name": "Un Beso Entre Compadres",
+      "url": "https://open.spotify.com/track/29V38WMGIMTHWW1RnIWuFs"
+    },
+    {
+      "album": {
         "name": "Un d\u00eda nos vamos a morir",
         "url": "https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy"
       },
@@ -33126,7 +33202,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 182733,
       "name": "You're The Piece of Shit",
       "url": "https://open.spotify.com/track/6gZYjnQfcWqESFFmbTFNnd"

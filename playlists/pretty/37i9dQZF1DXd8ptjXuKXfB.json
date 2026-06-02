@@ -1,6 +1,6 @@
 {
   "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 32402,
+  "num_followers": 32407,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,30 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
+        "name": "KIK EZEK (Bruno)",
+        "url": "https://open.spotify.com/album/0QYLwzHmEQbT5DRJRZuBIU"
+      },
+      "artists": [
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        },
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        }
+      ],
+      "duration_ms": 134775,
+      "name": "KIK EZEK - Bruno",
+      "url": "https://open.spotify.com/track/6bm5nVasvTr8WfnixC1Ecw"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
         "name": "H\u0171tlen D\u00e9lib\u00e1b",
         "url": "https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0"
       },
@@ -343,30 +367,6 @@
       "duration_ms": 130285,
       "name": "MIRE SZ\u00c1M\u00cdTOTT\u00c1L",
       "url": "https://open.spotify.com/track/6MQD8BarH6kkEAuSzFeXnm"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
-        "name": "KIK EZEK (Bruno)",
-        "url": "https://open.spotify.com/album/0QYLwzHmEQbT5DRJRZuBIU"
-      },
-      "artists": [
-        {
-          "name": "Bruno X Spacc",
-          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
-        },
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        },
-        {
-          "name": "KKevin",
-          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
-        }
-      ],
-      "duration_ms": 134775,
-      "name": "KIK EZEK - Bruno",
-      "url": "https://open.spotify.com/track/6bm5nVasvTr8WfnixC1Ecw"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -647,18 +647,22 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "Four Seasons - Spring",
-        "url": "https://open.spotify.com/album/4iDm13QQDysn1H3w0cZypc"
+        "name": "A MASZK",
+        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
       },
       "artists": [
         {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
         }
       ],
-      "duration_ms": 149352,
-      "name": "Gate Closed",
-      "url": "https://open.spotify.com/track/4pPGHHybZH45ETSGROCMwg"
+      "duration_ms": 145531,
+      "name": "8",
+      "url": "https://open.spotify.com/track/19eAMzR3dZZVdPMfCkU1Wb"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -679,6 +683,22 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
+        "name": "Four Seasons - Spring",
+        "url": "https://open.spotify.com/album/4iDm13QQDysn1H3w0cZypc"
+      },
+      "artists": [
+        {
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
+        }
+      ],
+      "duration_ms": 149352,
+      "name": "Gate Closed",
+      "url": "https://open.spotify.com/track/4pPGHHybZH45ETSGROCMwg"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
         "name": "Talpra cig\u00e1nyok",
         "url": "https://open.spotify.com/album/3Ea6OuVvsf0U9jE4Jzs9NU"
       },
@@ -691,22 +711,6 @@
       "duration_ms": 146808,
       "name": "Talpra cig\u00e1nyok",
       "url": "https://open.spotify.com/track/7ol1qsH3u5MpgoEwuAh8ES"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
-        "name": "xXx",
-        "url": "https://open.spotify.com/album/7rV0GBVUtPdsLHSpcmnvuX"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 229894,
-      "name": "xXx",
-      "url": "https://open.spotify.com/track/2TakLZRzWUxCPWpoXlVvj5"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -731,6 +735,22 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
+        "name": "xXx",
+        "url": "https://open.spotify.com/album/7rV0GBVUtPdsLHSpcmnvuX"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 229894,
+      "name": "xXx",
+      "url": "https://open.spotify.com/track/2TakLZRzWUxCPWpoXlVvj5"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
         "name": "TOP TIER (SPACCONE)",
         "url": "https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx"
       },
@@ -743,6 +763,22 @@
       "duration_ms": 122500,
       "name": "TOP TIER - SPACCONE",
       "url": "https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
+        "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
+        "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
+      },
+      "artists": [
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "duration_ms": 174843,
+      "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
+      "url": "https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -771,22 +807,6 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
-        "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
-      },
-      "artists": [
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        }
-      ],
-      "duration_ms": 174843,
-      "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
-      "url": "https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
         "name": "KERTES H\u00c1Z",
         "url": "https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd"
       },
@@ -799,6 +819,30 @@
       "duration_ms": 139551,
       "name": "KERTES H\u00c1Z",
       "url": "https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
+        "name": "Midnight (The Hanging Tree)",
+        "url": "https://open.spotify.com/album/6YzV3Syw4CNX3R9IaTfnSh"
+      },
+      "artists": [
+        {
+          "name": "HOSH",
+          "url": "https://open.spotify.com/artist/3qoTlYFOahAlAh9ee3qnbs"
+        },
+        {
+          "name": "1979",
+          "url": "https://open.spotify.com/artist/0L4gqdrMNbRIbNKzgcBXG6"
+        },
+        {
+          "name": "Jalja",
+          "url": "https://open.spotify.com/artist/2KgiNo5JQEyIQdGv2Wyh4R"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "Midnight (The Hanging Tree)",
+      "url": "https://open.spotify.com/track/38MbUy2C0FLv6exayPlImu"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -911,22 +955,6 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "STARBOY",
-        "url": "https://open.spotify.com/album/1RBFuiXVEbKXBC2ocWf9AE"
-      },
-      "artists": [
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "STARBOY",
-      "url": "https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
         "name": "Besz\u00edvom",
         "url": "https://open.spotify.com/album/4yAG1pxLUJ6MVVjfWvCAeb"
       },
@@ -939,6 +967,22 @@
       "duration_ms": 176463,
       "name": "Besz\u00edvom",
       "url": "https://open.spotify.com/track/76rWiHUfPWXAxgWVVP5lyi"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
+        "name": "STARBOY",
+        "url": "https://open.spotify.com/album/1RBFuiXVEbKXBC2ocWf9AE"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "STARBOY",
+      "url": "https://open.spotify.com/track/2KlpczOaQj1KZEZeWVtIfV"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -991,6 +1035,22 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
+        "name": "PLETYKA",
+        "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "duration_ms": 155121,
+      "name": "PLETYKA",
+      "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
         "name": "\u00c9DEN",
         "url": "https://open.spotify.com/album/4TFfAeuhL7h30cwZv29rzI"
       },
@@ -1007,22 +1067,6 @@
       "duration_ms": 190000,
       "name": "\u00c9DEN",
       "url": "https://open.spotify.com/track/37rab2ZEkXwsPboXTZxHBf"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
-        "name": "PLETYKA",
-        "url": "https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        }
-      ],
-      "duration_ms": 155121,
-      "name": "PLETYKA",
-      "url": "https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -1111,22 +1155,6 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "INTERREGNUM",
-        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "BETON.HOF1",
-      "url": "https://open.spotify.com/track/4eBj6JtbOR8kQ3Lcx2YKxO"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
         "name": "Felsz\u00e1ll\u00f3 \u00c1g",
         "url": "https://open.spotify.com/album/6GxZdN8ocso7KmrDhVsD0c"
       },
@@ -1147,6 +1175,22 @@
       "duration_ms": 163636,
       "name": "Brazil F\u00e1nk",
       "url": "https://open.spotify.com/track/5rkw0Vg3RkYsAERJj1ivsr"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
+        "name": "INTERREGNUM",
+        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "BETON.HOF1",
+      "url": "https://open.spotify.com/track/4eBj6JtbOR8kQ3Lcx2YKxO"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -1287,18 +1331,22 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "Megcsalok veled ak\u00e1rkit",
-        "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
+        "name": "A MASZK",
+        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
       },
       "artists": [
         {
-          "name": "Marics Peti",
-          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
         }
       ],
-      "duration_ms": 144461,
-      "name": "Megcsalok veled ak\u00e1rkit",
-      "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
+      "duration_ms": 209142,
+      "name": "J\u00d3\u00c9JSZAK\u00c1T",
+      "url": "https://open.spotify.com/track/3WoGALjQo5Qv7K6AG8hi5Z"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -1371,6 +1419,22 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
+        "name": "Megcsalok veled ak\u00e1rkit",
+        "url": "https://open.spotify.com/album/1DBXUt5xMsJA8KtP5JVLO6"
+      },
+      "artists": [
+        {
+          "name": "Marics Peti",
+          "url": "https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp"
+        }
+      ],
+      "duration_ms": 144461,
+      "name": "Megcsalok veled ak\u00e1rkit",
+      "url": "https://open.spotify.com/track/0ZQ5xI0kFUJG4BbC0FGoU9"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
         "name": "100x",
         "url": "https://open.spotify.com/album/1Pd3S7JG3dIq5aojEe1aid"
       },
@@ -1411,66 +1475,22 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "Felt\u00e1mad a tenger",
-        "url": "https://open.spotify.com/album/4KFeIghxbaCVLDT2fYHaVZ"
+        "name": "NU M\u0102 LAS\u0102",
+        "url": "https://open.spotify.com/album/53k7aEfUyjep2mkaviZRNl"
       },
       "artists": [
         {
-          "name": "Filo",
-          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
-        }
-      ],
-      "duration_ms": 205107,
-      "name": "Felt\u00e1mad a tenger",
-      "url": "https://open.spotify.com/track/53BlzHii9uA227aRsvpsM1"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
-        "name": "INTERREGNUM",
-        "url": "https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD"
-      },
-      "artists": [
+          "name": "T\u00f3th Andi",
+          "url": "https://open.spotify.com/artist/3jsS2HaBW5WphHabBDxtQu"
+        },
         {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
         }
       ],
-      "duration_ms": 133636,
-      "name": "INTERREGNUM",
-      "url": "https://open.spotify.com/track/5fC9vYizLxqvDcT8kqB7Ma"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
-        "name": "Magyar Tenger Kal\u00f3zai",
-        "url": "https://open.spotify.com/album/7G03dGeUw7DdJ36QXJyekX"
-      },
-      "artists": [
-        {
-          "name": "Kr\u00fabi",
-          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
-        }
-      ],
-      "duration_ms": 180042,
-      "name": "Kapit\u00e1ny",
-      "url": "https://open.spotify.com/track/0tey8bGlUjHlfVr0LFJYb6"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
-        "name": "Beh\u00e1zasodtam",
-        "url": "https://open.spotify.com/album/2Zo8W6TqE90d8omt0fW8pY"
-      },
-      "artists": [
-        {
-          "name": "HRflow",
-          "url": "https://open.spotify.com/artist/3YuXReN1XJtyvBhUd0zjBk"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Beh\u00e1zasodtam",
-      "url": "https://open.spotify.com/track/3SBqXm4ArrhOqNdUwHvzGa"
+      "duration_ms": 163478,
+      "name": "NU M\u0102 LAS\u0102",
+      "url": "https://open.spotify.com/track/4f7QJX2A3SK4aVSK9bh4r5"
     }
   ],
   "unique_name": "Most Men\u0151",

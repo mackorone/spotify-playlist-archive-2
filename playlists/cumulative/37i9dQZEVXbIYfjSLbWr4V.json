@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 112983,
       "name": "bedroom",
       "url": "https://open.spotify.com/track/4E04D7zOlWSicxvwg85Rbc"
@@ -1264,6 +1264,24 @@
       "duration_ms": 129121,
       "name": "BIIG",
       "url": "https://open.spotify.com/track/0H8Q85hnT1pjWasC5ZzvG3"
+    },
+    {
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293802,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
       "album": {
@@ -5606,7 +5624,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -7746,7 +7764,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
@@ -7790,7 +7808,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 144624,
       "name": "Rebirth (Intro)",
       "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
@@ -8464,7 +8482,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -11554,7 +11572,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 61360,
       "name": "\u0432\u0438\u0441\u043a\u0438 \u0441 \u043c\u043e\u043b\u043e\u043a\u043e\u043c",
       "url": "https://open.spotify.com/track/1JYcDkXdWTPKdVU1S82UHO"
@@ -11792,7 +11810,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 260560,
       "name": "\u0412\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u0430?",
       "url": "https://open.spotify.com/track/5bkfPKnHLi6AUP3fJA5Xf5"
@@ -14124,7 +14142,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 255796,
       "name": "\u041c\u0435\u0436\u0434\u0443 \u043d\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/5DeaUQWxyUxRC9dRFWV1g1"
@@ -15270,7 +15288,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 134188,
       "name": "\u041d\u0443 \u0438 \u0447\u0451?",
       "url": "https://open.spotify.com/track/6Un1gJPIWzyRwOtmL4E0Jt"
@@ -15354,6 +15372,24 @@
       "duration_ms": 168786,
       "name": "\u041e\u0431\u043b\u043e\u043c\u043a\u0438 \u0447\u0443\u0432\u0441\u0442\u0432",
       "url": "https://open.spotify.com/track/6zmh6mi9cLuioTTRprsh8j"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0431\u043d\u044f\u043b \u043f\u043e\u0442\u043e\u043c \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u043b x Tuesday",
+        "url": "https://open.spotify.com/album/7lmJinr3wEoQwP642pyOC8"
+      },
+      "artists": [
+        {
+          "name": "Folkmusic",
+          "url": "https://open.spotify.com/artist/1ztl8jAr9j7UCrxut4B6dE"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158458,
+      "name": "\u041e\u0431\u043d\u044f\u043b \u043f\u043e\u0442\u043e\u043c \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u043b x Tuesday",
+      "url": "https://open.spotify.com/track/3kJA8xU8vwuO8n21hAKwXx"
     },
     {
       "album": {
@@ -15466,7 +15502,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 164288,
       "name": "\u041e\u043c\u0443\u0442",
       "url": "https://open.spotify.com/track/6UoUYGsdHo7aB5JtuJxW81"
@@ -16866,7 +16902,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 121528,
       "name": "\u0420\u043e\u043a-\u043d-\u0440\u043e\u043b\u043b\u0435\u0440",
       "url": "https://open.spotify.com/track/03Y8PzXMnT1iyQVseJyLoI"
@@ -19658,7 +19694,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-02",
       "duration_ms": 146008,
       "name": "\u0428\u0451\u043b\u043a",
       "url": "https://open.spotify.com/track/3chb0SAouU1FtBPR5NPHWX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Grupo Frontera 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,504 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,523 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 21 | [El Problema Eras Tú](https://open.spotify.com/track/5chSieINSaqzNxMtht6zEC) | [NXNNI](https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El Problema Eras Tú](https://open.spotify.com/album/4xKwnqFUiCk5lgMmJfUuRd) | 3:12 |
 | 22 | [La Solicitud](https://open.spotify.com/track/12e6JgOysur8QUyedf9Rpm) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [La Solicitud](https://open.spotify.com/album/761Wr4nouqjUQup5dkuTOt) | 4:57 |
 | 23 | [Los Callos De Mis Manos](https://open.spotify.com/track/0q1a2O3mDhxKElxiLxbYEJ) | [Banda La Misma Escuela](https://open.spotify.com/artist/6XWNbAQkiHTJz46yFENY43), [Banda Corona del Rey](https://open.spotify.com/artist/0CxrfcSWTiBX7M6WAakESI) | [Los Callos De Mis Manos](https://open.spotify.com/album/4M87HWWFKTAbRqEtBsMOQP) | 2:41 |
-| 24 | [Mi Alma Llorará](https://open.spotify.com/track/2ph1HxLM9MBQUs4mmlRWrW) | [Cumbia Pedregal](https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca) | [Sabor A Llanto](https://open.spotify.com/album/0ruBpdOaeRb9Up44T8Z6Of) | 3:23 |
+| 24 | [Mi Alma Llorará](https://open.spotify.com/track/2ph1HxLM9MBQUs4mmlRWrW) | [Cumbia Pedregal](https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca) | [Sabor A Llanto](https://open.spotify.com/album/0ruBpdOaeRb9Up44T8Z6Of) | 3:22 |
 | 25 | [MONTANDO EL CERRO DE LA SILLA](https://open.spotify.com/track/1vzdCBSBp5WrESskwxErDF) | [Morenito De Fuego](https://open.spotify.com/artist/3jF75SDeZLJaaFS0kYdnTV), [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [NORTEÑO FLAVA](https://open.spotify.com/album/7IJ0Ofov2M0nyDmybbisuE) | 2:40 |
 | 26 | [Mucha Conexión](https://open.spotify.com/track/6BZpuN8gCYimSUbwSRRKWK) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl) | [Mucha Conexión](https://open.spotify.com/album/00aZ5TVDBxZpdAD2D6o5NZ) | 2:46 |
 | 27 | [Ni Qué Fueran de Harina](https://open.spotify.com/track/0nMQkkBBXo6kFt3nvCHqeF) | [Los Hnos Rodriguez](https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU), [Jesús Mendoza](https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W) | [Ni Qué Fueran de Harina](https://open.spotify.com/album/6cg540uLqjXtfeiZcVp3wV) | 3:13 |

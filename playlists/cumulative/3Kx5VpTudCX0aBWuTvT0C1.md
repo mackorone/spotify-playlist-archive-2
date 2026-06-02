@@ -4,13 +4,14 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-144 songs - 8 hr 22 min
+146 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12.12.12 \- Rock](https://open.spotify.com/track/1LrE3JYp37AzpCSkovSPAK) | [Faceless DIVERSUM](https://open.spotify.com/artist/4bmj6GZWAkZhD2syFEuNXG) | [12\|12\|12](https://open.spotify.com/album/4Oydl17pAHsG5XE32aa6m1) | 3:29 | 2025-09-24 |  |
 | [2nd time Around](https://open.spotify.com/track/4rTjDOSolcpkNsSUyTBUQd) | [Will Percs](https://open.spotify.com/artist/2epSjcquBzfuHGTfDVtv2J) | [Fund my beach style.](https://open.spotify.com/album/3M3CkdB03Z9R5S1zxmVyCW) | 2:32 | 2025-10-31 | 2025-12-09 |
 | [A New Year's Wish](https://open.spotify.com/track/5lucHdCCRBRyUI1TLtQzCm) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [A New Year's Wish](https://open.spotify.com/album/64tDh5YS9ykrr9YyfGUJb3) | 2:58 | 2025-11-04 | 2025-12-09 |
+| [A tutti i Costi](https://open.spotify.com/track/3xLZkXAHPDbntmFG4XjD9v) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [A tutti i Costi](https://open.spotify.com/album/3FlJOwFJ9UvX9fJNI6xykJ) | 3:27 | 2026-06-01 |  |
 | [A.B\. Normal](https://open.spotify.com/track/1oBh6kwA621nFKmZNS3bl3) | [Little Less Pain](https://open.spotify.com/artist/1JLKWDQ8LN2uRAdFhUhWXJ) | [A.B\. Normal](https://open.spotify.com/album/1HWSSVtCRanpO7PyMZFOXP) | 3:30 | 2025-11-19 | 2026-03-15 |
 | [Addressed To Me](https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Addressed To Me](https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6) | 3:47 | 2025-11-17 | 2026-03-15 |
 | [Ain't My First Rodeo](https://open.spotify.com/track/2DUNte3JP5CCArzjlF2nnb) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Ain't My First Rodeo](https://open.spotify.com/album/26tiR7ucWjO4JssSc2zs6C) | 4:09 | 2025-11-12 | 2026-03-15 |
@@ -138,6 +139,7 @@
 | [We said Hi](https://open.spotify.com/track/5idEHknOLB6apZY52YceWt) | [Half Quiet](https://open.spotify.com/artist/5F48VKDyu8evEyKQIfBMcI) | [Left it on the table](https://open.spotify.com/album/4ZTZ2oRXuqK7j5zGKtnwug) | 2:38 | 2026-05-29 |  |
 | [We're Not Going Back !](https://open.spotify.com/track/2ZfUwtNAa1m2pFfbw12P1f) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [We're Not Going Back !](https://open.spotify.com/album/24RpqAI2h0N71yyWZAHjUR) | 3:09 | 2025-11-03 | 2025-12-09 |
 | [Weaker](https://open.spotify.com/track/6EXLpcnf9KBY7T16ZfX1Y1) | [Daryan Tchoubineh](https://open.spotify.com/artist/5kTeo0SHSNeFvUQP4mhtxj) | [Weaker](https://open.spotify.com/album/44m2wMyKWD8ANnMBUToYp5) | 3:31 | 2025-11-22 |  |
+| [When The Roots Don't Hold \- 2026 Remaster](https://open.spotify.com/track/0WutAvKPCuTDZ8us6mstGA) | [Dead Poet Warrior Zone](https://open.spotify.com/artist/4SkvaDIyFyeGYsMUcwte2T) | [When The Roots Don't Hold \(2026 Remaster\)](https://open.spotify.com/album/2SbHvfSxTxkOY3yzOGCH8g) | 3:36 | 2026-06-01 |  |
 | [White Roses](https://open.spotify.com/track/0dRwGLzgtvpZvS5NncfRJ8) | [Javier Sánchez](https://open.spotify.com/artist/012ou1HhOyZ6iFWL7FYsyZ) | [White Roses](https://open.spotify.com/album/4vPVInfF4dXmKVKFBR30XY) | 3:10 | 2025-11-10 | 2026-03-15 |
 | [Why did I let you go](https://open.spotify.com/track/3B7xM5DqfNlIOym2uGUqUD) | [Slackers](https://open.spotify.com/artist/5NgRFqeU6NagIzRChIVNbD), [Chelsea](https://open.spotify.com/artist/6dwC8rZSP2lrdEprBcZfdH) | [Why did I let you go](https://open.spotify.com/album/4ATipqGp3uvMv6TFJzQDYd) | 3:49 | 2025-11-19 | 2026-03-15 |
 | [Wicked Wicked Ways](https://open.spotify.com/track/4kBbTTOEJYymlnLIFMAAxf) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW), [Collin Hegna](https://open.spotify.com/artist/0cZ4bVVf2bWEON39U2kPab), [Federale](https://open.spotify.com/artist/6KdkzNXhRBjPQxCSYgRxpH) | [Wicked Wicked Ways](https://open.spotify.com/album/1te5ThMkLbxy4Vht0rSOlm) | 3:44 | 2026-05-27 |  |

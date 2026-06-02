@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAQHSKpsOGe163969j8eXyF+AnRsUlx",
+  "snapshot_id": "AAAQJEPEgNYSRYDqyMLNaEYIMkvIoRKH",
   "tracks": [
     {
       "added_at": "2026-05-12 03:36:45",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/6xaMY5HgrVf5Wz1ItwzkvR"
     },
     {
-      "added_at": "2026-05-01 15:38:24",
-      "album": {
-        "name": "A Violent Phenomenon",
-        "url": "https://open.spotify.com/album/00oDEbz2icsIehvpXeYHF9"
-      },
-      "artists": [
-        {
-          "name": "Choke Me",
-          "url": "https://open.spotify.com/artist/5Ji5zIC9jDr563Yk1S2vrv"
-        }
-      ],
-      "duration_ms": 170117,
-      "name": "Everything Is Forever Until It Ends",
-      "url": "https://open.spotify.com/track/50pDOdKch7VKkPlxfV2wNf"
-    },
-    {
       "added_at": "2026-05-05 13:30:39",
       "album": {
         "name": "Desert Rain",
@@ -1151,70 +1135,6 @@
       "duration_ms": 158893,
       "name": "Fucked Up Nation",
       "url": "https://open.spotify.com/track/3I2amMW47X5PiVNiAELfrx"
-    },
-    {
-      "added_at": "2026-05-01 14:07:49",
-      "album": {
-        "name": "Creeping Offence",
-        "url": "https://open.spotify.com/album/16kbuRpDJx42H9qRnI0Pef"
-      },
-      "artists": [
-        {
-          "name": "Dead Stilettos",
-          "url": "https://open.spotify.com/artist/6KGeS9on2ykpqmQh3L7t7y"
-        }
-      ],
-      "duration_ms": 250754,
-      "name": "Creeping Offence",
-      "url": "https://open.spotify.com/track/3YKWasEdCEL48xFml10l4J"
-    },
-    {
-      "added_at": "2026-05-01 14:07:20",
-      "album": {
-        "name": "The More, The Less",
-        "url": "https://open.spotify.com/album/4FrP86DkD0LqGf9pL3u86f"
-      },
-      "artists": [
-        {
-          "name": "Old Sparky",
-          "url": "https://open.spotify.com/artist/7bZmxm2fsWsb8vkDKXK44O"
-        }
-      ],
-      "duration_ms": 141478,
-      "name": "The More, The Less",
-      "url": "https://open.spotify.com/track/5aokvsaDoaPn7czbDWujLy"
-    },
-    {
-      "added_at": "2026-05-01 13:55:49",
-      "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/56B3wP3xRivlsnJQN8oa9j"
-      },
-      "artists": [
-        {
-          "name": "All Coasted",
-          "url": "https://open.spotify.com/artist/5v3VyJ81s4oLEqTPnHEtD6"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "No Regrets",
-      "url": "https://open.spotify.com/track/4l3ukeCLGfZuILXGyLcvbt"
-    },
-    {
-      "added_at": "2026-05-01 13:51:11",
-      "album": {
-        "name": "And So It Begins",
-        "url": "https://open.spotify.com/album/3x30Cvm7Ovhuu3gxjPwDp6"
-      },
-      "artists": [
-        {
-          "name": "Six by Georgia",
-          "url": "https://open.spotify.com/artist/2S8OFByHHLsgxLCKMB3XC2"
-        }
-      ],
-      "duration_ms": 181108,
-      "name": "Isn't That Worth Something",
-      "url": "https://open.spotify.com/track/74nMFpHYca1nN75CjwYfkx"
     },
     {
       "added_at": "2026-04-28 11:28:21",
@@ -3723,6 +3643,38 @@
       "duration_ms": 147692,
       "name": "EViL<>DiscO",
       "url": "https://open.spotify.com/track/3w1XPuH9KdQ0hqk5osPHfq"
+    },
+    {
+      "added_at": "2026-06-01 11:50:30",
+      "album": {
+        "name": "Golden Glasses",
+        "url": "https://open.spotify.com/album/4qxkpU3001dOaHswl1Na7K"
+      },
+      "artists": [
+        {
+          "name": "Cheap Petrol",
+          "url": "https://open.spotify.com/artist/12GUVzQKdS6WNQvbZRq100"
+        }
+      ],
+      "duration_ms": 330119,
+      "name": "Golden Glasses",
+      "url": "https://open.spotify.com/track/4PH6B0EduFdpGGiQiDyvoB"
+    },
+    {
+      "added_at": "2026-06-02 04:00:05",
+      "album": {
+        "name": "A Night in Hollywood",
+        "url": "https://open.spotify.com/album/5EnZ4hduf758YArA21k8PM"
+      },
+      "artists": [
+        {
+          "name": "leetham",
+          "url": "https://open.spotify.com/artist/6A0yNfaiITVOUgOZbRdK5u"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Insomniacs Lullaby",
+      "url": "https://open.spotify.com/track/0CZA4uPdR4i3KNZN4xzIH7"
     }
   ],
   "unique_name": "Shuffle Roulette",

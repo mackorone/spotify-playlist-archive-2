@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,425 songs - 9 day 20 hr 26 min
+4,427 songs - 9 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2889,8 +2889,10 @@
 | [Paradormo \- Radio Edit](https://open.spotify.com/track/66Yz4IsUlrYzqYrEoDFo7q) | [Bumbart Dj](https://open.spotify.com/artist/2Ft53dnGW9FNcHT5rsR2L9) | [Paradormo \(Radio Edit\)](https://open.spotify.com/album/1ypxObf8BIT2GQnzmKbJUO) | 3:06 | 2025-04-04 |  |
 | [Paradox](https://open.spotify.com/track/51OqiMvYNTbSiqNYU38usD) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Paradox](https://open.spotify.com/album/0MfcQgDAzxySwEcNklvyMB) | 4:59 | 2026-02-12 |  |
 | [Parafrasando Te](https://open.spotify.com/track/6eFiK40wkTwzyPSs2FKJLH) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Parafrasando Te](https://open.spotify.com/album/4YXVlggdk7OKmCsmtEubxe) | 3:19 | 2023-03-09 |  |
+| [Paramount](https://open.spotify.com/track/1MNWQKYwZp0eIAXW71Hd15) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Lifelines](https://open.spotify.com/album/4Ld3pZ6yTQ504LgUKMUmio) | 4:11 | 2026-06-01 |  |
 | [Paranoia del Destino](https://open.spotify.com/track/6UYgfCHUnXAlUqAFq3yWYU) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 2:49 | 2025-07-26 |  |
 | [Paranoia del Destino \(another\)](https://open.spotify.com/track/34g8ZLQxg9oofcUtgQbkCm) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 2:54 | 2025-09-18 |  |
+| [Paraíso Contigo](https://open.spotify.com/track/6tFgPbQpQ5VbAFFgqwcMdq) | [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi) | [Paraíso Contigo](https://open.spotify.com/album/1YossSBf5OAPlnh8kq3PZx) | 3:39 | 2026-06-01 |  |
 | [pariah](https://open.spotify.com/track/4OUBIrcg3D5VuqTI0Z7BTh) | [b4u](https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR) | [pariah](https://open.spotify.com/album/1Ca2TJ0IEnFLtM1V48TqVq) | 2:22 | 2025-05-16 |  |
 | [Paris ne m'aime plus](https://open.spotify.com/track/4nIzkc2RU2EKZiQWKeFYsr) | [Grand Safari](https://open.spotify.com/artist/0EN77k68HGU3tN2CJ70csf) | [Les tribulations du zèbre](https://open.spotify.com/album/4unNsOPk8K1vsFC9MATD9O) | 4:20 | 2025-10-18 |  |
 | [PARLANO PER NOI](https://open.spotify.com/track/7gthVtaKcriZOBG66fhSQW) | [Jeppy](https://open.spotify.com/artist/4Y8peRzvGKoJ2u7c5ccr8K) | [PARLANO PER NOI](https://open.spotify.com/album/5qHLZU4mfjtpSBdrYUHmeJ) | 2:43 | 2025-06-07 |  |

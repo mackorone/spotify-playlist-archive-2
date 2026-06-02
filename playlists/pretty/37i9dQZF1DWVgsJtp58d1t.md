@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:3MdXrJWsbVzdn6fe5JYkSQ">Latto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138,964 likes - 155 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,966 likes - 155 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Grace Tyler
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,759 likes - 215 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,817 likes - 215 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

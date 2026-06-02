@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Karuppu
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,723 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,785 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 23 | [Dheema](https://open.spotify.com/track/7tbCtSE51CsYyTmAEfnxFm) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Love Insurance Kompany \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/05M6vAqjgC8YC7RV29AKqE) | 3:55 |
 | 24 | [Vari Vari](https://open.spotify.com/track/1KJ8JKkGayN6BJ2kX3FGUj) | [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Vari Vari](https://open.spotify.com/album/3f2c0mrTvbNj50xM6o6Vbe) | 3:21 |
 | 25 | [Rare Piece Vanjaram \- From "Think Indie"](https://open.spotify.com/track/2hAOG5cJb9DrqF9acFeHHh) | [Thamizh Aadhavan](https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb) | [Rare Piece Vanjaram \(From "Think Indie"\)](https://open.spotify.com/album/5139LCoOlEReASFfsuMfcS) | 3:03 |
-| 26 | [ANBENNUM AARARO](https://open.spotify.com/track/0VznR1TUVWUklZiAnIF28k) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg), [Fathima Jahan](https://open.spotify.com/artist/0559zVUZD98FfIZdP4FIeN), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Habeebi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/03nMAhhKjlwN8fBTi30fJx) | 4:12 |
+| 26 | [ANBENNUM AARARO](https://open.spotify.com/track/0VznR1TUVWUklZiAnIF28k) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Harish Raghavendra](https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg), [Fathima Jahaan](https://open.spotify.com/artist/2iqMauzUdnUyiCOUeOFYD6), [Yugabharathi](https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e) | [Habeebi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/03nMAhhKjlwN8fBTi30fJx) | 4:12 |
 | 27 | [Make Way For The King \(From "Raaka"\)](https://open.spotify.com/track/5udwgBtaoN6UTjp7PJ1aiL) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Dhp](https://open.spotify.com/artist/77NUvfelg2oWph4u620NwF) | [Make Way For The King \(From "Raaka"\)](https://open.spotify.com/album/6TMNTFvioQQBWEVzZV0Vro) | 1:55 |
 | 28 | [Uyire \(From "Double Occupancy"\)](https://open.spotify.com/track/4GWPf8cdWKIYlOkx8vLeDu) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Vidya Damotharan](https://open.spotify.com/artist/7rQ3NaLHpZuLKBUOLFlxdG) | [Uyire \(From "Double Occupancy"\)](https://open.spotify.com/album/0PHrmgZsc3zr5pTT10q0mz) | 3:23 |
 | 29 | [Kaaka kathai](https://open.spotify.com/track/1JoC8zGfH1Ks0ckqfJ7exs) | [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Reymen Rodericks](https://open.spotify.com/artist/6I2tszJFdoMVbkzXDeLaiP) | [Ego Raman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60uOyXVWyXEBek4FBnbyNC) | 3:04 |

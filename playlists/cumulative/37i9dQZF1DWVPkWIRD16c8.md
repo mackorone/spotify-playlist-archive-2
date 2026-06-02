@@ -4,7 +4,7 @@
 
 > Let Jesus take the wheel...and the aux cord!
 
-290 songs - 17 hr 8 min
+291 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Enough](https://open.spotify.com/track/3YmPKB2cXJ9e0ZuZUx2Yw2) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Austin French](https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU) | [DOOM.](https://open.spotify.com/album/6UEuRE7E2uyxKzMh9jIya5) | 3:13 | 2019-11-20 | 2024-06-08 |
 | [Even Louder](https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Even Louder](https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx) | 3:29 | 2019-11-20 | 2024-06-08 |
 | [Every Good Thing](https://open.spotify.com/track/6zhK6WjjKUdNjP4LZ402Dg) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [Every Good Thing](https://open.spotify.com/album/6cD5fp6zUuPcQiZAEtqgwi) | 3:43 | 2019-11-20 | 2022-07-28 |
+| [Every Reason To Believe](https://open.spotify.com/track/79RFG7vkG7oV5Vnakb2wsw) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Every Reason To Believe](https://open.spotify.com/album/2ZklKbBKZrgTgfgVXBBmzA) | 3:18 | 2026-05-29 |  |
 | [Everything\_](https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq) | [Jon](https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q) | [Everything\_](https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1) | 3:51 | 2025-09-14 |  |
 | [eyes on Him](https://open.spotify.com/track/34f6dHA4FwE1yrmBcKiV73) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [eyes on Him](https://open.spotify.com/album/16MHfnw3yjWsdgXk5Y0cbI) | 3:12 | 2026-03-23 |  |
 | [Faith \- Radio Version](https://open.spotify.com/track/4HeBnOIcdTi5ZCdmpwJUuR) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Faith \(Radio Version\)](https://open.spotify.com/album/2B2nIx1BqirTcwSRveoBP0) | 3:46 | 2019-11-20 | 2022-07-29 |
@@ -197,7 +198,7 @@
 | [Reason](https://open.spotify.com/track/7nUflbCfoSFYiBOGH5D81R) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:19 | 2019-11-20 | 2024-04-19 |
 | [Rebels](https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Michael Ketterer](https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo) | [REBELS](https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd) | 3:46 | 2019-11-20 | 2024-06-08 |
 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 | 2019-11-20 | 2024-06-08 |
-| [Reckless Love](https://open.spotify.com/track/3bZBLuUUlBGOz3icz5zrRX) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Reckless Love](https://open.spotify.com/album/3l908EdsULb5j9vmSsNnvt) | 5:22 | 2024-06-07 |  |
+| [Reckless Love](https://open.spotify.com/track/3bZBLuUUlBGOz3icz5zrRX) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Reckless Love](https://open.spotify.com/album/3l908EdsULb5j9vmSsNnvt) | 5:22 | 2024-06-07 | 2026-06-02 |
 | [Redeemed](https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:36 | 2019-11-20 | 2024-06-08 |
 | [Remind Me Who I Am](https://open.spotify.com/track/5eqz8gTDU13s7x2DZKiQA9) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [A Way To See In The Dark](https://open.spotify.com/album/3E7uWZAn35nbYiwAHuya2l) | 3:47 | 2019-11-20 | 2022-07-29 |
 | [Remind Me Who I Am](https://open.spotify.com/track/7a9EoyKfRjz7lOW43Z8ZRW) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [A Way to See in the Dark](https://open.spotify.com/album/70mx4CmJ3HDkkaFOZHHJ7t) | 3:47 | 2019-11-20 | 2024-04-19 |

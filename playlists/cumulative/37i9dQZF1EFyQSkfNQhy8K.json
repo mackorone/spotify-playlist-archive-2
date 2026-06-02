@@ -1579,6 +1579,28 @@
     },
     {
       "album": {
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        }
+      ],
+      "date_added": "2026-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159375,
+      "name": "Fortuna (feat. Sevdaliza)",
+      "url": "https://open.spotify.com/track/5pAmSfN53jyhPTDA0pvoCO"
+    },
+    {
+      "album": {
         "name": "Free Hugs",
         "url": "https://open.spotify.com/album/7EgjqJUACBmntb301Nqij7"
       },

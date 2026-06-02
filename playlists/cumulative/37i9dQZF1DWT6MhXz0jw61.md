@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: 6LACK
 
-1,560 songs - 3 day 10 hr 26 min
+1,561 songs - 3 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1282,6 +1282,7 @@
 | [SSX Tricky](https://open.spotify.com/track/36sJSi1dMErvXeLDT5TWAa) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SSX Tricky](https://open.spotify.com/album/0oYTCnSK1D8GYfWUzrpxLa) | 2:47 | 2024-11-29 | 2024-12-14 |
 | [St\. Juliana](https://open.spotify.com/track/2Rig20krug9sy1Y95z6StG) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Conductor Williams](https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC) | [Across The Tracks](https://open.spotify.com/album/4vGxWRaA3iG6w8st1eOtlt) | 2:17 | 2024-06-28 | 2024-07-13 |
 | [STACEY DASH](https://open.spotify.com/track/0J9YLQGnB9cFavyuUNeQED) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [KEEP YOUR EYE ON THE SPARROW](https://open.spotify.com/album/1Lpe2J6iS42mPh7yoQGr6o) | 3:06 | 2025-06-13 | 2025-11-08 |
+| [Star](https://open.spotify.com/track/5hJvUFs1STKrodPsOk4DYZ) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [BastardChild](https://open.spotify.com/album/78peygM9sPeSRrBvhpjNvN) | 2:42 | 2026-05-29 |  |
 | [Stars Out](https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Stars Out](https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H) | 1:47 | 2024-06-28 | 2025-03-01 |
 | [State of Mind](https://open.spotify.com/track/5tLIFeK9bAk06o5WnNrbUq) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [State of Mind](https://open.spotify.com/album/6cAk1rnnggVRdSjBadOuqY) | 3:26 | 2021-10-07\* | 2021-10-09 |
 | [State of the Union](https://open.spotify.com/track/6AsqnQBAB2OsieFEOg4WuZ) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [State of the Union](https://open.spotify.com/album/0qyZlfEixAKU8WMl1GCNwr) | 4:41 | 2021-05-21 | 2022-01-15 |

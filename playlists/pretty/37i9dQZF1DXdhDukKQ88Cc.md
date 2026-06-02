@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > Gilli + Cizzo 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,463 likes - 40 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,459 likes - 40 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Marvel](https://open.spotify.com/track/3xo7KuTSE9Jj6t1hPH7hVW) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Marvel](https://open.spotify.com/album/7fMQNhReJWDjSiVs3thhLv) | 2:16 |
-| 2 | [Ivrig](https://open.spotify.com/track/2KN3oDrrcQGVEflzdGDcDl) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Ivrig](https://open.spotify.com/album/0T4s2FNI0JGlkbjaNScuLa) | 2:48 |
-| 3 | [Lagkagehuset Freestyle](https://open.spotify.com/track/3klUfjdR7eOQ1ugy82Mio9) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Michael Williams](https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE) | [Bag Gardinerne S1+S2](https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R) | 2:31 |
-| 4 | [Låst Inde](https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Låst Inde](https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw) | 2:58 |
-| 5 | [FIS & BALLADE \(feat\. Benny Jamz\)](https://open.spotify.com/track/4xAUsZHFsyL5Y2HS1IpkxM) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [KAOTISK KUNST](https://open.spotify.com/album/5Y6f0gJeJ7YJR7vsQKvVG2) | 2:57 |
-| 6 | [Fancy](https://open.spotify.com/track/6qPZa8karYruU5PIZNUxb2) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [Fancy](https://open.spotify.com/album/78cZnSsvi9ddflTjMLYYLL) | 2:02 |
-| 7 | [BOUNCE](https://open.spotify.com/track/4OFLTQoQBrDDDzTLjgNPwB) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [BOUNCE](https://open.spotify.com/album/1hxVpatMXOxBWMc0tsfjta) | 2:12 |
-| 8 | [Europa Favela](https://open.spotify.com/track/1I5iwGQHP4ZCgE8GGsq47v) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Europa Favela](https://open.spotify.com/album/3ZGcvfGVeXqF8YxCwfUNid) | 3:14 |
+| 2 | [FIS & BALLADE \(feat\. Benny Jamz\)](https://open.spotify.com/track/4xAUsZHFsyL5Y2HS1IpkxM) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [KAOTISK KUNST](https://open.spotify.com/album/5Y6f0gJeJ7YJR7vsQKvVG2) | 2:57 |
+| 3 | [Europa Favela](https://open.spotify.com/track/1I5iwGQHP4ZCgE8GGsq47v) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Europa Favela](https://open.spotify.com/album/3ZGcvfGVeXqF8YxCwfUNid) | 3:14 |
+| 4 | [Ivrig](https://open.spotify.com/track/2KN3oDrrcQGVEflzdGDcDl) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Ivrig](https://open.spotify.com/album/0T4s2FNI0JGlkbjaNScuLa) | 2:48 |
+| 5 | [Lagkagehuset Freestyle](https://open.spotify.com/track/3klUfjdR7eOQ1ugy82Mio9) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Michael Williams](https://open.spotify.com/artist/4pA9UUTKYrz88wP5NzYyVE) | [Bag Gardinerne S1+S2](https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R) | 2:31 |
+| 6 | [Låst Inde](https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Låst Inde](https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw) | 2:58 |
+| 7 | [Fancy](https://open.spotify.com/track/6qPZa8karYruU5PIZNUxb2) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [Fancy](https://open.spotify.com/album/78cZnSsvi9ddflTjMLYYLL) | 2:02 |
+| 8 | [BOUNCE](https://open.spotify.com/track/4OFLTQoQBrDDDzTLjgNPwB) | [GUSTO](https://open.spotify.com/artist/2ePd2b0RlMm7txE4D4SXpL) | [BOUNCE](https://open.spotify.com/album/1hxVpatMXOxBWMc0tsfjta) | 2:12 |
 | 9 | [Stil permanent](https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 2:26 |
 | 10 | [Kastrup Freestyle](https://open.spotify.com/track/7wq3KkTArpwCzCXv72myB0) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Kastrup Freestyle](https://open.spotify.com/album/72cSZLP1lfkwwuyTmFDfmU) | 2:35 |
 | 11 | [Ikaros](https://open.spotify.com/track/6X0OYoe0cSzRrarfDVPbp9) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Ikaros](https://open.spotify.com/album/4QpQkusyCxnLNdqO7hAF0S) | 2:09 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 39 | [Sig Det](https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr), [Phil](https://open.spotify.com/artist/3FDHZRQQME4R1BFXqGugLp) | [DOUBLEPEACE](https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ) | 3:05 |
 | 40 | [DOKU](https://open.spotify.com/track/55KqQqZoGAqAlys3Dqr1m3) | [Benny](https://open.spotify.com/artist/4ILUZ9Dq04CkO7FeKBcFfM) | [DOKU](https://open.spotify.com/album/1dYA6H6pefJSyWs7HT1I4d) | 1:53 |
 
-Snapshot ID: `AAAAALvi4g9urK8PWV8k0aXJNwKxX7yV`
+Snapshot ID: `AAAAAIGYy0FqTyXfNhXJ2p6tIUL3qS8C`

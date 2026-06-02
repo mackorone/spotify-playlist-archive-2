@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOpRGOH7Qce7F.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 21 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 20 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOpRGOH7Qce7F.md) - [plain]
 | 16 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:07 |
 | 17 | [Daft Punk's "Homework"](https://open.spotify.com/episode/3vcYfM2CJmMaiTixf8Z1XV) | [Record Breakers Music Podcast](https://open.spotify.com/show/433rrlhNJ6fXn0mTo215Nb) | [Record Breakers Music Podcast](https://open.spotify.com/album/433rrlhNJ6fXn0mTo215Nb) | 33:46 |
 | 18 | [123456](https://open.spotify.com/track/5O3nMjk8xL7n4TIh0tym4i) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:04 |
-| 19 | [Ep\. 10: Michael Fitzpatrick of Fitz and The Tantrums](https://open.spotify.com/episode/6zQ43IU3dpSLuYratnDkec) | [And The Writer Is...with Ross Golan](https://open.spotify.com/show/26gzyiPD2ix1VaO1fHDKCk) | [And The Writer Is...with Ross Golan](https://open.spotify.com/album/26gzyiPD2ix1VaO1fHDKCk) | 1:17:30 |
-| 20 | [Transmission](https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:02 |
-| 21 | ["Stay" by Zedd & Alessia Cara \- Season 2, Episode 12](https://open.spotify.com/episode/3Ww8k5LSCDrL58ZkztHnoO) | [Song Appeal](https://open.spotify.com/show/5t8guRcPZceBH1klbj170z) | [Song Appeal](https://open.spotify.com/album/5t8guRcPZceBH1klbj170z) | 15:08 |
+| 19 | [Transmission](https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:02 |
+| 20 | ["Stay" by Zedd & Alessia Cara \- Season 2, Episode 12](https://open.spotify.com/episode/3Ww8k5LSCDrL58ZkztHnoO) | [Song Appeal](https://open.spotify.com/show/5t8guRcPZceBH1klbj170z) | [Song Appeal](https://open.spotify.com/album/5t8guRcPZceBH1klbj170z) | 15:08 |
 
 Snapshot ID: `AZiNggAAAAAqSLSN36blpyMjYXqqfbAl`

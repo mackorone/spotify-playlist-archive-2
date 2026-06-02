@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 
 > 
 
-[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,546 likes - 555 songs - 1 day 12 hr 12 min
+[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,545 likes - 555 songs - 1 day 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -390,7 +390,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 | 380 | [Amor Fati](https://open.spotify.com/track/2zCm8GoOtiDbUoKbjHEGg1) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr) | 4:25 |
 | 381 | [...Of Your Fake Dimension](https://open.spotify.com/track/2lh8BLXFgfWkzgut4eWj3k) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Iteration](https://open.spotify.com/album/6x43T5KNDP5e0c4hV8x3Go) | 3:27 |
 | 382 | [サイバーバード](https://open.spotify.com/track/582gpRUX6LEVXbuCdgIDaq) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 5:58 |
-| 383 | [Khun](https://open.spotify.com/track/6jgz3qHKwsRv9JYCrw2QO2) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y), [Ben Mathews](https://open.spotify.com/artist/3bkYwMrOfEmPyyu3HqEUgG) | [TOWER OF GOD 『神之塔』 Original Soundtrack](https://open.spotify.com/album/3WjMbvQtYuRi4iSqWoEZc9) | 3:27 |
+| 383 | [Khun](https://open.spotify.com/track/6jgz3qHKwsRv9JYCrw2QO2) | [Kevin Penkin ft\. Ben Mathews](https://open.spotify.com/artist/6iNRwHgxLE359ZWb8Le6JI) | [TOWER OF GOD 『神之塔』 Original Soundtrack](https://open.spotify.com/album/3WjMbvQtYuRi4iSqWoEZc9) | 3:27 |
 | 384 | [Pursuing My True Self](https://open.spotify.com/track/0aYDsydt27Ag7pwHOZMCBA) | [平田志穂子](https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX) | [ネバー・モア\-『ペルソナ4』輪廻転生\-](https://open.spotify.com/album/0bMzZ3T2Y28E658ExKIuP5) | 3:04 |
 | 385 | [Inspector Norse](https://open.spotify.com/track/01txDiOnBPfMrVQwPQtDHR) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's Album Time](https://open.spotify.com/album/4pefQ21iSk8hdnxw3WSB5Y) | 6:59 |
 | 386 | [Quixotic](https://open.spotify.com/track/5cZva2sFzjPzbSs0x0FVXP) | [M\|O\|O\|N](https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT) | [Quixotic](https://open.spotify.com/album/5T1EF3ZdUyVR8eBITFF2wc) | 5:45 |

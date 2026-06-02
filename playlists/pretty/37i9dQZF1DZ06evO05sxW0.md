@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05sxW0.md) - [plain]
 
 > This is Bikini Kill\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,934 likes - 32 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,941 likes - 32 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05sxW0.md) - [plain]
 | 13 | [For Tammy Rae](https://open.spotify.com/track/6exaLl7ZooHc7JlxMoEGxD) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Pussy Whipped](https://open.spotify.com/album/4rCgFExY3JIJdFij2kwB1w) | 3:33 |
 | 14 | [Suck My Left One](https://open.spotify.com/track/4IQY0TThr7YebYWf2X07xC) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The First Two Records](https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze) | 2:24 |
 | 15 | [Strawberry Julius](https://open.spotify.com/track/4uHk44o05dcewS9AqQZxrt) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 2:17 |
-| 16 | [Candy](https://open.spotify.com/track/2WXlPI381wP6Dp7LNGxtYl) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 3:28 |
+| 16 | [Statement of Vindication](https://open.spotify.com/track/5shgITNppeaNvC8y4226z5) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Reject All American](https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon) | 1:11 |
 | 17 | [Blood One](https://open.spotify.com/track/3L0chLc9b4GvsLg59nHTIL) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Pussy Whipped](https://open.spotify.com/album/4rCgFExY3JIJdFij2kwB1w) | 1:44 |
-| 18 | [Statement of Vindication](https://open.spotify.com/track/5shgITNppeaNvC8y4226z5) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Reject All American](https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon) | 1:11 |
+| 18 | [Candy](https://open.spotify.com/track/2WXlPI381wP6Dp7LNGxtYl) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 3:28 |
 | 19 | [Rah! Rah! Replica](https://open.spotify.com/track/22LHUAvReDgMQ4wrjLo89j) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 0:58 |
 | 20 | [Outta Me](https://open.spotify.com/track/1lcJw1PxcJx8v0gXkD64uO) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The First Two Records](https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze) | 2:28 |
 | 21 | [Sugar](https://open.spotify.com/track/3OJVrGpVbq0KD6j0NMOrlA) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Pussy Whipped](https://open.spotify.com/album/4rCgFExY3JIJdFij2kwB1w) | 2:22 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05sxW0.md) - [plain]
 | 31 | [Ocean Song](https://open.spotify.com/track/2fM9MUueSFsILkptHaiE9N) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 3:29 |
 | 32 | [Just Once](https://open.spotify.com/track/1sGHJSgeRVGlsWMW3H0bak) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 3:35 |
 
-Snapshot ID: `ahoogAAAAADuNjNkpch3nquWTzTcJTLa`
+Snapshot ID: `aht6AAAAAAAYDnckEuaYI4qoQEh+1yJM`
