@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Kygo & Dan Tyminski
 
-2,098 songs - 4 day 6 hr 47 min
+2,098 songs - 4 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1772,7 +1772,7 @@
 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 | 2025-07-04 | 2025-09-06 |
 | [Take The Night](https://open.spotify.com/track/1TEDQhTzHs7RSi0jN78pgT) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Take The Night](https://open.spotify.com/album/2tY6pCWVOpgsg1jXiQaxFf) | 2:59 | 2024-05-17 | 2024-06-22 |
 | [TAKUTÁ](https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [TAKUTÁ](https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu) | 2:38 | 2023-03-31 | 2023-06-10 |
-| [Talk](https://open.spotify.com/track/5Bs8K3OjU1fIQJ7I2GR2mu) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Omar Duro](https://open.spotify.com/artist/3QUcOtKpMPAbhxDkuW9SPV) | [Talk](https://open.spotify.com/album/5lBATMB20Ft9dtV1ntJasC) | 3:13 | 2026-05-29 |  |
+| [Talk](https://open.spotify.com/track/5Bs8K3OjU1fIQJ7I2GR2mu) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Omar Duro](https://open.spotify.com/artist/3QUcOtKpMPAbhxDkuW9SPV) | [Talk](https://open.spotify.com/album/5lBATMB20Ft9dtV1ntJasC) | 2:47 | 2026-05-29 |  |
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-07 | 2024-06-29 |
 | [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 | 2026-01-09 | 2026-03-28 |
 | [Talk To You](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-03-20 | 2026-05-16 |

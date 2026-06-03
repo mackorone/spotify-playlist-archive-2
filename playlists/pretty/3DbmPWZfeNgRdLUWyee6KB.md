@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 212 songs - 12 hr 28 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 219 songs - 12 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,5 +220,12 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 210 | [Know U Fine](https://open.spotify.com/track/4rRSpH0e1QEJjluHPybBiZ) | [Skye Cotter](https://open.spotify.com/artist/2Zd6MDFlvS0GG7Ncyb9q67) | [Know U Fine](https://open.spotify.com/album/3gFzVNmbdPvfjrNs5FNh73) | 2:58 |
 | 211 | [No More Lies](https://open.spotify.com/track/4AGflhfh5RPzKlVydgG6TQ) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [No More Lies](https://open.spotify.com/album/7vQkexwSNeZJQ9X7RLwUTE) | 4:13 |
 | 212 | [Days go by \(Lost\)](https://open.spotify.com/track/6moyAEoIcPqI8HPVkVKTcn) | [TeoT](https://open.spotify.com/artist/4IVsxJI83GRiIx0S2qWV6E) | [Days go by \(Lost\)](https://open.spotify.com/album/0lssnlmSTX50erZ6CLv30s) | 3:32 |
+| 213 | [Mother Superior](https://open.spotify.com/track/2KUgPxQX8Xur7Rm52YtlhQ) | [Crawl Town](https://open.spotify.com/artist/4qjmL9io1J7QYLvDhhTPDd) | [Mother Superior](https://open.spotify.com/album/3gTBEqs8VigsZgnfxAgeQ9) | 3:40 |
+| 214 | [You fill my life](https://open.spotify.com/track/3mfd2t6gCPVT4EPTshodMW) | [Debora Gioè](https://open.spotify.com/artist/6C9jZZoxXCFasaJ989cQyd) | [You fill my life](https://open.spotify.com/album/2QHcqrhbL3napTYSiPdBWI) | 3:23 |
+| 215 | [Minding My Business](https://open.spotify.com/track/1AYKrxVWjGxkUdcOxadqzw) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Minding My Business](https://open.spotify.com/album/5XZYS9zWdncFogtSThtheL) | 1:39 |
+| 216 | [Walking with No Destination](https://open.spotify.com/track/5vY5K9qcv51njLiRQzV3Ed) | [Gamina Chad](https://open.spotify.com/artist/45ynquiP8pzBnzr1kxB3tm) | [Walking with No Destination](https://open.spotify.com/album/7qyYDOpHdjovobeBzwmAut) | 3:05 |
+| 217 | [King Of My Soul](https://open.spotify.com/track/5JcfggaYvguzdOOY2qzxZJ) | [Myastina](https://open.spotify.com/artist/21PeFB5FzDLwG262iRvJLE) | [King Of My Soul](https://open.spotify.com/album/3k5qIWauXLlk4Wpl5laNOE) | 3:22 |
+| 218 | [Hell Has a Garden with Angels](https://open.spotify.com/track/4qM7VTi6CpgP04QhOcdObD) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 2:46 |
+| 219 | [Viagem Sertaneja](https://open.spotify.com/track/5o1umqc3t460pxyIKQGG9B) | [Jouzebob](https://open.spotify.com/artist/7hVzOqcAslxXm7xWZa71fI) | [Viagem Sertaneja](https://open.spotify.com/album/48OVByE5NVBtHdd6xARWbm) | 2:47 |
 
-Snapshot ID: `AAAUfvJMJCl82GGBi4VFNWrwnW464Abz`
+Snapshot ID: `AAAUhSMRbIW5YbrblyP5Tga45vkD3NAe`

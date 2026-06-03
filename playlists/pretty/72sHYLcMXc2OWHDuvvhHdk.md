@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,705 songs - 6 day 13 hr 33 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 572 likes - 2,715 songs - 6 day 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2713,5 +2713,15 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2703 | [I will be sovereign \- acoustic version](https://open.spotify.com/track/0FFde7UAaerp5uvQUBFCU3) | [KraHbichT](https://open.spotify.com/artist/6BviIFP7ZRxpgu79x7Y8a8) | [The other side \(When everything is..\. acoustic! Vol\. I\)](https://open.spotify.com/album/4h02NUFK61jm2Z0p6ZL8Kv) | 4:35 |
 | 2704 | [Two Is The Same As Three](https://open.spotify.com/track/1v6A6uG26alJXi3TB21iQ2) | [PsychoAcoustic SoundClash](https://open.spotify.com/artist/1EfDU2YEap9aF5yhAuHUQG) | [Recycled Culture](https://open.spotify.com/album/1SKCCEW8YU60KpZJMu5bkO) | 3:56 |
 | 2705 | [Bella Anima](https://open.spotify.com/track/0KmN9pdfaqUdV5jvENSXFm) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Not All Eyes Are Green](https://open.spotify.com/album/5uIS1c0hRQZY3H8eIHNCrJ) | 1:57 |
+| 2706 | [Get Comfortable](https://open.spotify.com/track/3oGRRDs7GWxwCmHdIa2aQj) | [Your Endless Soundtrack](https://open.spotify.com/artist/7ojWe3rbS4BewvbDDwIQQt) | [Get Comfortable](https://open.spotify.com/album/3eZfGFn4labgKTBNKZmfZu) | 5:35 |
+| 2707 | [Prise au piège](https://open.spotify.com/track/3llWxmfiYq8NmaKFIxEUZm) | [Kyara](https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff) | [Prise au piège](https://open.spotify.com/album/48ZT7Nc6uJfzMiI65Oa8f0) | 3:55 |
+| 2708 | [Layers of Self](https://open.spotify.com/track/4P9aUEnU3xizbzm8HDzEmi) | [Dvashest'](https://open.spotify.com/artist/3wI1yOAEbDg7TufKBbXxBg) | [Layers of Self](https://open.spotify.com/album/001EJc3HrnRW1ly3rNWpUC) | 3:50 |
+| 2709 | [Other People's Dreams](https://open.spotify.com/track/07xPN7atNFx5JRwh8Qmt75) | [Peter Martin](https://open.spotify.com/artist/1MUQtymnpcW54GOwi9prRO) | [Forgotten Again](https://open.spotify.com/album/3awgdFvC3bRpA8M27E0ZpN) | 3:38 |
+| 2710 | [why?](https://open.spotify.com/track/0dWWaG1JOquwwk9HmyfIUs) | [Santasma](https://open.spotify.com/artist/1IMcw6JhH4to2KPaj69ZZU) | [why?](https://open.spotify.com/album/6825Q52TyuoEKVMjsSFnbz) | 6:27 |
+| 2711 | [Afro Mestizo \- Extended](https://open.spotify.com/track/2UFrXmPwgFhyFYi7Fje02f) | [I Solisti Veneti](https://open.spotify.com/artist/7kOmn7bXQfCMkPzq3ATXa4), [Amilcar Soto Rodriguez](https://open.spotify.com/artist/7aVBBOChhRQMFKs3u3DGV6), [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Afro Mestizo](https://open.spotify.com/album/3kPwfkHcbzcnJK9zNRmmrb) | 6:29 |
+| 2712 | [Linden and Elm Trees](https://open.spotify.com/track/0DccXXD6FKHsroZzn1d4Ze) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [The King and the Sparrow](https://open.spotify.com/album/7g1LueKiCAtBdEanwL1imW) | 2:55 |
+| 2713 | [Red](https://open.spotify.com/track/2iIGXijejENkrfiYU8EphU) | [Silent Rogues](https://open.spotify.com/artist/58dvfuHJwLQ6xENplkiRaQ) | [Red](https://open.spotify.com/album/5ccVYt3JkKLCy4pDjUkxBS) | 4:22 |
+| 2714 | [SUNSET RIDER](https://open.spotify.com/track/1ZicbVbmBAAQ0JgeKXQ4mw) | [YOS JAMES](https://open.spotify.com/artist/6iQ8xFB2QZhLyD3SjWLFn2) | [SUNSET RIDER](https://open.spotify.com/album/1WnIYAhQnakAkKXnigDDfG) | 3:59 |
+| 2715 | [Always The Best](https://open.spotify.com/track/0OXj73SVPdLAllhoPa0tVw) | [Gr!t](https://open.spotify.com/artist/3Wm8pFKXhnyxtVlW4npip2) | [House Star](https://open.spotify.com/album/67cjkHorallGw6UJ9tVGwl) | 6:48 |
 
-Snapshot ID: `AAALKkdFs6gkIZfkzN468iWCwv3xb4A2`
+Snapshot ID: `AAALNLU9xpjYd0wFkuGhWjQLvi0sCDiI`

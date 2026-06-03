@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Lauv
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,091 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,093 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pretty Little Things](https://open.spotify.com/track/4cxp9FkxuUqcNxvgnfVKju) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Pretty Little Things](https://open.spotify.com/album/69UHydI2nE7iN0Idu3Apb7) | 2:51 |
+| 1 | [Pretty Little Things](https://open.spotify.com/track/4cxp9FkxuUqcNxvgnfVKju) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Pretty Little Things](https://open.spotify.com/album/69UHydI2nE7iN0Idu3Apb7) | 2:51 |
 | 2 | [Glamorous Life](https://open.spotify.com/track/20BMd1ZXqpdL6ssLndH5Su) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 4:11 |
 | 3 | [Heroine](https://open.spotify.com/track/04OCeDuqT4ympbgDZ8dcfT) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Heroine](https://open.spotify.com/album/4xT3ryrqfutVzV1cJN79Ww) | 2:35 |
 | 4 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 51 | [Beauty Pageant](https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:15 |
 | 52 | [In The Stars](https://open.spotify.com/track/6PkObLfJ4c0BfXQXuJmu91) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [In The Stars](https://open.spotify.com/album/1nk0CV2agKlG3G0dV4vyqK) | 4:13 |
 | 53 | [My Mess](https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [My Mess](https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu) | 3:11 |
-| 54 | [Something Special](https://open.spotify.com/track/5DCJC6w5jAz0cvZSjud7pr) | [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ahn Hyo\-seop](https://open.spotify.com/artist/1TUrQeNhlJMcg9zl8yiW70) | [Something Special](https://open.spotify.com/album/41ZXHq2R4nI3vUdywPlPMq) | 3:54 |
+| 54 | [Something Special](https://open.spotify.com/track/5DCJC6w5jAz0cvZSjud7pr) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ahn Hyo\-seop](https://open.spotify.com/artist/1TUrQeNhlJMcg9zl8yiW70), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Something Special](https://open.spotify.com/album/41ZXHq2R4nI3vUdywPlPMq) | 3:54 |
 | 55 | [Through the World](https://open.spotify.com/track/7jslUqQ9rnT9kdykX0pZi4) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Through the World](https://open.spotify.com/album/3RFekK9PMbFEuLsMUU3yJy) | 3:16 |
 | 56 | [Our Hearts](https://open.spotify.com/track/7vadoBSiebODoRU8iUQgvi) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Our Hearts](https://open.spotify.com/album/1UwExaQCkFdhCII6qx1glX) | 5:05 |
 | 57 | [美人局](https://open.spotify.com/track/4AaoK7eliWSupTgY23PMaB) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [美人局](https://open.spotify.com/album/1Cjxr1EAF2OPZGmESsMNXt) | 3:15 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 644275,
+  "num_followers": 644304,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAACjDFW45ECG9PHVDnRGz/7P",
+  "snapshot_id": "ahzLgAAAAACs4zydulnCascURIDfH2rP",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
-        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
+        "name": "Selena LIVE (Remastered 2026)",
+        "url": "https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p"
       },
       "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        },
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 290773,
-      "name": "I Could Fall In Love",
-      "url": "https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH"
+      "duration_ms": 584429,
+      "name": "Como La Flor/Baila Esta Cumbia - Live/Remastered 2026",
+      "url": "https://open.spotify.com/track/6SXXFYCKW2kjxWEuFyuEdR"
     },
     {
       "added_at": null,
@@ -659,18 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Selena LIVE (Remastered 2026)",
-        "url": "https://open.spotify.com/album/05yu3lskS9ViU0Lbq3PN4p"
+        "name": "A.B. Quintanilla III & Kumbia Kumbia Kings Present The Duets",
+        "url": "https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e"
       },
       "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        },
         {
           "name": "Selena",
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 584429,
-      "name": "Como La Flor/Baila Esta Cumbia - Live/Remastered 2026",
-      "url": "https://open.spotify.com/track/6SXXFYCKW2kjxWEuFyuEdR"
+      "duration_ms": 290773,
+      "name": "I Could Fall In Love",
+      "url": "https://open.spotify.com/track/6hVSuCzfJSF8Hla1fzqThH"
     },
     {
       "added_at": null,

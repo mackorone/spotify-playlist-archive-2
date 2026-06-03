@@ -1,12 +1,12 @@
 {
   "description": "This is Boards of Canada. The essential tracks, all in one playlist.",
-  "num_followers": 28745,
+  "num_followers": 28770,
   "original_name": "This Is Boards of Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAADfLZ4HDxidPzp8zpeiW64g",
+  "snapshot_id": "ahzLgAAAAAD3JuObp+8VwNTW7XoaYdn/",
   "tracks": [
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 78187,
-      "name": "Acts Of Magic",
-      "url": "https://open.spotify.com/track/6kJpSq9nH4AdBJjQ4iNViA"
+      "duration_ms": 157950,
+      "name": "Memory Death",
+      "url": "https://open.spotify.com/track/5YFWLq8Y6LElf9r8hMYgFa"
     },
     {
       "added_at": null,
@@ -571,6 +571,26 @@
       "duration_ms": 320733,
       "name": "Left Side Drive",
       "url": "https://open.spotify.com/track/3NrNukjXkShrtZSrA89Gc4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr Mistake (Boards of Canada Remix)",
+        "url": "https://open.spotify.com/album/0FZ3XnFYhGVjepxzYsbnQX"
+      },
+      "artists": [
+        {
+          "name": "Nevermen",
+          "url": "https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq"
+        },
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 291285,
+      "name": "Mr Mistake - Boards of Canada Remix / Instrumental",
+      "url": "https://open.spotify.com/track/2sCLqyzqJ1pXY7uE78pIIu"
     },
     {
       "added_at": null,

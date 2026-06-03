@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Chxrry
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,390 likes - 187 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,400 likes - 187 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 42 | [SOS](https://open.spotify.com/track/637vQG5nrmJkfbPDApSskv) | [Ebony Riley](https://open.spotify.com/artist/44uizbRKRAdJglzWQKBReo) | [Beautiful Tragedy](https://open.spotify.com/album/6ngm8ZaLfhxy5HEZAqqLQb) | 2:50 |
 | 43 | [Nature's Perfume](https://open.spotify.com/track/1XiFKTspnnZQQUG8XNiBsB) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Nature's Perfume](https://open.spotify.com/album/73ixc6to7QEhJcagNXiTtB) | 3:22 |
 | 44 | [Rain in July](https://open.spotify.com/track/6X0LNm1ghLO4iKX3HjH26N) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Rain in July / Be the One](https://open.spotify.com/album/17Ojha2ZRJ6Tb09MxKiAdg) | 3:00 |
-| 45 | [Arthur \(feat\. DERBY\)](https://open.spotify.com/track/0jr6HPls0E2oy8fY4Cn4JD) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE), [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [PATINA](https://open.spotify.com/album/3M2itoN7Z2CeqEc82SLTJk) | 3:13 |
+| 45 | [Arthur \(feat\. DERBY\)](https://open.spotify.com/track/0jr6HPls0E2oy8fY4Cn4JD) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE), [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [PATINA](https://open.spotify.com/album/3M2itoN7Z2CeqEc82SLTJk) | 3:13 |
 | 46 | [Higher Power](https://open.spotify.com/track/4E6p9AY52g3h1A4eGD2YmF) | [James Savage](https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5) | [Higher Power](https://open.spotify.com/album/5Idywy5cDCM5PO1N0ork1x) | 2:53 |
 | 47 | [SPLINTER](https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [Splinter](https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB) | 2:53 |
 | 48 | [Your Loss](https://open.spotify.com/track/1JQBKgAqvQ16UrJh5zeZ49) | [REMI](https://open.spotify.com/artist/3PUx0uCbZYqKpipQ7CqGq2) | [Your Loss](https://open.spotify.com/album/17mADs2eZlI3km58xIvyN0) | 3:13 |

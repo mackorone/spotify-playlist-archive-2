@@ -4558,7 +4558,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 164307,
       "name": "Argent Sale - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0UbEeYuehzUktmPlhMtfA8"
@@ -6850,7 +6850,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 177995,
       "name": "Bangaranga",
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
@@ -18822,7 +18822,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -21602,7 +21602,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 153430,
       "name": "FEVER DREAM",
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
@@ -30893,6 +30893,36 @@
     },
     {
       "album": {
+        "name": "Je suis en lambo",
+        "url": "https://open.spotify.com/album/4bEPWmNsv8YJI1iR5AOjql"
+      },
+      "artists": [
+        {
+          "name": "Fader Chill",
+          "url": "https://open.spotify.com/artist/6s9XdqBHfBl3ClgVMRuTPY"
+        },
+        {
+          "name": "Samy Jebari",
+          "url": "https://open.spotify.com/artist/5MDAI7AVyr3MxATJDnWXLk"
+        },
+        {
+          "name": "Sabrina Lior",
+          "url": "https://open.spotify.com/artist/0xfcvHVlVim5FuyJrKbmLX"
+        },
+        {
+          "name": "SJB",
+          "url": "https://open.spotify.com/artist/3gtNn2TaStXSfxO3nxEG2n"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146687,
+      "name": "Je suis en lambo",
+      "url": "https://open.spotify.com/track/79bVhGvzXt0bwTIpKCBggu"
+    },
+    {
+      "album": {
         "name": "Jealous Type",
         "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
       },
@@ -35658,7 +35688,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 147692,
       "name": "LOVE YOU",
       "url": "https://open.spotify.com/track/0SYGJCm9PpTvO7g14EZQex"
@@ -45754,7 +45784,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
@@ -50860,7 +50890,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 174493,
       "name": "RUINART",
       "url": "https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w"

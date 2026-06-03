@@ -3658,7 +3658,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 227492,
       "name": "Bu\u00f4ng \u0110\u00f4i Tay Nhau Ra",
       "url": "https://open.spotify.com/track/3P3rcI48wwVEgxF5vPM6pG"
@@ -6080,7 +6080,7 @@
       ],
       "date_added": "2022-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 218512,
       "name": "C\u00f3 Em",
       "url": "https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa"
@@ -6436,7 +6436,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 293500,
       "name": "C\u1ea3m \u01a0n Ng\u01b0\u1eddi \u0110\u00e3 Th\u1ee9c C\u00f9ng T\u00f4i",
       "url": "https://open.spotify.com/track/0t8g66pWghsU8MphjUQIdg"
@@ -7774,7 +7774,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 209560,
       "name": "D\u1ea1o B\u01b0\u1edbc H\u00f4ng K\u00f4ng 1999\uff08\u6f2b\u6b65\u9999\u6e2f1999\uff09",
       "url": "https://open.spotify.com/track/6UFXhOu5m5qd3hiKoF9Xgl"
@@ -7810,7 +7810,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 284288,
       "name": "D\u1ea1o N\u00e0y",
       "url": "https://open.spotify.com/track/4MCP9l0QB9YN2LCkIy8mz4"
@@ -8690,7 +8690,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 216500,
       "name": "ex's hate me, Pt.2",
       "url": "https://open.spotify.com/track/5tdz7T4hTxA1ipJMBe24uX"
@@ -11656,6 +11656,24 @@
       "duration_ms": 221418,
       "name": "H\u1ed3 \u0110i\u1ec7p Hoa Ni\u00ean",
       "url": "https://open.spotify.com/track/7wxxk3WQhBERNIhkYg5adk"
+    },
+    {
+      "album": {
+        "name": "G\u1eb7p L\u1ea1i",
+        "url": "https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4"
+      },
+      "artists": [
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266379,
+      "name": "H\u1eefng H\u1edd",
+      "url": "https://open.spotify.com/track/6CygbhaDoDGTlRq8LiEwpt"
     },
     {
       "album": {
@@ -16092,7 +16110,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 275905,
       "name": "Mu\u1ed9n R\u1ed3i M\u00e0 Sao C\u00f2n",
       "url": "https://open.spotify.com/track/4vfhartd7HDWGJbdVIycEu"
@@ -18650,7 +18668,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 254304,
       "name": "N\u1eafng c\u00f3 mang em v\u1ec1",
       "url": "https://open.spotify.com/track/6nInHlewtrNKguNKlXt0Ur"
@@ -20096,7 +20114,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 266666,
       "name": "Ph\u00e9p M\u00e0u - \u0110\u00e0n C\u00e1 G\u1ed7 Original Soundtrack",
       "url": "https://open.spotify.com/track/1DVYafsLmcQySKkJnY4RCs"
@@ -27992,7 +28010,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -28268,7 +28286,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 211200,
       "name": "Wrong Times",
       "url": "https://open.spotify.com/track/6n2xOcqQrNOY0IfgATSwWs"

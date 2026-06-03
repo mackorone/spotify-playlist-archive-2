@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,427 songs - 9 day 20 hr 34 min
+4,429 songs - 9 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -813,6 +813,7 @@
 | [dack \- 2023 Remastered Version](https://open.spotify.com/track/44zUBhnz3BI4YRODMHO5LA) | [yogyety](https://open.spotify.com/artist/7FBPTQ69WVgYB0T9PbhO4z) | [found the lost sound \(2023 Remastered Version\)](https://open.spotify.com/album/3IMW0NXkqYoSy2UHOYy0Ta) | 5:29 | 2026-02-01 |  |
 | [Dai Bimbo un Be'](https://open.spotify.com/track/08V6d2hQKrLpT6MdWyxTIZ) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Dai Bimbo un Be'](https://open.spotify.com/album/6SpZjcczMD5NoTsFxM37DM) | 2:14 | 2025-12-10 |  |
 | [Daisy](https://open.spotify.com/track/6ScAaAVew9NoemHB08z947) | [Woda Woda](https://open.spotify.com/artist/5TUs575Aa9RDMJUPWdPEiI) | [Daisy](https://open.spotify.com/album/42xAYgMGWgULQUdBhza2KR) | 3:05 | 2025-06-01 |  |
+| [Daisy Chain](https://open.spotify.com/track/4y8MuL6L7lOvRoqouYvzkU) | [Widows Peak!](https://open.spotify.com/artist/2gDRzqbTrY7TBnKxt3xI4Y) | [Daisy Chain](https://open.spotify.com/album/5cSHUqZebXpRoaH0F6dQDm) | 3:08 | 2026-06-02 |  |
 | [Daiya Daiya Daiya Re](https://open.spotify.com/track/5QTjgFSJurZkpchKSqzl2S) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Daiya Daiya Daiya Re](https://open.spotify.com/album/4nkEMcfV2F5b7m6ezaDYpR) | 3:14 | 2025-05-20 |  |
 | [Daleko jestem](https://open.spotify.com/track/2ACJYr7ap1zxHzsIkmVdag) | [D.Bańka](https://open.spotify.com/artist/2WMp1BJzsAJk0uGu6owxtv) | [Daleko jestem](https://open.spotify.com/album/7zSEIyptdy5xgHPLWQFhrr) | 3:17 | 2025-12-06 |  |
 | [Dalla parte del coltello](https://open.spotify.com/track/4Irq1POPWe9GlzgZtGiHTJ) | [Sono](https://open.spotify.com/artist/4I9E7P0A63ze5UdhH43gpK) | [Dalla parte del coltello](https://open.spotify.com/album/2JuJAJxXEIvdGz3c9EOTtk) | 3:12 | 2025-05-27 |  |
@@ -1311,6 +1312,7 @@
 | [Endless Scroll](https://open.spotify.com/track/6uoCUv7mMYnhsx1s4vyilB) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [PUNKT](https://open.spotify.com/album/1V4XzrUe8LagIAvmSupuoV) | 1:43 | 2025-12-04 |  |
 | [Endless Stars](https://open.spotify.com/track/3xlSbiu5gPRi3xa1KP6Xk4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Romantic love songs](https://open.spotify.com/album/5on51MywfGkrEDPOQajABL) | 3:16 | 2025-09-17 |  |
 | [Endless Stars \(another\)](https://open.spotify.com/track/75Z1JpqlkMf9fGb4mH7SBO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Romantic love songs](https://open.spotify.com/album/5on51MywfGkrEDPOQajABL) | 3:29 | 2025-09-17 |  |
+| [Enemies](https://open.spotify.com/track/0a2CcExfykpLoFuK3ZHdZW) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [HEXE](https://open.spotify.com/album/6xC2UI57tNsEp38Wg485pm) | 3:18 | 2026-06-02 |  |
 | [Enemy Or Friend](https://open.spotify.com/track/3WL10C4Au2Um3ngMIWWezK) | [Edson Rano](https://open.spotify.com/artist/0VDMBcRWv0KoUaVbhWA00a) | [Enemy Or Friend](https://open.spotify.com/album/0gcf2Qf2lppiQ8MivTQenZ) | 2:20 | 2025-06-05 |  |
 | [Enferm01](https://open.spotify.com/track/5HjGcUYBqAoOChWW0k30Sf) | [Ivan Cortes](https://open.spotify.com/artist/15aPeDSL8oBv1kJamlqkWo), [Zekshi](https://open.spotify.com/artist/2WiNjEd8sRr9Gb7KBKjmrJ) | [Soul Pacific](https://open.spotify.com/album/11fI2DyukEEFAYWtv00lZX) | 4:00 | 2025-03-06 |  |
 | [Enigma](https://open.spotify.com/track/1gbv892FWdLAot1OT5gAmH) | [Bachi Da Pietra](https://open.spotify.com/artist/17E3eee30nez6YfwVxhHzH) | [Quintale](https://open.spotify.com/album/2rWs38gmRLEsd506aLSJMe) | 2:50 | 2025-11-12 |  |

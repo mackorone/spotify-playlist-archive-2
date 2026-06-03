@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,031 likes - 105 songs - 6 hr 28 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,042 likes - 110 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,5 +113,10 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 103 | [Chasing Taste](https://open.spotify.com/track/2OnXAQlNqA5ulvDJAdMbNm) | [ANCR TO PAST](https://open.spotify.com/artist/5JAtQYcWXv57H39UEom6ul) | [fibres](https://open.spotify.com/album/4yHAxaNLLxheJ688GXi9ko) | 3:51 |
 | 104 | [Tanzt mit mir](https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Tanzt mit mir](https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ) | 3:39 |
 | 105 | [No More Lies](https://open.spotify.com/track/4AGflhfh5RPzKlVydgG6TQ) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [No More Lies](https://open.spotify.com/album/7vQkexwSNeZJQ9X7RLwUTE) | 4:13 |
+| 106 | [All I Want From You \(Distribution\)](https://open.spotify.com/track/3oD3uLVohw5dcJP5WugSYV) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [All I Want From You](https://open.spotify.com/album/2Gi2yf2kTvuRBLGlORfSWr) | 2:29 |
+| 107 | [In The Dark](https://open.spotify.com/track/1tVhSbVfhWn3dp80negdBc) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [In The Dark](https://open.spotify.com/album/6kUqfO3Zl3jaw4mC91o1SJ) | 3:08 |
+| 108 | [BAD GAME](https://open.spotify.com/track/7KwBjKoOlcjY1gl2rEVfpA) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BENNINGTON STREET](https://open.spotify.com/album/5Ggf3woWQiwf74Ls5vjnw6) | 4:14 |
+| 109 | [Stone](https://open.spotify.com/track/6AbB4SLDajR2skDmAs5lVc) | [Graveyard Choir](https://open.spotify.com/artist/0RtF7RdYO3Jfhmw0JQSmX2) | [Stone](https://open.spotify.com/album/4ieLV6fk5MkrgRcgeQWkO8) | 3:57 |
+| 110 | [Freedom](https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fly Eagle Fly](https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv) | 3:29 |
 
-Snapshot ID: `AAAGMwBwybH8rfjw/OR55hvdOcqS2+4e`
+Snapshot ID: `AAAGODAJ8aQv8csFPlQoWqDANevbxJBE`

@@ -29171,6 +29171,24 @@
     },
     {
       "album": {
+        "name": "LOVE BEAT",
+        "url": "https://open.spotify.com/album/37UN13u0Jj5CEZuHAojQWr"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        }
+      ],
+      "date_added": "2026-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221253,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/04GjqRcn7qbzFbH1MKSbvk"
+    },
+    {
+      "album": {
         "name": "resist",
         "url": "https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi"
       },
@@ -57678,7 +57696,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 138586,
       "name": "\u541b\u306e\u305b\u3044",
       "url": "https://open.spotify.com/track/6MybVbNYgHbO0cjbqGSPLH"

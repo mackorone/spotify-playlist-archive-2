@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 113865,
+  "num_followers": 113906,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-07-13 01:13:49",
       "album": {
+        "name": "Mala M\u00eda",
+        "url": "https://open.spotify.com/album/3Bj8Yd9ANO4KufZkqOmG0W"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Mala M\u00eda",
+      "url": "https://open.spotify.com/track/62o8KoI44JfN7aYxgTnPvh"
+    },
+    {
+      "added_at": "2024-07-13 01:13:49",
+      "album": {
         "name": "Toda (Remix)",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 367680,
       "name": "Toda (Remix)",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
-    },
-    {
-      "added_at": "2024-07-13 01:13:49",
-      "album": {
-        "name": "Mala M\u00eda",
-        "url": "https://open.spotify.com/album/3Bj8Yd9ANO4KufZkqOmG0W"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 183752,
-      "name": "Mala M\u00eda",
-      "url": "https://open.spotify.com/track/62o8KoI44JfN7aYxgTnPvh"
     },
     {
       "added_at": "2024-07-13 01:13:49",

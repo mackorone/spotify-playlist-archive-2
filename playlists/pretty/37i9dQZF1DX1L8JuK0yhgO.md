@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,416 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,419 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 56 | [サガリバナ \(feat\. kojikoji & HUNGER\)](https://open.spotify.com/track/1lOV7xeLZvp5ZzQIottgv8) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs), [HUNGER](https://open.spotify.com/artist/1q0gLEvNcnAfPzBgCHG4NG) | [サガリバナ](https://open.spotify.com/album/3UbboRXrnZhSBJjmcFcLfq) | 3:20 |
 | 57 | [TEYUUKA](https://open.spotify.com/track/0GW2XlLduiqiN0qwmcKh2q) | [Jambo Lacquer](https://open.spotify.com/artist/0eCTHbWkpE5PHesKzCf4cQ) | [TEYUUKA](https://open.spotify.com/album/4EW1mNlbZc9y0xA1oUYb3r) | 4:14 |
 | 58 | [Genesis Day \(feat\. BUPPON\)](https://open.spotify.com/track/5VK1gKklAyji5BNbsy8NcM) | [BIG FAF](https://open.spotify.com/artist/0zFJWYlu5kGl6TOeJnu52I), [BUPPON](https://open.spotify.com/artist/4Q4bzvnwPmKRWqdL33NIQ6) | [Genesis Day \(feat\. BUPPON\)](https://open.spotify.com/album/0yI3jUM8Kaf9DuR9hmj6Yb) | 3:05 |
-| 59 | [ドビュッシー](https://open.spotify.com/track/1oihIpg2hVtingqTF7GH8f) | [HIZAGUTYA](https://open.spotify.com/artist/5Ea97dD3vhOI7pwzeiBWae), [Ichiro](https://open.spotify.com/artist/78hjXqRMT2iTnJEQ2kEcZj), [MsDoe](https://open.spotify.com/artist/5tOH3w6nU3XGPQkDfZFgX0) | [ドビュッシー](https://open.spotify.com/album/1q24R3CPk9wZIwRKDyV5Kc) | 2:44 |
+| 59 | [ドビュッシー](https://open.spotify.com/track/1oihIpg2hVtingqTF7GH8f) | [HIZAGUTYA](https://open.spotify.com/artist/5Ea97dD3vhOI7pwzeiBWae), [ICHIRO](https://open.spotify.com/artist/1qvOEw96vi7XFjSxSusni2), [MsDoe](https://open.spotify.com/artist/5tOH3w6nU3XGPQkDfZFgX0) | [ドビュッシー](https://open.spotify.com/album/1q24R3CPk9wZIwRKDyV5Kc) | 2:44 |
 | 60 | [OMEGA](https://open.spotify.com/track/4ftDknEdBbynhYevVuxU9f) | [ICHIRO](https://open.spotify.com/artist/1qvOEw96vi7XFjSxSusni2) | [ドット柄の僕に](https://open.spotify.com/album/6DERZ0EROYzJ0hJvbpgNJa) | 2:21 |
 | 61 | [Didier Drogba](https://open.spotify.com/track/3LrWoQpZBVnpB4utYGfKZL) | [日本猿](https://open.spotify.com/artist/2iSogZBel5MRLfXjfWhRrL) | [Didier Drogba](https://open.spotify.com/album/7GBZIvNMV0P6xqfzzjF6xI) | 3:19 |
 | 62 | [次へ \(feat\. THX\)](https://open.spotify.com/track/7sAF64fyk0Q97aobdhMw6w) | [T\-Bobo](https://open.spotify.com/artist/40NK4mGLUjuQ4Gx5EASzXK), [Dress Marine](https://open.spotify.com/artist/0xJmBBrz8aZsWts5g1x1Me), [VEINTI4](https://open.spotify.com/artist/4o7vyB4AfcMinZMlhs5zDw), [THX](https://open.spotify.com/artist/625OIcfotZOxr3AAxDCLDb) | [Hell or Heaven](https://open.spotify.com/album/1nGNVDlAFvuLGKfwoLNyZI) | 2:42 |

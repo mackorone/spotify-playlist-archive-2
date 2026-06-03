@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAALn3C84Fyg4TdI8QdDMWnQpVJ6CFqf",
+  "snapshot_id": "AAALobEcOP7Nuu1ulfBZlydgZmnybdF7",
   "tracks": [
     {
       "added_at": "2026-02-17 12:01:17",
@@ -2023,6 +2023,38 @@
       "duration_ms": 252244,
       "name": "That's the Story of My Life",
       "url": "https://open.spotify.com/track/4Hy90CTI3ZGt6z6yvAtdGC"
+    },
+    {
+      "added_at": "2026-06-02 08:49:11",
+      "album": {
+        "name": "Wild Time",
+        "url": "https://open.spotify.com/album/2xUDxS8dnszV9XvAUTNUxb"
+      },
+      "artists": [
+        {
+          "name": "Raida M",
+          "url": "https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em"
+        }
+      ],
+      "duration_ms": 102672,
+      "name": "Wild Time",
+      "url": "https://open.spotify.com/track/3g1kVvfuzqqQtwrR6jyTyZ"
+    },
+    {
+      "added_at": "2026-06-02 17:49:53",
+      "album": {
+        "name": "Hemen eta orain",
+        "url": "https://open.spotify.com/album/4FpcOFHpBINY7xLrUQbwAd"
+      },
+      "artists": [
+        {
+          "name": "Aingeru",
+          "url": "https://open.spotify.com/artist/0gkmeBApb5kPC4iV1pX9FL"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Hemen eta orain",
+      "url": "https://open.spotify.com/track/1bE21zBzAvyD6jGZyIzANb"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

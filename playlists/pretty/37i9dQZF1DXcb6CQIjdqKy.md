@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Aodhán King x Benjamin William Hastings
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,634,264 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,634,544 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 74 | [eyes on Him](https://open.spotify.com/track/34f6dHA4FwE1yrmBcKiV73) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [eyes on Him](https://open.spotify.com/album/16MHfnw3yjWsdgXk5Y0cbI) | 3:12 |
 | 75 | [FEAR](https://open.spotify.com/track/3HfKlhohNNTLIv2t9uvmzz) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [FEAR](https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg) | 4:28 |
 | 76 | [Jesus All Along](https://open.spotify.com/track/72eLmmLLH2a10hiKb8xEss) | [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Jesus All Along](https://open.spotify.com/album/1cXA93YllT9Tqo1FU7Cf4m) | 3:30 |
-| 77 | [WORLD ON FIRE](https://open.spotify.com/track/7FMXUt0JW9tPhvjqZWZPvE) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [WORLD ON FIRE](https://open.spotify.com/album/1QIEg8d4MhQVhzFDe1QZdn) | 3:16 |
+| 77 | [world on fire](https://open.spotify.com/track/7FMXUt0JW9tPhvjqZWZPvE) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [WORLD ON FIRE](https://open.spotify.com/album/1QIEg8d4MhQVhzFDe1QZdn) | 3:16 |
 | 78 | [The Love I Have For You](https://open.spotify.com/track/75aoONJnZBvJ7va31RjtSv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [The Love I Have For You](https://open.spotify.com/album/6IAZRtDcKhLmoK8KFziqrE) | 2:42 |
 | 79 | [There Goes That Man](https://open.spotify.com/track/7pOo4GVNndyLhhlVRliHYU) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [There Goes That Man](https://open.spotify.com/album/0VfyycjOpJgt56sEz6OD8C) | 4:20 |
 | 80 | [Hope's Gonna Find You \(with Franni Cash\)](https://open.spotify.com/track/1a6szj3r3ng4BwzOqgMCVi) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Franni Cash](https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1) | [Hope's Gonna Find You \(with Franni Cash\)](https://open.spotify.com/album/1xKo457LHtDbMYpTp0rIA3) | 3:51 |

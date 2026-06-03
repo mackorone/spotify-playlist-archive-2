@@ -2,9 +2,9 @@
 
 ### [Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> The best new music by independent artists and labels\. Cover: d.b\. longing
+> The best new music by independent artists and labels\. Cover: Oliver Ashby
 
-4,521 songs - 10 day 9 hr 24 min
+4,524 songs - 10 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,10 +370,11 @@
 | [Before I Fall](https://open.spotify.com/track/6eUC2igYO0fELWDwKgiWsv) | [JROCHEMAN](https://open.spotify.com/artist/2RBL4DJjkxG84El9WFemGg) | [Before I Fall](https://open.spotify.com/album/1ae6yTSPpP66jVZhcxBZsH) | 2:49 | 2023-03-08 | 2023-03-29 |
 | [Before The Storm](https://open.spotify.com/track/6fLnDbhsPQhdMrjiC033Vs) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [11:11](https://open.spotify.com/album/5B9sSoX03fSWm4kqIVQVLT) | 5:08 | 2022-11-16 | 2022-12-01 |
 | [Before Your Time Is Up](https://open.spotify.com/track/3bQsz4HFyJZEPhvEf82QRj) | [Vlads](https://open.spotify.com/artist/25yl7NIlTYP3f3p2R6mG0R) | [Before Your Time Is Up](https://open.spotify.com/album/0tu2sGQINeJIBvEzKkyIfC) | 2:44 | 2024-07-02 | 2024-09-04 |
-| [Begin Again](https://open.spotify.com/track/1SRjab3sDwpw4TTbaE799u) | [Akala Newman](https://open.spotify.com/artist/45nmkIvpt1SCzsEENmhbJF) | [Begin Again](https://open.spotify.com/album/6Pbom2gEc0j3cIX6nToPYd) | 3:32 | 2026-02-03 |  |
+| [Begin Again](https://open.spotify.com/track/1SRjab3sDwpw4TTbaE799u) | [Akala Newman](https://open.spotify.com/artist/45nmkIvpt1SCzsEENmhbJF) | [Begin Again](https://open.spotify.com/album/6Pbom2gEc0j3cIX6nToPYd) | 3:32 | 2026-02-03 | 2026-06-03 |
 | [Beheadal](https://open.spotify.com/track/5bUoBZ7LG0A2L9FOsTDjBe) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [Beheadal](https://open.spotify.com/album/0q4DKYyoEF0mFREOkPsmbt) | 1:58 | 2025-02-25 | 2025-04-09 |
 | [Belligerence](https://open.spotify.com/track/2gLTCoKJ49hyLyNHLRUvDt) | [Good Lekker](https://open.spotify.com/artist/0N8baTywD0HTek7BvdMIv5) | [Belligerence](https://open.spotify.com/album/3o92LHF09lyy1lUC9Nl2yP) | 3:07 | 2022-02-02 | 2022-02-17 |
 | [Belong](https://open.spotify.com/track/6ncb5XOCraiFFUGgP34U7E) | [TIA](https://open.spotify.com/artist/6rVjgJjbtiyMmXi2YBryvk) | [Belong](https://open.spotify.com/album/2YTpbDIYpR3PEVIwAZlKve) | 3:24 | 2021-12-28 | 2023-01-13 |
+| [Belong Here](https://open.spotify.com/track/6xndoEY98rh63ndna1g0IA) | [Joseph G\. Thompson](https://open.spotify.com/artist/4GwWjuASeF6MBuERXvCMuZ), [Joseph & Maia](https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ) | [Belong Here](https://open.spotify.com/album/1nZ5tUTGVTUohb52oR3ili) | 3:58 | 2026-06-02 |  |
 | [BEND HER BACKWARDS](https://open.spotify.com/track/6RFFuzQZZ8oRNLZHp0ct15) | [CASPIAN](https://open.spotify.com/artist/2fqFwtlZfeARcbEVdXSwoM) | [BEND HER BACKWARDS](https://open.spotify.com/album/18zAlMmGA8YJLjfrzBmSr6) | 1:40 | 2023-06-07 | 2023-07-01 |
 | [Berlin Bitch](https://open.spotify.com/track/1H4nmS3HPL6hs04epxggQ4) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Berlin Bitch](https://open.spotify.com/album/6bQe6iqAy9plUNxs9wrxCN) | 3:03 | 2023-09-21 | 2023-10-05 |
 | [Berry](https://open.spotify.com/track/46ZXFEiPubUOl8kuphtUfY) | [2touch](https://open.spotify.com/artist/2RikPlsCIooWbVXeFikhcq) | [Berry](https://open.spotify.com/album/1W2M5ONY1tLSZaaW3NwMFP) | 2:14 | 2025-08-26 | 2026-01-28 |
@@ -2445,7 +2446,7 @@
 | [Mad](https://open.spotify.com/track/1TBPNMm6q0zqCJ7rQa0Hwf) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [Mad](https://open.spotify.com/album/0P1Ab55WHo8RlAJ01M7SjZ) | 2:04 | 2022-09-21 | 2022-10-27 |
 | [Mad Invite](https://open.spotify.com/track/5W6HYQv0bTDXPIPZajNz4p) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Mad Invite](https://open.spotify.com/album/5XB7UVnUVZMVy35u2kY3DU) | 3:39 | 2022-05-04 | 2022-05-26 |
 | [Made For Silence](https://open.spotify.com/track/7hRuYSwzGm8OifBoos0nG9) | [Miiesha](https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL) | [Made For Silence](https://open.spotify.com/album/4RT10f0M4YO3Ps7ds49vWS) | 2:50 | 2021-12-28 | 2022-01-13 |
-| [Made For This](https://open.spotify.com/track/77wwM4ApgWYAW73FsbnWbp) | [WALTA](https://open.spotify.com/artist/1u5Zp5UwzGCydF4HunLqaJ) | [Made For This](https://open.spotify.com/album/6BuAdQBbYOEDyJXBZ58qnR) | 3:00 | 2026-01-27 |  |
+| [Made For This](https://open.spotify.com/track/77wwM4ApgWYAW73FsbnWbp) | [WALTA](https://open.spotify.com/artist/1u5Zp5UwzGCydF4HunLqaJ) | [Made For This](https://open.spotify.com/album/6BuAdQBbYOEDyJXBZ58qnR) | 3:00 | 2026-01-27 | 2026-06-03 |
 | [Made This Way](https://open.spotify.com/track/0XxAjxJB5sUSPC5BOrfCTD) | [HINA](https://open.spotify.com/artist/0H6QTScaANYnCqvmCNbXyx), [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Made This Way](https://open.spotify.com/album/0oWrQFvYcxJQL6lKdyyh27) | 2:34 | 2022-04-13 | 2022-05-05 |
 | [Made You Wait](https://open.spotify.com/track/62PX1aKP8nBQYOf3yKVNhU) | [Sharin Attamimi](https://open.spotify.com/artist/5ReCKzVrajz0b10RsNPkLX) | [Made You Wait](https://open.spotify.com/album/3hhpUj2NcPU3hSEesQFuwb) | 3:20 | 2022-06-15 | 2022-07-07 |
 | [Madeline](https://open.spotify.com/track/1oD2ubPg1ZMSM38g07bspa) | [Eluera](https://open.spotify.com/artist/7kvqbETQGxrUmRBEl6l10Q) | [Madeline](https://open.spotify.com/album/2b2UXdARM57DbURitzl0rS) | 3:17 | 2022-07-13 | 2022-08-04 |
@@ -4124,6 +4125,7 @@
 | [Turn Up The Sound](https://open.spotify.com/track/0eaatwR4Y32JUFtaYn4nba) | [HARLEY GIRL](https://open.spotify.com/artist/6ldTQRA9rON2kgBPGyhNao) | [Turn Up The Sound](https://open.spotify.com/album/0zsIFbmGa0sA1UTBr9dI3w) | 2:44 | 2025-10-14 | 2025-12-04 |
 | [Turning Point](https://open.spotify.com/track/0dPJFiFtHFNOMpcXg7iWY5) | [Pain Gain](https://open.spotify.com/artist/4GEGPGDIAgIIKoGssZ4EYd) | [Turning Point](https://open.spotify.com/album/2sXgSXgDqGGCLDuAiwyQHn) | 5:08 | 2026-04-21 |  |
 | [Twin Flames](https://open.spotify.com/track/7IAnnRrKPOPI7cwLJwsLoR) | [Bertie Anderson](https://open.spotify.com/artist/0n1WMoDNvbcOKuuOgBxeCX) | [Twin Flames](https://open.spotify.com/album/5k2O721qDmOWrOoajS08V2) | 3:41 | 2022-07-19 | 2022-08-25 |
+| [Twisted Truth](https://open.spotify.com/track/7tvuqLhwdrTxfjfxOfGVrB) | [CHELLYX](https://open.spotify.com/artist/2YnUgdaNMFExdiufuLC7Ze) | [Twisted Truth](https://open.spotify.com/album/5w8dWC3ERPq8P89RjvxRo0) | 1:52 | 2026-06-02 |  |
 | [TWIX](https://open.spotify.com/track/7sDrbISYUrsxQuqzCJjlk0) | [Dann Dib](https://open.spotify.com/artist/7zKpsWi7nGfM6AREKbpMoj) | [TWIX](https://open.spotify.com/album/5G0KbmUasvNGrih6kfvH0N) | 2:46 | 2023-09-06 | 2024-02-03 |
 | [Two Bright Lights](https://open.spotify.com/track/1f82214EOiSOTG3B5vbJrr) | [Dayliites](https://open.spotify.com/artist/2B615WuvjgFkJlBdKwp9IS), [Paces](https://open.spotify.com/artist/5xO9868Xc1mjAzmaN1efoK), [CLOE TERARE](https://open.spotify.com/artist/7FndscX6qPcyhuUgWlBHXf) | [Ghosts Mixtape](https://open.spotify.com/album/6OEnLLer6cwdO4y9TgAvbZ) | 3:07 | 2022-03-30 | 2022-04-14 |
 | [Two Minds](https://open.spotify.com/track/7zOwfWPaKw0gsfeOy0EcmJ) | [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Two Minds](https://open.spotify.com/album/0yzvIb3m4yJGqZB0marOSw) | 3:24 | 2024-09-24 | 2024-12-05 |
@@ -4139,7 +4141,7 @@
 | [U Were Mine](https://open.spotify.com/track/5VVocXeJmA5QEHUyQIBOgp) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [U Were Mine](https://open.spotify.com/album/4PEALWbSxYxZP7gM7tF44E) | 3:35 | 2023-05-30 | 2023-07-06 |
 | [U&ME](https://open.spotify.com/track/1iFF00cvNGx7wifX9hK5OR) | [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [BETTER LEFT UNSAID](https://open.spotify.com/album/3cCLcNCX9Om2ewNHYlFtaL) | 2:57 | 2023-06-22 | 2023-07-13 |
 | [UFO](https://open.spotify.com/track/1deROwwlyoLJniYFq758gp) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [UFO](https://open.spotify.com/album/0RG2Q6TXlMtHJfa1ca3lvS) | 3:51 | 2025-03-18 | 2025-04-16 |
-| [UGETME?](https://open.spotify.com/track/7k9QjWexvVU4668f4UhsBH) | [Arky Waters](https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli) | [UGETME?](https://open.spotify.com/album/5TqFpG0ivHJJQBgWOxzrXD) | 3:30 | 2026-01-27 |  |
+| [UGETME?](https://open.spotify.com/track/7k9QjWexvVU4668f4UhsBH) | [Arky Waters](https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli) | [UGETME?](https://open.spotify.com/album/5TqFpG0ivHJJQBgWOxzrXD) | 3:30 | 2026-01-27 | 2026-06-03 |
 | [Ugly Feelings](https://open.spotify.com/track/1WZ4Y7NZqTzv9eR7ZuslZr) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Ugly Feelings](https://open.spotify.com/album/3m5yHtkpJaAdfFHBvXUtvI) | 2:24 | 2023-10-19 | 2023-11-23 |
 | [Uh oh](https://open.spotify.com/track/25dAKNW9EgLTnXmHm2aSUa) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Uh oh](https://open.spotify.com/album/6DQ3bNyVY1Y3DQkCdEbreH) | 3:17 | 2023-09-21 | 2023-10-20 |
 | [Ultra Feeling \- Vocal Mix](https://open.spotify.com/track/7Hs7FX7vlqaM6hZVwDp72C) | [DAWS](https://open.spotify.com/artist/6G8K6goFjswH9wL1GBY64k) | [Ultra Feeling](https://open.spotify.com/album/3EQsLYTxA4RbSgWZWEVGf8) | 3:36 | 2023-05-24 | 2023-06-15 |
@@ -4379,6 +4381,7 @@
 | [Who Are You When You're Not Performing?](https://open.spotify.com/track/5OMzx2zDNrgEg8HumGKL8Q) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Who Are You When You're Not Performing?](https://open.spotify.com/album/1aULiTrP2n07DYMmjCLZK9) | 4:37 | 2024-05-14 | 2025-01-08 |
 | [Who Are You?](https://open.spotify.com/track/2gPxQ8dx1k1lteraPeRiS3) | [Marceline](https://open.spotify.com/artist/5RxCijhBqlQZHRdTDY1HKb) | [Cast Away](https://open.spotify.com/album/5nxlVoLca8ztiWDkbwceaZ) | 2:59 | 2023-02-22 | 2023-03-23 |
 | [Who Leads Who Breathes](https://open.spotify.com/track/6woWmnPLyds8FN7mcGXPDG) | [First Beige](https://open.spotify.com/artist/0QLkmmM8acu07MIT5GcSPT) | [Who Leads Who Breathes](https://open.spotify.com/album/2FSnjqJpMMy8F5OC6lzEBS) | 4:06 | 2025-02-11 | 2025-03-26 |
+| [Who We Were](https://open.spotify.com/track/2Lu2hwiB6eJdN9cpiyrITe) | [Oliver Ashby](https://open.spotify.com/artist/1azGp4dfsd8ZmtRpVJOiaF) | [Who We Were](https://open.spotify.com/album/1ktT8AavF54dLXuMQLNc69) | 3:13 | 2026-06-02 |  |
 | [Who's Dat!](https://open.spotify.com/track/3LG8KgOXFjgqLtixktMrl6) | [DRIZZZ](https://open.spotify.com/artist/1cr4aKJ1SFmSVZBbmukJB0) | [Who's Dat!](https://open.spotify.com/album/3ne703fOcKNZl6XDrlIA7W) | 2:35 | 2025-07-15 | 2026-01-21 |
 | [Who's Gonna Know](https://open.spotify.com/track/2OfAg9s2i1JBtWFpxhio2r) | [Jackie Brown Jr](https://open.spotify.com/artist/66GIx9fcibIH8z4s5JazfI) | [Who's Gonna Know](https://open.spotify.com/album/7BwVOFdu0Yc5w083E1U5H2) | 4:44 | 2022-11-16 | 2022-12-01 |
 | [WHOA!](https://open.spotify.com/track/6HqWqRn0G2ahugirmSXnZx) | [Jay Zayat](https://open.spotify.com/artist/3RNjL4SvUdzRwyJhqfuZrB) | [WHOA!](https://open.spotify.com/album/6szYpF41PdbfmksjV4blji) | 2:20 | 2023-04-26 | 2023-05-18 |

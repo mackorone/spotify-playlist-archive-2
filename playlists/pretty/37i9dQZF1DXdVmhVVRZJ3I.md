@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,620 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,712 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 33 | [Fever](https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Fever](https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby) | 2:26 |
 | 34 | [New Memories](https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [New Memories](https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI) | 3:14 |
 | 35 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
-| 36 | [Tigra & Bunny](https://open.spotify.com/track/2SfkY9p8CEuX2Gp6lHflXj) | [GIU](https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze) | [Tigra & Bunny](https://open.spotify.com/album/7wQu3DEsumo94QDNuFnOkV) | 2:48 |
-| 37 | [Pitbull](https://open.spotify.com/track/6CYIVGVhbxgjyyMq6XrM1s) | [Mad Dogz](https://open.spotify.com/artist/18RtsuKFWko5JfeMsIi0YP), [Lowderz](https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq) | [Pitbull](https://open.spotify.com/album/6d64y1tKfi0XZMZC4EmFcE) | 2:42 |
+| 36 | [Pitbull](https://open.spotify.com/track/6CYIVGVhbxgjyyMq6XrM1s) | [Mad Dogz](https://open.spotify.com/artist/18RtsuKFWko5JfeMsIi0YP), [Lowderz](https://open.spotify.com/artist/1wve9rqgo57ht3WyI6tEiq) | [Pitbull](https://open.spotify.com/album/6d64y1tKfi0XZMZC4EmFcE) | 2:42 |
+| 37 | [Tigra & Bunny](https://open.spotify.com/track/2SfkY9p8CEuX2Gp6lHflXj) | [GIU](https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze) | [Tigra & Bunny](https://open.spotify.com/album/7wQu3DEsumo94QDNuFnOkV) | 2:48 |
 | 38 | [Dali](https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht) | [Dali](https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv) | 2:59 |
 | 39 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 |
 | 40 | [Tomorrow \(feat\. 433\)](https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [433](https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln) | [Tomorrow \(feat\. 433\)](https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf) | 2:45 |

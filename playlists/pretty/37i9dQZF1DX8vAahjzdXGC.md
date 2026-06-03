@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Ariana Grande, Future, Tyla,  Ravyn Lenae, D'MASIV, Juan Reza, Niken Soge, dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,692 likes - 96 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,703 likes - 96 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

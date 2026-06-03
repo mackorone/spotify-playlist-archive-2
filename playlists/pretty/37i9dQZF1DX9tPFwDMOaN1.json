@@ -1,15 +1,31 @@
 {
-  "description": "The new & hottest K-Pop is here! (Cover: aespa)",
-  "num_followers": 6132646,
+  "description": "The new & hottest K-Pop is here! (Cover: MEOVV)",
+  "num_followers": 6132936,
   "original_name": "K-Pop ON! (\uc628)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEDAUC5E6TwxiTUq0HSQxW3a3pHz",
+  "snapshot_id": "AAAAAJIvZjyCBV82RnJEf2ssjv9TorEQ",
   "tracks": [
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
+      "album": {
+        "name": "BITE NOW",
+        "url": "https://open.spotify.com/album/32HIl3ek92TZv3GEM0Spqi"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 195935,
+      "name": "DDI RO RI",
+      "url": "https://open.spotify.com/track/6Ja4MH8qIfhVABsb9Kxjjr"
+    },
+    {
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "LEMONADE - The 2nd Album",
         "url": "https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "'PUREFLOW', Pt. 1",
         "url": "https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "MAMIHLAPINATAPAI",
         "url": "https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ"
@@ -57,26 +73,42 @@
       "url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
-        "name": "I.O.I 3rd MINI ALBUM [I.O.I : LOOP]",
-        "url": "https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp"
+        "name": "Atmos - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/2EKRc8vhOZC3ExSdP9WDQi"
       },
       "artists": [
         {
-          "name": "I.O.I",
-          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19"
+      "duration_ms": 193000,
+      "name": "Atmos",
+      "url": "https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
+      "album": {
+        "name": "<LOVE&POP> pt.1",
+        "url": "https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Baby Flower",
+      "url": "https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN"
+    },
+    {
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "Motto",
-        "url": "https://open.spotify.com/album/4wDsCQv9qslV6MmlcWuCe9"
+        "url": "https://open.spotify.com/album/2I5aOoyW9gzkOrWOuElNdj"
       },
       "artists": [
         {
@@ -86,10 +118,10 @@
       ],
       "duration_ms": 193000,
       "name": "Motto",
-      "url": "https://open.spotify.com/track/3H82Jpo0SI3UvWP6Ol8mWn"
+      "url": "https://open.spotify.com/track/3jVTmARXF5p21gaP9CqITM"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "\ucda4 (CHOOM)",
         "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
@@ -105,7 +137,7 @@
       "url": "https://open.spotify.com/track/4cox7ONwuCwUvfZ9fsGDVu"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "REDRED",
         "url": "https://open.spotify.com/album/52J8GQoNp2vgDJ6992NjiM"
@@ -121,7 +153,55 @@
       "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
+      "album": {
+        "name": "I.O.I 3rd MINI ALBUM [I.O.I : LOOP]",
+        "url": "https://open.spotify.com/album/09oicnXd9BtWOqgzgCi6gp"
+      },
+      "artists": [
+        {
+          "name": "I.O.I",
+          "url": "https://open.spotify.com/artist/6RKnXXyprPjhBdCvL802Ku"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19"
+    },
+    {
+      "added_at": "2026-06-02 06:00:43",
+      "album": {
+        "name": "Imperfect-I'mperfect",
+        "url": "https://open.spotify.com/album/5swL0neEWqHIorlT8qTk2p"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 188845,
+      "name": "Like a Bubble",
+      "url": "https://open.spotify.com/track/68TWWOecaIglvAtHOOFMwn"
+    },
+    {
+      "added_at": "2026-06-02 06:00:43",
+      "album": {
+        "name": "4th MINI ALBUM [NEW WAV]",
+        "url": "https://open.spotify.com/album/5EqAWo5fdTpQ8pxNKBbMzO"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 180440,
+      "name": "IF I",
+      "url": "https://open.spotify.com/track/6m0pwEawaU2NIygsdc8OPP"
+    },
+    {
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -137,7 +217,7 @@
       "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "WDA (Whole Different Animal) (feat. G-DRAGON)",
         "url": "https://open.spotify.com/album/4AbQDUPzGwI0QKqdZsLdNL"
@@ -157,7 +237,7 @@
       "url": "https://open.spotify.com/track/59QIYdXAL9XeNtM0j8vN0k"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "Heavy Serenade",
         "url": "https://open.spotify.com/album/18i8wouCElE4oR6OqfFecg"
@@ -173,7 +253,7 @@
       "url": "https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "LOVE CATCHER",
         "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
@@ -189,7 +269,7 @@
       "url": "https://open.spotify.com/track/2O9bMJticxbQ8FH3NiQ7Xh"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "CELEBRATION",
         "url": "https://open.spotify.com/album/47nSJKWgIL0t2zFQCUemaL"
@@ -205,7 +285,7 @@
       "url": "https://open.spotify.com/track/7Cy79KgYPsjOTX7VITI1U1"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
         "url": "https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS"
@@ -225,7 +305,7 @@
       "url": "https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "RUDE!",
         "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
@@ -241,7 +321,7 @@
       "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "ddok ddok ddok",
         "url": "https://open.spotify.com/album/24Y94uThWacq7o0gUF9dg2"
@@ -257,7 +337,7 @@
       "url": "https://open.spotify.com/track/5D5vkXfYyYeURaWIbMA2nP"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
@@ -273,7 +353,7 @@
       "url": "https://open.spotify.com/track/4g5eopb54XIaV2ciooY3St"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "GREENGREEN",
         "url": "https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT"
@@ -289,7 +369,7 @@
       "url": "https://open.spotify.com/track/7Ldcvhcl4Xj4eOTSWpZus5"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "QUINTESSENCE",
         "url": "https://open.spotify.com/album/3zn3zxWG2OgEfplBepaisb"
@@ -305,7 +385,7 @@
       "url": "https://open.spotify.com/track/0QLTEaLCsqQrgf54EtPMkt"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "4SHOBOIZ Vol. 2: 4SHOVILLE",
         "url": "https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl"
@@ -325,7 +405,7 @@
       "url": "https://open.spotify.com/track/1ACzcLe7HPprJQng3lu6qQ"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "SCENEDROME",
         "url": "https://open.spotify.com/album/0msC9kyzmtznRwIxwafISH"
@@ -341,10 +421,10 @@
       "url": "https://open.spotify.com/track/6uosenLUNFZtOIih5T0qfV"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "Ascend-",
-        "url": "https://open.spotify.com/album/5E3pgifLkYtunLqxG2LVbe"
+        "url": "https://open.spotify.com/album/1BQQZejhtOdOJbIOVrmCUL"
       },
       "artists": [
         {
@@ -354,10 +434,10 @@
       ],
       "duration_ms": 147373,
       "name": "TOP 5",
-      "url": "https://open.spotify.com/track/5cnWHHvU8MnHTjjAjeJffl"
+      "url": "https://open.spotify.com/track/7LVJBq2IZsv4UTHN9sCg9e"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "GREENGREEN",
         "url": "https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT"
@@ -373,7 +453,7 @@
       "url": "https://open.spotify.com/track/7diH1qnFziArYzynk3vkr6"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "7TH YEAR: A Moment of Stillness in the Thorns",
         "url": "https://open.spotify.com/album/55LBvRI4i4FUUf5dYKVMHk"
@@ -389,7 +469,7 @@
       "url": "https://open.spotify.com/track/1ttNlwhsAwCvSKWGxA6fDk"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "4SHOBOIZ Vol. 2: 4SHOVILLE",
         "url": "https://open.spotify.com/album/2PmrRGuWioIjWlJGvftkRl"
@@ -409,7 +489,7 @@
       "url": "https://open.spotify.com/track/7vmq3Ukd8csLDpCvoOM9Do"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
         "url": "https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS"
@@ -429,7 +509,7 @@
       "url": "https://open.spotify.com/track/2mwrPbccXxfVQbe4RGCjFF"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "We Are UNCHILD",
         "url": "https://open.spotify.com/album/4NVBboBjuyeBp0qIojiDbP"
@@ -445,7 +525,7 @@
       "url": "https://open.spotify.com/track/4wElGORjS56XtTvOJTPHVb"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "Who is she",
         "url": "https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS"
@@ -461,7 +541,7 @@
       "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "K-POPS! (Music from and inspired by K-POPS! Motion Picture)",
         "url": "https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS"
@@ -481,7 +561,7 @@
       "url": "https://open.spotify.com/track/3aNKRe0HjVLU8d8JOtmD5L"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "IT'z ME",
         "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
@@ -497,7 +577,7 @@
       "url": "https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
@@ -513,7 +593,7 @@
       "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "BANG BANG",
         "url": "https://open.spotify.com/album/3XRwpp5eFpq1wPNWusQ3L7"
@@ -529,7 +609,7 @@
       "url": "https://open.spotify.com/track/5jh0xRA7huSeMxCPAmyCav"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -545,10 +625,10 @@
       "url": "https://open.spotify.com/track/20dAJsyno9ZoBLJtqgQnUI"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "Delulu Pack",
-        "url": "https://open.spotify.com/album/0a8NPzV3WclFa2IliStNK8"
+        "url": "https://open.spotify.com/album/4TLi6XAREzVWWkgtMQagJc"
       },
       "artists": [
         {
@@ -558,10 +638,10 @@
       ],
       "duration_ms": 179586,
       "name": "404 (New Era)",
-      "url": "https://open.spotify.com/track/24rDDbSlFY9OHrlJb48CRh"
+      "url": "https://open.spotify.com/track/1rEa59P5yEal5cp1h7kl2e"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "SPAGHETTI",
         "url": "https://open.spotify.com/album/2yUrwTLHDWBrW74Ewuw6RX"
@@ -581,7 +661,7 @@
       "url": "https://open.spotify.com/track/4ly7INe0YNvJNZYXnp85PH"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "SHOT CALLERS",
         "url": "https://open.spotify.com/album/6M05ADW4mz2x07jIpIzCXR"
@@ -597,7 +677,7 @@
       "url": "https://open.spotify.com/track/46V2ciN6F5bxjQWityNhkY"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "Ice Cream",
         "url": "https://open.spotify.com/album/39M5nhUfdu80zpwE8NI8FL"
@@ -613,7 +693,7 @@
       "url": "https://open.spotify.com/track/5JJl9DV0DAg5ekxnBSqZyO"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "WE GO UP",
         "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
@@ -629,7 +709,7 @@
       "url": "https://open.spotify.com/track/7jp2VW62Yt2bDOaRas3hR6"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "NOT CUTE ANYMORE",
         "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
@@ -645,23 +725,7 @@
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
-      "album": {
-        "name": "GOLDEN HOUR : Part.4",
-        "url": "https://open.spotify.com/album/1FBxW4I6azDVjGallQ4wQk"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/2VKGO4DNyUK5UxCQB3b3DF"
-    },
-    {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "No School Tomorrow",
         "url": "https://open.spotify.com/album/6nRIRE0BPMRd2lrixYYXjN"
@@ -677,39 +741,7 @@
       "url": "https://open.spotify.com/track/2tMfEwk96cjTSRTelQkwx6"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
-      "album": {
-        "name": "DEADLINE",
-        "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 195402,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
-    },
-    {
-      "added_at": "2026-05-31 17:21:28",
-      "album": {
-        "name": "WYLD - The 1st Album",
-        "url": "https://open.spotify.com/album/3MStQNoB6697D7M11xCqOl"
-      },
-      "artists": [
-        {
-          "name": "TAEYONG",
-          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "WYLD",
-      "url": "https://open.spotify.com/track/1VkT7cfI4GQPj5aBVWj7vU"
-    },
-    {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "ALLDAY PROJECT",
         "url": "https://open.spotify.com/album/036xPBaSmnehSxkAT4DVrs"
@@ -725,7 +757,7 @@
       "url": "https://open.spotify.com/track/2gq4WmAq3zgplPoq7OIAGR"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "UNIQUE",
         "url": "https://open.spotify.com/album/71EVZx82GopCyTNRZVkZSk"
@@ -741,7 +773,7 @@
       "url": "https://open.spotify.com/track/2UcWuaUqRrKRL8iTA92ELO"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "play hard",
         "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
@@ -757,23 +789,7 @@
       "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
-      "album": {
-        "name": "What's a girl to do",
-        "url": "https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS"
-      },
-      "artists": [
-        {
-          "name": "DAYOUNG",
-          "url": "https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "What's a girl to do",
-      "url": "https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW"
-    },
-    {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "Blue Valentine",
         "url": "https://open.spotify.com/album/42URGYboRJEQPwXj7wlsoB"
@@ -789,23 +805,7 @@
       "url": "https://open.spotify.com/track/4i0HNuFEH6P6K4UnsY5uUh"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
-      "album": {
-        "name": "GREENGREEN",
-        "url": "https://open.spotify.com/album/2zEdi42kfgLEySoikGJMFT"
-      },
-      "artists": [
-        {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        }
-      ],
-      "duration_ms": 141880,
-      "name": "Blue Lips",
-      "url": "https://open.spotify.com/track/1VyXprVXZYNGWWZf1u4JfN"
-    },
-    {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "PWLT",
         "url": "https://open.spotify.com/album/4KvHOjRNJ6RYFJEyNFRm79"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/7kLcolBu5DbHBik5ZEKk9m"
     },
     {
-      "added_at": "2026-05-31 17:21:28",
+      "added_at": "2026-06-02 06:00:43",
       "album": {
         "name": "Sequence 01: Curiosity",
         "url": "https://open.spotify.com/album/5fCZmHJgVkaNIf2ZcmlmzD"

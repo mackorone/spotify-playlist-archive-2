@@ -1,12 +1,12 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190768,
+  "num_followers": 190761,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALl5EMTuQedP+s3AJzbqHgqAgWuV",
+  "snapshot_id": "AAAAAEpdwwJ8+14MsyzDJjNOwVT7DHLg",
   "tracks": [
     {
       "added_at": "2026-05-26 22:00:43",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Car Crash",
-        "url": "https://open.spotify.com/album/5YKTvMmaJ5q8Z31nn4WzJl"
-      },
-      "artists": [
-        {
-          "name": "Sean Solomon",
-          "url": "https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3"
-        }
-      ],
-      "duration_ms": 202812,
-      "name": "Car Crash",
-      "url": "https://open.spotify.com/track/3h7MNOxHgXeB6eygCLdRYc"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Play With Fire",
         "url": "https://open.spotify.com/album/2QCS1NnTSAfg5eyENPVUbG"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 255895,
       "name": "Play With Fire",
       "url": "https://open.spotify.com/track/1mnsHxQPbkaHQatoTjOizI"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Car Crash",
+        "url": "https://open.spotify.com/album/5YKTvMmaJ5q8Z31nn4WzJl"
+      },
+      "artists": [
+        {
+          "name": "Sean Solomon",
+          "url": "https://open.spotify.com/artist/2rIEFpPW3NjFRA6llfnOq3"
+        }
+      ],
+      "duration_ms": 202812,
+      "name": "Car Crash",
+      "url": "https://open.spotify.com/track/3h7MNOxHgXeB6eygCLdRYc"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 275686,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Always The Same (feat. St. Vincent)",
         "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 275686,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Can",
-        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
-      },
-      "artists": [
-        {
-          "name": "Soft Loft",
-          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Can",
-      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Bright Belief",
         "url": "https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 282000,
       "name": "Bright Belief",
       "url": "https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Can",
+        "url": "https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9"
+      },
+      "artists": [
+        {
+          "name": "Soft Loft",
+          "url": "https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t"
+        }
+      ],
+      "duration_ms": 201557,
+      "name": "Can",
+      "url": "https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Rush Hour Traffic",
-        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        }
-      ],
-      "duration_ms": 264346,
-      "name": "Rush Hour Traffic",
-      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Something Ain't Right (Acoustic)",
         "url": "https://open.spotify.com/album/1d0d9udPhXSTJEyWD0A3Cx"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 160523,
       "name": "Something Ain't Right - Acoustic",
       "url": "https://open.spotify.com/track/2K5t7RDYD1C11XZmmT3KtT"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Rush Hour Traffic",
+        "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 264346,
+      "name": "Rush Hour Traffic",
+      "url": "https://open.spotify.com/track/6s1lxdvY8PRX3omWmOVaXx"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Mr. Beckett",
-        "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
-      },
-      "artists": [
-        {
-          "name": "Agn\u00e8s Botty",
-          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
-        }
-      ],
-      "duration_ms": 223973,
-      "name": "Mr. Beckett",
-      "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "The Farm",
         "url": "https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 302533,
       "name": "The End",
       "url": "https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Mr. Beckett",
+        "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
+      },
+      "artists": [
+        {
+          "name": "Agn\u00e8s Botty",
+          "url": "https://open.spotify.com/artist/1EsJO7JcMzmvOa9QThwVyC"
+        }
+      ],
+      "duration_ms": 223973,
+      "name": "Mr. Beckett",
+      "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
     },
     {
       "added_at": "2026-05-26 22:00:43",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2026-05-26 22:00:43",
       "album": {
-        "name": "Where's The Fun In That?",
-        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
-      },
-      "artists": [
-        {
-          "name": "Ola",
-          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "Where's The Fun In That?",
-      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
-    },
-    {
-      "added_at": "2026-05-26 22:00:43",
-      "album": {
         "name": "Kaleidoscope Eyes",
         "url": "https://open.spotify.com/album/7MqL14X34ldt6xyXNj7637"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 238542,
       "name": "Kaleidoscope Eyes",
       "url": "https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo"
+    },
+    {
+      "added_at": "2026-05-26 22:00:43",
+      "album": {
+        "name": "Where's The Fun In That?",
+        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
+      },
+      "artists": [
+        {
+          "name": "Ola",
+          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
+        }
+      ],
+      "duration_ms": 148125,
+      "name": "Where's The Fun In That?",
+      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
     },
     {
       "added_at": "2026-05-26 22:00:43",

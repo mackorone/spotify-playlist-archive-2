@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11398,
+  "num_followers": 11399,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -515,34 +515,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "GEEN TITEL",
-        "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
+        "name": "Ik Weet Hoe Het Werkt",
+        "url": "https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV"
       },
       "artists": [
         {
-          "name": "Ploegendienst",
-          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+          "name": "Kaat Van Stralen",
+          "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
         }
       ],
-      "duration_ms": 152413,
-      "name": "CONFLICT",
-      "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "AH!",
-        "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
-      },
-      "artists": [
-        {
-          "name": "WIES",
-          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "Behang",
-      "url": "https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3"
+      "duration_ms": 141051,
+      "name": "Ik Weet Hoe Het Werkt",
+      "url": "https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -563,18 +547,34 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Ik Weet Hoe Het Werkt",
-        "url": "https://open.spotify.com/album/0nv3Dbn34pGSHXHCqS2mJV"
+        "name": "AH!",
+        "url": "https://open.spotify.com/album/0csMfna0Qy1dVDGQO0PVPX"
       },
       "artists": [
         {
-          "name": "Kaat Van Stralen",
-          "url": "https://open.spotify.com/artist/4iJk7vDVSLy3X0lBdOKKuF"
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
         }
       ],
-      "duration_ms": 141051,
-      "name": "Ik Weet Hoe Het Werkt",
-      "url": "https://open.spotify.com/track/16fQhhumwwRVJjQydsxP9W"
+      "duration_ms": 153653,
+      "name": "Behang",
+      "url": "https://open.spotify.com/track/2OLkJvUzbNZNTft8kfEri3"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "GEEN TITEL",
+        "url": "https://open.spotify.com/album/3hioypt7zKgNZT5JTUwXsx"
+      },
+      "artists": [
+        {
+          "name": "Ploegendienst",
+          "url": "https://open.spotify.com/artist/2aJUvAtem0t0zRKxJsRoea"
+        }
+      ],
+      "duration_ms": 152413,
+      "name": "CONFLICT",
+      "url": "https://open.spotify.com/track/6rhUciq7H7uz6WjEckuk0S"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
-        "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
-      },
-      "artists": [
-        {
-          "name": "Igor",
-          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
-        }
-      ],
-      "duration_ms": 234633,
-      "name": "Kan Ik Zoveel?",
-      "url": "https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
         "name": "Niemandsland",
         "url": "https://open.spotify.com/album/4MfChcpoXYxVcbsiEraWll"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "De Underdog EP",
-        "url": "https://open.spotify.com/album/3ivN33rZC5KNlL8g62rXnq"
+        "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
+        "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
       },
       "artists": [
         {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+          "name": "Igor",
+          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
         }
       ],
-      "duration_ms": 167896,
-      "name": "Underdog",
-      "url": "https://open.spotify.com/track/52FO4DLoFdJZfvsgrhixAt"
+      "duration_ms": 234633,
+      "name": "Kan Ik Zoveel?",
+      "url": "https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -899,6 +883,22 @@
       "duration_ms": 201627,
       "name": "Maskers",
       "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
+        "name": "De Underdog EP",
+        "url": "https://open.spotify.com/album/3ivN33rZC5KNlL8g62rXnq"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "duration_ms": 167896,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/52FO4DLoFdJZfvsgrhixAt"
     }
   ],
   "unique_name": "indie.nl",

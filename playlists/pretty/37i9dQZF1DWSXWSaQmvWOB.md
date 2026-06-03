@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: GIVĒON
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,194 likes - 120 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,292 likes - 120 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 33 | [Wonderful Love](https://open.spotify.com/track/5pHjmN9vFGPT94ZKtZ1bGN) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY) | [Wonderful Love](https://open.spotify.com/album/1vJVEvcpk9fajiz3sj2RYb) | 5:32 |
 | 34 | [On My Soul](https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 2:54 |
 | 35 | [Doctrine of Love](https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l) | 3:20 |
-| 36 | [Send It On](https://open.spotify.com/track/0MVIaOYgOtFrw8gjThzrF2) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT), [Zee Dyasi](https://open.spotify.com/artist/1iYHQESc96sr2jDZQdKx9N) | [Send It On](https://open.spotify.com/album/52ebyyBazUHneBbzvq603W) | 4:02 |
+| 36 | [Send It On](https://open.spotify.com/track/0MVIaOYgOtFrw8gjThzrF2) | [Mothers Favorite Child](https://open.spotify.com/artist/10i2TorF3ZcaKiVi0UmcwT) | [Send It On](https://open.spotify.com/album/52ebyyBazUHneBbzvq603W) | 4:02 |
 | 37 | [365 Flavors](https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [365 Flavors](https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h) | 3:58 |
 | 38 | [When You're Around](https://open.spotify.com/track/4hPUbNpY11rYOlsDcIEvTU) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [When You're Around](https://open.spotify.com/album/6xllDwr0Kh9uRcDDYdeKJU) | 3:39 |
 | 39 | [Better Days](https://open.spotify.com/track/04LrMPgfrbskqRMeTPeZlJ) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Better Days](https://open.spotify.com/album/3lFaYs31jwWTbPlqOydax9) | 3:10 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 119 | [Somebody To You](https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Somebody To You](https://open.spotify.com/album/7Eg9y2rEHezE1vaK57eULG) | 2:57 |
 | 120 | [The Present](https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Derrick Mckenzie](https://open.spotify.com/artist/2yTk5VCLEsumMmQf25x8VI) | [The Present](https://open.spotify.com/album/2W2WtKH6HWN90uPFwirlFj) | 3:28 |
 
-Snapshot ID: `AAAAAKLqMZjeOjKBSb84pPRB/+ZSJjrD`
+Snapshot ID: `AAAAAIuy0aQPFwZdy+BNZquufmPHzIPr`

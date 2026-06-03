@@ -4,7 +4,7 @@
 
 > Turn traffic stops into jam sessions.
 
-1,189 songs - 2 day 10 hr 10 min
+1,190 songs - 2 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -974,6 +974,7 @@
 | [SHABA](https://open.spotify.com/track/3Mkn6UjdPtKdySe78jVfxg) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [SHABA](https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA) | 2:01 | 2026-04-17 | 2026-05-26 |
 | [shadow](https://open.spotify.com/track/6Jllvxl97ni5T2bW3zEDGi) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK) | [shadow](https://open.spotify.com/album/2IFdqPlm98pTA57pt9iTdU) | 2:40 | 2024-04-12 | 2024-04-19 |
 | [Shakabulizzy \- Remix](https://open.spotify.com/track/3yzs58LteW16AjEb4J5vvi) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Shakabulizzy \(Remix\)](https://open.spotify.com/album/7ASL5WnVt8QkEB0QvwtIjM) | 2:55 | 2025-10-24 |  |
+| [Shake That](https://open.spotify.com/track/2HNqGqMFyUjyjGyi6K58xm) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Shake That](https://open.spotify.com/album/5KJYpO15Cv5uDPE4OZDJbP) | 3:16 | 2026-05-29 |  |
 | [Shalaye](https://open.spotify.com/track/5RTfC7qVXydNrmv4quXFpq) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL) | [Shalaye](https://open.spotify.com/album/6h2yGkv9ttMltX43abLmQc) | 2:51 | 2025-03-21 | 2025-04-12 |
 | [SHAOLIN](https://open.spotify.com/track/2hODYSmDyWMu2C2XN4bgOV) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Children of Africa](https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF) | 2:20 | 2025-02-24 | 2026-03-17 |
 | [Shayo](https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [High Spirit](https://open.spotify.com/album/1HNIge0hzBU9TJIsGS83Rj) | 2:49 | 2025-10-17 | 2025-10-25 |
@@ -1160,7 +1161,7 @@
 | [WHY LOVE](https://open.spotify.com/track/4uLBwGnr1U3ctcDZrnVEgK) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [WHY LOVE](https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk) | 3:30 | 2025-02-14 |  |
 | [Will I?](https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Will I?](https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM) | 2:44 | 2024-09-30 | 2024-10-19 |
 | [Wire](https://open.spotify.com/track/2XNaMlHROxvkKGohcQHQZV) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Wire](https://open.spotify.com/album/7sp3pOTSG2BO3VWKcRWJH8) | 2:24 | 2023-04-20 | 2023-04-28 |
-| [With You](https://open.spotify.com/track/3mizL1Jt5XTqrpWFLW1dO4) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [With You](https://open.spotify.com/album/7EPl51mXa8P4QVWD7MmpC2) | 2:43 | 2026-04-03 |  |
+| [With You](https://open.spotify.com/track/3mizL1Jt5XTqrpWFLW1dO4) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [With You](https://open.spotify.com/album/7EPl51mXa8P4QVWD7MmpC2) | 2:43 | 2026-04-03 | 2026-06-03 |
 | [WITH YOU](https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [WITH YOU](https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u) | 3:12 | 2022-06-08 | 2022-08-25 |
 | [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 | 2025-05-16 | 2026-03-17 |
 | [WO WO \(Remix\)](https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [WO WO \(Remix\)](https://open.spotify.com/album/3wwREZUMLVKc33adNjlAhi) | 3:45 | 2023-01-19 | 2023-05-30 |

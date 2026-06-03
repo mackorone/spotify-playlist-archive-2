@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Lidia Buble
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,971 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,977 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 9 | [Sexy](https://open.spotify.com/track/7tXT5UAE0PpUdeHGsfumW7) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2), [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [Sexy](https://open.spotify.com/album/6ThmwbTVi9mBtsBFRRSuum) | 2:51 |
 | 10 | [Un sărut cât o viață](https://open.spotify.com/track/5RYdHdkUVNu3T61x5EH8vb) | [3 Sud Est](https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC), [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Un sărut cât o viață](https://open.spotify.com/album/3DbR0ut6rmjLF5usRt2eeg) | 3:33 |
 | 11 | [N\-am mai iubit așa pe nimeni](https://open.spotify.com/track/5ZZza4KAsPn8EHRKTjCVCV) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [N\-am mai iubit așa pe nimeni](https://open.spotify.com/album/43TUzapHjUbWsRkqmIs8qc) | 2:37 |
-| 12 | [Talk](https://open.spotify.com/track/5Bs8K3OjU1fIQJ7I2GR2mu) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Omar Duro](https://open.spotify.com/artist/3QUcOtKpMPAbhxDkuW9SPV) | [Talk](https://open.spotify.com/album/5lBATMB20Ft9dtV1ntJasC) | 3:13 |
+| 12 | [Talk](https://open.spotify.com/track/5Bs8K3OjU1fIQJ7I2GR2mu) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Omar Duro](https://open.spotify.com/artist/3QUcOtKpMPAbhxDkuW9SPV) | [Talk](https://open.spotify.com/album/5lBATMB20Ft9dtV1ntJasC) | 2:47 |
 | 13 | [Mor după tine](https://open.spotify.com/track/3ia9wVJVCCxpixci3dXlxB) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Mor după tine](https://open.spotify.com/album/5j7cc5gjif5RQ46G0Cfp3K) | 2:17 |
 | 14 | [Temperatura](https://open.spotify.com/track/32ciLtBal66Ng1Hohl6QLv) | [Andres Chiriac](https://open.spotify.com/artist/7HlWxMwAKrMcmjOuo1vmPR), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Temperatura](https://open.spotify.com/album/7LZ43Xb79dU0zUONNrqOMH) | 3:10 |
 | 15 | [Popcorn Song](https://open.spotify.com/track/0mVEc8E1KcRSi1spcs88Dy) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Popcorn Song](https://open.spotify.com/album/3xsn9KkwnH0zTZNolFmysh) | 2:12 |

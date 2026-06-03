@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 324 likes - 2,359 songs - 5 day 19 hr 12 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 325 likes - 2,362 songs - 5 day 19 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2367,5 +2367,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2357 | [My Baby Is a Superstar](https://open.spotify.com/track/3zUViqxMkQyeli2dBUzlH0) | [Peter Foreman](https://open.spotify.com/artist/5r2w9FvNgxIeSQuQuuBZph) | [My Baby Is a Superstar](https://open.spotify.com/album/4Ld8PrwGL5IYjQ0JJZPJ6M) | 3:15 |
 | 2358 | [All I Want From You \(Distribution\)](https://open.spotify.com/track/3oD3uLVohw5dcJP5WugSYV) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [All I Want From You](https://open.spotify.com/album/2Gi2yf2kTvuRBLGlORfSWr) | 2:29 |
 | 2359 | [Numb It](https://open.spotify.com/track/5Cu0ZKQeGfxmZcSJHqlAlG) | [FiNiX](https://open.spotify.com/artist/2Z78u5tE6JlMW98GnyOvwp), [The Irie Lions](https://open.spotify.com/artist/4YJu9BNUR2dU09UuuKE5OQ) | [Numb It](https://open.spotify.com/album/7AFlVYlb35ZvmaMkhF5Hcl) | 4:06 |
+| 2360 | [Carolina](https://open.spotify.com/track/3tmKJm7GurhO7gYpQHj2vJ) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3), [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Carolina](https://open.spotify.com/album/16MLS4M1deA7XetqvCfZ3q) | 4:36 |
+| 2361 | [Love Actually](https://open.spotify.com/track/4HGUgYPtXInlqTn3WMZbXL) | [Mare E Sheehan](https://open.spotify.com/artist/7AoXGlS8YP1Kf2HtjAJmAW) | [Love Actually](https://open.spotify.com/album/6aCUSrkAkViqQ3TWL23b7e) | 2:02 |
+| 2362 | [Travelers Souls](https://open.spotify.com/track/1rgXfcC6g7AUK4MgdUJwSV) | [Dub Idren](https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed), [RootsyBeats](https://open.spotify.com/artist/4dQf5YSC5GRqId5gxkx9RL) | [Travelers Souls](https://open.spotify.com/album/7mOchKktwmLXR7onK2mhv5) | 4:00 |
 
-Snapshot ID: `AAAKBUmhmSdXPTOLFMUfQqhTkhCLp//t`
+Snapshot ID: `AAAKCJjNbJlhVbZ/yCX0NrjJMWdZYA4N`

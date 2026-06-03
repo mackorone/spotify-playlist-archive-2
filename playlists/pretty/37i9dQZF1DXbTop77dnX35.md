@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Qing Madi, Tiwa Savage, Joey B & Odunsi \(the Engine\), Black Sheriff, Ariana Grande, Latto and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,456 likes - 74 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,516 likes - 74 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 62 | [Fashion \- Remix](https://open.spotify.com/track/5zfpptXptLYcAVwmmiUzAB) | [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm), [S2kizzy](https://open.spotify.com/artist/3qnWVd92pqdPqRk7GGnuMc), [Tebogo G Mashego](https://open.spotify.com/artist/3U6tzzUuiMZD64IPkutbjM), [Silas Africa](https://open.spotify.com/artist/6a4F8FONY3tD2Jidnm4bIG), [JoBlaq](https://open.spotify.com/artist/2GyY6fd6hPueMiFe7Bt6Vp) | [Fashion \(Remix\)](https://open.spotify.com/album/5FV7c2G1MryW1jVrR8e91p) | 4:47 |
 | 63 | [Maktoub](https://open.spotify.com/track/56DYNKo3QHkakqOUkWi3vl) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Maktoub](https://open.spotify.com/album/5lGNl6oIZCafJQKQYKWmpZ) | 2:41 |
 | 64 | [She's Mine](https://open.spotify.com/track/3DHNsoNifh1fBu5Xl13OC8) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [My Way](https://open.spotify.com/album/2TL6YiX8L6m1lXoLdvUoj3) | 3:42 |
-| 65 | [MALIIBU](https://open.spotify.com/track/5uqNpA6dsaskbV07O8SK1E) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp), [MAMBA.](https://open.spotify.com/artist/6KZu2ZoTRxp69dqLczrmja), [2TWENTYSIXX](https://open.spotify.com/artist/1XOZnGGwMeso1ppNRV6nBv), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [MALIIBU](https://open.spotify.com/album/6s2ouYlULEJydQWHZ4TMr1) | 2:18 |
+| 65 | [MALIBU](https://open.spotify.com/track/5uqNpA6dsaskbV07O8SK1E) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp), [MAMBA.](https://open.spotify.com/artist/60mQXLKXDOUKSqoiFWErlp), [2wentysixx](https://open.spotify.com/artist/7EzZxvZRR2cwbGP5W7116h), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [MALIBU](https://open.spotify.com/album/6s2ouYlULEJydQWHZ4TMr1) | 2:18 |
 | 66 | [French Tips](https://open.spotify.com/track/4AhDxbAKP8S3qU9rJKGsZf) | [TÖME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX) | [French Tips](https://open.spotify.com/album/3yz86Gf6wgUk8eq8ceHRCP) | 2:01 |
 | 67 | [Show Me Who You Are](https://open.spotify.com/track/4mbHj8e2IdVa3iQ84fN78q) | [Jann Klose](https://open.spotify.com/artist/1csVkdRxOIO5TkhZCPQxIR), [Everett Bradley](https://open.spotify.com/artist/6PlFUMCF1ICPkEyfmHdHSt) | [The Future Trap](https://open.spotify.com/album/0zByy18wHNHMTJH2vLy4sf) | 3:20 |
 | 68 | [Charming](https://open.spotify.com/track/2gJR3KTDOrpcDTZWLPv3kA) | [Zara Grainie](https://open.spotify.com/artist/3CvM9u6Ig6UEtsn7rk39hP) | [Charming](https://open.spotify.com/album/2CXSKAMBGXhpGBJNMvxqbV) | 2:35 |

@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Silo\u00e9.",
-  "num_followers": 615451,
+  "num_followers": 615460,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-05-21 22:01:23",
       "album": {
-        "name": "A Puerta Cerrada",
-        "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Rojitas las orejas",
-      "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
-    },
-    {
-      "added_at": "2026-05-21 22:01:23",
-      "album": {
         "name": "Poes\u00eda B\u00e1sica",
         "url": "https://open.spotify.com/album/4xhZ3vSDxAYlXCuorMDAbV"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 174973,
       "name": "Mala Vida",
       "url": "https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX"
+    },
+    {
+      "added_at": "2026-05-21 22:01:23",
+      "album": {
+        "name": "A Puerta Cerrada",
+        "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Rojitas las orejas",
+      "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
     },
     {
       "added_at": "2026-05-21 22:01:23",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-05-21 22:01:23",
       "album": {
-        "name": "B\u00fafalo",
-        "url": "https://open.spotify.com/album/4IoeA6uEqGsb10MVL6Dzt2"
-      },
-      "artists": [
-        {
-          "name": "Silo\u00e9",
-          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
-        }
-      ],
-      "duration_ms": 204368,
-      "name": "B\u00fafalo",
-      "url": "https://open.spotify.com/track/50CWGGcyq8U3NPYl9NeYHv"
-    },
-    {
-      "added_at": "2026-05-21 22:01:23",
-      "album": {
         "name": "28.000 pu\u00f1aladas",
         "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 234106,
       "name": "La rueca",
       "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
+    },
+    {
+      "added_at": "2026-05-21 22:01:23",
+      "album": {
+        "name": "B\u00fafalo",
+        "url": "https://open.spotify.com/album/4IoeA6uEqGsb10MVL6Dzt2"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "duration_ms": 204368,
+      "name": "B\u00fafalo",
+      "url": "https://open.spotify.com/track/50CWGGcyq8U3NPYl9NeYHv"
     },
     {
       "added_at": "2026-05-21 22:01:23",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-05-21 22:01:23",
       "album": {
-        "name": "Rock & Roll Star - 30 a\u00f1os",
-        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
-      },
-      "artists": [
-        {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Cadillac solitario",
-      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
-    },
-    {
-      "added_at": "2026-05-21 22:01:23",
-      "album": {
         "name": "Saca La Lengua",
         "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 237000,
       "name": "Adi\u00f3s pap\u00e1",
       "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
+    },
+    {
+      "added_at": "2026-05-21 22:01:23",
+      "album": {
+        "name": "Rock & Roll Star - 30 a\u00f1os",
+        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Cadillac solitario",
+      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
     },
     {
       "added_at": "2026-05-21 22:01:23",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-05-21 22:01:23",
       "album": {
-        "name": "Vamos Tirando",
-        "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
-      },
-      "artists": [
-        {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "Tras la barra",
-      "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
-    },
-    {
-      "added_at": "2026-05-21 22:01:23",
-      "album": {
         "name": "Uno",
         "url": "https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 188914,
       "name": "Lo dif\u00edcil",
       "url": "https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1"
+    },
+    {
+      "added_at": "2026-05-21 22:01:23",
+      "album": {
+        "name": "Vamos Tirando",
+        "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Tras la barra",
+      "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
     },
     {
       "added_at": "2026-05-21 22:01:23",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-05-21 22:01:23",
       "album": {
-        "name": "Esencial Estopa",
-        "url": "https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Como Camar\u00f3n",
-      "url": "https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6"
-    },
-    {
-      "added_at": "2026-05-21 22:01:23",
-      "album": {
         "name": "\u00bfVolver\u00e1? (feat. Dani Mart\u00edn, Rulo y la Contrabanda)",
         "url": "https://open.spotify.com/album/1WwaI7DststGINwmLG9zCP"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 249984,
       "name": "\u00bfVolver\u00e1? (feat. Dani Mart\u00edn, Rulo y la Contrabanda)",
       "url": "https://open.spotify.com/track/56bY8QWkhq11vfMpOIhJli"
+    },
+    {
+      "added_at": "2026-05-21 22:01:23",
+      "album": {
+        "name": "Esencial Estopa",
+        "url": "https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Como Camar\u00f3n",
+      "url": "https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6"
     },
     {
       "added_at": "2026-05-21 22:01:23",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2026-05-21 22:01:23",
       "album": {
-        "name": "Historia de una Banda (En Directo)",
-        "url": "https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 230779,
-      "name": "Aviones Plateados - En Directo",
-      "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
-    },
-    {
-      "added_at": "2026-05-21 22:01:23",
-      "album": {
         "name": "La misma canci\u00f3n",
         "url": "https://open.spotify.com/album/1MCpSDB8Ofg9qrjFizu4qU"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 286534,
       "name": "La misma canci\u00f3n",
       "url": "https://open.spotify.com/track/5FzIQ5CdSgWekevt2916CE"
+    },
+    {
+      "added_at": "2026-05-21 22:01:23",
+      "album": {
+        "name": "Historia de una Banda (En Directo)",
+        "url": "https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 230779,
+      "name": "Aviones Plateados - En Directo",
+      "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
     },
     {
       "added_at": "2026-05-21 22:01:23",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2026-05-21 22:01:23",
       "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "Pacto Entre Caballeros",
-      "url": "https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5"
-    },
-    {
-      "added_at": "2026-05-21 22:01:23",
-      "album": {
         "name": "12 Botellines y 5 Tercios",
         "url": "https://open.spotify.com/album/06giFWDWB3yEX9eDtciSyd"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 173533,
       "name": "Pongamos Que Hablo de Madrid",
       "url": "https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt"
+    },
+    {
+      "added_at": "2026-05-21 22:01:23",
+      "album": {
+        "name": "Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "Pacto Entre Caballeros",
+      "url": "https://open.spotify.com/track/2pD9O35trzPh9yqqNCIuL5"
     },
     {
       "added_at": "2026-05-21 22:01:23",

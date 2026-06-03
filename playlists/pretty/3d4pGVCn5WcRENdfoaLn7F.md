@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 691 likes - 79 songs - 4 hr 34 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 699 likes - 82 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,5 +87,8 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 77 | [Poison](https://open.spotify.com/track/3etMVsSrF9XZ4PbZKyvyQj) | [Noam Peri](https://open.spotify.com/artist/5jOb4IiotwIkHpg8wyRmzt) | [Poison](https://open.spotify.com/album/5hd5OYYmt8n6nkayRVVzqw) | 4:11 |
 | 78 | [It's Over](https://open.spotify.com/track/3bmxRg9hZNL7fJHSCpqpgj) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [home ANYMORE](https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs) | 3:17 |
 | 79 | [Hollow Eyes](https://open.spotify.com/track/0BY1CFp97qI8opvS0KbD4z) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [Hollow Eyes](https://open.spotify.com/album/2dmxukyWSXkjiSeD1eGsPL) | 3:23 |
+| 80 | [In The Dark](https://open.spotify.com/track/1tVhSbVfhWn3dp80negdBc) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [In The Dark](https://open.spotify.com/album/6kUqfO3Zl3jaw4mC91o1SJ) | 3:08 |
+| 81 | [Get Off Of My Cloud](https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:18 |
+| 82 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 |
 
-Snapshot ID: `AAADiNMIvBa2snJ9C5AsGNTampzChsni`
+Snapshot ID: `AAADi7a3EILWtmfirGZu+flDOOBSqQjJ`

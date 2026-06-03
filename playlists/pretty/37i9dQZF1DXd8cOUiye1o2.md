@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Fresh from the recording to your ears\. Latest Hindi music, right here\. Cover \- Chand Mera Dil
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,488 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,620 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 23 | [Baatein Teri](https://open.spotify.com/track/3YV34wAHMQ7NLxmEy761Lc) | [maahi](https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV), [THOUGHT](https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC), [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Baatein Teri](https://open.spotify.com/album/0PyVPDfkrxr4ZwSw0PQxyS) | 2:28 |
 | 24 | [Tera Ho Jaun \(From "Hai Jawani Toh Ishq Hona Hai"\)](https://open.spotify.com/track/4KrVfk5QMYwIvUC3q5p0la) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [White Noise Collectives](https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Tera Ho Jaun \(From "Hai Jawani Toh Ishq Hona Hai"\)](https://open.spotify.com/album/6dlroiIlnKYENWBIJygQVp) | 2:40 |
 | 25 | [Subah Ravivaar Ki](https://open.spotify.com/track/1Xv6ia8UdOayi4SsP4deRv) | [Inayat](https://open.spotify.com/artist/5jbBzjNgAiqpsNEOmOP448) | [Subah Ravivaar Ki](https://open.spotify.com/album/3ipJseF9ig55jvXHSI72JS) | 4:30 |
-| 26 | [Chandni Raat](https://open.spotify.com/track/6RDExqHo9DHpbD0ltHThNd) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Seven And a Half Dates](https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM) | 2:30 |
+| 26 | [Apna Lage](https://open.spotify.com/track/6RDExqHo9DHpbD0ltHThNd) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Seven And a Half Dates](https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM) | 2:30 |
 | 27 | [Tere Chehre Ka Jadoo](https://open.spotify.com/track/1n2XObcWuxQZodd3hhKJxJ) | [JalRaj](https://open.spotify.com/artist/5fuBZptKdXWB7NLT2eDwaT) | [Tere Chehre Ka Jadoo](https://open.spotify.com/album/7GrycC1ckhcI4fygNEeOOB) | 3:36 |
 | 28 | [Sajna Ve](https://open.spotify.com/track/3EMyhrFOjgXdd3n5MOC0Jg) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Sajna Ve](https://open.spotify.com/album/0ETznxgrTFVo8kvzhCbk5o) | 2:33 |
 | 29 | [Ishq Nibhaavan De \(From "Chand Mera Dil"\)](https://open.spotify.com/track/029SqqNDwuG5tueOaArCoZ) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Chand Mera Dil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb) | 3:49 |

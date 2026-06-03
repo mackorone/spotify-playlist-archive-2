@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With David Eugene Edwards, Lockjaw, Sraig\u0117s Efektas and more",
+  "description": "With Lockjaw, Dystopian X Vision, David Eugene Edwards and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -280,6 +280,24 @@
       "duration_ms": 378160,
       "name": "All My Youth",
       "url": "https://open.spotify.com/track/06iH0mLdq6a26XXgKxQd9w"
+    },
+    {
+      "album": {
+        "name": "Tempus Fugit (Chapter II: Echoes)",
+        "url": "https://open.spotify.com/album/64QDezalGZ9e3hwo18kvKc"
+      },
+      "artists": [
+        {
+          "name": "Beat Noir Deluxe",
+          "url": "https://open.spotify.com/artist/7wsx02NZXRqfx3gmDxhtRB"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "All the Scars Inside Me",
+      "url": "https://open.spotify.com/track/7JPCXZKdpLThBTdbVdKxl5"
     },
     {
       "album": {
@@ -760,7 +778,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1484,7 +1502,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 260685,
       "name": "Cold",
       "url": "https://open.spotify.com/track/5RhQ48NodJ9VepdX5rG4SJ"
@@ -2306,7 +2324,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 245793,
       "name": "Divine Electronic Doom",
       "url": "https://open.spotify.com/track/35B32sSZ1Ri0O2qQ8ObRKT"
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 249000,
       "name": "Dopey Smile",
       "url": "https://open.spotify.com/track/2LfwnrLRn0SfPCgGQ1pvkp"
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 140885,
       "name": "Doubting Zurvan",
       "url": "https://open.spotify.com/track/5ofxmIgOX5p444yzFDsbuh"
@@ -2778,7 +2796,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 352720,
       "name": "Ein Stern",
       "url": "https://open.spotify.com/track/1gb9zmaAAv5ZPvl7XUNxZO"
@@ -3838,7 +3856,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 241558,
       "name": "Frost Upon The Longships",
       "url": "https://open.spotify.com/track/77FAbjrKGLobbU26aL6BFZ"
@@ -5050,7 +5068,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "In The Very Time That Will Rot Us",
       "url": "https://open.spotify.com/track/2s998b6NVcI0zz1FCwy6kG"
@@ -5270,7 +5288,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -5950,7 +5968,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 274750,
       "name": "Living Out the Egg",
       "url": "https://open.spotify.com/track/6GagFfw4T55Wsxxd8ucRXp"
@@ -7278,7 +7296,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 205653,
       "name": "Nighttrippin",
       "url": "https://open.spotify.com/track/6msEjTjCngQQYCbPu3j1pH"
@@ -8180,7 +8198,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 296484,
       "name": "Personal Paradox",
       "url": "https://open.spotify.com/track/1rTcscm59VFhWYXh8fma51"
@@ -10410,7 +10428,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 107586,
       "name": "The End",
       "url": "https://open.spotify.com/track/3XP2fgY72feUbo3jG5bOjS"
@@ -10698,7 +10716,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 136615,
       "name": "The magic juice",
       "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"
@@ -11118,7 +11136,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 177297,
       "name": "This Is Not Everything I Expected",
       "url": "https://open.spotify.com/track/0vVIh3MHwwSOTu4utJXlAq"
@@ -12231,6 +12249,24 @@
     },
     {
       "album": {
+        "name": "The Evil Divide (10th Anniversary)",
+        "url": "https://open.spotify.com/album/489B9WqIIKoBFHVy1z6w0O"
+      },
+      "artists": [
+        {
+          "name": "Death Angel",
+          "url": "https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318600,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/57zHnKR4UFKiSl1il0pGhV"
+    },
+    {
+      "album": {
         "name": "Wave of Mutilation",
         "url": "https://open.spotify.com/album/7Ap9TVpf4dEOMa9OhpX9Gt"
       },
@@ -12542,6 +12578,24 @@
       "duration_ms": 335466,
       "name": "Wild Horse",
       "url": "https://open.spotify.com/track/5haFM5bfeKXJ3ysbTJzFbq"
+    },
+    {
+      "album": {
+        "name": "All In Now",
+        "url": "https://open.spotify.com/album/1fxFvw95DNNmV4Zzoc5pvC"
+      },
+      "artists": [
+        {
+          "name": "Dogstar",
+          "url": "https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190893,
+      "name": "Wing",
+      "url": "https://open.spotify.com/track/4BNzJbWFSsRU6OtsdKcjKC"
     },
     {
       "album": {

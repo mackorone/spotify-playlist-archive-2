@@ -19175,6 +19175,24 @@
     },
     {
       "album": {
+        "name": "Punk Parrot",
+        "url": "https://open.spotify.com/album/5LPgfFFpDiisyYSb4FpnqV"
+      },
+      "artists": [
+        {
+          "name": "Echo Boulevard",
+          "url": "https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183176,
+      "name": "Punk Parrot",
+      "url": "https://open.spotify.com/track/4CaImsMJmEbKg2ikcgyAJU"
+    },
+    {
+      "album": {
         "name": "Rise Again",
         "url": "https://open.spotify.com/album/3gCWf0aBmcwvaYvl4shYQ1"
       },
@@ -21126,7 +21144,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "Shallowed Breakwater",
       "url": "https://open.spotify.com/track/0SrxFhP0L8ZskM6gJoqa3a"
@@ -24588,6 +24606,24 @@
       "duration_ms": 192325,
       "name": "The End of the World or Whatever",
       "url": "https://open.spotify.com/track/7bEuh53WskcUxLGmjil4nQ"
+    },
+    {
+      "album": {
+        "name": "The Expense / Unheeded Warnings",
+        "url": "https://open.spotify.com/album/3Dh3fmWklY7yImg7Uigs8I"
+      },
+      "artists": [
+        {
+          "name": "Picket Wounds",
+          "url": "https://open.spotify.com/artist/5vqSW7u5CjtEiEuJxxbQmu"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160039,
+      "name": "The Expense",
+      "url": "https://open.spotify.com/track/3ofRi2iXwlwUj4dyI9fld7"
     },
     {
       "album": {

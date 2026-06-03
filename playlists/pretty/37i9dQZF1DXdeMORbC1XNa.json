@@ -1,6 +1,6 @@
 {
   "description": "A perfect link up to soundtrack your day. Cover: NSG",
-  "num_followers": 321028,
+  "num_followers": 321025,
   "original_name": "The ACS",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-05-21 23:00:17",
       "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Black Girl Magic",
+      "url": "https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd"
+    },
+    {
+      "added_at": "2026-05-21 23:00:17",
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/2a7Q14xrExK8sz4PPQ3rpT"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 206741,
       "name": "Goddess (with Shenseea)",
       "url": "https://open.spotify.com/track/2MXENlJ3KwDUA8MrChbkFV"
-    },
-    {
-      "added_at": "2026-05-21 23:00:17",
-      "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Black Girl Magic",
-      "url": "https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd"
     },
     {
       "added_at": "2026-05-21 23:00:17",

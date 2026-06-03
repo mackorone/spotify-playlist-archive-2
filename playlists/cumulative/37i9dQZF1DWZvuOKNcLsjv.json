@@ -55541,7 +55541,7 @@
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 201185,
+      "duration_ms": 201344,
       "name": "Out Of Your Mind",
       "url": "https://open.spotify.com/track/6HZk1yiOCMJf5kG9nIllam"
     },
@@ -58640,7 +58640,7 @@
       },
       "artists": [
         {
-          "name": "Lauv",
+          "name": "LAUV",
           "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
@@ -67094,16 +67094,16 @@
       },
       "artists": [
         {
-          "name": "FANDOM",
-          "url": "https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv"
-        },
-        {
           "name": "Khalid",
           "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         },
         {
           "name": "Ahn Hyo-seop",
           "url": "https://open.spotify.com/artist/1TUrQeNhlJMcg9zl8yiW70"
+        },
+        {
+          "name": "FANDOM",
+          "url": "https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv"
         }
       ],
       "date_added": "2026-05-29",

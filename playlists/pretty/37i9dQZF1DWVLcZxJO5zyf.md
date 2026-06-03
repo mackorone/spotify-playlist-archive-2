@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto:  Melly
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,297,100 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,296,935 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A GENTE COMBINA](https://open.spotify.com/track/40z0XrdegYW7nVS3VEfR8I) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [MAIS FORTE QUE A DÚVIDA](https://open.spotify.com/album/58sTH0BWLuWoc2R0vtjL1n) | 2:51 |
 | 2 | [Pós Você](https://open.spotify.com/track/1mHe9kYpOPxNsdE3Wu0FWW) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Amor In Studio](https://open.spotify.com/album/7AqYvzwdaHSq4731qi61Tt) | 4:00 |
-| 3 | [VAMPIRA](https://open.spotify.com/track/53sU5FYujB8QaiH61RyQ5l) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:50 |
+| 3 | [VAMPIRA](https://open.spotify.com/track/53sU5FYujB8QaiH61RyQ5l) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:50 |
 | 4 | [mexe com meu juízo](https://open.spotify.com/track/3jRjwADDFans8VFXW2N5Vz) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [Mestrinho](https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx) | [escapismo](https://open.spotify.com/album/2e8AFwkw8qVUo9rW4JgBUb) | 2:59 |
 | 5 | [se joga](https://open.spotify.com/track/6pf9VyjlAVzgHoyuBFYCGM) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [FORÇA DA JUVENTUDE](https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo) | 4:05 |
 | 6 | [Seu e Só](https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Seu e Só](https://open.spotify.com/album/1T7dvcAcWOuBqmzmGF4zCR) | 2:33 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 18 | [Como Ouro](https://open.spotify.com/track/1QRZnXM3lEUifwEzl9xtV1) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Como Ouro](https://open.spotify.com/album/4hZTIQF4MrNJRwGbmIA7MT) | 2:34 |
 | 19 | [Loira Gelada](https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRUTAL PARAÍSO](https://open.spotify.com/album/3MhU6GRGIRgdjoDgltogAQ) | 3:12 |
 | 20 | [Abalo Psicológico](https://open.spotify.com/track/5SX0VdH95qpDfUOmDUQ5pj) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Abalo Psicológico](https://open.spotify.com/album/7j5jhsKOquyTJcKA3cgACX) | 2:08 |
-| 21 | [VIP \(ninguém te conhece\)](https://open.spotify.com/track/1yCeG6Sf2OLp23JYydjlo2) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [VIP \(ninguém te conhece\)](https://open.spotify.com/album/0iyjjaH4TXrfuHUhT0SnnU) | 2:46 |
+| 21 | [VIP \(ninguém te conhece\)](https://open.spotify.com/track/1yCeG6Sf2OLp23JYydjlo2) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [VIP \(ninguém te conhece\)](https://open.spotify.com/album/0iyjjaH4TXrfuHUhT0SnnU) | 2:46 |
 | 22 | [MULHER \(By BERSHKA Music\)](https://open.spotify.com/track/0boJTpbJMlKJWzyEEWuQdO) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [MULHER \(By BERSHKA Music\)](https://open.spotify.com/album/1Mym0DikYAiFaKftMdsqo4) | 3:25 |
 | 23 | [Choka Choka](https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Choka Choka](https://open.spotify.com/album/0ei3ArgXpn3uFZwxs90ySw) | 2:11 |
 | 24 | [Desmitificar](https://open.spotify.com/track/5h2S4Tob1xXcUiSxjMHb2B) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:33 |

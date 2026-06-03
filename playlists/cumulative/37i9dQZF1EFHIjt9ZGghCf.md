@@ -4,13 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-184 songs - 19 hr 28 min
+185 songs - 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Better Word \- Live](https://open.spotify.com/track/1tjXl4VrFghjIUsp6MLHRR) | [Benita Jones](https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S) | [The Entreating \(Live\)](https://open.spotify.com/album/2DfDPJUfb12Qzt5zMevYPI) | 6:24 | 2024-06-11 | 2025-02-27 |
 | [A Better Word \- Live](https://open.spotify.com/track/6r3Mznc8z5AcSWJ2aJvIZF) | [Benita Jones](https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S) | [The Entreating \(Live\)](https://open.spotify.com/album/7zJChADYcuBdZgDjv0jKjR) | 6:24 | 2025-02-26 |  |
 | [A Reason to Dance \(Live\)](https://open.spotify.com/track/2EhWeDXgzMNM68RKrQDmAs) | [All Nations Worship Assembly Atlanta](https://open.spotify.com/artist/4KbJIMQX4cgPen58azB9JA) | [A Reason to Dance \(Live\)](https://open.spotify.com/album/5bE6EdmylycgoRzXfPCRAF) | 6:56 | 2024-06-11 |  |
+| [Abide / Gratitude](https://open.spotify.com/track/70V2YtCQJJXb10y0EkY34p) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Integrity Worship](https://open.spotify.com/artist/697Av8ZId2eyKtaHSEg4ZM) | [Abide / Gratitude](https://open.spotify.com/album/2BcIOlaTdYVRcJlcILayJV) | 6:20 | 2026-06-02 |  |
 | [all god's children](https://open.spotify.com/track/1dhb41l8hPEQW7XA9FtXZE) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/5pI2XMFx0EOU78IXv1Z5rB) | 2:56 | 2024-06-11 | 2024-07-13 |
 | [all god's children](https://open.spotify.com/track/60rKXvSk2x9zKrkHvwrBmi) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 2:56 | 2024-07-12 |  |
 | [All Praise \- Live](https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [All Of Us \(All Praise\) \[Live\]](https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q) | 6:26 | 2024-06-11 |  |

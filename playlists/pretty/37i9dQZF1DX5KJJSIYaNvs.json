@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Asha Bhosle",
-  "num_followers": 103602,
+  "num_followers": 103628,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -419,34 +419,6 @@
     {
       "added_at": "2026-05-29 04:41:29",
       "album": {
-        "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
-        "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Priya Saraiya",
-          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
-        }
-      ],
-      "duration_ms": 216054,
-      "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
-      "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
-    },
-    {
-      "added_at": "2026-05-29 04:41:29",
-      "album": {
         "name": "Maskara (From \"Main Vaapas Aaunga\")",
         "url": "https://open.spotify.com/album/0C5hxl6tOmNgFSxX6nr14g"
       },
@@ -471,6 +443,34 @@
       "duration_ms": 233741,
       "name": "Maskara (From \"Main Vaapas Aaunga\")",
       "url": "https://open.spotify.com/track/1ayv6xv4m0zk0iyHuXfuJ4"
+    },
+    {
+      "added_at": "2026-05-29 04:41:29",
+      "album": {
+        "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
+        "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "duration_ms": 216054,
+      "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
+      "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
     },
     {
       "added_at": "2026-05-29 04:41:29",
@@ -535,6 +535,26 @@
     {
       "added_at": "2026-05-29 04:41:29",
       "album": {
+        "name": "Daira",
+        "url": "https://open.spotify.com/album/1ObrRiBiUCUSiVw8skwxcM"
+      },
+      "artists": [
+        {
+          "name": "Sanjeeta Bhattacharya",
+          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "duration_ms": 162105,
+      "name": "Daira",
+      "url": "https://open.spotify.com/track/41oD3vGW5Yuqf0klpbhKqa"
+    },
+    {
+      "added_at": "2026-05-29 04:41:29",
+      "album": {
         "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 255584,
       "name": "Chand Mera Dil - Shreya Ghoshal",
       "url": "https://open.spotify.com/track/5cSqQfaMvqzHGEaNwixO0E"
-    },
-    {
-      "added_at": "2026-05-29 04:41:29",
-      "album": {
-        "name": "Daira",
-        "url": "https://open.spotify.com/album/1ObrRiBiUCUSiVw8skwxcM"
-      },
-      "artists": [
-        {
-          "name": "Sanjeeta Bhattacharya",
-          "url": "https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc"
-        },
-        {
-          "name": "Ankur Tewari",
-          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
-        }
-      ],
-      "duration_ms": 162105,
-      "name": "Daira",
-      "url": "https://open.spotify.com/track/41oD3vGW5Yuqf0klpbhKqa"
     },
     {
       "added_at": "2026-05-29 04:41:29",
@@ -895,6 +895,30 @@
     {
       "added_at": "2026-05-29 04:41:29",
       "album": {
+        "name": "Na Lage Nazar",
+        "url": "https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Na Lage Nazar",
+      "url": "https://open.spotify.com/track/28U6ckPA3oRItIEzVbe3j7"
+    },
+    {
+      "added_at": "2026-05-29 04:41:29",
+      "album": {
         "name": "Dil Ki Giraft",
         "url": "https://open.spotify.com/album/4dSzooKWDRYIOxUMWfYOJN"
       },
@@ -931,26 +955,30 @@
     {
       "added_at": "2026-05-29 04:41:29",
       "album": {
-        "name": "Na Lage Nazar",
-        "url": "https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY"
+        "name": "Saanware",
+        "url": "https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm"
       },
       "artists": [
         {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+          "name": "Zikrr",
+          "url": "https://open.spotify.com/artist/4aEfgXDQuGLSDsyFRGt2DZ"
         },
         {
-          "name": "Aditya Bisht",
-          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+          "name": "Vidhi Tyagi",
+          "url": "https://open.spotify.com/artist/2WUJ2S53A6RZENNR2rbAzr"
         },
         {
-          "name": "Anurag Mishra",
-          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        },
+        {
+          "name": "DUSH",
+          "url": "https://open.spotify.com/artist/05abXfm9g4tZcaUqn301Xh"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Na Lage Nazar",
-      "url": "https://open.spotify.com/track/28U6ckPA3oRItIEzVbe3j7"
+      "duration_ms": 214400,
+      "name": "Saanware",
+      "url": "https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i"
     },
     {
       "added_at": "2026-05-29 04:41:29",
@@ -1007,34 +1035,6 @@
       "duration_ms": 212909,
       "name": "Ho Jaa",
       "url": "https://open.spotify.com/track/3Tc2kbehPIEDoZ7fBbGGQc"
-    },
-    {
-      "added_at": "2026-05-29 04:41:29",
-      "album": {
-        "name": "Saanware",
-        "url": "https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm"
-      },
-      "artists": [
-        {
-          "name": "Zikrr",
-          "url": "https://open.spotify.com/artist/4aEfgXDQuGLSDsyFRGt2DZ"
-        },
-        {
-          "name": "Vidhi Tyagi",
-          "url": "https://open.spotify.com/artist/2WUJ2S53A6RZENNR2rbAzr"
-        },
-        {
-          "name": "Arjit Srivastava",
-          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
-        },
-        {
-          "name": "DUSH",
-          "url": "https://open.spotify.com/artist/05abXfm9g4tZcaUqn301Xh"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Saanware",
-      "url": "https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i"
     },
     {
       "added_at": "2026-05-29 04:41:29",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-05-29 04:41:29",
       "album": {
+        "name": "Seven And a Half Dates",
+        "url": "https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Duniya",
+      "url": "https://open.spotify.com/track/0EkErlhqHxhJmEd5SZJvc1"
+    },
+    {
+      "added_at": "2026-05-29 04:41:29",
+      "album": {
         "name": "Barf",
         "url": "https://open.spotify.com/album/4zMKl5LLjrNQH7eyM7PJcf"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 370666,
       "name": "Barf",
       "url": "https://open.spotify.com/track/2sJl8wjjlM7aNyaJNdUAwJ"
-    },
-    {
-      "added_at": "2026-05-29 04:41:29",
-      "album": {
-        "name": "Ankhiyan Nigodi",
-        "url": "https://open.spotify.com/album/220OnLhJAzkYLGgDxKwePi"
-      },
-      "artists": [
-        {
-          "name": "Shalini Mamgain",
-          "url": "https://open.spotify.com/artist/1xUBrkqouhUTbiQbFwXUhY"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Ankhiyan Nigodi",
-      "url": "https://open.spotify.com/track/2gXCEGUg2zmQODJLfAVJmu"
     }
   ],
   "unique_name": "EQUAL India",

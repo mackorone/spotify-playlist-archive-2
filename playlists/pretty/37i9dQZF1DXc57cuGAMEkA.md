@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Ariana Grande, Anderson .Paak, aespa, Paul McCartney  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,050 likes - 89 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,052 likes - 89 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 26 | [ENDROLL](https://open.spotify.com/track/2fVtDYI3EEs8dJnInh5eAB) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI), [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D), [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [ENDROLL](https://open.spotify.com/album/6R5OcGMnPJD6GagP2GevfZ) | 3:34 |
 | 27 | [FOREVER](https://open.spotify.com/track/2aTUQADpOKj9SLOAyR13BI) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [FOREVER](https://open.spotify.com/album/0NyWqnpsyXVY69riQG8Lyf) | 4:43 |
 | 28 | [Gangstalker](https://open.spotify.com/track/6C0qKH9p82UgaubxH7R9nn) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Gangstalker](https://open.spotify.com/album/2kjHcBgQxQ0bvUlJVOz5g0) | 2:34 |
-| 29 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
+| 29 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
 | 30 | [Sad Girls](https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Sad Girls](https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V) | 2:48 |
 | 31 | [Torture of the Heart](https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Torture of the Heart](https://open.spotify.com/album/48NX8QQxqYKR5mK11evUBi) | 3:22 |
 | 32 | [Can You Be Mine](https://open.spotify.com/track/4cLzPpk2OsBSGB6Gj1fJBX) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Justin Blau](https://open.spotify.com/artist/3FuyWvCgY1bKY1shySrVNz), [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Can You Be Mine](https://open.spotify.com/album/3wubGME5AKWj1s1lZGlrCA) | 2:29 |

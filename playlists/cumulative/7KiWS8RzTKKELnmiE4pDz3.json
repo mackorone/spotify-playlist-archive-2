@@ -24397,6 +24397,24 @@
     },
     {
       "album": {
+        "name": "Lupe Fiasco's Food & Liquor",
+        "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235520,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/7JjIWXd0RopJ8wSMTIsfZr"
+    },
+    {
+      "album": {
         "name": "Kamikaze",
         "url": "https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb"
       },
@@ -27222,7 +27240,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 298000,
       "name": "Up North Trip",
       "url": "https://open.spotify.com/track/7KQvT4YuzcmyogWg7Gq4Z5"

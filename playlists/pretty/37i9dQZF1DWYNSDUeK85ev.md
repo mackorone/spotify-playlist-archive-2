@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSDUeK85ev.md) - [plain]
 
 > La playlist que prende la fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,733 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,727 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSDUeK85ev.md) - [plain]
 | 49 | [Que Te Vaya Bien](https://open.spotify.com/track/3sfgK7baHGsEAiZjTOtWrz) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Que Te Vaya Bien](https://open.spotify.com/album/06ZB9JOKRH3lwvjVLZBtZD) | 2:05 |
 | 50 | [Bésame](https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Bésame](https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6) | 2:22 |
 | 51 | [Baila Sola](https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:32 |
-| 52 | [Vete](https://open.spotify.com/track/5PBglLuGrJFWg7Z3mRqFYi) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 3:24 |
-| 53 | [Tranquila](https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Tranquila](https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj) | 3:03 |
+| 52 | [Tranquila](https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Tranquila](https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj) | 3:03 |
+| 53 | [Vete](https://open.spotify.com/track/5PBglLuGrJFWg7Z3mRqFYi) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 3:24 |
 | 54 | [Besame](https://open.spotify.com/track/7y8V5gDcZavd1ks95ktB49) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:52 |
 | 55 | [TRUCHO](https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [TRUCHO](https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK) | 2:24 |
 | 56 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNSDUeK85ev.md) - [plain]
 | 97 | [Veneno](https://open.spotify.com/track/6vfkShpWclG05YXZqwcjpU) | [Saint LL](https://open.spotify.com/artist/3jXlA6AEpnqfqsR2DPaHIw), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Veneno](https://open.spotify.com/album/58HBA04dwaoOM4MphbQVpq) | 2:21 |
 | 98 | [Quiero Verte Bailar \- DJ Alex Remix](https://open.spotify.com/track/0li8QfMCtq5hg6qB67E4U1) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [VI\-EM](https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI) | [Quiero Verte Bailar \(DJ Alex Remix\)](https://open.spotify.com/album/4oSOrj6okXZ4M4hOyLQbcf) | 2:51 |
 | 99 | [Este o Este \- Guaracha](https://open.spotify.com/track/2uSeA4d12mQpsFxMHbnVxz) | [Chichee](https://open.spotify.com/artist/2ErncbMR6asOMKhjrUdmT3), [DJ Cuba](https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE) | [Este o Este \(Guaracha\)](https://open.spotify.com/album/09zAdSWAEqa8NoyQmO6xMa) | 1:57 |
-| 100 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 |
+| 100 | [La Curiosidad](https://open.spotify.com/track/2WRMzDyCVSIcT3DUTFYQC7) | [Tu Papa](https://open.spotify.com/artist/7ha2O24d2RixnRx9whTRuW), [Marito Davila](https://open.spotify.com/artist/1YCxEcWL2M3zamrQzFOsCJ) | [La Curiosidad](https://open.spotify.com/album/0EKLCjwX92EQwBBrRrPnfg) | 2:45 |
 
 Snapshot ID: `AAAAAB26PHfmquLwITvRuTQfZQ/U5hVM`

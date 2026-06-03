@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,467 likes - 75 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,501 likes - 75 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 57 | [Shingara](https://open.spotify.com/track/06uh05Zu2UpLjnH6NydLUL) | [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B), [3Form](https://open.spotify.com/artist/6z14QEpwhH5l5jpNypfTNs), [Psyfeature](https://open.spotify.com/artist/36n64MsjDNcijIzOojYw2F) | [Shingara](https://open.spotify.com/album/45ykr0hh1ZI3hhyBMLNZWs) | 5:17 |
 | 58 | [Key To Happiness](https://open.spotify.com/track/5gprlslyCZD2zaFRwbu22t) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [All In One](https://open.spotify.com/artist/7MXDSgITltdRMyBikZiaEx), [Dantra](https://open.spotify.com/artist/7jReU323puI26T1mx4ryaG) | [Key To Happiness](https://open.spotify.com/album/2JOtRwO9GnCSK0lYnuleOw) | 5:55 |
 | 59 | [Nova Sinfonia](https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe) | [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6), [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Nova Sinfonia](https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ) | 4:28 |
-| 60 | [Psychosis](https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE) | [Kore\-G](https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7) | [Psychosis](https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH) | 3:26 |
+| 60 | [Ancient Aum](https://open.spotify.com/track/6n2OgfyvY0MuwFphEywfgz) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD), [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4) | [Ancient Aum](https://open.spotify.com/album/7mXrF1il8uoZBOPpbbfvJ5) | 8:00 |
 | 61 | [Dont Blame Me](https://open.spotify.com/track/0xhptxNOQnCsbbBJKPQmCH) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv) | [Dont Blame Me](https://open.spotify.com/album/2hX9BljyOUiFR0whzVaNBS) | 5:10 |
-| 62 | [Ancient Aum](https://open.spotify.com/track/6n2OgfyvY0MuwFphEywfgz) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD), [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4) | [Ancient Aum](https://open.spotify.com/album/7mXrF1il8uoZBOPpbbfvJ5) | 8:00 |
+| 62 | [Psychosis](https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE) | [Kore\-G](https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7) | [Psychosis](https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH) | 3:26 |
 | 63 | [Antiwar \- NoFace Remix](https://open.spotify.com/track/7s0ouUua8cX2Kf3fV29RLn) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Krunch](https://open.spotify.com/artist/630OCzczUeeccCj9DjhQWn), [NoFace](https://open.spotify.com/artist/6PAtGHecrbY8xa7i2ct5Fs) | [Antiwar \(Noface Remix\)](https://open.spotify.com/album/1LFQvmgubwxEuWePb4Nc9r) | 8:16 |
 | 64 | [Dusk Till Dawn](https://open.spotify.com/track/76y17k5O5MZ2YipoDtIRN7) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Stryker](https://open.spotify.com/artist/5sDpkzowsJkqkTLzw2r8eF) | [Dusk Till Dawn](https://open.spotify.com/album/52tsXG23F7He5OUMX0wm2r) | 9:20 |
 | 65 | [STAY \- HEDEGAARD Remix](https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [STAY \(HEDEGAARD Remix\)](https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9) | 2:27 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 70 | [Echoes of Euphoria](https://open.spotify.com/track/4FsdFmFeaG94AMfUBuotrU) | [Monod](https://open.spotify.com/artist/0DTLDYZ7bYC0YAF1xV5VLO) | [Echoes of Euphoria](https://open.spotify.com/album/2ua5it6odgz5gpHn3YokMF) | 5:02 |
 | 71 | [You Wanna Stay](https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Shroomeez](https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ) | 6:30 |
 | 72 | [Tonight](https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Bastize](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF) | [Tonight](https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh) | 2:29 |
-| 73 | [Don't Give Up](https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Zahar](https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA) | [Don't Give Up](https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t) | 5:35 |
-| 74 | [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 |
+| 73 | [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 |
+| 74 | [Don't Give Up](https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Zahar](https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA) | [Don't Give Up](https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t) | 5:35 |
 | 75 | [Extra\-Terra](https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX) | [GRAViiTY](https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY) | [Extra\-Terra](https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4) | 3:51 |
 
 Snapshot ID: `AAAAAH7dCd2SebULQLFq6jRYlXz09k/M`

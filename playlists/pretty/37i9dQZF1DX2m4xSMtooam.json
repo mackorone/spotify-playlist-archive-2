@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of bossa nova.",
-  "num_followers": 345295,
+  "num_followers": 345529,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
+        "name": "A heart in amber",
+        "url": "https://open.spotify.com/album/4LRDAV59yKImvrvSaUQcWf"
+      },
+      "artists": [
+        {
+          "name": "Xavier Mendoza",
+          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
+        }
+      ],
+      "duration_ms": 229384,
+      "name": "A heart in amber",
+      "url": "https://open.spotify.com/track/1TyArzdihmZB650pUI7fxV"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
         "name": "Luiz Bonf\u00e1 Plays And Sings Bossa Nova",
         "url": "https://open.spotify.com/album/1z1zoBT74ap8RtuyBD8oTb"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 200426,
       "name": "Bossa Nova Cha Cha",
       "url": "https://open.spotify.com/track/4kCy1U3iRy8nnrkO8mr9Ix"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
-        "name": "A heart in amber",
-        "url": "https://open.spotify.com/album/4LRDAV59yKImvrvSaUQcWf"
-      },
-      "artists": [
-        {
-          "name": "Xavier Mendoza",
-          "url": "https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73"
-        }
-      ],
-      "duration_ms": 229384,
-      "name": "A heart in amber",
-      "url": "https://open.spotify.com/track/1TyArzdihmZB650pUI7fxV"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "day by day",
-        "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
-      },
-      "artists": [
-        {
-          "name": "Luca Mundaca",
-          "url": "https://open.spotify.com/artist/7u3L4UZO9IXBElwdUyvAxl"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Day by day",
-      "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Cosme Velho",
         "url": "https://open.spotify.com/album/1CiCakkArtq2iGnRBGcDv0"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 173943,
       "name": "Cosme Velho",
       "url": "https://open.spotify.com/track/4t1NtFuhpXCjdKFsNTfNdJ"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "day by day",
+        "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
+      },
+      "artists": [
+        {
+          "name": "Luca Mundaca",
+          "url": "https://open.spotify.com/artist/7u3L4UZO9IXBElwdUyvAxl"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Day by day",
+      "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -615,26 +615,18 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "The Girl From Ipanema - The Bossa Nova Years",
-        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
+        "name": "Liljeholmsviken",
+        "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
         }
       ],
-      "duration_ms": 304826,
-      "name": "Para Machuchar Meu Coracao",
-      "url": "https://open.spotify.com/track/5jBv1j7ISp1ja8e1N2oSmt"
+      "duration_ms": 262408,
+      "name": "Liljeholmsviken",
+      "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -655,18 +647,26 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Liljeholmsviken",
-        "url": "https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe"
+        "name": "The Girl From Ipanema - The Bossa Nova Years",
+        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
       "artists": [
         {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 262408,
-      "name": "Liljeholmsviken",
-      "url": "https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4"
+      "duration_ms": 304826,
+      "name": "Para Machuchar Meu Coracao",
+      "url": "https://open.spotify.com/track/5jBv1j7ISp1ja8e1N2oSmt"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "The Look Of Love",
-        "url": "https://open.spotify.com/album/3a7bqpNydrqKIXM9ViTxoH"
-      },
-      "artists": [
-        {
-          "name": "Midtown Players",
-          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
-        }
-      ],
-      "duration_ms": 133193,
-      "name": "The Look Of Love",
-      "url": "https://open.spotify.com/track/1DGRTR2cE0Sr9eTCeCztZY"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "La Boca",
         "url": "https://open.spotify.com/album/1KOMNG9vql5kg6q7IbEWe5"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 244874,
       "name": "La Boca",
       "url": "https://open.spotify.com/track/4bsNYygNqXlMyIznr6JMOq"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/3a7bqpNydrqKIXM9ViTxoH"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "duration_ms": 133193,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/1DGRTR2cE0Sr9eTCeCztZY"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -783,6 +783,22 @@
       "duration_ms": 293280,
       "name": "I Wish I Knew How It Would Feel to be Free - Studio Rio Version",
       "url": "https://open.spotify.com/track/3k1t0MMGMXf0C3I5YSyMwu"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Meu Tempo",
+        "url": "https://open.spotify.com/album/3g1loM31EWoeFhHmx1i10a"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "duration_ms": 189394,
+      "name": "Meu Tempo",
+      "url": "https://open.spotify.com/track/0ikmGotXZiA8O3VQHNj0zw"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -835,22 +851,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Letra & M\u00fasica Ary Barroso \u2013 Rosa Passos e Lula Galv\u00e3o",
-        "url": "https://open.spotify.com/album/24mfpDgch1Xr8qzJuqUi1Q"
-      },
-      "artists": [
-        {
-          "name": "Rosa Passos",
-          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
-        }
-      ],
-      "duration_ms": 376440,
-      "name": "Pra Machucar Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5uhAtnaJcQcPuR8bHU6TKe"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Vamos l\u00e1",
         "url": "https://open.spotify.com/album/3vHSQw8zTsTt6OTuixhgr1"
       },
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Meu Tempo",
-        "url": "https://open.spotify.com/album/3g1loM31EWoeFhHmx1i10a"
+        "name": "Letra & M\u00fasica Ary Barroso \u2013 Rosa Passos e Lula Galv\u00e3o",
+        "url": "https://open.spotify.com/album/24mfpDgch1Xr8qzJuqUi1Q"
       },
       "artists": [
         {
-          "name": "Tom Rogers Band",
-          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+          "name": "Rosa Passos",
+          "url": "https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP"
         }
       ],
-      "duration_ms": 189394,
-      "name": "Meu Tempo",
-      "url": "https://open.spotify.com/track/0ikmGotXZiA8O3VQHNj0zw"
+      "duration_ms": 376440,
+      "name": "Pra Machucar Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5uhAtnaJcQcPuR8bHU6TKe"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Quiet Nights Of Quiet Stars (Corcovado)",
-        "url": "https://open.spotify.com/album/4zKckB1AAPKpxH4OzzK3uA"
-      },
-      "artists": [
-        {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
-        }
-      ],
-      "duration_ms": 164645,
-      "name": "Quiet Nights Of Quiet Stars (Corcovado)",
-      "url": "https://open.spotify.com/track/2ldWv3o9DglHPd8Ye4HjaL"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Verano",
         "url": "https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 172162,
       "name": "Verano",
       "url": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Quiet Nights Of Quiet Stars (Corcovado)",
+        "url": "https://open.spotify.com/album/4zKckB1AAPKpxH4OzzK3uA"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "duration_ms": 164645,
+      "name": "Quiet Nights Of Quiet Stars (Corcovado)",
+      "url": "https://open.spotify.com/track/2ldWv3o9DglHPd8Ye4HjaL"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Fim do ver\u00e3o",
-        "url": "https://open.spotify.com/album/5sofxaOfF8vLaLAvn9hlzN"
-      },
-      "artists": [
-        {
-          "name": "da Su\u00e9cia",
-          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
-        }
-      ],
-      "duration_ms": 230591,
-      "name": "Fim do ver\u00e3o",
-      "url": "https://open.spotify.com/track/31wVCqF1fJTpgLPraYmQPg"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Amorosa",
         "url": "https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 267666,
       "name": "S'Wonderful",
       "url": "https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Fim do ver\u00e3o",
+        "url": "https://open.spotify.com/album/5sofxaOfF8vLaLAvn9hlzN"
+      },
+      "artists": [
+        {
+          "name": "da Su\u00e9cia",
+          "url": "https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse"
+        }
+      ],
+      "duration_ms": 230591,
+      "name": "Fim do ver\u00e3o",
+      "url": "https://open.spotify.com/track/31wVCqF1fJTpgLPraYmQPg"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Praia de Ipanema",
-        "url": "https://open.spotify.com/album/17uYmXW9flfdXp0ZXbOuj1"
-      },
-      "artists": [
-        {
-          "name": "Jonah Anderson",
-          "url": "https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa"
-        }
-      ],
-      "duration_ms": 241124,
-      "name": "Praia de Ipanema",
-      "url": "https://open.spotify.com/track/18aHllH8R39rK7WrfOUROn"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Letters in the Sand",
         "url": "https://open.spotify.com/album/1OPc6UzxatVaPBoTgzqJlv"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 259670,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1Lp9cOpGyHm02KXRt4nr9G"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Praia de Ipanema",
+        "url": "https://open.spotify.com/album/17uYmXW9flfdXp0ZXbOuj1"
+      },
+      "artists": [
+        {
+          "name": "Jonah Anderson",
+          "url": "https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa"
+        }
+      ],
+      "duration_ms": 241124,
+      "name": "Praia de Ipanema",
+      "url": "https://open.spotify.com/track/18aHllH8R39rK7WrfOUROn"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
+        "name": "Sinal Vermelho",
+        "url": "https://open.spotify.com/album/7qESWTcIuiswvipqVknDEF"
+      },
+      "artists": [
+        {
+          "name": "Bossa Players",
+          "url": "https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm"
+        }
+      ],
+      "duration_ms": 267374,
+      "name": "Sinal Vermelho",
+      "url": "https://open.spotify.com/track/3jy9B0kZMpIuTCU8wIn5dC"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
         "name": "Maneiro",
         "url": "https://open.spotify.com/album/2sYgZHT6yCVpbu9omNzrEt"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 217194,
       "name": "I Mean To Say",
       "url": "https://open.spotify.com/track/7w2wEyWPyUg7NhB2YARJB0"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
-        "name": "Sinal Vermelho",
-        "url": "https://open.spotify.com/album/7qESWTcIuiswvipqVknDEF"
-      },
-      "artists": [
-        {
-          "name": "Bossa Players",
-          "url": "https://open.spotify.com/artist/5apIRYZ7s0gTvCb4qSpGHm"
-        }
-      ],
-      "duration_ms": 267374,
-      "name": "Sinal Vermelho",
-      "url": "https://open.spotify.com/track/3jy9B0kZMpIuTCU8wIn5dC"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
+        "name": "You Fascinate Me So",
+        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
+      },
+      "artists": [
+        {
+          "name": "Pablo Ilanda Trio",
+          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
+        }
+      ],
+      "duration_ms": 239636,
+      "name": "You Fascinate Me So",
+      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
         "name": "O Pato",
         "url": "https://open.spotify.com/album/7s6RlHdAISgk1hgexQa16Q"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 193253,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/5ZhOwbrUtDDct1EwPQ5OsA"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
-        "name": "You Fascinate Me So",
-        "url": "https://open.spotify.com/album/1As1sRYOnFneZroDvzWGlW"
-      },
-      "artists": [
-        {
-          "name": "Pablo Ilanda Trio",
-          "url": "https://open.spotify.com/artist/0LPXBwpZDAUDpz9Jqo3aON"
-        }
-      ],
-      "duration_ms": 239636,
-      "name": "You Fascinate Me So",
-      "url": "https://open.spotify.com/track/44HB2tLJiuXulTaZanYAEU"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
+        "name": "Ocean Blue",
+        "url": "https://open.spotify.com/album/5wkt2SIKKf9I0BE0NNa4tY"
+      },
+      "artists": [
+        {
+          "name": "Juan Mateo",
+          "url": "https://open.spotify.com/artist/3qkSFIuoiKRSlBcdk0RuxG"
+        }
+      ],
+      "duration_ms": 131294,
+      "name": "Ocean Blue",
+      "url": "https://open.spotify.com/track/6iJ8EsfYMusW2czT8LIrV9"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
         "name": "The Milky Way",
         "url": "https://open.spotify.com/album/4eASKrdPU29nUHbgzLsphQ"
       },
@@ -1635,18 +1651,18 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Ocean Blue",
-        "url": "https://open.spotify.com/album/5wkt2SIKKf9I0BE0NNa4tY"
+        "name": "That\u2019s your heart",
+        "url": "https://open.spotify.com/album/5VKkml79oNScaoaXvSJRXu"
       },
       "artists": [
         {
-          "name": "Juan Mateo",
-          "url": "https://open.spotify.com/artist/3qkSFIuoiKRSlBcdk0RuxG"
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
         }
       ],
-      "duration_ms": 131294,
-      "name": "Ocean Blue",
-      "url": "https://open.spotify.com/track/6iJ8EsfYMusW2czT8LIrV9"
+      "duration_ms": 195830,
+      "name": "That\u2019s your heart",
+      "url": "https://open.spotify.com/track/78VDXrW8p9NtJnJA6pU1op"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1671,38 +1687,6 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
-        "name": "Vanguarda",
-        "url": "https://open.spotify.com/album/2ZPNkYuaywFWEW4ccOcB9i"
-      },
-      "artists": [
-        {
-          "name": "Marcio Philomena",
-          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
-        }
-      ],
-      "duration_ms": 251267,
-      "name": "Vanguarda",
-      "url": "https://open.spotify.com/track/513avTZFJnIDwjFIughYK4"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
-        "name": "That\u2019s your heart",
-        "url": "https://open.spotify.com/album/5VKkml79oNScaoaXvSJRXu"
-      },
-      "artists": [
-        {
-          "name": "Leandro Amor Trio",
-          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
-        }
-      ],
-      "duration_ms": 195830,
-      "name": "That\u2019s your heart",
-      "url": "https://open.spotify.com/track/78VDXrW8p9NtJnJA6pU1op"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
         "name": "Bel\u00e9m",
         "url": "https://open.spotify.com/album/3I0E51aqvTUvvTIoDsgW5H"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 173507,
       "name": "Bel\u00e9m",
       "url": "https://open.spotify.com/track/44xJSi2r0VcAAGIkuVeeow"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
+        "name": "Vanguarda",
+        "url": "https://open.spotify.com/album/2ZPNkYuaywFWEW4ccOcB9i"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "duration_ms": 251267,
+      "name": "Vanguarda",
+      "url": "https://open.spotify.com/track/513avTZFJnIDwjFIughYK4"
     },
     {
       "added_at": "2026-05-08 04:00:36",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2026-05-08 04:00:36",
       "album": {
+        "name": "A pequena m\u00fasica",
+        "url": "https://open.spotify.com/album/5IQVpYhoM7diLUUeqCYEPc"
+      },
+      "artists": [
+        {
+          "name": "Leandro Amor Trio",
+          "url": "https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ"
+        }
+      ],
+      "duration_ms": 195434,
+      "name": "A pequena m\u00fasica",
+      "url": "https://open.spotify.com/track/4A5PStIm58qTUAhJZbGWEE"
+    },
+    {
+      "added_at": "2026-05-08 04:00:36",
+      "album": {
         "name": "Na Estrada",
         "url": "https://open.spotify.com/album/2veVeVxgEmAxrQPuXoAIgA"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 219051,
       "name": "Na Estrada",
       "url": "https://open.spotify.com/track/6e8gERUsLOvNtnPniqAOq9"
-    },
-    {
-      "added_at": "2026-05-08 04:00:36",
-      "album": {
-        "name": "The Valentine Sessions",
-        "url": "https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c"
-      },
-      "artists": [
-        {
-          "name": "Matt Rollings",
-          "url": "https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "Small Bossa",
-      "url": "https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2"
     }
   ],
   "unique_name": "Bossa Chill",

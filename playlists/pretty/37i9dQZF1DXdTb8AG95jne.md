@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 안예은 \(Ahn Ye Eun\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,362 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,343 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 35 | [Beautiful, even now](https://open.spotify.com/track/4RjZyA4jkR5q5WiZ3FNFxt) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [beautiful, even now](https://open.spotify.com/album/1WdAlorZ1ggWFL5tGqBQ1V) | 4:42 |
 | 36 | [GAME OVER ?](https://open.spotify.com/track/3Ce7m66BjXf97IDrvUVGbP) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [LOVE&HATE](https://open.spotify.com/album/5lOdOxNDjxelMZ7PJSZB6G) | 3:17 |
 | 37 | [Flowering](https://open.spotify.com/track/0xy1eGLBSa6SFxyEzg9gtn) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [clover \#4](https://open.spotify.com/album/25QGxPyc0aQyLlace8HKAQ) | 3:04 |
-| 38 | [Moving on](https://open.spotify.com/track/5fbz2WBSO0X0UKn9ruqFrM) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [Moving on](https://open.spotify.com/album/4T7aYpnDgZAOOmQ7Ibqfck) | 4:05 |
+| 38 | [이사를 가요](https://open.spotify.com/track/5fbz2WBSO0X0UKn9ruqFrM) | [615](https://open.spotify.com/artist/1R2KUW45CEHkpv8fAgPADp) | [이사를 가요](https://open.spotify.com/album/4T7aYpnDgZAOOmQ7Ibqfck) | 4:05 |
 | 39 | [Like a Bird, Like a Fish](https://open.spotify.com/track/4xpfEYzoPiUC5nO5swt9bk) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Like a Bird, Like a Fish](https://open.spotify.com/album/2LSXBO9G6hE7ZYrnOCATX7) | 3:36 |
 | 40 | [Bruised](https://open.spotify.com/track/24suBl4SGNDcRF4quflSFo) | [roon](https://open.spotify.com/artist/1Wq5gAIzVM5HKXv2j94j2j) | [A Blend of Scars and Healing](https://open.spotify.com/album/6lZym1hPod0mQHKoE6cJlQ) | 3:15 |
 | 41 | [This Life Feels Ruined](https://open.spotify.com/track/7e4kQ0rFWMazzPRHaib9qq) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [This Life Feels Ruined](https://open.spotify.com/album/3xTIKhAew5hPWXFxlc87o2) | 2:48 |

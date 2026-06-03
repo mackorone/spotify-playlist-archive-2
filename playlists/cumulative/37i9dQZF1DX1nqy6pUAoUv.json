@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "One Night Lonely (Live)",
+        "url": "https://open.spotify.com/album/5EKD30jtEHxZypuRQDUA7P"
+      },
+      "artists": [
+        {
+          "name": "Mary Chapin Carpenter",
+          "url": "https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr"
+        }
+      ],
+      "date_added": "2025-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287480,
+      "name": "Chasing What's Already Gone - Live",
+      "url": "https://open.spotify.com/track/4QfBWnHMmnwAer7cztxgvb"
+    },
+    {
+      "album": {
         "name": "Cherokee Rose",
         "url": "https://open.spotify.com/album/3nsemmnLT77WUfln6krRPG"
       },
@@ -4702,7 +4720,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 163280,
       "name": "Worried Mind",
       "url": "https://open.spotify.com/track/4baCiANTGHL13fLcIhOEez"

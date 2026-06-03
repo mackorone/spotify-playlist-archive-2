@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1554577,
+  "num_followers": 1554693,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "In a Darkened Room",
+      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "In The Heart Of The Young",
         "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 354640,
       "name": "Don't Know What You Got (Till It's Gone)",
       "url": "https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Slave to the Grind",
-        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "In a Darkened Room",
-      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "Worlds Collide",
+        "url": "https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+        }
+      ],
+      "duration_ms": 237920,
+      "name": "I Don't Care (feat. Adam Gontier)",
+      "url": "https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "Get A Grip (Reissue - Remaster)",
         "url": "https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq"
       },
@@ -1631,22 +1651,6 @@
       "duration_ms": 271173,
       "name": "OHNE DICH",
       "url": "https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "The Time of the Oath",
-        "url": "https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4"
-      },
-      "artists": [
-        {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
-        }
-      ],
-      "duration_ms": 234533,
-      "name": "Forever and One (Neverland)",
-      "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
     }
   ],
   "unique_name": "Heavy Ballads",

@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 28286,
+  "num_followers": 28310,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAACtQq8QT6X2SjShRT0FYY27",
+  "snapshot_id": "ahzLgAAAAABcl73CE49T74SADxveoCda",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invictus (Means) Unconquered",
-        "url": "https://open.spotify.com/album/7eR0fHwS4IHEBpos8ESiZb"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 179440,
-      "name": "London Homesick Blues",
-      "url": "https://open.spotify.com/track/7DTNuvqJQPDNHKv9skEpIk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Divorced",
         "url": "https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 147973,
       "name": "Blue Grass Morning",
       "url": "https://open.spotify.com/track/0DswKH36OANJJuRNlDXMLl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invictus (Means) Unconquered",
+        "url": "https://open.spotify.com/album/7eR0fHwS4IHEBpos8ESiZb"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 179440,
+      "name": "London Homesick Blues",
+      "url": "https://open.spotify.com/track/7DTNuvqJQPDNHKv9skEpIk"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castles in the Sand",
-        "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once Upon a Rhyme",
         "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 182026,
       "name": "Sweet Vibrations (Some Folks Call It Love)",
       "url": "https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castles in the Sand",
+        "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Biggest Hits",
-        "url": "https://open.spotify.com/album/6URcNyTkcEsXNSVKCqNTl1"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 161933,
-      "name": "Hank Williams Junior-Junior",
-      "url": "https://open.spotify.com/track/0QyYeOUHzncpaWhP7ESx1p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Human Emotions",
         "url": "https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 268120,
       "name": "Human Emotions",
       "url": "https://open.spotify.com/track/72bCNd02AUSuuR1YICoswh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Biggest Hits",
+        "url": "https://open.spotify.com/album/6URcNyTkcEsXNSVKCqNTl1"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Hank Williams Junior-Junior",
+      "url": "https://open.spotify.com/track/0QyYeOUHzncpaWhP7ESx1p"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Gloria Groove",
-  "num_followers": 290892,
+  "num_followers": 290870,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,30 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
+        "name": "Sei L\u00e1",
+        "url": "https://open.spotify.com/album/0RENWCeNQeexSBoS9rzxjG"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "duration_ms": 141935,
+      "name": "Sei L\u00e1",
+      "url": "https://open.spotify.com/track/71Vau26vLY4Vl6Z4ajFKW0"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
         "name": "Tons de Marrom",
         "url": "https://open.spotify.com/album/2Ws5rlczmp2G60lDPJyrsZ"
       },
@@ -179,30 +203,6 @@
       "duration_ms": 150000,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
-        "name": "Sei L\u00e1",
-        "url": "https://open.spotify.com/album/0RENWCeNQeexSBoS9rzxjG"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        }
-      ],
-      "duration_ms": 141935,
-      "name": "Sei L\u00e1",
-      "url": "https://open.spotify.com/track/71Vau26vLY4Vl6Z4ajFKW0"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -271,6 +271,30 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
+        "name": "N\u00e3o Sei Lidar",
+        "url": "https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        },
+        {
+          "name": "Rapha Ren\u00f3",
+          "url": "https://open.spotify.com/artist/3ppCUye5DRGnRwevs13CAh"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "N\u00e3o Sei Lidar",
+      "url": "https://open.spotify.com/track/7JCZoa3kdK7D5AJAYjiut8"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
         "name": "Beira Mar",
         "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
       },
@@ -307,30 +331,6 @@
       "duration_ms": 183265,
       "name": "Teu Sorriso",
       "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
-        "name": "N\u00e3o Sei Lidar",
-        "url": "https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        },
-        {
-          "name": "Rapha Ren\u00f3",
-          "url": "https://open.spotify.com/artist/3ppCUye5DRGnRwevs13CAh"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "N\u00e3o Sei Lidar",
-      "url": "https://open.spotify.com/track/7JCZoa3kdK7D5AJAYjiut8"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
         "name": "Azul Piscina",
         "url": "https://open.spotify.com/album/6UmMDlYMx0WJJEN615YQbW"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 199812,
       "name": "Azul Piscina",
       "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -512,7 +512,7 @@
           "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
         },
         {
-          "name": "Budah",
+          "name": "BUDAH",
           "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
         }
       ],
@@ -1055,6 +1055,30 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
+        "name": "PAZ",
+        "url": "https://open.spotify.com/album/0EERtu0Qbd2RFSiNp3HGdN"
+      },
+      "artists": [
+        {
+          "name": "Pez\u00e3o",
+          "url": "https://open.spotify.com/artist/2UiLeUnwb6HIGBjyp6BK8J"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "Gu$t",
+          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
+        }
+      ],
+      "duration_ms": 239557,
+      "name": "PAZ",
+      "url": "https://open.spotify.com/track/3d030LtkMGUreX1dk56goW"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/3jGBkZE4D2zbTYeWSny4RI"
       },
@@ -1079,30 +1103,6 @@
       "duration_ms": 200930,
       "name": "Nada",
       "url": "https://open.spotify.com/track/7Lum2Q2VG0Paq9adSxNTSi"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
-        "name": "PAZ",
-        "url": "https://open.spotify.com/album/0EERtu0Qbd2RFSiNp3HGdN"
-      },
-      "artists": [
-        {
-          "name": "Pez\u00e3o",
-          "url": "https://open.spotify.com/artist/2UiLeUnwb6HIGBjyp6BK8J"
-        },
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "Gu$t",
-          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
-        }
-      ],
-      "duration_ms": 239557,
-      "name": "PAZ",
-      "url": "https://open.spotify.com/track/3d030LtkMGUreX1dk56goW"
     },
     {
       "added_at": "2026-05-29 03:00:26",
@@ -1239,30 +1239,6 @@
     {
       "added_at": "2026-05-29 03:00:26",
       "album": {
-        "name": "Quem Vai Ser?",
-        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Lopes",
-          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 157918,
-      "name": "Quem Vai Ser?",
-      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
-    },
-    {
-      "added_at": "2026-05-29 03:00:26",
-      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1283,6 +1259,30 @@
       "duration_ms": 182500,
       "name": "Jeito Doce",
       "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
+    },
+    {
+      "added_at": "2026-05-29 03:00:26",
+      "album": {
+        "name": "Quem Vai Ser?",
+        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Lopes",
+          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 157918,
+      "name": "Quem Vai Ser?",
+      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
     },
     {
       "added_at": "2026-05-29 03:00:26",

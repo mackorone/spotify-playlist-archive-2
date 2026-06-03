@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2212380,
+  "num_followers": 2212845,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "No Ordinary Man",
         "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 181973,
       "name": "Watermelon Crawl",
       "url": "https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Lonely Grill",
+        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
+        "name": "Love Can Build A Bridge",
+        "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 322706,
+      "name": "Love Can Build A Bridge",
+      "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
         "name": "Reba McEntire's Greatest Hits, Volume Two",
         "url": "https://open.spotify.com/album/3NwDZMQupPwdNaLT9js5sR"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 260399,
       "name": "Does He Love You",
       "url": "https://open.spotify.com/track/0wFQnci5YCcwbKAWNBzqiA"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
-        "name": "Love Can Build A Bridge",
-        "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 322706,
-      "name": "Love Can Build A Bridge",
-      "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2231,18 +2231,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Del Rio, Tx 1959",
-        "url": "https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe"
+        "name": "Life's So Funny",
+        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
       },
       "artists": [
         {
-          "name": "Radney Foster",
-          "url": "https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 210746,
-      "name": "Nobody Wins",
-      "url": "https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS"
+      "duration_ms": 237226,
+      "name": "Bigger Than the Beatles",
+      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
+        "name": "Del Rio, Tx 1959",
+        "url": "https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe"
+      },
+      "artists": [
+        {
+          "name": "Radney Foster",
+          "url": "https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW"
+        }
+      ],
+      "duration_ms": 210746,
+      "name": "Nobody Wins",
+      "url": "https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
         "name": "Young Man",
         "url": "https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH"
       },
@@ -2279,18 +2295,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Life's So Funny",
-        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
+        "name": "Tattoos & Scars",
+        "url": "https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5"
       },
       "artists": [
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
         }
       ],
-      "duration_ms": 237226,
-      "name": "Bigger Than the Beatles",
-      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
+      "duration_ms": 192693,
+      "name": "Hillbilly Shoes",
+      "url": "https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2307,22 +2323,6 @@
       "duration_ms": 210200,
       "name": "Down To My Last Teardrop",
       "url": "https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
-        "name": "Tattoos & Scars",
-        "url": "https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 192693,
-      "name": "Hillbilly Shoes",
-      "url": "https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ"
     },
     {
       "added_at": "2026-02-11 22:52:29",

@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Camila Buch",
-  "num_followers": 193372,
+  "num_followers": 193375,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Laberintos Entre Aristas Y Dialectos",
-        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Seguir Viviendo Sin Tu Amor - Acustico",
-      "url": "https://open.spotify.com/track/5HnzCCUCScRKGrWAAqiqtL"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "Canciones Elegidas 93-04",
         "url": "https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 149880,
       "name": "Tu Locura",
       "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Laberintos Entre Aristas Y Dialectos",
+        "url": "https://open.spotify.com/album/7C7NKOfiox4LXLgXwHYlCz"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Seguir Viviendo Sin Tu Amor - Acustico",
+      "url": "https://open.spotify.com/track/5HnzCCUCScRKGrWAAqiqtL"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -543,18 +543,18 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Loquero Viejo",
-        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
+        "name": "Polos (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC"
       },
       "artists": [
         {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+          "name": "Ella Es Tan Cargosa",
+          "url": "https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS"
         }
       ],
-      "duration_ms": 211460,
-      "name": "Loquero Viejo",
-      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
+      "duration_ms": 271229,
+      "name": "En Redondel - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -575,18 +575,18 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Polos (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC"
+        "name": "Loquero Viejo",
+        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
       },
       "artists": [
         {
-          "name": "Ella Es Tan Cargosa",
-          "url": "https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS"
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
         }
       ],
-      "duration_ms": 271229,
-      "name": "En Redondel - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl"
+      "duration_ms": 211460,
+      "name": "Loquero Viejo",
+      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
+        "name": "Coraz\u00f3n Ac\u00fastico Vol. I - En Vivo desde Studio A B48 (Barcelona)",
+        "url": "https://open.spotify.com/album/4apIADZrmStEazHm6ffa6w"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "Alfonsina y El Mar - En Vivo",
+      "url": "https://open.spotify.com/track/2EoqsWW9VQ7LVMizaY5ZGG"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
         "name": "Las Plantas Crecen",
         "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 242784,
       "name": "Acuarela",
       "url": "https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
-        "name": "Coraz\u00f3n Ac\u00fastico Vol. I - En Vivo desde Studio A B48 (Barcelona)",
-        "url": "https://open.spotify.com/album/4apIADZrmStEazHm6ffa6w"
-      },
-      "artists": [
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 294250,
-      "name": "Alfonsina y El Mar - En Vivo",
-      "url": "https://open.spotify.com/track/2EoqsWW9VQ7LVMizaY5ZGG"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Seminare",
-        "url": "https://open.spotify.com/album/6IB3zMfjgorwaZdvyeGxiI"
-      },
-      "artists": [
-        {
-          "name": "David Leb\u00f3n",
-          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
-        }
-      ],
-      "duration_ms": 204540,
-      "name": "Seminare",
-      "url": "https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Seminare",
+        "url": "https://open.spotify.com/album/6IB3zMfjgorwaZdvyeGxiI"
+      },
+      "artists": [
+        {
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+        }
+      ],
+      "duration_ms": 204540,
+      "name": "Seminare",
+      "url": "https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B"
     },
     {
       "added_at": "2026-05-04 15:21:51",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-05-04 15:21:51",
       "album": {
-        "name": "Ninja Mental - Unplugged MTV",
-        "url": "https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c"
-      },
-      "artists": [
-        {
-          "name": "Illya Kuryaki & The Valderramas",
-          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Hermoza From Heaven",
-      "url": "https://open.spotify.com/track/3LW57dH9v1gZO7HC3Bzs09"
-    },
-    {
-      "added_at": "2026-05-04 15:21:51",
-      "album": {
         "name": "enero (versi\u00f3n ac\u00fastica)",
         "url": "https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 206143,
       "name": "enero - versi\u00f3n ac\u00fastica",
       "url": "https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr"
+    },
+    {
+      "added_at": "2026-05-04 15:21:51",
+      "album": {
+        "name": "Ninja Mental - Unplugged MTV",
+        "url": "https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c"
+      },
+      "artists": [
+        {
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Hermoza From Heaven",
+      "url": "https://open.spotify.com/track/3LW57dH9v1gZO7HC3Bzs09"
     },
     {
       "added_at": "2026-05-04 15:21:51",

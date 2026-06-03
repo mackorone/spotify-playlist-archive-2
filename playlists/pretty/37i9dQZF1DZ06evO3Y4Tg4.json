@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 270579,
+  "num_followers": 270640,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAAAXQpLxbVR/fG4Hps4gTan7",
+  "snapshot_id": "ahzLgAAAAAD4cpAVGGmXcea6QZduY+E+",
   "tracks": [
     {
       "added_at": null,
@@ -603,38 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Environment",
-      "url": "https://open.spotify.com/track/1yfjDqsnu8yPHWlFFniXtn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 201345,
-      "name": "Twenty To One",
-      "url": "https://open.spotify.com/track/0UHfIL5GqruPrdgMZKIxQk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Split Decision",
         "url": "https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH"
       },
@@ -655,6 +623,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 201345,
+      "name": "Twenty To One",
+      "url": "https://open.spotify.com/track/0UHfIL5GqruPrdgMZKIxQk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Environment",
+      "url": "https://open.spotify.com/track/1yfjDqsnu8yPHWlFFniXtn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OFA (Oxlade From Africa)",
         "url": "https://open.spotify.com/album/1QCCsP9vKzAFLklbRwvTC5"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 212026,
       "name": "INTOXYCATED",
       "url": "https://open.spotify.com/track/1lcSY9kXL2PG8HYuDlV4KW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/7454StFiLI0EMexuqtvNv4"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/7454StFiLI0EMexuqtvNv4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Samantha",
         "url": "https://open.spotify.com/album/7gZazM80DtQjZyFz2e9tJe"
       },
@@ -743,26 +743,6 @@
       "duration_ms": 220775,
       "name": "Samantha",
       "url": "https://open.spotify.com/track/4YLzVD32aMH4qgSsSPtNbl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PSYCHODRAMA",
-        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        }
-      ],
-      "duration_ms": 240160,
-      "name": "Disaster (feat. J Hus)",
-      "url": "https://open.spotify.com/track/4icut3XOowTQhcT9ov3xTm"
     },
     {
       "added_at": null,
@@ -803,6 +783,26 @@
       "duration_ms": 445349,
       "name": "How I Met My Ex",
       "url": "https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 240160,
+      "name": "Disaster (feat. J Hus)",
+      "url": "https://open.spotify.com/track/4icut3XOowTQhcT9ov3xTm"
     },
     {
       "added_at": null,

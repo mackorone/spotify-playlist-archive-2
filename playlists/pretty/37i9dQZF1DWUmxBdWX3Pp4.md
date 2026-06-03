@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos de Trap Latino  📸  Omar Camacho
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,274 likes - 99 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,236 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nunca Voy a Morir](https://open.spotify.com/track/4C9ZJp0ykJ0ZvNUaMwdLZZ) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Nunca Voy a Morir](https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy) | 2:14 |
-| 2 | [MÁS DE AHÍ \- Remix](https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MÁS DE AHÍ \(Remix\)](https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E) | 4:05 |
+| 2 | [MÁS DE AHÍ \- Remix](https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Slow Mike](https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH) | [MÁS DE AHÍ \(Remix\)](https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E) | 4:05 |
 | 3 | [Aquafina](https://open.spotify.com/track/2vuZfUFN38mttO3yLf6dhM) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Aquafina](https://open.spotify.com/album/39WFaIKRbYqoLtT8FAkKxj) | 3:02 |
 | 4 | [666](https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [666](https://open.spotify.com/album/4P89Sy36vHWynHr8PPc4LL) | 2:20 |
 | 5 | [TUSSI](https://open.spotify.com/track/735b3AKwQfuX1DQdUQmTs2) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Michael Flores](https://open.spotify.com/artist/2gATjk9j2u50i0HmXZySZY), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Be Gang](https://open.spotify.com/artist/7fulJmTM8SPJRPrvePGUoT) | [TUSSI](https://open.spotify.com/album/169JfihSNvwtcCLsdQNWcX) | 4:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,340 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,380 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 6 | [Coffee Shop](https://open.spotify.com/track/6MkvRD4qj3UwQSGgxwepLI) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U), [Kes Kross](https://open.spotify.com/artist/6ZRMGboylqH7muIgydrpGW) | [Coffee Shop](https://open.spotify.com/album/19yhnj0N26PQR2h1OJifGy) | 3:19 |
 | 7 | [Baguette](https://open.spotify.com/track/3FNTAEmWrb2XaFJmS0TPgT) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [DYEN](https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A) | [Baguette](https://open.spotify.com/album/6qZuPGpXt2lujtqDNXF3Ec) | 2:41 |
 | 8 | [Better Times \(feat\. BARBZ\)](https://open.spotify.com/track/3rzMJ9GVogl8CtcrxHRnIH) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Better Times \(feat\. BARBZ\)](https://open.spotify.com/album/2mmC7pH9VfseFT0xc0Byaq) | 3:08 |
-| 9 | [Heart Spin](https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Heart Spin EP](https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6) | 4:24 |
+| 9 | [Heart Spin](https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8) | [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Heart Spin EP](https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6) | 4:24 |
 | 10 | [Do You Want It Right Now](https://open.spotify.com/track/1xAMTwEG6OCawBiYzX3Kum) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [GIACOBBI](https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo) | [Do You Want It Right Now](https://open.spotify.com/album/2Yt0MDuQK3lkVpRccye1vV) | 2:36 |
 | 11 | [Gabber Baller Man](https://open.spotify.com/track/0tz4YUTWe0AJEwcy7YrPD7) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Steve Modana](https://open.spotify.com/artist/2RibwN2CQvXRHdfxap3KWh) | [Gabber Baller Man](https://open.spotify.com/album/4VRxF3esUHlQvfSEM832N8) | 3:12 |
 | 12 | [Meet Me In The Dark](https://open.spotify.com/track/4qDBXgjpBItXeXoCLdEuS6) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [Meet Me In The Dark](https://open.spotify.com/album/4jM92VN44r0AGwSAXGfKI4) | 2:55 |

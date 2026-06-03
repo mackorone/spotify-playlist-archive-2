@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 456,
+  "num_followers": 457,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAByLkWGKkdnU9hZ/gFPrk7Mb70xBjI",
+  "snapshot_id": "AAAByda2scTEeVRlu+9fxIj8s0ufM19D",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -939,6 +939,22 @@
       "duration_ms": 203513,
       "name": "Frange",
       "url": "https://open.spotify.com/track/0GJiPCIUEyl5tqbjo53Qbk"
+    },
+    {
+      "added_at": "2026-06-02 20:17:39",
+      "album": {
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/5mmkHXR5YMkbdNbJ6EXRQF"
+      },
+      "artists": [
+        {
+          "name": "The Falls",
+          "url": "https://open.spotify.com/artist/64VoUwM0Ui5gXHMrzOPOgA"
+        }
+      ],
+      "duration_ms": 173017,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/0tWLQ2YmQ3MoCaZkckzXkY"
     }
   ],
   "unique_name": "Local Rock Bands",

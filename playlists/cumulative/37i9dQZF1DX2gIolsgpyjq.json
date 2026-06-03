@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: Barry Steel",
+  "description": "The best new music by independent artists in the Nordics. Cover: finnj\u00e4vel & GRANT",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -2100,7 +2100,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 155892,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/6Blc6DLQzDNCIVbBBNkKTE"
@@ -3014,6 +3014,24 @@
       "duration_ms": 142120,
       "name": "Blue Eyed Buck",
       "url": "https://open.spotify.com/track/3ywpJWfy6OA2DIZVYDqVt5"
+    },
+    {
+      "album": {
+        "name": "blue+green",
+        "url": "https://open.spotify.com/album/7dskID1nsNKIaBuA7Kze02"
+      },
+      "artists": [
+        {
+          "name": "mikey",
+          "url": "https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245452,
+      "name": "blue+green",
+      "url": "https://open.spotify.com/track/7cLHzL62KYEIDvqhmml7fx"
     },
     {
       "album": {
@@ -4552,7 +4570,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 213137,
       "name": "Clairvoyant",
       "url": "https://open.spotify.com/track/1HvU21qyD7APR8jtJoF2Pq"
@@ -7010,6 +7028,24 @@
       "duration_ms": 247178,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/4JlNq9ivHuNlxlOaag67Dc"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/4I4IpTNnfFUyh7HCpRt7FS"
+      },
+      "artists": [
+        {
+          "name": "lene 3000",
+          "url": "https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175666,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4cgha4ghzfm6lLanSfdtHp"
     },
     {
       "album": {
@@ -12798,7 +12834,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 174741,
       "name": "I Wish To Be Loved By You",
       "url": "https://open.spotify.com/track/3eiyP3CGjqICWBdDNHIfrL"
@@ -15806,7 +15842,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 231624,
       "name": "Longing To Miss You",
       "url": "https://open.spotify.com/track/4f9COiymGtHKXm8ViDzHMf"
@@ -18957,6 +18993,28 @@
     },
     {
       "album": {
+        "name": "notime\u2026youshouldbeaskingmeout",
+        "url": "https://open.spotify.com/album/3thIn4T4XksDxTHEU1rExU"
+      },
+      "artists": [
+        {
+          "name": "finnj\u00e4vel",
+          "url": "https://open.spotify.com/artist/5YQtvxTvGSShjMTOMyCuPT"
+        },
+        {
+          "name": "GRANT",
+          "url": "https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "notime\u2026",
+      "url": "https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww"
+    },
+    {
+      "album": {
         "name": "Now",
         "url": "https://open.spotify.com/album/5W5YABsQKNRwniMmcMlmw4"
       },
@@ -20764,6 +20822,24 @@
       "duration_ms": 218666,
       "name": "Pillow Fight",
       "url": "https://open.spotify.com/track/6IirflzATUKBV3DNTg8qDa"
+    },
+    {
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/2VJ9qCFsP8wIqZjoj6caC2"
+      },
+      "artists": [
+        {
+          "name": "Echo Thrills",
+          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231821,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/0zAFhX6GKUJiVFTRIu4pWM"
     },
     {
       "album": {
@@ -23915,6 +23991,24 @@
     },
     {
       "album": {
+        "name": "Small Girl",
+        "url": "https://open.spotify.com/album/6KgfDNOwmOw7TPIS0CabGU"
+      },
+      "artists": [
+        {
+          "name": "Wilma Holmes",
+          "url": "https://open.spotify.com/artist/2O0pWoVhWXSByvqyxGvr7Z"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172041,
+      "name": "Small Girl",
+      "url": "https://open.spotify.com/track/7COgXThkW973Wdp0IXDFE8"
+    },
+    {
+      "album": {
         "name": "Smile More",
         "url": "https://open.spotify.com/album/641fN8nipBqleoXvyebEYl"
       },
@@ -24132,7 +24226,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 211019,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6cRlE2AaC9waHPBgYOmRBb"

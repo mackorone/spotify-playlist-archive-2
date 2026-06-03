@@ -14795,6 +14795,24 @@
     },
     {
       "album": {
+        "name": "Daisy Chain",
+        "url": "https://open.spotify.com/album/5cSHUqZebXpRoaH0F6dQDm"
+      },
+      "artists": [
+        {
+          "name": "Widows Peak!",
+          "url": "https://open.spotify.com/artist/2gDRzqbTrY7TBnKxt3xI4Y"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Daisy Chain",
+      "url": "https://open.spotify.com/track/4y8MuL6L7lOvRoqouYvzkU"
+    },
+    {
+      "album": {
         "name": "Daiya Daiya Daiya Re",
         "url": "https://open.spotify.com/album/4nkEMcfV2F5b7m6ezaDYpR"
       },
@@ -23828,6 +23846,24 @@
       "duration_ms": 209439,
       "name": "Endless Stars (another)",
       "url": "https://open.spotify.com/track/75Z1JpqlkMf9fGb4mH7SBO"
+    },
+    {
+      "album": {
+        "name": "HEXE",
+        "url": "https://open.spotify.com/album/6xC2UI57tNsEp38Wg485pm"
+      },
+      "artists": [
+        {
+          "name": "Hexe",
+          "url": "https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198334,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/0a2CcExfykpLoFuK3ZHdZW"
     },
     {
       "album": {

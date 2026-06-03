@@ -75500,6 +75500,24 @@
     {
       "album": {
         "name": "Paradise",
+        "url": "https://open.spotify.com/album/5EwGBWdGFFbDDwD9xm7jXj"
+      },
+      "artists": [
+        {
+          "name": "Human Barbie",
+          "url": "https://open.spotify.com/artist/1WbcvNHiOnvchZwd7gbzWv"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196551,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5HQc4F8Bgh7ldqtm4zJIGu"
+    },
+    {
+      "album": {
+        "name": "Paradise",
         "url": "https://open.spotify.com/album/2Ad64wHC5FYro56s5M5UU0"
       },
       "artists": [
@@ -100306,6 +100324,24 @@
       "duration_ms": 232973,
       "name": "The Unicorn",
       "url": "https://open.spotify.com/track/7DAwQLjQ1nPDP0qwWY6oDR"
+    },
+    {
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202972,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
     },
     {
       "album": {

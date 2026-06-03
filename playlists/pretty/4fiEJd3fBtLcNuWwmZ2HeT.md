@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 493 songs - 1 day 4 hr 20 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 497 songs - 1 day 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -501,5 +501,9 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 491 | [君が死んでも許してあげるよ](https://open.spotify.com/track/3F402NDKGrJxIOaJbkXSeB) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク2](https://open.spotify.com/album/26tBjFO9k2Aq7j72p0nTol) | 4:02 |
 | 492 | [MINAGOROSHI](https://open.spotify.com/track/1uC5OFXAwjhtToYXezTTZj) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [MINAGOROSHI](https://open.spotify.com/album/1k4Hs6tujNB331ASp8heM7) | 2:05 |
 | 493 | [英雄　運命の詩](https://open.spotify.com/track/2NAWetxu8cigewSiBR6WhU) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [英雄　運命の詩](https://open.spotify.com/album/1FaJ8Zbd4jIC3SK7Hnye9r) | 4:44 |
+| 494 | [病棟305号室 \- ORIGINAL](https://open.spotify.com/track/60DngQ2DF0Hg1fCOcWuSJd) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:43 |
+| 495 | [雁首、揃えてご機嫌よう](https://open.spotify.com/track/1cVoTSDoPzNbuDGNJVVMEz) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r) | [雁首、揃えてご機嫌よう](https://open.spotify.com/album/5oBTKb1d2A86IhNga7JTbe) | 3:41 |
+| 496 | [Leave You on the Back of the Earth](https://open.spotify.com/track/4mIRahi5l9LcCuZDSaMexo) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [Films, Sunny Spots, Graduations](https://open.spotify.com/album/6p8MnsedzWHh3vwOsxfNJx) | 4:15 |
+| 497 | [神曲](https://open.spotify.com/track/7L2x3xHwyKkgP5jjWbceSf) | [R Sound Design](https://open.spotify.com/artist/2KJvs9nIWfFTZ1lk7bBFlW) | [Delights](https://open.spotify.com/album/6PtyA1ai2roo54MkMpSfCc) | 4:45 |
 
-Snapshot ID: `AAAKN1X45bJOtmYVHs1Zu9uhCjFSDtRW`
+Snapshot ID: `AAAKO+u4rV64q5IAhY+tD/5sdeuMvfP9`

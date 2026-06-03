@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l0em9DC6QA.md) - [plain]
 
 > anti\-romance, curated by Alice Oseman\. The conflicting feelings of joy and grief experienced when coming to terms with my asexual and aromantic identity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,677 likes - 30 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,678 likes - 30 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Of The Loveless](https://open.spotify.com/track/6Yi6lMz7nhT4hQt2xUd4rE) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Meet The EELS: Essential EELS 1996\-2006 Vol\. 1](https://open.spotify.com/album/7jqtzIfRUWRb1INiPvXF2U) | 3:33 |
-| 2 | [i'm so tired...](https://open.spotify.com/track/7COXchtUOMd6uIT6HvmRaI) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [i'm so tired...](https://open.spotify.com/album/13yMsBNa2femeWzhcDOqFw) | 2:42 |
+| 2 | [i'm so tired...](https://open.spotify.com/track/7COXchtUOMd6uIT6HvmRaI) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [i'm so tired...](https://open.spotify.com/album/13yMsBNa2femeWzhcDOqFw) | 2:42 |
 | 3 | [Loveless Girl](https://open.spotify.com/track/6CtLGKThn0G5WXGHGH7FUd) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [My Mind Makes Noises](https://open.spotify.com/album/409ucdW5uJn96fKCsHWPDg) | 3:04 |
 | 4 | [Never Been In Love](https://open.spotify.com/track/2z92ykRgZMcAooOwBaceoL) | [Will Jay](https://open.spotify.com/artist/4lWJityOQkWcLFiboQBvBq) | [Never Been In Love](https://open.spotify.com/album/5Coz04jY5UgUtvW0H2TzQ0) | 2:50 |
 | 5 | [Crush Culture](https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:24 |

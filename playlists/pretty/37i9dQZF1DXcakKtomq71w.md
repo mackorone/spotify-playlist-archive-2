@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,750 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,757 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 3 | [Si Vas Al mar](https://open.spotify.com/track/1oU2mTReAEUNlQdC6e4IAp) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Si Vas Al mar](https://open.spotify.com/album/180iVVSyWKcPtT4RoPIMy4) | 4:16 |
 | 4 | [Corazon](https://open.spotify.com/track/62JWp72Pwn28b38P0u8iJf) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [EMRIA](https://open.spotify.com/artist/0J5gqMi8znAsKAL4HluZkl) | [Corazon \(Harry Romero Remix\)](https://open.spotify.com/album/4PALrdR6pzunKBc19IGTGW) | 4:08 |
 | 5 | [La Llamada](https://open.spotify.com/track/0uvc2A9I0q8FSrTGvFIR5l) | [G.Zamora](https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F) | [La Llamada](https://open.spotify.com/album/0KybYBbysZl32YL5ZI3sCG) | 2:39 |
-| 6 | [Massako](https://open.spotify.com/track/54fo79hH3GjbWjW3zdhpLY) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Massako](https://open.spotify.com/album/4jugnC3t0VJuScQveV9Ds7) | 4:09 |
+| 6 | [Massako](https://open.spotify.com/track/54fo79hH3GjbWjW3zdhpLY) | [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Massako](https://open.spotify.com/album/4jugnC3t0VJuScQveV9Ds7) | 4:09 |
 | 7 | [El Mar \(parece roto\)](https://open.spotify.com/track/0ARduJZzHGefGVwvbmaWFe) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Laguna](https://open.spotify.com/artist/1QE4donXdF3zWVjSXm9nd1) | [El Mar \(parece roto\)](https://open.spotify.com/album/4eoIU0UKHbJNbBbOpEp3aO) | 6:02 |
 | 8 | [Money Power](https://open.spotify.com/track/5AMI6GaE2bhnHAc0eKH8CD) | [Da Africa Deep](https://open.spotify.com/artist/0DDzEXacqh3F5GGIwji59b), [Lyrik Shoxen](https://open.spotify.com/artist/0jjpeyvhBAYC47mJuQyEAt) | [Money Power](https://open.spotify.com/album/36xgSI91NbHNySA7QymmyN) | 6:44 |
 | 9 | [Desconocidos](https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Desconocidos](https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade) | 5:22 |

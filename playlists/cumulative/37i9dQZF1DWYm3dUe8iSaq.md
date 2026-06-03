@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-427 songs - 1 day 1 hr 17 min
+428 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Forgive My Deceit](https://open.spotify.com/track/2eeT0tEJFhrL3yiMLf09Po) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Forgive My Deceit](https://open.spotify.com/album/6PFN1RigCbz3GNRslMVPoY) | 3:07 | 2024-07-19 | 2026-03-03 |
 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 | 2022-10-07 | 2024-07-23 |
 | [Fragments](https://open.spotify.com/track/5U6sbkexYOvmOkhIYaprrP) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [Fragments](https://open.spotify.com/album/02LoGnwNdQjewONsLrM0YN) | 3:31 | 2026-02-27 | 2026-03-30 |
+| [Franklin](https://open.spotify.com/track/4PBYnFnnCG8iRHXpMicpiH) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Franklin](https://open.spotify.com/album/6BOCRbGRatfJBxNheHWSSu) | 3:11 | 2026-05-21 |  |
 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-04-29 | 2025-07-05 |
 | [Full Circle](https://open.spotify.com/track/0ID888wUXbMfZVVPe0DtJg) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Full Circle](https://open.spotify.com/album/3sXZ5ffRKfELEF2urHXAvK) | 3:01 | 2024-06-07 | 2026-02-27 |
 | [garden ghosts](https://open.spotify.com/track/0vi2mGOi4tQQWvzFzR51tQ) | [Sarah McCreedy](https://open.spotify.com/artist/5bWGFe8kM0mQLEUZhfMqpC), [AOIBHA](https://open.spotify.com/artist/1JQePmAx9vPWhhAzmSOVIS) | [garden ghosts](https://open.spotify.com/album/1TNfcCkt7xsH9wvkZnvuJD) | 3:44 | 2023-01-13 | 2023-04-09 |
@@ -338,7 +339,7 @@
 | [Someone's Daughter](https://open.spotify.com/track/6NbxWUDuyHFm9IPicBGv07) | [Billie Flynn](https://open.spotify.com/artist/5RmO3E0D98IDGfClRU7ICf) | [Someone's Daughter](https://open.spotify.com/album/1G0KNj4Rr6HNdHHfArdNpj) | 3:32 | 2022-04-08 | 2022-10-13 |
 | [Something Now](https://open.spotify.com/track/0UoKC8sw1W4RqOOuxqghOO) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [Something Now](https://open.spotify.com/album/0ESfeXr4ZLjlrnGlm64ly5) | 3:07 | 2024-06-07 | 2024-07-20 |
 | [Songs in the Kitchen](https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob) | [Seánie Bermingham](https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK) | [Songs in the Kitchen](https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ) | 3:10 | 2022-11-18 | 2023-05-20 |
-| [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 | 2025-06-06 |  |
+| [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 | 2025-06-06 | 2026-06-03 |
 | [Spill](https://open.spotify.com/track/6dQ1kKbYJJU27LvYdaGe9G) | [SELK](https://open.spotify.com/artist/2XQEmjq2NVlPxAhjRanGY6) | [Spill](https://open.spotify.com/album/6MgF6PkDOI2rGW5t882Nk8) | 4:21 | 2022-10-07 | 2022-11-19 |
 | [Spill](https://open.spotify.com/track/7dypjDl8BjW7DZTuPHdk53) | [SELK](https://open.spotify.com/artist/2XQEmjq2NVlPxAhjRanGY6) | [Spill](https://open.spotify.com/album/5xT0WOgcXxOTYHvNY9TwtU) | 4:21 | 2022-08-26 | 2022-11-14 |
 | [Stow Brae](https://open.spotify.com/track/6FgsycVqVLwuWVs66lf9sX) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Stow Brae](https://open.spotify.com/album/0CbHExiIeCAhFeOVxH8D1T) | 2:42 | 2022-05-20 | 2024-07-20 |

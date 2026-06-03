@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify.",
-  "num_followers": 402264,
+  "num_followers": 402277,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Mai 2026",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
+        "name": "Talk On The Hill",
+        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 207774,
+      "name": "Talk On The Hill",
+      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
         "name": "Chanson triste (feat. a6el)",
         "url": "https://open.spotify.com/album/0eGdXwZZ95NTZwOjR0G13Q"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 156451,
       "name": "La Cumbia De Virgil",
       "url": "https://open.spotify.com/track/2r9OniMnG9dXIPCvLtjuwf"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
-        "name": "Talk On The Hill",
-        "url": "https://open.spotify.com/album/3AhS0lrdaTPA4R6KRLtC6y"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 207774,
-      "name": "Talk On The Hill",
-      "url": "https://open.spotify.com/track/5qoiAW2WK3b7Ncm3W9HkTL"
     },
     {
       "added_at": "2026-05-31 22:00:06",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/1h4JGEOMUYsGrJa9OsB2aG"
-      },
-      "artists": [
-        {
-          "name": "I Am Roze",
-          "url": "https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1gqGxha8dJi77aR5x18Mzg"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "DISCO INFERNO",
         "url": "https://open.spotify.com/album/7t1h5yn1S2JBCGrX0vUkTl"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 233788,
       "name": "C\u0152UR DE PIRATE",
       "url": "https://open.spotify.com/track/0vmYv8KwjjBOC0UQjIuU8m"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/1h4JGEOMUYsGrJa9OsB2aG"
+      },
+      "artists": [
+        {
+          "name": "I Am Roze",
+          "url": "https://open.spotify.com/artist/1GWgRXJ2Amzf37HWfdj5CX"
+        }
+      ],
+      "duration_ms": 229090,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1gqGxha8dJi77aR5x18Mzg"
     },
     {
       "added_at": "2026-05-31 22:00:06",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-05-31 22:00:06",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0"
-      },
-      "artists": [
-        {
-          "name": "Ja\u00efa Rose",
-          "url": "https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5"
-    },
-    {
-      "added_at": "2026-05-31 22:00:06",
-      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/4Gj5Hju12pBbPPdlMdVSMo"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 160000,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/1DSzMuDGO6aaxpcj5iIiT5"
+    },
+    {
+      "added_at": "2026-05-31 22:00:06",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/3g1ttBs979kIuCcQywhOc0"
+      },
+      "artists": [
+        {
+          "name": "Ja\u00efa Rose",
+          "url": "https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/1EUmrCBpRI6RPNYFcziSU5"
     },
     {
       "added_at": "2026-05-31 22:00:06",

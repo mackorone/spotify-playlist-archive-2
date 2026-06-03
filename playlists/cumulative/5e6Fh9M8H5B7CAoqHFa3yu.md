@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,286 songs - 5 day 15 hr 0 min
+2,289 songs - 5 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Carnival And Cotton Candy](https://open.spotify.com/track/1EQjrvlBYVfBFZqo5t6T4p) | [Liisa Pentti](https://open.spotify.com/artist/7o3YN0mGGbr0DKjMZBfEta) | [Carnival And Cotton Candy](https://open.spotify.com/album/4CYTU3PNZPHgt8s7xGZaxT) | 3:16 | 2025-08-11 |  |
 | [Carnival Dub](https://open.spotify.com/track/7aEQzimZylddMGhIbyEMU0) | [Koncrete Roots](https://open.spotify.com/artist/5PVj6zqgjfOIEODqBeJotL) | [Rudies in Dub](https://open.spotify.com/album/7ze5gyhJz9SwWKeB3m8JjK) | 3:53 | 2024-03-25 |  |
 | [Carnival Steppa](https://open.spotify.com/track/7qhBgqcdglTK6ng8HGX7fn) | [Koncrete Roots](https://open.spotify.com/artist/5PVj6zqgjfOIEODqBeJotL) | [Rudies in Dub](https://open.spotify.com/album/7ze5gyhJz9SwWKeB3m8JjK) | 5:42 | 2024-03-25 |  |
+| [Carolina](https://open.spotify.com/track/3tmKJm7GurhO7gYpQHj2vJ) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3), [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Carolina](https://open.spotify.com/album/16MLS4M1deA7XetqvCfZ3q) | 4:36 | 2026-06-02 |  |
 | [Carosello](https://open.spotify.com/track/6kmlwM94J4MmnBEgAH3Oeb) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Carosello](https://open.spotify.com/album/0nlIJ1YO4UbYIYl5mNe1gp) | 3:35 | 2025-05-06 |  |
 | [Casa de Memorias](https://open.spotify.com/track/6tlzr7RsVd6vGGPEAlxPNS) | [Amanda Mendonça](https://open.spotify.com/artist/1s5C2TxIUhi2kpfthNYnZm) | [Casa de Memorias](https://open.spotify.com/album/7LEcUT8sQ7Mi7qG0zMsJvR) | 4:12 | 2026-03-24 |  |
 | [Castles In The Sand](https://open.spotify.com/track/69BPGdSMjgoqMc7ARHTWD3) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Castles In The Sand](https://open.spotify.com/album/0DAvX41yl9ymrUie0E6Dp9) | 3:57 | 2026-02-05 |  |
@@ -1176,6 +1177,7 @@
 | [Love & Respect](https://open.spotify.com/track/0Zk088xAy5u56sLo0jCoqL) | [Marlo G](https://open.spotify.com/artist/5xBknrb2vOF6IKEpvXY6ge) | [Love & Respect](https://open.spotify.com/album/0zXoA8yGF3ilY7wWjLEqTj) | 2:44 | 2025-10-07 |  |
 | [Love & War](https://open.spotify.com/track/2h50fiqBFxrtQ3GOjjlbqW) | [Sister Maki Band](https://open.spotify.com/artist/7895Yza9TW5LPPfWRz0F2H) | [Love & War](https://open.spotify.com/album/0ri29zWiUfH98y2wVVC2Ud) | 7:24 | 2024-04-27 |  |
 | [Love \- Acoustic](https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Xellay Acoustic](https://open.spotify.com/album/1EvK4l0At1nk7POZjevTyX) | 3:31 | 2026-04-17 |  |
+| [Love Actually](https://open.spotify.com/track/4HGUgYPtXInlqTn3WMZbXL) | [Mare E Sheehan](https://open.spotify.com/artist/7AoXGlS8YP1Kf2HtjAJmAW) | [Love Actually](https://open.spotify.com/album/6aCUSrkAkViqQ3TWL23b7e) | 2:02 | 2026-06-02 |  |
 | [Love In My Head](https://open.spotify.com/track/6AKGpQQBhH4kDvAJmiSQj8) | [Butterfly International Day of Peace](https://open.spotify.com/artist/2cGOGYuQsqwZquuZxsxLaD) | [DIVA WITH GAMMA RAYS](https://open.spotify.com/album/4W1J5g3f9lV7wETlxb2Yvd) | 3:43 | 2025-07-02 |  |
 | [Love Is a Liar \(2024 Remastered Version\)](https://open.spotify.com/track/7ljXT4AJy1mRLFBxvH4D0U) | [Marc Tomé](https://open.spotify.com/artist/2y9La4af89lJQxN4UUwUEf) | [Marc Tomé \(2024 Remastered Version\)](https://open.spotify.com/album/539xmZHkPOLDGf1OykDTqG) | 3:38 | 2026-03-25 |  |
 | [Love Me](https://open.spotify.com/track/6Z0qoGaKJlHZhDVT9DTtw4) | [Dopamine](https://open.spotify.com/artist/3sRWjhNBZoWkamcdVCnfTU), [EUFOREIGN](https://open.spotify.com/artist/3MK8OFHs62kqTJcMG9Gg3z), [Ch7nky](https://open.spotify.com/artist/1gwHXbtUFdeAqOSMEjMYSq), [Swaglone.mp4](https://open.spotify.com/artist/6c90YtrZEvGETj6HgKntTp) | [Love Me](https://open.spotify.com/album/1t2MmGOXL07jrn1DDDOpZb) | 2:56 | 2026-02-16 |  |
@@ -2053,6 +2055,7 @@
 | [Tranquil Garden](https://open.spotify.com/track/0KgCKStZnG7CzJebU58X4p) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 1:10 | 2026-03-03 |  |
 | [Transient Transmission \(Intercept's retwist of Adrian Sherwood's Iota Remix\)](https://open.spotify.com/track/0Z5gLLSWTgGSw7YG0f9SIa) | [Pitch Black](https://open.spotify.com/artist/48bwfC5uieNXZjebbWBLpm), [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [Echoes of the Night \(The Adrian Sherwood Remixes\)](https://open.spotify.com/album/081Yp6jTc6IDD5KL8Qhm2x) | 5:18 | 2024-08-31 |  |
 | [Trattore elettrico](https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Trattore elettrico](https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq) | 3:39 | 2026-03-21 |  |
+| [Travelers Souls](https://open.spotify.com/track/1rgXfcC6g7AUK4MgdUJwSV) | [Dub Idren](https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed), [RootsyBeats](https://open.spotify.com/artist/4dQf5YSC5GRqId5gxkx9RL) | [Travelers Souls](https://open.spotify.com/album/7mOchKktwmLXR7onK2mhv5) | 4:00 | 2026-06-03 |  |
 | [Travelmate](https://open.spotify.com/track/0Mh6iLcMzLNIxfSX84WAiw) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [Travelmate](https://open.spotify.com/album/47kxoZjpnJHmVk6W72fGse) | 3:38 | 2026-05-22 |  |
 | [Trees](https://open.spotify.com/track/3F41qzPCBIQzxtToQ38QeP) | [Felt Zen](https://open.spotify.com/artist/5L2WazxjD4UXfabeeUVXvZ) | [Trees](https://open.spotify.com/album/1camvevb8ZACETpkiWxiU9) | 2:38 | 2026-03-06 |  |
 | [Treino Disco \(HIIT 30\-10\)](https://open.spotify.com/track/1KgJoRTyRN5PX2NBEHzGVZ) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [70s DISCO HIIT DANCE WORKOUT](https://open.spotify.com/album/38vFZ0KaLfZlEtQwUXDM6l) | 1:20 | 2024-03-08 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/3x7LsqjnxJg6m2hjarASBF?si=pWempVg5Q4q7DllDd_dHOw\">Joy Njokey</a>. Artwork: Isu Kim. ",
+  "description": "The best new independent African artists  Cover:  <a href=\"https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD?si=8pzwvnQNRvSmsJa8TyTroQ\">Ema Onigah</a>. Artwork: Isu Kim. ",
   "name": "Fresh Finds Africa",
   "tracks": [
     {
@@ -3902,7 +3902,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 155643,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/27LEnosx0I3Qvlg39Og97g"
@@ -5990,6 +5990,28 @@
       "duration_ms": 164000,
       "name": "Dey",
       "url": "https://open.spotify.com/track/5OdYCmmVZAny7zPFARxEin"
+    },
+    {
+      "album": {
+        "name": "Diaspora",
+        "url": "https://open.spotify.com/album/0flTpqwtywL3rszd3Y5y7R"
+      },
+      "artists": [
+        {
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
+        },
+        {
+          "name": "Achai",
+          "url": "https://open.spotify.com/artist/0MxsK8eTME9mZcH46LQuTK"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167263,
+      "name": "Diaspora",
+      "url": "https://open.spotify.com/track/0NyxRCbgw39IwU7QUoH1n5"
     },
     {
       "album": {
@@ -9032,6 +9054,24 @@
       "duration_ms": 192857,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/6dX5Z7ZyvRpB7Up2FxFdOH"
+    },
+    {
+      "album": {
+        "name": "Freedom (Refix)",
+        "url": "https://open.spotify.com/album/6agPL3BoBDTbDbW0nrRgTM"
+      },
+      "artists": [
+        {
+          "name": "Liboi",
+          "url": "https://open.spotify.com/artist/6HOD1hSjJf0TNjnWmt4nAp"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248780,
+      "name": "Freedom - Refix",
+      "url": "https://open.spotify.com/track/7DuvgTPwvVxCJ5IiYcugoh"
     },
     {
       "album": {
@@ -13808,7 +13848,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 196071,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/3eyr49ZOXyE3KIUrKfEHhW"
@@ -20862,7 +20902,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 138947,
       "name": "PURE HATE",
       "url": "https://open.spotify.com/track/5NAnITwlO7fJtxTplOyFh5"
@@ -21592,6 +21632,28 @@
       "duration_ms": 156734,
       "name": "Rude",
       "url": "https://open.spotify.com/track/0pkYlejZkpPIoSuqJCWhOf"
+    },
+    {
+      "album": {
+        "name": "Nyumbani",
+        "url": "https://open.spotify.com/album/1HLuo5V0suNgBsyrIzB7J9"
+      },
+      "artists": [
+        {
+          "name": "DENO",
+          "url": "https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK"
+        },
+        {
+          "name": "ApodaSpark",
+          "url": "https://open.spotify.com/artist/09c4th0s8YMxstFXsHAbfz"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3LC92AHJEVtTV0X2wu9sWz"
     },
     {
       "album": {

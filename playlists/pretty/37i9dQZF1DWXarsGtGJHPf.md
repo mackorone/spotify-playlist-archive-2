@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXarsGtGJHPf.md) - [plain]
 
 > Enjoy the iconic K\-OSTs with the music videos! \(Cover: Dynamite Kiss\(키스는 괜히 해서\)\) \(K\-OST를 뮤직비디오와 함께 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,271 likes - 36 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,273 likes - 36 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXarsGtGJHPf.md) - [plain]
 | 20 | [Think about you](https://open.spotify.com/track/0rDe9cOac9175L43dYzS6B) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [Think about you](https://open.spotify.com/album/5pgmrPqABXofBAgao3fmYf) | 3:16 |
 | 21 | [Day after day](https://open.spotify.com/track/4s7RVZG7rTaNR51dJKlA3y) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Day after day](https://open.spotify.com/album/1xlq7MBZYQ1e0DyE6ATnks) | 3:46 |
 | 22 | [Lilac](https://open.spotify.com/track/4UdyOkVnpwW3337qb3JBEf) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Lilac](https://open.spotify.com/album/6bhg1nEu6BjGxxYf8z2i2W) | 3:12 |
-| 23 | [Love Me Like That](https://open.spotify.com/track/3V6LImUODSMql7ANm12ofH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Love Me Like That](https://open.spotify.com/album/3Tj0UaVVkdPcGBEQObIVsF) | 3:32 |
+| 23 | [Love Me Like That](https://open.spotify.com/track/3V6LImUODSMql7ANm12ofH) | [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Love Me Like That](https://open.spotify.com/album/3Tj0UaVVkdPcGBEQObIVsF) | 3:32 |
 | 24 | [If you're with me](https://open.spotify.com/track/3Edd5X9vy6t49rj74h2pAL) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [If you're with me](https://open.spotify.com/album/1yRqx40R9ons7xDlDKL2FS) | 3:53 |
 | 25 | [We're Already \(from "Nevertheless" Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/track/2hnLWui90ibtGKqVleP4R0) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [We're Already \(from "Nevertheless" Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/5RZ8bSQSdpsHefGnY45F3d) | 4:01 |
 | 26 | [Nevertheless](https://open.spotify.com/track/6iWfLdahsxpR0pCRsA4hrM) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Nevertheless](https://open.spotify.com/album/5TPL4cmMjaXMfTKLvsq0lf) | 3:34 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-03",
-  "description": "\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e2b\u0e0d\u0e34\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22\u0e01\u0e31\u0e19. \u0e1b\u0e01: pami",
+  "description": "\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e2b\u0e0d\u0e34\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22\u0e01\u0e31\u0e19. \u0e1b\u0e01: mute.",
   "name": "EQUAL Thailand",
   "tracks": [
     {
@@ -337,6 +337,24 @@
     },
     {
       "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/74EYOffUBLDGQ2jAKcQs0H"
+      },
+      "artists": [
+        {
+          "name": "Juna Mae",
+          "url": "https://open.spotify.com/artist/3xrgi4LO2HWkaRZDnmm5eX"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266466,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/61VK4xpS6uNBpxhiSGjt3Z"
+    },
+    {
+      "album": {
         "name": "All to myself",
         "url": "https://open.spotify.com/album/1PxLwNbMYo1F3KC0v7NWkC"
       },
@@ -464,6 +482,28 @@
       "duration_ms": 171500,
       "name": "Bababababy",
       "url": "https://open.spotify.com/track/66ltSUFE9eiyH0NiKMSfv4"
+    },
+    {
+      "album": {
+        "name": "Baby Bye Bye",
+        "url": "https://open.spotify.com/album/63XEQ2qaHtEfrrG1Prk1GG"
+      },
+      "artists": [
+        {
+          "name": "mute.",
+          "url": "https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ"
+        },
+        {
+          "name": "Ant LANDOKMAI",
+          "url": "https://open.spotify.com/artist/1d4UYb5mZPmdJQLQME6Bw8"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206440,
+      "name": "Baby Bye Bye",
+      "url": "https://open.spotify.com/track/7D8QbOudfxxdt5Zi20tQso"
     },
     {
       "album": {
@@ -1305,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Dandilion (\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e2b\u0e32\u0e22\u0e44\u0e1b)",
+        "url": "https://open.spotify.com/album/0ZRC5FkCTyd6KsauSYkT2T"
+      },
+      "artists": [
+        {
+          "name": "mute.",
+          "url": "https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221777,
+      "name": "Dandilion (\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e2b\u0e32\u0e22\u0e44\u0e1b)",
+      "url": "https://open.spotify.com/track/1Kgj7JnYdeSQaeoajieLpt"
+    },
+    {
+      "album": {
         "name": "dead to you",
         "url": "https://open.spotify.com/album/24Z3hgMs1dP99m7YIsHlML"
       },
@@ -2114,7 +2172,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 153600,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/3g6sKjlpJWOuNWPjuvze0T"
@@ -3980,7 +4038,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 227066,
       "name": "Neon",
       "url": "https://open.spotify.com/track/4vRmticnTF2Vwb1ICXX7NG"
@@ -4428,7 +4486,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 177541,
       "name": "Overtime",
       "url": "https://open.spotify.com/track/5MbyvhJp15HOFjFiTv0bhc"
@@ -5714,6 +5772,24 @@
       "duration_ms": 176012,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/6D0fx8HHiA8vXiyvNGDZRf"
+    },
+    {
+      "album": {
+        "name": "TEA",
+        "url": "https://open.spotify.com/album/4n7cIEu4ChiII7yBfCxw2c"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143959,
+      "name": "TEA",
+      "url": "https://open.spotify.com/track/7bPdIsdwV5u3LWexYRnl1X"
     },
     {
       "album": {
@@ -8952,7 +9028,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 230958,
       "name": "\u0e15\u0e38\u0e4a\u0e1a\u0e1b\u0e48\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/2m6ZiSSDGWEzLo7lb2KFDg"
@@ -12061,6 +12137,24 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e19\u0e31\u0e07\u0e17\u0e38\u0e19\u0e15\u0e48\u0e33",
+        "url": "https://open.spotify.com/album/2CChPhekJ2rzRQNbNe0iH1"
+      },
+      "artists": [
+        {
+          "name": "Zom Marie",
+          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280384,
+      "name": "\u0e2b\u0e19\u0e31\u0e07\u0e17\u0e38\u0e19\u0e15\u0e48\u0e33",
+      "url": "https://open.spotify.com/track/0nQ3fky5NxECcuMv4GqFaO"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e17\u0e35\u0e01\u0e47\u0e23\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (sun&flower)",
         "url": "https://open.spotify.com/album/5aYTJ9XNUEaGI1rT5L58Wy"
       },
@@ -13187,6 +13281,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e14\u0e34\u0e21\u0e40\u0e14\u0e34\u0e21 (Once)",
+        "url": "https://open.spotify.com/album/5EcLwO8l0hJBaRHSGiCWHQ"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239656,
+      "name": "\u0e40\u0e14\u0e34\u0e21\u0e40\u0e14\u0e34\u0e21 (Once)",
+      "url": "https://open.spotify.com/track/4TqFl2pIoapHiNe6L7f998"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e14\u0e47\u0e01\u0e01\u0e27\u0e48\u0e32\u0e41\u0e25\u0e49\u0e27\u0e44\u0e07(\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27\u0e01\u0e31\u0e19)",
         "url": "https://open.spotify.com/album/7LwAHr6GsDIcS0U21WfSJV"
       },
@@ -13198,7 +13310,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 189900,
       "name": "\u0e40\u0e14\u0e47\u0e01\u0e01\u0e27\u0e48\u0e32\u0e41\u0e25\u0e49\u0e27\u0e44\u0e07(\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e41\u0e25\u0e49\u0e27\u0e01\u0e31\u0e19)",
       "url": "https://open.spotify.com/track/5Eia4n0TGuIJxxMTEc2YMb"
@@ -13628,7 +13740,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 242500,
       "name": "\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e2b\u0e19\u0e49\u0e32\u0e15\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/3ihlxT4nGZlGzo594WpjIJ"

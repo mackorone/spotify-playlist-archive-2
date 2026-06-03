@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Mia Wray
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,521 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,528 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 47 | [TROCADERO](https://open.spotify.com/track/06lCYcTxYoEUa3DiqHCoYn) | [Ricky Neil Jr.](https://open.spotify.com/artist/0A2mG8WA35tWAjbSV5UISn) | [TROCADERO](https://open.spotify.com/album/3liMfrWNN1v3NivrT0wog7) | 2:42 |
 | 48 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:36 |
 | 49 | [Blue Chalk \(Fly\)](https://open.spotify.com/track/0YMY7wyLcgWUZ9zEo0FIy1) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Blue Chalk \(Fly\)](https://open.spotify.com/album/0gIY0oTMMj87lJrCHueSWb) | 3:53 |
-| 50 | [Pretty Little Things](https://open.spotify.com/track/4cxp9FkxuUqcNxvgnfVKju) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Pretty Little Things](https://open.spotify.com/album/69UHydI2nE7iN0Idu3Apb7) | 2:51 |
+| 50 | [Pretty Little Things](https://open.spotify.com/track/4cxp9FkxuUqcNxvgnfVKju) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Pretty Little Things](https://open.spotify.com/album/69UHydI2nE7iN0Idu3Apb7) | 2:51 |
 | 51 | [Butterfly Feelings](https://open.spotify.com/track/7HJdIi4rzQqj5LkUQfZWRb) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Butterfly Feelings](https://open.spotify.com/album/7awlJuOXZ3LIf35souKNDu) | 2:35 |
 | 52 | [Roll](https://open.spotify.com/track/6940UlXrJBISV4WfNQzgQA) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [Paraglider](https://open.spotify.com/album/3cVnrjdKcNZuHqY3diBud7) | 2:10 |
 | 53 | [Orchid](https://open.spotify.com/track/0PJQf8ZYjyzaMhLNrX6qIW) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [Orchid](https://open.spotify.com/album/01LvAlFKjTUzdQcjcUXOyG) | 3:12 |

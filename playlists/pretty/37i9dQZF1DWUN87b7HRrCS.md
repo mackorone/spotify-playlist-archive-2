@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN87b7HRrCS.md) - [plain]
 
 > Soft and cozy sounds of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,866 likes - 81 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,895 likes - 81 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN87b7HRrCS.md) - [plain]
 | 80 | [Just Chill and Breathe](https://open.spotify.com/track/1IibcoE7Dfr7n8AmdnW2EN) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Just Chill and Breathe](https://open.spotify.com/album/5CUrICr5idsitMLUdupNTA) | 3:11 |
 | 81 | [Liljeholmsviken](https://open.spotify.com/track/3Gw26kNDJHfTtHJQOzI1h4) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Liljeholmsviken](https://open.spotify.com/album/6wrG9MReEESMfnXLh3daCe) | 4:22 |
 
-Snapshot ID: `AAAAAO5Velt0/C9wQ9lOHGrnd/cvdMx5`
+Snapshot ID: `AAAAAEk7EjCB/GfR127iUTZrws4AgzFx`

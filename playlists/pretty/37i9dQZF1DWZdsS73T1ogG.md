@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Kris R, Ryan Castro, De La Rose & Cris MJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,270 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,282 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 17 | [Skokka](https://open.spotify.com/track/2wzrS1Y8Oy4NvUw8bnOfKi) | [Huan62](https://open.spotify.com/artist/08yYd8o1CrOjIpGHP2I6zU) | [Skokka](https://open.spotify.com/album/7zMvvxOXqVcXJDGQahGVEX) | 2:39 |
 | 18 | [Ricky Bobby](https://open.spotify.com/track/24IeBGZDIeRA4H6EpQz8D0) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [CORSA](https://open.spotify.com/album/5JNyi6vWb9zTfxa9zDHrZr) | 2:55 |
 | 19 | [El Juguete](https://open.spotify.com/track/6dC7eo82vwjcJakyuroZs3) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [El Juguete](https://open.spotify.com/album/7hR4zr90IwCXj4c8T56uQ1) | 3:05 |
-| 20 | [MÁS DE AHÍ \- Remix](https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MÁS DE AHÍ \(Remix\)](https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E) | 4:05 |
+| 20 | [MÁS DE AHÍ \- Remix](https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Slow Mike](https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH) | [MÁS DE AHÍ \(Remix\)](https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E) | 4:05 |
 | 21 | [De chinga yo](https://open.spotify.com/track/62wdjSArTA3qDwl5lPNHfV) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Ricos y Malos](https://open.spotify.com/album/51J4yX4tSktLWRayAJlY0g) | 3:05 |
 | 22 | [QUÉ LÍO](https://open.spotify.com/track/5vDhrXCNTkyahObQwZOYL9) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [QUÉ LÍO](https://open.spotify.com/album/6FXL5Y6vlq2nWuubKZymog) | 2:12 |
 | 23 | [Miénteme](https://open.spotify.com/track/06UhL9hBWpgH8CbFLyPtif) | [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr) | [Miénteme](https://open.spotify.com/album/4Fp1nBSbGKwYIwbz1PMPVH) | 2:52 |

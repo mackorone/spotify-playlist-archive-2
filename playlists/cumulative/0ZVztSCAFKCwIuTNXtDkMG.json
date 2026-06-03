@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Horny Dub",
+        "url": "https://open.spotify.com/album/7qsgFVHjiWKkt1N8kzfpWF"
+      },
+      "artists": [
+        {
+          "name": "Millhouse",
+          "url": "https://open.spotify.com/artist/43AgCd9yyuFZ46wJQmBDGF"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170435,
+      "name": "Horny Dub",
+      "url": "https://open.spotify.com/track/64WXDifwCNu1BuZHEsHi4M"
+    },
+    {
+      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },

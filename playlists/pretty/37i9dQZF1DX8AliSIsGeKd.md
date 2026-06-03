@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Carbon
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,182 likes - 90 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,222 likes - 90 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Taste the Frequency](https://open.spotify.com/track/6bZYiQDjf2qErSLH5W90vi) | [Carbon](https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK) | [ToughTriplets, Vol\. 2](https://open.spotify.com/album/4KEQFBFp7QuBdSG4YPeTkg) | 6:46 |
-| 2 | [Body Moving](https://open.spotify.com/track/0Y1HbOWmTW5egTxUT6UhmM) | [Ajna](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Misha](https://open.spotify.com/artist/73fHATHR0pvXRyQBPgddDc) | [Body Moving](https://open.spotify.com/album/7wZQNigL5Uh3IijpsTKERT) | 3:32 |
+| 2 | [Body Moving](https://open.spotify.com/track/0Y1HbOWmTW5egTxUT6UhmM) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Misha](https://open.spotify.com/artist/73fHATHR0pvXRyQBPgddDc) | [Body Moving](https://open.spotify.com/album/7wZQNigL5Uh3IijpsTKERT) | 3:32 |
 | 3 | [Did You Finally Lose Yourself](https://open.spotify.com/track/4rSW3n7QpMqI9fZWEuVkmg) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC), [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js) | [Did You Finally Lose Yourself](https://open.spotify.com/album/2Dyc4Q2hs43G5TCSjxU5I5) | 4:00 |
-| 4 | [Heart Spin](https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Heart Spin EP](https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6) | 4:24 |
+| 4 | [Heart Spin](https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8) | [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Heart Spin EP](https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6) | 4:24 |
 | 5 | [Ghosts](https://open.spotify.com/track/63r1HBCb8up0pTA5rgzRdw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Nicolas Taboada](https://open.spotify.com/artist/6dcbo1dJld5wdwLeno5MBE), [FRANCO BA](https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx) | [Ghosts](https://open.spotify.com/album/2Ijf8KZTp9FPUiJi08JbsN) | 3:05 |
 | 6 | [Ice Lips](https://open.spotify.com/track/2zAHad7zh1suCdvgWEcWK8) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [Ice Lips](https://open.spotify.com/album/5dOzowGMOBEEi6pW9eIG1Y) | 3:39 |
 | 7 | [Four Seasons](https://open.spotify.com/track/2AjiiN73Kzw721XSsy2FOu) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Optimism](https://open.spotify.com/album/2XDnp6nVUaEXWrHbqwP54t) | 4:12 |

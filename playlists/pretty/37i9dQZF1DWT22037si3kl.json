@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Brand\u00e3o85",
-  "num_followers": 148987,
+  "num_followers": 148991,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -239,30 +239,6 @@
     {
       "added_at": "2026-05-15 17:27:59",
       "album": {
-        "name": "DIAS ANTES DO CAOS",
-        "url": "https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        }
-      ],
-      "duration_ms": 124651,
-      "name": "GLOCK DE COR",
-      "url": "https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6"
-    },
-    {
-      "added_at": "2026-05-15 17:27:59",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -291,6 +267,30 @@
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
+    },
+    {
+      "added_at": "2026-05-15 17:27:59",
+      "album": {
+        "name": "DIAS ANTES DO CAOS",
+        "url": "https://open.spotify.com/album/2BFosqa97kxv0HBBeB02d8"
+      },
+      "artists": [
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        }
+      ],
+      "duration_ms": 124651,
+      "name": "GLOCK DE COR",
+      "url": "https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6"
     },
     {
       "added_at": "2026-05-15 17:27:59",

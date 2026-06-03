@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-518 songs - 1 day 8 hr 4 min
+523 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Alive](https://open.spotify.com/track/7bCLybOMzLDnnSFGpzTcDT) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Alive](https://open.spotify.com/album/7JVqWLK0aI5rdAfmkikp88) | 4:17 | 2025-12-23 | 2026-01-21 |
 | [All Along](https://open.spotify.com/track/24XphTpo1iSOJcWgBUCZUZ) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:37 | 2026-03-12 | 2026-04-20 |
 | [All I Know \- 2025 Remaster](https://open.spotify.com/track/2FZPTSFBfhy9rPtSDhtBDb) | [Silverbird](https://open.spotify.com/artist/035EbN0ZDZgyxcR2nzZUvW) | [All I Know \(2025 Remaster\)](https://open.spotify.com/album/5HecYSQaBgRpgTfjsVGMal) | 5:02 | 2026-01-31 | 2026-03-04 |
+| [All I Want From You \(Distribution\)](https://open.spotify.com/track/3oD3uLVohw5dcJP5WugSYV) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [All I Want From You](https://open.spotify.com/album/2Gi2yf2kTvuRBLGlORfSWr) | 2:29 | 2026-06-02 |  |
 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2025-12-05 | 2025-12-28 |
 | [All Things End](https://open.spotify.com/track/5nYUZedrldN3kCDohW4OkW) | [Ethan William Bowers](https://open.spotify.com/artist/1mNm642Xb2pIwHpkYO1dy6), [The Painted Strangers](https://open.spotify.com/artist/3xCaCW1JCbmKulU3XRhKaX) | [Panic Tax](https://open.spotify.com/album/5BVyxf28qJwmNUdOR9GZuL) | 4:01 | 2026-01-06 | 2026-02-02 |
 | [Almas Crueles](https://open.spotify.com/track/18w7lvGQeQErLHd6DhIpOo) | [MARSEYA](https://open.spotify.com/artist/6LysldjbzfwmtMTCzFF2Rg) | [Almas Crueles](https://open.spotify.com/album/0AmyYFl8hQOrlxGUbr4dxE) | 5:24 | 2026-03-20 | 2026-04-20 |
@@ -55,6 +56,7 @@
 | [Back on the Chain Gang](https://open.spotify.com/track/780AZOfAaKecd83UUEYqVW) | [Gigi Scott](https://open.spotify.com/artist/333VviZLcrBgqyvaX9Tab8) | [Back on the Chain Gang](https://open.spotify.com/album/1TtpRhlOogrGGRaf1Zr2wV) | 4:09 | 2025-12-29 | 2026-01-21 |
 | [Back to Zero](https://open.spotify.com/track/5h4P5D7fapPvJE2u9Z4V03) | [Aaron Friend & the Enemies](https://open.spotify.com/artist/1w0QljQB8KWyuRWEnBgTeM) | [Back to Zero](https://open.spotify.com/album/2YVLvdyUCUsHdT9dhzUxHv) | 2:55 | 2025-11-26 | 2026-01-05 |
 | [Backwater Showdown](https://open.spotify.com/track/19EYqbVss1xiJsbKOZtTRs) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Backwater Showdown](https://open.spotify.com/album/6FHFX0VBlegyiCEBg7enoq) | 2:45 | 2026-03-14 | 2026-04-20 |
+| [BAD GAME](https://open.spotify.com/track/7KwBjKoOlcjY1gl2rEVfpA) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BENNINGTON STREET](https://open.spotify.com/album/5Ggf3woWQiwf74Ls5vjnw6) | 4:14 | 2026-06-02 |  |
 | [bad lover](https://open.spotify.com/track/4x6kXW5VVDFON1BaVI9OtG) | [Brake Loose](https://open.spotify.com/artist/0sklfNVhTLHQtAbLU1cqVA) | [bad lover](https://open.spotify.com/album/0M4u625Q69qPri1148zoe3) | 4:57 | 2026-03-27 | 2026-04-20 |
 | [Baron Samedi](https://open.spotify.com/track/1TqhI39fe1XbZBkwRMmlrZ) | [Phantom Heart](https://open.spotify.com/artist/5BRfIfZqBuKXYbG3b9Errd) | [Phantom Heart](https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8) | 4:33 | 2026-01-28 | 2026-02-18 |
 | [Be Able to Love](https://open.spotify.com/track/2WMcEWz3MGj2IkpaFxOi3W) | [EVGHENI TULGENCO](https://open.spotify.com/artist/65mGQebSGhzcpia0NZ4X3w) | [Be Able to Love](https://open.spotify.com/album/7aeQRtbSegbwni28Yb8QRo) | 3:06 | 2026-02-10 | 2026-03-04 |
@@ -171,6 +173,7 @@
 | [Forevermore](https://open.spotify.com/track/3KRoY2UGaqPYjCAE1s0VZ4) | [Emsea](https://open.spotify.com/artist/0kL5zjWSBa6fTL1clT465u) | [Forevermore](https://open.spotify.com/album/2kBRZdj6vBhuuG1gvl93W0) | 2:42 | 2026-02-07 | 2026-03-04 |
 | [Former Familiars](https://open.spotify.com/track/42nPI8i0ytjsI9s8qaBZ1Q) | [Nicolust](https://open.spotify.com/artist/0uZVCERmBAm9C9PWvbIwlb) | [Former Familiars](https://open.spotify.com/album/2oR5fZvdLWdJndK28PdXv4) | 4:21 | 2026-03-18 | 2026-04-20 |
 | [FREAKS](https://open.spotify.com/track/1ZtQmNimRvDM35hqQO3QHa) | [YESLA](https://open.spotify.com/artist/7CbFOx3il5PpL5FJQVxvle) | [FREAKS](https://open.spotify.com/album/1H6e90sxK6XJWm3F8Qm0vR) | 2:27 | 2026-05-01 |  |
+| [Freedom](https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Fly Eagle Fly](https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv) | 3:29 | 2026-06-02 |  |
 | [Full Sway](https://open.spotify.com/track/3Rki4S4PaAnrsceZ58IIE0) | [Blue Drip](https://open.spotify.com/artist/7GgaHnzEx7IFkJearygbKk) | [Full Sway](https://open.spotify.com/album/6sSBHo3QJj5BRTlGNFSXgX) | 3:39 | 2026-02-20 | 2026-05-26 |
 | [Furniture](https://open.spotify.com/track/0aLWoinlTtoPj47vmM03BD) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Furniture](https://open.spotify.com/album/3njCKYLIGVRpN3Ys448Smq) | 4:07 | 2025-12-30 | 2026-02-04 |
 | [Gave my life for Rock'n'Roll](https://open.spotify.com/track/0CDJYw9HCLnv3IUTPSke9e) | [Dirty Heavens](https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e) | [Drive](https://open.spotify.com/album/2K31pQeLiHFAZVGL1IC6tS) | 2:52 | 2026-03-21 |  |
@@ -223,6 +226,7 @@
 | [ill\-intent](https://open.spotify.com/track/0E80R4bro3Xmh3DwJm9VBy) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [Mort D'Amour](https://open.spotify.com/album/73CPs6sCPgCBSyIZolAaSc) | 2:54 | 2025-10-28 | 2025-11-22 |
 | [Impostor](https://open.spotify.com/track/5M2Xbywtmoe2wdhHy7gMHe) | [BRAVA HC](https://open.spotify.com/artist/5xCfJYUnnIkUjjuIA0tfUn) | [Impostor](https://open.spotify.com/album/310tBlOOWUERHbf0xTbRBR) | 3:01 | 2025-12-29 | 2026-01-21 |
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 | 2025-12-12 |
+| [In The Dark](https://open.spotify.com/track/1tVhSbVfhWn3dp80negdBc) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [In The Dark](https://open.spotify.com/album/6kUqfO3Zl3jaw4mC91o1SJ) | 3:08 | 2026-06-02 |  |
 | [It Never Rains in Southern California](https://open.spotify.com/track/3wfaNsrfzu364Ue4Uwn96V) | [Darow](https://open.spotify.com/artist/1fJhkmWQSxhFSCe4ZGKj0l) | [It Never Rains in Southern California](https://open.spotify.com/album/0DNRbJVfBp5PlyR8q4YCXs) | 3:52 | 2026-03-20 |  |
 | [It's Been a While \- Remastered](https://open.spotify.com/track/3DF5kTTZ9zsy45hhTqzbXH) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [It's Been a While \(Remastered\)](https://open.spotify.com/album/4VELm0GmTzKMDVgvxBNdA2) | 4:15 | 2026-01-19 | 2026-05-17 |
 | [It's Not Much But It's Honest](https://open.spotify.com/track/7qk61UVR5b4uOZPERARakC) | [Chase Cavanaugh](https://open.spotify.com/artist/6DH1kypdObaGWIcKEefQEQ) | [It's Not Much But It's Honest](https://open.spotify.com/album/0s6g5E03GbA8a6rK2G2rfI) | 4:08 | 2026-01-22 | 2026-02-18 |
@@ -406,6 +410,7 @@
 | [Step Back](https://open.spotify.com/track/6M2aKsUboctabwZD4BnIpZ) | [Josiah Lee](https://open.spotify.com/artist/5JzpGMc1evn1FQqFSN5ba0) | [Step Back](https://open.spotify.com/album/4AsC6gnDD0rAQnWmgVe7dv) | 4:11 | 2026-01-03 | 2026-02-04 |
 | [Still Here](https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Still Here](https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz) | 3:48 | 2025-12-13 | 2026-01-05 |
 | [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 | 2025-12-20 | 2026-01-21 |
+| [Stone](https://open.spotify.com/track/6AbB4SLDajR2skDmAs5lVc) | [Graveyard Choir](https://open.spotify.com/artist/0RtF7RdYO3Jfhmw0JQSmX2) | [Stone](https://open.spotify.com/album/4ieLV6fk5MkrgRcgeQWkO8) | 3:57 | 2026-06-02 |  |
 | [Stop the Bleed](https://open.spotify.com/track/6SRtsdb5b1XfiQZo3vOBL1) | [Dreamer](https://open.spotify.com/artist/5LTRsVTTIAo7vGHEEzzACU) | [Stop the Bleed](https://open.spotify.com/album/5frACqlScmLdqmPv3sB7nT) | 5:24 | 2026-03-18 | 2026-04-20 |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-09-11 |  |
 | [Streetlights](https://open.spotify.com/track/7ubD7mlFekl7QGt6Vb6MAE) | [Dylan Camp](https://open.spotify.com/artist/0j2dNJnUm8oeQGR10pbBGv) | [Streetlights](https://open.spotify.com/album/5HpOdgBKfslIGUTMCGrXJP) | 4:19 | 2025-12-11 | 2026-01-05 |

@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 75694,
+  "num_followers": 75701,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -275,18 +275,18 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
+        "name": "Feel My Love",
+        "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
       },
       "artists": [
         {
-          "name": "Blossom",
-          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+          "name": "Eskei83",
+          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
+      "duration_ms": 224827,
+      "name": "Feel My Love",
+      "url": "https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl"
     },
     {
       "added_at": "2026-05-29 11:05:52",
@@ -355,18 +355,18 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
-        "name": "Feel My Love",
-        "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
       },
       "artists": [
         {
-          "name": "Eskei83",
-          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
         }
       ],
-      "duration_ms": 224827,
-      "name": "Feel My Love",
-      "url": "https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl"
+      "duration_ms": 180000,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
     },
     {
       "added_at": "2026-05-29 11:05:52",
@@ -587,6 +587,46 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
+        "name": "On The Gas",
+        "url": "https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO"
+      },
+      "artists": [
+        {
+          "name": "MANIA",
+          "url": "https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "On The Gas",
+      "url": "https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr"
+    },
+    {
+      "added_at": "2026-05-29 11:05:52",
+      "album": {
+        "name": "Beamin\u2019 (K Motionz & skantia Remix)",
+        "url": "https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "skantia",
+          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 243103,
+      "name": "Beamin\u2019 - K Motionz & skantia Remix",
+      "url": "https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr"
+    },
+    {
+      "added_at": "2026-05-29 11:05:52",
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
       },
@@ -627,46 +667,6 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
-        "name": "Beamin\u2019 (K Motionz & skantia Remix)",
-        "url": "https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ"
-      },
-      "artists": [
-        {
-          "name": "K Motionz",
-          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
-        },
-        {
-          "name": "skantia",
-          "url": "https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M"
-        },
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 243103,
-      "name": "Beamin\u2019 - K Motionz & skantia Remix",
-      "url": "https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr"
-    },
-    {
-      "added_at": "2026-05-29 11:05:52",
-      "album": {
-        "name": "Left 2 Right",
-        "url": "https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6"
-      },
-      "artists": [
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Left 2 Right",
-      "url": "https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE"
-    },
-    {
-      "added_at": "2026-05-29 11:05:52",
-      "album": {
         "name": "Goose Chase",
         "url": "https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX"
       },
@@ -683,38 +683,18 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
-        "name": "On The Gas",
-        "url": "https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO"
+        "name": "Left 2 Right",
+        "url": "https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6"
       },
       "artists": [
         {
-          "name": "MANIA",
-          "url": "https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c"
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
         }
       ],
-      "duration_ms": 178285,
-      "name": "On The Gas",
-      "url": "https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr"
-    },
-    {
-      "added_at": "2026-05-29 11:05:52",
-      "album": {
-        "name": "Reaper (feat. Comma Dee)",
-        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 213793,
-      "name": "Reaper (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
+      "duration_ms": 202971,
+      "name": "Left 2 Right",
+      "url": "https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE"
     },
     {
       "added_at": "2026-05-29 11:05:52",
@@ -739,6 +719,26 @@
       "duration_ms": 135428,
       "name": "Raving In The Studio (SOTA Remix)",
       "url": "https://open.spotify.com/track/2imZwMeS2WLiPcgAbjo15T"
+    },
+    {
+      "added_at": "2026-05-29 11:05:52",
+      "album": {
+        "name": "Reaper (feat. Comma Dee)",
+        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 213793,
+      "name": "Reaper (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
     },
     {
       "added_at": "2026-05-29 11:05:52",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
-        "name": "Winter Mix Vol.2",
-        "url": "https://open.spotify.com/album/5LbxXb4abEIXhy0Qv5WC66"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 76800,
-      "name": "Cascade - Mixed",
-      "url": "https://open.spotify.com/track/3rH8Q8cPoYxfZUjGAJa39B"
-    },
-    {
-      "added_at": "2026-05-29 11:05:52",
-      "album": {
         "name": "Go Hard / Wednesday",
         "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 267586,
       "name": "Go Hard",
       "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
+    },
+    {
+      "added_at": "2026-05-29 11:05:52",
+      "album": {
+        "name": "Winter Mix Vol.2",
+        "url": "https://open.spotify.com/album/5LbxXb4abEIXhy0Qv5WC66"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 76800,
+      "name": "Cascade - Mixed",
+      "url": "https://open.spotify.com/track/3rH8Q8cPoYxfZUjGAJa39B"
     },
     {
       "added_at": "2026-05-29 11:05:52",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-05-29 11:05:52",
       "album": {
+        "name": "There In 10",
+        "url": "https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 246896,
+      "name": "There In 10",
+      "url": "https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t"
+    },
+    {
+      "added_at": "2026-05-29 11:05:52",
+      "album": {
         "name": "Dopamine Hits",
         "url": "https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 189767,
       "name": "Dopamine Hits",
       "url": "https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ"
-    },
-    {
-      "added_at": "2026-05-29 11:05:52",
-      "album": {
-        "name": "There In 10",
-        "url": "https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 246896,
-      "name": "There In 10",
-      "url": "https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t"
     },
     {
       "added_at": "2026-05-29 11:05:52",

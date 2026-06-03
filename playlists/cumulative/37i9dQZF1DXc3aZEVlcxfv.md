@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-623 songs - 1 day 17 hr 54 min
+624 songs - 1 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Chosen](https://open.spotify.com/track/1NyHiKFrCnfjF4PLC67plt) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Natalie Okri](https://open.spotify.com/artist/003ZYdCrDxEZWWeaqhCP3j), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Chosen](https://open.spotify.com/album/1JZc8NYUgV69snK0a2tur3) | 2:10 | 2025-10-31 | 2026-02-20 |
 | [Citizen](https://open.spotify.com/track/6NYcrgToyDj04al4ZMtHxz) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2), [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Citizen](https://open.spotify.com/album/2jPZbmDIJ7TCb3DMh0Fywl) | 4:59 | 2026-03-27 |  |
 | [Close to your heart](https://open.spotify.com/track/39FHha4rtCHneBKKPXTWW2) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Close to your heart](https://open.spotify.com/album/105k38qJ7nB810q8kvsBRy) | 2:33 | 2024-10-11 | 2025-02-07 |
-| [Closer](https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Closer](https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3) | 2:13 | 2026-03-20 |  |
+| [Closer](https://open.spotify.com/track/1CEJTnMr4DoPrYvbNbdAmS) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Closer](https://open.spotify.com/album/6keem9E7SyTfokxcZozuB3) | 2:13 | 2026-03-20 | 2026-06-03 |
 | [Come & See](https://open.spotify.com/track/2A5oGxrKWwNcEoAJcnUX4d) | [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j), [KIMAH](https://open.spotify.com/artist/3A3j7JESpmqIZQNz4C7GRn), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [Come & See](https://open.spotify.com/album/3oMJySAfI9s3ZdbRnueFpa) | 3:09 | 2025-09-19 | 2026-02-27 |
 | [Come & See](https://open.spotify.com/track/08LgmPa7dOIZwyYopfpODG) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Come & See](https://open.spotify.com/album/6I9cZjzDQxgFeo4W41HOgw) | 3:15 | 2025-01-31 | 2025-04-11 |
 | [Comforted](https://open.spotify.com/track/7hCfPfBRupU5PtBqbX4oYg) | [Annette Nandine](https://open.spotify.com/artist/0euQcM7EekIFq5VcIRyyrt), [Barnie Michael](https://open.spotify.com/artist/0wm9JYbUUaNlGRYyHpDdDq) | [Comforted](https://open.spotify.com/album/4sYSL6DGR18zJSPUimDJ0o) | 2:54 | 2026-02-13 | 2026-02-27 |
@@ -444,6 +444,7 @@
 | [Ogo](https://open.spotify.com/track/48cvOppznTu76T12L5RCF9) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE) | [Ogo](https://open.spotify.com/album/1d9pKspTWQ5AryZa5XBaHj) | 6:18 | 2024-11-15 | 2025-02-07 |
 | [Oh My God O](https://open.spotify.com/track/1bv4gai9axfY4EQ9QHrDzz) | [Enkay Ogboruche](https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX) | [Oh My God O](https://open.spotify.com/album/5Wtcxl8vZfenmHPa3LWhLF) | 5:47 | 2025-12-12 | 2026-02-27 |
 | [Oh My Soul](https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh), [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Pst\. Oche Ogebe](https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk) | [Oh My Soul](https://open.spotify.com/album/0kCQtj3r882jtLDX7TvxUy) | 2:52 | 2026-05-15 |  |
+| [OINS MOI ENCORE](https://open.spotify.com/track/6Nr1IHqWZllh494l9DIxEM) | [Marius Psalmiste](https://open.spotify.com/artist/7D5oRKDVOHKULH718U6hOf) | [OINS MOI ENCORE](https://open.spotify.com/album/0ykgQXzMWGzVH0dhO3g4e9) | 5:36 | 2026-05-22 |  |
 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 | 2024-09-27 | 2025-02-28 |
 | [Olurapada](https://open.spotify.com/track/2js7F5DvF0thAggs9An2rP) | [Paul Akadi](https://open.spotify.com/artist/2cbc9yq0kt2sTJJQLlMD6s), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [Olurapada](https://open.spotify.com/album/1fGgeIsErNuXGDeKqLApfd) | 5:14 | 2025-08-15 | 2025-09-26 |
 | [Oluwa is Involved](https://open.spotify.com/track/3RnsjEScubf0TKdH2HP1oP) | [Faith Child](https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Oluwa is Involved](https://open.spotify.com/album/47TponZngaYl10SgRs5jrJ) | 3:08 | 2025-06-06 | 2025-07-04 |

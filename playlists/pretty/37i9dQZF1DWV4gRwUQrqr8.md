@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4gRwUQrqr8.md) - [plain]
 
 > Enjoy the SEVENTEEN fan meeting LIVE SET including the voices of them on stage! \(세븐틴의 무대 멘트와 목소리가 포함된 팬미팅 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,551 likes - 21 songs - 48 min 13 sec
+[Spotify](https://open.spotify.com/user/spotify) - 37,552 likes - 21 songs - 48 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4gRwUQrqr8.md) - [plain]
 | 5 | [Oath!](https://open.spotify.com/track/6CwY8kI2T1vLYA0BcmQ72I) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8TH FANMEETING \[SEVENTEEN in CARAT LAND\] audio liners](https://open.spotify.com/album/6nTumTmTy58sux3gxsUeOA) | 1:05 |
 | 6 | [Are you ready to love?](https://open.spotify.com/track/1xwc9bxxzn7wuFUNaT8P9f) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8TH FANMEETING \[SEVENTEEN in CARAT LAND\] audio liners](https://open.spotify.com/album/6nTumTmTy58sux3gxsUeOA) | 0:31 |
 | 7 | [Ready to love](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Your Choice](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:06 |
-| 8 | [Last night \(Guitar by Park Juwon\)](https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS) | [JxW](https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D) | [JxW 1st Single Album 'THIS MAN'](https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN) | 2:56 |
+| 8 | [Last night \(Guitar by Park Juwon\)](https://open.spotify.com/track/0Qh8dlEJ3jVWk57Ql6XrdS) | [JxW](https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D) | [THIS MAN](https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN) | 2:56 |
 | 9 | [HAHAHAHAHA](https://open.spotify.com/track/3sgXcz2SfZ2QQ64TqY2BZ2) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8TH FANMEETING \[SEVENTEEN in CARAT LAND\] audio liners](https://open.spotify.com/album/6nTumTmTy58sux3gxsUeOA) | 1:01 |
-| 10 | [Spell](https://open.spotify.com/track/2L6QRccSHAsdZDc9gz6Bfi) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:17 |
-| 11 | [Cheers to youth](https://open.spotify.com/track/1XvOEvWtfa879Wk1wKHZ1M) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:11 |
-| 12 | [LALALI](https://open.spotify.com/track/45xiC13XQsLhV57FxQLlLV) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 2:51 |
+| 10 | [Spell](https://open.spotify.com/track/2L6QRccSHAsdZDc9gz6Bfi) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [17 IS RIGHT HERE](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:17 |
+| 11 | [Cheers to youth](https://open.spotify.com/track/1XvOEvWtfa879Wk1wKHZ1M) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [17 IS RIGHT HERE](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 3:11 |
+| 12 | [LALALI](https://open.spotify.com/track/45xiC13XQsLhV57FxQLlLV) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [17 IS RIGHT HERE](https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H) | 2:51 |
 | 13 | [God of Light Music](https://open.spotify.com/track/0xZ4WU5UfctiSeETi6pMEo) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [God of Light Music](https://open.spotify.com/album/2tVPLB5F9IsgPn4mvLQ7RJ) | 1:31 |
 | 14 | [Closing Ment](https://open.spotify.com/track/3zPA5rXiRTHatwEwNvoKk7) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8TH FANMEETING \[SEVENTEEN in CARAT LAND\] audio liners](https://open.spotify.com/album/6nTumTmTy58sux3gxsUeOA) | 1:15 |
 | 15 | [Shining Diamond](https://open.spotify.com/track/4BHThgh4ODCszIJ6e4YGGw) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1st Mini Album ’17 CARAT’](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:23 |

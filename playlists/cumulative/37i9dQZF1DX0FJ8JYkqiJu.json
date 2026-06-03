@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/2iLBIRq4QOWhSz2kSxSPGD"
+      },
+      "artists": [
+        {
+          "name": "Kaikobad",
+          "url": "https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168413,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/2JFuRLC2Og0YaMAB2Lq47u"
+    },
+    {
+      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/0vfdK80R66YlGqR7SmlZMl"
       },
@@ -670,7 +688,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 236065,
       "name": "Before (I Remember You're Not Mine)",
       "url": "https://open.spotify.com/track/1EjNx5hSiYGlXpYwxJmwaX"
@@ -1747,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "STANDOUT",
+        "url": "https://open.spotify.com/album/7zrAaDBtgjDprzv1zXRtm4"
+      },
+      "artists": [
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135762,
+      "name": "FAR",
+      "url": "https://open.spotify.com/track/6gmSMIDB3CjwWxFwWQXy0v"
+    },
+    {
+      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak"
       },
@@ -1933,6 +1969,28 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6MAjiisN6QMWW8lHbsyIb3"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211233,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1ymIM4nUVE2IDbmMjgBWoT"
+    },
+    {
+      "album": {
         "name": "Friend Of Mine (from the Smurfs Movie Soundtrack)",
         "url": "https://open.spotify.com/album/4oMOlmQhamS6cOqqG5aU0Y"
       },
@@ -2006,7 +2064,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 211191,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
@@ -2968,7 +3026,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 228250,
       "name": "Kimpton",
       "url": "https://open.spotify.com/track/1wxZ9pAu1nW79Toy255OFz"
@@ -3976,7 +4034,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 204179,
       "name": "Never Alone (feat. Lizzy Land)",
       "url": "https://open.spotify.com/track/1UAY4CHyzaFtqZDQ8z63GS"
@@ -4370,7 +4428,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 111453,
       "name": "One I Want",
       "url": "https://open.spotify.com/track/5CY36NZEfn5Z6lq4936oz4"
@@ -5861,6 +5919,24 @@
     },
     {
       "album": {
+        "name": "There's a Way Out of Here",
+        "url": "https://open.spotify.com/album/4PK8q9meBldNjulyshnsDv"
+      },
+      "artists": [
+        {
+          "name": "breathe.",
+          "url": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225633,
+      "name": "There's a Way Out of Here",
+      "url": "https://open.spotify.com/track/18N9RXh8A7GThdKQcZ8gw9"
+    },
+    {
+      "album": {
         "name": "Think Of Me",
         "url": "https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH"
       },
@@ -6318,6 +6394,24 @@
       "duration_ms": 204605,
       "name": "Walking on a Dream",
       "url": "https://open.spotify.com/track/1ifqHSKJZm62EUq00myuAM"
+    },
+    {
+      "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195812,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els"
     },
     {
       "album": {

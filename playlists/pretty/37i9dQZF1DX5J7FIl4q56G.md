@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: A Perfect Circle
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,307 likes - 150 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,355 likes - 150 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 7 | [Undead Melody](https://open.spotify.com/track/5660YXko5VfDLGv0jZysqu) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Undead Melody](https://open.spotify.com/album/3fdWvGkNNdjF3L9b4c4hrW) | 2:52 |
 | 8 | [dull blade disguise](https://open.spotify.com/track/2O8SjoHVVfVvDLLpwrXAhL) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [Injury Episode](https://open.spotify.com/album/0nZNn9KNOqjQ45hMK4a2X2) | 4:23 |
 | 9 | [Resurge](https://open.spotify.com/track/2HaLls9gZTjwAffcUgCmSa) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Resurge](https://open.spotify.com/album/1iqxPyYTSbIaUiVFIGA6cf) | 3:16 |
-| 10 | [The Beautiful Writing](https://open.spotify.com/track/5Fqz3OGvT0M2uWGiJ0VSfC) | [Balmora](https://open.spotify.com/artist/4thpVPtc68xxR1kilVSPPN), [ I Promised The World](https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk) | [These Graven Halls](https://open.spotify.com/album/6BFhtgNwWNxLSpkxIRnRwC) | 4:27 |
+| 10 | [The Beautiful Writing](https://open.spotify.com/track/5Fqz3OGvT0M2uWGiJ0VSfC) | [Balmora](https://open.spotify.com/artist/4thpVPtc68xxR1kilVSPPN) | [These Graven Halls](https://open.spotify.com/album/6BFhtgNwWNxLSpkxIRnRwC) | 4:27 |
 | 11 | [A Pathetic Excuse for a Life](https://open.spotify.com/track/4TclSgGXb8pTYUYxBPq7Dr) | [Melting](https://open.spotify.com/artist/278giTAVjr5a29IC3LOwRF), [Scorching Tomb](https://open.spotify.com/artist/4fqQjlP8gdh1sKCwEJBlYP) | [A Pathetic Excuse For A Life](https://open.spotify.com/album/3HPOuI1m4lkIBbLSGPSYSd) | 3:41 |
 | 12 | [Digital Phantom](https://open.spotify.com/track/4EEfJjZG1HZujEmt1armYy) | [Wolf & Bear](https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a) | [A Hill To Die On](https://open.spotify.com/album/3LOIHTEyIVIyIzAi667nOi) | 3:52 |
 | 13 | [ALWAYS LOVE](https://open.spotify.com/track/5fYR9SlO8EbKzocwg0ZRb1) | ['68](https://open.spotify.com/artist/51EEn3UICoilrrWVZFz30C) | [They Are Survived](https://open.spotify.com/album/7v640TekZCFHIPNPhVRdEZ) | 2:43 |

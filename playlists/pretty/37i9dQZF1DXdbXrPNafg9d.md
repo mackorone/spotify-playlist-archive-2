@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: ear
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,292,197 likes - 175 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,292,203 likes - 175 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 89 | [Mr\. Man](https://open.spotify.com/track/35AiVkvqeGcKWE8bURtPKQ) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH), [Dominique Da Silva](https://open.spotify.com/artist/4r8PxDmz7OklWJ6OP4TibY) | [Mr\. Man](https://open.spotify.com/album/0v7pPCvtl5su0WU8d0WoO8) | 2:06 |
 | 90 | [Multiplied](https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Multiplied](https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R) | 3:02 |
 | 91 | [Stem the Flow](https://open.spotify.com/track/2NEJSUekQg1nVvTI0ctJeA) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Stem the Flow](https://open.spotify.com/album/3veAU4R5iCyQrNKRHIvKrE) | 4:03 |
-| 92 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
+| 92 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
 | 93 | [linknb](https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [linknb](https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc) | 1:55 |
 | 94 | [confessions part iii](https://open.spotify.com/track/2y4LQN6xlAMXOJibSrnPlS) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [confessions part iii](https://open.spotify.com/album/5lh2ASzeSuQwkzxV5PHUME) | 2:01 |
 | 95 | [The Weak](https://open.spotify.com/track/5VynIbPZQP6UR2JTddLKqw) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [The Weak](https://open.spotify.com/album/6TTLoKr8xfA8yKEGJACJQ7) | 3:15 |
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 123 | [grapevine](https://open.spotify.com/track/37x7bNCSFxzYXoyrDZXQZd) | [lots of hands](https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9) | [grapevine](https://open.spotify.com/album/1qHcE3ty5vL6pzzAkLw1HX) | 4:27 |
 | 124 | [Better Than That](https://open.spotify.com/track/0onBhjrWas5P5wM1yD04Xz) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Better Than That](https://open.spotify.com/album/27GVjqkyvLFmiIGv7AqSI7) | 5:32 |
 | 125 | [2 Collide](https://open.spotify.com/track/2HS9rjFsNh0lZLT99dxEc7) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [2 Collide](https://open.spotify.com/album/0DBnpw7hbkh4pgPr6x3GNR) | 4:07 |
-| 126 | [Arthur \(feat\. DERBY\)](https://open.spotify.com/track/0jr6HPls0E2oy8fY4Cn4JD) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE), [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [PATINA](https://open.spotify.com/album/3M2itoN7Z2CeqEc82SLTJk) | 3:13 |
-| 127 | [Just A Man](https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Just A Man](https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A) | 2:38 |
+| 126 | [Arthur \(feat\. DERBY\)](https://open.spotify.com/track/0jr6HPls0E2oy8fY4Cn4JD) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE), [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [PATINA](https://open.spotify.com/album/3M2itoN7Z2CeqEc82SLTJk) | 3:13 |
+| 127 | [just a man](https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [just a man](https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A) | 2:38 |
 | 128 | [Lost and Found](https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Ready](https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT) | 2:52 |
 | 129 | [BLUE SASHIKO](https://open.spotify.com/track/48q6ydWwv9T8To52lHrkzL) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [BLUE SASHIKO](https://open.spotify.com/album/6CcwhUSslJAm2B7SHul1Ms) | 2:46 |
 | 130 | [Lazy Dreams](https://open.spotify.com/track/7fjRfwPl4Ay7o70O5eaRIp) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Lazy Dreams](https://open.spotify.com/album/1AfMfdbzcWXW4FW5zUkmwq) | 3:16 |

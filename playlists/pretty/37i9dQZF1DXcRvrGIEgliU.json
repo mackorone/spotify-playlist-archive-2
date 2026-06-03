@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 17293,
+  "num_followers": 17321,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
-        "url": "https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1"
-      },
-      "artists": [
-        {
-          "name": "buitruonglinh",
-          "url": "https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm"
-        }
-      ],
-      "duration_ms": 233975,
-      "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
-      "url": "https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 159130,
       "name": "moonlight",
       "url": "https://open.spotify.com/track/2Qn6WHJrY5Im82Jux8FboH"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
+        "url": "https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1"
+      },
+      "artists": [
+        {
+          "name": "buitruonglinh",
+          "url": "https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm"
+        }
+      ],
+      "duration_ms": 233975,
+      "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
+      "url": "https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Box for Buddy, Box for Star",
-        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 273460,
-      "name": "I'm All Fucked Up",
-      "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Tirando Balas",
         "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 173748,
       "name": "Tirando Balas",
       "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Box for Buddy, Box for Star",
+        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 273460,
+      "name": "I'm All Fucked Up",
+      "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "GASLIGHT",
-        "url": "https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "GASLIGHT",
-      "url": "https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1iDDVV1s6Qa6oDAEOrc4WL"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 207307,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7aGSmvVvSjrpLlklaWSvG3"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "GASLIGHT",
+        "url": "https://open.spotify.com/album/3xhS4dVY0ActRZO8tE0cGh"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 197013,
+      "name": "GASLIGHT",
+      "url": "https://open.spotify.com/track/7IybpxLp5E4Hs1jKbPNSKx"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "CHATO",
-        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 162178,
-      "name": "Joga Bonito",
-      "url": "https://open.spotify.com/track/2BNJG8TLuZcp3yLtEUeGfr"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 277200,
       "name": "False Direction",
       "url": "https://open.spotify.com/track/110PnrQX9AJIt3HNJtjPgt"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "CHATO",
+        "url": "https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 162178,
+      "name": "Joga Bonito",
+      "url": "https://open.spotify.com/track/2BNJG8TLuZcp3yLtEUeGfr"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Shawty",
+        "url": "https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "Shawty",
+      "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Can't Hide",
         "url": "https://open.spotify.com/album/7mtjKxnZh0ISlfYa149pTW"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 184000,
       "name": "Can't Hide",
       "url": "https://open.spotify.com/track/7CotyU8EcChJlqOFnxPPmI"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Shawty",
-        "url": "https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "Shawty",
-      "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "gin and wine (ginuwine)",
-        "url": "https://open.spotify.com/album/2YH9ROddBBiwwK60vNqGsz"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 129473,
-      "name": "gin and wine (ginuwine)",
-      "url": "https://open.spotify.com/track/0NCPFi6xi9C75yvdfukZKY"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "A Lot More Free",
         "url": "https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 132986,
       "name": "Shotta Flow 2",
       "url": "https://open.spotify.com/track/26X0iVtpSOySWPTcQAc5ul"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "gin and wine (ginuwine)",
+        "url": "https://open.spotify.com/album/2YH9ROddBBiwwK60vNqGsz"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 129473,
+      "name": "gin and wine (ginuwine)",
+      "url": "https://open.spotify.com/track/0NCPFi6xi9C75yvdfukZKY"
     },
     {
       "added_at": "2025-05-19 03:00:14",

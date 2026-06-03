@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > Jobi Riccio on the cover <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,713 likes - 146 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,784 likes - 146 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Down Debbie/Reservoir](https://open.spotify.com/track/01M4zeod1IYrXGRSie9CmQ) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Down Debbie/Reservoir](https://open.spotify.com/album/1kKx979DVgL3MNOA1F7G6v) | 3:30 |
 | 2 | [A Little at a Time](https://open.spotify.com/track/29tZfTb09xQTjo7zMpVPj7) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Face The Feeling](https://open.spotify.com/album/0nbOE96i0mvngykkXaQew0) | 4:16 |
-| 3 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
+| 3 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
 | 4 | [for love's sake](https://open.spotify.com/track/3bAoL5RpaXCs40ndVBsj54) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [for love's sake](https://open.spotify.com/album/6Gili2PS0vC97P5HIZRPJG) | 3:14 |
 | 5 | [scratch](https://open.spotify.com/track/73W3LkcxKvzCJ2vthJXk7M) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [emory](https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE) | [Pigeons & Planes Presents: See You Next Year 3](https://open.spotify.com/album/1LjkpcxdrqE8mSDghyhlwu) | 2:43 |
 | 6 | [Past The Veil](https://open.spotify.com/track/3O8bppZYaCYnYb2DtjbLVw) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Past The Veil](https://open.spotify.com/album/2VEyBgA2GuxhTmQZaOAjGW) | 3:52 |

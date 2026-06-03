@@ -4,10 +4,11 @@
 
 > Kubilay Karça ve haftanın en iyi çıkışları!
 
-7,939 songs - 16 day 22 hr 45 min
+7,940 songs - 16 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["L'amour est un honneur"](https://open.spotify.com/track/1JnXiSBhKsajaGJeb5WTKv) | [Erdem Kınay](https://open.spotify.com/artist/4aCS0WLLZ3070ZDBOFJlHB) | ["L'amour est un honneur"](https://open.spotify.com/album/4mP5fB77E1BIMUCesOX5tu) | 3:11 | 2026-05-29 |  |
 | [\#\#acımbitmiyor](https://open.spotify.com/track/2rst28UttJQrZbl4iGlTAW) | [SWIRF](https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG) | [\#\#acımbitmiyor](https://open.spotify.com/album/7LWXWmywqxF7v7lS7zConx) | 2:10 | 2025-03-06 | 2025-03-14 |
 | [\#\#teslabar](https://open.spotify.com/track/2b6ZXicKPPKJU2cqkRHNXo) | [SWIRF](https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG) | [\#\#teslabar](https://open.spotify.com/album/50WP6MHahB5qKp1KJ0WGgJ) | 1:52 | 2025-09-04 | 2025-09-12 |
 | [\#atlasicinadalet](https://open.spotify.com/track/1diRHWreKWZaZRE0F6n3XV) | [cudi](https://open.spotify.com/artist/4PDG3CE9biFcxBuugZZEZP) | [\#atlasicinadalet](https://open.spotify.com/album/62SoQ3qFreEC8rDUpWk8Gh) | 2:42 | 2026-01-23 | 2026-01-30 |
@@ -6395,7 +6396,7 @@
 | [Takıntılar](https://open.spotify.com/track/0GneMloD6gUnp8RpDuXewD) | [Yasemin Mori](https://open.spotify.com/artist/1PaWbLip9XRxkmxmkzee1p) | [Takıntılar](https://open.spotify.com/album/5TD7Ck0gZVaR18JAqEQdfS) | 2:32 | 2025-06-05 | 2025-06-13 |
 | [Tal](https://open.spotify.com/track/79TWDL49kzGE8g2jyEG0Ev) | [ELIF](https://open.spotify.com/artist/1yatuhSYBeceXdDRg67hrm), [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT), [Shrii](https://open.spotify.com/artist/0kJnDYDVqQebEko4J5Gboo) | [Tal feat\. Shrii](https://open.spotify.com/album/5CUEAKIiHg5NqeAmo46fde) | 5:34 | 2025-10-23 | 2025-10-31 |
 | [Talan](https://open.spotify.com/track/4mEHEEbv2eYKg8kdUV44Ch) | [Nefiye Dilbay](https://open.spotify.com/artist/1XVrrX1j9ACVgRqXhclKpt) | [Talan](https://open.spotify.com/album/3jly3MOhIggQXLz9NQcv0m) | 3:13 | 2025-05-08 | 2025-05-16 |
-| [Talk](https://open.spotify.com/track/5Bs8K3OjU1fIQJ7I2GR2mu) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Omar Duro](https://open.spotify.com/artist/3QUcOtKpMPAbhxDkuW9SPV) | [Talk](https://open.spotify.com/album/5lBATMB20Ft9dtV1ntJasC) | 3:13 | 2026-05-28 |  |
+| [Talk](https://open.spotify.com/track/5Bs8K3OjU1fIQJ7I2GR2mu) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Omar Duro](https://open.spotify.com/artist/3QUcOtKpMPAbhxDkuW9SPV) | [Talk](https://open.spotify.com/album/5lBATMB20Ft9dtV1ntJasC) | 2:47 | 2026-05-28 |  |
 | [Talk](https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 3:17 | 2025-03-13 | 2025-03-21 |
 | [Talk](https://open.spotify.com/track/2TuxpGjF4fPTNLMXP28xYb) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First..\. And You Said It Back](https://open.spotify.com/album/5Gb94494MtenpCCWoNX0e5) | 2:12 | 2025-05-01 | 2025-05-09 |
 | [Talk to Me](https://open.spotify.com/track/0lZ2y46ebtJyP4vFKfrIgu) | [Cem Gemalmaz](https://open.spotify.com/artist/1Teuhfi833Ud7Jl3AnZRyZ) | [Hold on Me](https://open.spotify.com/album/6abqdspMLatKNqtM3JUKiW) | 4:17 | 2026-01-29 | 2026-02-06 |

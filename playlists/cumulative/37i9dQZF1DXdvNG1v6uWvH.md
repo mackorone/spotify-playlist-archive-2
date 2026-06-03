@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Ariana Grande, Bella Kay og mörgum fleiri!
 
-10,952 songs - 24 day 12 hr 15 min
+10,953 songs - 24 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5515,7 +5515,7 @@
 | [Let's Dance](https://open.spotify.com/track/2jNEy7Cd0gapx39YgdzhKD) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Let's Dance](https://open.spotify.com/album/3JWGEbw29Trh5MxFMjYEXv) | 4:08 | 2025-08-01 | 2025-08-09 |
 | [Let's Go](https://open.spotify.com/track/6Qr4ufjYXdEd0KNFd7sJxx) | [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Let's Go](https://open.spotify.com/album/44KFMrvFfUfkcBeKjJLjN6) | 2:39 | 2024-10-04 | 2024-10-11 |
 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 | 2024-09-06 | 2024-09-13 |
-| [Let's Go Camping](https://open.spotify.com/track/1uGSuoEVB0pmVPqHuNMjUB) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and Dance Man + Let's Go Camping](https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA) | 2:33 | 2026-05-29 |  |
+| [Let's Go Camping](https://open.spotify.com/track/1uGSuoEVB0pmVPqHuNMjUB) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and Dance Man + Let's Go Camping](https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA) | 2:33 | 2026-05-29 | 2026-06-03 |
 | [Let's Go Swimming](https://open.spotify.com/track/2f7IZQDBK8uCckTPRn4XdJ) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Let's Go Swimming](https://open.spotify.com/album/4CKsINjnNa1hfJjSpyNqi8) | 4:14 | 2025-02-21 | 2025-02-28 |
 | [Let's Keep Dancing \- ACIDTONE Remix](https://open.spotify.com/track/2XtJULAuP8vEyCPCqs0md7) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P), [ACIDTONE](https://open.spotify.com/artist/1UeDpdrQLEhXG93qIaDWiH) | [Let's Keep Dancing \(ACIDTONE Remix\)](https://open.spotify.com/album/5gTmhqcQYJZ35FAOz1FFgn) | 3:56 | 2024-09-20 | 2024-09-27 |
 | [Let's Leave Together](https://open.spotify.com/track/7xv3o3szm1R3zQDc95Q0eA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Let's Leave Together](https://open.spotify.com/album/7J2HCZc3g9V0KAq2DhAo7b) | 3:20 | 2025-01-31 | 2025-02-07 |
@@ -6560,6 +6560,7 @@
 | [Nancy Nightmare](https://open.spotify.com/track/56pbBTkY6PAokTBZy84znF) | [David Boring](https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj) | [Nancy Nightmare](https://open.spotify.com/album/7bjgFaOouB7zLsHH2d5mb2) | 5:02 | 2025-10-31 | 2025-11-07 |
 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-05-17 | 2024-05-24 |
 | [Nann Nigga \(Feat\. Kodak Black & Taylor So Made\)](https://open.spotify.com/track/6hDj57NAayUElhKCif8MxP) | [Sniper Gang](https://open.spotify.com/artist/1epzPjnUDvHNek0HqGsyOd), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Taylor So Made](https://open.spotify.com/artist/1CVbzV1vVVELYfOgi5wIqU) | [Nann Nigga \(Feat\. Kodak Black & Taylor So Made\)](https://open.spotify.com/album/3XSFPJGMq2RFLzJOyDcNk9) | 3:12 | 2025-07-25 | 2025-08-01 |
+| [Nano](https://open.spotify.com/track/6yrZoKcoa7EIx7e7uCCmPW) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Nano](https://open.spotify.com/album/3fv8OyR9optht1R8q7ReFk) | 3:36 | 2026-05-29 |  |
 | [Naomi \(feat\. MingTing\)](https://open.spotify.com/track/7b8vrWG6bEN2UtnmqN6WmQ) | [Melo Nada](https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI), [MingTing](https://open.spotify.com/artist/7c2bKaR3OVM6v5uYnwm1uq) | [Naomi \(feat\. MingTing\)](https://open.spotify.com/album/6GMwnYL8ggVZDA2TAy9TGq) | 2:10 | 2026-01-23 | 2026-01-30 |
 | [Nasty](https://open.spotify.com/track/1sKLFVc86oelMYuXvZ4LBg) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Nasty](https://open.spotify.com/album/06npIIgUg1GgZSK7DkKz6U) | 2:54 | 2025-11-14 | 2025-11-21 |
 | [Nasty \- Match My Chic Remix](https://open.spotify.com/track/5Z1bS1NU57tcnhqNAXVM6D) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Match My Freak EP](https://open.spotify.com/album/2xyUg14ugS5nOqSJSoEjr1) | 3:02 | 2024-07-05 | 2024-07-12 |

@@ -64,16 +64,16 @@
       },
       "artists": [
         {
-          "name": "FANDOM",
-          "url": "https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv"
-        },
-        {
           "name": "Khalid",
           "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         },
         {
           "name": "Ahn Hyo-seop",
           "url": "https://open.spotify.com/artist/1TUrQeNhlJMcg9zl8yiW70"
+        },
+        {
+          "name": "FANDOM",
+          "url": "https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv"
         }
       ],
       "duration_ms": 234111,
@@ -1464,7 +1464,7 @@
       },
       "artists": [
         {
-          "name": "YOON SAN-HA (ASTRO)",
+          "name": "YOON SAN-HA",
           "url": "https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW"
         }
       ],

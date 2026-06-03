@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83463,
+  "num_followers": 83467,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "SPEED Versions",
-        "url": "https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw"
-      },
-      "artists": [
-        {
-          "name": "rs9",
-          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
-        }
-      ],
-      "duration_ms": 106392,
-      "name": "Plug do S\u00e3o Jo\u00e3o SPEED",
-      "url": "https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Ele Te Bota Soca Soca (Speed Up)",
         "url": "https://open.spotify.com/album/3rFJruJgtv2Y83i5dUydCg"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 128759,
       "name": "Ele Te Bota Soca Soca - Speed Up",
       "url": "https://open.spotify.com/track/548LVIsbvfP70STa240ZeI"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "SPEED Versions",
+        "url": "https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw"
+      },
+      "artists": [
+        {
+          "name": "rs9",
+          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
+        }
+      ],
+      "duration_ms": 106392,
+      "name": "Plug do S\u00e3o Jo\u00e3o SPEED",
+      "url": "https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Rede Social (Speed)",
-        "url": "https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        },
-        {
-          "name": "Noemi Leal",
-          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
-        }
-      ],
-      "duration_ms": 154818,
-      "name": "Rede Social - Speed",
-      "url": "https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "SEGREDO VERS\u00c3O BH",
         "url": "https://open.spotify.com/album/7Mkqs7f1Ut0cXuKUz3TKMs"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 156922,
       "name": "SEGREDO VERS\u00c3O BH",
       "url": "https://open.spotify.com/track/7KJ3zD65Na61RsIcqfEfQr"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Rede Social (Speed)",
+        "url": "https://open.spotify.com/album/01iSILkAS9K13llC2AEWZJ"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "duration_ms": 154818,
+      "name": "Rede Social - Speed",
+      "url": "https://open.spotify.com/track/0FIjebtfvcayZNDzG993SH"
     },
     {
       "added_at": "2024-07-08 19:10:57",

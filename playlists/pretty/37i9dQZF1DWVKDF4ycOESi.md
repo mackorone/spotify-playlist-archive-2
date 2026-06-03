@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Ariana Grande, Noemi, Gabry Ponte e Salmo, Bebe Rexha e David Guetta, Nicolò Filippucci e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,862 likes - 95 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,855 likes - 95 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 38 | [Rimbalzo](https://open.spotify.com/track/5hZ7VsIgALNs9aVl7OZISx) | [BALTIMORA](https://open.spotify.com/artist/0rRRvEq07vdUc9QgaK46Fl) | [In Tasca](https://open.spotify.com/album/6gTFu7dApUecpvjzew5dy2) | 3:20 |
 | 39 | [A ME A ME](https://open.spotify.com/track/5vQ90JpH1JiakWUwAkBH5z) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [A ME A ME](https://open.spotify.com/album/6o4UjDmPPYqhudWx1XfTL8) | 2:20 |
 | 40 | [guerrilla](https://open.spotify.com/track/6u27XZezH7efSRvQkQYH1K) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR) | [guerrilla](https://open.spotify.com/album/0hqO1ZuUvtDl7AycMEyC8p) | 2:09 |
-| 41 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
+| 41 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
 | 42 | [Overture](https://open.spotify.com/track/49T4tjyFAyzi1CxRNeja89) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3) | [Overture](https://open.spotify.com/album/0H4U0eTkvNrusfZAYfzeNj) | 3:47 |
 | 43 | [MIAMI \(feat\. Artie 5ive\)](https://open.spotify.com/track/48rkA9TzMZrvkqhzt45XPL) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [RICCHI DI NIENTE](https://open.spotify.com/album/1p5wHXiXIzwSTUliawRxmg) | 2:04 |
 | 44 | [MI CASA](https://open.spotify.com/track/6pkZ0WMeT1YWkVvAQnjVJz) | [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn), [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [MI CASA](https://open.spotify.com/album/2PxGdMu1G8Ci4QVvdrLCqH) | 1:59 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 52 | [ACQUA DI MARE](https://open.spotify.com/track/6HIZK9QElbratpgRwbb2bz) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [ESSENZA](https://open.spotify.com/album/6UlVnp8EMYNMPrBfEZzu5E) | 2:08 |
 | 53 | [tutto vero \#318](https://open.spotify.com/track/26U1JGcQQN5IRYQQrijOyz) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN) | [tutto vero \#318](https://open.spotify.com/album/5Bx1yUd3qANLtU6yEKOPAX) | 2:24 |
 | 54 | [Love Tonight](https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Love Tonight](https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz) | 3:30 |
-| 55 | [Talk](https://open.spotify.com/track/5Bs8K3OjU1fIQJ7I2GR2mu) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Omar Duro](https://open.spotify.com/artist/3QUcOtKpMPAbhxDkuW9SPV) | [Talk](https://open.spotify.com/album/5lBATMB20Ft9dtV1ntJasC) | 3:13 |
+| 55 | [Talk](https://open.spotify.com/track/5Bs8K3OjU1fIQJ7I2GR2mu) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Omar Duro](https://open.spotify.com/artist/3QUcOtKpMPAbhxDkuW9SPV) | [Talk](https://open.spotify.com/album/5lBATMB20Ft9dtV1ntJasC) | 2:47 |
 | 56 | [Pazzi stupidi ragazzi](https://open.spotify.com/track/3AMgxFcvDDQeNuvRFQ8h5j) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Pazzi stupidi ragazzi](https://open.spotify.com/album/7BoyXjdJ1q6qi0PxkKnq7V) | 3:11 |
 | 57 | [Quadri Cuori Picche Fiori \(feat\. il rosso & IAEM\)](https://open.spotify.com/track/5xCkp4JXc9fdrVUfzJ5nVy) | [Orietta Berti](https://open.spotify.com/artist/6W7O7oseXcbYLoiarQrpOw), [il rosso](https://open.spotify.com/artist/4BB3YGwUw35WLSAHkCSDJv), [IAEM](https://open.spotify.com/artist/6JOtUHjqJTJZwQ0KmrRvWh) | [Quadri Cuori Picche Fiori \(feat\. il rosso & IAEM\)](https://open.spotify.com/album/2N3N9InTmRwEU4fAG4I9qY) | 3:04 |
 | 58 | [Toxic](https://open.spotify.com/track/4myAc7lUdAVHsQ8RuqvjSd) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt) | [Toxic](https://open.spotify.com/album/7m1BBvhHYXotg6IEN2f0JA) | 2:45 |

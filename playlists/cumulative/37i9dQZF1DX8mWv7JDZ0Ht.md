@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Gabi Melim
 
-942 songs - 1 day 23 hr 6 min
+943 songs - 1 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [A Gente Tem Tudo a Ver](https://open.spotify.com/track/1I98yrIyHHnnHTWNMosWEk) | [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [Mais Uma História de Amor](https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi) | 2:30 | 2024-02-02 | 2025-01-25 |
 | [A LUZ NO FIM DO TÚNEL](https://open.spotify.com/track/6AuAeeY9NgQKp9Mo1BKgcA) | [Bárbara Grando](https://open.spotify.com/artist/3Q7SOEZnnLV4lzp4I09k9F) | [VASO ALQUÍMICO](https://open.spotify.com/album/5fW6zQaWR2a7BKspDKcJuC) | 3:05 | 2025-01-31 | 2025-03-29 |
 | [A Melhor Coisa do Mundo](https://open.spotify.com/track/7dg73Cj0F0MAioMwmoOmCN) | [Davi Shamá](https://open.spotify.com/artist/2VYUK62O7RydFXkOBS7rGV) | [A Melhor Coisa do Mundo](https://open.spotify.com/album/0yHKDBkFM4Er1dQ0yoGKUv) | 2:31 | 2023-01-20 | 2023-05-27 |
+| [A Menina Dança](https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A Menina Dança](https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq) | 2:57 | 2026-05-29 |  |
 | [A Saudade Vem Bater](https://open.spotify.com/track/0F0ppDu7oMRYywOQfnnHGj) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [A Saudade Vem Bater](https://open.spotify.com/album/0hqAGPNFZZpYjd7uLRNiJV) | 2:09 | 2025-08-22 | 2026-04-04 |
 | [A Tal Canção Pra Lua \- Microfonado](https://open.spotify.com/track/3wBAFUmySuNroiqji8Zdbx) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Microfonado](https://open.spotify.com/album/7x6b3yxltKswwR4CykJA6C) | 3:28 | 2024-11-08 | 2025-02-01 |
 | [A vida continua](https://open.spotify.com/track/0vsMO7P6gzbKiN9mItn8ic) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Marua Luz](https://open.spotify.com/artist/091x4KuVa3VUMyP1w4X5Lo) | [A vida continua](https://open.spotify.com/album/2EeB9MWRIowLCh2WlwNOct) | 4:05 | 2025-07-11 | 2025-11-02 |
@@ -110,7 +111,7 @@
 | [Baianidade Nagô](https://open.spotify.com/track/0QShxG90ekt8ZErjtb6p79) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Baianidade Nagô](https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj) | 3:42 | 2024-07-19 | 2024-10-26 |
 | [Baila Comigo](https://open.spotify.com/track/4mfKqbqZKEt4kPaRiUKKbL) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Baila Comigo](https://open.spotify.com/album/2gpvZxbAztzFJMpLUtNK3H) | 3:06 | 2024-09-20 | 2025-06-28 |
 | [Balada do Amor Inabalável](https://open.spotify.com/track/4f4qGGCOjLVT1Y89n2yELB) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Balada do Amor Inabalável](https://open.spotify.com/album/10mKCtbO1jF7p3CUbIQaJE) | 2:22 | 2024-02-02 | 2025-05-17 |
-| [BALANÇO](https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [BALANÇO](https://open.spotify.com/album/4mUyNycfArvCPWL7BG9ijx) | 2:16 | 2026-03-27 |  |
+| [BALANÇO](https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [BALANÇO](https://open.spotify.com/album/4mUyNycfArvCPWL7BG9ijx) | 2:16 | 2026-03-27 | 2026-06-03 |
 | [Barco de Papel](https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv), [Breno Duarte](https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG) | [Maré Alta](https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR) | 3:06 | 2025-07-11 |  |
 | [Barquinho de papel](https://open.spotify.com/track/7nqOSC8cwBvaTsfmmm7HKX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 | 2022-08-26 | 2023-01-28 |
 | [Barulho Das Ondas](https://open.spotify.com/track/4gdlltsXloVZhtJhPYw1PN) | [Jorge Vercillo](https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c) | [Barulho Das Ondas](https://open.spotify.com/album/4dz9jnGDmEIzi9YaKXC6c6) | 3:28 | 2025-07-25 | 2025-10-04 |

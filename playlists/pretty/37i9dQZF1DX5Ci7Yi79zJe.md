@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ci7Yi79zJe.md) - [plain](/playlists/plain/37i9dQZF1DX5Ci7Yi79zJe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5Ci7Yi79zJe)
 
-### [GLOW Tapes: The Rocky Horror Picture Show Broadway Cast](https://open.spotify.com/playlist/37i9dQZF1DX5Ci7Yi79zJe)
+### [GLOW Tapes: The Rocky Horror Show Broadway Cast](https://open.spotify.com/playlist/37i9dQZF1DX5Ci7Yi79zJe)
 
 > Over at Studio 54 \- A special transmission from the Broadway cast of The Rocky Horror Show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4 likes - 45 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 10 likes - 45 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ci7Yi79zJe.md) - [plain]
 | 44 | [Follow Me](https://open.spotify.com/track/0y90AiV6XrXb4lvNxx8EFq) | [Amanda Lear](https://open.spotify.com/artist/0Xkd9GsWwOYETVF0kPXZIG) | [Let Me Entertain You](https://open.spotify.com/album/2WIMTvRQXRw5zeeNJXRGr6) | 4:07 |
 | 45 | [Love Hangover](https://open.spotify.com/track/4UqPeeSyRt59KZmC0aA2Ni) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana Ross \(Expanded Edition\)](https://open.spotify.com/album/2Fin5oppCDiqiLfqb3j3QO) | 7:48 |
 
-Snapshot ID: `AAAAAFbC4GXkM6rs90MJMPL1urzUG0aC`
+Snapshot ID: `AAAAAFwRmGIIcwexSWyAJst1pguyi+8/`

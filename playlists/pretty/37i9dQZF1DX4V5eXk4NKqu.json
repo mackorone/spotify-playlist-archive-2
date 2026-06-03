@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Indie today, featuring rusowsky.",
-  "num_followers": 168233,
+  "num_followers": 168231,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-04-03 04:02:10",
       "album": {
-        "name": "Choque",
-        "url": "https://open.spotify.com/album/5mM7KUXUGCCCa8xFyOPTv2"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 243541,
-      "name": "Choque",
-      "url": "https://open.spotify.com/track/1ulnhZ9EhkiyokthZbGbXA"
-    },
-    {
-      "added_at": "2026-04-03 04:02:10",
-      "album": {
         "name": "miau",
         "url": "https://open.spotify.com/album/6rJ72wMDmU2SMehEoVG7Ts"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 206366,
       "name": "miau",
       "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+    },
+    {
+      "added_at": "2026-04-03 04:02:10",
+      "album": {
+        "name": "Choque",
+        "url": "https://open.spotify.com/album/5mM7KUXUGCCCa8xFyOPTv2"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 243541,
+      "name": "Choque",
+      "url": "https://open.spotify.com/track/1ulnhZ9EhkiyokthZbGbXA"
     },
     {
       "added_at": "2026-04-03 04:02:10",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-04-03 04:02:10",
       "album": {
-        "name": "Oda",
-        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 224798,
-      "name": "oda",
-      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
-    },
-    {
-      "added_at": "2026-04-03 04:02:10",
-      "album": {
         "name": "PALACIO",
         "url": "https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 160312,
       "name": "Drogada de Emociones",
       "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
+    },
+    {
+      "added_at": "2026-04-03 04:02:10",
+      "album": {
+        "name": "Oda",
+        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 224798,
+      "name": "oda",
+      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
     },
     {
       "added_at": "2026-04-03 04:02:10",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-04-03 04:02:10",
       "album": {
-        "name": "EL QUE NO LLORA NO MAMA",
-        "url": "https://open.spotify.com/album/6HSgzh8ytBsALx1cqVcDH8"
-      },
-      "artists": [
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 189598,
-      "name": "ME TEN\u00cdA QUE PASAR",
-      "url": "https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp"
-    },
-    {
-      "added_at": "2026-04-03 04:02:10",
-      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 98210,
       "name": "Me Fui",
       "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
+    },
+    {
+      "added_at": "2026-04-03 04:02:10",
+      "album": {
+        "name": "EL QUE NO LLORA NO MAMA",
+        "url": "https://open.spotify.com/album/6HSgzh8ytBsALx1cqVcDH8"
+      },
+      "artists": [
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 189598,
+      "name": "ME TEN\u00cdA QUE PASAR",
+      "url": "https://open.spotify.com/track/6ma0wyYOS2p1TusUdT16bp"
     },
     {
       "added_at": "2026-04-03 04:02:10",

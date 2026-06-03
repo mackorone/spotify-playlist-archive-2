@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from OLIVIA, Ariana Grande, Laura Tesoro, S10 & Oscar and the Wolf and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,174 likes - 114 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,169 likes - 114 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 24 | [Baby Driver](https://open.spotify.com/track/5dtDj7mdGJjlviTxyfMrZE) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Baby Driver](https://open.spotify.com/album/0yUdcVEmK8G3jWAYS6Dii6) | 3:36 |
 | 25 | [La La / لا لا](https://open.spotify.com/track/10j44BWMnYtr2JnZcxJu7v) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [La La / لا لا](https://open.spotify.com/album/33TQa6td5uJtBHVK1hsGzg) | 2:36 |
 | 26 | [Yao](https://open.spotify.com/track/4MfWUAdEaVLHFM6qyLSGWb) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Yao](https://open.spotify.com/album/1XRsCJnR5qfOOkWLqyLIgX) | 3:07 |
-| 27 | [Heart Spin](https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Heart Spin EP](https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6) | 4:24 |
+| 27 | [Heart Spin](https://open.spotify.com/track/116fzo1wS2gAtGYYdx30C8) | [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Heart Spin EP](https://open.spotify.com/album/5p7Zfw7MUNPxXg1dWmYSl6) | 4:24 |
 | 28 | [YAKUZA](https://open.spotify.com/track/7DEuA8IpagjlToEyGmm3Zw) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [YAKUZA](https://open.spotify.com/album/6siFETHEE13cuuyRJo85TA) | 2:41 |
 | 29 | [car crash](https://open.spotify.com/track/3pZIEAyWZGj5vXa5wCFpoZ) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [car crash](https://open.spotify.com/album/5NkG7lUGgJGy3oDw8xH4wl) | 3:22 |
 | 30 | [Ron Y Coco](https://open.spotify.com/track/5Yx3u7okLgfBun0M0jhCHr) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0), [Flagrant Drvms](https://open.spotify.com/artist/55kBvzKEORCymfAWcBzGSb) | [Ron Y Coco](https://open.spotify.com/album/3vcfSqFi7hCJUqXhnGtmnQ) | 2:34 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 85 | [Play Your Games](https://open.spotify.com/track/7JcDWPlzZWGrzaLaak3UG0) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Play Your Games](https://open.spotify.com/album/1lqgUoNJgAXvWSpnNWwXvh) | 3:15 |
 | 86 | [ALIBI](https://open.spotify.com/track/786amsOoJJu0iZ2VSaBEP7) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [ALIBI](https://open.spotify.com/album/1nYGEvW67sXvWsLm0zHaMN) | 3:15 |
 | 87 | [Caution](https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [K\-POPS! \(Music from and inspired by K\-POPS! Motion Picture\)](https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS) | 2:43 |
-| 88 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
+| 88 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
 | 89 | [UR HEARTBEAT \(WHO DO U THINK ABOUT AT 2AM?\)](https://open.spotify.com/track/0jj2mcsNyuWb0a3uSjrw67) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [UR HEARTBEAT \(WHO DO U THINK ABOUT AT 2AM?\)](https://open.spotify.com/album/58ELdOBLnCOlXM49zBO6AR) | 2:50 |
 | 90 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 |
 | 91 | [Fallen Angel](https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc) | [Baby J](https://open.spotify.com/artist/5UDfhBSz4ocUxrVjiBGFTK) | [Fallen Angel](https://open.spotify.com/album/3ZLm8xE9pOYo3HRRI1pXbX) | 3:05 |

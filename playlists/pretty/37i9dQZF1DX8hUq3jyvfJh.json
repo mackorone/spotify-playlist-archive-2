@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a Maria Beth\u00e2nia e mais mulheres incr\u00edveis no volume m\u00e1ximo! Co-curado por <a href=\"spotify:artist:3f5VCwd57gZsqMad28jyLV\">Maria Beth\u00e2nia</a>.",
-  "num_followers": 193763,
+  "num_followers": 193766,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "CHARME",
-        "url": "https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "CHARME",
-      "url": "https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Sim (Deluxe)",
         "url": "https://open.spotify.com/album/0deZTBaASnRuOxp2IcnTBN"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 249973,
       "name": "Amado",
       "url": "https://open.spotify.com/track/1h0f2T0DT3EVYnURyV8Rtu"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "CHARME",
+        "url": "https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "CHARME",
+      "url": "https://open.spotify.com/track/2saiiXH63lUebPVEFf0Ysa"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
+        "name": "Afim De Ver\u00e3o",
+        "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 300567,
+      "name": "Afim De Ver\u00e3o",
+      "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
         "name": "Xote Destino",
         "url": "https://open.spotify.com/album/48k0NmZpRSAlrqgcMeFHbn"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 191392,
       "name": "Peito Aberto",
       "url": "https://open.spotify.com/track/7AmemK0iLDwBt1o0nmmxdw"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
-        "name": "Afim De Ver\u00e3o",
-        "url": "https://open.spotify.com/album/4uk3ckvKQ7NmNfOxdre5NI"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 300567,
-      "name": "Afim De Ver\u00e3o",
-      "url": "https://open.spotify.com/track/37rvjXI4oedKYCRgIKTaKx"
     },
     {
       "added_at": "2026-04-01 03:00:06",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-04-01 03:00:06",
       "album": {
-        "name": "P\u00f5e Esperan\u00e7a Nisso",
-        "url": "https://open.spotify.com/album/6CC7VWHHDS4sPvo9f60zNA"
-      },
-      "artists": [
-        {
-          "name": "Alulu Paranhos",
-          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
-        }
-      ],
-      "duration_ms": 129270,
-      "name": "Voltei",
-      "url": "https://open.spotify.com/track/6mPPoDXnKWGTXz5e7VI0s7"
-    },
-    {
-      "added_at": "2026-04-01 03:00:06",
-      "album": {
         "name": "Besta",
         "url": "https://open.spotify.com/album/4AJK2ki88LpMNnUcTJoIEK"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 181136,
       "name": "Besta",
       "url": "https://open.spotify.com/track/1OsiHpk6nTYGHMPRhwfAud"
+    },
+    {
+      "added_at": "2026-04-01 03:00:06",
+      "album": {
+        "name": "P\u00f5e Esperan\u00e7a Nisso",
+        "url": "https://open.spotify.com/album/6CC7VWHHDS4sPvo9f60zNA"
+      },
+      "artists": [
+        {
+          "name": "Alulu Paranhos",
+          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
+        }
+      ],
+      "duration_ms": 129270,
+      "name": "Voltei",
+      "url": "https://open.spotify.com/track/6mPPoDXnKWGTXz5e7VI0s7"
     },
     {
       "added_at": "2026-04-01 03:00:06",

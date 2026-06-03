@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Day1
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,066 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,070 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [WE$TSKI](https://open.spotify.com/track/0Fs4oWs2tPNotnZVy2dP5C) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [WE$TSKI](https://open.spotify.com/album/36P38CM5QDoyTea0ou5b1T) | 1:38 |
+| 1 | [WE$TSKI](https://open.spotify.com/track/0Fs4oWs2tPNotnZVy2dP5C) | [DAY1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [WE$TSKI](https://open.spotify.com/album/36P38CM5QDoyTea0ou5b1T) | 1:38 |
 | 2 | [6PM Somewhere](https://open.spotify.com/track/5WEysL7Mt6FWb61bizCSIx) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I), [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [6PM Somewhere](https://open.spotify.com/album/2IdfGH6jx0ZHdTlcIVQtj4) | 2:58 |
 | 3 | [Aussie Thunder](https://open.spotify.com/track/7peRb5R79BqCSTlgSTeSPJ) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN), [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Aussie Thunder](https://open.spotify.com/album/38fHxM6vVNZeFRgl0N90cy) | 3:01 |
 | 4 | [Playing For Keeps](https://open.spotify.com/track/5GdVcbQNi5opA5L39G0MDF) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Playing For Keeps](https://open.spotify.com/album/4mb6hp99zL7cEyk0iXCmZn) | 2:59 |

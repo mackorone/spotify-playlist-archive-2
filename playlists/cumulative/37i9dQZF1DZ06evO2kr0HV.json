@@ -1225,6 +1225,28 @@
     },
     {
       "album": {
+        "name": "hotel 506",
+        "url": "https://open.spotify.com/album/5aZWdmJVIiPNt5QyFmcEx2"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198647,
+      "name": "maldita canci\u00f3n (de pop)",
+      "url": "https://open.spotify.com/track/0DbaeWz1sOwitDac8Pc4V8"
+    },
+    {
+      "album": {
         "name": "maldita canci\u00f3n (de pop)",
         "url": "https://open.spotify.com/album/3y7BxEP4fdzONAVyPjTldX"
       },
@@ -1240,7 +1262,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 198647,
       "name": "maldita canci\u00f3n (de pop)",
       "url": "https://open.spotify.com/track/4ZRjOr9OIHWvVm7bhB0hrX"

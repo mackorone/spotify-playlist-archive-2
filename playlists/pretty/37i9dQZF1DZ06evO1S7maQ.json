@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 665063,
+  "num_followers": 665085,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAAByXFHETePfs5cNs79Qg2+3",
+  "snapshot_id": "ahzLgAAAAAC3JZZTLM/WOya9ZhERxlGq",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Rainy Night in Soho",
-        "url": "https://open.spotify.com/album/4uoso3V259t3IWBd9JER8H"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        },
-        {
-          "name": "Shane MacGowan",
-          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
-        }
-      ],
-      "duration_ms": 272127,
-      "name": "A Rainy Night in Soho",
-      "url": "https://open.spotify.com/track/04dQoUrmSfFxoD00GiMO51"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take the Sadness Out of Saturday Night",
         "url": "https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE"
       },
@@ -487,18 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+        "name": "A Rainy Night in Soho",
+        "url": "https://open.spotify.com/album/4uoso3V259t3IWBd9JER8H"
       },
       "artists": [
         {
           "name": "Bruce Springsteen",
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
         }
       ],
-      "duration_ms": 262302,
-      "name": "One Step Up",
-      "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
+      "duration_ms": 272127,
+      "name": "A Rainy Night in Soho",
+      "url": "https://open.spotify.com/track/04dQoUrmSfFxoD00GiMO51"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
       "duration_ms": 268838,
       "name": "Atlantic City (Live in Jersey) [feat. Bruce Springsteen and Kings of Leon]",
       "url": "https://open.spotify.com/track/0tAf99mtQfyK9yeimT4yH2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 262302,
+      "name": "One Step Up",
+      "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
     },
     {
       "added_at": null,

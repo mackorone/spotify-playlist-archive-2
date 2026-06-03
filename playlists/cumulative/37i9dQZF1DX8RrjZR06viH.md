@@ -4,7 +4,7 @@
 
 > 🌱🌸🌾🌼
 
-361 songs - 18 hr 43 min
+362 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [rodeo](https://open.spotify.com/track/34nIcQQXvkjjfTM7GEshdr) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [rodeo](https://open.spotify.com/album/66AqHmHsVMuo6ZwDYfUM1e) | 2:46 | 2025-08-28 | 2025-09-19 |
 | [Rosary](https://open.spotify.com/track/1UT5wJDwXkSeMT0zsW9J3y) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Rosary](https://open.spotify.com/album/1psqIPAeNCLC2w7oY7VL0W) | 2:22 | 2026-02-19 |  |
 | [Rød cabriolet](https://open.spotify.com/track/2aFUqqRsbBBC7Bt58xRE9j) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Rød cabriolet](https://open.spotify.com/album/2RZ8spqQAxYFb22GdB2FZg) | 3:43 | 2024-09-16 | 2024-10-11 |
+| [Save My Love \- Acoustic Version](https://open.spotify.com/track/145Gmuky2Ujuu5OQEfihUG) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/1ND6tGCzJKjBigJfnBSEQl) | 3:07 | 2026-05-22 |  |
 | [Second Nature](https://open.spotify.com/track/1Y98awUOuPdheqh0cnDLHw) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [The Garden](https://open.spotify.com/album/3PGsOrW90ABHRIuv4zG9la) | 2:33 | 2025-06-26 | 2025-07-18 |
 | [Sent](https://open.spotify.com/track/1zrVgwczGA9gJ0cIq89yt0) | [Hjorterud Allé](https://open.spotify.com/artist/1bimLJXbk003FxHablh4b7) | [Sent](https://open.spotify.com/album/2qMklbVaUEqHxL4PgpKEy3) | 2:15 | 2024-06-27 | 2024-07-16 |
 | [Serpentine](https://open.spotify.com/track/4nP2wX1FKSWIlhORPF74uI) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [Serpentine](https://open.spotify.com/album/16DaTWFm1J0WH5Ba0I7Rfs) | 2:48 | 2025-10-02 | 2025-10-22 |

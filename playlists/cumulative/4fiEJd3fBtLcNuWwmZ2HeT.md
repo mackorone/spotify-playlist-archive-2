@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-517 songs - 1 day 6 hr 8 min
+521 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [lapis lazuli](https://open.spotify.com/track/471Ij7ju21628jTjGCQX6U) | [璃依子](https://open.spotify.com/artist/0h9Bctxh6IkFpbsYhIBj07) | [lapis lazuli](https://open.spotify.com/album/5WyyjVnvOkDkTZzD63AxKW) | 4:19 | 2025-05-27 |  |
 | [Last Dance](https://open.spotify.com/track/4gM814NneKElxn37F5Ht7G) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 4:00 | 2023-01-29 |  |
 | [Le ciel](https://open.spotify.com/track/1tZPdST6iW1wik7zbbCUPk) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [\-merveilles\-](https://open.spotify.com/album/2vLTmWIK6BMEpOCcLilhft) | 4:59 | 2025-09-22 | 2026-02-13 |
+| [Leave You on the Back of the Earth](https://open.spotify.com/track/4mIRahi5l9LcCuZDSaMexo) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [Films, Sunny Spots, Graduations](https://open.spotify.com/album/6p8MnsedzWHh3vwOsxfNJx) | 4:15 | 2026-06-02 |  |
 | [Lepido](https://open.spotify.com/track/480iwKxMnM5sZsP8FjE1Y2) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:39 | 2025-05-20 |  |
 | [like a ghost \(feat\. Kaai Yuki\)](https://open.spotify.com/track/1EHjsmdVXK64z9MFmebp46) | [sato noco](https://open.spotify.com/artist/18VhiGitw1aRTgdMPl49EV), [Kaai Yuki](https://open.spotify.com/artist/71LWbhymyyFoWzzy6tuPGn) | [like a ghost](https://open.spotify.com/album/0x6PunvepjfphMDfuydH2h) | 2:54 | 2025-04-16 |  |
 | [Like an idiot](https://open.spotify.com/track/27j5sGsWlhwNtHz5gY5bMB) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Like an idiot](https://open.spotify.com/album/2jEG6sJvdmgYS4UzSDiE7m) | 2:10 | 2024-01-22 |  |
@@ -485,10 +486,12 @@
 | [熱愛発覚中](https://open.spotify.com/track/1nFrtehgfdwIFrA67nLxoF) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [熱愛発覚中](https://open.spotify.com/album/7vN8Vr63Thjf3i6u0K9L95) | 3:29 | 2025-08-18 |  |
 | [独全絵図](https://open.spotify.com/track/6sGlStOUrw9skDsxFKzXLP) | [絵心甚八 \(CV.神谷浩史\)](https://open.spotify.com/artist/3RbnpVgnJt7BRCm0Gqsh1G), [帝襟アンリ \(CV.幸村恵理\)](https://open.spotify.com/artist/0QlxDzFKsAUo9703aGAp6h) | [TVアニメ『ブルーロック』キャラクターソングシングル Vol.5](https://open.spotify.com/album/03m7RF8VCO6I2UnI4gcgsc) | 3:07 | 2025-02-17 |  |
 | [画脂鏤氷](https://open.spotify.com/track/0cwFv4cJSL1z3RidyF5Uqr) | [かんてゐく](https://open.spotify.com/artist/7a3VEAgXx9IfbsDxmQRAZ3), [初音ミク](https://open.spotify.com/artist/2jlojUTQutTQMWWnvtcNmB) | [ViRGiN](https://open.spotify.com/album/5e4izHlNGtNLlw0pVfdF6X) | 3:21 | 2025-10-30 |  |
+| [病棟305号室 \- ORIGINAL](https://open.spotify.com/track/60DngQ2DF0Hg1fCOcWuSJd) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:43 | 2026-06-02 |  |
 | [痛いの痛いの飛んでいけ](https://open.spotify.com/track/5Mi5wHBGH7ck5EghEhHIV1) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [痛いの痛いの飛んでいけ](https://open.spotify.com/album/3CM6XVo41OSyfplg443RRj) | 3:36 | 2025-07-20 |  |
 | [白銀の小舟](https://open.spotify.com/track/4c25GpjkCfkD0K4J3C0mCR) | [魔王魂](https://open.spotify.com/artist/5qcsl4mmKIvcKLs1e5vySU), [森田交一](https://open.spotify.com/artist/21rAvbCpRT7lmNK4d08QfL) | [魔王魂BEST1](https://open.spotify.com/album/1x254RwkdfRbe5zNRB9w8T) | 4:20 | 2024-09-02 |  |
 | [眠れない](https://open.spotify.com/track/12al9sDYshsCcdF4HMuIpZ) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [楠木ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [眠れない](https://open.spotify.com/album/70pTLXqIjxiRFycmU3VRB4) | 3:47 | 2023-12-29 |  |
 | [砂糖じかけの電影街 \(feat\. GUMI\)](https://open.spotify.com/track/7woJbv6ZxTfNM2eqbTNxYH) | [月裏, ニャントンロン](https://open.spotify.com/artist/2PuJ8LNdrbEHA5yaLhlVR6) | [ゴー・トゥ・大都会](https://open.spotify.com/album/7ercjw6rfspX0S7uJvdjfV) | 3:46 | 2023-07-17 |  |
+| [神曲](https://open.spotify.com/track/7L2x3xHwyKkgP5jjWbceSf) | [R Sound Design](https://open.spotify.com/artist/2KJvs9nIWfFTZ1lk7bBFlW) | [Delights](https://open.spotify.com/album/6PtyA1ai2roo54MkMpSfCc) | 4:45 | 2026-06-02 |  |
 | [私の恋はヘルファイア \(feat\. MEIKO\)](https://open.spotify.com/track/1fqpUqtqVLbDZXrtmFK1eW) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR) | [私の恋はヘルファイア](https://open.spotify.com/album/1WyO7Ij2uvv5FDimlZTBbr) | 3:16 | 2026-03-01 |  |
 | [私は雨](https://open.spotify.com/track/3s5sFHV8VTzg0CSXy3gz5y) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [私は雨](https://open.spotify.com/album/6kAEY3WED6CgfhVzsLUQHN) | 3:40 | 2026-03-01 |  |
 | [空と虚](https://open.spotify.com/track/3Qy7j6GkdY3ycf3E7dxfpJ) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [空と虚](https://open.spotify.com/album/5wWHRY5v0UHKbET4QAC1Hc) | 3:41 | 2023-10-25 |  |
@@ -518,6 +521,7 @@
 | [酔いどれ知らず](https://open.spotify.com/track/1ED6MZZkTum3aGIrZMB3VF) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [酔いどれ知らず](https://open.spotify.com/album/1F9ZzB58lOLwnXUsajOhyC) | 2:13 | 2024-03-10 |  |
 | [錠剤](https://open.spotify.com/track/1NuXCV6xF2iAstBk40Sycw) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:21 | 2024-09-08 |  |
 | [錠剤](https://open.spotify.com/track/04niDJQ3mzjkwzvid0Otoi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [錠剤](https://open.spotify.com/album/6HHGhheEmIzbAL6XBMxViH) | 3:24 | 2023-10-23 |  |
+| [雁首、揃えてご機嫌よう](https://open.spotify.com/track/1cVoTSDoPzNbuDGNJVVMEz) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r) | [雁首、揃えてご機嫌よう](https://open.spotify.com/album/5oBTKb1d2A86IhNga7JTbe) | 3:41 | 2026-06-02 |  |
 | [青春コンプレックス](https://open.spotify.com/track/60nwK1iMgnFCznF6FiNfts) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:23 | 2023-01-14 |  |
 | [頭ン痛](https://open.spotify.com/track/4gieTwT7brlTD7m4dbKnM6) | [えいぷ](https://open.spotify.com/artist/6AYMMKxeZatIcDKaGNx4Wa) | [頭ン痛](https://open.spotify.com/album/6NQ9OZw5Pg5H2bxK73XFWl) | 2:56 | 2024-09-20 |  |
 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 | 2023-01-01 |  |

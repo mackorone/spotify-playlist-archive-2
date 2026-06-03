@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:3MdXrJWsbVzdn6fe5JYkSQ">Latto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,138,966 likes - 155 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,138,923 likes - 155 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 33 | [Call Security](https://open.spotify.com/track/4guaicBZF35p1P5IQHheAV) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 3:22 |
 | 34 | [Hvnly \(feat\. JIHYO\)](https://open.spotify.com/track/2PqFh92NTHhlbshWLOumzl) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [CRYSALIS \(CODA\)](https://open.spotify.com/album/1J4F7Yozx9ckI5xc6yjlqu) | 2:57 |
 | 35 | [ONE of ONE](https://open.spotify.com/track/6eNfM7yVZ8LxO3dCnh3kup) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [ONE of ONE](https://open.spotify.com/album/5MYjtiBFrowd2rML0p8hyG) | 2:51 |
-| 36 | [Tied Up](https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Tied Up](https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh) | 2:56 |
+| 36 | [Tied Up](https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Tied Up](https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh) | 2:56 |
 | 37 | [Born To Die](https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Born To Die](https://open.spotify.com/album/0YasyGaO1Go6ArzZtGkv27) | 2:45 |
 | 38 | [IN THE WIND.](https://open.spotify.com/track/7Bn3SupKyYfA3hpY3H3Ywv) | [Trae Taylor](https://open.spotify.com/artist/2pT7KoajeJudQMhB5rNGl4) | [IN THE WIND.](https://open.spotify.com/album/3NCGVHFabwJWWEEi5NAlyh) | 2:23 |
 | 39 | [Ms\. Tundra](https://open.spotify.com/track/07In5jCHBpsenzn9dB6ktS) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Ms\. Tundra](https://open.spotify.com/album/4n0zxIykuH6Wro23CrbIkS) | 3:12 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 80 | [Savage](https://open.spotify.com/track/70d4L0yzI02bOylHPHI77m) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Savage](https://open.spotify.com/album/7F1ev5jdIskBh4UhwrQCua) | 3:25 |
 | 81 | [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 |
 | 82 | [What About 10 \(Twalatsa\)](https://open.spotify.com/track/6j4DHHYlInf09JhrO7BPcL) | [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y), [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [Optimist Music ZA](https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV) | [What About 10 \(Twalatsa\)](https://open.spotify.com/album/5DHKdHlrfLBNbk40Xt67AK) | 6:07 |
-| 83 | [Cn I see u \(feat\. BXKS & BarbieSZN\)](https://open.spotify.com/track/23eqHSHlC1VTgCW8EqHoxV) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [BarbieSZN](https://open.spotify.com/artist/7artciaaHDwhU9bsORcUl5) | [4 DA STREETS!](https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK) | 5:51 |
+| 83 | [Cn I see u \(feat\. BarbieSZN\)](https://open.spotify.com/track/23eqHSHlC1VTgCW8EqHoxV) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [BarbieSZN](https://open.spotify.com/artist/7artciaaHDwhU9bsORcUl5) | [4 DA STREETS!](https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK) | 5:51 |
 | 84 | [SHABA](https://open.spotify.com/track/3Mkn6UjdPtKdySe78jVfxg) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [SHABA](https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA) | 2:01 |
 | 85 | [What You Need](https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 3:54 |
 | 86 | [Big Fish](https://open.spotify.com/track/2nnC82ruXhKSZFfcwhKlsm) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Fuji](https://open.spotify.com/album/1CwSEtADXMks7OtJKKZh7J) | 2:24 |

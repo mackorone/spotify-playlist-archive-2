@@ -4,7 +4,7 @@
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-255 songs - 16 hr 39 min
+256 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/track/6FHmHZgliJRNz6L16y60V1) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/5vIo3myTJ8fmttU2wARlYB) | 3:49 | 2021-10-13 |  |
 | [Candy Man](https://open.spotify.com/track/1w9BpnmUQwiizWK6ZRp3kh) | [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Music from The American Epic Sessions \(Deluxe\)](https://open.spotify.com/album/2j0XMCTd58fYlrwNAaixQP) | 2:52 | 2021-10-13 |  |
 | [Chain Reaction](https://open.spotify.com/track/2G7bNWJygXprmbBD3IQidL) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Susan O'Neill](https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua) | [Chain Reaction](https://open.spotify.com/album/0EFV8dTelIT79qbvzRtGuP) | 3:20 | 2021-10-13 |  |
+| [Chasing What's Already Gone \- Live](https://open.spotify.com/track/4QfBWnHMmnwAer7cztxgvb) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [One Night Lonely \(Live\)](https://open.spotify.com/album/5EKD30jtEHxZypuRQDUA7P) | 4:47 | 2025-09-02 |  |
 | [Cherokee Rose](https://open.spotify.com/track/50FakcsMM8aCyRJuNu5PSW) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Cherokee Rose](https://open.spotify.com/album/3nsemmnLT77WUfln6krRPG) | 3:52 | 2021-10-13 | 2022-07-29 |
 | [Cherokee Rose](https://open.spotify.com/track/6vk0YaOVXq9rQbMi5nKJ4Q) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Broken English](https://open.spotify.com/album/0BuPCzTVIHRqTZmrg6yiFX) | 3:52 | 2022-02-25 | 2022-10-09 |
 | [Church Street Blues](https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Hell on Church Street](https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA) | 2:33 | 2022-02-25 |  |
@@ -257,7 +258,7 @@
 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 | 2022-02-25 |  |
 | [Workin's Too Hard](https://open.spotify.com/track/6Xsh0TEobnRSRkt2UAbAxc) | [Rayna Gellert](https://open.spotify.com/artist/5hdTooIsiN2OmvS449nJNd) | [Workin's Too Hard](https://open.spotify.com/album/3XQvByuWbdN8KxETcTQPZY) | 3:36 | 2021-10-13 | 2022-07-29 |
 | [Working Man](https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Working Man](https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA) | 3:22 | 2021-10-13 |  |
-| [Worried Mind](https://open.spotify.com/track/4baCiANTGHL13fLcIhOEez) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Listen](https://open.spotify.com/album/2OhThiJGELO8T0K22TN4lV) | 2:43 | 2025-09-02 |  |
+| [Worried Mind](https://open.spotify.com/track/4baCiANTGHL13fLcIhOEez) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Listen](https://open.spotify.com/album/2OhThiJGELO8T0K22TN4lV) | 2:43 | 2025-09-02 | 2026-06-03 |
 | [You And I](https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:39 | 2021-10-13 |  |
 | [You Don't Have to Ask](https://open.spotify.com/track/4w2gW51XD4qM0Y9ppF5j4L) | [Dan Reeder](https://open.spotify.com/artist/4pzjm2iMtclScYmoJ7q9tD) | [You Don't Have to Ask](https://open.spotify.com/album/5tROIvGT70585j5YkE6RAF) | 2:24 | 2022-10-14 | 2022-11-24 |
 | [You Led Me To The Wrong](https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:17 | 2022-02-25 |  |

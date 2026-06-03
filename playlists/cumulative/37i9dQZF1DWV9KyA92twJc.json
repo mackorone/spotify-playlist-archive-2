@@ -2971,6 +2971,24 @@
     },
     {
       "album": {
+        "name": "Wedding Songs",
+        "url": "https://open.spotify.com/album/7pP59dwFmsZMVP6NNGnaIj"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "date_added": "2026-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229676,
+      "name": "\u05d1\u05d3\u05d9\u05d5\u05e7 \u05db\u05db\u05d4",
+      "url": "https://open.spotify.com/track/4bXdNFSnjZcV82u2Cz3wtn"
+    },
+    {
+      "album": {
         "name": "\u05d1\u05d5\u05d1\u05d4",
         "url": "https://open.spotify.com/album/34QC2WFPIqwoaoUcsCflix"
       },
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 184188,
       "name": "\u05d2\u05e9\u05dd",
       "url": "https://open.spotify.com/track/0ckd54NpB6QU3NIBdbkddf"

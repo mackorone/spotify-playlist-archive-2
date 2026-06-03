@@ -7162,7 +7162,7 @@
     {
       "album": {
         "name": "Maladie",
-        "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
+        "url": "https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI"
       },
       "artists": [
         {
@@ -7173,6 +7173,24 @@
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6"
+    },
+    {
+      "album": {
+        "name": "Maladie",
+        "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2026-06-03",
       "duration_ms": 192005,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"

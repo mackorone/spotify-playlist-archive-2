@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Sheheryar Rehan
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,802 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,822 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 22 | [Khwabon Ka Shehr](https://open.spotify.com/track/44a7Khd5y8o0cVMdk6QIFQ) | [Daniyaal Omar](https://open.spotify.com/artist/2GbKYLI5CCtuGpz1tdubYz), [Seventean](https://open.spotify.com/artist/1KbWZUNoYa35zBcd7LjbRd) | [Khwabon Ka Shehr](https://open.spotify.com/album/4KtcIMkCEHTEpt4rOfYc12) | 2:25 |
 | 23 | [sukoon](https://open.spotify.com/track/4ZAYtMgiBQfV2e3MKIyLw6) | [Muaz Sattar](https://open.spotify.com/artist/3wPSWZS5LyapP2x0kco8WP), [MRKLE](https://open.spotify.com/artist/18op6e1fVPmSj6796DOeSA) | [sukoon](https://open.spotify.com/album/6BGA3EsUWBGOurYz766jfe) | 2:47 |
 | 24 | [Pyaar](https://open.spotify.com/track/0LFCWQRZeeACsxwX4UQ3ta) | [Taz Kahlon](https://open.spotify.com/artist/3q9K96bG6WTb0kUw8mGQes), [Agsy](https://open.spotify.com/artist/6vEZoTDeZRvmQc1XXJCQBp) | [Pyaar](https://open.spotify.com/album/5eXFz0QjIQzHfxQREhnZmF) | 2:56 |
-| 25 | [O Ranjhana](https://open.spotify.com/track/6CnwXPvHmuCqSHVcDp1NPa) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Roshaan](https://open.spotify.com/artist/1lrhdYficIOHq2CtRyKci3), [Hassan Sheikh](https://open.spotify.com/artist/6rCIl3FfI0CUJQAWPO6GTc) | [O Ranjhana](https://open.spotify.com/album/58gw11qWzcHpKqCa8X4Z5G) | 4:14 |
+| 25 | [O Ranjhana](https://open.spotify.com/track/6CnwXPvHmuCqSHVcDp1NPa) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Roshaan](https://open.spotify.com/artist/29VtRmd2SZF4mePMwlfFJI), [Hassan Sheikh](https://open.spotify.com/artist/6rCIl3FfI0CUJQAWPO6GTc) | [O Ranjhana](https://open.spotify.com/album/58gw11qWzcHpKqCa8X4Z5G) | 4:14 |
 | 26 | [Maan Jao](https://open.spotify.com/track/3a5Ei6yfIbuejlhWO52hhE) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [SEHER](https://open.spotify.com/artist/4rox3jnGsnm3UIjESqMUCK) | [Maan Jao](https://open.spotify.com/album/5NUrAeln0SUMI05YZYhFpc) | 3:49 |
 | 27 | [Bus Aik Pal](https://open.spotify.com/track/68HFPvONRDtkVycTQoIBhd) | [Bilal Khan](https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI) | [Bus Aik Pal](https://open.spotify.com/album/73KivnhTZwAFwiDar3aTS0) | 4:10 |
 | 28 | [Hum Milne Lage Aap Se](https://open.spotify.com/track/32ekzz28WLuVRNJHVhh8hD) | [Faisal Kapadia](https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR) | [Kya Yehi Pyar Hai](https://open.spotify.com/album/4uCAbfexHe86pRPA9BWjPz) | 3:45 |

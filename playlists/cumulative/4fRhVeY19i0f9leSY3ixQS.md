@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added regularly :\) www.avondalerecords.com
 
-1,608 songs - 3 day 17 hr 45 min
+1,610 songs - 3 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1057,6 +1057,7 @@
 | [PTSD Radio](https://open.spotify.com/track/2lJOJKrfxBKt0bvxuHBFLd) | [Castdoubt](https://open.spotify.com/artist/5dq0TJkDZ0JATOPtq73Muz) | [PTSD Radio](https://open.spotify.com/album/64ir1RUlB8c2oJSAdQBqFL) | 2:43 | 2025-12-29 | 2026-01-22 |
 | [Pulaski](https://open.spotify.com/track/7FQaCR1Frd8ovKIKq1IJtX) | [Autopsy Night](https://open.spotify.com/artist/42ujI6E2xSDHO3NdQ66s6a) | [Pulaski](https://open.spotify.com/album/3Hjvx0llaqSstlmgpMLwZC) | 3:25 | 2026-01-19 | 2026-02-20 |
 | [Punk Bunny Coffee](https://open.spotify.com/track/1RtXFLXKsP7NnImqmOjLAK) | [Riot Knight](https://open.spotify.com/artist/4K5FF5mvBikVq09ibbdDDh) | [Punk Bunny Coffee](https://open.spotify.com/album/09oW8llvKkkAaGFUPchXRV) | 2:41 | 2026-03-12 | 2026-04-13 |
+| [Punk Parrot](https://open.spotify.com/track/4CaImsMJmEbKg2ikcgyAJU) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Punk Parrot](https://open.spotify.com/album/5LPgfFFpDiisyYSb4FpnqV) | 3:03 | 2026-06-02 |  |
 | [Pure Connection](https://open.spotify.com/track/2QtjbnkPLZHdW378rFQYQe) | [Boffodj](https://open.spotify.com/artist/4372oFZqyal1K0LY9uDJzB) | [Rise Again](https://open.spotify.com/album/3gCWf0aBmcwvaYvl4shYQ1) | 3:08 | 2025-12-16 | 2026-01-06 |
 | [Put Me Down](https://open.spotify.com/track/55ahNa2Ns81p0tqTWq9iM6) | [Door Marked Summer](https://open.spotify.com/artist/3ryXL59wPHXYFRrwujR6hh) | [Put Me Down](https://open.spotify.com/album/1BmFs8hzgpwCUbuNsqhiXA) | 7:16 | 2025-08-03 |  |
 | [Putting The Lay In Layla](https://open.spotify.com/track/2SiRl86ySpb3maWTiUmJ3p) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [One](https://open.spotify.com/album/2GSoGDBKanGvKibnZzk6J6) | 3:11 | 2025-12-21 | 2026-01-15 |
@@ -1163,7 +1164,7 @@
 | [Shahanshah](https://open.spotify.com/track/6f9tOBgsUHGsE3FCI2YBbv) | [Kris Vango](https://open.spotify.com/artist/4RVRABMRTQgd1KRrnJfxMT) | [Pluto Presents ULTRAVIOLENCE](https://open.spotify.com/album/1K1vyxbZlzSMZPkurkHyke) | 2:25 | 2026-03-22 | 2026-04-22 |
 | [Shakin'](https://open.spotify.com/track/60YO17Cz85qfjJgkkplEnj) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Shakin'](https://open.spotify.com/album/24jIAykL2F0SzJZrRMnjhQ) | 3:05 | 2026-05-04 | 2026-05-30 |
 | [Shallow End](https://open.spotify.com/track/6DJChk81zSNNKBV2gC9KPL) | [Ghost Tail](https://open.spotify.com/artist/46bTT0AboCJSfadZkaiQQm) | [Shallow End](https://open.spotify.com/album/7vEMzH71vz89t2AGKD7NLE) | 3:28 | 2026-01-05 | 2026-01-29 |
-| [Shallowed Breakwater](https://open.spotify.com/track/0SrxFhP0L8ZskM6gJoqa3a) | [File Under Humanoid](https://open.spotify.com/artist/4THYnYjrIh3ssVteBV9Vmx) | [Fuel The Flame EP](https://open.spotify.com/album/3DmHe6uM9Jav9qgmtIGLbZ) | 2:39 | 2026-04-07 | 2026-05-28 |
+| [Shallowed Breakwater](https://open.spotify.com/track/0SrxFhP0L8ZskM6gJoqa3a) | [File Under Humanoid](https://open.spotify.com/artist/4THYnYjrIh3ssVteBV9Vmx) | [Fuel The Flame EP](https://open.spotify.com/album/3DmHe6uM9Jav9qgmtIGLbZ) | 2:39 | 2026-04-07 |  |
 | [Shame](https://open.spotify.com/track/1tbnU7U1hQqdVsC0o3L9Gr) | [HAPPY GENERATION](https://open.spotify.com/artist/4cVghRRnmwq10vWKhENbXK) | [Shame](https://open.spotify.com/album/4bb8pxp5PmMAJ02pRhF0cg) | 2:53 | 2026-03-04 | 2026-03-21 |
 | [Shame](https://open.spotify.com/track/1PqDb9WwBPx3dsSYGzvOrJ) | [Liptards](https://open.spotify.com/artist/4LioiOqNVrpnq1ViuUbhgn) | [D.O.G.](https://open.spotify.com/album/2ZIBlxvJlVIkorxSJ3KUZk) | 4:23 | 2026-04-23 | 2026-05-25 |
 | [Shape Shifter](https://open.spotify.com/track/7sD50e8OpxIo2p66mIyucQ) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:36 | 2025-09-16 |  |
@@ -1353,6 +1354,7 @@
 | [The Dominant](https://open.spotify.com/track/4zzlCCVf3tJiwwyaGpYTUo) | [Global Plague](https://open.spotify.com/artist/3l3qDiPbgEPAjeegMe88cV) | [The Dominant](https://open.spotify.com/album/4wcgqZHVG6EyyXnur9LbQU) | 2:17 | 2025-12-16 | 2026-01-06 |
 | [The End](https://open.spotify.com/track/2iTBOHG5ynhgfeaRnO2Nf5) | [TomorrowTonight](https://open.spotify.com/artist/6h5Hy9x7OwGkgg6aI5Fw0j) | [These Haunted Rooms](https://open.spotify.com/album/2TKalA1ze1u6MIy3ERRsr7) | 4:04 | 2026-04-11 | 2026-05-08 |
 | [The End of the World or Whatever](https://open.spotify.com/track/7bEuh53WskcUxLGmjil4nQ) | [Nell Davies](https://open.spotify.com/artist/3T37olDofWUEnGxDPrTVgL) | [The End of the World or Whatever](https://open.spotify.com/album/2KnWPPJRwhUocc1yLm5Loa) | 3:12 | 2025-12-27 | 2026-01-22 |
+| [The Expense](https://open.spotify.com/track/3ofRi2iXwlwUj4dyI9fld7) | [Picket Wounds](https://open.spotify.com/artist/5vqSW7u5CjtEiEuJxxbQmu) | [The Expense / Unheeded Warnings](https://open.spotify.com/album/3Dh3fmWklY7yImg7Uigs8I) | 2:40 | 2026-06-02 |  |
 | [The Fallen](https://open.spotify.com/track/1H7Fbj2qhNi9SxKBuIfpqI) | [ENGRAVED](https://open.spotify.com/artist/6R5sDWirfGj3i7FpTw2A3W) | [The Fallen](https://open.spotify.com/album/0l4A555dr88W8yB8T83taf) | 4:27 | 2025-12-21 | 2026-01-15 |
 | [The Fallen](https://open.spotify.com/track/2NOTdXSTcElqvSAYxALN0J) | [Zeta Inri](https://open.spotify.com/artist/79rEQBEMAXqOd3KPD1giyA) | [The Fallen](https://open.spotify.com/album/4vCOyJKV7ehDy1M6k8myYo) | 3:44 | 2026-02-19 | 2026-03-23 |
 | [The Family Secret](https://open.spotify.com/track/5v6DxofVLhcqQWsO4JlQ1v) | [Ten Eighty Trees](https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD) | [The Family Secret](https://open.spotify.com/album/1kDUZGxfVbg4uS3OC0MqpB) | 2:59 | 2026-05-31 |  |

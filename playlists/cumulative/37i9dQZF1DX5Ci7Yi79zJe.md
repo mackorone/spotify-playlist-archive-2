@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5Ci7Yi79zJe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5Ci7Yi79zJe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX5Ci7Yi79zJe)
 
-### [GLOW Tapes: The Rocky Horror Picture Show Broadway Cast](https://open.spotify.com/playlist/37i9dQZF1DX5Ci7Yi79zJe)
+### [GLOW Tapes: The Rocky Horror Show Broadway Cast](https://open.spotify.com/playlist/37i9dQZF1DX5Ci7Yi79zJe)
 
 > Over at Studio 54 \- A special transmission from the Broadway cast of The Rocky Horror Show.
 

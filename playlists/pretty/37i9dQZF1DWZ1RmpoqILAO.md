@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > you met me at a very indie twang time in my life..\. Thomas Dollbaum on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,450 likes - 151 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,481 likes - 151 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 | 48 | [COME COME COME VAR\. XIV](https://open.spotify.com/track/5C6GbWeiB4UolxeXPXG4Bl) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [THE COUNT](https://open.spotify.com/album/70fXOjp8M86eENswClC51h) | 3:10 |
 | 49 | [Sideways](https://open.spotify.com/track/4mUgLu7PjDvTsKbUF8iTB4) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Sideways](https://open.spotify.com/album/1X6cnNJYkAJoOVEuQ557TF) | 2:59 |
 | 50 | [Zodiac](https://open.spotify.com/track/3j0f2HBhLlnEfMjGWkwOJ1) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 2:20 |
-| 51 | [I Wasn’t There](https://open.spotify.com/track/0GT98Z4TvJJlrPwhxnaIzA) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Blush](https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0) | 2:07 |
+| 51 | [I Wasn’t There](https://open.spotify.com/track/0GT98Z4TvJJlrPwhxnaIzA) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Blush](https://open.spotify.com/album/59pGTYofVrG2K6Q12h7gm0) | 2:07 |
 | 52 | [Pretty Eyes Lorraine](https://open.spotify.com/track/0sLPXoUB1Q1gQcs1OOYy49) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Sounds Like...](https://open.spotify.com/album/54WXEOsnZYULedb3Gz7fnr) | 3:54 |
 | 53 | [Beekeeping](https://open.spotify.com/track/1snJ7O1FeSgvECP095NXZb) | [Dutch Interior](https://open.spotify.com/artist/7a0nCvxmDN4c68agh8ajMn) | [Moneyball](https://open.spotify.com/album/3c959V1BE6WsCICg4RKtQi) | 4:23 |
 | 54 | [Grandmother](https://open.spotify.com/track/6ZKhQHAyi0eRwQgYNO08AI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 6:00 |

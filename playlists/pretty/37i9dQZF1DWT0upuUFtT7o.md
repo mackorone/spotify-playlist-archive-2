@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Rian Brazil
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,321 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,337 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 12 | [Past The Veil](https://open.spotify.com/track/3O8bppZYaCYnYb2DtjbLVw) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Past The Veil](https://open.spotify.com/album/2VEyBgA2GuxhTmQZaOAjGW) | 3:52 |
 | 13 | [Call It What You Want](https://open.spotify.com/track/5U9uVRRZ7PkvAvyLKhg3jx) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Call It What You Want](https://open.spotify.com/album/1duNvkWcNlJfPIOugCfAfP) | 2:55 |
 | 14 | [Like It Was Before](https://open.spotify.com/track/1PAlK7pZ3VQi5aQau400W4) | [Ángel Loor](https://open.spotify.com/artist/4kJvNJK7Q9jo130THvUnFZ) | [Like It Was Before](https://open.spotify.com/album/18tolLGoJPOlfjCCRtHV21) | 2:15 |
-| 15 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
+| 15 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
 | 16 | [When It's Leaving](https://open.spotify.com/track/4DywkvVLSUQnJg21CfMqUU) | [Pleasure Systems](https://open.spotify.com/artist/6tuEL6IAVy9fuSPuZp1hMk) | [When It's Leaving](https://open.spotify.com/album/0zibF0KTPQWL5KSBI6FWex) | 3:04 |
 | 17 | [can we just forget?](https://open.spotify.com/track/6sbDwoTxXJ2AdIE2UIZHye) | [Baileyrp](https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz) | [can we just forget?](https://open.spotify.com/album/6olTVmgvSuZeUleCYAtayG) | 4:43 |
 | 18 | [Can’t Be Friends](https://open.spotify.com/track/2EVMWA702ony5lIXv6zqOb) | [Sierra Spirit](https://open.spotify.com/artist/1IpkMILxQQ6fXFxHsolyFR) | [Can't Be Friends](https://open.spotify.com/album/3SfxPR1KPUmrtAda5BXuYg) | 3:24 |

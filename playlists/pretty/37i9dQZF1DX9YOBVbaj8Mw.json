@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20479,
+  "num_followers": 20485,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,26 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "P\u00d3\u0141NOC / PO\u0141UDNIE",
+        "url": "https://open.spotify.com/album/4qVRuXfOjrafPOOUSnGmL1"
+      },
+      "artists": [
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        },
+        {
+          "name": "JIMEK",
+          "url": "https://open.spotify.com/artist/0ij2PQYebfZF0UuitRTeyh"
+        }
+      ],
+      "duration_ms": 301461,
+      "name": "P\u00d3\u0141NOC / PO\u0141UDNIE",
+      "url": "https://open.spotify.com/track/4QTSoHVlCjAp0DWUYUZ3Ok"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "POLOT",
         "url": "https://open.spotify.com/album/3kufOEFkqCrE0lMaDTasjR"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 156000,
       "name": "tom i jerry",
       "url": "https://open.spotify.com/track/5Ce7f1EBFE7QNZ9XaEYj5W"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "P\u00d3\u0141NOC / PO\u0141UDNIE",
-        "url": "https://open.spotify.com/album/4qVRuXfOjrafPOOUSnGmL1"
-      },
-      "artists": [
-        {
-          "name": "Quebonafide",
-          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
-        },
-        {
-          "name": "JIMEK",
-          "url": "https://open.spotify.com/artist/0ij2PQYebfZF0UuitRTeyh"
-        }
-      ],
-      "duration_ms": 301461,
-      "name": "P\u00d3\u0141NOC / PO\u0141UDNIE",
-      "url": "https://open.spotify.com/track/4QTSoHVlCjAp0DWUYUZ3Ok"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Tak m\u0142odo si\u0119 nie spotkamy",
+        "url": "https://open.spotify.com/album/57tNR0XV962YDMH8ZDXStm"
+      },
+      "artists": [
+        {
+          "name": "Wiraszko",
+          "url": "https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu"
+        }
+      ],
+      "duration_ms": 377680,
+      "name": "Dni, kt\u00f3re przed nami",
+      "url": "https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "To dopiero pocz\u0105tek",
         "url": "https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 159700,
       "name": "Co za stan",
       "url": "https://open.spotify.com/track/0oiI4w78h7eJjCC4ownWzy"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Tak m\u0142odo si\u0119 nie spotkamy",
-        "url": "https://open.spotify.com/album/57tNR0XV962YDMH8ZDXStm"
-      },
-      "artists": [
-        {
-          "name": "Wiraszko",
-          "url": "https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu"
-        }
-      ],
-      "duration_ms": 377680,
-      "name": "Dni, kt\u00f3re przed nami",
-      "url": "https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
-      },
-      "artists": [
-        {
-          "name": "Nene Heroine",
-          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Bowie",
-      "url": "https://open.spotify.com/track/0NOzhaHiT91KldkT2vZwBg"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "The Shit Ov God",
         "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 336773,
       "name": "The Shit Ov God",
       "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
+      },
+      "artists": [
+        {
+          "name": "Nene Heroine",
+          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
+        }
+      ],
+      "duration_ms": 297493,
+      "name": "Bowie",
+      "url": "https://open.spotify.com/track/0NOzhaHiT91KldkT2vZwBg"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
-      },
-      "artists": [
-        {
-          "name": "Nene Heroine",
-          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
-        }
-      ],
-      "duration_ms": 444560,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Przed Zmierzchem",
         "url": "https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 159803,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V"
+      },
+      "artists": [
+        {
+          "name": "Nene Heroine",
+          "url": "https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR"
+        }
+      ],
+      "duration_ms": 444560,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
     },
     {
       "added_at": "2026-05-26 09:05:26",

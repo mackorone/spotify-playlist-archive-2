@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: AND2BLE (\uc564\ub354\ube14))",
+  "description": "Future K-Pop hits! (Cover: N.Flying)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -1592,6 +1592,24 @@
       "duration_ms": 189720,
       "name": "Baby",
       "url": "https://open.spotify.com/track/606Cy8x4IPNlYjKYd88pEr"
+    },
+    {
+      "album": {
+        "name": "<LOVE&POP> pt.1",
+        "url": "https://open.spotify.com/album/35aVpvg3oTNbG8N3cL7B1Z"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Baby Flower",
+      "url": "https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN"
     },
     {
       "album": {
@@ -4858,7 +4876,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 196607,
       "name": "CEREMONY",
       "url": "https://open.spotify.com/track/7CoEOvI85tbkhdgJRd8XfC"
@@ -6716,6 +6734,24 @@
       "duration_ms": 192600,
       "name": "DAWNDIDIDAWN (Feat. Jessi)",
       "url": "https://open.spotify.com/track/0RxXtH5F2JaHUMMaJ5X6Zp"
+    },
+    {
+      "album": {
+        "name": "Day dream",
+        "url": "https://open.spotify.com/album/0HTupJldb1Sfmf3YUfC0LP"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Day dream",
+      "url": "https://open.spotify.com/track/6ePejCWGJnK6IWCipFmUK5"
     },
     {
       "album": {
@@ -9919,6 +9955,24 @@
     },
     {
       "album": {
+        "name": "Fort",
+        "url": "https://open.spotify.com/album/7oMVaKEQlIdMJ7YixaQNdK"
+      },
+      "artists": [
+        {
+          "name": "Kwon so jeong",
+          "url": "https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Fort",
+      "url": "https://open.spotify.com/track/7KHW6Pfgp8odnmWJ8KxOAi"
+    },
+    {
+      "album": {
         "name": "YUQ1",
         "url": "https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc"
       },
@@ -11410,6 +11464,24 @@
       "duration_ms": 200608,
       "name": "GRATATA",
       "url": "https://open.spotify.com/track/78V1UN9fEZw2b9rYkwDmTj"
+    },
+    {
+      "album": {
+        "name": "GRAVITY",
+        "url": "https://open.spotify.com/album/0L8eJpgaFqxb1vEQtRh9DP"
+      },
+      "artists": [
+        {
+          "name": "XIA",
+          "url": "https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "GRAVITY",
+      "url": "https://open.spotify.com/track/7q5oi1pqu8SCxeXP0WiOIf"
     },
     {
       "album": {
@@ -13876,7 +13948,7 @@
       },
       "artists": [
         {
-          "name": "YOON SAN-HA (ASTRO)",
+          "name": "YOON SAN-HA",
           "url": "https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW"
         }
       ],
@@ -13904,6 +13976,24 @@
       "duration_ms": 143000,
       "name": "IDKI",
       "url": "https://open.spotify.com/track/5G6hbkya8ZQJnErMotSSzD"
+    },
+    {
+      "album": {
+        "name": "4th MINI ALBUM [NEW WAV]",
+        "url": "https://open.spotify.com/album/5EqAWo5fdTpQ8pxNKBbMzO"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180440,
+      "name": "IF I",
+      "url": "https://open.spotify.com/track/6m0pwEawaU2NIygsdc8OPP"
     },
     {
       "album": {
@@ -14066,6 +14156,24 @@
       "duration_ms": 182332,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk"
+    },
+    {
+      "album": {
+        "name": "In Between Seasons",
+        "url": "https://open.spotify.com/album/2YFwLFTyQe2gLpIA4pBZRU"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "In Between Seasons",
+      "url": "https://open.spotify.com/track/5VSiHkQNGbgj49YieVC45L"
     },
     {
       "album": {
@@ -15545,6 +15653,24 @@
     },
     {
       "album": {
+        "name": "Imperfect-I'mperfect",
+        "url": "https://open.spotify.com/album/5swL0neEWqHIorlT8qTk2p"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188845,
+      "name": "Like a Bubble",
+      "url": "https://open.spotify.com/track/68TWWOecaIglvAtHOOFMwn"
+    },
+    {
+      "album": {
         "name": "PSST!",
         "url": "https://open.spotify.com/album/4tbCHgg9qoTS3dEhpdDTUj"
       },
@@ -15948,6 +16074,32 @@
       "duration_ms": 212774,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN"
+    },
+    {
+      "album": {
+        "name": "LLLM",
+        "url": "https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm"
+      },
+      "artists": [
+        {
+          "name": "Tray B",
+          "url": "https://open.spotify.com/artist/4GSbZvuTa6GeWVt4LtPzX5"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225610,
+      "name": "LLLM (feat. Gaeko, ZICO) [prod. Tray B]",
+      "url": "https://open.spotify.com/track/1RjqIbA7XR1ISRWXpIUpng"
     },
     {
       "album": {
@@ -18036,7 +18188,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 158813,
       "name": "Mmchk",
       "url": "https://open.spotify.com/track/5zwbPkrAUdR95cNStyBe82"
@@ -21214,7 +21366,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 200000,
       "name": "Poison Ivy",
       "url": "https://open.spotify.com/track/4p3WTsxsKj27mMwjooeypG"
@@ -21398,7 +21550,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 150470,
       "name": "POSE",
       "url": "https://open.spotify.com/track/7LRaCfIHEdDSdDJkTO2l2A"
@@ -22242,7 +22394,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 163001,
       "name": "REDRED",
       "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
@@ -23160,7 +23312,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 182000,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1x0mG2CyQW5mjBX17ZfTUG"
@@ -23316,6 +23468,24 @@
       "duration_ms": 194768,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/7sbNbeqpYvXJW38ILRObkm"
+    },
+    {
+      "album": {
+        "name": "The Legend of Kitchen Soldier, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3UVsSp1UKR7QtuLVTNY7P3"
+      },
+      "artists": [
+        {
+          "name": "ANYUJIN",
+          "url": "https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Sad Saltiness",
+      "url": "https://open.spotify.com/track/6mqwWU2oVsoL83VRpf4vmS"
     },
     {
       "album": {
@@ -24988,7 +25158,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 215000,
       "name": "So Cute",
       "url": "https://open.spotify.com/track/0M5sCYya9sa2LOz551IBeI"
@@ -30756,7 +30926,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 159000,
       "name": "Who is she",
       "url": "https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw"
@@ -31752,7 +31922,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 165000,
       "name": "You, You",
       "url": "https://open.spotify.com/track/2X9RbCpuBRR6ztXn83AK5U"

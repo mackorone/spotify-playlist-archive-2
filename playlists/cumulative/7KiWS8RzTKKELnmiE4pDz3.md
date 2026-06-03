@@ -4,7 +4,7 @@
 
 > 
 
-1,479 songs - 3 day 7 hr 11 min
+1,480 songs - 3 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1242,6 +1242,7 @@
 | [Summer Love](https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [FutureSex/LoveSounds](https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3) | 4:12 | 2025-05-28 | 2026-03-08 |
 | [Summer Reign \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ELl4Rhgv6oqSbqWIomjs3) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:55 | 2023-04-04 | 2023-05-09 |
 | [Summer Soft](https://open.spotify.com/track/0eGpcLG96GWVCG4Ix3qLCp) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:14 | 2025-04-14 | 2026-03-08 |
+| [Sunshine](https://open.spotify.com/track/7JjIWXd0RopJ8wSMTIsfZr) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 3:55 | 2026-06-02 |  |
 | [Sunshine \(feat\. Anthony Hamilton\)](https://open.spotify.com/track/5y8WWi1BaKHXfuln0XoIZs) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Kamikaze](https://open.spotify.com/album/7tbgPQub8dUigxMdkYDfOb) | 3:46 | 2026-04-08 |  |
 | [Sup Mate \(feat\. Future\)](https://open.spotify.com/track/0zNHMc1cGKe4MO5rtGtKRh) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:58 | 2023-10-03 | 2024-04-24 |
 | [Supa Emcees](https://open.spotify.com/track/6WL5Lu4vqPP1nEhfDS5ZyS) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Stakes Is High](https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu) | 3:40 | 2025-12-05 | 2026-03-08 |
@@ -1383,7 +1384,7 @@
 | [Unstoppable](https://open.spotify.com/track/2l6PxsUHSZPbJyRr7AAWLg) | [Godfather Don](https://open.spotify.com/artist/7j91LXmuyKBXTykkvYfrQ2), [Jazz Spastiks](https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S) | [Writer's Delight](https://open.spotify.com/album/5hEhkAO8TIegcEk8hNHS36) | 3:37 | 2026-04-25 |  |
 | [untitled 06 \| 06.30.2014.](https://open.spotify.com/track/4M2t7bP4Mq87mGMn0PObUX) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [untitled unmastered.](https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud) | 3:28 | 2025-05-06 | 2026-02-08 |
 | [Up in Here](https://open.spotify.com/track/4rcDP7pcJ9TN3LDeFSfUav) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 2:55 | 2024-08-17 | 2024-11-06 |
-| [Up North Trip](https://open.spotify.com/track/7KQvT4YuzcmyogWg7Gq4Z5) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 4:58 | 2025-10-20 | 2026-03-08 |
+| [Up North Trip](https://open.spotify.com/track/7KQvT4YuzcmyogWg7Gq4Z5) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 4:58 | 2025-10-20 |  |
 | [Up off X](https://open.spotify.com/track/78MPwJNNwlQMbKLbF1kxKN) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 3:18 | 2022-09-09 | 2023-05-09 |
 | [URUS FREESTYLE](https://open.spotify.com/track/4Osh1jJU2EhKoTgnEK3i8s) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Hit Me When You Land](https://open.spotify.com/album/5AZFefxiP690Wn5RapyUQ3) | 2:38 | 2022-12-16 | 2023-12-14 |
 | [Usain](https://open.spotify.com/track/1eUqSndw8Wq35xKCIL0K7C) | [Larry League](https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe) | [Larry Leaks](https://open.spotify.com/album/6DXdOvjqHKwzF8nRUTbQvj) | 3:30 | 2024-04-01 | 2024-11-06 |

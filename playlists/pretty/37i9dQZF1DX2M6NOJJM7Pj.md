@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2M6NOJJM7Pj.md) - [plain]
 
 > Dive into the rich music history of Assassin's Creed with the official playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,323 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,366 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2M6NOJJM7Pj.md) - [plain]
 | 56 | [Canaid Lia Fáil \(feat\. Julie Fowlis\) \[Acoustic Version\]](https://open.spotify.com/track/0nY9PNi2BLL4hXaJnd7M1e) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Assassin's Creed Valhalla: Wrath of the Druids \(Original Game Soundtrack\)](https://open.spotify.com/album/7udn8jrY30HvTRCgqalmXF) | 2:11 |
 | 57 | [The Siege of Paris](https://open.spotify.com/track/37ano7qEKosoOBduWXcv4S) | [Stephanie Economou](https://open.spotify.com/artist/2CZRlBNoAoDpVu3vLFKySH), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla: The Siege of Paris \(Original Game Soundtrack\)](https://open.spotify.com/album/2clk3QfapfzKkrSOnUishJ) | 1:59 |
 | 58 | [Surtr](https://open.spotify.com/track/1gfStt0WRF06dJZ5npOCkv) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla: Blood, Fire, Tears \(Dawn of Ragnarök Original Game Soundtrack\)](https://open.spotify.com/album/3kz3z5MewDUNEXLzdUQWdv) | 3:24 |
-| 59 | [Daughter of No One](https://open.spotify.com/track/1Fyp3ANI5t6awStSfesu2d) | [Brendan Angelides](https://open.spotify.com/artist/6IatVwpJEecAd1RMAGAx0O), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Assassin's Creed Mirage \(Original Game Soundtrack\)](https://open.spotify.com/album/6WNfe3wEbKS6JvBvss8lyf) | 3:47 |
+| 59 | [Daughter of No One](https://open.spotify.com/track/1Fyp3ANI5t6awStSfesu2d) | [Brendan Angelides](https://open.spotify.com/artist/6IatVwpJEecAd1RMAGAx0O), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [EMEL](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Assassin's Creed Mirage \(Original Game Soundtrack\)](https://open.spotify.com/album/6WNfe3wEbKS6JvBvss8lyf) | 3:47 |
 | 60 | [Ezio's Family \- Mirage Version](https://open.spotify.com/track/0pVClJWojdo9iLVGFfWibj) | [Brendan Angelides](https://open.spotify.com/artist/6IatVwpJEecAd1RMAGAx0O), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Layth Sidiq](https://open.spotify.com/artist/75qIhTMvg7SbytVJMHNZ9o) | [Assassin's Creed Mirage \(Original Game Soundtrack\)](https://open.spotify.com/album/6WNfe3wEbKS6JvBvss8lyf) | 2:14 |
 
 Snapshot ID: `AAAAAFfG1W0QfzzGdrpdlYEGfPvRB//z`

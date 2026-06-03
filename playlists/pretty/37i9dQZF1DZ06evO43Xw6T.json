@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 183977,
+  "num_followers": 183992,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAADXkCQ1tAf3USlGN7i47oSv",
+  "snapshot_id": "ahzLgAAAAAA03uBATHNnO2L0Zmm2NUSj",
   "tracks": [
     {
       "added_at": null,
@@ -751,6 +751,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Salvame Hoy (feat. Gabito Ballesteros)",
+        "url": "https://open.spotify.com/album/7lEc1BEhoOFtDgKA3aZyIt"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 215979,
+      "name": "Salvame Hoy (feat. Gabito Ballesteros)",
+      "url": "https://open.spotify.com/track/1RkWdKYYHVrtV76KLzUJsa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
@@ -875,30 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Salvame Hoy (feat. Gabito Ballesteros)",
-        "url": "https://open.spotify.com/album/7lEc1BEhoOFtDgKA3aZyIt"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 215979,
-      "name": "Salvame Hoy (feat. Gabito Ballesteros)",
-      "url": "https://open.spotify.com/track/1RkWdKYYHVrtV76KLzUJsa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On The Road",
         "url": "https://open.spotify.com/album/7yQ1S9MYxf97ODMA9cdZiW"
       },
@@ -959,30 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BAYAM\u00d3N",
-        "url": "https://open.spotify.com/album/73kwI4UvPc6CfNi5zih7AY"
-      },
-      "artists": [
-        {
-          "name": "Capo",
-          "url": "https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Esteban Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/1vMnVEtq5i30xyCVaHPhyz"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "BAYAM\u00d3N",
-      "url": "https://open.spotify.com/track/3ZGNnNlKZNMNW9abDm0i0g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Gabacho",
         "url": "https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 205141,
       "name": "Sonrisa Colgate",
       "url": "https://open.spotify.com/track/1zlbnoJE5NabN9STMIYmf1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BAYAM\u00d3N",
+        "url": "https://open.spotify.com/album/73kwI4UvPc6CfNi5zih7AY"
+      },
+      "artists": [
+        {
+          "name": "Capo",
+          "url": "https://open.spotify.com/artist/7xHUTO9cWJKX9ayS9CfMCz"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Esteban Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/1vMnVEtq5i30xyCVaHPhyz"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "BAYAM\u00d3N",
+      "url": "https://open.spotify.com/track/3ZGNnNlKZNMNW9abDm0i0g"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,500 likes - 590 songs - 1 day 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,501 likes - 590 songs - 1 day 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -318,8 +318,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 308 | [Where Do I Go From You](https://open.spotify.com/track/6Z4z8B5DQiDJSB9iWOi1G0) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Heart, Soul & A Voice](https://open.spotify.com/album/5XUP2uXNuwU04iC02ViO3A) | 4:25 |
 | 309 | [Numb \- 2017 Remaster](https://open.spotify.com/track/5bpFQj1Ceojaba0btoDTFw) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Fundamental: Further Listening 2005 \- 2007 \(2017 Remaster\)](https://open.spotify.com/album/4ZFuSmSto4VKVZ4glzep3j) | 4:43 |
 | 310 | [When Lovers Become Strangers](https://open.spotify.com/track/1CL3jh4Effnc19ZhQ5x8HL) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts](https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW) | 4:46 |
-| 311 | [Can't Fight the Moonlight](https://open.spotify.com/track/1oXQL2AMxAW90Td53z6Zp5) | [CHVRT H!TS](https://open.spotify.com/artist/3Q9m56PRztC7MN9fx3u8yP) | [THE BEST HITS OF THE 00S, VOL\. I](https://open.spotify.com/album/4BjdneVDpIFBwynll2z39B) | 3:39 |
-| 312 | [Listen With Your Heart](https://open.spotify.com/track/1BsIcp6FTuM8jSt4NYe5TW) | [Casey Donovan](https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X) | [For You](https://open.spotify.com/album/1uNMbDXBQrmYnsVpJYQV2H) | 4:01 |
+| 311 | [Listen With Your Heart](https://open.spotify.com/track/1BsIcp6FTuM8jSt4NYe5TW) | [Casey Donovan](https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X) | [For You](https://open.spotify.com/album/1uNMbDXBQrmYnsVpJYQV2H) | 4:01 |
+| 312 | [Can't Fight the Moonlight](https://open.spotify.com/track/1oXQL2AMxAW90Td53z6Zp5) | [CHVRT H!TS](https://open.spotify.com/artist/3Q9m56PRztC7MN9fx3u8yP) | [THE BEST HITS OF THE 00S, VOL\. I](https://open.spotify.com/album/4BjdneVDpIFBwynll2z39B) | 3:39 |
 | 313 | [You Don't Have The Right](https://open.spotify.com/track/2VW7tqIuyIEUQ2fsq7Z8ji) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:43 |
 | 314 | [Couldn't We](https://open.spotify.com/track/5M9lp03sT5cuw48hMIjFf5) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD) | 4:32 |
 | 315 | [The Plumbing Song](https://open.spotify.com/track/4feL1rU1EcDRDQHetpFYlr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Off The Deep End](https://open.spotify.com/album/6qr3P9IV7X8zSmRWUfKTNL) | 4:06 |
@@ -381,8 +381,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 371 | [I Was Here](https://open.spotify.com/track/3FG4rxlmFJVzssS2NpQuZf) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [I Owe It All To You](https://open.spotify.com/album/6pwYoX2L9qT1YsiR08oeya) | 4:00 |
 | 372 | [Ordinary Day](https://open.spotify.com/track/0SAOnCMebI87Oy3xUBHaGS) | [Nick Lachey](https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073) | [Ordinary Day](https://open.spotify.com/album/4Th3TOP5u65gHpVl8GLnJU) | 3:27 |
 | 373 | [I Couldn't Do That to Me](https://open.spotify.com/track/2nQqNWe3dNbKtLqWvuujh9) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Remnants \(Deluxe\)](https://open.spotify.com/album/1UGfwqUrXkfomZsxqfAjMY) | 4:27 |
-| 374 | [If U Go](https://open.spotify.com/track/4kxckcfvTM73YQTkDckVFl) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:26 |
-| 375 | [Sunlight to My Soul](https://open.spotify.com/track/6Pe1uwRVmUMh5c6EMjZqrp) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [HOPE!!](https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b) | 3:25 |
+| 374 | [Sunlight to My Soul](https://open.spotify.com/track/6Pe1uwRVmUMh5c6EMjZqrp) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [HOPE!!](https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b) | 3:25 |
+| 375 | [If U Go](https://open.spotify.com/track/4kxckcfvTM73YQTkDckVFl) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:26 |
 | 376 | [One Nation Under Love \(Ukrainian Version\)](https://open.spotify.com/track/3y72hO7OdY158BEWxbHGss) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 |
 | 377 | [Shine](https://open.spotify.com/track/0v2Qw3hhGhpK07yHYtCaVf) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [The Declaration](https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d) | 3:40 |
 | 378 | [Feels Like Home](https://open.spotify.com/track/6bYV3JaJuDQX3meBGx5jMe) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Sittin' On Top Of The World](https://open.spotify.com/album/6whu15IpXsztdwhOC43SXX) | 4:32 |
@@ -599,4 +599,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 589 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 590 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcTF2AAAAAC2eaPePSUO2S5ZyxqWGKlK`
+Snapshot ID: `AcTLeAAAAABoihPWildrIK8H1k7ielKi`

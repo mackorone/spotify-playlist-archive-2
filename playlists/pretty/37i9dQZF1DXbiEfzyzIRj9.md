@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Skrillex
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,086 likes - 111 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,111 likes - 111 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
+| 1 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
 | 2 | [Broken VIP \(feat\. Frost & Panic Pat\)](https://open.spotify.com/track/3eQtiUrUkK16i7sZeWk3fC) | [Big Animal Theory](https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4), [Frost](https://open.spotify.com/artist/4sBgFjTJnHREKsqj14m8LF), [Panic Pat](https://open.spotify.com/artist/0vOZZl9GDzFHLCO05AO2Nu) | [Maybe in the next world..\. 001](https://open.spotify.com/album/6Ec4sbLctibBeTOnEeHuBc) | 3:06 |
 | 3 | [BARTRACK](https://open.spotify.com/track/6po2cdbkS2KF5EfgOa9uNi) | [DJ DISK](https://open.spotify.com/artist/7BhAnkcfEJZNZNBsGXj9Jr) | [RIOT IN SILENCE](https://open.spotify.com/album/45LpEs9L4qtRyLcbdOHKEa) | 3:32 |
 | 4 | [90S](https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG) | [IN PARALLEL](https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H), [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [90S](https://open.spotify.com/album/1gQuOq96Cpf4BNidbu0Zn0) | 3:16 |

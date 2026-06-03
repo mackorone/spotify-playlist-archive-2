@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added regularly :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,368 likes - 225 songs - 12 hr 14 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,368 likes - 229 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,5 +233,9 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 223 | [EViL<>DiscO](https://open.spotify.com/track/3w1XPuH9KdQ0hqk5osPHfq) | [Mission Stark](https://open.spotify.com/artist/252sia2rdafviOs3V9aRjT) | [EViL<>DiscO](https://open.spotify.com/album/18SGpV863owaQFdmpcVxBO) | 2:27 |
 | 224 | [Golden Glasses](https://open.spotify.com/track/4PH6B0EduFdpGGiQiDyvoB) | [Cheap Petrol](https://open.spotify.com/artist/12GUVzQKdS6WNQvbZRq100) | [Golden Glasses](https://open.spotify.com/album/4qxkpU3001dOaHswl1Na7K) | 5:30 |
 | 225 | [Insomniacs Lullaby](https://open.spotify.com/track/0CZA4uPdR4i3KNZN4xzIH7) | [leetham](https://open.spotify.com/artist/6A0yNfaiITVOUgOZbRdK5u) | [A Night in Hollywood](https://open.spotify.com/album/5EnZ4hduf758YArA21k8PM) | 3:44 |
+| 226 | [BLEED \- Single Version](https://open.spotify.com/track/6OOhnKmVu1YxR8IKPOqpbf) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BLEED](https://open.spotify.com/album/1HUACNh5N6FCKrsQcOzTya) | 2:53 |
+| 227 | [Punk Parrot](https://open.spotify.com/track/4CaImsMJmEbKg2ikcgyAJU) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Punk Parrot](https://open.spotify.com/album/5LPgfFFpDiisyYSb4FpnqV) | 3:03 |
+| 228 | [The Expense](https://open.spotify.com/track/3ofRi2iXwlwUj4dyI9fld7) | [Picket Wounds](https://open.spotify.com/artist/5vqSW7u5CjtEiEuJxxbQmu) | [The Expense / Unheeded Warnings](https://open.spotify.com/album/3Dh3fmWklY7yImg7Uigs8I) | 2:40 |
+| 229 | [Shallowed Breakwater](https://open.spotify.com/track/0SrxFhP0L8ZskM6gJoqa3a) | [File Under Humanoid](https://open.spotify.com/artist/4THYnYjrIh3ssVteBV9Vmx) | [Fuel The Flame EP](https://open.spotify.com/album/3DmHe6uM9Jav9qgmtIGLbZ) | 2:39 |
 
-Snapshot ID: `AAAQJEPEgNYSRYDqyMLNaEYIMkvIoRKH`
+Snapshot ID: `AAAQKI0JwYdE75DsfUbOjYUJifyzVEED`

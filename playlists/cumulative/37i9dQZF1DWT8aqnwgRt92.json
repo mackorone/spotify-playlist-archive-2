@@ -1962,7 +1962,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 176244,
       "name": "Balsam",
       "url": "https://open.spotify.com/track/4CpEbsn3QeOEmZPAjouBLO"
@@ -6342,6 +6342,32 @@
       "duration_ms": 102653,
       "name": "Endless Love",
       "url": "https://open.spotify.com/track/2xMPg1YIRtvpq8Q55r37TS"
+    },
+    {
+      "album": {
+        "name": "ENDROLL",
+        "url": "https://open.spotify.com/album/6R5OcGMnPJD6GagP2GevfZ"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        },
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        },
+        {
+          "name": "Sawano Hiroyuki",
+          "url": "https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214100,
+      "name": "ENDROLL",
+      "url": "https://open.spotify.com/track/2fVtDYI3EEs8dJnInh5eAB"
     },
     {
       "album": {
@@ -12896,7 +12922,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 270077,
       "name": "Komorebizaka",
       "url": "https://open.spotify.com/track/1kcdG22iYuTiQNTm7HypUi"
@@ -14387,6 +14413,36 @@
     },
     {
       "album": {
+        "name": "Machiawase",
+        "url": "https://open.spotify.com/album/2CULdbq3EBZBjNQByjwoV3"
+      },
+      "artists": [
+        {
+          "name": "TOKYO\u4e16\u754c",
+          "url": "https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf"
+        },
+        {
+          "name": "\u4e2d\u4e95\u74b0",
+          "url": "https://open.spotify.com/artist/51fSzgrfB7WMJdP5mqxLlN"
+        },
+        {
+          "name": "\u897f\u87f9\u5c4b\u745b",
+          "url": "https://open.spotify.com/artist/3dBU0SpQwsU8qxsB7Ighko"
+        },
+        {
+          "name": "\u9752\u6d77\u7460\u7483",
+          "url": "https://open.spotify.com/artist/0IuMK1IlvSAN5jgi0YKFJ6"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Machiawase",
+      "url": "https://open.spotify.com/track/2HEUiHqNHY3M3F0uY0ZeKs"
+    },
+    {
+      "album": {
         "name": "Made to order",
         "url": "https://open.spotify.com/album/39EJXEYGjkRGDsg4wleKe9"
       },
@@ -14972,6 +15028,24 @@
       "duration_ms": 209506,
       "name": "Meant to be",
       "url": "https://open.spotify.com/track/7AY2Z88px0W0rSVj2bcaer"
+    },
+    {
+      "album": {
+        "name": "Mebius",
+        "url": "https://open.spotify.com/album/4PPPYsDozmG4NlnyIh8j8q"
+      },
+      "artists": [
+        {
+          "name": "Leo Ieiri",
+          "url": "https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211787,
+      "name": "Mebius",
+      "url": "https://open.spotify.com/track/7aa7xs0GnKFpIt4HPEODvh"
     },
     {
       "album": {
@@ -17012,6 +17086,24 @@
       "duration_ms": 182356,
       "name": "No Complete",
       "url": "https://open.spotify.com/track/4fHxxR2hp4mq1WO5rjABem"
+    },
+    {
+      "album": {
+        "name": "No Epilogue",
+        "url": "https://open.spotify.com/album/6ZhdDIKUvLWZQMyQkcwey3"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221800,
+      "name": "No Epilogue",
+      "url": "https://open.spotify.com/track/3hGtbgqDrLBS6CeOpWiEuX"
     },
     {
       "album": {
@@ -21474,7 +21566,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 189373,
       "name": "SHIRUBEKIKOTO",
       "url": "https://open.spotify.com/track/3sf29aubLs5rV8ctWvpZBY"
@@ -31021,6 +31113,28 @@
     },
     {
       "album": {
+        "name": "\u8cb8\u3057\u3063\u3071\u306a\u3057\u30c7\u30b9\u30c6\u30a3\u30cb\u30fc/\u307e\u305f\u5e30\u3063\u3066\u304d\u305f\u30b1\u30ed\u30c3\uff01\u3068\u30de\u30fc\u30c1",
+        "url": "https://open.spotify.com/album/7khgjyRAoZsoOGC16CUDqJ"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        },
+        {
+          "name": "\u7c97\u54c1",
+          "url": "https://open.spotify.com/artist/7xqEtCgCQWtiuvlkM5Wigc"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187130,
+      "name": "\u307e\u305f\u5e30\u3063\u3066\u304d\u305f\u30b1\u30ed\u30c3\uff01\u3068\u30de\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/5Mm8lWUFmdpEPM0yoRkXTM"
+    },
+    {
+      "album": {
         "name": "\u307e\u3060\u77e5\u3089\u306a\u3044\u30b9\u30c8\u30fc\u30ea\u30fc",
         "url": "https://open.spotify.com/album/7uxlb0zRcVXr7IWYp2gs2i"
       },
@@ -34682,7 +34796,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 234080,
       "name": "\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8\u30fb\u30a8\u30a6\u30ec\u30ab",
       "url": "https://open.spotify.com/track/4zqiyfooqhHUq1yxWAy3I7"
@@ -44504,7 +44618,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 364800,
       "name": "\u6708\u8679\u8776 (Anime version)",
       "url": "https://open.spotify.com/track/1omEW2jdYF14nOgh4DfFBI"
@@ -47840,7 +47954,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 199218,
       "name": "\u8ab0\u304c\u305f\u3081\u306b",
       "url": "https://open.spotify.com/track/0ifedZrnSX547MfAYwaGDw"
@@ -47934,6 +48048,24 @@
       "duration_ms": 242321,
       "name": "\u8cb4\u65b9\u306e\u5074\u306b\u3002",
       "url": "https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L"
+    },
+    {
+      "album": {
+        "name": "\u8cb8\u3057\u3063\u3071\u306a\u3057\u30c7\u30b9\u30c6\u30a3\u30cb\u30fc/\u307e\u305f\u5e30\u3063\u3066\u304d\u305f\u30b1\u30ed\u30c3\uff01\u3068\u30de\u30fc\u30c1",
+        "url": "https://open.spotify.com/album/7khgjyRAoZsoOGC16CUDqJ"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277341,
+      "name": "\u8cb8\u3057\u3063\u3071\u306a\u3057\u30c7\u30b9\u30c6\u30a3\u30cb\u30fc",
+      "url": "https://open.spotify.com/track/71xlmmNpMLE6tlnR8sWHdv"
     },
     {
       "album": {

@@ -2313,6 +2313,24 @@
     },
     {
       "album": {
+        "name": "WSG WANNABE 1st Album",
+        "url": "https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9"
+      },
+      "artists": [
+        {
+          "name": "WSG WANNABE(4FIRE)",
+          "url": "https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207866,
+      "name": "I Missed You",
+      "url": "https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N"
+    },
+    {
+      "album": {
         "name": "Sincerely yours (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/02bhP9otK5sM8f3fPcxE17"
       },
@@ -4962,7 +4980,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 195333,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"

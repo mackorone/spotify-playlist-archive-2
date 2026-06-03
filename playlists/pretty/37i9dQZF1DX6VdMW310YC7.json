@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3909236,
+  "num_followers": 3909060,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-05-29 04:01:20",
       "album": {
-        "name": "ABOUT YOU",
-        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "ABOUT YOU",
-      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
-    },
-    {
-      "added_at": "2026-05-29 04:01:20",
-      "album": {
         "name": "life gets hard",
         "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 125917,
       "name": "life gets hard",
       "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
+    },
+    {
+      "added_at": "2026-05-29 04:01:20",
+      "album": {
+        "name": "ABOUT YOU",
+        "url": "https://open.spotify.com/album/4EisehMLZwMwc8lgLU3mWE"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "ABOUT YOU",
+      "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
     },
     {
       "added_at": "2026-05-29 04:01:20",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-05-29 04:01:20",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
-    },
-    {
-      "added_at": "2026-05-29 04:01:20",
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 204039,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
+    },
+    {
+      "added_at": "2026-05-29 04:01:20",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0IjEqIRJmcXs3ORWF0Jd1C"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0v5cEbbd2EYqE9XPlTUZ2Y"
     },
     {
       "added_at": "2026-05-29 04:01:20",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-05-29 04:01:20",
       "album": {
-        "name": "BLINK",
-        "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 237938,
-      "name": "Keep Love Waiting",
-      "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
-    },
-    {
-      "added_at": "2026-05-29 04:01:20",
-      "album": {
         "name": "Here Again / Wild Again",
         "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 227069,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
+    },
+    {
+      "added_at": "2026-05-29 04:01:20",
+      "album": {
+        "name": "BLINK",
+        "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        },
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 237938,
+      "name": "Keep Love Waiting",
+      "url": "https://open.spotify.com/track/4hPyD1hj9UI0aUXsgJx0uh"
     },
     {
       "added_at": "2026-05-29 04:01:20",
@@ -815,22 +815,22 @@
     {
       "added_at": "2026-05-29 04:01:20",
       "album": {
-        "name": "More To Life",
-        "url": "https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm"
+        "name": "As Soon As I Get Home",
+        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
       },
       "artists": [
         {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
         },
         {
-          "name": "Carston",
-          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
         }
       ],
-      "duration_ms": 204374,
-      "name": "More To Life",
-      "url": "https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ"
+      "duration_ms": 239885,
+      "name": "As Soon As I Get Home",
+      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
     },
     {
       "added_at": "2026-05-29 04:01:20",
@@ -855,6 +855,26 @@
     {
       "added_at": "2026-05-29 04:01:20",
       "album": {
+        "name": "More To Life",
+        "url": "https://open.spotify.com/album/2OD0VlUQDHb6QklUhyJjZm"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        }
+      ],
+      "duration_ms": 204374,
+      "name": "More To Life",
+      "url": "https://open.spotify.com/track/6VzJzNoNJGY2K2tqzbkkBZ"
+    },
+    {
+      "added_at": "2026-05-29 04:01:20",
+      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/6TH6mDJgdPL1cp6q5oJou4"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 359040,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/2Lkbzbxnyu25NVlV1uiaYb"
-    },
-    {
-      "added_at": "2026-05-29 04:01:20",
-      "album": {
-        "name": "A Life",
-        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        },
-        {
-          "name": "Henry Green",
-          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Felt (feat. Henry Green)",
-      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
     },
     {
       "added_at": "2026-05-29 04:01:20",
@@ -915,22 +915,22 @@
     {
       "added_at": "2026-05-29 04:01:20",
       "album": {
-        "name": "As Soon As I Get Home",
-        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
+        "name": "A Life",
+        "url": "https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R"
       },
       "artists": [
         {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         },
         {
-          "name": "SHYA",
-          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+          "name": "Henry Green",
+          "url": "https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp"
         }
       ],
-      "duration_ms": 239885,
-      "name": "As Soon As I Get Home",
-      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
+      "duration_ms": 199160,
+      "name": "Felt (feat. Henry Green)",
+      "url": "https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d"
     },
     {
       "added_at": "2026-05-29 04:01:20",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-05-29 04:01:20",
       "album": {
+        "name": "Have It All",
+        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
+      },
+      "artists": [
+        {
+          "name": "ANDREA CALABRIA",
+          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
+    },
+    {
+      "added_at": "2026-05-29 04:01:20",
+      "album": {
         "name": "AMi Vol. 1",
         "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 211278,
       "name": "Places",
       "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
-    },
-    {
-      "added_at": "2026-05-29 04:01:20",
-      "album": {
-        "name": "Have It All",
-        "url": "https://open.spotify.com/album/739Rj4q2KEERTlzzF7eIpT"
-      },
-      "artists": [
-        {
-          "name": "ANDREA CALABRIA",
-          "url": "https://open.spotify.com/artist/4WDwArKRmrfTM3xqu8HiA1"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/2A0BUJTl2JAja9lv64KRJg"
     },
     {
       "added_at": "2026-05-29 04:01:20",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2026-05-29 04:01:20",
       "album": {
-        "name": "Sewn",
-        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
       },
       "artists": [
         {
-          "name": "Kidnap",
-          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         }
       ],
-      "duration_ms": 212903,
-      "name": "Sewn",
-      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+      "duration_ms": 209899,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
     },
     {
       "added_at": "2026-05-29 04:01:20",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-05-29 04:01:20",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
+        "name": "Sewn",
+        "url": "https://open.spotify.com/album/4r51uVlWZVOutNSvswb0NH"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
         }
       ],
-      "duration_ms": 209899,
-      "name": "Melancholia",
-      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
+      "duration_ms": 212903,
+      "name": "Sewn",
+      "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
     },
     {
       "added_at": "2026-05-29 04:01:20",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-05-29 04:01:20",
       "album": {
+        "name": "All Is Right",
+        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
+      },
+      "artists": [
+        {
+          "name": "Thysma",
+          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "All Is Right",
+      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
+    },
+    {
+      "added_at": "2026-05-29 04:01:20",
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 361080,
       "name": "Memories",
       "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
-    },
-    {
-      "added_at": "2026-05-29 04:01:20",
-      "album": {
-        "name": "All Is Right",
-        "url": "https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4"
-      },
-      "artists": [
-        {
-          "name": "Thysma",
-          "url": "https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "All Is Right",
-      "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
     },
     {
       "added_at": "2026-05-29 04:01:20",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2026-05-29 04:01:20",
       "album": {
+        "name": "The Thought of You",
+        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
+      },
+      "artists": [
+        {
+          "name": "Blonde Maze",
+          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
+        },
+        {
+          "name": "imallryt",
+          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
+        }
+      ],
+      "duration_ms": 262008,
+      "name": "The Thought of You",
+      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
+    },
+    {
+      "added_at": "2026-05-29 04:01:20",
+      "album": {
         "name": "Otherside (Orsay Remix)",
         "url": "https://open.spotify.com/album/6InmumYgo06ZDPtnLtNFAo"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 238000,
       "name": "Otherside - Orsay Remix",
       "url": "https://open.spotify.com/track/0D23mxf4TPEXdodbmsxKzg"
-    },
-    {
-      "added_at": "2026-05-29 04:01:20",
-      "album": {
-        "name": "The Thought of You",
-        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
-      },
-      "artists": [
-        {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
-        },
-        {
-          "name": "imallryt",
-          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
-        }
-      ],
-      "duration_ms": 262008,
-      "name": "The Thought of You",
-      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
     },
     {
       "added_at": "2026-05-29 04:01:20",
@@ -1723,6 +1723,26 @@
     {
       "added_at": "2026-05-29 04:01:20",
       "album": {
+        "name": "edges",
+        "url": "https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "edges",
+      "url": "https://open.spotify.com/track/3Y0GPlTTGhUvkX9gLbeB3F"
+    },
+    {
+      "added_at": "2026-05-29 04:01:20",
+      "album": {
         "name": "Fall Apart",
         "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 248000,
       "name": "Hours",
       "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
-    },
-    {
-      "added_at": "2026-05-29 04:01:20",
-      "album": {
-        "name": "edges",
-        "url": "https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g"
-      },
-      "artists": [
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "edges",
-      "url": "https://open.spotify.com/track/3Y0GPlTTGhUvkX9gLbeB3F"
     },
     {
       "added_at": "2026-05-29 04:01:20",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-05-29 04:01:20",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        }
-      ],
-      "duration_ms": 204419,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV"
-    },
-    {
-      "added_at": "2026-05-29 04:01:20",
-      "album": {
         "name": "Go On",
         "url": "https://open.spotify.com/album/3pkakTNCfg5k54UgUCDZG4"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 204960,
       "name": "Go On",
       "url": "https://open.spotify.com/track/2Z42ydA0ORCroYInk2PLTi"
+    },
+    {
+      "added_at": "2026-05-29 04:01:20",
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        }
+      ],
+      "duration_ms": 204419,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV"
     },
     {
       "added_at": "2026-05-29 04:01:20",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2026-05-29 04:01:20",
       "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK"
+    },
+    {
+      "added_at": "2026-05-29 04:01:20",
+      "album": {
         "name": "Civilian World",
         "url": "https://open.spotify.com/album/7xxQ6IO8IeqOY7hPxs9cDH"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 234204,
       "name": "Fool",
       "url": "https://open.spotify.com/track/5SaA31HzAQSJbLInxhXHOP"
-    },
-    {
-      "added_at": "2026-05-29 04:01:20",
-      "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe"
-      },
-      "artists": [
-        {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK"
     },
     {
       "added_at": "2026-05-29 04:01:20",

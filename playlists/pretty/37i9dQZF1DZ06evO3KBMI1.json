@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAAAIWKpzMLV6Yk7m1iBu10yR",
+  "snapshot_id": "ahzLgAAAAACnP4DyTNEALYoGTFpv2B2O",
   "tracks": [
     {
       "added_at": null,
@@ -91,18 +91,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ODD FUTURE short ver.",
-        "url": "https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN"
+        "name": "DAWN",
+        "url": "https://open.spotify.com/album/2JOBBV8sldnPAG1G0KYdfF"
       },
       "artists": [
+        {
+          "name": "AK-69",
+          "url": "https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh"
+        },
         {
           "name": "UVERworld",
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 89983,
-      "name": "ODD FUTURE short ver.",
-      "url": "https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ"
+      "duration_ms": 239826,
+      "name": "Forever Young (feat. UVERworld)",
+      "url": "https://open.spotify.com/track/792bbU2aAlrbPC171z0ljk"
     },
     {
       "added_at": null,
@@ -123,22 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAWN",
-        "url": "https://open.spotify.com/album/2JOBBV8sldnPAG1G0KYdfF"
+        "name": "ODD FUTURE short ver.",
+        "url": "https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN"
       },
       "artists": [
-        {
-          "name": "AK-69",
-          "url": "https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh"
-        },
         {
           "name": "UVERworld",
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 239826,
-      "name": "Forever Young (feat. UVERworld)",
-      "url": "https://open.spotify.com/track/792bbU2aAlrbPC171z0ljk"
+      "duration_ms": 89983,
+      "name": "ODD FUTURE short ver.",
+      "url": "https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVER",
-        "url": "https://open.spotify.com/album/6YM8mtP6K9lGvhwEGu34Wb"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "ZERO BREAKOUT POINT",
-      "url": "https://open.spotify.com/track/7rVdWPnRGuZpd8RIx1IsXW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neo SOUND BEST",
         "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 334026,
       "name": "\u6fc0\u52d5",
       "url": "https://open.spotify.com/track/2bB94ADjTpb7qavnp8NYQP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EVER",
+        "url": "https://open.spotify.com/album/6YM8mtP6K9lGvhwEGu34Wb"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "ZERO BREAKOUT POINT",
+      "url": "https://open.spotify.com/track/7rVdWPnRGuZpd8RIx1IsXW"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPIPHANY",
-        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "NO MAP",
-      "url": "https://open.spotify.com/track/3NM5kbdYzz42SPWqDEUL8b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7\uff54\uff48 Trigger",
         "url": "https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 275306,
       "name": "AWAYOKUBA-\u65ac\u308b",
       "url": "https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EPIPHANY",
+        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "NO MAP",
+      "url": "https://open.spotify.com/track/3NM5kbdYzz42SPWqDEUL8b"
     },
     {
       "added_at": null,

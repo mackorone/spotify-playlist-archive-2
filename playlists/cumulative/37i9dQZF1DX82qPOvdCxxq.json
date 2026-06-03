@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Ocha\u00e8",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Petrina DeLacey",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "AFTERTHOUGHT",
+        "url": "https://open.spotify.com/album/3J9hrYwgauuZQGFSV16Mg5"
+      },
+      "artists": [
+        {
+          "name": "Van Buren",
+          "url": "https://open.spotify.com/artist/3Yu0KVIiHkzduNTv4V8QNl"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "AFTERTHOUGHT",
+      "url": "https://open.spotify.com/track/609hWqlx2oY44Iy2F9uoXy"
+    },
+    {
+      "album": {
         "name": "Afuera est\u00e1 lloviendo (Versi\u00f3n Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2Rp1fS9vsGxlnbDjmyG4DW"
       },
@@ -632,6 +650,24 @@
       "duration_ms": 154600,
       "name": "All Alive",
       "url": "https://open.spotify.com/track/2sl7u3ienTSoXRAivsMl4H"
+    },
+    {
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/5eYdEf5o3xTed3ztXX948F"
+      },
+      "artists": [
+        {
+          "name": "Meyta",
+          "url": "https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/6coXoKfiFIHGd8aAQvwP1R"
     },
     {
       "album": {
@@ -1418,7 +1454,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 194700,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/4jg4CfzBBZL3qAqtFayoPQ"
@@ -1466,6 +1502,24 @@
       "duration_ms": 123301,
       "name": "AYO",
       "url": "https://open.spotify.com/track/7Bt3aw2viJVXQEUoA8cqbP"
+    },
+    {
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/4e4IMW3HKZyod3lrRZkBAr"
+      },
+      "artists": [
+        {
+          "name": "Mark Alan Schoolmeesters",
+          "url": "https://open.spotify.com/artist/0mTJxKhV5L8JtQmXHTJZXy"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208812,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/2V46hiHM4Z2QebVwmFRwwl"
     },
     {
       "album": {
@@ -2059,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/3ryY2eP4zYouJZubWkT5RL"
+      },
+      "artists": [
+        {
+          "name": "SUNS",
+          "url": "https://open.spotify.com/artist/13Vnt5pLnf1DOOBBVDOVfi"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230360,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/2lfYCvXb6c8xeHGyVh75cP"
+    },
+    {
+      "album": {
         "name": "Big Brother",
         "url": "https://open.spotify.com/album/2TWvFy8rzGQQSOmUWCMh3A"
       },
@@ -2276,7 +2348,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 127106,
       "name": "Bones",
       "url": "https://open.spotify.com/track/73QszGGT4LFAs13Meka1TK"
@@ -2458,7 +2530,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 161625,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/2pAdH7u6RWSiyFsBLDo9QF"
@@ -2766,7 +2838,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 187941,
       "name": "Can I Get a Witness (Remix)",
       "url": "https://open.spotify.com/track/1Z2PaVTRj70DlxD6qqcCHg"
@@ -3600,7 +3672,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 225009,
       "name": "Confidence - Acoustic",
       "url": "https://open.spotify.com/track/2UcewXrUzcUquALTwO1bTQ"
@@ -9041,6 +9113,24 @@
     },
     {
       "album": {
+        "name": "I Got Jesus",
+        "url": "https://open.spotify.com/album/2I6w9AEE0Zre8OjP7QfVDW"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199587,
+      "name": "I Got Jesus",
+      "url": "https://open.spotify.com/track/5cvJ2YaP4j5IOHQaaLTOAR"
+    },
+    {
+      "album": {
         "name": "I Know Jesus Loves Me",
         "url": "https://open.spotify.com/album/3LWpxPDMJx0b6i8MOq0vxJ"
       },
@@ -10574,7 +10664,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 180000,
       "name": "KEEP MOVING",
       "url": "https://open.spotify.com/track/45O7UAhY9CqEHyLwvWRwMS"
@@ -11464,7 +11554,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 208880,
       "name": "Long Way to Fall",
       "url": "https://open.spotify.com/track/6UhuVdq7v4GzV2DKtbesCn"
@@ -11482,7 +11572,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 222500,
       "name": "Looking At You",
       "url": "https://open.spotify.com/track/3UwNV6c7gAGRyIFWfdZPlV"
@@ -11765,6 +11855,24 @@
     },
     {
       "album": {
+        "name": "CAREFREE",
+        "url": "https://open.spotify.com/album/2FH46g3V5UWz5MWkG5j1OK"
+      },
+      "artists": [
+        {
+          "name": "Petrina DeLacey",
+          "url": "https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141904,
+      "name": "LOVE WILL LAST",
+      "url": "https://open.spotify.com/track/4r5qjaxyuMR5xE2bgJh9Fw"
+    },
+    {
+      "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/6qxCDhu4mNGk4rqvMl1Khk"
       },
@@ -11784,6 +11892,24 @@
       "duration_ms": 308280,
       "name": "Loved",
       "url": "https://open.spotify.com/track/5LQ70Yd2fF8LTCG3e2xfaR"
+    },
+    {
+      "album": {
+        "name": "Loved Me to Death",
+        "url": "https://open.spotify.com/album/76czyU1aSSXPsZ68q8Vm9r"
+      },
+      "artists": [
+        {
+          "name": "Henry Roe",
+          "url": "https://open.spotify.com/artist/31QXBmcnzktfRcxfTMwNJh"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217889,
+      "name": "Loved Me to Death",
+      "url": "https://open.spotify.com/track/78difNoKhd0wdUolIAVUaW"
     },
     {
       "album": {
@@ -13892,7 +14018,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 292250,
       "name": "oceans",
       "url": "https://open.spotify.com/track/0WJ8b61eOE5AjuHTEeVIte"
@@ -17197,6 +17323,24 @@
     },
     {
       "album": {
+        "name": "skin & bone",
+        "url": "https://open.spotify.com/album/3mC6ddrJJQXgGcZFHEmQhf"
+      },
+      "artists": [
+        {
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "skin & bone",
+      "url": "https://open.spotify.com/track/0rOcs5rGwmi2IDzMtH34Vx"
+    },
+    {
+      "album": {
         "name": "Snow White",
         "url": "https://open.spotify.com/album/59ySLYx7we14FM4vu8lXNs"
       },
@@ -17382,6 +17526,24 @@
       "duration_ms": 202800,
       "name": "Song In The Room",
       "url": "https://open.spotify.com/track/5wGjWQvn4A5lziL01lSBFv"
+    },
+    {
+      "album": {
+        "name": "seeing green",
+        "url": "https://open.spotify.com/album/241fEPLphNHwpdhHT3fyW3"
+      },
+      "artists": [
+        {
+          "name": "Tianna",
+          "url": "https://open.spotify.com/artist/1jQllgFn8BtMLmn7vgmRyr"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321000,
+      "name": "song of healing",
+      "url": "https://open.spotify.com/track/2vi7EDzetoEu6h8TjOdYfV"
     },
     {
       "album": {
@@ -17690,7 +17852,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 178213,
       "name": "Stay Close",
       "url": "https://open.spotify.com/track/2rulvx7ge8pyeDa9y4wpAu"
@@ -18755,6 +18917,24 @@
     },
     {
       "album": {
+        "name": "Confessions Of A Church Kid",
+        "url": "https://open.spotify.com/album/0UFQ4cWwfOd9cQAMl5QgXI"
+      },
+      "artists": [
+        {
+          "name": "Rachel DeLong",
+          "url": "https://open.spotify.com/artist/7DUD02SdWCZHYKKGjnwUQK"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191415,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/7FI0JvQ4EzjxdFeQYBVnZW"
+    },
+    {
+      "album": {
         "name": "that's my life",
         "url": "https://open.spotify.com/album/2IL7DRiuW2ZxzkB1YKznXz"
       },
@@ -19790,7 +19970,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 201200,
       "name": "tried & true",
       "url": "https://open.spotify.com/track/3KaDZgcxR2JwFVPNj0MMva"
@@ -20852,7 +21032,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 134400,
       "name": "WEATHER",
       "url": "https://open.spotify.com/track/5F2K7DYwQzJJR7kHagQbtu"
@@ -20976,6 +21156,24 @@
       "duration_ms": 233660,
       "name": "What Does It Look Like",
       "url": "https://open.spotify.com/track/4yTwZMQRCNSJGnHA1E0YYU"
+    },
+    {
+      "album": {
+        "name": "What God Can Do",
+        "url": "https://open.spotify.com/album/3PX78BsjrRdKlZvyGtx79f"
+      },
+      "artists": [
+        {
+          "name": "Kaye-Marie",
+          "url": "https://open.spotify.com/artist/51V84X0Uw6QQ8a31yRLTeN"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190699,
+      "name": "What God Can Do",
+      "url": "https://open.spotify.com/track/4fVZ0WSgBvxf5lWKzxUTwG"
     },
     {
       "album": {

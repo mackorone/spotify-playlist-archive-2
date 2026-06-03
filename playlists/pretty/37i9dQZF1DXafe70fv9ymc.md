@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > NSFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,507 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,510 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 59 | [Imagine](https://open.spotify.com/track/7IbsxxISy0r2wLxkstEmue) | [Strei](https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g) | [Imagine + Blessing](https://open.spotify.com/album/05kIAyW9B3GjgQ1QhtpE5v) | 2:51 |
 | 60 | [Demure II](https://open.spotify.com/track/27BOm6ll4uotzFwQc4t4bE) | [T Solo](https://open.spotify.com/artist/22rhw3nUn17tlr6tlOGnRL), [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [Demure II](https://open.spotify.com/album/1Cvd9Iu8SlgPS0fTiJpcfK) | 2:20 |
 
-Snapshot ID: `AAAAAE1Whk1O7YUjq7ditgEWlsnIxNAC`
+Snapshot ID: `AAAAAEkNwz6lDPl4SXi3HNHrdPT0vJfj`

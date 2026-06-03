@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 259,235 likes - 414 songs - 21 hr 44 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 259,215 likes - 414 songs - 21 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 2 | [Closure](https://open.spotify.com/track/6aynKW70w06W8LyZaKpdAX) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Closure](https://open.spotify.com/album/1PyUm9Ez6uKvsWNn7bEJbD) | 2:27 |
 | 3 | [Dreamer](https://open.spotify.com/track/1tppgasr3BDvaBjzzvFTRP) | [Janice Robinson](https://open.spotify.com/artist/6BXTl7YkINlCQkkzE9hvCd) | [Dreamer](https://open.spotify.com/album/7eHGT9zdw2lcThhyIWLflB) | 3:35 |
 | 4 | [More! More! More!](https://open.spotify.com/track/7Bk9xGSArXDiMe5Jj2zSMo) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [More! More! More!](https://open.spotify.com/album/3TWM4Bg6PuweiSPOQk0nTU) | 2:55 |
-| 5 | [Esperate](https://open.spotify.com/track/5zqeSacOQ7PLUdqexAMeh0) | [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [Esperate](https://open.spotify.com/album/4QmWjI0AZ8dlqijmChEtw1) | 2:14 |
+| 5 | [Esperate](https://open.spotify.com/track/5zqeSacOQ7PLUdqexAMeh0) | [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5), [Amante](https://open.spotify.com/artist/7n35qLqM5KST1SYogipxl1) | [Esperate](https://open.spotify.com/album/4QmWjI0AZ8dlqijmChEtw1) | 2:14 |
 | 6 | [Promises](https://open.spotify.com/track/4SGPSpr28E69qCORsz7ctG) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Promises](https://open.spotify.com/album/57okAOjFe0M2SHL1jK3fZY) | 3:59 |
 | 7 | [Feel It, See It](https://open.spotify.com/track/3aQIyQGJbyvt6UPXLRWlec) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Feel It, See It](https://open.spotify.com/album/5LWVkZ4VePu9xeMutrIje8) | 4:06 |
 | 8 | [In My Head \(Baby I'm Sorry\)](https://open.spotify.com/track/0Sp97LfUi3M6hpnYzfBl12) | [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [In My Head \(Baby I'm Sorry\)](https://open.spotify.com/album/7LefsrDOSPyYcAL7lfP39p) | 2:16 |

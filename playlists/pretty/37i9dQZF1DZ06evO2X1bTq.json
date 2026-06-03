@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1266759,
+  "num_followers": 1266803,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAACOE3KS4CZs0DUG6bBrbcwq",
+  "snapshot_id": "ahzLgAAAAACwzOrqtQh7BsyO8OvVpY0f",
   "tracks": [
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easter Lily EP",
-        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
+        "name": "The Best Of 1980 - 1990",
+        "url": "https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 302933,
-      "name": "Resurrection Song",
-      "url": "https://open.spotify.com/track/09QaPzjG6mCiiTrT9hlerp"
+      "duration_ms": 349506,
+      "name": "Bad - Edit",
+      "url": "https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of 1980 - 1990",
-        "url": "https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih"
+        "name": "Easter Lily EP",
+        "url": "https://open.spotify.com/album/1DY06ZzIoHYFQ83jPfm9aF"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 349506,
-      "name": "Bad - Edit",
-      "url": "https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z"
+      "duration_ms": 302933,
+      "name": "Resurrection Song",
+      "url": "https://open.spotify.com/track/09QaPzjG6mCiiTrT9hlerp"
     },
     {
       "added_at": null,

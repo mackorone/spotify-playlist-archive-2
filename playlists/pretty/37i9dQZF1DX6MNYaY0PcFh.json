@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: J Wax",
-  "num_followers": 105332,
+  "num_followers": 105360,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -675,26 +675,6 @@
     {
       "added_at": "2026-05-29 11:07:50",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/1pcpxVLP53k84K3b8eKEMP"
-      },
-      "artists": [
-        {
-          "name": "Y U QT",
-          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/5BMp1aNFeeB7plDvckBCpX"
-    },
-    {
-      "added_at": "2026-05-29 11:07:50",
-      "album": {
         "name": "Jump Higher",
         "url": "https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 176842,
       "name": "Jump Higher",
       "url": "https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB"
+    },
+    {
+      "added_at": "2026-05-29 11:07:50",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/1pcpxVLP53k84K3b8eKEMP"
+      },
+      "artists": [
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/5BMp1aNFeeB7plDvckBCpX"
     },
     {
       "added_at": "2026-05-29 11:07:50",
@@ -923,6 +923,26 @@
     {
       "added_at": "2026-05-29 11:07:50",
       "album": {
+        "name": "Pingers",
+        "url": "https://open.spotify.com/album/48Gg8EbVBCsBpQAgfHl7ek"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "CASISDEAD",
+          "url": "https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs"
+        }
+      ],
+      "duration_ms": 193384,
+      "name": "Pingers",
+      "url": "https://open.spotify.com/track/4NnHBVMaaNLXJ9oZKGK08k"
+    },
+    {
+      "added_at": "2026-05-29 11:07:50",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/0FlFl8UOEfbmBdfpQWAVHI"
       },
@@ -975,38 +995,22 @@
     {
       "added_at": "2026-05-29 11:07:50",
       "album": {
-        "name": "Pingers",
-        "url": "https://open.spotify.com/album/48Gg8EbVBCsBpQAgfHl7ek"
+        "name": "90S",
+        "url": "https://open.spotify.com/album/1gQuOq96Cpf4BNidbu0Zn0"
       },
       "artists": [
         {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+          "name": "IN PARALLEL",
+          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
         },
         {
-          "name": "CASISDEAD",
-          "url": "https://open.spotify.com/artist/0n7CYdHaJm01NFXRhwbbKs"
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
         }
       ],
-      "duration_ms": 193384,
-      "name": "Pingers",
-      "url": "https://open.spotify.com/track/4NnHBVMaaNLXJ9oZKGK08k"
-    },
-    {
-      "added_at": "2026-05-29 11:07:50",
-      "album": {
-        "name": "Swings",
-        "url": "https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk"
-      },
-      "artists": [
-        {
-          "name": "KiLLOWEN",
-          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
-        }
-      ],
-      "duration_ms": 141535,
-      "name": "Swings",
-      "url": "https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY"
+      "duration_ms": 196911,
+      "name": "90S",
+      "url": "https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG"
     },
     {
       "added_at": "2026-05-29 11:07:50",
@@ -1027,6 +1031,22 @@
       "duration_ms": 217706,
       "name": "F\u00f3n P\u00f3ca (feat. Travy)",
       "url": "https://open.spotify.com/track/7F8E0Skfsvz8bImaNTZxas"
+    },
+    {
+      "added_at": "2026-05-29 11:07:50",
+      "album": {
+        "name": "Swings",
+        "url": "https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "duration_ms": 141535,
+      "name": "Swings",
+      "url": "https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY"
     },
     {
       "added_at": "2026-05-29 11:07:50",
@@ -1055,26 +1075,6 @@
     {
       "added_at": "2026-05-29 11:07:50",
       "album": {
-        "name": "90S",
-        "url": "https://open.spotify.com/album/1gQuOq96Cpf4BNidbu0Zn0"
-      },
-      "artists": [
-        {
-          "name": "IN PARALLEL",
-          "url": "https://open.spotify.com/artist/6xaiGRpXAB9JdoSy3gzw4H"
-        },
-        {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
-        }
-      ],
-      "duration_ms": 196911,
-      "name": "90S",
-      "url": "https://open.spotify.com/track/0oMUKpzLniw9wYY2XszdZG"
-    },
-    {
-      "added_at": "2026-05-29 11:07:50",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5"
       },
@@ -1087,54 +1087,6 @@
       "duration_ms": 169130,
       "name": "Shine",
       "url": "https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo"
-    },
-    {
-      "added_at": "2026-05-29 11:07:50",
-      "album": {
-        "name": "Naughties",
-        "url": "https://open.spotify.com/album/3vtgWRCNRarRGSj1nFDofe"
-      },
-      "artists": [
-        {
-          "name": "KiLLOWEN",
-          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Naughties",
-      "url": "https://open.spotify.com/track/7zzQAlN6An9YQfIK7KT8DP"
-    },
-    {
-      "added_at": "2026-05-29 11:07:50",
-      "album": {
-        "name": "Melon",
-        "url": "https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3"
-      },
-      "artists": [
-        {
-          "name": "Lockerz",
-          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
-        }
-      ],
-      "duration_ms": 207761,
-      "name": "Melon",
-      "url": "https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M"
-    },
-    {
-      "added_at": "2026-05-29 11:07:50",
-      "album": {
-        "name": "Back 2 Front",
-        "url": "https://open.spotify.com/album/6GyV9Uov54iX2ldS2333is"
-      },
-      "artists": [
-        {
-          "name": "Lemtom",
-          "url": "https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF"
-        }
-      ],
-      "duration_ms": 210449,
-      "name": "Back 2 Front",
-      "url": "https://open.spotify.com/track/2fUNlLJrzdX1uoK6pMwuai"
     },
     {
       "added_at": "2026-05-29 11:07:50",
@@ -1155,6 +1107,54 @@
     {
       "added_at": "2026-05-29 11:07:50",
       "album": {
+        "name": "Melon",
+        "url": "https://open.spotify.com/album/6zlg3V43JYvY7HMhFsv6D3"
+      },
+      "artists": [
+        {
+          "name": "Lockerz",
+          "url": "https://open.spotify.com/artist/1LuS7XrtiwtzvdAnZPC6BN"
+        }
+      ],
+      "duration_ms": 207761,
+      "name": "Melon",
+      "url": "https://open.spotify.com/track/3z9QZsBbiHrYi25dsxKG3M"
+    },
+    {
+      "added_at": "2026-05-29 11:07:50",
+      "album": {
+        "name": "Naughties",
+        "url": "https://open.spotify.com/album/3vtgWRCNRarRGSj1nFDofe"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Naughties",
+      "url": "https://open.spotify.com/track/7zzQAlN6An9YQfIK7KT8DP"
+    },
+    {
+      "added_at": "2026-05-29 11:07:50",
+      "album": {
+        "name": "Back 2 Front",
+        "url": "https://open.spotify.com/album/6GyV9Uov54iX2ldS2333is"
+      },
+      "artists": [
+        {
+          "name": "Lemtom",
+          "url": "https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF"
+        }
+      ],
+      "duration_ms": 210449,
+      "name": "Back 2 Front",
+      "url": "https://open.spotify.com/track/2fUNlLJrzdX1uoK6pMwuai"
+    },
+    {
+      "added_at": "2026-05-29 11:07:50",
+      "album": {
         "name": "Picking Up The Pace",
         "url": "https://open.spotify.com/album/3V7NkyfVDcZQQ2rFMbh547"
       },
@@ -1167,26 +1167,6 @@
       "duration_ms": 178777,
       "name": "Picking Up The Pace",
       "url": "https://open.spotify.com/track/5koTalU95XrUKGGa1nwCSp"
-    },
-    {
-      "added_at": "2026-05-29 11:07:50",
-      "album": {
-        "name": "Motion Sickness",
-        "url": "https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8"
-      },
-      "artists": [
-        {
-          "name": "KiLLOWEN",
-          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
-        },
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18"
     },
     {
       "added_at": "2026-05-29 11:07:50",
@@ -1235,6 +1215,26 @@
       "duration_ms": 193361,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/3mlWa4kG7dOeO509aLJUfY"
+    },
+    {
+      "added_at": "2026-05-29 11:07:50",
+      "album": {
+        "name": "Motion Sickness",
+        "url": "https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18"
     },
     {
       "added_at": "2026-05-29 11:07:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: WILLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,193 likes - 149 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,135 likes - 149 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 136 | [charter spec](https://open.spotify.com/track/2umdgn3wABOylAPwqsulOb) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [charter spec](https://open.spotify.com/album/4DW9eP5XqwM1I8MmDDlADp) | 3:00 |
 | 137 | [Still Around](https://open.spotify.com/track/0RrTzdqu79FrTpCcs7bgjA) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Still Around](https://open.spotify.com/album/7tTvDok7aHw5h4H19fRjbs) | 3:24 |
 | 138 | [Heart](https://open.spotify.com/track/6EUSY6w1esfVEorLKpZbLZ) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Heart](https://open.spotify.com/album/7M6orDmP97kOxy7Evuf2d5) | 3:12 |
-| 139 | [Just A Man](https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Just A Man](https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A) | 2:38 |
+| 139 | [just a man](https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [just a man](https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A) | 2:38 |
 | 140 | [Better Left Unsaid](https://open.spotify.com/track/1aOuvJQySrFHUHomycrjbp) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Better Left Unsaid](https://open.spotify.com/album/7cFaXi8GTVKwi0kQ5MBb9E) | 3:34 |
 | 141 | [Fucking Closure](https://open.spotify.com/track/5knPRlD4seMirLTdCa2gmU) | [Julia Cumming](https://open.spotify.com/artist/7hIHeaaT8TkaHpFDT9QZfR) | [Julia](https://open.spotify.com/album/4YUTzEpDHp1ZO5nw6WXNy9) | 2:51 |
 | 142 | [Stain](https://open.spotify.com/track/6VDZf8IXQapl5FGw2nduU6) | [LEMONSUCKR](https://open.spotify.com/artist/3GOEpVQKFuVvZeFAyu8a8M) | [Stain](https://open.spotify.com/album/6HVBzBJLeI9yDFf0IprO85) | 3:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Boundaries are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,646,859 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,646,986 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 64 | [Die In Your Arms](https://open.spotify.com/track/7lgbZBmlIyDcB0IIJlePly) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Die In Your Arms](https://open.spotify.com/album/4dzB5ZGbdrxHT8Cis1QyjF) | 2:56 |
 | 65 | [Roses & Rotting Corpses](https://open.spotify.com/track/5rnyv9rngYQjobMUExlExu) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Roses & Rotting Corpses](https://open.spotify.com/album/3YpRnWz4P3UibHGxzesHK9) | 3:26 |
 | 66 | [Doom in Bloom](https://open.spotify.com/track/2VBZe3z0ZV0IWYYqbTiZ4Y) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Doom in Bloom](https://open.spotify.com/album/6rACINI8jqJ82X1AjuqCmN) | 3:17 |
-| 67 | [The Beautiful Writing](https://open.spotify.com/track/5Fqz3OGvT0M2uWGiJ0VSfC) | [Balmora](https://open.spotify.com/artist/4thpVPtc68xxR1kilVSPPN), [ I Promised The World](https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk) | [These Graven Halls](https://open.spotify.com/album/6BFhtgNwWNxLSpkxIRnRwC) | 4:27 |
+| 67 | [The Beautiful Writing](https://open.spotify.com/track/5Fqz3OGvT0M2uWGiJ0VSfC) | [Balmora](https://open.spotify.com/artist/4thpVPtc68xxR1kilVSPPN) | [These Graven Halls](https://open.spotify.com/album/6BFhtgNwWNxLSpkxIRnRwC) | 4:27 |
 | 68 | [The Kids Will Kill Us](https://open.spotify.com/track/1n2RqVGWTYRbCazGkolPGI) | [Witch Club Satan](https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy) | [The Kids Will Kill Us](https://open.spotify.com/album/370Z1fMk9bl9mw55DSe51k) | 3:45 |
 | 69 | [1HP](https://open.spotify.com/track/3YljlwPWa7J7kxl1gm2NQL) | [Spitting Glass](https://open.spotify.com/artist/0CXwaPUVaNtZyDoulC6cId) | [1HP](https://open.spotify.com/album/7AKtpCKYOKXtchiVnthCmg) | 2:48 |
 | 70 | [Make Me Feel \(with elijah & Downswing\)](https://open.spotify.com/track/5uqHCGJ1f6pPJh3QIjnTvQ) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0), [elijah](https://open.spotify.com/artist/2khsUR01VIAut0HXZUh5Gy), [Downswing](https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo) | [Make Me Feel \(with elijah & Downswing\)](https://open.spotify.com/album/75wUpktijRtL91qevIANKt) | 2:44 |

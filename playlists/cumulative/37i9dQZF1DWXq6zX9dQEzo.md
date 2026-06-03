@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-952 songs - 1 day 21 hr 7 min
+953 songs - 1 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,6 +682,7 @@
 | [Reality Checks](https://open.spotify.com/track/0hgTeA5UfYmCzhf7z1uFlz) | [Dru Bex](https://open.spotify.com/artist/11hR4oPRwSDzaUMTPzYuoe) | [Reality Checks](https://open.spotify.com/album/2HhfhRKQym6KfjQdQAZ4Wo) | 3:10 | 2022-07-17 | 2023-12-16 |
 | [REALLY BOUT IT](https://open.spotify.com/track/79Xk7Vp6vCoQ6V4gSyQ00Q) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [REALLY BOUT IT](https://open.spotify.com/album/1tgz161y4LknU2PbGgO0kB) | 2:45 | 2025-05-09 | 2026-03-30 |
 | [RECOGNIZE](https://open.spotify.com/track/6onsgnoCfzkrqxuN3wyLek) | [Kham](https://open.spotify.com/artist/5G8KfxzfIdxP6dnA3Hl1De) | [PROBLEMATIC](https://open.spotify.com/album/3I7AuClMij4p9RlODiOvyc) | 2:07 | 2022-02-04 | 2023-12-16 |
+| [RED FERRARIs](https://open.spotify.com/track/5geayB4WKwHJ6Erzj8kHpP) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [NS2](https://open.spotify.com/album/3aYVYgY7CO0kDmK0ecZ423) | 2:13 | 2026-05-29 |  |
 | [Red Light Green Light](https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [Tree](https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY) | 4:02 | 2022-07-17 | 2023-12-16 |
 | [RED TIDE](https://open.spotify.com/track/07zwRa3Q5JEt8iLIAG5Uds) | [Skema Boy](https://open.spotify.com/artist/1KTljUXZGt7HkAFFEnDBn1) | [RED TIDE](https://open.spotify.com/album/36kfOq49DKMlM47B8uwsfb) | 2:58 | 2025-01-14 | 2025-02-08 |
 | [Reddit](https://open.spotify.com/track/2WN53cOBR4iZicCuocfbDr) | [Larell](https://open.spotify.com/artist/46GtWnG0MVdRyU86tvB2zw) | [Reddit](https://open.spotify.com/album/0e0ZslfuN8G7M2sm64s74E) | 1:24 | 2024-06-07 | 2025-02-08 |
@@ -759,7 +760,7 @@
 | [Stay](https://open.spotify.com/track/0bC2r4PRfRYuIBu2ZTQ3Vs) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Stay](https://open.spotify.com/album/2TskVz0QmXq4ueQYyW36GD) | 2:23 | 2025-06-09 | 2025-08-08 |
 | [Step Into the Light](https://open.spotify.com/track/0Rf66EMPXCwEcTDjL6qKQK) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [Step Into the Light](https://open.spotify.com/album/5k5aCR5aCmXpr1ehNRpOJf) | 2:33 | 2024-01-12 | 2024-02-03 |
 | [Stickin](https://open.spotify.com/track/7Bch9LNK8Ukbi6yKoMBV6W) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [Foolie Vision](https://open.spotify.com/artist/2nDlD7zB6lFms9wIabvCfd) | [Stickin](https://open.spotify.com/album/3U8Vj4e07qmOWWcs2O3uBX) | 1:51 | 2022-10-01 | 2022-12-02 |
-| [STILL 30 FOR 30](https://open.spotify.com/track/2BdoZ2JJPGKmBaECewlQ6q) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [STILL 30 FOR 30](https://open.spotify.com/album/1MGBcYBqeB26bvY5GPnmma) | 2:14 | 2025-03-07 |  |
+| [STILL 30 FOR 30](https://open.spotify.com/track/2BdoZ2JJPGKmBaECewlQ6q) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [STILL 30 FOR 30](https://open.spotify.com/album/1MGBcYBqeB26bvY5GPnmma) | 2:14 | 2025-03-07 | 2026-06-03 |
 | [STILL GOIN](https://open.spotify.com/track/3h1aNKATk3OfEWQdvB9X4i) | [Tommy Zuko](https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT) | [STILL GOIN](https://open.spotify.com/album/5ah6bfI4yfMugLJOcUNEsS) | 1:54 | 2025-06-09 |  |
 | [STILL GOING](https://open.spotify.com/track/5yDlFQ285jpfAS8uYQcQqq) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [STILL GOING](https://open.spotify.com/album/1cJRopWEWKI228hn0EutNZ) | 1:28 | 2022-04-30 | 2023-08-12 |
 | [Still Good](https://open.spotify.com/track/4h0CP7LUg6qk1vYY5LFMl0) | [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV), [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl) | [Still Good](https://open.spotify.com/album/0R3q4OmgWK4vy2jZJaBAeI) | 3:26 | 2025-04-04 | 2025-08-08 |

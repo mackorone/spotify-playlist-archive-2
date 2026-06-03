@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Evil Level Live, JUST LIZZY, Splitter Conspiracy and more",
+  "description": "With Evil Level Live, JUST LIZZY, LOR3L3I and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 204561,
       "name": "A Sudden Disappearance",
       "url": "https://open.spotify.com/track/2V15S9YcJAhT2xLkChvNn6"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-19",
+      "date_removed": null,
       "duration_ms": 212973,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5hoIcBep3hJYXPJDKcrQSL"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 71142,
       "name": "blackmarketplaylists intro",
       "url": "https://open.spotify.com/track/56EsNqCak6DHLMkCFWyaoL"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 196425,
       "name": "Bleach",
       "url": "https://open.spotify.com/track/1lH6zEMSZHul8Mbj5y4wtf"
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 211981,
       "name": "Castle of love II",
       "url": "https://open.spotify.com/track/5S7AVhwllnAQ3ZOgf7SnLn"
@@ -2746,7 +2746,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-30",
+      "date_removed": null,
       "duration_ms": 240797,
       "name": "Crimson claws",
       "url": "https://open.spotify.com/track/6qdVQrG1rQq0V3zP27utzf"
@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-11",
+      "date_removed": null,
       "duration_ms": 257806,
       "name": "Devine",
       "url": "https://open.spotify.com/track/1dyeriqJfJaBo8exe4rIrf"
@@ -3440,7 +3440,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -4136,7 +4136,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
@@ -4338,6 +4338,24 @@
       "duration_ms": 194253,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/7cr1llDHS6GZRpRowOIFPV"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/7ltbfCaH61KTDqzG6Hqs0h"
+      },
+      "artists": [
+        {
+          "name": "rayray",
+          "url": "https://open.spotify.com/artist/3LB1EOdePE8vAvMQ3pc7jY"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231467,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1EJGPH4JCKYjLzB2gPEFII"
     },
     {
       "album": {
@@ -4914,6 +4932,24 @@
       "duration_ms": 217944,
       "name": "Glass Figure",
       "url": "https://open.spotify.com/track/6h57HgSCAIRBjioZFu5IyA"
+    },
+    {
+      "album": {
+        "name": "glitter",
+        "url": "https://open.spotify.com/album/5dw4C0xd3Sqm0wkPoIQtrr"
+      },
+      "artists": [
+        {
+          "name": "Wolf Pentaghast",
+          "url": "https://open.spotify.com/artist/26NiFttrKqRCpnfd0xw73T"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191546,
+      "name": "glitter",
+      "url": "https://open.spotify.com/track/4l72POuSFVWo1qqsPV9llh"
     },
     {
       "album": {
@@ -5896,7 +5932,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 186826,
       "name": "I Need You (feat. Andrew McMahon) - 2026 Remaster",
       "url": "https://open.spotify.com/track/091cmGLHGVpRv1yf3KpRje"
@@ -5986,7 +6022,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 281500,
       "name": "I'm made for more",
       "url": "https://open.spotify.com/track/43qb7qNNuxjUq6Kq0APvcR"
@@ -6422,7 +6458,7 @@
       ],
       "date_added": "2026-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -6476,7 +6512,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 210633,
       "name": "Juniper",
       "url": "https://open.spotify.com/track/5e7N4B0qgt1ZHPbE33mBP2"
@@ -6588,7 +6624,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 216774,
       "name": "Keep The Light On",
       "url": "https://open.spotify.com/track/4PAMXOS9J5INQckpSZ8w4u"
@@ -6816,7 +6852,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-28",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Layers",
       "url": "https://open.spotify.com/track/2w68LiCEisB0exE4UxEer2"
@@ -6892,6 +6928,24 @@
       "duration_ms": 257741,
       "name": "Let Me Breathe",
       "url": "https://open.spotify.com/track/0q0MMaOaEXFwzemhLZWuCI"
+    },
+    {
+      "album": {
+        "name": "Everything According To Plan... PART-2",
+        "url": "https://open.spotify.com/album/2cVUL5ebo2D0syGGT7jUfF"
+      },
+      "artists": [
+        {
+          "name": "7 Seconds Later",
+          "url": "https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257741,
+      "name": "Let Me Breathe - Kissed With A Lie",
+      "url": "https://open.spotify.com/track/4BCy3ZARSbTdEVrwc9Ey4q"
     },
     {
       "album": {
@@ -6986,7 +7040,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 253020,
       "name": "Lich Tree",
       "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
@@ -8042,6 +8096,24 @@
       "duration_ms": 162721,
       "name": "My Love Is Loud",
       "url": "https://open.spotify.com/track/504yptHqsQbUgY1o4KeHX8"
+    },
+    {
+      "album": {
+        "name": "My Place",
+        "url": "https://open.spotify.com/album/482f8L91N15bXLlaO0BaR4"
+      },
+      "artists": [
+        {
+          "name": "Hy Brasil",
+          "url": "https://open.spotify.com/artist/7mfdmUo92m1AGSv4td1owU"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157920,
+      "name": "My Place",
+      "url": "https://open.spotify.com/track/3oNNrz0z6kECQHd5eDqSRa"
     },
     {
       "album": {
@@ -9256,7 +9328,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 284000,
       "name": "Rain, Rain, Pouring Down on Me",
       "url": "https://open.spotify.com/track/0ZnGPpru3QLqymsJSOAQgm"
@@ -9498,7 +9570,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 186549,
       "name": "Robey Ven",
       "url": "https://open.spotify.com/track/242Lof3nt3f8rFgauer135"
@@ -9794,7 +9866,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 169176,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6qN7Qb4ilAhYjMFVrHsjNY"
@@ -10112,7 +10184,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 254200,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4y4amdocGo2Qs523vf8EGs"
@@ -10538,6 +10610,24 @@
       "duration_ms": 325407,
       "name": "Snow",
       "url": "https://open.spotify.com/track/3990wQM7Bixk2UtfoEQlqL"
+    },
+    {
+      "album": {
+        "name": "Sparkle Tapes",
+        "url": "https://open.spotify.com/album/5AVp8OjzhqMtiLvWMZPt8E"
+      },
+      "artists": [
+        {
+          "name": "Future Magics",
+          "url": "https://open.spotify.com/artist/6jqVk32VBlFXQSP1rkELyd"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "So Clever",
+      "url": "https://open.spotify.com/track/7agGNbHhoU96Ih95l6eoKz"
     },
     {
       "album": {
@@ -11076,7 +11166,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 208793,
       "name": "Street",
       "url": "https://open.spotify.com/track/5oNPKMYx14cj8XqQPe6ahN"
@@ -11742,7 +11832,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 289093,
       "name": "The Dark of Light",
       "url": "https://open.spotify.com/track/505s5auBD7triJ8I36BI37"
@@ -14384,6 +14474,24 @@
       "duration_ms": 314181,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"
+    },
+    {
+      "album": {
+        "name": "\u0434\u0435\u043f\u0440\u0435\u0441\u0441\u0438\u043e\u043d\u0438\u0437\u043c",
+        "url": "https://open.spotify.com/album/3vxJiMfqi3GbQyomKW47jR"
+      },
+      "artists": [
+        {
+          "name": "\u043f\u043e\u043f\u044b\u0442\u043a\u0430 \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u044f",
+          "url": "https://open.spotify.com/artist/6LZqjXoGTO1WZWEmSMrI2O"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282052,
+      "name": "\u0431\u0443\u043c\u0430\u0436\u043d\u044b\u0435 \u0446\u0432\u0435\u0442\u044b",
+      "url": "https://open.spotify.com/track/7qX9NEgG40pSRHlt3Ozy7p"
     },
     {
       "album": {

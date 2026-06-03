@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132650,
+  "num_followers": 132657,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,22 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "Million Dollar Smile",
-        "url": "https://open.spotify.com/album/7v2aumxwZIVMH7bf26YGDq"
+        "name": "Latu on auki",
+        "url": "https://open.spotify.com/album/2H9xAV0YmV9ntB0vOFPItE"
       },
       "artists": [
         {
-          "name": "Etta",
-          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+          "name": "Kaija Koo",
+          "url": "https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq"
+        },
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Million Dollar Smile",
-      "url": "https://open.spotify.com/track/6kB0VQW17TAt7XddE7pkz5"
+      "duration_ms": 180000,
+      "name": "Latu on auki",
+      "url": "https://open.spotify.com/track/7jHgBQE13PuxsR6Afj7TuS"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -375,22 +379,18 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "Latu on auki",
-        "url": "https://open.spotify.com/album/2H9xAV0YmV9ntB0vOFPItE"
+        "name": "Million Dollar Smile",
+        "url": "https://open.spotify.com/album/7v2aumxwZIVMH7bf26YGDq"
       },
       "artists": [
         {
-          "name": "Kaija Koo",
-          "url": "https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq"
-        },
-        {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Latu on auki",
-      "url": "https://open.spotify.com/track/7jHgBQE13PuxsR6Afj7TuS"
+      "duration_ms": 174000,
+      "name": "Million Dollar Smile",
+      "url": "https://open.spotify.com/track/6kB0VQW17TAt7XddE7pkz5"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
+        "name": "Sin\u00e4 ja se poitsu",
+        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+        }
+      ],
+      "duration_ms": 183957,
+      "name": "Sin\u00e4 ja se poitsu",
+      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
         "name": "Vitun Inee",
         "url": "https://open.spotify.com/album/703oNklnvTfpVoDjGeGCkn"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 178047,
       "name": "Vitun Inee",
       "url": "https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
-        "name": "Sin\u00e4 ja se poitsu",
-        "url": "https://open.spotify.com/album/1ULaUYUGwW5J33Y14Re2wg"
-      },
-      "artists": [
-        {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
-        }
-      ],
-      "duration_ms": 183957,
-      "name": "Sin\u00e4 ja se poitsu",
-      "url": "https://open.spotify.com/track/2LZBfB6j5FvYVhErj7e2Mh"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "Kun tulee pimee",
-        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
-      },
-      "artists": [
-        {
-          "name": "KAUKUA",
-          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
-        }
-      ],
-      "duration_ms": 165269,
-      "name": "Kun tulee pimee",
-      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
         "name": "Pokaali",
         "url": "https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 187520,
       "name": "Pokaali",
       "url": "https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
+        "name": "Kun tulee pimee",
+        "url": "https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt"
+      },
+      "artists": [
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "duration_ms": 165269,
+      "name": "Kun tulee pimee",
+      "url": "https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io"
     },
     {
       "added_at": "2026-05-28 21:00:23",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
+        "name": "HYPE",
+        "url": "https://open.spotify.com/album/0rekevcYYxTEEgoAxYlNrd"
+      },
+      "artists": [
+        {
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+        },
+        {
+          "name": "Mashd N Kutcher",
+          "url": "https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "HYPE",
+      "url": "https://open.spotify.com/track/6k7QsqmyWc9Y2G2VXB6fTw"
+    },
+    {
+      "added_at": "2026-05-28 21:00:23",
+      "album": {
         "name": "Cokis ja Mentos",
         "url": "https://open.spotify.com/album/6UhIEHLrVAqIeTHiGBwqrQ"
       },
@@ -1235,34 +1255,18 @@
     {
       "added_at": "2026-05-28 21:00:23",
       "album": {
-        "name": "Running Through My Head",
-        "url": "https://open.spotify.com/album/1Tap373TJJ0bN1YzMohbXj"
+        "name": "Hullu nainen",
+        "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
       },
       "artists": [
         {
-          "name": "Robin Packalen",
-          "url": "https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO"
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
         }
       ],
-      "duration_ms": 159969,
-      "name": "Running Through My Head",
-      "url": "https://open.spotify.com/track/1o88DMOCUYqQC2AQM824gV"
-    },
-    {
-      "added_at": "2026-05-28 21:00:23",
-      "album": {
-        "name": "\u00c4l\u00e4 sano sua rumaksi",
-        "url": "https://open.spotify.com/album/6Dq6bC1xg4O3awxY3xAKJc"
-      },
-      "artists": [
-        {
-          "name": "ELLIMEI",
-          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
-        }
-      ],
-      "duration_ms": 153135,
-      "name": "\u00c4l\u00e4 sano sua rumaksi",
-      "url": "https://open.spotify.com/track/6pV8EIckMcd64Fwz0bsu6b"
+      "duration_ms": 177360,
+      "name": "Hullu nainen",
+      "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
     }
   ],
   "unique_name": "#vainsuomihitit",

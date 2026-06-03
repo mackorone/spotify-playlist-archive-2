@@ -5739,6 +5739,28 @@
     },
     {
       "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/16MLS4M1deA7XetqvCfZ3q"
+      },
+      "artists": [
+        {
+          "name": "zrina",
+          "url": "https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3"
+        },
+        {
+          "name": "jfm",
+          "url": "https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276035,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3tmKJm7GurhO7gYpQHj2vJ"
+    },
+    {
+      "album": {
         "name": "Carosello",
         "url": "https://open.spotify.com/album/0nlIJ1YO4UbYIYl5mNe1gp"
       },
@@ -22306,6 +22328,24 @@
       "duration_ms": 211687,
       "name": "Love - Acoustic",
       "url": "https://open.spotify.com/track/2FTY7R6ej2pDK6Zn3IIoLx"
+    },
+    {
+      "album": {
+        "name": "Love Actually",
+        "url": "https://open.spotify.com/album/6aCUSrkAkViqQ3TWL23b7e"
+      },
+      "artists": [
+        {
+          "name": "Mare E Sheehan",
+          "url": "https://open.spotify.com/artist/7AoXGlS8YP1Kf2HtjAJmAW"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122538,
+      "name": "Love Actually",
+      "url": "https://open.spotify.com/track/4HGUgYPtXInlqTn3WMZbXL"
     },
     {
       "album": {
@@ -38896,6 +38936,28 @@
       "duration_ms": 219605,
       "name": "Trattore elettrico",
       "url": "https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a"
+    },
+    {
+      "album": {
+        "name": "Travelers Souls",
+        "url": "https://open.spotify.com/album/7mOchKktwmLXR7onK2mhv5"
+      },
+      "artists": [
+        {
+          "name": "Dub Idren",
+          "url": "https://open.spotify.com/artist/2JK5x7zdkSrijrqj5mHWed"
+        },
+        {
+          "name": "RootsyBeats",
+          "url": "https://open.spotify.com/artist/4dQf5YSC5GRqId5gxkx9RL"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Travelers Souls",
+      "url": "https://open.spotify.com/track/1rgXfcC6g7AUK4MgdUJwSV"
     },
     {
       "album": {

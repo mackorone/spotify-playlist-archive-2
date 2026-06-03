@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 842 likes - 137 songs - 15 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 842 likes - 138 songs - 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,9 +141,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 131 | [Redeemer \- Live](https://open.spotify.com/track/0pEevckVxkDL3m5gIQ2GJm) | [AMEN Music](https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion) | [In The Light \(Live\)](https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl) | 6:45 |
 | 132 | [Gratitude / Great are you Lord \- Acoustic Version](https://open.spotify.com/track/2bHImes7aOp7CffOyONwgt) | [Chris Boanca](https://open.spotify.com/artist/3pfHfCgK6aaRcvvUWd5CTV), [Philip Steele](https://open.spotify.com/artist/7aRu5nCQ1nEwuMHMfUzOfx) | [Gratitude / Great are you Lord \(Acoustic Version\)](https://open.spotify.com/album/47jNGrqApx1ygBLKmzcJGQ) | 5:55 |
 | 133 | [Holy Ghost \- Live](https://open.spotify.com/track/5PGQZRmJjrgyhpELOzvMx5) | [AMEN Music](https://open.spotify.com/artist/3Bf9WsVILDpfxU0VDj1CHK), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [In The Light \(Live\)](https://open.spotify.com/album/2hJ0tPjPJuKUAncH63dHVl) | 15:52 |
-| 134 | [Most Beautiful](https://open.spotify.com/track/0doDyKeTxd20ks4M9K9yxD) | [Medi Kay](https://open.spotify.com/artist/6Y2lu0327wke3FYutwXZXG) | [Here On Earth](https://open.spotify.com/album/0Njmye5mpDaoGnN5Y4kmb6) | 7:38 |
-| 135 | [Same God / Gratitude](https://open.spotify.com/track/7EnFudQtYBWoKf8gsROiuM) | [Kayla Berry](https://open.spotify.com/artist/5wfxEJWKJuT5rUc0o32Q9o) | [Same God / Gratitude](https://open.spotify.com/album/6btX53WGNAsdEw7xierJth) | 5:03 |
-| 136 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
-| 137 | [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 |
+| 134 | [Abide / Gratitude](https://open.spotify.com/track/70V2YtCQJJXb10y0EkY34p) | [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Integrity Worship](https://open.spotify.com/artist/697Av8ZId2eyKtaHSEg4ZM) | [Abide / Gratitude](https://open.spotify.com/album/2BcIOlaTdYVRcJlcILayJV) | 6:20 |
+| 135 | [Most Beautiful](https://open.spotify.com/track/0doDyKeTxd20ks4M9K9yxD) | [Medi Kay](https://open.spotify.com/artist/6Y2lu0327wke3FYutwXZXG) | [Here On Earth](https://open.spotify.com/album/0Njmye5mpDaoGnN5Y4kmb6) | 7:38 |
+| 136 | [Same God / Gratitude](https://open.spotify.com/track/7EnFudQtYBWoKf8gsROiuM) | [Kayla Berry](https://open.spotify.com/artist/5wfxEJWKJuT5rUc0o32Q9o) | [Same God / Gratitude](https://open.spotify.com/album/6btX53WGNAsdEw7xierJth) | 5:03 |
+| 137 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
+| 138 | [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 |
 
-Snapshot ID: `AcTFugAAAACoOmrwIhp6Inyl0eQ5NFbX`
+Snapshot ID: `AcTLWgAAAABFDIrCJfrrZdF9Q8T5m2sd`

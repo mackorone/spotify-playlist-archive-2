@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,359 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,335 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 48 | [READY TO BLOW](https://open.spotify.com/track/6t5riyc8EaFD0FLMi8naQp) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [READY TO BLOW](https://open.spotify.com/album/7IUJIJFFdbb3Eue0m2iCGI) | 2:21 |
 | 49 | [New York Confident](https://open.spotify.com/track/5cILqtT5F6B35u7sawG9FR) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [New York Confident](https://open.spotify.com/album/4oDktJNg53nfidIcdeU1k2) | 2:27 |
 | 50 | [Unknown](https://open.spotify.com/track/3Cx5IpdNPOwWI4NLhxqu1a) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Into the Unknown](https://open.spotify.com/album/4699kse7rNREr17U1DCubS) | 2:57 |
-| 51 | [Tied Up](https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Tied Up](https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh) | 2:56 |
+| 51 | [Tied Up](https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Tied Up](https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh) | 2:56 |
 | 52 | [Fairly Happy](https://open.spotify.com/track/5Mi65ftjtDqILFWMC2DUZD) | [Roe Byrne](https://open.spotify.com/artist/6LjXRw1jZBtm5zCuorBJGg) | [Fairly Happy](https://open.spotify.com/album/5E0Jgi8GX0rAb935jkJ7BS) | 2:26 |
 | 53 | [End of an Era](https://open.spotify.com/track/4tif5uslc2gjyZ6LCOKxNV) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [End of an Era](https://open.spotify.com/album/0FSyYdz0o2YFjPwFpdk5iO) | 3:38 |
 | 54 | [I’m your girl right?](https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I’m your girl right?](https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX) | 2:49 |

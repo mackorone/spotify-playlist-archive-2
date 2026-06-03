@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60186,
+  "num_followers": 60191,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABBzHPxFqi5jsvCV3lqDwWOQcfxjQij",
+  "snapshot_id": "AABB1iLsjpCZht43c6N/9ArPwTv61NHf",
   "tracks": [
     {
       "added_at": "2026-05-31 19:54:20",
@@ -23,6 +23,38 @@
       "duration_ms": 195053,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/085cITinxL6mui7VTv5Plw"
+    },
+    {
+      "added_at": "2026-05-31 19:54:20",
+      "album": {
+        "name": "we'll laugh about it later",
+        "url": "https://open.spotify.com/album/4nm06DCmHKbSwAJXdV7SOW"
+      },
+      "artists": [
+        {
+          "name": "Credit Electric",
+          "url": "https://open.spotify.com/artist/5POatvLAZTsSIV7QYLMDXU"
+        }
+      ],
+      "duration_ms": 344897,
+      "name": "we'll laugh about it later",
+      "url": "https://open.spotify.com/track/0DRbW5FLzApPCBg2s0IHiC"
+    },
+    {
+      "added_at": "2026-05-31 19:54:20",
+      "album": {
+        "name": "The End of the World",
+        "url": "https://open.spotify.com/album/6hOg0FfoEFwvrqPvrNACv5"
+      },
+      "artists": [
+        {
+          "name": "Tom Brown",
+          "url": "https://open.spotify.com/artist/6B4IMz7MbZMaDYGCQZjfn6"
+        }
+      ],
+      "duration_ms": 182019,
+      "name": "The End of the World",
+      "url": "https://open.spotify.com/track/102z3GKO7ODsU89XKujNL0"
     },
     {
       "added_at": "2026-05-31 19:54:20",
@@ -1473,7 +1505,7 @@
         }
       ],
       "duration_ms": 172825,
-      "name": "Queen Of Midnight",
+      "name": "QUEEN OF MIDNIGHT",
       "url": "https://open.spotify.com/track/2oIOK2alqe2Oe51Q8wWCoB"
     },
     {
@@ -2047,6 +2079,22 @@
     {
       "added_at": "2026-05-31 19:54:20",
       "album": {
+        "name": "All you young ppl are so old",
+        "url": "https://open.spotify.com/album/3z1p431qbVcHpVacIymprM"
+      },
+      "artists": [
+        {
+          "name": "Wedding",
+          "url": "https://open.spotify.com/artist/5Y4uYEBbkrwtlI3K4CLqBB"
+        }
+      ],
+      "duration_ms": 155187,
+      "name": "All you young ppl are so old",
+      "url": "https://open.spotify.com/track/2rcTfJKCLv37iL4ICQPrZp"
+    },
+    {
+      "added_at": "2026-05-31 19:54:20",
+      "album": {
         "name": "posted in a white tee a lil feisty",
         "url": "https://open.spotify.com/album/72zmLI62pL6OPXUSb1SUSo"
       },
@@ -2083,18 +2131,26 @@
     {
       "added_at": "2026-05-31 19:54:20",
       "album": {
-        "name": "All you young ppl are so old",
-        "url": "https://open.spotify.com/album/3z1p431qbVcHpVacIymprM"
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/7oDZGUJAp8lAz6vGa2nWJp"
       },
       "artists": [
         {
-          "name": "Wedding",
-          "url": "https://open.spotify.com/artist/5Y4uYEBbkrwtlI3K4CLqBB"
+          "name": "villagerrr",
+          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
+        },
+        {
+          "name": "h. pruz",
+          "url": "https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN"
+        },
+        {
+          "name": "skirts",
+          "url": "https://open.spotify.com/artist/41KJC6FjOhZR0wut8TO1Nl"
         }
       ],
-      "duration_ms": 155187,
-      "name": "All you young ppl are so old",
-      "url": "https://open.spotify.com/track/2rcTfJKCLv37iL4ICQPrZp"
+      "duration_ms": 239333,
+      "name": "Indiana",
+      "url": "https://open.spotify.com/track/1BsTpPR4mdrQUN8P2Gy4kj"
     },
     {
       "added_at": "2026-05-31 19:54:20",
@@ -2199,30 +2255,6 @@
     {
       "added_at": "2026-05-31 19:54:20",
       "album": {
-        "name": "Carousel",
-        "url": "https://open.spotify.com/album/7oDZGUJAp8lAz6vGa2nWJp"
-      },
-      "artists": [
-        {
-          "name": "villagerrr",
-          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
-        },
-        {
-          "name": "h. pruz",
-          "url": "https://open.spotify.com/artist/3WWEKLW1zn4gtBSljQ8HQN"
-        },
-        {
-          "name": "skirts",
-          "url": "https://open.spotify.com/artist/41KJC6FjOhZR0wut8TO1Nl"
-        }
-      ],
-      "duration_ms": 239333,
-      "name": "Indiana",
-      "url": "https://open.spotify.com/track/1BsTpPR4mdrQUN8P2Gy4kj"
-    },
-    {
-      "added_at": "2026-05-31 19:54:20",
-      "album": {
         "name": "Unexpected Violence",
         "url": "https://open.spotify.com/album/218ocNVkMKsrahZGNHP5sJ"
       },
@@ -2267,22 +2299,6 @@
       "duration_ms": 221187,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/1g6IUwsl3wB6S2IHZ5wFbp"
-    },
-    {
-      "added_at": "2026-05-31 19:54:20",
-      "album": {
-        "name": "we'll laugh about it later",
-        "url": "https://open.spotify.com/album/4nm06DCmHKbSwAJXdV7SOW"
-      },
-      "artists": [
-        {
-          "name": "Credit Electric",
-          "url": "https://open.spotify.com/artist/5POatvLAZTsSIV7QYLMDXU"
-        }
-      ],
-      "duration_ms": 344897,
-      "name": "we'll laugh about it later",
-      "url": "https://open.spotify.com/track/0DRbW5FLzApPCBg2s0IHiC"
     },
     {
       "added_at": "2026-05-31 19:54:20",
@@ -2887,26 +2903,6 @@
       "duration_ms": 271228,
       "name": "forgive me, father",
       "url": "https://open.spotify.com/track/6QzQWEqCGS3yg9S9c6mEsk"
-    },
-    {
-      "added_at": "2026-05-31 19:54:20",
-      "album": {
-        "name": "Beautiful ending (Giant Claw Remix)",
-        "url": "https://open.spotify.com/album/5jNghdRggSV6Z8OCpT44XP"
-      },
-      "artists": [
-        {
-          "name": "caroline",
-          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
-        },
-        {
-          "name": "Giant Claw",
-          "url": "https://open.spotify.com/artist/0sqfDFd4rYzLfEKpIvJTUc"
-        }
-      ],
-      "duration_ms": 242474,
-      "name": "Beautiful ending - Giant Claw Remix",
-      "url": "https://open.spotify.com/track/0CL8rJtrUSpPLkOkDisuOt"
     },
     {
       "added_at": "2026-05-31 19:54:20",
@@ -3591,26 +3587,6 @@
     {
       "added_at": "2026-05-31 19:54:20",
       "album": {
-        "name": "Library Copy Do Not Remove",
-        "url": "https://open.spotify.com/album/1iIhZldJ0h4cjesewt8Hir"
-      },
-      "artists": [
-        {
-          "name": "Discovery Zone",
-          "url": "https://open.spotify.com/artist/4Q3A7ukbHFR5xThu9hZDZt"
-        },
-        {
-          "name": "World Brain",
-          "url": "https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k"
-        }
-      ],
-      "duration_ms": 419746,
-      "name": "Castles in the Moon",
-      "url": "https://open.spotify.com/track/4z1doFJLo8ffJTVG2czdd8"
-    },
-    {
-      "added_at": "2026-05-31 19:54:20",
-      "album": {
         "name": "MASK",
         "url": "https://open.spotify.com/album/0KmtJbi6qhD9HbHWm4S6gU"
       },
@@ -3983,22 +3959,6 @@
     {
       "added_at": "2026-05-31 19:54:20",
       "album": {
-        "name": "DDD",
-        "url": "https://open.spotify.com/album/30hcoww6Liz3fGi3pJc5Ac"
-      },
-      "artists": [
-        {
-          "name": "Merry Brigade",
-          "url": "https://open.spotify.com/artist/5Y7zQYCLrZYWghlmSb6fRU"
-        }
-      ],
-      "duration_ms": 158837,
-      "name": "Neet",
-      "url": "https://open.spotify.com/track/0zKNLFwWloaFuPFy8UGKvD"
-    },
-    {
-      "added_at": "2026-05-31 19:54:20",
-      "album": {
         "name": "Uh",
         "url": "https://open.spotify.com/album/7yrlju1u46YVOJZ4C7qxuk"
       },
@@ -4287,22 +4247,6 @@
     {
       "added_at": "2026-05-31 19:54:20",
       "album": {
-        "name": "The End of the World",
-        "url": "https://open.spotify.com/album/6hOg0FfoEFwvrqPvrNACv5"
-      },
-      "artists": [
-        {
-          "name": "Tom Brown",
-          "url": "https://open.spotify.com/artist/6B4IMz7MbZMaDYGCQZjfn6"
-        }
-      ],
-      "duration_ms": 182019,
-      "name": "The End of the World",
-      "url": "https://open.spotify.com/track/102z3GKO7ODsU89XKujNL0"
-    },
-    {
-      "added_at": "2026-05-31 19:54:20",
-      "album": {
         "name": "Rupert Angeleyes & Joey Joey Michaels",
         "url": "https://open.spotify.com/album/74rHuJgGIQHcB2wKHjZpIC"
       },
@@ -4423,6 +4367,22 @@
     {
       "added_at": "2026-05-31 19:54:20",
       "album": {
+        "name": "DDD",
+        "url": "https://open.spotify.com/album/30hcoww6Liz3fGi3pJc5Ac"
+      },
+      "artists": [
+        {
+          "name": "Merry Brigade",
+          "url": "https://open.spotify.com/artist/5Y7zQYCLrZYWghlmSb6fRU"
+        }
+      ],
+      "duration_ms": 158837,
+      "name": "Neet",
+      "url": "https://open.spotify.com/track/0zKNLFwWloaFuPFy8UGKvD"
+    },
+    {
+      "added_at": "2026-05-31 19:54:20",
+      "album": {
         "name": "Little Thief",
         "url": "https://open.spotify.com/album/5dsb9wYRnuEueI5LuIwxon"
       },
@@ -4435,6 +4395,46 @@
       "duration_ms": 226231,
       "name": "Little Thief",
       "url": "https://open.spotify.com/track/1peQleR2C4afH2xzGdauOP"
+    },
+    {
+      "added_at": "2026-05-31 19:54:20",
+      "album": {
+        "name": "Library Copy Do Not Remove",
+        "url": "https://open.spotify.com/album/1iIhZldJ0h4cjesewt8Hir"
+      },
+      "artists": [
+        {
+          "name": "Discovery Zone",
+          "url": "https://open.spotify.com/artist/4Q3A7ukbHFR5xThu9hZDZt"
+        },
+        {
+          "name": "World Brain",
+          "url": "https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k"
+        }
+      ],
+      "duration_ms": 419746,
+      "name": "Castles in the Moon",
+      "url": "https://open.spotify.com/track/4z1doFJLo8ffJTVG2czdd8"
+    },
+    {
+      "added_at": "2026-05-31 19:54:20",
+      "album": {
+        "name": "Beautiful ending (Giant Claw Remix)",
+        "url": "https://open.spotify.com/album/5jNghdRggSV6Z8OCpT44XP"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        },
+        {
+          "name": "Giant Claw",
+          "url": "https://open.spotify.com/artist/0sqfDFd4rYzLfEKpIvJTUc"
+        }
+      ],
+      "duration_ms": 242474,
+      "name": "Beautiful ending - Giant Claw Remix",
+      "url": "https://open.spotify.com/track/0CL8rJtrUSpPLkOkDisuOt"
     },
     {
       "added_at": "2026-05-23 12:49:59",

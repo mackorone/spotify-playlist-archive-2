@@ -633,6 +633,24 @@
     },
     {
       "album": {
+        "name": "ARASHI NO.1 (ICHIGOU) -\u5d50\u306f\u5d50\u3092\u547c\u3076-",
+        "url": "https://open.spotify.com/album/1QfR1I1Elch0nF3D24xlHi"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267069,
+      "name": "A\u30fbRA\u30fbSHI",
+      "url": "https://open.spotify.com/track/1kdGYCHCff09E2FASM5IVY"
+    },
+    {
+      "album": {
         "name": "Arashi No.1 (Ichigou) - Arashi Wa Arashi O Yobu-",
         "url": "https://open.spotify.com/album/3ew3uL7WKZH0CGwhcf0ZdH"
       },
@@ -644,7 +662,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 267069,
       "name": "A\u30fbRA\u30fbSHI",
       "url": "https://open.spotify.com/track/1wQFwOgGGOct9tmdMwDSXo"
@@ -716,7 +734,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 205333,
       "name": "Bakuretsu Aishiteru",
       "url": "https://open.spotify.com/track/73WjupQhQmQUOgCl7dXpvN"
@@ -774,6 +792,24 @@
       "duration_ms": 155400,
       "name": "BE:FIRST ALL DAY",
       "url": "https://open.spotify.com/track/3C7208lbsu1qFo5oNfYG2I"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/449HFB85u7itFgHxsQzM5J"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284285,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2vXuVpGXqIXF6KB2jeWhXI"
     },
     {
       "album": {
@@ -2822,10 +2858,28 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 294290,
       "name": "Guts!",
       "url": "https://open.spotify.com/track/5PbKZZbtQhmRn6RmL7SB9V"
+    },
+    {
+      "album": {
+        "name": "THE DIGITALIAN",
+        "url": "https://open.spotify.com/album/2oKYUwoNoOnyK18h7pkjGG"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294290,
+      "name": "GUTS\uff01",
+      "url": "https://open.spotify.com/track/08yKzlwawi3kfNFXD3kvIb"
     },
     {
       "album": {
@@ -2930,10 +2984,28 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 258250,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/3MiKEHatYtQrE0QSCdVRF0"
+    },
+    {
+      "album": {
+        "name": "Dream\"A\"live",
+        "url": "https://open.spotify.com/album/4YKOpfYbcshIEHfxHZm2ta"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258250,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/5p2NSsBiaKK1CJwM7Rc1Yp"
     },
     {
       "album": {
@@ -3378,7 +3450,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 230453,
       "name": "IDOLPOWER",
       "url": "https://open.spotify.com/track/5LP9UNPCIkgHkh7x1AMHnw"
@@ -3688,7 +3760,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 252722,
       "name": "Kaiju",
       "url": "https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i"
@@ -3724,7 +3796,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 224804,
       "name": "Kaiju no Hanauta",
       "url": "https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0"
@@ -3760,7 +3832,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 287698,
       "name": "Kansya Kangeki Ame Arashi",
       "url": "https://open.spotify.com/track/6vQHnKzm4zS6u8emfOKSgy"
@@ -3858,7 +3930,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 283400,
       "name": "Kite",
       "url": "https://open.spotify.com/track/1BGxzKEro4oYDkERGF9tbz"
@@ -3912,7 +3984,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 241863,
       "name": "Kotoba Yori Taisetsu Na Mono",
       "url": "https://open.spotify.com/track/75PJFwLT1qHY0kAY6ajbSB"
@@ -4382,10 +4454,28 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 289845,
       "name": "Love So Sweet",
       "url": "https://open.spotify.com/track/0cdyZ4VMs900wQLHRIyy97"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7uUUazj2UJMhdOsXZrYO4v"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289845,
+      "name": "Love so sweet",
+      "url": "https://open.spotify.com/track/5I6JLJqnZICLvPebTj2YCm"
     },
     {
       "album": {
@@ -4476,6 +4566,24 @@
       "duration_ms": 270626,
       "name": "lulu.",
       "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
+    },
+    {
+      "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/5uwmEk6t3b8mqSqTzg5hEc"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280651,
+      "name": "L\u00f8ve Rainbow",
+      "url": "https://open.spotify.com/track/2U1H9RzJt14VvTKKBaXcvv"
     },
     {
       "album": {
@@ -4616,7 +4724,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 306626,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/5NqGfELjcdvRIUuhgZJ34W"
@@ -4858,10 +4966,28 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 267514,
       "name": "Monster",
       "url": "https://open.spotify.com/track/27n33ZSOCa1DuULvAbM5gE"
+    },
+    {
+      "album": {
+        "name": "\u50d5\u306e\u898b\u3066\u3044\u308b\u98a8\u666f",
+        "url": "https://open.spotify.com/album/20PYxk1j2CVfFTaO8tlAN5"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267514,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/2WZQFqvPvrGRelBgRHA73M"
     },
     {
       "album": {
@@ -6252,7 +6378,7 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 217120,
       "name": "SAD SONG",
       "url": "https://open.spotify.com/track/2zxK14g3shGRbgjUmKaj2x"
@@ -6526,7 +6652,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 316080,
       "name": "Setsugekka",
       "url": "https://open.spotify.com/track/6TPzSUjZ3Y0F2aKb0ZrNwv"
@@ -7252,7 +7378,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 212400,
       "name": "Sukisugite METSU!",
       "url": "https://open.spotify.com/track/4Re9Zb9uYlMtMiZy7HFFw5"
@@ -7774,10 +7900,46 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 241112,
       "name": "Troublemaker",
       "url": "https://open.spotify.com/track/2rKITPwV8G5zEYEMIIkmBe"
+    },
+    {
+      "album": {
+        "name": "\u50d5\u306e\u898b\u3066\u3044\u308b\u98a8\u666f",
+        "url": "https://open.spotify.com/album/20PYxk1j2CVfFTaO8tlAN5"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241112,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/786L5PPUvqcX7vBmxCbtzi"
+    },
+    {
+      "album": {
+        "name": "truth / \u98a8\u306e\u5411\u3053\u3046\u3078",
+        "url": "https://open.spotify.com/album/3Fz8VWTh7hywiJGD0Tcevr"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288909,
+      "name": "truth",
+      "url": "https://open.spotify.com/track/6TWPTr6DdDpjkf9wYkHz8v"
     },
     {
       "album": {
@@ -9020,7 +9182,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 230453,
       "name": "\u30a2\u30a4\u30c9\u30eb\u30d1\u30ef\u30fc",
       "url": "https://open.spotify.com/track/3NPdo1QXqBKIoQAX2xSCRJ"
@@ -9423,6 +9585,24 @@
     },
     {
       "album": {
+        "name": "This is \u5d50",
+        "url": "https://open.spotify.com/album/1aGPwO93UYZ3OMtnVcekI6"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283400,
+      "name": "\u30ab\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/5lo3L98nR2VpN2dM9UFJu0"
+    },
+    {
+      "album": {
         "name": "\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
         "url": "https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp"
       },
@@ -9726,6 +9906,24 @@
       "duration_ms": 202533,
       "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
       "url": "https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd"
+    },
+    {
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/7dy9CtobQY9RTQDeNvXmZ0"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262144,
+      "name": "\u30b5\u30af\u30e9\u54b2\u30b1",
+      "url": "https://open.spotify.com/track/1hpmLnKKouKUN8nVd33KOi"
     },
     {
       "album": {
@@ -10681,6 +10879,24 @@
     },
     {
       "album": {
+        "name": "\u50d5\u306e\u898b\u3066\u3044\u308b\u98a8\u666f",
+        "url": "https://open.spotify.com/album/20PYxk1j2CVfFTaO8tlAN5"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285189,
+      "name": "\u30de\u30a4\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/4aYPwMIS1f3rCuMkr1LBBd"
+    },
+    {
+      "album": {
         "name": "\u77ac\u9593\u7684\u30b7\u30c3\u30af\u30b9\u30bb\u30f3\u30b9",
         "url": "https://open.spotify.com/album/7fIqmc4GIaueaiAoDifAaA"
       },
@@ -11010,6 +11226,24 @@
       "duration_ms": 203040,
       "name": "\u30ed\u30df\u30b8\u30e5\u30ea",
       "url": "https://open.spotify.com/track/3TJPkm6FGLjAgtoF3SiVyK"
+    },
+    {
+      "album": {
+        "name": "Popcorn",
+        "url": "https://open.spotify.com/album/2NB4pkYkm3gK3gxXfZBNnI"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247295,
+      "name": "\u30ef\u30a4\u30eb\u30c9 \u30a2\u30c3\u30c8 \u30cf\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/7jc1VLTIiYgREGfCpUg4ot"
     },
     {
       "album": {
@@ -11918,7 +12152,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 212400,
       "name": "\u597d\u304d\u3059\u304e\u3066\u6ec5\uff01",
       "url": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli"
@@ -12062,7 +12296,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 252722,
       "name": "\u602a\u7363",
       "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
@@ -12080,7 +12314,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 224804,
       "name": "\u602a\u7363\u306e\u82b1\u5504",
       "url": "https://open.spotify.com/track/7dTW21YAJxnAOiUh7Rtu9S"
@@ -12134,7 +12368,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 253306,
       "name": "\u604b",
       "url": "https://open.spotify.com/track/7f9DsQEsIoeTwKxV6shsom"
@@ -12386,7 +12620,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 295600,
       "name": "\u611b\u3092\u3053\u3081\u3066\u82b1\u675f\u3092",
       "url": "https://open.spotify.com/track/7CmWXD3w1xOO53AAO4LRVQ"
@@ -12426,6 +12660,24 @@
       "duration_ms": 235240,
       "name": "\u611b\u3092\u4f1d\u3048\u305f\u3044\u3060\u3068\u304b",
       "url": "https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO"
+    },
+    {
+      "album": {
+        "name": "ARASHI NO.1 (ICHIGOU) -\u5d50\u306f\u5d50\u3092\u547c\u3076-",
+        "url": "https://open.spotify.com/album/1QfR1I1Elch0nF3D24xlHi"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287698,
+      "name": "\u611f\u8b1d\u30ab\u30f3\u30b2\u30ad\u96e8\u5d50",
+      "url": "https://open.spotify.com/track/3jakr03fYbfKkoF7cfxXgF"
     },
     {
       "album": {
@@ -12548,7 +12800,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 305000,
       "name": "\u65b0\u5b9d\u5cf6",
       "url": "https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj"
@@ -12876,6 +13128,24 @@
       "duration_ms": 201973,
       "name": "\u672c\u5f53\u306f\u306d\u3001",
       "url": "https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9"
+    },
+    {
+      "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/5uwmEk6t3b8mqSqTzg5hEc"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265278,
+      "name": "\u679c\u3066\u306a\u3044\u7a7a",
+      "url": "https://open.spotify.com/track/3FsTZ0Q7CfFiIIByInF08I"
     },
     {
       "album": {
@@ -13306,7 +13576,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-26",
+      "date_removed": null,
       "duration_ms": 205333,
       "name": "\u7206\u88c2\u611b\u3057\u3066\u308b",
       "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"
@@ -14009,6 +14279,24 @@
     },
     {
       "album": {
+        "name": "\u3044\u3056\u30c3\u3001Now",
+        "url": "https://open.spotify.com/album/5ny9KSk0NnzsMcCioiQTTz"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241863,
+      "name": "\u8a00\u8449\u3088\u308a\u5927\u5207\u306a\u3082\u306e",
+      "url": "https://open.spotify.com/track/3vRs4RMP0QvHD4No9WVpEO"
+    },
+    {
+      "album": {
         "name": "\u8d70\u308cSAKAMOTO - RUN SAKAMOTO RUN - Opening theme to SAKAMOTO DAYS",
         "url": "https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY"
       },
@@ -14096,6 +14384,24 @@
       "duration_ms": 230109,
       "name": "\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/4xk70Qur2QeRmWIzWPC63V"
+    },
+    {
+      "album": {
+        "name": "Popcorn",
+        "url": "https://open.spotify.com/album/2NB4pkYkm3gK3gxXfZBNnI"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276408,
+      "name": "\u8ff7\u5bae\u30e9\u30d6\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/68ljGknzCvgM7inrAiPlYi"
     },
     {
       "album": {
@@ -14254,7 +14560,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 197668,
       "name": "\u9769\u547d\u9053\u4e2d - On The Way",
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
@@ -14290,7 +14596,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 218680,
       "name": "\u98a8\u3068\u753a",
       "url": "https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8"

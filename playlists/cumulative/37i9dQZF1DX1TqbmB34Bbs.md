@@ -2,7 +2,7 @@
 
 ### [K\`illin'](https://open.spotify.com/playlist/37i9dQZF1DX1TqbmB34Bbs)
 
-> Illest hardcore K\-hip hop tracks are here\. \(Cover: BLASÉ\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
+> Illest hardcore K\-hip hop tracks are here\. \(Cover: Tray B\) \(공격력 상승 국내 힙합을 즐겨보세요!\)
 
 1,365 songs - 3 day 3 hr 8 min
 

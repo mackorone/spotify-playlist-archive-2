@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Jeninho, Kamisa 10",
-  "num_followers": 759582,
+  "num_followers": 759552,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
+        "name": "Obrigado Deus",
+        "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 159480,
+      "name": "C\u00f3pia Proibida",
+      "url": "https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u"
+    },
+    {
+      "added_at": "2026-05-15 13:29:11",
+      "album": {
         "name": "Resenha Na Laje",
         "url": "https://open.spotify.com/album/1PTAgk62jZpiOBoKzoGqqN"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 92585,
       "name": "Resenha Na Laje",
       "url": "https://open.spotify.com/track/3EJ78dvkCtcUmydRkulQMl"
-    },
-    {
-      "added_at": "2026-05-15 13:29:11",
-      "album": {
-        "name": "Obrigado Deus",
-        "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 159480,
-      "name": "C\u00f3pia Proibida",
-      "url": "https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u"
     },
     {
       "added_at": "2026-05-15 13:29:11",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
-        "name": "Deixa Alagar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/250tsNZsWLB0G8tEoid4UD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Revela\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Deixa Alagar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5pjMyFs9BW8jbrss4fbnU9"
-    },
-    {
-      "added_at": "2026-05-15 13:29:11",
-      "album": {
         "name": "Menina",
         "url": "https://open.spotify.com/album/1AhiTTbdGAym3xzYflP3fa"
       },
@@ -1083,22 +1067,18 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
-        "name": "Morena Jambo / Miau (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6qxBaMq4PFxTAeesCmUngN"
+        "name": "Deixa Alagar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/250tsNZsWLB0G8tEoid4UD"
       },
       "artists": [
         {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
         }
       ],
-      "duration_ms": 158410,
-      "name": "Morena Jambo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RJubPh66tvUWCBoJ1GwEY"
+      "duration_ms": 166413,
+      "name": "Deixa Alagar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5pjMyFs9BW8jbrss4fbnU9"
     },
     {
       "added_at": "2026-05-15 13:29:11",
@@ -1123,6 +1103,26 @@
       "duration_ms": 138591,
       "name": "CAVALINHO",
       "url": "https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw"
+    },
+    {
+      "added_at": "2026-05-15 13:29:11",
+      "album": {
+        "name": "Morena Jambo / Miau (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6qxBaMq4PFxTAeesCmUngN"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 158410,
+      "name": "Morena Jambo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RJubPh66tvUWCBoJ1GwEY"
     },
     {
       "added_at": "2026-05-15 13:29:11",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-05-15 13:29:11",
       "album": {
+        "name": "Maravilhosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0BRhouUT8lNTWrto5NPNSa"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "duration_ms": 115909,
+      "name": "Maravilhosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/0croxrAHihVLdCAG2OooQg"
+    },
+    {
+      "added_at": "2026-05-15 13:29:11",
+      "album": {
         "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
         "url": "https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 158769,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
-    },
-    {
-      "added_at": "2026-05-15 13:29:11",
-      "album": {
-        "name": "Maravilhosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0BRhouUT8lNTWrto5NPNSa"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        }
-      ],
-      "duration_ms": 115909,
-      "name": "Maravilhosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/0croxrAHihVLdCAG2OooQg"
     },
     {
       "added_at": "2026-05-15 13:29:11",
@@ -1492,7 +1492,7 @@
           "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
         },
         {
-          "name": "Mc Dricka",
+          "name": "MC Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],

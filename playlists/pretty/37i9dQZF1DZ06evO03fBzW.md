@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03fBzW.md) - [plain]
 
 > This is No Doubt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,468 likes - 47 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,477 likes - 47 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03fBzW.md) - [plain]
 | 25 | [Looking Hot](https://open.spotify.com/track/0DRvLkBUlGjEQUQKr1uP4M) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove](https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K) | 4:42 |
 | 26 | [Doormat](https://open.spotify.com/track/5R7HS6JmnK8WWjxHaAU4Q8) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 2:25 |
 | 27 | [By The Way](https://open.spotify.com/track/2kXyEd51KIhMtQzAFluO6K) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Beacon Street Collection](https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw) | 4:29 |
-| 28 | [Stand And Deliver](https://open.spotify.com/track/0aAE55Blfe3uxT75XxuWcP) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove \(Deluxe Version\)](https://open.spotify.com/album/4HHXoG3sYxxq9cBJMUlXYN) | 3:21 |
+| 28 | [Heaven](https://open.spotify.com/track/6BxVUeDCsDJdQnaC8F6CRY) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove \(Deluxe Version\)](https://open.spotify.com/album/4HHXoG3sYxxq9cBJMUlXYN) | 4:06 |
 | 29 | [One More Summer](https://open.spotify.com/track/6v5gVGbjz9ZqX3F5BAJBnS) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove](https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K) | 4:38 |
 | 30 | [Let's Get Back](https://open.spotify.com/track/7fF9yjIMasFI99ZbCA6r3x) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 4:11 |
 | 31 | [Stricken](https://open.spotify.com/track/4UHnLWatT8yZosFSzkPyhx) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Beacon Street Collection](https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw) | 4:06 |
-| 32 | [Heaven](https://open.spotify.com/track/6BxVUeDCsDJdQnaC8F6CRY) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove \(Deluxe Version\)](https://open.spotify.com/album/4HHXoG3sYxxq9cBJMUlXYN) | 4:06 |
+| 32 | [Stand And Deliver](https://open.spotify.com/track/0aAE55Blfe3uxT75XxuWcP) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove \(Deluxe Version\)](https://open.spotify.com/album/4HHXoG3sYxxq9cBJMUlXYN) | 3:21 |
 | 33 | [Easy](https://open.spotify.com/track/5vccqEnXkzZxHroGh1Am1R) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Push And Shove](https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K) | 5:10 |
 | 34 | [Sometimes](https://open.spotify.com/track/1Skmy7igdy3HorzoG6zaqL) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [No Doubt](https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF) | 4:29 |
 | 35 | [Open The Gate](https://open.spotify.com/track/61vxG9VYYLXPi9lYCmM6Qv) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Beacon Street Collection](https://open.spotify.com/album/05bHPJh4ONOeKzIGxqsEUw) | 3:41 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03fBzW.md) - [plain]
 | 46 | [Under Construction](https://open.spotify.com/track/5LRkVOL0t8G8hLcNhBcJ0t) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:12 |
 | 47 | [Sailin' On](https://open.spotify.com/track/3J3gmwEpUnCcTEBjxmMLeO) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 3:35 |
 
-Snapshot ID: `aht6AAAAAACFEshijEpwD0jpJQNRDtUK`
+Snapshot ID: `ahzLgAAAAABKnFKIYY9LB0gkD/n5B19f`

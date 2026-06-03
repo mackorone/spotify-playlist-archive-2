@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Iceage
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,164,456 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,164,396 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 50 | [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 |
 | 51 | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM) | 2:55 |
 | 52 | [drag](https://open.spotify.com/track/5VTEwE0fYvTNxwmIelS6XF) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [drag](https://open.spotify.com/album/2nTAc6jYcRAHf7C7gf0tFu) | 3:49 |
-| 53 | [Just A Man](https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Just A Man](https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A) | 2:38 |
+| 53 | [just a man](https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [just a man](https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A) | 2:38 |
 | 54 | [I Can't Die Like That](https://open.spotify.com/track/1sz8JVpCkXEHr9QtK8Xlvw) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [I Can't Die Like That](https://open.spotify.com/album/313t051eeaMazltopmnbhm) | 2:31 |
 | 55 | [How to Forget](https://open.spotify.com/track/0F1J3RNup9k1kbkezKy0Eb) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [ARCADE](https://open.spotify.com/album/5CIQzG3okTPTbvawZ1Pczs) | 4:01 |
 | 56 | [haven't seen you in a while](https://open.spotify.com/track/7JL6PmKndly4X7jODvh1d9) | [Bottle Rockets](https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK) | [haven't seen you in a while](https://open.spotify.com/album/3jliCbDDzo2YMZuamfbVgQ) | 3:13 |

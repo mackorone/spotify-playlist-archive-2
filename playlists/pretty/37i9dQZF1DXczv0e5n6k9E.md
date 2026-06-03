@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Marzi
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,218 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,211 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Euthini](https://open.spotify.com/track/4HltTeBPNfc6bE6Wn4Sjzp) | [12os Pithikos](https://open.spotify.com/artist/6YZmV2xFddssAVfrSu1sfI), [TAF LATHOS](https://open.spotify.com/artist/5sMTmnLClGnDFZm4c1yjCP), [Sumo Beats](https://open.spotify.com/artist/7v5615g0bsYcu6u2KEJIiF) | [Istories Apo Ti Zougla](https://open.spotify.com/album/7y2x2ZBaW5dhYDAdt2rgtu) | 3:24 |
-| 2 | [ONE OF A KIND](https://open.spotify.com/track/5aGg7kZXLHSnBqgCAvTvQ7) | [Marzi](https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq), [GMBeaTz](https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz) | [ALO PRONTO](https://open.spotify.com/album/5VAoxCvaROxgO1tXt5fULq) | 2:09 |
+| 2 | [ONE OF A KIND](https://open.spotify.com/track/5aGg7kZXLHSnBqgCAvTvQ7) | [Marzi](https://open.spotify.com/artist/442q0h0oxi0LlYU1eyqUYq), [GMBeaTz](https://open.spotify.com/artist/7d9PyOhLipsOeI1cov1cnz), [Gangshit](https://open.spotify.com/artist/7gw23yDfRgqbYQdV8O98vZ) | [ALO PRONTO](https://open.spotify.com/album/5VAoxCvaROxgO1tXt5fULq) | 2:09 |
 | 3 | [YING YANG](https://open.spotify.com/track/06yhYC3DfAAlnNc1jYj9td) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu) | [VRD](https://open.spotify.com/album/0rKLeeNlCA1fjZiqQS8f6y) | 2:35 |
 | 4 | [Xaderfaki](https://open.spotify.com/track/3eOP36Zkssv8hZOkn3G7Qe) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Xaderfaki](https://open.spotify.com/album/5KKaAKZ9zTKhdv35BMEFlA) | 2:10 |
 | 5 | [EGW](https://open.spotify.com/track/0ZbE3pJyd4bpZYo5kqVAqf) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Sanko](https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx), [Spize](https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm) | [EGW](https://open.spotify.com/album/2HUTGa6crjBp3EiSdJl2qj) | 2:02 |

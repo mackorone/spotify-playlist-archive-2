@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 117026,
+  "num_followers": 117036,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAABh2/bYEgpv60e39HYLKeV7",
+  "snapshot_id": "ahzLgAAAAABW1R7YNkKqywfS8DJ7GDKf",
   "tracks": [
     {
       "added_at": null,
@@ -138,11 +138,15 @@
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 411000,
-      "name": "Minha Morada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU"
+      "duration_ms": 224920,
+      "name": "Hey, Pai - Ao Vivo",
+      "url": "https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM"
     },
     {
       "added_at": null,
@@ -202,15 +206,11 @@
         {
           "name": "Isadora Pompeo",
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 224920,
-      "name": "Hey, Pai - Ao Vivo",
-      "url": "https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM"
+      "duration_ms": 411000,
+      "name": "Minha Morada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4ndpiHFCHD9vMT39QFzkXU"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Nothing. The essential tracks, all in one playlist.",
-  "num_followers": 2964,
+  "num_followers": 2963,
   "original_name": "This Is Nothing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAAAz1wIIvQym/eMgpn7+f/N6",
+  "snapshot_id": "ahzLgAAAAABolNkZSWj70ELps+rD0RB9",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 219653,
-      "name": "never come never morning",
-      "url": "https://open.spotify.com/track/1Ooknnmn9MT0ssFoeDDSY0"
+      "duration_ms": 227733,
+      "name": "toothless coal",
+      "url": "https://open.spotify.com/track/1ckFnaRw0D1yG4ZECJCyUM"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 227733,
-      "name": "toothless coal",
-      "url": "https://open.spotify.com/track/1ckFnaRw0D1yG4ZECJCyUM"
+      "duration_ms": 219653,
+      "name": "never come never morning",
+      "url": "https://open.spotify.com/track/1Ooknnmn9MT0ssFoeDDSY0"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guilty of Everything",
-        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 253664,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/7EzKrIF3T2XqUZfhnHw5CE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Great Dismal",
         "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 230437,
       "name": "Catch a Fade",
       "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 253664,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/7EzKrIF3T2XqUZfhnHw5CE"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 321480,
-      "name": "the rain don\u2019t care",
-      "url": "https://open.spotify.com/track/0OnRt1cgZ7l7SSiVy8mg3c"
+      "duration_ms": 269120,
+      "name": "cannibal world",
+      "url": "https://open.spotify.com/track/5cPAqyGwaEYCczpdBP2yF2"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+        "name": "Dance on the Blacktop",
+        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 255274,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/1TG4piLlwdCJOQWpsnpLWm"
+      "duration_ms": 237133,
+      "name": "Zero Day",
+      "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"
     },
     {
       "added_at": null,
@@ -324,15 +324,15 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 269120,
-      "name": "cannibal world",
-      "url": "https://open.spotify.com/track/5cPAqyGwaEYCczpdBP2yF2"
+      "duration_ms": 321480,
+      "name": "the rain don\u2019t care",
+      "url": "https://open.spotify.com/track/0OnRt1cgZ7l7SSiVy8mg3c"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dance on the Blacktop",
-        "url": "https://open.spotify.com/album/4LSHNiX2fM8eKv4TyosARZ"
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 237133,
-      "name": "Zero Day",
-      "url": "https://open.spotify.com/track/1dwC0I32wb53mXCECR4ZY7"
+      "duration_ms": 255274,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/1TG4piLlwdCJOQWpsnpLWm"
     },
     {
       "added_at": null,

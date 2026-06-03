@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Christian Nodal📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,752 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,771 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 31 | [Vives En Mí](https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Vives En Mí](https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ) | 3:30 |
 | 32 | [Se Me Va A Pasar](https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Coleccionando Corazones](https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd) | 3:16 |
 | 33 | [De Qué Manera Te Olvido](https://open.spotify.com/track/7r6np7igPeQkUB2UKYHW1U) | [Elias Medina](https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ) | [De Qué Manera Te Olvido](https://open.spotify.com/album/3ZdsQ9qRiqlzaIeRVdvC65) | 2:54 |
-| 34 | [Antes](https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux) | [Marco Torres](https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H) | [Antes](https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i) | 3:04 |
-| 35 | [El Hombre Que Yo Amo](https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [El Hombre Que Yo Amo](https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF) | 3:55 |
+| 34 | [El Hombre Que Yo Amo](https://open.spotify.com/track/1RNvvxEefsU6PmBJDVcT4I) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [El Hombre Que Yo Amo](https://open.spotify.com/album/4ArEpA1Bc0YsOi4Z9buUaF) | 3:55 |
+| 35 | [Antes](https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux) | [Marco Torres](https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H) | [Antes](https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i) | 3:04 |
 | 36 | [Culpa Mía](https://open.spotify.com/track/3g6rZd5OcdxsVgYbTDkJv2) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Culpa Mía+ El Mimoso Luis Antonio López](https://open.spotify.com/album/3WYhM3JvuFDIkGRVxP4HL3) | 3:10 |
 | 37 | [No soy para ti](https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi) | [Ivanna](https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4) | [No soy para ti](https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT) | 2:04 |
 | 38 | [100 Horas](https://open.spotify.com/track/4H6mswx8rA37krmNa0Q6JD) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Rolitas Para Mis Abuelos](https://open.spotify.com/album/5usns2sPfiQDKJBVWXLZ4U) | 3:50 |

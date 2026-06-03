@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from feeble little horse
 
-[Spotify](https://open.spotify.com/user/spotify) - 806,361 likes - 135 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 806,325 likes - 135 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 14 | [Going Shopping](https://open.spotify.com/track/4dUOhTTMy4ITIbNQKPKYFP) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Going Shopping](https://open.spotify.com/album/4XCAqkLSm0CozIX5dQRXPI) | 4:21 |
 | 15 | [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 |
 | 16 | [Under Your Eyelid](https://open.spotify.com/track/7H9QQ7rBSTEpJ7zoXwKb6E) | [Ray Bull](https://open.spotify.com/artist/3P4jnIuA9z5WsvkbsoqkTu) | [Please Stop Laughing](https://open.spotify.com/album/77aIM7XrwLNM2JykZc1UD1) | 3:41 |
-| 17 | [Just A Man](https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Just A Man](https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A) | 2:38 |
+| 17 | [just a man](https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [just a man](https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A) | 2:38 |
 | 18 | [Ache](https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Bloom](https://open.spotify.com/album/3QMZPDDxfm5EQxEGWOYgR7) | 4:25 |
 | 19 | [I Never See Her](https://open.spotify.com/track/4Mk8CHwAOp9VDoauZ5y7h8) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [I Never See Her](https://open.spotify.com/album/2p6wnhkj0a5SWmBnLFmCTe) | 3:04 |
 | 20 | [I'll Let You Finish](https://open.spotify.com/track/4rie7uUf3XRgxK92tAMjCt) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [I'll Let You Finish](https://open.spotify.com/album/7HOR1xOpbfjfOinjMqKv2L) | 3:54 |

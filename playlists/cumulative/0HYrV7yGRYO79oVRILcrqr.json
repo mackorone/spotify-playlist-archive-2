@@ -3853,6 +3853,24 @@
     },
     {
       "album": {
+        "name": "Hemen eta orain",
+        "url": "https://open.spotify.com/album/4FpcOFHpBINY7xLrUQbwAd"
+      },
+      "artists": [
+        {
+          "name": "Aingeru",
+          "url": "https://open.spotify.com/artist/0gkmeBApb5kPC4iV1pX9FL"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Hemen eta orain",
+      "url": "https://open.spotify.com/track/1bE21zBzAvyD6jGZyIzANb"
+    },
+    {
+      "album": {
         "name": "Bilder i mitt hode",
         "url": "https://open.spotify.com/album/0hydPfH9Vk7RSwauEMYYpX"
       },
@@ -9688,6 +9706,24 @@
       "duration_ms": 220740,
       "name": "Widespread Coma",
       "url": "https://open.spotify.com/track/2NDtE7qiWJirYfhZ3gydOC"
+    },
+    {
+      "album": {
+        "name": "Wild Time",
+        "url": "https://open.spotify.com/album/2xUDxS8dnszV9XvAUTNUxb"
+      },
+      "artists": [
+        {
+          "name": "Raida M",
+          "url": "https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102672,
+      "name": "Wild Time",
+      "url": "https://open.spotify.com/track/3g1kVvfuzqqQtwrR6jyTyZ"
     },
     {
       "album": {

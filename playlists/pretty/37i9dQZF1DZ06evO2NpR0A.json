@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 290583,
+  "num_followers": 290595,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAAAqO1TfOvgN2GB/CeaPpj6L",
+  "snapshot_id": "ahzLgAAAAAB3LfDwZYM5yd4X2pUqC763",
   "tracks": [
     {
       "added_at": null,
@@ -235,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "VOLUMES: ONE (SELECTIONS FROM MUSIC CONCERTS 2019-2023 BON IVER 6 PIECE BAND)",
-        "url": "https://open.spotify.com/album/2tV8MeptqoxJcuwQbh6Khr"
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
       },
       "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
         {
           "name": "Bon Iver",
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 237684,
-      "name": "HEY, MA - Pitchfork Music Festival, Chicago, IL. July 23 2023",
-      "url": "https://open.spotify.com/track/7hMbLufQpYzEaCzGlHs4sC"
+      "duration_ms": 304106,
+      "name": "evermore (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb"
     },
     {
       "added_at": null,
@@ -283,22 +287,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
+        "name": "VOLUMES: ONE (SELECTIONS FROM MUSIC CONCERTS 2019-2023 BON IVER 6 PIECE BAND)",
+        "url": "https://open.spotify.com/album/2tV8MeptqoxJcuwQbh6Khr"
       },
       "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
         {
           "name": "Bon Iver",
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 304106,
-      "name": "evermore (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb"
+      "duration_ms": 237684,
+      "name": "HEY, MA - Pitchfork Music Festival, Chicago, IL. July 23 2023",
+      "url": "https://open.spotify.com/track/7hMbLufQpYzEaCzGlHs4sC"
     },
     {
       "added_at": null,

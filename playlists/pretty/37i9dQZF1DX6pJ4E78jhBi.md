@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,436 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,422 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 20 | [Silent Night \(Arr\. Ešenvalds for Violin, Cello & Orchestra\)](https://open.spotify.com/track/58b7jqnPN1dviBAoJ1UMq8) | [Kristīne Balanas](https://open.spotify.com/artist/0lDBHW4HNd46bGdVEl6Sjt), [Margarita Balanas](https://open.spotify.com/artist/5ZEgy7PqXSEYz9yz7YZDQ7), [ANONIMI Chamber Orchestra](https://open.spotify.com/artist/6DDKBEDm3cnVpmEuMF5OEG) | [Silent Night \(Arr\. Ešenvalds for Violin, Cello & Orchestra\)](https://open.spotify.com/album/1LArXGSCAlY9loy45E8rwS) | 5:14 |
 | 21 | [Gloria In Exelcis Deo](https://open.spotify.com/track/2E61pXyRJv1tApFvqEb7jM) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Merry Christmas](https://open.spotify.com/album/26AHxf0rHw2qAhUN3EGSF9) | 2:23 |
 | 22 | [A Christmas Prelude No\. 1](https://open.spotify.com/track/0ngu4Q8cY5cvHHLVMbE9Nc) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [A Christmas Prelude No\. 1](https://open.spotify.com/album/4zcCzsCkRZFlEBGNLPoGGW) | 2:41 |
-| 23 | [Candlelight Carol \(Version for Harp & String Quartet\)](https://open.spotify.com/track/3JZCFDgksE3qWwT6h8GxnF) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S), [Freya Goldmark](https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1), [Patrick Dawkins](https://open.spotify.com/artist/6uU7dokD7wCNbDVObXOLq4), [Richard Jones](https://open.spotify.com/artist/32Vl4iIybZBaf4B6OACDQS), [Val Welbanks](https://open.spotify.com/artist/5JVsMGOXLyvqbrsbrdAIbX) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 2:42 |
+| 23 | [Rutter: Candlelight Carol \(Version for Harp & String Quartet\)](https://open.spotify.com/track/3JZCFDgksE3qWwT6h8GxnF) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S), [Freya Goldmark](https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1), [Patrick Dawkins](https://open.spotify.com/artist/6uU7dokD7wCNbDVObXOLq4), [Richard Jones](https://open.spotify.com/artist/32Vl4iIybZBaf4B6OACDQS), [Val Welbanks](https://open.spotify.com/artist/5JVsMGOXLyvqbrsbrdAIbX) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 2:42 |
 | 24 | [It Came Upon A Midnight Clear](https://open.spotify.com/track/6MAC5m83LjGzldqDBvKJ5q) | [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Cliff Masterson](https://open.spotify.com/artist/0cUh2BRVeZhzTX9dfQBx3e) | [Carols Without Words](https://open.spotify.com/album/2vsG13X4JWVDyx7kXua8HJ) | 4:11 |
 | 25 | [Still, Still, Still](https://open.spotify.com/track/28hC0zMOkbVZBNPw0NJTdN) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 1:52 |
 | 26 | [Go tell it on the mountain](https://open.spotify.com/track/4bJY69IGvkMGXkzEKYULtW) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Go tell it on the mountain](https://open.spotify.com/album/44M9Az670ZjiMZGcSlOgrn) | 2:15 |

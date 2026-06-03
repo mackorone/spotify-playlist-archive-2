@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/625Qzz0OJmeDpIbOZwjf8G">Gustavo Cerati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-144 songs - 10 hr 10 min
+145 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Verbo Carne](https://open.spotify.com/track/79Bue5GL12T9LhtrEqctzu) | [Galzandorj](https://open.spotify.com/artist/0HeB1kD4ozOjYvbLFuGUz1) | [Gustavo Stereo](https://open.spotify.com/album/5rk5uZqutmQIJUO4Zm4aJV) | 4:53 | 2024-01-29 | 2024-10-21 |
 | [Vivo](https://open.spotify.com/track/1ShyiEm2kD0XMA7fNhMIVk) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd) | 4:20 | 2024-01-29 |  |
 | [Vuelta por el Universo](https://open.spotify.com/track/7uY3xheR58xt98wb8BIz21) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 6:00 | 2024-01-29 |  |
+| [ZOMBI](https://open.spotify.com/track/2JxNMSXbMvzjOXyzleH5UZ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [TURR4ZO](https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU) | 2:34 | 2026-06-02 |  |
 | [Zona de Promesas](https://open.spotify.com/track/3XiTDH6e5xhCpVHPPz4vQR) | [Turbomente](https://open.spotify.com/artist/0ietRRiTG5sNSo9ayxk0p6) | [Gracias...Totales: Tributo Bizarro a Soda Stereo](https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd) | 4:05 | 2024-01-29 | 2024-09-05 |
 | [Zona de Promesas \(with Gustavo Cerati\)](https://open.spotify.com/track/1YBSWq2Wc7cwgHgvHvMm2Z) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Cantora 2](https://open.spotify.com/album/3pnyaihZuauVqbp3SiRy3r) | 3:58 | 2024-09-04 |  |
 | [Zoom \- Remasterizado 2007](https://open.spotify.com/track/1djou52IdL1mVEE7gTauxo) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Sueño Stereo \(Remastered\)](https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg) | 3:26 | 2024-01-29 |  |

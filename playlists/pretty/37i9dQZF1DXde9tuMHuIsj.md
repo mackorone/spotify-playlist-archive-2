@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,492,004 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,491,989 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 6 | [ROMA](https://open.spotify.com/track/0NUgJXE6L7SrMmm18nhoSY) | [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV), [CARABIN3](https://open.spotify.com/artist/4UhDECNxyqKv0Cn0sua1MC) | [ROMA](https://open.spotify.com/album/24fRGaB1mblPXMKsPCYTUq) | 2:49 |
 | 7 | [ETA \- RMX](https://open.spotify.com/track/6ir1I4ZtHzJfdV8TjIbLEY) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [ETA \(RMX\)](https://open.spotify.com/album/3gRImh7Qfr9rspysznv2Jr) | 7:42 |
 | 8 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 |
-| 9 | [MÁS DE AHÍ \- Remix](https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MÁS DE AHÍ \(Remix\)](https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E) | 4:05 |
+| 9 | [MÁS DE AHÍ \- Remix](https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Slow Mike](https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH) | [MÁS DE AHÍ \(Remix\)](https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E) | 4:05 |
 | 10 | [Las Muñequitas](https://open.spotify.com/track/4nJJCRYru4QQakCiUA155f) | [Mr Plata](https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [Las Muñequitas](https://open.spotify.com/album/7n15KecHJpMAvSLUpllKHu) | 3:13 |
 | 11 | [Burlao](https://open.spotify.com/track/4vrvfnCLPPVblKITtSsKUA) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [Millo Gangster Club](https://open.spotify.com/album/7Hh4GWH8UfNA2hgO6PbosD) | 3:05 |
 | 12 | [Dame La Verde](https://open.spotify.com/track/6onnX1hYWcqP2dXgfvExNG) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Dame La Verde](https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1) | 3:35 |

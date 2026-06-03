@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 78187,
       "name": "Acts Of Magic",
       "url": "https://open.spotify.com/track/6kJpSq9nH4AdBJjQ4iNViA"
@@ -1176,10 +1176,32 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 157950,
       "name": "Memory Death",
       "url": "https://open.spotify.com/track/5YFWLq8Y6LElf9r8hMYgFa"
+    },
+    {
+      "album": {
+        "name": "Mr Mistake (Boards of Canada Remix)",
+        "url": "https://open.spotify.com/album/0FZ3XnFYhGVjepxzYsbnQX"
+      },
+      "artists": [
+        {
+          "name": "Nevermen",
+          "url": "https://open.spotify.com/artist/09P3wPH0MvtLnhwfbtzrRq"
+        },
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291285,
+      "name": "Mr Mistake - Boards of Canada Remix / Instrumental",
+      "url": "https://open.spotify.com/track/2sCLqyzqJ1pXY7uE78pIIu"
     },
     {
       "album": {

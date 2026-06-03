@@ -8112,7 +8112,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-31",
+      "date_removed": null,
       "duration_ms": 117600,
       "name": "BRAKUJE MI MATY",
       "url": "https://open.spotify.com/track/0KwCJQfnBHQgPOHjwY9W2x"
@@ -15508,7 +15508,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-04",
+      "date_removed": null,
       "duration_ms": 179146,
       "name": "Dzie\u0144 Dziecka",
       "url": "https://open.spotify.com/track/1DL32BOyo0WVEWFxDxaOUo"
@@ -19080,7 +19080,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 277786,
       "name": "Gdyby\u015b Nie Istnia\u0142a",
       "url": "https://open.spotify.com/track/0vtsLb70p8XYULwpQlPanV"
@@ -30586,7 +30586,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -36974,7 +36974,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 199384,
       "name": "NIE MA NAS TAM",
       "url": "https://open.spotify.com/track/0QeaCgjAByJ9Z5cxwHqIq7"
@@ -37758,7 +37758,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 129632,
       "name": "Niesko\u0144czono\u015b\u0107",
       "url": "https://open.spotify.com/track/440q1Tg7jVikYJryQHbYfv"
@@ -38468,6 +38468,28 @@
     {
       "album": {
         "name": "NOWE CIOCIE",
+        "url": "https://open.spotify.com/album/0xFoPgo8DxnlKy9Wehp6Vz"
+      },
+      "artists": [
+        {
+          "name": "rydawarrior",
+          "url": "https://open.spotify.com/artist/4l4laIN7oJbSKMRO1LTi2J"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125333,
+      "name": "NOWE CIOCIE",
+      "url": "https://open.spotify.com/track/0wtwLMGwAsXynftM6OvCo1"
+    },
+    {
+      "album": {
+        "name": "NOWE CIOCIE",
         "url": "https://open.spotify.com/album/2iXhnwmIXen6egSY3scoir"
       },
       "artists": [
@@ -38482,7 +38504,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 125333,
       "name": "nowe ciocie",
       "url": "https://open.spotify.com/track/1n7TRtAujmbcujwWKD0Vwk"

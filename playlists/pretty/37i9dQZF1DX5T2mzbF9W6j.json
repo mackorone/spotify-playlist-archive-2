@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112734,
+  "num_followers": 112728,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "Dom",
-        "url": "https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr"
-      },
-      "artists": [
-        {
-          "name": "Krystian Embradora",
-          "url": "https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z"
-        }
-      ],
-      "duration_ms": 154368,
-      "name": "Dom",
-      "url": "https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
         "name": "SEN",
         "url": "https://open.spotify.com/album/0cpR457cV80VWCBN46aFDS"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 181565,
       "name": "SEN",
       "url": "https://open.spotify.com/track/1Gc4ROFZUlEupmjMGKLSe2"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
+        "name": "Dom",
+        "url": "https://open.spotify.com/album/5la4J8vKDZwNe4wvh8e4Cr"
+      },
+      "artists": [
+        {
+          "name": "Krystian Embradora",
+          "url": "https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z"
+        }
+      ],
+      "duration_ms": 154368,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/0rkj5f4oLCYbver5KyDZza"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
-        "url": "https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m"
-      },
-      "artists": [
-        {
-          "name": "Roxie",
-          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
-        }
-      ],
-      "duration_ms": 157272,
-      "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
-      "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
-    },
-    {
-      "added_at": "2026-04-17 15:06:15",
-      "album": {
         "name": "Wi\u0119cej nas",
         "url": "https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx"
       },
@@ -951,18 +935,18 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "Szeroko\u015bci!",
-        "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
+        "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
+        "url": "https://open.spotify.com/album/6lLQXfC2VHLdrEbAdn1m4m"
       },
       "artists": [
         {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
         }
       ],
-      "duration_ms": 157607,
-      "name": "Szeroko\u015bci!",
-      "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
+      "duration_ms": 157272,
+      "name": "Codzienno\u015b\u0107 (Pami\u0119taj Nas)",
+      "url": "https://open.spotify.com/track/0XY68QmJAUqzRCIHS5xEEp"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -983,18 +967,18 @@
     {
       "added_at": "2026-04-17 15:06:15",
       "album": {
-        "name": "To nie m\u00f3j dzie\u0144",
-        "url": "https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa"
+        "name": "Szeroko\u015bci!",
+        "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
       },
       "artists": [
         {
-          "name": "maks.tachasiuk",
-          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
         }
       ],
-      "duration_ms": 223333,
-      "name": "To nie m\u00f3j dzie\u0144",
-      "url": "https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg"
+      "duration_ms": 157607,
+      "name": "Szeroko\u015bci!",
+      "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
     },
     {
       "added_at": "2026-04-17 15:06:15",
@@ -1015,6 +999,22 @@
       "duration_ms": 165230,
       "name": "Hot!",
       "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
+    },
+    {
+      "added_at": "2026-04-17 15:06:15",
+      "album": {
+        "name": "To nie m\u00f3j dzie\u0144",
+        "url": "https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "To nie m\u00f3j dzie\u0144",
+      "url": "https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg"
     },
     {
       "added_at": "2026-04-17 15:06:15",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Bops and LGBTQIA+ artists only. Cover: Bentley Robles",
+  "description": "Loud, proud, and free to be. Bops on repeat from LGBTQIA+ artists only. Cover: Deb Never",
   "name": "GLOW US & Canada",
   "tracks": [
     {
@@ -352,6 +352,24 @@
       "duration_ms": 192133,
       "name": "Apartment A",
       "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
+    },
+    {
+      "album": {
+        "name": "ARCADE",
+        "url": "https://open.spotify.com/album/5CIQzG3okTPTbvawZ1Pczs"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172448,
+      "name": "ARCADE",
+      "url": "https://open.spotify.com/track/4So3jKLjCLUMWty6Ooa6IS"
     },
     {
       "album": {
@@ -1248,10 +1266,28 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 133624,
       "name": "BROKE BITCH FREE$TYLE",
       "url": "https://open.spotify.com/track/32HAF87vgPSUQ6l6pRO7Er"
+    },
+    {
+      "album": {
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177576,
+      "name": "Brutalist",
+      "url": "https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ"
     },
     {
       "album": {
@@ -1656,7 +1692,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 223456,
       "name": "collide",
       "url": "https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm"
@@ -1963,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "DANCE...",
+        "url": "https://open.spotify.com/album/0aUf8eGa6qyxQT9OWZR09v"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287055,
+      "name": "DANCE...",
+      "url": "https://open.spotify.com/track/5rfOARz6QO73wPATyMtQQZ"
+    },
+    {
+      "album": {
         "name": "Dancing On The Wall",
         "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
       },
@@ -2260,6 +2314,32 @@
       "duration_ms": 167000,
       "name": "Downfall",
       "url": "https://open.spotify.com/track/2aAcT2candbjm9HghUotKF"
+    },
+    {
+      "album": {
+        "name": "Revelation [Remixes]",
+        "url": "https://open.spotify.com/album/1MbslP83tLeeVWIKRvABzu"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        },
+        {
+          "name": "Aquaria",
+          "url": "https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Dreams (Aquaria Remix)",
+      "url": "https://open.spotify.com/track/2VMSvRhxs30VAoPoj3jTNu"
     },
     {
       "album": {
@@ -3163,6 +3243,24 @@
     },
     {
       "album": {
+        "name": "Gas Station Lover",
+        "url": "https://open.spotify.com/album/7nYihcNHcP2ZqoZcBsmMp5"
+      },
+      "artists": [
+        {
+          "name": "Lenni Kim",
+          "url": "https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188112,
+      "name": "Gas Station Lover",
+      "url": "https://open.spotify.com/track/13yxPwUtZXAvnfyejd3UMT"
+    },
+    {
+      "album": {
         "name": "Gentleman",
         "url": "https://open.spotify.com/album/2rVHGc0YWHFfKTcrVhmeLn"
       },
@@ -3374,6 +3472,24 @@
       "duration_ms": 136225,
       "name": "Girls Just Wanna",
       "url": "https://open.spotify.com/track/7z1Z3ORSLmusMHO2JvEALl"
+    },
+    {
+      "album": {
+        "name": "girls like girls (from the motion picture)",
+        "url": "https://open.spotify.com/album/0Yl9iWwS1rNPTR9biReXQM"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254919,
+      "name": "girls like girls (from the motion picture)",
+      "url": "https://open.spotify.com/track/6iYFgzRp6PQmbTgVCoxMGA"
     },
     {
       "album": {
@@ -4985,6 +5101,24 @@
     },
     {
       "album": {
+        "name": "Joke's On Me",
+        "url": "https://open.spotify.com/album/4EFWXnsRVyJ79VFgrS702u"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Gallagher",
+          "url": "https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "Joke's On Me",
+      "url": "https://open.spotify.com/track/3GFyLwl2NTYggGoJ6qk84U"
+    },
+    {
+      "album": {
         "name": "deBasement",
         "url": "https://open.spotify.com/album/2HRRp7VG6cv6KAE1AlL981"
       },
@@ -5832,6 +5966,28 @@
       "duration_ms": 212912,
       "name": "MAGNETIC",
       "url": "https://open.spotify.com/track/69d48Kbu4YBG3B1Erg4iNg"
+    },
+    {
+      "album": {
+        "name": "MAKE IT OUT ALIVE (Versions)",
+        "url": "https://open.spotify.com/album/0Uw3H8ri1HNrAopsui8EoY"
+      },
+      "artists": [
+        {
+          "name": "MORGXN",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        },
+        {
+          "name": "Nashville In Harmony Choir",
+          "url": "https://open.spotify.com/artist/7lKPEmy6AdEpYsq0Azo9d6"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213514,
+      "name": "MAKE IT OUT ALIVE - Choral Version",
+      "url": "https://open.spotify.com/track/27pu3BRxnArxaFl3wGIX5I"
     },
     {
       "album": {
@@ -7205,6 +7361,24 @@
     },
     {
       "album": {
+        "name": "LAUREN",
+        "url": "https://open.spotify.com/album/1Ufqi9RHnUhjVSzD39DUex"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151266,
+      "name": "POSSESSIVE",
+      "url": "https://open.spotify.com/track/5R7PNT2scRyhURIT5R7Uiz"
+    },
+    {
+      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O"
       },
@@ -8198,6 +8372,24 @@
       "duration_ms": 187658,
       "name": "Shy Girl",
       "url": "https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu"
+    },
+    {
+      "album": {
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/4BgkrXmfMQ6KnVVNSlnxLv"
+      },
+      "artists": [
+        {
+          "name": "JORDY",
+          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193724,
+      "name": "SICK!",
+      "url": "https://open.spotify.com/track/6Q71WravIYPvJZ0fJDTrrE"
     },
     {
       "album": {
@@ -9255,6 +9447,24 @@
     },
     {
       "album": {
+        "name": "think about u",
+        "url": "https://open.spotify.com/album/4opJaPrZduJvkjTQSWBCAb"
+      },
+      "artists": [
+        {
+          "name": "Noah Davis",
+          "url": "https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175494,
+      "name": "think about u",
+      "url": "https://open.spotify.com/track/06Whw0PTTqa4cRHLVLPcpJ"
+    },
+    {
+      "album": {
         "name": "This Alive",
         "url": "https://open.spotify.com/album/4tgz2Bilm2EE2mMHjoXV7I"
       },
@@ -9394,7 +9604,7 @@
           "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         },
         {
-          "name": "Lauv",
+          "name": "LAUV",
           "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
@@ -9654,6 +9864,24 @@
       "duration_ms": 170000,
       "name": "uhoh",
       "url": "https://open.spotify.com/track/04w6RjedkvhojBqAFyxI70"
+    },
+    {
+      "album": {
+        "name": "ulysse",
+        "url": "https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195980,
+      "name": "ulysse",
+      "url": "https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM"
     },
     {
       "album": {

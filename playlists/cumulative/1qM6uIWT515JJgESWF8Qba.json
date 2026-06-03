@@ -2475,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/5mmkHXR5YMkbdNbJ6EXRQF"
+      },
+      "artists": [
+        {
+          "name": "The Falls",
+          "url": "https://open.spotify.com/artist/64VoUwM0Ui5gXHMrzOPOgA"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173017,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/0tWLQ2YmQ3MoCaZkckzXkY"
+    },
+    {
+      "album": {
         "name": "Loving in C",
         "url": "https://open.spotify.com/album/3q0RQpej71nrgbcuAS6giu"
       },

@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-368 songs - 22 hr 10 min
+371 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Broken Language](https://open.spotify.com/track/0uCHsMKYhxCawnnPZvLLUV) | [Never Mind](https://open.spotify.com/artist/5Cghtk7bBFeh8ylFr8HX7C) | [Do You Remember Me at All?](https://open.spotify.com/album/3T5ZGHyqLY2jqJr4e5E1Nt) | 6:26 | 2025-12-13 | 2026-01-05 |
 | [Broken Souls](https://open.spotify.com/track/1QI8qHeZM2D9CjukHziaoo) | [Malcolm E Ormond](https://open.spotify.com/artist/37IitdXWKngXiu1htFAgMG) | [Broken Souls](https://open.spotify.com/album/3HyteMRqp1h4fag2Nukpd6) | 5:35 | 2025-12-24 | 2026-01-21 |
 | [Buio \- Eng Version](https://open.spotify.com/track/6CGsIEzR1l5I2cKjKXtz42) | [Crosslane](https://open.spotify.com/artist/34gfe82kVOOUdmSdcghnGA) | [Buio Deluxe](https://open.spotify.com/album/7agcgNqIzHnBH7E8dcj0xx) | 3:42 | 2026-01-16 | 2026-02-19 |
+| [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 | 2026-06-02 |  |
 | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH) | [FaveRiot](https://open.spotify.com/artist/7AGu8oKURh8TtjLCBKacqN) | [C.A.R.O.L \(Can't Always Rely On Logic\)](https://open.spotify.com/album/6WkWXr3yPcAWRdHnuV8uZz) | 2:26 | 2025-12-08 | 2026-01-05 |
 | [Catarsis](https://open.spotify.com/track/6JWcTR6XGT7tumzSkAhRXU) | [Tresgo](https://open.spotify.com/artist/30SINUYIEvH5bICP6gjxUi) | [Zona De Confort](https://open.spotify.com/album/3k2OM7LXB63eaaO8UXCTZx) | 6:09 | 2025-09-17 | 2026-01-05 |
 | [Catharsis](https://open.spotify.com/track/0pHsFY5UTpZkwAqeH8KhUe) | [Parham Gharavaisi](https://open.spotify.com/artist/4QqBOZOiit5hIBwW6Bs9G7), [Lila Sumi](https://open.spotify.com/artist/2lGxwj9jUDWAhMByYOgqFY) | [Greatest Hits, Vol\. II](https://open.spotify.com/album/3A9cpWyKRLr7Z6879Q3FPo) | 3:11 | 2025-12-22 | 2026-01-21 |
@@ -118,6 +119,7 @@
 | [Freedom at Last](https://open.spotify.com/track/0dyuCmxRKe05ag9qmY7IZ3) | [poliester](https://open.spotify.com/artist/5EBtUpLChJomEjgY0xIGhX) | [Freedom at Last](https://open.spotify.com/album/4m6FgfAHPZ15OVE2YaijKF) | 3:37 | 2025-09-23 | 2026-03-05 |
 | [Full silver moon](https://open.spotify.com/track/3JvLUOuPjpb47ccTsUmNCQ) | [Estirga](https://open.spotify.com/artist/1EDF6bTjidf7Ktk5O9eLId) | [Fuego y Luz](https://open.spotify.com/album/3iroCJZy7UF2ZrNRGd4Nbe) | 3:24 | 2026-03-11 |  |
 | [Geister](https://open.spotify.com/track/2tT3k5a3U87GPpKgbWptRT) | [Elektrosauna](https://open.spotify.com/artist/031hMoHlvGjXfQusuM62pi) | [Geister](https://open.spotify.com/album/4lgWWLPTSCyNn6zS73Y5KX) | 6:10 | 2026-01-11 | 2026-02-02 |
+| [Get Off Of My Cloud](https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:18 | 2026-06-02 |  |
 | [Glimpse](https://open.spotify.com/track/6gLTJWbw0uEtvQi128RsdR) | [Field of View](https://open.spotify.com/artist/77F2OeJqiPVTeAwBeu2gxG) | [In My Own Way](https://open.spotify.com/album/5eBSKHjtj9mFF6QwkKYYBi) | 2:30 | 2026-04-04 | 2026-05-26 |
 | [Gone Awry](https://open.spotify.com/track/2We4lOzgkM0uYxZocdXFxi) | [Giovanna](https://open.spotify.com/artist/0M3Vi97ia6awVNTvokryET) | [Gone Awry](https://open.spotify.com/album/5b50EagpfyNurHOndqK3v5) | 3:52 | 2026-05-21 |  |
 | [Good Dreams](https://open.spotify.com/track/0z2V3roWgX3rZERtuA6Vrr) | [OvniS](https://open.spotify.com/artist/1rtkMSxBfSbeWPUxsWWUCh) | [Humano\-Alien](https://open.spotify.com/album/6cUJRgKLTiYSKjrb5IFTSJ) | 3:54 | 2025-12-20 | 2026-01-21 |
@@ -155,6 +157,7 @@
 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 | 2026-02-19 | 2026-03-27 |
 | [Ignite Devil](https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Ignite Devil](https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5) | 2:57 | 2026-05-12 |  |
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 | 2025-12-12 |
+| [In The Dark](https://open.spotify.com/track/1tVhSbVfhWn3dp80negdBc) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [In The Dark](https://open.spotify.com/album/6kUqfO3Zl3jaw4mC91o1SJ) | 3:08 | 2026-06-02 |  |
 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 | 2025-11-27 | 2025-12-28 |
 | [Invierno](https://open.spotify.com/track/35WJrQEZY5tEzHjiGzCL62) | [Macías](https://open.spotify.com/artist/12tb38v6ePm4N3MSLWQVzu) | [Invierno](https://open.spotify.com/album/6w5A0FMOmXN6iubAeY392K) | 4:08 | 2026-03-31 |  |
 | [It's Not Much But It's Honest](https://open.spotify.com/track/7qk61UVR5b4uOZPERARakC) | [Chase Cavanaugh](https://open.spotify.com/artist/6DH1kypdObaGWIcKEefQEQ) | [It's Not Much But It's Honest](https://open.spotify.com/album/0s6g5E03GbA8a6rK2G2rfI) | 4:08 | 2026-01-22 | 2026-02-19 |

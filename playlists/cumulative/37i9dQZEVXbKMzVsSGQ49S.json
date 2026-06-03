@@ -4664,7 +4664,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 247368,
       "name": "Bad - 2012 Remaster",
       "url": "https://open.spotify.com/track/2gSNBigeWMVtY3QBIvPAEc"
@@ -5326,7 +5326,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 177995,
       "name": "Bangaranga",
       "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
@@ -5916,6 +5916,24 @@
       "duration_ms": 194165,
       "name": "Bejeweled",
       "url": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/424w2dKraLtPu8GBkVFTnn"
+      },
+      "artists": [
+        {
+          "name": "Carsky",
+          "url": "https://open.spotify.com/artist/7AIlCnNYqOJkrHGV1TVAJo"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160003,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1ObtUJspNmBoU4gwm2e8Xr"
     },
     {
       "album": {
@@ -13116,7 +13134,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 280753,
       "name": "Dirty Diana - 2012 Remaster",
       "url": "https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK"
@@ -17704,7 +17722,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 246874,
       "name": "Fallegur dagur",
       "url": "https://open.spotify.com/track/0VUH43O5GBZDsVuphW1IAQ"
@@ -22024,7 +22042,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2Xhd1kYKj2aee7JR3nIlRe"
@@ -22042,7 +22060,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 260696,
       "name": "Go",
       "url": "https://open.spotify.com/track/2cNjgoSh1TBHFQIhfzRJUE"
@@ -25076,6 +25094,24 @@
       "duration_ms": 232139,
       "name": "Holan",
       "url": "https://open.spotify.com/track/4460AP9uejzHSNqNxTXzIM"
+    },
+    {
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/4psXq8uLNctUbCOFVquEQv"
+      },
+      "artists": [
+        {
+          "name": "Carsky",
+          "url": "https://open.spotify.com/artist/7AIlCnNYqOJkrHGV1TVAJo"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/3ja2R7aycywOomCJGsyqWc"
     },
     {
       "album": {
@@ -29186,6 +29222,36 @@
       "duration_ms": 178500,
       "name": "Je me casse",
       "url": "https://open.spotify.com/track/559RWsQqSe4fNUffI9P7mW"
+    },
+    {
+      "album": {
+        "name": "Je suis en lambo",
+        "url": "https://open.spotify.com/album/4bEPWmNsv8YJI1iR5AOjql"
+      },
+      "artists": [
+        {
+          "name": "Fader Chill",
+          "url": "https://open.spotify.com/artist/6s9XdqBHfBl3ClgVMRuTPY"
+        },
+        {
+          "name": "Samy Jebari",
+          "url": "https://open.spotify.com/artist/5MDAI7AVyr3MxATJDnWXLk"
+        },
+        {
+          "name": "Sabrina Lior",
+          "url": "https://open.spotify.com/artist/0xfcvHVlVim5FuyJrKbmLX"
+        },
+        {
+          "name": "SJB",
+          "url": "https://open.spotify.com/artist/3gtNn2TaStXSfxO3nxEG2n"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146687,
+      "name": "Je suis en lambo",
+      "url": "https://open.spotify.com/track/79bVhGvzXt0bwTIpKCBggu"
     },
     {
       "album": {
@@ -49602,7 +49668,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 257766,
       "name": "Smooth Criminal - 2012 Remaster",
       "url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j"
@@ -51324,7 +51390,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -51960,7 +52026,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 190480,
       "name": "Stopp",
       "url": "https://open.spotify.com/track/5B6HbortdKqmO6fnR1LqSV"
@@ -55426,7 +55492,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
@@ -60288,6 +60354,24 @@
       "duration_ms": 290917,
       "name": "Vi\u00f0 f\u00f6llum",
       "url": "https://open.spotify.com/track/6TbDVehEtW2hgcP0GBX8Ut"
+    },
+    {
+      "album": {
+        "name": "S\u00f3l a\u00f0 morgni",
+        "url": "https://open.spotify.com/album/34mRL4KleSGkTnXW7iF894"
+      },
+      "artists": [
+        {
+          "name": "Bubbi Morthens",
+          "url": "https://open.spotify.com/artist/0MtTfq27LQu7CmE5t308Up"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292199,
+      "name": "Vi\u00f0 Gr\u00f3ttu",
+      "url": "https://open.spotify.com/track/51DYh8jb6FCioarSwgnbiJ"
     },
     {
       "album": {

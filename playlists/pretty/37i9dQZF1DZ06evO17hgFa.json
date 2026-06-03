@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 149542,
+  "num_followers": 149547,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAAAYtiN849r8WTobknlBOpOd",
+  "snapshot_id": "ahzLgAAAAACgGjSFx96Yscar7oTqGvkz",
   "tracks": [
     {
       "added_at": null,
@@ -531,26 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Are Brewin'",
-        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "John Simmons & His Orchestra",
-          "url": "https://open.spotify.com/artist/0VQ5tyh73r82WVl9Pv9GGa"
-        }
-      ],
-      "duration_ms": 193800,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/4XmnvVsJcKk2fy3jX5Hl6e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lady Day: The Complete Billie Holiday On Columbia - Vol. 2",
         "url": "https://open.spotify.com/album/61OLLuUN2R0ZO24IrS3W2T"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 180066,
       "name": "The Way You Look Tonight (with Teddy Wilson & His Orchestra) - Take 2",
       "url": "https://open.spotify.com/track/7Ma4ykGEYiOofyWiR6tfEG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blues Are Brewin'",
+        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "John Simmons & His Orchestra",
+          "url": "https://open.spotify.com/artist/0VQ5tyh73r82WVl9Pv9GGa"
+        }
+      ],
+      "duration_ms": 193800,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4XmnvVsJcKk2fy3jX5Hl6e"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 174320,
-      "name": "East Of The Sun (West Of The Moon)",
-      "url": "https://open.spotify.com/track/1zE0JZiHOBPlHwLsf4wBld"
+      "duration_ms": 173920,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 173920,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
+      "duration_ms": 174320,
+      "name": "East Of The Sun (West Of The Moon)",
+      "url": "https://open.spotify.com/track/1zE0JZiHOBPlHwLsf4wBld"
     },
     {
       "added_at": null,

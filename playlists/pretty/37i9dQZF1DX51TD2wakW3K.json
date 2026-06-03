@@ -1,6 +1,6 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 15936,
+  "num_followers": 16077,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "i'm gonna tell my therapist on you",
         "url": "https://open.spotify.com/album/7mbrZNnHyQhzlKSwzP8Ojz"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 161062,
       "name": "i'm gonna tell my therapist on you",
       "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "NIIS WORLD",
-        "url": "https://open.spotify.com/album/6j1pjKXLri5eYuBjjW4Vul"
-      },
-      "artists": [
-        {
-          "name": "Niis",
-          "url": "https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X"
-        }
-      ],
-      "duration_ms": 171070,
-      "name": "The Bow",
-      "url": "https://open.spotify.com/track/50ZE3JmXxdylxW9Kikg07N"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "The First Two Records",
         "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 160860,
       "name": "Double Dare Ya",
       "url": "https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "NIIS WORLD",
+        "url": "https://open.spotify.com/album/6j1pjKXLri5eYuBjjW4Vul"
+      },
+      "artists": [
+        {
+          "name": "Niis",
+          "url": "https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X"
+        }
+      ],
+      "duration_ms": 171070,
+      "name": "The Bow",
+      "url": "https://open.spotify.com/track/50ZE3JmXxdylxW9Kikg07N"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -775,18 +775,18 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Horses (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz"
       },
       "artists": [
         {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+          "name": "Sn\u00f5\u00f5per",
+          "url": "https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb"
         }
       ],
-      "duration_ms": 232040,
-      "name": "Free Money",
-      "url": "https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La"
+      "duration_ms": 154195,
+      "name": "Worldwide",
+      "url": "https://open.spotify.com/track/05TRbrINOYAeoOCRy4jbMW"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -807,18 +807,18 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz"
+        "name": "Horses (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
       "artists": [
         {
-          "name": "Sn\u00f5\u00f5per",
-          "url": "https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb"
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 154195,
-      "name": "Worldwide",
-      "url": "https://open.spotify.com/track/05TRbrINOYAeoOCRy4jbMW"
+      "duration_ms": 232040,
+      "name": "Free Money",
+      "url": "https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
-        }
-      ],
-      "duration_ms": 181098,
-      "name": "No Control",
-      "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Talk of Violence",
         "url": "https://open.spotify.com/album/64bdsls9U5ZGarwEkCbVfl"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 184500,
       "name": "Touch Me Again",
       "url": "https://open.spotify.com/track/21oFKSwN0SnBYC4bFtDZEI"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 181098,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/6iYEtpQ84Vs2K5CReYfr6Y"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "All That Is Over",
-        "url": "https://open.spotify.com/album/6VcqAGR33EiDjGZmWgQSpY"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 160862,
-      "name": "Need",
-      "url": "https://open.spotify.com/track/27ZihatzlzN9p9kQ31uwo1"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Cerebral Circus",
         "url": "https://open.spotify.com/album/1UIGmyBWoI4jeDdO4hHSss"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 115813,
       "name": "The Surface",
       "url": "https://open.spotify.com/track/7FXfrpdWGdjjZZt1pJ1RbM"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "All That Is Over",
+        "url": "https://open.spotify.com/album/6VcqAGR33EiDjGZmWgQSpY"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 160862,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/27ZihatzlzN9p9kQ31uwo1"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1613,20 +1613,20 @@
       "url": "https://open.spotify.com/track/63tZNnEOTwXWzsWmBcKjZf"
     },
     {
-      "added_at": "2026-03-17 18:41:04",
+      "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Burning Farm",
-        "url": "https://open.spotify.com/album/30e1Zd04RWU9KVMwCrYiO6"
+        "name": "Cost of Living",
+        "url": "https://open.spotify.com/album/2L3KXGq3u2VpVTFMwPyPrb"
       },
       "artists": [
         {
-          "name": "Shonen Knife",
-          "url": "https://open.spotify.com/artist/4ukJlDdlvuQOHZdD2NVsFD"
+          "name": "Downtown Boys",
+          "url": "https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC"
         }
       ],
-      "duration_ms": 152240,
-      "name": "Twist Barbie",
-      "url": "https://open.spotify.com/track/0cLMJ6Ajl5G2Av6PSu8xhM"
+      "duration_ms": 203373,
+      "name": "Somos Chulas (No Somos Pendejas)",
+      "url": "https://open.spotify.com/track/1kPzZGjU0mcL6Hh2DLI0of"
     }
   ],
   "unique_name": "Women of Punk",

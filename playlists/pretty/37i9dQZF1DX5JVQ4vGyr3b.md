@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JVQ4vGyr3b.md) - [plain]
 
 > <a href="spotify:artist:3JkLFcTej6tdwZoQT6Nx4B">Seth Troxler</a>'s favorite tracks\. Updated regularly\. Curated by Seth Troxler\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,723 likes - 53 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,736 likes - 53 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JVQ4vGyr3b.md) - [plain]
 | 19 | [Let Me Go](https://open.spotify.com/track/1BEp2NMxfWJsbIdMfbK5Fa) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7) | [M1 City](https://open.spotify.com/album/1NrqWqTKbN0Nj7VrJ4BbhL) | 5:03 |
 | 20 | [Reckless \(2024\)](https://open.spotify.com/track/6R3CxqaSQqIQnnpPkm5sno) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Reckless \(2024\)](https://open.spotify.com/album/5xMk0r8Jr3J66evlcUTMEi) | 2:10 |
 | 21 | [Last One For Today](https://open.spotify.com/track/2Rlwc41Lv2p1bARfNuYfrj) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Nyra](https://open.spotify.com/artist/68JPALv2DlQNPeiyyO7PP8) | [Last One For Today](https://open.spotify.com/album/7JyUDLcqiIs63lqhn1SalC) | 6:23 |
-| 22 | [Little L \- Dave Lee Disco Reblend](https://open.spotify.com/track/4Oj81LU2q8AZN314hPXgs6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Little L \(Dave Lee Reblend\)](https://open.spotify.com/album/1pJyzqONInSTXoVj2Plivf) | 7:09 |
+| 22 | [Little L \- Dave Lee Disco Reblend](https://open.spotify.com/track/4Oj81LU2q8AZN314hPXgs6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [Dave 'Love' Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Little L \(Dave Lee Reblend\)](https://open.spotify.com/album/1pJyzqONInSTXoVj2Plivf) | 7:09 |
 | 23 | [Red Alert \- Grant Nelson Remix](https://open.spotify.com/track/1ATNxY4IPlW26VlonpFlvC) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ), [Grant Nelson](https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi) | [Red Alert \(Remixes\)](https://open.spotify.com/album/6dhwynehTzajp5htDFaIji) | 6:10 |
 | 24 | [Find My Release](https://open.spotify.com/track/2j2ZyiAMc9ysSLghbdM5Bj) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Find My Release](https://open.spotify.com/album/5190R0lVx5bMr4olEE32Dp) | 2:12 |
 | 25 | [You Don't Know Me](https://open.spotify.com/track/341hI5HWoGZLq8e9RP4A4J) | [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [You Don't Know Me](https://open.spotify.com/album/6vo6gLBekqqwGXbv1I801b) | 3:35 |

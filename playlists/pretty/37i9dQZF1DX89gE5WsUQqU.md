@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain]
 
 > 11월 13\-15, SPOTIFY HOUSE 서울 라인업의 셋리스트를 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,054 likes - 115 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,053 likes - 115 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain]
 | 97 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
 | 98 | [Floating \(feat\. youra\)](https://open.spotify.com/track/7aY6e4Gu5giiLtLReXyUf0) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [C](https://open.spotify.com/album/4wvtBBEkkjPHfyWXPkwmF6) | 3:52 |
 | 99 | [Gainism \(Live 2023\)](https://open.spotify.com/track/4aZQ1ug0m8B6BI4s40jb4L) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [LEE SEUNG YOON CONCERT \[DOCKING : LIFTOFF\] LIVE ALBUM](https://open.spotify.com/album/1DFOVlE21ZZ5xjWHXwBpds) | 4:34 |
-| 100 | [Unspoken](https://open.spotify.com/track/2berS6jFrr5FDB4XvqLgPr) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Unspoken](https://open.spotify.com/album/7za33muujtDaffMAvJq1Ld) | 4:17 |
+| 100 | [Unspoken \(2021\)](https://open.spotify.com/track/2berS6jFrr5FDB4XvqLgPr) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Unspoken \(2021\)](https://open.spotify.com/album/7za33muujtDaffMAvJq1Ld) | 4:17 |
 | 101 | [PunKanon](https://open.spotify.com/track/6SETwOgYmyKKjzz8uNT7SC) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PunKanon](https://open.spotify.com/album/6jEUsHZYpOkF8SBC1mHBYd) | 4:43 |
 | 102 | [POKZOOK TIME](https://open.spotify.com/track/7ok3LoeV3VwL4PKU24bMpv) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [PRE\-RELEASE 3RD ALBUM \[YEOK SEONG\]](https://open.spotify.com/album/7ISbHpHU4iLp3GiC2fi1oR) | 3:18 |
 | 103 | [Pricey Hangover](https://open.spotify.com/track/3gKTblszmIIYNo3lGFy2u3) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Shelter Of Dreams](https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ) | 3:00 |

@@ -1,6 +1,6 @@
 {
   "description": "Love whoever you want to love. ",
-  "num_followers": 144687,
+  "num_followers": 144733,
   "original_name": "Queer Love",
   "owner": {
     "name": "Spotify",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-02-08 23:31:20",
       "album": {
-        "name": "She Like (feat. Blanco)",
-        "url": "https://open.spotify.com/album/3tBzwRA9tDK27VQR9jkNIQ"
-      },
-      "artists": [
-        {
-          "name": "Darkoo",
-          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
-        },
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
-        }
-      ],
-      "duration_ms": 174953,
-      "name": "She Like (feat. Blanco)",
-      "url": "https://open.spotify.com/track/1oCbDWh54GvaE2lRlmJZcK"
-    },
-    {
-      "added_at": "2024-02-08 23:31:20",
-      "album": {
         "name": "The Yearbook",
         "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 259066,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/73BpWEFfUfgQINo81JJCDo"
+    },
+    {
+      "added_at": "2024-02-08 23:31:20",
+      "album": {
+        "name": "She Like (feat. Blanco)",
+        "url": "https://open.spotify.com/album/3tBzwRA9tDK27VQR9jkNIQ"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "duration_ms": 174953,
+      "name": "She Like (feat. Blanco)",
+      "url": "https://open.spotify.com/track/1oCbDWh54GvaE2lRlmJZcK"
     },
     {
       "added_at": "2024-02-08 23:31:20",
@@ -819,22 +819,18 @@
     {
       "added_at": "2024-02-08 23:31:20",
       "album": {
-        "name": "Can't Explain It (feat. Charlie Wilson)",
-        "url": "https://open.spotify.com/album/1kp5uBAPgJ1aN5xJjyEf8b"
+        "name": "Intractable",
+        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
       },
       "artists": [
         {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
-        },
-        {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+          "name": "Gina Young",
+          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
         }
       ],
-      "duration_ms": 189376,
-      "name": "Can't Explain It (feat. Charlie Wilson)",
-      "url": "https://open.spotify.com/track/3nEwza00qN1AECkVtPS4oq"
+      "duration_ms": 124653,
+      "name": "So-Called Str8 Grrrl",
+      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
     }
   ],
   "unique_name": "Queer Love",

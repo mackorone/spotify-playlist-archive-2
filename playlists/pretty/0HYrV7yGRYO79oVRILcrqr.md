@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,834 likes - 121 songs - 7 hr 57 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,834 likes - 123 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,5 +129,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 119 | [By My Side](https://open.spotify.com/track/410EwZWjgOO7vk15oSTyRr) | [Flying Fox Has No Wheels](https://open.spotify.com/artist/0FWaMdWX9FH2aoFYSUN20q) | [Echoes of the Abyss](https://open.spotify.com/album/0FINLOEwedIO7rTZbHQBMR) | 3:41 |
 | 120 | [The Last Thing That I Do](https://open.spotify.com/track/41O2sZgfLwvAkef5ElAdGF) | [Lime](https://open.spotify.com/artist/3CkGw7rwzPbj59O3hKH1SB) | [Chasing Ghosts](https://open.spotify.com/album/7oHcVV83L7tZdOvPWghwpq) | 4:33 |
 | 121 | [That's the Story of My Life](https://open.spotify.com/track/4Hy90CTI3ZGt6z6yvAtdGC) | [Exzenya](https://open.spotify.com/artist/5xpe1fPWU3vzvhx9iJcUc0) | [That's the Story of My Life](https://open.spotify.com/album/0i7NwC632Q4RF36P2xXJLh) | 4:12 |
+| 122 | [Wild Time](https://open.spotify.com/track/3g1kVvfuzqqQtwrR6jyTyZ) | [Raida M](https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em) | [Wild Time](https://open.spotify.com/album/2xUDxS8dnszV9XvAUTNUxb) | 1:42 |
+| 123 | [Hemen eta orain](https://open.spotify.com/track/1bE21zBzAvyD6jGZyIzANb) | [Aingeru](https://open.spotify.com/artist/0gkmeBApb5kPC4iV1pX9FL) | [Hemen eta orain](https://open.spotify.com/album/4FpcOFHpBINY7xLrUQbwAd) | 3:36 |
 
-Snapshot ID: `AAALn3C84Fyg4TdI8QdDMWnQpVJ6CFqf`
+Snapshot ID: `AAALobEcOP7Nuu1ulfBZlydgZmnybdF7`

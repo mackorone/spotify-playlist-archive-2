@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Muthoka
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,121 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,130 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wema](https://open.spotify.com/track/0E15zmK9lBCInCo576aeDD) | [nk\_njoroge](https://open.spotify.com/artist/306o9lJc6Kl3fBopcMGWm6) | [Wema](https://open.spotify.com/album/2q7OrlfGsSKKZTgpTsaeB7) | 2:23 |
-| 2 | [MALIIBU](https://open.spotify.com/track/5uqNpA6dsaskbV07O8SK1E) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp), [MAMBA.](https://open.spotify.com/artist/6KZu2ZoTRxp69dqLczrmja), [2TWENTYSIXX](https://open.spotify.com/artist/1XOZnGGwMeso1ppNRV6nBv), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [MALIIBU](https://open.spotify.com/album/6s2ouYlULEJydQWHZ4TMr1) | 2:18 |
+| 2 | [MALIBU](https://open.spotify.com/track/5uqNpA6dsaskbV07O8SK1E) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp), [MAMBA.](https://open.spotify.com/artist/60mQXLKXDOUKSqoiFWErlp), [2wentysixx](https://open.spotify.com/artist/7EzZxvZRR2cwbGP5W7116h), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [MALIBU](https://open.spotify.com/album/6s2ouYlULEJydQWHZ4TMr1) | 2:18 |
 | 3 | [WAWILI](https://open.spotify.com/track/4L9ybT7YEVF3kwstzewJdo) | [Nahsh kariuki Official](https://open.spotify.com/artist/5mzYpiJA39D2iFcB3ERAfj) | [WAWILI](https://open.spotify.com/album/0vMtWDCRcs7QbygsiNpV6q) | 2:15 |
 | 4 | [Reasons](https://open.spotify.com/track/460RSpd9DRIWWbBYi57WpF) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Off My Chest](https://open.spotify.com/album/3UkjFytj440El2a712oDX9) | 4:24 |
 | 5 | [Bad Decision](https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Bad Decision](https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A) | 3:31 |

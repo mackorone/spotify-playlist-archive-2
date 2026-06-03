@@ -1,6 +1,6 @@
 {
   "description": "Listen to <a href=\"spotify:artist:3ABaec4jjl95VqmG1iD4k2\">Green Velvet</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 74115,
+  "num_followers": 74132,
   "original_name": "Green Velvet's track IDs",
   "owner": {
     "name": "Spotify",
@@ -280,11 +280,11 @@
       },
       "artists": [
         {
-          "name": "Samm (BE)",
+          "name": "Samm",
           "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
         },
         {
-          "name": "Ajna",
+          "name": "Ajna (BE)",
           "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
         }
       ],

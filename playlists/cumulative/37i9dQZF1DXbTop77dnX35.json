@@ -67639,6 +67639,36 @@
     },
     {
       "album": {
+        "name": "MALIBU",
+        "url": "https://open.spotify.com/album/6s2ouYlULEJydQWHZ4TMr1"
+      },
+      "artists": [
+        {
+          "name": "Muthoka",
+          "url": "https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp"
+        },
+        {
+          "name": "MAMBA.",
+          "url": "https://open.spotify.com/artist/60mQXLKXDOUKSqoiFWErlp"
+        },
+        {
+          "name": "2wentysixx",
+          "url": "https://open.spotify.com/artist/7EzZxvZRR2cwbGP5W7116h"
+        },
+        {
+          "name": "AUGUST IV",
+          "url": "https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "MALIBU",
+      "url": "https://open.spotify.com/track/5uqNpA6dsaskbV07O8SK1E"
+    },
+    {
+      "album": {
         "name": "JUST RE'D UP 3",
         "url": "https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69"
       },
@@ -67662,36 +67692,6 @@
       "duration_ms": 193419,
       "name": "MALIBU - WITH TEE GRIZZLEY & G HERBO",
       "url": "https://open.spotify.com/track/72P14Y3mB5PUSEHAnBDIQ4"
-    },
-    {
-      "album": {
-        "name": "MALIIBU",
-        "url": "https://open.spotify.com/album/6s2ouYlULEJydQWHZ4TMr1"
-      },
-      "artists": [
-        {
-          "name": "Muthoka",
-          "url": "https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp"
-        },
-        {
-          "name": "MAMBA.",
-          "url": "https://open.spotify.com/artist/6KZu2ZoTRxp69dqLczrmja"
-        },
-        {
-          "name": "2TWENTYSIXX",
-          "url": "https://open.spotify.com/artist/1XOZnGGwMeso1ppNRV6nBv"
-        },
-        {
-          "name": "AUGUST IV",
-          "url": "https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T"
-        }
-      ],
-      "date_added": "2026-05-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138666,
-      "name": "MALIIBU",
-      "url": "https://open.spotify.com/track/5uqNpA6dsaskbV07O8SK1E"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \uc870\uc218\ubbf8(Sumi Jo)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5718,
+  "num_followers": 5719,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
         }
       ],
-      "duration_ms": 408960,
-      "name": "Miroirs, M. 43: III. Une barque sur l'oc\u00e9an",
-      "url": "https://open.spotify.com/track/7tqqjaAAS8K1Stnz5EpGVl"
+      "duration_ms": 398613,
+      "name": "Pavane pour une infante d\u00e9funte, M. 19",
+      "url": "https://open.spotify.com/track/2IDo6WzaIJ6hDh4i0fEmzJ"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
         }
       ],
-      "duration_ms": 398613,
-      "name": "Pavane pour une infante d\u00e9funte, M. 19",
-      "url": "https://open.spotify.com/track/2IDo6WzaIJ6hDh4i0fEmzJ"
+      "duration_ms": 408960,
+      "name": "Miroirs, M. 43: III. Une barque sur l'oc\u00e9an",
+      "url": "https://open.spotify.com/track/7tqqjaAAS8K1Stnz5EpGVl"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -411,26 +411,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Chopin: Piano Concerto No. 1; Ballades (Deluxe)",
-        "url": "https://open.spotify.com/album/0jvv6FS3zxUe56530Gjq4d"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Seong-Jin Cho",
-          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
-        }
-      ],
-      "duration_ms": 469613,
-      "name": "Ballade No. 3 in A Flat Major, Op. 47",
-      "url": "https://open.spotify.com/track/6dcLNkvKE7zsCUqsMYM0eT"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "Mozart: Die Zauberfl\u00f6te",
         "url": "https://open.spotify.com/album/0e8ebBTgGPU7a1KSUPm1fA"
       },
@@ -471,6 +451,26 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Chopin: Piano Concerto No. 1; Ballades (Deluxe)",
+        "url": "https://open.spotify.com/album/0jvv6FS3zxUe56530Gjq4d"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "duration_ms": 469613,
+      "name": "Ballade No. 3 in A Flat Major, Op. 47",
+      "url": "https://open.spotify.com/track/6dcLNkvKE7zsCUqsMYM0eT"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Ravel: The Complete Solo Piano Works",
         "url": "https://open.spotify.com/album/2I4Npa3S0lc14yerFPlLOj"
       },
@@ -507,6 +507,34 @@
       "duration_ms": 156160,
       "name": "Suite No. 7 in B-Flat Major, HWV 440: III. Sarabande",
       "url": "https://open.spotify.com/track/3wEz4LwtG1Wdi8qppCukdL"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Rachmaninoff: Piano Concerto No. 3 (Live from the 2022 Cliburn Competition)",
+        "url": "https://open.spotify.com/album/0PTxe1JTvE79g8q92tjV0w"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        },
+        {
+          "name": "Fort Worth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/25iprcvBsfduvCePYhpsLX"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "duration_ms": 1019760,
+      "name": "Piano Concerto No. 3 in D Minor, Op. 30: I. Allegro ma non tanto - Live from the 2022 Cliburn Competition",
+      "url": "https://open.spotify.com/track/7my1FIiqlH2WOexZZzT2FQ"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -559,34 +587,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Rachmaninoff: Piano Concerto No. 3 (Live from the 2022 Cliburn Competition)",
-        "url": "https://open.spotify.com/album/0PTxe1JTvE79g8q92tjV0w"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Yunchan Lim",
-          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
-        },
-        {
-          "name": "Fort Worth Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/25iprcvBsfduvCePYhpsLX"
-        },
-        {
-          "name": "Marin Alsop",
-          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
-        }
-      ],
-      "duration_ms": 1019760,
-      "name": "Piano Concerto No. 3 in D Minor, Op. 30: I. Allegro ma non tanto - Live from the 2022 Cliburn Competition",
-      "url": "https://open.spotify.com/track/7my1FIiqlH2WOexZZzT2FQ"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "The Forestella",
         "url": "https://open.spotify.com/album/6hs2qZO4ybDSIudDKpgxxU"
       },
@@ -623,6 +623,34 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Rachmaninoff: Piano Concerto No. 3 (Live from the 2022 Cliburn Competition)",
+        "url": "https://open.spotify.com/album/0PTxe1JTvE79g8q92tjV0w"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        },
+        {
+          "name": "Fort Worth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/25iprcvBsfduvCePYhpsLX"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "duration_ms": 653320,
+      "name": "Piano Concerto No. 3 in D Minor, Op. 30: II. Intermezzo. Adagio - Live from the 2022 Cliburn Competition",
+      "url": "https://open.spotify.com/track/34aRAR8kZkj4rdIsTJuiuQ"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Feel My Rhythm (Orchestra Version)",
         "url": "https://open.spotify.com/album/1HOaPVpRI3AHhrQt9Kdr30"
       },
@@ -655,34 +683,6 @@
       "duration_ms": 136200,
       "name": "12 Etudes, Op. 25: No. 1 in A-Flat Major \"Aeolian Harp\"",
       "url": "https://open.spotify.com/track/27Tl9HCe5JKqqKVD9Mko3l"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Rachmaninoff: Piano Concerto No. 3 (Live from the 2022 Cliburn Competition)",
-        "url": "https://open.spotify.com/album/0PTxe1JTvE79g8q92tjV0w"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Yunchan Lim",
-          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
-        },
-        {
-          "name": "Fort Worth Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/25iprcvBsfduvCePYhpsLX"
-        },
-        {
-          "name": "Marin Alsop",
-          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
-        }
-      ],
-      "duration_ms": 653320,
-      "name": "Piano Concerto No. 3 in D Minor, Op. 30: II. Intermezzo. Adagio - Live from the 2022 Cliburn Competition",
-      "url": "https://open.spotify.com/track/34aRAR8kZkj4rdIsTJuiuQ"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Rachmaninoff, A Reflection",
+        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yekwon Sunwoo",
+          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
+        }
+      ],
+      "duration_ms": 41733,
+      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
+      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Pure Opera Vol. 2",
         "url": "https://open.spotify.com/album/3ebREGFHsjpJCD0wx4ghvO"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 173880,
       "name": "Die Zauberfl\u00f6te, K.620 / Act 2: \"Der H\u00f6lle Rache kocht in meinem Herzen\"",
       "url": "https://open.spotify.com/track/1LS8z44ljIsRXJCDcIKVsg"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Rachmaninoff, A Reflection",
-        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
-      },
-      "artists": [
-        {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Yekwon Sunwoo",
-          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
-        }
-      ],
-      "duration_ms": 41733,
-      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
-      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1635,38 +1635,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "KAI ON MUSICAL",
-        "url": "https://open.spotify.com/album/04B5WAQquyirwfdtBWrs6N"
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT"
       },
       "artists": [
         {
-          "name": "Kai",
-          "url": "https://open.spotify.com/artist/5zCtihKT8IsDqVS5WBbqHD"
-        }
-      ],
-      "duration_ms": 212515,
-      "name": "The Steps Of Tomorrow",
-      "url": "https://open.spotify.com/track/4SGvRalrhEY1s389vbLK0x"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Espero 1st, Romance on Classic",
-        "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
-      },
-      "artists": [
-        {
-          "name": "Espero",
-          "url": "https://open.spotify.com/artist/4721MtdS4rhVXrjxjchwLF"
+          "name": "Denis Sungho",
+          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
         },
         {
-          "name": "KIM HOJOONG",
-          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+          "name": "COAST82",
+          "url": "https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL"
         }
       ],
-      "duration_ms": 236400,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
+      "duration_ms": 279528,
+      "name": "Island baby",
+      "url": "https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1695,22 +1679,38 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT"
+        "name": "Espero 1st, Romance on Classic",
+        "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
       },
       "artists": [
         {
-          "name": "Denis Sungho",
-          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
+          "name": "Espero",
+          "url": "https://open.spotify.com/artist/4721MtdS4rhVXrjxjchwLF"
         },
         {
-          "name": "COAST82",
-          "url": "https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL"
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
         }
       ],
-      "duration_ms": 279528,
-      "name": "Island baby",
-      "url": "https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k"
+      "duration_ms": 236400,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "KAI ON MUSICAL",
+        "url": "https://open.spotify.com/album/04B5WAQquyirwfdtBWrs6N"
+      },
+      "artists": [
+        {
+          "name": "Kai",
+          "url": "https://open.spotify.com/artist/5zCtihKT8IsDqVS5WBbqHD"
+        }
+      ],
+      "duration_ms": 212515,
+      "name": "The Steps Of Tomorrow",
+      "url": "https://open.spotify.com/track/4SGvRalrhEY1s389vbLK0x"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Enrique Granados \u2013 Goyescas",
         "url": "https://open.spotify.com/album/75PVaNZ1N9kSQ085p5ABAs"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 412120,
       "name": "Goyescas (Suite): No. 4, Quejas o la maja y el ruise\u00f1or",
       "url": "https://open.spotify.com/track/6OHAz2t0UYmbMVvLQBQK9O"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
-      },
-      "artists": [
-        {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Camellia",
-      "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1839,6 +1839,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Camellia",
+      "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Esthesia",
         "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 243640,
       "name": "Esthesia",
       "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
-      },
-      "artists": [
-        {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Remembering That Time",
+        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
+      },
+      "artists": [
+        {
+          "name": "Jung Hwan Ho",
+          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
+        },
+        {
+          "name": "Jisoo Sohn",
+          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
+        }
+      ],
+      "duration_ms": 267986,
+      "name": "Remembering That Time",
+      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "psalms",
         "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
       },
@@ -1951,26 +1971,6 @@
       "duration_ms": 254226,
       "name": "his days are like a passing shadow I",
       "url": "https://open.spotify.com/track/5AVrdzGQuarou1dHpnqJqQ"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Remembering That Time",
-        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
-      },
-      "artists": [
-        {
-          "name": "Jung Hwan Ho",
-          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
-        },
-        {
-          "name": "Jisoo Sohn",
-          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
-        }
-      ],
-      "duration_ms": 267986,
-      "name": "Remembering That Time",
-      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
     },
     {
       "added_at": "2026-05-07 06:03:41",

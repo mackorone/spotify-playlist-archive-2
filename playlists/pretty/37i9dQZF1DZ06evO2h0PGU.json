@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 54352,
+  "num_followers": 54356,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAAC7geqfW+yXdCIaSm/NWTJ7",
+  "snapshot_id": "ahzLgAAAAAD5cuax2XQgfllbGGapw663",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mosquito (Deluxe)",
-        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 288546,
-      "name": "Despair",
-      "url": "https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy"
+      "duration_ms": 250133,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/63Kdr7jLTZxHr7MgjMiKmh"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+        "name": "Mosquito (Deluxe)",
+        "url": "https://open.spotify.com/album/1LQZp37z82iTVxillq6K59"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 250133,
-      "name": "Phenomena",
-      "url": "https://open.spotify.com/track/63Kdr7jLTZxHr7MgjMiKmh"
+      "duration_ms": 288546,
+      "name": "Despair",
+      "url": "https://open.spotify.com/track/79zhandwZPrlTWemEpIgxy"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 313386,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show Your Bones",
         "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 171426,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/6tmlwJjSw8QLZnBjwZ4Mej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 313386,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
-        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 197759,
-      "name": "Thirteen - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yeah Yeah Yeahs",
         "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 140800,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/5Ogny8gvGtJxEqpO8qByVV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 197759,
+      "name": "Thirteen - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Faces",
-      "url": "https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yeah Yeah Yeahs",
         "url": "https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 120773,
       "name": "Art Star",
       "url": "https://open.spotify.com/track/4qGVGT2JQbwUk9XzUKhnNY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/6Yw3IyoSf5S05g1nTB6woC"
     },
     {
       "added_at": null,

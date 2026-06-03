@@ -1,6 +1,6 @@
 {
   "description": "Release the bats... The Cure on cover.",
-  "num_followers": 956944,
+  "num_followers": 957025,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "Floating Into The Night",
-        "url": "https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx"
-      },
-      "artists": [
-        {
-          "name": "Julee Cruise",
-          "url": "https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX"
-        }
-      ],
-      "duration_ms": 321853,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "Some Great Reward (Deluxe)",
         "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 381920,
       "name": "Blasphemous Rumours",
       "url": "https://open.spotify.com/track/7oQX82XgUBDhSbpMSksG12"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "Floating Into The Night",
+        "url": "https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx"
+      },
+      "artists": [
+        {
+          "name": "Julee Cruise",
+          "url": "https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX"
+        }
+      ],
+      "duration_ms": 321853,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5"
     },
     {
       "added_at": "2026-03-20 04:00:51",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-03-20 04:00:51",
       "album": {
-        "name": "All About Eve",
-        "url": "https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki"
-      },
-      "artists": [
-        {
-          "name": "All About Eve",
-          "url": "https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR"
-        }
-      ],
-      "duration_ms": 265573,
-      "name": "Flowers In Our Hair",
-      "url": "https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S"
-    },
-    {
-      "added_at": "2026-03-20 04:00:51",
-      "album": {
         "name": "In Flickers",
         "url": "https://open.spotify.com/album/3bBAVkxSwk1ZzNH1873nUI"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 297330,
       "name": "A Failure",
       "url": "https://open.spotify.com/track/7m7tomE2aqrzEBuVpflp2l"
+    },
+    {
+      "added_at": "2026-03-20 04:00:51",
+      "album": {
+        "name": "All About Eve",
+        "url": "https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki"
+      },
+      "artists": [
+        {
+          "name": "All About Eve",
+          "url": "https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR"
+        }
+      ],
+      "duration_ms": 265573,
+      "name": "Flowers In Our Hair",
+      "url": "https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S"
     },
     {
       "added_at": "2026-03-20 04:00:51",

@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 141495,
+  "num_followers": 141484,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "The Great Awakening",
-        "url": "https://open.spotify.com/album/1ji5VvsY621bB4egsnt2KN"
-      },
-      "artists": [
-        {
-          "name": "Johnny Goth",
-          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
-        }
-      ],
-      "duration_ms": 190728,
-      "name": "Can't Get You Out of My Head",
-      "url": "https://open.spotify.com/track/4PCCRQQOwrrRbkDTzxXl7h"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Call Me The Witch",
         "url": "https://open.spotify.com/album/0yfHcJzLqipWIvB8KPHTnz"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 186151,
       "name": "Call Me The Witch",
       "url": "https://open.spotify.com/track/3xQG9PIAhv20rO1tusH380"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "The Great Awakening",
+        "url": "https://open.spotify.com/album/1ji5VvsY621bB4egsnt2KN"
+      },
+      "artists": [
+        {
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+        }
+      ],
+      "duration_ms": 190728,
+      "name": "Can't Get You Out of My Head",
+      "url": "https://open.spotify.com/track/4PCCRQQOwrrRbkDTzxXl7h"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "head, shoulders, knees and ankles",
-        "url": "https://open.spotify.com/album/2q3cjxX6rCpaYJSPaiTGpN"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 192780,
-      "name": "head, shoulders, knees and ankles",
-      "url": "https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Noise Floor (Rarities: 1998-2005)",
         "url": "https://open.spotify.com/album/4ks71ffhGPem4EPQEyGj1D"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 183240,
       "name": "Devil Town",
       "url": "https://open.spotify.com/track/4eJ6pWefeAQjpMKTY6bwXV"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "head, shoulders, knees and ankles",
+        "url": "https://open.spotify.com/album/2q3cjxX6rCpaYJSPaiTGpN"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 192780,
+      "name": "head, shoulders, knees and ankles",
+      "url": "https://open.spotify.com/track/7sDf2g3AxsuAQKqghO8Ubg"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Vampyr",
-        "url": "https://open.spotify.com/album/40XJm4eajWMokXnK4yRTd3"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 246292,
-      "name": "Vampyr",
-      "url": "https://open.spotify.com/track/56nBvr2fv2Cqhuul1Njjpl"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Season of Freaks",
         "url": "https://open.spotify.com/album/4WGqGwUleATixVRxGRvKKd"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
+        "name": "Vampyr",
+        "url": "https://open.spotify.com/album/40XJm4eajWMokXnK4yRTd3"
       },
       "artists": [
         {
-          "name": "Editors",
-          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
         }
       ],
-      "duration_ms": 268186,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
+      "duration_ms": 246292,
+      "name": "Vampyr",
+      "url": "https://open.spotify.com/track/56nBvr2fv2Cqhuul1Njjpl"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -743,6 +727,22 @@
       "duration_ms": 184893,
       "name": "Highly Suspicious",
       "url": "https://open.spotify.com/track/5TF4OlQZ2vD7qWinHDfO1j"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/48ULeYOIxptWfLQdebRfVB"
+      },
+      "artists": [
+        {
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/2N0vFGHku7wNk66Aw5HZSR"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Vampire Again",
-        "url": "https://open.spotify.com/album/5EvYLfpCjwAq8Uc2ivH4uZ"
-      },
-      "artists": [
-        {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
-        }
-      ],
-      "duration_ms": 242959,
-      "name": "Vampire Again",
-      "url": "https://open.spotify.com/track/5GX3fBrtiHlPBo93yRoECA"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Transangelic Exodus",
         "url": "https://open.spotify.com/album/0qH9x299SJCF03WuVXgXAN"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 289000,
       "name": "Suck the Blood from My Wound",
       "url": "https://open.spotify.com/track/08udle8t4dGZzQ67AEs8X4"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "Vampire Again",
+        "url": "https://open.spotify.com/album/5EvYLfpCjwAq8Uc2ivH4uZ"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 242959,
+      "name": "Vampire Again",
+      "url": "https://open.spotify.com/track/5GX3fBrtiHlPBo93yRoECA"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "To Lose My Life ...",
-        "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
-      },
-      "artists": [
-        {
-          "name": "White Lies",
-          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "To Lose My Life",
-      "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Never Truly Happy",
         "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 136459,
       "name": "delulu",
       "url": "https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "To Lose My Life ...",
+        "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
+      },
+      "artists": [
+        {
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "To Lose My Life",
+      "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
     },
     {
       "added_at": "2026-04-24 13:27:34",

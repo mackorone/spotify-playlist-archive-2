@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 144049,
+  "num_followers": 144060,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAADzkblZHO4ydqyTxDa71yQQ",
+  "snapshot_id": "ahzLgAAAAABeBPry7VMGNWGH9Lp2o6Fd",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 213265,
-      "name": "Lo Que Pudo Ser",
-      "url": "https://open.spotify.com/track/3BONaN9ZGSecM2fJX8CVds"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mustang 65'",
         "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 194100,
       "name": "Feria en el Sobre",
       "url": "https://open.spotify.com/track/65C6XLTjQ1sbmldzcUVNi1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 213265,
+      "name": "Lo Que Pudo Ser",
+      "url": "https://open.spotify.com/track/3BONaN9ZGSecM2fJX8CVds"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Versos del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/70VcKSFyh5oFttLl6M6lkK"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 253196,
-      "name": "Versos del Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4s0BOQ0BtJjts20hO2ii1D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Los Que Conocen El Rollo",
         "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
       },
@@ -399,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Versos del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/70VcKSFyh5oFttLl6M6lkK"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 253196,
+      "name": "Versos del Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4s0BOQ0BtJjts20hO2ii1D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Mundo Es Tuyo (Inspired by Clika The Movie)",
         "url": "https://open.spotify.com/album/483rY0KgR09KOId3ohGwiY"
       },
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 181920,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/0uCptU5AmxgXn3yUVHG35z"
+      "duration_ms": 200700,
+      "name": "No Quiero Amores",
+      "url": "https://open.spotify.com/track/5WMyImX0GHhuZGKO8WSU4w"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 200700,
-      "name": "No Quiero Amores",
-      "url": "https://open.spotify.com/track/5WMyImX0GHhuZGKO8WSU4w"
+      "duration_ms": 181920,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/0uCptU5AmxgXn3yUVHG35z"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 229499,
+      "name": "Se Sufre Pa Merecer",
+      "url": "https://open.spotify.com/track/7cbkYZcMg5cddXl9MWYsNq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Line Up",
         "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 157909,
       "name": "De La Calle (Remix)",
       "url": "https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 229499,
-      "name": "Se Sufre Pa Merecer",
-      "url": "https://open.spotify.com/track/7cbkYZcMg5cddXl9MWYsNq"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ni Que Fuera",
+        "url": "https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Ni Que Fuera",
+      "url": "https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Va Pa' Largo",
         "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 164925,
       "name": "Cupcake Factory",
       "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ni Que Fuera",
-        "url": "https://open.spotify.com/album/4MaldveQZEyhPBcp3QEzxO"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Ni Que Fuera",
-      "url": "https://open.spotify.com/track/7a0gnNjYofOgM3ROE0WIsF"
     },
     {
       "added_at": null,

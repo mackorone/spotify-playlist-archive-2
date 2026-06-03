@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,757 songs - 3 day 18 hr 0 min
+1,758 songs - 3 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -532,6 +532,7 @@
 | [Gabriela \- Spotify Singles](https://open.spotify.com/track/5zjQfzkf1umWY3T98RtX8b) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Gabriela \- Spotify Singles](https://open.spotify.com/album/72XfFKK5lNKEbhiPRxXyd3) | 3:04 | 2025-12-11 | 2026-02-13 |
 | [Garden Of Eden](https://open.spotify.com/track/4mUR5Tv0CvJtpmnUtzeIgd) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:59 | 2025-03-06 | 2025-04-18 |
 | [Ge inte upp på mig](https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Ge inte upp på mig](https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ) | 3:24 | 2024-09-26 | 2025-01-10 |
+| [Gecko](https://open.spotify.com/track/1pykMNRzTpl2C7vxfmR1Pc) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [How dare you tryna love me?](https://open.spotify.com/album/6XDkigtRmlZV90EjNAq9TW) | 2:46 | 2026-06-02 |  |
 | [Gemini](https://open.spotify.com/track/7sWJH0BFbKtV81TWb82lke) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT), [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Gemini](https://open.spotify.com/album/7I7f1XESFbZbMvURZ3h7k9) | 4:44 | 2024-12-05 | 2025-01-31 |
 | [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-06-27 | 2024-08-02 |
 | [Genom mina fingrar](https://open.spotify.com/track/2Qog40ZTyO7ZfLz56qdlXp) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW), [Linus Kajman](https://open.spotify.com/artist/481GuwBdWn7VytCBh3BDjb) | [Genom mina fingrar](https://open.spotify.com/album/4RhsjMYovZgmGbNoJhI29z) | 2:34 | 2025-03-24 | 2025-04-18 |
@@ -1561,7 +1562,7 @@
 | [Tiden läker alla sår](https://open.spotify.com/track/4s8XAlMsn5IE428rKUR6iz) | [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tiden läker alla sår](https://open.spotify.com/album/1mLO3srxAyXuYqrD7Fw36Q) | 3:03 | 2025-10-02 | 2026-01-15 |
 | [Tiden läker alla sår](https://open.spotify.com/track/2sfzzzMtqw04ZnJMD6ZJfL) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [SAD ROMANCE](https://open.spotify.com/album/4E7nHQEGf62EL75kQ22doF) | 2:54 | 2024-10-17 | 2024-12-20 |
 | [TIED UP](https://open.spotify.com/track/0D0sp36etAe94NBYV9N2Il) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [TIED UP](https://open.spotify.com/album/5ynQ4yVCht4g8b3dBn2CwG) | 2:23 | 2024-06-27 | 2024-07-19 |
-| [Tied Up](https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Tied Up](https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh) | 2:56 | 2026-05-07 |  |
+| [Tied Up](https://open.spotify.com/track/7xS2v5Ww3Bz1SDJ5jPumws) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Tied Up](https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh) | 2:56 | 2026-05-07 |  |
 | [Til It Feels Alright](https://open.spotify.com/track/3K8EYQZ0rYcQgmnkXxPv78) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Til It Feels Alright](https://open.spotify.com/album/3mkBEDbWwmENCObd7hcVWk) | 2:25 | 2024-07-04 | 2024-08-23 |
 | [Tillbaka till dig](https://open.spotify.com/track/0Vnw5tTxEIa3PkMrLeUXhc) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Tillbaka till dig](https://open.spotify.com/album/5RqDdFG5yahgrDOy7RRCQO) | 2:36 | 2026-03-26 |  |
 | [Tills natt blir dag](https://open.spotify.com/track/39O4z0CnFqAnE781FhYHN2) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [1000 år av regn](https://open.spotify.com/album/4at4SVxyTWuvH6797oSgJd) | 3:18 | 2025-04-10 | 2025-05-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: JPEGMAFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,325,981 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,325,972 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 31 | [AMERICAN EAGLE](https://open.spotify.com/track/6FnQf9NNBkZFEHGMNYT8AJ) | [Jared Mattson](https://open.spotify.com/artist/1NjJTKQVaLKMTIia96FKaV), [Ruban Nielson](https://open.spotify.com/artist/5QST2C8aInIbLf01RuobjM), [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [AMERICAN EAGLE](https://open.spotify.com/album/0SDRBWdDuwMYXx3lqy4IVO) | 2:25 |
 | 32 | [Rest of Your Life](https://open.spotify.com/track/6aXp5uzptSa56dRBZDp7gG) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der) | [Rest of Your Life](https://open.spotify.com/album/1kqqUsAXIPd4gHNQnus7AY) | 3:52 |
 | 33 | [Tiroteo](https://open.spotify.com/track/1KaBfgt21SXIoIdkmCVSvH) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Tiroteo](https://open.spotify.com/album/0mNAQrOqBedUsrgonzxGmp) | 2:17 |
-| 34 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
+| 34 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
 | 35 | [STORM I](https://open.spotify.com/track/75kRRY9tR1RsymoFSbTFJB) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 3:29 |
 | 36 | [babygirl](https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [babygirl](https://open.spotify.com/album/31CPIp0vMvr5UNB0xvnMiL) | 2:27 |
 | 37 | [Makwande](https://open.spotify.com/track/2R1HELgpU9wWWGDkM4upw5) | [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0), [Toya Delazy](https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5) | [Loud Bloom](https://open.spotify.com/album/2I8Y2r289lu5s26k50N9GL) | 5:30 |

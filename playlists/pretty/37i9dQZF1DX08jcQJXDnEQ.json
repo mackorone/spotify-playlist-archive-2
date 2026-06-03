@@ -1,6 +1,6 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 1423211,
+  "num_followers": 1423518,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-11-24 12:45:57",
       "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Symphony Of Destruction",
-      "url": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ"
-    },
-    {
-      "added_at": "2025-11-24 12:45:57",
-      "album": {
         "name": "Facelift",
         "url": "https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 151733,
       "name": "We Die Young",
       "url": "https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ"
+    },
+    {
+      "added_at": "2025-11-24 12:45:57",
+      "album": {
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Symphony Of Destruction",
+      "url": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ"
     },
     {
       "added_at": "2025-11-24 12:45:57",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-11-24 12:45:57",
       "album": {
-        "name": "La Sexorcisto: Devil Music Volume 1",
-        "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
-      },
-      "artists": [
-        {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
-        }
-      ],
-      "duration_ms": 381640,
-      "name": "Welcome To Planet Motherfucker/ Psychoholic Slag",
-      "url": "https://open.spotify.com/track/5x8YLkZvKQDmZsD4cnCO06"
-    },
-    {
-      "added_at": "2025-11-24 12:45:57",
-      "album": {
         "name": "Burn My Eyes",
         "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 245600,
       "name": "Old",
       "url": "https://open.spotify.com/track/5oi4f6KLBORQhQoYNhaPmQ"
+    },
+    {
+      "added_at": "2025-11-24 12:45:57",
+      "album": {
+        "name": "La Sexorcisto: Devil Music Volume 1",
+        "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
+      },
+      "artists": [
+        {
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        }
+      ],
+      "duration_ms": 381640,
+      "name": "Welcome To Planet Motherfucker/ Psychoholic Slag",
+      "url": "https://open.spotify.com/track/5x8YLkZvKQDmZsD4cnCO06"
     },
     {
       "added_at": "2025-11-24 12:45:57",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-11-24 12:45:57",
       "album": {
-        "name": "Bloody Kisses",
-        "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 675653,
-      "name": "Black No. 1 (Little Miss Scare -All)",
-      "url": "https://open.spotify.com/track/6HtFpG2WX3TfB8oLLua3XJ"
-    },
-    {
-      "added_at": "2025-11-24 12:45:57",
-      "album": {
         "name": "The More Things Change...",
         "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 254666,
       "name": "Ten Ton Hammer",
       "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
+    },
+    {
+      "added_at": "2025-11-24 12:45:57",
+      "album": {
+        "name": "Bloody Kisses",
+        "url": "https://open.spotify.com/album/127mCJhPsHAB33rOYybK04"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 675653,
+      "name": "Black No. 1 (Little Miss Scare -All)",
+      "url": "https://open.spotify.com/track/6HtFpG2WX3TfB8oLLua3XJ"
     },
     {
       "added_at": "2025-11-24 12:45:57",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-11-24 12:45:57",
       "album": {
-        "name": "Clawfinger",
-        "url": "https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf"
-      },
-      "artists": [
-        {
-          "name": "Clawfinger",
-          "url": "https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY"
-        }
-      ],
-      "duration_ms": 231720,
-      "name": "Biggest & the Best",
-      "url": "https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb"
-    },
-    {
-      "added_at": "2025-11-24 12:45:57",
-      "album": {
         "name": "The Essential Stabbing Westward",
         "url": "https://open.spotify.com/album/1K9DEVSr5iG2W72escDZV7"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 253573,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/561spezvXFVnAOYoSv4Bxy"
+    },
+    {
+      "added_at": "2025-11-24 12:45:57",
+      "album": {
+        "name": "Clawfinger",
+        "url": "https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf"
+      },
+      "artists": [
+        {
+          "name": "Clawfinger",
+          "url": "https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY"
+        }
+      ],
+      "duration_ms": 231720,
+      "name": "Biggest & the Best",
+      "url": "https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb"
     },
     {
       "added_at": "2025-11-24 12:45:57",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-11-24 12:45:57",
       "album": {
-        "name": "Persistence Of Time",
-        "url": "https://open.spotify.com/album/5dTWuMi1JUNNAgqdOfBsuQ"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "Got The Time",
-      "url": "https://open.spotify.com/track/1bcioXEBfobgGko8dsexRr"
-    },
-    {
-      "added_at": "2025-11-24 12:45:57",
-      "album": {
         "name": "Powertrip",
         "url": "https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 355933,
       "name": "Space Lord",
       "url": "https://open.spotify.com/track/09bkkXFpOVi3aPLvByyWD5"
+    },
+    {
+      "added_at": "2025-11-24 12:45:57",
+      "album": {
+        "name": "Persistence Of Time",
+        "url": "https://open.spotify.com/album/5dTWuMi1JUNNAgqdOfBsuQ"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Got The Time",
+      "url": "https://open.spotify.com/track/1bcioXEBfobgGko8dsexRr"
     },
     {
       "added_at": "2025-11-24 12:45:57",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-11-24 12:45:57",
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/3EZeqOrysyyuUXoJv0Vy5K"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/7cWBlhe7dt3nHipbII25m1"
-    },
-    {
-      "added_at": "2025-11-24 12:45:57",
-      "album": {
         "name": "Powertrip",
         "url": "https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 211440,
       "name": "Powertrip",
       "url": "https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK"
+    },
+    {
+      "added_at": "2025-11-24 12:45:57",
+      "album": {
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/3EZeqOrysyyuUXoJv0Vy5K"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 153800,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/7cWBlhe7dt3nHipbII25m1"
     }
   ],
   "unique_name": "90s Metal Classics",

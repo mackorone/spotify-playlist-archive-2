@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjo7kaCGuCU.md) - [plain]
 
 > Celebrating 20 years of R&B from around the world
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,335 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,496 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjo7kaCGuCU.md) - [plain]
 | 89 | [SEM BARULHO](https://open.spotify.com/track/3AQLGfa21U6RuOlbeAwblf) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw) | [REAL R&B](https://open.spotify.com/album/2q2nL2eRh5JFYIFZqOo52j) | 2:42 |
 | 90 | [4 Nothin'](https://open.spotify.com/track/6oqdO9TLmLOv7dt7GIq0R4) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/42PYBhtsi4gxaHHKKXk4WB) | 3:29 |
 | 91 | [OMG](https://open.spotify.com/track/08Le4mCaGYbQrmfjtKThnO) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL \(DELUXE\)](https://open.spotify.com/album/4tYHaMdTM3vODsWyOtY284) | 3:14 |
-| 92 | [Licor](https://open.spotify.com/track/3pPudCfrDQWTnMZsYzIs7N) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Licor](https://open.spotify.com/album/6a9GBHSCTEoyGopwFQOj19) | 4:17 |
+| 92 | [Licor](https://open.spotify.com/track/3pPudCfrDQWTnMZsYzIs7N) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Licor](https://open.spotify.com/album/6a9GBHSCTEoyGopwFQOj19) | 4:17 |
 | 93 | [With U](https://open.spotify.com/track/5qWBjBFvcZ2zWjmGPUUErB) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [With U](https://open.spotify.com/album/73Tky1qFIK781fFTwVkfCj) | 4:28 |
 | 94 | [Good Together](https://open.spotify.com/track/0j0CIOtClbfH2yiMOya6h0) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Dangerous \(Deluxe\)](https://open.spotify.com/album/69nKR9FuDEnEw9b528RH1l) | 3:59 |
 | 95 | [quel type de vibe?](https://open.spotify.com/track/7iospt7wmXY3BdoHsK666Y) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [quel type de vibe?](https://open.spotify.com/album/5jNKxTnotbnb8azNL0jm3l) | 1:56 |

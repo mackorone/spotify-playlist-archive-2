@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,494 songs - 10 day 0 hr 0 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 279 likes - 4,496 songs - 10 day 0 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4502,5 +4502,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4492 | [The Garden](https://open.spotify.com/track/4WjDvfgvB7M6K7sH9K5gN6) | [The Ineffectuals](https://open.spotify.com/artist/4Z4Qk229QEZ54SSuYUNcUT) | [The Garden](https://open.spotify.com/album/50oev5lys8ubDpTo5oCxJ7) | 2:10 |
 | 4493 | [Paraíso Contigo](https://open.spotify.com/track/6tFgPbQpQ5VbAFFgqwcMdq) | [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi) | [Paraíso Contigo](https://open.spotify.com/album/1YossSBf5OAPlnh8kq3PZx) | 3:39 |
 | 4494 | [Paramount](https://open.spotify.com/track/1MNWQKYwZp0eIAXW71Hd15) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Lifelines](https://open.spotify.com/album/4Ld3pZ6yTQ504LgUKMUmio) | 4:11 |
+| 4495 | [Enemies](https://open.spotify.com/track/0a2CcExfykpLoFuK3ZHdZW) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [HEXE](https://open.spotify.com/album/6xC2UI57tNsEp38Wg485pm) | 3:18 |
+| 4496 | [Daisy Chain](https://open.spotify.com/track/4y8MuL6L7lOvRoqouYvzkU) | [Widows Peak!](https://open.spotify.com/artist/2gDRzqbTrY7TBnKxt3xI4Y) | [Daisy Chain](https://open.spotify.com/album/5cSHUqZebXpRoaH0F6dQDm) | 3:08 |
 
-Snapshot ID: `AAAIxsko0FwUUPksowYvUVGffFrTLJ2z`
+Snapshot ID: `AAAIyI9yzD8SUPfLkiQrBxiFX/TrZvJy`

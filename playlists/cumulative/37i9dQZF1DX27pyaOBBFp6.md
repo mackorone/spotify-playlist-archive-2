@@ -4,7 +4,7 @@
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-91 songs - 4 hr 36 min
+92 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Eenzaam Zonder Jou](https://open.spotify.com/track/7LGNLoTk2YjtEdgoRELelP) | [Will Tura](https://open.spotify.com/artist/4HS0xcnX3oDHfCLJpHlUT8) | [The Real..\. Will Tura](https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6) | 2:28 | 2024-07-19 |  |
 | [Frater Venantius \- Live](https://open.spotify.com/track/7nnjpu2Cbh9DUdSSp8hFJA) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Een Avond Met Wim Sonneveld](https://open.spotify.com/album/3Loxvfv6tOPhOoQBmLBrDI) | 8:19 | 2024-07-19 |  |
 | [Geweldig](https://open.spotify.com/track/6Xjg93yoJu0h64r8SKRtld) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 1:57 | 2024-07-19 |  |
-| [Giddy Up Go](https://open.spotify.com/track/3Nw18q2ryka6Cjs6h5eSov) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Heerlijk Hollands \- Het Allerbeste van Gerard de Vries & Henk Wijngaard](https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l) | 3:59 | 2024-07-19 |  |
+| [Giddy Up Go](https://open.spotify.com/track/3Nw18q2ryka6Cjs6h5eSov) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Heerlijk Hollands \- Het Allerbeste van Gerard de Vries & Henk Wijngaard](https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l) | 3:59 | 2024-07-19 | 2026-06-03 |
 | [Gina Lollobrigida](https://open.spotify.com/track/2oTYacs6wS0p79ocNzQkDH) | [Tony Bass](https://open.spotify.com/artist/5JK9VxvY6IT6xRJyYjy6Fe) | [De Regenboog Serie: Tony Bass](https://open.spotify.com/album/4ZQFsnQhasQM8KjsDa6Uel) | 2:42 | 2024-07-19 |  |
 | [Glaasje Op ..\. Laat Je Rijden](https://open.spotify.com/track/05yFbot05gXlbBErzpdLzk) | [Sjakie Schram](https://open.spotify.com/artist/2KnzTjr0eagWmhB5JHZD8i) | [De Beste Amsterdamse Hits Ooit](https://open.spotify.com/album/480v7dRWwISKjCTiBmnGGk) | 2:29 | 2024-07-19 |  |
 | [Harlekino](https://open.spotify.com/track/3hWAY20gL1X8kKEeJ3khmT) | [Imca Marina](https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:21 | 2024-07-19 |  |
@@ -43,6 +43,7 @@
 | [Hou Je Echt Nog Van Mij Rockin Billy !](https://open.spotify.com/track/32MfolngBWl0RVIOfWDIIu) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [De Mooiste Liedjes, Vol.1](https://open.spotify.com/album/5oZZQ6gRnhBlBDrrvVDPQA) | 3:17 | 2024-07-19 |  |
 | [Hup, hup, hup](https://open.spotify.com/track/1s3fYerkhuwUJ0HvaczqLJ) | [Het Cocktail Trio](https://open.spotify.com/artist/4utchSczIK6dlfPDkpVn9w) | [Hollands Glorie](https://open.spotify.com/album/1uqfT0g5mzIUmovRoXrhG8) | 2:35 | 2024-07-19 |  |
 | [Iedere Avond](https://open.spotify.com/track/27K4ItIdSmWm9VKiteM5m2) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 2:36 | 2024-07-19 |  |
+| [Ik Ben Gelukkig Zonder Jou](https://open.spotify.com/track/2nfbogbSpAe2nsHEUXzXab) | [Conny Vandenbos](https://open.spotify.com/artist/4U9bAa04kxvEeWVVAGQiVC) | [Favorieten Expres](https://open.spotify.com/album/17bcpuAsqRKMw7Y7HXiWAL) | 2:28 | 2024-07-19 |  |
 | [Ik Ben Met Jou Niet Getrouwd](https://open.spotify.com/track/1y44si4CkVBN0CZONzCLIO) | [Tony Bass](https://open.spotify.com/artist/5JK9VxvY6IT6xRJyYjy6Fe) | [De Regenboog Serie: Tony Bass](https://open.spotify.com/album/4ZQFsnQhasQM8KjsDa6Uel) | 3:13 | 2024-07-19 |  |
 | [Ik Heb Geen Zin Om Op Te Staan](https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL) | [Het](https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 3:07 | 2024-07-19 |  |
 | [Ik Heb Me Weer Vergist](https://open.spotify.com/track/0Uyl6ZCHXgiBW1EfEPjZjt) | [Bob Smit & the Duke City Sextet](https://open.spotify.com/artist/4yFGeDevG1iIHEryWKl7iL) | [The Story of Indo Rock, Vol\. 5](https://open.spotify.com/album/7aRjoPQ3OjMqUQS10W8B1t) | 3:02 | 2024-07-19 |  |

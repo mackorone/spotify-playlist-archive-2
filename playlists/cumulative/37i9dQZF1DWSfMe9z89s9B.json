@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-16",
+      "date_removed": null,
       "duration_ms": 146250,
       "name": "all night",
       "url": "https://open.spotify.com/track/2qGqtuUr4eUqxIuMt8TbEZ"
@@ -2126,7 +2126,7 @@
           "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
         },
         {
-          "name": "DERBY",
+          "name": "Derby",
           "url": "https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ"
         }
       ],
@@ -22202,7 +22202,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 136918,
       "name": "scrabble",
       "url": "https://open.spotify.com/track/6X3uAaEeAyvmSjWVn5dkNR"

@@ -12578,7 +12578,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 178306,
       "name": "CRYPTO",
       "url": "https://open.spotify.com/track/7rOi4g7hpf1w3wvXPqttm0"
@@ -23282,7 +23282,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 316777,
       "name": "J'oublie tout",
       "url": "https://open.spotify.com/track/0SKNkEMV313mE6oYsgVCgm"
@@ -24742,7 +24742,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 193750,
       "name": "Kendall",
       "url": "https://open.spotify.com/track/0wBAbM87bxaz3q1tzAawEM"
@@ -27832,7 +27832,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 152282,
       "name": "LES DIAMANTS DE BOKASSA",
       "url": "https://open.spotify.com/track/1VBKQJ5AVNKROv0WJ2h4ZK"
@@ -30658,6 +30658,24 @@
     {
       "album": {
         "name": "Maladie",
+        "url": "https://open.spotify.com/album/7vTk9JCF1hzUNCjUA5vgkI"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6"
+    },
+    {
+      "album": {
+        "name": "Maladie",
         "url": "https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM"
       },
       "artists": [
@@ -30668,7 +30686,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 192005,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8"
@@ -34736,7 +34754,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 148676,
       "name": "NETFLIX CHILL",
       "url": "https://open.spotify.com/track/6Ap1nvdC4XT3p2Oj627ciD"
@@ -37166,7 +37184,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 121704,
       "name": "Pangor",
       "url": "https://open.spotify.com/track/2gddXcBGPxMI6AcAahtwNP"
@@ -37600,7 +37618,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 158859,
       "name": "PARISIENNE",
       "url": "https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1"
@@ -38084,6 +38102,24 @@
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "album": {
+        "name": "PELELE",
+        "url": "https://open.spotify.com/album/3uo4C6Q0yQVQZwfNglnT5C"
+      },
+      "artists": [
+        {
+          "name": "WIXO & LA2S",
+          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127998,
+      "name": "PELELE",
+      "url": "https://open.spotify.com/track/2fgkY8Ffg7aGooiYwz0OpQ"
     },
     {
       "album": {
@@ -47977,6 +48013,24 @@
     },
     {
       "album": {
+        "name": "The cat",
+        "url": "https://open.spotify.com/album/4YnR2N1LjIrS712qZvBWs7"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "TERRAIN",
+      "url": "https://open.spotify.com/track/44kdgsCRdvpithoLYiWARZ"
+    },
+    {
+      "album": {
         "name": "No crari",
         "url": "https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5"
       },
@@ -53822,7 +53876,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 162041,
       "name": "ZOU BISOU",
       "url": "https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr"

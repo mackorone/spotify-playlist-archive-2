@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 240422,
+  "num_followers": 240455,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MbEBWAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MbJVMAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "Ringer Om Natten",
+        "url": "https://open.spotify.com/album/3297WTdhKEtKDa629GFO3m"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Ringer Om Natten",
+      "url": "https://open.spotify.com/track/3hVpBthKR5ma6GznWp5f1j"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "MEN S\u00c5 KOM I MORGEN",
         "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/6smQDSmvTjn5wCtTmL8tSt"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Ringer Om Natten",
-        "url": "https://open.spotify.com/album/3297WTdhKEtKDa629GFO3m"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Ringer Om Natten",
-      "url": "https://open.spotify.com/track/3hVpBthKR5ma6GznWp5f1j"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "Marvel",
         "url": "https://open.spotify.com/album/7fMQNhReJWDjSiVs3thhLv"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/3xo7KuTSE9Jj6t1hPH7hVW"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "Ham Med Guitaren",
         "url": "https://open.spotify.com/album/41rv9rV6jZMwzt3O9CE8jl"
@@ -81,7 +81,39 @@
       "url": "https://open.spotify.com/track/5cKNn5VQXGSxwZ68yzeVQi"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "Livsforladt",
+        "url": "https://open.spotify.com/album/0TyjPYF8OsZe8sicrhZROq"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 182204,
+      "name": "Livsforladt",
+      "url": "https://open.spotify.com/track/2aUYoSnTwdmAbeDEIyuGKo"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "Ivrig",
+        "url": "https://open.spotify.com/album/0T4s2FNI0JGlkbjaNScuLa"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "duration_ms": 168285,
+      "name": "Ivrig",
+      "url": "https://open.spotify.com/track/2KN3oDrrcQGVEflzdGDcDl"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "Bag Gardinerne S1+S2",
         "url": "https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R"
@@ -101,59 +133,7 @@
       "url": "https://open.spotify.com/track/2Mkjva2JDjVAcFjriEWnWF"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Livsforladt",
-        "url": "https://open.spotify.com/album/0TyjPYF8OsZe8sicrhZROq"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 182204,
-      "name": "Livsforladt",
-      "url": "https://open.spotify.com/track/2aUYoSnTwdmAbeDEIyuGKo"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Ivrig",
-        "url": "https://open.spotify.com/album/0T4s2FNI0JGlkbjaNScuLa"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 168285,
-      "name": "Ivrig",
-      "url": "https://open.spotify.com/track/2KN3oDrrcQGVEflzdGDcDl"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Vil du noget?",
-        "url": "https://open.spotify.com/album/0ZjD0TJyuPL3H8bmF8rsVb"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        },
-        {
-          "name": "Saveus",
-          "url": "https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt"
-        }
-      ],
-      "duration_ms": 185326,
-      "name": "Vil du noget?",
-      "url": "https://open.spotify.com/track/4BDFCtjvCP99vx5bhvsFH4"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "Lige Her, Lige Nu",
         "url": "https://open.spotify.com/album/2gA3mRQDu4jyVVqrgcVd7W"
@@ -173,7 +153,27 @@
       "url": "https://open.spotify.com/track/18wTOhWtLK0DYvJAR1kzS7"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "Vil du noget?",
+        "url": "https://open.spotify.com/album/0ZjD0TJyuPL3H8bmF8rsVb"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Saveus",
+          "url": "https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt"
+        }
+      ],
+      "duration_ms": 185326,
+      "name": "Vil du noget?",
+      "url": "https://open.spotify.com/track/4BDFCtjvCP99vx5bhvsFH4"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "VILD UNGDOM",
         "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/1pN93ulisXKKrrlgi17IxN"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "VILD UNGDOM",
         "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/2DfiEXI6QlqftaxJ1wv1sb"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "Den Danske Sommer (feat. Birthe Kj\u00e6r)",
         "url": "https://open.spotify.com/album/58BARLI2OONpcVlJnuKXmw"
@@ -225,7 +225,23 @@
       "url": "https://open.spotify.com/track/3oRnLpv1REaIDhxIR8F0zw"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "MEN S\u00c5 KOM I MORGEN",
+        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
+      },
+      "artists": [
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "duration_ms": 146335,
+      "name": "Stil permanent",
+      "url": "https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "AW",
         "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
@@ -245,39 +261,7 @@
       "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 293802,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "MEN S\u00c5 KOM I MORGEN",
-        "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
-      },
-      "artists": [
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        }
-      ],
-      "duration_ms": 146335,
-      "name": "Stil permanent",
-      "url": "https://open.spotify.com/track/6L6TCkPhhg5G5QMpm77qHG"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "Portugal",
         "url": "https://open.spotify.com/album/1ZZQmxpfhtp6EPRBrXlRI6"
@@ -293,7 +277,39 @@
       "url": "https://open.spotify.com/track/1nCEAmmOXmXmODiY5KnEHX"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 293802,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197949,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "H\u00f8jt At Flyve Dybt At Falde",
         "url": "https://open.spotify.com/album/0ZiHfwBVdjA78WfyNXTJTU"
@@ -313,27 +329,23 @@
       "url": "https://open.spotify.com/track/7d3A0GKJHATJuMxWh3fcc3"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
-        "name": "1000 \u00d8jne (feat. Benny Jamz)",
-        "url": "https://open.spotify.com/album/584T5aygXzD6GwaBsVMEYy"
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
       },
       "artists": [
         {
-          "name": "Thor Farlov",
-          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
-        },
-        {
-          "name": "Benny Jamz",
-          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 155294,
-      "name": "1000 \u00d8jne (feat. Benny Jamz)",
-      "url": "https://open.spotify.com/track/75RPKhw6BeqPGvsW3Mksgf"
+      "duration_ms": 237344,
+      "name": "Janice STFU",
+      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -349,7 +361,39 @@
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "D\u00e9t Der Udenfor",
+        "url": "https://open.spotify.com/album/7LPaE1fTTVQHFZxH4ZUX8e"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "D\u00e9t Der Udenfor",
+      "url": "https://open.spotify.com/track/1o0UmpUR0GcQLZ8LFY40b8"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "Louisiana",
+        "url": "https://open.spotify.com/album/6JsFn553CiwPbXFsvjVF9p"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "duration_ms": 172111,
+      "name": "Louisiana",
+      "url": "https://open.spotify.com/track/3fxQ8GkReHrrN4zTYpQ1ex"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -369,87 +413,7 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 258296,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Kanten",
-        "url": "https://open.spotify.com/album/0vubJFLLitPbPa1n1wc3IH"
-      },
-      "artists": [
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
-        }
-      ],
-      "duration_ms": 152560,
-      "name": "Kanten",
-      "url": "https://open.spotify.com/track/6hoPyaOW01F83KUbTaR1Ge"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "F\u00f8r Vi G\u00e5r Hjem",
-        "url": "https://open.spotify.com/album/0USeG6qZBH7RvZjgpcs9sq"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Torpegaard Lund",
-          "url": "https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z"
-        }
-      ],
-      "duration_ms": 174374,
-      "name": "F\u00f8r Vi G\u00e5r Hjem - naughty version",
-      "url": "https://open.spotify.com/track/3JsCDUE7QrdUjg0DHnsUf2"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Louisiana",
-        "url": "https://open.spotify.com/album/6JsFn553CiwPbXFsvjVF9p"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        }
-      ],
-      "duration_ms": 172111,
-      "name": "Louisiana",
-      "url": "https://open.spotify.com/track/3fxQ8GkReHrrN4zTYpQ1ex"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "hate that i made you love me",
-        "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197949,
-      "name": "hate that i made you love me",
-      "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "MEN S\u00c5 KOM I MORGEN",
         "url": "https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y"
@@ -469,91 +433,7 @@
       "url": "https://open.spotify.com/track/6dECBSjgsAjLPwoApvo3aj"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Smelter Under M\u00e5nen",
-        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 198388,
-      "name": "Smelter Under M\u00e5nen",
-      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237344,
-      "name": "Janice STFU",
-      "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "(over)lever",
-        "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 136503,
-      "name": "hader ik mig selv sammen med dig",
-      "url": "https://open.spotify.com/track/3Jrggxbj3XXCodbGhORmGo"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Falder Du S\u00e5 Falder Jeg (feat. Gobs)",
-        "url": "https://open.spotify.com/album/1GMfPfcQUDBN2w2fNYBJv6"
-      },
-      "artists": [
-        {
-          "name": "TopGunn",
-          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
-        },
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 151577,
-      "name": "Falder Du S\u00e5 Falder Jeg (feat. Gobs)",
-      "url": "https://open.spotify.com/track/0YUWZA7DCKtJ2mJxyd64AA"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "Bag Gardinerne S1+S2",
         "url": "https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R"
@@ -573,7 +453,39 @@
       "url": "https://open.spotify.com/track/3klUfjdR7eOQ1ugy82Mio9"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "Smelter Under M\u00e5nen",
+        "url": "https://open.spotify.com/album/4GYrs3V9M967vgil6OP0TE"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 198388,
+      "name": "Smelter Under M\u00e5nen",
+      "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 258296,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "L\u00e5st Inde",
         "url": "https://open.spotify.com/album/5OwonuqW871q6LmAmxE3nw"
@@ -589,7 +501,7 @@
       "url": "https://open.spotify.com/track/1o7wzFWTUv2My3ulZIPlqw"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "(over)lever",
         "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
@@ -598,18 +510,70 @@
         {
           "name": "Mille",
           "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        },
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
         }
       ],
-      "duration_ms": 150617,
-      "name": "dr\u00f8mmefanger (feat. URO)",
-      "url": "https://open.spotify.com/track/4XgxdK8qm0K6EVUmg7ROMl"
+      "duration_ms": 136503,
+      "name": "hader ik mig selv sammen med dig",
+      "url": "https://open.spotify.com/track/3Jrggxbj3XXCodbGhORmGo"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "F\u00f8r Vi G\u00e5r Hjem",
+        "url": "https://open.spotify.com/album/0USeG6qZBH7RvZjgpcs9sq"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Torpegaard Lund",
+          "url": "https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z"
+        }
+      ],
+      "duration_ms": 174374,
+      "name": "F\u00f8r Vi G\u00e5r Hjem - naughty version",
+      "url": "https://open.spotify.com/track/3JsCDUE7QrdUjg0DHnsUf2"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "Copenhagen City",
+        "url": "https://open.spotify.com/album/51EJNl0CcgwWFFlmPmJAhq"
+      },
+      "artists": [
+        {
+          "name": "Emil Kruse",
+          "url": "https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun"
+        },
+        {
+          "name": "OK OK",
+          "url": "https://open.spotify.com/artist/0h4efFgEzH6VH5DP5Yqtqt"
+        },
+        {
+          "name": "Anthon Edwards",
+          "url": "https://open.spotify.com/artist/3CARGGRdALf2e9oj7bzFti"
+        }
+      ],
+      "duration_ms": 171467,
+      "name": "Copenhagen City",
+      "url": "https://open.spotify.com/track/5ePUy0MpnORgr9PQ897KJ0"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "Godaften",
         "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
@@ -641,7 +605,7 @@
       "url": "https://open.spotify.com/track/2MOH9hDRMYCpNzmHzCRjPh"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -657,43 +621,107 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
-        "name": "D\u00e9t Der Udenfor",
-        "url": "https://open.spotify.com/album/7LPaE1fTTVQHFZxH4ZUX8e"
+        "name": "Lige Her, Lige Nu",
+        "url": "https://open.spotify.com/album/2gA3mRQDu4jyVVqrgcVd7W"
       },
       "artists": [
         {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+          "name": "Rosa",
+          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
         }
       ],
-      "duration_ms": 214739,
-      "name": "D\u00e9t Der Udenfor",
-      "url": "https://open.spotify.com/track/1o0UmpUR0GcQLZ8LFY40b8"
+      "duration_ms": 173259,
+      "name": "Skyklapper",
+      "url": "https://open.spotify.com/track/6duCMFaYET6WicI5rTD9jz"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
-        "name": "BO4L",
-        "url": "https://open.spotify.com/album/3JE1v19SrHzxmZAbf8iHkZ"
+        "name": "Ved du jeg en snerle",
+        "url": "https://open.spotify.com/album/2UNqajAq02YTybhMvumgQm"
       },
       "artists": [
         {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+          "name": "Katinka",
+          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
+        }
+      ],
+      "duration_ms": 157097,
+      "name": "Kogeplade",
+      "url": "https://open.spotify.com/track/4Uh2jneAmvQUNCChZw1DcF"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "Falder Du S\u00e5 Falder Jeg (feat. Gobs)",
+        "url": "https://open.spotify.com/album/1GMfPfcQUDBN2w2fNYBJv6"
+      },
+      "artists": [
+        {
+          "name": "TopGunn",
+          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
         },
         {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
         }
       ],
-      "duration_ms": 228590,
-      "name": "Bl\u00e5 Himmel (feat. Hans Philip)",
-      "url": "https://open.spotify.com/track/0qA2qykpcGdVl3tiiYum4g"
+      "duration_ms": 151577,
+      "name": "Falder Du S\u00e5 Falder Jeg (feat. Gobs)",
+      "url": "https://open.spotify.com/track/0YUWZA7DCKtJ2mJxyd64AA"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "kendt mig en uge",
+        "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 186843,
+      "name": "kendt mig en uge",
+      "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "Kanten",
+        "url": "https://open.spotify.com/album/0vubJFLLitPbPa1n1wc3IH"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "duration_ms": 152560,
+      "name": "Kanten",
+      "url": "https://open.spotify.com/track/6hoPyaOW01F83KUbTaR1Ge"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "Ikaros",
+        "url": "https://open.spotify.com/album/4QpQkusyCxnLNdqO7hAF0S"
+      },
+      "artists": [
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "duration_ms": 129897,
+      "name": "Ikaros",
+      "url": "https://open.spotify.com/track/6X0OYoe0cSzRrarfDVPbp9"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "Godaften",
         "url": "https://open.spotify.com/album/19j6aUp3yxk6KVjDtBcDC4"
@@ -713,79 +741,7 @@
       "url": "https://open.spotify.com/track/5fFVI2cNXckUEkttuVOumi"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "kendt mig en uge",
-        "url": "https://open.spotify.com/album/2GTBanfJvhkWu0NsOFq0Kd"
-      },
-      "artists": [
-        {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
-        }
-      ],
-      "duration_ms": 186843,
-      "name": "kendt mig en uge",
-      "url": "https://open.spotify.com/track/1xpHTbZ3NnvTDEXCFcwGWk"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Copenhagen City",
-        "url": "https://open.spotify.com/album/51EJNl0CcgwWFFlmPmJAhq"
-      },
-      "artists": [
-        {
-          "name": "Emil Kruse",
-          "url": "https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun"
-        },
-        {
-          "name": "OK OK",
-          "url": "https://open.spotify.com/artist/0h4efFgEzH6VH5DP5Yqtqt"
-        },
-        {
-          "name": "Anthon Edwards",
-          "url": "https://open.spotify.com/artist/3CARGGRdALf2e9oj7bzFti"
-        }
-      ],
-      "duration_ms": 171467,
-      "name": "Copenhagen City",
-      "url": "https://open.spotify.com/track/5ePUy0MpnORgr9PQ897KJ0"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Lige Her, Lige Nu",
-        "url": "https://open.spotify.com/album/2gA3mRQDu4jyVVqrgcVd7W"
-      },
-      "artists": [
-        {
-          "name": "Rosa",
-          "url": "https://open.spotify.com/artist/5RacSDArd3wuqKnWx46sTM"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Skyklapper",
-      "url": "https://open.spotify.com/track/6duCMFaYET6WicI5rTD9jz"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "KAOTISK KUNST",
         "url": "https://open.spotify.com/album/5Y6f0gJeJ7YJR7vsQKvVG2"
@@ -805,39 +761,7 @@
       "url": "https://open.spotify.com/track/4xAUsZHFsyL5Y2HS1IpkxM"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Ikaros",
-        "url": "https://open.spotify.com/album/4QpQkusyCxnLNdqO7hAF0S"
-      },
-      "artists": [
-        {
-          "name": "ozzy",
-          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
-        }
-      ],
-      "duration_ms": 129897,
-      "name": "Ikaros",
-      "url": "https://open.spotify.com/track/6X0OYoe0cSzRrarfDVPbp9"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
-      "album": {
-        "name": "Ved du jeg en snerle",
-        "url": "https://open.spotify.com/album/2UNqajAq02YTybhMvumgQm"
-      },
-      "artists": [
-        {
-          "name": "Katinka",
-          "url": "https://open.spotify.com/artist/05tsGKo76eTXi0yrK4e4rZ"
-        }
-      ],
-      "duration_ms": 157097,
-      "name": "Kogeplade",
-      "url": "https://open.spotify.com/track/4Uh2jneAmvQUNCChZw1DcF"
-    },
-    {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "Fancy",
         "url": "https://open.spotify.com/album/78cZnSsvi9ddflTjMLYYLL"
@@ -853,39 +777,47 @@
       "url": "https://open.spotify.com/track/6qPZa8karYruU5PIZNUxb2"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
-        "name": "Bangaranga",
-        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+        "name": "BO4L",
+        "url": "https://open.spotify.com/album/3JE1v19SrHzxmZAbf8iHkZ"
       },
       "artists": [
         {
-          "name": "DARA",
-          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
         }
       ],
-      "duration_ms": 177995,
-      "name": "Bangaranga",
-      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
+      "duration_ms": 228590,
+      "name": "Bl\u00e5 Himmel (feat. Hans Philip)",
+      "url": "https://open.spotify.com/track/0qA2qykpcGdVl3tiiYum4g"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
-        "name": "ICEMAN",
-        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+        "name": "1000 \u00d8jne (feat. Benny Jamz)",
+        "url": "https://open.spotify.com/album/584T5aygXzD6GwaBsVMEYy"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
         }
       ],
-      "duration_ms": 200830,
-      "name": "National Treasures",
-      "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
+      "duration_ms": 155294,
+      "name": "1000 \u00d8jne (feat. Benny Jamz)",
+      "url": "https://open.spotify.com/track/75RPKhw6BeqPGvsW3Mksgf"
     },
     {
-      "added_at": "2026-06-01 14:14:05",
+      "added_at": "2026-06-02 14:08:54",
       "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
@@ -899,6 +831,74 @@
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "(over)lever",
+        "url": "https://open.spotify.com/album/7wyTjH07QtN3flUKLrcYHN"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        },
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "duration_ms": 150617,
+      "name": "dr\u00f8mmefanger (feat. URO)",
+      "url": "https://open.spotify.com/track/4XgxdK8qm0K6EVUmg7ROMl"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "the cure",
+        "url": "https://open.spotify.com/album/6zme2NwcaBxbn3mWOcMY8y"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 297090,
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
+    },
+    {
+      "added_at": "2026-06-02 14:08:54",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     }
   ],
   "unique_name": "Top 50 - Denmark",

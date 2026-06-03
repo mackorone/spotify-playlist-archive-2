@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-490 songs - 1 day 3 hr 56 min
+491 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,6 +378,7 @@
 | [Still Waiting to Start](https://open.spotify.com/track/3hAQVgA6Vn9gB8aq70Dm9h) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change & The Flowers Will Fall](https://open.spotify.com/album/6WCRsYJdahIzfClAMYs72c) | 3:03 | 2020-10-06\* | 2022-07-29 |
 | [Stolt \(feat\. Lamin\)](https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [AW](https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU) | 3:32 | 2025-05-23 | 2025-08-30 |
 | [Stop By Now](https://open.spotify.com/track/0zcrA7R0RlrCO7Fot7jQlt) | [Sille Nilsson](https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC) | [Stop By Now](https://open.spotify.com/album/17UBVzMdVOaQzusxehB7eH) | 3:43 | 2020-10-06\* | 2025-02-08 |
+| [stoppe med at elske nogen](https://open.spotify.com/track/0tC2SW9xEH0Fz8NlAF225f) | [Lea Eyðbjørg](https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv) | [stoppe med at elske nogen](https://open.spotify.com/album/07DbAsBCVD1IpRCGelbtli) | 3:12 | 2026-05-21 |  |
 | [Suitcase](https://open.spotify.com/track/5HlFO9E6TgsCpJWVjguZDl) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Suitcase](https://open.spotify.com/album/6h3PNka0gyNBOX2yVuW3JN) | 3:34 | 2020-10-06\* | 2022-07-29 |
 | [Suitcase](https://open.spotify.com/track/6dQ1FEt4FByE6tU0dvQNmr) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:35 | 2022-05-09 | 2024-04-19 |
 | [Super Blue Moon](https://open.spotify.com/track/6hk5ZLYFrKG3Ek5EKfnyJC) | [Ralegh Long](https://open.spotify.com/artist/1jxZMbJSBONtZQvlqH2nJ8) | [Super Blue Moon](https://open.spotify.com/album/1mAMaR8qpU37I7inR6VUKg) | 3:56 | 2021-05-23 | 2021-05-26 |
@@ -464,7 +465,7 @@
 | [When the Sun Comes Up](https://open.spotify.com/track/5g8vtWxly9zinJSY63mxnq) | [All Our Exes Live in Texas](https://open.spotify.com/artist/5Ul7YrRYtvl8da6i7Ziakt) | [When We Fall](https://open.spotify.com/album/6EXPtn1Gg7wU13HAilnHcF) | 3:55 | 2021-05-25 | 2021-05-28 |
 | [When We Were Young](https://open.spotify.com/track/7GgWAITsYJaRM3r50rfh5w) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi) | 4:50 | 2022-05-09 | 2024-04-19 |
 | [When We Were Young](https://open.spotify.com/track/7ilS0BPWS8ek2P2GaxH3cP) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [When We Were Young](https://open.spotify.com/album/5oWQ2uILvj5bAjeIjSYYc8) | 4:50 | 2021-01-18 | 2022-07-29 |
-| [When We Were Young](https://open.spotify.com/track/6x7KACU6KC7vP8WFUwJxIz) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [A Beautiful Real Life](https://open.spotify.com/album/2SBm27QvS2epOxB2DvT5GP) | 2:55 | 2025-09-16 |  |
+| [When We Were Young](https://open.spotify.com/track/6x7KACU6KC7vP8WFUwJxIz) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [A Beautiful Real Life](https://open.spotify.com/album/2SBm27QvS2epOxB2DvT5GP) | 2:55 | 2025-09-16 | 2026-06-03 |
 | [When Will I See Your Face Again](https://open.spotify.com/track/2iNv8Iomdg4CyBfWk6kUXJ) | [Jamie Scott & The Town](https://open.spotify.com/artist/4BCijRD020JSmK7XNipkU1) | [Park Bench Theories](https://open.spotify.com/album/2at2uSg1A1jkeGjazPFDDq) | 4:22 | 2020-10-06\* | 2025-05-15 |
 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl) | 3:30 | 2020-10-20 |  |
 | [Where the Heart Is](https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:53 | 2022-09-09 | 2024-04-19 |

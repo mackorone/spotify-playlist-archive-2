@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: Jung Seung Hwan\(정승환\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Sung Si Kyung\(성시경\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,758 songs - 4 day 18 hr 12 min
+1,759 songs - 4 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [dawn call from you](https://open.spotify.com/track/6q5qD963d6AuwUF7NAcVhl) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [talks about regret](https://open.spotify.com/album/6019Bbt3r3wVPpV5OWaUSx) | 3:57 | 2022-08-01 | 2022-12-27 |
 | [Day after day](https://open.spotify.com/track/66lJ4IajLbS87o11xp5Ik2) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Love Your Enemy OST Part 2](https://open.spotify.com/album/49xddz6nqaZ1Rn9bb0cV0R) | 3:45 | 2024-12-02 | 2025-05-10 |
 | [day by day](https://open.spotify.com/track/2n6dYI54a9j8yVrR4ob7Fo) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9) | [day by day](https://open.spotify.com/album/6sV3dw34ZviqiY4GyzcwrP) | 3:58 | 2024-02-15 | 2024-11-29 |
+| [Day dream](https://open.spotify.com/track/6ePejCWGJnK6IWCipFmUK5) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Day dream](https://open.spotify.com/album/0HTupJldb1Sfmf3YUfC0LP) | 3:58 | 2026-06-02 |  |
 | [Daydream](https://open.spotify.com/track/0ZgukDLNhyKfkBcIDD8Myh) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [The Secret Romantic Guesthouse Part.3](https://open.spotify.com/album/2vPvuYUh75pYGUDE4X6uj2) | 3:45 | 2023-04-26 | 2023-08-25 |
 | [Daydreamer](https://open.spotify.com/track/6Vu3V0oWSppc8Z6BJPNjGk) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Daydreamer](https://open.spotify.com/album/41Wkwt6kiSOHwE8xZkitTs) | 3:48 | 2021-12-23 | 2022-07-01 |
 | [Daystar](https://open.spotify.com/track/6HcNz2K1JVXb1xgMAD93og) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Daystar](https://open.spotify.com/album/0EOLOmGmGxtLntJpB2SxMu) | 3:58 | 2021-12-23 | 2022-04-11 |

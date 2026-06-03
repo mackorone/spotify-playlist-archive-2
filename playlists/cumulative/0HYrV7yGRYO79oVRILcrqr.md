@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-547 songs - 1 day 10 hr 3 min
+549 songs - 1 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Heaven Is Home](https://open.spotify.com/track/1hGZtcGyWiDFA7GRklKnyd) | [Bobby McClintock](https://open.spotify.com/artist/4BCFlFcAXkXBrdzccAuSKQ) | [Heaven Is Home](https://open.spotify.com/album/1Yr6VgrFollbKhjQpP16kV) | 4:27 | 2026-03-28 |  |
 | [Heavy](https://open.spotify.com/track/4PVLXOvVkAocdHWnMd1uKC) | [Brave Rival](https://open.spotify.com/artist/2tjh5W0sRxYe5Vr6EUh5go) | [Fight Or Flight](https://open.spotify.com/album/4BzdHrKWyE1q0bXHAefLYp) | 5:44 | 2026-03-27 | 2026-04-21 |
 | [Hechicera Lunar](https://open.spotify.com/track/70Ime2HP6wEjibFFaApDFc) | [Rockdra](https://open.spotify.com/artist/1dMp0BMXVaDsMNpp5NV5l8) | [Hechicera Lunar](https://open.spotify.com/album/4mjhjsOA0BdfZG1ntWZuyr) | 3:20 | 2026-05-25 |  |
+| [Hemen eta orain](https://open.spotify.com/track/1bE21zBzAvyD6jGZyIzANb) | [Aingeru](https://open.spotify.com/artist/0gkmeBApb5kPC4iV1pX9FL) | [Hemen eta orain](https://open.spotify.com/album/4FpcOFHpBINY7xLrUQbwAd) | 3:36 | 2026-06-02 |  |
 | [Her inne er det varmt](https://open.spotify.com/track/1V90d44Q6zjSn5EhbJdT1O) | [Bjørn\-Ivar Davidsen](https://open.spotify.com/artist/0hAIC7oOoD5Z3OTP8x7OS9) | [Bilder i mitt hode](https://open.spotify.com/album/0hydPfH9Vk7RSwauEMYYpX) | 3:39 | 2025-12-02 | 2025-12-17 |
 | [High Above It All](https://open.spotify.com/track/4FjhfRrrORgaP854fQG9q3) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 2:56 | 2025-11-14 | 2025-12-17 |
 | [High and Dry](https://open.spotify.com/track/3XaoMnrPzZUvkI9KBAILE2) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [When The Empire Falls](https://open.spotify.com/album/0X8sYhlzfO2090dycAZtqH) | 3:30 | 2026-04-02 | 2026-04-21 |
@@ -533,6 +534,7 @@
 | [Whispers In The Dark'](https://open.spotify.com/track/0SvJPW7oWVCviUYaoAB1NP) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Whispers In The Dark'](https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp) | 3:54 | 2025-12-08 | 2026-04-21 |
 | [White Tiger Chronicles 2024](https://open.spotify.com/track/504hlNAOuRyHUNvCwS3npu) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [White Tiger Chronicles 2024](https://open.spotify.com/album/5RSm9WADXmIjIztIGvzNEg) | 4:42 | 2026-02-05 | 2026-03-18 |
 | [Widespread Coma](https://open.spotify.com/track/2NDtE7qiWJirYfhZ3gydOC) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Widespread Coma](https://open.spotify.com/album/4m3ONm2GFVHif9n78nNh5d) | 3:40 | 2026-03-07 | 2026-05-31 |
+| [Wild Time](https://open.spotify.com/track/3g1kVvfuzqqQtwrR6jyTyZ) | [Raida M](https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em) | [Wild Time](https://open.spotify.com/album/2xUDxS8dnszV9XvAUTNUxb) | 1:42 | 2026-06-02 |  |
 | [Wilt](https://open.spotify.com/track/0w7KcJg2E5rId9GnWwt9eI) | [Hard Softee](https://open.spotify.com/artist/4F1IzLLPomRL7g3IlrefEy) | [Silent Screams and Little Things](https://open.spotify.com/album/3RxepldlbmSJa3XxKJ7Y52) | 2:50 | 2026-04-02 | 2026-04-21 |
 | [Without Ligth](https://open.spotify.com/track/4iFvBYv9dvov9VP5iYPZbI) | [Bry](https://open.spotify.com/artist/2ySJgdSMRpOkxkmseui1Kt) | [Butterflies](https://open.spotify.com/album/5jxuctCE4OHBlAKEFzBp9Y) | 3:05 | 2025-10-05 | 2025-11-28 |
 | [Without Peace and Love](https://open.spotify.com/track/4lKbiqJbSZPYBYLPf6YFa6) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [Without Peace and Love](https://open.spotify.com/album/5mYr9Y4BWaL5j61ttgII1x) | 4:23 | 2026-05-31 |  |

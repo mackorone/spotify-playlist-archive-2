@@ -1,12 +1,12 @@
 {
   "description": "Fusion music for the soul. ",
-  "num_followers": 84947,
+  "num_followers": 84954,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADu1NoYG7rMdnWIKnXqXWcPF+ZTy",
+  "snapshot_id": "AAAAAFNBc9i/Nvm28AQxarIs8lqlaPRE",
   "tracks": [
     {
       "added_at": "2026-05-13 11:22:05",
@@ -49,6 +49,22 @@
       "url": "https://open.spotify.com/track/09v5TgXyjMKYz7yEkkgMP5"
     },
     {
+      "added_at": "2026-06-02 07:15:36",
+      "album": {
+        "name": "Apne Khilaf (Irshad - Mehfilz with Papon) (From The Living Room)",
+        "url": "https://open.spotify.com/album/10sOw0MEXv1HLJgJ8CsZSn"
+      },
+      "artists": [
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        }
+      ],
+      "duration_ms": 307006,
+      "name": "Apne Khilaf (Irshad - Mehfilz with Papon) (From The Living Room)",
+      "url": "https://open.spotify.com/track/7ElISEDbwXtbB4xAvFRLqb"
+    },
+    {
       "added_at": "2026-05-13 11:22:05",
       "album": {
         "name": "Khalasi | Coke Studio Bharat",
@@ -67,34 +83,6 @@
       "duration_ms": 258260,
       "name": "Khalasi | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw"
-    },
-    {
-      "added_at": "2026-05-13 11:22:05",
-      "album": {
-        "name": "Bandish Bandits Season 2 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Souumil",
-          "url": "https://open.spotify.com/artist/2PZfVEEMQs0qMtk8fQodwz"
-        },
-        {
-          "name": "Dhananjay Mhaskar",
-          "url": "https://open.spotify.com/artist/2ZzR26zixSLhrRUHPDz4aF"
-        },
-        {
-          "name": "Sameer Samant",
-          "url": "https://open.spotify.com/artist/5uSpP62V9luVq2RqbUGFbh"
-        }
-      ],
-      "duration_ms": 217078,
-      "name": "Garaj Garaj Rock",
-      "url": "https://open.spotify.com/track/7xoSO0L4sNEQiAlE2cVxg9"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -139,18 +127,30 @@
     {
       "added_at": "2026-05-13 11:22:05",
       "album": {
-        "name": "Chaap Tilak",
-        "url": "https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW"
+        "name": "Bandish Bandits Season 2 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF"
       },
       "artists": [
         {
-          "name": "Namita Choudhary",
-          "url": "https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB"
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Souumil",
+          "url": "https://open.spotify.com/artist/2PZfVEEMQs0qMtk8fQodwz"
+        },
+        {
+          "name": "Dhananjay Mhaskar",
+          "url": "https://open.spotify.com/artist/2ZzR26zixSLhrRUHPDz4aF"
+        },
+        {
+          "name": "Sameer Samant",
+          "url": "https://open.spotify.com/artist/5uSpP62V9luVq2RqbUGFbh"
         }
       ],
-      "duration_ms": 194821,
-      "name": "Chaap Tilak",
-      "url": "https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO"
+      "duration_ms": 217078,
+      "name": "Garaj Garaj Rock",
+      "url": "https://open.spotify.com/track/7xoSO0L4sNEQiAlE2cVxg9"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -171,22 +171,18 @@
     {
       "added_at": "2026-05-13 11:22:05",
       "album": {
-        "name": "Mitho Laage (The Dewarists, Season 5)",
-        "url": "https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp"
+        "name": "Chaap Tilak",
+        "url": "https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW"
       },
       "artists": [
         {
-          "name": "Dhruv Ghanekar",
-          "url": "https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb"
-        },
-        {
-          "name": "Mame Khan",
-          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+          "name": "Namita Choudhary",
+          "url": "https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Mitho Laage - The Dewarists, Season 5",
-      "url": "https://open.spotify.com/track/4mjjr1EeynuE236oOWeEMK"
+      "duration_ms": 194821,
+      "name": "Chaap Tilak",
+      "url": "https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -235,6 +231,26 @@
       "duration_ms": 191063,
       "name": "Kautilya (The Echo Project)",
       "url": "https://open.spotify.com/track/0CS28Nfq8ZiVhwQrZpE85X"
+    },
+    {
+      "added_at": "2026-05-13 11:22:05",
+      "album": {
+        "name": "Mitho Laage (The Dewarists, Season 5)",
+        "url": "https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp"
+      },
+      "artists": [
+        {
+          "name": "Dhruv Ghanekar",
+          "url": "https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb"
+        },
+        {
+          "name": "Mame Khan",
+          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Mitho Laage - The Dewarists, Season 5",
+      "url": "https://open.spotify.com/track/4mjjr1EeynuE236oOWeEMK"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -311,6 +327,22 @@
     {
       "added_at": "2026-05-13 11:22:05",
       "album": {
+        "name": "The Burning Ghat",
+        "url": "https://open.spotify.com/album/61jipsWyfpfNMuHgkEUIWp"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "duration_ms": 418588,
+      "name": "The Burning Ghat",
+      "url": "https://open.spotify.com/track/1qIJIfT39cWz9W4tZBIJAx"
+    },
+    {
+      "added_at": "2026-05-13 11:22:05",
+      "album": {
         "name": "Bandish Bandits Season 2 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF"
       },
@@ -335,22 +367,6 @@
       "duration_ms": 175075,
       "name": "Ghar Aa Maahi",
       "url": "https://open.spotify.com/track/7b0n7IkWqpECubGjiPODqW"
-    },
-    {
-      "added_at": "2026-05-13 11:22:05",
-      "album": {
-        "name": "The Burning Ghat",
-        "url": "https://open.spotify.com/album/61jipsWyfpfNMuHgkEUIWp"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        }
-      ],
-      "duration_ms": 418588,
-      "name": "The Burning Ghat",
-      "url": "https://open.spotify.com/track/1qIJIfT39cWz9W4tZBIJAx"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -419,22 +435,6 @@
     {
       "added_at": "2026-05-13 11:22:05",
       "album": {
-        "name": "Grounded in Space",
-        "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
-      },
-      "artists": [
-        {
-          "name": "Advaita",
-          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
-        }
-      ],
-      "duration_ms": 305613,
-      "name": "Ghir Ghir",
-      "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
-    },
-    {
-      "added_at": "2026-05-13 11:22:05",
-      "album": {
         "name": "Text me when you reach",
         "url": "https://open.spotify.com/album/4gJ2rVT40KEpJQb6yMJv2o"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 91325,
       "name": "Text me when you reach",
       "url": "https://open.spotify.com/track/4vAlFacTwAaeBJhij4jOZR"
+    },
+    {
+      "added_at": "2026-05-13 11:22:05",
+      "album": {
+        "name": "Grounded in Space",
+        "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
+      },
+      "artists": [
+        {
+          "name": "Advaita",
+          "url": "https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp"
+        }
+      ],
+      "duration_ms": 305613,
+      "name": "Ghir Ghir",
+      "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -519,26 +535,6 @@
     {
       "added_at": "2026-05-13 11:22:05",
       "album": {
-        "name": "Pankh",
-        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
-      },
-      "artists": [
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
-        }
-      ],
-      "duration_ms": 331000,
-      "name": "Baithi Hun",
-      "url": "https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96"
-    },
-    {
-      "added_at": "2026-05-13 11:22:05",
-      "album": {
         "name": "Mausam",
         "url": "https://open.spotify.com/album/7wykscgLlq9Ch9VLLZPYAF"
       },
@@ -563,6 +559,26 @@
       "duration_ms": 291234,
       "name": "Mausam",
       "url": "https://open.spotify.com/track/2wMiTY6QDXqYlV6irpf12F"
+    },
+    {
+      "added_at": "2026-05-13 11:22:05",
+      "album": {
+        "name": "Pankh",
+        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
+      },
+      "artists": [
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        }
+      ],
+      "duration_ms": 331000,
+      "name": "Baithi Hun",
+      "url": "https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -635,26 +651,6 @@
     {
       "added_at": "2026-05-13 11:22:05",
       "album": {
-        "name": "Pankh",
-        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
-      },
-      "artists": [
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
-        }
-      ],
-      "duration_ms": 364018,
-      "name": "Tarana",
-      "url": "https://open.spotify.com/track/4mEhKVLzUW1GsBbPLp60S1"
-    },
-    {
-      "added_at": "2026-05-13 11:22:05",
-      "album": {
         "name": "Mannde Ji Mala",
         "url": "https://open.spotify.com/album/7JDF0aiEXvmMQ63Gvll3qh"
       },
@@ -675,6 +671,26 @@
       "duration_ms": 329200,
       "name": "Mannde Ji Mala",
       "url": "https://open.spotify.com/track/1Wf25igBukyJcb684oEYvY"
+    },
+    {
+      "added_at": "2026-05-13 11:22:05",
+      "album": {
+        "name": "Pankh",
+        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
+      },
+      "artists": [
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        }
+      ],
+      "duration_ms": 364018,
+      "name": "Tarana",
+      "url": "https://open.spotify.com/track/4mEhKVLzUW1GsBbPLp60S1"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -747,26 +763,6 @@
     {
       "added_at": "2026-05-13 11:22:05",
       "album": {
-        "name": "Pankh",
-        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
-      },
-      "artists": [
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "Nayi Bhor",
-      "url": "https://open.spotify.com/track/7cpYb0cqkPhIFX8Rnex93e"
-    },
-    {
-      "added_at": "2026-05-13 11:22:05",
-      "album": {
         "name": "Shakkar",
         "url": "https://open.spotify.com/album/6ch0434Yzu5VCN6kKkLaJO"
       },
@@ -787,6 +783,26 @@
       "duration_ms": 295135,
       "name": "Shakkarpari",
       "url": "https://open.spotify.com/track/2ilZ5MQapkdxDI1fP4m25L"
+    },
+    {
+      "added_at": "2026-05-13 11:22:05",
+      "album": {
+        "name": "Pankh",
+        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
+      },
+      "artists": [
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        }
+      ],
+      "duration_ms": 365000,
+      "name": "Nayi Bhor",
+      "url": "https://open.spotify.com/track/7cpYb0cqkPhIFX8Rnex93e"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -863,30 +879,6 @@
     {
       "added_at": "2026-05-13 11:22:05",
       "album": {
-        "name": "Pankh",
-        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
-      },
-      "artists": [
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Shantanu Moitra",
-          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
-        },
-        {
-          "name": "Ajoy Chakrabarty",
-          "url": "https://open.spotify.com/artist/2yIEYEbk5C7Sh3t9ggKJAJ"
-        }
-      ],
-      "duration_ms": 387000,
-      "name": "Mere Suron Mein",
-      "url": "https://open.spotify.com/track/5CNbIAKBV1kEdObKnqgIwX"
-    },
-    {
-      "added_at": "2026-05-13 11:22:05",
-      "album": {
         "name": "Only Love is Real",
         "url": "https://open.spotify.com/album/0etdWDLdBdvEIUnFl8baMC"
       },
@@ -915,6 +907,30 @@
       "duration_ms": 346000,
       "name": "Merging Parallels- Tribute to Dear Zakir Ji",
       "url": "https://open.spotify.com/track/1xZa28cOrAorS3RKt6xfBU"
+    },
+    {
+      "added_at": "2026-05-13 11:22:05",
+      "album": {
+        "name": "Pankh",
+        "url": "https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3"
+      },
+      "artists": [
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Shantanu Moitra",
+          "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
+        },
+        {
+          "name": "Ajoy Chakrabarty",
+          "url": "https://open.spotify.com/artist/2yIEYEbk5C7Sh3t9ggKJAJ"
+        }
+      ],
+      "duration_ms": 387000,
+      "name": "Mere Suron Mein",
+      "url": "https://open.spotify.com/track/5CNbIAKBV1kEdObKnqgIwX"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -987,6 +1003,22 @@
     {
       "added_at": "2026-05-13 11:22:05",
       "album": {
+        "name": "Classic Love",
+        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
+      },
+      "artists": [
+        {
+          "name": "Shubha Mudgal",
+          "url": "https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk"
+        }
+      ],
+      "duration_ms": 355266,
+      "name": "Seekho Na",
+      "url": "https://open.spotify.com/track/1Ar5Yq6mg57nt6w5vgiUgu"
+    },
+    {
+      "added_at": "2026-05-13 11:22:05",
+      "album": {
         "name": "Bandish Fusion & More",
         "url": "https://open.spotify.com/album/2adewooNTGv4eFztnfoYAV"
       },
@@ -1003,22 +1035,6 @@
       "duration_ms": 400957,
       "name": "Rangi Saari Gulabi Chunariya",
       "url": "https://open.spotify.com/track/4JBNysi2ev6akvX0JXa9db"
-    },
-    {
-      "added_at": "2026-05-13 11:22:05",
-      "album": {
-        "name": "Classic Love",
-        "url": "https://open.spotify.com/album/773Wui9AbfWwm72VYM8Bjs"
-      },
-      "artists": [
-        {
-          "name": "Shubha Mudgal",
-          "url": "https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk"
-        }
-      ],
-      "duration_ms": 355266,
-      "name": "Seekho Na",
-      "url": "https://open.spotify.com/track/1Ar5Yq6mg57nt6w5vgiUgu"
     },
     {
       "added_at": "2026-05-13 11:22:05",
@@ -1075,30 +1091,6 @@
       "duration_ms": 207517,
       "name": "SAANJH BHAYI",
       "url": "https://open.spotify.com/track/5FuvUFQ72H7rQOclk5squE"
-    },
-    {
-      "added_at": "2026-05-13 11:22:05",
-      "album": {
-        "name": "Aye Na Baalam",
-        "url": "https://open.spotify.com/album/6puODOC1EE1pJBbFAVq5q4"
-      },
-      "artists": [
-        {
-          "name": "The Bombay Chill",
-          "url": "https://open.spotify.com/artist/05r5zMnYeosNIESUzhbHhd"
-        },
-        {
-          "name": "Aditya Pushkarna",
-          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
-        },
-        {
-          "name": "Ajay Tiwari",
-          "url": "https://open.spotify.com/artist/2lcUlawqk8jssyIOd7GTy5"
-        }
-      ],
-      "duration_ms": 333809,
-      "name": "Aye Na Baalam",
-      "url": "https://open.spotify.com/track/33G967Z68M8rwvQGZe6WRk"
     }
   ],
   "unique_name": "Fusion Finds",

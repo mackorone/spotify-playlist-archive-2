@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Qing Madi
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,022 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,075 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 88 | [Gold Digger](https://open.spotify.com/track/02D1c5p1YaBcGHmei9aX3s) | [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2) | [Introvert Disco](https://open.spotify.com/album/3pHGMyIporBBRCpCU9tAs9) | 3:10 |
 | 89 | [Moon](https://open.spotify.com/track/2OV2fA4h3zqWm705ntPM9x) | [Sante SVM](https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1) | [Ammore Doce \(Heaven Sounds\)](https://open.spotify.com/album/5nuFGxXzOFumnW5UYW49CP) | 2:32 |
 | 90 | [Thobela](https://open.spotify.com/track/2nbIOACMsrzwJRffLmysWa) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Farm Julia](https://open.spotify.com/album/1rredyCC7vDRBE3wxb153V) | 4:50 |
-| 91 | [Cn I see u \(feat\. BXKS & BarbieSZN\)](https://open.spotify.com/track/23eqHSHlC1VTgCW8EqHoxV) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [BarbieSZN](https://open.spotify.com/artist/7artciaaHDwhU9bsORcUl5) | [4 DA STREETS!](https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK) | 5:51 |
+| 91 | [Cn I see u \(feat\. BarbieSZN\)](https://open.spotify.com/track/23eqHSHlC1VTgCW8EqHoxV) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [BarbieSZN](https://open.spotify.com/artist/7artciaaHDwhU9bsORcUl5) | [4 DA STREETS!](https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK) | 5:51 |
 | 92 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
 | 93 | [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 |
 | 94 | [No Touching](https://open.spotify.com/track/44z2DxLiXMXUz8MVNM5V8u) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [No Touching](https://open.spotify.com/album/2FQ31NoLa34SCId9LpYTso) | 2:41 |

@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAIxsko0FwUUPksowYvUVGffFrTLJ2z",
+  "snapshot_id": "AAAIyI9yzD8SUPfLkiQrBxiFX/TrZvJy",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -73287,6 +73287,38 @@
       "duration_ms": 251610,
       "name": "Paramount",
       "url": "https://open.spotify.com/track/1MNWQKYwZp0eIAXW71Hd15"
+    },
+    {
+      "added_at": "2026-06-02 06:01:22",
+      "album": {
+        "name": "HEXE",
+        "url": "https://open.spotify.com/album/6xC2UI57tNsEp38Wg485pm"
+      },
+      "artists": [
+        {
+          "name": "Hexe",
+          "url": "https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN"
+        }
+      ],
+      "duration_ms": 198334,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/0a2CcExfykpLoFuK3ZHdZW"
+    },
+    {
+      "added_at": "2026-06-02 17:35:54",
+      "album": {
+        "name": "Daisy Chain",
+        "url": "https://open.spotify.com/album/5cSHUqZebXpRoaH0F6dQDm"
+      },
+      "artists": [
+        {
+          "name": "Widows Peak!",
+          "url": "https://open.spotify.com/artist/2gDRzqbTrY7TBnKxt3xI4Y"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Daisy Chain",
+      "url": "https://open.spotify.com/track/4y8MuL6L7lOvRoqouYvzkU"
     }
   ],
   "unique_name": "playlist spotify free",

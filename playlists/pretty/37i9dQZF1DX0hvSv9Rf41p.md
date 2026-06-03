@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a> 🚀🚀 featuring Levity
 
-[Spotify](https://open.spotify.com/user/spotify) - 993,869 likes - 90 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 993,898 likes - 90 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eyes Cut Deeper \- Crankdat Remix](https://open.spotify.com/track/2qwDBUFbjlzSQnOLOa6V7m) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Eyes Cut Deeper \(Crankdat Remix\)](https://open.spotify.com/album/1mWH95UcqhIYJHQmk8hydv) | 4:03 |
 | 2 | [Neon Soul](https://open.spotify.com/track/5ONOXYgmiuLZk8oxy2zr0X) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [Neon Soul](https://open.spotify.com/album/6HnQIxrBh3JMlsd4P3F8X3) | 3:32 |
 | 3 | [Visualize](https://open.spotify.com/track/1MttZtFQZkkCWbkeFfdKVQ) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [Finnuh](https://open.spotify.com/artist/3YLDaKhikm7TdqKUUejjzA) | [Visualize](https://open.spotify.com/album/57b5uW1BNSl2EfR4CjswEz) | 3:18 |
-| 4 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
+| 4 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
 | 5 | [BBFL](https://open.spotify.com/track/0pqlIvYxalvFLP1Oje5zD3) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [BBFL](https://open.spotify.com/album/0CodZZC4AQt9FtcZTdM4EB) | 3:14 |
 | 6 | [Fuck The Whole World \- Subtronics Remix](https://open.spotify.com/track/4D5abe8UYoP2K2sKxyx3mT) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Fuck The Whole World \(Subtronics Remix\)](https://open.spotify.com/album/24kOcYxCPLESlexPHkM3Ct) | 2:35 |
 | 7 | [WONKY SHIT](https://open.spotify.com/track/1HzfJVzAFhHxas1hpco7bs) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Plaza](https://open.spotify.com/artist/5byn1BtQQdomxOZgqd2S0Y) | [WONKY SHIT](https://open.spotify.com/album/7g4Yj4gmORFhAJf11XXuOL) | 3:12 |

@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 22 | [All They Wanna Be](https://open.spotify.com/track/2ffNvrXkSX5hNTCcDp0q9V) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42), [Caslin](https://open.spotify.com/artist/6We20xnlWq1e0X62ONbrFL) | [All They Wanna Be](https://open.spotify.com/album/2tzjglYB5QW3baeP7J9xHj) | 2:48 |
 | 23 | [Fira jul med mig](https://open.spotify.com/track/0V4WjLiC3Kg7pkGHN5O2cU) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [TILL\_\_\_\_\_FRÅN\_\_\_\_\_](https://open.spotify.com/album/12YzGnrZZ99j2C5eQciaTK) | 3:43 |
 | 24 | [Human](https://open.spotify.com/track/38aPeueGAUmEneEEJoANXO) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [Human](https://open.spotify.com/album/74OCmHnI3mJUjJri4WlmIA) | 2:26 |
-| 25 | [Dedicated](https://open.spotify.com/track/49qTk1mtH5egKmtxQwwdkG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Dedicated](https://open.spotify.com/album/5iyZF0ue1oW5JnMJfdSiUe) | 3:02 |
-| 26 | [Lush Life \(feat\. Tinie Tempah\)](https://open.spotify.com/track/0QM5owqtiWikQV6VWL2hgS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Lush Life Remixes \(feat\. Tinie Tempah\)](https://open.spotify.com/album/4ZFz2vLiwYQbe0zURJ4WrB) | 3:20 |
+| 25 | [Lush Life \(feat\. Tinie Tempah\)](https://open.spotify.com/track/0QM5owqtiWikQV6VWL2hgS) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Lush Life Remixes \(feat\. Tinie Tempah\)](https://open.spotify.com/album/4ZFz2vLiwYQbe0zURJ4WrB) | 3:20 |
+| 26 | [Dedicated](https://open.spotify.com/track/49qTk1mtH5egKmtxQwwdkG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Dedicated](https://open.spotify.com/album/5iyZF0ue1oW5JnMJfdSiUe) | 3:02 |
 | 27 | [Changed My Mind](https://open.spotify.com/track/4CFlDepqivJp9ECpBZOv0s) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sway](https://open.spotify.com/album/3fSRbKgYW6kcR1ZFMaaNV4) | 3:05 |
 | 28 | [Sleep](https://open.spotify.com/track/4PkMVAihnrYVRMiFZd7m3y) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Teenage Fever](https://open.spotify.com/album/3G0TPBSln1Bc2NWV4uuNr2) | 2:50 |
 | 29 | [Unmiss You](https://open.spotify.com/track/2wlJT4GJkQNXeI4GxLUhLQ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Drunk On Emotions](https://open.spotify.com/album/420G51WTKOJQFg7YknO4Xi) | 3:10 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 106 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 107 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcTFugAAAAANFalZRpKUYsT6IrGbYSrL`
+Snapshot ID: `AcTLWgAAAAA0WSf5bt7f9a/Ms+J5hw0E`

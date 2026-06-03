@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23229,
+  "num_followers": 23232,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -99,18 +99,18 @@
     {
       "added_at": "2026-05-22 03:01:20",
       "album": {
-        "name": "Un Afrito",
-        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
       },
       "artists": [
         {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 127058,
-      "name": "Un Afrito",
-      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
+      "duration_ms": 125560,
+      "name": "Mal o Bien",
+      "url": "https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4"
     },
     {
       "added_at": "2026-05-22 03:01:20",
@@ -135,18 +135,18 @@
     {
       "added_at": "2026-05-22 03:01:20",
       "album": {
-        "name": "CANDELA",
-        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+        "name": "Un Afrito",
+        "url": "https://open.spotify.com/album/4Gpxahsskuc5R2nj1Wqft7"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
         }
       ],
-      "duration_ms": 125560,
-      "name": "Mal o Bien",
-      "url": "https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4"
+      "duration_ms": 127058,
+      "name": "Un Afrito",
+      "url": "https://open.spotify.com/track/213EYsG3x95vtxupDU1XMc"
     },
     {
       "added_at": "2026-05-22 03:01:20",
@@ -191,26 +191,6 @@
     {
       "added_at": "2026-05-22 03:01:20",
       "album": {
-        "name": "Formation",
-        "url": "https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Formation",
-      "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
-    },
-    {
-      "added_at": "2026-05-22 03:01:20",
-      "album": {
         "name": "AFRICAN GIRLS",
         "url": "https://open.spotify.com/album/7F76UW4g4Mq8rRLznvAAuc"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 123582,
       "name": "AFRICAN GIRLS",
       "url": "https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad"
+    },
+    {
+      "added_at": "2026-05-22 03:01:20",
+      "album": {
+        "name": "Formation",
+        "url": "https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Formation",
+      "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
     },
     {
       "added_at": "2026-05-22 03:01:20",

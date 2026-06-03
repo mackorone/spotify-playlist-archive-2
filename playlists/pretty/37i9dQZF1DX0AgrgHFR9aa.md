@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : BEN plg
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,521 likes - 40 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,528 likes - 40 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 5 | [nofuture](https://open.spotify.com/track/5q0Xh6gHDBngynqeRIjCVW) | [Coelho](https://open.spotify.com/artist/45EiqrrOPCklyjQWF3Z6pR) | [millénium](https://open.spotify.com/album/3zYyqINgPNfPl7YGQYMSGw) | 2:00 |
 | 6 | [ZÉNITH](https://open.spotify.com/track/62BnSCmNcTZRXlWuEHllG8) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA), [Furax Barbarossa](https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa) | [ZÉNITH](https://open.spotify.com/album/3iUwzx9RU5uR7lLmTmEWhz) | 5:06 |
 | 7 | [La dose](https://open.spotify.com/track/6oJDUuaWEWaQaad79MGMMD) | [Frs taga](https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy) | [La dose](https://open.spotify.com/album/1gOAseYq3NJjaxNAqhE1Vj) | 2:15 |
-| 8 | [Lettre à ma mère](https://open.spotify.com/track/4oO2ynUVIg7Y3ta6FPTWXq) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q), [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Lettre à ma mère](https://open.spotify.com/album/2xTfFho04fzVXCto1vIduP) | 2:29 |
+| 8 | [Lettre à ma mère](https://open.spotify.com/track/4oO2ynUVIg7Y3ta6FPTWXq) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q), [EMEL](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Lettre à ma mère](https://open.spotify.com/album/2xTfFho04fzVXCto1vIduP) | 2:29 |
 | 9 | [Tout ira bien](https://open.spotify.com/track/6rbiqFQJFvZpGji9O0XfTm) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Blanco nemesis](https://open.spotify.com/album/1CVD0XgRZjmkeO11U90NPo) | 3:06 |
 | 10 | [99PROBLEMS](https://open.spotify.com/track/7A0S4M94TZ3Mk7HQbHb3JE) | [Sullykzr](https://open.spotify.com/artist/1B7eisw20jZOhrLMVHY2TW) | [99PROBLEMS](https://open.spotify.com/album/2VqTBQbkGweuAcF3plNujF) | 2:48 |
 | 11 | [Rassurez le ciel](https://open.spotify.com/track/7tfoC11vX2JPAqjKy9ylfr) | [Mehdi Miklo](https://open.spotify.com/artist/4ZKVDoSZmED2oG5XpABWeB), [Relo](https://open.spotify.com/artist/5BFtEJBJahei6oC8llF8sf), [Aketo](https://open.spotify.com/artist/500IcTDu7sWtvgvEZSIiFE), [Tedax Max](https://open.spotify.com/artist/6hjoQ84QiA6LVscW9dhcmO) | [Les premières debout](https://open.spotify.com/album/1aSINmHWcbyw3BCBhos5GB) | 4:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Zúmbale Primo, & Corazón Serrano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,103 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,114 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,12 +93,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 83 | [El Cabro Curao](https://open.spotify.com/track/0f9eUTpRbz2KxLN6ZzEXCF) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [El Cabro Curao](https://open.spotify.com/album/4K0oyBxGYlW7jEpTre1yOj) | 3:06 |
 | 84 | [La Vida No Vale Nada](https://open.spotify.com/track/1nPSdGeHjbW8MLhburOjs7) | [Los tremendos laureles](https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U) | [La Vida No Vale Nada](https://open.spotify.com/album/6F4yHIATU6fAEsSnUUlyuC) | 3:24 |
 | 85 | [La Micaela](https://open.spotify.com/track/0Ftlv1wH2frm0dQ75jsEbi) | [Los Infieles de Santa Barbara](https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs) | [La Micaela](https://open.spotify.com/album/63JxxwL5j49odPATTA2PPT) | 3:15 |
-| 86 | [Palomita de Alas Blancas](https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Palomita de Alas Blancas](https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78) | 1:55 |
+| 86 | [Elenita](https://open.spotify.com/track/2zGqdm3UcCjy1crKuCVoDI) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Corridos de Rancho](https://open.spotify.com/album/56gfVFY5SibVSqOBWigNc0) | 4:06 |
 | 87 | [Los Mandados](https://open.spotify.com/track/0Lwi83xdc4c31ACSrezAqT) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [Los Mandados](https://open.spotify.com/album/0DKgDIESuYHyMCRtoPrSjw) | 3:17 |
 | 88 | [Heroica Matamoro](https://open.spotify.com/track/5QEhl8Q4J86rbiKWo3ihZ8) | [Los Super Rancheros](https://open.spotify.com/artist/4UWijF2yUrmtdhVZQ9Jie3), [Aquiles Salas](https://open.spotify.com/artist/6ndTfundAyvdOLwfhdkNLc), [German meza](https://open.spotify.com/artist/33JyGRE0aoE4VVsc3YDX7W), [Alejandro Ramirez](https://open.spotify.com/artist/0f4LDQu2Wo0MdWjH7Kcms5), [Pedro Toledo](https://open.spotify.com/artist/4W42QCkcQNUo5TePWWTVvb), [Felipe Huenteñanco](https://open.spotify.com/artist/0QBFa0YTKTkz9ltTqWYgc5) | [Que Milagro Chaparrita](https://open.spotify.com/album/2RqDzWaYPzUhV8E7EwImN8) | 2:52 |
 | 89 | [Tu Amor Barato](https://open.spotify.com/track/4aqFAEwxpD3UFFjZUXNIOx) | [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g), [Incondicionales](https://open.spotify.com/artist/0INHt4DwMkY5lMtHdbdSog) | [Tu Amor Barato](https://open.spotify.com/album/1KmKiGShZ6TThgvJWKVUrA) | 3:16 |
 | 90 | [El Muñeco](https://open.spotify.com/track/6h6li7ucK8Te3dBRRbLQpW) | [Las Patronas de Chile](https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk) | [El Muñeco](https://open.spotify.com/album/6Z07ylD7FrOyaptOmnCvns) | 3:58 |
-| 91 | [Elenita](https://open.spotify.com/track/2zGqdm3UcCjy1crKuCVoDI) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Corridos de Rancho](https://open.spotify.com/album/56gfVFY5SibVSqOBWigNc0) | 4:06 |
+| 91 | [Palomita de Alas Blancas](https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Palomita de Alas Blancas](https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78) | 1:55 |
 | 92 | [El Solovino](https://open.spotify.com/track/2gwJ7zMBGxv6SwtuCbQZI8) | [Alexia Lillo](https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU) | [El Solovino](https://open.spotify.com/album/39XXGFyiyzZMo3fbj1jnbV) | 3:03 |
 | 93 | [Vivo en Tinieblas](https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt) | [Zumba Ranchera](https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu) | [Vivo en Tinieblas](https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ) | 3:46 |
 | 94 | [La Sustancia](https://open.spotify.com/track/1z36T7YUnNnuEjhaTFkTRk) | [Los Súper Sicarios](https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4) | [La Sustancia](https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1) | 3:26 |

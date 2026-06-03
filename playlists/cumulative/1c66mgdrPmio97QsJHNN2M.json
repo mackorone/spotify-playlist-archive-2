@@ -3113,6 +3113,24 @@
     },
     {
       "album": {
+        "name": "Battery Song",
+        "url": "https://open.spotify.com/album/5TxBGztAdAPftwgfvTexTo"
+      },
+      "artists": [
+        {
+          "name": "Alice Flynn",
+          "url": "https://open.spotify.com/artist/5OZdQZGzTtDgWikHkjbkPe"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195590,
+      "name": "Battery Song",
+      "url": "https://open.spotify.com/track/2sBCpC4736bO3ppGhMwLAY"
+    },
+    {
+      "album": {
         "name": "Be Able to Love",
         "url": "https://open.spotify.com/album/7aeQRtbSegbwni28Yb8QRo"
       },
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 220032,
       "name": "Before Happiness",
       "url": "https://open.spotify.com/track/3zV6bwrq2tZNCz65PQHMKf"
@@ -11621,6 +11639,24 @@
     },
     {
       "album": {
+        "name": "Fracture",
+        "url": "https://open.spotify.com/album/3satf1i32qi6OjwuThtWbl"
+      },
+      "artists": [
+        {
+          "name": "Michael Williams",
+          "url": "https://open.spotify.com/artist/7FeseUW4CbYiZUY8i0btke"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156206,
+      "name": "Fracture",
+      "url": "https://open.spotify.com/track/0so7XUcCkIIf0kmGoj3P4C"
+    },
+    {
+      "album": {
         "name": "Fragment",
         "url": "https://open.spotify.com/album/7EtIPFvsepIT2H3EElJRf3"
       },
@@ -14272,6 +14308,42 @@
       "duration_ms": 184500,
       "name": "Holly Creek",
       "url": "https://open.spotify.com/track/3lHcUCBfB8tQF3EdfbrqxQ"
+    },
+    {
+      "album": {
+        "name": "Holy Holy",
+        "url": "https://open.spotify.com/album/1RhiPSEt4dUgPYm6E72de2"
+      },
+      "artists": [
+        {
+          "name": "Brasco",
+          "url": "https://open.spotify.com/artist/0fhsezU1oGycfZ8hZnqf06"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164475,
+      "name": "Holy Holy",
+      "url": "https://open.spotify.com/track/2d0SwiQA0WTM3pL4OeY5kv"
+    },
+    {
+      "album": {
+        "name": "Home (Now That The Sun Shines The Light Of Your Smile)",
+        "url": "https://open.spotify.com/album/0HoxniOgZpOe2x5t8oD72k"
+      },
+      "artists": [
+        {
+          "name": "The Elysian Lovers",
+          "url": "https://open.spotify.com/artist/1FP9jgyDPwtyyl5bUel8Gu"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202258,
+      "name": "Home (Now That The Sun Shines The Light Of Your Smile)",
+      "url": "https://open.spotify.com/track/2fOEqrTstwxNfNQsPT0vsO"
     },
     {
       "album": {
@@ -17745,6 +17817,24 @@
     },
     {
       "album": {
+        "name": "Lake Boats and Bad Decisions",
+        "url": "https://open.spotify.com/album/6yFjpYVW8RhRecS9AcblYF"
+      },
+      "artists": [
+        {
+          "name": "Jason Jarrett",
+          "url": "https://open.spotify.com/artist/4rgw61pW4Elbxf14ssmWWO"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183799,
+      "name": "Lake and Home",
+      "url": "https://open.spotify.com/track/4AH7mkpCujHYBh3IN5ZMpj"
+    },
+    {
+      "album": {
         "name": "Lake Yacht (Pontoon) Party",
         "url": "https://open.spotify.com/album/0N5vQvMlWevt5xvt0uvWvG"
       },
@@ -20862,7 +20952,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 192475,
       "name": "Mercury (Alive)",
       "url": "https://open.spotify.com/track/0GMtlsuTQeZ223oTCOkge4"
@@ -20920,6 +21010,24 @@
       "duration_ms": 190769,
       "name": "merry go ride",
       "url": "https://open.spotify.com/track/4Jp9WaezW7pSVinrabzEu8"
+    },
+    {
+      "album": {
+        "name": "Mess",
+        "url": "https://open.spotify.com/album/31uiztvTTiapWHlOEVJDhe"
+      },
+      "artists": [
+        {
+          "name": "Noah Reed",
+          "url": "https://open.spotify.com/artist/7ux9YtAQ2kNFGYyRFkbHSs"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Mess",
+      "url": "https://open.spotify.com/track/7gE4k0QxCd4MaQB48ZdkEN"
     },
     {
       "album": {
@@ -22486,6 +22594,24 @@
       "duration_ms": 190562,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/2d3i9u2B7NrkIptXoc2fjT"
+    },
+    {
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4voTuW5pgdnkCB5KHraOYU"
+      },
+      "artists": [
+        {
+          "name": "Laura T",
+          "url": "https://open.spotify.com/artist/3Qt7acxY253meLC7AntJ4Q"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/7e6kwHLL54wCzs8Rp0FRtt"
     },
     {
       "album": {
@@ -27099,6 +27225,24 @@
     },
     {
       "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/0HVqnf7rxWdTL5WGImR6zy"
+      },
+      "artists": [
+        {
+          "name": "Archi Deep",
+          "url": "https://open.spotify.com/artist/42s1u3l3z37YDK9u3zZrYl"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200598,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/7GhCtNQFA0xGvg3uDmAHqJ"
+    },
+    {
+      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/2pUF5tKzFD1uHLi3MbYUtI"
       },
@@ -28898,7 +29042,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 238075,
       "name": "Shockwave",
       "url": "https://open.spotify.com/track/4zWRdirRDv4yvu0Gw4J4PB"
@@ -32755,6 +32899,24 @@
     },
     {
       "album": {
+        "name": "The Movie",
+        "url": "https://open.spotify.com/album/67VEkSw5Uv8tUd4BZVPGG4"
+      },
+      "artists": [
+        {
+          "name": "The Night Herons",
+          "url": "https://open.spotify.com/artist/4L6aCmOtfPzMjIfCNukBK0"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164328,
+      "name": "The Movie",
+      "url": "https://open.spotify.com/track/0dsQgn998kAYU6fSCOhckQ"
+    },
+    {
+      "album": {
         "name": "The Old Wood",
         "url": "https://open.spotify.com/album/3kRb4sCR7SDa2Lv6mrfO3L"
       },
@@ -33062,6 +33224,24 @@
       "duration_ms": 180129,
       "name": "The Songwriter - Radio Edit",
       "url": "https://open.spotify.com/track/7oBo2oxmmzUZuX9cRjDV57"
+    },
+    {
+      "album": {
+        "name": "The Sound of My Heart",
+        "url": "https://open.spotify.com/album/5zl6vvvn1CQ0lb7Hvh8gOM"
+      },
+      "artists": [
+        {
+          "name": "FluxStudioMusic",
+          "url": "https://open.spotify.com/artist/4Z2kA1BcldyttLBnzafwT8"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167920,
+      "name": "The Sound of My Heart",
+      "url": "https://open.spotify.com/track/2w79hLdvi8D4DdJJcKt0JT"
     },
     {
       "album": {
@@ -35027,6 +35207,24 @@
     },
     {
       "album": {
+        "name": "Unstoppable (Remix)",
+        "url": "https://open.spotify.com/album/5FupyvLqGlj8KP1GqXDe9p"
+      },
+      "artists": [
+        {
+          "name": "AdigweFaith",
+          "url": "https://open.spotify.com/artist/3pCKjqpFf819LSqzCjm2ra"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146910,
+      "name": "Unstoppable - Remix",
+      "url": "https://open.spotify.com/track/65sTAtutZp09wVRurUXFxB"
+    },
+    {
+      "album": {
         "name": "UNTIL I SEE YOU",
         "url": "https://open.spotify.com/album/5IDgX5lxhCy47KqfqLNGW7"
       },
@@ -36442,6 +36640,24 @@
       "duration_ms": 174383,
       "name": "When I Fall",
       "url": "https://open.spotify.com/track/7gMLfb1NbOeDgmWZ6qZt7V"
+    },
+    {
+      "album": {
+        "name": "When I Kissed You Last Night",
+        "url": "https://open.spotify.com/album/7n6bxHSwHRNqd7m57Xgl7V"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Knowles",
+          "url": "https://open.spotify.com/artist/6PhCPE5aJjbyGjZrS8Qj4I"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198479,
+      "name": "When I Kissed You Last Night",
+      "url": "https://open.spotify.com/track/5ybkkLnsWaKzyQQGzOZmaH"
     },
     {
       "album": {

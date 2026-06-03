@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Kingfishr
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,864 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,870 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 4 | [End of an Era](https://open.spotify.com/track/4tif5uslc2gjyZ6LCOKxNV) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [End of an Era](https://open.spotify.com/album/0FSyYdz0o2YFjPwFpdk5iO) | 3:38 |
 | 5 | [The Fall](https://open.spotify.com/track/5JGxNbaQDvKbWvOINQsmJT) | [THEATRE](https://open.spotify.com/artist/3bkMM2QzmYCMgXvVGEzVTc) | [The Fall](https://open.spotify.com/album/1xBoBXfB0PemI4P8ugKkHx) | 4:19 |
 | 6 | [SPLINTER](https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [Splinter](https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB) | 2:53 |
-| 7 | [We Fall](https://open.spotify.com/track/29tmBVWOnuKqLR4RlhKcgS) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [We Fall](https://open.spotify.com/album/2a9ZkB99tNx8XmWXjCegpM) | 4:01 |
+| 7 | [we fall](https://open.spotify.com/track/29tmBVWOnuKqLR4RlhKcgS) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [we fall](https://open.spotify.com/album/2a9ZkB99tNx8XmWXjCegpM) | 4:01 |
 | 8 | [Nobody's Coming To Save You](https://open.spotify.com/track/0difWBwYseFbbXTAj6TyOi) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Nobody's Coming To Save You](https://open.spotify.com/album/08GMRYh0ZUnEE9w7y9S0CF) | 3:42 |
 | 9 | [John's Song](https://open.spotify.com/track/0LtyfzUIi656oVoKbc3tqF) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [John's Song](https://open.spotify.com/album/3NU7iqOGclbHvW86UGdI1i) | 4:40 |
 | 10 | [All About You](https://open.spotify.com/track/2hVlxeaMNN9VsOz8MPVsGn) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [modernlove.](https://open.spotify.com/album/4XDvxGdkDLvfUJO6gfVZ1x) | 3:04 |

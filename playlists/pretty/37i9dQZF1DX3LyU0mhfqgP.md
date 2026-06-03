@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Songs from LGBTQIA+ artists\. Cover: wavvyboi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,512 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,518 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 19 | [Coming Close](https://open.spotify.com/track/64uIpEA5lQruLaWkLBe1gD) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Coming Close](https://open.spotify.com/album/1J5Wu7w9kslu8f7OGd4R7H) | 2:58 |
 | 20 | [Griever](https://open.spotify.com/track/0kGmMyiYwIfkYdDOHPzYiS) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Male Validation and Other Drugs](https://open.spotify.com/album/2n0EAYrWThiwLndOZZ95dM) | 2:31 |
 | 21 | [Jealous](https://open.spotify.com/track/6kMwpe62x72ozIAGRLRR0u) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Gold Star Baby](https://open.spotify.com/album/5f6o1GrIrDjFnuxDd0c4GK) | 2:25 |
-| 22 | [VIP \(ninguém te conhece\)](https://open.spotify.com/track/1yCeG6Sf2OLp23JYydjlo2) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [VIP \(ninguém te conhece\)](https://open.spotify.com/album/0iyjjaH4TXrfuHUhT0SnnU) | 2:46 |
+| 22 | [VIP \(ninguém te conhece\)](https://open.spotify.com/track/1yCeG6Sf2OLp23JYydjlo2) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [VIP \(ninguém te conhece\)](https://open.spotify.com/album/0iyjjaH4TXrfuHUhT0SnnU) | 2:46 |
 | 23 | [Say You’ll Be There](https://open.spotify.com/track/120OFSsTEeENBSnp6bHrNs) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [BABY JAKE](https://open.spotify.com/album/3rClarwptOqh2A2oaWJEDx) | 3:16 |
 | 24 | [FLORIDA MAN](https://open.spotify.com/track/7C5bt32X9IwDZqH3UNHZcU) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [A SWAN FROM GATORLAND \(Return of the Swan\)](https://open.spotify.com/album/7GgvEcpfL8PNghkY57XMVF) | 4:14 |
 | 25 | [Dressin'](https://open.spotify.com/track/0fR98swBUtvJP3p8gyQAVR) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Dressin'](https://open.spotify.com/album/6uL9jAno7bic63OfT8ZN2e) | 2:26 |

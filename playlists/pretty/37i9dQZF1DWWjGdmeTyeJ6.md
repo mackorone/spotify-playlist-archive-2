@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Paycheque\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,258 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,212 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 57 | [Tethered](https://open.spotify.com/track/62EzEgubVZvysSJ5tdI5Z6) | [Lucas Mason](https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra) | [Tethered](https://open.spotify.com/album/382poICiVdod0ZqSrvHpuL) | 4:01 |
 | 58 | [i can see ur progress from here](https://open.spotify.com/track/69uOKhqJ6y1kkayZILeJaa) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ), [Briana Bene](https://open.spotify.com/artist/2BYw0kqiNbjtp1clFthnGe) | [i can see ur progress from here](https://open.spotify.com/album/19uxmnBsktsHPlLCooMyLn) | 4:00 |
 | 59 | [decisive](https://open.spotify.com/track/3FlTShTVvHO8mu8mhVkyuG) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [icymi](https://open.spotify.com/album/6Qbs32G4mESE1J1meOfDRx) | 2:19 |
-| 60 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
+| 60 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
 | 61 | [Dali \(Reach Out\)](https://open.spotify.com/track/5QZ0brQWYd1pLejf3mPRlu) | [Chiderah](https://open.spotify.com/artist/51lUXxQwHhDVh60qJGeidd) | [Dali \(Reach Out\)](https://open.spotify.com/album/5kbD2HnWaU9kzHYiMuaQin) | 3:11 |
 | 62 | [Liar Liar](https://open.spotify.com/track/43nlIi8s0GhjIc47lQ7lr5) | [dearest](https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT) | [Liar Liar](https://open.spotify.com/album/0W7U9wdIcFsDVIJmExlPLX) | 3:15 |
 | 63 | [DID YOU MOVE?](https://open.spotify.com/track/5qAJU71AfadQO8VrmZuujG) | [Veronica](https://open.spotify.com/artist/6u7k7tbT583IHziqzFAC8j) | [DID YOU MOVE?](https://open.spotify.com/album/229SVrbKan2ks7saTexvz0) | 3:53 |

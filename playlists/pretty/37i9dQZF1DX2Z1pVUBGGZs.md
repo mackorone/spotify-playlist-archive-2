@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 🌟<br/>cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,374 likes - 88 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,342 likes - 88 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 26 | [White Noise](https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:45 |
 | 27 | [Cyanide](https://open.spotify.com/track/26yJKtzmQLGRlhocFH18GL) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Eddy Luna](https://open.spotify.com/artist/7gnObZHxWlF5E82KGlKHMM) | [Cyanide](https://open.spotify.com/album/6JBPy3m6HnqK0daHMg21eV) | 3:02 |
 | 28 | [STOP](https://open.spotify.com/track/2487dSsY2qY7OZxbhSdqDp) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [are you mad at me?](https://open.spotify.com/album/3YyOwxYRBrWdfDqBtps1RL) | 2:56 |
-| 29 | [We Fall](https://open.spotify.com/track/29tmBVWOnuKqLR4RlhKcgS) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [We Fall](https://open.spotify.com/album/2a9ZkB99tNx8XmWXjCegpM) | 4:01 |
+| 29 | [we fall](https://open.spotify.com/track/29tmBVWOnuKqLR4RlhKcgS) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [we fall](https://open.spotify.com/album/2a9ZkB99tNx8XmWXjCegpM) | 4:01 |
 | 30 | [Can't Get You Out of My Head \- Spotify Singles](https://open.spotify.com/track/6j4kyvjM60Te1mU0H2LTwR) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Can't Get You Out of My Head \- Spotify Singles](https://open.spotify.com/album/6ynUBc9yQ4pq7kImTMdOql) | 2:58 |
 | 31 | [Skin](https://open.spotify.com/track/58HVudmVLO9xJRzIB73Q10) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Skin](https://open.spotify.com/album/39reMRtfodkliiyAANelxs) | 3:00 |
 | 32 | [i'm not yours](https://open.spotify.com/track/4lpBtva69uPgJYobeZDjom) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [i'm not yours](https://open.spotify.com/album/7D73HvJlfTD4fghC9gjmdj) | 2:56 |

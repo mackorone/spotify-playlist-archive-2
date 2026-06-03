@@ -3988,7 +3988,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -18009,6 +18009,24 @@
     },
     {
       "album": {
+        "name": "Tochka za men",
+        "url": "https://open.spotify.com/album/7DB2xbWZn9cQC6w3tmD4vP"
+      },
+      "artists": [
+        {
+          "name": "Djulia",
+          "url": "https://open.spotify.com/artist/6KsiFFe8CENPP9DN3SRouY"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174829,
+      "name": "Iskam ot teb",
+      "url": "https://open.spotify.com/track/2duH4aHmawCOPCayHzlLae"
+    },
+    {
+      "album": {
         "name": "ISKAM PAK",
         "url": "https://open.spotify.com/album/0Rqg4AxSWVGLukKyox7vun"
       },
@@ -19064,7 +19082,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 199053,
       "name": "Kasay",
       "url": "https://open.spotify.com/track/4d8taEOlMp4ckG2OqxOjuW"
@@ -20482,7 +20500,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -25194,7 +25212,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 246099,
       "name": "Ne se iztrivash",
       "url": "https://open.spotify.com/track/0eFXnAmevM77kRInrvf3G1"
@@ -42764,7 +42782,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-03",
+      "date_removed": null,
       "duration_ms": 212957,
       "name": "\u0411\u0443\u043b\u0435\u0432\u0430\u0440\u0434\u0430",
       "url": "https://open.spotify.com/track/7ESOjeoe9blHDhUjkJmWxP"
@@ -43198,7 +43216,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 248000,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
       "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
@@ -48370,7 +48388,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 200000,
       "name": "\u0420\u0430\u043d\u043e \u043f\u0440\u0438\u0437\u043e\u0440\u0438",
       "url": "https://open.spotify.com/track/6i1VePbXqvRNdANixCeGUq"

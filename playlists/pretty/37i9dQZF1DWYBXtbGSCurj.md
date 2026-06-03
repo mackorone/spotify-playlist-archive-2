@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Cashley
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,214 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,197 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 9 | [Segura e Balança](https://open.spotify.com/track/5qH7gumWWhMbjgy70qGFaJ) | [tarisiix](https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si), [RT](https://open.spotify.com/artist/3YMasnoYSH9bsROHJMHbpD), [LIMÃO](https://open.spotify.com/artist/4uXop3eLCglwjtm6tlGPIB), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [Murilogm7](https://open.spotify.com/artist/7f26dXqFs0x8neyOroI1gT) | [TDR COMICS SONGS](https://open.spotify.com/album/0vz6xCVSApDmDaHG4vQaTo) | 2:54 |
 | 10 | [VIP](https://open.spotify.com/track/06ax5FRto8zzgUOmH6u6BZ) | [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ) | [VIP](https://open.spotify.com/album/6sAgL91d9yKrUgE31kH1jO) | 2:36 |
 | 11 | [OURO ROSE](https://open.spotify.com/track/6Djj2vYeqmjSHzgQXnR8ZH) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [$CAM](https://open.spotify.com/artist/4Jv7ETgeBkcRMkuK6x2eei) | [Linguagem De Rua](https://open.spotify.com/album/1pdDqLCha7jsiouRVoNPNH) | 3:26 |
-| 12 | [VAMPIRA](https://open.spotify.com/track/53sU5FYujB8QaiH61RyQ5l) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:50 |
+| 12 | [VAMPIRA](https://open.spotify.com/track/53sU5FYujB8QaiH61RyQ5l) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FREQUÊNCIA LUNAR](https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR) | 2:50 |
 | 13 | [Direções](https://open.spotify.com/track/1oE7B66KQ0quiuVSlkYNhN) | [Boaventura](https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [H4lfmeasures](https://open.spotify.com/artist/1EihkUZJcXOwXN4tedcfxd), [Vertigo](https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j) | [Direções](https://open.spotify.com/album/3ZfxRxvlBmtoayBHUrnVGT) | 2:42 |
 | 14 | [FALSOS NÃO VÃO PASSAR](https://open.spotify.com/track/4zsU8uiIEhQilwxtMNItWv) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ) | [MALINO](https://open.spotify.com/album/6dZAg2wjDklqV1H28NQ8OV) | 1:39 |
 | 15 | [Te vi lá no Site](https://open.spotify.com/track/4jiI22iczGZ1FfITZfrxP9) | [Shenlong](https://open.spotify.com/artist/6Dzh6uXgA0QKVg1eIWxdDY), [Portugal No Beat](https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q) | [Te vi lá no Site](https://open.spotify.com/album/3XnWWrxSRW23SYzsJq6pW0) | 2:37 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > SAIKO con Zion y Yapi, Young Miko con Rauw Alejandro,  Myke Towers, DELLAFUENTE y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,084 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,074 likes - 85 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

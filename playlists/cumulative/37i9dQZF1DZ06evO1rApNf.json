@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Ricky y Mau",
+        "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170021,
+      "name": "007",
+      "url": "https://open.spotify.com/track/4RJREILvR0jzRMbNHpXwj8"
+    },
+    {
+      "album": {
         "name": "3 de La Ma\u00f1ana (con Sebasti\u00e1n Yatra & Mora)",
         "url": "https://open.spotify.com/album/1VdsA2Ed7ur8KsPgSLqNNt"
       },
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 155242,
       "name": "Japonesa",
       "url": "https://open.spotify.com/track/66coDQwXDOvgKJQ6rqD5vu"
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 225106,
       "name": "Tan Buena",
       "url": "https://open.spotify.com/track/6I1JuzUGxTAD0kDY65fg1s"
@@ -2174,6 +2192,24 @@
       "duration_ms": 138456,
       "name": "Te Quiero - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4tnHGG3He2t5AqCQLtZdDO"
+    },
+    {
+      "album": {
+        "name": "Ricky y Mau",
+        "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2026-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147237,
+      "name": "Tiroteo",
+      "url": "https://open.spotify.com/track/1DwmcCNBNKJVnFWcqOWRVH"
     },
     {
       "album": {

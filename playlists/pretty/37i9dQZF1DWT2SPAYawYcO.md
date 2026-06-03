@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Ariana Grande, Hooligan Hefs ft\. Wiley, Ravyn Lenae, PNAU ft\. Maleigh Zan, Bella Kay + more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,580 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,544 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 20 | [Keep Up](https://open.spotify.com/track/7LWGTXRs0lnEPMVwoiWjFR) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [DJ BORING](https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p) | [Keep Up](https://open.spotify.com/album/6LaS61MuI34XOk85kHiPSS) | 3:29 |
 | 21 | [UR HEARTBEAT \(WHO DO U THINK ABOUT AT 2AM?\)](https://open.spotify.com/track/0jj2mcsNyuWb0a3uSjrw67) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [UR HEARTBEAT \(WHO DO U THINK ABOUT AT 2AM?\)](https://open.spotify.com/album/58ELdOBLnCOlXM49zBO6AR) | 2:50 |
 | 22 | [Sauna](https://open.spotify.com/track/7dF7BMMqr2FmoviFkkHKBv) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Sauna](https://open.spotify.com/album/3UTarVBv2zNvoWujAtm5B4) | 2:53 |
-| 23 | [WE$TSKI](https://open.spotify.com/track/0Fs4oWs2tPNotnZVy2dP5C) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [WE$TSKI](https://open.spotify.com/album/36P38CM5QDoyTea0ou5b1T) | 1:38 |
+| 23 | [WE$TSKI](https://open.spotify.com/track/0Fs4oWs2tPNotnZVy2dP5C) | [DAY1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [WE$TSKI](https://open.spotify.com/album/36P38CM5QDoyTea0ou5b1T) | 1:38 |
 | 24 | [Sad Girls](https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Sad Girls](https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V) | 2:48 |
 | 25 | [Deep End](https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Deep End](https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE) | 2:49 |
 | 26 | [UNDONE](https://open.spotify.com/track/2fxk3gwwtyoNYEmH5DJLDu) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [UNDONE](https://open.spotify.com/album/4rjrZffAZpgP3ZPqMj8LJI) | 2:22 |
 | 27 | [Mad About It](https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Mad About It](https://open.spotify.com/album/4VjiPFf4esJ94jdP6DYtfR) | 2:37 |
-| 28 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
+| 28 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
 | 29 | [Diamond In The Rough](https://open.spotify.com/track/6OVf9p0oSNoMkcHAbAlpmd) | [Rowena Wise](https://open.spotify.com/artist/1cofMlotC1E8kMOfz1yhZC) | [Diamond In The Rough](https://open.spotify.com/album/672mKilZnp1DknMkoKhPNC) | 3:49 |
 | 30 | [Baby Driver](https://open.spotify.com/track/5dtDj7mdGJjlviTxyfMrZE) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Baby Driver](https://open.spotify.com/album/0yUdcVEmK8G3jWAYS6Dii6) | 3:36 |
 | 31 | [Isn't It Funny](https://open.spotify.com/track/0Dxd99miFFNrWsLpCkDUnX) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Isn't It Funny](https://open.spotify.com/album/6MSX4yLBOPQGTgrw0AqgB8) | 3:41 |

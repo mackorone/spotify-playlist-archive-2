@@ -2603,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "TURR4ZO",
+        "url": "https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154549,
+      "name": "ZOMBI",
+      "url": "https://open.spotify.com/track/2JxNMSXbMvzjOXyzleH5UZ"
+    },
+    {
+      "album": {
         "name": "Gracias...Totales: Tributo Bizarro a Soda Stereo",
         "url": "https://open.spotify.com/album/6TiYPC6LAwk1vjFSS3nSfd"
       },

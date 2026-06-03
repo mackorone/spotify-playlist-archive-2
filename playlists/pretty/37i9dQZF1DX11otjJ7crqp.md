@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Kim Petras
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,531 likes - 99 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,609 likes - 99 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 34 | [CATASTROPHIC CHEMICALS](https://open.spotify.com/track/15FVfCwYvobj3c3bNRYgqm) | [KERSTY](https://open.spotify.com/artist/2SpJaFiBk5ClSSZatZ573z) | [CATASTROPHIC CHEMICALS](https://open.spotify.com/album/082BYg4znOn5llmViPa3HE) | 2:43 |
 | 35 | [Hurricane](https://open.spotify.com/track/1fq5OBjI5y88pmL5v3KGtG) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Hurricane](https://open.spotify.com/album/3qDG4KC5ucfkdzLuCafRBt) | 3:41 |
 | 36 | [Rush](https://open.spotify.com/track/6e8lFyfQyQuA79TuZaHzjv) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Rush](https://open.spotify.com/album/0gJ6JWcDUymLgGvkH5R2Ps) | 3:03 |
-| 37 | [Talk](https://open.spotify.com/track/5Bs8K3OjU1fIQJ7I2GR2mu) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Omar Duro](https://open.spotify.com/artist/3QUcOtKpMPAbhxDkuW9SPV) | [Talk](https://open.spotify.com/album/5lBATMB20Ft9dtV1ntJasC) | 3:13 |
+| 37 | [Talk](https://open.spotify.com/track/5Bs8K3OjU1fIQJ7I2GR2mu) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [It's Different](https://open.spotify.com/artist/60ETw93KnLzkysVpiZ3VYA), [Omar Duro](https://open.spotify.com/artist/3QUcOtKpMPAbhxDkuW9SPV) | [Talk](https://open.spotify.com/album/5lBATMB20Ft9dtV1ntJasC) | 2:47 |
 | 38 | [How To Write A Song Without You \- Pop Version](https://open.spotify.com/track/11Ffyf2wILAAuLFVV8kJ89) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Power Ballad \(Music From The Motion Picture\)](https://open.spotify.com/album/1bYapUhIGFShycmARmnvT4) | 3:16 |
 | 39 | [Euphoria](https://open.spotify.com/track/33bvTLdmKTRzFwhONUWYHo) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Mother Of Pearl](https://open.spotify.com/album/5aUTUf4xWzBVUoUHHJ3nQO) | 2:51 |
 | 40 | [Millionaire](https://open.spotify.com/track/4TR8OxI9K7VshkXX52Ku4G) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Mr Malcolm](https://open.spotify.com/album/6FAXeWisUNxhTH69TsWkz4) | 2:49 |
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 92 | [sailing](https://open.spotify.com/track/3Yp4Z4UhD7ymJiX83RgoGm) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [sailing](https://open.spotify.com/album/73IJUW7XGzL2B8HMCKY39I) | 4:04 |
 | 93 | [A Crazy Shot in the Dark](https://open.spotify.com/track/3ZuqnmAD6qPb5uxaGTfIgk) | [The Fizz](https://open.spotify.com/artist/1fyj6rE8Dw2eLkmdflawvG) | [A Crazy Shot in the Dark](https://open.spotify.com/album/3wB4qx9xHgdGs6cknZmIrl) | 3:11 |
 | 94 | [Waste Your Heart](https://open.spotify.com/track/4V2DyN6dagdCahrgkmz553) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Waste Your Heart](https://open.spotify.com/album/0T9elG6ZoTPMJ2yWXhQLZB) | 2:31 |
-| 95 | [Something Special](https://open.spotify.com/track/5DCJC6w5jAz0cvZSjud7pr) | [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ahn Hyo\-seop](https://open.spotify.com/artist/1TUrQeNhlJMcg9zl8yiW70) | [Something Special](https://open.spotify.com/album/41ZXHq2R4nI3vUdywPlPMq) | 3:54 |
+| 95 | [Something Special](https://open.spotify.com/track/5DCJC6w5jAz0cvZSjud7pr) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ahn Hyo\-seop](https://open.spotify.com/artist/1TUrQeNhlJMcg9zl8yiW70), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Something Special](https://open.spotify.com/album/41ZXHq2R4nI3vUdywPlPMq) | 3:54 |
 | 96 | [Skin](https://open.spotify.com/track/58HVudmVLO9xJRzIB73Q10) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Skin](https://open.spotify.com/album/39reMRtfodkliiyAANelxs) | 3:00 |
 | 97 | [Fix Your Heart For Free](https://open.spotify.com/track/4vFwTZPdreC3ErXLKkOmKy) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [Fix Your Heart For Free](https://open.spotify.com/album/5u33OdTeeeGaTNUWxKwvBz) | 4:22 |
 | 98 | [The Art Of Letting Go](https://open.spotify.com/track/6CYQj4H8kuw4itjqCUdYmv) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [The Art Of Letting Go](https://open.spotify.com/album/2ctgMkO96WCiiMP5diYxqe) | 4:00 |
-| 99 | [Pretty Little Things](https://open.spotify.com/track/4cxp9FkxuUqcNxvgnfVKju) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Pretty Little Things](https://open.spotify.com/album/69UHydI2nE7iN0Idu3Apb7) | 2:51 |
+| 99 | [Pretty Little Things](https://open.spotify.com/track/4cxp9FkxuUqcNxvgnfVKju) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Pretty Little Things](https://open.spotify.com/album/69UHydI2nE7iN0Idu3Apb7) | 2:51 |
 
 Snapshot ID: `AAAAAOue3LPmlNW3/k9R5pgvMSNlnWK2`

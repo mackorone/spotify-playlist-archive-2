@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Ariana Grande, Ravyn Lenae, Bella Kay, Future & Tyla, Riley Green & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,582,296 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,582,168 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 20 | [Callin \(feat\. Blu june\)](https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Blu june](https://open.spotify.com/artist/3pyEwxCySBsnsD5B4SUiDr) | [Callin \(feat\. Blu june\)](https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS) | 2:34 |
 | 21 | [GANG BIZNESS feat paygotti](https://open.spotify.com/track/7MBxU6dqMPl4LAC7XacEkv) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [GANG BIZNESS feat paygotti](https://open.spotify.com/album/2ZhRsUqboIjLWBSF14fnMH) | 2:47 |
 | 22 | [UNA NA MAS](https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [UNA NA MAS](https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ) | 3:16 |
-| 23 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
+| 23 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
 | 24 | [Coil](https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Rumspringa](https://open.spotify.com/album/1EHtMAqAB6GSnw8IbuXFLn) | 3:54 |
 | 25 | [Keep It To Yourself](https://open.spotify.com/track/0UUnMVRHGJKFq4mlsld8GV) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Keep It To Yourself](https://open.spotify.com/album/3FQ8bzLV3poKkW6thJ04Tw) | 4:17 |
 | 26 | [chaotic](https://open.spotify.com/track/1yqQANXMu1CgGTjHQewP6G) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [scars to prove it](https://open.spotify.com/album/73Sgh6sfNyy8ZA3RZLJmKS) | 3:14 |

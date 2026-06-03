@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: Chilli Beans.
 
-3,791 songs - 10 day 1 hr 25 min
+3,792 songs - 10 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1545,6 +1545,7 @@
 | [RELIFE](https://open.spotify.com/track/6g9Ib31CNMOl7dfsNnLfK2) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [CLASSIC](https://open.spotify.com/album/2hxCah2Cyg2n0Oircg6gNO) | 2:48 | 2024-05-07 | 2024-05-22 |
 | [Remember you](https://open.spotify.com/track/5jsSTSWKzJjXKRAYLODEtW) | [Ayumi Hamasaki](https://open.spotify.com/artist/3Mvc8kRgr8LRYYgvFmlZqn) | [Remember you](https://open.spotify.com/album/4CablfTCtnFPIvXYqyUdn9) | 4:24 | 2023-01-24 | 2023-02-08 |
 | [Rendezvous](https://open.spotify.com/track/1RCZ3cqpzj1CUSfXljYcLe) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [Rendezvous](https://open.spotify.com/album/6bR1ncEiqAvSk0LysPD7yQ) | 4:43 | 2022-11-22 | 2023-01-04 |
+| [Replay](https://open.spotify.com/track/04GjqRcn7qbzFbH1MKSbvk) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [LOVE BEAT](https://open.spotify.com/album/37UN13u0Jj5CEZuHAojQWr) | 3:41 | 2026-05-26 |  |
 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 | 2022-12-27 | 2023-01-04 |
 | [Resonantia](https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Resonantia](https://open.spotify.com/album/1QscnAgLAhBuG5TlF3dvHH) | 3:49 | 2023-07-11 | 2023-10-12 |
 | [Respect Me](https://open.spotify.com/track/1X6pJqf4GXgLLambeuHJun) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [Respect Me](https://open.spotify.com/album/6O2yKyUdHSvRnYbH0enuL1) | 3:04 | 2023-03-21 | 2023-03-29 |
@@ -3059,7 +3060,7 @@
 | [君にさよなら](https://open.spotify.com/track/5om7Qq6ot7zwUvv5Nxwi2p) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [君にさよなら](https://open.spotify.com/album/5tnV5FmdmPujh7fm44BbG9) | 4:19 | 2023-10-17 | 2023-10-19 |
 | [君に夢中](https://open.spotify.com/track/3mRNkUTu4ItqQ6GXy7L7KF) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [君に夢中](https://open.spotify.com/album/1FcGt8wyGckJfp7PlLPNdA) | 4:17 | 2022-05-29 | 2023-02-22 |
 | [君のこゝろ](https://open.spotify.com/track/4z9eQafGoStgUATU9b7KNO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞳へ落ちるよレコード](https://open.spotify.com/album/7yqN9LY6txINrErO79WNge) | 3:13 | 2022-08-18 | 2022-08-20 |
-| [君のせい](https://open.spotify.com/track/6MybVbNYgHbO0cjbqGSPLH) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [君のせい](https://open.spotify.com/album/5kfekCB47xkYYkUnAx30Kk) | 2:18 | 2026-02-10 |  |
+| [君のせい](https://open.spotify.com/track/6MybVbNYgHbO0cjbqGSPLH) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [君のせい](https://open.spotify.com/album/5kfekCB47xkYYkUnAx30Kk) | 2:18 | 2026-02-10 | 2026-06-03 |
 | [君の住む街の天気が都合のいい空でありますように](https://open.spotify.com/track/3koeSkluG3jFrNOzDql3W9) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [君の住む街の天気が都合のいい空でありますように](https://open.spotify.com/album/61CHoqxs4Eqs0rLqMoaDOi) | 4:49 | 2022-06-02 | 2022-06-08 |
 | [君の味方](https://open.spotify.com/track/2lYndjIdC8W5pQKWfqZuzN) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [丈夫な私たち](https://open.spotify.com/album/6piksw0XibKNuaViAzstGb) | 4:08 | 2022-09-06 | 2022-09-15 |
 | [君の国](https://open.spotify.com/track/4qQHkh5PsWjggCFwHOiNji) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB) | [君の国](https://open.spotify.com/album/4DqKNJBTh76GpRP1ypWu67) | 3:41 | 2026-05-26 |  |

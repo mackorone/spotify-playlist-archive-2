@@ -231,40 +231,6 @@
     },
     {
       "album": {
-        "name": "Cozy Winter",
-        "url": "https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7"
-      },
-      "artists": [
-        {
-          "name": "Alis Huws",
-          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
-        },
-        {
-          "name": "Freya Goldmark",
-          "url": "https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1"
-        },
-        {
-          "name": "Patrick Dawkins",
-          "url": "https://open.spotify.com/artist/6uU7dokD7wCNbDVObXOLq4"
-        },
-        {
-          "name": "Richard Jones",
-          "url": "https://open.spotify.com/artist/32Vl4iIybZBaf4B6OACDQS"
-        },
-        {
-          "name": "Val Welbanks",
-          "url": "https://open.spotify.com/artist/5JVsMGOXLyvqbrsbrdAIbX"
-        }
-      ],
-      "date_added": "2025-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 162341,
-      "name": "Candlelight Carol (Version for Harp & String Quartet)",
-      "url": "https://open.spotify.com/track/3JZCFDgksE3qWwT6h8GxnF"
-    },
-    {
-      "album": {
         "name": "Rutter: Candlelight Carol (Version for Harp & String Quartet)",
         "url": "https://open.spotify.com/album/0DO3uHleXjxgMzrAH0YgeQ"
       },
@@ -1868,6 +1834,40 @@
       "duration_ms": 243040,
       "name": "Rosey Chan x The Listening Planet",
       "url": "https://open.spotify.com/track/3B6XD4wi46t80Cop4H6lEk"
+    },
+    {
+      "album": {
+        "name": "Cozy Winter",
+        "url": "https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7"
+      },
+      "artists": [
+        {
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        },
+        {
+          "name": "Freya Goldmark",
+          "url": "https://open.spotify.com/artist/3JlsLQ4654rWTZKRqoWhr1"
+        },
+        {
+          "name": "Patrick Dawkins",
+          "url": "https://open.spotify.com/artist/6uU7dokD7wCNbDVObXOLq4"
+        },
+        {
+          "name": "Richard Jones",
+          "url": "https://open.spotify.com/artist/32Vl4iIybZBaf4B6OACDQS"
+        },
+        {
+          "name": "Val Welbanks",
+          "url": "https://open.spotify.com/artist/5JVsMGOXLyvqbrsbrdAIbX"
+        }
+      ],
+      "date_added": "2025-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162341,
+      "name": "Rutter: Candlelight Carol (Version for Harp & String Quartet)",
+      "url": "https://open.spotify.com/track/3JZCFDgksE3qWwT6h8GxnF"
     },
     {
       "album": {

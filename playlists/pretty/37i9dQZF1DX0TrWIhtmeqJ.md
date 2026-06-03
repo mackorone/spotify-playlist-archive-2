@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Nori
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,706 likes - 70 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,708 likes - 70 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 9 | [Top 3](https://open.spotify.com/track/47E59ScAI4kEsAH6ELaIkA) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [Top 3](https://open.spotify.com/album/2sgcUUQ4UQ2XUbrduYisme) | 2:14 |
 | 10 | [SNM](https://open.spotify.com/track/7gpKJqAxBdpXj2TDcdsYs9) | [Jordeaux](https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz) | [SNM](https://open.spotify.com/album/3QXY4VUFSwlCJR3ZFlt9q2) | 3:31 |
 | 11 | [Fell Again](https://open.spotify.com/track/6S86CLAoA7S19wk8WeQjRs) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Fell Again / Stranger What's Your Name?](https://open.spotify.com/album/5ug1JL9PFc1gCxokrSh1yo) | 2:41 |
-| 12 | [Just A Man](https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Just A Man](https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A) | 2:38 |
+| 12 | [just a man](https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [just a man](https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A) | 2:38 |
 | 13 | [Docs](https://open.spotify.com/track/4OCu8rrX8gbKnAfvS20ovs) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [Docs](https://open.spotify.com/album/4z79Uh8UfNC9ljmd7OpbY6) | 3:28 |
 | 14 | [Shoes Up](https://open.spotify.com/track/0C9iEXm7FXYN6wta1XjRy6) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [Shoes Up](https://open.spotify.com/album/4kyRqympwe9wDsLOGhxjnT) | 2:42 |
 | 15 | [HELLO](https://open.spotify.com/track/5ASzHE878PA0otam9gN50R) | [JrodBroccoli](https://open.spotify.com/artist/0ht1thNgu836B6AYsXbt1K) | [HELLO](https://open.spotify.com/album/4eawBBIL0VXLktBvSgdrBM) | 2:24 |

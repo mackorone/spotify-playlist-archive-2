@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Pop bops for the saints!  Cover: Forrest Frank
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,615 likes - 99 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,678 likes - 99 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 4 | [How Great](https://open.spotify.com/track/6ynVRbeD7wTttPB4SddawG) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Breathe On It](https://open.spotify.com/album/6MVFE0ur2YQDrG6Hdo5V0w) | 3:26 |
 | 5 | [EVERYTHING](https://open.spotify.com/track/7B2qUMtvYuAr8QGCx1vVij) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [EVERYTHING](https://open.spotify.com/album/4i49RtwqvKoilyro0TIypt) | 3:23 |
 | 6 | [Under the Same Sky](https://open.spotify.com/track/062Rh6vIMkwEuksiWF6sKC) | [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [Under the Same Sky](https://open.spotify.com/album/3t7pBbQPmteNiZnpbBrK77) | 3:14 |
-| 7 | [WORLD ON FIRE](https://open.spotify.com/track/7FMXUt0JW9tPhvjqZWZPvE) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [WORLD ON FIRE](https://open.spotify.com/album/1QIEg8d4MhQVhzFDe1QZdn) | 3:16 |
+| 7 | [world on fire](https://open.spotify.com/track/7FMXUt0JW9tPhvjqZWZPvE) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [WORLD ON FIRE](https://open.spotify.com/album/1QIEg8d4MhQVhzFDe1QZdn) | 3:16 |
 | 8 | [get lifted.](https://open.spotify.com/track/2lDh34bZ5aFLHyswYQTYOE) | [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [get lifted.](https://open.spotify.com/album/5Q6hIksgzWMVPVFTmG44IM) | 2:32 |
 | 9 | [Saturday](https://open.spotify.com/track/2qHzx9pQ4rxDGkauEEkjd7) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [Saturday](https://open.spotify.com/album/1rHG4Xy7nq6FCPoeDJF8Kj) | 3:59 |
 | 10 | [Called My Name](https://open.spotify.com/track/5Lf8ghjxSHI29R4LnlQqVa) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Dylan Stiles](https://open.spotify.com/artist/4qpXsbG051Mn4vXWHBcXij) | [Called My Name](https://open.spotify.com/album/37rU2RlGc5BwQ96dM4quFL) | 2:48 |

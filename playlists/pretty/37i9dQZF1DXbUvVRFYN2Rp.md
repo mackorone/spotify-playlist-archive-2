@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUvVRFYN2Rp.md) - [plain]
 
 > 쇼미더머니12의 전 시즌 발매곡을 들어보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,816 likes - 276 songs - 18 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,828 likes - 276 songs - 18 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUvVRFYN2Rp.md) - [plain]
 | 129 | [Freak \(Prod\. Slom\)](https://open.spotify.com/track/1QirEjVFJfxqXXgdF2YC1g) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM) | [Show Me the Money 9 Episode 1](https://open.spotify.com/album/70FWnBesejYnRifMGqbdxu) | 3:52 |
 | 130 | [BoY \(Prod\. BewhY\)](https://open.spotify.com/track/0AP2YpIGhQOZYEDNfZ27BX) | [Young B](https://open.spotify.com/artist/3gHXLeb9xeEGgIDiJk0pFa), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 4:01 |
 | 131 | [10](https://open.spotify.com/track/4iRlKTcGQJd6hDCnAS76QT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:02 |
-| 132 | [JUNGLE \(Prod\. millic\)](https://open.spotify.com/track/1FVhgNcxyksUoL4rRRI36I) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:38 |
+| 132 | [JUNGLE \(Prod\. millic\)](https://open.spotify.com/track/1FVhgNcxyksUoL4rRRI36I) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [SAM KIM](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:38 |
 | 133 | [Far Away \(Prod\. sAewoo\)](https://open.spotify.com/track/4TwkcPAqS2RdKpL2lfM3Wb) | [TAKUWA](https://open.spotify.com/artist/46gc3yx3R3HyZtpwV9s82V), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 4:31 |
 | 134 | [No Cap](https://open.spotify.com/track/1WINMNxlazyUryGg0DZurG) | [Young B](https://open.spotify.com/artist/3gHXLeb9xeEGgIDiJk0pFa), [Osshun Gum](https://open.spotify.com/artist/4F4rHRjTw15zhEFKvnLs7q) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 4:04 |
 | 135 | [Astronaut \(Prod\. Oviz\)](https://open.spotify.com/track/0qaAI4MtjIBgIZEuENZl8r) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Show Me the Money 8 Final](https://open.spotify.com/album/0No2BeroBuNsk2WOFzuQrk) | 3:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,076 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,079 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [自慢のお父さん](https://open.spotify.com/track/2gFKtoSGY6uxmibS6GXGcU) | [ツチヤカレン](https://open.spotify.com/artist/7DOj2kPLFMCvSN1lgKYYzd) | [自慢のお父さん](https://open.spotify.com/album/5jK71XCfXar1DASm3jFAVP) | 4:21 |
 | 80 | [Dirty Little Secrets](https://open.spotify.com/track/676vJm5y5zB7LOGvVFUfvG) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [Secret Empire](https://open.spotify.com/album/1PGH9NZBuicCrMD4lcbT76) | 3:10 |
 
-Snapshot ID: `AAAAAOkBcp68aW2HUwnpEvbA0nwMrXdN`
+Snapshot ID: `AAAAAKQh0BA+KGsJF3Xu7MmrMfGtyPvd`

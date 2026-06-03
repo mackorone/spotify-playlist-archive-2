@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1313158,
+  "num_followers": 1313156,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1361,6 +1361,22 @@
       "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
+    },
+    {
       "added_at": "2026-03-06 05:00:10",
       "album": {
         "name": "INERTIA",
@@ -1383,22 +1399,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Grove St. Party",
         "url": "https://open.spotify.com/album/37qXMuCvfDm1ZwFMV9dMIg"
       },
@@ -1417,28 +1417,28 @@
       "url": "https://open.spotify.com/track/6w8CTLwDoG60RZwUs1oDXd"
     },
     {
-      "added_at": "2026-04-24 04:01:50",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "My Own Thang EP",
-        "url": "https://open.spotify.com/album/4oP18eb48EO1ogI15teHU1"
+        "name": "No Enemies (feat. Namasenda)",
+        "url": "https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
         },
         {
-          "name": "Sophiegrophy",
-          "url": "https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE"
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
         },
         {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
         }
       ],
-      "duration_ms": 178153,
-      "name": "My Own Thang (To The Beat)",
-      "url": "https://open.spotify.com/track/4u6u4sdrJ0CPWHAzV8ygVd"
+      "duration_ms": 160768,
+      "name": "No Enemies (feat. Namasenda)",
+      "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
     },
     {
       "added_at": "2026-04-17 04:02:12",
@@ -1465,28 +1465,28 @@
       "url": "https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-04-24 04:01:50",
       "album": {
-        "name": "No Enemies (feat. Namasenda)",
-        "url": "https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p"
+        "name": "My Own Thang EP",
+        "url": "https://open.spotify.com/album/4oP18eb48EO1ogI15teHU1"
       },
       "artists": [
         {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+          "name": "Sophiegrophy",
+          "url": "https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE"
         },
         {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
         }
       ],
-      "duration_ms": 160768,
-      "name": "No Enemies (feat. Namasenda)",
-      "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
+      "duration_ms": 178153,
+      "name": "My Own Thang (To The Beat)",
+      "url": "https://open.spotify.com/track/4u6u4sdrJ0CPWHAzV8ygVd"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Let Me Clear My Throat",
-        "url": "https://open.spotify.com/album/2b6Uc8pfLq9SeITcAobTMt"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 161818,
-      "name": "Let Me Clear My Throat",
-      "url": "https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 152288,
       "name": "Searching",
       "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Let Me Clear My Throat",
+        "url": "https://open.spotify.com/album/2b6Uc8pfLq9SeITcAobTMt"
+      },
+      "artists": [
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 161818,
+      "name": "Let Me Clear My Throat",
+      "url": "https://open.spotify.com/track/7dP5EtY64b0dWwcWXb8Xlq"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1841,6 +1841,22 @@
       "url": "https://open.spotify.com/track/6IHUVOd7zmRYkZdrAYWNMF"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
+      },
+      "artists": [
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+        }
+      ],
+      "duration_ms": 182272,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
+    },
+    {
       "added_at": "2026-01-30 05:00:51",
       "album": {
         "name": "Get Wild",
@@ -1859,22 +1875,6 @@
       "duration_ms": 164538,
       "name": "Get Wild",
       "url": "https://open.spotify.com/track/3F1VvVCelweDci1v0aJ6bV"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/0NksrZrnQcFMSxiRnu6den"
-      },
-      "artists": [
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
-        }
-      ],
-      "duration_ms": 182272,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
       "added_at": "2026-01-23 05:00:24",
@@ -1945,6 +1945,26 @@
       "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
     },
     {
+      "added_at": "2026-01-16 05:00:37",
+      "album": {
+        "name": "REAL FRIENDS",
+        "url": "https://open.spotify.com/album/4MnzdVaQ9KPWMvnY1KT0BE"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "BROSA",
+          "url": "https://open.spotify.com/artist/7u5FoxjVdLM8hoqkRndNiR"
+        }
+      ],
+      "duration_ms": 140567,
+      "name": "REAL FRIENDS",
+      "url": "https://open.spotify.com/track/4Ai9gnhoWnixcZCSg0R9OC"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "gImmE gImmE",
@@ -1967,26 +1987,6 @@
       "duration_ms": 197842,
       "name": "gImmE gImmE",
       "url": "https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX"
-    },
-    {
-      "added_at": "2026-01-16 05:00:37",
-      "album": {
-        "name": "REAL FRIENDS",
-        "url": "https://open.spotify.com/album/4MnzdVaQ9KPWMvnY1KT0BE"
-      },
-      "artists": [
-        {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        },
-        {
-          "name": "BROSA",
-          "url": "https://open.spotify.com/artist/7u5FoxjVdLM8hoqkRndNiR"
-        }
-      ],
-      "duration_ms": 140567,
-      "name": "REAL FRIENDS",
-      "url": "https://open.spotify.com/track/4Ai9gnhoWnixcZCSg0R9OC"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2137,22 +2137,6 @@
       "url": "https://open.spotify.com/track/7v0FrXXKGnVelJsJQubUxV"
     },
     {
-      "added_at": "2026-04-17 04:02:12",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/36poUrVEJVkcHABIVxlqv3"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/2GMHlcrfeNgqRxmuM85LTb"
-    },
-    {
       "added_at": "2026-02-27 05:00:47",
       "album": {
         "name": "Right Nahh",
@@ -2185,6 +2169,22 @@
       "url": "https://open.spotify.com/track/5MMPfKSSzfGvJ1VVZgHPqS"
     },
     {
+      "added_at": "2026-04-17 04:02:12",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/36poUrVEJVkcHABIVxlqv3"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2GMHlcrfeNgqRxmuM85LTb"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Circus",
@@ -2199,26 +2199,6 @@
       "duration_ms": 129461,
       "name": "Circus",
       "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/15ETuT3f79dmEM23ppNeH4"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "SKILAH",
-          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
-        }
-      ],
-      "duration_ms": 140654,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/694KwHLls5cZF2HvsOIuFA"
     },
     {
       "added_at": "2026-03-30 14:35:54",
@@ -2243,6 +2223,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/15ETuT3f79dmEM23ppNeH4"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+        }
+      ],
+      "duration_ms": 140654,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/694KwHLls5cZF2HvsOIuFA"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "Deeper Underground",
         "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
       },
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2026-03-06 05:00:10",
       "album": {
-        "name": "Hit The Ground",
-        "url": "https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 196521,
-      "name": "Hit The Ground",
-      "url": "https://open.spotify.com/track/658noe7AopzUVafqSR6x61"
-    },
-    {
-      "added_at": "2026-03-06 05:00:10",
-      "album": {
         "name": "Make It Right",
         "url": "https://open.spotify.com/album/05T2g3242GDiDlifEdfSju"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 208636,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/26ymYN71kHUlWnK7i3xP3i"
+    },
+    {
+      "added_at": "2026-03-06 05:00:10",
+      "album": {
+        "name": "Hit The Ground",
+        "url": "https://open.spotify.com/album/0dWpeo9sWga7EWg19nOCZJ"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 196521,
+      "name": "Hit The Ground",
+      "url": "https://open.spotify.com/track/658noe7AopzUVafqSR6x61"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2319,22 +2319,6 @@
       "duration_ms": 220952,
       "name": "Freedom - Body Ocean Remix",
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
-    },
-    {
-      "added_at": "2026-04-10 04:02:08",
-      "album": {
-        "name": "A.N.F.",
-        "url": "https://open.spotify.com/album/6MjjDcQ2Acv8mKKf0Ff89k"
-      },
-      "artists": [
-        {
-          "name": "Vluarr",
-          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
-        }
-      ],
-      "duration_ms": 147272,
-      "name": "A.N.F.",
-      "url": "https://open.spotify.com/track/39xhLYb1dWxmwI5o2gjnMc"
     },
     {
       "added_at": "2026-05-22 04:01:19",
@@ -2397,6 +2381,22 @@
       "url": "https://open.spotify.com/track/2aGfk0KIVIXzcrBoeTpD3f"
     },
     {
+      "added_at": "2026-04-10 04:02:08",
+      "album": {
+        "name": "A.N.F.",
+        "url": "https://open.spotify.com/album/6MjjDcQ2Acv8mKKf0Ff89k"
+      },
+      "artists": [
+        {
+          "name": "Vluarr",
+          "url": "https://open.spotify.com/artist/0ClkclGbzsEY0aBtqq8MrB"
+        }
+      ],
+      "duration_ms": 147272,
+      "name": "A.N.F.",
+      "url": "https://open.spotify.com/track/39xhLYb1dWxmwI5o2gjnMc"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "F*CK THAT",
@@ -2413,24 +2413,20 @@
       "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
     },
     {
-      "added_at": "2026-03-20 04:00:50",
+      "added_at": "2026-04-17 04:02:12",
       "album": {
-        "name": "Don't Care",
-        "url": "https://open.spotify.com/album/2hNNyaoRcuwmENRLYEoLRa"
+        "name": "Taka Taka",
+        "url": "https://open.spotify.com/album/2FmArT4SzjcIx5PXfV1GQU"
       },
       "artists": [
         {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "GIACOBBI",
-          "url": "https://open.spotify.com/artist/0c9xS57yx2KCaaEJ3e7qzo"
+          "name": "Carlo Giannico",
+          "url": "https://open.spotify.com/artist/74Nbq1eideEYDmQdz8ZXSf"
         }
       ],
-      "duration_ms": 153181,
-      "name": "Don't Care",
-      "url": "https://open.spotify.com/track/0T7mQq7lMpvw9VUZDaPHWW"
+      "duration_ms": 213750,
+      "name": "Taka Taka",
+      "url": "https://open.spotify.com/track/72BJos9sh1LYO8zt57OH0a"
     }
   ],
   "unique_name": "Nasty Bits",

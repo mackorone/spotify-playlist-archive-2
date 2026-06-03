@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 324841,
+  "num_followers": 324843,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAABtHzyRhnfW8pw2jOMYcszw",
+  "snapshot_id": "ahzLgAAAAAD2YPSLzh7aABmakTP8339b",
   "tracks": [
     {
       "added_at": null,
@@ -768,7 +768,7 @@
           "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
         },
         {
-          "name": "Budah",
+          "name": "BUDAH",
           "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
         },
         {
@@ -1042,11 +1042,19 @@
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Daniel Shadow",
+          "url": "https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q"
         }
       ],
-      "duration_ms": 190241,
-      "name": "Nova Sorte",
-      "url": "https://open.spotify.com/track/12TzgWqlNFtPXO4hwCusiV"
+      "duration_ms": 234614,
+      "name": "Dutumob",
+      "url": "https://open.spotify.com/track/048DxjBJekj6Ipk7OxtkF5"
     },
     {
       "added_at": null,
@@ -1126,19 +1134,11 @@
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        },
-        {
-          "name": "Daniel Shadow",
-          "url": "https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q"
         }
       ],
-      "duration_ms": 234614,
-      "name": "Dutumob",
-      "url": "https://open.spotify.com/track/048DxjBJekj6Ipk7OxtkF5"
+      "duration_ms": 190241,
+      "name": "Nova Sorte",
+      "url": "https://open.spotify.com/track/12TzgWqlNFtPXO4hwCusiV"
     },
     {
       "added_at": null,

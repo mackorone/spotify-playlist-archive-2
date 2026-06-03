@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Mylène Farmer, Ariana Grande, La Mano 1.9 x Gazo x La Rvfleuze et Bebe Rexha x David Guetta au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,538 likes - 103 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,520 likes - 103 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 68 | [Aquel diciembre](https://open.spotify.com/track/6A2VAtuRu5p5LymL4RSCBG) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 3:22 |
 | 69 | [Energy](https://open.spotify.com/track/5KkV60IH22ERQHfNxkGa1G) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Energy](https://open.spotify.com/album/4DkDQnkfCfgniEm33g3IEV) | 2:20 |
 | 70 | [CŒUR DE PIRATE](https://open.spotify.com/track/0vmYv8KwjjBOC0UQjIuU8m) | [LinLin](https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n) | [DISCO INFERNO](https://open.spotify.com/album/7t1h5yn1S2JBCGrX0vUkTl) | 3:53 |
-| 71 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
+| 71 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
 | 72 | [MAGIQUE](https://open.spotify.com/track/0ffLKbQkYQ6Ju0uAZ8VLJg) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD), [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [MA CLAQUE](https://open.spotify.com/album/2YKDBOPbMvUi8cKBAv995n) | 3:07 |
 | 73 | [Friend with benefits](https://open.spotify.com/track/6MgA1YVPItOwUi2kvBAdwB) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Friend with benefits](https://open.spotify.com/album/2VbQeyflxsF55FFRvZvZKr) | 2:24 |
 | 74 | [Les mots blessent](https://open.spotify.com/track/4B1bOtFHzttyas5Q0dTU9Y) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [Les mots blessent](https://open.spotify.com/album/1xof0wVd4NHl6GD39ay3iw) | 2:46 |

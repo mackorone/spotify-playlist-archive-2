@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 342279,
+  "num_followers": 342328,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAABjbK7vUcR2F7rB0sUOLeOW",
+  "snapshot_id": "ahzLgAAAAABS1bRVG8C9xcNqjNblps4W",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AKON'S BEAUTIFUL DAY",
+        "url": "https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 157278,
+      "name": "AKON'S BEAUTIFUL DAY",
+      "url": "https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Declaration",
         "url": "https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 200720,
       "name": "Body On Me",
       "url": "https://open.spotify.com/track/2IyL2CyHoenwQLds5jSuqK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AKON'S BEAUTIFUL DAY",
-        "url": "https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa"
-      },
-      "artists": [
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 157278,
-      "name": "AKON'S BEAUTIFUL DAY",
-      "url": "https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L"
     },
     {
       "added_at": null,

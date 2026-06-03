@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 67170,
+  "num_followers": 67189,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAAAoxb97zMWz2/XWgrDeLZAk",
+  "snapshot_id": "ahzLgAAAAAB9IgcUAx3VvA+nhdwOMzi5",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Segunda Vida",
-        "url": "https://open.spotify.com/album/0e08nIbF8iSHQ2O4odiPME"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 159233,
-      "name": "Mi Segunda Vida",
-      "url": "https://open.spotify.com/track/51W0QvAH2fWdXz0THSGj6G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don Ismael",
         "url": "https://open.spotify.com/album/3eBctKkHAKK88qa6XlZWut"
       },
@@ -131,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Segunda Vida",
+        "url": "https://open.spotify.com/album/0e08nIbF8iSHQ2O4odiPME"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 159233,
+      "name": "Mi Segunda Vida",
+      "url": "https://open.spotify.com/track/51W0QvAH2fWdXz0THSGj6G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
       },
@@ -143,6 +143,22 @@
       "duration_ms": 183920,
       "name": "c\u00f3mo dormiste?",
       "url": "https://open.spotify.com/track/2G2aZ724zW6qIgNtamYHGz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
+        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 170469,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/3xmGmwtUM3tpsPArcYYAQ4"
     },
     {
       "added_at": null,
@@ -163,22 +179,6 @@
       "duration_ms": 167000,
       "name": "Qu\u00e9 Belleza De Mujer",
       "url": "https://open.spotify.com/track/6WiIYtSoi5Q9qonWi1lsB3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
-        "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 170469,
-      "name": "Marbella",
-      "url": "https://open.spotify.com/track/3xmGmwtUM3tpsPArcYYAQ4"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dueles",
-        "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
-      },
-      "artists": [
-        {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Receta Del Corrido",
         "url": "https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr"
       },
@@ -483,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz"
+        "name": "Dueles",
+        "url": "https://open.spotify.com/album/4lfBoIBFoa7FhKBp86EmdN"
       },
       "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/24XyZeV84qSzHbYple0FmS"
+        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 210541,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
+      "duration_ms": 175375,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/3im5S9PWPI0vQJsgyRTK2t"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/2maXmcI7gl4oZMzNQSlLUz"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 210541,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/7GlfNhJutjN1rhKwhR779E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
         "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
       },
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REGRESA",
-        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 162378,
-      "name": "Canelo",
-      "url": "https://open.spotify.com/track/1eaTDsdG9rfpvXrQw8rct7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Aesthetic",
         "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 193800,
       "name": "La Invitaci\u00f3n",
       "url": "https://open.spotify.com/track/2pao3nCEFbEz6E4xp6RfWi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REGRESA",
+        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 162378,
+      "name": "Canelo",
+      "url": "https://open.spotify.com/track/1eaTDsdG9rfpvXrQw8rct7"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "MIENTRAS ME CURO DEL CORA",
-      "url": "https://open.spotify.com/track/1SOpXCnJpfG7yO1cwX3OCt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Asombrerados",
         "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 167321,
       "name": "No Voy Con Rodeos",
       "url": "https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 165213,
+      "name": "MIENTRAS ME CURO DEL CORA",
+      "url": "https://open.spotify.com/track/1SOpXCnJpfG7yO1cwX3OCt"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos Mayiza",
+        "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Somos Mayiza",
+      "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 191600,
       "name": "Las Facetas de Arturo (En Vivo)",
       "url": "https://open.spotify.com/track/2VmWvDkmeun5wmK2NKsH3a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somos Mayiza",
-        "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Somos Mayiza",
-      "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Pizza Est\u00e1 En El Horno",
+        "url": "https://open.spotify.com/album/0eAaADSOuZD37GKE1DlXT9"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 154453,
+      "name": "Los Placeres De Archivaldo",
+      "url": "https://open.spotify.com/track/0R5v32TLIxi5ueBqBxO89o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi m\u00e1s grande error",
         "url": "https://open.spotify.com/album/5VavgMSlwoK93M5vSMJmDG"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 143162,
       "name": "Mi m\u00e1s grande error",
       "url": "https://open.spotify.com/track/5g7ohfHLulYM39b6mkiURy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Pizza Est\u00e1 En El Horno",
-        "url": "https://open.spotify.com/album/0eAaADSOuZD37GKE1DlXT9"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 154453,
-      "name": "Los Placeres De Archivaldo",
-      "url": "https://open.spotify.com/track/0R5v32TLIxi5ueBqBxO89o"
     },
     {
       "added_at": null,

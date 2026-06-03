@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,408 likes - 44 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,409 likes - 44 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [High So High](https://open.spotify.com/track/53DJ4kiDGJWsPANRJ5Cfvl) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:22 |
 | 2 | [Mi Barrio](https://open.spotify.com/track/3kfQEcsyEEYgQtXrXwkjZq) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:41 |
-| 3 | [Melon \(feat\. Kap G, Sauce Walka & Bo Bundy\)](https://open.spotify.com/track/5wT9U3AVV5VPIU6IH7tX0S) | [Rozay](https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Melon \(feat\. Kap G, Sauce Walka & Bo Bundy\)](https://open.spotify.com/album/4BhYHWaOSkZym58KurOiPI) | 4:06 |
-| 4 | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps) | 2:47 |
+| 3 | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Ramon Ayala \(feat\. Bo Bundy\)](https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps) | 2:47 |
+| 4 | [Melon \(feat\. Kap G, Sauce Walka & Bo Bundy\)](https://open.spotify.com/track/5wT9U3AVV5VPIU6IH7tX0S) | [Rozay](https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Melon \(feat\. Kap G, Sauce Walka & Bo Bundy\)](https://open.spotify.com/album/4BhYHWaOSkZym58KurOiPI) | 4:06 |
 | 5 | [PLAYMAKER PT.2](https://open.spotify.com/track/1tP8v0BZQCnag97DnzLWII) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [PLAYMAKER PT.2](https://open.spotify.com/album/15wZIGdnEszokWI7R8knwN) | 2:45 |
 | 6 | [Colorados](https://open.spotify.com/track/0DBmi0hlNhVsU76vcxo1sh) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:59 |
 | 7 | [Cocaine Cowboy](https://open.spotify.com/track/2XU1fq06U9s0PdJ7UXbMX4) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Cocaine Cowboy](https://open.spotify.com/album/6zOUWwPcy8nWbleaxaBvfe) | 2:24 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 43 | [No Bailes Asi \- Remix](https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe) | [Santos Jaguar](https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [No Bailes Asi \(Remix\)](https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD) | 2:33 |
 | 44 | [25 Lighters](https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:22 |
 
-Snapshot ID: `aht6AAAAAAC+0A990gKq4xdhyc/uR5er`
+Snapshot ID: `ahzLgAAAAABTV0Fs6CiAxJlK8/AWfVQZ`

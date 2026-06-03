@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: TSHA, HoneyLuv & Ellie Maxwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,734 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,730 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 4 | [Mean 2 Me](https://open.spotify.com/track/6IMJPS60S4PuO4dsyGSaDc) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Mean 2 Me](https://open.spotify.com/album/0npUtWGx1oEk4AXLoNvhKm) | 4:27 |
 | 5 | [Keep Going](https://open.spotify.com/track/6yxWuVbEUbtBUGGvEQIeBd) | [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO), [Plaisance](https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu) | [Keep Going](https://open.spotify.com/album/4h0qU5fElVUMXewmkPMtox) | 4:49 |
 | 6 | [Chanel](https://open.spotify.com/track/4M2wpBspHtN6DVkSsEM1Fk) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Chanel](https://open.spotify.com/album/2aDRBThYdeLPU8G5phnteD) | 2:35 |
-| 7 | [Cn I see u \(feat\. BXKS & BarbieSZN\)](https://open.spotify.com/track/23eqHSHlC1VTgCW8EqHoxV) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [BarbieSZN](https://open.spotify.com/artist/7artciaaHDwhU9bsORcUl5) | [4 DA STREETS!](https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK) | 5:51 |
+| 7 | [Cn I see u \(feat\. BarbieSZN\)](https://open.spotify.com/track/23eqHSHlC1VTgCW8EqHoxV) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [BarbieSZN](https://open.spotify.com/artist/7artciaaHDwhU9bsORcUl5) | [4 DA STREETS!](https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK) | 5:51 |
 | 8 | [The Thrill is Gone](https://open.spotify.com/track/5lXX0NaAtr6VPnTxyj6aPB) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Gianni Romano](https://open.spotify.com/artist/3GmVE58jiOKqS4WHGsxzCK), [MHE](https://open.spotify.com/artist/5nEWKkUf6IA0Ry5wBOG1J0) | [The Thrill is Gone](https://open.spotify.com/album/6PXVu267RRh64SqiJiY5os) | 3:33 |
 | 9 | [Push The Vibe](https://open.spotify.com/track/6tpo6T9msGhFT7NJRo1D53) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN), [Dee Diggs](https://open.spotify.com/artist/3GrNYIRzpnrh3HltUMlMeg) | [Femme House Vol\. 3](https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu) | 2:54 |
 | 10 | [Pop Pop](https://open.spotify.com/track/7jrxqRz39X7TXhI38zc9xA) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Pop Pop](https://open.spotify.com/album/0zMNLajZLM0PGxgLQa4yys) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/post\-hyperpop\-rockie\-rode\-arima\-ederra">read our substack 🫧  </a>   Iceage on the cover 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,186,389 likes - 155 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,446 likes - 155 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 20 | [crumble](https://open.spotify.com/track/2QxtLq8tLbq696srRS45J4) | [josh conway](https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7) | [crumble](https://open.spotify.com/album/0z1hoiOLPE9tkX1gUXFH9i) | 4:50 |
 | 21 | [Knifefish](https://open.spotify.com/track/1KiWQFbHX5VPg41EEErqXh) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Knifefish](https://open.spotify.com/album/00PbPT6noUQpRC9bWXXJu4) | 2:26 |
 | 22 | [DIZZY](https://open.spotify.com/track/63ISdAY2JQqFgh2rETvPyK) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [ARCADE](https://open.spotify.com/album/5CIQzG3okTPTbvawZ1Pczs) | 3:27 |
-| 23 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
+| 23 | [Ambrosia](https://open.spotify.com/track/344KZeQWZKibpxndj98m1j) | [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [Beams](https://open.spotify.com/album/3ETnnijWPHmi9ivOaOIJ16) | 2:41 |
 | 24 | [Salt](https://open.spotify.com/track/7ceXS6lQW6ypMvRumTvJXm) | [sadie](https://open.spotify.com/artist/6b5UgDdpmrafQHLmFg2DBc), [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [Better Angels](https://open.spotify.com/album/33mfAax2G5I4xIimwIxjnt) | 3:02 |
 | 25 | [Bitches Talk Shit](https://open.spotify.com/track/2zeOTTt5w7lSwKtbUXcnTQ) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Bitches Talk Shit](https://open.spotify.com/album/7qpKgKDoZQhrvnZIeIaRKq) | 3:39 |
 | 26 | [Spring summer](https://open.spotify.com/track/3qRLkEF8PHAvXp6eudfzQ4) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Spring summer](https://open.spotify.com/album/1SznGl13WRMVE8GUT7cvS4) | 2:08 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 30 | [STORM II](https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [STORM](https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA) | 2:53 |
 | 31 | [Massacre](https://open.spotify.com/track/473ImsIIIX3XxE5fr79wQ3) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Massacre](https://open.spotify.com/album/2z3jdGl1joL7e7yhJLi9Nr) | 2:55 |
 | 32 | [UNKNOWN LOVERZ](https://open.spotify.com/track/5GgxJ8afPLKHg4MHIxP0av) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:19 |
-| 33 | [Arthur \(feat\. DERBY\)](https://open.spotify.com/track/0jr6HPls0E2oy8fY4Cn4JD) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE), [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [PATINA](https://open.spotify.com/album/3M2itoN7Z2CeqEc82SLTJk) | 3:13 |
+| 33 | [Arthur \(feat\. DERBY\)](https://open.spotify.com/track/0jr6HPls0E2oy8fY4Cn4JD) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE), [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [PATINA](https://open.spotify.com/album/3M2itoN7Z2CeqEc82SLTJk) | 3:13 |
 | 34 | [Ne Plus Ultra](https://open.spotify.com/track/5nlsXkRIR3ZFTdeot66Yj6) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Ne Plus Ultra](https://open.spotify.com/album/2VJYwE0GEeZ9JADw5BFX80) | 2:49 |
 | 35 | [Eastside Girls](https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Dancing On The Wall](https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3) | 3:50 |
 | 36 | [I Saw Your Face](https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [I Saw Your Face](https://open.spotify.com/album/6PM2d4YZxyXLO05TWXoSm7) | 3:09 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 44 | [Song for the Messenger](https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Song for the Messenger](https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c) | 3:02 |
 | 45 | [Crutch](https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Crutch](https://open.spotify.com/album/1jWZ7cC58wnlEfuknDCwoq) | 3:31 |
 | 46 | [forget him](https://open.spotify.com/track/5C2i3yvlxw6qy1AQD8R08N) | [josh conway](https://open.spotify.com/artist/7Fg3bk6FxiFhFnrtXxJNR7) | [forget him](https://open.spotify.com/album/7c1tTnLalgefGACri3F4dB) | 3:23 |
-| 47 | [Just A Man](https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Just A Man](https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A) | 2:38 |
+| 47 | [just a man](https://open.spotify.com/track/0QsKXnj3R0vG9ldK4Y7dnm) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [just a man](https://open.spotify.com/album/2YY0t01llll4deDIEPWc5A) | 2:38 |
 | 48 | [To The Sky](https://open.spotify.com/track/25jvcrDD3TbvgOpn3MUYbF) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [To The Sky](https://open.spotify.com/album/6TcqhHCbNpDXDY0CA6KyuG) | 3:52 |
 | 49 | [First Light](https://open.spotify.com/track/2vd3HbaEqhEJpvVNHEago8) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [First Light](https://open.spotify.com/album/2uPAqoHMW8fvvP5cFYejc4) | 3:24 |
 | 50 | [the precipice](https://open.spotify.com/track/7HFA3UBP3nUyjZtDtQ4ml7) | [Jessie Mazin](https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx) | [untitled.jpeg](https://open.spotify.com/album/67y4FE0buC45wGLltGEi25) | 3:52 |

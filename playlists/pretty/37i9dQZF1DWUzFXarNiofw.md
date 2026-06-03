@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Syd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118,726 likes - 274 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,118,721 likes - 274 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,7 +171,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 161 | [Said Sumn](https://open.spotify.com/track/53Q1sg7gHQY7vqiANbqLpq) | [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX), [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Said Sumn](https://open.spotify.com/album/3v9hd7kbLECM7cAR6Zg0V5) | 2:56 |
 | 162 | [Perfect For Me](https://open.spotify.com/track/779xTKUeoQh790klFaWpg7) | [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg) | [Perfect For Me](https://open.spotify.com/album/5X4Xyi8MgDalgsoNZ17kYz) | 3:02 |
 | 163 | [Pretty Picture](https://open.spotify.com/track/64Qcuf6O7SXqH8bsyLer0c) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Pretty Picture](https://open.spotify.com/album/3psteoEO7jYMdkbf6NE3s6) | 3:06 |
-| 164 | [Arthur \(feat\. DERBY\)](https://open.spotify.com/track/0jr6HPls0E2oy8fY4Cn4JD) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE), [DERBY](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [PATINA](https://open.spotify.com/album/3M2itoN7Z2CeqEc82SLTJk) | 3:13 |
+| 164 | [Arthur \(feat\. DERBY\)](https://open.spotify.com/track/0jr6HPls0E2oy8fY4Cn4JD) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE), [Derby](https://open.spotify.com/artist/5WFUn8WTVNDiOHZCEzxIQZ) | [PATINA](https://open.spotify.com/album/3M2itoN7Z2CeqEc82SLTJk) | 3:13 |
 | 165 | [Distractions](https://open.spotify.com/track/786vHPC8tgisnEKHCCLBXt) | [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [Make It Make Sense](https://open.spotify.com/album/1XiUEcOilmHXGhaVH91cyw) | 3:48 |
 | 166 | [Crack A Smile](https://open.spotify.com/track/0JT0DQIjPXXGA9azx7BMu8) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Crack A Smile](https://open.spotify.com/album/5b7zdiwK8uNMY8wINtSH0m) | 4:09 |
 | 167 | [Take Care Of You](https://open.spotify.com/track/3D8lrJ07m1xymKXya8jI05) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Take Care Of You](https://open.spotify.com/album/6nofnKggUnLzUKT5pTRv9s) | 3:51 |

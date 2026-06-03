@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 295280,
       "name": "500 Miles High",
       "url": "https://open.spotify.com/track/1l5B1beJKVDv39E828gCTF"
@@ -854,6 +854,24 @@
       "duration_ms": 288683,
       "name": "Be Like Snow",
       "url": "https://open.spotify.com/track/2qDXwIRRJcHoLZHZTr4gkw"
+    },
+    {
+      "album": {
+        "name": "Beacon of Hope",
+        "url": "https://open.spotify.com/album/1rqWvNwq3Td19FoYuifs6O"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bartley's DREAMWEAVER",
+          "url": "https://open.spotify.com/artist/45IuizDJd1YiVjX9xfAnZ2"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625946,
+      "name": "Beacon of Hope",
+      "url": "https://open.spotify.com/track/6eGDP2ObBt7zbVVUT0tJJQ"
     },
     {
       "album": {
@@ -5935,6 +5953,32 @@
     },
     {
       "album": {
+        "name": "Rainbow's End",
+        "url": "https://open.spotify.com/album/0BpHSTSKw2IdCoMfTbKhdQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u7530\u73e0\u7406\u3068\u5e02\u5ddd\u7a7a",
+          "url": "https://open.spotify.com/artist/6KsMJkVdTl4AKJmKH1Ooz4"
+        },
+        {
+          "name": "\u4e09\u7530\u73e0\u7406",
+          "url": "https://open.spotify.com/artist/2HTIBIzcYQYA5rcOTsHIws"
+        },
+        {
+          "name": "\u5e02\u5ddd\u7a7a",
+          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272326,
+      "name": "Rainbow's End",
+      "url": "https://open.spotify.com/track/7wsd88N5KRB2OjSkZLcf4G"
+    },
+    {
+      "album": {
         "name": "Kazumi Tateishi Trio meets Beautiful Standards",
         "url": "https://open.spotify.com/album/0ng3lS4pEfjFS59i3A0d8A"
       },
@@ -6314,7 +6358,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 537057,
       "name": "Rondo",
       "url": "https://open.spotify.com/track/2sZ3Fa7Y4w0qlQdEWAfI8v"
@@ -6372,6 +6416,32 @@
       "duration_ms": 409000,
       "name": "S.Y.P.T. (Show Your PentaTonic)",
       "url": "https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4"
+    },
+    {
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/6Z3K33I4C210gGaHUwTt65"
+      },
+      "artists": [
+        {
+          "name": "Besties our sounds.",
+          "url": "https://open.spotify.com/artist/6FJMOfckruFu4GrRukKfcE"
+        },
+        {
+          "name": "Saori Yano",
+          "url": "https://open.spotify.com/artist/1w3uljZIAvrXeTUK5zj8ly"
+        },
+        {
+          "name": "Josei",
+          "url": "https://open.spotify.com/artist/76XgqcMSZXVRmN4hARCURt"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259151,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/7djuD2TyLhcKMaH9270auq"
     },
     {
       "album": {
@@ -8726,7 +8796,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 218410,
       "name": "What's Jazz?",
       "url": "https://open.spotify.com/track/2n9Ndl8UOMzAzkqLkFtlFY"
@@ -8864,7 +8934,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 266140,
       "name": "Workaholic",
       "url": "https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ"
@@ -10350,6 +10420,24 @@
       "duration_ms": 220000,
       "name": "\u9244\u8155\u30a2\u30c8\u30e0",
       "url": "https://open.spotify.com/track/6UmcIu2s1V8oPc19WMTDX6"
+    },
+    {
+      "album": {
+        "name": "\u96e8\u306b\u307b\u3069\u3051\u308b",
+        "url": "https://open.spotify.com/album/0kmFuNPkvdVH2d1kNQiw6K"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "\u96e8\u306b\u307b\u3069\u3051\u308b",
+      "url": "https://open.spotify.com/track/23W2GyzpuPaoMYqKq4CGYa"
     },
     {
       "album": {

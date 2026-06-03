@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ariana Grande, Skye Newman, Ezra Collective, Jungle and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,283 likes - 101 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,237 likes - 101 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 29 | [Dust in the Wind](https://open.spotify.com/track/4C7SX5p5loKNDddDoI1Ce0) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Dust in the Wind](https://open.spotify.com/album/2jNfiECR8FRr7SsnLiZ7dJ) | 2:50 |
 | 30 | [Sad Girls](https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Sad Girls](https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V) | 2:48 |
 | 31 | [Feelings](https://open.spotify.com/track/3LMIf4uddKOZfFGgkotzL3) | [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q), [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [Feelings](https://open.spotify.com/album/1xdrDNQJP1VM4Jdnawk2lF) | 2:13 |
-| 32 | [We Fall](https://open.spotify.com/track/29tmBVWOnuKqLR4RlhKcgS) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [We Fall](https://open.spotify.com/album/2a9ZkB99tNx8XmWXjCegpM) | 4:01 |
+| 32 | [we fall](https://open.spotify.com/track/29tmBVWOnuKqLR4RlhKcgS) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [we fall](https://open.spotify.com/album/2a9ZkB99tNx8XmWXjCegpM) | 4:01 |
 | 33 | [The Way I Love](https://open.spotify.com/track/1b4DlWiSe9HpG0htLQ0WF6) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [The Way I Love](https://open.spotify.com/album/1eVIBTuMWkufkwGVYBrBPc) | 3:06 |
 | 34 | [minute](https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [ghosted \- EP](https://open.spotify.com/album/1FI0XA7lmm54RaMcucVBBe) | 2:59 |
 | 35 | [Hot Sprite](https://open.spotify.com/track/1Z3Of1kO00D1G5HSOIK1pX) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Hot Sprite](https://open.spotify.com/album/6C3IITvErdLUkcAlF0l5Cr) | 2:34 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 47 | [Maktoub](https://open.spotify.com/track/56DYNKo3QHkakqOUkWi3vl) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Maktoub](https://open.spotify.com/album/5lGNl6oIZCafJQKQYKWmpZ) | 2:41 |
 | 48 | [Euphoria](https://open.spotify.com/track/33bvTLdmKTRzFwhONUWYHo) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Mother Of Pearl](https://open.spotify.com/album/5aUTUf4xWzBVUoUHHJ3nQO) | 2:51 |
 | 49 | [Is It Over Now?](https://open.spotify.com/track/7a1HZI7drZ3Rn0EYGAnrgC) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Is It Over Now?](https://open.spotify.com/album/05d5EqS6Ti2DXSO8WfAkbv) | 3:39 |
-| 50 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
+| 50 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
 | 51 | [Baby Driver](https://open.spotify.com/track/5dtDj7mdGJjlviTxyfMrZE) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Baby Driver](https://open.spotify.com/album/0yUdcVEmK8G3jWAYS6Dii6) | 3:36 |
 | 52 | [In Two](https://open.spotify.com/track/2chCyZz2DG5uRasGN40x28) | [SISTRA](https://open.spotify.com/artist/0Y1A0tTg1P1q6FKqhM7grU) | [She Won't Let Go](https://open.spotify.com/album/4GRNs2nW7vCi2EelnMFYrD) | 2:27 |
 | 53 | [dull blade disguise](https://open.spotify.com/track/2O8SjoHVVfVvDLLpwrXAhL) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [Injury Episode](https://open.spotify.com/album/0nZNn9KNOqjQ45hMK4a2X2) | 4:23 |

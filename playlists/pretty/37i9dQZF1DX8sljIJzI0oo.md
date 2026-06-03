@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Katteyes is bringing the heat this week\. Tap in every Thursday for a new Fuego mixtape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,917,782 likes - 45 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,917,723 likes - 45 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 9 | [PARTY ALL DAY](https://open.spotify.com/track/2NsPRU3huaZ8O1R010evAl) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei) | [PARTY ALL DAY](https://open.spotify.com/album/5eHFQQjgy6FzxAnkC0lH3S) | 2:24 |
 | 10 | [De chinga yo](https://open.spotify.com/track/7vH6GrGpmvLafCshfutzcb) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [De chinga yo](https://open.spotify.com/album/07XfcCqMdFLwvsIYOpUYxq) | 3:05 |
 | 11 | [CUANDO NOS BAÑAMOS](https://open.spotify.com/track/55jJi3Or9rhLuVZApElz8S) | [Rowma](https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO) | [CUANDO NOS BAÑAMOS](https://open.spotify.com/album/56uWu01DmOq6JNhvaEF9X3) | 2:14 |
-| 12 | [MÁS DE AHÍ \- Remix](https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MÁS DE AHÍ \(Remix\)](https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E) | 4:05 |
+| 12 | [MÁS DE AHÍ \- Remix](https://open.spotify.com/track/1aPvpAAX9lB2WpEqkK012u) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Slow Mike](https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH) | [MÁS DE AHÍ \(Remix\)](https://open.spotify.com/album/7vNpgZdlMDiRwaASBm706E) | 4:05 |
 | 13 | [EL CIELO](https://open.spotify.com/track/60QgNWmJnxSRqz9vbj6pWI) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [love love FLAKK](https://open.spotify.com/album/59Y7MSsMSEG01NNANmK1Be) | 2:35 |
 | 14 | [New Things](https://open.spotify.com/track/031ZcJo8TyET61X2gdghf5) | [Dariel Amant](https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo) | [El Amante](https://open.spotify.com/album/1PaBmH1vaPr6H8I4OHMHyG) | 3:01 |
 | 15 | [I N T E N S I D A D](https://open.spotify.com/track/3sN6rhycsWyXJOQHps4K1Z) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [YA NO ME IMPORTA SI NADIE ME ESCUCHA](https://open.spotify.com/album/1HTxWm0WlxGWyOAhQWvLGg) | 2:46 |

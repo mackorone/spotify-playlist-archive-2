@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1031,
+  "num_followers": 1042,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGMwBwybH8rfjw/OR55hvdOcqS2+4e",
+  "snapshot_id": "AAAGODAJ8aQv8csFPlQoWqDANevbxJBE",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1695,6 +1695,86 @@
       "duration_ms": 253200,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/4AGflhfh5RPzKlVydgG6TQ"
+    },
+    {
+      "added_at": "2026-06-02 18:46:32",
+      "album": {
+        "name": "All I Want From You",
+        "url": "https://open.spotify.com/album/2Gi2yf2kTvuRBLGlORfSWr"
+      },
+      "artists": [
+        {
+          "name": "Kevin ISM",
+          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "All I Want From You (Distribution)",
+      "url": "https://open.spotify.com/track/3oD3uLVohw5dcJP5WugSYV"
+    },
+    {
+      "added_at": "2026-06-02 18:52:19",
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6kUqfO3Zl3jaw4mC91o1SJ"
+      },
+      "artists": [
+        {
+          "name": "Katelynn King",
+          "url": "https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz"
+        }
+      ],
+      "duration_ms": 188784,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/1tVhSbVfhWn3dp80negdBc"
+    },
+    {
+      "added_at": "2026-06-02 19:04:24",
+      "album": {
+        "name": "BENNINGTON STREET",
+        "url": "https://open.spotify.com/album/5Ggf3woWQiwf74Ls5vjnw6"
+      },
+      "artists": [
+        {
+          "name": "Condition Baker",
+          "url": "https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu"
+        }
+      ],
+      "duration_ms": 254966,
+      "name": "BAD GAME",
+      "url": "https://open.spotify.com/track/7KwBjKoOlcjY1gl2rEVfpA"
+    },
+    {
+      "added_at": "2026-06-02 19:10:06",
+      "album": {
+        "name": "Stone",
+        "url": "https://open.spotify.com/album/4ieLV6fk5MkrgRcgeQWkO8"
+      },
+      "artists": [
+        {
+          "name": "Graveyard Choir",
+          "url": "https://open.spotify.com/artist/0RtF7RdYO3Jfhmw0JQSmX2"
+        }
+      ],
+      "duration_ms": 237104,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/6AbB4SLDajR2skDmAs5lVc"
+    },
+    {
+      "added_at": "2026-06-02 20:01:05",
+      "album": {
+        "name": "Fly Eagle Fly",
+        "url": "https://open.spotify.com/album/4ESwKcvRe5si6TTtCvomWv"
+      },
+      "artists": [
+        {
+          "name": "O KANENAS",
+          "url": "https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/7K3glujsKMq7cPgAtoRL7G"
     }
   ],
   "unique_name": "Unsigned Rock",

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-797 songs - 2 day 20 hr 39 min
+798 songs - 2 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Favour](https://open.spotify.com/track/0aq8tNf7KTwvZf98EC2XO8) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Favour](https://open.spotify.com/album/3PraQo3aIBkdSBsMIkwhDK) | 2:32 | 2024-04-26 | 2024-10-14 |
 | [Favour Go Follow Me](https://open.spotify.com/track/2GXSZYenTnoYXHpjxOSNbI) | [PC Lapez](https://open.spotify.com/artist/4tUGKyhBDR4cQrd5jM7TgM) | [Favour Go Follow Me](https://open.spotify.com/album/3xCjmH66ZDmsNWykxKgIXP) | 2:58 | 2024-08-09 | 2025-06-06 |
 | [Feel So Good](https://open.spotify.com/track/7daG2xOKoua7f3nmvbsjyW) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Nicole Muwanguzi](https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b) | [Look, it's Green](https://open.spotify.com/album/2GUcf58yY6ChmzXR6DP6dC) | 2:11 | 2026-04-03 | 2026-06-01 |
+| [Fight for me Lord](https://open.spotify.com/track/4Q9MyOEJ7w4aXt8WfptGYl) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Fight for me Lord](https://open.spotify.com/album/1ZrJOndDTspkKqVqUlYEJq) | 2:25 | 2026-05-22 |  |
 | [Fighting for me](https://open.spotify.com/track/525mBgyWmOUgeJLl6ZcOFl) | [Genirol](https://open.spotify.com/artist/2NaarOIQIasgOFuv1vCCX5), [Elizabeth Tendai](https://open.spotify.com/artist/29RbIWF60KrBy2eP4fNZo9), [Geo Musiwa](https://open.spotify.com/artist/4LuXTovCGYwbeZQCx15PxW) | [Fighting for me](https://open.spotify.com/album/4HZNjFrlwtOnT4S9AvGkOU) | 3:42 | 2023-10-06 | 2023-11-03 |
 | [Final Say](https://open.spotify.com/track/3M6FR3xV9S9LwILoTknpU8) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Final Say](https://open.spotify.com/album/2rIJUwTuMOARFg6UXTHQxs) | 3:01 | 2025-10-10 | 2025-11-24 |
 | [Fire on my Altar](https://open.spotify.com/track/3weOyLmKQGAEwEyhMYUxsz) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Fire on my Altar](https://open.spotify.com/album/2sNGMK8jCbywP4dUAZpBbU) | 10:39 | 2024-01-12 | 2024-01-26 |
@@ -371,7 +372,7 @@
 | [In the Room \(Rendition\)](https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [In the Room \(Rendition\)](https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA) | 6:11 | 2024-12-20 | 2025-05-09 |
 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 | 2025-03-07 | 2025-04-16 |
 | [In You Oh Lord I Put My Trust](https://open.spotify.com/track/4RvV5rgSP7MH5MeR8vr2Mi) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [In You Oh Lord I Put My Trust](https://open.spotify.com/album/3Z0hoVuTRobV8NT0a9jNdO) | 4:08 | 2025-05-30 | 2025-08-01 |
-| [In Your Love](https://open.spotify.com/track/3MV5SlTvhnbfPoUQfJ0XXB) | [Tomiwa Immanuel](https://open.spotify.com/artist/0GUnMx8SjB8qtB0BBfIgSZ) | [In Your Love](https://open.spotify.com/album/4RJWGm8nkA914BM7r89yYZ) | 9:40 | 2025-06-06 |  |
+| [In Your Love](https://open.spotify.com/track/3MV5SlTvhnbfPoUQfJ0XXB) | [Tomiwa Immanuel](https://open.spotify.com/artist/0GUnMx8SjB8qtB0BBfIgSZ) | [In Your Love](https://open.spotify.com/album/4RJWGm8nkA914BM7r89yYZ) | 9:40 | 2025-06-06 | 2026-06-03 |
 | [Infinity](https://open.spotify.com/track/4m6skbhTVYDH4VAix5VhD8) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Infinity](https://open.spotify.com/album/3crM24IhsBAT89dd46Lp48) | 3:41 | 2025-10-17 | 2026-05-31 |
 | [Ire](https://open.spotify.com/track/0W1vPzlP2eVEgo3XULHbV4) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7) | [YATO](https://open.spotify.com/album/0cVmZ0zxXp2993CWZMyZXE) | 3:45 | 2025-11-14 | 2026-02-07 |
 | [It's all about Jesus](https://open.spotify.com/track/0033J9wHuQAuOAGrDrQGyQ) | [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Domnik](https://open.spotify.com/artist/25sThYyRb0zAJxvrHSRlEx), [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY) | [It's all about Jesus](https://open.spotify.com/album/0uJrIIeTqcJJuP0R53sRfP) | 2:26 | 2025-06-06 | 2025-06-13 |

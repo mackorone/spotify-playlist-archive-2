@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Iceage✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,635 likes - 288 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,631 likes - 288 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

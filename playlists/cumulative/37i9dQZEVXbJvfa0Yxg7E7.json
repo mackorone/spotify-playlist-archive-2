@@ -9400,7 +9400,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 253153,
       "name": "Da einaste du sa",
       "url": "https://open.spotify.com/track/5HfhW9vSy6VTDrtAU1cpZY"
@@ -23774,7 +23774,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 203253,
       "name": "Idyll",
       "url": "https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o"
@@ -44217,6 +44217,24 @@
     },
     {
       "album": {
+        "name": "Sp\u00f8rsm\u00e5lstegn",
+        "url": "https://open.spotify.com/album/7eheMGJwiN6zqdb3kz62F6"
+      },
+      "artists": [
+        {
+          "name": "3D",
+          "url": "https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168018,
+      "name": "Sp\u00f8rsm\u00e5lstegn",
+      "url": "https://open.spotify.com/track/0OybPj7ZQ4nUHfgi2hWAHY"
+    },
+    {
+      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
@@ -48436,7 +48454,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 236514,
       "name": "Ti av ti",
       "url": "https://open.spotify.com/track/0my4Ab3S68X74izaXhWJT5"

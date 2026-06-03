@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Hallgasd teljes hanger\u0151vel ezeket a k\u00edv\u00e1l\u00f3 n\u0151i el\u0151ad\u00f3kat. Cover: Blansch\n",
+  "description": "Hallgasd teljes hanger\u0151vel ezeket a k\u00edv\u00e1l\u00f3 n\u0151i el\u0151ad\u00f3kat. A lej\u00e1tsz\u00e1si list\u00e1t r\u00e9szben Blansch k\u00e9sz\u00edtette\n",
   "name": "EQUAL Hungary",
   "tracks": [
+    {
+      "album": {
+        "name": "100xsz\u00e9p",
+        "url": "https://open.spotify.com/album/5dmVyosOIGtwCmFqOzLT14"
+      },
+      "artists": [
+        {
+          "name": "Palmira",
+          "url": "https://open.spotify.com/artist/6mGfJI41i2Qngdt9QkHCe2"
+        },
+        {
+          "name": "P.Y.F.U.",
+          "url": "https://open.spotify.com/artist/1bBLTanRAg5hDyeEYC6p6c"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123468,
+      "name": "100xsz\u00e9p",
+      "url": "https://open.spotify.com/track/61aZpnGnIIZeIiqDNhey1p"
+    },
     {
       "album": {
         "name": "11 (K\u00e9t Sz\u00e1l)",
@@ -218,10 +240,32 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 144590,
       "name": "Akarom",
       "url": "https://open.spotify.com/track/7IVuOBSajpsegqOiQkeNt7"
+    },
+    {
+      "album": {
+        "name": "Akarom (SZELEKTOR)",
+        "url": "https://open.spotify.com/album/1gWnzmCEe8TV3VUlDCpO51"
+      },
+      "artists": [
+        {
+          "name": "Temesi Blanka",
+          "url": "https://open.spotify.com/artist/3hsGE1dfJ4WNM3SIbbsDhg"
+        },
+        {
+          "name": "Telekom Electronic Beats",
+          "url": "https://open.spotify.com/artist/2AdCsyNwpuVFkGxGnur4nN"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188090,
+      "name": "Akarom - SZELEKTOR",
+      "url": "https://open.spotify.com/track/3K8Mkc4qgcl1X2teFJ62C4"
     },
     {
       "album": {
@@ -276,6 +320,28 @@
       "duration_ms": 180468,
       "name": "All over me",
       "url": "https://open.spotify.com/track/75PrJjRvl5yrFnKVuP57bM"
+    },
+    {
+      "album": {
+        "name": "BORN FALLEN",
+        "url": "https://open.spotify.com/album/1vO9s0I6EdUelT6lt3laDx"
+      },
+      "artists": [
+        {
+          "name": "ROSE MAY",
+          "url": "https://open.spotify.com/artist/3xAMdoZgV5uPPm6qeZl08I"
+        },
+        {
+          "name": "P.Y.F.U.",
+          "url": "https://open.spotify.com/artist/1bBLTanRAg5hDyeEYC6p6c"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "ALRIGHT",
+      "url": "https://open.spotify.com/track/7eX90Nj5eyCXfaVlUTlFqd"
     },
     {
       "album": {
@@ -352,6 +418,28 @@
       "duration_ms": 189090,
       "name": "Angyal",
       "url": "https://open.spotify.com/track/6vhCKswUq3GLI8mLyTdiTr"
+    },
+    {
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/30pYwtdtxRgSRuwnDnZRoU"
+      },
+      "artists": [
+        {
+          "name": "Karyuu",
+          "url": "https://open.spotify.com/artist/3uqDkh9EZU2GDSjvzdP0Yk"
+        },
+        {
+          "name": "jaylenn",
+          "url": "https://open.spotify.com/artist/5hUkcECT7APNs5c0qVQkcx"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/6J0GCPFF2Nm8jCwG6HUgR2"
     },
     {
       "album": {
@@ -836,7 +924,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 203721,
       "name": "boldogs\u00e1g 4rush",
       "url": "https://open.spotify.com/track/4Oygi0fF5ESGak5ymKhXYd"
@@ -1010,6 +1098,24 @@
     {
       "album": {
         "name": "B\u00faj\u00f3cska",
+        "url": "https://open.spotify.com/album/1fkfvoGGRAmtw47Gsqqtw4"
+      },
+      "artists": [
+        {
+          "name": "Szeder",
+          "url": "https://open.spotify.com/artist/2PjwIpRxRdznfEeOV0aNhD"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305024,
+      "name": "B\u00faj\u00f3cska",
+      "url": "https://open.spotify.com/track/3KWQMZIqa8YvuA3WhpzoeB"
+    },
+    {
+      "album": {
+        "name": "B\u00faj\u00f3cska",
         "url": "https://open.spotify.com/album/2PupfzqWWNaUyosNEcH04m"
       },
       "artists": [
@@ -1144,6 +1250,24 @@
       "duration_ms": 243266,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/1Xti16IkArVQ1NMUR6wDao"
+    },
+    {
+      "album": {
+        "name": "Csillag",
+        "url": "https://open.spotify.com/album/0OOIRvUxkpw9CaqG6bWPdw"
+      },
+      "artists": [
+        {
+          "name": "XOFYA",
+          "url": "https://open.spotify.com/artist/1T3mOzJ6O72nXS7HXcQqV1"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Csillag",
+      "url": "https://open.spotify.com/track/41UwJJaCvALUvtXJ9bR3XS"
     },
     {
       "album": {
@@ -1498,7 +1622,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 203478,
       "name": "DON'T BE HUMBLE",
       "url": "https://open.spotify.com/track/67AHIXS8YrsApN7yGCkgUT"
@@ -1556,6 +1680,24 @@
       "duration_ms": 211440,
       "name": "Driftwood",
       "url": "https://open.spotify.com/track/5pFdhjTBTnJNr0nfIXQSJJ"
+    },
+    {
+      "album": {
+        "name": "duna",
+        "url": "https://open.spotify.com/album/2PqYZKizpfPwgD2VbgffdM"
+      },
+      "artists": [
+        {
+          "name": "fllozz",
+          "url": "https://open.spotify.com/artist/1YMdcly0IoDPLGUsCI2ho9"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "duna",
+      "url": "https://open.spotify.com/track/3rE5q8dor3Zuf7slj9XAQH"
     },
     {
       "album": {
@@ -2458,7 +2600,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 130000,
       "name": "Good Without You",
       "url": "https://open.spotify.com/track/6hFimNJZNOdCuYqjOues9G"
@@ -2519,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "H\u0171tlen D\u00e9lib\u00e1b",
+        "url": "https://open.spotify.com/album/0nUnpyXWyuKOzAVz7vxKe0"
+      },
+      "artists": [
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169851,
+      "name": "Gyorsvonat",
+      "url": "https://open.spotify.com/track/3jMkvjlvSQFRdFBX3xLYxC"
+    },
+    {
+      "album": {
         "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
         "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
       },
@@ -2552,6 +2712,24 @@
       "duration_ms": 270666,
       "name": "G\u00f6d\u00f6r - Remix",
       "url": "https://open.spotify.com/track/1R6OY4sDokDwbnliUYsNzw"
+    },
+    {
+      "album": {
+        "name": "Kov\u00e1cs Kati legnagyobb sl\u00e1gerei",
+        "url": "https://open.spotify.com/album/2uyuSHSVrqQGOsWID5CjUE"
+      },
+      "artists": [
+        {
+          "name": "Kati Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0jxF3b0cnu9zDgfVCr9EKM"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Ha legk\u00f6zelebb l\u00e1tlak",
+      "url": "https://open.spotify.com/track/3QACs7aGyixERWkhGw6bzz"
     },
     {
       "album": {
@@ -2764,7 +2942,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 165436,
       "name": "Hey Hey",
       "url": "https://open.spotify.com/track/4mL7n1NpQ5CtvXwRHCrEUD"
@@ -2790,6 +2968,24 @@
       "duration_ms": 196000,
       "name": "Hiba",
       "url": "https://open.spotify.com/track/6QHeKaA91AW1svaYMfdVwq"
+    },
+    {
+      "album": {
+        "name": "Hogy is van ez?",
+        "url": "https://open.spotify.com/album/1qMJ0gLK9DvRzvcapQl8ug"
+      },
+      "artists": [
+        {
+          "name": "Boggie",
+          "url": "https://open.spotify.com/artist/1wsHBdxTTaTeHybht0ch2a"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162769,
+      "name": "Hogy is van ez?",
+      "url": "https://open.spotify.com/track/4TeBoqZZSTNchfC3SfMOWM"
     },
     {
       "album": {
@@ -2967,6 +3163,24 @@
     },
     {
       "album": {
+        "name": "i was wrong",
+        "url": "https://open.spotify.com/album/7EXMGa3bhTuRvarlYcGI05"
+      },
+      "artists": [
+        {
+          "name": "The Anahit",
+          "url": "https://open.spotify.com/artist/1MaK1Vfc104UBALiVspffb"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178432,
+      "name": "i was wrong",
+      "url": "https://open.spotify.com/track/6YMgZe04qLOXyc84DCyTHN"
+    },
+    {
+      "album": {
         "name": "idc",
         "url": "https://open.spotify.com/album/4Aa2AvkK63rGGaNPjR6HbH"
       },
@@ -2978,7 +3192,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 116500,
       "name": "idc",
       "url": "https://open.spotify.com/track/1ohQfF1IQ5zwVIbRxFzYOF"
@@ -3339,6 +3553,24 @@
     },
     {
       "album": {
+        "name": "Karcos negat\u00edv",
+        "url": "https://open.spotify.com/album/2iNDVJktLcQlW9GKnDEL0I"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1bas Viki",
+          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Karcos negat\u00edv",
+      "url": "https://open.spotify.com/track/5rp2dFderc43IcYH5omlTg"
+    },
+    {
+      "album": {
         "name": "Kattos (Original)",
         "url": "https://open.spotify.com/album/1hGGWUTiZKoenoh8TDcWwy"
       },
@@ -3469,6 +3701,28 @@
     },
     {
       "album": {
+        "name": "K\u00e9sett",
+        "url": "https://open.spotify.com/album/51YyrIgC0roSOCAj56KhBd"
+      },
+      "artists": [
+        {
+          "name": "Czeglady",
+          "url": "https://open.spotify.com/artist/6uTpA5i7V2IfR8FOOZiLWm"
+        },
+        {
+          "name": "Morgana",
+          "url": "https://open.spotify.com/artist/37o2nE5RT7AJekC0eKo0xB"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131282,
+      "name": "Kiab\u00e1lj",
+      "url": "https://open.spotify.com/track/4biuhmbHAN4v4IvaC1DZt6"
+    },
+    {
+      "album": {
         "name": "S\u00f6t\u00e9t",
         "url": "https://open.spotify.com/album/0LjOuW5zayNocngC5kzTK1"
       },
@@ -3498,7 +3752,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 173437,
       "name": "Kincsvad\u00e1szat",
       "url": "https://open.spotify.com/track/34m7EXuutiPYs1DXgcLzML"
@@ -3560,6 +3814,24 @@
       "duration_ms": 159190,
       "name": "Kisasszony",
       "url": "https://open.spotify.com/track/5enDlXlSCSUtis7qPRR1ay"
+    },
+    {
+      "album": {
+        "name": "Kismad\u00e1r",
+        "url": "https://open.spotify.com/album/6e7m6kR3dd6QSjObLI8sxy"
+      },
+      "artists": [
+        {
+          "name": "Fluidia",
+          "url": "https://open.spotify.com/artist/6ORKVNt3KGpnWTVV71BKa8"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364853,
+      "name": "Kismad\u00e1r",
+      "url": "https://open.spotify.com/track/5BsYbsZJCsxoD1hYYjVfkf"
     },
     {
       "album": {
@@ -3672,7 +3944,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 229615,
       "name": "Korona N\u00e9lk\u00fcl Kir\u00e1lyn\u0151",
       "url": "https://open.spotify.com/track/1msIPL5l2PKpikpMHclc3P"
@@ -3766,7 +4038,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 336461,
       "name": "K\u00e9t Szeme K\u00f6zt",
       "url": "https://open.spotify.com/track/1gXsS2DQE5FoApHGyTz2I9"
@@ -3936,7 +4208,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 192000,
       "name": "Lelkem",
       "url": "https://open.spotify.com/track/264kFzsl8tb8h4ZBUjl5AK"
@@ -4038,7 +4310,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 157241,
       "name": "Le\u00f6ntj\u00fck s\u00f6rrel",
       "url": "https://open.spotify.com/track/3a49B3OCBuMba7hPekyHkT"
@@ -4114,6 +4386,24 @@
       "duration_ms": 189000,
       "name": "Looking Down",
       "url": "https://open.spotify.com/track/7dLxHTTSIdK6AJIvcwEe3Z"
+    },
+    {
+      "album": {
+        "name": "loser",
+        "url": "https://open.spotify.com/album/67LDzuKMSuPJLePbpc6i22"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/109sAHLhblz2Xq0YcJhyVb"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "loser",
+      "url": "https://open.spotify.com/track/0AGR2vsrdpirJJ6k7byikw"
     },
     {
       "album": {
@@ -4222,7 +4512,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 208421,
       "name": "l\u00e9g\u00fcres",
       "url": "https://open.spotify.com/track/0xoknM2A8JQSOZHtglrE9P"
@@ -4478,7 +4768,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 208896,
       "name": "Mell\u00e9kutc\u00e1n",
       "url": "https://open.spotify.com/track/0wuivHXH3TkkAwOQjPWTG9"
@@ -4655,6 +4945,24 @@
     },
     {
       "album": {
+        "name": "Mizu van, sz\u0151k\u00e9k?",
+        "url": "https://open.spotify.com/album/1KiIdQrrVqpeHiMSX8RvPW"
+      },
+      "artists": [
+        {
+          "name": "ROSE MAY",
+          "url": "https://open.spotify.com/artist/3xAMdoZgV5uPPm6qeZl08I"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Mizu van, sz\u0151k\u00e9k?",
+      "url": "https://open.spotify.com/track/2qfo7ApFXEwI7oSc5pZO7s"
+    },
+    {
+      "album": {
         "name": "GATYA",
         "url": "https://open.spotify.com/album/4eJ1xJGMc8RKeUg8yd6LDI"
       },
@@ -4828,7 +5136,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 209552,
       "name": "M\u00e1gus Sose N\u0151 Fel",
       "url": "https://open.spotify.com/track/4SgEqNVgc6q38on822Ha5A"
@@ -5020,6 +5328,24 @@
       "duration_ms": 236363,
       "name": "M\u00e9z",
       "url": "https://open.spotify.com/track/1hXjiVuSCp48ki0iA4G0Dz"
+    },
+    {
+      "album": {
+        "name": "M\u00daLT",
+        "url": "https://open.spotify.com/album/6A1y6ZaEM7Yb0udQzICCp0"
+      },
+      "artists": [
+        {
+          "name": "Loophia",
+          "url": "https://open.spotify.com/artist/3Y1l1roXoFoKXUO5EPUecM"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237525,
+      "name": "M\u00daLT",
+      "url": "https://open.spotify.com/track/0Q5YKaEMCIRVCseNxnrTKi"
     },
     {
       "album": {
@@ -5223,6 +5549,24 @@
     },
     {
       "album": {
+        "name": "Nem is akarom",
+        "url": "https://open.spotify.com/album/00DdPXCWRJqvfQlm8d1nKT"
+      },
+      "artists": [
+        {
+          "name": "Blansch",
+          "url": "https://open.spotify.com/artist/3ayr9hpwhjojhJ4wuqVQED"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139741,
+      "name": "Nem is akarom",
+      "url": "https://open.spotify.com/track/7b8w8tuUpd13ulLo6aP3wJ"
+    },
+    {
+      "album": {
         "name": "nem is tudom",
         "url": "https://open.spotify.com/album/6ouWIXMStg8fLRt8t7rok2"
       },
@@ -5342,7 +5686,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 151343,
       "name": "nemkapokleveg\u0151t",
       "url": "https://open.spotify.com/track/7pgbtQSwlB45fkYQ00oaFy"
@@ -5378,7 +5722,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-04",
+      "date_removed": null,
       "duration_ms": 159230,
       "name": "NIAGARA",
       "url": "https://open.spotify.com/track/734FaHD2p9wkwiyoSC8spJ"
@@ -5828,7 +6172,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-20",
+      "date_removed": null,
       "duration_ms": 163902,
       "name": "Porcel\u00e1n",
       "url": "https://open.spotify.com/track/21NT2KTt75JR6bDHZwVcpP"
@@ -5854,6 +6198,24 @@
       "duration_ms": 176727,
       "name": "Pornstar Martini",
       "url": "https://open.spotify.com/track/6qMkDo84rCzTP9qW6Dz1s9"
+    },
+    {
+      "album": {
+        "name": "po\u00efsoned parad\u00efse",
+        "url": "https://open.spotify.com/album/1OfkpDc1Qm4jNrOgo46gg0"
+      },
+      "artists": [
+        {
+          "name": "B\u00d6BE",
+          "url": "https://open.spotify.com/artist/7EDnFpwVQRaREGbgWNzozn"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "po\u00efsoned parad\u00efse",
+      "url": "https://open.spotify.com/track/0xQymYZBf6qAq2iguJRn5y"
     },
     {
       "album": {
@@ -5890,10 +6252,28 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 189763,
       "name": "pszichopata",
       "url": "https://open.spotify.com/track/7egFeg3eBlbSDWyBimVgBz"
+    },
+    {
+      "album": {
+        "name": "Rabmad\u00e1r",
+        "url": "https://open.spotify.com/album/3Ux22ezs9iKfunNZQ9Gl85"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3th Abig\u00e9l",
+          "url": "https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152750,
+      "name": "Rabmad\u00e1r",
+      "url": "https://open.spotify.com/track/03c9dclvSEF8pC0iGqXt2y"
     },
     {
       "album": {
@@ -6038,7 +6418,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 163835,
       "name": "Royal",
       "url": "https://open.spotify.com/track/3xW5Nf7ogmehHEjCrjcIJT"
@@ -6243,6 +6623,24 @@
     },
     {
       "album": {
+        "name": "LYUK A KERTBEN",
+        "url": "https://open.spotify.com/album/5J37TGE6IhEeLHjaCm0g6P"
+      },
+      "artists": [
+        {
+          "name": "Tingyela D\u00f3ri",
+          "url": "https://open.spotify.com/artist/7ky4EpchtJsS1RaYBPP74v"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284333,
+      "name": "SKORPI\u00d3K",
+      "url": "https://open.spotify.com/track/22dyCz9IUUiQDMI7oGzXTT"
+    },
+    {
+      "album": {
         "name": "slowly die",
         "url": "https://open.spotify.com/album/7D9ohK7rBuY0nuriEUq0Ss"
       },
@@ -6360,6 +6758,28 @@
       "duration_ms": 215137,
       "name": "Some change",
       "url": "https://open.spotify.com/track/3mzvEQ6ccFJ441D14sn3i2"
+    },
+    {
+      "album": {
+        "name": "III.",
+        "url": "https://open.spotify.com/album/58hQptGA7tAiGLzlCICHsg"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00e9re",
+          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
+        },
+        {
+          "name": "\u00d3tvar Pestis",
+          "url": "https://open.spotify.com/artist/1AyF8iJgMe4LMNe8bUM1Yo"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128578,
+      "name": "Sose halok meg",
+      "url": "https://open.spotify.com/track/0w0Pux3jhsnGvVC4UdmA88"
     },
     {
       "album": {
@@ -6649,6 +7069,50 @@
     },
     {
       "album": {
+        "name": "Szil\u00e1nkok",
+        "url": "https://open.spotify.com/album/3do3YI0XDOwP50ujHfw4Gc"
+      },
+      "artists": [
+        {
+          "name": "Korinna",
+          "url": "https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH"
+        },
+        {
+          "name": "UTAZ\u00d8",
+          "url": "https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246265,
+      "name": "Szil\u00e1nkok",
+      "url": "https://open.spotify.com/track/2u8iSrFqIwMuIlCNRp5IdQ"
+    },
+    {
+      "album": {
+        "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
+        "url": "https://open.spotify.com/album/49awHTFD5CufV8OlYDpRGW"
+      },
+      "artists": [
+        {
+          "name": "Doramajora",
+          "url": "https://open.spotify.com/artist/4ltnU2BWApk54T7I53jxKf"
+        },
+        {
+          "name": "toldyuuso",
+          "url": "https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
+      "url": "https://open.spotify.com/track/69uDRZ64aDn32VPcnPjWjv"
+    },
+    {
+      "album": {
         "name": "Szoci\u00e1lis szorong\u00e1s (Radio Edit)",
         "url": "https://open.spotify.com/album/1PP9mHpyNvDAviEM44SaQv"
       },
@@ -6931,6 +7395,24 @@
     },
     {
       "album": {
+        "name": "Tal\u00e1n szeretni k\u00e9ne",
+        "url": "https://open.spotify.com/album/6ioJL499iT8EHUZ0pySQg1"
+      },
+      "artists": [
+        {
+          "name": "Sz\u00e9csi Vikt\u00f3ria",
+          "url": "https://open.spotify.com/artist/3Vru5puQVaVc3JGrNBqn9x"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206326,
+      "name": "Tal\u00e1n szeretni k\u00e9ne",
+      "url": "https://open.spotify.com/track/1E4CrqIhoXZnp61gPxwPfc"
+    },
+    {
+      "album": {
         "name": "1. 2. 3 \u2026 Start - \u00daj Hull\u00e1m",
         "url": "https://open.spotify.com/album/0bNMznOy82QPyl6axDEn0Y"
       },
@@ -7000,6 +7482,24 @@
       "duration_ms": 189333,
       "name": "Tavaszod",
       "url": "https://open.spotify.com/track/2Uf5EHEbHmhqiS12vLY4Wy"
+    },
+    {
+      "album": {
+        "name": "Te vagy a f\u00e9ny",
+        "url": "https://open.spotify.com/album/5R0VVxpVZ9ZQkOxmBUDobu"
+      },
+      "artists": [
+        {
+          "name": "Karola",
+          "url": "https://open.spotify.com/artist/5zm8RkAvafvF2A6c5tdzXi"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Te vagy a f\u00e9ny",
+      "url": "https://open.spotify.com/track/76uH5fcX9TM2zMDBgw2qVy"
     },
     {
       "album": {
@@ -7191,6 +7691,24 @@
     },
     {
       "album": {
+        "name": "Kezdetben Ketten",
+        "url": "https://open.spotify.com/album/2IGoo8bL65FuJ8Vywy3RBG"
+      },
+      "artists": [
+        {
+          "name": "ajsa luna",
+          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185507,
+      "name": "Tomi Montana",
+      "url": "https://open.spotify.com/track/0YmC2RyX4YD1HVaJQ8F73G"
+    },
+    {
+      "album": {
         "name": "FOREIGN GIRL IN YOUR ROOM",
         "url": "https://open.spotify.com/album/2SWphLG9i3etow1cF3yCZX"
       },
@@ -7354,7 +7872,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 159743,
       "name": "T\u00f6r\u00f6tt t\u00fck\u00f6r",
       "url": "https://open.spotify.com/track/1NXaklJPvxuicmRquLTi4Y"
@@ -8039,6 +8557,24 @@
     },
     {
       "album": {
+        "name": "\u00c1lomt\u00e9rk\u00e9p",
+        "url": "https://open.spotify.com/album/2Roq4ps0ivUiDlRSBlFAiT"
+      },
+      "artists": [
+        {
+          "name": "Anami",
+          "url": "https://open.spotify.com/artist/2MlFLIKxPyzmUXFAEo1B5N"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "\u00c1lomt\u00e9rk\u00e9p",
+      "url": "https://open.spotify.com/track/2p2Ih3zF34D5SNar4vVieM"
+    },
+    {
+      "album": {
         "name": "\u00c9bred\u00e9s",
         "url": "https://open.spotify.com/album/3s4Cv26mUsWqMgM4RGexxm"
       },
@@ -8054,6 +8590,32 @@
       "duration_ms": 197875,
       "name": "\u00c9bred\u00e9s",
       "url": "https://open.spotify.com/track/4D5hS5UTNeO52b4bGY6r28"
+    },
+    {
+      "album": {
+        "name": "\u00c9den",
+        "url": "https://open.spotify.com/album/7jgwlO3ZWC6px01AtleHh4"
+      },
+      "artists": [
+        {
+          "name": "Metzker Vikt\u00f3ria",
+          "url": "https://open.spotify.com/artist/2HeY093HdxKM5cb0RL1aOH"
+        },
+        {
+          "name": "Nagy Bogi",
+          "url": "https://open.spotify.com/artist/3VgOKuwKvAYU4aT7atESfM"
+        },
+        {
+          "name": "Miss Mood",
+          "url": "https://open.spotify.com/artist/5RQvpF3WKBeSvmfAQHV5M3"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206829,
+      "name": "\u00c9den",
+      "url": "https://open.spotify.com/track/7mFySsjurNbnWsDi0QwKzM"
     },
     {
       "album": {

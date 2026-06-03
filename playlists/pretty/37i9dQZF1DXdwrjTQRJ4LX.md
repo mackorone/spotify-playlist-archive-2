@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwrjTQRJ4LX.md) - [plain]
 
 > <a href="spotify:artist:62k5LKMhymqlDNo2DWOvvv">Boys Noize</a>'s favorite tracks\. Updated regularly\. Curated by Boys Noize\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,554 likes - 57 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,565 likes - 57 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwrjTQRJ4LX.md) - [plain]
 | 2 | [Into the Sky](https://open.spotify.com/track/2bo1qVBpVO9xHDuOmJzcCZ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Into The Sky](https://open.spotify.com/album/6y6mFe56cz3DFMpXaXOBag) | 2:15 |
 | 3 | [Dracula \- JENNIE Remix \- Boys Noize Disko Version](https://open.spotify.com/track/53AnN5mzvc62M1KOT45ffl) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Dracula \(JENNIE Remix \- Boys Noize Disko Version\)](https://open.spotify.com/album/3SjpreHDixSfXNxVNJDU0s) | 4:00 |
 | 4 | [Anytime Anywhere](https://open.spotify.com/track/4xdxNreSjuSF8lrOPqwIvX) | [Hekt](https://open.spotify.com/artist/0SOn6FeWwXGHcF9JEGM4Y1) | [Beautiful](https://open.spotify.com/album/7BFol5q1oT3YGBxF1zZqFd) | 2:22 |
-| 5 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
+| 5 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
 | 6 | [TCP Burn](https://open.spotify.com/track/592IqSmoQlqYWsc0vWfvWI) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [SickElixir](https://open.spotify.com/album/59aRCCtOb1yMhdN9TM53zR) | 2:38 |
 | 7 | [HYYTUP](https://open.spotify.com/track/3holG7xFxHFJrMftsHBzIg) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [HYYTUP / Sh5b0mbe](https://open.spotify.com/album/54qI1WE81gr67fg5FCuKvN) | 3:17 |
 | 8 | [Ey Bb](https://open.spotify.com/track/1PslJEbowF4VnAJcEs2J8S) | [Taube](https://open.spotify.com/artist/7CkJFCrOBweQ9bOL3C5MCu), [Malagüera](https://open.spotify.com/artist/5YXZvDM2mB1EgnmIqFlGGD) | [Ey Bb](https://open.spotify.com/album/0HiZTjBfAEH3Szt9Je7U11) | 3:41 |

@@ -1975,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Bootay",
+        "url": "https://open.spotify.com/album/3zRetCsgHcvLrnEdaRiZsk"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "date_added": "2026-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Bootay",
+      "url": "https://open.spotify.com/track/1s0xmXddfQzw33uQ7eR0Cu"
+    },
+    {
+      "album": {
         "name": "BOOTY PART 2",
         "url": "https://open.spotify.com/album/1n5Wx9PlqyYKZdsbTXoyCS"
       },
@@ -16594,7 +16612,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 179956,
       "name": "World & Back (feat. Riko Dan)",
       "url": "https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u"

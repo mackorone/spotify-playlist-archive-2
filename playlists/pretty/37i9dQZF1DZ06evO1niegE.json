@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 9117,
+  "num_followers": 9120,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAAAK26/WpEo/8VuUPS6vAxey",
+  "snapshot_id": "ahzLgAAAAADm/A0fY37DpD/+hOFskngc",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 190533,
-      "name": "Hoy Me Siento Bien",
-      "url": "https://open.spotify.com/track/4vYUSG43ap8AfnvlVmHb4Y"
+      "duration_ms": 163693,
+      "name": "Mundo Cruel",
+      "url": "https://open.spotify.com/track/4CnYTUUxEoP2NRkXPvrjiq"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 163693,
-      "name": "Mundo Cruel",
-      "url": "https://open.spotify.com/track/4CnYTUUxEoP2NRkXPvrjiq"
+      "duration_ms": 190533,
+      "name": "Hoy Me Siento Bien",
+      "url": "https://open.spotify.com/track/4vYUSG43ap8AfnvlVmHb4Y"
     },
     {
       "added_at": null,
@@ -543,22 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bye Boy",
-        "url": "https://open.spotify.com/album/1zHYaWSoIDDI12DM5yEXrc"
+        "name": "Vida En Rosa Tour (En Vivo Desde El Palacio de los Deportes, CDMX)",
+        "url": "https://open.spotify.com/album/0wGZEBe38WBtZpn0B0fhI8"
       },
       "artists": [
         {
-          "name": "eydrey",
-          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 178261,
-      "name": "Bye Boy",
-      "url": "https://open.spotify.com/track/2if0GLjlNgA4H5nJ4tQEkT"
+      "duration_ms": 265497,
+      "name": "A\u00fan As\u00ed Te Vas - En Vivo Desde El Palacio de los Deportes, CDMX",
+      "url": "https://open.spotify.com/track/0DunZVYfdXWHgl6U4b43Oe"
     },
     {
       "added_at": null,
@@ -575,6 +575,26 @@
       "duration_ms": 238600,
       "name": "Viaje Al Amanecer",
       "url": "https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bye Boy",
+        "url": "https://open.spotify.com/album/1zHYaWSoIDDI12DM5yEXrc"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 178261,
+      "name": "Bye Boy",
+      "url": "https://open.spotify.com/track/2if0GLjlNgA4H5nJ4tQEkT"
     },
     {
       "added_at": null,
@@ -611,26 +631,6 @@
       "duration_ms": 203280,
       "name": "as\u00ed no funciona",
       "url": "https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vida En Rosa Tour (En Vivo Desde El Palacio de los Deportes, CDMX)",
-        "url": "https://open.spotify.com/album/0wGZEBe38WBtZpn0B0fhI8"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 265497,
-      "name": "A\u00fan As\u00ed Te Vas - En Vivo Desde El Palacio de los Deportes, CDMX",
-      "url": "https://open.spotify.com/track/0DunZVYfdXWHgl6U4b43Oe"
     },
     {
       "added_at": null,

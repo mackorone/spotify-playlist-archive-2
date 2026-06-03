@@ -1,6 +1,6 @@
 {
   "description": "Al mil para entrenar sin parar.",
-  "num_followers": 221173,
+  "num_followers": 221222,
   "original_name": "Modo: Al Mil",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 142656,
+      "name": "Consejos Gratis",
+      "url": "https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
         "name": "La Morrita",
         "url": "https://open.spotify.com/album/3vQe3Bm2uOfECFYjWnxmev"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 154951,
       "name": "La Morrita",
       "url": "https://open.spotify.com/track/29YP167FTBz8m3937YbKDw"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 142656,
-      "name": "Consejos Gratis",
-      "url": "https://open.spotify.com/track/2xTLTU2K901snq53FLWZKE"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
+        "name": "PURA SUERTE",
+        "url": "https://open.spotify.com/album/59usHpQaqgUPTY1pe1GSvj"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        },
+        {
+          "name": "Juan Freer",
+          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+        }
+      ],
+      "duration_ms": 146337,
+      "name": "PURA SUERTE",
+      "url": "https://open.spotify.com/track/0hNVocBws5hDYOnsDDj440"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
         "name": "Sigue Siendo Diferente",
         "url": "https://open.spotify.com/album/32FleWdeEFYyvit5Vr09uC"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 189651,
       "name": "Tiempos Mejores",
       "url": "https://open.spotify.com/track/01yhHGuoyV5TO3RrLtGStG"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
-        "name": "Ya No Se Llevan Serenatas (Deluxe)",
-        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 196632,
-      "name": "CHROME HEARTS",
-      "url": "https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1339,22 +1339,22 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "PURA SUERTE",
-        "url": "https://open.spotify.com/album/59usHpQaqgUPTY1pe1GSvj"
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
       },
       "artists": [
         {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         },
         {
-          "name": "Juan Freer",
-          "url": "https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 146337,
-      "name": "PURA SUERTE",
-      "url": "https://open.spotify.com/track/0hNVocBws5hDYOnsDDj440"
+      "duration_ms": 196632,
+      "name": "CHROME HEARTS",
+      "url": "https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Playas Y Blones",
-        "url": "https://open.spotify.com/album/1XU0fdDkKrHg4sP1s5rUCG"
-      },
-      "artists": [
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        }
-      ],
-      "duration_ms": 211421,
-      "name": "Playas Y Blones",
-      "url": "https://open.spotify.com/track/2pykB1zqstSLQ21w12gm0Q"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "Amistades",
         "url": "https://open.spotify.com/album/3LqHLNiN2H7kzdrhjBGjqh"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 196706,
       "name": "Amistades",
       "url": "https://open.spotify.com/track/5ZoWz5CRPRsxteUQpMnfAw"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "Playas Y Blones",
+        "url": "https://open.spotify.com/album/1XU0fdDkKrHg4sP1s5rUCG"
+      },
+      "artists": [
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "duration_ms": 211421,
+      "name": "Playas Y Blones",
+      "url": "https://open.spotify.com/track/2pykB1zqstSLQ21w12gm0Q"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Chalino S\u00e1nchez con Banda Brava",
-        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        },
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 172512,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/6ab5dRx0VtGzMjUejMFI9u"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "AG\u00dcITADO",
         "url": "https://open.spotify.com/album/7m211hDuffAarROqfim9Ht"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 168034,
       "name": "AG\u00dcITADO",
       "url": "https://open.spotify.com/track/6WMHgS1N6k0Ud6R5TQS7Yz"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "Chalino S\u00e1nchez con Banda Brava",
+        "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        },
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 172512,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/6ab5dRx0VtGzMjUejMFI9u"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
+        "name": "Chica La Bola",
+        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "duration_ms": 173205,
+      "name": "Chica La Bola",
+      "url": "https://open.spotify.com/track/3Pl6cmIeByRLbclelIPAnJ"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
         "name": "CUANDO SE ACABE EL TIEMPO",
         "url": "https://open.spotify.com/album/6HGYuGJSPyusItg6CnOBM4"
       },
@@ -1635,18 +1651,18 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Chica La Bola",
-        "url": "https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ"
+        "name": "L\u00edricas De Oro",
+        "url": "https://open.spotify.com/album/0gXdxNdLAdxnqITRqOaMYX"
       },
       "artists": [
         {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
         }
       ],
-      "duration_ms": 173205,
-      "name": "Chica La Bola",
-      "url": "https://open.spotify.com/track/3Pl6cmIeByRLbclelIPAnJ"
+      "duration_ms": 146839,
+      "name": "Desde Morro",
+      "url": "https://open.spotify.com/track/0q1H8leLjzZvjHhgNBiVOx"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1667,22 +1683,6 @@
       "duration_ms": 147142,
       "name": "El Mismo",
       "url": "https://open.spotify.com/track/1K3idamkSc1wHPTRsX3tVt"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
-        "name": "L\u00edricas De Oro",
-        "url": "https://open.spotify.com/album/0gXdxNdLAdxnqITRqOaMYX"
-      },
-      "artists": [
-        {
-          "name": "Justin Morales",
-          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
-        }
-      ],
-      "duration_ms": 146839,
-      "name": "Desde Morro",
-      "url": "https://open.spotify.com/track/0q1H8leLjzZvjHhgNBiVOx"
     },
     {
       "added_at": "2026-04-24 07:16:57",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2026-04-24 07:16:57",
       "album": {
-        "name": "Mis Compas Vol. 1",
-        "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 177900,
-      "name": "Con Todo Respetillo",
-      "url": "https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa"
-    },
-    {
-      "added_at": "2026-04-24 07:16:57",
-      "album": {
         "name": "Somos Los Que Somos (En Vivo)",
         "url": "https://open.spotify.com/album/4fyPhbp4TVAcAePO24DPQE"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 280093,
       "name": "Somos Los Que Somos - En Vivo",
       "url": "https://open.spotify.com/track/2HF7et3dSdyQqq7aIMLoQ5"
+    },
+    {
+      "added_at": "2026-04-24 07:16:57",
+      "album": {
+        "name": "Mis Compas Vol. 1",
+        "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 177900,
+      "name": "Con Todo Respetillo",
+      "url": "https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa"
     }
   ],
   "unique_name": "Modo: Al Mil",

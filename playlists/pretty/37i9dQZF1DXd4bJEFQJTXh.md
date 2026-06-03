@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 
 > We’re going to be golden!
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,157 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,514 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4bJEFQJTXh.md) - [plain]
 | 27 | [Elemental](https://open.spotify.com/track/1iueGRdZSh7qdbOsdWe7tC) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:43 |
 | 28 | [Agua \(with J Balvin\) \- Music From "Sponge On The Run" Movie](https://open.spotify.com/track/1pqnQ41XbfKjaFu6M0eGJp) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Agua \(with J Balvin\) \[Music From "Sponge On The Run" Movie\]](https://open.spotify.com/album/6PVN0rvVbQE21VoEgmtDRS) | 2:37 |
 | 29 | [Thunder \- From "Ryan's World the Movie: Titan Universe Adventure](https://open.spotify.com/track/7xW5u2nVlP3CJpUjXYv494) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Thunder \(From "Ryan's World the Movie: Titan Universe Adventure"\)](https://open.spotify.com/album/08ZPn9eysoME0txaUpYVEc) | 2:13 |
-| 30 | [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 |
+| 30 | [Steal The Show](https://open.spotify.com/track/0SccFtYdj75y6lL2OW10Cf) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Elemental \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV) | 3:12 |
 | 31 | [Then There Was You](https://open.spotify.com/track/1Mm6L0vPuEnGVxYwyVb1iB) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [The Garfield Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Qx3QHgSCGYIV1iA5VnBI7) | 2:42 |
 | 32 | [Life Is Sweeter](https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB) | [Descendants – Cast](https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants: The Rise of Red \(Original Soundtrack\)](https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK) | 3:38 |
 | 33 | [Un Poco Loco](https://open.spotify.com/track/0OFknyqxmSQ42SoKxWVTok) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Gael Garcia Bernal](https://open.spotify.com/artist/09oR0uKhqwScsKa2eUK97p) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 1:52 |

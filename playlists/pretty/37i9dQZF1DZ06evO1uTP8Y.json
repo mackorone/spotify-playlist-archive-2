@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 14103,
+  "num_followers": 14122,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aht6AAAAAAC3ol0Qri6jW0LjlzcLCefm",
+  "snapshot_id": "ahzLgAAAAAC6wrvxNeoPKMT4vTxg5GpT",
   "tracks": [
     {
       "added_at": null,
@@ -235,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/5gqbbNfl0GtuK2Tl0tNwFy"
+        "name": "Love is the New Gangsta",
+        "url": "https://open.spotify.com/album/0P7rfrcXTzQwUR9q1nTDpq"
       },
       "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
         {
           "name": "Odeal",
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/2AsdsBTAtp5EckmvsbUKtH"
+      "duration_ms": 182173,
+      "name": "On Me (with Odeal)",
+      "url": "https://open.spotify.com/track/6JoEoLh7ZS7Yx2DTnaPA9A"
     },
     {
       "added_at": null,
@@ -299,6 +303,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/5gqbbNfl0GtuK2Tl0tNwFy"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/2AsdsBTAtp5EckmvsbUKtH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thoughts I Never Said",
+        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Fine By Myself",
+      "url": "https://open.spotify.com/track/6wPAtoGq4fvAHALzbgEjFP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
       },
@@ -323,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thoughts I Never Said",
-        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Fine By Myself",
-      "url": "https://open.spotify.com/track/6wPAtoGq4fvAHALzbgEjFP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lustropolis",
         "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 168312,
       "name": "SHOWBIZ",
       "url": "https://open.spotify.com/track/0udu5vXi5t7T8696NPpBgp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love is the New Gangsta",
-        "url": "https://open.spotify.com/album/0P7rfrcXTzQwUR9q1nTDpq"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 182173,
-      "name": "On Me (with Odeal)",
-      "url": "https://open.spotify.com/track/6JoEoLh7ZS7Yx2DTnaPA9A"
     },
     {
       "added_at": null,

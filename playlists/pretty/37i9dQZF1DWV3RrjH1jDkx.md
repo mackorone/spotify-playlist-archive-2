@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Makosir & Ari Bajgora, Bargee & Ella Tiritiello feat\. Pikekyss, Sval og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,553 likes - 98 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,545 likes - 98 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 94 | [shadow](https://open.spotify.com/track/6Dt9QUVxo96xAqAqmOGini) | [C · AYA](https://open.spotify.com/artist/0QsR24G5WuiuAAELd3OCgy) | [shadow](https://open.spotify.com/album/544Wg8ZI40O7ZE8ISJcNGM) | 3:22 |
 | 95 | [Ready, Kick It](https://open.spotify.com/track/4ZqyRBnQXJYYvuI1lukrAV) | [Anna\-My](https://open.spotify.com/artist/2oFqfauPwcvRjCKfsltyh9) | [Ready, Kick It](https://open.spotify.com/album/4iT27hkOiYc5BVMhVGNaLI) | 3:30 |
 | 96 | [Love Tonight](https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Love Tonight](https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz) | 3:30 |
-| 97 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
+| 97 | [Thistle](https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Thistle](https://open.spotify.com/album/0FrjVw18w2bQgPybwL0DvP) | 3:55 |
 | 98 | [Torture of the Heart](https://open.spotify.com/track/0NutjkZZwOyZKLViHN6BY5) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Torture of the Heart](https://open.spotify.com/album/48NX8QQxqYKR5mK11evUBi) | 3:22 |
 
 Snapshot ID: `AAAAAG5/RPP1jB+A/fgiriQ2+K01ICCU`

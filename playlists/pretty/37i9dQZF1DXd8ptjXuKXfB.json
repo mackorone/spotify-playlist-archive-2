@@ -1,12 +1,12 @@
 {
   "description": "A legmen\u0151bb \u00e9s legtrendibb dalok egy helyen \ud83d\udd25\ud83d\udd25\ud83d\udd25",
-  "num_followers": 32407,
+  "num_followers": 32410,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC5PC8f4vWHz8kzFPDCunzXVkG0t",
+  "snapshot_id": "AAAAALIZ1vfWB42eRI/mRYwrD4wxw5Q3",
   "tracks": [
     {
       "added_at": "2026-05-25 12:59:35",
@@ -527,6 +527,22 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
+        "name": "S\u00d6T\u00c9T",
+        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 144203,
+      "name": "S\u00d6T\u00c9T",
+      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
         "name": "BULLSHIT",
         "url": "https://open.spotify.com/album/5wI6CDu9oxHKQnSarrDiVW"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 138947,
       "name": "BULLSHIT",
       "url": "https://open.spotify.com/track/2nE0BjX390DT47ni4HRkuT"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
-        "name": "S\u00d6T\u00c9T",
-        "url": "https://open.spotify.com/album/5OGJpFmfbmdUyWGF3PiA5z"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 144203,
-      "name": "S\u00d6T\u00c9T",
-      "url": "https://open.spotify.com/track/68SnGU5Oa3SEV7y8w1L9bk"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "A MASZK",
-        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
-      },
-      "artists": [
-        {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
-        },
-        {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
-        }
-      ],
-      "duration_ms": 145531,
-      "name": "8",
-      "url": "https://open.spotify.com/track/19eAMzR3dZZVdPMfCkU1Wb"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
         "name": "Csurran, cseppen",
         "url": "https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 149352,
       "name": "Gate Closed",
       "url": "https://open.spotify.com/track/4pPGHHybZH45ETSGROCMwg"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
+        "name": "A MASZK",
+        "url": "https://open.spotify.com/album/7GAIOSkRnnTyYnoziR7I1y"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+        }
+      ],
+      "duration_ms": 145531,
+      "name": "8",
+      "url": "https://open.spotify.com/track/19eAMzR3dZZVdPMfCkU1Wb"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "xXx",
-        "url": "https://open.spotify.com/album/7rV0GBVUtPdsLHSpcmnvuX"
+        "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
+        "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
       },
       "artists": [
         {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
         }
       ],
-      "duration_ms": 229894,
-      "name": "xXx",
-      "url": "https://open.spotify.com/track/2TakLZRzWUxCPWpoXlVvj5"
+      "duration_ms": 174843,
+      "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
+      "url": "https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
-        "url": "https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b"
+        "name": "xXx",
+        "url": "https://open.spotify.com/album/7rV0GBVUtPdsLHSpcmnvuX"
       },
       "artists": [
         {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
         }
       ],
-      "duration_ms": 174843,
-      "name": "REND\u0150R B\u00c1CSI, K\u00c9REM",
-      "url": "https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP"
+      "duration_ms": 229894,
+      "name": "xXx",
+      "url": "https://open.spotify.com/track/2TakLZRzWUxCPWpoXlVvj5"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -803,6 +803,22 @@
       "duration_ms": 191707,
       "name": "SZAR AZ \u00c9LET",
       "url": "https://open.spotify.com/track/3jsbWC8B4zKp45oeXiUnLP"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
+        "name": "elterel\u00e9s",
+        "url": "https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "duration_ms": 168953,
+      "name": "erotika",
+      "url": "https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -843,22 +859,6 @@
       "duration_ms": 178823,
       "name": "Midnight (The Hanging Tree)",
       "url": "https://open.spotify.com/track/38MbUy2C0FLv6exayPlImu"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
-        "name": "elterel\u00e9s",
-        "url": "https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc"
-      },
-      "artists": [
-        {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
-        }
-      ],
-      "duration_ms": 168953,
-      "name": "erotika",
-      "url": "https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "BE VAGYOK Z\u00c1RVA",
-        "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        }
-      ],
-      "duration_ms": 131779,
-      "name": "BE VAGYOK Z\u00c1RVA",
-      "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
         "name": "Besz\u00edvom",
         "url": "https://open.spotify.com/album/4yAG1pxLUJ6MVVjfWvCAeb"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 176463,
       "name": "Besz\u00edvom",
       "url": "https://open.spotify.com/track/76rWiHUfPWXAxgWVVP5lyi"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
+        "name": "BE VAGYOK Z\u00c1RVA",
+        "url": "https://open.spotify.com/album/7EUW3MZBp2wgcUQYuPnHb5"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        }
+      ],
+      "duration_ms": 131779,
+      "name": "BE VAGYOK Z\u00c1RVA",
+      "url": "https://open.spotify.com/track/7ovp4mzdzQJHTrRiTyaaAY"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/08o9icfk6CXtYrfJ39W2im"
-      },
-      "artists": [
-        {
-          "name": "BSW",
-          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
-        }
-      ],
-      "duration_ms": 132812,
-      "name": "COLD",
-      "url": "https://open.spotify.com/track/17AsJZ1jvgJtfYqVd7xPua"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
         "name": "Suttog a sz\u00e9l",
         "url": "https://open.spotify.com/album/4IxmvNpvwBFC8vj1JVl9qY"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "hungarian mambo",
-        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/08o9icfk6CXtYrfJ39W2im"
       },
       "artists": [
         {
-          "name": "ByeAlex \u00e9s a Slepp",
-          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+          "name": "BSW",
+          "url": "https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA"
         }
       ],
-      "duration_ms": 195111,
-      "name": "hungarian mambo",
-      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
+      "duration_ms": 132812,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/17AsJZ1jvgJtfYqVd7xPua"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
+        "name": "hungarian mambo",
+        "url": "https://open.spotify.com/album/4y2M44GwVTymRDOryRkyXe"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "duration_ms": 195111,
+      "name": "hungarian mambo",
+      "url": "https://open.spotify.com/track/5sTAUXDj9tEQXMBqrA8HH9"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/0PZftC8lqjmTANjYRfGW9R"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 137388,
       "name": "Passenger Princess",
       "url": "https://open.spotify.com/track/030Ndm2tv9gonGnjXz8CFl"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
+        "name": "STRESSZ",
+        "url": "https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ"
+      },
+      "artists": [
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+        }
+      ],
+      "duration_ms": 168738,
+      "name": "STRESSZ",
+      "url": "https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "STRESSZ",
-        "url": "https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ"
-      },
-      "artists": [
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
-        }
-      ],
-      "duration_ms": 168738,
-      "name": "STRESSZ",
-      "url": "https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
         "name": "Demo",
         "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
       },
@@ -1227,6 +1227,38 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
+        "name": "Bad Boyz",
+        "url": "https://open.spotify.com/album/2mmhWbYDMbtr24xzCO5Z0U"
+      },
+      "artists": [
+        {
+          "name": "Burai",
+          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
+        },
+        {
+          "name": "mollywood",
+          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
+        },
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
+        },
+        {
+          "name": "Goore",
+          "url": "https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp"
+        },
+        {
+          "name": "Kretz",
+          "url": "https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Bad Boyz",
+      "url": "https://open.spotify.com/track/1hu77lKSi2nViKzWsAJJzY"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
         "name": "MI B\u00c1NT",
         "url": "https://open.spotify.com/album/4H77WxRwlo58BjVB5cNCNH"
       },
@@ -1239,38 +1271,6 @@
       "duration_ms": 270000,
       "name": "MI B\u00c1NT",
       "url": "https://open.spotify.com/track/4M28Of5b7EG3ECpmqtBZt0"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
-        "name": "SeanPaul",
-        "url": "https://open.spotify.com/album/5DA2IM6GgkiaZ0uCPQmRiK"
-      },
-      "artists": [
-        {
-          "name": "Burai",
-          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
-        },
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
-        },
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        },
-        {
-          "name": "Goore",
-          "url": "https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp"
-        },
-        {
-          "name": "Kretz",
-          "url": "https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "SeanPaul",
-      "url": "https://open.spotify.com/track/0eod6RF1GCPzEZGVoSAkpY"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -1315,18 +1315,50 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "FREY TIMI",
-        "url": "https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k"
+        "name": "BOTR\u00c1NY",
+        "url": "https://open.spotify.com/album/68lXuKf6ADPkHX8nqAtUyU"
       },
       "artists": [
         {
-          "name": "L.L. Junior",
-          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
+          "name": "VINI",
+          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
         }
       ],
-      "duration_ms": 155214,
-      "name": "FREY TIMI",
-      "url": "https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x"
+      "duration_ms": 146666,
+      "name": "BOTR\u00c1NY",
+      "url": "https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF"
+    },
+    {
+      "added_at": "2026-05-25 12:59:35",
+      "album": {
+        "name": "SeanPaul",
+        "url": "https://open.spotify.com/album/5DA2IM6GgkiaZ0uCPQmRiK"
+      },
+      "artists": [
+        {
+          "name": "Burai",
+          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
+        },
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
+        },
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        },
+        {
+          "name": "Goore",
+          "url": "https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp"
+        },
+        {
+          "name": "Kretz",
+          "url": "https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "SeanPaul",
+      "url": "https://open.spotify.com/track/0eod6RF1GCPzEZGVoSAkpY"
     },
     {
       "added_at": "2026-05-25 12:59:35",
@@ -1351,38 +1383,6 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "Bad Boyz",
-        "url": "https://open.spotify.com/album/2mmhWbYDMbtr24xzCO5Z0U"
-      },
-      "artists": [
-        {
-          "name": "Burai",
-          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
-        },
-        {
-          "name": "mollywood",
-          "url": "https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP"
-        },
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
-        },
-        {
-          "name": "Goore",
-          "url": "https://open.spotify.com/artist/2yQrzABV9ELMOmxTkOWKqp"
-        },
-        {
-          "name": "Kretz",
-          "url": "https://open.spotify.com/artist/3ntgx2xQPmbD4cj0YFGTxd"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Bad Boyz",
-      "url": "https://open.spotify.com/track/1hu77lKSi2nViKzWsAJJzY"
-    },
-    {
-      "added_at": "2026-05-25 12:59:35",
-      "album": {
         "name": "EXT\u00c1ZIS",
         "url": "https://open.spotify.com/album/57tS8G2oP8FAFzuczfb1V5"
       },
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-05-25 12:59:35",
       "album": {
-        "name": "BOTR\u00c1NY",
-        "url": "https://open.spotify.com/album/68lXuKf6ADPkHX8nqAtUyU"
+        "name": "FREY TIMI",
+        "url": "https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k"
       },
       "artists": [
         {
-          "name": "VINI",
-          "url": "https://open.spotify.com/artist/7Ac0uxdCzBBRgjbtel2bbV"
+          "name": "L.L. Junior",
+          "url": "https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O"
         }
       ],
-      "duration_ms": 146666,
-      "name": "BOTR\u00c1NY",
-      "url": "https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF"
+      "duration_ms": 155214,
+      "name": "FREY TIMI",
+      "url": "https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x"
     },
     {
       "added_at": "2026-05-25 12:59:35",

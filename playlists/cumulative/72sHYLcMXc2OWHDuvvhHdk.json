@@ -961,6 +961,32 @@
     },
     {
       "album": {
+        "name": "Afro Mestizo",
+        "url": "https://open.spotify.com/album/3kPwfkHcbzcnJK9zNRmmrb"
+      },
+      "artists": [
+        {
+          "name": "I Solisti Veneti",
+          "url": "https://open.spotify.com/artist/7kOmn7bXQfCMkPzq3ATXa4"
+        },
+        {
+          "name": "Amilcar Soto Rodriguez",
+          "url": "https://open.spotify.com/artist/7aVBBOChhRQMFKs3u3DGV6"
+        },
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389004,
+      "name": "Afro Mestizo - Extended",
+      "url": "https://open.spotify.com/track/2UFrXmPwgFhyFYi7Fje02f"
+    },
+    {
+      "album": {
         "name": "After Later",
         "url": "https://open.spotify.com/album/7kePzTFTrj8vofokbAnJ4D"
       },
@@ -1778,6 +1804,24 @@
       "duration_ms": 254505,
       "name": "ALTITUDE",
       "url": "https://open.spotify.com/track/5ulFlD76ImxavQgYSUwWyj"
+    },
+    {
+      "album": {
+        "name": "House Star",
+        "url": "https://open.spotify.com/album/67cjkHorallGw6UJ9tVGwl"
+      },
+      "artists": [
+        {
+          "name": "Gr!t",
+          "url": "https://open.spotify.com/artist/3Wm8pFKXhnyxtVlW4npip2"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408740,
+      "name": "Always The Best",
+      "url": "https://open.spotify.com/track/0OXj73SVPdLAllhoPa0tVw"
     },
     {
       "album": {
@@ -13349,6 +13393,24 @@
     },
     {
       "album": {
+        "name": "Get Comfortable",
+        "url": "https://open.spotify.com/album/3eZfGFn4labgKTBNKZmfZu"
+      },
+      "artists": [
+        {
+          "name": "Your Endless Soundtrack",
+          "url": "https://open.spotify.com/artist/7ojWe3rbS4BewvbDDwIQQt"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335699,
+      "name": "Get Comfortable",
+      "url": "https://open.spotify.com/track/3oGRRDs7GWxwCmHdIa2aQj"
+    },
+    {
+      "album": {
         "name": "Forever, Technically",
         "url": "https://open.spotify.com/album/4UYqvaQc1g6jTpUIK1Edjt"
       },
@@ -21063,6 +21125,24 @@
     },
     {
       "album": {
+        "name": "Layers of Self",
+        "url": "https://open.spotify.com/album/001EJc3HrnRW1ly3rNWpUC"
+      },
+      "artists": [
+        {
+          "name": "Dvashest'",
+          "url": "https://open.spotify.com/artist/3wI1yOAEbDg7TufKBbXxBg"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230163,
+      "name": "Layers of Self",
+      "url": "https://open.spotify.com/track/4P9aUEnU3xizbzm8HDzEmi"
+    },
+    {
+      "album": {
         "name": "Le case dei vecchi",
         "url": "https://open.spotify.com/album/5xvpmq8noWbBFE5fVAqEQq"
       },
@@ -21758,6 +21838,24 @@
       "duration_ms": 265029,
       "name": "Lilac Oil",
       "url": "https://open.spotify.com/track/2SckxctBDFyfpZbgpsKwJN"
+    },
+    {
+      "album": {
+        "name": "The King and the Sparrow",
+        "url": "https://open.spotify.com/album/7g1LueKiCAtBdEanwL1imW"
+      },
+      "artists": [
+        {
+          "name": "Arn-Identified Flying Objects and Alien Friends",
+          "url": "https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175506,
+      "name": "Linden and Elm Trees",
+      "url": "https://open.spotify.com/track/0DccXXD6FKHsroZzn1d4Ze"
     },
     {
       "album": {
@@ -27609,6 +27707,24 @@
     },
     {
       "album": {
+        "name": "Forgotten Again",
+        "url": "https://open.spotify.com/album/3awgdFvC3bRpA8M27E0ZpN"
+      },
+      "artists": [
+        {
+          "name": "Peter Martin",
+          "url": "https://open.spotify.com/artist/1MUQtymnpcW54GOwi9prRO"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218514,
+      "name": "Other People's Dreams",
+      "url": "https://open.spotify.com/track/07xPN7atNFx5JRwh8Qmt75"
+    },
+    {
+      "album": {
         "name": "THE DAGG SASSIONS",
         "url": "https://open.spotify.com/album/70xCBlVEuQPUNgFQfmCauK"
       },
@@ -30224,6 +30340,24 @@
       "duration_ms": 160604,
       "name": "Rebuild",
       "url": "https://open.spotify.com/track/3FdXkEjKCsfj3clRLLd5gF"
+    },
+    {
+      "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/5ccVYt3JkKLCy4pDjUkxBS"
+      },
+      "artists": [
+        {
+          "name": "Silent Rogues",
+          "url": "https://open.spotify.com/artist/58dvfuHJwLQ6xENplkiRaQ"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262171,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/2iIGXijejENkrfiYU8EphU"
     },
     {
       "album": {
@@ -35284,6 +35418,24 @@
       "duration_ms": 181576,
       "name": "Sunset Chaser",
       "url": "https://open.spotify.com/track/3WRh5uKhLCreBcVZJkrq8C"
+    },
+    {
+      "album": {
+        "name": "SUNSET RIDER",
+        "url": "https://open.spotify.com/album/1WnIYAhQnakAkKXnigDDfG"
+      },
+      "artists": [
+        {
+          "name": "YOS JAMES",
+          "url": "https://open.spotify.com/artist/6iQ8xFB2QZhLyD3SjWLFn2"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239600,
+      "name": "SUNSET RIDER",
+      "url": "https://open.spotify.com/track/1ZicbVbmBAAQ0JgeKXQ4mw"
     },
     {
       "album": {

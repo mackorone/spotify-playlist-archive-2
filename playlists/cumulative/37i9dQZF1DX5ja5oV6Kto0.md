@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Deto Black
 
-1,091 songs - 2 day 4 hr 43 min
+1,092 songs - 2 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [DRAMA QUEEN](https://open.spotify.com/track/51MaFLZUzEE2mU5F4pSIZh) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Denim](https://open.spotify.com/album/38r3tXAVmVr8MpbFWUWEnG) | 2:11 | 2022-09-15 | 2022-10-14 |
 | [DREAM TO REALITY \- Tonee's Version](https://open.spotify.com/track/0dYM26rogGjpWiD02eQKHK) | [Tonee C](https://open.spotify.com/artist/5Yst8ocYJuFir5d09eNFj8), [Bry Bandz](https://open.spotify.com/artist/5ExT2UsOcCNFbNugKG48dO), [Hamsa Illamina](https://open.spotify.com/artist/29h13Z7HtuG6526CqOMnVu) | [50 SHADES BEST OF](https://open.spotify.com/album/1AU4P24iZbZskXXdRTG2QI) | 2:10 | 2024-03-15 | 2024-04-05 |
 | [Drop Off](https://open.spotify.com/track/38bgf6do56GuZQZfBnKfH3) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Drop Off](https://open.spotify.com/album/44B8aoG9cCvnb4bmLCheap) | 2:32 | 2022-12-08 | 2023-01-07 |
-| [DUA PA](https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [DUA PA](https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or) | 2:06 | 2026-03-06 |  |
+| [DUA PA](https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [DUA PA](https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or) | 2:06 | 2026-03-06 | 2026-06-03 |
 | [Dub Experiance](https://open.spotify.com/track/14QRI6RvmHaXvtaIo9RDBz) | [King Tubby](https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7) | [Dub From The Roots](https://open.spotify.com/album/1dlblPBgyeZ6F28MRXSWYV) | 3:40 | 2024-03-21 | 2024-03-25 |
 | [duct tape](https://open.spotify.com/track/1Dv1UfnB60vW6LahqDQhZW) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [duct tape](https://open.spotify.com/album/1DZF4Zw6HUTDoPk9bqqPQX) | 2:45 | 2023-09-21 | 2023-11-03 |
 | [Dumb](https://open.spotify.com/track/0PFx2A7OrtPGVMbelKt2GS) | [Noir](https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4) | [Dumb](https://open.spotify.com/album/1Mt0hkW325LIAoeBO8Loue) | 2:45 | 2025-08-15 | 2026-04-03 |
@@ -569,6 +569,7 @@
 | [London Bridge](https://open.spotify.com/track/5DyKBJH9Ycqhj9RNigfWCk) | [Merry\-Lynn](https://open.spotify.com/artist/5SX1BNsF4WtgumEhJ2B9o7) | [London Bridge](https://open.spotify.com/album/1kjV9FTE7BIzpfFW4Yp1fC) | 2:18 | 2022-04-07 | 2022-07-01 |
 | [London Girl](https://open.spotify.com/track/16gePMnstRp7cVNeHTT7cP) | [M3lon](https://open.spotify.com/artist/1VLCUqqGqOM1tL59axRUNf), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [London Girl](https://open.spotify.com/album/2uyF33o6b18qEYofn0wUju) | 2:14 | 2025-04-04 | 2026-03-03 |
 | [Lonely? \(Come Along\)](https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Lonely? \(Come Along\)](https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA) | 3:44 | 2024-07-19 | 2025-04-11 |
+| [Lose Control](https://open.spotify.com/track/2wuUcvmzvPoAIYlTVDTvSI) | [Dream Wayve](https://open.spotify.com/artist/0YKrG9B13uPpItvUakN3wh), [Jxrry](https://open.spotify.com/artist/3rGXvSLdzHeBycB7NBe8of) | [Lose Control](https://open.spotify.com/album/605H5MX8ZGtlEC5dX4IcYn) | 2:46 | 2026-05-29 |  |
 | [Lost My Mind](https://open.spotify.com/track/6XUV1VSMXuAfQacsy4AORj) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Lost My Mind](https://open.spotify.com/album/2OKt1XZRrtqkpf649qNbzf) | 3:02 | 2025-09-19 | 2025-11-07 |
 | [lost my mind in the moment](https://open.spotify.com/track/3UOrFt1Iswr6QHSw9R1sVf) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [lost my mind in the moment](https://open.spotify.com/album/1HNl8ClkDQIsmEszfKOAWE) | 2:58 | 2025-08-15 | 2025-10-13 |
 | [Love](https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Love](https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg) | 2:40 | 2024-07-12 | 2025-04-11 |

@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,100 songs - 14 day 4 hr 53 min
+6,102 songs - 14 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3977,6 +3977,7 @@
 | [PARABOLIC!](https://open.spotify.com/track/3pm0lUOKsphN8A3VLZivuS) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [PARABOLIC!](https://open.spotify.com/album/0N4cV7R9R0fXq4ZQBEit4B) | 2:38 | 2023-07-20 |  |
 | [Paradise](https://open.spotify.com/track/5HkY9KLkbmznc12MEH1D7q) | [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ), [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs) | [Paradise](https://open.spotify.com/album/3246zVCquJgyAOOZMDmTpV) | 3:06 | 2021-08-13 | 2021-08-29 |
 | [Paradise](https://open.spotify.com/track/65M9PAYF23vSHVmyvuPsPq) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Paradise](https://open.spotify.com/album/5w3app9uYtKZFRy1XOmYUt) | 2:23 | 2020-03-12 | 2020-04-04 |
+| [Paradise](https://open.spotify.com/track/5HQc4F8Bgh7ldqtm4zJIGu) | [Human Barbie](https://open.spotify.com/artist/1WbcvNHiOnvchZwd7gbzWv) | [Paradise](https://open.spotify.com/album/5EwGBWdGFFbDDwD9xm7jXj) | 3:16 | 2026-06-02 |  |
 | [Paradise](https://open.spotify.com/track/0UR6lUDAW59mTVNJZY7PA4) | [Macedo](https://open.spotify.com/artist/4hQT8LjL7j5IlWFQG5Z9kG) | [Paradise](https://open.spotify.com/album/2Ad64wHC5FYro56s5M5UU0) | 3:52 | 2023-06-02 | 2023-06-23 |
 | [Paradise](https://open.spotify.com/track/7Jp8TZMi7o5SG6fPfXUBG0) | [The Bergamot](https://open.spotify.com/artist/4wmpJsWHVtigpGrGya1TQt) | [Paradise](https://open.spotify.com/album/46UhCQy52hr3uYKpiwH8B2) | 3:52 | 2022-08-20 | 2022-09-09 |
 | [Paradise \- O.I.AM Mix](https://open.spotify.com/track/1Xfo5WQXnzzhbtKFqErGuA) | [AZSH](https://open.spotify.com/artist/6SJWwH5V8b6FYeISMPY13u) | [Paradise \(O.I.AM Mix\)](https://open.spotify.com/album/3UMTTYlsiWmoudw2MwfCeJ) | 2:46 | 2022-09-23 | 2022-10-09 |
@@ -5290,6 +5291,7 @@
 | [The Truth](https://open.spotify.com/track/3CWlxsfKUtCcFl4GvUKUme) | [Lil Flower Nasti](https://open.spotify.com/artist/1tJPjknR9uXKSOfZ89KnAs) | [The Evolution of Sarah](https://open.spotify.com/album/1TGwy2m7YShaJb8ECAtT7k) | 3:34 | 2024-10-16 | 2024-10-28 |
 | [The Truth](https://open.spotify.com/track/17ybzhdF7J5r7r9VTOCw1r) | [Samantha Leon](https://open.spotify.com/artist/2aRTIBInENSS7XoxsqyWmk), [Kon Boogie](https://open.spotify.com/artist/6RsnRHy5qbXfKbtr1GjI2c) | [Mystic Lady](https://open.spotify.com/album/2TG3Ki0MTGyy2uGVGJsEU6) | 4:56 | 2022-07-15 | 2022-07-31 |
 | [The Unicorn](https://open.spotify.com/track/7DAwQLjQ1nPDP0qwWY6oDR) | [Tele Novella](https://open.spotify.com/artist/3yxZJMBn5A2OMEGO7Tvg72) | [The Unicorn](https://open.spotify.com/album/0aQQ4WqXMtDZbsZQslfAFR) | 3:52 | 2023-09-16 | 2023-12-14 |
+| [The Wave](https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [The Wave](https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj) | 3:22 | 2026-06-02 |  |
 | [The Way I Like You](https://open.spotify.com/track/3wEaTW5RgXlE56OeR2n2Sx) | [Sadie](https://open.spotify.com/artist/0KpZNcM3Ir90XGhfHGQXg8) | [The Way I Like You](https://open.spotify.com/album/6shuCr9dyL4gTSX05NntFv) | 3:48 | 2021-04-24 | 2021-05-09 |
 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 | 2025-05-03 | 2025-06-08 |
 | [The Way I See You](https://open.spotify.com/track/77zC6BlIBWEK2nOW0z2IjD) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Wannabe Cowboy](https://open.spotify.com/album/7uyKlQgp5xON3bF0NCsp7o) | 2:51 | 2024-08-09 | 2024-08-20 |

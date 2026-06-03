@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Janire.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Aldhara.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 149970,
       "name": "1sue\u00f1o+",
       "url": "https://open.spotify.com/track/10m4jLxnH7M8uqWqUjT8Bt"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 164307,
       "name": "2u",
       "url": "https://open.spotify.com/track/3jJMJNiWbAdGu1ArlaKCWX"
@@ -24409,6 +24409,24 @@
     },
     {
       "album": {
+        "name": "De M\u00ed",
+        "url": "https://open.spotify.com/album/7zkUfmoriLrBjeocAxuud3"
+      },
+      "artists": [
+        {
+          "name": "Claudia Zuazo",
+          "url": "https://open.spotify.com/artist/38PTakSfrLtihwgUbgnKZV"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204276,
+      "name": "Casiopea",
+      "url": "https://open.spotify.com/track/1EWXpUQSPpkJjQYkliZl0t"
+    },
+    {
+      "album": {
         "name": "CASIPUEDOOLERTE",
         "url": "https://open.spotify.com/album/3Su6riSp1IFOy2BXShjlmQ"
       },
@@ -45906,7 +45924,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 180000,
       "name": "EL MOMENT JUST",
       "url": "https://open.spotify.com/track/7EKLL9ePug8TK5uZ16kOu6"
@@ -49861,6 +49879,24 @@
     },
     {
       "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/6cWoNw2eq1qfByj4WNGUAj"
+      },
+      "artists": [
+        {
+          "name": "Blu Boi",
+          "url": "https://open.spotify.com/artist/1AQkOwrwQg43nUandgPhAK"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/3d1o888aJYCCOltqv78tiY"
+    },
+    {
+      "album": {
         "name": "CONSECUENCIAS DE UN S\u00c1BADO NOCHE",
         "url": "https://open.spotify.com/album/4oB0Z5BGV64xDKE91TZU6o"
       },
@@ -50724,6 +50760,24 @@
       "duration_ms": 175627,
       "name": "Eres t\u00fa",
       "url": "https://open.spotify.com/track/2Himk0PA7I56M42CTiesUG"
+    },
+    {
+      "album": {
+        "name": "Eres un Criminal",
+        "url": "https://open.spotify.com/album/1lOGbn8QN7F0k0Qym9Lmmm"
+      },
+      "artists": [
+        {
+          "name": "Tristicis",
+          "url": "https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209454,
+      "name": "Eres un Criminal",
+      "url": "https://open.spotify.com/track/2Pa22PUyNtcChB5W5Cr0vr"
     },
     {
       "album": {
@@ -78350,7 +78404,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 134798,
       "name": "Ll\u00e9vame a sitios",
       "url": "https://open.spotify.com/track/3a4flrrTEDzXAylIwalSgL"
@@ -95234,7 +95288,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 186400,
       "name": "MVP",
       "url": "https://open.spotify.com/track/49C4VGzDSUe2trDe7lSRNM"
@@ -104934,6 +104988,24 @@
       "duration_ms": 164000,
       "name": "nomeolvides",
       "url": "https://open.spotify.com/track/5thVWGtNUjD4lWN0gQwFGj"
+    },
+    {
+      "album": {
+        "name": "Nomeolvides",
+        "url": "https://open.spotify.com/album/4xMft4DKbgB9mRydUWljZm"
+      },
+      "artists": [
+        {
+          "name": "La Jvnta",
+          "url": "https://open.spotify.com/artist/1wHptSDgqHuIBNzx5YbdkH"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184907,
+      "name": "Nomeolvides",
+      "url": "https://open.spotify.com/track/24SIM2FUVu3uypRzZyd5UW"
     },
     {
       "album": {
@@ -129721,6 +129793,24 @@
     },
     {
       "album": {
+        "name": "Seppuku",
+        "url": "https://open.spotify.com/album/5sF4guHoZiYN3scq78ZsLX"
+      },
+      "artists": [
+        {
+          "name": "ron deris",
+          "url": "https://open.spotify.com/artist/14DFX519JNunFcVaKQyVS0"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150573,
+      "name": "Seppuku",
+      "url": "https://open.spotify.com/track/4X7o1MGlgzdUTXKOKWLzjV"
+    },
+    {
+      "album": {
         "name": "Septiembre",
         "url": "https://open.spotify.com/album/5Y4jfFEhnOZPToG5EtMo7p"
       },
@@ -149610,7 +149700,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-03",
       "duration_ms": 171157,
       "name": "Un descaro",
       "url": "https://open.spotify.com/track/1HTP04eOf7HzzJGrOlm79J"
@@ -153976,6 +154066,24 @@
       "duration_ms": 125552,
       "name": "Vestida de Lana",
       "url": "https://open.spotify.com/track/7IjzuAjy7RpHxbVn83dW9J"
+    },
+    {
+      "album": {
+        "name": "vestido/ auroville",
+        "url": "https://open.spotify.com/album/2zzYiGSW3LFL3jwr8nieiO"
+      },
+      "artists": [
+        {
+          "name": "duna",
+          "url": "https://open.spotify.com/artist/0QBq4NHGKMy6Tztcsc30kz"
+        }
+      ],
+      "date_added": "2026-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83999,
+      "name": "vestido",
+      "url": "https://open.spotify.com/track/1TO9JMeQotGUuRk0aMUUUU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Boost your energy with these dance tracks.
 
-760 songs - 1 day 13 hr 48 min
+761 songs - 1 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/track/7xn2WAbQfGjh8Xjs7zEWGf) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Body Talk \(feat\. Clementine Douglas\)](https://open.spotify.com/album/1wLLPmBzS0vlU6ZEqp7NRb) | 2:12 | 2025-01-29 | 2025-03-08 |
 | [Boom](https://open.spotify.com/track/0YwlHzRYRU2LV2gtWklmD5) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Boom](https://open.spotify.com/album/7h9ximIgOSTQFoIlAD2UpI) | 2:19 | 2022-01-07 | 2022-07-11 |
 | [Boost Up](https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK) | 3:31 | 2024-08-16 | 2026-03-14 |
+| [Bootay](https://open.spotify.com/track/1s0xmXddfQzw33uQ7eR0Cu) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Bootay](https://open.spotify.com/album/3zRetCsgHcvLrnEdaRiZsk) | 2:58 | 2026-05-29 |  |
 | [BOOTY PART 2](https://open.spotify.com/track/5B4TBQ8yLhrNbFoUyOB3Ic) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [BODYWORX](https://open.spotify.com/artist/6GIwyYD9kOim8j3M6jt4AM) | [BOOTY PART 2](https://open.spotify.com/album/1n5Wx9PlqyYKZdsbTXoyCS) | 3:21 | 2022-01-07 | 2022-05-06 |
 | [Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf) | 1:58 | 2025-05-23 | 2026-05-16 |
 | [Born Again](https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Born Again](https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7) | 2:38 | 2026-04-17 | 2026-05-22 |
@@ -753,7 +754,7 @@
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-04-29 | 2024-09-14 |
 | [Work Hard, Play Hard](https://open.spotify.com/track/0DFRRAMkEtkJ3nQUuYn5RS) | [Rino](https://open.spotify.com/artist/2dEmGZwc9RpOUnd1LGn7h5), [AZINZA](https://open.spotify.com/artist/4EC7n10Rzc519hpiAVliOm) | [Work Hard, Play Hard](https://open.spotify.com/album/4ZNbwLcnHrsmtzTOyjdtKw) | 2:53 | 2022-05-06 | 2022-05-14 |
 | [Work Your Body](https://open.spotify.com/track/2eUZAef6lJ9hBvw7XeExDf) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Work Your Body](https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii) | 3:06 | 2026-05-15 |  |
-| [World & Back \(feat\. Riko Dan\)](https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [World & Back \(feat\. Riko Dan\)](https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n) | 2:59 | 2026-04-17 |  |
+| [World & Back \(feat\. Riko Dan\)](https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [World & Back \(feat\. Riko Dan\)](https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n) | 2:59 | 2026-04-17 | 2026-06-03 |
 | [Worlds On Fire \(with R3HAB & Au/Ra\)](https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Worlds On Fire \(with R3HAB & Au/Ra\)](https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5) | 2:54 | 2022-07-29 | 2023-04-22 |
 | [X\-Rated](https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [X\-Rated](https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo) | 3:04 | 2025-05-30 | 2026-04-18 |
 | [YEAH](https://open.spotify.com/track/2qlqMa0e422LZyGw1J5for) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [YEAH](https://open.spotify.com/album/3reHnBJbOMrlymwkwYqtEH) | 2:21 | 2025-04-15 | 2026-03-14 |
